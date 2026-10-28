@@ -154,9 +154,11 @@ def passagens_do_alterador(alterador: dict, fonte: dict, maximo: int = 4) -> lis
     diploma original. É o que a sessão B recebe para decidir se o artigo mudou."""
     todos = artigos(corpo((RAIZ / alterador["caminho"]).read_text(encoding="utf-8")))
     numero = fonte["artigo"].split("::")[-1]
+    referencia = fonte["titulo"].split("n.º")[-1].strip()
     escolhidos = [a for a in todos if menciona_artigo(a.texto, numero)]
+    # Em diplomas que alteram muitos regulamentos (portarias do PRODER), primeiro os que falam do diploma original.
+    escolhidos.sort(key=lambda a: not (referencia and referencia in a.texto))
     if not escolhidos:
-        referencia = fonte["titulo"].split("n.º")[-1].strip()
         escolhidos = [a for a in todos if referencia and referencia in a.texto]
     return [{"artigo": a.chave, "epigrafe": a.epigrafe, "texto": a.texto} for a in escolhidos[:maximo]]
 
@@ -195,16 +197,29 @@ def compara(perguntas: list[dict], respostas: Path) -> int:
     por_id = {resposta["id"]: resposta for resposta in ler(respostas)}
     rever = []
     for pergunta in perguntas:
-        b = por_id.get(pergunta["id"])
+        inicio = len(rever)
+        _compara_uma(pergunta, por_id.get(pergunta["id"]), rever)
+        if pergunta.get("revisto"):  # revisão manual: as diferenças de palavras ou de pormenor deixam de ser assinaladas
+            moles = ("números diferentes", "comparar o sentido", "B assinalou")
+            rever[inicio:] = [(i, m) for i, m in rever[inicio:] if not m.startswith(moles)]
+    for ident, motivo in rever:
+        print(f"{ident}: {motivo}")
+    automaticas = len(perguntas) - len({ident for ident, _ in rever})
+    print(f"{automaticas} de {len(perguntas)} pergunta(s) confirmadas automaticamente; {len(rever)} ponto(s) a rever")
+    return 0
+
+
+def _compara_uma(pergunta: dict, b: dict | None, rever: list) -> None:
+    if True:
         if b is None:
             rever.append((pergunta["id"], "sem resposta da sessão B"))
-            continue
+            return
         if b.get("ambigua") or (b.get("depende_de_outro") and not pergunta.get("depende_de_outro") and pergunta["tipo"] != "composta"):
             rever.append((pergunta["id"], f"B assinalou: {b.get('notas', '')}"))
         if pergunta["tipo"] == "sem_resposta":
             if b.get("responde"):
                 rever.append((pergunta["id"], "B respondeu a uma pergunta sem resposta"))
-            continue
+            return
         if pergunta["tipo"] == "premissa_errada" and not b.get("premissa_errada"):
             rever.append((pergunta["id"], "B não assinalou a premissa errada"))
         if pergunta["tipo"] != "premissa_errada" and b.get("premissa_errada"):
@@ -213,21 +228,16 @@ def compara(perguntas: list[dict], respostas: Path) -> int:
             rever.append((pergunta["id"], f"alterado: A={pergunta['alterado']} B={b.get('alterado')}; {b.get('notas', '')}"))
         if not b.get("responde"):
             rever.append((pergunta["id"], "B não encontrou resposta no artigo"))
-            continue
+            return
         if pergunta["tipo"] == "revogada":
             if "revog" not in (b.get("resposta") or "").lower():
                 rever.append((pergunta["id"], "B não indicou que o diploma está revogado"))
-            continue
+            return
         esperados = numeros(pergunta["resposta"]) - numeros(pergunta.get("premissa", ""))
         if esperados - numeros(b.get("resposta")):
             rever.append((pergunta["id"], f"números diferentes: A={pergunta['resposta']!r} B={b.get('resposta')!r}"))
         elif not esperados and not mesmo_sentido(pergunta["resposta"], b.get("resposta")):
             rever.append((pergunta["id"], f"comparar o sentido: A={pergunta['resposta']!r} B={b.get('resposta')!r}"))
-    for ident, motivo in rever:
-        print(f"{ident}: {motivo}")
-    automaticas = len(perguntas) - len({ident for ident, _ in rever})
-    print(f"{automaticas} de {len(perguntas)} pergunta(s) confirmadas automaticamente; {len(rever)} ponto(s) a rever")
-    return 0
 
 
 def escolher(perguntas: list[dict], tipos: str | None, desde: str | None) -> list[dict]:
