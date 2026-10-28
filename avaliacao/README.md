@@ -180,16 +180,16 @@ Precisam do ambiente do projeto (`pip install -e .`) e de `exports/leis-portugal
 
 ## Conjunto difícil (frente C do plano, 28/10/2026)
 
-383 perguntas novas, em cinco tipos que o conjunto anterior não tinha ou tinha pouco. **Medem-se à parte**: não entram nas contas do conjunto de 593, porque são mais difíceis e de natureza diferente. Ficaram abaixo do alvo de cerca de 550 (ver "O que falta").
+380 perguntas novas, em cinco tipos que o conjunto anterior não tinha ou tinha pouco. **Medem-se à parte**: não entram nas contas do conjunto de 593, porque são mais difíceis e de natureza diferente. Ficaram abaixo do alvo de cerca de 550 (ver "O que falta").
 
 | Tipo | Prefixo | Geradas | Confirmadas às cegas na 1.ª ronda | Revistas à mão | Retiradas | Finais | Onde |
 |---|---|---:|---:|---:|---:|---:|---|
 | Texto alterado | `alt-` | 100 | 62 | 38 | 1 | 99 | `perguntas.jsonl` |
-| Compostas (2 a 3 artigos) | `cmp-` | 100 | 56 | 44 | 3 | 97 | `perguntas.jsonl` |
+| Compostas (2 a 3 artigos) | `cmp-` | 100 | 56 | 44 | 6 | 94 | `perguntas.jsonl` |
 | Premissa errada | `pre-` | 50 | 34 | 16 | 0 | 50 | `perguntas.jsonl` |
 | Sem resposta (novas) | `sem-` | 30 | 20 | 10 | 0 | 30 | `perguntas.jsonl` |
 | Reais (novas áreas) | `real-` | 111 | 65 | 46 | 4 | 107 | `privado/perguntas-reais.jsonl` (fora do git) |
-| **Total** | | **391** | **237** | **154** | **8** | **383** | |
+| **Total** | | **391** | **237** | **154** | **11** | **380** | |
 
 - **Texto alterado:** diplomas em vigor alterados por outros e sem consolidação (`version_kind = original`, relação `amended_by`). A pergunta é sobre um artigo e a resposta certa depende de o artigo ter sido alterado: 49 `alterado: true` (a resposta é a redação nova, escrita no diploma alterador) e 50 `alterado: false` (o artigo não mudou, apesar de o diploma ter alterações). Verificou-se no diploma alterador, letra a letra, que o excerto está lá (`alterador.artigo`).
 - **Compostas:** a resposta precisa de 2 ou 3 artigos do mesmo diploma, quase sempre com uma remissão de um para o outro; `fonte.artigos` e `excerto` são listas.
@@ -202,7 +202,7 @@ Precisam do ambiente do projeto (`pip install -e .`) e de `exports/leis-portugal
 - **Entrada incompleta para a sessão B:** nas alteradas em que o alterador é uma portaria que altera muitos regulamentos (as do PRODER), `verifica.py cegas` mostrava a B os artigos errados do alterador; B dizia "não foi alterado" quando A dizia que sim (12 perguntas). Corrigiu-se a escolha das passagens (primeiro as que citam o diploma original) e repetiu-se a verificação dessas 12: B passou a concordar com A.
 - **Respostas de A mais longas do que a de B:** 63 perguntas. Quando as palavras de B estavam contidas na resposta de A, a resposta de A foi encurtada para a de B (ficheiros finais). `resposta_original_a` não se guarda.
 - **Revisão à mão:** nas 94 perguntas (68 públicas, 26 reais) em que a comparação por palavras ainda assinalava diferenças, leu-se a resposta de A e a de B; dizem o mesmo, com mais ou menos pormenor. Ficam com `revisto` e `compara` deixa de as assinalar por palavras ou números (as discordâncias de sentido, de `alterado` e de `premissa_errada` continuam a ser assinaladas).
-- **Retiradas (8):** `alt-069` (a pergunta não diz a categoria de veículo de que depende o limite), `cmp-022`, `cmp-026`, `cmp-031` (A e B respondem a coisas diferentes ou a pergunta junta dois assuntos), `real-211` e `real-248` (B não encontrou a resposta no artigo), `real-230` e `real-296` (o artigo tem condições que a pergunta não refere).
+- **Retiradas (8 na revisão, mais 3 depois):** `alt-069` (a pergunta não diz a categoria de veículo de que depende o limite), `cmp-022`, `cmp-026`, `cmp-031` (A e B respondem a coisas diferentes ou a pergunta junta dois assuntos), `real-211` e `real-248` (B não encontrou a resposta no artigo), `real-230` e `real-296` (o artigo tem condições que a pergunta não refere).
 - **Remetem para outro artigo:** `depende_de_outro` nas perguntas que B marcou assim (sobretudo reais).
 - **Sem resposta:** B recusou as 30.
 
@@ -220,6 +220,14 @@ Respostas de B: `verificacao/respostas-b-dificil-*.jsonl` (alteradas na 1.ª e 2
 ### O que falta
 
 - **Perguntas reais:** 107 em vez de cerca de 300. Estavam fechados ao acesso automático o AIMA, IMT, IAPMEI, ePortugal, DGC, CITE e CNPD; as páginas da Justiça (IRN) e a maior parte das FAQs de empresas não citam artigos; o guia de subsídio de desemprego do ISS é um PDF sem texto extraível sem ferramentas que não estavam disponíveis. Os temas de Estrangeiros e Consumidor ficaram só nas compostas.
-- **Quantidade:** 276 públicas novas e 107 reais, 383 de uma meta de cerca de 550. Falta cerca de 170 reais. As compostas e alteradas atingiram a meta (100 cada, menos as retiradas).
+- **Quantidade:** 273 públicas novas e 107 reais, 380 de uma meta de cerca de 550. Falta cerca de 170 reais. As compostas e alteradas atingiram a meta (100 cada, menos as retiradas).
 - **Termos de reutilização:** não se encontraram nos sítios da ANSR e do ISS; o da ERS só tem política de privacidade. O Portal da Habitação (IHRU) não foi verificado. Por isso as reais continuam fora do git, só com o URL.
 - **Calibração humana** (revisão de cerca de 20 perguntas ao acaso) por fazer.
+
+### Fontes revogadas (28/10/2026)
+
+O acervo marca os artigos revogados com uma nota "Revogado pelo/a …" no fim do artigo, e o texto do artigo pode continuar lá. Uma pergunta literal sobre um artigo assim tem como resposta certa um texto que já não vale.
+
+- **Substituídas 20 literais** (`lit-008`, `011`, `022`, `037`, `052`, `089`, `096`, `098`, `114`, `120`, `125`, `152`, `153`, `154`, `160`, `161`, `194`, `196`, `204`, `232`) por 20 perguntas novas sobre artigos em vigor (`lit-252` a `lit-271`): 12 no mesmo diploma, 8 noutros diplomas tirados com a semente 20261202 de `amostra.py`, quando o diploma não tinha outro artigo utilizável (alguns estavam quase todos revogados, como o Decreto Regulamentar Regional n.º 28/2006/A). Verificação literal e às cegas como as outras: B confirmou 19 à primeira; na `lit-263` a resposta de A tinha mais pormenor do que a de B e ficou com a de B. Ficheiros: `verificacao/entrada-substituicao-literais.jsonl` e `verificacao/respostas-b-substituicao-literais.jsonl`; as notas de cada pergunta dizem qual substituem.
+- **Conjunto difícil:** verificou-se a fonte de todas as perguntas, públicas e reais. Três compostas tinham como fonte artigos revogados do Código do Registo Civil e do NRAU (`cmp-023`, `cmp-029`, `cmp-071`) e foram retiradas; as reais passaram sem alterações. As perguntas temporais e revogadas apontam para artigos revogados por desenho e ficam como estão.
+- **Ficam 730 perguntas em `perguntas.jsonl`** e 243 reais; a procura de fontes revogadas (nota "Revogado pelo/a" ou texto do artigo só "(Revogado)") dá zero nas literais, compostas, premissa errada, sem resposta e reais.
