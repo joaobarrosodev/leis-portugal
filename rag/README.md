@@ -6,20 +6,22 @@ Medido em 27/10/2026, sobre o acervo do commit `3cbc718` e o export de 26/10/202
 
 ## Resumo
 
-Com pesquisa por referência, BM25 e um reranker multilingue local, o artigo certo vem em 1.º lugar em 96% das perguntas literais, 95% das temporais e em todas as revogadas, mas só em 46% das reais. Quando o artigo certo vem, a redação é sempre a da data da pergunta, e as 55 revogadas trazem o aviso de revogação com o diploma revogatório certo.
+Com pesquisa por referência, BM25 e um reranker multilingue local, o artigo certo vem em 1.º lugar em 96% das perguntas literais (sem 20 cujo artigo já está revogado, ver abaixo), 94% das temporais e em todas as revogadas, e em 56% das reais. Quando o artigo certo vem, a redação é sempre a da data da pergunta, e as 55 revogadas trazem o aviso de revogação com o diploma revogatório certo.
 
 | Tipo | n | Artigo certo em 1.º | Nos 5 primeiros | "Não sei" (limiar 3) | Fiabilidade sem LLM (limiar 3) |
 |---|--:|--:|--:|--:|--:|
-| Literais | 250 | 96% | 99,6% | 0% | 96% (240/250) |
-| Temporais | 102 | 95% | 100% | 6% | 98% (94/96) |
+| Literais | 250 | 90% (96% sem as 20 revogadas ²) | 95% | 3% | 93% (226/243) |
+| Temporais | 102 | 94% | 100% | 6% | 98% (94/96) |
 | Revogadas | 55 | 100% | 100% | 0% | 100% (55/55) |
 | Sem resposta | 50 | — | — | 94% | — (3 respondidas, erradas) |
-| Reais (FAQs) | 136 | 46% | 78% | 20% | 52% (57/109) |
-| **Total** | **593** | **84%** ¹ | **94%** ¹ | **13%** | **87% (446/513)** |
+| Reais (FAQs) | 136 | 56% | 78% | 22% | 65% (69/106) |
+| **Total** | **593** | **83%** ¹ | **92%** ¹ | **15%** | **88% (444/503)** |
 
 ¹ Nas 543 perguntas com fonte (sem as 50 sem resposta).
 
-- **Ainda longe dos 95%**: 87% de respostas certas nas dadas, com 13% de "não sei". Sem as reais, 96%; nas reais, 52%.
+² Vinte perguntas literais (`lit-008`, `-011`, `-022`, `-037`, `-052`, `-089`, `-096`, `-098`, `-114`, `-120`, `-125`, `-152`, `-153`, `-154`, `-160`, `-161`, `-194`, `-196`, `-204`, `-232`) foram feitas sobre artigos que o acervo dá hoje como revogados por nota ("Revogado pelo/a …") mas cujo texto o DRE mantém. Desde 28/10/2026 o índice trata esses artigos como revogados (nota de revogação abre redação nova, aviso "Artigo revogado" e prior menor), por isso deixam de ser a resposta: é o comportamento certo e a pergunta é que está errada. Sem elas, a literal é 96% (221/230 respondidas certas), como antes; no total, 90% (439/490).
+
+- **Ainda longe dos 95%**: 88% de respostas certas nas dadas (444/503), com 15% de "não sei". Sem as reais, 94% (375/397); nas reais, 65%. As reais subiram de 52% para 65% com a correção das revogações por nota: "Quantos dias de férias…" deixou de dar o Código do Trabalho de 2003.
 - A "fiabilidade" aqui é um **limite superior sem LLM**: conta como certa a resposta cujo primeiro artigo é o certo e tem o texto em vigor na data. Falta medir o passo do LLM (não havia chave).
 - O limiar 3 do reranker foi escolhido neste mesmo conjunto; é indicativo. A curva completa está abaixo.
 - O conjunto só tem perguntas sobre diplomas consolidados ou nunca alterados, por isso **não mede o maior risco do plano**: os 27 mil diplomas em vigor alterados sem consolidação, em que o sistema citaria texto desatualizado (avisa "texto original; alterado por X", mas a resposta seria a antiga).
@@ -100,17 +102,17 @@ Na primeira vez prepara tudo: o `.venv` com o extra `rag`, o export e o índice 
 
 ### "Não sei" e fiabilidade, sem LLM
 
-Só com as regras da pesquisa (diploma citado que não está no acervo, ano futuro), o sistema diz "não sei" em 10 das 50 sem resposta (as 6 sobre leis que não existem e 4 das 5 sobre o futuro) e responde a quase tudo o resto: fiabilidade de 78% (455/583).
+Só com as regras da pesquisa (diploma citado que não está no acervo, ano futuro), o sistema diz "não sei" em 10 das 50 sem resposta (as 6 sobre leis que não existem e 4 das 5 sobre o futuro) e responde a quase tudo o resto: fiabilidade de 78% (453/582).
 
 Com um limiar na pontuação do reranker para o melhor artigo:
 
 | Limiar | "Não sei" nas que têm resposta | "Não sei" nas sem resposta | Fiabilidade (certas/respondidas) |
 |--:|--:|--:|--:|
-| sem limiar | 0% | 20% | 78% (455/583) |
-| 0 | 1% | 74% | 83% (455/550) |
-| 2 | 3% | 88% | 85% (452/530) |
-| 3 | 6% | 94% | 87% (446/513) |
-| 4 | 12% | 96% | 88% (423/480) |
+| sem limiar | 0% | 22% | 78% (453/582) |
+| 0 | 1% | 72% | 83% (453/549) |
+| 2 | 4% | 86% | 86% (451/526) |
+| 3 | 8% | 94% | 88% (444/503) |
+| 4 | 15% | 94% | 90% (419/467) |
 
 A pontuação do reranker separa bem as perguntas sem resposta, mas pouco os erros das reais: o reranker acha relevante um artigo do diploma errado sobre o mesmo tema. O resto tem de vir do LLM (ler o artigo e ver se responde) e de melhor pesquisa.
 

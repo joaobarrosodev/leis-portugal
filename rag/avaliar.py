@@ -216,15 +216,8 @@ def main(argv: list[str] | None = None) -> int:
         if n % 50 == 0:
             print(f"{n}/{len(perguntas)} ({time.time() - inicio:.0f} s)", file=sys.stderr, flush=True)
 
-    resumo = resumir(linhas)
-    (RESULTADOS / "privado").mkdir(parents=True, exist_ok=True)
     configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm}
-    (RESULTADOS / f"{args.nome}.json").write_text(
-        json.dumps({"configuracao": configuracao, "resumo": resumo}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
-    )
-    with (RESULTADOS / "privado" / f"{args.nome}-detalhe.jsonl").open("w", encoding="utf-8") as f:
-        for linha in linhas:
-            f.write(json.dumps(linha, ensure_ascii=False) + "\n")
+    resumo = guardar(args.nome, configuracao, linhas)
     print(tabela(resumo))
     for tipo in ("revogada",):
         r = resumo.get(tipo)
@@ -235,6 +228,19 @@ def main(argv: list[str] | None = None) -> int:
         print("\n" + curva(linhas, [-6, -4, -2, -1, 0, 1, 2, 3, 4]))
     print(f"\n{time.time() - inicio:.0f} s", file=sys.stderr)
     return 0
+
+
+def guardar(nome: str, configuracao: dict, linhas: list[dict]) -> dict[str, dict]:
+    """Escreve o resumo em `rag/resultados/<nome>.json` e o detalhe em `rag/resultados/privado/<nome>-detalhe.jsonl`."""
+    resumo = resumir(linhas)
+    (RESULTADOS / "privado").mkdir(parents=True, exist_ok=True)
+    (RESULTADOS / f"{nome}.json").write_text(
+        json.dumps({"configuracao": configuracao, "resumo": resumo}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8"
+    )
+    with (RESULTADOS / "privado" / f"{nome}-detalhe.jsonl").open("w", encoding="utf-8") as f:
+        for linha in linhas:
+            f.write(json.dumps(linha, ensure_ascii=False) + "\n")
+    return resumo
 
 
 if __name__ == "__main__":

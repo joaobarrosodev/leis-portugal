@@ -25,7 +25,7 @@ from pathlib import Path
 
 from rag import referencias as refs_mod
 from rag import texto as termos_mod
-from rag.fontes import PASTA_INDICE
+from rag.fontes import PASTA_INDICE, revogado
 
 
 PESOS_BM25 = (2.0, 1.0)  # cabeçalho (diploma, sumário, anexo, epígrafe), texto
@@ -33,7 +33,13 @@ MAX_TERMOS = 24
 PRIOR_CONSOLIDADO = 1.25
 PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
 PRIOR_REPUBLICACAO = 0.6
+PRIOR_ARTIGO_REVOGADO = 0.6
 REVOGADO = ("repealed", "not_in_force")
+_LIGACAO = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+
+
+def _sem_ligacoes(texto: str) -> str:
+    return _LIGACAO.sub(r"\1", texto.strip().removeprefix(">").strip()).rstrip(".")
 
 
 @dataclass
@@ -183,23 +189,27 @@ class Pesquisa:
         pontuacoes = [(i, -s * (1.0 if documentos else self._prior(*info[i][2:]))) for i, s in linhas if self._em_vigor(*info[i][:2], data)]
         return sorted(pontuacoes, key=lambda x: -x[1])[:limite]
 
-    def _prior(self, documento: str, parte: str) -> float:
+    def _prior(self, documento: str, parte: str, artigo_revogado: bool) -> float:
         """Peso da "lei atual" na pesquisa em todo o acervo: o texto consolidado pelo DRE à frente, os
-        diplomas revogados, de vigência desconhecida e os anexos de republicação (texto de outra data) atrás."""
+        diplomas revogados, de vigência desconhecida, os artigos revogados e os anexos de republicação
+        (texto de outra data) atrás."""
         doc = self.documento(documento) or {}
         peso = PRIOR_CONSOLIDADO if doc.get("com_historico") else 1.0
         peso *= PRIOR_ESTADO.get(doc.get("legal_status"), 1.0)
+        if artigo_revogado:
+            peso *= PRIOR_ARTIGO_REVOGADO
         if "republica" in parte.lower():
             peso *= PRIOR_REPUBLICACAO
         return peso
 
-    def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str]]:
-        """(desde, ate, documento, parte) de cada pedaço."""
+    def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str, bool]]:
+        """(desde, ate, documento, parte, artigo revogado) de cada pedaço."""
         resultado = {}
         for n in range(0, len(ids), 900):
             lote = ids[n : n + 900]
-            for i, *resto in self.con.execute(f"SELECT id, desde, ate, documento, parte FROM pedacos WHERE id IN ({','.join('?' * len(lote))})", lote):
-                resultado[i] = tuple(resto)
+            sql = f"SELECT id, desde, ate, documento, parte, substr(texto, 1, 40), notas FROM pedacos WHERE id IN ({','.join('?' * len(lote))})"
+            for i, desde, ate, documento, parte, inicio, notas in self.con.execute(sql, lote):
+                resultado[i] = (desde, ate, documento, parte, revogado(inicio, notas or ""))
         return resultado
 
     # ------------------------------------------------------------------ pesquisa
@@ -259,9 +269,11 @@ class Pesquisa:
             for r, s in zip(topo, self.reranker.pontuar(pergunta, [f"{r.rotulo}\n{r.texto}" for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo
-            resultados.sort(key=lambda r: (-min(r.nivel, 2), -(r.reranker if r.reranker is not None else -1e9)))
+            # Um artigo revogado fica atrás dos outros do mesmo nível: numa pergunta sobre a lei em
+            # vigor nunca é a resposta (quando o diploma é citado, os dele vêm antes na mesma).
+            resultados.sort(key=lambda r: (-min(r.nivel, 2), revogado(r.texto, r.notas), -(r.reranker if r.reranker is not None else -1e9)))
         else:
-            resultados.sort(key=lambda r: (-r.nivel, -r.pontuacao))
+            resultados.sort(key=lambda r: (-r.nivel, revogado(r.texto, r.notas), -r.pontuacao))
 
         unicos: list[Resultado] = []
         vistos: set[tuple[str, str]] = set()
@@ -311,8 +323,9 @@ class Pesquisa:
                 r.avisos.append("Diploma sem vigência (revogado ou caducado, segundo o DRE).")
         elif estado == "unknown":
             r.avisos.append("Vigência do diploma desconhecida.")
-        if re.match(r"^\(?\s*revogad[oa]", r.texto, re.I) or any(n.lower().startswith("revogado") for n in r.notas.splitlines()):
-            r.avisos.append("Artigo revogado.")
+        if revogado(r.texto, r.notas):
+            nota = next((n for n in r.notas.splitlines() if n.strip().lower().startswith("revogad")), "")
+            r.avisos.append(f"Artigo revogado ({_sem_ligacoes(nota)})." if nota else "Artigo revogado.")
         if r.ate is not None:
             r.avisos.append(f"Redação em vigor de {r.desde} a {r.ate}, não a atual.")
         alteracoes = [(titulo, quando) for tipo, _, titulo, quando in relacoes if tipo == "amended_by" and (quando or "") <= data]

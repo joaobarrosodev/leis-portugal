@@ -89,7 +89,8 @@ def llm_disponivel() -> bool:
     return True
 
 
-def _contexto(consulta: Consulta) -> tuple[str, list[Resultado]]:
+def contexto(consulta: Consulta) -> tuple[str, list[Resultado]]:
+    """Os artigos que o LLM recebe, numerados, com os avisos; e a lista deles pela mesma ordem."""
     artigos = consulta.resultados[:ARTIGOS_NO_CONTEXTO]
     blocos = []
     for n, r in enumerate(artigos, 1):
@@ -98,26 +99,20 @@ def _contexto(consulta: Consulta) -> tuple[str, list[Resultado]]:
     return "\n\n".join(blocos), artigos
 
 
-def _com_llm(consulta: Consulta) -> Resposta:
-    import anthropic
+def mensagem(consulta: Consulta, artigos: str) -> str:
+    return f"Data de referência: {consulta.data}\n\nArtigos:\n\n{artigos}\n\nPergunta: {consulta.pergunta}"
 
-    contexto, artigos = _contexto(consulta)
-    cliente = anthropic.Anthropic()
-    mensagem = cliente.messages.create(
-        model=MODELO,
-        max_tokens=16000,
-        system=INSTRUCOES,
-        output_config={"effort": "medium"},
-        messages=[{"role": "user", "content": f"Data de referência: {consulta.data}\n\nArtigos:\n\n{contexto}\n\nPergunta: {consulta.pergunta}"}],
-    )
-    if mensagem.stop_reason == "refusal":
-        return Resposta(False, "Não sei.", motivo="o modelo recusou", com_llm=True)
-    texto = "".join(b.text for b in mensagem.content if b.type == "text")
+
+def extrair_json(texto: str) -> dict:
     m = re.search(r"\{.*\}", texto, re.S)
     try:
-        dados = json.loads(m.group(0)) if m else {}
+        return json.loads(m.group(0)) if m else {}
     except json.JSONDecodeError:
-        dados = {}
+        return {}
+
+
+def interpretar(dados: dict, artigos: list[Resultado]) -> Resposta:
+    """A resposta do LLM ({"responde", "resposta", "citacoes"}) como `Resposta`: "não sei" se não responde ou não cita um artigo dado."""
     citacoes = [artigos[n - 1] for n in dados.get("citacoes") or [] if isinstance(n, int) and 1 <= n <= len(artigos)]
     if not dados.get("responde"):
         return Resposta(False, "Não sei.", motivo="o modelo diz que os artigos não respondem", com_llm=True)
@@ -125,3 +120,20 @@ def _com_llm(consulta: Consulta) -> Resposta:
         return Resposta(False, "Não sei.", motivo="resposta sem citação de um artigo dado", com_llm=True)
     avisos = list(dict.fromkeys(a for r in citacoes for a in r.avisos))
     return Resposta(True, str(dados.get("resposta", "")), citacoes, avisos, com_llm=True)
+
+
+def _com_llm(consulta: Consulta) -> Resposta:
+    import anthropic
+
+    texto_artigos, artigos = contexto(consulta)
+    cliente = anthropic.Anthropic()
+    resposta = cliente.messages.create(
+        model=MODELO,
+        max_tokens=16000,
+        system=INSTRUCOES,
+        output_config={"effort": "medium"},
+        messages=[{"role": "user", "content": mensagem(consulta, texto_artigos)}],
+    )
+    if resposta.stop_reason == "refusal":
+        return Resposta(False, "Não sei.", motivo="o modelo recusou", com_llm=True)
+    return interpretar(extrair_json("".join(b.text for b in resposta.content if b.type == "text")), artigos)
