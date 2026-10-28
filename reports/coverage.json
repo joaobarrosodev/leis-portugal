@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 340385,
+    "documents": 340407,
     "sources_registered": 4,
     "sources_operational": 2,
-    "validated_documents": 340385
+    "validated_documents": 340407
   },
   "by_jurisdiction": {
-    "european_union": 35584,
-    "portugal": 274256,
-    "regional": 30545
+    "european_union": 35600,
+    "portugal": 274261,
+    "regional": 30546
   },
   "by_document_type": {
     "acordao": 457,
@@ -18,7 +18,7 @@
     "acordao-extrato": 31,
     "acordao-supremo-tribunal-administrativo": 122,
     "acordao-supremo-tribunal-justica": 212,
-    "acordao-tribunal-constitucional": 167,
+    "acordao-tribunal-constitucional": 168,
     "acordao-tribunal-contas": 4,
     "acordo": 7,
     "acordo-coletivo-trabalho": 13,
@@ -39,7 +39,7 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 8710,
+    "decision": 8724,
     "declaracao": 8417,
     "declaracao-extrato": 20,
     "declaracao-retificacao": 17441,
@@ -48,12 +48,12 @@
     "decreto-aprovacao-constituicao": 1,
     "decreto-governo": 293,
     "decreto-legislativo-regional": 2434,
-    "decreto-lei": 31712,
+    "decreto-lei": 31714,
     "decreto-ministro-republica": 49,
     "decreto-presidente-republica": 6060,
     "decreto-regional": 280,
     "decreto-regulamentar": 1933,
-    "decreto-regulamentar-regional": 2601,
+    "decreto-regulamentar-regional": 2602,
     "decreto-representante-republica": 69,
     "deliberacao": 211,
     "deliberacao-assembleia-republica": 1,
@@ -100,7 +100,7 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114561,
+    "portaria": 114563,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
@@ -111,7 +111,7 @@
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 22742,
+    "regulation": 22744,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1868,
@@ -125,8 +125,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 304801,
-    "eurlex-cellar": 35584
+    "dre": 304807,
+    "eurlex-cellar": 35600
   },
   "by_year": {
     "1833": 2,
@@ -286,53 +286,53 @@
     "2023": 6295,
     "2024": 6280,
     "2025": 6232,
-    "2026": 5985
+    "2026": 6007
   },
   "by_territory": {
     "acores": 26995,
-    "madeira": 3550,
-    "nacional": 309840
+    "madeira": 3551,
+    "nacional": 309861
   },
   "by_version_kind": {
-    "consolidated": 10734,
-    "original": 329651
+    "consolidated": 10779,
+    "original": 329628
   },
   "by_legal_status": {
-    "in_force": 172712,
-    "not_in_force": 38013,
+    "in_force": 172732,
+    "not_in_force": 38036,
     "partially_in_force": 777,
-    "repealed": 14307,
-    "unknown": 114576
+    "repealed": 14656,
+    "unknown": 114206
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 340384
+    "recolha_direta": 340406
   },
   "by_text_quality": {
     "metadados": 24028,
     "pdf": 69851,
-    "texto": 246506
+    "texto": 246528
   },
-  "with_version_history": 8049,
+  "with_version_history": 8094,
   "relationships_by_type": {
     "amended_by": 167417,
-    "amends": 33525,
-    "based_on": 47929,
-    "cited_by": 26680,
-    "cites": 655425,
+    "amends": 33548,
+    "based_on": 47959,
+    "cited_by": 26682,
+    "cites": 655551,
     "corrected_by": 24987,
     "corrects": 816,
     "implicitly_repeals": 7872,
     "interpreted_by": 9576,
     "repealed_by": 46364,
-    "repeals": 9946,
-    "republished_by": 24,
-    "republishes": 1,
+    "repeals": 9948,
+    "republished_by": 35,
+    "republishes": 12,
     "transposed_by": 2098,
     "transposes": 2104
   },
   "by_validation_status": {
-    "validated": 340385
+    "validated": 340407
   },
   "documents_listed": false,
   "documents": []

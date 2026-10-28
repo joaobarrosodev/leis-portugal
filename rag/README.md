@@ -118,7 +118,14 @@ A pontuação do reranker separa bem as perguntas sem resposta, mas pouco os err
 
 ### Com LLM
 
-Não medido: não havia `ANTHROPIC_API_KEY` no ambiente. O código está pronto (`resposta.py`, `avaliar.py` sem `--sem-llm`); com chave, a medição dá a fiabilidade das respostas escritas (o artigo citado é o certo e a resposta tem o mesmo sentido que a certa, pela comparação de `avaliacao/verifica.py`) e a taxa de "não sei".
+Sem chave da API, o LLM foi uma sessão do Claude (`claude-opus-5-5`) que leu os 8 primeiros artigos de cada pergunta e respondeu só a partir deles, sem ver as respostas certas (`passo_llm.py`: `exportar`, as sessões respondem aos lotes, `importar`). Medido em 28/10/2026 nas 136 reais e nas 50 sem resposta, com o reranker e o limiar 3; as 77 a que as regras já respondem "não sei" não foram ao LLM:
+
+| Tipo | n | "Não sei" | Fiabilidade (certas/respondidas) | Sem LLM |
+|---|--:|--:|--:|--:|
+| Reais | 136 | 28% | **90% (88/98)** | 65% (69/106) |
+| Sem resposta | 50 | 98% | 1 respondida, errada | 94% |
+
+O LLM sobe a fiabilidade das reais de 65% para 90% à custa de 6 pontos de "não sei". "Certa" é citar o artigo certo e a resposta ter pelo menos 80% das palavras com conteúdo da resposta certa (`avaliacao/verifica.py`), um critério brando: falta uma verificação às cegas das respostas escritas. Só foram medidos estes dois tipos; as literais, temporais e revogadas ainda não passaram pelo LLM.
 
 ## Principais tipos de erro (com reranker)
 
