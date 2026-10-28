@@ -1,0 +1,16 @@
+{
+ "sem_resposta": {
+  "n": 50,
+  "nao_sei": 49,
+  "respondidas_antes": 1,
+  "apanhadas": 0
+ },
+ "real": {
+  "n": 136,
+  "nao_sei": 38,
+  "respondidas_antes": 98,
+  "certas_antes": 88,
+  "respondidas_depois": 98,
+  "certas_depois": 88
+ }
+}
