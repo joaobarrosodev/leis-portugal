@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Estradas regionais\n\n1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - Enquanto se mantiverem sob responsabilidade da administração central, as estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições.",
+    "depois": "###### Artigo 12.º — Estradas regionais\n\n1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - As estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no Decreto-Lei n.º 105/98, de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições.\n\n> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:424689:por",
+    "alterador": "pt:dre:353346:por"
+  }
+]

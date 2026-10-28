@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:430600:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. A área da Reserva tem os seguintes limites:\n\nExtremo norte do sapal do mouchão de Alhandra, Vala do Tejinho, Terras de Baixo, Murraceira, Vala da Rabicha, Malhada de Mar, Vala do Mosqueiro, Monte de Pancas, Monte de Vale de Frades, Marinha da Bela Vista, extremo sul do Mouchão da Póvoa, margem do Mouchão da Póvoa e extremo sul do Mouchão de Alhandra.\n\n2. Os limites da área descrita no número anterior vão demarcados na carta corográfica militar anexa ao presente decreto e que dele faz parte integrante.\n\n3 - (Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 e 2 (aditamentos aos arts. 6.º e 8.º e art. 11.º): a instrução só tem a frase introdutória, sem a nova redação; ficam de qualquer modo revogados pelo DL 142/2008.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

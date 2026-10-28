@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:413987:por",
+  "artigos": [
+    {
+      "chave": "32.º",
+      "epigrafe": "",
+      "texto": "1. As promoções dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. realizam-se de posto em posto segundo o ordenamento hierárquico estabelecido no artigo 21.º do E. O. E. e nas seguintes modalidades:\n\na) Por diuturnidade, ao posto de tenente;\n\nb) Por escolha, aos postos de capitão, major e tenente-coronel;\n\nc) Por distinção, a qualquer daqueles postos.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções dos Decretos-Leis n.os 696/74, 826/76, 829/76, 217/78 (artigo 34.º) e 220/80 sem texto da nova redação; só aplicada a revogação do n.º 2 do artigo 32.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

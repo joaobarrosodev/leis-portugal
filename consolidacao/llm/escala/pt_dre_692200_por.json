@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:692200:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Integram o Governo os seguintes Ministros:\n\na) Ministro do Estado;\n\nb) Ministro dos Negócios Estrangeiros;\n\nc) Ministro da Presidência;\n\nd) Ministro das Finanças;\n\ne) Ministro da Defesa Nacional;\n\nf) Ministro da Administração Interna;\n\ng) Ministro do Equipamento Social;\n\nh) Ministro da Justiça;\n\ni) Ministro da Economia;\n\nj) Ministro do Planeamento;\n\nk) Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nl) Ministro da Educação;\n\nm) Ministro da Saúde;\n\nn) Ministro do Trabalho e da Solidariedade;\n\no) Ministro do Ambiente e do Ordenamento do Território;\n\np) Ministro da Cultura;\n\nq) Ministro da Ciência e da Tecnologia;\n\nr) Ministro da Reforma do Estado e da Administração Pública;\n\ns) Ministro da Juventude e do Desporto;\n\nt) Ministro Adjunto do Primeiro-Ministro."
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro do Trabalho e da Solidariedade é coadjuvado, no exercício das suas funções, pelo Secretário de Estado do Trabalho e da Formação e pelo Secretário de Estado da Solidariedade e da Segurança Social.\n\n2 - Integram o Ministério do Trabalho e da Solidariedade os organismos e serviços até aqui integrados no Ministério com esse nome.\n\n3 - O Conselho Nacional da Família e o Projecto de Apoio à Família e à Criança transitam da Presidência do Conselho de Ministros para o Ministério do Trabalho e da Solidariedade.\n\n4 - O Observatório para a Integração das Pessoas Portadoras de Deficiência fica na dependência do Ministro do Trabalho e da Solidariedade.\n\n5 - A Comissão para a Igualdade no Trabalho e no Emprego fica na dependência conjunta do Ministro do Trabalho e da Solidariedade e do Ministro Adjunto do Primeiro-Ministro."
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Ministério do Ambiente e do Ordenamento do Território.\n\n2 - O Ministro do Ambiente e do Ordenamento do Território é coadjuvado, no exercício das suas funções, pelo Secretário de Estado do Ambiente, pelo Secretário de Estado do Ordenamento do Território e da Conservação da Natureza e pelo Secretário de Estado da Administração Local\n\n3 - Integram o Ministério do Ambiente e do Ordenamento do Território os serviços e organismos até aqui compreendidos no Ministério do Ambiente e ainda os seguintes serviços e organismos transferidos do Ministério do Equipamento, do Planeamento e da Administração do Território:\n\na) Centro Nacional de Informação Geográfica;\n\nb) Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano;\n\nc) Instituto Português de Cartografia e Cadastro.\n\n4 - São transferidas para a tutela do Ministro do Ambiente e do Ordenamento do Território a Parque Expo, S. A., e a COSTAGEST, S. A.\n\n5 - Transitam da Presidência do Conselho de Ministros para o Ministério do Ambiente e do Ordenamento do Território o Centro de Estudos e Formação Autárquica, a Direcção-Geral das Autarquias Locais e a Inspecção-Geral da Administração do Território.\n\n6 - Ao Ministro do Ambiente e do Ordenamento do Território compete promover a audição das associações representativas dos municípios e das freguesias relativamente a projectos de diplomas respeitantes a atribuições destas autarquias."
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro Adjunto do Primeiro-Ministro exerce os poderes que nele foram delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado para a Defesa do Consumidor e pelo Secretário de Estado para a Igualdade."
+    }
+  ],
+  "nao_aplicavel": "Aplicadas as instruções 1 a 5 aos artigos recebidos. A instrução 6 (DL 120/2002) substitui globalmente a estrutura orgânica do diploma, sem alteração textual de artigos: não aplicada (o diploma terá deixado de vigorar). Não há instrução do DL 151/2019.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "59.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 59.º\n\nA infracção do disposto no artigo 48.º constitui transgressão punível nos termos seguintes:\n\n1.º A falta de participação à Direcção-Geral dos Serviços Florestais e Aquícolas nos prazos referidos no § 1.º do artigo 48.º é punível com a pena de multa de 500$00 a 5000$00.\n\n2.º Se tiver havido sòmente inobservância das providências indispensáveis à sobrevivência dos peixes, sem que dela resulte a sua destruição, a pena será de multa de 500$00 a 10000$00.\n\n3.º Se, cumulativamente, tiver havido desrespeito das prescrições da Direcção-Geral dos Serviços Florestais e Aquícolas, a pena será de multa de 500$00 a 20000$00.\n\n4.º Se, em qualquer dos casos, tiver havido a morte ou destruição da fauna ictiológica, a multa será de 500$00 a 50000$00.",
+    "depois": "###### Artigo 59.º\n\nA infracção ao disposto no artigo 48.º constitui contra-ordenação punível nos termos seguintes:\n\na) A falta de participação à Direcção-Geral dos Recursos Florestais nos prazos referidos no § 1.º do artigo 48.º é punível com coima de (euro) 500 a (euro) 3700;\n\nb) Se tiver havido somente inobservância das providências indispensáveis à sobrevivência dos peixes, sem que dela resulte a sua destruição, a coima é de (euro) 500 a (euro) 3740;\n\nc) Se, cumulativamente, tiver havido desrespeito das prescrições da Direcção-Geral dos Recursos Florestais, a coima é de (euro) 500 a (euro) 3740;\n\nd) Se, em qualquer dos casos, tiver havido a morte ou destruição da fauna ictiológica, a coima é de (euro) 500 a (euro) 3740.\n\n> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162) e [Decreto-Lei n.º 307/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1972-676421) e [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072) e [Decreto Regulamentar n.º 11/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1989-625667) e [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249) e [Portaria n.º 177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/177-2010-611309), publicado em 2010-03-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156660:por",
+    "alterador": "pt:dre:140162:por;pt:dre:676421:por;pt:dre:227072:por;pt:dre:625667:por;pt:dre:537249:por;pt:dre:611309:por"
+  },
+  {
+    "artigo": "60.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 60.º\n\nDurante o exercício da pesca deve o pescador fazer-se acompanhar da respectiva licença, sob pena de incorrer na multa de 50$00. A sua apresentação é sempre obrigatória no prazo máximo de 48 horas.",
+    "depois": "###### Artigo 60.º\n\nO exercício da pesca desacompanhado da respectiva licença e de documento legal de identificação pessoal constitui contra-ordenação punível com coima de (euro) 50 a (euro) 500.\n\n> Alterado pelo/a [Decreto n.º 312/70](https://diariodarepublica.pt/dr/detalhe/decreto/312-1970-140162) e [Decreto-Lei n.º 307/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1972-676421) e [Decreto Regulamentar n.º 18/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1986-227072) e [Decreto Regulamentar n.º 11/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1989-625667) e [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249) e [Portaria n.º 177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/177-2010-611309), publicado em 2010-03-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:156660:por",
+    "alterador": "pt:dre:140162:por;pt:dre:676421:por;pt:dre:227072:por;pt:dre:625667:por;pt:dre:537249:por;pt:dre:611309:por"
+  }
+]

@@ -12,5 +12,61 @@
     "unidade": [],
     "diploma": "pt:dre:371035:por",
     "alterador": "pt:dre:684205:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:\n\na) Ministros de Estado;\n\nb) Ministro da Presidência;\n\nc) Ministro dos Assuntos Parlamentares;\n\nd) Ministro Adjunto do Primeiro-Ministro.\n\n2 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado Adjunto do Ministro da Presidência;\n\nc) Secretário de Estado da Juventude e Desportos.\n\n3 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.\n\n4 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.",
+    "depois": "###### Artigo 6.º\n\n1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:\n\na) Ministros de Estado;\n\nb) Ministro da Presidência;\n\nc) Ministro dos Assuntos Parlamentares;\n\nd) Ministro Adjunto do Primeiro-Ministro.\n\n2 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Ministro da Presidência;\n\nd) Secretário de Estado da Juventude e Desportos.\n\n3 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.\n\n4 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371035:por",
+    "alterador": "pt:dre:684205:por;pt:dre:608182:por;pt:dre:507641:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - A Ministra de Estado e das Finanças é coadjuvada no serviço das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pela Secretária de Estado da Administração Pública.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.\n\n3 - Transitam do extinto Ministério da Reforma do Estado e da Administração Pública para o Ministério das Finanças os serviços e organismos naquele compreendidos.\n\n4 - Transitam do extinto Ministério do Planeamento para o Ministério das Finanças os seguintes serviços e organismos:\n\na) Secretaria-Geral;\n\nb) Auditoria Jurídica (Planeamento e Administração do Território);\n\nc) Departamento de Prospectiva e Planeamento;\n\nd) Direcção-Geral do Desenvolvimento Regional.\n\n5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.",
+    "depois": "###### Artigo 9.º\n\n1 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado da Administração Pública.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.\n\n3 - Transitam do extinto Ministério da Reforma do Estado e da Administração Pública para o Ministério das Finanças os serviços e organismos naquele compreendidos.\n\n4 - Transitam do extinto Ministério do Planeamento para o Ministério das Finanças os seguintes serviços e organismos:\n\na) Secretaria-Geral;\n\nb) Auditoria Jurídica (Planeamento e Administração do Território);\n\nc) Departamento de Prospectiva e Planeamento;\n\nd) (Revogada.)\n\n5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371035:por",
+    "alterador": "pt:dre:684205:por;pt:dre:608182:por;pt:dre:507641:por"
+  },
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\n1 - O Ministro da Agricultura, Desenvolvimento Rural e Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas e pelo Secretário de Estado do Desenvolvimento Rural.\n\n2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.",
+    "depois": "###### Artigo 18.º\n\n1 - O Ministro da Agricultura, Desenvolvimento Rural e Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas, pelo Secretário de Estado do Desenvolvimento Rural e pelo Secretário de Estado das Florestas.\n\n2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.\n\n> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371035:por",
+    "alterador": "pt:dre:684205:por;pt:dre:608182:por;pt:dre:507641:por"
+  },
+  {
+    "artigo": "32.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 32.º-A\n\nAté à entrada em vigor do Orçamento do Estado do ano de 2005 mantém-se a expressão orçamental da estrutura governativa anterior relativa à Direcção-Geral do Desenvolvimento Regional.\n\n> Aditado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371035:por",
+    "alterador": "pt:dre:684205:por;pt:dre:608182:por;pt:dre:507641:por"
   }
 ]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:309502:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções dos DL 755/76 e 182/77 não trazem o texto das novas redações dos artigos 15.º e 4.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

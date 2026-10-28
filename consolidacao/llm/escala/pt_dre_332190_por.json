@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:332190:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 442/78 não traz o texto das alterações aos prazos do artigo 18.º (e respeita só a despesas por conta de reforços ou inscrições).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

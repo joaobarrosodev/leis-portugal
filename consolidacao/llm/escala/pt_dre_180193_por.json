@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:180193:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (DL 229-A/88, DL 311/89, DL 213/91) não trazem o texto da nova redação dos artigos 1.º e 4.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:298005:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (Lei 28/79, DL 441/79, DL 348/80 sobre o artigo 89.º); a Portaria 14/81 altera só o mapa anexo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:393216:por",
+  "artigos": [],
+  "nao_aplicavel": "Revoga o n.º 6 da 'portaria supracitada', que não é o artigo 21.º da Portaria n.º 71/79; alvo ambíguo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

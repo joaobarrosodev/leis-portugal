@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:431793:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Definições",
+      "texto": "1 - Para efeitos do presente diploma, considerando-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) [Actual alínea d).]\n\nf) [Actual alínea e).]\n\ng) [Actual alínea f).]\n\nh) [Actual alínea g).]\n\ni) [Actual alínea h).]\n\nj) [Actual alínea i).]\n\nl) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:\n\nAp = (((Ff + Fe + Fh)/3z) + 1) x Vp\n\nm) [Actual alínea 1).]\n\nn) [Actual alínea m).]\n\no) [Actual alínea n).]\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação."
+    }
+  ],
+  "nao_aplicavel": "No original, as alíneas e) a o) do artigo 3.º só contêm remissões de renumeração ('[Actual alínea d).]' etc.), sem o texto anterior; foram mantidas tal e qual. A revogação do capítulo VII pelo DLR 23/2009/A não atinge o artigo 3.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

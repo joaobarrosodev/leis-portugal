@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:631400:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Noção de margem; sua largura",
+      "texto": "1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.\n\n2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.\n\n3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.\n\n4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\n5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.\n\n6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil.\n\n7 - Nas Regiões Autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estenderá até essa via."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Noção de zona adjacente; sua largura",
+      "texto": "1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.\n\n2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma\n\n3 - Nas Regiões Autónomas, se a linha limite do leito atingir uma estrada regional ou municipal, a zona adjacente estende-se desde o limite do leito até à linha convencional definida nos termos do número anterior."
+    }
+  ],
+  "nao_aplicavel": "Art. 20.º (DL 53/74) sem texto; renumeração do art. 32.º para 36.º e novo capítulo IV (DL 89/87) não textuais/sem texto; nova redação do art. 36.º (Lei 16/2003) não aplicada por o artigo ser o antigo 32.º renumerado; arts. 5.º e 13.º não constam do original recebido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

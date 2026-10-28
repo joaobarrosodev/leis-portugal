@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:558387:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 192/75 só traz a frase introdutória; a nova redação do artigo 5.º não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

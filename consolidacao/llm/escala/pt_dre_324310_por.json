@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:324310:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução do DL 56/88 não traz o texto da nova redação da norma 1.ª do artigo 7.º; os outros diplomas não têm instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

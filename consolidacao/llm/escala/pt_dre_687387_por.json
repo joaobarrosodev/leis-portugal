@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:687387:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem a frase introdutória, sem a nova redação dos artigos 17.º § 3.º, 101.º, 111.º, 112.º, 115.º, 117.º, 68.º, 70.º § 1.º, 122.º, 69.º e 98.º; a instrução 4 adita artigos a outro diploma (DL 44701).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

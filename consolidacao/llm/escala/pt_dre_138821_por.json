@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:138821:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 177/75 só traz a frase introdutória; a nova redação dos artigos 5.º e 8.º não vem no pedido. A outra instrução altera um mapa anexo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

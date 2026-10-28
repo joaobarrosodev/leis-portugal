@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:152365:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os emolumentos e taxas devidos pela prestação dos serviços de registo e de identificação civil são fixados por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Os preços de venda de bens conexos com a prestação de serviços no âmbito dos registos e da identificação civil são fixados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça e constituem exclusivo da respectiva Direcção-Geral, aplicando-se-lhes o regime previsto no artigo 74.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.\n\n4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados."
+    }
+  ],
+  "nao_aplicavel": "A instrução do DL 54/90 (e as alterações dos DL 42/89 e 40/94) não traz o texto da nova redação; os n.os 3 e 4 ('Anterior n.º 2/3') foram preenchidos com os n.os 2 e 3 do original, que podem ter sido alterados por esses diplomas; a Portaria 286/2012 não tem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados",
+    "3.º: parágrafo que não está no alterador nem no original: 4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos R"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:432798:por",
+  "artigos": [
+    {
+      "chave": "31.º",
+      "epigrafe": "Receitas dos organismos de coordenação económica",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

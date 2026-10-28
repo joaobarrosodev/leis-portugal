@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:240848:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução do DL 164/78 sem o texto do artigo aditado; DL 485/88 sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

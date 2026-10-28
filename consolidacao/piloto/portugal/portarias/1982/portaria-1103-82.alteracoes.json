@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.\n\n2 - Nos casos previstos no n.º 3 do artigo 9.º, os concursos realizam-se no hospital central que dê apoio ao estabelecimento interessado.",
+    "depois": "###### Artigo 12.º\n\n1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380121:por",
+    "alterador": "pt:dre:308350:por"
+  }
+]

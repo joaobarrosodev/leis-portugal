@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:231890:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito",
+      "texto": "1 - O SINDEPEDIP abrange os seguintes regimes de apoio:\n\na) Regime de Apoio à Avaliação Empresarial, compreendendo o apoio a:\n\nDiagnósticos e análises estratégicas;\n\nDiagnósticos de investimento;\n\nEstudos parcelares;\n\nAuditorias;\n\nb) Regime de Apoio à Investigação e Desenvolvimento, compreendendo o apoio a:\n\nEstudos prévios às acções de investigação e desenvolvimento;\n\nProjectos de investigação e desenvolvimento;\n\nc) Regime de Apoio à Realização de Estratégias Empresariais Integradas, compreendendo o apoio a:\n\nInovação e internacionalização das estruturas empresariais;\n\nProjectos estratégicos de regime contratual;\n\nd) Regime de Apoio a PME de Menor Dimensão, compreendendo o apoio a:\n\nPromoção de factores dinâmicos de competitividade;\n\nPequenos projectos de modernização empresarial;\n\ne) Regime de Apoio à Promoção da Qualidade Industrial, compreendendo:\n\nApoio à certificação e à calibração;\n\nApoio à implementação de sistemas de gestão pela qualidade total;\n\nApoio à certificação no domínio do ambiente, ao registo no EMAS e à atribuição do rótulo ecológico a produtos;\n\nf) Regime de Apoio à Utilização do Sistema de Propriedade Industrial;\n\ng) Regime de Apoio à Adesão ao Mercado de Capitais;\n\nh) Regime de Apoio à Produtividade e à Demonstração Empresarial, compreendendo o apoio a:\n\nAcções de demonstração empresarial;\n\nEmpresas demonstradoras de tecnologias avançadas;\n\ni) Regime de Apoio à Cooperação Interempresas.\n\n2 - A regulamentação dos regimes de apoio referidos no número anterior será aprovada por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto.\n\n3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial."
+    }
+  ],
+  "nao_aplicavel": "Aplicado sobre o texto original: as alterações anteriores dos Despachos Normativos 7/95 e 40/95 não constam do pedido (só as alíneas e) e o resto mantido por \"...\").",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

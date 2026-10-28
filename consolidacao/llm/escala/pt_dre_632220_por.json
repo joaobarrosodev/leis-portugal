@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:632220:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções só com frases introdutórias, sem a nova redação dos artigos 7.º, 15.º, 4.º, 17.º, 2.º; substituição de organograma e quadro anexos (não textual); a instrução do DL 148/89 é remissão interpretativa.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

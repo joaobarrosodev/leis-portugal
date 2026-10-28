@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:526201:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1 e 2 (art. 16.º; n.º 2 do art. 6.º): a instrução só tem a frase introdutória, sem a nova redação; instrução 3 revoga arts. 17.º e 19.º (não listados) com eficácia condicionada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

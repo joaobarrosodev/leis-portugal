@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:626423:por",
     "alterador": "pt:dre:662958:por"
+  },
+  {
+    "artigo": "409.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 409.º — Prorrogação\n\n1 - A prorrogação da prestação de serviço em RC é anual e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.\n\n2 - Em caso de acidente em serviço ou doença relacionada com o mesmo, ao militar em RC é facultada a prorrogação automática da prestação de serviço até decisão definitiva da competente junta médica.",
+    "depois": "###### Artigo 409.º — Prorrogação\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958) e [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443) e [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443) e [Decreto-Lei n.º 175/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645), publicado em 1997-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por;pt:dre:275443:por;pt:dre:274443:por;pt:dre:149645:por"
   }
 ]

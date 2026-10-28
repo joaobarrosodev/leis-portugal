@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:446142:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções dos Decretos Regionais n.os 11/79/M e 15/81/M não trazem a nova redação do artigo 3.º; a do Decreto Regional n.º 24/79/M (extinção de Secretarias Regionais) não altera textualmente o artigo 3.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

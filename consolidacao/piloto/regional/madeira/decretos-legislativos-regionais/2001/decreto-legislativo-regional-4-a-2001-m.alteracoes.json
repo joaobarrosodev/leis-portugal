@@ -58,5 +58,33 @@
     "unidade": [],
     "diploma": "pt:dre:592760:por",
     "alterador": "pt:dre:466431:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Gestão da dívida pública regional\n\nFica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar as seguintes operações de gestão da dívida pública regional:\n\na) Substituição entre a emissão das várias modalidades de empréstimos;\n\nb) Reforço das dotações para amortização de capital;\n\nc) Pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) Conversão de empréstimos existentes, nos termos e nas condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.",
+    "depois": "###### Artigo 9.º — Gestão da dívida pública regional\n\nFica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar as seguintes operações de gestão da dívida pública regional:\n\na) Substituição entre a emissão das várias modalidades de empréstimos;\n\nb) Reforço das dotações para amortização de capital;\n\nc) Pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) Conversão de empréstimos existentes, nos termos e nas condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.\n\ne) Assunção de dívida contraída pelo Centro Regional de Saúde e pelo Centro Hospitalar do Funchal até ao montante de 10024100 contos e 1975951 contos, respectivamente.»\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431) e [Decreto Legislativo Regional n.º 10/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2016-73766218), publicado em 2016-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:592760:por",
+    "alterador": "pt:dre:466431:por;pt:dre:73766218:por"
+  },
+  {
+    "artigo": "42.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 42.º — Extensão da concessão de serviço público\n\n1 - É estendido o troço que constitui objecto da concessão de serviço público de que é titular a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., em mais 7 Km, correspondentes ao lanço entre Machico e Caniçal, desde que esta sociedade cumpra o disposto nos números seguintes.\n\n2 - A VIALITORAL realizará um aumento do seu capital social, mantendo-se intacta a participação pública, destinado a investidores que reúnam as características definidas anteriormente pelo [Decreto Legislativo Regional n.º 21-A/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-1999-219166), de 24 de Agosto, e pelo Governo Regional para o primeiro aumento de capital.\n\n3 - A VIALITORAL pagará uma nova verba à Região, cujo montante e modo de pagamento será concretizado na alteração ao contrato de concessão.\n\n4 - O termo de concessão, definido na sua base VI, mantém-se, independentemente desta extensão de objecto.\n\n5 - Cabe ao Governo Regional, tendo em atenção os princípios definidos no [Decreto Legislativo Regional n.º 21-A/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-1999-219166), de 24 de Agosto, aprovar as normas regulamentares adequadas a garantir a estabilidade da concessão, a seriedade das propostas e a escolha entre os diversos interessados e a coerência entre o valor do aumento do capital social simultâneo à extensão da concessão e o valor a pagar à Região.",
+    "depois": "###### Artigo 42.º — Extensão da concessão de serviço público\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 28-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431) e [Decreto Legislativo Regional n.º 10/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2016-73766218), publicado em 2016-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:592760:por",
+    "alterador": "pt:dre:466431:por;pt:dre:73766218:por"
   }
 ]

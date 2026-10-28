@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 4.º\n\n1 - A exploração do serviço de transporte ferroviário de passageiros entre Roma-Areeiro e Pinhal Novo, com passagem pela Ponte de 25 de Abril, é atribuída pelo Estado, mediante concurso internacional, em regime de concessão.\n\n2 - A concessão referida no número anterior poderá estender-se até à Gare do Oriente e até Praias do Sado (via Setúbal).\n\n3 - A CP e outros operadores ferroviários só poderão explorar serviços de transporte ferroviário nos troços mencionados nos números anteriores nos termos e dentro dos limites estabelecidos no regime da concessão referida no n.º 1.\n\n> Aditado pelo/a [Decreto-Lei n.º 274/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1998-567187) e [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), publicado em 1998-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303221:por",
+    "alterador": "pt:dre:567187:por;pt:dre:324333:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º\n\n1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento) pela Ponte de São João.\n\n2 - As subconcessões podem, nos termos que vierem a constar nos respectivos cadernos de encargos, ser estabelecidas mediante condições que obriguem o subconcessionário a proceder à modernização e ou à construção das linhas ou troços de linhas, existentes ou novos.\n\n> Aditado pelo/a [Decreto-Lei n.º 274/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1998-567187) e [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), publicado em 1998-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303221:por",
+    "alterador": "pt:dre:567187:por;pt:dre:324333:por"
+  }
+]

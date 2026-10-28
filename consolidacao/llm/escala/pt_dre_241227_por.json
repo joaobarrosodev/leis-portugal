@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:241227:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Órgãos de apoio",
+      "texto": "1 - São criados os seguintes órgãos de apoio, cuja missão genérica consiste em coadjuvar o Ministro das Finanças na definição e execução das diversas políticas a prosseguir no âmbito do respectivo Ministério:\n\na) Conselho Superior de Finanças (CSF);\n\nb) Conselho de Directores-Gerais (CDG).\n\n2 - A composição, competências e modo de funcionamento dos órgãos referidos no número anterior são os definidos no presente diploma."
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Entidades sob superintendência",
+      "texto": "Sem prejuízo dos poderes de tutela, estão sob a superintendência do Ministro das Finanças, a qual se exerce através do poder de orientação da respectiva actividade, através da adopção de directivas e de recomendações, as seguintes entidades:\n\na) Serviços Sociais do Ministério das Finanças (SOFE);\n\nb) Instituto de Gestão do Crédito Público (IGCP).\n\nc) Caixa Geral de Aposentações (CGA).\n\nd) Instituto de Informática."
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo",
+      "texto": "1 - A Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) é o serviço do Ministério das Finanças que tem por missão, de acordo com as políticas definidas pelo Governo e as normas comunitárias:\n\na) Exercer o controlo da fronteira externa comunitária e do território aduaneiro nacional para fins fiscais, económicos e de protecção da sociedade, designadamente no âmbito da cultura e da segurança e saúde públicas;\n\nb) Administrar os impostos especiais sobre o consumo.\n\n2 - Compete em geral à DGAIEC, no âmbito da sua missão:\n\na) Controlar as trocas de mercadorias e os meios de transporte;\n\nb) Administrar os impostos especiais sobre o consumo;\n\nc) Liquidar e cobrar os recursos próprios comunitários e exercer os controlos e tomar todas as medidas necessárias a assegurar a regularidade do pagamento das despesas no âmbito da política agrícola comum;\n\nd) Liquidar e cobrar o imposto sobre o valor acrescentado nas trocas comerciais com países terceiros;\n\ne) Prevenir e reprimir a fraude e evasão aduaneiras e fiscais;\n\nf) Contribuir para que seja assegurada a coerência interna das várias políticas comunitárias susceptíveis de interacções do mercado único;\n\ng) Promover a cooperação com as administrações aduaneiras dos demais Estados membros da União Europeia, com vista à troca regular de informações sobre questões da sua competência, e participar nas negociações sobre matérias comunitárias;\n\nh) Assegurar o licenciamento do comércio externo de produtos agrícolas, de produtos industriais, de bens e tecnologias de dupla utilização, exceptuando os bens e tecnologias militares sujeitos a licenciamento pelo Ministério da Defesa Nacional, de estupefacientes e substâncias psicotrópicas e gerir os regimes restritivos do comércio externo desses produtos;\n\ni) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas superiormente.\n\n3 - No desempenho das suas atribuições a DGAIEC actuará em estreita colaboração com os restantes serviços do Ministério das Finanças que intervenham na administração fiscal, em especial com a Direcção-Geral dos Impostos e com a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros."
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Defensor do Contribuinte",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 8.º e 26.º (DL 21/99) e 6.º-A (revogado pelo DL 320-A/2002) não constam do original recebido; alterações de epígrafe de subsecção não são de artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "10.º: parágrafo que não está no alterador nem no original: b) Instituto de Gestão do Crédito Público (IGCP).",
+    "10.º: parágrafo que não está no alterador nem no original: c) Caixa Geral de Aposentações (CGA).",
+    "10.º: parágrafo que não está no alterador nem no original: d) Instituto de Informática.",
+    "19.º: parágrafo que não está no alterador nem no original: i) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas super"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:157007:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 467/80 sobre o n.º 2 do artigo 21.º).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

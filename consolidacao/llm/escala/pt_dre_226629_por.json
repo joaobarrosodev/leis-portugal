@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:226629:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Conteúdo funcional das categorias da carreira de investigação científica",
+      "texto": "1 - Cabe ao estagiário de investigação executar, sob orientação de um investigador ou professor do ensino superior, tarefas correspondentes a uma fase formativa de introdução a actividades de investigação científica e desenvolvimento integradas em projectos científicos.\n\n2 - Cabe ao assistente de investigação executar, desenvolver e participar em projectos de investigação e desenvolvimento, sob orientação de investigadores ou professores do ensino superior, podendo eventualmente colaborar na formação de estagiários ao nível da aprendizagem da metodologia e técnicas auxiliares de investigação.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação global do Estatuto com manutenção transitória dos arts. 2.º, 3.º n.os 1 e 2, 6.º e 11.º a 21.º (ficam iguais); art. 10.º não aplicado: mantém só a parte inicial das alíneas b) e c) e a alínea d) do n.º 2, recorte ambíguo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

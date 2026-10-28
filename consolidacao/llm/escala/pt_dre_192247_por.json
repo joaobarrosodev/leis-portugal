@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:192247:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução (DL 9/88) sem o texto da nova redação do n.º 2 do art. 3.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

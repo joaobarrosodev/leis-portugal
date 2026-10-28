@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:281452:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem a nova redação nem o parágrafo aditado (artigos 5.º, 6.º, 8.º, 9.º, 29.º e 32.º).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

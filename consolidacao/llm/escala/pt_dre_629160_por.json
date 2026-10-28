@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:629160:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Lei n.º 13/2008, Decretos-Leis n.os 110/2009 e 44-A/2010) só trazem o proémio, sem o texto das novas redações das bases; as revogações e aditamentos incidem sobre bases do anexo cujo texto não foi dado como artigos do original, e o aditamento do quadro iv é um quadro; nada se pode aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

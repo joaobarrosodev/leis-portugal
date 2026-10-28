@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ criada, com carácter temporário, a taxa de $30 por quilograma de carne de porco abatida e importada para, consumo no território metropolitano.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:520187:por",
+    "alterador": "pt:dre:666744:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nA Junta Nacional dos Produtos Pecuários fornecerá à Direcção-Geral dos Serviços Pecuários, no mês seguinte ao do abate ou importação, relação das importações ou abates donde constem os nomes das entidades a cargo de quem aquelas ou estes foram efectuados, o número de animais e de quilogramas de carne abatida ou importada e os demais elementos indispensáveis para o cálculo da taxa e identificações do responsável pelo seu pagamento.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:520187:por",
+    "alterador": "pt:dre:666744:por"
+  }
+]

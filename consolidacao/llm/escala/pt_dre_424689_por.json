@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:424689:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Estradas regionais",
+      "texto": "1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - As estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no Decreto-Lei n.º 105/98, de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições."
+    }
+  ],
+  "nao_aplicavel": "Artigos 13.º e 14.º alterados pela Lei n.º 98/99 não constam dos artigos do original fornecidos. Sem instruções do Decreto-Lei n.º 182/2003 nem da Declaração de Retificação n.º 779/2025/2.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

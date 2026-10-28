@@ -32,6 +32,7 @@ from pathlib import Path
 
 from texto import RAIZ
 
+
 VERIFICACAO = RAIZ / "consolidacao" / "verificacao"
 _TITULO = re.compile(r"^#{1,6} ", re.M)
 

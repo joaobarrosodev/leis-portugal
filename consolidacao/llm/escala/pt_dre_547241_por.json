@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:547241:por",
+  "artigos": [],
+  "nao_aplicavel": "Todas as instruções só trazem a frase introdutória, sem a nova redação dos artigos 10.º, 14.º, 16.º, 17.º, 35.º, 39.º, 40.º, 41.º, 56.º, 73.º e outros.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

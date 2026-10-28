@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:273612:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções dos DL 48943, 372/70, 85/75, 535/75 e Decreto 14/77 não trazem o texto da nova redacção; o DL 49283 altera indirectamente o valor da gratificação do § 4.º do artigo 36.º (sem nova redacção); DL 313/72 e Portaria 415/80 alteram mapas/quadros.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

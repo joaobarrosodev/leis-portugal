@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:375192:por",
+  "artigos": [
+    {
+      "chave": "12.º-A",
+      "epigrafe": "Motoristas",
+      "texto": "Aos motoristas do mapa de pessoal dos gabinetes dos Representantes da República é aplicável o regime constante da parte final dos n.os 2 e 3, a alínea d) do n.º 4 e o n.º 7 do artigo 13.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, que estabelece a natureza, a composição, a orgânica e o regime jurídico a que estão sujeitos os gabinetes dos membros do Governo."
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (DL 72-A/2010) não é textual: o n.º 4 do artigo 6.º e o artigo 10.º não contêm a expressão «requisição e destacamento, referidos a trabalhadores que exercem funções públicas»; a remissão é interpretativa. Artigo 11.º não fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

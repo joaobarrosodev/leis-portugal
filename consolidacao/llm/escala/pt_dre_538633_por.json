@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:538633:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "São revogados o n.º 2 do artigo 13.º e o n.º 2 do artigo 20.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

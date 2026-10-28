@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:173361:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução do Decreto 31/78 não traz o texto da nova redação do artigo 21.º; a Portaria 968/80 substitui o quadro de pessoal (anexo), alteração não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

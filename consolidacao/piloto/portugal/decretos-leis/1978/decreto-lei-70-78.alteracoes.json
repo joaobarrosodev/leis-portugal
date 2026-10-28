@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "28.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 28.º\n\nO transporte ferroviário dos cereais e das farinhas destinados às indústrias utilizadoras será objecto de regulamentação, através de portaria emitida pelos Ministérios dos Transportes e Comunicações, Comércio e Turismo e Agricultura e Pescas, devendo, no entanto, as respectivas tarifas ser uniformes para cereais e farinhas, independentemente da distância e do utilizador.",
+    "depois": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010) e [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:656378:por",
+    "alterador": "pt:dre:392010:por;pt:dre:352316:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "23.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\n1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo máximo de 22 dias a contar do termo do prazo referido no artigo anterior.\n\n2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.",
+    "depois": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113) e [Portaria n.º 569-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-a-1996-534409) e [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728) e [Portaria n.º 1172/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1172-2001-621316), publicado em 2001-10-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617289:por",
+    "alterador": "pt:dre:476113:por;pt:dre:534409:por;pt:dre:197728:por;pt:dre:621316:por"
+  }
+]

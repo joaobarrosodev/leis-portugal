@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:189511:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução substitui os mapas anexos referidos no artigo 1.º; não altera o texto do artigo 1.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

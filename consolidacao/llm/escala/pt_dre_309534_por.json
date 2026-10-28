@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:309534:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 411/85, aditamento dos n.os 6 e 7 ao artigo 21.º); a revogação do DL 153/88 é parcial (só no que respeita ao ISEF de Lisboa) e não identifica artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

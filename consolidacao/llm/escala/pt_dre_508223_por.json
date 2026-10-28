@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:508223:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 752/74 anuncia nova redação do artigo 28.º mas o texto da nova redação não consta do pedido; Decreto Regulamentar n.º 44/77 e Decreto-Lei n.º 342/99 sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

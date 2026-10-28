@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:560020:por",
     "alterador": "pt:dre:658224:por"
+  },
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 22º — (Turnos de férias em Lisboa e no Porto)\n\nNos tribunais de 1ª. instância com sede nas comarcas de Lisboa e do Porto, os juízes, para efeitos de turnos de férias, agrupam-se do seguinte modo:\n\na) Juízes das varas cíveis\n\nb) Juízes dos juizos cíveis e do tribunal marítimo\n\nc) Juízes do tribunal do trabalho\n\nd) Juízes do tribunal de família e do tribunal de menores\n\ne) Juízes dos juízos criminais\n\nf) Juízes dos juízos correccionais\n\ng) Juízes dos juízos de polícia, do tribunal de instrução criminal, do tribunal de execução das penas e dos tribunais de pequenas causas.",
+    "depois": "###### Artigo 22.º — Turnos de férias judiciais\n\n1 - Para efeitos do disposto no n.º 1 do artigo 90.º da Lei n.º 38/87, de 23 de Dezembro, em cada círculo judicial organizam-se um ou mais turnos, que funcionam nos tribunais competentes para assegurar o serviço em causa, sendo abrangidos os magistrados que exerçam funções em tribunais com sede no círculo respectivo.\n\n2 - Nos círculos judiciais de Lisboa e do Porto, os juízes que exerçam funções em tribunais com sede no círculo respectivo agrupam-se do seguinte modo:\n\na) Juízes das varas cíveis;\n\nb) Juízes dos juízos cíveis, do tribunal de pequena instância cível e do tribunal marítimo;\n\nc) Juízes do tribunal do trabalho;\n\nd) Juízes do tribunal de família e do tribunal de menores;\n\ne) Juízes das varas criminais;\n\nf) Juízes dos juízos criminais, do tribunal de pequena instância criminal, do tribunal de instrução criminal e do tribunal de execução das penas.\n\n> Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224) e [Decreto-Lei n.º 222/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1994-218744) e [Decreto-Lei n.º 153/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1995-475081) e [Decreto-Lei n.º 18/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1996-535011) e [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228) e [Decreto-Lei n.º 173/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1996-215893) e [Decreto-Lei n.º 137/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1997-349503) e [Decreto-Lei n.º 110/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1998-176333) e [Decreto-Lei n.º 39/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1999-169460), publicado em 1999-02-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:560020:por",
+    "alterador": "pt:dre:658224:por;pt:dre:218744:por;pt:dre:475081:por;pt:dre:535011:por;pt:dre:241228:por;pt:dre:215893:por;pt:dre:349503:por;pt:dre:176333:por;pt:dre:169460:por"
   }
 ]

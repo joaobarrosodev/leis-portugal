@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:195800:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Conselho Nacional do Ambiente e do Desenvolvimento Sustentável",
+      "texto": "1 - É criado o Conselho Nacional do Ambiente e do Desenvolvimento Sustentável, adiante designado por Conselho, cuja composição, competência e regime de funcionamento são regulados no presente diploma.\n\n2 - O Conselho é um órgão com funções consultivas, que deve proporcionar a participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política ambiental.\n\n3 - O Conselho é um órgão independente, que funciona junto do Ministro das Cidades, Ordenamento do Território e Ambiente."
+    }
+  ],
+  "nao_aplicavel": "Arts. 3.º, 8.º, 9.º, 10.º, 11.º e 17.º não aplicados: o texto original desses artigos (necessário para as unidades '...') não foi fornecido; instruções dos restantes diplomas não fornecidas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

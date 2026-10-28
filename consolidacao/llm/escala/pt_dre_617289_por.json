@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:617289:por",
+  "artigos": [
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1, 2, 3, 4 e 6 (arts. 4.º, 17.º, 18.º, 26.º, 28.º a 31.º, 80.º e outros): a instrução só tem a frase introdutória, sem a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

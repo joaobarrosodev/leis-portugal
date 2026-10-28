@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:408485:por",
+  "artigos": [
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 388/84 sobre os artigos 2.º, 16.º, 23.º, 24.º e 33.º; DL 279-A/85 sobre os artigos 2.º, 6.º e 8.º). Aplicada só a revogação do artigo 20.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

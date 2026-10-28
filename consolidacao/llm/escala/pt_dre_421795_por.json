@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:421795:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Contratos de trabalho",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O n.º 4 aditado pelo DLR n.º 21/88/A não tem texto, mas o artigo foi revogado pelo DLR n.º 1/2005/A.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:582656:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (arts. 2.º, 3.º e 9.º): a instrução só tem a frase introdutória, sem a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

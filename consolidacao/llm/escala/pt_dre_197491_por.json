@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:197491:por",
+  "artigos": [
+    {
+      "chave": "8.º-A",
+      "epigrafe": "Descontos para a ADSE ou para sistemas de assistência na doença",
+      "texto": "1 - Os descontos para a ADSE ou para sistemas de assistência na doença no âmbito da Administração Pública, efectuados por beneficiários inscritos a partir de 1 de Janeiro de 2009, incidem sobre a remuneração base paga, nos termos do n.º 3 do artigo 70.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

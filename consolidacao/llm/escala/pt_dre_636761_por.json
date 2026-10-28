@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:636761:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Condições gerais de acesso dos promotores",
+      "texto": "1 - Os promotores devem cumprir as seguintes condições de acesso, quando aplicável:\n\na) Estar legalmente constituído;\n\nb) Possuir a situação regularizada face à administração fiscal e à segurança social e não se encontrarem em dívida no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objectivos;\n\nc) Dispor de contabilidade organizada;\n\nd) Possuir situação financeira equilibrada, verificada pelo cumprimento do indicador de autonomia financeira igual ou superior a 15 %;\n\ne) (Revogada.)\n\n2 - As condições referidas nas alíneas a), c) e d) são exigíveis na data da apresentação da candidatura.\n\n3 - A condição referida na alínea b) apenas é exigível no momento da assinatura do contrato de concessão de incentivos.\n\n4 - No caso de empresas a constituir, o cumprimento das condições referidas nas alíneas a) a c) do número anterior é exigível até à data da celebração do contrato de concessão de incentivos.\n\n5 - Quando os promotores sejam agrupamentos complementares de empresas, os indicadores económicos e financeiros mencionados no presente diploma referem-se ao conjunto das empresas agrupadas."
+    }
+  ],
+  "nao_aplicavel": "Só o artigo 3.º é seguro. O diploma foi renumerado e republicado pelo DLR n.º 2/2009/A: o texto recebido dos artigos 15.º, 19.º, 24.º, 26.º, 29.º e 40.º não corresponde à estrutura que as instruções alteram (números/alíneas inexistentes); demais artigos alterados não vêm no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

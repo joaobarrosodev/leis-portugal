@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:166201:por",
+  "artigos": [
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::12.º",
+      "epigrafe": "",
+      "texto": "Quando, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerão juros compensatórios nos termos do artigo 35.º da lei geral tributária."
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::26.º",
+      "epigrafe": "",
+      "texto": "1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário."
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::2.º",
+      "epigrafe": "",
+      "texto": "1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra, ou apresentação da comunicação prévia e o seu valor à data de 1 de Janeiro de 1992, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1992 e à de realização a data da emissão do alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE).\n\n2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento."
+    }
+  ],
+  "nao_aplicavel": "Os artigos 14.º, 23.º e 28.º (DL 472/99) e 3.º e 7.º (Lei 64-B/2011) do Regulamento não constam dos artigos do original fornecidos, pelo que não foram aplicados. No artigo 26.º a nova redação só tem os n.os 1 a 3, pelo que o antigo n.º 4 deixa de constar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

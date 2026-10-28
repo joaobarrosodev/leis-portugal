@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:575760:por",
+  "artigos": [],
+  "nao_aplicavel": "As alterações do Decreto 45/93 incidem sobre os anexos (listas de imóveis); a retificação do Decreto 5/2002 incide na alínea c) do artigo único, para o qual não foi dada chave de artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

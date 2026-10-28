@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:198913:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Taxa",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As instruções 1 a 8 (art. 5.º) não trazem texto; aplicou-se a revogação do diploma pelo DL 73/99, que só ressalva o art. 4.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

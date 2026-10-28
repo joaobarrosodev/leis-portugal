@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:194799:por",
+  "artigos": [
+    {
+      "chave": "60.º",
+      "epigrafe": "Regime de alerta",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigo 18.º: as novas redações mantêm um n.º 4 (\"4 - ...\") que não existe no texto original recebido (terá sido aditado pelo DRR 6/90/A, cujo texto não consta); não aplicado por segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

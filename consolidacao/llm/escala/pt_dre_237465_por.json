@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:237465:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decretos-Leis n.os 48006, 48702 e 49305) não trazem o texto dos novos parágrafos nem da nova redacção dos artigos 41.º e 47.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

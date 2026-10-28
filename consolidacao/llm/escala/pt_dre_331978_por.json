@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:331978:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - A Universidade Católica Portuguesa, conforme decorre dos seus estatutos e tradição universitária, procurará atingir os mais elevados níveis académicos, científicos e pedagógicos, nunca podendo seguir princípios menos exigentes do que os que regem as universidades públicas, no tocante à qualidade do ensino ministrado, recrutamento do corpo docente e investigador, serviços médico-sociais universitários e acção social escolar.\n\n2 - A contratação do corpo docente da Universidade Católica Portuguesa é feita de acordo com regulamento interno, a aprovar pelos seus órgãos competentes, visando satisfazer as exigências da evolução da carreira académica dos docentes.\n\n3 - As categorias básicas da carreira docente da Universidade Católica são, para todos os efeitos, equiparadas às categorias correspondentes das universidades públicas.\n\n4 - O corpo docente da Universidade Católica Portuguesa fica abrangido pelas disposições do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência.\n\n5 - A remuneração relevante para efeitos de desconto de quota e de cálculo da pensão de aposentação não pode ser inferior à estabelecida na convenção colectiva de trabalho aplicável nem superior à que respeite à categoria e escalão da carreira docente instituída para o ensino oficial correspondente ao mesmo tempo de serviço docente."
+    }
+  ],
+  "nao_aplicavel": "O n.º 5 aditado pela Lei 1/2004 já consta do original (mesmo texto); a instrução do Acórdão 360/2003 não traz texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

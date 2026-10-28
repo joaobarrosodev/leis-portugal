@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:339847:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Disposições finais e transitórias",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O regime estabelecido no presente diploma é imediatamente aplicado aos processos pendentes em que a citação do réu ou de terceiros ainda não tenha sido efectuada ou ordenada.\n\n4 - A lei nova não prejudica as diligências em curso para realização de determinada modalidade de citação, sendo imediatamente aplicável se essa tentativa de citação se frustrar.\n\n5 - É aplicável às notificações dos processos pendentes o disposto no artigo 229.º-A.\n\n6 - O disposto no n.º 1 do artigo 646.º do Código de Processo Civil, na redacção do presente diploma, é apenas aplicável às causas em que ainda não se tenha iniciado o prazo para requerer a intervenção do tribunal colectivo.\n\n7 - Nos processos pendentes em que já tenha sido requerida a intervenção do tribunal colectivo, as partes podem acordar na realização da audiência por tribunal singular, devendo desse facto informar o respectivo tribunal, pelo menos 30 dias antes da data marcada para a sua realização.\n\n8 - O regime de direito probatório emergente da lei nova apenas é aplicável às provas que venham a ser requeridas ou oficiosamente ordenadas após a data da sua entrada em vigor.\n\n9 - A lei nova é imediatamente aplicável às causas de adiamentos das audiências."
+    }
+  ],
+  "nao_aplicavel": "A instrução 1 (Lei 30-D/2000) altera diretamente artigos do Código de Processo Civil, não o texto do artigo 1.º do DL 183/2000; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,154 @@
+{
+  "id": "pt:dre:429270:por",
+  "artigos": [
+    {
+      "chave": "64.º",
+      "epigrafe": "Quadro de pessoal",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Aposentação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Quadro de pessoal",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::58.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::58.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Estrutura geral do INPP",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Conceito",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Conceito",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — Estatuto do pessoal::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO III — Estatuto Disciplinar do Pessoal do INPP::35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO IV — Regulamento de Prestação de Serviços e Taxas::35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Novas redações das Portarias 123/80 e 443/80 e do DL 188/89 (art. 64.º n.º 1, 73.º, 51.º-A, Anexo I arts. 58.º e 59.º) não vêm no texto; a nova redação dos arts. 9.º e 12.º (DL 143/97) fica prejudicada pela revogação do DL 361/78 pelo DL 331/98, aplicada a tudo exceto às exceções. Não aplicados: art. 35.º e Anexo I::35.º (a exceção 'n.os 1, alínea d), 2, 3 e 4 do artigo 35.º' não corresponde ao texto disponível) e Anexo I::58.º (mantido com redação do DL 188/89 que não vem no texto); epígrafe de secção não é artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

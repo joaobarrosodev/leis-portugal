@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:676429:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Candidatos",
+      "texto": "1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:\n\na) Serem titulares de habilitação profissional ou própria;\n\nb) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;\n\nc) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;\n\nd) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.\n\n2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino."
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Vínculo e remuneração",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

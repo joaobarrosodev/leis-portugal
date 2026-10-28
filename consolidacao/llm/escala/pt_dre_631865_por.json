@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:631865:por",
+  "artigos": [
+    {
+      "chave": "70.º-A",
+      "epigrafe": "Depósitos para as sociedades em nome colectivo e em comandita simples",
+      "texto": "1 - As sociedades em nome colectivo e as sociedades em comandita simples só estão sujeitas à obrigação prevista no artigo anterior quando:\n\na) Todos os sócios de responsabilidade ilimitada sejam sociedades de responsabilidade limitada ou sociedades não sujeitas à legislação de um Estado membro da União Europeia, mas cuja forma jurídica seja igual ou equiparável à das sociedades de responsabilidade limitada;\n\nb) Todos os sócios de responsabilidade ilimitada se encontrem eles próprios organizados sob a forma de sociedade de responsabilidade limitada ou segundo uma das formas previstas na alínea anterior.\n\n2 - A obrigação referida no artigo anterior é dispensada quando as sociedades nela mencionadas não ultrapassem dois dos limites fixados pelo n.º 2 do artigo 262.º, sem prejuízo do disposto no número seguinte.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

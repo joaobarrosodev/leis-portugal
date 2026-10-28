@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nOs beneficiários das pensões de reforma extraordinária ou de invalidez concedidas ao abrigo deste diploma poderão, mediante autorização do Conselho de Ministros e sob proposta fundamentada dos serviços, voltar à actividade no Estado, corpos administrativos e organismos de coordenação económica ou prestar-lhes serviço remunerado, fora das hipóteses abrangidas pelo artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, combinado com os artigos 5.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e 2.º do [Decreto-Lei n.º 43285](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43285-1960-514426), de 3 de Novembro de 1960.\n\n§ 1.º Quando, porém, as funções sejam remuneradas deverá observar-se o disposto no artigo 38.º do [Decreto n.º 16669](https://diariodarepublica.pt/dr/detalhe/decreto/16669-1929-624997), de 27 de Março de 1929.\n\n§ 2.º A apreciação da capacidade física para o exercício do cargo de que se trate será feita tendo em conta as naturais limitações dos requerentes.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420) e [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), publicado em 1973-05-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:582656:por",
+    "alterador": "pt:dre:535420:por;pt:dre:421985:por"
+  }
+]

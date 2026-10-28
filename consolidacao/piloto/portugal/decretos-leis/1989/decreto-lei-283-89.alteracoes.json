@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:618499:por",
     "alterador": "pt:dre:413411:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Natureza\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, criado pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, é um instituto público dotado de personalidade jurídica, com autonomia administrativa, financeira e património próprio, e exerce a sua acção na tutela do Ministro das Obras Públicas, Transportes e Comunicações.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n3 - O Instituto passará a deter apenas autonomia administrativa, cessando o regime de autonomia financeira, se, decorrido período de três anos após a data de entrada em vigor do presente diploma, deixar de dispor de receitas próprias suficientes para cobrirem, pelo menos, dois terços das respectivas despesas.",
+    "depois": "###### Artigo 1.º — Natureza e tutela\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780) e [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618499:por",
+    "alterador": "pt:dre:175780:por;pt:dre:66761449:por"
   }
 ]

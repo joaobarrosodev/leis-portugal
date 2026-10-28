@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:201048:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 (DL 88/75, n.º 5 do artigo 7.º) e 2 (DL 309/85, artigo 8.º-A) sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

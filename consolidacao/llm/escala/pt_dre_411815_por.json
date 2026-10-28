@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:411815:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "Âmbito geográfico",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Cursos especializados",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Intercomunicabilidade com carreiras do regime geral",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "Comparência na escola",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "121.º",
+      "epigrafe": "Momento de aposentação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "136.º",
+      "epigrafe": "Manutenção de situações de mobilidade",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Só aplicadas revogações de artigos inteiros (DL 1/98, 121/2005, 15/2007). Arts. 56.º e 57.º (DL 105/97) foram depois alterados pelo DL 15/2007 sem texto; revogações parciais de 23.º, 57.º, 68.º, 72.º, 83.º, 115.º, 132.º e 22.º e nova redação do 64.º (Lei 80/2013) incidem sobre redações intermédias desconhecidas (DL 1/98, 15/2007, 270/2009 sem texto); 64.º-A não consta do original; restantes alterações sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

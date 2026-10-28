@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:341802:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

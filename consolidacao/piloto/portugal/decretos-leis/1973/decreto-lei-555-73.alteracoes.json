@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "85.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 85.º — Impressos exclusivos\n\n1. Constituem exclusivo do Centro de Informática os impressos destinados à recolha, comunicação e pedido de informações ao Registo Nacional, bem como os impressos que o Centro emita através de computador e os pedidos desses documentos.\n\n2. Serão aprovados por despacho do Ministro da Justiça os modelos e preços dos impressos referidos no número anterior.\n\n3. Cabe ao Centro promover o estudo, execução, distribuição e venda dos impressos por força das receitas obtidas e escriturar as receitas, bem como as despesas que efectuar por conta destas de harmonia com as normas aprovadas por despacho do Ministro da Justiça.",
+    "depois": "###### Artigo 85.º — Impressos exclusivos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299) e [Decreto-Lei n.º 346/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1978-325764) e [Decreto-Lei n.º 311/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1979-378949) e [Decreto-Lei n.º 103/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2001-345151), publicado em 2001-03-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412470:por",
+    "alterador": "pt:dre:327299:por;pt:dre:325764:por;pt:dre:378949:por;pt:dre:345151:por"
+  }
+]

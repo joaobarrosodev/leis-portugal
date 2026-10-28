@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:176301:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações aos arts. 2.º, 8.º e 27.º (DL 27/74, 103/76, 183-F/80, 192/84) sem texto; restantes alteram mapas anexos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

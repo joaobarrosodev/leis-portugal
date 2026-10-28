@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:240859:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções dos Decretos-Leis n.os 439/79 e 68/83 só trazem a frase introdutória; a nova redação dos artigos 1.º e 4.º não vem no pedido. O Decreto-Lei n.º 227/83 não traz instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:307235:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções dão nova redação aos artigos 4.º, 29.º, 31.º, 10.º (n.º 1), 16.º (n.º 1), 3.º e 11.º sem que o texto seja fornecido; não aplicável.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

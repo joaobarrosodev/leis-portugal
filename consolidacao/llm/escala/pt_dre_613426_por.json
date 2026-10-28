@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:613426:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "Competência do Secretário Regional Adjunto da Presidência",
+      "texto": "1 - O Secretário Regional Adjunto da Presidência exerce a sua competência nas seguintes matérias:\n\na) Assuntos parlamentares;\n\nb) Administração pública regional e local;\n\nc) Inspecção administrativa regional;\n\nd) Assuntos eleitorais;\n\ne) Estatística;\n\nf) Polícia administrativa;\n\ng) Assuntos da imigração.\n\n2 - Ao Secretário Regional Adjunto da Presidência compete assegurar as relações com a Assembleia Legislativa Regional e com os partidos políticos.\n\n3 - O Serviço Regional de Estatística dos Açores transita para a dependência do Secretário Regional Adjunto da Presidência."
+    }
+  ],
+  "nao_aplicavel": "Instrução 3 (DRR 38-A/2004/A) substitui globalmente a estrutura orgânica do diploma, sem revogação expressa do artigo; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

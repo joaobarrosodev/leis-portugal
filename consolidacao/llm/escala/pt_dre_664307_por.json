@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:664307:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1 a 4 (arts. 13.º, 14.º, 16.º, 19.º, 19.º-A e outros): a instrução só tem a frase introdutória, sem a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

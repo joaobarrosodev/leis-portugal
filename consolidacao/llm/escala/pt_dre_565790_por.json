@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:565790:por",
+  "artigos": [
+    {
+      "chave": "33.º",
+      "epigrafe": "Tipos de certificados",
+      "texto": "1 - Os certificados que devem ser concedidos aos marítimos agrupam-se nos seguintes tipos:\n\na) Certificados emitidos nos termos e para os efeitos da Convenção\n\nInternacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos (STCW);\n\nb) Certificados passados nos termos do Regulamento das Radiocomunicações, anexo à Convenção Internacional de Telecomunicações (RR/CIT);\n\nc) Certificados de operador radiotelefonista;\n\nd) Certificados diversos.\n\ne) Certificados de operação e manutenção do equipamento de rádio no GMDSS.\n\n2 - A concessão dos certificados referidos no número anterior não implica a mudança de categoria."
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Certificados nos termos e para os efeitos da Convenção STCW",
+      "texto": "Os certificados emitidos nos termos e para os efeitos da Convenção STCW, referidos na alínea a) do n.º 1 do artigo anterior, compreendem:\n\na) Certificados de competência;\n\nb) Certificados de dispensa;\n\nc) Certificados de qualificação;\n\nd) Outros certificados."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Exames a realizar ao pessoal do mar",
+      "texto": "1 - Os exames a realizar ao pessoal do mar, para além dos que conferem acesso às categorias profissionais previstas no [Decreto-Lei n.º 104/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1989-615193), de 6 de Abril, são os seguintes:\n\na) Para condução de motores de potência igual ou inferior a 150 kW;\n\nb) Para condução de embarcações salva-vidas;\n\nc) Para operador radiotelefonista;\n\nd) Para obtenção de certificado de segurança e sobrevivência no mar.\n\ne) Para obtenção do certificado de radioelectrónico de 2.ª classe no GMDSS;\n\nf) Para obtenção do certificado geral de operador no GMDSS;\n\ng) Para obtenção do certificado de manutenção a bordo do equipamento no GMDSS;\n\nh) Para obtenção do certificado restrito de operador no GMDSS;\n\ni) Para obtenção do certificado de manutenção elementar a bordo do equipamento no GMDSS;\n\nj) Para obtenção do certificado de operador de rádio no GMDSS, nas áreas marítimas A1 e A2 nacionais;\n\nl) Para obtenção do certificado de operador de rádio no GMDSS, na área marítima A1 nacional.\n\n2 - O exame referido na alínea c) do número anterior será dispensado para os marítimos a cujo curso seja aplicável o disposto no n.º 2 do artigo 40.º do presente anexo.\n\n3 - Em situação de excepcional carência de pessoal devidamente justificada, os requisitos de habilitação relativos aos cursos exigidos para ingresso nas categorias da mestrança e marinhagem poderão ser substituídos por aprovação em exame, o que será autorizado por despacho dos ministros responsáveis pelas marinhas do comércio ou da pesca, consoante se trate, respectivamente, de categorias da marinha do comércio ou da marinha da pesca, ou, tratando-se de categorias comuns a ambas as marinhas, por despacho conjunto de ambos os ministros.\n\n4 - Aos exames que constituem requisito de habilitação para obtenção das categorias de motorista prático de 1.ª classe, motorista prático de 2.ª classe, ajudante de motorista e radiotelegrafista prático da classe A aplica-se igualmente o disposto nos artigos da presente secção."
+    }
+  ],
+  "nao_aplicavel": "Artigo 2.º: a instrução da Portaria 1052/91 não traz o texto da nova redação. A lista de disposições revogadas pela Portaria 388/98 (art. 11.º) não consta do pedido. Nos artigos 33.º e 18.º os números não referidos na redação da Portaria 417/98 (n.º 2) mantiveram-se.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:466074:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 558/75 não traz a nova redação dos artigos 4.º e 17.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

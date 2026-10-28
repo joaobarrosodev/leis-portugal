@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:374995:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::6.º",
+      "epigrafe": "Competência",
+      "texto": "1 - Compete ao conselho de direcção, no âmbito da orientação e gestão dos serviços:\n\na) Dirigir a actividade dos SSGNR;\n\nb) Identificar as necessidades a satisfazer;\n\nc) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações a desenvolver;\n\nd) Elaborar e apresentar à aprovação do Ministro da Administração Interna o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;\n\ne) Elaborar e submeter à aprovação do Ministro da Administração Interna o relatório de actividades;\n\nf) Assegurar a gestão do pessoal dos SSGNR;\n\ng) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;\n\nh) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.\n\ni) Aprovar o regulamento de eleição dos membros do conselho consultivo previsto no artigo 14.º\n\n2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:\n\na) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;\n\nb) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;\n\nc) Promover a elaboração da conta de gerência."
+    },
+    {
+      "chave": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::14.º",
+      "epigrafe": "Composição",
+      "texto": "1 - Integram o conselho consultivo:\n\na) Os membros do conselho de direcção;\n\nb) Sete representantes eleitos de cada uma das categorias profissionais dos militares da Guarda Nacional Republicana, no activo;\n\nc) Dois representantes eleitos de entre os funcionários civis beneficiários dos serviços sociais, no activo, sendo um representante da carreira de guarda-florestal e outro dos restantes civis do mapa geral de pessoal aprovado;\n\nd) Um representante de cada uma das associações profissionais de militares da Guarda Nacional Republicana, legalmente constituídas.\n\n2 - A eleição dos membros do conselho consultivo referidos nas alíneas b) e c) do número anterior processa-se nos termos do regulamento aprovado pelo conselho de direcção.\n\n3 - O regulamento referido no número anterior:\n\na) Define os requisitos relativos à capacidade eleitoral;\n\nb) Consagra a eleição de suplentes que substituem os membros efectivos nas suas faltas e impedimentos.\n\n4 - Os membros do conselho consultivo referidos nas alíneas b) e c) do n.º 1 são eleitos para um mandato de três anos desempenhado em regime de acumulação com as funções que exercem nos locais onde prestam serviço.\n\n5 - O conselho consultivo é presidido pelo militar mais graduado ou mais antigo de entre os seus membros.\n\n6 - A participação no conselho consultivo não é remunerada."
+    }
+  ],
+  "nao_aplicavel": "Artigos 13.º e 15.º não constam dos artigos do original (epígrafe e alínea e) anterior do 13.º desconhecidas).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

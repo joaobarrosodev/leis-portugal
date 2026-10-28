@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:380135:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito do diploma",
+      "texto": "O presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no Decreto-Lei n.º 18/88, de 21 de Janeiro, e no Decreto-Lei n.º 384/93, de 18 de Novembro, com a redacção dada pelo Decreto-Lei n.º 16/96, de 8 de Março."
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Classificação profissional",
+      "texto": "1 - Concluída com aproveitamento a frequência dos dois anos de formação, será atribuída ao docente em profissionalização uma classificação profissional pela Direcção-Geral da Administração Educativa.\n\n2 - A classificação profissional referida no número anterior será determinada, com aproximação às décimas, através da aplicação da seguinte fórmula:\n\nCP = ((CA + (CCE + CPFAP))/2)/2\n\nem que CP corresponde à classificação profissional, CA à classificação académica, CCE à componente ciências da educação e CPFAP à componente projecto de formação e acção pedagógica.\n\n3 - A classificação profissional será publicada no Diário da República, 2.ª série, pela Direcção-Geral da Administração Educativa."
+    }
+  ],
+  "nao_aplicavel": "Artigos 3.º, 16.º, 19.º, 21.º (DL 15-A/99) e 42.º (DL 127/2000) não aplicados: a nova redação usa '...' para números cujo texto original não é fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

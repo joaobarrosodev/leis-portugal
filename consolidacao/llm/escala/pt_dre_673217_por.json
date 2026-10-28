@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:673217:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação dos artigos 12.º e 13.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

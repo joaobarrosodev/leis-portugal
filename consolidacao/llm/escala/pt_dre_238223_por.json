@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:238223:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 326/75 só traz a frase introdutória, sem a nova redação do art. 24.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

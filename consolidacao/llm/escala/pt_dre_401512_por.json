@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:401512:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (n.º 3 do art. 12.º) sem texto; notas e colunas do mapa anexo não são textuais; a revogação do art. 5.º não se aplicou por o artigo não constar dos artigos do original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

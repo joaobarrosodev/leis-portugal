@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:161891:por",
+  "artigos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 282/76 muda a designação do QPSPTM para QPMM e extingue mais categorias do QPCMM sem dar nova redação a artigos; alterações não textuais.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

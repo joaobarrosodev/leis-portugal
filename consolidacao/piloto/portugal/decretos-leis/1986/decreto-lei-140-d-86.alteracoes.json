@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nDeixam de ser considerados base de incidência contributiva:\n\na) Os abonos para falhas;\n\nb) As quantias pagas aos trabalhadores em cumprimento de acordos de cessação de contrato de trabalho;\n\nc) Os valores dos subsídios das refeições tomadas em refeitórios e o das senhas de almoço nos casos em que os trabalhadores não disponham de refeitórios.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021) e [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237) e [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209) e [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042) e [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520) e [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450) e [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:569905:por",
+    "alterador": "pt:dre:222021:por;pt:dre:626237:por;pt:dre:311209:por;pt:dre:583042:por;pt:dre:570520:por;pt:dre:529450:por;pt:dre:490249:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º\n\nDas contribuições arrecadadas por força do presente diploma constituirão receitas próprias do Instituto do Emprego e Formação Profissional pelo menos 5% das mesmas.",
+    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021) e [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237) e [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209) e [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042) e [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520) e [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450) e [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:569905:por",
+    "alterador": "pt:dre:222021:por;pt:dre:626237:por;pt:dre:311209:por;pt:dre:583042:por;pt:dre:570520:por;pt:dre:529450:por;pt:dre:490249:por"
+  }
+]

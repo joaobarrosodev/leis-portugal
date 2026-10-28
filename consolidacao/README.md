@@ -362,6 +362,51 @@ cd consolidacao && export PYTHONPATH=../src && python selecionar.py --todos && f
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
 - **Os outros 1.468 diplomas com 10 ou mais citações** têm mais de uma alteração. O método serve na mesma (aplicar as alterações por ordem de data), mas a amostra mostra que é preciso filtrar primeiro as relações que não são alterações textuais.
 
-### Dry-run da ronda 6 no acervo
+### Rondas 6 e 7: verificação às cegas por subagentes e LLM em subagentes
 
-`python consolidacao/acervo.py --dry-run --supor-verificados`, sem as saídas da verificação (ainda não existem): dos 382 diplomas da ronda 6, 382 passam nos controlos técnicos (o consolidado é o da entrada, o original em `data/` é o verificado, o histórico reproduz o consolidado), 30 deles com dois ou mais alteradores; nenhum é recusado. Sem `--supor-verificados`, `Aplicados: 0`: nenhum dos lotes tem `saida-piloto-6-lote-NN.jsonl`. Os outros 2 dos 384 aplicados por regra são do piloto, com o mesmo texto, já no acervo.
+Feito em 2026-10-28, sem alterar `data/`. A verificação e as respostas do LLM vieram de subagentes de uma sessão do Claude (Sonnet 5.5 na verificação, Opus 5.5 no LLM), sem API.
+
+**Verificação às cegas da ronda 6** (382 diplomas, 13 lotes). `cegas_vista.py vistas 6 PASTA` divide a ronda em pedaços (de até 140 mil caracteres, nunca de dois lotes) e escreve para cada um uma vista com o texto do alterador e só os artigos do consolidado que diferem do original (comparados pelo título) e a lista dos que são iguais; 47 subagentes, um por pedaço, deram os veredictos num JSON; `cegas_vista.py saida 6 PASTA` junta-os em `verificacao/saida-piloto-6-lote-NN.jsonl`, no formato das rondas anteriores (os artigos iguais ao original ficam `certo` por omissão). O verificador não lê registos de alterações, regras nem código. Seis diplomas ficaram sem resposta no pedaço 32 (o subagente respondeu a menos do que a vista tinha) e foram repetidos.
+
+| Lote | Diplomas | Sem reparos | Com reparos |
+| --- | --: | --: | --: |
+| 01 | 30 | 26 | 4 |
+| 02 | 30 | 21 | 9 |
+| 03 | 30 | 27 | 3 |
+| 04 | 30 | 26 | 4 |
+| 05 | 30 | 28 | 2 |
+| 06 | 30 | 28 | 2 |
+| 07 | 30 | 24 | 6 |
+| 08 | 30 | 26 | 4 |
+| 09 | 30 | 28 | 2 |
+| 10 | 30 | 26 | 4 |
+| 11 | 30 | 24 | 6 |
+| 12 | 30 | 26 | 4 |
+| 13 | 22 | 20 | 2 |
+| **Total** | **382** | **330** | **52** |
+
+Os artigos: 9.152 `certo`, 28 `errado`, 16 `dúvida`. 26 diplomas têm instruções em falta (quase todas anexos, quadros e mapas que só existem em PDF). Os `errado` mais frequentes são revogações aplicadas que não valiam para o texto: revogação "na parte aplicável a …" ou só do § único, revogação que só produz efeitos quando entrarem em vigor planos (artigo 53.º, n.º 2, do Decreto-Lei n.º 142/2008, em cinco diplomas), e um "(Corpo do artigo.)" copiado do alterador. São lições para as regras, não para o acervo. **Limite do método:** o verificador não vê o texto dos artigos iguais ao original, por isso uma instrução "em falta" sobre um deles pode ser falso alarme; os 26 deviam ser revistos antes de se concluir que as regras falharam.
+
+**Dry-run no acervo** (`python consolidacao/acervo.py --dry-run`, com as saídas): **330 dos 382 da ronda 6 passariam** (mais os 2 dos 384 que são do piloto e já estão no acervo); nenhum recusado. Os 30 com dois ou mais alteradores passam ou não pelo mesmo critério dos outros.
+
+**LLM nos lotes 001 a 010** (os de original com artigos identificados e mais citados; 400 diplomas). `llm.py --sessao --escala` deu os lotes; cada lote foi dividido em pedaços de até 150 a 220 mil caracteres e cada pedaço foi para um subagente (4 de cada vez), que escreveu uma linha por diploma; `llm.py --escala --importar` verificou-as letra a letra (respostas em `llm/escala/`); `juntar.py --escala` juntou-as ao consolidado que as regras tinham deixado.
+
+| Lote | Sem problemas | Não aplicável | Com problemas |
+| --- | --: | --: | --: |
+| 001 | 14 | 25 | 1 |
+| 002 | 14 | 24 | 2 |
+| 003 | 15 | 22 | 3 |
+| 004 | 12 | 22 | 6 |
+| 005 | 10 | 28 | 2 |
+| 006 | 13 | 26 | 1 |
+| 007 | 15 | 23 | 2 |
+| 008 | 17 | 23 | 0 |
+| 009 | 8 | 30 | 2 |
+| 010 | 10 | 28 | 2 |
+| **Total** | **128** | **251** | **21** |
+
+Dos 128 sem problemas, `juntar.py --escala` juntou 99 (`aplicado com LLM`, 85 deles parciais: a resposta deixou instruções por aplicar) e não juntou 29: 7 já tinham sido juntados com o LLM no piloto e 22 porque a resposta refaz um artigo que as regras já tinham alterado. O `não aplicável` dominante é "o pedido não traz o texto da nova redação" (a instrução só tem o proémio) e as alterações a quadros e anexos.
+
+**Ronda 7** (os 99 juntados com o LLM, 4 lotes, `verificacao/entrada-piloto-7-lote-01..04.jsonl`, 22 pedaços, mesma verificação): **8 sem reparos e 91 com reparos** (88 com instruções em falta, 57 artigos `errado`, 13 `dúvida`). O rendimento do LLM em subagentes, neste estado do `juntar.py`, é baixo: das 400 entradas, 8 chegam ao acervo (2 %). Isto não contraria a ideia de usar o LLM, mas a forma: o pedido só leva os artigos que a instrução nomeia e, nos diplomas com muitas alterações, a resposta fica parcial; um diploma parcial não passa. Com a ronda 7, o `acervo.py --dry-run` passa a dar 338 aplicáveis (330 + 8).
+
+**Para continuar:** os lotes 011 a 110 estão por fazer (os 011 a 042 são os restantes com artigos identificados, menos citados). O rendimento por lote nos primeiros dez foi de 8 a 17 respostas sem problemas, mas a ronda 7 sugere que antes de gastar mais convém tratar a causa dos parciais (pedir ao LLM todas as instruções do diploma, com o texto completo dos artigos, e juntar por artigo) e a dos conflitos com as regras (22 de 128).

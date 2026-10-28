@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:238645:por",
+  "artigos": [
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "Tanto o azeite como os restantes óleos comestíveis e as misturas destes só podem ser postos à venda e vendidos em embalagens fechadas de material inerte e inócuo para as gorduras, com garantia de integridade.\n\n§ único. O acondicionamento só poderá ser efectuado pelos produtores ou armazenistas, aos quais compete prestar a garantia de integridade referida neste artigo."
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "A designação de óleo de gergelim é dada à gordura obtida da semente do mesmo nome e este produto deve dar resultado positivo na reacção de Baudoin, modificada por Villavechia e Fabris, antes e depois de refinado.\n\n§ único. (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções do DL 46783 (artigo 13.º e outros), DL 48315 (alínea a) do artigo 6.º) e DL 143/74 artigo 1.º (artigo 29.º e outros) sem texto da nova redação. No artigo 27.º, suprimido o § 2.º e renumerado o § 1.º como § único.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "27.º: parágrafo que não está no alterador nem no original: § único. O acondicionamento só poderá ser efectuado pelos produtores ou armazeni",
+    "11.º: parágrafo que não está no alterador nem no original: § único. (Revogado.)"
+  ]
+}

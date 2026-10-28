@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "131.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 131.º — Definições e requisitos\n\n1 - Consideram-se ligações provisórias as que se destinam a alimentar instalações de caráter temporário, nomeadamente as instalações para reparações, ensaios de equipamentos, obras e estaleiros, sendo desmontadas, deslocadas ou substituídas por ligações definitivas findo o período e objeto a que se destinavam.\n\n2 - Consideram-se ligações eventuais as que se destinam a alimentar instalações de caráter eventual, nomeadamente eventos temporários de natureza social, cultural ou desportiva.\n\n3 - As ligações de instalações provisórias devem ser estabelecidas, preferencialmente, de modo a que possam vir a constituir ligações definitivas.",
+    "depois": "###### Artigo 131.º — Definições e requisitos\n\n1 - Consideram-se ligações provisórias as que se destinam a alimentar instalações de caráter temporário, nomeadamente as instalações para reparações, ensaios de equipamentos, obras e estaleiros, sendo desmontadas, deslocadas ou substituídas por ligações definitivas findo o período e objeto a que se destinavam.\n\n2 - Consideram-se ligações eventuais as que se destinam a alimentar instalações de caráter eventual, nomeadamente eventos temporários de natureza social, cultural ou desportiva.\n\n3 - As ligações de instalações provisórias devem ser estabelecidas, preferencialmente, de modo a que possam vir a constituir ligações definitivas.\n\n4 - Não é admitida, nos casos de instalações provisórias ou eventuais, a constituição de pontos de entrega internos previstos para instalações de consumo não exclusivas para a mobilidade elétrica.»\n\n> Alterado pelo/a [Regulamento n.º 8/2026](https://diariodarepublica.pt/dr/detalhe/regulamento/8-2026-994000577), publicado em 2026-01-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216305857:por",
+    "alterador": "pt:dre:994000577:por"
+  }
+]

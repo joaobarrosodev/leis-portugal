@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:371035:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:\n\na) Ministros de Estado;\n\nb) Ministro da Presidência;\n\nc) Ministro dos Assuntos Parlamentares;\n\nd) Ministro Adjunto do Primeiro-Ministro.\n\n2 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Ministro da Presidência;\n\nd) Secretário de Estado da Juventude e Desportos.\n\n3 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.\n\n4 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado da Administração Pública.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.\n\n3 - Transitam do extinto Ministério da Reforma do Estado e da Administração Pública para o Ministério das Finanças os serviços e organismos naquele compreendidos.\n\n4 - Transitam do extinto Ministério do Planeamento para o Ministério das Finanças os seguintes serviços e organismos:\n\na) Secretaria-Geral;\n\nb) Auditoria Jurídica (Planeamento e Administração do Território);\n\nc) Departamento de Prospectiva e Planeamento;\n\nd) (Revogada.)\n\n5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro da Agricultura, Desenvolvimento Rural e Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas, pelo Secretário de Estado do Desenvolvimento Rural e pelo Secretário de Estado das Florestas.\n\n2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação."
+    },
+    {
+      "chave": "32.º-A",
+      "epigrafe": "",
+      "texto": "Até à entrada em vigor do Orçamento do Estado do ano de 2005 mantém-se a expressão orçamental da estrutura governativa anterior relativa à Direcção-Geral do Desenvolvimento Regional."
+    }
+  ],
+  "nao_aplicavel": "Os artigos 14.º, 17.º, 20.º, 24.º, 25.º, 26.º, 27.º, 29.º, 30.º e 31.º também alterados não vêm no texto do original do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

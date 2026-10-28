@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:553889:por",
+  "artigos": [
+    {
+      "chave": "37.º",
+      "epigrafe": "Gestão financeira dos projetos enquadrados em programas e iniciativas comunitários no âmbito do setor das pescas",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (DLR 41-A/2012/M) substitui mapas anexos, não textual; instrução 2 (extinção de entidades ao abrigo do artigo 36.º) não altera texto e vem incompleta.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

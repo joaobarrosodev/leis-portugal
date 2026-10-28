@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:506039:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 205/76 sobre o n.º 1 do artigo 20.º; DL 702/76 sobre o n.º 4 do artigo 18.º).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

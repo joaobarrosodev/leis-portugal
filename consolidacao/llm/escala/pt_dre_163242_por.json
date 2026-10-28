@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:163242:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções que alteram os artigos 15.º, 11.º, 12.º e 14.º não trazem o texto da nova redacção.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

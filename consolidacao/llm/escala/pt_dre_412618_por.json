@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:412618:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (als. f) e g) do n.º 1 do art. 13.º): a instrução só tem a frase introdutória, sem a nova redação, ficando de qualquer modo revogado pelo DL 102/80.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

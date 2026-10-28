@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:422176:por",
+  "artigos": [],
+  "nao_aplicavel": "A única instrução (Decreto Regulamentar n.º 49/80) extingue a carreira de arquivista do mapa anexo (quadro de pessoal, só disponível como documento original); não altera a redação de nenhum artigo, é alteração não textual a um anexo/quadro.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

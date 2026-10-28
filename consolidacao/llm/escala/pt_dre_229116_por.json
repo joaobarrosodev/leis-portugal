@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:229116:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decreto-Lei n.º 637/70 e Decreto-Lei n.º 255/75) anunciam nova redação de números dos artigos 4.º, 6.º, 18.º, 19.º, 20.º, 51.º, 55.º, 57.º e 58.º, mas o texto das novas redações não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

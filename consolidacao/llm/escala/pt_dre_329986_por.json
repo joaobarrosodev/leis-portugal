@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:329986:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções da Lei 28/2003 trazem só números soltos ('4 - ...') sem indicar o artigo alvo; visam a Lei 77/88 (e não o articulado próprio da Lei 59/93); alvo ambíguo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

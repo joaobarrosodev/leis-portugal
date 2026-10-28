@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:631797:por",
+  "artigos": [
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "1. O transporte por via terrestre de quantidades superiores a 500 kg será sempre acompanhado por um graduado ou guarda da Polícia de Segurança Pública ou por uma praça da Guarda Nacional Republicana ou da Guarda Fiscal.\n\n2. Ao chefe do comboio de veículos ou ao guarda da viatura isolada compete:\n\na) Vigiar pela segurança do material transportado, cumprindo e fazendo cumprir as disposições legais respectivas;\n\nb) Cumprir rigorosamente o itinerário, justificando qualquer alteração ao mesmo;\n\nc) Enviar ao Comando-Geral da Polícia de Segurança Pública um relatório sobre a forma como decorreu o serviço.\n\n3 - É dispensada a escolta referida no n.º 1, se o transportador fizer uso de sistema electrónico de geolocalização, que assegure a permanente monitorização do transporte e accionamento imediato de alarmes.\n\n4 - Os encargos resultantes da escolta ou do sistema de geolocalização previstos nos n.os 1 e 3 ficam a cargo dos expedidores e são regulados pelas disposições legais em vigor.\n\n5 - É ainda dispensada a presença de escolta ou o uso do sistema de geolocalização referidos nos n.os 1 e 3 se na fábrica, oficina, paiol ou depósito existir licença permanente para transporte de explosivos para os pontos de embarque ou desembarque, a uma distância não superior a 5 km, e houver um responsável por cada viatura."
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 substitui a tabela anexa a que se refere o art. 7.º (não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

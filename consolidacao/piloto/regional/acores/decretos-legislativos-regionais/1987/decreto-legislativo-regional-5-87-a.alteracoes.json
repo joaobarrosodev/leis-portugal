@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Fundamentação e apreciação\n\nDepende de parecer da Secretaria Regional das Finanças (SRF) e da Secretaria Regional da Administração Pública (SRAP) a aprovação dos projectos de diploma que visem:\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - ...\n\na) ...\n\nb) Mapas dos modelos I, II e III anexos, com as adaptações necessárias, sempre que dos diplomas resulte a criação ou alteração de quadros ou mapas de pessoal;\n\nc) Parecer técnico dos serviços, quando os houver, que nos respectivos departamentos governamentais têm competência em matéria de organização de gestão de pessoal, o qual, em caso de criação ou reorganização de serviços ou de aumento de quadros, analisará, designadamente, soluções alternativas de concentração, de absorção de serviços ou de mobilidade, respectivamente.\n\n3 - Os estudos preliminares e a preparação dos referidos projectos podem ser assessorados pelos serviços da SRF e da SRAP.\n\n4 - A reorganização de serviços não deve determinar acréscimo dos encargos globais do respectivo departamento governamental.\n\n5 - ...\n\n6 - Os pareceres a que se refere o n.º 1 deverão ser prévios à circulação para aprovação em Conselho do Governo Regional e devem ser emitidos no prazo de 30 dias a contar da data da sua entrada nos respectivos departamentos, prazo que será interrompido sempre que se solicitem elementos adicionais ou se proceda a uma auditoria de gestão nos termos do artigo 3.º\n\n7 - O parecer da SRF deve pronunciar-se expressamente sobre o custo dos projectos, sua cobertura e adequação à política orçamental.\n\n8 - O parecer da SRAP deve pronunciar-se expressamente sobre:\n\na) A eventual existência de serviços que prossigam objectivos complementares, paralelos ou sobrepostos;\n\nb) A adequação da estrutura proposta aos objectivos;\n\nc) A adequação dos efectivos à estrutura proposta e aos objectivos a prosseguir, bem como à política de recursos humanos, designadamente mobilidade e contenção de pessoal;\n\nd) A necessidade das soluções preconizadas, do ponto de vista da eficiência e da eficácia dos serviços e da sua compatibilização com o regime geral da função pública.",
+    "depois": "###### Artigo 2.º — Contratos de trabalho\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 21/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1988-373581) e [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421795:por",
+    "alterador": "pt:dre:373581:por;pt:dre:534776:por"
+  }
+]

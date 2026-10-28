@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nNão caduca o prazo de validade dos concursos relativamente aos candidatos que, atendendo à ordem da respectiva classificação ou graduação, forem nomeados interinamente durante o mesmo prazo para o cargo da categoria ou classe correspondente, desde que, sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis, venham a ser nele providos a título normal, ainda que por nomeação provisória.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093) e [Decreto-Lei n.º 309/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1985-179870) e [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), publicado em 1988-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201048:por",
+    "alterador": "pt:dre:160093:por;pt:dre:179870:por;pt:dre:401758:por"
+  }
+]

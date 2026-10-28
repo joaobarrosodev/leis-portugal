@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Taxa)\n\n1. A taxa dos juros de mora é de 1 por cento, se o pagamento se fizer dentro do mês de calendário em que se verificou a sujeição aos mesmos juros, aumentando-se uma unidade por cada mês do calendário ou fracção, se o pagamento se fizer posteriormente.\n\n2. Sobre os juros de mora não recaem quaisquer adicionais, quer para o Estado, quer para quaisquer outras entidades.",
+    "depois": "###### Artigo 5.º — Taxa\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 452/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1975-314913) e [Decreto-Lei n.º 353-L/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-l-1977-240856) e [Decreto-Lei n.º 429/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1978-325327) e [Decreto-Lei n.º 318/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1980-471147) e [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:198913:por",
+    "alterador": "pt:dre:314913:por;pt:dre:240856:por;pt:dre:325327:por;pt:dre:471147:por;pt:dre:144994:por"
+  }
+]

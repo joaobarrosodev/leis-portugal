@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:520187:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação dos artigos 1.º a 6.º pelo Decreto-Lei n.º 365/93; só os artigos 1.º e 3.º vêm no pedido. A alteração do Decreto-Lei n.º 19/79 não traz texto (e esse diploma foi também revogado).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

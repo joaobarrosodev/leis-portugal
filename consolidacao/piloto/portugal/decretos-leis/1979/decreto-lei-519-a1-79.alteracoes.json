@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — (Horário)\n\n1 - Por razões de eficiência dos serviços, nomeadamente no que diz respeito ao encerramento de contas, abertura e fecho do cofre, ou melhor atendimento do público, poderá o horário de trabalho dos funcionários do quadro geral das tesourarias da Fazenda Pública ser fixado por despacho do Ministro das Finanças, sob proposta da Direcção-Geral do Tesouro, sem prejuízo do regime de horário de trabalho da função pública.\n\n2 - Todas as horas de serviço extraordinárias prestadas para além do horário legalmente estabelecido serão remuneradas nos termos da lei geral.",
+    "depois": "###### Artigo 10.º — Horário\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 201/81](https://diariodarepublica.pt/dr/detalhe/portaria/201-1981-391188) e [Portaria n.º 472/83](https://diariodarepublica.pt/dr/detalhe/portaria/472-1983-311835) e [Portaria n.º 95-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/95-a-1985-321747) e [Portaria n.º 867/85](https://diariodarepublica.pt/dr/detalhe/portaria/867-1985-171926) e [Portaria n.º 261/90](https://diariodarepublica.pt/dr/detalhe/portaria/261-1990-332043) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157034:por",
+    "alterador": "pt:dre:391188:por;pt:dre:311835:por;pt:dre:321747:por;pt:dre:171926:por;pt:dre:332043:por;pt:dre:218365:por"
+  },
+  {
+    "artigo": "68.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 68.º — (Balanço diário)\n\n1 - O tesoureiro gerente é obrigado diariamente a verificar, pelos elementos de contabilidade da tesouraria, as contas das diversas caixas e a apurar, pelo seu cômputo, o saldo em dinheiro e documentos de despesa e a venda de valores selados e impressos.\n\n2 - Para o efeito, será elaborado o balancete diário, que será assinado pelo tesoureiro gerente e entregue, no final do dia, na repartição de finanças, para contrôle dos seus elementos de escrita.",
+    "depois": "###### Artigo 68.º — Balanço diário\n\n1 - O tesoureiro gerente é obrigado diariamente a verificar, pelos elementos de contabilidade da tesouraria, as contas das diversas caixas e a apurar, pelo seu cômputo, o saldo em dinheiro e documentos de despesa e a venda de valores selados e impressos.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 201/81](https://diariodarepublica.pt/dr/detalhe/portaria/201-1981-391188) e [Portaria n.º 472/83](https://diariodarepublica.pt/dr/detalhe/portaria/472-1983-311835) e [Portaria n.º 95-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/95-a-1985-321747) e [Portaria n.º 867/85](https://diariodarepublica.pt/dr/detalhe/portaria/867-1985-171926) e [Portaria n.º 261/90](https://diariodarepublica.pt/dr/detalhe/portaria/261-1990-332043) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157034:por",
+    "alterador": "pt:dre:391188:por;pt:dre:311835:por;pt:dre:321747:por;pt:dre:171926:por;pt:dre:332043:por;pt:dre:218365:por"
+  }
+]

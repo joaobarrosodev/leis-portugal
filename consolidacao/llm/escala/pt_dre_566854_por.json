@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:566854:por",
+  "artigos": [],
+  "nao_aplicavel": "A Lei n.º 99/2001 altera os artigos 169.º, 170.º, 172.º, 176.º e 178.º do Código Penal (na redação dada pela Lei n.º 65/98), não artigos da própria Lei n.º 65/98; esses artigos só existem como texto citado dentro do artigo 2.º do original, pelo que o alvo não é seguro.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

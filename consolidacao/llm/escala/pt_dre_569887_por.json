@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:569887:por",
+  "artigos": [
+    {
+      "chave": "29.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "O presente diploma entra em vigor no dia 1 de Maio de 2000, salvo as normas legais de habilitação de poder regulamentar.\n\nVisto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.\n\nPromulgado em 7 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de intervenção",
+      "texto": "1 - Cabe em geral à DGCI, relativamente aos impostos que lhe incumbe administrar:\n\na) Assegurar a respectiva liquidação e cobrança;\n\nb) Exercer a acção de inspecção tributária, prevenindo e combatendo a fraude e evasão fiscais;\n\nc) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;\n\nd) Executar os acordos e convenções internacionais em matéria tributária, nomeadamente os destinados a evitar a dupla tributação;\n\ne) Informar os particulares sobre as respectivas obrigações fiscais e apoiá-los no cumprimento das mesmas;\n\nf) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as respectivas competências;\n\ng) Contribuir para a melhoria da eficácia do sistema fiscal, propondo as providências de carácter normativo, técnico e organizacional que se revelem adequadas;\n\nh) Cooperar com as administrações tributárias de outros Estados e participar nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;\n\ni) Promover e assegurar as relações com organismos nacionais vocacionados para o estudo de matérias fiscais.\n\nj) Contribuir para a investigação científica no domínio da fiscalidade e para o aperfeiçoamento da técnica tributária.\n\n2 - Cabe, ainda, à DGCI a arrecadação e a cobrança de outras receitas do Estado ou de outras pessoas colectivas de direito público que lhe sejam atribuídas por lei.\n\n3 - No desempenho das suas competências, a DGCI actua em coordenação institucional com a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e com a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros e coopera com outros serviços públicos que intervenham na área fiscal e com as administrações tributárias de outros Estados."
+    }
+  ],
+  "nao_aplicavel": "Os artigos 9.º, 16.º, 18.º, 19.º e 23.º alterados pelo Decreto-Lei n.º 237/2004 não constam dos artigos recebidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 3 - No desempenho das suas competências, a DGCI actua em coordenação institucion"
+  ]
+}

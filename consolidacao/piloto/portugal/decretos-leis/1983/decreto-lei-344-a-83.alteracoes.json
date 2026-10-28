@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "20.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º\n\nO Ministério da Qualidade de Vida compreende as seguintes secretarias de Estado:\n\na) Secretaria de Estado dos Desportos;\n\nb) Secretaria de Estado do Ambiente.",
+    "depois": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 388/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1984-401354) e [Decreto-Lei n.º 279-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-a-1985-291837), publicado em 1985-07-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:408485:por",
+    "alterador": "pt:dre:401354:por;pt:dre:291837:por"
+  }
+]

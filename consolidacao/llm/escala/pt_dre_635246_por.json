@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:635246:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 459/79 só traz a frase introdutória, sem a nova redação do artigo 50.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

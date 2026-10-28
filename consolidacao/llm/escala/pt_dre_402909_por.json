@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:402909:por",
+  "artigos": [
+    {
+      "chave": "32.º",
+      "epigrafe": "Liquidação do imposto sobre o valor acrescentado nas transmissões de combustíveis gasosos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Nova redação do n.º 1 do art. 3.º (Lei 32/86) sem texto; alteração dos mapas não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

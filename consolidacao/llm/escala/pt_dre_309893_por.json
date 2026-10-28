@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:309893:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (DL 3/75, 5/75, 38-B/75, 86/75, 541-A/75) só trazem as frases introdutórias, sem as novas redações.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

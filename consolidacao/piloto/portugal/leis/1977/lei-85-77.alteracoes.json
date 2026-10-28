@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "193.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 193.º — (Transferência e acesso dos juízes dos tribunais do trabalho)\n\n1. Quando não se encontrem habilitados com concurso ou estágio de ingresso na magistratura judicial, os juízes dos tribunais do trabalho podem ser transferidos para tribunais de diferente natureza após a frequência, com aproveitamento, de curso de qualificação a organizar pelo centro de estudos judiciários.\n\n2. Até ser criado o centro de estudos judiciários, o Conselho Superior da Magistratura organizará o curso a que se refere o número anterior.\n\n3. Os juízes que não satisfaçam ao requisito previsto no n.º 1 têm apenas acesso às secções de jurisdição social dos tribunais superiores.",
+    "depois": "###### Artigo 193.º — Transferência e acesso dos juízes dos tribunais do trabalho\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 28/79](https://diariodarepublica.pt/dr/detalhe/lei/28-1979-370668) e [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279609:por",
+    "alterador": "pt:dre:370668:por;pt:dre:464003:por"
+  }
+]

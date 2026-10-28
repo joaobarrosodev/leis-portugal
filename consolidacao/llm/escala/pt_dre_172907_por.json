@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:172907:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções eliminam artigos pautais da lista anexa (quadro não disponível em texto); não aplicáveis com segurança. A instrução do DL 47149 também não indica o artigo pautal.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

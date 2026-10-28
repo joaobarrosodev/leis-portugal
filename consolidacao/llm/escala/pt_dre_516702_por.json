@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:516702:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto n.º 444/73 só traz a frase introdutória; a nova redação dos parágrafos do artigo 4.º não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

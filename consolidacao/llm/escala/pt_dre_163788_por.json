@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:163788:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem a nova redação (alteração de quadro de pessoal por mapa; artigos 13.º, 16.º e 17.º sem texto).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

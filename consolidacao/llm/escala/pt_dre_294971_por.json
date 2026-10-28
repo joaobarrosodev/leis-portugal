@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:294971:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução (DL 48489) não traz o texto da nova redação do § único do artigo 15.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

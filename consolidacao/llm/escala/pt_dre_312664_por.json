@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:312664:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções que alteram os artigos 160.º, 175.º, 144.º, 164.º e 129.º não trazem o texto da nova redacção; as restantes alteram mapas/quadros anexos ou extinguem serviços (alteração não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

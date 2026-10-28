@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:412470:por",
+  "artigos": [
+    {
+      "chave": "85.º",
+      "epigrafe": "Impressos exclusivos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 326/78, DL 346/78, DL 311/79 sobre os artigos 4.º, 64.º, 46.º e 47.º). Aplicada só a revogação do artigo 85.º pelo DL 103/2001.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

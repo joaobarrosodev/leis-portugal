@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:274639:por",
+  "artigos": [
+    {
+      "chave": "56.º",
+      "epigrafe": "",
+      "texto": "1. O pessoal dos hospitais e serviços da organização hospitalar, bem como todos os que ali exerçam funções por eles remunerados, temporárias ou permanentes, ficam sujeitos ao regime disciplinar dos servidores civis do Estado.\n\n2. A este regime podem ser introduzidas alterações no Regulamento Geral dos Hospitais, no que respeita aos estabelecimentos das Misericórdias e demais instituições de assistência particular, para o adaptar à natureza específica dos mesmos.\n\n3. A distribuição da competência disciplinar relativa ao pessoal dos estabelecimentos e serviços administrados por instituições de assistência particular constará também do Regulamento Geral dos Hospitais.\n\n4. (Revogado.)"
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações dos DL 498/70, 275/71 e 160/72 incidem sobre o quadro tipo anexo (quadro), não textuais; art. 84.º não vem no original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "56.º: parágrafo que não está no alterador nem no original: 4. (Revogado.)"
+  ]
+}

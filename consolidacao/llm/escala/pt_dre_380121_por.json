@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:380121:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Art. 10.º: a instrução só tem a frase introdutória, sem a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

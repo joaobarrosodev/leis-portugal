@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:274856:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 (als. c) e d) do n.º 3 do art. 3.º e art. 5.º): a instrução só tem a frase introdutória, sem a nova redação; instrução 2 extingue as comissões do n.º 1 do art. 3.º sem alteração textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
