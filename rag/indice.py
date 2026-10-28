@@ -27,7 +27,7 @@ from datetime import date
 from pathlib import Path
 
 from rag import texto as termos_mod
-from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, ler_artigos, ler_historico, texto_da_versao
+from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, ler_artigos, ler_historico, revogado, texto_da_versao
 
 
 ESQUEMA = """
@@ -110,6 +110,10 @@ def _de_artigos(artigos, desde: str | None, ate: str | None) -> list[Pedaco]:
     return [Pedaco(a.parte, a.numero, a.epigrafe, a.chave, a.texto, "\n".join(a.notas), desde, ate) for a in artigos]
 
 
+def _revogado(artigo) -> bool:
+    return revogado(artigo.texto, "\n".join(artigo.notas))
+
+
 def pedacos_do_documento(doc: Documento) -> tuple[list[Pedaco], list[str], bool]:
     """Os pedaços de um registo, os alvos de `republished_by` com o texto em vigor e se tem histórico."""
     caminho = RAIZ / doc.caminho
@@ -127,7 +131,11 @@ def pedacos_do_documento(doc: Documento) -> tuple[list[Pedaco], list[str], bool]
 
 
 def _com_historico(historico: dict) -> list[Pedaco]:
-    """Cada redação de cada artigo, com o intervalo [desde, ate) em que esteve em vigor."""
+    """Cada redação de cada artigo, com o intervalo [desde, ate) em que esteve em vigor.
+
+    Uma revogação que só acrescenta a nota "Revogado pelo/a …" ao texto antigo também abre uma
+    redação nova, com a nota: sem isso, o artigo ficava com o texto e as notas de antes, como em
+    vigor."""
     abertos: dict[tuple[str, int], tuple[object, str]] = {}
     feitos: list[Pedaco] = []
     for versao in historico["versions"]:
@@ -140,7 +148,7 @@ def _com_historico(historico: dict) -> list[Pedaco]:
         for chave in list(abertos):
             anterior, desde = abertos[chave]
             novo = atuais.get(chave)
-            if novo is None or novo.texto != anterior.texto or novo.epigrafe != anterior.epigrafe:
+            if novo is None or (novo.texto, novo.epigrafe, _revogado(novo)) != (anterior.texto, anterior.epigrafe, _revogado(anterior)):
                 feitos.extend(_de_artigos([anterior], desde, quando))
                 del abertos[chave]
         for chave, artigo in atuais.items():

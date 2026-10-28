@@ -1,4 +1,5 @@
 from rag import referencias
+from rag.fontes import revogado
 from rag.indice import _com_historico
 
 
@@ -38,3 +39,23 @@ def test_historico_da_um_pedaco_por_redacao():
         ("1.º", "2015-01-01", None): "Coima de 500 euros.",
         ("2.º", "2010-01-01", None): "No dia seguinte.",
     }
+
+
+def test_revogacao_so_com_nota_abre_redacao_nova():
+    # Como no Código do Trabalho de 2003: o DRE deixa o texto e acrescenta a nota.
+    historico = {
+        "versions": [_versao("2003-08-27", ["a1"]), _versao("2009-02-17", ["a1r"])],
+        "fragments": {
+            "a1": {"markdown": "###### Artigo 1.º — Férias\n\n22 dias úteis."},
+            "a1r": {"markdown": "###### Artigo 1.º — Férias\n\n22 dias úteis.\n\n> Revogado pelo/a Artigo 12.º do/a Lei n.º 7/2009, em vigor a partir de 2009-02-17"},
+        },
+    }
+    pedacos = {(p.desde, p.ate): revogado(p.texto, p.notas) for p in _com_historico(historico)}
+    assert pedacos == {("2003-08-27", "2009-02-17"): False, ("2009-02-17", None): True}
+
+
+def test_revogado():
+    assert revogado("(Revogado.)", "")
+    assert revogado("Revogado.", "")
+    assert revogado("22 dias úteis.", "Alterado pelo/a Lei n.º 1/2000\nRevogado pelo/a Lei n.º 7/2009")
+    assert not revogado("O artigo revogado pela lei anterior mantém-se.", "Alterado pelo/a Lei n.º 1/2000")

@@ -9,6 +9,7 @@ from __future__ import annotations
 import importlib.util
 import json
 import os
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -30,6 +31,17 @@ normalizar = comum.normalizar
 def ler_artigos(texto: str) -> list[Artigo]:
     """Os artigos do corpo de um registo (sem o cabeçalho YAML), pela ordem do texto."""
     return comum.artigos(texto)
+
+
+_REVOGADO = re.compile(r"^\(?\s*revogad[oa]", re.I)
+
+
+def revogado(texto: str, notas: str) -> bool:
+    """O artigo está revogado: o texto é "(Revogado.)" ou uma nota diz "Revogado pelo/a …".
+
+    Nos consolidados do DRE, um artigo revogado fica muitas vezes com o texto antigo e só ganha a
+    nota (p. ex. os do Código do Trabalho de 2003, revogados pela Lei n.º 7/2009)."""
+    return bool(_REVOGADO.match(texto.strip())) or any(_REVOGADO.match(n.strip()) for n in notas.splitlines())
 
 
 def export_sqlite() -> Path:
