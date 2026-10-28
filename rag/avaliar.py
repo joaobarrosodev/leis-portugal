@@ -29,8 +29,8 @@ from collections import defaultdict
 from pathlib import Path
 
 from rag.fontes import RAIZ, normalizar
-from rag.pesquisa import Consulta, Pesquisa
-from rag.resposta import Resposta, llm_disponivel, responder
+from rag.pesquisa import Pesquisa
+from rag.resposta import llm_disponivel, responder
 
 
 TIPOS = ("literal", "temporal", "revogada", "sem_resposta", "real")
