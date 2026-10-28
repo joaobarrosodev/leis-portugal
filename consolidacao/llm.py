@@ -14,7 +14,7 @@ Sem a API, uma sessão do Claude pode fazer o mesmo: `--sessao` escreve
 `consolidacao/llm/entrada-sessao.jsonl` (uma linha por diploma, com as regras em `regras` e o
 pedido em `pedido`) e `--importar FICHEIRO` passa as respostas da sessão (uma linha por
 diploma, `{"id", "artigos", "nao_aplicavel"}`) pela mesma verificação e grava-as em
-`consolidacao/llm/`, como `--executar`.
+`consolidacao/llm/` (com `--escala`, em `llm/escala/`), como `--executar`.
 
 **Escala (`--escala`):** lê `pendentes-escala.jsonl` e `selecao-escala.jsonl`. Com `--sessao`,
 os diplomas vão em lotes de `--lote`, primeiro os de original com artigos identificados e depois os
@@ -273,10 +273,11 @@ def _leiame_lotes(resumo: list[dict], lote: int, total: int) -> None:
     (SAIDA / "LEIAME-lotes.md").write_text("\n".join(linhas), encoding="utf-8")
 
 
-def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> dict:
+def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str, escala: bool = False) -> dict:
     """As respostas de uma sessão, com a mesma verificação das respostas da API."""
     por_id = {d["id"]: d for d in pendentes}
-    SAIDA.mkdir(exist_ok=True)
+    destino = SAIDA / "escala" if escala else SAIDA  # as respostas da escala não tocam nas do piloto
+    destino.mkdir(parents=True, exist_ok=True)
     contagem = Counter()
     for linha in ficheiro.read_text(encoding="utf-8").splitlines():
         resultado = json.loads(linha)
@@ -284,7 +285,7 @@ def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], mo
         resultado |= {"modelo": resultado.get("modelo") or modelo, "pedido": "sessão"}
         resultado["problemas"] = verificar_resposta(resultado, d, selecao[d["id"]])
         contagem["com problemas" if resultado["problemas"] else "não aplicável" if not resultado.get("artigos") else "sem problemas"] += 1
-        (SAIDA / (d["id"].replace(":", "_") + ".json")).write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        (destino / (d["id"].replace(":", "_") + ".json")).write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return dict(contagem)
 
 
@@ -313,7 +314,7 @@ def main() -> int:
         print(f"{len(pendentes)} diplomas em {sessao(pendentes, selecao).relative_to(RAIZ)}")
         return 0
     if args.importar:
-        print(json.dumps(importar(args.importar, pendentes, selecao, args.modelo), ensure_ascii=False, indent=2))
+        print(json.dumps(importar(args.importar, pendentes, selecao, args.modelo, args.escala), ensure_ascii=False, indent=2))
         return 0
     if args.executar:
         if not os.environ.get("ANTHROPIC_API_KEY"):

@@ -177,7 +177,7 @@ def alteradores_aplicados(resultado: dict, registo_selecao: dict) -> list[dict]:
     aplicação: o `alterador` do piloto ou, na escala, os `passos` com alterações aplicadas."""
     if "alteradores" not in registo_selecao:
         return [registo_selecao["alterador"]]
-    aplicados = {p["id"] for p in resultado.get("passos", []) if p.get("aplicadas")}
+    aplicados = set(resultado["alteradores_ids"]) if "alteradores_ids" in resultado else {p["id"] for p in resultado.get("passos", []) if p.get("aplicadas")}
     return [a for a in registo_selecao["alteradores"] if a["id"] in aplicados]
 
 
@@ -196,9 +196,11 @@ def main() -> int:
             for r in _lista(PASTA / ficheiro):
                 destino.setdefault(r["id"], r)  # o piloto, com o LLM, tem precedência
     juntados = {r["id"]: r for r in _lista(PASTA / "llm" / "juntados.jsonl")}
+    if (PASTA / "llm" / "juntados-escala.jsonl").exists():
+        juntados |= {r["id"]: r for r in _lista(PASTA / "llm" / "juntados-escala.jsonl") if r["id"] not in juntados}
     for id_, juntado in juntados.items():
         if juntado["estado"] == "aplicado com LLM":
-            resultados[id_] = resultados[id_] | {"estado": juntado["estado"], "consolidado": juntado["consolidado"]}
+            resultados[id_] = resultados[id_] | {k: juntado[k] for k in ("estado", "consolidado", "alteradores_ids") if k in juntado}
     hoje = date.today().isoformat()
     aplicados, ja_aplicados, recusados, fora = 0, 0, [], []
     verif = verificados(supor_certos=args.supor_verificados)

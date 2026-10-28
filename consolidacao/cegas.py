@@ -17,7 +17,7 @@ escreve `entrada-piloto-N.jsonl` só com os que não estão nas rondas anteriore
 consolidado mudou desde a última em que estiveram (as rondas anteriores já foram verificadas e
 não se reescrevem).
 
-**Escala (`--escala`):** lê `resultados-escala.jsonl` e `selecao-escala.jsonl` e escreve a ronda
+**Escala (`--escala`):** lê `resultados-escala.jsonl` e `selecao-escala.jsonl` (e os juntados com o LLM, `llm/juntados-escala.jsonl`) e escreve a ronda
 em lotes de `--lote` diplomas, `entrada-piloto-N-lote-01.jsonl`, `-02`, … Um diploma com
 vários alteradores leva `alteradores`, uma lista com o título e o texto de cada um (por ordem
 de aplicação, só os que deram instruções), e `alterador` e `texto_alterador` são a junção dos títulos e dos
@@ -74,7 +74,7 @@ def linha_de(r: dict, registo: dict) -> dict:
     consolidado = _NOTA_PILOTO.sub("", corpo((RAIZ / r["consolidado"]).read_text(encoding="utf-8")))
     original = publicado(RAIZ / registo["path"])
     if "alteradores" in registo:
-        aplicados = {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
+        aplicados = set(r["alteradores_ids"]) if "alteradores_ids" in r else {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
         alteradores = [a for a in registo["alteradores"] if a["id"] in aplicados]
     else:
         alteradores = [registo["alterador"]]
@@ -115,7 +115,9 @@ def main() -> int:
     resultados_ficheiro = PASTA / ("resultados-escala.jsonl" if args.escala else "resultados.jsonl")
     resultados = [json.loads(l) for l in resultados_ficheiro.read_text(encoding="utf-8").splitlines()]
     juntados = PASTA / "llm" / "juntados.jsonl"
-    if juntados.exists() and not args.escala:
+    if args.escala:
+        juntados = PASTA / "llm" / "juntados-escala.jsonl"
+    if juntados.exists():
         resultados += [j for j in map(json.loads, juntados.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
     VERIFICACAO.mkdir(exist_ok=True)
     linhas = []

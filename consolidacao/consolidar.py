@@ -107,7 +107,11 @@ def _motivo_sem_alteracao(leitura: Leitura, texto_alterador: str, titulo: str) -
 _PRECEDENCIA = ("revogado por inteiro", "sem texto do alterador", "para LLM", "aplicável por regra", "sem alteração textual")
 
 
-def processar(registo: dict, escrever: bool = True) -> dict:
+def processar(registo: dict, escrever: bool = True, extra: dict | None = None) -> dict:
+    """Triagem e aplicação de um diploma. Com `extra` (um dicionário), devolve ali o que o
+    `juntar.py` precisa para continuar com as respostas do LLM: o texto consolidado pelas regras
+    (`consolidado`), os artigos que as regras tocaram (`tocados`), os registos e os alteradores
+    aplicados e se os títulos foram normalizados."""
     escala = "alteradores" in registo
     alteradores = registo.get("alteradores") or [registo["alterador"]]
     estado = {"id": registo["id"], "title": registo["title"], "path": registo["path"], "citacoes": registo["citacoes"]}
@@ -149,6 +153,7 @@ def processar(registo: dict, escrever: bool = True) -> dict:
     falha: dict | None = None
     regras: Counter = Counter()
     republicacoes: list[dict] = []
+    tocados_total: set[str] = set()
 
     for k, alt in enumerate(alteradores, 1):
         passo = {"alterador": alt.get("title") or alt["id"], "id": alt["id"]}
@@ -188,6 +193,7 @@ def processar(registo: dict, escrever: bool = True) -> dict:
 
         meta = _meta_alterador(alt["path"])
         fonte = Fonte(alt["title"], (meta.get("source") or {}).get("official_url") or "", alt.get("publication_date") or "")
+        tocados_antes, n_registos, n_aplicados = set(tocados_total), len(registos_json), len(aplicados)
         resultado = aplicar(consolidado, leitura.instrucoes, fonte)
         rotulos = alt.get("rotulos_dre") if escala else registo.get("rotulos_dre", [])
         problemas = verificar(antes, consolidado, texto_alterador, registo["title"], leitura, resultado, rotulos or [])
@@ -196,6 +202,7 @@ def processar(registo: dict, escrever: bool = True) -> dict:
             republicacoes.append({"alterador": passo["alterador"]} | comparacao)
             if comparacao["diferentes"]:
                 problemas.append(f"diferente da republicação no alterador: artigos {', '.join(comparacao['diferentes'][:10])}")
+        tocados_total |= set(resultado.tocados)
         passo |= {"aplicadas": len(resultado.registos), "falhas": len(resultado.falhas), "regras": dict(Counter(r.regra for r in resultado.registos))}
         regras.update(passo["regras"])
         if resultado.registos:
@@ -213,6 +220,9 @@ def processar(registo: dict, escrever: bool = True) -> dict:
             falha = {"alterador": passo["alterador"], "indice": k, "fase": "verificação", "motivo": problemas[0]}
             pendentes += _pendentes(alt, antes, leitura, None, "falhou a verificação")
             base = antes
+            # O LLM faz todas as instruções deste alterador: as regras dele não entram no consolidado.
+            consolidado, tocados_total = antes, tocados_antes
+            del registos_json[n_registos:], aplicados[n_aplicados:]
         else:
             passo["estado"] = "aplicado"
             base = consolidado
@@ -262,6 +272,9 @@ def processar(registo: dict, escrever: bool = True) -> dict:
         if not escala:
             estado["republicacao"].pop("alterador", None)
 
+    if extra is not None:
+        extra |= {"consolidado": consolidado, "tocados": tocados_total, "registos": registos_json, "aplicados": aplicados,
+                  "texto_original": texto_original, "titulos_normalizados": estado.get("titulos_normalizados", False)}
     if escrever and registos_json and escala and registo["id"] in _juntados_no_piloto():
         estado["ficheiros"] = "do piloto, juntados com o LLM (llm/juntados.jsonl): não se reescrevem"
     elif escrever and registos_json:
