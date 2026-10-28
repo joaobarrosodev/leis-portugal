@@ -17,7 +17,8 @@ diploma, `{"id", "artigos", "nao_aplicavel"}`) pela mesma verificação e grava-
 `consolidacao/llm/`, como `--executar`.
 
 **Escala (`--escala`):** lê `pendentes-escala.jsonl` e `selecao-escala.jsonl`. Com `--sessao`,
-os diplomas vão ordenados por citações recebidas (os mais citados primeiro) em lotes de `--lote`,
+os diplomas vão em lotes de `--lote`, primeiro os de original com artigos identificados e depois os
+sem artigos, e em cada grupo os mais citados primeiro (a ordem fica em `llm/LEIAME-lotes.md`),
 `llm/entrada-sessao-escala-001.jsonl`, `-002`, … Um diploma com vários alteradores leva as
 instruções por ordem de aplicação, cada uma com o diploma de que vem.
 
@@ -197,20 +198,79 @@ def sessao(pendentes: list[dict], selecao: dict[str, dict]) -> Path:
     return destino
 
 
-def sessao_escala(pendentes: list[dict], selecao: dict[str, dict], lote: int) -> list[Path]:
-    """A entrada para uma sessão do Claude, por lotes, os mais citados primeiro."""
+def sem_artigos(resultado: dict) -> bool:
+    """O original não tem artigos identificados: a resposta do LLM não tem onde encaixar no
+    texto corrido e o `juntar.py` não a junta."""
+    return str(resultado.get("motivo") or "").startswith("original sem artigos")
+
+
+def sessao_escala(pendentes: list[dict], selecao: dict[str, dict], lote: int, resultados: dict[str, dict] | None = None) -> list[Path]:
+    """A entrada para uma sessão do Claude, por lotes: primeiro os diplomas cujo original tem
+    artigos identificados (os que o `juntar.py` sabe juntar), depois os sem artigos, e em cada
+    grupo os mais citados primeiro. Escreve também `llm/LEIAME-lotes.md` com a ordem."""
+    resultados = resultados or {}
     SAIDA.mkdir(exist_ok=True)
     for antigo in SAIDA.glob("entrada-sessao-escala-*.jsonl"):
         antigo.unlink()
-    ordenados = sorted(pendentes, key=lambda d: (-selecao[d["id"]].get("citacoes", 0), d["id"]))
-    destinos = []
+    ordenados = sorted(
+        pendentes,
+        key=lambda d: (sem_artigos(resultados.get(d["id"], {})), -selecao[d["id"]].get("citacoes", 0), d["id"]),
+    )
+    destinos, resumo = [], []
     for n, inicio in enumerate(range(0, len(ordenados), lote), 1):
         destino = SAIDA / f"entrada-sessao-escala-{n:03d}.jsonl"
+        grupo = ordenados[inicio : inicio + lote]
         with destino.open("w", encoding="utf-8") as f:
-            for d in ordenados[inicio : inicio + lote]:
+            for d in grupo:
                 f.write(json.dumps(_linha_sessao(d, selecao[d["id"]]), ensure_ascii=False) + "\n")
         destinos.append(destino)
+        citacoes = [selecao[d["id"]].get("citacoes", 0) for d in grupo]
+        resumo.append({
+            "lote": n, "diplomas": len(grupo), "sem_artigos": sum(sem_artigos(resultados.get(d["id"], {})) for d in grupo),
+            "citacoes_max": max(citacoes), "citacoes_min": min(citacoes),
+        })
+    _leiame_lotes(resumo, lote, len(ordenados))
     return destinos
+
+
+def _leiame_lotes(resumo: list[dict], lote: int, total: int) -> None:
+    """`llm/LEIAME-lotes.md`: a ordem dos lotes e porquê, escrita a partir dos lotes gerados."""
+    com = [r for r in resumo if r["sem_artigos"] == 0]
+    mistos = [r for r in resumo if 0 < r["sem_artigos"] < r["diplomas"]]
+    sem = [r for r in resumo if r["sem_artigos"] == r["diplomas"]]
+    n_sem = sum(r["sem_artigos"] for r in resumo)
+
+    def intervalo(grupo: list[dict]) -> str:
+        return f"{grupo[0]['lote']:03d} a {grupo[-1]['lote']:03d}" if len(grupo) > 1 else f"{grupo[0]['lote']:03d}" if grupo else "—"
+
+    linhas = [
+        "# Lotes para o LLM: ordem",
+        "",
+        "Escrito por `python consolidacao/llm.py --sessao --escala`; não se edita à mão. Cada lote é um ficheiro",
+        f"`entrada-sessao-escala-NNN.jsonl` com até {lote} diplomas ({total} no total, {len(resumo)} lotes).",
+        "",
+        "**Ordem:** primeiro os diplomas cujo original tem artigos identificados, que o `juntar.py` sabe juntar;",
+        "no fim os originais sem artigos identificados (motivo \"original sem artigos…\" em `resultados-escala.jsonl`),",
+        "cuja resposta não tem onde encaixar no texto corrido. Dentro de cada grupo, os mais citados primeiro.",
+        "",
+        "| Lotes | Grupo | Diplomas | Citações (máx. → mín.) |",
+        "| --- | --- | --: | --- |",
+    ]
+    for nome, grupo in (("com artigos identificados", com), ("a meio: acaba o grupo com artigos e começam os sem artigos", mistos), ("sem artigos identificados", sem)):
+        if grupo:
+            linhas.append(f"| {intervalo(grupo)} | {nome} | {sum(r['diplomas'] for r in grupo)} | {max(r['citacoes_max'] for r in grupo)} → {min(r['citacoes_min'] for r in grupo)} |")
+    linhas += [
+        "",
+        f"Sem artigos identificados: {n_sem} diplomas. Os outros {total - n_sem} são os que valem a pena fazer primeiro.",
+        "",
+        "## Por lote",
+        "",
+        "| Lote | Diplomas | Sem artigos | Citações máx. | Citações mín. |",
+        "| --: | --: | --: | --: | --: |",
+        *(f"| {r['lote']:03d} | {r['diplomas']} | {r['sem_artigos']} | {r['citacoes_max']} | {r['citacoes_min']} |" for r in resumo),
+        "",
+    ]
+    (SAIDA / "LEIAME-lotes.md").write_text("\n".join(linhas), encoding="utf-8")
 
 
 def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> dict:
@@ -245,7 +305,8 @@ def main() -> int:
     ficheiro_selecao = PASTA / ("selecao-escala.jsonl" if args.escala else "selecao.jsonl")
     selecao = {r["id"]: r for r in map(json.loads, ficheiro_selecao.read_text(encoding="utf-8").splitlines())}
     if args.sessao and args.escala:
-        destinos = sessao_escala(pendentes, selecao, args.lote)
+        resultados = {r["id"]: r for r in map(json.loads, (PASTA / "resultados-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+        destinos = sessao_escala(pendentes, selecao, args.lote, resultados)
         print(f"{len(pendentes)} diplomas em {len(destinos)} lotes de até {args.lote}: {SAIDA.relative_to(RAIZ)}/entrada-sessao-escala-NNN.jsonl")
         return 0
     if args.sessao:

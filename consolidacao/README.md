@@ -164,7 +164,7 @@ A amostra de 50 diplomas (`consolidar.py --amostra 50 --semente 1`) serviu para 
 | `llm.py` | Pedidos ao LLM para os pendentes: `--estimar` sem chave, `--executar` com chave, `--sessao` e `--importar` para o fazer numa sessão do Claude |
 | `juntar.py` | Junta ao original as respostas do LLM aprovadas (`llm/juntados.jsonl`) |
 | `cegas.py` | Entrada da verificação às cegas (`--ronda N`): os aplicados por regra e os juntados com o LLM que não estão nas rondas anteriores |
-| `acervo.py` | Aplicação ao acervo dos consolidados verificados às cegas (`--dry-run` só mostra) |
+| `acervo.py` | Aplicação ao acervo dos consolidados verificados às cegas, rondas e lotes (`--dry-run` só mostra; `--supor-verificados` com ele conta os lotes ainda sem saída) |
 | `medir.py` | Números do piloto (`medicao.json`) |
 | `selecao.jsonl` | Os 671, com o diploma que altera, os rótulos do DRE e os artigos que mencionam o original |
 | `resultados.jsonl` | Estado e motivo por diploma |
@@ -320,7 +320,7 @@ A triagem foi alterador a alterador: 51.817 pares original–alterador, dos quai
 
 **Os 384 aplicados por regra** têm 857 alterações, 30 deles com dois ou mais alteradores aplicados em sequência (por exemplo, o Decreto-Lei n.º 224/2000, pelos Decretos-Leis n.os 117/2002 e 109/2003). Por regra: 270 revogações de artigo, 269 substituições com "[...]", 131 substituições integrais, 79 aditamentos de artigo, 78 revogações de número ou alínea, 22 retificações, 7 substituições parciais e 1 aditamento de número ou alínea. 90 têm os títulos pelo parser da fase 3. 24 diplomas foram comparados com uma republicação.
 
-**Os 4.362 para o LLM** são, em primeiro lugar, originais sem artigos identificados: 2.692 (2.063 só com números do dispositivo "1.º, 2.º", 528 sem nada que o parser reconheça, 101 com numeração repetida). No piloto, as respostas do LLM para estes não se juntaram ao original (não há artigos onde encaixar), por isso o LLM só resolve a parte restante sem uma forma de aplicar a resposta no texto corrido. Depois vêm a redação nova sem aspas (555 diplomas; 2.071 instruções), o anexo do original não identificado (331; 1.529 instruções), a instrução de outro tipo (226; 1.163) e o alvo da nova redação não identificado (963 instruções). Os 155 não triados têm todos menos de 10 citações.
+**Os 4.362 para o LLM** são, em primeiro lugar, originais sem artigos identificados: 2.697 (2.063 só com números do dispositivo "1.º, 2.º", 528 sem nada que o parser reconheça, 101 com numeração repetida, 5 com bases em texto corrido). No piloto, as respostas do LLM para estes não se juntaram ao original (não há artigos onde encaixar), por isso o LLM só resolve a parte restante sem uma forma de aplicar a resposta no texto corrido. Depois vêm a redação nova sem aspas (555 diplomas; 2.071 instruções), o anexo do original não identificado (331; 1.529 instruções), a instrução de outro tipo (226; 1.163) e o alvo da nova redação não identificado (963 instruções). Os 155 não triados têm todos menos de 10 citações.
 
 **Os 799 revogados por inteiro** e os 867 sem texto do alterador são para a fase 3 (vigência e relações, e recolha dos alteradores em falta).
 
@@ -337,12 +337,12 @@ A triagem foi alterador a alterador: 51.817 pares original–alterador, dos quai
 - `cegas.py --escala`: a ronda a seguir à última em `verificacao/`, em lotes de 30 (`entrada-piloto-N-lote-NN.jsonl`); um diploma com vários alteradores leva `alteradores` (título e texto de cada um) e `texto_alterador` com os textos juntos. `texto.publicado` ordena as rondas e os lotes pelos números do nome.
 - `llm.py --escala --sessao --lote 40`: os pendentes por citações, em `llm/entrada-sessao-escala-NNN.jsonl`; os pedidos com vários alteradores dizem de que diploma vem cada instrução, e a verificação letra a letra das respostas procura em todos.
 - `medir.py --escala`: `medicao-escala.json`.
-- `acervo.py` não mudou: só lê as rondas 1 a 5, uma por ficheiro. Antes de aplicar a ronda 6 ao acervo, há que o ensinar a ler os lotes e a juntar `alteracoes_aplicadas` com vários alteradores (o `consolidation_date` é a entrada em vigor do último).
+- `acervo.py`: lê as rondas em lotes (`entrada-piloto-N-lote-NN.jsonl` com `saida-piloto-N-lote-NN.jsonl` ao lado; um lote sem saída fica por verificar e não se aplica, mesmo que uma ronda anterior tenha aprovado outro texto do diploma) e os diplomas com vários alteradores aplicados: lê `resultados-escala.jsonl` e `selecao-escala.jsonl` (o piloto tem precedência), a versão alterada do histórico leva em `acts` todos os alteradores com alterações aplicadas e a data em que o último entrou em vigor (`consolidation_date`); o texto intermédio de cada passo não se guarda, por isso o histórico continua a ter duas versões. O controlo do histórico ignora o título `# …`, que vem do registo. `--dry-run --supor-verificados` conta os diplomas como se tudo fosse `certo`.
 
 ### O que fica para a verificação às cegas e para o LLM
 
 - **Verificação às cegas, 6.ª ronda:** 382 diplomas (os 384 aplicados por regra menos 2 do piloto já verificados com o mesmo texto) em 13 lotes de até 30, `verificacao/entrada-piloto-6-lote-01.jsonl` a `-13`, 20 MB, no formato das rondas anteriores (regras na secção "Verificação às cegas"; com vários alteradores, `texto_alterador` junta os textos e `alteradores` tem-nos à parte). A verificação é de outra sessão, com outro modelo; a saída fica em `verificacao/saida-piloto-6-lote-NN.jsonl`.
-- **LLM:** 4.362 diplomas em 110 lotes de até 40, `llm/entrada-sessao-escala-001.jsonl` a `-110`, por citações recebidas (os 28 com ≥100 no primeiro lote), 52 MB. Estimativa pela API: 4.362 pedidos, cerca de 13,9 milhões de tokens de entrada e 10,9 milhões de saída, cerca de 273 $ com a Opus 5.5 (137 $ com a Sonnet 5.5). Convém começar pelos lotes que não são "original sem artigos identificados" (`motivos` em cada linha), que são os que o `juntar.py` sabe juntar.
+- **LLM:** 4.362 diplomas em 110 lotes de até 40, `llm/entrada-sessao-escala-001.jsonl` a `-110`, primeiro os 1.665 de original com artigos identificados (lotes 001 a 042, por citações recebidas, os 28 com ≥100 sobretudo no primeiro lote) e depois os 2.697 sem artigos (a ordem está em `llm/LEIAME-lotes.md`), 52 MB. Estimativa pela API: 4.362 pedidos, cerca de 13,9 milhões de tokens de entrada e 10,9 milhões de saída, cerca de 273 $ com a Opus 5.5 (137 $ com a Sonnet 5.5). A ordem já põe primeiro os que o `juntar.py` sabe juntar.
 
 Ficheiros novos: `selecao-escala.jsonl`, `resultados-escala.jsonl` (e `resultados-escala.parte-i.jsonl`), `pendentes-escala.jsonl`, `medicao-escala.json`, `logs/escala.parte-i.txt`, `piloto/<caminho>.md` e `.alteracoes.json` dos aplicados e dos parciais, `verificacao/entrada-piloto-6-lote-NN.jsonl`, `llm/entrada-sessao-escala-NNN.jsonl`. Para repetir, a partir da raiz do worktree:
 
@@ -361,3 +361,7 @@ cd consolidacao && export PYTHONPATH=../src && python selecionar.py --todos && f
   3. uma regra para a redação nova sem aspas (34 instruções);
   4. decidir o que fazer com os 500 sem alteração textual e os 17 revogados (vigência e relações, fase 3).
 - **Os outros 1.468 diplomas com 10 ou mais citações** têm mais de uma alteração. O método serve na mesma (aplicar as alterações por ordem de data), mas a amostra mostra que é preciso filtrar primeiro as relações que não são alterações textuais.
+
+### Dry-run da ronda 6 no acervo
+
+`python consolidacao/acervo.py --dry-run --supor-verificados`, sem as saídas da verificação (ainda não existem): dos 382 diplomas da ronda 6, 382 passam nos controlos técnicos (o consolidado é o da entrada, o original em `data/` é o verificado, o histórico reproduz o consolidado), 30 deles com dois ou mais alteradores; nenhum é recusado. Sem `--supor-verificados`, `Aplicados: 0`: nenhum dos lotes tem `saida-piloto-6-lote-NN.jsonl`. Os outros 2 dos 384 aplicados por regra são do piloto, com o mesmo texto, já no acervo.
