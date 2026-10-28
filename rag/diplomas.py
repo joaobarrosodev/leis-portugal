@@ -7,7 +7,8 @@ As perguntas reais usam palavras do dia a dia e quase nunca citam o diploma; o B
 traz diplomas do mesmo tema mas errados. Aqui procura-se primeiro o diploma mais próximo da
 pergunta e depois o artigo só dentro dele (como já se faz com os diplomas citados).
 
-    PYTHONPATH=src python -m rag.diplomas            # constrói rag/indice/diplomas.npy (+ .json), ~30 min em CPU
+    PYTHONPATH=src python -m rag.diplomas                       # constrói rag/indice/diplomas.npy (+ .json)
+    PYTHONPATH=src python -m rag.diplomas --parte 0/3 --fios 3   # um terço, em paralelo com os outros dois (~1 h em CPU)
 
 O modelo denso é o de `rag.modelos` (paraphrase-multilingual-MiniLM-L12-v2, 384 dimensões); os
 223 mil vetores (~350 MB) procuram-se por produto interno com o numpy, sem índice aproximado.
@@ -61,14 +62,21 @@ def textos_dos_diplomas(con: sqlite3.Connection) -> list[tuple[str, str, str]]:
     return entradas
 
 
-def construir(saida: Path = PASTA_INDICE / "diplomas", caminho_indice: Path | None = None, *, lote: int = 256) -> None:
+def construir(
+    saida: Path = PASTA_INDICE / "diplomas", caminho_indice: Path | None = None, *, lote: int = 256, parte: tuple[int, int] | None = None, fios: int | None = None
+) -> None:
+    """Embebe os textos e grava `saida.npy` e `saida.json`; com `parte=(i, n)`, só a i-ésima de n fatias, em `saida-parteIdeN`."""
     import numpy as np
 
     from rag.modelos import Reranker
 
     con = sqlite3.connect(f"file:{caminho_indice or PASTA_INDICE / 'indice.sqlite'}?mode=ro", uri=True)
     entradas = textos_dos_diplomas(con)
-    modelo = Reranker("denso").modelo
+    if parte is not None:
+        i, n = parte
+        entradas = entradas[i::n]
+        saida = saida.with_name(f"{saida.name}-parte{i}de{n}")
+    modelo = Reranker("denso", fios=fios).modelo
     print(f"{len(entradas)} textos a embeber", file=sys.stderr, flush=True)
     vetores = []
     inicio = time.time()
@@ -87,8 +95,11 @@ class IndiceDiplomas:
     def __init__(self, caminho: Path = PASTA_INDICE / "diplomas", modelo=None):
         import numpy as np
 
-        self.matriz = np.load(caminho.with_suffix(".npy"))
-        self.entradas: list[tuple[str, str]] = [tuple(x) for x in json.loads(caminho.with_suffix(".json").read_text(encoding="utf-8"))]
+        ficheiros = [caminho.with_suffix(".npy")] if caminho.with_suffix(".npy").exists() else sorted(caminho.parent.glob(f"{caminho.name}-parte*de*.npy"))
+        if not ficheiros:
+            raise FileNotFoundError(f"{caminho}.npy não existe; corre `python -m rag.diplomas`")
+        self.matriz = np.concatenate([np.load(f) for f in ficheiros])
+        self.entradas: list[tuple[str, str]] = [tuple(x) for f in ficheiros for x in json.loads(f.with_suffix(".json").read_text(encoding="utf-8"))]
         if modelo is None:
             from rag.modelos import Reranker
 
@@ -120,8 +131,11 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--saida", type=Path, default=PASTA_INDICE / "diplomas")
     parser.add_argument("--indice", type=Path)
+    parser.add_argument("--parte", help="i/n: só a i-ésima de n fatias (para correr várias em paralelo).")
+    parser.add_argument("--fios", type=int, help="Fios do onnxruntime (por omissão, todos os núcleos).")
     args = parser.parse_args(argv)
-    construir(args.saida, args.indice)
+    parte = tuple(int(x) for x in args.parte.split("/")) if args.parte else None
+    construir(args.saida, args.indice, parte=parte, fios=args.fios)
     return 0
 
 

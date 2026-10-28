@@ -21,7 +21,7 @@ CARACTERES = 1200
 
 
 class Reranker:
-    def __init__(self, tipo: str = "cruzado", *, maximo: int = 30):
+    def __init__(self, tipo: str = "cruzado", *, maximo: int = 30, fios: int | None = None):
         os.environ.setdefault("HF_HOME", str(PASTA_INDICE / "hf"))
         os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
         pasta = str(PASTA_INDICE / "modelos")
@@ -32,11 +32,11 @@ class Reranker:
         if tipo == "cruzado":
             from fastembed.rerank.cross_encoder import TextCrossEncoder
 
-            self.modelo = TextCrossEncoder(MODELO_CRUZADO, cache_dir=pasta, local_files_only=local)
+            self.modelo = TextCrossEncoder(MODELO_CRUZADO, cache_dir=pasta, local_files_only=local, threads=fios)
         elif tipo == "denso":
             from fastembed import TextEmbedding
 
-            self.modelo = TextEmbedding(MODELO_DENSO, cache_dir=pasta, local_files_only=local)
+            self.modelo = TextEmbedding(MODELO_DENSO, cache_dir=pasta, local_files_only=local, threads=fios)
         else:
             raise ValueError(f"reranker desconhecido: {tipo}")
 
