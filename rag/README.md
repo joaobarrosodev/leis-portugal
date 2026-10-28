@@ -160,7 +160,20 @@ Os 65 "diploma errado" são de quatro tipos:
 
 - Em 21 dos 65 o primeiro resultado tem **a mesma regra** (o CT de 2003 diz também 22 dias úteis de férias) e em 15 dá **uma resposta diferente ou não responde** (o CT de 2003 permitia contratos a termo de três anos, não dois; a Lei n.º 4/84 dizia 98 dias de puérpera, não 120). O reranker dá pontuações quase iguais a textos quase iguais; o desempate tem de vir de saber qual é a lei atual.
 - Os dados do DRE não chegam para isso: a Lei n.º 99/2003 e a Lei n.º 4/84 estão "em vigor" ou "parcialmente em vigor", e o texto original do CIVA (DL 394-B/84) "em vigor". A revogação com exceções (o art. 12.º da Lei n.º 7/2009 revoga a Lei n.º 99/2003 "com exceção dos artigos…") é tratada na fase 2.
-- Os 15 "outro tema" são o único grupo em que a pesquisa nem traz o artigo certo: é o que a pesquisa por diploma (abaixo) ataca.
+- Os 15 "outro tema" são o único grupo em que a pesquisa nem traz o artigo certo; a pesquisa por diploma com embeddings (abaixo) foi tentada para eles e não resultou.
+
+### Pesquisa por diplomas com embeddings: não resultou
+
+Tentou-se atacar o diploma errado procurando primeiro o diploma: um vetor (modelo denso multilingue MiniLM) por diploma em vigor (título, sumário, nomes dos anexos), por anexo com nome e por cada 25 epígrafes (274 mil vetores, 1 h 50 em CPU), os 15 diplomas mais próximos da pergunta e o BM25 de artigos só dentro deles, junto aos candidatos do reranker. Medido nas 136 reais, sobre o índice com o tratamento dos artigos revogados (partida: 56% no 1.º, fiabilidade 65% com limiar 3):
+
+| Configuração | Artigo certo em 1.º | Nos 5 primeiros | "Não sei" | Fiabilidade (limiar 3) |
+|---|--:|--:|--:|--:|
+| Partida (`cruzado`) | 56% | 78% | 21% | 65% |
+| + 15 diplomas candidatos | 55% | 78% | 21% | 64% (69/107) |
+
+- Das 15 perguntas "outro tema" (o artigo certo nem entra nos 10 primeiros), só uma passou a entrar, e nenhuma ficou em 1.º. O embedding de título e sumário de um diploma não diz do que tratam os artigos (a Lei do Imposto do Selo não menciona senhorios), e as epígrafes de 25 artigos diluem-se.
+- O código foi revertido; o diagnóstico acima continua válido. Não se mediu com o LLM (não há `ANTHROPIC_API_KEY`).
+- Uma experiência à parte, sem ficar no código, somou ao resultado do reranker uma penalização aos anexos duplicados de códigos, aos artigos de leis de alteração ("passa a ter a seguinte redação") e ao texto original de diplomas alterados: subiu as reais para 58% (fiabilidade 69%). Foi desenhada depois de ver as falhas das mesmas 136 perguntas e o ganho é de três perguntas, por isso **não** ficou: precisa de perguntas novas (frente C) e de medir as literais, temporais e revogadas antes de entrar.
 
 ## Próximos passos
 
