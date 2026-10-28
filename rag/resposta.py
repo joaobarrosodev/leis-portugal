@@ -24,6 +24,7 @@ from rag.pesquisa import Consulta, Resultado
 
 
 MODELO = os.environ.get("RAG_MODELO", "claude-opus-5-5")
+LIMIAR_PADRAO = 3.0  # do reranker; medido com o conjunto de avaliação (rag/README.md)
 ARTIGOS_NO_CONTEXTO = 8
 CARACTERES_POR_ARTIGO = 6000
 

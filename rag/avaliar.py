@@ -29,8 +29,8 @@ from collections import defaultdict
 from pathlib import Path
 
 from rag.fontes import RAIZ, normalizar
-from rag.pesquisa import Pesquisa
-from rag.resposta import llm_disponivel, responder
+from rag.pesquisa import Consulta, Pesquisa
+from rag.resposta import Resposta, llm_disponivel, responder
 
 
 TIPOS = ("literal", "temporal", "revogada", "sem_resposta", "real")
@@ -63,7 +63,11 @@ def _mesmo_sentido():
 
 def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_llm: bool) -> dict:
     consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(KS))
-    resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm)
+    return pontuar(p, consulta, responder(consulta, limiar=limiar, usar_llm=usar_llm))
+
+
+def pontuar(p: dict, consulta: Consulta, resposta: Resposta) -> dict:
+    """A linha de resultado de uma pergunta, dada a consulta e a resposta (com ou sem LLM)."""
     fonte = p.get("fonte")
     pos_artigo = pos_texto = None
     if fonte:
