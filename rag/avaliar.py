@@ -193,6 +193,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--nome", default="bm25")
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reranker", choices=("cruzado", "denso"), help="Reordena os candidatos com um modelo multilingue (extra `rag`).")
+    parser.add_argument("--maximo", type=int, default=30, help="Quantos candidatos o reranker lê.")
+    parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
     parser.add_argument("--sem-reais", action="store_true")
@@ -204,8 +206,8 @@ def main(argv: list[str] | None = None) -> int:
     if args.reranker:
         from rag.modelos import Reranker
 
-        reranker = Reranker(args.reranker)
-    pesquisa = Pesquisa(args.indice, reranker=reranker)
+        reranker = Reranker(args.reranker, maximo=args.maximo)
+    pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos)
     usar_llm = llm_disponivel() and not args.sem_llm
     perguntas = ler_perguntas(not args.sem_reais)
     if args.tipos:

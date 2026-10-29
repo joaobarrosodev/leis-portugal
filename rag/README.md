@@ -169,6 +169,23 @@ Os 65 "diploma errado" são de quatro tipos:
 - Os dados do DRE não chegam para isso: a Lei n.º 99/2003 e a Lei n.º 4/84 estão "em vigor" ou "parcialmente em vigor", e o texto original do CIVA (DL 394-B/84) "em vigor". A revogação com exceções (o art. 12.º da Lei n.º 7/2009 revoga a Lei n.º 99/2003 "com exceção dos artigos…") é tratada na fase 2.
 - Os 15 "outro tema" são o único grupo em que a pesquisa nem traz o artigo certo; a pesquisa por diploma com embeddings (abaixo) foi tentada para eles e não resultou.
 
+### Mais candidatos de recuperação: códigos principais e grafia antiga
+
+No diagnóstico, 17 das 136 reais nem chegavam aos candidatos do reranker. Quase todas são de códigos grandes (Trabalho, IRS, IVA, Civil) que a pergunta não nomeia: o BM25 em todo o acervo põe à frente portarias e regulamentos pequenos que repetem as palavras, e o artigo certo fica na posição 800 a 12 000. Duas alterações:
+
+- **Canal dos códigos principais** (`Pesquisa.codigos_principais`): o BM25 corre também só nos 54 códigos e leis gerais com 60 ou mais artigos, e os 15 melhores entram no reranker além dos 30 de antes (o reranker lê até 45). Custa cerca de 2 s por pergunta.
+- **Grafia anterior ao Acordo de 1990** (`rag.texto`): "nocturno", "acção", "excepção" e "óptimo" passam ao mesmo termo que "noturno", "ação", "exceção" e "ótimo", dos dois lados. Os textos consolidados do DRE ainda têm a grafia antiga e as perguntas não. Muda o método dos termos: é preciso reconstruir o índice (9 min).
+
+| Reais (136), limiar 3, sem LLM | Partida (`main`) | Com as duas alterações |
+|---|--:|--:|
+| Artigo certo em 1.º | 56% | 58% |
+| Nos 5 primeiros | 78% | 84% |
+| Nos 10 primeiros | 80% | 86% |
+| "Não sei" | 21% | 21% |
+| Fiabilidade | 65% (69/106) | 65% (70/108) |
+
+O ganho está na recuperação (+9 perguntas nos 10 primeiros), que é o que o passo do LLM usa. Nas outras 457 perguntas, com as mesmas alterações: literais 225/250 no 1.º (partida de antes da correção das revogações: 226), temporais 96/102 (96), revogadas 55/55 (55); nenhuma outra descida vem das alterações (das 16 perguntas que mudaram de posição contra aquela partida, comparei as 8 primeiras no código do `main` e só uma, de 1.º para 2.º, vem das alterações; as outras já vinham da correção das revogações). A medição completa das 593 perguntas no código do `main`, para uma comparação exata, não foi feita.
+
 ### Pesquisa por diplomas com embeddings: não resultou
 
 Tentou-se atacar o diploma errado procurando primeiro o diploma: um vetor (modelo denso multilingue MiniLM) por diploma em vigor (título, sumário, nomes dos anexos), por anexo com nome e por cada 25 epígrafes (274 mil vetores, 1 h 50 em CPU), os 15 diplomas mais próximos da pergunta e o BM25 de artigos só dentro deles, junto aos candidatos do reranker. Medido nas 136 reais, sobre o índice com o tratamento dos artigos revogados (partida: 56% no 1.º, fiabilidade 65% com limiar 3):
