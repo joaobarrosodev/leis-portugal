@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:221167:por",
+  "artigos": [
+    {
+      "chave": "3.º-A",
+      "epigrafe": "Autoridade competente",
+      "texto": "1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e à segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado por autoridade competente, competindo-lhe, designadamente:\n\na) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar e coordenar a execução do plano oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior."
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Fiscalização, instrução e decisão",
+      "texto": "1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas."
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 a 4 alteram/aditam quadros do anexo (não textual), não aplicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

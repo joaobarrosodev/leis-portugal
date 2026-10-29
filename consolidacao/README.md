@@ -422,3 +422,13 @@ Mesmo processo dos lotes 001 a 010 (ver acima). `llm.py --importar` deu, por lot
 | Com problemas | 3 | 2 | 0 | 1 | 1 | 6 | 3 | 3 | 19 |
 
 `juntar.py --escala` passou a ter 172 `aplicado com LLM` (139 parciais), 73 mais do que nos lotes 001 a 010. Ronda 8: esses 73 em 3 lotes (`verificacao/entrada-piloto-8-lote-01..03.jsonl`), verificados às cegas por 11 subagentes. **16 sem reparos** (22 %), 57 com reparos (53 com instruções em falta), 14 artigos `errado`, 4 `dúvida`. O `acervo.py --dry-run` dá agora 16 aplicáveis por aplicar (os 383 já aplicados estão no acervo).
+
+### Bloco 3: LLM nos lotes 019 a 026 e ronda 9
+
+| Lote | 019 | 020 | 021 | 022 | 023 | 024 | 025 | 026 | Total |
+| --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| Sem problemas | 9 | 11 | 10 | 11 | 4 | 10 | 8 | 12 | 75 |
+| Não aplicável | 28 | 28 | 27 | 28 | 35 | 29 | 32 | 26 | 233 |
+| Com problemas | 3 | 1 | 3 | 1 | 1 | 1 | 0 | 2 | 12 |
+
+`juntar.py --escala`: 233 `aplicado com LLM` (186 parciais), 61 novos. Ronda 9 (`verificacao/entrada-piloto-9-lote-01..03.jsonl`, 8 pedaços de verificação): **5 sem reparos** (8 %). O `acervo.py --dry-run` dá 5 aplicáveis por aplicar.

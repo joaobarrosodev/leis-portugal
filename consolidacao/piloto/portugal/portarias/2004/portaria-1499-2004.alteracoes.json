@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO — Programa de formação do ano comum::3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Estrutura do ano comum\n\n1 - O ano comum é constituído por cinco blocos formativos:\n\na) Formação em medicina interna;\n\nb) Formação em pediatria geral;\n\nc) Formação em obstetrícia;\n\nd) Formação em cirurgia geral;\n\ne) Formação em cuidados de saúde primários:\n\ni) Formação em clínica geral;\n\nii) Formação em saúde pública.\n\n2 - A sequência dos blocos formativos não tem carácter obrigatório.",
+    "depois": "###### Artigo 3.º — Estrutura do ano comum\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/portaria/111-2011-278740) e [Portaria n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/portaria/53-2013-257857) e [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:348921:por",
+    "alterador": "pt:dre:278740:por;pt:dre:257857:por;pt:dre:116460405:por"
+  },
+  {
+    "artigo": "ANEXO — Programa de formação do ano comum::4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Duração dos blocos formativos\n\nOs blocos formativos a que se refere o artigo anterior têm a seguinte duração:\n\na) Formação em medicina interna, quatro meses, incluindo doze horas semanais em serviço de urgência;\n\nb) Formação em pediatria geral, dois meses, incluindo doze horas semanais em serviço de urgência;\n\nc) Formação em obstetrícia, um mês, incluindo doze horas semanais em serviço de urgência;\n\nd) Formação em cirurgia geral, dois meses, incluindo doze horas semanais em serviço de urgência.\n\ne) Formação em cuidados de saúde primários, três meses.",
+    "depois": "###### Artigo 4.º — Duração dos blocos formativos\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 111/2011](https://diariodarepublica.pt/dr/detalhe/portaria/111-2011-278740) e [Portaria n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/portaria/53-2013-257857) e [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:348921:por",
+    "alterador": "pt:dre:278740:por;pt:dre:257857:por;pt:dre:116460405:por"
+  }
+]

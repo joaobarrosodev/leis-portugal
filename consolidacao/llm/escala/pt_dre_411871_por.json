@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:411871:por",
+  "artigos": [],
+  "nao_aplicavel": "Alvo ambíguo: o artigo 1.º fornecido é o dos Estatutos (Denominação e duração, sem números), cuja nova redação (Instrução 1) não é dada; a nova redação da Instrução 2 é do artigo 1.º do decreto-lei, com '2 - ...' que remete para um n.º 2 inexistente no texto fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

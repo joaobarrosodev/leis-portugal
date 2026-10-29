@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:629140:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do Decreto-Lei n.º 196/2009 alteram artigos e anexos do Regulamento anexo (não o artigo 1.º do decreto-lei fornecido) e não trazem o texto da nova redação; nada a aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:682986:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "O disposto no n.º 7 do artigo 71.º e no n.º 2 do artigo 91.º, ambos do Código do IVA, no artigo 179.º do CIMSISD, no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo Decreto-Lei n.º 51/95, no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º do Decreto-Lei n.º 54/95, e no artigo 27.º do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º do Decreto-Lei n.º 43/98, aplica-se apenas aos factos tributários ocorridos a partir de 1 de Janeiro de 1998."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:634950:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1 e 2 (nova redação e aditamento de bases) sem texto no pedido; instrução 3 revoga sobretudo alíneas e números de bases cuja redação é também substituída pela instrução 1 (texto não fornecido), e as bases não têm chave de artigo; nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

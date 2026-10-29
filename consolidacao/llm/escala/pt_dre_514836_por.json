@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:514836:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução só traz o proémio, sem a nova redação do artigo 16.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

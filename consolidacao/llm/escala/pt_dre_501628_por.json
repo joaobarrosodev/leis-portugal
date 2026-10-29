@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:501628:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução (Decreto n.º 48607) só traz o proémio, sem o texto da nova redação do § 2.º do artigo 33.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

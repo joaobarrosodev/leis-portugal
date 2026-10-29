@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO::28.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 28.º — Candidatura de pessoal em SME\n\n1 - O pessoal em SME pode formalizar a sua candidatura mediante o preenchimento de formulário electrónico próprio disponível no sistema, sem prejuízo da entrega dos documentos que o serviço que procede ao recrutamento entenda necessários.\n\n2 - Para os efeitos do disposto na subalínea ii) da alínea b) do n.º 2 do artigo 39.º da lei, a EGM envia ao serviço que procede à abertura do procedimento de selecção a lista do pessoal que é opositor obrigatório, dentro do prazo previsto para a recepção de candidaturas, podendo permitir o acesso ao respectivo curriculum vitae padronizado disponível no sistema ou enviando-o por correio electrónico, sem prejuízo do regime legal de acesso a dados pessoais.",
+    "depois": "###### Artigo 28.º — Candidatura do pessoal em SME a procedimentos concursais\n\n1 - O pessoal em SME formaliza a sua candidatura a procedimentos concursais nos termos da lei aplicável.\n\n2 - Para os efeitos do disposto na subalínea ii) da alínea b) do n.º 2 do artigo 39.º da lei, a EGM coloca à disposição do serviço que procede à publicitação do procedimento concursal, no portal da bolsa de emprego público (BEP) e dentro do prazo previsto para a apresentação das candidaturas, a lista do pessoal considerado opositor obrigatório a esse procedimento.\n\n3 - Sem prejuízo do regime legal de acesso a dados pessoais, a EGM pode permitir que o serviço aceda a documentos disponíveis no sistema e exigidos para efeitos de admissão ou avaliação dos candidatos.\n\n> Alterado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165253:por",
+    "alterador": "pt:dre:287107:por"
+  },
+  {
+    "artigo": "ANEXO::24.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Consulta à bolsa de emprego público\n\n1 - Para os efeitos do disposto no n.º 2 do artigo 41.º da lei, o serviço deve, num primeiro momento, preencher um formulário electrónico disponível no sistema, através do portal da bolsa de emprego público (BEP), com a indicação da carreira ou categoria em causa.\n\n2 - Existindo pessoal na carreira ou categoria pretendidas, o sistema fornece tal indicação.\n\n3 - Caso não exista pessoal em SME nas condições previstas no número anterior, o serviço deve prosseguir com o preenchimento do formulário electrónico, indicando outras características exigíveis ao pessoal a recrutar, tendo em vista aferir da existência de pessoal em SME passível de reclassificação ou de reconversão profissionais.\n\n4 - No caso de inexistência de pessoal em SME na carreira ou categoria pretendidas, nem passível de reclassificação ou de reconversão profissionais, é emitida uma declaração atestando a realização da consulta e a referida inexistência.",
+    "depois": "###### Artigo 24.º — Consulta à bolsa de emprego público\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:165253:por",
+    "alterador": "pt:dre:287107:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:303269:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - O presente Regulamento tem por objecto a definição da comparticipação dos custos em que, no exercício das competências que lhes estão cometidas, incorrem os organismos coordenadores dos demais subprogramas do PIQTUR.\n\n2 - São passíveis de comparticipação os custos emergentes da realização das seguintes acções, no âmbito da execução do PIQTUR:\n\na) Apoio técnico e logístico à gestão do programa;\n\nb) Informação dos destinatários e divulgação do programa;\n\nc) Criação e funcionamento de um sistema de informação e controlo de gestão;\n\nd) Análise das candidaturas propostas aos demais subprogramas do PIQTUR;\n\ne) Acompanhamento, fiscalização e controlo dos projectos financiados ao abrigo dos demais subprogramas;\n\nf) Estudos sobre o PIQTUR, incluindo a avaliação dos respectivos efeitos, designadamente financeiros, económicos e sociais.\n\n3 - O regime de comparticipação de custos a que se refere o número anterior vigora até 2008, inclusive, sem prejuízo da comparticipação dos custos incorridos até 31 de Março de 2010, na realização das acções a que se referem as alíneas a), e) e f) do número anterior."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

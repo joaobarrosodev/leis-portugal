@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:238872:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções anunciam novas redações e aditamentos/revogações (artigos 4.º, 12.º, 16.º, etc.) mas os textos não constam do pedido; só a revogação dos artigos 11.º-A a 11.º-D, cujo aditamento também não tem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

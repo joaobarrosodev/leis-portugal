@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:419650:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do DLR 18/94/A só trazem o proémio ('passam a ter a seguinte redacção'), sem a nova redação do artigo 5.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

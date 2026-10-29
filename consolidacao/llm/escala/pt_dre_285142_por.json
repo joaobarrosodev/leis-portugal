@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:285142:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "São impenhoráveis os créditos de IVA, a menos que assumam a forma de reembolsos confirmados e comunicados nos termos previstos no Decreto-Lei n.º 229/95, de 11 de Setembro, alterado pelos Decretos-Leis n.os 472/99, de 8 de Novembro, 160/2003, de 19 de Julho, e 124/2005, de 3 de Agosto."
+    }
+  ],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 233/91 não traz texto; aplicada a redação integral do artigo 8.º dada pela Lei n.º 55-A/2010.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

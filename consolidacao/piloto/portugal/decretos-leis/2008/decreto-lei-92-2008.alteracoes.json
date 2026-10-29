@@ -2,15 +2,29 @@
   {
     "artigo": "12.º",
     "operacao": "aditar",
-    "regra": "aditamento de artigo",
+    "regra": "llm",
     "antes": "",
-    "depois": "###### Artigo 12.º — Acumulação de funções\n\nConsideram-se exercidas por inerência as funções de membros dos órgãos sociais da Polis Litoral - Ria Formosa, S. A., desempenhadas por titulares de cargos de direcção em entidades ou organismos da administração directa ou indirecta do Estado com atribuições nas áreas compreendidas no objecto da empresa, quando para tal sejam designados nos termos dos estatutos e da lei aplicável.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 231/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549), publicado em 2008-11-28.",
-    "excerto": "É aditado o artigo 12.º ao Decreto-Lei n.º 92/2008, de 3 de Junho, com a seguinte redacção:\n\n«Artigo 12.º\n\nAcumulação de funções\n\nConsideram-se exercidas por inerência as funções de membros dos órgãos sociais da Polis Litoral - Ria Formosa, S. A., desempenhadas por titulares de cargos de direcção em entidades ou organismos da administração directa ou indirecta do Estado com atribuições nas áreas compreendidas no objecto da empresa, quando para tal sejam designados nos termos dos estatutos e da lei aplicável.»",
-    "artigo_alterador": "12.º",
-    "metodo": "regra",
+    "depois": "###### Artigo 12.º — Acumulação de funções\n\nConsideram-se exercidas por inerência as funções de membros dos órgãos sociais da Polis Litoral - Ria Formosa, S. A., desempenhadas por titulares de cargos de direcção em entidades ou organismos da administração directa ou indirecta do Estado com atribuições nas áreas compreendidas no objecto da empresa, quando para tal sejam designados nos termos dos estatutos e da lei aplicável.\n\n> Aditado pelo/a [Decreto-Lei n.º 231/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549) e [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:448951:por",
-    "alterador": "pt:dre:440549:por"
+    "alterador": "pt:dre:440549:por;pt:dre:259962:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Direcção e coordenação\n\nA direcção e a coordenação geral da Polis Litoral Ria Formosa - Operação Integrada de Requalificação e Valorização da Ria Formosa, nos termos definidos no respectivo plano estratégico, ficam a cargo da sociedade Parque EXPO 98, S. A.",
+    "depois": "###### Artigo 10.º — Direcção e coordenação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 231/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549) e [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448951:por",
+    "alterador": "pt:dre:440549:por;pt:dre:259962:por"
   }
 ]

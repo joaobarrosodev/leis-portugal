@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:509661:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "Autorização de introdução no mercado de produtos de uso veterinário",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Títulos dos capítulos II e III (Decreto-Lei n.º 290/93) sem texto e fora dos artigos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

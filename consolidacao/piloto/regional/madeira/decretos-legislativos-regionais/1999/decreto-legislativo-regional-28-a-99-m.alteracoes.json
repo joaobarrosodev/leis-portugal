@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::15.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Remuneração\n\nOs membros do conselho consultivo que não sejam simultaneamente membros do conselho de administração têm direito a uma senha de presença, cujo valor será fixado em despacho conjunto dos secretários regionais da tutela e do que tiver a tutela das finanças.",
+    "depois": "###### Artigo 15.º — Remuneração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484577:por",
+    "alterador": "pt:dre:70007184:por"
+  }
+]

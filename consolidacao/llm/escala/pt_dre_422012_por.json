@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:422012:por",
+  "artigos": [
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "1. As receitas da Federação, dentro dos limites do subsídio inscrito no Orçamento Geral do Estado, destinam-se à satisfação das respectivas despesas e das da Direcção-Geral dos Serviços Tutelares de Menores, e designadamente das que se referem a:\n\na) Subsídios para obras, apetrechamento e funcionamento dos serviços externos;\n\nb) Serviço social e patronato de internados, de ex-internados e de quaisquer outros menores que cumpram medidas decretadas pelos tribunais de menores;\n\nc) Internamento, tratamento ou observação de menores em serviços hospitalares, assistenciais, de educação ou outros, oficiais ou particulares;\n\nd) Subsídios a famílias próprias ou alheias que tenham a seu cargo menores sujeitos à jurisdição dos tribunais tutelares;\n\ne) Estudos, trabalhos, reuniões, estágios, frequência de cursos, congressos e representações nacionais ou internacionais.\n\n2. Poderão ser concedidos subsídios a entidades particulares especializadas que tenham entre os seus fins os de prevenção, tratamento, educação ou recuperação de menores e que, para o efeito, estabeleçam acordos com a Direcção-Geral dos Serviços Tutelares de Menores.\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

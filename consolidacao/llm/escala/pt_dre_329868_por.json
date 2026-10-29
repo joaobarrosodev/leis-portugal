@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:329868:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação do artigo 8.º não aplicada: artigo não fornecido no original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

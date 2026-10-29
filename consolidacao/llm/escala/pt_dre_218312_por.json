@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:218312:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções anunciam alterações (incl. nova redação do artigo 4.º pelo DRR 1/2007/M) mas o texto da nova redação não consta do pedido; DRR 23/2008/M sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:416436:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "1 - Além das verbas que lhe forem atribuídas pelo orçamento da Força Aérea, constituem receitas do Museu os donativos ou legados, bem como o produto das entradas e das vendas de publicações, fotografias e demais artigos respeitantes à temática aeronáutica, no âmbito previsto neste diploma.\n\n2. O material que não tenha interesse museológico será considerado inútil e, por proposta do director do Museu, com a aprovação do Chefe do Estado-Maior da Força Aérea, cedido a outros estabelecimentos ou vendido em hasta pública."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

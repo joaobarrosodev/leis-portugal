@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:523185:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Conteúdo funcional",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Piloto dos N/M",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Engenheiro maquinista da marinha mercante",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Remuneração base",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Remunerações acessórias",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Escala salarial",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O Decreto Legislativo Regional n.º 18/2001/M revoga integralmente o estatuto aprovado pelo diploma; os anexos (mapas) não são tratados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

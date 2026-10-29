@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:209870:por",
+  "artigos": [],
+  "nao_aplicavel": "Aditamento dos artigos 14.º-A, 14.º-B, 16.º-A e 16.º-B sem o texto da redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

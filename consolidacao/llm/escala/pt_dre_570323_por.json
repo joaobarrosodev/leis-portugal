@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:570323:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem o proémio, sem a nova redação do n.º 1 do artigo 1.º nem o texto do artigo 5.º aditado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Indeferimento das candidaturas\n\n1 - São indeferidos os processos de candidatura que:\n\na) Não sejam objecto de despacho favorável do Ministro do Mar;\n\nb) Não supram as deficiências notificadas pela DGP ou pelo IFADAP no prazo de 15 dias, se prazo maior não for expressamente concedido.\n\n2 - Podem igualmente ser indeferidos os processos de candidatura apresentados por proponentes que, tendo projectos aprovados anteriormente, não hajam celebrado contrato por causa que lhes seja imputável, não tenham iniciado a execução dos projectos nos prazos fixados ou não tenham executado os mesmos de acordo com o contratualmente assumido.",
+    "depois": "###### Artigo 9.º — Indeferimento das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294696:por",
+    "alterador": "pt:dre:429208:por"
+  }
+]

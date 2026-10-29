@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:418398:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Rendimentos",
+      "texto": "1 - São considerados, para os efeitos referidos no artigo anterior, os seguintes rendimentos anuais ilíquidos:\n\na) Rendimentos do trabalho dependente e ou independente;\n\nb) Rendimentos comerciais, industriais e ou agrícolas;\n\nc) Rendimentos de capitais;\n\nd) Rendimentos prediais;\n\ne) Pensões.\n\nf) Outras prestações sociais compensatórias da perda ou inexistência de rendimentos concedidas no âmbito dos regimes de protecção social.\n\n2 - Os rendimentos compreendidos no âmbito das categorias enunciadas nas alíneas a) a e) do número anterior são os estabelecidos para as correspondentes categorias na legislação que regula o imposto sobre os rendimentos das pessoas singulares (IRS).\n\n3 - Não são considerados os rendimentos relativos a prestações familiares e ao subsídio por assistência de terceira pessoa concedidos no âmbito dos regimes de protecção social."
+    }
+  ],
+  "nao_aplicavel": "Artigo 9.º não consta do original fornecido; o n.º 3 do artigo 3.º, não mencionado na nova redação, foi mantido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

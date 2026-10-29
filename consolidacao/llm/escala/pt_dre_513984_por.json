@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:513984:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A nova redação do artigo 59.º do Decreto-Lei n.º 41169 respeita a outro diploma",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

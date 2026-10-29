@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:308334:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::48.º",
+      "epigrafe": "Inscrição na DGEDA",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação dos artigos 49.º e 54.º a 62.º não aplicada: artigos não fornecidos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

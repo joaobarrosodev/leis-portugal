@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:252004:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Portarias n.º 140/80 e n.º 497/82) não trazem o texto da nova redação dos n.os 4 e 5 do artigo 5.º nem do n.º 3 aditado ao artigo 11.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

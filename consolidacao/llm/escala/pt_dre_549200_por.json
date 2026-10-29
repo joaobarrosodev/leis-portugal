@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:549200:por",
+  "artigos": [
+    {
+      "chave": "20.º",
+      "epigrafe": "Regime de restrições e condicionamentos",
+      "texto": "1 - Nos espaços agrícolas são interditas:\n\na) Operações de loteamento;\n\nb) Obras de urbanização.\n\n2 - O regime de edificabilidade nestes espaços é o seguinte:\n\na) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento, devendo a construção ser concentrada;\n\nb) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;\n\nc) Constituem excepções ao disposto nas alíneas anteriores os silos, depósitos de água e instalações especiais devidamente justificadas, bem como as edificações destinadas aos fins previstos na alínea f) do artigo 22.º"
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Espaços de uso ou aptidão agrícola",
+      "texto": "1 - Estes espaços constituem espaços não integrados na Reserva Agrícola Nacional mas cujas características pedológicas, de ocupação actual ou de localização os potenciam para possíveis usos agrícolas.\n\n2 - O regime de edificabilidade é o previsto no Plano para os espaços agrícolas, sendo expressamente autorizadas edificações destinadas às seguintes finalidades:\n\na) Habitação;\n\nb) Usos auxiliares da agricultura;\n\nc) Turismo rural;\n\nd) Turismo de habitação;\n\ne) Agro-turismo;\n\nf) Outras edificações de interesse concelhio, reconhecido por deliberação expressa da Assembleia Municipal, nomeadamente postos de abastecimento de combustíveis."
+    }
+  ],
+  "nao_aplicavel": "Artigos 24.º, 41.º e 43.º não aplicados: não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

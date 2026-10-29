@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:294703:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Indeferimento das candidaturas",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigo 2.º: a nova redação dada pela Portaria n.º 445/98 não consta do pedido (só a frase introdutória).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

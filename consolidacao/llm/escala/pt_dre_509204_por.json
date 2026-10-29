@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:509204:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução sem o texto da nova redação dos artigos 2.º, 3.º e 7.º",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

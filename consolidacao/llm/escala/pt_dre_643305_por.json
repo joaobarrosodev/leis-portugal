@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:643305:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (extinção de comissões pelo DL 199/74) não é alteração textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:535815:por",
+  "artigos": [],
+  "nao_aplicavel": "DL 199/71 acrescenta categorias sem alteração textual expressa do artigo 1.º; a revogação do artigo 2.º, 8.ª (DL 7/77) incide sobre artigo não fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

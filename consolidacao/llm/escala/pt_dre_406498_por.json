@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:406498:por",
+  "artigos": [
+    {
+      "chave": "ANEXO A — REGULAMENTO DE EXECUÇÃO DO PROGRAMA QUADROS::2.º",
+      "epigrafe": "Objectivos",
+      "texto": "O Programa Quadros tem por objectivo permitir que as empresas que já atingiram objectivos de crescimento, expansão e desenvolvimento possam iniciar um outro ciclo de crescimento e desenvolvimento com a admissão de novos quadros técnicos na área da economia, da gestão e na área tecnológica de dimensão estratégica, estimulando actividades de forte crescimento e de elevado conteúdo de inovação, incluindo a reconversão estratégica das actividades."
+    }
+  ],
+  "nao_aplicavel": "Supressão do anexo D e alteração dos artigos 4.º, 6.º, 7.º, 10.º e 11.º do Regulamento não aplicadas: anexo e artigos originais não fornecidos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:462588:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1 e 2 (Lei n.º 13/81) só trazem o proémio, sem o texto da nova redação dos artigos 1.º, 8.º, 9.º, 12.º, 13.º, 15.º e 17.º nem das alíneas aditadas aos artigos 7.º e 8.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

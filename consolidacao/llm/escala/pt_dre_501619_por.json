@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:501619:por",
+  "artigos": [],
+  "nao_aplicavel": "As rectificações dos artigos 26.º e 30.º visam texto truncado ('hierar-', 'pre-') que não existe no original fornecido, que já tem a redação correcta; rectificações dos anexos II, III e IV fora dos artigos fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO A — REGULAMENTO DE EXECUÇÃO DO PROGRAMA QUADROS::2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Objectivos\n\nO Programa Quadros tem por objectivo permitir que empresas que já atingiram objectivos de crescimento, expansão e desenvolvimento possam iniciar um outro ciclo de crescimento e desenvolvimento com a admissão de novos quadros técnicos nas áreas da economia e da gestão e nas áreas tecnológicas de dimensão estratégica, estimulando actividades de forte crescimento e de elevado conteúdo de inovação, incluindo a reconversão estratégica de actividades.",
+    "depois": "###### Artigo 2.º — Objectivos\n\nO Programa Quadros tem por objectivo permitir que as empresas que já atingiram objectivos de crescimento, expansão e desenvolvimento possam iniciar um outro ciclo de crescimento e desenvolvimento com a admissão de novos quadros técnicos na área da economia, da gestão e na área tecnológica de dimensão estratégica, estimulando actividades de forte crescimento e de elevado conteúdo de inovação, incluindo a reconversão estratégica das actividades.\n\n> Alterado pelo/a [Portaria n.º 1257/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1257-2003-468588), publicado em 2003-11-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406498:por",
+    "alterador": "pt:dre:468588:por"
+  }
+]

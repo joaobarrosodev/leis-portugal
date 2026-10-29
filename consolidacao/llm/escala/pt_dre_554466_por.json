@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:554466:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::8.º",
+      "epigrafe": "Investimentos e despesas elegíveis",
+      "texto": "1 - São elegíveis os investimentos e as despesas seguintes:\n\na) Melhoramentos fundiários, plantações, comercialização de produtos da exploração e diversificação de actividades no domínio agro-florestal que se enquadrem no modelo de desenvolvimento local;\n\nb) Construções, reparações e equipamentos adaptados à dimensão e características da exploração agro-florestal, para a correcta condução da exploração, para a preservação ou qualificação ambiental e para o bem-estar animal;\n\nc) Melhoramentos funcionais destinados à melhoria das condições económicas da exploração e à obtenção de condições mínimas regulamentares;\n\nd) Aquisição de animais reprodutores, sem prejuízo do disposto no artigo seguinte, quando em início de actividade ou aumento do efectivo.\n\ne) Elaboração do projecto de investimento.\n\n2 - O montante máximo elegível das despesas referidas na alínea c) do número anterior não pode exceder 50% do investimento elegível ao abrigo deste Regulamento.\n\n3 - A despesa referida na alínea e) do n.º 1 é elegível até ao montante de 1% do total das despesas elegíveis.\n\n4 - Nas actividades em que a disciplina de mercado legalmente estabelecida implique a existência de direitos individuais de produção, a elegibilidade dos investimentos fica sujeita à compatibilidade com esses direitos.\n\n5 - No caso de investimentos que impliquem um aumento de produção, deve estar assegurado o escoamento desse acréscimo nomeadamente nos mercados locais."
+    },
+    {
+      "chave": "ANEXO::4.º",
+      "epigrafe": "Condições de acesso",
+      "texto": "1 - Os apoios previstos neste Regulamento são concedidos às explorações que reúnam, cumulativamente, as seguintes condições:\n\na) A mão-de-obra utilizada seja, em pelo menos 50%, de tipo familiar;\n\nb) Tenha uma dimensão económica igual ou inferior a 6 UDE;\n\nc) Tenha viabilidade económica, entendendo-se como tal aquela em que o valor acrescentado bruto a custo de factores (VABcf), tendo em conta todas as actividades cujos investimentos são elegíveis no âmbito desta acção, seja superior a zero;\n\nd) Cumpra as normas comunitárias relativas ao ambiente, higiene e bem-estar animal;\n\ne) Não tenha beneficiado de ajudas no âmbito da medida n.º 1 do Programa AGRO.\n\n2 - As explorações agrícolas que não satisfaçam as condições referidas nas alíneas c) e d) do número anterior podem apresentar uma candidatura até 31 de Dezembro de 2002 desde que a mesma envolva investimentos que visem permitir a satisfação daquelas condições num prazo máximo de três anos a contar a partir da data da decisão de atribuição de ajudas.\n\n3 - As condições previstas nas alíneas c), d) e e) do n.º 1 não se aplicam às candidaturas que recorram exclusivamente às ajudas previstas no capítulo III.\n\n4 - Ficam excluídas as explorações exclusivamente florestais."
+    }
+  ],
+  "nao_aplicavel": "Portarias n.º 272/2001 e n.º 1196/2003 não trazem instruções no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "ANEXO::8.º: parágrafo que não está no alterador nem no original: 5 - No caso de investimentos que impliquem um aumento de produção, deve estar as"
+  ]
+}

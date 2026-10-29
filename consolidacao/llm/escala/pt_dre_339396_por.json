@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:339396:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Provas públicas",
+      "texto": "1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará uma comissão de avaliação composta por cinco elementos, todos membros do Conselho Superior da Magistratura, e presidida pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.\n\n2 - Para a realização e avaliação das provas escritas e orais, a comissão de avaliação cooptará outros elementos de entre docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos.\n\n3 - A comissão de avaliação constituirá com os docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos cooptados para o efeito, júris compostos por cinco membros, de entre os quais um será, obrigatoriamente, nomeado presidente de júri e outro será psicólogo, com vista à realização e avaliação simultânea das provas públicas orais, podendo fazer parte desses júris os elementos da referida comissão de avaliação.\n\n4 - O perfil psicológico e emocional do candidato que se revele inadequado ao exercício temporário das funções de juiz será impeditivo desse exercício, mediante parecer técnico do psicólogo, que não terá carácter vinculativo, e deliberação favorável e devidamente fundamentada do júri respectivo."
+    }
+  ],
+  "nao_aplicavel": "Artigo 8.º não aplicado: não consta dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

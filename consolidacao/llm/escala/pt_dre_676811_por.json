@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:676811:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - Às entidades que desenvolvam as culturas agrícolas constantes do anexo a este diploma, que dele faz parte integrante, e nas regiões nele definidas, que tenham sofrido, em virtude da seca ocorrida entre 1 de Fevereiro e 31 de Março e chuvas intensas verificadas entre 1 de Maio e 30 de Junho, uma quebra de produção dessas culturas superior a 20% e que hajam contratado crédito de curto prazo para a campanha de 1996-1997 ao abrigo das linhas de crédito de curto prazo para a agricultura, silvicultura e pecuária criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio, será atribuída uma moratória com bonificação da taxa de juros.\n\n2 - A quebra da produção das entidades que tenham contratado seguro de colheitas e efectuado a contribuição devida para o fundo de calamidades, ambos para a presente campanha, é certificada nos termos do anexo II à [Portaria n.º 1029/97](https://diariodarepublica.pt/dr/detalhe/portaria/1029-1997-658930), de 29 de Setembro.\n\n3 - A quebra de produção das entidades não abrangidas pelo número anterior é certificada pelas direcções regionais de agricultura, se possível em função da produtividade média da campanha de produção de 1996-1997 e da produtividade média da região nos últimos três anos.\n\n4 - O disposto no presente diploma aplica-se também às entidades que desenvolvam a produção de tomate em cultura de ar livre nos concelhos da região do Ribatejo e Oeste constantes do anexo a este diploma em cujos campos de produção foram detectados focos graves de infecção provocados pelo vírus do bronzeamento do tomateiro (TSWN) e que beneficiem da ajuda prevista no Despacho Normativo n.º 63/97, de 13 de Outubro, e ainda às entidades que desenvolvam a produção de tomate para indústria nos concelhos da região do Alentejo constantes do referido anexo.\n\n5 - Compete às direcções regionais de agricultura certificar o enquadramento das entidades produtoras de tomate no despacho normativo referido no número anterior."
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 e 2 aditam concelhos ao anexo (quadro), não aplicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

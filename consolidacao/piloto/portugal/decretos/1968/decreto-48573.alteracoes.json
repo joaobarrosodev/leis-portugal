@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nNo quadro dos Serviços de Aeronáutica Civil de Moçambique, os lugares de director de aeródromo de 1.ª classe (director de aeroporto) passam a designar-se «director de aeroporto de 1.ª classe», sendo-lhes atribuída a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino e exercendo as funções de directores dos aeroportos internacionais de Lourenço Marques e Beira.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 76/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1972-398776), publicado em 1972-03-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:264758:por",
+    "alterador": "pt:dre:398776:por"
+  }
+]

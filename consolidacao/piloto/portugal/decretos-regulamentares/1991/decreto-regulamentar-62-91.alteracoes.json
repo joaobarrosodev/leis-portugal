@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Regulamento do Espectáculo Tauromáquico::48.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 48.º — Inscrição na DGEDA\n\nÉ obrigatória a inscrição de todos os artistas tauromáquicos em registo especial a criar na DGEDA, a qual será comprovada por cartão de identificação específico.",
+    "depois": "###### Artigo 48.º — Inscrição na DGEDA\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308334:por",
+    "alterador": "pt:dre:67059137:por"
+  }
+]

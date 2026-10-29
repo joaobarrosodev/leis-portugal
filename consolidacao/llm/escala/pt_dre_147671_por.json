@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:147671:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Trabalhos complementares e receitas",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 5.º e 6.º (revogados) não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

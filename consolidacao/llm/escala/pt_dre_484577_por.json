@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:484577:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Estatutos do Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira - IDE-RAM::15.º",
+      "epigrafe": "Remuneração",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Nova redação dos artigos 6.º, 7.º, 11.º e 16.º dos Estatutos sem texto; epígrafes de secções e revogação do Capítulo IV fora dos artigos; revogação do artigo 15.º aplicada ao artigo 15.º dos Estatutos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

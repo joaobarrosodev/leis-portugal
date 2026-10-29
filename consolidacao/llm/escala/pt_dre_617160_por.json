@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:617160:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto n.º 849/76 (nova redacção dos artigos 12.º e 27.º) não traz o texto; sem instruções do Decreto-Lei n.º 1-C/80.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

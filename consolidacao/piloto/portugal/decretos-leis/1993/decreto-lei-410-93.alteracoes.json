@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1 - A titularidade, directa ou indirecta, das acções reprivatizadas na primeira fase do processo referida no artigo 2.º constitui causa impeditiva da participação, directa ou indirecta, em ofertas públicas de alienação ou em concurso público para reprivatização da CIMPOR ou de sociedades constituídas a partir do respectivo património.\n\n2 - Para efeitos do disposto no número anterior, consideram-se titularidade ou participação indirectas as que ocorrerem por interposta pessoa, nos casos mencionados no n.º 2 do artigo 579.º do Código Civil, ou por intermédio de sociedade em cujo capital social se detenha participação igual ou superior a 5%.",
+    "depois": "###### Artigo 12.º\n\n1 - (Revogado.)\n\n2 - Para efeitos do disposto no número anterior, consideram-se titularidade ou participação indirectas as que ocorrerem por interposta pessoa, nos casos mencionados no n.º 2 do artigo 579.º do Código Civil, ou por intermédio de sociedade em cujo capital social se detenha participação igual ou superior a 5%.\n\n> Alterado pelo/a [Decreto-Lei n.º 331/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-2000-522396), publicado em 2000-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540246:por",
+    "alterador": "pt:dre:522396:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\n1. São extintas as categorias de «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos», previstas no [Decreto-Lei n.º 49478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49478-1969-213062), de 30 de Dezembro de 1969, e as categorias de «guarda de 1.ª classe com mais de cinco anos» e «guarda de 2.ª classe com mais de cinco anos», previstas no [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.\n\n2. As categorias de «segundo-cabo com menos de cinco anos» e «soldado com menos de cinco anos» passam a designar-se, respectivamente, por segundo-cabo e soldado.\n\n3. As categorias de guardas de 1.ª classe e 2.ª classe com menos de cinco anos passam a designar-se, respectivamente, por guardas de 1.ª classe e guardas.\n\n4. A categoria de guarda de 1.ª classe será extinta à medida que ocorram as vagas no respectivo quadro.",
+    "depois": "###### Artigo 5.º\n\n1. São extintas as categorias de «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos», previstas no [Decreto-Lei n.º 49478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49478-1969-213062), de 30 de Dezembro de 1969, e as categorias de «guarda de 1.ª classe com mais de cinco anos» e «guarda de 2.ª classe com mais de cinco anos», previstas no [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.\n\n2. As categorias de «segundo-cabo com menos de cinco anos» e «soldado com menos de cinco anos» passam a designar-se, respectivamente, por segundo-cabo e soldado.\n\n3. As categorias de guardas de 1.ª classe e 2.ª classe com menos de cinco anos passam a designar-se, respectivamente, por guardas de 1.ª classe e guardas.\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 400/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1978-324885), publicado em 1978-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412800:por",
+    "alterador": "pt:dre:324885:por"
+  }
+]

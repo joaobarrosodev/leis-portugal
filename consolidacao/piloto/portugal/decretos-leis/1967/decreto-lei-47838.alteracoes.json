@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. É proibido aos agentes directos e indirectos das agências funerárias a permanência nos recintos hospitalares fora das condições determinadas em cada estabelecimento.\n\n2. É igualmente proibido aos mesmos agentes comunicar às famílias dos doentes os óbitos ocorridos nos estabelecimentos hospitalares que por qualquer via cheguem ao seu conhecimento.\n\n3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais.",
+    "depois": "###### Artigo 1.º\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais.\n\n> Alterado pelo/a [Decreto-Lei n.º 248/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1983-451852) e [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313653:por",
+    "alterador": "pt:dre:451852:por;pt:dre:372853:por"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:223183:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "Duração",
+      "texto": "O regime de instalação cessa em 19 de Dezembro de 1999."
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Centro Científico e Cultural de Macau",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Articulação com o departamento governamental responsável pela área da cultura",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 2.º a 18.º também revogados pelo DL 496/99, mas não constam do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

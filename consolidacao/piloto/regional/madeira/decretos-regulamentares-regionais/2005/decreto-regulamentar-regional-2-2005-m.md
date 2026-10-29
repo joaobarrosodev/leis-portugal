@@ -1,0 +1,885 @@
+---
+id: pt:dre:618114:por
+title: Decreto Regulamentar Regional n.º 2/2005/M
+original: data/regional/madeira/decretos-regulamentares-regionais/2005/decreto-regulamentar-regional-2-2005-m.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:438707:por
+    title: Decreto Regulamentar Regional n.º 21/2008/M
+    publication_date: '2008-10-23'
+---
+
+# Decreto Regulamentar Regional n.º 2/2005/M
+
+Altera a orgânica da Secretaria Regional do Turismo e Cultura
+
+Na sequência de novas orientações obtidas recentemente, relativamente às chefias administrativas, devem ser introduzidas alterações na orgânica da Secretaria Regional do Turismo e Cultura, aprovada pelo [Decreto Regulamentar Regional n.º 13/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2004-271794), de 23 de Junho.
+
+E tendo em vista uma melhor operacionalidade dos serviços, é necessário proceder a alterações nos actuais quadros de pessoal dos serviços de apoio ao Secretário Regional do Turismo e Cultura e das Direcções Regionais do Turismo e dos Assuntos Culturais.
+
+Para facilidade de consulta, a referida orgânica é publicada na íntegra.
+
+Assim:
+
+Nos termos dos artigos 227.º, alínea d) do n.º 1, e 231.º, n.º 6, ambos da Constituição da República Portuguesa, dos artigos 692.º, alínea c), e 702.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira (aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho) e do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Da natureza, atribuições e competências
+
+###### Artigo 1.º — Natureza
+
+A Secretaria Regional do Turismo e Cultura, abreviadamente designada por SRTC, é o órgão do Governo da Região Autónoma da Madeira (RAM) a que se refere o artigo 4.º do [Decreto Regulamentar Regional n.º 16/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2004-218356), de 17 de Dezembro, cujas atribuições, orgânica e funcionamento são os constantes do presente diploma e seus anexos.
+
+###### Artigo 2.º — Atribuições e competências
+
+1 - São atribuições da SRTC estudar, definir e promover a execução da política da RAM respeitante a turismo e cultura, bem como fomentar e apoiar actividades especialmente nestes domínios, sem prejuízo das atribuições e competências conferidas por lei a outros departamentos.
+
+2 - As competências específicas cometidas à SRTC, no âmbito das atribuições genéricas definidas no número anterior, a serem exercitadas através dos seus órgãos competentes, são as que constam expressamente deste diploma.
+
+### CAPÍTULO II — Da orgânica geral
+
+###### Artigo 3.º — Estrutura orgânica
+
+1 - A SRTC é superiormente dirigida pelo Secretário Regional do Turismo e Cultura e desenvolve a sua actividade através dos seguintes órgãos e serviços:
+
+a) Conselho Regional do Turismo (CRT);
+
+b) Conselho Regional da Cultura e Animação (CRCA);
+
+c) Gabinete do Secretário Regional (GSR);
+
+d) Direcção de Serviços Administrativos (DSA);
+
+e) Gabinete de Estudos e Apoio Jurídico (GEAJ);
+
+f) Arquivo Intermédio (AI);
+
+g) Direcção Regional do Turismo (DRT);
+
+h) Direcção Regional dos Assuntos Culturais (DRAC);
+
+i) Centro de Estudos de História do Atlântico (CEHA);
+
+j) Representação Permanente da RAM em Lisboa (RPL).
+
+2 - Os órgãos mencionados nas alíneas a) e b) do número anterior são órgãos colegiais de apoio ao Secretário Regional.
+
+3 - Os órgãos referidos nas alíneas c) a f) do n.º 1 são serviços de apoio executivo e consultivo do Secretário Regional.
+
+4 - Os órgãos mencionados nas alíneas g) a j) do n.º 1 são órgãos operativos.
+
+#### SECÇÃO I — Do Secretário Regional
+
+###### Artigo 4.º — Competências
+
+1 - No desempenho das suas atribuições, compete ao Secretário Regional do Turismo e Cultura, designadamente:
+
+a) Representar a SRTC;
+
+b) Definir e orientar a política de turismo e de cultura, promovendo a sua execução de acordo com as orientações gerais do Governo da RAM;
+
+c) Coordenar a acção dos dirigentes máximos dos serviços e os trabalhos dos órgãos colegiais da SRTC;
+
+d) Superintender e inspeccionar a acção de todos os serviços e departamentos da SRTC;
+
+e) Definir os meios adequados à gestão dos recursos humanos;
+
+f) Autorizar a contratação de pessoal, a qualquer título, bem como a renovação e a cessação de contratos de pessoal, tudo nos termos legalmente permitidos;
+
+g) Autorizar a transferência, permuta, requisição ou destacamento de pessoal, nos termos legais;
+
+h) Pronunciar-se sobre os pareceres emitidos pelas direcções regionais e outros serviços da SRTC, a pedido de entidades estranhas à SRTC;
+
+i) Exercer as demais competências que lhe são atribuídas por lei e emitir as necessárias e adequadas directivas para promoção e defesa dos interesses cometidos à SRTC;
+
+j) Constituir os grupos de trabalho ou comissões que, eventualmente, se mostrem convenientes para o exercício de funções de estudo ou executivas de carácter transitório e cujo desempenho não possa ser assegurado pelos serviços permanentes da SRTC;
+
+l) Conferir distinções a entidades que desenvolvam projectos ou acções relevantes no âmbito das competências específicas da SRTC.
+
+2 - O Secretário Regional pode delegar, nos termos da lei, no seu chefe do Gabinete ou nos dirigentes máximos de cada órgão, as competências que julgar convenientes, para uma melhor eficiência dos serviços.
+
+3 - O Secretário Regional pode avocar competências dos dirigentes máximos de cada órgão ou de outros dirigentes.
+
+#### SECÇÃO II — Do Conselho Regional do Turismo
+
+###### Artigo 5.º — Natureza e competências
+
+O CRT é o órgão colegial de apoio consultivo do Secretário Regional para o sector do turismo da RAM, competindo-lhe:
+
+a) Dar parecer sobre os inerentes planos gerais e apresentar sugestões para o seu aperfeiçoamento;
+
+b) Formular recomendações e propor medidas adequadas para o sector;
+
+c) Emitir parecer sobre os assuntos de interesse turístico para a RAM que sejam submetidos à sua apreciação;
+
+d) Pronunciar-se sobre o plano anual de promoção turística da RAM, em reunião restrita.
+
+###### Artigo 6.º — Estrutura e funcionamento
+
+1 - O CRT é composto pelos seguintes membros:
+
+a) Secretário Regional do Turismo e Cultura, que é o presidente;
+
+b) Director regional do Turismo, que é o vice-presidente;
+
+c) Director regional dos Assuntos Culturais;
+
+d) Director de serviços de Empreendimentos e Actividades Turísticas da DRT;
+
+e) Director de serviços de Promoção Turística da DRT;
+
+f) Director de serviços de Animação Turística da DRT;
+
+g) Conselheiro técnico do GSR/SRTC para assuntos de turismo;
+
+h) Presidente da mesa da assembleia geral da Associação de Promoção da RAM;
+
+i) Gestor executivo da Associação de Promoção da RAM;
+
+j) Três personalidades de reconhecida competência, designadas pelo Secretário Regional do Turismo e Cultura;
+
+l) Um representante do Governo Regional da RAM afecto ao sector da economia;
+
+m) Um representante do Governo Regional da RAM afecto ao sector dos transportes aéreos;
+
+n) Um representante do Governo Regional da RAM afecto ao sector dos transportes marítimos;
+
+o) Um representante do Governo Regional da RAM afecto ao sector dos transportes terrestres;
+
+p) Um representante do Governo Regional da RAM afecto ao sector do urbanismo;
+
+q) Um representante do Governo Regional da RAM afecto ao sector do ambiente;
+
+r) Um representante do Governo Regional da RAM afecto ao sector da formação profissional em hotelaria e turismo;
+
+s) Um representante das câmaras municipais da Madeira, designado pelas mesmas;
+
+t) Um representante da Câmara Municipal do Porto Santo;
+
+u) Um representante do Comando Regional da Madeira da Polícia de Segurança Pública;
+
+v) Um representante da delegação na RAM da TAP - Air Portugal, S. A.;
+
+x) Um representante da Associação Comercial e Industrial do Funchal (ACIF) para o sector do turismo;
+
+z) Um representante da ACIF para o sector da hotelaria;
+
+aa) Um representante da ACIF para o sector dos similares de hotelaria;
+
+bb) Um representante da ACIF para o sector das agências de viagens;
+
+cc) Um representante da ACIF para o sector das empresas de automóveis de aluguer sem condutor e de transportes turísticos;
+
+dd) Um representante da ACIF para o sector de animação turística;
+
+ee) Um representante da Associação Comercial e Industrial do Porto Santo;
+
+ff) Um representante da delegação na RAM da Associação dos Directores de Hotéis de Portugal;
+
+gg) Um representante do sindicato representativo dos profissionais de indústria hoteleira e similares da RAM;
+
+hh) Um representante do sindicato representativo dos profissionais de informação turística e profissões afins da RAM;
+
+ii) Um representante do sindicato representativo dos profissionais de transportes turísticos da RAM;
+
+jj) Um representante do sindicato representativo dos profissionais de agências de viagens da RAM.
+
+2 - O presidente é substituído, nas suas ausências e impedimentos, pelo vice-presidente.
+
+3 - As reuniões do CRT são ordinárias, extraordinárias e restritas:
+
+a) As ordinárias são realizadas para apreciar e emitir opinião sobre os planos gerais e suas alterações;
+
+b) As extraordinárias sempre que sejam convocadas pelo Secretário Regional do Turismo e Cultura, ou por proposta do director regional do Turismo, ou a pedido escrito de pelo menos um terço dos seus membros, os quais devem indicar, expressamente, no pedido de convocação, o assunto a ser tratado;
+
+c) As restritas quando estejam em causa assuntos específicos de carácter limitado.
+
+4 - As reuniões restritas são determinadas pelo Secretário Regional do Turismo e Cultura, que, em função dos assuntos a debater, convoca apenas os membros habilitados para o efeito.
+
+5 - Das reuniões do CRT deve ser lavrada acta, a qual, depois de aprovada, é assinada pelo presidente e pelo secretário.
+
+6 - Serve de secretário um funcionário designado para o efeito pelo Secretário Regional do Turismo e Cultura.
+
+7 - As funções de membro do CRT não são remuneradas.
+
+#### SECÇÃO III — Do Conselho Regional da Cultura e Animação
+
+###### Artigo 7.º — Natureza, competências, estrutura e funcionamento
+
+A natureza, competências, estrutura e funcionamento do CRCA constam do [Decreto Legislativo Regional n.º 22/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1996-241469), de 7 de Setembro, alterado pelo [Decreto Legislativo Regional n.º 20/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1998-241407), de 17 de Setembro.
+
+#### SECÇÃO IV — Do Gabinete do Secretário Regional
+
+###### Artigo 8.º — Natureza e estrutura
+
+1 - O GSR é o serviço de apoio em conformidade com as competências dos seus membros e é constituído por:
+
+a) Chefe do Gabinete;
+
+b) Dois adjuntos do Gabinete;
+
+c) Conselheiros técnicos;
+
+d) Dois secretários pessoais.
+
+2 - Podem prestar serviço no GSR, ao abrigo da legislação aplicável, para a realização de serviços de apoio específico, os funcionários ou especialistas considerados necessários.
+
+###### Artigo 9.º — Competência dos membros do Gabinete do Secretário Regional
+
+1 - Compete ao chefe do Gabinete, nomeadamente:
+
+a) Dirigir e coordenar os serviços do GSR e representar o Secretário Regional, excepto nos actos de carácter pessoal;
+
+b) Coligir as informações respeitantes ao andamento e orientação dos serviços e órgãos da Secretaria Regional;
+
+c) Transmitir aos diversos serviços e órgãos as ordens e instruções do Secretário Regional;
+
+d) Orientar a preparação do serviço de despachos;
+
+e) Assegurar o expediente do Gabinete e os demais trabalhos que lhe forem designados pelo Secretário Regional.
+
+2 - Compete aos adjuntos do Gabinete:
+
+a) Prestar o apoio técnico que lhes for determinado;
+
+b) Àquele que for indicado pelo Secretário Regional, substituir o chefe do Gabinete nas suas ausências e impedimentos.
+
+3 - Compete aos conselheiros técnicos desenvolver e coordenar assuntos interdepartamentais de âmbito específico designado pelo Secretário Regional.
+
+4 - Compete aos secretários pessoais prestar o apoio administrativo que lhes for determinado.
+
+#### SECÇÃO V — Da Direcção de Serviços Administrativos
+
+###### Artigo 10.º — Natureza e estrutura
+
+1 - A DSA é o serviço de apoio com intervenção técnico-administrativa, controlo e fiscalização, especialmente nas áreas de gestão e administração de pessoal, orçamento, contabilidade e património.
+
+2 - À DSA, que é dirigida por um director de serviços (cargo de direcção intermédia do 1.º grau), compete:
+
+a) Tratar toda a documentação entrada no GSR - registo, classificação e distribuição;
+
+b) Assegurar o tratamento de assuntos e expediente de âmbito geral que não digam respeito a outra unidade orgânica;
+
+c) Assegurar a aquisição e gestão do material e equipamento necessários ao funcionamento dos serviços de apoio ao Secretário Regional;
+
+d) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação do GSR;
+
+e) Assegurar e coordenar as operações inerentes à administração dos recursos humanos da SRTC, nomeadamente recrutamento e provimento, contratação, promoção, mobilidade, reclassificação e transição de categoria e cessação de exercício de funções;
+
+f) Organizar e manter actualizado o ficheiro e o registo biográfico do pessoal da SRTC;
+
+g) Assegurar os procedimentos administrativos respeitantes aos recursos humanos dos serviços de apoio ao Secretário Regional, designadamente efectividade, antiguidade, progressão na categoria, segurança e benefícios sociais e formação profissional;
+
+h) Coordenar e elaborar os projectos de orçamentos da SRTC, bem como as suas alterações;
+
+i) Prestar informação de cabimento orçamental referente a todas as despesas dos serviços de apoio ao Secretário Regional, bem como controlar, nos termos da lei e regulamentares, a inerente execução orçamental;
+
+j) Acompanhar a execução orçamental referente aos órgãos não autónomos;
+
+l) Controlar as requisições de fundos dos serviços autónomos;
+
+m) Controlar a emissão de quaisquer títulos de receitas, bem como a arrecadação das mesmas, nos serviços não autónomos da SRTC;
+
+n) Processar as remunerações e outros abonos devidos ao Secretário Regional e ao pessoal dos seus serviços de apoio, bem com as demais despesas desses serviços, nos termos legais e regulamentares;
+
+o) Verificar os processos de despesa dos órgãos não autónomos, antes da autorização de pagamento, em função das exigências legais e regulamentares;
+
+p) Organizar e manter actualizado o inventário dos bens móveis confiados aos serviços de apoio ao Secretário Regional, segundo as normas estipuladas;
+
+q) Arrecadar as eventuais receitas legais da DSA e assegurar a sua entrega regular no departamento competente do Governo Regional.
+
+3 - A DSA compreende as seguintes secções chefiadas por funcionários da área de chefia administrativa:
+
+a) Secção de Administração Geral e Arquivo, à qual compete, especialmente, a execução das funções mencionadas nas alíneas a) a d) do número anterior;
+
+b) Secção de Pessoal, à qual compete, especialmente, a execução das funções referidas nas alíneas e) a g) do número anterior;
+
+c) Secção de Orçamento e Receitas, à qual compete, especialmente, a execução das funções mencionadas nas alíneas h) a m) do número anterior;
+
+d) Secção de Contabilidade e Património, à qual compete, especialmente, a execução das funções referidas nas alíneas n) a q) do número anterior.
+
+#### SECÇÃO VI — Do Gabinete de Estudos e Apoio Jurídico
+
+###### Artigo 11.º — Natureza e competências
+
+1 - O GEAJ é o serviço de apoio quanto a estudos, bem como sobre assuntos jurídicos, que é dirigido por um director com categoria equiparada, para todos os efeitos legais, a director de serviços (cargo de direcção intermédia do 1.º grau).
+
+2 - Ao GEAJ compete, especialmente:
+
+a) Elaborar estudos sobre as matérias de que for incumbido, do domínio operativo da SRTC;
+
+b) Preparar elementos informativos sobre actividades e projectos a cargo da SRTC para transmitir a entidades oficiais;
+
+c) Elaborar relatórios e pareceres sobre processos que lhe sejam submetidos para esse efeito;
+
+d) Elaborar estudos, formular pareceres e preparar informações sobre questões de natureza jurídica do âmbito da SRTC;
+
+e) Colaborar na preparação e emitir parecer sobre propostas de diplomas legislativos;
+
+f) Acompanhar e apoiar tecnicamente todos os processos judiciais e de contencioso administrativo em que a SRTC seja parte;
+
+g) Instruir processos de sindicância, inquérito, disciplinares e outros, quando superiormente lhe for determinado;
+
+h) Elaborar e manter actualizados ficheiros de legislação, jurisprudência e doutrina, bem como proceder à recolha de toda a informação e documentação jurídica com interesse para a SRTC.
+
+#### SECÇÃO VII — Do Arquivo Intermédio
+
+###### Artigo 12.º — Natureza e competências
+
+1 - O AI é a unidade orgânica de gestão de documentos dos serviços da SRTC, em conformidade com os Decretos Legislativos Regionais n.os [26/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1999-533784), de 27 de Agosto, e [17/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2001-350099), de 29 de Junho.
+
+2 - O AI é dirigido por um chefe de divisão (cargo de direcção intermédia do 2.º grau).
+
+#### SECÇÃO VIII — Da Direcção Regional do Turismo
+
+###### Artigo 13.º — Atribuições e competências
+
+1 - A DRT é o órgão de estudo, coordenação, promoção, execução e fiscalização, no âmbito e em conformidade com a política governamental definida para o sector do turismo.
+
+2 - À DRT compete, designadamente:
+
+a) Estudar e contribuir para a definição da política turística regional, propondo os planos, programas e projectos a realizar pela Administração, no sector do turismo;
+
+b) Fomentar o aproveitamento, a valorização e preservação dos recursos turísticos da RAM, incrementar a sua qualidade como destino turístico, promover a sua imagem nos planos nacional e internacional e garantir a qualidade dos serviços;
+
+c) Coordenar a execução dos planos e programas de acção, respeitantes ao turismo da RAM, promovendo a sua contínua avaliação e apoiando as acções de promoção e animação desencadeadas no âmbito da oferta turística regional;
+
+d) Colaborar com as entidades afectas ao turismo da administração central, articulando os programas e acções promocionais da RAM com os definidos a nível nacional;
+
+e) Pronunciar-se sobre as propostas legislativas de natureza turística, com interesse para a RAM;
+
+f) Colaborar com todos os serviços e organismos regionais, nacionais, estrangeiros e internacionais, relativamente a todas as matérias que interessem ao sector turístico;
+
+g) Assegurar a representação da RAM junto das entidades oficiais e privadas ligadas ao turismo, bem como participar em organismos e manifestações nacionais e internacionais no mesmo âmbito;
+
+h) Emitir parecer sobre projectos de empreendimentos turísticos e de outros estabelecimentos ou actividades, no âmbito da sua competência legal;
+
+i) Fiscalizar serviços e actividades turísticas quanto à aplicação das leis e regulamentos existentes para o sector;
+
+j) Desenvolver bases de dados, tendo em vista a inventariação dos recursos turísticos, bem como editar e divulgar todas as informações com interesse para a oferta e procura turística da RAM, privilegiando para o efeito o uso de novas tecnologias de informação;
+
+l) Coordenar e assegurar o andamento de todos os assuntos referentes a jogo, nos termos da legislação aplicável.
+
+3 - A DRT poderá proceder à exploração comercial de material destinado à promoção da RAM, designadamente através da venda, aluguer ou qualquer outra forma de comercialização, sendo as respectivas receitas entregues, através da competente unidade orgânica, na Tesouraria do Governo Regional.
+
+###### Artigo 14.º — Estrutura
+
+A DRT é superiormente dirigida por um director regional (cargo de direcção superior do 1.º grau) e dele depende directamente a seguinte estrutura orgânica:
+
+a) Divisão de Serviços Administrativos (DISA);
+
+b) Direcção de Serviços de Empreendimentos e Actividades Turísticas (DSEAT);
+
+c) Direcção de Serviços de Promoção Turística (DSPT);
+
+d) Direcção de Serviços de Animação Turística (DSAT);
+
+e) Núcleo de Serviços de Turismo do Porto Santo (NSTPS).
+
+##### SUBSECÇÃO I
+
+###### Artigo 15.º
+
+Director regional
+
+1 - Ao director regional - com as competências enunciadas no diploma legal que adapte à RAM o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado - compete ainda:
+
+a) Assumir o lugar de vice-presidente do CRT;
+
+b) Conferir posse ao pessoal da DRT, por delegação, com excepção do pessoal dirigente;
+
+c) Celebrar contratos com pessoal, depois de superiormente autorizados;
+
+d) Executar tudo o mais que lhe for expressamente cometido por disposição legal ou por decorrência lógica do normal desempenho das suas funções.
+
+2 - O director regional é substituído, nas suas ausências e impedimentos, por sua proposta, pelo director de serviços da DRT que for designado pelo Secretário Regional.
+
+##### SUBSECÇÃO II
+
+###### Artigo 16.º
+
+Divisão de Serviços Administrativos
+
+1 - A DISA é a unidade orgânica de apoio técnico-administrativo, nas áreas de administração geral e de pessoal, orçamento, contabilidade e património, bem como, sempre que necessário, em matérias dos serviços operativos.
+
+2 - À DISA, que é dirigida por um chefe de divisão (cargo de direcção intermédia do 2.º grau), compete:
+
+a) Assegurar o tratamento de toda a documentação recebida - registo, classificação e distribuição;
+
+b) Assegurar o tratamento dos assuntos e expediente de âmbito geral que não digam respeito a outra unidade orgânica;
+
+c) Assegurar a aquisição e gestão do material e equipamento necessários ao funcionamento dos serviços;
+
+d) Assegurar o serviço de expedição e arquivo de toda a correspondência e demais documentação;
+
+e) Assegurar os procedimentos administrativos respeitantes aos recursos humanos, designadamente efectividade, antiguidade, progressão na categoria, segurança e benefícios sociais e formação profissional;
+
+f) Organizar e manter actualizado o registo biográfico do pessoal;
+
+g) Elaborar, de acordo com as normas e instruções superiores, os projectos dos orçamentos e as propostas de alteração dos mesmos;
+
+h) Prestar informação de cabimento orçamental referente a todas as despesas, bem como controlar, nos termos legais e regulamentares, a execução orçamental;
+
+i) Processar as remunerações e outros abonos devidos ao pessoal, bem como as demais despesas, nos termos legais e regulamentares;
+
+j) Organizar e manter actualizado o inventário dos bens móveis, segundo as normas estipuladas;
+
+l) Arrecadar as receitas legais e assegurar a sua entrega regular no departamento competente do Governo Regional.
+
+3 - A DISA compreende as seguintes secções chefiadas por funcionários da área de chefia administrativa:
+
+a) Secção de Administração Geral e Arquivo, à qual compete, especialmente, a execução das funções enunciadas nas alíneas a) a d) do número anterior;
+
+b) Secção de Pessoal, à qual compete, especialmente, a execução das funções mencionadas nas alíneas e) e f) do número anterior;
+
+c) Secção de Orçamento, à qual compete, especialmente, a execução das funções referidas nas alíneas g) e h) do número anterior;
+
+d) Secção de Contabilidade e Património, à qual compete, especialmente, a execução das funções enunciadas nas alíneas i) a l) do número anterior.
+
+##### SUBSECÇÃO III
+
+###### Artigo 17.º
+
+Direcção de Serviços de Empreendimentos e Actividades Turísticas
+
+1 - A DSEAT é a unidade orgânica à qual, genericamente, compete:
+
+a) Proceder à análise e emitir parecer sobre a qualidade dos projectos de instalação de empreendimentos e de outros equipamentos turísticos, bem como emitir parecer sobre os planos de ordenamento;
+
+b) Classificar, licenciar e fiscalizar as actividades dos equipamentos turísticos, das agências de viagens e turismo, das empresas de animação turística, dos transportes turísticos, dos profissionais de informação turística e ainda de novas formas de oferta turística que estejam sujeitas à jurisdição da DRT e de todas as matérias referentes a jogo e afins.
+
+2 - A DSEAT, que é dirigida por um director de serviços (cargo de direcção intermédia do 1.º grau), exerce competências nos domínios referenciados nos n.os 3 a 7 seguintes, nos termos expressos nesses números.
+
+3 - No domínio dos empreendimentos turísticos, compete especialmente:
+
+a) Apreciar os projectos de empreendimentos turísticos e de turismo em espaço rural e de outros estabelecimentos da competência legal da DRT e, consequentemente, propor a sua aprovação, correcção ou rejeição;
+
+b) Realizar vistorias, elaborar relatórios e pronunciar-se relativamente às instalações dos estabelecimentos sujeitos à aprovação da DRT;
+
+c) Organizar e manter actualizado o ficheiro dos empreendimentos turísticos;
+
+d) Emitir pareceres, certificados, certidões e declarações relativos aos projectos sujeitos à sua apreciação;
+
+e) Apreciar os planos de ordenamento elaborados por outras entidades, legalmente sujeitos à intervenção da DRT, e colaborar na sua execução;
+
+f) Recolher e tratar todos os elementos necessários à integração do sector do turismo nas tarefas globais de planeamento, bem como nos planos sectoriais regionais;
+
+g) Acompanhar os planos sectoriais com implicações para o turismo;
+
+h) Propor a classificação de zonas e locais de interesse para o turismo em colaboração com as autarquias e outras entidades;
+
+i) Prestar assistência técnica a obras de iniciativa pública consideradas de interesse turístico;
+
+j) Organizar e informar os processos relativos à concessão de incentivos e à obtenção de eventuais benefícios fiscais;
+
+l) Participar nas actividades das comissões de estudo e elaboração dos planos de obras suportadas com receitas das zonas de jogo e dar parecer sobre os mesmos planos;
+
+m) Colaborar em estudos tendo em vista a defesa dos interesses das populações e dos elementos naturais do património turístico.
+
+4 - No domínio das agências de viagens, empresas de animação turística e profissões turísticas, compete especialmente:
+
+a) Organizar e dar parecer sobre os processos de licenciamento do exercício da actividade das agências de viagens e turismo e preparar a emissão dos respectivos alvarás e autorizações;
+
+b) Apreciar e dar parecer sobre as propostas de planificação, organização e realização de viagens e circuitos turísticos, incluindo excursões marítimas e passeios pedestres;
+
+c) Organizar e dar parecer sobre os processos respeitantes ao licenciamento do exercício da actividade de empresas de animação turística e preparar a emissão dos respectivos alvarás e autorizações;
+
+d) Organizar e manter actualizados os processos relativos à actividade das agências de viagens e turismo, empresas de animação turística, profissionais de informação turística e direcção hoteleira;
+
+e) Cooperar com os organismos competentes na formação profissional turística, designadamente no que se refere à organização de acções específicas que visem a valorização da oferta turística, empresarial e profissional.
+
+5 - No domínio dos equipamentos turísticos, compete especialmente:
+
+a) Propor a classificação e autorização de abertura dos empreendimentos turísticos, unidades de turismo em espaço rural e outras, de acordo com a legislação vigente;
+
+b) Orientar e disciplinar as actividades dos empreendimentos turísticos e outros considerados de interesse para o turismo;
+
+c) Organizar e manter actualizado o registo dos empreendimentos turísticos, estabelecimentos de restauração e bebidas e outros considerados de interesse para o turismo.
+
+6 - No domínio da inspecção, compete especialmente:
+
+a) Inspeccionar, nos termos da lei, o estado de conservação das instalações e o nível dos serviços dos empreendimentos turísticos;
+
+b) Inspeccionar, nos termos da lei, o exercício das actividades e profissões turísticas;
+
+c) Prestar informações a todas as entidades abrangidas pela sua actuação sobre o entendimento e a eficaz observância das normas aplicáveis;
+
+d) Averiguar o fundamento das reclamações apresentadas e proceder ao levantamento dos autos que se justifiquem e que sejam da competência da DRT, bem como instaurar os respectivos processos;
+
+e) Alertar as entidades competentes para as insuficiências detectadas, por inexistência ou inadequação das disposições legais cujo cumprimento lhe incumbe assegurar.
+
+7 - No domínio do jogo, compete especialmente:
+
+a) Accionar os assuntos referentes a jogo cuja competência esteja atribuída, pelo Regulamento Policial da RAM, à Secretaria Regional do Turismo e Cultura, designadamente quanto a rifas, tômbolas e sorteios;
+
+b) Tratar e acompanhar os demais assuntos do âmbito do jogo, de harmonia com o estatuído nas disposições legais aplicáveis.
+
+8 - Da DSEAT fazem parte as seguintes divisões, cada uma dirigida por um chefe de divisão (cargo de direcção intermédia do 2.º grau):
+
+a) Divisão de Empreendimentos Turísticos (DET), à qual compete a execução das funções mencionadas nas alíneas do n.º 3 deste artigo;
+
+b) Divisão de Actividades Turísticas (DAT), à qual compete a execução das funções enunciadas nas alíneas dos n.os 4 a 7 deste artigo.
+
+##### SUBSECÇÃO IV
+
+###### Artigo 18.º
+
+Direcção de Serviços de Promoção Turística
+
+1 - A DSPT é a unidade orgânica com acção no domínio da promoção turística da RAM, a nível nacional e internacional, através dos adequados meios e técnicas promocionais e em colaboração com as entidades vocacionadas para o efeito.
+
+2 - A DSPT, que é dirigida por um director de serviços (cargo de direcção intermédia do 1.º grau), tem competências nos domínios indicados nos n.os 3 a 6 seguintes, conforme está expresso nesses números.
+
+3 - No domínio dos estudos e estatísticas, compete especialmente:
+
+a) Elaborar estudos com vista à determinação das potencialidades e do interesse de actuação em cada mercado, nacional ou estrangeiro, acompanhando a sua evolução e comportamento;
+
+b) Estudar as motivações e comportamentos do consumidor, seus hábitos de férias e viagem, com vista a alcançar a melhor rentabilidade da oferta turística regional;
+
+c) Executar estudos sobre a situação económica e financeira dos vários sectores de actividade turística;
+
+d) Tratar os dados estatísticos respeitantes ao sector do turismo ou inerentes ao mesmo, com vista também à sua divulgação e utilização por outros serviços e entidades;
+
+e) Elaborar as informações e relatórios de apoio à análise dos supra-referidos elementos estatísticos;
+
+f) Conduzir inquéritos e sondagens para efeitos de estudos a cargo da DRT;
+
+g) Cooperar com os serviços da Direcção Regional de Estatística e com outras entidades produtoras de dados estatísticos com interesse para o turismo, visando o acompanhamento de toda a informação existente sobre o sector;
+
+h) Desenvolver e manter actualizadas bases de dados de inventariação dos recursos turísticos da RAM, privilegiando para o efeito o uso de novas tecnologias de informação.
+
+4 - No domínio da informação turística, compete especialmente:
+
+a) Elaborar o plano anual de publicidade e marketing;
+
+b) Assegurar a concepção e execução dos materiais promocionais adequados para divulgação do destino turístico, incluindo a utilização de suportes em formato digital;
+
+c) Estudar e promover o lançamento de campanhas publicitárias nacionais e internacionais;
+
+d) Proceder à recolha, análise e tratamento dos dados relativos aos mercados turísticos que permitam a manutenção de um sistema de informação de marketing adequado;
+
+e) Promover a defesa do consumidor, através de divulgação de informações sobre os vários produtos turísticos regionais.
+
+5 - No domínio das acções de promoção, compete especialmente:
+
+a) Elaborar o plano anual de promoção turística;
+
+b) Implementar e promover a aplicação dos programas planeados, realizando acções promocionais nos mercados nacional e estrangeiro, em coordenação com os organismos nacionais competentes na matéria;
+
+c) Coordenar e prestar apoio a projectos promocionais conjuntos levados a efeito por outras entidades, públicas e privadas;
+
+d) Organizar ou promover a realização e participação em seminários, feiras, conferências, exposições ou noutras manifestações de carácter cultural ou desportivo com interesse turístico;
+
+e) Acompanhar e avaliar a eficiência das acções promocionais e publicitárias;
+
+f) Propor medidas para optimizar as acções turísticas nos mercados interno e externo.
+
+6 - No domínio das relações públicas, compete especialmente:
+
+a) Assegurar a prestação de informações a todas as entidades interessadas na oferta turística da Região, nomeadamente aos meios de comunicação social;
+
+b) Assegurar acções de acolhimento e assistência a visitas de familiarização de jornalistas, agentes de viagens, operadores e outras entidades ligadas à indústria turística, com interesse para o incremento do turismo;
+
+c) Criar e manter actualizada a base de dados de jornalistas e líderes de opinião nacionais e estrangeiros com relevância para a actividade turística regional;
+
+d) Estabelecer permanentes contactos com as entidades referidas na alínea anterior, de molde a permitir a criação sistemática de uma imagem favorável ao destino turístico Madeira;
+
+e) Prestar apoio a congressos, convenções e outros eventos especiais de âmbito turístico;
+
+f) Coordenar as actividades e pessoal dos postos de turismo da DRT;
+
+g) Assegurar o protocolo em todos os eventos realizados pela DRT.
+
+7 - A DSPT compreende as seguintes divisões, cada uma dirigida por um chefe de divisão (cargo de direcção intermédia do 2.º grau):
+
+a) Divisão de Estudos e Informação Turísticas (DEIT), à qual compete a execução das funções referidas nas alíneas dos n.os 3 e 4 deste artigo;
+
+b) Divisão de Promoção e Relações Públicas (DPRP), à qual compete a execução das funções mencionadas nas alíneas dos n.os 5 e 6 deste artigo.
+
+8 - Na dependência da DPRP funcionam:
+
+a) Secção de Material Promocional, chefiada por funcionário da área de chefia administrativa, à qual compete assegurar o devido controlo e conservação de todos os materiais de promoção turística, bem como tratar da sua distribuição de acordo com as instruções recebidas;
+
+b) Postos de turismo, destinados a prestar assistência e informação a turistas, os quais são criados ou extintos por resolução do Conselho do Governo da RAM, por proposta do Secretário Regional do Turismo e Cultura.
+
+9 - O pessoal recepcionista em serviço nos postos de turismo usa, obrigatoriamente, uniforme, cujo modelo e respectivas normas de utilização são fixados por portaria do Secretário Regional do Turismo e Cultura.
+
+##### SUBSECÇÃO V
+
+###### Artigo 19.º
+
+Direcção de Serviços de Animação Turística
+
+1 - A DSAT é a unidade orgânica com acção no domínio do planeamento e concretização de actividades de animação turística, tendo em vista a consolidação dos cartazes turísticos regionais, em colaboração com as entidades vocacionadas para o efeito.
+
+2 - À DSAT, que é dirigida por um director de serviços (cargo de direcção intermédia do 1.º grau), compete especialmente:
+
+a) Elaborar e executar o plano anual de animação turística;
+
+b) Apoiar as actividades turístico-desportivas, públicas e privadas, que possam complementar e integrar o calendário anual de animação turística;
+
+c) Incrementar e apoiar a realização de exposições, concursos, concertos, certames, festivais e outras manifestações, com base nos valores histórico-culturais da RAM, a cargo de entidades públicas e privadas;
+
+d) Estudar e propor eventos que, pela sua natureza, se revelem susceptíveis de enriquecer a ocupação dos tempos livres do visitante da RAM;
+
+e) Manter actualizado o inventário de todo o material utilizado nas acções de animação;
+
+f) Zelar pela conservação do material referido na alínea anterior.
+
+3 - A DSAT integra a Divisão de Eventos e Material de Animação (DEMA), dirigida por um chefe de divisão (cargo de direcção intermédia do 2.º grau), à qual compete, especialmente, a execução das funções referidas nas alíneas d) a f) do número anterior.
+
+##### SUBSECÇÃO VI
+
+###### Artigo 20.º
+
+Núcleo de Serviços de Turismo do Porto Santo
+
+O NSTPS é a unidade orgânica que tem por objectivo assegurar os serviços do âmbito da DRT na ilha de Porto Santo que lhe forem cometidos, especialmente no âmbito da assistência e informação turísticas.
+
+#### SECÇÃO IX — Da Direcção Regional dos Assuntos Culturais
+
+###### Artigo 212.º — Atribuições e competências
+
+1 - A DRAC é o órgão de estudo, coordenação, execução, apoio e orientação, no âmbito e de acordo com a política governamental definida para o sector da cultura.
+
+2 - À DRAC compete, designadamente:
+
+a) Participar na definição e orientação da política cultural da RAM;
+
+b) Propor as medidas legislativas e regulamentares que se revelem necessárias no âmbito de assuntos culturais;
+
+c) Propor e coordenar a execução dos planos anuais e de médio prazo da área da cultura;
+
+d) Promover acções integradas que visem a preservação e valorização do património cultural imóvel, móvel e imaterial que, pelo seu valor histórico, arquitectónico, artístico e documental se constituam como elementos fundamentais da identidade cultural da RAM, designadamente procedendo à sua inventariação, classificação, conservação e restauro;
+
+e) Promover e apoiar, em articulação com outras entidades públicas e privadas, programas, acções e eventos que dinamizem e fomentem uma oferta cultural de qualidade, contribuindo para o surgimento de novos públicos;
+
+f) Adoptar e incrementar, em concertação com os municípios, associações e particulares, as acções e os programas que se revelem necessários e adequados à prossecução de uma política de descentralização cultural, visando uma maior participação das populações locais em actividades culturais;
+
+g) Coordenar a execução das estratégias de política cultural para as áreas dos museus e das bibliotecas, designadamente procedendo ao desenvolvimento e consolidação das redes de museus e de bibliotecas públicas na RAM;
+
+h) Adoptar, por si própria ou em conjugação com outras entidades públicas ou privadas, as acções, planos e programas que visem apoiar e incentivar a criação, a investigação e a divulgação de matérias de carácter cultural;
+
+i) Exercer uma actividade editorial adequada, em função das suas atribuições e competências, bem como adoptar um programa de criterioso apoio à edição privada.
+
+###### Artigo 22.º — Estrutura
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO I
+
+###### Artigo 23.º — Director regional
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO II
+
+###### Artigo 24.º — Divisão de Serviços Administrativos
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO III
+
+###### Artigo 25.º — Arquivo Regional da Madeira
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO IV
+
+###### Artigo 26.º — Direcção de Serviços de Bibliotecas
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO V
+
+###### Artigo 27.º — Direcção de Serviços de Museus
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO VI
+
+###### Artigo 28.º — Direcção de Serviços do Património Cultural
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO VII
+
+###### Artigo 29.º — Direcção de Serviços de Dinamização Cultural
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO VIII
+
+###### Artigo 30.º — Centro de Estudos John dos Passos
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO IX
+
+###### Artigo 31.º — Centro Cívico e Cultural de Santa Clara
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+##### SUBSECÇÃO X
+
+###### Artigo 32.º — Inspecção Regional de Espectáculos
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
+
+#### SECÇÃO X — Do Centro de Estudos de História do Atlântico
+
+###### Artigo 33.º — Atribuições, competências, estrutura e funcionamento
+
+O CEHA é o órgão criado pelo [Decreto Legislativo Regional n.º 20/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1985-177433), de 17 de Setembro, e cujas atribuições, competências, estrutura e funcionamento constam do respectivo estatuto, aprovado pelo [Decreto Regulamentar Regional n.º 4/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2001-348307), de 24 de Março.
+
+#### SECÇÃO XI — Da Representação Permanente da RAM em Lisboa
+
+###### Artigo 34.º — Natureza e competências
+
+1 - A RPL é o órgão que tem por incumbência acolher e prestar apoio às acções e eventos de âmbito oficial, devidamente programados e autorizados para ocorrerem em Lisboa, com o intuito de promover, divulgar e informar sobre matérias e actividades de interesse para a RAM.
+
+2 - A RPL tem um encarregado, cujas funções são:
+
+a) Assegurar o funcionamento do próprio órgão;
+
+b) Prestar colaboração às actividades oficiais que decorram na RPL.
+
+3 - O cargo de encarregado é exercido em comissão de serviço, por período não superior a quatro anos, renovável nos mesmos moldes, mas podendo sempre cessar a qualquer momento, sendo quaisquer das situações determinadas por despacho do Secretário Regional do Turismo e Cultura.
+
+4 - O cargo referido no número anterior é equiparado, para efeitos remuneratórios, a adjunto de gabinete dos membros do Governo.
+
+5 - Os serviços de apoio administrativo necessários ao funcionamento da RPL são prestados pela DSA.
+
+### CAPÍTULO III — Do pessoal
+
+#### SECÇÃO I — Da gestão de pessoal
+
+###### Artigo 35.º — Quadros de pessoal
+
+1 - Os quadros de pessoal da SRTC integram os seguintes grupos de pessoal:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal de informática;
+
+d) Pessoal técnico;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal de chefia;
+
+g) Pessoal administrativo;
+
+h) Pessoal operário;
+
+i) Pessoal auxiliar.
+
+2 - A SRTC tem os seguintes quadros de pessoal, anexos ao presente diploma:
+
+a) Quadro I, «Gabinete do Secretário Regional»;
+
+b) Quadro II, «Serviços de Apoio ao Secretário Regional»;
+
+c) Quadro III, «Direcção Regional do Turismo»;
+
+d) Quadro IV, «Direcção Regional dos Assuntos Culturais».
+
+###### Artigo 36.º — Provimento de lugares
+
+1 - O provimento dos lugares dos quadros de pessoal da SRTC é feito ao abrigo da lei geral e dos adequados normativos específicos, de âmbito nacional e da RAM.
+
+2 - O recrutamento para os cargos de director de serviços e de chefe de divisão, bem como para os equiparados a estes, pode ser feito de entre funcionários integrados nas carreiras técnica de inspecção, técnica de promoção e animação turísticas e recepcionista de turismo, para as unidades orgânicas da DRT, e de entre funcionários integrados na carreira técnico-profissional de museografia, para unidades orgânicas da DRAC, sempre nos termos da lei em vigor.
+
+3 - O recrutamento para a categoria de fiel de armazém faz-se de entre indivíduos habilitados com a escolaridade obrigatória.
+
+###### Artigo 37.º — Carreira de coordenador
+
+1 - A carreira de coordenador integra-se no grupo de pessoal de chefia administrativa e desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+
+2 - O recrutamento para as categorias referidas no número anterior faz-se por concurso, como se indica:
+
+a) Para coordenador especialista, de entre coordenadores com, pelo menos, três anos na categoria;
+
+b) Para coordenador, de entre chefes de secção com comprovada experiência administrativa.
+
+###### Artigo 38.º — Cartão de livre trânsito
+
+O pessoal dos serviços de inspecção da DRT e da IRE, para cabal desempenho das suas missões, tem direito ao uso de cartão de livre trânsito, cujo modelo e emissão são regulamentados por portaria do Secretário Regional do Turismo e Cultura.
+
+#### SECÇÃO II — Das despesas com inspecção
+
+###### Artigo 39.º — Despesas com serviços de inspecção
+
+Qualquer funcionário ou agente da DRT, quando deslocado em serviço por determinação superior, poderá ser reembolsado da despesa efectuada por exigência da realização de inspecções, deduzida a ajuda de custo a que tiver direito, sendo os limites da despesa fixados pelo Secretário Regional do Turismo e Cultura.
+
+### CAPÍTULO IV — Das disposições finais
+
+###### Artigo 40.º — Revogação e entrada em vigor deste diploma
+
+1 - É revogado o [Decreto Regulamentar Regional n.º 13/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2004-271794), de 23 de Junho.
+
+2 - Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 29 de Dezembro de 2004.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 17 de Janeiro de 2005.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## ANEXO — Quadros de pessoal
+
+(artigo 35.º, n.º 2)
+
+QUADRO I
+
+Gabinete do Secretário Regional
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)
+
+QUADRO II
+
+Serviços de Apoio ao Secretário Regional
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)
+
+QUADRO III
+
+Direcção Regional do Turismo
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)
+
+QUADRO IV
+
+Direcção Regional dos Assuntos Culturais
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)](https://files.diariodarepublica.pt/1s/2005/02/029b00/09190939.pdf)

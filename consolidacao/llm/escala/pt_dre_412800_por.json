@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:412800:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1. São extintas as categorias de «segundo-cabo com mais de cinco anos» e «soldado com mais de cinco anos», previstas no [Decreto-Lei n.º 49478](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49478-1969-213062), de 30 de Dezembro de 1969, e as categorias de «guarda de 1.ª classe com mais de cinco anos» e «guarda de 2.ª classe com mais de cinco anos», previstas no [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.\n\n2. As categorias de «segundo-cabo com menos de cinco anos» e «soldado com menos de cinco anos» passam a designar-se, respectivamente, por segundo-cabo e soldado.\n\n3. As categorias de guardas de 1.ª classe e 2.ª classe com menos de cinco anos passam a designar-se, respectivamente, por guardas de 1.ª classe e guardas.\n\n4 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

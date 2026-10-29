@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:223626:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Produto das coimas",
+      "texto": "O produto das coimas aplicadas nos termos do presente diploma reverte a favor das seguintes entidades:\n\na) 60% para o Estado;\n\nb) 20% para a Direcção-Geral das Florestas ou, nos casos previstos no n.º 2 do artigo 2.º, para o ICN;\n\nc) 10% para a entidade instrutora;\n\nd) 10% para a entidade autuante."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: d) 10% para a entidade autuante."
+  ]
+}

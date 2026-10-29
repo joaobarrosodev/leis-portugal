@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:383646:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alteração do n.º 2 do artigo 11.º sem texto (prejudicada pela revogação); revogação dos restantes artigos não fornecidos não aplicada",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:370249:por",
+  "artigos": [],
+  "nao_aplicavel": "DL 373/91: a nova redação do artigo 1.º não consta da instrução. DL 121/94: extinção da área funcional de comunicações aeronáuticas não é alteração textual expressa do artigo 3.º (não revoga a alínea nem o n.º 5).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

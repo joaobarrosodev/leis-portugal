@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:501580:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução (Decreto-Lei n.º 47725) só traz o proémio, sem o texto do novo artigo aditado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

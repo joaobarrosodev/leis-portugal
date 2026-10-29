@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:668290:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução dá nova redação ao n.º 1 do artigo 7.º mas o texto da nova redação não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

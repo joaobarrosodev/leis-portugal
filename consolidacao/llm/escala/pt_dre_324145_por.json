@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:324145:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções 1 a 5 não trazem o texto da nova redação/aditamentos das bases nem das epígrafes dos capítulos; a instrução 6 revoga bases e números/alíneas do anexo, mas sem chaves de artigo fornecidas para as bases e sem as novas redações (instrução 1) não é seguro aplicar só revogações parciais.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:547031:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — ESTATUTOS DA FUNDAÇÃO AGA KHAN PORTUGAL::3.º",
+      "epigrafe": "Sede e duração",
+      "texto": "A Fundação tem a sua sede no Centro Ismaili, sito à Avenida Lusíada, em Lisboa, e durará por tempo ilimitado, podendo ser deslocada por deliberação do conselho de administração, sendo-lhe permitido, igualmente, criar delegações ou quaisquer outras formas de representação onde for julgado conveniente para o cumprimento dos seus fins."
+    }
+  ],
+  "nao_aplicavel": "Decreto-Lei n.º 377/97 sem instrução; o artigo 3.º do decreto-lei não é alterado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

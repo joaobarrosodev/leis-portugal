@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\nAs características químico-analíticas e físicas dos produtos resultantes da moenda realizada pela indústria agremiada na F. N. I. M. serão definidas pelo I. N. P., ouvida aquela Federação.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173515:por",
+    "alterador": "pt:dre:466178:por"
+  }
+]

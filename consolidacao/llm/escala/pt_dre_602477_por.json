@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:602477:por",
+  "artigos": [
+    {
+      "chave": "ANEXO II — Bases da concessão::Base XIV",
+      "epigrafe": "Pagamento à concedente",
+      "texto": "1 - A concessionária pagará à concedente o valor de (euro) 250000000, nos termos e momentos definidos no contrato de concessão.\n\n2 - No caso de extensão do objecto da concessão, deve o Governo Regional exigir o pagamento de uma nova verba à concessionária."
+    }
+  ],
+  "nao_aplicavel": "Chave da Base XIV deduzida (não fornecida). Base XXVII não aplicada: a redacção do DLR 36/2008/M foi depois substituída pelo DLR 9/2016/M, cuja instrução 4 (bases I, III, VII, XII, XIII, XXIV e XXVII) não traz texto. Instrução 3 (novo objecto da concessão) não é alteração textual de artigo identificado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

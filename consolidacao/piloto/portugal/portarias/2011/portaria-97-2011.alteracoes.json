@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria procede à alteração das seguintes portarias:\n\na) Portaria n.º 689/2008 (2.ª série), de 22 de Julho;\n\nb) Portaria n.º 983/2010, de 24 de Setembro;\n\nc) [Portaria n.º 1186/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1186-2010-308758), de 17 de Novembro;\n\nd) [Portaria n.º 1187/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1187-2010-308759), de 17 de Novembro;\n\ne) [Portaria n.º 1188/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1188-2010-308760), de 17 de Novembro.\n\n2 - A presente portaria procede, ainda, à alteração das coordenadas dos vértices e coordenadas relativos à captação designada por JK1, constantes dos anexos i e iii da [Resolução do Conselho de Ministros n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/186-2003-431074), de 11 de Dezembro.",
+    "depois": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria procede à alteração das seguintes portarias:\n\na) (Revogada.)\n\nb) Portaria n.º 983/2010, de 24 de Setembro;\n\nc) [Portaria n.º 1186/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1186-2010-308758), de 17 de Novembro;\n\nd) [Portaria n.º 1187/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1187-2010-308759), de 17 de Novembro;\n\ne) [Portaria n.º 1188/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1188-2010-308760), de 17 de Novembro.\n\n2 - A presente portaria procede, ainda, à alteração das coordenadas dos vértices e coordenadas relativos à captação designada por JK1, constantes dos anexos i e iii da [Resolução do Conselho de Ministros n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/186-2003-431074), de 11 de Dezembro.\n\n> Alterado pelo/a [Portaria n.º 157/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/157-2026-1083325919), publicado em 2026-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279441:por",
+    "alterador": "pt:dre:1083325919:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Alteração à portaria n.º 689/2008 (2.ª série), de 22 de Julho\n\nOs quadros relativos às captações designadas por JK14, do pólo de captação de Pinhal de Negreiros, e JK9, do pólo de captação de Poço Mouro, constantes do anexo ii da portaria n.º 689/2008 (2.ª série), de 22 de Julho, bem como os quadros relativos à captação designada por PS2, do pólo de captação de Pinhal das Espanholas, constantes do anexo iv da portaria n.º 689/2008 (2.ª série), de 22 de Julho, são substituídos pelos quadros constantes do anexo i da presente portaria, da qual faz parte integrante.",
+    "depois": "###### Artigo 2.º — Alteração à portaria n.º 689/2008 (2.ª série), de 22 de Julho\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 157/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/157-2026-1083325919), publicado em 2026-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279441:por",
+    "alterador": "pt:dre:1083325919:por"
+  }
+]

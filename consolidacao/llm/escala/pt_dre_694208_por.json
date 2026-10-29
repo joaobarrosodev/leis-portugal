@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:694208:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Nova redação dos anexos I e II (anexos/cartas) não aplicada; artigo 9.º (revogado) não consta dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — (Concurso público)\n\nA concessão de exclusivos, obras e serviços públicos por parte das autarquias locais e associações de municípios, depois de autorizada pela assembleia deliberativa, será adjudicada mediante concurso público, ficando os programas, projectos e cadernos de encargos sujeitos a parecer vinculativo e obrigatório das administrações central e regional nos casos expressamente previstos por lei.",
+    "depois": "###### Artigo 10.º — Concurso público\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032) e [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375830:por",
+    "alterador": "pt:dre:462032:por;pt:dre:248178:por"
+  }
+]

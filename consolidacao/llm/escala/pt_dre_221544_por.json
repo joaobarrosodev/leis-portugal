@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:221544:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - A infracção ao disposto no n.º 1 do artigo 3.º constitui contra-ordenação punível com as seguintes coimas:\n\na) De (euro) 50 a (euro) 1500 no que se refere às alíneas a), b) e f);\n\nb) De (euro) 250 a (euro) 3500 no que se refere às alíneas c), d) e e).\n\n2 - Acessoriamente poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, dos materiais e espécimes extraídos e colhidos na área da Reserva em infracção do disposto no n.º 1 do artigo 3.º do presente diploma.\n\n3 - O produto proveniente da aplicação das coimas e de eventuais rendas de materiais ou espécimes apreendidos constituirá receita do Parque Natural da Madeira.\n\n4 - No caso de infracção ao disposto no artigo 3.º, n.º 1, alínea e), do presente diploma, para além do pagamento da respectiva coima, o infractor fica obrigado a demolir as obras ou trabalhos efectuados e a repor o estado anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.\n\n5 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado por carta registada com aviso de recepção, o Parque Natural da Madeira mandará proceder a expensas daquele, à demolição ou às obras necessárias para a reposição.\n\n6 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.\n\n7 - A tentativa e a negligência são puníveis."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

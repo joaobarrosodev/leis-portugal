@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:390609:por",
+  "artigos": [],
+  "nao_aplicavel": "Portaria 777/82 fixa a duração do curso em 18 meses sem alteração textual expressa do artigo 3.º; não é seguro reescrever o artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

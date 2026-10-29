@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1 - A Reserva Natural das Dunas de S. Jacinto, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, disporá dos seguintes órgãos e serviços:\n\na) Director;\n\nb) Conselho geral;\n\nc) Comissão científica;\n\nd) Serviços técnicos.\n\n2 - Do conselho geral farão parte, além do director, um representante indicado por cada uma das seguintes entidades: Câmara Municipal de Aveiro, Direcção-Geral do Ordenamento e Gestão Florestal, Junta Autónoma do Porto de Aveiro (Direcção-Geral de Portos), Direcção-Geral dos Serviços de Fomento Marítimo, Instituto de Gestão e Estruturação Fundiária, Junta de Freguesia de S. Jacinto e um vogal da comissão científica.\n\n3 - Da comissão científica farão parte, além do director da Reserva, os representantes indicados pela Universidade de Aveiro e pelo Núcleo Português de Estudo e Protecção da Vida Selvagem.\n\n4 - Os serviços administrativos da Reserva ficarão a cargo dos serviços centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.",
+    "depois": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1980-677455) e [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383646:por",
+    "alterador": "pt:dre:677455:por;pt:dre:685043:por"
+  }
+]

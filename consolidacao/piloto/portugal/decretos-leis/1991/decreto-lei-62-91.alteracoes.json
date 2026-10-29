@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — Autorização de introdução no mercado de produtos de uso veterinário\n\nOs produtos de uso veterinário carecem de autorização para introdução no mercado, concedida pelo director-geral da Pecuária.",
+    "depois": "###### Artigo 18.º — Autorização de introdução no mercado de produtos de uso veterinário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148) e [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509661:por",
+    "alterador": "pt:dre:324148:por;pt:dre:390250:por"
+  }
+]

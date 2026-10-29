@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1. Além das verbas que lhe forem atribuídas pelo orçamento da Força Aérea, constituem receitas do Museu os donativos ou legados, bem como o produto de entradas e das vendas de publicações e fotografias.\n\n2. O material que não tenha interesse museológico será considerado inútil e, por proposta do director do Museu, com a aprovação do Chefe do Estado-Maior da Força Aérea, cedido a outros estabelecimentos ou vendido em hasta pública.",
+    "depois": "###### Artigo 10.º\n\n1 - Além das verbas que lhe forem atribuídas pelo orçamento da Força Aérea, constituem receitas do Museu os donativos ou legados, bem como o produto das entradas e das vendas de publicações, fotografias e demais artigos respeitantes à temática aeronáutica, no âmbito previsto neste diploma.\n\n2. O material que não tenha interesse museológico será considerado inútil e, por proposta do director do Museu, com a aprovação do Chefe do Estado-Maior da Força Aérea, cedido a outros estabelecimentos ou vendido em hasta pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 271/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1998-566858), publicado em 1998-09-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:416436:por",
+    "alterador": "pt:dre:566858:por"
+  }
+]

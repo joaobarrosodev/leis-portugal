@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:375830:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Concurso público",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Lei 22/95: a nova redação do artigo 6.º não consta da instrução. Aplicada só a revogação do artigo 10.º (DL 18/2008); os artigos 11.º a 15.º não foram fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

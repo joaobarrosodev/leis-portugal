@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:694207:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Objectivos específicos",
+      "texto": "Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos da Reserva Natural:\n\na) Preservar as condições de habitat para as espécies dependentes do paul, especialmente da avifauna aquática, com destaque para a consagração de uma área central estritamente protegida com zonas permanentemente inundadas;\n\nb) Favorecer a diversidade de biótopos na zona envolvente da área central, tendo por objectivo a criação de áreas de transição entre aquela área e as zonas de uso agrícola intensivo, nomeadamente pela progressiva renaturalização de algumas parcelas;\n\nc) Compatibilizar as práticas agrícolas e piscatórias à gestão sustentável dos recursos e conservação de habitats importantes para a Reserva Natural;\n\nd) Proceder ao ordenamento das utilizações recreativas e da acessibilidade pública;\n\ne) Elaborar estudos científicos, bem como proceder à monitorização de espécies e habitats, que fundamentem as acções de conservação no quadro da rede de zonas de protecção especial para as aves, e de zonas húmidas de importância internacional e de reservas da biosfera."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alteração de limites e revogação dos anexos I e II (não textual/anexos); artigo 6.º (alterado) e artigo 9.º (revogado) não constam dos artigos do original fornecidos; artigo 8.º alterado em 2005 e depois revogado em 2015.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
