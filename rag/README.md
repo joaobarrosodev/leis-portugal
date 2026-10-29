@@ -184,7 +184,7 @@ No diagnóstico, 17 das 136 reais nem chegavam aos candidatos do reranker. Quase
 | "Não sei" | 21% | 21% |
 | Fiabilidade | 65% (69/106) | 65% (70/108) |
 
-O ganho está na recuperação (+9 perguntas nos 10 primeiros), que é o que o passo do LLM usa. Nas outras 457 perguntas, com as mesmas alterações: literais 225/250 no 1.º (partida de antes da correção das revogações: 226), temporais 96/102 (96), revogadas 55/55 (55); nenhuma outra descida vem das alterações (das 16 perguntas que mudaram de posição contra aquela partida, comparei as 8 primeiras no código do `main` e só uma, de 1.º para 2.º, vem das alterações; as outras já vinham da correção das revogações). A medição completa das 593 perguntas no código do `main`, para uma comparação exata, não foi feita.
+O ganho está na recuperação (+9 perguntas nos 10 primeiros), que é o que o passo do LLM usa. Nas outras 457 perguntas, com as mesmas alterações: literais 225/250 no 1.º (partida de antes da correção das revogações: 226), temporais 96/102 (96), revogadas 55/55 (55); das 16 perguntas que mudaram de posição contra aquela partida, 15 têm a mesma posição no código do `main` (a diferença vem da correção das revogações) e uma, lit-019, passou de 1.º para 2.º por causa das alterações. A medição completa das 593 perguntas no código do `main`, para uma comparação exata, não foi feita.
 
 ### Pesquisa por diplomas com embeddings: não resultou
 
