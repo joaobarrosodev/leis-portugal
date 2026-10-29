@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "29.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 29.º\n\nPela utilização das instalações para a realização dos leilões, a Junta Nacional dos Produtos Pecuários cobrará:\n\na) Em caso de venda, 0,6% a pagar pelo arrematante e 0,6% a pagar pelo apresentante, sobre o valor da arrematação;\n\nb) Em caso de não haver venda, 0,6% a pagar pelo apresentante, sobre o valor da avaliação;\n\nc) Os proprietários que desejem retirar do leilão os seus animais só o poderão fazer após o fecho deste e do pagamento referido na alínea b);\n\nd) No caso de o apresentante fazer prova de que é criador devidamente reconhecido pela direcção regional de agricultura da área a que pertence e que, paralelamente, o animal ou animais que apresentar a leilão lhe pertencem há, pelo menos, 3 meses, pagará apenas 0,3% dos valores referidos nas alíneas a) e b).",
+    "depois": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 135/86](https://diariodarepublica.pt/dr/detalhe/portaria/135-1986-195656), publicado em 1986-04-07.",
+    "excerto": "2.º Fica revogado o artigo 29.º do Regulamento de Leilões de Gado, anexo à Portaria n.º 417/84, de 27 de Junho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:387315:por",
+    "alterador": "pt:dre:195656:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\n1. As dependências terão um conselho orientador composto de um presidente e dois vogais designados pelo conselho de administração.\n\n2. Constarão do regulamento da dependência as atribuições do conselho orientador e as respectivas normas de funcionamento.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 236/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1981-577093), publicado em 1981-08-06.",
+    "excerto": "Art. 4.º São revogados os artigos 5.º do Decreto-Lei n.º 265/75, de 28 de Maio, e 6.º do Decreto-Lei n.º 210/72, de 23 de Junho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:335936:por",
+    "alterador": "pt:dre:577093:por"
+  }
+]

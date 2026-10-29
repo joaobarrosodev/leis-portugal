@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 1.º\n\n1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.\n\n2 - Para efeitos do disposto no número anterior, deve ser registada e conservada pelo prazo mínimo de 50 anos a partir da data da última actualização a documentação, referida no anexo a este diploma e que dele faz parte integrante, relativa à recolha e à administração de sangue em estabelecimentos de saúde públicos ou privados.",
+    "depois": "###### Artigo 1.º\n\n1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 267/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2007-636749), publicado em 2007-07-24.",
+    "excerto": "1 - É revogado o n.º 2 do artigo 1.º do Decreto Regulamentar n.º 16/95, de 29 de Maio, que aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.",
+    "artigo_alterador": "35.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:528069:por",
+    "alterador": "pt:dre:636749:por"
+  }
+]

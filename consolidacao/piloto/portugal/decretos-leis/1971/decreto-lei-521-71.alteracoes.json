@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "29.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 29.º\n\n1. O transporte por via terrestre de quantidades superiores a 500 kg será sempre acompanhado por um graduado ou guarda da Polícia de Segurança Pública ou por uma praça da Guarda Nacional Republicana ou da Guarda Fiscal.\n\n2. Ao chefe do comboio de veículos ou ao guarda da viatura isolada compete:\n\na) Vigiar pela segurança do material transportado, cumprindo e fazendo cumprir as disposições legais respectivas;\n\nb) Cumprir rigorosamente o itinerário, justificando qualquer alteração ao mesmo;\n\nc) Enviar ao Comando-Geral da Polícia de Segurança Pública um relatório sobre a forma como decorreu o serviço.\n\n3. O encargo resultante da escolta fica a cargo dos expedidores e é regulado pelas disposições legais em vigor.\n\n4. É dispensada a presença da escolta referida no n.º 2 se na fábrica, oficina, paiol ou depósito existir licença permanente para transporte de explosivos para os pontos de embarque ou desembarque, a uma distância não superior a 5 km, e houver um responsável por cada viatura.",
+    "depois": "###### Artigo 29.º\n\n1. O transporte por via terrestre de quantidades superiores a 500 kg será sempre acompanhado por um graduado ou guarda da Polícia de Segurança Pública ou por uma praça da Guarda Nacional Republicana ou da Guarda Fiscal.\n\n2. Ao chefe do comboio de veículos ou ao guarda da viatura isolada compete:\n\na) Vigiar pela segurança do material transportado, cumprindo e fazendo cumprir as disposições legais respectivas;\n\nb) Cumprir rigorosamente o itinerário, justificando qualquer alteração ao mesmo;\n\nc) Enviar ao Comando-Geral da Polícia de Segurança Pública um relatório sobre a forma como decorreu o serviço.\n\n3 - É dispensada a escolta referida no n.º 1, se o transportador fizer uso de sistema electrónico de geolocalização, que assegure a permanente monitorização do transporte e accionamento imediato de alarmes.\n\n4 - Os encargos resultantes da escolta ou do sistema de geolocalização previstos nos n.os 1 e 3 ficam a cargo dos expedidores e são regulados pelas disposições legais em vigor.\n\n5 - É ainda dispensada a presença de escolta ou o uso do sistema de geolocalização referidos nos n.os 1 e 3 se na fábrica, oficina, paiol ou depósito existir licença permanente para transporte de explosivos para os pontos de embarque ou desembarque, a uma distância não superior a 5 km, e houver um responsável por cada viatura.\n\n> Alterado pelo/a [Decreto-Lei n.º 35/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1994-521445) e [Decreto-Lei n.º 119/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2010-307662), publicado em 2010-10-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631797:por",
+    "alterador": "pt:dre:521445:por;pt:dre:307662:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "32.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º — (Liquidação do imposto sobre o valor acrescentado nas transmissões de combustíveis gasosos)\n\n1 - Nas transmissões de combustíveis gasosos, nomeadamente de gás em botija, o imposto sobre o valor acrescentado será liquidado pelas respectivas empresas distribuidoras:\n\na) Com base no preço de venda ao público, fixado pela Administração Pública, no caso de entregas a revendedores;\n\nb) Com base no preço efectivo de venda, no caso de vendas a consumidores directos.\n\n2 - Às transmissões de combustíveis gasosos é aplicável, com as necessárias adaptações, o [Decreto-Lei n.º 521/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1985-546456), de 31 de Dezembro.",
+    "depois": "###### Artigo 32.º — Liquidação do imposto sobre o valor acrescentado nas transmissões de combustíveis gasosos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 32/86](https://diariodarepublica.pt/dr/detalhe/lei/32-1986-218958) e [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402909:por",
+    "alterador": "pt:dre:218958:por;pt:dre:679669:por;pt:dre:243769:por"
+  }
+]

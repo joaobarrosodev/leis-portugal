@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão\n\nTransitam para o Instituto para a Gestão das Lojas do Cidadão (IGLC) as atribuições e competências associadas ao Sistema Integrado de Informação Administrativa ao Cidadão e Serviço Público Directo.",
+    "depois": "###### Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2004-302160), publicado em 2004-05-03.",
+    "excerto": "É revogado o artigo 4.º do Decreto-Lei n.º 215/2002, de 22 de Outubro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:432175:por",
+    "alterador": "pt:dre:302160:por"
+  }
+]

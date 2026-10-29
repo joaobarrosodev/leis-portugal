@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:188357:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::27.º",
+      "epigrafe": "Definição das características dos óleos usados",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação do anexo II não aplicada (anexo não fornecido).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

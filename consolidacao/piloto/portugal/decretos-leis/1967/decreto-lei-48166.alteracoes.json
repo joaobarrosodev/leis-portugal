@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.\n\n2. O Ministro da Saúde e Assistência regulamentará em portaria:\n\na) As normas a que devem obedecer os concursos de ingresso e promoção nos diferentes quadros;\n\nb) Os horários e demais condições de trabalho em serviços que pela sua natureza se revistam de exigências especiais;\n\nc) As compensações a atribuir pelo trabalho nocturno e extraordinário ou prestado em dias de folga e feriados;\n\nd) As autorizações de acumulação de funções em estabelecimentos ou serviços do Ministério, com observância do regime geral estabelecido;\n\ne) As compensações a atribuir ao pessoal para se fixar em localidades da periferia.",
+    "depois": "###### Artigo 14.º\n\n1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 49434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49434-1969-217350) e [Decreto-Lei n.º 676/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1970-154456) e [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:401512:por",
+    "alterador": "pt:dre:217350:por;pt:dre:154456:por;pt:dre:568308:por"
+  }
+]

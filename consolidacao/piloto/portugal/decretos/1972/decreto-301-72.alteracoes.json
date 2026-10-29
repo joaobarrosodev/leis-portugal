@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 24.º\n\nAs provas para obtenção do título de agregado, bem como as condições de admissão às mesmas, são iguais às regulamentadas neste diploma para o concurso para professor extraordinário.",
+    "depois": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 239/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2007-639289), publicado em 2007-06-19.",
+    "excerto": "Sem prejuízo do disposto no n.º 1 do artigo anterior, é revogado o artigo 24.º do Decreto n.º 301/72, de 14 de Agosto.",
+    "artigo_alterador": "21.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:605815:por",
+    "alterador": "pt:dre:639289:por"
+  }
+]

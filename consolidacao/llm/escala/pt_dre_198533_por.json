@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:198533:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 164/73 só traz a frase introdutória, sem a nova redação do n.º 1 do art. 4.º nem do art. 13.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

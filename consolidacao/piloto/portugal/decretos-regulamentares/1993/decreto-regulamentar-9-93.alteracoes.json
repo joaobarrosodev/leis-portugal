@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 7.º\n\n1 - Compete ao DGI:\n\na) Criar e manter actualizada uma base de dados, com a colaboração do DAI, que permita a identificação de todos os beneficiários das medidas e das ajudas pagas pelo INGA, bem como das suas explorações agrícolas e agro-industriais, respectivos pagamentos e resultados de controlo;\n\nb) Promover e acompanhar a harmonização dos procedimentos e metodologias de execução dos diferentes mecanismos previstos nas organizações nacionais e comuns de mercado, implementados e utilizados pelos serviços de intervenção;\n\nc) Preparar e coordenar as operações de verificação e os controlos administrativos e físicos, junto dos beneficiários das medidas e das ajudas cujo processo de pagamento seja condicionado, nos termos da regulamentação aplicável, à realização prévia dessas operações, transmitindo às direcções de intervenção responsáveis por cada medida os respectivos resultados.\n\n2 - O DGI é dirigido por um director, equiparado para todos os efeitos legais a director de serviços.\n\n3 - Para o desempenho das suas funções, o DGI dispõe das seguintes unidades orgânicas:\n\na) Divisão da Gestão Integrada da Base de Dados;\n\nb) Divisão de Verificação e de Normalização de Procedimentos Comuns de Intervenção.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22.",
+    "excerto": "1 - Com a entrada em vigor do presente diploma são revogados os artigos 7.º e 8.º do Decreto Regulamentar n.º 9/93, de 22 de Março.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637689:por",
+    "alterador": "pt:dre:157776:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º\n\n1 - À Divisão de Gestão Integrada da Base de Dados compete:\n\na) Criar e manter actualizada a base de dados, com a colaboração do DAI, de todos os beneficiários do INGA, das suas explorações agrícolas e agro-industriais e de todas as medidas de intervenção e ajudas pagas pelo INGA, bem como os consequentes pagamentos e resultados de controlo;\n\nb) Conceber, divulgar e distribuir os suportes documentais necessários à prévia inscrição dos candidatos às medidas de intervenção e ajudas, bem como a emissão do título identificativo de utente do INGA;\n\nc) Definir os procedimentos de acesso à base de dados central pelos restantes serviços do INGA e ordenar a concepção dos suportes documentais a utilizar na aplicação específica de cada medida de intervenção e de ajuda, por forma a adequá-los ao sistema de gestão integrada e de base de dados.\n\n2 - À Divisão de Verificação e de Normalização de Procedimentos Comuns de Intervenção compete:\n\na) Realizar as verificações e controlos exigidos pela regulamentação aplicável que constituem condição prévia para o pagamento das medidas de intevenção e das ajudas, por parte dos respectivos serviços, quer por acção directa, quer coordenando as acções de verificação e controlo a cargo do INGA ou entidades para o efeito credenciadas;\n\nb) Acompanhar de forma sistemática os procedimentos e metodologias de execução utilizados pelos serviços de intervenção no âmbito da aplicação dos mecanismos de intervenção e das ajudas, por forma a garantir a sua rigorosa compatibilização com os regulamentos nacionais e comunitários aplicáveis, estudando e propondo as adaptações e alterações que se mostrem necessárias.",
+    "depois": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22.",
+    "excerto": "1 - Com a entrada em vigor do presente diploma são revogados os artigos 7.º e 8.º do Decreto Regulamentar n.º 9/93, de 22 de Março.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:637689:por",
+    "alterador": "pt:dre:157776:por"
+  }
+]

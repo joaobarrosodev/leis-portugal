@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pela Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, da Lotaria Nacional, do JOKER e da Lotaria Instantânea são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n2 - À parte correspondente das despesas comuns calculadas nos termos do número anterior acrescem as despesas especificamente imputáveis a cada modalidade de jogo, constituindo a sua soma as respectivas despesas de exploração.",
+    "depois": "###### Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pela Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER e da Lotaria Instantânea são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 225/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698), publicado em 1998-07-17.",
+    "excerto": "3 - O artigo 1.º, n.º 1, do Decreto-Lei n.º 64/95, de 7 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pela Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER e da Lotaria Instantânea são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.»",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230523:por",
+    "alterador": "pt:dre:424698:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º\n\nFica autorizado o Instituto das Tecnologias de Informação na Justiça, I. P., a iniciar um procedimento pré-contratual de concurso público para a contratualização dos serviços de atendimento aos utilizadores (helpdesk), até ao montante de (euro) 1 650 000, a que acresce o IVA à taxa legal em vigor, e que envolve despesa em anos económicos diferentes, de acordo com a seguinte distribuição e escalonamento:\n\na) Ano de 2009 - (euro) 45 833,33, a que acresce o IVA;\n\nb) Ano de 2010 - (euro) 550 000, a que acresce o IVA;\n\nc) Ano de 2011 - (euro) 550 000, a que acresce o IVA;\n\nd) Ano de 2012 - (euro) 504 166,67 a que acresce o IVA.",
+    "depois": "###### Artigo 1.º\n\nFica autorizado o Instituto das Tecnologias de Informação na Justiça, I. P., a iniciar um procedimento pré-contratual de concurso público para a contratualização dos serviços de atendimento aos utilizadores (helpdesk), até ao montante de (euro) 1 650 000, a que acresce o IVA à taxa legal em vigor, e que envolve despesa em anos económicos diferentes, de acordo com a seguinte distribuição e escalonamento:\n\nAno de 2010 - (euro) 366 666,66 a que acresce o IVA;\n\nAno de 2011 - (euro) 550 000 a que acresce o IVA;\n\nAno de 2012 - (euro) 550 000 a que acresce o IVA;\n\nAno de 2013 - (euro) 183 333,34 a que acresce o IVA.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 598/2010](https://diariodarepublica.pt/dr/detalhe/portaria/598-2010-2878993), publicado em 2010-08-03.",
+    "excerto": "O artigo 1.º da portaria n.º 859/2009, de 21 de Agosto, publicada no Diário da República, 2.ª série, n.º 173, de 7 de Setembro de 2009, passa a ter a seguinte redacção.\n\n«Artigo 1.º\n\nFica autorizado o Instituto das Tecnologias de Informação na Justiça, I. P., a iniciar um procedimento pré-contratual de concurso público para a contratualização dos serviços de atendimento aos utilizadores (helpdesk), até ao montante de (euro) 1 650 000, a que acresce o IVA à taxa legal em vigor, e que envolve despesa em anos económicos diferentes, de acordo com a seguinte distribuição e escalonamento:\n\nAno de 2010 - (euro) 366 666,66 a que acresce o IVA;\n\nAno de 2011 - (euro) 550 000 a que acresce o IVA;\n\nAno de 2012 - (euro) 550 000 a que acresce o IVA;\n\nAno de 2013 - (euro) 183 333,34 a que acresce o IVA.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1720125:por",
+    "alterador": "pt:dre:2878993:por"
+  }
+]

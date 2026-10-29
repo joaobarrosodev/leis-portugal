@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Comissão governamental\n\nA coordenação da execução global do QCA incumbe a uma comissão governamental de coordenação dos fundos comunitários, presidida pelo Ministro do Planeamento e da Administração do Território.",
+    "depois": "###### Artigo 4.º — Coordenação do QCA\n\n1 - A coordenação das negociações e da execução global do QCA em todas as suas vertentes incumbe a uma comissão governamental de coordenação dos fundos comunitários, de modo a assegurar a eficácia e a unidade dos respectivos processos.\n\n2 - A comissão governamental referida no número anterior é composta pelo Ministro do Planeamento e da Administração do Território, que preside, e por membros do Governo dos ministérios que tutelam as entidades responsáveis pela gestão das intervenções operacionais incluídas no QCA, e ainda do Ministério dos Negócios Estrangeiros e do Ministério das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551) e [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:264966:por",
+    "alterador": "pt:dre:621551:por;pt:dre:423674:por"
+  },
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º — Órgãos de gestão\n\n1 - A gestão técnica, administrativa e financeira de cada uma das intervenções operacionais incluídas no QCA incumbe a um gestor apoiado por uma unidade de gestão, sem prejuízo do disposto nos números seguintes.\n\n2 - No caso de intervenções operacionais de âmbito nacional da responsabilidade directa do Ministério do Emprego e da Segurança Social, a sua gestão é efectuada através de programas quadro, mediante a atribuição de uma subvenção global a entidades gestoras, e coordenada pela comissão prevista no artigo 11.º\n\n3 - No caso de intervenções operacionais de âmbito nacional constituídas por programas apoiados maioritariamente pelo Fundo Europeu de Orientação e Garantia Agrícola (Secção Orientação), a sua gestão é assegurada pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural em ligação com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas e outros organismos competentes do Ministério da Agricultura, apoiada em unidades de gestão que podem ser de nível nacional e regional, sendo o respectivo estatuto objecto de despacho do Ministro da Agricultura.\n\n4 - No caso de intervenções operacionais de âmbito nacional constituídas por programas apoiados pelo IFOP, a sua gestão é assegurada pela Direcção-Geral das Pescas em ligação com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas e com unidades de gestão cujo estatuto é objecto de despacho do Ministro do Mar.\n\n5 - O regime jurídico de gestão e financiamento das intervenções operacionais no âmbito do Fundo Social Europeu é aprovado por decreto regulamentar.\n\n6 - Quando as circunstâncias o aconselharem, qualquer excepção ao disposto no n.º 1 será objecto de despacho conjunto do Primeiro-Ministro e do Ministro do Planeamento e da Administração do Território, salvo quando a matéria exija diploma hierarquicamente superior.",
+    "depois": "###### Artigo 23.º — Órgãos de gestão\n\n1 - A gestão técnica, administrativa e financeira de cada uma das intervenções operacionais incluídas no QCA incumbe a um gestor apoiado por uma unidade de gestão, sem prejuízo do disposto nos números seguintes.\n\n2 - (Revogado.)\n\n3 - No caso de intervenções operacionais de âmbito nacional constituídas por programas apoiados maioritariamente pelo Fundo Europeu de Orientação e Garantia Agrícola (Secção Orientação), a sua gestão é assegurada pelo Instituto de Estruturas Agrárias e Desenvolvimento Rural em ligação com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas e outros organismos competentes do Ministério da Agricultura, apoiada em unidades de gestão que podem ser de nível nacional e regional, sendo o respectivo estatuto objecto de despacho do Ministro da Agricultura.\n\n4 - No caso de intervenções operacionais de âmbito nacional constituídas por programas apoiados pelo IFOP, a sua gestão é assegurada pela Direcção-Geral das Pescas em ligação com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas e com unidades de gestão cujo estatuto é objecto de despacho do Ministro do Mar.\n\n5 - O regime jurídico de gestão e financiamento das intervenções operacionais no âmbito do Fundo Social Europeu é aprovado por decreto regulamentar.\n\n6 - Quando as circunstâncias o aconselharem, qualquer excepção ao disposto no n.º 1 será objecto de despacho conjunto do Primeiro-Ministro e do Ministro do Planeamento e da Administração do Território, salvo quando a matéria exija diploma hierarquicamente superior.\n\n> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551) e [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:264966:por",
+    "alterador": "pt:dre:621551:por;pt:dre:423674:por"
+  }
+]

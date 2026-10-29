@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:545666:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Conceito de custas. Extensão da regra de custas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Concorrência de diversos regimes de custas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Isenção do processado repetido",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Divisão da importância de procuradoria",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "107.º",
+      "epigrafe": "Oportunidade de pagamento dos preparos para julgamento",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 a 3 (Decretos-Leis n.os 161/76 e 214/87, Lei n.º 38/86) sem texto da nova redacção; ficam prejudicadas pela revogação do Código (Decreto-Lei n.º 224-A/96), salvo o artigo 221.º, que se mantém.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:684451:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem frases introdutórias (sem nova redação), alterações a mapas anexos ou a extinção de um serviço (alínea c) do artigo 5.º) sem alteração textual expressa; nada seguro a aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

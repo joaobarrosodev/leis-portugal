@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:200410:por",
+  "artigos": [
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Âmbito\n\nAs profissões regulamentadas abrangidas na área do emprego são as seguintes:\n\na) Técnico Superior de Segurança e Higiene do Trabalho;\n\nb) Técnico de Segurança e Higiene do Trabalho.",
+    "depois": "###### Artigo 2.º — Âmbito\n\nAs profissões regulamentadas abrangidas na área do emprego são as seguintes:\n\na) Técnico Superior de Segurança no Trabalho;\n\nb) Técnico de Segurança no Trabalho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2012](https://diariodarepublica.pt/dr/detalhe/portaria/384-2012-191284), publicado em 2012-11-26.",
+    "excerto": "O artigo 2.º da Portaria n.º 55/2012, de 9 de março, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\nÂmbito\n\nAs profissões regulamentadas abrangidas na área do emprego são as seguintes:\n\na) Técnico Superior de Segurança no Trabalho;\n\nb) Técnico de Segurança no Trabalho.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:553595:por",
+    "alterador": "pt:dre:191284:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO::10.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 10.º — Velocidade máxima\n\n1 - A velocidade máxima do veículo deve ser expressa em quilómetros/hora, utilizando-se o valor correspondente ao número inteiro mais próximo da média aritmética dos valores das velocidades medidas em dois ensaios consecutivos, que não devem diferir entre si mais de 3%.\n\n2 - Se a média aritmética referida no número anterior se situar exactamente a meio do intervalo entre dois números inteiros, deve ser arredondada para o número superior.",
+    "depois": "###### Artigo 10.º — Velocidade máxima\n\n1 - A velocidade máxima do veículo deve ser expressa em quilómetros/hora, utilizando-se o valor correspondente ao número inteiro mais próximo da média aritmética dos valores das velocidades medidas em dois ensaios consecutivos, que não devem diferir entre si mais de 3%.\n\n2 - Se a média aritmética referida no número anterior se situar exactamente a meio do intervalo entre dois números inteiros, deve ser arredondada para o número superior.\n\n3 - No caso de veículos em que a velocidade máxima não seja limitada pela definição aplicável constante do artigo 2.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, na sua última redacção, não é necessário qualquer ensaio de homologação e a velocidade máxima deve ser aceite como a que foi declarada pelo fabricante do veículo na ficha de informações do anexo ii do referido Regulamento.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 345/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-2007-642009), publicado em 2007-10-16.",
+    "excerto": "O artigo 10.º do Regulamento Relativo à Velocidade Máxima de Projecto, ao Binário Máximo e à Potência Útil Máxima dos Veículos a Motor de Duas ou Três Rodas, aprovado pelo Decreto-Lei n.º 227/2003 de 26 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - No caso de veículos em que a velocidade máxima não seja limitada pela definição aplicável constante do artigo 2.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, na sua última redacção, não é necessário qualquer ensaio de homologação e a velocidade máxima deve ser aceite como a que foi declarada pelo fabricante do veículo na ficha de informações do anexo ii do referido Regulamento.»",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:491933:por",
+    "alterador": "pt:dre:642009:por"
+  }
+]

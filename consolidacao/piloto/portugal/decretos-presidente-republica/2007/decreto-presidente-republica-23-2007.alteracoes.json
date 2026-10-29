@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nAo texto da Convenção é formulada a seguinte reserva:\n\nA isenção estabelecida na alínea b) da secção 19 não se aplica aos nacionais portugueses e aos residentes em território português que não adquiriram essa qualidade para o efeito do exercício da actividade.\n\nAssinado em 18 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 24 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto do Presidente da República n.º 151/2012](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/151-2012-175524), publicado em 2012-09-25.\n\nAssinado em 18 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 24 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+    "excerto": "É revogado o artigo 2.º do Decreto do Presidente da República n.º 23/2007, de 1 de fevereiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:518257:por",
+    "alterador": "pt:dre:175524:por"
+  }
+]

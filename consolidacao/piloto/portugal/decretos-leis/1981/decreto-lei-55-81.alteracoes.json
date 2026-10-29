@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 7.º\n\nOs encargos decorrentes deste diploma passam a ser satisfeitos por verbas adequadas do orçamento do Estado-Maior-General das Forças Armadas.",
+    "depois": "###### Artigo 7.º\n\n1 - (Corpo do artigo.)\n\n2 - Os encargos a que se refere o número anterior podem, excepcionalmente, ser satisfeitos pelo ramo das Forças Armadas a que o pessoal pertence, mediante despacho conjunto dos Ministros das Finanças e da Defesa Nacional, devidamente fundamentado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 232/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2002-425924), publicado em 2002-11-02.",
+    "excerto": "O artigo 7.º do Decreto-Lei n.º 55/81, de 31 de Março, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n1 - (Corpo do artigo.)\n\n2 - Os encargos a que se refere o número anterior podem, excepcionalmente, ser satisfeitos pelo ramo das Forças Armadas a que o pessoal pertence, mediante despacho conjunto dos Ministros das Finanças e da Defesa Nacional, devidamente fundamentado.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:389381:por",
+    "alterador": "pt:dre:425924:por"
+  }
+]

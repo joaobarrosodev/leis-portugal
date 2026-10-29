@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito do diploma\n\nO presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos ensinos preparatório e secundário pertencentes aos quadros com nomeação provisória, previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.",
+    "depois": "###### Artigo 1.º — Âmbito do diploma\n\nO presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no Decreto-Lei n.º 18/88, de 21 de Janeiro, e no Decreto-Lei n.º 384/93, de 18 de Novembro, com a redacção dada pelo Decreto-Lei n.º 16/96, de 8 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380135:por",
+    "alterador": "pt:dre:352900:por;pt:dre:301017:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Classificação profissional\n\n1 - Concluída com aproveitamento a frequência dos dois anos de formação, será atribuída ao docente em profissionalização uma classificação profissional pela Direcção-Geral do Ensino Básico e Secundário (DGEBS).\n\n2 - A classificação profissional referida no número anterior será determinada, com aproximação às décimas, através da aplicação da seguinte fórmula:\n\nCP = ((CA + (CCE + CPFAP))/2)/2\n\nem que CP corresponde à classificação profissional, CA à classificação académica, CCE à componente ciências da educação e CPFAP à componente projecto de formação e acção pedagógica.\n\n3 - A classificação profissional será publicada no Diário da República pela DGEBS.",
+    "depois": "###### Artigo 14.º — Classificação profissional\n\n1 - Concluída com aproveitamento a frequência dos dois anos de formação, será atribuída ao docente em profissionalização uma classificação profissional pela Direcção-Geral da Administração Educativa.\n\n2 - A classificação profissional referida no número anterior será determinada, com aproximação às décimas, através da aplicação da seguinte fórmula:\n\nCP = ((CA + (CCE + CPFAP))/2)/2\n\nem que CP corresponde à classificação profissional, CA à classificação académica, CCE à componente ciências da educação e CPFAP à componente projecto de formação e acção pedagógica.\n\n3 - A classificação profissional será publicada no Diário da República, 2.ª série, pela Direcção-Geral da Administração Educativa.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380135:por",
+    "alterador": "pt:dre:352900:por;pt:dre:301017:por"
+  }
+]

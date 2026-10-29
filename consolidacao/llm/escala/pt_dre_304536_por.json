@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:304536:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - O valor a atribuir às participações financeiras detidas pelas empresas nacionalizadas será o valor médio entre os resultantes do balanço da participante e do balanço da participada, reconduzido este último à situação líquida da empresa.\n\n2 - No caso de não ser possível obter os elementos necessários ao cálculo referido no número anterior, manter-se-á o valor já fixado."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte de capital adoptar-se-á a fórmula geral:\n\nV = (alfa)1 C(índice 1) + (alfa)2 C(índice 2) + (alfa)3 C(índice 3)\n\n2 - Aos símbolos mencionados no número precedente são atribuídos os seguintes significados:\n\nV = valor da indemnização por acção, ou parte de capital quando se trate de empresas que não tenham revestido a forma de sociedade anónima;\n\nC(índice 1) = valor que, para cada acção ou parte de capital, resulte do balanço especial nos termos do artigo 2.º;\n\nC(índice 2) = valor de cotação determinado de acordo com o artigo 5.º;\n\nC(índice 3) = valor de rendibilidade determinado nos termos do artigo 6.º;\n\n(alfa)1, (alfa)2, (alfa)3 = coeficientes de ponderação fixados, respectivamente, em 60%, 20% e 20%.\n\n3 - Sempre que não seja possível calcular C(índice 2) ou C(índice 3), o valor do coeficiente respectivo será repartido em partes iguais pelos restantes; caso se verifique, em simultâneo, a impossibilidade de cálculo dessas parcelas, (alfa)1 igualará a unidade."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipulados no capítulo I, ou junção superveniente de elementos atinentes ao processo calculatório, os titulares do direito à indemnização poderão requerer, dentro do prazo de 60 dias a contar da data de publicação do despacho mencionado no n.º 2 do artigo 8.º, a revisão do cálculo desse mesmo valor e a constituição de uma comissão mista para a correspondente apreciação.\n\n2 - As comissões mistas, uma só por cada empresa nacionalizada, serão constituídas por três peritos, a saber:\n\na) Um, designado pelos titulares do direito à indemnização, a identificar, junto com declaração pessoal de aceitação do cargo, no requerimento referido no n.º 1;\n\nb) Outro, designado pelo Governo e nomeado por despacho do Ministro das Finanças;\n\nc) Um terceiro, que presidirá, escolhido por mútuo acordo entre os dois primeiros.\n\n3 - Para a constituição das comissões mistas definidas nos termos dos números anteriores, será adoptado o seguinte procedimento:\n\na) A DGJCP informará a entidade que apresentar o primeiro requerimento, ou, no caso de simultaneidade, o titular de maior indemnização, para, dentro do prazo de 15 dias, promover, com as despesas a seu cargo, a publicação de anúncio no Diário da República, 3.ª série, e em dois dos jornais de grande circulação, um de Lisboa e outro do Porto, conforme modelo anexo a este diploma;\n\nb) Qualquer titular de direito a indemnização respeitante à empresa referida no anúncio poderá indicar outro perito, por carta registada remetida à DGJCP no prazo de 15 dias a contar da publicação do anúncio no Diário da República, nos termos da alínea a) do número anterior;\n\nc) No caso de serem designados diferentes peritos por diversos interessados, a escolha do que integrará a comissão será feita por sorteio público, a realizar pela DGJCP no 1.º dia útil cinco dias após a data limite derivada do anúncio no Diário da República;\n\nd) No caso de sociedades por qotas, o anúncio será dispensado se os interessados juntarem declaração de todos os restantes sócios aceitando o perito designado.\n\n4 - O perito designado pelo Governo tomará a iniciativa de se reunir com o perito designado pelos requerentes a fim de procederem à escolha do presidente da comissão mista, lavrando-se acta final da qual conste o resultado das diligências.\n\n5 - A constituição das comissões mistas efectivar-se-á no prazo de 30 dias a contar da data de designação do perito referido na alínea a) do n.º 2.\n\n6 - Os membros da comissão mista tomarão posse perante o director-geral da Junta do Crédito Público, devendo emitir parecer no prazo máximo de 60 dias.\n\n7 - O apoio administrativo às comissões mistas é cometido à DGJCP.\n\n8 - Com base no parecer elaborado pelas comissões mistas constituídas nos termos dos números anteriores, o Ministro das Finanças emitirá despacho definitivo quanto à fixação do valor da indemnização."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 1 - O valor a atribuir às participações financeiras detidas pelas empresas nacio",
+    "7.º: parágrafo que não está no alterador nem no original: 1 - Para o cálculo do valor da indemnização a atribuir por cada acção ou parte d",
+    "9.º: parágrafo que não está no alterador nem no original: 1 - Com vista à reapreciação da aplicação casuística dos critérios legais estipu",
+    "9.º: parágrafo que não está no alterador nem no original: a) Um, designado pelos titulares do direito à indemnização, a identificar, junto"
+  ]
+}

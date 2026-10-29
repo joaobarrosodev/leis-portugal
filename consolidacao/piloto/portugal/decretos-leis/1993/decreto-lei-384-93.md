@@ -1,0 +1,251 @@
+---
+id: pt:dre:676429:por
+title: Decreto-Lei n.º 384/93
+original: data/portugal/decretos-leis/1993/decreto-lei-384-93.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:621296:por
+    title: Decreto-Lei n.º 16/96
+    publication_date: '1996-03-08'
+  - id: pt:dre:352900:por
+    title: Decreto-Lei n.º 15-A/99
+    publication_date: '1999-01-19'
+  - id: pt:dre:522638:por
+    title: Decreto-Lei n.º 15/2007
+    publication_date: '2007-01-19'
+---
+
+# Decreto-Lei n.º 384/93
+
+de 18 de Novembro
+
+A vertente organizacional da reforma educativa exige, quer uma redefinição das habilitações profissionais para a docência, quer o consequente redimensionamento dos quadros.
+
+As vantagens que decorrerão da estabilidade profissional dos docentes, a concretizar na aquisição de um vínculo jurídico adequado, pressupõem a contrapartida da sua fixação nas zonas mais carenciadas, a definir pelas necessidades do sistema.
+
+A premência de proporcionar tal estabilidade aos docentes contratados, em exercício de funções durante anos consecutivos, assumiu particular acuidade com a entrada em vigor do [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho.
+
+Daí a conveniência de introduzir instrumentos de gestão mais flexíveis e operacionais no âmbito do redimensionamento da rede escolar, nomeadamente a adequação dos quadros às necessidades do sistema, e de garantir, no âmbito da prossecução dos objectivos de qualidade que o ensino pressupõe, uma formação profissional dos docentes exigente e adequada.
+
+Foram ouvidas as organizações sindicais representativas do docentes às quais o presente diploma se aplica.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - São criados os quadros de zona pedagógica previstos no artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, para os 2.º e 3.º ciclos do ensino básico e para o ensino secundário, no que respeita ao ensino regular.
+
+2 - Os quadros de vinculação distrital dos educadores de infância e professores do 1.º ciclo do ensino básico criados pelo [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, passam a designar-se por quadros de zona pedagógica.
+
+3 - O âmbito geográfico dos quadros de zona pedagógica é o correspondente ao dos centros de área educativa (CAE), previstos no artigo 2.º do [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), de 26 de Abril.
+
+###### Artigo 2.º — Objectivos
+
+1 - Os quadros de zona pedagógica visam:
+
+a) Garantir a satisfação de necessidades não permanentes dos estabelecimentos de ensino e a promoção do sucesso educativo;
+
+b) Assegurar o desenvolvimento de actividades de educação extra-escolar, com especial incidência na educação recorrente;
+
+c) Apoiar estabelecimentos de ensino que ministrem o ensino em áreas curriculares específicas ou onde existam crianças com necessidades educativas especiais;
+
+d) Substituir docentes do quadro de escola que, por motivos previstos na lei, se encontrem ausentes.
+
+2 - A substituição de docentes prevista na alínea d) do número anterior abrange:
+
+a) Ausência anual;
+
+b) Ausências temporárias de duração superior a 5 ou 10 dias lectivos, consoante se trate da educação pré-escolar e do 1.º ciclo do ensino básico ou dos 2.º e 3.º ciclos do ensino básico;
+
+c) Ausências temporárias no ensino secundário, sem prejuízo das tarefas de ocupação educativa dos alunos, a promover pelo respectivo estabelecimento de ensino, nos casos de ausência de curta duração.
+
+###### Artigo 3.º — Dotação dos quadros
+
+1 - O número de lugares atribuídos a cada um dos quadros de zona pedagógica é definido, anualmente, por portaria a publicar até ao dia 30 de Novembro, tendo em conta as necessidades de pessoal docente do sistema educativo.
+
+2 - A portaria a que se refere o número anterior é da competência conjunta dos Ministros das Finanças e da Educação ou apenas do Ministro da Educação, consoante da atribuição de lugares a cada quadro resulte ou não aumento dos valores totais globais.
+
+3 - O recurso sistemático a docentes contratados, por períodos superiores a quatro anos, constitui indicador da necessidade de proceder à revisão das dotações de lugares atribuídos a cada quadro.
+
+###### Artigo 4.º — Concurso de provimento
+
+O provimento nos quadros de zona pedagógica faz-se por concurso anual, a abrir, mediante aviso a publicar no Diário da República, em simultâneo com os concursos para os quadros dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
+
+###### Artigo 5.º — Candidatos
+
+1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:
+
+a) Serem titulares de habilitação profissional ou própria;
+
+b) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;
+
+c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;
+
+d) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.
+
+2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.
+
+> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296) e [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
+
+###### Artigo 6.º — Ordenação dos candidatos
+
+1 - Os candidatos são ordenados de acordo com as seguintes prioridades:
+
+a) Professores profissionalizados já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
+
+b) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
+
+c) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação profissional;
+
+d) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação própria.
+
+2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos são ordenados nos termos previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho.
+
+3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.
+
+4 - Os candidatos incluídos na alíneas c) e d) do n.º 1 podem concorrer, no máximo, a dois grupos de docência.
+
+###### Artigo 7.º — Apresentação a concurso
+
+1 - A admissão ao concurso previsto no artigo 4.º é feita através do preenchimento de um só boletim normalizado, do qual constam obrigatoriamente:
+
+a) Os elementos legais de identificação do candidato;
+
+b) Todos os elementos necessários à ordenação do candidato;
+
+c) O código dos quadros de zona pedagógica a que concorre.
+
+2 - Os modelos do boletim, bem como os da ficha anexa, e que são os mesmos do concurso para o quadro dos estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, são indicados no respectivo aviso de abertura.
+
+3 - Os prazos, condições e locais de apresentação dos modelos de boletim são igualmente fixados no aviso de abertura do concurso.
+
+4 - Os candidatos ao concurso referido no artigo 4.º deste diploma mencionam as suas preferências num só boletim, devendo nele indicar todos os CAE do continente, bem como os ciclos e grupos disciplinares a que concorrem.
+
+###### Artigo 8.º — Mecanismo do concurso
+
+1 - O concurso realiza-se com recuperação automática de lugares, de forma que nenhum concorrente seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
+
+2 - Pode não haver recuperação de vagas sempre que os lugares já providos em anteriores concursos excedam as necessidades reais da zona pedagógica.
+
+3 - As vagas não recuperáveis são publicitadas no aviso de abertura do concurso como vagas negativas.
+
+4 - Os professores que tiverem obtido colocação nos quadros de escolas deixam, automaticamente, de ser considerados no concurso para preenchimento dos quadros de zona pedagógica.
+
+5 - As listas provisórias de ordenação dos candidatos e a de colocações serão publicitadas nos termos legais em vigor.
+
+6 - Das listas provisórias de ordenação dos candidatos, bem como dos elementos constantes do verbete individual, cabe reclamação no prazo de oito dias úteis a contar do dia seguinte ao da data da sua publicação.
+
+7 - O verbete individual contém todos os elementos que o candidato registou no seu boletim de concurso e deve ser levantado no serviço oficial onde foi apresentada a candidatura.
+
+8 - Decididas as reclamações e consideradas as alterações provenientes das desistências, as listas definitivas de ordenação e colocação, devidamente homologadas, são publicitadas nos termos legais em vigor.
+
+9 - Das listas referidas no número anterior caberá recurso hierárquico sem efeito suspensivo.
+
+10 - As desistências do concurso só são permitidas até ao termo do prazo previsto no n.º 6.
+
+11 - A lista de colocações constitui o único meio para comunicar aos interessados as respectivas colocações.
+
+12 - Para todos os efeitos, considera-se que a não apresentação de reclamação da lista provisória de graduação e dos elementos referidos no verbete referido no n.º 6 equivale a aceitação tácita da mesma lista e do conjunto de elementos do mesmo verbete.
+
+###### Artigo 9.º — Forma de provimento
+
+O provimento dos professores dos quadros de zona pedagógica entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data do início do exercício de funções.
+
+###### Artigo 10.º — Transferência de quadro
+
+Os professores pertencentes a um dos quadros de zona pedagógica que, tendo sido opositores ao concurso previsto no artigo 4.º, obtiverem colocação em CAE diferente daquele a cujo quadro pertenciam consideram-se providos, por transferência, no quadro do CAE em que obtiveram colocação, consoante a lista ordenada definitiva.
+
+###### Artigo 11.º — Posse
+
+A posse dos professores dos quadros de zona pedagógica é conferida pelo director regional de educação respectivo.
+
+###### Artigo 12.º — Obrigações dos docentes
+
+1 - O ingresso e a manutenção na situação de titular do quadro de zona pedagógica ficam condicionados, cumulativamente, às seguintes obrigações:
+
+a) Aceitar, em cada ano, o serviço docente que lhe for distribuído em qualquer escola da área do CAE a que pertence;
+
+b) Aceitar submeter-se aos acréscimos de formação ou acções de reconversão para que forem convocados durante um período de seis anos a contar da primeira nomeação para o quadro de zona pedagógica;
+
+c) Concorrer, anualmente, aos quadros de escola de todas as escolas de uma das zonas definidas no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+
+2 - Os professores do quadro de zona pedagógica que possuam 15 ou mais anos de serviço em 31 de Agosto do ano anterior apenas serão obrigados a concorrer aos quadros de todas as escolas de um único CAE.
+
+###### Artigo 13.º — Efeitos do incumprimento das obrigações
+
+O não cumprimento das obrigações referidas no artigo anterior implica:
+
+a) No caso de incumprimento das alíneas a) e c), a afectação a qualquer das escolas de uma das zonas definidas no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, no exclusivo interesse da Administração, sem prejuízo de procedimento disciplinar a que haja lugar, no caso de inobservância do disposto na alínea a);
+
+b) No caso de incumprimento da alínea b), a exoneração do quadro de zona pedagógica e a aplicação do disposto na parte final do n.º 2 do artigo 15.º do [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto.
+
+###### Artigo 14.º — Vínculo e remuneração
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296) e [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
+
+###### Artigo 15.º — Afectação
+
+1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados imediatamente após a 4.ª prioridade.
+
+2 - Para efeitos do número anterior, os professores nele referidos indicam as suas preferências, através do preenchimento de um boletim a editar pela Imprensa Nacional-Casa da Moeda, ordenando até 100 escolas da área do CAE a cujos quadros de zona pedagógica se acham vinculados e todos os municípios daquela área.
+
+3 - Quando a candidatura não esgote as escolas existentes nos municípios que integram o CAE, considera-se que o candidato manifesta igual preferência por todas as restantes.
+
+4 - Não sendo possível proceder à afectação nas vagas referidas no n.º 1, será posteriormente afectado nas vagas que forem surgindo, com observância das preferências por ele indicadas.
+
+###### Artigo 16.º — Apresentação ao serviço
+
+1 - Os professores dos quadros de zona pedagógica devem apresentar-se, no início de cada ano escolar, na escola onde obtiveram colocação nesse ano ou na escola onde trabalharam no ano anterior, assegurando nesta o serviço docente que lhes for atribuído enquanto aguardam a sua afectação para o ano lectivo que se inicia.
+
+2 - A não apresentação dos professores ao serviço docente que lhes for distribuído tem os efeitos previstos no n.º 1 do artigo 25.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+
+###### Artigo 17.º — Dotação dos quadros para 1993-1994
+
+Na portaria referida no artigo 3.º deste diploma, o número de lugares atribuídos para 1993-1994 a cada um dos quadros de zona pedagógica não deve ser inferior ao número de professores em condições de serem providos nesses quadros, colocados ao abrigo de qualquer dos concursos referidos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397).
+
+###### Artigo 18.º — Quadros de zona pedagógica dos educadores de infância e professores do 1.º ciclo do ensino básico
+
+Os quadros de zona pedagógica previstos no n.º 2 do artigo 1.º serão regulamentados por portaria do Ministro da Educação, a partir do ano lectivo de 1994-1995.
+
+###### Artigo 19.º — Norma transitória
+
+1 - No ano lectivo de 1993-1994, consideram-se providos nos quadros de zona pedagógica todos os docentes contratados dos 2.º e 3.º ciclos do ensino básico e do ensino secundário que declarem aceitar as condições previstas no artigo 12.º e cumulativamente:
+
+a) Tenham concorrido a qualquer dos concursos previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397) para o ano lectivo de 1993-1994;
+
+b) Tenham completado até 31 de Agosto de 1992 quatro anos completos de serviço docente;
+
+c) Tenham prestado, consecutivamente, serviço docente nos últimos quatro anos lectivos como titulares de habilitação profissional ou própria;
+
+d) Venham a obter colocação até 31 de Outubro de 1993.
+
+2 - Os docentes referidos no número anterior colocados na 2.ª parte do concurso consideram-se, para todos os efeitos, providos no quadro de zona pedagógica do CAE a que pertence a escola onde obtiveram colocação no ano lectivo de 1993-1994 ou em que forem colocados ao abrigo dos Despachos Normativos n.os [77/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-1988-370214), de 3 de Setembro, [184/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/184-1991-403705), de 30 de Agosto, e [185/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/185-1993-356565), de 6 de Agosto.
+
+3 - Os docentes que, satisfazendo os requisitos previstos no n.º 1, não obtenham lugar até 31 de Outubro do corrente ano integram o quadro de zona pedagógica do CAE a que pertence a escola onde estiveram colocados no ano lectivo de 1992-1993, devendo, para o efeito, aceitar o serviço docente que lhes for distribuído, no prazo de oito dias após a publicação do presente diploma.
+
+4 - Os docentes referidos no número anterior têm, no concurso seguinte, de concorrer aos lugares de, pelo menos, cinco quadros de zona pedagógica.
+
+5 - Os docentes que reúnam as condições previstas no n.º 1 devem requerer o respectivo ingresso à direcção regional de educação da escola em que obtiveram colocação no ano lectivo de 1992-1993 no prazo de 10 dias após a entrada em vigor deste diploma.
+
+###### Artigo 20.º — Entrada em vigor
+
+O presente diploma reporta os seus efeitos a 1 de Setembro de 1993.
+
+Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.
+
+Promulgado em 11 de Novembro de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 12 de Novembro de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

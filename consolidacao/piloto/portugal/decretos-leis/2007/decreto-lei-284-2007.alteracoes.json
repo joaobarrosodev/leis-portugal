@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem por objecto a determinação da competência para o reconhecimento de fundações.",
+    "depois": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09.",
+    "excerto": "São revogados os artigos 1.º e 2.º do Decreto-Lei n.º 284/2007, de 17 de agosto.",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:636972:por",
+    "alterador": "pt:dre:179571:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Competência para o reconhecimento de fundações\n\n1 - Compete ao Ministro da Presidência, com faculdade de delegação, o reconhecimento das fundações, nos termos e para os efeitos previstos no n.º 2 do artigo 158.º e no artigo 188.º do Código Civil.\n\n2 - O disposto no número anterior não prejudica a competência de outros membros do Governo para o reconhecimento de categorias específicas de fundações, nos termos da lei.",
+    "depois": "###### Artigo 2.º — Competência para o reconhecimento de fundações\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09.",
+    "excerto": "São revogados os artigos 1.º e 2.º do Decreto-Lei n.º 284/2007, de 17 de agosto.",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:636972:por",
+    "alterador": "pt:dre:179571:por"
+  }
+]

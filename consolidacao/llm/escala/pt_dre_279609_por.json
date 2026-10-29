@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:279609:por",
+  "artigos": [
+    {
+      "chave": "193.º",
+      "epigrafe": "Transferência e acesso dos juízes dos tribunais do trabalho",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Não aplicadas as novas redações do artigo 27.º (Lei n.º 28/79 e Decreto-Lei n.º 348/80): texto não fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

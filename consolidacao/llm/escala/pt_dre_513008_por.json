@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:513008:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 43490 sobre o artigo 10.º).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

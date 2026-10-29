@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "34.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 34.º — Contingentes de vagas\n\n1 - As vagas fixadas para cada curso em cada estabelecimento de ensino superior público são distribuídas por um contingente geral e por contingentes especiais.\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - As vagas dos contingentes especiais que não hajam sido preenchidas revertem para o contingente geral.",
+    "depois": "###### Artigo 34.º — Contingentes de vagas\n\n1 - (Revogado.)\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240823:por",
+    "alterador": "pt:dre:314396:por"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:155578:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto n.º 45083 anuncia a substituição do § único do artigo 9.º mas não traz a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

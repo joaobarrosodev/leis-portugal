@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:219555:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução da Portaria n.º 256/78 só traz a frase introdutória; a nova redação dos artigos da Tarifa Geral de Transportes não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

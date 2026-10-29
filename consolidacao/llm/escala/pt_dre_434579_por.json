@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:434579:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (DL 166/79 sobre o artigo 9.º); as portarias e restantes diplomas não trazem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

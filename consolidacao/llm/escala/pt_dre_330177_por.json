@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:330177:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 403/83 só traz a frase introdutória, sem o texto do número a aditar ao art. 10.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

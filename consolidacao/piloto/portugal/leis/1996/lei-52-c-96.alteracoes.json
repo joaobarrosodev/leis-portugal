@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "61.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 61.º — Aquisição de activos e assunção de passivos\n\nFica o Governo autorizado, através do Ministro das Finanças, que terá a faculdade de delegar, e sujeito ao limite estabelecido no artigo 72.º\n\na) A adquirir créditos e a assumir passivos de sociedades anónimas de capitais públicos e participadas, de empresas públicas e de estabelecimentos fabris das Forças Armadas no contexto de planos estratégicos de reestruturação e saneamento financeiro e de processos de extinção;\n\nb) A assumir os passivos do Grémio dos Armadores da Pesca do Arrasto e da Fábrica-Escola Irmãos Stephens, S. A., independentemente da conclusão dos respectivos processos de liquidação e extinção.\n\nc) A assumir passivos da Região Autónoma da Madeira vencidos e a vencer em 1997, até ao limite máximo de 10,5 milhões de contos.\n\n> Aditado pelo/a [Lei n.º 130-B/97](https://diariodarepublica.pt/dr/detalhe/lei/130-b-1997-336348), publicado em 1997-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:583042:por",
+    "alterador": "pt:dre:336348:por"
+  }
+]

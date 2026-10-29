@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:598767:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Transmissão e oneração",
+      "texto": "1 - Os direitos que, por meio de contrato, referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º, se adquiram sobre os prédios expropriados ou nacionalizados são insusceptíveis de transmissão ou oneração.\n\n2 - O Estado pode, porém, autorizar a transmissão para o cônjuge do arrendatário, quando não separado judicialmente ou de facto, para parentes ou afins, na linha recta, que com o mesmo vivam habitualmente em comunhão de mesa e habitação ou economia comum há mais de um ano consecutivamente e para quem viva com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n3 - Os contratos referidos no n.º 1 transmitem-se também por morte do arrendatário nos mesmos termos do número anterior, contudo sem necessidade de autorização prévia.\n\n4 - As transmissões referidas nos números anteriores deferem-se pela seguinte ordem:\n\na) Ao cônjuge;\n\nb) Aos parentes ou afins em linha recta, preferindo os primeiros aos segundos, os descendentes aos ascendentes e os de grau mais próximo aos de grau mais remoto;\n\nc) À pessoa que viva, ou vivesse, com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n5 - A transmissão por morte a favor dos parentes ou afins do primitivo arrendatário, segundo a ordem constante do número anterior, também se verifica por morte do cônjuge sobrevivo quando, nos termos do número anterior, lhe tenha sido transmitido direito ao arrendamento"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Área de exploração",
+      "texto": "1 - Na determinação da área dos prédios que será afecta a cada estabelecimento agrícola ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado, de forma a conseguir-se um dimensionamento e ordenamento adequado da exploração, respeitando-se os limites constantes da tabela anexa ao presente diploma.\n\n2 - Caso a área do prédio ou de parte do prédio, por si só ou conjuntamente com outras, não atinja os limites mínimos fixados no número anterior deverá a mesma ser preferencialmente destinada ao redimensionamento de explorações minifundiárias vizinhas ou da sua proximidade, nos termos previstos nos n.os 2 e 3 do artigo 4.º\n\n3 - Exceptua-se do disposto nos números anteriores as seguintes situações:\n\na) O prédio ou parte do prédio cuja exploração constitua relevante complemento da economia do agregado familiar do agricultor, ou contribua preponderantemente para a sua integração e fixação no meio sócio-rural em que se insere;\n\nb) O prédio ou parte do prédio que, apesar de não respeitar os limites da área constantes da tabela anexa ao presente diploma, tenha vindo a ser racionalmente explorado.\n\n4 - Caberá ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas autorizar, caso a caso, sob proposta dos serviços regionais, a celebração de contratos de arrendamento rural com os agricultores que se encontrem nas situações descritas nas alíneas do número anterior, sendo requisito da autorização a ocorrência de posse de boa fé, pacífica e pública, da parcela objecto do contrato.\n\n5 - Os contratos de arrendamento já celebrados à data da entrada em vigor deste diploma são reconhecidos como válidos nos termos do disposto nos números anteriores."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

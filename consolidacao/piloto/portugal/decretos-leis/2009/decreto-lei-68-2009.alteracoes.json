@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Prorrogação\n\n1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2009.\n\n2 - O montante diário do subsídio referido no número anterior corresponde a 1/30 de 60 % do valor do indexante dos apoios sociais (IAS), sem prejuízo do disposto no número seguinte.\n\n3 - O montante diário do subsídio é majorado em 1/30 de 10 % do IAS por cada filho que integre o agregado familiar do titular da prestação, não podendo o montante diário total exceder 1/30 do valor do IAS.",
+    "depois": "###### Artigo 2.º — Prorrogação\n\n1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2010, sem prejuízo do disposto no número seguinte.\n\n2 - A prorrogação prevista no número anterior não se aplica às situações de prorrogação da atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego ocorridas durante o ano de 2009.\n\n3 - O montante diário do subsídio referido no número anterior corresponde a 1/30 de 60 % do valor do indexante dos apoios sociais (IAS), sem prejuízo do disposto no número seguinte.\n\n4 - O montante diário do subsídio é majorado em 1/30 de 10 % do IAS por cada filho que integre o agregado familiar do titular da prestação, não podendo o montante diário total exceder 1/30 do valor do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2010-610469), publicado em 2010-03-09.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 68/2009, de 20 de Março, passa a ter a seguinte redacção.\n\n«Artigo 2.º\n\n[...]\n\n1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2010, sem prejuízo do disposto no número seguinte.\n\n2 - A prorrogação prevista no número anterior não se aplica às situações de prorrogação da atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego ocorridas durante o ano de 2009.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:605538:por",
+    "alterador": "pt:dre:610469:por"
+  }
+]

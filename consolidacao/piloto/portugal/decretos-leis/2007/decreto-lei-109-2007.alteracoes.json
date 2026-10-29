@@ -1,0 +1,62 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a actividade de disponibilização dos meios aéreos necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - Para efeitos do disposto no número anterior, a EMA tem a obrigação de locar os meios aéreos e de contratar os demais recursos técnicos e humanos a eles associados de que não disponha e que sejam necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, respeitando as regras de contratação pública e de boa gestão aplicáveis às empresas do sector empresarial do Estado.\n\n3 - O preço a cobrar pelos serviços prestados pela EMA através dos meios e recursos previstos no número anterior deve corresponder aos custos incorridos com a locação e contratação dos mesmos.",
+    "depois": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "excerto": "O artigo 3.º do Decreto-Lei n.º 109/2007, de 13 de abril, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - [Revogado].\n\n3 - [Revogado].»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519626:por",
+    "alterador": "pt:dre:260397:por"
+  },
+  {
+    "artigo": "ANEXO — (a que se refere o n.º 2 do artigo 1.º)::3.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA, S. A., o direito exclusivo de exercer a actividade de disponibilização dos meios aéreos necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - Para efeitos do disposto no número anterior, a EMA, S. A., tem a obrigação de locar os meios aéreos e de contratar os demais recursos técnicos e humanos a eles associados de que não disponha e que sejam necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, respeitando as regras de contratação pública e de boa gestão aplicáveis às empresas do sector empresarial do Estado.",
+    "depois": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA, S.A., o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - [Revogado].\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "excerto": "O artigo 3.º dos Estatutos da EMA- Empresa de Meios Aéreos, S.A., publicados em anexo ao Decreto-Lei n.º 109/2007, de 13 de abril, passa a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - É atribuído à EMA, S.A., o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - [Revogado].»",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:519626:por",
+    "alterador": "pt:dre:260397:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "depois": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - (Revogado.)\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "excerto": "São revogados os n.os 2 e 3 do artigo 3.º do Decreto-Lei n.º 109/2007, de 13 de abril, e o n.º 2 do artigo 3.º dos Estatutos da EMA- Empresa de Meios Aéreos, S.A., publicados em anexo ao mesmo decreto-lei.",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:519626:por",
+    "alterador": "pt:dre:260397:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - (Revogado.)\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "depois": "###### Artigo 3.º — Direito exclusivo\n\n1 - É atribuído à EMA o direito exclusivo de exercer a atividade de disponibilização dos meios aéreos próprios do Estado necessários à prossecução das missões referidas no n.º 1 do artigo anterior pelas entidades públicas para o efeito competentes, bem como dos demais recursos técnicos e humanos a eles associados, sem prejuízo da intervenção de outros meios aéreos do Estado, nos termos adequadamente definidos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 57/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2013-260397), publicado em 2013-04-19.",
+    "excerto": "São revogados os n.os 2 e 3 do artigo 3.º do Decreto-Lei n.º 109/2007, de 13 de abril, e o n.º 2 do artigo 3.º dos Estatutos da EMA- Empresa de Meios Aéreos, S.A., publicados em anexo ao mesmo decreto-lei.",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:519626:por",
+    "alterador": "pt:dre:260397:por"
+  }
+]

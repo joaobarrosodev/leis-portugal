@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nAs condições de exploração dos transportes referidos nos artigos 5.º e 6.º, quando classificados de concorrentes ao caminho de ferro, deverão ser objecto de acordos a celebrar entre as entidades que os explorem e a concessionária da rede ferroviária nacional, sujeitos a homologação do Ministro das Comunicações, o qual poderá, na falta de acordo ou quando ele não for homologado, definir por despacho tais condições.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 330/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1972-676625) e [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130) e [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), publicado em 1994-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631384:por",
+    "alterador": "pt:dre:676625:por;pt:dre:161130:por;pt:dre:250664:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1. Os transportadores residentes que efectuem transportes internacionais pagarão apenas os impostos fixados para os transportes internos.\n\n2. O cálculo do imposto de camionagem a pagar pela realização de transportes regulares não turísticos de passageiros será feito com base apenas no percurso efectuado em território nacional.\n\n3. Os impostos incidentes sobre os veículos, calculados nos termos do n.º 1, serão reduzidos a 50 por cento sempre que se trate de veículos licenciados exclusivamente para a realização de transportes internacionais.\n\n4. Para efeitos da aplicação dos n.os 1 e 3 do presente artigo, consideram-se os veículos licenciados exclusivamente para transportes internacionais públicos de mercadorias como não sujeitos a qualquer limite de raio de acção.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 330/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1972-676625) e [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130) e [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), publicado em 1994-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631384:por",
+    "alterador": "pt:dre:676625:por;pt:dre:161130:por;pt:dre:250664:por"
+  }
+]

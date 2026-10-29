@@ -1,0 +1,76 @@
+---
+id: pt:dre:387999:por
+title: Decreto Regulamentar Regional n.º 5/81/M
+original: data/regional/madeira/decretos-regulamentares-regionais/1981/decreto-regulamentar-regional-5-81-m.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:389634:por
+    title: Decreto Legislativo Regional n.º 9/93/M
+    publication_date: '1993-07-15'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto Regulamentar Regional n.º 5/81/M
+
+Dispõe o artigo 60.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, que a sua aplicação às regiões autónomas será feita mediante decreto regulamentar regional.
+
+Assim:
+
+O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+O [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, aplica-se à Região Autónoma da Madeira, com as adaptações e especificações constantes dos artigos seguintes.
+
+###### Artigo 2.º
+
+A competência atribuída pelos artigos 36.º, 37.º, 44.º, 45.º, 46.º, 50.º, 51.º, 53.º, 55.º, 56.º, 57.º e 59.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443) aos serviços centrais de apoio à gestão de pessoal na Administração Local e à Comissão de Coordenação Regional (CCR) ou ao seu presidente é cometida, na Região Autónoma da Madeira, à Direcção Regional da Administração Pública.
+
+###### Artigo 3.º
+
+1 - As provas escritas de concurso de habilitação para lugares do quadro geral administrativo realizadas na Região serão acompanhadas por uma comissão composta pelo director do Serviço de Administração Local, que presidirá, e por mais dois elementos designados pelo Presidente do Governo Regional, sendo um chefe de secretaria municipal.
+
+2 - Na falta, impedimento ou suspeição de qualquer dos membros da comissão, competirá ao Presidente do Governo proceder à designação do substituto.
+
+###### Artigo 4.º
+
+Da lista a que se refere o n.º 4 do artigo 46.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443) poderão os candidatos recorrer hierarquicamente para o Presidente do Governo Regional nos dez dias seguintes ao da sua publicação.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 9/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1993-389634), publicado em 1993-07-15.
+
+###### Artigo 6.º
+
+1 - Em caso de vacatura do cargo de chefe de secretaria de um município e até ao seu provimento nos termos legais, poderá o chefe de secretaria de um município contíguo, com o seu acordo e o das câmaras municipais respectivas, exercer cumulativamente as suas próprias funções e as do lugar vago, com direito ao vencimento deste ou ao da letra da escala da função pública imediatamente superior à correspondente ao cargo de que é titular, consoante lhe for mais favorável.
+
+2 - As câmaras municipais acordarão entre si os termos em que se processará o exercício das funções segundo o regime especial referido no número anterior, bem como a distribuição dos respectivos encargos.
+
+3 - O estatuído neste artigo só se aplica aos municípios rurais.
+
+###### Artigo 7.º
+
+Mantém-se em vigor, relativamente aos funcionários providos em cargos do quadro geral administrativo, o disposto no artigo 8.º do [Decreto-Lei n.º 36454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36454-1947-182406), de 4 de Agosto de 1947, com a restrição introduzida pelo [Decreto-Lei n.º 211/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1973-421993), de 9 de Maio.
+
+###### Artigo 8.º
+
+As dúvidas que se suscitem na execução do presente diploma serão resolvidas por despacho do Presidente do Governo Regional, ouvida a Direcção Regional da Administração Pública.
+
+###### Artigo 9.º
+
+Este decreto regulamentar produz efeitos a partir do dia seguinte ao da sua publicação.
+
+Aprovado em Plenário do Governo Regional em 31 de Dezembro de 1980.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 4 de Março de 1981.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

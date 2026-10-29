@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º\n\n1 - Todas as instituições, estabelecimentos ou serviços sob tutela ou superintendência dos órgãos de Governo próprio da Região Autónoma da Madeira, à esquerda do mastro destinado à Bandeira Nacional, colocarão um outro mastro destinado à bandeira da Região Autónoma.\n\n2 - A bandeira da Região Autónoma deverá ser hasteada com a Bandeira Nacional.",
+    "depois": "###### Artigo 5.º\n\n1 - Todas as instituições, estabelecimentos ou serviços sob tutela ou superintendência dos órgãos de Governo próprio da Região Autónoma da Madeira, à esquerda do mastro destinado à Bandeira Nacional, colocarão um outro mastro destinado à bandeira da Região Autónoma.\n\n2 - A Bandeira da Região Autónoma da Madeira deverá ser hasteada nas instalações e actividades dependentes dos órgãos do Governo da República na Região, nos termos definidos pelo número anterior e pelos competentes órgãos, em lugar subalterno ao reservado à Bandeira Nacional.\n\n3 - A Bandeira da Região Autónoma deverá ser hasteada com a Bandeira Nacional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2003-659928), publicado em 2003-08-14.",
+    "excerto": "O artigo 5.º do Decreto Regional n.º 30/78/M, de 12 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n1 - ...\n\n2 - A Bandeira da Região Autónoma da Madeira deverá ser hasteada nas instalações e actividades dependentes dos órgãos do Governo da República na Região, nos termos definidos pelo número anterior e pelos competentes órgãos, em lugar subalterno ao reservado à Bandeira Nacional.\n\n3 - A Bandeira da Região Autónoma deverá ser hasteada com a Bandeira Nacional.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329671:por",
+    "alterador": "pt:dre:659928:por"
+  }
+]

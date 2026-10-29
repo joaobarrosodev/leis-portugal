@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\n1 - Aos professores universitários e aos orientadores responsáveis por cada núcleo de estágio dos ramos de formação educacional das faculdades de ciências e dos bacharelatos e licenciaturas em ensino passa a ser devida a gratificação mensal prevista no n.º 2 do artigo 32.º do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), paga durante 12 meses do ano. Esta gratificação não é cumulável com o subsídio de férias e com o 13.º mês.\n\n2 - Aos professores universitários e aos orientadores referidos no número anterior é aplicável o disposto no n.º 1 do artigo 4.º do presente diploma.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 37/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1990-335255), publicado em 1990-01-26.",
+    "excerto": "Art. 4.º É revogado o artigo 6.º do Decreto-Lei n.º 78/82, de 9 de Março.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:599949:por",
+    "alterador": "pt:dre:335255:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Competência\n\nA competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída ao conservador e, sucessivamente, ao respectivo adjunto, aos substitutos do conservador, pela ordem por que foram designados, e aos demais ajudantes da conservatória, por ordem de categoria funcional e de classe pessoal.",
+    "depois": "###### Artigo 2.º — Competência\n\n1 - A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída a qualquer conservador dos registos, por acordo com os nubentes e independentemente da área de circunscrição territorial a que o conservador pertença.\n\n2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.",
+    "excerto": "Os artigos 2.º e 3.º do Decreto-Lei n.º 236/2001, de 30 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída a qualquer conservador dos registos, por acordo com os nubentes e independentemente da área de circunscrição territorial a que o conservador pertença.\n\n2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.\n\nArtigo 3.º\n\n[...]\n\n1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - ...»",
+    "artigo_alterador": "8.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631841:por",
+    "alterador": "pt:dre:642527:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Substituição\n\n1 - Quando o casamento não seja celebrado pelo conservador, deve o mesmo designar o respectivo substituto para esse efeito, de acordo com a ordem de preferência estabelecida no artigo anterior.\n\n2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.",
+    "depois": "###### Artigo 3.º — Substituição\n\n1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.",
+    "excerto": "Os artigos 2.º e 3.º do Decreto-Lei n.º 236/2001, de 30 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída a qualquer conservador dos registos, por acordo com os nubentes e independentemente da área de circunscrição territorial a que o conservador pertença.\n\n2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.\n\nArtigo 3.º\n\n[...]\n\n1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:\n\na) Conservador auxiliar;\n\nb) Adjunto de conservador;\n\nc) Substitutos do conservador, pela ordem por que foram designados;\n\nd) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.\n\n2 - ...»",
+    "artigo_alterador": "8.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631841:por",
+    "alterador": "pt:dre:642527:por"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\nd) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 5-A/97, de 4 de abril;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:479666:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Universidade de Trás-os-Montes e Alto Douro;\n\nb) Instituto Politécnico de Bragança;\n\nc) Direcção-Geral do Turismo;\n\nd) Director-geral de Hidráulica, Engenharia Rural e Ambiente;\n\ne) Instituto Português do Património Arquitectónico e Arqueológico;\n\nf) Comissão de Coordenação da Região do Norte;\n\ng) Direcção Regional de Agricultura de Trás-os-Montes;\n\nh) Direcção Regional do Ambiente e Recursos Naturais do Norte;\n\ni) Câmara Municipal de Bragança;\n\nj) Câmara Municipal de Vinhais;\n\nl) Juntas de freguesia da área do Parque Natural consideradas em conjunto e em sistema rotativo, com mandato de um ano;\n\nm) Associação de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.\n\n3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos membros.",
+    "depois": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\nd) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 5-A/97, de 4 de abril;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479666:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividade, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;\n\ne) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.",
+    "depois": "###### Artigo 9.º — Competências do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\nd) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 5-A/97, de 4 de abril;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:479666:por",
+    "alterador": "pt:dre:67198365:por"
+  }
+]

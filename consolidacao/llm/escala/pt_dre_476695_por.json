@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:476695:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução da Lei n.º 2/81 anuncia nova redacção do n.º 2 do artigo 5.º mas o texto da nova redacção não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

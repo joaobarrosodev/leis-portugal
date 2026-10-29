@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:606481:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 (aditamento do art. 24.º): a instrução só tem a frase introdutória, sem a nova redação; instrução 2 substitui o anexo 1 (não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

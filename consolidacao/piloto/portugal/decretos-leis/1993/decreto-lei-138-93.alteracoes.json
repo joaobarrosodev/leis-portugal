@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 3.º — Director\n\nO DEB é dirigido por um director, coadjuvado no exercício das suas funções por um director-adjunto, equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.",
+    "depois": "###### Artigo 3.º — Director\n\nO DEB é dirigido por um director, coadjuvado no exercício das suas funções por dois directores-adjuntos, equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 134/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1996-405369), publicado em 1996-08-13.",
+    "excerto": "O artigo 3.º do Decreto-Lei n.º 138/93, de 26 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\nDirector\n\nO DEB é dirigido por um director, coadjuvado no exercício das suas funções por dois directores-adjuntos, equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665353:por",
+    "alterador": "pt:dre:405369:por"
+  }
+]

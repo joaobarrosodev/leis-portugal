@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Remuneração compensatória\n\n1 - O Governo Regional tomará as medidas necessárias que garantam uma remuneração compensatória igual ao montante da redução remuneratória total ilíquida efectuada, por via do diploma do Orçamento do Estado, em relação aos trabalhadores da administração regional e dos hospitais E. P. E., cujas remunerações totais ilíquidas mensais, nos termos previstos naquele diploma orçamental, se situem entre (euro) 1500 e (euro) 2000.\n\n2 - Aos trabalhadores da administração regional e dos hospitais E. P. E., cuja remuneração ilíquida se situe acima dos (euro) 2000 e que, por força da aplicação da redução remuneratória efectuada por via do Orçamento do Estado, resulte uma remuneração total ilíquida inferior a (euro) 2000, o Governo Regional tomará, também, as medidas necessárias que garantam uma remuneração compensatória tendente a assegurar a percepção daquele valor, em termos totais ilíquidos.\n\n3 - Os encargos decorrentes da implementação da remuneração compensatória serão suportados pela dotação provisional.",
+    "depois": "###### Artigo 7.º — Remuneração compensatória\n\n1 - O Governo Regional tomará as medidas necessárias que garantam uma remuneração compensatória igual ao montante da redução remuneratória total ilíquida efectuada, por via do diploma do Orçamento do Estado, em relação aos trabalhadores da administração regional e dos hospitais E. P. E., cujas remunerações totais ilíquidas mensais, nos termos previstos naquele diploma orçamental, se situem entre (euro) 1500 e (euro) 2000.\n\n2 - Aos trabalhadores da administração regional e dos hospitais E. P. E., cuja remuneração ilíquida se situe acima dos (euro) 2000 e que, por força da aplicação da redução remuneratória efectuada por via do Orçamento do Estado, resulte uma remuneração total ilíquida inferior a (euro) 2000, o Governo Regional tomará, também, as medidas necessárias que garantam uma remuneração compensatória tendente a assegurar a percepção daquele valor, em termos totais ilíquidos.\n\n3 - Os encargos decorrentes da implementação da remuneração compensatória serão suportados pela dotação provisional.\n\n4 - O disposto no n.º 1, bem como as disposições regulamentares associadas, mantêm-se em vigor até à data do início da produção de efeitos do diploma que aprova o Orçamento da Região Autónoma dos Açores para o ano de 2014.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.",
+    "excerto": "4 - O artigo 7.º do Decreto Legislativo Regional n.º 34/2010/A, de 29 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - (...)\n\n2 - (...)\n\n3 - (...)\n\n4 - O disposto no n.º 1, bem como as disposições regulamentares associadas, mantêm-se em vigor até à data do início da produção de efeitos do diploma que aprova o Orçamento da Região Autónoma dos Açores para o ano de 2014.»",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:306589:por",
+    "alterador": "pt:dre:570685:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 12.º — Destino das coimas\n\nO produto das coimas tem o destino estabelecido no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.",
+    "depois": "###### Artigo 12.º — Destino das coimas\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.",
+    "excerto": "1 - É revogado o artigo 12.º do Decreto-Lei n.º 324/95, de 29 de Novembro, relativo à protecção da segurança e da saúde dos trabalhadores nas indústrias extractivas por perfuração a céu aberto e subterrâneas.",
+    "artigo_alterador": "15.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627210:por",
+    "alterador": "pt:dre:345124:por"
+  }
+]

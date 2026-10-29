@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:578730:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decreto n.º 285/71 sobre o artigo 14.º e Decreto do Governo n.º 84/83 sobre o artigo 9.º) não trazem o texto da nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

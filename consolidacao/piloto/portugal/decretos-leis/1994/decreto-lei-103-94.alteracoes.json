@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 5.º — Taxa contributiva\n\nO cálculo das contribuições devidas em função das pessoas abrangidas por este diploma e pelo [Decreto-Lei n.º 327/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1993-653123), de 25 de Setembro, e tendo em atenção os princípios estabelecidos no [Decreto-Lei n.º 326/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1993-653121), de 25 de Setembro, é efectuado pela aplicação, à base de incidência estabelecida, da taxa de 32%, correspondendo 22% às entidades contribuintes e 10% aos beneficiários.",
+    "depois": "###### Artigo 5.º — Taxa contributiva\n\nNone - O cálculo das contribuições devidas em função das pessoas abrangidas por este diploma e pelo Decreto-Lei n.º 327/93, de 25 de Setembro, é efectuado pela aplicação, à base de incidência estabelecida, da taxa de 31,25%, correspondendo 21,25% às entidades contribuintes e 10% aos beneficiários.\n\n> Alterado pelo/a Artigo 26.º do/a [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), publicado em 1996-03-23.",
+    "excerto": "O artigo 5.º do Decreto-Lei n.º 103/94, de 20 de Abril, passa a ter a seguinte redacção:\n\n«O cálculo das contribuições devidas em função das pessoas abrangidas por este diploma e pelo Decreto-Lei n.º 327/93, de 25 de Setembro, é efectuado pela aplicação, à base de incidência estabelecida, da taxa de 31,25%, correspondendo 21,25% às entidades contribuintes e 10% aos beneficiários.»",
+    "artigo_alterador": "26.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      ""
+    ],
+    "diploma": "pt:dre:264700:por",
+    "alterador": "pt:dre:477288:por"
+  }
+]

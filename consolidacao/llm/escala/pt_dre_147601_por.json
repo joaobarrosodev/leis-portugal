@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:147601:por",
+  "artigos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 369/74 revoga o diploma com excepção dos artigos 1.º a 5.º; o artigo 1.º mantém-se inalterado e os restantes artigos revogados não constam do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

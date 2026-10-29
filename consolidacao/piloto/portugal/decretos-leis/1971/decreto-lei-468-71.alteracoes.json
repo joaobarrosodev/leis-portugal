@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — (Noção de margem; sua largura)\n\n1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.\n\n2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.\n\n3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.\n\n4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\n5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.\n\n6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil.",
+    "depois": "###### Artigo 3.º — Noção de margem; sua largura\n\n1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.\n\n2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.\n\n3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.\n\n4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\n5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.\n\n6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil.\n\n7 - Nas Regiões Autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estenderá até essa via.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488) e [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721) e [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631400:por",
+    "alterador": "pt:dre:407488:por;pt:dre:662721:por;pt:dre:553431:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — (Noção de zona adjacente; sua largura)\n\n1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.\n\n2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma",
+    "depois": "###### Artigo 4.º — Noção de zona adjacente; sua largura\n\n1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.\n\n2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma\n\n3 - Nas Regiões Autónomas, se a linha limite do leito atingir uma estrada regional ou municipal, a zona adjacente estende-se desde o limite do leito até à linha convencional definida nos termos do número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488) e [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721) e [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:631400:por",
+    "alterador": "pt:dre:407488:por;pt:dre:662721:por;pt:dre:553431:por"
+  }
+]

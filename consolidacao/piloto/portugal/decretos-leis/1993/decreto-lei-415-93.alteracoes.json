@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 9.º — Cursos actualmente ministrados\n\n1 - Relativamente aos alunos que já iniciaram o seu curso, os planos de estudos dos cursos ministrados nas Escolas referidas no n.º 1 do artigo 1.º manter-se-ão durante o ano lectivo de 1993-1994.\n\n2 - Por portaria conjunta dos Ministros da Educação e da Saúde serão fixadas as unidades curriculares de transição dos actuais planos de estudos para os cursos que conferem o grau de bacharelato.\n\n3 - Os cursos já ministrados e cujos planos de estudos correspondam substancialmente aos que forem aprovados nos termos do artigo 3.º conferem o grau de bacharelato.",
+    "depois": "###### Artigo 9.º — Cursos actualmente ministrados\n\n1 - Relativamente aos alunos que já iniciaram o seu curso, os planos de estudos dos cursos ministrados nas Escolas referidas no n.º 1 do artigo 1.º manter-se-ão durante o ano lectivo de 1993-1994.\n\n2 - Por portaria conjunta dos Ministros da Educação e da Saúde serão fixadas as unidades curriculares de transição dos actuais planos de estudos para os cursos que conferem o grau de bacharelato.\n\n3 - Os cursos das escolas técnicas dos serviços de saúde cujos planos de estudos correspondam substancialmente aos dos cursos de bacharelato criados ao abrigo do artigo 3.º são equiparados ao grau de bacharel nos termos dos números seguintes.\n\n4 - A produção de efeitos da equiparação a que se refere o número anterior está condicionada ao prévio registo da mesma na escola superior que sucedeu àquela que concedeu o diploma.\n\n5 - Por portaria conjunta dos Ministros da Educação e da Saúde:\n\na) É fixado, sobre proposta fundamentada dos conselhos científicos das escolas superiores de tecnologia da saúde, o elenco de cursos abrangidos pelo n.º 3;\n\nb) São aprovadas as regras a que deve obedecer o registo a que se refere o n.º 4.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), publicado em 1997-10-15.",
+    "excerto": "O artigo 9.º do Decreto-Lei n.º 415/93, de 23 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os cursos das escolas técnicas dos serviços de saúde cujos planos de estudos correspondam substancialmente aos dos cursos de bacharelato criados ao abrigo do artigo 3.º são equiparados ao grau de bacharel nos termos dos números seguintes.\n\n4 - A produção de efeitos da equiparação a que se refere o número anterior está condicionada ao prévio registo da mesma na escola superior que sucedeu àquela que concedeu o diploma.\n\n5 - Por portaria conjunta dos Ministros da Educação e da Saúde:\n\na) É fixado, sobre proposta fundamentada dos conselhos científicos das escolas superiores de tecnologia da saúde, o elenco de cursos abrangidos pelo n.º 3;\n\nb) São aprovadas as regras a que deve obedecer o registo a que se refere o n.º 4.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:541444:por",
+    "alterador": "pt:dre:667764:por"
+  }
+]

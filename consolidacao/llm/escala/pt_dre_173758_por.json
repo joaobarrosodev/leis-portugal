@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:173758:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (bases I, II, V, XXVI e muitas outras substituídas, bases aditadas, epígrafes de capítulos) não trazem o texto da nova redação; a revogação da alínea f) do n.º 1 da base II fica absorvida por redações posteriores da base II não fornecidas; revogações de 2015 incidem em bases cujo texto vigente é desconhecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

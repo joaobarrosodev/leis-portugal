@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º\n\nO prazo da concessão é de 30 anos, podendo ser renovado por igual período, desde que nisso acordem concedente e concessionária até 1 ano antes do termo da concessão.",
+    "depois": "###### Artigo 2.º\n\nO prazo de concessão é de 50 anos, podendo ser prorrogado por um período adicional de até 10 anos, desde que nisso acordem concedente e concessionária até 1 ano antes do termo da concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2019-123891091), publicado em 2019-08-12.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 384-A/99, de 24 de setembro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\nO prazo de concessão é de 50 anos, podendo ser prorrogado por um período adicional de até 10 anos, desde que nisso acordem concedente e concessionária até 1 ano antes do termo da concessão.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:662081:por",
+    "alterador": "pt:dre:123891091:por"
+  }
+]

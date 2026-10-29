@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral da Indústria, adiante designada por DGI, é um serviço do Ministério da Indústria e Energia, dotado de autonomia administrativa, responsável pelo estudo, concepção e execução das políticas no âmbito da indústria.\n\nSão atribuições da DGI:\n\na) Contribuir para a definição e aplicação da política industrial e acompanhar a execução das medidas dela decorrentes;\n\nb) Acompanhar e analisar as estratégias industriais de outros países, tendo em conta as perspectivas de crescimento dos principais mercados e as tendências e comportamentos dos principais concorrentes da indústria nacional;\n\nc) Manter um conhecimento actualizado da actividade industrial e das condições de funcionamento da indústria;\n\nd) Contribuir para o desenvolvimento, modernização e adaptação da indústria portuguesa à concorrência internacional e acompanhar e colaborar no apoio aos movimentos de reestruturação do tecido industrial do País;\n\ne) Colaborar, em articulação com o Instituto Nacional de Engenharia e Tecnologia Industrial, no apoio à investigação industrial orientada para o mercado, visando a inovação e o desenvolvimento da competitividade das empresas portuguesas;\n\nf) Apoiar técnica e tecnologicamente as unidades industriais do sector, visando a melhoria das condições de laboração, dos processos de fabrico e dos métodos de aplicação dos produtos nos mercados;\n\ng) Propor a legislação reguladora da actividade industrial e velar pelo seu cumprimento;\n\nh) Cooperar na elaboração de normas, regulamentos e especificações técnicas relativos a instalações e produtos;\n\ni) Participar na definição de políticas nacionais e comunitárias com incidência na indústria, nomeadamente as políticas energética, ambiental, comercial e de investigação e desenvolvimento;\n\nj) Promover o conhecimento, pelas empresas industriais, das medidas, tendências e factores que possam favorecer a respectiva competitividade;\n\nl) Participar na organização e coordenação da informação para a indústria e promover a sua utilização e difusão;\n\nm) Elaborar e divulgar, junto das delegações regionais da Indústria e Energia, as orientações e directrizes necessárias ao desenvolvimento harmonioso das funções relativas à administração industrial nas diferentes áreas geográficas e promover acções de acompanhamento destas actividades, nomeadamente através da análise e avaliação da adequação e eficiência da informação de controlo utilizada;\n\nn) Promover e desenvolver acções de formação e de apoio no âmbito da política industrial, com especial relevo nos factores determinantes da competitividade e da produtividade.",
+    "depois": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19.",
+    "excerto": "São revogados:\n\na) O artigo 1.º do Decreto Regulamentar n.º 8/93, de 19 de Março;",
+    "artigo_alterador": "25.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634493:por",
+    "alterador": "pt:dre:570303:por"
+  }
+]

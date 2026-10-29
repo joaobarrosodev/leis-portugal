@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Actualizações\n\nOs valores das taxas previstos na presente portaria são automaticamente actualizados, com arredondamento à décima imediatamente seguinte, a partir de 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística, quando esta for positiva.",
+    "depois": "###### Artigo 2.º — Atualizações\n\nOs valores das taxas previstos na presente portaria são automaticamente atualizados, com arredondamento à centésima imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística, quando esta for positiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/portaria/51-2014-572377), publicado em 2014-02-28.",
+    "excerto": "O artigo 2.º da Portaria n.º 1307/2010, de 23 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\nAtualizações\n\nOs valores das taxas previstos na presente portaria são automaticamente atualizados, com arredondamento à centésima imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística, quando esta for positiva.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:306471:por",
+    "alterador": "pt:dre:572377:por"
+  }
+]

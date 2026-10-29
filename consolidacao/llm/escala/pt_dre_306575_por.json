@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:306575:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - As referências feitas na Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela [Lei n.º 28/2003](https://diariodarepublica.pt/dr/detalhe/lei/28-2003-651724), de 30 de Julho, e alterada pela [Lei n.º 13/2010](https://diariodarepublica.pt/dr/detalhe/lei/13-2010-334321), de 19 de Julho, ao salário mínimo nacional consideram-se reportadas ao indexante de apoios sociais, abreviadamente designado por IAS, criado pela [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de Dezembro, como valor de referência da subvenção pública.\n\n4 - O disposto no n.º 8 do artigo 5.º da [Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/lei/19-2003-692850), de 20 de Junho, introduzido pela presente lei, tem natureza interpretativa."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 3 - As referências feitas na Lei de Organização e Funcionamento dos Serviços da ",
+    "3.º: parágrafo que não está no alterador nem no original: 4 - O disposto no n.º 8 do artigo 5.º da [Lei n.º 19/2003](https://diariodarepub"
+  ]
+}

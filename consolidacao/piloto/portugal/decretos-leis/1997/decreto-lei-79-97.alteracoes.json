@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º\n\n1 - As acções da EDA, S. A., pertencem à Região Autónoma dos Açores e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.\n\n3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.\n\n4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade.",
+    "depois": "###### Artigo 3.º\n\n1 - (Revogado.)\n\n2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.\n\n3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.\n\n4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 243/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2004-350150), publicado em 2004-12-31.",
+    "excerto": "É revogado o n.º 1 do artigo 3.º do Decreto-Lei n.º 79/97, de 8 de Abril.",
+    "artigo_alterador": "17.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:457030:por",
+    "alterador": "pt:dre:350150:por"
+  }
+]

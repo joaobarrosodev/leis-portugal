@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:645280:por",
+  "artigos": [],
+  "nao_aplicavel": "A Lei n.º 26/96 dá nova redação a um «artigo 3.º» sobre delimitação de áreas urbanas que não corresponde ao artigo 3.º recebido (Definições); alvo ambíguo (provavelmente artigo do próprio decreto-lei e não do texto republicado), não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

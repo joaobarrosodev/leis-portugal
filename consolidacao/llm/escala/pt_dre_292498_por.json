@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:292498:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Serviços",
+      "texto": "O CNP dispõe dos seguintes serviços:\n\na) Direcção de Serviços Administrativos e de Pessoal;\n\nb) Direcção de Serviços Financeiros e Contabilidade;\n\nc) Direcção de Serviços de Organização, Planeamento e Gestão;\n\nd) Direcção de Serviços de Informática;\n\ne) Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações;\n\nf) Direcção de Serviços de Benefícios Diferidos I;\n\ng) Direcção de Serviços de Benefícios Diferidos II;\n\nh) Direcção de Serviços de Benefícios Diferidos III;\n\ni) Direcção de Serviços de Benefícios Diferidos IV;\n\nj) Divisão de Relações Públicas e Documentação;\n\nl) Direcção de Serviços de Auditoria;\n\nm) Serviços de Tradução."
+    }
+  ],
+  "nao_aplicavel": "Artigos 9.º a 12.º, 17.º, 19.º, 21.º e 22.º não constam do original fornecido; não aplicados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

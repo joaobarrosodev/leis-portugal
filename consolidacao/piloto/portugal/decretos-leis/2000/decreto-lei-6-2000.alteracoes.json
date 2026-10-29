@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º\n\nOs funcionários das carreiras de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, tem direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.",
+    "depois": "###### Artigo 1.º\n\nOs funcionários das carreiras de vigilante-recepcionista, de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, têm direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 153/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2002-153105), publicado em 2002-05-28.",
+    "excerto": "O artigo 1.º do Decreto-Lei n.º 6/2000, de 29 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nOs funcionários das carreiras de vigilante-recepcionista, de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, têm direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405938:por",
+    "alterador": "pt:dre:153105:por"
+  }
+]

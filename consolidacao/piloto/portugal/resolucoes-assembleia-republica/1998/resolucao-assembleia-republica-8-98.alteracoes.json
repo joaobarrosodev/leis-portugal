@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 11.º — Alteração do quadro de pessoal\n\n1 - Ao quadro de pessoal da Assembleia da República, aprovado pela [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 1 de Julho, com as alterações introduzidas pela [Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), de 17 de Agosto, são acrescentadas as carreiras criadas pelos artigos 5.º e 8.º da presente resolução.\n\n2 - São fixados, por carreira, os seguintes lugares:\n\n1) Técnico superior parlamentar ... 142\n\na) Arquitectura ... 2\n\nb) Arquivo ... 6\n\nc) Assuntos culturais ... 2\n\nd) Áudio-visual ... 3\n\ne) Biblioteca e documentação ... 21\n\nf) Conservador do Museu ... 2\n\ng) Economia ... 9\n\nh) Engenharia ... 3\n\ni) Gestão e administração pública ... 10\n\nj) Informática ... 15\n\nk) Jurídica ... 35\n\nl) Redacção ... 25\n\nm) Relações internacionais ... 5\n\nn) Relações públicas ... 2\n\no) Tradução ... 2\n\n2) Programador parlamentar ... 2\n\n3) Técnico parlamentar ... 25\n\n4):\n\nOperador parlamentar de sistemas ... 8\n\n2.ª classe, 1.ª classe, principal ... 6\n\nChefe ... 2\n\n5) Adjunto parlamentar ... 110\n\n3 - É acrescentado ao quadro de pessoal um lugar de zelador.\n\n4 - O quadro de pessoal é acrescido de três lugares de guarda de museu.\n\n5 - O número de lugares afecto a cada uma das áreas da carreira técnica superior parlamentar pode ser alterado por deliberação do Conselho de Administração, sob proposta do Secretário-Geral, sempre que tal não implique a alteração do número de lugares do quadro estabelecido nesta resolução para a respectiva carreira.",
+    "depois": "###### Artigo 11.º — Alteração do quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Resolução da Assembleia da República n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2003-650571), publicado em 2003-07-28.",
+    "excerto": "São revogados:\n\nb) O artigo 11.º da Resolução da Assembleia da República n.º 8/98, de 18 de Março;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:197366:por",
+    "alterador": "pt:dre:650571:por"
+  }
+]

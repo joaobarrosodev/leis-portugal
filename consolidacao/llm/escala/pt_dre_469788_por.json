@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:469788:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem o texto da nova redação (só a frase introdutória) (Lei 10/81, nova redação do diploma); não há instrução da Lei 76/2017.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

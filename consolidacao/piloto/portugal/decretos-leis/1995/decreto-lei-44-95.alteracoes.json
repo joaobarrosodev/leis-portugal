@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "20.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 20.º\n\n1 - Se o contrato de sociedade da Portugal Telecom previr a existência de acções a que correspondam direitos especiais, salvo o caso de acções com direito a dividendo prioritário, essas acções serão obrigatoriamente detidas, em maioria, pelo Estado ou por outros entes públicos.\n\n2 - A CN é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.",
+    "depois": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\nb) O artigo 20.º do Decreto-Lei n.º 44/95, de 22 de Fevereiro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:188691:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

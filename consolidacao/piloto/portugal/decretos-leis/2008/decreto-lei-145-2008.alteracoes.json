@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Extensão\n\nO artigo 4.º-A do [Decreto-Lei n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2003-483392), de 4 de Outubro, na redacção do presente decreto-lei, aplica-se aos contratos de prestação de serviços em veículos de pronto-socorro.",
+    "depois": "###### Artigo 2.º — Extensão\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), publicado em 2014-02-14.",
+    "excerto": "São revogados:\n\nb) O artigo 2.º do Decreto-Lei n.º 145/2008, de 28 de julho;",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:454779:por",
+    "alterador": "pt:dre:572451:por"
+  }
+]

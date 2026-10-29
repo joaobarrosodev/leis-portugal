@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:139722:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (aditamento do n.º 2 ao artigo 1.º, nova redacção dos artigos 5.º, n.º 3, e 6.º, n.º 2, aditamento dos artigos 6.º-A e 6.º-B, anexo) não trazem o texto da nova redacção.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

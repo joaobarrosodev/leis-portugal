@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:545650:por",
+  "artigos": [
+    {
+      "chave": "37.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Até à revisão dos diplomas que regulam os fundos autónomos, integrando as matérias relativas à afectação de receitas e respectiva gestão, mantêm-se em vigor os artigos 22.º e 23.º do [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), de 24 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 19 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+    }
+  ],
+  "nao_aplicavel": "O DL 117/2011 revoga todo o diploma com exceção do n.º 4 do artigo 37.º; só o artigo 37.º consta do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

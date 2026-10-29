@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º\n\n1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.\n\n2 - As competências atribuídas, no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), ao Ministro da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação.\n\n3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação.",
+    "depois": "###### Artigo 2.º\n\n1 - As referências feitas no [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos serviços centrais e regionais da administração da educação reportam-se, na administração regional autónoma, aos serviços da Secretaria Regional de Educação.\n\n2 - As competências atribuídas no Decreto-Lei n.º 6/2001, de 18 de Janeiro, na redacção dada pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, ao Ministério da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação, excepto a competência prevista na alínea b) do n.º 4 do artigo 13.º do mesmo diploma legal.\n\n3 - A competência para definir as orientações relativas à diversificação das ofertas curriculares atribuída, no n.º 3 do artigo 11.º do [Decreto-Lei n.º 6/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2001-338986), aos Ministros da Educação e do Trabalho e da Solidariedade pertence, na administração regional autónoma, ao Secretário Regional de Educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-673636), publicado em 2003-07-24.",
+    "excerto": "O artigo 2.º do Decreto Legislativo Regional n.º 26/2001/M, de 25 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - ...\n\n2 - As competências atribuídas no Decreto-Lei n.º 6/2001, de 18 de Janeiro, na redacção dada pelo Decreto-Lei n.º 209/2002, de 17 de Outubro, ao Ministério da Educação reportam-se, na administração regional autónoma, ao Secretário Regional de Educação, excepto a competência prevista na alínea b) do n.º 4 do artigo 13.º do mesmo diploma legal.\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:515634:por",
+    "alterador": "pt:dre:673636:por"
+  }
+]

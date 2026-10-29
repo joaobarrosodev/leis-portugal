@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 1.º\n\n1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno, com a área de 17,50 ha, inserida no Perímetro Florestal das Dunas de Mira, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior pertence ao município de Mira e destina-se à construção de um bairro de habitação social.\n\n3 - Se no prazo de um ano a contar da data da publicação do presente diploma não se concretizar o uso referido no número anterior, a área em causa será reintegrada no Perímetro Florestal das Dunas de Mira.",
+    "depois": "###### Artigo 1.º\n\n1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno, com a área de 17,50 ha, inserida no Perímetro Florestal das Dunas de Mira, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior pertence ao município de Mira e destina-se à construção de um bairro de habitação social.\n\n3 - Se no prazo de três anos a contar da entrada em vigor do presente diploma não se concretizar o uso referido no número anterior, a área em causa será reintegrada no Perímetro Florestal de Mira.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/decreto/10-2000-274231), publicado em 2000-05-17.",
+    "excerto": "O n.º 3 do artigo 1.º do Decreto n.º 7/97, de 16 de Janeiro, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - ...\n\n2 - ...\n\n3 - Se no prazo de três anos a contar da entrada em vigor do presente diploma não se concretizar o uso referido no número anterior, a área em causa será reintegrada no Perímetro Florestal de Mira.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:533223:por",
+    "alterador": "pt:dre:274231:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25% e 15% do vencimento a que tiverem direito, respectivamente, durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.",
+    "depois": "###### Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25 % e 15 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, respetivamente, durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.\n\n> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.",
+    "excerto": "Os artigos 5.º e 6.º do Decreto Legislativo Regional n.º 7/98/M, de 27 de abril, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25 % e 15 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, respetivamente, durante os 12 meses do ano.\n\n2 - [...].\n\nArtigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, são designados por despacho do Secretário Regional da Educação.\n\n2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.\n\n3 - O número de coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, é fixado por despacho do Secretário Regional da Educação.»",
+    "artigo_alterador": "61.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176345:por",
+    "alterador": "pt:dre:72991305:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios são nomeados pelo Secretário Regional de Educação, precedido de um processo de recrutamento e selecção assente na avaliação curricular e entrevista profissional com requisitos previamente publicados.\n\n2 - O exercício de funções dos coordenadores regionais, coordenadores de modalidade e coordenadores concelhios é fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado.",
+    "depois": "###### Artigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, são designados por despacho do Secretário Regional da Educação.\n\n2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.\n\n3 - O número de coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, é fixado por despacho do Secretário Regional da Educação.\n\n> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.",
+    "excerto": "Os artigos 5.º e 6.º do Decreto Legislativo Regional n.º 7/98/M, de 27 de abril, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25 % e 15 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, respetivamente, durante os 12 meses do ano.\n\n2 - [...].\n\nArtigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, são designados por despacho do Secretário Regional da Educação.\n\n2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.\n\n3 - O número de coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, é fixado por despacho do Secretário Regional da Educação.»",
+    "artigo_alterador": "61.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176345:por",
+    "alterador": "pt:dre:72991305:por"
+  }
+]

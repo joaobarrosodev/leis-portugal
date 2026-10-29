@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Liberação da caução\n\n1 - Nos contratos celebrados ou a celebrar ao abrigo do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, o dono da obra pode autorizar a liberação integral da caução, decorrido o prazo de três anos contados da data da recepção provisória da obra, sem prejuízo do disposto no n.º 3.\n\n2 - Nos contratos celebrados ou a celebrar ao abrigo do Código dos Contratos Públicos e do [Decreto Legislativo Regional n.º 34/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-454780), de 28 de Julho, em que as obrigações de garantia estejam sujeitas a um prazo superior a dois anos, o dono da obra pode autorizar a liberação integral da caução, decorrido o prazo de três anos contado da data da recepção provisória da obra, sem prejuízo do disposto no número seguinte.\n\n3 - A liberação da caução depende da inexistência de defeitos da prestação do co-contraente ou da correcção daqueles que hajam sido detectados até ao momento da liberação, sem prejuízo do contraente público poder decidir diferentemente, designadamente, por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.",
+    "depois": "###### Artigo 3.º — Liberação da caução\n\n1 - Nos contratos celebrados ou a celebrar ao abrigo do Decreto-Lei n.º 59/99, de 2 de março, do Código dos Contratos Públicos e do Decreto Legislativo Regional n.º 34/2008/A, de 28 de julho, o dono da obra pode autorizar a liberação integral da caução decorrido o prazo de um ano contado da data da receção provisória da obra, sem prejuízo do disposto no n.º 3.\n\n2 - (Revogado.)\n\n3 - A liberação da caução depende da inexistência de defeitos da prestação do co-contraente ou da correcção daqueles que hajam sido detectados até ao momento da liberação, sem prejuízo do contraente público poder decidir diferentemente, designadamente, por considerar que os defeitos identificados e não corrigidos são de pequena importância e não justificam a não liberação.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.",
+    "excerto": "São alterados os artigos 3.º e 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, que passam a ter a seguinte redação.\n\n«Artigo 3.º\n\n[...]\n\n1 - Nos contratos celebrados ou a celebrar ao abrigo do Decreto-Lei n.º 59/99, de 2 de março, do Código dos Contratos Públicos e do Decreto Legislativo Regional n.º 34/2008/A, de 28 de julho, o dono da obra pode autorizar a liberação integral da caução decorrido o prazo de um ano contado da data da receção provisória da obra, sem prejuízo do disposto no n.º 3.\n\n2 - (Revogado.)\n\n3 - ...\n\nArtigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2013.»",
+    "artigo_alterador": "23.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492731:por",
+    "alterador": "pt:dre:544588:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Duração\n\nO regime excepcional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de Dezembro de 2011.",
+    "depois": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2013.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.",
+    "excerto": "São alterados os artigos 3.º e 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, que passam a ter a seguinte redação.\n\n«Artigo 3.º\n\n[...]\n\n1 - Nos contratos celebrados ou a celebrar ao abrigo do Decreto-Lei n.º 59/99, de 2 de março, do Código dos Contratos Públicos e do Decreto Legislativo Regional n.º 34/2008/A, de 28 de julho, o dono da obra pode autorizar a liberação integral da caução decorrido o prazo de um ano contado da data da receção provisória da obra, sem prejuízo do disposto no n.º 3.\n\n2 - (Revogado.)\n\n3 - ...\n\nArtigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2013.»",
+    "artigo_alterador": "23.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492731:por",
+    "alterador": "pt:dre:544588:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2013.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.",
+    "depois": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2014.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), publicado em 2013-04-22.",
+    "excerto": "O artigo 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, na redação que lhe foi dada pelo artigo 23.º do Decreto Legislativo Regional n.º 3/2012/A, de 13 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2014.»",
+    "artigo_alterador": "23.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492731:por",
+    "alterador": "pt:dre:260390:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada de obras públicas celebrados até 31 de dezembro de 2014.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), publicado em 2013-04-22.",
+    "depois": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2014.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), publicado em 2013-04-22.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.",
+    "excerto": "O artigo 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, na redação que lhe foi dada pelo artigo 23.º do Decreto Legislativo Regional n.º 3/2012/A, de 13 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2014.»",
+    "artigo_alterador": "24.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492731:por",
+    "alterador": "pt:dre:570685:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2014.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), publicado em 2013-04-22.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.",
+    "depois": "###### Artigo 5.º — Duração\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2016.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), publicado em 2012-01-13.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), publicado em 2013-04-22.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 1/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2015-66041469), publicado em 2015-01-07.",
+    "excerto": "O artigo 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, na redação que lhe foi dada pelo artigo 24.º do Decreto Legislativo Regional n.º 2/2014/A, de 29 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2016.»",
+    "artigo_alterador": "23.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492731:por",
+    "alterador": "pt:dre:66041469:por"
+  }
+]

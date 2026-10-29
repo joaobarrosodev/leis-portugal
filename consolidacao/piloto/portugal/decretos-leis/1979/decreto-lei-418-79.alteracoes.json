@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nO artigo 6.º do Código do Registo Civil passa a ter a seguinte redacção:\n\nArt. 6.º - 1 - ...\n\n2 - ...\n\n3 - Em casos de manifesta urgência e provando os interessados que o registo do acto realizado no estrangeiro ainda não está integrado na Conservatória dos Registos Centrais, podem as certidões emitidas pelos serviços consulares ser aceites como prova do registo respectivo.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), publicado em 1995-06-06.",
+    "excerto": "São revogados:\n\nb) O artigo 1.º do Decreto-Lei n.º 418/79, de 17 de Outubro;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:364877:por",
+    "alterador": "pt:dre:521238:por"
+  }
+]

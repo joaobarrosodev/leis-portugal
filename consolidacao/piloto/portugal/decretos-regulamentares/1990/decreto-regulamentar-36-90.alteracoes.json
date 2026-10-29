@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — Remuneração dos coordenadores\n\nA remuneração base mensal do cargo de coordenador do Serviço do Provedor de Justiça será a correspondente à do cargo de director-geral da tabela de remunerações dos dirigentes da Administração Pública, aprovada pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.",
+    "depois": "###### Artigo 1.º — Remuneração dos coordenadores\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 279/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1993-354930), publicado em 1993-08-11.",
+    "excerto": "São revogados a Lei n.º 10/78, de 2 de Março, o Decreto-Lei n.º 314/88, de 8 de Setembro, o artigo 1.º do Decreto Regulamentar n.º 36/90, de 27 de Novembro, e a Portaria n.º 73/92, de 5 de Fevereiro.",
+    "artigo_alterador": "38.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:564800:por",
+    "alterador": "pt:dre:354930:por"
+  }
+]

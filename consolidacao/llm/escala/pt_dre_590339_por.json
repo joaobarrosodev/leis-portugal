@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:590339:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 (Lei n.º 60/90) altera mapas anexos; instrução 2 (Lei n.º 61/90) anuncia nova redação do artigo 6.º mas o texto da nova redação não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

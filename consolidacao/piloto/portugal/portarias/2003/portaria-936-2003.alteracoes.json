@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO::6.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 6.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento as seguintes entidades:\n\na) Projectos dos tipos A e B:\n\ni) Entidades sem fins lucrativos do sector agro-florestal;\n\nii) Empresas públicas, municipais, intermunicipais e de capitais maioritariamente públicos;\n\niii) Municípios e suas associações;\n\niv) Organismos da administração central;\n\nb) Projectos do tipo C:\n\ni) As entidades referidas na alínea anterior;\n\nii) Sociedades gestoras de fundos;\n\nc) Projectos do tipo D:\n\ni) Micro, pequenas e médias empresas do sector agro-florestal ou associações empresariais de qualquer destas categorias de empresas;\n\nii) Organismos da administração central;\n\nd) Projectos do tipo E:\n\ni) Sociedade gestora do Fundo de Contragarantia Mútuo;\n\nii) Outras entidades com particular vocação e experiência na gestão, desenvolvimento e implementação do sistema nacional de garantia mútua;\n\niii) Organismos da administração central;\n\ne) Projectos do tipo F - organismos da administração central.\n\n2 - Podem, ainda, beneficiar de ajudas no âmbito de projectos tipo B os proprietários de prédios rústicos ou de prédios urbanos integrados nos prédios mistos em que aqueles se integrem, que permutem esse prédios por unidades de participação do fundo imobiliário.",
+    "depois": "###### Artigo 6.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento as seguintes entidades:\n\na) Projectos dos tipos A e B:\n\ni) Entidades sem fins lucrativos do sector agro-florestal;\n\nii) Empresas públicas, municipais, intermunicipais e de capitais maioritariamente públicos;\n\niii) Municípios e suas associações;\n\niv) Organismos da administração central;\n\nb) Projectos do tipo C:\n\ni) As entidades referidas na alínea anterior;\n\nii) Sociedades gestoras de fundos;\n\nc) Projectos do tipo D:\n\ni) Micro, pequenas e médias empresas do sector agro-florestal ou associações empresariais de qualquer destas categorias de empresas;\n\nii) Organismos da administração central;\n\nd) Projectos do tipo E:\n\ni) Sociedade gestora do Fundo de Contragarantia Mútuo;\n\nii) Outras entidades com particular vocação e experiência na gestão, desenvolvimento e implementação do sistema nacional de garantia mútua;\n\niii) Organismos da administração central;\n\ne) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.\n\n2 - Podem, ainda, beneficiar de ajudas no âmbito de projectos tipo B os proprietários de prédios rústicos ou de prédios urbanos integrados nos prédios mistos em que aqueles se integrem, que permutem esse prédios por unidades de participação do fundo imobiliário.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.",
+    "excerto": "1.º Os artigos 6.º, 9.º e 11.º do Regulamento aprovado pela Portaria n.º 936/2003, de 4 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.\n\n2 - ...\n\nArtigo 9.º\n\n[...]\n\n...\n\na) ...\n\ni) ...\n\nii) ...\n\niii) ...\n\niv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;\n\nb) ...\n\nc) ...\n\nd) ...\n\nArtigo 11.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Tipo F - 15 milhões de euros.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510436:por",
+    "alterador": "pt:dre:272609:por"
+  },
+  {
+    "artigo": "ANEXO::9.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 9.º — Despesas elegíveis\n\nNo âmbito deste Regulamento, são elegíveis as seguintes despesas:\n\na) Projectos dos tipos A e B:\n\ni) Subscrição de participações no capital social de sociedades gestoras de fundos de investimento;\n\nii) Subscrição de unidades de participação de fundos de investimento;\n\niii) Despesas com comissões às sociedades gestoras de fundos e à entidade reguladora;\n\nb) Projectos do tipo D - subscrição de participações no capital social de SGM;\n\nc) Projectos dos tipos C e E - despesas imputáveis directamente à elaboração dos estudos e projectos, bem como até ao limite de 10% do total das despesas elegíveis, as despesas gerais e imprevistas associadas à sua concretização, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º [1685/2000](http://data.europa.eu/eli/reg/2000/1685/oj?locale=pt), da Comissão, de 28 de Julho, com a redacção dada pelo Regulamento (CE) n.º [1145/2003](http://data.europa.eu/eli/reg/2003/1145/oj?locale=pt), da Comissão, de 27 de Junho;\n\nd) Projectos do tipo F - montante do reforço.",
+    "depois": "###### Artigo 9.º — Despesas elegíveis\n\nNo âmbito deste Regulamento, são elegíveis as seguintes despesas:\n\na) Projectos dos tipos A e B:\n\ni) Subscrição de participações no capital social de sociedades gestoras de fundos de investimento;\n\nii) Subscrição de unidades de participação de fundos de investimento;\n\niii) Despesas com comissões às sociedades gestoras de fundos e à entidade reguladora;\n\niv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;\n\nb) Projectos do tipo D - subscrição de participações no capital social de SGM;\n\nc) Projectos dos tipos C e E - despesas imputáveis directamente à elaboração dos estudos e projectos, bem como até ao limite de 10% do total das despesas elegíveis, as despesas gerais e imprevistas associadas à sua concretização, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º [1685/2000](http://data.europa.eu/eli/reg/2000/1685/oj?locale=pt), da Comissão, de 28 de Julho, com a redacção dada pelo Regulamento (CE) n.º [1145/2003](http://data.europa.eu/eli/reg/2003/1145/oj?locale=pt), da Comissão, de 27 de Junho;\n\nd) Projectos do tipo F - montante do reforço.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.",
+    "excerto": "1.º Os artigos 6.º, 9.º e 11.º do Regulamento aprovado pela Portaria n.º 936/2003, de 4 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.\n\n2 - ...\n\nArtigo 9.º\n\n[...]\n\n...\n\na) ...\n\ni) ...\n\nii) ...\n\niii) ...\n\niv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;\n\nb) ...\n\nc) ...\n\nd) ...\n\nArtigo 11.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Tipo F - 15 milhões de euros.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510436:por",
+    "alterador": "pt:dre:272609:por"
+  },
+  {
+    "artigo": "ANEXO::11.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 11.º — Limites das ajudas\n\nO valor global das ajudas atribuídas no âmbito desta medida não pode exceder os seguintes valores por projecto:\n\na) Tipo A - 12 milhões de euros;\n\nb) Tipo B - 20 milhões de euros;\n\nc) Tipos C e E - 150 mil euros;\n\nd) Tipo D - 4 milhões de euros;\n\ne) Tipo F - 10 milhões de euros.",
+    "depois": "###### Artigo 11.º — Limites das ajudas\n\nO valor global das ajudas atribuídas no âmbito desta medida não pode exceder os seguintes valores por projecto:\n\na) Tipo A - 12 milhões de euros;\n\nb) Tipo B - 20 milhões de euros;\n\nc) Tipos C e E - 150 mil euros;\n\nd) Tipo D - 4 milhões de euros;\n\ne) Tipo F - 15 milhões de euros.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.",
+    "excerto": "1.º Os artigos 6.º, 9.º e 11.º do Regulamento aprovado pela Portaria n.º 936/2003, de 4 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.\n\n2 - ...\n\nArtigo 9.º\n\n[...]\n\n...\n\na) ...\n\ni) ...\n\nii) ...\n\niii) ...\n\niv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;\n\nb) ...\n\nc) ...\n\nd) ...\n\nArtigo 11.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Tipo F - 15 milhões de euros.»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510436:por",
+    "alterador": "pt:dre:272609:por"
+  }
+]

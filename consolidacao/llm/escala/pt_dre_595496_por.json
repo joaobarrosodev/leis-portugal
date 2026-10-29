@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:595496:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Definição das concessões e lanços",
+      "texto": "São objecto do presente diploma as seguintes concessões:\n\na) Concessão a designar por Grande Lisboa, integrando os seguintes lanços:\n\na1) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes:\n\nA 16/IC 16 - nó da CREL (IC 18)-Lourel (IC 30);\n\nA 16/IC 30 - Ranholas (IC 19)-Linhó;\n\na2) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes, excepto ao tráfego local:\n\nA 16/IC 30 - Linhó-Alcabideche (IC 15);\n\na3) Para exploração, manutenção e aumento do número de vias com cobrança de portagem aos utentes, excepto ao tráfego local:\n\nA 16/IC 30 - Lourel (IC 16)-Ranholas (IC 19);\n\na4) Para exploração e manutenção sem cobrança de portagem aos utentes:\n\nA 16/IC 16 - Lisboa (IC 17)-nó de Belas (IC 18);\n\nA 30/IC 2 - Sacavém (IP 1)-Santa Iria de Azoia (IP 1);\n\nA 36/IC 17 - Algés-Sacavém (IP 1); A37/IC I9 - Buraca (IC 17)-Ranholas (IC 30);\n\nA 40/IC 22 - Olival de Basto (IC 17)-Montemor (IC 18);\n\nIP 7 - Eixo Rodoviário Norte-Sul;\n\nb) Concessão a designar por Litoral/Centro, integrando os seguintes lanços:\n\nb1) Para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:\n\nIC1 - Marinha Grande (IC9)-Figueira da Foz (IP3);\n\nIC1 - Figueira da Foz (IP3)-Mira;\n\nc) Concessão a designar por Norte/Litoral, em regime de portagem sem cobrança respectiva aos utilizadores (SCUT), que integrará os seguintes lanços:\n\nc1) Para concepção, construção, financiamento, conservação e exploração:\n\nIP9 - Nogueira-Ponte de Lima;\n\nIC1 - Viana do Castelo (IP9)-Caminha;\n\nc2) Para aumento do número de vias, conservação e exploração:\n\nIC1 - Porto (IP4)-Viana do Castelo (IP9);\n\nIP9 - Viana do Castelo (IC1)-Nogueira;\n\nd) (Revogada.)\n\ne) Concessão a designar por Douro Litoral, integrando os seguintes lanços:\n\ne1) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes:\n\nA 32/IC 2 - São João da Madeira (ER 327)-Carvalhos (IP 1);\n\nA 41/IC 24 - Picoto (IC 2)-nó da Ermida (IC 25);\n\nA 43/IC 29 - Gondomar-Aguiar de Sousa (IC 24);\n\nER 327 - Ovar (IC 1)-São João da Madeira (IC 2);\n\ne2) Para exploração e manutenção sem cobrança de portagem aos utentes:\n\nEN 14 - Ameal (IC 23)-Leça do Balio (IP 4);\n\nA 1/IC 1 - Coimbrões (IC 23)-Ponte da Arrábida (Norte);\n\nA 1/IC 2 - Nó de Santo Ovídio (IC 2)-Coimbrões (IC 1);\n\nA 20/IP 1 - Carvalhos (IC 2) - nó da VCI (IC 23);\n\nA 20/IC 23 - Nó de Francos (IC 1)-nó da VCI (IP 1);\n\nA 28/IC 1 - Ponte da Arrábida (Norte)-Sendim (IP 4);\n\nA 41/IC 24 - Espinho (IC 1)-Picoto (IC 2);\n\nA 43/IC 29 - Ponte do Freixo Norte (IP 1)-Gondomar;\n\nA 44/IC 23 - Coimbrões (IC 2)-Ponte do Freixo Sul (IP 1).\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) Concessão a designar por concessão do túnel do Marão, para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:\n\nA 4/IP 4 - Amarante-Vila Real;\n\nj) (Revogada.)\n\nl) (Revogada.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Regime",
+      "texto": "Sem prejuízo do previsto no n.º 2 do artigo 1.º do presente decreto-lei, às concessões previstas nas alíneas a), b) e d) a j) do artigo anterior aplicam-se os artigos 3.º a 14.º do Decreto-Lei n.º 9/97, de 10 de Janeiro, e às referidas nas alíneas c) e l), os artigos 3.º a 14.º do Decreto-Lei n.º 267/97, de 2 de Outubro."
+    }
+  ],
+  "nao_aplicavel": "Na alínea b) do artigo 2.º, a sub-alínea b2) do original deixou de constar das redações dadas a partir do Decreto-Lei n.º 220-A/99 e foi omitida; os lanços da alínea c) mantêm-se os do original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

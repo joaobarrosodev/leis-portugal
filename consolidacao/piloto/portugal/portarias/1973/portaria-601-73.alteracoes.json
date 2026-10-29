@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\n1. As âncoras metálicas são de metal dourado, constituídas por duas âncoras cruzadas (fig. 1), tendo cada uma 0,017 m de comprimento por 0,010 m de largura.\n\n2. Estas âncoras são usadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,050 m dos vértices exteriores e na linha de bissectriz dos bicos.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 150/92](https://diariodarepublica.pt/dr/detalhe/portaria/150-1992-171941), publicado em 1992-03-11.",
+    "excerto": "4.º É revogado o artigo 5.º da Portaria n.º 601/73, de 6 de Setembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:414051:por",
+    "alterador": "pt:dre:171941:por"
+  }
+]

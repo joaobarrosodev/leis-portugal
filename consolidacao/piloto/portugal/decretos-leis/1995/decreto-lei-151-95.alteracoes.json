@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a elaboração e a aprovação dos planos com incidência no ordenamento do território, previstos em legislação especial, abreviadamente designados por planos especiais de ordenamento do território, bem como a sua articulação com os planos regionais e municipais de ordenamento do território.\n\n2 - Os planos especiais de ordenamento do território são instrumentos normativos, da iniciativa da administração directa ou indirecta do Estado, que fixam princípios e regras quanto à ocupação, ao uso e à transformação do solo na área por eles abrangida, visando a satisfação de um interesse público concreto através de um correcto ordenamento do território.\n\n3 - Os tipos de planos especiais de ordenamento do território, para os efeitos do presente diploma, são os previstos no seu anexo, que dele faz parte integrante.",
+    "depois": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a elaboração e a aprovação dos planos com incidência no ordenamento do território, previstos em legislação especial, abreviadamente designados por planos especiais de ordenamento do território, bem como a sua articulação com os planos regionais e municipais de ordenamento do território.\n\n2 - Os planos especiais de ordenamento do território são instrumentos normativos, da iniciativa da administração directa ou indirecta do Estado, que fixam princípios e regras quanto à ocupação, ao uso e à transformação do solo na área por eles abrangida, visando a satisfação de um interesse público concreto através de um correcto ordenamento do território.\n\n3 - Os tipos de planos especiais de ordenamento do território, para os efeitos do presente diploma, são os planos relativos às áreas protegidas, planos de albufeiras de águas públicas e planos da orla costeira.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 5/96](https://diariodarepublica.pt/dr/detalhe/lei/5-1996-621345), publicado em 1996-02-29.",
+    "excerto": "O artigo 1.º do Decreto-Lei n.º 151/95, de 24 de Junho, que harmoniza o regime jurídico dos planos especiais de ordenamento do território, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os tipos de planos especiais de ordenamento do território, para os efeitos do presente diploma, são os planos relativos às áreas protegidas, planos de albufeiras de águas públicas e planos da orla costeira.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:475371:por",
+    "alterador": "pt:dre:621345:por"
+  }
+]

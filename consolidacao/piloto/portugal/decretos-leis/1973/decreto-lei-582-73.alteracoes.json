@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. Constituem receitas do Fundo de Fomento Cultural:\n\na) As dotações para o efeito inscritas no orçamento do Ministério da Educação Nacional;\n\nb) Os saldos de gerências anteriores;\n\nc) As receitas das visitas aos museus e outros organismos dependentes do Ministério da Educação Nacional e sob a superintendência da Direcção-Geral dos Assuntos Culturais;\n\nd) As receitas dos trabalhos de conservação e beneficiação efectuados pelo Instituto de José de Figueiredo, pelo Laboratório de Conservação do Museu Monográfico de Conímbriga e por outros serviços do Ministério da Educação Nacional com objectivos afins;\n\ne) Os rendimentos da edição ou reedição de obras de arte, gravuras, documentos históricos ou livros raros existentes em museus, bibliotecas ou arquivos dependentes do Ministério da Educação Nacional;\n\nf) A receita da venda dos livros da Colecção Educativa do Ministério da Educação Nacional;\n\ng) Os rendimentos cobrados por serviços prestados, materiais fornecidos, publicações, filmes, diapositivos, gravações em fita e discos editados, espectáculos realizados e, em geral, por quaisquer outras actividades organizadas pela Direcção-Geral;\n\nh) Os demais subsídios ou comparticipações de outras entidades públicas;\n\ni) Quaisquer donativos, heranças ou legados parculares para fins de acção cultural;\n\nj) Quaisquer outras receitas não proibidas por lei.\n\n2. As receitas à disposição do Fundo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e a sua movimentação será isenta de imposto do selo e prémio de transferência.",
+    "depois": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079) e [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412618:por",
+    "alterador": "pt:dre:197079:por;pt:dre:442304:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\nO Fundo de Fomento Cultural, que substitui a Comissão Administrativa de Acção Cultural, prevista no artigo 11.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, goza de autonomia administrativa e financeira, competindo-lhe especialmente a planificação das actividades culturais propostas pelos diversos serviços da Direcção-Geral, segundo um esquema de prioridades superiormente definido, administrando as verbas que para esse fim lhe sejam consignadas.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079) e [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412618:por",
+    "alterador": "pt:dre:197079:por;pt:dre:442304:por"
+  }
+]

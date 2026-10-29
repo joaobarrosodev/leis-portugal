@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 6.º — Regime contratual\n\n1 - A contratação dos formadores será feita através da celebração de contrato de prestação de serviços, nos termos da legislação em vigor, a outorgar entre o formador e a entidade promotora.\n\n2 - O contrato de prestação de serviços celebrado pode cessar a todo o tempo, desde que respeitado um período de aviso prévio de 60 dias, não conferindo a cessação direito a qualquer indemnização.\n\n3 - A falta de prestação de serviço por um período superior a 20 dias interpolados ou 10 seguidos confere à entidade promotora o direito a rescindir o contrato com o formador.",
+    "depois": "###### Artigo 6.º — Regime contratual\n\n1 - A contratação dos formadores será feita através da celebração de contrato de prestação de serviços, nos termos da legislação em vigor, a outorgar entre o formador e a entidade promotora.\n\n2 - O contrato de prestação de serviços celebrado pode cessar a todo o tempo, desde que respeitado um período de aviso prévio de 30 dias, não conferindo a cessação direito a qualquer indemnização.\n\n3 - A falta de prestação de serviços superior a 10% do total de horas previsto confere à entidade promotora o direito a rescindir o contrato com o formador.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197309), publicado em 1999-01-21.",
+    "excerto": "O artigo 6.º do Decreto Legislativo Regional n.º 17/94/M, de 6 de Setembro, passa a ter a redacção seguinte:\n\n«Artigo 6.º\n\nRegime contratual\n\n1 - ...\n\n2 - O contrato de prestação de serviços celebrado pode cessar a todo o tempo, desde que respeitado um período de aviso prévio de 30 dias, não conferindo a cessação direito a qualquer indemnização.\n\n3 - A falta de prestação de serviços superior a 10% do total de horas previsto confere à entidade promotora o direito a rescindir o contrato com o formador.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:657431:por",
+    "alterador": "pt:dre:197309:por"
+  }
+]

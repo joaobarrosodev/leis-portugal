@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:463975:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1 - O provimento do pessoal pertencente a categorias de ingresso integradas em carreiras profissionais terá carácter provisório durante um ano, findo o qual os funcionários serão nomeados definitivamente se tiverem revelado aptidão para o lugar, ou exonerados, no caso contrário.\n\n2 - A conversão da nomeação em definitiva ou a exoneração referidas no número anterior deverão ser propostas pelo director-geral até ao fim do mês seguinte ao do termo daquele prazo, continuando entretanto os funcionários na mesma situação.\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 a 3 (art. 34.º n.º 3, aditamentos ao art. 5.º e novo preceito) não trazem o texto; só se aplicou a revogação do n.º 3 do art. 14.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

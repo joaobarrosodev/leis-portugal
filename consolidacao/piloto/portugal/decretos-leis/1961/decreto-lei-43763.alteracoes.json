@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nÉ criado um adicional de 20 por cento sobre a sisa liquidada a partir da promulgação do presente diploma em relação à transmissão de prédios urbanos ou terrenos para construção, por actos de compra e venda, promessa, troca, adjudicação por acordo ou decisão judicial ou por qualquer das formas compreendidas nos n.os 13.º a 16.º do artigo 8.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, quando o valor que lhe tiver servido de base exceder 800000$00 e a taxa aplicável for qualquer das estabelecidas nos artigos 33.º a 35.º do mesmo código.\n\n§ único. Quando a transmissão compreender simultâneamente prédios abrangidos pelo corpo deste artigo e bens de outra natureza, o adicional recairá apenas sobre a parte da sisa que corresponder àqueles bens, recorrendo-se, se necessário, a uma proporção estabelecida com base no valor matricial de todos os bens transmitidos.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 183-H/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-h-1980-324953), publicado em 1980-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172901:por",
+    "alterador": "pt:dre:324953:por"
+  }
+]

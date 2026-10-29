@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — (Fiscalização pelo Banco de Portugal)\n\nAs SGII ficam sujeitas às fiscalização do Banco de Portugal.",
+    "depois": "###### Artigo 12.º — Fiscalização pelo Banco de Portugal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 211-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037) e [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:183251:por",
+    "alterador": "pt:dre:301037:por;pt:dre:419178:por"
+  }
+]

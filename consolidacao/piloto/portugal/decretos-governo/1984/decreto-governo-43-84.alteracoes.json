@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 1.º\n\n1 - Os cidadãos de ambas as Partes que tiverem perdido o requisito da nacionalidade exigido para o exercício de funções públicas em Portugal ou Cabo Verde, mas continuarem ao serviço da administração central, local e regional e em institutos públicos, nas modalidades de serviços personalizados e fundos públicos, têm direito a manter-se no exercício das respectivas funções.\n\n2 - Consideram-se convalidadas todas as situações irregulares existentes de exercício de funções sem respeito do referido requisito.",
+    "depois": "###### Artigo 1.º\n\n1 - Os cidadãos de ambas as Partes que perderem o requisito da nacionalidade exigido para o exercício de funções públicas em Portugal ou Cabo Verde, mas continuarem ao serviço da administração central, local e regional e em institutos públicos, nas modalidades de serviços personalizados e fundos públicos, têm direito a manter-se no exercício das respectivas funções.\n\n2 - Consideram-se convalidadas todas as situações irregulares existentes de exercício de funções sem respeito do referido requisito.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520017), publicado em 1984-08-31.",
+    "excerto": "No n.º 1, artigo 1.º, do Acordo, onde se lê «que tiverem perdido» deve ler-se «que perderem».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:381736:por",
+    "alterador": "pt:dre:520017:por"
+  }
+]

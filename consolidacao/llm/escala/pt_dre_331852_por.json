@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:331852:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Níveis e categorias",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Remuneração base",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Cessação da comissão de serviço do cargo de enfermeiro-director",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Tipos de concurso e objectivos",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Constituição e composição do júri",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Incentivo para o exercício de funções na área de cuidados de saúde primários",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "DL 248/2009 e DL 71/2019 revogam o diploma salvo os artigos 43.º a 57.º (o 43.º fica inalterado); redações intermédias (DL 412/98, DL 411/99) ficam sem efeito; tabela I (DL 411/99) não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

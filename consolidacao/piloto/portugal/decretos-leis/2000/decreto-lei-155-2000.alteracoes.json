@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º\n\nO capital social é de 500000 euros, representado por 500000 acções com o valor nominal de 1 euro cada.",
+    "depois": "###### Artigo 5.º\n\n1 - O capital social é de (euro) 2000000, representado por 2000000 de acções, com o valor nominal de (euro) 1 cada.\n\n2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.",
+    "excerto": "Os artigos 5.º e 6.º do Decreto-Lei n.º 155/2000, de 22 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - O capital social é de (euro) 2000000, representado por 2000000 de acções, com o valor nominal de (euro) 1 cada.\n\n2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.\n\nArtigo 6.º\n\n[...]\n\nSão órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321337:por",
+    "alterador": "pt:dre:232887:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 6.º\n\nSão órgãos da sociedade a assembleia geral, a direcção, o conselho geral e o revisor oficial de contas, com as competências fixadas na lei e nos estatutos.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 11 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+    "depois": "###### Artigo 6.º\n\nSão órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 11 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+    "excerto": "Os artigos 5.º e 6.º do Decreto-Lei n.º 155/2000, de 22 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - O capital social é de (euro) 2000000, representado por 2000000 de acções, com o valor nominal de (euro) 1 cada.\n\n2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.\n\nArtigo 6.º\n\n[...]\n\nSão órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321337:por",
+    "alterador": "pt:dre:232887:por"
+  }
+]

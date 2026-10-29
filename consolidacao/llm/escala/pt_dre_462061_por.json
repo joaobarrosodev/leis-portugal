@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:462061:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - À Divisão de Contabilidade e Orçamento compete:\n\na) Preparar e elaborar o orçamento ordinário da ADSE e os orçamentos suplementares;\n\nb) Codificar os documentos de receita orçamental, receita de operações de tesouraria, despesa orçamental e despesa de operações de tesouraria, de acordo com o plano de contas;\n\nc) Escriturar os livros do diário, razão e caixa;\n\nd) Promover a elaboração dos balancetes mensais;\n\ne) Controlar e acompanhar o movimento de tesouraria;\n\nf) Promover a elaboração do balanço anual do património da ADSE;\n\ng) Elaborar e organizar a conta anual de gerência a enviar ao Tribunal de Contas;\n\nh) Preparar a elaboração do relatório e contas da ADSE.\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 e 2 (nova redação dos artigos 3.º e 6.º pelo DL 115/83) não trazem o texto novo; instrução 4 (extinção de lugares no quadro anexo) não é alteração textual; sem instruções da Portaria 65/88 e do DL 117/2011 nem para o artigo 1.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

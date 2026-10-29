@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:223019:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - A APS, S.A., assegura o exercício das competências necessárias ao regular funcionamento dos portos de Sines, de Faro e de Portimão nos seus múltiplos aspetos de ordem económica, financeira e patrimonial, de gestão de efetivos e de exploração portuária e ainda as atividades que lhe sejam complementares, subsidiárias ou acessórias.\n\n2 - No âmbito das atribuições a que se refere o número anterior, são conferidas à APS, S. A., competências para:\n\na) Atribuição de usos privativos e definição do respectivo interesse público para efeitos de concessão, relativamente aos bens do domínio público que lhe está afecto, bem como à prática de todos os actos respeitantes à execução, modificação e extinção da licença ou concessão;\n\nb) Licenciamento de actividades portuárias de exercício condicionado e concessão de serviços públicos portuários, podendo praticar todos os actos necessários à atribuição, execução, modificação e extinção da licença ou concessão, nos termos da legislação aplicável;\n\nc) Expropriação por utilidade pública, ocupação de terrenos, implantação de traçados e exercício de servidões administrativas necessárias à expansão ou desenvolvimento portuários, nos termos legais;\n\nd) Fixação das taxas a cobrar pela utilização dos portos, dos serviços neles prestados e pela ocupação de espaços dominiais ou destinados a actividades comerciais ou industriais;\n\ne) Protecção das suas instalações e do seu pessoal;\n\nf) Uso público dos serviços inerentes à actividade portuária e sua fiscalização.\n\n3 - No exercício das competências referidas no número anterior, o pessoal da APS, S. A., pode:\n\na) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;\n\nb) Usar armas para defesa própria, dos objectos de serviço e das instalações ou valores à sua guarda, quando devidamente autorizado, nos termos gerais.\n\n4 - A livre entrada a bordo dos navios fundeados nos portos de Sines, de Faro ou de Portimão, ou atracados aos respetivos cais, é sempre facultada aos funcionários da APS, S.A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade mediante a apresentação de documento de identificação emitido pela APS, S.A., acreditando-os para aquela missão."
+    },
+    {
+      "chave": "ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::1.º",
+      "epigrafe": "Denominação e duração",
+      "texto": "1 - A sociedade adota a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de APS - Administração dos Portos de Sines e do Algarve, S.A., abreviadamente designada por APS, S.A.\n\n2 - A sociedade tem duração ilimitada."
+    },
+    {
+      "chave": "ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.::3.º",
+      "epigrafe": "Objecto",
+      "texto": "A APS, S.A., tem por objeto a administração dos portos de Sines, de Faro e de Portimão, visando a sua exploração económica, conservação e desenvolvimento, abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas."
+    }
+  ],
+  "nao_aplicavel": "Substituição do anexo i (planta) pelo Decreto-Lei n.º 95/2010 não é textual. Artigo 7.º do decreto-lei e artigo 10.º dos Estatutos não vêm nos artigos do original: não se podem reconstituir os n.os 1 a 5 do art. 7.º (aditado n.º 6) nem as alíneas a) a z) do art. 10.º (só muda a alínea l)).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

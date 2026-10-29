@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º\n\nUm banco comercial estabelecido em qualquer outra parcela do território nacional poderá requerer ao Ministro do Ultramar autorização para constituir um departamento financeiro numa província ultramarina, desde que haja obtido autorização no território onde tiver a sua sede, nos termos da legislação respectiva, nomeadamente da que regular as operações de pagamentos interterritoriais.\n\n§ 1.º No caso previsto no corpo do presente artigo, o requerimento de autorização deverá ser acompanhado, além dos documentos mencionados no § 1.º do artigo 2.º, do documento comprovativo da autorização passado pela entidade competente do território em que o banco comercial tiver a sua sede e da declaração de compromisso de que no acto de constituição do departamento serão depositados no banco emissor da província 50 por cento dos fundos com que o departamento financeiro irá constituir-se.\n\n§ 2.º Aos departamentos financeiros dos bancos comerciais que se estabeleçam numa província ultramarina ao abrigo do presente artigo será aplicável, com as necessárias adaptações, o disposto nos §§ 2.º e 3.º do artigo 2.º deste diploma e nos artigos 14.º, 19.º a 21.º, 112.º e 113.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).\n\n§ 3.º Os bancos comerciais que tenham estabelecido dependências numa província ultramarina poderão constituir departamentos financeiros na mesma província.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 24/73](https://diariodarepublica.pt/dr/detalhe/decreto/24-1973-683466), publicado em 1973-01-23.",
+    "excerto": "Art. 2.º É revogado o § 3.º do artigo 4.º e o § único do artigo 47.º do Decreto n.º 49030.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201052:por",
+    "alterador": "pt:dre:683466:por"
+  },
+  {
+    "artigo": "47.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 47.º\n\nAos departamentos financeiros dos bancos comerciais constituídos ao abrigo do disposto no artigo 4.º do presente decreto é aplicável o disposto nos artigos 53.º e 54.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), e os mesmos departamentos poderão exercer comissões de confiança nos termos previstos pelos artigos 55.º a 57.º do dito decreto-lei.\n\n§ único. O estabelecido no artigo 57.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não será aplicável quando da extinção de departamento financeiro constituído ao abrigo do disposto no § 3.º do artigo 4.º do presente diploma, caso em que as comissões de confiança serão transferidas para a dependência estabelecida pelo banco comercial.",
+    "depois": "###### Artigo 47.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 24/73](https://diariodarepublica.pt/dr/detalhe/decreto/24-1973-683466), publicado em 1973-01-23.",
+    "excerto": "Art. 2.º É revogado o § 3.º do artigo 4.º e o § único do artigo 47.º do Decreto n.º 49030.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201052:por",
+    "alterador": "pt:dre:683466:por"
+  }
+]

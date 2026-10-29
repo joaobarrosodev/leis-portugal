@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. São órgãos de concepção, coordenação e apoio:\n\na) A Junta Nacional da Educação;\n\nb) O Gabinete de Estudos e Planeamento;\n\nc) O Conselho dos Directores-Gerais;\n\nd) A Secretaria-Geral.\n\n2. São serviços executivos:\n\nI) No sector da ciência e da cultura:\n\na) O Instituto de Alta Cultura;\n\nb) A Direcção-Geral dos Assuntos Culturais.\n\nII) No sector do ensino:\n\na) A Direcção-Geral do Ensino Superior;\n\nb) A Direcção-Geral do Ensino Secundário;\n\nc) A Direcção-Geral do Ensino Básico;\n\nd) A Inspecção-Geral do Ensino Particular;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) A Direcção-Geral da Educação Permanente;\n\ng) O Instituto de Tecnologia Educativa.\n\nIII) No sector da juventude e desportos:\n\na) O Secretariado para a Juventude;\n\nb) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do Desporto;\n\nc) O Instituto de Acção Social Escolar.\n\nA) Órgãos de concepção, coordenação e apoio",
+    "depois": "###### Artigo 4.º\n\n1. São órgãos de concepção, coordenação e apoio:\n\na) A Junta Nacional da Educação;\n\nb) O Gabinete de Estudos e Planeamento;\n\nc) O Conselho dos Directores-Gerais;\n\nd) A Secretaria-Geral.\n\n2. São serviços executivos:\n\nI) No sector da ciência e da cultura:\n\na) O Instituto de Alta Cultura;\n\nb) A Direcção-Geral dos Assuntos Culturais.\n\nII) No sector do ensino:\n\na) A Direcção-Geral do Ensino Superior;\n\nb) A Direcção-Geral do Ensino Secundário;\n\nc) A Direcção-Geral do Ensino Básico;\n\nd) A Inspecção-Geral do Ensino Particular;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) (Revogada.)\n\ng) O Instituto de Tecnologia Educativa.\n\nIII) No sector da juventude e desportos:\n\na) O Secretariado para a Juventude;\n\nb) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do Desporto;\n\nc) O Instituto de Acção Social Escolar.\n\n> Alterado pelo/a [Decreto-Lei n.º 146/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1973-675654) e [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602) e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579) e [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632734:por",
+    "alterador": "pt:dre:675654:por;pt:dre:307602:por;pt:dre:434579:por;pt:dre:231305:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\n1. Incumbe à Direcção-Geral da Educação Permanente promover, coordenar e difundir, em colaboração com os demais serviços do Ministério e outras entidades públicas ou privadas, a educação extra-escolar e as actividades de promoção cultural ou profissional, tendo nomeadamente em consideração a população adulta.\n\n2. Compete ainda a esta Direcção-Geral uma acção supletiva do ensino básico, fomentar a criação de bibliotecas educativas e de casas de cultura que contribuam de modo especial para o progresso social e cultural do meio e promover a difusão generalizada de obras literárias e artísticas.",
+    "depois": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 146/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1973-675654) e [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602) e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579) e [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632734:por",
+    "alterador": "pt:dre:675654:por;pt:dre:307602:por;pt:dre:434579:por;pt:dre:231305:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nAs prestações que, não sendo consideradas rendimentos do trabalho dependente, sejam devidas a título de pré-reforma, estabelecida de acordo com o [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, são consideradas pensões, nos termos do artigo 11.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 30-G/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), publicado em 2000-12-29.",
+    "excerto": "7 - É revogado o artigo 2.º do Decreto-Lei n.º 25/98, de 10 de Fevereiro.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229284:por",
+    "alterador": "pt:dre:212015:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 30-G/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), publicado em 2000-12-29.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 30-G/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), publicado em 2000-12-29.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), publicado em 2001-08-04.",
+    "excerto": "«7 - É revogado o artigo 2.º do Decreto-Lei n.º 25/98, de 10 de Fevereiro, mantendo-se o regime anterior quanto às prestações devidas a título de pré-reforma, estabelecida de acordo com o Decreto-Lei n.º 261/91, de 25 de Julho, e que tenham sido contratadas e o respectivo pagamento sido iniciado até 31 de Dezembro de 2000.»",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229284:por",
+    "alterador": "pt:dre:522865:por"
+  }
+]

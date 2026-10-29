@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:632738:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Disposições gerais",
+      "texto": "1. Aos serviços centrais compete prestar apoio à superior definição, orientação e execução da política de saúde e assistência social, exercendo, com esse fim, funções de coordenação e apoio técnico e administrativo, consultivas, de investigação e ensino, e de orientação e fiscalização da execução dos planos de saúde e assistência.\n\n2. As funções de coordenação e apoio técnico-administrativo cabem especialmente à Secretaria- Geral.\n\n3. As funções de natureza consultiva incumbem especialmente ao Gabinete de Estudos e Planeamento.\n\n4. São órgãos de investigação e ensino:\n\na) O Instituto Nacional de Saúde do Dr. Ricardo Jorge;\n\nb) A Escola Nacional de Saúde Pública e de Medicina Tropical.\n\n5. São órgãos de orientação, direcção e execução das actividades de saúde e assistência:\n\na) (Revogada.)\n\nb) A Direcção-Geral dos Hospitais;\n\nc) A Direcção-Geral da Assistência Social."
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Atribuições das direcções-gerais",
+      "texto": "1. As direcções-gerais são órgãos centrais a que compete, dentro das suas atribuições específicas, orientar as instituições, serviços e estabelecimentos de saúde e assistência, coordenar a sua actuação e fiscalizar a execução das respectivas actividades.\n\n2 - (Revogado.)\n\n3. A Direcção-Geral dos Hospitais orienta, coordena e fiscaliza as actividades dos estabelecimentos hospitalares centrais e distritais e presta o apoio que lhe seja solicitado pela Direcção-Geral de Saúde no domínio das atribuições de internamento que a esta competem.\n\n4. A Direcção-Geral da Assistência Social orienta e fiscaliza a actuação dos serviços, estabelecimentos e instituições de assistência, coordenando as actividades promotoras da integração social dos indivíduos, pela sua participação na vida da comunidade, tendo em especial atenção as crianças, os jovens e a população idosa, e actuando no quadro da instituição familiar para o fomento do bem-estar pessoal."
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Disposições gerais",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Serviços da Direcção-Geral de Saúde",
+      "texto": "1. A Direcção-Geral de Saúde compreende:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) A Inspecção Superior do Exercício Profissional.\n\n2. A Direcção-Geral dispõe ainda dos seguintes serviços:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Parque Sanitário."
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Outros serviços",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, designadamente das Inspecções Superiores de Profilaxia e de Medicina Social, ao qual compete armazenar e conservar o material sanitário de consumo corrente, bem como os medicamentos, soros, vacinas, desinfectantes, desinfestantes e outras substâncias de utilização normal, e ainda recolher e cuidar da manutenção das viaturas em serviço."
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Instalação de serviços e estabelecimentos",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Receitas e despesas no período de instalação",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações e aditamentos (DL 331/72, DL 515/74, DR 7/78, DL 91/84) sem texto da nova redação; quadros anexos não aplicáveis; extinção dos Serviços de Inspecção (art. 14.º) não é textual; arts. 32.º, 35.º, 80.º, 82.º-85.º não fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

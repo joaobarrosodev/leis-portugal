@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:234506:por",
+  "artigos": [],
+  "nao_aplicavel": "Os artigos 4.º a 7.º recebidos são da tabela II anexa (emolumentos), com chaves que se confundem com os artigos da Reforma Aduaneira; as instruções com alvo nestes números (DL 464/70, 434/74, 32/81, 438/82, 315/73, 20/99) não trazem texto, a revogação das tabelas I e II (DL 68/2007) e do art. 5.º da nova tabela (Lei 114/2017) tem alvo ambíguo face às chaves; nada aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

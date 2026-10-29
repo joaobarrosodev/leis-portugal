@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º\n\n1 - Os oficiais do QEO são inicialmente apreciados pela direcção da arma ou serviço a que estão atribuídos.\n\n2 - Após a apreciação constante do número anterior, os oficiais do QEO são apreciados por um conselho constituído exclusivamente por oficiais dos conselhos das armas de infantaria, artilharia e cavalaria, para elaboração das listas nos termos do artigo 70.º do EOE.\n\n3 - O conselho referido no número anterior é nomeado por despacho do Chefe do Estado-Maior do Exército, sendo presidido pelo director da arma de infantaria e integrando, além deste, no mínimo, mais os seguintes oficiais:\n\n1 coronel;\n\n1 tenente-coronel;\n\n1 major;\n\n3 capitães.\n\n4 - Se qualquer dos conselhos das armas ou serviços integrar oficiais do QEO, estes farão obrigatoriamente parte do conselho definido no n.º 3 deste artigo.",
+    "depois": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26.",
+    "excerto": "São revogados:\n\nb) O artigo 9.º do Decreto-Lei n.º 296/84, de 31 de Agosto.",
+    "artigo_alterador": "7.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373625:por",
+    "alterador": "pt:dre:491932:por"
+  }
+]

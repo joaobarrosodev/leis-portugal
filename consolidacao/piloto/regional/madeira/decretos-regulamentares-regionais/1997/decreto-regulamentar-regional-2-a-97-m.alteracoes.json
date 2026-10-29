@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "34.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 34.º — Remuneração\n\nOs escalões salariais da carreira de coordenador e da categoria de encarregado geral, referidas nos artigos anteriores, são os que se indicam no anexo III ao presente diploma.",
+    "depois": "###### Artigo 34.º — Remuneração\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 14/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1999-692040), publicado em 1999-10-30.",
+    "excerto": "É revogado o artigo 34.º do Decreto Regulamentar Regional n.º 2-A/97/M, de 29 de Janeiro, passando o actual artigo 35.º a 34.º, e assim sucessivamente.",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:182203:por",
+    "alterador": "pt:dre:692040:por"
+  }
+]

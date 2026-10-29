@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:172897:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções de alteração sem o texto da nova redação; a revogação do § 2.º do art. 3.º e do § único do art. 10.º (DL 720/76) incide sobre artigos já reescritos pelo DL 47866, cuja redação não é fornecida.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

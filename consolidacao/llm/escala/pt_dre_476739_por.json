@@ -1,0 +1,59 @@
+{
+  "id": "pt:dre:476739:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Natureza e objecto da REFER, E. P. E.",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::2.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "Criação da REFER, E. P., e extinção do GNFL do GNFP e do GECAF",
+      "texto": "1 - É criada, nos termos do presente diploma, a Rede Ferroviária Nacional - REFER, E. P., abreviadamente designada por REFER, E. P., a qual se rege pelo DecretoLei n.º 260/76, de 8 de Abril, com as alterações posteriores, pelo estatuto que constitui o anexo I ao presente diploma, que dele faz parte integrante, e pela demais legislação aplicável.\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Princípios especiais de base económica",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Regime especial de reavaliação",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::1.º",
+      "epigrafe": "Natureza, denominação, sede e duração",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::8.º",
+      "epigrafe": "Reuniões, deliberações e actas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::13.º",
+      "epigrafe": "Tutela económica e financeira",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Regras aplicáveis ao serviço público",
+      "texto": "1 - O serviço público de gestão da infra-estrutura ferroviária deve fazer-se por forma a respeitar o carácter integrado da rede ferroviária nacional e com observância dos princípios e normas de regulação ferroviária aprovados pelo ministro responsável pelo sector dos transportes ou por entidade por este designada.\n\n2 - A construção de novas linhas e ramais ferroviários requer a prévia aprovação do Ministro das Finanças e do ministro da tutela, mediante a sua inclusão nos planos de investimentos, de acordo com os princípios constantes do artigo 11.º da Lei n.º 10/90, de 17 de Março."
+    },
+    {
+      "chave": "ANEXO I — (a que se refere o n.º 1 do artigo 1.º)::5.º",
+      "epigrafe": "Composição do conselho de administração",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O Decreto-Lei n.º 91/2015 revoga todo o Decreto-Lei n.º 104/97 (incluindo os Estatutos anexos), exceto o n.º 1 do artigo 1.º, quanto à criação da REFER, e o artigo 5.º; o n.º 1 do artigo 1.º fica com o texto recebido (ressalva parcial não textual). Os artigos 9.º e 18.º e os artigos 4.º, 6.º, 10.º, 11.º, 12.º, 20.º, 26.º e 30.º dos Estatutos não foram recebidos (e ficam revogados).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

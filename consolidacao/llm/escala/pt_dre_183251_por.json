@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:183251:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Fiscalização pelo Banco de Portugal",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aditamento da alínea j) ao n.º 1 do artigo 15.º sem texto fornecido; artigo 13.º também revogado, mas não consta dos artigos do original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

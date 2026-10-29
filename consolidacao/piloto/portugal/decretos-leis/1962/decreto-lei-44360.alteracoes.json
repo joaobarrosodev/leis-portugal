@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º\n\nAs 27 promissórias serão amortizadas ao par pela forma abaixo indicada, a partir da data da sua entrega aos mutuantes:\n\n$ 6660000, dois anos depois.\n\n$ 6670000, três anos depois.\n\n$ 6670000, quatro anos depois.\n\n§ único. O Ministro das Finanças, se o julgar conveniente, pode proceder à amortização antecipada, total ou parcial, dos montantes em dívida.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 45398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45398-1963-432795), publicado em 1963-11-30.",
+    "excerto": "Art. 6.º É revogado o disposto no artigo 4.º do Decreto-Lei n.º 44360, devendo as novas promissórias ser amortizadas ao par, pela seguinte forma:",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:164400:por",
+    "alterador": "pt:dre:432795:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)\n\n1 - Ficam isentos de imposto de mais-valias os ganhos realizados mediante aumentos de capital por emissão de acções ou por emissão de acções e incorporação de reservas de sociedades que tenham acções cotadas na bolsa ou que, preenchendo as condições para admissão à cotação, a solicitem previamente, desde que, pelo menos, 50% do aumento de capital sejam representados por acções emitidas para subscrição pública.\n\n2 - Ficam igualmente isentos de imposto de mais-valias os ganhos realizados mediante aumentos de capital por incorporação de reservas de sociedades em que acções representativas do seu capital tenham sido transaccionadas nas bolsas de valores no ano anterior ao aumento, num mínimo de 20% do número de sessões de bolsa e num montante mínimo de 10% das acções representativas do capital social daquelas.\n\n3 - Os aumentos de capital efectuados nas condições dos números anteriores ficam isentos do imposto do selo.\n\n4 - As isenções estabelecidas nos números anteriores apenas se aplicam aos aumentos de capital efectuados até 31 de Dezembro de 1984.",
+    "depois": "###### Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 182/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1985-151950), publicado em 1985-05-27.",
+    "excerto": "Art. 10.º Fica revogado o artigo 1.º do Decreto-Lei n.º 409/82, de 29 de Setembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:375245:por",
+    "alterador": "pt:dre:151950:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:560020:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "Turnos de férias judiciais",
+      "texto": "1 - Para efeitos do disposto no n.º 1 do artigo 90.º da Lei n.º 38/87, de 23 de Dezembro, em cada círculo judicial organizam-se um ou mais turnos, que funcionam nos tribunais competentes para assegurar o serviço em causa, sendo abrangidos os magistrados que exerçam funções em tribunais com sede no círculo respectivo.\n\n2 - Nos círculos judiciais de Lisboa e do Porto, os juízes que exerçam funções em tribunais com sede no círculo respectivo agrupam-se do seguinte modo:\n\na) Juízes das varas cíveis;\n\nb) Juízes dos juízos cíveis, do tribunal de pequena instância cível e do tribunal marítimo;\n\nc) Juízes do tribunal do trabalho;\n\nd) Juízes do tribunal de família e do tribunal de menores;\n\ne) Juízes das varas criminais;\n\nf) Juízes dos juízos criminais, do tribunal de pequena instância criminal, do tribunal de instrução criminal e do tribunal de execução das penas."
+    }
+  ],
+  "nao_aplicavel": "Artigo 6.º (DL 222/94) e artigo 25.º (DL 137/97) sem texto; artigo 25.º (DL 18/96 e 39/99) parte da redacção do DL 29/95, cujo n.º 6 não consta do original; aditamentos 4.º-A, 6.º-A, 13.º-A, 14.º-A, 37.º-A, 33.º-A sem texto; 22.º-A, 22.º-B, 22.º-C e 21.º-A não constam dos artigos recebidos; alterações de mapas não textuais.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

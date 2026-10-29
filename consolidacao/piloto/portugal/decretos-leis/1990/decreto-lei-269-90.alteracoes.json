@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Acompanhamento\n\n1 - A ligação entre o Ministro da Defesa Nacional e a entidade gestora competirá a uma comissão de acompanhamento constituída por três membros a nomear por despacho do Ministro da Defesa Nacional.\n\n2 - À comissão compete informar e dar parecer ao Ministério da Defesa Nacional sobre:\n\na) Os relatórios apresentados pela entidade gestora do Fundo;\n\nb) O plano financeiro técnico e actuarial apresentado pela entidade gestora do Fundo;\n\nc) O plano de entregas dos contribuintes;\n\nd) O plano de complementos de pensões a pagar anualmente aos beneficiários;\n\ne) A orientação da política de aplicações do Fundo.",
+    "depois": "###### Artigo 15.º — Acompanhamento\n\n1 - A ligação entre o Ministério da Defesa Nacional e a entidade gestora compete a uma comissão de acompanhamento constituída por cinco membros a nomear por despacho do Ministro da Defesa Nacional, sendo dois propostos pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior.\n\n2 - À comissão compete informar e dar parecer ao Ministério da Defesa Nacional sobre:\n\na) Os relatórios apresentados pela entidade gestora do Fundo;\n\nb) O plano financeiro técnico e actuarial apresentado pela entidade gestora do Fundo;\n\nc) O plano de entregas dos contribuintes;\n\nd) O plano de complementos de pensões a pagar anualmente aos beneficiários;\n\ne) A orientação da política de aplicações do Fundo.\n\n3 - Pelo exercício das funções referidas no n.º 2 não é devida qualquer remuneração.\n\n> Alterado pelo/a [Decreto-Lei n.º 328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772) e [Decreto-Lei n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), publicado em 2009-04-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546221:por",
+    "alterador": "pt:dre:304772:por;pt:dre:603219:por"
+  }
+]

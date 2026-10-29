@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — (Competência)\n\n1. Compete à assembleia de freguesia:\n\na) Eleger, por voto secreto, os vogais da junta de freguesia;\n\nb) Elaborar o regimento;\n\nc) Eleger, por voto secreto, o presidente e os secretários da mesa;\n\nd) Acompanhar e fiscalizar a actividade da junta de freguesia, sem prejudicar o exercício normal da sua competência;\n\ne) Solicitar e receber, através da mesa, informações sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que poderá ser requerido por qualquer membro e em qualquer momento;\n\nf) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho, de entre os seus membros eleitos, para estudo dos problemas relacionados com o bem-estar da população da freguesia, no âmbito das suas atribuições e sem interferência na actividade normal da junta;\n\ng) Aprovar anualmente o plano de actividades e os orçamentos propostos pela junta de freguesia, bem como as contas e o relatório;\n\nh) Estabelecer as normas gerais de administração do património da freguesia ou sob sua jurisdição;\n\ni) Deliberar sobre a administração das águas públicas sob jurisdição da freguesia;\n\nj) Estabelecer taxas, sob proposta da junta;\n\nl) Deliberar, sob proposta da junta, quanto à criação de derramas destinadas à obtenção de fundos para a execução de melhoramentos urgentes;\n\nm) Conceder autorização à junta para aquisição, oneração ou alienação dos bens imóveis da freguesia, fixando as respectivas condições gerais;\n\nn) Aceitar doações e legados, e heranças a benefício de inventário;\n\no) Demarcar as áreas de actuação das organizações populares de base territorial, por sua iniciativa ou a requerimento das mesmas, e solucionar os eventuais conflitos daí resultantes;\n\np) Deliberar, sob proposta da junta, em matéria de criação, dotação e extinção de serviços ou instituições que prossigam na freguesia fins de interesse público, com obediência à lei geral;\n\nq) Aprovar posturas e regulamentos sob proposta da junta;\n\nr) Estabelecer, sob proposta da junta, os quadros de pessoal dos diferentes serviços da freguesia e fixar o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública e dentro do princípio da uniformidade interprofissional e inter-regional;\n\ns) Ratificar a aceitação por parte da junta da prática de actos da competência da câmara municipal;\n\nt) Pronunciar-se e deliberar sobre todos os assuntos de interesse para a autarquia, por sua iniciativa ou por solicitação da junta;\n\nu) Exercer os demais poderes conferidos por lei ou pelo regimento.\n\n2. As deliberações da assembleia de freguesia no uso da competência prevista nas alíneas j), l) e q) do número anterior devem ser aprovadas pela maioria absoluta dos membros em efectividade de funções.\n\n3. As posturas elaboradas pela assembleia de freguesia podem cominar penas de multa até 2000$00, devendo ser afixadas em todos os lugares do costume e começando a vigorar na data nelas indicada, a qual não poderá ser inferior a oito dias após a afixação.",
+    "depois": "###### Artigo 17.º — Competência\n\n1. Compete à assembleia de freguesia:\n\na) Eleger, por voto secreto, os vogais da junta de freguesia;\n\nb) Elaborar o regimento;\n\nc) Eleger, por voto secreto, o presidente e os secretários da mesa;\n\nd) Acompanhar e fiscalizar a actividade da junta de freguesia, sem prejudicar o exercício normal da sua competência;\n\ne) Solicitar e receber, através da mesa, informações sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que poderá ser requerido por qualquer membro e em qualquer momento;\n\nf) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho, de entre os seus membros eleitos, para estudo dos problemas relacionados com o bem-estar da população da freguesia, no âmbito das suas atribuições e sem interferência na actividade normal da junta;\n\ng) Aprovar anualmente o plano de actividades e os orçamentos propostos pela junta de freguesia, bem como as contas e o relatório;\n\nh) Estabelecer as normas gerais de administração do património da freguesia ou sob sua jurisdição;\n\ni) Deliberar sobre a administração das águas públicas sob jurisdição da freguesia;\n\nj) Estabelecer taxas, sob proposta da junta;\n\nl) Deliberar, sob proposta da junta, quanto à criação de derramas destinadas à obtenção de fundos para a execução de melhoramentos urgentes;\n\nm) Conceder autorização à junta para aquisição, oneração ou alienação dos bens imóveis da freguesia, fixando as respectivas condições gerais;\n\nn) Aceitar doações e legados, e heranças a benefício de inventário;\n\no) Demarcar as áreas de actuação das organizações populares de base territorial, por sua iniciativa ou a requerimento das mesmas, e solucionar os eventuais conflitos daí resultantes;\n\np) Deliberar, sob proposta da junta, em matéria de criação, dotação e extinção de serviços ou instituições que prossigam na freguesia fins de interesse público, com obediência à lei geral;\n\nq) Aprovar posturas e regulamentos sob proposta da junta;\n\nr) Estabelecer, sob proposta da junta, os quadros de pessoal dos diferentes serviços da freguesia e fixar o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública e dentro do princípio da uniformidade interprofissional e inter-regional;\n\ns) Ratificar a aceitação por parte da junta da prática de actos da competência da câmara municipal;\n\nt) Pronunciar-se e deliberar sobre todos os assuntos de interesse para a autarquia, por sua iniciativa ou por solicitação da junta;\n\nu) Exercer os demais poderes conferidos por lei ou pelo regimento.\n\n2. As deliberações da assembleia de freguesia no uso da competência prevista nas alíneas j), l) e q) do número anterior devem ser aprovadas pela maioria absoluta dos membros em efectividade de funções.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734) e [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) e [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374) e [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277277:por",
+    "alterador": "pt:dre:294734:por;pt:dre:476532:por;pt:dre:578374:por;pt:dre:693782:por"
+  },
+  {
+    "artigo": "49.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 49.º — (Empréstimos)\n\nA contratação e aplicação de empréstimos obedecerá às seguintes condições:\n\na) Nenhum empréstimo poderá ser contraído sem prévia aprovação dos projectos, orçamentos e planos de financiamento da obra ou serviço a que se destina;\n\nb) Os encargos com amortizações e juros não poderão exceder 25% das receitas ordinárias totais, salvo os destinados a custear serviços que possam autofinanciar-se;\n\nc) Para pagamento de juros e amortizações, as respectivas verbas serão discriminadas em nota anexa ao orçamento;\n\nd) O produto dos empréstimos não poderá ter aplicação diferente daquela para que forem contraídos.",
+    "depois": "###### Artigo 49.º — Empréstimos\n\nA contratação e aplicação de empréstimos obedecerá às seguintes condições:\n\na) Nenhum empréstimo poderá ser contraído sem prévia aprovação dos projectos, orçamentos e planos de financiamento da obra ou serviço a que se destina;\n\nb) (Revogada.)\n\nc) Para pagamento de juros e amortizações, as respectivas verbas serão discriminadas em nota anexa ao orçamento;\n\nd) O produto dos empréstimos não poderá ter aplicação diferente daquela para que forem contraídos.\n\n> Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734) e [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) e [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374) e [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277277:por",
+    "alterador": "pt:dre:294734:por;pt:dre:476532:por;pt:dre:578374:por;pt:dre:693782:por"
+  },
+  {
+    "artigo": "87.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 87.º — (Competência)\n\n1. Compete à assembleia distrital:\n\na) Elaborar o seu regimento;\n\nb) Promover a coordenação dos meios de acção distritais;\n\nc) Deliberar sobre a criação ou manutenção de serviços que, na área do distrito, apoiem tecnicamente as autarquias;\n\nd) Dar parecer sobre a criação de zonas de fomento agrícola, industrial e turístico, bem como incentivar o desenvolvimento económico e social do distrito;\n\ne) Promover actividades que visem o desenvolvimento dos sectores produtivos;\n\nf) Aprovar recomendações sobre a rede escolar no respeitante aos ensinos pré-primários, básico, secundário e médio, bem como coordenar a acção das autarquias locais no âmbito do equipamento escolar;\n\ng) Deliberar sobre a criação e manutenção de museus etnográficos, históricos e de arte local;\n\nh) Deliberar sobre a investigação, inventariação e conservação dos valores locais arqueológicos, históricos e artísticos e sobre a preservação e divulgação do folclore, trajos e costumes regionais;\n\ni) Solicitar informações e esclarecimentos ao governador civil em matéria de interesse do distrito;\n\nj) Estabelecer as normas gerais de administração do património próprio do distrito ou sob sua jurisdição, aprovar o programa anual dos subsídios a atribuir pelo governo civil e as contas e relatórios respectivos, sob proposta do governador civil;\n\nl) Aprovar o plano anual de actividades, orçamento, relatório e contas do distrito;\n\nm) Fixar o quadro de pessoal dos diferentes serviços da autarquia distrital e o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública, e dentro do princípio da uniformidade interprofissional e inter-regional;\n\nn) Exercer os demais poderes que lhe sejam conferidos por lei ou que sejam mera consequência das atribuições do distrito.\n\n2. As receitas e despesas a cargo dos cofres privativos dos governos civis serão incluídas no orçamento do distrito, o qual especificará as despesas, de modo a impossibilitar a existência de dotações ou fundos secretos.",
+    "depois": "###### Artigo 87.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734) e [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) e [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374) e [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277277:por",
+    "alterador": "pt:dre:294734:por;pt:dre:476532:por;pt:dre:578374:por;pt:dre:693782:por"
+  },
+  {
+    "artigo": "37.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 37.º — (Exercício do cargo)\n\n1. As funções de presidente e vogal das juntas de freguesia são gratuitas.\n\n2. Os membros das juntas de freguesia, até dois elementos, são dispensados da comparticipação ao emprego ou serviço durante vinte e quatro horas em cada mês.\n\n3. A assembleia de freguesia poderá igualmente deliberar sobre a concessão de ajudas de custo e subsídios de transporte aos membros da junta que tenham de se deslocar no exercício das suas funções.",
+    "depois": "###### Artigo 37.º — Exercício do cargo\n\n1. As funções de presidente e vogal das juntas de freguesia são gratuitas.\n\n2 - (Revogado.)\n\n3. A assembleia de freguesia poderá igualmente deliberar sobre a concessão de ajudas de custo e subsídios de transporte aos membros da junta que tenham de se deslocar no exercício das suas funções.\n\n> Alterado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734) e [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) e [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374) e [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277277:por",
+    "alterador": "pt:dre:294734:por;pt:dre:476532:por;pt:dre:578374:por;pt:dre:693782:por"
+  },
+  {
+    "artigo": "82.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 82.º — (Órgãos)\n\n1. Enquanto não estiverem instituídas as regiões, subsistirá a divisão distrital.\n\n2. Haverá em cada distrito uma assembleia distrital, com funções deliberativas, e um conselho distrital.",
+    "depois": "###### Artigo 82.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 24/78](https://diariodarepublica.pt/dr/detalhe/lei/24-1978-294734) e [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532) e [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374) e [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), publicado em 1991-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277277:por",
+    "alterador": "pt:dre:294734:por;pt:dre:476532:por;pt:dre:578374:por;pt:dre:693782:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\nNa província de Cabo Verde pode o governador determinar a constituição, nas ilhas em que o volume dos serviços do ensino primário o torne necessário, de delegações da repartição provincial, a cargo de um professor daquele ensino, nomeado pelo mesmo governador e que actuará segundo instruções daquela repartição, podendo ser dispensado do serviço lectivo e ter direito a uma gratificação fixada pelo governador em portaria.\n\nChefes das repartições das Direcções de Serviços de Instrução",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 49367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49367-1969-215774), publicado em 1969-11-08.",
+    "excerto": "Art. 39.º Fica revogado o artigo 5.º do Decreto n.º 43880, de 25 de Agosto de 1961, cumprindo aos agentes docentes proceder à matrícula dos alunos de suas escolas e postos escolares, bem como o demais expediente respeitante à frequência e estatística escolar, em subordinação hierárquica às repartições escolares distritais correspondentes.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173965:por",
+    "alterador": "pt:dre:215774:por"
+  }
+]

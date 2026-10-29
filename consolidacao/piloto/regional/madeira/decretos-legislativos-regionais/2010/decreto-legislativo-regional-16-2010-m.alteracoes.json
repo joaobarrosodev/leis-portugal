@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Liberdade de escolha\n\n1 - O utente, no acto da dispensa, pode optar livremente por um medicamento genérico ou de marca, dentro do mesmo princípio activo, dose e forma farmacêutica prescritos, salvo o disposto no número seguinte.\n\n2 - O médico pode justificar tecnicamente na receita a sua opção por uma marca comercial, em local próprio para esse fim, conforme modelo anexo ao presente diploma, que dele faz parte integrante.\n\n3 - Na hipótese prevista no número anterior, apenas poderá ser dispensado ao utente o medicamento da marca comercial constante da receita.\n\n4 - Na ausência de justificação técnica, a dispensa rege-se pelo disposto no n.º 1 do presente artigo.\n\n5 - A Secretaria Regional dos Assuntos Sociais, através do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, deve avaliar, por sua iniciativa ou das entidades prestadoras de cuidados de saúde, a justificação técnica a que se referem os números anteriores.",
+    "depois": "###### Artigo 2.º — Liberdade de escolha\n\n1 - O utente, no acto da dispensa, pode optar livremente por um medicamento genérico ou de marca, dentro do mesmo princípio activo, dose e forma farmacêutica prescritos, salvo o disposto no número seguinte.\n\n2 - O médico pode justificar tecnicamente na receita a sua opção por uma marca comercial, em local próprio para esse fim, conforme o modelo de receita médica a ser aprovado nos termos do artigo 4.º do presente diploma.\n\n3 - Na hipótese prevista no número anterior, apenas poderá ser dispensado ao utente o medicamento da marca comercial constante da receita.\n\n4 - Na ausência de justificação técnica, a dispensa rege-se pelo disposto no n.º 1 do presente artigo.\n\n5 - A Secretaria Regional dos Assuntos Sociais, através do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, deve avaliar, por sua iniciativa ou das entidades prestadoras de cuidados de saúde, a justificação técnica a que se referem os números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2012-553579), publicado em 2012-03-16.",
+    "excerto": "Os artigos 2.º, 3.º e 4.º do Decreto Legislativo Regional n.º 16/2010/M, de 13 de agosto, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - O médico pode justificar tecnicamente na receita a sua opção por uma marca comercial, em local próprio para esse fim, conforme o modelo de receita médica a ser aprovado nos termos do artigo 4.º do presente diploma.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 3.º\n\n[...]\n\nAos medicamentos prescritos, nos termos do presente diploma, aplicam-se os regimes de comparticipação do Estado no preço dos medicamentos, definidos na lei.\n\nArtigo 4.º\n\n[...]\n\n1 - É criado o novo modelo de receita médica na Região Autónoma da Madeira a aprovar por portaria do membro do Governo Regional com a tutela na área da saúde.\n\n2 - (Revogado.)\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:343382:por",
+    "alterador": "pt:dre:553579:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 3.º — Comparticipação\n\n1 - Quando o médico justificar tecnicamente na receita a sua opção por uma marca comercial, o doente terá direito à comparticipação calculada sobre o preço de venda ao público (PVP) desse medicamento.\n\n2 - Quando o doente, podendo optar por um medicamento genérico, opta por um medicamento de marca, assinando para esse fim a respectiva receita, a comparticipação do Estado será calculada em função do preço de referência, suportando o doente o diferencial entre este preço e o PVP desse medicamento.\n\n3 - Quando for dispensado um medicamento de uma determinada marca comercial, sem justificação técnica do médico e sem que o doente tenha optado por esse medicamento de marca, conforme previsto nos n.os 1 e 2 do presente artigo, a farmácia suportará o diferencial entre o preço de referência e o PVP do medicamento de marca dispensado.",
+    "depois": "###### Artigo 3.º — Comparticipação\n\nAos medicamentos prescritos, nos termos do presente diploma, aplicam-se os regimes de comparticipação do Estado no preço dos medicamentos, definidos na lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2012-553579), publicado em 2012-03-16.",
+    "excerto": "Os artigos 2.º, 3.º e 4.º do Decreto Legislativo Regional n.º 16/2010/M, de 13 de agosto, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - O médico pode justificar tecnicamente na receita a sua opção por uma marca comercial, em local próprio para esse fim, conforme o modelo de receita médica a ser aprovado nos termos do artigo 4.º do presente diploma.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 3.º\n\n[...]\n\nAos medicamentos prescritos, nos termos do presente diploma, aplicam-se os regimes de comparticipação do Estado no preço dos medicamentos, definidos na lei.\n\nArtigo 4.º\n\n[...]\n\n1 - É criado o novo modelo de receita médica na Região Autónoma da Madeira a aprovar por portaria do membro do Governo Regional com a tutela na área da saúde.\n\n2 - (Revogado.)\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:343382:por",
+    "alterador": "pt:dre:553579:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Modelo de receita médica\n\n1 - É aprovado o novo modelo de receita médica, que consta do anexo ao presente diploma.\n\n2 - O novo modelo de receita entra em vigor 60 dias após a publicação do presente diploma.\n\n3 - Os modelos de receita médica actualmente em uso poderão continuar a ser utilizados até escoamento dos stocks, devendo o médico prescritor justificar transitoriamente a sua opção técnica pela marca comercial em documento anexo à receita.",
+    "depois": "###### Artigo 4.º — Modelo de receita médica\n\n1 - É criado o novo modelo de receita médica na Região Autónoma da Madeira a aprovar por portaria do membro do Governo Regional com a tutela na área da saúde.\n\n2 - (Revogado.)\n\n3 - Os modelos de receita médica actualmente em uso poderão continuar a ser utilizados até escoamento dos stocks, devendo o médico prescritor justificar transitoriamente a sua opção técnica pela marca comercial em documento anexo à receita.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2012-553579), publicado em 2012-03-16.",
+    "excerto": "Os artigos 2.º, 3.º e 4.º do Decreto Legislativo Regional n.º 16/2010/M, de 13 de agosto, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - O médico pode justificar tecnicamente na receita a sua opção por uma marca comercial, em local próprio para esse fim, conforme o modelo de receita médica a ser aprovado nos termos do artigo 4.º do presente diploma.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 3.º\n\n[...]\n\nAos medicamentos prescritos, nos termos do presente diploma, aplicam-se os regimes de comparticipação do Estado no preço dos medicamentos, definidos na lei.\n\nArtigo 4.º\n\n[...]\n\n1 - É criado o novo modelo de receita médica na Região Autónoma da Madeira a aprovar por portaria do membro do Governo Regional com a tutela na área da saúde.\n\n2 - (Revogado.)\n\n3 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:343382:por",
+    "alterador": "pt:dre:553579:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º\n\n1 - O suplemento remuneratório a que se refere o artigo anterior corresponde, no caso do presidente da CAO, a 20% do vencimento de director-geral e, no dos restantes membros, a 14% do mesmo vencimento.\n\n2 - O funcionamento entre reuniões e a articulação de grupos de trabalho são assegurados pelo representante do IPAMB (Instituto de Protecção do Ambiente), que exerce as funções de secretário-geral da comissão, correspondendo neste caso o suplemento remuneratório a 17% do vencimento de director-geral.",
+    "depois": "###### Artigo 2.º\n\n1 - O suplemento remuneratório a que se refere o artigo anterior corresponde, no caso do presidente da CAO, a 20% do vencimento de director-geral e, no dos restantes membros, a 14% do mesmo vencimento.\n\n2 - O funcionamento entre reuniões e a articulação de grupos de trabalho são assegurados pelo secretário-geral da comissão, nomeado por despacho do Ministro do Ambiente, sob proposta do presidente da CAO, correspondendo neste caso o suplemento remuneratório a 17% do vencimento de director-geral.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 73/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1998-197755), publicado em 1998-03-26.",
+    "excerto": "O n.º 2 do artigo 2.º do Decreto-Lei n.º 118/96, de 7 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - ...\n\n2 - O funcionamento entre reuniões e a articulação de grupos de trabalho são assegurados pelo secretário-geral da comissão, nomeado por despacho do Ministro do Ambiente, sob proposta do presidente da CAO, correspondendo neste caso o suplemento remuneratório a 17% do vencimento de director-geral.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:412043:por",
+    "alterador": "pt:dre:197755:por"
+  }
+]

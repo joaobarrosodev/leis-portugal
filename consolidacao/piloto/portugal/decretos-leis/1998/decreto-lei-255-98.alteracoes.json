@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 21.º-A — Remissão\n\nAos cursos de formação complementar organizados nos termos do presente diploma é extensivo, com as necessárias adaptações, o disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 234-C/98, de 28 de Julho.\n\n> Aditado pelo/a Artigo único do/a [Decreto-Lei n.º 25/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1999-180474), publicado em 1999-01-28.",
+    "excerto": "Ao Decreto-Lei n.º 255/98, de 11 de Agosto, é aditado, entre os actuais artigos 21.º e 22.º, um novo artigo 21.º-A, com a epígrafe e redacção seguintes:\n\n«Artigo 21.º-A\n\nRemissão\n\nAos cursos de formação complementar organizados nos termos do presente diploma é extensivo, com as necessárias adaptações, o disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 234-C/98, de 28 de Julho.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438070:por",
+    "alterador": "pt:dre:180474:por"
+  }
+]

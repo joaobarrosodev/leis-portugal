@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 9.º\n\n1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, no âmbito das operações previstas no presente diploma, mais de 10% do capital social da PT, sendo reduzidas a este limite as propostas de aquisição que o excedam.\n\n2 - Para efeitos deste diploma, consideram-se como a mesma entidade duas ou mais sociedades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n3 - O disposto no n.º 1 não é aplicável:\n\na) Às instituições que no âmbito da emissão de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR) actuem como depositários ou custódios de acções da PT e que sejam titulares de contas em seu nome na Central de Valores Mobiliários, sendo para aqueles efeitos havidos como accionistas os titulares dos ADR ou GDR;\n\nb) Às centrais internacionais de liquidação, relativamente às acções da PT registadas nas contas de valores mobiliários abertas em seu nome em instituições de custódia filiadas na Central de Valores Mobiliários.\n\n4 - A PARTEST - Participações do Estado, SGPS, S. A., é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.",
+    "depois": "###### Artigo 9.º\n\n1 - Nenhuma entidade, singular ou colectiva, poderá adquirir, no âmbito das operações previstas no presente diploma, mais de 10% do capital social da PT, sendo reduzidas a este limite as propostas de aquisição que o excedam.\n\n2 - Para efeitos deste diploma, consideram-se como a mesma entidade duas ou mais sociedades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n3 - O disposto no n.º 1 não é aplicável:\n\na) Às instituições que no âmbito da emissão de programas de american depositary receipts (ADR) ou de global depositary receipts (GDR) actuem como depositários ou custódios de acções da PT e que sejam titulares de contas em seu nome na Central de Valores Mobiliários, sendo para aqueles efeitos havidos como accionistas os titulares dos ADR ou GDR;\n\nb) Às centrais internacionais de liquidação, relativamente às acções da PT registadas nas contas de valores mobiliários abertas em seu nome em instituições de custódia filiadas na Central de Valores Mobiliários.\n\n4 - (Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\nc) O n.º 4 do artigo 9.º do Decreto-Lei n.º 34-A/96, de 24 de Abril;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "4"
+    ],
+    "diploma": "pt:dre:260900:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

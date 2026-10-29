@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 13.º\n\nO expediente do Conselho Superior de Disciplina do Ultramar será assegurado pela Repartição da Direcção-Geral de Justiça, servindo de secretário o funcionário que for designado pelo director-geral.",
+    "depois": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44585](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44585-1962-159931), publicado em 1962-09-20.",
+    "excerto": "Art. 3.º É revogado o artigo 13.º do Decreto-Lei n.º 43203, de 7 de Outubro de 1960, passando o artigo 59.º do Decreto-Lei n.º 41169, de 29 de Junho de 1957, a ter seguinte redacção:",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:513984:por",
+    "alterador": "pt:dre:159931:por"
+  }
+]

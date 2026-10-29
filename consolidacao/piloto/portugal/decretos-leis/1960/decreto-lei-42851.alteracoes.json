@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\nConstituem receitas a administrar pelo Lar Académico as que lhe sejam consignadas no orçamento dos Serviços Sociais das Forças Armadas e, bem assim, as receitas provenientes das suas próprias actividades e de quaisquer subsídios, comparticipações, donativos, doações, legados ou rendimentos que lhe sejam atribuídos.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44049-1961-185362), publicado em 1961-11-22.",
+    "excerto": "Art. 2.º É revogado o artigo 5.º do Decreto-Lei n.º 42851, de 17 de Fevereiro de 1960.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:278524:por",
+    "alterador": "pt:dre:185362:por"
+  }
+]

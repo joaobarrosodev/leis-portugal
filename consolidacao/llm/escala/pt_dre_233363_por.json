@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:233363:por",
+  "artigos": [],
+  "nao_aplicavel": "DL 211/79 revoga o diploma com exceção dos artigos 10.º e 11.º; o artigo 10.º fornecido mantém-se e os restantes artigos não foram fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

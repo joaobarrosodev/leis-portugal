@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:426693:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1: a instrução só tem a frase introdutória, sem a nova redação; instrução 2 sem alvo identificado; instrução 3 revoga o DL 308/99 exceto o art. 9.º do decreto-lei, não sendo seguro relacioná-lo com os artigos dos Estatutos aqui listados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

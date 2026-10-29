@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º\n\nNas deliberações adoptadas em assembleia geral do Banco de Fomento e Exterior, S. A., contar-se-ão como pertencentes ao mesmo accionista os votos das acções detidas por quaisquer entidades que se encontrem nas situações previstas no artigo 530.º do Código do Mercado de Valores Mobiliários, com as necessárias adaptações.",
+    "depois": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.",
+    "excerto": "1 - São revogados:\n\nc) Os artigos 8.º, 9.º e 10.º do Decreto-Lei n.º 270/94, de 25 de Outubro;",
+    "artigo_alterador": "18.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:245494:por",
+    "alterador": "pt:dre:566223:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º\n\n1 - Os accionistas do Banco de Fomento e Exterior, S. A., têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º do Código do Mercado de Valores Mobiliários.\n\n2 - A falta de cumprimento deste dever até à data da realização da primeira reunião da assembleia geral da sociedade posterior ao pedido de informação implica a confissão, pelo accionista em causa, dos factos que lhe são imputados pelo conselho de administração.\n\n3 - Os acordos parassociais relativos ao Banco de Fomento e Exterior, S. A., devem ser comunicados, na íntegra, ao conselho de administração, nos 30 dias posteriores à sua celebração, pelos accionistas que os tenham subscrito, sob pena de ineficácia dos mesmos.",
+    "depois": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.",
+    "excerto": "1 - São revogados:\n\nc) Os artigos 8.º, 9.º e 10.º do Decreto-Lei n.º 270/94, de 25 de Outubro;",
+    "artigo_alterador": "18.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:245494:por",
+    "alterador": "pt:dre:566223:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º\n\n1 - Independentemente do número de acções do Banco de que o Estado seja titular, o Governo terá sempre o direito de nomear um administrador, sem prejuízo de participação dos votos do Estado na eleição de outros administradores, nos termos gerais.\n\n2 - As deliberações sobre alteração do contrato de sociedade, fusão, cisão, transformação, dissolução e limitação do direito de preferência dos accionistas ou outras para as quais o contrato de sociedade exija maioria qualificada não se consideram adoptadas contra o voto expresso correspondente às acções pertencentes ao Estado.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.",
+    "excerto": "1 - São revogados:\n\nc) Os artigos 8.º, 9.º e 10.º do Decreto-Lei n.º 270/94, de 25 de Outubro;",
+    "artigo_alterador": "18.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:245494:por",
+    "alterador": "pt:dre:566223:por"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:176302:por",
+  "artigos": [],
+  "nao_aplicavel": "Substituição de tabelas sem texto; a instrução 3 está truncada (só um valor) e não permite aplicar as novas remunerações com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

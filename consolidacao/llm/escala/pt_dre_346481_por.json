@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:346481:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Taxa de aterragem e descolagem",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Taxa de ocupação",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O Decreto Regulamentar n.º 24/2009 revoga todo o diploma salvo o artigo 5.º, que se mantém inalterado; o artigo 8.º não consta do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:693412:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções sobre os artigos 18.º, 20.º e 26.º não trazem o texto da nova redação; a revogação dos artigos 19.º e 21.º consta apenas do preâmbulo do Decreto-Lei n.º 202/71, sem a disposição revogatória, pelo que não se aplica com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

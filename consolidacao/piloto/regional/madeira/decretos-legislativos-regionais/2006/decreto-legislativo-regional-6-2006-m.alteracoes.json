@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º-A",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 14.º-A — Execução fiscal das dívidas\n\nOs créditos devidos ao CARAM, E. P. E., ficam sujeitos ao regime do processo de execução fiscal.\n\n> Aditado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 14/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2010-333363), publicado em 2010-08-05.",
+    "excerto": "É aditado um novo artigo ao Decreto Legislativo Regional n.º 6/2006/M, de 14 de Março, diploma que criou o CARAM - Centro de Abate da Região Autónoma da Madeira, E. P. E., com a seguinte redacção:\n\n«Artigo 14.º-A\n\nExecução fiscal das dívidas\n\nOs créditos devidos ao CARAM, E. P. E., ficam sujeitos ao regime do processo de execução fiscal.»",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667490:por",
+    "alterador": "pt:dre:333363:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:157034:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Horário",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Balanço diário",
+      "texto": "1 - O tesoureiro gerente é obrigado diariamente a verificar, pelos elementos de contabilidade da tesouraria, as contas das diversas caixas e a apurar, pelo seu cômputo, o saldo em dinheiro e documentos de despesa e a venda de valores selados e impressos.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 51.º e 70.º mantêm-se em vigor pela exceção do DL 237/2004 (sem alteração). As portarias só alteram o quadro/mapa anexo, não aplicáveis.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º\n\n1. A instalação de novos emissores e a exploração de postos particulares de radiodifusão sonora na metrópole são decididas por despacho do Secretário de Estado da Informação e Turismo, com parecer concordante dos organismos a que se refere o artigo 4.º e § único do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), nos termos aí estabelecidos, e depois de ouvido o Conselho Nacional de Radiodifusão.\n\n2. A instalação de retransmissores e de novos centros de emissores na dependência directa dos emissores regionais ultramarinos será autorizada por despacho conjunto do Ministro do Ultramar e do Secretário de Estado da Informação e Turismo.",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), publicado em 1988-09-28.",
+    "excerto": "Art. 35.º São revogadas todas as normas que contrariem o disposto no presente diploma e, designadamente, o artigo 10.º do Decreto-Lei n.º 49272, de 27 de Setembro de 1969, e o Decreto-Lei n.º 28508, de 3 de Março de 1938.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:214256:por",
+    "alterador": "pt:dre:355505:por"
+  }
+]

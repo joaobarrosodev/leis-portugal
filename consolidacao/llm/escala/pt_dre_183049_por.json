@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:183049:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Benefícios a conceder às empresas construtoras",
+      "texto": "1 - As empresas construtoras que sejam sujeitos de CDH usufruem dos seguintes benefícios:\n\na) Concessão de financiamentos à construção das habitações, em condições mais favoráveis que as adoptadas em operações análogas, nos termos, a fixar por portaria conjunta dos Ministros, das Finanças e do Plano e do Equipamento Social;\n\nb) Isenção de sisa pela aquisição do terreno ou pela constituição do direito de superfície sobro o mesmo, sob condição de se destinar a um CDH e que este seja celebrado em prazo não superior a 2 anos a contar da data da transmissão ou da constituição referidas;\n\nc) Redução até 90% da contribuição Industrial que incidir sobre o lucro obtido no empreendimento objecto do CDH, a fixar por despacho do Ministro das Finanças e do Plano;\n\nd) Gratuitidade dos actos de registo predial inerentes ao objecto do CDH, incluindo os relativos aos terrenos referidos na alínea b).\n\n2 - (Revogado.)\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O Decreto-Lei n.º 39/89 revoga todas as disposições com excepção do n.º 1 do artigo 8.º e dos n.os 3, 4 e 5 do artigo 17.º; só o artigo 8.º consta do pedido (n.os 2 e 3 revogados).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

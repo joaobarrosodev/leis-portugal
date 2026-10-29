@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 16.º — Regime de segurança social\n\n1 - Os ajudantes familiares ficam obrigatoriamente enquadrados pelo regime de segurança social dos trabalhadores independentes, com as especificidades constantes do número seguinte.\n\n2 - As contribuições para o regime dos trabalhadores independentes devidas pelos ajudantes familiares são calculadas pela aplicação da taxa de 12% sobre o valor da retribuição mensal ajustado com a instituição de suporte, com um limite mínimo da base de incidência correspondente a 30% do valor da remuneração mensal mínima garantida à generalidade dos trabalhadores.",
+    "depois": "###### Artigo 16.º — Regime de segurança social\n\n1 - Os ajudantes familiares ficam obrigatoriamente enquadrados pelo regime de segurança social dos trabalhadores independentes, com as especificidades constantes do número seguinte.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 240/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1996-189476), publicado em 1996-12-14.",
+    "excerto": "O presente diploma revoga toda a legislação em contrário, nomeadamente:\n\nq) O n.º 2 do artigo 16.º do Decreto-Lei n.º 141/89, de 28 de Abril;",
+    "artigo_alterador": "ANEXO N.º 1 — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/289a00/44574473.pdf)::78.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "2"
+    ],
+    "diploma": "pt:dre:625605:por",
+    "alterador": "pt:dre:189476:por"
+  }
+]

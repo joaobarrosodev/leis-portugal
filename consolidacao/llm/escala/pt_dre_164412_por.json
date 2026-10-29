@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:164412:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto Legislativo Regional n.º 14/2014/M sobre o artigo 13.º só traz a frase introdutória (sem nova redação); a outra substitui mapas anexos referidos no artigo 1.º, sem alteração do texto do artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

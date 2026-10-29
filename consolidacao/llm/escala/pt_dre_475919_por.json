@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:475919:por",
+  "artigos": [],
+  "nao_aplicavel": "A única instrução (Lei n.º 16/2015, alínea b) da norma revogatória) revoga em bloco o regime jurídico dos OIC aprovado em anexo (Anexo I) ao Decreto-Lei n.º 63-A/2013, não um artigo concreto; revogação integral de anexo, sem chaves de artigo indicadas e com dois anexos designados \"ANEXO I\" no texto, pelo que não se aplica artigo a artigo. Os artigos 1.º a 8.º do decreto-lei não são alterados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

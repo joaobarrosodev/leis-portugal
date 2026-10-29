@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Colocação no mercado\n\n1 - A colocação no mercado dos dispositivos referidos nas alíneas a) e b) do n.º 2 do artigo anterior carece de autorização prévia do Instituto Nacional da Farmácia e do Medicamento, adiante designado «INFARMED».\n\n2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior podem ser introduzidos no mercado mediante comunicação ao INFARMED, para efeitos de registo.",
+    "depois": "###### Artigo 3.º — Colocação no mercado\n\n1 - A colocação no mercado dos dispositivos referidos nas alíneas a) e b) do n.º 2 do artigo anterior carece de autorização prévia do Instituto Nacional da Farmácia e do Medicamento, adiante designado «INFARMED».\n\n2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior são introduzidos no mercado mediante comunicação ao INFARMED.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 189/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2000-341047), publicado em 2000-08-12.",
+    "excerto": "Os artigos 3.º, 12.º e 13.º do Decreto-Lei n.º 306/97, de 11 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior são introduzidos no mercado mediante comunicação ao INFARMED.\n\nArtigo 12.º\n\n[...]\n\n1 - A comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os seguintes elementos:\n\na) Uma declaração assinada pelo responsável pela colocação no mercado de que os dispositivos que comercializa não colocam em risco a saúde e segurança dos utilizadores e que se compromete a elaborar documentação técnica relativa ao dispositivo;\n\nb) Uma ficha de registo, por dispositivo, com menção da informação considerada essencial, nomeadamente nome do responsável pela colocação no mercado, fabricante, distribuidor, país de origem, nome comercial, data de colocação no mercado, apresentação, prazo de validade e composição.\n\n2 - A documentação prevista na alínea a) do número anterior deve conter os elementos estabelecidos no n.º 1 e nas alíneas a) a d), f), g), i) a m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.\n\nArtigo 13.º\n\n[...]\n\nÀ embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nas alíneas a) a h) do n.º 1 e nos n.os 2, 3 e 4 do artigo 5.º e o disposto no n.º 1 e nas alíneas a) a c) do n.º 2 e no n.º 3 do artigo 6.º, com as necessárias adaptações.»",
+    "artigo_alterador": "27.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:688063:por",
+    "alterador": "pt:dre:341047:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 12.º — Comunicação\n\nA comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os elementos estabelecidos no n.º 1 e nas alíneas a), b), c), d), f), g), i), j), l), m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.",
+    "depois": "###### Artigo 12.º — Comunicação\n\n1 - A comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os seguintes elementos:\n\na) Uma declaração assinada pelo responsável pela colocação no mercado de que os dispositivos que comercializa não colocam em risco a saúde e segurança dos utilizadores e que se compromete a elaborar documentação técnica relativa ao dispositivo;\n\nb) Uma ficha de registo, por dispositivo, com menção da informação considerada essencial, nomeadamente nome do responsável pela colocação no mercado, fabricante, distribuidor, país de origem, nome comercial, data de colocação no mercado, apresentação, prazo de validade e composição.\n\n2 - A documentação prevista na alínea a) do número anterior deve conter os elementos estabelecidos no n.º 1 e nas alíneas a) a d), f), g), i) a m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 189/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2000-341047), publicado em 2000-08-12.",
+    "excerto": "Os artigos 3.º, 12.º e 13.º do Decreto-Lei n.º 306/97, de 11 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior são introduzidos no mercado mediante comunicação ao INFARMED.\n\nArtigo 12.º\n\n[...]\n\n1 - A comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os seguintes elementos:\n\na) Uma declaração assinada pelo responsável pela colocação no mercado de que os dispositivos que comercializa não colocam em risco a saúde e segurança dos utilizadores e que se compromete a elaborar documentação técnica relativa ao dispositivo;\n\nb) Uma ficha de registo, por dispositivo, com menção da informação considerada essencial, nomeadamente nome do responsável pela colocação no mercado, fabricante, distribuidor, país de origem, nome comercial, data de colocação no mercado, apresentação, prazo de validade e composição.\n\n2 - A documentação prevista na alínea a) do número anterior deve conter os elementos estabelecidos no n.º 1 e nas alíneas a) a d), f), g), i) a m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.\n\nArtigo 13.º\n\n[...]\n\nÀ embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nas alíneas a) a h) do n.º 1 e nos n.os 2, 3 e 4 do artigo 5.º e o disposto no n.º 1 e nas alíneas a) a c) do n.º 2 e no n.º 3 do artigo 6.º, com as necessárias adaptações.»",
+    "artigo_alterador": "27.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:688063:por",
+    "alterador": "pt:dre:341047:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 13.º — Embalagem, rótulo e folheto informativo\n\nÀ embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nos artigos 5.º e 6.º, com as necessárias adaptações.",
+    "depois": "###### Artigo 13.º — Embalagem, rótulo e folheto informativo\n\nÀ embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nas alíneas a) a h) do n.º 1 e nos n.os 2, 3 e 4 do artigo 5.º e o disposto no n.º 1 e nas alíneas a) a c) do n.º 2 e no n.º 3 do artigo 6.º, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 189/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2000-341047), publicado em 2000-08-12.",
+    "excerto": "Os artigos 3.º, 12.º e 13.º do Decreto-Lei n.º 306/97, de 11 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Os dispositivos referidos na alínea c) do n.º 2 do artigo anterior são introduzidos no mercado mediante comunicação ao INFARMED.\n\nArtigo 12.º\n\n[...]\n\n1 - A comunicação ao INFARMED referida no n.º 2 do artigo 3.º deve conter os seguintes elementos:\n\na) Uma declaração assinada pelo responsável pela colocação no mercado de que os dispositivos que comercializa não colocam em risco a saúde e segurança dos utilizadores e que se compromete a elaborar documentação técnica relativa ao dispositivo;\n\nb) Uma ficha de registo, por dispositivo, com menção da informação considerada essencial, nomeadamente nome do responsável pela colocação no mercado, fabricante, distribuidor, país de origem, nome comercial, data de colocação no mercado, apresentação, prazo de validade e composição.\n\n2 - A documentação prevista na alínea a) do número anterior deve conter os elementos estabelecidos no n.º 1 e nas alíneas a) a d), f), g), i) a m), p) e q) do n.º 2 do artigo 4.º, quando aplicáveis.\n\nArtigo 13.º\n\n[...]\n\nÀ embalagem, rótulo e folheto informativo dos dispositivos referidos no n.º 2 do artigo 3.º aplica-se o disposto nas alíneas a) a h) do n.º 1 e nos n.os 2, 3 e 4 do artigo 5.º e o disposto no n.º 1 e nas alíneas a) a c) do n.º 2 e no n.º 3 do artigo 6.º, com as necessárias adaptações.»",
+    "artigo_alterador": "27.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:688063:por",
+    "alterador": "pt:dre:341047:por"
+  }
+]

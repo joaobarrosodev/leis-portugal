@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:618499:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza e tutela",
+      "texto": "1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico."
+    }
+  ],
+  "nao_aplicavel": "Artigo 1.º: a nova redação só tem os n.os 1 e 2, pelo que o n.º 3 deixou de constar. Artigos 2.º e 20.º não constam dos artigos do original enviados. Instrução 2 (DL 39/2015) revoga o DL 309/2001, sem alteração textual deste diploma.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

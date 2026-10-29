@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\n1 - O sistema poderá ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.\n\n2 - O interesse público referido no número anterior é reconhecido por despacho do Ministro do Ambiente e do Ordenamento do Território, sob proposta da sociedade concessionária do sistema e uma vez ouvidos os municípios integrantes do mesmo.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 23 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Abril de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2014-25345606), publicado em 2014-07-02.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 23 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Abril de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.",
+    "excerto": "São revogados:\n\nc) O artigo 2.º do Decreto-Lei n.º 127/2002, de 10 de maio.",
+    "artigo_alterador": "6.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:368665:por",
+    "alterador": "pt:dre:25345606:por"
+  }
+]

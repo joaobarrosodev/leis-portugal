@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 4.º\n\n1 - Continuam a ser concedidas à Fundação todas as isenções e benefícios fiscais de que possam gozar as pessoas colectivas de utilidade pública.\n\n2 - É ainda concedida isenção de emolumentos notariais e de despesas de registo predial em todas as transmissões em que a Fundação seja beneficiária ou adquirente.\n\n3 - Os donativos feitos à Fundação têm o tratamento fiscal previsto nos artigos 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares e 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.\n\n4 - É aplicável à Fundação o regime previsto no artigo 65.º do Regulamento CEE n.º [918/83](http://data.europa.eu/eli/reg/1983/918/oj?locale=pt), do Conselho, de 28 de Março.\n\n5 - A Fundação fica sujeita aos deveres impostos às pessoas colectivas de utilidade pública.",
+    "depois": "###### Artigo 4.º\n\n1 - A Fundação goza, para a prossecução dos seus objectivos, das isenções, bonificações e benefícios, designadamente fiscais, previstos na lei para as pessoas colectivas de utilidade pública e para as instituições particulares de solidariedade social.\n\n2 - É ainda concedida isenção de emolumentos notariais e de despesas de registo predial em todas as transmissões em que a Fundação seja beneficiária ou adquirente.\n\n3 - Os donativos feitos à Fundação têm o tratamento fiscal previsto nos artigos 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares e 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.\n\n4 - É aplicável à Fundação o regime previsto no artigo 65.º do Regulamento CEE n.º [918/83](http://data.europa.eu/eli/reg/1983/918/oj?locale=pt), do Conselho, de 28 de Março.\n\n5 - A Fundação fica sujeita aos deveres impostos às pessoas colectivas de utilidade pública.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 377/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1997-421630), publicado em 1997-12-24.",
+    "excerto": "O n.º 1 do artigo 4.º do Decreto-Lei n.º 27/96, de 30 de Março, passa a ter a seguinte redacção:\n\n«1 - A Fundação goza, para a prossecução dos seus objectivos, das isenções, bonificações e benefícios, designadamente fiscais, previstos na lei para as pessoas colectivas de utilidade pública e para as instituições particulares de solidariedade social.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:547031:por",
+    "alterador": "pt:dre:421630:por"
+  }
+]

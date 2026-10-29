@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 20.º — Caracterização\n\n1 - Estes espaços destinam-se à instalação de unidades industriais e de armazenagem, caracterizando-se por um elevado índice de infra-estruturação adequado a esta função.\n\n2 - Os espaços industriais identificados na carta de ordenamento constituem unidades operativas de planeamento e de gestão e a sua concretização depende de plano de pormenor ou de loteamento industrial.\n\n3 - A concretização da Zona Industrial de Santa Eulália encontra-se condicionada pela construção do IC 5.\n\n4 - A concretização da Área Industrial de Bragadas encontra-se condicionada à concretização da auto-estrada Porto-Famalicão-Chaves.",
+    "depois": "###### Artigo 20.º — Caracterização\n\n1 - Estes espaços destinam-se à instalação de unidades industriais e de armazenagem, caracterizando-se por um elevado índice de infra-estruturação adequado a esta função.\n\n2 - Os espaços industriais identificados na carta de ordenamento constituem unidades operativas de planeamento e de gestão e a sua concretização depende de plano de pormenor ou de loteamento industrial.\n\n3 - (Número a eliminar.)\n\n4 - (Número a eliminar.)\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 63/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-1999-393021), publicado em 1999-06-25.",
+    "excerto": "1 - Ratificar a alteração ao artigo 20.º do regulamento do Plano Director Municipal de Ribeira de Pena, ratificado pela Resolução do Conselho de Ministros n.º 1/95, de 17 de Novembro de 1994, o qual passa a ter a seguinte redacção:\n\n«Artigo 20.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - (Número a eliminar.)\n\n4 - (Número a eliminar.)»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:360748:por",
+    "alterador": "pt:dre:393021:por"
+  }
+]

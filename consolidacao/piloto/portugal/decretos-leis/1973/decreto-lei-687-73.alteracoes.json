@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\nÉ proibida, sob pena de multa de 5000$00 a 50000$00, a montagem de depósitos suplementares de combustível nos veículos ou a alteração da capacidade dos depósitos de origem. Os veículos em que estas operações tenham sido realizadas serão ainda declarados perdidos a favor do Estado.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 404/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1985-178313), publicado em 1985-10-15.",
+    "excerto": "Artigo único. É revogado o artigo 3.º do Decreto-Lei n.º 687/73, de 21 de Dezembro.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:195783:por",
+    "alterador": "pt:dre:178313:por"
+  }
+]

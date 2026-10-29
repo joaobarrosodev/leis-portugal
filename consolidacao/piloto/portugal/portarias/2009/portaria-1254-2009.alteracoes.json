@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º — Transmissão de direitos de propriedade industrial\n\nSão gratuitos os actos de transmissão de direitos previstos na tabela IV das taxas de propriedade industrial aprovada pela [Portaria n.º 1098/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1098-2008-452175), de 30 de Setembro, quando efectuados na sequência de uma operação de fusão ou cisão registada em Portugal.",
+    "depois": "###### Artigo 6.º — Transmissão de direitos de propriedade industrial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 479/2010](https://diariodarepublica.pt/dr/detalhe/portaria/479-2010-334341), publicado em 2010-07-12.",
+    "excerto": "É revogado o artigo 6.º da Portaria n.º 1254/2009, de 14 de Outubro, que altera a Portaria n.º 1098/2008 de 30 de Setembro.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:491442:por",
+    "alterador": "pt:dre:334341:por"
+  }
+]

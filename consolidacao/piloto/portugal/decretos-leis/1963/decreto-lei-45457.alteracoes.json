@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\nO artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, passa a ter a seguinte redacção:\n\nArt. 4.º As quantias arrecadadas nos termos do artigo anterior e seu parágrafo darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado, no capítulo das «Consignações de receita», devendo ser aplicadas através da dotação de «Participações em cobranças ou receitas» atribuída à Direcção-Geral dos Serviços Agrícolas.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46697](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871), publicado em 1965-12-04.",
+    "excerto": "Art. 3.º Fica revogado o artigo 3.º do Decreto-Lei n.º 45457, de 23 de Dezembro de 1963, passando a aplicar-se o disposto no artigo 4.º do Decreto-Lei n.º 38153, de 18 de Janeiro de 1951.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:680412:por",
+    "alterador": "pt:dre:507871:por"
+  }
+]

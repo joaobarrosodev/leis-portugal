@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 15.º\n\n1 - Enquanto o Estado for accionista, e independentemente do número de acções de que seja titular, o Governo terá o direito de nomear, nos termos da respectiva legislação, um administrador, sem prejuízo da participação dos votos do Estado na eleição de outros administradores, nos termos gerais.\n\n2 - Por força dos interesses nacionais em causa não se consideram tomadas contra o voto expresso das acções pertencentes ao Estado as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade, contratos de grupo paritário ou de subordinação, limitação ou supressão do direito de preferência dos accionistas, consentimento para alienação ou oneração de acções e, bem assim, sobre a escolha de novo adquirente, no caso de o consentimento ser recusado, ou quaisquer decisões que directa ou indirectamente possam pôr em causa o abastecimento normal do País.\n\n3 - O administrador nomeado nos termos do n.º 1 tem a competência, os direitos e os deveres definidos na lei para os administradores por parte do Estado.",
+    "depois": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\na) O artigo 15.º do Decreto-Lei n.º 353/91, de 20 de Setembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:301631:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

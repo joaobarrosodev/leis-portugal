@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nNa Conservatória dos Registos Centrais serão cobrados pelos serviços de registo de nacionalidade os seguintes emolumentos:\n\na) Por cada declaração para a aquisição, perda ou reaquisição da nacionalidade, ou para a sua manutenção ou não aquisição, em caso de casamento ... 100$00\n\nb) Por cada registo de nacionalidade, em caso de naturalização e, quando requerido, nos casos das alíneas a), b) e c) da base XLI da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959 ... 100$00\n\nc) Por cada processo de contencioso da nacionalidade ... 150$00\n\nd) Por cada certificado de nacionalidade ... 25$00",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.",
+    "excerto": "Art. 62.º São revogados o Decreto n.º 43090, de 27 de Julho de 1960, os artigos 1.º, 2.º e 4.º do Decreto-Lei n.º 43110, de 6 de Agosto de 1960, e a Portaria n.º 17930, de 5 de Setembro de 1960.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501222:por",
+    "alterador": "pt:dre:397908:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nÉ aplicável às certidões extraídas de registos de nacionalidade o disposto nos artigos 29.º e 31.º da tabela anexa ao Código do Registo Civil.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.",
+    "excerto": "Art. 62.º São revogados o Decreto n.º 43090, de 27 de Julho de 1960, os artigos 1.º, 2.º e 4.º do Decreto-Lei n.º 43110, de 6 de Agosto de 1960, e a Portaria n.º 17930, de 5 de Setembro de 1960.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501222:por",
+    "alterador": "pt:dre:397908:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º\n\n1. Os registos de nacionalidade respeitantes a indivíduos nas condições previstas no artigo 256.º do Código Administrativo, bem como os documentos e declarações para eles necessários, são gratuitos.\n\n2. São igualmente gratuitas as transcrições oficiosas, realizadas na Conservatória dos Registos Centrais, de actos de registo civil ou de nacionalidade lavrados pelos órgãos especiais do registo civil.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.",
+    "excerto": "Art. 62.º São revogados o Decreto n.º 43090, de 27 de Julho de 1960, os artigos 1.º, 2.º e 4.º do Decreto-Lei n.º 43110, de 6 de Agosto de 1960, e a Portaria n.º 17930, de 5 de Setembro de 1960.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:501222:por",
+    "alterador": "pt:dre:397908:por"
+  }
+]

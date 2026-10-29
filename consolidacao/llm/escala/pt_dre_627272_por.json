@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:627272:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Exceptuam-se do disposto no artigo 1.º:\n\na) As empresas para cujos serviços ou fornecimentos estiver estabelecida remuneração em tarifas fixadas ou aprovadas pelo Governo ou corpos administrativos e que nos últimos dois anos não hajam tido lucros;\n\nb) Os estabelecimentos ou obras do Estado ou dos corpos administrativos, excepto na parte da mão-de-obra que diga respeito a artigos ou trabalhos destinados à concorrência com a indústria particular;\n\nc) Os indivíduos ou empresas que tomem ou tenham tomado empreitadas do Estado ou dos corpos administrativos, quanto à parte respeitante à mão-de-obra utilizada nessas empreitadas, enquanto os salários se mantiverem em valor não inferior ao dos praticados à data da adjudicação;\n\nd) (Revogada.)\n\ne) As remunerações do pessoal requisitado ao Comissariado do Desemprego, nos termos dos artigos 54.º e 69.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), de 19 de Setembro de 1932;\n\nf) Os subsídios, abonos ou pensões, seja qual for a sua natureza, concedidos ao abrigo do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, e legislação complementar;\n\ng) Os subsídios a que se refere a segunda parte do artigo 8.º do [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444), de 23 de Agosto de 1962;\n\nh) As importâncias pagas aos alunos das escolas industriais em estágio de trabalho profissional a que se refere o artigo 75.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948;\n\ni) As pensões do pessoal aposentado ou reformado;\n\nj) As remunerações isentas por lei especial."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Exceptuam-se do disposto no artigo 2.º:\n\na) Os empregados ou assalariados com menos de quatro dias de trabalho semanal no conjunto da sua actividade, prestada para uma só ou para mais do que uma entidade patronal, qualquer que seja o número diário de horas de trabalho prestado;\n\nb) (Revogada.)\n\nc) Os assalariados considerados como domésticos;\n\nd) O pessoal aposentado ou reformado, quanto às pensões de aposentação ou de reforma;\n\ne) As remunerações relativas à prestação de serviços ao Estado e aos corpos administrativos, excepto tratando-se de serviços prestados em empreitadas ou em estabelecimentos ou obras que façam concorrência com a indústria particular;\n\nf) As remunerações pagas pelo trabalho prestado por reclusos em estabelecimentos prisionais;\n\ng) O pessoal que receba subsídios, abonos ou pensões de qualquer natureza, ao abrigo do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242) e legislação complementar;\n\nh) Os frequentadores de cursos de formação profissional acelerada, no que se refere aos subsídios previstos na segunda parte do artigo 8.º do [Decreto n.º 44538](https://diariodarepublica.pt/dr/detalhe/decreto/44538-1962-165444);\n\ni) Os alunos das escolas industriais pelas importâncias que receberem enquanto se encontrarem a prestar o estágio a que se refere o artigo 75.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414);\n\nj) O pessoal requisitado ao Comissariado do Desemprego nos termos dos artigos 54.º e 69.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347);\n\nl) As remunerações isentas por lei especial.\n\n§ 1.º Só se consideram trabalhadores rurais, para efeitos deste artigo, os assalariados que exerçam uma actividade estritamente agrícola, quer em contacto directo com o campo, quer nas oficinas ou nos estabelecimentos tecnológicos privativos da exploração agrícola ou a ela anexos, mas apenas quando trabalhem produtos agrícolas da empresa exploradora.\n\n§ 2.º As dúvidas relativas à classificação dos trabalhadores serão esclarecidas pelo Ministério das Corporações e Previdência Social."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Não aplicadas as novas redações dos artigos 6.º e 7.º (Decretos-Leis n.os 67/80, 240/83 e 233/84): texto não fornecido; a substituição dos modelos de guias anexos (Decreto-Lei n.º 612/76) é alteração de anexo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

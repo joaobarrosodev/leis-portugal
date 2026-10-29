@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:240823:por",
+  "artigos": [
+    {
+      "chave": "34.º",
+      "epigrafe": "Contingentes de vagas",
+      "texto": "1 - (Revogado.)\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "aditar",
+    "regra": "aditamento de artigo",
+    "antes": "",
+    "depois": "###### Artigo 4.º — Vigência\n\nO regime previsto no presente diploma vigora até 31 de Dezembro de 2002.\n\n> Aditado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), publicado em 2001-11-13.",
+    "excerto": "Ao Decreto Legislativo Regional n.º 10/2000/A, de 12 de Maio, é aditado o artigo 4.º, com a seguinte redacção:\n\n«Artigo 4.º\n\nVigência\n\nO regime previsto no presente diploma vigora até 31 de Dezembro de 2002.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275240:por",
+    "alterador": "pt:dre:603512:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º — Vigência\n\nO regime previsto no presente diploma vigora até 31 de Dezembro de 2002.\n\n> Aditado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), publicado em 2001-11-13.",
+    "depois": "###### Artigo 4.º — Vigência\n\nO regime previsto no presente diploma vigora até 30 de Junho de 2003.\n\n> Aditado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), publicado em 2001-11-13.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 20/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-572607), publicado em 2003-05-06.",
+    "excerto": "O artigo 4.º do Decreto Legislativo Regional n.º 10/2000/A, de 12 de Maio, aditado pelo Decreto Legislativo Regional n.º 23/2001/A, de 13 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\nO regime previsto no presente diploma vigora até 30 de Junho de 2003.»",
+    "artigo_alterador": "5.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275240:por",
+    "alterador": "pt:dre:572607:por"
+  }
+]

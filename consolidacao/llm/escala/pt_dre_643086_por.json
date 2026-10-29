@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:643086:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (DL 321/2001, 228/2003, 157/2005) não trazem o texto das novas redações dos artigos 36.º, 29.º, 31.º, 16.º, 17.º, 19.º, 62.º e do aditado 17.º-A.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

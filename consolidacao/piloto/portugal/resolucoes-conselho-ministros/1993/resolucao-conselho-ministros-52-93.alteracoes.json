@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "retificar",
+    "regra": "retificação",
+    "antes": "###### Artigo 4.º — Fases do concurso\n\n1 - O concurso processa-se nas seguintes fases:\n\na) Admissão das propostas;\n\nb) Selecção dos concorrentes;\n\nc) Avaliação das propostas e escolha do adquirente.\n\n2 - Apenas são admitidas à segunda e terceira fases os concorrentes seleccionados na fase imediatamente anterior.",
+    "depois": "###### Artigo 4.º — Fases do concurso\n\n1 - O concurso processa-se nas seguintes fases:\n\na) Admissão das propostas;\n\nb) Selecção dos concorrentes;\n\nc) Avaliação das propostas e escolha do adquirente.\n\n2 - Apenas são admitidos à segunda e terceira fases os concorrentes seleccionados na fase imediatamente anterior.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 195/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/195-1993-451188), publicado em 1993-09-30.",
+    "excerto": "No n.º 2 do artigo 4.º, onde se lê «2 - Apenas são admitidas à segunda» deve ler-se «2 - Apenas são admitidos à segunda».",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151317:por",
+    "alterador": "pt:dre:451188:por"
+  }
+]

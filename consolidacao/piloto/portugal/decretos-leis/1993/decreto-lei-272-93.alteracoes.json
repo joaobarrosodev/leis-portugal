@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\nNo âmbito do Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto, aprovado pelo [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, e para efeitos de contabilização da capacidade de endividamento dos municípios, fixada no n.º 6 do artigo 15.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, os empréstimos por estes contraídos somente são tidos em conta por metade do seu valor.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 34/96](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), publicado em 1996-08-29.",
+    "excerto": "É revogado o artigo 1.º do Decreto-Lei n.º 272/93, de 4 de Agosto.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:369444:por",
+    "alterador": "pt:dre:243918:por"
+  }
+]

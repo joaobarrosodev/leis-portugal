@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º — Protocolo de colaboração\n\n1 - Para os efeitos do artigo anterior, é celebrado um protocolo, pelo prazo de um ano, renovável, entre um estabelecimento de ensino onde se ministre o curso de licenciatura em Medicina e uma instituição prestadora de cuidados de saúde, o qual apenas adquire eficácia após homologação dos Ministros da Educação e da Saúde.\n\n2 - O acompanhamento da execução do protocolo é assegurado por uma comissão mista.\n\n3 - Do protocolo consta, obrigatoriamente:\n\na) A unidade ou unidades curriculares ou parte delas abrangidas pelo protocolo, sua duração e conteúdo;\n\nb) O departamento ou serviço da instituição prestadora de cuidados de saúde onde o ensino irá ser ministrado, com indicação do seu director e responsabilização deste pela concretização do ensino prosseguido, com a qualidade e nas condições expressamente clausuladas;\n\nc) A fixação, em percentagem, da gratificação prevista no n.º 3 do artigo anterior, bem como dos procedimentos adequados ao seu processamento e da compensação prevista no n.º 4 do mesmo artigo;\n\nd) A composição da comissão mista;\n\ne) Mecanismos de renovação e cessação.",
+    "depois": "###### Artigo 3.º — Protocolo de colaboração\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.",
+    "excerto": "1 - São revogados:\n\nd) O artigo 3.º do Decreto-Lei n.º 33/2002, de 19 de Fevereiro.",
+    "artigo_alterador": "15.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:278031:por",
+    "alterador": "pt:dre:480522:por"
+  }
+]

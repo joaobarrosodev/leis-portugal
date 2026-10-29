@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nO regime estabelecido no número anterior é extensivo, nos mesmos precisos termos, ao pessoal de idêntico quadro da Secretaria-Geral da Presidência do Conselho de Ministros que prestar serviço na residência oficial do Primeiro-Ministro.\n\nVisto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Janeiro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2012-544382), publicado em 2012-01-20.\n\nVisto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Janeiro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "excerto": "1 - São revogados:\n\nc) O artigo 2.º do Decreto-Lei n.º 38/82, de 6 de Fevereiro.",
+    "artigo_alterador": "11.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600525:por",
+    "alterador": "pt:dre:544382:por"
+  }
+]

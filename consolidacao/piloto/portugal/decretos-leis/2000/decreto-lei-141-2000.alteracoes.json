@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 13.º — Direitos especiais do Estado\n\n1 - Enquanto o Estado for accionista da sociedade, independentemente do número de acções de que for titular e quer o seja directamente ou indirectamente, por meio de entes públicos na acepção da alínea c) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, as deliberações da assembleia geral a seguir referidas só se considerarão aprovadas se merecerem o voto favorável do Estado:\n\na) Deliberações de alteração do contrato de sociedade, incluindo de aumento de capital, de fusão, cisão e de dissolução;\n\nb) Deliberação sobre celebração de contratos de grupo paritário e de subordinação;\n\nc) Deliberações de supressão ou limitação do direito de preferência dos accionistas em aumentos de capital.\n\n2 - Enquanto for accionista da sociedade, nos termos do número anterior, o Estado, se votar contra a proposta que fizer vencimento na eleição dos administradores, gozará ainda do direito de designar um administrador, o qual substituirá automaticamente a pessoa menos votada da lista vencedora ou, em caso de igualdade de votos, aquela que figurar em último lugar na mesma lista.\n\n3 - O direito conferido ao Estado no número anterior prevalece sobre os direitos similares conferidos aos accionistas minoritários pelo artigo 392.º do Código das Sociedades Comerciais.",
+    "depois": "###### Artigo 13.º — Direitos especiais do Estado\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\nh) O artigo 13.º do Decreto-Lei n.º 141/2000, de 15 de Julho;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:320089:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

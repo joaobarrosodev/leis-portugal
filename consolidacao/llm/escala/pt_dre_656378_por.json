@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:656378:por",
+  "artigos": [
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Nova redação do art. 14.º (DL 213/82) sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

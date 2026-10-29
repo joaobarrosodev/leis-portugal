@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º\n\n1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.\n\n2 - O montante das indemnizações será fixado tendo em conta o parecer técnico da Direcção Regional de Veterinária e publicado na portaria referida no n.º 2 do artigo anterior.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1987.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 17 de Fevereiro de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.",
+    "depois": "###### Artigo 2.º\n\n1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.\n\n2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 240.º do/a [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), publicado em 2011-11-16.\n\nAssinado em Angra do Heroísmo em 17 de Fevereiro de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.",
+    "excerto": "O n.º 2 do artigo 2.º do Decreto Legislativo Regional n.º 3/87/A, de 11 de Março, que regula a atribuição de indemnizações pelo abate compulsivo de animais, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - ...\n\n2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior.»",
+    "artigo_alterador": "240.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:662531:por",
+    "alterador": "pt:dre:146215:por"
+  }
+]

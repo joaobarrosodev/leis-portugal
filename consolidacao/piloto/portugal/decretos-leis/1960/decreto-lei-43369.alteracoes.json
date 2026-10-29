@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nAs idades mencionadas na alínea a) do § único do artigo 8.º do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441) serão referidas a 31 de Dezembro do ano em que o exame é requerido.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 44560](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44560-1962-159703) e [Decreto-Lei n.º 45654](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45654-1964-471774) e [Decreto-Lei n.º 437/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1971-633317) e [Decreto-Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1977-141648), publicado em 1977-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512977:por",
+    "alterador": "pt:dre:159703:por;pt:dre:471774:por;pt:dre:633317:por;pt:dre:141648:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n1 - Nos empréstimos a conceder ao abrigo do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, quando a soma das idades do casal não exceder 50 anos, ou tratando-se, de pessoa só, 30 anos, a percentagem máxima do financiamento é de 100%, desde que os fogos se incluam nas classes A ou B.\n\n2 - Quando os rendimentos declarados se mostrarem insuficientes para garantir o pagamento das prestações, poderão os mutuários, sem prejuízo da garantia hipotecária a que se refere o artigo 15.º, oferecer fiança prestada por ascendentes.\n\n3 - A prestação da fiança prevista no número anterior não prejudica a concessão do subsídio familiar e das bonificações decorrentes da classe do fogo e do escalão de rendimentos dos mutuários.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 20-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-1986-222852), publicado em 1986-02-13.",
+    "excerto": "Art. 5.º É revogado o artigo 1.º do Decreto-Lei n.º 201/85, de 25 de Junho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:182234:por",
+    "alterador": "pt:dre:222852:por"
+  }
+]

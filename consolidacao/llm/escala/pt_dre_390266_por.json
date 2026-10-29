@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:390266:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1 a 7: a instrução só tem a frase introdutória, sem a nova redação; instrução 8 revoga capítulos I, II, V e VI com exceções, sem se saber que artigos pertencem a cada capítulo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

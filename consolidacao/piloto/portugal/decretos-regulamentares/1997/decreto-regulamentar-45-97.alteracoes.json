@@ -1,0 +1,47 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 5.º — Órgãos\n\nSão órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 5.º — Órgãos\n\nSão órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ne) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 45/97, de 17 de novembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "b"
+    ],
+    "diploma": "pt:dre:685041:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Departamento de Botânica da Faculdade de Ciências e Tecnologia da Universidade de Coimbra:\n\nb) Departamento de Zoologia da Faculdade de Ciência e Tecnologia da Universidade de Coimbra;\n\nc) Comissão de Coordenação da Região do Centro;\n\nd) Delegação Regional da Indústria e Energia do Centro;\n\ne) Direcção Regional de Agricultura da Beira Litoral;\n\nf) Direcção Regional do Ambiente - Centro;\n\ng) Câmara Municipal de Coimbra;\n\nh) Câmara Municipal de Condeixa-a-Nova;\n\ni) Câmara Municipal de Montemor-o-Velho;\n\nj) Junta de Freguesia de Anobra;\n\nl) Junta de Freguesia de Arzila;\n\nm) Junta de Freguesia de Pereira de Campo;\n\nn) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional com intervenção na região.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros.",
+    "depois": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ne) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 45/97, de 17 de novembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685041:por",
+    "alterador": "pt:dre:67198365:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;\n\ne) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural.",
+    "depois": "###### Artigo 9.º — Competências do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "São revogados:\n\ne) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do Decreto Regulamentar n.º 45/97, de 17 de novembro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685041:por",
+    "alterador": "pt:dre:67198365:por"
+  }
+]

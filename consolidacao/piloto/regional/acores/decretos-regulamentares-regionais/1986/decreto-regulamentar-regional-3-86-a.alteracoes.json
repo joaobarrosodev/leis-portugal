@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "60.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 60.º — (Regime de alerta)\n\nA Direcção Regional de Saúde definirá, em conjunto com os conselhos de administração dos centros de saúde, as situações em que se recorrerá ao regime de alerta.",
+    "depois": "###### Artigo 60.º — Regime de alerta\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945) e [Decreto Regulamentar Regional n.º 9/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1997-383448) e [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:332945:por;pt:dre:383448:por;pt:dre:176359:por"
+  }
+]

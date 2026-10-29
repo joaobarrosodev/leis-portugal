@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:479605:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Revogação e regime transitório",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

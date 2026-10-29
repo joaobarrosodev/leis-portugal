@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — (Conceito de custas. Extensão da regra de custas)\n\n1. Os processos cíveis estão sujeitos a custas, salvo se forem excepcionalmente isentos por lei.\n\n2. As custas compreendem o imposto de justiça, os selos e os encargos.",
+    "depois": "###### Artigo 1.º — Conceito de custas. Extensão da regra de custas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1976-507628) e [Lei n.º 38/86](https://diariodarepublica.pt/dr/detalhe/lei/38-1986-219960) e [Decreto-Lei n.º 214/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655) e [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), publicado em 1996-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545666:por",
+    "alterador": "pt:dre:507628:por;pt:dre:219960:por;pt:dre:421655:por;pt:dre:553668:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — (Concorrência de diversos regimes de custas)\n\n1. As custas dos processos cujos termos só em parte corram nos tribunais comuns são, nessa parte, contadas segundo as regras deste diploma, ainda que, no restante, estejam subordinadas a lei especial.\n\n2. Regime análogo de contagem é aplicável nos processos cujos termos corram, em parte, nos tribunais da metrópole e, noutra parte, nos tribunais das províncias ultramarinas.",
+    "depois": "###### Artigo 2.º — Concorrência de diversos regimes de custas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1976-507628) e [Lei n.º 38/86](https://diariodarepublica.pt/dr/detalhe/lei/38-1986-219960) e [Decreto-Lei n.º 214/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655) e [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), publicado em 1996-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545666:por",
+    "alterador": "pt:dre:507628:por;pt:dre:219960:por;pt:dre:421655:por;pt:dre:553668:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — (Isenção do processado repetido)\n\n1. Na falta de oposição do interessado é isenta de custas a parte do processo que haja de repetir-se em virtude de decisão que julgue procedente a arguição de nulidade dos actos judiciais, e bem assim o processado que seja simples consequência da falta de cumprimento de disposições legais por parte dos funcionários.\n\n2. No caso de anulação de diligências ou do processado em consequência de decisão do tribunal superior a parte que decair no recurso, ainda que não tenha deduzido oposição, pagará, além das custas do recurso, as despesas de deslocação e as remunerações e indemnizações devidas às testemunhas, peritos ou intérpretes, as quais são adiantadas pelo cofre do tribunal.\n\n3. O juiz pode, em despacho fundamentado, relevar a falta de cumprimento das disposições legais por parte dos funcionários; se entender que a falta não deve ser relevada, condenará o responsável a pagar os encargos do processado inútil.",
+    "depois": "###### Artigo 7.º — Isenção do processado repetido\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1976-507628) e [Lei n.º 38/86](https://diariodarepublica.pt/dr/detalhe/lei/38-1986-219960) e [Decreto-Lei n.º 214/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655) e [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), publicado em 1996-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545666:por",
+    "alterador": "pt:dre:507628:por;pt:dre:219960:por;pt:dre:421655:por;pt:dre:553668:por"
+  },
+  {
+    "artigo": "87.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 87.º — (Divisão da importância de procuradoria)\n\nDa importância arbitrada a título de procuradoria, exceptuada a que deva ser contada para o Cofre Geral dos Tribunais, e das remunerações a que faz referência o artigo anterior, quando arbitradas a advogados ou solicitadores, é feita a dedução de 62 por cento, dos quais competem 4 por cento ao conselho geral da Ordem dos Advogados, revertendo os restantes 58 por cento:\n\na) Para a Caixa de Previdência da Ordem dos Advogados, nos processos em que a parte vencedora seja representada só por advogado ou candidato à advocacia, ou seja advogado ou candidato à advocacia o defensor nomeado oficiosamente;\n\nb) Para a Caixa de Previdência da Câmara dos Solicitadores, quando seja solicitador o representante da parte ou o defensor oficioso;\n\nc) Para ambas as instituições, na proporção de cinco sextos para a primeira e um sexto para a segunda, quando intervenha advogado e solicitador.",
+    "depois": "###### Artigo 87.º — Divisão da importância de procuradoria\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1976-507628) e [Lei n.º 38/86](https://diariodarepublica.pt/dr/detalhe/lei/38-1986-219960) e [Decreto-Lei n.º 214/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655) e [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), publicado em 1996-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545666:por",
+    "alterador": "pt:dre:507628:por;pt:dre:219960:por;pt:dre:421655:por;pt:dre:553668:por"
+  },
+  {
+    "artigo": "107.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 107.º — (Oportunidade de pagamento dos preparos para julgamento)\n\n1. Os preparos para julgamento serão feitos, conforme os casos, antes da audiência de discussão e julgamento, da sessão do tribunal ou da decisão, no prazo que o juiz fixar no despacho que designar dia para a audiência, que mandar inscrever o processo em tabela ou que ordenar o último acto ou termo processual anterior, entre 24 horas e cinco dias. Na falta de fixação o prazo é de cinco dias.\n\n2. Nos recursos, o preparo para julgamento pode ser feito juntamente com o preparo inicial se a parte o desejar efectuar no tribunal de que se recorreu.",
+    "depois": "###### Artigo 107.º — Oportunidade de pagamento dos preparos para julgamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1976-507628) e [Lei n.º 38/86](https://diariodarepublica.pt/dr/detalhe/lei/38-1986-219960) e [Decreto-Lei n.º 214/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1987-421655) e [Decreto-Lei n.º 224-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-a-1996-553668), publicado em 1996-11-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545666:por",
+    "alterador": "pt:dre:507628:por;pt:dre:219960:por;pt:dre:421655:por;pt:dre:553668:por"
+  }
+]

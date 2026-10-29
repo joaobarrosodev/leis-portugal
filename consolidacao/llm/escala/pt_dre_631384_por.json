@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:631384:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções do Decreto-Lei n.º 330/72 e do artigo 1.º do Decreto-Lei n.º 136/75 sem texto da nova redação (artigos 2.º, 15.º e 19.º); só aplicadas as revogações dos artigos 7.º e 14.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "32.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 32.º\n\nOs espaços urbanos e urbanizáveis que se encontram identificados na planta de ordenamento, à escala 1:25000, e nas plantas n.os 65 e 66, à escala 1:5000, compreendem as seguintes categorias de unidades operativas de planeamento e gestão:\n\na) Áreas residenciais;\n\nb) Áreas para equipamentos;\n\nc) Áreas turísticas.",
+    "depois": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 55.º do/a [Aviso n.º 8391/2019](https://diariodarepublica.pt/dr/detalhe/aviso/8391-2019-122305695), publicado em 2019-05-15.",
+    "excerto": "2 - Na área de intervenção do PPHC, é revogado o artigo 32.º da Resolução do Conselho de Ministros n.º 50/93, de 22 de abril, que ratifica o Plano Diretor Municipal de Cuba.",
+    "artigo_alterador": "55.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:260596:por",
+    "alterador": "pt:dre:122305695:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º — Direitos especiais do Estado\n\nMantém-se em vigor o disposto no artigo 13.º do [Decreto-Lei n.º 141/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2000-320089), de 15 de Julho.",
+    "depois": "###### Artigo 10.º — Direitos especiais do Estado\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\nj) O artigo 10.º do Decreto-Lei n.º 218-A/2004, de 25 de Outubro;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:656440:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

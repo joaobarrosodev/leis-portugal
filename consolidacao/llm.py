@@ -14,9 +14,15 @@ Sem a API, uma sessão do Claude pode fazer o mesmo: `--sessao` escreve
 `consolidacao/llm/entrada-sessao.jsonl` (uma linha por diploma, com as regras em `regras` e o
 pedido em `pedido`) e `--importar FICHEIRO` passa as respostas da sessão (uma linha por
 diploma, `{"id", "artigos", "nao_aplicavel"}`) pela mesma verificação e grava-as em
-`consolidacao/llm/`, como `--executar`.
+`consolidacao/llm/` (com `--escala`, em `llm/escala/`), como `--executar`.
 
-Uso: `python consolidacao/llm.py [--estimar | --executar | --sessao | --importar FICHEIRO] [--modelo claude-opus-5-5]`.
+**Escala (`--escala`):** lê `pendentes-escala.jsonl` e `selecao-escala.jsonl`. Com `--sessao`,
+os diplomas vão em lotes de `--lote`, primeiro os de original com artigos identificados e depois os
+sem artigos, e em cada grupo os mais citados primeiro (a ordem fica em `llm/LEIAME-lotes.md`),
+`llm/entrada-sessao-escala-001.jsonl`, `-002`, … Um diploma com vários alteradores leva as
+instruções por ordem de aplicação, cada uma com o diploma de que vem.
+
+Uso: `python consolidacao/llm.py [--estimar | --executar | --sessao | --importar FICHEIRO] [--modelo claude-opus-5-5] [--escala] [--lote 40]`.
 """
 
 from __future__ import annotations
@@ -78,9 +84,18 @@ ESQUEMA = {
 }
 
 
+def _alteradores(selecao: dict) -> list[dict]:
+    return selecao.get("alteradores") or [selecao["alterador"]]
+
+
 def pedido(diploma: dict, selecao: dict) -> str:
     """O conteúdo do pedido para um diploma: os artigos do original e as instruções."""
-    partes = [f"Diploma original: {diploma['title']}", f"Diploma que altera: {selecao['alterador'].get('title')}", ""]
+    alteradores = [a for a in _alteradores(selecao) if a.get("path")]
+    if len(alteradores) > 1:
+        titulos = [a.get("title") or a["id"] for a in alteradores]
+        partes = [f"Diploma original: {diploma['title']}", f"Diplomas que alteram, por ordem de aplicação: {'; '.join(titulos)}", ""]
+    else:
+        partes = [f"Diploma original: {diploma['title']}", f"Diploma que altera: {alteradores[0].get('title')}", ""]
     artigos = {a["chave"]: a["texto"] for item in diploma["itens"] for a in item["artigos_original"]}
     if artigos:
         partes.append("## Artigos do original")
@@ -89,7 +104,9 @@ def pedido(diploma: dict, selecao: dict) -> str:
         # Original sem artigos identificados: vai o texto inteiro.
         partes += ["## Texto do original", publicado(RAIZ / selecao["path"])]
     partes.append("## Instruções do diploma que altera")
-    partes += [f"### Instrução {i}\n{item['excerto']}\n" for i, item in enumerate(diploma["itens"], 1)]
+    for i, item in enumerate(diploma["itens"], 1):
+        origem = f" ({item['alterador']})" if len(alteradores) > 1 and item.get("alterador") else ""
+        partes.append(f"### Instrução {i}{origem}\n{item['excerto']}\n")
     return "\n".join(partes)
 
 
@@ -97,12 +114,12 @@ def verificar_resposta(resultado: dict, diploma: dict, selecao: dict) -> list[st
     """Cada parágrafo devolvido vem, letra a letra, do diploma que altera ou do original."""
     from verificar import _REVOGADO, _plano
 
-    alterador = _plano(publicado(RAIZ / selecao["alterador"]["path"]))
+    alteradores = [_plano(publicado(RAIZ / a["path"])) for a in _alteradores(selecao) if a.get("path")]
     original = _plano(publicado(RAIZ / selecao["path"]))
     problemas = []
     for artigo in resultado.get("artigos", []):
         for p in (x.strip() for x in artigo["texto"].split("\n\n") if x.strip()):
-            if not _REVOGADO.match(p) and _plano(p) not in alterador and _plano(p) not in original:
+            if not _REVOGADO.match(p) and not any(_plano(p) in a for a in alteradores) and _plano(p) not in original:
                 problemas.append(f"{artigo['chave']}: parágrafo que não está no alterador nem no original: {p[:80]}")
     return problemas
 
@@ -161,24 +178,106 @@ def executar(pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> di
     return dict(uso)
 
 
+def _linha_sessao(d: dict, selecao: dict) -> dict:
+    alteradores = [a.get("title") or a["id"] for a in _alteradores(selecao) if a.get("path")]
+    return {
+        "id": d["id"], "titulo": d["title"], "alterador": "; ".join(alteradores),
+        "citacoes": selecao.get("citacoes", 0),
+        "motivos": sorted({item["motivo"] for item in d["itens"]}),
+        "regras": SISTEMA, "esquema_da_resposta": ESQUEMA, "pedido": pedido(d, selecao),
+    }
+
+
 def sessao(pendentes: list[dict], selecao: dict[str, dict]) -> Path:
     """A entrada para uma sessão do Claude aplicar as instruções, sem a API."""
     SAIDA.mkdir(exist_ok=True)
     destino = SAIDA / "entrada-sessao.jsonl"
     with destino.open("w", encoding="utf-8") as f:
         for d in pendentes:
-            f.write(json.dumps({
-                "id": d["id"], "titulo": d["title"], "alterador": selecao[d["id"]]["alterador"].get("title"),
-                "motivos": sorted({item["motivo"] for item in d["itens"]}),
-                "regras": SISTEMA, "esquema_da_resposta": ESQUEMA, "pedido": pedido(d, selecao[d["id"]]),
-            }, ensure_ascii=False) + "\n")
+            f.write(json.dumps(_linha_sessao(d, selecao[d["id"]]), ensure_ascii=False) + "\n")
     return destino
 
 
-def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str) -> dict:
+def sem_artigos(resultado: dict) -> bool:
+    """O original não tem artigos identificados: a resposta do LLM não tem onde encaixar no
+    texto corrido e o `juntar.py` não a junta."""
+    return str(resultado.get("motivo") or "").startswith("original sem artigos")
+
+
+def sessao_escala(pendentes: list[dict], selecao: dict[str, dict], lote: int, resultados: dict[str, dict] | None = None) -> list[Path]:
+    """A entrada para uma sessão do Claude, por lotes: primeiro os diplomas cujo original tem
+    artigos identificados (os que o `juntar.py` sabe juntar), depois os sem artigos, e em cada
+    grupo os mais citados primeiro. Escreve também `llm/LEIAME-lotes.md` com a ordem."""
+    resultados = resultados or {}
+    SAIDA.mkdir(exist_ok=True)
+    for antigo in SAIDA.glob("entrada-sessao-escala-*.jsonl"):
+        antigo.unlink()
+    ordenados = sorted(
+        pendentes,
+        key=lambda d: (sem_artigos(resultados.get(d["id"], {})), -selecao[d["id"]].get("citacoes", 0), d["id"]),
+    )
+    destinos, resumo = [], []
+    for n, inicio in enumerate(range(0, len(ordenados), lote), 1):
+        destino = SAIDA / f"entrada-sessao-escala-{n:03d}.jsonl"
+        grupo = ordenados[inicio : inicio + lote]
+        with destino.open("w", encoding="utf-8") as f:
+            for d in grupo:
+                f.write(json.dumps(_linha_sessao(d, selecao[d["id"]]), ensure_ascii=False) + "\n")
+        destinos.append(destino)
+        citacoes = [selecao[d["id"]].get("citacoes", 0) for d in grupo]
+        resumo.append({
+            "lote": n, "diplomas": len(grupo), "sem_artigos": sum(sem_artigos(resultados.get(d["id"], {})) for d in grupo),
+            "citacoes_max": max(citacoes), "citacoes_min": min(citacoes),
+        })
+    _leiame_lotes(resumo, lote, len(ordenados))
+    return destinos
+
+
+def _leiame_lotes(resumo: list[dict], lote: int, total: int) -> None:
+    """`llm/LEIAME-lotes.md`: a ordem dos lotes e porquê, escrita a partir dos lotes gerados."""
+    com = [r for r in resumo if r["sem_artigos"] == 0]
+    mistos = [r for r in resumo if 0 < r["sem_artigos"] < r["diplomas"]]
+    sem = [r for r in resumo if r["sem_artigos"] == r["diplomas"]]
+    n_sem = sum(r["sem_artigos"] for r in resumo)
+
+    def intervalo(grupo: list[dict]) -> str:
+        return f"{grupo[0]['lote']:03d} a {grupo[-1]['lote']:03d}" if len(grupo) > 1 else f"{grupo[0]['lote']:03d}" if grupo else "—"
+
+    linhas = [
+        "# Lotes para o LLM: ordem",
+        "",
+        "Escrito por `python consolidacao/llm.py --sessao --escala`; não se edita à mão. Cada lote é um ficheiro",
+        f"`entrada-sessao-escala-NNN.jsonl` com até {lote} diplomas ({total} no total, {len(resumo)} lotes).",
+        "",
+        "**Ordem:** primeiro os diplomas cujo original tem artigos identificados, que o `juntar.py` sabe juntar;",
+        "no fim os originais sem artigos identificados (motivo \"original sem artigos…\" em `resultados-escala.jsonl`),",
+        "cuja resposta não tem onde encaixar no texto corrido. Dentro de cada grupo, os mais citados primeiro.",
+        "",
+        "| Lotes | Grupo | Diplomas | Citações (máx. → mín.) |",
+        "| --- | --- | --: | --- |",
+    ]
+    for nome, grupo in (("com artigos identificados", com), ("a meio: acaba o grupo com artigos e começam os sem artigos", mistos), ("sem artigos identificados", sem)):
+        if grupo:
+            linhas.append(f"| {intervalo(grupo)} | {nome} | {sum(r['diplomas'] for r in grupo)} | {max(r['citacoes_max'] for r in grupo)} → {min(r['citacoes_min'] for r in grupo)} |")
+    linhas += [
+        "",
+        f"Sem artigos identificados: {n_sem} diplomas. Os outros {total - n_sem} são os que valem a pena fazer primeiro.",
+        "",
+        "## Por lote",
+        "",
+        "| Lote | Diplomas | Sem artigos | Citações máx. | Citações mín. |",
+        "| --: | --: | --: | --: | --: |",
+        *(f"| {r['lote']:03d} | {r['diplomas']} | {r['sem_artigos']} | {r['citacoes_max']} | {r['citacoes_min']} |" for r in resumo),
+        "",
+    ]
+    (SAIDA / "LEIAME-lotes.md").write_text("\n".join(linhas), encoding="utf-8")
+
+
+def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], modelo: str, escala: bool = False) -> dict:
     """As respostas de uma sessão, com a mesma verificação das respostas da API."""
     por_id = {d["id"]: d for d in pendentes}
-    SAIDA.mkdir(exist_ok=True)
+    destino = SAIDA / "escala" if escala else SAIDA  # as respostas da escala não tocam nas do piloto
+    destino.mkdir(parents=True, exist_ok=True)
     contagem = Counter()
     for linha in ficheiro.read_text(encoding="utf-8").splitlines():
         resultado = json.loads(linha)
@@ -186,7 +285,7 @@ def importar(ficheiro: Path, pendentes: list[dict], selecao: dict[str, dict], mo
         resultado |= {"modelo": resultado.get("modelo") or modelo, "pedido": "sessão"}
         resultado["problemas"] = verificar_resposta(resultado, d, selecao[d["id"]])
         contagem["com problemas" if resultado["problemas"] else "não aplicável" if not resultado.get("artigos") else "sem problemas"] += 1
-        (SAIDA / (d["id"].replace(":", "_") + ".json")).write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        (destino / (d["id"].replace(":", "_") + ".json")).write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return dict(contagem)
 
 
@@ -198,15 +297,24 @@ def main() -> int:
     modo.add_argument("--sessao", action="store_true")
     modo.add_argument("--importar", type=Path)
     parser.add_argument("--modelo", default="claude-opus-5-5")
-    parser.add_argument("--pendentes", type=Path, default=PASTA / "pendentes.jsonl")
+    parser.add_argument("--pendentes", type=Path, default=None)
+    parser.add_argument("--escala", action="store_true", help="pendentes-escala.jsonl e selecao-escala.jsonl")
+    parser.add_argument("--lote", type=int, default=40, help="escala, com --sessao: diplomas por ficheiro")
     args = parser.parse_args()
-    pendentes = [json.loads(l) for l in args.pendentes.read_text(encoding="utf-8").splitlines()]
-    selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao.jsonl").read_text(encoding="utf-8").splitlines())}
+    ficheiro_pendentes = args.pendentes or (PASTA / ("pendentes-escala.jsonl" if args.escala else "pendentes.jsonl"))
+    pendentes = [json.loads(l) for l in ficheiro_pendentes.read_text(encoding="utf-8").splitlines()]
+    ficheiro_selecao = PASTA / ("selecao-escala.jsonl" if args.escala else "selecao.jsonl")
+    selecao = {r["id"]: r for r in map(json.loads, ficheiro_selecao.read_text(encoding="utf-8").splitlines())}
+    if args.sessao and args.escala:
+        resultados = {r["id"]: r for r in map(json.loads, (PASTA / "resultados-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+        destinos = sessao_escala(pendentes, selecao, args.lote, resultados)
+        print(f"{len(pendentes)} diplomas em {len(destinos)} lotes de até {args.lote}: {SAIDA.relative_to(RAIZ)}/entrada-sessao-escala-NNN.jsonl")
+        return 0
     if args.sessao:
         print(f"{len(pendentes)} diplomas em {sessao(pendentes, selecao).relative_to(RAIZ)}")
         return 0
     if args.importar:
-        print(json.dumps(importar(args.importar, pendentes, selecao, args.modelo), ensure_ascii=False, indent=2))
+        print(json.dumps(importar(args.importar, pendentes, selecao, args.modelo, args.escala), ensure_ascii=False, indent=2))
         return 0
     if args.executar:
         if not os.environ.get("ANTHROPIC_API_KEY"):

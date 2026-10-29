@@ -1,0 +1,68 @@
+---
+id: pt:dre:215542:por
+title: Decreto-Lei n.º 49319
+original: data/portugal/decretos-leis/1969/decreto-lei-49319.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:356559:por
+    title: Decreto-Lei n.º 271/99
+    publication_date: '1999-07-16'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 49319
+
+Uma das metas do III Plano de Fomento em matéria de transportes rodoviários é dar às vias principais características que lhes permitam satisfazer as necessidades de um tráfego em rápido crescimento, remodelando as infra-estruturas rodoviárias existentes.
+
+Assim, o Plano destacou em rubricas a modernização de estradas que servem directamente Lisboa e Porto, bem como das grandes estradas de tráfego internacional e de outras vias de acentuado interesse público.
+
+Ao mesmo tempo, propôs-se também o Governo impulsionar a construção de estradas do Plano Rodoviário, incluindo as do Plano Coordenador com o Plano de Viação Rural e as do Plano do Nordeste Transmontano, facultando ao País novas vias, designadamente nas regiões em que os estudos indiquem que a sua baixa densidade entrava o desenvolvimento económico.
+
+A evolução do tráfego e do parque automóvel nacional mostra serem vários os casos em que aquela modernização se deve traduzir na construção de lanços de auto-estradas, e em especial no itinerário Lisboa-Porto, no qual apenas estão construídos, há já alguns anos, uns escassos 38 km de auto-estrada nas proximidades imediatas das duas cidades.
+
+Na realidade, no eixo Lisboa-Porto concentra-se uma percentagem considerável do tráfego rodoviário do País e as características actuais da estrada nacional n.º 1 não são de molde a econòmicamente consentir trabalhos de beneficiação em alguns dos troços mais sobrecarregados e de mais urgente modernização.
+
+Outras mais auto-estradas ou troços de auto-estradas se impõem ou virão a impor na sequência do crescimento do tráfego, e no primeiro caso se incluem os prolongamentos da auto-estrada da Costa do Sol, há anos interrompida junto ao Estádio Nacional, e da auto-estrada do Sul, para além do troço construído simultâneamente com a Ponte Salazar.
+
+É propósito do Governo dar ao problema das infra-estruturas rodoviárias, nacionais e municipais, renovada atenção, em correspondência com a especial importância que elas assumem para o progresso económico do País, e é dentro dessa ideia de reforço dos meios de acção que se vai encetar o sistema do financiamento privado para a execução de auto-estradas, em uso generalizado noutros países. Esta a finalidade do presente diploma.
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da construção, conservação e exploração de auto-estradas ou seus troços, para cumprimento dos programas de auto-estradas aprovadas pelo Conselho de Ministros.
+
+###### Artigo 2.º
+
+Cabe ao Conselho de Ministros adjudicar em cada caso a concessão, cuja outorga será feita por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e das Comunicações, tendo anexo o respectivo caderno de encargos.
+
+###### Artigo 3.º
+
+As concessões darão às entidades concessionárias o direito de perceber dos utentes das auto-estradas ou dos troços das auto-estradas a que se refiram a taxa de portagem fixada no decreto de ourtoga da concessão.
+
+###### Artigo 4.º
+
+O Estado poderá, quando as circunstâncias o aconselhem, participar no capital das entidades concessionárias directamente ou por intermédio das suas instituições de crédito.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1999-356559), publicado em 1999-07-16.
+
+###### Artigo 6.º
+
+1. Serão consideradas de utilidade pública as expropriações necessárias à construção das auto-estradas a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Obras Públicas.
+
+2. É aplicável às expropriações para os fins previstos no presente diploma o regime definido na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
+
+Promulgado em 15 de Outubro de 1969.
+
+Publique-se
+
+Presidência da República, 25 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

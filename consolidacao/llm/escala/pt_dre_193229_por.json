@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:193229:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções dos DL 46290, 46746, 46815, 47114 sem texto das novas redações dos artigos 19.º, 13.º, 43.º, 7.º, 16.º e 12.º; restantes alterações respeitam a tabelas anexas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

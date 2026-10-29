@@ -1,0 +1,19 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 8.º\n\nO conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:\n\na) A colaboração dos especialistas dos diversos órgãos da administração;\n\nb) O contrato de técnicos nacionais ou estrangeiros;\n\nc) O contrato ou assalariamento de pessoal estritamente indispensável ao funcionamento da secretaria do conselho administrativo, e das estruturas ou empreendimentos dependentes do apoio do Fundo.",
+    "depois": "###### Artigo 8.º\n\nO conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:\n\na) A colaboração dos especialistas dos diversos órgãos da administração;\n\nb) O contrato de técnicos nacionais ou estrangeiros;\n\nc) (Revogada.)\n\n> Revogado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.",
+    "excerto": "Art. 2.º É eliminada a alínea c) do artigo 8.º do Decreto n.º 49417, supracitado.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "",
+      "c"
+    ],
+    "diploma": "pt:dre:217090:por",
+    "alterador": "pt:dre:419246:por"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:512991:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "Ao devedor fica assegurado o direito de antecipar todas ou algumas das anuidades, sempre com referência ao primeiro vencimento seguinte e mediante aviso prévio, feito por escrito à entidade credora, até 31 de Dezembro de cada ano para as antecipações parciais.\n\n§ 1.º Nas antecipações totais serão cobrados juros apenas sobre o capital em dívida até ao fim do mês em que foi feita a antecipação.\n\n§ 2.º (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As instruções dos Decretos-Leis n.os 44534, 49294 (art. 13.º) e 406-B/75 não trazem o texto da nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "22.º: parágrafo que não está no alterador nem no original: § 2.º (Revogado.)"
+  ]
+}

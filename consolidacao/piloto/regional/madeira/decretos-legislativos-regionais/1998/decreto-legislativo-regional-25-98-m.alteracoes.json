@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 3.º — Renovação do contrato\n\n1 - Os contratos celebrados pelo período de um ano escolar podem ser renovados, consecutivamente, por igual período, até ao limite de quatro anos.\n\n2 - A renovação dos contratos depende de comunicação ao contratado a realizar pelo órgão de gestão do estabelecimento de educação/ensino até 15 de Julho.\n\n3 - O contratado tem cinco dias úteis para aceitar a proposta de renovação, prazo findo o qual se considera como não aceite.\n\n4 - Para efeitos de autorização, a delegação escolar/estabelecimento de ensino envia à Direcção Regional de Administração e Pessoal, até 10 de Agosto de cada ano, a proposta de renovação dos contratos e a declaração de anuência dos interessados.",
+    "depois": "###### Artigo 3.º — Renovação do contrato\n\n1 - (Revogado.)\n\n2 - A renovação dos contratos depende de comunicação ao contratado a realizar pelo órgão de gestão do estabelecimento de educação/ensino até 15 de Julho.\n\n3 - O contratado tem cinco dias úteis para aceitar a proposta de renovação, prazo findo o qual se considera como não aceite.\n\n4 - Para efeitos de autorização, a delegação escolar/estabelecimento de ensino envia à Direcção Regional de Administração e Pessoal, até 10 de Agosto de cada ano, a proposta de renovação dos contratos e a declaração de anuência dos interessados.\n\n> Revogado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 15-A/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2006-468639), publicado em 2006-04-24.",
+    "excerto": "1 - São revogados:\n\nb) O n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 25/98/M, de 16 de Dezembro.",
+    "artigo_alterador": "61.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:219162:por",
+    "alterador": "pt:dre:468639:por"
+  }
+]

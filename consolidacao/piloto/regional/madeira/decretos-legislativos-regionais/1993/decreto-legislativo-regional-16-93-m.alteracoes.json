@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos, não concluídos na data da entrada em vigor do presente diploma e não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 1996, sob pena de, a partir desta data, cessarem os fornecimentos de água, energia eléctrica e telefone.",
+    "depois": "###### Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos não concluídos na data da entrada em vigor do presente diploma e não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 1998, sob pena de, a partir desta data, cessarem os fornecimentos de água, energia eléctrica e telefone.\n\n> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 8/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1996-426773), publicado em 1996-06-27.",
+    "excerto": "O artigo 4.º do Decreto Legislativo Regional n.º 16/93/M, de 13 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos não concluídos na data da entrada em vigor do presente diploma e não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 1998, sob pena de, a partir desta data, cessarem os fornecimentos de água, energia eléctrica e telefone.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661569:por",
+    "alterador": "pt:dre:426773:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos não concluídos na data da entrada em vigor do presente diploma e não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 1998, sob pena de, a partir desta data, cessarem os fornecimentos de água, energia eléctrica e telefone.\n\n> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 8/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1996-426773), publicado em 1996-06-27.",
+    "depois": "###### Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos não concluídos na data da entrada em vigor do presente diploma não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 2000, sob pena de a partir dessa data cessarem os fornecimentos de água, energia eléctrica e telefone.\n\n> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 8/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1996-426773), publicado em 1996-06-27.\n\n> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 21/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1998-241405), publicado em 1998-09-17.",
+    "excerto": "O artigo 4.º do Decreto Legislativo Regional n.º 16/93/M, de 13 de Setembro, com a redacção introduzida pelo Decreto Legislativo Regional n.º 8/96/M, de 27 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nTodos os edifícios que não sejam clandestinos não concluídos na data da entrada em vigor do presente diploma não abrangidos por uma deliberação válida de licenciamento de obras terão de estar concluídos até 31 de Dezembro de 2000, sob pena de a partir dessa data cessarem os fornecimentos de água, energia eléctrica e telefone.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661569:por",
+    "alterador": "pt:dre:241405:por"
+  }
+]

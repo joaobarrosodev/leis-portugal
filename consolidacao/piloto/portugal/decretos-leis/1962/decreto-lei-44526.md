@@ -1,0 +1,60 @@
+---
+id: pt:dre:163631:por
+title: Decreto-Lei n.º 44526
+original: data/portugal/decretos-leis/1962/decreto-lei-44526.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:194867:por
+    title: Decreto-Lei n.º 44970
+    publication_date: '1963-04-10'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto-Lei n.º 44526
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como lei, o seguinte:
+
+###### Artigo 1.º
+
+O júri dos concursos de promoção a conselheiros de legação e cônsules gerais, a que se refere o artigo 5.º do [Decreto-Lei n.º 35985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35985-1946-149417), de 23 de Novembro de 1946, será presidido pelo secretário-geral do Ministério dos Negócios Estrangeiros, ou por quem as suas vezes fizer, e será constituído por dois ministros plenipotenciários de 1.ª ou 2.ª classe e por dois professores, sendo um das Faculdades de Direito e outro dos estabelecimentos superiores de ciências económicas e financeiras.
+
+###### Artigo 2.º
+
+É extinta na Secretaria de Estado a repartição criada pelo artigo 7.º do [Decreto-Lei n.º 35985](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35985-1946-149417), de 23 de Novembro de 1946.
+
+###### Artigo 3.º
+
+É criada na Secretaria de Estado, e integrada na Secretaria-Geral, a Repartição de Estudos e Planeamento, cuja competência será definida por despacho ministerial.
+
+###### Artigo 4.º
+
+É aumentado o quadro do pessoal privativo da Secretaria de Estado de dois lugares de escriturário e de dois lugares de dactilógrafo.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 44970](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44970-1963-194867), publicado em 1963-04-10.
+
+###### Artigo 6.º
+
+Ao adjunto do director-geral criado pelo presente diploma é atribuído para despesas de representação abono idêntico ao concedido aos funcionários da mesma categoria que exercem iguais funções na Secretaria de Estado.
+
+###### Artigo 7.º
+
+O número de ministros plenipotenciários de 2.ª classe do quadro da Secretaria de Estado é aumentado em uma unidade.
+
+###### Artigo 8.º
+
+Ficam revogados os artigos 8.º do Decreto-Lei n.º 36001, de 26 de Junho de 1947, e 11.º e 12.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
+
+###### Artigo 9.º
+
+As despesas resultantes da execução do presente decreto-lei serão suportadas no ano corrente por força das sobras apuradas no orçamento em vigor.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 21 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

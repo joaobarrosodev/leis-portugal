@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 3.º\n\nO serviço público cometido à empresa será explorado em regime de exclusivo, por tempo indeterminado.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 37.º do/a [Decreto Legislativo Regional n.º 15/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1996-407287), publicado em 1996-08-01.",
+    "excerto": "São revogados os artigos 3.º do Decreto Regional n.º 16/80/A, de 21 de Agosto, e 2.º e 3.º, n.º 1, do Decreto Regulamentar Regional n.º 34/81/A, de 18 de Julho.",
+    "artigo_alterador": "37.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:470857:por",
+    "alterador": "pt:dre:407287:por"
+  }
+]

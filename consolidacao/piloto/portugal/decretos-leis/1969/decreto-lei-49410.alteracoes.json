@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "16.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 16.º\n\nAos servidores do Estado que apresentem estudos ou sugestões que se julgue assegurarem aumento de eficiência e de economia na Administração podem ser atribuídos prémios pecuniários, louvores públicos, bolsas de estudo ou licenças para frequência, no País ou no estrangeiro, de cursos de especialização ou aperfeiçoamento dos seus conhecimentos profissionais.",
+    "depois": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236) e [Decreto-Lei n.º 514/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1970-147790) e [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159) e [Decreto-Lei n.º 142/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1975-161149) e [Decreto-Lei n.º 96/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1976-507050) e [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194) e [Decreto-Lei n.º 191/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1976-501630) e [Decreto-Lei n.º 183-F/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-f-1980-324951) e [Decreto-Lei n.º 192/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1984-143302) e [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176301:por",
+    "alterador": "pt:dre:227236:por;pt:dre:147790:por;pt:dre:173159:por;pt:dre:161149:por;pt:dre:507050:por;pt:dre:507194:por;pt:dre:501630:por;pt:dre:324951:por;pt:dre:143302:por;pt:dre:609331:por"
+  }
+]

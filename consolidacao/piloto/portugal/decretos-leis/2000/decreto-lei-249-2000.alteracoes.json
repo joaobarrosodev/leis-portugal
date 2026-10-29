@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 17.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, sancionadas com as seguintes coimas:\n\na) De 10000$00 a 50000$00, aplicada por cada passageiro transportado em infracção ao disposto no n.º 3 do artigo 8.º;\n\nb) De 250000$00 a 750000$00 a falta de autorização especial de circulação a que se refere o artigo 15.º;\n\nc) De 100000$00 a 500000$00 a circulação de comboio turístico em percurso não autorizado;\n\nd) De 100000$00 a 500000$00 a infracção ao disposto na alínea c) do artigo 13.º\n\n2 - A infracção ao disposto no artigo 12.º é sancionada nos termos do artigo 27.º, n.º 3, alínea b), do Código da Estrada.\n\n3 - Nas contra-ordenações previstas no presente diploma a negligência é sempre sancionada.",
+    "depois": "###### Artigo 17.º — Contra-ordenações\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, sancionadas com as seguintes coimas:\n\na) De (euro) 50 a (euro) 250, aplicada por cada passageiro transportado em infracção ao disposto no n.º 3 do artigo 8.º;\n\nb) De (euro) 1250 a (euro) 3750, a falta de autorização especial de circulação a que se refere o artigo 15.º;\n\nc) De (euro) 500 a (euro) 2500, a circulação de comboio turístico em percurso não autorizado;\n\nd) De (euro) 500 a (euro) 2500, a infracção ao disposto nas alíneas c) e d) do artigo 13.º\n\n2 - A infracção ao disposto no artigo 12.º é sancionada nos termos do artigo 27.º, n.º 3, alínea b), do Código da Estrada.\n\n3 - Nas contra-ordenações previstas no presente diploma a negligência é sempre sancionada.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 286/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2001-595557), publicado em 2001-11-08.",
+    "excerto": "O artigo 17.º do Decreto-Lei n.º 249/2000, de 13 de Outubro, passa a ter a seguinte redacção:\n\n«Artigo 17.º\n\n[...]\n\n1 - As infracções ao disposto no presente diploma constituem contra-ordenações, sancionadas com as seguintes coimas:\n\na) De (euro) 50 a (euro) 250, aplicada por cada passageiro transportado em infracção ao disposto no n.º 3 do artigo 8.º;\n\nb) De (euro) 1250 a (euro) 3750, a falta de autorização especial de circulação a que se refere o artigo 15.º;\n\nc) De (euro) 500 a (euro) 2500, a circulação de comboio turístico em percurso não autorizado;\n\nd) De (euro) 500 a (euro) 2500, a infracção ao disposto nas alíneas c) e d) do artigo 13.º\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540864:por",
+    "alterador": "pt:dre:595557:por"
+  }
+]

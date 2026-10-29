@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:511670:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções alteram artigos da tabela de emolumentos consulares sem que o texto da nova redação seja fornecido; não aplicável.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

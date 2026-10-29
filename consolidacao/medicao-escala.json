@@ -1,0 +1,612 @@
+{
+  "diplomas": 25498,
+  "por_estado_e_faixa_de_citacoes": {
+    "sem alteração textual": {
+      "≥100": 102,
+      "10–99": 1243,
+      "1–9": 14635,
+      "0": 2938,
+      "total": 18918
+    },
+    "para LLM": {
+      "≥100": 28,
+      "10–99": 548,
+      "1–9": 3594,
+      "0": 192,
+      "total": 4362
+    },
+    "sem texto do alterador": {
+      "≥100": 5,
+      "10–99": 116,
+      "1–9": 479,
+      "0": 267,
+      "total": 867
+    },
+    "revogado por inteiro": {
+      "≥100": 5,
+      "10–99": 57,
+      "1–9": 684,
+      "0": 53,
+      "total": 799
+    },
+    "aplicado por regra": {
+      "≥100": 4,
+      "10–99": 33,
+      "1–9": 326,
+      "0": 21,
+      "total": 384
+    },
+    "não triado": {
+      "≥100": 0,
+      "10–99": 0,
+      "1–9": 0,
+      "0": 155,
+      "total": 155
+    },
+    "excluído": {
+      "≥100": 3,
+      "10–99": 1,
+      "1–9": 5,
+      "0": 4,
+      "total": 13
+    },
+    "total": {
+      "≥100": 147,
+      "10–99": 1998,
+      "1–9": 19723,
+      "0": 3630,
+      "total": 25498
+    }
+  },
+  "por_estado_e_numero_de_alteracoes": {
+    "sem alteração textual": {
+      "1": 12607,
+      "2–3": 4853,
+      "4–10": 1289,
+      ">10": 169,
+      "total": 18918
+    },
+    "para LLM": {
+      "1": 2306,
+      "2–3": 1366,
+      "4–10": 586,
+      ">10": 104,
+      "total": 4362
+    },
+    "sem texto do alterador": {
+      "1": 275,
+      "2–3": 268,
+      "4–10": 228,
+      ">10": 96,
+      "total": 867
+    },
+    "revogado por inteiro": {
+      "1": 536,
+      "2–3": 196,
+      "4–10": 55,
+      ">10": 12,
+      "total": 799
+    },
+    "aplicado por regra": {
+      "1": 254,
+      "2–3": 107,
+      "4–10": 20,
+      ">10": 3,
+      "total": 384
+    },
+    "não triado": {
+      "1": 115,
+      "2–3": 29,
+      "4–10": 9,
+      ">10": 2,
+      "total": 155
+    },
+    "excluído": {
+      "1": 6,
+      "2–3": 1,
+      "4–10": 3,
+      ">10": 3,
+      "total": 13
+    },
+    "total": {
+      "1": 16099,
+      "2–3": 6820,
+      "4–10": 2190,
+      ">10": 389,
+      "total": 25498
+    }
+  },
+  "triagem_por_faixa_de_citacoes": {
+    "sem alteração textual": {
+      "≥100": 102,
+      "10–99": 1243,
+      "1–9": 14635,
+      "0": 2938,
+      "total": 18918
+    },
+    "para LLM": {
+      "≥100": 26,
+      "10–99": 491,
+      "1–9": 3379,
+      "0": 179,
+      "total": 4075
+    },
+    "sem texto do alterador": {
+      "≥100": 5,
+      "10–99": 116,
+      "1–9": 479,
+      "0": 267,
+      "total": 867
+    },
+    "revogado por inteiro": {
+      "≥100": 5,
+      "10–99": 57,
+      "1–9": 684,
+      "0": 53,
+      "total": 799
+    },
+    "aplicável por regra": {
+      "≥100": 6,
+      "10–99": 90,
+      "1–9": 541,
+      "0": 34,
+      "total": 671
+    },
+    "não triado": {
+      "≥100": 0,
+      "10–99": 0,
+      "1–9": 0,
+      "0": 155,
+      "total": 155
+    },
+    "excluído": {
+      "≥100": 3,
+      "10–99": 1,
+      "1–9": 5,
+      "0": 4,
+      "total": 13
+    },
+    "total": {
+      "≥100": 147,
+      "10–99": 1998,
+      "1–9": 19723,
+      "0": 3630,
+      "total": 25498
+    }
+  },
+  "triagem_por_numero_de_alteracoes": {
+    "sem alteração textual": {
+      "1": 12607,
+      "2–3": 4853,
+      "4–10": 1289,
+      ">10": 169,
+      "total": 18918
+    },
+    "para LLM": {
+      "1": 2155,
+      "2–3": 1275,
+      "4–10": 549,
+      ">10": 96,
+      "total": 4075
+    },
+    "sem texto do alterador": {
+      "1": 275,
+      "2–3": 268,
+      "4–10": 228,
+      ">10": 96,
+      "total": 867
+    },
+    "revogado por inteiro": {
+      "1": 536,
+      "2–3": 196,
+      "4–10": 55,
+      ">10": 12,
+      "total": 799
+    },
+    "aplicável por regra": {
+      "1": 405,
+      "2–3": 198,
+      "4–10": 57,
+      ">10": 11,
+      "total": 671
+    },
+    "não triado": {
+      "1": 115,
+      "2–3": 29,
+      "4–10": 9,
+      ">10": 2,
+      "total": 155
+    },
+    "excluído": {
+      "1": 6,
+      "2–3": 1,
+      "4–10": 3,
+      ">10": 3,
+      "total": 13
+    },
+    "total": {
+      "1": 16099,
+      "2–3": 6820,
+      "4–10": 2190,
+      ">10": 389,
+      "total": 25498
+    }
+  },
+  "motivos_por_estado": {
+    "para LLM": {
+      "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 2063,
+      "redação nova sem aspas «»": 555,
+      "original sem artigos identificados": 528,
+      "anexo do original não identificado": 331,
+      "instrução de outro tipo": 226,
+      "revogação com exceções ou só em parte": 109,
+      "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 101,
+      "o texto a retificar não aparece uma única vez no original": 60,
+      "retificação sem «» que a regra leia": 37,
+      "[...] sem correspondência no original": 32,
+      "alvo da nova redação não identificado": 27,
+      "o artigo  a substituir não existe no original": 22,
+      "revogação do que o original aprovou em anexo": 21,
+      "revogação com alvo que a regra não lê": 17,
+      "o artigo  a revogar não existe no original": 15
+    },
+    "sem alteração textual": {
+      "o original só aparece numa lista ou remissão": 8454,
+      "o alterador cita o original mas não lhe dá instruções de alteração": 7532,
+      "o alterador não menciona o original": 2920,
+      "o original só aparece como diploma que deu a redação de outro": 12
+    },
+    "revogado por inteiro": {
+      "o alterador revoga o original (o DRE dá-o como em vigor)": 799
+    },
+    "aplicado por regra": {
+      "—": 384
+    },
+    "excluído": {
+      "tem republished_by: o texto atual está no consolidado": 13
+    },
+    "sem texto do alterador": {
+      "o diploma que altera não está no acervo": 413,
+      "o diploma que altera só tem metadados": 130,
+      "o diploma que altera não está no acervo (e mais 1)": 100,
+      "o diploma que altera não está no acervo (e mais 2)": 40,
+      "o diploma que altera só tem metadados (e mais 1)": 28,
+      "o diploma que altera não está no acervo (e mais 3)": 24,
+      "o diploma que altera não está no acervo (e mais 4)": 15,
+      "o diploma que altera só tem metadados (e mais 2)": 15,
+      "o diploma que altera só tem metadados (e mais 3)": 12,
+      "o diploma que altera não está no acervo (e mais 5)": 12,
+      "o diploma que altera só tem pdf": 9,
+      "o diploma que altera não está no acervo (e mais 6)": 9,
+      "o diploma que altera só tem metadados (e mais 7)": 7,
+      "o diploma que altera só tem metadados (e mais 5)": 7,
+      "o diploma que altera só tem metadados (e mais 16)": 4
+    },
+    "não triado": {
+      "título do original sem número: as regras não procuram as menções no alterador": 155
+    }
+  },
+  "para_llm_por_fase_da_falha": {
+    "aplicação": 226,
+    "leitura": 4036,
+    "verificação": 100
+  },
+  "alteradores_por_triagem": {
+    "sem alteração textual": 41723,
+    "para LLM": 6109,
+    "sem texto do alterador": 1993,
+    "aplicável por regra": 1191,
+    "revogado por inteiro": 801
+  },
+  "motivos_por_alterador": {
+    "aplicável por regra": {
+      "—": 517,
+      "depois de uma falha num alterador anterior": 314,
+      "o texto a retificar não aparece uma única vez no original": 58,
+      "[...] sem correspondência no original": 37,
+      "o artigo  a substituir não existe no original": 22,
+      "o artigo  a revogar não existe no original": 15,
+      "a nova redação do artigo  não traz epígrafe e o original tem": 13,
+      "[...] seguido de texto na mesma unidade": 11,
+      "o artigo aditado  já existe no original": 8,
+      "a nova redação omite unidades do original:": 7,
+      "3.º: a nova redação não está seguida, letra a letra, no alterador": 7,
+      "a nova redação omite unidades do original: 3": 6
+    },
+    "sem alteração textual": {
+      "o original só aparece numa lista ou remissão": 15823,
+      "o alterador cita o original mas não lhe dá instruções de alteração": 15793,
+      "o alterador não menciona o original": 10079,
+      "o original só aparece como diploma que deu a redação de outro": 28
+    },
+    "para LLM": {
+      "original sem artigos identificados": 3871,
+      "redação nova sem aspas «»": 869,
+      "anexo do original não identificado": 684,
+      "instrução de outro tipo": 372,
+      "revogação com exceções ou só em parte": 143,
+      "alvo da nova redação não identificado": 42,
+      "revogação do que o original aprovou em anexo": 41,
+      "retificação sem «» que a regra leia": 38,
+      "revogação com alvo que a regra não lê": 25,
+      "revogação de anexo ou parte sem artigo": 8,
+      "revogação condicional": 7,
+      "localizador de outro diploma": 4
+    },
+    "revogado por inteiro": {
+      "o alterador revoga o original": 801
+    },
+    "sem texto do alterador": {
+      "o diploma que altera não está no acervo": 1253,
+      "o diploma que altera só tem metadados": 720,
+      "o diploma que altera só tem pdf": 20
+    }
+  },
+  "alteracoes_aplicadas_por_regra": {
+    "revogação de artigo": 270,
+    "substituição com [...]": 269,
+    "substituição integral": 131,
+    "aditamento de artigo": 79,
+    "revogação de número ou alínea": 78,
+    "retificação": 22,
+    "substituição parcial": 7,
+    "aditamento de número ou alínea": 1
+  },
+  "instrucoes_pendentes_por_motivo": {
+    "redação nova sem aspas «»": 2071,
+    "anexo do original não identificado": 1529,
+    "instrução de outro tipo": 1163,
+    "alvo da nova redação não identificado": 963,
+    "depois de uma falha num alterador anterior": 437,
+    "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 258,
+    "retificação sem «» que a regra leia": 219,
+    "revogação com exceções ou só em parte": 215,
+    "revogação com alvo que a regra não lê": 191,
+    "original sem artigos identificados": 179,
+    "falhou a verificação": 142,
+    "o texto a retificar não aparece uma única vez no original": 122,
+    "revogação do que o original aprovou em anexo": 82,
+    "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 32,
+    "revogação de anexo ou parte sem artigo": 32,
+    "revogação do diploma inteiro": 28,
+    "[...] sem correspondência no original (1)": 16,
+    "revogação condicional («na parte em que contrarie»)": 10,
+    "localizador de outro diploma («portaria supracitada»)": 9,
+    "[...] sem correspondência no original (1/a)": 8
+  },
+  "sem_aviso_de_texto_original": {
+    "diplomas": 18918,
+    "por_faixa_de_citacoes": {
+      "≥100": 102,
+      "10–99": 1243,
+      "1–9": 14635,
+      "0": 2938
+    },
+    "nota": "diplomas em que nenhum alterador dá instruções ao texto: o original é o texto em vigor e dispensa o aviso \"texto original; alterado por…\""
+  },
+  "republicacoes": 24,
+  "titulos_pelo_parser_da_fase_3": {
+    "sem alteração textual": 1768,
+    "aplicado por regra": 90,
+    "para LLM": 847,
+    "revogado por inteiro": 91,
+    "sem texto do alterador": 60
+  },
+  "erros": [],
+  "tempos": {
+    "segundos_de_cpu_somados": 1916,
+    "segundos_por_diploma_media": 0.075,
+    "diploma_mais_lento": "Decreto-Lei n.º 394-B/84",
+    "partes": {
+      "escala.parte-1.txt": {
+        "parte": "1/6",
+        "diplomas": 4250,
+        "segundos_por_corrida": [
+          308,
+          0
+        ]
+      },
+      "escala.parte-2.txt": {
+        "parte": "2/6",
+        "diplomas": 4250,
+        "segundos_por_corrida": [
+          333,
+          0
+        ]
+      },
+      "escala.parte-3.txt": {
+        "parte": "3/6",
+        "diplomas": 4250,
+        "segundos_por_corrida": [
+          328,
+          0
+        ]
+      },
+      "escala.parte-4.txt": {
+        "parte": "4/6",
+        "diplomas": 4250,
+        "segundos_por_corrida": [
+          306,
+          0
+        ]
+      },
+      "escala.parte-5.txt": {
+        "parte": "5/6",
+        "diplomas": 4249,
+        "segundos_por_corrida": [
+          329,
+          0
+        ]
+      },
+      "escala.parte-6.txt": {
+        "parte": "6/6",
+        "diplomas": 4249,
+        "segundos_por_corrida": [
+          322,
+          0
+        ]
+      }
+    }
+  },
+  "llm": {
+    "pedidos_feitos": 0,
+    "estimativa_para_os_pendentes": {
+      "pedidos": 4362,
+      "tokens_entrada_estimados": 13883420,
+      "tokens_saida_estimados": 10884555,
+      "custo_estimado_usd": {
+        "claude-opus-5-5": 273.22,
+        "claude-sonnet-5-5": 136.61
+      },
+      "motivos": {
+        "a nova redação omite unidades do original: 3": 5,
+        "depois de uma falha num alterador anterior": 437,
+        "revogação com exceções ou só em parte": 215,
+        "revogação do que o original aprovou em anexo": 82,
+        "instrução de outro tipo": 1163,
+        "anexo do original não identificado": 1529,
+        "redação nova sem aspas «»": 2071,
+        "original sem artigos identificados (numeração repetida ou que recomeça sem título de anexo)": 32,
+        "[...] sem correspondência no original (1/a)": 8,
+        "revogação com alvo que a regra não lê": 191,
+        "o artigo 21.º a substituir não existe no original": 1,
+        "falhou a verificação": 142,
+        "revogação condicional («na parte em que contrarie»)": 10,
+        "alvo da nova redação não identificado": 963,
+        "original sem artigos identificados (só números do dispositivo: 1.º, 2.º, …)": 258,
+        "revogação de anexo ou parte sem artigo": 32,
+        "artigo aditado 61.º com [...]": 1,
+        "[...] sem correspondência no original (2/a)": 2,
+        "a nova redação omite unidades do original: 6": 2,
+        "o artigo aditado 10.º já existe no original": 2,
+        "o artigo aditado 34.º já existe no original": 1,
+        "artigo aditado 62.º com [...]": 1,
+        "artigo aditado 63.º com [...]": 1,
+        "o artigo 71.º a substituir não existe no original": 1,
+        "o artigo 169.º a substituir não existe no original": 1,
+        "o texto a retificar não aparece uma única vez no original": 122,
+        "a nova redação omite unidades do original: 5": 6,
+        "n.º 2 do artigo 25.º não existe (ou repete-se) no original": 1,
+        "unidade aditada com [...]": 2,
+        "o artigo 150.º a substituir não existe no original": 1,
+        "a nova redação do artigo 5.º não traz epígrafe e o original tem": 2,
+        "retificação sem «» que a regra leia": 219,
+        "a nova redação do artigo 3.º não traz epígrafe e o original tem": 2,
+        "nova redação parcial com vários alvos": 6,
+        "alínea b) do n.º 1 do artigo 11.º não existe (ou repete-se) no original": 1,
+        "[...] sem correspondência no original (3/c)": 1,
+        "ANEXO: alínea a) do artigo 1.º não existe (ou repete-se) no original": 1,
+        "[...] sem correspondência no original (1/a/i)": 1,
+        "a nova redação omite unidades do original: 3, 4": 3,
+        "o artigo 1.º a revogar não existe no original": 3,
+        "o artigo aditado 9.º já existe no original": 2,
+        "não há unidade anterior a  onde a aditar": 2,
+        "a citação traz títulos de capítulo ou secção": 4,
+        "a nova redação omite unidades do original: ": 8,
+        "o artigo 11.º a revogar não existe no original": 1,
+        "a nova redação omite unidades do original: 7, 8": 1,
+        "o artigo 4.º a substituir não existe no original": 4,
+        "localizador de outro diploma («portaria supracitada»)": 9,
+        "[...] sem correspondência no original (1)": 16,
+        "a nova redação omite unidades do original: 6, 7": 1,
+        "revogação do diploma inteiro": 28,
+        "[...] sem correspondência no original ()": 2,
+        "[...] seguido de texto na mesma unidade (/a)": 1,
+        "[...] sem correspondência no original (/a)": 1,
+        "[...] sem correspondência no original (1/b)": 1,
+        "n.º 1 do artigo 16.º não existe (ou repete-se) no original": 1,
+        "o artigo 2.º não existe no original": 1,
+        "a citação começa por 1 e a instrução fala de ": 3,
+        "o artigo 5.º a substituir não existe no original": 2,
+        "a nova redação omite unidades do original: 4": 2,
+        "o texto do acervo já tem o que deve ler-se": 2,
+        "o artigo 9.º a substituir não existe no original": 4,
+        "artigo aditado 131.º com [...]": 1,
+        "unidade repetida no original (1/i/i): não se sabe a que corresponde o [...]": 1,
+        "unidade repetida na nova redação": 6,
+        "[...] seguido de texto na mesma unidade (2/b)": 1,
+        "[...] sem correspondência no original (3/a)": 1,
+        "o artigo 10.º a revogar não existe no original": 1,
+        "[...] seguido de texto na mesma unidade (1/c/v)": 1,
+        "a nova redação omite unidades do original: 4, 5, 6, 7, 8, 9": 1,
+        "o artigo 30.º a substituir não existe no original": 1,
+        "[...] sem correspondência no original (2/h)": 1,
+        "unidade repetida no original (1): não se sabe a que corresponde o [...]": 2,
+        "a nova redação do artigo 11.º não traz epígrafe e o original tem": 1,
+        "a nova redação omite unidades do original: 2": 1,
+        "[...] sem correspondência no original (3)": 1,
+        "a citação começa por 3 e a instrução fala de ": 1,
+        "n.º 162 do artigo 1.º não existe (ou repete-se) no original": 1,
+        "n.º 226 do artigo 4.º não existe (ou repete-se) no original": 1,
+        "o artigo 10.º a substituir não existe no original": 2,
+        "o artigo 22.º a revogar não existe no original": 1,
+        "o artigo aditado 11.º já existe no original": 1,
+        "[...] sem correspondência no original (1/f)": 1,
+        "[...] sem correspondência no original (2)": 4,
+        "n.º 33 do artigo 13.º não existe (ou repete-se) no original": 1,
+        "o artigo 14.º-A a substituir não existe no original": 1,
+        "o artigo 24.º a revogar não existe no original": 2,
+        "n.º 1 do artigo 22.º não existe (ou repete-se) no original": 1,
+        "alínea b) do artigo 2.º não existe (ou repete-se) no original": 1,
+        "a nova redação do artigo 4.º não traz epígrafe e o original tem": 2,
+        "a nova redação omite unidades do original: 8": 2,
+        "o artigo 25.º a revogar não existe no original": 1,
+        "o artigo aditado 1.º já existe no original": 3,
+        "o artigo 26.º-A a revogar não existe no original": 1,
+        "n.º 8 do artigo 28.º não existe (ou repete-se) no original": 1,
+        "a nova redação do artigo 10.º não traz epígrafe e o original tem": 1,
+        "original sem artigos identificados": 179,
+        "o artigo 3.º a substituir não existe no original": 2,
+        "a nova redação do artigo 2.º não traz epígrafe e o original tem": 3,
+        "n.º 4 do artigo 5.º não existe (ou repete-se) no original": 1,
+        "n.º 3 do artigo 29.º não existe (ou repete-se) no original": 1,
+        "o artigo 13.º a revogar não existe no original": 1,
+        "o artigo 15.º a revogar não existe no original": 1,
+        "o artigo aditado 16.º já existe no original": 1,
+        "o artigo aditado 4.º já existe no original": 2,
+        "a nova redação omite unidades do original: 1, 8": 1,
+        "o artigo 5.º a revogar não existe no original": 1,
+        "o artigo 28.º a substituir não existe no original": 1,
+        "a nova redação do artigo 24.º não traz epígrafe e o original tem": 1,
+        "n.º 3 do artigo 2.º não existe (ou repete-se) no original": 1,
+        "o artigo 4.º a revogar não existe no original": 1,
+        "o artigo aditado 13.º já existe no original": 2,
+        "[...] seguido de texto na mesma unidade (1)": 4,
+        "o artigo 2.º a substituir não existe no original": 3,
+        "texto na citação antes do primeiro artigo": 2,
+        "o artigo aditado 3.º já existe no original": 1,
+        "o artigo aditado 14.º já existe no original": 1,
+        "o artigo aditado 6.º já existe no original": 1,
+        "a nova redação omite unidades do original: 5, 6": 1,
+        "alínea b) do n.º 2 do artigo 3.º não existe (ou repete-se) no original": 1,
+        "alínea c) do artigo 2.º não existe (ou repete-se) no original": 1,
+        "alínea b) do n.º 1 do artigo 1.º não existe (ou repete-se) no original": 1,
+        "n.º 1 do artigo 4.º não existe (ou repete-se) no original": 1,
+        "o artigo aditado 5.º já existe no original": 1,
+        "o artigo 6.º a substituir não existe no original": 4,
+        "a nova redação do artigo 9.º não traz epígrafe e o original tem": 1,
+        "o artigo 2.º a revogar não existe no original": 2,
+        "n.º 2 do artigo 11.º não existe (ou repete-se) no original": 1,
+        "o artigo 9.º a revogar não existe no original": 1,
+        "n.º 1 do artigo 1.º não existe (ou repete-se) no original": 1,
+        "n.º 16 do artigo 2.º não existe (ou repete-se) no original": 1,
+        "alínea 2.) do artigo 2.º não existe (ou repete-se) no original": 1,
+        "alínea a) do n.º 5 do artigo 1.º não existe (ou repete-se) no original": 1,
+        "o artigo 4.º-A a substituir não existe no original": 1,
+        "n.º 2 do artigo 18.º não existe (ou repete-se) no original": 1,
+        "não há artigo anterior ao 1.º-A onde o aditar": 1,
+        "n.º 4 do artigo 3.º não existe (ou repete-se) no original": 1,
+        "a nova redação do artigo 16.º não traz epígrafe e o original tem": 1,
+        "[...] sem correspondência no original (/l)": 1,
+        "n.º 1 do artigo 2.º não existe (ou repete-se) no original": 1,
+        "o artigo 23.º a revogar não existe no original": 1,
+        "o artigo aditado 26.º já existe no original": 1,
+        "a citação começa por 8 e a instrução fala de ": 1,
+        "o artigo 26.º a substituir não existe no original": 1,
+        "o artigo 3.º a revogar não existe no original": 1,
+        "o artigo 6.º a revogar não existe no original": 1,
+        "unidade repetida no original (/hh/ii): não se sabe a que corresponde o [...]": 1
+      }
+    }
+  }
+}

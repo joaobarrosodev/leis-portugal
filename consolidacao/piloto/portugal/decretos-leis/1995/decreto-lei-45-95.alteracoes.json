@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "20.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 20.º — Concurso de ingresso\n\n1 - Nos concursos externos de ingresso nas carreiras de pessoal da função pública abertos há menos de dois anos podem ser preenchidos lugares vagos dos quadros em número superior aos inicialmente postos a concurso, desde que se verifiquem cumulativamente as seguintes condições:\n\na) O número de candidatos admitidos seja 15 vezes superior ao número de vagas postas a concurso;\n\nb) Tenha sido proferido o correspondente despacho de descongelamento de admissões;\n\nc) Tenha sido realizada consulta prévia à Direcção-Geral da Administração Pública sobre a existência de pessoal excedente.\n\n2 - Nos concursos a que se refere o número anterior, o provimento deve ter lugar nos dois anos subsequentes à data de publicação da respectiva lista de classificação final.",
+    "depois": "###### Artigo 20.º — Concurso de ingresso\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.",
+    "excerto": "São revogadas todas as disposições legais contrárias ao disposto na presente lei, designadamente:\n\naf) O artigo 20.º do Decreto-Lei n.º 45/95, de 2 de Março;",
+    "artigo_alterador": "116.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:196936:por",
+    "alterador": "pt:dre:468663:por"
+  }
+]

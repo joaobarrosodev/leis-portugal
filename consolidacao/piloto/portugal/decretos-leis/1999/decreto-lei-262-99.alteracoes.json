@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::26.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 26.º — Quadros de pessoal\n\n1 - Os SSGNR dispõem do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os quadros de pessoal militar dos SSGNR, a preencher por pessoal destacado da GNR, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna.",
+    "depois": "###### Artigo 26.º — Quadros de pessoal\n\n1 - Os SSGNR dispõem do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os quadros de pessoal militar dos Serviços Sociais da GNR são preenchidos, transitoriamente, por pessoal requisitado à GNR, obedecendo a critérios de racionalização de efectivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2007-522812), publicado em 2007-01-17.",
+    "excerto": "O artigo 26.º do Estatuto dos Serviços Sociais da Guarda Nacional Republicana (GNR), aprovado pelo Decreto-Lei n.º 262/99, de 8 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 26.º\n\n[...]\n\n1 - ...\n\n2 - Os quadros de pessoal militar dos Serviços Sociais da GNR são preenchidos, transitoriamente, por pessoal requisitado à GNR, obedecendo a critérios de racionalização de efectivos.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374995:por",
+    "alterador": "pt:dre:522812:por"
+  },
+  {
+    "artigo": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Competência\n\n1 - Compete ao conselho de direcção, no âmbito da orientação e gestão dos serviços:\n\na) Dirigir a actividade dos SSGNR;\n\nb) Identificar as necessidades a satisfazer;\n\nc) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações a desenvolver;\n\nd) Elaborar e apresentar à aprovação do Ministro da Administração Interna o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;\n\ne) Elaborar e submeter à aprovação do Ministro da Administração Interna o relatório de actividades;\n\nf) Assegurar a gestão do pessoal dos SSGNR;\n\ng) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;\n\nh) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.\n\n2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:\n\na) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;\n\nb) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;\n\nc) Promover a elaboração da conta de gerência.",
+    "depois": "###### Artigo 6.º — Competência\n\n1 - Compete ao conselho de direcção, no âmbito da orientação e gestão dos serviços:\n\na) Dirigir a actividade dos SSGNR;\n\nb) Identificar as necessidades a satisfazer;\n\nc) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações a desenvolver;\n\nd) Elaborar e apresentar à aprovação do Ministro da Administração Interna o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;\n\ne) Elaborar e submeter à aprovação do Ministro da Administração Interna o relatório de actividades;\n\nf) Assegurar a gestão do pessoal dos SSGNR;\n\ng) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;\n\nh) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.\n\ni) Aprovar o regulamento de eleição dos membros do conselho consultivo previsto no artigo 14.º\n\n2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:\n\na) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;\n\nb) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;\n\nc) Promover a elaboração da conta de gerência.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374995:por",
+    "alterador": "pt:dre:612207:por"
+  },
+  {
+    "artigo": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Composição\n\n1 - O conselho consultivo é composto pelos membros do conselho de direcção e por representações dos oficiais, sargentos e praças de cada uma das unidades da Guarda Nacional Republicana, tal como são definidas na respectiva lei orgânica, e presidido pelo militar mais graduado ou antigo dos seus membros.\n\n2 - Cada representação é composta por um oficial, um sargento e uma praça do quadro da Guarda Nacional Republicana no activo, eleitos pelos beneficiários titulares militares, dos SSGNR, adstritos a cada delegação.\n\n3 - A eleição é feita por categorias hierárquicas para mandatos de três anos e é organizada pelas delegações em conformidade com o regulamento a aprovar para o efeito pelo conselho de direcção dos SSGNR.\n\n4 - Em cada delegação, os militares mais votados em cada uma das categorias hierárquicas são designados representantes titulares das respectivas categorias, sendo os que lhes sigam na votação designados suplentes.\n\n5 - Os representantes executam o mandato em regime de acumulação com as funções que exercem nas respectivas unidades, sendo substituídos pelos respectivos suplentes sempre que se verifiquem casos de indisponibilidade.\n\n6 - O exercício dos cargos do conselho consultivo não é remunerado.",
+    "depois": "###### Artigo 14.º — Composição\n\n1 - Integram o conselho consultivo:\n\na) Os membros do conselho de direcção;\n\nb) Sete representantes eleitos de cada uma das categorias profissionais dos militares da Guarda Nacional Republicana, no activo;\n\nc) Dois representantes eleitos de entre os funcionários civis beneficiários dos serviços sociais, no activo, sendo um representante da carreira de guarda-florestal e outro dos restantes civis do mapa geral de pessoal aprovado;\n\nd) Um representante de cada uma das associações profissionais de militares da Guarda Nacional Republicana, legalmente constituídas.\n\n2 - A eleição dos membros do conselho consultivo referidos nas alíneas b) e c) do número anterior processa-se nos termos do regulamento aprovado pelo conselho de direcção.\n\n3 - O regulamento referido no número anterior:\n\na) Define os requisitos relativos à capacidade eleitoral;\n\nb) Consagra a eleição de suplentes que substituem os membros efectivos nas suas faltas e impedimentos.\n\n4 - Os membros do conselho consultivo referidos nas alíneas b) e c) do n.º 1 são eleitos para um mandato de três anos desempenhado em regime de acumulação com as funções que exercem nos locais onde prestam serviço.\n\n5 - O conselho consultivo é presidido pelo militar mais graduado ou mais antigo de entre os seus membros.\n\n6 - A participação no conselho consultivo não é remunerada.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374995:por",
+    "alterador": "pt:dre:612207:por"
+  }
+]

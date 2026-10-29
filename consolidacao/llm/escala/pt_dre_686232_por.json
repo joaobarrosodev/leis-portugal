@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:686232:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem a nova redação dos artigos 21.º, 16.º, 19.º e 12.º (texto em falta).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "22.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 22.º — Quadro\n\n1 - O pessoal do quadro da DRRH é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal de informática;\n\nd) Pessoal técnico;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal auxiliar;\n\nh) Pessoal operário.\n\n2 - O quadro de pessoal da DRRH é o constante do mapa anexo ao presente diploma.\n\n3 - A composição do quadro de pessoal poderá ser alterada, quando as circunstâncias o justifiquem.",
+    "depois": "###### Artigo 22.º — Quadro\n\n1 - O pessoal do quadro da DRRH é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal de informática;\n\nd) Pessoal técnico;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal auxiliar;\n\nh) Pessoal operário.\n\n2 - O quadro de pessoal da DRRH é o constante do mapa anexo ao presente diploma.\n\n3 - A composição do quadro de pessoal poderá ser alterada, quando as circunstâncias o justifiquem.\n\n4 - O recrutamento para os cargos de directores de serviços e chefes de divisão pode ser feito de entre funcionários não possuidores de curso superior, nos termos da lei em vigor, considerando-se para este efeito, por força do seu regime especial e do desenvolvimento indiciário e das categorias próprias que apresenta, a carreira de técnico de emprego como uma carreira específica.\n\n5 - O cargo de encarregado de pessoal auxiliar a que se reporta o mapa anexo ao presente diploma poderá ser exercido, em regime de substituição, por funcionários integrados no quadro de pessoal auxiliar da carreira de auxiliar administrativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1999-542254), publicado em 1999-04-09.",
+    "excerto": "O artigo 22.º da orgânica da Direcção Regional dos Recursos Humanos, aprovada pelo artigo 1.º do Decreto Regulamentar Regional n.º 21/97/M, de 22 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 22.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O recrutamento para os cargos de directores de serviços e chefes de divisão pode ser feito de entre funcionários não possuidores de curso superior, nos termos da lei em vigor, considerando-se para este efeito, por força do seu regime especial e do desenvolvimento indiciário e das categorias próprias que apresenta, a carreira de técnico de emprego como uma carreira específica.\n\n5 - O cargo de encarregado de pessoal auxiliar a que se reporta o mapa anexo ao presente diploma poderá ser exercido, em regime de substituição, por funcionários integrados no quadro de pessoal auxiliar da carreira de auxiliar administrativo.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:654151:por",
+    "alterador": "pt:dre:542254:por"
+  }
+]

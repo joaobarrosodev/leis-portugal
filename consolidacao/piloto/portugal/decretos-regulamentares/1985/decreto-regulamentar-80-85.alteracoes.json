@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento\n\n1 - O valor mínimo das pensões regulamentares de invalidez e velhice do regime geral é de 6900$00.\n\n2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do artigo 2.º é aplicável a garantia do valor mínimo da pensão estabelecido no número anterior.\n\n3 - Em nenhum caso o aumento mensal resultante da actualização das pensões poderá ser superior a 8000$00.",
+    "depois": "###### Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento\n\n1 - O valor mínimo das pensões regulamentares de invalidez e velhice do regime geral é de 6900$00.\n\n2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do artigo 2.º é aplicável a garantia do valor mínimo da pensão estabelecido no número anterior.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 38/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1986-220135), publicado em 1986-09-08.",
+    "excerto": "Artigo único É revogado o n.os 3 do artigo 4.º do Decreto Regulamentar n.º 80/85, de 4 de Dezembro, com efeitos a partir do início da sua vigência.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:170522:por",
+    "alterador": "pt:dre:220135:por"
+  }
+]

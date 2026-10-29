@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nOs professores dos quadros do ensino preparatório que possuam a habilitação académica exigida pelo artigo 228.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) aos candidatos a professores efectivos do ensino técnico profissional podem requerer o provimento nos lugares desta categoria dentro do grupo correspondente àquela habilitação, sendo-lhes contado, para todos os efeitos legais, o serviço prestado no quadro donde provêm.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143) e [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), publicado em 1975-05-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256621:por",
+    "alterador": "pt:dre:199143:por;pt:dre:526218:por"
+  }
+]

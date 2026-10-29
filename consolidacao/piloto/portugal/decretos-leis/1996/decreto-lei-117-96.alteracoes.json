@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º\n\nÉ criado o sistema multimunicipal de triagem, recolha selectiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado, integrando, como utilizadores originários, os municípios de Braga, Póvoa de Lanhoso e Vieira do Minho.",
+    "depois": "###### Artigo 1.º\n\n1 - (Actual artigo 1.º)\n\n2 - O sistema referido no n.º 1 pode ser alargado a outros municípios, nomeadamente aos municípios de Amares, Terras de Bouro e Vila Verde, mediante reconhecimento de interesse público justificativo.\n\n3 - O interesse público justificativo mencionado no número anterior é reconhecido pelo Ministro do Ambiente, sob proposta da sociedade concessionária do sistema multimunicipal, ouvidos os utilizadores originários.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 471/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1999-693593), publicado em 1999-11-06.",
+    "excerto": "Os artigos 1.º e 3.º do Decreto-Lei n.º 117/96, de 6 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - (Actual artigo 1.º)\n\n2 - O sistema referido no n.º 1 pode ser alargado a outros municípios, nomeadamente aos municípios de Amares, Terras de Bouro e Vila Verde, mediante reconhecimento de interesse público justificativo.\n\n3 - O interesse público justificativo mencionado no número anterior é reconhecido pelo Ministro do Ambiente, sob proposta da sociedade concessionária do sistema multimunicipal, ouvidos os utilizadores originários.\n\nArtigo 3.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O alargamento do sistema multimunicipal previsto no n.º 2 do artigo 1.º obriga à alteração, em conformidade, do contrato de concessão, bem como ao eventual reforço da caução referida no número anterior.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:411804:por",
+    "alterador": "pt:dre:693593:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º\n\n1 - A exploração e gestão do sistema multimunicipal do Baixo Cávado é adjudicada, em regime de concessão exclusiva, à BRAVAL - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.\n\n2 - A atribuição da concessão opera-se mediante contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente, e a sociedade referida no número anterior.\n\n3 - Na data da celebração do contrato de concessão será prestada a caução referente à exploração.",
+    "depois": "###### Artigo 3.º\n\n1 - A exploração e gestão do sistema multimunicipal do Baixo Cávado é adjudicada, em regime de concessão exclusiva, à BRAVAL - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.\n\n2 - A atribuição da concessão opera-se mediante contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente, e a sociedade referida no número anterior.\n\n3 - Na data da celebração do contrato de concessão será prestada a caução referente à exploração.\n\n4 - O alargamento do sistema multimunicipal previsto no n.º 2 do artigo 1.º obriga à alteração, em conformidade, do contrato de concessão, bem como ao eventual reforço da caução referida no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 471/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1999-693593), publicado em 1999-11-06.",
+    "excerto": "Os artigos 1.º e 3.º do Decreto-Lei n.º 117/96, de 6 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - (Actual artigo 1.º)\n\n2 - O sistema referido no n.º 1 pode ser alargado a outros municípios, nomeadamente aos municípios de Amares, Terras de Bouro e Vila Verde, mediante reconhecimento de interesse público justificativo.\n\n3 - O interesse público justificativo mencionado no número anterior é reconhecido pelo Ministro do Ambiente, sob proposta da sociedade concessionária do sistema multimunicipal, ouvidos os utilizadores originários.\n\nArtigo 3.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O alargamento do sistema multimunicipal previsto no n.º 2 do artigo 1.º obriga à alteração, em conformidade, do contrato de concessão, bem como ao eventual reforço da caução referida no número anterior.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:411804:por",
+    "alterador": "pt:dre:693593:por"
+  }
+]

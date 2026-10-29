@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1 - O provimento do pessoal pertencente a categorias de ingresso integradas em carreiras profissionais terá carácter provisório durante um ano, findo o qual os funcionários serão nomeados definitivamente se tiverem revelado aptidão para o lugar, ou exonerados, no caso contrário.\n\n2 - A conversão da nomeação em definitiva ou a exoneração referidas no número anterior deverão ser propostas pelo director-geral até ao fim do mês seguinte ao do termo daquele prazo, continuando entretanto os funcionários na mesma situação.\n\n3 - O disposto nos números anteriores não se aplica aos estagiários, que durante o respectivo período ficarão na situação de contratados.",
+    "depois": "###### Artigo 14.º\n\n1 - O provimento do pessoal pertencente a categorias de ingresso integradas em carreiras profissionais terá carácter provisório durante um ano, findo o qual os funcionários serão nomeados definitivamente se tiverem revelado aptidão para o lugar, ou exonerados, no caso contrário.\n\n2 - A conversão da nomeação em definitiva ou a exoneração referidas no número anterior deverão ser propostas pelo director-geral até ao fim do mês seguinte ao do termo daquele prazo, continuando entretanto os funcionários na mesma situação.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 69/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1980-457470) e [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:463975:por",
+    "alterador": "pt:dre:457470:por;pt:dre:450847:por"
+  }
+]

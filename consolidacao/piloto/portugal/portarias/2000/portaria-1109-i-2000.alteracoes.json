@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO::5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Forma e valor das ajudas\n\nAs ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis, no caso dos caminhos agrícolas, e de 50%, no caso dos caminhos rurais.",
+    "depois": "###### Artigo 5.º — Forma e valor das ajudas\n\n1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis.\n\n2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.\n\n> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.",
+    "excerto": "11.º Os artigos 5.º e 6.º do Regulamento de Aplicação da Subacção n.º 6.1 da medida AGRIS, aprovado pela Portaria n.º 1109-I/2000, de 27 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis.\n\n2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.\n\nArtigo 6.º\n\n[...]\n\n...\n\na) Elaboração de estudos e projectos até ao limite de 5% do custo da obra;\n\nb) ...\n\nc) ...\n\nd) ...»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554633:por",
+    "alterador": "pt:dre:650304:por"
+  },
+  {
+    "artigo": "ANEXO::6.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 6.º — Despesas elegíveis\n\nSão elegíveis as despesas com:\n\na) Elaboração de estudos e projectos;\n\nb) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;\n\nc) Acompanhamento e fiscalização das obras;\n\nd) Controlo de qualidade em ensaios.",
+    "depois": "###### Artigo 6.º — Despesas elegíveis\n\nSão elegíveis as despesas com:\n\na) Elaboração de estudos e projectos até ao limite de 5% do custo da obra;\n\nb) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;\n\nc) Acompanhamento e fiscalização das obras;\n\nd) Controlo de qualidade em ensaios.\n\n> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.",
+    "excerto": "11.º Os artigos 5.º e 6.º do Regulamento de Aplicação da Subacção n.º 6.1 da medida AGRIS, aprovado pela Portaria n.º 1109-I/2000, de 27 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis.\n\n2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.\n\nArtigo 6.º\n\n[...]\n\n...\n\na) Elaboração de estudos e projectos até ao limite de 5% do custo da obra;\n\nb) ...\n\nc) ...\n\nd) ...»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554633:por",
+    "alterador": "pt:dre:650304:por"
+  }
+]

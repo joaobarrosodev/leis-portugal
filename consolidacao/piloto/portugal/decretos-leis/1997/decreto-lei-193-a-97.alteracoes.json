@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 2.º — Modalidades\n\n1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de acções representativas de 95% do capital social da SETENAVE.\n\n2 - A 2.ª fase da reprivatização concretizar-se-à mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa.",
+    "depois": "###### Artigo 2.º — Modalidades\n\n1 - Na primeira fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de acções representativas de 92,6% do capital social da SETENAVE.\n\n2 - A segunda fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 7,4% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), publicado em 1998-01-12.",
+    "excerto": "Os artigos 2.º, 6.º e 8.º do Decreto-Lei n.º 193-A/97, de 29 de Julho, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - Na primeira fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de acções representativas de 92,6% do capital social da SETENAVE.\n\n2 - A segunda fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 7,4% do capital social da SETENAVE.\n\n3 - ...\n\nArtigo 6.º\n\n1 - ...\n\n2 - ...\n\n3 - (Anterior n.º 4.)\n\nArtigo 8.º\n\nA SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2,160 milhões de contos, destinada à cobertura de prejuízos.»",
+    "artigo_alterador": "único",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650114:por",
+    "alterador": "pt:dre:222977:por"
+  }
+]

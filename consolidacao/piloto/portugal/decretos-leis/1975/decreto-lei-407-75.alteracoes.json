@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º\n\nFica assegurada, mediante requerimento, a todos os licenciados em Medicina a admissão ao internato de policlínica, que terá a duração de vinte e quatro meses.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 209/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1982-391981), publicado em 1982-05-28.",
+    "excerto": "Art. 3.º É revogado o artigo 2.º do Decreto-Lei n.º 407/75, de 30 de Julho.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:336373:por",
+    "alterador": "pt:dre:391981:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\nO disposto no artigo 14.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735) não se aplica aos trabalhadores que exerçam na empresa cargos de direcção e chefia.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1980-474171), publicado em 1980-05-22.",
+    "excerto": "Artigo único. É revogado o artigo 6.º do Decreto n.º 276/73, de 30 de Maio.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:422255:por",
+    "alterador": "pt:dre:474171:por"
+  }
+]

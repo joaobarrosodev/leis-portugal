@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 3.º — Capital social\n\n1 - A SetúbalPolis é constituída com um capital social de (euro) 6383200 realizado em numerário.\n\n2 - No acto de constituição, o capital social é subscrito em 10%, na proporção prevista para as participações dos accionistas, sendo os restantes 90% realizados em seis prestações iguais e com periodicidade semestral, respeitando igualmente a proporção das participações.\n\n3 - Por aumento de capital poderão participar no capital social pessoas colectivas públicas e sociedades exclusivamente ou maioritariamente participadas pelo Estado ou por outras pessoas colectivas públicas de âmbito territorial.\n\n4 - A titularidade de acções representativas de, pelo menos, 51% do capital social da SetúbalPolis deve ser detida por entes públicos, sendo nulas as transmissões efectuadas com violação deste limite.",
+    "depois": "###### Artigo 3.º — Capital social\n\n1 - A SetúbalPolis é constituída com um capital social de (euro) 6383000 realizado em numerário.\n\n2 - No acto de constituição, o capital social é subscrito em 10%, na proporção prevista para as participações dos accionistas, sendo os restantes 90% realizados em seis prestações iguais e com periodicidade semestral, respeitando igualmente a proporção das participações.\n\n3 - Por aumento de capital poderão participar no capital social pessoas colectivas públicas e sociedades exclusivamente ou maioritariamente participadas pelo Estado ou por outras pessoas colectivas públicas de âmbito territorial.\n\n4 - A titularidade de acções representativas de, pelo menos, 51% do capital social da SetúbalPolis deve ser detida por entes públicos, sendo nulas as transmissões efectuadas com violação deste limite.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 222/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2002-432074), publicado em 2002-10-22.",
+    "excerto": "O artigo 3.º, n.º 1, do Decreto-Lei n.º 317/2001, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n1 - A SetúbalPolis é constituída com um capital social de (euro) 6383000 realizado em numerário.\n\n2 - ...\n\n3 - ...\n\n4 - ...»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:576281:por",
+    "alterador": "pt:dre:432074:por"
+  },
+  {
+    "artigo": "ANEXO — (a que se refere o n.º 1 do artigo 5.º do Decreto-Lei n.º 317/2001)::5.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 5.º — Capital\n\n1 - O capital social é de (euro) 6383200, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Setúbal, encontrando-se realizado, na mesma proporção, em (euro) 638320, devendo o remanescente ser realizado em seis prestações semestrais de igual montante, na mesma proporção.\n\n2 - O capital social poderá ser aumentado por subscrição a realizar em dinheiro ou em espécie, por uma ou mais vezes, mediante deliberação dos accionistas a tomar em assembleia geral a convocar para o efeito, podendo delegar no conselho de administração a definição dos termos precisos em que a mesma deva ocorrer.",
+    "depois": "###### Artigo 5.º — Capital\n\n1 - O capital social é de (euro) 6383000, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Setúbal, encontrando-se realizado na mesma proporção em (euro) 638300, devendo o remanescente ser realizado em seis prestações semestrais de igual montante, na mesma proporção.\n\n2 - O capital social poderá ser aumentado por subscrição a realizar em dinheiro ou em espécie, por uma ou mais vezes, mediante deliberação dos accionistas a tomar em assembleia geral a convocar para o efeito, podendo delegar no conselho de administração a definição dos termos precisos em que a mesma deva ocorrer.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 222/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2002-432074), publicado em 2002-10-22.",
+    "excerto": "O artigo 5.º, n.º 1, dos estatutos da sociedade SetúbalPolis, Sociedade para o Desenvolvimento do Programa Polis em Setúbal, S. A., publicado em anexo ao Decreto-Lei n.º 317/2001, conforme previsto no seu artigo 5.º, e por força da alteração prevista no artigo 1.º do presente decreto-lei, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n1 - O capital social é de (euro) 6383000, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Setúbal, encontrando-se realizado na mesma proporção em (euro) 638300, devendo o remanescente ser realizado em seis prestações semestrais de igual montante, na mesma proporção.\n\n2 - ...»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:576281:por",
+    "alterador": "pt:dre:432074:por"
+  }
+]

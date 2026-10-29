@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:604441:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Transição do pessoal da área de psicologia clínica",
+      "texto": "1 - O pessoal provido em lugares da carreira técnica superior ou técnica do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, em Psicologia, em Filosofia ou em Ciências Histórico-Filosóficas, estas duas últimas obtidas até 1979, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira de técnico superior de saúde, ramo de psicologia clínica, após parecer favorável de uma comissão técnica a designar por despacho ministerial composta por três individualidades de reconhecida competência.\n\n2 - A transição a que se refere o número anterior efectua-se por listas de transição homologadas por despacho ministerial e publicadas no Diário da República.\n\n3 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:\n\na) Os técnicos superiores de 2.ª classe e de 1.ª classe e os técnicos de 2.ª classe, de 1.ª classe, principais e especialistas para a categoria de assistente;\n\nb) Os técnicos superiores principais e técnicos especialistas principais para a categoria de assistente principal;\n\nc) Os assessores para a categoria de assessor;\n\nd) Os assessores principais para a categoria de assessor superior.\n\n4 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 3 - O pessoal que vier a transitar nos termos do número anterior é posicionado e",
+    "3.º: parágrafo que não está no alterador nem no original: 4 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.o"
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º\n\n1 - A praça inicia-se com a abertura das propostas recebidas, se existirem, havendo lugar a licitação a partir da proposta de valor mais elevado, ou, se não existirem, a partir do valor base de licitação anunciada.\n\n2 - Podem intervir na praça os interessados e os eventuais titulares de direitos de preferência, ou os seus representantes, devidamente identificados e, no caso de pessoas colectivas, habilitados com poderes bastantes para arrematar.\n\n3 - O valor do lanço mínimo é fixado pela comissão, em montante não inferior a 2% da base de licitação.\n\n4 - A licitação termina quando o presidente da comissão tiver anunciado por três vezes o lanço mais elevado e este não for coberto.\n\n5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço.\n\n6 - Se houver mais de uma proposta nas condições referidas no número anterior, reabre-se a licitação entre os respectivos proponentes.\n\n7 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se a licitação entre elas.",
+    "depois": "###### Artigo 5.º\n\n1 - (Igual.)\n\n2 - (Igual.)\n\n3 - (Igual.)\n\n4 - (Igual.)\n\n5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço com o mínimo de 1/20 do valor do lanço estabelecido pela comissão, nos termos do n.º 3 deste artigo, arredondado para as unidades de milhares de escudos superiores.\n\n6 - (Igual.)\n\n7 - (Igual.)\n\n> Alterado pelo/a [Despacho Normativo n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2000-301020), publicado em 2000-07-06.",
+    "excerto": "A experiência decorrente da aplicação do meu Despacho Normativo n.º 23-A/2000, de 10 de Maio, aconselha a que se proceda a um ajustamento quanto ao que se dispõe no seu n.º 5 do artigo 5.º, o qual passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n1 - (Igual.)\n\n2 - (Igual.)\n\n3 - (Igual.)\n\n4 - (Igual.)\n\n5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço com o mínimo de 1/20 do valor do lanço estabelecido pela comissão, nos termos do n.º 3 deste artigo, arredondado para as unidades de milhares de escudos superiores.\n\n6 - (Igual.)\n\n7 - (Igual.)»",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554384:por",
+    "alterador": "pt:dre:301020:por"
+  }
+]

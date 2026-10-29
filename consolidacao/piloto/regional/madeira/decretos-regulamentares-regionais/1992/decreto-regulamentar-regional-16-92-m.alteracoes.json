@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 1.º\n\nAs referências feitas e as competências atribuídas nos artigos 2.º, alínea g), e 8.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, aos Ministérios da Indústria e Energia e da Agricultura, Pescas e Alimentação consideram-se reportadas e são exercidas na Região Autónoma da Madeira pela Secretaria Regional da Economia.",
+    "depois": "###### Artigo 1.º\n\nAs referências feitas e as competências atribuídas pelo Decreto-Lei n.º 109/91, de 15 de Março, e respectiva legislação complementar, aos Ministérios da Indústria e Energia e da Agricultura consideram-se reportadas e são exercidas na Região Autónoma da Madeira pelos departamentos governamentais que tenham a seu cargo, respectivamente, os sectores da indústria e energia e da agricultura, pecuária e pescas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1999-316921), publicado em 1999-05-27.",
+    "excerto": "O artigo 1.º do Decreto Regulamentar Regional n.º 16/92/M, de 22 de Julho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\nAs referências feitas e as competências atribuídas pelo Decreto-Lei n.º 109/91, de 15 de Março, e respectiva legislação complementar, aos Ministérios da Indústria e Energia e da Agricultura consideram-se reportadas e são exercidas na Região Autónoma da Madeira pelos departamentos governamentais que tenham a seu cargo, respectivamente, os sectores da indústria e energia e da agricultura, pecuária e pescas.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292517:por",
+    "alterador": "pt:dre:316921:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "15.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 15.º — Competência do Secretário Regional Adjunto da Presidência\n\n1 - O Secretário Regional Adjunto da Presidência exerce a sua competência nas seguintes matérias:\n\na) Assuntos parlamentares;\n\nb) Administração pública regional e local;\n\nc) Inspecção administrativa regional;\n\nd) Assuntos eleitorais;\n\ne) Estatística.\n\n2 - Ao Secretário Regional Adjunto da Presidência compete assegurar as relações com a Assembleia Legislativa Regional e com os partidos políticos.\n\n3 - O Serviço Regional de Estatística dos Açores transita para a dependência do Secretário Regional Adjunto da Presidência.",
+    "depois": "###### Artigo 15.º — Competência do Secretário Regional Adjunto da Presidência\n\n1 - O Secretário Regional Adjunto da Presidência exerce a sua competência nas seguintes matérias:\n\na) Assuntos parlamentares;\n\nb) Administração pública regional e local;\n\nc) Inspecção administrativa regional;\n\nd) Assuntos eleitorais;\n\ne) Estatística;\n\nf) Polícia administrativa;\n\ng) Assuntos da imigração.\n\n2 - Ao Secretário Regional Adjunto da Presidência compete assegurar as relações com a Assembleia Legislativa Regional e com os partidos políticos.\n\n3 - O Serviço Regional de Estatística dos Açores transita para a dependência do Secretário Regional Adjunto da Presidência.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 15/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2001-604213) e [Decreto Regulamentar Regional n.º 33/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2002-437619) e [Decreto Regulamentar Regional n.º 38-A/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-a-2004-233763), publicado em 2004-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613426:por",
+    "alterador": "pt:dre:604213:por;pt:dre:437619:por;pt:dre:233763:por"
+  }
+]

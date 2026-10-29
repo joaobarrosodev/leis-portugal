@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) Escola Superior de Gestão e Contabilidade;\n\nc) Escola Superior de Tecnologia;\n\nd) Escola Superior de Saúde.\n\n2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos do Porto.",
+    "depois": "###### Artigo 12.º\n\n1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430025:por",
+    "alterador": "pt:dre:472089:por;pt:dre:355513:por;pt:dre:217698:por;pt:dre:505637:por"
+  },
+  {
+    "artigo": "17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º\n\n1 - São criadas:\n\na) A Escola Superior de Gestão e Contabilidade de Aveiro;\n\nb) A Escola Superior de Tecnologia de Tomar.\n\n2 - A Escola Superior a que se refere a alínea a) do número anterior resultará da reconversão do actual Instituto Superior de Contabilidade e Administração de Aveiro.",
+    "depois": "###### Artigo 17.º\n\n1 - São criadas:\n\na) (Revogada.)\n\nb) A Escola Superior de Tecnologia de Tomar.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430025:por",
+    "alterador": "pt:dre:472089:por;pt:dre:355513:por;pt:dre:217698:por;pt:dre:505637:por"
+  },
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\nÉ revogada toda a legislação em contrário, nomeadamente:\n\na) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;\n\nb) O n.º 3 do artigo 2.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro;\n\nc) Os n.os 3 e 4 do artigo 2.º do [Decreto-Lei n.º 327/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1976-427801), de 6 de Maio;\n\nd) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.",
+    "depois": "###### Artigo 23.º\n\nÉ revogada toda a legislação em contrário, nomeadamente:\n\na) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.\n\n> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:430025:por",
+    "alterador": "pt:dre:472089:por;pt:dre:355513:por;pt:dre:217698:por;pt:dre:505637:por"
+  }
+]

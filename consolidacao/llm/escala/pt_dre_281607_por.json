@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:281607:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto 44914 só traz a frase introdutória, sem o texto do § único a aditar ao art. 24.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

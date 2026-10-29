@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:592760:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Gestão da dívida pública regional",
+      "texto": "Fica o Governo Regional autorizado, através do Secretário Regional do Plano e Finanças, a realizar as seguintes operações de gestão da dívida pública regional:\n\na) Substituição entre a emissão das várias modalidades de empréstimos;\n\nb) Reforço das dotações para amortização de capital;\n\nc) Pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) Conversão de empréstimos existentes, nos termos e nas condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.\n\ne) Assunção de dívida contraída pelo Centro Regional de Saúde e pelo Centro Hospitalar do Funchal até ao montante de 10024100 contos e 1975951 contos, respectivamente.»"
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Extensão da concessão de serviço público",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alteração dos mapas I a IX do orçamento: não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

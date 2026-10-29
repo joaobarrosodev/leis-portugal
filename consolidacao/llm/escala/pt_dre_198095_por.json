@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:198095:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Revogação",
+      "texto": "São revogados os Decretos n.os 41641, de 23 de Maio de 1958, 202/70, de 9 de Maio, [33/79](https://diariodarepublica.pt/dr/detalhe/decreto/33-1979-382625), de 21 de Abril, e [43/79](https://diariodarepublica.pt/dr/detalhe/decreto/43-1979-382662), de 22 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 23 de Janeiro de 1992. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.\n\nPromulgado em 13 de Março de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Março de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "7.º: parágrafo que não está no alterador nem no original: São revogados os Decretos n.os 41641, de 23 de Maio de 1958, 202/70, de 9 de Mai"
+  ]
+}

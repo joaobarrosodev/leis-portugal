@@ -1,0 +1,32 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 21.º — Funcionamento\n\n1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente, por iniciativa deste ou por solicitação de um dos restantes membros.\n\n2 - As restantes normas de funcionamento constarão de regimento interno a elaborar pela própria comissão.",
+    "depois": "###### Artigo 21.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 157/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2012-179530), publicado em 2012-07-18.",
+    "excerto": "É revogado o Decreto-Lei n.º 304/2007, de 24 de agosto, salvo o disposto no seu artigo 21.º no que se refere ao n.º 5 do artigo 35.º do Decreto-Lei n.º 422/99, de 21 de outubro.",
+    "artigo_alterador": "17.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:667357:por",
+    "alterador": "pt:dre:179530:por"
+  },
+  {
+    "artigo": "35.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 35.º — Estatuto dos dirigentes de ciência e tecnologia\n\n1 - Os directores das unidades departamentais são recrutados, por escolha, de entre os investigadores do LNEC com as categorias de investigador-coordenador ou de investigador principal com habilitação ou agregação, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n2 - Os chefes dos núcleos são recrutados, por escolha, de entre os investigadores do LNEC, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n3 - Os directores das unidades departamentais e os chefes de núcleo são providos em comissão de serviço por um período de três anos, que poderá ser renovada por iguais períodos.\n\n4 - O exercício das funções de director de unidade departamental e de chefe de núcleo tem os efeitos previstos no estatuto da carreira de investigação científica, nomeadamente o disposto no artigo 50.º desse estatuto.\n\n5 - Aos directores das unidades departamentais e aos chefes de núcleo são atribuídos suplementos remuneratórios mensais de, respectivamente, 28% e 23% da remuneração base mensal correspondente ao índice 100 da escala salarial da sua carreira.\n\n6 - Os suplementos remuneratórios referidos no número anterior são considerados para efeitos de cálculo de subsídios de Natal e de férias, bem como das pensões de aposentação, nos termos da legislação aplicável.",
+    "depois": "###### Artigo 35.º — Estatuto dos dirigentes de ciência e tecnologia\n\n1 - Os directores das unidades departamentais são recrutados, por escolha, de entre os investigadores do LNEC com as categorias de investigador-coordenador ou de investigador principal com habilitação ou agregação, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n2 - Os chefes dos núcleos são recrutados, por escolha, de entre os investigadores do LNEC, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n3 - Os directores das unidades departamentais e os chefes de núcleo são providos em comissão de serviço por um período de três anos, que poderá ser renovada por iguais períodos.\n\n4 - O exercício das funções de director de unidade departamental e de chefe de núcleo tem os efeitos previstos no estatuto da carreira de investigação científica, nomeadamente o disposto no artigo 50.º desse estatuto.\n\n5 - (Revogado.)\n\n6 - Os suplementos remuneratórios referidos no número anterior são considerados para efeitos de cálculo de subsídios de Natal e de férias, bem como das pensões de aposentação, nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 157/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2012-179530), publicado em 2012-07-18.",
+    "excerto": "É revogado o Decreto-Lei n.º 304/2007, de 24 de agosto, salvo o disposto no seu artigo 21.º no que se refere ao n.º 5 do artigo 35.º do Decreto-Lei n.º 422/99, de 21 de outubro.",
+    "artigo_alterador": "17.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "5"
+    ],
+    "diploma": "pt:dre:667357:por",
+    "alterador": "pt:dre:179530:por"
+  }
+]

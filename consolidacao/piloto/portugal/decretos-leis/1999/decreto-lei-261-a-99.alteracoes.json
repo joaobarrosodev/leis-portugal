@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 4.º — Criação de acções de categoria especial\n\n1 - Antes de ser deliberado o aumento do capital através do qual se concretizará a 1.ª fase de privatização da GALP poderão ser criadas, por conversão de acções ordinárias, acções privilegiadas.\n\n2 - As acções privilegiadas referidas no número anterior não poderão exceder 10% do actual capital social da GALP, devendo ser detidas maioritariamente por entes públicos, na acepção da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n3 - As aludidas acções poderão conferir, designadamente, os seguintes direitos especiais:\n\na) O direito de, de acordo com o n.º 2 do artigo 391.º do Código das Sociedades Comerciais, aprovar a eleição de um número de administradores não superior a um terço do total;\n\nb) O direito de aprovar quaisquer deliberações de alteração do contrato de sociedade, quaisquer deliberações que visem autorizar a celebração de contratos de grupo paritário ou de subordinação e, ainda, quaisquer deliberações que, de algum modo, possam pôr em causa o abastecimento do País de petróleo, gás ou produtos derivados dos mesmos.",
+    "depois": "###### Artigo 4.º — Criação de acções de categoria especial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.",
+    "excerto": "São revogados:\n\ng) O artigo 4.º do Decreto-Lei n.º 261-A/99, de 7 de Julho;",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:435052:por",
+    "alterador": "pt:dre:669513:por"
+  }
+]

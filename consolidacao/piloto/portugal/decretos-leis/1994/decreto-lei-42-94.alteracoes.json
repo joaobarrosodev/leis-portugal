@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 1.º\n\n1 - As Oficinas Gerais de Material Aeronáutico são transformadas em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se OGMA - Indústria Aeronáutica de Portugal, S. A., adiante designada por OGMA, S. A.\n\n2 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pela legislação especial que lhe seja aplicável em razão do seu objecto.\n\n3 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.",
+    "depois": "###### Artigo 1.º\n\n1 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pela legislação especial que lhe seja aplicável em razão do seu objecto.\n\n2 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "Os artigos 1.º, 2.º, 5.º, 8.º e 9.º do Decreto-Lei n.º 42/94, de 14 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - (Anterior n.º 2.)\n\n2 - (Anterior n.º 3.)\n\nArtigo 2.º\n\n1 - ...\n\n2 - As acções representativas do capital da OGMA, S. A., poderão ser detidas pelo Estado e por entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio, bem como por entidades privadas.\n\nArtigo 5.º\n\nA OGMA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal ou fiscal único, sendo as respectivas competências fixadas na lei e nos estatutos.\n\nArtigo 8.º\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - (Anterior n.º 5.)\n\n5 - (Anterior n.º 6.)\n\nArtigo 9.º\n\n1 - ...\n\n2 - ...\n\n3 - A actividade da OGMA, S. A., no que diz respeito à manutenção da frota da Força Aérea portuguesa, é desenvolvida em articulação com o Chefe do Estado-Maior da Força Aérea, não podendo nenhuma decisão de encerramento ou de cessação dessas actividades, total ou parcial, ser tomada sem obtenção do prévio acordo do Ministro da Defesa Nacional.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 6.º\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração deve enviar aos Ministros da Defesa Nacional e das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Os elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O conselho fiscal deve enviar trimestralmente aos Ministros da Defesa Nacional e das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.",
+    "excerto": "É revogado o artigo 6.º do Decreto-Lei n.º 42/94, de 14 de Fevereiro.",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:524793:por",
+    "alterador": "pt:dre:302156:por"
+  }
+]

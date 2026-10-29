@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:199627:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções aditam números ao artigo 6.º, alteram os artigos 1.º, 4.º, 5.º, 7.º e 8.º e aditam um artigo sem que o texto seja fornecido; não aplicável.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

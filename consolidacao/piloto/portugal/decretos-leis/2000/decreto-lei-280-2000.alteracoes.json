@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Duração e limite\n\nOs contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até um limite de cinco anos, se não forem oportunamente denunciados nos termos da lei geral.",
+    "depois": "###### Artigo 2.º — Duração e limite\n\nOs contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até ao limite de seis anos, se não forem oportunamente denunciados nos termos da lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), publicado em 2005-09-22.",
+    "excerto": "O artigo 2.º do Decreto-Lei n.º 280/2000, de 10 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\nDuração e limite\n\nOs contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até ao limite de seis anos, se não forem oportunamente denunciados nos termos da lei geral.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:614347:por",
+    "alterador": "pt:dre:148001:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:632734:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. São órgãos de concepção, coordenação e apoio:\n\na) A Junta Nacional da Educação;\n\nb) O Gabinete de Estudos e Planeamento;\n\nc) O Conselho dos Directores-Gerais;\n\nd) A Secretaria-Geral.\n\n2. São serviços executivos:\n\nI) No sector da ciência e da cultura:\n\na) O Instituto de Alta Cultura;\n\nb) A Direcção-Geral dos Assuntos Culturais.\n\nII) No sector do ensino:\n\na) A Direcção-Geral do Ensino Superior;\n\nb) A Direcção-Geral do Ensino Secundário;\n\nc) A Direcção-Geral do Ensino Básico;\n\nd) A Inspecção-Geral do Ensino Particular;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) (Revogada.)\n\ng) O Instituto de Tecnologia Educativa.\n\nIII) No sector da juventude e desportos:\n\na) O Secretariado para a Juventude;\n\nb) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do Desporto;\n\nc) O Instituto de Acção Social Escolar."
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações ao mapa do artigo 26.º, extinção da Direcção-Geral da Administração Escolar e mudanças de designação de categorias não são alterações textuais.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

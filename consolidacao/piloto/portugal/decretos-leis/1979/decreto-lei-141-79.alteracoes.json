@@ -1,0 +1,46 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 6.º\n\n1 - As pensões globais devidas nos termos dos artigos anteriores serão pagas pela Caixa Geral de Aposentações, que receberá da Caixa Nacional de Pensões e dos serviços e organismos, aos quais for cometido o encargo com as pensões complementares, a quota-parte da pensão da responsabilidade daquela instituição e de cada um dos mesmos serviços ou organismos, de harmonia com o regime estabelecido no artigo 15.º, no n.º 3 do artigo 53.º e nos n.os 4 e 5 do artigo 63.º do Estatuto da Aposentação.\n\n2 - Sempre que haja qualquer aumento nas pensões de aposentação ou reforma, os serviços e organismos aos quais cabe o encargo com as pensões complementares ajustarão os quantitativos destas, por forma que se mantenha o princípio expresso na parte final do n.º 1 do artigo 3.º\n\n3 - A entrega das importâncias a que aludem os números anteriores far-se-á através de contas correntes, a abrir na Caixa Nacional de Previdência, entre a Caixa Geral de Aposentações e a Caixa Nacional de Pensões e entre aquela instituição e os serviços e organismos que responderem pelas pensões complementares.",
+    "depois": "###### Artigo 6.º\n\n1 - As pensões globais devidas nos termos dos artigos anteriores serão pagas pela Caixa Geral de Aposentações, que receberá da Caixa Nacional de Pensões e dos serviços e organismos, aos quais for cometido o encargo com as pensões complementares, a quota-parte da pensão da responsabilidade daquela instituição e de cada um dos mesmos serviços ou organismos, de harmonia com o regime estabelecido no artigo 15.º, no n.º 3 do artigo 53.º e nos n.os 4 e 5 do artigo 63.º do Estatuto da Aposentação.\n\n2 - Sempre que haja qualquer aumento nas pensões de aposentação ou reforma, os serviços e organismos aos quais cabe o encargo com as pensões complementares ajustarão os quantitativos destas, por forma que se mantenha o princípio expresso na parte final do n.º 1 do artigo 3.º\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13.",
+    "excerto": "6 - São revogados o n.º 3 do artigo 6.º e os artigos 9.º e 11.º do Decreto-Lei n.º 141/79, de 22 de maio.",
+    "artigo_alterador": "76.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "3"
+    ],
+    "diploma": "pt:dre:382661:por",
+    "alterador": "pt:dre:543049:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 9.º\n\nAté que as pensões de aposentação e reforma passem a constituir encargo das entidades referidas nos artigos 6.º e 7.º, caberá aos respectivos serviços e organismos o pagamento de pensões provisórias e complementares a que houver lugar, nos termos deste diploma, devendo proceder-se aos necessários ajustamentos logo que aquele encargo seja assumido pelas mesmas entidades.",
+    "depois": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13.",
+    "excerto": "6 - São revogados o n.º 3 do artigo 6.º e os artigos 9.º e 11.º do Decreto-Lei n.º 141/79, de 22 de maio.",
+    "artigo_alterador": "76.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382661:por",
+    "alterador": "pt:dre:543049:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 11.º\n\n1 - Os organismos abrangidos por este diploma serão autorizados, por despacho do Ministro da respectiva pasta, a afectar as verbas necessárias à sua execução.\n\n2 - Os serviços a que se refere o n.º 2 do artigo 4.º promoverão as diligências indispensáveis à inscrição das verbas necessárias à execução do presente diploma.",
+    "depois": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13.",
+    "excerto": "6 - São revogados o n.º 3 do artigo 6.º e os artigos 9.º e 11.º do Decreto-Lei n.º 141/79, de 22 de maio.",
+    "artigo_alterador": "76.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382661:por",
+    "alterador": "pt:dre:543049:por"
+  }
+]

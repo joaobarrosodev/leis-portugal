@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º\n\n1. Salvo o disposto no número seguinte, à alienação ou arrendamento, pelo proprietário, de uma casa económica aplicam-se as disposições dos capítulos V, VI e VII do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756) de 14 de Novembro.\n\n2. Sempre que no concelho da situação do prédio se não encontre constituída a bolsa de habitação a que se refere o [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), deve o contrato de arrendamento ser também reduzido a escritura pública, não podendo os notários celebrar escritura pública de venda ou arrendamento de casa económica sem a apresentação de documento, emitido pelo Fundo de Fomento da Habitação, do qual constem os respectivos valores de venda ou renda.\n\n3. O não cumprimento, pelo proprietário, do disposto nos números anteriores é punível com a pena de prisão até dois anos.\n\n4. O disposto neste artigo aplica-se aos contratos a celebrar posteriormente a 3 de Outubro de 1975 excepto se, anteriormente a esta data, existir contrato-promessa com reconhecimento notarial da assinatura dos promitentes.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 329/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1982-397880), publicado em 1982-08-17.",
+    "excerto": "Art. 3.º É revogado o artigo 1.º do Decreto-Lei n.º 376/76, de 19 de Maio.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:428220:por",
+    "alterador": "pt:dre:397880:por"
+  }
+]

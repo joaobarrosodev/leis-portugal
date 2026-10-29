@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Taxa de aterragem e descolagem\n\n1 - A taxa de aterragem e descolagem é devida por cada operação de aterragem e descolagem e é definida por unidade de tonelagem métrica do peso máximo de descolagem indicado no certificado de navegabilidade de cada aeronave, ou em documento para o efeito considerado equivalente, podendo ser diferenciada por -origem e destino de voo, ou modulada por forma a incentivar uma utilização mais intensiva, contribuir para diversificar os períodos de utilização dos aeroportos e aeródromos e por razões de protecção ambiental.\n\n2 - O peso máximo de descolagem de cada aeronave deve ser arredondado por excesso para a tonelada, correspondendo 1 libra a 0,4536 kg.\n\n3 - A taxa de aterragem e descolagem constitui contrapartida da utilização das infra-estruturas inerentes à circulação de aeronaves no solo, da utilização das ajudas visuais inerentes à aterragem e descolagem, circulação no solo e ainda do estacionamento da aeronave até ao limite de períodos de tempo a definir, imediatamente depois da aterragem e imediatamente antes da descolagem.\n\n4 - Estão isentas de pagamento de taxa de aterragem e descolagem:\n\na) As aeronaves utilizadas em serviço exclusivo de transporte, em deslocação oficial de monarcas reinantes e sua família directa, de chefes de Estado e de governo, bem como de ministros, sempre que, em qualquer destes casos, seja indicado no plano de voo o respectivo estatuto, ou as aeronaves que se encontrem ao abrigo de acordos de reciprocidade de tratamento, confirmados pelos serviços do Ministério dos Negócios Estrangeiros;\n\nb) As aeronaves militares, em missão oficial não remunerada ou ao abrigo de acordos especiais que vinculem o Estado Português, confirmados pelas competentes entidades diplomáticas ou militares;\n\nc) As aeronaves em missões de busca e salvamento, bem como em missões humanitárias, como tal consideradas pela entidade exploradora do aeroporto ou aeródromo;\n\nd) As aeronaves que efectuem aterragens por motivos de retorno forçado ao aeroporto, justificado por deficiências técnicas das mesmas, razões meteorológicas ou outras de força maior, devidamente comprovadas, quando não hajam utilizado outro aeroporto ou aeródromo.\n\n5 - Sem prejuízo do disposto no n.º 1 sobre diferenciação ou modulação da taxa, beneficiam:\n\na) De uma redução de 50%, as aeronaves que realizem voos locais de experiência e de ensaio de material, instrução, treino ou exame do seu pessoal;\n\nb) De uma redução, diferenciada por aeroporto, até 50% da taxa em vigor, as aeronaves que utilizem um aeroporto ou aeródromo em situação de escala técnica.\n\n6 - Às aeronaves, com excepção das referidas nos n.os 4 e 5, que, sem aterrar, efectuem operações com utilização da balizagem luminosa será aplicada a taxa especificada no n.º 1 do artigo 14.º\n\n7 - Os serviços competentes dos aeroportos ou aeródromos poderão exigir prova das condições justificativas do direito às isenções ou reduções referidas no presente artigo.",
+    "depois": "###### Artigo 4.º — Taxa de aterragem e descolagem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-a-2002-673617) e [Decreto Regulamentar n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2004-606969) e [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346481:por",
+    "alterador": "pt:dre:673617:por;pt:dre:606969:por;pt:dre:489500:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Taxa de ocupação\n\n1 - A taxa de ocupação é devida pela utilização privativa para qualquer fim de espaços, edifícios, gabinetes, hangares e outras áreas dos aeroportos ou aeródromos, sendo definida por unidade métrica, zona, finalidade, localização e períodos horário, diário ou mensal de utilização, podendo ser diferenciada em função do prazo da ocupação e ou sujeita a valores máximos por tipo de ocupação ou utilização.\n\n2 - Estão isentos de taxa de ocupação, em relação às áreas mínimas necessárias para o exercício das suas atribuições, o Instituto Nacional de Aviação Civil (INAC), em relação aos serviços que hajam de ser instalados na área de jurisdição dos aeroportos e aeródromos, a ANA - Aeroportos de Portugal, S. A., e a Empresa Pública Navegação Aérea de Portugal - NAV, E. P., em relação com o serviço público que lhes esteja cometido, e as autoridades responsáveis pela segurança aeroportuária e pelo controlo de fronteira, bem como as entidades oficiais de informação turística.",
+    "depois": "###### Artigo 13.º — Taxa de ocupação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-a-2002-673617) e [Decreto Regulamentar n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2004-606969) e [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:346481:por",
+    "alterador": "pt:dre:673617:por;pt:dre:606969:por;pt:dre:489500:por"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "110.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 110.º — Fundamentos do recurso\n\nOs fundamentos da reclamação não podem ser ampliados no recurso.",
+    "depois": "###### Artigo 110.º — Fundamentos do recurso\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.",
+    "excerto": "Art. 5.º - 1 - É eliminado o artigo 110.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 2.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, e publicado em anexo a este diploma.",
+    "artigo_alterador": "438.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 2.º — Âmbito\n\nO presente Estatuto aplica-se aos militares das forças armadas em qualquer situação e forma de prestação de serviço.",
+    "depois": "###### Artigo 2.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 438.º do/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958), publicado em 1991-07-17.",
+    "excerto": "Art. 5.º - 1 - É eliminado o artigo 110.º do Estatuto dos Militares das Forças Armadas, aprovado pelo artigo 2.º do Decreto-Lei n.º 34-A/90, de 24 de Janeiro, e publicado em anexo a este diploma.",
+    "artigo_alterador": "438.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por"
+  },
+  {
+    "artigo": "409.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 409.º — Prorrogação\n\n1 - A prorrogação da prestação de serviço em RC é anual e só pode ter lugar se o militar desempenhar meritória e eficientemente as respectivas funções.\n\n2 - Em caso de acidente em serviço ou doença relacionada com o mesmo, ao militar em RC é facultada a prorrogação automática da prestação de serviço até decisão definitiva da competente junta médica.",
+    "depois": "###### Artigo 409.º — Prorrogação\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 27/91](https://diariodarepublica.pt/dr/detalhe/lei/27-1991-662958) e [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443) e [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443) e [Decreto-Lei n.º 175/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1997-149645), publicado em 1997-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626423:por",
+    "alterador": "pt:dre:662958:por;pt:dre:275443:por;pt:dre:274443:por;pt:dre:149645:por"
+  }
+]

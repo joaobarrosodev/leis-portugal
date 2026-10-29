@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:626423:por",
+  "artigos": [
+    {
+      "chave": "409.º",
+      "epigrafe": "Prorrogação",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogados os artigos 409.º e seguintes (exceto 440.º), só o 409.º fornecido; DL 157/92 (arts. 3.º e livros III e IV), Lei 15/92 (175.º c)) e DL 175/97 (101.º) sem texto da nova redação; Lei 27/91 só muda designação de título.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

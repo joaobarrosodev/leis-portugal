@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º\n\nÉ também permitida a requisição ou o destacamento de pessoal da Administração Regional Autónoma para prestar serviço à Administração Local, nos termos previstos nos artigos 55.º e 56.º do diploma referido no artigo anterior.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 9/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1993-389634), publicado em 1993-07-15.",
+    "excerto": "Art. 4.º É revogado o artigo 5.º do Decreto Regulamentar Regional n.º 5/81/M, de 21 de Março.",
+    "artigo_alterador": "",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:387999:por",
+    "alterador": "pt:dre:389634:por"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:277277:por",
+  "artigos": [
+    {
+      "chave": "17.º",
+      "epigrafe": "Competência",
+      "texto": "1. Compete à assembleia de freguesia:\n\na) Eleger, por voto secreto, os vogais da junta de freguesia;\n\nb) Elaborar o regimento;\n\nc) Eleger, por voto secreto, o presidente e os secretários da mesa;\n\nd) Acompanhar e fiscalizar a actividade da junta de freguesia, sem prejudicar o exercício normal da sua competência;\n\ne) Solicitar e receber, através da mesa, informações sobre assuntos de interesse para a autarquia e sobre a execução de deliberações anteriores, o que poderá ser requerido por qualquer membro e em qualquer momento;\n\nf) Deliberar sobre a constituição de delegações, comissões ou grupos de trabalho, de entre os seus membros eleitos, para estudo dos problemas relacionados com o bem-estar da população da freguesia, no âmbito das suas atribuições e sem interferência na actividade normal da junta;\n\ng) Aprovar anualmente o plano de actividades e os orçamentos propostos pela junta de freguesia, bem como as contas e o relatório;\n\nh) Estabelecer as normas gerais de administração do património da freguesia ou sob sua jurisdição;\n\ni) Deliberar sobre a administração das águas públicas sob jurisdição da freguesia;\n\nj) Estabelecer taxas, sob proposta da junta;\n\nl) Deliberar, sob proposta da junta, quanto à criação de derramas destinadas à obtenção de fundos para a execução de melhoramentos urgentes;\n\nm) Conceder autorização à junta para aquisição, oneração ou alienação dos bens imóveis da freguesia, fixando as respectivas condições gerais;\n\nn) Aceitar doações e legados, e heranças a benefício de inventário;\n\no) Demarcar as áreas de actuação das organizações populares de base territorial, por sua iniciativa ou a requerimento das mesmas, e solucionar os eventuais conflitos daí resultantes;\n\np) Deliberar, sob proposta da junta, em matéria de criação, dotação e extinção de serviços ou instituições que prossigam na freguesia fins de interesse público, com obediência à lei geral;\n\nq) Aprovar posturas e regulamentos sob proposta da junta;\n\nr) Estabelecer, sob proposta da junta, os quadros de pessoal dos diferentes serviços da freguesia e fixar o respectivo regime jurídico e remunerações, nos termos do estatuto legalmente definido para a função pública e dentro do princípio da uniformidade interprofissional e inter-regional;\n\ns) Ratificar a aceitação por parte da junta da prática de actos da competência da câmara municipal;\n\nt) Pronunciar-se e deliberar sobre todos os assuntos de interesse para a autarquia, por sua iniciativa ou por solicitação da junta;\n\nu) Exercer os demais poderes conferidos por lei ou pelo regimento.\n\n2. As deliberações da assembleia de freguesia no uso da competência prevista nas alíneas j), l) e q) do número anterior devem ser aprovadas pela maioria absoluta dos membros em efectividade de funções.\n\n3 - (Revogado.)"
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Empréstimos",
+      "texto": "A contratação e aplicação de empréstimos obedecerá às seguintes condições:\n\na) Nenhum empréstimo poderá ser contraído sem prévia aprovação dos projectos, orçamentos e planos de financiamento da obra ou serviço a que se destina;\n\nb) (Revogada.)\n\nc) Para pagamento de juros e amortizações, as respectivas verbas serão discriminadas em nota anexa ao orçamento;\n\nd) O produto dos empréstimos não poderá ter aplicação diferente daquela para que forem contraídos."
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Competência",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Exercício do cargo",
+      "texto": "1. As funções de presidente e vogal das juntas de freguesia são gratuitas.\n\n2 - (Revogado.)\n\n3. A assembleia de freguesia poderá igualmente deliberar sobre a concessão de ajudas de custo e subsídios de transporte aos membros da junta que tenham de se deslocar no exercício das suas funções."
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Órgãos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As alterações aos artigos 56.º (Lei 24/78), 12.º, 44.º e 48.º (Lei 1/79) e o aditamento da alínea d) ao n.º 1 do artigo 55.º (Lei 9/81) não trazem o texto da nova redacção; revogação dos artigos 83.º a 90.º (DL 5/91) só aplicada aos artigos recebidos (82.º e 87.º).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

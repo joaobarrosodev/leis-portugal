@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 7.º — Capital\n\n1 - O capital social inicial é de (euro) 29928000 e encontra-se integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente diploma.\n\n2 - Os bens, direitos e obrigações que transitam para o Hospital nos termos do artigo 3.º são incluídos no capital próprio como reservas pelo seu valor contabilístico.\n\n3 - Até ao final de 2003 será realizada a avaliação dos bens, reportada à data da transformação, sendo o valor do capital social alterado de acordo com o necessário, em função do resultado da avaliação, sem qualquer outra formalidade para além do registo de alteração.",
+    "depois": "###### Artigo 7.º — Capital\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado pelo Estado à data de entrada em vigor do presente diploma.\n\n2 - Os bens, direitos e obrigações que transitam para o Hospital nos termos do artigo 3.º são incluídos no capital próprio como reservas pelo seu valor contabilístico.\n\n3 - Até ao final de 2003 será realizada a avaliação dos bens, reportada à data da transformação, sendo o valor do capital social alterado de acordo com o necessário, em função do resultado da avaliação, sem qualquer outra formalidade para além do registo de alteração.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "1 - O artigo 7.º do Decreto-Lei n.º 292/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\nCapital\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado pelo Estado à data de entrada em vigor do presente diploma.\n\n2 - ...\n\n3 - ...»",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438186:por",
+    "alterador": "pt:dre:692434:por"
+  },
+  {
+    "artigo": "ANEXO — ESTATUTOS::4.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social inicial é de (euro) 29928000 e encontra-se integralmente subscrito e realizado.\n\n2 - O capital é representado por 2993 acções, com o valor nominal de (euro) 10000 cada uma.\n\n3 - As acções são nominativas e revestem a forma escritural.\n\n4 - As acções pertencem apenas ao Estado e a empresas de capitais exclusivamente públicos.\n\n5 - A cada 100 acções corresponde um voto.\n\n6 - Os accionistas têm direito de preferência na alienação de acções em função das respectivas participações no capital social e pelo seu valor nominal.\n\n7 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.\n\n8 - A falta de exercício do direito de preferência no prazo fixado confere ao accionista alienante o direito de transmitir livremente as acções, sem prejuízo do disposto no n.º 4 do presente artigo.",
+    "depois": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado.\n\n2 - O capital é representado por 2993 acções, com o valor nominal de (euro) 10000 cada uma.\n\n3 - As acções são nominativas e revestem a forma escritural.\n\n4 - As acções pertencem apenas ao Estado e a empresas de capitais exclusivamente públicos.\n\n5 - A cada 100 acções corresponde um voto.\n\n6 - Os accionistas têm direito de preferência na alienação de acções em função das respectivas participações no capital social e pelo seu valor nominal.\n\n7 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.\n\n8 - A falta de exercício do direito de preferência no prazo fixado confere ao accionista alienante o direito de transmitir livremente as acções, sem prejuízo do disposto no n.º 4 do presente artigo.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.",
+    "excerto": "2 - O artigo 4.º dos Estatutos do Hospital de Santa Marta, S. A. , aprovados pelo Decreto-Lei n.º 292/2002, de 10 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 4.º\n\nCapital social e acções\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...»",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:438186:por",
+    "alterador": "pt:dre:692434:por"
+  }
+]

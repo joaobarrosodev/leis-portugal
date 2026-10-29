@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:580164:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do DL 126/83 e DL 256/84 não trazem o texto da nova redação; a revogação do DL 141/93 exceptua artigos e o capítulo III sem que se saiba a que capítulo pertencem os artigos 1.º e 32.º fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

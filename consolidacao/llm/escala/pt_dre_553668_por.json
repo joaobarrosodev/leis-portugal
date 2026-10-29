@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:553668:por",
+  "artigos": [
+    {
+      "chave": "85.º",
+      "epigrafe": "Taxa de justiça na 1.ª instância",
+      "texto": "1 - A taxa de justiça na 1.ª instância é a seguinte:\n\na) Em processos com intervenção do tribunal de júri ou do tribunal colectivo, entre 2 UC e 50 UC;\n\nb) Em processos com intervenção do juiz singular, entre 1 UC e 30 UC;\n\nc) Em processos sumários e abreviados, entre 1 UC e 20 UC;\n\nd) Nas denúncias de má fé ou com negligência grave, entre 2 UC e 20 UC.\n\n2 - Em casos de excepcional duração ou complexidade do processo o juiz pode elevar as taxas previstas nas alíneas a) e b) do número anterior até 200 UC e 100 UC, respectivamente.\n\n3 - A taxa de justiça é fixada entre um quatro de UC e 5 UC:\n\na) Nos processos sumaríssimos;\n\nb) Nos processos de contravenções e transgressões;\n\nc) Nos processos da jurisdição de menores;\n\nd) Nos processos dos tribunais de execução das penas;\n\ne) Nos casos de desistência da queixa, abstenção injustificada de acusar e rejeição da acusação do assistente, bem como naqueles em que o processo esteja parado por mais de um mês, por negligência do assistente;\n\nf) Nos casos de desistência ou deserção de recurso.\n\n4 - Nos processos de contravenções e transgressões em que o pagamento da multa seja realizado anteriormente ao julgamento, é devido o mínimo da taxa de justiça correspondente a essa forma de processo."
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "Procuradoria",
+      "texto": "1 - A procuradoria é arbitrada pelo tribunal tendo em atenção o volume e a natureza da actividade desenvolvida e a situação económica do devedor, entre um quarto e metade da taxa de justiça individualmente devida.\n\n2 - A procuradoria devida pelo arguido é contada a favor do Instituto de Gestão Financeira e Patrimonial da Justiça, salvo se o processo tiver por objecto exclusivo crimes de natureza particular; se a condenação resultar de crimes particulares e públicos, a procuradoria é dividida com o assistente na proporção que o juiz fixar em função do número de cada espécie.\n\n3 - Quando o tribunal a não arbitre, a procuradoria, considera-se fixada em metade da taxa de justiça individualmente devida."
+    }
+  ],
+  "nao_aplicavel": "Artigos 13.º, 23.º, 27.º, 32.º e 40.º: as instruções não trazem o texto; artigos 124.º e 131.º: a nova redação remete ('...') para números e alíneas que não existem no original fornecido (n.os 5 a 7 do 124.º; alíneas do n.º 3 e n.os 7 e 8 do 131.º); o artigo 142.º não consta do original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "85.º: parágrafo que não está no alterador nem no original: c) Em processos sumários e abreviados, entre 1 UC e 20 UC;"
+  ]
+}

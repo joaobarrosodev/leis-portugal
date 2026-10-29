@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:303221:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - A exploração do serviço de transporte ferroviário de passageiros entre Roma-Areeiro e Pinhal Novo, com passagem pela Ponte de 25 de Abril, é atribuída pelo Estado, mediante concurso internacional, em regime de concessão.\n\n2 - A concessão referida no número anterior poderá estender-se até à Gare do Oriente e até Praias do Sado (via Setúbal).\n\n3 - A CP e outros operadores ferroviários só poderão explorar serviços de transporte ferroviário nos troços mencionados nos números anteriores nos termos e dentro dos limites estabelecidos no regime da concessão referida no n.º 1."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento) pela Ponte de São João.\n\n2 - As subconcessões podem, nos termos que vierem a constar nos respectivos cadernos de encargos, ser estabelecidas mediante condições que obriguem o subconcessionário a proceder à modernização e ou à construção das linhas ou troços de linhas, existentes ou novos."
+    }
+  ],
+  "nao_aplicavel": "Arts. 4.º e 5.º estão no bloco '2.º' do original fornecido (texto do DL 116/92 colado ao art. 2.º dos Estatutos). Instrução do DL 394-A/98 (alteração da relação de linhas anexa) sem texto: não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

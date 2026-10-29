@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:140346:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É da competência do membro do Governo responsável pelas áreas da agricultura, do agroalimentar, das florestal e do mar a autorização para a utilização e distribuição de verbas inscritas no orçamento do respetivo Ministério destinadas à concessão de subsídios às entidades ligadas aos sectores agrário, alimentar, florestal e do mar em relação aos quais não haja legislação especial."
+    }
+  ],
+  "nao_aplicavel": "Art. 2.º: as alíneas f) e g) (DL 174/80 e 251/80) e h) não têm texto disponível, pelo que não se pode compor o n.º 1 com a nova alínea i) com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

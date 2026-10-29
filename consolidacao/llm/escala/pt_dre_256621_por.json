@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:256621:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 (Decreto-Lei n.º 49153) sem texto da nova redação; instrução 2 não é alteração textual. Só aplicada a revogação do artigo 14.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

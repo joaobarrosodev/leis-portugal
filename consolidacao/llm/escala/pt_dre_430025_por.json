@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:430025:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "1 - São criadas:\n\na) (Revogada.)\n\nb) A Escola Superior de Tecnologia de Tomar.\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "É revogada toda a legislação em contrário, nomeadamente:\n\na) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho."
+    }
+  ],
+  "nao_aplicavel": "Não aplicados: artigo 9.º (n.º 2 com nova redação pela Lei n.º 29/80 sem texto fornecido), artigo 20.º (nova redação sem texto), artigo 11.º (substituído pelo Decreto-Lei n.º 333/88 sem texto fornecido, pelo que a revogação posterior da alínea d) não pode ser aplicada com segurança); a extinção do Instituto Politécnico de Faro (Decreto-Lei n.º 241/92) não é alteração textual dos artigos recebidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

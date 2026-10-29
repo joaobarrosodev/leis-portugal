@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 5.º — Composição\n\n1 - O IAS é dirigido por um conselho de administração, constituído pelo director regional da Solidariedade e Segurança Social, que preside, e por dois vogais, nomeados, em comissão de serviço, por três anos, por despacho do Secretário Regional da Educação e Assuntos Sociais, sob proposta do director regional da Solidariedade e Segurança Social, de entre indivíduos com licenciatura adequada.\n\n2 - O presidente do conselho de administração exerce as suas funções em regime de acumulação, auferindo, pelo exercício das mesmas, uma gratificação no valor de 30% da remuneração correspondente ao cargo de director regional.\n\n3 - Aos vogais é atribuída a remuneração correspondente ao índice 900 das carreiras do regime geral da função pública.",
+    "depois": "###### Artigo 5.º — Composição\n\n1 - O Instituto de Acção Social é dirigido por um conselho de administração, constituído pelo director regional da Solidariedade e Segurança Social, que preside, e por dois vogais nomeados, em comissão de serviço, por três anos por despacho do Secretário Regional dos Assuntos Sociais, sob proposta do director regional da Solidariedade e Segurança Social.\n\n2 - O presidente do conselho de administração exerce as suas funções em regime de acumulação, auferindo, pelo exercício das mesmas, uma gratificação no valor de 30% da remuneração correspondente ao cargo de director regional.\n\n3 - Os vogais do conselho de administração são equiparados, para todos os efeitos legais, ao cargo de subdirector-geral, nos termos do estatuto do pessoal dirigente dos serviços da Administração Pública, aprovado pela Lei n.º 49/99, de 22 de Junho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2001-344876), publicado em 2001-05-14.",
+    "excerto": "O artigo 5.º do Decreto Regulamentar Regional n.º 10/2000/A, de 14 de Março, passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\nComposição\n\n1 - O Instituto de Acção Social é dirigido por um conselho de administração, constituído pelo director regional da Solidariedade e Segurança Social, que preside, e por dois vogais nomeados, em comissão de serviço, por três anos por despacho do Secretário Regional dos Assuntos Sociais, sob proposta do director regional da Solidariedade e Segurança Social.\n\n2 - O presidente do conselho de administração exerce as suas funções em regime de acumulação, auferindo, pelo exercício das mesmas, uma gratificação no valor de 30% da remuneração correspondente ao cargo de director regional.\n\n3 - Os vogais do conselho de administração são equiparados, para todos os efeitos legais, ao cargo de subdirector-geral, nos termos do estatuto do pessoal dirigente dos serviços da Administração Pública, aprovado pela Lei n.º 49/99, de 22 de Junho.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:411855:por",
+    "alterador": "pt:dre:344876:por"
+  }
+]

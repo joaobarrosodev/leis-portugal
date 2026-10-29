@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "revogação de número ou alínea",
+    "antes": "###### Artigo 4.º — Exercício de direitos dos accionistas\n\n1 - As acções representativas do capital realizado pelo Estado são detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado como accionista são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e do Ambiente e do Ordenamento do Território.\n\n3 - Os direitos do município de Viana do Castelo como accionista são exercidos por representante designado pela respectiva Câmara Municipal.\n\n4 - A VianaPolis conferirá mandato à Parque EXPO 98, S. A., para a direcção e coordenação geral da intervenção.",
+    "depois": "###### Artigo 4.º — Exercício de direitos dos accionistas\n\n1 - As acções representativas do capital realizado pelo Estado são detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado como accionista são exercidos por representante designado por despacho conjunto dos Ministros das Finanças e do Ambiente e do Ordenamento do Território.\n\n3 - Os direitos do município de Viana do Castelo como accionista são exercidos por representante designado pela respectiva Câmara Municipal.\n\n4 - (Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.",
+    "excerto": "Com a entrada em vigor do presente decreto-lei são revogadas as seguintes disposições:\n\na) O n.º 4 do artigo 4.º do Decreto-Lei n.º 186/2000, de 11 de agosto;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "4"
+    ],
+    "diploma": "pt:dre:340611:por",
+    "alterador": "pt:dre:259962:por"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição parcial",
+    "antes": "###### Artigo 1.º\n\nSão classificados como de interesse público os seguintes imóveis:\n\nDistrito de Bragança:\n\nConcelho de Freixo de Espada à Cinta:\n\nEstação com gravuras rupestres em Mazouco, no local de o «Carneiro» - Cabeço da Vigia.\n\nDistrito de Évora:\n\nConcelho de Évora:\n\nIgreja da Misericórdia de Évora.\n\nDistrito de Lisboa:\n\nConcelho da Azambuja:\n\nIgreja e edifício da Misericórdia da Azambuja.\n\nConcelho de Lisboa:\n\nConvento de Santos-o-Novo, incluindo a igreja, o claustro e as respectivas dependências.\n\nEdifício na Avenida de Berna, n.os 1 e 1-A, em Lisboa.\n\nEdifício na Rua de São Lázaro, n.os 150 a 154, em Lisboa.\n\nEdifício e estabelecimento da Panificação Mecânica, Lda., na Rua de Silva Carvalho, n.os 209 a 225, esquina com a Rua de Campo de Ourique, n.os 2 a 16, em Lisboa.\n\nConcelho de Loures:\n\nCasa da Quinta da Francelha de Cima, freguesia de Sacavém.\n\nConcelho de Mafra:\n\nErmida de Nossa Senhora do Codeçal, freguesia de Sobral da Abelheira.\n\nDistrito de Santarém:\n\nConcelho de Constância:\n\nCasa dos Arcos, ou Casa de Camões, em Constância.\n\nDistrito de Viseu:\n\nConcelho de Armamar:\n\nPonte antiga de Santo Adrião sobre o rio Tedo.\n\nConcelho de Mangualde:\n\nIgreja matriz de Mangualde.",
+    "depois": "###### Artigo 1.º\n\nNone - Igreja de São Julião, matriz de Mangualde, incluindo o adro e a Via-Sacra (as 10 cruzes ainda existentes), 4 cruzes no adro da Igreja de São Julião, 4 cruzes a caminho da Misericórdia, dentro do prolongamento do adro e a nascente da referida Igreja, e as 2 últimas, uma na Misericórdia e outra na Avenida de Salazar, integrada na parede norte da cerca do Palácio do Conde de Anadia, Mangualde, freguesia de Mangualde, município de Mangualde, distrito de Viseu.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 67/97](https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683), publicado em 1997-12-31.",
+    "excerto": "5 - O artigo 1.º do Decreto do Governo n.º 31/83, de 9 de Maio, na parte referente à «igreja matriz de Mangualde», no concelho de Mangualde, distrito de Viseu, classificada como imóvel de interesse público, passa a ter a seguinte redacção:\n\n«Igreja de São Julião, matriz de Mangualde, incluindo o adro e a Via-Sacra (as 10 cruzes ainda existentes), 4 cruzes no adro da Igreja de São Julião, 4 cruzes a caminho da Misericórdia, dentro do prolongamento do adro e a nascente da referida Igreja, e as 2 últimas, uma na Misericórdia e outra na Avenida de Salazar, integrada na parede norte da cerca do Palácio do Conde de Anadia, Mangualde, freguesia de Mangualde, município de Mangualde, distrito de Viseu.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      ""
+    ],
+    "diploma": "pt:dre:450824:por",
+    "alterador": "pt:dre:321683:por"
+  }
+]

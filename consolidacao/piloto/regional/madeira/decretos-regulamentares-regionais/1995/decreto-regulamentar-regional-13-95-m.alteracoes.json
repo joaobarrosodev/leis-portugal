@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º — Requisição de fundos\n\n1 - Os serviços e fundos autónomos e os serviços com autonomia administrativa, na parte em que elaboram orçamentos privativos para aplicação de receitas próprias, deverão fornecer à Direcção Regional de Orçamento e Contabilidade todos os elementos que por esta lhes forem solicitados para o acompanhamento da respectiva execução orçamental.\n\n2 - Os serviços dotados de autonomia administrativa e de autonomia administrativa e financeira apenas poderão requisitar mensalmente as importâncias que, embora dentro dos respectivos duodécimos, forem estritamente indispensáveis à realização das despesas correspondentes às suas necessidades mensais.\n\n3 - As requisições de fundos enviadas à Direcção Regional de Orçamento e Contabilidade - Direcção de Serviços de Contabilidade - para autorização de pagamento serão acompanhadas de projectos de aplicação, onde, por cada rubrica, se pormenorizem os encargos previstos no respectivo mês e o saldo por aplicar das importâncias anteriormente levantadas.\n\n4 - Poderão ser autorizados a liquidação e pagamento das despesas com as transferências para os serviços com autonomia administrativa e autonomia administrativa e financeira cujas requisições estejam em conformidade com os números anteriores deste artigo, independentemente de quaisquer formalidades.\n\n5 - O disposto no número anterior aplica-se com as necessárias adaptações a outros documentos de levantamentos de fundos dos cofres da Região.",
+    "depois": "###### Artigo 5.º — Requisição de fundos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto Regulamentar Regional n.º 3/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2008-247446), publicado em 2008-02-27.",
+    "excerto": "São revogados os artigos 5.º, na redacção dada pelo artigo 10.º do Decreto Regulamentar Regional n.º 13/95/M, de 11 de Maio, e 7.º do Decreto Regulamentar Regional n.º 5/82/M, de 18 de Maio.",
+    "artigo_alterador": "20.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510178:por",
+    "alterador": "pt:dre:247446:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º — Património da Região Autónoma da Madeira\n\nO n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, passa a ter a seguinte redacção:",
+    "depois": "###### Artigo 10.º — Património da Região Autónoma da Madeira\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto Regulamentar Regional n.º 3/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2008-247446), publicado em 2008-02-27.",
+    "excerto": "São revogados os artigos 5.º, na redacção dada pelo artigo 10.º do Decreto Regulamentar Regional n.º 13/95/M, de 11 de Maio, e 7.º do Decreto Regulamentar Regional n.º 5/82/M, de 18 de Maio.",
+    "artigo_alterador": "20.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510178:por",
+    "alterador": "pt:dre:247446:por"
+  }
+]

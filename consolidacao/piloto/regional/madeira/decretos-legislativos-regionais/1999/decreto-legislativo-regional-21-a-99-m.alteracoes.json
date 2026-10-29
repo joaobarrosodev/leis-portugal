@@ -1,0 +1,18 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "aditar",
+    "regra": "aditamento de número ou alínea",
+    "antes": "###### Artigo 3.º\n\nFica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico.",
+    "depois": "###### Artigo 3.º\n\nFica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico.\n\n1 - O capital social é de (euro) 16 125 000, dividido em acções com o valor nominal de (euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pelos accionistas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.",
+    "excerto": "O n.º 1 do artigo 3.º dos Estatutos da VIALITORAL, Concessões Rodoviárias da Madeira, S. A., anexo i e parte integrante do Decreto Legislativo Regional n.º 21-A/99/M, de 24 de Agosto, passa a ter a seguinte redacção:\n\n«1 - O capital social é de (euro) 16 125 000, dividido em acções com o valor nominal de (euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pelos accionistas.»",
+    "artigo_alterador": "1.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [
+      "1"
+    ],
+    "diploma": "pt:dre:219166:por",
+    "alterador": "pt:dre:629169:por"
+  }
+]

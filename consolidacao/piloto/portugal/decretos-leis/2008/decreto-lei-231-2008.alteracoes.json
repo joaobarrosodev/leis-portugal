@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 10.º — Direcção e coordenação\n\nA direcção e a coordenação geral da Polis Litoral Norte - Operação Integrada de Requalificação e Valorização do Litoral Norte, nos termos definidos no respectivo plano estratégico, ficam a cargo da sociedade Parque EXPO 98, S. A.",
+    "depois": "###### Artigo 10.º — Direcção e coordenação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.",
+    "excerto": "Com a entrada em vigor do presente decreto-lei são revogadas as seguintes disposições:\n\nd) O artigo 10.º do Decreto-Lei n.º 231/2008, de 28 de novembro;",
+    "artigo_alterador": "4.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:440549:por",
+    "alterador": "pt:dre:259962:por"
+  }
+]

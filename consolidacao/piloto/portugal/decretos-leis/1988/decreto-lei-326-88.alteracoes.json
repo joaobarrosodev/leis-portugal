@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 14.º\n\n1 - Todas as pessoas, singulares ou colectivas, que se dediquem à produção e ou comercialização por grosso de vinhos licorosos ficam obrigadas a fazer a sua inscrição, bem como das respectivas instalações de produção e ou armazenagem, em registo apropriado na entidade competente, devendo satisfazer as condições por ela determinadas.\n\n2 - Quando o entenda necessário, a entidade competente poderá determinar a declaração das existências de vinhos licorosos em poder das pessoas a que se refere o número anterior.\n\n3 - As pessoas a que se referem os números anteriores ficam obrigadas a constituir e manter existências mínimas de vinhos licorosos nas quantidades e condições estabelecidas nos respectivos regulamentos ou a fixar por portaria do Ministro da Agricultura, Pescas e Alimentação ou, no caso das regiões autónomas, por diploma dos órgãos próprios de governo.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 178/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1999-321573), publicado em 1999-05-21.",
+    "excerto": "São revogados:\n\nj) O artigo 14.º do Decreto-Lei n.º 326/88, de 23 de Setembro.",
+    "artigo_alterador": "9.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355480:por",
+    "alterador": "pt:dre:321573:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 2.º — Gestão da quota\n\n1 -No período compreendido entre 1 de janeiro e 30 de junho de 2013, o limite máximo de descargas da espécie sarda capturada pela frota nacional nas zonas a que se refere o artigo anterior é fixado em 90 % da quota nacional de sarda disponível para a frota costeira.\n\n2 -Em cada semana, no período referido no número anterior, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar um máximo de 40 toneladas de sarda.",
+    "depois": "###### Artigo 2.º — Gestão da quota\n\n1 -A parte da quota nacional de sarda disponível para a frota nacional que opera nas zonas VIIIc, IX e X do CIEM (Conselho Internacional para a Exploração do Mar) e divisão 34.1.1 definida pelo Comité das Pescas para o Atlântico Centro Este (CECAF), é fixada em 3868 toneladas no período compreendido entre 1 de janeiro e 30 de junho de 2013.\n\n2 -Em cada semana, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar um máximo de 40 toneladas de sarda.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 124/2013](https://diariodarepublica.pt/dr/detalhe/portaria/124-2013-260077), publicado em 2013-03-27.",
+    "excerto": "O artigo 2.º da portaria n.º 89/2013, de 28 de fevereiro passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 -A parte da quota nacional de sarda disponível para a frota nacional que opera nas zonas VIIIc, IX e X do CIEM (Conselho Internacional para a Exploração do Mar) e divisão 34.1.1 definida pelo Comité das Pescas para o Atlântico Centro Este (CECAF), é fixada em 3868 toneladas no período compreendido entre 1 de janeiro e 30 de junho de 2013.\n\n2 -Em cada semana, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar um máximo de 40 toneladas de sarda.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:259254:por",
+    "alterador": "pt:dre:260077:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 5.º — Norma derrogatória\n\nA partir da entrada em vigor da presente Portaria e até a 31 de dezembro de 2013, não se aplicam a esta unidade populacional as disposições previstas na Portaria n.º 20/2013 de 22 de janeiro.",
+    "depois": "###### Artigo 5.º — Norma derrogatória\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 153/2013](https://diariodarepublica.pt/dr/detalhe/portaria/153-2013-260414), publicado em 2013-04-17.",
+    "excerto": "É revogado o artigo 5.º da Portaria n.º 89/2013, de 28 de fevereiro, alterada pela Portaria n.º 124/2013, de 27 de março.",
+    "artigo_alterador": "3.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:259254:por",
+    "alterador": "pt:dre:260414:por"
+  }
+]

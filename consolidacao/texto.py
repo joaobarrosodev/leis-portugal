@@ -55,7 +55,8 @@ def publicado(caminho: Path) -> str:
         return corpo(markdown)
     if not _PUBLICADOS:
         rondas = (RAIZ / "consolidacao" / "verificacao").glob("entrada-piloto*.jsonl")
-        for entrada in sorted(rondas, key=lambda p: int(re.sub(r"\D", "", p.name) or 1)):
+        # Por ordem de ronda e, na escala, de lote: `entrada-piloto-6-lote-02.jsonl`.
+        for entrada in sorted(rondas, key=lambda p: [int(n) for n in re.findall(r"\d+", p.name)] or [1]):
             for linha in entrada.read_text(encoding="utf-8").splitlines():
                 d = json.loads(linha)
                 _PUBLICADOS[d["id"]] = d["texto_original"]

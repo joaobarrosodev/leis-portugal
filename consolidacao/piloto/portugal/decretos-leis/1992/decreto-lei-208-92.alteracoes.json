@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 8.º\n\nA concessão de exploração da carreira, findo o prazo em curso, transfere-se automaticamente para o subconcessionário, na parte subconcessionada.\n\nVisto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 16 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), publicado em 2015-06-09.\n\nVisto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 16 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "Sem prejuízo do disposto no n.º 1 do artigo 6.º, são revogados:\n\nd) O artigo 8.º do Decreto-Lei n.º 208/92, de 2 de outubro;",
+    "artigo_alterador": "16.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:233311:por",
+    "alterador": "pt:dre:67442930:por"
+  }
+]

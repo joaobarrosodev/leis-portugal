@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor a 1 de janeiro de 2018.\n\n> Aditado pelo/a [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), publicado em 2017-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:108010873:por",
+    "alterador": "pt:dre:114425586:por"
+  }
+]

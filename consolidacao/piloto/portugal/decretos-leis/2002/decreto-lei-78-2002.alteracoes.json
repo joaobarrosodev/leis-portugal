@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "revogação de artigo",
+    "antes": "###### Artigo 1.º — Altera o artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro\n\nO artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A coordenação operacional do CSREAP é assegurada pelo secretário-geral do Ministério, sendo o apoio técnico e administrativo indispensável à sua actividade prestado pelos meios próprios da Secretaria-Geral.»",
+    "depois": "###### Artigo 1.º — Altera o artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.",
+    "excerto": "São revogados:\n\nc) O Decreto-Lei n.º 269/2000, de 4 Novembro, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 78/2002, de 26 de Março;",
+    "artigo_alterador": "39.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300610:por",
+    "alterador": "pt:dre:608072:por"
+  }
+]

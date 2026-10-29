@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:474127:por",
+  "artigos": [
+    {
+      "chave": "89.º",
+      "epigrafe": "Extinção, transformação e dependência funcional de organismos e serviços",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O Fundo de Socorro Social, criado pelo [Decreto-Lei n.º 35427](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35427-1945-462451), de 31 de Dezembro de 1945, e reestruturado pelo [Decreto-Lei n.º 47500](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47500-1967-501639), de 18 de Janeiro de 1967, e demais legislação complementar, passa a funcionar na dependência do Instituto de Gestão Financeira da Segurança Social.\n\n4 - Todas as referências feitas na lei à Direcção-Geral da Assistência Social e ao respectivo director-geral respeitantes ao Fundo de Socorro Social consideram-se feitas ao Instituto de Gestão Financeira da Segurança Social e ao respectivo director.\n\n5 - Passam a ser exercidas pelo Instituto de Gestão Financeira da Segurança Social, na parte aplicável, as competências da Direcção-Geral da Assistência Social definidas no artigo 92.º do [Decreto n.º 351/72](https://diariodarepublica.pt/dr/detalhe/decreto/351-1972-688979), de 8 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 519-G2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007), de 26 de Dezembro."
+    }
+  ],
+  "nao_aplicavel": "O Decreto-Lei n.º 339/83 revoga todo o diploma exceto os n.os 3, 4 e 5 do artigo 89.º; só o artigo 89.º foi recebido, os demais artigos revogados não foram devolvidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
