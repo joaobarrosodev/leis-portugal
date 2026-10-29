@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-01-21'
+version_history:
+  file: aviso-banco-portugal-3-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-21'
+    amending: pt:dre:2333168:por
+    amending_title: Aviso do Banco de Portugal n.º 8/2011; Aviso do Banco de Portugal n.º 4/2012
+    changes:
+    - Altera Artigo Único
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:12:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso do Banco de Portugal n.º 8/2011;
+    Aviso do Banco de Portugal n.º 4/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/avisos-banco-portugal/2011/aviso-banco-portugal-3-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,11 @@ No seguimento do acordado, o Banco de Portugal, no uso da competência que lhe �
 
 3 - Em função do respectivo perfil de risco e dos resultados do exercício da avaliação de solvabilidade e desalavancagem, a desenvolver no âmbito do Programa de Assistência Financeira, o Banco de Portugal poderá ainda determinar, de forma casuística, níveis mais elevados para o rácio core tier 1 e ou a antecipação das datas previstas para o seu cumprimento.
 
-4 - Para efeitos do cômputo do rácio core tier 1, tendo por referência as regras de Basileia III de aplicação obrigatória em 2013, os fundos próprios integram os elementos previstos nas alíneas a) a i) do n.º 1 do artigo 3.º, deduzidos dos elementos previstos nas alíneas a) a m) do n.º 1 do artigo 5.º, tendo em consideração o disposto no artigo 10.º, todos do [Aviso do Banco de Portugal n.º 6/2010](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/6-2010-2628631).
+4 - Para efeitos do cômputo do rácio core tier 1, tendo por referência as regras de Basileia III de aplicação obrigatória em 2013, os fundos próprios integram os elementos previstos nas alíneas a) a i) do n.º 1 do artigo 3.º, deduzidos dos elementos previstos nas alíneas a) a m) e o) do n.º 1 do artigo 5.º, tendo em consideração o disposto no artigo 10.º, todos do Aviso do Banco de Portugal n.º 6/2010.
+
+4.A - Sem prejuízo do disposto no n.º 4, integram ainda os fundos próprios para efeitos do cômputo do rácio core tier 1, os elementos previstos na alínea j) do n.º 1 do artigo 3.º do Aviso do Banco de Portugal n.º 6/2010, quando sejam subscritos pelo Estado no contexto da Lei n.º 63-A/2008, de 24 de novembro, ou no âmbito de outras formas de intervenção do Estado que visem o reforço da solidez financeira das instituições de crédito.
+
+4.B - Os elementos referidos no n.º 4.A são elegíveis para o cômputo do rácio core tier 1, até a um limite máximo de 50 % do valor dos fundos próprios de base, calculado nos termos do Aviso do Banco de Portugal n.º 6/2010, concorrendo para a verificação do cumprimento deste limite os demais instrumentos elegíveis para os fundos próprios de base, ao abrigo da alínea j) do n.º 1 do artigo 3.º desse mesmo Aviso.
 
 5 - Nos casos em que o cálculo dos fundos próprios seja efectuado em base consolidada, os elementos indicados no número precedente são considerados pelos montantes que resultam da consolidação efectuada de acordo com a regulamentação do Banco de Portugal, devendo os fundos próprios ser acrescidos dos montantes correspondentes aos elementos previstos na subalínea i), da alínea a) do n.º 1 do artigo 22.º do [Aviso do Banco de Portugal n.º 6/2010](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/6-2010-2628631) e deduzidos dos montantes correspondentes aos elementos previstos na subalínea ii) da alínea a) do n.º 1 e nas alíneas b) e c) do n.º 2 do artigo 22.º do mesmo diploma.
 
@@ -147,6 +166,4 @@ No seguimento do acordado, o Banco de Portugal, no uso da competência que lhe �
 
 8 - Este Aviso entra em vigor no dia útil seguinte ao da sua publicação.
 
-10 de Maio de 2011. - O Governador, Carlos da Silva Costa.
-
-204674538
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 8/2011](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/8-2011-2333168) e [Aviso do Banco de Portugal n.º 4/2012](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2012-1632911), publicado em 2012-01-20.

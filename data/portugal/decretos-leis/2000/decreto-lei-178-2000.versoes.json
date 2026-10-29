@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:339395:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-08-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f3f626097743a8bb",
+    "618551c069792009",
+    "00e9301b7e82ec65",
+    "2cd2063c23f11346",
+    "3a68293b91099fae",
+    "1200284ba8968c7e",
+    "0ae1f248f927a9cc",
+    "b5e5ccb2d5e46cbe",
+    "8c66a29328602c88",
+    "c782bb9fdf1a1569",
+    "6d510495f7f13d57",
+    "92658fd5046bd3a2",
+    "2c0da703145ddd23",
+    "9df3c7de986e92da",
+    "2ad5e445b7f33020"
+   ]
+  },
+  {
+   "date": "2001-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522397:por",
+     "title": "Decreto-Lei n.º 332/2000",
+     "published": "2000-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/332-2000-522397"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "f3f626097743a8bb",
+    "618551c069792009",
+    "00e9301b7e82ec65",
+    "2cd2063c23f11346",
+    "3a68293b91099fae",
+    "1200284ba8968c7e",
+    "0ae1f248f927a9cc",
+    "b5e5ccb2d5e46cbe",
+    "8c66a29328602c88",
+    "c782bb9fdf1a1569",
+    "2be1bd0b3d6117d5",
+    "92658fd5046bd3a2",
+    "2c0da703145ddd23",
+    "9df3c7de986e92da",
+    "2ad5e445b7f33020"
+   ]
+  }
+ ],
+ "fragments": {
+  "f3f626097743a8bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Agosto\n\nO regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais, aprovado pelo [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de Maio, estabeleceu a base da adequação de organização judiciária às exigências resultantes de um crescimento superior a 100% dos processos entrados nos tribunais entre 1995 e 1999 e à concentração dos processos pendentes essencialmente nas comarcas das áreas metropolitanas de Lisboa e do Porto.\n\nÉ hoje possível afirmar que a organização judiciária existente, com alguns ajustamentos nas áreas referenciadas, possui capacidade de resposta para apreciar os cerca de 700000 processos que anualmente afluem aos tribunais. Torna-se todavia indispensável adoptar, com carácter de urgência, um conjunto de medidas que permitam reduzir para níveis inferiores ao fluxo processual normal as pendências que ultrapassaram o milhão de processos no final de 1999, apesar da significativa contenção verificada no ritmo de crescimento.\n\nEm intenso trabalho conjunto com o Conselho Superior da Magistratura foi possível, para além do planeamento da afectação preferencial dos magistrados judiciais a movimentar este ano às prioridades verificadas, identificar três situações distintas merecedoras de intervenção urgente:\n\na) Casos em que se verifica uma clara insuficiência estrutural de meios humanos face ao volume processual, determinando a instalação de novos tribunais ou juízos, já previstos no regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais, ou a criação de novos juízos para reforçar os existentes;\n\nb) Tribunais com juízos em que, existindo meios adequados à tramitação do volume processual corrente, existe uma pendência superior a 1500 processos por juízo, o que determina a nomeação de juízes auxiliares pelo período estritamente necessário à regularização do movimento processual;\n\nc) Tribunais com juízos em que se verificou em 1999 a distribuição de mais de 1000 processos por magistrado, o que, na impossibilidade de nomeação em todos os casos de juiz auxiliar ou de alteração da estrutura do tribunal, justifica a nomeação de assessores, a recrutar nos termos de diploma a aprovar brevemente para apoio aos magistrados.\n\nFace à insuficiência de magistrados judiciais, a concretização da reestruturação da organização judiciária promovida pelo presente diploma é repartida entre Setembro de 2000 e Janeiro de 2001.\n\nSerá assim possível proceder à nomeação, com efeitos a 15 de Setembro de 2000, dos magistrados necessários para:\n\na) Preencher as vagas existentes ou previsíveis na 1.ª instância, designadamente as resultantes de promoções à 2.ª instância reduzidas ao mínimo indispensável;\n\nb) Afectação de 15 magistrados à bolsa de juízes, criada pelo artigo 71.º da Lei de Organização e Funcionamento dos Tribunais Judiciais;\n\nc) Manutenção de 17 juízes auxiliares nas varas cíveis de Lisboa e de 9 juízes auxiliares nas varas cíveis do Porto (5 e 4 dos juízes, respectivamente, em acumulação com os novos juízos cíveis);\n\nd) Nomeação de 13 juízes afectos à instrução criminal, nos termos do artigo 131.º da Lei de Organização e Funcionamento dos Tribunais Judiciais, de modo a acelerar a tramitação dos processos penais e ultrapassar as situações de impedimento na formação dos colectivos, para os círculos de Aveiro, Barcelos/Vila do Conde, Barreiro, Cascais/Oeiras, Faro, Guimarães, Setúbal, Sintra, Vila Franca de Xira, Viseu, Maia e Almada;\n\ne) Nomeação de magistrados para cinco casos de intervenção estrutural urgente - instalação do 5.º Juízo de Competência Especializada Cível de Vila Nova de Famalicão e criação do 3.º Juízo de Albufeira, do 4.º Juízo de Competência Especializada Cível de Almada, do 7.º Juízo Cível de Vila Nova de Gaia e do 3.º Juízo de Competência Especializada Cível do Seixal.\n\nEm Janeiro de 2001, existindo concordância do Conselho Superior da Magistratura relativamente à antecipação do final do estágio dos auditores de justiça do XVII curso normal do Centro de Estudos Judiciários, será então possível proceder às seguintes intervenções complementares:\n\na) Completar a nomeação de magistrados para os 6.º a 10.º Juízos Cíveis de Lisboa e para os juízos cíveis do Porto;\n\nb) Criação de um tribunal de pequena instância cível no Porto;\n\nc) Criação e instalação de três juízos de competência especializada cível e nomeação de juízes de círculo para a comarca da Amadora;\n\nd) Criação de dois juízos de pequena instância criminal em Loures;\n\ne) Instalação de cinco novas comarcas criadas em 1999 - Almeirim, Bombarral, Mealhada, Mira e Sever do Vouga;\n\nf) Criação de tribunais de família e menores em Matosinhos e Vila Nova de Gaia;\n\ng) Nomeação de magistrados para o novo círculo de Vila Nova de Famalicão;\n\nh) Nomeação de juízes de instrução criminal para Vila Nova de Gaia e Matosinhos.\n\nEm síntese, pelo presente diploma são criados:\n\nDois novos juízos de competência genérica em comarcas já em funcionamento;\n\nTrês novos juízos de competência especializada cível e um juízo cível em comarcas já em funcionamento;\n\nDois novos tribunais de família e menores;\n\nTrês juízos de pequena instância cível na comarca do Porto;\n\nDois juízos de pequena instância criminal na comarca de Loures.\n\nNa comarca do Porto convertem-se em varas cíveis os actuais nove juízos cíveis, instalando-se, por outro lado, quatro juízos cíveis em lugar das varas inicialmente previstas no regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais. A evolução do movimento processual permite considerar a próxima extinção de algumas das varas.\n\nEm Lisboa são instalados os 6.º a 10.º Juízos Cíveis criados pelo regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais dada a manifesta insuficiência dos cinco juízos em funcionamento. A evolução processual permite igualmente prever a próxima extinção de algumas das varas.\n\nRelativamente ao Tribunal de Pequena Instância Cível de Lisboa, no qual se encontram pendentes cerca de 240000 processos, opta-se pela transformação dos actuais 12 juízos em liquidatários, sendo criados 12 novos juízos, que se prevê tenham capacidade para apreciar os cerca de 60000 novos processos anuais entrados neste tribunal, número correspondente ao de processos findos ou pendentes neste tribunal.\n\nFace ao movimento processual verificado são criados, desde já, os círculos judiciais da Maia e de Vila Nova de Famalicão e a partir de Setembro de 2001 o de Loulé.\n\nFinalmente, procede-se à instalação de dois novos juízos e de cinco novas comarcas criadas pelo regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais em 1999.\n\nAs alterações introduzidas por este diploma na organização judiciária permitem uma resposta adequada ao movimento processual existente. Será todavia acompanhado de imediato pela realização de concursos para nomeação de juízes nos termos do artigo 4.º da [Lei n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-2000-514813), de 20 de Março, na sequência de proposta apresentada pelo Conselho Superior da Magistratura com o objectivo de reduzir significativamente as pendências acumuladas, bem como proceder à selecção de assessores para apoiar os juízes com elevado número de processos distribuídos.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "618551c069792009": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Juízos em tribunais de competência genérica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Juízos em tribunais de competência genérica\n\nSão criados o 3.º Juízo do Tribunal da Comarca de Albufeira e o 5.º Juízo do Tribunal da Comarca da Maia."
+  },
+  "00e9301b7e82ec65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Tribunais de família e menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tribunais de família e menores\n\nSão criados os Tribunais de Família e Menores de Matosinhos e Vila Nova de Gaia."
+  },
+  "2cd2063c23f11346": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Juízos de competência especializada cível e criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Juízos de competência especializada cível e criminal\n\nSão criados os seguintes juízos de competência especializada cível e criminal:\n\na) 4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Almada;\n\nb) 1.º a 4.º Juízos de Competência Especializada Cível do Tribunal da Comarca da Amadora;\n\nc) 1.º a 4.º Juízos de Competência Especializada Criminal do Tribunal da Comarca da Amadora;\n\nd) 3.º Juízo de Competência Especializada Cível do Tribunal da Comarca do Seixal."
+  },
+  "3a68293b91099fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Juízos cíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Juízos cíveis\n\nSão criados os seguintes juízos cíveis:\n\na) 1.º a 4.º Juízos Cíveis do Tribunal da Comarca do Porto;\n\nb) 7.º Juízo Cível do Tribunal da Comarca de Vila Nova de Gaia."
+  },
+  "1200284ba8968c7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Juízos de pequena instância cível e criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Juízos de pequena instância cível e criminal\n\n1 - São criados os seguintes juízos de pequena instância cível e criminal:\n\na) 1.º a 3.º Juízos de Pequena Instância Cível do Tribunal da Comarca do Porto;\n\nb) 1.º e 2.º Juízos de Pequena Instância Criminal do Tribunal da Comarca de Loures.\n\n2 - Enquanto não forem instalados os juízos a que se refere a alínea a) do n.º 1, a competência dos juízos cíveis do Tribunal da Comarca do Porto criados pela alínea a) do artigo 4.º do presente diploma compreende também a competência dos juízos de pequena instância cível.\n\n3 - Enquanto não forem instalados os juízos a que se refere a alínea b) do n.º 1, a competência dos juízos criminais do Tribunal da Comarca de Loures compreende também a competência dos juízos de pequena instância criminal."
+  },
+  "0ae1f248f927a9cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Varas cíveis da comarca do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Varas cíveis da comarca do Porto\n\n1 - Os 1.º a 9.º Juízos Cíveis do Tribunal da Comarca do Porto são, respectivamente, convertidos nas 1.ª a 9.ª Varas Cíveis.\n\n2 - Mantêm-se nas varas cíveis os processos pendentes nos juízos respectivos.\n\n3 - O número de varas cíveis referido no número anterior será objecto de oportuna adequação, decorrido o prazo necessário para a normalização do serviço pendente.\n\n4 - Transitam para as respectivas varas cíveis os juízes dos correspondentes juízos cíveis que possuam os requisitos constantes do n.º 1 do artigo 129.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.\n\n5 - No preenchimento de lugares, por falta de juízes com os requisitos mencionados no número anterior, os juízes colocados nos juízos cíveis gozam de preferência no concurso com candidatos que igualmente não possuam aqueles requisitos.\n\n6 - Os escrivães de direito das secções de processos dos juízos a que se refere o n.º 1 transitam, sem qualquer formalidade, para os serviços em que as respectivas secções foram convertidas."
+  },
+  "b5e5ccb2d5e46cbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Círculos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Círculos judiciais\n\n1 - São criados os círculos judiciais de Maia e Vila Nova de Famalicão com efeitos a partir de 15 de Setembro de 2000.\n\n2 - Os lugares de juiz de círculo da Amadora podem ser preenchidos com efeitos a partir de 1 de Janeiro de 2001.\n\n3 - É criado o círculo judicial de Loulé com efeitos a partir de 15 de Setembro de 2001.\n\n4 - Os mapas I, II e III anexos ao [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de Maio, são alterados em anexo ao presente diploma."
+  },
+  "8c66a29328602c88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Tribunal de Pequena Instância Cível de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tribunal de Pequena Instância Cível de Lisboa\n\n1 - Os actuais 12 juízos do Tribunal de Pequena Instância Cível de Lisboa são declarados extintos, mantendo-se em funcionamento como liquidatários dos processos pendentes naquele tribunal no final do corrente ano.\n\n2 - São criados e instalados 12 juízos no Tribunal de Pequena Instância Cível de Lisboa a partir de 1 de Janeiro de 2001."
+  },
+  "c782bb9fdf1a1569": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Preferência na colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Preferência na colocação\n\nSem prejuízo do disposto no artigo 145.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro, os juízes de círculo que venham a ficar na situação de disponibilidade por força da extinção de lugares nos círculos judiciais de Matosinhos e Santo Tirso têm preferência na colocação nos correspondentes lugares dos círculos judiciais de Maia e Vila Nova de Famalicão, desde que possuam os requisitos exigíveis no concurso com outros candidatos."
+  },
+  "6d510495f7f13d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em funcionamento de novos tribunais, varas e juízos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em funcionamento de novos tribunais, varas e juízos\n\n1 - Os juízos convertidos pelo presente diploma entram em funcionamento no dia 15 de Setembro 2000, mantendo-se até essa data os juízos originários.\n\n2 - Declaram-se instalados, com efeitos a partir de 15 de Setembro de 2000:\n\na) O 3.º Juízo do Tribunal da Comarca de Albufeira;\n\nb) O 2.º Juízo do Tribunal da Família e Menores do Seixal;\n\nc) O 4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Almada;\n\nd) O 3.º Juízo de Competência Especializada Cível do Tribunal da Comarca do Seixal;\n\ne) O 5.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Vila Nova de Famalicão;\n\nf) O 7.º Juízo Cível do Tribunal da Comarca de Vila Nova de Gaia;\n\ng) Os 6.º a 10.º Juízos Cíveis do Tribunal da Comarca de Lisboa;\n\nh) Os 1.º a 4.º Juízos Cíveis do Tribunal da Comarca do Porto.\n\n3 - Declaram-se instalados, com efeitos a partir de 1 de Janeiro de 2001:\n\na) Os Tribunais das Comarcas de Almeirim, Bombarral, Mealhada, Mira e Sever do Vouga;\n\nb) Os Tribunais de Família e Menores de Matosinhos e de Vila Nova de Gaia;\n\nc) O 5.º Juízo do Tribunal da Comarca da Maia;\n\nd) Os 1.º a 3.º Juízos de Competência Especializada Cível da Amadora;\n\ne) Os 1.º a 3.º Juízos de Pequena Instância Cível do Porto;\n\nf) Os 1.º e 2.º Juízos de Pequena Instância Criminal de Loures.\n\n4 - Até à data da instalação dos novos tribunais e juízos mantêm-se as actuais áreas de competência territorial.\n\n5 - Os restantes juízos criados pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação por portaria do Ministro da Justiça."
+  },
+  "92658fd5046bd3a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Alteração de mapas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração de mapas\n\nOs mapas VI, VII e VIII anexos ao [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de Maio, são alterados em anexo ao presente diploma."
+  },
+  "2c0da703145ddd23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Distribuição de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Distribuição de processos\n\n1 - Para os novos tribunais e juízos criados ou instalados não transitam quaisquer processos pendentes.\n\n2 - O Conselho Superior da Magistratura procederá à alteração da distribuição nos novos juízos criados ou instalados, por período de tempo limitado, por forma a obter-se equitativa igualação dos processos.\n\n3 - No âmbito do processo penal, as modificações da competência territorial decorrentes da alteração das áreas das circunscrições judiciais ou da instalação dos tribunais de novas comarcas não são aplicáveis aos processos referentes a infracções cometidas na respectiva área, antes da sua alteração ou instalação."
+  },
+  "9df3c7de986e92da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Organização do serviço de turno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organização do serviço de turno\n\n1 - Sempre que um feriado municipal ocorra em segunda-feira e em dia subsequente a feriado nacional, o serviço de turno é assegurado pelo tribunal normalmente competente, aplicando-se o disposto nos artigos 37.º a 40.º do [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de Maio.\n\n2 - Sem prejuízo do disposto no número anterior, mantém-se até 31 de Dezembro de 2000 a organização do serviço de turno prevista para o corrente ano."
+  },
+  "2ad5e445b7f33020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos\n\nNo ano de 2000, a título excepcional, os encargos decorrentes da execução do presente diploma que não tenham cabimento no Orçamento do Estado são suportados pelo Gabinete de Gestão Financeira do Ministério da Justiça.\n\nVisto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.\n\nPromulgado em 27 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nMAPA ANEXO\n\n«MAPA I\n\n[...]\n\nDistrito judicial de Évora\n\n[...]\n\nCírculos judiciais:\n\nAbrantes, Beja, Évora, Faro, Loulé, Portalegre, Portimão, Santarém, Santiago do Cacém e Setúbal.\n\n[...]\n\nDistrito judicial do Porto\n\n[...]\n\nCírculos judiciais:\n\nBarcelos, Braga, Bragança, Chaves, Gondomar, Guimarães, Lamego, Maia, Matosinhos, Mirandela, Oliveira de Azeméis, Paredes, Penafiel, Porto, Santa Maria da Feira, Santo Tirso, Viana do Castelo, Vila do Conde, Vila Nova de Famalicão, Vila Nova de Gaia e Vila Real.\n\nMAPA II\n\n[...]\n\n[...]\n\nFaro:\n\nSede em Faro.\n\nComarcas: Faro, Olhão, Tavira e Vila Real de Santo António.\n\nQuadro de juízes de círculo: 4 (ver nota a).\n\n[...]\n\nLoulé:\n\nSede em Loulé.\n\nComarcas: Albufeira e Loulé.\n\nQuadro de juízes de círculo: 2.\n\nMaia:\n\nSede em Maia.\n\nComarcas: Maia.\n\nQuadro de juízes de círculo: 2.\n\nMatosinhos:\n\nSede em Matosinhos.\n\nComarcas: Matosinhos.\n\nQuadro de juízes de círculo: 4.\n\n[...]\n\nPortimão:\n\nSede em Portimão\n\nComarcas: Lagos, Monchique, Portimão e Silves.\n\nQuadro de juízes de círculo: 4 (ver nota a).\n\n[...]\n\nSanto Tirso:\n\nSede em Santo Tirso.\n\nComarcas: Santo Tirso.\n\nQuadro de juízes de círculo: 2.\n\n[...]\n\nVila Nova de Famalicão:\n\nSede em Vila Nova de Famalicão.\n\nComarcas: Vila Nova de Famalicão.\n\nQuadro de juízes de círculo: 2.\n\n[...]\n\n(nota a) Três a partir de 15 de Setembro de 2001.\n\nMAPA III\n\nComarcas\n\n[...]\n\nÁgueda:\n\nSede: Águeda.\n\nDistrito judicial: Coimbra.\n\nCírculo judicial: Anadia.\n\nFreguesias:\n\nDo município de Águeda: Agadão, Aguada de Baixo, Aguada de Cima, Águeda, Borralha, Barrô, Belazaima do Chão, Castanheira do Vouga, Espinhal, Fermentelos, Lamas do Vouga, Macieira de Alcoba, Macinhata do Vouga, Óis da Ribeira, Préstimo, Recardães, Segadães, Travassô, Trofa e Valongo do Vouga.\n\n[...]\n\nAlbufeira:\n\n[...]\n\nCírculo judicial: Loulé.\n\n[...]\n\nLoulé:\n\n[...]\n\nCírculo judicial: Loulé.\n\n[...]\n\nMaia:\n\n[...]\n\nCírculo judicial: Maia.\n\n[...]\n\nSever do Vouga:\n\nSede: Sever do Vouga.\n\nDistrito judicial: Coimbra.\n\nCírculo judicial: Aveiro.\n\nFreguesias:\n\nDo município de Sever do Vouga: Cedrim, Couto de Esteves, Dornelas, Paradela, Pessegueiro do Vouga, Rocas do Vouga, Talhadas, Sever do Vouga e Silva Escura.\n\n[...]\n\nVila Nova de Famalicão:\n\n[...]\n\nCírculo judicial: Vila Nova de Famalicão.\n\n[...]\n\nMAPA VI\n\nTribunais judiciais de 1.ª instância\n\nTribunais de comarca\n\n[...]\n\nAlbufeira:\n\nComposição: 3 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nAlmada:\n\nJuízos de competência especializada cível:\n\nComposição: 4 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nAmadora:\n\nJuízos de competência especializada cível:\n\nComposição: 4 juízos.\n\nQuadro de juízes: 1 por juízo.\n\nJuízos de competência especializada criminal:\n\nComposição: 4 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nLoures:\n\n[...]\n\nJuízos de pequena instância criminal:\n\nComposição: 2 juízos.\n\nQuadro de juízes: 1 por juízo.\n\nMaia:\n\nComposição: 5 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nPorto:\n\nVaras cíveis:\n\nComposição: 9 varas.\n\nQuadro de juízes: 3 por vara.\n\nJuízos cíveis:\n\nComposição: 4 juízos.\n\nQuadro de juízes: 3 por juízo.\n\nJuízos de pequena instância cível:\n\nComposição: 3 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nSeixal:\n\nJuízos de competência especializada cível:\n\nComposição: 3 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nVila Nova de Gaia:\n\n[...]\n\nJuízos cíveis:\n\nComposição: 7 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nTribunais de competência especializada\n\n[...]\n\nTribunais de família e menores\n\nTribunal de Família e Menores de Aveiro\n\nSede: Aveiro.\n\nÁrea de competência:\n\na) Círculo judicial;\n\nb) Círculos judiciais de Anadia, Aveiro e Oliveira de Azeméis, para efeitos do disposto no n.º 2 do artigo 84.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.\n\nQuadro de juízes: 1.\n\n[...]\n\nTribunal de Família e Menores de Faro\n\nSede: Faro.\n\nÁrea de competência:\n\na) Círculo judicial de Faro e comarca de Loulé;\n\nb) Círculos judiciais de Beja e Faro e comarca de Loulé, para efeitos do disposto no n.º 2 do artigo 84.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.\n\nComposição: 2 juízos.\n\nQuadro de juízes: 1 por juízo.\n\n[...]\n\nTribunal de Família e Menores de Matosinhos\n\nSede: Matosinhos.\n\nÁrea de competência: círculo judicial.\n\nQuadro de juízes: 1.\n\n[...]\n\nTribunal de Família e Menores de Portimão\n\nSede: Portimão.\n\nÁrea de competência: círculo judicial de Portimão e comarca de Albufeira.\n\nQuadro de juízes: 1.\n\nTribunal de Família e Menores do Porto\n\nSede: Porto.\n\nÁrea de competência:\n\na) Comarcas de Gondomar, Maia, Porto e Valongo;\n\nb) Comarcas do distrito judicial do Porto, exceptuadas as pertencentes aos círculos judiciais de Barcelos, Braga, Guimarães, Oliveira de Azeméis, Santa Maria de Feira, Viana do Castelo e Vila Nova de Gaia, para efeitos do disposto no n.º 2 do artigo 84.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.\n\nComposição: 3 juízos.\n\nQuadro de juízes: 3 por juízo.\n\nTribunal de Família e Menores de Vila Nova de Gaia\n\nSede: Vila Nova de Gaia.\n\nÁrea de competência:\n\na) Círculo judicial de Vila Nova de Gaia;\n\nb) Círculos judiciais de Santa Maria da Feira e Vila Nova de Gaia, para efeitos do disposto no n.º 2 do artigo 84.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.\n\nQuadro de juízes: 1.\n\n[...]\n\nTribunais do trabalho\n\n[...]\n\nFaro:\n\nSede: Faro.\n\nÁrea de competência: círculo judicial de Faro e comarca de Loulé.\n\nQuadro de juízes: 1.\n\n[...]\n\nPortimão:\n\nSede: Portimão.\n\nÁrea de competência: círculo judicial de Portimão e comarca de Albufeira.\n\nQuadro de juízes: 1.\n\n[...]\n\nMAPA VII\n\n[...]\n\nProcuradores da República\n\n[...]\n\nLoulé - 1.\n\nMaia - 2.\n\nPorto - 35.\n\nViana do Castelo - 3.\n\nVila Nova de Famalicão - 2.\n\nVila Nova de Gaia - 6.\n\n[...]\n\nProcuradores-adjuntos\n\n[...]\n\nLoures - 20.\n\nOliveira de Azeméis - 4.\n\nPenafiel - 4.\n\nPorto - 48.\n\nMAPA VIII\n\n[...]\n\nServiço de turno dos círculos judiciais da Amadora e Sintra:\n\nComarcas: Amadora e Sintra.\n\n[...]\n\nServiço de turno dos círculos judiciais de Faro e Loulé:\n\nComarcas: Faro, Loulé, Olhão, Tavira e Vila Real de Santo António.\n\n[...]\n\nServiço de turno do círculo judicial de Portimão:\n\nComarcas: Albufeira, Lagos, Monchique, Portimão e Silves.\n\n[...]\n\nServiço de turno dos círculos judiciais de Santo Tirso e Vila Nova de Famalicão:\n\nComarcas: Santo Tirso e Vila Nova de Famalicão.\n\n[...]»"
+  },
+  "2be1bd0b3d6117d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em funcionamento de novos tribunais, varas e juízos",
+   "in_force_from": "2001-01-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 332/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2000-522397), publicado em 2000-12-30."
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em funcionamento de novos tribunais, varas e juízos\n\n1 - Os juízos convertidos pelo presente diploma entram em funcionamento no dia 15 de Setembro 2000, mantendo-se até essa data os juízos originários.\n\n2 - Declaram-se instalados, com efeitos a partir de 15 de Setembro de 2000:\n\na) O 3.º Juízo do Tribunal da Comarca de Albufeira;\n\nb) O 2.º Juízo do Tribunal da Família e Menores do Seixal;\n\nc) O 4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Almada;\n\nd) O 3.º Juízo de Competência Especializada Cível do Tribunal da Comarca do Seixal;\n\ne) O 5.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Vila Nova de Famalicão;\n\nf) O 7.º Juízo Cível do Tribunal da Comarca de Vila Nova de Gaia;\n\ng) Os 6.º a 10.º Juízos Cíveis do Tribunal da Comarca de Lisboa;\n\nh) Os 1.º a 4.º Juízos Cíveis do Tribunal da Comarca do Porto.\n\n3 - Declaram-se instalados, com efeitos a partir de 1 de Fevereiro de 2001:\n\na) Os Tribunais das Comarcas de Almeirim, Bombarral, Mealhada, Mira e Sever do Vouga;\n\nb) Os Tribunais de Família e Menores de Matosinhos e de Vila Nova de Gaia;\n\nc) O 5.º Juízo do Tribunal da Comarca da Maia;\n\nd) Os 1.º a 3.º Juízos de Competência Especializada Cível da Amadora;\n\ne) Os 1.º a 3.º Juízos de Pequena Instância Cível do Porto;\n\nf) Os 1.º e 2.º Juízos de Pequena Instância Criminal de Loures.\n\n4 - Até à data da instalação dos novos tribunais e juízos mantêm-se as actuais áreas de competência territorial.\n\n5 - Os restantes juízos criados pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação por portaria do Ministro da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 332/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2000-522397), publicado em 2000-12-30."
+  }
+ }
+}

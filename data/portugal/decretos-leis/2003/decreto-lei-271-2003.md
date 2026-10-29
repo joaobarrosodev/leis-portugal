@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-07-03'
+version_history:
+  file: decreto-lei-271-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-03'
+    amending: pt:dre:281201:por
+    amending_title: Decreto-Lei n.º 135/2004
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/271/2003/10/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:40:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 135/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-271-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -397,7 +412,9 @@ O desvio da comparticipação concedida à construção ou aquisição da habita
 
 2 - O estabelecido nos artigos 13.º, 14.º, 16.º e 22.º e seguintes com a redacção dada pelo presente diploma é aplicável às relações jurídicas já constituídas.
 
-3 - As disposições legais referidas no número anterior aplicam-se no caso de fogos construídos ou adquiridos com o apoio financeiro concedido ao abrigo dos Decretos-Leis n.os [226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, e [197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de Julho, nos termos previstos no n.º 2 do presente artigo.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 135/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), publicado em 2004-06-03.
 
 ###### Artigo 5.º — Norma revogatória
 

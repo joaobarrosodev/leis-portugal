@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-01-31'
+version_history:
+  file: despacho-normativo-10-a-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-31'
+    amending: pt:dre:235100:por
+    amending_title: Despacho Normativo n.º 71/98; Despacho Normativo n.º 3/99
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/10-a/1998/02/13/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:32:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 71/98; Despacho
+    Normativo n.º 3/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1998/despacho-normativo-10-a-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,7 +218,7 @@ Assim, determina-se o seguinte:
 
 ###### Artigo 2.º — Âmbito
 
-1 - São susceptíveis de apoio no âmbito do presente Regime os projectos de inovação e internacionalização das estruturas empresariais, a que se refere a alínea c) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890), apresentados após a entrada em vigor do presente diploma, com excepção das candidaturas regulamentadas respectivamente pelos Despachos Normativos n.os [84/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1995-643123), de 27 de Dezembro (PRATIC), e [86/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/86-1995-644891), de 29 de Dezembro (PRODIBETA), e ainda dos projectos a que se referem a [Portaria n.º 934/94](https://diariodarepublica.pt/dr/detalhe/portaria/934-1994-626067), de 21 de Outubro, e o [Despacho Normativo n.º 763/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/763-1994-534053), de 12 de Novembro.
+1 - São susceptíveis de apoio no âmbito do presente regime os projectos de inovação e internacionalização das estruturas empresariais a que se refere a alínea c) do n.º 1 do artigo 2.º do Despacho Normativo n.º 545/94, apresentados após a entrada em vigor do presente diploma, com excepção das candidaturas regulamentadas respectivamente pelos Despachos Normativos n.os 84/95, de 27 de Dezembro (PRATIC), e 86/95, de 29 de Dezembro (PRODIBETA).
 
 2 - Os projectos integrados poderão incluir investimentos de inovação e internacionalização nas áreas a seguir indicadas:
 
@@ -230,6 +247,8 @@ l) Organização e introdução de técnicas avançadas de gestão;
 m) Formação dos recursos humanos da empresa;
 
 n) Transferência de projectos com alta intensidade tecnológica para pólos e parques tecnológicos.
+
+> Alterado pelo/a [Despacho Normativo n.º 71/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-1998-235100) e [Despacho Normativo n.º 3/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1999-181383), publicado em 1999-01-26.
 
 ###### Artigo 3.º — Organismo gestor
 
@@ -347,6 +366,10 @@ c) As despesas no âmbito da formação profissional cujo período de elegibilid
 
 d) Os adiantamentos para sinalização até 50% do custo de cada equipamento, não podendo ultrapassar 25% do custo global dos equipamentos, sempre que os documentos justificativos desses adiantamentos se refiram aos 60 dias úteis que antecederam a data da apresentação da candidatura.
 
+4 - Em casos excepcionais, devidamente fundamentados, o limite de 2,5 milhões previsto na alínea h) do n.º 1 poderá ser ultrapassado, mediante despacho do Ministro da Economia.
+
+> Alterado pelo/a [Despacho Normativo n.º 71/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-1998-235100) e [Despacho Normativo n.º 3/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1999-181383), publicado em 1999-01-26.
+
 ###### Artigo 7.º — Critérios de selecção
 
 1 - A selecção dos projectos será feita por fases, cujos períodos e dotações orçamentais serão definidos por despacho do Ministro da Economia.
@@ -439,9 +462,9 @@ Os montantes do incentivo a atribuir ao abrigo do presente Regime de Apoio são 
 
 1 - Deverá ser garantido que o nível base do incentivo e a majoração permitam que o incentivo global atribuído aos projectos localizados nas Regiões Autónomas, em regiões abrangidas pelo Sistema de Incentivos Regionais, bem como nos concelhos reconhecidos, por despacho conjunto dos ministros competentes, como profundamente afectados por transformações industriais, seja superior em 15% em relação aos projectos realizados no resto do País.
 
-2 - Os limites máximos de incentivo a conceder por empresa, no âmbito e na vigência deste Regime de Apoio, são os seguintes:
+2 - Os limites máximos de incentivo a conceder por empresa, no âmbito e na vigência do Regime de Apoio à Realização de Estratégias Empresariais Integradas, no que respeita a projectos de inovação e internacionalização das estruturas empresariais, são os seguintes:
 
-a) Para empresas com projectos já aprovados no âmbito do presente Regime de Apoio:
+a) Para empresas com projectos já aprovados no seu âmbito:
 
 400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do subsídio relativo à formação profissional e ao ambiente externo;
 
@@ -455,9 +478,15 @@ Juros correspondentes a um empréstimo bancário de 500000 contos por empresa, s
 
 c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser transformado em bonificação de juro de um empréstimo bancário de montante máximo de, também respectivamente, 900000 contos ou 600000 contos por empresa.
 
-3 - O montante total do incentivo a conceder, com excepção do que se referir a incentivos no âmbito do Fundo Social Europeu, não poderá exceder dois terços do custo do investimento.
+d) Para empresas com projectos estratégicos de regime contratual do Regime de Apoio à Realização de Estratégias Empresariais Integradas já aprovados, o incentivo a atribuir não poderá exceder os limites máximos referidos nas alíneas a) e c) e para o seu cálculo deverão ser tidos em consideração os montantes que já lhes foram concedidos, até aos limites previstos na alínea b).
 
-4 - Em projectos de investimento superior a 1,5 milhões de contos em capital fixo poderá ser instituído um processo administrativo negocial similar ao utilizado nos projectos estratégicos de regime contratual, a que se refere a alínea b) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893).
+3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.º
+
+4 - O montante total do incentivo a conceder, com excepção do que se referir a incentivos no âmbito do Fundo Social Europeu, não poderá exceder dois terços do custo do investimento.
+
+5 - Em projectos de investimento superior a 1,5 milhões de contos em capital fixo poderá ser instituído um processo administrativo negocial similar ao utilizado nos projectos estratégicos de regime contratual, a que se refere a alínea b) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893).
+
+> Alterado pelo/a [Despacho Normativo n.º 71/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-1998-235100) e [Despacho Normativo n.º 3/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1999-181383), publicado em 1999-01-26.
 
 ###### Artigo 13.º — Ajustamento do incentivo
 

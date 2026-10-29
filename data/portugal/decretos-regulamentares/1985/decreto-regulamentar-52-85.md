@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-01'
+version_history:
+  file: decreto-regulamentar-52-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-01'
+    amending: pt:dre:144837:por
+    amending_title: Decreto Regulamentar n.º 30/97
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:11:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 30/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-52-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,33 +136,45 @@ A necessidade de definir o regime destas categorias de pessoal resulta, aliás, 
 
 Assim, considerando o disposto no [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Os directores dos Estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira seguidamente enumerados são, para todos os efeitos legais, equiparados a:
+###### Artigo 1.º
 
-a) Director de serviços, os directores de estabelecimentos de terceira idade, educação especial e reabilitação de deficientes com capacidade superior a 300 utentes;
+1 - Os directores dos Estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira seguidamente enumerados são, para todos os efeitos legais, equiparados a:
 
-b) Chefe de divisão, os directores de estabelecimentos de terceira idade, educação especial e reabilitação de deficientes com capacidade compreendida entre 150 e 300 utentes.
+a) Director de serviços, os directores de estabelecimentos de idosos, de educação especial e reabilitação de deficientes e de lares para crianças e jovens com capacidade superior a 300 utentes;
+
+b) Chefe de divisão, os directores de estabelecimentos de idosos, de educação especial e reabilitação de deficientes e de lares para crianças e jovens com capacidade compreendida entre 151 e 300 utentes, bem como os directores de colónias de férias com capacidade superior a 300 utentes.
 
 2 - O disposto no número anterior aplica-se igualmente aos directores do Lar Residencial de Alcobaça, Mansão de Santa Maria de Marvila, Lar Residencial das Fontainhas e Recolhimentos da Capital.
 
-Art. 2.º - 1 - O desempenho dos cargos seguidamente enumerados de directores de estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira será remunerado pelo vencimento correspondente às categorias de:
+> Alterado pelo/a [Decreto Regulamentar n.º 30/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1997-144837), publicado em 1997-07-29.
 
-a) Técnico superior principal, os directores de estabelecimentos de educação especial e de reabilitação de deficientes com capacidade inferior a 150 utentes, os directores de estabelecimentos de terceira idade com capacidade compreendida entre 75 e 150 utentes, os directores de estabelecimentos de primeira e segunda infância com capacidade superior a 150 crianças e os directores de colónias de férias com capacidade superior a 150 utentes e que funcionem durante todo o ano;
+###### Artigo 2.º
 
-b) Técnico superior de 1.ª classe, os directores de estabelecimentos de terceira idade com capacidade inferior a 75 utentes, os directores de estabelecimentos de primeira e segunda infância com capacidade compreendida entre 75 e 50 utentes e os directores de colónias de férias com capacidade inferior a 150 crianças e que funcionem durante todo o ano;
+1 - O desempenho das funções a seguir enunciadas será remunerado pelo vencimento correspondente ao escalão 1 das categorias de:
 
-c) Técnico principal, os directores de estabelecimentos de primeira e segunda infância com capacidade compreendida entre 50 e 75 utentes;
+a) Assessor principal, os directores de estabelecimentos de primeira e segunda infância com capacidade superior a 150 utentes, os directores de colónias de férias com capacidade de 151 a 300 utentes, os directores de lares para crianças e jovens, de estabelecimentos de educação especial e reabilitação de deficientes e de idosos com capacidade de 76 a 150 utentes;
 
-d) Técnico de 1.ª classe, os directores de estabelecimentos de primeira e segunda infância com capacidade inferior a 50 utentes.
+b) Assessor, os directores de estabelecimentos de primeira e segunda infância e de colónias de férias com capacidade de 76 a 150 utentes, bem como os directores de lares para crianças e jovens, de educação especial e reabilitação de deficientes e de idosos com capacidade até 75 utentes;
 
-2 - O disposto no número anterior não prejudicará a opção pelo vencimento correspondente à categoria de que o funcionário seja titular.
+c) Técnico superior principal, os directores de estabelecimentos de primeira e segunda infância com capacidade de 51 a 75 utentes e os directores de colónias de férias com capacidade até 75 utentes;
 
-3 - Os cargos referidos neste artigo são exercidos em comissão de serviço com a duração de 3 anos, sucessivamente renováveis.
+d) Técnico superior de 1.ª classe, os directores de estabelecimentos de primeira e segunda infância com capacidade até 50 utentes.
 
-4 - A comissão de serviço prevista no número anterior cessa com o encerramento do estabelecimento, a modificação do seu objectivo ou ainda se a respectiva gestão deixar de estar a cargo do centro regional.
+2 - As funções previstas no número anterior são exercidas em comissão de serviço com a duração de três anos, que poderá ser renovada nos termos da legislação em vigor para o pessoal dirigente da função pública.
 
-Art. 3.º Para efeitos dos artigos anteriores, a capacidade do estabelecimento será a que for fixada por despacho do Ministro do Trabalho e Segurança Social.
+3 - A comissão de serviço prevista no número anterior cessa nos termos da legislação em vigor para o pessoal dirigente da função pública, bem como pelo encerramento do estabelecimento, pela alteração do seu objectivo ou ainda se a respectiva gestão deixar de ser directamente exercida pelo centro regional de segurança social.
 
-Art. 4.º - 1 - Os cargos previstos no n.º 1 do artigo 1.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou inseridos na carreira técnica superior e com experiência profissional devidamente comprovada para o cargo a exercer.
+4 - As funções de director de colónias de férias que não funcionam todo o ano são exercidas em comissão de serviço pelo correspondente período de funcionamento.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 30/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1997-144837), publicado em 1997-07-29.
+
+###### Artigo 3.º
+
+Para efeitos dos artigos anteriores, a capacidade do estabelecimento será a que for fixada por despacho do Ministro do Trabalho e Segurança Social.
+
+###### Artigo 4.º
+
+1 - Os cargos previstos no n.º 1 do artigo 1.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou inseridos na carreira técnica superior e com experiência profissional devidamente comprovada para o cargo a exercer.
 
 2 - Os cargos previstos no n.º 1 do artigo 2.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou curso superior adequado ou inseridos em carreira técnica superior, técnica ou docente e com experiência profissional devidamente comprovada para o cargo a exercer.
 

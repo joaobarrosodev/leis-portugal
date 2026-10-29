@@ -39,10 +39,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-01'
+version_history:
+  file: decreto-lei-360-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-09-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: pt:dre:469069:por
+    amending_title: Decreto-Lei n.º 229/2005
+    changes:
+    - Revoga Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:53:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 229/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-360-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,9 +395,11 @@ c) Dar execução às determinações dos seus superiores hierárquicos compatí
 
 #### SECÇÃO IV — Contagem de tempo
 
-###### Artigo 18.º — (Tempo acrescido)
+###### Artigo 18.º — Tempo acrescido
 
-A contagem do tempo de serviço para efeitos de aposentarão será acrescida de uma bonificação de 25% cobre o tempo prestado na categoria de portageiro e de 10% sobre o tempo prestado na categoria de fiscal de portagem.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.
 
 ###### Artigo 19.º — (Remunerações acessórias)
 

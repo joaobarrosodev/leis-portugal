@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:392777:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "93c6d8f96070bbb5"
+   ]
+  },
+  {
+   "date": "1989-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611075:por",
+     "title": "Decreto-Lei n.º 161/89",
+     "published": "1989-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/161-1989-611075"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "5078068380e797b8",
+    "c9b09976c67e6856",
+    "06bf2824e062b907",
+    "1ab30604aa825e15",
+    "c0f6aa1f0702d74e"
+   ]
+  }
+ ],
+ "fragments": {
+  "93c6d8f96070bbb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nNão obstante os sucessivos subsídios e créditos concedidos nos últimos anos pelo sector público à SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L., a sua situação financeira tem vindo a agravar-se progressivamente, atingindo um ponto tal de degradação que não se vislumbra qualquer possibilidade de a viabilizar.\n\nPor isso:\n\na) No interesse do País, cujo encargo para manter a empresa em existência se tem cifrado por valores manifestamente desproporcionados em relação às produções obtidas;\n\nb) No interesse dos credores, que na situação actual não têm possibilidades de obter o pagamento dos seus créditos e têm interesse em que se evite o agravamento da situação da empresa e se defina a perspectiva de cobrança dos seus créditos;\n\nc) No interesse dos seus trabalhadores, que na situação actual não têm possibilidades de receber nem os salários em atraso nem os que se venham a vencer;\n\ndecide-se extinguir a SNAPA, devendo, no entanto, a respectiva comissão liquidatária procurar, na medida do possível, defender a capacidade produtiva do País, evitar maiores prejuízos para o Estado e para os credores e conseguir que com a venda dos navios surjam novos postos de trabalho para compensar os que vão desaparecer.\n\nAssim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.\n\n2 - A SNAPA mantém a sua personalidade jurídica, para efeitos de liquidação, até à aprovação final das contas apresentadas pelos liquidatários.\n\nArt. 2.º Por despacho conjunto dos Secretários de Estado das Finanças e das Pescas será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais.\n\nArt. 3.º A partir da entrada em vigor deste diploma:\n\n1) É fixado em 1 mês o período durante o qual os credores da SNAPA residentes no País podem reclamar os seus créditos, na sede da SNAPA, no armazém n.º 2, da Docapesca;\n\n2) É fixado em 2 meses o prazo para os credores não residentes no País reclamarem os seus créditos, podendo fazê-lo na sede da SNAPA ou por intermédio de um consulado de Portugal;\n\n3) A partir das datas fixadas no número anterior, consideram-se encerradas as contas correntes e vencidas todas as dívidas e cessa a contagem dos juros respectivos, assim como os direitos de acção contra a empresa ou sobre os seus bens.\n\nArt. 4.º - 1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.\n\n2 - Em tudo o que não contrarie a regulamentação prevista no número anterior aplicam-se, subsidiariamente, as regras do Código de Processo Civil relativas à liquidação extrajudicial.\n\nVisto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 23 de Abril de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "5078068380e797b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nNão obstante os sucessivos subsídios e créditos concedidos nos últimos anos pelo sector público à SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L., a sua situação financeira tem vindo a agravar-se progressivamente, atingindo um ponto tal de degradação que não se vislumbra qualquer possibilidade de a viabilizar.\n\nPor isso:\n\na) No interesse do País, cujo encargo para manter a empresa em existência se tem cifrado por valores manifestamente desproporcionados em relação às produções obtidas;\n\nb) No interesse dos credores, que na situação actual não têm possibilidades de obter o pagamento dos seus créditos e têm interesse em que se evite o agravamento da situação da empresa e se defina a perspectiva de cobrança dos seus créditos;\n\nc) No interesse dos seus trabalhadores, que na situação actual não têm possibilidades de receber nem os salários em atraso nem os que se venham a vencer;\n\ndecide-se extinguir a SNAPA, devendo, no entanto, a respectiva comissão liquidatária procurar, na medida do possível, defender a capacidade produtiva do País, evitar maiores prejuízos para o Estado e para os credores e conseguir que com a venda dos navios surjam novos postos de trabalho para compensar os que vão desaparecer.\n\nAssim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "c9b09976c67e6856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.\n\n2 - A SNAPA mantém a sua personalidade jurídica, para efeitos de liquidação, até à aprovação final das contas apresentadas pelos liquidatários."
+  },
+  "06bf2824e062b907": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1989-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13."
+  },
+  "1ab30604aa825e15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA partir da entrada em vigor deste diploma:\n\n1) É fixado em 1 mês o período durante o qual os credores da SNAPA residentes no País podem reclamar os seus créditos, na sede da SNAPA, no armazém n.º 2, da Docapesca;\n\n2) É fixado em 2 meses o prazo para os credores não residentes no País reclamarem os seus créditos, podendo fazê-lo na sede da SNAPA ou por intermédio de um consulado de Portugal;\n\n3) A partir das datas fixadas no número anterior, consideram-se encerradas as contas correntes e vencidas todas as dívidas e cessa a contagem dos juros respectivos, assim como os direitos de acção contra a empresa ou sobre os seus bens."
+  },
+  "c0f6aa1f0702d74e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.\n\n2 - Em tudo o que não contrarie a regulamentação prevista no número anterior aplicam-se, subsidiariamente, as regras do Código de Processo Civil relativas à liquidação extrajudicial.\n\nVisto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 23 de Abril de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

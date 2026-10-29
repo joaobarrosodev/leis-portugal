@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-04-08'
+version_history:
+  file: portaria-22767.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-04-08'
+    amending: pt:dre:151973:por
+    amending_title: Decreto-Lei n.º 20/92
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:32:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 20/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1967/portaria-22767.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,117 +155,21 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 Características para os diferentes alimentos para animais
 
-Artigo 1.º Os alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:
+###### Artigo 1.º
 
-a) Cereais, sementes, frutos, raízes e tubérculos:
+Os alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:
 
-... Percentagens
+a) (Revogada.)
 
-Impurezas inertes - máximo em peso ... 3
+b) (Revogada.)
 
-Substâncias com valor nutritivo, mas não incluídas na designação de alimento simples em questão - máximo em peso ... 5
+c) (Revogada.)
 
-Sempre que estes produtos revelem, em peso, mais de 10 por cento de unidades parcialmente deterioradas ou mais de 5 por cento de unidades totalmente deterioradas, a respectiva designação será acrescida da frase: «Produto depreciado».
+d) (Revogada.)
 
-b) Alimpaduras:
+e) (Revogada.)
 
-... Percentagens
-
-Resíduo no tetracloreto de carbono-máximo ... 3
-
-Os detritos de limpeza de cereais e de sementes não podem encontrar-se nos outros alimentos simples, excepto nos da mesma natureza, em que se permite a tolerância de 2 por cento, em peso.
-
-c) Resíduos da moagem de cereais:
-
-1.º Sêmea do trigo:
-
-... Percentagens
-
-Resíduo do peneiro 13 XX - superior a 45 por cento da matéria seca.
-
-Teor em água - máximo ... 14
-
-Cinza total - máximo ... 7
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1
-
-Fibra bruta -máximo ... 12
-
-Matérias extractivas não azotadas - mínimo ... 45
-
-2.º Sêmeas de outros cereais:
-
-Teor em água - máximo ... 14
-
-Cinza total - máximo ... 8
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1,5
-
-Matérias extractivas não azotadas - mínimo ... 40
-
-3.º Os subprodutos da moenda de cevada, ou de aveia, quando constituídos sòmente pelas glumas e glumelas, não são admitidos no comércio como alimentos para animais.
-
-d) Resíduos do descasque de arroz:
-
-1.º Farinha e trinca:
-
-... Percentagens
-
-Teor em água - máximo ... 14
-
-Cinza total - máximo ... 8
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1
-
-Matérias extractivas não azotadas - mínimo ... 70
-
-2.º Germe de arroz:
-
-Teor em água - máximo ... 14
-
-Cinza total - máximo ... 8
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1
-
-Proteína bruta - mínimo ... 11
-
-Fibra bruta - máximo ... 4
-
-3.º Sêmea (proveniente do branqueio e polimento):
-
-Teor em água - máximo ... 14
-
-Cinza total - máximo ... 9,5
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1,5
-
-Fibra bruta - máximo ... 12
-
-4.º A casca de arroz, embora proibida como alimento nos termos do artigo 5.º desta portaria, tolera-se, no entanto, a sua presença nos resíduos de descasque de arroz, desde que o teor em cinza insolúvel no ácido clorídrico a 10 por cento não exceda o estabelecido para cada um dos resíduos.
-
-e) Resíduos do fabrico de açúcar:
-
-Melaço de cana:
-
-... Percentagens
-
-Cinza - máximo ... 12
-
-Açúcares totais expressos em açúcar invertido - mínimo ... 48
-
-Açúcares redutores - mínimo ... 10
-
-f) Resíduos do fabrico de amidos e féculas:
-
-Os resíduos do fabrico de amidos e féculas serão designados, consoante os produtos donde provêm, e obrigatòriamente dissecados, devendo obedecer às características seguintes:
-
-... Percentagens
-
-Teor em água - máximo ... 12
-
-Resíduo no tetracloreto de carbono - máximo ... 2
-
-Cálcio expresso em Ca - máximo ... 1
+f) (Revogada.)
 
 g) Resíduos da extracção de gorduras e óleos:
 
@@ -302,93 +221,33 @@ Fibra bruta - máximo ... 10
 
 Cinzas totais - máximo ... 7
 
-h) Resíduos de fabrico de cerveja:
+h) (Revogada.)
 
-1.º Os resíduos desta indústria utilizáveis na alimentação animal são a parte do germe constituída pelas radículas separadas e secas de resíduos de cereais, os bagaços obtidos e as leveduras.
+i) (Revogada.)
 
-2.º Os resíduos em referência só poderão ser comercializados quando dissecados, não devendo o seu teor em água exceder 12 por cento.
+j) (Revogada.)
 
-i) Resíduos do fabrico do vinho:
+k) (Revogada.)
 
-1.º Os resíduos do fabrico do vinho utilizados na alimentação dos animais são os bagaços secos, integrais ou desengaçados.
+l) (Revogada.)
 
-2.º Quando sejam objecto de comercialização estes bagaços serão obrigatòriamente secos e desengaçados.
+m) (Revogada.)
 
-j) Resíduos de outras indústrias de líquidos alcoólicos:
+n) (Revogada.)
 
-1.º Os bagaços resultantes do fabrico de aguardente e álcool, incluindo os de figo e de outros frutos, serão designados consoante os produtos de que derivam.
+> Alterado pelo/a [Decreto-Lei n.º 20/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1992-151973), publicado em 1992-02-08.
 
-2.º Estes bagaços quando se destinem a ser incorporados em alimentos compostos deverão apresentar-se dissecados, não devendo o teor em água exceder 12 por cento.
+###### Artigo 2.º
 
-k) Farinha de carne:
+Para todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957.
 
-1.º As farinhas de carne são os produtos obtidos por secagem e moenda das carnes e vísceras, não podendo provir de animais que tenham sucumbido de morte natural.
+###### Artigo 3.º
 
-2.º As farinhas de carne devem apresentar-se finamente moídas, isentas de pêlos, esquírolas ósseas, livres de agentes patogénicos para os animais ou para o homem e com as características seguintes:
+Todos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência.
 
-... Percentagens
+###### Artigo 4.º
 
-Teor em água - máximo ... 12
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 2
-
-Gordura - máximo ... 12
-
-Proteína bruta - mínimo ... 50
-
-Fósforo - máximo ... 3
-
-Cloreto de sódio - máximo ... 3
-
-l) Farinha de sangue:
-
-1.º O produto obtido pela secagem e moenda de sangue de animais abatidos para alimentação humana é comerciável sob a designação de «farinha de sangue», podendo apresentar-se também em granulados.
-
-2.º A farinha de sangue ou seus granulados deve apresentar-se isenta de pêlos, esquírolas ósseas, livres de agentes patogénicos para os animais ou para o homem e com as características seguintes:
-
-... Percentagens
-
-Teor em água - máximo ... 12
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 1
-
-Proteína bruta - mínimo ... 70
-
-Cloreto de sódio - máximo ... 3
-
-3.º Não é permitido adicionar ao sangue:
-
-Cal, sulfitos, ácido sulfúrico ou quaisquer outras substâncias nocivas à saúde dos animais.
-
-m) Farinhas de peixe:
-
-Para as farinhas de peixe destinadas à alimentação dos animais vigora o estatuído pelo Decreto-Lei n.º 37753, de 10 de Fevereiro de 1950.
-
-n) Farinha de baleia e cachalote:
-
-Estas farinhas serão designadas consoante os animais de que provêm, devendo apresentar-se finamente moídas, livres de agentes patogénicos para os animais e para o homem e com as características seguintes:
-
-... Percentagens
-
-Teor em água - máximo ... 12
-
-Cinza insolúvel no ácido clorídrico a 10 por cento - máximo ... 2
-
-Gordura - máximo ... 15
-
-Proteína bruta - mínimo ... 55
-
-Fósforo - máximo ... 3
-
-Cloreto de sódio - máximo ... 5
-
-Quando o teor em fósforo esteja compreendido entre 3 e 6,5 por cento estas farinhas tomarão a designação de «farinha de carne e osso» de baleia ou cachalote; quando este teor exceder 6,5 por cento tomarão a designação de «farinha de osso». O teor em proteína bruta da «farinha de carne e osso» de baleia ou cachalote não será inferior a 35 por cento.
-
-Art. 2.º Para todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957.
-
-Art. 3.º Todos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência.
-
-Art. 4.º Para efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:
+Para efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:
 
 Teores máximos em água, fibra bruta, cinzas totais e cinzas insolúveis no HCl a 10 por cento.
 
@@ -396,11 +255,15 @@ Teor mínimo de proteína bruta para os produtos indicados nas alíneas g), k), 
 
 § único. Quando comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
 
-Art. 5.º Não é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:
+###### Artigo 5.º
+
+Não é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:
 
 Purgueira; rícino e seus derivados; cascas de arroz, cacau, amendoim, algodão e caju; grainha de uva isolada; carolo de milho; palhas moídas; resíduos de fermentação alcoólica de alfarroba, e, de uma maneira geral, todas as substâncias lenhosas ou siliciosas.
 
-Art. 6.º Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:
+###### Artigo 6.º
+
+Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:
 
 1.º As características serão as dos quadros I (aves e coelhos), II (suínos) e III (bovinos e ovinos) seguintes:
 
@@ -420,7 +283,9 @@ III) Alimentos para bovinos e ovinos
 
 3.º Os alimentos compostos melaçados deverão conter o mínimo de 9,6 por cento de açúcares redutores totais expressos em glucose. O teor máximo em água dos alimentos compostos melaçados não poderá exceder 16 por cento. Quando, porém, contiverem mais de 16 por cento dos açúcares totais expressos em açúcar invertido, o teor em água pode atingir o máximo de 22 por cento determinado pelo processo directo do benzeno.
 
-Art. 7.º Na expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:
+###### Artigo 7.º
+
+Na expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:
 
 Nome da empresa que preparou o produto;
 
@@ -430,7 +295,9 @@ Características ou composição em relação aos constituintes que vierem a ser
 
 § único. Quando os alimentos simples transformados forem comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
 
-Art. 8.º Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:
+###### Artigo 8.º
+
+Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:
 
 a) Nome da empresa industrial ou comercial responsável;
 
@@ -454,13 +321,17 @@ g) Data do fabrico.
 
 § 4.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais.
 
-Art. 9.º É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
+###### Artigo 9.º
+
+É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
 
 a) Que as quantidades a transportar correspondam à capacidade de contentores adequados, e os produtos transportados sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras;
 
 b) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatòriamente deverão constar as indicações exigidas nos termos do artigo 8.º desta portaria.
 
-Art. 10.º A incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:
+###### Artigo 10.º
+
+A incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:
 
 1.ª Grão da «gramicha»:
 
@@ -478,6 +349,8 @@ Não é permitida a incorporação de bagaço de algodão nos alimentos destinad
 
 O bagaço de amendoim não poderá ser incorporado nos alimentos destinados a patos e equídeos.
 
-Art. 11.º Esta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.
+###### Artigo 11.º
+
+Esta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.
 
 Secretarias de Estado do Comércio e da Indústria, 5 de Julho de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

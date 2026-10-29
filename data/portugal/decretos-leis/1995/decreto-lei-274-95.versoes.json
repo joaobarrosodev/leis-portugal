@@ -1,0 +1,243 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668485:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-10-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8e326a6331bc2354",
+    "d13bd428becc3699",
+    "9f27bfe3f449982a",
+    "d6312df1fc080ed1",
+    "d7899b21cce8aca2",
+    "d1331023aa0dac47",
+    "711bdacbd6f8e6ad",
+    "05d20c58a016dbc2",
+    "e3532d9e99c2359e",
+    "eb9c3f09c419c9dc",
+    "31587a31b4e3c981",
+    "9915e5481b1b0258",
+    "80eb52c4608d8e8a",
+    "91e0dac63e8c8bb6",
+    "93d7103bd9f6ec04",
+    "7ba6d2061bd3df4e",
+    "cd407188fbe41148",
+    "fcf8e3b75c9ab2fd"
+   ]
+  },
+  {
+   "date": "2015-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    },
+    {
+     "id": "pt:dre:70236274:por",
+     "title": "Lei n.º 146/2015",
+     "published": "2015-09-09",
+     "dre_path": "/dr/detalhe/lei/146-2015-70236274"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "8e326a6331bc2354",
+    "d13bd428becc3699",
+    "9f27bfe3f449982a",
+    "d6312df1fc080ed1",
+    "d7899b21cce8aca2",
+    "d1331023aa0dac47",
+    "711bdacbd6f8e6ad",
+    "4d9931e63182f976",
+    "e3532d9e99c2359e",
+    "eb9c3f09c419c9dc",
+    "31587a31b4e3c981",
+    "9915e5481b1b0258",
+    "80eb52c4608d8e8a",
+    "91e0dac63e8c8bb6",
+    "93d7103bd9f6ec04",
+    "5b3807e047db4f41",
+    "cd407188fbe41148",
+    "fcf8e3b75c9ab2fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "8e326a6331bc2354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Outubro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, sobre os princípios gerais de promoção da segurança e saúde no trabalho, prevê que a respectiva regulamentação complementar seja derivada, designadamente, da transposição para o direito interno de directivas comunitárias.\n\nAssim sucede com o presente diploma, que transpõe para o direito interno as prescrições mínimas de segurança e de saúde que visam promover uma melhor assistência médica a bordo dos navios, adoptadas pela Directiva n.º [92/29/CEE](https://data.europa.eu/eli/dir/1992/29/oj?locale=pt), do Conselho, de 31 de Março.\n\nO exercício da actividade profissional a bordo de um navio requer especial atenção, dadas as características que lhe são conferidas pelo isolamento geográfico do navio e pela diversidade dos riscos existentes. Justifica-se, assim, a necessidade da existência a bordo de equipamento médico adequado, conservado e mantido em bom estado.\n\nO presente diploma estabelece especificações que orientam as actuações dirigidas à prevenção da segurança e saúde dos trabalhadores através de uma adequada assistência médica a bordo dos navios, do estabelecimento de responsabilidades do armador e do comandante neste domínio, de uma formação e informação dos trabalhadores sobre o material e equipamento médicos existente a bordo e sobre as medidas de assistência médica e de socorro a tomar em caso de acidente ou de urgência médica vital.\n\nO projecto correspondente ao presente diploma foi publicado, para apreciação pública, na separata do Boletim do Trabalho e Emprego, n.º 4, de 15 de Março de 1995.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d13bd428becc3699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/29/CEE](https://data.europa.eu/eli/dir/1992/29/oj?locale=pt), do Conselho, de 31 de Março, relativa às prescrições mínimas de segurança e de saúde, com vista a promover uma melhor assistência médica a bordo dos navios.\n\n2 - O presente diploma não se aplica à navegação fluvial, aos navios de guerra, às embarcações de recreio exploradas sem fins lucrativos e não tripuladas por profissionais e aos rebocadores locais ou de porto."
+  },
+  "9f27bfe3f449982a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) Navio - qualquer embarcação, de propriedade pública ou privada, que arvore bandeira nacional e se dedique à navegação marítima ou pratique a pesca local;\n\nb) Trabalhador - qualquer pessoa que exerça uma actividade profissional a bordo de um navio, assim como os estagiários e aprendizes, com excepção dos pilotos da barra e do pessoal de terra que efectue trabalhos a bordo de um navio atracado;\n\nc) Armador - o proprietário registado de um navio, o afretador a casco nu ou a pessoa singular ou colectiva que assegure a gestão, total ou parcial, de um navio nos termos de um acordo de gestão;\n\nd) Dotação médica - medicamentos, antídotos, material e equipamentos que devem integrar as farmácias de bordo;\n\ne) Antídoto - substância utilizada para prevenir ou tratar os efeitos deletérios, directos ou indirectos, provocados por uma ou mais substâncias perigosas."
+  },
+  "d6312df1fc080ed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Classificação dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação dos navios\n\nPara efeitos de aplicação do presente diploma, os navios são classificados nas seguintes categorias:\n\na) Navio de categoria A - navio que pratique a navegação ou a pesca sem restrição de zona;\n\nb) Navio de categoria B - navio que pratique a navegação ou a pesca marítima em zonas limitadas a menos de 150 milhas marítimas do porto mais próximo ou a menos de 175 milhas marítimas do porto mais próximo desde que se mantenha no raio de acção de uma evacuação por helicóptero;\n\nc) Navio de categoria C - navio que pratique a navegação portuária e ainda a embarcação que opere nas imediações da costa ou não disponha de outros compartimentos, além do reservado ao timoneiro."
+  },
+  "d7899b21cce8aca2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Farmácia de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Farmácia de bordo\n\n1 - Todos os navios devem possuir permanentemente uma farmácia de bordo.\n\n2 - A dotação médica da farmácia de bordo deve ter em conta:\n\na) A classificação do navio estabelecida no artigo anterior;\n\nb) As características da viagem, nomeadamente as escalas, os destinos e a sua duração;\n\nc) O tipo de trabalho a efectuar durante a viagem;\n\nd) As características da carga;\n\ne) O número de trabalhadores presentes a bordo.\n\n3 - A lista do material médico mínimo que deve integrar as farmácias de bordo, tendo em conta a classificação dos navios, é aprovada por portaria conjunta dos Ministros do Emprego e da Segurança Social, da Saúde e do Mar.\n\n4 - O conteúdo da dotação médica deve ser registado em fichas apropriadas, cujos modelos serão aprovados pela portaria referida no número anterior."
+  },
+  "d1331023aa0dac47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Embarcações de salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Embarcações de salvamento\n\n1 - As embarcações de salvamento existentes nos navios devem possuir uma caixa-farmácia estanque, de conteúdo igual à dotação médica prevista para os navios de categoria C.\n\n2 - O conteúdo da caixa-farmácia deve ser registado em ficha apropriada, de acordo com o n.º 4 do artigo anterior."
+  },
+  "711bdacbd6f8e6ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Local de prestação de cuidados médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Local de prestação de cuidados médicos\n\n1 - O navio com capacidade superior a 500 t brutas que tenha uma tripulação de 15 ou mais trabalhadores e que efectue viagens de duração superior a três dias deve possuir um local destinado à prestação de cuidados médicos.\n\n2 - O local destinado à prestação de cuidados médicos deve ser de fácil acesso e ter boas condições de higiene e de salubridade."
+  },
+  "05d20c58a016dbc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Médico\n\nO navio com mais de 100 trabalhadores a bordo e que efectue um trajecto internacional de mais de três dias deve ter um médico a bordo encarregado da assistência médica."
+  },
+  "e3532d9e99c2359e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Antídotos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Antídotos\n\n1 - Os navios que façam o transporte de matérias perigosas, constantes do anexo I ao presente diploma, que dele faz parte integrante, devem ter na sua dotação médica os antídotos previstos na portaria a que se refere o n.º 3 do artigo 4.º\n\n2 - Os navios cujas condições de exploração não permitam um conhecimento prévio da natureza das matérias perigosas a transportar devem ter na sua dotação médica os antídotos previstos na portaria a que se refere o número anterior.\n\n3 - Nas linhas de transportes regulares que prevejam viagens de duração inferior a duas horas, os antídotos podem ser limitados aos que, em situação de urgência, devem ter de ser administrados no mesmo período."
+  },
+  "eb9c3f09c419c9dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Responsabilidade do armador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade do armador\n\nO armador deve tomar as medidas necessárias para garantir que:\n\na) O fornecimento e a renovação da dotação médica do navio sejam feitos com a periodicidade normais;\n\nb) Seja colocada sob a responsabilidade do comandante a dotação médica existente a bordo;\n\nc) A dotação médica seja mantida em bom estado, completada e renovada prioritariamente nas operações de reabastecimento do navio e sempre que necessário;\n\nd) Em caso de urgência médica verificada pelo comandante e, na medida do possível, confirmada por um parecer médico, sejam obtidos o mais rapidamente possível os medicamentos, o material médico e os antídotos necessários não existentes a bordo."
+  },
+  "31587a31b4e3c981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Responsabilidade do comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Responsabilidade do comandante\n\nSem prejuízo da responsabilidade que lhe está atribuída na gestão da dotação médica, o comandante pode delegar a sua utilização e manutenção num ou mais trabalhadores designados especialmente para o efeito, de acordo com a sua competência."
+  },
+  "9915e5481b1b0258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Informação\n\n1 - O armador deve tomar as medidas necessárias para que a dotação médica existente a bordo seja acompanhada de um guia que indique o modo de utilização dos medicamentos, do material e do equipamento médicos.\n\n2 - Nos casos referidos no artigo 8.º, o guia de utilização deve conter uma referência específica aos antídotos existentes a bordo."
+  },
+  "80eb52c4608d8e8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação\n\n1 - Os trabalhadores com formação profissional marítima que prestem serviço a bordo devem possuir uma formação de base sobre as medidas de assistência médica e de socorro a tomar em caso de acidente ou de urgência médica vital.\n\n2 - O comandante e todos os outros trabalhadores que, nos termos do artigo 10.º, tenham a seu cargo a conservação e a utilização da dotação médica devem possuir uma formação específica sobre as matérias constantes do anexo II ao presente diploma, que dele faz parte integrante, e de acordo com a legislação aplicável."
+  },
+  "91e0dac63e8c8bb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Consultas médicas via rádio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consultas médicas via rádio\n\n1 - Nos termos do Decreto-Lei n.º 234/81, de 3 de Agosto, e do Decreto-Lei n.º 326/91, de 31 de Agosto, o atendimento, a orientação médica e o encaminhamento dos pedidos de socorro que, em matéria de saúde, sejam provenientes de embarcações ou navios devem, independentemente do lugar onde se encontrem ou da sua nacionalidade, ser cometidos ao Centro de Orientação de Doentes Urgentes de Lisboa.\n\n2 - Os trabalhadores podem autorizar que os dados relativos à sua ficha individual de saúde façam parte do ficheiro informático existente no Centro de Orientação de Doentes Urgentes de Lisboa para possibilitar, em situação de emergência, a prestação de uma assistência médica mais qualificada.\n\n3 - Nos casos referidos no número anterior, deve ser garantida a confidencialidade dos dados da ficha individual."
+  },
+  "93d7103bd9f6ec04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo e fiscalização\n\n1 - Deve ser assegurado um controlo anual das farmácias de bordo existentes nos navios e nas embarcações de salvamento, de modo a garantir:\n\na) A conformidade da dotação médica;\n\nb) A adequação da ficha de controlo;\n\nc) A qualidade das condições de conservação;\n\nd) O respeito pelos prazos de validade.\n\n2 - O controlo e a fiscalização do cumprimento do disposto no presente diploma e na portaria referida no n.º 3 do artigo 4.º, bem como a aplicação das correspondentes sanções, competem à Direcção-Geral de Portos, Navegação e Transportes Marítimos."
+  },
+  "7ba6d2061bd3df4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 20000$00 a 100000$00 por cada tripulante da embarcação, a violação do disposto no artigo 12.º;\n\nb) De 25000$00 a 125000$00, a violação do disposto no n.º 4 do artigo 4.º, no n.º 2 do artigo 5.º e no artigo 6.º;\n\nc) De 35000$00 a 175000$00, a violação do disposto nos n.os 2 e 3 do artigo 4.º, no n.º 1 do artigo 5.º e nos artigos 9.º e 11.º;\n\nd) De 50000$00 a 250000$00, a violação do disposto no n.º 1 do artigo 4.º e nos artigos 7.º e 8.º\n\n2 - O produto das coimas reverte:\n\na) Em 60% para o Estado;\n\nb) Em 20% para o Fundo de Garantia e Actualização de Pensões;\n\nc) Em 20% para a entidade que aplica a coima, nos termos do artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.\n\nVisto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "cd407188fbe41148": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Matérias perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Matérias perigosas\n\nSão consideradas matérias perigosas as constantes no presente anexo, seja qual for o estado em que forem embarcadas, mesmo que constituam detritos ou resíduos de carga:\n\nMatérias e objectos explosivos;\n\nGases comprimidos, liquefeitos ou dissolvidos sob pressão;\n\nSubstâncias líquidas inflamáveis;\n\nSubstâncias sólidas inflamáveis;\n\nSubstâncias sujeitas a combustão espontânea;\n\nSubstâncias que, em contacto com a água, libertem gases inflamáveis;\n\nSubstâncias comburentes;\n\nPeróxidos orgânicos;\n\nSubstâncias tóxicas;\n\nSubstâncias infecciosas;\n\nSubstâncias radioactivas;\n\nSubstâncias corrosivas;\n\nSubstâncias perigosas diversas, isto é, todas as outras substâncias que já tenham demonstrado ou que possam vir a demonstrar que apresentam carácter perigoso pelo que as disposições do artigo 8.º lhes deveriam ser aplicáveis."
+  },
+  "fcf8e3b75c9ab2fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Formação médica do comandante e dos trabalhadores designados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Formação médica do comandante e dos trabalhadores designados\n\n1 - Aquisição de conhecimentos de base em fisiologia, semiologia e terapêutica.\n\n2 - Aquisição de elementos de prevenção sanitária, nomeadamente em matéria de higiene individual e colectiva, e de elementos relacionados com eventuais medidas profilácticas.\n\n3 - Aquisição de conhecimentos práticos sobre os actos terapêuticos essenciais e as modalidades de evacuação sanitária.\n\nA formação prática dos responsáveis pelos cuidados médicos a bordo dos navios da categoria A deverá ser feita, se possível, em meio hospitalar.\n\n4 - Aquisição de bons conhecimentos das modalidades de utilização dos meios de consulta médica à distância."
+  },
+  "4d9931e63182f976": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Prestação de cuidados médicos",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09."
+   ],
+   "markdown": "###### Artigo 7.º — Prestação de cuidados médicos\n\n1 - O navio com pelo menos 100 pessoas a bordo e que efetue normalmente viagens de mais de três dias deve ter um médico a bordo encarregado da assistência médica.\n\n2 - Os restantes navios devem possuir pelo menos um marítimo devidamente qualificado responsável pela prestação de cuidados médicos e administração dos medicamentos, ou pela prestação de primeiros socorros.\n\n3 - A qualificação do marítimo a que se refere o número anterior deve ser obtida mediante formação que seja conforme às disposições da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978 (STCW), bem como atender à duração e às circunstâncias das viagens e ao número de pessoas a bordo.\n\n4 - A qualificação dos navegadores de recreio autorizados, nos termos do artigo 8.º do Regulamento das Embarcações Utilizadas na Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 149/2014, de 10 de outubro, a integrarem lotações de segurança, em cuidados médicos e administração dos medicamentos e em prestação de primeiros socorros, é regulada por portaria aprovada pelos membros do Governo responsáveis pelas áreas do mar, da saúde e do turismo.\n\n> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09."
+  },
+  "5b3807e047db4f41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": "2015-11-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09."
+   ],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º\n\n> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09.\n\nVisto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

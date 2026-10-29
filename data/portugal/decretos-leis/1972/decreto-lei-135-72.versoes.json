@@ -1,0 +1,356 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:679984:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "247c566a2c50eda4"
+   ]
+  },
+  {
+   "date": "1986-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221306:por",
+     "title": "Decreto-Lei n.º 414/86",
+     "published": "1986-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/414-1986-221306"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º"
+   ],
+   "fragments": [
+    "aff98a414356d9aa",
+    "f54654f96b637ee3",
+    "c8a43206839126e7",
+    "4d0116ee5c82055d",
+    "071e6755df423040",
+    "83bc38d6165d6055",
+    "2fbe5aa363996e37",
+    "4d45065efe4b2d22",
+    "1d302060d2854c27",
+    "e3f468c9395dc1b7",
+    "554148c91ed29fa8",
+    "467a4f357422a17f",
+    "637e84895db4e35a",
+    "d29105d91b19156c",
+    "6e578e6080908b76",
+    "723bccceb9a44e1a",
+    "1f85b6868da70dfa",
+    "12bf38649b3b8e42",
+    "350a43af7542eae1",
+    "9765fa77bdfdf2e6",
+    "f8757a9df6dd428d",
+    "a1bc81bc93ceb64d",
+    "b595b5cdf3b9439e",
+    "20a86aa0731725b2",
+    "832e3d33e0b5666d",
+    "f749c46b36bd6a3f",
+    "97a60edb4e4f36da"
+   ]
+  }
+ ],
+ "fragments": {
+  "247c566a2c50eda4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril\n\n1. O [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, reuniu diversa legislação sobre a marinha do comércio que se encontrava dispersa por vários diplomas e, principalmente, procedeu à sua actualização em variados aspectos, tendo em conta a evolução que se vinha verificando.\n\n2. O certo, porém, é não terem sido inteiramente alcançados alguns dos objectivos visados por aquele diploma, não só em resultado da insuficiência de algumas das medidas estabelecidas, mas principalmente devido ao condicionalismo actual do sector dos transportes marítimos, em que nos últimos anos a inovação passou a constituir um factor primordial, em grau que difìcilmente se encontrará em outros sectores da vida económica nacional. Haja em vista o crescente gigantismo dos petroleiros e graneleiros, que conduziu a custos de exploração que as unidades de menor porte não podem acompanhar e, ainda, o aparecimento e ampla difusão de navios adequados a um rápido desembaraço nos portos e requerendo, pela sua automatização, mais reduzida mão-de-obra, o que lhes proporciona um grau de competitividade consideràvelmente mais elevado. Desta forma, só a criação de condições adequadas à efectiva renovação, em tempo oportuno, das frotas pode assegurar a existência de uma marinha de comércio portuguesa suficientemente apta a satisfazer os requisitos do nosso comércio marítimo e capaz de competir, como se torna cada vez mais indispensável, nos mercados internacionais.\n\n3. Isto impõe, em primeiro lugar, a revisão dos esquemas de amortização dos navios, tendo em consideração o que nesta matéria vem sendo praticado nos países com que temos de competir e estabelecendo regras mais adequadas às condições específicas do sector, em particular no que se refere à referida evolução tecnológica e à diferenciação que lhe é correlativa. Assim, reconhece-se a conveniência de conceder uma maior flexibilidade ao ritmo das amortizações, prevendo o estabelecimento de taxas mínimas destinadas a assegurar, na medida do estritamente indispensável, a renovação das frotas, a par de taxas máximas fixadas nos termos e para os efeitos previstos no Código da Contribuição Industrial, proporcionando-se, dessa forma, às empresas a possibilidade de ajustarem o ritmo das amortizações às condições de competitividade dos mercados.\n\n4. Paralelamente, reconhece-se indispensável levar mais longe a política prosseguida pelo [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760) no que respeita à constituição de fundos destinados a garantir a oportuna renovação das frotas, muito em especial no que respeita às empresas de navegação a quem caiba assegurar a satisfação de interesses fundamentais da Nação. Há que continuar a garantir que no activo dessas empresas seja mantido o grau de liquidez suficiente para a aquisição de novas unidades em tempo oportuno.\n\nPor outro lado, não pode deixar-se de atender às necessidades de adoptar as providências aconselháveis para que a expansão, em tonelagem e em tecnologia, das frotas das referidas empresas possa processar-se no ritmo requerido pela missão que lhes cabe. Espera-se que as medidas determinadas neste diploma no que respeita à constituição de fundos para renovação e para expansão das frotas constituam um factor importante para se atingir esse objectivo.\n\n5. Impõe-se, ainda, a adopção de medidas tendentes a incrementar o desenvolvimento das empresas de navegação, entre as quais se reconhece a necessidade de facilitar as concentrações, as fusões ou incorporações de modo a evitar os inconvenientes da dispersão de esforços, e a possibilitar as condições que lhes permitam realizar o indispensável progresso tecnológico, reforçar a capacidade, reduzir os gastos da exploração e suportar os encargos vultosos exigidos pela renovação e expansão das frotas. Importa, para tanto, suprimir, na medida do possível, os encargos normalmente resultantes das referidas operações, por meio de concessão de adequadas facilidades fiscais.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nI\n\nEmpresas nacionais de navegação marítima\n\nArtigo 1.º - 1. São consideradas nacionais as empresas de navegação constituídas em território português, com sede e administração principal no mesmo território, com 60 por cento da maioria portuguesa no capital, maioria portuguesa na administração, direcção ou gerência e que satisfaçam os demais requisitos previstos no artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.\n\n2. Para se garantir a maioria portuguesa no capital, prevista no n.º 1 deste artigo, aplicar-se-ão as disposições das bases III e IV da [Lei n.º 1994](https://diariodarepublica.pt/dr/detalhe/lei/1994-1943-596521), de 13 de Abril de 1943.\n\nArt. 2.º - 1. As assembleias gerais das sociedades anónimas ou em comandita por acções, sujeitas às condições do artigo anterior, serão constituídas por accionistas que hajam depositado as suas acções e satisfaçam às demais condições prescritas na lei e nos estatutos.\n\n2. O depósito das acções será feito na sede das referidas sociedades até trinta dias antes do dia marcado para a assembleia geral, não podendo ser admitidas ou contadas acções com endosso em branco.\n\nII\n\nEmpresas que podem recorrer ao Fundo de Renovação da Marinha Mercante\n\nArt. 3.º Só as empresas de navegação que satisfaçam aos requisitos do artigo 1.º do presente decreto-lei poderão recorrer ao Fundo de Renovação da Marinha Mercante.\n\nArt. 4.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante são obrigadas a submeter-se a normas uniformes de contabilização, a estabelecer em portaria pelos Ministros das Finanças e da Marinha.\n\nArt. 5.º As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante não podem conceder remuneração ao capital sem que tenham satisfeito os seus encargos com o referido Fundo e sem que tenham constituído o fundo de renovação da frota, de que trata o artigo 11.º, e, na medida em que a isso tenham sido obrigadas, o fundo de expansão da frota, previsto no artigo 17.º\n\nArt. 6.º Nas empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante o número de administradores, directores ou gerentes não pode exceder cinco na sua totalidade.\n\nArt. 7.º - 1. As empresas de navegação que recorram ao Fundo de Renovação da Marinha Mercante estão sujeitas à fiscalização do Estado, por intermédio de delegados do Governo.\n\n2. Aplicam-se aos delegados do Governo junto das empresas de navegação referidas no número anterior, mesmo que não sejam de interesse nacional, as disposições estabelecidas para os delegados do Governo junto de empresas de navegação de interesse nacional.\n\nIII\n\nEmpresas de navegação de interesse nacional\n\nArt. 8.º - 1. O Ministro da Marinha poderá declarar, por despacho, de interesse nacional as empresas nacionais de navegação que assegurem a satisfação dos interesses fundamentais da Nação.\n\n2. Também por despacho, pode o Ministro da Marinha declarar como tendo deixado de ser de interesse nacional as empresas de navegação que tenham cessado de assegurar a satisfação dos interesses fundamentais da Nação.\n\nArt. 9.º Às deliberações das empresas de navegação de interesse nacional é aplicável o disposto no artigo 1.º e seu § 2.º e no artigo 2.º do [Decreto-Lei n.º 32012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32012-1942-313587), de 12 de Maio de 1942.\n\nArt. 10.º Os aumentos de capital social das empresas de navegação de interesse nacional que recorram ao Fundo de Renovação da Marinha Mercante, quando resultantes de reavaliação do activo, dependem de verificação de que os fundos de renovação da frota e de expansão da frota garantem satisfatòriamente a regular substituição dos navios dentro dos períodos de amortização estabelecidos no Fundo de Renovação da Marinha Mercante.\n\nIV\n\nFundos de renovação e de expansão da frota\n\nArt. 11.º As empresas de navegação de interesse nacional são obrigadas a constituir um fundo de renovação da frota, destinado a assegurar a liquidez necessária à oportuna construção, reconversão ou aquisição de navios, novos ou usados, dentro do estabelecido nos planos de reapetrechamento das frotas ou por força de despacho do Ministro da Marinha.\n\nArt. 12.º - 1. O fundo de renovação da frota é inscrito no activo do balanço numa conta com essa designação e será constituído por títulos de dívida pública ou outros com garantia do Estado ou privados de reconhecido interesse, estáveis e de fácil realização, ou depósitos em numerário.\n\n2. Em circunstâncias excepcionais, devidamente justificadas, pode o Ministro da Marinha, ouvido o Ministro das Finanças, autorizar que na constituição do fundo de renovação da frota sejam incluídos valores activos de natureza diferente da indicada no n.º 1 deste artigo.\n\n3. As empresas de navegação sujeitas à obrigatoriedade da constituição do fundo de renovação da frota darão conhecimento à Junta Nacional da Marinha Mercante, até 31 de Março de cada ano, da natureza dos valores activos que integram o referido fundo.\n\nArt. 13.º - 1. São levadas a débito do fundo de renovação da frota as importâncias correspondentes:\n\na) Às amortizações anualmente feitas em relação a cada um dos navios da frota;\n\nb) Ao produto da venda de navios;\n\nc) A indemnizações recebidas por perda de navios.\n\n2. São levadas a crédito do fundo de renovação da frota, observado o disposto no artigo 18.º, as importâncias correspondentes:\n\na) Aos pagamentos efectuados pela construção, reconversão ou aquisição de navios;\n\nb) Às amortizações das contas dos credores por financiamentos utilizados na construção, reconversão ou aquisição de navios.\n\nArt. 14.º Para efeitos do disposto neste diploma, considera-se, em relação a cada navio, como:\n\na) Custo de aquisição, o preço contratual acrescido do valor dos extras incorporados no navio de forma a torná-lo apto a navegar em condições de segurança, bem como das despesas de nacionalização, de registo e outras necessárias à sua entrada em exploração;\n\nb) Custo de construção, o preço contratual acrescido do valor dos extras incorporados no navio, de forma a torná-lo apto a navegar em condições de segurança, bem como das despesas de assistência à construção, de nacionalização, de registo e outras necessárias à sua entrada em exploração;\n\nc) Custo de reconversão, os encargos inerentes a um acréscimo significativo da capacidade económica do navio.\n\nArt. 15.º As taxas anuais mínimas de amortização a praticar pelas empresas de navegação em relação a cada um dos navios das suas frotas serão fixadas por portaria do Ministro da Marinha, sem prejuízo das previstas na lei para efeitos de liquidação da contribuição industrial.\n\nArt. 16.º - 1. As empresas de navegação de interesse nacional deverão reter, em cada exercício, uma parcela dos seus lucros, quer provenientes da exploração, quer derivados de mais-valias, constituindo uma conta de «Reserva para expansão da frota».\n\n2. Para cumprimento do disposto no n.º 1 deste artigo, poderá o Ministro da Marinha, ouvida a Junta Nacional da Marinha Mercante, fixar até 31 de Outubro de cada ano a percentagem mínima a aplicar sobre os lucros líquidos a apurar nesse exercício.\n\n3. Aos lucros retidos nas condições estabelecidas neste artigo que sejam reinvestidos em navios, novos ou usados, na execução de planos de reapetrechamento aprovados pelo Ministro da Marinha e observado o disposto no artigo 18.º, é aplicável o disposto no artigo 44.º do Código da Contribuição Industrial.\n\nArt. 17.º Quando, por iniciativa das empresas ou determinação do Ministro da Marinha, seja criada a conta «Reserva para expansão da frota», de que trata o artigo anterior, será simultâneamente criado um fundo de expansão da frota, a inscrever no activo do balanço numa conta com essa designação e constituído por valores activos da natureza dos referidos no artigo 12.º Esse fundo será debitado em quantitativos correspondentes a pelo menos metade ou à totalidade dos créditos efectuados na referida conta de reserva, consoante esses créditos resultem de lucros decorrentes da exploração normal ou da realização de mais-valias.\n\nArt. 18.º - 1. O fundo de renovação da frota e o fundo de expansão da frota só poderão ser aplicados na construção, aquisição ou reconversão de navios que satisfaçam às características comerciais e técnicas aprovadas pelo Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, e às características militares também aprovadas pelo Ministro da Marinha, ouvido o Estado-Maior da Armada.\n\n2. A mobilização de qualquer destes fundos carece de prévia autorização do Ministro da Marinha.\n\nArt. 19.º O Ministro da Marinha, ouvidas a Direcção-Geral dos Serviços de Fomento Marítimo e a Junta Nacional da Marinha Mercante, pode determinar que qualquer empresa de navegação nacional constitua o fundo de renovação da frota, o qual fica sujeito a normas iguais às estabelecidas no presente diploma para o fundo de igual designação das empresas de navegação de interesse nacional.\n\nV\n\nFusão, incorporação, concentração ou aquisição de empresas de navegação\n\nArt. 20.º - 1. Às empresas de navegação que resultem da fusão ou da concentração parcial de outras que exerçam essa actividade, as incorporem, ou adquiram, a outras empresas que exerçam a mesma actividade, a totalidade dos interesses marítimos, será concedida isenção ou redução de sisa para as transmissões resultantes dos actos de fusão, incorporação, concentração ou aquisição.\n\n2. Consideram-se interesses marítimos, para os efeitos do número anterior, os imóveis afectos à exploração dos transportes marítimos, os navios ou outras embarcações registadas em nome da cedente e os direitos e obrigações respeitantes à construção ou aquisição de navios ou ao exercício do transporte marítimo de longo curso celebrados anteriormente à cessão.\n\n3. O benefício previsto no n.º 1 deste artigo sòmente poderá ser concedido quando a fusão, incorporação, concentração ou aquisição sejam consideradas como convenientes para a reorganização industrial do sector, tendo em vista o mais adequado desenvolvimento da actividade e o interesse da economia nacional.\n\n4. As empresas que, nos termos do n.º 1 deste artigo, cedam os seus interesses marítimos de que resulte a aplicação do benefício aí estabelecido não poderão exercer análoga actividade antes de decorridos vinte anos.\n\nArt. 21.º Os ganhos resultantes das operações referidas no artigo 20.º e que satisfaçam os requisitos aí exigidos serão isentos do imposto de mais-valias.\n\nArt. 22.º Os benefícios previstos nos artigos 20.º e 21.º serão concedidos, a requerimento das empresas interessadas, por despacho do Ministro das Finanças, sobre informação da Direcção-Geral das Contribuições e Impostos, ouvido o Ministério da Marinha.\n\nVI\n\nDisposições transitórias e diversas\n\nArt. 23.º Os saldos dos actuais fundos de renovação das frotas e dos fundos de actualização das frotas, constituídos em obediência aos preceitos do [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, serão reinscritos, respectivamente, nos fundos de renovação das frotas e nos fundos de expansão das frotas de que trata este diploma.\n\nArt. 24.º O disposto no n.º 3 do artigo 16.º é aplicável aos lucros levados a reservas nos três exercícios anteriores à entrada em vigor do presente decreto-lei que tenham sido reinvestidos ou que o venham a ser, nos termos do artigo 44.º do Código da Contribuição Industrial.\n\nArt. 25.º O disposto nos artigos 20.º a 22.º é aplicável às operações que hajam sido realizadas nos seis meses anteriores à entrada em vigor do presente diploma.\n\nArt. 26.º Fica revogado o [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, com excepção do seu artigo 3.º\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.\n\nPromulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.\n\nPublique-se.\n\nPelo Presidente da República, MARCELLO CAETANO.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "aff98a414356d9aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril\n\n1. O [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760), de 13 de Agosto de 1966, reuniu diversa legislação sobre a marinha do comércio que se encontrava dispersa por vários diplomas e, principalmente, procedeu à sua actualização em variados aspectos, tendo em conta a evolução que se vinha verificando.\n\n2. O certo, porém, é não terem sido inteiramente alcançados alguns dos objectivos visados por aquele diploma, não só em resultado da insuficiência de algumas das medidas estabelecidas, mas principalmente devido ao condicionalismo actual do sector dos transportes marítimos, em que nos últimos anos a inovação passou a constituir um factor primordial, em grau que difìcilmente se encontrará em outros sectores da vida económica nacional. Haja em vista o crescente gigantismo dos petroleiros e graneleiros, que conduziu a custos de exploração que as unidades de menor porte não podem acompanhar e, ainda, o aparecimento e ampla difusão de navios adequados a um rápido desembaraço nos portos e requerendo, pela sua automatização, mais reduzida mão-de-obra, o que lhes proporciona um grau de competitividade consideràvelmente mais elevado. Desta forma, só a criação de condições adequadas à efectiva renovação, em tempo oportuno, das frotas pode assegurar a existência de uma marinha de comércio portuguesa suficientemente apta a satisfazer os requisitos do nosso comércio marítimo e capaz de competir, como se torna cada vez mais indispensável, nos mercados internacionais.\n\n3. Isto impõe, em primeiro lugar, a revisão dos esquemas de amortização dos navios, tendo em consideração o que nesta matéria vem sendo praticado nos países com que temos de competir e estabelecendo regras mais adequadas às condições específicas do sector, em particular no que se refere à referida evolução tecnológica e à diferenciação que lhe é correlativa. Assim, reconhece-se a conveniência de conceder uma maior flexibilidade ao ritmo das amortizações, prevendo o estabelecimento de taxas mínimas destinadas a assegurar, na medida do estritamente indispensável, a renovação das frotas, a par de taxas máximas fixadas nos termos e para os efeitos previstos no Código da Contribuição Industrial, proporcionando-se, dessa forma, às empresas a possibilidade de ajustarem o ritmo das amortizações às condições de competitividade dos mercados.\n\n4. Paralelamente, reconhece-se indispensável levar mais longe a política prosseguida pelo [Decreto-Lei n.º 47148](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47148-1966-474760) no que respeita à constituição de fundos destinados a garantir a oportuna renovação das frotas, muito em especial no que respeita às empresas de navegação a quem caiba assegurar a satisfação de interesses fundamentais da Nação. Há que continuar a garantir que no activo dessas empresas seja mantido o grau de liquidez suficiente para a aquisição de novas unidades em tempo oportuno.\n\nPor outro lado, não pode deixar-se de atender às necessidades de adoptar as providências aconselháveis para que a expansão, em tonelagem e em tecnologia, das frotas das referidas empresas possa processar-se no ritmo requerido pela missão que lhes cabe. Espera-se que as medidas determinadas neste diploma no que respeita à constituição de fundos para renovação e para expansão das frotas constituam um factor importante para se atingir esse objectivo.\n\n5. Impõe-se, ainda, a adopção de medidas tendentes a incrementar o desenvolvimento das empresas de navegação, entre as quais se reconhece a necessidade de facilitar as concentrações, as fusões ou incorporações de modo a evitar os inconvenientes da dispersão de esforços, e a possibilitar as condições que lhes permitam realizar o indispensável progresso tecnológico, reforçar a capacidade, reduzir os gastos da exploração e suportar os encargos vultosos exigidos pela renovação e expansão das frotas. Importa, para tanto, suprimir, na medida do possível, os encargos normalmente resultantes das referidas operações, por meio de concessão de adequadas facilidades fiscais.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nI\n\nEmpresas nacionais de navegação marítima"
+  },
+  "f54654f96b637ee3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "c8a43206839126e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15.\n\nII\n\nEmpresas que podem recorrer ao Fundo de Renovação da Marinha Mercante"
+  },
+  "4d0116ee5c82055d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "071e6755df423040": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "83bc38d6165d6055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "2fbe5aa363996e37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "4d45065efe4b2d22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15.\n\nIII\n\nEmpresas de navegação de interesse nacional"
+  },
+  "1d302060d2854c27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "e3f468c9395dc1b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "554148c91ed29fa8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15.\n\nIV\n\nFundos de renovação e de expansão da frota"
+  },
+  "467a4f357422a17f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "637e84895db4e35a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "d29105d91b19156c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "6e578e6080908b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "723bccceb9a44e1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "1f85b6868da70dfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "12bf38649b3b8e42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "350a43af7542eae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "9765fa77bdfdf2e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15.\n\nV\n\nFusão, incorporação, concentração ou aquisição de empresas de navegação"
+  },
+  "f8757a9df6dd428d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Às empresas de navegação que resultem da fusão ou da concentração parcial de outras que exerçam essa actividade, as incorporem, ou adquiram, a outras empresas que exerçam a mesma actividade, a totalidade dos interesses marítimos, será concedida isenção ou redução de sisa para as transmissões resultantes dos actos de fusão, incorporação, concentração ou aquisição.\n\n2. Consideram-se interesses marítimos, para os efeitos do número anterior, os imóveis afectos à exploração dos transportes marítimos, os navios ou outras embarcações registadas em nome da cedente e os direitos e obrigações respeitantes à construção ou aquisição de navios ou ao exercício do transporte marítimo de longo curso celebrados anteriormente à cessão.\n\n3. O benefício previsto no n.º 1 deste artigo sòmente poderá ser concedido quando a fusão, incorporação, concentração ou aquisição sejam consideradas como convenientes para a reorganização industrial do sector, tendo em vista o mais adequado desenvolvimento da actividade e o interesse da economia nacional.\n\n4. As empresas que, nos termos do n.º 1 deste artigo, cedam os seus interesses marítimos de que resulte a aplicação do benefício aí estabelecido não poderão exercer análoga actividade antes de decorridos vinte anos."
+  },
+  "a1bc81bc93ceb64d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs ganhos resultantes das operações referidas no artigo 20.º e que satisfaçam os requisitos aí exigidos serão isentos do imposto de mais-valias."
+  },
+  "b595b5cdf3b9439e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs benefícios previstos nos artigos 20.º e 21.º serão concedidos, a requerimento das empresas interessadas, por despacho do Ministro das Finanças, sobre informação da Direcção-Geral das Contribuições e Impostos, ouvido o Ministério da Marinha.\n\nVI\n\nDisposições transitórias e diversas"
+  },
+  "20a86aa0731725b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "832e3d33e0b5666d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "f749c46b36bd6a3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+  },
+  "97a60edb4e4f36da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1986-12-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15."
+   ],
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 414/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1986-221306), publicado em 1986-12-15.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.\n\nPromulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.\n\nPublique-se.\n\nPelo Presidente da República, MARCELLO CAETANO.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-05-18'
+version_history:
+  file: decreto-lei-161-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-05-18'
+    amending: pt:dre:611075:por
+    amending_title: Decreto-Lei n.º 161/89
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 161/89. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-161-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,13 +131,21 @@ Assim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 2
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.
+###### Artigo 1.º
+
+1 - É extinta a SNAPA - Sociedade Nacional dos Armadores da Pesca do Arrasto, S. A. R. L.
 
 2 - A SNAPA mantém a sua personalidade jurídica, para efeitos de liquidação, até à aprovação final das contas apresentadas pelos liquidatários.
 
-Art. 2.º Por despacho conjunto dos Secretários de Estado das Finanças e das Pescas será nomeada, no prazo de 5 dias a contar da data da publicação do presente diploma, uma comissão liquidatária, constituída por 1 presidente e 2 vogais.
+###### Artigo 2.º
 
-Art. 3.º A partir da entrada em vigor deste diploma:
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13.
+
+###### Artigo 3.º
+
+A partir da entrada em vigor deste diploma:
 
 1) É fixado em 1 mês o período durante o qual os credores da SNAPA residentes no País podem reclamar os seus créditos, na sede da SNAPA, no armazém n.º 2, da Docapesca;
 
@@ -130,7 +153,9 @@ Art. 3.º A partir da entrada em vigor deste diploma:
 
 3) A partir das datas fixadas no número anterior, consideram-se encerradas as contas correntes e vencidas todas as dívidas e cessa a contagem dos juros respectivos, assim como os direitos de acção contra a empresa ou sobre os seus bens.
 
-Art. 4.º - 1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.
+###### Artigo 4.º
+
+1 - O presente diploma será regulamentado por portaria dos Ministros de Estado e das Finanças e do Plano e da Agricultura, Comércio e Pescas.
 
 2 - Em tudo o que não contrarie a regulamentação prevista no número anterior aplicam-se, subsidiariamente, as regras do Código de Processo Civil relativas à liquidação extrajudicial.
 

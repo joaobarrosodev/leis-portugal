@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-11-01'
+version_history:
+  file: decreto-lei-274-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-11-01'
+    amending: pt:dre:345124:por
+    amending_title: Lei n.º 113/99; Lei n.º 146/2015
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/274/1995/10/23/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:40:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 113/99; Lei n.º 146/2015.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-274-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,9 +217,17 @@ e) O número de trabalhadores presentes a bordo.
 
 2 - O local destinado à prestação de cuidados médicos deve ser de fácil acesso e ter boas condições de higiene e de salubridade.
 
-###### Artigo 7.º — Médico
+###### Artigo 7.º — Prestação de cuidados médicos
 
-O navio com mais de 100 trabalhadores a bordo e que efectue um trajecto internacional de mais de três dias deve ter um médico a bordo encarregado da assistência médica.
+1 - O navio com pelo menos 100 pessoas a bordo e que efetue normalmente viagens de mais de três dias deve ter um médico a bordo encarregado da assistência médica.
+
+2 - Os restantes navios devem possuir pelo menos um marítimo devidamente qualificado responsável pela prestação de cuidados médicos e administração dos medicamentos, ou pela prestação de primeiros socorros.
+
+3 - A qualificação do marítimo a que se refere o número anterior deve ser obtida mediante formação que seja conforme às disposições da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978 (STCW), bem como atender à duração e às circunstâncias das viagens e ao número de pessoas a bordo.
+
+4 - A qualificação dos navegadores de recreio autorizados, nos termos do artigo 8.º do Regulamento das Embarcações Utilizadas na Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 149/2014, de 10 de outubro, a integrarem lotações de segurança, em cuidados médicos e administração dos medicamentos e em prestação de primeiros socorros, é regulada por portaria aprovada pelos membros do Governo responsáveis pelas áreas do mar, da saúde e do turismo.
+
+> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09.
 
 ###### Artigo 8.º — Antídotos
 
@@ -265,23 +289,13 @@ d) O respeito pelos prazos de validade.
 
 ###### Artigo 15.º — Contra-ordenações
 
-1 - Constitui contra-ordenação, punível com coima:
+1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º
 
-a) De 20000$00 a 100000$00 por cada tripulante da embarcação, a violação do disposto no artigo 12.º;
+2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º
 
-b) De 25000$00 a 125000$00, a violação do disposto no n.º 4 do artigo 4.º, no n.º 2 do artigo 5.º e no artigo 6.º;
+3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º
 
-c) De 35000$00 a 175000$00, a violação do disposto nos n.os 2 e 3 do artigo 4.º, no n.º 1 do artigo 5.º e nos artigos 9.º e 11.º;
-
-d) De 50000$00 a 250000$00, a violação do disposto no n.º 1 do artigo 4.º e nos artigos 7.º e 8.º
-
-2 - O produto das coimas reverte:
-
-a) Em 60% para o Estado;
-
-b) Em 20% para o Fundo de Garantia e Actualização de Pensões;
-
-c) Em 20% para a entidade que aplica a coima, nos termos do artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.
+> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.
 

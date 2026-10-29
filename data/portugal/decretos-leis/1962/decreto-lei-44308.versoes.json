@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516071:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c1e1c1dee41e944b"
+   ]
+  },
+  {
+   "date": "1982-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553389:por",
+     "title": "Decreto-Lei n.º 2/82",
+     "published": "1982-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/2-1982-553389"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "cbdfa280e08c86a4",
+    "edf83c4aa867d85b",
+    "63e90bfd3eaeb1de",
+    "ce95fb7cc856ee3f",
+    "233a3367babd68c7",
+    "5c8a57613d9fc317",
+    "aa0ed5564c114180",
+    "e9d21561ca23dba8",
+    "93c52eae98b25fba",
+    "c456196b93bdd4b9",
+    "29fb7b09164f84b1",
+    "c33532dc6f008b8f",
+    "24bc3ad7df01bef6",
+    "05c756adc9083716",
+    "6304b6c49cc9e44c",
+    "13826a83b4689dd0",
+    "e37abd0261d5e99d",
+    "68dd1697801bde80",
+    "e36d6b94c3009085",
+    "9f0ed9d16cac9c29",
+    "f7dfba3d64619662"
+   ]
+  }
+ ],
+ "fragments": {
+  "c1e1c1dee41e944b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A prevenção médica da silicose, sem dúvida a mais grave das doenças da sua natureza, não se encontra devidamente organizada em Portugal. E o facto tem tanto mais importância quanto a luta contra esta doença, por ora, assenta na sua prevenção e pode computar-se em 75000 o número de indivíduos que, trabalhando em ambientes de poeiras, estão sujeitos aos riscos de a contrair.\n\nO rastreio radiofotográfico realizado pelos serviços do Ministério da Saúde e Assistência em 54 minas revelou que, em 14835 mineiros, a percentagem de silicóticos oscilava entre 0,44 por cento e mais de 30 por cento do pessoal de cada uma. Isto demonstra como é grande o perigo e, ao mesmo tempo, como é possível, por medidas adequadas, reduzir imensamente os riscos de ser atingido pela silicose.\n\nOs números apontados são suficientemente elucidativos para darem ideia da extensão do problema. Aliás, a silicose não só apresenta taxas de morbilidade e mortalidade importantes como constitui causa de incapacidades, totais ou parciais, em elevado número de indivíduos.\n\nA sua prevenção médica constitui portanto uma necessidade social que se impõe satisfazer com brevidade. A isto visa o presente decreto-lei.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º A silicose é uma afecção pulmonar diagnosticável por sinais radiológicos, com ou sem sinais clínicos, devida à inalação de poeiras contendo sílica livre.\n\n§ único. Para efeitos da prevenção, a acentuação do retículo pulmonar é considerada silicose.\n\nArt. 2.º São trabalhos susceptíveis de dar origem à silicose os que expõem os indivíduos à inalação de poeiras contendo sílica livre, e nomeadamente:\n\na) Os trabalhos com rochas ou minerais contendo sílica livre, nas minas, túneis, pedreiras e outros locais;\n\nb) A fabricação e manipulação de abrasivos, de pós de limpeza e de outros produtos contendo igualmente sílica livre;\n\nc) Os trabalhos em indústrias siderúrgicas, metalúrgicas e mecânicas nas quais se utilizem matérias contendo sílica nas mesmas condições;\n\nd) A fabricação de carborundo, vidros, produtos refractários, porcelanas, faianças e outros produtos cerâmicos, embora apenas pelo que respeita às operações com materiais contendo sílica livre.\n\nArt. 3.º A avaliação do risco silicótico deve ser feita, com a frequência necessária, por meio da análise dos materiais e das poeiras existentes nos locais onde se encontram habitualmente trabalhadores permanentes ou outros indivíduos.\n\n§ único. A determinação do risco específico do empoeiramento cabe aos serviços técnicos da Direcção-Geral de que dependa a unidade industrial.\n\nArt. 4.º A silicose é doença de notificação obrigatória à Direcção-Geral de Saúde e aos tribunais do trabalho.\n\nArt. 5.º Nas minas, nos estabelecimentos industriais e nos outros locais em que exista o risco de silicose devem ser organizados serviços médicos apropriados.\n\nArt. 6.º A orientação, coordenação e fiscalização técnica destes serviços médicos incumbe à Direcção-Geral de Saúde.\n\n§ 1.º Para cumprimento destas obrigações, será assegurada à Direcção-Geral de Saúde a colaboração dos outros serviços oficiais.\n\n§ 2.º Quando a competência conferida no corpo deste artigo suscitar problemas relativos a organização técnica da indústria ou do trabalho industrial e a relações do trabalho, estes serão resolvidos por comissões constituídas por delegados dos competentes serviços dos Ministérios da Economia, das Corporações e Previdência Social e da Saúde e Assistência.\n\nArt. 7.º Os serviços médicos previstos no artigo 5.º são essencialmente de natureza preventiva e têm por fim a defesa da saúde dos indivíduos e o estudo das condições higiénicas da sua actividade.\n\nArt. 8.º Segundo a importância das empresas onde exista o risco de silicose, os serviços médicos serão privativos de uma ou comuns a várias.\n\nArt. 9.º Compete a essas empresas organizar e custear os referidos serviços médicos.\n\n§ único. A distribuição dos encargos da organização destes serviços pelas empresas, bem como as garantias contratuais e o regime disciplinar dos médicos interessados, serão estabelecidos em portaria pelos Ministros da Economia, das Corporações e Previdência Social e da Saúde e Assistência, ouvida a Ordem dos Médicos.\n\nArt. 10.º Aos médicos destes serviços incumbem, essencialmente, e de um modo geral, as seguintes funções de natureza preventiva:\n\na) Clínica (exames de admissão, periódicos, ocasionais e de despedimento);\n\nb) Técnica (exames dos locais e das condições do trabalho, do ponto de vista de higiene e salubridade);\n\nc) Social (cooperação com os serviços sociais das empresas e, bem assim, com a Inspecção do Trabalho).\n\nArt. 11.º Nenhum indivíduo pode ser admitido nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico de admissão.\n\n§ único. O exame de admissão será constituído por um exame clínico geral, sempre que possível com radioscopia, e por uma telerradiografia ou radiofotografia.\n\nArt. 12.º Nenhum indivíduo pode continuar nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico periódico.\n\n§ 1.º O exame periódico constará de telerradiografia ou radiofotografia e, sendo necessário, de exame clínico geral.\n\n§ 2.º A periodicidade dos exames médicos será fixada em função do risco específico da actividade prosseguida, dos locais em que o for e do estado sanitário dos interessados.\n\nArt. 13.º Antes de um indivíduo abandonar o serviço da empresa onde esteve sujeito a poeiras contendo sílica livre, poderá efectuar-se um exame médico de despedimento.\n\n§ único. É obrigatório o exame previsto neste artigo em todos os casos de rescisão unilateral do contrato de trabalho por acto da entidade patronal.\n\nArt. 14.º Para esclarecimento das dúvidas porventura suscitadas nos exames, médicos, deverá recorrer-se a exames complementares, nomeadamente provas funcionais respiratórias.\n\n§ único. No caso da interpretação da radiofotografia ser duvidosa, far-se-á uma telerradiografia.\n\nArt. 15.º Sempre que as circunstâncias o determinem, devem ser feitos exames médicos ocasionais para se avaliar da aptidão dos trabalhadores, nomeadamente na sua readmissão após doença do aparelho respiratório.\n\n§ único. Nos exames ocasionais é obrigatório o exame clínico geral.\n\nArt. 16.º A aptidão referida nos artigos 11.º, 12.º e 15.º e o resultado do exame referido no artigo 13.º serão comprovados por documento médico.\n\nArt. 17.º Os elementos relativos aos exames de admissão, periódicos, ocasionais e de despedimento devem ser registados em ficha médica, que ficará em poder do médico dos serviços previstos neste decreto-lei e só poderá ser facultada aos médicos da Direcção-Geral de Saúde, aos da respectiva instituição de previdência e ao médico assistente do trabalhador. Estes ficam obrigados, tal como o médico da empresa, a guardar segredo profissional.\n\n§ único. Sem prejuízo do segredo profissional, os médicos devem comunicar aos serviços técnicos da empresa os elementos necessários a uma eficiente luta contra as poeiras e à mais adequada distribuição dos indivíduos pelas diversas actividades industriais.\n\nArt. 18.º As instalações, o material e a técnica da radiologia a utilizar nos exames de prevenção médica da silicose devem obedecer a características a fixar pelo Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde.\n\nArt. 19.º Oportunamente, o Ministério da Saúde e Assistência poderá tornar extensivas à prevenção de outras pneumoconioses as disposições aplicáveis deste diploma.\n\n§ único. Nas minas, porém, o presente decreto-lei aplica-se desde já à prevenção das outras pneumoconioses causadas por poeiras minerais.\n\nArt. 20.º É aplicável às empresas multa de 100$00 a 10000$00 pela inobservância das obrigações impostas ao abrigo do disposto no presente decreto-lei, sem prejuízo das outras responsabilidades que porventura lhes pertençam em consequência dessa inobservância.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "cbdfa280e08c86a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A prevenção médica da silicose, sem dúvida a mais grave das doenças da sua natureza, não se encontra devidamente organizada em Portugal. E o facto tem tanto mais importância quanto a luta contra esta doença, por ora, assenta na sua prevenção e pode computar-se em 75000 o número de indivíduos que, trabalhando em ambientes de poeiras, estão sujeitos aos riscos de a contrair.\n\nO rastreio radiofotográfico realizado pelos serviços do Ministério da Saúde e Assistência em 54 minas revelou que, em 14835 mineiros, a percentagem de silicóticos oscilava entre 0,44 por cento e mais de 30 por cento do pessoal de cada uma. Isto demonstra como é grande o perigo e, ao mesmo tempo, como é possível, por medidas adequadas, reduzir imensamente os riscos de ser atingido pela silicose.\n\nOs números apontados são suficientemente elucidativos para darem ideia da extensão do problema. Aliás, a silicose não só apresenta taxas de morbilidade e mortalidade importantes como constitui causa de incapacidades, totais ou parciais, em elevado número de indivíduos.\n\nA sua prevenção médica constitui portanto uma necessidade social que se impõe satisfazer com brevidade. A isto visa o presente decreto-lei.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "edf83c4aa867d85b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA silicose é uma afecção pulmonar diagnosticável por sinais radiológicos, com ou sem sinais clínicos, devida à inalação de poeiras contendo sílica livre.\n\n§ único. Para efeitos da prevenção, a acentuação do retículo pulmonar é considerada silicose."
+  },
+  "63e90bfd3eaeb1de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão trabalhos susceptíveis de dar origem à silicose os que expõem os indivíduos à inalação de poeiras contendo sílica livre, e nomeadamente:\n\na) Os trabalhos com rochas ou minerais contendo sílica livre, nas minas, túneis, pedreiras e outros locais;\n\nb) A fabricação e manipulação de abrasivos, de pós de limpeza e de outros produtos contendo igualmente sílica livre;\n\nc) Os trabalhos em indústrias siderúrgicas, metalúrgicas e mecânicas nas quais se utilizem matérias contendo sílica nas mesmas condições;\n\nd) A fabricação de carborundo, vidros, produtos refractários, porcelanas, faianças e outros produtos cerâmicos, embora apenas pelo que respeita às operações com materiais contendo sílica livre."
+  },
+  "ce95fb7cc856ee3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA avaliação do risco silicótico deve ser feita, com a frequência necessária, por meio da análise dos materiais e das poeiras existentes nos locais onde se encontram habitualmente trabalhadores permanentes ou outros indivíduos.\n\n§ único. A determinação do risco específico do empoeiramento cabe aos serviços técnicos da Direcção-Geral de que dependa a unidade industrial."
+  },
+  "233a3367babd68c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1982-01-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05."
+  },
+  "5c8a57613d9fc317": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNas minas, nos estabelecimentos industriais e nos outros locais em que exista o risco de silicose devem ser organizados serviços médicos apropriados."
+  },
+  "aa0ed5564c114180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA orientação, coordenação e fiscalização técnica destes serviços médicos incumbe à Direcção-Geral de Saúde.\n\n§ 1.º Para cumprimento destas obrigações, será assegurada à Direcção-Geral de Saúde a colaboração dos outros serviços oficiais.\n\n§ 2.º Quando a competência conferida no corpo deste artigo suscitar problemas relativos a organização técnica da indústria ou do trabalho industrial e a relações do trabalho, estes serão resolvidos por comissões constituídas por delegados dos competentes serviços dos Ministérios da Economia, das Corporações e Previdência Social e da Saúde e Assistência."
+  },
+  "e9d21561ca23dba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs serviços médicos previstos no artigo 5.º são essencialmente de natureza preventiva e têm por fim a defesa da saúde dos indivíduos e o estudo das condições higiénicas da sua actividade."
+  },
+  "93c52eae98b25fba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSegundo a importância das empresas onde exista o risco de silicose, os serviços médicos serão privativos de uma ou comuns a várias."
+  },
+  "c456196b93bdd4b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete a essas empresas organizar e custear os referidos serviços médicos.\n\n§ único. A distribuição dos encargos da organização destes serviços pelas empresas, bem como as garantias contratuais e o regime disciplinar dos médicos interessados, serão estabelecidos em portaria pelos Ministros da Economia, das Corporações e Previdência Social e da Saúde e Assistência, ouvida a Ordem dos Médicos."
+  },
+  "29fb7b09164f84b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAos médicos destes serviços incumbem, essencialmente, e de um modo geral, as seguintes funções de natureza preventiva:\n\na) Clínica (exames de admissão, periódicos, ocasionais e de despedimento);\n\nb) Técnica (exames dos locais e das condições do trabalho, do ponto de vista de higiene e salubridade);\n\nc) Social (cooperação com os serviços sociais das empresas e, bem assim, com a Inspecção do Trabalho)."
+  },
+  "c33532dc6f008b8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNenhum indivíduo pode ser admitido nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico de admissão.\n\n§ único. O exame de admissão será constituído por um exame clínico geral, sempre que possível com radioscopia, e por uma telerradiografia ou radiofotografia."
+  },
+  "24bc3ad7df01bef6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNenhum indivíduo pode continuar nas actividades silicogéneas referidas no artigo 2.º sem ser julgado apto em exame médico periódico.\n\n§ 1.º O exame periódico constará de telerradiografia ou radiofotografia e, sendo necessário, de exame clínico geral.\n\n§ 2.º A periodicidade dos exames médicos será fixada em função do risco específico da actividade prosseguida, dos locais em que o for e do estado sanitário dos interessados."
+  },
+  "05c756adc9083716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAntes de um indivíduo abandonar o serviço da empresa onde esteve sujeito a poeiras contendo sílica livre, poderá efectuar-se um exame médico de despedimento.\n\n§ único. É obrigatório o exame previsto neste artigo em todos os casos de rescisão unilateral do contrato de trabalho por acto da entidade patronal."
+  },
+  "6304b6c49cc9e44c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nPara esclarecimento das dúvidas porventura suscitadas nos exames, médicos, deverá recorrer-se a exames complementares, nomeadamente provas funcionais respiratórias.\n\n§ único. No caso da interpretação da radiofotografia ser duvidosa, far-se-á uma telerradiografia."
+  },
+  "13826a83b4689dd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSempre que as circunstâncias o determinem, devem ser feitos exames médicos ocasionais para se avaliar da aptidão dos trabalhadores, nomeadamente na sua readmissão após doença do aparelho respiratório.\n\n§ único. Nos exames ocasionais é obrigatório o exame clínico geral."
+  },
+  "e37abd0261d5e99d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA aptidão referida nos artigos 11.º, 12.º e 15.º e o resultado do exame referido no artigo 13.º serão comprovados por documento médico."
+  },
+  "68dd1697801bde80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs elementos relativos aos exames de admissão, periódicos, ocasionais e de despedimento devem ser registados em ficha médica, que ficará em poder do médico dos serviços previstos neste decreto-lei e só poderá ser facultada aos médicos da Direcção-Geral de Saúde, aos da respectiva instituição de previdência e ao médico assistente do trabalhador. Estes ficam obrigados, tal como o médico da empresa, a guardar segredo profissional.\n\n§ único. Sem prejuízo do segredo profissional, os médicos devem comunicar aos serviços técnicos da empresa os elementos necessários a uma eficiente luta contra as poeiras e à mais adequada distribuição dos indivíduos pelas diversas actividades industriais."
+  },
+  "e36d6b94c3009085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs instalações, o material e a técnica da radiologia a utilizar nos exames de prevenção médica da silicose devem obedecer a características a fixar pelo Ministério da Saúde e Assistência, por intermédio da Direcção-Geral de Saúde."
+  },
+  "9f0ed9d16cac9c29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOportunamente, o Ministério da Saúde e Assistência poderá tornar extensivas à prevenção de outras pneumoconioses as disposições aplicáveis deste diploma.\n\n§ único. Nas minas, porém, o presente decreto-lei aplica-se desde já à prevenção das outras pneumoconioses causadas por poeiras minerais."
+  },
+  "f7dfba3d64619662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nÉ aplicável às empresas multa de 100$00 a 10000$00 pela inobservância das obrigações impostas ao abrigo do disposto no presente decreto-lei, sem prejuízo das outras responsabilidades que porventura lhes pertençam em consequência dessa inobservância.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

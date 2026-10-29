@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-28'
+version_history:
+  file: resolucao-assembleia-republica-8-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-28'
+    amending: pt:dre:650571:por
+    amending_title: Resolução da Assembleia da República n.º 59/2003
+    changes:
+    - Revoga Artigo 11.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/8/1998/03/18/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:04:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução da Assembleia da República
+    n.º 59/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/1998/resolucao-assembleia-republica-8-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -412,7 +428,7 @@ i) Relações internacionais;
 
 j) Relações públicas e protocolo.
 
-3 - O ingresso na carreira de adjunto parlamentar faz-se em adjunto parlamentar de 2.ª classe, de entre indivíduos habilitados com 12 anos de escolaridade, para as áreas da alínea a) e das alíneas e) a j) do número anterior, e com 9 anos de escolaridade e respectivos cursos de formação profissional de duração não inferior a 3 anos, oficialmente reconhecidos para o efeito, para as áreas das alíneas b), c) e d), ou, nos casos das alíneas b) e d), com o 11.º ano de escolaridade e os cursos de formação profissional reconhecidos oficialmente para as respectivas carreiras nas mesmas condições e prazos estabelecidos na lei geral, precedido em todos os casos de aprovação em concurso de ingresso com prestação de provas de conhecimentos.
+3 - O ingresso na carreira de adjunto parlamentar faz-se em adjunto parlamentar de 2.ª classe, de entre indivíduos habilitados com 12 anos de escolaridade para as áreas das alíneas a) e e) a j) do número anterior e com 12 anos de escolaridade e cursos de formação profissional, oficialmente reconhecidos para o efeito, para as áreas das alíneas b), c) e d), ou outros cursos de formação profissional com valências teórico-práticas para o desempenho de funções em cada área de especialidade, precedido em todos os casos de aprovação em concurso de ingresso com prestação de provas de conhecimentos.
 
 4 - Enquanto não forem definidas regras próprias para acesso na carreira de adjunto parlamentar, o acesso às categorias de adjunto parlamentar de 1.ª classe, de adjunto parlamentar principal e de adjunto parlamentar especialista segue as regras estabelecidas na [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 27 de Julho.
 
@@ -425,6 +441,8 @@ j) Relações públicas e protocolo.
 8 - O pessoal que transitou para a carreira de técnico-adjunto parlamentar nos termos do n.º 6 do artigo 2.º da [Resolução da Assembleia da República n.º 39/96](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/39-1996-199114), de 27 de Novembro, poderá candidatar-se ao concurso de promoção que será aberto no prazo de um ano a partir da entrada em vigor desta resolução, do qual serão os exclusivos opositores, e o qual revestirá obrigatoriamente, no conteúdo e na forma, as características e a natureza de concurso para ingresso na carreira de adjunto parlamentar, de acordo com o previsto no n.º 3.
 
 9 - Os escalões 6.º, 7.º e 8.º da escala salarial da categoria de adjunto parlamentar de 2.ª classe manter-se-ão apenas para os funcionários que não tenham sido opositores ao concurso referido no número anterior ou que não obtenham aprovação no mencionado concurso.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2003-650571), publicado em 2003-07-28.
 
 ###### Artigo 8.º — Carreira de guarda de museu
 
@@ -446,61 +464,9 @@ j) Relações públicas e protocolo.
 
 ###### Artigo 11.º — Alteração do quadro de pessoal
 
-1 - Ao quadro de pessoal da Assembleia da República, aprovado pela [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 1 de Julho, com as alterações introduzidas pela [Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), de 17 de Agosto, são acrescentadas as carreiras criadas pelos artigos 5.º e 8.º da presente resolução.
+(Revogado.)
 
-2 - São fixados, por carreira, os seguintes lugares:
-
-1) Técnico superior parlamentar ... 142
-
-a) Arquitectura ... 2
-
-b) Arquivo ... 6
-
-c) Assuntos culturais ... 2
-
-d) Áudio-visual ... 3
-
-e) Biblioteca e documentação ... 21
-
-f) Conservador do Museu ... 2
-
-g) Economia ... 9
-
-h) Engenharia ... 3
-
-i) Gestão e administração pública ... 10
-
-j) Informática ... 15
-
-k) Jurídica ... 35
-
-l) Redacção ... 25
-
-m) Relações internacionais ... 5
-
-n) Relações públicas ... 2
-
-o) Tradução ... 2
-
-2) Programador parlamentar ... 2
-
-3) Técnico parlamentar ... 25
-
-4):
-
-Operador parlamentar de sistemas ... 8
-
-2.ª classe, 1.ª classe, principal ... 6
-
-Chefe ... 2
-
-5) Adjunto parlamentar ... 110
-
-3 - É acrescentado ao quadro de pessoal um lugar de zelador.
-
-4 - O quadro de pessoal é acrescido de três lugares de guarda de museu.
-
-5 - O número de lugares afecto a cada uma das áreas da carreira técnica superior parlamentar pode ser alterado por deliberação do Conselho de Administração, sob proposta do Secretário-Geral, sempre que tal não implique a alteração do número de lugares do quadro estabelecido nesta resolução para a respectiva carreira.
+> Revogado pelo/a Artigo 4.º do/a [Resolução da Assembleia da República n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/59-2003-650571), publicado em 2003-07-28.
 
 ###### Artigo 12.º — Ratificação
 

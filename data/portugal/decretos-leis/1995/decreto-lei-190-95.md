@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-30'
+version_history:
+  file: decreto-lei-190-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-30'
+    amending: pt:dre:406566:por
+    amending_title: Decreto-Lei n.º 318/97
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/190/1995/07/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 318/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-190-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º É autorizada a alienação em regime de hasta pública, ou em regime de cessão a título definitivo e oneroso, a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
+###### Artigo 1.º
+
+É autorizada a alienação em regime de hasta pública, ou em regime de cessão a título definitivo e oneroso, a pessoas colectivas de direito público ou a instituições particulares de interesse público, dos imóveis seguintes:
 
 a) Parcela de terreno, com a área de 660 m2, a desanexar do prédio rústico denominado «Herdade da Comporta», artigo 1, secção 03, da freguesia de Santa Maria do Castelo, município de Alcácer do Sal;
 
@@ -186,15 +203,23 @@ r) PM 5/Vila Nova da Barquinha, designado «Central Elevatória do Zêzere ou La
 
 s) Instalações da Força Aérea, designadas «Aquartelamento de Paços de Ferreira», com a área aproximada de 34000 m2, sitas na freguesia e município de Paços de Ferreira.
 
-Art. 2.º - 1 - São desafectados do domínio público e passam a integrar o domínio privado do Estado os prédios identificados no artigo anterior, os quais, enquanto não forem alienados, continuam afectos ao Ministério da Defesa Nacional.
+###### Artigo 2.º
+
+1 - São desafectados do domínio público e passam a integrar o domínio privado do Estado os prédios identificados no artigo anterior, os quais, enquanto não forem alienados, continuam afectos ao Ministério da Defesa Nacional.
 
 2 - O presente diploma constitui documento bastante para o registo, a favor do Estado, na conservatória do registo predial respectiva, dos imóveis identificados no artigo anterior.
 
-Art. 3.º - 1 - À alienação dos prédios mencionados no artigo 1.º é aplicável o regime constante dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, sem prejuízo do disposto no n.º 3 do artigo 3.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, no período da sua vigência.
+###### Artigo 3.º
+
+1 - À alienação dos prédios mencionados no artigo 1.º é aplicável o regime constante dos artigos 5.º, 6.º, 7.º e 10.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, sem prejuízo do disposto no n.º 3 do artigo 3.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, no período da sua vigência.
 
 2 - O disposto no presente diploma não prejudica a aplicação do regime do património cultural português, devendo o despacho conjunto a que se refere o n.º 1 do artigo 5.º do [Decreto-Lei n.º 419/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1991-343889), de 29 de Outubro, ser assinado pelo membro do Governo responsável pela área da cultura quando estejam em causa imóveis a que se aplique aquele regime.
 
-Art. 4.º São revogados os Decretos n.os [500/70](https://diariodarepublica.pt/dr/detalhe/decreto/500-1970-147430), de 26 de Outubro, e [393/74](https://diariodarepublica.pt/dr/detalhe/decreto/393-1974-474336), de 28 de Agosto, relativos a servidões militares do PM 9/Penamacor e do PM 7/Aveiro, respectivamente, com efeitos reportados à data da alienação.
+###### Artigo 4.º
+
+Nos termos do parágrafo 2.º do artigo 7.º da Lei n.º 2078, de 11 de Julho de 1955, a cessação da dominialidade dos imóveis referidos no artigo 1.º faz caducar as servidões respectivas.
+
+> Alterado pelo/a [Decreto-Lei n.º 318/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1997-406566), publicado em 1997-11-25.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga.
 

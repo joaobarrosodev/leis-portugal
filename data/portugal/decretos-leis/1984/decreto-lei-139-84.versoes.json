@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:385043:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bfcac3f8f0a69c0d"
+   ]
+  },
+  {
+   "date": "1989-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611075:por",
+     "title": "Decreto-Lei n.º 161/89",
+     "published": "1989-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/161-1989-611075"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "6a63e6c37ea517ef",
+    "4e84466c5d1e7da1",
+    "06bf2824e062b907",
+    "836b52bb023a484f",
+    "82f707817c4596bf",
+    "9dd596802f35ebc4",
+    "87a5ecad75d0957e",
+    "1cfe4e29de11679b",
+    "3265e388aaef04e8",
+    "96db258b37638651"
+   ]
+  }
+ ],
+ "fragments": {
+  "bfcac3f8f0a69c0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nConsiderando:\n\nA progressiva degradação da situação económico-financeira da CPP - Companhia Portuguesa de Pescas, S. A. R. L., reflectindo-se por elevados prejuízos anuais e por uma situação líquida fortemente negativa;\n\nO elevado grau de endividamento atingido pela empresa;\n\nA inexistência de condições propícias, num futuro próximo, ao relançamento da totalidade da frota da CPP;\n\nA impossibilidade de a empresa se vir a viabilizar no âmbito de um acordo de saneamento económico-financeiro;\n\ne tendo em conta:\n\nO interesse do País, cujo encargo para manter a empresa, face à situação económico-financeira e às perspectivas precárias de um relançamento imediato da actividade, envolveria um esforço financeiro do Estado cuja rentabilidade se não vislumbra minimamente assegurada;\n\nO interesse dos credores, que na situação actual não têm possibilidade de obter o pagamento dos seus créditos e têm interesse em que se evite o agravamento da situação da empresa e se defina a perspectiva de cobrança dos seus créditos;\n\nO interesse dos trabalhadores, que na situação actual não têm possibilidade de ver os seus salários em dia e cujas associações representativas foram ouvidas nos termos legais:\n\ndecide-se extinguir a CPP - Companhia Portuguesa de Pescas.\n\nAssim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É extinta a CPP - Companhia Portuguesa de Pescas, S. A. R. L., adiante designada por CPP.\n\n2 - A CPP mantém a sua personalidade jurídica para os efeitos de liquidação até à aprovação final das contas apresentadas pelos liquidatários.\n\nArt. 2.º Por despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias, a contar da data de publicação do presente diploma, uma comissão liquidatária constituída por 1 presidente e 2 vogais.\n\nArt. 3.º A partir da entrada em vigor deste diploma:\n\n1) É fixado em 1 mês o período durante o qual os credores da CPP residentes no País podem reclamar os seus créditos, podendo fazê-lo na sede da CPP - Edifício dos Armadores, portas 4, 5 e 6, Doca de Pesca, Pedrouços, 1400 Lisboa;\n\n2) É fixado em 2 meses o prazo para os credores não residentes no País reclamarem os seus créditos, podendo fazê-lo na sede da CPP ou por intermédio de qualquer representação diplomática de Portugal.\n\nArt. 4.º A partir da data de extinção:\n\n1) Consideram-se encerradas todas as contas correntes e vencidas todas as dívidas e cessa a contagem dos respectivos juros;\n\n2) Cessam os direitos de acção contra a empresa ou sobre os seus bens, sem prejuízo do recurso a tribunal quando o credor não se conforme com a verificação e graduação dos seus créditos;\n\n3) Considera-se extinta a instância nos processos em curso, nomeadamente nos de natureza fiscal contra a empresa ou sobre os seus bens, devendo, contudo, os credores reclamar os respectivos créditos, nos termos e prazos referidos no artigo 3.º;\n\n4) Extinta a instância, serão extintos oficiosamente as penhoras e outros ónus que eventualmente existam sobre os bens da empresa, sem prejuízo de os mesmos serem considerados para efeitos de graduação dos créditos;\n\n5) Caducam imediatamente todos os contratos de trabalho em que seja parte a CPP, sem prejuízo do direito aos salários e remunerações em atraso que forem devidos, gozando os respectivos créditos de privilégio creditório, mobiliário e imobiliário geral e graduando-se em primeiro lugar, mesmo antes dos créditos do Estado;\n\n6) A extinção da CPP não implicará a resolução automática dos demais contratos celebrados pela mesma; no entanto, a comissão liquidatária poderá rescindir unilateralmente qualquer contrato se tal for julgado mais conveniente para a massa em liquidação, devendo, neste caso, notificar o outro contratante, a quem fica reservado o direito de exigir à massa em liquidação, na fase de verificação, a indemnização pelos danos efectivamente sofridos.\n\nArt. 5.º - 1 - Ao abrigo do n.º 2 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património da empresa, o seguinte:\n\n1.º - Navios:\n\na) Aldebaran - Lx-39-A;\n\nb) Alcoa - Lx-30-A;\n\nc) Alcyon - Lx-51-A;\n\nd) Algol - Lx-32-A;\n\ne) Algenib - Lx-41-A;\n\nf) Alvalade - Lx-65-A;\n\ng) Alfeite - Lx-67-A;\n\nh) Alcântara - Lx-19-A;\n\ni) Almada - Lx-57-A;\n\nj) Alcaide - Lx-71-A;\n\nl) Alfama - Lx-59-A;\n\nm) Aljezur - Lx-63-A.\n\n2.º A participação financeira, no valor de 200000 dirhams, detida pela CPP no capital da SEYSA PECHE, SA, sociedade anónima com sede em Casablanca, Marrocos, correspondente a 50% do capital da mesma.\n\n3.º O direito de crédito, no valor global de 4800000 francos franceses, resultante da venda de quatro traineiras efectuada pela CPP à referida SEYSA PECHE, SA, e que está actualmente representado por 96 títulos cambiários de 50000 francos franceses cada um, ou outros que os substituam.\n\n2 - Os bens atrás referidos podem ser afectos, no todo ou em parte, a empresa ou empresas já existentes ou a constituir, ficando a reserva sem efeito se, no prazo de 1 ano a contar da entrada em vigor do presente diploma, tal afectação não tiver lugar.\n\n3 - A afectação referida no n.º 2 poderá ser feita por resolução do Conselho de Ministros, que definirá as condições em que a mesma é efectuada.\n\n4 - Feita a afectação, os bens por ela abrangidos considerar-se-ão na titularidade e propriedade das respectivas empresas, cabendo a estas a obrigação de pagar ao Estado o correspondente valor que por ele for devido à massa em liquidação.\n\nArt. 6.º Os registos referentes aos direitos reais de garantia que onerem os bens da CPP serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens.\n\nArt. 7.º O presente diploma será regulamentado por portaria dos Ministros das Finanças e do Plano e do Mar.\n\nArt. 8.º Em tudo o que não contrarie o disposto no presente diploma e respectiva regulamentação, aplicam-se subsidiariamente as regras do Código de Processo Civil, com as necessárias adaptações, referentes à liquidação em benefício de credores.\n\nArt. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 26 de Abril de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Abril de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "6a63e6c37ea517ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nConsiderando:\n\nA progressiva degradação da situação económico-financeira da CPP - Companhia Portuguesa de Pescas, S. A. R. L., reflectindo-se por elevados prejuízos anuais e por uma situação líquida fortemente negativa;\n\nO elevado grau de endividamento atingido pela empresa;\n\nA inexistência de condições propícias, num futuro próximo, ao relançamento da totalidade da frota da CPP;\n\nA impossibilidade de a empresa se vir a viabilizar no âmbito de um acordo de saneamento económico-financeiro;\n\ne tendo em conta:\n\nO interesse do País, cujo encargo para manter a empresa, face à situação económico-financeira e às perspectivas precárias de um relançamento imediato da actividade, envolveria um esforço financeiro do Estado cuja rentabilidade se não vislumbra minimamente assegurada;\n\nO interesse dos credores, que na situação actual não têm possibilidade de obter o pagamento dos seus créditos e têm interesse em que se evite o agravamento da situação da empresa e se defina a perspectiva de cobrança dos seus créditos;\n\nO interesse dos trabalhadores, que na situação actual não têm possibilidade de ver os seus salários em dia e cujas associações representativas foram ouvidas nos termos legais:\n\ndecide-se extinguir a CPP - Companhia Portuguesa de Pescas.\n\nAssim, visto o disposto nos artigos 1.º, n.º 2, e 38.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "4e84466c5d1e7da1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É extinta a CPP - Companhia Portuguesa de Pescas, S. A. R. L., adiante designada por CPP.\n\n2 - A CPP mantém a sua personalidade jurídica para os efeitos de liquidação até à aprovação final das contas apresentadas pelos liquidatários."
+  },
+  "06bf2824e062b907": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1989-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13."
+  },
+  "836b52bb023a484f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA partir da entrada em vigor deste diploma:\n\n1) É fixado em 1 mês o período durante o qual os credores da CPP residentes no País podem reclamar os seus créditos, podendo fazê-lo na sede da CPP - Edifício dos Armadores, portas 4, 5 e 6, Doca de Pesca, Pedrouços, 1400 Lisboa;\n\n2) É fixado em 2 meses o prazo para os credores não residentes no País reclamarem os seus créditos, podendo fazê-lo na sede da CPP ou por intermédio de qualquer representação diplomática de Portugal."
+  },
+  "82f707817c4596bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA partir da data de extinção:\n\n1) Consideram-se encerradas todas as contas correntes e vencidas todas as dívidas e cessa a contagem dos respectivos juros;\n\n2) Cessam os direitos de acção contra a empresa ou sobre os seus bens, sem prejuízo do recurso a tribunal quando o credor não se conforme com a verificação e graduação dos seus créditos;\n\n3) Considera-se extinta a instância nos processos em curso, nomeadamente nos de natureza fiscal contra a empresa ou sobre os seus bens, devendo, contudo, os credores reclamar os respectivos créditos, nos termos e prazos referidos no artigo 3.º;\n\n4) Extinta a instância, serão extintos oficiosamente as penhoras e outros ónus que eventualmente existam sobre os bens da empresa, sem prejuízo de os mesmos serem considerados para efeitos de graduação dos créditos;\n\n5) Caducam imediatamente todos os contratos de trabalho em que seja parte a CPP, sem prejuízo do direito aos salários e remunerações em atraso que forem devidos, gozando os respectivos créditos de privilégio creditório, mobiliário e imobiliário geral e graduando-se em primeiro lugar, mesmo antes dos créditos do Estado;\n\n6) A extinção da CPP não implicará a resolução automática dos demais contratos celebrados pela mesma; no entanto, a comissão liquidatária poderá rescindir unilateralmente qualquer contrato se tal for julgado mais conveniente para a massa em liquidação, devendo, neste caso, notificar o outro contratante, a quem fica reservado o direito de exigir à massa em liquidação, na fase de verificação, a indemnização pelos danos efectivamente sofridos."
+  },
+  "9dd596802f35ebc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Ao abrigo do n.º 2 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património da empresa, o seguinte:\n\n1.º - Navios:\n\na) Aldebaran - Lx-39-A;\n\nb) Alcoa - Lx-30-A;\n\nc) Alcyon - Lx-51-A;\n\nd) Algol - Lx-32-A;\n\ne) Algenib - Lx-41-A;\n\nf) Alvalade - Lx-65-A;\n\ng) Alfeite - Lx-67-A;\n\nh) Alcântara - Lx-19-A;\n\ni) Almada - Lx-57-A;\n\nj) Alcaide - Lx-71-A;\n\nl) Alfama - Lx-59-A;\n\nm) Aljezur - Lx-63-A.\n\n2.º A participação financeira, no valor de 200000 dirhams, detida pela CPP no capital da SEYSA PECHE, SA, sociedade anónima com sede em Casablanca, Marrocos, correspondente a 50% do capital da mesma.\n\n3.º O direito de crédito, no valor global de 4800000 francos franceses, resultante da venda de quatro traineiras efectuada pela CPP à referida SEYSA PECHE, SA, e que está actualmente representado por 96 títulos cambiários de 50000 francos franceses cada um, ou outros que os substituam.\n\n2 - Os bens atrás referidos podem ser afectos, no todo ou em parte, a empresa ou empresas já existentes ou a constituir, ficando a reserva sem efeito se, no prazo de 1 ano a contar da entrada em vigor do presente diploma, tal afectação não tiver lugar.\n\n3 - A afectação referida no n.º 2 poderá ser feita por resolução do Conselho de Ministros, que definirá as condições em que a mesma é efectuada.\n\n4 - Feita a afectação, os bens por ela abrangidos considerar-se-ão na titularidade e propriedade das respectivas empresas, cabendo a estas a obrigação de pagar ao Estado o correspondente valor que por ele for devido à massa em liquidação."
+  },
+  "87a5ecad75d0957e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs registos referentes aos direitos reais de garantia que onerem os bens da CPP serão cancelados oficiosa e gratuitamente em face dos documentos que titularem a transmissão desses bens."
+  },
+  "1cfe4e29de11679b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma será regulamentado por portaria dos Ministros das Finanças e do Plano e do Mar."
+  },
+  "3265e388aaef04e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEm tudo o que não contrarie o disposto no presente diploma e respectiva regulamentação, aplicam-se subsidiariamente as regras do Código de Processo Civil, com as necessárias adaptações, referentes à liquidação em benefício de credores."
+  },
+  "96db258b37638651": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEste diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 26 de Abril de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Abril de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}
