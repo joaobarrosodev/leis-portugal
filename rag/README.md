@@ -147,6 +147,18 @@ Com o canal dos códigos principais e a grafia antiga (secção abaixo), repetid
 
 Responde-se a mais 5 perguntas e acerta-se em mais 4, com a fiabilidade igual. O número de artigos no contexto (8) não foi alterado: não se mediu 12 ou 16, que pede nova ronda de sessões.
 
+**Juízes estritos** (`juiz.py`, 29/10/2026): cada resposta escrita das 136 reais (com a fase 4) foi julgada por dois juízes independentes (sessões do Claude, às cegas um do outro) contra a resposta de referência e os artigos vistos. Só conta como certa se os dois a dão como correta e fundamentada.
+
+| Reais, com LLM | Valor |
+|---|--:|
+| Respondidas / "não sei" | 103 / 33 (24%) |
+| Certas pelo critério brando (80% das palavras) | 89% (92/103) |
+| Certas pelos juízes | **98% (101/103)** |
+| Limite inferior a 95% de confiança (Wilson) | **93%** |
+| Não certas | 1 incompleta (real-058), 1 errada (real-074: menor *de* 16 anos tratado com a regra dos 16 ou mais) |
+
+Lido caso a caso, o critério das 80% de palavras dava como erradas 9 respostas que estão certas (diferem em palavras, não em sentido). Ressalvas, sem as quais o número engana: (1) estas 136 serviram para afinar o limiar e a pesquisa, por isso 98% não é desempenho em perguntas novas; (2) os dois juízes são o mesmo modelo, com os mesmos pontos cegos; (3) o "não sei" de 24% falha a meta de 15%; (4) 33 + 2 de 136 significa que só 74% das perguntas recebem resposta certa. O número a citar para fiabilidade é o limite inferior, 93%, e só depois de medir num conjunto que nunca serviu para afinar.
+
 **Segundo travão** (`travao.py`): um segundo modelo julga, às cegas, se cada resposta escrita se aguenta nos artigos dados e responde à pergunta. Nas 99 respostas dadas (98 reais e 1 sem resposta) aprovou todas, por isso apanhou 0 das 11 erradas e não perdeu nenhuma certa. Dos 10 erros das reais, 6 têm o artigo certo em 1.º lugar (a resposta escrita difere da de referência no critério de 80% das palavras: o erro pode estar na métrica) e 4 são de pesquisa (diploma ou artigo errado). Ou seja, o erro não é o LLM inventar, e um travão que só confere a resposta contra os artigos não o apanha. Os 6 ficam para revisão às cegas por pessoa ou outro modelo antes de se chamar erro.
 
 ## Principais tipos de erro (com reranker)

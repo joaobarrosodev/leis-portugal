@@ -1,0 +1,20 @@
+{
+ "perguntas": 136,
+ "respondidas": 103,
+ "nao_sei": 33,
+ "certas_criterio_brando": 92,
+ "certas_juizes": 101,
+ "fiabilidade_juizes": 0.981,
+ "fiabilidade_limite_inferior_95": 0.932,
+ "nao_certas": {
+  "juizes_discordam": 0,
+  "incompletas": 1,
+  "erradas": 1,
+  "sem_fundamento": 0,
+  "sem_julgamento": 0
+ },
+ "ids_nao_certos": [
+  "real-058",
+  "real-074"
+ ]
+}
