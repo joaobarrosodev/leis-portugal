@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:559043:por",
+  "artigos": [
+    {
+      "chave": "BASE VI",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Decreto-Lei n.º 487/71: a nova redacção do n.º 1 das bases IV e V e da base XI não consta das instruções; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

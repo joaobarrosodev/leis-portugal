@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:491933:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::10.º",
+      "epigrafe": "Velocidade máxima",
+      "texto": "1 - A velocidade máxima do veículo deve ser expressa em quilómetros/hora, utilizando-se o valor correspondente ao número inteiro mais próximo da média aritmética dos valores das velocidades medidas em dois ensaios consecutivos, que não devem diferir entre si mais de 3%.\n\n2 - Se a média aritmética referida no número anterior se situar exactamente a meio do intervalo entre dois números inteiros, deve ser arredondada para o número superior.\n\n3 - No caso de veículos em que a velocidade máxima não seja limitada pela definição aplicável constante do artigo 2.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, na sua última redacção, não é necessário qualquer ensaio de homologação e a velocidade máxima deve ser aceite como a que foi declarada pelo fabricante do veículo na ficha de informações do anexo ii do referido Regulamento."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:654151:por",
+  "artigos": [
+    {
+      "chave": "19.º-A",
+      "epigrafe": "Competências",
+      "texto": "1 - Compete ao Departamento de Vencimentos, designadamente:\n\na) Elaborar as folhas de vencimento e outros abonos, de prestações complementares e de outras remunerações e os mapas e relação dos respectivos descontos;\n\nb) Manter actualizados os elementos que servem de suporte aos vencimentos e outros abonos de todo o pessoal;\n\nc) Executar as acções que superiormente lhe forem cometidas.\n\n2 - O Departamento de Vencimentos integra a Secção de Vencimentos."
+    },
+    {
+      "chave": "19.º-B",
+      "epigrafe": "Competências",
+      "texto": "O Departamento de Documentação e Relações Públicas é o órgão de apoio e de execução técnico-administrativa ao Secretário Regional, Gabinete e serviços de apoio que tem por atribuições, designadamente, assegurar a gestão de toda a documentação, o apoio administrativo, o registo e a gestão dos documentos em arquivo nas áreas da gestão da documentação e de relações públicas."
+    },
+    {
+      "chave": "19.º-C",
+      "epigrafe": "Competências",
+      "texto": "Compete ao Departamento de Cadastro e Património proceder à guarda e conservação dos bens e materiais existentes na Secretaria Regional dos Recursos Humanos, organizar e manter actualizado o respectivo inventário e praticar e assegurar tudo o que mais se torne legalmente necessário para a prossecução dos seus fins."
+    },
+    {
+      "chave": "31.º-A",
+      "epigrafe": "Regras de transição para chefe de departamento",
+      "texto": "1 - São extintos os lugares de chefe de repartição que constam do quadro de pessoal anexo ao Decreto Regulamentar Regional n.º 21/97/M, de 22 de Setembro.\n\n2 - Os chefes das repartições ora extintas transitam, com a entrada em vigor do presente diploma e independentemente de quaisquer formalidades, para a categoria de chefe de departamento, prevista no quadro de pessoal anexo.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - Os lugares de chefe de departamento são a extinguir quando vagarem.\n\n7 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho."
+    },
+    {
+      "chave": "31.º-B",
+      "epigrafe": "Concursos pendentes e expectativas de promoção",
+      "texto": "1 - Mantêm-se em vigor e são válidos os concursos cujos avisos de abertura se encontravam publicados à data da publicação do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, por força do disposto no seu artigo 30.º e no artigo 10.º do Decreto-Lei n.º 204/98, de 11 de Julho, adaptado à Região pela Resolução n.º 1014/98, de 6 de Agosto, publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 53, de 11 de Agosto de 1998.\n\n2 - Os candidatos que tenham sido ou vierem a ser nomeados nesses concursos são integrados nas categorias de chefe de departamento ou de técnico superior de 1.ª classe, de acordo com o disposto no artigo anterior, na parte aplicável."
+    },
+    {
+      "chave": "31.º-C",
+      "epigrafe": "Carreira de coordenador",
+      "texto": "1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n2 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á de entre coordenadores e pessoal do grupo administrativo, respectivamente, com o mínimo de três anos na respectiva carreira, e estes últimos com comprovada experiência na área administrativa."
+    },
+    {
+      "chave": "31.º-D",
+      "epigrafe": "Carreira de operador de comunicações",
+      "texto": "1 - A categoria de operador de comunicações integra o grupo de pessoal auxiliar.\n\n2 - O ingresso na categoria de operador de comunicações faz-se, mediante concurso, de entre indivíduos possuidores de escolaridade obrigatória.\n\n3 - O recrutamento para a categoria de operador de comunicações principal far-se-á de entre operadores de comunicações com o mínimo de três anos classificados de Bom.\n\n6 - A progressão faz-se em módulos de três anos."
+    }
+  ],
+  "nao_aplicavel": "Só os aditamentos; as alterações aos artigos 10.º e 18.º não vêm no pedido e a revogação genérica das disposições contrárias não é textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:353935:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "Regime excepcional e transitório",
+      "texto": "A contratação de empreitadas de obras públicas e a aquisição ou locação, sob qualquer regime, de bens e serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, criada pelo despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, que funciona junto do Alto Comissariado para a Saúde, criado pelo Decreto Regulamentar n.º 7/2005, de 10 de Agosto, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública, podem realizar-se, até 31 de Dezembro de 2007, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

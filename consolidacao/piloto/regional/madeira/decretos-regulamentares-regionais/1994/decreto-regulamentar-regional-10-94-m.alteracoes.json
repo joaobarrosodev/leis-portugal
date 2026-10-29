@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI), da Secretaria Regional da Economia e Cooperação Externa.\n\n2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do citado [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641) a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do capítulo I do mencionado diploma.",
+    "depois": "###### Artigo 2.º\n\n1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do Decreto-Lei n.º 184/94, de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI) e às entidades que, por despacho do Secretário Regional de Economia e Cooperação Externa, venham a ser designadas para o efeito.\n\n2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do Decreto-Lei n.º 184/94, de 1 de Julho, a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do mesmo diploma.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 2/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1995-144860) e [Decreto Regulamentar Regional n.º 4/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1998-197115), publicado em 1998-03-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600488:por",
+    "alterador": "pt:dre:144860:por;pt:dre:197115:por"
+  }
+]

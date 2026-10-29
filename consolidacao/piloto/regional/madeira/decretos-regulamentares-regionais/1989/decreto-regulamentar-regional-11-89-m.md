@@ -1,0 +1,107 @@
+---
+id: pt:dre:609777:por
+title: Decreto Regulamentar Regional n.º 11/89/M
+original: data/regional/madeira/decretos-regulamentares-regionais/1989/decreto-regulamentar-regional-11-89-m.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:534396:por
+    title: Decreto Regulamentar Regional n.º 4/96/M
+    publication_date: '1996-03-15'
+  titulos_normalizados: artigos em texto corrido no original, com título pelo parser
+    da fase 3
+---
+
+# Decreto Regulamentar Regional n.º 11/89/M
+
+Disciplina o regime da igualdade de tratamento no trabalho entre homens a mulheres, no âmbito da Administração Regional Autónoma da Madeira
+
+A Constituição da República Portuguesa reconhece e garante, no seu artigo 13.º, a igualdade de todos os cidadãos, independentemente do sexo.
+
+Com a publicação do [Decreto-Lei n.º 392/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1979-369814), de 20 de Setembro, foi definido o enquadramento legal daquele princípio constitucional, assim como os mecanismos de actuação que viabilizam a sua execução. O referido diploma prevê no n.º 2 do respectivo artigo 20.º o alargamento daquele regime Administração Pública e aos trabalhadores ao seu serviço, objectivo que se veio a concretizar com o [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro.
+
+Considerando que se mostra oportuna e conveniente a aplicação do mencionado diploma, com as devidas adaptações, administração regional autónoma:
+
+Nestes termos, em conformidade com o disposto nas alíneas b) e d) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, conjugado com as alíneas b) e d) do artigo 229.º da Constituição, o Governo da Região Autónoma da Madeira decreta o seguinte:
+
+###### Artigo 1.º
+
+É aplicável aos funcionários e agentes da Administração Regional Autónoma da Madeira, bem como aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, o disposto no [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, com as adaptações constantes do artigo seguinte.
+
+###### Artigo 2.º
+
+O disposto nos artigos 13.º, 14.º e 15.º do [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, é aplicado na Região Autónoma da Madeira com as seguintes adaptações:
+
+###### Artigo 13.º
+
+1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego promover a execução das disposições constantes do presente diploma, bem como recomendar ao Secretário Regional da Administração Pública a adopção de medidas legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma.
+
+2 - À Comissão competirá ainda emitir parecer em matéria de igualdade no trabalho e no emprego na função pública, sempre que solicitada pela Secretaria Regional da Administração Pública ou por qualquer outro departamento regional ou ainda pelas associações sindicais representativas dos trabalhadores.
+
+3 - ...
+
+4 - Quando as entidades referidas no artigo 2.º tiverem fundadas dúvidas quanto à eventual existência de uma situação ou prática discriminatória, bem como em todos os casos de reclamação recurso ou acção previstos no artigo 12.º, será obrigatoriamente ouvida a Comissão Regional para a Igualdade no Trabalho e no Emprego, que sobre a matéria emitirá parecer.
+
+###### Artigo 14.º
+
+1 - A Comissão Regional para Igualdade no Trabalho e no Emprego terá a seguinte constituição:
+
+a) Dois representantes da secretaria regional com competência na área do trabalho, um dos quais presidirá;
+
+b) Dois representantes das secretarias regionais com competência nos sectores da administração pública e do emprego;
+
+c) Um representante da Comissão para a Igualdade e para os Direitos das Mulheres ou, não existindo, um representante da Presidência da do Governo Regional;
+
+d) Dois representantes das associações patronais;
+
+e) Dois representantes das associações Sindicais.
+
+2 - ...
+
+3 - O apoio administrativo é facultado à Comissão pelas secretarias regionais com competência nos sectores da administração pública do trabalho.
+
+4 - Os encargos com o pessoal e o funcionamento da Comissão são suportados pelos orçamentos das secretarias regionais com a competência nos sectores da administração pública e do trabalho.
+
+5 - É da competência conjunta dos secretários regionais com competência nas áreas da administração pública, trabalho e emprego regulamentar o funcionamento da Comissão.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 4/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1996-534396), publicado em 1996-03-15.
+
+###### Artigo 15.º
+
+1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego:
+
+a) Recomendar ao Secretário Regional da Administração Pública a adopção de providências legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma;
+
+b) ...
+
+c) ...
+
+d) Tornar públicos, por todos os meios ao seu alcance, casos de comprovada violação das normas do presente diploma, desde que a decisão seja tomada por unanimidade dos seus membros ou mereça a concordância do Secretário Regional da Administração Pública;
+
+e) ...
+
+f) Emitir e aprovar pareceres, em matéria de igualdade no trabalho e no emprego, sempre que solicitados pela Inspecção Regional do Trabalho, pelo juiz da causa, pelas associações sindicais e patronais, pela entidade encarregada de proceder à tentativa de conciliação em conflitos individuais de trabalho ou por qualquer interessado;
+
+g) Solicitar à Inspecção Regional do Trabalho visitas aos locais de trabalho, com a finalidade de comprovar quaisquer práticas discriminatórias;
+
+h) ...
+
+2 - ...
+
+3 - ...
+
+###### Artigo 3.º
+
+São revogados os n.os 2.º a 5.º da Resolução n.º 1041/85/M, de 29 de Agosto, do Governo Regional da Madeira.
+
+Aprovado em Conselho do Governo Regional em 6 de Abril de 1989.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 28 de Abril de 1989.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

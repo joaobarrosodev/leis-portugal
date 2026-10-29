@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:363920:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução remete para 'artigos seguintes' que não são fornecidos; alteração do quadro de pessoal (mapa) não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

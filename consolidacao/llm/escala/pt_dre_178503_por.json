@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:178503:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - A CGA, I. P., prossegue atribuições do Ministério da Solidariedade, Emprego e Segurança Social, sob superintendência e tutela do respetivo Ministro, e, nas matérias objeto de negociação coletiva ou de participação dos trabalhadores da Administração Pública, através das suas associações sindicais, e na elaboração de legislação com incidência orçamental, sob superintendência e tutela conjunta dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças e Administração Pública."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "1 - O conselho consultivo, abreviadamente designado por conselho, é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da CGA, I. P., e nas tomadas de decisão do CD.\n\n2 - O conselho tem a seguinte composição:\n\na) Presidente do CD da CGA, I. P., que preside;\n\nb) Dois vogais do CD da CGA, I. P.;\n\nc) Um representante da Direção-Geral do Orçamento (DGO);\n\nd) Um representante da Direção-Geral das Autarquias Locais (DGAL);\n\ne) Um representante da Direção-Geral da Administração e do Emprego Público (DGAEP);\n\nf) Um representante do Ministério das Finanças (MF);\n\ng) Um representante do Ministério da Solidariedade, Emprego e Segurança Social (MSESS);\n\nh) Três representantes, um por cada uma das estruturas sindicais representativas dos trabalhadores que exercem funções públicas.\n\n3 - Nas suas ausências e impedimentos, o presidente do conselho é substituído pelo vogal do CD que para o efeito designar.\n\n4 - Sempre que o presidente do conselho o julgue conveniente, designadamente pela natureza das matérias a tratar, um dos vogais do CD é substituído pelo diretor central da CGA, I. P.\n\n5 - Sem prejuízo das competências conferidas por lei, compete ao conselho emitir parecer sobre:\n\na) O plano e o relatório de atividades;\n\nb) O orçamento e a conta de gerência;\n\nc) Outros assuntos que o CD ou o presidente do conselho decidam submeter à sua apreciação.\n\n6 - Aos membros do conselho é assegurado o acesso à informação relevante para a prossecução das suas competências."
+    }
+  ],
+  "nao_aplicavel": "artigos 5.º, 6.º, 10.º e 12.º não fornecidos no original; alterações dos restantes diplomas sem instruções disponíveis",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "9.º: parágrafo que não está no alterador nem no original: h) Três representantes, um por cada uma das estruturas sindicais representativas"
+  ]
+}

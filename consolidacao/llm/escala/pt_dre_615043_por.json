@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:615043:por",
+  "artigos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 53/2013 altera o artigo 30.º sem que a nova redação seja fornecida (a substituição de 'Direcção-Geral de Viação' não pode aplicar-se com segurança sobre texto desconhecido); restantes instruções incidem sobre anexos ou artigos não fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

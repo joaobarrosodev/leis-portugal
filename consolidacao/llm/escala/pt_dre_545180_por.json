@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:545180:por",
+  "artigos": [
+    {
+      "chave": "ANEXO A::6.º",
+      "epigrafe": "Condições de elegibilidade do projecto",
+      "texto": "1 - O projecto de investimento deve:\n\na) No que respeita aos projectos de arquitectura ou às memórias descritivas do investimento, quando exigíveis legalmente, encontrarem-se previamente aprovados;\n\nb) Cumprir as condições legais necessárias ao exercício da respectiva actividade;\n\nc) Corresponder a um investimento mínimo elegível de (euro) 100000;\n\nd) Ser apresentado antes do início da sua execução;\n\ne) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;\n\nf) Ter uma duração máxima de execução de dois anos contados a partir da data de início do investimento, excepto em casos devidamente justificados e autorizados;\n\ng) Prever a demonstração em situação real da utilização ou aplicação do produto/processo/sistema alvo do projecto;\n\nh) Incluir pelo menos uma sessão pública de demonstração e contemplar visitas periódicas ao local de instalação do projecto por parte de público interessado na sua demonstração por um período nunca inferior a seis meses e em condições a acordar com a entidade gestora;\n\ni) Não se limitar a modernizar instalações existentes com ajuda de tecnologias já demonstradas nem apresentar como parte essencial do investimento o desenvolvimento de modelos matemáticos ou de software.\n\n2 - Constituem excepções ao previsto na alínea d) do n.º 1:\n\na) Os adiantamentos para sinalização até 50% do custo de cada aquisição e os estudos realizados há menos de um ano;\n\nb) Os projectos previstos no âmbito da alínea c) do n.º 1 do artigo 3.º, podendo as despesas elegíveis a comparticipar reportar-se a uma data posterior à da apresentação da candidatura ao programa comunitário.\n\n3 - No caso dos projectos previstos na alínea c) do n.º 1 do artigo 3.º, tem de ser apresentado documento comprovativo do apoio concedido pelo programa comunitário e respectivas condições, tendo a candidatura de ser apresentada no prazo de seis meses contados a partir da data de aprovação do projecto pelo programa comunitário."
+    }
+  ],
+  "nao_aplicavel": "Artigos 7.º, 10.º e 17.º do Regulamento também alterados, mas o seu texto original não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

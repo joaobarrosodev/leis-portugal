@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Condições dos financiamentos\n\n1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não deve ser inferior a 10 %.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam os prazos máximos a que se referem as alíneas a) e b) do n.º 1.\n\n5 - O reembolso dos financiamentos é assegurado por garantia bancária ou hipoteca, podendo o Turismo de Portugal, I. P., fundamentadamente, aceitar outras garantias admitidas em direito.",
+    "depois": "###### Artigo 9.º — Condições dos financiamentos\n\n1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não pode ser inferior a 10 %, salvo, por razões devidamente justificadas e autorizadas pelo membro do Governo responsável pela área do turismo, no caso de projectos desenvolvidos pelas entidades a que se refere a alínea a) do artigo 4.º do presente Regulamento.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam, no máximo, em um terço os prazos máximos a que se referem as alíneas a) e b) do n.º 1 do presente artigo.\n\n5 - Sem prejuízo do disposto no número seguinte, o reembolso dos financiamentos é assegurado por garantia bancária.\n\n6 - O Turismo de Portugal, I. P., pode, fundamentadamente, admitir a dispensa de prestação de garantia às entidades regionais de turismo.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1663992:por",
+    "alterador": "pt:dre:3620231:por"
+  },
+  {
+    "artigo": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::19.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — Diferimento do pagamento de prestações vencidas\n\n1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior vencem juros remuneratórios.",
+    "depois": "###### Artigo 19.º — Diferimento do pagamento de prestações vencidas\n\n1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior podem vencer juros remuneratórios ou moratórios.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1663992:por",
+    "alterador": "pt:dre:3620231:por"
+  }
+]

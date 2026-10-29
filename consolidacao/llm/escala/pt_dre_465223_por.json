@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:465223:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO DE GESTÃO DO FUNDO DE MODERNIZAÇÃO DO COMÉRCIO::2.º",
+      "epigrafe": "Entidades beneficiárias",
+      "texto": "1 - Podem beneficiar dos incentivos financiados pelo Fundo, nos termos e condições estabelecidos no [Decreto-Lei n.º 178/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2004-507226), de 27 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 143/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2005-245285), de 26 de Agosto, e no presente Regulamento, as seguintes entidades:\n\na) Microempresas e pequenas empresas de comércio, independentemente da sua forma jurídica, cuja actividade se insira nas CAE 50, 51 e 52 (REV. 2.1 - 2003);\n\nb) Estruturas associativas empresariais do sector sem fins lucrativos.\n\nc) Médias empresas de comércio e agrupamentos de empresas constituídos maioritariamente por micro e pequenas empresas, independentemente da sua forma jurídica, cuja actividade se enquadre nas CAE 50, 51 e 52 (REV.2.1 - 2003), nas situações e com as especificidades que vierem a ser estabelecidas nos respectivos Sistemas de Incentivos.\n\n2 - As entidades beneficiárias têm de demonstrar que possuem capacidade técnica e financeira para realizar os projectos que se propõem desenvolver."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

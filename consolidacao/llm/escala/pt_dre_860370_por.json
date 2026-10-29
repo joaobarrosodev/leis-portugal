@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:860370:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Admissão à negociação em mercado regulamentado",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações ao artigo 3.º (Reg. 6/2005 e 4/2006) vêm sem o texto da nova redação; artigos 5.º, 11.º, 13.º e 14.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

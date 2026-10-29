@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:631418:por",
+  "artigos": [],
+  "nao_aplicavel": "as instruções não trazem o texto da nova redação (artigos 2.º e 10.º)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

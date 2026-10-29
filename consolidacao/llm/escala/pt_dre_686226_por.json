@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:686226:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.\n\n3. O pessoal colocado na ilha de Santa Maria terá ainda direito a um subsídio de residência de um terço das respectivas remunerações certas e a um subsídio diário para alimentação a fixar anualmente por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

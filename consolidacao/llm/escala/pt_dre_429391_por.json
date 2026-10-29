@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:429391:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Às empresas que se encontrem em situação de incumprimento quanto à entrega dos comprovativos da realização dos investimentos, nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 194/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943), de 19 de Junho, e do artigo 57.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), de 18 de Março, é excepcionalmente concedido um prazo de 30 dias para o fazerem, a contar da notificação para o efeito, por carta registada com aviso de recepção.\n\n2 - A não entrega dos comprovativos no prazo a que se refere o número anterior implica a caducidade automática dos incentivos.\n\n3 - As empresas que na fase de candidatura obtiveram o acesso ao SIII e às bonificações correspondentes a determinada classe apurada, mas que, tendo realizado o investimento, na fase de comprovação não atingiram o patamar de pontuação mínimo para obter a classe A ou se quedaram por uma pontuação conducente à redução de classe, podem optar pela realização de nova comprovação, tendo por base outro ano de laboração normal até 1986, inclusive, ou, em alternativa, dar relevância à utilização de outros critérios aceites pela Direcção-Geral das Contribuições e Impostos.\n\n4 - Nos casos em tenha sido proposta pelos serviços de fiscalização da Direcção-Geral das Contribuições e Impostos ou da Inspecção-Geral das Finanças a redução de classe ou a caducidade dos benefícios concedidos, pode ser autorizado o deslizamento do ano de laboração normal, nos termos previstos no número anterior, salvo quando a proposta tenha como fundamento a não realização do investimento ou situações de fraude fiscal."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "As normas do presente diploma sobre dispensa de juros compensatórios, de juros de mora e de juros sobre os incentivos financeiros a repor aplicam-se directamente aos casos em que já tenha havido despacho definitivo de redução dos incentivos ou de declaração de caducidade dos incentivos que ainda não tenham sido restituídos.»"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "A recuperação dos créditos decorrentes dos incentivos financeiros concedidos ao abrigo do SIII é efectuada através do processo de execução fiscal nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Direcção-Geral do Tesouro título executivo para esse efeito.»"
+    }
+  ],
+  "nao_aplicavel": "Artigo 2.º não aplicado: o texto original não foi fornecido e a nova redação mantém os n.os 2 e 4 ('...'). Epígrafes do 3.º/4.º não indicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

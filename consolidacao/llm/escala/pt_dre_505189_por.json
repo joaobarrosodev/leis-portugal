@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:505189:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - Para efeitos da presente portaria entende-se por:\n\na) \"Comércio\" as trocas comerciais entre Estados membros de produtos dele originários ou de produtos provenientes de países terceiros que se encontrem em livre prática nos Estados membros;\n\nb) \"Amostra comercial\" uma amostra sem qualquer valor comercial colhida em nome do proprietário ou do responsável por um estabelecimento que seja representativa de uma dada produção de produtos de origem animal desse estabelecimento ou que constitua um modelo de um produto de origem animal que se tencione fabricar e que, para efeitos de análise posterior, deve conter a indicação do tipo de produto, da sua composição e da espécie animal de onde foi obtido;\n\nc) \"Doença transmissível grave\" qualquer doença prevista na Portaria n.º 768/91, de 6 de Agosto;\n\nd) \"Agentes patogénicos\", com excepção dos medicamentos veterinários imunológicos autorizados pela Directiva n.º [90/677/CEE](http://data.europa.eu/eli/dir/1990/677/oj?locale=pt), qualquer conjunto ou cultura de organismos ou seus derivados, quer isolado quer sob forma recombinada, que possa provocar uma doença em qualquer ser vivo (com excepção do homem) e todos os derivados modificados desses organismos que possam ser portadores ou transmitir um agente patogénico animal, ou o tecido, cultura celular, secreções ou excreções pelos quais ou através dos quais possa ser transportado ou transmitido um agente patogénico animal;\n\ne) (Revogada.)\n\nf) \"Proteínas animais transformadas destinadas ao consumo humano\" os torresmos, a farinha de carne e o courato em pó referidos na alínea b) do artigo 2.º do Regulamento das Condições Sanitárias Aplicáveis à Produção e à Colocação no Mercado de Produtos à Base de Carne e de Outros Produtos de Origem Animal Destinados ao Consumo Humano ou à Preparação de Outros Géneros Alimentícios, aprovado pela Portaria n.º 1229/93, de 27 de Novembro;\n\ng) (Revogada.)\n\nh) \"Chorume\" qualquer mistura de excrementos e urina de bovinos, suínos, equídeos e aves de capoeira;\n\ni) \"Autoridade competente\" a nível nacional o Instituto de Protecção da Produção Agro-Alimentar (IPPAA) e a nível regional as direcções regionais de agricultura.\n\n2 - Além destas, são aplicáveis, com as devidas adaptações, as definições previstas nas Portarias n.os 576/93, 575/93 e 774/93, respectivamente de 4 de Junho e 3 de Setembro."
+    }
+  ],
+  "nao_aplicavel": "Novas redações dos artigos 3.º e 8.º (Portaria n.º 412/98 e Decreto-Lei n.º 32/2004) sem texto; alterações e revogações de capítulos dos anexos I e II não aplicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

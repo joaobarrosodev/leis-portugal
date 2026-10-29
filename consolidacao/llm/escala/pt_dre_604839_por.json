@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:604839:por",
+  "artigos": [],
+  "nao_aplicavel": "as instruções não trazem o texto da nova redação (artigos 1.º e 3.º, designações de capítulo/secções); a mudança de designação da DSPIA (artigo 13.º) não é textual",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

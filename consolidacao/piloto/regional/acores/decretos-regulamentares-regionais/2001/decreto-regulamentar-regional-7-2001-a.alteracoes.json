@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito e objecto\n\n1 - O presente diploma estabelece as compensações a atribuir ao pessoal que exerce funções nos matadouros públicos da Região Autónoma dos Açores, das carreiras abaixo indicadas, pelo exercício de funções em condições de risco, penosidade e insalubridade de nível alto:\n\na) Pessoal de matadouros;\n\nb) Técnicos profissionais de controlo;\n\nc) Técnicos superiores.\n\n2 - Na carreira de técnico profissional de controlo são abrangidos os funcionários que exercem funções de classificação de carcaças.\n\n3 - Na carreira de técnico superior são abrangidos os engenheiros mecânicos responsáveis pela manutenção dos equipamentos.",
+    "depois": "###### Artigo 1.º — Âmbito e objecto\n\n1 - O presente diploma estabelece as compensações a atribuir ao pessoal que exerce funções nos matadouros públicos da Região Autónoma dos Açores, das carreiras abaixo indicadas, pelo exercício de funções em condições de risco, penosidade e insalubridade de nível alto:\n\na) Pessoal de matadouros;\n\nb) Pessoal operário;\n\nc) Técnicos profissionais de controlo;\n\nd) Técnicos;\n\ne) Técnicos superiores.\n\n2 - Na carreira de técnico profissional de controlo e técnica são abrangidos os funcionários que exercem funções de classificação de carcaças.\n\n3 - Na carreira de técnico superior são abrangidos os funcionários cujas funções estejam directamente relacionadas com as actividades do matadouro, nomeadamente recepção, abate, manipulação de carnes, acondicionamento, embalagem, armazenagem e transporte.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 17/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2004-277121), publicado em 2004-06-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:362075:por",
+    "alterador": "pt:dre:277121:por"
+  }
+]

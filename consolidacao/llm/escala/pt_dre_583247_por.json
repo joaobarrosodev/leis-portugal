@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:583247:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Servidões e restrições de utilidade pública",
+      "texto": "1 - Na área de intervenção do Plano verificam-se as seguintes servidões e restrições de utilidade pública:\n\na) (Revogada.)\n\nb) Zonas de protecção a monumentos, imóveis de interesse público e valores concelhios reportados à defesa do património cultural;\n\nc) Servidões reportadas à defesa e protecção das seguintes infra-estruturas:\n\nAeronáuticas;\n\nPortuárias;\n\nRadioeléctricas;\n\nViárias;\n\nEléctricas;\n\nSaneamento básico;\n\nFaróis;\n\nMarcos geodésicos;\n\nd) Servidões de protecção aos estabelecimentos escolares, prisionais, cemitérios e ao Observatório Meteorológico de Ponta Delgada.\n\n2 - Todas as áreas de servidão existentes encontram-se assinaladas no cartograma n.º 19 («Condicionantes - Servidões e restrições de utilidade pública»), à escala de 1:10000."
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Categorias dos espaços urbanizáveis",
+      "texto": "De acordo com o uso indicado na planta de zonamento - cartograma n.º 33 - os espaços urbanizáveis subdividem-se em:\n\n1) (Revogado.)\n\n2) Zonas de equipamentos colectivos propostos."
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Categorias dos espaços-canais",
+      "texto": "Identificam-se as seguintes categorias:\n\n1 - (Revogado.)\n\n2 - Infra-estruturas rodoviárias. - São constituídas pela rede rodoviária existente e proposta. Atendendo às suas características, subdividem-se em:\n\na) Vias com função regional identificadas no cartograma n.º 33 como:\n\nVia circular existente;\n\nVias urbanas principais;\n\nb) Vias com função municipal identificadas no cartograma n.º 33 como vias urbanas secundárias;\n\nc) Principais cruzamentos, inserções viárias e nós viários propostos;\n\nd) Parques de estacionamento."
+    }
+  ],
+  "nao_aplicavel": "Revogação geral do regulamento com exceções: só se devolvem os artigos mostrados com partes revogadas (8.º n.º 1 a), 48.º n.º 1, 74.º n.º 1, mantendo-se a frase introdutória do 74.º); os restantes artigos do regulamento não constam do pedido. A alteração do Decreto Regulamentar Regional n.º 31/2006/A não tem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

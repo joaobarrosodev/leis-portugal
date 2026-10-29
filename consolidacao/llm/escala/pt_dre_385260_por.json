@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:385260:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura",
+      "texto": "A DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Departamento dos Serviços Administrativos e de Arquivo."
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Natureza e estrutura",
+      "texto": "1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - O DSAA compreende as seguintes secções:\n\na) Secção do Secretariado Administrativo;\n\nb) Secção de Pessoal;\n\nc) Secção de Registo e Expediente;\n\nd) Secção de Arquivo;\n\ne) Secção de Contabilidade e Património."
+    }
+  ],
+  "nao_aplicavel": "Artigo 11.º não aplicado: as alíneas mantidas e renumeradas dependem de texto original não fornecido. Artigo 13.º: substituição do quadro de pessoal em anexo (não textual). Epígrafes de capítulo/secção não aplicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

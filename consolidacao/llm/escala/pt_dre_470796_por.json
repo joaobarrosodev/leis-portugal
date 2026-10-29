@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:470796:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogado todo o diploma exceto o artigo 2.º; só o artigo 3.º foi fornecido, os restantes artigos revogados não constam do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

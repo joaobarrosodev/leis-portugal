@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:545618:por",
+  "artigos": [
+    {
+      "chave": "39.º",
+      "epigrafe": "Período de transição",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações e revogação de anexos (anexo I e anexo XIV) não aplicadas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

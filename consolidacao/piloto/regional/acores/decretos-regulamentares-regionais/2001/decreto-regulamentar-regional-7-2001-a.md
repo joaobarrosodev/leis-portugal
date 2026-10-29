@@ -1,0 +1,93 @@
+---
+id: pt:dre:362075:por
+title: Decreto Regulamentar Regional n.º 7/2001/A
+original: data/regional/acores/decretos-regulamentares-regionais/2001/decreto-regulamentar-regional-7-2001-a.md
+consolidacao:
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:277121:por
+    title: Decreto Regulamentar Regional n.º 17/2004/A
+    publication_date: '2004-06-07'
+---
+
+# Decreto Regulamentar Regional n.º 7/2001/A
+
+As funções desempenhadas pelos funcionários que exercem funções nos matadouros da Região Autónoma dos Açores envolvem riscos consideráveis, inerentes quer à sua natureza quer às condições específicas em que se efectuam.
+
+As actividades desenvolvidas nos matadouros são susceptíveis de aumentar grandemente a probabilidade de ocorrência de lesões físicas e psíquicas, na medida em que o trabalho se desenvolve num ambiente com um nível de ruído acima do normal, na possibilidade de contusão provocada por um animal ou pela queda de uma carcaça, e ainda com riscos eléctricos ou térmicos, de entre muitos outros.
+
+O próprio contacto directo com os animais a abater é, só por si, um enorme factor de risco, não só pelas agressões que possam ser provocadas pelos animais, mas também pelo facto de os animais nos matadouros poderem ser portadores de doenças transmissíveis ao homem, como é o caso da brucelose, da peripneumonia e da tuberculose, o que contribui, igualmente, para aumentar os factores de risco inerentes ao desempenho dessas funções.
+
+Também a sazonalidade de alguns abates, como é o caso dos abates sanitários para exportação, e por ocasião de festas religiosas, contribuem para aumentar os factores de risco de ocorrência de acidentes de trabalho graves, dado que nessas alturas o volume de trabalho nos matadouros chega a quadriplicar.
+
+Por outro lado, as tarefas desempenhadas pelos funcionários dos matadouros envolvem uma considerável sobrecarga física, atendendo quer ao peso das carcaças, quer aos utensílios para o abate dos animais, em regra pesados e contundentes.
+
+Da mesma forma, os produtos resultantes da limpeza das carcaças, como é o caso do sangue, gorduras, conteúdos gástricos e intestinais, são muito escorregadios e contaminantes, facilitando quedas e infecções.
+
+As tarefas desenvolvidas nos matadouros são exercidas em condições que objectivamente contribuem para a degradação do estado de saúde dos funcionários. Todos os factores enunciados são, aliás, responsáveis pela ocorrência de acidentes em serviço com certa gravidade, como, por exemplo, cortes, amputações, fracturas ósseas e infecções, sendo de concluir que essa actividade é exercida em condições de alto risco, penosidade e insalubridade.
+
+Por último, o regime excepcional em que os trabalhadores nos matadouros da Região exercem a sua actividade, em comparação com os seus congéneres do continente, nomeadamente tendo em conta que na Região os matadouros são serviços públicos, ao passo que no continente todos os matadouros são objecto de exploração por entidades privadas, é um factor decisivo na justificação da atribuição de compensações destinadas especificamente a estes trabalhadores.
+
+Face ao exposto, e considerando o novo regime de atribuição de suplementos e outras compensações pela prestação de trabalho em condições de risco, penosidade e insalubridade, estabelecido no [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março, importa regulamentar a atribuição dessas compensações aos funcionários que exercem funções nos matadouros da Região, reconhecendo-se que, nos termos e para os efeitos do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março, o exercício do conteúdo funcional daquela carreira se reveste de alto risco, penosidade e insalubridade.
+
+O [Decreto Legislativo Regional n.º 20/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1999-374989), de 8 de Junho, adaptou à Região Autónoma dos Açores o processo de regulamentação de atribuição das compensações previstas no [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março.
+
+Foi solicitado parecer ao Conselho de Saúde e Segurança no Trabalho para a Administração Pública, em cumprimento do disposto no artigo 11.º do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março, e no artigo 2.º do [Decreto Legislativo Regional n.º 20/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1999-374989), de 8 de Julho.
+
+Assim, ao abrigo do disposto no artigo 2.º do [Decreto Legislativo Regional n.º 20/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1999-374989), de 8 de Julho, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Âmbito e objecto
+
+1 - O presente diploma estabelece as compensações a atribuir ao pessoal que exerce funções nos matadouros públicos da Região Autónoma dos Açores, das carreiras abaixo indicadas, pelo exercício de funções em condições de risco, penosidade e insalubridade de nível alto:
+
+a) Pessoal de matadouros;
+
+b) Pessoal operário;
+
+c) Técnicos profissionais de controlo;
+
+d) Técnicos;
+
+e) Técnicos superiores.
+
+2 - Na carreira de técnico profissional de controlo e técnica são abrangidos os funcionários que exercem funções de classificação de carcaças.
+
+3 - Na carreira de técnico superior são abrangidos os funcionários cujas funções estejam directamente relacionadas com as actividades do matadouro, nomeadamente recepção, abate, manipulação de carnes, acondicionamento, embalagem, armazenagem e transporte.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 17/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2004-277121), publicado em 2004-06-07.
+
+###### Artigo 2.º — Suplemento remuneratório
+
+1 - O pessoal abrangido pelo presente diploma tem direito a um suplemento de risco, correspondente ao exercício de funções de alto risco, para efeitos do disposto da alínea a) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março.
+
+2 - O suplemento a que se refere o número anterior corresponde a 20% do vencimento do 1.º escalão da respectiva categoria de ingresso, é abonável em 12 meses e é considerado no cálculo da pensão de aposentação nos termos previstos no respectivo estatuto.
+
+###### Artigo 3.º — Aposentação
+
+1 - Os funcionários abrangidos pelo presente diploma podem requerer a passagem à situação de aposentados logo que atinjam 55 anos de idade.
+
+2 - O pessoal que requeira a aposentação após completar 60 anos de idade beneficia do aumento de 20%, para os efeitos de aposentação, sobre o tempo de serviço efectivo prestado, mediante a liquidação das respectivas quotas à Caixa Geral de Aposentações.
+
+3 - O disposto no número anterior é também aplicável ao pessoal que, independentemente da idade, tenha direito à aposentação extraordinária, nos termos do artigo 38.º do Estatuto da Aposentação.
+
+###### Artigo 4.º — Situações especiais
+
+1 - Só têm direito às compensações referidas nos artigos anteriores os funcionários que se encontrem no exercício efectivo das funções que correspondem ao conteúdo funcional da respectiva carreira.
+
+2 - O suplemento remuneratório só é devido relativamente aos dias em que se verifique prestação efectiva de trabalho ou nas situações legalmente equiparadas.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma produz efeitos desde o dia 1 de Janeiro de 2001.
+
+Aprovado em Conselho do Governo Regional, na Horta, em 1 de Fevereiro de 2001.
+
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
+
+Assinado em Angra do Heroísmo em 29 de Maio de 2001.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

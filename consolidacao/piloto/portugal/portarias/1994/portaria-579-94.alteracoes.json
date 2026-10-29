@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Indeferimento das candidaturas\n\nSão indeferidos os processos de candidatura que:\n\na) Não sejam objecto de despacho favorável do Ministro do Mar;\n\nb) Não supram as deficiências no prazo de 15 dias após notificação da DGP ou do IFADAP, se prazo maior não for expressamente concedido.",
+    "depois": "###### Artigo 9.º — Indeferimento das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 437/98](https://diariodarepublica.pt/dr/detalhe/portaria/437-1998-429422), publicado em 1998-07-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:294706:por",
+    "alterador": "pt:dre:429422:por"
+  }
+]

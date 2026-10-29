@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:452543:por",
+  "artigos": [],
+  "nao_aplicavel": "O diploma que altera não traz o texto da nova redação (só a frase introdutória). (artigo 3.º do decreto de 1963)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

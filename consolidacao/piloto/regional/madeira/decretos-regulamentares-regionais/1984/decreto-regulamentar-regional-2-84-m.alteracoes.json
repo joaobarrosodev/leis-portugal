@@ -26,5 +26,33 @@
     "unidade": [],
     "diploma": "pt:dre:661951:por",
     "alterador": "pt:dre:182636:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nSerão consideradas como constituindo um único sinistro as perdas ou danos que ocorram nas 48 horas seguintes ao momento em que os bens seguros sofram os primeiros danos.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1985-182636) e [Decreto Regulamentar Regional n.º 22/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1987-496327) e [Decreto Regulamentar Regional n.º 25/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1993-324346) e [Decreto Regulamentar Regional n.º 12/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1999-582386), publicado em 1999-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661951:por",
+    "alterador": "pt:dre:182636:por;pt:dre:496327:por;pt:dre:324346:por;pt:dre:582386:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO seguro de colheitas abrange as culturas referidas no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 2/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886), de 7 de Março - vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, culturas hortícolas em estufa, floricultura, fruticultura, feijão-verde (vaginha), morango e tomate -, com as especificações a seguir mencionadas:\n\na) As culturas hortícolas em estufa referem-se a: alface, feijão-verde (vaginha), meloa, pepino, pimento e tomate;\n\nb) A floricultura sob coberto engloba: antúrio, orquídeas (cateleia, cimbídio e sapatinho) e rosa; em céu aberto engloba: estrelícia e prótea;\n\nc) A fruticultura refere-se a: citrinos (laranja, limão e tangerina), pomóideas (maçã e pêra), prunóideas (pêssego); na subtropical refere-se especificamente a: abacate, anona, manga, maracujá e papaia.",
+    "depois": "###### Artigo 1.º\n\nO seguro de colheitas consagrado no Decreto Legislativo Regional n.º 2/83/M, de 7 de Março, abrange as seguintes culturas: vinhas de castas europeias, registadas e ou licenciadas, banana, cana-de-açúcar, batata (semilha), batata-doce, alface, cenoura, cebola, couve, alho, feijão-verde (vaginha), tomate, morango, culturas hortícolas em estufa, floricultura e fruticultura, com as especificações a seguir mencionadas:\n\na) As culturas hortícolas em estufa referem-se a: alface, feijão-verde (vaginha), meloa, pepino, pimento e tomate;\n\nb) A floricultura sob coberto engloba, nomeadamente, antúrio, orquídeas (cateleia, cimbídio e sapatinho), rosa e cravo e, em céu aberto, estrelícia e prótea;\n\nc) A fruticultura refere-se a citrinos (laranja, limão, tangerina e cidra), pomóideas (maçã, pêra e pêro para cidra), prunóideas (pêssego, damasco e ameixa) e actinídea (kiwi) e, especificamente na subtropical, a abacate, anona, manga, maracujá e papaia;\n\nd) A fruticultura sob coberto engloba tropicais e subtropicais, nomeadamente a papaia e a manga.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1985-182636) e [Decreto Regulamentar Regional n.º 22/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1987-496327) e [Decreto Regulamentar Regional n.º 25/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1993-324346) e [Decreto Regulamentar Regional n.º 12/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1999-582386), publicado em 1999-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:661951:por",
+    "alterador": "pt:dre:182636:por;pt:dre:496327:por;pt:dre:324346:por;pt:dre:582386:por"
   }
 ]

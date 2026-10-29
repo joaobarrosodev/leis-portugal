@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — Composição e funcionamento\n\n1 - Cada conselho científico é presidido por uma personalidade de reconhecido mérito da respectiva área científica, nomeada pelo Ministro da Ciência e da Tecnologia de entre pessoal integrado nas carreiras de investigação científica ou docente universitária.\n\n2 - Os presidentes dos conselhos científicos são nomeados em comissão de serviço, sendo equiparados, para efeitos remuneratórios, a vice-presidente da FCT, nos termos definidos no n.º 2 do artigo 11.º do [Decreto-Lei n.º 144/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1996-401914), de 26 de Agosto.\n\n3 - Integram ainda cada conselho científico cinco elementos designados pelo Ministro da Ciência e da Tecnologia, sendo dois propostos pelos colégios de especialidade, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 146/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1996-401913), de 26 de Agosto.\n\n4 - Os membros dos conselhos científicos, com excepção dos respectivos presidentes, têm direito, por cada reunião em que participem, à percepção de senhas de presença de montante a fixar por despacho conjunto dos Ministros das Finanças e da Ciência e da Tecnologia e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n5 - Os membros dos conselhos científicos, incluindo os respectivos presidentes, exercem o seu mandato por um período de dois anos, renovável uma única vez.\n\n6 - Os conselhos científicos reúnem ordinariamente duas vezes por mês e extraordinariamente sempre que convocados pelo seu presidente, por iniciativa própria ou a solicitação de qualquer dos seus membros, do presidente do conselho directivo da FCT ou do Ministro da Ciência e da Tecnologia.",
+    "depois": "###### Artigo 11.º — Composição e funcionamento\n\n1 - (Revogado.)\n\n2 - Os presidentes dos conselhos científicos são nomeados em comissão de serviço, sendo equiparados, para efeitos remuneratórios, a vice-presidente da FCT, nos termos definidos no n.º 2 do artigo 11.º do [Decreto-Lei n.º 144/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1996-401914), de 26 de Agosto.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 152/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2007-521021), publicado em 2007-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:144601:por",
+    "alterador": "pt:dre:521021:por"
+  }
+]

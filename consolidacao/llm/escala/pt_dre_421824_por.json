@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:421824:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.\n\n2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.\n\n3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.\n\n4 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O artigo 1.º altera o quadro de pessoal (mapa anexo), alteração não textual dos artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

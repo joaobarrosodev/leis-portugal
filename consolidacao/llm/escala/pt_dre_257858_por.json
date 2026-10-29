@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:257858:por",
+  "artigos": [
+    {
+      "chave": "4.º-A",
+      "epigrafe": "Habilitações de base adequadas",
+      "texto": "1 - Consideram-se, para efeitos do disposto no artigo anterior, habilitações académicas de base adequadas as seguintes:\n\na) Licenciatura em Direito;\n\nb) Licenciatura nas áreas da Criminologia e Justiça Criminal;\n\nc) Licenciatura nas áreas de Economia ou Gestão, designadamente, Economia, Gestão, Gestão e Administração Pública, Contabilidade ou Contabilidade e Finanças;\n\nd) Licenciatura em Medicina Veterinária;\n\ne) Licenciatura nas áreas da Farmácia ou Ciências Farmacêuticas;\n\nf) Licenciatura nas áreas da Química;\n\ng) Licenciatura nas áreas da Biologia;\n\nh) Licenciatura nas áreas da Ciência e Tecnologia Alimentar, e da Tecnologia e Segurança Alimentar;\n\ni) Licenciatura na área de Produção Alimentar em Restauração, e na área de Qualidade Alimentar e Nutrição;\n\nj) Licenciatura nas áreas da Engenharia Civil, Engenharia Mecânica, Engenharia Informática, Engenharia Eletrotécnica e Engenharia Eletrónica.\n\n2 - Excecionalmente, podem ingressar na carreira de inspetor superior os inspetores técnicos ou inspetores adjuntos, com grau de licenciatura e com 10 anos de carreira inspetiva, ainda que não possuam licenciatura numa das áreas mencionadas no número anterior."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

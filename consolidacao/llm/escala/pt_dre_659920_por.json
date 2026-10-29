@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:659920:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 (DL 107/2004): substitui a secção 5.1 do capítulo III do anexo pelo texto da Directiva 2003/75/CE, que não consta do pedido. Instrução 2 (DL 210/2005, n.º 1): adita as secções 8.A e 8.B ao capítulo II-1 do anexo, mas a redação não vem no pedido. Instrução 3 (DL 210/2005, n.º 2): adita o anexo II (texto não fornecido) e renomeia o anexo existente para anexo I, alteração não textual de artigos. Nenhum artigo do diploma é alterado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

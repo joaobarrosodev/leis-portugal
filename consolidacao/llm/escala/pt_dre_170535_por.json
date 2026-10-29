@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:170535:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não contêm a nova redação dos artigos 1.º, 2.º e 3.º (texto em falta).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

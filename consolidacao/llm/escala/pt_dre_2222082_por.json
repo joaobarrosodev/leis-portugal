@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:2222082:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objeto e âmbito de aplicação",
+      "texto": "O presente Aviso estabelece deveres mínimos de informação a observar pelas instituições de crédito com sede ou sucursal em território nacional na negociação, celebração e vigência de contratos de crédito à habitação, de crédito conexo e de outro crédito hipotecário."
+    }
+  ],
+  "nao_aplicavel": "artigos 2.º e 3.º não fornecidos no original",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

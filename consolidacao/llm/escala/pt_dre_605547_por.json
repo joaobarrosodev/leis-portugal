@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:605547:por",
+  "artigos": [],
+  "nao_aplicavel": "Nada seguro: das 137 instruções só as 34 (DL 472/99) e 40 (DL 31/2001) trazem texto; as restantes (incl. 33 anteriores) vêm sem a nova redação, pelo que o texto de base com \"...\" não é o vigente; os mesmos artigos são depois alterados sem texto (ex.: DL 102/2008, Lei 67-A/2007, DL 197/2012) e o Código foi renumerado pelo DL 102/2008 segundo tabelas de correspondência não fornecidas, tornando as chaves e o texto final incertos; várias instruções visam listas/anexos ou outros diplomas (DL 31/89, Código do Selo).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:154399:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre::15.º",
+      "epigrafe": "Apreciação de candidaturas",
+      "texto": "1 - Compete à comissão apreciar as candidaturas.\n\n2 - A apreciação das candidaturas tem por base, prioritária e sucessivamente, os seguintes critérios de selecção:\n\na) Ausência ou menor presença, no capital social do concorrente, de participações, directas ou indirectas, da concessionária do serviço público de telecomunicações, entendida esta nos termos da alínea b) do artigo 1.º das bases da concessão do serviço público de telecomunicações, aprovadas pelo [Decreto-Lei n.º 40/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1995-202419), de 15 de Fevereiro, bem como dos operadores já licenciados para a prestação do SMT e, em qualquer dos casos, dos respectivos accionistas privados que, individual ou conjuntamente, detenham participações iguais ou superiores a 3% no capital social das referidas sociedades;\n\nb) Melhores condições oferecidas, nomeadamente gama e qualidade dos serviços e plano de cobertura;\n\nc) Melhor qualidade do plano técnico;\n\nd) Melhores factores de inovação e de desenvolvimento;\n\ne) Melhores qualificações técnicas;\n\nf) Melhor qualidade do plano económico-financeiro.\n\n3 - O ICP procede à análise técnica das candidaturas, bem como às demais actividades que lhe sejam solicitadas pela comissão.\n\n4 - (Revogado.)\n\n5 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

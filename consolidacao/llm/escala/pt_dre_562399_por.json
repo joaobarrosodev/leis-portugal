@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:562399:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - A cedência de quantidade de referência individual a realizar, ao abrigo do artigo 11.º do Decreto-Lei n.º 240/2002, de 5 de Novembro, durante as campanhas leiteiras abaixo indicadas, é válida para as seguintes quantidades máximas:\n\na) Na campanha leiteira de 2004-2005, para os produtores sediados no continente e na Região Autónoma dos Açores, uma quantidade inferior à quantidade total detida pelo cedente;\n\nb) Na campanha leiteira de 2005-2006, para os produtores sediados no continente e na Região Autónoma dos Açores, uma quantidade não superior a 30% da quantidade total detida pelo cedente;\n\nc) Na campanha leiteira de 2006-2007:\n\ni) Para os produtores sediados na Região Autónoma dos Açores, uma quantidade não superior a 30% da quantidade total detida pelo cedente;\n\nii) Para os produtores sediados no continente, uma quantidade não superior a 10% da quantidade total detida pelo cedente.\n\nd) Na campanha leiteira de 2007-2008 e seguintes, para os produtores sediados no Continente e na Região Autónoma dos Açores, uma quantidade máxima não superior a 30% da quantidade total detida pelo cedente.\n\n2 - O disposto no n.º 1 não se aplica às situações de excepção previstas no artigo 18.º do Decreto-Lei n.º 240/2002, de 5 de Novembro."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

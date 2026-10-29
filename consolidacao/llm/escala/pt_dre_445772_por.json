@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:445772:por",
+  "artigos": [],
+  "nao_aplicavel": "O diploma que altera não traz o texto da nova redação (só a frase introdutória). (artigo 30.º)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

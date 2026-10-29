@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:636190:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "Alteração do quadro de pessoal do Registo Nacional de Pessoas Colectivas",
+      "texto": "O quadro de pessoal do Registo Nacional de Pessoas Colectivas é acrescido de 10 lugares de ajudante principal, a extinguir quando vagarem."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

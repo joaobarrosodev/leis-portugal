@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:629788:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Funções",
+      "texto": "São funções do CNHST:\n\na) Contribuir para a definição das políticas de prevenção de riscos profissionais e combate à sinistralidade laboral, mediante apreciação de planos e projectos apresentados pelos representantes do Governo;\n\nb) Acompanhar e monitorizar de forma permanente a execução das políticas e intervenções públicas de prevenção de riscos profissionais e combate à sinistralidade laboral e em particular avaliar os níveis de execução e de eficácia do Plano Nacional de Acção para a Prevenção (PNAP);\n\nc) Identificar e analisar as questões relativas à protecção da gravidez e da amamentação;\n\nd) Identificar e analisar deficiências, obstáculos e problemas de efectividade das políticas e da legislação relativas à prevenção de riscos profissionais e combate à sinistralidade laboral;\n\ne) Identificar boas práticas empresariais no âmbito da prevenção de riscos profissionais e promover a respectiva divulgação;\n\nf) Identificar áreas prioritárias de intervenção político-legislativa no capítulo da prevenção de riscos profissionais e combate à sinistralidade laboral;\n\ng) Identificar e analisar causas de incumprimento da legislação sobre higiene e segurança no trabalho e proposição de medidas para melhorar a eficácia da fiscalização;\n\nh) Dar parecer quanto à eventual prorrogação do prazo de execução do PNAP.\n\ni) Elaborar um relatório bianual de avaliação da aplicação do regime jurídico decorrente do regime da segurança, higiene e saúde no trabalho consagrado no Código do Trabalho, em particular do modelo de prevenção nele preconizado."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Comissão de acompanhamento",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "artigos 4.º, 5.º, 6.º, 7.º, 9.º e 10.º também alterados pelo DL 121/2006, mas o seu texto original não foi fornecido (epígrafes \"[...]\", números \"...\" e remissões para alíneas anteriores); instruções dos DL 215-A/2004, 79/2005, 86-A/2011, 126-C/2011 e 119/2013 não fornecidas",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: h) Dar parecer quanto à eventual prorrogação do prazo de execução do PNAP."
+  ]
+}

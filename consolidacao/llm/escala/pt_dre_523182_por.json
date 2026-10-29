@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:523182:por",
+  "artigos": [],
+  "nao_aplicavel": "A retificação manda substituir «compreendida entre 150 a 250 contas», texto que não existe no original (que diz «compreendida entre 150 e 250 contos»).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

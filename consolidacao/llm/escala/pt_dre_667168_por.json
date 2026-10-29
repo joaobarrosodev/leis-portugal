@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:667168:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "Suspensão",
+      "texto": "Sem prejuízo da entrega dos requerimentos, é suspensa, até 31 de Janeiro de 1999, a apreciação:\n\na) Dos requerimentos de reconhecimento de interesse público de instituições de ensino superior particular e cooperativo a que se refere o artigo 51.º do Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro;\n\nb) Dos requerimentos de autorização de funcionamento de cursos em instituições de ensino superior particular e cooperativo e de reconhecimento de graus a que se referem os artigos 57.º e 62.º daquele Estatuto."
+    }
+  ],
+  "nao_aplicavel": "A retificação do sumário não é texto de artigo; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "único: parágrafo que não está no alterador nem no original: Sem prejuízo da entrega dos requerimentos, é suspensa, até 31 de Janeiro de 1999"
+  ]
+}

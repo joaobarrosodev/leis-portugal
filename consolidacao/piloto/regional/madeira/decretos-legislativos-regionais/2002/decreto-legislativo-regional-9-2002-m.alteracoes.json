@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Prescrição de medicamentos\n\n1 - Verificando-se a existência de medicamento genérico no mercado a opção, a que se refere o n.º 2 do artigo 2.º, deverá ser feita por este tipo de medicamento, excepto:\n\na) Se existir medicamento de marca similar, de preço mais baixo, que ofereça garantia de qualidade;\n\nb) Se o prescritor fundamentar na receita que o medicamento de marca tem mais vantagens para o utente.\n\n2 - Com base no Prontuário Nacional do Medicamento e no Formulário Nacional Hospitalar de Medicamentos, e tendo em consideração o disposto no número anterior, a Comissão de Farmácia e Terapêutica, no âmbito dos cuidados primários e dos cuidados hospitalares, elaborará um formulário que deverá ser actualizado anualmente.",
+    "depois": "###### Artigo 2.º — Prescrição de medicamentos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-191864), publicado em 2012-11-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140142:por",
+    "alterador": "pt:dre:191864:por"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:288447:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::20.º",
+      "epigrafe": "Regime de flexibilidade",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::21.º",
+      "epigrafe": "Ações a empreender pelos fabricantes dos tratores",
+      "texto": "1 - Exceto durante a fase III-B, um fabricante de tratores que pretenda utilizar o regime de flexibilidade deve solicitar a autorização do Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), para colocar tratores no mercado de acordo com as disposições relevantes do presente capítulo, não devendo o número de tratores exceder os limites previstos nos n.os 3 a 5.\n\n2 - Os motores a que se refere o número anterior devem cumprir os requisitos estabelecidos no artigo 2.º-B.\n\n3 - O número de tratores colocados no mercado no quadro de um regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 20 % do número anual de tratores colocados no mercado pelo fabricante de tratores com motores da categoria em questão, calculadas como a média das vendas dos cinco últimos anos no mercado da União.\n\n4 - Caso o fabricante de tratores tenha comercializado tratores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tratores na União pelo referido fabricante.\n\n5 - Em alternativa à opção prevista nos n.os 3 e 4, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os limites referidos do quadro I constante do anexo X.\n\n6 - Durante a fase III-B, um fabricante de tratores que pretenda utilizar o regime de flexibilidade deve solicitar a autorização do IMT, I.P., para colocar tratores no mercado ao abrigo das disposições aplicáveis do presente capítulo, não devendo o número de tratores exceder os limites previstos nos n.os 8 a 10.\n\n7 - Os motores a que se refere o número anterior devem cumprir os requisitos estabelecidos no artigo 2.º-B.\n\n8 - O número de tratores colocados no mercado no quadro do regime de flexibilidade não deve, para cada categoria de motor, ultrapassar 40 % do número anual de tratores colocados no mercado pelo fabricante de tratores com motores da categoria em questão, calculados como a média das vendas dos cinco últimos anos no mercado da União.\n\n9 - Caso o fabricante de tratores tenha comercializado tratores na União por um período inferior a cinco anos, a média deve ser calculada com base no período de comercialização de tratores na União pelo referido fabricante.\n\n10 - Em alternativa à opção prevista nos n.os 8 e 9, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os limites referidos do quadro II constante do anexo X.\n\n11 - O pedido apresentado pelo fabricante de tratores ao IMT, I.P., deve incluir a seguinte informação:\n\na) Uma amostra das etiquetas que são apostas em cada trator em que está instalado um motor introduzido no mercado ao abrigo do regime de flexibilidade, devendo as etiquetas ostentar o seguinte texto: «TRATOR N.º ... (de sequência dos tratores) DE ... (número total de tratores na respetiva gama de potência) COM O MOTOR N.º ... e o N.º DE HOMOLOGAÇÃO»;\n\nb) Uma amostra da etiqueta adicional que é aposta ao motor e que ostente o texto constante do n.º 2.2 do artigo seguinte.\n\n12 - O fabricante do trator deve fornecer ao IMT, I.P., todas as informações necessárias relativas à aplicação do regime de flexibilidade que este solicite para tomar uma decisão.\n\n13 - O fabricante do trator deve apresentar semestralmente ao IMT, I.P., um relatório sobre a aplicação do regime de flexibilidade que adotou, devendo esse relatório incluir dados cumulativos sobre o número de tratores colocados no mercado ao abrigo do regime de flexibilidade, os números de série do motor e do trator, bem como os Estados-Membros onde o trator tenha sido posto em circulação.\n\n14 - O procedimento a que se refere o número anterior deve ser mantido, sem exceções, enquanto um regime de flexibilidade estiver em curso."
+    },
+    {
+      "chave": "ANEXO::22.º",
+      "epigrafe": "Acções a empreender pelo fabricante do motor",
+      "texto": "1 - Um fabricante de motores pode introduzir no mercado motores ao abrigo do regime de flexibilidade aprovado nos termos do presente capítulo.\n\n2 - O fabricante dos motores deve apor nesses motores uma etiqueta com o texto «Motor introduzido no mercado ao abrigo do regime de flexibilidade», nos termos dos requisitos estabelecidos no artigo 6.º"
+    },
+    {
+      "chave": "ANEXO::23.º",
+      "epigrafe": "Ações a empreender pelo Instituto da Mobilidade e dos Transportes, I.P.",
+      "texto": "O IMT, I.P., deve avaliar o conteúdo do pedido de regime de flexibilidade e dos documentos apensos, após o que informa o fabricante dos tratores da sua decisão de autorizar ou não o regime de flexibilidade solicitado."
+    }
+  ],
+  "nao_aplicavel": "Anexos (II, III, V, VII-X) não textuais; artigos 2.º-B e 4.º do decreto-lei não constam do original fornecido; no artigo 2.º do Regulamento a alínea h) '[...]' não existe no original fornecido (só a) a g)), pelo que não foi aplicado; supressão das secções do capítulo III não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

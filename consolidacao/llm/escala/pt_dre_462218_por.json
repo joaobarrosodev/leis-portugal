@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:462218:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não trazem a nova redação das alíneas a) e b) nem a alínea aditada ao n.º 1 do artigo 2.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

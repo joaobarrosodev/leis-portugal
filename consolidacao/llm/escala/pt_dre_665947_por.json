@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:665947:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogados os artigos 23.º a 33.º; só o 23.º foi fornecido no pedido, os restantes (24.º a 33.º) ficam também revogados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

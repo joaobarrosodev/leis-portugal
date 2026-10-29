@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Admissão à negociação em mercado regulamentado\n\n1 - A admissão de warrants autónomos a mercado regulamentado é precedida da celebração de um contrato com pelo menos um criador de mercado, nos termos a definir pela entidade gestora do mercado.\n\n2 - O criador de mercado tem de intervir efectivamente no mercado pelo menos nos períodos e termos referidos no contrato previsto no número anterior, nomeadamente emitindo e mantendo as ofertas adequadas para o efeito.\n\n3 - A entidade gestora pode dispensar a intervenção de criador de mercado quando o emitente demonstre que, consideradas as características dos valores mobiliários a admitir, a intervenção dos criadores de mercado não é determinante para um regular funcionamento do mercado e para a protecção dos investidores não institucionais.",
+    "depois": "###### Artigo 10.º — Admissão à negociação em mercado regulamentado\n\n(Revogado.)\n\n> Revogado pelo/a [Regulamento da CMVM n.º 6/2005](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2005-2577188) e [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:860370:por",
+    "alterador": "pt:dre:2577188:por;pt:dre:1838154:por"
+  }
+]

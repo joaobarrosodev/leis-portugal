@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:582436:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não alteram os artigos 1.º e 2.º, mas sim o texto do Plano anexo (parte I, capítulo 5, e um quadro da parte III, capítulo 3), que não está estruturado em artigos com chave. As instruções 1 e 2 vêm fragmentadas (inserção de nova alínea d) PROF com texto possivelmente incompleto e renumeração de d) REN para e)), e a instrução 3 está truncada e incide sobre um quadro; não é seguro aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

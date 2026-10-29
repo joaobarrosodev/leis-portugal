@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:662081:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação das bases I, III, XI, XII, XIII, XVII, XIX e XXVIII não vem no pedido; anexos I e II (plantas/coordenadas) substituídos por anexo não fornecido; revogação da base XV e do n.º 2 da base XIX incide sobre bases do anexo sem chave de artigo e com a base XIX também reescrita sem texto disponível.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

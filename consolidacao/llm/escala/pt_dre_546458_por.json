@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:546458:por",
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "A Casa do Douro, nos termos do disposto no n.º 1 do artigo 3.º da [Lei n.º 43/80](https://diariodarepublica.pt/dr/detalhe/lei/43-1980-471130), de 20 de Agosto, em conformidade com a incumbência definida no n.º 5 do artigo 6.º do [Decreto-Lei n.º 30248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30248-1939-175124), de 30 de Dezembro de 1939, e com as atribuições e competências que lhe são cometidas pela alínea d) do artigo 3.º do [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, deverá conceder o direito a benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, e às vinhas legalizadas ao abrigo da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, desde que preencham as condições constantes dos números seguintes:\n\n1 - A partir da campanha de 1985-1986, atribuição de benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, desde que cumpram o estipulado no artigo 2.º do [Decreto-Lei n.º 464/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1979-367235), de 3 de Dezembro, de acordo com critério de distribuição idêntico ao aplicado às vinhas que já anteriormente detinham esse direito.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

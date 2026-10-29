@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) Reacção adversa: qualquer reacção nociva e involuntária que ocorra nos animais, que, no decurso de acções de diagnóstico, de profilaxia, de terapêutica ou de modificação de funções fisiológicas, tenham sido expostos aos produtos referidos no artigo anterior, nas doses geralmente utilizadas;\n\nb) Reacção adversa grave: reacção adversa que resulta em morte, perigo de vida, invalidez ou incapacidade ou ainda em lesões permanentes ou prolongadas nos animais tratados;\n\nc) Notificação: a informação respeitante à ocorrência de uma reacção nociva e involuntária comunicada ao Sistema ou ao responsável pela introdução no mercado do produto suspeito, através do anexo I ao presente Regulamento.",
+    "depois": "###### Artigo 2.º — Definições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:291436:por",
+    "alterador": "pt:dre:448158:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:219367:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Poderes transferidos",
+      "texto": "Compete a cada universidade, pelo órgão e nos demais termos constantes dos respectivos estatutos:\n\na) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;\n\nb) (Revogada.)\n\nc) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício."
+    }
+  ],
+  "nao_aplicavel": "a instrução refere 'n.º 1' do artigo 1.º, que não tem números; aplicada à alínea b) do corpo",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

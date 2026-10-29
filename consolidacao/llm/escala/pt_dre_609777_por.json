@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:609777:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1 - A Comissão Regional para Igualdade no Trabalho e no Emprego terá a seguinte constituição:\n\na) Dois representantes da secretaria regional com competência na área do trabalho, um dos quais presidirá;\n\nb) Dois representantes das secretarias regionais com competência nos sectores da administração pública e do emprego;\n\nc) Um representante da Comissão para a Igualdade e para os Direitos das Mulheres ou, não existindo, um representante da Presidência da do Governo Regional;\n\nd) Dois representantes das associações patronais;\n\ne) Dois representantes das associações Sindicais.\n\n2 - ...\n\n3 - O apoio administrativo é facultado à Comissão pelas secretarias regionais com competência nos sectores da administração pública do trabalho.\n\n4 - Os encargos com o pessoal e o funcionamento da Comissão são suportados pelos orçamentos das secretarias regionais com a competência nos sectores da administração pública e do trabalho.\n\n5 - É da competência conjunta dos secretários regionais com competência nas áreas da administração pública, trabalho e emprego regulamentar o funcionamento da Comissão."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

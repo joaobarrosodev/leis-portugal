@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:386784:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Composição",
+      "texto": "1 - O Conselho é presidido pelo Ministro da Reforma do Estado e da Administração Pública e tem a seguinte composição:\n\na) Secretário de Estado da Administração Pública e da Modernização Administrativa;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado da Administração Local;\n\nd) Presidente do Instituto Nacional de Administração;\n\ne) Presidente do Centro de Estudos e Formação Autárquica;\n\nf) Presidente do Instituto para a Inovação na Administração do Estado;\n\ng) Director-geral da Administração Pública;\n\nh) Inspector-geral da Administração Pública;\n\ni) Secretário-geral do Ministério da Reforma do Estado e da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento dos Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.\n\n3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa."
+    }
+  ],
+  "nao_aplicavel": "Artigo 4.º não aplicado: o n.º 1 (\"...\") depende de texto original não fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

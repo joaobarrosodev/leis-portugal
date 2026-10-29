@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:491229:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções alteram notas técnicas dos campos 4.1.4.3 e 4.1.4.4 de quadros do anexo que não constam do texto (ver documento original); alteração em quadro.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

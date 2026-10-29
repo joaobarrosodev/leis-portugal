@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:328266:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os chamados «Arquivo Salazar» e «Arquivo Marcelo Caetano», que se encontram presentemente depositados nas instalações da Biblioteca Nacional, de acordo com as disposições do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, são declarados, na universalidade dos bens móveis que os integram, coisa dominial única, constituindo propriedade do Estado Português.\n\n2 - (Revogado.)\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Restantes disposições do diploma revogadas não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

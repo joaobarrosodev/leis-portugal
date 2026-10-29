@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:373453:por",
+  "artigos": [],
+  "nao_aplicavel": "Todas as instruções aditam lugares ao quadro de pessoal (mapa anexo): alteração de quadro/mapa, não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

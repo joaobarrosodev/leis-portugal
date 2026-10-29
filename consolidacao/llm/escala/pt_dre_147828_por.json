@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:147828:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução extingue a Escola Técnica e cria outra escola em substituição; não é alteração textual de nenhum artigo do Decreto-Lei n.º 522/70.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

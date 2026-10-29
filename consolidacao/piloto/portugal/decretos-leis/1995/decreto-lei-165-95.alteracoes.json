@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "106.º-A",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 106.º-A — Celebração do contrato de sociedade\n\n1 - O notário que celebrar a escritura de contrato de constituição de sociedade exigirá, como condição prévia, a apresentação de uma declaração assinada pelos sócios da sociedade a constituir, da qual conste que não exerceram anteriormente funções de administração ou gerência em sociedades que tenham dívidas fiscais por cumprir não reclamadas nem impugnadas.\n\n2 - Se tiver havido exercício anterior de funções de administração ou gerência, o sócio identificará a sociedade que pretende constituir e as sociedades em que anteriormente desempenhou essas funções.\n\nArt. 2.º O artigo 121.º do Código de Processo Tributário passa a ter a seguinte redacção:",
+    "depois": "###### Artigo 106.º-A — Celebração do contrato de sociedade\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 4/96](https://diariodarepublica.pt/dr/detalhe/lei/4-1996-626376), publicado em 1996-02-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:460645:por",
+    "alterador": "pt:dre:626376:por"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. No contrato administrativo de concessão outorgará, por parte do Estado, o Secretário de Estado da Informação e Turismo.\n\n2. Os poderes do concedente no que respeita ao objecto desta concessão serão igualmente exercidos pelo Secretário de Estado da Informação e Turismo, depois de ouvidos, conforme a natureza dos interesses em jogo, os Ministérios competentes.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642956:por",
+    "alterador": "pt:dre:221287:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamentos turísticos e desportivos;\n\nc) Concessão do regime de importação temporária para os equipamentos, ferramentas e utensílios destinados à execução das obras e trabalhos preliminares pelo prazo que para esse efeito for necessário.\n\n2. A isenção prevista na alínea a) do n.º 1 deste artigo não abrange o imposto de transacções nem o imposto extraordinário para defesa e valorização do ultramar.",
+    "depois": "###### Artigo 11.º\n\n1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642956:por",
+    "alterador": "pt:dre:221287:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º\n\n1. A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., constituir-se-á com um capital social inicial de 60000000$00, elevável, por simples deliberação do conselho de administração, até 120000000$00.\n\n2. A participação do sector público e do sector privado no capital social inicial traduzir-se-á, respectivamente, em 31000000$00 e 29000000$00.\n\n3. A participação do sector público será obtida à custa do Fundo de Turismo, da Comissão Regional de Turismo da Serra da Estrela, das câmaras municipais dos concelhos abrangidos na área da concessão e das juntas de freguesia das zonas de actuação da empresa.\n\n4. Os limites da participação da Comissão Regional de Turismo da Serra da Estrela e das autarquias locais no capital social inicial totalizarão, respectivamente, 10000000$00 e 6000000$00.\n\n5. O Fundo de Turismo subscreverá, no capital social inicial, não só os restantes 15000000$00 até ao limite da participação pública de 31000000$00. como ainda a parte do montante das acções atribuídas à Comissão Regional de Turismo da Serra da Estrela e às autarquias locais que não venham a ser efectivamente tomadas por estas entidades.\n\n6. Ficam desde já autorizados os entes públicos a subscrever futuros aumentos de capital, na proporção das respectivas posições iniciais.\n\n7. O Fundo de Turismo goza do direito de preferência no rateio dos aumentos de capital social que couberem aos entes públicos e por estes não subscritos.",
+    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642956:por",
+    "alterador": "pt:dre:221287:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.\n\n2. A Comissão Regional de Turismo da Serra da Estrela e as autarquias locais não poderão negociar as acções que possuam na sociedade.",
+    "depois": "###### Artigo 13.º\n\n1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642956:por",
+    "alterador": "pt:dre:221287:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1. O conselho de administração da sociedade será constituído por cinco administradores, três em representação do sector público e dois em representação do sector privado.\n\n2. Na representação do sector público haverá um administrador pelo Fundo de Turismo, outro pela Comissão Regional de Turismo da Serra da Estrela e o terceiro pelas câmaras municipais e juntas de freguesia.\n\n3. Os dois administradores pelo sector privado serão eleitos em assembleia geral constituída apenas pelos accionistas deste sector.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642956:por",
+    "alterador": "pt:dre:221287:por"
+  }
+]

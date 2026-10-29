@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;\n\nc) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nd) Terem a titularidade da exploração agrícola;\n\ne) Terem um sistema de contabilidade organizada, ou um sistema de contabilidade simplificada, nos termos das normas RICA, ou outros equiparados e reconhecidos para o efeito;\n\nf) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\ng) Não estarem a receber ajudas cujos compromissos ou obrigações sejam incompatíveis com os investimentos propostos, nas parcelas onde estes vão ser realizados.",
+    "depois": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;\n\nc) (Revogada.)\n\nd) Terem a titularidade da exploração agrícola;\n\ne) (Revogada.)\n\nf) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\ng) Não estarem a receber ajudas cujos compromissos ou obrigações sejam incompatíveis com os investimentos propostos, nas parcelas onde estes vão ser realizados.\n\n> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:608067:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+  },
+  {
+    "artigo": "ANEXO::23.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º — Disposições transitórias\n\n1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio ao primeiro concurso em que se enquadrem;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea i) do artigo 9.º",
+    "depois": "###### Artigo 23.º — Disposições transitórias\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:608067:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:445704:por",
+  "artigos": [],
+  "nao_aplicavel": "Revoga o artigo 3.º do Decreto-Lei n.º 61/96, mas este só tem artigos 1.º e 2.º (o artigo 3.º existente é texto do Decreto-Lei n.º 110/93 dentro do artigo 1.º); alvo ambíguo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

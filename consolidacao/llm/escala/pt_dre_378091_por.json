@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:378091:por",
+  "artigos": [
+    {
+      "chave": "1.º-A",
+      "epigrafe": "Gratificação do presidente",
+      "texto": "Ao presidente da comissão instaladora, referida no artigo anterior, poderá ser atribuída uma gratificação, por despacho conjunto dos Secretários Regionais das Finanças, Planeamento e Administração Pública e da Saúde e Segurança Social."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

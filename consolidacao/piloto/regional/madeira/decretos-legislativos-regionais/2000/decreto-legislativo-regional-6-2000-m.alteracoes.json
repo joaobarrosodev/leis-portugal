@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Investimento elegível\n\nPara efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:\n\na) Terrenos, salvo no caso de se destinarem a exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;\n\nb) Edifícios e outras construções não directamente ligadas ao processo produtivo ou às actividades administrativas essenciais;\n\nc) Viaturas ligeiras de passageiros;\n\nd) Artigos de conforto ou de decoração;\n\ne) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada.",
+    "depois": "###### Artigo 3.º — Investimento elegível\n\n1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:\n\na) Terrenos, salvo no caso de se destinarem a exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;\n\nb) Edifícios e outras construções não directamente ligadas ao processo produtivo ou às actividades administrativas essenciais;\n\nc) Viaturas ligeiras de passageiros;\n\nd) Artigos de conforto ou de decoração;\n\ne) Despesas destinadas à aquisição de material de transporte, no sector dos transportes;\n\nf) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada.\n\n2 - Atentas as excepções indicadas, entende-se por investimento elegível o investimento inicial em activo imobilizado corpóreo para a criação de um novo estabelecimento, para a extensão de um estabelecimento existente ou para o arranque de uma actividade que implique uma alteração fundamental do produto ou do processo de produção de um estabelecimento existente através da racionalização, diversificação ou modernização.\n\n3 - Os projectos elegíveis devem ser financeira e economicamente viáveis, sendo fixada em 25% a taxa mínima de comparticipação do beneficiário no financiamento dos mesmos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:417030:por",
+    "alterador": "pt:dre:313842:por"
+  }
+]

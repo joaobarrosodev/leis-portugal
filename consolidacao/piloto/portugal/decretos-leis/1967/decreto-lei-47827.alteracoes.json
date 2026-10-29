@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos serviços pertencentes ou dependentes do Ministério da Saúde e Assistência é fixado em 55 anos.\n\n2. Para pessoal de enfermagem e técnico auxiliar este limite é fixado em 40 anos.",
+    "depois": "###### Artigo 1.º\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313433:por",
+    "alterador": "pt:dre:492675:por"
+  }
+]

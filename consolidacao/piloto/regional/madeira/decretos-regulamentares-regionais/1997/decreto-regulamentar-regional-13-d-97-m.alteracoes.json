@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:230684:por",
     "alterador": "pt:dre:514776:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Estrutura\n\n1 - Os órgãos de concepção e apoio da DRIGE são os seguintes:\n\na) Secretariado;\n\nb) Gabinete Coordenador do Desporto Escolar (GCDE);\n\nc) Gabinete Coordenador de Educação Artística (GCEA);\n\nd) Gabinete Coordenador do Ensino Superior (GCES);\n\ne) Centro de Recursos Educativos (CRE);\n\nf) Gabinete de Apoio Jurídico (GAJ);\n\ng) Repartição Administrativa (RA).\n\n2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.",
+    "depois": "###### Artigo 4.º — Estrutura\n\n1 - Os órgãos de concepção e apoio da DRIGE são os seguintes:\n\na) Secretariado;\n\nb) Gabinete Coordenador do Desporto Escolar (GCDE);\n\nc) Gabinete Coordenador de Educação Artística (GCEA);\n\nd) Gabinete Coordenador do Ensino Superior (GCES);\n\ne) Centro de Recursos Educativos (CRE);\n\nf) Gabinete de Apoio Jurídico (GAJ);\n\ng) Departamento Administrativo (DA).\n\n2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2000-514776), publicado em 2000-03-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230684:por",
+    "alterador": "pt:dre:514776:por"
   }
 ]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:274640:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções 1, 3 e 4 sem o texto da nova redação (arts. 37.º a 41.º e n.º 2 do art. 20.º); instrução 2 com alvo ambíguo ('n.º 2.º do artigo 12.º': o art. 12.º não tem n.º 2.º com alíneas ordinais; pode visar o art. 10.º); instrução 5 altera o art. 10.º na redação do DR 52/84, que não consta do pedido, pelo que o '1 - ...' não se pode preencher com segurança; instrução 6 revoga o n.º 1 do art. 20.º, mas o n.º 2 tem redação posterior (DR 21/79 e 98/82) desconhecida.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

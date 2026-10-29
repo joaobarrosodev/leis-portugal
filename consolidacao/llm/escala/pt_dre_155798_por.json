@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:155798:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução anuncia nova redação dos artigos 1.º e 2.º, mas o texto da nova redação não foi fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO II — (a que se refere o n.º 2.º)::2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Acesso\n\nTêm acesso à linha de crédito as entidades que desenvolvam as culturas agrícolas constantes do anexo I, nas regiões nele definidas, nos termos e condições previstos no [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, e na [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho.",
+    "depois": "###### Artigo 2.º — Acesso\n\n1 - Sem prejuízo do disposto no número seguinte, têm acesso à linha de crédito criada por este diploma os agricultores que desenvolvam as culturas agrícolas constantes do anexo I, nas regiões nele definidas, nos termos e condições previstos no Decreto-Lei n.º 20/96, de 19 de Março, e na Portaria n.º 430/97, de 1 de Julho.\n\n2 - Os agricultores de tomate para a indústria só têm acesso à linha de crédito instituída por este diploma quando a respectiva cultura tiver apresentado quebras de produção iguais ou superiores a 50% do volume de produção que foi previsto nos termos do contrato de compra e venda celebrado entre a produção e a indústria.\n\n> Alterado pelo/a [Portaria n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/15-a-1999-484853), publicado em 1999-01-08.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:245555:por",
+    "alterador": "pt:dre:484853:por"
+  }
+]

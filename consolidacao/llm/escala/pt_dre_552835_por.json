@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:552835:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação do artigo 3.º mantém um n.º 2 ('2 - ...') vindo da Portaria n.º 243/2002, cujo texto não consta do pedido (o original tem só um parágrafo).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

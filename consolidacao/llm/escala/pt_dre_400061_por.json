@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:400061:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução não transcreve as novas redações dos n.os 14.º, 16.º, 35.º e 39.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:554463:por",
     "alterador": "pt:dre:315520:por"
+  },
+  {
+    "artigo": "ANEXO::9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Forma e nível das ajudas\n\n1 - As ajudas são concedidas na forma de pagamento por serviços prestados que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 70% das despesas elegíveis, cabendo aos beneficiários dos serviços prestados pelas entidades suportar os restantes 30%.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.",
+    "depois": "###### Artigo 9.º — Forma e nível das ajudas\n\n1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 70% das despesas elegíveis.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a [Portaria n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007), publicado em 2002-01-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554463:por",
+    "alterador": "pt:dre:583007:por"
   }
 ]

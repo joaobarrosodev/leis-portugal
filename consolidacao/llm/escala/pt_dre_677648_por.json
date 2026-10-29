@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:677648:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução não indica que artigos são alterados nem traz a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

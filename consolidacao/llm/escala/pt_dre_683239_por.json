@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:683239:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Acções de recuperação e reconversão urbanística",
+      "texto": "Compete à Câmara Municipal de Viseu e à Viseu Novo, SRU - Sociedade de Reabilitação Urbana de Viseu, S. A., promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

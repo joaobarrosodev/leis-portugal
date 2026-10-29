@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:551643:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "1 - O presente diploma estabelece um regime especial de registo de prédios situados nos municípios do Corvo, de Lajes das Flores e de Santa Cruz das Flores, bem como dos direitos e ónus ou encargos sobre estes incidentes.\n\n2 - O regime previsto no número anterior é aplicável aos casos de omissão de descrição predial, bem como aos de desactualização do registo por falta de trato sucessivo, desde que se verifique a falta de título que permita estabelecer ou restabelecer o trato sucessivo ou estabelecer um novo trato."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Requerimento",
+      "texto": "1 - O processo é instaurado na conservatória mediante requerimento escrito do interessado, com reconhecimento presencial de assinatura ou assinado na presença do conservador, ou a pedido verbal daquele, reduzido a escrito pelo conservador em auto-requerimento, no qual devem ser especificadas as razões que determinam a omissão ou desactualização do registo, bem como os factos que fundamentam a existência do direito justificando e as circunstâncias que impossibilitam a sua prova, indicando-se ainda os elementos de prova disponíveis.\n\n2 - Juntamente com o requerimento, deve o interessado apresentar:\n\na) Declaração da junta de freguesia respectiva ou, no caso da ilha do Corvo, da respectiva câmara municipal que certifique a veracidade das declarações do requerente e da titularidade do direito cujo registo é pretendido, desde que não sejam apresentados documentos suficientemente probatórios dos factos declarados;\n\nb) Prova da inscrição matricial do prédio ou, no caso de não se encontrar inscrito, da apresentação do requerimento para tal inscrição, aplicando-se-lhe os prazos previstos nos artigos 31.º e 32.º do Código do Registo Predial.\n\n3 - (Eliminado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 4.º, 7.º e 8.º também alterados, mas o seu texto original não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

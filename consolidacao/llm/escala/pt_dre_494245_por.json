@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:494245:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Critérios de elegibilidade dos beneficiários",
+      "texto": "Os candidatos aos apoios previstos no presente Regulamento, devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000.\n\nf) Apresentarem um contrato de parceria onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria;\n\ng) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente quadros com competência, aptidão técnica e experiência para as actividades elegíveis;\n\nh) Comprovarem que a parceria envolve no mínimo dois agentes em que pelo menos um exerce a actividade de produtor primário ou pertence à indústria transformadora."
+    },
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Critérios de elegibilidade das operações",
+      "texto": "1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e promovam a inovação através da cooperação entre os agentes da fileira, de acordo com a seguinte tipologia:\n\na) Concepção de novos produtos, processos e tecnologias;\n\nb) Adaptação evolutiva de processos e tecnologias;\n\nc) Realização de testes de aplicabilidade e operacionalização.\n\n2 - As operações referidas no número anterior devem apresentar impacte a curto ou médio prazo na competitividade do sector agro-florestal ou impacte a longo prazo se relacionadas com o ciclo de vida de povoamentos florestais, e reunir as seguintes condições:\n\na) Apresentar um plano de demonstração e incorporação de resultados com coerência técnica, económica e financeira, de forma integrada desde a concepção até à incorporação no produto ou sector e com uma duração anual ou plurianual;\n\nb) Identificar as empresas potenciais destinatárias dos resultados;\n\nc) Integrar a componente de divulgação ou demonstração de resultados pelos destinatários finais da operação;\n\nd) Assegurar as fontes de financiamento de capital alheio.\n\n3 - Não são elegíveis, para efeitos do presente Regulamento, as operações relativas a actividades de investigação fundamental.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.\n\n5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas."
+    }
+  ],
+  "nao_aplicavel": "Artigos 9.º, 11.º, 12.º, 13.º e 15.º e anexos da Portaria n.º 814/2010 não constam do original; revogação do n.º 35 do anexo I não aplicada; instruções da Portaria n.º 228/2011 e n.º 253/2013 sem texto da nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:545630:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução suprime a alínea f) do n.º 1 do artigo 7.º e anuncia nova redação do artigo, mas o texto dessa redação não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

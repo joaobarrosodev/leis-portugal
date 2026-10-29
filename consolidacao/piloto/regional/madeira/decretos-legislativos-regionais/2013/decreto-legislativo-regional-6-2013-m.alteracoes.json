@@ -110,5 +110,19 @@
     "unidade": [],
     "diploma": "pt:dre:257858:por",
     "alterador": "pt:dre:108139586:por"
+  },
+  {
+    "artigo": "4.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 4.º-A — Habilitações de base adequadas\n\n1 - Consideram-se, para efeitos do disposto no artigo anterior, habilitações académicas de base adequadas as seguintes:\n\na) Licenciatura em Direito;\n\nb) Licenciatura nas áreas da Criminologia e Justiça Criminal;\n\nc) Licenciatura nas áreas de Economia ou Gestão, designadamente, Economia, Gestão, Gestão e Administração Pública, Contabilidade ou Contabilidade e Finanças;\n\nd) Licenciatura em Medicina Veterinária;\n\ne) Licenciatura nas áreas da Farmácia ou Ciências Farmacêuticas;\n\nf) Licenciatura nas áreas da Química;\n\ng) Licenciatura nas áreas da Biologia;\n\nh) Licenciatura nas áreas da Ciência e Tecnologia Alimentar, e da Tecnologia e Segurança Alimentar;\n\ni) Licenciatura na área de Produção Alimentar em Restauração, e na área de Qualidade Alimentar e Nutrição;\n\nj) Licenciatura nas áreas da Engenharia Civil, Engenharia Mecânica, Engenharia Informática, Engenharia Eletrotécnica e Engenharia Eletrónica.\n\n2 - Excecionalmente, podem ingressar na carreira de inspetor superior os inspetores técnicos ou inspetores adjuntos, com grau de licenciatura e com 10 anos de carreira inspetiva, ainda que não possuam licenciatura numa das áreas mencionadas no número anterior.\n\n> Aditado pelo/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:257858:por",
+    "alterador": "pt:dre:108139586:por"
   }
 ]

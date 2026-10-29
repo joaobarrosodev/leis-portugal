@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Servidões e restrições de utilidade pública\n\n1 - Na área de intervenção do Plano verificam-se as seguintes servidões e restrições de utilidade pública:\n\na) Reserva Ecológica Regional (proposta), reportada à preservação e defesa do ambiente natural;\n\nb) Zonas de protecção a monumentos, imóveis de interesse público e valores concelhios reportados à defesa do património cultural;\n\nc) Servidões reportadas à defesa e protecção das seguintes infra-estruturas:\n\nAeronáuticas;\n\nPortuárias;\n\nRadioeléctricas;\n\nViárias;\n\nEléctricas;\n\nSaneamento básico;\n\nFaróis;\n\nMarcos geodésicos;\n\nd) Servidões de protecção aos estabelecimentos escolares, prisionais, cemitérios e ao Observatório Meteorológico de Ponta Delgada.\n\n2 - Todas as áreas de servidão existentes encontram-se assinaladas no cartograma n.º 19 («Condicionantes - Servidões e restrições de utilidade pública»), à escala de 1:10000.",
+    "depois": "###### Artigo 8.º — Servidões e restrições de utilidade pública\n\n1 - Na área de intervenção do Plano verificam-se as seguintes servidões e restrições de utilidade pública:\n\na) (Revogada.)\n\nb) Zonas de protecção a monumentos, imóveis de interesse público e valores concelhios reportados à defesa do património cultural;\n\nc) Servidões reportadas à defesa e protecção das seguintes infra-estruturas:\n\nAeronáuticas;\n\nPortuárias;\n\nRadioeléctricas;\n\nViárias;\n\nEléctricas;\n\nSaneamento básico;\n\nFaróis;\n\nMarcos geodésicos;\n\nd) Servidões de protecção aos estabelecimentos escolares, prisionais, cemitérios e ao Observatório Meteorológico de Ponta Delgada.\n\n2 - Todas as áreas de servidão existentes encontram-se assinaladas no cartograma n.º 19 («Condicionantes - Servidões e restrições de utilidade pública»), à escala de 1:10000.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 16/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2007-636958), publicado em 2007-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:583247:por",
+    "alterador": "pt:dre:636958:por"
+  },
+  {
+    "artigo": "48.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 48.º — Categorias dos espaços urbanizáveis\n\nDe acordo com o uso indicado na planta de zonamento - cartograma n.º 33 - os espaços urbanizáveis subdividem-se em:\n\n1) Zonas de expansão urbana - ZEU;\n\n2) Zonas de equipamentos colectivos propostos.",
+    "depois": "###### Artigo 48.º — Categorias dos espaços urbanizáveis\n\nDe acordo com o uso indicado na planta de zonamento - cartograma n.º 33 - os espaços urbanizáveis subdividem-se em:\n\n1) (Revogado.)\n\n2) Zonas de equipamentos colectivos propostos.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 16/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2007-636958), publicado em 2007-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:583247:por",
+    "alterador": "pt:dre:636958:por"
+  },
+  {
+    "artigo": "74.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 74.º — Categorias dos espaços-canais\n\nIdentificam-se as seguintes categorias:\n\n1 - Infra-estruturas aeronáuticas e portuárias. - São dadas pelas principais infra-estruturas marítimas e aéreas de transporte e comunicação no território:\n\na) O Aeroporto de Ponta Delgada;\n\nb) O actual porto comercial;\n\nc) O futuro porto de pesca.\n\n2 - Infra-estruturas rodoviárias. - São constituídas pela rede rodoviária existente e proposta. Atendendo às suas características, subdividem-se em:\n\na) Vias com função regional identificadas no cartograma n.º 33 como:\n\nVia circular existente;\n\nVias urbanas principais;\n\nb) Vias com função municipal identificadas no cartograma n.º 33 como vias urbanas secundárias;\n\nc) Principais cruzamentos, inserções viárias e nós viários propostos;\n\nd) Parques de estacionamento.",
+    "depois": "###### Artigo 74.º — Categorias dos espaços-canais\n\nIdentificam-se as seguintes categorias:\n\n1 - (Revogado.)\n\n2 - Infra-estruturas rodoviárias. - São constituídas pela rede rodoviária existente e proposta. Atendendo às suas características, subdividem-se em:\n\na) Vias com função regional identificadas no cartograma n.º 33 como:\n\nVia circular existente;\n\nVias urbanas principais;\n\nb) Vias com função municipal identificadas no cartograma n.º 33 como vias urbanas secundárias;\n\nc) Principais cruzamentos, inserções viárias e nós viários propostos;\n\nd) Parques de estacionamento.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 16/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2007-636958), publicado em 2007-08-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:583247:por",
+    "alterador": "pt:dre:636958:por"
+  }
+]

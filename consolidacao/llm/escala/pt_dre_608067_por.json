@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:608067:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Critérios de elegibilidade dos beneficiários",
+      "texto": "Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;\n\nc) (Revogada.)\n\nd) Terem a titularidade da exploração agrícola;\n\ne) (Revogada.)\n\nf) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\ng) Não estarem a receber ajudas cujos compromissos ou obrigações sejam incompatíveis com os investimentos propostos, nas parcelas onde estes vão ser realizados."
+    },
+    {
+      "chave": "ANEXO::23.º",
+      "epigrafe": "Disposições transitórias",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 7.º e 10.º: a Portaria n.º 814/2010 deu-lhes nova redação cujo texto não consta da instrução, pelo que as revogações e a alteração posterior (Portaria n.º 228/2011, que pressupõe n.os 4 e 5 inexistentes no original) não se podem aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

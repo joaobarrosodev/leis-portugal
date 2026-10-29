@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:575148:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Redações intermédias do artigo 4.º (Leis n.os 39-B/94, 52-C/96, 87-B/98 e 3-B/2000) ficam prejudicadas pela revogação do artigo pela Lei n.º 30-G/2000.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

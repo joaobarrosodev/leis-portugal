@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Taxas\n\nNos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º [479/2008](http://data.europa.eu/eli/reg/2008/479/oj?locale=pt), do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 2000/ha.",
+    "depois": "###### Artigo 4.º — Taxas\n\nNos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º 479/2008, do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 1000/ha.»\n\n> Alterado pelo/a [Portaria n.º 792/2009](https://diariodarepublica.pt/dr/detalhe/portaria/792-2009-492979) e [Portaria n.º 1155/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1155-2009-491196), publicado em 2009-10-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453272:por",
+    "alterador": "pt:dre:492979:por;pt:dre:491196:por"
+  }
+]

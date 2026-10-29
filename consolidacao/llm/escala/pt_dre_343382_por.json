@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:343382:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Modelo de receita médica",
+      "texto": "1 - É aprovado o novo modelo de receita médica, que consta do anexo ao presente diploma.\n\n2 - (Revogado.)\n\n3 - Os modelos de receita médica actualmente em uso poderão continuar a ser utilizados até escoamento dos stocks, devendo o médico prescritor justificar transitoriamente a sua opção técnica pela marca comercial em documento anexo à receita."
+    }
+  ],
+  "nao_aplicavel": "A revogação do anexo (modelo de receita) não se aplica a artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
