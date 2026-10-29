@@ -1,14 +1,14 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-10-28 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-10-29 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 340407
-- Documentos validados: 340407
+- Documentos recolhidos: 340418
+- Documentos validados: 340418
 - Fontes registadas: 4
 - Fontes operacionais: 2
 
@@ -16,8 +16,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 35600 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 304807 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
+| eurlex-cellar | operational | permitted_with_conditions | 35609 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 304809 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
 | parlamento | planned | unresolved | 0 | — |
 | cnpd | planned | unresolved | 0 | — |
 
@@ -25,8 +25,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 35600 |
-| portugal | 274261 |
+| european_union | 35609 |
+| portugal | 274263 |
 | regional | 30546 |
 
 ## Por região
@@ -35,7 +35,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | acores | 26995 |
 | madeira | 3551 |
-| nacional | 309861 |
+| nacional | 309872 |
 
 ## Por tipo de diploma
 
@@ -44,17 +44,17 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | portaria | 114563 |
 | decreto | 47478 |
 | decreto-lei | 31714 |
-| regulation | 22744 |
+| regulation | 22750 |
 | declaracao-retificacao | 17441 |
 | resolucao | 15239 |
 | despacho-normativo | 13623 |
 | aviso | 12775 |
-| decision | 8724 |
+| decision | 8727 |
 | declaracao | 8417 |
 | resolucao-conselho-ministros | 6900 |
 | lei | 6715 |
 | decreto-presidente-republica | 6060 |
-| resolucao-assembleia-republica | 4899 |
+| resolucao-assembleia-republica | 4901 |
 | directive | 4132 |
 | despacho | 3273 |
 | decreto-regulamentar-regional | 2602 |
@@ -157,14 +157,14 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | Versão | Documentos |
 |---|---:|
 | consolidated | 10779 |
-| original | 329628 |
+| original | 329639 |
 
 ## Origem do texto
 
 | Origem | Documentos |
 |---|---:|
 | importacao_inicial | 1 |
-| recolha_direta | 340406 |
+| recolha_direta | 340417 |
 
 ## Qualidade do texto (texto pesquisável, só PDF oficial ou só metadados)
 
@@ -172,33 +172,33 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | metadados | 24028 |
 | pdf | 69851 |
-| texto | 246528 |
+| texto | 246539 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 172732 |
-| not_in_force | 38036 |
+| in_force | 172735 |
+| not_in_force | 38043 |
 | partially_in_force | 777 |
 | repealed | 14656 |
-| unknown | 114206 |
+| unknown | 114207 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
 | amended_by | 167417 |
-| amends | 33548 |
-| based_on | 47959 |
+| amends | 33551 |
+| based_on | 47969 |
 | cited_by | 26682 |
-| cites | 655551 |
+| cites | 655585 |
 | corrected_by | 24987 |
 | corrects | 816 |
 | implicitly_repeals | 7872 |
 | interpreted_by | 9576 |
 | repealed_by | 46364 |
-| repeals | 9948 |
+| repeals | 9950 |
 | republished_by | 35 |
 | republishes | 12 |
 | transposed_by | 2098 |
@@ -365,7 +365,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 2023 | 6295 |
 | 2024 | 6280 |
 | 2025 | 6232 |
-| 2026 | 6007 |
+| 2026 | 6018 |
 
 ## Falhas de recolha registadas
 
