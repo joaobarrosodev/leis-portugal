@@ -71,12 +71,22 @@ def pontuar(p: dict, consulta: Consulta, resposta: Resposta) -> dict:
     fonte = p.get("fonte")
     pos_artigo = pos_texto = None
     if fonte:
-        excerto = normalizar(p.get("excerto") or "")
+        # Compostas têm vários artigos e vários excertos: a posição é a do último a aparecer (todos têm de estar).
+        composta = p["tipo"] == "composta"
+        alvos = [a["artigo"] for a in fonte["artigos"]] if composta else [fonte["artigo"]]
+        excertos = [normalizar(e) for e in p["excerto"]] if composta else [normalizar(p.get("excerto") or "")]
+        pa: list[int | None] = [None] * len(alvos)
+        pt: list[int | None] = [None] * len(alvos)
         for n, r in enumerate(consulta.resultados, 1):
-            if r.documento == fonte["documento"] and r.chave == fonte["artigo"]:
-                pos_artigo = pos_artigo or n
-                if excerto in normalizar(r.texto):
-                    pos_texto = pos_texto or n
+            if r.documento != fonte["documento"]:
+                continue
+            for i, alvo in enumerate(alvos):
+                if r.chave == alvo:
+                    pa[i] = pa[i] or n
+                    if i < len(excertos) and excertos[i] in normalizar(r.texto):
+                        pt[i] = pt[i] or n
+        pos_artigo = max(pa) if all(pa) else None
+        pos_texto = max(pt) if all(pt) else None
     topo = consulta.resultados[0] if consulta.resultados else None
     avisa_revogacao = bool(topo and topo.revogado_por) or bool(topo and any("revogad" in a.lower() for a in topo.avisos))
     revogado_por_certo = bool(topo and p.get("revogado_por") and p["revogado_por"]["documento"] in topo.revogado_por)
@@ -94,7 +104,8 @@ def pontuar(p: dict, consulta: Consulta, resposta: Resposta) -> dict:
     elif not resposta.responde:
         certa = False
     elif resposta.com_llm:
-        citado = any(r.documento == fonte["documento"] and (r.chave == fonte["artigo"] or p["tipo"] == "revogada") for r in resposta.citacoes)
+        alvos = [a["artigo"] for a in fonte["artigos"]] if p["tipo"] == "composta" else [fonte["artigo"]]
+        citado = any(r.documento == fonte["documento"] and (r.chave in alvos or p["tipo"] == "revogada") for r in resposta.citacoes)
         if p["tipo"] == "revogada":
             certa = citado and "revogad" in resposta.texto.lower() and p["revogado_por"]["titulo"].split("n.º")[-1].strip() in resposta.texto
         else:
@@ -107,7 +118,7 @@ def pontuar(p: dict, consulta: Consulta, resposta: Resposta) -> dict:
         "tipo": p["tipo"],
         "pergunta": p["pergunta"],
         "data": p["data_referencia"],
-        "fonte": f"{fonte['titulo']} › {fonte['artigo']}" if fonte else None,
+        "fonte": (f"{fonte['titulo']} › {fonte['artigo'] if 'artigo' in fonte else ' + '.join(a['artigo'] for a in fonte['artigos'])}") if fonte else None,
         "posicao_artigo": pos_artigo,
         "posicao_texto": pos_texto,
         "topo": topo.rotulo if topo else None,

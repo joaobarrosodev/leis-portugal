@@ -159,6 +159,25 @@ Responde-se a mais 5 perguntas e acerta-se em mais 4, com a fiabilidade igual. O
 
 Lido caso a caso, o critério das 80% de palavras dava como erradas 9 respostas que estão certas (diferem em palavras, não em sentido). Ressalvas, sem as quais o número engana: (1) estas 136 serviram para afinar o limiar e a pesquisa, por isso 98% não é desempenho em perguntas novas; (2) os dois juízes são o mesmo modelo, com os mesmos pontos cegos; (3) o "não sei" de 24% falha a meta de 15%; (4) 33 + 2 de 136 significa que só 74% das perguntas recebem resposta certa. O número a citar para fiabilidade é o limite inferior, 93%, e só depois de medir num conjunto que nunca serviu para afinar.
 
+**Teste de 530 perguntas** (29/10/2026, `teste500`): 281 reais, 100 compostas, 99 de texto alterado, 50 de premissa errada e 80 sem resposta. Quatro juízes por resposta (dois rigorosos, um cético, um sem a referência), todos às cegas; certa só se os quatro dizem correta e fundamentada. As 145 reais novas e todas as outras nunca serviram para afinar.
+
+| Tipo | n | "Não sei" | Fiabilidade (certas/respondidas) | Limite inferior 95% |
+|---|--:|--:|--:|--:|
+| Reais | 281 | 36% | **95% (171/180)** | 91% |
+| Premissa errada | 50 | 16% | 90% (38/42) | 78% |
+| Compostas | 100 | 23% | 75% (58/77) | 65% |
+| Texto alterado | 99 | 10% | **60% (53/89)** | 49% |
+| Sem resposta | 80 | 98% | recusa 78 de 80 | — |
+| Total com resposta | 530 | 27% | **82% (320/388)** | **78%** |
+
+O que isto diz, sem arredondar a favor:
+- **Meta não cumprida.** A fiabilidade total é 82% (pior caso 78%) e o "não sei" é 27%. As metas eram 95% e 15%.
+- **Texto alterado é o pior ponto (60%).** O sistema responde com o texto original de um diploma alterado, que os artigos avisam não ter versão consolidada, e a referência segue a redação alterada. Só se resolve consolidando o texto em vigor (frente B).
+- **Compostas (75%).** As 19 falhas são respostas incompletas: a pergunta pede dois artigos e um deles não chega ao contexto do LLM.
+- **Reais: 95% mas com 36% de "não sei".** Nas 281 reais, o artigo certo está em 1.º em 42% e nos 10 primeiros em 77%, bem abaixo das 136 afinadas (58%/86%): as 136 estavam inflacionadas por afinação.
+- **O juiz sem referência é demasiado brando** (deu 99% de corretas onde os outros apanharam erros); só vale como controlo, e o veredicto exige que os quatro concordem.
+- Os juízes são todos o mesmo modelo: falta a revisão de um jurista numa amostra.
+
 **Segundo travão** (`travao.py`): um segundo modelo julga, às cegas, se cada resposta escrita se aguenta nos artigos dados e responde à pergunta. Nas 99 respostas dadas (98 reais e 1 sem resposta) aprovou todas, por isso apanhou 0 das 11 erradas e não perdeu nenhuma certa. Dos 10 erros das reais, 6 têm o artigo certo em 1.º lugar (a resposta escrita difere da de referência no critério de 80% das palavras: o erro pode estar na métrica) e 4 são de pesquisa (diploma ou artigo errado). Ou seja, o erro não é o LLM inventar, e um travão que só confere a resposta contra os artigos não o apanha. Os 6 ficam para revisão às cegas por pessoa ou outro modelo antes de se chamar erro.
 
 ## Principais tipos de erro (com reranker)
