@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:616837:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "Caução",
+      "texto": "1 - No prazo a indicar com a notificação referida no n.º 2 do artigo anterior, os concorrentes seleccionados terão de entregar ao júri documento comprovativo de ter sido prestada caução a favor do Estado Português no montante de 5400000000$00 por depósito em dinheiro, seguro-caução ou garantia bancária nos termos do anexo III sob pena de serem excluídos.\n\n2 - A caução prestada pelo concorrente adquirente extingue-se com o pagamento integral do preço e a dos outros concorrentes, com a homologação do adquirente.\n\n3 - A caução referida nos números anteriores não poderá ser directa ou indirectamente prestada pelo Banco Fonsecas & Burnay ou por entidade em que aquele participe em mais de 10% do capital da sociedade."
+    }
+  ],
+  "nao_aplicavel": "Instruções 2 a 4 incidem sobre os anexos I e III do caderno de encargos (modelos, não artigos); a da instrução 2 cita texto que não coincide com o original ('Mais informo que, nos termos').",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "22.º: parágrafo que não está no alterador nem no original: 1 - No prazo a indicar com a notificação referida no n.º 2 do artigo anterior, o"
+  ]
+}

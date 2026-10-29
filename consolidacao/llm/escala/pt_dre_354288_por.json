@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:354288:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções alteram apenas o quadro de pessoal (mapas anexos IV-A, IV-B e mapa do DRR 12/99/A), não o texto dos artigos; os mapas não estão disponíveis.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

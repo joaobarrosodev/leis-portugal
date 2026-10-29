@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:424144:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução (Portaria n.º 493-A/96) adita um artigo 36.º-A mas o texto do novo artigo não consta do pedido; a Portaria n.º 336-A/96 não traz instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

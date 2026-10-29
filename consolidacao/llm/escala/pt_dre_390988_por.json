@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:390988:por",
+  "artigos": [],
+  "nao_aplicavel": "DL 30/70: a nova redação dos artigos 4.º e 5.º não consta da instrução; DL 530/74 e DL 399-B/84 sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:408534:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do DL 44-D/2010 e do DL 111/2015 (alteração, aditamento e revogação de bases do anexo) só trazem o proémio, sem a nova redação das bases; as revogações parciais incidem sobre bases já alteradas/aditadas (ex.: alínea nnn) da base I, base LXV-A) cujo texto não é fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

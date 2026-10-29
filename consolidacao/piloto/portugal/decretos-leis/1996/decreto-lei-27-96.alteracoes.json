@@ -14,5 +14,19 @@
     ],
     "diploma": "pt:dre:547031:por",
     "alterador": "pt:dre:421630:por"
+  },
+  {
+    "artigo": "ANEXO — ESTATUTOS DA FUNDAÇÃO AGA KHAN PORTUGAL::3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Sede e duração\n\nA Fundação tem a sua sede, provisoriamente, na Rua de Francisco Andrade, 12, em Lisboa, e durará por tempo ilimitado, podendo criar delegações ou quaisquer outras formas de representação onde for julgado conveniente para o cumprimento dos seus fins.",
+    "depois": "###### Artigo 3.º — Sede e duração\n\nA Fundação tem a sua sede no Centro Ismaili, sito à Avenida Lusíada, em Lisboa, e durará por tempo ilimitado, podendo ser deslocada por deliberação do conselho de administração, sendo-lhe permitido, igualmente, criar delegações ou quaisquer outras formas de representação onde for julgado conveniente para o cumprimento dos seus fins.\n\n> Alterado pelo/a [Decreto-Lei n.º 213/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1999-309004), publicado em 1999-06-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:547031:por",
+    "alterador": "pt:dre:309004:por"
   }
 ]

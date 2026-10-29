@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:153107:por",
+  "artigos": [],
+  "nao_aplicavel": "Texto da nova redação dos artigos 1.º, 4.º, 5.º, 7.º, 8.º e 15.º não consta das instruções; nada a aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

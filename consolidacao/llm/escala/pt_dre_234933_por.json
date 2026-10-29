@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:234933:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução anuncia nova redação do § 2.º do artigo 1.º mas o texto não consta do pedido; DL 227/83 sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

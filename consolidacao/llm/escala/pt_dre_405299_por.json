@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:405299:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Avales e outras garantias",
+      "texto": "É fixado em (euro) 95000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores."
+    }
+  ],
+  "nao_aplicavel": "Alteração dos mapas I a V (anexos) não aplicada",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

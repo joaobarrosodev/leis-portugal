@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:570507:por",
+  "artigos": [
+    {
+      "chave": "19.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instruções 1 e 2 (estatutos) sem texto; a nova redação dos artigos 1.º, 3.º e 12.º (instrução 4) e a revogação do artigo 5.º (instrução 5) são do decreto-lei, mas os artigos 1.º, 3.º e 5.º fornecidos são os dos estatutos: alvo ambíguo, não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

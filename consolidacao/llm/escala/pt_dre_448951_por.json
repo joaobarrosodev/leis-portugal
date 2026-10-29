@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:448951:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "Acumulação de funções",
+      "texto": "Consideram-se exercidas por inerência as funções de membros dos órgãos sociais da Polis Litoral - Ria Formosa, S. A., desempenhadas por titulares de cargos de direcção em entidades ou organismos da administração directa ou indirecta do Estado com atribuições nas áreas compreendidas no objecto da empresa, quando para tal sejam designados nos termos dos estatutos e da lei aplicável."
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Direcção e coordenação",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

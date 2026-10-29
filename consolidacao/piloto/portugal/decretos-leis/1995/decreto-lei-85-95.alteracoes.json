@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Duração\n\nO regime de instalação cessa decorridos três anos sobre a entrada em vigor do presente diploma.",
+    "depois": "###### Artigo 24.º — Duração\n\nO regime de instalação cessa em 19 de Dezembro de 1999.\n\n> Alterado pelo/a [Decreto-Lei n.º 38/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1998-210976) e [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223183:por",
+    "alterador": "pt:dre:210976:por;pt:dre:684846:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Centro Científico e Cultural de Macau\n\nÉ criado o Centro Científico e Cultural de Macau, adiante designado por Centro, pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, no âmbito do Ministério do Planeamento e da Administração do Território.",
+    "depois": "###### Artigo 1.º — Centro Científico e Cultural de Macau\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 38/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1998-210976) e [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223183:por",
+    "alterador": "pt:dre:210976:por;pt:dre:684846:por"
+  },
+  {
+    "artigo": "25.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 25.º — Articulação com o departamento governamental\n\nresponsável pela área da cultura\n\nAs atribuições cometidas ao Centro nas alíneas c) e e) do n.º 2 do artigo 3.º do presente diploma são exercidas em coordenação com o departamento responsável pela área da cultura.\n\nVisto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel de Morais Briosa e Gala - Luís Francisco Valente de Oliveira - Luís Manuel Gonçalves Marques Mendes.\n\nPara publicação no Boletim Oficial de Macau.\n\nPromulgado em 17 de Março de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Março de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "depois": "###### Artigo 25.º — Articulação com o departamento governamental responsável pela área da cultura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 38/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1998-210976) e [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.\n\nVisto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel de Morais Briosa e Gala - Luís Francisco Valente de Oliveira - Luís Manuel Gonçalves Marques Mendes.\n\nPara publicação no Boletim Oficial de Macau.\n\nPromulgado em 17 de Março de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Março de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223183:por",
+    "alterador": "pt:dre:210976:por;pt:dre:684846:por"
+  }
+]

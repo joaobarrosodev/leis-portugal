@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:584407:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem o proémio e alteram o quadro de pessoal (mapa), sem nova redação de artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

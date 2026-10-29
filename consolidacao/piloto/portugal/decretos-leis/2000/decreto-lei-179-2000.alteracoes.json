@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Provas públicas\n\n1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará um júri composto por cinco membros, dos quais quatro serão membros do Conselho Superior da Magistratura e um será psicólogo, presidido pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.\n\n2 - Para a avaliação das provas escritas, o júri poderá cooptar outros elementos de entre docentes universitários dos cursos de Direito ou juízes conselheiros ou desembargadores.",
+    "depois": "###### Artigo 5.º — Provas públicas\n\n1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará uma comissão de avaliação composta por cinco elementos, todos membros do Conselho Superior da Magistratura, e presidida pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.\n\n2 - Para a realização e avaliação das provas escritas e orais, a comissão de avaliação cooptará outros elementos de entre docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos.\n\n3 - A comissão de avaliação constituirá com os docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos cooptados para o efeito, júris compostos por cinco membros, de entre os quais um será, obrigatoriamente, nomeado presidente de júri e outro será psicólogo, com vista à realização e avaliação simultânea das provas públicas orais, podendo fazer parte desses júris os elementos da referida comissão de avaliação.\n\n4 - O perfil psicológico e emocional do candidato que se revele inadequado ao exercício temporário das funções de juiz será impeditivo desse exercício, mediante parecer técnico do psicólogo, que não terá carácter vinculativo, e deliberação favorável e devidamente fundamentada do júri respectivo.\n\n> Alterado pelo/a [Decreto-Lei n.º 320-D/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-d-2000-393232), publicado em 2000-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339396:por",
+    "alterador": "pt:dre:393232:por"
+  }
+]

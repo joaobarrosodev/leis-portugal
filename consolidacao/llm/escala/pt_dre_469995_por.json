@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:469995:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução (Decreto-Lei n.º 49235) só traz o proémio, sem o texto da nova redação do artigo 11.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

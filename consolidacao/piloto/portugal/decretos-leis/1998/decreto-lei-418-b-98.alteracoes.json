@@ -112,5 +112,19 @@
     "unidade": [],
     "diploma": "pt:dre:570507:por",
     "alterador": "pt:dre:319899:por"
+  },
+  {
+    "artigo": "19.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — Conselho consultivo\n\n1 - A sociedade tem um conselho consultivo, constituído por um máximo de 18 membros, eleitos em assembleia geral e cujo mandato coincide com o mandato dos órgãos sociais.\n\n2 - Os membros do conselho consultivo são eleitos de entre individualidades da vida cultural portuguesa com especial prestígio e competência nas diversas áreas da actividade da sociedade, designadamente nas áreas da arquitectura e urbanismo, história e sociologia urbanas, artes plásticas, música, cinema, vídeo, teatro e outras artes performativas.",
+    "depois": "###### Artigo 19.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899) e [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570507:por",
+    "alterador": "pt:dre:319899:por;pt:dre:158620:por"
   }
 ]

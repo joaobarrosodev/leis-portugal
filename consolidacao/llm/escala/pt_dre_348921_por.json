@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:348921:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::3.º",
+      "epigrafe": "Estrutura do ano comum",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO — Programa de formação do ano comum::4.º",
+      "epigrafe": "Duração dos blocos formativos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A Portaria n.º 268/2018 revoga todo o programa formativo anexo, pelo que os artigos 3.º e 4.º ficam revogados (as alterações de 2011 e 2013 ficam sem efeito no texto final).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

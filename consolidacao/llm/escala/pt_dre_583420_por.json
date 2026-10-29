@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:583420:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 incompleta (sem o texto a substituir); instrução 2 refere um n.º 1 terminado em 'aplicada;' que não existe no artigo 22.º fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

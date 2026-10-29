@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:481738:por",
+  "artigos": [
+    {
+      "chave": "ANEXO A — Regulamento do programa IDEIA - Apoio à Investigação e Desenvolvimento Empresarial Aplicado::2.º",
+      "epigrafe": "Âmbito",
+      "texto": "1 - Os projectos a apoiar no âmbito do presente Regulamento inserem-se em actividades de investigação e desenvolvimento tecnológico, envolvendo empresas e entidades do Sistema Científico e Tecnológico Nacional (SCTN), associadas mediante um contrato de consórcio, com vista ao desenvolvimento de novos produtos, processos ou serviços.\n\n2 - As empresas do sector primário não serão objecto de apoio no âmbito do presente Regulamento."
+    }
+  ],
+  "nao_aplicavel": "Artigos 7.º, 12.º, 14.º e 15.º do Regulamento (Portaria n.º 1008/2003) não constam dos artigos do original fornecidos (redação da Portaria n.º 437/2003 desconhecida); não aplicados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

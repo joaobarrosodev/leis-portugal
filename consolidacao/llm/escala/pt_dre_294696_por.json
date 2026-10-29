@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:294696:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Indeferimento das candidaturas",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Instrução 1 não traz a nova redação dos artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º e 13.º; aplicada só a revogação do artigo 9.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

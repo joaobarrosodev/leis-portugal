@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:527201:por",
     "alterador": "pt:dre:603752:por"
+  },
+  {
+    "artigo": "ANEXO::17.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 17.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril, e ocorre uma vez por mês.\n\n2 - Em cada mês são decididas as candidaturas apresentadas no 2.º mês antecedente.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n4 - As demais candidaturas são hierarquizadas de acordo com os seguintes critérios:\n\na) Investimentos que visem maioritariamente actividades ou áreas prioritárias e, entre estes, os seguintes:\n\ni) Projectos de jovens agricultores em primeira instalação;\n\nii) Projectos estruturantes;\n\niii) Outros projectos - de acordo com o valor obtido nos termos da alínea b) do anexo IV;\n\nb) Investimentos que visem outras actividades ou áreas - de acordo com a pontuação obtida nos termos da alínea b) do anexo IV.\n\n5 - Para efeitos da alínea a) do número anterior, consideram-se actividades ou áreas prioritárias as seguintes:\n\na) Olivicultura;\n\nb) Fruticultura, horticultura e floricultura;\n\nc) Pecuária em regime extensivo, nos termos do anexo VI;\n\nd) Bovinicultura de leite (apenas quando associada a aspectos de melhoria da qualidade e que não impliquem aumento de capacidade);\n\ne) Ambiente.\n\n6 - As candidaturas são aprovadas em função da dotação orçamental definida para cada mês.\n\n7 - São recusadas as candidaturas que não obtenham cobertura orçamental em dois meses consecutivos.",
+    "depois": "###### Artigo 17.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril, e ocorre uma vez por mês.\n\n2 - Em cada mês são decididas as candidaturas apresentadas no 2.º mês antecedente.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n4 - As demais candidaturas são hierarquizadas de acordo com os seguintes critérios:\n\na) Instalação de jovens agricultores associada a, por ordem de prioridade:\n\ni) Investimentos que visem maioritariamente actividades ou área prioritárias;\n\nii) Outros investimentos;\n\niii) Cessação de actividade;\n\nb) Investimentos que visem maioritariamente actividades ou áreas prioritárias e, entre estes, os seguintes:\n\ni) Projectos estruturantes;\n\nii) Outros projectos - de acordo com o valor obtido nos termos da alínea b) do anexo IV;\n\nc) Investimentos que visem outras actividades ou áreas - de acordo com a pontuação obtida nos termos da alínea b) do anexo IV.\n\n5 - Para efeitos do número anterior, consideram-se actividades ou áreas prioritárias as seguintes:\n\na) Olivicultura;\n\nb) Fruticultura, horticultura e floricultura;\n\nc) Pecuária em regime extensivo, nos termos do anexo VI;\n\nd) Bovinicultura de leite (apenas quando associada a aspectos de melhoria da qualidade e que não impliquem aumento de capacidade);\n\ne) Ambiente.\n\n6 - As candidaturas são aprovadas em função da dotação orçamental definida para cada mês.\n\n7 - São recusadas as candidaturas que não obtenham cobertura orçamental em dois meses consecutivos.\n\n> Alterado pelo/a [Portaria n.º 887/2005](https://diariodarepublica.pt/dr/detalhe/portaria/887-2005-147624), publicado em 2005-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:527201:por",
+    "alterador": "pt:dre:147624:por"
   }
 ]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:601311:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução 1 altera só a designação (título) da lei; a instrução 2 (nova redacção do artigo 1.º) não traz o texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

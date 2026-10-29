@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:361499:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Património",
+      "texto": "1 - Por deliberação da assembleia geral, o património activo e passivo da EPAC Comercial, S. A., que remanescer das operações de liquidação efectuadas pela comissão liquidatária será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A Direcção-Geral do Tesouro, em representação do Estado, sucederá à EPAC Comercial, em todas as relações jurídicas contratuais e processuais que esta integre à data da sua extinção.\n\n3 - A Direcção-Geral do Tesouro ficará depositária dos livros, documentos e demais elementos de escrituração da EPAC Comercial, S. A.\n\n4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, transferirá para o património do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) o património imobiliário remanescente das operações de liquidação levadas a cabo pela comissão liquidatária."
+    }
+  ],
+  "nao_aplicavel": "Repristinação do artigo 2.º na redação original não aplicada: texto original anterior ao Decreto-Lei n.º 242-A/2001 não fornecido",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

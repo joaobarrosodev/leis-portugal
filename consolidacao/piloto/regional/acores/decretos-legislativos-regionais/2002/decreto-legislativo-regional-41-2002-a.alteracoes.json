@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Avales e outras garantias\n\nÉ fixado em (euro) 60000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.",
+    "depois": "###### Artigo 4.º — Avales e outras garantias\n\nÉ fixado em (euro) 95000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 35/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2003-660296), publicado em 2003-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405299:por",
+    "alterador": "pt:dre:660296:por"
+  }
+]

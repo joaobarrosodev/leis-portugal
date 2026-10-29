@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:165253:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::28.º",
+      "epigrafe": "Candidatura do pessoal em SME a procedimentos concursais",
+      "texto": "1 - O pessoal em SME formaliza a sua candidatura a procedimentos concursais nos termos da lei aplicável.\n\n2 - Para os efeitos do disposto na subalínea ii) da alínea b) do n.º 2 do artigo 39.º da lei, a EGM coloca à disposição do serviço que procede à publicitação do procedimento concursal, no portal da bolsa de emprego público (BEP) e dentro do prazo previsto para a apresentação das candidaturas, a lista do pessoal considerado opositor obrigatório a esse procedimento.\n\n3 - Sem prejuízo do regime legal de acesso a dados pessoais, a EGM pode permitir que o serviço aceda a documentos disponíveis no sistema e exigidos para efeitos de admissão ou avaliação dos candidatos."
+    },
+    {
+      "chave": "ANEXO::24.º",
+      "epigrafe": "Consulta à bolsa de emprego público",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 29.º e 53.º (alterados) e 25.º e 26.º (revogados) não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

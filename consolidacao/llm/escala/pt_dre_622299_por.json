@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:622299:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Empréstimos",
+      "texto": "2 - Os empréstimos a curto prazo podem ser contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante ultrapassar, em qualquer momento, 5% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município.\n\n3 - Os empréstimos a médio e longo prazos podem ser contraídos pela aplicação em investimentos reprodutivos e em investimentos de carácter social ou cultural ou ainda para proceder ao saneamento financeiro dos municípios.\n\n4 - Os empréstimos a médio e longo prazos que beneficiem de bonificação deverão inserir-se nos objectivos e planos sectoriais regionais.\n\n5 -Os encargos anuais com amortizações e juros de empréstimos a médio e longo prazos não podem exceder o maior dos limites correspondentes a 20% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município ou a 20% das despesas realizadas para investimento pelo município no ano anterior.\n\n6 - Quando ocorram atrasos no cumprimento dos prazos legalmente previstos para aprovação da Lei do Orçamento do Estado, poderá a capacidade de endividamento autárquico ser transitoriamente avaliada com base nas transferências orçamentais do ano imediatamente anterior, podendo haver lugar a acertos posteriores à publicação daquele diploma legal, se isso for do interesse dos municípios.\n\n7 - Aos empréstimos contraídos para a construção de habitações destinadas a venda, bem como àqueles que se destinam à reparação, conservação e reabilitação de edifícios, contraídos ao abrigo do [Decreto-Lei n.º 449/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1983-444405), de 26 de Dezembro, não é aplicável o disposto no n.º 5.\n\n8 - Os empréstimos contraídos para construção de habitações destinadas a venda são garantidos pela respectiva hipoteca.\n\n9 - Dos limites previstos no n.º 5 ficam também excluídos os encargos anuais relativos a empréstimos contraídos com o fim exclusivo de ocorrer a despesas extraordinárias necessárias à reparação de prejuízos ocorridos em caso de calamidade pública.\n\n10 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

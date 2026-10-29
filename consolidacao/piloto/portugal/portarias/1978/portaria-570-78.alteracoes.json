@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar da área da sua residência, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:\n\na) Requerimento, em papel selado, dirigido à comissão instaladora do hospital central ou ao director-geral dos Hospitais, conforme as vagas a que concorram, solicitando a admissão ao concurso, e onde conste a identificação completa do candidato, sua residência e indicação da categoria e especialidade a que pretende concorrer;\n\nb) ...\n\nc) ...\n\nd) Certidão do registo de nascimento;\n\ne) Documento comprovativo do cumprimento da Lei do Serviço Militar;\n\nf) Certificado de sanidade para o exercício de funções públicas, passado pela delegação de saúde local;\n\ng) Certificado do registo criminal.\n\n2 - Os documentos referidos nas alíneas d), e), f) e g) podem ser substituídos por certificados comprovativos da sua entrega, pelo candidato, no estabelecimento ou serviço a que está vinculado.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 452/82](https://diariodarepublica.pt/dr/detalhe/portaria/452-1982-393068), publicado em 1982-04-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329465:por",
+    "alterador": "pt:dre:393068:por"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:552503:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 306/2001 vem truncada: diz que 'as regras referidas no número anterior', do anexo I, passam a ter nova redação, mas não identifica as regras nem traz o texto novo. Além disso, as alterações incidem sobre regras do anexo I (anexo técnico), não sobre artigos. Não há nada que se possa aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

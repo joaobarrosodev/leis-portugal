@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:390598:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Gabinete de Apoio ao Pessoal Docente",
+      "texto": "1 - O Gabinete de Apoio ao Pessoal Docente (GAPD) é um órgão com funções exclusivas de mera consulta técnica e jurídica, competindo-lhe:\n\na) Elaborar informações, estudos e pareceres de natureza técnica e jurídica;\n\nb) Elaborar propostas de diplomas que se enquadrem na sua esfera de intervenção;\n\nc) Emitir pareceres sobre os recursos hierárquicos das decisões dos órgãos de administração e gestão dos estabelecimentos de educação e ensino;\n\nd) Acompanhar os processos eleitorais relativos aos órgãos de gestão e administração dos estabelecimentos de educação e ensino;\n\ne) Elaborar o registo das instituições particulares de solidariedade social (IPSS) com valência educativa;\n\nf) Patrocinar a realização dos contratos simples e de associação com os estabelecimentos de ensino particular e cooperativos, bem como os acordos com as IPSS com valência educação;\n\ng) Colaborar em estudos que visem actualizar os resultados no sistema educativo da aplicação da legislação em vigor;\n\nh) Conceber as normas e os instrumentos técnicos necessários ao planeamento e à avaliação das actividades da DSPD;\n\ni) Elaborar o plano anual e o relatório de actividades em colaboração com a DSPD.\n\n2 - O GAPD é dirigido por um coordenador, equiparado, para todos os efeitos legais, a chefe de divisão."
+    }
+  ],
+  "nao_aplicavel": "Alterações do DRR 6/97/M não constam das instruções; o aditamento ao quadro de pessoal (anexo I) é um mapa não disponível.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

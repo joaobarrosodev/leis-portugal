@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:611728:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A nova redação do artigo 2.º (Decreto-Lei n.º 171/90) não vem no texto da instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

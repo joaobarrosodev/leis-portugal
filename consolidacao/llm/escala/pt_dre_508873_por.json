@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:508873:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação do artigo 2.º dada pelo Decreto-Lei n.º 307/95 não consta do pedido; a Lei n.º 30-G/2000 só altera o n.º 3, ficando desconhecidos os n.os 1 e 2 nessa redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

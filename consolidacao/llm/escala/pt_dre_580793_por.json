@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:580793:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - A Parques do Monte da Lua tem por objeto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes, que lhe sejam atribuídas pelo presente diploma, nos termos do anexo ii, por decisão do Estado ou por contrato celebrado com o Estado, bem como todas as atividades conexas, nomeadamente turísticas, ou afins ao objeto principal.\n\n2 - A Parques do Monte da Lua tem ainda por objeto a prossecução de atribuições de serviço público delegadas pelo Estado relativas à manutenção e desenvolvimento das atividades da Escola Portuguesa de Arte Equestre.\n\n3 - Mediante despacho do membro do Governo responsável pela área das finanças e dos membros do Governo da tutela respetiva, e obtida a anuência prévia do Município de Sintra sempre que estejam em causa áreas que se encontrem dentro do perímetro da área inscrita na lista de património mundial e respetiva zona tampão, podem ser incluídas no âmbito de intervenção da sociedade outras áreas ou património de que o Estado, institutos públicos ou o Município de Sintra sejam titulares.\n\n4 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas entidades que a constituem, bem como eventuais condicionantes de utilização, estabelecendo protocolos para esse efeito sempre que necessário."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Os trabalhadores em funções públicas do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem exercer quaisquer cargos ou funções, nos termos da lei, na Parques do Monte da Lua."
+    },
+    {
+      "chave": "8.º-A",
+      "epigrafe": "",
+      "texto": "1 - Sem prejuízo do disposto nos Estatutos da Parques do Monte da Lua, carecem de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças, da conservação da natureza e florestas, da cultura e do turismo a aquisição, a alienação ou a oneração de participações no capital social da sociedade, nos termos da lei.\n\n2 - Carecem ainda de aprovação dos membros do Governo referidos no n.º 1 os planos de atividades e de investimento, bem como os orçamentos e contas.\n\n3 - Para efeitos do disposto no número anterior, os planos de atividades e de investimento e os orçamentos e contas são remetidos aos membros do Governo referidos no n.º 1, para aprovação, no prazo em que são disponibilizados aos acionistas."
+    },
+    {
+      "chave": "8.º-B",
+      "epigrafe": "",
+      "texto": "1 - O membro do Governo responsável pela área da cultura pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa ao património cultural que lhe esteja afeto.\n\n2 - O membro do Governo responsável pelas áreas da conservação da natureza e das florestas pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa à Escola Portuguesa de Arte Equestre.\n\n3 - O membro do Governo responsável pelo turismo pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa a investimentos financiados pelo Turismo de Portugal, I. P."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Anexo ii e artigos 15.º e 17.º dos Estatutos: sem texto nas instruções; artigo 3.º não consta do original recebido (n.os 1, 2 e 3 com '...'); Decreto-Lei n.º 97/2007 sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 4 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas "
+  ]
+}

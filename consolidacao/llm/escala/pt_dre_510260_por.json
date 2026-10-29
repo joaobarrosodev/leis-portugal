@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:510260:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decretos-Leis n.os 47683 e 47921) só trazem o proémio, sem o texto dos artigos aditados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - Os Ministros da Justiça e dos Transportes e Comunicações fixam anualmente, por despacho conjunto, o encargo a suportar pelo Cofre dos Conservadores, Notários e Funcionários de Justiça com a atribuição de passe a magistrados.\n\n2 - A importância a liquidar constituirá receita do Fundo Especial de Transportes Terrestres.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329868:por",
+    "alterador": "pt:dre:662361:por"
+  }
+]

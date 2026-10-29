@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:310245:por",
+  "artigos": [],
+  "nao_aplicavel": "Artigo 8.º: o texto do parágrafo aditado não consta do pedido; art. 4.º do Decreto n.º 512/73 altera quadros de pessoal (não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

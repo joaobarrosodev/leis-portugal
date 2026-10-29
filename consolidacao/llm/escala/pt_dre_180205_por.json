@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:180205:por",
+  "artigos": [],
+  "nao_aplicavel": "Aditamento de artigos sem o texto dos artigos aditados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

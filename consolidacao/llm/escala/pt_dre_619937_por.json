@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:619937:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação dos artigos 4.º, 5.º, 8.º, 13.º, 16.º e 22.º não vem no texto da instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

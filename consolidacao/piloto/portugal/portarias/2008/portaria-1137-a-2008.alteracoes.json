@@ -138,5 +138,47 @@
     "unidade": [],
     "diploma": "pt:dre:220949:por",
     "alterador": "pt:dre:343948:por"
+  },
+  {
+    "artigo": "ANEXO::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Estarem legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e cumprir as normas comunitárias relativas ao ambiente;\n\nc) Disporem de capacidade técnica adequada;\n\nd) Terem a situação regularizada face à administração fiscal e à segurança social;\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nf) Disporem de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade.",
+    "depois": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Estarem legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e cumprir as normas comunitárias relativas ao ambiente;\n\nc) Disporem de capacidade técnica adequada;\n\nd) (Revogada.)\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nf) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:220949:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:260416:por;pt:dre:498497:por"
+  },
+  {
+    "artigo": "ANEXO::8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Despesas elegíveis\n\nSão elegíveis as seguintes despesas efectuadas no âmbito dos pedidos de apoio aprovados:\n\na) Elaboração de estudos e projectos e de acções de consultoria, designadamente, jurídica, arqueológica e ambiental;\n\nb) Execução de obras, incluindo:\n\ni) As relacionadas com a segurança de barragens, açudes de derivação, açudes e reservatórios;\n\nii) Prospecção e captação de águas subterrâneas;\n\niii) Estações elevatórias e de bombagem e respectivos equipamentos e tomadas de água;\n\niv) Redes de transporte e distribuição de água para rega;\n\nv) Redes de enxugo e de drenagem;\n\nvi) Obras de defesa contra marés e cheias;\n\nvii) Redes viárias;\n\nviii) Redes de electrificação;\n\nix) Obras de adaptação ao regadio;\n\nx) Implementação de sistemas de medição de caudais;\n\nc) Construção e equipamento de edifícios sede de associações de regantes ou de beneficiários, de aproveitamentos hidroagrícolas já em exploração;\n\nd) Modernização, incluindo a aquisição de equipamento, de edifícios sede de associações de regantes ou de beneficiários já existentes desde que comprovadamente associados à implementação de novas tecnologias de gestão das infra-estruturas hidroagrícolas;\n\ne) Acções de estruturação fundiária associadas à modernização de aproveitamentos hidroagrícolas e ou blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo de novos lotes;\n\nf) Reabilitação e modernização de centrais hidroeléctricas associadas aos aproveitamentos hidroagrícolas;\n\ng) Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação;\n\nh) Acompanhamento, assistência técnica e fiscalização das obras;\n\ni) Testagem das obras;\n\nj) Aperfeiçoamento técnico em projectos, obras e exploração de regadios;\n\nl) Aquisição de equipamento para instalação de áreas piloto;\n\nm) Implementação de sistemas de informação geográfica;\n\nn) Instalação de sistemas de monitorização de qualidade da água, de eficiência de distribuição de água e da degradação de solos;\n\no) Realização de acções minimizadoras de impactes ambientais;\n\np) Implementação de cortinas de abrigo e medidas de enquadramento paisagístico;\n\nq) Revisões de preços decorrentes da legislação aplicável, até ao limite de 5 % do montante sujeito.",
+    "depois": "###### Artigo 8.º — Despesas elegíveis\n\nSão elegíveis as seguintes despesas efectuadas no âmbito dos pedidos de apoio aprovados:\n\na) Elaboração de estudos e projectos e de acções de consultoria, designadamente, jurídica, arqueológica e ambiental;\n\nb) Execução de obras, incluindo:\n\ni) As relacionadas com a segurança de barragens, açudes de derivação, açudes e reservatórios;\n\nii) Prospecção e captação de águas subterrâneas;\n\niii) Estações elevatórias e de bombagem e respectivos equipamentos e tomadas de água;\n\niv) Redes de transporte e distribuição de água para rega;\n\nv) Redes de enxugo e de drenagem;\n\nvi) Obras de defesa contra marés e cheias;\n\nvii) Redes viárias;\n\nviii) Redes de electrificação;\n\nix) Obras de adaptação ao regadio;\n\nx) Implementação de sistemas de medição de caudais;\n\nc) Construção e equipamento de edifícios sede de associações de regantes ou de beneficiários, de aproveitamentos hidroagrícolas já em exploração;\n\nd) Modernização, incluindo a aquisição de equipamento, de edifícios sede de associações de regantes ou de beneficiários já existentes desde que comprovadamente associados à implementação de novas tecnologias de gestão das infra-estruturas hidroagrícolas;\n\ne) Acções de estruturação fundiária associadas à modernização de aproveitamentos hidroagrícolas e ou blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo de novos lotes;\n\nf) Reabilitação e modernização de centrais hidroeléctricas associadas aos aproveitamentos hidroagrícolas;\n\ng) Expropriações e indemnizações necessárias à execução das obras até 10% do valor elegível aprovado da operação.\n\nh) Acompanhamento, assistência técnica e fiscalização das obras;\n\ni) Testagem das obras;\n\nj) Aperfeiçoamento técnico em projectos, obras e exploração de regadios;\n\nl) Aquisição de equipamento para instalação de áreas piloto;\n\nm) Implementação de sistemas de informação geográfica;\n\nn) Instalação de sistemas de monitorização de qualidade da água, de eficiência de distribuição de água e da degradação de solos;\n\no) Realização de acções minimizadoras de impactes ambientais;\n\np) Implementação de cortinas de abrigo e medidas de enquadramento paisagístico;\n\nq) Revisões de preços decorrentes da legislação aplicável.\n\n> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:220949:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:260416:por;pt:dre:498497:por"
+  },
+  {
+    "artigo": "ANEXO::24.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Disposição transitória\n\n1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio de acordo com o disposto no artigo 12.º;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea m) do artigo 9.º, nem o limite dos pagamentos efectuados por cheque, desde que esses pagamentos tenham sido efectuados anteriormente à publicação do presente Regulamento.",
+    "depois": "###### Artigo 24.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:220949:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:260416:por;pt:dre:498497:por"
   }
 ]

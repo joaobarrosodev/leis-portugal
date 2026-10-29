@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:580874:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem o proémio, sem a nova redação dos artigos 6.º e 24.º; alterações a anexos não disponíveis.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

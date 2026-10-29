@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:529196:por",
+  "artigos": [],
+  "nao_aplicavel": "A retificação corrige uma citação (Lei n.º 67-B/2007 por Lei n.º 66-B/2007) noutro diploma; o texto a corrigir não existe neste diploma.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

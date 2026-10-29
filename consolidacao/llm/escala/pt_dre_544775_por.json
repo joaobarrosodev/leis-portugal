@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:544775:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º-A",
+      "epigrafe": "",
+      "texto": "Trinta dias após a publicação da presente lei, o Governo deve rever a secção I do capítulo II do Decreto-Lei n.º 321/99, de 11 de Agosto, no sentido de atribuir ao Ministro responsável pela área do ambiente a competência para a decisão final nas seguintes matérias:\n\na) Escolha dos locais de instalação de aterros para resíduos industriais banais, de acordo com o ordenamento do território, a defesa da saúde pública e a protecção do ambiente;\n\nb) Publicação da listagem dos locais escolhidos para fins de consulta pública;\n\nc) Concursos para a instalação dos aterros;\n\nd) Apreciação dos pedidos de autorização."
+    },
+    {
+      "chave": "2.º-B",
+      "epigrafe": "",
+      "texto": "A autorização e adjudicação de todos os aterros para resíduos industriais banais deverá estar concluída até 31 de Dezembro de 2000."
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - Os tipos de tratamento a aplicar aos resíduos industriais perigosos e não perigosos devem ser avaliados de dois em dois anos, de acordo com o que resultar da revisão do Catálogo Europeu de Resíduos (CER), e tendo em conta para cada tipo de resíduo a existência, no País ou no espaço da União Europeia, de tecnologias preferíveis do ponto de vista da saúde pública e do ambiente.\n\n2 - As autorizações e licenças administrativas concedidas a qualquer entidade para tratamento de RIP caducam ao fim de dois anos, não podendo ser renovadas sem que a respectiva lei seja revista de acordo com os resultados da avaliação periódica a que se refere o número anterior.\n\n3 - O Governo procederá à necessária revisão do Plano Estratégico de Gestão dos Resíduos Industriais (PESGRI 99), estabelecendo as opções de tratamento para cada tipo de resíduo, até à data da publicação da legislação referida no n.º 6 do artigo 5.º e após a avaliação periódica a que se refere o n.º 1 do presente artigo."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - O Governo promoverá, por um período mínimo de 60 dias, a discussão pública prévia das orientações e das medidas administrativas e legislativas a adoptar com base nos relatórios a que se referem os artigos 4.º e 5.º da presente lei.\n\n2 - As medidas a submeter à discussão pública incluirão obrigatoriamente as escolhas dos locais para as infra-estruturas componentes do sistema de tratamento de resíduos industriais perigosos."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - O inventário dos resíduos industriais produzidos e armazenados, a apresentar pelo Governo, deve incluir obrigatoriamente:\n\na) A quantificação dos resíduos por distrito e por actividade económica, de acordo com as classificações cruzadas entre a CAE e o CER;\n\nb) A sua caracterização físico-química;\n\nc) O tipo de tratamento previsto.\n\n2 - O Governo deve publicar a listagem dos locais contaminados com resíduos industriais, bem como as medidas de emergência tomadas para a sua identificação, vedação e descontaminação.\n\n3 - O Governo deve prestar contas à Assembleia da República:\n\na) Das medidas tomadas para a adequada deposição dos resíduos industriais, para a implantação do Plano Nacional de Prevenção dos Resíduos Industriais e para a aplicação da directiva sobre a prevenção e controlo integrados da poluição;\n\nb) Dos progressos verificados na realização do inventário a que se refere o n.º 1 do presente artigo."
+    }
+  ],
+  "nao_aplicavel": "Nova redação dos artigos 4.º e 5.º (Lei n.º 22/2000) prejudicada pela revogação pelo Decreto-Lei n.º 175/2002; Decreto-Lei n.º 154-A/2001 sem instrução",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

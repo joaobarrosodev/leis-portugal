@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:602016:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Aferição da dotação de veículos",
+      "texto": "1 - No âmbito do PAE e para efeitos da aferição da dotação mínima de veículos, à escala municipal, considera-se a seguinte dotação mínima de veículos de socorro e combate a incêndios, por corpo de bombeiros:\n\na) Um veículo urbano de combate a incêndios (VUCI);\n\nb) Um veículo tanque táctico urbano (VTTU);\n\nc) Um veículo ligeiro de combate a incêndios (VLCI);\n\nd) Um veículo florestal de combate a incêndios (VFCI);\n\ne) Um veículo de socorro e assistência táctico (VSAT);\n\nf) Um veículo de comando táctico (VCOT);\n\ng) Uma ambulância de socorro (ABSC).\n\n2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado do cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município, e inclui a dotação mínima definida no número anterior.\n\n3 - Para efeitos do número anterior é considerada uma guarnição média de 5 elementos para cada viatura e a capacidade de accionamento dos meios em dois terços do dia, equivalente a dezasseis horas, o que corresponde a um mínimo de 10 elementos por viatura.\n\n4 - O limite máximo de veículos a apoiar, em cada município, é calculado segundo a fórmula:\n\nNúmero máximo de veículos = QH/GMV/T\n\nem que:\n\nQH - dotação do quadro homologado;\n\nGMV - guarnição média por viatura (cinco elementos);\n\nT - número de turnos correspondente a dois terços do dia (dois turnos).\n\n5 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 8.º e 9.º não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: g) Uma ambulância de socorro (ABSC)."
+  ]
+}

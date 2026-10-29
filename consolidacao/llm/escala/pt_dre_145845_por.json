@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:145845:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Centro Emissor para a Rede Consular",
+      "texto": "1 - É criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Rede Consular, adiante designado por Centro Emissor.\n\n2 - Por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Comunidades Portuguesas e da Justiça poderão ser criadas extensões do Centro Emissor nos postos consulares portugueses, aplicando-se-lhes, com as necessárias adaptações, o disposto no presente diploma."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Âmbito territorial",
+      "texto": "1 - A emissão de bilhetes de identidade pelo Centro Emissor é restrita aos pedidos apresentados, nos postos consulares, por cidadãos nacionais residentes no estrangeiro.\n\n2 - A emissão de bilhetes de identidade pelas extensões do Centro Emissor é restrita aos pedidos apresentados nos postos consulares por cidadãos nacionais residentes nas áreas consulares que forem definidas no despacho a que se refere o n.º 2 do artigo 1.º\n\n3 - A prova de residência do titular na circunscrição consular é feita mediante verificação da inscrição consular."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: 1 - É criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Red",
+    "3.º: parágrafo que não está no alterador nem no original: 3 - A prova de residência do titular na circunscrição consular é feita mediante "
+  ]
+}

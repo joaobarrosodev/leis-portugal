@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:540246:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - Para efeitos do disposto no número anterior, consideram-se titularidade ou participação indirectas as que ocorrerem por interposta pessoa, nos casos mencionados no n.º 2 do artigo 579.º do Código Civil, ou por intermédio de sociedade em cujo capital social se detenha participação igual ou superior a 5%."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

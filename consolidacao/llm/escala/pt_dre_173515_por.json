@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:173515:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigo 12.º não revogado: a revogação dos artigos 12.º a 27.º é condicional (data de entrada em vigor de despacho).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

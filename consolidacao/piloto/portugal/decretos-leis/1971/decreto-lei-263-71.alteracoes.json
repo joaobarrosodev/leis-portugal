@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\n1. Os espectáculos e divertimentos públicos devem começar às horas marcadas no cartaz e terminar até à 1 hora e 30 minutos, com meia hora de tolerância, salvo caso de força maior como tal reconhecido pela Direcção dos Serviços de Espectáculos.\n\n2. Nas noites de sábado e de véspera de feriado os espectáculos e divertimentos públicos poderão terminar até às 3 horas.\n\n3. A Direcção dos Serviços de Espectáculos poderá autorizar, baseada em razões ponderosas, que os espectáculos ou divertimentos terminem depois das horas previstas nos números antecedentes.\n\n4. A autorização a que se refere o número anterior poderá ser dada genèricamente em relação aos espectáculos de ópera e de bailado, bailes públicos, com ou sem variedades, variedades em recintos que apenas explorem esta espécie de divertimentos, segundas sessões dos teatros, três primeiros dias de representação das revistas e espectáculos de Carnaval e de passagem do ano.\n\n5. O Governo poderá alterar por meio de decreto regulamentar os limites horários estabelecidos neste artigo.\n\n6. As infracções ao disposto nos n.os 1 e 2 serão punidas com a multa de 500$00 a 5000$00.",
+    "depois": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 199/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1974-408539) e [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), publicado em 1985-10-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643305:por",
+    "alterador": "pt:dre:408539:por;pt:dre:177825:por"
+  }
+]

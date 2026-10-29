@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:313653:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais."
+    }
+  ],
+  "nao_aplicavel": "Artigo 2.º: a nova redação dada pelo Decreto-Lei n.º 248/83 não consta do pedido; revogados os n.os 1 e 2 mas o n.º 3 nessa redação é desconhecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

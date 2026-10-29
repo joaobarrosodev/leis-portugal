@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:618876:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação dos artigos 1.º, 3.º e 4.º não vem no texto da instrução; a substituição do mapa anexo não é textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

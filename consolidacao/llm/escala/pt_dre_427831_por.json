@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:427831:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução adita um artigo 3.º mas a redacção do novo artigo não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:250634:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução anuncia nova redação do n.º 2 do artigo 2.º mas o texto não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

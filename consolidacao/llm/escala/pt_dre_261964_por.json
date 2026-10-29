@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:261964:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 49174 não traz o texto da nova redação do artigo 6.º; a do Decreto-Lei n.º 143/83 extingue as subintendências (alteração não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:106509261:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Composição da CNFT",
+      "texto": "1 - A CNFT é constituída por elementos provenientes de estabelecimentos e serviços do Serviço Nacional de Saúde e de outras instituições e por outras personalidades de reconhecido mérito.\n\n2 - Os membros da CNFT são os seguintes:\n\na) Um presidente e um vice-presidente;\n\nb) O presidente da comissão de farmácia e terapêutica e o diretor dos serviços farmacêuticos ou seus representantes, de instituições e serviços do SNS;\n\nc) Dois representantes, um médico e um farmacêutico das Comissões de Farmácia e Terapêutica das ARS;\n\nd) Um representante da Direção-Geral da Saúde;\n\ne) Um representante da Administração Central do Sistema de Saúde, I. P.;\n\nf) Um médico representante da Ordem dos Médicos;\n\ng) Um farmacêutico representante da Ordem dos Farmacêuticos.\n\n3 - A CNFT pode ainda integrar:\n\na) Personalidades convidadas pelo conselho diretivo do INFARMED, I. P., atendendo ao seu reconhecido mérito, com qualificações, experiência e formação especializada para a prossecução dos objetivos da CNFT;\n\nb) Dois representantes da Secretaria Regional da Saúde da Região Autónoma da Madeira, e dois representantes da Secretaria Regional da Saúde da Região Autónoma dos Açores.\n\n4 - Os membros referidos na alínea a) do n.º 2 são designados pelo Conselho Diretivo do INFARMED, I. P., de entre os membros da CNFT.\n\n5 - As propostas de designação dos membros referidos nas alíneas b) a e) do n.º 2 são submetidas, pelo Conselho Diretivo do INFARMED, I. P., ao membro do Governo responsável pela área da saúde.\n\n6 - As propostas de designação dos membros referidos nas alíneas f) e g) do n.º 2 do presente artigo são submetidas ao membro do governo responsável pela área da saúde, pelas respetivas ordens profissionais."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: b) Dois representantes da Secretaria Regional da Saúde da Região Autónoma da Mad"
+  ]
+}

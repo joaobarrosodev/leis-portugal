@@ -1,0 +1,64 @@
+{
+  "id": "pt:dre:618114:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Director regional",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Divisão de Serviços Administrativos",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Arquivo Regional da Madeira",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Direcção de Serviços de Bibliotecas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Direcção de Serviços de Museus",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Direcção de Serviços do Património Cultural",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Direcção de Serviços de Dinamização Cultural",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Centro de Estudos John dos Passos",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Centro Cívico e Cultural de Santa Clara",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Inspecção Regional de Espectáculos",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O artigo 21.º (revogado) aparece no original com o título gralhado 'Artigo 212.º' (Atribuições e competências da DRAC); não aplicado por a chave ser incerta. A revogação do quadro IV do anexo (quadro) e da Portaria n.º 78/2006 não é aplicável aos artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

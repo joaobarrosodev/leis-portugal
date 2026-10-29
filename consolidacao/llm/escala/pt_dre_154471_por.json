@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:154471:por",
+  "artigos": [],
+  "nao_aplicavel": "O texto da nova redação não consta das instruções (só a frase introdutória); nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

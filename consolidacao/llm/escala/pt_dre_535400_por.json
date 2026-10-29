@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:535400:por",
+  "artigos": [
+    {
+      "chave": "ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::12.º",
+      "epigrafe": "Concretização do projecto",
+      "texto": "1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000.\n\n2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato."
+    }
+  ],
+  "nao_aplicavel": "N.º 2 mantido com o texto do original (a redação dada pelo Despacho Normativo n.º 9/97 não consta do pedido); alterações aos n.os 1.º e 4.º do anexo C não aplicadas (não fornecidos).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

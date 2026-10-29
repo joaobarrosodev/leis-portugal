@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:685043:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Objectivos específicos",
+      "texto": "Sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos da Reserva Natural:\n\na) Promover a conservação do ecossistema dunar e dos seus habitats e espécies;\n\nb) Assegurar a conservação e a valorização do património natural da área protegida e da zona de protecção especial em que se encontra integrada;\n\nc) Promover a investigação científica e o conhecimento sobre o património natural da zona em que se insere, bem como a monitorização de espécies, habitats e ecossistemas;\n\nd) Assegurar a informação, sensibilização, formação e participação do público, bem como incentivar e mobilizar a sociedade civil para a conservação dos ecossistemas dunares e das zonas húmidas litorais."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alteração de limites e revogação dos anexos I e II (não textual/anexos); artigo 6.º (alterado) e artigo 9.º (revogado) não constam dos artigos do original fornecidos; artigo 8.º alterado em 2004 e depois revogado em 2015.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

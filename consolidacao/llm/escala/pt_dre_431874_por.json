@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:431874:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995::4.º",
+      "epigrafe": "",
+      "texto": "As ajudas previstas no artigo anterior aplicam-se nas áreas geográficas de intervenção das direcções regionais de agricultura (DRA):\n\na) DRA do Alentejo;\n\nb) DRA do Algarve."
+    }
+  ],
+  "nao_aplicavel": "Artigo 11.º do Regulamento não consta do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

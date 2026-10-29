@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:563797:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções das Portarias n.os 400/87 e 1073/89 só trazem o proémio, sem a nova redação; a Portaria n.º 895/83 não traz instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

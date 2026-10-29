@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:535400:por",
     "alterador": "pt:dre:555461:por"
+  },
+  {
+    "artigo": "ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Concretização do projecto\n\n1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 1999.\n\n2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato.",
+    "depois": "###### Artigo 12.º — Concretização do projecto\n\n1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000.\n\n2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato.\n\n> Alterado pelo/a [Despacho Normativo n.º 37/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1998-461979), publicado em 1998-06-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:535400:por",
+    "alterador": "pt:dre:461979:por"
   }
 ]

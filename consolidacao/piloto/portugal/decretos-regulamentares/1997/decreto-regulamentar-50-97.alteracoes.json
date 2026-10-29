@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo.",
+    "depois": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 83/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-2007-641461) e [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:694208:por",
+    "alterador": "pt:dre:641461:por;pt:dre:67198365:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Universidade de Coimbra:\n\nb) Universidade da Beira Interior;\n\nc) Junta Autónoma de Estradas;\n\nd) Comissão de Coordenação da Região do Centro;\n\ne) Direcção Regional de Agricultura;\n\nf) Região de Turismo da Serra da Estrela;\n\ng) Câmara Municipal de Celorico da Beira;\n\nh) Câmara Municipal da Covilhã;\n\ni) Câmara Municipal de Gouveia;\n\nj) Câmara Municipal da Guarda;\n\nl) Câmara Municipal de Manteigas;\n\nm) Câmara Municipal de Seia;\n\nn) Juntas de freguesia da área do Parque Natural, consideradas em conjunto e em sistema rotativo, com mandato de um ano;\n\no) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.\n\n3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos membros.",
+    "depois": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 83/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-2007-641461) e [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:694208:por",
+    "alterador": "pt:dre:641461:por;pt:dre:67198365:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nTrabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, da Direção-Geral do Orçamento e da Direção-Geral do Tesouro e Finanças\n\n1 - Transitam para a carreira de técnico superior especialista em orçamento e finanças do MF, sem necessidade de quaisquer outras formalidades, os trabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do GPEARI, da DGO e da DGTF.\n\n2 - Sem prejuízo do disposto no número anterior, os trabalhadores podem opor-se à sua transição para a carreira de técnico superior especialista em orçamento e finanças do MF, nos 60 dias seguintes à data de produção de efeitos do presente decreto-lei.\n\n3 - O exercício do direito previsto no número anterior deve ser efetuado através de requerimento remetido aos dirigentes máximos, respetivamente, do GPEARI, da DGO e da DGTF.",
+    "depois": "###### Artigo 2.º\n\nTrabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, da Direção-Geral do Orçamento e da Direção-Geral do Tesouro e Finanças\n\n1 - Transitam para a carreira de técnico superior especialista em orçamento e finanças públicas do Ministério das Finanças, sem necessidade de quaisquer outras formalidades, os trabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do GPEARI, da DGO e da DGTF, ou que venham a integrá-los na sequência da reafetação de pessoal decorrente do processo de fusão da Secretaria-Geral do Ministério das Finanças.\n\n2 - Sem prejuízo do disposto no número anterior, os trabalhadores podem opor-se à sua transição para a carreira de técnico superior especialista em orçamento e finanças públicas, nos 60 dias seguintes à data de produção de efeitos do presente decreto-lei, ou nos 60 dias seguintes à data da publicação das listas nominativas definitivas, no âmbito do processo de fusão da Secretaria-Geral do Ministério das Finanças, consoante o caso.\n\n3 - O exercício do direito previsto no número anterior deve ser efetuado através de requerimento remetido aos dirigentes máximos, respetivamente, do GPEARI, da DGO e da DGTF.\n\n> Alterado pelo/a [Decreto-Lei n.º 193/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2026-1172319753), publicado em 2026-09-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:913224267:por",
+    "alterador": "pt:dre:1172319753:por"
+  }
+]

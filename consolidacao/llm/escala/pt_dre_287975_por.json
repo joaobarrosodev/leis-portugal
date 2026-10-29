@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:287975:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 substitui o mapa I (anexo/quadro), não textual; instrução 2 não traz a nova redação do artigo 3.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

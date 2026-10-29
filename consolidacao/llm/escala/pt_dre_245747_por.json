@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:245747:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções de substituição (instrução 1) e de aditamento (instrução 2) não trazem o texto das novas redações; as revogações (instrução 3) são parciais (alíneas e números de bases do anexo) e dependem das novas redações em falta, pelo que não se aplicam com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:473689:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:\n\na) Zona de protecção integral:\n\nNorte: o caminho dos Canteiros, entre o rio Almonda e a vala Real; a vala da Mota Travessa, entre a vala Real e a vala do Golfal.\n\nLeste: o caminho que parte, para sul, da confluência da vala da Mota Travessa com a vala do Golfal, cruza a vala da Pereira até ao ponto em que se junta à vala do Valadão; a vala do Valadão, desde o ponto atrás referido para jusante, até à confluência com a vala Real, local denominado «Portas Velhas»; a vala da Sangria, desde o local denominado «Portas Velhas» até à sua confluência no rio Almonda.\n\nSul: o curso do rio Almonda, para montante, desde a confluência da vala da Sangria até ao local denominado «Porto Miranda»; o caminho que parte deste ponto em direcção às casas da Quinta do Miranda, até ao ponto em que, do seu lado norte, a terra começa a ser agricultada.\n\nOeste: o limite da área agricultada, para norte, até a intercepção com o caminho de ferro; o caminho de ferro, para norte, até ao cruzamento com um caminho sem nome que separa a área alagada das terras de cultura; este caminho entre o caminho de ferro e o rio Almonda; o curso do rio Almonda, para montante, até ao caminho dos Canteiros.\n\nb) Zona de uso extensivo, tendo como limites exteriores os descritos no artigo 2.º\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogado todo o diploma com excepção do n.º 1 do artigo 3.º e do artigo 4.º (que se mantêm 'em tudo quanto não contrarie' o Decreto Regulamentar n.º 49/97, ressalva não textual); aplicada só a revogação do n.º 2 do artigo 3.º; os restantes artigos revogados não foram fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
