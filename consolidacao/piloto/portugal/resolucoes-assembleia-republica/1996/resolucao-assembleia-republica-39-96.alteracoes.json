@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Alteração do quadro de pessoal\n\n1 - Ao quadro de pessoal da Assembleia da República, aprovado pela [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 1 de Julho, com as alterações introduzidas pela [Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), de 17 de Agosto, são acrescentados os lugares criados pelo n.º 1 do artigo 5.º da presente resolução.\n\n2 - São fixados, por carreira, os seguintes lugares:\n\na) Técnico-adjunto parlamentar: 95;\n\nb) Operador de meios áudio-visuais: 2;\n\nc) Técnico-adjunto de BDA: 13;\n\nd) Tesoureiro: 1;\n\ne) Secretário parlamentar: 70;\n\nf) Fiel de armazém: 2;\n\ng) Auxiliar de biblioteca: 7;\n\nh) Operador de reprografia: 7;\n\ni) Motorista: 12;\n\nj) Auxiliar parlamentar: 50;\n\nk) Guarda-nocturno: 6;\n\nl) Operador de offset: 2.\n\n3 - São extintos à medida que vagarem os lugares de chefe de sector, de carpinteiro e de jardineiro.",
+    "depois": "###### Artigo 8.º — Alteração do quadro de pessoal\n\n1 - Ao quadro de pessoal da Assembleia da República, aprovado pela [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 1 de Julho, com as alterações introduzidas pela [Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), de 17 de Agosto, são acrescentados os lugares criados pelo n.º 1 do artigo 5.º da presente resolução.\n\n2 - São fixados, por carreira, os seguintes lugares:\n\na) Técnico-adjunto parlamentar: 95;\n\nb) Operador de meios áudio-visuais: 2;\n\nc) Técnico-adjunto de BDA: 13;\n\nd) Tesoureiro: 1;\n\ne) Secretário parlamentar: 70;\n\nf) Fiel de armazém: 2;\n\ng) Auxiliar de biblioteca: 7;\n\nh) Operador de reprografia: 7;\n\ni) Motorista: 17;\n\nj) Auxiliar parlamentar: 75;\n\nk) Guarda-nocturno: 7;\n\nl) Operador de offset: 2.\n\n3 - São extintos à medida que vagarem os lugares de chefe de sector, de carpinteiro e de jardineiro.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 8/98](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1998-197366) e [Resolução da Assembleia da República n.º 18/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-2001-386238), publicado em 2001-02-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199114:por",
+    "alterador": "pt:dre:197366:por;pt:dre:386238:por"
+  }
+]

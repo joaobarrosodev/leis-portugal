@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Obrigações dos cessionários\n\nTransmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento.",
+    "depois": "###### Artigo 6.º — Preço e condições de pagamento\n\n1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570108:por",
+    "alterador": "pt:dre:209047:por"
+  },
+  {
+    "artigo": "26.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 26.º — Nova unidade fabril\n\n1 - O concorrente adquirente obriga-se a tomar todas as medidas que se revelem necessárias à construção de uma nova unidade fabril a situar no concelho de Mourão, destinada à indústria de papel reciclado e a substituir a actualmente existente e pertença da Portucel Recicla.\n\n2 - A construção da nova unidade fabril deve observar o projecto entretanto apresentado pela PORTUCEL.\n\n3 - As alterações que se pretendam introduzir no projecto a que se refere o número anterior podem ser autorizadas pela PORTUCEL, SGPS.\n\n4 - Para efeitos do número anterior, deve, designadamente, verificar-se se as alterações:\n\na) São susceptíveis de potenciar a capacidade de produção actual de produtos acabados fluting e liners, incluindo white top;\n\nb) Conduzem à implementação de tecnologias competitivas ao nível dos equipamentos e componentes da máquina de papel, nomeadamente formação e prensagem, bem como ao nível de automação e controlo distribuído;\n\nc) Garantem que as tecnologias a instalar permitem performances do sistema de acordo com as directivas do IPPC - Integrated Polution Prevention and Control ou, quando estas não se adaptem, com a legislação nacional aplicável.",
+    "depois": "###### Artigo 26.º — Nova unidade fabril\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570108:por",
+    "alterador": "pt:dre:209047:por"
+  }
+]

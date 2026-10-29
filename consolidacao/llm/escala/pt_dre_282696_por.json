@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:282696:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Formação profissional",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A nova redação do art. 1.º (DR 34/91) não vem nas instruções; não aplicada. O art. 3.º, também revogado pelo DL 132/2019, não consta dos artigos do original recebidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

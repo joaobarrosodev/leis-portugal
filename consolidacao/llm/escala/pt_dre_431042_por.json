@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:431042:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação dos artigos 7.º a 12.º não aplicada: esses artigos não foram fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:230718:por",
+  "artigos": [],
+  "nao_aplicavel": "Altera um item do quadro do anexo I (Prazos), que não está disponível em texto (ver documento original); não é alteração aplicável a artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

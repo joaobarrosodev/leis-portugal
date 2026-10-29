@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:184543:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 27/80 só traz o proémio ('passam a ter a seguinte redacção:'); o texto novo dos artigos 1.º, 3.º, 4.º e 5.º não consta do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

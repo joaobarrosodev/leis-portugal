@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:484657:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "Nos termos do parágrafo 2.º do artigo 7.º da Lei n.º 2078, de 11 de Julho de 1955, a cessação da dominialidade dos imóveis referidos no artigo 1.º faz caducar as servidões respectivas."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:655518:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Direitos e deveres especiais do pessoal de inspecção de pescas",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O director-geral, o inspector das pescas, o director de serviços de Inspecção, bem como o pessoal das carreiras de inspector superior e inspector técnico de pescas e de técnico-adjunto de inspecção de pescas, mantêm o direito ao suplemento criado pelo artigo 30.º do [Decreto-Lei n.º 421/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1988-357533), de 12 de Novembro, de acordo com o disposto nos n.os 1 e 2 do artigo 37.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro."
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Sucessão e articulação com o Sistema da Autoridade Marítima",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O DR 12/97 revoga o DL 320/93 com exceção do n.º 4 do artigo 23.º; a nova redação do 2.º (DL 331-B/95) não vem no pedido e fica prejudicada; a extinção das delegações (DL 196/96) não é textual; DL 296-A/95 sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

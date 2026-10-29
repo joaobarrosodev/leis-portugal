@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:180588:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os directores dos Estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira seguidamente enumerados são, para todos os efeitos legais, equiparados a:\n\na) Director de serviços, os directores de estabelecimentos de idosos, de educação especial e reabilitação de deficientes e de lares para crianças e jovens com capacidade superior a 300 utentes;\n\nb) Chefe de divisão, os directores de estabelecimentos de idosos, de educação especial e reabilitação de deficientes e de lares para crianças e jovens com capacidade compreendida entre 151 e 300 utentes, bem como os directores de colónias de férias com capacidade superior a 300 utentes.\n\n2 - O disposto no número anterior aplica-se igualmente aos directores do Lar Residencial de Alcobaça, Mansão de Santa Maria de Marvila, Lar Residencial das Fontainhas e Recolhimentos da Capital."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - O desempenho das funções a seguir enunciadas será remunerado pelo vencimento correspondente ao escalão 1 das categorias de:\n\na) Assessor principal, os directores de estabelecimentos de primeira e segunda infância com capacidade superior a 150 utentes, os directores de colónias de férias com capacidade de 151 a 300 utentes, os directores de lares para crianças e jovens, de estabelecimentos de educação especial e reabilitação de deficientes e de idosos com capacidade de 76 a 150 utentes;\n\nb) Assessor, os directores de estabelecimentos de primeira e segunda infância e de colónias de férias com capacidade de 76 a 150 utentes, bem como os directores de lares para crianças e jovens, de educação especial e reabilitação de deficientes e de idosos com capacidade até 75 utentes;\n\nc) Técnico superior principal, os directores de estabelecimentos de primeira e segunda infância com capacidade de 51 a 75 utentes e os directores de colónias de férias com capacidade até 75 utentes;\n\nd) Técnico superior de 1.ª classe, os directores de estabelecimentos de primeira e segunda infância com capacidade até 50 utentes.\n\n2 - As funções previstas no número anterior são exercidas em comissão de serviço com a duração de três anos, que poderá ser renovada nos termos da legislação em vigor para o pessoal dirigente da função pública.\n\n3 - A comissão de serviço prevista no número anterior cessa nos termos da legislação em vigor para o pessoal dirigente da função pública, bem como pelo encerramento do estabelecimento, pela alteração do seu objectivo ou ainda se a respectiva gestão deixar de ser directamente exercida pelo centro regional de segurança social.\n\n4 - As funções de director de colónias de férias que não funcionam todo o ano são exercidas em comissão de serviço pelo correspondente período de funcionamento."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:219166:por",
+  "artigos": [],
+  "nao_aplicavel": "As alterações (Decreto Legislativo Regional n.º 10/2016/M) incidem sobre as bases do anexo II (Bases I, X, XIV, XV, XVI, XVII, XVIII, XXI, XXII, XXX e aditamento das XXII-A e XXII-B), que não são artigos e não têm chave no original; além disso o Decreto Legislativo Regional n.º 15/2007/M, anterior, não traz instruções e o texto das bases dado pode não refletir essa alteração (as unidades '[...]' e as renumerações de alíneas ficariam incertas).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:643123:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto e âmbito",
+      "texto": "1 - O presente diploma aprova o Regime de Apoio Específico Aplicável aos Projectos Desenvolvidos no Sector das Tecnologias de Informação Electrónica e Comunicações, adiante designado por PRATIC.\n\n2 - As especificidades do Regime a que se refere o número anterior, relativamente aos sistemas de incentivos e respectivos regimes de apoio criados no âmbito do PEDIP II, são as constantes dos anexos I a IX do presente despacho, do qual fazem parte integrante, sendo estabelecidas em função dos vários sectores abrangidos, bem como dos objectivos da política industrial.\n\n3 - Os sistemas de incentivos e os regimes de apoio a que se refere o número anterior, aprovados pela Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, são os seguintes:\n\na) Sistema de Incentivos a Estratégias de Empresas Industriais:\n\nRegime de Apoio à Investigação e Desenvolvimento;\n\nProjectos de Inovação e Internacionalização das Estruturas Empresariais, do Regime de Apoio à Realização de Estratégias Empresariais Integradas;\n\nPequenos Projectos de Modernização Empresarial, do Regime de Apoio a PME de Menor Dimensão;\n\nRegime de Apoio à Promoção da Qualidade Industrial;\n\nb) Regime de Apoio a Entidades de Assistência Técnica, do Sistema de Incentivos a Serviços de Apoio à Indústria;\n\nc) Projectos Mobilizadores para o Desenvolvimento Tecnológico.\n\n4 - São ainda apoiadas a criação e a consolidação de pequenas empresas de base tecnológica.\n\n5 - São susceptíveis de apoio no âmbito do PRATIC os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo Decreto Legislativo Regional n.º 2/96/M, de 13 de Fevereiro."
+    },
+    {
+      "chave": "ANEXO IV::6.º",
+      "epigrafe": "[...]",
+      "texto": "1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do n.º 2 do anexo B;\n\ne) ...\n\nf) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) (Não aplicável.)"
+    },
+    {
+      "chave": "ANEXO III::6.º",
+      "epigrafe": "[...]",
+      "texto": "1 - ...\n\na) ...\n\nb) Enquadrar-se nos objectivos do PEDIP II em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do anexo G;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n2 - ...\n\n3 - ..."
+    }
+  ],
+  "nao_aplicavel": "Não aplicado: artigo 10.º do anexo IV (Despacho Normativo n.º 26/99) e artigos 4.º, 8.º, 9.º, 12.º e anexos A, B e G do novo anexo III (Despacho Normativo n.º 48/99), por não constarem do original fornecido; o anexo III é substituído na íntegra e só o artigo 6.º foi atualizado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

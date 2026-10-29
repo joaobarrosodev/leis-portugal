@@ -410,3 +410,15 @@ Dos 128 sem problemas, `juntar.py --escala` juntou 99 (`aplicado com LLM`, 85 de
 **Ronda 7** (os 99 juntados com o LLM, 4 lotes, `verificacao/entrada-piloto-7-lote-01..04.jsonl`, 22 pedaços, mesma verificação): **8 sem reparos e 91 com reparos** (88 com instruções em falta, 57 artigos `errado`, 13 `dúvida`). O rendimento do LLM em subagentes, neste estado do `juntar.py`, é baixo: das 400 entradas, 8 chegam ao acervo (2 %). Isto não contraria a ideia de usar o LLM, mas a forma: o pedido só leva os artigos que a instrução nomeia e, nos diplomas com muitas alterações, a resposta fica parcial; um diploma parcial não passa. Com a ronda 7, o `acervo.py --dry-run` passa a dar 338 aplicáveis (330 + 8).
 
 **Para continuar:** os lotes 011 a 110 estão por fazer (os 011 a 042 são os restantes com artigos identificados, menos citados). O rendimento por lote nos primeiros dez foi de 8 a 17 respostas sem problemas, mas a ronda 7 sugere que antes de gastar mais convém tratar a causa dos parciais (pedir ao LLM todas as instruções do diploma, com o texto completo dos artigos, e juntar por artigo) e a dos conflitos com as regras (22 de 128).
+
+### Bloco 2: LLM nos lotes 011 a 018 e ronda 8 (2026-10-29)
+
+Mesmo processo dos lotes 001 a 010 (ver acima). `llm.py --importar` deu, por lote:
+
+| Lote | 011 | 012 | 013 | 014 | 015 | 016 | 017 | 018 | Total |
+| --- | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| Sem problemas | 11 | 13 | 12 | 13 | 7 | 9 | 6 | 16 | 87 |
+| Não aplicável | 26 | 25 | 28 | 26 | 32 | 25 | 31 | 21 | 214 |
+| Com problemas | 3 | 2 | 0 | 1 | 1 | 6 | 3 | 3 | 19 |
+
+`juntar.py --escala` passou a ter 172 `aplicado com LLM` (139 parciais), 73 mais do que nos lotes 001 a 010. Ronda 8: esses 73 em 3 lotes (`verificacao/entrada-piloto-8-lote-01..03.jsonl`), verificados às cegas por 11 subagentes. **16 sem reparos** (22 %), 57 com reparos (53 com instruções em falta), 14 artigos `errado`, 4 `dúvida`. O `acervo.py --dry-run` dá agora 16 aplicáveis por aplicar (os 383 já aplicados estão no acervo).

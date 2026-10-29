@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:293718:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções referem-se aos artigos do Decreto-Lei n.º 361/91 propriamente dito (ex.: revoga n.os 6 e 8 do art. 5.º, inexistentes no texto recebido), mas os artigos do original recebidos são os dos estatutos da Fundação; alvo ambíguo. Além disso, a nova redação do n.º 2 do art. 3.º não vem nas instruções e a mudança de denominação não é textual. Nada aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

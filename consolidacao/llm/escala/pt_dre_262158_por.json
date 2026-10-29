@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:262158:por",
+  "artigos": [
+    {
+      "chave": "63.º",
+      "epigrafe": "Alteração do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho",
+      "texto": "Os artigos 3.º, 4.º e 10.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:\n\n'Artigo 3.º\n\n[...]\n\n1 - ...\n\na)...\n\nb)...\n\nc) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais.\n\nd)...\n\ne)...\n\nf)...\n\ng)...\n\n2 - ...'»"
+    }
+  ],
+  "nao_aplicavel": "Art. 63.º copiado tal como na redação do DLR 29/2008/M (os '...' referem-se ao texto do DLR 12/2005/M e mantêm-se). A instrução do DLR 14/2014/M sobre o art. 56.º não traz o novo texto; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

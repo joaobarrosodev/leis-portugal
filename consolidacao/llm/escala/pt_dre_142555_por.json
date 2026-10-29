@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:142555:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução do DL 300/76 sem o texto da nova redação dos arts. 3.º e 5.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:644891:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto e âmbito",
+      "texto": "1 - O presente diploma aprova o Regime de Apoio Específico Aplicável aos Projectos Desenvolvidos no Sector das Indústrias de Bens de Equipamento e das Tecnologias Ambientais, adiante designado por PRODIBETA.\n\n2 - As especificidades do regime a que se refere o número anterior, relativamente aos sistemas de incentivos e respectivos regimes de apoio criados no âmbito do PEDIP II, são as constantes dos anexos I a VII do presente despacho, do qual fazem parte integrante, sendo estabelecidas em função dos vários sectores abrangidos, bem como dos objectivos da política industrial.\n\n3 - Os sistemas de incentivos e regimes de apoio a que se refere o número anterior, aprovados pela Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, são os seguintes:\n\na) Sistema de Incentivos a Estratégias de Empresas Industriais:\n\nRegime de Apoio à Investigação e Desenvolvimento;\n\nProjectos de inovação e internacionalização das estruturas empresariais, do Regime de Apoio à Realização de Estratégias Empresariais Integradas;\n\nPequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão;\n\nb) Regime de Apoio a Entidades de Assistência Técnica, do Sistema de Incentivos a Serviços de Apoio à Indústria;\n\nc) Projectos mobilizadores para o desenvolvimento tecnológico.\n\n4 - São susceptíveis de apoio no âmbito do PRODIBETA os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), criado pelo Decreto-Lei n.º 193/94, de 19 de Julho, e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo Decreto Legislativo Regional n.º 2/96/M, de 13 de Fevereiro."
+    },
+    {
+      "chave": "ANEXO III::6.º",
+      "epigrafe": "[...]",
+      "texto": "1 - ...\n\na) ...\n\nb) Enquadrar-se nos objectivos do PEDIP II em geral, do presente regime de apoio em particular, e no âmbito do PRODIBETA, de acordo com os critérios constantes do anexo G;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n2 - ...\n\n3 - ..."
+    },
+    {
+      "chave": "ANEXO IV::6.º",
+      "epigrafe": "[...]",
+      "texto": "1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRODIBETA, de acordo com os critérios constantes do n.º 2 do anexo B;\n\ne) ...\n\nf) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) (Não aplicável.)"
+    }
+  ],
+  "nao_aplicavel": "Art. 10.º do anexo IV e arts. 4.º, 8.º, 9.º, 12.º e anexos A, B e G do anexo III não aplicados (artigos não fornecidos no original).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

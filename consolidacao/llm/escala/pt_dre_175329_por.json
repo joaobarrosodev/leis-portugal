@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:175329:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Missão e atribuições",
+      "texto": "1 - O IASFA, I. P., tem por missão garantir e promover a ação social complementar dos seus beneficiários e gerir o sistema de assistência na doença aos militares das Forças Armadas.\n\n2 - São atribuições do IASFA, I. P.:\n\na) Assegurar ações de bem-estar social dos beneficiários, no quadro da ação social complementar (ASC);\n\nb) Assegurar a gestão do sistema de assistência na doença aos militares das Forças Armadas (ADM);\n\nc) Promover a satisfação de necessidades sociais não cobertas por outros sistemas de assistência social;\n\nd) Promover, em colaboração com outras entidades ou serviços, a articulação e harmonização dos esquemas de prestações de ação social complementar;\n\ne) Assegurar uma adequada gestão das receitas, designadamente as provenientes de quotizações;\n\nf) Recolher e manter permanentemente atualizada informação sobre o universo de beneficiários e de benefícios concedidos;\n\ng) Promover a realização de estudos conducentes à melhoria da ação social complementar desenvolvida e propor as medidas ou os instrumentos legais necessários.\n\nh) Divulgar, anualmente, os resultados apurados, por atividade, no âmbito da gestão da ADM e da promoção da ASC.\n\n3 - A ASC concretiza-se através dos seguintes meios e de acordo com a seguinte priorização:\n\na) Equipamentos sociais, nomeadamente de apoio à velhice;\n\nb) Apoio domiciliário;\n\nc) Apoio à habitação, que se concretiza, nomeadamente, através da promoção do arrendamento social;\n\nd) (Revogada.)\n\ne) Comparticipações financeiras;\n\n4 - Outras ações que visem assegurar o bem-estar social dos beneficiários do IASFA, I. P., que não estejam previstas no número anterior, e que consubstanciem, nomeadamente, atividades de lazer, de turismo e de férias, alojamento temporário individual e serviços de restauração, devem ter retorno financeiro positivo ou neutro para o IASFA, I. P.\n\n5 - Compete ainda ao IASFA, I. P., garantir as ações de âmbito social consagradas no estatuto do extinto Cofre de Previdência das Forças Armadas, nomeadamente:\n\na) Assegurar o pagamento do subsídio pecuniário a que se refere o artigo 3.º do Estatuto do Cofre de Previdência das Forças Armadas, aprovado pelo [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de abril de 1960;\n\nb) Assegurar o processamento dos empréstimos hipotecários que foram concedidos ao abrigo da alínea d) do parágrafo 1.º do artigo 35.º do Estatuto referido na alínea anterior."
+    }
+  ],
+  "nao_aplicavel": "Arts. 7.º e 10.º não fornecidos no original; restantes diplomas sem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: e) Comparticipações financeiras;"
+  ]
+}

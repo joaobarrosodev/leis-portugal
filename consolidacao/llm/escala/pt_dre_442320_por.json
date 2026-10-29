@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:442320:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "Tempo acrescido",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

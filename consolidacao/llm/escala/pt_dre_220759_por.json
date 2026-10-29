@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:220759:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto Regulamentar n.º 43/90 só traz o proémio; a nova redação do artigo 17.º não consta do pedido. Os outros diplomas da lista não trazem instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

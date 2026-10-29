@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:298055:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 16/80 não traz a nova redação do art. 3.º; nada seguro a aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

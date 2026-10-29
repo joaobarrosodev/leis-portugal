@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:457071:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 256/93 anuncia nova redação do artigo 4.º mas não inclui o texto novo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

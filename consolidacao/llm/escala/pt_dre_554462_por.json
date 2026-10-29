@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:554462:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::9.º",
+      "epigrafe": "Forma e nível das ajudas",
+      "texto": "1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+    },
+    {
+      "chave": "ANEXO::10.º-A",
+      "epigrafe": "Obrigações dos beneficiários",
+      "texto": "Os beneficiários ficam obrigados a prestar os serviços a todos os interessados, nas condições constantes das suas propostas."
+    },
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Âmbito e objectivos",
+      "texto": "1 - O presente Regulamento estabelece o regime de aplicação da componente de apoio à prestação de serviços agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS.\n\n2 - No âmbito do presente Regulamento pode ser apoiada a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas."
+    }
+  ],
+  "nao_aplicavel": "Artigos 3.º e 8.º do Regulamento (Portaria n.º 978/2004) não aplicados: o texto original desses artigos não foi fornecido (epígrafes '[...]' e n.os 1 e 2 do 8.º '...' desconhecidos).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

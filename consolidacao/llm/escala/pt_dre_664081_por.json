@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:664081:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "Atribuições e competências",
+      "texto": "Ao Gabinete de Gestão e Controlo Orçamental (GGCO), dirigido por um director de serviços, compete assegurar a coordenação financeira e a gestão orçamental da SRE.\n\n1 - O GGCO tem como atribuições:\n\na) Elaborar a proposta orçamental da SRE;\n\nb) Coordenar e controlar a execução dos orçamentos dos estabelecimentos de ensino e serviços dependentes;\n\nc) Proceder ao estudo de dados estatísticos relativos às áreas da sua competência;\n\nd) Estabelecer a normalização de procedimentos e propor medidas que assegurem a intercomunicabilidade de dados entre os diversos serviços da SRE, tendo em vista a obtenção de maior eficiência e eficácia nos gastos públicos;\n\ne) Elaborar estudos e pareceres de carácter económico e estatístico, em colaboração com todas as direcções regionais, que possibilitem a análise de todo o sistema educativo e contribuam para a formação da política geral de educação;\n\nf) Providenciar o apoio aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência infância na área financeira;\n\ng) Superintender e coordenar os serviços de acção social escolar;\n\nh) Promover e realizar acções de formação na área da sua competência a todos os serviços que integram a SRE.\n\n2 - O director é substituído nas suas ausências e impedimentos pelo chefe de divisão para o efeito designado.\n\n3 - O director pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.\n\n4 - Na dependência do GGCO funcionam a Divisão de Gestão Orçamental (DGO), a Divisão de Acção Social Escolar (DASE), o Departamento Administrativo e de Processamento de Abonos (DAPA) e o Departamento de Contabilidade (DC)."
+    }
+  ],
+  "nao_aplicavel": "Arts. 17.º, 18.º, 19.º, 23.º, 26.º e 27.º não fornecidos no original; alteração do mapa anexo não textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

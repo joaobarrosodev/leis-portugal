@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:309905:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 2.º e 3.º também revogados, mas não constam dos artigos fornecidos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

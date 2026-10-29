@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:685448:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do DL 280/75 não traz o texto da nova redação dos artigos 39.º, 40.º e 44.º; DL 95/2009 sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

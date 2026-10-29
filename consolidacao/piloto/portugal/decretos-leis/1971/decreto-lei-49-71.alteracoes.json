@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. Para consecução das finalidades essenciais constantes do artigo anterior, funcionam na Escola Superior da Força Aérea o curso geral de guerra aérea, para oficiais pilotos aviadores, o curso de chefia de serviços, para oficiais engenheiros, médicos e de intendência e contabilidade, e o curso de aperfeiçoamento, para oficiais pilotos navegadores, técnicos e do serviço geral.\n\n2. Na Escola podem também funcionar estágios e cursos de actualização e outros que a experiência venha a aconselhar para oficiais habilitados com os cursos referidos no n.º 1 deste artigo.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268) e [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:446899:por",
+    "alterador": "pt:dre:310268:por;pt:dre:327312:por"
+  }
+]

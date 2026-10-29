@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:264358:por",
+  "artigos": [],
+  "nao_aplicavel": "As alterações da Lei n.º 13/2005 incidem sobre o texto citado (artigos 30.º e 31.º do DL 83/2000) dentro do artigo único; alvo ambíguo, não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

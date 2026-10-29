@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. O Conselho Administrativo do Fundo de Fomento da Habitação é constituído pelo presidente, por um dos vice-presidentes a designar pelo Secretário de Estado da Habitação e Urbanismo e pelo director de Serviços de Finanças e Administração.\n\n2. Às reuniões do Conselho Administrativo assistirá um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado sempre que o Conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro.",
+    "depois": "###### Artigo 2.º\n\n1 - (Revogado.)\n\n2. Às reuniões do Conselho Administrativo assistirá um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado sempre que o Conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro.\n\n> Alterado pelo/a [Decreto-Lei n.º 406/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1975-336353) e [Decreto-Lei n.º 427/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1975-314468), publicado em 1975-08-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:486306:por",
+    "alterador": "pt:dre:336353:por;pt:dre:314468:por"
+  }
+]

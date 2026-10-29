@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:452546:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decreto do Governo n.º 76/84 e n.º 48/85) só trazem a frase introdutória 'são alterados pela forma seguinte:' sem o texto das alterações; os Avisos não têm instruções. Nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Mobilidade\n\n1 - Os funcionários com as categorias referidas nas alíneas a), b) e c) do n.º 1 do artigo 70.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, que sejam nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, encontrando-se nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção serão integrados na escala salarial correspondente ao cargo que detêm, em escalão idêntico ao que lhes seria atribuído na escala salarial da categoria para que são promovidos, tendo presente o disposto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.",
+    "depois": "###### Artigo 4.º — Mobilidade\n\n1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.\n\n> Alterado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575126:por",
+    "alterador": "pt:dre:533376:por;pt:dre:559038:por;pt:dre:218365:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Funções de coordenação\n\nOs funcionários designados para a chefia ou coordenação de secções, sectores ou equipas constituídas ao abrigo das disposições orgânicas próprias da Direcção-Geral das Contribuições e Impostos serão remunerados pelo escalão imediatamente seguinte àquele a que têm direito enquanto se mantiverem nessa situação.",
+    "depois": "###### Artigo 10.º — Funções de coordenação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575126:por",
+    "alterador": "pt:dre:533376:por;pt:dre:559038:por;pt:dre:218365:por"
+  }
+]

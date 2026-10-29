@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:214265:por",
+  "artigos": [],
+  "nao_aplicavel": "O n.º 3 do artigo 4.º foi alterado sem texto da nova redacção; só a revogação do n.º 4 seria segura, mas o artigo ficaria incompleto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

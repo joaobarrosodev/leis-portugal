@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:375456:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Composição",
+      "texto": "1 - O conselho de ilha é composto por:\n\na) Presidentes das assembleias municipais e câmaras municipais;\n\nb) Quatro membros eleitos por cada assembleia municipal;\n\nc) Três presidentes de junta de freguesia, a serem eleitos de entre todos os presidentes de junta da respetiva ilha, segundo o método da média mais alta de Hondt;\n\nd) Um representante do Governo Regional, sem direito a voto;\n\ne) Dois representantes dos sectores empresariais;\n\nf) Dois representantes dos movimentos sindicais;\n\ng) Dois representantes das associações agrícolas.\n\nh) Um representante das associações do setor das pescas;\n\ni) Um representante das instituições particulares de solidariedade social;\n\nj) Um representante das associações não governamentais ligadas à área do ambiente;\n\nk) Um representante das associações de defesa da igualdade de género nas ilhas onde tenham sede ou delegações;\n\nl) Um representante da Universidade dos Açores nas ilhas onde estão localizados os respetivos campus universitários.\n\n2 - Podem ainda ser convidados a participar nas reuniões do conselho de ilha, outras entidades ou personalidades da ilha ou da Região, em função das matérias em apreciação."
+    }
+  ],
+  "nao_aplicavel": "Artigos 3.º, 5.º, 6.º, 7.º, 9.º, 16.º, 19.º e 24.º também alterados, mas não constam dos artigos fornecidos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: e) Dois representantes dos sectores empresariais;",
+    "2.º: parágrafo que não está no alterador nem no original: g) Dois representantes das associações agrícolas."
+  ]
+}

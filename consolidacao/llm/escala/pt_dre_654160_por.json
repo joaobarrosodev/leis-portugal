@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:654160:por",
+  "artigos": [],
+  "nao_aplicavel": "A revogação visa os artigos 26.º-A a 32.º da Lei Orgânica da IRAE na redacção dada por vários decretos; o original só tem os artigos 1.º e 2.º (os artigos visados constam do texto citado no artigo 1.º, de outro diploma); alvo ambíguo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -26,5 +26,33 @@
     "unidade": [],
     "diploma": "pt:dre:531186:por",
     "alterador": "pt:dre:303385:por"
+  },
+  {
+    "artigo": "ANEXO::7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Condições de acesso\n\n1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha;\n\nb) Integrarem um plano de gestão da área de incidência ou de influência do investimento;\n\nc) Terem início após a celebração do contrato de atribuição de ajudas.\n\n2 - Quando se trate de arborização e rearborização com espécies de rápido crescimento a explorar em rotações/revoluções inferiores a 20 anos, previstas no n.º 3 do artigo anterior, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n3 - Os projectos de uso múltiplo na área da actividade cinegética devem ainda observar as seguintes condições:\n\na) Os investimentos têm de incidir em áreas incluídas em zona de caça de interesse associativo ou municipal já constituídas;\n\nb) Ter sido aprovado pelos organismos competentes um plano de gestão ou de ordenamento cinegético para a área em causa.",
+    "depois": "###### Artigo 7.º — Condições de acesso\n\n1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha;\n\nb) Serem elaborados por um técnico em ciências silvícolas de grau igual ou superior a bacharel, caso incidam sobre uma área superior a 20 ha;\n\nc) Terem início após a apresentação da candidatura, devendo esse facto ser previamente comunicado ao IFADAP.\n\n2 - Quando se trate de arborização e rearborização com espécies de rápido crescimento a explorar em rotações/revoluções inferiores a 20 anos, previstas no n.º 3 do artigo anterior, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n3 - Os projectos de uso múltiplo na área da actividade cinegética devem ainda observar as seguintes condições:\n\na) Os investimentos têm de incidir em áreas incluídas em zona de caça de interesse associativo ou municipal já constituídas;\n\nb) Ter sido aprovado pelos organismos competentes um plano de gestão ou de ordenamento cinegético para a área em causa.\n\n> Alterado pelo/a [Portaria n.º 161/2003](https://diariodarepublica.pt/dr/detalhe/portaria/161-2003-190589) e [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744) e [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024) e [Portaria n.º 609-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-2009-592170), publicado em 2009-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:190589:por;pt:dre:445744:por;pt:dre:540024:por;pt:dre:592170:por"
+  },
+  {
+    "artigo": "ANEXO::18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — Pagamentos\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.\n\n2 - Os pedidos de pagamento das ajudas devem ser acompanhados do livro de obra.\n\n3 - O pagamento da última parcela das ajudas fica condicionado à emissão do auto de fecho do projecto.",
+    "depois": "###### Artigo 18.º — Pagamentos\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.\n\n2 - Os pedidos de pagamento das ajudas devem ser acompanhados do livro de obra.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 161/2003](https://diariodarepublica.pt/dr/detalhe/portaria/161-2003-190589) e [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744) e [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024) e [Portaria n.º 609-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-2009-592170), publicado em 2009-06-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:190589:por;pt:dre:445744:por;pt:dre:540024:por;pt:dre:592170:por"
   }
 ]

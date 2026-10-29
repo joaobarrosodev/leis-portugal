@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO::2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Âmbito\n\n1 - A presente medida abrange as seguintes acções:\n\na) Acção A, «Criação de veículos para a capitalização de PME»;\n\nb) Acção B, «Constituição e reforço dos mecanismos de garantia».\n\n2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento.",
+    "depois": "###### Artigo 2.º — Âmbito\n\n1 - A presente medida abrange as seguintes acções:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção B, «Constituição e reforço dos mecanismos de garantia».\n\n2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:585182:por",
+    "alterador": "pt:dre:519978:por"
+  },
+  {
+    "artigo": "ANEXO::3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Acção A\n\n1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.\n\n2 - Para a prossecução deste objectivo, serão criados os seguintes instrumentos:\n\na) Linha de financiamento a veículos de investimento mobiliário e imobiliário, com vista à subscrição de títulos emitidos por entidades especializadas naquele domínio, para a realização de investimentos que concorram para o reforço dos capitais próprios das PME ou para a disponibilização de activos fixos essenciais ao exercício da actividade empresarial, adiante designada por acção A1;\n\nb) Fundo de Sindicação e Desconto de Participações (FSDP), que terá por objecto a realização de operações combinadas na área do capital de risco, através do investimento e da concessão de financiamentos a entidades especializadas naquele domínio, tendo em vista o reforço dos capitais próprios de PME que desenvolvam actividade nos sectores abrangidos no âmbito do POE, adiante designado por acção A2.",
+    "depois": "###### Artigo 3.º — Acção A\n\n1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.\n\n2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:585182:por",
+    "alterador": "pt:dre:519978:por"
+  },
+  {
+    "artigo": "ANEXO::5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Entidades beneficiárias\n\nSerão apoiadas as seguintes entidades beneficiárias:\n\na) Acção A1 - entidades especializadas no âmbito de actuação previsto nesta acção;\n\nb) Acção A2 - Fundo de Sindicação e Desconto de Participações;\n\nc) Acção B1 - Fundo de Contragarantia Mútuo;\n\nd) Acção B2 - sociedades de garantia mútua;\n\ne) Acção B3 - Fundo de Garantia para Titularização de Créditos.",
+    "depois": "###### Artigo 5.º — Entidades beneficiárias\n\nSerão apoiadas as seguintes entidades beneficiárias:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção A2 - Fundo de Sindicação e Desconto de Participações;\n\nc) Acção B1 - Fundo de Contragarantia Mútuo;\n\nd) Acção B2 - sociedades de garantia mútua;\n\ne) Acção B3 - Fundo de Garantia para Titularização de Créditos.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:585182:por",
+    "alterador": "pt:dre:519978:por"
+  }
+]

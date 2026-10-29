@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:240050:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução da RCM 64/2016 sem texto da nova redação; a RCM 66/2019 revoga o plano 'sem prejuízo do disposto no número anterior' (revogação condicionada), não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

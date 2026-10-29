@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:249979:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do DRR 6/2011/M não trazem a nova redação dos artigos (nem da denominação da subsecção, nem do anexo II); nada seguro a aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

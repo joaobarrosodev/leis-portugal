@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:363960:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "Dispensa da avaliação relativa ao tempo de serviço prestado em anos anteriores",
+      "texto": "1 - Os docentes abrangidos pelo regime previsto no presente diploma ficam dispensados da avaliação relativa ao tempo de serviço prestado até à data da sua entrada em vigor, sendo facultativa a elaboração do relatório crítico sobre a actividade desenvolvida no período de tempo de serviço que releva para os efeitos de progressão na carreira.\n\n2 - Até à aplicação generalizada do novo modelo de administração, direcção e gestão dos estabelecimentos de educação e de ensino, definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, nos jardins-de-infância e nas escolas do 1.º ciclo do ensino básico, o respectivo dirctor exercerá as funções previstas os artigos 5.º, 6.º, 7.º e 8.º deste diploma.\n\n3 - Em relação às escolas com menos de três lugares, as competências referidas no número anterior são exercidas pelo presidente do conselho escolar.\n\n4 - No caso de jardins-de-infância sem director, as competências previstas no n.º 2 são exercidas pelo delegado escolar respectivo."
+    }
+  ],
+  "nao_aplicavel": "Decreto Regulamentar n.º 58/94 (artigo 12.º e epígrafe do capítulo IV): instrução sem o texto da nova redação. DL n.º 41/96: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "26.º: parágrafo que não está no alterador nem no original: 1 - Os docentes abrangidos pelo regime previsto no presente diploma ficam dispen"
+  ]
+}

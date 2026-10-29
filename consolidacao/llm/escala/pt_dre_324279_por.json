@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:324279:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Comissão directiva",
+      "texto": "1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.\n\n2 - O presidente e os vogais da comissão directiva são nomeados nos termos do Decreto-Lei n.º 19/93, de 23 de Janeiro, alterado pelos Decretos-Leis n.os 151/95, de 24 de Junho, 213/97, de 16 de Agosto, e 221/2002, de 22 de Outubro.\n\n3 - As Câmaras Municipais de Santiago do Cacém e de Sines dispõem do prazo de 22 dias úteis para indicar um dos vogais da comissão directiva.\n\n4 - O mandato dos titulares da comissão directiva é de três anos.\n\n5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de um dos vogais.\n\n6 - O presidente tem voto de qualidade."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 10.º e 12.º (nova redação) e 9.º (revogado) não constam dos artigos fornecidos; alteração de limites e revogação dos anexos I e II não textuais. Artigo 8.º alterado pelo DR 4/2004 e depois revogado pelo DL 78/2015",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "6.º: parágrafo que não está no alterador nem no original: 4 - O mandato dos titulares da comissão directiva é de três anos.",
+    "6.º: parágrafo que não está no alterador nem no original: 5 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinari",
+    "6.º: parágrafo que não está no alterador nem no original: 6 - O presidente tem voto de qualidade."
+  ]
+}

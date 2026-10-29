@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:666711:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Adaptação à Região",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alteração dos mapas I a IX (quadros) não aplicável; a instrução sobre o artigo 8.º não traz a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

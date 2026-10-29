@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:534642:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Caução",
+      "texto": "1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, na importância de 5000000$00, a efectuar mediante transferência bancária para a conta NIB n.º 001800000073888800172, no Banco Totta & Açores (Agência da Rua do Ouro), ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.\n\n2 - Os concorrentes que revoguem as suas propostas perdem, a favor da PORTUCEL, as respectivas cauções.\n\n3 - Sem prejuízo do disposto no número anterior, o concorrente vencedor, bem como o que lhe suceder nos termos do n.º 2 do artigo 21.º, perde a caução, a favor da PORTUCEL, se não proceder, nas condições e prazo fixados neste caderno de encargos, ao pagamento do preço das acções objecto de alienação, e do crédito da PORTUCEL previsto no artigo 27.º\n\n4 - As cauções prestadas pelos concorrentes excluídos nos termos dos n.os 3 e 4 do artigo 16.º, do n.º 3 do artigo 17.º e do n.º 3 do artigo 18.º são liberadas nos cinco dias úteis subsequentes à divulgação, no acto público a que se referem os artigos 14.º e seguintes, da respectiva decisão por parte do júri.\n\n5 - Sem prejuízo do disposto nos n.os 2 e 3, as cauções prestadas pelos outros concorrentes são liberadas nos cinco dias úteis posteriores à entrega do documento comprovativo do pagamento previsto no artigo 26.º"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "10.º: parágrafo que não está no alterador nem no original: 1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depós"
+  ]
+}

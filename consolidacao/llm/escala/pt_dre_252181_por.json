@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:252181:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "As obrigações do Tesouro - FIP, classe A, 1977, terão as seguintes características:\n\na) Taxa de juro nominal de 14% ao ano;\n\nb) Valor nominal de 1000$00;\n\nc) Amortização, ao par, por sorteio, em cinco anuidades iguais, excepto uma, se necessário;\n\nd) Primeira amortização em 1980."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: d) Primeira amortização em 1980."
+  ]
+}

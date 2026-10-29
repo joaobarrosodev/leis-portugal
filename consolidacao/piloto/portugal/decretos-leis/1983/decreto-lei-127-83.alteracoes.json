@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ criada uma taxa sobre mercadoria pela utilização do porto de Sines, incidindo sobre as ramas de petróleo bruto entradas no porto.",
+    "depois": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309905:por",
+    "alterador": "pt:dre:416073:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Segunda fase de reprivatização\n\n1 - A segunda fase de reprivatização do capital social da PORTUCEL, S. A., ocorrerá em dois segmentos, sem prejuízo do disposto no n.º 2 do presente artigo:\n\na) Um deles, sem prejuízo do que se dispõe no n.º 2, na modalidade de aumento de capital da PORTUCEL, S. A., a subscrever por parceiro escolhido na sequência de concurso aberto a empresas do sector da pasta e do papel, realizado preferencialmente em espécie, mediante entradas de activos industriais ou, não sendo esse o caso, por acções que confiram participações relevantes em empresas do sector da pasta e do papel, ou ainda por tais activos e acções, aumento de capital este que será realizado através da emissão de acções representativas de um valor até 25% do capital social, calculado após o respectivo aumento, da PORTUCEL, S. A.;\n\nb) O outro, na modalidade de alienação, mediante uma venda directa de até 115125000 acções representativas do capital social da PORTUCEL, S. A., a um conjunto de instituições financeiras que ficam obrigadas a proceder à subsequente dispersão de acções junto de investidores institucionais.\n\n2 - A realização do segmento referido na alínea a) do número anterior desta segunda fase de reprivatização da PORTUCEL, S. A., ficará dependente da obtenção das deliberações referidas no n.º 1 do artigo 3.º por parte da assembleia geral da PORTUCEL, S. A., no prazo que vier a ser fixado mediante resolução do Conselho de Ministros.\n\n3 - A alienação das acções correspondentes ao segmento referido na alínea b) do n.º 1 será feita directamente pelo Estado ou por intermédio da PAPERCEL, SGPS, S. A., em processo de fusão por incorporação com a PORTUCEL, SGPS, S. A.",
+    "depois": "###### Artigo 2.º — Segunda fase de reprivatização\n\n1 - A segunda fase de reprivatização do capital social da PORTUCEL, S. A., ocorrerá em dois segmentos, sem prejuízo do disposto no n.º 2 do presente artigo:\n\na) Um deles, sem prejuízo do que se dispõe no n.º 2, na modalidade de aumento de capital da PORTUCEL, S. A., a subscrever por parceiro escolhido na sequência de concurso aberto a empresas do sector da pasta e do papel, realizado preferencialmente em espécie, mediante entradas de activos industriais ou, não sendo esse o caso, por acções que confiram participações relevantes em empresas do sector da pasta e do papel, ou ainda por tais activos e acções, aumento de capital este que será realizado através da emissão de acções representativas de um valor até 25% do capital social, calculado após o respectivo aumento, da PORTUCEL, S. A.;\n\nb) (Revogada.)\n\n2 - A realização do segmento referido na alínea a) do número anterior desta segunda fase de reprivatização da PORTUCEL, S. A., ficará dependente da obtenção das deliberações referidas no n.º 1 do artigo 3.º por parte da assembleia geral da PORTUCEL, S. A., no prazo que vier a ser fixado mediante resolução do Conselho de Ministros.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 143/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2006-539399), publicado em 2006-07-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176529:por",
+    "alterador": "pt:dre:539399:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Venda directa e subsequente dispersão\n\n1 - A quantidade de acções objecto da venda directa referida na alínea b) do n.º 1 do artigo 2.º, destinada a um conjunto de instituições financeiras que ficam obrigadas a proceder à subsequente dispersão de acções junto de investidores institucionais, será definida mediante resolução do Conselho de Ministros, não sendo no entanto superior a uma percentagem do capital social da PORTUCEL, S. A., correspondente a 115125000 acções.\n\n2 - A definição das condições, nomeadamente o preço, a que obedecerá a venda directa e a subsequente dispersão das acções objecto da mesma constará de um caderno de encargos a aprovar mediante resolução do Conselho de Ministros, sem prejuízo de ficar desde já estipulado que nenhum investidor institucional, por si só ou através dos votos que lhe sejam imputáveis nos termos do n.º 1 do artigo 20.º do Código dos Valores Mobiliários, poderá adquirir, neste segmento, acções representativas de mais de 3% dos direitos de voto da PORTUCEL, S. A.\n\n3 - A ultrapassagem do limite de 3% fixado no número anterior determinará a perda do direito de voto relativamente às acções que excederem o referido limite.\n\n4 - Para efeitos do registo de acções, bem como do pagamento de quaisquer taxas, comissões ou emolumentos que legalmente forem devidos, considera-se como uma única transacção a venda directa e a subsequente dispersão referidas nos n.os 1 e 2 do presente artigo.",
+    "depois": "###### Artigo 7.º — Venda directa e subsequente dispersão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 143/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2006-539399), publicado em 2006-07-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:176529:por",
+    "alterador": "pt:dre:539399:por"
+  }
+]

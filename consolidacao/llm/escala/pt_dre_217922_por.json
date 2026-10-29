@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:217922:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º-A",
+      "epigrafe": "",
+      "texto": "1 - Sem prejuízo do disposto no artigo anterior, fica a concessionária autorizada a integrar no seu quadro de efectivos, mediante celebração de contrato de trabalho, os trabalhadores que nesta empresa exercem funções em regime de requisição à Direcção Regional dos Aeroportos da Madeira.\n\n2 - Os funcionários nas condições previstas no número anterior que pretendam efectuar a sua integração no quadro de efectivos da concessionária mediante celebração de contrato de trabalho deverão requerer a sua exoneração à Direcção dos Aeroportos da Madeira, no prazo de 30 dias úteis a contar da entrada em vigor da presente disposição.\n\n3 - O requerimento de exoneração a apresentar pelos trabalhadores requisitados deverá ser apresentado na Direcção dos Aeroportos da Madeira, que, posteriormente, irá remetê-lo à Secretaria Regional do Turismo e Transportes.\n\n4 - Após a recepção do requerimento de exoneração dos trabalhadores requisitados, a concessionária obriga-se a celebrar contrato de trabalho com os requerentes, remetendo cópia do contrato de trabalho juntamente com o pedido de exoneração à Secretaria Regional do Turismo e Transportes.\n\n5 - O contrato de trabalho celebrado entre a concessionária e os requerentes, nos termos dos números anteriores, produzirá efeitos à data da apresentação do pedido de exoneração da Direcção Regional de Aeroportos da Madeira, salvaguardando a respectiva antiguidade.\n\n6 - Cumprido o disposto no número anterior, será exarado despacho de exoneração com data de produção de efeitos reportada à da apresentação do respectivo requerimento."
+    }
+  ],
+  "nao_aplicavel": "Revogação dos artigos 4.º, 6.º, 7.º, 8.º n.º 2, 10.º e 12.º não aplicada (artigos não fornecidos); alínea b) da instrução de revogação está truncada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

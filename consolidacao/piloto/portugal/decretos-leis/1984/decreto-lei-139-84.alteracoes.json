@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\nPor despacho conjunto dos Ministros das Finanças e do Plano e do Mar será nomeada, no prazo de 5 dias, a contar da data de publicação do presente diploma, uma comissão liquidatária constituída por 1 presidente e 2 vogais.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 161/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1989-611075), publicado em 1989-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385043:por",
+    "alterador": "pt:dre:611075:por"
+  }
+]

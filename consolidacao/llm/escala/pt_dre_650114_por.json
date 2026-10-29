@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:650114:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Modalidades",
+      "texto": "1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de 2 milhões de acções representativas de 94,97% do capital social da SETENAVE.\n\n2 - A 2.ª fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5,03% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa."
+    }
+  ],
+  "nao_aplicavel": "Artigos 6.º e 8.º não foram fornecidos no original, pelo que não foram devolvidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

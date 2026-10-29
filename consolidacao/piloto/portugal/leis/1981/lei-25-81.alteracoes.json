@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "10.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 31/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1985-328388), publicado em 1985-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575917:por",
+    "alterador": "pt:dre:328388:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 11.º\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 31/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1985-328388), publicado em 1985-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575917:por",
+    "alterador": "pt:dre:328388:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 31/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1985-328388), publicado em 1985-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575917:por",
+    "alterador": "pt:dre:328388:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1 - As substâncias compreendidas na lista anexa que serviram ou se destinavam à prática de infracções ou são produto destas serão apreendidas e entregues à Direcção-Geral de Saúde, mediante termo lavrado nos autos, logo que examinadas por ordem da autoridade competente para a investigação ou instrução.\n\n2 - A Direcção-Geral de Saúde, proferida a decisão definitiva, destruirá as substâncias a que não possa ser dado aproveitamento lícito.\n\n3 - Para efeitos probatórios, uma amostra de tais substâncias ficará apensa ao processo, devidamente identificada, acondicionada, pesada e selada, e será depositada em cofre, remetendo-se à Direcção-Geral de Saúde, para os fins consignados no número anterior, logo que seja proferida decisão definitiva.\n\nARTIGO 10.º\n\n1 - Os veículos automóveis apreendidos em processo crime que sejam susceptíveis de vir a ser declarados perdidos a favor do Estado podem, a requerimento do Ministério Público, decorridos seis meses sobre a apreensão sem que o inquérito ou instrução se mostrem concluídos ou um ano sem que tenha sido proferida sentença final, ser afectados ao parque automóvel do Estado ou vendidos, se a sua conservação assim o aconselhar, quando desnecessários para a fase instrutória do processo.\n\n2 - O despacho de afectação ou de venda será proferido pelo juiz do processo e precedido de exame e avaliação do veículo, com recurso a meios fotográficos.\n\n3 - Os proprietários ou legítimos possuidores dos veículos, quando a susceptibilidade de estes serem declarados perdidos a favor do Estado resultar de os mesmos terem servido como instrumento de crime, podem requerer a prestação de caução de valor equivalente ao do veículo, caso em que este lhes será confiado a título de fiéis depositários.\n\nARTIGO 11.º\n\nA venda a que se refere o artigo anterior realizar-se-á por intermédio da Direcção dos Serviços de Gestão dos Veículos do Estado, em termos a regulamentar por portaria dos Ministros das Finanças e do Plano e da Justiça, depositando-se o produto da venda na Caixa Geral de Depósitos, à ordem da entidade que dirigir o processo.\n\nARTIGO 12.º\n\n1 - Os veículos automóveis apreendidos não susceptíveis de perda a favor do Estado podem ser restituídos aos seus legítimos possuidores logo que se tornem desnecessários para a instrução e tenha sido efectuado exame nos termos do n.º 2 do artigo 10.º, sem prejuízo do disposto no artigo 24.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro.\n\n2 - Os veículos deverão ser apresentados quando necessários para a instrução ou quando o tribunal o exija; a não apresentação faz incorrer o possuidor no crime de desobediência qualificada e o veículo poderá novamente ser apreendido.\n\nARTIGO 13.º\n\nNo caso de, na decisão final, não vir a ser declarada a perda definitiva do veículo a favor do Estado, será entregue ao lesado o produto da venda, acrescido, se for caso disso, de indemnização pelos prejuízos, nos termos do disposto no artigo 9.º, n.º 1, do [Decreto-Lei n.º 48051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48051-1967-385464), de 21 de Novembro de 1967.",
+    "depois": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 31/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1985-328388), publicado em 1985-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575917:por",
+    "alterador": "pt:dre:328388:por"
+  },
+  {
+    "artigo": "14.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\nAs disposições dos artigos 10.º e 13.º deste diploma são aplicáveis às apreensões de veículos automóveis verificadas através do Contencioso Aduaneiro e do Regulamento das Alfândegas, com as devidas adaptações.\n\nAprovada em 25 de Junho de 1981.\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 22 de Julho de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nPara ser publicada no Boletim Oficial de Macau.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 31/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1985-328388), publicado em 1985-01-25.\n\nAprovada em 25 de Junho de 1981.\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 22 de Julho de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nPara ser publicada no Boletim Oficial de Macau.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:575917:por",
+    "alterador": "pt:dre:328388:por"
+  }
+]

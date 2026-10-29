@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:622128:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Lei n.º 51/91, aditamento do n.º 7, e Lei n.º 2/92, nova redação do art. 15.º) não trazem o texto a aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

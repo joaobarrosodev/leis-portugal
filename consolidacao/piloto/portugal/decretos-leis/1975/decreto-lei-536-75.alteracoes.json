@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. Os hospitais centrais e distritais poderão contratar consultores médicos, com vista a garantir apoio técnico no âmbito de especialidades, quando tal se revele necessário.\n\n2. A função de consultor médico só poderá ser exercida por médicos que possuam, pelo menos, o grau de especialista.\n\n3. Os consultores médicos deverão prestar o mínimo de doze horas de serviço semanal.\n\n4. Os consultores médicos perceberão, pelo exercício desse cargo, remunerações calculadas na base do vencimento/hora da sua categoria no âmbito da carreira médica, acrescidas de subsídio para deslocação a estabelecer em cada caso.\n\n5. Os encargos a que se refere o número anterior serão suportados pelos hospitais em que os consultores exerçam estas funções.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013) e [Decreto-Lei n.º 201/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696), publicado em 1980-06-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:312061:por",
+    "alterador": "pt:dre:506013:por;pt:dre:473696:por"
+  }
+]

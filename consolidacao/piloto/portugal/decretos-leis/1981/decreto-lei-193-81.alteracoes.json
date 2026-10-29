@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "12.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º\n\nSem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.\n\n> Aditado pelo/a [Decreto-Lei n.º 377/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1985-177003) e [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580344:por",
+    "alterador": "pt:dre:177003:por;pt:dre:233721:por"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:335901:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Órgãos consultivos",
+      "texto": "O MADRP compreende os seguintes órgãos consultivos:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Conselho Nacional da Pesca, adiante designado por CNP;\n\nd) (Revogada.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Objectivo",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Objectivo",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "16.º-A",
+      "epigrafe": "Secções especializadas",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "16.º-B",
+      "epigrafe": "Conselho das Organizações Interprofissionais Florestais",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Composição",
+      "texto": "1 - O CNP tem a seguinte composição:\n\na) O director-geral das Pescas e Aquicultura;\n\nb) Dois representantes da Administração Pública;\n\nc) Dois representantes das Regiões Autónomas;\n\nd) Um representante dos municípios;\n\ne) Nove representantes dos armadores da pesca;\n\nf) Quatro representantes das organizações de produtores;\n\ng) Três representantes do sector da aquicultura;\n\nh) Quatro representantes das associações da indústria de transformação e comercialização dos produtos da pesca;\n\ni) Um representante das associações de defesa dos consumidores;\n\nj) Um representante das organizações não governamentais de ambiente;\n\nl) Seis representantes das confederações de trabalhadores;\n\nm) Um representante das organizações de produtores da Região Autónoma dos Açores e um da Região Autónoma da Madeira;\n\nn) Um representante das associações de industriais da transformação e comercialização dos produtos da pesca da Região Autónoma dos Açores e um da Região Autónoma da Madeira;\n\no) Dois representantes das instituições de ensino e de investigação científica, nos domínios da pesca, da aquicultura e das ciências do mar;\n\np) Quatro personalidades de reconhecido mérito nas áreas da pesca, da aquicultura e das ciências do mar.\n\n2 - Os membros do CNP e os respectivos suplentes são nomeados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, atentos os seguintes princípios:\n\na) Os membros efectivos e suplentes a que se referem as alíneas b), c) e d) serão propostos, respectivamente, pelo Ministério do Ambiente e do Ordenamento do Território, pelo Ministério da Administração Interna e pelos Governos das Regiões Autónomas dos Açores e da Madeira e pela Associação Nacional de Municípios Portugueses;\n\nb) Os membros efectivos e suplentes a que se referem as alíneas e) a j) serão propostos pelas associações e organizações, atenta a respectiva representatividade.\n\n3 - Na composição de todos os órgãos previstos no presente diploma promover-se-á um justo equilíbrio entre homens e mulheres.\n\n4 - O mandato dos membros do CNP tem a duração de quatro anos."
+    }
+  ],
+  "nao_aplicavel": "Artigos 23.º e 16.º (alterados com '...') sem original fornecido; artigos 8.º a 14.º, 16.º, 19.º, 20.º e 25.º revogados pelo DL n.º 160/2008 mas sem original/epígrafe fornecidos. DL n.º 246/2002: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

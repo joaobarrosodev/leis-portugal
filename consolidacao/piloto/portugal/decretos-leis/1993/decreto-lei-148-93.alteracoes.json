@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - É criada na Direcção-Geral dos Registos e do Notariado a Direcção de Serviços de Identificação Civil.\n\n2 - Compete à Direcção de Serviços de Identificação Civil:\n\na) Recolher, tratar e conservar os elementos identificadores de cada cidadão com o fim de estabelecer a sua identificação civil, nos termos da lei;\n\nb) Organizar e manter actualizado o ficheiro central de identificação civil;\n\nc) Emitir bilhetes de identidade, enquanto não se encontrar descentralizada a sua emissão pelas conservatórias do registo civil;\n\nd) Prestar todo o apoio necessário às conservatórias do registo civil no exercício das suas competências, na área da identificação;\n\ne) Prestar informações sobre identificação civil;\n\nf) Analisar e dar parecer técnico-jurídico sobre as questões relacionadas com a identificação civil que lhe sejam colocadas.\n\n3 - A Direcção de Serviços de Identificação Civil compreende:\n\na) A Divisão de Identificação Civil, a quem cabe exercer as competências previstas nas alíneas a) a e) do número anterior;\n\nb) O Gabinete de Apoio Jurídico, a quem cabe exercer a competência prevista na alínea f) do número anterior.\n\n4 - O Gabinete de Apoio Jurídico é dirigido por um chefe de divisão.\n\n5 - O funcionamento da Direcção de Serviços de Identificação Civil é apoiado pelos serviços administrativos da Direcção-Geral dos Registos e do Notariado no que respeita à gestão do pessoal, à administração financeira e patrimonial e às actividades inerentes ao expediente, arquivo e impressos.",
+    "depois": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 87/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1994-258994) e [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), publicado em 2001-03-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300011:por",
+    "alterador": "pt:dre:258994:por;pt:dre:388183:por"
+  }
+]

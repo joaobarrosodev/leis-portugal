@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\nA silicose é doença de notificação obrigatória à Direcção-Geral de Saúde e aos tribunais do trabalho.",
+    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 2/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1982-553389), publicado em 1982-01-05.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:516071:por",
+    "alterador": "pt:dre:553389:por"
+  }
+]

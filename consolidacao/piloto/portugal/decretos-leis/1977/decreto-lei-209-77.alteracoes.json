@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — (Interpretação e integração)\n\n1. As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Alto-Comissário para os Desalojados.\n\n2. O Alto-Comissário poderá transitoriamente recorrer a formas de ajuda de carácter excepcional para integração sócio-económica do desalojado, desde que permitam a redução imediata de vultosos encargos economicamente inúteis.\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.",
+    "depois": "###### Artigo 11.º — Interpretação e integração\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.\n\n> Alterado pelo/a [Lei n.º 73/77](https://diariodarepublica.pt/dr/detalhe/lei/73-1977-278258) e [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:252824:por",
+    "alterador": "pt:dre:278258:por;pt:dre:324774:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:570108:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Preço e condições de pagamento",
+      "texto": "1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)"
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Nova unidade fabril",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação dos artigos 27.º e 44.º do caderno de encargos não aplicada: texto original desses artigos não fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

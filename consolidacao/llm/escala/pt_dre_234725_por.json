@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:234725:por",
+  "artigos": [],
+  "nao_aplicavel": "A RCM 66/2019 revoga o POOC de Alcobaça-Mafra no seu todo, 'sem prejuízo do disposto no número anterior' (revogação global e condicionada, não de artigos concretos); não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

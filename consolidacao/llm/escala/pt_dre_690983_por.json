@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:690983:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Atribuições",
+      "texto": "São atribuições do IGM:\n\na) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;\n\nb) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;\n\nc) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:517191:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções 1 a 6 (DL 44-B/2010 e DL 214-B/2015) só trazem o preâmbulo, sem a nova redação das bases, das epígrafes dos capítulos nem das bases aditadas; as revogações da instrução 7 são quase todas parciais (números/alíneas) de bases cuja redação intermédia não é conhecida; a revogação integral da base LXXXVIII incide sobre o anexo (bases), sem chave de artigo fornecida e com o texto do anexo achatado, pelo que não se aplica com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

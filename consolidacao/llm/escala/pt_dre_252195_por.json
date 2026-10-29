@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:252195:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 543/80 não contém o texto da nova redação da alínea m) do n.º 2 do artigo 18.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

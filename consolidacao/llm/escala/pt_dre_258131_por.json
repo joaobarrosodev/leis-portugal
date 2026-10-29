@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:258131:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 108/93 não contém o texto da nova redação dos artigos 5.º e 20.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

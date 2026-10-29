@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:312061:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 1.º e 7.º: a instrução só traz a frase introdutória ('passa(m) a ter a seguinte redacção'), sem o texto novo",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:252824:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Interpretação e integração",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência."
+    }
+  ],
+  "nao_aplicavel": "Nova redação dos artigos 1.º e 2.º pela Lei n.º 73/77 sem texto; artigo 1.º mantido (redação desconhecida).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:390012:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "Extinção",
+      "texto": "1 - O FRRC extingue-se:\n\na) Pela exaustão da totalidade da dotação inicial e única resultante da transferência dos saldos do ex-Fundo Extraordinário da Ajuda à Reconstrução do Chiado;\n\nb) Em 31 de Dezembro de 2007, quando não se tenha verificado a circunstância prevista na alínea anterior.\n\n2 - Extinguindo-se o FRRC na data fixada na alínea b) do número anterior e existindo saldos financeiros, serão os correspondentes montantes colocados à ordem da Direcção-Geral do Tesouro.\n\n3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária."
+    }
+  ],
+  "nao_aplicavel": "Instrução do Decreto-Lei n.º 207/2006 (extinção do Fundo) não é alteração textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

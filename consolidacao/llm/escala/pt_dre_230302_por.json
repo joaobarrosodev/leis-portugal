@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:230302:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Área de jurisdição",
+      "texto": "Para efeitos da aplicação do presente diploma, entende-se por área de jurisdição:\n\na) O leito e as margens incluídos nos terrenos do domínio hídrico tal como estão definidos no Decreto-Lei n.º 468/71, de 5 de Novembro, e as águas do Douro, desde a foz do rio Águeda, afluente da margem esquerda do rio Douro, até à respectiva barra, excluindo-se as áreas portuárias pertencentes à Administração dos Portos do Douro e Leixões, bem como os afluentes deste troço do rio Douro, até ao perfil em que o leito desse afluente se encontre a cota igual à cota máxima de retenção normal da albufeira do Douro em que esse afluente desagua, incluindo as eclusas e cais de acostagem;\n\nb) Os acessos fluviais aos cais de acostagem e as zonas de manobra, os terraplenos adjacentes às zonas portuárias e os acessos terrestres inseridos nestas áreas de ligação às vias municipais e nacionais."
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "Procedimentos para a extracção de inertes",
+      "texto": "1 - A extracção de inertes só é permitida após realização pelo IND de um plano específico desta actividade na sua área de jurisdição, nos termos previstos no n.º 1 do artigo 51.º do Decreto-Lei n.º 46/94, de 22 de Fevereiro, a aprovar pelo Ministério do Ambiente e do Ordenamento do Território.\n\n2 - O IND deve implementar um sistema de monitorização ambiental visando a avaliação dos impactes cumulativos da actividade de extracção de inertes nos sistemas biológicos e na dinâmica do rio, nomeadamente a sedimentologia do leito, o caudal sólido e a velocidade da corrente.\n\n3 - Nos termos do n.º 2 do artigo 6.º, o IND, quando efectuar ou licenciar extracção de inertes, está sujeito a emissão de parecer prévio e vinculativo do Ministério do Ambiente e do Ordenamento do Território:\n\na) O pedido de parecer deve ser instruído com um relatório de incidências ambientais, no qual deve constar, nomeadamente, a enumeração das circunstâncias que fundamentam a necessidade de desassoreamento da via navegável, a delimitação da área da extracção e a profundidade máxima, a quantidade máxima a extrair, o modo de execução da extracção, o tipo de equipamento a utilizar, o prazo de execução, o local de deposição dos materiais e as medidas de minimização ambiental;\n\nb) O Ministério do Ambiente e do Ordenamento do Território emitirá o parecer no prazo de 30 dias a contar da formulação do pedido;\n\nc) Decorrido o prazo referido, se o parecer não for proferido, há lugar a deferimento tácito;\n\nd) O IND dará conhecimento à tutela do pedido instruído com relatório e do parecer emitido pelo Ministério do Ambiente e do Ordenamento do Território.\n\n4 - A extracção de inertes poderá ser realizada, independentemente da aprovação do plano específico referido no n.º 1 e sem a emissão do parecer referido no n.º 3, quando justificada por razões excepcionais que ponham em causa as condições de navegação, dando conhecimento à tutela e ao Ministério do Ambiente e do Ordenamento do Território da medida que adoptou, através de relatório elaborado nos termos da alínea a) do n.º 3, donde constarão também os fundamentos técnicos que justificaram a excepcionalidade da medida adoptada.\n\n5 - No que diz respeito à extracção de inertes, em tudo o que não estiver especialmente previsto no presente diploma aplica-se, com as devidas adaptações, o disposto no Decreto-Lei n.º 46/94, de 22 de Fevereiro."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Órgãos e serviços",
+      "texto": "1 - São órgãos do IND:\n\na) O director;\n\nb) O conselho da navegabilidade.\n\n2 - São serviços do IND:\n\na) O Núcleo Administrativo e Financeiro;\n\nb) O Núcleo Técnico e Comercial."
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Quadros de pessoal",
+      "texto": "1 - O IND dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.\n\n2 - O quadro do restante pessoal do IND é aprovado por portaria conjunta do ministro da tutela, do Ministro das Finanças e do Ministro da Reforma do Estado e da Administração Pública."
+    }
+  ],
+  "nao_aplicavel": "Não aplicado: artigo 6.º (renumeração de alíneas '[Anterior alínea f)]' etc., que não se copia letra a letra); artigos 8.º, 10.º, 11.º, 12.º e 15.º (texto original não consta do pedido, com unidades '...'); anexo ao artigo 17.º (mapa '(ver mapa no documento original)'). Os Decretos-Leis n.os 474-A/99 e 146/2007 não trazem instruções no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:518188:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto n.º 45/70 não traz a nova redação do n.º 2.º do artigo 10.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

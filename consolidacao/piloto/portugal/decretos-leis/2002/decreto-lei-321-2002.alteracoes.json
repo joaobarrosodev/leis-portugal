@@ -82,5 +82,19 @@
     "unidade": [],
     "diploma": "pt:dre:390012:por",
     "alterador": "pt:dre:269257:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Extinção\n\n1 - O FRRC extingue-se:\n\na) Pela exaustão da totalidade da dotação inicial e única resultante da transferência dos saldos do ex-Fundo Extraordinário da Ajuda à Reconstrução do Chiado;\n\nb) Em 31 de Dezembro de 2008, quando não se tenha verificado a circunstância prevista na alínea anterior.\n\n2 - Extinguindo-se o FRRC na data fixada na alínea b) do número anterior e existindo saldos financeiros, serão os correspondentes montantes colocados à ordem da Direcção-Geral do Tesouro.\n\n3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta - Isaltino Afonso de Morais.\n\nPromulgado em 9 de Dezembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/302a00/81888193.pdf)",
+    "depois": "###### Artigo 24.º — Extinção\n\n1 - O FRRC extingue-se:\n\na) Pela exaustão da totalidade da dotação inicial e única resultante da transferência dos saldos do ex-Fundo Extraordinário da Ajuda à Reconstrução do Chiado;\n\nb) Em 31 de Dezembro de 2007, quando não se tenha verificado a circunstância prevista na alínea anterior.\n\n2 - Extinguindo-se o FRRC na data fixada na alínea b) do número anterior e existindo saldos financeiros, serão os correspondentes montantes colocados à ordem da Direcção-Geral do Tesouro.\n\n3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2006-545642) e [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511) e [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), publicado em 2007-12-31.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta - Isaltino Afonso de Morais.\n\nPromulgado em 9 de Dezembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/302a00/81888193.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390012:por",
+    "alterador": "pt:dre:545642:por;pt:dre:197511:por;pt:dre:529450:por"
   }
 ]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:580344:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional."
+    }
+  ],
+  "nao_aplicavel": "Artigo 6.º não aplicado: a redação dada pelo DL 377/85 (que passa a n.º 1 por força do DL 105/2005) não foi fornecida.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

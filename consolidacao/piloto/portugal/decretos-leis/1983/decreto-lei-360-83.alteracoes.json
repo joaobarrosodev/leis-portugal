@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º — (Tempo acrescido)\n\nA contagem do tempo de serviço para efeitos de aposentarão será acrescida de uma bonificação de 25% cobre o tempo prestado na categoria de portageiro e de 10% sobre o tempo prestado na categoria de fiscal de portagem.",
+    "depois": "###### Artigo 18.º — Tempo acrescido\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:442320:por",
+    "alterador": "pt:dre:469069:por"
+  }
+]

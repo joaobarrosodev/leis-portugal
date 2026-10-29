@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:412604:por",
+  "artigos": [],
+  "nao_aplicavel": "Decreto n.º 24/76 substitui os quadros anexos (alteração de quadros, não textual); o texto do Decreto-Lei n.º 769-C/76 não consta das instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

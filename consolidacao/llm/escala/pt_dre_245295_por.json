@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:245295:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Progressões",
+      "texto": "1 - O tempo de serviço prestado pelos funcionários, agentes e outros trabalhadores da administração pública central, regional e local e pelos demais servidores do Estado a partir da data de entrada em vigor da presente lei não é contado, para efeitos de progressão, em todas as carreiras, cargos e categorias, incluindo as integradas em corpos especiais.\n\n2 - Ao pessoal referido no número anterior que até 31 de Dezembro de 2005 adquira o direito à aposentação, à reforma, à reserva ou à pré-aposentação, nos termos das leis aplicáveis, e que até tal data reúna os requisitos para progressão para o escalão seguinte da respectiva categoria ou cargo, é considerada, para efeitos do cálculo da pensão de aposentação ou de reforma ou da remuneração na reserva ou na pré-aposentação, a remuneração correspondente a este escalão, independentemente da data em que venha a exercer aquele direito."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Entrada em vigor e produção de efeitos",
+      "texto": "A presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos até 31 de Dezembro de 2007, salvo se diploma concretizador da revisão dos sistemas de vínculos, carreiras e remunerações expressamente determinar data anterior."
+    }
+  ],
+  "nao_aplicavel": "Lei n.º 53-C/2006: artigos 2.º (epígrafe '[...]') e 3.º ('Anterior corpo do artigo') não aplicados por falta do texto original. Lei n.º 68/2019: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:176529:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Segunda fase de reprivatização",
+      "texto": "1 - A segunda fase de reprivatização do capital social da PORTUCEL, S. A., ocorrerá em dois segmentos, sem prejuízo do disposto no n.º 2 do presente artigo:\n\na) Um deles, sem prejuízo do que se dispõe no n.º 2, na modalidade de aumento de capital da PORTUCEL, S. A., a subscrever por parceiro escolhido na sequência de concurso aberto a empresas do sector da pasta e do papel, realizado preferencialmente em espécie, mediante entradas de activos industriais ou, não sendo esse o caso, por acções que confiram participações relevantes em empresas do sector da pasta e do papel, ou ainda por tais activos e acções, aumento de capital este que será realizado através da emissão de acções representativas de um valor até 25% do capital social, calculado após o respectivo aumento, da PORTUCEL, S. A.;\n\nb) (Revogada.)\n\n2 - A realização do segmento referido na alínea a) do número anterior desta segunda fase de reprivatização da PORTUCEL, S. A., ficará dependente da obtenção das deliberações referidas no n.º 1 do artigo 3.º por parte da assembleia geral da PORTUCEL, S. A., no prazo que vier a ser fixado mediante resolução do Conselho de Ministros.\n\n3 - (Revogado.)"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Venda directa e subsequente dispersão",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação 'na parte em que prevê' o segundo segmento: aplicadas só as disposições expressamente indicadas (art. 2.º, n.º 1, al. b), e n.º 3; art. 7.º); outras referências ao segundo segmento não foram alteradas.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

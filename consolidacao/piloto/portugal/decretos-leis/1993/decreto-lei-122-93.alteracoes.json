@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:690983:por",
     "alterador": "pt:dre:434008:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Atribuições\n\nSão atribuições do IGM:\n\na) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;\n\nb) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;\n\nc) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;\n\nd) Elaborar orientações e directrizes necessárias ao desenvolvimento das funções relativas à gestão dos recursos geológicos nas diferentes áreas geográficas e coordenar a respectiva aplicação pelas delegações regionais do Ministério da Indústria e Energia (MIE);\n\ne) Proceder à investigação geológica e hidrogeológica e ao conhecimento geomineiro sistemático do território nacional e da plataforma continental e realizar a respectiva cartografia;\n\nf) Promover e executar acções necessárias à pesquisa, inventariação, aproveitamento, protecção e valorização de recursos geológicos susceptíveis de interesse económico, incluindo os do solo e subsolo marinho;\n\ng) Desenvolver acções no âmbito dos sistemas de qualidade, tendo em vista uma correcta caracterização dos recursos geológicos e o controlo das condições ambientais nos locais de trabalho;\n\nh) Coligiar e integrar os dados resultantes das actividades, geológicas e hidrogeológicas, de geofísica, de prospecção, avaliação e exploração, próprias e externas, por forma a garantir a existência de um sistema de informação geológica e mineira a nível nacional;\n\ni) Assegurar a ligação e cooperar com entidades nacionais, comunitárias e internacionais nos domínios da informação e da investigação relativas à geologia, à geofísica e aos recursos geológicos;\n\nj) Apoiar as unidades industriais do sector, visando a melhoria das suas condições de operação e dos processos produtivos;\n\nl) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos.",
+    "depois": "###### Artigo 3.º — Atribuições\n\nSão atribuições do IGM:\n\na) Contribuir para a definição e implementação da política relativa ao conhecimento, preservação, aproveitamento e valorização dos recursos geológicos;\n\nb) Propor a legislação reguladora da actividade extractiva e velar pelo seu cumprimento;\n\nc) Conduzir a negociação e preparação dos contratos administrativos de outorga de direitos sobre recursos geológicos e acompanhar a respectiva execução;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) Cooperar com os organismos e serviços competentes em matéria de ordenamento do território e preservação do ambiente na investigação e definição de formas de compatibilização com o aproveitamento dos recursos.\n\n> Alterado pelo/a [Decreto-Lei n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681) e [Decreto-Lei n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646), publicado em 2004-03-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:690983:por",
+    "alterador": "pt:dre:654681:por;pt:dre:551646:por"
   }
 ]

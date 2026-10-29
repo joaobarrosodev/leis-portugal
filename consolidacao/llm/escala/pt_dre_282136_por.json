@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:282136:por",
+  "artigos": [],
+  "nao_aplicavel": "Artigo 4.º: a instrução só traz a frase introdutória ('passa(m) a ter a seguinte redacção'), sem o texto novo (ambas as instruções)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

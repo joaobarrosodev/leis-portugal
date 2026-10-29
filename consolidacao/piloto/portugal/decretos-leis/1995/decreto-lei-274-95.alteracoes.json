@@ -2,15 +2,29 @@
   {
     "artigo": "15.º",
     "operacao": "substituir",
-    "regra": "substituição integral",
+    "regra": "llm",
     "antes": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 20000$00 a 100000$00 por cada tripulante da embarcação, a violação do disposto no artigo 12.º;\n\nb) De 25000$00 a 125000$00, a violação do disposto no n.º 4 do artigo 4.º, no n.º 2 do artigo 5.º e no artigo 6.º;\n\nc) De 35000$00 a 175000$00, a violação do disposto nos n.os 2 e 3 do artigo 4.º, no n.º 1 do artigo 5.º e nos artigos 9.º e 11.º;\n\nd) De 50000$00 a 250000$00, a violação do disposto no n.º 1 do artigo 4.º e nos artigos 7.º e 8.º\n\n2 - O produto das coimas reverte:\n\na) Em 60% para o Estado;\n\nb) Em 20% para o Fundo de Garantia e Actualização de Pensões;\n\nc) Em 20% para a entidade que aplica a coima, nos termos do artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.\n\nVisto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
-    "depois": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.\n\nVisto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
-    "excerto": "O artigo 15.º do Decreto-Lei n.º 274/95, de 23 de Outubro, relativo à assistência médica dos trabalhadores a bordo dos navios, passa a ter a seguinte redacção:\n\n«Artigo 15.º\n\nContra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º»",
-    "artigo_alterador": "14.º",
-    "metodo": "regra",
+    "depois": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º\n\n> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09.\n\nVisto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:668485:por",
-    "alterador": "pt:dre:345124:por"
+    "alterador": "pt:dre:345124:por;pt:dre:70236274:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Médico\n\nO navio com mais de 100 trabalhadores a bordo e que efectue um trajecto internacional de mais de três dias deve ter um médico a bordo encarregado da assistência médica.",
+    "depois": "###### Artigo 7.º — Prestação de cuidados médicos\n\n1 - O navio com pelo menos 100 pessoas a bordo e que efetue normalmente viagens de mais de três dias deve ter um médico a bordo encarregado da assistência médica.\n\n2 - Os restantes navios devem possuir pelo menos um marítimo devidamente qualificado responsável pela prestação de cuidados médicos e administração dos medicamentos, ou pela prestação de primeiros socorros.\n\n3 - A qualificação do marítimo a que se refere o número anterior deve ser obtida mediante formação que seja conforme às disposições da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978 (STCW), bem como atender à duração e às circunstâncias das viagens e ao número de pessoas a bordo.\n\n4 - A qualificação dos navegadores de recreio autorizados, nos termos do artigo 8.º do Regulamento das Embarcações Utilizadas na Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 149/2014, de 10 de outubro, a integrarem lotações de segurança, em cuidados médicos e administração dos medicamentos e em prestação de primeiros socorros, é regulada por portaria aprovada pelos membros do Governo responsáveis pelas áreas do mar, da saúde e do turismo.\n\n> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124) e [Lei n.º 146/2015](https://diariodarepublica.pt/dr/detalhe/lei/146-2015-70236274), publicado em 2015-09-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668485:por",
+    "alterador": "pt:dre:345124:por;pt:dre:70236274:por"
   }
 ]

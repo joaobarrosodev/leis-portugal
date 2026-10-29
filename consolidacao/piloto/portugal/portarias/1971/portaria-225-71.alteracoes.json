@@ -12,5 +12,33 @@
     "unidade": [],
     "diploma": "pt:dre:644286:por",
     "alterador": "pt:dre:377571:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º\n\nCompete especialmente ao presidente da direcção:\n\na) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;\n\nb) Representar a Obra Social, quando necessário;\n\nc) Submeter a despacho dos Ministros das Obras Públicas e das Comunicações a proposta de nomeação do director dos serviços da Obra Social, que actuará como elemento de ligação entre a direcção e os órgãos executivos, prestando a sua actividade em regime de tempo integral, bem como as propostas de formação dos quadros de pessoal que o desenvolvimento e o volume dos serviços justifique;\n\nd) Superintender na disciplina do pessoal;\n\ne) Convocar o conselho consultivo a reunir extraordinàriamente sempre que tal se torne necessário;\n\nf) Apresentar a despacho ministerial todos os assuntos que careçam de resolução superior.",
+    "depois": "###### Artigo 8.º\n\nCompete especialmente ao presidente da direcção:\n\na) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;\n\nb) Representar a Obra Social, quando necessário;\n\nc) (Revogada.)\n\nd) Superintender na disciplina do pessoal;\n\ne) Convocar o conselho consultivo a reunir extraordinàriamente sempre que tal se torne necessário;\n\nf) Apresentar a despacho ministerial todos os assuntos que careçam de resolução superior.\n\n> Alterado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571) e [Portaria n.º 441/80](https://diariodarepublica.pt/dr/detalhe/portaria/441-1980-472120) e [Portaria n.º 1047/81](https://diariodarepublica.pt/dr/detalhe/portaria/1047-1981-567425) e [Portaria n.º 624/84](https://diariodarepublica.pt/dr/detalhe/portaria/624-1984-381075), publicado em 1984-08-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:644286:por",
+    "alterador": "pt:dre:377571:por;pt:dre:472120:por;pt:dre:567425:por;pt:dre:381075:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º\n\nAo chefe dos serviços administrativos incumbe a coordenação dos serviços de expediente, pessoal e estatística e de contabilidade e tesouraria, e em especial:\n\na) Submeter a despacho do director dos serviços da Obra Social a correspondência a expedir o todos os assuntos pendentes que careçam de resolução superior;\n\nb) Assinar correspondência de mero expediente;\n\nc) Propor as medidas que reputar convenientes ao aperfeiçoamento dos serviços;\n\nd) Zelar pelo cumprimento das ordens e das instruções recebidas.",
+    "depois": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571) e [Portaria n.º 441/80](https://diariodarepublica.pt/dr/detalhe/portaria/441-1980-472120) e [Portaria n.º 1047/81](https://diariodarepublica.pt/dr/detalhe/portaria/1047-1981-567425) e [Portaria n.º 624/84](https://diariodarepublica.pt/dr/detalhe/portaria/624-1984-381075), publicado em 1984-08-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:644286:por",
+    "alterador": "pt:dre:377571:por;pt:dre:472120:por;pt:dre:567425:por;pt:dre:381075:por"
   }
 ]

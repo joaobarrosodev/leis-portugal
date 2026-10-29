@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:598336:por",
+  "artigos": [],
+  "nao_aplicavel": "Alterações às bases do anexo (Decreto-Lei n.º 44-C/2010 e n.º 105/2015) sem o texto da nova redação; as revogações parciais do Decreto-Lei n.º 105/2015 incidem sobre bases já alteradas cuja redação intermédia não foi fornecida; nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

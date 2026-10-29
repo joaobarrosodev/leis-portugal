@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:559038:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Exercício dos cargos de chefia tributária em regime de substituição",
+      "texto": "1 - Os cargos de chefe e de adjunto de chefe de repartição de finanças serão exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.\n\n2 - A substituição só poderá ser autorizada quando se preveja que os condicionalismos referidos no número anterior persistam por mais de 30 dias, sem prejuízo de, em todos os casos, deverem ser asseguradas as funções correspondentes aos referidos cargos.\n\n3 - A substituição cessará na data em que o titular do cargo inicie ou retome as funções ou, a qualquer momento, por decisão do director-geral ou a pedido do substituto, logo que deferido.\n\n4 - A substituição tem início antes da publicação do extracto do respectivo despacho no Diário da República se essa intenção for expressa no mesmo.\n\n5 - O período de substituição conta, para todos os efeitos, como tempo de serviço prestado no cargo, bem como no lugar de origem.\n\n6 - O substituto terá direito à remuneração correspondente à sua antiguidade na categoria ou cargo de origem, dentro do desenvolvimento indiciário do cargo do substituído, bem como aos demais abonos e regalias atribuídos pelo exercício do referido cargo, independentemente da libertação das respectivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais.\n\n7 - Quando da aplicação da regra referida no número anterior resultar remuneração idêntica ou inferior à que o substituto já aufere, será atribuído um acréscimo remuneratório de 10 pontos a esta remuneração."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

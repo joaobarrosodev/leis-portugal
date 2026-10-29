@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:486774:por",
+  "artigos": [],
+  "nao_aplicavel": "Nova redação dos artigos 14.º e 15.º não fornecida; extinção do Gabinete de Estudos e dos grupos de trabalho (artigos 2.º e 19.º) não é alteração textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

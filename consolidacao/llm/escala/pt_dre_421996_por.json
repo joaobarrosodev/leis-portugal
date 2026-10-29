@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:421996:por",
+  "artigos": [],
+  "nao_aplicavel": "Novas redações dos artigos 12.º, 18.º e 23.º em falta; a extinção da competência da alínea a) do artigo 5.º pela Lei n.º 82/77 não é alteração textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

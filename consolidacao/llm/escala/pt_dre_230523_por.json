@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:230523:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo."
+    }
+  ],
+  "nao_aplicavel": "A instrução mantém um n.º 2 ('2 - ...') que não existe no texto do original dado; só o n.º 1 foi substituído. Os Decretos-Leis n.os 225/98 e 77-B/2021 não trazem instruções no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

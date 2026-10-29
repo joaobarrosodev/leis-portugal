@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:633146:por",
+  "artigos": [
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "1. (Revogado.)\n\n2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "22.º: parágrafo que não está no alterador nem no original: 1. (Revogado.)"
+  ]
+}

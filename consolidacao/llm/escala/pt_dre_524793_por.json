@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:524793:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pela legislação especial que lhe seja aplicável em razão do seu objecto.\n\n2 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação."
+    }
+  ],
+  "nao_aplicavel": "Só a instrução do Decreto-Lei n.º 99/2004 relativa ao artigo 1.º se aplica aos artigos dados; os artigos 2.º, 5.º, 8.º e 9.º não constam do original fornecido. Não há instrução do Decreto-Lei n.º 235-B/96 para o artigo 1.º dos Estatutos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: 1 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas no",
+    "1.º: parágrafo que não está no alterador nem no original: 2 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo "
+  ]
+}

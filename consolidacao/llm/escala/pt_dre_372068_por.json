@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:372068:por",
+  "artigos": [
+    {
+      "chave": "ANEXO II::7.º",
+      "epigrafe": "Cais de Câmara de Lobos",
+      "texto": "O cais de Câmara de Lobos compreende a faixa do domínio público marítimo delimitada pela linha de ligação entre os pontos n.os 1 a 23, cujas coordenadas rectangulares UTM são as seguintes:\n\n1 - x = 315065,5; y = 3613354,3;\n\n2 - x = 315066,9; y = 3613554,9;\n\n3 - x = 315050,4; y = 3613600,7;\n\n4 - x = 315078,8; y = 3613637,7;\n\n5 - x = 315112,6; y = 3613639,2;\n\n6 - x = 315118,8; y = 3613671,6;\n\n7 - x = 315142,3; y = 3613679,9;\n\n8 - x = 315150,5; y = 3613689,7;\n\n9 - x = 315186,1; y = 3613660;\n\n10 - x = 315209,1; y = 3613669;\n\n11 - x = 315214,3; y = 3613636,6;\n\n12 - x = 315177,2; y = 3613632,3;\n\n13 - x = 315184,7; y = 3613530,3;\n\n14 - x = 315215,2; y = 3613487,6;\n\n15 - x = 315260,5; y = 3613484,5;\n\n16 - x = 315279,7; y = 3613429,5;\n\n17 - x = 315307,5; y = 3613427,2;\n\n18 - x = 315365,3; y = 3613345,2;\n\n19 - x = 315378,1; y = 3613375,5;\n\n20 - x = 315437,3; y = 3613300,7;\n\n21 - x = 315424,6; y = 3613263,9;\n\n22 - x = 315661,7; y = 3612368,7;\n\n23 - x = 314825,9; y = 3612459,9."
+    }
+  ],
+  "nao_aplicavel": "Anexo II substituído integralmente: só o artigo 7.º do anexo II consta do pedido; restantes artigos do novo anexo não aplicados. Acórdão do TC n.º 654/2009 sem instrução textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

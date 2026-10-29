@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:415443:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6 - (Revogado.)\n\n7 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 1.º e 5.º e artigo aditado: textos das alterações do Decreto-Lei n.º 546/76 e da Lei n.º 22/87 em falta (n.os 3 e 4 do art. 1.º desconhecidos), pelo que a redação do art. 1.º dada pela Lei n.º 108/97 não se pode aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

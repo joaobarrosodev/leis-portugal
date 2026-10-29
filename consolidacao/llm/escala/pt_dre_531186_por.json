@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:531186:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Condições de acesso",
+      "texto": "1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha;\n\nb) Serem elaborados por um técnico em ciências silvícolas de grau igual ou superior a bacharel, caso incidam sobre uma área superior a 20 ha;\n\nc) Terem início após a apresentação da candidatura, devendo esse facto ser previamente comunicado ao IFADAP.\n\n2 - Quando se trate de arborização e rearborização com espécies de rápido crescimento a explorar em rotações/revoluções inferiores a 20 anos, previstas no n.º 3 do artigo anterior, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n3 - Os projectos de uso múltiplo na área da actividade cinegética devem ainda observar as seguintes condições:\n\na) Os investimentos têm de incidir em áreas incluídas em zona de caça de interesse associativo ou municipal já constituídas;\n\nb) Ter sido aprovado pelos organismos competentes um plano de gestão ou de ordenamento cinegético para a área em causa."
+    },
+    {
+      "chave": "ANEXO::18.º",
+      "epigrafe": "Pagamentos",
+      "texto": "1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.\n\n2 - Os pedidos de pagamento das ajudas devem ser acompanhados do livro de obra.\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 6.º e 16.º (Portaria n.º 161/2003): nova redação não fornecida. Anexos V, VI e VII e artigos 10.º, 11.º, 17.º e 19.º não incluídos no original fornecido. Art. 18.º: redação da republicação pela Portaria n.º 456/2006 não fornecida; aplicada só a revogação do n.º 3 sobre o texto original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

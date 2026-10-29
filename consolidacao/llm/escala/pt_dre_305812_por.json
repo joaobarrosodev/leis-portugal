@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:305812:por",
+  "artigos": [],
+  "nao_aplicavel": "Instrução 1 altera anexos (aditamento de curso a anexos I.1, II, III.2 e VI); instruções 2 e 3 sem o texto da nova redação (artigo 40.º-A e entrada do anexo II não incluídos).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

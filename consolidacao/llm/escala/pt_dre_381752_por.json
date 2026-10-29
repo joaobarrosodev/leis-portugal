@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:381752:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Competências",
+      "texto": "São competências da DGV:\n\na) Coordenar a execução das políticas de produção, melhoramento, saúde e bem-estar animal e da saúde pública veterinária;\n\nb) Zelar pela segurança dos produtos de origem animal na cadeia alimentar, garantindo a coordenação e o funcionamento do Serviço de Inspecção Hígio-Sanitária e Controlos Veterinários desde a produção, incluindo a alimentação animal, no respeito da política nacional para o ambiente;\n\nc) Representar o País e assumir a responsabilidade de garante, perante os serviços congéneres de países comunitários ou terceiros, da credibilidade da certificação em matéria de trocas internacionais de animais, produtos frescos de origem animal, material genético animal, matérias-primas e alimentos destinados aos animais;\n\nd) Estabelecer convénios de cooperação técnica e científica com outros organismos do MADRP e de outros ministérios, nomeadamente instituições do ensino universitário e com entidades cooperativas ou privadas."
+    }
+  ],
+  "nao_aplicavel": "DL n.º 526/99: mapa anexo não textual; artigos 6.º, 8.º, 10.º, 11.º, 14.º, 18.º, 42.º e 44.º sem original fornecido. Decretos Regulamentares n.os 6/2007 e 11/2007: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

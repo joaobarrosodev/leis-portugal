@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:626204:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções de alteração dos artigos 1.º, 6.º e 11.º (DRR 20/97/M, 12/2001/M, 15/2002/M, Acórdão 18/2007, DLR 5/2008/M) não trazem o texto da nova redação; o DRR 15/2002/M republicou o diploma (numeração incerta), revogou o 26.º-A aditado e foi objeto do Acórdão 18/2007; DLR 5/2008/M volta a alterar 26.º-A e 27.º sem texto; extinções e revogações genéricas não são textuais. Nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:610412:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Controlo da execução do contrato",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "O artigo 15.º fica em vigor só em parte (na parte em que mantém o artigo 8.º, n.º 1, alíneas b) a d), e o artigo 17.º, n.os 3 a 5, do Decreto-Lei n.º 236/85): revogação parcial, não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

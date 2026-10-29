@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:339395:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Entrada em funcionamento de novos tribunais, varas e juízos",
+      "texto": "1 - Os juízos convertidos pelo presente diploma entram em funcionamento no dia 15 de Setembro 2000, mantendo-se até essa data os juízos originários.\n\n2 - Declaram-se instalados, com efeitos a partir de 15 de Setembro de 2000:\n\na) O 3.º Juízo do Tribunal da Comarca de Albufeira;\n\nb) O 2.º Juízo do Tribunal da Família e Menores do Seixal;\n\nc) O 4.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Almada;\n\nd) O 3.º Juízo de Competência Especializada Cível do Tribunal da Comarca do Seixal;\n\ne) O 5.º Juízo de Competência Especializada Cível do Tribunal da Comarca de Vila Nova de Famalicão;\n\nf) O 7.º Juízo Cível do Tribunal da Comarca de Vila Nova de Gaia;\n\ng) Os 6.º a 10.º Juízos Cíveis do Tribunal da Comarca de Lisboa;\n\nh) Os 1.º a 4.º Juízos Cíveis do Tribunal da Comarca do Porto.\n\n3 - Declaram-se instalados, com efeitos a partir de 1 de Fevereiro de 2001:\n\na) Os Tribunais das Comarcas de Almeirim, Bombarral, Mealhada, Mira e Sever do Vouga;\n\nb) Os Tribunais de Família e Menores de Matosinhos e de Vila Nova de Gaia;\n\nc) O 5.º Juízo do Tribunal da Comarca da Maia;\n\nd) Os 1.º a 3.º Juízos de Competência Especializada Cível da Amadora;\n\ne) Os 1.º a 3.º Juízos de Pequena Instância Cível do Porto;\n\nf) Os 1.º e 2.º Juízos de Pequena Instância Criminal de Loures.\n\n4 - Até à data da instalação dos novos tribunais e juízos mantêm-se as actuais áreas de competência territorial.\n\n5 - Os restantes juízos criados pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação por portaria do Ministro da Justiça."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

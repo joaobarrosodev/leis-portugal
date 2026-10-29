@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:486306:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2. Às reuniões do Conselho Administrativo assistirá um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado sempre que o Conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro."
+    }
+  ],
+  "nao_aplicavel": "Artigos 3.º e 7.º: a instrução do Decreto-Lei n.º 406/75 não traz a nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

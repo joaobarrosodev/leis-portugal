@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:689026:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 11/77 anuncia nova redação dos artigos 7.º e 8.º mas o texto não consta do pedido; a Portaria n.º 241/83 não traz instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

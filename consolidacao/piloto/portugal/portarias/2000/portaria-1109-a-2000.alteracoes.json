@@ -12,5 +12,47 @@
     "unidade": [],
     "diploma": "pt:dre:554462:por",
     "alterador": "pt:dre:315519:por"
+  },
+  {
+    "artigo": "ANEXO::9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Forma e nível das ajudas\n\n1 - As ajudas são concedidas na forma de pagamento por serviços prestados que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento, cabendo aos beneficiários dos serviços prestados pelas entidades suportar os restantes 30%.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.",
+    "depois": "###### Artigo 9.º — Forma e nível das ajudas\n\n1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 100% da despesa elegível no caso da inscrição em livros genealógicos ou registos zootécnicos das raças autóctones e a 70% das despesas elegíveis nas restantes acções previstas nos anexos I e II a este Regulamento.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a [Portaria n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007) e [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554462:por",
+    "alterador": "pt:dre:583007:por;pt:dre:514999:por"
+  },
+  {
+    "artigo": "ANEXO::10.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 10.º-A — Obrigações dos beneficiários\n\nOs beneficiários ficam obrigados a prestar os serviços a todos os interessados, nas condições constantes das suas propostas.\n\n> Aditado pelo/a [Portaria n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007) e [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554462:por",
+    "alterador": "pt:dre:583007:por;pt:dre:514999:por"
+  },
+  {
+    "artigo": "ANEXO::1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito e objectivos\n\nO presente Regulamento estabelece o regime de ajudas destinado a apoiar a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.",
+    "depois": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - O presente Regulamento estabelece o regime de aplicação da componente de apoio à prestação de serviços agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS.\n\n2 - No âmbito do presente Regulamento pode ser apoiada a prestação contratualizada de serviços aos criadores de raças autóctones, raças exóticas e raça bovina Frísia, no domínio da preservação e melhoramento genético, nomeadamente através da manutenção dos livros genealógicos ou registos zootécnicos, bem como pela realização de controlos de performance, contrastes leiteiros, exames de paternidade e classificações morfológicas.\n\n> Alterado pelo/a [Portaria n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007) e [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:554462:por",
+    "alterador": "pt:dre:583007:por;pt:dre:514999:por"
   }
 ]

@@ -68,5 +68,19 @@
     "unidade": [],
     "diploma": "pt:dre:372068:por",
     "alterador": "pt:dre:655964:por"
+  },
+  {
+    "artigo": "ANEXO II::7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Cais de Câmara de Lobos\n\n1 - Faixa de terreno do domínio público marítimo onde se insere um cais de pesca no maciço rochoso a oeste da baía e respectivo acesso e um varadouro, delimitada pela linha de ligação entre os pontos n.os 1 a 34, definida pelas coordenadas rectangulares locais que a seguir se indicam:\n\n1 - M = +5152,5; P = -12 001,0;\n\n2 - M = +5155,3; P = -11 901,3;\n\n3 - M = +5161,5; P = -11 808,6;\n\n4 - M = +5160,6; P = -11 802,7;\n\n5 - M = +5158,6; P = -11 800,5;\n\n6 - M = +5175,9; P = -11 751,8;\n\n7 - M = +5145,7; P = -11 713,0;\n\n8 - M = +5102,8; P = -11 709,2;\n\n9 - M = +5102,4; P = -11 700,2;\n\n10 - M = +5107,5; P = -11 692,7;\n\n11 - M = +5095,8; P = -11 670,2;\n\n12 - M = +5089,0; P = -11 600,4;\n\n13 - M = +5079,5; P = -11 667,7;\n\n14 - M = +5074,7; P = -11 601,6;\n\n15 - M = +5037,7; P = -11 690,3;\n\n16 - M = +5018,1; P = -11 680,8;\n\n17 - M = +5015,8; P = -11 689,7;\n\n18 - M = +5013,8; P = -11 689,4;\n\n19 - M = +5010,5; P = -11 706,9;\n\n20 - M = +5018,9; P = -11 719,1;\n\n21 - M = +5021,2; P = -11 716,5;\n\n22 - M = +5043,4; P = -11 716,9;\n\n23 - M = +5047,5; P = -11 718,4;\n\n24 - M = +5035,1; P = -11 789,4;\n\n25 - M = +5035,1; P = -11 817,5;\n\n26 - M = +5027,9; P = -11 832,0;\n\n27 - M = +5007,1; P = -11 859,5;\n\n28 - M = +4961,7; P = -11 861,2;\n\n29 - M = +4941,2; P = -11 918,0;\n\n30 - M = +4918,5; P = -11 912,0;\n\n31 - M = +4860,3; P = -11 991,0;\n\n32 - M = +4839,1; P = -11 968,7;\n\n33 - M = +4779,1; P = -12 042,8;\n\n34 - M = +4791,1; P = -12 077,8.\n\n2 - A área limitada nos termos do número anterior corresponde ao que se designa de cais de Câmara de Lobos.",
+    "depois": "###### Artigo 7.º — Cais de Câmara de Lobos\n\nO cais de Câmara de Lobos compreende a faixa do domínio público marítimo delimitada pela linha de ligação entre os pontos n.os 1 a 23, cujas coordenadas rectangulares UTM são as seguintes:\n\n1 - x = 315065,5; y = 3613354,3;\n\n2 - x = 315066,9; y = 3613554,9;\n\n3 - x = 315050,4; y = 3613600,7;\n\n4 - x = 315078,8; y = 3613637,7;\n\n5 - x = 315112,6; y = 3613639,2;\n\n6 - x = 315118,8; y = 3613671,6;\n\n7 - x = 315142,3; y = 3613679,9;\n\n8 - x = 315150,5; y = 3613689,7;\n\n9 - x = 315186,1; y = 3613660;\n\n10 - x = 315209,1; y = 3613669;\n\n11 - x = 315214,3; y = 3613636,6;\n\n12 - x = 315177,2; y = 3613632,3;\n\n13 - x = 315184,7; y = 3613530,3;\n\n14 - x = 315215,2; y = 3613487,6;\n\n15 - x = 315260,5; y = 3613484,5;\n\n16 - x = 315279,7; y = 3613429,5;\n\n17 - x = 315307,5; y = 3613427,2;\n\n18 - x = 315365,3; y = 3613345,2;\n\n19 - x = 315378,1; y = 3613375,5;\n\n20 - x = 315437,3; y = 3613300,7;\n\n21 - x = 315424,6; y = 3613263,9;\n\n22 - x = 315661,7; y = 3612368,7;\n\n23 - x = 314825,9; y = 3612459,9.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:372068:por",
+    "alterador": "pt:dre:655964:por"
   }
 ]

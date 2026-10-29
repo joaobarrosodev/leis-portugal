@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:565978:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Direito ao reconhecimento dos períodos contributivos nas ex-colónias portuguesas",
+      "texto": "1 - Têm direito ao reconhecimento, no âmbito do sistema de segurança social português, dos períodos contributivos verificados nas caixas de previdência de inscrição obrigatória dos territórios das ex-colónias portuguesas até à independência desses territórios as pessoas que preencham cumulativamente os seguintes requisitos:\n\na) Tenham exercido nos territórios das ex-colónias portuguesas actividade profissional por conta de outrem ou por conta própria;\n\nb) Não recebam dos novos Estados de expressão oficial portuguesa a protecção social correspondente aos períodos contributivos verificados;\n\nc) Residam ou não em Portugal.\n\nd) (Revogada.)\n\n2 - O direito a que se refere o número anterior apenas engloba os períodos contributivos verificados em caixas de previdência de inscrição obrigatória, cujo esquema de benefícios incluísse a atribuição de pensões e em relação aos quais não se tenha verificado reembolso de contribuições."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Financiamento",
+      "texto": "Os encargos com as prestações originadas com o reconhecimento a que se refere o presente decreto-lei são suportados pela Direcção-Geral do Tesouro, através do capítulo 60 do Ministério das Finanças e da Administração Pública, a qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias."
+    }
+  ],
+  "nao_aplicavel": "Artigos 3.º e 6.º (DL 465/99) não aplicados: o texto original desses artigos não foi fornecido e a nova redação usa '...' em partes.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

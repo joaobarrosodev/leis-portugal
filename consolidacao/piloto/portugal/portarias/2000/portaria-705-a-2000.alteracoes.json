@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "ANEXO::2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Serviços centrais\n\n1 - Os departamentos dos serviços centrais, para o exercício das competências gerais que estão previstas no artigo 11.º do [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), de 16 de Setembro, dispõem de direcções de serviços, as quais podem integrar divisões, repartições e núcleos.\n\n2 - As unidades de apoio referidas no n.º 2 do artigo 10.º do mesmo diploma possuem o nível de direcção de serviços, podendo integrar divisões ou núcleos.\n\n3 - Aos dirigentes dos serviços centrais cumpre gerir, a nível nacional, as áreas de resultado cuja responsabilidade lhes esteja cometida.",
+    "depois": "###### Artigo 2.º — Serviços centrais\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 599/2001](https://diariodarepublica.pt/dr/detalhe/portaria/599-2001-365310) e [Portaria n.º 677/2002](https://diariodarepublica.pt/dr/detalhe/portaria/677-2002-145599) e [Portaria n.º 772/2002](https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714) e [Portaria n.º 191/2003](https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506) e [Portaria n.º 349/2007](https://diariodarepublica.pt/dr/detalhe/portaria/349-2007-520391), publicado em 2007-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586390:por",
+    "alterador": "pt:dre:365310:por;pt:dre:145599:por;pt:dre:142714:por;pt:dre:187506:por;pt:dre:520391:por"
+  },
+  {
+    "artigo": "ANEXO::3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Departamento de Gestão Aduaneira\n\n1 - O Departamento de Gestão Aduaneira integra os seguintes serviços:\n\na) Direcção de Serviços de Tributação Aduaneira;\n\nb) Direcção de Serviços de Regulação Aduaneira.\n\n2 - À Direcção de Serviços de Tributação Aduaneira compete desenvolver a actividade técnico-normativa relacionada com a aplicação de medidas de política comercial da União Europeia, nomeadamente no domínio dos elementos com base nos quais são aplicados os direitos de importação e de exportação e outras medidas previstas no âmbito das trocas de mercadorias.\n\n3 - À Direcção de Serviços de Regulação Aduaneira compete desenvolver a actividade técnico-normativa relacionada com a aplicação uniforme de procedimentos no domínio das trocas externas de mercadorias e da sua permanência no território aduaneiro comunitário.",
+    "depois": "###### Artigo 3.º — Área de gestão aduaneira\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 599/2001](https://diariodarepublica.pt/dr/detalhe/portaria/599-2001-365310) e [Portaria n.º 677/2002](https://diariodarepublica.pt/dr/detalhe/portaria/677-2002-145599) e [Portaria n.º 772/2002](https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714) e [Portaria n.º 191/2003](https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506) e [Portaria n.º 349/2007](https://diariodarepublica.pt/dr/detalhe/portaria/349-2007-520391), publicado em 2007-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586390:por",
+    "alterador": "pt:dre:365310:por;pt:dre:145599:por;pt:dre:142714:por;pt:dre:187506:por;pt:dre:520391:por"
+  },
+  {
+    "artigo": "ANEXO::5.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º-A — Direcção de Serviços de Licenciamento\n\n(Revogado.)\n\n> Aditado pelo/a [Portaria n.º 599/2001](https://diariodarepublica.pt/dr/detalhe/portaria/599-2001-365310) e [Portaria n.º 677/2002](https://diariodarepublica.pt/dr/detalhe/portaria/677-2002-145599) e [Portaria n.º 772/2002](https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714) e [Portaria n.º 191/2003](https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506) e [Portaria n.º 349/2007](https://diariodarepublica.pt/dr/detalhe/portaria/349-2007-520391), publicado em 2007-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586390:por",
+    "alterador": "pt:dre:365310:por;pt:dre:145599:por;pt:dre:142714:por;pt:dre:187506:por;pt:dre:520391:por"
+  },
+  {
+    "artigo": "ANEXO::10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Direcção de Serviços Antifraude\n\n1 - A Direcção de Serviços Antifraude dispõe, ao nível central, dos seguintes serviços:\n\na) Divisão de Informações;\n\nb) Divisão de Planeamento e Controlo.\n\n2 - A Direcção de Serviços de Antifraude dispõe, ao nível periférico, dos seguintes serviços:\n\na) Divisão Operacional do Norte, com a área de jurisdição correspondente aos distritos de Aveiro, Braga, Bragança, Castelo Branco, Coimbra, Guarda, Porto, Viana do Castelo, Vila Real e Viseu;\n\nb) Divisão Operacional do Sul, com a área de jurisdição correspondente aos distritos de Beja, Évora, Faro, Leiria, Lisboa, Portalegre, Santarém e Setúbal.\n\n3 - As áreas de jurisdição referidas nas alíneas a) e b) do número precedente compreendem, respectivamente, as Regiões Autónomas dos Açores e da Madeira.\n\n4 - Compete à Divisão de Informações:\n\na) Centralizar e proceder ao tratamento integrado de dados aduaneiros e fiscais, de natureza estratégica, necessários à definição das medidas de política de prevenção e repressão da fraude;\n\nb) Centralizar e proceder ao tratamento integrado de informações de natureza táctica ou operacional, tendo em vista a prevenção e repressão da fraude aduaneira e fiscal, designadamente no tráfico de mercadorias cuja comercialização está sujeita a medidas proibitivas ou restritivas e difundir directamente pelos serviços periféricos essas informações por forma a orientar a sua actividade;\n\nc) Centralizar o tratamento da informação relativa aos controlos, fraudes e irregularidades a fornecer aos serviços da Comissão, nos termos da legislação comunitária;\n\nd) Centralizar e difundir a informação no âmbito dos sistemas antifraude nacionais, comunitários e internacionais, de acordo com as normas estabelecidas para cada uma das respectivas aplicações;\n\ne) Colaborar com os organismos competentes, nacionais ou internacionais, na elaboração de normas relativas à comercialização de estupefacientes e de substâncias psicotrópicas e dos respectivos precursores, bem como dos produtos estratégicos;\n\nf) Aplicar as metodologias de análise de risco no tratamento da informação recolhida e difundir pelos serviços periféricos, de forma directa e orientada, os respectivos resultados através dos perfis de risco definidos;\n\ng) Emitir parecer e coordenar as acções necessárias à execução dos acordos de cooperação aduaneira e de assistência mútua administrativa de âmbito comunitário e internacional, com incidência directa na prevenção e repressão da fraude aduaneira e fiscal;\n\nh) Promover a cooperação administrativa entre a DGAIEC e outras entidades públicas ou privadas, tendo em vista a troca regular de informações relativas à luta antifraude.\n\n5 - Compete à Divisão de Planeamento e Controlo:\n\na) Elaborar o plano nacional de inspecção e fiscalização aduaneira, bem como coordenar e avaliar a sua execução;\n\nb) Promover, preparar, controlar e, sempre que as circunstâncias o exijam, executar acções concretas de fiscalização aduaneira e fiscal de âmbito nacional;\n\nc) Fixar os princípios a que se deve submeter o exercício da actividade fiscalizadora e controlar o desenvolvimento dos programas de acções elaborados e executados pelas divisões operacionais e pelas alfândegas;\n\nd) Definir e proceder à análise dos indicadores destinados à avaliação periódica das acções de fiscalização e de controlo executadas pelos serviços referidos na alínea anterior e propor as medidas correctivas que se revelem necessárias;\n\ne) Proceder a estudos e à elaboração de instruções, nomeadamente destinados à uniformização de procedimentos, relacionados com a actividade de fiscalização e de inspecção;\n\nf) Assegurar a execução de diligências de investigação no quadro dos actos de inquérito relativos aos crimes de natureza aduaneira e fiscal delegados na DGAIEC;\n\ng) Promover e coordenar os contactos necessários, no plano nacional, comunitário e internacional, com as entidades competentes, no âmbito de investigações e diligências relativas a processos crime de natureza aduaneira e fiscal, garantindo a necessária articulação com os serviços periféricos no mesmo domínio;\n\nh) Colaborar com outras entidades administrativas ou policiais, no plano nacional, comunitário ou internacional, por forma a assegurar a execução e a optimização das acções de fiscalização e de controlo.\n\n6 - Compete às Divisões Operacionais no respectivo âmbito territorial:\n\na) Participar na elaboração do plano nacional de inspecção e fiscalização aduaneira;\n\nb) Executar o plano nacional de inspecção e fiscalização aduaneira, incluindo as acções de controlo relacionadas com os financiamentos concedidos no âmbito da política agrícola comum;\n\nc) Executar diligências de investigação no quadro dos actos de inquérito relativos aos crimes de natureza aduaneira e fiscal delegados na DGAIEC;\n\nd) Participar em acções conjuntas com outras entidades administrativas ou policiais dirigidas à prevenção e repressão da fraude aduaneira e fiscal;\n\ne) Proceder à recolha, tratamento e difusão da informação operacional e táctica necessária ao desenvolvimento da actividade operacional;\n\nf) Contribuir para a definição de critérios para aplicação da análise de risco;\n\ng) Contribuir para a elaboração de indicadores susceptíveis de avaliar os resultados obtidos nas acções de controlo, a fim de possibilitar as adaptações sistemáticas ao nível da estratégia definida no domínio da prevenção e repressão da fraude.",
+    "depois": "###### Artigo 10.º — Direcção de Serviços Antifraude\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 599/2001](https://diariodarepublica.pt/dr/detalhe/portaria/599-2001-365310) e [Portaria n.º 677/2002](https://diariodarepublica.pt/dr/detalhe/portaria/677-2002-145599) e [Portaria n.º 772/2002](https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714) e [Portaria n.º 191/2003](https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506) e [Portaria n.º 349/2007](https://diariodarepublica.pt/dr/detalhe/portaria/349-2007-520391), publicado em 2007-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586390:por",
+    "alterador": "pt:dre:365310:por;pt:dre:145599:por;pt:dre:142714:por;pt:dre:187506:por;pt:dre:520391:por"
+  },
+  {
+    "artigo": "ANEXO::20.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º — Natureza\n\n1 - As alfândegas, as delegações aduaneiras e os postos aduaneiros são os referidos no mapa constante do anexo I ao presente regulamento, que dele faz parte integrante, sendo a dependência hierárquica das delegações aduaneiras e dos postos aduaneiros a resultante do referido mapa.\n\n2 - Os directores das alfândegas são equiparados, para todos os efeitos legais, a directores de serviços.\n\n3 - Aos dirigentes dos serviços periféricos cumpre gerir as áreas de resultado que lhes estão cometidas, na respectiva área de jurisdição.",
+    "depois": "###### Artigo 20.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 599/2001](https://diariodarepublica.pt/dr/detalhe/portaria/599-2001-365310) e [Portaria n.º 677/2002](https://diariodarepublica.pt/dr/detalhe/portaria/677-2002-145599) e [Portaria n.º 772/2002](https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714) e [Portaria n.º 191/2003](https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506) e [Portaria n.º 349/2007](https://diariodarepublica.pt/dr/detalhe/portaria/349-2007-520391), publicado em 2007-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:586390:por",
+    "alterador": "pt:dre:365310:por;pt:dre:145599:por;pt:dre:142714:por;pt:dre:187506:por;pt:dre:520391:por"
+  }
+]

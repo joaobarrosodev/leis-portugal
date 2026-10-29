@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "8.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Controlo da execução do contrato\n\n1 - Cabe à entidade financiadora acompanhar o desenvolvimento da execução dos projectos e programas objecto do contrato, bem como fiscalizar a execução das obras.\n\n2 - As empresas promotoras devem facultar àquelas entidades todos os elementos necessários à averiguação do efectivo cumprimento do contrato e da aplicação dos créditos.",
+    "depois": "###### Artigo 8.º — Controlo da execução do contrato\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:610412:por",
+    "alterador": "pt:dre:274243:por"
+  }
+]

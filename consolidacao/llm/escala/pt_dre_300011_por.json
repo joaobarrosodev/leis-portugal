@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:300011:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "DL n.º 87/94 (artigo 5.º): instrução sem o texto da nova redação. DL n.º 40/94: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:355098:por",
+  "artigos": [],
+  "nao_aplicavel": "A redação do artigo 2.º dada pelos DL n.os 174/90, 342/93 e 161/95 (com alíneas h) a j) e n.os 7 a 9) não é conhecida; as novas redações com '...' não podem ser aplicadas com segurança ao original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

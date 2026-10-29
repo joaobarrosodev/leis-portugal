@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:509236:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "O presente Regulamento define as regras aplicáveis à execução da Medida de Apoio à Criação de Novas Infra-Estruturas Tecnológicas e às Actuais Infra-Estruturas Tecnológicas, da Formação e da Qualidade."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Âmbito dos apoios e tipologia das acções",
+      "texto": "1 - No âmbito do presente Regulamento são susceptíveis de apoio projectos que se insiram nas seguintes acções:\n\na) Acção A - transferência de tecnologia no âmbito do sistema científico e tecnológico nacional;\n\nb) Acção B - dinamização de infra-estruturas dos sistemas tecnológico, da formação e da qualidade;\n\nc) Acção C - projectos de demonstração tecnológica de natureza estratégica.\n\nd) Acção D - criação de novas infra-estruturas do sistema tecnológico.\n\n2 - A acção A contempla projectos de transferência de tecnologia, ou conducentes a esta, inseridos nos planos de actividades dos promotores relativos aos exercícios económicos subsequentes aos de apresentação das candidaturas.\n\n3 - A acção B visa a dinamização da actuação das infra-estruturas da envolvente empresarial nas áreas de inovação, assistência técnica e tecnológica, formação e qualidade, dotando-as das competências necessárias à afirmação da sua intervenção na criação de dinâmicas favoráveis a uma resposta mais efectiva aos desafios de competitividade sustentável do tecido empresarial nacional.\n\n4 - Inserem-se na acção C projectos de investigação, desenvolvimento e demonstração tecnológicos com impacte relevante na actividade empresarial e de natureza claramente pré-competitiva, bem como o co-financiamento da participação de infra-estruturas tecnológicas nacionais em projectos do mesmo âmbito realizados ao abrigo de programas comunitários.\n\n5 - Na acção D inserem-se os projectos que visem criar no sistema tecnológico novas infra-estruturas com competências em áreas tecnológicas deficientemente cobertas pela actual rede de infra-estruturas, consideradas estratégicas pelo Ministro de Estado, das Actividades Económicas e do Trabalho.\n\n6 - Para efeitos do presente Regulamento, os projectos de criação de novas infra-estruturas no continente inseridos na alínea d) do n.º 1 serão considerados projectos regionalmente desconcentrados, sendo os restantes considerados nacionais."
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Competências",
+      "texto": "1 - Compete à AdI proceder à avaliação das candidaturas, à emissão das ordens de pagamento dos incentivos e ao acompanhamento e verificação da execução dos projectos, excepto no que se refere aos projectos no âmbito do SPQ, em que estas competências cabem ao IAPMEI, e no âmbito da formação profissional, em que estas competências cabem ao GPF.\n\n2 - No âmbito dos projectos regionalmente desconcentrados, as competências referidas no número anterior são exercidas pelas DRE territorialmente competentes, em articulação com a AdI.\n\n3 - Compete ao GPF, no âmbito dos projectos de infra-estruturas tecnológicas e da qualidade, em articulação com a AdI, o IAPMEI e a DRE territorialmente competente, assegurar no âmbito da formação profissional associada aos projectos a gestão dessa componente.\n\n4 - A entidade gestora, bem como as diversas entidades intervenientes na gestão da presente medida, podem solicitar esclarecimentos complementares aos promotores, os quais deverão ser apresentados no prazo máximo de 10 dias úteis após terem sido solicitados, prazo este prorrogável por igual período, mediante justificação apresentada pela entidade candidata, decorridos os quais a ausência de resposta significará a desistência da candidatura."
+    }
+  ],
+  "nao_aplicavel": "Restantes artigos alterados/aditados pela Portaria n.º 230/2005 e o anexo B não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "16.º: parágrafo que não está no alterador nem no original: 4 - A entidade gestora, bem como as diversas entidades intervenientes na gestão "
+  ]
+}

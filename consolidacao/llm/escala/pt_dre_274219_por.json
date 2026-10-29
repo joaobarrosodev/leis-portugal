@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:274219:por",
+  "artigos": [],
+  "nao_aplicavel": "Artigos 18.º, 20.º, 21.º e 22.º: a instrução só traz a frase introdutória ('passa(m) a ter a seguinte redacção'), sem o texto novo",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

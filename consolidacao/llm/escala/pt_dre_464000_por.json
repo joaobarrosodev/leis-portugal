@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:464000:por",
+  "artigos": [],
+  "nao_aplicavel": "Todas as instruções da Portaria n.º 808/80 alteram os anexos I e II (quadros de cursos e nucleares) e o texto dos aditamentos/quadros não é fornecido; o anexo I original remete para o documento original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

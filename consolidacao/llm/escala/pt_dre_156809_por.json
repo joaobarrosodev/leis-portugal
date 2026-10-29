@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:156809:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 123/86 não traz a nova redação do artigo 1.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

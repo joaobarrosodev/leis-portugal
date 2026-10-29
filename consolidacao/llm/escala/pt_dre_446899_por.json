@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:446899:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Art. 2.º revogado pelo DL 318/78 (revogação do diploma salvo o art. 16.º). O art. 16.º mantém-se na redação dada pelo DL 641/75, cujo texto não consta do pedido; não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

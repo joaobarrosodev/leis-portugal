@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:565189:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções (Decreto-Lei n.º 219/87 e Decreto-Lei n.º 293/89) não trazem o texto dos artigos 6.º-A, 6.º-B, 6.º-C, 6.º-D, 9.º e 10.º; nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

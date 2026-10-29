@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6. O processo é isento de imposto de justiça, selos e encargos, salvo os casos de litigência de má fé, a que se aplicará o respectivo regime.\n\n7. Não é obrigatória a constituição de advogado.",
+    "depois": "###### Artigo 3.º\n\n1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 546/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/546-1976-430445) e [Lei n.º 22/87](https://diariodarepublica.pt/dr/detalhe/lei/22-1987-419646) e [Lei n.º 108/97](https://diariodarepublica.pt/dr/detalhe/lei/108-1997-649160), publicado em 1997-09-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415443:por",
+    "alterador": "pt:dre:430445:por;pt:dre:419646:por;pt:dre:649160:por"
+  }
+]

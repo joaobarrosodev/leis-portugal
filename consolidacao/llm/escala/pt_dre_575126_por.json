@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:575126:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Mobilidade",
+      "texto": "1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma."
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Funções de coordenação",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "DL 408/93 sem texto da nova redação; artigo 9.º não fornecido no original; no 4.º o n.º 4 foi mantido por não ser referido na redação do DL 42/97; a nova redação do 10.º (DL 42/97) foi depois revogada pelo DL 237/2004.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

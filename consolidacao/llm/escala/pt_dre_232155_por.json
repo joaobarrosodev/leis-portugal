@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:232155:por",
+  "artigos": [
+    {
+      "chave": "19.º",
+      "epigrafe": "Condicionantes",
+      "texto": "1 - À ZPF aplicam-se as condicionantes previstas no artigo 17.º\n\n2 - É ainda interdita a introdução de novos povoamentos ou a reconversão dos existentes com plantação ou sementeira extreme de espécies de crescimento rápido.\n\n3 - São espécies permitidas os carvalhos roble e negral e o pinheiro-manso, associados a sobreiros e castanheiros nas encostas, os freixos, amieiros e salgueiros nos vales e as nogueiras em condições especiais de profundidade, drenagem e frescura do solo."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "19.º: parágrafo que não está no alterador nem no original: 3 - São espécies permitidas os carvalhos roble e negral e o pinheiro-manso, asso"
+  ]
+}

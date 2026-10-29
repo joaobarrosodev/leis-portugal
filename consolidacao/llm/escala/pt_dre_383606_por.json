@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:383606:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "DL n.º 8/80 (alínea f) do artigo 2.º): instrução sem o texto da nova redação. DL n.º 47/89: sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:67522990:por",
+  "artigos": [],
+  "nao_aplicavel": "A alteração do Anexo I (DRR 16/2016/M) não traz texto (anexo/quadro); o fragmento «4 - O Diretor Regional é substituído...» não identifica o artigo alvo; DRR 22/2020/M sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

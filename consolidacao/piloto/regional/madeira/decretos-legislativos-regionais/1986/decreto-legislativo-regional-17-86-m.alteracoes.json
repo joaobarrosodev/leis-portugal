@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nNa Região Autónoma da Madeira competirá, respectivamente, à Direcção de Serviços de Fiscalização Económica e ao Secretário Regional da Economia o processamento e a aplicação das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.\n\n§ único. Todas as restantes competências e atribuições previstas no referido diploma à Direcção-Geral de Inspecção Económica cabem nesta Região à Direcção Regional do Comércio e Indústria.",
+    "depois": "###### Artigo 1.º\n\nNa Região Autónoma da Madeira, compete à Inspecção Regional das Actividades Económicas e à Comissão Regional de Aplicação de Coimas em Matéria Económica o processamento e aplicação, respectivamente, das coimas e sanções acessórias previstas no Decreto-Lei n.º 28/84, de 20 de Janeiro.»\n\n§ único. Todas as restantes competências e atribuições previstas no referido diploma à Direcção-Geral de Inspecção Económica cabem nesta Região à Direcção Regional do Comércio e Indústria.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 16/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1990-574923) e [Decreto Legislativo Regional n.º 3/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1997-469583), publicado em 1997-04-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:220144:por",
+    "alterador": "pt:dre:574923:por;pt:dre:469583:por"
+  }
+]

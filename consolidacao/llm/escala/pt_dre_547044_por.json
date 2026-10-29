@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:547044:por",
+  "artigos": [
+    {
+      "chave": "ANEXO I — REGIMENTO DO CONSELHO DE MINISTROS DO XVII GOVERNO CONSTITUCIONAL::22.º",
+      "epigrafe": "Documentos que acompanham os projectos",
+      "texto": "1 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa de que constam, discriminadamente, em todos os casos, os seguintes elementos:\n\na) Sumário a publicar no Diário da República;\n\nb) Síntese do conteúdo do projecto;\n\nc) Necessidade da forma proposta para o projecto;\n\nd) Referência à participação ou audição de entidades, com indicação da norma que a exija e do respectivo conteúdo;\n\ne) Actual enquadramento jurídico da matéria objecto do projecto;\n\nf) Razões que aconselham a alteração do regime jurídico em vigor;\n\ng) Análise comparativa entre o regime jurídico em vigor e o regime jurídico a aprovar;\n\nh) Identificação expressa da legislação a alterar ou a revogar e eventual legislação complementar;\n\ni) Identificação expressa da necessidade de aprovação de regulamentos para a concretização e execução do acto normativo em causa e da entidade a que compete a instrução do procedimento regulamentar;\n\nj) Avaliação sumária dos meios financeiros e humanos envolvidos na respectiva execução a curto e médio prazos;\n\nl) Avaliação do impacte do projecto quando, em razão da matéria, o mesmo tenha implicação com a igualdade de género;\n\nm) Avaliação do impacte do projecto quando, em razão da matéria, o mesmo tenha implicações nas condições de participação e integração social dos cidadãos portadores de deficiência;\n\nn) Articulação com o Programa do Governo;\n\no) Articulação com políticas comunitárias;\n\np) Nota para a comunicação social.\n\n2 - A nota justificativa tem a natureza de documento interno do Governo.\n\n3 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados dos pareceres ou documentos comprovativos das audições e consultas previstas na alínea d) do n.º 1.\n\n4 - A falta de instrução do projecto com a nota justificativa ou os documentos referidos no número anterior impede a circulação e o agendamento do mesmo para reunião de secretários de Estado ou para Conselho de Ministros, devendo o projecto ser devolvido ao gabinete do ministro proponente, sem prejuízo do disposto no n.º 2 do artigo 18.º e do disposto no n.º 3 do artigo 20.º\n\n5 - Em reunião, os secretários de Estado podem deliberar que o projecto seja acompanhado por um programa de acções destinado à divulgação pública do mesmo, elaborado em coordenação com a Presidência do Conselho de Ministros."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "ANEXO I — REGIMENTO DO CONSELHO DE MINISTROS DO XVII GOVERNO CONSTITUCIONAL::22.º: parágrafo que não está no alterador nem no original: n) Articulação com o Programa do Governo;",
+    "ANEXO I — REGIMENTO DO CONSELHO DE MINISTROS DO XVII GOVERNO CONSTITUCIONAL::22.º: parágrafo que não está no alterador nem no original: o) Articulação com políticas comunitárias;",
+    "ANEXO I — REGIMENTO DO CONSELHO DE MINISTROS DO XVII GOVERNO CONSTITUCIONAL::22.º: parágrafo que não está no alterador nem no original: p) Nota para a comunicação social."
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º\n\n1 - A gratificação de serviço aéreo ao pessoal considerado pára-quedista nos termos da lei, bem como ao constante da alínea b) deste artigo, passa a designar-se por gratificação de serviço pára-quedista e é fixada nos quantitativos mensais correspondentes às seguintes percentagens do vencimento base de capitão, arredondados para a centena de escudos imediatamente superior:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17201/00010004.pdf)\n\n2 - O abono da gratificação de serviço pára-quedista terá lugar quando se verifiquem as condições actualmente estabelecidas na legislação especial reguladora da prestação de serviço aéreo ou nas que vierem a ser fixadas para regular o abono da gratificação de serviço pára-quedista.",
+    "depois": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 8/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1980-692831) e [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383606:por",
+    "alterador": "pt:dre:692831:por;pt:dre:290001:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º\n\n1 - Para efeitos de cálculo de pensões de reserva e de reforma, a gratificação de serviço pára-quedista a considerar é a do último posto em que este serviço foi desempenhado, até ao limite máximo da atribuída a oficial general.\n\n2 - Às pensões de reserva que, nos termos legais, incluam gratificação de serviço pára-quedista aplica-se, em relação ao montante desta gratificação, o disposto no artigo 2.º do [Decreto-Lei n.º 75-V/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-v-1977-509006), de 28 de Fevereiro.\n\nD) Gratificação de serviço de mergulhador",
+    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 8/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1980-692831) e [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383606:por",
+    "alterador": "pt:dre:692831:por;pt:dre:290001:por"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:507439:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Suspensão do exercício de funções",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Exercício de funções",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Nomeação e remuneração dos membros da comissão",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A Lei n.º 22/2013 revoga integralmente a Lei n.º 32/2004, pelo que os artigos ficam revogados (a nova redação do art. 3.º pela Lei n.º 34/2009 fica prejudicada; as redações dos arts. 4.º e 12.º pelo DL 282/2007 não vinham no pedido; a extinção da comissão do art. 12.º não é alteração textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

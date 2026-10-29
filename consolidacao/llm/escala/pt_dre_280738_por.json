@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280738:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social."
+    }
+  ],
+  "nao_aplicavel": "A alteração do art. 6.º pelo DL 11/88 não traz o novo texto; não aplicada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:466834:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Aplicação",
+      "texto": "1 - O disposto no [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, com a redacção dada pelo presente diploma é aplicável aos actos e contratos a realizar após a data da sua entrada em vigor.\n\n2 - O estabelecido nos artigos 13.º, 14.º, 16.º e 22.º e seguintes com a redacção dada pelo presente diploma é aplicável às relações jurídicas já constituídas.\n\n3 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

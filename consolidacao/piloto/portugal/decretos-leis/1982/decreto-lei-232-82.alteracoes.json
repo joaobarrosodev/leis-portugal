@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 - Por cada escritura com um só acto, testamento público, testamento internacional, instrumento de aprovação ou de abertura de testamento cerrado - 400$00.\n\n2 - Ao emolumento previsto no número anterior acresce a rasa, que será, por cada lauda ou fracção - 75$00.\n\n3 - As laudas que apenas contenham as assinaturas e as menções legais posteriores a elas não são consideradas para o efeito do disposto no número anterior.\n\n4 - Estão sujeitos ao emolumento do n.º 2 os documentos referidos nos n.os 1 e 2 do artigo 78.º do Código do Notariado.",
+    "depois": "###### Artigo 4.º\n\n1 - Quando, durante as horas normais de serviço, for solicitada a presença de notários de Lisboa e Porto para a celebração, fora do cartório, de quaisquer actos notariais, aqueles:\n\na) Nos actos realizados em instituições de crédito, devem fazer-se substituir pelo adjunto ou pelos ajudantes;\n\nb) Nos actos em que sejam intervenientes sociedades comerciais, agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico, podem fazer-se substituir pelo adjunto ou, na falta deste, por qualquer dos ajudantes designados para os substituir nas suas faltas e impedimentos por períodos não superiores a 30 dias.\n\n2 - Por despacho do director-geral dos Registos e do Notariado, o regime previsto no número anterior pode aplicar-se a outras localidades, mediante solicitação dos respectivos notários.\n\n3 - Em caso de vacatura do lugar, licença ou impedimento do notário, é aplicável ao respectivo substituto legal o disposto no n.º 1.\n\n4 - Em casos excepcionais e por motivos relevantes, o director-geral dos Registos e do Notariado pode autorizar a presença do notário nas situações previstas na alínea a) do n.º 1.\n\n5 - A realização de actos nas condições referidas nos n.os 1 e 3 só pode ter lugar após a apreciação dos instrumentos pelo notário ou pelo respectivo substituto, e desde que deles conste o seu visto.\n\n> Alterado pelo/a [Decreto-Lei n.º 272/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1994-621541) e [Decreto-Lei n.º 380/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1998-217323) e [Decreto-Lei n.º 5/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1999-488855), publicado em 1999-01-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395890:por",
+    "alterador": "pt:dre:621541:por;pt:dre:217323:por;pt:dre:488855:por"
+  }
+]

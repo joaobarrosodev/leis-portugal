@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:142112:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Categoria de integração",
+      "texto": "1 - A integração de pessoal nos quadros dos serviços e organismos da Administração Pública faz-se no escalão 1 da categoria de ingresso das carreiras que correspondam às funções efectivamente desempenhadas, constantes dos contratos a termo certo autorizados nos termos dos artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 81-A/96, de 21 de Junho, e do n.º 3 do artigo 2.º do presente diploma, sem prejuízo das habilitações literárias e profissionais exigidas.\n\n2 - Nos casos em que as categorias constantes dos contratos a termo certo prorrogados em conformidade com o artigo 3.º do Decreto-Lei n.º 81-A/96, de 21 de Junho, não correspondam às funções efectivamente desempenhadas no momento da prorrogação, devem os serviços e organismos proceder à elaboração de novas propostas de contratação, instruídas nos termos dos artigos 4.º ou 5.º daquele diploma legal.\n\n3 - Nos casos em que o interessado não possua as habilitações literárias ou profissionais adequadas às funções efectivamente desempenhadas, a integração é feita em categoria de ingresso de carreira em que se verifique o preenchimento do requisito habilitacional, cujo conteúdo funcional mais se aproxime daquele que vem sendo exercido.\n\n4 - A habilitação literária poderá ser dispensada nas categorias de ingresso das carreiras dos grupos operário e auxiliar e para os trabalhadores agrícolas em que se exija a escolaridade obrigatória, desde que, independentemente da idade, se mostre, por meios idóneos, que a falta da habilitação literária não prejudica a sua capacidade de trabalho nas respectivas funções.\n\n5 - A integração é feita nas vagas existentes na respectiva categoria, considerando-se os quadros automaticamente alterados na estrita medida do indispensável, se os lugares vagos não forem suficientes, sendo os lugares assim criados a extinguir quando vagarem.\n\n6 - Sem prejuízo do disposto no artigo 8.º, os serviços que não disponham de quadro de pessoal devem abrir os concursos necessários à integração do pessoal, a qual se opera em situação de nomeação definitiva em mapas que deverão integrar o referido quadro.\n\n7 - Os serviços assegurarão no agrupamento económico «Despesas com o pessoal», através de mecanismos legais em vigor e sem aumento da despesa pública, as dotações necessárias à satisfação dos encargos decorrentes da integração prevista no número anterior."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Processo de integração",
+      "texto": "1 - A integração nos quadros do pessoal a que se refere o artigo 1.º depende da aprovação em concurso.\n\n2 - Os concursos necessários à integração do pessoal são abertos, independentemente da existência de vagas:\n\na) Até ao final do mês de Setembro de 1997, para o pessoal que até 30 de Abril de 1997 conte mais de três anos de serviço;\n\nb) Durante os meses de Novembro de 1997 e de Fevereiro, Maio, Setembro e Dezembro de 1998, para o pessoal que entretanto tenha completado três anos de serviço;\n\nc) Durante os meses de Janeiro, Abril e Junho de 1999, para o pessoal que entretanto complete três anos de serviço;\n\nd) Durante os meses de Setembro e Dezembro de 1999 e de Fevereiro, Maio, Junho e Setembro do ano 2000, para o pessoal abrangido pelo n.º 5 do artigo 13.º do Decreto-Lei n.º 215/97, de 18 de Agosto, que entretanto complete três anos de serviço.\n\n3 - Se a emissão do despacho conjunto autorizador previsto no n.º 4 do artigo 2.º for posterior ao mês previsto para a abertura do concurso, será este obrigatoriamente aberto até ao final do mês que mais se aproxime daquele, de acordo com a calendarização prevista no número anterior.\n\n4 - O pessoal abrangido pelo presente diploma é candidato obrigatório ao concurso aberto no respectivo serviço ou organismo para a categoria correspondente às funções que desempenha, sem prejuízo do disposto no n.º 2 do artigo 3.º, sem o que o seu contrato é rescindido no termo do prazo fixado para a apresentação de candidaturas."
+    }
+  ],
+  "nao_aplicavel": "DL 526/99 sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 3 - Nos casos em que o interessado não possua as habilitações literárias ou prof",
+    "3.º: parágrafo que não está no alterador nem no original: 4 - A habilitação literária poderá ser dispensada nas categorias de ingresso das",
+    "3.º: parágrafo que não está no alterador nem no original: 5 - A integração é feita nas vagas existentes na respectiva categoria, considera",
+    "3.º: parágrafo que não está no alterador nem no original: 6 - Sem prejuízo do disposto no artigo 8.º, os serviços que não disponham de qua",
+    "3.º: parágrafo que não está no alterador nem no original: 7 - Os serviços assegurarão no agrupamento económico «Despesas com o pessoal», a",
+    "4.º: parágrafo que não está no alterador nem no original: 4 - O pessoal abrangido pelo presente diploma é candidato obrigatório ao concurs"
+  ]
+}

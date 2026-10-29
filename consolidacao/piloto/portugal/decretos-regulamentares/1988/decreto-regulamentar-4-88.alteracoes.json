@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Formação profissional\n\nO estágio previsto no n.º 1 do artigo 74.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, é reconhecido como formação profissional adequada ao provimento na carreira referida no artigo anterior, como do grupo de pessoal técnico-profissional do nível 4.",
+    "depois": "###### Artigo 2.º — Formação profissional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 34/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1991-659558) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:282696:por",
+    "alterador": "pt:dre:659558:por;pt:dre:124324704:por"
+  }
+]

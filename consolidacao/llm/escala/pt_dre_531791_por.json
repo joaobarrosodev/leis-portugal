@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:531791:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - A RDP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos respectivos estatutos.\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::3.º",
+      "epigrafe": "",
+      "texto": "1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da Lei n.º 4/2001, de 23 de Fevereiro, da Lei da Televisão e do Decreto-Lei n.º 2/94, de 10 de Janeiro.\n\n2 - A sociedade pode prosseguir quaisquer outras actividades relacionadas com o serviço de radiodifusão, designadamente as seguintes:\n\na) Transmissão de referências publicitárias de interesse geral ou de natureza cultural ou sob a forma de patrocínio;\n\nb) Comercialização dos seus programas e dos seus meios técnico-operacionais, com excepção, quanto a estes, das frequências associadas;\n\nc) Exploração dos produtos secundários respeitantes à radiodifusão sonora;\n\nd) Prestação de serviços de consultadoria técnica e de formação profissional e cooperação com outras entidades, nacionais ou estrangeiras, especialmente com entidades congéneres dos países de língua oficial portuguesa.\n\n3 - A sociedade, para exercício do seu objecto social e por deliberação do conselho de administração, ouvido o conselho fiscal, pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico, bem como no capital social de outras sociedades, por qualquer das formas previstas na legislação comercial."
+    }
+  ],
+  "nao_aplicavel": "Artigos 4.º e 6.º do decreto-lei e artigos 4.º, 5.º, 7.º e 12.º dos Estatutos também alterados/revogados, mas o seu texto original não foi fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

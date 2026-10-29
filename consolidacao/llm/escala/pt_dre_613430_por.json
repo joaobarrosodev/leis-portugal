@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:613430:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "O presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, nos termos do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito e objectivos",
+      "texto": "Este regime tem como objectivo adequar a frota de pesca aos recursos disponíveis, mediante a retirada selectiva de embarcações, no âmbito da política comum de pescas, através da cessação definitiva das actividades de pesca, pelo abate, por demolição, das embarcações ao registo nacional e comunitário da frota de pesca, com todas as artes constantes do livrete de actividade."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Critérios de selecção",
+      "texto": "1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do respectivo valor da avaliação final (AF), resultante da aplicação da seguinte fórmula:\n\nAF = 0,4 AT + 0,6 AS\n\n2 - O cálculo de AF é definido no anexo I e resulta da ponderação das seguintes valências:\n\nAT - apreciação técnica;\n\nAS - avaliação sectorial.\n\n3 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos na avaliação final.\n\n4 - (Eliminado.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Natureza e montante dos apoios",
+      "texto": "1 - Os apoios à imobilização definitiva por demolição revestirão a forma de subsídio a fundo perdido.\n\n2 - O montante dos apoios a conceder é de 90% dos valores resultantes da tabela constante do anexo II.\n\n3 - (Eliminado.)"
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações aos anexos I e II (quadros/tabelas) não aplicadas; artigos 3.º, 4.º, 8.º e 12.º não foram fornecidos no original, pelo que não foram devolvidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

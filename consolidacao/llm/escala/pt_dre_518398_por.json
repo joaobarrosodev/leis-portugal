@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:518398:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções só trazem o preâmbulo, sem o texto da alínea aditada ao artigo 74.º nem a nova redação da alínea a) do n.º 1.º e do § 2.º do artigo 13.º; as instruções 4 e 5 referem-se ao regulamento aprovado pelo Decreto n.º 43894 (outro diploma) e também não trazem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

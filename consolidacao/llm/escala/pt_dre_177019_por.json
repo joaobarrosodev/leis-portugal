@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:177019:por",
+  "artigos": [
+    {
+      "chave": "XIX",
+      "epigrafe": "Alterações",
+      "texto": "a) Qualquer Parte poderá propor alterações à Convenção. As propostas de alteração serão comunicadas ao director-geral que as fará circular prontamente por todas as Partes e Signatários. Só 3 meses após a apresentação de uma proposta de alteração esta poderá ser analisada pelo Conselho dos Signatários, que submeterá as suas opiniões e recomendações à Assembleia das Partes no prazo de 6 meses a contar da data da divulgação da proposta de alteração. A apreciação pela Assembleia das Partes da proposta de alteração só poderá ser feita 6 meses após a data da sua recepção, tendo em consideração as opiniões e recomendações do Conselho dos Signatários. Em casos especiais, este prazo poderá ser reduzido por decisão da Assembleia das Partes tomada em conformidade com o procedimento previsto para as questões de fundo.\n\nb) Se for adoptada pela Assembleia das Partes, a alteração entrará em vigor 120 dias após o Depositário ter recebido as notificações de aceitação da alteração por dois terços dos Estados que, à data da sua adopção pela Assembleia das Partes, forem Partes e cujos Signatários detenham, então, pelo menos dois terços do total das quotas-partes de investimento. Após a entrada em vigor, a alteração tornar-se-á vinculativa para todas as Partes e todos os Signatários.\n\nc) (Revogada.)"
+    },
+    {
+      "chave": "22",
+      "epigrafe": "Alterações",
+      "texto": "a) Qualquer signatário ou a Assembleia das Partes poderá propor alterações ao Acordo de Exploração. As propostas de alteração serão comunicadas ao director-geral, que as fará prontamente circular por todas as Partes e signatários.\n\nb) O Conselho dos Signatários examinará qualquer proposta de alteração na sua primeira reunião ordinária após o director-geral a ter feito circular, ou numa reunião extraordinária que tenha lugar mais cedo, desde que a proposta de alteração tenha sido divulgada pelo director-geral pelo menos 90 dias antes da data de abertura da reunião. O Conselho dos Signatários terá em consideração todas as opiniões e recomendações que receber de qualquer Parte ou da Assembleia das Partes sobre a proposta de alteração.\n\nc) O Conselho dos Signatários decidirá sobre cada proposta de alteração em conformidade com as disposições relativas ao quórum e ao processo de votação contidas no artigo XI da Convenção. Poderá modificar qualquer proposta de alteração que tenha sido feita circular em conformidade com o parágrafo a) deste artigo e poderá também tomar decisões sobre qualquer proposta de alteração que não tenha sido feita circular em conformidade com o referido artigo ou que resulte directamente de uma proposta de alteração.\n\nd) Depois de aprovada pelo Conselho dos Signatários, a alteração entrará em vigor 90 dias após o depositário ter recebido as notificações da aprovação desta alteração por dois terços dos signatários que, à data da aprovação, sejam signatários e detenham então pelo menos dois terços do total das quotas-partes de investimento. Logo que entre em vigor, a alteração tornar-se-á vinculativa para todos os signatários. A notificação da aprovação de uma alteração por um signatário será transmitida ao depositário pela Parte que tiver designado o signatário em questão. Tal notificação valerá como a aceitação da alteração por aquela Parte.\n\ne) (Revogada.)"
+    }
+  ],
+  "nao_aplicavel": "O Decreto n.º 29/97 consta da lista mas não traz instrução; só se aplicou o Decreto n.º 36/96 (eliminação do parágrafo c) do artigo XIX da Convenção e do parágrafo e) do artigo 22 do Acordo de Exploração).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

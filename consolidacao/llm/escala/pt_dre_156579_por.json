@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:156579:por",
+  "artigos": [],
+  "nao_aplicavel": "Novas redações (§ 2.º do art. 6.º e art. 1.º) sem texto no pedido; a alteração dos prazos para vinte anos (§ 1.º do art. 6.º e art. 7.º) não é textual.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

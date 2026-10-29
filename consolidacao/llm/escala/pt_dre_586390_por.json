@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:586390:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::2.º",
+      "epigrafe": "Serviços centrais",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::3.º",
+      "epigrafe": "Área de gestão aduaneira",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::5.º-A",
+      "epigrafe": "Direcção de Serviços de Licenciamento",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::10.º",
+      "epigrafe": "Direcção de Serviços Antifraude",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::20.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A Portaria 349/2007 revoga a Portaria 705-A/2000 com exceção do artigo 29.º (mantido sem alteração); as alterações intermédias aos artigos 2.º, 3.º e o aditamento do 5.º-A (Portarias 772/2002 e 191/2003) ficam assim revogadas; as alterações ao mapa do anexo I (Portarias 599/2001 e 677/2002) não são textuais; os restantes artigos alterados/revogados (6.º, 9.º, 11.º a 14.º, 19.º...) não vêm no original; Portarias 31/2001 e 1067/2004 sem instrução.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

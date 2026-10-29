@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:552345:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções de alteração e aditamento (DL 44-F/2010 e DL 112/2015) não trazem o texto das novas redações das bases nem das epígrafes dos capítulos; as revogações parciais do DL 112/2015 incidem sobre números de bases já alteradas por redações não fornecidas, pelo que não se aplicam com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

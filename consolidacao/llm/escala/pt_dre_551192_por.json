@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:551192:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições de acesso relativas aos projectos",
+      "texto": "Sem prejuízo das condições previstas no artigo 5.º do Decreto-Lei n.º 81/2008, de 16 de Maio, são condições de acesso, quando aplicáveis, dos projectos previstos na alínea d) do artigo 5.º:\n\na) Apresentar memória descritiva demonstrativa dos benefícios colectivos esperados;\n\nb) Investimento elegível de valor igual ou superior a (euro) 3000;\n\nc) Possuir autorizações ou licenciamentos legalmente exigidos para a execução dos projectos, excepto no caso de projectos que envolvam a realização de acções de formação, as autorizações ou licenciamentos respeitantes ao promotor e aos formadores alocados ao projecto;\n\nd) Comprovar a propriedade dos terrenos e instalações ou o direito ao seu uso;\n\ne) Demonstrar o cumprimento das disposições legais em matéria de ambiente;\n\nf) Demonstrar o cumprimento das disposições legais em matéria de contratos públicos ou apresentar declaração de compromisso;\n\ng) Enquadrar-se nos programas operacionais, a que se refere o artigo 9.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro 1999, sempre que o projecto seja apresentado por uma organização de produtores."
+    }
+  ],
+  "nao_aplicavel": "Artigos 5.º, 9.º, 11.º e 13.º: as instruções (Portarias n.os 106/2010, 226/2010, 271/2011, 60/2013, 315/2013 e 109/2014) não trazem o texto da nova redação; alterações ao anexo também sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

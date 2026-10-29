@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:616624:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções não alteram o texto de artigos: o DR 49/91 adita um mapa anexo, o DR 15/2000 altera escalas salariais do mapa e revoga o diploma só na parte correspondente a certas carreiras (revogação parcial/não textual).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

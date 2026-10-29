@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "71.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 71.º\n\nA DREM é o órgão da SREJE que visa contribuir para a definição da política de emprego.",
+    "depois": "###### Artigo 71.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886) e [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:262123:por",
+    "alterador": "pt:dre:596886:por;pt:dre:268778:por"
+  }
+]

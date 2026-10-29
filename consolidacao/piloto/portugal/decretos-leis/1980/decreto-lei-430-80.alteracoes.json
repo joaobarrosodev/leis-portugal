@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nOs limites definidos no artigo anterior poderão ser alterados por acordo, em consequência das conclusões resultantes dos estudos sobre aproveitamento portuário do Sado, tendo em atenção a sua vocação para o estabelecimento de um porto de grande projecção.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461616:por",
+    "alterador": "pt:dre:454502:por"
+  }
+]

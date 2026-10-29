@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "63.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 63.º — Alteração do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho\n\nOs artigos 3.º, 4.º e 10.º do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais;\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - ...\n\nArtigo 4.º\n\n[...]\n\n1 - ...\n\na) As associações desportivas e as associações multidesportivas;\n\nb) ...\n\nc) ...\n\nd) As entidades não desportivas que promovam actividade desportiva.\n\n2 - ...\n\n3 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Garantias de afectação futura dos bens referidos na alínea anterior aos fins do contrato;\n\ni) ...\n\nj) ...»",
+    "depois": "###### Artigo 63.º — Alteração do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho\n\nOs artigos 3.º, 4.º e 10.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:\n\n'Artigo 3.º\n\n[...]\n\n1 - ...\n\na)...\n\nb)...\n\nc) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais.\n\nd)...\n\ne)...\n\nf)...\n\ng)...\n\n2 - ...'»\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2008-455661) e [Decreto Legislativo Regional n.º 14/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-58986482), publicado em 2014-11-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:262158:por",
+    "alterador": "pt:dre:455661:por;pt:dre:58986482:por"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:518007:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução do Decreto-Lei n.º 46322 não traz o texto do novo parágrafo a acrescentar; não se pode aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:324972:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Composição e funcionamento da comissão directiva",
+      "texto": "1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O recrutamento, selecção e provimento do presidente da comissão directiva segue o regime definido na Lei n.º 2/2004, de 15 de Janeiro, sendo os vogais nomeados pelo membro do Governo responsável pelas áreas do ambiente, do ordenamento do território e do desenvolvimento regional no respeito pelo disposto nos números seguintes.\n\n3 - Um dos vogais é indicado pelo ICN e o outro pelas Câmaras Municipais de Castelo Branco, de Idanha-a-Nova e de Vila Velha de Ródão ou, no caso previsto no número seguinte, pelo membro do Governo competente.\n\n4 - Na falta de indicação do vogal pelas Câmaras Municipais referidas no número anterior no prazo de 60 dias a contar da solicitação efectuada para o efeito pelo ICN, o mesmo é indicado pelo membro do Governo responsável pelas áreas do ambiente, do ordenamento do território e do desenvolvimento regional.\n\n5 - O mandato dos titulares da comissão directiva é de três anos.\n\n6 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de um dos vogais.\n\n7 - O presidente tem voto de qualidade.\n\n8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, na redacção do [Decreto-Lei n.º 169/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475), de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Anexos I e II e art. 9.º (revogado) não constam do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

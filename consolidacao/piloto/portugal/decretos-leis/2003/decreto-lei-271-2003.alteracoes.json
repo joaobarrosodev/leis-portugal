@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Aplicação\n\n1 - O disposto no [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, com a redacção dada pelo presente diploma é aplicável aos actos e contratos a realizar após a data da sua entrada em vigor.\n\n2 - O estabelecido nos artigos 13.º, 14.º, 16.º e 22.º e seguintes com a redacção dada pelo presente diploma é aplicável às relações jurídicas já constituídas.\n\n3 - As disposições legais referidas no número anterior aplicam-se no caso de fogos construídos ou adquiridos com o apoio financeiro concedido ao abrigo dos Decretos-Leis n.os [226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, e [197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de Julho, nos termos previstos no n.º 2 do presente artigo.",
+    "depois": "###### Artigo 4.º — Aplicação\n\n1 - O disposto no [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, com a redacção dada pelo presente diploma é aplicável aos actos e contratos a realizar após a data da sua entrada em vigor.\n\n2 - O estabelecido nos artigos 13.º, 14.º, 16.º e 22.º e seguintes com a redacção dada pelo presente diploma é aplicável às relações jurídicas já constituídas.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 135/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), publicado em 2004-06-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:466834:por",
+    "alterador": "pt:dre:281201:por"
+  }
+]

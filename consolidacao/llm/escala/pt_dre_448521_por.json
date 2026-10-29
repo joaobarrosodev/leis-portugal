@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:448521:por",
+  "artigos": [
+    {
+      "chave": "4.º-A",
+      "epigrafe": "",
+      "texto": "1 - A Secretaria é o serviço de apoio administrativo da Academia, competindo-lhe assegurar as funções relativas às áreas de administração de pessoal, expediente, arquivo, contabilidade, economato e património, secretariado e dactilografia.\n\n2 - À Secretaria compete ainda colaborar na composição e impressão do Boletim da Academia Nacional de Belas-Artes e das demais publicações académicas, bem como, de uma forma geral, apoiar a acção desenvolvida pela Academia no âmbito das suas atribuições.\n\n3 - A Secretaria é chefiada por um chefe de secção."
+    },
+    {
+      "chave": "4.º-B",
+      "epigrafe": "",
+      "texto": "1 - A Biblioteca é constituída por todas as publicações oferecidas à Academia ou por esta adquiridas.\n\n2 - O Arquivo contém os livros de actas, de posse e presença às sessões, relatórios, propostas, pareceres, colecções de fotografias e documentos ou outras espécies que não tenham cabimento na Biblioteca, e ainda documentos da Secretaria que devem ser conservados pelo seu valor histórico ou por imposição da lei.\n\n3 - A Biblioteca e o Arquivo funcionam sob orientação de um funcionário com competência técnica adequada."
+    }
+  ],
+  "nao_aplicavel": "Nova redação do artigo 8.º (Decreto-Lei n.º 418/78) em falta nas instruções.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

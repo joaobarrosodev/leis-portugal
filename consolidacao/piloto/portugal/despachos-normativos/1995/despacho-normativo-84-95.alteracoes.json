@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma aprova o Regime de Apoio Específico Aplicável aos Projectos Desenvolvidos no Sector das Tecnologias de Informação Electrónica e Comunicações, adiante designado por PRATIC.\n\n2 - As especificidades do Regime a que se refere o número anterior, relativamente aos sistemas de incentivos e respectivos regimes de apoio criados no âmbito do PEDIP II, são as constantes dos anexos I a IX do presente despacho, do qual fazem parte integrante, sendo estabelecidas em função dos vários sectores abrangidos, bem como dos objectivos da política industrial.\n\n3 - Os sistemas de incentivos e os regimes de apoio a que se refere o número anterior, aprovados pela Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, são os seguintes:\n\na) Sistema de Incentivos a Estratégias de Empresas Industriais:\n\nRegime de Apoio à Investigação e Desenvolvimento;\n\nProjectos de Inovação e Internacionalização das Estruturas Empresariais, do Regime de Apoio à Realização de Estratégias Empresariais Integradas;\n\nPequenos Projectos de Modernização Empresarial, do Regime de Apoio a PME de Menor Dimensão;\n\nRegime de Apoio à Promoção da Qualidade Industrial;\n\nb) Regime de Apoio a Entidades de Assistência Técnica, do Sistema de Incentivos a Serviços de Apoio à Indústria;\n\nc) Projectos Mobilizadores para o Desenvolvimento Tecnológico.\n\n4 - São ainda apoiadas a criação e a consolidação de pequenas empresas de base tecnológica.",
+    "depois": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma aprova o Regime de Apoio Específico Aplicável aos Projectos Desenvolvidos no Sector das Tecnologias de Informação Electrónica e Comunicações, adiante designado por PRATIC.\n\n2 - As especificidades do Regime a que se refere o número anterior, relativamente aos sistemas de incentivos e respectivos regimes de apoio criados no âmbito do PEDIP II, são as constantes dos anexos I a IX do presente despacho, do qual fazem parte integrante, sendo estabelecidas em função dos vários sectores abrangidos, bem como dos objectivos da política industrial.\n\n3 - Os sistemas de incentivos e os regimes de apoio a que se refere o número anterior, aprovados pela Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho, são os seguintes:\n\na) Sistema de Incentivos a Estratégias de Empresas Industriais:\n\nRegime de Apoio à Investigação e Desenvolvimento;\n\nProjectos de Inovação e Internacionalização das Estruturas Empresariais, do Regime de Apoio à Realização de Estratégias Empresariais Integradas;\n\nPequenos Projectos de Modernização Empresarial, do Regime de Apoio a PME de Menor Dimensão;\n\nRegime de Apoio à Promoção da Qualidade Industrial;\n\nb) Regime de Apoio a Entidades de Assistência Técnica, do Sistema de Incentivos a Serviços de Apoio à Indústria;\n\nc) Projectos Mobilizadores para o Desenvolvimento Tecnológico.\n\n4 - São ainda apoiadas a criação e a consolidação de pequenas empresas de base tecnológica.\n\n5 - São susceptíveis de apoio no âmbito do PRATIC os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo Decreto Legislativo Regional n.º 2/96/M, de 13 de Fevereiro.\n\n> Alterado pelo/a [Despacho Normativo n.º 26/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1999-321949) e [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643123:por",
+    "alterador": "pt:dre:321949:por;pt:dre:667565:por"
+  },
+  {
+    "artigo": "ANEXO IV::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — [...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do n.º 2 do anexo B;\n\ne) ...\n\nf) ...\n\n2 - ...\n\n3 - ...\n\n4 - ...",
+    "depois": "###### Artigo 6.º — [...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do n.º 2 do anexo B;\n\ne) ...\n\nf) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) (Não aplicável.)\n\n> Alterado pelo/a [Despacho Normativo n.º 26/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1999-321949) e [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643123:por",
+    "alterador": "pt:dre:321949:por;pt:dre:667565:por"
+  },
+  {
+    "artigo": "ANEXO III::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — [...]\n\n1 - ...\n\na) ...\n\nb) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do anexo G;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n2 - ...\n\n3 - ...",
+    "depois": "###### Artigo 6.º — [...]\n\n1 - ...\n\na) ...\n\nb) Enquadrar-se nos objectivos do PEDIP II em geral, do presente Regime de Apoio, em particular, e no âmbito do PRATIC, de acordo com os critérios constantes do anexo G;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n2 - ...\n\n3 - ...\n\n> Alterado pelo/a [Despacho Normativo n.º 26/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1999-321949) e [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643123:por",
+    "alterador": "pt:dre:321949:por;pt:dre:667565:por"
+  }
+]

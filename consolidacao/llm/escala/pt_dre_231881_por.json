@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:231881:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Entidades beneficiárias",
+      "texto": "Os beneficiários deste Regime de Apoio são:\n\n1) No que se refere a redes de cooperação em criação:\n\na) Na fase I, a que se refere a alínea a) do artigo 12.º, a empresa industrial participante da rede, designada representante da mesma de entre todas as participantes e por estas aceite naquela qualidade;\n\nb) Na fase II, a rede de cooperação juridicamente constituída;\n\n2) No que se refere a redes de cooperação já existentes:\n\na) Redes de cooperação criadas no âmbito do [Despacho Normativo n.º 210/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/210-1991-291973), de 25 de Setembro;\n\nb) Redes de cooperação criadas no âmbito do presente Regime;\n\n3) Empresas participantes de redes de cooperação apoiadas no presente Regime."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: b) Na fase II, a rede de cooperação juridicamente constituída;"
+  ]
+}

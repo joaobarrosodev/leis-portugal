@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:262123:por",
+  "artigos": [
+    {
+      "chave": "71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Nova redação do art. 31.º (DRR 6/91/M) e artigos aditados sem texto no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

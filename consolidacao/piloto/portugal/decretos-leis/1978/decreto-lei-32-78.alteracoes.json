@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "4.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 4.º-A\n\n1 - A Secretaria é o serviço de apoio administrativo da Academia, competindo-lhe assegurar as funções relativas às áreas de administração de pessoal, expediente, arquivo, contabilidade, economato e património, secretariado e dactilografia.\n\n2 - À Secretaria compete ainda colaborar na composição e impressão do Boletim da Academia Nacional de Belas-Artes e das demais publicações académicas, bem como, de uma forma geral, apoiar a acção desenvolvida pela Academia no âmbito das suas atribuições.\n\n3 - A Secretaria é chefiada por um chefe de secção.\n\n> Aditado pelo/a [Decreto-Lei n.º 418/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1978-325152) e [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448521:por",
+    "alterador": "pt:dre:325152:por;pt:dre:217933:por"
+  },
+  {
+    "artigo": "4.º-B",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 4.º-B\n\n1 - A Biblioteca é constituída por todas as publicações oferecidas à Academia ou por esta adquiridas.\n\n2 - O Arquivo contém os livros de actas, de posse e presença às sessões, relatórios, propostas, pareceres, colecções de fotografias e documentos ou outras espécies que não tenham cabimento na Biblioteca, e ainda documentos da Secretaria que devem ser conservados pelo seu valor histórico ou por imposição da lei.\n\n3 - A Biblioteca e o Arquivo funcionam sob orientação de um funcionário com competência técnica adequada.\n\n> Aditado pelo/a [Decreto-Lei n.º 418/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1978-325152) e [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:448521:por",
+    "alterador": "pt:dre:325152:por;pt:dre:217933:por"
+  }
+]

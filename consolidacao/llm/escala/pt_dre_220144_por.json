@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:220144:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Na Região Autónoma da Madeira, compete à Inspecção Regional das Actividades Económicas e à Comissão Regional de Aplicação de Coimas em Matéria Económica o processamento e aplicação, respectivamente, das coimas e sanções acessórias previstas no Decreto-Lei n.º 28/84, de 20 de Janeiro.»\n\n§ único. Todas as restantes competências e atribuições previstas no referido diploma à Direcção-Geral de Inspecção Económica cabem nesta Região à Direcção Regional do Comércio e Indústria."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

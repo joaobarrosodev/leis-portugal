@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Suspensão do exercício de funções\n\n1 - Os administradores da insolvência podem suspender o exercício da sua actividade pelo período máximo de dois anos, mediante requerimento dirigido ao presidente da comissão referida no artigo 12.º, adiante designada comissão, com a antecedência mínima de 45 dias úteis relativamente à data do seu início.\n\n2 - A suspensão do exercício de funções apenas pode ser requerida duas vezes, podendo a segunda ter lugar depois de decorridos pelo menos três anos após o termo da primeira.\n\n3 - Sendo deferido o pedido de suspensão, o administrador da insolvência deve comunicá-lo aos juízes dos processos em que se encontra a exercer funções, para que se possa proceder à sua substituição.\n\n4 - No prazo de 10 dias a contar do deferimento do pedido de suspensão, a comissão deve informar a Direcção-Geral da Administração da Justiça desse facto, para que esta proceda à actualização das listas oficiais.",
+    "depois": "###### Artigo 4.º — Suspensão do exercício de funções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385) e [Lei n.º 34/2009](https://diariodarepublica.pt/dr/detalhe/lei/34-2009-492407) e [Lei n.º 22/2013](https://diariodarepublica.pt/dr/detalhe/lei/22-2013-259235), publicado em 2013-02-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:507439:por",
+    "alterador": "pt:dre:637385:por;pt:dre:492407:por;pt:dre:259235:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Exercício de funções\n\n1 - Os administradores da insolvência exercem as suas funções por tempo indeterminado e sem limite máximo de processos.\n\n2 - Os administradores da insolvência são equiparados aos solicitadores de execução nas relações com os órgãos do Estado, nomeadamente no que concerne ao acesso e movimentação nas instalações dos tribunais, conservatórias e serviços de finanças.\n\n3 - Para os efeitos do número anterior, os administradores da insolvência devem identificar-se mediante a apresentação de um documento de identificação pessoal emitido pelo Ministério da Justiça, de modelo a aprovar por portaria do Ministro da Justiça.",
+    "depois": "###### Artigo 3.º — Exercício de funções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385) e [Lei n.º 34/2009](https://diariodarepublica.pt/dr/detalhe/lei/34-2009-492407) e [Lei n.º 22/2013](https://diariodarepublica.pt/dr/detalhe/lei/22-2013-259235), publicado em 2013-02-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:507439:por",
+    "alterador": "pt:dre:637385:por;pt:dre:492407:por;pt:dre:259235:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Nomeação e remuneração dos membros da comissão\n\n1 - É criada uma comissão, na dependência do Ministro da Justiça, responsável pela admissão à actividade de administrador da insolvência e pelo controlo do seu exercício.\n\n2 - A comissão é composta por um magistrado judicial nomeado pelo Conselho Superior da Magistratura, que preside, por um magistrado do Ministério Público nomeado pelo Conselho Superior do Ministério Público, por um administrador da insolvência designado pela associação mais representativa da actividade profissional e por duas individualidades de reconhecida experiência profissional nas áreas da economia, da gestão de empresas ou do direito comercial, nomeadas por despacho conjunto dos Ministros da Justiça e da Economia.\n\n3 - Os membros da comissão têm direito ao abono de senhas de presença por cada sessão em que participem, de montante a fixar por despacho conjunto dos Ministros das Finanças, da Justiça e da Economia.\n\n4 - Os encargos decorrentes do funcionamento da comissão são assegurados pelo Cofre Geral dos Tribunais.",
+    "depois": "###### Artigo 12.º — Nomeação e remuneração dos membros da comissão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 282/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385) e [Lei n.º 34/2009](https://diariodarepublica.pt/dr/detalhe/lei/34-2009-492407) e [Lei n.º 22/2013](https://diariodarepublica.pt/dr/detalhe/lei/22-2013-259235), publicado em 2013-02-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:507439:por",
+    "alterador": "pt:dre:637385:por;pt:dre:492407:por;pt:dre:259235:por"
+  }
+]

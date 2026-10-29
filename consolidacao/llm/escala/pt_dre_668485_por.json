@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:668485:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "1 - Constitui contra-ordenação muito grave a violação dos n.os 1 e 2 do artigo 4.º, do n.º 1 do artigo 5.º, do artigo 8.º e das alíneas a), c) e d) do artigo 9.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 3 do artigo 4.º, dos artigos 6.º e 7.º, da alínea b) do artigo 9.º e dos artigos 11.º e 12.º\n\n3 - Constitui contra-ordenação leve a violação do n.º 4 do artigo 4.º e do n.º 2 do artigo 5.º"
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Prestação de cuidados médicos",
+      "texto": "1 - O navio com pelo menos 100 pessoas a bordo e que efetue normalmente viagens de mais de três dias deve ter um médico a bordo encarregado da assistência médica.\n\n2 - Os restantes navios devem possuir pelo menos um marítimo devidamente qualificado responsável pela prestação de cuidados médicos e administração dos medicamentos, ou pela prestação de primeiros socorros.\n\n3 - A qualificação do marítimo a que se refere o número anterior deve ser obtida mediante formação que seja conforme às disposições da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978 (STCW), bem como atender à duração e às circunstâncias das viagens e ao número de pessoas a bordo.\n\n4 - A qualificação dos navegadores de recreio autorizados, nos termos do artigo 8.º do Regulamento das Embarcações Utilizadas na Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 149/2014, de 10 de outubro, a integrarem lotações de segurança, em cuidados médicos e administração dos medicamentos e em prestação de primeiros socorros, é regulada por portaria aprovada pelos membros do Governo responsáveis pelas áreas do mar, da saúde e do turismo."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

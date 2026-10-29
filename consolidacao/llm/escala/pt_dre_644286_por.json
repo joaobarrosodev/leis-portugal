@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:644286:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "Compete especialmente ao presidente da direcção:\n\na) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;\n\nb) Representar a Obra Social, quando necessário;\n\nc) (Revogada.)\n\nd) Superintender na disciplina do pessoal;\n\ne) Convocar o conselho consultivo a reunir extraordinàriamente sempre que tal se torne necessário;\n\nf) Apresentar a despacho ministerial todos os assuntos que careçam de resolução superior."
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Aplicada só a revogação da alínea c) do art. 8.º e do art. 20.º; as restantes instruções (arts. 3.º, 4.º, 5.º, 6.º, 9.º, 11.º, 15.º, 16.º, 17.º, 19.º, 22.º, 25.º, 30.º, 36.º, 38.º, 39.º) não trazem o texto da nova redacção.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

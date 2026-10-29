@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\n1. Nas transacções de aparelhos e máquinas referidos nas verbas n.os 2 e 13 da lista III e n.os 2, 4, 5, 17 e 20 da lista IV, anexas ao Código do Imposto de Transacções, o imposto é devido à saída do local de produção, sendo a ele sujeito unicamente o produtor.\n\n2. O imposto correspondente às mercadorias referidas no número anterior, quando importadas, será, porém, sempre cobrado nos serviços aduaneiros que procederem a o respectivo desembaraço alfandegário.",
+    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431042:por",
+    "alterador": "pt:dre:397337:por"
+  }
+]

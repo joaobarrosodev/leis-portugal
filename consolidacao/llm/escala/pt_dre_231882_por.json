@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:231882:por",
+  "artigos": [],
+  "nao_aplicavel": "A nova redação do art. 3.º (DN 40/98) mantém um n.º 3 ('3 - ...') que não existe no original (aditado pelo DN 16/95, cujo texto não vem no pedido).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
