@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221544:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "437843691146f0c6"
+   ]
+  },
+  {
+   "date": "2006-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540626:por",
+     "title": "Decreto Legislativo Regional n.º 38/2006/M",
+     "published": "2006-08-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/38-2006-540626"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "b413e6a2ae60f6be",
+    "f88f0f4be59217e1",
+    "667c3abfef4c75bb",
+    "80b707bfab2dfa82",
+    "5e52195942554631",
+    "c3991518621afbef",
+    "843dd7f13bacc853",
+    "239102bafaca01c9",
+    "70eb7a0315cc9847",
+    "160f73c32df859b0",
+    "7b0ace31f6e1d9ce"
+   ]
+  }
+ ],
+ "fragments": {
+  "437843691146f0c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Criação da Reserva Natural Parcial do Garajau\n\nO artigo 66.º da Constituição da República Portuguesa prevê, no seu n.º 2, alínea c), a criação e desenvolvimento de reservas e parques naturais e de recreio, de modo a garantir a conservação da Natureza.\n\nTorna-se necessária a existência de áreas no litoral da Madeira que funcionem como viveiros, contribuindo para um repovoamento faunístico das áreas adjacentes.\n\nA área da Ponta do Garajau, quer devido à sua localização geográfica, quer devido à sua potencial riqueza biológica e extraordinária clareza das suas águas, oferece condições únicas para a criação de um espaço protegido com grande interesse do ponto de vista científico e recreativo.\n\nDo ponto de vista turístico, como se comprova já pelo grande número de visitantes, nomeadamente mergulhadores amadores, que afluem a esta área durante todo o ano, a área da Ponta do Garajau constitui um potencial económico que, a médio prazo, poderá tornar-se de grande interesse para a Região.\n\nUrge, pois, tomar medidas conducentes à protecção desta área, que constitui um enorme valor natural em constante risco de degradação ou perda.\n\nAssim, a Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, para valer como lei, o seguinte:\n\nArtigo 1.º É criada a Reserva Natural Parcial do Garajau, sob a dependência do Parque Natural da Madeira.\n\nArt. 2.º - 1 - A área da Reserva Natural Parcial do Garajau tem como limites:\n\na) A oeste, o plano perpendicular à linha de costa na Ponta do Lazareto até à intersecção do plano definido pela linha batimétrica dos 50 m;\n\nb) A leste, o plano perpendicular à linha de costa na Ponta da Oliveira até à intersecção do plano definido pela linha batimétrica dos 50 m;\n\nc) A norte, a linha definida pela máxima preia-mar de marés vivas;\n\nd) A sul, o plano definido pela vertical da linha batimétrica dos 50 m e, em caso de dúvida, uma linha a uma distância nunca inferior a 600 m do limite norte.\n\n2 - Os limites da área descrita no número anterior encontram-se demarcados no mapa anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Os limites marítimos da área da reserva serão devidamente assinalados.\n\nArt. 3.º - 1 - Na área da Reserva Natural Parcial do Garajau é proibido:\n\na) Exercer quaisquer actividades de pesca, comercial ou desportiva, incluindo a caça submarina;\n\nb) Colher exemplares animais e vegetais, excepto para fins científicos, quando devidamente justificados e autorizados;\n\nc) Extrair areias e outros materiais de origem geológica;\n\nd) Vazar quaisquer tipos de detritos sólidos ou líquidos, quer sejam provenientes de terra ou de embarcações;\n\ne) Instalar condutas de efluentes provenientes de instalações industriais e domésticas;\n\nf) Navegar dentro dos limites da reserva, com excepção da abicagem de pequenas embarcações às praias, aplicando-se, neste caso, a legislação em vigor.\n\n2 - Sem prejuízo do disposto nas alíneas d) e e) do n.º 1, o exercício de actividade de carácter industrial nas áreas adjacentes à reserva carece de parecer favorável do Parque Natural da Madeira.\n\n3 - As proibições estabelecidas no n.º 1 não incluem:\n\na) A prática de natação e o mergulho amador com fins recreativos, turísticos e científicos;\n\nb) A prática de desportos náuticos, com excepção daqueles que utilizem embarcações a motor.\n\nArt. 4.º - 1 - A infracção ao disposto no n.º 1 do artigo 3.º constitui contra-ordenação punível com as seguintes coimas:\n\na) De 10000$00 a 100000$00 no que se refere às alíneas a), b) e f);\n\nb) De 50000$00 a 500000$00 no que se refere às alíneas c), d) e e).\n\n2 - Acessoriamente poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, dos materiais e espécimes extraídos e colhidos na área da Reserva em infracção do disposto no n.º 1 do artigo 3.º do presente diploma.\n\n3 - O produto proveniente da aplicação das coimas e de eventuais rendas de materiais ou espécimes apreendidos constituirá receita do Parque Natural da Madeira.\n\n4 - No caso de infracção ao disposto no artigo 3.º, n.º 1, alínea e), do presente diploma, para além do pagamento da respectiva coima, o infractor fica obrigado a demolir as obras ou trabalhos efectuados e a repor o estado anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.\n\n5 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado por carta registada com aviso de recepção, o Parque Natural da Madeira mandará proceder a expensas daquele, à demolição ou às obras necessárias para a reposição.\n\nArt. 5.º A fiscalização do cumprimento do disposto no presente diploma incumbe ao Parque Natural da Madeira, à Direcção Regional dos Portos, à autoridade marítima e às demais autoridades policiais e administrativas.\n\nArt. 6.º A aplicação das coimas e sanções acessórias a que se refere o presente diploma compete ao presidente do Parque Natural da Madeira.\n\nArt. 7.º São nulas as licenças municipais ou outras que contrariem o disposto no presente diploma.\n\nArt. 8.º As despesas resultantes da aplicação do presente diploma, e bem assim as que resultem da necessidade de dar cumprimento às finalidades para que a reserva foi criada, serão suportadas por verbas do orçamento do Parque Natural da Madeira.\n\nArt. 9.º Por decreto regulamentar regional, e no prazo de um ano a contar da publicação do presente diploma, o Governo Regional promoverá a regulamentação da Reserva Natural Parcial do Garajau, sob proposta do Parque Natural da Madeira.\n\nArt. 10.º O presente diploma entra em vigor 30 dias após a sua publicação.\n\nAprovado em sessão plenária em 31 de Julho de 1986.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 21 de Agosto de 1986.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22900/28882889.pdf)"
+  },
+  "b413e6a2ae60f6be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Criação da Reserva Natural Parcial do Garajau\n\nO artigo 66.º da Constituição da República Portuguesa prevê, no seu n.º 2, alínea c), a criação e desenvolvimento de reservas e parques naturais e de recreio, de modo a garantir a conservação da Natureza.\n\nTorna-se necessária a existência de áreas no litoral da Madeira que funcionem como viveiros, contribuindo para um repovoamento faunístico das áreas adjacentes.\n\nA área da Ponta do Garajau, quer devido à sua localização geográfica, quer devido à sua potencial riqueza biológica e extraordinária clareza das suas águas, oferece condições únicas para a criação de um espaço protegido com grande interesse do ponto de vista científico e recreativo.\n\nDo ponto de vista turístico, como se comprova já pelo grande número de visitantes, nomeadamente mergulhadores amadores, que afluem a esta área durante todo o ano, a área da Ponta do Garajau constitui um potencial económico que, a médio prazo, poderá tornar-se de grande interesse para a Região.\n\nUrge, pois, tomar medidas conducentes à protecção desta área, que constitui um enorme valor natural em constante risco de degradação ou perda.\n\nAssim, a Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, para valer como lei, o seguinte:"
+  },
+  "f88f0f4be59217e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a Reserva Natural Parcial do Garajau, sob a dependência do Parque Natural da Madeira."
+  },
+  "667c3abfef4c75bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A área da Reserva Natural Parcial do Garajau tem como limites:\n\na) A oeste, o plano perpendicular à linha de costa na Ponta do Lazareto até à intersecção do plano definido pela linha batimétrica dos 50 m;\n\nb) A leste, o plano perpendicular à linha de costa na Ponta da Oliveira até à intersecção do plano definido pela linha batimétrica dos 50 m;\n\nc) A norte, a linha definida pela máxima preia-mar de marés vivas;\n\nd) A sul, o plano definido pela vertical da linha batimétrica dos 50 m e, em caso de dúvida, uma linha a uma distância nunca inferior a 600 m do limite norte.\n\n2 - Os limites da área descrita no número anterior encontram-se demarcados no mapa anexo ao presente diploma e que dele faz parte integrante.\n\n3 - Os limites marítimos da área da reserva serão devidamente assinalados."
+  },
+  "80b707bfab2dfa82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Na área da Reserva Natural Parcial do Garajau é proibido:\n\na) Exercer quaisquer actividades de pesca, comercial ou desportiva, incluindo a caça submarina;\n\nb) Colher exemplares animais e vegetais, excepto para fins científicos, quando devidamente justificados e autorizados;\n\nc) Extrair areias e outros materiais de origem geológica;\n\nd) Vazar quaisquer tipos de detritos sólidos ou líquidos, quer sejam provenientes de terra ou de embarcações;\n\ne) Instalar condutas de efluentes provenientes de instalações industriais e domésticas;\n\nf) Navegar dentro dos limites da reserva, com excepção da abicagem de pequenas embarcações às praias, aplicando-se, neste caso, a legislação em vigor.\n\n2 - Sem prejuízo do disposto nas alíneas d) e e) do n.º 1, o exercício de actividade de carácter industrial nas áreas adjacentes à reserva carece de parecer favorável do Parque Natural da Madeira.\n\n3 - As proibições estabelecidas no n.º 1 não incluem:\n\na) A prática de natação e o mergulho amador com fins recreativos, turísticos e científicos;\n\nb) A prática de desportos náuticos, com excepção daqueles que utilizem embarcações a motor."
+  },
+  "5e52195942554631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2006-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 38/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), publicado em 2006-08-23."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A infracção ao disposto no n.º 1 do artigo 3.º constitui contra-ordenação punível com as seguintes coimas:\n\na) De (euro) 50 a (euro) 1500 no que se refere às alíneas a), b) e f);\n\nb) De (euro) 250 a (euro) 3500 no que se refere às alíneas c), d) e e).\n\n2 - Acessoriamente poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, dos materiais e espécimes extraídos e colhidos na área da Reserva em infracção do disposto no n.º 1 do artigo 3.º do presente diploma.\n\n3 - O produto proveniente da aplicação das coimas e de eventuais rendas de materiais ou espécimes apreendidos constituirá receita do Parque Natural da Madeira.\n\n4 - No caso de infracção ao disposto no artigo 3.º, n.º 1, alínea e), do presente diploma, para além do pagamento da respectiva coima, o infractor fica obrigado a demolir as obras ou trabalhos efectuados e a repor o estado anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.\n\n5 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado por carta registada com aviso de recepção, o Parque Natural da Madeira mandará proceder a expensas daquele, à demolição ou às obras necessárias para a reposição.\n\n6 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.\n\n7 - A tentativa e a negligência são puníveis.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 38/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), publicado em 2006-08-23."
+  },
+  "c3991518621afbef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA fiscalização do cumprimento do disposto no presente diploma incumbe ao Parque Natural da Madeira, à Direcção Regional dos Portos, à autoridade marítima e às demais autoridades policiais e administrativas."
+  },
+  "843dd7f13bacc853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA aplicação das coimas e sanções acessórias a que se refere o presente diploma compete ao presidente do Parque Natural da Madeira."
+  },
+  "239102bafaca01c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nSão nulas as licenças municipais ou outras que contrariem o disposto no presente diploma."
+  },
+  "70eb7a0315cc9847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs despesas resultantes da aplicação do presente diploma, e bem assim as que resultem da necessidade de dar cumprimento às finalidades para que a reserva foi criada, serão suportadas por verbas do orçamento do Parque Natural da Madeira."
+  },
+  "160f73c32df859b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPor decreto regulamentar regional, e no prazo de um ano a contar da publicação do presente diploma, o Governo Regional promoverá a regulamentação da Reserva Natural Parcial do Garajau, sob proposta do Parque Natural da Madeira."
+  },
+  "7b0ace31f6e1d9ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma entra em vigor 30 dias após a sua publicação.\n\nAprovado em sessão plenária em 31 de Julho de 1986.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 21 de Agosto de 1986.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22900/28882889.pdf)"
+  }
+ }
+}

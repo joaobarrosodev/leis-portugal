@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-04-10'
+version_history:
+  file: decreto-lei-92-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-10'
+    amending: pt:dre:440549:por
+    amending_title: Decreto-Lei n.º 231/2008; Decreto-Lei n.º 48/2013
+    changes:
+    - Adita Artigo 12.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/92/2008/06/03/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:06:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 231/2008; Decreto-Lei
+    n.º 48/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-92-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,7 +229,9 @@ A assembleia geral da Polis Litoral - Ria Formosa, S. A., deverá reunir, na sua
 
 ###### Artigo 10.º — Direcção e coordenação
 
-A direcção e a coordenação geral da Polis Litoral Ria Formosa - Operação Integrada de Requalificação e Valorização da Ria Formosa, nos termos definidos no respectivo plano estratégico, ficam a cargo da sociedade Parque EXPO 98, S. A.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 231/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549) e [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.
 
 ###### Artigo 11.º — Articulação com o Instituto Portuário e dos Transportes Marítimos, I. P.
 
@@ -230,6 +248,12 @@ O Presidente da República, Aníbal Cavaco Silva.
 Referendado em 15 de Maio de 2008.
 
 O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+###### Artigo 12.º — Acumulação de funções
+
+Consideram-se exercidas por inerência as funções de membros dos órgãos sociais da Polis Litoral - Ria Formosa, S. A., desempenhadas por titulares de cargos de direcção em entidades ou organismos da administração directa ou indirecta do Estado com atribuições nas áreas compreendidas no objecto da empresa, quando para tal sejam designados nos termos dos estatutos e da lei aplicável.
+
+> Aditado pelo/a [Decreto-Lei n.º 231/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549) e [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 8.º)
 

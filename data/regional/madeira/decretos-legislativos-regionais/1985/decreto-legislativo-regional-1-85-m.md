@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-04-18'
+version_history:
+  file: decreto-legislativo-regional-1-85-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-04-18'
+    amending: pt:dre:325570:por
+    amending_title: Decreto Legislativo Regional n.º 9/85/M
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    9/85/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-1-85-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -329,8 +344,6 @@ c) Transportes colectivos de pessoas e mercadorias.
 
 ###### Artigo 11.º — Empréstimos
 
-1 - Os municípios podem contrair empréstimos a curto, médio ou longo prazos.
-
 2 - Os empréstimos a curto prazo podem ser contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante ultrapassar, em qualquer momento, 5% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município.
 
 3 - Os empréstimos a médio e longo prazos podem ser contraídos pela aplicação em investimentos reprodutivos e em investimentos de carácter social ou cultural ou ainda para proceder ao saneamento financeiro dos municípios.
@@ -347,7 +360,9 @@ c) Transportes colectivos de pessoas e mercadorias.
 
 9 - Dos limites previstos no n.º 5 ficam também excluídos os encargos anuais relativos a empréstimos contraídos com o fim exclusivo de ocorrer a despesas extraordinárias necessárias à reparação de prejuízos ocorridos em caso de calamidade pública.
 
-10 - O Governo Regional regulamenta os demais aspectos relacionados com a contracção de empréstimos, nomeadamente no que diz respeito ao recurso ao crédito pelos serviços municipalizados e associações de municípios, à bonificação das taxas de juro, ao prazo e às garantias, com exclusão de qualquer forma de aprovação tutelar.
+10 - (Revogado.)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 9/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1985-325570), publicado em 1985-04-17.
 
 ###### Artigo 12.º — Acesso ao crédito
 

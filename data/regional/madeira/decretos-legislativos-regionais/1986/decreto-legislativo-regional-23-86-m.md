@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-01'
+version_history:
+  file: decreto-legislativo-regional-23-86-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-01'
+    amending: pt:dre:540626:por
+    amending_title: Decreto Legislativo Regional n.º 38/2006/M
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    38/2006/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1986/decreto-legislativo-regional-23-86-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,9 +133,13 @@ Urge, pois, tomar medidas conducentes à protecção desta área, que constitui 
 
 Assim, a Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, para valer como lei, o seguinte:
 
-Artigo 1.º É criada a Reserva Natural Parcial do Garajau, sob a dependência do Parque Natural da Madeira.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A área da Reserva Natural Parcial do Garajau tem como limites:
+É criada a Reserva Natural Parcial do Garajau, sob a dependência do Parque Natural da Madeira.
+
+###### Artigo 2.º
+
+1 - A área da Reserva Natural Parcial do Garajau tem como limites:
 
 a) A oeste, o plano perpendicular à linha de costa na Ponta do Lazareto até à intersecção do plano definido pela linha batimétrica dos 50 m;
 
@@ -134,7 +153,9 @@ d) A sul, o plano definido pela vertical da linha batimétrica dos 50 m e, em ca
 
 3 - Os limites marítimos da área da reserva serão devidamente assinalados.
 
-Art. 3.º - 1 - Na área da Reserva Natural Parcial do Garajau é proibido:
+###### Artigo 3.º
+
+1 - Na área da Reserva Natural Parcial do Garajau é proibido:
 
 a) Exercer quaisquer actividades de pesca, comercial ou desportiva, incluindo a caça submarina;
 
@@ -156,11 +177,13 @@ a) A prática de natação e o mergulho amador com fins recreativos, turísticos
 
 b) A prática de desportos náuticos, com excepção daqueles que utilizem embarcações a motor.
 
-Art. 4.º - 1 - A infracção ao disposto no n.º 1 do artigo 3.º constitui contra-ordenação punível com as seguintes coimas:
+###### Artigo 4.º
 
-a) De 10000$00 a 100000$00 no que se refere às alíneas a), b) e f);
+1 - A infracção ao disposto no n.º 1 do artigo 3.º constitui contra-ordenação punível com as seguintes coimas:
 
-b) De 50000$00 a 500000$00 no que se refere às alíneas c), d) e e).
+a) De (euro) 50 a (euro) 1500 no que se refere às alíneas a), b) e f);
+
+b) De (euro) 250 a (euro) 3500 no que se refere às alíneas c), d) e e).
 
 2 - Acessoriamente poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, dos materiais e espécimes extraídos e colhidos na área da Reserva em infracção do disposto no n.º 1 do artigo 3.º do presente diploma.
 
@@ -170,17 +193,35 @@ b) De 50000$00 a 500000$00 no que se refere às alíneas c), d) e e).
 
 5 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado por carta registada com aviso de recepção, o Parque Natural da Madeira mandará proceder a expensas daquele, à demolição ou às obras necessárias para a reposição.
 
-Art. 5.º A fiscalização do cumprimento do disposto no presente diploma incumbe ao Parque Natural da Madeira, à Direcção Regional dos Portos, à autoridade marítima e às demais autoridades policiais e administrativas.
+6 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.
 
-Art. 6.º A aplicação das coimas e sanções acessórias a que se refere o presente diploma compete ao presidente do Parque Natural da Madeira.
+7 - A tentativa e a negligência são puníveis.
 
-Art. 7.º São nulas as licenças municipais ou outras que contrariem o disposto no presente diploma.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 38/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), publicado em 2006-08-23.
 
-Art. 8.º As despesas resultantes da aplicação do presente diploma, e bem assim as que resultem da necessidade de dar cumprimento às finalidades para que a reserva foi criada, serão suportadas por verbas do orçamento do Parque Natural da Madeira.
+###### Artigo 5.º
 
-Art. 9.º Por decreto regulamentar regional, e no prazo de um ano a contar da publicação do presente diploma, o Governo Regional promoverá a regulamentação da Reserva Natural Parcial do Garajau, sob proposta do Parque Natural da Madeira.
+A fiscalização do cumprimento do disposto no presente diploma incumbe ao Parque Natural da Madeira, à Direcção Regional dos Portos, à autoridade marítima e às demais autoridades policiais e administrativas.
 
-Art. 10.º O presente diploma entra em vigor 30 dias após a sua publicação.
+###### Artigo 6.º
+
+A aplicação das coimas e sanções acessórias a que se refere o presente diploma compete ao presidente do Parque Natural da Madeira.
+
+###### Artigo 7.º
+
+São nulas as licenças municipais ou outras que contrariem o disposto no presente diploma.
+
+###### Artigo 8.º
+
+As despesas resultantes da aplicação do presente diploma, e bem assim as que resultem da necessidade de dar cumprimento às finalidades para que a reserva foi criada, serão suportadas por verbas do orçamento do Parque Natural da Madeira.
+
+###### Artigo 9.º
+
+Por decreto regulamentar regional, e no prazo de um ano a contar da publicação do presente diploma, o Governo Regional promoverá a regulamentação da Reserva Natural Parcial do Garajau, sob proposta do Parque Natural da Madeira.
+
+###### Artigo 10.º
+
+O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária em 31 de Julho de 1986.
 

@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517806:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1dfa6875510f27c4",
+    "1d398c1df328f952",
+    "7a59bebbd82030dd",
+    "817c1db734c29257",
+    "977461a901dd30a8",
+    "cba93005bb1d2d5a",
+    "0375b382afbdeec1",
+    "37dda5fa594a46df",
+    "23cd5be9650b51bb",
+    "8a4426a21bc3d2d2",
+    "3b496ad10cdc0d80",
+    "828bfc84fff92625",
+    "ee368cb3d83bff6e",
+    "fce3e9464c690871",
+    "a5fa95cc31d4a974",
+    "35915bc33396abd7",
+    "4d08e5f0c110b33f",
+    "771ad837ddcdb35c",
+    "0fb3908bfd405d6c",
+    "72e74750c839712d",
+    "a3599d2edafae00a",
+    "89ba120e282f8c08",
+    "64b909686c116cda",
+    "e42dd7760cb5d1f6",
+    "4347d94fe33da916",
+    "6725ce3ed27b081e",
+    "5ba17d68dccfb1bf",
+    "b74081b01665de3d",
+    "86e13ef002c5cecc",
+    "73b401ef0de0f06b",
+    "92e44ce9313e8785",
+    "50eb8233e4194218",
+    "673082bca4679a50",
+    "1a1816d70410d677",
+    "071106c01707778e"
+   ]
+  },
+  {
+   "date": "2010-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613415:por",
+     "title": "Decreto-Lei n.º 36/2010",
+     "published": "2010-04-16",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2010-613415"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1dfa6875510f27c4",
+    "1d398c1df328f952",
+    "7a59bebbd82030dd",
+    "817c1db734c29257",
+    "977461a901dd30a8",
+    "cba93005bb1d2d5a",
+    "0375b382afbdeec1",
+    "37dda5fa594a46df",
+    "23cd5be9650b51bb",
+    "8a4426a21bc3d2d2",
+    "3b496ad10cdc0d80",
+    "cc22abcfd4c216b1",
+    "ee368cb3d83bff6e",
+    "fce3e9464c690871",
+    "a5fa95cc31d4a974",
+    "35915bc33396abd7",
+    "4d08e5f0c110b33f",
+    "771ad837ddcdb35c",
+    "0fb3908bfd405d6c",
+    "72e74750c839712d",
+    "a3599d2edafae00a",
+    "89ba120e282f8c08",
+    "64b909686c116cda",
+    "e42dd7760cb5d1f6",
+    "4347d94fe33da916",
+    "6725ce3ed27b081e",
+    "5ba17d68dccfb1bf",
+    "b74081b01665de3d",
+    "86e13ef002c5cecc",
+    "73b401ef0de0f06b",
+    "92e44ce9313e8785",
+    "50eb8233e4194218",
+    "673082bca4679a50",
+    "1a1816d70410d677",
+    "071106c01707778e"
+   ]
+  }
+ ],
+ "fragments": {
+  "1dfa6875510f27c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro\n\nA Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A. (EDIA), foi constituída nos termos do [Decreto-Lei n.º 32/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146), de 11 de Fevereiro. Na mesma data foi publicado o [Decreto-Lei n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1995-198149), que veio identificar as infra-estruturas afectas ao empreendimento de fins múltiplos de Alqueva (EFMA), sob gestão da EDIA, e definir algumas competências relativas ao uso e concessão destas infra-estruturas e outros bens do domínio público afectos à sua actividade.\n\nA [Resolução do Conselho de Ministros n.º 8/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-1996-587010), de 23 de Janeiro, veio reforçar o teor dos referidos decretos-leis de 1995, evidenciando a vontade inequívoca do Governo de avançar com o projecto do empreendimento de fins múltiplos de Alqueva (EFMA).\n\nEm 24 de Dezembro de 2001 foi publicado o [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), o qual, reformulando os Decretos-Leis n.os [32/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146) e [33/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1995-198149), veio redefinir o âmbito de intervenção da EDIA, cometendo-lhe responsabilidades concretas no domínio da concepção, execução, construção, gestão e exploração das infra-estruturas integrantes do sistema primário e idênticas funções, em representação do Estado, no domínio do sistema secundário de rega. O [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640) estabeleceu ainda os princípios que subsidiam a definição de uma política tarifária para o sistema primário do EFMA, no sentido de clarificar não apenas a dimensão social do projecto mas, também, a sua sustentabilidade económica a longo prazo, a qual, conforme este diploma, deverá conjugar os princípios da utilização racional da água e, também, o reconhecimento da natureza de fins múltiplos do EFMA, bem como a dinamização do regadio na respectiva área de influência, complementado esta análise com critérios económicos, objectivos e precisos.\n\nDesde a publicação do [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), muitas das infra-estruturas integradas no EFMA foram sucessivamente concluídas, viabilizando o arranque da sua efectiva exploração. Para além de tornar desactualizadas algumas das disposições dos referidos diplomas de 1995, este facto veio, por sua vez, fazer surgir determinados aspectos, que importa clarificar, no que concerne fundamentalmente à envolvente económica e financeira de todo o projecto, nomeadamente tendo em vista assegurar uma eficiente afectação de recursos que garanta a sustentabilidade económica da EDIA a longo prazo.\n\nImpõe-se, ainda, adequar a regulamentação do EFMA ao novo quadro regulador da gestão dos recursos hídricos, o qual sofreu importantes alterações com a publicação da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, denominada Lei da Água.\n\nFinalmente, importa clarificar e fazer realçar uma outra importante vertente que decorre da exploração dos recursos hídricos inerentes ao EFMA, os quais consubstanciam a utilização de um conjunto importante de infra-estruturas já existentes, e outras em fase de construção ou ainda em projecto, que se reportam ao potencial de exploração energético, fundamentalmente, mas não exclusivamente hidroeléctrico, as quais se afiguram como uma importante fonte potencial de receitas que ajudarão a sustentar a viabilidade económica e financeira do empreendimento no longo prazo, surgindo como um importante complemento à componente de regadio. Esta clarificação é tão mais importante quanto se trata também de adaptar alguns aspectos da legislação vigente em termos do sector energético, à fase de exploração do empreendimento, ajustando-o, em particular, às alterações recentemente ocorridas no sector da energia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1d398c1df328f952": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Infra-estruturas do empreendimento de fins múltiplos de Alqueva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Infra-estruturas do empreendimento de fins múltiplos de Alqueva\n\n1 - O empreendimento de fins múltiplos de Alqueva, adiante designado por empreendimento, representa uma obra de aproveitamento dos recursos hídricos associados ao rio Guadiana, que visa o desenvolvimento regional sustentado e inclui, em especial, as seguintes componentes infra-estruturais:\n\na) Barragem e central hidroeléctrica de Alqueva;\n\nb) Barragem e central hidroeléctrica de Pedrógão;\n\nc) Sistema de adução Alqueva-Álamos;\n\nd) Rede primária, a qual integra as infra-estruturas de captação, adução e distribuição de água cuja articulação com as componentes identificadas nas alíneas anteriores estabelece um sistema fisicamente integrado;\n\ne) Rede secundária, a qual integra as infra-estruturas de captação, adução e distribuição que se encontram posicionadas a jusante da rede primária e visam garantir o fornecimento de água à entrada das explorações agrícolas localizadas nos perímetros de rega do empreendimento ou beneficiadas por este;\n\nf) Outras infra-estruturas acessórias ou complementares das referidas nas alíneas anteriores e que visem a produção de energia.\n\n2 - Para efeitos do disposto no presente decreto-lei e demais legislação aplicável ao empreendimento, entende-se por sistema primário o conjunto das infra-estruturas identificadas nas alíneas a) a d) e f) do número anterior."
+  },
+  "7a59bebbd82030dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Responsabilidade pela gestão, exploração, manutenção e conservação das infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Responsabilidade pela gestão, exploração, manutenção e conservação das infra-estruturas\n\n1 - A gestão, exploração, manutenção e conservação das infra-estruturas integrantes do sistema primário do empreendimento é concedida à EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., sociedade anónima de capitais exclusivamente públicos, adiante abreviadamente designada por EDIA.\n\n2 - A EDIA rege-se pela lei comercial, pelo presente decreto-lei, pelos seus estatutos, pelo regime do sector empresarial do Estado, pelo estatuto do gestor público e demais legislação aplicável.\n\n3 - A gestão, exploração, manutenção e conservação das infra-estruturas integrantes da rede secundária de rega do empreendimento processam-se nos termos do disposto no regime jurídico das obras de aproveitamento hidroagrícola.\n\n4 - Sem prejuízo das atribuições do Instituto da Água (INAG), a EDIA tem a seu cargo a utilização do domínio público hídrico do empreendimento para fins de rega e exploração hidroeléctrica, mediante contrato de concessão a celebrar nos termos da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro.\n\n5 - A EDIA deve ser sempre ouvida sobre os instrumentos de gestão territorial que se pretendam adoptar na área de intervenção definida no artigo 10.º\n\n6 - A utilização das infra-estruturas referidas no n.º 1 para o fornecimento de água para outros usos que não o uso agrícola é definida caso a caso pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e pelos ministros competentes em razão da matéria."
+  },
+  "817c1db734c29257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objecto social da EDIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto social da EDIA\n\n1 - A EDIA tem por objecto social:\n\na) A utilização do domínio público hídrico afecto ao empreendimento, para fins de rega e exploração hidroeléctrica, mediante contrato de concessão a celebrar nos termos da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro;\n\nb) A concepção, execução e construção das infra-estruturas que integram o sistema primário do empreendimento, bem como a sua gestão, exploração, manutenção e conservação;\n\nc) A concepção, execução e construção das infra-estruturas que integram a rede secundária afecta ao empreendimento, em representação do Estado e de acordo com as instruções que lhe sejam dirigidas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nd) A promoção, desenvolvimento e prossecução de outras actividades económicas cujo aproveitamento contribua para a melhoria das condições de utilização dos recursos afectos ao empreendimento.\n\n2 - Através do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, o Estado assegura o financiamento e demais condições relativas à actuação da EDIA, no que respeita à prossecução do objecto definido na alínea c) do número anterior, sendo as respectivas obras propriedade do Estado.\n\n3 - A construção das redes primária e secundária de rega integradas no empreendimento está dependente de prévia aprovação dos projectos por parte do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o qual deve acompanhar todo o respectivo processo, nos termos do regime jurídico das obras de aproveitamento hidroagrícola.\n\n4 - A exploração da componente hidroeléctrica das infra-estruturas integrantes do sistema primário do empreendimento é atribuída à EDIA no respeito pelos princípios subjacentes à [Resolução do Conselho de Ministros n.º 169/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2005-595312), de 24 de Outubro, e aos Decretos-Leis n.os [29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861) e [172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 15 de Fevereiro e de 23 de Agosto, respectivamente."
+  },
+  "977461a901dd30a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital social da EDIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social da EDIA\n\n1 - As acções representativas do capital social da EDIA realizado pelo Estado são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida, em conformidade com as orientações de gestão, por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, a uma pessoa colectiva de direito público ou a sociedades anónimas de capitais exclusivamente públicos.\n\n2 - Os direitos do Estado como accionista são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, salvo quando a gestão das acções seja cometida a outra entidade nos termos do número anterior."
+  },
+  "cba93005bb1d2d5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estatutos da EDIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatutos da EDIA\n\n1 - São aprovados os Estatutos da EDIA, publicados no anexo I ao presente decreto-lei, que dele faz parte integrante.\n\n2 - O presente decreto-lei constitui título bastante, para todos os efeitos legais, incluindo os de registo comercial."
+  },
+  "0375b382afbdeec1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Deveres especiais de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres especiais de informação\n\n1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos sócios, o conselho de administração fica obrigado ao cumprimento dos deveres especiais de informação previstos no artigo 13.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro.\n\n2 - O fiscal único deve enviar trimestralmente aos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas um relatório em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões e às orientações de gestão."
+  },
+  "37dda5fa594a46df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Poderes de autoridade\n\nPara a prossecução dos seus fins, são conferidos à EDIA, para além de outros que venham a ser expressamente atribuídos por lei:\n\na) Os poderes para, nos termos da lei, nomeadamente do Código das Expropriações, agir como entidade expropriante dos bens imóveis e direitos a eles inerentes a expropriar que sejam necessários à prossecução do seu escopo social;\n\nb) O direito de utilizar e administrar os bens do domínio público do Estado que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Os poderes e prerrogativas do Estado quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe sejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos temos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, armazenamento temporário de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito a indemnização a que houver lugar, e reposição do terreno na situação anterior."
+  },
+  "23cd5be9650b51bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Contracção de financiamentos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contracção de financiamentos e garantias\n\n1 - A contracção de financiamentos de médio e longo prazos pela EDIA carece de autorização do Ministro das Finanças.\n\n2 - As obrigações contraídas pela EDIA, nomeadamente as que resultem da emissão ou contracção de empréstimos, sindicatos ou não, ou de outros financiamentos internos ou externos constantes dos planos anual e plurianual de actividades podem gozar da garantia do Estado, a prestar nos termos legais."
+  },
+  "8a4426a21bc3d2d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Interesse nacional do empreendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Interesse nacional do empreendimento\n\n1 - Para todos os efeitos legais, o empreendimento é considerado de interesse nacional, sendo equiparado a projecto de potencial interesse nacional (PIN), para efeitos do disposto na [Resolução do Conselho de Ministros n.º 95/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-2005-222033), de 24 de Maio.\n\n2 - Sem prejuízo do disposto no número anterior, a utilização do domínio público hídrico fica sujeita ao regime da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e diplomas complementares."
+  },
+  "3b496ad10cdc0d80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Área de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Área de intervenção\n\nA área de intervenção do empreendimento corresponde à que se encontra delimitada na planta anexa ao presente decreto-lei, que dele faz parte integrante (anexo II)."
+  },
+  "828bfc84fff92625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Tarifário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tarifário\n\n1 - Compete ao Conselho de Ministros, sob proposta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, aprovar o tarifário, definido em termos de preço por metro cúbico, relativo ao fornecimento de água a partir do sistema primário do empreendimento, o qual constitui receita de exploração da EDIA.\n\n2 - A proposta de tarifário referida no número anterior é formulada tendo em consideração os princípios estabelecidos na [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e integra o valor da taxa de recursos hídricos devida nos termos do regime económico e financeiro da água.\n\n3 - O tarifário aprovado nos termos do n.º 1 pode fixar preços diferenciados em função das diferentes condições de fornecimento de água e contempla a definição dos procedimentos necessários à respectiva actualização automática, bem como a periodicidade de facturação, liquidação e cobrança dos valores resultantes da aplicação da tarifa.\n\n4 - Sem prejuízo do disposto no n.º 2, o tarifário aprovado nos termos do número anterior, no que respeita ao fornecimento de água para uso agrícola, pode ainda estabelecer uma tarifa provisória inicial, a qual vigora no 1.º ano subsequente à conclusão da construção de cada um dos perímetros de rega definidos no âmbito do empreendimento e é automática, progressiva e linearmente aumentada até ao termo do 6.º ano subsequente até perfazer o valor da tarifa definitiva.\n\n5 - O tarifário é integralmente repercutido pelas entidades gestoras das infra-estruturas que constituem a rede secundária de rega do empreendimento sobre o custo suportado pelo respectivo consumidor final.\n\n6 - Precedendo o início da distribuição de água para rega no âmbito do empreendimento, a EDIA e a entidade que tenha a seu cargo a gestão, exploração, manutenção e conservação das infra-estruturas integradas na rede secundária adstrita a cada perímetro celebram um contrato de fornecimento de água, cujas bases gerais são estabelecidas por portaria dos Ministros das Finanças, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.\n\n7 - Compete à EDIA submeter o contrato de fornecimento de água referido no número anterior a homologação dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "ee368cb3d83bff6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\n1 - É revogado o [Decreto-Lei n.º 32/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146), de 11 de Fevereiro, com as alterações introduzidas pelos Decretos-Leis n.os [232/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1998-425293), de 22 de Julho, e [335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), de 24 de Dezembro.\n\n2 - É revogado o [Decreto-Lei n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1995-198149), de 11 de Fevereiro, com as alterações introduzidas pelos Decretos-Leis n.os [38-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-a-1997-621368), de 5 de Fevereiro, [232/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1998-425293), de 22 de Julho, e [335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), de 24 de Dezembro.\n\n3 - É revogado o [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), de 24 de Dezembro.\n\nVisto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.\n\nPromulgado em 8 de Fevereiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 9 de Fevereiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "fce3e9464c690871": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — ESTATUTOS DA EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ESTATUTOS DA EDIA - EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS DO ALQUEVA, S. A."
+  },
+  "a5fa95cc31d4a974": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Forma e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Forma e denominação\n\nA sociedade adopta a forma de sociedade anónima e a denominação de EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A."
+  },
+  "35915bc33396abd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede social é em Beja.\n\n2 - O conselho de administração pode, mediante deliberação, deslocar a sede social para outro local dentro dos concelhos abrangidos na área de intervenção do empreendimento de Alqueva.\n\n3 - O conselho de administração pode também estabelecer delegações, filiais, sucursais ou outras formas de representação social, em território nacional ou estrangeiro."
+  },
+  "4d08e5f0c110b33f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA duração da sociedade é por tempo indeterminado."
+  },
+  "771ad837ddcdb35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A EDIA tem por objecto social:\n\na) A utilização do domínio público hídrico afecto ao empreendimento para fins de rega e exploração hidroeléctrica, mediante contrato de concessão a celebrar nos termos da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro;\n\nb) A concepção, execução e construção das infra-estruturas que integram o sistema primário do empreendimento, bem como a sua gestão, exploração, manutenção e conservação;\n\nc) A concepção, execução e construção das infra-estruturas que integram a rede secundária afecta ao empreendimento, em representação do Estado e de acordo com as instruções que lhe sejam dirigidas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nd) A promoção, desenvolvimento e prossecução de outras actividades económicas cujo aproveitamento contribua para a melhoria das condições de utilização dos recursos afectos ao empreendimento.\n\n2 - A construção das redes primária e secundária de rega integradas no empreendimento está dependente de prévia aprovação dos projectos por parte do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o qual deve acompanhar todo o respectivo processo, nos termos do regime jurídico das obras de aproveitamento hidroagrícola.\n\n3 - A exploração da componente hidroeléctrica das infra-estruturas integrantes do sistema primário do empreendimento é atribuída à EDIA no respeito pelos princípios subjacentes à [Resolução do Conselho de Ministros n.º 169/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/169-2005-595312), de 24 de Outubro, e aos Decretos-Leis n.os [29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861) e [172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), respectivamente de 15 de Fevereiro e de 23 de Agosto.\n\n4 - A sociedade pode adquirir, a título originário ou derivado, participações no capital de sociedades cujo objecto esteja, directa ou indirectamente, relacionado com o seu, bem como, por qualquer forma, alienar ou onerar as que sejam integradas no seu património, nos termos do regime jurídico do sector empresarial do Estado."
+  },
+  "0fb3908bfd405d6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital\n\n1 - O capital social é de (euro) 291507750, dividido em 58301550 acções com o valor nominal de (euro) 5 cada uma.\n\n2 - O capital pode ser aumentado por subscrição a realizar em dinheiro ou em espécie, por uma ou mais vezes, por deliberação dos accionistas a tomar em assembleias gerais a convocar para o efeito."
+  },
+  "72e74750c839712d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são nominativas.\n\n2 - Há títulos representativos de 1, 5, 50, 1000 e 10000 acções."
+  },
+  "a3599d2edafae00a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de preferência\n\n1 - Os accionistas têm direito de preferência na alienação de acções a título oneroso.\n\n2 - Para efeitos de exercício do direito de preferência, os accionistas são avisados pelo conselho de administração por carta registada, com aviso de recepção, com a antecedência mínima de 30 dias, precedendo comunicação escrita do alienante àquele conselho indicando o objecto da alienação, o preço, as condições de pagamento e as demais circunstâncias relevantes do negócio.\n\n3 - O conselho de administração notifica o alienante e os preferentes para comparecerem em certa data na sede social, munidos dos respectivos títulos, distribuindo-se as acções por acordo entre os preferentes ou, na falta de acordo, por licitação."
+  },
+  "89ba120e282f8c08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações\n\nPor deliberação do conselho de administração e observados os demais condicionamentos legais, a sociedade pode emitir obrigações por subscrição pública ou particular."
+  },
+  "64b909686c116cda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos sociais\n\nSão órgãos da sociedade:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O fiscal único."
+  },
+  "e42dd7760cb5d1f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição da assembleia geral\n\n1 - A assembleia geral é formada pelos accionistas com direito a, pelo menos, um voto.\n\n2 - A cada 100 acções corresponde um voto.\n\n3 - Nos trabalhos da assembleia devem participar os membros do conselho de administração e do fiscal único.\n\n4 - Pode qualquer accionista fazer-se representar na assembleia geral mediante simples carta dirigida ao presidente da mesa, cabendo a esta apreciar a autenticidade da mesma.\n\n5 - Os accionistas que assumam a natureza de pessoa colectiva indicam através de carta dirigida ao presidente da mesa quem os representa na assembleia geral."
+  },
+  "4347d94fe33da916": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência da assembleia geral\n\n1 - Compete à assembleia geral:\n\na) Deliberar sobre o relatório de gestão e as contas do exercício;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Proceder à apreciação geral da administração e fiscalização da sociedade;\n\nd) Eleger o fiscal único;\n\ne) Deliberar sobre alterações dos estatutos;\n\nf) Deliberar sobre qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não disponha de forma diversa."
+  },
+  "6725ce3ed27b081e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e por dois secretários, eleitos por esta, para um mandato de três anos;\n\n2 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham a substituir."
+  },
+  "5ba17d68dccfb1bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reuniões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reuniões da assembleia geral\n\nA assembleia geral reunir-se-á, pelo menos, uma vez por ano e sempre que for convocada, nos termos da lei ou a requerimento do conselho de administração, do fiscal único ou de accionistas que representem, pelo menos, 5% do capital social."
+  },
+  "b74081b01665de3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e dois a quatro vogais.\n\n2 - Nas deliberações do conselho o presidente tem voto de qualidade em caso de empate.\n\n3 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável."
+  },
+  "86e13ef002c5cecc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração assegurar a gestão dos negócios da sociedade, sendo-lhe atribuídos os mais amplos poderes e cabendo-lhe, designadamente:\n\na) Aprovar o plano de actividades, anual e plurianual;\n\nb) Aprovar o orçamento e acompanhar a sua execução;\n\nc) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência de outro órgão da sociedade;\n\nd) Adquirir, alienar ou onerar participações no capital de outras sociedades, bem como obrigações e outros títulos semelhantes;\n\ne) Representar a sociedade, em juízo e fora dele, activa e passivamente, propor e acompanhar acções, confessar, desistir, transigir e aceitar compromissos arbitrais;\n\nf) Adquirir, alienar ou onerar bens imóveis até ao limite de metade do valor do capital social, mas nunca superior a (euro) 2500000;\n\ng) Deliberar sobre a emissão de empréstimos obrigacionistas e contrair empréstimos não obrigacionistas no mercado financeiro, ressalvados os limites legais e a necessidade de autorização do Ministro das Finanças;\n\nh) Estabelecer a organização técnico-administrativa da sociedade;\n\ni) Decidir sobre a admissão de pessoal e sua remuneração;\n\nj) Constituir procuradores e mandatários da sociedade, nos termos que julgue conveniente;\n\nl) Exercer as demais competências que lhe caibam por lei, independentemente e sem prejuízo das que lhe sejam delegadas pela assembleia geral.\n\n2 - As competências previstas nas alíneas d) e f) do número anterior são exercidas nos termos genericamente definidos por deliberação dos accionistas, a tomar em assembleias gerais a convocar para o efeito.\n\n3 - O conselho de administração pode delegar em algum ou alguns dos seus membros ou em comissões especiais algum ou alguns dos seus poderes, definindo em acta os limites e condições de tal delegação.\n\n4 - Incumbe especialmente ao presidente do conselho de administração:\n\na) Representar o conselho em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "73b401ef0de0f06b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões do conselho de administração\n\n1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de dois vogais do conselho de administração.\n\n2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas por maioria de votos dos membros presentes ou representados, dispondo o presidente de voto de qualidade.\n\n3 - Os membros do conselho de administração podem-se fazer representar nas reuniões por outro administrador, mediante carta dirigida ao presidente."
+  },
+  "92e44ce9313e8785": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Representação\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura do presidente do conselho de administração;\n\nb) Pela assinatura de dois vogais executivos do conselho de administração, nos termos da respectiva delegação de poderes;\n\nc) Pela assinatura de um ou mais administradores-delegados, nos termos da respectiva delegação de poderes;\n\nd) Pela assinatura de um membro do conselho de administração e de um mandatário ou procurador da sociedade, nos termos dos respectivos poderes;\n\ne) Pela assinatura de um mandatário ou procurador da sociedade, nos termos dos respectivos poderes.\n\n2 - Em assuntos de mero expediente basta a assinatura de um dos vogais executivos do conselho de administração."
+  },
+  "50eb8233e4194218": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscal único\n\n1 - A fiscalização da actividade social compete a um fiscal único e um suplente.\n\n2 - O fiscal único pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria."
+  },
+  "673082bca4679a50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do fiscal único\n\nAlém das competências constantes da lei, cabe especialmente ao fiscal único:\n\na) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;\n\nb) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "1a1816d70410d677": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dissolução e liquidação\n\nA sociedade dissolve-se nos termos da lei."
+  },
+  "071106c01707778e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Área de intervenção do empreendimento de Alqueva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Área de intervenção do empreendimento de Alqueva\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03800/13141320.pdf)"
+  },
+  "cc22abcfd4c216b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Tarifário",
+   "in_force_from": "2010-04-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 36/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2010-613415), publicado em 2010-04-16."
+   ],
+   "markdown": "###### Artigo 11.º — Tarifário\n\n1 - O tarifário que estabelece o preço da água, definido em termos de preço por metro cúbico, relativo ao fornecimento de água a partir do sistema primário, o qual constitui receita de exploração da EDIA, e na rede secundária do empreendimento, é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do desenvolvimento rural e do ambiente, sob proposta da EDIA.\n\n2 - A proposta de tarifário, referida no número anterior, é formulada tendo em consideração os princípios estabelecidos na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de Dezembro, e integra o valor da taxa de recursos hídricos nos termos do artigo 5.º do Decreto-Lei n.º 97/2008, de 11 de Junho, que estabelece o regime económico e financeiro dos recursos hídricos.\n\n3 - O tarifário aprovado nos termos do n.º 1 pode fixar preços diferenciados em função das diferentes condições de fornecimento de água e contempla a definição dos procedimentos necessários à respectiva actualização automática, bem como a periodicidade de facturação, liquidação e cobrança dos valores resultantes da aplicação da tarifa.\n\n4 - Sem prejuízo do disposto no n.º 2, o tarifário aprovado nos termos do número anterior, no que respeita ao fornecimento de água para uso agrícola, pode ainda estabelecer uma tarifa provisória inicial, a qual vigora no 1.º ano subsequente à conclusão da construção de cada um dos perímetros de rega definidos no âmbito do empreendimento e é automática, progressiva e linearmente aumentada até ao termo do 6.º ano subsequente até perfazer o valor da tarifa definitiva.\n\n5 - O tarifário é integralmente repercutido pelas entidades gestoras das infra-estruturas que constituem a rede secundária de rega do empreendimento sobre o custo suportado pelo respectivo consumidor final.\n\n6 - Precedendo o início da distribuição de água no âmbito do sistema secundário do empreendimento, a EDIA e a entidade que tenha a seu cargo a gestão, exploração, manutenção e conservação das infra-estruturas integradas na rede secundária adstrita a cada perímetro celebram um contrato de fornecimento de água, cujas bases gerais são estabelecidas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do desenvolvimento rural e do ambiente.\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 36/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2010-613415), publicado em 2010-04-16."
+  }
+ }
+}

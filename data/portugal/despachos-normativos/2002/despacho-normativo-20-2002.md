@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-26'
+version_history:
+  file: despacho-normativo-20-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-26'
+    amending: pt:dre:2245196:por
+    amending_title: Despacho Normativo n.º 19/2009; Despacho Normativo n.º 29/2009
+    changes:
+    - Altera Artigo ANEXO::1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/20/2002/04/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:38:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 19/2009; Despacho
+    Normativo n.º 29/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-20-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,7 +200,9 @@ e) Acompanhamento, fiscalização e controlo dos projectos financiados ao abrigo
 
 f) Estudos sobre o PIQTUR, incluindo a avaliação dos respectivos efeitos, designadamente financeiros, económicos e sociais.
 
-3 - O regime de comparticipação de custos a que se refere o número anterior vigora no período de 2002-2004, inclusive.
+3 - O regime de comparticipação de custos a que se refere o número anterior vigora até 2008, inclusive, sem prejuízo da comparticipação dos custos incorridos até 31 de Março de 2010, na realização das acções a que se referem as alíneas a), e) e f) do número anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2009-2245196) e [Despacho Normativo n.º 29/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2009-1503930), publicado em 2009-08-25.
 
 ###### Artigo 2.º — Promotores e projectos
 

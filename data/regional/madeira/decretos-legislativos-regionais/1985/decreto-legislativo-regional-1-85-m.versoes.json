@@ -1,0 +1,346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622299:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a8bfd0e48961b8fd",
+    "fa5a932acc0bbc21",
+    "242080d288bdfaba",
+    "dda41d13ae0d1014",
+    "045b81e0b692e878",
+    "1718848552f0071d",
+    "5f6562fd754e332b",
+    "1bbcff04e6f818ee",
+    "a1ce61423d866ff6",
+    "1bfbd07891ba6f92",
+    "a537e46280c49b97",
+    "7c3345041e1082a9",
+    "b63b458b4ccdce05",
+    "ffed97c122a8fbaa",
+    "323f8eb288f1b102",
+    "39b8c0d86fcfdd3f",
+    "9583a600acaf4b60",
+    "d228fb7cfb2ed745",
+    "b484c34c3505a1f6",
+    "1065b3c862019f12",
+    "77ec496be71b44c5",
+    "adbd3455971eb63d",
+    "ada8ff3b59699558",
+    "fb822f9e753ab986",
+    "399e42a5e5368f88",
+    "c441cd7fb6a0faa4",
+    "357c2d94ce1eecd7",
+    "0ba4d1f681766e14",
+    "2160f054903d8d31",
+    "cc21f107052ccd66"
+   ]
+  },
+  {
+   "date": "1985-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:325570:por",
+     "title": "Decreto Legislativo Regional n.º 9/85/M",
+     "published": "1985-04-17",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-1985-325570"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "a8bfd0e48961b8fd",
+    "fa5a932acc0bbc21",
+    "242080d288bdfaba",
+    "dda41d13ae0d1014",
+    "045b81e0b692e878",
+    "1718848552f0071d",
+    "5f6562fd754e332b",
+    "1bbcff04e6f818ee",
+    "a1ce61423d866ff6",
+    "1bfbd07891ba6f92",
+    "a537e46280c49b97",
+    "85c7051c847afe53",
+    "b63b458b4ccdce05",
+    "ffed97c122a8fbaa",
+    "323f8eb288f1b102",
+    "39b8c0d86fcfdd3f",
+    "9583a600acaf4b60",
+    "d228fb7cfb2ed745",
+    "b484c34c3505a1f6",
+    "1065b3c862019f12",
+    "77ec496be71b44c5",
+    "adbd3455971eb63d",
+    "ada8ff3b59699558",
+    "fb822f9e753ab986",
+    "399e42a5e5368f88",
+    "c441cd7fb6a0faa4",
+    "357c2d94ce1eecd7",
+    "0ba4d1f681766e14",
+    "2160f054903d8d31",
+    "cc21f107052ccd66"
+   ]
+  }
+ ],
+ "fragments": {
+  "a8bfd0e48961b8fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamentação do regime de finanças locais\n\n([Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março)\n\nDispõe o artigo 30.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, que a sua aplicação às regiões autónomas será regulamentada por decreto das respectivas assembleias, com as adaptações justificadas pelas especificidades regionais.\n\nAssim:\n\nA Assembleia Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição e da alínea c) do artigo 22.º do Estatuto Provisório, aprovado pelo [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:"
+  },
+  "fa5a932acc0bbc21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito do diploma\n\nO [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, aplica-se às autarquias da Região Autónoma da Madeira, com as especificidades constantes dos artigos seguintes."
+  },
+  "242080d288bdfaba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Autonomia financeira das autarquias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autonomia financeira das autarquias\n\n1 - As freguesias e municípios têm património e finanças próprios, cuja gestão compete aos respectivos órgãos.\n\n2 - A tutela sobre a gestão patrimonial e financeira das autarquias locais só pode ser exercida segundo as formas e nos casos previstos na lei, salvaguardando sempre a democraticidade e autonomia do poder local.\n\n3 - O regime de autonomia financeira das autarquias locais assenta, designadamente, nos seguintes poderes dos órgãos autárquicos:\n\na) Elaborar, aprovar e alterar planos de actividade e orçamentos;\n\nb) Elaborar e aprovar balanços e contas;\n\nc) Dispor de receitas próprias e ordenar e processar as despesas destinadas às autarquias;\n\nd) Gerir o património autárquico.\n\n4 - São nulas as deliberações de qualquer órgão das autarquias locais que determinem o lançamento de impostos, taxas, derramas ou mais-valias não previstos na lei."
+  },
+  "dda41d13ae0d1014": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orçamentais\n\n1 - Os orçamentos das autarquias locais respeitam os princípios da anualidade, unidade, universalidade, especificação, não consignação e não compensação.\n\n2 - O ano financeiro corresponde ao ano civil, podendo efectuar-se no máximo duas revisões orçamentais.\n\n3 - Deverá ser dada adequada publicidade ao orçamento, depois de aprovado pelo órgão deliberativo.\n\n4 - O princípio de não consignação previsto no n.º 1 não se aplica quando o orçamento regional atribuir aos municípios receitas consignadas ao exercício de novas competências."
+  },
+  "045b81e0b692e878": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Receitas municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Receitas municipais\n\n1 - Constituem receitas dos municípios:\n\na) O produto de cobrança de:\n\n1) Contribuição predial rústica e urbana;\n\n2) Imposto sobre veículos;\n\n3) Imposto para o serviço de incêndios;\n\n4) Taxa municipal de transportes;\n\n5) Imposto de mais-valias;\n\n6) Imposto de turismo;\n\nb) Uma participação no Fundo de Equilíbrio Financeiro;\n\nc) 2% do produto da cobrança da taxa devida pela primeira venda do pescado;\n\nd) O produto da cobrança de taxas ou licenças concedidas pelos municípios;\n\ne) O produto da cobrança de taxas ou tarifas resultantes da prestação de serviços pelos municípios;\n\nf) O rendimento de serviços pertencentes aos municípios, por ele administrados ou dados em concessão;\n\ng) O produto de multas e coimas fixadas por lei, regulamento ou postura que caibam aos municípios;\n\nh) O produto da cobrança de encargos de mais-valias destinadas por lei aos municípios;\n\ni) O produto da cobrança da taxa pela realização de infra-estruturas urbanísticas;\n\nj) O produto de empréstimos, incluindo o lançamento de obrigações municipais;\n\nl) O produto de lançamento de derramas;\n\nm) O rendimento de bens próprios, móveis ou imóveis;\n\nn) O produto de heranças, legados, doações e outras liberalidades a favor dos municípios;\n\no) O produto da alienação de bens;\n\np) Outras receitas estabelecidas por lei a favor dos municípios.\n\n2 - O imposto sobre veículos, criado pelo artigo 1.º do [Decreto-Lei n.º 599/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1972-163785), de 30 de Dezembro, é pago no município da residência do proprietário, devendo este ou um seu representante fazer a respectiva prova do acto de pagamento através da exibição do título de registo de propriedade.\n\n3 - Da receita proveniente do imposto de turismo, 50% reverte para a Secretaria Regional do Turismo e Cultura, sendo os restantes 50% distribuídos pelas câmaras municipais, conforme a origem dos fundos."
+  },
+  "1718848552f0071d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Liquidação e cobrança\n\n1 - Os impostos referidos nos n.os 1) a 3) e 5) da alínea a) do n.º 1 do artigo 4.º são liquidados pela repartição de finanças e cobrados pela tesouraria da Fazenda Pública territorialmente competentes.\n\n2 - A tesouraria da Fazenda Pública transfere, até ao dia 15 do mês seguinte, para a entidade que a ele tenha direito o produto da cobrança realizada no mês anterior.\n\n3 - Os encargos de cobrança não podem, em qualquer caso, exceder 3% do montante a transferir."
+  },
+  "5f6562fd754e332b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Fundo de Equilíbrio Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fundo de Equilíbrio Financeiro\n\nO Fundo de Equilíbrio Financeiro corresponde ao montante a transferir do Orçamento do Estado para os municípios, nos termos dos artigos 7.º e 8.º deste diploma."
+  },
+  "1bbcff04e6f818ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Cálculo do Fundo de Equilíbrio Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cálculo do Fundo de Equilíbrio Financeiro\n\n1 - A Lei do Orçamento fixa, em cada ano, a percentagem global das despesas do Estado, com base nas quais é calculado o Fundo de Equilíbrio Financeiro.\n\n2 - Para o efeito do disposto no número anterior, consideram-se as seguintes despesas do Estado:\n\na) Despesas correntes:\n\n1) Remunerações certas e percentagens;\n\n2) Bens duradouros;\n\n3) Bens não duradouros;\n\n4) Aquisição de serviços;\n\n5) Transferências para o sector público, exceptuadas as transferências para as autarquias e regiões autónomas;\n\nb) Despesas de capital:\n\n1) Investimentos;\n\n2) Transferências para o sector público, exceptuadas as transferências para as autarquias e regiões autónomas.\n\n3 - Aos municípios da Região Autónoma o Fundo de Equilíbrio Financeiro será distribuído de forma global.\n\n4 - O montante global que cabe a cada município na participação referida no artigo 6.º figura num mapa publicado em anexo ao orçamento da Região e é transferido para as câmaras municipais, por duodécimos, até ao dia 20 do mês a que se referem."
+  },
+  "a1ce61423d866ff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Distribuição pelos municípios do Fundo de Equilíbrio Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Distribuição pelos municípios do Fundo de Equilíbrio Financeiro\n\n1 - O Fundo de Equilíbrio Financeiro é repartido na proporção de 5% igualmente por todos os municípios, atendendo os restantes 95% aos seguintes critérios:\n\na) 45%, na razão directa do número de habitantes;\n\nb) 10%, na razão directa da área;\n\nc) 15%, na razão directa da capitação dos impostos directos;\n\nd) 5%, na razão directa do número de freguesias;\n\ne) 20%, em função das carências, aferidas pelos seguintes indicadores:\n\n10%, na razão directa das assimetrias de índole estritamente económica;\n\n8%, na razão inversa do desenvolvimento sócio-cultural;\n\n2%, na razão directa do turismo.\n\n2 - A Lei do Orçamento do Estado fixará em cada ano as percentagens do Fundo de Equilíbrio Financeiro para transferências correntes e de capital, não podendo a percentagem relativa às primeiras ser inferior a 50%.\n\n3 - Para efeitos do disposto na alínea c) do n.º 1, os impostos directos são considerados na proporção dos rendimentos atribuíveis à actividade desenvolvida em cada um dos respectivos municípios.\n\n4 - O Governo Regional, através da Secretaria Regional que tiver a seu cargo a tutela das autarquias da Região, promoverá a actualização e o aperfeiçoamento dos elementos que caracterizam os indicadores referidos no n.º 1, dando publicidade dos resultados a que chegar, incluindo a explicitação do processo de cálculo que em cada ano sirva de base à definição dos indicadores referidos na alínea e)."
+  },
+  "1bfbd07891ba6f92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Taxas dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas dos municípios\n\nOs municípios podem cobrar taxas:\n\na) Pela realização de infra-estruturas urbanísticas;\n\nb) Pela concessão de licenças de loteamento, de execução de obras particulares, de ocupação da via pública por motivo de obras e de utilização de edifícios;\n\nc) Pela ocupação do domínio público e aproveitamento dos bens de utilização pública;\n\nd) Pela prestação de serviços ao público por parte das repartições ou dos funcionários municipais;\n\ne) Pela ocupação e utilização de locais reservados nos mercados e feiras;\n\nf) Pela aferição e conferição de pesos, medidas e aparelhos de medição;\n\ng) Pelo estacionamento de veículos em parques ou outros locais a esse fim destinados;\n\nh) Pela autorização para o emprego de meios de publicidade destinados a propaganda comercial;\n\ni) Pela utilização de quaisquer instalações destinadas ao conforto, comodidade ou recreio público;\n\nj) Por enterramento, concessão de terrenos, uso de jazigos, de ossários e de outras instalações em cemitérios municipais;\n\nl) Pela licença de uso e porte de arma de fogo, de posse e uso de furão e de exercício da caça;\n\nm) Pelo registo e licença de cães;\n\nn) Por qualquer licença de competência dos municípios que não esteja isenta por lei."
+  },
+  "a537e46280c49b97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Tarifas e preços de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tarifas e preços de serviços\n\n1 - As tarifas a que se refere a alínea d) do n.º 1 do artigo 4.º respeitam às seguintes actividades:\n\na) Abastecimento de água;\n\nb) Recolha, depósito e tratamento de lixos, bem como ligação, conservação e tratamento de esgotos;\n\nc) Transportes colectivos de pessoas e mercadorias.\n\n2 - As tarifas a fixar pelo município, bem como os preços a praticar nos serviços referidos na alínea e) do n.º 1 do artigo 4.º no âmbito dos serviços municipais e municipalizados, não devem ser inferiores aos encargos previsionais de exploração de administração respectivos, acrescidos do montante necessário à reintegração do equipamento.\n\n3 - Nos casos em que o município decida fixar tarifas em desobediência ao preceituado no número anterior terá de inscrever obrigatoriamente como despesa o montante correspondente à indemnização compensatória.\n\n4 - Os preços a cobrar pelos serviços referidos na alínea e) do n.º 1 do artigo 4.º serão fixados pelos municípios de acordo com os n.os 2 e 3 do presente artigo."
+  },
+  "7c3345041e1082a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Empréstimos\n\n1 - Os municípios podem contrair empréstimos a curto, médio ou longo prazos.\n\n2 - Os empréstimos a curto prazo podem ser contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante ultrapassar, em qualquer momento, 5% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município.\n\n3 - Os empréstimos a médio e longo prazos podem ser contraídos pela aplicação em investimentos reprodutivos e em investimentos de carácter social ou cultural ou ainda para proceder ao saneamento financeiro dos municípios.\n\n4 - Os empréstimos a médio e longo prazos que beneficiem de bonificação deverão inserir-se nos objectivos e planos sectoriais regionais.\n\n5 -Os encargos anuais com amortizações e juros de empréstimos a médio e longo prazos não podem exceder o maior dos limites correspondentes a 20% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município ou a 20% das despesas realizadas para investimento pelo município no ano anterior.\n\n6 - Quando ocorram atrasos no cumprimento dos prazos legalmente previstos para aprovação da Lei do Orçamento do Estado, poderá a capacidade de endividamento autárquico ser transitoriamente avaliada com base nas transferências orçamentais do ano imediatamente anterior, podendo haver lugar a acertos posteriores à publicação daquele diploma legal, se isso for do interesse dos municípios.\n\n7 - Aos empréstimos contraídos para a construção de habitações destinadas a venda, bem como àqueles que se destinam à reparação, conservação e reabilitação de edifícios, contraídos ao abrigo do [Decreto-Lei n.º 449/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1983-444405), de 26 de Dezembro, não é aplicável o disposto no n.º 5.\n\n8 - Os empréstimos contraídos para construção de habitações destinadas a venda são garantidos pela respectiva hipoteca.\n\n9 - Dos limites previstos no n.º 5 ficam também excluídos os encargos anuais relativos a empréstimos contraídos com o fim exclusivo de ocorrer a despesas extraordinárias necessárias à reparação de prejuízos ocorridos em caso de calamidade pública.\n\n10 - O Governo Regional regulamenta os demais aspectos relacionados com a contracção de empréstimos, nomeadamente no que diz respeito ao recurso ao crédito pelos serviços municipalizados e associações de municípios, à bonificação das taxas de juro, ao prazo e às garantias, com exclusão de qualquer forma de aprovação tutelar."
+  },
+  "b63b458b4ccdce05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acesso ao crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acesso ao crédito\n\nOs empréstimos referidos no artigo 11.º podem ser contraídos pelos municípios junto de quaisquer instituições de crédito nacionais e também junto de organismos públicos que incluam nas suas atribuições actividades de crédito.\n\n2 - Os empréstimos contraídos perante entidades privadas não podem ocasionar encargos nem condições de amortização mais desfavoráveis do que os que resultem, da sua contracção, em equivalentes condições de acesso, perante instituições públicas de crédito nacionais.\n\n3 - Os municípios podem emitir obrigações nos termos da lei."
+  },
+  "ffed97c122a8fbaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Derramas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Derramas\n\n1 - Os municípios podem lançar derramas sobre a colecta da contribuição predial rústica e urbana, da contribuição industrial e do imposto de turismo devidos na respectiva área, não podendo exceder 10% da colecta liquidada.\n\n2 - Ficam também sujeitas às derramas as pessoas singulares ou colectivas, designadamente sociedades cooperativas e empresas públicas, que seriam tributadas em contribuição predial rústica ou urbana, contribuição industrial e imposto de turismo se não beneficiassem de isenção destes impostos.\n\n3 - São isentos de pagamento de derramas os rendimentos que beneficiem de isenção permanente.\n\n4 - O produto das derramas destina-se à satisfação de necessidades urgentes a efectuar na área do respectivo município.\n\n5 - A liquidação e a cobrança das derramas devem ser solicitadas ao director de finanças competente até 30 de Setembro do ano anterior ao do seu lançamento."
+  },
+  "323f8eb288f1b102": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contratos de reequilíbrio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos de reequilíbrio financeiro\n\n1 - Os municípios em que se verifiquem situações de desequilíbrio financeiro estrutural ou de ruptura financeira poderão, por sua iniciativa, celebrar contratos de reequilíbrio financeiro com instituições públicas de crédito.\n\n2 - Os contratos referidos no número anterior só poderão ser celebrados após a secretaria regional que tiver a seu cargo a tutela das autarquias da Região e a Secretaria Regional do Plano reconhecerem a impossibilidade de o município promover autonomamente o seu equilíbrio financeiro.\n\n3 - Os encargos decorrentes da contracção dos empréstimos necessários à execução destes contratos podem ultrapassar, na medida do estritamente necessário, os limites de crédito estabelecidos no artigo 11.º\n\n4 - A Secretaria Regional do Plano fica autorizada a reter na fonte, nos termos do acordo, os montantes a transferir adequados à satisfação de compromissos do município."
+  },
+  "39b8c0d86fcfdd3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Receitas das freguesias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas das freguesias\n\nConstituem receitas das freguesias:\n\na) Uma participação nas receitas do município;\n\nb) O produto da cobrança de taxas das freguesias;\n\nc) O produto de multas e coimas fixadas por lei, regulamento ou postura que caibam às freguesias;\n\nd) O rendimento de bens próprios, móveis ou imóveis;\n\ne) O produto de heranças, legados, doações e outras liberalidades feitas a favor das freguesias;\n\nf) O produto da alienação de bens;\n\ng) O rendimento proveniente da prestação de serviços pelas freguesias;\n\nh) O rendimento de mercados e cemitérios das freguesias;\n\ni) Quaisquer outras receitas estabelecidas por lei ou regulamento a favor das freguesias."
+  },
+  "9583a600acaf4b60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Taxas das freguesias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxas das freguesias\n\nAs freguesias podem cobrar taxas:\n\na) Pela utilização de locais reservados a mercados e feiras sob jurisdição ou administração das freguesias;\n\nb) Por enterramento, concessão de terrenos, uso de jazigos, de ossários e de outras instalações em cemitérios das freguesias;\n\nc) Pela utilização de quaisquer instalações sob jurisdição ou administração das freguesias destinadas ao conforto, comodidade ou recreio público;\n\nd) Pela prestação de serviços administrativos pelos funcionários das freguesias;\n\ne) Pela passagem de licenças da competência das freguesias que não estejam isentas por lei;\n\nf) Pelo aproveitamento do domínio público sob a administração das freguesias."
+  },
+  "d228fb7cfb2ed745": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Participação das freguesias nas receitas municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Participação das freguesias nas receitas municipais\n\n1 - O orçamento do município fixa, em cada ano, o montante global a distribuir pelas respectivas freguesias.\n\n2 - O montante global da participação das freguesias nas receitas municipais não pode ser inferior a 5% das verbas provenientes do Fundo de Equilíbrio Financeiro para as despesas correntes, com excepção dos municípios com apenas uma freguesia, caso em que aquele limite poderá ser inferior.\n\n3 - O mapa de distribuição pelas freguesias da participação das receitas municipais, publicado em anexo ao orçamento do município, é aprovado pela assembleia municipal de acordo com os seguintes critérios:\n\na) 10%, distribuídos igualmente por todas;\n\nb) 45%, distribuídos na razão directa do número de habitantes;\n\nc) 45%, distribuídos na razão directa da área.\n\n4 - Em qualquer caso, o montante da participação de cada freguesia nas receitas municipais nunca pode ser inferior às despesas previstas na [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), de 26 de Junho."
+  },
+  "b484c34c3505a1f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Multas e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Multas e coimas\n\n1 - A violação das posturas e regulamentos das autarquias locais constitui contra-ordenação, sancionada com coimas e a sanção acessória de apreensão dos objectos a favor da autarquia, sempre que contenha disposição genérica e de execução permanente.\n\n2 - As coimas cominadas pelos municípios e freguesias não podem exceder, respectivamente, 200000$00 e 20000$00, podendo ser elevadas para o dobro quando aplicáveis a pessoas colectivas, salvo, em qualquer dos casos, se outros forem os limites fixados na lei que o regulamento visa executar, não podendo exceder os montantes das coimas impostas por autarquias de grau superior ou pelo Estado para o mesmo tipo de contra-ordenação.\n\n3 - As posturas ou regulamentos referidos nos números anteriores não podem entrar em vigor antes de decorridos 10 dias sobre a respectiva publicação, efectuada pela afixação dos competentes editais ou por quaisquer outros meios adequados.\n\n4 - As contravenções e transgressões às posturas e regulamentos das autarquias locais em vigor que eram punidas com penas pecuniárias passam a estar sujeitas ao regime das contra-ordenações.\n\n5 - O disposto no número anterior não prejudica que as autarquias participem, total ou parcialmente, nas receitas das multas nos termos que a lei fixar ou tiver fixado."
+  },
+  "1065b3c862019f12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Subsídio e comparticipações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio e comparticipações\n\n1 - O Governo Regional poderá tomar excepcionalmente providências orçamentais necessárias à concessão de auxílio financeiro nas seguintes situações:\n\na) Calamidade pública;\n\nb) Autarquias negativamente afectadas por investimentos da responsabilidade da administração regional, em especial estradas, portos e aeroportos;\n\nc) Recuperação de áreas de construção clandestina ou de renovação urbana, quando o seu peso relativo transcenda a capacidade e responsabilidade autárquica nos termos da lei;\n\nd) Resolução de bloqueamentos graves nas áreas de serviços de transporte e bombeiros;\n\ne) Outras necessidades propostas ao Conselho de Governo e por ele aprovadas."
+  },
+  "77ec496be71b44c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Contencioso fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contencioso fiscal\n\n1 - As reclamações e impugnações dos interessados contra a liquidação e cobrança dos impostos referidos na alínea a) do n.º 1 do artigo 4.º e das derramas são deduzidas perante o chefe da repartição de finanças e decididas nos termos estabelecidos pelo Código de Processo das Contribuições e Impostos.\n\n2 - Compete aos tribunais das contribuições e impostos a instrução e julgamento das contravenções cometidas em relação à liquidação e cobrança dos impostos e derramas mencionados no número anterior, nos termos estabelecidos pelo Código de Processo das Contribuições e Impostos.\n\n3 - As reclamações e impugnações dos interessados contra a liquidação e cobrança das taxas e mais-valias referidas no artigo 4.º são deduzidas perante os órgãos executivos das autarquias, com recurso para os tribunais das contribuições e impostos.\n\n4 - Do auto de transgressão por contravenções cometidas em relação à liquidação e à cobrança de taxas e mais-valias pode haver reclamação no prazo de 10 dias para os órgãos executivos das autarquias, com recurso para os tribunais das contribuições e impostos.\n\n5 - Compete aos tribunais das contribuições e impostos a cobrança coerciva de dívidas às autarquias locais provenientes de impostos, derramas, taxas, encargos de mais-valias e outros rendimentos, aplicando-se, com as necessárias adaptações, os termos estabelecidos no Código de Processo das Contribuições e Impostos."
+  },
+  "adbd3455971eb63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processamento das contra-ordenações\n\nO regime de processamento das contra-ordenações e de aplicação das coimas é regulado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, podendo a competência para a aplicação da coima ser delegada pelo órgão executivo em qualquer dos seus membros."
+  },
+  "ada8ff3b59699558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Princípio da contabilidade autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Princípio da contabilidade autárquica\n\n1 - O regime relativo à contabilidade das autarquias locais visa a sua uniformização, normalização e simplificação, de modo a constituir um instrumento de gestão económico-financeira e permitir a apreciação e o julgamento da execução orçamental e patrimonial.\n\n2 - A contabilidade das freguesias pode limitar-se ao simples registo de receitas e despesas, quando não excedam o limite fixado no n.º 2 do artigo 23.º\n\n3 - A matéria respeitante à contabilidade autárquica é definida por decreto regulamentar regional."
+  },
+  "fb822f9e753ab986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Apreciação e julgamento das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Apreciação e julgamento das contas\n\n1 - As contas das autarquias locais são apreciadas pelo respectivo órgão deliberativo, reunido em secção ordinária, até ao final do mês de Abril do ano seguinte aquele a que respeitam.\n\n2 - As contas das autarquias locais que movimentem anualmente importâncias globais superiores a 5 milhões de escudos serão enviadas pelo órgão executivo, até ao final do mês de Maio e independentemente da sua apreciação pelo órgão deliberativo, ao Tribunal de Contas, com cópia à secretaria regional que tiver a seu cargo a tutela das autarquias da Região.\n\n3 - O Tribunal de Contas julga as contas até 30 de Novembro de cada ano e remete o seu acórdão aos respectivos órgãos autárquicos, com cópia à secretaria regional que tiver a seu cargo a tutela das autarquias da Região."
+  },
+  "399e42a5e5368f88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Tutela inspectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Tutela inspectiva\n\n1 - Cabe ao Governo Regional, através da Direcção Regional de Finanças, fiscalizar a legalidade da gestão patrimonial e financeira dos municípios e freguesias, o qual pode solicitar ao Governo da República o apoio da Inspecção-Geral de Finanças.\n\n2 - Os municípios e freguesias referidos no n.º 2 do artigo anterior devem ser inspeccionados, pelo menos, uma vez no período de cada mandato.\n\n3 - O Governo Regional pode ordenar inquéritos e sindicâncias mediante queixas ou participações devidamente fundamentadas."
+  },
+  "c441cd7fb6a0faa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cooperação técnica e financeira entre o Governo e as autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cooperação técnica e financeira entre o Governo e as autarquias locais\n\n1 - O Governo Regional poderá aprovar esquemas de cooperação técnica e financeira com as autarquias locais para a prossecução de políticas e programas de desenvolvimento regional, de incentivo ao associativismo autárquico, de actuações de carácter supramunicipal, bem como para a implementação de políticas globais ou sectoriais inovatórias ou que impliquem reconversão estrutural de sectores sociais e económicos.\n\n2 - As políticas referidas no número anterior serão previamente definidas por decreto regulamentar regional e os programas aí mencionados constarão do orçamento regional."
+  },
+  "357c2d94ce1eecd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Dívidas ao sector público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dívidas ao sector público\n\nQuando os municípios tenham dívidas em atraso às entidades não financeiras do sector público, pode ser deduzida uma parcela às suas transferências correntes, desde que aquelas dívidas se encontrem definidas por sentença judicial transitada em julgado."
+  },
+  "0ba4d1f681766e14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Isenções\n\nO Estado, a Região Autónoma e os seus institutos e organismos autónomos personalizados estão isentos de pagamento de todas as taxas e encargos de mais-valias devidos às autarquias locais, nos termos do presente diploma."
+  },
+  "2160f054903d8d31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Atraso na aprovação do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atraso na aprovação do orçamento\n\nA partir de 1985, inclusive, os municípios que não tenham aprovado o seu orçamento até 31 de Dezembro receberão, até à sua aprovação, a correspondente participação do Fundo de Equilíbrio Financeiro estabelecida no Orçamento do Estado do ano anterior."
+  },
+  "cc21f107052ccd66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n2 - O disposto no n.º 3 do artigo 8.º do presente decreto legislativo regional só produzirá efeitos a partir de 1985, inclusive.\n\nAprovado em Sessão Plenária em 27 de Novembro de 1984.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 10 de Dezembro de 1984.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  },
+  "85c7051c847afe53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Empréstimos",
+   "in_force_from": "1985-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 9/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1985-325570), publicado em 1985-04-17."
+   ],
+   "markdown": "###### Artigo 11.º — Empréstimos\n\n2 - Os empréstimos a curto prazo podem ser contraídos para ocorrer a dificuldades de tesouraria, não podendo o seu montante ultrapassar, em qualquer momento, 5% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município.\n\n3 - Os empréstimos a médio e longo prazos podem ser contraídos pela aplicação em investimentos reprodutivos e em investimentos de carácter social ou cultural ou ainda para proceder ao saneamento financeiro dos municípios.\n\n4 - Os empréstimos a médio e longo prazos que beneficiem de bonificação deverão inserir-se nos objectivos e planos sectoriais regionais.\n\n5 -Os encargos anuais com amortizações e juros de empréstimos a médio e longo prazos não podem exceder o maior dos limites correspondentes a 20% do montante do Fundo de Equilíbrio Financeiro que cabe no respectivo ano ao município ou a 20% das despesas realizadas para investimento pelo município no ano anterior.\n\n6 - Quando ocorram atrasos no cumprimento dos prazos legalmente previstos para aprovação da Lei do Orçamento do Estado, poderá a capacidade de endividamento autárquico ser transitoriamente avaliada com base nas transferências orçamentais do ano imediatamente anterior, podendo haver lugar a acertos posteriores à publicação daquele diploma legal, se isso for do interesse dos municípios.\n\n7 - Aos empréstimos contraídos para a construção de habitações destinadas a venda, bem como àqueles que se destinam à reparação, conservação e reabilitação de edifícios, contraídos ao abrigo do [Decreto-Lei n.º 449/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1983-444405), de 26 de Dezembro, não é aplicável o disposto no n.º 5.\n\n8 - Os empréstimos contraídos para construção de habitações destinadas a venda são garantidos pela respectiva hipoteca.\n\n9 - Dos limites previstos no n.º 5 ficam também excluídos os encargos anuais relativos a empréstimos contraídos com o fim exclusivo de ocorrer a despesas extraordinárias necessárias à reparação de prejuízos ocorridos em caso de calamidade pública.\n\n10 - (Revogado.)\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 9/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1985-325570), publicado em 1985-04-17."
+  }
+ }
+}

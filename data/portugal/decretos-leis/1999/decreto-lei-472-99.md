@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-04-04'
+version_history:
+  file: decreto-lei-472-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-04-04'
+    amending: pt:dre:679669:por
+    amending_title: Lei n.º 3-B/2000
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/472/1999/11/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:13:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 3-B/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-472-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1299,7 +1314,9 @@ Artigo 16.º
 
 ###### Artigo 9.º — Disposição transitória
 
-O disposto no n.º 1 do artigo 71.º do CIVA, no artigo 179.º do CIMSISD, no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo [Decreto-Lei n.º 51/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1995-166201), no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º do [Decreto-Lei n.º 54/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1995-166809), e no artigo 27.º do Regulamento da Contribuição Especial aprovado pelo artigo 1.º do [Decreto-Lei n.º 43/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1998-218486), aplica-se apenas aos factos tributários ocorridos a partir de 1 de Janeiro de 1998.
+O disposto no n.º 7 do artigo 71.º e no n.º 2 do artigo 91.º, ambos do Código do IVA, no artigo 179.º do CIMSISD, no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo Decreto-Lei n.º 51/95, no artigo 28.º do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º do Decreto-Lei n.º 54/95, e no artigo 27.º do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º do Decreto-Lei n.º 43/98, aplica-se apenas aos factos tributários ocorridos a partir de 1 de Janeiro de 1998.
+
+> Alterado pelo/a [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), publicado em 2000-04-04.
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-04-30'
+version_history:
+  file: portaria-570-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-04-30'
+    amending: pt:dre:393068:por
+    amending_title: Portaria n.º 452/82
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:44:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 452/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-570-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,29 +127,21 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, 
 
 1.º Os artigos 2.º, n.º 2, 3.º, 4.º, 6.º, n.º 2, 8.º, n.os 8, 9, 10 e 11, e 22.º, n.os 8 e 9, do Regulamento aprovado pela [Portaria n.º 79/77](https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668), de 17 de Fevereiro, passam a ter a seguinte redacção:
 
-Art. 2.º - 1 - ...
+###### Artigo 2.º
+
+1 - ...
 
 2 - Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais distritais serão realizados em hospitais centrais.
 
-Art. 3.º - 1 - Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar da área da sua residência, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
+###### Artigo 3.º
 
-a) Requerimento, em papel selado, dirigido à comissão instaladora do hospital central ou ao director-geral dos Hospitais, conforme as vagas a que concorram, solicitando a admissão ao concurso, e onde conste a identificação completa do candidato, sua residência e indicação da categoria e especialidade a que pretende concorrer;
+(Revogado.)
 
-b) ...
+> Revogado pelo/a [Portaria n.º 452/82](https://diariodarepublica.pt/dr/detalhe/portaria/452-1982-393068), publicado em 1982-04-30.
 
-c) ...
+###### Artigo 4.º
 
-d) Certidão do registo de nascimento;
-
-e) Documento comprovativo do cumprimento da Lei do Serviço Militar;
-
-f) Certificado de sanidade para o exercício de funções públicas, passado pela delegação de saúde local;
-
-g) Certificado do registo criminal.
-
-2 - Os documentos referidos nas alíneas d), e), f) e g) podem ser substituídos por certificados comprovativos da sua entrega, pelo candidato, no estabelecimento ou serviço a que está vinculado.
-
-Art. 4.º - 1 - Dez dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada, no respectivo hospital, a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
+1 - Dez dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada, no respectivo hospital, a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
 
 2 - No mesmo prazo e no referente aos concursos para os hospitais distritais, será afixada nos serviços centrais da Direcção-Geral dos Hospitais e comissões inter-hospitalares a lista referida no número anterior.
 
@@ -150,11 +157,15 @@ Art. 4.º - 1 - Dez dias após o encerramento do prazo de cada concurso para os 
 
 8 - As provas terão início, obrigatoriamente, nos vinte dias seguintes à afixação das listas definitivas, mas nunca antes de decorridos dez dias sobre esta afixação.
 
-Art. 6.º - 1 - ...
+###### Artigo 6.º
+
+1 - ...
 
 2 - Os presidentes dos júris e dois vogais pertencerão aos quadros dos hospitais centrais, devendo os dois restantes vogais ser provenientes de hospitais distritais com carreira médica comprovada em que o acesso aos vários graus se tenha feito por exame ou concurso, excluindo assim a simples nomeação ou integração.
 
-Art. 8.º - 1 - ...
+###### Artigo 8.º
+
+1 - ...
 
 ...
 
@@ -170,7 +181,9 @@ b) Melhor classificação na prova curricular.
 
 11 - Caso se mantenham igualdades, a ordenação será completada por votações sucessivas para cada um dos lugares em causa.
 
-Art. 22.º - 1 - ...
+###### Artigo 22.º
+
+1 - ...
 
 ...
 

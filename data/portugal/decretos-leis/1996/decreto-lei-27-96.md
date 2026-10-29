@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-20'
+version_history:
+  file: decreto-lei-27-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-20'
+    amending: pt:dre:421630:por
+    amending_title: Decreto-Lei n.º 377/97; Decreto-Lei n.º 213/99
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo ANEXO — ESTATUTOS DA FUNDAÇÃO AGA KHAN PORTUGAL::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/27/1996/03/30/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:46:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 377/97; Decreto-Lei
+    n.º 213/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-27-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +166,7 @@ Assim, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o Gov
 
 ###### Artigo 4.º
 
-1 - Continuam a ser concedidas à Fundação todas as isenções e benefícios fiscais de que possam gozar as pessoas colectivas de utilidade pública.
+1 - A Fundação goza, para a prossecução dos seus objectivos, das isenções, bonificações e benefícios, designadamente fiscais, previstos na lei para as pessoas colectivas de utilidade pública e para as instituições particulares de solidariedade social.
 
 2 - É ainda concedida isenção de emolumentos notariais e de despesas de registo predial em todas as transmissões em que a Fundação seja beneficiária ou adquirente.
 
@@ -159,6 +175,8 @@ Assim, nos termos do artigo 201.º, n.º 1, alínea a), da Constituição, o Gov
 4 - É aplicável à Fundação o regime previsto no artigo 65.º do Regulamento CEE n.º [918/83](http://data.europa.eu/eli/reg/1983/918/oj?locale=pt), do Conselho, de 28 de Março.
 
 5 - A Fundação fica sujeita aos deveres impostos às pessoas colectivas de utilidade pública.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 377/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1997-421630), publicado em 1997-12-24.
 
 ###### Artigo 5.º
 
@@ -204,7 +222,9 @@ c) Fundação Aga Khan, com sede na Suíça.
 
 ###### Artigo 3.º — Sede e duração
 
-A Fundação tem a sua sede, provisoriamente, na Rua de Francisco Andrade, 12, em Lisboa, e durará por tempo ilimitado, podendo criar delegações ou quaisquer outras formas de representação onde for julgado conveniente para o cumprimento dos seus fins.
+A Fundação tem a sua sede no Centro Ismaili, sito à Avenida Lusíada, em Lisboa, e durará por tempo ilimitado, podendo ser deslocada por deliberação do conselho de administração, sendo-lhe permitido, igualmente, criar delegações ou quaisquer outras formas de representação onde for julgado conveniente para o cumprimento dos seus fins.
+
+> Alterado pelo/a [Decreto-Lei n.º 213/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1999-309004), publicado em 1999-06-15.
 
 ###### Artigo 4.º — Fins
 

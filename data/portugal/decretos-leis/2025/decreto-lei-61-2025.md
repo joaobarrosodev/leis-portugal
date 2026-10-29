@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-09-27'
+version_history:
+  file: decreto-lei-61-2025.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2025-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-09-27'
+    amending: pt:dre:1172319753:por
+    amending_title: Decreto-Lei n.º 193/2026
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/61/2025/04/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:52:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 193/2026. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2025/decreto-lei-61-2025.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -258,11 +273,13 @@ d) À quinta alteração ao [Decreto-Lei n.º 288/2000](https://diariodarepublic
 
 Trabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, da Direção-Geral do Orçamento e da Direção-Geral do Tesouro e Finanças
 
-1 - Transitam para a carreira de técnico superior especialista em orçamento e finanças do MF, sem necessidade de quaisquer outras formalidades, os trabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do GPEARI, da DGO e da DGTF.
+1 - Transitam para a carreira de técnico superior especialista em orçamento e finanças públicas do Ministério das Finanças, sem necessidade de quaisquer outras formalidades, os trabalhadores da carreira geral de técnico superior que integram os mapas de pessoal do GPEARI, da DGO e da DGTF, ou que venham a integrá-los na sequência da reafetação de pessoal decorrente do processo de fusão da Secretaria-Geral do Ministério das Finanças.
 
-2 - Sem prejuízo do disposto no número anterior, os trabalhadores podem opor-se à sua transição para a carreira de técnico superior especialista em orçamento e finanças do MF, nos 60 dias seguintes à data de produção de efeitos do presente decreto-lei.
+2 - Sem prejuízo do disposto no número anterior, os trabalhadores podem opor-se à sua transição para a carreira de técnico superior especialista em orçamento e finanças públicas, nos 60 dias seguintes à data de produção de efeitos do presente decreto-lei, ou nos 60 dias seguintes à data da publicação das listas nominativas definitivas, no âmbito do processo de fusão da Secretaria-Geral do Ministério das Finanças, consoante o caso.
 
 3 - O exercício do direito previsto no número anterior deve ser efetuado através de requerimento remetido aos dirigentes máximos, respetivamente, do GPEARI, da DGO e da DGTF.
+
+> Alterado pelo/a [Decreto-Lei n.º 193/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2026-1172319753), publicado em 2026-09-22.
 
 ###### Artigo 3.º — Reposicionamento remuneratório
 

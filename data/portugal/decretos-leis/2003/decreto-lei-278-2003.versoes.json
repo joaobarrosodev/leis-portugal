@@ -1,0 +1,566 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:468404:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "568a4d909b416aa0",
+    "2be9137096c1d599",
+    "b1fd63f437cf32b7",
+    "6a0db01998ba3980",
+    "2538ff5e952bfe80",
+    "edd6e32ce32bc6df",
+    "c6a13ee2aa1444a4",
+    "cb675c152e387e17",
+    "fc9ba7de8c5d1ea0",
+    "3d266e710a38560b",
+    "59c080521415d1b2",
+    "b94283af8b206400",
+    "61e6bce99352e741",
+    "7806abacf51d36ad",
+    "5f029e4a31f7a7d8",
+    "c0e09ea610e741a7",
+    "9a7c636b6c16d116",
+    "96128a4213f5ef44",
+    "0369bf531d0b0b69",
+    "dc85269cae5d3328",
+    "f2d8c4c9c32d1ab2",
+    "7c56c6375a12eb19",
+    "746f12a930357c5e",
+    "ae24626c68f91afd",
+    "a7ca08a855ea63c5",
+    "dd182a11fdb194d3",
+    "c2848331837174f9",
+    "c9ddbcc12e428a50",
+    "4779b00433e62639",
+    "87dff28422c70823",
+    "21bd916607ba4cf6",
+    "fdf619f9ee799165",
+    "7b1f8fad89952487",
+    "444734d9ff7b3a8c",
+    "9bb232a87339c3a2",
+    "4e544b566deca60a",
+    "50bb55ccd25734ec",
+    "4b1929d162855734",
+    "4bbb67d7ae1fe690",
+    "e49848af836e7fb4",
+    "cbeca9fd1a43c62a",
+    "c189bcaafcf4c96d",
+    "362c24c8806ea3ae",
+    "7375d4af684866c7",
+    "381ad0845b80d507",
+    "0244f39f0773b9e0",
+    "e3cff5ac7ead7943",
+    "0ee6092e66af2ba3",
+    "bbda064ba55e82c5",
+    "b047f01ffb30fc22",
+    "0e0fd62da39cc295",
+    "92962e29846f7214"
+   ]
+  },
+  {
+   "date": "2012-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552998:por",
+     "title": "Decreto-Lei n.º 97/2012",
+     "published": "2012-04-23",
+     "dre_path": "/dr/detalhe/decreto-lei/97-2012-552998"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO::13.º"
+   ],
+   "fragments": [
+    "568a4d909b416aa0",
+    "2be9137096c1d599",
+    "b1fd63f437cf32b7",
+    "6a0db01998ba3980",
+    "2538ff5e952bfe80",
+    "edd6e32ce32bc6df",
+    "c6a13ee2aa1444a4",
+    "cb675c152e387e17",
+    "fc9ba7de8c5d1ea0",
+    "3d266e710a38560b",
+    "59c080521415d1b2",
+    "b94283af8b206400",
+    "61e6bce99352e741",
+    "7806abacf51d36ad",
+    "5f029e4a31f7a7d8",
+    "c0e09ea610e741a7",
+    "9a7c636b6c16d116",
+    "96128a4213f5ef44",
+    "0369bf531d0b0b69",
+    "dc85269cae5d3328",
+    "f2d8c4c9c32d1ab2",
+    "7c56c6375a12eb19",
+    "746f12a930357c5e",
+    "d91b6c96eee01c0d",
+    "a7ca08a855ea63c5",
+    "dd182a11fdb194d3",
+    "c2848331837174f9",
+    "c9ddbcc12e428a50",
+    "4779b00433e62639",
+    "87dff28422c70823",
+    "21bd916607ba4cf6",
+    "fdf619f9ee799165",
+    "7b1f8fad89952487",
+    "444734d9ff7b3a8c",
+    "9bb232a87339c3a2",
+    "4e544b566deca60a",
+    "50bb55ccd25734ec",
+    "4b1929d162855734",
+    "4bbb67d7ae1fe690",
+    "e49848af836e7fb4",
+    "cbeca9fd1a43c62a",
+    "c189bcaafcf4c96d",
+    "362c24c8806ea3ae",
+    "7375d4af684866c7",
+    "381ad0845b80d507",
+    "0244f39f0773b9e0",
+    "e3cff5ac7ead7943",
+    "0ee6092e66af2ba3",
+    "bbda064ba55e82c5",
+    "b047f01ffb30fc22",
+    "0e0fd62da39cc295",
+    "92962e29846f7214"
+   ]
+  }
+ ],
+ "fragments": {
+  "568a4d909b416aa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Novembro\n\nA reforma institucional respeitante à Região Demarcada do Douro (RDD) e ao sector do vinho do Porto, realizada em 1995, pôs em prática um modelo de gestão interprofissional protagonizado por diversas entidades, entre as quais a Casa do Douro e a Associação das Empresas do Vinho do Porto (AEVP), congregadas na Comissão Interprofissional da Região Demarcada do Douro (CIRDD), cuja criação visou assegurar uma intervenção paritária dos representantes da produção e do comércio na tomada de decisões estratégicas e na gestão do sector. Essa alteração não deixou, porém, de reservar ao Estado o importante papel da fiscalização da actividade e da certificação do vinho do Porto, através do Instituto do Vinho do Porto (IVP), para além da tutela governamental relativa à CIRDD, em consonância com a sua natureza pública.\n\nA experiência entretanto registada recomenda uma evolução deste figurino, por forma a reduzir o número de entidades públicas com intervenção neste sector, o que corresponde ao desígnio do Governo de emagrecimento da máquina do Estado, sem prejuízo do rigor dos processos de certificação e da imagem externa do produto.\n\nÉ assim chegado o momento de aperfeiçoar e simplificar o modelo de gestão deste sector, concentrando a supervisão da viticultura duriense num único organismo, mediante fusão da CIRDD com o IVP, bem como fazendo cessar o período transitório previsto no [Decreto-Lei n.º 75/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1995-224068), de 19 de Abril, e redefinindo as funções da Casa do Douro. Esta opção implica a criação do Instituto dos Vinhos do Douro e do Porto, adiante designado por IVDP, o qual passa a incorporar as competências, o pessoal e o património da CIRDD e será objecto de profunda reestruturação orgânica, passando a revestir a natureza de organização interprofissional.\n\nEsta reforma visa preservar a história da RDD, bem como o capital de credibilidade conquistado para o sector do vinho do Porto pelo IVP, enquanto organismo que desde 1933 vem defendendo a qualidade e reputação deste vinho generoso da RDD, dando uma garantia de genuinidade essencial para o prestígio das denominações de origem. A ligação à RDD do IVP, que desde 1995 possui a sua sede no Peso da Régua, é agora aprofundada pelo reforço dos meios aí sediados, bem como pela instalação da sua direcção na região.\n\nAo Estado continuará apenas a caber a competência relativa à certificação dos vinhos da RDD e à disciplina do sector, quer na função fiscalizadora quer na vertente sancionatória, cometendo-se às profissões a totalidade das responsabilidades em matéria de gestão e coordenação da vitivinicultura duriense.\n\nNessa medida, a coordenação do sector será assumida pelo conselho interprofissional do IVDP, a quem cumprirá exercer a generalidade das competências deste organismo no que respeita aos vinhos com denominações de origem «Porto» e «Douro» e indicação geográfica «Terras Durienses», incluindo a fixação anual de ajustamentos ao rendimento máximo por hectare e da quantidade de vinho do Porto a beneficiar, bem como a regulamentação das actividades da produção e comércio daqueles produtos. A composição deste conselho assegurará a representação, necessariamente paritária, da produção e do comércio, consagrando-se critérios que garantam uma ajustada e directa representatividade dos seus membros, relativamente aos vários interesses de cada um daqueles sectores. As competências reservadas directamente ao Estado serão exercidas pela direcção do IVDP, sendo a articulação entre os dois órgãos assegurada pelo facto de ao presidente da direcção caber também a presidência do conselho interprofissional. Além disso, as deliberações deste conselho, no âmbito das respectivas competências, são vinculativas para a direcção, a quem, como órgão predominantemente executivo, cumprirá implementá-las.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "2be9137096c1d599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma aprova a Lei Orgânica do Instituto dos Vinhos do Douro e do Porto anexa e que dele faz parte integrante."
+  },
+  "b1fd63f437cf32b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Criação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação e regime\n\n1 - O IVDP resulta da fusão por incorporação da CIRDD com o IVP, transferindo-se globalmente o património e o pessoal daquela para este, nos termos dos números seguintes.\n\n2 - Com a entrada em vigor deste diploma cessam automaticamente os mandatos dos titulares dos órgãos da CIRDD, sem necessidade de quaisquer outras formalidades.\n\n3 - Sem prejuízo do disposto no número anterior, os órgãos da CIRDD mantêm-se em exercício de funções, pelo prazo de 60 dias contados da data da entrada em vigor do presente diploma, exclusivamente para efeitos de elaboração, aprovação e emissão de parecer sobre o relatório e contas.\n\n4 - Os actuais membros representantes da produção e do comércio no conselho geral da CIRDD passarão transitoriamente a integrar, até à tomada de posse dos membros designados nos termos do decreto-lei que aprovará os novos estatutos da Casa do Douro, o conselho interprofissional do IVDP e o conselho vitivinícola interprofissional da Casa do Douro, sendo a sua substituição, em caso de vacatura, efectuada por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - A formalização de transferência de propriedade de quaisquer bens da CIRDD para o IVDP, nomeadamente para efeitos registrais, efectua-se por mero requerimento escrito da direcção deste Instituto, invocando o disposto neste diploma.\n\n6 - As referências à CIRDD, em leis e regulamentos actualmente em vigor, devem passar a considerar-se como sendo feitas relativamente ao IVDP."
+  },
+  "6a0db01998ba3980": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pessoal\n\n1 - Os trabalhadores do quadro de pessoal da CIRDD integram-se automaticamente nos quadros do IVDP, sem perda de quaisquer regalias ou antiguidade.\n\n2 - Aos trabalhadores da CIRDD que já tenham prestado serviço na Casa do Douro e hajam feito a opção prevista no n.º 3 do artigo 4.º do [Decreto-Lei n.º 74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), de 19 de Abril, continua a aplicar-se o disposto nos n.os 3 a 5 desse artigo.\n\n3 - O IVDP pode admitir no seu quadro de pessoal, de acordo com as suas necessidades, trabalhadores da Casa do Douro com contrato individual de trabalho, cujas funções são transferidas para o IVDP por força da alteração institucional operada pelo presente diploma."
+  },
+  "2538ff5e952bfe80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revogação\n\nCom a entrada em vigor do presente diploma são revogados o [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, com a redacção dada pelo [Decreto-Lei n.º 75/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1995-224068), de 19 de Abril, e o [Decreto-Lei n.º 74/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175), de 19 de Abril."
+  },
+  "edd6e32ce32bc6df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no 20.º dia após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.\n\nPromulgado em 20 de Outubro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Outubro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "c6a13ee2aa1444a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO"
+  },
+  "cb675c152e387e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, regime, sede e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, regime, sede e atribuições"
+  },
+  "fc9ba7de8c5d1ea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto dos Vinhos do Douro e do Porto, adiante designado por IVDP, é um instituto público dotado de autonomia administrativa e financeira e de património próprio.\n\n2 - O IVDP está sujeito à tutela do Ministro da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "3d266e710a38560b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nO IVDP rege-se pelo presente diploma, pelo seu regulamento interno e, subsidiariamente, pelas normas aplicáveis aos institutos públicos."
+  },
+  "59c080521415d1b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e delegações\n\n1 - O IVDP tem sede em Peso da Régua e delegação no Porto.\n\n2 - O IVDP pode ter outras delegações, agências ou qualquer outra forma de representação."
+  },
+  "b94283af8b206400": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nSão atribuições do IVDP:\n\na) Propor a orientação estratégica e executar a política vitivinícola para a Região Demarcada do Douro (RDD);\n\nb) Promover a convergência dos interesses da produção e do comércio na defesa do interesse geral da Região;\n\nc) Controlar, promover e defender as denominações de origem e indicações geográficas da RDD, bem como controlar os restantes vinhos e produtos vínicos produzidos, elaborados ou que transitem na Região, sem prejuízo das atribuições do Instituto da Vinha e do Vinho (IVV);\n\nd) Disciplinar, controlar e fiscalizar a produção e a comercialização dos vinhos produzidos na RDD, fomentando e garantindo a sua qualidade e sancionando as infracções vitivinícolas que constituam contra-ordenações relativas a vinhos e produtos vitivinícolas daquela Região, sem prejuízo das atribuições do IVV;\n\ne) Promover e gerir apoios para a orientação, regularização e organização do mercado dos vinhos do Douro e Porto, bem como do vinho Terras Durienses, quando, se legalmente exigível, expressamente autorizado pelos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas;\n\nf) Estimular a adopção das melhores práticas no domínio da vitivinicultura e o desenvolvimento tecnológico;\n\ng) Exercer quaisquer outras atribuições que o Governo entenda confiar-lhe no âmbito do sector vitivinícola da RDD."
+  },
+  "61e6bce99352e741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e competências"
+  },
+  "7806abacf51d36ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos do IVDP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos do IVDP\n\nSão órgãos do IVDP:\n\na) O conselho interprofissional;\n\nb) A direcção;\n\nc) O conselho fiscal;\n\nd) O conselho consultivo."
+  },
+  "5f029e4a31f7a7d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho interprofissional"
+  },
+  "c0e09ea610e741a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Representação, funcionamento e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Representação, funcionamento e composição\n\n1 - O conselho interprofissional é o órgão em que se encontram representados os agentes económicos envolvidos na produção e no comércio do vinho do Porto, do vinho do Douro e do vinho Terras Durienses.\n\n2 - O conselho interprofissional funciona em plenário e em secções especializadas, uma relativa à denominação de origem «Porto» e outra relativa à denominação de origem «Douro», que inclui os restantes produtos vínicos da RDD, nomeadamente os da indicação geográfica «Terras Durienses».\n\n3 - O conselho interprofissional tem a seguinte composição:\n\na) O presidente, a quem compete convocar, presidir e dirigir as reuniões do conselho interprofissional, que será presidente da direcção do IVDP;\n\nb) Dois vice-presidentes, sendo um indicado pelos representantes da produção e outro pelos representantes do comércio, com funções de representação do IVDP, sempre que para tal sejam solicitados pelo presidente da direcção ou pelo conselho interprofissional, sem prejuízo das competências da direcção;\n\nc) 24 representantes da produção e do comércio distribuídos pelas duas secções especializadas.\n\n4 - A secção especializada relativa à denominação de origem «Porto» é composta por:\n\na) Seis representantes da produção, a indicar pelo conselho regional de vitivinicultores da Casa do Douro, segundo critérios que reflictam a composição desse órgão;\n\nb) Seis representantes do comércio indicados pelas organizações representativas das entidades inscritas no IVDP, nos termos do artigo 20.º do Regulamento da Denominação de Origem Vinho do Porto, aprovado pelo [Decreto-Lei n.º 166/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1986-228465), de 26 de Junho, proporcionalmente ao volume de vinho comercializado em cada ano pelos respectivos associados.\n\n5 - A secção especializada relativa à denominação de origem «Douro» é composta por:\n\na) Seis representantes da produção, a indicar pelo conselho regional de vitivinicultores da Casa do Douro, segundo critérios que reflictam a composição desse órgão;\n\nb) Seis representantes do comércio indicados pelas organizações representativas das entidades inscritas no IVDP, nos termos do artigo 13.º do Estatuto da Denominação de Origem Controlada Douro, aprovado pelo [Decreto-Lei n.º 190/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2001-361505), de 25 de Junho, proporcionalmente ao volume de vinho comercializado em cada ano pelos respectivos associados.\n\n6 - A representação dos interesses profissionais e económicos deve ser assegurada de forma a evitar que os agentes económicos, para cada interesse, sejam considerados como representados simultaneamente por mais de uma entidade e garantindo ainda que nenhuma entidade representa ambos os grupos de interesses profissionais.\n\n7 - Os vice-presidentes e os representantes da produção e do comércio, indicados nos termos dos números anteriores, são nomeados por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n8 - Os vice-presidentes auferem uma remuneração a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.\n\n9 - Os membros do conselho interprofissional têm direito a senhas de presença de montante a determinar por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "9a7c636b6c16d116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do conselho interprofissional\n\n1 - Compete ao conselho interprofissional:\n\na) Promover a convergência dos respectivos interesses na defesa geral do sector;\n\nb) Pronunciar-se sobre as orientações da política vitivinícola da RDD;\n\nc) Aprovar os planos estratégicos de cada denominação de origem;\n\nd) Fixar o quantitativo, características organolépticas e físico-químicas e o regime de utilização das aguardentes vínicas na beneficiação dos mostos aptos à atribuição das denominações de origem «Porto» e «Moscatel do Douro» ou em quaisquer outras operações enológicas, nos termos da regulamentação em vigor;\n\ne) Propor regras quanto à oferta na primeira colocação no mercado, no que respeita à colocação em reserva e ou à introdução gradual no mercado;\n\nf) Aprovar anualmente o comunicado de vindima até 31 de Julho de cada ano, incorporando as normas estabelecidas por cada secção especializada «Porto» e «Douro»;\n\ng) Emitir parecer sobre as normas e regulamentos propostos pela direcção para a boa execução das competências desta ou sobre quaisquer assuntos que esta entenda submeter-lhe;\n\nh) Emitir parecer sobre o plano anual de promoção;\n\ni) Adoptar medidas com vista à melhoria do conhecimento e da transparência da produção e do mercado;\n\nj) Adoptar planos para uma melhor coordenação da colocação dos produtos no mercado;\n\nl) Estimular a elaboração de contratos tipo ou plurianuais compatíveis com a regulamentação comunitária;\n\nm) Promover o intercâmbio com outras denominações de origem de prestígio estimulando a troca de experiências e a identificação das melhores práticas;\n\nn) Estabelecer mecanismos de melhor aproveitamento do potencial de produção;\n\no) Elaborar ou solicitar estudos ou pareceres técnicos sobre matérias das suas competências;\n\np) Promover os estudos e a investigação necessária à orientação da produção para produtos mais adaptados ao mercado e ao gosto dos consumidores, designadamente através da pesquisa de métodos e instrumentos que garantam a qualidade dos produtos e o respeito do meio ambiente;\n\nq) Emitir parecer sobre o plano de actividades do IVDP;\n\nr) Emitir parecer sobre o orçamento e sobre o relatório anual de actividades e contas do IVDP;\n\ns) Aprovar os regulamentos necessários à boa execução das suas competências;\n\nt) Emitir parecer sobre as propostas da direcção de alteração do regime de taxas, bem como sobre a aquisição, alienação ou oneração dos bens imóveis do IVDP;\n\nu) Emitir parecer quanto à composição do conselho consultivo nos termos do artigo 20.º;\n\nv) Elaborar e aprovar o seu regimento interno;\n\nx) Exercer as demais competências que lhe forem conferidas por lei.\n\n2 - Compete ainda ao conselho interprofissional, em articulação com a direcção:\n\na) Promover a investigação e experimentação tendentes ao aperfeiçoamento da viticultura duriense e das práticas e tratamentos enológicos;\n\nb) Zelar pela protecção das denominações de origem «Porto» e «Douro» e indicação geográfica «Terras Durienses» nos mercados consumidores;\n\nc) Promover e divulgar, interna e externamente, a imagem de qualidade dos vinhos da RDD, nomeadamente através da execução do plano anual de promoção;\n\nd) Propor ao Governo as medidas convenientes para a concretização dos princípios fundamentais da RDD e dar parecer sobre os assuntos que aquele submeta à sua apreciação."
+  },
+  "96128a4213f5ef44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências das secções especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências das secções especializadas\n\n1 - Compete à secção especializada do conselho interprofissional relativa à denominação de origem «Porto»:\n\na) Elaborar o plano estratégico da respectiva denominação de origem;\n\nb) Pronunciar-se sobre as orientações da política vitivinícola específica da denominação de origem «Porto»;\n\nc) Definir os objectivos e aprovar o plano anual de promoção;\n\nd) Definir os ajustamentos anuais ao rendimento máximo por hectare referido no artigo 8.º do Regulamento da Denominação de Origem Vinho do Porto, aprovado pelo [Decreto-Lei n.º 166/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1986-228465), de 26 de Junho, determinando a quantidade de mosto que deve ser beneficiado em cada ano na RDD;\n\ne) Definir os critérios de distribuição do mosto generoso, tendo em conta a classificação das parcelas;\n\nf) Definir as normas e prazos a que devem obedecer as compras para efeitos de obtenção de capacidade de vendas;\n\ng) Emitir parecer em matéria de classificação das parcelas de vinhas aptas a produzir vinho do Porto.\n\n2 - Compete à secção especializada do conselho interprofissional relativa à denominação de origem «Douro»:\n\na) Elaborar os planos estratégicos da denominação de origem «Douro» e indicação geográfica «Terras Durienses»;\n\nb) Pronunciar-se sobre as orientações da política vitivinícola específica da denominação de origem «Douro»;\n\nc) Definir os objectivos e aprovar o plano anual de promoção;\n\nd) Definir os ajustamentos anuais do rendimento máximo por hectare referido no artigo 6.º do Estatuto da denominação de origem controlada «Douro», aprovado pelo [Decreto-Lei n.º 190/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2001-361505), de 25 de Junho;\n\ne) Emitir parecer em matéria de classificação das parcelas de vinhas aptas a produzirem vinhos do Douro e Terras Durienses."
+  },
+  "0369bf531d0b0b69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio técnico e comissões do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio técnico e comissões do conselho interprofissional\n\n1 - O conselho interprofissional pode solicitar à direcção o apoio técnico que se mostre necessário ao exercício das suas competências.\n\n2 - O conselho interprofissional pode ainda nomear, de entre os seus membros, uma ou mais comissões especializadas para preparar a tomada de deliberações ou para acompanhar a respectiva execução e, em casos devidamente justificados, solicitar pareceres ou recorrer a peritos externos."
+  },
+  "dc85269cae5d3328": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reuniões do conselho interprofissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reuniões do conselho interprofissional\n\n1 - O conselho interprofissional, quer em plenário quer por secções, reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que o seu presidente o convoque ou a solicitação de metade dos seus membros.\n\n2 - Os vice-presidentes reúnem mensalmente com a direcção ou sempre que o solicitem para coordenação da actividade dos dois órgãos, designadamente para preparação das reuniões do conselho interprofissional e acompanhamento da execução das deliberações deste órgão.\n\n3 - As reuniões do conselho regem-se pelo disposto no seu regimento interno, a elaborar e aprovar no prazo de três meses a contar da data de entrada em vigor do presente diploma."
+  },
+  "f2d8c4c9c32d1ab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direcção"
+  },
+  "7c56c6375a12eb19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Composição, nomeação e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição, nomeação e estatuto\n\n1 - A direcção do IVDP é constituída por um presidente e dois vogais.\n\n2 - Os membros da direcção são nomeados por despacho conjunto do Primeiro-Ministro e do Ministro da Agricultura, Desenvolvimento Rural e Pescas, após consulta às profissões.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal da direcção que designar.\n\n4 - A cessação do mandato do presidente implica a cessação simultânea dos mandatos dos vogais.\n\n5 - Os membros da direcção ficam sujeitos, para efeitos remuneratórios, ao Estatuto dos Gestores Públicos, devendo a respectiva remuneração ser fixada por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "746f12a930357c5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências genéricas\n\n1 - Compete à direcção:\n\na) Dirigir a actividade do IVDP, com vista à realização das suas atribuições e à execução das deliberações tomadas, no âmbito das respectivas competências, pelo conselho interprofissional, incluindo a publicação do comunicado de vindima anual;\n\nb) Fazer uso do cadastro das vinhas aptas a produzir vinho do Porto e vinho do Douro, cuja actualização compete à Casa do Douro;\n\nc) Emitir as autorizações de produção em função do disposto nas alíneas d) e e) do n.º 1 do artigo 8.º, e controlar a respectiva utilização nos termos da regulamentação aplicável;\n\nd) Defender as denominações de origem «Porto» e «Douro» e a indicação geográfica «Terras Durienses» nos mercados consumidores, combatendo por todas as formas as fraudes ou irregularidades, tanto no que se refere a qualidade como no que respeita à utilização de designações próprias do vinho do Porto e do vinho do Douro, podendo para tanto limitar, proibir ou condicionar a respectiva comercialização e constituir o IVDP como assistente em processos judiciais destinados à respectiva defesa;\n\ne) Determinar, quando se julgue conveniente, que em todas as adegas e armazéns destinados a vinho do Porto, vinho do Douro ou a vinho susceptível de obter estas denominações de origem, bem como a vinho Terras Durienses, se façam as modificações e melhoramentos aconselháveis por razões de higiene, aperfeiçoamento do processo produtivo ou de eficiência da fiscalização;\n\nf) Verificar e zelar pelo cumprimento e dar execução às leis e regulamentos respeitantes a produção, trânsito e comércio dos vinhos do Porto e do Douro, de mosto ou de vinhos susceptíveis de obter a denominação de origem «Porto» ou «Douro» e a indicação geográfica «Terras Durienses», bem como a adopção e utilização dos respectivos registos e demais instrumentos de controlo que sejam determinados;\n\ng) Instruir os processos de contra-ordenação e aplicar sanções às infracções detectadas pelos seus serviços ou por outras entidades, relativamente às quais disponha de competência;\n\nh) Elaborar e submeter à aprovação do Ministro da Agricultura, Desenvolvimento Rural e Pescas os planos de actividades, o orçamento, o relatório, a conta de gerência do IVDP e o seu regulamento interno;\n\ni) Exercer a gestão do pessoal do IVDP, constituir mandatários e designar representantes do IVDP;\n\nj) Gerir o património do IVDP, podendo adquirir, alienar ou onerar bens imóveis, após parecer do conselho interprofissional, assim como bens móveis, aceitar donativos, heranças ou legados, nos termos da lei geral, e ainda abrir e encerrar as delegações;\n\nl) Representar o IVDP em juízo e fora dele, activa e passivamente, podendo transigir, confessar ou desistir em quaisquer litígios, bem como celebrar convenções de arbitragem;\n\nm) Propor ao Governo alterações ao regime de taxas, ouvido o conselho interprofissional;\n\nn) Colaborar com o Governo na elaboração e proposta de medidas de apoio para a orientação, regularização e organização do mercado dos vinhos do Douro e Porto, bem como do vinho Terras Durienses;\n\no) Propor ao Ministro da Agricultura, Desenvolvimento Rural e Pescas a composição do conselho consultivo nos termos do artigo 20.º;\n\np) Praticar todos os actos referentes às atribuições do IVDP que não sejam da competência de outros órgãos.\n\n2 - Compete ainda à direcção, no que respeita à generalidade dos produtos vínicos existentes na RDD:\n\na) Controlar a procedência e trânsito dos vinhos e demais produtos vínicos que transitem na Região, bem como a sua documentação;\n\nb) Executar e fazer cumprir os preceitos legais, nacionais e comunitários e as orientações governamentais relacionadas com acções de apoio à orientação, regularização e organização do mercado dos vinhos do Douro e do Porto, bem como do vinho Terras Durienses;\n\nc) Exercer as demais competências que lhe forem delegadas pelo IVV ou determinadas pelo Governo.\n\n3 - À direcção cumpre ainda, mediante despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas, suprir eventuais omissões do conselho interprofissional, quando, após decurso de prazo suplementar não inferior a cinco dias, concedido para suprimento das mesmas, se reconheça que da sua manutenção resultem graves prejuízos para os interesses da RDD."
+  },
+  "ae24626c68f91afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências relativas à certificação, controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências relativas à certificação, controlo e fiscalização\n\n1 - Compete à direcção, no exercício das suas competências de certificação, controlo e fiscalização:\n\na) Condicionar e fiscalizar a produção e o comércio, controlando a exactidão do cadastro das vinhas e do recenseamento dos viticultores, e sua conformidade com os elementos declarados, efectuando as verificações adequadas para esse efeito e determinando as correcções necessárias;\n\nb) Receber e controlar as declarações de produção e de existência de mosto e vinho susceptível de obter as denominações de origem «Porto» e «Douro», bem como a indicação geográfica «Terras Durienses» e das aguardentes destinadas à sua elaboração;\n\nc) Organizar o registo das pessoas singulares ou colectivas que se dediquem ao comércio do vinho do Porto, do vinho do Douro e do vinho Terras Durienses, bem como dos vinificadores e armazenistas, verificando, no momento da respectiva inscrição e enquanto esta se mantiver, o cumprimento das condições legalmente estabelecidas para o exercício dessa actividade;\n\nd) Inventariar as instalações de vinificação, armazenagem e engarrafamento existentes na RDD e no entreposto de Vila Nova de Gaia, verificando as existências de vinhos e aguardentes de todos os produtores e comerciantes de vinho do Porto, de vinho do Douro, ou de vinho Terras Durienses, bem como dos vinhos susceptíveis de obterem estas denominações de origem e indicação geográfica, através dos registos ou, fisicamente, nos locais de elaboração e armazenagem;\n\ne) Controlar as existências e os movimentos dos vinhos do Porto, do Douro e Terras Durienses e dos vinhos susceptíveis de obter estas denominações de origem ou indicação geográfica, bem como as aguardentes destinadas à sua elaboração, abrindo e movimentando as respectivas contas-correntes e controlando os registos, com base nas declarações de produção, de existência, de movimento e de introdução no consumo;\n\nf) Determinar e controlar a capacidade de vendas dos comerciantes de vinho do Porto, em função do estabelecido nas leis e regulamentos em vigor;\n\ng) Emitir e certificar a documentação geral respeitante à procedência e trânsito de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou vinho susceptível de obter essas denominações de origem ou indicação geográfica, bem como das aguardentes destinadas à elaboração de vinho do Porto ou do Moscatel do Douro;\n\nh) Controlar a circulação de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, podendo para tanto fiscalizar os produtos vínicos que circulem ou se destinem à RDD ou ao entreposto de Vila Nova de Gaia;\n\ni) Certificar as denominações de origem e indicação geográfica, emitindo certificados de existência, boletins e certificados de análise e selos de garantia, segundo modelos aprovados, de utilização obrigatória;\n\nj) Organizar a inscrição e condicionar o uso de todas as marcas, rótulos e embalagens destinados à identificação dos vinhos do Porto, do Douro e Terras Durienses, podendo para tanto exigir os elementos que entenda convenientes para apreciação da licitude do seu uso;\n\nl) Exigir dos produtores e comerciantes de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, a exibição dos elementos de escrituração, ou outros, para esclarecimento de quaisquer dúvidas que se levantem quanto ao cumprimento da legislação aplicável à respectiva actividade;\n\nm) Recolher amostras e levantar autos das diligências que os serviços de fiscalização efectuem, bem como elaborar participações a remeter às entidades competentes, consoante os casos;\n\nn) Selar quaisquer recipientes de produtores ou comerciantes de vinho do Porto, de vinho do Douro, de vinho Terras Durienses ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, proibindo ou condicionando a utilização do seu conteúdo, quando haja fundada suspeita da prática de actos ilícitos ou de incumprimento das determinações do IVDP em matéria das suas competências;\n\no) Proibir a expedição e comercialização de vinho do Porto, de vinho do Douro ou de vinho Terras Durienses em caso de detecção de irregularidades cuja gravidade o justifique, bem como a venda a retalho ou para consumo público de vinho do Porto, de vinho do Douro ou de produtos como tal designados em infracção à legislação aplicável.\n\n2 - Para efeitos das acções previstas neste artigo, os trabalhadores do IVDP, devidamente credenciados, são considerados agentes de autoridade, podendo solicitar às autoridades judiciais, fiscais, alfandegárias e policiais toda a colaboração necessária para a execução de quaisquer medidas de fiscalização ou destinadas à efectivação das proibições e condicionamentos previstos neste artigo, devendo os agentes económicos fornecer todos os elementos que lhes solicitarem e abster-se de impedir ou dificultar a respectiva acção.\n\n3 - O IVDP pode vistoriar, a qualquer hora, através dos seus agentes de fiscalização, as adegas, armazéns ou escritórios de qualquer produtor ou comerciante de vinho do Porto, de vinho do Douro, de vinho Terras Durienses ou de vinhos susceptíveis de obter estas denominações de origem ou indicações geográficas, ou quaisquer outras instalações em que os mesmos sejam comercializados, ou em que possam encontrar-se produtos utilizados para a respectiva produção.\n\n4 - Os elementos recolhidos no exercício de acções de controlo e fiscalização ou com estas conexos são confidenciais, constituindo a sua divulgação falta disciplinar grave.\n\n5 - Os certificados de análise emitidos pelos serviços técnicos do IVDP, referentes a análises físico-químicas e organolépticas de produtos vínicos, constituem documentos autênticos, fazendo prova plena dos resultados neles atestados.\n\n6 - A actualização do ficheiro descritivo das parcelas de vinha aptas a produzir vinho do Porto ou vinho do Douro, nomeadamente os elementos necessários à classificação das parcelas de acordo com a [Portaria n.º 413/2001](https://diariodarepublica.pt/dr/detalhe/portaria/413-2001-163642), de 18 de Abril, é assegurada pela Casa do Douro, que os disponibiliza ao IVDP, nos termos do número seguinte, mediante o pagamento de remuneração a fixar por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O IVDP define o caderno de encargos relativo às condições de administração, gestão e actualização dos elementos necessários à avaliação do potencial qualitativo das parcelas de vinha para produção de vinho susceptível de obtenção das denominações de origem «Porto» e «Douro» e da indicação geográfica «Terras Durienses», designadamente no que respeita à organização dos registos, objectivos de actualização a atingir, política de acessos e procedimentos de auditoria e controlo.\n\n8 - O IVDP promove a compatibilização de conteúdos do cadastro da Casa do Douro com o Sistema de Informação Georreferenciada Vitícola - Douro, nos termos dos n.os 6 e 7 deste artigo."
+  },
+  "a7ca08a855ea63c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões\n\n1 - A direcção reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de outro dos seus membros.\n\n2 - A direcção reúne ainda com os vice-presidentes do conselho interprofissional, nos termos do n.º 2 do artigo 10.º"
+  },
+  "dd182a11fdb194d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competências do presidente da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências do presidente da direcção\n\n1 - Compete ao presidente da direcção do IVDP:\n\na) Convocar, presidir e dirigir as reuniões da direcção e do conselho interprofissional;\n\nb) Assegurar as relações do IVDP com os outros serviços da Administração Pública;\n\nc) Representar o IVDP, salvo quando a lei exija outra forma de representação;\n\nd) Decidir no âmbito dos processos de contra-ordenação e sobre a aplicação das respectivas sanções, competência que pode delegar nos outros membros da direcção, sem a possibilidade de subdelegar.\n\n2 - Considera-se delegada no presidente a prática dos actos de gestão que, pela sua natureza e urgência, não possam aguardar reunião do órgão competente.\n\n3 - Os actos do presidente praticados ao abrigo do disposto no número anterior devem ser sujeitos a ratificação na primeira reunião do órgão a que respeitem."
+  },
+  "c2848331837174f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho fiscal"
+  },
+  "c9ddbcc12e428a50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição e remuneração\n\n1 - O conselho fiscal do IVDP é composto por três membros, um dos quais o presidente, a nomear pelo Ministro das Finanças, revisor oficial de contas.\n\n2 - Os dois vogais, indicados pelo conselho interprofissional, um representante da produção e o outro do comércio, são nomeados pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, não podendo a escolha recair sobre os membros daquele conselho.\n\n3 - O presidente tem voto de qualidade.\n\n4 - A remuneração dos membros do conselho fiscal é fixada por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "4779b00433e62639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\nCompete ao conselho fiscal:\n\na) Verificar regularmente a execução das deliberações do conselho interprofissional e da direcção do IVDP;\n\nb) Examinar periodicamente a situação financeira e económica do IVDP e proceder à verificação dos valores patrimoniais;\n\nc) Emitir parecer sobre o orçamento, relatório e contas do IVDP;\n\nd) Emitir parecer sobre a aquisição, oneração ou alienação dos bens imóveis do IVDP;\n\ne) Emitir parecer sobre qualquer outro assunto que lhe seja submetido pelos restantes órgãos do IVDP;\n\nf) Participar ao Ministro da Agricultura, Desenvolvimento Rural e Pescas as irregularidades que detecte."
+  },
+  "87dff28422c70823": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reuniões\n\n1 - O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por iniciativa sua ou a solicitação de qualquer dos seus membros.\n\n2 - A pedido da direcção ou do conselho interprofissional, os membros do conselho fiscal podem estar presentes em reuniões daqueles órgãos."
+  },
+  "21bd916607ba4cf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres\n\nSão deveres dos membros do conselho fiscal:\n\na) Exercer uma fiscalização conscienciosa e imparcial;\n\nb) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas funções ou por causa delas."
+  },
+  "fdf619f9ee799165": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho consultivo"
+  },
+  "7b1f8fad89952487": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição\n\nO conselho consultivo é composto por individualidades de reconhecido mérito nos domínios relevantes para a RDD e para os seus vinhos, a nomear por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta da direcção e após parecer do conselho interprofissional."
+  },
+  "444734d9ff7b3a8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\nAo conselho consultivo compete pronunciar-se, a solicitação da direcção ou do conselho interprofissional, sobre as matérias que estes considerem relevantes."
+  },
+  "9bb232a87339c3a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reuniões\n\nO conselho consultivo reúne sempre que a direcção e ou o conselho interprofissional o solicitarem."
+  },
+  "4e544b566deca60a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Disposições gerais"
+  },
+  "50bb55ccd25734ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mandatos\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 11.º, o mandato dos membros dos órgãos do IVDP tem a duração de três anos, podendo ser renovado por uma ou mais vezes, continuando, porém, os seus membros em exercício até à efectiva substituição ou declaração de cessação de funções.\n\n2 - Os órgãos do IVDP consideram-se constituídos para todos os efeitos desde que se encontre nomeada a maioria dos seus membros."
+  },
+  "4b1929d162855734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deliberações\n\n1 - Para que os órgãos do IVDP deliberem validamente é indispensável a presença da maioria dos respectivos membros em exercício.\n\n2 - As deliberações dos órgãos do IVDP são tomadas por maioria dos votos expressos, tendo o presidente, ou quem o substitua, voto de qualidade.\n\n3 - Não é permitido o voto por procuração, salvo no conselho interprofissional, onde os membros referidos na alínea c) do n.º 3 do artigo 6.º podem representar um outro, sem possibilidade de acumular representações."
+  },
+  "4bbb67d7ae1fe690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Actas\n\nDe todas as reuniões são lavradas actas em livros próprios."
+  },
+  "e49848af836e7fb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Convocatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Convocatórias\n\n1 - As reuniões dos órgãos só são válidas se as convocatórias forem feitas a todos os seus membros, sem prejuízo da sanação dos respectivos vícios quando todos os membros do órgão compareçam à reunião e não suscitem oposição à sua realização.\n\n2 - As reuniões do conselho interprofissional devem ser convocadas nominalmente por meio de carta registada, expedida com a antecedência mínima de oito dias úteis.\n\n3 - Consideram-se validamente convocados os membros que:\n\na) Tenham recebido o aviso convocatório;\n\nb) Tenham assistido a qualquer reunião anterior em que tenham sido fixados o dia e a hora da reunião;\n\nc) Compareçam à reunião."
+  },
+  "cbeca9fd1a43c62a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Vinculação\n\nO IVDP obriga-se:\n\na) Pela assinatura conjunta de dois membros da direcção ou de um membro e um representante com poderes para esse efeito;\n\nb) Pela assinatura de um membro da direcção que para tanto tenha recebido, em acta, delegação da direcção para acto ou actos determinados;\n\nc) Pela assinatura do funcionário do IVDP em quem a direcção tenha delegado poderes para esse efeito;\n\nd) Pela assinatura de mandatário legalmente constituído, nos termos dos poderes que lhe hajam sido conferidos;\n\ne) Quanto aos actos de mero expediente de que não resultem obrigações para o IVDP, mediante assinatura de qualquer membro da direcção ou pelos funcionários a quem tal poder tenha sido conferido."
+  },
+  "c189bcaafcf4c96d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Gestão patrimonial e financeira"
+  },
+  "362c24c8806ea3ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\nConstituem receitas do IVDP:\n\na) O produto da venda de bens e prestação de serviços;\n\nb) O produto das taxas cobradas sobre o vinho ou mosto produzido passível de obtenção das denominações de origem «Porto» e «Douro» e indicação geográfica «Terras Durienses»;\n\nc) O produto das taxas cobradas sobre o vinho do Porto, o vinho do Douro e o vinho Terras Durienses, incluindo o da venda de cápsulas e selos de garantia;\n\nd) O produto das taxas cobradas sobre a aguardente destinada ao vinho do Porto e ao Moscatel do Douro;\n\ne) Os rendimentos de bens próprios e os provenientes da sua actividade;\n\nf) A percentagem do produto das coimas aplicadas, bem como da venda de bens apreendidos, nos termos a fixar em legislação própria, revertendo sempre 60% para o Estado;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer outra forma lhe sejam atribuídas."
+  },
+  "7375d4af684866c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas\n\nSão despesas do IVDP:\n\na) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições que lhe estão confiadas;\n\nb) Os custos de aquisição, manutenção e beneficiação dos bens, equipamentos e dos serviços prestados;\n\nc) A promoção dos vinhos do Porto, do Douro e Terras Durienses."
+  },
+  "381ad0845b80d507": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Ajudas de custo e despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ajudas de custo e despesas de transporte\n\nOs membros dos órgãos têm direito, nas suas deslocações em serviço, ao abono de ajudas de custo e ao pagamento das despesas de transporte, nos termos fixados por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "0244f39f0773b9e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Gestão patrimonial e financeira\n\nA gestão patrimonial e financeira, incluindo a organização da contabilidade, rege-se pelas normas aplicáveis aos serviços e fundos autónomos."
+  },
+  "e3cff5ac7ead7943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Tutela\n\n1 - O plano de actividades, o orçamento, bem como o relatório e contas anuais carecem da aprovação do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - O relatório e contas, acompanhados de parecer do conselho fiscal, devem ser submetidos a aprovação tutelar até 30 de Abril do ano seguinte àquele a que respeitam."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "bbda064ba55e82c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Quadro de pessoal\n\n1 - O quadro do pessoal do IVDP, assim como o regime, as carreiras, as categorias e as remunerações do pessoal são aprovados por despacho conjunto dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - O pessoal do IVDP rege-se, na generalidade, pelas normas aplicáveis ao contrato individual de trabalho e, na especialidade, pelo disposto no regulamento interno do IVDP.\n\n3 - A contratação de pessoal deve ter lugar mediante um procedimento administrativo que observe os seguintes requisitos principais:\n\na) Publicidade da oferta de emprego pelos meios mais adequados;\n\nb) Aplicação de métodos e critérios objectivos de avaliação e selecção;\n\nc) Fundamentação da decisão tomada."
+  },
+  "b047f01ffb30fc22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime de segurança social\n\n1 - Os trabalhadores do IVDP são inscritos na respectiva instituição de segurança social, com excepção daqueles que, à data de entrada em vigor do presente diploma, estiverem inscritos na Caixa Geral de Aposentações e na ADSE, que optem pela manutenção destes regimes.\n\n2 - Os membros da direcção ficam sujeitos ao regime de segurança social dos trabalhadores independentes, salvo se nomeados em comissão de serviço ou requisição, caso em que beneficiam do sistema de protecção social, incluindo os benefícios de aposentação ou reforma e sobrevivência inerentes ao respectivo quadro de origem."
+  },
+  "0e0fd62da39cc295": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Mobilidade\n\n1 - Os funcionários do Estado, designadamente os que ainda prestam serviço na Casa do Douro pertencentes ao quadro especial transitório da Secretaria-Geral do Ministério da Agricultura, Desenvolvimento Rural e Pescas, criado pelo [Decreto-Lei n.º 424/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1999-667356), de 21 de Outubro, bem como os funcionários de institutos públicos, autarquias locais e os trabalhadores das empresas públicas, podem ser chamados a desempenhar funções no IVDP em regime de requisição, destacamento ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.\n\n2 - Os trabalhadores do quadro do IVDP podem ser chamados a desempenhar funções no Estado, em institutos públicos ou em autarquias locais em regime de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos."
+  },
+  "92962e29846f7214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Financiamento da Caixa Geral de Aposentações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Financiamento da Caixa Geral de Aposentações\n\nO IVDP contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante igual ao das quotas pagas pelos trabalhadores abrangidos pelo regime geral de protecção social da função pública ao seu serviço."
+  },
+  "d91b6c96eee01c0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências relativas à certificação, controlo e fiscalização",
+   "in_force_from": "2012-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23."
+   ],
+   "markdown": "###### Artigo 13.º — Competências relativas à certificação, controlo e fiscalização\n\n1 - Compete à direcção, no exercício das suas competências de certificação, controlo e fiscalização:\n\na) Condicionar e fiscalizar a produção e o comércio, controlando a exactidão do cadastro das vinhas e do recenseamento dos viticultores, e sua conformidade com os elementos declarados, efectuando as verificações adequadas para esse efeito e determinando as correcções necessárias;\n\nb) Receber e controlar as declarações de produção e de existência de mosto e vinho susceptível de obter as denominações de origem «Porto» e «Douro», bem como a indicação geográfica «Terras Durienses» e das aguardentes destinadas à sua elaboração;\n\nc) Organizar o registo das pessoas singulares ou colectivas que se dediquem ao comércio do vinho do Porto, do vinho do Douro e do vinho Terras Durienses, bem como dos vinificadores e armazenistas, verificando, no momento da respectiva inscrição e enquanto esta se mantiver, o cumprimento das condições legalmente estabelecidas para o exercício dessa actividade;\n\nd) Inventariar as instalações de vinificação, armazenagem e engarrafamento existentes na RDD e no entreposto de Vila Nova de Gaia, verificando as existências de vinhos e aguardentes de todos os produtores e comerciantes de vinho do Porto, de vinho do Douro, ou de vinho Terras Durienses, bem como dos vinhos susceptíveis de obterem estas denominações de origem e indicação geográfica, através dos registos ou, fisicamente, nos locais de elaboração e armazenagem;\n\ne) Controlar as existências e os movimentos dos vinhos do Porto, do Douro e Terras Durienses e dos vinhos susceptíveis de obter estas denominações de origem ou indicação geográfica, bem como as aguardentes destinadas à sua elaboração, abrindo e movimentando as respectivas contas-correntes e controlando os registos, com base nas declarações de produção, de existência, de movimento e de introdução no consumo;\n\nf) Determinar e controlar a capacidade de vendas dos comerciantes de vinho do Porto, em função do estabelecido nas leis e regulamentos em vigor;\n\ng) Emitir e certificar a documentação geral respeitante à procedência e trânsito de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou vinho susceptível de obter essas denominações de origem ou indicação geográfica, bem como das aguardentes destinadas à elaboração de vinho do Porto ou do Moscatel do Douro;\n\nh) Controlar a circulação de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, de mosto ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, podendo para tanto fiscalizar os produtos vínicos que circulem ou se destinem à RDD ou ao entreposto de Vila Nova de Gaia;\n\ni) Certificar as denominações de origem e indicação geográfica, emitindo certificados de existência, boletins e certificados de análise e selos de garantia, segundo modelos aprovados, de utilização obrigatória;\n\nj) Organizar a inscrição e condicionar o uso de todas as marcas, rótulos e embalagens destinados à identificação dos vinhos do Porto, do Douro e Terras Durienses, podendo para tanto exigir os elementos que entenda convenientes para apreciação da licitude do seu uso;\n\nl) Exigir dos produtores e comerciantes de vinho do Porto, de vinho do Douro e de vinho Terras Durienses, ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, a exibição dos elementos de escrituração, ou outros, para esclarecimento de quaisquer dúvidas que se levantem quanto ao cumprimento da legislação aplicável à respectiva actividade;\n\nm) Recolher amostras e levantar autos das diligências que os serviços de fiscalização efectuem, bem como elaborar participações a remeter às entidades competentes, consoante os casos;\n\nn) Selar quaisquer recipientes de produtores ou comerciantes de vinho do Porto, de vinho do Douro, de vinho Terras Durienses ou de vinho susceptível de obter estas denominações de origem ou indicação geográfica, proibindo ou condicionando a utilização do seu conteúdo, quando haja fundada suspeita da prática de actos ilícitos ou de incumprimento das determinações do IVDP em matéria das suas competências;\n\no) Proibir a expedição e comercialização de vinho do Porto, de vinho do Douro ou de vinho Terras Durienses em caso de detecção de irregularidades cuja gravidade o justifique, bem como a venda a retalho ou para consumo público de vinho do Porto, de vinho do Douro ou de produtos como tal designados em infracção à legislação aplicável.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Os certificados de análise emitidos pelos serviços técnicos do IVDP, referentes a análises físico-químicas e organolépticas de produtos vínicos, constituem documentos autênticos, fazendo prova plena dos resultados neles atestados.\n\n6 - A actualização do ficheiro descritivo das parcelas de vinha aptas a produzir vinho do Porto ou vinho do Douro, nomeadamente os elementos necessários à classificação das parcelas de acordo com a [Portaria n.º 413/2001](https://diariodarepublica.pt/dr/detalhe/portaria/413-2001-163642), de 18 de Abril, é assegurada pela Casa do Douro, que os disponibiliza ao IVDP, nos termos do número seguinte, mediante o pagamento de remuneração a fixar por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O IVDP define o caderno de encargos relativo às condições de administração, gestão e actualização dos elementos necessários à avaliação do potencial qualitativo das parcelas de vinha para produção de vinho susceptível de obtenção das denominações de origem «Porto» e «Douro» e da indicação geográfica «Terras Durienses», designadamente no que respeita à organização dos registos, objectivos de actualização a atingir, política de acessos e procedimentos de auditoria e controlo.\n\n8 - O IVDP promove a compatibilização de conteúdos do cadastro da Casa do Douro com o Sistema de Informação Georreferenciada Vitícola - Douro, nos termos dos n.os 6 e 7 deste artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23."
+  }
+ }
+}

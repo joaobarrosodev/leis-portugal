@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-09-03'
+version_history:
+  file: decreto-lei-398-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-09-03'
+    amending: pt:dre:243914:por
+    amending_title: Decreto-Lei n.º 148/96
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:44:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 148/96. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-398-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,21 +151,33 @@ Considerando, finalmente, que após a publicação do já mencionado [Decreto-Le
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da constituição, o Governo decreta o seguinte:
 
-Artigo 1.º O tempo de serviço docente prestado nos seminários menores por professores do ensino oficial é contado para todos os efeitos legais, nomeadamente aposentação, fases, diuturnidades e concursos.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Para efeitos de aplicação do disposto no artigo anterior, o tempo de serviço a contar não poderá ter sido prestado em acumulação com o prestado na função pública, salvo se o serviço prestado no ensino oficial e o acumulado nos seminários menores não somarem um número de horas superior ao correspondente a horário completo.
+O tempo de serviço docente prestado nos seminários menores por professores em exercício de funções nos termos da alínea b) do artigo 2.º do Decreto-Lei n.º 293-C/86, de 12 de Setembro, é contado para todos os efeitos legais.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1996-243914), publicado em 1996-08-29.
+
+###### Artigo 2.º
+
+1 - Para efeitos de aplicação do disposto no artigo anterior, o tempo de serviço a contar não poderá ter sido prestado em acumulação com o prestado na função pública, salvo se o serviço prestado no ensino oficial e o acumulado nos seminários menores não somarem um número de horas superior ao correspondente a horário completo.
 
 2 - A partir da entrada em vigor do [Decreto-Lei n.º 293-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-c-1986-587624), de 12 de Setembro, o tempo de serviço prestado nos seminários menores só pode ser computado para os efeitos considerados no presente diploma se os interessados possuírem habilitação própria ou suficiente definida para os diferentes graus de ensino público no ano lectivo em que os respectivos professores iniciarem as suas funções docentes nos seminários menores.
 
-Art. 3.º - 1 - Compete à Direcção-Geral do Ensino Básico e Secundário confirmar o tempo de serviço docente prestado nos seminários menores, bem como as condições em que o mesmo foi prestado, de acordo com os princípios estabelecidos no presente diploma.
+###### Artigo 3.º
+
+1 - Compete à Direcção-Geral do Ensino Básico e Secundário confirmar o tempo de serviço docente prestado nos seminários menores, bem como as condições em que o mesmo foi prestado, de acordo com os princípios estabelecidos no presente diploma.
 
 2 - Para efeitos do disposto no número anterior, o respectivo seminário menor passará competente certidão de tempo e qualidade de serviço, a qual deverá ser assinada pelo respectivo reitor, em cuja assinatura será aposto selo branco ou carimbo a óleo em uso.
 
 3 - A certidão referida no número anterior deverá ser apresentada na Direcção-Geral do Ensino Básico e Secundário.
 
-Art. 4.º Para efeitos de aplicação do presente diploma e a partir da sua entrada em vigor, a Direcção-Geral do Ensino Básico e Secundário só confirmará o tempo de serviço docente prestado nos seminários menores desde que cada um deles, até 31 de Outubro de cada ano, remeta àquele serviço a relação dos professores em exercício de funções, bem como a indicação das habilitações de que são portadores.
+###### Artigo 4.º
 
-Art. 5.º Ao regime instituído pelo presente diploma aplicam-se subsidiariamente as disposições legais constantes do [Decreto-Lei n.º 169/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1985-151527), de 20 de Maio, alterado pelo [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), de 21 de Janeiro, com as adaptações decorrentes da situação específica aos seminários menores.
+Para efeitos de aplicação do presente diploma e a partir da sua entrada em vigor, a Direcção-Geral do Ensino Básico e Secundário só confirmará o tempo de serviço docente prestado nos seminários menores desde que cada um deles, até 31 de Outubro de cada ano, remeta àquele serviço a relação dos professores em exercício de funções, bem como a indicação das habilitações de que são portadores.
+
+###### Artigo 5.º
+
+Ao regime instituído pelo presente diploma aplicam-se subsidiariamente as disposições legais constantes do [Decreto-Lei n.º 169/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1985-151527), de 20 de Maio, alterado pelo [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), de 21 de Janeiro, com as adaptações decorrentes da situação específica aos seminários menores.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Alberto José Nunes Correia Ralha.
 

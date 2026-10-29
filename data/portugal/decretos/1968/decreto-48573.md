@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-03-07'
+version_history:
+  file: decreto-48573.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-03-07'
+    amending: pt:dre:398776:por
+    amending_title: Decreto-Lei n.º 76/72
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:03:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 76/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1968/decreto-48573.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,13 +118,21 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º O quadro do Comando do Corpo de Polícia de Segurança Pública de Macau, a que se refere o artigo 1.º do [Decreto n.º 46597](https://diariodarepublica.pt/dr/detalhe/decreto/46597-1965-510652), de 16 de Outubro de 1965, passa a ter a seguinte constituição:
+###### Artigo 1.º
+
+O quadro do Comando do Corpo de Polícia de Segurança Pública de Macau, a que se refere o artigo 1.º do [Decreto n.º 46597](https://diariodarepublica.pt/dr/detalhe/decreto/46597-1965-510652), de 16 de Outubro de 1965, passa a ter a seguinte constituição:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21400/14361436.pdf)
 
-Art. 2.º No quadro dos Serviços de Aeronáutica Civil de Moçambique, os lugares de director de aeródromo de 1.ª classe (director de aeroporto) passam a designar-se «director de aeroporto de 1.ª classe», sendo-lhes atribuída a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino e exercendo as funções de directores dos aeroportos internacionais de Lourenço Marques e Beira.
+###### Artigo 2.º
 
-Art. 3.º Nos Serviços de Administração Civil da província de Moçambique são introduzidas as seguintes alterações:
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 76/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1972-398776), publicado em 1972-03-07.
+
+###### Artigo 3.º
+
+Nos Serviços de Administração Civil da província de Moçambique são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 

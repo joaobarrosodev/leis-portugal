@@ -1,0 +1,477 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643305:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-06-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d8498d69df1c3013",
+    "8dbed62fb75d1c83",
+    "fdcee5c94ccd2595",
+    "24dcecb8c9d0a862"
+   ]
+  },
+  {
+   "date": "1985-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408539:por",
+     "title": "Decreto-Lei n.º 199/74",
+     "published": "1974-05-14",
+     "dre_path": "/dr/detalhe/decreto-lei/199-1974-408539"
+    },
+    {
+     "id": "pt:dre:177825:por",
+     "title": "Decreto-Lei n.º 456/85",
+     "published": "1985-10-29",
+     "dre_path": "/dr/detalhe/decreto-lei/456-1985-177825"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "d8498d69df1c3013",
+    "904b5bb486bcd34f",
+    "1d7214657348e6c4",
+    "3fbbe4b73b037354",
+    "375ffec87eb59af5",
+    "cea846945842e37b",
+    "057cdf36bdef40d5",
+    "0150588be5b5fb05",
+    "18ff0c5a7bedf388",
+    "a2fd2e139934167a",
+    "acbdd2a1fa1bd905",
+    "dd55c0e769c05ed1",
+    "54ffa641f835b4b7",
+    "963d1434d8405660",
+    "b08b2c7c1727636b",
+    "97ad842fa0ab9838",
+    "c696b8440729a51f",
+    "0beae3d21a089e37",
+    "144c173f08c862bf",
+    "a023c9acaa09ca7b",
+    "dd34c78d5c8951ee",
+    "80dd8be76c02074e",
+    "746b0b592b358430",
+    "276d4688f4a23578",
+    "94bedf865b6f261c",
+    "1027f9c2ca2a1d48",
+    "f62a9cb41cbb7428",
+    "6a6a2d06a7f222d7",
+    "400d8db61d77196f",
+    "0624f80f4feb1e69",
+    "e249165e1e9d5723",
+    "22fda2b1a635247b",
+    "5859ec13265aa05b",
+    "5323e4ccbe843ea4",
+    "922dcef2ff8eb512",
+    "b97e8d7e04e55b5f",
+    "20760ab95a971927",
+    "c387ef9c5d534b93",
+    "5fa6aac7de237d5e",
+    "4b85c98ccf229542",
+    "641a236ffb9df609",
+    "8d84770b38b68d1f",
+    "409ad0458dc2bce1",
+    "e4fa93592e73d052",
+    "5e40808e2304c0aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "d8498d69df1c3013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho\n\n1. A frequência dos espectáculos públicos, em face das realidades da sociedade actual (com espectadores muitas vezes mais bem informados e exigentes e espectáculos construídos segundo novas técnicas e versando temas de toda a espécie, sem qualquer consideração de ordem moral), suscitou já, em vários países, a necessidade de adaptar e actualizar as tabelas e as fórmulas de classificação.\n\nAssim, na França, na Inglaterra e nos Estados Unidos a classificação para adultos foi elevada de 17 e de 16 anos para 18, utilizando-se letras, nos dois últimos, para designar os diferentes escalões de espectadores.\n\nPareceu conveniente proceder-se, também entre nós, à actualização das tabelas e fórmulas estabelecidas nos Decretos-Leis n.os 41051 e 42660.\n\nRealizou-se, para esse efeito, um amplo inquérito nacional, em que foram convidados a pronunciar-se os críticos, empresários, instituições culturais, professores, educadores, os organismos corporativos relacionados com os espectáculos, a Comissão de Exame e Classificação dos Espectáculos, a Comissão de Literatura e Espectáculos para Menores, etc.\n\nEssa consulta constituiu uma decisiva contribuição para a elaboração da tabela que se estabelece neste diploma, tendo em conta não só o desenvolvimento espiritual e físico correspondente aos diversos escalões dos nossos espectadores, como também o grau dos seus conhecimentos na sociedade presente.\n\n2. A constituição da Comissão de Exame e Classificação dos Espectáculos é alterada por forma a permitir o seu desdobramento em dois grupos de vogais distintos, um especializado na apreciação dos espectáculos de teatro e outro na apreciação dos espectáculos de cinema.\n\nTambém se estabelece que os recursos a interpor pelo sector privado das decisões da Comissão de Exame e Classificação dos Espectáculos sejam apreciados e resolvidos por uma comissão de recurso independente daquela e onde passam a figurar os representantes da Corporação dos Espectáculos.\n\n3. A Comissão de Literatura e Espectáculos para Menores contará agora com um representante da Corporação da Imprensa e Artes Gráficas, como realmente se impunha.\n\nTambém fica estabelecido, em seu favor, um fundo de depósito legal das publicações nacionais e estrangeiras destinadas à infância e à juventude, que são a matéria-prima indispensável à sua actividade.\n\nEsta Comissão terá também a incumbência de proporcionar aos pais e educadores informações regulares sobre as publicações aprovadas e as obras recomendadas.\n\n4. Entretanto, reconhecida a conveniência de contemplar num só diploma toda a matéria respeitante a classificação dos espectáculos e divertimentos públicos, optou-se ainda por reunir no presente diploma as disposições dos Decretos-Leis n.os 41051 e 42660 que se lhe referem e cuja forma houve o propósito de respeitar sempre que se lhes não fizesse corresponder qualquer alteração de conteúdo.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8dbed62fb75d1c83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da classificação dos espectáculos e divertimentos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da classificação dos espectáculos e divertimentos públicos\n\nArtigo 1.º - 1. Para efeitos de autorização e frequência por menores, os espectáculos e divertimentos públicos classificam-se em quatro grupos, designados, respectivamente, pelas letras A, B, C e D.\n\n2. A exibição de anúncios de filmes (trailers) não depende da classificação do filme anunciado, mas apenas da classificação que ao próprio anúncio for dada.\n\n3. Quando façam parte do mesmo espectáculo elementos classificados em grupos diferentes, a classificação do espectáculo será determinada pela do elemento cujo grupo corresponder ao escalão de idade mais elevada.\n\n4. Quando no mesmo edifício se realizem simultâneamente espectáculos ou divertimentos sujeitos a classificação diferente, serão todos classificados no grupo a que corresponder o escalão de idade mais elevada, desde que não seja possível exercer eficaz fiscalização na passagem de uns para outros recintos.\n\nArt. 2.º - 1. A frequência por menores dos espectáculos e divertimentos públicos obedecerá às seguintes regras:\n\na) Os menores de 4 anos não podem assistir a quaisquer espectáculos ou divertimentos públicos;\n\nb) Aos espectáculos e divertimentos classificados no grupo A não é permitida a assistência de menores de 6 anos;\n\nc) Aos classificados no grupo B não é permitida a assistência de menores de 10 anos;\n\nd) Aos classificados no grupo C não é permitida a assistência de menores de 14 anos;\n\ne) Aos classificados no grupo D não é permitida a assistência de menores de 18 anos, salvo quando emancipados.\n\n2. Os menores de 4 a 6 anos poderão assistir aos espectáculos do grupo A quando especialmente classificados na modalidade de «teatro infantil».\n\n3. Sempre que se suscitem dúvidas sobre a idade dos menores, normalmente avaliada pela que aparentem, deverão as empresas ou entidades promotoras dos espectáculos e seus empregados, os agentes encarregados da fiscalização e as autoridades policiais e administrativas negar a entrada desses menores, desde que não seja apresentado documento comprovativo da idade invocada.\n\nArt. 3.º - 1. São classificados no grupo A (para todos) os espectáculos e divertimentos que não ofereçam qualquer inconveniente à formação moral e intelectual dos jovens e não terminem depois das 22 horas.\n\n2. Incluem-se neste grupo, designadamente, os espectáculos desportivos, com excepção da luta livre e do boxe, os espectáculos de ginástica e tauromáquicos, os concertos musicais, as audições efectuadas por grupos orfeónicos e as exibições de carácter folclórico.\n\n3. Aos sábados e véspera dos dias de feriado os espectáculos e divertimentos classificados neste grupo poderão prolongar-se até às 24 horas, com meia hora de tolerância, a eles podendo assistir, quando devidamente acompanhados, os maiores de 6 anos.\n\n4. Nas localidades onde não haja matinées e aos sábados e véspera dos dias de feriado se não realizem espectáculos, a permissão referida no número anterior ter-se-á como dada para os domingos e dias de feriado.\n\n5. Para efeito do disposto no n.º 4, são equiparados aos feriados os dias das férias escolares.\n\n6. A Comissão de Exame e Classificação dos Espectáculos usará de particular cuidado na classificação, no grupo A, dos filmes de fundo e das peças teatrais.\n\nArt. 4.º - 1. Os espectáculos classificados no grupo A, especialmente destinados às crianças, devem conter assuntos variados e proporcionar-lhes recreação adequada, sem perder de vista o aumento dos seus conhecimentos úteis.\n\n2. Os programas dos espectáculos referidos no número anterior deverão sempre ser organizados de modo a evitar a fadiga nas crianças e os filmes neles incluídos falados ou legendados em português.\n\nArt. 5.º - 1. Em circunstâncias excepcionais e mediante despacho do Secretário de Estado da Informação e Turismo, poderá ser autorizada a assistência:\n\n1.º De crianças de mais de 6 anos, quando devidamente acompanhadas, a espectáculos nocturnos apropriados para a sua idade, fora dos casos compreendidos nos n.os 3 e 4 do artigo 3.º;\n\n2.º De crianças de mais de 4 anos, quando devidamente acompanhadas, a espectáculos que se não prolonguem para além das 22 horas e que, pelo seu programa, pelo ambiente ou por quaisquer outras razões, não se mostrem inconvenientes para elas.\n\n2. Pode ser delegada no director-geral da Cultura Popular e Espectáculos a competência para a concessão da autorização referida no número antecedente.\n\n3. O pedido de autorização será sempre apresentado na Direcção dos serviços de Espectáculos e para a sua apreciação poderá ser pedido, quando for julgado conveniente, o parecer da Comissão de Literatura e de Espectáculos para Menores.\n\nArt. 6.º Classificam-se no grupo B os espectáculos referidos no artigo 3.º quando, em atenção à hora a que se realizem, não possam ser classificados no grupo A.\n\nArt. 7.º - 1. São classificados no grupo C os espectáculos que, pela sua natureza, conteúdo ou duração, se não mostrem apropriados para os jovens de menos de 14 anos, sem, contudo, justificarem a classificação no grupo seguinte.\n\n2. São classificados neste grupo, designadamente, os espectáculos de luta livre e de boxe.\n\nArt. 8.º São classificados no grupo D os espectáculos que, embora obedecendo às condições mínimas exigidas para a sua autorização pela Comissão de Exame e Classificação dos Espectáculos, possam ser prejudiciais à formação espiritual e ao desenvolvimento moral e intelectual da juventude.\n\nArt. 9.º - 1. A frequência de lugares públicos destinados a bailes e variedades, designadamente dos chamados night clubs e cabarets, só é permitida a indivíduos maiores de 18 anos ou emancipados.\n\n2. Aos bailes públicos sem variedades e em recintos onde estas normalmente se não exibem é permitida a entrada de maiores de 14 anos.\n\n3. Aos bailes realizados à tarde em associações recreativas e nos salões dos casinos e hotéis e estabelecimentos similares das praias e termas é permitida a entrada de maiores de 6 anos.\n\nArt. 10.º A admissão de menores nos teatros ou cinemas onde, como complemento dos programas das matinées de Carnaval, se realizem bailes será regulada pela classificação atribuída ao respectivo espectáculo.\n\nArt. 11.º - 1. Excepcionalmente, a Direcção dos Serviços de Espectáculos poderá elevar até aos 21 anos o limite das idades estabelecidas para a frequência dos espectáculos e divertimentos públicos que, pela localização dos recintos onde se realizem, pelo seu ambiente ou frequência habitual ou por quaisquer outras razões, se mostrem inconvenientes para aquelas idades.\n\n2. A proibição será comunicada pela Direcção dos Serviços de Espectáculos às autoridades policiais e administrativas da área e às demais entidades com competência para fiscalizar a admissão de menores aos espectáculos públicos.\n\nArt. 12.º Os programas de radiodifusão visual deverão obedecer às seguintes regras:\n\na) Até às 22 horas só poderão ser transmitidos programas classificados no grupo A;\n\nb) Depois das 22 horas poderão ser transmitidos programas classificados no grupo C, desde que precedidos de aviso adequado.\n\nArt. 13.º Nos recintos onde se faça a recepção pública de emissões de radiodifusão visual ou a projecção de imagens utilizando filmes cinematográficos ou fitas de registo magnético, mesmo que ao público não seja exigido, para assistir à recepção, o pagamento de qualquer importância, directa ou indirectamente, a frequência de menores fica sujeita ao disposto no presente diploma.\n\nArt. 14.º - 1. Apenas poderão ser apresentados em espectáculos e divertimentos públicos os filmes, peças de teatro, bailados, canções e números congéneres prèviamente autorizados e classificados pela Comissão de Exame e Classificação dos Espectáculos, nos termos do presente diploma.\n\n2. Quando dos espectáculos ou divertimentos públicos façam parte elementos de natureza diversa dos previstos no n.º 1, ficam os mesmos igualmente sujeitos a prévia autorização e classificação da Comissão de Exame e Classificação dos Espectáculos.\n\n3. Para efeito do disposto no número anterior, considera-se que fazem parte do espectáculo ou divertimento quaisquer realizações ou números apresentados depois de franqueada ao público a entrada do respectivo recinto.\n\n4. Ficam dispensados do disposto neste artigo os elementos de espectáculos a exibir no Teatro Nacional de S. Carlos e no Teatro Nacional de D. Maria II, nos termos, respectivamente, do artigo 1.º do [Decreto-Lei n.º 35775](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35775-1946-156394), de 31 de Julho de 1946, e do artigo 3.º do [Decreto-Lei n.º 45251](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45251-1963-687012), de 18 de Setembro de 1963.\n\n5. As infracções ao disposto nos n.os 1 e 2 serão punidas com multa de 1000$00 a 10000$00, elevada para o dobro na primeira reincidência, e agravada, ainda, em segunda reincidência, com o encerramento até seis meses da casa ou recinto onde for praticada a infracção, sem prejuízo de outras sanções previstas na lei.\n\n6. O encerramento previsto no número anterior será substituído pela proibição do exercício da respectiva actividade, por igual período, sempre que a empresa não utilize normalmente o mesmo recinto.\n\nArt. 15.º - 1. Os elementos de espectáculo serão submetidos à Comissão de Exame e Classificação dos Espectáculos, mediante requerimento dos interessados a apresentar na Direcção dos Serviços de Espectáculos.\n\n2. Feita a classificação, nenhuma alteração pode ser introduzida pelas empresas ou artistas nos elementos dos espectáculos, a não ser que sejam submetidos a nova classificação.\n\n3. A infracção ao disposto no número anterior será punida com a multa de 2000$00 a 10000$00.\n\nArt. 16.º - 1. A autorização para a representação de peças teatrais ou exibição de filmes classificados pela Comissão de Exame e Classificação dos Espectáculos será concedida em impresso especial.\n\n2. A autorização conterá todos os elementos que identifiquem as peças e os filmes e nestes deverá fazer-se a sua reprodução fotográfica para ser projectada sobre a tela pelo lapso de tempo suficiente para a sua leitura.\n\n3. As demais autorizações constarão de visto aposto sobre o exemplar apresentado, quando for possível.\n\n4. A falta de projecção da licença na tela, nos termos da parte final do n.º 2, será punida com multa de 100$00 a 500$00.\n\nArt. 17.º - 1. As empresas e demais entidades organizadoras de espectáculos teatrais devem comunicar à Direcção dos Serviços de Espectáculos, com a antecedência mínima de quarenta e oito horas, o local e a hora dos ensaios de apuro, a realizar com a mesma indumentária, caracterizações e cenários que hão-de figurar na representação final.\n\n2. A infracção ao disposto neste artigo será punida com a multa de 200$00 a 500$00.\n\nArt. 18.º - 1. Os espectáculos e divertimentos públicos devem começar às horas marcadas no cartaz e terminar até à 1 hora e 30 minutos, com meia hora de tolerância, salvo caso de força maior como tal reconhecido pela Direcção dos Serviços de Espectáculos.\n\n2. Nas noites de sábado e de véspera de feriado os espectáculos e divertimentos públicos poderão terminar até às 3 horas.\n\n3. A Direcção dos Serviços de Espectáculos poderá autorizar, baseada em razões ponderosas, que os espectáculos ou divertimentos terminem depois das horas previstas nos números antecedentes.\n\n4. A autorização a que se refere o número anterior poderá ser dada genèricamente em relação aos espectáculos de ópera e de bailado, bailes públicos, com ou sem variedades, variedades em recintos que apenas explorem esta espécie de divertimentos, segundas sessões dos teatros, três primeiros dias de representação das revistas e espectáculos de Carnaval e de passagem do ano.\n\n5. O Governo poderá alterar por meio de decreto regulamentar os limites horários estabelecidos neste artigo.\n\n6. As infracções ao disposto nos n.os 1 e 2 serão punidas com a multa de 500$00 a 5000$00.\n\nArt. 19.º - 1. Os cartazes, prospectos e outros meios de publicidade relativos aos espectáculos e divertimentos públicos ou a algum dos seus elementos igualmente abrangidos pelo presente diploma estão sujeitos a visto prévio da Direcção dos Serviços de Espectáculos ou suas delegações, devendo os correspondentes anúncios, inclusive os da imprensa, ser conformes com a classificação respectiva e as decisões daquela Direcção.\n\n2. As delegações da Direcção dos Serviços de Espectáculos não aporão os vistos referidos no número anterior, quando respeitantes a espectáculos ou seus elementos classificados no grupo A, sem que pelas empresas ou entidades interessadas lhes seja feita prova da classificação atribuída aos diversos números incluídos no programa.\n\n3. É proibida a publicidade onde, por fotografias, desenhos ou palavras, se ponham em relevo aspectos, cenas ou atitudes susceptíveis de excitar perigosamente a sensibilidade e imaginação dos jovens ou de exercer acção nociva sobre o seu carácter.\n\n4. As infracções ao disposto nos n.os 1 e 3 serão punidas nos termos dos n.os 5 e 6 do artigo 14.º\n\nArt. 20.º - 1. A classificação dos espectáculos e divertimentos deverá ser impressa, em caracteres bem legíveis, nos cartazes, prospectos e outros meios de publicidade, devendo também ser afixada, por meio de letreiros, junto das bilheteiras e portas de entrada dos recintos onde os espectáculos se realizem.\n\n2. Para efeitos do número anterior, a indicação da classificação será feita mediante a menção do respectivo grupo e do limite de idade que lhe corresponde.\n\n3. A classificação do espectáculo deverá ser diferente da classificação dos seus elementos sempre que houver de ter em conta as circunstâncias de tempo a que se refere o artigo 3.º\n\n4. As infracções ao disposto neste artigo serão punidas nos termos dos n.os 5 e 6 do artigo 14.º\n\nArt. 21.º - 1. Os pais, tutores, encarregados de educação e quaisquer pessoas que permitirem ou facilitarem o acesso de menores a espectáculos, ou aí os acompanharem, em contravenção do disposto neste diploma incorrerão na multa de 500$00 a 3000$00 e, em caso de reincidência, na pena de prisão até três meses.\n\n2. O disposto no número anterior é extensivo aos porteiros, fiscais, gerentes ou responsáveis pela organização dos espectáculos e divertimentos que permitirem ou facilitarem o ingresso de menores nas respectivas salas e recintos em contravenção do estabelecido no presente decreto-lei.\n\nArt. 22.º - 1. A fiscalização do cumprimento das disposições do presente capítulo compete aos funcionários da Direcção dos Serviços de Espectáculos, às autoridades administrativas e policiais aos agentes da assistência e vigilância social da Federação Nacional das Instituições de Protecção à Infância e dos tribunais de menores que forem designados para esse serviço.\n\n2. Os membros da Comissão de Exame e Classificação dos Espectáculos têm também funções de fiscalização relativamente ao cumprimento do disposto no artigo 14.º\n\nArt. 23.º - 1. Compete à Direcção dos Serviços de Espectáculos a instrução dos processos relativos às infracções previstas neste capítulo e a aplicação das respectivas sanções, salvo o disposto no número seguinte.\n\n2. Compete ao director-geral da Cultura Popular e Espectáculos a aplicação das sanções de proibição do exercício da actividade e de encerramento dos recintos de espectáculos e divertimentos públicos.\n\n3. Na instrução dos processos referidos no n.º 1 e aplicação das sanções correspondentes observar-se-á o disposto nos artigos 69.º e 70.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638) e respectivas disposições regulamentares.\n\n4. Da decisão que aplicar as sanções previstas no n.º 2 cabe recurso hierárquico, a interpor no prazo de oito dias, contados a partir da respectiva notificação."
+  },
+  "fdcee5c94ccd2595": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores\n\nArt. 24.º - 1. A Comissão de Exame e Classificação dos Espectáculos terá a composição seguinte:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos;\n\n1.º vice-presidente - nomeado pelo Secretário do Estado da Informação e Turismo;\n\n2.º vice-presidente - o director dos Serviços de Espectáculos;\n\nDezassete vogais, sendo:\n\nNove designados pelo Secretário de Estado da Informação e Turismo;\n\nDois designados pelo Ministro da Justiça;\n\nDois designados pelo Ministro da Educação Nacional;\n\nQuatro membros da Comissão de Literatura e Espectáculos para Menores, escolhidos pelo Secretário de Estado da Informação.\n\nUm secretário.\n\n2. Cabe aos vice-presidentes coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos ou sempre que para tal recebam delegação.\n\n3. Ao 2.º vice-presidente compete, em especial, coordenar e assegurar o expediente respeitante às actividades da Comissão.\n\nArt. 25.º - 1. Compete à Comissão de Exame e Classificação dos Espectáculos classificar, dentro dos grupos indicados no artigo 1.º, os filmes, peças teatrais, bailados e outros números destinados aos espectáculos e divertimentos públicos.\n\n2. A classificação será feita por grupos de vogais formados de acordo com as conveniências do serviço.\n\n3. Na classificação intervirá, sempre que seja considerado necessário, um dos representantes da Comissão de Literatura e Espectáculos para Menores, cujo voto favorável será indispensável para a inclusão dos elementos de espectáculos (filmes, peças teatrais ou musicais, etc.) nos grupos A e B a que se refere o artigo 1.º\n\n4. Do registo de cada elemento de espectáculo sujeito a exame e classificação constará o nome, bem legível, dos vogais que propuseram a classificação e as respectivas rubricas.\n\n5. A classificação dos programas de televisão poderá ser feita apenas por um vogal para esse efeito destacado junto da entidade emissora.\n\nArt. 26.º - 1. A Comissão de Exame e Classificação dos Espectáculos não poderá autorizar o licenciamento de filmes, peças de teatro ou quaisquer outros elementos de espectáculos ofensivos dos órgãos de soberania nacional, das instituições vigentes, dos chefes de Estado ou dos representantes diplomáticos de países estrangeiros, das crenças religiosas e da moral cristã tradicional, dos bons costumes e das pessoas particulares, ou que incitem ao crime ou sejam, por qualquer outra forma, perniciosos à educação do povo.\n\n2. As autorizações concedidas pela Comissão podem ser revogadas quando os superiores interesses do Estado ou razões de ordem internacional assim o exigirem.\n\nArt. 27.º - 1. Das decisões da Comissão de Exame e Classificação dos Espectáculos cabe recurso para uma comissão assim constituída:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos, que terá voto de qualidade;\n\nSeis vogais, compreendendo:\n\nO 1.º vice-presidente da Comissão de Exame e Classificação dos Espectáculos;\n\nDois vogais designados pelo Secretário de Estado da Informação e Turismo;\n\nTrês designados pela Corporação dos Espectáculos, dos quais dois em representação, respectivamente, da Secção de Teatro, Música e Dança e da Secção de Cinema.\n\n2. Os vogais designados pela Corporação dos Espectáculos em representação, respectivamente, da Secção de Teatro, Música e Dança e da Secção de Cinema intervirão apenas consoante a natureza do elemento do espectáculo sujeito a exame e classificação respeitar a teatro, música e dança ou a cinema.\n\n3. As reuniões da Comissão de Recurso serão secretariadas pelo secretário da Comissão de Exame e Classificação dos Espectáculos.\n\nArt. 28.º - 1. É vedado a qualquer membro da Comissão de Recurso assistir a reuniões ou a parte daquelas em que sejam tratados assuntos que lhes digam respeito ou a seus parentes ou afins até ao 3.º grau, ou ainda a pessoa singular ou colectiva a que, directa ou indirectamente, esteja ligado.\n\n2. A Corporação dos Espectáculos designará, simultâneamente com os vogais efectivos, os nomes dos respectivos suplentes, que substituirão aqueles nas suas faltas ou impedimentos.\n\nArt. 29.º - 1. A Comissão de Literatura e Espectáculos para Menores terá a composição seguinte:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos;\n\nVice-presidente - nomeado pelo Secretário de Estado da Informação e Turismo;\n\nNove vogais, sendo:\n\nQuatro designados pelo Secretário de Estado da Informação e Turismo, um dos quais de reconhecida competência em artes gráficas;\n\nUm representante da Igreja Católica;\n\nUm designado pelo Ministro da Justiça;\n\nUm designado pelo Ministro da Educação Nacional;\n\nUma representante da Obra das Mães pela Educação Nacional;\n\nUm representante da Corporação da Imprensa e Artes Gráficas.\n\nUm secretário.\n\n2. O presidente marcará as reuniões pela forma que entender mais conveniente para o bom andamento dos assuntos afectos à Comissão.\n\n3. Haverá um livro de presenças às reuniões.\n\n4. É aplicável ao vice-presidente desta Comissão o disposto no n.º 2 do artigo 24.º\n\nArt. 30.º - 1. Compete à Comissão de Literatura e Espectáculos para Menores:\n\na) Proceder aos estudos e inquéritos convenientes à orientação dos espectáculos para crianças;\n\nb) Promover a realização de espectáculos para crianças, de harmonia com o disposto no artigo seguinte, e propor ao Governo as medidas que considerar oportunas para fomento deste género de espectáculos;\n\nc) Pronunciar-se sobre as publicações referidas no artigo 32.º;\n\nd) Dar o seu parecer sobre tudo o que respeite à possível influência dos espectáculos ou das publicações gráficas na formação moral e cívica da juventude;\n\ne) Distribuir, regularmente, aos órgãos de informação boletins com indicação das decisões tomadas relativamente às publicações destinadas à juventude sujeitas à sua apreciação;\n\nf) Proceder ao estudo e realização de inquéritos sobre a orientação a imprimir à literatura para menores e o desenvolvimento e orientação de bibliotecas e centros de leitura que lhes sejam especialmente destinados, propondo ao Governo as medidas adequadas;\n\ng) Participar nos trabalhos da Comissão de Exame e Classificação dos Espectáculos, nos termos referidos no artigo 25.º\n\n2. Para cumprimento do disposto neste artigo, a Comissão deverá organizar uma biblioteca de consulta sobre os assuntos cujo estudo e orientação lhe são confiados e assinar as revistas da especialidade que entender necessárias.\n\nArt. 31.º - 1. A Comissão de Literatura e Espectáculos para Menores, em colaboração com a União de Grémios de Espectáculos e grémios integrados, fomentará a realização de espectáculos para crianças, com carácter de regularidade, nas cidades e vilas do País onde a exploração dessa modalidade se mostre viável.\n\n2. A referida Comissão prestará, gratuitamente, às empresas exibidoras, sempre que lhe sejam solicitados, os esclarecimentos de que hajam mister, quer na selecção de filmes, quer na organização de programas.\n\n3. Poderão ser subsidiadas pelo Fundo de Teatro as empresas que se proponham realizar regularmente sessões de teatro para crianças.\n\nArt. 32.º - 1. Todas as publicações, periódicas ou não, nacionais ou estrangeiras, declaradamente destinadas à infância ou à adolescência, ou que, pelo seu aspecto ou conteúdo, possam como tal ser reputadas, ficarão por esse facto sujeitas às disposições dos Decretos-Leis n.os 22469, de 11 de Abril de 1933, e 26589, de 14 de Maio de 1936, não podendo ser postas à venda sem o prévio parecer favorável da Comissão de Literatura e Espectáculos para Menores.\n\n2. Sempre que a mesma Comissão assim o determine, ficam sujeitas a igual regime as publicações nacionais ou estrangeiras principalmente destinadas à reprodução de imagens relativas a filmes ou peças de teatro.\n\n3. As infracções ao disposto nos números anteriores serão punidas com multa até 5000$00, susceptível de ser elevada até ao dobro em caso de reincidência.\n\n4. Em segunda reincidência poderá a publicação ser suspensa temporàriamente, ou encerrados, por período não superior a três meses, os estabelecimentos das empresas responsáveis pela sua venda em Portugal, conforme a publicação for portuguesa ou estrangeira.\n\nArt. 33.º - 1. Os editores nacionais de publicações, periódicas ou não, destinadas à infância e à adolescência e os importadores de publicações estrangeiras similares enviarão à Comissão de Literatura e Espectáculos para Menores, antes de postas a circular, um exemplar de cada uma das referidas publicações.\n\n2. A infracção ao disposto no número anterior será punida com a multa de 1000$00 a 5000$00, agravada para o dobro em caso de reincidência.\n\n3. Considera-se que há reincidência sempre que tenha sido praticada outra infracção da mesma natureza antes de decorridos dois anos sobre a punição da primeira.\n\n4. Compete ao director-geral da Cultura Popular e Espectáculos a aplicação da multa prevista no n.º 2.\n\nArt. 34.º - 1. A presidência das Comissões referidas nos artigos 24.º, 27.º e 29.º e a 2.ª vice-presidência da Comissão de Exame e Classificação dos Espectáculos são exercidas por inerência e sem direito a remuneração.\n\n2. Os restantes membros das mesmas Comissões, incluindo os secretários, serão designados por períodos de três anos e terão direito às remunerações que lhes forem fixadas pelo Secretário de Estado da Informação e Turismo, com o acordo do Ministro das Finanças.\n\n3. As funções referidas no número anterior poderão ser exercidas, sem prejuízo dos respectivos serviços, por funcionários públicos.\n\n4. Os vogais da Comissão de Literatura e Espectáculos para Menores que forem igualmente membros da Comissão de Exame e Classificação dos Espectáculos receberão por inteiro a gratificação de uma e metade da correspondente à outra.\n\nArt. 35.º As funções de secretário das Comissões a que este decreto-lei se refere serão exercidas, sem direito a voto, por funcionários de serviços dependentes da Presidência do Conselho designados por despacho do Secretário de Estado da Informação e Turismo, sob proposta do presidente da comissão respectiva.\n\nArt. 36.º Será anualmente inscrita no orçamento da Secretaria de Estado da Informação e Turismo dotação que permita à Comissão de Literatura e Espectáculos para Menores realizar os objectivos a que se destina.\n\nArt. 37.º A Comissão de Exame e Classificação dos Espectáculos, a Comissão de Recurso e a Comissão de Literatura e Espectáculos para Menores submeterão à aprovação do Secretário de Estado da Informação e Turismo, no prazo de seis meses, a contar da publicação do presente diploma, projectos dos respectivos regulamentos internos."
+  },
+  "24dcecb8c9d0a862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias\n\nArt. 38.º - 1. O disposto no presente diploma é aplicável aos elementos de espectáculos já classificados à data da sua entrada em vigor, nos termos seguintes:\n\na) Os classificados «para crianças» e «para todos» serão incluídos no grupo A;\n\nb) Os classificados para «maiores de 12 anos» serão incluídos no grupo B;\n\nc) Os classificados «para adultos» serão incluídos no grupo C.\n\n2. A Comissão de Exame e Classificação dos Espectáculos poderá classificar no grupo D os elementos de espectáculos actualmente classificados para adultos» que considere não deverem ser incluídos no grupo C.\n\nArt. 39.º - 1. Os actuais membros da Comissão de Exame e Classificação dos Espectáculos e da Comissão de Literatura e Espectáculos para Menores mantêm-se no exercício das suas funções, independentemente de quaisquer formalidades.\n\n2. O tempo de serviço prestado será, porém, considerado para efeito da contagem do prazo estabelecido no n.º 2 do artigo 34.º\n\nArt. 40.º As dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.\n\nArt. 41.º Ficam revogados:\n\na) O [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088), de 1 de Abril de 1957;\n\nb) Os artigos 35.º a 40.º, inclusive, do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959;\n\nc) Os artigos 55.º, 63.º, 64.º e 65.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), também de 20 de Novembro de 1959.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 11 de Junho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "904b5bb486bcd34f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da classificação dos espectáculos e divertimentos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da classificação dos espectáculos e divertimentos públicos"
+  },
+  "1d7214657348e6c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos de autorização e frequência por menores, os espectáculos e divertimentos públicos classificam-se em quatro grupos, designados, respectivamente, pelas letras A, B, C e D.\n\n2. A exibição de anúncios de filmes (trailers) não depende da classificação do filme anunciado, mas apenas da classificação que ao próprio anúncio for dada.\n\n3. Quando façam parte do mesmo espectáculo elementos classificados em grupos diferentes, a classificação do espectáculo será determinada pela do elemento cujo grupo corresponder ao escalão de idade mais elevada.\n\n4. Quando no mesmo edifício se realizem simultâneamente espectáculos ou divertimentos sujeitos a classificação diferente, serão todos classificados no grupo a que corresponder o escalão de idade mais elevada, desde que não seja possível exercer eficaz fiscalização na passagem de uns para outros recintos."
+  },
+  "3fbbe4b73b037354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A frequência por menores dos espectáculos e divertimentos públicos obedecerá às seguintes regras:\n\na) Os menores de 4 anos não podem assistir a quaisquer espectáculos ou divertimentos públicos;\n\nb) Aos espectáculos e divertimentos classificados no grupo A não é permitida a assistência de menores de 6 anos;\n\nc) Aos classificados no grupo B não é permitida a assistência de menores de 10 anos;\n\nd) Aos classificados no grupo C não é permitida a assistência de menores de 14 anos;\n\ne) Aos classificados no grupo D não é permitida a assistência de menores de 18 anos, salvo quando emancipados.\n\n2. Os menores de 4 a 6 anos poderão assistir aos espectáculos do grupo A quando especialmente classificados na modalidade de «teatro infantil».\n\n3. Sempre que se suscitem dúvidas sobre a idade dos menores, normalmente avaliada pela que aparentem, deverão as empresas ou entidades promotoras dos espectáculos e seus empregados, os agentes encarregados da fiscalização e as autoridades policiais e administrativas negar a entrada desses menores, desde que não seja apresentado documento comprovativo da idade invocada."
+  },
+  "375ffec87eb59af5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. São classificados no grupo A (para todos) os espectáculos e divertimentos que não ofereçam qualquer inconveniente à formação moral e intelectual dos jovens e não terminem depois das 22 horas.\n\n2. Incluem-se neste grupo, designadamente, os espectáculos desportivos, com excepção da luta livre e do boxe, os espectáculos de ginástica e tauromáquicos, os concertos musicais, as audições efectuadas por grupos orfeónicos e as exibições de carácter folclórico.\n\n3. Aos sábados e véspera dos dias de feriado os espectáculos e divertimentos classificados neste grupo poderão prolongar-se até às 24 horas, com meia hora de tolerância, a eles podendo assistir, quando devidamente acompanhados, os maiores de 6 anos.\n\n4. Nas localidades onde não haja matinées e aos sábados e véspera dos dias de feriado se não realizem espectáculos, a permissão referida no número anterior ter-se-á como dada para os domingos e dias de feriado.\n\n5. Para efeito do disposto no n.º 4, são equiparados aos feriados os dias das férias escolares.\n\n6. A Comissão de Exame e Classificação dos Espectáculos usará de particular cuidado na classificação, no grupo A, dos filmes de fundo e das peças teatrais."
+  },
+  "cea846945842e37b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os espectáculos classificados no grupo A, especialmente destinados às crianças, devem conter assuntos variados e proporcionar-lhes recreação adequada, sem perder de vista o aumento dos seus conhecimentos úteis.\n\n2. Os programas dos espectáculos referidos no número anterior deverão sempre ser organizados de modo a evitar a fadiga nas crianças e os filmes neles incluídos falados ou legendados em português."
+  },
+  "057cdf36bdef40d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Em circunstâncias excepcionais e mediante despacho do Secretário de Estado da Informação e Turismo, poderá ser autorizada a assistência:\n\n1.º De crianças de mais de 6 anos, quando devidamente acompanhadas, a espectáculos nocturnos apropriados para a sua idade, fora dos casos compreendidos nos n.os 3 e 4 do artigo 3.º;\n\n2.º De crianças de mais de 4 anos, quando devidamente acompanhadas, a espectáculos que se não prolonguem para além das 22 horas e que, pelo seu programa, pelo ambiente ou por quaisquer outras razões, não se mostrem inconvenientes para elas.\n\n2. Pode ser delegada no director-geral da Cultura Popular e Espectáculos a competência para a concessão da autorização referida no número antecedente.\n\n3. O pedido de autorização será sempre apresentado na Direcção dos serviços de Espectáculos e para a sua apreciação poderá ser pedido, quando for julgado conveniente, o parecer da Comissão de Literatura e de Espectáculos para Menores."
+  },
+  "0150588be5b5fb05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nClassificam-se no grupo B os espectáculos referidos no artigo 3.º quando, em atenção à hora a que se realizem, não possam ser classificados no grupo A."
+  },
+  "18ff0c5a7bedf388": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. São classificados no grupo C os espectáculos que, pela sua natureza, conteúdo ou duração, se não mostrem apropriados para os jovens de menos de 14 anos, sem, contudo, justificarem a classificação no grupo seguinte.\n\n2. São classificados neste grupo, designadamente, os espectáculos de luta livre e de boxe."
+  },
+  "a2fd2e139934167a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão classificados no grupo D os espectáculos que, embora obedecendo às condições mínimas exigidas para a sua autorização pela Comissão de Exame e Classificação dos Espectáculos, possam ser prejudiciais à formação espiritual e ao desenvolvimento moral e intelectual da juventude."
+  },
+  "acbdd2a1fa1bd905": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A frequência de lugares públicos destinados a bailes e variedades, designadamente dos chamados night clubs e cabarets, só é permitida a indivíduos maiores de 18 anos ou emancipados.\n\n2. Aos bailes públicos sem variedades e em recintos onde estas normalmente se não exibem é permitida a entrada de maiores de 14 anos.\n\n3. Aos bailes realizados à tarde em associações recreativas e nos salões dos casinos e hotéis e estabelecimentos similares das praias e termas é permitida a entrada de maiores de 6 anos."
+  },
+  "dd55c0e769c05ed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA admissão de menores nos teatros ou cinemas onde, como complemento dos programas das matinées de Carnaval, se realizem bailes será regulada pela classificação atribuída ao respectivo espectáculo."
+  },
+  "54ffa641f835b4b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Excepcionalmente, a Direcção dos Serviços de Espectáculos poderá elevar até aos 21 anos o limite das idades estabelecidas para a frequência dos espectáculos e divertimentos públicos que, pela localização dos recintos onde se realizem, pelo seu ambiente ou frequência habitual ou por quaisquer outras razões, se mostrem inconvenientes para aquelas idades.\n\n2. A proibição será comunicada pela Direcção dos Serviços de Espectáculos às autoridades policiais e administrativas da área e às demais entidades com competência para fiscalizar a admissão de menores aos espectáculos públicos."
+  },
+  "963d1434d8405660": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs programas de radiodifusão visual deverão obedecer às seguintes regras:\n\na) Até às 22 horas só poderão ser transmitidos programas classificados no grupo A;\n\nb) Depois das 22 horas poderão ser transmitidos programas classificados no grupo C, desde que precedidos de aviso adequado."
+  },
+  "b08b2c7c1727636b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNos recintos onde se faça a recepção pública de emissões de radiodifusão visual ou a projecção de imagens utilizando filmes cinematográficos ou fitas de registo magnético, mesmo que ao público não seja exigido, para assistir à recepção, o pagamento de qualquer importância, directa ou indirectamente, a frequência de menores fica sujeita ao disposto no presente diploma."
+  },
+  "97ad842fa0ab9838": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Apenas poderão ser apresentados em espectáculos e divertimentos públicos os filmes, peças de teatro, bailados, canções e números congéneres prèviamente autorizados e classificados pela Comissão de Exame e Classificação dos Espectáculos, nos termos do presente diploma.\n\n2. Quando dos espectáculos ou divertimentos públicos façam parte elementos de natureza diversa dos previstos no n.º 1, ficam os mesmos igualmente sujeitos a prévia autorização e classificação da Comissão de Exame e Classificação dos Espectáculos.\n\n3. Para efeito do disposto no número anterior, considera-se que fazem parte do espectáculo ou divertimento quaisquer realizações ou números apresentados depois de franqueada ao público a entrada do respectivo recinto.\n\n4. Ficam dispensados do disposto neste artigo os elementos de espectáculos a exibir no Teatro Nacional de S. Carlos e no Teatro Nacional de D. Maria II, nos termos, respectivamente, do artigo 1.º do [Decreto-Lei n.º 35775](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35775-1946-156394), de 31 de Julho de 1946, e do artigo 3.º do [Decreto-Lei n.º 45251](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45251-1963-687012), de 18 de Setembro de 1963.\n\n5. As infracções ao disposto nos n.os 1 e 2 serão punidas com multa de 1000$00 a 10000$00, elevada para o dobro na primeira reincidência, e agravada, ainda, em segunda reincidência, com o encerramento até seis meses da casa ou recinto onde for praticada a infracção, sem prejuízo de outras sanções previstas na lei.\n\n6. O encerramento previsto no número anterior será substituído pela proibição do exercício da respectiva actividade, por igual período, sempre que a empresa não utilize normalmente o mesmo recinto."
+  },
+  "c696b8440729a51f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os elementos de espectáculo serão submetidos à Comissão de Exame e Classificação dos Espectáculos, mediante requerimento dos interessados a apresentar na Direcção dos Serviços de Espectáculos.\n\n2. Feita a classificação, nenhuma alteração pode ser introduzida pelas empresas ou artistas nos elementos dos espectáculos, a não ser que sejam submetidos a nova classificação.\n\n3. A infracção ao disposto no número anterior será punida com a multa de 2000$00 a 10000$00."
+  },
+  "0beae3d21a089e37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A autorização para a representação de peças teatrais ou exibição de filmes classificados pela Comissão de Exame e Classificação dos Espectáculos será concedida em impresso especial.\n\n2. A autorização conterá todos os elementos que identifiquem as peças e os filmes e nestes deverá fazer-se a sua reprodução fotográfica para ser projectada sobre a tela pelo lapso de tempo suficiente para a sua leitura.\n\n3. As demais autorizações constarão de visto aposto sobre o exemplar apresentado, quando for possível.\n\n4. A falta de projecção da licença na tela, nos termos da parte final do n.º 2, será punida com multa de 100$00 a 500$00."
+  },
+  "144c173f08c862bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. As empresas e demais entidades organizadoras de espectáculos teatrais devem comunicar à Direcção dos Serviços de Espectáculos, com a antecedência mínima de quarenta e oito horas, o local e a hora dos ensaios de apuro, a realizar com a mesma indumentária, caracterizações e cenários que hão-de figurar na representação final.\n\n2. A infracção ao disposto neste artigo será punida com a multa de 200$00 a 500$00."
+  },
+  "a023c9acaa09ca7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1985-11-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 199/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1974-408539) e [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), publicado em 1985-10-29."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 199/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1974-408539) e [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), publicado em 1985-10-29."
+  },
+  "dd34c78d5c8951ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os cartazes, prospectos e outros meios de publicidade relativos aos espectáculos e divertimentos públicos ou a algum dos seus elementos igualmente abrangidos pelo presente diploma estão sujeitos a visto prévio da Direcção dos Serviços de Espectáculos ou suas delegações, devendo os correspondentes anúncios, inclusive os da imprensa, ser conformes com a classificação respectiva e as decisões daquela Direcção.\n\n2. As delegações da Direcção dos Serviços de Espectáculos não aporão os vistos referidos no número anterior, quando respeitantes a espectáculos ou seus elementos classificados no grupo A, sem que pelas empresas ou entidades interessadas lhes seja feita prova da classificação atribuída aos diversos números incluídos no programa.\n\n3. É proibida a publicidade onde, por fotografias, desenhos ou palavras, se ponham em relevo aspectos, cenas ou atitudes susceptíveis de excitar perigosamente a sensibilidade e imaginação dos jovens ou de exercer acção nociva sobre o seu carácter.\n\n4. As infracções ao disposto nos n.os 1 e 3 serão punidas nos termos dos n.os 5 e 6 do artigo 14.º"
+  },
+  "80dd8be76c02074e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A classificação dos espectáculos e divertimentos deverá ser impressa, em caracteres bem legíveis, nos cartazes, prospectos e outros meios de publicidade, devendo também ser afixada, por meio de letreiros, junto das bilheteiras e portas de entrada dos recintos onde os espectáculos se realizem.\n\n2. Para efeitos do número anterior, a indicação da classificação será feita mediante a menção do respectivo grupo e do limite de idade que lhe corresponde.\n\n3. A classificação do espectáculo deverá ser diferente da classificação dos seus elementos sempre que houver de ter em conta as circunstâncias de tempo a que se refere o artigo 3.º\n\n4. As infracções ao disposto neste artigo serão punidas nos termos dos n.os 5 e 6 do artigo 14.º"
+  },
+  "746b0b592b358430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os pais, tutores, encarregados de educação e quaisquer pessoas que permitirem ou facilitarem o acesso de menores a espectáculos, ou aí os acompanharem, em contravenção do disposto neste diploma incorrerão na multa de 500$00 a 3000$00 e, em caso de reincidência, na pena de prisão até três meses.\n\n2. O disposto no número anterior é extensivo aos porteiros, fiscais, gerentes ou responsáveis pela organização dos espectáculos e divertimentos que permitirem ou facilitarem o ingresso de menores nas respectivas salas e recintos em contravenção do estabelecido no presente decreto-lei."
+  },
+  "276d4688f4a23578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A fiscalização do cumprimento das disposições do presente capítulo compete aos funcionários da Direcção dos Serviços de Espectáculos, às autoridades administrativas e policiais aos agentes da assistência e vigilância social da Federação Nacional das Instituições de Protecção à Infância e dos tribunais de menores que forem designados para esse serviço.\n\n2. Os membros da Comissão de Exame e Classificação dos Espectáculos têm também funções de fiscalização relativamente ao cumprimento do disposto no artigo 14.º"
+  },
+  "94bedf865b6f261c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Compete à Direcção dos Serviços de Espectáculos a instrução dos processos relativos às infracções previstas neste capítulo e a aplicação das respectivas sanções, salvo o disposto no número seguinte.\n\n2. Compete ao director-geral da Cultura Popular e Espectáculos a aplicação das sanções de proibição do exercício da actividade e de encerramento dos recintos de espectáculos e divertimentos públicos.\n\n3. Na instrução dos processos referidos no n.º 1 e aplicação das sanções correspondentes observar-se-á o disposto nos artigos 69.º e 70.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638) e respectivas disposições regulamentares.\n\n4. Da decisão que aplicar as sanções previstas no n.º 2 cabe recurso hierárquico, a interpor no prazo de oito dias, contados a partir da respectiva notificação."
+  },
+  "1027f9c2ca2a1d48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores"
+  },
+  "f62a9cb41cbb7428": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. A Comissão de Exame e Classificação dos Espectáculos terá a composição seguinte:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos;\n\n1.º vice-presidente - nomeado pelo Secretário do Estado da Informação e Turismo;\n\n2.º vice-presidente - o director dos Serviços de Espectáculos;\n\nDezassete vogais, sendo:\n\nNove designados pelo Secretário de Estado da Informação e Turismo;\n\nDois designados pelo Ministro da Justiça;\n\nDois designados pelo Ministro da Educação Nacional;\n\nQuatro membros da Comissão de Literatura e Espectáculos para Menores, escolhidos pelo Secretário de Estado da Informação.\n\nUm secretário.\n\n2. Cabe aos vice-presidentes coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos ou sempre que para tal recebam delegação.\n\n3. Ao 2.º vice-presidente compete, em especial, coordenar e assegurar o expediente respeitante às actividades da Comissão."
+  },
+  "6a6a2d06a7f222d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Compete à Comissão de Exame e Classificação dos Espectáculos classificar, dentro dos grupos indicados no artigo 1.º, os filmes, peças teatrais, bailados e outros números destinados aos espectáculos e divertimentos públicos.\n\n2. A classificação será feita por grupos de vogais formados de acordo com as conveniências do serviço.\n\n3. Na classificação intervirá, sempre que seja considerado necessário, um dos representantes da Comissão de Literatura e Espectáculos para Menores, cujo voto favorável será indispensável para a inclusão dos elementos de espectáculos (filmes, peças teatrais ou musicais, etc.) nos grupos A e B a que se refere o artigo 1.º\n\n4. Do registo de cada elemento de espectáculo sujeito a exame e classificação constará o nome, bem legível, dos vogais que propuseram a classificação e as respectivas rubricas.\n\n5. A classificação dos programas de televisão poderá ser feita apenas por um vogal para esse efeito destacado junto da entidade emissora."
+  },
+  "400d8db61d77196f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. A Comissão de Exame e Classificação dos Espectáculos não poderá autorizar o licenciamento de filmes, peças de teatro ou quaisquer outros elementos de espectáculos ofensivos dos órgãos de soberania nacional, das instituições vigentes, dos chefes de Estado ou dos representantes diplomáticos de países estrangeiros, das crenças religiosas e da moral cristã tradicional, dos bons costumes e das pessoas particulares, ou que incitem ao crime ou sejam, por qualquer outra forma, perniciosos à educação do povo.\n\n2. As autorizações concedidas pela Comissão podem ser revogadas quando os superiores interesses do Estado ou razões de ordem internacional assim o exigirem."
+  },
+  "0624f80f4feb1e69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Das decisões da Comissão de Exame e Classificação dos Espectáculos cabe recurso para uma comissão assim constituída:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos, que terá voto de qualidade;\n\nSeis vogais, compreendendo:\n\nO 1.º vice-presidente da Comissão de Exame e Classificação dos Espectáculos;\n\nDois vogais designados pelo Secretário de Estado da Informação e Turismo;\n\nTrês designados pela Corporação dos Espectáculos, dos quais dois em representação, respectivamente, da Secção de Teatro, Música e Dança e da Secção de Cinema.\n\n2. Os vogais designados pela Corporação dos Espectáculos em representação, respectivamente, da Secção de Teatro, Música e Dança e da Secção de Cinema intervirão apenas consoante a natureza do elemento do espectáculo sujeito a exame e classificação respeitar a teatro, música e dança ou a cinema.\n\n3. As reuniões da Comissão de Recurso serão secretariadas pelo secretário da Comissão de Exame e Classificação dos Espectáculos."
+  },
+  "e249165e1e9d5723": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. É vedado a qualquer membro da Comissão de Recurso assistir a reuniões ou a parte daquelas em que sejam tratados assuntos que lhes digam respeito ou a seus parentes ou afins até ao 3.º grau, ou ainda a pessoa singular ou colectiva a que, directa ou indirectamente, esteja ligado.\n\n2. A Corporação dos Espectáculos designará, simultâneamente com os vogais efectivos, os nomes dos respectivos suplentes, que substituirão aqueles nas suas faltas ou impedimentos."
+  },
+  "22fda2b1a635247b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. A Comissão de Literatura e Espectáculos para Menores terá a composição seguinte:\n\nPresidente - o director-geral da Cultura Popular e Espectáculos;\n\nVice-presidente - nomeado pelo Secretário de Estado da Informação e Turismo;\n\nNove vogais, sendo:\n\nQuatro designados pelo Secretário de Estado da Informação e Turismo, um dos quais de reconhecida competência em artes gráficas;\n\nUm representante da Igreja Católica;\n\nUm designado pelo Ministro da Justiça;\n\nUm designado pelo Ministro da Educação Nacional;\n\nUma representante da Obra das Mães pela Educação Nacional;\n\nUm representante da Corporação da Imprensa e Artes Gráficas.\n\nUm secretário.\n\n2. O presidente marcará as reuniões pela forma que entender mais conveniente para o bom andamento dos assuntos afectos à Comissão.\n\n3. Haverá um livro de presenças às reuniões.\n\n4. É aplicável ao vice-presidente desta Comissão o disposto no n.º 2 do artigo 24.º"
+  },
+  "5859ec13265aa05b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Compete à Comissão de Literatura e Espectáculos para Menores:\n\na) Proceder aos estudos e inquéritos convenientes à orientação dos espectáculos para crianças;\n\nb) Promover a realização de espectáculos para crianças, de harmonia com o disposto no artigo seguinte, e propor ao Governo as medidas que considerar oportunas para fomento deste género de espectáculos;\n\nc) Pronunciar-se sobre as publicações referidas no artigo 32.º;\n\nd) Dar o seu parecer sobre tudo o que respeite à possível influência dos espectáculos ou das publicações gráficas na formação moral e cívica da juventude;\n\ne) Distribuir, regularmente, aos órgãos de informação boletins com indicação das decisões tomadas relativamente às publicações destinadas à juventude sujeitas à sua apreciação;\n\nf) Proceder ao estudo e realização de inquéritos sobre a orientação a imprimir à literatura para menores e o desenvolvimento e orientação de bibliotecas e centros de leitura que lhes sejam especialmente destinados, propondo ao Governo as medidas adequadas;\n\ng) Participar nos trabalhos da Comissão de Exame e Classificação dos Espectáculos, nos termos referidos no artigo 25.º\n\n2. Para cumprimento do disposto neste artigo, a Comissão deverá organizar uma biblioteca de consulta sobre os assuntos cujo estudo e orientação lhe são confiados e assinar as revistas da especialidade que entender necessárias."
+  },
+  "5323e4ccbe843ea4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. A Comissão de Literatura e Espectáculos para Menores, em colaboração com a União de Grémios de Espectáculos e grémios integrados, fomentará a realização de espectáculos para crianças, com carácter de regularidade, nas cidades e vilas do País onde a exploração dessa modalidade se mostre viável.\n\n2. A referida Comissão prestará, gratuitamente, às empresas exibidoras, sempre que lhe sejam solicitados, os esclarecimentos de que hajam mister, quer na selecção de filmes, quer na organização de programas.\n\n3. Poderão ser subsidiadas pelo Fundo de Teatro as empresas que se proponham realizar regularmente sessões de teatro para crianças."
+  },
+  "922dcef2ff8eb512": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. Todas as publicações, periódicas ou não, nacionais ou estrangeiras, declaradamente destinadas à infância ou à adolescência, ou que, pelo seu aspecto ou conteúdo, possam como tal ser reputadas, ficarão por esse facto sujeitas às disposições dos Decretos-Leis n.os 22469, de 11 de Abril de 1933, e 26589, de 14 de Maio de 1936, não podendo ser postas à venda sem o prévio parecer favorável da Comissão de Literatura e Espectáculos para Menores.\n\n2. Sempre que a mesma Comissão assim o determine, ficam sujeitas a igual regime as publicações nacionais ou estrangeiras principalmente destinadas à reprodução de imagens relativas a filmes ou peças de teatro.\n\n3. As infracções ao disposto nos números anteriores serão punidas com multa até 5000$00, susceptível de ser elevada até ao dobro em caso de reincidência.\n\n4. Em segunda reincidência poderá a publicação ser suspensa temporàriamente, ou encerrados, por período não superior a três meses, os estabelecimentos das empresas responsáveis pela sua venda em Portugal, conforme a publicação for portuguesa ou estrangeira."
+  },
+  "b97e8d7e04e55b5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Os editores nacionais de publicações, periódicas ou não, destinadas à infância e à adolescência e os importadores de publicações estrangeiras similares enviarão à Comissão de Literatura e Espectáculos para Menores, antes de postas a circular, um exemplar de cada uma das referidas publicações.\n\n2. A infracção ao disposto no número anterior será punida com a multa de 1000$00 a 5000$00, agravada para o dobro em caso de reincidência.\n\n3. Considera-se que há reincidência sempre que tenha sido praticada outra infracção da mesma natureza antes de decorridos dois anos sobre a punição da primeira.\n\n4. Compete ao director-geral da Cultura Popular e Espectáculos a aplicação da multa prevista no n.º 2."
+  },
+  "20760ab95a971927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. A presidência das Comissões referidas nos artigos 24.º, 27.º e 29.º e a 2.ª vice-presidência da Comissão de Exame e Classificação dos Espectáculos são exercidas por inerência e sem direito a remuneração.\n\n2. Os restantes membros das mesmas Comissões, incluindo os secretários, serão designados por períodos de três anos e terão direito às remunerações que lhes forem fixadas pelo Secretário de Estado da Informação e Turismo, com o acordo do Ministro das Finanças.\n\n3. As funções referidas no número anterior poderão ser exercidas, sem prejuízo dos respectivos serviços, por funcionários públicos.\n\n4. Os vogais da Comissão de Literatura e Espectáculos para Menores que forem igualmente membros da Comissão de Exame e Classificação dos Espectáculos receberão por inteiro a gratificação de uma e metade da correspondente à outra."
+  },
+  "c387ef9c5d534b93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nAs funções de secretário das Comissões a que este decreto-lei se refere serão exercidas, sem direito a voto, por funcionários de serviços dependentes da Presidência do Conselho designados por despacho do Secretário de Estado da Informação e Turismo, sob proposta do presidente da comissão respectiva."
+  },
+  "5fa6aac7de237d5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nSerá anualmente inscrita no orçamento da Secretaria de Estado da Informação e Turismo dotação que permita à Comissão de Literatura e Espectáculos para Menores realizar os objectivos a que se destina."
+  },
+  "4b85c98ccf229542": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nA Comissão de Exame e Classificação dos Espectáculos, a Comissão de Recurso e a Comissão de Literatura e Espectáculos para Menores submeterão à aprovação do Secretário de Estado da Informação e Turismo, no prazo de seis meses, a contar da publicação do presente diploma, projectos dos respectivos regulamentos internos."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "8d84770b38b68d1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. O disposto no presente diploma é aplicável aos elementos de espectáculos já classificados à data da sua entrada em vigor, nos termos seguintes:\n\na) Os classificados «para crianças» e «para todos» serão incluídos no grupo A;\n\nb) Os classificados para «maiores de 12 anos» serão incluídos no grupo B;\n\nc) Os classificados «para adultos» serão incluídos no grupo C.\n\n2. A Comissão de Exame e Classificação dos Espectáculos poderá classificar no grupo D os elementos de espectáculos actualmente classificados para adultos» que considere não deverem ser incluídos no grupo C."
+  },
+  "409ad0458dc2bce1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Os actuais membros da Comissão de Exame e Classificação dos Espectáculos e da Comissão de Literatura e Espectáculos para Menores mantêm-se no exercício das suas funções, independentemente de quaisquer formalidades.\n\n2. O tempo de serviço prestado será, porém, considerado para efeito da contagem do prazo estabelecido no n.º 2 do artigo 34.º"
+  },
+  "e4fa93592e73d052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nAs dúvidas que se suscitarem na execução do presente decreto-lei serão resolvidas por despacho do Secretário de Estado da Informação e Turismo."
+  },
+  "5e40808e2304c0aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nFicam revogados:\n\na) O [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088), de 1 de Abril de 1957;\n\nb) Os artigos 35.º a 40.º, inclusive, do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959;\n\nc) Os artigos 55.º, 63.º, 64.º e 65.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), também de 20 de Novembro de 1959.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 11 de Junho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

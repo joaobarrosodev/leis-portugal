@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-03-22'
+version_history:
+  file: decreto-lei-117-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-03-22'
+    amending: pt:dre:197524:por
+    amending_title: Decreto-Lei n.º 65/98
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/117/1995/05/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:36:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 65/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-117-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -238,7 +253,7 @@ c) A participação em programas de investigação do âmbito da sua área profi
 
 ###### Artigo 4.º — Transição
 
-1 - Os profissionais integrados na carreira instituída pelo [Decreto-Lei n.º 272/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1983-452017), de 17 de Junho, possuidores do 9.º ano de escolaridade, ou equivalente, e do curso de técnico auxiliar sanitário transitam, nos termos seguintes, e sem prejuízo do disposto no n.º 2, para a carreira de técnicos de diagnóstico e terapêutica da área de higiene e saúde ambiental, em escalão a que corresponda remuneração igual à auferida, ou imediatamente superior, se não houver coincidência:
+1 - Os profissionais integrados na carreira instituída pelo Decreto-Lei n.º 272/83, de 17 de Junho, possuidores do 9.º ano de escolaridade, ou equivalente, e dos cursos de técnico auxiliar sanitário, agente sanitário e fiscal sanitário transitam, nos termos seguintes e sem prejuízo do disposto no n.º 2, para a carreira de técnico de diagnóstico e terapêutica, área de higiene e saúde ambiental, para escalão a que corresponda remuneração igual à auferida, ou imediatamente superior, se não houver coincidência:
 
 a) Os técnicos auxiliares sanitários de 2.ª classe para técnicos de 2.ª classe;
 
@@ -247,6 +262,8 @@ b) Os técnicos auxiliares sanitários de 1.ª classe principais e coordenadores
 2 - A transição dos técnicos auxiliares sanitários principais e coordenadores faz-se no escalão seguinte àquele que lhes seria atribuído por aplicação da regra prevista no número anterior.
 
 3 - As transições efectuam-se por lista nominativa, homologada por despacho ministerial e publicada no Diário da República.
+
+> Alterado pelo/a [Decreto-Lei n.º 65/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1998-197524), publicado em 1998-03-17.
 
 ###### Artigo 5.º — Relevância do tempo de serviço prestado
 

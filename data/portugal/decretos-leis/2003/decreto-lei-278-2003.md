@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-05-01'
+version_history:
+  file: decreto-lei-278-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-01'
+    amending: pt:dre:552998:por
+    amending_title: Decreto-Lei n.º 97/2012
+    changes:
+    - Altera Artigo ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO::13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/278/2003/11/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:40:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 97/2012. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-278-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -499,11 +514,11 @@ n) Selar quaisquer recipientes de produtores ou comerciantes de vinho do Porto, 
 
 o) Proibir a expedição e comercialização de vinho do Porto, de vinho do Douro ou de vinho Terras Durienses em caso de detecção de irregularidades cuja gravidade o justifique, bem como a venda a retalho ou para consumo público de vinho do Porto, de vinho do Douro ou de produtos como tal designados em infracção à legislação aplicável.
 
-2 - Para efeitos das acções previstas neste artigo, os trabalhadores do IVDP, devidamente credenciados, são considerados agentes de autoridade, podendo solicitar às autoridades judiciais, fiscais, alfandegárias e policiais toda a colaboração necessária para a execução de quaisquer medidas de fiscalização ou destinadas à efectivação das proibições e condicionamentos previstos neste artigo, devendo os agentes económicos fornecer todos os elementos que lhes solicitarem e abster-se de impedir ou dificultar a respectiva acção.
+2 - (Revogado.)
 
-3 - O IVDP pode vistoriar, a qualquer hora, através dos seus agentes de fiscalização, as adegas, armazéns ou escritórios de qualquer produtor ou comerciante de vinho do Porto, de vinho do Douro, de vinho Terras Durienses ou de vinhos susceptíveis de obter estas denominações de origem ou indicações geográficas, ou quaisquer outras instalações em que os mesmos sejam comercializados, ou em que possam encontrar-se produtos utilizados para a respectiva produção.
+3 - (Revogado.)
 
-4 - Os elementos recolhidos no exercício de acções de controlo e fiscalização ou com estas conexos são confidenciais, constituindo a sua divulgação falta disciplinar grave.
+4 - (Revogado.)
 
 5 - Os certificados de análise emitidos pelos serviços técnicos do IVDP, referentes a análises físico-químicas e organolépticas de produtos vínicos, constituem documentos autênticos, fazendo prova plena dos resultados neles atestados.
 
@@ -512,6 +527,8 @@ o) Proibir a expedição e comercialização de vinho do Porto, de vinho do Dour
 7 - O IVDP define o caderno de encargos relativo às condições de administração, gestão e actualização dos elementos necessários à avaliação do potencial qualitativo das parcelas de vinha para produção de vinho susceptível de obtenção das denominações de origem «Porto» e «Douro» e da indicação geográfica «Terras Durienses», designadamente no que respeita à organização dos registos, objectivos de actualização a atingir, política de acessos e procedimentos de auditoria e controlo.
 
 8 - O IVDP promove a compatibilização de conteúdos do cadastro da Casa do Douro com o Sistema de Informação Georreferenciada Vitícola - Douro, nos termos dos n.os 6 e 7 deste artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 97/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2012-552998), publicado em 2012-04-23.
 
 ###### Artigo 14.º — Reuniões
 

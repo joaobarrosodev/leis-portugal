@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-01'
+version_history:
+  file: decreto-lei-122-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:647731:por
+    amending_title: Decreto-Lei n.º 233/91; Lei n.º 55-A/2010
+    changes:
+    - Adita Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 233/91; Lei n.º 55-A/2010.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-122-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,9 +302,19 @@ Finalmente, introduzem-se outras pequenas alterações, quer no Código, quer no
 
 Assim, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição e no uso da autorização legislativa conferida pelas alíneas b) a s) do n.º 1 e a) a f) do n.º 2 do artigo 34.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, nos termos da alínea b) do mesmo número e artigo da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º Os artigos 14.º, 19.º, 20.º, 28.º, 40.º, 50.º, 58.º, 60.º, 83.º, 84.º e 87.º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a ter a seguinte redacção:
+###### Artigo 1.º
 
-Art. 14.º - 1 - ...
+Os artigos 14.º, 19.º, 20.º, 28.º, 40.º, 50.º, 58.º, 60.º, 83.º, 84.º e 87.º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passam a ter a seguinte redacção:
+
+###### Artigo 8.º
+
+São impenhoráveis os créditos de IVA, a menos que assumam a forma de reembolsos confirmados e comunicados nos termos previstos no Decreto-Lei n.º 229/95, de 11 de Setembro, alterado pelos Decretos-Leis n.os 472/99, de 8 de Novembro, 160/2003, de 19 de Julho, e 124/2005, de 3 de Agosto.
+
+> Aditado pelo/a [Decreto-Lei n.º 233/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1991-647731) e [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
+
+###### Artigo 14.º
+
+1 - ...
 
 2 - ...
 
@@ -535,13 +560,17 @@ Art. 14.º - 1 - ...
 
 4 - Não serão considerados os pedidos de reembolso, constantes de declarações periódicas apresentadas fora do prazo legal, sem prejuízo da manutenção do respectivo crédito.
 
-Art. 12.º É aditado ao [Decreto-Lei n.º 504-M/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-m-1985-250670), de 30 de Dezembro, o artigo 7.º-A, com a seguinte redacção:
+###### Artigo 12.º
+
+É aditado ao [Decreto-Lei n.º 504-M/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-m-1985-250670), de 30 de Dezembro, o artigo 7.º-A, com a seguinte redacção:
 
 Art. 7.º-A - 1 - Os excessos a reportar, bem como as regularizações a crédito, transportados de períodos anteriores, nos termos do n.º 4 do artigo 22.º do Código do IVA e do artigo 6.º do presente diploma, só serão tomados em conta quando incluídos em declarações periódicas apresentadas dentro do prazo legal.
 
 2 - As declarações periódicas apresentadas depois de terminado o prazo legal, em substituição de uma liquidação oficiosa prevista no artigo 83.º do Código do IVA ou de uma declaração periódica anteriormente apresentada, relativamente ao mesmo período do imposto, deverão ser feitas em declaração modelo C, anexa ao presente diploma, devendo ser remetidas ao Serviço de Administração do IVA, nos termos do n.º 1 do artigo 26.º do referido Código.
 
-Art. 13.º Sem prejuízo da tributação da actividade, a partir da entrada em vigor do presente diploma, os conferencistas, anteriormente abrangidos pela alínea a) do n.º 16 do artigo 9.º do CIVA, agora eliminada, deverão entregar na repartição de finanças competente, no prazo de 30 dias contados da entrada em vigor do presente diploma, a declaração de início de actividade prevista no artigo 30.º do mesmo Código, em que será mencionado, em termos de volume de negócios, o referente ao ano de 1987 ou, no caso de início de actividade, o previsto para o ano de 1988.
+###### Artigo 13.º
+
+Sem prejuízo da tributação da actividade, a partir da entrada em vigor do presente diploma, os conferencistas, anteriormente abrangidos pela alínea a) do n.º 16 do artigo 9.º do CIVA, agora eliminada, deverão entregar na repartição de finanças competente, no prazo de 30 dias contados da entrada em vigor do presente diploma, a declaração de início de actividade prevista no artigo 30.º do mesmo Código, em que será mencionado, em termos de volume de negócios, o referente ao ano de 1987 ou, no caso de início de actividade, o previsto para o ano de 1988.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 

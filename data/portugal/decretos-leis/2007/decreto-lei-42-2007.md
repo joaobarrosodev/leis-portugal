@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-04-21'
+version_history:
+  file: decreto-lei-42-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-21'
+    amending: pt:dre:613415:por
+    amending_title: Decreto-Lei n.º 36/2010
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/42/2007/02/22/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 36/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-42-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -353,9 +368,9 @@ A área de intervenção do empreendimento corresponde à que se encontra delimi
 
 ###### Artigo 11.º — Tarifário
 
-1 - Compete ao Conselho de Ministros, sob proposta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, aprovar o tarifário, definido em termos de preço por metro cúbico, relativo ao fornecimento de água a partir do sistema primário do empreendimento, o qual constitui receita de exploração da EDIA.
+1 - O tarifário que estabelece o preço da água, definido em termos de preço por metro cúbico, relativo ao fornecimento de água a partir do sistema primário, o qual constitui receita de exploração da EDIA, e na rede secundária do empreendimento, é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do desenvolvimento rural e do ambiente, sob proposta da EDIA.
 
-2 - A proposta de tarifário referida no número anterior é formulada tendo em consideração os princípios estabelecidos na [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e integra o valor da taxa de recursos hídricos devida nos termos do regime económico e financeiro da água.
+2 - A proposta de tarifário, referida no número anterior, é formulada tendo em consideração os princípios estabelecidos na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de Dezembro, e integra o valor da taxa de recursos hídricos nos termos do artigo 5.º do Decreto-Lei n.º 97/2008, de 11 de Junho, que estabelece o regime económico e financeiro dos recursos hídricos.
 
 3 - O tarifário aprovado nos termos do n.º 1 pode fixar preços diferenciados em função das diferentes condições de fornecimento de água e contempla a definição dos procedimentos necessários à respectiva actualização automática, bem como a periodicidade de facturação, liquidação e cobrança dos valores resultantes da aplicação da tarifa.
 
@@ -363,9 +378,11 @@ A área de intervenção do empreendimento corresponde à que se encontra delimi
 
 5 - O tarifário é integralmente repercutido pelas entidades gestoras das infra-estruturas que constituem a rede secundária de rega do empreendimento sobre o custo suportado pelo respectivo consumidor final.
 
-6 - Precedendo o início da distribuição de água para rega no âmbito do empreendimento, a EDIA e a entidade que tenha a seu cargo a gestão, exploração, manutenção e conservação das infra-estruturas integradas na rede secundária adstrita a cada perímetro celebram um contrato de fornecimento de água, cujas bases gerais são estabelecidas por portaria dos Ministros das Finanças, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
+6 - Precedendo o início da distribuição de água no âmbito do sistema secundário do empreendimento, a EDIA e a entidade que tenha a seu cargo a gestão, exploração, manutenção e conservação das infra-estruturas integradas na rede secundária adstrita a cada perímetro celebram um contrato de fornecimento de água, cujas bases gerais são estabelecidas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do desenvolvimento rural e do ambiente.
 
-7 - Compete à EDIA submeter o contrato de fornecimento de água referido no número anterior a homologação dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
+7 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 36/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2010-613415), publicado em 2010-04-16.
 
 ###### Artigo 12.º — Norma revogatória
 

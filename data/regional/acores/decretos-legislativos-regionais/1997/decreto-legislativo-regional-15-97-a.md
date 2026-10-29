@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-06-26'
+version_history:
+  file: decreto-legislativo-regional-15-97-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-26'
+    amending: pt:dre:635868:por
+    amending_title: Decreto Legislativo Regional n.º 15/2007/A
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/15/1997/07/19/a/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:18:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    15/2007/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1997/decreto-legislativo-regional-15-97-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,11 +154,9 @@ c) A poente, com Leonel Humberto Soares.
 
 ###### Artigo 3.º — Trabalhos complementares e receitas
 
-O corte de arvoredo, se necessário, bem como a eventual venda dos produtos dele resultantes, será efectuado pela Direcção Regional dos Recursos Florestais, através da Administração Florestal do Pico, e a sua receita será distribuída nos termos da legislação e regulamentação em vigor, nomeadamente o despacho do Ministro da Agricultura e Pescas publicado no Diário do Governo, 2.ª série, de 2 de Maio de 1975.
+(Revogado.)
 
-Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Junho de 1997.
-
-O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 15/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-635868), publicado em 2007-06-25.
 
 Assinado em Angra do Heroísmo em 2 de Julho de 1997.
 
