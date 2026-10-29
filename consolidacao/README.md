@@ -431,4 +431,4 @@ Mesmo processo dos lotes 001 a 010 (ver acima). `llm.py --importar` deu, por lot
 | Não aplicável | 28 | 28 | 27 | 28 | 35 | 29 | 32 | 26 | 233 |
 | Com problemas | 3 | 1 | 3 | 1 | 1 | 1 | 0 | 2 | 12 |
 
-`juntar.py --escala`: 233 `aplicado com LLM` (186 parciais), 61 novos. Ronda 9 (`verificacao/entrada-piloto-9-lote-01..03.jsonl`, 8 pedaços de verificação): **5 sem reparos** (8 %). O `acervo.py --dry-run` dá 5 aplicáveis por aplicar.
+`juntar.py --escala`: 233 `aplicado com LLM` (186 parciais), 61 novos. Ronda 9 (`verificacao/entrada-piloto-9-lote-01..03.jsonl`, 8 pedaços de verificação): **21 sem reparos** (34 %). O `acervo.py --dry-run` dá 21 aplicáveis por aplicar.
