@@ -125,6 +125,15 @@ Sem chave da API, o LLM foi uma sessão do Claude (`claude-opus-5-5`) que leu os
 | Reais | 136 | 28% | **90% (88/98)** | 65% (69/106) |
 | Sem resposta | 50 | 98% | 1 respondida, errada | 94% |
 
+Com o canal dos códigos principais e a grafia antiga (secção abaixo), repetido às cegas por 11 sessões do Claude (`claude-opus-5-5`), uma por lote, nas 136 reais:
+
+| Reais, com LLM | "Não sei" | Certas | Fiabilidade (certas/respondidas) |
+|---|--:|--:|--:|
+| Antes | 28% | 88 | 90% (88/98) |
+| Com mais candidatos | 24% | **92** | 89% (92/103) |
+
+Responde-se a mais 5 perguntas e acerta-se em mais 4, com a fiabilidade igual. O número de artigos no contexto (8) não foi alterado: não se mediu 12 ou 16, que pede nova ronda de sessões.
+
 O LLM sobe a fiabilidade das reais de 65% para 90% à custa de 6 pontos de "não sei". "Certa" é citar o artigo certo e a resposta ter pelo menos 80% das palavras com conteúdo da resposta certa (`avaliacao/verifica.py`), um critério brando: falta uma verificação às cegas das respostas escritas. Só foram medidos estes dois tipos; as literais, temporais e revogadas ainda não passaram pelo LLM.
 
 ## Principais tipos de erro (com reranker)
