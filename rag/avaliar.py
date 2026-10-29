@@ -51,6 +51,9 @@ def ler_perguntas(incluir_reais: bool = True) -> list[dict]:
     reais = perguntas_reais()
     if incluir_reais and reais:
         ficheiros.append(reais)
+        coloquiais = reais.parent / "perguntas-coloquiais.jsonl"  # as reais reescritas como as escreve um utilizador
+        if coloquiais.exists():
+            ficheiros.append(coloquiais)
     return [json.loads(linha) for f in ficheiros for linha in f.read_text(encoding="utf-8").splitlines() if linha.strip()]
 
 

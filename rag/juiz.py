@@ -23,7 +23,11 @@ from rag.fontes import RAIZ
 
 PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
 RESULTADOS = RAIZ / "rag" / "resultados"
-PERGUNTAS = (RAIZ / "avaliacao" / "perguntas.jsonl", RAIZ / "avaliacao" / "privado" / "perguntas-reais.jsonl")
+PERGUNTAS = (
+    RAIZ / "avaliacao" / "perguntas.jsonl",
+    RAIZ / "avaliacao" / "privado" / "perguntas-reais.jsonl",
+    RAIZ / "avaliacao" / "privado" / "perguntas-coloquiais.jsonl",
+)
 PAPEIS = ("a", "b", "c", "s")
 
 INSTRUCOES = """És um juiz rigoroso de respostas jurídicas. Para cada linha recebes: a pergunta, a resposta de referência
