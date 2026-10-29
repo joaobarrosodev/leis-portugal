@@ -1,4 +1,4 @@
-"""Termos para o BM25: minúsculas, sem palavras vazias, radical (Snowball português) e sem acentos.
+"""Termos para o BM25: minúsculas, sem palavras vazias, sem consoantes mudas, radical (Snowball português) e sem acentos.
 
 O índice e as perguntas têm de passar pela mesma função; o nome do método fica gravado no
 índice (`metodo_termos`) e a pesquisa recusa um índice feito com outro.
@@ -15,12 +15,15 @@ try:
     from py_rust_stemmers import SnowballStemmer
 
     _stemmer = SnowballStemmer("portuguese")
-    METODO = "snowball-pt"
+    METODO = "snowball-pt-grafia"
 except ImportError:  # pragma: no cover - sem o extra `rag`
     _stemmer = None
-    METODO = "sufixos-leves"
+    METODO = "sufixos-leves-grafia"
 
 _PALAVRA = re.compile(r"\w+", re.UNICODE)
+# Consoantes mudas da grafia anterior ao Acordo de 1990 (nocturno, acção, óptimo, excepção): os textos consolidados
+# ainda as têm e as perguntas já não, por isso caem dos dois lados ("noturno" = "nocturno").
+_CONSOANTE_MUDA = re.compile(r"(?<=[aeiouáéíóúâêôãõ])[cp](?=[tç])")
 
 VAZIAS = frozenset(
     """
@@ -49,6 +52,7 @@ def _leve(palavra: str) -> str:
 def radical(palavra: str) -> str:
     if palavra.isdigit():
         return palavra
+    palavra = _CONSOANTE_MUDA.sub("", palavra)
     base = _stemmer.stem_word(palavra) if _stemmer is not None else _leve(palavra)
     return sem_acentos(base)
 

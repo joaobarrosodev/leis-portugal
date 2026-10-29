@@ -59,3 +59,11 @@ def test_revogado():
     assert revogado("Revogado.", "")
     assert revogado("22 dias úteis.", "Alterado pelo/a Lei n.º 1/2000\nRevogado pelo/a Lei n.º 7/2009")
     assert not revogado("O artigo revogado pela lei anterior mantém-se.", "Alterado pelo/a Lei n.º 1/2000")
+
+
+def test_termos_ignoram_consoantes_mudas_da_grafia_antiga():
+    from rag.texto import termos
+
+    assert termos("trabalho noturno") == termos("trabalho nocturno")
+    assert termos("exceção") == termos("excepção")
+    assert termos("direção") == termos("direcção")

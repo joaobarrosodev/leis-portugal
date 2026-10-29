@@ -35,6 +35,9 @@ PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
 PRIOR_REPUBLICACAO = 0.6
 PRIOR_ARTIGO_REVOGADO = 0.6
 REVOGADO = ("repealed", "not_in_force")
+CODIGOS_CANDIDATOS = 15  # candidatos do BM25 só nos códigos principais, juntos aos do reranker
+CODIGO_GRANDE = 60  # artigos, no mínimo, de uma parte para contar como código principal
+_NOME_CODIGO = re.compile(r"^(codigo|lei geral)\b")
 _LIGACAO = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 
 
@@ -76,7 +79,7 @@ class Consulta:
 
 
 class Pesquisa:
-    def __init__(self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100):
+    def __init__(self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
         self.con = sqlite3.connect(f"file:{caminho}?mode=ro", uri=True, check_same_thread=False)
         metodo = dict(self.con.execute("SELECT chave, valor FROM meta")).get("metodo_termos")
@@ -86,7 +89,9 @@ class Pesquisa:
         self.total = self.con.execute("SELECT count(*) FROM pedacos").fetchone()[0]
         self.reranker = reranker
         self.candidatos = candidatos
+        self.codigos_candidatos = codigos_candidatos
         self._codigos: dict[str, list[tuple[str, str]]] | None = None
+        self._principais: list[str] | None = None
         self._documentos: dict[str, dict | None] = {}
         self._relacoes: dict[str, tuple] = {}
 
@@ -138,6 +143,25 @@ class Pesquisa:
                 if m:
                     self._codigos.setdefault(refs_mod.nome_normalizado(m.group(1)), []).append((documento, ""))
         return self._codigos
+
+    def codigos_principais(self) -> list[str]:
+        """Os diplomas com os códigos e leis gerais grandes em vigor (Trabalho, Civil, IRS, IVA...).
+
+        Uma pergunta de um leigo ("quando é trabalho noturno?") quase nunca cita o código, e o BM25 em todo o
+        acervo põe à frente portarias e regulamentos pequenos que repetem as palavras; por isso pesquisa-se
+        também só nestes diplomas e os melhores juntam-se aos candidatos do reranker.
+        """
+        if self._principais is None:
+            partes = []
+            for nome in self.codigos():
+                if _NOME_CODIGO.match(nome):
+                    partes += self.codigo(nome)
+            self._principais = []
+            for documento, parte in dict.fromkeys(partes):
+                artigos = self.con.execute("SELECT count(*) FROM pedacos WHERE documento = ? AND parte = ?", (documento, parte)).fetchone()[0]
+                if artigos >= CODIGO_GRANDE and documento not in self._principais:
+                    self._principais.append(documento)
+        return self._principais
 
     def codigo(self, nome: str) -> list[tuple[str, str]]:
         """Onde está o texto em vigor de um código: o anexo (ou o diploma) com esse nome.
@@ -255,6 +279,15 @@ class Pesquisa:
         globais = self.bm25(pergunta, data, limite=self.candidatos)
         juntar(globais, 1, "bm25")
 
+        # 0. BM25 só nos códigos principais: entram no reranker além dos melhores acima.
+        dos_codigos: set[int] = set()
+        if self.reranker is not None and self.codigos_candidatos:
+            principais = [d for d in self.codigos_principais() if d not in documentos_citados]
+            for i, s in self.bm25(pergunta, data, documentos=principais, limite=self.codigos_candidatos):
+                dos_codigos.add(i)
+                if i not in niveis:
+                    niveis[i] = (1, s, "bm25-codigos")
+
         pedacos = self._pedacos(list(niveis))
         resultados: list[Resultado] = []
         for i, (nivel, s, origem) in niveis.items():
@@ -265,7 +298,8 @@ class Pesquisa:
             resultados.append(self._redirecionar(r, data))
 
         if self.reranker is not None:
-            topo = sorted(resultados, key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
+            topo = sorted((r for r in resultados if r.id not in dos_codigos), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
+            topo += [r for r in resultados if r.id in dos_codigos]
             for r, s in zip(topo, self.reranker.pontuar(pergunta, [f"{r.rotulo}\n{r.texto}" for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo

@@ -136,6 +136,17 @@ O LLM sobe a fiabilidade das reais de 65% para 90% à custa de 6 pontos de "não
 
 Com as reais (90%) o conjunto fica abaixo de 95% por causa das reais; nas sintéticas o LLM praticamente não muda o artigo@1 (93%), logo o teto é a pesquisa.
 
+**Fase 4** (29/10/2026, ramo fundido):
+
+Com o canal dos códigos principais e a grafia antiga (secção abaixo), repetido às cegas por 11 sessões do Claude (`claude-opus-5-5`), uma por lote, nas 136 reais:
+
+| Reais, com LLM | "Não sei" | Certas | Fiabilidade (certas/respondidas) |
+|---|--:|--:|--:|
+| Antes | 28% | 88 | 90% (88/98) |
+| Com mais candidatos | 24% | **92** | 89% (92/103) |
+
+Responde-se a mais 5 perguntas e acerta-se em mais 4, com a fiabilidade igual. O número de artigos no contexto (8) não foi alterado: não se mediu 12 ou 16, que pede nova ronda de sessões.
+
 **Segundo travão** (`travao.py`): um segundo modelo julga, às cegas, se cada resposta escrita se aguenta nos artigos dados e responde à pergunta. Nas 99 respostas dadas (98 reais e 1 sem resposta) aprovou todas, por isso apanhou 0 das 11 erradas e não perdeu nenhuma certa. Dos 10 erros das reais, 6 têm o artigo certo em 1.º lugar (a resposta escrita difere da de referência no critério de 80% das palavras: o erro pode estar na métrica) e 4 são de pesquisa (diploma ou artigo errado). Ou seja, o erro não é o LLM inventar, e um travão que só confere a resposta contra os artigos não o apanha. Os 6 ficam para revisão às cegas por pessoa ou outro modelo antes de se chamar erro.
 
 ## Principais tipos de erro (com reranker)
@@ -149,9 +160,66 @@ Nas literais, temporais e revogadas o artigo certo falha o 1.º lugar em 15 perg
 
 - **Artigo vizinho**: "Na mediação dos julgados de paz (Lei n.º 78/2001), quem escolhe o mediador?" (`lit-202`) dá o artigo 32.º (seleção dos mediadores) em vez do 51.º.
 - **O diploma que alterou o certo**: "Na dependência de que membro do Governo funciona a Comissão Nacional da Reserva Ecológica Nacional?" (`lit-022`) dá o artigo 28.º do DL 239/2012, que alterou o regime, e não o do DL 166/2008; "Em outubro de 2009 … professor auxiliar …" (`tmp-051`) dá o DL 205/2009, que alterou o Estatuto da Carreira Docente Universitária.
-- **Reais**: 73 das 136 não têm o artigo certo em 1.º; em 67 o primeiro é de outro diploma. Usam palavras do dia a dia e quase nunca citam o código (só 3 das 136 têm uma referência que o sistema reconhece), e o BM25 traz diplomas sobre o mesmo tema (portarias, regimes especiais, leis antigas). Em 28 o artigo certo nem chega aos 10 primeiros.
+- **Reais**: 73 das 136 não têm o artigo certo em 1.º; em 67 o primeiro é de outro diploma. Usam palavras do dia a dia e quase nunca citam o código (só 3 das 136 têm uma referência que o sistema reconhece), e o BM25 traz diplomas sobre o mesmo tema (portarias, regimes especiais, leis antigas). Em 28 o artigo certo nem chega aos 10 primeiros. O diagnóstico pergunta a pergunta está abaixo.
 - **Sem resposta**: sem LLM, só as leis inexistentes e o futuro dão "não sei" pelas regras. As que pedem aconselhamento, jurisprudência ou lei estrangeira, ou citam um diploma que não trata do assunto, recebem um artigo parecido ("Quantos dias de férias tem um trabalhador em França?" dá o Código do Trabalho de 2003). Com o limiar 3 ficam 3: duas de jurisprudência (`sem-002`, `sem-008`) e uma de um diploma que fixa o capital de uma sociedade concreta (`sem-009`).
 - **Códigos**: há vários anexos com o nome de cada código (republicações nas leis de alteração, que o DRE também consolida). A primeira versão escolhia o anexo de republicação da Lei 59/2007 para o Código Penal; escolher o diploma em vigor, com histórico e com mais artigos em vigor nesse anexo acerta em todos os códigos verificados.
+
+### Diagnóstico das 73 reais falhadas
+
+Cada uma das 73 reais sem o artigo certo em 1.º (limiar 3, `cruzado`) foi lida com o artigo certo e os três primeiros resultados e classificada (`rag/resultados/privado/reais-diagnostico.jsonl`, fora do git):
+
+| Classe | n | O que é |
+|---|--:|---|
+| (a) O 1.º também responde | 2 | O CIMI 121.º remete para o art. 44.º da LGT (juros de mora); o DL 28/2019 art. 19.º tem o mesmo prazo de conservação que o CIVA 52.º |
+| (b) Diploma errado | 65 | Ver abaixo |
+| (c) Artigo vizinho no diploma certo | 6 | O 1.º (âmbito) em vez do 3.º (exclusões); o 2081.º do Código Civil em vez do 2080.º… |
+| (d) Sem resposta na lei | 0 | |
+| (e) Diploma fora do acervo | 0 | |
+
+Aceitando as duas alternativas válidas, o artigo certo em 1.º nas reais passa de 63/136 (46%) para 65/136 (48%): o problema é mesmo a pesquisa, não o conjunto de avaliação.
+
+Os 65 "diploma errado" são de quatro tipos:
+
+| Tipo | n | Exemplo | Onde está o artigo certo |
+|---|--:|---|---|
+| **Diploma antigo, substituído** | 30 | O Código do Trabalho de 2003 (Lei n.º 99/2003, "parcialmente em vigor" no DRE, sem nota de revogação nos artigos) em 24; a Lei n.º 35/2004 que o regulamentava; a Lei n.º 4/84 (maternidade); o texto original do CIVA (DL 394-B/84, em blocos) | 2.º a 6.º lugar em 23, fora dos 10 em 7 |
+| **Regime especial ou paralelo** | 16 | A Lei Geral do Trabalho em Funções Públicas, o Estatuto dos Profissionais da Cultura, o acordo com os EUA nos Açores (RAR n.º 24/85), o serviço doméstico (DL 235/92), regulamentos internos de organismos | 2.º a 5.º em 14 |
+| **Outro tema** | 15 | Comunicação de contratos de arrendamento à AT (CIS 60.º) dá o NRAU; faltas por falecimento dá a licença de paternidade de 1995 | Fora dos 10 em todos os 15 |
+| **Lei de alteração ou de autorização** | 4 | "O artigo 3.º do DL 198/2012 passa a ter a seguinte redação: …" na Lei n.º 12/2022; a autorização legislativa do CIMI (Lei n.º 26/2003) | 2.º a 5.º |
+
+- Em 21 dos 65 o primeiro resultado tem **a mesma regra** (o CT de 2003 diz também 22 dias úteis de férias) e em 15 dá **uma resposta diferente ou não responde** (o CT de 2003 permitia contratos a termo de três anos, não dois; a Lei n.º 4/84 dizia 98 dias de puérpera, não 120). O reranker dá pontuações quase iguais a textos quase iguais; o desempate tem de vir de saber qual é a lei atual.
+- Os dados do DRE não chegam para isso: a Lei n.º 99/2003 e a Lei n.º 4/84 estão "em vigor" ou "parcialmente em vigor", e o texto original do CIVA (DL 394-B/84) "em vigor". A revogação com exceções (o art. 12.º da Lei n.º 7/2009 revoga a Lei n.º 99/2003 "com exceção dos artigos…") é tratada na fase 2.
+- Os 15 "outro tema" são o único grupo em que a pesquisa nem traz o artigo certo; a pesquisa por diploma com embeddings (abaixo) foi tentada para eles e não resultou.
+
+### Mais candidatos de recuperação: códigos principais e grafia antiga
+
+No diagnóstico, 17 das 136 reais nem chegavam aos candidatos do reranker. Quase todas são de códigos grandes (Trabalho, IRS, IVA, Civil) que a pergunta não nomeia: o BM25 em todo o acervo põe à frente portarias e regulamentos pequenos que repetem as palavras, e o artigo certo fica na posição 800 a 12 000. Duas alterações:
+
+- **Canal dos códigos principais** (`Pesquisa.codigos_principais`): o BM25 corre também só nos 54 códigos e leis gerais com 60 ou mais artigos, e os 15 melhores entram no reranker além dos 30 de antes (o reranker lê até 45). Custa cerca de 2 s por pergunta.
+- **Grafia anterior ao Acordo de 1990** (`rag.texto`): "nocturno", "acção", "excepção" e "óptimo" passam ao mesmo termo que "noturno", "ação", "exceção" e "ótimo", dos dois lados. Os textos consolidados do DRE ainda têm a grafia antiga e as perguntas não. Muda o método dos termos: é preciso reconstruir o índice (9 min).
+
+| Reais (136), limiar 3, sem LLM | Partida (`main`) | Com as duas alterações |
+|---|--:|--:|
+| Artigo certo em 1.º | 56% | 58% |
+| Nos 5 primeiros | 78% | 84% |
+| Nos 10 primeiros | 80% | 86% |
+| "Não sei" | 21% | 21% |
+| Fiabilidade | 65% (69/106) | 65% (70/108) |
+
+O ganho está na recuperação (+9 perguntas nos 10 primeiros), que é o que o passo do LLM usa. Nas outras 457 perguntas, com as mesmas alterações: literais 225/250 no 1.º (partida de antes da correção das revogações: 226), temporais 96/102 (96), revogadas 55/55 (55); das 16 perguntas que mudaram de posição contra aquela partida, 15 têm a mesma posição no código do `main` (a diferença vem da correção das revogações) e uma, lit-019, passou de 1.º para 2.º por causa das alterações. A medição completa das 593 perguntas no código do `main`, para uma comparação exata, não foi feita.
+
+### Pesquisa por diplomas com embeddings: não resultou
+
+Tentou-se atacar o diploma errado procurando primeiro o diploma: um vetor (modelo denso multilingue MiniLM) por diploma em vigor (título, sumário, nomes dos anexos), por anexo com nome e por cada 25 epígrafes (274 mil vetores, 1 h 50 em CPU), os 15 diplomas mais próximos da pergunta e o BM25 de artigos só dentro deles, junto aos candidatos do reranker. Medido nas 136 reais, sobre o índice com o tratamento dos artigos revogados (partida: 56% no 1.º, fiabilidade 65% com limiar 3):
+
+| Configuração | Artigo certo em 1.º | Nos 5 primeiros | "Não sei" | Fiabilidade (limiar 3) |
+|---|--:|--:|--:|--:|
+| Partida (`cruzado`) | 56% | 78% | 21% | 65% |
+| + 15 diplomas candidatos | 55% | 78% | 21% | 64% (69/107) |
+
+- Das 15 perguntas "outro tema" (o artigo certo nem entra nos 10 primeiros), só uma passou a entrar, e nenhuma ficou em 1.º. O embedding de título e sumário de um diploma não diz do que tratam os artigos (a Lei do Imposto do Selo não menciona senhorios), e as epígrafes de 25 artigos diluem-se.
+- O código foi revertido; o diagnóstico acima continua válido. Não se mediu com o LLM (não há `ANTHROPIC_API_KEY`).
+- Uma experiência à parte, sem ficar no código, somou ao resultado do reranker uma penalização aos anexos duplicados de códigos, aos artigos de leis de alteração ("passa a ter a seguinte redação") e ao texto original de diplomas alterados: subiu as reais para 58% (fiabilidade 69%). Foi desenhada depois de ver as falhas das mesmas 136 perguntas e o ganho é de três perguntas, por isso **não** ficou: precisa de perguntas novas (frente C) e de medir as literais, temporais e revogadas antes de entrar.
 
 ## Próximos passos
 
