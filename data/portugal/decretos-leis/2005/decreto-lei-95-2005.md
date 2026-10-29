@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-11-04'
+version_history:
+  file: decreto-lei-95-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-04'
+    amending: pt:dre:584867:por
+    amending_title: Decreto-Lei n.º 183/2005
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/95/2005/06/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:51:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 183/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-95-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,9 +167,11 @@ c) Cumprir as normas comunitárias relativas ao ambiente, higiene e bem-estar an
 
 ###### Artigo 3.º — Montante de crédito
 
-1 - O montante global de crédito a conceder não pode exceder os 45 milhões de euros.
+1 - O montante global de crédito a conceder não pode exceder os 5 milhões de euros.
 
 2 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 4.º — Forma do crédito
 

@@ -44,10 +44,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-11-14'
+version_history:
+  file: portaria-104-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-14'
+    amending: pt:dre:191988:por
+    amending_title: Portaria n.º 370/2012
+    changes:
+    - Adita Artigo 1.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/104/2012/04/17/p/dre/pt/html
@@ -73,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:52:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 370/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2012/portaria-104-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,6 +171,16 @@ iii) O incumprimento das densidades previstas nos planos de gestão florestal (P
 2 - De acordo com o n.º 2 do artigo 47.º do Regulamento (CE) n.º [1974/2006](http://data.europa.eu/eli/reg/2006/1974/oj?locale=pt), da Comissão, de 15 de dezembro de 2006, os beneficiários que se enquadrem em qualquer das situações previstas no número anterior devem comunicar por escrito à entidade competente o incumprimento das respetivas condições de acesso ou compromissos.
 
 3 - No âmbito das competências que lhe são atribuídas pelo artigo 93.º do Regulamento de Aplicação da Medida n.º 2.4, «Intervenções Territoriais Integradas», aprovado pela Portaria n.º 232-A/2008, de 11 de março, alterado e republicado pela Portaria n.º 1234/2010, de 10 de dezembro, as estruturas locais de apoio (ELA) podem definir orientações e autorizar ajustamentos de compromissos mediante análise das situações concretas e a evolução da situação climática.
+
+###### Artigo 1.º-A — Redução de períodos de compromisso
+
+A título excecional, no ano de 2012, os períodos dos compromissos previstos nas alíneas a) e b) do n.º 3 do artigo 16.º da Portaria n.º 229-B/2008, de 6 de março, com a redação dada pela Portaria n.º 814/2010, de 27 de agosto, são os seguintes:
+
+a) De 1 de fevereiro a 30 de junho, para os bovinos declarados;
+
+b) De 1 de maio a 19 de julho, para os ovinos e caprinos declarados.
+
+> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 370/2012](https://diariodarepublica.pt/dr/detalhe/portaria/370-2012-191988), publicado em 2012-11-09.
 
 ###### Artigo 2.º — Entrada em vigor
 

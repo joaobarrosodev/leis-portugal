@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231889:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8214fc8b584e2e26",
+    "0a4ae42931e8796b",
+    "77e611d52371b732",
+    "2bd511ee41f2d352",
+    "9ce35055592f8843",
+    "b7a02bb987719384",
+    "09ae10113e9c16e5",
+    "2c1441e3406c7234",
+    "dc66f9838cfe255d",
+    "467af73723d54f3f",
+    "d1cb199407c57e53",
+    "2b355cc351f72ddb",
+    "d435a298e1219bed",
+    "3985db448c8eadbf",
+    "a5c3940aa6ea20f5",
+    "67212e1d067069c3",
+    "94986560760febc0",
+    "b53c124461590000",
+    "98974b4071227501",
+    "a63d16f1921fd282",
+    "f79e9b74b07a8d64",
+    "5af1e3fd78f3ba1f"
+   ]
+  },
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354291:por",
+     "title": "Declaração de Rectificação n.º 156/94",
+     "published": "1994-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/156-1994-354291"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º",
+    "Retifica Artigo 16.º",
+    "Retifica Artigo 21.º"
+   ],
+   "fragments": [
+    "8214fc8b584e2e26",
+    "0a4ae42931e8796b",
+    "77e611d52371b732",
+    "2bd511ee41f2d352",
+    "9ce35055592f8843",
+    "b7a02bb987719384",
+    "09ae10113e9c16e5",
+    "2c1441e3406c7234",
+    "4018c9c0ec507753",
+    "467af73723d54f3f",
+    "d1cb199407c57e53",
+    "2b355cc351f72ddb",
+    "d435a298e1219bed",
+    "3985db448c8eadbf",
+    "a5c3940aa6ea20f5",
+    "67212e1d067069c3",
+    "9f922b8fccbdf157",
+    "b53c124461590000",
+    "98974b4071227501",
+    "a63d16f1921fd282",
+    "f79e9b74b07a8d64",
+    "607796ec18f58cf7"
+   ]
+  }
+ ],
+ "fragments": {
+  "8214fc8b584e2e26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIDG03)\n\nSistema de Incentivos a Serviços de Apoio à Indústria (SINAIPEDIP)\n\nPelo Decreto-Lei n.º 177/94, de 27 de Junho, foi criado, nos termos do disposto na\n\nDecisão n.º [94/170/CE](http://data.europa.eu/eli/dec/1994/170/oj?locale=pt), da Comissão, de 25 de Fevereiro, o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, aplicável a todo o território nacional durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.\n\nO artigo 3.º daquele diploma veio estatuir que a prossecução dos objectivos do PEDIP II se concretiza através de sistemas de incentivos, os quais são, por seu turno, desenvolvidos através de regimes de apoio, bem como de acções de natureza voluntarista dependentes de iniciativas da Administração Pública.\n\nNeste enquadramento, foi desde logo previsto no n.º 2 do aludido artigo 3.º do Decreto-Lei n.º 177/94 o Sistema de Incentivos a Serviços de Apoio à Indústria (SINAIPEDIP), cujos regimes de apoio viriam a ser estabelecidos pelo n.º I, n.º 3, da Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho.\n\nO presente diploma respeita ao SINAIPEDIP, o qual será objecto de consequente regulamentação específica para cada regime de apoio.\n\nAssim, determina-se o seguinte:"
+  },
+  "0a4ae42931e8796b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente despacho tem por objecto o Sistema de Incentivos a Serviços de Apoio à Indústria, adiante designado por SINAIPEDIP, previsto na alínea c) do n.º 2 do artigo 3.º do Decreto-Lei n.º 177/94, de 27 de Junho, que criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II."
+  },
+  "77e611d52371b732": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O SINAIPEDIP abrange os seguintes regimes de apoio:\n\na) Regime de Apoio às Estruturas Associativas;\n\nb) Regime de Apoio a Entidades de Assistência Técnica;\n\n2 - A regulamentação dos regimes de apoio referidos no número anterior será aprovada por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto.\n\n3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial."
+  },
+  "2bd511ee41f2d352": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Os beneficiários do SINAIPEDIP são:\n\na) Estruturas associativas nacionais, regionais e sectoriais;\n\nb) Federações ou confederações de estruturas associativas;\n\nc) Empresas de serviços de apoio à indústria;\n\nd) Entidades sem fins lucrativos com serviços de apoio à indústria;\n\n2 - As entidades a que se refere o número anterior podem candidatar-se conjuntamente sempre que a regulamentação específica não disponha em contrário."
+  },
+  "9ce35055592f8843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Quadro institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Quadro institucional\n\n1 - O organismo responsável pela gestão dos regimes de apoio previstos neste Sistema é a Direcção-Geral da Indústria (DGI).\n\n2 - Poderão ainda colaborar na gestão do Sistema, sempre que se trate de projectos no domínio da sua competência, outros organismos do ministério da Indústria e Energia e organismos de outros ministérios, a designar por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto, e ainda organismos das Regiões Autónomas designados pela respectiva Região."
+  },
+  "b7a02bb987719384": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Comissão de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão de selecção\n\nHaverá uma comissão de selecção para todos os regimes de apoio previstos no presente Sistema."
+  },
+  "09ae10113e9c16e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicações relevantes\n\n1 - As aplicações relevantes a apoiar no âmbito dos regimes de apoio que integram o SINAIPEDIP serão as definidas na regulamentação específica de cada regime.\n\n2 - O cálculo das aplicações relevantes será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.\n\n3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes serão aferidos com os respectivos custos médios de mercado.\n\n4 - Para a determinação das aplicações relevantes não deverão ser considerados:\n\na) As despesas com a aquisição de equipamentos em estado de uso e a construção de edifícios ou de instalações em zonas de concentração industrial, excepto em casos de clara justificação económica e técnica, mediante requerimento do interessado e autorizados por despacho do Ministro da Indústria e Energia;\n\nb) Os custos internos não expressamente previstos na regulamentação específica;\n\nc) Viaturas e material de transporte."
+  },
+  "2c1441e3406c7234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incentivos\n\n1 - Os incentivos a conceder no âmbito do SINAIPEDIP consistem em subsídios a fundo perdido, susceptíveis de majoração, nos termos a definir nas respectivas regulamentações específicas.\n\n2 - Nos casos previstos no n.º 2 do artigo 12.º o incentivo referir-se-á exclusivamente às partes autónomas aprovadas.\n\n3 - Na análise da viabilidade da entidade não são levados em conta os incentivos referidos no n.º 1, sem prejuízo de estes integrarem as fontes de financiamento do projecto."
+  },
+  "dc66f9838cfe255d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação profissional\n\nAs candidaturas ao SINAIPEDIP poderão envolver investimentos em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em despacho conjunto dos Ministros da Indústrias e Energia e do Emprego e da Segurança Social."
+  },
+  "467af73723d54f3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de candidaturas\n\n1 - A apresentação das candidaturas é contínua, sendo formalizada através da apresentação, na DGI, do formulário de candidatura e do respectivo projecto devidamente preenchidos (original e duas cópias).\n\n2 - O formulário de candidatura e o projecto serão acompanhados dos elementos do promotor e do projecto que permitam comprovar o cumprimento das condições de acesso, bem como de todos aqueles que sejam necessários para a avaliação das exigências de cada regime de apoio."
+  },
+  "d1cb199407c57e53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Início do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Início do projecto\n\n1 - Salvo o disposto no n.º 3, os projectos no âmbito do SINAIPEDIP não podem ser iniciados antes da data de apresentação da respectiva candidatura;\n\n2 - Para efeitos do disposto no número anterior, considera-se início da realização do projecto a data da factura mais antiga imputável a este.\n\n3 - Exceptuam-se do disposto no n.º 1:\n\na) Os projectos abrangidos pelos artigos 21.º e 22.º do Decreto-Lei n.º 177/94, de 27 de Junho;\n\nb) Os casos previstos na regulamentação específica."
+  },
+  "2b355cc351f72ddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pós-projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pós-projecto\n\nPara efeitos dos regimes de apoio do SINAIPEDIP, considera-se pós-projecto, no que se refere ao cumprimento efectivo das condições de acesso assumidas, o momento imediatamente após a concretização do respectivo projecto, sem prejuízo da verificação prévia da existência de condições para aquele cumprimento."
+  },
+  "d435a298e1219bed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Concretização do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Concretização do projecto\n\n1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000, sem prejuízo do que vier a ser estabelecido em regulamentação específica, na qual poderá ser fixada uma data anterior àquela.\n\n2 - Quando a data prevista para a concretização do projecto ultrapassar a data indicada no número anterior, poderão ser aceites candidaturas desde que o projecto a que respeitam contemple partes autónomas cuja concretização se verifique até àquela data.\n\n3 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato."
+  },
+  "3985db448c8eadbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Processo e prazos de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo e prazos de apreciação\n\n1 - Compete à DGI analisar as candidaturas no prazo que for definido na regulamentação específica, podendo recorrer, para o efeito, ao parecer de outros organismos ou de consultores externos.\n\n2 - Poderão ser solicitados ao promotor esclarecimentos complementares, a prestar no prazo de 10 dias úteis, decorridos os quais a ausência de resposta, excepto quando não imputável ao promotor, valerá como desistência da candidatura a que se refere.\n\n3 - O prazo a que se refere o n.º 1 será suspenso durante o prazo de resposta do promotor, não se considerando, para este efeito, quaisquer respostas parciais ou incompletas."
+  },
+  "a5c3940aa6ea20f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Alegações contrárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alegações contrárias\n\n1 - No caso de parecer desfavorável à prossecução da candidatura será o mesmo comunicado ao promotor, no prazo de 10 dias úteis, através de carta registada com aviso de recepção.\n\n2 - O promotor, querendo, poderá apresentar alegações contrárias, no prazo de 20 dias úteis contados da notificação, as quais serão submetidas a decisão conjuntamente com a reapreciação de candidatura."
+  },
+  "67212e1d067069c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão\n\n1 - A decisão sobre os pedidos de atribuição dos incentivos é da competência do Ministro da Indústria e Energia.\n\n2 - A comunicação, ao promotor, da decisão que venha a recair sobre um pedido de atribuição de incentivos será efectuada, pela DGI, no prazo de 10 dias úteis sobre a sua emissão."
+  },
+  "94986560760febc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalização da concessão do incentivo\n\n1 - Para os casos previstos n.º 2 do artigo 3.º poderá ser celebrado quer um único contrato entre o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e o representante do conjunto de entidades, quer vários contratos entre o IAPMEI e os co-promotores.\n\n2 - Para os efeitos do disposto no número anterior, deverão ser definidas com rigor as responsabilidades de cada um dos co-promotores na execução do projecto, nomeadamente no que se refere a financiamento, aplicações relevantes e calendarização."
+  },
+  "b53c124461590000": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento\n\n1 - O pagamento dos incentivos atribuídos compete ao IAPMEI, mediante ordem de pagamento emitida pela DGI.\n\n2 - A forma de pagamento, com exclusão do que se referir à formação profissional, será definida por despacho do Ministro da Indústria e Energia, podendo ser previstos adiantamentos.\n\n3 - Para os efeitos do disposto no n.º 1, o promotor deverá remeter à DGI certidões comprovativas da regularidade da sua situação contributiva perante o Estado e a segurança social, sem o que não poderá ser realizado qualquer pagamento.\n\n4 - No caso de insuficiência de verbas para o apoio a projectos aprovados, e até que haja disponibilidade orçamental, serão os mesmos agrupados e ordenados, para efeitos de concessão de incentivos, de acordo com critérios de prioridade a estabelecer por despacho do Ministro da Indústria e Energia em função dos objectivos da política industrial e da valia industrial dos projectos, informando-se deste facto os respectivos promotores."
+  },
+  "98974b4071227501": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos promotores\n\n1 - As entidades que venham a beneficiar de qualquer incentivo no âmbito do SINAIPEDIP ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos e prazos fixados no contrato;\n\nb) Cumprir os objectivos constantes do projecto;\n\nc) Cumprir as obrigações legais e fiscais, de harmonia com o estabelecido na regulamentação específica;\n\nd) Fornecer todos os elementos que lhes forem solicitados pelas entidades com competências de acompanhamento, controlo e fiscalização;\n\ne) Comunicar à DGI qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos às condições de acesso com que o projecto foi aprovado, bem como a sua realização pontual;\n\n2 - As entidades beneficiárias ficam sujeitas à verificação da utilização dos incentivos concedidos, não podendo ceder, locar, alienar ou por qualquer modo onerar, no todo ou em parte, sem autorização prévia do Ministro da Indústria e Energia, quer a gestão, quer os bens adquiridos para a execução do projecto, até três anos após a concretização deste."
+  },
+  "a63d16f1921fd282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contabilização dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contabilização dos incentivos\n\nO incentivo concedido será contabilizado de acordo com o Plano Oficial de Contabilidade e, quando não aplicável, serão criadas contas especiais para o seu registo, não sendo em qualquer caso susceptível de distribuição durante o período de vigência do contrato."
+  },
+  "f79e9b74b07a8d64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Rescisão por incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rescisão por incumprimento\n\n1 - Para além do disposto no artigo 15.º do Decreto-Lei n.º 177/94, de 27 de Junho, constituem fundamentos de rescisão do contrato de atribuição de incentivos o incumprimento do disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º\n\n2 - O gestor do PEDIP II dará conhecimento a todos os organismos gestores da identidade dos promotores que se encontrem nas situações referidas nos n.os 4 e 5 do artigo 15.º do Decreto-Lei n.º 177/94, de 27 de Junho."
+  },
+  "5af1e3fd78f3ba1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Actualização monetária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Actualização monetária\n\nPara efeitos de actualização monetária poderão ser revistos por despachos do Ministro da Indústria e Energia os limites máximos dos incentivos referidos na regulamentação específica dos regimes de apoio abrangidos pelo SINAIPEDIP.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "4018c9c0ec507753": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Formação profissional",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+   ],
+   "markdown": "###### Artigo 8.º — Formação profissional\n\nAs candidaturas ao SINAIPEDIP poderão envolver investimentos em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+  },
+  "9f922b8fccbdf157": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Formalização da concessão do incentivo",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+   ],
+   "markdown": "###### Artigo 16.º — Formalização da concessão do incentivo\n\n1 - Para os casos previstos n.º 2 do artigo 3.º poderão ser celebrados quer um único contrato entre o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e o representante do conjunto de entidades, quer vários contratos entre o IAPMEI e os co-promotores.\n\n2 - Para os efeitos do disposto no número anterior, deverão ser definidas com rigor as responsabilidades de cada um dos co-promotores na execução do projecto, nomeadamente no que se refere a financiamento, aplicações relevantes e calendarização.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+  },
+  "607796ec18f58cf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Actualização monetária",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+   ],
+   "markdown": "###### Artigo 21.º — Actualização monetária\n\nPara efeitos de actualização monetária poderão ser revistos por despacho do Ministro da Indústria e Energia os limites máximos dos incentivos referidos na regulamentação específica dos regimes de apoio abrangidos pelo SINAIPEDIP.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30."
+  }
+ }
+}

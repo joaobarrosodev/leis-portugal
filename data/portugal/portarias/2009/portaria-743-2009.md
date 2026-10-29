@@ -40,10 +40,24 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-07'
+version_history:
+  file: portaria-743-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-07'
+    amending: pt:dre:491195:por
+    amending_title: Portaria n.º 1154/2009
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/743/2009/07/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1154/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-743-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -322,11 +337,13 @@ Em derrogação do artigo anterior, as operações de reestruturação que já t
 
 ###### Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010
 
-Sem prejuízo do disposto no n.º 2 do artigo 11.º e no n.º 2 do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:
+Sem prejuízo do disposto no n.º 2 do artigo 11.º e na segunda parte do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:
 
-1 - A recepção de candidaturas decorre entre a data de publicação da presente portaria até 30 de Setembro de 2009.
+1 - A recepção de candidaturas é prorrogada até 30 de Outubro de 2009.
 
-2 - As candidaturas são decididas até 15 de Dezembro de 2009.
+2 - As candidaturas são decididas até 15 de Janeiro de 2010.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-491195), publicado em 2009-10-02.
 
 ###### Artigo 4.º — Produção de efeitos
 

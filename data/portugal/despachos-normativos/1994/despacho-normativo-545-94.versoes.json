@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231890:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3397b7c1e5e54227",
+    "eee032ca9e06040d",
+    "437c5be165b45b54",
+    "02d5c1d1638d2f8c",
+    "4b898dd1e90a5615",
+    "c38cd7c2445bb4e7",
+    "e197a998adc28c0f",
+    "7b9e85a578dab493",
+    "40ece002ef1dbdf8",
+    "790c92bed739ce45",
+    "5016919cc65b1dbd",
+    "1bfa62d73bcb4d10",
+    "a0ceac82b2a9938d",
+    "9a9af5738a4d9c89",
+    "488bb11003ab3c76",
+    "9ecbcebc5e61cd87",
+    "23c0debf764cf773",
+    "aee4b5bf311604f6",
+    "5d606cb365f8b1e5",
+    "a63d16f1921fd282",
+    "f79e9b74b07a8d64",
+    "b40a90ec2acc57e7"
+   ]
+  },
+  {
+   "date": "1998-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:209002:por",
+     "title": "Despacho Normativo n.º 24/98",
+     "published": "1998-04-03",
+     "dre_path": "/dr/detalhe/despacho-normativo/24-1998-209002"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "3397b7c1e5e54227",
+    "eee032ca9e06040d",
+    "242670f18a8cfcd1",
+    "02d5c1d1638d2f8c",
+    "4b898dd1e90a5615",
+    "c38cd7c2445bb4e7",
+    "e197a998adc28c0f",
+    "7b9e85a578dab493",
+    "40ece002ef1dbdf8",
+    "790c92bed739ce45",
+    "5016919cc65b1dbd",
+    "1bfa62d73bcb4d10",
+    "a0ceac82b2a9938d",
+    "9a9af5738a4d9c89",
+    "488bb11003ab3c76",
+    "9ecbcebc5e61cd87",
+    "23c0debf764cf773",
+    "aee4b5bf311604f6",
+    "5d606cb365f8b1e5",
+    "a63d16f1921fd282",
+    "f79e9b74b07a8d64",
+    "b40a90ec2acc57e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "3397b7c1e5e54227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIDG01)\n\nSistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP)\n\nO Decreto-Lei n.º 177/94, de 27 de Junho, foi criado, nos termos do disposto na Decisão n.º [94/170/CE](http://data.europa.eu/eli/dec/1994/170/oj?locale=pt), da Comissão, de 25 de Fevereiro, o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, aplicável a todo o território nacional durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.\n\nO artigo 3.º daquele diploma veio estatuir que a prossecução dos objectivos do PEDIP II se concretiza através de sistemas de incentivos, os quais são, por seu turno, desenvolvidos através de regimes de apoio, bem como de acções de natureza voluntarista dependentes de iniciativas da Administração Pública.\n\nNeste enquadramento, foi desde logo previsto no n.º 2 do aludido artigo 3.º do Decreto-Lei n.º 177/94 o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP), cujos regimes de apoio viriam a ser estabelecidos pelo n.º I, n.º 1, da Resolução do Conselho de Ministros n.º 50/94, de 1 de Julho.\n\nO presente diploma respeita ao SINDEPEDIP, o qual será objecto de consequente regulamentação específica para cada regime de apoio.\n\nAssim, determina-se o seguinte:"
+  },
+  "eee032ca9e06040d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente despacho tem por objecto o Sistema de Incentivos a Estratégias de Empresas Industriais, adiante designado por SINDEPEDIP, previsto na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 177/94, de 27 de Junho, que cria o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II."
+  },
+  "437c5be165b45b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O SINDEPEDIP abrange os seguintes regimes de apoio:\n\na) Regime de Apoio à Avaliação Empresarial, compreendendo o apoio a:\n\nDiagnósticos e análises estratégicas;\n\nDiagnósticos de investimento;\n\nEstudos parcelares;\n\nAuditorias;\n\nb) Regime de Apoio à Investigação e Desenvolvimento, compreendendo o apoio a:\n\nEstudos prévios às acções de investigação e desenvolvimento;\n\nProjectos de investigação e desenvolvimento;\n\nc) Regime de Apoio à Realização de Estratégias Empresariais Integradas, compreendendo o apoio a:\n\nInovação e internacionalização das estruturas empresariais;\n\nProjectos estratégicos de regime contratual;\n\nd) Regime de Apoio a PME de Menor Dimensão, compreendendo o apoio a:\n\nPromoção de factores dinâmicos de competitividade;\n\nPequenos projectos de modernização empresarial;\n\ne) Regime de Apoio à Promoção da Qualidade Industrial, compreendendo:\n\nApoio à certificação e à calibração;\n\nApoio à implementação de sistemas de gestão pela qualidade total;\n\nf) Regime de Apoio à Utilização do Sistema de Propriedade Industrial;\n\ng) Regime de Apoio à Adesão ao Mercado de Capitais;\n\nh) Regime de Apoio à Produtividade e à Demonstração Empresarial, compreendendo o apoio a:\n\nAcções de demonstração empresarial;\n\nEmpresas demonstradoras de tecnologias avançadas;\n\ni) Regime de Apoio à Cooperação Interempresas.\n\n2 - A regulamentação dos regimes de apoio referidos no número anterior será aprovada por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto.\n\n3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial."
+  },
+  "02d5c1d1638d2f8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Os beneficiários do SINDEPEDIP são:\n\na) Empresas industriais incluídas nas CAE 10 a 37 do Decreto-Lei n.º 182/93, de 14 de Maio;\n\nb) Outras empresas que, embora não incluídas naquelas CAE, desenvolvam actividade industrial relevante, desde que visem a realização de projectos no âmbito das mesmas CAE, sem prejuízo do que vier a ser definido em regulamentação específica;\n\nc) As redes de cooperação criadas no âmbito do Despacho Normativo n.º 210/91, de 25 de Setembro, candidatas ao Regime de Apoio à Cooperação Interempresas;\n\nd) As empresas participantes de redes de cooperação apoiadas no âmbito do Regime de Apoio à Cooperação Interempresas;\n\ne) Os inventores independentes candidatos ao Regime de Apoio à Utilização do Sistema de Propriedade Industrial.\n\n2 - As entidades a que se referem as alíneas a) e b) do n.º 1 podem candidatar-se conjuntamente sempre que a regulamentação específica não disponha em contrário.\n\n3 - Excluem-se do disposto nas alíneas a) a d) do n.º 1 as empresas que visem investimentos industriais ligados à transformação de produtos agrícolas e silvícolas, salvo o que ficar expresso em despacho conjunto dos Ministros da Indústria e Energia e da Agricultura."
+  },
+  "4b898dd1e90a5615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Quadro institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Quadro institucional\n\n1 - Os organismos gestores dos regimes de apoio previstos no n.º 1 do artigo 2.º são:\n\na) O Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), nos casos das alíneas a), c), d), g) e i);\n\nb) O Instituto Nacional de Engenharia e Tecnologia Industrial, no caso da alínea b);\n\nc) O Instituto Português da Qualidade, no caso da alínea e);\n\nd) O Instituto Nacional da Propriedade Industrial, no caso da alínea f);\n\ne) A Direcção-Geral da Indústria, no caso da alínea h).\n\n2 - Poderão ainda colaborar na gestão do Sistema, sempre que se trate de projectos no domínio da sua competência, outros organismos do Ministério da Indústria e Energia, organismos de outros ministérios, a designar por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto, e ainda organismos das Regiões Autónomas designados pelas respectivas Regiões."
+  },
+  "c38cd7c2445bb4e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Comissão de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão de selecção\n\nHaverá uma comissão de selecção para todos os regimes de apoio compreendidos no presente Sistema."
+  },
+  "e197a998adc28c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicações relevantes\n\n1 - As aplicações relevantes a apoiar no âmbito dos regimes de apoio que integram o SINDEPEDIP serão as definidas na regulamentação específica de cada regime.\n\n2 - O cálculo das aplicações relevantes será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.\n\n3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes serão aferidos com os respectivos custos médios de mercado.\n\n4 - Para a determinação das aplicações relevantes não deverão ser considerados:\n\na) As despesas com a aquisição de equipamentos em estado de uso e a construção de edifícios ou de instalações em zonas de concentração industrial, excepto em casos de clara justificação económica e técnica, mediante requerimento do interessado e autorizados por despacho do Ministro da Indústria e Energia:\n\nb) Os custos internos não expressamente previstos na regulamentação específica;\n\nc) Viaturas e material de transporte."
+  },
+  "7b9e85a578dab493": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incentivos\n\n1 - Os incentivos a conceder no âmbito do SINDEPEDIP podem consistir em subsídios a fundo perdido e subsídios reembolsáveis, susceptíveis de majoração, nos termos a definir nas respectivas regulamentações específicas.\n\n2 - Nos casos previstos no n.º 2 do artigo 12.º, o incentivo referir-se-á exclusivamente às parte autónomas aprovadas.\n\n3 - Na análise da viabilidade da empresa não são levados em conta os incentivos referidos no n.º 1, sem prejuízo de estes integrarem as fontes de financiamento do projecto."
+  },
+  "40ece002ef1dbdf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação profissional\n\nAs candidaturas ao SINDEPEDIP poderão envolver investimentos em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social."
+  },
+  "790c92bed739ce45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de candidaturas\n\n1 - A apresentação das candidaturas é contínua, com excepção das que se enquadrem no Regime de Apoio à Produtividade e Demonstração Industrial e na acção B do Regime de Apoio à Promoção da Qualidade Industrial.\n\n2 - Com excepção dos casos previstos nos n.os 4 a 6 do presente artigo a formalização das candidaturas far-se-á através da apresentação, no respectivo organismo gestor, do formulário de candidatura e do respectivo projecto devidamente preenchidos (original e duas cópias).\n\n3 - O formulário de candidatura e o projecto serão acompanhados dos elementos do promotor e do projecto que permitam comprovar o cumprimento das condições de acesso, bem como de todos aqueles que sejam necessários para a avaliação das exigências de cada regime de apoio.\n\n4 - Os promotores de projectos no âmbito do Regime de Apoio à Realização de Estratégias Empresariais Integradas e de empresas demonstradoras de tecnologias avançadas (Regime de Apoio à Produtividade e Demonstração Industrial), que recorram a financiamento de instituições do sistema bancário, subscritoras de um protocolo com o IAPMEI, apresentarão nessas instituições o dossier de investimento, o qual deverá incluir a documentação referida nos n.os 2 e 3.\n\n5 - A respectiva entidade bancária:\n\na) Remeterá ao organismo gestor, no prazo máximo de 10 dias úteis, cópia da documentação referida no número anterior, devendo encontrar-se devidamente registada, em local apropriado do formulário de candidatura, a data de recepção do dossier de investimento pela entidade bancária;\n\nb) Comunicará ao promotor, após decisão, a remessa do dossier de investimento ao respectivo organismo gestor.\n\n6 - Sem prejuízo do que vier a ser estabelecido para os concursos a realizar no âmbito de empresas demonstradoras de tecnologias avançadas (Regime de Apoio à Produtividade e Demonstração Industrial), a formalização das candidaturas a que se refere o n.º 4 será efectivada pelo organismo gestor na data em que este receber da entidade bancária a comunicação da decisão sobre o financiamento do projecto e respectiva fundamentação."
+  },
+  "5016919cc65b1dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Início do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Início do projecto\n\n1 - Os projectos do âmbito do SINDEPEDIP não podem ser iniciados antes da data de apresentação da respectiva candidatura.\n\n2 - Para efeitos do disposto no número anterior, considera-se início da realização do projecto a data da factura mais antiga imputável ao projecto.\n\n3 - Exceptuam-se do disposto no n.º 1:\n\na) Os projectos abrangidos pelos artigos 21.º e 22.º do Decreto-Lei n.º 177/94, de 27 de Junho;\n\nb) Os projectos abrangidos pelo disposto no n.º 4 do artigo 9.º, os quais poderão ser iniciados desde a data de recepção pela entidade bancária, nos termos do n.º 5 do mesmo artigo;\n\nc) Os casos previstos na regulamentação específica."
+  },
+  "1bfa62d73bcb4d10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pós-projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pós-projecto\n\nConsidera-se pós-projecto, para efeitos dos regimes de apoio do SINDEPEDIP:\n\na) No que se refere ao cumprimento efectivo das condições de acesso assumidas, o momento imediatamente após a concretização do respectivo projecto, sem prejuízo da verificação prévia da existência de condições para aquele cumprimento;\n\nb) No que se refere ao limite do período de análise da viabilidade do projecto, o final do ano de extinção da dívida;\n\nc) No que se refere ao limite do período a considerar para o cálculo das aplicações relevantes relativas ao fundo de maneio, o final do ano de cruzeiro do projecto."
+  },
+  "a0ceac82b2a9938d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Concretização do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Concretização do projecto\n\n1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000, sem prejuízo do que vier a ser estabelecido em regulamentação específica, na qual poderá ser fixada uma data anterior àquela.\n\n2 - Quando a data prevista para a concretização do projecto ultrapassar a data indicada no número anterior, poderão ser aceites candidaturas desde que o projecto a que respeitam contemple partes autónomas cuja concretização se verifique até àquela data.\n\n3 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários do contrato."
+  },
+  "9a9af5738a4d9c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Processo e prazos de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo e prazos de apreciação\n\n1 - Compete ao organismo gestor analisar as candidaturas no prazo que for definido na regulamentação específica, podendo aquele recorrer, para o efeito, ao parecer de outros organismos ou de consultores externos.\n\n2 - Poderão ser solicitados ao promotor esclarecimentos complementares, a prestar no prazo de 10 dias úteis, decorridos os quais a ausência de resposta, excepto quando não imputável ao promotor, significará a desistência da candidatura a que se refere.\n\n3 - O prazo a que se refere o n.º 1 será suspenso durante o prazo de resposta do promotor, não se considerando, para este efeito, quaisquer respostas parciais ou incompletas."
+  },
+  "488bb11003ab3c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Alegações contrárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alegações contrárias\n\n1 - No caso de parecer desfavorável à prossecução da candiatura, será o mesmo comunicado ao promotor, no prazo de 10 dias úteis, através de carta registada com aviso de recepção.\n\n2 - O promotor, querendo, poderá apresentar alegações contrárias, no prazo de 20 dias úteis contados da notificação, as quais serão submetidas a decisão conjuntamente com a reapreciação da candidatura."
+  },
+  "9ecbcebc5e61cd87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão\n\n1 - A decisão sobre os pedidos de atribuição dos incentivos é da competência do Ministro da Indústria e Energia.\n\n2 - A comunicação, ao promotor, da decisão que venha a recair sobre um pedido de atribuição de incentivos será efectuada, pelo respectivo organismo gestor, no prazo de 10 dias úteis sobre a sua emissão."
+  },
+  "23c0debf764cf773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalização da concessão do incentivo\n\n1 - Para os casos previstos no n.º 2 do artigo 3.º, com excepção do disposto em contrário na regulamentação específica de cada regime de apoio, poderão ser celebrados quer um único contrato entre o IAPMEI e o representante do conjunto de empresas, quer vários contratos entre o IAPMEI e os co-promotores.\n\n2 - Para os efeitos do disposto no número anterior, deverão ser definidas com rigor as responsabilidades de cada um dos co-promotores na execução do projecto, nomeadamente no que se refere a financiamento, aplicações relevantes e calendarização."
+  },
+  "aee4b5bf311604f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento\n\n1 - O pagamento dos incentivos atribuídos compete:\n\na) Ao IAPMEI, mediante ordem de pagamento emitida pelo organismo gestor;\n\nb) Às instituições do sistema bancário referidas no n.º 4 do artigo 9.º\n\n2 - O pagamento dos subsídios a fundo perdido é sempre feito nos termos da alínea a) do número anterior.\n\n3 - A forma de pagamento, com exclusão do que se referir à formação profissional, será definida por despacho do Ministro da Indústria e Energia, podendo ser previstos adiantamentos.\n\n4 - Para os efeitos do disposto no n.º 1, o promotor deverá remeter ao organismo gestor ou às instituições do sistema bancário certidões comprovativas de situação contributiva regularizada perante o Estado e a segurança social, sem o que não poderá ser realizado qualquer pagamento.\n\n5 - No caso de insuficiência de verbas para o apoio a projectos aprovados, e até que haja disponibilidade orçamental, serão os mesmos agrupados e ordenados, para efeitos de concessão de incentivos, de acordo com critérios de prioridade a estabelecer por despacho do Ministro da Indústria e Energia em função dos objectivos da política industrial e da valia industrial dos projectos, informando-se deste facto os respectivos promotores.\n\n6 - Sempre que nos critérios de prioridade referidos no número anterior seja levada em conta a antiguidade das candidaturas, a data a considerar para esse efeito relativamente aos projectos abrangidos pelo n.º 4 do artigo 9.º será a da apresentação do dossier de investimento na instituição do sistema bancário."
+  },
+  "5d606cb365f8b1e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos promotores\n\n1 - As entidades que venham a beneficiar de qualquer incentivo no âmbito do SINDEPEDIP ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos e prazos fixados no contrato;\n\nb) Cumprir os objectivos constantes do projecto;\n\nc) Cumprir atempadamente as obrigaçãeos legais e fiscais, de harmonia com o estabelecido na regulamentação específica;\n\nd) Fornecer todos os elementos que lhe forem solicitados pelas entidades com competências de acompanhamento, controlo e fiscalização e, bem assim, pelas instituições do sistema bancário referidas no n.º 4 do artigo 9.º;\n\ne) Comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos às condições de acesso com que o projecto foi aprovado, bem como a sua realização pontual.\n\n2 - As entidades beneficiárias ficam sujeitas à verificação da utilização dos incentivos concedidos, não podendo ceder, locar, alienar ou por qualquer modo onerar, no todo ou em parte, sem autorização prévia do Ministro da Indústria e Energia, quer a gestão, quer os bens adquiridos para a execução do projecto, até três anos após a concretização do projecto."
+  },
+  "a63d16f1921fd282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contabilização dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contabilização dos incentivos\n\nO incentivo concedido será contabilizado de acordo com o Plano Oficial de Contabilidade e, quando não aplicável, serão criadas contas especiais para o seu registo, não sendo em qualquer caso susceptível de distribuição durante o período de vigência do contrato."
+  },
+  "f79e9b74b07a8d64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Rescisão por incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rescisão por incumprimento\n\n1 - Para além do disposto no artigo 15.º do Decreto-Lei n.º 177/94, de 27 de Junho, constituem fundamentos de rescisão do contrato de atribuição de incentivos o incumprimento do disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º\n\n2 - O gestor do PEDIP II dará conhecimento a todos os organismos gestores da identidade dos promotores que se encontrem nas situações referidas nos n.os 4 e 5 do artigo 15.º do Decreto-Lei n.º 177/94, de 27 de Junho."
+  },
+  "b40a90ec2acc57e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Actualização monetária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Actualização monetária\n\nPara efeitos de actualização monetária poderão ser revistos, por despacho do Ministro da Indústria e Energia, os limites máximos dos incentivos referidos na regulamentação específica dos regimes de apoio abrangidos pelo SINDEPEDIP.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "242670f18a8cfcd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1998-04-08",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 24/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1998-209002), publicado em 1998-04-03."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O SINDEPEDIP abrange os seguintes regimes de apoio:\n\na) Regime de Apoio à Avaliação Empresarial, compreendendo o apoio a:\n\nDiagnósticos e análises estratégicas;\n\nDiagnósticos de investimento;\n\nEstudos parcelares;\n\nAuditorias;\n\nb) Regime de Apoio à Investigação e Desenvolvimento, compreendendo o apoio a:\n\nEstudos prévios às acções de investigação e desenvolvimento;\n\nProjectos de investigação e desenvolvimento;\n\nc) Regime de Apoio à Realização de Estratégias Empresariais Integradas, compreendendo o apoio a:\n\nInovação e internacionalização das estruturas empresariais;\n\nProjectos estratégicos de regime contratual;\n\nd) Regime de Apoio a PME de Menor Dimensão, compreendendo o apoio a:\n\nPromoção de factores dinâmicos de competitividade;\n\nPequenos projectos de modernização empresarial;\n\ne) Regime de Apoio à Promoção da Qualidade Industrial, compreendendo:\n\nApoio à certificação e à calibração;\n\nApoio à implementação de sistemas de gestão pela qualidade total;\n\nApoio à certificação no domínio do ambiente, ao registo no EMAS e à atribuição do rótulo ecológico a produtos;\n\nf) Regime de Apoio à Utilização do Sistema de Propriedade Industrial;\n\ng) Regime de Apoio à Adesão ao Mercado de Capitais;\n\nh) Regime de Apoio à Produtividade e à Demonstração Empresarial, compreendendo o apoio a:\n\nAcções de demonstração empresarial;\n\nEmpresas demonstradoras de tecnologias avançadas;\n\ni) Regime de Apoio à Cooperação Interempresas.\n\n2 - A regulamentação dos regimes de apoio referidos no número anterior será aprovada por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto.\n\n3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial.\n\n> Alterado pelo/a [Despacho Normativo n.º 24/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1998-209002), publicado em 1998-04-03."
+  }
+ }
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-02-02'
+version_history:
+  file: decreto-lei-71-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-02-02'
+    amending: pt:dre:571196:por
+    amending_title: Decreto-Lei n.º 32/97
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/71/1994/03/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:35:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 32/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-71-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -272,9 +287,11 @@ A actuação do GECAF, assente numa gestão por objectivos e um adequado control
 
 ###### Artigo 14.º — Fiscalização das obras
 
-1 - O GECAF deve celebrar um protocolo de colaboração destinado a definir os termos de uma associação com o Instituto de Soldadura e Qualidade (ISQ), associação privada de utilidade pública sem fins lucrativos para efeitos de fiscalização das obras e outras tarefas conexas.
+1 - A fiscalização das obras e a assistência técnica ao GECAF caberão ao Instituto de Soldadura e Qualidade (ISQ) nos termos do protocolo a celebrar entre estas duas entidades.
 
 2 - O protocolo referido no número anterior estabelecerá obrigatoriamente a remuneração devida pelos serviços a prestar pelo ISQ e a forma do respectivo pagamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 32/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1997-571196), publicado em 1997-01-28.
 
 ###### Artigo 15.º — Extinção
 

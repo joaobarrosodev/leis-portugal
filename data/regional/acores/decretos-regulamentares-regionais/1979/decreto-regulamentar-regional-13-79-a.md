@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-06-01'
+version_history:
+  file: decreto-regulamentar-regional-13-79-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-05-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-06-01'
+    amending: pt:dre:153353:por
+    amending_title: Decreto Regulamentar Regional n.º 15/2002/A
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    15/2002/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1979/decreto-regulamentar-regional-13-79-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,21 +115,35 @@ Estão em curso trabalhos para se obter uma versão aperfeiçoada do desenho do 
 
 Nestes termos, o Governo da Região Autónoma dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º É aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.
+É aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma.
+
+###### Artigo 2.º
+
+1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.
 
 2 - Havendo dois mastros, a Bandeira Nacional ocupará o da direita e a dos Açores o da esquerda; havendo três mastros, a Bandeira Nacional ocupará o do centro e a dos Açores o da direita; havendo mais de três mastros, a Bandeira Nacional ocupará o primeiro da direita e a dos Açores o seguinte.
 
-Art. 3.º - 1 - A bandeira será hasteada nos domingos e dias feriados.
+###### Artigo 3.º
 
-2 - A bandeira será hasteada desde manhã ao pôr do Sol, excepto nos dias feriados de gala, em que se manterá até à meia-noite, nos edifícios que forem iluminados.
+1 - A bandeira estará obrigatoriamente hasteada aos domingos e dias feriados desde manhã ao pôr do Sol.
 
-Art. 4.º A bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro.
+2 - Havendo condições adequadas de iluminação, a bandeira poderá manter-se hasteada desde o final até ao início do período de expediente normal dos serviços dos dias úteis imediatamente anteriores e posteriores aos domingos e feriados, respectivamente.
 
-Art. 5.º É aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 15/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2002-153353), publicado em 2002-05-31.
 
-Art. 6.º Este diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.
+###### Artigo 4.º
+
+A bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro.
+
+###### Artigo 5.º
+
+É aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma.
+
+###### Artigo 6.º
+
+Este diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.
 
 Aprovado pelo Governo Regional em 4 de Abril de 1979.
 

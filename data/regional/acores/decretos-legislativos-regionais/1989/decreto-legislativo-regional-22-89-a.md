@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-03-20'
+version_history:
+  file: decreto-legislativo-regional-22-89-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-11-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-03-20'
+    amending: pt:dre:176774:por
+    amending_title: Decreto Legislativo Regional n.º 8/92/A
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    8/92/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1989/decreto-legislativo-regional-22-89-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,9 +124,17 @@ Considerando que a natureza das funções cometidas aquele organismo não se com
 
 Nestes termos, a Assembleia Legislativa Regional dos Açores decreta, com base na alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, o seguinte:
 
-Artigo 1.º Os contratos celebrados pelo GEPAP ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, estão dispensados de visto prévio da Secção Regional dos Açores do Tribunal de Contas.
+###### Artigo 1.º
 
-Art. 2.º A cobrança coerciva das dívidas à Região emergentes da execução do PDAPIP efectua-se nos termos do artigo 71.º do Estatuto Político-Administrativo da Região Autónoma dos Açores.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.
+
+###### Artigo 2.º
+
+A cobrança coerciva das dívidas à Região emergentes da execução do PDAPIP efectua-se nos termos do artigo 71.º do Estatuto Político-Administrativo da Região Autónoma dos Açores.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Setembro de 1989.
 

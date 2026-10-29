@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:604782:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-03-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "011a5a0b86185053",
+    "446b262259d835ee",
+    "ebec4ed3237de8f3",
+    "e388df33a5a5c34c",
+    "86a9b74760df2007",
+    "b7690500bfa5269c",
+    "bcda79beb9b66811",
+    "3933a54004fe1967",
+    "5c83db3f56057a52",
+    "a71c183278198634",
+    "9c1af05541487aba",
+    "bbac8471ec2777f1",
+    "75b9bfe5b916ccee",
+    "2a0b0c16426b57cf",
+    "bb7eb5635baa9456",
+    "9e989e7e395fb079",
+    "14dcfa265f305c8f"
+   ]
+  },
+  {
+   "date": "2017-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106829419:por",
+     "title": "Decreto-Lei n.º 41/2017",
+     "published": "2017-04-05",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2017-106829419"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "011a5a0b86185053",
+    "446b262259d835ee",
+    "b56c103e9d06c535",
+    "64fc216278b48ff1",
+    "86a9b74760df2007",
+    "b7690500bfa5269c",
+    "bcda79beb9b66811",
+    "3933a54004fe1967",
+    "5c83db3f56057a52",
+    "a71c183278198634",
+    "9c1af05541487aba",
+    "bbac8471ec2777f1",
+    "75b9bfe5b916ccee",
+    "2a0b0c16426b57cf",
+    "bb7eb5635baa9456",
+    "9e989e7e395fb079",
+    "14dcfa265f305c8f"
+   ]
+  }
+ ],
+ "fragments": {
+  "011a5a0b86185053": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Março\n\nO Programa do Governo do XVII Governo Constitucional assume o compromisso de desenvolver e reforçar a rede dos julgados de paz.\n\nA criação e a instalação de julgados de paz, em estreita parceria entre o Estado e o poder local, possibilitaram a institucionalização de uma nova forma de administração da justiça no nosso ordenamento jurídico.\n\nOs bons resultados que têm vindo a ser obtidos por estes tribunais de proximidade devem ser assinalados. Desde 2002, ano de entrada em funcionamento dos primeiros quatro julgados de paz, que estes tribunais têm visto o seu número de processos entrados aumentar todos os anos, tendo sido atingido, durante o ano de 2008, o número de 24 000 processos entrados.\n\nConstata-se igualmente que o tempo médio de resolução dos conflitos se tem mantido estável em cerca de dois meses, não obstante os sucessivos aumentos do número de processos entrados, o que demonstra a boa capacidade de resposta dos julgados de paz.\n\nOs princípios orientadores e caracterizadores dos julgados de paz, ao permitirem e pugnarem pela participação e responsabilização das partes na superação dos conflitos, pelo recurso a um meio não adversarial de resolução de litígios - a mediação - ou submissão ao julgamento pelo juiz de paz, consubstanciam-se num contributo assinalável na ambicionada mudança do sistema de administração da justiça, no sentido de a tornar mais acessível aos cidadãos, ao mesmo tempo que contribuem para o descongestionamento dos tribunais judiciais.\n\nNeste sentido, a Resolução de Conselho de Ministros n.º 172/2007, de 6 de Novembro, determinou a criação de, pelo menos, quatro julgados de paz em 2007 e de, pelo menos, quatro novos julgados de paz em 2008.\n\nNo cumprimento dos compromissos assumidos no Programa do Governo, foi publicamente apresentado o Plano de Desenvolvimento da Rede dos Julgados de Paz, o qual estabelece critérios científicos auxiliadores da decisão política de criação de novos julgados de paz, definindo prioridades e áreas territoriais de abrangência dos novos julgados de paz a criar.\n\nAnalisadas as várias propostas apresentadas nos termos do Plano, procede-se agora à criação do Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos, do Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão, do Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas, do Julgado de Paz do Concelho de Cascais e do Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei.\n\nFoi ouvido, a título facultativo, o Conselho de Acompanhamento dos Julgados de Paz.\n\nFoi promovida a audição do Conselho Superior da Magistratura.\n\nForam ouvidas a Ordem dos Advogados, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "446b262259d835ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Julgados de paz"
+  },
+  "ebec4ed3237de8f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos;\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão;\n\nc) Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas;\n\nd) Julgado de Paz do Concelho de Cascais;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei."
+  },
+  "e388df33a5a5c34c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - O Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos abrange todas as freguesias destes concelhos.\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas abrange todas as freguesias destes concelhos.\n\n4 - O Julgado de Paz do Concelho de Cascais abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei abrange todas as freguesias destes concelhos."
+  },
+  "86a9b74760df2007": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos\n\nConsidera-se sede do julgado de paz de agrupamento de concelhos o local onde for proposta a acção."
+  },
+  "b7690500bfa5269c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição e organização dos julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição e organização dos julgados de paz\n\n1 - Cada julgado de paz é composto por uma ou mais secções, dirigida cada uma delas por um juiz de paz.\n\n2 - O número de secções de cada julgado de paz é estabelecido na portaria que procede à sua instalação.\n\n3 - Os Julgados de Paz criados pelo presente decreto-lei podem dispor, caso se justifique, de várias instalações no âmbito da respectiva área de circunscrição, nos termos a fixar nos respectivos regulamentos internos, aprovados por portaria do membro do Governo responsável pela área da justiça.\n\n4 - As instalações referidas no número anterior devem dispor de um serviço de atendimento, de serviço de apoio administrativo e de serviço de mediação, bem como de instalações adequadas à realização de actos processuais, nomeadamente audiências de julgamento."
+  },
+  "bcda79beb9b66811": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Período de funcionamento\n\n1 - Os Julgados de Paz funcionam todos os dias úteis, podendo ainda funcionar aos sábados, domingos e feriados.\n\n2 - O horário de funcionamento de cada julgado de paz deve assegurar o adequado atendimento na circunscrição territorial por ele abrangida, podendo compreender o período entre as 8 horas e 30 minutos e as 22 horas.\n\n3 - O período de funcionamento de cada julgado de paz é fixado no respectivo regulamento interno, aprovado por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "3933a54004fe1967": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Coordenação do julgado de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação do julgado de paz\n\n1 - A coordenação, representação e gestão corrente do julgado de paz compete ao juiz de paz.\n\n2 - Nos julgados de paz onde exista mais de um juiz, as atribuições enunciadas no número anterior competem ao juiz de paz coordenador, designado nos termos definidos no respectivo regulamento interno."
+  },
+  "5c83db3f56057a52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Serviços"
+  },
+  "a71c183278198634": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de mediação\n\n1 - O serviço de mediação disponibiliza a qualquer interessado a mediação como forma alternativa de resolução de quaisquer litígios, ainda que excluídos da competência do julgado de paz, com excepção dos que tenham por objecto direitos indisponíveis.\n\n2 - Compete-lhe, em especial:\n\na) Realizar a sessão de pré-mediação, explicando às partes a natureza, as características e o objectivo da mediação, bem como as regras a que a mesma obedece;\n\nb) Informar as partes sobre a escolha do mediador e respectiva forma de intervenção e posição de neutralidade e imparcialidade face às partes;\n\nc) Verificar a predisposição das partes para um possível acordo na base da mediação;\n\nd) Submeter, se for o caso, o acordo de mediação assinado pelas partes à imediata homologação pelo juiz de paz, quando o julgado de paz seja competente para a apreciação da causa respectiva;\n\ne) Facultar a qualquer interessado o regulamento interno do serviço de mediação e demais legislação conexa, bem como prestar, em conjunto com o serviço de atendimento, todas as informações solicitadas pelos intervenientes relativas aos serviços de mediação nos julgados de paz.\n\n3 - O serviço de mediação é assegurado pelos mediadores inscritos na lista do julgado de paz, nos termos do regulamento dos serviços de mediação aprovado por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "9c1af05541487aba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de atendimento\n\n1 - Compete ao serviço de atendimento, junto do qual funciona a secretaria do julgado de paz, designadamente:\n\na) Assegurar o atendimento ao público, prestando informação sobre as atribuições e competências do julgado de paz e respectiva tramitação processual, bem como sobre a pré-mediação e a mediação;\n\nb) Receber os requerimentos apresentados pelos interessados, reduzindo a escrito, mediante o preenchimento do formulário, os pedidos formulados verbalmente;\n\nc) Proceder às citações e notificações previstas na lei;\n\nd) Receber a contestação, reduzindo-a a escrito quando apresentada verbalmente;\n\ne) Designar os mediadores na falta de escolha consensual pelas partes;\n\nf) Marcar as sessões de pré-mediação e de mediação;\n\ng) Comunicar a data de audiência de julgamento, nos casos previstos na lei, de acordo com a orientação do juiz de paz.\n\n2 - É dada prioridade à marcação da mediação solicitada pelas partes em processos judiciais pendentes mediante suspensão voluntária da instância."
+  },
+  "bbac8471ec2777f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Serviço de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de apoio administrativo\n\nAo serviço de apoio administrativo compete a prestação de apoio administrativo necessário ao funcionamento eficaz dos serviços do julgado de paz."
+  },
+  "75b9bfe5b916ccee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais"
+  },
+  "2a0b0c16426b57cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pessoal\n\nO funcionamento dos Julgados de Paz criados pelo presente decreto-lei é preferencialmente assegurado por trabalhadores dos órgãos e serviços da administração autárquica através do recurso aos instrumentos de mobilidade legalmente previstos para os trabalhadores que exercem funções públicas."
+  },
+  "bb7eb5635baa9456": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Despesas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas de funcionamento\n\n1 - Sem prejuízo do disposto no número seguinte, as despesas decorrentes da instalação e funcionamento dos Julgados de Paz criados pelo presente decreto-lei, incluindo as relativas ao pessoal a eles afecto, são suportadas nos termos dos protocolos celebrados entre o Ministério da Justiça e os municípios referidos no artigo 1.º\n\n2 - As despesas com a remuneração dos juízes de paz e com o pagamento dos honorários dos mediadores são suportadas pelo Ministério da Justiça, nos termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "9e989e7e395fb079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalação\n\nOs Julgados de Paz criados pelo presente decreto-lei entram em funcionamento na data que, para o efeito, seja determinada na portaria que, nos termos do n.º 3 do artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, proceda à respectiva instalação."
+  },
+  "14dcfa265f305c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Juízes de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Juízes de paz\n\n1 - Quando as necessidades e possibilidades do serviço o exigirem, o funcionamento dos Julgados de Paz criados pelo presente decreto-lei é assegurado por juízes de paz de entre os que tenham sido nomeados para julgados de paz já existentes, mediante deliberação do Conselho de Acompanhamento dos Julgados de Paz.\n\n2 - Os juízes de paz têm direito a ajudas de custo e a pagamento de transportes, nos termos do regime da função pública, nas deslocações de serviço que efectuem no cumprimento do disposto no número anterior.\n\nVisto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.\n\nPromulgado em 23 de Fevereiro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Fevereiro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "b56c103e9d06c535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-04-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, à criação dos seguintes julgados de paz:\n\na) (Revogada.)\n\nb) Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão;\n\nc) Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas;\n\nd) Julgado de Paz do Concelho de Cascais;\n\ne) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05."
+  },
+  "64fc216278b48ff1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Circunscrição territorial",
+   "in_force_from": "2017-04-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05."
+   ],
+   "markdown": "###### Artigo 2.º — Circunscrição territorial\n\n1 - (Revogado.)\n\n2 - O Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão abrange todas as freguesias destes concelhos.\n\n3 - O Julgado de Paz do Agrupamento dos Concelhos de Carregal do Sal, Mangualde e Nelas abrange todas as freguesias destes concelhos.\n\n4 - O Julgado de Paz do Concelho de Cascais abrange todas as freguesias deste concelho.\n\n5 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei abrange todas as freguesias destes concelhos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05."
+  }
+ }
+}

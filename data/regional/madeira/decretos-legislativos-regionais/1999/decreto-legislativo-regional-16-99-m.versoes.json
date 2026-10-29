@@ -1,0 +1,457 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:322971:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4cb1926744523aef",
+    "4bdabd69f84fbf1a",
+    "c744bbdcb50f81d7",
+    "ae67398331fd1be9",
+    "4f6c267e1f6b6b4f",
+    "925e516cc5adece2",
+    "40e20ca4a883c334",
+    "45e7ed7a7924c031",
+    "5fb1bda3d78ee0ed",
+    "cddc0e773c23c0e8",
+    "c4e450b5a78e1276",
+    "4889cf9dda03e592",
+    "198fd8c1b3f0d73d",
+    "c9486e55e6fe62ce",
+    "5d8071471c83ba8c",
+    "31b12556039f225a",
+    "79bd0eae1a69ea64",
+    "1e49625245fb78cb",
+    "4346e076c0b08231",
+    "8f42446313fa711a",
+    "77e9fbd72ef18e79",
+    "018f7565cef40198",
+    "9f991e2bb60cc4cb",
+    "b09537fe648dc8ea",
+    "f5ae5c852e5aac21",
+    "f9a3f0e51a7436ea",
+    "d675a078c4756d5f",
+    "8bf9ccd7c85cc77f",
+    "35ba56689060b5ce",
+    "889b7861b5ee0532",
+    "cd7f1b30eccc635c",
+    "221bf63f00c64db7",
+    "c6587d2c238d488a",
+    "eb97b4fdcbec67b1",
+    "e8fea131e4ec06ae",
+    "dcad3a09ff976534",
+    "036abbd5c152cf35",
+    "273d1e3d9cc58c53",
+    "b18fac71c2b3166f",
+    "d617a7c229359779",
+    "64f978996e2eb179"
+   ]
+  },
+  {
+   "date": "2018-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114484244:por",
+     "title": "Decreto Legislativo Regional n.º 2/2018/M",
+     "published": "2018-01-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2018-114484244"
+    }
+   ],
+   "changes": [
+    "Adita Artigo ANEXO — Estatutos da SDPS - Sociedade de Desenvolvimento do Porto Santo, S. A.::6.º-A"
+   ],
+   "fragments": [
+    "4cb1926744523aef",
+    "4bdabd69f84fbf1a",
+    "c744bbdcb50f81d7",
+    "ae67398331fd1be9",
+    "4f6c267e1f6b6b4f",
+    "925e516cc5adece2",
+    "40e20ca4a883c334",
+    "45e7ed7a7924c031",
+    "5fb1bda3d78ee0ed",
+    "cddc0e773c23c0e8",
+    "c4e450b5a78e1276",
+    "4889cf9dda03e592",
+    "198fd8c1b3f0d73d",
+    "c9486e55e6fe62ce",
+    "5d8071471c83ba8c",
+    "31b12556039f225a",
+    "79bd0eae1a69ea64",
+    "1e49625245fb78cb",
+    "4346e076c0b08231",
+    "8f42446313fa711a",
+    "77e9fbd72ef18e79",
+    "018f7565cef40198",
+    "9f991e2bb60cc4cb",
+    "b09537fe648dc8ea",
+    "1ecfb955e4a27faf",
+    "f5ae5c852e5aac21",
+    "f9a3f0e51a7436ea",
+    "d675a078c4756d5f",
+    "8bf9ccd7c85cc77f",
+    "35ba56689060b5ce",
+    "889b7861b5ee0532",
+    "cd7f1b30eccc635c",
+    "221bf63f00c64db7",
+    "c6587d2c238d488a",
+    "eb97b4fdcbec67b1",
+    "e8fea131e4ec06ae",
+    "dcad3a09ff976534",
+    "036abbd5c152cf35",
+    "273d1e3d9cc58c53",
+    "b18fac71c2b3166f",
+    "d617a7c229359779",
+    "64f978996e2eb179"
+   ]
+  }
+ ],
+ "fragments": {
+  "4cb1926744523aef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Constitui a Sociedade de Desenvolvimento do Porto Santo, S. A., e cria a comissão consultiva para a Operação Integrada de Desenvolvimento do Porto Santo.\n\nPela Resolução do Conselho do Governo n.º 1809/97, de 18 de Dezembro, foi criada a Operação Integrada de Desenvolvimento do Porto Santo, instrumento de intervenção decisivo para o desenvolvimento integrado da ilha do Porto Santo, que não pode deixar de ser considerado como de interesse público e regional.\n\nAtravés deste instrumento visa-se, nomeadamente, proceder à criação de infra-estruturas, à implementação de determinados equipamentos e à maximização dos recursos e das oportunidades locais fundamentais ao desenvolvimento integrado do Porto Santo.\n\nDesenvolvimento que passa pela melhoria da qualificação da população activa em geral e dos jovens em particular, numa perspectiva de criação de novos postos de trabalho, pela satisfação das necessidades do tecido económico e social e, sobretudo, pela consequente melhoria das condições de vida da população.\n\nPor um lado, a diversidade, interdisciplinaridade e múltiplas finalidades que estão associadas à concretização da Operação Integrada de Desenvolvimento do Porto Santo impõem que se proceda de forma compatibilizada com o ambiente e o ordenamento físico e económico da sua zona de influência, sem prejuízo do estabelecido noutros instrumentos de ordenamento aplicáveis à sua área de intervenção.\n\nPor outro, a execução das acções e dos projectos necessários às intervenções básicas e estruturantes integradas no âmbito da Operação Integrada de Desenvolvimento do Porto Santo pressupõe o aproveitamento de fundos existentes e dos que venham a existir, comunitários ou outros, bem como a criação de uma medida específica a incluir no próximo Programa Operacional Plurifundos da Região Autónoma da Madeira.\n\nTal execução pressupõe ainda a possibilidade de celebração, com a administração central e com a regional, dos contratos-programa que se revelem necessários e adequados.\n\nImporta, pois, dotar este instrumento dos meios de execução necessários, bem como adoptar as medidas que permitam a dinamização e concretização das acções e projectos que lhe estão subjacentes.\n\nDe entre tais medidas destacam-se a criação de uma sociedade de capitais exclusivamente públicos, que visa essencialmente promover a dinamização, gestão e execução das acções e projectos inseridos no âmbito da Operação Integrada de Desenvolvimento do Porto Santo, e de uma comissão consultiva de acompanhamento, que congregue as várias entidades envolvidas.\n\nFinalmente, sendo a ilha do Porto Santo parte integrante do território da Região Autónoma da Madeira, o seu desenvolvimento integrado e as medidas organizacionais que lhe estão associadas constituem, claramente, matéria de interesse específico desta Região Autónoma.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República e na alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:"
+  },
+  "4bdabd69f84fbf1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Operação Integrada de Desenvolvimento do Porto Santo, conforme foi definida na Resolução do Conselho do Governo n.º 1809/97, de 18 de Dezembro, é um instrumento de desenvolvimento integrado de âmbito regional e multissectorial, sendo, para todos os efeitos legais, considerada, em todas as suas vertentes, de interesse público e regional."
+  },
+  "c744bbdcb50f81d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA área de intervenção da Operação Integrada de Desenvolvimento do Porto Santo abrange todo o território da ilha do Porto Santo."
+  },
+  "ae67398331fd1be9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - É constituída a Sociedade de Desenvolvimento do Porto Santo, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por SDPS, S. A.\n\n2 - A SDPS, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e demais legislação complementar."
+  },
+  "4f6c267e1f6b6b4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A SDPS, S. A., que prossegue fins de interesse público, é a entidade gestora dos projectos e acções inseridos no âmbito da Operação Integrada de Desenvolvimento e tem por objecto social a concepção, execução e construção dos correspondentes empreendimentos.\n\n2 - A exploração de empreendimentos cujos fins não sejam considerados exclusivamente públicos só poderá ser assegurada pela SDPS, S. A., após se ter esgotado a possibilidade de cessão ou de concessão dos mesmos, mediante concurso."
+  },
+  "925e516cc5adece2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social inicial da SDPS, S. A., é de 100000000$00, subscrito, em dinheiro, pela Região Autónoma da Madeira.\n\n2 - Encontra-se realizada pela Região Autónoma da Madeira uma entrada correspondente a 30% do capital, devendo a realização do remanescente do capital ser efectuada no ano económico seguinte ao da entrada em vigor do presente diploma.\n\n3 - Poderão ainda participar no capital social da SDPS, S. A., o município do Porto Santo, outras pessoas colectivas de direito público, empresas públicas e sociedades de capitais exclusivamente públicos.\n\n4 - As acções representativas do capital subscritas pela Região Autónoma da Madeira serão detidas pela mesma e os seus direitos como accionista serão exercidos através de representante designado por resolução do Conselho do Governo, sob proposta do Secretário Regional de Economia e Cooperação Externa."
+  },
+  "40e20ca4a883c334": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - São aprovados os estatutos da SDPS, S. A., publicados em anexo ao presente diploma e do qual fazem parte integrante.\n\n2 - O presente diploma é título bastante para a comprovação do estabelecido nos números anteriores, para todos os efeitos legais, incluindo os de registo, que deverá ser efectuado com base no Diário da República em que hajam sido publicados os respectivos estatutos.\n\n3 - Os actos necessários ao registo da constituição, bem como todas as alterações posteriores aos estatutos, estão isentos de quaisquer taxas ou emolumentos notariais, de registo ou de outro tipo.\n\n4 - As alterações aos estatutos realizam-se nos termos da lei comercial."
+  },
+  "45e7ed7a7924c031": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará ao Conselho do Governo e às Secretarias Regionais de Economia e Cooperação Externa e do Plano e da Coordenação, pelo menos 30 dias antes da data da assembleia geral anual, os seguintes documentos:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da Sociedade, da eficiência da gestão e das perspectivas da sua evolução.\n\n2 - O fiscal único enviará, trimestralmente, aos Secretários Regionais de Economia e Cooperação Externa e do Plano e da Coordenação um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões."
+  },
+  "5fb1bda3d78ee0ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara a prossecução dos seus fins, são conferidos à SDPS, S. A., para além de outros que lhe venham a ser expressamente atribuídos por lei, os seguintes poderes:\n\na) Os poderes para, segundo a lei, agir como entidade expropriante dos imóveis que sejam necessários à prossecução do seu escopo social e, para o efeito, declarados de utilidade pública por resolução do Conselho do Governo Regional;\n\nb) O direito de utilizar e administrar os bens do domínio público da Região Autónoma da Madeira que estejam ou venham a estar afectos ao exercício da sua actividade;\n\nc) Os poderes para proceder à gestão técnica, administrativa e financeira das intervenções operacionais incluídas no Quadro Comunitário de Apoio para as intervenções estruturais comunitárias na ilha do Porto Santo, mediante a celebração de contratos-programa com a Região Autónoma da Madeira e o Estado, conforme o disposto no artigo 35.º do [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, diploma alterado pelos Decretos-Leis n.os [1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551), de 4 de Janeiro, e [208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), de 14 de Julho."
+  },
+  "cddc0e773c23c0e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - As obras a realizar pela SDPS, S. A., ficam sujeitas ao disposto no [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos, desde que nos respectivos títulos esteja prevista a aplicação subsidiária daquele regime ou expressa, por qualquer forma, a subordinação do contratante às exigências do interesse público da conclusão atempada da obra ou fornecimento.\n\n2 - À SDPS, S. A., são ainda conferidos os poderes e prerrogativas da Região Autónoma da Madeira quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar."
+  },
+  "c4e450b5a78e1276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs funcionários de serviços públicos, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na SDPS, S. A., em regime de requisição ou de comissão de serviço."
+  },
+  "4889cf9dda03e592": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nFica desde já convocada a assembleia geral da SDPS, S. A., para se reunir, na sua sede social, pelas 15 horas do 30.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais."
+  },
+  "198fd8c1b3f0d73d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - É ainda criada, junto do Secretário Regional de Economia e Cooperação Externa, a comissão consultiva para a Operação Integrada de Desenvolvimento do Porto Santo, adiante designada apenas por comissão consultiva.\n\n2 - À comissão consultiva compete pronunciar-se, mediante solicitação do Secretário Regional de Economia e Cooperação Externa, sobre os assuntos de interesse específico para o desenvolvimento regional na área de intervenção da Operação Integrada de Desenvolvimento do Porto Santo, sendo consultada em especial sobre o progresso e os efeitos da concretização dos diferentes projectos de investimento público que integram a referida operação de desenvolvimento."
+  },
+  "c9486e55e6fe62ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A comissão consultiva é constituída por:\n\na) Um representante da Secretaria Regional de Economia e Cooperação Externa, que preside;\n\nb) Um representante de cada uma das demais secretarias regionais;\n\nc) O presidente do conselho de administração da SDPS, S. A.;\n\nd) Um representante da Câmara Municipal do Porto Santo;\n\ne) Um representante da ACIPS - Associação Comercial e Industrial do Porto Santo.\n\n2 - Os representantes das secretarias regionais que integram a comissão consultiva serão designados por despacho do respectivo secretário regional.\n\n3 - O Secretário Regional de Economia e Cooperação Externa poderá convidar a participar nas reuniões da comissão consultiva personalidades de reconhecido mérito, cujo contributo seja relevante para a prossecução dos objectivos definidos na Operação Integrada de Desenvolvimento do Porto Santo.\n\n4 - Cada membro da comissão consultiva terá um suplente que o substituirá em caso de impedimento.\n\n5 - A comissão consultiva reúne a convocação do seu presidente, por iniciativa deste ou a solicitação de qualquer dos seus membros."
+  },
+  "5d8071471c83ba8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 13 de Abril de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 3 de Maio de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "31b12556039f225a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatutos da SDPS - Sociedade de Desenvolvimento do Porto Santo, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatutos da SDPS - Sociedade de Desenvolvimento do Porto Santo, S. A."
+  },
+  "79bd0eae1a69ea64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Denominação, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Denominação, duração, sede e objecto"
+  },
+  "1e49625245fb78cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Denominação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e duração\n\n1 - A sociedade adopta a forma de sociedade anónima e a denominação de Sociedade de Desenvolvimento do Porto Santo, S. A., abreviadamente designada por SDPS, S. A.\n\n2 - A duração da Sociedade é por tempo indeterminado."
+  },
+  "4346e076c0b08231": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede social é na cidade de Vila Baleira, no Porto Santo.\n\n2 - O conselho de administração pode mudar a sede da Sociedade e ainda estabelecer ou encerrar as formas de representação que considere necessárias à prossecução dos seus fins estatutários em qualquer ponto do território nacional ou no estrangeiro."
+  },
+  "8f42446313fa711a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A SDPS, S. A., que prossegue fins de interesse público, é a entidade gestora dos projectos e acções inseridos no âmbito da Operação Integrada de Desenvolvimento e tem por objecto social a concepção, execução e construção dos correspondentes empreendimentos.\n\n2 - A exploração de empreendimentos cujos fins não sejam considerados exclusivamente públicos só poderá ser assegurada pela SDPS, S. A., após se ter esgotado a possibilidade de cessão ou de concessão dos mesmos, mediante concurso.\n\n3 - Na realização do seu objecto social, a Sociedade, na medida dos meios técnicos e humanos disponíveis e com a colaboração dos órgãos competentes do Governo Regional e da autarquia local, visa ainda:\n\na) Contribuir para a realização do desenvolvimento económico regional, em termos de preservação do equilíbrio ecológico e do património cultural e artístico da Região e da promoção das acções no âmbito do ordenamento do território, a par com a melhoria de vida das populações e da criação de emprego;\n\nb) Participar no lançamento e na exploração de pólos de desenvolvimento local e no fomento da cooperação intermunicipal e interregional;\n\nc) Divulgar toda a informação relevante para o investimento e o desenvolvimento económico e social do Porto Santo.\n\n4 - A prossecução do objecto social da SDPS, S. A., não envolve a realização de operações financeiras, nomeadamente as previstas nas alíneas b) a g) do n.º 1 do artigo 7.º e no artigo 13.º do [Decreto-Lei n.º 25/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1991-693845), de 11 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 247/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), de 7 de Outubro.\n\n5 - A Sociedade poderá adquirir, a título originário ou derivado, participações no capital de sociedades cujo objecto social esteja, directa ou indirectamente, relacionado com o seu, bem como, por alguma forma, alienar ou onerar as que estejam integradas no seu património."
+  },
+  "77e9fbd72ef18e79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social, acções e obrigações"
+  },
+  "018f7565cef40198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social\n\n1 - O capital social é de 100000000$00, dividido em 100000 acções, no valor nominal de 1000$00 cada uma.\n\n2 - O capital poderá ser elevado até 2000000000$00, por uma ou mais vezes, por entradas em dinheiro, mediante deliberação do conselho de administração, que fixará, nos termos da lei, as condições de subscrição, nomeadamente o diferimento das entradas.\n\n3 - As acções são nominativas e revestem a forma escritural."
+  },
+  "9f991e2bb60cc4cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Transmissão de acções e direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão de acções e direito de preferência\n\n1 - A transmissão das acções está sujeita ao consentimento da Sociedade.\n\n2 - Os accionistas terão direito de preferência na alienação de acções a título oneroso.\n\n3 - Para efeito de exercício de direito de preferência, os accionistas serão avisados pelo conselho de administração por carta registada, com aviso de recepção, com a antecedência mínima de 30 dias, precedendo comunicação escrita do alienante àquele conselho indicando o objecto da alienação, o preço, as condições de pagamento e as demais circunstâncias relevantes do negócio.\n\n4 - O conselho de administração notificará o alienante e os preferentes para comparecerem em certa data na sede social, munidos dos respectivos títulos, distribuindo-se as acções por acordo entre os preferentes ou, na falta de acordo, por licitação."
+  },
+  "b09537fe648dc8ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações\n\n1 - A Sociedade pode ainda emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.\n\n2 - As obrigações a que se refere o número anterior podem ser emitidas tanto por subscrição pública como privada."
+  },
+  "f5ae5c852e5aac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais"
+  },
+  "f9a3f0e51a7436ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposição geral"
+  },
+  "d675a078c4756d5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos sociais\n\n1 - A Sociedade tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos presentes estatutos.\n\n2 - Os membros dos órgãos sociais consideram-se investidos logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem os deva substituir, estando dispensados de prestar caução relativamente ao desempenho dos seus cargos."
+  },
+  "8bf9ccd7c85cc77f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Assembleia geral"
+  },
+  "35ba56689060b5ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição da assembleia geral\n\n1 - A assembleia geral é composta pelos accionistas com direito a voto.\n\n2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.\n\n3 - A Região Autónoma da Madeira será representada na assembleia geral pela pessoa que for designada por resolução do Conselho do Governo, sob proposta do Secretário Regional da Economia e Cooperação Externa.\n\n4 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.\n\n5 - Os membros do conselho de administração e o fiscal único deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto."
+  },
+  "889b7861b5ee0532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Reuniões e deliberações da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões e deliberações da assembleia geral\n\n1 - A assembleia geral reúne uma vez por ano para apreciação dos documentos de prestação de contas e relatórios e pareceres anexos quando a sua convocação for requerida por accionistas que possuam acções correspondentes a, pelo menos, 5% do capital social e sempre que o conselho de administração ou o fiscal único o julgar necessário.\n\n2 - A mesa da assembleia geral é constituída por um presidente e um secretário, eleitos em assembleia geral por um período de três anos, podendo qualquer deles ser ou não accionista.\n\n3 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, por carta registada, com indicação expressa dos assuntos a tratar.\n\n4 - A assembleia geral para eleição dos membros dos órgãos sociais não pode deliberar sem que estejam presentes ou representados accionistas cujas acções representem, pelo menos, 51% do capital social."
+  },
+  "cd7f1b30eccc635c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência.\n\n2 - Compete, em especial, à assembleia geral:\n\na) Aprovar o plano de actividades, anual e plurianual;\n\nb) Aprovar o orçamento e acompanhar a sua execução;\n\nc) Deliberar sobre o relatório de gestão e as contas do exercício;\n\nd) Deliberar sobre a proposta de aplicação de resultados;\n\ne) Proceder à apreciação geral da administração e fiscalização da Sociedade;\n\nf) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e o fiscal único;\n\ng) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\nh) Deliberar sobre a emissão de obrigações ou outros títulos de dívida;\n\ni) Deliberar sobre as remunerações dos membros dos órgãos sociais;\n\nj) Deliberar sobre qualquer outro assunto para que tenha sido convocada.\n\n3 - Sem prejuízo do disposto no n.º 4 do artigo 9.º, as deliberações são tomadas por maioria dos votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número."
+  },
+  "221bf63f00c64db7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho de administração"
+  },
+  "c6587d2c238d488a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e dois vogais.\n\n2 - Nas deliberações do conselho o presidente tem voto de qualidade.\n\n3 - O presidente do conselho de administração é escolhido pela assembleia geral de entre os vogais eleitos.\n\n4 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável."
+  },
+  "eb97b4fdcbec67b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração assegurar a gestão dos negócios da Sociedade e praticar todos os actos necessários à prossecução do seu objecto social que não caibam na competência atribuída a outros órgãos, cabendo-lhe, designadamente:\n\na) Elaborar o plano de actividades, anual e plurianual;\n\nb) Elaborar o orçamento e acompanhar a sua execução;\n\nc) Adquirir, alienar ou onerar participações no capital de outras sociedades, bem como obrigações e outros títulos semelhantes;\n\nd) Representar a Sociedade em juízo e fora dele, activa e passivamente, propor e acompanhar acções, confessar, desistir, transigir e aceitar compromissos arbitrais;\n\ne) Adquirir, alienar ou onerar bens imóveis;\n\nf) Deliberar sobre a realização de empréstimos ou outras operações financeiras no mercado financeiro, ressalvados os limites legais;\n\ng) Estabelecer a organização técnico-administrativa da Sociedade;\n\nh) Decidir sobre a admissão de pessoal e sua remuneração;\n\ni) Constituir procuradores e mandatários da Sociedade, nos termos que julgue convenientes;\n\nj) Exercer as demais competências que lhe caibam por lei, independentemente e sem prejuízo das que lhe sejam delegadas pela assembleia geral.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 407.º do Código das Sociedades Comerciais, o conselho de administração poderá delegar em algum ou alguns dos seus membros ou em comissões especiais algum ou alguns dos poderes, definindo em acta os limites e condições de tal delegação.\n\n3 - Incumbe, especialmente, ao presidente do conselho de administração:\n\na) Representar o conselho em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "e8fea131e4ec06ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reuniões do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reuniões do conselho de administração\n\n1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de dois administradores.\n\n2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas pela maioria de votos dos seus membros presentes ou representados, dispondo o presidente, em caso de empate na votação, de voto de qualidade.\n\n3 - Os membros do conselho de administração podem-se fazer representar nas reuniões por outro administrador, mediante carta dirigida ao presidente."
+  },
+  "dcad3a09ff976534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Representação da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Representação da Sociedade\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura do presidente do conselho de administração;\n\nb) Pela assinatura dos dois vogais do conselho de administração, nos termos da respectiva delegação de poderes;\n\nc) Pela assinatura de um membro do conselho de administração e de um mandatário ou procurador da Sociedade, nos termos dos respectivos poderes;\n\nd) Pela assinatura de um mandatário ou procurador da Sociedade, nos termos dos respectivos poderes.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais do conselho de administração."
+  },
+  "036abbd5c152cf35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Fiscal único"
+  },
+  "273d1e3d9cc58c53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\nA fiscalização da actividade social e o exame das contas da Sociedade serão exercidos por um fiscal único, que deverá ser revisor oficial de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral por um período de três anos."
+  },
+  "b18fac71c2b3166f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do fiscal único\n\nAlém das competências constantes da lei, cabe, especialmente, ao fiscal único:\n\na) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;\n\nb) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "64f978996e2eb179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Dissolução e liquidação\n\nA Sociedade dissolve-se nos termos da lei."
+  },
+  "1ecfb955e4a27faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º-A — Cobrança coerciva de dívidas",
+   "in_force_from": "2018-01-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), publicado em 2018-01-09."
+   ],
+   "markdown": "###### Artigo 6.º-A — Cobrança coerciva de dívidas\n\n1 - Os créditos da 'Sociedade de Desenvolvimento do Porto Santo, S. A.', relativos a taxas, rendas de concessões, coimas ou quaisquer outros que tenham por causa o exercício de poderes públicos ou de interesse público, assim como os provenientes de contratos escritos ou verbais e de outros documentos relativos a bens cuja gestão, exploração e utilização lhe foi conferida em regime de serviço público com poderes e prerrogativas de autoridade, encontram-se sujeitos à cobrança coerciva nos termos do processo de execução fiscal regulado no Código de Procedimento e de Processo Tributário, através da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM), sendo tais créditos equiparados, para todos os efeitos legais, a créditos da Região Autónoma da Madeira.\n\n2 - Para efeitos de aplicação do disposto no número anterior, é emitida certidão com valor de título executivo, conforme o disposto nos artigos 162.º e 163.º do Código do Procedimento e do Processo Tributário, pelo departamento do Governo Regional com a tutela das finanças, após comunicação dos valores em falta por parte da 'Sociedade de Desenvolvimento do Porto Santo, S. A.'\n\n> Aditado pelo/a Artigo 55.º do/a [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), publicado em 2018-01-09."
+  }
+ }
+}

@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:256870:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "296b2244c278d369",
+    "473748b9e13a5b91",
+    "ae163be4a704e695",
+    "ccc9639ea2a96fc3",
+    "7c22608b84140c5f",
+    "21024c6cf4d1d10f",
+    "b696d72a912f537c",
+    "25ccadd70e9ee3cf",
+    "075335647e38b360",
+    "5ad4f4bbbdcf734b",
+    "16cdc7f6a07c7373"
+   ]
+  },
+  {
+   "date": "2014-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:64297586:por",
+     "title": "Portaria n.º 258/2014",
+     "published": "2014-12-12",
+     "dre_path": "/dr/detalhe/portaria/258-2014-64297586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.::1.º",
+    "Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.::5.º"
+   ],
+   "fragments": [
+    "296b2244c278d369",
+    "473748b9e13a5b91",
+    "ae163be4a704e695",
+    "ccc9639ea2a96fc3",
+    "7c22608b84140c5f",
+    "3b090089a3699ac1",
+    "b696d72a912f537c",
+    "25ccadd70e9ee3cf",
+    "075335647e38b360",
+    "c1b6e201f4859c73",
+    "16cdc7f6a07c7373"
+   ]
+  }
+ ],
+ "fragments": {
+  "296b2244c278d369": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de janeiro\n\nO [Decreto-Lei n.º 71/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2012-553661), de 21 de março, definiu a missão e as atribuições do Instituto Português da Qualidade, I. P. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Economia e do Emprego, o seguinte:"
+  },
+  "473748b9e13a5b91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos do Instituto Português da Qualidade, I. P., abreviadamente designado por IPQ, I. P."
+  },
+  "ae163be4a704e695": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 540/2007, de 30 de abril, alterada e republicada pela Portaria n.º 888/2010, de 13 de setembro."
+  },
+  "ccc9639ea2a96fc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 8 de janeiro de 2013. - O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 11 de dezembro de 2012."
+  },
+  "7c22608b84140c5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P."
+  },
+  "21024c6cf4d1d10f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços do IPQ, I. P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Normalização;\n\nb) Departamento de Metrologia;\n\nc) Departamento de Assuntos Europeus e Sistema Português da Qualidade;\n\nd) Departamento de Administração Geral.\n\n2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até três unidades orgânicas flexíveis, integradas nos departamentos a que se refere o número anterior ou hierarquicamente subordinadas ao conselho diretivo, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação em Diário da República."
+  },
+  "b696d72a912f537c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Cargos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Cargos dirigentes intermédios\n\n1 - Os departamentos são dirigidos por diretores de departamento, cargos de direção intermédia de 1.º grau.\n\n2 - As unidades orgânicas flexíveis são dirigidas por diretores de unidade, cargos de direção intermédia de 2.º grau."
+  },
+  "25ccadd70e9ee3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Departamento de Normalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamento de Normalização\n\nCompete ao Departamento de Normalização, abreviadamente designado por DNOR:\n\na) Exercer as funções de Organismo Nacional de Normalização, representando o IPQ, I. P., nos órgãos de coordenação técnica das organizações europeias e internacionais de normalização;\n\nb) Promover, no respeito pelos princípios de normalização internacionalmente reconhecidos, a constituição de comissões técnicas portuguesas de normalização (CT) e de outras formas de apoio à atividade de normalização e, bem assim, proceder ao reconhecimento e qualificação de organismos de normalização sectorial (ONS), segundo as regras e procedimentos instituídos;\n\nc) Coordenar a rede de organismos de normalização sectorial (ONS), de comissões técnicas portuguesas de normalização e de outras entidades qualificadas no âmbito do Sistema Português da Qualidade (SPQ);\n\nd) Promover a elaboração de normas e outros documentos normativos portugueses e executar os atos conducentes à sua integração no acervo normativo nacional, garantindo a sua coerência e atualidade;\n\ne) Promover as ações conducentes à aprovação, inquérito público, edição e publicitação dos projetos de documentos normativos portugueses;\n\nf) Coordenar as ações conducentes à emissão do voto português relativo a projetos de norma e outros documentos normativos, elaborados pelas organizações europeias e internacionais de normalização;\n\ng) Proceder à integração no acervo normativo nacional das normas europeias, cumprindo as regras e procedimentos das organizações europeias de normalização;\n\nh) Editar as normas e outros documentos normativos portugueses, aprovados pelo IPQ, I. P., o respetivo catálogo bem como outros produtos de natureza normativa com eventual colaboração dos ONS e realizar as competentes ações promocionais;\n\ni) Promover a venda de normas e outros documentos normativos, nacionais, europeus e internacionais prestando técnica informação técnica correspondente, nomeadamente a referente à aplicabilidade e atualização dos mesmos;\n\nj) Participar nos trabalhos das organizações europeias e internacionais de normalização e assegurar a condução dos trabalhos de elaboração de normas que tenham sido atribuídos a Portugal;\n\nk) Promover a dinamização do subsistema da normalização procurando o envolvimento e participação no desenvolvimento e utilização das normas por parte dos agentes económicos com especial enfoque nas pequenas e médias empresas (PME), entidades representativas da sociedade civil, do ambiente, da segurança, dos consumidores, da saúde, da comunidade académica e científica e outras partes interessadas;\n\nl) Promover a sensibilização e formação no domínio da normalização técnica, nos diferentes setores da sociedade portuguesa, nomeadamente ensino e PME, bem como integrar projetos europeus ou internacionais que visem o mesmo objetivo;\n\nm) Gerir e manter atualizado o acervo normativo nacional, assegurando o acesso ao mesmo por parte dos interessados."
+  },
+  "075335647e38b360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Departamento de Metrologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Metrologia\n\nCompete ao Departamento de Metrologia, abreviadamente designado por DMET:\n\na) Exercer as funções de Instituição Nacional de Metrologia, representando o IPQ, I. P., nos órgãos de coordenação técnica das organizações europeias e internacionais de metrologia\n\nb) Promover a dinamização do subsistema de metrologia, realizar e manter os padrões nacionais das unidades de medida da responsabilidade direta do IPQ, I. P., bem como promover e coordenar a realização dos padrões nacionais descentralizados, e assegurar a sua rastreabilidade ao sistema internacional (SI) de unidades;\n\nc) Desenvolver e participar em projetos europeus e internacionais de investigação e desenvolvimento metrológico;\n\nd) Organizar e participar em comparações europeias e internacionais de padrões e instrumentos de medição, bem como promover e participar como laboratório de referência em programas de comparações nacionais;\n\ne) Calibrar padrões de referência e instrumentos de medição dos laboratórios acreditados e de outras entidades;\n\nf) Realizar ensaios de controlo metrológico de instrumentos de medição e produzir e certificar materiais de referência;\n\ng) Participar na elaboração e revisão de regulamentação metrológica europeia e internacional, e promover e elaborar legislação nacional de controlo metrológico;\n\nh) Desenvolver, supervisionar e coordenar o exercício do controlo metrológico legal no território nacional e da sua rede de apoio;\n\ni) Efetuar a realização das respetivas operações de controlo metrológico, salvo nos casos em que, reconhecida a sua necessidade, essa competência tenha sido delegada em entidades qualificadas para o efeito;\n\nj) Aprovar modelos de instrumentos de medição submetidos ao controlo regulamentar;\n\nk) Promover ações de sensibilização junto das entidades nacionais competentes nas áreas alimentar, ambiente, fiscal, saúde, educação, segurança, transportes, trabalho e forense, para a consideração dos aspetos metrológicos nas suas atividades, nomeadamente de natureza regulamentar;\n\nl) Colaborar com as entidades nacionais com atribuições de fiscalização, nos aspetos metrológicos;\n\nm) Realizar ações de formação técnica no domínio metrológico;\n\nn) Gerir o Museu de Metrologia, zelando pela conservação do espólio da responsabilidade do IPQ, I. P., e promovendo a recolha de outro espólio metrológico de interesse histórico;\n\no) Realizar ações de divulgação da história metrológica nacional e assegurar o acesso público ao Museu."
+  },
+  "5ad4f4bbbdcf734b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Departamento de Assuntos Europeus e Sistema Português da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Assuntos Europeus e Sistema Português da Qualidade\n\nCompete ao Departamento de Assuntos Europeus e Sistema Português da Qualidade, abreviadamente designado por DAESPQ:\n\na) Promover a dinamização e desenvolvimento do subsistema da qualificação através das entidades e organizações que integram o SPQ;\n\nb) Promover e dinamizar Comissões Setoriais e outras estruturas da qualidade integradas no SPQ, preparando e gerindo o calendário das respetivas ações e reuniões, bem como organizando eventos, designadamente encontros, workshops e seminários;\n\nc) Dinamizar e apoiar iniciativas da promoção e reconhecimento da qualidade numa perspetiva integradora das suas componentes, nomeadamente através de prémios de excelência e outros;\n\nd) Promover e apoiar iniciativas com vista a medir a qualidade dos produtos e serviços disponíveis no mercado nacional por via da satisfação dos clientes;\n\ne) Organizar e pôr à disposição dos agentes económicos, das entidades interessadas, do público em geral e dos serviços internos, documentação e informação, no âmbito das atividades do IPQ, I. P., e assegurar a gestão da biblioteca;\n\nf) Assegurar a promoção e divulgação da qualidade e dos conceitos que lhe estão associados através da organização ou participação em, seminários, congressos, feiras, exposições e outros eventos e atividades similares;\n\ng) Providenciar a prestação de serviços de design e apoio gráfico a todos os serviços, assegurando a imagem do IPQ, I. P., através de meios de comunicação e publicações, potenciando sempre que possível as novas tecnologias de comunicação e informação;\n\nh) Gerir as marcas identificadoras do IPQ, I. P., e do SPQ, assegurando a sua publicitação bem como a divulgação de entidades qualificadas e produtos e sistemas certificados no âmbito do SPQ;\n\ni) Proceder à conceção de ações de formação no domínio da qualidade e dos conceitos que lhe estão associados, desenvolvendo as ações necessárias à sua realização;\n\nj) Desenvolver atividades de consultoria e apoio técnico a nível nacional e internacional e intervir em projetos de cooperação, designadamente com países terceiros e países de expressão portuguesa;\n\nk) Garantir e desenvolver a qualidade e as suas metodologias, através do estabelecimento de protocolos e parcerias estratégicas com entidades públicas, privadas e da economia social, bem como com a universidade e outras estruturas científicas e tecnológicas;\n\nl) Gerir as diretivas Nova Abordagem da responsabilidade do IPQ, I. P., bem como promover ações de divulgação, esclarecimento, sensibilização e formação sobre a marcação CE e sua importância para o mercado e agentes económicos;\n\nm) Assegurar o cumprimento dos procedimentos das diretivas comunitárias no que diz respeito à notificação e qualificação, mantendo a Comissão Europeia e os Estados membros permanentemente informados dos organismos notificados no âmbito de cada diretiva;\n\nn) Estudar e propor medidas de apoio ao investimento dos operadores económicos e entidades do SPQ, bem como medidas de apoio à qualidade em atividades produtivas e de exportação, designadamente PME;\n\no) Gerir os projetos de investimento apresentados no âmbito de programas comunitários, tendo em vista a concessão de incentivos a projetos dinamizadores da qualidade em articulação com os objetivos do SPQ;\n\np) Realizar os procedimentos necessários à gestão do sistema de notificação prévia de regulamentos técnicos e de normas, no âmbito da União Europeia e da Organização Mundial de Comércio;\n\nq) Realizar os procedimentos necessários ao cumprimento do Principio do Reconhecimento Mútuo enquanto ponto de contacto de produto (PCP) do MEE e coordenador da rede de PCP dos diversos Ministérios."
+  },
+  "16cdc7f6a07c7373": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Departamento de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento de Administração Geral\n\nCompete ao Departamento de Administração Geral, abreviadamente designado por DAG:\n\na) Assegurar a gestão dos recursos humanos do IPQ, I. P.;\n\nb) Elaborar o diagnóstico de necessidades de formação do IPQ, I. P., e a realização do respetivo plano anual;\n\nc) Elaborar o balanço social;\n\nd) Assegurar a gestão orçamental, elaborar os projetos de orçamento, propor as alterações que se revelem necessárias e controlar a respetiva execução;\n\ne) Elaborar os planos financeiros anuais e plurianuais e o respetivo acompanhamento, avaliação e controlo;\n\nf) Coordenar a elaboração do plano e relatório de atividades, bem como o relatório de avaliação do desempenho do IPQ, I. P.;\n\ng) Promover a elaboração de instrumentos e indicadores de gestão;\n\nh) Assegurar a gestão do aprovisionamento;\n\ni) Assegurar a gestão e conservação do património e das instalações, mantendo atualizado o inventário;\n\nj) Assegurar a gestão do parque gráfico e do parque de viaturas;\n\nk) Manter organizado o sistema de expediente geral, incluindo o expediente externo, e assegurar o atendimento geral;\n\nl) Garantir a gestão da rede informática e de comunicações, dos sistemas e dos produtos informáticos utilizados pelo IPQ, I. P., assegurando elevados níveis de segurança, fiabilidade e operacionalidade;\n\nm) Desenvolver e administrar as bases de dados existentes no âmbito das atividades do IPQ, I. P., garantindo a segurança, a confidencialidade e a integridade da informação;\n\nn) Proceder ao planeamento, programação e fiscalização das ações de manutenção preventiva e corretiva indispensáveis à conservação e boa operacionalidade das instalações e equipamentos;\n\no) Assegurar a execução e cumprimento dos requisitos sobre condições ambientais, segurança, higiene e saúde no trabalho."
+  },
+  "3b090089a3699ac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2014-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12."
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A organização interna dos serviços do IPQ, I. P., é constituída pelas seguintes unidades orgânicas nucleares:\n\na) Departamento de Normalização;\n\nb) Departamento de Metrologia;\n\nc) Departamento de Assuntos Europeus e Sistema Português da Qualidade;\n\nd) Departamento de Administração Geral.\n\n2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até cinco unidades orgânicas flexíveis, integradas nos departamentos a que se refere o número anterior ou hierarquicamente subordinadas ao conselho diretivo, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação em Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12."
+  },
+  "c1b6e201f4859c73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Departamento de Assuntos Europeus e Sistema Português da Qualidade",
+   "in_force_from": "2014-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12."
+   ],
+   "markdown": "###### Artigo 5.º — Departamento de Assuntos Europeus e Sistema Português da Qualidade\n\nCompete ao Departamento de Assuntos Europeus e Sistema Português da Qualidade, abreviadamente designado por DAESPQ:\n\na) Promover a dinamização e desenvolvimento do subsistema da qualificação através das entidades e organizações que integram o SPQ;\n\nb) Promover e dinamizar Comissões Setoriais e outras estruturas da qualidade integradas no SPQ, preparando e gerindo o calendário das respetivas ações e reuniões, bem como organizando eventos, designadamente encontros, workshops e seminários;\n\nc) Dinamizar e apoiar iniciativas da promoção e reconhecimento da qualidade numa perspetiva integradora das suas componentes, nomeadamente através de prémios de excelência e outros;\n\nd) Promover e apoiar iniciativas com vista a medir a qualidade dos produtos e serviços disponíveis no mercado nacional por via da satisfação dos clientes;\n\ne) Organizar e pôr à disposição dos agentes económicos, das entidades interessadas, do público em geral e dos serviços internos, documentação e informação, no âmbito das atividades do IPQ, I. P., e assegurar a gestão da biblioteca;\n\nf) Assegurar a promoção e divulgação da qualidade e dos conceitos que lhe estão associados através da organização ou participação em, seminários, congressos, feiras, exposições e outros eventos e atividades similares;\n\ng) Providenciar a prestação de serviços de design e apoio gráfico a todos os serviços, assegurando a imagem do IPQ, I. P., através de meios de comunicação e publicações, potenciando sempre que possível as novas tecnologias de comunicação e informação;\n\nh) Gerir as marcas identificadoras do IPQ, I. P., e do SPQ, assegurando a sua publicitação bem como a divulgação de entidades qualificadas e produtos e sistemas certificados no âmbito do SPQ;\n\ni) Proceder à conceção de ações de formação no domínio da qualidade e dos conceitos que lhe estão associados, desenvolvendo as ações necessárias à sua realização;\n\nj) Desenvolver atividades de consultoria e apoio técnico a nível nacional e internacional e intervir em projetos de cooperação, designadamente com países terceiros e países de expressão portuguesa;\n\nk) Garantir e desenvolver a qualidade e as suas metodologias, através do estabelecimento de protocolos e parcerias estratégicas com entidades públicas, privadas e da economia social, bem como com a universidade e outras estruturas científicas e tecnológicas;\n\nl) Gerir as diretivas Nova Abordagem da responsabilidade do IPQ, I. P., bem como promover ações de divulgação, esclarecimento, sensibilização e formação sobre a marcação CE e sua importância para o mercado e agentes económicos;\n\nm) Assegurar o cumprimento dos procedimentos das diretivas comunitárias no que diz respeito à notificação e qualificação, mantendo a Comissão Europeia e os Estados membros permanentemente informados dos organismos notificados no âmbito de cada diretiva;\n\nn) Estudar e propor medidas de apoio ao investimento dos operadores económicos e entidades do SPQ, bem como medidas de apoio à qualidade em atividades produtivas e de exportação, designadamente PME;\n\no) Gerir os projetos de investimento apresentados no âmbito de programas comunitários, tendo em vista a concessão de incentivos a projetos dinamizadores da qualidade em articulação com os objetivos do SPQ;\n\np) Realizar os procedimentos necessários à gestão do sistema de notificação prévia de regulamentos técnicos e de normas, no âmbito da União Europeia e da Organização Mundial de Comércio;\n\nq) Realizar os procedimentos necessários ao cumprimento do Principio do Reconhecimento Mútuo enquanto ponto de contacto de produto (PCP) do MEE e coordenador da rede de PCP dos diversos Ministérios.\n\nr) Realizar os procedimentos necessários ao exercício das competências em matéria de licenciamento de cisternas e de equipamentos sob pressão, promover e participar na elaboração do enquadramento legislativo e regulamentar sobre estas matérias, bem como realizar vistorias de funcionamento em instalações de produção de vapor e os exames necessários a candidatos à profissão de fogueiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12."
+  }
+ }
+}

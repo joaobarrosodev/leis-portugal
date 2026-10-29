@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:389233:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01315ff38ce725dd"
+   ]
+  },
+  {
+   "date": "1969-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216347:por",
+     "title": "Decreto-Lei n.º 49455",
+     "published": "1969-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/49455-1969-216347"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "aa9a14b6dada9e83",
+    "7653c291a328c272",
+    "8e1abc99b9fe7004",
+    "4eedc83d16ae5c4e",
+    "54a5558af3588042",
+    "f280195f7a6a46e8",
+    "9509134a32b03afd",
+    "c39f2d364e86d3ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "01315ff38ce725dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Para manter as actuais pensões de aposentação e reforma aos servidores do Estado, é indispensável conceder à Caixa Geral de Aposentações, através do Orçamento Geral do Estado, um subsídio que, no ano em curso, ultrapassa 300000 contos.\n\nDaí a dificuldade, avolumada nas actuais circunstâncias, de se encontrar solução para conceder aos aposentados e reformados melhoria sobre as suas pensões, já que os pensionistas, para tanto, nada descontaram na efectividade e todo o peso dos respectivos encargos recai no Orçamento Geral do Estado através do aumento do subsídio à Caixa.\n\n2. Apesar deste condicionalismo, sempre que é atribuída melhoria nas remunerações certas dos servidores do Estado no activo, o Governo tem demonstrado compreensão para, na oportunidade financeira aconselhável, conceder os benefícios possíveis aos aposentados e reformados.\n\nO presente diploma confirma tal orientação, embora haja necessidade de manter uma severa política orçamental, imposta pela necessidade de salvaguardar a integridade nacional e de promover o progresso económico do País.\n\n3. A última revisão das pensões de reserva, aposentação, reforma e invalidez foi levada a efeito pelos Decretos-Leis n.os 42948 e 42950, de 27 de Abril de 1960, tendo o ajustamento sido consequência da revisão de vencimentos determinada pelo [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\nPelas razões expostas, não foi possível nivelar nesses diplomas o aumento das pensões com o operado nos vencimentos, como é demonstrado no quadro seguinte, extraído dos citados decretos-leis:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\n4. Em conformidade com a orientação estabelecida pelo [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966 - diploma que concedeu um subsídio eventual de custo de vida ao funcionalismo civil e militar em serviço no continente e ilhas adjacentes -, melhora-se, por este diploma e dentro das possibilidades, a situação dos pensionistas.\n\nNão foi fácil o estudo do problema, porquanto, terminados os trabalhos, a opção por uma das várias soluções encontradas dependia das possibilidades financeiras para satisfazer os encargos correspondentes.\n\nSeleccionou-se uma das hipóteses mais onerosas para o Estado, tendo-se decidido a atribuição, a título transitório, das seguintes melhorias em relação às pensões presentemente em vigor:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\n5. O confronto do aumento que se concede às actuais pensões com o levado a efeito através do subsídio eventual de custo de vida é o seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\nComo se verifica pelos quadros precedentes, a melhoria agora operada nas pensões é sensìvelmente superior à registada em 1960, ficando, deste modo, os pensionistas a beneficiar de percentagens de aumento mais próximas das atribuídas aos vencimentos.\n\n6. O subsídio eventual de custo de vida instituído pelo presente diploma e aplicável às actuais pensões e às que vierem a ser calculadas de futuro não é, por efeito da sua natureza transitória e eventual, integrado nas pensões.\n\nConsequentemente, fica isento de quaisquer descontos, salvo do imposto de selo, e é inalienável e impenhorável, à semelhança do subsídio eventual de custo de vida sobre os vencimentos, instituído pelo já referido [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544).\n\nA referida integração, bem como a do subsídio relativo aos vencimentos, ficam relegadas para outra oportunidade, dependente da ultimação dos estudos em curso para a Reforma Administrativa, na qual se inclui, como determina o citado [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), a revisão da estrutura dos quadros do funcionalismo público, tendo em vista as exigências actuais da Administração, a situação dos servidores do Estado e a eficiência dos serviços.\n\n7. O cálculo do subsídio, no sistema do presente diploma, passa a recair directamente sobre o montante das pensões, o que facilita o expediente dos serviços e é mais consentâneo com a sua natureza de subvenção de custo de vida.\n\nOs escalões adoptados, sobre os quais incidem as percentagens de melhoria, são os estabelecidos pelo referido [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), resultando beneficiadas as pensões de menor quantitativo.\n\nEfectivamente, sendo da ordem de 46000 o número dos actuais pensionistas da Caixa, são, pelo presente diploma, abrangidos pelas melhorias de 20 e 17 por cento cerca de 40000.\n\n8. Os trabalhos de elaboração do orçamento do próximo ano decidiram da oportunidade desta nova providência, que eleva o encargo total com o subsídio eventual do custo de vida a cerca de 1 milhão de contos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As actuais pensões de aposentação, reforma e invalidez, bem como as que vierem a ser calculadas com base nas remunerações presentemente em vigor, serão acrescidas, a título transitório, de um subsídio eventual de custo de vida, de harmonia com os escalões e taxas seguintes:\n\nI) Pensões mensais até 1150$00 - 20 por cento;\n\nII) Pensões mensais superiores a 1150$00 e até 2400$00 - 17 por cento;\n\nIII) Pensões mensais superiores a 2400$00 - 15 por cento.\n\n§ único. Quando, pela aplicação das taxas do segundo e terceiro escalões, a soma da pensão e do subsídio resultar inferior ao limite global máximo correspondente ao escalão imediatamente anterior, será o respectivo subsídio acrescido da importância necessária para perfazer aquele limite.\n\nArt. 2.º Não haverá lugar ao abono eventual de custo de vida quando no cálculo das pensões operem remunerações melhoradas posteriormente a 1 de Janeiro de 1968. Se, porém, a pensão assim fixada resultar inferior à soma da que corresponderia à anterior remuneração e do respectivo subsídio, será abonada, a título de subsídio, a diferença que se verificar.\n\nArt. 3.º O subsídio resultante da aplicação das taxas referidas no artigo 1.º, que será arredondado para escudos por excesso, é inalienável e impenhorável, sendo isento de todos e quaisquer descontos, salvo do imposto do selo.\n\nArt. 4.º São exceptuadas do disposto no artigo 1.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos correios, telégrafos e telefones, em relação às quais o preceituado no presente diploma somente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações.\n\nArt. 5.º O preceituado neste diploma é aplicável às pensões de reserva abonadas aos militares que não se encontrem na efectividade de serviço, sem prejuízo do que legalmente se encontre estabelecido sobre o seu limite.\n\nArt. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, mediante prévio parecer da Caixa Geral de Aposentações, por despacho do Ministro das Finanças.\n\nArt. 7.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1968.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "aa9a14b6dada9e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Para manter as actuais pensões de aposentação e reforma aos servidores do Estado, é indispensável conceder à Caixa Geral de Aposentações, através do Orçamento Geral do Estado, um subsídio que, no ano em curso, ultrapassa 300000 contos.\n\nDaí a dificuldade, avolumada nas actuais circunstâncias, de se encontrar solução para conceder aos aposentados e reformados melhoria sobre as suas pensões, já que os pensionistas, para tanto, nada descontaram na efectividade e todo o peso dos respectivos encargos recai no Orçamento Geral do Estado através do aumento do subsídio à Caixa.\n\n2. Apesar deste condicionalismo, sempre que é atribuída melhoria nas remunerações certas dos servidores do Estado no activo, o Governo tem demonstrado compreensão para, na oportunidade financeira aconselhável, conceder os benefícios possíveis aos aposentados e reformados.\n\nO presente diploma confirma tal orientação, embora haja necessidade de manter uma severa política orçamental, imposta pela necessidade de salvaguardar a integridade nacional e de promover o progresso económico do País.\n\n3. A última revisão das pensões de reserva, aposentação, reforma e invalidez foi levada a efeito pelos Decretos-Leis n.os 42948 e 42950, de 27 de Abril de 1960, tendo o ajustamento sido consequência da revisão de vencimentos determinada pelo [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.\n\nPelas razões expostas, não foi possível nivelar nesses diplomas o aumento das pensões com o operado nos vencimentos, como é demonstrado no quadro seguinte, extraído dos citados decretos-leis:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\n4. Em conformidade com a orientação estabelecida pelo [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966 - diploma que concedeu um subsídio eventual de custo de vida ao funcionalismo civil e militar em serviço no continente e ilhas adjacentes -, melhora-se, por este diploma e dentro das possibilidades, a situação dos pensionistas.\n\nNão foi fácil o estudo do problema, porquanto, terminados os trabalhos, a opção por uma das várias soluções encontradas dependia das possibilidades financeiras para satisfazer os encargos correspondentes.\n\nSeleccionou-se uma das hipóteses mais onerosas para o Estado, tendo-se decidido a atribuição, a título transitório, das seguintes melhorias em relação às pensões presentemente em vigor:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\n5. O confronto do aumento que se concede às actuais pensões com o levado a efeito através do subsídio eventual de custo de vida é o seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/26800/20222023.pdf)\n\nComo se verifica pelos quadros precedentes, a melhoria agora operada nas pensões é sensìvelmente superior à registada em 1960, ficando, deste modo, os pensionistas a beneficiar de percentagens de aumento mais próximas das atribuídas aos vencimentos.\n\n6. O subsídio eventual de custo de vida instituído pelo presente diploma e aplicável às actuais pensões e às que vierem a ser calculadas de futuro não é, por efeito da sua natureza transitória e eventual, integrado nas pensões.\n\nConsequentemente, fica isento de quaisquer descontos, salvo do imposto de selo, e é inalienável e impenhorável, à semelhança do subsídio eventual de custo de vida sobre os vencimentos, instituído pelo já referido [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544).\n\nA referida integração, bem como a do subsídio relativo aos vencimentos, ficam relegadas para outra oportunidade, dependente da ultimação dos estudos em curso para a Reforma Administrativa, na qual se inclui, como determina o citado [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), a revisão da estrutura dos quadros do funcionalismo público, tendo em vista as exigências actuais da Administração, a situação dos servidores do Estado e a eficiência dos serviços.\n\n7. O cálculo do subsídio, no sistema do presente diploma, passa a recair directamente sobre o montante das pensões, o que facilita o expediente dos serviços e é mais consentâneo com a sua natureza de subvenção de custo de vida.\n\nOs escalões adoptados, sobre os quais incidem as percentagens de melhoria, são os estabelecidos pelo referido [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), resultando beneficiadas as pensões de menor quantitativo.\n\nEfectivamente, sendo da ordem de 46000 o número dos actuais pensionistas da Caixa, são, pelo presente diploma, abrangidos pelas melhorias de 20 e 17 por cento cerca de 40000.\n\n8. Os trabalhos de elaboração do orçamento do próximo ano decidiram da oportunidade desta nova providência, que eleva o encargo total com o subsídio eventual do custo de vida a cerca de 1 milhão de contos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "7653c291a328c272": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs actuais pensões de aposentação, reforma e invalidez, bem como as que vierem a ser calculadas com base nas remunerações presentemente em vigor, serão acrescidas, a título transitório, de um subsídio eventual de custo de vida, de harmonia com os escalões e taxas seguintes:\n\nI) Pensões mensais até 1150$00 - 20 por cento;\n\nII) Pensões mensais superiores a 1150$00 e até 2400$00 - 17 por cento;\n\nIII) Pensões mensais superiores a 2400$00 - 15 por cento.\n\n§ único. Quando, pela aplicação das taxas do segundo e terceiro escalões, a soma da pensão e do subsídio resultar inferior ao limite global máximo correspondente ao escalão imediatamente anterior, será o respectivo subsídio acrescido da importância necessária para perfazer aquele limite."
+  },
+  "8e1abc99b9fe7004": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1969-12-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 49455](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49455-1969-216347), publicado em 1969-12-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 49455](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49455-1969-216347), publicado em 1969-12-24."
+  },
+  "4eedc83d16ae5c4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO subsídio resultante da aplicação das taxas referidas no artigo 1.º, que será arredondado para escudos por excesso, é inalienável e impenhorável, sendo isento de todos e quaisquer descontos, salvo do imposto do selo."
+  },
+  "54a5558af3588042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão exceptuadas do disposto no artigo 1.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos correios, telégrafos e telefones, em relação às quais o preceituado no presente diploma somente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações."
+  },
+  "f280195f7a6a46e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO preceituado neste diploma é aplicável às pensões de reserva abonadas aos militares que não se encontrem na efectividade de serviço, sem prejuízo do que legalmente se encontre estabelecido sobre o seu limite."
+  },
+  "9509134a32b03afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, mediante prévio parecer da Caixa Geral de Aposentações, por despacho do Ministro das Finanças."
+  },
+  "c39f2d364e86d3ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 1968.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

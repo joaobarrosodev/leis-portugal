@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-11-20'
+version_history:
+  file: decreto-lei-43379.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-12-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-11-20'
+    amending: pt:dre:631787:por
+    amending_title: Decreto-Lei n.º 508/71
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 508/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43379.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,17 +139,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O provimento nos lugares constantes do mapa I anexo ao Regulamento do Arsenal do Alfeite, criados por virtude das modificações introduzidas pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, será feito pelo Ministro da Marinha, sob proposta da administração do Arsenal, de entre os actuais serventuários, independentemente das suas habilitações, e não carece de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, com excepção da publicação no Diário do Governo da respectiva lista nominal da qual constem as suas novas categorias.
+###### Artigo 1.º
+
+O provimento nos lugares constantes do mapa I anexo ao Regulamento do Arsenal do Alfeite, criados por virtude das modificações introduzidas pelo [Decreto n.º 43380](https://diariodarepublica.pt/dr/detalhe/decreto/43380-1960-512662), de 6 de Dezembro de 1960, será feito pelo Ministro da Marinha, sob proposta da administração do Arsenal, de entre os actuais serventuários, independentemente das suas habilitações, e não carece de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, com excepção da publicação no Diário do Governo da respectiva lista nominal da qual constem as suas novas categorias.
 
 § 1.º Consideram-se providos definitivamente no novo quadro os funcionários que já se encontravam nessa situação anteriormente à publicação deste diploma.
 
 § 2.º Os lugares que, porventura, não for possível ou aconselhável preencher pela forma estabelecida no corpo deste artigo serão providos nos termos da lei geral.
 
-Art. 2.º Fará também parte do conselho de administração do Arsenal do Alfeite o director adjunto da administração, cujo lugar foi criado pelo [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.
+###### Artigo 2.º
 
-Art. 3.º Ao pessoal do Arsenal do Alfeite inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+(Revogado.)
 
-Art. 4.º É concedido o prazo de 180 dias, contado a partir da publicação deste decreto-lei, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço no Estado se confere pelo presente diploma, para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
+> Revogado pelo/a [Decreto-Lei n.º 508/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1971-631787), publicado em 1971-11-20.
+
+###### Artigo 3.º
+
+Ao pessoal do Arsenal do Alfeite inscrito na Caixa Geral de Aposentações será levado em conta para efeitos de aposentação todo o tempo de serviço prestado ao Estado anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo e pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+
+###### Artigo 4.º
+
+É concedido o prazo de 180 dias, contado a partir da publicação deste decreto-lei, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço no Estado se confere pelo presente diploma, para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações e instruídos com os documentos comprovativos.
 
 § único. Ficam dispensados de novo requerimento todos aqueles que já requereram ao abrigo do artigo 11.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e a quem foi contado o tempo requerido, contando-se no entanto este tempo nos termos do presente diploma.
 

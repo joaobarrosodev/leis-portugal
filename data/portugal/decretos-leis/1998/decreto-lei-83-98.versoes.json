@@ -1,0 +1,198 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209020:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "91f6ca0b5068e197",
+    "13b4bcb44c073bd9",
+    "612e569010508c25",
+    "879bb90e74ce4b6a",
+    "e0e06b7e6c634357",
+    "28a4a2aa68930dfb",
+    "b85ef27cabdc0045",
+    "719f1ca4d5109b44",
+    "617f316b581c1648",
+    "1aecbbf75f3a1887",
+    "ebb209de269265ee",
+    "22daa944220420ad",
+    "e46f600b362d03ac",
+    "2ea3b2fbf97f5a8c"
+   ]
+  },
+  {
+   "date": "2000-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:303819:por",
+     "title": "Decreto-Lei n.º 107/2000",
+     "published": "2000-06-19",
+     "dre_path": "/dr/detalhe/decreto-lei/107-2000-303819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Adita Artigo ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública::5.º-A"
+   ],
+   "fragments": [
+    "91f6ca0b5068e197",
+    "13b4bcb44c073bd9",
+    "33d27195f6b82b64",
+    "879bb90e74ce4b6a",
+    "e0e06b7e6c634357",
+    "28a4a2aa68930dfb",
+    "b85ef27cabdc0045",
+    "719f1ca4d5109b44",
+    "617f316b581c1648",
+    "1aecbbf75f3a1887",
+    "ebb209de269265ee",
+    "22daa944220420ad",
+    "8d64227657f0c906",
+    "e46f600b362d03ac",
+    "2ea3b2fbf97f5a8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "91f6ca0b5068e197": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Abril\n\nO [Decreto-Lei n.º 441/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1991-316728), de 14 de Novembro, estabelece um conjunto de princípios com vista à promoção da segurança, higiene e saúde no trabalho, abrangendo a generalidade do universo laboral, incluindo a administração pública central, regional e local e os institutos públicos nas modalidades de serviços personalizados do Estado e de fundos públicos.\n\nO objectivo fundamental consiste em assegurar a prestação de trabalho em condições que garantam um nível mais elevado da segurança e da saúde dos trabalhadores.\n\nA institucionalização do Conselho Nacional de Higiene e Segurança no Trabalho, previsto na alínea b) do n.º 2 do artigo 7.º do [Decreto-Lei n.º 441/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/441-1991-316728), criado pela [Resolução n.º 204/82](https://diariodarepublica.pt/dr/detalhe/resolucao/204-1982-377373), de 16 de Novembro, visa proporcionar, a este nível, a consulta e a participação das organizações representativas dos empregadores e dos trabalhadores.\n\nPor sua vez, na alínea c) do n.º 2 do artigo 23.º do citado decreto-lei prevê-se a criação de mecanismos que propiciem a sua aplicação à Administração Pública.\n\nCom o presente diploma cria-se o Conselho de Saúde e Segurança no Trabalho para a Administração Pública, órgão de regular natureza consultiva, que tem por objectivo a promoção, acompanhamento e avaliação de medidas de política no domínio da segurança e saúde no trabalho. Entre as suas competências inclui-se a intervenção no processo de atribuição de suplementos remuneratórios e outras compensações que se fundamentem na prestação de trabalho em condições de risco, penosidade ou insalubridade, conforme previsto no artigo 11.º do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março.\n\nO Conselho tem uma representatividade paritária, com igual número de representantes do Governo e de organizações sindicais dos trabalhadores da Administração Pública, e dá cumprimento ao previsto no acordo salarial para 1996 e compromissos de médio e longo prazo.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, as associações sindicais e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos do n.º 5 do artigo 112.º e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "13b4bcb44c073bd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - No âmbito do sistema de prevenção de riscos profissionais é criado o Conselho de Saúde e Segurança no Trabalho para a Administração Pública, adiante designado por Conselho.\n\n2 - O Conselho visa assegurar a consulta e a participação da Administração Pública e de organizações sindicais representativas dos trabalhadores na promoção, acompanhamento e avaliação de medidas de política no domínio da segurança e saúde no trabalho, em todos os serviços e organismos públicos, que não revistam a natureza, forma e designação de empresa pública."
+  },
+  "612e569010508c25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O Conselho é nomeado, no prazo de 45 dias, por despacho do membro do Governo que tutela a Administração Pública, sendo constituído por:\n\na) Um presidente designado pelo membro do Governo que tutela a Administração Pública, ouvidas as organizações sindicais;\n\nb) Dez representantes do Governo e suplentes designados, respectivamente, pelo membro do Governo que tutela a Administração Pública, pelo Ministro da Defesa Nacional, pelo Ministro das Finanças, pelo Ministro da Administração Interna, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, pelo Ministro da Justiça, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pelo Ministro da Saúde, pelo Ministro do Trabalho e da Solidariedade e pelo Ministro do Ambiente;\n\nc) Dois representantes designados pelos Governos Regionais, em matérias de interesse para as Regiões Autónomas;\n\nd) Dez representantes de organizações sindicais representativas dos trabalhadores da Administração Pública e respectivos suplentes.\n\n2 - Nas suas ausências e impedimentos o presidente é substituído por um dos membros do Conselho, designado nos termos da alínea a) do número anterior, sendo a sua representação no Conselho assegurada pelo respectivo membro suplente.\n\n3 - Os membros do Conselho exercem o seu mandato por períodos de três anos, renováveis, sem prejuízo da sua substituição, a todo o tempo, por proposta da entidade que os designou."
+  },
+  "879bb90e74ce4b6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\nAo Conselho compete:\n\na) Promover a saúde dos trabalhadores, contribuindo para a definição, coordenação e aplicação da política de segurança e saúde no trabalho;\n\nb) Emitir parecer sobre medidas legislativas e programas em matéria de segurança e saúde;\n\nc) Acompanhar e avaliar os programas e as acções desenvolvidas, tendo em vista o seu eventual reajustamento;\n\nd) Formular às entidades competentes recomendações que contribuam para a concretização da política de segurança e saúde dos trabalhadores;\n\ne) Formular recomendações e propostas que contribuam para a concretização de um sistema coerente e articulado de prevenção e reparação de riscos, de acidentes e doenças profissionais;\n\nf) Analisar e emitir parecer sobre as propostas apresentadas quer pelo Governo, quer pelas organizações sindicais;\n\ng) Recolher informações dos serviços e organismos da Administração Pública necessários à apreciação das condições de trabalho e, nomeadamente, nos resultados das acções programadas no âmbito da segurança e saúde dos trabalhadores;\n\nh) Emitir obrigatoriamente parecer sobre a atribuição ou alteração dos suplementos ou outras compensações que se fundamentem na prestação de trabalho em situação de risco, penosidade ou insalubridade;\n\ni) Criar comissões técnicas, sempre que necessário, para a elaboração de estudos, pareceres e propostas sobre temas ou áreas específicas no âmbito das suas atribuições, definindo-lhes o modo de funcionamento;\n\nj) Aprovar o relatório anual de actividades;\n\nl) Exercer as demais competências que lhe sejam conferidas por lei."
+  },
+  "e0e06b7e6c634357": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Apoio logístico e secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio logístico e secretariado\n\nO apoio logístico e o secretariado do Conselho são assegurados pelo gabinete do membro do Governo que tutela a Administração Pública."
+  },
+  "28a4a2aa68930dfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamento\n\nO funcionamento do Conselho rege-se pelo regulamento publicado em anexo ao presente diploma, que dele faz parte integrante.\n\nVisto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 18 de Março de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "b85ef27cabdc0045": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública"
+  },
+  "719f1ca4d5109b44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO Conselho de Saúde e Segurança no Trabalho para a Administração Pública, adiante designado por Conselho, rege-se pelo presente Regulamento."
+  },
+  "617f316b581c1648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências do presidente\n\nAo presidente compete:\n\na) Orientar e coordenar a actividade do Conselho;\n\nb) Convocar as reuniões;\n\nc) Presidir às sessões do Conselho e coordenar os respectivos trabalhos;\n\nd) Assinar as actas das reuniões após a sua aprovação;\n\ne) Representar o Conselho junto de outras entidades;\n\nf) Solicitar, mediante deliberação do Conselho, às entidades ou organismos competentes a participação dos elementos para integrarem as comissões técnicas e de peritos para assessoria do Conselho;\n\ng) Elaborar e submeter o relatório anual de actividades à aprovação do Conselho;\n\nh) Assegurar o cumprimento das disposições do presente Regulamento."
+  },
+  "1aecbbf75f3a1887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O Conselho reúne, obrigatoriamente, três vezes por ano e sempre que o presidente o convoque, por sua decisão ou a requerimento de, pelo menos, dois membros do Conselho.\n\n2 - As reuniões do Conselho só podem funcionar com a presença, no mínimo, de 11 membros.\n\n3 - Cada membro do Conselho pode, sempre que o entender necessário, fazer-se assessorar por um perito.\n\n4 - A convocação das reuniões é feita com, pelo menos, 15 dias de antecedência, devendo constar da convocatória a respectiva ordem de trabalhos.\n\n5 - De cada reunião do Conselho é lavrada uma acta, contendo um resumo dos assuntos mais relevantes e a especificação das deliberações tomadas."
+  },
+  "ebb209de269265ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deliberações\n\n1 - As deliberações do Conselho são tomadas, sempre que possível, por consenso.\n\n2 - Se não for possível obter consenso, proceder-se-á à votação, observando-se o seguinte:\n\na) As deliberações são tomadas por maioria absoluta de votos dos membros presentes;\n\nb) Cada membro do Conselho, com excepção do presidente, tem direito a um voto;\n\nc) O presidente, ou quem o substitua, tem voto de desempate, que deve fundamentar."
+  },
+  "22daa944220420ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Comissões técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissões técnicas\n\n1 - As comissões técnicas criadas pelo Conselho são constituídas por elementos com conhecimentos técnicos adequados.\n\n2 - Cada comissão deve ser formada por três ou cinco elementos.\n\n3 - O Conselho designa, de entre os seus membros titulares ou suplentes, um coordenador. Além disso, designa os elementos que constituem cada comissão, os quais podem ser propostos de entre personalidades com o perfil técnico necessário aos trabalhos a desenvolver.\n\n4 - Do desenvolvimento dos trabalhos das comissões será elaborado o respectivo relatório, a apresentar ao Conselho no prazo por este fixado.\n\n5 - Cada comissão manter-se-á em exercício apenas enquanto o Conselho o considerar conveniente.\n\n6 - O coordenador de cada comissão, quando for membro suplente do Conselho, participa nas reuniões do Conselho, sem direito a voto."
+  },
+  "e46f600b362d03ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretariado\n\nAo Secretariado do Conselho compete, designadamente:\n\na) Dar apoio directo ao presidente, de modo a assegurar o bom funcionamento do Conselho e das comissões técnicas;\n\nb) Assegurar a transmissão de elementos informativos e orientações entre o Conselho e as comissões técnicas;\n\nc) Preparar o expediente para os serviços competentes e encaminhar todas as solicitações de documentação técnica formuladas pelo Conselho ou pelas comissões técnicas;\n\nd) Enviar, com a devida antecedência, as convocatórias das reuniões para os membros do Conselho e outras pessoas que devam participar nas reuniões;\n\ne) Secretariar as reuniões do Conselho;\n\nf) Garantir o expediente normal do Conselho."
+  },
+  "2ea3b2fbf97f5a8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revisão\n\nNo prazo de um ano após a sua entrada em vigor, o presente Regulamento será objecto de apreciação pelo Conselho, para eventual proposta de alteração a apresentar ao membro do Governo que tutela a Administração Pública."
+  },
+  "33d27195f6b82b64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2000-06-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19."
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O Conselho é nomeado, no prazo de 45 dias, por despacho do membro do Governo que tutela a Administração Pública, sendo constituído por:\n\na) Um presidente designado pelo membro do Governo que tutela a Administração Pública, ouvidas as organizações sindicais;\n\nb) Dez representantes do Governo e respectivos suplentes, designados pelos membros do Governo responsáveis pelas áreas da Administração Pública, da defesa nacional, das finanças, da administração interna, da administração local, da justiça, da agricultura e pescas, da saúde, do trabalho e do ambiente.\n\nc) Dois representantes designados pelos Governos Regionais, em matérias de interesse para as Regiões Autónomas;\n\nd) Dez representantes de organizações sindicais representativas dos trabalhadores da Administração Pública e respectivos suplentes.\n\n2 - Nas suas ausências e impedimentos o presidente é substituído por um dos membros do Conselho, designado nos termos da alínea a) do número anterior, sendo a sua representação no Conselho assegurada pelo respectivo membro suplente.\n\n3 - Os membros do Conselho exercem o seu mandato por períodos de três anos, renováveis, sem prejuízo da sua substituição, a todo o tempo, por proposta da entidade que os designou.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19."
+  },
+  "8d64227657f0c906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º-A — Remunerações",
+   "in_force_from": "2000-06-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19."
+   ],
+   "markdown": "###### Artigo 5.º-A — Remunerações\n\nOs membros das comissões técnicas previstas no artigo 5.º do presente Regulamento são remunerados por gratificação ou por senhas de presença, de acordo com o tipo de trabalho a desenvolver, nos termos a fixar por despacho conjunto do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública e têm direito ao abono de despesas de deslocação e de ajudas de custo nos termos da lei geral.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19."
+  }
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:323958:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a58bc545b127bd67",
+    "7342f7b1dcac3873",
+    "ba5c30286bc52e9f",
+    "8ee41c992a375bdc",
+    "396cfe66f6d1ddf2",
+    "03a06cba230b5a67",
+    "0abaf6db07b944fc",
+    "3c0abff93feb8bae",
+    "0ec2776ac1dea987",
+    "78c0812a42a9c3a4",
+    "c94c87569ef18b55",
+    "26eee422374a500a",
+    "3c3d97970dff131d",
+    "36f3030c5d1c51b6",
+    "e4fda2f268704973",
+    "d55f0b5b15103b0d",
+    "d14c21ffc3170a3a",
+    "ec4183fd922abcca",
+    "ec9f2d7c5e7875d1",
+    "d5c17af97155dc61",
+    "14c5126dd62c7707",
+    "0ee6092e66af2ba3",
+    "1650ab3d7226afd4",
+    "af5300fc08266b44",
+    "260a9f4ecd4b5740",
+    "446411ebf5eb6bea",
+    "a618a3fccb997e33",
+    "4789fa286a8d12d4",
+    "a3722cc0f59f8958",
+    "7234feafbb3d4ddf",
+    "76247f33de3ecbea",
+    "7111e7703eb2fd0d",
+    "25d149074f767776"
+   ]
+  },
+  {
+   "date": "2004-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240384:por",
+     "title": "Decreto-Lei n.º 1/2004",
+     "published": "2004-01-02",
+     "dre_path": "/dr/detalhe/decreto-lei/1-2004-240384"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "a58bc545b127bd67",
+    "7342f7b1dcac3873",
+    "ba5c30286bc52e9f",
+    "ef9680a871597987",
+    "396cfe66f6d1ddf2",
+    "03a06cba230b5a67",
+    "0abaf6db07b944fc",
+    "3c0abff93feb8bae",
+    "0ec2776ac1dea987",
+    "78c0812a42a9c3a4",
+    "c94c87569ef18b55",
+    "26eee422374a500a",
+    "3c3d97970dff131d",
+    "36f3030c5d1c51b6",
+    "e4fda2f268704973",
+    "d55f0b5b15103b0d",
+    "d14c21ffc3170a3a",
+    "ec4183fd922abcca",
+    "ec9f2d7c5e7875d1",
+    "d5c17af97155dc61",
+    "14c5126dd62c7707",
+    "0ee6092e66af2ba3",
+    "1650ab3d7226afd4",
+    "af5300fc08266b44",
+    "260a9f4ecd4b5740",
+    "446411ebf5eb6bea",
+    "a618a3fccb997e33",
+    "4789fa286a8d12d4",
+    "a3722cc0f59f8958",
+    "7234feafbb3d4ddf",
+    "76247f33de3ecbea",
+    "7111e7703eb2fd0d",
+    "25d149074f767776"
+   ]
+  }
+ ],
+ "fragments": {
+  "a58bc545b127bd67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Maio\n\nA dinâmica de globalização dos mercados e o processo de construção europeia, por um lado, e as linhas mestras de actuação do Ministério da Economia, expressas num conjunto bem definido de objectivos e orientações, designadamente no que se refere às políticas de competitividade e de internacionalização, por outro, geram a necessidade de conferir aos organismos e serviços do Ministério atribuições ajustadas a este novo contexto.\n\nO Gabinete de Estudos e Prospectiva Económica, como serviço do Ministério da Economia vocacionado para o estudo e análise das questões económicas, designadamente numa perspectiva de antecipação de situações através da análise das tendências pesadas, suas possíveis evoluções e riscos de ruptura, com vista a apoiar a formulação e avaliação das políticas relevantes do Ministério e a proporcionar informação estratégica aos agentes económicos, deve, pois, ser dotado de estrutura e competências conformes a estes novos desígnios.\n\nO Gabinete de Estudos e Prospectiva Económica orientar-se-á por um modelo de funcionamento que privilegie o desenvolvimento de actividades em parceria com os organismos públicos responsáveis pela implementação das medidas de política do Ministério da Economia e promova a cooperação com as universidades e as associações de natureza empresarial.\n\nForam ouvidas as associações representativas dos trabalhadores.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 49.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "ba5c30286bc52e9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Gabinete de Estudos e Prospectiva Económica, adiante abreviadamente designado por GEPE, é o serviço do Ministério da Economia vocacionado para o estudo das questões económicas, designadamente numa óptica de análise prospectiva, desenvolvendo para o efeito formas alargadas de parceria e de cooperação, com o fim de apoiar a formulação, acompanhamento e avaliação das políticas relevantes do Ministério e de proporcionar informação estratégica aos agentes económicos."
+  },
+  "8ee41c992a375bdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do GEPE, no âmbito da intervenção do Ministério da Economia:\n\na) Promover, coordenar e realizar estudos que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério da Economia, numa óptica prospectiva, integrada e global;\n\nb) Analisar a evolução da actividade económica, assegurando a coordenação, tratamento e análise da informação estatística, visando a formação de expectativas pelos agentes económicos;\n\nc) Coordenar, gerir e disponibilizar a informação relativa aos estudos promovidos, realizados ou adjudicados no âmbito do Ministério e emitir parecer prévio à realização de novos estudos, com vista a racionalizar o seu potencial e a melhor internalizar a utilização dos seus resultados;\n\nd) Promover e desenvolver acções que contribuam para a articulação entre as políticas sectoriais e horizontais do Ministério e entre estas e outras políticas relevantes do Governo, com impacte na competitividade e internacionalização da economia portuguesa;\n\ne) Fomentar, na base de parcerias e de cooperação, actividades de reflexão com universidades, centros de investigação e outros agentes económicos, nacionais e estrangeiros, visando uma envolvente económica favorável a estratégias empresariais abertas ao desenvolvimento dos novos factores de competitividade e à internacionalização da economia portuguesa;\n\nf) Proporcionar informação qualificada de natureza envolvente e estratégica aos agentes económicos;\n\ng) Participar na elaboração das Grandes Opções do Plano e de planos nacionais de desenvolvimento sócio-económicos;\n\nh) Participar na formulação das medidas de política que integram o Orçamento do Estado."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "03a06cba230b5a67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos do GEPE:\n\na) O director;\n\nb) O conselho de direcção."
+  },
+  "0abaf6db07b944fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director\n\n1 - O director, equiparado, para todos os efeitos legais, a director-geral, é o órgão que dirige o GEPE, incumbindo-lhe, para além do exercício de outras competências próprias ou delegadas:\n\na) Representar o GEPE junto de quaisquer instituições ou organismos;\n\nb) Assegurar a participação do GEPE nas instâncias nacionais e internacionais para as quais seja designado;\n\nc) Assegurar a representação do Ministério no Conselho Superior de Estatística.\n\n2 - O director é coadjuvado por dois subdirectores, equiparados, para todos os efeitos legais, a subdirector-geral, nos quais pode delegar competências.\n\n3 - O director é substituído, nas suas ausências e impedimentos, pelo subdirector que, sob sua proposta, for designado pelo Ministro."
+  },
+  "3c0abff93feb8bae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de direcção\n\n1 - O conselho de direcção é o órgão de consulta do GEPE, ao qual compete:\n\na) Contribuir para a preparação e acompanhamento da execução do plano anual de actividades do GEPE;\n\nb) Contribuir para a formulação das linhas gerais e para a definição das prioridades do programa de formação do pessoal do GEPE;\n\nc) Equacionar as soluções possíveis de desenvolvimento do sistema informático do GEPE.\n\n2 - O conselho de direcção é constituído pelo director e responsáveis dos serviços enunciados no artigo 6.º e reúne com a periodicidade e nos termos definidos pelo director do GEPE."
+  },
+  "0ec2776ac1dea987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços\n\nSão serviços do GEPE:\n\na) A Direcção de Serviços de Estudos e Prospectiva;\n\nb) A Direcção de Serviços de Estatística e Métodos Quantitativos;\n\nc) A Direcção de Serviços de Organização e Documentação;\n\nd) A Direcção de Serviços de Promoção e Relações Externas;\n\ne) A Divisão Administrativa."
+  },
+  "78c0812a42a9c3a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Estudos e Prospectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Estudos e Prospectiva\n\n1 - À Direcção de Serviços de Estudos e Prospectiva compete:\n\na) Propor, coordenar e realizar estudos de natureza económica, tendo em vista antecipar as tendências de evolução e de mudança estrutural da economia portuguesa, com o objectivo de apoiar a formulação das políticas relativas às áreas de intervenção do Ministério e de proporcionar aos agentes económicos informação qualificada de apoio à definição de estratégias empresariais;\n\nb) Acompanhar o desenvolvimento de estudos da responsabilidade do GEPE ou em parceria adjudicados a consultores;\n\nc) Dar parecer prévio sobre os estudos a realizar na esfera de acção do Ministério, designadamente quanto ao seu âmbito, natureza, objectivos e metodologias;\n\nd) Coordenar e realizar estudos de natureza económica, com vista à regular avaliação dos impactes dos programas e medidas de política relevantes;\n\ne) Contribuir para a elaboração das Grandes Opções do Plano e para as medidas de política que integram o Orçamento do Estado.\n\n2 - A Direcção de Serviços de Estudos e Prospectiva compreende a Divisão de Estudos Económicos e a Divisão de Avaliação das Políticas, às quais correspondem, respectivamente, as competências previstas nas alíneas a) a c) e d) a e) do número anterior."
+  },
+  "c94c87569ef18b55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Estatística e Métodos Quantitativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Estatística e Métodos Quantitativos\n\n1 - À Direcção de Serviços de Estatística e Métodos Quantitativos compete:\n\na) Assegurar a recolha, actualização e sistematização de séries de dados estatísticos relativos às áreas de actuação do Ministério, de âmbito nacional e internacional;\n\nb) Conceber, desenvolver e aplicar metodologias de tratamento e análise quantitativa, em especial para a elaboração de indicadores relevantes, contas económicas sectoriais e modelos;\n\nc) Contribuir para a formulação e avaliação das políticas prosseguidas pelo Ministério, através da utilização de instrumentos de análise apropriados;\n\nd) Conceber e implementar sistemas estruturados de tratamento e informação estatística, nomeadamente a constituição de bases de dados;\n\ne) Gerir as bases de dados de natureza estatística elaboradas no GEPE.\n\n2 - A Direcção de Serviços de Estatística e Métodos Quantitativos compreende a Divisão de Estatística e a Divisão de Bases de Dados, às quais correspondem, respectivamente, as competências previstas nas alíneas a) a c) e d) a e) do número anterior."
+  },
+  "26eee422374a500a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Organização e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Organização e Documentação\n\n1 - À Direcção de Serviços de Organização e Documentação compete:\n\na) Conceber e implementar as tecnologias de informação e comunicações do GEPE, assegurando a sua adequação às necessidades dos serviços, bem como assegurar o correcto dimensionamento e a modernização dos equipamentos e aplicações informáticos;\n\nb) Assegurar a gestão corrente do sistema informático do GEPE, com a maior e melhor racionalidade e normalização de funcionamento e a interligação da rede com a do Ministério e exercer acções de formação junto dos utilizadores sobre as potencialidades dos meios existentes;\n\nc) Representar o GEPE em grupos de trabalho relativos a estas matérias;\n\nd) Assegurar a recolha e tratamento da informação científica e técnica relacionada com as funções e actividades do GEPE ou do Ministério, quando solicitado;\n\ne) Elaborar dossiers de informação específicos e ou temáticos quer de apoio a trabalhos em curso no GEPE ou no Ministério quer para entidades externas.\n\n2 - A Direcção de Serviços de Organização e Documentação compreende a Divisão de Gestão das Tecnologias de Informação e Comunicações e a Divisão de Documentação, às quais correspondem, respectivamente, as competências previstas nas alíneas a) a c) e d) a e) do número anterior."
+  },
+  "3c3d97970dff131d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Promoção e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Promoção e Relações Externas\n\n1 - À Direcção de Serviços de Promoção e Relações Externas compete:\n\na) Desenvolver acções que incentivem o intercâmbio de conhecimentos e experiências com outras instituições, em especial as universidades e o sector empresarial, designadamente através da realização de seminários e conferências;\n\nb) Proceder à divulgação de estudos e de outros trabalhos efectuados, promovidos ou coordenados pelo GEPE, assegurando a edição das respectivas publicações;\n\nc) Promover e organizar a difusão da informação relacionada com as actividades do GEPE;\n\nd) Recolher e tratar a informação necessária à cooperação ou participação do GEPE em organizações internacionais;\n\ne) Preparar as intervenções e a sua presença em reuniões internacionais.\n\n2 - A Direcção de Serviços de Promoção e Relações Externas compreende a Divisão de Promoção e a Divisão de Relações Externas, às quais competem, respectivamente, as competências previstas nas alíneas a) a c) e d) a e)."
+  },
+  "36f3030c5d1c51b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º"
+  },
+  "e4fda2f268704973": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão Administrativa\n\n1 - À Divisão Administrativa compete:\n\na) Estudar e fazer a gestão em matérias da área administrativa do GEPE, tendo em vista a optimização dos seus recursos humanos, financeiros e patrimoniais;\n\nb) Preparar a informação de base para a elaboração dos projectos de orçamento, assegurar a sua execução, proceder à escrituração das receitas e despesas e efectuar os respectivos balancetes;\n\nc) Organizar e executar o processamento das remunerações do pessoal;\n\nd) Contabilizar e processar as demais despesas, com prévia verificação da legalidade das mesmas;\n\ne) Elaborar anualmente os mapas para o Tribunal de Contas;\n\nf) Propor e proceder às aquisições de material e de consumíveis necessários ao normal funcionamento do GEPE, bem como assegurar as funções de economato;\n\ng) Gerir o património, manter actualizado o respectivo cadastro e assegurar a informação legalmente devida às entidades competentes;\n\nh) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego do pessoal do GEPE e o expediente necessário à sua efectivação;\n\ni) Organizar e manter actualizados o cadastro e os ficheiros de pessoal;\n\nj) Assegurar as operações de registo e controlo da assiduidade e antiguidade dos funcionários e efectuar as acções relativas aos benefícios sociais a que os mesmos tenham direito;\n\nl) Efectuar os procedimentos administrativos relativos ao processo de classificação de serviço;\n\nm) Assegurar a recepção e a expedição da correspondência do GEPE, bem como de outra documentação, procedendo às operações de registo, classificação e distribuição;\n\nn) Coordenar as actividades do pessoal auxiliar e assegurar os serviços de reprografia.\n\n2 - Para a prossecução das suas atribuições, a Divisão Administrativa compreende:\n\na) A Secção de Orçamento e Contabilidade, à qual incumbem as tarefas a que se referem as alíneas a) a g);\n\nb) A Secção de Pessoal e Expediente, à qual incumbem as tarefas a que se referem as alíneas h) a n)."
+  },
+  "d55f0b5b15103b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento"
+  },
+  "d14c21ffc3170a3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n1 - O funcionamento do GEPE assenta na estrutura definida no presente decreto regulamentar e tem por quadro de referência o plano anual de actividades, aprovado nos termos da lei.\n\n2 - O GEPE desenvolve as suas actividades em articulação com os restantes serviços e organismos do Ministério da Economia e, bem assim, em conjugação com os competentes serviços e organismos de outros departamentos da Administração Pública.\n\n3 - Para a prossecução de actividades que, no âmbito das atribuições do GEPE, devam ser desenvolvidas com a colaboração de elementos de outros serviços ou organismos do Ministério da Economia, de outros ministérios, ou não pertencentes à função pública, podem ser constituídas, por despacho do Ministro da Economia, sob proposta do director do GEPE, equipas de projecto de duração limitada.\n\n4 - As equipas de projecto que integrem elementos não afectos ao Ministério da Economia ou não pertencentes à função pública são constituídas por despacho conjunto dos ministros que tutelam os serviços ou organismos envolvidos, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública.\n\n5 - Os despachos referidos nos n.os 3 e 4 deverão prever a constituição das equipas, a nomeação dos respectivos coordenadores, os objectivos a prosseguir e o período de duração."
+  },
+  "ec4183fd922abcca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Parcerias e cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Parcerias e cooperação com outras entidades\n\n1 - Para o desempenho das suas atribuições, o GEPE pode promover formas alargadas de parcerias e de cooperação adequadas com outras entidades, nacionais e estrangeiras, designadamente com universidades, centros de investigação, gabinetes de estudos e associações de natureza económica.\n\n2 - O GEPE pode, mediante despacho do Ministro da Economia, ser autorizado a participar em associações ou outras entidades nacionais e internacionais cujo objectivo seja de interesse para a prossecução das suas atribuições, devendo ser assegurada, nos casos em que seja aplicável, a adequada articulação com o Ministério dos Negócios Estrangeiros."
+  },
+  "ec9f2d7c5e7875d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Prestação de serviços e venda de publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de serviços e venda de publicações\n\nO GEPE pode prestar serviços remunerados, no âmbito das suas atribuições, a solicitação de entidades públicas ou privadas, bem como efectuar a venda de publicações."
+  },
+  "d5c17af97155dc61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas\n\nPara além das dotações atribuídas no Orçamento do Estado, constituem receitas do GEPE:\n\na) O produto da venda de serviços e de publicações;\n\nb) As verbas ou subsídios que lhe forem concedidos por entidades, públicas ou privadas, para o patrocínio de publicações, seminários ou conferências, dependendo a respectiva aceitação de autorização do Ministro da Economia."
+  },
+  "14c5126dd62c7707": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despesas\n\nConstituem despesas do GEPE:\n\na) As que resultam do exercício normal das suas atribuições;\n\nb) Outros encargos que possam resultar das actividade previstas nos termos dos artigos 12.º a 14.º"
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "1650ab3d7226afd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadro e regime de pessoal\n\n1 - O quadro de pessoal do GEPE é aprovado por portaria conjunta dos Ministros das Finanças e da Economia e do membro do Governo que tutela a Administração Pública.\n\n2 - O pessoal do GEPE e o preenchimento do respectivo quadro regem-se pelo disposto no [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, e pela legislação geral aplicável à função pública."
+  },
+  "af5300fc08266b44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formação\n\nO GEPE promove a formação do seu pessoal através de cursos, estágios e outras acções, utilizando, sempre que possível, as estruturas de formação existentes na Administração Pública."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "446411ebf5eb6bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Chefes de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Chefes de repartição\n\nÉ extinto o lugar de chefe de repartição do quadro de pessoal a que se refere o [Decreto Regulamentar n.º 16/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139), de 8 de Junho, com a alteração introduzida pela [Portaria n.º 142/92](https://diariodarepublica.pt/dr/detalhe/portaria/142-1992-168625), de 5 de Março, sendo o titular reclassificado como técnico especialista, com salvaguarda do acesso na carreira, independentemente da posse de habilitações exigíveis para o mesmo."
+  },
+  "a618a3fccb997e33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição de pessoal\n\n1 - Transita para o quadro do GEPE o pessoal constante dos mapas anexos ao [Decreto Regulamentar n.º 16/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139), de 8 de Junho, com a alteração introduzida pela [Portaria n.º 142/92](https://diariodarepublica.pt/dr/detalhe/portaria/142-1992-168625), de 5 de Março, e ao [Decreto Regulamentar n.º 21/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1990-573307), de 3 de Agosto, com excepção do pessoal que transita para a Direcção-Geral das Relações Económicas Internacionais, conforme lista nominativa a publicar no Diário da República.\n\n2 - A transição referida no número anterior é feita nos termos do artigo 45.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro, cumprindo o disposto na [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, e do [Decreto-Lei n.º 328/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1987-495680), de 16 de Setembro, e considera-se efectivada com a publicação das listas nominativas no Diário da República, independentemente de quaisquer outras formalidades, implicando esta, por si só, a exoneração dos actuais cargos relativamente aos funcionários já providos em lugares de quadro."
+  },
+  "4789fa286a8d12d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Situações especiais\n\n1 - Mantêm-se válidos os concursos para lugares dos quadros do ex-Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia a decorrer à data de entrada em vigor do presente diploma, bem como os abertos até à entrada em vigor da portaria referida no n.º 1 do artigo 17.º\n\n2 - Mantêm-se válidas até ao respectivo termo as requisições, destacamentos e comissões de serviço de pessoal do GEPE noutros organismos ou destes no GEPE.\n\n3 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos de que era titular à data do início da respectiva licença, sendo-lhe aplicável o regime previsto no [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro.\n\n4 - O pessoal que se encontre na situação de licença sem vencimento é abrangido pelo presente diploma, nomeadamente para os efeitos previstos no artigo 20.º, quando, nos termos da lei geral, regresse ao serviço do GEPE.\n\n5 - O pessoal que à data de entrada em vigor do presente diploma se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, se necessário, ser nomeado novo júri, ou elementos do júri, que fará a respectiva avaliação e classificação final."
+  },
+  "a3722cc0f59f8958": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comissões de serviço\n\n1 - São dadas por findas as comissões de serviço dos cargos dirigentes.\n\n2 - Mantêm-se em funções de gestão corrente os dirigentes que sucedam ou integrem funcionalmente as competências daquelas em que se encontravam nomeados, podendo, em alternativa e quando se verifique necessário, ser exercidas em regime de substituição, nos termos do artigo 8.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro."
+  },
+  "7234feafbb3d4ddf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Produção de efeitos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos orçamentais\n\nO presente diploma produz efeitos orçamentais a partir de 1 de Janeiro de 1999."
+  },
+  "76247f33de3ecbea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Sucessão do Gabinete de Estudos e Planeamento pelo Gabinete de Estudos e Prospectiva Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sucessão do Gabinete de Estudos e Planeamento pelo Gabinete de Estudos e Prospectiva Económica\n\n1 - Consideram-se como relativas ao GEPE todas as referências, efectuadas na lei ou em negócio jurídico, ao ex-Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia.\n\n2 - O GEPE sucede na universalidade dos direitos e obrigações constituídos na esfera jurídica do ex-Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, bem como nos respectivos patrimónios, sem dependência de quaisquer formalidades."
+  },
+  "7111e7703eb2fd0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nÉ revogado o [Decreto Regulamentar n.º 16/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139), de 8 de Junho, sem prejuízo do disposto nos artigos 20.º e 21.º do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 21 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 29 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "25d149074f767776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa a que se refere o artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa a que se refere o artigo 21.º\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116b00/27002704.pdf)"
+  },
+  "ef9680a871597987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2004-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02."
+  }
+ }
+}

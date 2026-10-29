@@ -39,10 +39,25 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-05'
+version_history:
+  file: decreto-regulamentar-76-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-05'
+    amending: pt:dre:279439:por
+    amending_title: Decreto-Lei n.º 31/2011
+    changes:
+    - Revoga Artigo 16.º
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:14:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 31/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-76-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -349,29 +365,19 @@ d) A quem tenha sido proibido o acesso às salas de jogos pela IGJ.
 
 ###### Artigo 16.º — Do pessoal
 
-1 - O pessoal adstrito ao funcionamento das salas de jogo do bingo terá as seguintes categorias e atribuições:
+1 - (Revogado.)
 
-a) Chefe de sala. - Compete-lhe a direcção e o controle global do funcionamento da sala, tomando as decisões relativas à marcha das várias operações, de acordo com as normas técnicas do jogo do bingo e marcando o ritmo adequado das mesmas; será o responsável pelo correcto funcionamento de todos os mecanismos, instalações e serviços e será ainda o superior hierárquico do pessoal de serviço na sala e o responsável pela escrita e contabilidade especial do jogo;
-
-b) Adjunto do chefe de sala. - Coadjuva o chefe de sala na execução das suas funções, sendo especialmente responsável pela fiscalização das bolas e cartões; contabilizará os cartões vendidos para cada jogada, determinando os quantitativos dos prémios; verificará os cartões premiados, do que informará em voz alta os jogadores; responderá individualmente aos pedidos de informações ou reclamações feitos pelos jogadores, registando tudo isto, assim como os incidentes que ocorram, em acta, que assinará e apresentará à assinatura do chefe de sala;
-
-c) Caixa. - Terá a seu cargo a guarda dos cartões, entregando-os ordenadamente aos vendedores; recolherá o dinheiro obtido das vendas e pagará os prémios aos vencedores;
-
-d) Caixa auxiliar volante. - Realizará a venda directa dos cartões, podendo ainda anunciar os números extraídos;
-
-e) Controlador de entradas. - Procederá à identificação dos frequentadores e venda dos bilhetes de ingresso, competindo-lhe ainda fiscalizar as entradas;
-
-f) Porteiro. - É o responsável pela regularidade da entrada dos frequentadores nas salas, devendo exigir sempre a apresentação do bilhete de acesso, inutilizando-o e devolvendo-o ao frequentador, que deverá guardá-lo, enquanto permanecer na sala de jogo do bingo, a fim de poder exibi-lo, se lhe for exigido; deverá ainda o porteiro, quando haja dúvidas sobre a maioridade do frequentador, exigir-lhe a apresentação de documento de identidade;
-
-g) Contínuo. - Encarregar-se-á de tarefas auxiliares, designadamente mantendo as mesas de jogo em ordem e retirando das mesmas os cartões usados.
-
-2 - Não poderão fazer parte do quadro de pessoal das salas de jogo do bingo indivíduos que tenham sido condenados em pena de prisão por furto, roubo, abuso de confiança, falência dolosa e falsidade ou delinquência por tendência.
+2 - (Revogado.)
 
 3 - O quadro mínimo do pessoal das salas de jogo do bingo de cada categoria será o aprovado pela IGJ, que aprovará igualmente o traje que deve usar e que autorizará também a entrada e o exercício de funções de outros empregados dos concessionários na sala de jogos, mediante propostas do concessionário.
 
 4 - Nos casos em que as salas de jogo do bingo não funcionem todos os dias, bem como nos casos em que as salas não funcionem mais de quatro horas diárias, poderá ser dispensada a existência de adjunto do chefe de sala e de contínuo pela IGJ, que determinará ainda as condições de substituição do pessoal das salas.
 
 5 - Observadas as disposições contratuais próprias e com o conhecimento da IGJ, podem os concessionários nomear agregados à administração, gerência ou direcção, com funções administrativas e financeiras.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 31/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2011-279439), publicado em 2011-03-04.
 
 ###### Artigo 17.º — Deveres dos empregados
 

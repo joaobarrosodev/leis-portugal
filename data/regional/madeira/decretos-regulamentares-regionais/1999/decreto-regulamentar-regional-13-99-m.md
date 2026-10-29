@@ -28,10 +28,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-06-02'
+version_history:
+  file: decreto-regulamentar-regional-13-99-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-02'
+    amending: pt:dre:621722:por
+    amending_title: Decreto Regulamentar Regional n.º 42/2000/M; Decreto Regulamentar Regional n.º 4/2006/M
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/13/1999/09/29/m/dre/pt/html
@@ -57,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    42/2000/M; Decreto Regulamentar Regional n.º 4/2006/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1999/decreto-regulamentar-regional-13-99-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,9 +174,15 @@ Assim, nos termos do disposto no artigo 21.º do [Decreto Legislativo Regional n
 
 ###### Artigo 2.º — Natureza
 
-1 - O cartão de identificação do utente constitui um meio facultativo, com natureza substitutiva, de comprovação da identidade do seu titular perante as instituições e serviços integrados no Serviço Regional de Saúde e as entidades privadas com actividade na área da saúde.
+1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Regional de Saúde, E. P. E., ou com ele convencionado.
 
-2 - O cartão de identificação do utente é de emissão gratuita e substitui, para os efeitos referidos no número anterior, qualquer outro cartão ou documento de identificação do seu titular.
+2 - Quando o Serviço Regional de Saúde, E. P. E., tenha contratado a transferência de responsabilidade pela prestação de cuidados de saúde para subsistemas de saúde, os respectivos beneficiários deverão apenas apresentar o cartão do seu subsistema.
+
+3 - A não identificação dos utentes nos termos dos números anteriores não pode, em caso algum, determinar a recusa de prestações de saúde.
+
+4 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Regional de Saúde, E. P. E.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 3.º — Apresentação do cartão
 
@@ -174,9 +204,11 @@ b) Migrantes abrangidos por acordos ou por convenções internacionais.
 
 ###### Artigo 4.º — Emissão
 
-1 - O cartão de identificação do utente é emitido pela Direcção Regional de Saúde Pública.
+1 - O cartão de identificação do utente é emitido pelo Serviço Regional de Saúde, E. P. E.
 
-2 - As dimensões e modelo do cartão de identificação do utente são fixados por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional.
+2 - As dimensões e o modelo do cartão de identificação do utente são fixados por despacho do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 5.º — Formulário de identificação
 
@@ -188,17 +220,21 @@ a) Documento comprovativo da sua qualidade de beneficiário de subsistema ou, no
 
 b) Documento comprovativo do seu direito ao regime especial de comparticipação de medicamentos.
 
-3 - O preenchimento do formulário de identificação pode ser informatizado ou manual, sem prejuízo da observância das regras relativas ao modelo e instruções de preenchimento que forem aprovadas por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional.
+3 - O preenchimento do formulário de identificação pode ser informatizado ou manual, sem prejuízo da observância das regras relativas ao modelo e instruções de preenchimento que forem aprovadas por portaria do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.
 
 4 - Os serviços referidos no n.º 1 do artigo 2.º devem facultar ao utente uma cópia autenticada do formulário de identificação, devidamente preenchido, para efeitos de comprovação da sua situação perante o Serviço Regional de Saúde, até à data de atribuição do respectivo cartão de identificação do utente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 6.º — Número de identificação
 
 1 - O cartão de identificação do utente deve incluir o número de identificação do respectivo titular perante o Serviço Regional de Saúde.
 
-2 - Na atribuição do número de identificação do utente é utilizada uma faixa numérica sequencial, constituída por nove dígitos, sendo o primeiro o identificador da Região Autónoma da Madeira, os sete seguintes o número individual do utente e o último o dígito de controlo, nos termos definidos por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional.
+2 - Na atribuição do número de identificação do utente é utilizada uma faixa numérica sequencial, constituída por nove dígitos, sendo o primeiro o identificador da Região Autónoma da Madeira, os sete seguintes o número individual do utente e o último o dígito de controlo, nos termos definidos por portaria do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.
 
 3 - O número de identificação do utente do Serviço Regional de Saúde deve constar, obrigatoriamente, dos documentos comprovativos da facturação emitida no âmbito das prestações nas alíneas a) a c) do n.º 1 do artigo 3.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 7.º — Identificação de terceiros
 
@@ -218,9 +254,11 @@ Sempre que o utente do Serviço Regional de Saúde esteja numa das situações p
 
 1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Regional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.
 
-2 - A transferência do utente de e ou para a Região Autónoma da Madeira implica a emissão de novo cartão de identificação do utente pelos serviços competentes e a anulação do cartão anterior.
+2 - A transferência do utente de e ou para a Região Autónoma da Madeira implica a emissão de novo cartão, mantendo-se o número de identificação do utente atribuído na emissão anterior.
 
-3 - O processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.
+3 - Sem prejuízo do disposto no número anterior, o processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 42/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-2000-621722), publicado em 2000-11-02.
 
 ###### Artigo 10.º — Extravio, deterioração ou destruição
 
@@ -258,13 +296,17 @@ i) Número de inscrição do utente no centro de saúde;
 
 j) Número da cédula profissional do médico de clínica geral.
 
-2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes da Direcção Regional de Saúde Pública, que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.
+2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes do Serviço Regional de Saúde, E. P. E., que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 13.º — Consulta de dados
 
-1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de cuidados de saúde integrados no Serviço Regional de Saúde, nos termos do Estatuto do Serviço Regional de Saúde, aprovado pelo [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro.
+1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de saúde integrados no Serviço Regional de Saúde, E. P. E., nos termos do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de Abril.
 
 2 - A comunicação de dados prevista no número anterior é efectuada em suporte informático ou através de linha de transmissão, devendo, em qualquer caso, ser garantido o respeito pelas normas de segurança da informação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 14.º — Conservação dos dados
 
@@ -274,13 +316,17 @@ Os dados constantes das bases de dados são conservados apenas durante o períod
 
 1 - Qualquer pessoa tem direito a conhecer o conteúdo ou registos constantes da base de dados que lhe digam respeito.
 
-2 - Sem prejuízo das condições que sejam fixadas nos termos da alínea f) do n.º 1 do artigo 8.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, a reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos e abreviaturas deles constantes, é fornecida gratuitamente, a solicitação dos respectivos titulares ou seus representantes legais.
+2 - Sem prejuízo das condições de exercício dos direitos previstos na alínea g) do n.º 1 do artigo 23.º da Lei n.º 67/98, de 26 de Outubro, a reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos e abreviaturas deles constantes, é fornecida gratuitamente, a solicitação dos respectivos titulares ou seus representantes legais.
 
 3 - A informação é requerida à entidade responsável pela base de dados ou às instituições e serviços a quem esses dados tenham sido comunicados, nos termos do artigo 13.º
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
+
 ###### Artigo 16.º — Correcção de inexactidões
 
-Qualquer pessoa tem o direito de exigir a correcção de inexactidões e o completamento das total ou parcialmente registadas, nos termos dos artigos 30.º e 31.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, mediante requerimento apresentado à Direcção Regional de Saúde Pública.
+Qualquer pessoa tem o direito de exigir a correcção de inexactidões e o complemento das total ou parcialmente registadas, nos termos das alíneas d) e e) do artigo 11.º da Lei n.º 67/98, de 26 de Outubro, mediante requerimento apresentado ao Serviço Regional de Saúde, E. P. E.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 17.º — Segurança da informação
 
@@ -302,9 +348,11 @@ g) O transporte de suportes de dados, para impedir que os dados possam ser lidos
 
 ###### Artigo 18.º — Responsabilidade pelas bases de dados
 
-1 - A Direcção Regional de Saúde Pública é, nos termos e para os efeitos do disposto na alínea h) do artigo 2.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, responsável pela base de dados existente na Região Autónoma da Madeira, nomeadamente pelo seu processamento, gestão e segurança.
+1 - O Serviço Regional de Saúde, E. P. E., é, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, responsável pela base de dados existente na Região Autónoma da Madeira, nomeadamente pelo seu processamento, gestão e segurança.
 
-2 - Cabe à Direcção Regional de Saúde Pública assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como a correcção de inexactidões, competindo, ainda, velar para que a consulta da informação respeite as condições prescritas na lei.
+2 - Cabe ao Serviço Regional de Saúde, E. P. E., assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como a correcção de inexactidões, competindo-lhe, ainda, velar para que a consulta da informação respeite as condições prescritas na lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01.
 
 ###### Artigo 19.º — Sigilo profissional
 

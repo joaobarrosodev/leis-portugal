@@ -1,0 +1,224 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157797:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "689cb3d2521e7b71",
+    "abfcf470ba179d6c",
+    "87e9ed5730392f27",
+    "7a4120c0147991cc",
+    "0a1b6c9650af9b89",
+    "2409146168a8b9fa",
+    "9239833925836b11",
+    "1d33d0213a74e2c9",
+    "6a022df36bc26a9f",
+    "4c079e24b2bac8a6",
+    "589fceec889a439f"
+   ]
+  },
+  {
+   "date": "2017-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106663787:por",
+     "title": "Decreto Regulamentar Regional n.º 6/2017/M",
+     "published": "2017-03-28",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "689cb3d2521e7b71",
+    "68e6da1656f22409",
+    "87e9ed5730392f27",
+    "3a7b2f0e6aa2a309",
+    "c8e9671124397376",
+    "3f29a5d3b9d1c8b2",
+    "eb5170950d49f8cf",
+    "588b68af5db1fce5",
+    "d4332700c17cab72",
+    "4c079e24b2bac8a6",
+    "589fceec889a439f"
+   ]
+  }
+ ],
+ "fragments": {
+  "689cb3d2521e7b71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamenta o regime de tutela e os apoios técnicos e financeiros a atribuir às instituições particulares de solidariedade social com objectivos de saúde.\n\nAs instituições particulares de solidariedade social com objectivos de saúde constituem elementos integrantes do Sistema Regional de Saúde, de acordo com a alínea e) do artigo 6.º do Estatuto do Sistema Regional de Saúde, aprovado pelo [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de Abril.\n\nDe acordo com o artigo 11.º do mesmo diploma, estas instituições estão sujeitas ao poder tutelar e de inspecção da Secretaria Regional dos Assuntos Sociais, à qual compete, também, prestar apoio técnico e financeiro para o desenvolvimento de actividades que contribuam para a realização do direito à protecção da saúde.\n\nAs instituições particulares de solidariedade social, face à relevante actividade que vêm desempenhando na área da saúde, constituem parceiros privilegiados do Governo Regional no exercício da actividade de promoção e protecção da saúde.\n\nNesta sequência, importa regulamentar a forma como será exercido o poder de tutela sobre aquelas instituições e a prestação do apoio técnico e financeiro, bem como definir, ao nível dos órgãos e serviços da Secretaria Regional dos Assuntos Sociais, as competências atinentes àquelas matérias.\n\nEsta regulamentação será efectuada com base no disposto nos artigos 11.º e 22.º do [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de Abril, e sem prejuízo do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, e do artigo 22.º do Estatuto do Sistema Regional de Saúde, aprovado pelo [Decreto Legislativo Regional n.º 4/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2003-224002), de 7 de Abril, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "abfcf470ba179d6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede à regulamentação do regime de tutela e dos apoios técnicos e financeiros a atribuir às instituições particulares de solidariedade social com objectivos de saúde, adiante também designadas por instituições."
+  },
+  "87e9ed5730392f27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Legislação aplicável\n\nAs instituições regem-se pelo seu estatuto legal e respectiva adaptação à Região Autónoma da Madeira, pelo Estatuto do Sistema Regional de Saúde, pelo presente diploma e demais legislação especialmente aplicável."
+  },
+  "7a4120c0147991cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tutela\n\n1 - A tutela sobre as instituições e estabelecimentos que exerçam a sua actividade na Região Autónoma da Madeira é exercida pela Secretaria Regional dos Assuntos Sociais, através dos respectivos serviços, nos termos definidos no presente diploma.\n\n2 - Sem prejuízo da autonomia das instituições estabelecida legalmente, o poder tutelar da Secretaria Regional dos Assuntos Sociais exerce-se através de:\n\na) Apoio à criação das instituições, mediante a organização de um registo;\n\nb) Acompanhamento, controlo e avaliação dos padrões de qualidade e do desempenho das actividades das instituições, no âmbito da promoção e prestação de cuidados de saúde;\n\nc) Acompanhamento, controlo e avaliação da execução dos acordos celebrados entre a Região e as instituições particulares de solidariedade social com objectivos de saúde;\n\nd) Aposição de visto nos orçamentos e contas das instituições, nos termos previstos no artigo 33.º do Estatuto das Instituições de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março;\n\ne) Fiscalização da actividade das instituições e seus estabelecimentos através da realização de inquéritos, sindicâncias e inspecções, nos termos e com efeitos previstos nos artigos 34.º e seguintes do Estatuto das Instituições de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março;\n\nf) Intervenção em quaisquer outros actos, nos termos previstos no Estatuto das Instituições de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1984-662077), de 22 de Março."
+  },
+  "0a1b6c9650af9b89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Registo das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo das instituições\n\n1 - Compete à Direcção Regional de Gestão e Desenvolvimento dos Recursos promover, organizar e manter um registo das instituições particulares de solidariedade social com objectivos de saúde.\n\n2 - O registo será criado e regulamentado por portaria do Secretário Regional dos Assuntos Sociais."
+  },
+  "2409146168a8b9fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Promoção da saúde e prestação de cuidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Promoção da saúde e prestação de cuidados\n\nCompete à Direcção Regional de Planeamento e Saúde Pública:\n\na) Pronunciar-se sobre as actividades de promoção e prestação de cuidados de saúde a incluir nos acordos de cooperação;\n\nb) Proceder ao acompanhamento, controlo e avaliação dos padrões de qualidade e do desempenho das actividades das instituições, no âmbito da promoção e prestação de cuidados de saúde."
+  },
+  "9239833925836b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Apoio técnico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio técnico e financeiro\n\n1 - O apoio técnico e financeiro às instituições será efectuado através de acordos de cooperação.\n\n2 - O apoio financeiro deve ser atribuído em função de um programa de actividades a desenvolver pela instituição.\n\n3 - A concessão de apoio financeiro à prestação de cuidados de saúde deve ser efectuada mediante a fixação, no acordo de cooperação, de um valor por acto, designadamente por diária de internamento e por consulta.\n\n4 - Compete à Direcção Regional de Gestão e Desenvolvimento dos Recursos negociar com as instituições as condições a contratar, bem como promover os demais procedimentos preparatórios necessários à formalização dos respectivos acordos de cooperação.\n\n5 - Compete, igualmente, à Direcção Regional de Gestão e Desenvolvimento dos Recursos acompanhar, controlar e avaliar a execução dos acordos celebrados, bem como proceder ao pagamento dos apoios neles previstos.\n\n6 - Sem prejuízo do disposto nos n.os 1 do artigo 3.º e 4 e 5 do presente artigo, o Secretário Regional dos Assuntos Sociais pode, mediante recurso ao orçamento do seu Gabinete, negociar, contratar e conceder apoios financeiros às instituições."
+  },
+  "1d33d0213a74e2c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Actos sujeitos a visto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actos sujeitos a visto\n\nOs orçamentos e contas das instituições, aprovados pelos respectivos corpos gerentes, ficam sujeitos a visto por parte da Direcção Regional de Gestão e Desenvolvimento dos Recursos, nos termos previstos no respectivo Estatuto das Instituições Particulares de Solidariedade Social."
+  },
+  "6a022df36bc26a9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\nCompete à Inspecção Regional dos Assuntos Sociais a realização de inquéritos, sindicâncias e inspecção às instituições e seus estabelecimentos."
+  },
+  "4c079e24b2bac8a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação\n\n1 - É revogada a [Portaria n.º 199/2004](https://diariodarepublica.pt/dr/detalhe/portaria/199-2004-551853), de 12 de Outubro, da Secretaria Regional dos Assuntos Sociais.\n\n2 - A [Portaria n.º 199/2004](https://diariodarepublica.pt/dr/detalhe/portaria/199-2004-551853), de 12 de Outubro, mantém-se, transitoriamente, em vigor até à celebração de acordo de cooperação com as respectivas instituições."
+  },
+  "589fceec889a439f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 8 de Setembro de 2005.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 20 de Setembro de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "68e6da1656f22409": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede à regulamentação do regime de tutela e dos apoios técnicos e financeiros a atribuir às instituições particulares de solidariedade social no que respeita às suas atividades de saúde, adiante também designadas por instituições.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "3a7b2f0e6aa2a309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 3.º — Tutela\n\n1 - A tutela sobre as instituições e estabelecimentos que exerçam a sua atividade na Região Autónoma da Madeira é exercida pela Secretaria Regional responsável pela área da Saúde.\n\n2 - Sem prejuízo da autonomia das instituições estabelecida legalmente, o poder tutelar da Secretaria Regional responsável pela área da saúde exerce-se através de:\n\na) Apoio à criação das instituições, mediante a organização de um registo;\n\nb) Acompanhamento, controlo e avaliação dos padrões de qualidade e do desempenho das actividades das instituições, no âmbito da promoção e prestação de cuidados de saúde;\n\nc) Acompanhamento, controlo e avaliação da execução dos acordos celebrados entre a Região e as instituições particulares de solidariedade social;\n\nd) Fiscalização da atividade das instituições e seus estabelecimentos através da realização de inquéritos, sindicâncias e inspeções.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "c8e9671124397376": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Registo das instituições",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 4.º — Registo das instituições\n\n1 - Compete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, promover, organizar e manter um registo das instituições particulares de solidariedade social.\n\n2 - O registo será criado e regulamentado por portaria do membro do governo regional responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "3f29a5d3b9d1c8b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Promoção da saúde e prestação de cuidados",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 5.º — Promoção da saúde e prestação de cuidados\n\nCompete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM:\n\na) Pronunciar-se sobre as actividades de promoção e prestação de cuidados de saúde a incluir nos acordos de cooperação;\n\nb) Proceder ao acompanhamento, controlo e avaliação dos padrões de qualidade e do desempenho das actividades das instituições, no âmbito da promoção e prestação de cuidados de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "eb5170950d49f8cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Apoio técnico e financeiro",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 6.º — Apoio técnico e financeiro\n\n1 - O apoio técnico e financeiro é concedido às instituições através de acordos de cooperação e regulamentado por portaria a aprovar pelo membro do governo regional responsável pela área da saúde.\n\n2 - Compete ao Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM, acompanhar, controlar e avaliar a execução dos acordos celebrados, bem como proceder ao pagamento dos apoios neles previstos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "588b68af5db1fce5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Revogado.)",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28.",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 7.º — (Revogado.)\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  },
+  "d4332700c17cab72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Fiscalização",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+   ],
+   "markdown": "###### Artigo 8.º — Fiscalização\n\nCompete à Inspeção das Atividades em Saúde a realização de inquéritos, sindicâncias e inspeção às instituições e seus estabelecimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2017-106663787), publicado em 2017-03-28."
+  }
+ }
+}

@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-30'
+version_history:
+  file: despacho-normativo-552-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-30'
+    amending: pt:dre:673668:por
+    amending_title: Despacho Normativo n.º 65/97
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/552/1994/07/29/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 65/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-552-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +161,9 @@ Assim, determina-se:
 
 1 - O presente despacho regulamenta o Regime de Apoio à Adesão ao Mercado de Capitais, previsto na alínea g) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (IIDG01), o qual regula o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP).
 
-2 - O presente despacho destina-se a promover uma adequada aproximação de pequenas e médias empresas ao Segundo Mercado das Bolsas de Valores, contribuindo para que este, na prática, induza oportunidades tendentes a assegurar a diversificação das fontes de financiamento e a redução do custo de capital das empresas.
+2 - O presente despacho destina-se a promover uma adequada aproximação de pequenas e médias empresas aos mercados de capitais para elas explicitamente vocacionados, contribuindo para que estes, na prática, induzam oportunidades tendentes a assegurar a diversificação das fontes de financiamento e a redução do custo de capital das empresas.
+
+> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25.
 
 ###### Artigo 2.º — Âmbito
 
@@ -152,13 +171,15 @@ São susceptíveis de apoio no âmbito do presente Regime:
 
 a) Trabalhos de qualificação do risco;
 
-b) Processos internos desencadeados pelas empresas visando a melhoria das condições organizativas, práticas de gestão e desenvolvimento de sistemas de informação necessários para a sua regular manutenção em bolsa;
+b) Processos internos desencadeados pelas empresas visando a melhoria das condições organizativas, práticas de gestão e desenvolvimento de sistemas de informação necessários para a sua regular manutenção nos mercados de capitais;
 
 c) Processos de admissão de títulos à cotação e estabelecimento de contratos de liquidez;
 
-d) Realização de auditorias contabilístico-financeiras com o objectivo de preparar as PME para a aproximação ao Segundo Mercado de Capitais;
+d) Realização de auditorias contabilístico-financeiras com o objectivo de preparar as PME para a aproximação aos mercados de capitais;
 
 e) Realização de iniciativas no âmbito da formação profissional.
+
+> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25.
 
 ###### Artigo 3.º — Organismo gestor
 
@@ -172,7 +193,7 @@ a) As empresas industriais, incluídas nas CAE 10 a 37 do [Decreto-Lei n.º 182/
 
 b) Conjuntos de empresas industriais que pretendam efectuar emissões grupadas de títulos de dívida.
 
-###### Artigo 5.º — Condições de acesso do promotor
+###### Artigo 5.º — Condições de acesso dos promotores
 
 Os promotores deverão cumprir as seguintes condições:
 
@@ -180,7 +201,7 @@ a) Encontrar-se legalmente constituídos à data da apresentação da candidatur
 
 b) Possuir a estrutura organizacional e os recursos humanos qualificados, adequados às exigências da sua actividade e às necessidades de realização do projecto;
 
-c) Reunir as condições que permitam satisfazer os requisitos de admissão ao Segundo Mercado das Bolsas de Valores, regulados nos artigos 361.º e seguintes do Código do Mercado de Valores Mobiliários, bem como no regulamento n.º 91/14 da Comissão do Mercado de Valores Mobiliários e nos demais regulamentos aplicáveis emitidos pelas bolsas de valores;
+c) Reunir as condições que permitam satisfazer os requisitos de admissão aos mercados a que pretende aderir;
 
 d) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao IAPMEI;
 
@@ -191,6 +212,8 @@ f) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comp
 g) Submeter-se a um processo de auditoria financeira e qualificação de risco, em termos a definir por despacho do Ministro da Indústria e Energia;
 
 h) Demonstrar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto.
+
+> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25.
 
 ###### Artigo 6.º — Condições de acesso do projecto
 

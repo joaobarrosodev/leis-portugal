@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-31'
+version_history:
+  file: decreto-lei-114-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-31'
+    amending: pt:dre:425885:por
+    amending_title: Decreto-Lei n.º 224/2002
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/114/2001/04/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:23:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 224/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-114-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,13 +213,15 @@ d) Identificação, quando necessário, das entidades ou órgãos responsáveis 
 
 a) Propor o plano geral de resposta à situação e as medidas necessárias à implementação do plano e coordenar globalmente a sua aplicação, em articulação com os restantes ministros;
 
-b) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência, nomeadamente a Organização para Emergência Energética criada pela [Resolução do Conselho de Ministros n.º 29/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1992-282079), de 18 de Agosto, para aplicação das medidas previstas e acompanhamento da evolução da situação a nível nacional e internacional;
+b) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência para aplicação das medidas previstas e acompanhamento da evolução da situação nacional e internacional;
 
 c) Propor ao Primeiro-Ministro, tendo em conta a avaliação da situação e a sua previsível evolução, a prorrogação ou a cessação da declaração de situação de crise energética.
 
 2 - Sem prejuízo do disposto no número anterior, a definição, regulamentação e implementação das medidas aplicáveis a um sector específico é da competência do respectivo ministro da tutela.
 
 3 - No caso do n.º 2 do artigo 3.º, as competências previstas neste artigo são atribuídas aos órgãos competentes dos Governos Regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2002-425885), publicado em 2002-10-30.
 
 ###### Artigo 6.º — Prorrogação e cessação da declaração da situação de crise energética
 

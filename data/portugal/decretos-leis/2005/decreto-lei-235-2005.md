@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-01-01'
+version_history:
+  file: decreto-lei-235-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/235/2005/12/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 66-B/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-235-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -254,11 +269,13 @@ Os funcionários que integram a carreira de segurança podem requerer a aposenta
 
 1 - O pessoal da Polícia Judiciária que até 31 de Dezembro de 2005 reúna as condições nesse momento em vigor para requerer a passagem à situação de disponibilidade ou de aposentação pode fazê-lo a qualquer tempo, sendo o requerimento decidido nos termos do regime em vigor até àquela data.
 
-2 - Até 31 de Dezembro de 2014, pode ainda requerer a passagem à situação de disponibilidade o pessoal que complete as idades previstas na tabela anexa ao presente diploma, que dele faz parte integrante, sem que lhe seja aplicável o regime previsto nos artigos 147.º e 147.º-A da Lei Orgânica da Polícia Judiciária, na redacção introduzida pelo presente diploma.
+2 - (Revogado.)
 
 3 - É garantida a passagem à aposentação sem redução de pensão, nos termos vigentes até 31 de Dezembro de 2005, ao pessoal que complete cinco anos na situação de disponibilidade, quando a tenha requerido ao abrigo do disposto nos números anteriores e lhe tenha sido deferida.
 
 4 - O tempo de serviço efectivo prestado até 31 de Dezembro de 2005 é contado, para efeitos de passagem à situação de disponibilidade e de aposentação, com o aumento previsto no artigo 87.º da Lei Orgânica da Polícia Judiciária, na redacção vigente até àquela data.
+
+> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31.
 
 ###### Artigo 5.º — Entrada em vigor
 

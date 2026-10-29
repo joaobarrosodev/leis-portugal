@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:660711:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-08-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d27b940e3a0d787",
+    "43b24e18291cadc9",
+    "1229981e38217aac",
+    "7c64fafc588ae20e",
+    "c948c9e0fbafc408",
+    "02dab875be6a0431",
+    "fd735d8cadca8d97",
+    "ba5c1bed3d2a73d4",
+    "c2f3a3367f29fdaa",
+    "2cadde4d181af112",
+    "7dacc816871db0bc",
+    "803395f13e92dce4",
+    "d81228238a8b6c1c",
+    "e26b25c5af605689",
+    "6be806eb71469e82",
+    "cb0d742a4a3e5ada",
+    "f3ab0b2dd27c2751"
+   ]
+  },
+  {
+   "date": "2014-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343993:por",
+     "title": "Decreto Legislativo Regional n.º 3/2014/M",
+     "published": "2014-04-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2014-25343993"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "7d27b940e3a0d787",
+    "43b24e18291cadc9",
+    "1229981e38217aac",
+    "7c64fafc588ae20e",
+    "c948c9e0fbafc408",
+    "02dab875be6a0431",
+    "fd735d8cadca8d97",
+    "ba5c1bed3d2a73d4",
+    "c2f3a3367f29fdaa",
+    "2cadde4d181af112",
+    "9a4c78ac48fe8dc0",
+    "803395f13e92dce4",
+    "d81228238a8b6c1c",
+    "e26b25c5af605689",
+    "6be806eb71469e82",
+    "cb0d742a4a3e5ada",
+    "f3ab0b2dd27c2751"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d27b940e3a0d787": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estabelece o regime jurídico das insígnias honoríficas madeirenses\n\nA medalha de mérito da Região Autónoma da Madeira é a mais alta insígnia da Região Autónoma e a sua atribuição é da competência da Assembleia Legislativa Regional, nos termos do [Decreto Regional n.º 3/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1979-383583), de 24 de Março, porém, dada a sua relevância, prestigiantemente atribuída só em condições verdadeiramente excepcionais.\n\nCom o presente diploma a Assembleia Legislativa Regional cria outras insígnias honoríficas madeirenses, a atribuir pelo Governo Regional, tendo em vista estimular o mérito e manter vivas tradições que conferem prestígio e dignidade a pessoas, entidades e colectividades.\n\nA reunião em um único diploma permite uma maior uniformidade nos procedimentos relacionados com as insígnias honoríficas madeirenses.\n\nA instituição de insígnias, condecorações ou medalhas que distingam ou agraciem pessoas, premeiem entidades ou assinalem acontecimentos de especial mérito ou relevo é uma prática comum na maioria das sociedades com identidade histórica, política ou cultural própria.\n\nAssim, a Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:"
+  },
+  "43b24e18291cadc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Das insígnias honoríficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Das insígnias honoríficas"
+  },
+  "1229981e38217aac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime jurídico das insígnias honoríficas madeirenses, doravante designadas por insígnias, a atribuir pelo Governo Regional.\n\n2 - Exceptua-se do previsto no presente diploma legal o estabelecido no [Decreto Regional n.º 3/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1979-383583), de 24 de Março, que cria a medalha de mérito da Região Autónoma da Madeira, da competência da Assembleia Legislativa Regional, a atribuir em situações de relevo verdadeiramente excepcionais."
+  },
+  "7c64fafc588ae20e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As insígnias visam distinguir, em vida ou a título póstumo, os cidadãos, colectividades ou instituições que se notabilizarem por méritos pessoais ou institucionais, actos, feitos cívicos ou serviços prestados à Região.\n\n2 - A atribuição das insígnias a cidadãos estrangeiros faz-se nos casos expressamente previstos no presente diploma."
+  },
+  "c948c9e0fbafc408": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Espécies\n\nAs insígnias honoríficas madeirenses são as seguintes:\n\na) Insígnia autonómica de valor;\n\nb) Insígnia autonómica de distinção;\n\nc) Insígnia autonómica de bons serviços."
+  },
+  "02dab875be6a0431": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Insígnia autonómica de valor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Insígnia autonómica de valor\n\nA insígnia autonómica de valor destina-se a agraciar:\n\na) O desempenho, excepcionalmente relevante, de cargos nos órgãos de governo próprio, administração pública regional ou ao serviço da Região, e que mereçam ser especialmente distinguidos;\n\nb) O desempenho e virtudes profissionais, com merecimento de serem apontados ao respeito e consideração pública."
+  },
+  "fd735d8cadca8d97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Insígnia autonómica de distinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Insígnia autonómica de distinção\n\nA insígnia autonómica de distinção destina-se a distinguir os actos ou a conduta de excepcional relevância de cidadãos portugueses ou estrangeiros que:\n\na) Valorizem, prestigiem e dignifiquem a Região no País ou no estrangeiro, ou que para tal contribuam;\n\nb) Contribuam para a expansão da cultura madeirense ou para o conhecimento da Madeira e da sua história e seus valores;\n\nc) Contribuam para o reforço dos laços afectivos, culturais e económicos entre todos os madeirenses residentes e ausentes;\n\nd) Se distingam pela sua dedicação à causa literária, científica, artística ou desportiva regional;\n\ne) Se distingam pela sua dedicação à causa e serviços prestados em favor da educação e do ensino, incluindo-se comunicações prestadas em congressos ou simpósios nacionais ou internacionais, ou actividades semelhantes."
+  },
+  "ba5c1bed3d2a73d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Insígnia autonómica de bons serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insígnia autonómica de bons serviços\n\nA insígnia autonómica de bons serviços será concedida para distinguir acto ou serviços meritórios praticados por cidadãos portugueses ou estrangeiros no exercício de quaisquer funções públicas ou privadas, por qualquer das seguintes formas:\n\na) Actividades industrial, comercial, pecuária, florestal e agrícola, assim como obras;\n\nb) Actividades cívicas e profissionais."
+  },
+  "c2f3a3367f29fdaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descrição\n\nA estrutura material das insígnias será descrita no regulamento das insígnias honoríficas madeirenses a aprovar por decreto regulamentar regional."
+  },
+  "2cadde4d181af112": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da atribuição das insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da atribuição das insígnias"
+  },
+  "7dacc816871db0bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Concessão\n\nA concessão das insígnias é feita mediante deliberação do Conselho do Governo Regional assumindo a forma de resolução, por iniciativa do próprio Conselho, do Presidente do Governo Regional, do Vice-Presidente do Governo Regional, de qualquer secretário regional ou de qualquer deputado à Assembleia Legislativa Regional."
+  },
+  "803395f13e92dce4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pessoas colectivas\n\nA atribuição das insígnias a pessoas colectivas depende de estas estarem legalmente constituídas e terem cumprido todas as suas obrigações fiscais e sociais."
+  },
+  "d81228238a8b6c1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Processo de agraciamento e investidura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Processo de agraciamento e investidura\n\n1 - O processo de agraciamento é definido em sede do regulamento a que faz referência o artigo 7.º do presente diploma.\n\n2 - A investidura materializa-se, conforme deliberação no caso, pelo Governo Regional."
+  },
+  "e26b25c5af605689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Deveres\n\nOs deveres dos agraciados com as insígnias são os seguintes:\n\na) Prestigiar a Região em todas as circunstâncias;\n\nb) Dignificar a insígnia por todos os meios e em todas as circunstâncias."
+  },
+  "6be806eb71469e82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação\n\nA regulamentação a que se referem os artigos 7.º e 10.º será elaborada no prazo de 90 dias a contar da data de entrada em vigor do presente diploma."
+  },
+  "cb0d742a4a3e5ada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nÉ revogada toda a legislação, em vigor na Região Autónoma da Madeira, que atribui competências ao Governo Regional para a criação de medalhas, colares ou insígnias honoríficas madeirenses."
+  },
+  "f3ab0b2dd27c2751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 8 de Julho de 2003.\n\nO Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.\n\nAssinado em 23 de Julho de 2003.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "9a4c78ac48fe8dc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Concessão",
+   "in_force_from": "2014-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2014-25343993), publicado em 2014-04-10."
+   ],
+   "markdown": "###### Artigo 8.º — Concessão\n\n1 - A concessão das insígnias é feita mediante deliberação do Conselho do Governo Regional assumindo a forma de resolução, por iniciativa do próprio Conselho, do Presidente do Governo Regional, do Vice-Presidente do Governo Regional, de qualquer secretário regional ou de qualquer deputado à Assembleia Legislativa da Região Autónoma da Madeira.\n\n2 - O Governo Regional publicará e atualizará sistematicamente a listagem de todos quantos sejam, e já foram, homenageados com as insígnias honoríficas regionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2014-25343993), publicado em 2014-04-10."
+  }
+ }
+}

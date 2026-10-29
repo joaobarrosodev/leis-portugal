@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-04'
+version_history:
+  file: portaria-111-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-04'
+    amending: pt:dre:628530:por
+    amending_title: Portaria n.º 1516/2007
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/111/2007/01/24/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:18:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1516/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-111-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -248,7 +263,9 @@ d) Certidão comprovativa da inexistência de dívidas ao Fisco e à segurança 
 
 ###### Artigo 9.º — Duração do Programa
 
-O Programa decorre até 30 de Setembro de 2007, devendo as acções ser realizadas até essa data.
+O Programa decorre até 31 de Maio de 2008, devendo as acções ser realizadas até essa data.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1516/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1516-2007-628530), publicado em 2007-12-03.
 
 ###### Artigo 10.º — Financiamento
 

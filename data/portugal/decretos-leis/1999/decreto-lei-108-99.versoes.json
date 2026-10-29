@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138782:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35f390553bbf725f",
+    "1675951845e23ef2",
+    "17fcd7eb83c5aff5",
+    "638be4a4d803f910",
+    "a745e6f4a849c578",
+    "aad0427f78b2fd81"
+   ]
+  },
+  {
+   "date": "2003-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239591:por",
+     "title": "Decreto-Lei n.º 73/2003",
+     "published": "2003-04-16",
+     "dre_path": "/dr/detalhe/decreto-lei/73-2003-239591"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "35f390553bbf725f",
+    "1675951845e23ef2",
+    "17fcd7eb83c5aff5",
+    "638be4a4d803f910",
+    "897080b2fa50744d",
+    "aad0427f78b2fd81"
+   ]
+  }
+ ],
+ "fragments": {
+  "35f390553bbf725f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Março\n\nOs vinhos espumantes e os vinhos espumosos gaseificados têm vindo a revelar uma significativa evolução qualitativa, expressa, designadamente, no aumento significativo do consumo destes vinhos.\n\nÉ neste contexto que as regras a observar na sua produção e comercialização, fixadas pelo [Decreto-Lei n.º 12/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1985-328874), de 14 de Janeiro, e pela [Portaria n.º 337/85](https://diariodarepublica.pt/dr/detalhe/portaria/337-1985-151886), de 3 de Junho, se mostram desajustadas, face ao grau de desenvolvimento do sistema de qualidade das empresas e da evolução da concorrência externa, importando, por isso, promover a sua adequação ao ordenamento jurídico da Organização Comum do Mercado Vitivinícola.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "1675951845e23ef2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nA preparação do vinho espumante e do vinho espumoso gaseificado deve obedecer às normas constantes do presente diploma, sem prejuízo do disposto na Organização Comum do Mercado Vitivinícola."
+  },
+  "17fcd7eb83c5aff5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Métodos tecnológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Métodos tecnológicos\n\nO vinho espumante pode ser preparado segundo um dos seguintes métodos tecnológicos:\n\na) De fermentação em garrafa, caracterizado por uma segunda fermentação alcoólica em garrafa;\n\nb) De fermentação em cuba fechada, caracterizado por uma segunda fermentação em recipientes de grandes dimensões, em sistema intermitente ou contínuo, não podendo, neste último caso, o período de permanência no sistema ser inferior a 18 dias."
+  },
+  "638be4a4d803f910": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instalações\n\n1 - São necessárias instalações independentes quando a mesma empresa procede:\n\na) À preparação de vinho espumante pelos dois métodos referidos no artigo 2.º;\n\nb) À preparação de vinho espumante e de vinho espumoso gaseificado.\n\n2 - Consideram-se independentes as instalações que não comunicam entre si e têm acesso directo ao exterior."
+  },
+  "a745e6f4a849c578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comunicação prévia\n\n1 - O preparador de vinho espumante deve comunicar ao Instituto da Vinha e do Vinho (IVV), com a antecedência mínima de 10 dias, o início do engarrafamento, quando obtido pelo método de fermentação em garrafa, bem como o período previsível de laboração, nos restantes casos.\n\n2 - Exceptuam-se do disposto no número anterior os vinhos espumantes de qualidade produzidos em região determinada e os vinhos espumantes de qualidade aos quais são aplicáveis as disposições sobre a matéria fixadas na respectiva regulamentação."
+  },
+  "aad0427f78b2fd81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogações\n\nSão revogados:\n\na) Os artigos 1.º a 4.º, os n.os 1, 2, 5 e 6 do artigo 13.º e os artigos 14.º a 21.º do [Decreto-Lei n.º 12/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1985-328874), de 14 de Janeiro;\n\nb) Os n.os 1.º a 4.º, 13.º, 14.º e 17.º a 19.º da [Portaria n.º 337/85](https://diariodarepublica.pt/dr/detalhe/portaria/337-1985-151886), de 3 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 28 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Victor Manuel Coelho Barros.\n\nPromulgado em 15 de Março de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Março de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "897080b2fa50744d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Comunicação prévia",
+   "in_force_from": "2003-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo único do/a [Decreto-Lei n.º 73/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2003-239591), publicado em 2003-04-16."
+   ],
+   "markdown": "###### Artigo 4.º — Comunicação prévia\n\n(Revogado.)\n\n> Revogado pelo/a Artigo único do/a [Decreto-Lei n.º 73/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2003-239591), publicado em 2003-04-16."
+  }
+ }
+}

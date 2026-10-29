@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-03'
+version_history:
+  file: decreto-lei-306-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-03'
+    amending: pt:dre:568315:por
+    amending_title: Decreto-Lei n.º 38/2004
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/306/2003/12/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:41:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 38/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-306-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +179,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O prazo máximo dos empréstimos é de três anos, a contar da data da primeira utilização de capital.
 
-2 - A utilização dos empréstimos deve ocorrer até 30 de Janeiro de 2004, se estes tiverem como fim a aquisição de madeira de pinho, e até 30 de Junho de 2004 se tiverem como fim a aquisição de madeira de eucalipto e a preservação e conservação da madeira ardida.
+2 - A utilização dos empréstimos deve ocorrer até 30 de Junho de 2004, se estes tiverem como fim a aquisição de madeira de pinho, e até 31 de Agosto de 2004, se tiverem como fim a aquisição de madeira de eucalipto e a preservação e conservação da madeira ardida.
 
 3 - Os empréstimos vencem juros calculados, dia a dia, sobre o capital em dívida à taxa contratual.
 
@@ -181,6 +196,8 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 3.º ano - 50%.
 
 7 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início da contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2004-568315), publicado em 2004-02-27.
 
 ###### Artigo 4.º — Pagamento das bonificações de juros
 

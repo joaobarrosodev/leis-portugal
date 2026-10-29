@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-04-16'
+version_history:
+  file: decreto-lei-19-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-04-16'
+    amending: pt:dre:25344033:por
+    amending_title: Decreto-Lei n.º 57/2014
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/19/2012/01/27/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:17:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 57/2014. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-19-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,9 +289,11 @@ e) A cópia dos cartões de autorização pontual emitidos pela entidade gestora
 
 ###### Artigo 4.º — Prorrogação excepcional de licenças
 
-1 - As licenças de acesso à actividade de prestador de serviços de assistência em escala nos aeroportos de Lisboa, do Porto e de Faro e as licenças de acesso ao mercado, válidas até 31 de Dezembro de 2011 podem ser prorrogadas pelo INAC, I. P., e pela entidade gestora aeroportuária, respectivamente, até à data em que os prestadores de serviços de assistência em escala seleccionados no âmbito dos concursos públicos em curso, ao abrigo do artigo 27.º do Decreto-Lei n.º 275/99, de 23 de Julho, alterado pelos Decretos-Leis n.os 208/2004, de 19 de Agosto, e 216/2009, de 4 de Setembro, iniciem a actividade.
+1 - As atuais licenças de acesso à atividade de prestador de serviços de assistência em escala nos aeroportos de Lisboa, do Porto e de Faro e as licenças de acesso ao mercado, nas categorias 3, 4 e 5, previstas no anexo I ao Decreto-Lei n.º 275/99, de 23 de julho, alterado pelos Decretos-Leis n.os 208/2004, de 19 de agosto, 216/2009, de 4 de setembro, e 19/2012, de 27 de janeiro podem ser prorrogadas pelo INAC, I. P., e pela entidade gestora aeroportuária, respetivamente, até 31 de maio de 2015 ou até à data em que os prestadores de serviços de assistência em escala, que vierem ser selecionados ao abrigo do artigo 27.º do Decreto-Lei n.º 275/99, de 23 de julho, iniciem a sua atividade nas mencionadas categorias e nas referidas infraestruturas aeroportuárias, caso esta ocorra em momento anterior.
 
 2 - Não são devidas quaisquer taxas pela prorrogação das licenças a que se refere o número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2014-25344033), publicado em 2014-04-11.
 
 ###### Artigo 5.º — Produção de efeitos
 

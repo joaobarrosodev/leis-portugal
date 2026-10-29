@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-03-01'
+version_history:
+  file: decreto-lei-13-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-01'
+    amending: pt:dre:468663:por
+    amending_title: Lei n.º 12-A/2008
+    changes:
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/13/1997/01/17/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:49:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 12-A/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-13-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -385,19 +401,15 @@ No dia 15 de cada mês, a DGAP fará publicar na 2.ª série do Diário da Repú
 
 ###### Artigo 18.º — Divulgação de concursos
 
-Todos os serviços e organismos da administração central deverão dar a conhecer à DGAP os concursos de ingresso e de acesso que pretendem abrir, devendo a DGAP disponibilizar essa informação, designadamente por afixação nos seus serviços, ao pessoal abrangido pelo presente diploma.
+(Revogado.)
+
+> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.
 
 ###### Artigo 19.º — Consulta prévia à Direcção-Geral da Administração Pública
 
-1 - As nomeações de pessoal não vinculado à função pública pelos serviços e organismos da administração central e institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos depende de prévia consulta à DGAP, a qual, no prazo de 15 dias contados da data da recepção do pedido, deve informar a entidade interessada do pessoal em situação de inactividade ou emitir documento comprovativo da sua inexistência.
+(Revogado.)
 
-2 - O regime previsto no número anterior é também aplicável à celebração de contratos administrativos de provimento e de trabalho a termo certo, neste último caso quando celebrados ao abrigo do n.º 1 e das alíneas c) e d) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
-
-3 - Sempre que, após consulta à DGAP sobre a existência de pessoal em inactividade, o serviço ou organismo interessado recuse a colocação de qualquer funcionário ou agente que lhe seja indicado, não será permitida qualquer outra admissão, a qualquer título, para o desempenho da função que determinou o pedido de consulta, por um período de dois anos.
-
-4 - São consideradas nulas as nomeações efectuadas com preterição do disposto nos n.os 1 e 3.
-
-5 - Os dirigentes e os funcionários que autorizem, formal ou informalmente, ou omitam informação relativamente à admissão ou permanência de pessoal em violação das disposições deste artigo são solidariamente responsáveis pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.
+> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.
 
 ###### Artigo 20.º — Entrada em vigor
 

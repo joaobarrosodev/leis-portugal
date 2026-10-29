@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2025-01-01'
+version_history:
+  file: decreto-legislativo-regional-36-2006-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-01'
+    amending: pt:dre:898867724:por
+    amending_title: Decreto Legislativo Regional n.º 13/2024/M
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/36/2006/08/17/m/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    13/2024/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2006/decreto-legislativo-regional-36-2006-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,9 +167,11 @@ O regulamento de utilizações especiais da via pública previsto no n.º 2 do a
 
 ###### Artigo 4.º — Correspondências orgânicas
 
-1 - O serviço a que se reporta o artigo 12.º do Decreto-Lei n.º 44/2005, de 23 de Fevereiro, é a direcção regional com a tutela dos transportes terrestres.
+1 - O serviço a que se reporta o artigo 12.º do Decreto-Lei n.º 44/2005, de 23 de fevereiro, é o Instituto de Mobilidade e Transportes, IP-RAM (IMT, IP-RAM).
 
-2 - Tem competência para aplicação das coimas e sanções acessórias correspondentes às contra-ordenações previstas no Código da Estrada e seus regulamentos o director regional com a tutela dos transportes terrestres, que poderá delegá-la, nos termos legais.
+2 - Tem competência para aplicação das coimas e sanções acessórias correspondentes às contraordenações previstas no Código da Estrada e seus regulamentos o Presidente do IMT, IP-RAM, que poderá delegá-la, nos termos legais.
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 13/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2024-898867724), publicado em 2024-12-04.
 
 ###### Artigo 5.º — Norma transitória
 

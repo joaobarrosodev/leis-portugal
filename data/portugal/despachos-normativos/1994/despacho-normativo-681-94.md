@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-04-05'
+version_history:
+  file: despacho-normativo-681-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-04-05'
+    amending: pt:dre:529430:por
+    amending_title: Despacho Normativo n.º 18/97
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/681/1994/09/26/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 18/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-681-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -202,7 +218,9 @@ e) Tratando-se de operações incluídas na alínea e) do n.º 1 do artigo 2.º,
 
 4 - A rentabilidade financeira do projecto será verificada para períodos de análise iguais à vida útil das instalações não superiores a 20 anos, excepto para as operações referentes a centrais mini-hídricas, para as quais esse período máximo será de 30 anos.
 
-5 - A execução do projecto deverá ter lugar durante o período de vigência do Quadro Comunitário de Apoio.
+5 - As operações candidatas deverão ter lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
+
+> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04.
 
 ###### Artigo 6.º — Aplicações relevantes
 
@@ -250,9 +268,11 @@ d) As despesas de funcionamento que não estejam incluídas nas aplicações rel
 
 2 - O montante do apoio será determinado pela aplicação de uma percentagem sobre o montante das aplicações relevantes, variável com o tipo de operação e graduada em função do seu valor energético, dos impactes regional e ambiental, da valia técnica e económica da operação e da adequação dos custos propostos ao tipo de operação a apoiar.
 
-3 - Os valores da percentagem referida no número anterior serão inferiores ou iguais a 40% e respeitarão os limites indicados no anúncio previsto no n.º 3 do artigo 2.º
+3 - Os valores da percentagem referida no número anterior serão inferiores ou iguais a 60% e respeitarão os limites indicados no anúncio previsto no n.º 3 do artigo 2.º
 
 4 - Os valores referidos no número anterior poderão ser majorados nos termos do disposto no artigo 8.º
+
+> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04.
 
 ###### Artigo 8.º — Majoração do apoio
 

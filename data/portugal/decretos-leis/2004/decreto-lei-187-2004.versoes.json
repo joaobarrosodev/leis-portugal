@@ -1,0 +1,458 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:515390:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5d68457fc928b63",
+    "23836370ae405d04",
+    "fa6da1e78e4d3c9f",
+    "3df37322139dab09",
+    "a6cef294df909d4d",
+    "cf321cb84bbd7dbb",
+    "e9f98fd5cb5e0cfe",
+    "b6f718c415cccceb",
+    "29cccfb23abbdaf9",
+    "70cfae25fdb0224a",
+    "dc893c504cebaaff",
+    "720bbf042d43e48d",
+    "0492d7de1302a45a",
+    "e06da8a16f951e90",
+    "aa0e556fb1a1966d",
+    "ee947b99b9b3b0b0",
+    "b98c1667df37a7ca",
+    "f2071359d90170db",
+    "15d281b8a242c1ec",
+    "9f3399ca5416d494",
+    "42a2718b5f0eadf1",
+    "04f8376ce95df688",
+    "045b23bd28690fdc",
+    "79d3e99340a58262",
+    "da360da967ca961c",
+    "0229428e30d278c1",
+    "3a8618ec79872eb5",
+    "992024b3f523fed0",
+    "fbd2c15f56c49f53",
+    "abe2bae54678bb70",
+    "5df10381adac5e40",
+    "078c2b86ecfd638e",
+    "5b30fe5d916a3e8c",
+    "5d84d268f6cb46e4",
+    "9f735be402016902",
+    "91dff8b47dc849ff",
+    "b5dbdb50202a4b17",
+    "dd182e754c99ac14",
+    "d7caa3146aa6e957"
+   ]
+  },
+  {
+   "date": "2011-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670027:por",
+     "title": "Decreto-Lei n.º 79/2011",
+     "published": "2011-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2011-670027"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "b5d68457fc928b63",
+    "23836370ae405d04",
+    "fa6da1e78e4d3c9f",
+    "3df37322139dab09",
+    "a6cef294df909d4d",
+    "cf321cb84bbd7dbb",
+    "e9f98fd5cb5e0cfe",
+    "b6f718c415cccceb",
+    "7302ae45fe0e844a",
+    "70cfae25fdb0224a",
+    "dc893c504cebaaff",
+    "720bbf042d43e48d",
+    "0492d7de1302a45a",
+    "e06da8a16f951e90",
+    "ae936e7be05377c6",
+    "ee947b99b9b3b0b0",
+    "b98c1667df37a7ca",
+    "bd6fa817f4e0583e",
+    "15d281b8a242c1ec",
+    "9f3399ca5416d494",
+    "42a2718b5f0eadf1",
+    "04f8376ce95df688",
+    "045b23bd28690fdc",
+    "79d3e99340a58262",
+    "da360da967ca961c",
+    "0229428e30d278c1",
+    "3a8618ec79872eb5",
+    "992024b3f523fed0",
+    "fbd2c15f56c49f53",
+    "abe2bae54678bb70",
+    "5df10381adac5e40",
+    "078c2b86ecfd638e",
+    "5b30fe5d916a3e8c",
+    "5d84d268f6cb46e4",
+    "9f735be402016902",
+    "91dff8b47dc849ff",
+    "b5dbdb50202a4b17",
+    "dd182e754c99ac14",
+    "d7caa3146aa6e957"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5d68457fc928b63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Agosto\n\nA Directiva n.º [88/407/CEE](https://data.europa.eu/eli/dir/1988/407/oj?locale=pt), do Conselho, de 14 de Junho, fixou as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de sémen ultracongelado de animais da espécie bovina.\n\nAquela directiva, com a última redacção que lhe foi dada pela Directiva n.º [93/60/CEE](https://data.europa.eu/eli/dir/1993/60/oj?locale=pt), do Conselho, de 30 de Junho, foi transposta para a ordem jurídica interna pelo Decreto-Lei n.º 353/90, de 10 de Novembro, e pela Portaria n.º 245/95, de 29 de Março.\n\nEntretanto, à luz dos novos dados científicos disponíveis tornou-se necessário alterar as condições de polícia sanitária aplicáveis à entrada de touros nos centros de inseminação artificial, bem como aplicar igualmente os requisitos da armazenagem a todos os estabelecimentos, quer estejam ou não associados a uma unidade de produção.\n\nTais alterações foram introduzidas à Directiva n.º [88/407/CEE](https://data.europa.eu/eli/dir/1988/407/oj?locale=pt) pela Directiva n.º [2003/43/CE](https://data.europa.eu/eli/dir/2003/43/oj?locale=pt), do Conselho, de 26 de Maio, que é necessário transpor para o nosso ordenamento jurídico.\n\nA extensão daquelas alterações desaconselham a alteração do Decreto-Lei n.º 353/90, de 10 de Novembro, e da Portaria n.º 245/95, de 29 de Março, pelo que se optou pela sua revogação e aprovação de novo diploma sobre esta matéria.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "fa6da1e78e4d3c9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Transposição da directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Transposição da directiva\n\nO presente diploma transpõe para o ordenamento jurídico nacional a Directiva n.º [88/407/CEE](https://data.europa.eu/eli/dir/1988/407/oj?locale=pt), do Conselho, de 14 de Junho, com a última redacção que lhe foi dada pela Directiva n.º [2003/43/CE](https://data.europa.eu/eli/dir/2003/43/oj?locale=pt), do Conselho, de 26 de Maio, que fixa as exigências de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações de sémen de animais da espécie bovina."
+  },
+  "3df37322139dab09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente diploma estabelece as condições de polícia sanitária aplicáveis às trocas intracomunitárias e às importações de sémen de animais da espécie bovina, sem prejuízo das disposições comunitárias e nacionais em matéria zootécnica que regulamentam a organização da inseminação artificial em geral e a distribuição de sémen em particular."
+  },
+  "a6cef294df909d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara os efeitos do disposto no presente diploma, entende-se por:\n\na) «Controlo veterinário» qualquer controlo físico ou formalidade administrativa relativos aos animais ou produtos abrangidos pelos diplomas referidos no anexo A do regulamento anexo à Portaria n.º 575/93, de 4 de Junho, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 32/2004, de 7 de Janeiro, e pelas Portarias n.os 404/94, de 24 de Junho, 702/94, de 28 de Julho, e 160/95, de 27 de Fevereiro, e que vise, directa ou indirectamente, assegurar a protecção da saúde pública ou animal;\n\nb) «Controlo zootécnico» qualquer controlo físico ou formalidade administrativa relativos aos animais abrangidos pelos diplomas mencionados na parte II do anexo A do regulamento referido na alínea anterior e que vise, directa ou indirectamente, assegurar o melhoramento das raças animais;\n\nc) «Comércio» as trocas comerciais entre Estados membros de produtos deles originários ou de produtos provenientes de países terceiros que se encontrem em livre prática nos Estados membros;\n\nd) «Exploração» o estabelecimento agrícola ou o estábulo de negociante, situado no território nacional, onde os animais referidos nos anexos A e B do regulamento anexo à Portaria n.º 575/93, de 4 de Junho, com excepção dos equídeos, são mantidos ou criados de forma habitual, bem como o estabelecimento agrícola ou de treino, a cavalariça ou, de um modo geral, qualquer local ou instalação em que os equídeos são mantidos ou criados da forma habitual, independentemente da sua utilização;\n\ne) «Centro ou organismo» qualquer empresa que proceda à produção, ao armazenamento, ao tratamento ou à manipulação dos produtos referidos no artigo 1.º do regulamento anexo à Portaria n.º 575/93, de 4 de Junho;\n\nf) «Autoridade competente» a Direcção-Geral de Veterinária (DGV), na qualidade de autoridade sanitária veterinária nacional, e as direcções regionais de agricultura, na qualidade de autoridade sanitária veterinária regional;\n\ng) «Veterinário oficial» o veterinário designado pela autoridade competente;\n\nh) «Meio de transporte» as partes de veículos automóveis, veículos sobre carris, navios e aeronaves utilizados para o carregamento e transporte dos animais, bem como os contentores para o transporte por terra, mar ou ar;\n\ni) «Transporte» qualquer movimento de animais efectuado com o auxílio de um meio de transporte, incluindo a carga e a descarga dos animais;\n\nj) «Ponto de paragem» um local onde o transporte é interrompido para repouso, alimentação ou abeberamento dos animais;\n\nl) «Ponto de transferência» um local onde o transporte é interrompido para transferência dos animais de um meio de transporte para outro;\n\nm) «Local de partida» o local onde um animal é carregado pela primeira vez num meio de transporte, assim como todos os locais em que os animais tenham sido descarregados e alojados durante, pelo menos, dez horas e onde tenham sido dessedentados, alimentados e, eventualmente, tratados, com exclusão dos pontos de paragem e dos pontos de transferência, podendo igualmente ser considerados locais de partida os mercados e centros de concentração de animais aprovados pela autoridade competente, desde que:\n\ni) O primeiro local de carregamento dos animais se situe a menos de 50 km dos referidos mercados ou centros de concentração;\n\nii) No caso de a distância referida na subalínea i) ser superior a 50 km, os animais tenham beneficiado de um período de repouso, a fixar em conformidade com a decisão da autoridade competente, e tiverem sido alimentados e dessedentados antes de voltarem a ser carregados;\n\nn) «Local de destino» o local onde um animal é descarregado pela última vez de um meio de transporte, com exclusão dos pontos de paragem e dos pontos de transferência;\n\no) «Viagem» a deslocação do local de partida para o local de destino;\n\np) «Efectivo» o animal ou o conjunto de animais mantidos numa exploração, como unidade epidemiológica; se existir mais de um efectivo numa exploração, devem formar uma unidade distinta com o mesmo estatuto sanitário;\n\nq) «Animal para abate» o bovino, incluindo as espécies Bison bison e Bubalus bubalus, destinado a um matadouro ou a um mercado a partir do qual só pode ser transportado para efeitos de abate;\n\nr) «Animal para reprodução ou produção» o bovino, incluindo as espécies Bison bison e Bubalus bubalus, não abrangido pela alínea q) destinado à reprodução, à produção de leite ou de carne, a trabalhar como animal de tiro ou a exposições ou concursos, com excepção dos animais que participem em acontecimentos culturais e desportivos;\n\ns) «Efectivo bovino oficialmente indemne de tuberculose» o efectivo bovino que satisfaz as condições definidas na secção I, n.os 1, 2 e 3, do anexo A ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nt) «Região oficialmente indemne de tuberculose» a região que satisfaz as condições definidas na secção I, n.os 4, 5 e 6, do anexo A ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nu) «Efectivo bovino oficialmente indemne de brucelose» o efectivo bovino que satisfaz as condições definidas na secção II, n.os 1, 2 e 3, do anexo A ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nv) «Região oficialmente indemne de brucelose» a região que satisfaz as condições definidas na secção II, n.os 7, 8 e 9, do anexo A ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nx) «Efectivo bovino indemne de brucelose» o efectivo bovino que satisfaz as condições definidas na secção II, n.os 4, 5 e 6, do anexo A ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nz) «Efectivo oficialmente indemne de leucose bovina enzoótica» o efectivo que satisfaz as condições definidas no capítulo I, partes A e B, do anexo D ao regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\naa) «Centro de agrupamento» qualquer local, incluindo explorações, centros de recolha e mercados, onde são agrupados bovinos e suínos provenientes de diferentes explorações de origem com vista à constituição de lotes de animais destinados ao comércio, devendo ser aprovados para fins comerciais e satisfazer as exigências estabelecidas no artigo 9.º do regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nbb) «Região» a parte do território cuja superfície seja de pelo menos 2000 km2 e sujeita a inspecção pelas autoridades competentes e que inclua pelo menos uma das seguintes regiões administrativas:\n\nPortugal continental - distrito;\n\nOutras partes do território - Região Autónoma;\n\ncc) «Comerciante» a pessoa singular ou colectiva que compra e vende, directa ou indirectamente, animais para fins comerciais, que tem uma rotação regular desses animais, que, no prazo máximo de 30 dias a contar da aquisição dos animais, os revende ou transfere das primeiras instalações para outras que não são da sua propriedade, que se encontra registada, e que satisfaz as condições estabelecidas no artigo 11.º do regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\ndd) «País de expedição» o país terceiro a partir do qual os animais são expedidos;\n\nee) «País de destino» o Estado membro para o qual são expedidos animais provenientes de um país terceiro;\n\nff) «Importação» a introdução no território da Comunidade de animais provenientes de países terceiros;\n\ngg) «Sémen» o ejaculado, preparado ou diluído, de um animal doméstico da espécie bovina;\n\nhh) «Centro de colheita de sémen» um estabelecimento oficialmente aprovado e controlado situado no território de um Estado membro ou de um país terceiro onde se produz sémen destinado à inseminação artificial;\n\nii) «Centro de armazenagem de sémen» um estabelecimento oficialmente aprovado e fiscalizado situado no território de um Estado membro ou de um país terceiro em que se armazena sémen destinado à inseminação artificial;\n\njj) «Veterinário de centro» o veterinário responsável, no centro, pelas exigências previstas no presente diploma;\n\nll) «Lote» um lote de sémen abrangido por um único certificado;\n\nmm) «País de colheita» o Estado membro ou o país terceiro em que o sémen é colhido e a partir do qual é expedido para um Estado membro;\n\nnn) «Laboratório autorizado» um laboratório nacional ou de um país terceiro e designado pela autoridade veterinária competente para proceder às análises previstas no presente diploma;\n\noo) «Colheita» uma quantidade de sémen retirada de um dador em qualquer altura."
+  },
+  "cf321cb84bbd7dbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Trocas comerciais intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Trocas comerciais intracomunitárias"
+  },
+  "e9f98fd5cb5e0cfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Trocas intracomunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Trocas intracomunitárias\n\nSó pode ser expedido sémen do território nacional que satisfaça as seguintes condições gerais:\n\na) Ter sido colhido e tratado, e ou armazenado, conforme o caso, num centro ou em centros de colheita ou de armazenagem de sémen aprovados para esse efeito nos termos do n.º 1 do artigo 6.º, tendo em vista a inseminação artificial e destinado a trocas comerciais intracomunitárias;\n\nb) Ter sido colhido, tratado, armazenado e transportado de acordo com o estipulado nos anexos A e C ao presente diploma, que dele fazem parte integrante;\n\nc) Ter sido colhido em animais da espécie bovina cujo estatuto sanitário esteja em conformidade com o anexo B ao presente diploma, que dele faz parte integrante;\n\nd) Ser acompanhado durante o transporte para o país de destino de um certificado sanitário, nos termos do artigo 7.º"
+  },
+  "b6f718c415cccceb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Despistagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despistagem\n\n1 - É permitida a admissão em território nacional de sémen de touros vacinados contra a febre aftosa.\n\n2 - No entanto, sempre que o sémen provier de um touro que tenha sido vacinado contra a febre aftosa durante o período de 12 meses que precede a colheita, 5% do sémen de cada colheita, com um mínimo de cinco palhetas, destinado a outro Estado membro são submetidos, num laboratório do Estado membro destinatário ou num laboratório por este designado, a uma análise de isolamento do vírus para rastreio da febre aftosa, com resultados negativos."
+  },
+  "29cccfb23abbdaf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Centros de colheita e armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Centros de colheita e armazenagem\n\n1 - A aprovação prevista na alínea a) do artigo 4.º é concedida pelo director-geral de Veterinária se forem respeitadas as disposições do anexo A e se o centro de colheita de sémen ou de armazenagem estiver em condições de respeitar as restantes disposições do presente diploma.\n\n2 - O veterinário oficial deve controlar a observância das disposições do presente diploma, informando de imediato a DGV em caso de desrespeito de alguma das disposições.\n\n3 - Aos centros de colheita de sémen ou de armazenagem autorizados é atribuído um número de registo veterinário.\n\n4 - Em caso de desrespeito das disposições do presente diploma, o director-geral de Veterinária determina as medidas necessárias, designadamente o cancelamento ou a suspensão da aprovação."
+  },
+  "70cfae25fdb0224a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificado\n\n1 - A introdução de sémen apenas é autorizada quando este seja acompanhado de um certificado sanitário do sémen, passado por um veterinário oficial do Estado membro da colheita, nos termos do anexo D ao presente diploma, que dele faz parte integrante.\n\n2 - O certificado mencionado no número anterior deve:\n\na) Ser redigido pelo menos numa das línguas oficiais do Estado membro da colheita e numa das do Estado membro de destino;\n\nb) Acompanhar o lote até ao destino no seu exemplar original;\n\nc) Ser emitido numa folha única;\n\nd) Ser previsto para um só destinatário."
+  },
+  "dc893c504cebaaff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlos\n\n1 - É proibida a entrada no território nacional de lotes de sémen cujo o controlo dos documentos revele que não foram respeitadas as disposições do artigo 4.º\n\n2 - No caso de se suspeitar de que o sémen está contaminado por germes patogénicos, a DGV determina as medidas adequadas, incluindo a quarentena do sémen em causa.\n\n3 - As medidas previstas no número anterior não impedem a reexpedição do sémen, a pedido do expedidor ou do seu mandatário, desde que a tal não se oponham razões de polícia sanitária.\n\n4 - Quando a admissão de sémen tiver sido proibida por um dos motivos referidos nos n.os 2 e 3 e não for autorizada a sua reexpedição no prazo de 30 dias, a DGV pode ordenar a destruição do sémen.\n\n5 - As decisões tomadas pela DGV nos termos do presente artigo devem ser comunicadas, com indicação dos fundamentos, ao expedidor ou seu mandatário."
+  },
+  "720bbf042d43e48d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Peritagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Peritagens\n\n1 - É concedido aos expedidores cuja remessa de sémen tenha sido objecto das medidas previstas no artigo anterior o direito de obterem o parecer de um perito veterinário antes de a autoridade sanitária nacional tomar outras medidas, a fim de determinar se foi respeitado o disposto nos n.os 1 a 3 daquele artigo.\n\n2 - O perito veterinário deve ter a nacionalidade de um Estado membro diferente da do Estado membro de colheita ou do de destino."
+  },
+  "0492d7de1302a45a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Importações provenientes de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Importações provenientes de países terceiros"
+  },
+  "e06da8a16f951e90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Importações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Importações\n\n1 - Só é autorizada a importação de sémen de animais de espécie bovina provenientes dos países terceiros constantes da lista de países publicada no Jornal Oficial da União Europeia.\n\n2 - A inscrição do país terceiro na lista a que se refere o número anterior é condicionada:\n\na) Ao estado sanitário do seu efectivo, particularmente a doenças exóticas, e ainda à situação sanitária das regiões desse país quando for susceptível de comprometer a saúde do efectivo nacional;\n\nb) À regularidade e à rapidez das informações fornecidas por esse país acerca da presença no seu território de doenças contagiosas dos animais, nomeadamente as mencionadas nas listas A e B do Office International des Epizooties;\n\nc) À regulamentação desse país relativa à prevenção e luta contra as doenças dos animais;\n\nd) À estrutura dos serviços veterinários desse país e aos poderes de que esses serviços dispõem;\n\ne) À organização e à execução da prevenção e da luta contra as doenças contagiosas dos animais;\n\nf) Às garantias que o país terceiro pode dar no que se refere ao cumprimento do disposto no presente diploma."
+  },
+  "aa0e556fb1a1966d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Centros de colheita e armazenagem de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centros de colheita e armazenagem de países terceiros\n\n1 - As listas dos centros de colheita e de armazenagem de sémen a partir dos quais os Estados membros autorizam a importação de sémen originário de países terceiros são estabelecidas e actualizadas em conformidade com o presente artigo.\n\n2 - Um estabelecimento só pode figurar nessa lista se a autoridade competente do país terceiro de origem garantir que foram respeitadas as condições referidas no n.º 4 e nas alíneas b) a e) do n.º 5.\n\n3 - As autoridades competentes dos países terceiros que figuram nas listas estabelecidas e actualizadas em conformidade com o artigo 10.º garantem que as listas dos centros de colheita e armazenagem de sémen a partir dos quais se pode encaminhar sémen para a Comunidade foram estabelecidas, actualizadas e comunicadas à Comissão.\n\n4 - Para decidir se um centro de colheita e de armazenagem de sémen situado num país terceiro pode figurar na lista referida no número anterior, devem ter-se em conta o controlo veterinário exercido no país terceiro, no que respeita às modalidades de produção de sémen, os poderes de que os serviços veterinários dispõem e a vigilância a que são submetidos os centros de colheita de sémen.\n\n5 - Um centro de colheita e de armazenagem de sémen só pode ser inscrito na lista prevista no n.º 1 quando cumpra as seguintes condições:\n\na) Esteja situado num país que conste da lista a que se refere o n.º 1 do artigo 10.º;\n\nb) Satisfaça as exigências dos capítulos I e II do anexo A;\n\nc) Tenha sido oficialmente autorizado a exportar para a União Europeia pelos serviços veterinários do país terceiro em causa;\n\nd) Esteja sob vigilância de um veterinário de centro do país terceiro em causa;\n\ne) Seja regularmente inspeccionado pelo menos duas vezes por ano por um veterinário do país terceiro em causa."
+  },
+  "ee947b99b9b3b0b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Condições do sémen",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições do sémen\n\n1 - O sémen deve provir de animais que, imediatamente antes da colheita, tenham estado pelo menos seis meses no território de um país terceiro que conste da lista estabelecida nos termos do n.º 1 do artigo 10.º\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 10.º e no número anterior, só é autorizada a importação de sémen proveniente de um país terceiro que conste da lista se esse sémen corresponder às prescrições de polícia sanitária adoptadas.\n\n3 - Para a adopção das prescrições referidas no número anterior, devem ser considerados os seguintes elementos:\n\na) A situação sanitária nas zonas contíguas ao centro de colheita de sémen;\n\nb) O estado sanitário do efectivo de animais presente no centro de colheita de sémen, incluindo as prescrições em matéria de análises;\n\nc) O estado sanitário do animal dador e as prescrições em matéria de análises;\n\nd) As prescrições relativas às análises a que deve ser submetido o sémen.\n\n4 - No que se refere à fixação das condições de polícia sanitária, de acordo com o disposto no n.º 2, aplicam-se para a tuberculose, assim como para a brucelose dos bovinos, sendo aplicáveis como base de referência, as normas fixadas no anexo A do regulamento aprovado pelo Decreto-Lei n.º 157/98, de 9 de Junho, com a redacção que lhe foi introduzida pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro.\n\n5 - A DGV pode, caso a caso, autorizar derrogações ao disposto no número anterior se o país terceiro interessado fornecer garantias sanitárias semelhantes, que deverão ser pelo menos equivalentes às do anexo A, a fim de permitir a entrada dos animais considerados nos centros de colheita.\n\n6 - É aplicável o n.º 2 do artigo 5.º"
+  },
+  "b98c1667df37a7ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Certificado\n\n1 - Só é admitida a importação de sémen se este for acompanhado de um certificado sanitário passado e assinado por um veterinário oficial do país terceiro de colheita.\n\n2 - O certificado referido no número anterior deve:\n\na) Ser redigido, pelo menos, numa das línguas oficiais do Estado membro onde se efectua o controlo à importação previsto no artigo 14.º;\n\nb) Acompanhar o sémen no seu exemplar original;\n\nc) Ser previsto para um único destinatário."
+  },
+  "f2071359d90170db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Controlos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlos veterinários\n\nAs normas previstas no Decreto-Lei n.º 210/2000, de 2 de Setembro, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros, aplicam-se em especial à organização e ao acompanhamento dos controlos a efectuar e às medidas de salvaguarda a aplicar."
+  },
+  "15d281b8a242c1ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias"
+  },
+  "9f3399ca5416d494": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - O presente diploma não se aplica ao sémen colhido e tratado num Estado membro antes de 1 de Janeiro de 1990.\n\n2 - Até à entrada em vigor das decisões aprovadas em aplicação dos artigos 10.º, 11.º e 12.º não se aplicam em território nacional, às importações de sémen proveniente de países terceiros, condições mais favoráveis do que as que resultam dos artigos 4.º a 8.º"
+  },
+  "42a2718b5f0eadf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições sancionatórias"
+  },
+  "04f8376ce95df688": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das normas do presente diploma compete à DGV e às direcções regionais de agricultura, sem prejuízo das competências atribuídas por lei a outras entidades."
+  },
+  "045b23bd28690fdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constituem contra-ordenações puníveis com coima cujo montante mínimo é de (euro) 250 e o máximo de (euro) 3700 ou (euro) 44800, consoante o agente seja pessoa singular ou colectiva, a colocação em circulação de sémen:\n\na) Que não tenha sido colhido e tratado e ou armazenado de acordo com o artigo 4.º ou, no caso dos touros, que não obedeça aos requisitos previstos no artigo 5.º;\n\nb) Com origem em centros de colheita e armazenagem que não estejam aprovados nos termos do artigo 6.º;\n\nc) Que não seja acompanhado do certificado sanitário, de acordo com os artigos 7.º e 13.º;\n\nd) Proveniente de países terceiros que não constem da lista prevista no artigo 10.º;\n\ne) Provenientes de centros de colheita ou de armazenagem que não constem da lista prevista no artigo 11.º;\n\nf) Que não satisfaça as condições para importação previstas no artigo 12.º\n\n2 - A negligência e a tentativa são puníveis."
+  },
+  "79d3e99340a58262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções acessórias\n\n1 - Consoante a gravidade da infracção e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa do título público ou de autorização ou de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ne) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "da360da967ca961c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Instrução e decisão das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instrução e decisão das contra-ordenações\n\n1 - Compete à direcção regional de agricultura da área da prática da infracção a instrução dos processos de contra-ordenação.\n\n2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias."
+  },
+  "0229428e30d278c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Destino do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a autoridade autuante;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "992024b3f523fed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competências das Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências das Regiões Autónomas dos Açores e da Madeira\n\n1 - O presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências administrativas e legislativas próprias dos respectivos órgãos de governo e dos serviços das administrações regionais autónomas, salvaguardando-se as competências da DGV enquanto autoridade sanitária nacional.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "fbd2c15f56c49f53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revogação\n\nSão revogados o Decreto-Lei n.º 353/90, de 10 de Novembro, e a Portaria n.º 245/95, de 29 de Março."
+  },
+  "abe2bae54678bb70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Início de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Início de vigência\n\n1 - O presente diploma entra em vigor em 1 de Agosto de 2004, com excepção do anexo E, cujo modelo de certificado nele previsto é aplicável a partir de 1 de Janeiro de 2005 às trocas intracomunitárias de reservas de sémen colhido, armazenado, tratado ou armazenado antes de 31 de Dezembro de 2004, em conformidade com as condições da Portaria n.º 245/95, de 29 de Março.\n\n2 - No entanto, até 31 de Dezembro de 2004, são autorizadas as trocas intracomunitárias e as importações de sémenes colhidos, tratados e armazenados em conformidade com as disposições da Portaria n.º 245/95, de 29 de Março, e acompanhados do modelo de certificado nela previsto.\n\n3 - A partir daquela data, apenas são autorizadas as trocas intracomunitárias e as importações de sémen em conformidade com as disposições da Portaria n.º 245/95, de 29 de Março, se o mesmo tiver sido colhido, tratado e armazenado até 31 de Dezembro de 2004.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 2004. - José Manuel Durão Barroso. - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.\n\nPromulgado em 15 de Julho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Julho de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "5df10381adac5e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A"
+  },
+  "078c2b86ecfd638e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nCondições de aprovação oficial dos centros\n\n1 - Os centros de colheita de sémen devem:\n\na) Ser permanentemente colocados sob a fiscalização de um veterinário do centro habilitado pela autoridade competente;\n\nb) Dispor, pelo menos:\n\ni) De instalações que permitam assegurar o alojamento e isolamento dos animais;\n\nii) De instalações para a colheita de sémen, incluindo um local distinto para a limpeza e desinfecção ou esterilização dos equipamentos;\n\niii) De um local de tratamento do sémen, que não tem necessariamente de encontrar-se no mesmo sítio;\n\niv) De um local de armazenagem do sémen, que não tem necessariamente de encontrar-se no mesmo sítio;\n\nc) Ser construídos ou isolados de forma a impedir qualquer contacto com os animais que se encontrem no exterior;\n\nd) Ser construídos de forma que as instalações de alojamento dos animais de colheita, tratamento e armazenagem do sémen possam ser facilmente limpas e desinfectadas;\n\ne) Dispor, para o alojamento dos animais a isolar, de instalações que não comuniquem directamente com as instalações comuns;\n\nf) Ser concebidos de forma que o local de alojamento dos animais esteja fisicamente separado do local de tratamento do sémen e que tanto um como outro estejam separados do local de armazenagem do sémen.\n\n2 - Os centros de armazenagem de sémen devem:\n\na) Ser permanentemente colocados sob a fiscalização de um veterinário do centro habilitado pela autoridade competente;\n\nb) Ser construídos ou isolados de forma a impedir qualquer contacto com os animais que se encontrem no exterior;\n\nc) Ser construídos de forma que as instalações de armazenagem do sémen possam ser facilmente limpas e desinfectadas."
+  },
+  "5b30fe5d916a3e8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Condições relativas à fiscalização oficial dos centros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Condições relativas à fiscalização oficial dos centros\n\n1 - Os centros de colheita de sémen devem:\n\na) Ser fiscalizados para que neles apenas possam ser alojados animais da espécie cujo sémen deve ser colhido, podendo neles ser igualmente admitidos outros animais domésticos que sejam absolutamente necessários ao seu funcionamento normal, desde que não apresentem qualquer risco de infecção para os animais das espécies cujo sémen deve ser colhido e na medida em que satisfaçam as condições fixadas pelo veterinário do centro;\n\nb) Ser fiscalizados de forma que seja mantido um registo de todos os bovinos neles presentes, que deve conter informações sobre a raça, a data de nascimento e a identificação de cada um desses animais, bem como, para cada animal, um registo de todos controlos relativos às doenças e a todas as vacinações efectuadas;\n\nc) Ser sujeitos a inspecções regulares, efectuadas pelo menos duas vezes por ano por um veterinário oficial no âmbito de um controlo permanente das condições de aprovação e fiscalização;\n\nd) Dispor de fiscalização que impeça a entrada de qualquer pessoa não autorizada. Além disso, os visitantes autorizados devem ser admitidos de acordo com as condições estabelecidas pelo veterinário do centro;\n\ne) Empregar pessoal tecnicamente competente, que tenha recebido formação adequada quanto aos processos de desinfecção e às técnicas de higiene para a prevenção da propagação de doenças;\n\nf) Ser fiscalizados por forma a assegurar que só o sémen colhido num centro aprovado pode ser tratado e armazenado nos centros aprovados, sem entrar em contacto com qualquer outro lote de sémen;\n\ng) Em derrogação da alínea anterior, o sémen não colhido num centro aprovado pode ser tratado em centros de colheita aprovados desde que:\n\ni) Esse sémen seja obtido a partir de bovinos que respeitem as condições previstas no n.º 1, alínea d), do capítulo I do anexo B;\n\nii) Esse tratamento se efectue com equipamentos distintos ou num momento diferente daquele em que é tratado o sémen destinado às trocas intracomunitárias, devendo os equipamentos, neste último caso, ser limpos e esterilizados após utilização;\n\niii) Esse sémen não possa ser objecto de trocas intracomunitárias e não possa entrar, em momento algum, em contacto ou ser armazenado com sémen destinado às trocas intracomunitárias;\n\niv) Esse sémen seja identificável por aposição de uma marca distinta da prevista na alínea j) do n.º 2;\n\nh) Em derrogação da alínea f) e mediante autorização da entidade competente, o sémen não colhido num centro aprovado pode ser armazenado em centros de colheita aprovados desde que:\n\ni) Os embriões satisfaçam os requisitos do Decreto-Lei n.º 8/92, de 22 de Janeiro, que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina;\n\nii) Os embriões sejam armazenados em recipientes de armazenagem separados, em locais previstos para a armazenagem de sémen aprovado;\n\ni) A colheita, o tratamento e a armazenagem de sémen só podem ser efectuados nos locais reservados para o efeito e nas mais rigorosas condições de higiene;\n\nj) Todos os instrumentos que entrem em contacto com o sémen do animal dador durante a colheita ou o tratamento devem ser convenientemente desinfectados ou esterilizados antes de cada utilização, excepto quando se trate de instrumentos descartáveis;\n\nl) Os produtos de origem animal utilizados no tratamento do sémen incluindo aditivos ou um diluente devem provir de fontes que não apresentem qualquer risco sanitário ou que tenham sido submetidas a um tratamento prévio para afastar esse risco;\n\nm) Os recipientes utilizados na armazenagem e no transporte devem ser convenientemente desinfectados ou esterilizados antes do início de qualquer operação de enchimento, excepto quando se trate de recipientes descartáveis;\n\nn) O agente criogénico utilizado não deve ter servido anteriormente para outros produtos de origem animal;\n\no) Cada dose individual de sémen deve apresentar uma marca visível que permita verificar facilmente a data da colheita, bem como a raça e a identificação do animal dador e o número de aprovação do centro;\n\np) A unidade de armazenagem deve respeitar as condições específicas relativas à fiscalização dos centros de armazenagem de sémen previstas no n.º 2.\n\n2 - Os centros de armazenagem de sémen devem:\n\na) Ser fiscalizados de forma que seja mantido um registo de todas as entradas e saídas de sémen do centro e do estatuto de todos os touros dadores cujo sémen esteja aí armazenado, que devem respeitar os requisitos do presente diploma;\n\nb) Ser sujeitos a inspecções regulares, efectuadas pelo menos duas vezes por ano por um veterinário oficial no âmbito de um controlo permanente das condições de aprovação e fiscalização;\n\nc) Dispor de fiscalização que impeça a entrada de qualquer pessoa não autorizada, devendo os visitantes autorizados ser admitidos de acordo com as condições estabelecidas pelo veterinário do centro;\n\nd) Empregar pessoal tecnicamente competente, que tenha recebido formação adequada quanto aos processos de desinfecção e às técnicas de higiene para a prevenção da propagação de doenças;\n\ne) Ser fiscalizados por forma a assegurar as seguintes condições:\n\ni) Só o sémen colhido em centros de colheita aprovados em conformidade com o presente diploma deve ser armazenado nos centros de armazenagem aprovados, sem entrar em contacto com qualquer outro sémen;\n\nii) Só pode ser introduzido num centro de armazenagem aprovado o sémen proveniente de um centro de colheita ou de armazenagem aprovado e transportado em condições que ofereçam todas as garantias sanitárias e sem entrar em contacto com qualquer outro sémen;\n\niii) A armazenagem de sémen deve ser efectuada exclusivamente nos locais reservados para o efeito e nas mais rigorosas condições de higiene;\n\niv) Todos os utensílios que entrem em contacto com o sémen devem ser convenientemente desinfectados ou esterilizados antes de cada utilização, excepto quando se trate de instrumentos descartáveis;\n\nv) Os recipientes utilizados na armazenagem e no transporte devem ser convenientemente desinfectados ou esterilizados antes do início de qualquer operação de enchimento, excepto no caso dos recipientes descartáveis, e o agente criogénico utilizado não deve ter servido anteriormente para outros produtos de origem animal;\n\nvi) Cada dose individual de sémen deve apresentar uma marca visível que permita verificar facilmente a data da colheita, bem como a raça e da identificação do animal dador e o número de aprovação do centro de colheita.\n\n3 - Em derrogação da subalínea i) da alínea e) do número anterior, podem também ser armazenados embriões congelados em centros aprovados, desde que:\n\ni) Essa armazenagem seja autorizada pela autoridade competente;\n\nii) Os embriões satisfaçam os requisitos do Decreto-Lei n.º 8/92, de 22 de Janeiro, e das Portarias n.os 144/92, de 5 de Março, e 685/94, de 22 de Julho, que estabelecem as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina;\n\niii) Os embriões sejam armazenados em recipientes de armazenagem separados, em locais previstos para a armazenagem de sémen aprovados."
+  },
+  "5d84d268f6cb46e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B"
+  },
+  "9f735be402016902": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nCondições aplicáveis à admissão dos animais nos centros de colheita de sémen aprovados\n\n1 - Todos os animais da espécie bovina admitidos num centro de colheita de sémen devem obedecer às seguintes condições:\n\na) Terem sido sujeitos a um período de quarentena de, pelo menos, 28 dias, em instalações especialmente aprovadas para o efeito pela autoridade competente e nas quais se encontrem apenas outros animais biungulados com, pelo menos, o mesmo estatuto sanitário;\n\nb) Terem pertencido, antes da sua admissão nas instalações de quarentena referidas na alínea a), a um efectivo oficialmente indemne de tuberculose e oficialmente indemne de brucelose, não devendo os animais ter permanecido previamente num efectivo de estatuto inferior;\n\nc) Provirem de um efectivo oficialmente indemne de leucose bovina enzoótica ou ter nascido de mães que, depois de separadas das crias, tenham sido sujeitas, com resultados negativos, a um teste efectuado nos termos do capítulo II do anexo D do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro, sendo que, no caso de animais provenientes de uma transferência de embriões, se considera «mãe» a receptora do embrião; se essa exigência não puder ser satisfeita, o sémen não é objecto de trocas comerciais antes de o dador atingir a idade de 2 anos e ter sido testado nos termos do n.º 1, alínea c), do capítulo II, com resultado negativo;\n\nd) Terem, nos 28 dias anteriores ao período de quarentena referido na alínea a), sido submetidos e, em cada caso, ter reagido negativamente aos seguintes testes, com excepção do teste para pesquisa dos anticorpos da BVD/MD referido na subalínea v):\n\ni) Relativamente à tuberculose bovina, a um teste oficial de tuberculina efectuado em conformidade com o método fixado no anexo B do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nii) Relativamente à brucelose bovina, a um teste serológico efectuado em conformidade com o método fixado no anexo C do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\niii) Relativamente à leucose bovina enzoótica, a um teste serológico efectuado em conformidade com o método fixado no anexo D (capítulo II) do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\niv) Relativamente à IBR/IPV, a um teste serológico (vírus inteiro) numa amostra de sangue, caso os animais não provenham de um efectivo indemne de IBR/IPV, na acepção do artigo 2.3.5.3 do Código Zoossanitário Internacional;\n\nv) Relativamente à BVD/MD, a um teste de isolamento do vírus ou a um teste de pesquisa do antigénio do vírus e a um teste serológico para determinar a presença ou ausência de anticorpos;\n\ne) A autoridade competente pode autorizar que os testes referidos na alínea d) sejam efectuados em amostras colhidas nas instalações de quarentena, e, nesse caso, o período de quarentena referido na alínea a) não poderá começar antes da data em que foram recolhidas as amostras; no caso em que um dos testes referidos na alínea a) se revelar positivo, o animal em questão é imediatamente retirado das instalações de isolamento, sendo que, em caso de isolamento de grupo, o período de quarentena referido na alínea a) só poderá começar para os animais restantes depois de se ter retirado o animal que reagiu positivamente;\n\nf) Durante o período de quarentena especificado na alínea a), terem sido sujeitos depois de pelo menos 21 dias de quarentena (pelo menos 7 dias de quarentena para a pesquisa de Campylobacter faetus ssp. Venerealis e Trichomonas foetus) aos testes a seguir enumerados com resultados negativos, excepto no caso dos testes serológicos para pesquisa dos anticorpos da BVD/MD [v. subalínea iii) infra], devendo os animais que apresentem resultados positivos ser removidos imediatamente da estação de quarentena, permanecendo os outros animais do mesmo grupo de quarentena e sendo novamente testados, com resultados negativos, depois de decorridos, pelo menos, 21 dias após a remoção do animal ou dos animais positivos:\n\ni) Relativamente à brucelose bovina, a um teste serológico efectuado em conformidade com o método fixado no anexo C do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nii) Relativamente à IBR/IPV, a um teste serológico (vírus inteiro) noutra amostra de sangue;\n\niii) Relativamente à BVD/MD, a um teste de isolamento do vírus ou a um teste de pesquisa do antigénio do vírus e a um teste serológico para determinar a presença ou ausência de anticorpos;\n\ng) Caso não se verifique seroconversão nos animais que eram seronegativos antes da entrada na estação de quarentena, os animais seronegativos ou seropositivos podem ser autorizados a entrar nas instalações de colheita de sémen;\n\nh) Caso se verifique seroconversão, todos os animais que permaneçam seronegativos são mantidos em quarentena durante um período suplementar até não haver seroconversão no grupo durante três semanas, podendo ser autorizada a entrada de animais serologicamente positivos nas instalações de colheita de sémen;\n\ni) Relativamente à Campylobacter foetus ssp. Venerealis:\n\ni) No caso de animais com menos de 6 meses ou mantidos desde essa idade num grupo do mesmo sexo antes da quarentena, a um teste único, numa amostra de lavagem vaginal artificial ou de material prepucial;\n\nii) No caso de animais com 6 meses ou mais que pudessem ter tido contacto com fêmeas antes da quarentena, a um teste, realizado três vezes com um intervalo semanal, numa amostra de lavagem vaginal artificial ou de material prepucial;\n\nj) Relativamente à Trichomonas foetus:\n\ni) No caso de animais com menos de 6 meses de idade ou mantidos desde essa idade num grupo do mesmo sexo antes da quarentena, a um teste, realizado uma única vez, numa amostra de material prepucial;\n\nii) No caso de animais com 6 meses ou mais que pudessem ter tido contacto com fêmeas antes da quarentena, a um teste, realizado três vezes com um intervalo semanal, numa amostra de material prepucial;\n\nl) Em caso de reacção positiva a um dos testes enumerados na alínea anterior, deve retirar-se imediatamente o animal das instalações de isolamento, e, no caso de isolamento em grupo, a autoridade competente deve tomar todas as medidas necessárias para que os restantes animais possam ser readmitidos no centro de colheita em conformidade com o disposto no presente anexo;\n\nm) Antes da expedição inicial do sémen de touros serologicamente positivos a diarreia vírica bovina/doença das mucosas, submeter-se-á uma amostra do sémen de cada animal a uma prova de isolamento do vírus ou a um teste ELISA de pesquisa de antigenes da BVD/MD, e, caso os resultados sejam positivos, o touro é removido do centro e todo o seu sémen é destruído.\n\n2 - Todos os exames devem ser efectuados num laboratório aprovado.\n\n3 - Os animais só podem ser admitidos no centro de colheita de sémen mediante autorização expressa do veterinário do centro, devendo ser registados todos os movimentos de entrada e saída.\n\n4 - Nenhum animal admitido no centro de colheita de sémen pode apresentar qualquer manifestação clínica de doença no dia da sua admissão, devendo todos os animais, sem prejuízo do disposto no n.º 5, provir de uma instalação de isolamento, tal como referida na alínea a) do n.º 1, que no dia da expedição respeite oficialmente as seguintes condições:\n\na) Estar situada no centro de uma zona com um raio de 10 km em que não se registou qualquer caso de febre aftosa, pelo menos, nos 30 dias anteriores;\n\nb) Estar indemne de febre aftosa e de brucelose há, pelo menos, três meses;\n\nc) Estar indemne de doenças dos bovinos de declaração obrigatória nos termos do anexo E do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro, há, pelo menos, 30 dias.\n\n5 - Desde que estejam preenchidas as condições estabelecidas no n.º 4 e que os testes de rotina enumerados no capítulo II tenham sido realizados nos 12 meses anteriores, os animais podem ser transferidos de um centro de colheita de sémen aprovado para outro de estatuto sanitário equivalente sem período de isolamento ou novos exames se essa transferência for efectuada directamente, não devendo o animal transferido entrar em contacto directo ou indirecto com animais biungulados de estatuto sanitário inferior, e o meio de transporte utilizado deve ter sido previamente desinfectado, e se a transferência de um centro de colheita de sémen para outro se efectue com outro Estado membro deve obedecer ao disposto no Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro."
+  },
+  "91dff8b47dc849ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Exames de rotina obrigatórios para os bovinos alojados em centros de colheita de sémen aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Exames de rotina obrigatórios para os bovinos alojados em centros de colheita de sémen aprovados\n\n1 - Todos os bovinos alojados em centros de colheita de sémen aprovados devem ser submetidos, pelo menos uma vez por ano, aos seguintes exames, devendo obter-se resultados negativos:\n\na) Relativamente à tuberculose bovina, a um teste oficial de tuberculina efectuado em conformidade com o método fixado no anexo B do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nb) Relativamente à brucelose bovina, a um teste serológico efectuado em conformidade com o método fixado no anexo C do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nc) Relativamente à leucose bovina, a um teste serológico efectuado em conformidade com o método fixado no anexo D (capítulo II) do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro;\n\nd) Relativamente à IBR/IPV, a um teste serológico (vírus inteiro) numa amostra de sangue;\n\ne) Relativamente à BVD/MD, a um teste serológico aplicado apenas aos animais seronegativos;\n\nf) Relativamente a Campylobacter foetus ssp. Veneralis, a um teste numa amostra de material prepucial, devendo só ser testados os touros utilizados para a produção de sémen ou que estejam em contacto com touros utilizados para a produção de sémen, devendo os touros que regressem à colheita após um intervalo de mais de seis meses ser testados nos 30 dias anteriores à retoma da produção;\n\ng) Relativamente a Trichomonas foetus, a um teste numa amostra de material prepucial, e só os touros utilizados para a produção de sémen ou que estejam em contacto com touros utilizados para a produção de sémen devem ser testados, devendo os touros que regressem à colheita após um intervalo de mais de seis meses ser testados nos 30 dias anteriores à retoma da produção.\n\n2 - Caso um animal passe a ser serologicamente positivo, todos os ejaculados desse animal colhidos desde o último teste negativo devem ser eliminados, com excepção do sémen de cada ejaculado que, em reanálise, apresente resultado negativo.\n\n3 - Todos os exames devem ser efectuados num laboratório aprovado.\n\n4 - Caso a reacção a um dos testes atrás referidos seja positiva, o animal deve ser isolado e o respectivo sémen colhido desde a data da última prova negativa não pode ser objecto de trocas intracomunitárias, com excepção, no caso da BVD/MD, do sémen de cada ejaculado que tenha apresentado resultados positivos nos testes de pesquisa do vírus da BVD/MD, devendo o sémen colhido de todos os outros animais do centro após a data de realização da prova positiva ser armazenado separadamente, não podendo ser objecto de trocas intracomunitárias até ao restabelecimento do estatuto sanitário do centro."
+  },
+  "b5dbdb50202a4b17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO C — Condições a que deve obedecer o sémen para fins de trocas intracomunitárias ou importado na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — Condições a que deve obedecer o sémen para fins de trocas intracomunitárias ou importado na Comunidade\n\n1 - O sémen deve ser obtido de animais que:\n\na) Não apresentem qualquer manifestação clínica de doença no dia da colheita do sémen;\n\nb) Não tenham sido vacinados contra a febre aftosa nos 12 meses anteriores à colheita ou tenham sido vacinados contra a febre aftosa nos 12 meses anteriores à colheita e, neste caso, 1% dos sémenes de cada colheita (com um mínimo de cinco palhetas) deverá ser submetido a um teste de isolamento do vírus da febre aftosa e dar resultados negativos;\n\nc) Não tenham sido vacinados contra a febre aftosa nos 30 dias imediatamente anteriores à colheita;\n\nd) Tenham permanecido num centro de colheita de sémen aprovado durante um período contínuo de pelo menos 30 dias imediatamente antes da colheita do sémen, quando se trate de uma colheita de sémen fresco;\n\ne) Não estejam autorizados a efectuar a cobrição natural;\n\nf) Sejam alojados em centros de colheita de sémen indemnes de febre aftosa durante pelo menos os três meses anteriores e os 30 dias posteriores à colheita, ou, quando se trate de sémen fresco, até à data de expedição, e que estejam situados no centro de uma zona com um raio de 10 km na qual não tenham ocorrido casos de febre aftosa há pelo menos 30 dias;\n\ng) Tenham permanecido em centros de colheita de sémen que, durante o período compreendido entre o 30.º dia anterior à colheita e o 30.º dia posterior à colheita, ou, quando se trate de sémen fresco, até à data de expedição, tenham estado indemnes das doenças dos bovinos de declaração obrigatória nos termos do anexo E (I) do Decreto-Lei n.º 157/98, de 9 de Junho, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 378/99, de 21 de Setembro, e 316/2000, de 6 de Dezembro.\n\n2 - Devem ser adicionados os antibióticos a seguir indicados para obter, na diluição final de sémen, as seguintes concentrações mínimas:\n\ni) 500 (mi)g de estreptomicina por mililitro de diluição final;\n\nii) 500 (mi)l de penicilina por mililitro de diluição final;\n\niii) 150 (mi)g de lincomicina por mililitro de diluição final;\n\niv) 300 (mi)g de espectinomicina por mililitro de diluição final.\n\n3 - Para os efeitos do número anterior, pode utilizar-se uma combinação diferente de antibióticos com um efeito equivalente contra os campilobacteres, as leptospiras e os micoplasmas, e, imediatamente após a adição dos antibióticos, o sémen diluído deve ser conservado a uma temperatura mínima de 5ºC durante, pelo menos, quarenta e cinco minutos.\n\n4 - O sémen destinado às trocas intracomunitárias deve:\n\na) Ser armazenado em condições aprovadas durante um período mínimo de 30 dias antes da expedição, não se aplicando esta exigência ao sémen fresco;\n\nb) Ser transportado para o Estado membro de destino em recipientes limpos e desinfectados ou esterilizados antes de serem usados e selados e numerados antes de serem expedidos das instalações de armazenagem aprovadas."
+  },
+  "dd182e754c99ac14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO D — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)"
+  },
+  "d7caa3146aa6e957": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO E — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)"
+  },
+  "7302ae45fe0e844a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Centros de colheita e armazenagem",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+   ],
+   "markdown": "###### Artigo 6.º — Centros de colheita e armazenagem\n\n1 - O exercício da actividade pelos centros de colheitas de sémen depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.\n\n2 - A aprovação prevista no número anterior só é concedida se o centro de colheita de sémen respeitar as condições previstas no presente decreto-lei e no Decreto-Lei n.º 214/2008, de 10 de Novembro, bem como as condições previstas no anexo A ao presente diploma.\n\n3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixe de ser cumprida alguma das condições legalmente exigidas.\n\n4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos centros de colheita de sémen.\n\n5 - Aos centros de colheita de sémen é atribuído um número de registo veterinário e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+  },
+  "ae936e7be05377c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Centros de colheita e armazenagem de países terceiros",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+   ],
+   "markdown": "###### Artigo 11.º — Centros de colheita e armazenagem de países terceiros\n\nSó é autorizada a importação de sémen proveniente de centros de colheita ou armazenagem de sémen situados num dos países terceiros constantes da lista referida no artigo anterior, quando a autoridade competente do país terceiro garanta que esses centros de colheita ou de armazenagem de sémen satisfazem as seguintes condições:\n\na) Cumprimento das condições de aprovação estabelecidas no capítulo i do anexo A ao presente diploma;\n\nb) Cumprimento das condições de fiscalização previstas no capítulo ii do anexo A ao presente diploma;\n\nc) Tenham sido aprovados pelas autoridades competentes dos países terceiros para a Comunidade;\n\nd) Sejam colocados sob a fiscalização de um veterinário do centro;\n\ne) Sejam inspeccionados, pelo menos, duas vezes por ano por veterinários oficiais do país terceiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+  },
+  "bd6fa817f4e0583e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Controlos veterinários",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+   ],
+   "markdown": "###### Artigo 14.º — Controlos veterinários\n\nAs normas estabelecidas no Decreto-Lei n.º 210/2000, de 2 de Setembro, alterado pelo Decreto-Lei n.º 236/2007, de 19 de Junho, aplicam-se à organização e à sequência a dar aos controlos a efectuar, assim como às medidas de salvaguarda a aplicar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+  }
+ }
+}

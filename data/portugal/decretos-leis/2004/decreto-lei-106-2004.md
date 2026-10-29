@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-05-08'
+version_history:
+  file: decreto-lei-106-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-08'
+    amending: pt:dre:553057:por
+    amending_title: Lei n.º 18/2012
+    changes:
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/106/2004/05/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:43:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 18/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-106-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -313,13 +328,9 @@ O modelo dos certificados a emitir para os navios nacionais, abrangidos por este
 
 ###### Artigo 15.º — Acidentes marítimos
 
-1 - A investigação técnica de acidentes que envolvam navios abrangidos pelo presente diploma é da competência do IPTM.
+(Revogado.)
 
-2 - O IPTM dará a conhecer à OMI os relatórios dos acidentes, bem como os relatórios que possam contribuir para melhorar as regras da Convenção.
-
-3 - Os relatórios técnicos dos acidentes não podem ser utilizados para imputar responsabilidades, tanto às companhias dos navios acidentados, como às pessoas envolvidas.
-
-4 - A companhia ou o comandante deve informar o IPTM, de imediato, da ocorrência de qualquer acidente com os seus navios.
+> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07.
 
 ###### Artigo 16.º — Inspecções de controlo de navios nacionais
 

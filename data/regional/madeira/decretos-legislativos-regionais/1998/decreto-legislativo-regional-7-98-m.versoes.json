@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176345:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1acd1fac29679fba",
+    "0c0262b3c828f6b9",
+    "639986de3b2ec6d6",
+    "9ea9e6242c1e3c1e",
+    "b780c59a9051a107",
+    "b81cead34b124ea3",
+    "b90de869003bd3b1",
+    "c54e898ded70d127",
+    "54edd3b1ea8c158d"
+   ]
+  },
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72991305:por",
+     "title": "Decreto Legislativo Regional n.º 17/2015/M",
+     "published": "2015-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2015-72991305"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1acd1fac29679fba",
+    "0c0262b3c828f6b9",
+    "639986de3b2ec6d6",
+    "9ea9e6242c1e3c1e",
+    "b780c59a9051a107",
+    "4ebe124aff0d5ff9",
+    "987b9db14594e1f2",
+    "c54e898ded70d127",
+    "54edd3b1ea8c158d"
+   ]
+  }
+ ],
+ "fragments": {
+  "1acd1fac29679fba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Define o regime jurídico dos coordenadores regionais de modalidade e concelhios da área disciplinar de Expressão e Educação Físico-Motora do 1.º ciclo do ensino básico e desporto escolar em todos os níveis de ensino.\n\nCom o objectivo de implementar e coordenar a área disciplinar de Expressão e Educação Físico-Motora no 1.º ciclo do ensino básico, bem como o desporto escolar em todos os níveis de ensino, foram criados os cargos de coordenadores regionais e coordenadores concelhios através do [Decreto Regulamentar Regional n.º 15/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1991-676795), de 19 de Agosto, mais tarde alterado pelo [Decreto Regulamentar Regional n.º 15/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1995-529982), de 24 de Maio.\n\nConsiderando a importância e o sucesso que tais actividades têm na Região Autónoma da Madeira, como importante contributo na formação integral da nossa juventude, importa agora criar o cargo de coordenador de modalidade, bem como adaptar à realidade actual os cargos de coordenadores regionais e concelhios.\n\nConsiderando ainda que, face às responsabilidades acrescidas e às particularidades específicas da prestação de trabalho, se justifica uma reavaliação dos suplementos de natureza remuneratória existentes para os coordenadores regionais e concelhios e a criação de incentivos de igual natureza para os coordenadores de modalidade:\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição e nas alíneas c) do n.º 1 do artigo 29.º e o) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:"
+  },
+  "0c0262b3c828f6b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma define o regime jurídico dos coordenadores regionais, de modalidade e concelhios da área disciplinar de Expressão e Educação Físico-Motora do 1.º ciclo do ensino básico e desporto escolar em todos os níveis de ensino."
+  },
+  "639986de3b2ec6d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A área disciplinar de Expressão e Educação Físico-Motora do 1.º ciclo do ensino básico e o desporto escolar em todos os níveis de ensino são articulados e orientados por quatro coordenadores regionais.\n\n2 - Os cargos de coordenadores regionais devem ser desempenhados por professores licenciados em Educação Física e Desporto.\n\n3 - Compete aos coordenadores regionais:\n\na) Orientar e acompanhar a actividade curricular do 1.º ciclo do ensino básico e extracurricular de todos os níveis de ensino;\n\nb) Programar e propor acções de formação para os coordenadores concelhios e professores do 1.º ciclo do ensino básico na área de Expressão e Educação Físico-Motora, bem como para os professores que desenvolvam a sua actividade na área do desporto escolar;\n\nc) Propor o apetrechamento em material desportivo das escolas do 1.º ciclo do ensino básico, por forma a ser garantido todo o processo de ensino/aprendizagem;\n\nd) Reunir ou elaborar a documentação necessária ao apoio dos docentes;\n\ne) Planear e propor superiormente todo o quadro competitivo regional dos diferentes graus de ensino no âmbito do desporto escolar;\n\nf) Propor superiormente os critérios de participação das escolas e alunos da Região Autónoma da Madeira no quadro competitivo nacional."
+  },
+  "9ea9e6242c1e3c1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os cargos de coordenadores de modalidade devem ser desempenhados por professores licenciados em Educação Física e Desporto.\n\n2 - Compete aos coordenadores de modalidade:\n\na) Orientar e acompanhar toda a actividade curricular do 1.º ciclo do ensino básico e extracurricular de todos os níveis de ensino na sua modalidade;\n\nb) Apoiar os coordenadores regionais no exercício das suas funções."
+  },
+  "b780c59a9051a107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os cargos de coordenadores concelhios do 1.º ciclo do ensino básico devem ser desempenhados por professores licenciados em Educação Física e Desporto, podendo também ser desempenhados por professores habilitados para o respectivo grau de ensino.\n\n2 - Compete ao coordenador concelhio:\n\na) Fazer cumprir junto das escolas toda a orientação superiormente definida;\n\nb) Apoiar os docentes nas actividades curriculares;\n\nc) Dinamizar e coordenar as actividades no âmbito do desporto escolar a nível da escola e do concelho;\n\nd) Colaborar nas experiências pedagógicas que se realizem nas escolas da sua zona;\n\ne) Participar e colaborar em todo o quadro competitivo regional para este nível de ensino."
+  },
+  "b81cead34b124ea3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25% e 15% do vencimento a que tiverem direito, respectivamente, durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano."
+  },
+  "b90de869003bd3b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios são nomeados pelo Secretário Regional de Educação, precedido de um processo de recrutamento e selecção assente na avaliação curricular e entrevista profissional com requisitos previamente publicados.\n\n2 - O exercício de funções dos coordenadores regionais, coordenadores de modalidade e coordenadores concelhios é fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado."
+  },
+  "c54e898ded70d127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma revoga os Decreto Regulamentares Regionais n.os 15/91/M, de 19 de Agosto, e 15/95/M, de 24 de Maio."
+  },
+  "54edd3b1ea8c158d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEste diploma produz efeitos desde 1 de Setembro de 1997.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Março de 1998.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 2 de Abril de 1998.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "4ebe124aff0d5ff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25 % e 15 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, respetivamente, durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.\n\n> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "987b9db14594e1f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, são designados por despacho do Secretário Regional da Educação.\n\n2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.\n\n3 - O número de coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, é fixado por despacho do Secretário Regional da Educação.\n\n> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  }
+ }
+}

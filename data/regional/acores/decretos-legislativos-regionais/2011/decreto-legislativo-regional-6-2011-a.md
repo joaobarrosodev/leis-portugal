@@ -38,10 +38,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-06-27'
+version_history:
+  file: decreto-legislativo-regional-6-2011-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-06-27'
+    amending: pt:dre:178495:por
+    amending_title: Decreto Legislativo Regional n.º 29/2012/A
+    changes:
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 46.º
+    - Altera Artigo 56.º
+    - Adita Artigo 27.º-A
+    - Adita Artigo 27.º-B
+    - Adita Artigo 27.º-C
+    - Adita Artigo 27.º-D
+    - Adita Artigo 27.º-E
+    - Adita Artigo 27.º-F
+    - Adita Artigo 27.º-G
+    - Adita Artigo 27.º-H
+    - Adita Artigo 27.º-I
+    - Adita Artigo 27.º-J
+    - Adita Artigo 27.º-K
+    - Adita Artigo 27.º-L
+    - Adita Artigo 27.º-M
+    - Adita Artigo 27.º-N
+    - Adita Artigo 27.º-O
+    - Adita Artigo 27.º-P
+    - Adita Artigo 27.º-Q
+    - Adita Artigo 27.º-R
+    - Adita Artigo 27.º-S
+    - Adita Artigo 27.º-T
+    - Adita Artigo 27.º-U
+    - Adita Artigo 27.º-V
+    - Adita Artigo 27.º-W
+    - Adita Artigo 27.º-X
+    - Adita Artigo 27.º-Y
+    - Adita Artigo 27.º-Z
+    - Adita Artigo 31.º-A
+    - Adita Artigo 31.º-B
+    - Adita Artigo 31.º-C
+    - Adita Artigo 31.º-D
+    - Adita Artigo 31.º-E
+    - Adita Artigo 31.º-F
+    - Adita Artigo 31.º-G
+    - Adita Artigo 31.º-H
+    - Adita Artigo 31.º-I
+    - Adita Artigo 31.º-J
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/6/2011/03/10/a/dre/pt/html
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/2012/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2011/decreto-legislativo-regional-6-2011-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -348,9 +402,365 @@ A cessação da função de director técnico deve ser comunicada à Direcção 
 
 4 - A alteração da propriedade ou a transferência da localização da farmácia dependem de averbamento no alvará.
 
-###### Artigo 27.º — Condições gerais de abertura e transferência
+###### Artigo 27.º — Condições gerais e específicas de abertura e transferência
 
-As condições gerais e específicas de instalação, abertura e transferência de farmácias são definidas por decreto regulamentar regional, no prazo de 90 dias, a contar da publicação do presente diploma.
+1 - A abertura de novas farmácias obedece às seguintes condições cumulativas:
+
+a) Capitação mínima de 3500 habitantes por farmácia aberta ao público no município, com exceção das ilhas com um só município e uma só farmácia, em que a capitação mínima é de 2500 habitantes por farmácia, salvaguardando-se sempre a possibilidade de duas farmácias por ilha;
+
+b) Distância mínima de 250 m entre farmácias, contados, em linha reta, dos limites exteriores das farmácias;
+
+c) Distância mínima de 250 m entre a farmácia e uma extensão de saúde, um centro de saúde ou um estabelecimento hospitalar, contados, em linha reta, dos respetivos limites exteriores, salvo em localidades com menos de 3000 habitantes.
+
+2 - A transferência de farmácia no município depende do preenchimento cumulativo das alíneas b) e c) do número anterior.
+
+3 - A distância prevista na alínea b) do n.º 1 aplica-se também à abertura ou transferência de farmácia em relação a farmácia situada em município limítrofe.
+
+4 - A determinação do número de habitantes é feita em função dos dados mais recentes disponibilizados pelo Serviço Regional de Estatística dos Açores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-A — Concurso
+
+1 - O departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de concurso para a instalação de uma nova farmácia quando se verifiquem os requisitos previstos no artigo anterior e o interesse público na acessibilidade dos cidadãos à dispensa de medicamentos derivado de uma melhor cobertura farmacêutica o justifique.
+
+2 - Os centros de saúde, as unidades de saúde de ilha ou as autarquias locais têm legitimidade para requerer ao departamento da administração regional autónoma competente em matéria de saúde a abertura do procedimento concursal.
+
+3 - O requerimento referido no número anterior é instruído com a demonstração do preenchimento dos requisitos previstos no artigo anterior e no n.º 1 do presente artigo.
+
+4 - O pedido é devidamente apreciado pelo departamento da administração regional autónoma competente em matéria de saúde, que decide fundamentadamente, comunicando a sua posição à entidade requerente.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-B — Aviso de abertura
+
+1 - O aviso de abertura de concurso é publicitado no Jornal Oficial e divulgado na área destinada à saúde em Portal do Governo Regional dos Açores.
+
+2 - O aviso de abertura de concurso indica:
+
+a) O município ou zona do município onde pode ser instalada a farmácia;
+
+b) A data limite para a apresentação das candidaturas;
+
+c) A forma de apresentação das candidaturas;
+
+d) Os termos de prestação da caução;
+
+e) A constituição do júri.
+
+3 - A data fixada para a apresentação das candidaturas não pode ser superior a vinte dias a contar da publicação no Jornal Oficial do aviso de abertura do concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-C — Júri
+
+1 - A constituição do júri do concurso consta do aviso de abertura, pelo que é designado anteriormente à publicação deste aviso, por despacho do membro do Governo Regional competente na área da saúde, respeitando a seguinte composição:
+
+a) Um presidente, que é o diretor do departamento da administração regional autónoma competente em matéria de saúde ou a entidade em quem este delegue;
+
+b) Dois vogais, um dos quais proposto pela Ordem dos Farmacêuticos.
+
+2 - O despacho a que se refere o número anterior designa dois vogais suplentes.
+
+3 - O presidente do júri é substituído, nas suas faltas e impedimentos, pelo vogal efetivo designado no despacho constitutivo do mesmo.
+
+4 - O júri supervisiona todas as fases do concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-D — Funcionamento do júri
+
+1 - O júri só funciona com a presença de todos os seus membros, sendo as respetivas deliberações tomadas por maioria.
+
+2 - O júri é secretariado pelo vogal designado pelo presidente, competindo-lhe lavrar as atas das reuniões efetuadas, das quais constam os fundamentos das decisões tomadas.
+
+3 - O acesso às atas faz-se nos termos do disposto na legislação em vigor relativa ao acesso aos documentos administrativos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-E — Concorrentes
+
+1 - Podem ser opositores ao concurso as pessoas singulares ou coletivas que reúnam os requisitos legais para serem proprietárias de farmácias.
+
+2 - Um concorrente não pode ser opositor ao mesmo concurso, simultaneamente, a título individual e em sociedade em que detenha posição maioritária.
+
+3 - Um concorrente pode concorrer, a título individual ou em sociedade, simultaneamente a mais do que um concurso, sendo, no entanto, obrigado a desistir dos restantes concursos em que tenha concorrido individualmente ou em sociedade em que detenha posição maioritária quando prestar a caução prevista no artigo 27.º-K.
+
+4 - O concorrente graduado em primeiro lugar e que já tenha prestado caução não pode ser opositor a qualquer outro concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-F — Apresentação da candidatura
+
+Os concorrentes, no momento da apresentação da candidatura, com exceção dos candidatos à instalação por transferência, entregam os seguintes documentos:
+
+a) Fotocópia do respetivo documento de identificação, no caso de se tratar de uma pessoa singular, ou fotocópia do contrato de sociedade e certidão do registo comercial, no caso de se tratar de uma sociedade comercial;
+
+b) Fotocópia da cédula profissional da Ordem dos Farmacêuticos, se aplicável;
+
+c) Declaração do horário que pretende praticar e dos serviços farmacêuticos que pretende prestar;
+
+d) Declaração sobre a entrega de medicamentos ao domicílio, sobre a venda de medicamentos através da Internet e sobre a adesão à venda de medicamentos em unidose;
+
+e) Declaração do número de farmácias e de laboratórios de análises clínicas de que o concorrente tenha a propriedade ou copropriedade, direta ou indiretamente, e respetiva identificação;
+
+f) Declaração de incompatibilidades;
+
+g) Declaração da intenção de instalar a farmácia no município ou zona de município indicado no aviso de abertura do concurso;
+
+h) Fotocópia do cartão de contribuinte de pessoa singular ou coletiva;
+
+i) Declaração emitida pela administração fiscal que ateste o número de anos de permanência no domicílio fiscal, e ou outro meio comprovativo da residência habitual e efetiva.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-G — Seleção dos concorrentes
+
+1 - O júri, no prazo de 20 dias a contar da data limite para a apresentação das candidaturas, procede à seleção dos concorrentes.
+
+2 - São liminarmente excluídos os concorrentes que:
+
+a) Não cumpram os requisitos legais da propriedade de farmácia;
+
+b) Pretendam instalar farmácia em município ou zona de município diferente do previsto no aviso de abertura do concurso;
+
+c) Apresentem a candidatura após a data limite referida no aviso de abertura do concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-H — Graduação dos concorrentes
+
+1 - O júri gradua, por ordem decrescente, os concorrentes admitidos com base nos seguintes critérios:
+
+a) Horário semanal proposto igual ou superior a 55 horas - 70 pontos;
+
+b) Não ser proprietário ou coproprietário de farmácia ou de laboratório de análises clínicas há pelo menos um ano - 65 pontos;
+
+c) Adesão ao sistema de dispensa de medicamentos em unidose - 60 pontos;
+
+d) Entrega de medicamentos ao domicílio - 55 pontos;
+
+e) Venda de medicamentos através da Internet - 50 pontos;
+
+f) Licenciatura conferida por instituição de ensino superior universitário na área das ciências farmacêuticas e inscrição na Ordem dos Farmacêuticos - 40 pontos;
+
+g) Residência habitual e efetiva no município onde irá ser instalada a farmácia, ou em município limítrofe, devidamente comprovada - 1 ponto por cada ano completo, até ao limite máximo de 35 pontos;
+
+h) Residência habitual e efetiva na ilha onde irá ser instalada a farmácia, devidamente comprovada - 0,5 pontos por cada ano completo, até ao limite máximo de 20 pontos;
+
+i) Residência habitual e efetiva na Região, devidamente comprovada - 0,25 pontos por cada ano completo, até ao limite máximo de 10 pontos;
+
+j) Serviços farmacêuticos que se propõe prestar, nos termos do artigo 37.º-A - 4 pontos por cada serviço a disponibilizar.
+
+2 - O não cumprimento dos requisitos previstos nas alíneas a), c), d), e) e j) do número anterior implica a caducidade do alvará da farmácia.
+
+3 - Os critérios previstos nas alíneas g), h) e i) do n.º 1 pressupõem a permanência efetiva na Região, a residência atual na Região há pelo menos um ano e são considerados cumulativamente, não podendo no conjunto ultrapassar os 35 pontos.
+
+4 - No caso de sociedade que seja constituída por dois ou mais sócios, a pontuação referida no n.º 1 será a que resultar da média aritmética da pontuação de cada um dos sócios, ponderada pelas respetivas quotas.
+
+5 - Caso se verifique empate entre os concorrentes graduados, será dada preferência a quem tiver melhor pontuação nos critérios enunciados no n.º 1, apreciados alínea a alínea até ao desempate, considerando-se, no caso de se aplicar a alínea f) do n.º 1, a mais elevada nota de licenciatura.
+
+6 - Caso se mantenha empate, será efetuado um ato público de sorteio, na data, hora e local, previamente notificado aos mesmos.
+
+7 - O sorteio é realizado com recurso a um sistema eletrónico, mecânico ou eletromecânico que garanta a total aleatoriedade do resultado.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-I — Homologação
+
+1 - A lista dos concorrentes admitidos e graduados é homologada por despacho do membro do Governo Regional competente em matéria de saúde, ou, por delegação sua, pelo diretor do departamento da administração regional autónoma competente em matéria de saúde.
+
+2 - A lista referida no número anterior é publicada no Jornal Oficial e divulgada na área destinada à saúde em Portal do Governo Regional dos Açores.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-J — Notificação
+
+1 - O júri notifica o concorrente graduado em primeiro lugar no prazo de cinco dias a contar da publicação da lista no Jornal Oficial.
+
+2 - Da notificação prevista no número anterior devem constar os prazos para a prestação de caução e para a entrega dos documentos referidos no artigo 27.º-L.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-K — Caução
+
+1 - O concorrente graduado em primeiro lugar presta uma caução no valor de (euro) 25 000, no prazo de 15 dias a contar da respetiva notificação.
+
+2 - A caução pode ser prestada por depósito em dinheiro ou mediante garantia bancária autónoma, à primeira solicitação, nos termos definidos no aviso de abertura do concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-L — Documentos
+
+O concorrente graduado em primeiro lugar dispõe do prazo de 150 dias úteis a contar da respetiva notificação para apresentar ao departamento da administração regional autónoma competente em matéria de saúde os seguintes documentos:
+
+a) Planta de localização da farmácia, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote ou de indicação do prédio com projeto de construção licenciado, ou dele dispensado, que represente a área envolvente da farmácia numa distância de 250 m contada dos limites exteriores da farmácia;
+
+b) Certidão camarária de preenchimento dos requisitos respeitantes à distância previstos no n.º 1 do artigo 27.º;
+
+c) Identificação do diretor técnico e do restante pessoal, declaração da Ordem dos Farmacêuticos da inscrição do farmacêutico ou farmacêuticos que irão exercer na farmácia, bem como respetivas certidões do registo criminal;
+
+d) Memória descritiva da farmácia, incluindo a descrição das instalações, das divisões e das respetivas áreas;
+
+e) Pedido de aprovação da designação da farmácia, com indicação sucessiva e preferencial de três designações.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-M — Não apresentação dos documentos
+
+1 - Se o concorrente graduado em primeiro lugar não proceder à apresentação dos documentos mencionados no artigo anterior no prazo indicado é excluído e substituído pelo concorrente graduado em segundo lugar, e assim sucessivamente até ao último concorrente admitido, tudo se processando como se se tratasse do primeiro, designadamente para efeitos de entrega de documentos.
+
+2 - Se o último concorrente graduado não proceder à apresentação dos documentos mencionados no artigo anterior no prazo indicado é excluído e o departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de novo concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-N — Análise dos documentos
+
+1 - O júri analisa os documentos referidos no artigo 27.º-L no prazo de 15 dias a contar da data limite para a respetiva apresentação e decide sobre a aptidão ou inaptidão do local, do espaço e do quadro farmacêutico para a abertura ao público de uma farmácia.
+
+2 - Se o júri decidir pela inaptidão do local, do espaço ou do quadro farmacêutico para a abertura ao público de uma farmácia, aplica-se o disposto no artigo anterior.
+
+3 - A decisão final do júri é homologada por despacho do membro do Governo Regional competente em matéria de saúde, no prazo de 15 dias.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-O — Perda de caução
+
+O não cumprimento, por factos imputáveis ao interessado, do disposto no artigo 27.º-L, ou a decisão de inaptidão do local, do espaço e do mapa de pessoal para abertura da farmácia em concurso, implica a perda a favor da Região Autónoma dos Açores de metade do valor da caução prestada.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-P — Concorrente selecionado
+
+1 - O departamento da administração regional autónoma competente em matéria de saúde, no prazo de cinco dias a contar da homologação da decisão final do júri, prevista no n.º 3 do artigo 27.º-N, notifica o concorrente selecionado do prazo de instalação da farmácia e da decisão sobre a designação da farmácia.
+
+2 - Em simultâneo com a notificação referida no número anterior, o departamento da administração regional autónoma competente em matéria de saúde devolve a caução prestada nos termos do artigo 27.º-K
+
+3 - Caso o departamento da administração regional autónoma competente em matéria de saúde não aprove nenhuma das designações da farmácia propostas pelo concorrente, este deve, no prazo de 10 dias, apresentar um novo pedido.
+
+4 - O departamento da administração regional autónoma competente em matéria de saúde decide no prazo de 10 dias sobre o novo pedido.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-Q — Instalação
+
+1 - A instalação da farmácia compreende a dotação de pessoal e o cumprimento das normas relativas às divisões e áreas mínimas, conforme o disposto na portaria respetiva.
+
+2 - O concorrente selecionado dispõe do prazo de um ano para instalar a farmácia e solicitar a vistoria, contado da notificação referida no n.º 1 do artigo anterior.
+
+3 - O departamento da administração regional autónoma competente em matéria de saúde pode, em casos devidamente justificados no aviso de abertura do concurso, fixar um prazo mais curto para a instalação da farmácia.
+
+4 - O departamento da administração regional autónoma competente em matéria de saúde pode prorrogar o prazo referido no n.º 2 por período não superior a 150 dias úteis, mediante requerimento, devidamente fundamentado, do concorrente selecionado.
+
+5 - Os prazos referidos nos n.os 2 a 4 suspendem-se pela apresentação do primeiro pedido de vistoria à farmácia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-R — Vistoria e alvará
+
+1 - Terminada a instalação da farmácia, o concorrente selecionado requer ao departamento da administração regional autónoma competente em matéria de saúde, dentro dos prazos referidos no artigo 27.º-Q, a realização da vistoria.
+
+2 - Decorridos os prazos referidos no n.º 1 sem que seja requerida a vistoria à farmácia, cessa o direito de o concorrente selecionado proceder à instalação e o departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de novo concurso.
+
+3 - O departamento da administração regional autónoma competente em matéria de saúde dispõe do prazo de 30 dias para realizar a vistoria requerida.
+
+4 - Se o departamento da administração regional autónoma competente em matéria de saúde considerar que a farmácia cumpre as normas legais e regulamentares, emite o alvará da farmácia no prazo de 10 dias a contar da realização da vistoria.
+
+5 - Se o departamento da administração regional autónoma competente em matéria de saúde considerar que a farmácia não cumpre as normas legais e regulamentares, o prazo para a instalação reinicia-se, dispondo o concorrente da diferença entre o prazo total e aquele decorrido até ao primeiro pedido de vistoria.
+
+6 - A farmácia deve abrir ao público no prazo de 15 dias úteis a contar da emissão do alvará.
+
+7 - Decorrido o prazo referido no número anterior sem que a farmácia abra ao público, cessa o direito de a abrir e o departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de novo concurso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-S — Transferência
+
+1 - O departamento da administração regional autónoma competente em matéria de saúde pode autorizar o proprietário a transferir a localização da farmácia dentro do mesmo município, desde que observadas as condições de funcionamento e os requisitos legalmente previstos.
+
+2 - O proprietário de farmácia não pode requerer a transferência da sua localização antes de decorrido um período de cinco anos a contar da data da respetiva abertura na sequência de concurso ou de transformação de posto de medicamentos em farmácia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-T — Pedido de transferência
+
+O proprietário de farmácia que pretenda transferi-la dentro do mesmo município deve apresentar um pedido ao departamento da administração regional autónoma competente em matéria de saúde, instruído com os seguintes documentos:
+
+a) Fotocópia do respetivo documento de identificação, no caso de se tratar de uma pessoa singular, ou fotocópia do contrato de sociedade e certidão do registo comercial, no caso de se tratar de uma sociedade comercial;
+
+b) Identificação da farmácia a transferir, incluindo o nome da rua e o número de polícia ou lote;
+
+c) Planta de localização do edifício ou fração para onde se pretende a transferência, à escala de 1:2000, incluindo o nome da rua e o número de polícia, de lote, ou de indicação do prédio com projeto de construção licenciado ou dele dispensado, que represente a área envolvente da farmácia numa distância de 250 m contada dos limites exteriores da farmácia;
+
+d) Certidão camarária de preenchimento dos requisitos respeitantes à distância previstos nas alíneas b) e c) do n.º 1 do artigo 27.º;
+
+e) Identificação do diretor técnico e da restante dotação de pessoal;
+
+f) Memória descritiva do edifício ou fração para onde se pretende a transferência, incluindo a descrição das instalações, das divisões e das respetivas áreas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-U — Decisão de aptidão
+
+O departamento da administração regional autónoma competente em matéria de saúde analisa os documentos referidos no artigo anterior, decide, no prazo de 30 dias a contar da respetiva apresentação, sobre a aptidão ou inaptidão do local, do espaço e da dotação de pessoal para a abertura ao público da nova farmácia e notifica o proprietário da farmácia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-V — Inaptidão do local
+
+1 - O departamento da administração regional autónoma competente em matéria de saúde decide pela inaptidão do local para a nova localização da farmácia quando:
+
+a) Não preencha os requisitos previstos nas alíneas b) e c) do n.º 1 do artigo 27.º, bem como o critério de interesse público estabelecido na parte final do n.º 1 do artigo 27.º-A;
+
+b) O edifício ou fração para onde se pretende a transferência não disponha das áreas mínimas exigidas;
+
+c) O pedido de transferência seja apresentado em dia posterior a outro pedido e as novas localizações das farmácias distem menos de 250 m entre si.
+
+2 - A decisão de inaptidão do local com fundamento na alínea c) do número anterior pressupõe uma decisão de aptidão do pedido apresentado em primeiro lugar.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-W — Pedidos conflituantes
+
+1 - Os pedidos são conflituantes quando reúnam, cumulativamente, os seguintes requisitos:
+
+a) Sejam apresentados no mesmo dia;
+
+b) Sejam objeto de decisão de aptidão;
+
+c) As novas localizações das farmácias distem menos de 250 m entre si.
+
+2 - De entre os pedidos conflituantes, o departamento da administração regional autónoma competente em matéria de saúde seleciona um através de sorteio.
+
+3 - O departamento da administração regional autónoma competente em matéria de saúde notifica os proprietários das farmácias que apresentem pedidos conflituantes da data, da hora e do local da realização do sorteio.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-X — Vistoria e averbamento
+
+1 - O proprietário da farmácia deve requerer ao departamento da administração regional autónoma competente em matéria de saúde a realização de uma vistoria às novas instalações, no prazo de um ano a contar da decisão de aptidão referida no artigo 27.º-U ou da seleção referida no artigo anterior.
+
+2 - O departamento da administração regional autónoma competente em matéria de saúde pode prorrogar o prazo referido no número anterior, por período até um ano, mediante requerimento, devidamente fundamentado, do concorrente selecionado.
+
+3 - O departamento da administração regional autónoma competente em matéria de saúde dispõe do prazo de 30 dias para realizar a vistoria requerida.
+
+4 - Se o departamento da administração regional autónoma competente em matéria de saúde considerar que a farmácia cumpre as normas legais e regulamentares, averba a nova localização da farmácia no respetivo alvará.
+
+5 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias úteis a contar do averbamento da nova localização no alvará.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-Y — Encerramento
+
+O proprietário da farmácia pode encerrar a farmácia a transferir a partir do pedido de vistoria referido no n.º 1 do artigo 27.º-X, pelo período que se considerar necessário, para efeitos de reinstalação no novo local.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 27.º-Z — Impossibilidade de transferência e de instalação
+
+Desde a decisão de aptidão, prevista no artigo 27.º-U, até ao termo do prazo para abrir a farmácia ao público, são indeferidas, por inaptidão do local para a abertura ao público, a transferência e a instalação de novas farmácias que, em relação à nova localização da farmácia que se pretende transferir, conduzam à violação das regras da distância previstas nas alíneas b) e c) do n.º 1 do artigo 27.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ### CAPÍTULO VI — Funcionamento da farmácia
 
@@ -388,7 +798,113 @@ d) Instalações sanitárias.
 
 ###### Artigo 31.º — Horário de funcionamento
 
-O horário de funcionamento das farmácias abrange os períodos de funcionamento, diário e semanal, e os turnos de serviço permanente, de regime de reforço e de regime de disponibilidade, regulados por legislação específica.
+1 - O horário de funcionamento das farmácias abrange os períodos de funcionamento diário e semanal e os turnos de serviço permanente, de regime de reforço e de regime de disponibilidade, nos termos da legislação em vigor.
+
+2 - O proprietário da farmácia deve assegurar o cumprimento do horário de funcionamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-A — Período de funcionamento
+
+1 - O período de funcionamento semanal das farmácias de oficina que não façam turnos de regime de disponibilidade tem o limite mínimo de 50 horas.
+
+2 - O período de funcionamento semanal das farmácias de oficina em turno de regime de disponibilidade tem o limite mínimo de 44 horas.
+
+3 - As farmácias de oficina podem fixar um período de funcionamento diário que lhes permita estar abertas 24 horas por dia, todos os dias da semana.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-B — Fixação dos períodos de funcionamento
+
+O proprietário da farmácia fixa livremente os períodos de funcionamento diário e semanal, sem prejuízo do disposto nos artigos anteriores.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-C — Comunicação
+
+1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia ao departamento da administração regional autónoma competente em matéria de saúde.
+
+2 - Os períodos de funcionamento devem manter-se inalterados, no mínimo durante seis meses, salvo motivos de força maior, devidamente justificados.
+
+3 - Sem prejuízo do disposto no número anterior, o proprietário da farmácia comunica ao departamento da administração regional autónoma competente em matéria de saúde qualquer alteração dos períodos de funcionamento, com a antecedência mínima de 30 dias.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-D — Divulgação
+
+1 - O horário de funcionamento é afixado na farmácia, de forma visível.
+
+2 - O horário de funcionamento das farmácias de oficina é divulgado pelo departamento da administração regional autónoma competente em matéria de saúde no Portal do Governo Regional dos Açores e no Portal da Saúde e pelas unidades de saúde do Serviço Regional de Saúde, nas suas instalações em local acessível ao público.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-E — Turno de serviço permanente
+
+A farmácia de turno de serviço permanente mantém-se em funcionamento, ininterruptamente, desde a hora de abertura até à hora de encerramento do dia seguinte.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-F — Turno de regime de reforço
+
+A farmácia de turno de regime de reforço mantém-se em funcionamento até às 22 horas, sem prejuízo de encerramento à hora de almoço quando o período de funcionamento definido o preveja.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-G — Turno de regime de disponibilidade
+
+A farmácia de turno de regime de disponibilidade tem de assegurar que um farmacêutico, um técnico ou um técnico auxiliar de farmácia está disponível para atender o público que o solicite, em caso de urgência.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-H — Farmácias de turno
+
+1 - Nos municípios com menos de 20 000 habitantes tem de existir sempre uma farmácia de turno de regime de disponibilidade entre a hora de encerramento normal e a hora de abertura normal do dia seguinte.
+
+2 - Nas situações previstas no número anterior, caso exista apenas uma farmácia no município e exista outra farmácia a menos de 3 km, podem ser organizadas escalas de turnos de regime de disponibilidade entre ambas.
+
+3 - Nos municípios com mais de 20 000 habitantes ou com serviço de urgência hospitalar tem de existir sempre uma farmácia de turno de serviço permanente.
+
+4 - Nos municípios com mais de 50 000 habitantes tem de existir sempre uma farmácia de turno de serviço permanente e uma farmácia de turno de regime de reforço pelo menos até às 22 horas.
+
+5 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Serviço Regional de Estatística dos Açores.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-I — Regime de dispensa
+
+1 - O funcionamento da farmácia por turnos é insuscetível de originar qualquer acréscimo de pagamento nos medicamentos sujeitos a receita médica dispensados.
+
+2 - Nas situações não compreendidas no número anterior, o funcionamento da farmácia por turnos pode originar um acréscimo no pagamento cujo valor máximo é fixado por portaria do membro do Governo Regional competente em matéria de saúde.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-J — Escalas de turnos
+
+As escalas de turnos são aprovadas pelo departamento da administração regional autónoma competente em matéria de saúde, sob proposta das associações representativas das farmácias.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-K — Aprovação
+
+1 - As associações representativas das farmácias propõem ao departamento da administração regional autónoma competente em matéria de saúde durante o mês de outubro as escalas de turnos de serviço permanente, de regime de reforço e de regime de disponibilidade, adiante designadas por escalas de turnos, para o ano seguinte.
+
+2 - O departamento da administração regional autónoma competente em matéria de saúde aprova, até ao dia 15 de novembro, as escalas de turnos para o ano seguinte.
+
+3 - O departamento da administração regional autónoma competente em matéria de saúde envia às associações representativas das farmácias e às farmácias, até ao dia 30 de novembro, as escalas de turnos aprovadas para o ano seguinte.
+
+4 - As escalas de turnos são aprovadas anualmente.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 31.º-L — Execução
+
+1 - As farmácias devem cumprir as escalas de turnos aprovadas pelo departamento da administração regional autónoma competente em matéria de saúde.
+
+2 - As farmácias de turno de serviço permanente ou de turno de regime de reforço podem, a partir da hora de encerramento normal, impedir o acesso do público ao interior da farmácia, desde que disponham de um postigo de atendimento que permita a dispensa de medicamentos ao público.
+
+3 - As farmácias que cumpram escalas de turnos devem dispor de condições adequadas ao funcionamento por turnos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ###### Artigo 32.º — Evicção obrigatória
 
@@ -424,6 +940,54 @@ j) artigos de puericultura;
 
 l) Produtos de conforto.
 
+###### Artigo 34.º-A — Dispensa e entrega de medicamentos ao domicílio
+
+1 - O pedido de dispensa de medicamentos para entrega ao domicílio pode ser feito diretamente nas farmácias ou nos locais de venda de medicamentos não sujeitos a receita médica, através do sítio eletrónico da farmácia ou do local de venda de medicamentos não sujeitos a receita médica, ou através de correio eletrónico, de telefone ou de telefax.
+
+2 - A entrega ao domicílio é feita sob a supervisão de um farmacêutico, no caso de farmácia, ou de farmacêutico ou técnico de farmácia, no caso de local de venda de medicamentos não sujeitos a receita médica, que são responsáveis pela prestação das informações necessárias à adequada utilização dos medicamentos dispensados.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 34.º-B — Condições de entrega de medicamentos ao domicílio
+
+1 - A entrega ao domicílio de medicamentos sujeitos a receita médica observa as disposições legais aplicáveis em relação à obrigatoriedade de apresentação de receita médica.
+
+2 - A entrega de medicamentos ao domicílio só pode ser assegurada pela farmácia ou pelo local de venda de medicamentos não sujeitos a receita médica onde o medicamento é solicitado.
+
+3 - Ao transporte de medicamentos até ao domicílio do utente são aplicáveis, com as devidas adaptações, as regras de transporte previstas nas boas práticas de distribuição de medicamentos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 34.º-C — Sítio na Internet
+
+As farmácias e os locais de venda de medicamentos não sujeitos a receita médica que dispensem medicamentos solicitados através da Internet devem dispor, isoladamente ou em associação, de um sítio eletrónico próprio, onde constem as seguintes informações:
+
+a) Preço dos serviços prestados de dispensa de medicamentos e sua entrega ao domicílio;
+
+b) Formas de pagamento aceites;
+
+c) Área geográfica em que é assegurada a dispensa ao domicílio;
+
+d) Prazo indicativo para a entrega dos medicamentos solicitados;
+
+e) Nome do diretor técnico da farmácia ou do responsável técnico do local de venda de medicamentos não sujeitos a receita médica.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 34.º-D — Comunicação prévia
+
+1 - A dispensa de medicamentos através da Internet nos termos do artigo anterior depende de comunicação prévia ao departamento da administração regional autónoma competente em matéria de saúde do endereço do respetivo sítio.
+
+2 - O departamento da administração regional autónoma competente em matéria de saúde disponibilizará no Portal do Governo Regional dos Açores e no Portal da Saúde a lista dos sítios da Internet comunicados nos termos do número anterior.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 34.º-E — Registo
+
+As farmácias e os estabelecimentos de venda de medicamentos não sujeitos a receita médica devem registar os pedidos de dispensa de medicamentos efetuados nos termos do n.º 1 do artigo 34.º-A, com referência à identificação do medicamento, à quantidade dispensada e ao município de entrega.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
 ###### Artigo 35.º — Conservação e prazo de validade
 
 As farmácias não podem ter produtos em mau estado de conservação nem podem fornecer produtos que excedam o prazo de validade.
@@ -435,6 +999,52 @@ As farmácias devem providenciar, com a brevidade possível, a obtenção dos me
 ###### Artigo 37.º — Serviços farmacêuticos
 
 As farmácias podem prestar serviços farmacêuticos de promoção da saúde e do bem-estar dos utentes.
+
+###### Artigo 37.º-A — Carteira de serviços
+
+As farmácias podem prestar os seguintes serviços farmacêuticos de promoção da saúde e do bem-estar dos utentes:
+
+a) Apoio domiciliário;
+
+b) Administração de primeiros socorros;
+
+c) Administração de medicamentos;
+
+d) Utilização de meios auxiliares de diagnóstico e terapêutica;
+
+e) Administração de vacinas não incluídas no Plano Regional de Vacinação;
+
+f) Programas de cuidados farmacêuticos;
+
+g) Campanhas de informação;
+
+h) Colaboração em programas de educação para a saúde.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 37.º-B — Requisitos para a prestação de serviços
+
+1 - Os serviços referidos no artigo anterior têm de ser prestados nas condições legais e regulamentares e por profissionais legalmente habilitados.
+
+2 - Para a prestação dos serviços previstos nas alíneas b), c), d) e e) do artigo anterior, as farmácias devem dispor de instalações adequadas e autonomizadas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 37.º-C — Informação
+
+1 - As farmácias que prestem serviços farmacêuticos devem divulgar o tipo de serviços e o respetivo preço, de forma visível, nas suas instalações.
+
+2 - As farmácias podem ainda divulgar os preços dos serviços farmacêuticos nos seus sítios na Internet.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 37.º-D — Registo
+
+1 - As farmácias devem registar os serviços farmacêuticos prestados, com referência ao tipo e à quantidade.
+
+2 - A informação referida no número anterior deve ser disponibilizada ao departamento da administração regional autónoma competente em matéria de saúde, sempre que solicitada.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ###### Artigo 38.º — Documentos
 
@@ -496,17 +1106,37 @@ Considera-se posto farmacêutico permanente o estabelecimento destinado à dispe
 
 5 - Os requisitos de funcionamento dos postos farmacêuticos móveis são definidos pelo departamento do Governo Regional competente em matéria de saúde, através de portaria.
 
-###### Artigo 46.º — Transformação de postos farmacêuticos permanentes
+###### Artigo 46.º — Transformação de postos farmacêuticos
 
 1 - Podem ser transformados em farmácias os postos farmacêuticos permanentes que reúnam as respectivas condições de funcionamento.
 
 2 - A abertura de farmácias nos termos do número anterior depende de atribuição prévia de alvará.
 
-3 - O pedido de transformação dos postos farmacêuticos permanentes em farmácias a funcionar no mesmo local pode ocorrer no prazo de 60 dias seguidos a contar da data da entrada em vigor da regulamentação prevista no artigo 27.º do presente diploma.
+3 - O pedido de transformação dos postos farmacêuticos existentes em farmácias a funcionar na mesma localidade pode ocorrer no prazo de 60 dias seguidos a contar da data da entrada em vigor do presente diploma, estando sujeito a autorização do departamento da administração regional autónoma competente em matéria de saúde, na sequência da verificação dos requisitos legalmente exigidos para a instalação, nos termos a fixar por portaria do membro do Governo Regional competente em matéria de saúde.
 
-4 - A proprietária de farmácia que tenha um posto farmacêutico e que pretenda transformá-lo em farmácia deve apresentar, no prazo referido no número anterior, um pedido à Direcção Regional da Saúde, instruído nos termos da regulamentação sobre condições gerais de abertura e transferência.
+4 - O proprietário de farmácia que disponha de um posto farmacêutico e que pretenda transformá-lo em farmácia deve apresentar, no prazo referido no número anterior, um pedido ao departamento da administração regional autónoma competente em matéria de saúde, instruído com os seguintes documentos:
 
-5 - A abertura e funcionamento dos postos farmacêuticos permanentes é regulada pelo decreto regulamentar regional previsto no artigo 27.º deste diploma.
+a) Fotocópia do respetivo documento de identificação, no caso de se tratar de uma pessoa singular, ou fotocópia do contrato de sociedade e certidão do registo comercial, no caso de se tratar de uma sociedade comercial;
+
+b) Identificação do posto farmacêutico, incluindo o nome da rua e o número de polícia ou lote;
+
+c) Identificação do diretor técnico e restante dotação de pessoal da farmácia que resultará da transformação e declaração da Ordem dos Farmacêuticos da inscrição do diretor técnico, bem como certidão do respetivo registo criminal;
+
+d) Memória descritiva e licença de utilização da farmácia que irá funcionar no mesmo local e que resultará da transformação, incluindo a descrição das instalações, das divisões e das respetivas áreas, nos termos a fixar por portaria do membro do Governo Regional competente em matéria de saúde.
+
+5 - O departamento da administração regional autónoma competente em matéria de saúde analisa os documentos referidos no número anterior, decide, no prazo de 20 dias a contar da respetiva apresentação, sobre a aptidão ou inaptidão do local, do espaço e da dotação de pessoal para a abertura ao público da farmácia e determina a realização de vistoria às instalações.
+
+6 - Não se efetuando a transformação do posto farmacêutico em farmácia, designadamente por não cumprimento dos requisitos exigidos ou por falta de interesse do proprietário na transformação, o posto farmacêutico pode continuar a funcionar nos termos em que foi autorizado, designadamente sendo encerrado quando, na mesma localidade, for instalada nova farmácia.
+
+7 - A vistoria às instalações referida no n.º 5 é realizada pelo departamento da administração regional autónoma competente em matéria de saúde, no prazo de 15 dias.
+
+8 - Se o departamento da administração regional autónoma competente em matéria de saúde considerar que a farmácia cumpre as normas legais e regulamentares, emite o alvará da nova farmácia e suprime o averbamento do posto no alvará de farmácia a que o mesmo pertencia.
+
+9 - A farmácia deve abrir ao público no prazo de 20 dias úteis a contar da emissão do alvará.
+
+10 - As farmácias resultantes da transformação de postos de medicamentos estão sujeitas ao disposto nos n.os 1, 2 e 3 do artigo 19.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ### CAPÍTULO IX — Disposições complementares
 
@@ -610,6 +1240,38 @@ O processamento das contra-ordenações e a aplicação das coimas competem à D
 
 O valor das coimas aplicadas às contra-ordenações previstas no presente diploma reverte para a Região Autónoma dos Açores.
 
+###### Artigo 54.º-A — Nulidade
+
+1 - São nulos os negócios jurídicos celebrados contra o disposto neste diploma ou que produzam, ou possam produzir, um efeito prático idêntico ao que a lei quis proibir.
+
+2 - Incumbe ao Ministério Público, oficiosamente ou na sequência de iniciativa do departamento da administração regional autónoma competente em matéria de saúde ou da Inspeção Regional da Saúde, propor as ações de nulidade e requerer as providências que ao caso couberem, com vista a evitar que os negócios jurídicos celebrados em infração ou fraude à lei produzam efeitos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 54.º-B — Notários
+
+Os notários devem comunicar ao departamento da administração regional autónoma competente em matéria de saúde todos os negócios jurídicos que, direta ou indiretamente, envolvam, no todo ou em parte, a alteração da propriedade, da exploração ou da gestão de uma farmácia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 54.º-C — Taxas
+
+1 - Os atos praticados pelo departamento da administração regional autónoma competente em matéria de saúde, ao abrigo do presente diploma, constituem encargos dos concorrentes ou requerentes e o respetivo pagamento é condição de prosseguimento dos procedimentos.
+
+2 - Os montantes a cobrar pelo departamento da administração regional autónoma competente em matéria de saúde pelos atos referidos no número anterior são os seguintes:
+
+a) (euro) 50 pela análise das candidaturas;
+
+b) (euro) 75 pela análise de documentos;
+
+c) (euro) 500 pela vistoria às instalações;
+
+d) (euro) 1000 pela emissão de alvará;
+
+e) (euro) 500 pelo averbamento no alvará.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
 ### CAPÍTULO X — Disposições transitórias e finais
 
 ###### Artigo 55.º — Acumulação de funções farmacêuticas
@@ -618,13 +1280,29 @@ O valor das coimas aplicadas às contra-ordenações previstas no presente diplo
 
 2 - A autorização prevista no número anterior, devidamente fundamentada, é concedida caso a caso por despacho do membro do Governo Regional competente em matéria de saúde.
 
-###### Artigo 56.º — Entidades do sector social da economia
+###### Artigo 56.º — Formulários
 
-As entidades do sector social da economia que sejam proprietárias de farmácias devem proceder, no prazo de um ano a partir da entrada em vigor do presente diploma, às adaptações necessárias ao cumprimento dos requisitos previstos no artigo 15.º
+O departamento da administração regional autónoma competente em matéria de saúde pode disponibilizar no Portal do Governo Regional dos Açores e no Portal da Saúde os formulários necessários para a execução do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ###### Artigo 57.º — Sítio da Internet
 
 A Direcção Regional da Saúde assegurará, na área destinada à saúde no portal do Governo Regional dos Açores, um espaço destinado às matérias objecto de comunicação pelas farmácias.
+
+###### Artigo 57.º-A — Comunicação eletrónica
+
+O requerimento para a abertura do procedimento concursal, a apresentação de candidaturas, a apresentação dos documentos, o pedido de aprovação da designação, o pedido de vistoria, o pedido de transferência, o pedido de transformação de posto farmacêutico em farmácia e os pagamentos e depósito no departamento da administração regional autónoma competente em matéria de saúde podem ser feitos no Portal do Governo Regional dos Açores e no Portal da Saúde, logo que exista um campo específico para o efeito.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
+
+###### Artigo 57.º-B — Normas transitórias
+
+1 - Os requisitos para o funcionamento de novas farmácias constantes do presente diploma, e da regulamentação subsequente, aplicam-se às farmácias existentes a partir do momento em que estas se transfiram para novas instalações.
+
+2 - A categoria de ajudante técnico de farmácia passa a designar-se de técnico auxiliar de farmácia, para ela transitando os ajudantes técnicos de farmácia registados no departamento da administração regional autónoma competente em matéria de saúde.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495), publicado em 2012-06-26.
 
 ###### Artigo 58.º — Norma revogatória
 

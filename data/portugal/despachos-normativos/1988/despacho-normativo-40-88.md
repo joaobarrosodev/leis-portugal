@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-11-16'
+version_history:
+  file: despacho-normativo-40-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-06-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-11-16'
+    amending: pt:dre:331414:por
+    amending_title: Despacho Normativo n.º 257/91
+    changes:
+    - Revoga Artigo 26.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:40:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 257/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1988/despacho-normativo-40-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -342,11 +357,9 @@ Todas as entidades que beneficiam do apoio do FSE são obrigadas a abrir e mante
 
 ###### Artigo 26.º — Situação contributiva perante a Segurança Social
 
-1 - Não serão efectuados quaisquer pagamentos relativos à comparticipação pública nacional necessária à intervenção do FSE sempre que as entidades beneficiárias, directa ou indirectamente, não demonstrem ter a sua situação contributiva regularizada perante a Segurança Social.
+(Revogado.)
 
-2 - Para efeitos do disposto no número anterior, sempre que houver lugar a qualquer pagamento, deverá ser remetida ao DAFSE certidão comprovativa de que a entidade tem a sua situação contributiva regularizada perante a Segurança Social.
-
-3 - As entidades que, nos termos do presente diploma, organizem programas quadro deverão observar o procedimento previsto nos número anteriores relativamente às entidades que beneficiem desses programas.
+> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 257/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/257-1991-331414), publicado em 1991-11-11.
 
 ###### Artigo 27.º — Informações complementares
 

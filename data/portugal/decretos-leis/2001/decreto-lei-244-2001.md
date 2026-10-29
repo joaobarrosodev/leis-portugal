@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-06-23'
+version_history:
+  file: decreto-lei-244-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-23'
+    amending: pt:dre:370980:por
+    amending_title: Decreto-Lei n.º 119/2006
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/244/2001/09/08/p/dre/pt/html
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:26:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 119/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-244-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,9 +198,9 @@ f) Grupos de acção local (GAL).
 
 ###### Artigo 6.º — Organismo intermediário
 
-1 - É designado como organismo nacional intermediário para aplicação do Programa LEADER + a Direcção-Geral de Desenvolvimento Rural (DGDR).
+1 - É designado como organismo nacional intermediário para aplicação do Programa LEADER+ o Instituto de Desenvolvimento Rural e Hidráulica (IDRHa).
 
-2 - Cabe à DGDR, enquanto organismo intermediário, assegurar a coordenação global do Programa LEADER +, competindo-lhe:
+2 - Cabe ao IDRHa, enquanto organismo intermediário, assegurar a coordenação global do Programa LEADER+, competindo-lhe:
 
 a) Celebrar a convenção de financiamento relativa à subvenção global com a Comissão Europeia;
 
@@ -189,11 +210,15 @@ c) Autorizar as transferências financeiras para os GAL;
 
 d) Elaborar e publicitar os convites públicos para apresentação de candidaturas.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
+
 ###### Artigo 7.º — Gestor
 
-1 - A gestão técnica, administrativa e financeira incumbe a um gestor, cargo que é exercido, por inerência, pelo subdirector-geral de Desenvolvimento Rural, aplicando-se-lhe o regime previsto no artigo 37.º da Lei n.º 49/99, de 22 de Junho.
+1 - A gestão técnica, administrativa e financeira incumbe a um gestor, cargo que é exercido, por inerência, pelo presidente do IDRHa, nos termos do disposto na alínea a) do n.º 3 do artigo 16.º da Lei n.º 2/2004, de 15 de Janeiro, com a redacção que lhe foi conferida pela Lei n.º 51/2005, de 30 de Agosto.
 
 2 - O gestor pode delegar as competências que lhe são cometidas pelo Decreto-Lei n.º 54-A/2000, de 7 de Abril, nas direcções regionais de agricultura e nas direcções regionais de agricultura das Regiões Autónomas dos Açores e da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
 
 ###### Artigo 8.º — Unidade de gestão
 
@@ -205,19 +230,19 @@ O gestor é apoiado no exercício das suas funções por uma unidade de gestão,
 
 a) Os membros da unidade de gestão;
 
-b) Um representante da Direcção-Geral de Desenvolvimento Rural;
+b) Um representante do IDRHa;
 
 c) Um representante de cada um dos GAL;
 
 d) Um representante do Gabinete de Planeamento e Política Agro-Alimentar;
 
-e) Um representante de cada uma das comissões de coordenação regionais;
+e) Um representante de cada uma das comissões de coordenação e desenvolvimento regional;
 
-f) Um representante do Ministério do Ambiente e do Ordenamento do Território;
+f) Um representante do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional;
 
-g) Um representante do Ministério do Trabalho e da Solidariedade;
+g) Um representante do Ministério do Trabalho e da Solidariedade Social;
 
-h) Um representante do Ministério da Economia;
+h) Um representante do Ministério da Economia e da Inovação;
 
 i) Um representante de cada direcção regional de agricultura;
 
@@ -227,7 +252,7 @@ k) Um representante da Associação Nacional de Municípios Portugueses;
 
 l) Representantes dos parceiros económicos e sociais, incluindo as organizações com assento no Conselho Económico e Social, a designar por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-2 - Nos termos do Regulamento (CE) n.º [1260/99](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), do Conselho, de 21 de Junho, integram ainda a Comissão Nacional de Acompanhamento representantes da Comissão Europeia.
+2 - Nos termos do Regulamento (CE) n.º 1260/99, do Conselho, de 21 de Junho, com as alterações introduzidas pelos Regulamentos (CE) n.os 1447/2001, de 28 de Junho, 1105/2003, de 26 de Maio, e 173/2005, de 24 de Janeiro, integram, ainda, a Comissão Nacional de Acompanhamento representantes da Comissão Europeia.
 
 3 - Pode ainda integrar a Comissão Nacional de Acompanhamento, na qualidade de observador, um representante da Inspecção-Geral de Finanças e um representante da Inspecção-Geral e Auditoria de Gestão do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
@@ -247,45 +272,55 @@ e) Analisar e aprovar o relatório anual de execução e o relatório final de e
 
 f) Analisar e aprovar todas as propostas de alteração do conteúdo da decisão da Comissão Europeia.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
+
 ###### Artigo 10.º — Comissões regionais de acompanhamento
 
-1 - A nível de cada uma das direcções regionais de agricultura e de cada uma das Regiões Autónomas, é criada uma comissão regional de acompanhamento (CRA).
+1 - A nível de cada uma das Regiões Autónomas, é criada uma comissão regional de acompanhamento (CRA).
 
-2 - A composição de cada umas das CRA será determinada, sem prejuízo do disposto no número seguinte, por:
+2 - A composição das CRA das Regiões Autónomas será determinada por despacho do membro do Governo Regional competente.
 
-a) Despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, no caso das CRA do território continental;
+3 - (Revogado.)
 
-b) Despacho do membro do Governo Regional competente, no caso das CRA das Regiões Autónomas.
-
-3 - O gestor do LEADER + integrará todas as CRA e estas deverão integrar, designadamente, representantes dos GAL, dos municípios, dos serviços regionais com competências ambientais e dos parceiros económicos e sociais da região.
-
-4 - Compete às comissões regionais de acompanhamento:
+4 - Compete às CRA, nomeadamente:
 
 a) Elaborar e aprovar o respectivo regulamento interno;
 
-b) Avaliar periodicamente os progressos realizados a nível regional na prossecução dos objectivos específicos do Programa;
+b) Avaliar periodicamente os progressos do Programa ao nível regional, sugerindo ao gestor medidas e procedimentos com vista a melhorar a execução e o cumprimento dos objectivos do Programa;
 
-c) Analisar os resultados regionais da execução, nomeadamente a realização dos objectivos definidos para as diferentes medidas, bem como a avaliação intercalar e final;
+c) Analisar os resultados anuais e finais de execução dos GAL da sua Região;
 
-d) Analisar e aprovar os relatórios anuais de execução e o relatório final de execução apresentado pelos GAL respectivos.
+d) Dar parecer sobre assuntos de carácter regional quando solicitado pelo gestor.
 
-###### Artigo 11.º — Grupos de acção local
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
 
-1 - O vector 1 do Programa LEADER + desenvolver-se-á no quadro de uma estratégia de desenvolvimento apoiada em planos de desenvolvimento local (PDL) definidos para um território rural e elaborados pelos GAL.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
 
-2 - Os GAL são os responsáveis pela execução dos PDL referidos no número anterior.
+###### Artigo 11.º — Execução do Programa
 
-3 - A atribuição dos apoios previstos no âmbito da execução dos PDL faz-se ao abrigo de convenções de financiamento a celebrar entre o organismo intermediário e os GAL.
+1 - Os vectores 1 e 2 do Programa LEADER + desenvolver-se-ão no quadro da estratégia de desenvolvimento apoiada em, respectivamente, planos de desenvolvimento local (PDL) e planos de cooperação (PC) elaborados pelos GAL.
 
-###### Artigo 12.º — Recursos financeiros
+2 - Os GAL são responsáveis pela execução dos PDL e dos PC referidos no número anterior.
 
-No âmbito da aplicação do Programa LEADER + compete à Direcção-Geral do Tesouro:
+3 - A atribuição dos apoios previstos no âmbito da execução dos PDL e dos PC faz-se ao abrigo de convenções de financiamento a celebrar entre o organismo intermediário e os GAL.
 
-a) Movimentar e gerir a conta de operações de tesouraria relativas à aplicação dos recursos comunitários provenientes do Programa LEADER +;
+4 - O processo de candidatura às ajudas previstas no âmbito do vector 3 efectua-se, sempre que necessário, através da contratação de entidades prestadoras de serviços a seleccionar em conformidade com as normas legais em vigor.
 
-b) Processar o pagamento dos recursos recebidos da Comunidade referente ao Programa LEADER +, ordenado pelo organismo intermediário;
+5 - As candidaturas referidas no número anterior são objecto de decisão do gestor.
 
-c) Informar o organismo intermediário dos processamentos e pagamentos efectuados.
+6 - A atribuição de ajudas no âmbito do vector 3 são efectuadas mediante contrato a celebrar entre as entidades prestadoras de serviços e o organismo intermediário.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
+
+###### Artigo 12.º — Autoridade de pagamento
+
+No âmbito de aplicação do Programa LEADER + e no que se refere aos recursos financeiros, compete ao IDRHa, enquanto autoridade de pagamento, o seguinte:
+
+a) Movimentar e gerir as contas relativas à aplicação dos recursos comunitários e nacionais provenientes do LEADER +, abertas para o efeito junto da Direcção-Geral do Tesouro;
+
+b) Processar o pagamento dos recursos recebidos da Comunidade referentes ao Programa LEADER +, ordenado pelo organismo intermediário.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2006-370980), publicado em 2006-06-22.
 
 ###### Artigo 13.º — Regulamentação do Programa
 

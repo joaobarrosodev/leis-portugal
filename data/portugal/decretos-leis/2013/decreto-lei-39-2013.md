@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-01'
+version_history:
+  file: decreto-lei-39-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-01'
+    amending: pt:dre:67123272:por
+    amending_title: Decreto-Lei n.º 68-A/2015
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/39/2013/03/18/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:22:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 68-A/2015. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2013/decreto-lei-39-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,9 +223,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º — Entidade responsável pela emissão das garantias de origem
 
-1 - As competências do Laboratório Nacional de Energia e Geologia, I.P., enquanto entidade responsável pela emissão das garantias de origem (EEGO), são transferidas para a concessionária da Rede Nacional de Transporte de eletricidade (RNT).
+1 - As competências do Laboratório Nacional de Energia e Geologia, I. P., enquanto entidade responsável pela emissão das garantias de origem (EEGO), são transferidas para a Direção-Geral de Energia e Geologia (DGEG).
 
-2 - Para os efeitos do número anterior, a concessionária da RNT elabora o manual de procedimentos da EEGO, previsto no n.º 2 do artigo 12.º do Decreto-Lei n.º 141/2010, de 31 de dezembro, e inicia a atividade enquanto EEGO no prazo máximo de três meses a contar da data de entrada em vigor do presente decreto-lei prevista no n.º 1 do artigo 8.º
+2 - Para os efeitos do número anterior, a DGEG elabora o manual de procedimentos da EEGO, previsto no n.º 2 do artigo 12.º do Decreto-Lei n.º 141/2010, de 31 de dezembro, e inicia a atividade enquanto EEGO no prazo máximo de três meses a contar da data de entrada em vigor do presente decreto-lei prevista no n.º 1 do artigo 8.º.
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 68-A/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), publicado em 2015-04-30.
 
 ###### Artigo 3.º — Alteração ao Decreto-Lei n.º 141/2010, de 31 de dezembro
 

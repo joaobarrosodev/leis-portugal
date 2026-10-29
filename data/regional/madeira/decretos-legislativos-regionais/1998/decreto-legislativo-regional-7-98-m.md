@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-12-31'
+version_history:
+  file: decreto-legislativo-regional-7-98-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-31'
+    amending: pt:dre:72991305:por
+    amending_title: Decreto Legislativo Regional n.º 17/2015/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/7/1998/04/27/m/dre/pt/html
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1998/decreto-legislativo-regional-7-98-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,15 +200,21 @@ e) Participar e colaborar em todo o quadro competitivo regional para este nível
 
 ###### Artigo 5.º
 
-1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25% e 15% do vencimento a que tiverem direito, respectivamente, durante os 12 meses do ano.
+1 - Os coordenadores regionais e coordenadores de modalidade auferem, no exercício das suas funções, uma gratificação mensal de 25 % e 15 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, respetivamente, durante os 12 meses do ano.
 
 2 - Os coordenadores concelhios têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e dos ensinos básico e secundário, a abonar durante os 12 meses do ano.
 
+> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
+
 ###### Artigo 6.º
 
-1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios são nomeados pelo Secretário Regional de Educação, precedido de um processo de recrutamento e selecção assente na avaliação curricular e entrevista profissional com requisitos previamente publicados.
+1 - Os coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, são designados por despacho do Secretário Regional da Educação.
 
-2 - O exercício de funções dos coordenadores regionais, coordenadores de modalidade e coordenadores concelhios é fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idênticos períodos, cessando em qualquer momento por decisão superior ou a pedido do interessado.
+2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.
+
+3 - O número de coordenadores regionais, coordenadores de modalidade e coordenadores concelhios, é fixado por despacho do Secretário Regional da Educação.
+
+> Alterado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 7.º
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-03'
+version_history:
+  file: decreto-lei-49272.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-03'
+    amending: pt:dre:355505:por
+    amending_title: Decreto-Lei n.º 338/88
+    changes:
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:10:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 338/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49272.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,33 +147,57 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A composição da direcção da Emissora Nacional, os serviços directamente dependentes do seu presidente e a organização e competência das direcções de serviços serão fixados em decreto regulamentar.
+###### Artigo 1.º
 
-Art. 2.º Os cargos de directores dos serviços serão providos em comissão, sem prejuízo dos já nomeados definitivamente, de acordo com o disposto para o presidente da direcção no artigo 2.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965.
+A composição da direcção da Emissora Nacional, os serviços directamente dependentes do seu presidente e a organização e competência das direcções de serviços serão fixados em decreto regulamentar.
 
-Art. 3.º Do conselho administrativo da Emissora Nacional passam também a fazer parte o presidente da direcção e todos os directores dos serviços e as suas reuniões serão dirigidas pelo presidente da direcção, com voto de qualidade.
+###### Artigo 2.º
 
-Art. 4.º O artigo 11.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054) é aplicável, igualmente, ao pessoal do quadro que for designado para preenchimento de lugares resultantes do incremento dos serviços.
+Os cargos de directores dos serviços serão providos em comissão, sem prejuízo dos já nomeados definitivamente, de acordo com o disposto para o presidente da direcção no artigo 2.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965.
 
-Art. 5.º - 1. O tempo de licenciatura exigido por lei para o provimento em lugares do quadro do pessoal da Emissora Nacional pode ser substituído por igual tempo de prestação de serviço nesse organismo ou em qualquer dos outros quadros da Secretaria de Estado da Informação e Turismo, quando os licenciados satisfaçam às restantes condições legais.
+###### Artigo 3.º
+
+Do conselho administrativo da Emissora Nacional passam também a fazer parte o presidente da direcção e todos os directores dos serviços e as suas reuniões serão dirigidas pelo presidente da direcção, com voto de qualidade.
+
+###### Artigo 4.º
+
+O artigo 11.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054) é aplicável, igualmente, ao pessoal do quadro que for designado para preenchimento de lugares resultantes do incremento dos serviços.
+
+###### Artigo 5.º
+
+1. O tempo de licenciatura exigido por lei para o provimento em lugares do quadro do pessoal da Emissora Nacional pode ser substituído por igual tempo de prestação de serviço nesse organismo ou em qualquer dos outros quadros da Secretaria de Estado da Informação e Turismo, quando os licenciados satisfaçam às restantes condições legais.
 
 2. O tempo de serviço prestado nos termos previstos no número anterior pode ser também considerado para efeitos de contagem dos prazos exigidos na lei para a nomeação de outros diplomados com cursos superiores a que não corresponda licenciatura.
 
-Art. 6.º Nos casos previstos no artigo 30.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, e noutras situações especiais de grande conveniência para o serviço, reconhecidas por despacho do Secretário de Estado da Informação e Turismo, poderá a Emissora Nacional suportar os encargos com o alojamento dos seus funcionários.
+###### Artigo 6.º
 
-Art. 7.º Independentemente do preceituado na primeira parte do artigo 9.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), poderá também ser atribuída uma gratificação, a fixar por despacho do Secretário de Estado da Informação e Turismo, ouvido o Ministro das Finanças, ao pessoal colocado em centros emissores distantes de aglomerados populacionais.
+Nos casos previstos no artigo 30.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, e noutras situações especiais de grande conveniência para o serviço, reconhecidas por despacho do Secretário de Estado da Informação e Turismo, poderá a Emissora Nacional suportar os encargos com o alojamento dos seus funcionários.
 
-Art. 8.º O pessoal que actualmente presta serviço no Rádio Clube de S. Tomé e no Emissor Regional da Guiné, e que venha a transitar para o quadro geral da Emissora Nacional ao abrigo do disposto nos Decretos-Leis n.os 48934 e 49084, de 27 de Março e de 26 de Junho de 1969, respectivamente, será provido, sem outras formalidades além das previstas naqueles diplomas, logo que nesse quadro seja aumentado o número de unidades necessário, considerando-se até então, e desde a data da transição, admitido nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), sem prejuízo dos direitos conferidos por aqueles dois diplomas.
+###### Artigo 7.º
 
-Art. 9.º Enquanto não for revisto o quadro geral do pessoal referido no artigo anterior, a Emissora Nacional poderá usar do disposto no artigo 15.º do [Decreto-Lei n.º 48934](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48934-1969-302371) e no artigo 14.º do [Decreto-Lei n.º 49084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49084-1969-200382) para satisfação do preceituado nos n.os 1 e 2 dos artigos 11.º e nos artigos 12.º de ambos os decretos-leis.
+Independentemente do preceituado na primeira parte do artigo 9.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), poderá também ser atribuída uma gratificação, a fixar por despacho do Secretário de Estado da Informação e Turismo, ouvido o Ministro das Finanças, ao pessoal colocado em centros emissores distantes de aglomerados populacionais.
 
-Art. 10.º - 1. A instalação de novos emissores e a exploração de postos particulares de radiodifusão sonora na metrópole são decididas por despacho do Secretário de Estado da Informação e Turismo, com parecer concordante dos organismos a que se refere o artigo 4.º e § único do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), nos termos aí estabelecidos, e depois de ouvido o Conselho Nacional de Radiodifusão.
+###### Artigo 8.º
 
-2. A instalação de retransmissores e de novos centros de emissores na dependência directa dos emissores regionais ultramarinos será autorizada por despacho conjunto do Ministro do Ultramar e do Secretário de Estado da Informação e Turismo.
+O pessoal que actualmente presta serviço no Rádio Clube de S. Tomé e no Emissor Regional da Guiné, e que venha a transitar para o quadro geral da Emissora Nacional ao abrigo do disposto nos Decretos-Leis n.os 48934 e 49084, de 27 de Março e de 26 de Junho de 1969, respectivamente, será provido, sem outras formalidades além das previstas naqueles diplomas, logo que nesse quadro seja aumentado o número de unidades necessário, considerando-se até então, e desde a data da transição, admitido nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), sem prejuízo dos direitos conferidos por aqueles dois diplomas.
 
-Art. 11.º O decreto regulamentar do presente diploma será publicado no prazo de trinta dias, mantendo-se até essa publicação a organização interna da Emissora Nacional constante do [Decreto n.º 46927](https://diariodarepublica.pt/dr/detalhe/decreto/46927-1966-486339), de 30 de Março de 1966.
+###### Artigo 9.º
 
-Art. 12.º O presente diploma entra imediatamente em vigor.
+Enquanto não for revisto o quadro geral do pessoal referido no artigo anterior, a Emissora Nacional poderá usar do disposto no artigo 15.º do [Decreto-Lei n.º 48934](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48934-1969-302371) e no artigo 14.º do [Decreto-Lei n.º 49084](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49084-1969-200382) para satisfação do preceituado nos n.os 1 e 2 dos artigos 11.º e nos artigos 12.º de ambos os decretos-leis.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 338/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1988-355505), publicado em 1988-09-28.
+
+###### Artigo 11.º
+
+O decreto regulamentar do presente diploma será publicado no prazo de trinta dias, mantendo-se até essa publicação a organização interna da Emissora Nacional constante do [Decreto n.º 46927](https://diariodarepublica.pt/dr/detalhe/decreto/46927-1966-486339), de 30 de Março de 1966.
+
+###### Artigo 12.º
+
+O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

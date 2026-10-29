@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-01-01'
+version_history:
+  file: decreto-lei-13-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-01'
+    amending: pt:dre:69982740:por
+    amending_title: Decreto-Lei n.º 161/2015
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/13/2012/01/20/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:16:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 161/2015. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-13-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +221,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-1 - O disposto no presente decreto-lei aplica-se aos actos e operações referidos no n.º 3 do artigo anterior que se encontrem previstos nas seguintes convenções internacionais, bem como nos respectivos protocolos e emendas, e nos códigos conexos com carácter vinculativo, na sua versão actualizada:
+1 - O disposto no presente decreto-lei aplica-se aos atos e operações referidos no n.º 3 do artigo anterior que se encontrem previstos nas seguintes convenções internacionais, bem como nos respetivos protocolos e emendas, e nos códigos conexos com caráter vinculativo, com exceção dos parágrafos 16.1, 18.1 e 19 da parte 2 do Código de Aplicação dos Instrumentos da OMI (Código III) e dos parágrafos 1.1, 1.3, 3.9.3.1, 3.9.3.2 e 3.9.3.3 da parte 2 do Código da OMI para as Organizações Reconhecidas (Código RO), na sua versão atualizada:
 
 a) Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, de 1 Novembro de 1974 (SOLAS 74), com excepção do capítulo xi-2 do respectivo anexo;
 
@@ -225,6 +240,8 @@ b) Na Directiva n.º [98/18/CE](https://data.europa.eu/eli/dir/1998/18/oj?locale
 c) No Regulamento (CE) n.º [782/2003](https://data.europa.eu/eli/reg/2003/782/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Abril de 2003, relativo à proibição dos compostos organoestânicos nos navios;
 
 d) No Regulamento (CE) n.º [336/2006](https://data.europa.eu/eli/reg/2006/336/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de Fevereiro de 2006, relativo à aplicação do Código Internacional de Gestão da Segurança na Comunidade e que revoga o Regulamento (CE) n.º [3051/95](https://data.europa.eu/eli/reg/1995/3051/oj?locale=pt), do Conselho, de 8 de Dezembro de 1995.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2015-69982740), publicado em 2015-08-11.
 
 ###### Artigo 3.º — Definições
 

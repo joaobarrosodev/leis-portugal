@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-06-28'
+version_history:
+  file: decreto-legislativo-regional-3-96-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-06-28'
+    amending: pt:dre:349286:por
+    amending_title: Decreto Legislativo Regional n.º 16/2001/M
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/3/1996/02/14/m/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16/2001/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1996/decreto-legislativo-regional-3-96-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,9 +189,11 @@ O presente diploma aplica-se aos professores abrangidos pelo disposto no [Decret
 
 ###### Artigo 4.º — Situação transitória
 
-1 - Aos professores que se encontrem a efectuar o completamento de habilitações previsto nos artigos 3.º do [Decreto Legislativo Regional n.º 17/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-575134), de 8 de Junho, e 34.º do [Decreto-Lei n.º 344/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1989-548826), de 11 de Outubro, e enquanto o frequentarem, aplica-se o disposto no artigo 19.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, para a categoria de técnico-adjunto especialista de 1.ª classe da carreira técnico-profissional de nível 4, reportando-se os efeitos, exclusivamente para a contagem do tempo de serviço, a 1 de Julho de 1990.
+1 - Os professores que optaram pela realização do completamento de habilitações previsto no artigo 3.º do Decreto Legislativo Regional n.º 17/90/M, de 8 de Junho, e no artigo 34.º do Decreto-Lei n.º 344/89, de 11 de Outubro, até à sua integração na carreira docente, serão remunerados pelo índice 145 da estrutura da carreira do pessoal docente, da educação pré-escolar e dos ensinos básico e secundário, reportando-se os efeitos remuneratórios a 1 de Setembro de 1999 e para efeitos, exclusivamente, de contagem do tempo de serviço a 1 de Julho de 1990.
 
 2 - Aos professores, enquanto frequentarem o completamento de habilitação, pode ser assegurada uma época especial para a prestação de provas, horários reduzidos, dispensas de serviço e justificação antecipada de faltas necessárias ao estudo ou aos exames, em termos a regulamentar pela secretaria regional da tutela.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2001-349286), publicado em 2001-06-27.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Dezembro de 1995.
 

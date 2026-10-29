@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-07-28'
+version_history:
+  file: decreto-lei-297-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-07-28'
+    amending: pt:dre:430869:por
+    amending_title: Decreto-Lei n.º 628/76
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:32:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 628/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-297-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,21 +152,27 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Durante o período em que não esteja preenchido o cargo de director do Instituto Nacional de Estatística e enquanto se prepara uma remodelação da estrutura do referido Instituto, as suas funções passarão a ser desempenhadas por um conjunto de pessoas constituindo uma comissão directiva.
+###### Artigo 1.º
 
-2. O número e designação das pessoas que ficarão a constituir a comissão directiva serão fixados por despacho ministerial.
+(Revogado.)
 
-3. O exercício das funções por parte de qualquer membro da comissão directiva é compatível com o desempenho de qualquer outro cargo dentro da orgânica do Instituto.
+> Revogado pelo/a [Decreto-Lei n.º 628/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869), publicado em 1976-07-28.
 
-4. Se qualquer funcionário ou técnico do Instituto for nomeado membro da comissão directiva, ficará a perceber a remuneração inerente ao cargo que desempenhava, salvaguardado o direito a remuneração superior se, entretanto, for nomeado para outro cargo em que esta seja devida.
+###### Artigo 2.º
 
-Art. 2.º A comissão directiva ficará com todos os poderes atribuídos pelo artigo 21.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, ao director e subdirectores do Instituto, enquanto se mantiver em funcionamento.
+(Revogado.)
 
-Art. 3.º - 1. É criada dentro dos serviços do Instituto Nacional de Estatística uma comissão consultiva com competência própria e exclusiva para tratar de questões relativas ao pessoal.
+> Revogado pelo/a [Decreto-Lei n.º 628/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/628-1976-430869), publicado em 1976-07-28.
+
+###### Artigo 3.º
+
+1. É criada dentro dos serviços do Instituto Nacional de Estatística uma comissão consultiva com competência própria e exclusiva para tratar de questões relativas ao pessoal.
 
 2. A composição, funcionamento e atribuições específicas desta comissão consultiva serão definidos em despacho ministerial.
 
-Art. 4.º - 1. O Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944, passarão a ser constituídos por um director e por outras individualidades de reconhecido mérito nas matérias das respectivas atribuições.
+###### Artigo 4.º
+
+1. O Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944, passarão a ser constituídos por um director e por outras individualidades de reconhecido mérito nas matérias das respectivas atribuições.
 
 2. Os directores e os membros dos referidos Centros de Estudos serão nomeados por despacho do Primeiro-Ministro ou do Ministro em quem este delegar.
 
@@ -158,7 +180,9 @@ Art. 4.º - 1. O Centro de Estudos Económicos e o Centro de Estudos Demográfic
 
 4. No mais, mantêm-se em vigor as disposições dos Decretos-Leis n.os 47616 e 47617, de 30 de Março de 1967, com as necessárias adaptações.
 
-Art. 5.º Este decreto-lei entra imediatamente em vigor.
+###### Artigo 5.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Pereira de Moura.
 

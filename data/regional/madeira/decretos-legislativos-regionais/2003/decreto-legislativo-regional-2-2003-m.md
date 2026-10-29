@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-03-31'
+version_history:
+  file: decreto-legislativo-regional-2-2003-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-02-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-31'
+    amending: pt:dre:275183:por
+    amending_title: Declaração de Rectificação n.º 2-A/2003
+    changes:
+    - Retifica Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2003/02/24/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 2-A/2003.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2003/decreto-legislativo-regional-2-2003-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,7 +212,9 @@ c) Ascendentes, no caso do utente não ser idoso.
 
 1 - A permanência em meio hospitalar após alta clínica obriga o utente e seus familiares e quem com ele conviva em união de facto à comparticipação nos custos de internamento.
 
-2 - O valor dos custos de internamento, para efeitos do presente diploma, o montante que salvaguarde o rendimento pessoal indispensável ao utente a fórmula de cálculo das comparticipações devidas pelos familiares são fixados por portaria do membro do Governo responsável pela área da saúde, devendo obedecer a critérios similares aos utilizados para fins de acção social.
+2 - O valor dos custos de internamento, para efeitos do presente diploma, o montante que salvaguarde o rendimento pessoal indispensável ao utente, a fórmula de cálculo das comparticipações devidas pelos familiares são fixados por portaria do membro do Governo responsável pela área da saúde, devendo obedecer a critérios similares aos utilizados para fins de acção social.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 2-A/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-a-2003-275183), publicado em 2003-03-31.
 
 ###### Artigo 6.º — Família de acolhimento
 

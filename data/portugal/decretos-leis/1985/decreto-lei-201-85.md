@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-02-18'
+version_history:
+  file: decreto-lei-201-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-02-18'
+    amending: pt:dre:222852:por
+    amending_title: Decreto-Lei n.º 20-B/86
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:04:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 20-B/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-201-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,23 +155,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Nos empréstimos a conceder ao abrigo do [Decreto-Lei n.º 459/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1983-314074), de 30 de Dezembro, quando a soma das idades do casal não exceder 50 anos, ou tratando-se, de pessoa só, 30 anos, a percentagem máxima do financiamento é de 100%, desde que os fogos se incluam nas classes A ou B.
+###### Artigo 1.º
 
-2 - Quando os rendimentos declarados se mostrarem insuficientes para garantir o pagamento das prestações, poderão os mutuários, sem prejuízo da garantia hipotecária a que se refere o artigo 15.º, oferecer fiança prestada por ascendentes.
+(Revogado.)
 
-3 - A prestação da fiança prevista no número anterior não prejudica a concessão do subsídio familiar e das bonificações decorrentes da classe do fogo e do escalão de rendimentos dos mutuários.
+> Revogado pelo/a [Decreto-Lei n.º 20-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-1986-222852), publicado em 1986-02-13.
 
-Art. 2.º - 1 - Fica o Instituto Nacional da Habitação autorizado a conceder empréstimos para a construção de residências colectivas para estudantes às entidades referidas no artigo 1.º do [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, nas condições previstas no artigo 5.º do mesmo diploma.
+###### Artigo 2.º
+
+1 - Fica o Instituto Nacional da Habitação autorizado a conceder empréstimos para a construção de residências colectivas para estudantes às entidades referidas no artigo 1.º do [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, nas condições previstas no artigo 5.º do mesmo diploma.
 
 2 - O custo médio da construção, por metro quadrado da área bruta, dos edifícios referidos no número anterior terá como limite o definido na [Portaria n.º 580/83](https://diariodarepublica.pt/dr/detalhe/portaria/580-1983-451222), de 17 de Maio.
 
-Art. 3.º - 1 - Os «fundos vazados» existentes em empreendimentos do Estado e dos seus serviços autónomos poderão ser aproveitados e adaptados a habitações de baixa tipologia e áreas de equipamento e de comércio necessárias ao seu apoio.
+###### Artigo 3.º
+
+1 - Os «fundos vazados» existentes em empreendimentos do Estado e dos seus serviços autónomos poderão ser aproveitados e adaptados a habitações de baixa tipologia e áreas de equipamento e de comércio necessárias ao seu apoio.
 
 2 - Poderão também ser adaptadas a habitação, áreas de equipamento e de comércio dos mesmos empreendimentos, quando aquelas áreas não sejam necessárias às finalidades para que foram construídas.
 
 3 - Nos empreendimentos do extinto Fundo de Fomento da Habitação os respectivos contratos de empreitada serão promovidos e celebrados pela comissão nomeada nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 214/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994), de 29 de Maio.
 
-Art. 4.º - 1 - Na atribuição dos fogos construídos nos termos do artigo anterior, terão prioridade as pessoas nas condições de idade referidas no artigo 1.º, vivendo em economia própria no caso de pessoa só.
+###### Artigo 4.º
+
+1 - Na atribuição dos fogos construídos nos termos do artigo anterior, terão prioridade as pessoas nas condições de idade referidas no artigo 1.º, vivendo em economia própria no caso de pessoa só.
 
 2 - A atribuição far-se-á de acordo com as normas aplicáveis nas atribuições de habitações sociais do Estado, elaborando-se listas separadas para os candidatos com prioridade nos termos do número anterior e excluindo-se liminarmente do concurso os candidatos a cuja situação não corresponda tipologia adequada.
 

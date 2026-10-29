@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-06-09'
+version_history:
+  file: despacho-normativo-24-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-06-09'
+    amending: pt:dre:152121:por
+    amending_title: Despacho Normativo n.º 36/2002
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/24/2000/05/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:36:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-24-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,27 +185,29 @@ Considerando o disposto no [Decreto-Lei n.º 115-A/98](https://diariodarepublica
 
 3 - Na organização do ano escolar, o órgão de direcção executiva da escola ou do agrupamento de escolas assegura que o respectivo estabelecimento se mantenha em funcionamento, incluindo durante os períodos de interrupção, para o desenvolvimento de actividades de enriquecimento curricular, de carácter artístico, cultural e desportivo, constantes do respectivo projecto educativo e plano anual, num quadro de cooperação e de mobilização dos diversos parceiros educativos.
 
-###### Artigo 3.º — Desenvolvimento do calendário escolar
+###### Artigo 3.º — Calendário escolar
 
-Na fixação em despacho ministerial do calendário escolar para cada ano de actividades são tidos em conta, para os ensinos básico e secundário, os seguintes princípios:
+1 - Na fixação, por despacho ministerial, do calendário escolar para cada ano de actividades devem ser observados, no que respeita aos ensinos básico e secundário, os seguintes princípios:
 
-a) As actividades escolares têm a duração de 180 dias, nos termos do [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto, e decorrem em três períodos;
+a) As actividades escolares têm a duração mínima de 180 dias, de acordo com o previsto na legislação aplicável ao ensino básico e ao ensino secundário, e decorrem em três períodos temporais;
 
 b) Cada período tem uma duração de, aproximadamente, três meses, seguido de, pelo menos, uma semana de interrupção de actividades lectivas;
 
-c) O 1.º período inicia-se durante a 1.ª quinzena de Setembro;
+c) O 1.º período inicia-se no dia 15 de Setembro, ou na segunda-feira imediatamente seguinte, caso este dia coincida com uma sexta-feira ou um fim-de-semana;
 
-d) No decurso do 1.º período tem lugar uma interrupção das actividades lectivas, com a duração de até uma semana, a qual coincide com os dias 1 e 2 de Novembro;
+d) O 2.º período inicia-se no 3.º dia do mês de Janeiro, ou na segunda-feira imediatamente seguinte, caso este dia coincida com uma sexta-feira ou um fim-de-semana;
 
-e) O 2.º período inicia-se no 3.º dia do mês de Janeiro, desde que este não ocorra a uma sexta-feira ou fim-de-semana, caso em que se iniciará na segunda-feira seguinte;
+e) No decurso do 2.º período ocorre uma interrupção de dois dias, coincidente com os dias imediatamente anterior e posterior à terça-feira de Carnaval;
 
-f) No decurso do 2.º período tem lugar uma interrupção de uma semana, coincidente com a época do Carnaval;
+f) No período da Páscoa tem lugar uma interrupção de duas semanas, incluindo os fins-de-semana, período este que integra, necessariamente, a Sexta-Feira Santa e o domingo de Páscoa;
 
-g) No período da Páscoa tem lugar uma interrupção de cinco dias, incluindo o fim-de-semana, entre quinta-feira e segunda-feira, inclusive;
+g) Os momentos de avaliação dos alunos decorrem obrigatoriamente durante os períodos de interrupção da actividade lectiva.
 
-h) Ao fim de três meses de duração do 2.º período tem lugar uma interrupção com a duração de 10 dias, incluindo o fim-de-semana, a qual deve, sempre que possível, ter ligação com a interrupção da Páscoa;
+2 - Consideram-se actividades escolares, para efeitos do cômputo dos 180 dias previstos na alínea a) do número anterior, as actividades lectivas desenvolvidas com os alunos na escola ou fora dela, as acções previstas no plano anual de actividades que respeitam aos alunos do estabelecimento de ensino, as reuniões de avaliação e as provas globais.
 
-i) Os momentos de avaliação dos alunos ocorrem obrigatoriamente durante os períodos de interrupção da actividade lectiva.
+3 - Os primeiros 15 dias de Setembro anteriores ao início de cada ano lectivo deverão ser utilizados pelos docentes para a realização de todas as acções necessárias à preparação atempada do início do ano lectivo, bem como de eventuais acções de formação.
+
+> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 36/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2002-152121), publicado em 2002-06-04.
 
 ###### Artigo 4.º — Matrículas, renovação de matrículas e transferências
 

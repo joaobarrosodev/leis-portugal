@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249783:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "03742ab1b2c0fe24",
+    "de9d7a1a2b9a389f",
+    "67699cabf7fb93e9",
+    "733cf5a5f10e3c1a",
+    "a29e3255bd84e85b",
+    "c1989914329bc18c",
+    "0b01f30a4c26074c",
+    "1da1d540d56f2ec6",
+    "b3ec0652d7bd5079",
+    "5d0ee565f0e7bc8d",
+    "8646bd8732c61136",
+    "34203d2b3cbcb02e",
+    "161a2d1bd318a01b",
+    "df93e6b78d5f718a",
+    "4af93f971d701bbc",
+    "b62a60429dcde0e5",
+    "72af1f0458e0bba6"
+   ]
+  },
+  {
+   "date": "2012-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552066:por",
+     "title": "Decreto Regulamentar Regional n.º 13/2012/A",
+     "published": "2012-05-09",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-2012-552066"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "03742ab1b2c0fe24",
+    "de9d7a1a2b9a389f",
+    "dd60342f243df388",
+    "733cf5a5f10e3c1a",
+    "a29e3255bd84e85b",
+    "c1989914329bc18c",
+    "0b01f30a4c26074c",
+    "1da1d540d56f2ec6",
+    "b3ec0652d7bd5079",
+    "5d0ee565f0e7bc8d",
+    "8646bd8732c61136",
+    "34203d2b3cbcb02e",
+    "161a2d1bd318a01b",
+    "df93e6b78d5f718a",
+    "4af93f971d701bbc",
+    "b62a60429dcde0e5",
+    "72af1f0458e0bba6"
+   ]
+  }
+ ],
+ "fragments": {
+  "03742ab1b2c0fe24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regula a actividade ocupacional temporária de trabalhadores beneficiários de prestação de desemprego\n\nO [Decreto Regulamentar Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1999-185338), de 4 de Fevereiro, que estabeleceu o regime de ocupação de trabalhadores beneficiários de prestações de desemprego, veio consolidar um programa ocupacional em que se valoriza o envolvimento dos desempregados em trabalho socialmente necessário.\n\nO presente programa tem demonstrado que através da ocupação de desempregados em trabalho socialmente necessário, para além de contribuírem para a sua produtividade social, adquirem competências, contribuindo para a atenuação dos efeitos sociais do desemprego e para o aumento da reinserção no mercado de trabalho.\n\nO presente diploma destina-se à regulamentação da vertente do programa ocupacional genericamente destinado a todos os desempregados, chamado Programa de Colocação Temporária de Trabalhadores Subsidiados, CTTS, procedendo-se a algumas alterações e ajustamentos, de natureza formal e orgânica, adaptando-se às alterações legislativas entretanto ocorridas.\n\nFoi ouvida a Comissão Permanente do Conselho Regional de Concertação Estratégica.\n\nAssim, nos termos das alíneas d) do n.º 1 do artigo 227.º da Constituição, e o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e tendo em conta o disposto no n.º 4 do artigo 15.º do [Decreto Legislativo Regional n.º 28/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2004-479600), de 24 de Agosto, o Governo Regional decreta o seguinte:"
+  },
+  "de9d7a1a2b9a389f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a actividade ocupacional temporária de trabalhadores beneficiários de prestação de desemprego, adiante designados por trabalhadores ocupados.\n\n2 - As actividades ocupacionais visam a participação dos trabalhadores ocupados em trabalho socialmente necessário, de acordo com o disposto no artigo 15.º do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de Novembro, inseridos em projectos ocupacionais organizados por entidades sem fins lucrativos, em benefício da colectividade, por razões de necessidade social ou colectiva."
+  },
+  "67699cabf7fb93e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito subjectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjectivo\n\n1 - Podem candidatar-se à execução de projectos de actividades ocupacionais as seguintes entidades sem fins lucrativos:\n\na) Serviços e organismos dependentes da administração pública regional;\n\nb) Serviços e organismos localizados na Região Autónoma dos Açores dependentes da administração pública central;\n\nc) Serviços e organismos dependentes da administração local;\n\nd) Instituições particulares de solidariedade social ou equiparados;\n\ne) Associações e cooperativas sem fins lucrativos.\n\n2 - Os processos de candidatura referidos na alínea a) do número anterior carecem de aprovação prévia dos membros do Governo Regional com competência na área das finanças e da administração pública."
+  },
+  "733cf5a5f10e3c1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Prestação de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prestação de desemprego\n\n1 - Os trabalhadores ocupados ao abrigo do presente diploma mantêm, para todos os efeitos, a sua qualidade de beneficiários de prestações de desemprego, incluindo o direito à sua percepção.\n\n2 - O trabalho prestado nos termos do presente regime não releva para efeitos de atribuição de nova prestação de desemprego."
+  },
+  "a29e3255bd84e85b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos\n\n1 - As candidaturas para a execução de projectos de actividades ocupacionais são apresentadas nos serviços da direcção regional competente em matéria de emprego, em formulário próprio, com indicação do número e do perfil e formação dos trabalhadores pretendidos e da duração provável da ocupação.\n\n2 - As candidaturas devem ser acompanhados de elementos demonstrativos do preenchimento dos requisitos e da respectiva declaração de compromisso.\n\n3 - A direcção regional competente em matéria de emprego pode solicitar os esclarecimentos complementares que considere necessários, a apresentar no prazo de 10 dias, sob pena de se considerar desistência da candidatura.\n\n4 - Sem prejuízo do disposto nos números anteriores, a direcção regional competente em matéria de emprego supre oficiosamente as deficiências dos processos de candidatura sempre que os elementos apresentados pela entidade promotora o permitam."
+  },
+  "c1989914329bc18c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições e requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições e requisitos\n\n1 - A afectação dos trabalhadores e a concessão dos correspondentes benefícios às entidades requerentes dependem da verificação dos requisitos seguintes:\n\na) Tratar-se de projectos de trabalho de carácter temporário mas de duração não inferior a um mês nem superior a dois anos;\n\nb) Afectação dos trabalhadores à realização de actividades de interesse social.\n\n2 - Para além da demonstração do preenchimento dos requisitos enunciados no número anterior, as entidades candidatas assumem, mediante declaração, os seguintes compromissos:\n\na) Manter os postos de trabalho já existentes enquanto auferem dos benefícios atribuídos no âmbito do presente diploma, nomeadamente não substituindo os trabalhadores ao seu serviço por trabalhadores subsidiados nem afectando estes, nesta qualidade, a postos de trabalho permanentes;\n\nb) Cumprir integralmente as obrigações legais e convencionais respeitantes aos trabalhadores cuja ocupação solicitarem;\n\nc) Não ocupar trabalhadores que tenham cessado contrato de trabalho na entidade;\n\nd) Não ocupar trabalhadores em substituição de pessoal da entidade em gozo de férias;\n\ne) Ter a situação regularizada relativamente a dívidas por impostos ao Estado e a dívidas por contribuições à segurança social, nas entidades sobre as quais incida essa obrigação;\n\nf) Cumprir as obrigações constantes do presente diploma."
+  },
+  "0b01f30a4c26074c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Colocação\n\n1 - Após o deferimento do pedido, a ocupação dos trabalhadores solicitados é efectuada pela agência para a qualificação e emprego da área da localização do projecto.\n\n2 - A agência para a qualificação e emprego comunica ao Centro de Prestações Pecuniárias da Segurança Social, ou entidade equiparada, que abrange o trabalhador o início da execução do projecto, com a indicação dos dados identificadores da entidade promotora e dos trabalhadores ocupados."
+  },
+  "1da1d540d56f2ec6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Recusa injustificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recusa injustificada\n\n1 - A recusa injustificada por parte do trabalhador em aceitar a prestação de trabalho socialmente necessário, nos termos do presente diploma, determina a cessação do direito à percepção das prestações de desemprego, nos termos do [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 3 de Novembro.\n\n2 - Para os efeitos previstos no número anterior, a interrupção injustificada da actividade ocupacional é equiparada à recusa de trabalho socialmente necessário.\n\n3 - Considera-se recusa injustificada qualquer falta do ocupado sem justificação legal."
+  },
+  "b3ec0652d7bd5079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Duração, renovação e cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração, renovação e cessação\n\n1 - Quando a entidade requerente não indique o prazo de duração do projecto, considera-se que este tem a duração de 30 dias, renovando-se por iguais e sucessivos períodos, até ao limite máximo de dois anos.\n\n2 - Sempre que a entidade beneficiária pretenda pôr termo à ocupação, deve comunicá-lo, por escrito, ao trabalhador e à agência para a qualificação e emprego com 10 dias de antecedência.\n\n3 - O trabalhador pode pôr termo à ocupação no prazo e nos termos do número anterior, salvo por motivo de novo emprego, caso em que não há lugar a aviso prévio.\n\n4 - Após decorrido o limite máximo de tempo de ocupação referido no n.º 1, a entidade promotora não pode ocupar o mesmo trabalhador no mesmo projecto durante um período de, pelo menos, dois anos."
+  },
+  "5d0ee565f0e7bc8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Obrigações das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações das entidades promotoras\n\nAs entidades que beneficiem da ocupação de trabalhadores, nos termos do presente diploma, ficam sujeitas ao cumprimento das seguintes obrigações:\n\na) Complementar as prestações de desemprego a que os trabalhadores tenham direito até perfazer a retribuição legal ou convencionalmente estabelecida no respectivo sector de actividade para as categorias profissionais a que correspondam as funções por aqueles exercidas;\n\nb) Pagar ao ocupado os subsídios a que tenha direito nos termos legais ou convencionalmente estabelecidos no respectivo sector de actividade para as categorias profissionais a que correspondam as funções por aquele exercidas;\n\nc) Efectuar um seguro relativo a acidentes de trabalho e doenças profissionais, nos termos da lei geral;\n\nd) Pagar as contribuições devidas sobre as remunerações a seu cargo;\n\ne) Enviar mensalmente aos serviços da direcção regional competente em matéria de emprego uma relação do tempo de trabalho prestado por cada trabalhador ocupado, acompanhada de cópia dos recibos da retribuição e das contribuições para a segurança social."
+  },
+  "8646bd8732c61136": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legislação aplicável\n\nOs trabalhadores ocupados estão sujeitos aos deveres e gozam dos direitos e regalias legal ou convencionalmente estabelecidos para o sector de actividade em que estão ocupados, na medida em que não contrariem os objectivos do presente diploma, aplicando-se subsidiariamente os princípios relativos aos trabalhadores contratados a termo, designadamente férias, faltas e subsídios de férias e de Natal."
+  },
+  "34203d2b3cbcb02e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento\n\n1 - As agências para a qualificação e emprego acompanham o desenvolvimento dos projectos ocupacionais através dos métodos considerados adequados, de modo a verificar, nomeadamente:\n\na) Se a actividade ocupacional constante do projecto não consiste na ocupação de postos de trabalho existentes e que podem ser preenchidos no mercado normal de trabalho;\n\nb) Se os trabalhadores estão afectos a fins diferentes dos acordados por parte das entidades promotoras.\n\n2 - A Inspecção Regional do Trabalho colabora no acompanhamento do programa, quer informando os ocupados em matéria de legislação laboral quer fiscalizando a actividade ocupacional."
+  },
+  "161a2d1bd318a01b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incumprimento\n\n1 - A violação dos deveres estabelecidos neste diploma implica para a entidade a interrupção imediata do projecto e cessação da ocupação.\n\n2 - As entidades que pratiquem irregularidades ou infracções ficam excluídas quer da promoção de projectos de actividades ocupacionais quer da promoção de outros programas de fomento ao emprego, pelo período de dois anos.\n\n3 - As sanções estabelecidas neste artigo não afastam a responsabilidade contra-ordenacional ou criminal a que houver lugar."
+  },
+  "df93e6b78d5f718a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\n1 - Os regulamentos que se mostrem necessários à boa execução do regime constante do presente diploma revestem a forma de despacho normativo do membro do Governo Regional competente em matéria de emprego.\n\n2 - A direcção regional competente em matéria de emprego elabora as orientações internas que se tornem necessárias à execução do presente programa."
+  },
+  "4af93f971d701bbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposição transitória\n\nÀs candidaturas já apresentadas à data da publicação do presente diploma mas que, na mesma data, não tenham sido objecto de decisão é aplicável o regime vigente à data da apresentação das candidaturas, salvo se, no prazo de 15 dias, os respectivos promotores optarem pelo regime agora instituído."
+  },
+  "b62a60429dcde0e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nÉ revogado o [Decreto Regulamentar Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1999-185338), de 4 de Fevereiro."
+  },
+  "72af1f0458e0bba6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Abril de 2008.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 24 de Abril de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "dd60342f243df388": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito subjectivo",
+   "in_force_from": "2012-05-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2012-552066), publicado em 2012-05-09."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito subjectivo\n\n1 - Podem candidatar-se à execução de projetos de atividades ocupacionais as seguintes entidades com e sem fins lucrativos:\n\na) Serviços e organismos dependentes da administração pública regional;\n\nb) Serviços e organismos localizados na Região Autónoma dos Açores dependentes da administração pública central;\n\nc) Serviços e organismos dependentes da administração local;\n\nd) Instituições particulares de solidariedade social ou equiparados;\n\ne) Associações e cooperativas sem fins lucrativos.\n\nf) Entidades públicas empresariais;\n\ng) Sociedades anónimas de capitais maioritariamente públicos.\n\n2 - Os processos de candidatura referidos na alínea a) do número anterior carecem de aprovação prévia dos membros do Governo Regional com competência na área das finanças e da administração pública.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2012-552066), publicado em 2012-05-09."
+  }
+ }
+}

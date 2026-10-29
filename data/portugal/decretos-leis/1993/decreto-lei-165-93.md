@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-05-13'
+version_history:
+  file: decreto-lei-165-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-05-13'
+    amending: pt:dre:383437:por
+    amending_title: Decreto-Lei n.º 109/97
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/165/1993/05/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:23:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 109/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-165-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,21 +245,19 @@ c) Venda a municípios ou a instituições particulares de solidariedade social 
 
 3 - A divulgação das condições de comercialização dos fogos, respectivas tipologias e valores de venda, bem como os locais e as entidades junto das quais os interessados na aquisição se podem inscrever, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Artigo 12.º — Intransmissibilidade
+###### Artigo 12.º — Regimes de inalienabilidade e de renda condicionada
 
-1 - Os fogos adquiridos ao abrigo do disposto nas alíneas a) e b) do artigo 10.º ficam sujeitos a um regime de intransmissibilidade pelo período de cinco anos subsequente à data da respectiva aquisição ou emissão da licença de utilização, caso esta seja posterior.
+1 - Os fogos adquiridos ao abrigo do disposto nas alíneas a) e b) do artigo 10.º ficam sujeitos ao regime legal de inalienabilidade previsto para as habitações a custos controlados para venda.
 
 2 - Nos fogos destinados a arrendamento o valor da renda não pode exceder, durante o prazo de cinco anos, o seu valor calculado em regime de renda condicionada.
 
-3 - Os regimes de intransmissibilidade e de arrendamento em regime de renda condicionada referidos nos números anteriores estão sujeitos a registo e cessam automaticamente, independentemente do referido prazo, com a morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge.
+3 - O regime de arrendamento referido no número anterior está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge.
 
-4 - Se o proprietário pretender alienar o fogo antes do decurso do prazo referido no n.º 1, pode solicitar ao INH o levantamento do regime de intransmissibilidade, reembolsando a bonificação relativa à respectiva fracção, nos termos a definir em portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+4 - Em caso de execução da garantia hipotecária da entidade financiadora, cessa a sujeição aos valores de venda máximos previstos no presente diploma.
 
-5 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda de fogo perante documento emitido, para o efeito, pelo INH.
+5 - O disposto nos números anteriores aplica-se igualmente aos casos previstos na alínea c) do artigo 10.º, sem prejuízo de outros ónus que porventura lhes sejam aplicáveis por efeito de outras disposições legais.
 
-6 - Em caso de execução da garantia hipotecária da entidade financiadora, cessa a sujeição aos valores de venda máximos previstos no presente diploma.
-
-7 - O disposto nos números anteriores aplica-se igualmente aos casos previstos na alínea c) do artigo 10.º, sem prejuízo de outros ónus que porventura lhes sejam aplicáveis por efeito de outras disposições legais.
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437), publicado em 1997-05-08.
 
 ###### Artigo 13.º — Garantia dos empréstimos
 

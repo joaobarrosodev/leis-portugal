@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-02-19'
+version_history:
+  file: decreto-lei-272-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-19'
+    amending: pt:dre:596317:por
+    amending_title: Decreto-Lei n.º 31/2005
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/272/2000/11/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:20:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 31/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-272-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,7 @@ d) Animal suspeito - todo o bovino clinicamente suspeito, com reacção positiva
 
 e) Efectivo suspeito - aquele que contém bovinos clinicamente suspeitos, com reacção positiva na prova de intradermotuberculinização ou com lesões suspeitas detectadas em exame post mortem;
 
-f) Efectivo infectado - aquele que contém animais que nos exames laboratoriais post mortem apresentaram lesões anátomo-patológicas características da doença e nos quais tenham sido isoladas bactérias do género Mycobacterium (M. bovis, M. avium e M. tuberculosis);
+f) Efectivo infectado - aquele que contém animais que nos exames laboratoriais post mortem apresentaram lesões anatomopatológicas características da doença e nos quais tenham sido isoladas bactérias do género Mycobacterium (M. bovis e M. turberculosis);
 
 g) Inquérito epidemiológico - conjunto uniformizado de informação sanitária, recolhida em impresso próprio fornecido pela Direcção-Geral de Veterinária (DGV), que se destina à avaliação epidemiológica de uma ocorrência sanitária, sendo o inquérito epidemiológico efectuado em todas as situações em que há suspeita ou confirmação de tuberculose bovina;
 
@@ -187,6 +202,8 @@ q) País ou região oficialmente indemne de tuberculose - o país ou uma região
 r) Autoridade sanitária veterinária nacional - a DGV, podendo esta delegar as competências que lhe são atribuídas pelo presente diploma;
 
 s) Autoridade sanitária veterinária regional - as DRA.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 31/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2005-596317), publicado em 2005-02-14.
 
 ###### Artigo 3.º — Competências
 

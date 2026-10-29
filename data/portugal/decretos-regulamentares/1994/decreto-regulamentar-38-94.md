@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-11-30'
+version_history:
+  file: decreto-regulamentar-38-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-11-30'
+    amending: pt:dre:355905:por
+    amending_title: Declaração de Rectificação n.º 239/94
+    changes:
+    - Retifica Artigo 7.º
+    - Retifica Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/38/1994/09/01/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:22:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 239/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1994/decreto-regulamentar-38-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,7 +226,7 @@ c) Estudar, propor e executar alterações à configuração dos sistemas de pro
 
 Ao Serviço de Assistência Oficinal compete:
 
-a) Planear e executar, de acordo com as suas capacidades, as acções de manuteção de equipamentos e sistemas de comunicações instalados no CCA e em terminais periféricos ligados ao equipamento telegráfico automático de retransmissão de mensagens;
+a) Planear e executar, de acordo com as suas capacidades, as acções de manutenção de equipamentos e sistemas de comunicações instalados no CCA e em terminais periféricos ligados ao equipamento telegráfico automático de retransmissão de mensagens;
 
 b) Planear e executar as acções de manutenção de equipamentos e sistemas de produção e distribuição de energia eléctrica e de sistemas condicionadores de ar;
 
@@ -218,13 +234,15 @@ c) Planear e executar, de acordo com as suas capacidades, as acções de manuten
 
 d) Preparar e divulgar normas de operação dos equipamentos.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30.
+
 ###### Artigo 8.º — Serviço de Apoio Geral
 
 1 - Ao Serviço de Apoio Geral compete:
 
 a) Executar as tarefas de natureza administrativa inerentes à gestão do pessoal em serviço no CCA;
 
-b) Receber, registar, expedir processar e arquivar a correspondência do CCA e executar os trabalhos de dactilografia e reprodução de documentos necessários ao seu funcionamento;
+b) Receber, registar, expedir, processar e arquivar a correspondência do CCA e executar os trabalhos de dactilografia e reprodução de documentos necessários ao seu funcionamento;
 
 c) Coordenar a utilização das viaturas atribuídas ao CCA;
 
@@ -239,6 +257,8 @@ g) Elaborar, manter e assegurar a execução de normas para a prevenção e comb
 h) Executar, de acordo com as suas capacidades, as acções de manutenção, conservação e reparação das instalações do CCA e efectuar a sua limpeza.
 
 2 - O Serviço de Apoio Geral é chefiado por um oficial, em regime de acumulação com outras funções no CCA.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30.
 
 ###### Artigo 9.º — Norma revogatória
 

@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-04-10'
+version_history:
+  file: decreto-lei-244-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-10'
+    amending: pt:dre:259962:por
+    amending_title: Decreto-Lei n.º 48/2013
+    changes:
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/244/2009/09/22/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:09:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/2013. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-244-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +244,9 @@ A assembleia geral da Sociedade deve reunir, na sua sede social, até ao 30.º d
 
 ###### Artigo 10.º — Direcção e coordenação
 
-A direcção e a coordenação geral da Polis Litoral Sudoeste - Operação Integrada de Requalificação e Valorização do Sudoeste Alentejano e Costa Vicentina, nos termos definidos no respectivo plano estratégico, ficam a cargo da sociedade Parque Expo 98, S. A.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 48/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2013-259962), publicado em 2013-04-05.
 
 ###### Artigo 11.º — Acumulação de funções
 

@@ -1,0 +1,347 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321289:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "392d3e6144b13e17",
+    "34af2eca729b1368",
+    "6099f666577ad74c",
+    "fe0c13a0062be611",
+    "f4491079ab7b4e50",
+    "b7ba074e97063716",
+    "607ef05b163396e7",
+    "e428792b6281bb5a",
+    "971bf05cca86421c",
+    "c8117d8e2b5aefc4",
+    "0e8d5cd1aafe9972",
+    "875d8017e40ebaeb",
+    "2fefbdd5d221aa70",
+    "641a236ffb9df609",
+    "3a3178eb0c9df292",
+    "c16a91adea6ef7ed",
+    "72de1f86a1e11b79",
+    "1a883c54822028c1",
+    "1d68946264c9b257",
+    "7beb3526c62e5306",
+    "8f0af2a11ef53749",
+    "1ca16b84928bfadc",
+    "607bad4dc6e30237",
+    "bbd974cf67c6211a",
+    "49844959542796be",
+    "afd824f565f05836",
+    "bdb4ae3a7e858f6f",
+    "e82d8dc5e037441b",
+    "5709ec13c872a716"
+   ]
+  },
+  {
+   "date": "2001-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522218:por",
+     "title": "Lei n.º 89/2001",
+     "published": "2001-08-10",
+     "dre_path": "/dr/detalhe/lei/89-2001-522218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "392d3e6144b13e17",
+    "34af2eca729b1368",
+    "6099f666577ad74c",
+    "fe0c13a0062be611",
+    "f4491079ab7b4e50",
+    "b7ba074e97063716",
+    "607ef05b163396e7",
+    "e428792b6281bb5a",
+    "971bf05cca86421c",
+    "c8117d8e2b5aefc4",
+    "0e8d5cd1aafe9972",
+    "875d8017e40ebaeb",
+    "2fefbdd5d221aa70",
+    "641a236ffb9df609",
+    "3a3178eb0c9df292",
+    "c16a91adea6ef7ed",
+    "72de1f86a1e11b79",
+    "1a883c54822028c1",
+    "1d68946264c9b257",
+    "7beb3526c62e5306",
+    "c4d9ee6b48ecc207",
+    "e8f1d19a088cb232",
+    "607bad4dc6e30237",
+    "bbd974cf67c6211a",
+    "49844959542796be",
+    "afd824f565f05836",
+    "bdb4ae3a7e858f6f",
+    "e82d8dc5e037441b",
+    "5709ec13c872a716"
+   ]
+  }
+ ],
+ "fragments": {
+  "392d3e6144b13e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro\n\nO reconhecimento da cultura como elemento estruturante da sociedade tem-se traduzido num significativo aumento do número e da diversidade de museus. As comunidades reclamam-nos não só pelas suas funções mais tradicionais, de conservação e divulgação da memória colectiva, mas enquanto lugares operativos de vida cultural.\n\nPara responderem às múltiplas e crescentes funções que lhes são requeridas, a actualização das carreiras específicas é uma condição indispensável ao rigor e ampliação do seu desempenho. A situação de carência que, nesta matéria, se verifica em toda a realidade museológica nacional, é particularmente grave no caso dos museus tutelados pelo Ministério da Cultura devido ao carácter avulso das alterações ao estatuto das carreiras específicas das áreas funcionais de Museologia e Conservação e Restauro, fixado pelos Decretos-Leis n.os [45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, e [245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, totalmente inadequado à resolução dos problemas que a formação e o recrutamento suscitam.\n\nO presente diploma inscreve-se, em primeiro lugar, na filosofia global das carreiras da Administração Pública que defende, como enunciados fundamentais, o alargamento da base de recrutamento e a mobilidade entre carreiras. Em segundo lugar, e de acordo com as mesmas orientações, restringe-se ao indispensável as carreiras específicas o que significa, também, que se pretende abrir os museus a formações diversificadas, nomeadamente as carreiras técnicas e técnicas superiores.\n\nNo organigrama das funções que se requerem para os museus, coloca-se, como carreira de topo na área da museologia, a carreira de conservador, que tem, como exigência de acesso, o grau de mestrado ou pós-graduação não inferior a dois anos.\n\nConsiderando a multiplicidade e profundidade de conteúdos que esta carreira contempla - investigação, conservação, museografia e divulgação; considerando o crescente número de cursos de pós-graduação e mestrado que incluem cadeiras de museologia; considerando, finalmente, não ter justificação a existência nos museus da carreira de investigação alarga-se a especialização requerida a outras áreas científicas, além da Museologia, a seleccionar, de acordo com a particularidade das colecções dos museus e os perfis a preencher.\n\nEste alargamento da base de recrutamento determina que a carreira se inicie por um estágio de um ano, que deve ser diferenciado, tendo em conta a formação inicial do candidato e os objectivos de desempenho pretendidos.\n\nO trabalho de museu exige equipas técnicas diversificadas mas bem estruturadas para cada caso, em função das características particulares e das necessidades intrínsecas do núcleo patrimonial. Assim, os diversos perfis de técnicos superiores, técnicos, técnicos profissionais e outros recrutar-se-ão pelo regime geral das carreiras da Administração Pública ou pelos diplomas do regime especial aplicáveis, o que, simultaneamente, garante maiores possibilidades de escolha e simplificação administrativa.\n\nO entendimento de que a permeabilidade das carreiras é fundamental ao desempenho do museu, justifica que, por exemplo, aos serviços educativos não seja atribuída uma carreira específica. A experiência mostra que a formação específica e respectiva carreira, nesta área, são perigosamente redutoras. As importantes funções do serviço educativo de um museu, dirigidas a públicos diferenciados cada vez mais exigentes, não dispensam um trabalho de equipa alargado, coordenado por um conservador e desempenhado por técnicos de nível superior e médio com formação inicial diversificada, definida pelas particularidades das colecções e dos objectivos de cada museu.\n\nA principal excepção, em termos de carreiras específicas, diz respeito à área da conservação dos vários níveis de competência e de particularização de funções - conservador-restaurador, técnico de conservação e restauro, técnico de fotografia e radiografia para a conservação, técnico profissional de conservação e restauro - que exigem um alto nível, científico e ético, de forma a intervir sobre o património cultural sem perda de informação nem prejuízo da autenticidade. Neste contexto, consagra-se em lei, pela primeira vez, a designação de conservador-restaurador e a respectiva formação universitária, medida de inestimável alcance e oportunidade, mesmo no âmbito internacional.\n\nPor outro lado, consagrando a realidade vivida em muitos museus e monumentos e visando corrigir distorções funcionais, cria-se uma nova carreira no âmbito do grupo de pessoal técnico-profissional, cujo conteúdo funcional conjuga as tarefas de vigilância e segurança com as de recepção e lojas. Desta forma, torna-se possível adequar e formalizar a prática existente, dignificando os profissionais, mediante a previsão de um conjunto equilibrado de regras de transição da actual carreira de guarda de museu para a nova carreira de vigilante-recepcionista.\n\nAs restantes carreiras constituem-se, naturalmente, como componentes indispensáveis do corpo activo e diversificado que é um museu, onde o fazer e os saberes devem estar disseminados, salvaguardando-se também as componentes de artesania que são património a recuperar na prática museal.\n\nForam ouvidos os órgãos de Governo próprio das Regiões Autónomas.\n\nForam observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "34af2eca729b1368": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Principios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Principios gerais"
+  },
+  "6099f666577ad74c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma define o regime das carreiras do pessoal que exerce a sua actividade no domínio da museologia e no domínio da conservação e do restauro e procede ao respectivo enquadramento nos grupos, níveis e graus previstos no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n2 - O regime referido no número anterior é aplicável ao pessoal dos museus, palácios, monumentos e sítios e dos serviços e organismos da administração central com atribuições na área da museologia e na área da conservação e do restauro do património cultural, sob tutela do Ministério da Cultura.\n\n3 - A aplicação e adaptação do presente diploma ao pessoal da administração regional autónoma faz-se por diploma legislativo regional."
+  },
+  "fe0c13a0062be611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Áreas e conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas e conteúdos funcionais\n\nO pessoal referido no artigo anterior exerce a sua actividade em todas as áreas que integrem a museologia, a conservação e o restauro do património cultural, de acordo com os conteúdos funcionais constantes do anexo I ao presente diploma."
+  },
+  "f4491079ab7b4e50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Regime das carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Regime das carreiras"
+  },
+  "b7ba074e97063716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Carreira de conservador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carreira de conservador\n\n1 - A carreira de conservador desenvolve-se pelas categorias de conservador assessor principal, conservador assessor, conservador principal, conservador de 1.ª e de 2.ª classes.\n\n2 - O recrutamento para a categoria de ingresso na carreira é feito, mediante concurso, de entre candidatos possuidores de uma das seguintes habilitações e aprovados em estágio probatório com a duração de um ano com classificação não inferior a Bom:\n\na) Licenciados com curso de Conservador de Museu regulado pelo [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965, e pelo [Despacho Normativo n.º 129/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/129-1983-451656), de 18 de Abril;\n\nb) Licenciados com curso de pós-graduação não inferior a dois anos nas áreas da Museologia, do Património ou outras adequadas à especialização de cada museu, palácio, monumento ou sítio;\n\nc) Mestres nas áreas da Museologia, do Património ou outras adequadas à especialização de cada museu, palácio, monumento ou sítio.\n\n3 - O recrutamento para as categorias de acesso da carreira de conservador é feito nos termos das alíneas a), b) e c) do n.º 1 e do n.º 3 do artigo 4.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n4 - A carreira de conservador é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "607ef05b163396e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Carreira de conservador-restaurador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Carreira de conservador-restaurador\n\n1 - A carreira de conservador-restaurador desenvolve-se pelas categorias de conservador-restaurador assessor principal, conservador-restaurador assessor, conservador-restaurador principal, conservador-restaurador de 1.ª e de 2.ª classes.\n\n2 - O recrutamento para a categoria de ingresso na carreira é feito, mediante concurso, de entre candidatos habilitados com licenciatura na área da Conservação e do Restauro, aprovados em estágio probatório com a duração de um ano com classificação não inferior a Bom.\n\n3 - O recrutamento para as categorias de acesso da carreira de conservador-restaurador é feito nos termos das alíneas a), b) e c) do n.º 1 e do n.º 3 do artigo 4.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n4 - A carreira de conservador-restaurador é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "e428792b6281bb5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Carreira de técnico de conservação e restauro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Carreira de técnico de conservação e restauro\n\n1 - A carreira de técnico de conservação e restauro desenvolve-se pelas categorias de técnico especialista principal, técnico especialista, técnico principal e técnico de 1.ª e de 2.ª classes.\n\n2 - O recrutamento para a categoria de ingresso na carreira é feito, mediante concurso, de entre diplomados com curso superior na área de Conservação e Restauro, que não confira o grau de licenciatura, aprovados em estágio probatório com a duração de um ano com classificação não inferior a Bom.\n\n3 - O recrutamento para as categorias de acesso da carreira de técnico de conservação e restauro é feito nos termos das alíneas a) e b) do n.º 1 e da alínea a) do n.º 3 do artigo 5.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n4 - A carreira de técnico de conservação e restauro é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "971bf05cca86421c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Carreira de técnico de fotografia e radiografia para a conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Carreira de técnico de fotografia e radiografia para a conservação\n\n1 - A carreira de técnico de fotografia e radiografia para a conservação desenvolve-se pelas categorias de técnico especialista principal, técnico especialista, técnico principal, técnico de 1.ª e de 2.ª classes.\n\n2 - O recrutamento para a categoria de ingresso é feito, mediante concurso, de entre indivíduos aprovados em estágio probatório com a duração de um ano com classificação não inferior a Bom e habilitados com curso superior que não confira o grau de licenciatura adequado ao conteúdo funcional da carreira, ou detentores do 12.º ano de escolaridade ou do antigo curso complementar do ensino secundário e com aprovação em curso de formação profissional adequado com duração não inferior a três anos, nos termos a definir por despacho do Ministro da Cultura.\n\n3 - O recrutamento para as categorias de acesso obedece ao disposto nas alíneas a) e b) do n.º 1 e da alínea a) do n.º 3 do artigo 5.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n4 - A carreira de técnico de fotografia e radiografia para a conservação é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "c8117d8e2b5aefc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Carreiras técnico-profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Carreiras técnico-profissionais\n\n1 - As carreiras técnico-profissionais de museografia, de conservação e restauro e de vigilante-recepcionista desenvolvem-se pelas categorias de especialista principal, especialista, principal, de 1.ª e de 2.ª classes.\n\n2 - Sem prejuízo do disposto no número seguinte, o recrutamento para as categorias das carreiras a que se refere o número anterior é feito nos termos das alíneas b), c) e d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n3 - O recrutamento para a categoria de ingresso na carreira de vigilante-recepcionista pode ainda ser feito, mediante concurso, de entre indivíduos habilitados com o 12.º ano de escolaridade e com o domínio de, pelo menos, uma língua estrangeira, aprovados em estágio probatório com a duração de um ano e classificação não inferior a Bom.\n\n4 - As carreiras técnico-profissionais de museografia, de conservação e restauro e de vigilante-recepcionista são remuneradas de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "0e8d5cd1aafe9972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Carreira de artífice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Carreira de artífice\n\n1 - A carreira de artífice desenvolve-se pelas categorias de artífice principal e artífice.\n\n2 - O recrutamento para a categoria de artífice principal faz-se de entre artífices com, pelo menos, três anos na categoria e classificação de serviço não inferior a Bom.\n\n3 - O recrutamento para a categoria de artífice faz-se, mediante concurso de provas práticas de conhecimentos, de entre indivíduos habilitados com a escolaridade obrigatória e experiência profissional na área para a qual o concurso é aberto, aprovados em estágio probatório com a duração de um ano com classificação não inferior a Bom.\n\n4 - A carreira de artífice é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "875d8017e40ebaeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime de estágio\n\nO regime de estágio para ingresso nas carreiras de conservador, conservador-restaurador, técnico de conservação e restauro, técnico de fotografia e radiografia para a conservação, vigilante-recepcionista e artífice obedece às regras constantes do artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho."
+  },
+  "2fefbdd5d221aa70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regime de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime de formação profissional\n\nAo pessoal das carreiras previstas no presente diploma é-lhe aplicável o regime de formação profissional constante do [Decreto-Lei n.º 50/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1998-218952), de 11 de Março."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "3a3178eb0c9df292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Extinção de carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extinção de carreiras\n\n1 - São extintas as carreiras de monitor, de assistente de conservador, de técnico auxiliar de conservação e restauro e de auxiliar de museografia.\n\n2 - São extintos, à medida que vagarem da base para o topo, os lugares correspondentes à carreira de secretário-recepcionista e ao grupo de pessoal de guardaria constantes dos quadros de pessoal dos museus, palácios, monumentos e sítios a que se refere o n.º 2 do artigo 1.º do presente diploma."
+  },
+  "c16a91adea6ef7ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Carreira de secretário-recepcionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Carreira de secretário-recepcionista\n\n1 - A carreira de secretário-recepcionista desenvolve-se pelas categorias de técnico profissional especialista principal, técnico profissional especialista, técnico profissional principal e técnico profissional de 1.ª e de 2.ª classes.\n\n2 - O recrutamento para a carreira é feito nos termos das alíneas b) e c) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n3 - A carreira de secretário-recepcionista é remunerada de acordo com a escala indiciária constante do anexo II ao presente diploma."
+  },
+  "72de1f86a1e11b79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Carreira do pessoal de guardaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Carreira do pessoal de guardaria\n\n1 - O recrutamento para as categorias de almoxarife e encarregado de guardaria continua a reger-se pelo disposto no [Decreto-Lei n.º 126/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1994-262835), de 19 de Maio.\n\n2 - O pessoal integrado nas categorias de almoxarife, encarregado de guardaria e de guarda de museu é remunerado de acordo com a escala indiciária constante do anexo II ao presente diploma.\n\n3 - O pessoal integrado nas categorias de almoxarife, de encarregado de guardaria e de guarda de museu transita para a carreira de vigilante-recepcionista à medida que preencher os requisitos constantes do n.º 5 do artigo seguinte."
+  },
+  "1a883c54822028c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regras de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regras de transição\n\n1 - A transição dos funcionários actualmente integrados na carreira de técnico de conservação e restauro da área funcional de pintura, escultura, têxteis e documentos gráficos faz-se na mesma categoria e no escalão constante do mapa A do anexo III ao presente diploma.\n\n2 - A transição dos funcionários actualmente integrados nas carreiras de técnico de conservação e restauro da área funcional de objectos arqueológicos, azulejaria, faiança, porcelana e vitral e de técnico de fotografia e radiografia para a conservação faz-se na mesma categoria e no escalão constante do mapa B do anexo III ao presente diploma.\n\n3 - A transição dos funcionários actualmente integrados nas carreiras de monitor e assistente de conservador para a carreira técnico-profissional de museografia faz-se na categoria e escalão detidos em resultado da aplicação do artigo 20.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n4 - A transição dos funcionários actualmente integrados na carreira de técnico auxiliar de conservação e restauro da área funcional de objectos arqueológicos e etnográficos e documentos gráficos faz-se na categoria e escalão constantes do mapa C do anexo III ao presente diploma.\n\n5 - Os actuais titulares das categorias de almoxarife, encarregado de guardaria e guarda de museu possuidores do 12.º ano de escolaridade e experiência profissional adequada de, pelo menos, um ano ou do 9.º ano de escolaridade e experiência profissional adequada de, pelo menos, três anos transitam para a carreira de vigilante-recepcionista na categoria e escalão constantes do mapa D do anexo III ao presente diploma.\n\n6 - Os funcionários providos na carreira do pessoal de guardaria, que não possuam os requisitos previstos no número anterior, transitam para a escala indiciária constante do anexo II ao presente diploma, na mesma carreira, categoria e escalão.\n\n7 - A transição dos funcionários actualmente integrados na carreira de artífice faz-se na mesma categoria e no escalão constante do mapa E do anexo III ao presente diploma.\n\n8 - Os funcionários actualmente integrados na carreira de auxiliar de museografia transitam, no mesmo escalão, para a carreira de auxiliar administrativo.\n\n9 - O pessoal actualmente provido na categoria de artífice principal de conservação e restauro de artes decorativas/documentos gráficos pode transitar para a categoria de técnico de 2.ª classe de fotografia e radiografia para a conservação, em escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado, mediante avaliação a efectuar por comissão técnica, nos termos a definir por despacho do Ministro da Cultura e desde que reúna cumulativamente os seguintes requisitos:\n\na) Habilitado, no mínimo, com o 12.º ano de escolaridade;\n\nb) Detentor de pelo menos seis anos de antiguidade na carreira, classificados com notação não inferior a Bom;\n\nc) Pelo menos 15 anos de experiência comprovada no desempenho de funções correspondentes à carreira de técnico de fotografia e radiografia para a conservação e restauro."
+  },
+  "1d68946264c9b257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Limites ao acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Limites ao acesso\n\nO pessoal que transite nos termos do n.º 9 do artigo anterior não pode ascender para além da categoria de técnico principal da nova carreira."
+  },
+  "7beb3526c62e5306": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regras de faseamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras de faseamento\n\nA aplicação dos índices correspondentes aos escalões resultantes das regras de transição fixadas pelo artigo 14.º faz-se de forma faseada e, em função dos acréscimos remuneratórios verificados, com os limites seguintes:\n\na) Na data de entrada em vigor do presente diploma não podem resultar impulsos salariais superiores a 25 pontos;\n\nb) Um ano após a data de entrada em vigor do presente diploma atribuir-se-ão, se for caso disso, impulsos salariais não superiores a 40 pontos;\n\nc) Dois anos após a entrada em vigor do presente diploma, e, se for caso disso, atribuir-se-ão os pontos indiciários restantes, para completamento do valor total dos índices."
+  },
+  "8f0af2a11ef53749": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Recrutamento excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recrutamento excepcional\n\n1 - Durante um período de dois anos a contar da data de entrada em vigor do presente diploma e mediante a realização de concursos nos termos legais:\n\na) O recrutamento para a carreira de conservador pode ser alargado aos técnicos superiores dos quadros de pessoal dos palácios, monumentos e sítios, detentores de licenciatura adequada e experiência profissional, no mínimo de três anos, no exercício efectivo de funções correspondentes à carreira de conservador;\n\nb) O recrutamento para a carreira de conservador-restaurador pode ser alargado aos técnicos de conservação e restauro possuidores de curso superior não conferente de grau de licenciatura, habilitados com formação profissional adequada e com experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro;\n\nc) O recrutamento para a carreira de técnico profissional de conservação e restauro pode ser alargado a indivíduos habilitados com o 9.º ano de escolaridade e experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro.\n\n2 - A integração na escala indiciária das categorias de ingresso das carreiras a que se refere o número anterior faz-se nos termos do n.º 2 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, aplicando-se o disposto no n.º 3 do mesmo artigo."
+  },
+  "1ca16b84928bfadc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Alteração dos quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração dos quadros de pessoal\n\n1 - Os quadros de pessoal dos serviços e organismos abrangidos por este diploma consideram-se automaticamente alterados nos seguintes termos:\n\na) As dotações de conservador assessor principal e conservador assessor são convertidas em dotação global;\n\nb) As dotações de conservador principal, de 1.ª e de 2.ª classes são convertidas em dotação global;\n\nc) Os lugares das carreiras de monitor, assistente de conservador e técnico auxiliar de museografia são convertidos em lugares da carreira de técnico profissional de museografia;\n\nd) Os lugares da carreira de técnico auxiliar de conservação e restauro são convertidos em lugares da carreira de técnico profissional de conservação e restauro;\n\ne) Os lugares da carreira do grupo de pessoal de guardaria providos pelos funcionários que transitem nos termos do n.º 5 do artigo 14.º do presente diploma são convertidos em lugares da carreira de vigilante-recepcionista;\n\nf) Os lugares da carreira de auxiliar de museografia são convertidos em lugares da carreira de auxiliar administrativo.\n\n2 - Para efeitos da aplicação do regime previsto no presente diploma, os quadros de pessoal dos organismos e serviços referidos no artigo 1.º serão alterados no prazo de um ano."
+  },
+  "607bad4dc6e30237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contagem de tempo de serviço\n\nNos casos em que das regras de transição resulte um impulso salarial igual ou inferior a 10 pontos, releva, para efeitos de progressão, o tempo de permanência no índice de origem."
+  },
+  "bbd974cf67c6211a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Concursos pendentes\n\nMantêm-se válidos os concursos cujos avisos de abertura se encontrem publicados até à data da entrada em vigor do presente diploma."
+  },
+  "49844959542796be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nSão revogados o [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, alterado pelo [Decreto-Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1987-663513), de 13 de Janeiro, e as disposições do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, que contrariam o presente diploma."
+  },
+  "afd824f565f05836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma produz efeitos a 1 de Julho de 2000.\n\nVisto e aprovado em Conselho de Ministros de 11 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Estêvão Cangarato Sasportes - Alberto de Sousa Martins.\n\nPromulgado em 2 de Fevereiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 7 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "bdb4ae3a7e858f6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Conteúdos funcionais\n\nConservador\n\nRealiza e coordena trabalhos de inventariação, investigação, estudo, exposição, divulgação e organização do património cultural.\n\nCoordena acções de conservação, particularmente de conservação preventiva.\n\nConservador-restaurador\n\nInvestiga, utiliza e adapta métodos laboratoriais e processos técnico-científicos, a fim de diagnosticar, definir, coordenar e executar acções de conservação preventiva bem como realizar intervenções curativas de conservação e restauro do património cultural.\n\nTécnico de conservação e restauro\n\nProcede a exames técnicos e ao diagnóstico do estado de conservação do património cultural. Realiza e documenta as intervenções adequadas a cada caso.\n\nTécnico de fotografia e radiografia para a conservação\n\nRealiza fotografia, radiografia e outros registos tecnicamente afins, mediante procedimentos laboratoriais não destrutivos de exame do património cultural para sua documentação e interpretação de patologias e processos construtivos.\n\nTécnico profissional de museografia\n\nExecuta, sob orientação de um conservador ou técnico superior, trabalhos diversos nas áreas da conservação preventiva, inventariação, estudo, exposição e comunicação do património cultural.\n\nTécnico profissional de conservação e restauro\n\nExecuta, sob orientação directa de um conservador-restaurador ou técnico de conservação e restauro, acções conducentes à conservação preventiva e curativa, bem como o restauro do património cultural nas áreas de pintura, escultura, mobiliário, talha, têxteis, papel e materiais afins, metal, cerâmica e vidro.\n\nSecretário-recepcionista\n\nAssegura o funcionamento dos serviços de acolhimento do público, designadamente a recepção e a loja. Presta informações de carácter geral sobre as colecções, organização e funcionamento dos serviços.\n\nVigilante-recepcionista\n\nAo vigilante-recepcionista compete zelar pela integridade do património que lhe está directamente confiado, executar as tarefas de vigilância e segurança diurnas, usar os respectivos meios áudio-visuais e outros adequados, apoiar acções de emergência da salvaguarda do património devidamente comprovadas, acolher o público, orientar, encaminhar e prestar informações de carácter geral sobre o património, as colecções e espécies, sobre a organização e o funcionamento dos serviços, em ordem a estabelecer um elo de ligação adequado entre o público e os serviços, assegurando o serviço de bilheteira e da loja.\n\nGuarda de museu\n\nZela pela integridade do património que lhe está confiado. Executa as tarefas necessárias de manutenção, vigilância e segurança sobre os bens móveis e o imóvel. Fornece informações ao público, no âmbito dos seus conhecimentos.\n\nArtífice\n\nProduz, por processos artesanais tradicionais e sob orientação, obra enquadrável no sector das artes decorativas e trabalho integrável em restauro do património cultural, possuindo o domínio das tecnologias e um conhecimento profundo dos materiais. Desenvolve o seu trabalho, entre outras, nas áreas de marcenaria, serralharia, douramento, cantaria, mosaico, estucagem, olaria, ourivesaria, tecelagem, encadernação e instrumentação musical."
+  },
+  "e82d8dc5e037441b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Escalas salariais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Escalas salariais\n\nCarreira de conservador\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira de conservador-restaurador\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira de técnico de conservação e restauro\n\nCarreira de técnico de fotografia e radiografia para a conservação\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira técnico-profissional de museografia\n\nCarreira técnico-profissional de conservação e restauro\n\nCarreira técnico-profissional de secretário-recepcionista\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira de vigilante-recepcionista\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira do pessoal de guardaria\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nCarreira de artífice\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)"
+  },
+  "5709ec13c872a716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mapas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Mapas de transição\n\nMAPA A\n\nCarreira de técnico de conservação e restauro da área funcional de pintura, escultura, têxteis e documentos gráficos\n\n[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nMAPA B\n\nCarreiras de técnico de conservação e restauro da área funcional de objectos arqueológicos, azulejaria, faiança, porcelana e vitral e de técnico de fotografia e radiografia para a conservação\n\n[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nMAPA C\n\nCarreira de técnico auxiliar de conservação e restauro da área funcional de objectos arqueológicos e etnográficos e documentos gráficos\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nMAPA D\n\nCarreira de vigilante-recepcionista\n\n[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)\n\nMAPA E\n\nCarreira de artífice\n\n[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)](https://files.diariodarepublica.pt/1s/2001/02/039a00/08460853.pdf)"
+  },
+  "c4d9ee6b48ecc207": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Recrutamento excepcional",
+   "in_force_from": "2001-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10."
+   ],
+   "markdown": "###### Artigo 17.º — Recrutamento excepcional\n\n1 - Durante um período de dois anos a contar da data de entrada em vigor do presente diploma e mediante a realização de concursos nos termos legais:\n\na) O recrutamento para a carreira de conservador pode ser alargado aos técnicos superiores dos quadros de pessoal dos museus, palácios, monumentos e sítios dos serviços e organismos a que se refere o n.º 2 do artigo 1.º do presente diploma, detentores de licenciatura adequada e experiência profissional, no mínimo de três anos, no exercício efectivo de funções correspondentes à carreira de conservador;\n\nb) O recrutamento para a carreira de conservador-restaurador pode ser alargado aos técnicos de conservação e restauro possuidores de curso superior não conferente de grau de licenciatura, habilitados com formação profissional adequada e com experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro;\n\nc) O recrutamento para a carreira de técnico profissional de conservação e restauro pode ser alargado a indivíduos habilitados com o 9.º ano de escolaridade e experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro.\n\n2 - A integração na escala indiciária das categorias de ingresso das carreiras a que se refere o número anterior faz-se nos termos do n.º 2 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, aplicando-se o disposto no n.º 3 do mesmo artigo.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10."
+  },
+  "e8f1d19a088cb232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Alteração dos quadros de pessoal",
+   "in_force_from": "2001-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10."
+   ],
+   "markdown": "###### Artigo 18.º — Alteração dos quadros de pessoal\n\n1 - Os quadros de pessoal dos serviços e organismos abrangidos por este diploma consideram-se automaticamente alterados nos seguintes termos:\n\na) As dotações de conservador assessor principal e conservador assessor são convertidas em dotação global;\n\nb) As dotações de conservador principal, de 1.ª e de 2.ª classes são convertidas em dotação global;\n\nc) Os lugares das carreiras de monitor, assistente de conservador e técnico auxiliar de museografia são convertidos em lugares da carreira de técnico profissional de museografia;\n\nd) Os lugares da carreira de técnico auxiliar de conservação e restauro são convertidos em lugares da carreira de técnico profissional de conservação e restauro;\n\ne) Os lugares da carreira do grupo de pessoal de guardaria providos pelos funcionários que transitem nos termos do n.º 5 do artigo 14.º do presente diploma são convertidos em lugares da carreira de vigilante-recepcionista;\n\nf) Os lugares da carreira de auxiliar de museografia são convertidos em lugares da carreira de auxiliar administrativo.\n\n2 - Para efeitos da aplicação do regime previsto no presente diploma, os quadros de pessoal dos organismos e serviços referidos no artigo 1.º serão alterados no prazo de um ano a contar da data de entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10."
+  }
+ }
+}

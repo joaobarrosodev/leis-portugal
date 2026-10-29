@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-22'
+version_history:
+  file: decreto-regulamentar-regional-18-2001-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-22'
+    amending: pt:dre:235295:por
+    amending_title: Decreto Regulamentar Regional n.º 2/2002/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/18/2001/07/24/m/dre/pt/html
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    2/2002/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2001/decreto-regulamentar-regional-18-2001-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,13 +153,15 @@ O presente diploma visa regulamentar a linha de crédito bonificado criada pelo 
 
 ###### Artigo 2.º — Montante dos empréstimos
 
-1 - A linha de crédito bonificado não poderá ultrapassar o montante global de 7 milhões de contos ((euro) 34915582,79).
+1 - A linha de crédito bonificado não poderá ultrapassar o montante global de 7 milhões de contos ((euro) 34915852,79).
 
 2 - O crédito a que se refere o número anterior será concedido sob a forma de empréstimos reembolsáveis e disponibilizado pelas instituições de crédito que para o efeito venham a celebrar protocolos com a Região Autónoma da Madeira através da Secretaria Regional do Plano e Finanças.
 
 3 - A minuta dos protocolos a que se refere o número anterior será aprovada mediante resolução do Conselho do Governo Regional, dela devendo constar a taxa de juro contratual máxima e as demais condições gerais dos empréstimos.
 
-4 - O montante dos empréstimos a conceder a cada entidade beneficiária da linha de crédito será definido pela Secretaria Regional do Plano e Finanças em função das candidaturas apresentadas e tendo em consideração os valores das despesas elegíveis da componente não comunitária dos projectos comparticipados pelo FEDER e aprovados no âmbito do Quadro Comunitário de Apoio.
+4 - O montante dos empréstimos a conceder a cada entidade beneficiária da linha de crédito será definido pela Secretaria Regional do Plano e Finanças, em função das pré-candidaturas ou das candidaturas apresentadas pelo gestor regional dos fundos comunitários e tendo em consideração os valores das despesas elegíveis da componente não comunitária dos projectos comparticipados pelo FEDER e aprovados no âmbito do III Quadro Comunitário de Apoio.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2002-235295), publicado em 2002-01-22.
 
 ###### Artigo 3.º — Acesso
 
@@ -152,19 +171,21 @@ O presente diploma visa regulamentar a linha de crédito bonificado criada pelo 
 
 ###### Artigo 4.º — Apresentação das candidaturas
 
-1 - As candidaturas à linha de crédito deverão ser entregues na Secretaria Regional do Plano e Finanças.
+As candidaturas à linha de crédito consideram-se automaticamente formalizadas mediante a apresentação no Instituto de Gestão dos Fundos Comunitários das pré-candidaturas ou das candidaturas dos projectos a financiar pelo III Quadro Comunitário de Apoio.
 
-2 - Do processo de candidatura deverá constar a listagem dos projectos de investimento a financiar, o custo global, a respectiva programação financeira e o valor total dos empréstimos a contrair.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2002-235295), publicado em 2002-01-22.
 
 ###### Artigo 5.º — Condições dos empréstimos
 
 1 - O prazo dos empréstimos a contrair no âmbito da linha de crédito criada pelo presente diploma não poderá exceder 15 anos, contados da data da primeira utilização do capital, admitindo-se um período de carência até 7 anos.
 
-2 - O período de utilização do capital não poderá exceder três anos, contados da data da primeira utilização.
+2 - O período de utilização do capital não poderá exceder seis anos, contados da primeira utilização.
 
 3 - Os juros serão contados sobre o capital em dívida, à taxa de juro contratual, e calculados e pagos trimestral e postecipadamente pelo método das taxas equivalentes, sendo que durante o período de utilização os juros serão contados dia a dia sobre o capital efectivamente utilizado.
 
 4 - O reembolso dos empréstimos será efectuado em prestações trimestrais, iguais e sucessivas, de capital e juros, determinadas pelo método das taxas equivalentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 2/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2002-235295), publicado em 2002-01-22.
 
 ###### Artigo 6.º — Bonificação
 

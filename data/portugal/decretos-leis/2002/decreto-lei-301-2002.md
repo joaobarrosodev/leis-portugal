@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-25'
+version_history:
+  file: decreto-lei-301-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-25'
+    amending: pt:dre:692434:por
+    amending_title: Decreto-Lei n.º 126/2003
+    changes:
+    - Altera Artigo ANEXO — ESTATUTOS::2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/301/2002/12/11/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:35:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-301-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -342,9 +357,11 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 ###### Artigo 2.º — Sede
 
-1 - A sede social é na Avenida de José Saramago, 15-17, em Santarém.
+1 - A sede social é na Avenida de Maria de Lourdes Mello e Castro, em Tomar.
 
 2 - Poderá a assembleia geral deliberar a deslocação da sede para outro lugar, assim como a criação de delegações, centros e similares extensões da sede noutros lugares.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 3.º — Objecto e duração
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-15'
+version_history:
+  file: portaria-55-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-15'
+    amending: pt:dre:476972:por
+    amending_title: Portaria n.º 108-A/2011
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/55/2010/01/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 108-A/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-55-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ O empregador deve, antes de entregar o relatório único, promover o visto da re
 
 ###### Artigo 5.º
 
-A informação anual sobre a actividade social da empresa que abrange quem esteja vinculado ao empregador, mediante contrato de prestação de serviço, incluído no anexo F, só deverá começar a ser prestada em 2011, com referência ao ano de 2010.
+A informação anual sobre a actividade social da empresa que abrange quem esteja vinculado ao empregador, mediante contrato de prestação de serviço, incluído no anexo F, só deverá começar a ser prestada em 2012, com referência ao ano de 2011.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 108-A/2011](https://diariodarepublica.pt/dr/detalhe/portaria/108-a-2011-476972), publicado em 2011-03-14.
 
 ###### Artigo 6.º — Norma revogatória
 

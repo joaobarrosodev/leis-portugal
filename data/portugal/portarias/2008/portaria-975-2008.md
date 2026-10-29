@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-15'
+version_history:
+  file: portaria-975-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-15'
+    amending: pt:dre:175982:por
+    amending_title: Portaria n.º 280/2012
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/975/2008/09/01/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:35:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 280/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-975-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,7 +199,9 @@ c) Produto obtido após a operação.
 
 6 - O IFAP, I. P., pode determinar, designadamente para efeitos de controlo das operações, a obrigação da indicação de dados complementares nas declarações e a apresentação de declarações prévias, suas condições de estabelecimento e prazos de entrega.
 
-7 - O atraso na apresentação das declarações referidas nos n.os 5 e 6, em relação aos prazos fixados pelo IFAP, I. P., implica uma diminuição de 50 %, por dia de atraso, do valor da ajuda correspondente às operações em causa.
+7 - O atraso na apresentação das declarações referidas nos n.os 5 e 6, em relação aos prazos fixados pelo IFAP, I. P., implica uma diminuição do valor da ajuda correspondente às operações em causa, de 50 % por dia de atraso no caso das declarações prévias e de 1 % no caso das declarações relativas à operação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 280/2012](https://diariodarepublica.pt/dr/detalhe/portaria/280-2012-175982), publicado em 2012-09-14.
 
 ###### Artigo 5.º — Montante da ajuda
 

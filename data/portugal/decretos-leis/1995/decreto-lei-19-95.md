@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-08'
+version_history:
+  file: decreto-lei-19-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-08'
+    amending: pt:dre:335215:por
+    amending_title: Decreto-Lei n.º 145/99
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/19/1995/01/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 145/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-19-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,13 +148,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - O reitor da Universidade de Macau passa a integrar o Conselho de Reitores das Universidades Portuguesas na qualidade de membro efectivo.
+###### Artigo 1.º
+
+1 - O reitor da Universidade de Macau passa a integrar o Conselho de Reitores das Universidades Portuguesas na qualidade de membro efectivo.
 
 2 - O Instituto Politécnico de Macau passa a integrar o Conselho Coordenador dos Institutos Superiores Politécnicos na qualidade de membro efectivo, sendo representado pelo respectivo presidente.
 
-Art. 2.º Os cursos ministrados pela Universidade de Macau e pelo Instituto Superior Politécnico de Macau, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.
+###### Artigo 2.º
 
-Art. 3.º - 1 - A aferição dos requisitos a que se refere o artigo anterior cabe a uma comissão de especialistas, integrada por professores das instituições de ensino superior portuguesas, designadas, para cada curso, pelo Ministro da Educação, sob proposta do Conselho de Reitores das Universidades Portuguesas ou do Conselho Coordenador dos Institutos Superiores Politécnicos, consoante o curso.
+Os cursos ministrados pela Universidade de Macau, pelo Instituto Superior Politécnico de Macau e pela Escola Superior de Turismo a que se refere o Decreto-Lei n.º 45/95/M, de 28 de Agosto, alterado pelo Decreto-Lei n.º 42/96/M, de 29 de Julho, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.
+
+> Alterado pelo/a [Decreto-Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1999-335215), publicado em 1999-05-03.
+
+###### Artigo 3.º
+
+1 - A aferição dos requisitos a que se refere o artigo anterior cabe a uma comissão de especialistas, integrada por professores das instituições de ensino superior portuguesas, designadas, para cada curso, pelo Ministro da Educação, sob proposta do Conselho de Reitores das Universidades Portuguesas ou do Conselho Coordenador dos Institutos Superiores Politécnicos, consoante o curso.
 
 2 - A comissão a que se refere o número anterior deve ser designada nos 30 dias subsequentes à apresentação do pedido de reconhecimento do curso, grau ou diploma pela instituição de ensino superior de Macau, dispondo do prazo de 30 dias para formular o seu parecer.
 

@@ -1,0 +1,287 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25345578:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2014-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d1be4f72a47c47b4",
+    "78d81b6361b6cfb1",
+    "fff12d86356eb670",
+    "f47091c4ad20970a",
+    "50d8333124e4d8d5",
+    "5da2c4483d60e3e1",
+    "0b68ddf9a9262d4d",
+    "f4fae754ded0b614",
+    "0a69f6f06646235c",
+    "2b72d512ecdd725f",
+    "800da1d300ab6ded",
+    "53d21fc6e13e4c84",
+    "de1c295367b87e1f",
+    "b06a2f4b78ab6a21",
+    "9844bd74aaa891fb",
+    "ec3ade3f368cb36c",
+    "5f94520f7ee7e57d",
+    "287eb966130b38a8",
+    "0392fb73700fb1fe",
+    "2725417a4d1443f5",
+    "8fd3fec7af43030a",
+    "048cad162f36482e",
+    "9575c6ef582f1b91",
+    "ef883286696019b4"
+   ]
+  },
+  {
+   "date": "2026-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1072545705:por",
+     "title": "Lei n.º 10/2026",
+     "published": "2026-03-16",
+     "dre_path": "/dr/detalhe/lei/10-2026-1072545705"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A"
+   ],
+   "fragments": [
+    "d1be4f72a47c47b4",
+    "78d81b6361b6cfb1",
+    "fff12d86356eb670",
+    "f47091c4ad20970a",
+    "50d8333124e4d8d5",
+    "5da2c4483d60e3e1",
+    "0b68ddf9a9262d4d",
+    "f4fae754ded0b614",
+    "0a69f6f06646235c",
+    "2b72d512ecdd725f",
+    "800da1d300ab6ded",
+    "eb95e4540233ecad",
+    "53d21fc6e13e4c84",
+    "de1c295367b87e1f",
+    "b06a2f4b78ab6a21",
+    "9844bd74aaa891fb",
+    "ec3ade3f368cb36c",
+    "5f94520f7ee7e57d",
+    "287eb966130b38a8",
+    "0392fb73700fb1fe",
+    "2725417a4d1443f5",
+    "8fd3fec7af43030a",
+    "048cad162f36482e",
+    "9575c6ef582f1b91",
+    "ef883286696019b4"
+   ]
+  }
+ ],
+ "fragments": {
+  "d1be4f72a47c47b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de junho\n\nRegime jurídico das assembleias distritais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "78d81b6361b6cfb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova o novo regime jurídico das assembleias distritais, constante do anexo à mesma, da qual faz parte integrante, e regula a transição dos respetivos trabalhadores, serviços e património."
+  },
+  "fff12d86356eb670": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Universalidade jurídica indivisível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Universalidade jurídica indivisível\n\n1 - Para efeitos da presente lei, constituem uma universalidade jurídica indivisível, adiante designada por «universalidade», as situações jurídicas patrimoniais ativas e passivas, materiais e imateriais de que as assembleias distritais são titulares e os vínculos jurídico-laborais em que as mesmas são a entidade empregadora.\n\n2 - Caso a assembleia distrital disponha de serviços abertos ao público, nos termos do número seguinte, estes integram a respetiva universalidade.\n\n3 - Entende-se por «serviço aberto ao público» os serviços de bibliotecas, centros de documentação, arquivos, museus, núcleos de investigação, instituições de ensino e outros em funcionamento, que sejam titulados ou prestados pelas assembleias distritais.\n\n4 - Os serviços administrativos e financeiros das assembleias distritais não são considerados serviços abertos ao público para efeitos da presente lei."
+  },
+  "f47091c4ad20970a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidade recetora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidade recetora\n\n1 - No prazo de 120 dias após a entrada em vigor da presente lei, as assembleias distritais podem deliberar e comunicar ao membro do Governo responsável pela área da administração local a afetação da respetiva universalidade a uma das seguintes entidades recetoras:\n\na) Uma entidade intermunicipal cujo âmbito territorial coincida total ou parcialmente com a área do distrito;\n\nb) Qualquer município do distrito;\n\nc) Uma associação de municípios de fins específicos composta por municípios do distrito.\n\n2 - A assembleia distrital pode, excecional e fundamentadamente, deliberar que certos bens ou ativos específicos sejam transferidos para outra entidade recetora, de entre as referidas no número anterior, diferente da que recebe a universalidade.\n\n3 - A deliberação da assembleia distrital referida no número anterior apenas é válida e eficaz se for afeta a totalidade do conteúdo da respetiva universalidade e as entidades recetoras aceitarem expressamente.\n\n4 - A afetação da universalidade a uma associação de municípios de fins específicos composta por municípios do distrito só é aplicável quando as assembleias distritais disponham de serviços abertos ao público.\n\n5 - A validade e eficácia da transferência decidida pela assembleia distrital nos termos do n.º 1 depende da comunicação da deliberação ao membro do Governo responsável pela área da administração local, conjuntamente com:\n\na) A identificação do conteúdo da universalidade, discriminando o património imobiliário, os trabalhadores e a natureza dos respetivos vínculos laborais, o património mobiliário e, quando aplicável, os serviços abertos ao público;\n\nb) A ata da aceitação da universalidade por parte do conselho intermunicipal, do conselho metropolitano, da assembleia municipal ou do correspondente órgão da associação de municípios de fins específicos da respetiva entidade recetora.\n\n6 - Para efeitos da presente lei, as decisões das entidades recetoras no sentido de uma aceitação parcial ou que sujeitem a transferência da universalidade, ou de qualquer dos seus elementos constitutivos, a condição ou termo são equiparadas à rejeição da respetiva universalidade."
+  },
+  "50d8333124e4d8d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Transferência da universalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transferência da universalidade\n\n1 - Decorridos os prazos previstos no artigo anterior e no artigo seguinte, o membro do Governo responsável pela área da administração local publicita, por despacho publicado no Diário da República, a lista das entidades recetoras para as quais foram transferidas as universalidades.\n\n2 - A entidade recetora é responsável pela regularização, designadamente perante as conservatórias, das posições jurídicas integrantes da universalidade, devendo os responsáveis e trabalhadores da assembleia distrital prestar-lhe toda a colaboração para o efeito."
+  },
+  "5da2c4483d60e3e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Determinação subsidiária da entidade recetora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Determinação subsidiária da entidade recetora\n\n1 - Decorrido o prazo previsto no n.º 1 do artigo 3.º sem que a assembleia distrital tenha comunicado ao membro do Governo responsável pela área da administração local a deliberação ou sendo a mesma incompleta, a universalidade é transferida subsidiariamente para uma das entidades recetoras pela seguinte ordem:\n\na) A entidade intermunicipal em que se localiza a capital do respetivo distrito;\n\nb) O município da capital do respetivo distrito;\n\nc) O Estado.\n\n2 - Para efeitos do número anterior, o membro do Governo responsável pela área da administração local notifica o presidente do conselho da respetiva entidade intermunicipal para que esta se pronuncie no prazo de 60 dias sobre a transferência da universalidade.\n\n3 - Se, no prazo previsto no número anterior, a entidade intermunicipal comunicar ao membro do Governo responsável pela área da administração local a rejeição da universalidade, este notifica o presidente da assembleia municipal do município da capital do distrito para que a mesma se pronuncie sobre a transferência da universalidade, no prazo de 60 dias.\n\n4 - O decurso dos prazos de pronúncia referidos nos n.os 2 e 3 sem que a rejeição da universalidade tenha sido comunicada pela entidade recetora determina a transferência da universalidade a favor da mesma.\n\n5 - No caso de rejeição sucessiva expressa pelas entidades recetoras nos termos dos n.os 2 e 3, a transferência da universalidade concretiza-se a favor do Estado."
+  },
+  "0b68ddf9a9262d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Transição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transição do pessoal\n\n1 - Os trabalhadores das assembleias distritais com contrato de trabalho em funções públicas por tempo indeterminado transitam para a entidade recetora que aceite a universalidade.\n\n2 - Os trabalhadores que exerçam funções na assembleia distrital em regime de comissão de serviço cessam a mesma na data de transferência da universalidade para a entidade recetora.\n\n3 - No caso de a transferência da universalidade ocorrer para o Estado, o processo de reorganização é qualificado como de extinção, para efeitos de aplicação da [Lei n.º 80/2013](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), de 28 de novembro.\n\n4 - O pessoal transitado para as entidades recetoras por força da presente lei não é considerado para os efeitos previstos nos artigos 62.º e 63.º da [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro."
+  },
+  "f4fae754ded0b614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º"
+  },
+  "0a69f6f06646235c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Título para a transferência da titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título para a transferência da titularidade\n\nA presente lei constitui título bastante para a transferência da titularidade de todas as posições jurídicas pertencentes às assembleias distritais, designadamente:\n\na) O direito de propriedade dos imóveis e móveis das assembleias distritais para as entidades recetoras e respetivos atos de registo a que haja lugar e demais efeitos legais;\n\nb) A posição de arrendatários das assembleias distritais, sem possibilidade de oposição por parte do senhorio desde que o imóvel em questão mantenha a sua função à data da entrada em vigor da presente lei;\n\nc) Outros direitos reais em que as assembleias distritais sejam parte da relação jurídica;\n\nd) Direitos de propriedade intelectual e outros direitos imateriais, incluindo alvarás e licenças."
+  },
+  "2b72d512ecdd725f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Restrição do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Restrição do âmbito de aplicação\n\n1 - A presente lei não é aplicável ao património imobiliário das assembleias distritais que, nos termos do [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), de 8 de janeiro, e do despacho conjunto dos Ministros da Administração Interna e do Planeamento e da Administração do Território publicado no Diário da República, 2.ª série, n.º 38, de 14 de fevereiro de 1992, foi transferido para os governos civis e é propriedade do Estado.\n\n2 - O património imobiliário referido no número anterior é identificado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração local, a publicar no prazo de 15 dias após a entrada em vigor da presente lei, e constitui título bastante para efeitos de registo."
+  },
+  "800da1d300ab6ded": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição transitória\n\nOs municípios que se encontram em incumprimento do dever de contribuir para os encargos das assembleias distritais, incluindo os referentes a trabalhadores, previsto no artigo 14.º do [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), de 8 de janeiro, devem regularizar os respetivos pagamentos em atraso."
+  },
+  "53d21fc6e13e4c84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 5/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782), de 8 de janeiro."
+  },
+  "de1c295367b87e1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte à data da sua publicação.\n\nAprovada em 2 de maio de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 17 de junho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 19 de junho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "b06a2f4b78ab6a21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (a que se refere o artigo 1.º)"
+  },
+  "9844bd74aaa891fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Assembleias distritais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Assembleias distritais\n\nEm cada distrito há uma assembleia distrital com funções deliberativas."
+  },
+  "ec3ade3f368cb36c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\nCompõem a assembleia distrital:\n\na) Os presidentes das câmaras municipais do distrito, ou os vereadores que os substituam;\n\nb) Dois membros de cada assembleia municipal do distrito, devendo um deles ser o respetivo presidente ou o seu substituto e o outro eleito de entre os presidentes das juntas de freguesia."
+  },
+  "5f94520f7ee7e57d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reuniões\n\nA assembleia distrital reúne quando pelo menos um terço dos seus membros o solicite ao presidente da mesa da assembleia distrital ou, até à eleição do mesmo, ao presidente da assembleia municipal do município com maior número de habitantes."
+  },
+  "287eb966130b38a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Gratuitidade do exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gratuitidade do exercício de funções\n\nO exercício das funções de membro da assembleia distrital não é remunerado, nem confere o direito à obtenção de qualquer contrapartida pecuniária ou em espécie, devendo os respetivos municípios assegurar as condições necessárias para a participação nas reuniões do órgão."
+  },
+  "0392fb73700fb1fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências\n\nCompete à assembleia distrital:\n\na) Discutir e deliberar, por iniciativa própria ou a solicitação de outras entidades públicas, sobre questões relacionadas com o interesse comum das populações do distrito ou o desenvolvimento económico e social deste;\n\nb) Elaborar e aprovar o seu regimento."
+  },
+  "2725417a4d1443f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Mesa da assembleia distrital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mesa da assembleia distrital\n\n1 - Os trabalhos das reuniões da assembleia distrital são dirigidos pela respetiva mesa.\n\n2 - Na primeira reunião após a realização das eleições autárquicas os membros da assembleia distrital elegem uma mesa permanente composta por um presidente, um primeiro-secretário e um segundo-secretário, de entre os seus membros, por escrutínio secreto.\n\n3 - A mesa é eleita pelo período do mandato autárquico, podendo os seus membros ser destituídos pela assembleia, em qualquer altura, por deliberação da maioria absoluta dos membros em efetividade de funções.\n\n4 - O presidente é substituído, nas suas faltas e impedimentos, pelo primeiro-secretário e este pelo segundo-secretário.\n\n5 - Na falta de eleição da mesa ou na ausência de todos os seus membros a assembleia elege, por voto secreto, uma mesa ad hoc para presidir à sessão.\n\nArtigo. 7.º\n\nCompetências do presidente da mesa\n\n1 - Compete ao presidente da mesa da assembleia distrital:\n\na) Dirigir os trabalhos das sessões;\n\nb) Acompanhar e fiscalizar o cumprimento das deliberações da assembleia distrital;\n\nc) Exercer os demais poderes conferidos por lei, pelo regimento ou por deliberação da assembleia distrital.\n\n2 - O presidente da mesa da assembleia distrital pode delegar as suas competências nos secretários.\n\n3 - Das decisões do presidente ou dos secretários da mesa cabe recurso para o plenário da assembleia distrital.\n\n4 - A convocação das reuniões da assembleia distrital compete ao presidente da mesa permanente ou, até à eleição deste, ao presidente da assembleia municipal do município com o maior número de habitantes."
+  },
+  "8fd3fec7af43030a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\nO apoio ao funcionamento e às reuniões da assembleia distrital é assegurado pelos municípios que a integram de acordo com os critérios fixados no regimento da mesma."
+  },
+  "048cad162f36482e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proibições\n\nAs assembleias distritais não podem:\n\na) Angariar receitas;\n\nb) Assumir despesas;\n\nc) Contrair empréstimos;\n\nd) Contratar nem manter trabalhadores."
+  },
+  "9575c6ef582f1b91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição final\n\nEm tudo quanto não se preveja na presente lei, aplicam-se ao funcionamento das assembleias distritais, com as devidas adaptações, as regras que, neste domínio, vigoram para os órgãos municipais."
+  },
+  "ef883286696019b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Extinção automática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extinção automática\n\nAs assembleias distritais extinguem-se automaticamente com a instituição em concreto das regiões administrativas ou em caso de revisão constitucional por força da qual seja revogada a imperatividade da respetiva existência."
+  },
+  "eb95e4540233ecad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º-A — Regime especial",
+   "in_force_from": "2026-03-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 10/2026](https://diariodarepublica.pt/dr/detalhe/lei/10-2026-1072545705), publicado em 2026-03-16."
+   ],
+   "markdown": "###### Artigo 9.º-A — Regime especial\n\n1 - As pessoas coletivas públicas que sucedam na qualidade de entidade instituidora de instituições de ensino superior privado ao abrigo da presente lei, por via da integração de universalidades jurídicas indivisíveis, passam a ser titulares de atribuições na área do ensino superior, circunscritas à gestão das entidades em cuja titularidade sucedam.\n\n2 - Para os efeitos previstos no número anterior, as entidades públicas que sucedam na qualidade de entidades instituidoras dispõem de todas as competências legais necessárias à gestão das instituições de ensino superior respetivas.\n\n3 - Às instituições de ensino superior abrangidas pelos números anteriores são aplicáveis o regime jurídico das instituições de ensino superior, aprovado pela Lei n.º 62/2007, de 10 de setembro, e demais legislação setorial conexa, os respetivos estatutos e, subsidiariamente, o respetivo regime de direito privado.\n\n4 - Não se considera abrangida pela proibição constante do n.º 2 do artigo 20.º da Lei n.º 50/2012, de 31 de agosto, a constituição de empresas locais cujo único objetivo seja acolher universalidades jurídicas indivisíveis correspondentes a atividades legalmente habilitadas, por determinação da presente lei.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 10/2026](https://diariodarepublica.pt/dr/detalhe/lei/10-2026-1072545705), publicado em 2026-03-16."
+  }
+ }
+}

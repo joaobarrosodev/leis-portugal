@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-08-02'
+version_history:
+  file: portaria-178-a-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-08-02'
+    amending: pt:dre:178560:por
+    amending_title: Portaria n.º 203/2012; Portaria n.º 226-A/2012
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/178-a/2012/05/31/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:52:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 203/2012; Portaria n.º
+    226-A/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2012/portaria-178-a-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,9 +181,11 @@ b) Diferimento do prazo de pagamento de contribuições relativas aos meses de m
 
 1 - São dispensados do pagamento de contribuições os produtores agrícolas cujas explorações preencham os requisitos referidos no artigo anterior, enquadrados no regime dos trabalhadores independentes em virtude do exercício exclusivo da atividade agrícola, bem como os cônjuges que com eles exerçam efetiva e regularmente atividade profissional na exploração.
 
-2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade agrícola nas explorações que preencham os requisitos referidos no artigo anterior.
+2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.
 
 3 - São excluídos os produtores agrícolas e as entidades empregadoras que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, C 244, de 1 de outubro de 2004.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.
 
 ###### Artigo 4.º — Condição de acesso
 
@@ -190,11 +209,15 @@ c) Falta de pagamento no prazo do respetivo vencimento de qualquer das prestaç�
 
 ###### Artigo 7.º — Requerimento
 
-1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 30 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).
+1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar até ao dia 15 de setembro de 2012 nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).
 
 2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.
 
 3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 226-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-2012-194660), publicado em 2012-08-01.
 
 ###### Artigo 8.º — Instrução
 

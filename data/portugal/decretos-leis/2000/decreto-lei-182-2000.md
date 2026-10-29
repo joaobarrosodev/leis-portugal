@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-11-13'
+version_history:
+  file: decreto-lei-182-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-11-13'
+    amending: pt:dre:468985:por
+    amending_title: Decreto-Lei n.º 282/2003
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/182/2000/08/10/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 282/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-182-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,25 +174,27 @@ Sem prejuízo da comercialização de bilhetes da lotaria nacional em suporte f�
 
 ###### Artigo 4.º — Pagamento das operações de compra
 
-1 - Cada operação de compra origina uma única transferência automática de fundos entre a conta do apostador-comprador e a conta do Departamento de Jogos da SCML, independentemente do número de ordens de compra emitidas durante a operação.
+(Revogado.)
 
-2 - Em caso de insuficiência de saldo disponível na conta do comprador-apostador, o sistema informático não aceitará a aposta/ordem de compra, que se considera como não efectuada.
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.
 
 ###### Artigo 5.º — Pagamento de prémios
 
-O pagamento dos prémios correspondentes às apostas efectuadas através dos terminais da rede MB é automaticamente creditado na conta dos apostadores através da qual foi feita a aposta, sem necessidade de qualquer outro procedimento por parte do apostador.
+(Revogado.)
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.
 
 ###### Artigo 6.º — Suporte material das operações de compra
 
-1 - Em cada operação de compra será emitido pelo terminal automático de pagamento um recibo, com valor meramente informativo, no qual constarão a data, hora e terminal da transacção, todas as fracções adquiridas, números dos bilhetes a que correspondem, código de segurança de cada uma das fracções e o preço pago.
+(Revogado.)
 
-2 - No caso de o terminal automático de pagamento não emitir recibo, ou este ser ilegível, o comprador-apostador pode solicitar a respectiva emissão à entidade gestora do sistema da rede MB, mediante requerimento entregue numa instituição de crédito ou por via postal.
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.
 
 ###### Artigo 7.º — Prova das operações de compra
 
-1 - Em caso de litígio, a prova da compra-aposta de um número será feita através dos registos informáticos existentes no terminal propriamente dito, na entidade gestora do sistema da rede MB, na instituição de crédito onde se encontra sediada a conta do apostador e na instituição de crédito onde se encontra sediada a conta do Departamento de Jogos da SCML.
+(Revogado.)
 
-2 - Os registos informáticos relativos à compra de bilhetes da lotaria via multibanco serão mantidos em arquivo, no Departamento de Jogos da SCML, pelo período de três anos.
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 282/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2003-468985), publicado em 2003-11-08.
 
 ###### Artigo 8.º — Disposições finais
 

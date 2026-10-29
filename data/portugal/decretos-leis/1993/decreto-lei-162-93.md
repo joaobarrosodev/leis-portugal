@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-16'
+version_history:
+  file: decreto-lei-162-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-16'
+    amending: pt:dre:358963:por
+    amending_title: Decreto-Lei n.º 145/97
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/162/1993/05/07/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:23:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 145/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-162-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,13 +165,19 @@ Assim:
 
 Nos termos da alínea a) do n.º do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º Os fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.
+Os fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma.
+
+###### Artigo 2.º
+
+1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.
 
 2 - No caso de habitações destinadas a arrendamento, nos termos do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, o regime de intransmissibilidade conta-se a partir da data de emissão da licença de utilização.
 
-Art. 3.º - 1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.
+###### Artigo 3.º
+
+1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.
 
 2 - O regime de intransmissibilidade não prejudica a possibilidade de alienação do fogo ao arrendatário, no caso de este se encontrar arrendado ao abrigo do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, mantendo-se, contudo, o decurso do respectivo prazo.
 
@@ -161,19 +185,29 @@ Art. 3.º - 1 - Dentro do respectivo prazo, o regime de intransmissibilidade est
 
 4 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda do fogo perante documento emitido, para o efeito, pelo INH.
 
-Art. 4.º - 1 - A cooperativa só pode receber dos sócios, a título de sinal e ou início de pagamento, as importâncias correspondentes à fracção do valor do fogo que não é financiado pelo INH.
+###### Artigo 4.º
 
-2 - As importâncias que excedam o montante referido no número anterior são obrigatoriamente afectas à imediata amortização dos financiamentos em dívida.
+(Revogado.)
 
-Art. 5.º As cooperativas ficam obrigadas a divulgar, nos termos a fixar por portaria do Ministro das Obras Públicas, Transportes e Comunicações, os elementos referentes ao projecto e ao financiamento, os valores de venda iniciais e previsíveis dos respectivos fogos e os demais que se mostrem adequados ao correcto conhecimento das condições de aquisição.
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11.
 
-Art. 6.º - 1 - A violação do disposto nos artigos 4.º e 5.º pode dar lugar à imediata suspensão do financiamento à cooperativa, para além da inibição de acesso ao crédito bonificado por um período de dois anos.
+###### Artigo 5.º
 
-2 - Sem prejuízo do disposto no número anterior, a violação do artigo 4.º e dos preços máximos de venda fixados constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+(Revogado.)
 
-Art. 7.º - 1 - Para efeitos do disposto no artigo 1.º do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, as cooperativas podem adjudicar, por ajuste directo, as obras de valor inferior ao limite de competência para autorização de despesas com dispensa de concurso legalmente definido para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11.
 
-2 - As normas técnicas de execução do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, designadamente no tocante à padronização de cadernos de encargos, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+###### Artigo 6.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11.
+
+###### Artigo 7.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio Joaquim Martins Ferreira do Amaral.
 

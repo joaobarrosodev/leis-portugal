@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:149452:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb9789de7b03f2d1",
+    "ffa05c3c8b9eda01",
+    "c67d6c7da1b799ca",
+    "ff4be8117d6942ef",
+    "fcc538bce7405c32",
+    "4955c72e8d04cb53",
+    "6af698ddc4f9b55f",
+    "2269931087038636",
+    "6e134134f9f1cc15",
+    "5635c804feecca45",
+    "11a9fe982f692e43",
+    "5c88db7606e1a0d9",
+    "eb3ef81510d32141",
+    "d85ce75c80a120c4",
+    "2f2ea3d92caa5190",
+    "954460cd59d74e63"
+   ]
+  },
+  {
+   "date": "1997-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:315737:por",
+     "title": "Declaração de Rectificação n.º 19-A/97",
+     "published": "1997-11-20",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/19-a-1997-315737"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 14.º"
+   ],
+   "fragments": [
+    "cb9789de7b03f2d1",
+    "ffa05c3c8b9eda01",
+    "c67d6c7da1b799ca",
+    "ff4be8117d6942ef",
+    "fcc538bce7405c32",
+    "4955c72e8d04cb53",
+    "6af698ddc4f9b55f",
+    "2269931087038636",
+    "6e134134f9f1cc15",
+    "5635c804feecca45",
+    "11a9fe982f692e43",
+    "5c88db7606e1a0d9",
+    "eb3ef81510d32141",
+    "d85ce75c80a120c4",
+    "ed74923832192c70",
+    "954460cd59d74e63"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb9789de7b03f2d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Execução do Orçamento da Região Autónoma da Madeira para 1997\n\nO Orçamento da Região Autónoma da Madeira foi aprovado pela Assembleia Legislativa Regional através do [Decreto Legislativo Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-1997-231958), de 21 de Abril. O presente diploma destina-se a dar execução ao Orçamento na parte respeitante às despesas.\n\nNestes termos:\n\nO Governo da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição e na alínea p) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:"
+  },
+  "ffa05c3c8b9eda01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Execução do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Execução do Orçamento\n\nA execução do Orçamento da Região Autónoma da Madeira para 1997 processa-se de acordo com o disposto nos artigos seguintes."
+  },
+  "c67d6c7da1b799ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Controlo das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Controlo das despesas\n\nCompete à Secretaria Regional do Plano e da Coordenação, no âmbito da sua acção de liquidação das despesas orçamentais e autorização do seu pagamento, proceder à análise quantitativa e qualitativa das despesas, visando o controlo e legalidade das mesmas."
+  },
+  "ff4be8117d6942ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Utilização das dotações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Utilização das dotações orçamentais\n\n1 - Na execução dos seus orçamentos para 1997, todos os serviços da administração pública regional deverão observar normas de rigorosa economia na administração das dotações orçamentais atribuídas às suas despesas.\n\n2 - O cumprimento do disposto no número anterior será objecto de fiscalização, nos termos da legislação em vigor.\n\n3 - Os dirigentes dos serviços ficarão responsáveis pela assunção de encargos com infracção das normas legais aplicáveis à realização das despesas públicas, nos termos da legislação em vigor.\n\n4 - Os projectos de diploma contendo a reestruturação de serviços só poderão prosseguir desde que existam adequadas contrapartidas no orçamento do respectivo serviço."
+  },
+  "fcc538bce7405c32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime duodecimal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime duodecimal\n\n1 - Salvo o disposto nos números seguintes, todas as dotações orçamentais estão sujeitas às regras do regime duodecimal.\n\n2 - Não estão sujeitas ao regime duodecimal:\n\na) As dotações destinadas a despesas com o pessoal, incluindo as despesas com o pessoal da saúde contidas nas transferências existentes para esse efeito na secretaria regional da tutela, os encargos de instalações, comunicações, locação de bens e seguros e os encargos da dívida pública;\n\nb) As dotações com compensação em receita, incluindo as dotações afectas a recursos próprios de terceiros e a contas de ordem;\n\nc) As dotações de capital incluídas no capítulo 50;\n\nd) As dotações de valor anual não superior a 200 contos;\n\ne) As importâncias dos reforços e inscrições de verbas.\n\n3 - Não estão ainda sujeitas ao regime duodecimal nem ao disposto no n.º 5 deste artigo as dotações inscritas no orçamento do Centro Regional de Saúde destinadas ao reembolso das despesas suportadas no âmbito do sistema regional de saúde.\n\n4 - Mediante autorização do Secretário Regional do Plano e da Coordenação, que poderá delegá-la no director regional de Orçamento e Contabilidade, poderão ser antecipados, total ou parcialmente, os duodécimos de outras dotações inscritas no Orçamento.\n\n5 - Nos serviços com orçamentos privativos, a competência referida no número anterior pertence à entidade que deu o acordo ao respectivo orçamento, não sendo necessária a autorização do Secretário Regional do Plano e da Coordenação, salvo se for excedido o montante de 150000 contos por dotação."
+  },
+  "4955c72e8d04cb53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisição de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisição de fundos\n\n1 - Os serviços e fundos autónomos deverão fornecer à Direcção Regional de Orçamento e Contabilidade todos os elementos que por esta lhes forem solicitados para o acompanhamento da respectiva execução orçamental.\n\n2 - Os serviços dotados de autonomia administrativa e de autonomia administrativa e financeira apenas poderão requisitar mensalmente as importâncias que, embora dentro dos respectivos duodécimos, forem estritamente indispensáveis à realização das despesas correspondentes às suas necessidades mensais.\n\n3 - As requisições de fundos enviadas aos serviços da Direcção Regional de Orçamento e Contabilidade para autorização de pagamento serão acompanhadas de projectos de aplicação, onde, por cada rubrica, se pormenorizem os encargos previstos no respectivo mês e o saldo por aplicar das importâncias anteriormente levantadas.\n\n4 - A liquidação e autorização de pagamento das despesas com as transferências para os serviços com autonomia administrativa e autonomia administrativa e financeira cujas requisições estejam em conformidade com os números anteriores deste artigo serão efectuadas com dispensa de quaisquer formalidades adicionais.\n\n5 - O disposto no número anterior aplica-se, com as necessárias adaptações, a outros documentos de levantamentos de fundos dos cofres da Região."
+  },
+  "6af698ddc4f9b55f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços e fundos autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços e fundos autónomos\n\n1 - Para efeitos do controlo sistemático e sucessivo da gestão orçamental, os serviços e fundos autónomos deverão remeter trimestralmente à Direcção Regional de Orçamento e Contabilidade, nos 15 dias subsequentes ao período a que respeitam, as contas da sua execução orçamental, bem como todos os elementos que forem solicitados para o acompanhamento da mesma.\n\n2 - Tendo em vista o acompanhamento da execução material e financeira do PIDDAR, os serviços e fundos autónomos deverão enviar à Direcção Regional de Planeamento toda a informação material e financeira necessária àquele acompanhamento."
+  },
+  "2269931087038636": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Fundos permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fundos permanentes\n\n1 - Os fundos permanentes a constituir em 1997 ficam dispensados de autorização desde que, em relação a 1996, o responsável pelo fundo ou o seu substituto legal seja o mesmo e a importância em conta de cada dotação não seja superior à que foi autorizada para 1996, devendo os respectivos saldos existentes no final do ano ser repostos até 14 de Fevereiro do ano seguinte.\n\n2 - Em casos especiais, devidamente justificados, o Secretário Regional do Plano e da Coordenação poderá, por despacho conjunto com o secretário da tutela, autorizar a constituição de fundos permanentes por importâncias superiores a um duodécimo em conta dos orçamentos dos serviços, devendo ser repostos até ao prazo indicado no número anterior os saldos que porventura se verifiquem no final do ano económico."
+  },
+  "6e134134f9f1cc15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Alteração de prazos para autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração de prazos para autorização de despesas\n\n1 - Fica proibido contrair em conta do Orçamento da Região Autónoma da Madeira ou de quaisquer orçamentos privativos da administração pública regional encargos com aquisição de bens e serviços que não possam ser processados, liquidados e pagos dentro dos prazos estabelecidos no n.º 3 deste artigo.\n\n2 - Exceptuam-se da disciplina estabelecida no número anterior as despesas certas e permanentes necessárias ao normal funcionamento dos referidos organismos e todos os reforços por créditos especiais, bem como os encargos plurianuais legalmente assumidos.\n\n3 - Os prazos actualmente estabelecidos para as operações referidas na primeira parte do n.º 1 são antecipados na seguinte conformidade:\n\na) A entrada de folhas e requisições de fundos dos cofres da Região na Direcção de Serviços de Contabilidade, da Direcção Regional de Orçamento e Contabilidade, verificar-se-á, impreterivelmente, até 31 de Dezembro, exceptuando-se apenas as que respeitem a despesas que, pela sua natureza, tenham necessariamente de ser continuadas ou realizadas nesse prazo, as quais poderão dar entrada naquela Direcção até 7 de Janeiro de 1998;\n\nb) Todas as operações a cargo da Direcção de Serviços de Contabilidade terão lugar até 17 de Janeiro de 1998, só podendo efectuar-se a expedição de autorizações de pagamento depois dessa data quando as mesmas respeitem a documentos entrados posteriormente a 31 de Dezembro ou que hajam sido devolvidos para rectificação, não podendo, contudo, ser ultrapassado o dia 21 daquele mês;\n\nc) Em 31 de Janeiro de 1998 será encerrado, com referência a 31 de Dezembro de 1997, o cofre da Região Autónoma da Madeira, caducando todas as autorizações que até essa data não se tenham efectivado."
+  },
+  "5635c804feecca45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Recursos próprios de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recursos próprios de terceiros\n\nAs importâncias inscritas no capítulo 20 das receitas e consignadas a favor de terceiros serão liquidadas e autorizadas para pagamento pela Direcção de Serviços de Contabilidade, da Direcção Regional de Orçamento e Contabilidade, sem quaisquer formalidades adicionais, devendo as correspondentes despesas ser processadas pelo capítulo 75 da Secretaria Regional do Plano e da Coordenação."
+  },
+  "11a9fe982f692e43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Receitas cobradas pelos serviços simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas cobradas pelos serviços simples\n\n1 - As receitas cobradas pelos serviços simples deverão ser entregues na Tesouraria do Governo Regional até ao dia 10 do mês seguinte àquele em que foram cobradas.\n\n2 - As importâncias acima referidas na posse dos funcionários deverão ser reduzidas ao mínimo, abrindo-se para esse efeito, em nome de pelo menos duas entidades, uma conta bancária, da qual será dado conhecimento à Direcção Regional de Orçamento e Contabilidade.\n\n3 - O disposto no presente artigo aplica-se, com as devidas adaptações, a outras situações de natureza idêntica, nomeadamente no caso de constituição de fundos permanentes de valor superior a 100 contos."
+  },
+  "5c88db7606e1a0d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Subsídios\n\n1 - A concessão de subsídios deverá ser objecto de resolução do Conselho do Governo Regional, sob proposta fundamentada do titular do respectivo sector.\n\n2 - Porém, se o subsídio a atribuir se encontrar suficientemente regulamentado em diploma legal, será dispensada a formalidade exigida no número anterior."
+  },
+  "eb3ef81510d32141": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Aquisição de veículos com motor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aquisição de veículos com motor\n\nNo ano de 1997 a aquisição, a permuta e a locação financeira, bem como o aluguer por prazo superior a 60 dias, de veículos com motor destinados ao transporte de pessoas e bens, incluindo ambulâncias, pelos serviços da administração pública regional e pelas pessoas colectivas de utilidade pública administrativa ficam dependentes de prévia autorização do Secretário Regional do Plano e da Coordenação."
+  },
+  "d85ce75c80a120c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Aquisição e aluguer de equipamento informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aquisição e aluguer de equipamento informático\n\n1 - A compra ou aluguer de equipamento informático depende de prévia autorização do Secretário Regional do Plano e da Coordenação, desde que os respectivos montantes excedam 2400 contos, tratando-se de compra, ou 200 contos mensais, no caso de aluguer.\n\n2 - Sem prejuízo do disposto no número anterior, e dentro dos limites nele definidos, a compra ou aluguer de equipamento informático pelos serviços simples depende de parecer prévio da Direcção Regional de Informática, da Secretaria Regional do Plano e da Coordenação.\n\n3 - Os contratos de manutenção de equipamento informático e respectiva renovação dependem de prévia autorização do Secretário Regional do Plano e da Coordenação, mediante proposta fundamentada do serviço."
+  },
+  "2f2ea3d92caa5190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Dispensa de parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dispensa de parecer\n\nA aquisição de bens, incluindo a aquisição de material de informática e de viaturas com motor para o transporte de pessoas, efectuada através de procedimentos que têm por objecto principal a realização de empreitadas de obras públicas está dispensada do parecer a que se refere o n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, com a redacção dada pelo n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 13/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1995-510178), de 11 de Maio."
+  },
+  "954460cd59d74e63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Vigência\n\nAs disposições do presente diploma produzem efeitos desde a data da entrada em vigor do Orçamento da Região Autónoma da Madeira para 1997.\n\nAprovado em Conselho do Governo Regional em 30 de Maio de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 17 de Junho de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "ed74923832192c70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Dispensa de parecer",
+   "in_force_from": "1997-11-20",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-A/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-1997-315737), publicado em 1997-11-20."
+   ],
+   "markdown": "###### Artigo 14.º — Dispensa de parecer\n\nA aquisição de bens, incluindo a aquisição de material de informática e de viaturas com motor para o transporte de pessoas, efectuada através de procedimentos que têm por objecto principal a realização de empreitadas de obras públicas está dispensada do parecer a que se refere o n.º 1 do artigo 5.º do Decreto Regulamentar Regional n.º 5/82/M, de 18 de Maio, com a redacção dada pelo artigo 10.º do Decreto Regulamentar Regional n.º 13/95/M, de 11 de Maio.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-A/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-1997-315737), publicado em 1997-11-20."
+  }
+ }
+}

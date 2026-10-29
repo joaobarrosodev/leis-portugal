@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:195783:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cd07f07907f1d48e"
+   ]
+  },
+  {
+   "date": "1985-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178313:por",
+     "title": "Decreto-Lei n.º 404/85",
+     "published": "1985-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/404-1985-178313"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "2338ed43aeb22ae4",
+    "c2e4a025e62e767c",
+    "6406e6813f127c10",
+    "f464f55372999956",
+    "cc2db468bf896dc2",
+    "e5238cf5c27f312e",
+    "21e923ec8e83cf99",
+    "bcbaa8177e60c608",
+    "67388ea6d959667f"
+   ]
+  }
+ ],
+ "fragments": {
+  "cd07f07907f1d48e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro\n\nO condicionalismo imposto ao País pelas perturbações que afectam o mercado internacional de petróleos tem estimulado, por parte de certos consumidores, a constituição de reservas de combustível sem o mínimo de condições de sgurança e em quantidades susceptíveis de prejudicarem o regular abastecimento público.\n\nPor outro lado, começam a registar-se comportamentos anómalos, de índole ostensivamente especulativa, com transacções, a preços superiores aos legalmente fixados, do combustível assim armazenado ou simplesmente detido, alterando desse modo o ciclo normal da sua distribuição.\n\nAs circunstâncias exigem, assim, a eficaz prevenção e repressão de actos desta natureza, pelo que se considera conveniente e oportuno proibir, genericamente, a detenção de gasolina ou de gasóleo fora das instalações (de capacidade superior a 300 l e 1200 l, respectivamente) licenciadas e dos motores ou veículos a que se destinem, punindo-se os respectivos infractores, além de outras sanções de carácter essencialmente preventivo, com severas penas de multa. Paralelamente, agrava-se a pena pelo crime de especulação na venda dos referidos combustíveis.\n\nConsiderando, ainda, que o artigo 4.º do [Decreto-Lei n.º 498/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1971-631420), de 12 de Novembro, elevou para 10000000$00 o limite máximo de 100000$00 estabelecido na base XXI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, aproveita-se a oportunidade para ajustar ao disposto naquele artigo os quantitativos das multas que no [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, se prevêem para a prática de infracções à referida lei, designadamente para a violação da regra sobre constituição de reservas, importação de refinados e fiscalização, por parte dos titulares dos alvarás de importação, refinação e exploração de depósitos de petróleo.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. A detenção de gasolina etilada ou gasóleo em instalações não sujeitas a licenciamento, nos termos do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ou fora dos depósitos dos veículos automóveis, ciclomotores, velocípedes com motor auxiliar e dos motores a que se destinam será punida com:\n\na) Multa de 100$00 por cada litro ou fracção de combustível, mas nunca inferior a 1000$00;\n\nb) Inibição de conduzir, pelo prazo de trinta dias a um ano, quando o infractor seja titular de carta ou licença de condução;\n\nc) Exclusão de qualquer regime de distribuição de combustível que eventualmente venha a ser estabelecido, pelo dobro do prazo fixado para as sanções aplicadas ao abrigo da alínea anterior;\n\nd) Apreensão e perda a favor do Estado de todo o combustível ilegalmente detido.\n\n2. A multa prevista na alínea a) do número anterior será elevada para o dobro no caso de ser inaplicável a sanção estabelecida na alínea b).\n\n3. As entidades singulares ou colectivas são solidariamente responsáveis pelo pagamento das multas em que incorram os seus representantes e empregados, desde que aqueles tenham agido nessa qualidade ou no interesse das mesmas.\n\n4. O disposto no n.º 1 não se aplica à detenção, nos locais de utilização, de gasolina etilada ou gasóleo em taras necessárias ao abastecimento normal de motores e máquinas industriais e agrícolas ou barcos de pesca.\n\n5. A detenção de gasolina etilada ou gasóleo, para quaisquer outros usos, no caso de a respectiva armazenagem não estar sujeita a licenciamento, deve ser requerida à Direcção-Geral dos Combustíveis.\n\nArt. 2.º A medida de inibição do direito de conduzir prevista na alínea b) do n.º 1 do artigo 1.º será comunicada, para efeito de execução e registo, à Direcção-Geral de Viação.\n\nArt. 3.º É proibida, sob pena de multa de 5000$00 a 50000$00, a montagem de depósitos suplementares de combustível nos veículos ou a alteração da capacidade dos depósitos de origem. Os veículos em que estas operações tenham sido realizadas serão ainda declarados perdidos a favor do Estado.\n\nArt. 4.º Constitui crime de especulação, punido nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a venda de gasolina ou gasóleo por preços superiores aos legalmente fixados, mas a pena complementar de multa não poderá ser inferior a 5000$00, nem a pena de prisão de três dias a dois anos poderá ser substituída por multa.\n\nArt. 5.º As vendas de produtos derivados de petróleo que não sejam efectuadas pelas companhias distribuidoras, seus revendedores e outros comerciantes para tanto autorizados serão punidas com multa de montante igual a dez vezes o valor do produto transaccionado, mas nunca inferior a 5000$00, e com a sua perda a favor do Estado.\n\nArt. 6.º - 1. As infracções ao disposto no n.º 1 do artigo 1.º e nos artigos 3.º e 5.º serão julgadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e para levantamento dos respectivos autos de notícia serão competentes todas as autoridades administrativas e policiais.\n\n2. Os autos de notícia levantados nos termos do número anterior fazem fé em juízo até prova em contrário.\n\nArt. 7.º - 1. Os máximos das multas previstas nos artigos 45.º, 46.º, 49.º e 50.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, são fixados, respectivamente, em 4000000$00, 2000000$00, 5000000$00 e 5000000$00.\n\n2. É elevado para 10000000$00 o montante da multa a que se refere o artigo 46.º do decreto mencionado no número anterior, e é aumentada para 5000000$00 a importância da multa prevista no artigo 48.º do mesmo diploma.\n\nArt. 8.º O presente decreto-lei entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 19 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "2338ed43aeb22ae4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro\n\nO condicionalismo imposto ao País pelas perturbações que afectam o mercado internacional de petróleos tem estimulado, por parte de certos consumidores, a constituição de reservas de combustível sem o mínimo de condições de sgurança e em quantidades susceptíveis de prejudicarem o regular abastecimento público.\n\nPor outro lado, começam a registar-se comportamentos anómalos, de índole ostensivamente especulativa, com transacções, a preços superiores aos legalmente fixados, do combustível assim armazenado ou simplesmente detido, alterando desse modo o ciclo normal da sua distribuição.\n\nAs circunstâncias exigem, assim, a eficaz prevenção e repressão de actos desta natureza, pelo que se considera conveniente e oportuno proibir, genericamente, a detenção de gasolina ou de gasóleo fora das instalações (de capacidade superior a 300 l e 1200 l, respectivamente) licenciadas e dos motores ou veículos a que se destinem, punindo-se os respectivos infractores, além de outras sanções de carácter essencialmente preventivo, com severas penas de multa. Paralelamente, agrava-se a pena pelo crime de especulação na venda dos referidos combustíveis.\n\nConsiderando, ainda, que o artigo 4.º do [Decreto-Lei n.º 498/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1971-631420), de 12 de Novembro, elevou para 10000000$00 o limite máximo de 100000$00 estabelecido na base XXI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, aproveita-se a oportunidade para ajustar ao disposto naquele artigo os quantitativos das multas que no [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, se prevêem para a prática de infracções à referida lei, designadamente para a violação da regra sobre constituição de reservas, importação de refinados e fiscalização, por parte dos titulares dos alvarás de importação, refinação e exploração de depósitos de petróleo.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "c2e4a025e62e767c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A detenção de gasolina etilada ou gasóleo em instalações não sujeitas a licenciamento, nos termos do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ou fora dos depósitos dos veículos automóveis, ciclomotores, velocípedes com motor auxiliar e dos motores a que se destinam será punida com:\n\na) Multa de 100$00 por cada litro ou fracção de combustível, mas nunca inferior a 1000$00;\n\nb) Inibição de conduzir, pelo prazo de trinta dias a um ano, quando o infractor seja titular de carta ou licença de condução;\n\nc) Exclusão de qualquer regime de distribuição de combustível que eventualmente venha a ser estabelecido, pelo dobro do prazo fixado para as sanções aplicadas ao abrigo da alínea anterior;\n\nd) Apreensão e perda a favor do Estado de todo o combustível ilegalmente detido.\n\n2. A multa prevista na alínea a) do número anterior será elevada para o dobro no caso de ser inaplicável a sanção estabelecida na alínea b).\n\n3. As entidades singulares ou colectivas são solidariamente responsáveis pelo pagamento das multas em que incorram os seus representantes e empregados, desde que aqueles tenham agido nessa qualidade ou no interesse das mesmas.\n\n4. O disposto no n.º 1 não se aplica à detenção, nos locais de utilização, de gasolina etilada ou gasóleo em taras necessárias ao abastecimento normal de motores e máquinas industriais e agrícolas ou barcos de pesca.\n\n5. A detenção de gasolina etilada ou gasóleo, para quaisquer outros usos, no caso de a respectiva armazenagem não estar sujeita a licenciamento, deve ser requerida à Direcção-Geral dos Combustíveis."
+  },
+  "6406e6813f127c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA medida de inibição do direito de conduzir prevista na alínea b) do n.º 1 do artigo 1.º será comunicada, para efeito de execução e registo, à Direcção-Geral de Viação."
+  },
+  "f464f55372999956": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1985-10-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 404/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1985-178313), publicado em 1985-10-15."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 404/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1985-178313), publicado em 1985-10-15."
+  },
+  "cc2db468bf896dc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nConstitui crime de especulação, punido nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a venda de gasolina ou gasóleo por preços superiores aos legalmente fixados, mas a pena complementar de multa não poderá ser inferior a 5000$00, nem a pena de prisão de três dias a dois anos poderá ser substituída por multa."
+  },
+  "e5238cf5c27f312e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs vendas de produtos derivados de petróleo que não sejam efectuadas pelas companhias distribuidoras, seus revendedores e outros comerciantes para tanto autorizados serão punidas com multa de montante igual a dez vezes o valor do produto transaccionado, mas nunca inferior a 5000$00, e com a sua perda a favor do Estado."
+  },
+  "21e923ec8e83cf99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As infracções ao disposto no n.º 1 do artigo 1.º e nos artigos 3.º e 5.º serão julgadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e para levantamento dos respectivos autos de notícia serão competentes todas as autoridades administrativas e policiais.\n\n2. Os autos de notícia levantados nos termos do número anterior fazem fé em juízo até prova em contrário."
+  },
+  "bcbaa8177e60c608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os máximos das multas previstas nos artigos 45.º, 46.º, 49.º e 50.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, são fixados, respectivamente, em 4000000$00, 2000000$00, 5000000$00 e 5000000$00.\n\n2. É elevado para 10000000$00 o montante da multa a que se refere o artigo 46.º do decreto mencionado no número anterior, e é aumentada para 5000000$00 a importância da multa prevista no artigo 48.º do mesmo diploma."
+  },
+  "67388ea6d959667f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente decreto-lei entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 19 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

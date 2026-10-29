@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-27'
+version_history:
+  file: decreto-lei-218-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-27'
+    amending: pt:dre:145860:por
+    amending_title: Decreto-Lei n.º 249/96; Decreto-Lei n.º 216/2002
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:00:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 249/96; Decreto-Lei
+    n.º 216/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-218-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,51 +163,75 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º É criada a Comissão Interministerial para as Migrações e Comunidades Portuguesas, adiante designada por Comissão, que se rege pelo disposto no presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros, que pode delegar tal competência no membro do Governo responsável pelas comunidades portuguesas, sendo também constituída pelos seguintes membros:
+É criada a Comissão Interministerial para as Migrações e Comunidades Portuguesas, adiante designada por Comissão, que se rege pelo disposto no presente diploma.
 
-a) Três representantes da Presidência do Conselho de Ministros (respectivamente das áreas da cultura, da juventude e da comunicação social);
+###### Artigo 2.º
 
-b) Um representante do Ministério da Defesa Nacional;
+1 - A Comissão é presidida pelo Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, que pode delegar tal competência no membro do Governo responsável pelas comunidades portuguesas, sendo também constituída pelos seguintes membros:
 
-c) Três representantes do Ministério das Finanças (respectivamente das áreas das contribuições e impostos, das alfândegas e do Tesouro);
+a) Três representantes da Presidência do Conselho de Ministros;
 
-d) Dois representantes do Ministério da Administração Interna (respectivamente das áreas de estrangeiros e fronteiras e dos assuntos relativos ao processo eleitoral);
+b) Dois representantes do Ministério das Finanças;
 
-e) Um representante do Ministério da Justiça;
+c) Dois representantes do Ministério da Defesa Nacional;
 
-f) Dois representantes do Ministério da Educação (respectivamente das áreas da extensão educativa e do ensino superior);
+d) Cinco representantes do Ministério dos Negócios Estrangeiros;
 
-g) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;
+e) Um representante do Ministério da Administração Interna;
 
-h) Dois representantes do Ministério do Emprego e da Segurança Social (respectivamente das áreas do emprego e formação profissional e da Segurança Social);
+f) Um representante do Ministério da Justiça;
 
-i) Dois representantes do Ministério do Comércio e Turismo (respectivamente das áreas do turismo e do comércio externo).
+g) Um representante do Ministério da Economia;
+
+h) Um representante do Ministério da Agricultura, Desenvolvimento Rural e Pescas;
+
+i) Um representante do Ministério da Educação;
+
+j) Um representante do Ministério da Ciência e do Ensino Superior;
+
+l) Um representante do Ministério da Cultura;
+
+m) Dois representantes do Ministério da Segurança Social e do Trabalho;
+
+n) Um representante do Ministério das Obras Públicas, Transportes e Habitação;
+
+o) Um representante do Ministério das Cidades, Ordenamento do Território e Ambiente.
 
 2 - Integram também a Comissão representantes dos Governos Regionais dos Açores e da Madeira.
 
-3 - São membros, por inerência, da Comissão:
+3 - Os membros da Comissão referidos no n.º 1 do presente artigo são nomeados por despacho do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, sob proposta das entidades representadas.
 
-a) Os elementos que integram a direcção do Instituto de Apoio à Emigração e às Comunidades Portuguesas;
+4 - São membros por inerência da Comissão os directores-gerais ou equiparados do Ministério dos Negócios Estrangeiros.
 
-b) Os directores-gerais ou equiparados do Ministério dos Negócios Estrangeiros.
+5 - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas pode designar para a Comissão até três peritos, que terão estatuto equiparado ao dos restantes membros.
 
-4 - Os membros da Comissão referidos no n.º 1 devem ser designados de entre pessoal dirigente, de preferência de categoria não inferior a subdirector-geral.
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 249/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1996-145860), publicado em 1996-12-24.
 
-Art. 3.º Compete à Comissão, enquanto órgão de apoio do Ministro dos Negócios Estrangeiros, em matéria de migrações e comunidades portuguesas:
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2002-432176), publicado em 2002-10-22.
+
+###### Artigo 3.º
+
+Compete à Comissão, enquanto órgão de apoio do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, em matéria de migrações e comunidades portuguesas:
 
 a) Contribuir para a coordenação de acções interdepartamentais naquele domínio;
 
 b) Dar parecer e prestar informações sobre assuntos que lhe sejam apresentados pelo presidente.
 
-Art. 4.º - 1 - A Comissão reúne em plenário e por secções.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 216/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2002-432176), publicado em 2002-10-22.
+
+###### Artigo 4.º
+
+1 - A Comissão reúne em plenário e por secções.
 
 2 - A Comissão reúne em plenário, ordinariamente, uma vez por ano e, extraordinariamente, sempre que convocada pelo seu presidente.
 
 3 - As reuniões por secções realizam-se sempre que convocadas pelo presidente, com a antecedência mínima de 15 dias, por sua iniciativa ou a pedido de algum membro da Comissão.
 
-Art. 5.º - 1 - As secções não têm composição fixa, sendo convocados os membros da Comissão em cuja área de competência se insiram os assuntos agendados para a reunião.
+###### Artigo 5.º
+
+1 - As secções não têm composição fixa, sendo convocados os membros da Comissão em cuja área de competência se insiram os assuntos agendados para a reunião.
 
 2 - Nas reuniões das secções os membros da Comissão podem fazer-se representar ou acompanhar por técnicos cuja participação considerem adequada ao debate dos assuntos constantes da ordem de trabalhos.
 
@@ -198,11 +239,17 @@ Art. 5.º - 1 - As secções não têm composição fixa, sendo convocados os me
 
 4 - As reuniões das secções são presididas por quem o presidente da Comissão mencionar nas respectivas convocatórias.
 
-Art. 6.º O exercício das funções de membro da Comissão não é remunerado.
+###### Artigo 6.º
 
-Art. 7.º O apoio administrativo à Comissão é prestado pelo gabinete do membro do Governo responsável pelas comunidades portuguesas.
+O exercício das funções de membro da Comissão não é remunerado.
 
-Art. 8.º São revogados o [Decreto-Lei n.º 14/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1987-599517), de 9 de Janeiro, e a [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 14 de Fevereiro.
+###### Artigo 7.º
+
+O apoio administrativo à Comissão é prestado pelo gabinete do membro do Governo responsável pelas comunidades portuguesas.
+
+###### Artigo 8.º
+
+São revogados o [Decreto-Lei n.º 14/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1987-599517), de 9 de Janeiro, e a [Portaria n.º 105/87](https://diariodarepublica.pt/dr/detalhe/portaria/105-1987-662950), de 14 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - António Fernando Couto dos Santos.
 

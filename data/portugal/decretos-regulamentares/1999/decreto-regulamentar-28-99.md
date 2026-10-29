@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-28-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/28/1999/11/30/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:26:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1999/decreto-regulamentar-28-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,7 +197,9 @@ São órgãos da Reserva Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Composição e funcionamento da comissão directiva
 
@@ -236,51 +255,15 @@ e) Cobrar as receitas e autorizar as despesas para que seja competente.
 
 ###### Artigo 9.º — Composição e funcionamento do conselho consultivo
 
-1 - O conselho consultivo é constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Direcção-Geral das Florestas;
-
-b) Direcção-Geral do Ordenamento do Território;
-
-c) Comissão de Coordenação da Região do Centro;
-
-d) Direcção Regional de Agricultura da Beira Interior;
-
-e) Câmara Municipal de Penamacor;
-
-f) Câmara Municipal do Sabugal;
-
-g) Junta de Freguesia da Malcata;
-
-h) Junta de Freguesia de Meimão;
-
-i) Junta de Freguesia de Meimoa;
-
-j) Junta de Freguesia de Penamacor;
-
-l) Junta de Freguesia de Quadrazais;
-
-m) Junta de Freguesia de Vale de Espinho;
-
-n) Organizações não governamentais de ambiente (ONGA), de âmbito regional ou de âmbito nacional com intervenção na área da Reserva Natural, consideradas em conjunto e em sistema rotativo com mandato de um ano;
-
-o) Associações representativas dos diferentes sectores económicos, consideradas em conjunto e em sistema rotativo com mandato de um ano.
-
-2 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 11.º — Interdições
 

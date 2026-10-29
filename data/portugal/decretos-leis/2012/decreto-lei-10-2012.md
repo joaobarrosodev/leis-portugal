@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-04-16'
+version_history:
+  file: decreto-lei-10-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-04-16'
+    amending: pt:dre:552547:por
+    amending_title: Decreto-Lei n.º 89/2012
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/10/2012/01/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:16:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 89/2012. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-10-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,9 +268,11 @@ c) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outr
 
 1 - Constituem despesas do FRI, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, dividindo-se em normais e classificadas.
 
-2 - As despesas decorrentes do exercício das competências previstas nas alíneas d) e f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.
+2 - As despesas decorrentes do exercício das competências previstas na alínea f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.
 
 3 - As despesas classificadas são justificadas por documento do conselho directivo, assinado pelo seu presidente e outro membro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2012-552547), publicado em 2012-04-11.
 
 ###### Artigo 11.º — Património
 

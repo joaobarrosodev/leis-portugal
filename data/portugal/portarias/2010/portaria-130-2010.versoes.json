@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:611289:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-03-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cc3b3e361ef23dad",
+    "97d4394cb6c279eb",
+    "ad760d2b9c4a3505",
+    "dceebab2f3077551",
+    "89d72ff3631eea3d",
+    "4e3a756fb79d87b7",
+    "3a10078b2a69c5be",
+    "85f35e73656ce048",
+    "3558467810ae6a8c"
+   ]
+  },
+  {
+   "date": "2010-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335223:por",
+     "title": "Portaria n.º 371/2010",
+     "published": "2010-06-23",
+     "dre_path": "/dr/detalhe/portaria/371-2010-335223"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "cc3b3e361ef23dad",
+    "97d4394cb6c279eb",
+    "ad760d2b9c4a3505",
+    "dceebab2f3077551",
+    "89d72ff3631eea3d",
+    "4e3a756fb79d87b7",
+    "5ff624cfd76f52fc",
+    "85f35e73656ce048",
+    "3558467810ae6a8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "cc3b3e361ef23dad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Março\n\nSob proposta da Escola Superior de Enfermagem de Lisboa;\n\nConsiderando o disposto no [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março;\n\nColhido o parecer da comissão técnica para o ensino da enfermagem, nomeada pelo despacho conjunto n.º 291/2003 (2.ª série), de 27 de Março;\n\nOuvida a Ordem dos Enfermeiros;\n\nAo abrigo do disposto no n.º 2 do artigo 11.º e nos artigos 14.º e 15.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "97d4394cb6c279eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ autorizado o funcionamento do curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica na Escola Superior de Enfermagem de Lisboa."
+  },
+  "ad760d2b9c4a3505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento\n\nO curso cujo funcionamento é autorizado pela presente portaria rege-se pelo Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março."
+  },
+  "dceebab2f3077551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nO curso tem a duração de três semestres lectivos."
+  },
+  "89d72ff3631eea3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Créditos\n\nO número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Saúde Mental e Psiquiatria é de 90."
+  },
+  "4e3a756fb79d87b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria."
+  },
+  "3a10078b2a69c5be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número máximo de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 30.\n\n2 - A frequência global do curso não pode exceder 45 alunos."
+  },
+  "85f35e73656ce048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 19 de Fevereiro de 2010."
+  },
+  "3558467810ae6a8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Escola Superior de Enfermagem de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Escola Superior de Enfermagem de Lisboa\n\nCurso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica\n\nQUADRO N.º 1\n\n1.º e 2.º semestres\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)\n\nQUADRO N.º 2\n\n3.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/04100/0058200583.pdf)"
+  },
+  "5ff624cfd76f52fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número máximo de alunos",
+   "in_force_from": "2010-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 371/2010](https://diariodarepublica.pt/dr/detalhe/portaria/371-2010-335223), publicado em 2010-06-23."
+   ],
+   "markdown": "###### Artigo 6.º — Número máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.\n\n2 - A frequência global do curso não pode exceder 110 alunos.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 371/2010](https://diariodarepublica.pt/dr/detalhe/portaria/371-2010-335223), publicado em 2010-06-23."
+  }
+ }
+}

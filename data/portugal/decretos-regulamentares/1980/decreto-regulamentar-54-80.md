@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-01'
+version_history:
+  file: decreto-regulamentar-54-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: pt:dre:654501:por
+    amending_title: Decreto Regulamentar n.º 29/99; Decreto-Lei n.º 132/2019
+    changes:
+    - Altera Artigo 34.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:02:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 29/99; Decreto-Lei
+    n.º 132/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1980/decreto-regulamentar-54-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -635,85 +656,43 @@ f) Serviços de transportes.
 
 3 - A fixação do montante dos seguros e demais questões relativas à aplicação do presente artigo será efectuada por despacho do Ministro das Finanças e do Plano, sob proposta do director-geral.
 
-###### Artigo 34.º — (Subsídio de residência)
+###### Artigo 34.º — subsídio de residência
 
-1 - Enquanto não houver habitações fornecidas pelo Estado, os funcionários da Direcção-Geral das Contribuições e Impostos que tenham de mudar de residência por motivo de conveniência de serviço e de progressão nas respectivas carreiras têm direito a um subsídio de residência destinado a compensar a diferença do custo da habitação resultante da mudança do local de trabalho.
+(Revogado.)
 
-2 - O disposto no número anterior aplica-se aos funcionários nomeados para cargos do pessoal dirigente superior e dirigente por efeitos de promoção ou nos termos do n.º 6 do artigo 32.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, bem como aos que forem promovidos à categoria equivalente ou superior à de técnico tributário de 2.ª classe.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 29/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1999-654501), publicado em 1999-12-20.
 
-3 - O preceituado no n.º 1 aplica-se ainda aos funcionários de categoria equivalente ou superior à de perito tributário de 2.ª classe transferidos para os serviços centrais ou para a Direcção de Finanças de Lisboa.
-
-4 - O subsídio de residência não é acumulável com o abono de ajudas de custo ou qualquer outro abono que vise compensar despesas de alojamento.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 35.º — (Montante do subsídio de residência)
 
-1 - O montante máximo do subsídio de residência será de 6000$00 mensais.
+(Revogado.)
 
-2 - O subsídio de residência atribuído aos funcionários que a ele tenham direito corresponderá à renda efectivamente paga pelos mesmos nos locais da nova colocação, sem prejuízo do limite fixado nos termos do número anterior.
-
-3 - Quando por impossibilidade de conseguirem habitação os funcionários tiverem de alojar-se em hotel ou pensão, ser-lhes-á atribuído à mesma o subsídio de residência, de acordo com o montante referido no n.º 1 do presente artigo.
-
-4 - O montante máximo do subsídio de residência será actualizado por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, pelo menos, de dois em dois anos.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 36.º — (Situações que não dão direito ao subsídio de residência)
 
-Não têm direito ao subsídio de residência:
+(Revogado.)
 
-a) Os funcionários transferidos por motivos disciplinares;
-
-b) Os funcionários cujo cônjuge beneficie de subsídio idêntico ao instituído pelo presente diploma e dele não prescinda e esteja colocado a menos de 30 km da residência comum;
-
-c) Os funcionários que possuam habitação própria ou do cônjuge na área da localidade da nova colocação;
-
-d) Os funcionários que mudarem entre os seguintes concelhos:
-
-a) Da área de Lisboa:
-
-Almada, Amadora, Lisboa, Loures, Oeiras, Barreiro e Cascais;
-
-Almada, Barreiro, Montijo, Seixal e Lisboa;
-
-Lisboa, Vila Franca de Xira, Loures, Oeiras e Cascais;
-
-Amadora, Oeiras, Cascais, Lisboa e Sintra.
-
-b) Da área do Porto:
-
-Espinho, Vila Nova de Gaia e Porto;
-
-Gondomar, Porto, Valongo e Matosinhos;
-
-Póvoa de Varzim, Vila do Conde, Porto, Maia e Matosinhos;
-
-Vila Nova de Gaia, Porto, Matosinhos, Maia e Gondomar.
-
-e) Os funcionários cuja mudança não der origem a deslocação superior a 30 km, a menos que já percebam o subsídio.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 37.º — (Cessação de benefício referente ao subsídio de residência)
 
-1 - Cessa o benefício respeitante ao subsídio de residência quando o funcionário ou o seu cônjuge adquiram habitação própria na localidade onde o funcionário preste serviço.
+(Revogado.)
 
-2 - No caso da aquisição de habitação própria e quando haja isenção ou redução de sisa e isenção de contribuição predial, o subsídio manter-se-á pelo período de cinco anos.
-
-3 - Cessa o subsídio de residência se o funcionário não obtiver classificação nas duas provas de selecção seguintes à concessão do subsídio, salvo as provas de selecção para administrador tributário.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 38.º — (Declaração das condições de que resulta a perda do subsídio de residência)
 
-1 - Quando se verificarem condições que impliquem a cessação do subsídio de residência, devem os funcionários declará-las no prazo de trinta dias após a ocorrência das mesmas.
+(Revogado.)
 
-2 - O não cumprimento do disposto no número anterior, bem como as falsas declarações, implicam a perda de subsídio, a sua reposição e a instauração de processo disciplinar, se for caso disso.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 39.º — (Concessão do subsídio de residência)
 
-1 - O subsídio de residência será concedido, caso a caso, pelo Ministro das Finanças e do Plano, mediante requerimento dos interessados.
+(Revogado.)
 
-2 - Juntamente com o requerimento os interessados têm de apresentar os seguintes documentos:
-
-a) Declaração, em papel selado, com reconhecimento notarial, de que não estão abrangidos por nenhuma das condições impeditivas da atribuição de subsídio previstas no artigo 45.º;
-
-b) Declaração passada pelo serviço do cônjuge do funcionário, de que o mesmo prescindiu de subsídio idêntico, no caso previsto na alínea b) do artigo 36.º;
-
-c) Contrato de arrendamento da nova habitação.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 40.º — (Repartição de Finanças do Corvo)
 

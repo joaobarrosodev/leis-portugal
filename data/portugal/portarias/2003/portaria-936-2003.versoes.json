@@ -1,0 +1,278 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:510436:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f4866983b7654d59",
+    "cd639bb75fab8272",
+    "92de7c0e948b35c3",
+    "646b4a604963ae61",
+    "eb3f6b568163d114",
+    "a6e5058f30c080db",
+    "7d9a2cdd37999707",
+    "1ae561ab22dfed4e",
+    "94dd561fb9d579f9",
+    "6f5e2f40d85ff9c3",
+    "c1b1ff90b0195373",
+    "d1177f82ef145bea",
+    "412f2b9419a682ac",
+    "8af2a12847ebc39d",
+    "1a49fcffa6e8fabe",
+    "b34bee4aacd9d708",
+    "878b7b0c09a4e2ef",
+    "95995d459bcd0c75",
+    "e43bbb4997fe5479",
+    "072e644aab681313",
+    "e68ec351dcaa0606"
+   ]
+  },
+  {
+   "date": "2004-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:272609:por",
+     "title": "Portaria n.º 678/2004",
+     "published": "2004-06-19",
+     "dre_path": "/dr/detalhe/portaria/678-2004-272609"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::6.º",
+    "Altera Artigo ANEXO::9.º",
+    "Altera Artigo ANEXO::11.º"
+   ],
+   "fragments": [
+    "f4866983b7654d59",
+    "cd639bb75fab8272",
+    "92de7c0e948b35c3",
+    "646b4a604963ae61",
+    "eb3f6b568163d114",
+    "a6e5058f30c080db",
+    "7d9a2cdd37999707",
+    "654278c200ab0d28",
+    "94dd561fb9d579f9",
+    "6f5e2f40d85ff9c3",
+    "a9cbdf6612b80ac5",
+    "d1177f82ef145bea",
+    "ed22d854f1dd928f",
+    "8af2a12847ebc39d",
+    "1a49fcffa6e8fabe",
+    "b34bee4aacd9d708",
+    "878b7b0c09a4e2ef",
+    "95995d459bcd0c75",
+    "e43bbb4997fe5479",
+    "072e644aab681313",
+    "e68ec351dcaa0606"
+   ]
+  }
+ ],
+ "fragments": {
+  "f4866983b7654d59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Setembro\n\nO Programa Operacional Agricultura e Desenvolvimento Rural integra uma medida de engenharia financeira, que visa apoiar a consolidação financeira e estimular a utilização pelas organizações e empresas do sector agro-florestal de novos instrumentos financeiros adequados à dinamização e rentabilização, quer das explorações, quer de certas actividades específicas.\n\nDe facto, o mercado dos instrumentos financeiros em Portugal, apesar de razoavelmente organizado e desenvolvido, não tem sido aplicado nem se encontra vocacionado para as empresas deste sector.\n\nAs principais razões desta situação são, para além da débil organização empresarial do sector, designadamente nas zonas de minifúndio, a limitada rentabilidade desses investimentos, se encarados na estrita óptica da remuneração de capitais, agravada, ainda, pela inadequação ao sector de algumas disposições fiscais, designadamente nos investimentos de ciclo longo, como são a floresta ou muitas das culturas permanentes.\n\nPretende-se, assim, apoiar a criação de alguns instrumentos financeiros, adaptados aos condicionalismos próprios do tecido empresarial agro-florestal e que promovam um acesso mais equitativo ao capital de risco e melhorem a capacidade negocial das pequenas e médias empresas junto do sistema financeiro, através de concessão de garantias.\n\nPor outro lado, os fundos de investimento permitirão captar e canalizar, para o investimento agro-florestal, recursos com origem dentro e fora do sector, criando um novo paradigma do financiamento das actividades agrícolas e florestais claramente viradas para o mercado e num quadro de gestão empresarial bem organizado, designadamente com informação contabilística fluente e auditável e, tendencialmente, em negócios de interessante rentabilidade.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, que seja aprovado o Regulamento de Aplicação da Medida n.º 6, «Engenharia Financeira», do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado por Programa AGRO, em anexo ao presente diploma e do qual faz parte integrante.\n\nO Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Agosto de 2003."
+  },
+  "cd639bb75fab8272": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE APLICAÇÃO DA MEDIDA N.º 6, «ENGENHARIA FINANCEIRA»"
+  },
+  "92de7c0e948b35c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da medida n.º 6, «Engenharia financeira», do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado por Programa AGRO."
+  },
+  "646b4a604963ae61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO regime de ajudas a que se refere o presente Regulamento tem como objectivo geral apoiar a criação de um conjunto de novos instrumentos financeiros de canalização do investimento privado para o sector agro-florestal, tendo como objectivos específicos os seguintes:\n\na) Contribuir para a organização e lançamento de fundos de investimento, mobiliário e imobiliário, vocacionados para o sector agro-florestal, colmatando as deficiências de mercado neste domínio;\n\nb) Apoiar o processo de concepção, de estudos de implementação e de viabilidade dos fundos mencionados na alínea anterior e respectivas sociedades gestoras;\n\nc) Contribuir para a constituição de sociedades de garantia mútua, especialmente vocacionadas para apoio a micro, pequenas e médias empresas do sector agro-florestal, ou entidades representativas de qualquer destas categorias de empresas;\n\nd) Apoiar o processo de concepção, de estudos de implementação e de viabilidade das sociedades de garantia mútua a constituir ou do reforço do capital social de sociedades já constituídas;\n\ne) Contribuir para o reforço do Fundo de Contragarantia Mútuo, criado pelo Decreto-Lei n.º 229/98, de 22 de Julho."
+  },
+  "eb3f6b568163d114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição\n\nPara efeitos deste Regulamento, considera-se sector agro-florestal o conjunto das actividades económicas específicas da actividade rural, integrando os subsectores agrícola, florestal, pecuário, agro-industrial e de preservação ambiental, ou a conjugação destes."
+  },
+  "a6e5058f30c080db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Projectos a apoiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Projectos a apoiar\n\nNo âmbito do presente Regulamento podem ser concedidas ajudas aos seguintes tipos de projectos:\n\na) Tipo A - constituição de fundos de investimento mobiliário (FIM);\n\nb) Tipo B - constituição de fundos de investimento imobiliário (FII);\n\nc) Tipo C - elaboração de estudos de viabilidade, de concepção e de implementação de FIM ou FII;\n\nd) Tipo D - constituição de sociedades de garantia mútua (SGM) ou reforço do respectivo capital social;\n\ne) Tipo E - elaboração de estudos de viabilidade, de concepção e de implementação de SGM;\n\nf) Tipo F - reforço do Fundo de Contragarantia Mútuo."
+  },
+  "7d9a2cdd37999707": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Âmbito dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito dos projectos\n\n1 - Para efeitos do presente Regulamento, os fundos de investimento e as SGM a constituir devem estar vocacionados para o sector agro-florestal.\n\n2 - Os FII devem ter por objectivo o investimento em prédios rústicos, incluindo a parte urbana de prédios mistos em que aqueles se integrem.\n\n3 - As SGM têm por objectivo reforçar a capacidade de acesso ao crédito por parte de micro, pequenas e médias empresas do sector agro-florestal, ou entidades representativas de qualquer destas categorias de empresas, nomeadamente para apoio a necessidades de investimento e de reforço dos capitais permanentes."
+  },
+  "1ae561ab22dfed4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento as seguintes entidades:\n\na) Projectos dos tipos A e B:\n\ni) Entidades sem fins lucrativos do sector agro-florestal;\n\nii) Empresas públicas, municipais, intermunicipais e de capitais maioritariamente públicos;\n\niii) Municípios e suas associações;\n\niv) Organismos da administração central;\n\nb) Projectos do tipo C:\n\ni) As entidades referidas na alínea anterior;\n\nii) Sociedades gestoras de fundos;\n\nc) Projectos do tipo D:\n\ni) Micro, pequenas e médias empresas do sector agro-florestal ou associações empresariais de qualquer destas categorias de empresas;\n\nii) Organismos da administração central;\n\nd) Projectos do tipo E:\n\ni) Sociedade gestora do Fundo de Contragarantia Mútuo;\n\nii) Outras entidades com particular vocação e experiência na gestão, desenvolvimento e implementação do sistema nacional de garantia mútua;\n\niii) Organismos da administração central;\n\ne) Projectos do tipo F - organismos da administração central.\n\n2 - Podem, ainda, beneficiar de ajudas no âmbito de projectos tipo B os proprietários de prédios rústicos ou de prédios urbanos integrados nos prédios mistos em que aqueles se integrem, que permutem esse prédios por unidades de participação do fundo imobiliário."
+  },
+  "94dd561fb9d579f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso\n\n1 - Para efeitos de acesso às ajudas, os projectos dos tipos A e B devem integrar:\n\na) Um acordo de parceria entre os proponentes para a constituição de uma sociedade gestora do fundo de investimento;\n\nb) Um plano estratégico e um estudo de viabilidade do fundo e da sociedade gestora de fundos;\n\nc) Um plano de investimentos agro-florestais;\n\nd) A demonstração da compatibilidade dos apoios financeiros concedidos através do presente Regulamento ou de outros regimes de ajudas aos investimentos previstos no plano referido na alínea anterior face à regulamentação nacional e comunitária aplicável;\n\ne) O regulamento de gestão e demais documentos e informações necessários à formulação do pedido de autorização de constituição à autoridade competente nos termos da legislação aplicável;\n\nf) O contrato de sociedade e demais documentos e informações necessários à formulação do pedido de autorização de constituição à autoridade competente nos termos da legislação aplicável.\n\n2 - Para efeitos de acesso às ajudas, os projectos do tipo D devem integrar:\n\na) Um plano estratégico e um estudo de viabilidade da SGM;\n\nb) O projecto de contrato de sociedade da SGM a constituir e demais documentos e informações necessários à formulação do pedido de autorização de constituição às autoridades competentes nos termos da legislação aplicável;\n\nc) A demonstração da compatibilidade dos apoios financeiros concedidos através do presente Regulamento face à regulamentação nacional e comunitária aplicável;\n\nd) Declarações de intenção de subscrição de capital por parte de micro, pequenas e médias empresas do sector agro-florestal ou entidades representativas de qualquer destas categorias de empresas representativas de pelo menos 25% do capital social da SGM a constituir.\n\n3 - Para efeitos de acesso às ajudas, os projectos do tipo F, devem integrar:\n\na) A demonstração/justificação da necessidade do reforço do Fundo de Contragarantia Mútuo;\n\nb) A minuta do contrato a celebrar com o Fundo de Contragarantia Mútuo.\n\n4 - As candidaturas dos projectos dos tipos C e E devem integrar uma memória descritiva dos objectivos do estudo a elaborar e a forma e quantificação do seu contributo para a concretização de investimentos agro-florestais, bem como a orçamentação justificada dos trabalhos a desenvolver.\n\n5 - Em qualquer caso, os projectos não podem ter início antes da apresentação da candidatura."
+  },
+  "6f5e2f40d85ff9c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Plano de investimentos agro-florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Plano de investimentos agro-florestais\n\n1 - O plano a que se refere a alínea c) do n.º 1 do artigo anterior deverá estabelecer um quadro de investimentos a concretizar, coerente com os objectivos do instrumento financeiro a criar e incluir:\n\na) Os indicadores físicos de investimento;\n\nb) O mapa com identificação das fontes de financiamento;\n\nc) O cronograma físico e financeiro dos investimentos.\n\n2 - O plano de investimentos agro-florestais referido no número anterior será a base da celebração de um protocolo de apoio a investimentos agro-florestais, a estabelecer entre a sociedade gestora e o gestor do Programa AGRO e o Programa RURIS, especificando os investimentos e prazos de concretização por cada medida dos Programas."
+  },
+  "c1b1ff90b0195373": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\nNo âmbito deste Regulamento, são elegíveis as seguintes despesas:\n\na) Projectos dos tipos A e B:\n\ni) Subscrição de participações no capital social de sociedades gestoras de fundos de investimento;\n\nii) Subscrição de unidades de participação de fundos de investimento;\n\niii) Despesas com comissões às sociedades gestoras de fundos e à entidade reguladora;\n\nb) Projectos do tipo D - subscrição de participações no capital social de SGM;\n\nc) Projectos dos tipos C e E - despesas imputáveis directamente à elaboração dos estudos e projectos, bem como até ao limite de 10% do total das despesas elegíveis, as despesas gerais e imprevistas associadas à sua concretização, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º [1685/2000](http://data.europa.eu/eli/reg/2000/1685/oj?locale=pt), da Comissão, de 28 de Julho, com a redacção dada pelo Regulamento (CE) n.º [1145/2003](http://data.europa.eu/eli/reg/2003/1145/oj?locale=pt), da Comissão, de 27 de Junho;\n\nd) Projectos do tipo F - montante do reforço."
+  },
+  "d1177f82ef145bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Forma e valores das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma e valores das ajudas\n\n1 - As ajudas previstas neste Regulamento são atribuídas sob a forma de incentivo não reembolsável aos beneficiários referidos no n.º 1 do artigo 6.º nos seguintes casos e com os valores a seguir indicados:\n\na) 45% quando se trate de entidades privadas e das despesas a que se referem as subalíneas i) e ii) da alínea a) e a alínea b) do n.º 1 do artigo anterior;\n\nb) 45% sempre que se trate da despesa a que se refere a subalínea iii) da alínea a) do n.º 1 do artigo anterior;\n\nc) 75% das despesas realizadas com a elaboração de estudos e projectos no caso de entidades privadas;\n\nd) 100% quando se trate de entidades públicas.\n\n2 - No caso dos beneficiários referidos no n.º 2 do artigo 6.º, o valor das ajudas é de 20% do custo de aquisição de unidades de participação."
+  },
+  "412f2b9419a682ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Limites das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Limites das ajudas\n\nO valor global das ajudas atribuídas no âmbito desta medida não pode exceder os seguintes valores por projecto:\n\na) Tipo A - 12 milhões de euros;\n\nb) Tipo B - 20 milhões de euros;\n\nc) Tipos C e E - 150 mil euros;\n\nd) Tipo D - 4 milhões de euros;\n\ne) Tipo F - 10 milhões de euros."
+  },
+  "8af2a12847ebc39d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas junto da estrutura de apoio técnico do Programa AGRO, em formulário próprio acompanhado de todos os documentos exigidos nas respectivas instruções.\n\n2 - No caso referido no n.º 2 do artigo 6.º, as candidaturas são apresentadas através da sociedade gestora do fundo de investimento, nos termos do número anterior."
+  },
+  "1a49fcffa6e8fabe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\nA análise das candidaturas e a formulação das propostas de decisão competem ao gestor do Programa AGRO, sem prejuízo da faculdade de delegação dessa competência."
+  },
+  "b34bee4aacd9d708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Parecer da unidade de gestão\n\nAs propostas de decisão são submetidas a parecer da unidade de gestão."
+  },
+  "878b7b0c09a4e2ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação dessa competência.\n\n2 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n4 - São, ainda, recusadas as candidaturas que não tenham cobertura orçamental assegurada."
+  },
+  "95995d459bcd0c75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, no prazo máximo de 30 dias a contar da notificação da decisão de aprovação.\n\n2 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas."
+  },
+  "e43bbb4997fe5479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos beneficiários\n\nConstituem, nomeadamente, obrigações dos beneficiários:\n\na) Cumprir o plano de investimentos agro-florestais e o protocolo que venha a ser celebrado ao abrigo do n.º 2 do artigo 8.º;\n\nb) Iniciar, realizar e concluir a execução do projecto nos prazos aprovados;\n\nc) Manter, quando for o caso, as unidades de participação durante, pelo menos, três anos, quando outro prazo não resulte da regulamentação específica aplicável;\n\nd) Manter a posição no capital social da sociedade gestora durante, pelo menos, seis anos, quando forem beneficiárias as entidades referidas na subalínea i) da alínea c) do n.º 1 do artigo 6.º"
+  },
+  "072e644aab681313": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Execução do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluído no prazo estabelecido naquele.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor do Programa AGRO pode autorizar a prorrogação dos prazos referidos no número anterior."
+  },
+  "e68ec351dcaa0606": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos\n\nO pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos."
+  },
+  "654278c200ab0d28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": "2004-06-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+   ],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento as seguintes entidades:\n\na) Projectos dos tipos A e B:\n\ni) Entidades sem fins lucrativos do sector agro-florestal;\n\nii) Empresas públicas, municipais, intermunicipais e de capitais maioritariamente públicos;\n\niii) Municípios e suas associações;\n\niv) Organismos da administração central;\n\nb) Projectos do tipo C:\n\ni) As entidades referidas na alínea anterior;\n\nii) Sociedades gestoras de fundos;\n\nc) Projectos do tipo D:\n\ni) Micro, pequenas e médias empresas do sector agro-florestal ou associações empresariais de qualquer destas categorias de empresas;\n\nii) Organismos da administração central;\n\nd) Projectos do tipo E:\n\ni) Sociedade gestora do Fundo de Contragarantia Mútuo;\n\nii) Outras entidades com particular vocação e experiência na gestão, desenvolvimento e implementação do sistema nacional de garantia mútua;\n\niii) Organismos da administração central;\n\ne) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.\n\n2 - Podem, ainda, beneficiar de ajudas no âmbito de projectos tipo B os proprietários de prédios rústicos ou de prédios urbanos integrados nos prédios mistos em que aqueles se integrem, que permutem esse prédios por unidades de participação do fundo imobiliário.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+  },
+  "a9cbdf6612b80ac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": "2004-06-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\nNo âmbito deste Regulamento, são elegíveis as seguintes despesas:\n\na) Projectos dos tipos A e B:\n\ni) Subscrição de participações no capital social de sociedades gestoras de fundos de investimento;\n\nii) Subscrição de unidades de participação de fundos de investimento;\n\niii) Despesas com comissões às sociedades gestoras de fundos e à entidade reguladora;\n\niv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;\n\nb) Projectos do tipo D - subscrição de participações no capital social de SGM;\n\nc) Projectos dos tipos C e E - despesas imputáveis directamente à elaboração dos estudos e projectos, bem como até ao limite de 10% do total das despesas elegíveis, as despesas gerais e imprevistas associadas à sua concretização, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º [1685/2000](http://data.europa.eu/eli/reg/2000/1685/oj?locale=pt), da Comissão, de 28 de Julho, com a redacção dada pelo Regulamento (CE) n.º [1145/2003](http://data.europa.eu/eli/reg/2003/1145/oj?locale=pt), da Comissão, de 27 de Junho;\n\nd) Projectos do tipo F - montante do reforço.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+  },
+  "ed22d854f1dd928f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Limites das ajudas",
+   "in_force_from": "2004-06-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+   ],
+   "markdown": "###### Artigo 11.º — Limites das ajudas\n\nO valor global das ajudas atribuídas no âmbito desta medida não pode exceder os seguintes valores por projecto:\n\na) Tipo A - 12 milhões de euros;\n\nb) Tipo B - 20 milhões de euros;\n\nc) Tipos C e E - 150 mil euros;\n\nd) Tipo D - 4 milhões de euros;\n\ne) Tipo F - 15 milhões de euros.\n\n> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19."
+  }
+ }
+}

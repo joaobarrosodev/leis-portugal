@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-12-31'
+version_history:
+  file: decreto-legislativo-regional-45-2008-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-31'
+    amending: pt:dre:482141:por
+    amending_title: Decreto Legislativo Regional n.º 32/2009/M
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/45/2008/12/31/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    32/2009/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2008/decreto-legislativo-regional-45-2008-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,7 +395,9 @@ Mantém-se em vigor o disposto no artigo 5.º do [Decreto Legislativo Regional n
 
 ###### Artigo 5.º — Endividamento líquido
 
-Para fazer face às necessidades de financiamento do Orçamento da Região Autónoma da Madeira para 2009, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 50 milhões de euros, resultante dos empréstimos destinados ao financiamento de projectos com comparticipação de fundos comunitários e nos termos definidos na proposta de lei que aprova o Orçamento do Estado para 2009.
+Fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante de 165 milhões de euros, destinado ao financiamento de projectos com comparticipação de fundos comunitários e para fazer face a outras necessidades de financiamento do Orçamento da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 32/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2009-482141), publicado em 2009-12-30.
 
 ###### Artigo 6.º — Condições gerais dos empréstimos
 

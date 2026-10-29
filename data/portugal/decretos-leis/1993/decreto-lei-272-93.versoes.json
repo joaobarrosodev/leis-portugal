@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:369444:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5046fb95cb6bf8da"
+   ]
+  },
+  {
+   "date": "1996-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243918:por",
+     "title": "Lei n.º 34/96",
+     "published": "1996-08-29",
+     "dre_path": "/dr/detalhe/lei/34-1996-243918"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "2663263929e843d3",
+    "ca0bac07c8237dc9",
+    "90b42fa5c150af6f",
+    "cc9c19f04f5ddc9e",
+    "a716756e58861943",
+    "e2dfd3e25517cce7",
+    "75dbd42670337c4a",
+    "0b0fbc82c3e153cb"
+   ]
+  }
+ ],
+ "fragments": {
+  "5046fb95cb6bf8da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Agosto\n\nAs carências sentidas ao nível do sector da habitação justificaram a adopção, pelo Governo, de um importante conjunto de medidas, do qual se salientam o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto e o Programa de Construção de Habitações Económicas.\n\nTrata-se de medidas que se destinam a criar condições especiais de acesso à habitação às camadas economicamente mais desfavorecidas da nossa população, revestindo, por isso mesmo, uma eminente vocação social.\n\nOs programas referidos visam a realização de projectos habitacionais de cariz social, através da disponibilização de solos e de meios financeiros, estes últimos bonificados, de modo a permitir a venda ou arrendamento das habitações a baixos custos.\n\nPressupõem igualmente um firme empenhamento dos municípios, a par e em complemento do enorme esforço desenvolvido pelo Governo no sector, quer na disponibilização de terrenos, quer na interligação das infra-estruturas básicas existentes com as que serão instaladas nas novas áreas a urbanizar.\n\nAtendendo a que os programas mencionados envolvem uma movimentação de recursos, materiais e humanos, nunca entre nós verificada, justifica-se que sejam criadas, complementarmente, as melhores condições administrativas e financeiras para que tais medidas alcancem o êxito.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela [Lei n.º 17/93](https://diariodarepublica.pt/dr/detalhe/lei/17-1993-463613), de 3 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º No âmbito do Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto, aprovado pelo [Decreto-Lei n.º 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, e para efeitos de contabilização da capacidade de endividamento dos municípios, fixada no n.º 6 do artigo 15.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, os empréstimos por estes contraídos somente são tidos em conta por metade do seu valor.\n\nArt. 2.º - 1 - Os loteamentos, as obras de urbanização e de construção civil em terrenos do IGAPHE e os procedimentos administrativos no âmbito do Programa de Construção de Habitações Económicas, aprovado pelo [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, são, para todos os efeitos, equiparados aos promovidos pela administração indirecta do Estado quando esta prossiga fins de interesse público, na área da habitação, nos termos dos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, e respectiva regulamentação, sem prejuízo do disposto nos números seguintes.\n\n2 - Compete ao IGAPHE proceder à emissão das licenças de utilização das habitações construídas, bem como aos demais actos de autorização e aprovação necessários à sua boa execução.\n\nArt. 3.º - 1 - Os prazos para a emissão de pareceres, autorizações ou aprovações a que haja lugar, nos termos dos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, são reduzidos para metade.\n\n2 - Os actos para cuja prática a lei não fixe prazo devem ser praticados até 15 dias.\n\n3 - Os pareceres negativos só podem ser vinculativos se confirmados pelo membro do Governo que tutela o serviço em causa, no prazo máximo de 15 dias.\n\nArt. 4.º - 1 - No âmbito do Programa de Construção de Habitações Económicas, compete ao município em cuja área se insira a construção assegurar a ligação de todas as infra-estruturas existentes às dos empreendimentos a construir.\n\n2 - Para efeitos do disposto no número anterior, as câmaras municipais ficam igualmente obrigadas a fornecer ao IGAPHE todos os elementos técnicos e demais informação necessária à elaboração dos projectos de infra-estruturas do empreendimento a construir.\n\n3 - Para efeitos do n.º 1, o IGAPHE deve comunicar às câmaras municipais a localização dos terrenos, bem como os elementos técnicos necessários para assegurar a respectiva ligação.\n\nArt. 5.º A transmissão de terrenos no âmbito do Programa de Construção de Habitações Económicas, bem como a primeira compra e venda das habitações económicas que neles se construam, ficam isentas do imposto municipal de sisa.\n\nArt. 6.º - 1 - No âmbito do Programa de Construção de Habitações Económicas, o Estado, através do IGAPHE, e os municípios podem, no prazo de 45 dias após a liquidação de sisa para a venda de terreno urbano, proceder à expropriação deste, sendo a indemnização a pagar de montante idêntico ao valor que serviu de base àquela liquidação, acrescido das despesas notariais e registrais que tenham tido lugar.\n\n2 - O adquirente do prédio expropriado tem direito ao reembolso do montante pago a título de imposto municipal de sisa.\n\n3 - A não afectação do terreno expropriado ao programa no prazo de dois anos é fundamento de reversão.\n\n4 - A repartição de finanças que tiver procedido à cobrança do imposto municipal de sisa remete, no prazo de cinco dias, ao IGAPHE e à câmara municipal cópia do documento comprovativo da liquidação do referido imposto.\n\nArt. 7.º A construção de habitações económicas ao abrigo do Programa de Construção de Habitações Económicas é equiparada, para efeitos de IVA, às empreitadas de construção de imóveis no âmbito de contratos de desenvolvimento para habitação (CDH), regulados pelo [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), de 7 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena e Vasconcelos Cruz de Almeida Mota - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Julho de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "2663263929e843d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Agosto\n\nAs carências sentidas ao nível do sector da habitação justificaram a adopção, pelo Governo, de um importante conjunto de medidas, do qual se salientam o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto e o Programa de Construção de Habitações Económicas.\n\nTrata-se de medidas que se destinam a criar condições especiais de acesso à habitação às camadas economicamente mais desfavorecidas da nossa população, revestindo, por isso mesmo, uma eminente vocação social.\n\nOs programas referidos visam a realização de projectos habitacionais de cariz social, através da disponibilização de solos e de meios financeiros, estes últimos bonificados, de modo a permitir a venda ou arrendamento das habitações a baixos custos.\n\nPressupõem igualmente um firme empenhamento dos municípios, a par e em complemento do enorme esforço desenvolvido pelo Governo no sector, quer na disponibilização de terrenos, quer na interligação das infra-estruturas básicas existentes com as que serão instaladas nas novas áreas a urbanizar.\n\nAtendendo a que os programas mencionados envolvem uma movimentação de recursos, materiais e humanos, nunca entre nós verificada, justifica-se que sejam criadas, complementarmente, as melhores condições administrativas e financeiras para que tais medidas alcancem o êxito.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela [Lei n.º 17/93](https://diariodarepublica.pt/dr/detalhe/lei/17-1993-463613), de 3 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ca0bac07c8237dc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1996-09-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 34/96](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), publicado em 1996-08-29."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 34/96](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), publicado em 1996-08-29."
+  },
+  "90b42fa5c150af6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os loteamentos, as obras de urbanização e de construção civil em terrenos do IGAPHE e os procedimentos administrativos no âmbito do Programa de Construção de Habitações Económicas, aprovado pelo [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, são, para todos os efeitos, equiparados aos promovidos pela administração indirecta do Estado quando esta prossiga fins de interesse público, na área da habitação, nos termos dos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, e respectiva regulamentação, sem prejuízo do disposto nos números seguintes.\n\n2 - Compete ao IGAPHE proceder à emissão das licenças de utilização das habitações construídas, bem como aos demais actos de autorização e aprovação necessários à sua boa execução."
+  },
+  "cc9c19f04f5ddc9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os prazos para a emissão de pareceres, autorizações ou aprovações a que haja lugar, nos termos dos Decretos-Leis n.os [445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, e [448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, são reduzidos para metade.\n\n2 - Os actos para cuja prática a lei não fixe prazo devem ser praticados até 15 dias.\n\n3 - Os pareceres negativos só podem ser vinculativos se confirmados pelo membro do Governo que tutela o serviço em causa, no prazo máximo de 15 dias."
+  },
+  "a716756e58861943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - No âmbito do Programa de Construção de Habitações Económicas, compete ao município em cuja área se insira a construção assegurar a ligação de todas as infra-estruturas existentes às dos empreendimentos a construir.\n\n2 - Para efeitos do disposto no número anterior, as câmaras municipais ficam igualmente obrigadas a fornecer ao IGAPHE todos os elementos técnicos e demais informação necessária à elaboração dos projectos de infra-estruturas do empreendimento a construir.\n\n3 - Para efeitos do n.º 1, o IGAPHE deve comunicar às câmaras municipais a localização dos terrenos, bem como os elementos técnicos necessários para assegurar a respectiva ligação."
+  },
+  "e2dfd3e25517cce7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA transmissão de terrenos no âmbito do Programa de Construção de Habitações Económicas, bem como a primeira compra e venda das habitações económicas que neles se construam, ficam isentas do imposto municipal de sisa."
+  },
+  "75dbd42670337c4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - No âmbito do Programa de Construção de Habitações Económicas, o Estado, através do IGAPHE, e os municípios podem, no prazo de 45 dias após a liquidação de sisa para a venda de terreno urbano, proceder à expropriação deste, sendo a indemnização a pagar de montante idêntico ao valor que serviu de base àquela liquidação, acrescido das despesas notariais e registrais que tenham tido lugar.\n\n2 - O adquirente do prédio expropriado tem direito ao reembolso do montante pago a título de imposto municipal de sisa.\n\n3 - A não afectação do terreno expropriado ao programa no prazo de dois anos é fundamento de reversão.\n\n4 - A repartição de finanças que tiver procedido à cobrança do imposto municipal de sisa remete, no prazo de cinco dias, ao IGAPHE e à câmara municipal cópia do documento comprovativo da liquidação do referido imposto."
+  },
+  "0b0fbc82c3e153cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA construção de habitações económicas ao abrigo do Programa de Construção de Habitações Económicas é equiparada, para efeitos de IVA, às empreitadas de construção de imóveis no âmbito de contratos de desenvolvimento para habitação (CDH), regulados pelo [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), de 7 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena e Vasconcelos Cruz de Almeida Mota - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Julho de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492233:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "231ccd408cd62c72",
+    "d090ef0e34d3fbd1",
+    "3aa4c31ce1a70c28"
+   ]
+  },
+  {
+   "date": "2009-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491388:por",
+     "title": "Portaria n.º 1174/2009",
+     "published": "2009-10-06",
+     "dre_path": "/dr/detalhe/portaria/1174-2009-491388"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "231ccd408cd62c72",
+    "81902516633283af",
+    "3aa4c31ce1a70c28"
+   ]
+  }
+ ],
+ "fragments": {
+  "231ccd408cd62c72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nO contrato colectivo de trabalho entre a GROQUIFAR - Associação de Grossistas de Produtos Químicos e Farmacêuticos e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outro, publicado no Boletim do Trabalho e Emprego, n.º 30, de 15 de Agosto de 2008, abrange as relações de trabalho na actividade de comércio grossista de produtos farmacêuticos e ou veterinários entre empregadores e trabalhadores representados pelas associações que o outorgaram.\n\nAs associações subscritoras requereram a extensão da convenção às relações de trabalho entre empregadores não representados pela associação de empregadores outorgante que na área da sua aplicação se dediquem à mesma actividade e aos trabalhadores ao seu serviço.\n\nA convenção é uma revisão global do contrato colectivo anterior e actualiza a tabela salarial. Não foi possível elaborar o estudo de avaliação do impacte da extensão por o apuramento dos quadros de pessoal de 2006 incluir as convenções para a indústria farmacêutica.\n\nA convenção actualiza, ainda, outras cláusulas de conteúdo pecuniário, como o abono para falhas, em 5,2 %, as diuturnidades, em 100 %, para um período de quatro anos, e o subsídio de refeição em 5,9 %. Não se dispõe de dados estatísticos que permitam avaliar o impacte destas prestações. Considerando a finalidade da extensão e que as mesmas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.\n\nAs retribuições dos grupos xi e xii da tabela salarial em vigor são inferiores à retribuição mínima mensal garantida para 2009. No entanto, a retribuição mínima mensal garantida pode ser objecto de reduções relacionadas com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho. Deste modo, as referidas retribuições apenas são objecto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquelas.\n\nNa área da convenção existem outras convenções, celebradas entre a NORQUIFAR - Associação do Norte dos Importadores/Armazenistas de Produtos Químicos e Farmacêuticos e diversas associações sindicais, também aplicáveis neste sector de actividade, pelo que é conveniente assegurar, na medida do possível, a uniformização do estatuto laboral em cada empresa. Assim, a presente extensão, seguindo os termos das extensões anteriores e que não suscitaram oposição, abrange as relações de trabalho entre empregadores não filiados na associação de empregadores outorgante nem na NORQUIFAR, que exerçam a actividade de comércio por grosso de produtos farmacêuticos, apenas nos distritos de Beja, Castelo Branco, Évora, Faro, Leiria, Lisboa, Portalegre, Santarém e Setúbal, e, no território do continente, as relações de trabalho entre empregadores filiados na associação de empregadores outorgante e os trabalhadores ao seu serviço não representados pelas associações sindicais subscritoras.\n\nAtendendo a que a convenção regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas contrárias a normas legais imperativas.\n\nCom vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido, a extensão assegura retroactividades idênticas às da convenção. No entanto, as compensações das despesas de deslocação previstas no n.º 6 da cláusula 28.ª «Deslocações em serviço» e no n.º 1 da cláusula 29.ª «Viagem em serviço» não são objecto de retroactividade, uma vez que se destinam a compensar despesas já feitas para assegurar a prestação de trabalho.\n\nA extensão da convenção tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.\n\nEmbora a convenção tenha área nacional, a extensão das convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a presente extensão apenas é aplicável no território do continente.\n\nFoi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 14, de 15 de Abril de 2009, ao qual não foi deduzida oposição por parte dos interessados.\n\nAssim:\n\nManda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, o seguinte:"
+  },
+  "d090ef0e34d3fbd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - As condições de trabalho constantes do contrato colectivo de trabalho entre a GROQUIFAR - Associação de Grossistas de Produtos Químicos e Farmacêuticos e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outro, publicado no Boletim do Trabalho e Emprego n.º 30, de 15 de Agosto de 2008, são estendidas:\n\na) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que nos distritos de Beja, Castelo Branco, Évora, Faro, Leiria, Lisboa, Portalegre, Santarém e Setúbal exerçam a actividade de comércio por grosso de produtos farmacêuticos e ou veterinários e trabalhadores ao seu serviço, das profissões e categorias profissionais nele previstas;\n\nb) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que no território do continente exerçam a actividade económica referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes.\n\n2 - A presente extensão não se aplica às relações de trabalho em que sejam parte empregadores filiados na NORQUIFAR - Associação do Norte dos Importadores/Armazenistas de Produtos Químicos e Farmacêuticos.\n\n3 - As retribuições da tabela salarial em vigor inferiores à retribuição mínima mensal garantida para o ano de 2009 apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante de redução relacionada com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho.\n\n4 - Não são objecto de extensão as disposições contrárias a normas legais imperativas."
+  },
+  "3aa4c31ce1a70c28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.\n\n2 - As tabelas salariais e os valores das cláusulas de conteúdo pecuniário produzem efeitos, no âmbito da presente extensão, às datas previstas na convenção, ou seja, 1 de Outubro de 2007 e 16 de Agosto de 2008; as cláusulas de conteúdo pecuniário, à excepção do n.º 6 da cláusula 28.ª e do n.º 1 dacláusula 29.ª, produzem efeitos desde 1 de Março de 2008.\n\n3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.\n\nO Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 25 de Junho de 2009."
+  },
+  "81902516633283af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2009-10-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2009-491388), publicado em 2009-10-06."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As condições de trabalho constantes do contrato colectivo de trabalho entre a GROQUIFAR - Associação de Grossistas de Produtos Químicos e Farmacêuticos e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e outro, publicado no Boletim do Trabalho e Emprego n.º 30, de 15 de Agosto de 2008, são estendidas:\n\na) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que nos distritos de Beja, Castelo Branco, Évora, Faro, Leiria, Lisboa, Portalegre, Santarém e Setúbal exerçam a actividade de comércio por grosso de produtos farmacêuticos e ou veterinários e trabalhadores ao seu serviço, das profissões e categorias profissionais nele previstas;\n\nb) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que no território do continente exerçam a actividade económica referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes.\n\n2 - A presente extensão não se aplica às relações de trabalho em que sejam parte empregadores filiados na NORQUIFAR - Associação do Norte dos Importadores/Armazenistas de Produtos Químicos e Farmacêuticos, nem aos trabalhadores filiados em sindicatos representados pela FIEQUIMETAL - Federação Intersindical das Indústrias Metalúrgica, Química, Farmacêutica, Eléctrica, Energia e Minas.\n\n3 - As retribuições da tabela salarial em vigor inferiores à retribuição mínima mensal garantida para o ano de 2009 apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante de redução relacionada com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho.\n\n4 - Não são objecto de extensão as disposições contrárias a normas legais imperativas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2009-491388), publicado em 2009-10-06."
+  }
+ }
+}

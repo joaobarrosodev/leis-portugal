@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-25'
+version_history:
+  file: decreto-lei-187-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-25'
+    amending: pt:dre:670027:por
+    amending_title: Decreto-Lei n.º 79/2011
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/187/2004/08/07/p/dre/pt/html
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:44:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 79/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-187-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -264,13 +281,17 @@ d) Ser acompanhado durante o transporte para o país de destino de um certificad
 
 ###### Artigo 6.º — Centros de colheita e armazenagem
 
-1 - A aprovação prevista na alínea a) do artigo 4.º é concedida pelo director-geral de Veterinária se forem respeitadas as disposições do anexo A e se o centro de colheita de sémen ou de armazenagem estiver em condições de respeitar as restantes disposições do presente diploma.
+1 - O exercício da actividade pelos centros de colheitas de sémen depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.
 
-2 - O veterinário oficial deve controlar a observância das disposições do presente diploma, informando de imediato a DGV em caso de desrespeito de alguma das disposições.
+2 - A aprovação prevista no número anterior só é concedida se o centro de colheita de sémen respeitar as condições previstas no presente decreto-lei e no Decreto-Lei n.º 214/2008, de 10 de Novembro, bem como as condições previstas no anexo A ao presente diploma.
 
-3 - Aos centros de colheita de sémen ou de armazenagem autorizados é atribuído um número de registo veterinário.
+3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixe de ser cumprida alguma das condições legalmente exigidas.
 
-4 - Em caso de desrespeito das disposições do presente diploma, o director-geral de Veterinária determina as medidas necessárias, designadamente o cancelamento ou a suspensão da aprovação.
+4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos centros de colheita de sémen.
+
+5 - Aos centros de colheita de sémen é atribuído um número de registo veterinário e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 7.º — Certificado
 
@@ -326,25 +347,19 @@ f) Às garantias que o país terceiro pode dar no que se refere ao cumprimento d
 
 ###### Artigo 11.º — Centros de colheita e armazenagem de países terceiros
 
-1 - As listas dos centros de colheita e de armazenagem de sémen a partir dos quais os Estados membros autorizam a importação de sémen originário de países terceiros são estabelecidas e actualizadas em conformidade com o presente artigo.
+Só é autorizada a importação de sémen proveniente de centros de colheita ou armazenagem de sémen situados num dos países terceiros constantes da lista referida no artigo anterior, quando a autoridade competente do país terceiro garanta que esses centros de colheita ou de armazenagem de sémen satisfazem as seguintes condições:
 
-2 - Um estabelecimento só pode figurar nessa lista se a autoridade competente do país terceiro de origem garantir que foram respeitadas as condições referidas no n.º 4 e nas alíneas b) a e) do n.º 5.
+a) Cumprimento das condições de aprovação estabelecidas no capítulo i do anexo A ao presente diploma;
 
-3 - As autoridades competentes dos países terceiros que figuram nas listas estabelecidas e actualizadas em conformidade com o artigo 10.º garantem que as listas dos centros de colheita e armazenagem de sémen a partir dos quais se pode encaminhar sémen para a Comunidade foram estabelecidas, actualizadas e comunicadas à Comissão.
+b) Cumprimento das condições de fiscalização previstas no capítulo ii do anexo A ao presente diploma;
 
-4 - Para decidir se um centro de colheita e de armazenagem de sémen situado num país terceiro pode figurar na lista referida no número anterior, devem ter-se em conta o controlo veterinário exercido no país terceiro, no que respeita às modalidades de produção de sémen, os poderes de que os serviços veterinários dispõem e a vigilância a que são submetidos os centros de colheita de sémen.
+c) Tenham sido aprovados pelas autoridades competentes dos países terceiros para a Comunidade;
 
-5 - Um centro de colheita e de armazenagem de sémen só pode ser inscrito na lista prevista no n.º 1 quando cumpra as seguintes condições:
+d) Sejam colocados sob a fiscalização de um veterinário do centro;
 
-a) Esteja situado num país que conste da lista a que se refere o n.º 1 do artigo 10.º;
+e) Sejam inspeccionados, pelo menos, duas vezes por ano por veterinários oficiais do país terceiro.
 
-b) Satisfaça as exigências dos capítulos I e II do anexo A;
-
-c) Tenha sido oficialmente autorizado a exportar para a União Europeia pelos serviços veterinários do país terceiro em causa;
-
-d) Esteja sob vigilância de um veterinário de centro do país terceiro em causa;
-
-e) Seja regularmente inspeccionado pelo menos duas vezes por ano por um veterinário do país terceiro em causa.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 12.º — Condições do sémen
 
@@ -382,7 +397,9 @@ c) Ser previsto para um único destinatário.
 
 ###### Artigo 14.º — Controlos veterinários
 
-As normas previstas no Decreto-Lei n.º 210/2000, de 2 de Setembro, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros, aplicam-se em especial à organização e ao acompanhamento dos controlos a efectuar e às medidas de salvaguarda a aplicar.
+As normas estabelecidas no Decreto-Lei n.º 210/2000, de 2 de Setembro, alterado pelo Decreto-Lei n.º 236/2007, de 19 de Junho, aplicam-se à organização e à sequência a dar aos controlos a efectuar, assim como às medidas de salvaguarda a aplicar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ### CAPÍTULO IV — Disposições transitórias
 

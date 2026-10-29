@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-11-30'
+version_history:
+  file: decreto-lei-44360.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-11-30'
+    amending: pt:dre:432795:por
+    amending_title: Decreto-Lei n.º 45398
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:40:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45398. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44360.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,31 +134,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º De harmonia com o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958, é autorizado o Ministro das Finanças a negociar com um grupo de bancos americanos um empréstimo externo, amortizável, até ao montante de 20000000 de dólares.
+###### Artigo 1.º
 
-Art. 2.º Este empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por 27 promissórias de valores nominais variáveis, conforme for fixado no respectivo contrato, ficando desde já autorizada a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente.
+De harmonia com o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958, é autorizado o Ministro das Finanças a negociar com um grupo de bancos americanos um empréstimo externo, amortizável, até ao montante de 20000000 de dólares.
 
-Art. 3.º O juro das promissórias será de 5 1/2 por cento ao ano, pagável aos semestres, vencendo-se o primeiro juro seis meses após a data da entrega das promissórias aos mutuantes.
+###### Artigo 2.º
 
-Art. 4.º As 27 promissórias serão amortizadas ao par pela forma abaixo indicada, a partir da data da sua entrega aos mutuantes:
+Este empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por 27 promissórias de valores nominais variáveis, conforme for fixado no respectivo contrato, ficando desde já autorizada a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente.
 
-$ 6660000, dois anos depois.
+###### Artigo 3.º
 
-$ 6670000, três anos depois.
+O juro das promissórias será de 5 1/2 por cento ao ano, pagável aos semestres, vencendo-se o primeiro juro seis meses após a data da entrega das promissórias aos mutuantes.
 
-$ 6670000, quatro anos depois.
+###### Artigo 4.º
 
-§ único. O Ministro das Finanças, se o julgar conveniente, pode proceder à amortização antecipada, total ou parcial, dos montantes em dívida.
+(Revogado.)
 
-Art. 5.º As promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, salvo o da sua colocação no mercado interno de capitais.
+> Revogado pelo/a [Decreto-Lei n.º 45398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45398-1963-432795), publicado em 1963-11-30.
+
+###### Artigo 5.º
+
+As promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, salvo o da sua colocação no mercado interno de capitais.
 
 Estarão também isentas do imposto sobre as sucessões e doações.
 
-Art. 6.º Fica o Ministro das Finanças autorizado a realizar com os bancos americanos o contrato de empréstimo a que alude este diploma e a emitir as promissórias representativas do mesmo, prestando as entidades competentes as necessárias garantias de conformidade.
+###### Artigo 6.º
+
+Fica o Ministro das Finanças autorizado a realizar com os bancos americanos o contrato de empréstimo a que alude este diploma e a emitir as promissórias representativas do mesmo, prestando as entidades competentes as necessárias garantias de conformidade.
 
 As promissórias conterão as assinaturas das entidades indicadas no contrato.
 
-Art. 7.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 5 3/4 por cento.
+###### Artigo 7.º
+
+No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 5 3/4 por cento.
 
 § único. As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e forem autorizados, serão pagas por força das dotações orçamentais do Ministério das Finanças para o corrente ano económico inscritas no capítulo 1.º, artigo 11.º, n.º 1).
 

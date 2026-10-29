@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-119-a-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:669513:por
+    amending_title: Decreto-Lei n.º 90/2011
+    changes:
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/119-a/1999/04/14/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:05:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-119-a-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -375,7 +390,9 @@ Sem prejuízo do disposto nos artigos 10.º e 11.º, para a realização da oper
 
 7 - Mantém-se em vigor o disposto no n.º 3 do artigo 19.º do [Decreto-Lei n.º 44/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1995-188691), de 22 de Fevereiro.
 
-8 - A PARTEST - Participações do Estado, SGPS, S. A., é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.
+8 - (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
 ###### Artigo 16.º — Depositários de ADR ou GDR e exercício de direitos de voto
 

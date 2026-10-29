@@ -1,0 +1,361 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668079:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-09-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ce0540af177598ce",
+    "49d05f2a577ab23f",
+    "5941a7e8bc4e1fe6",
+    "e283ab5f30a629b7",
+    "d819b441e096f175",
+    "9a4a41d8d3799709",
+    "f2aa3b0717c96c54",
+    "c545fe8484938228",
+    "68207136a0a327b8",
+    "6e73b0c2b688806b",
+    "02e98266af0c049b",
+    "24ef16f4fc6536b9",
+    "6fd17cfde41df480",
+    "83ee79241867e046",
+    "afb242d6d63d1168",
+    "aabd7c8a8d6a3dc7",
+    "c6f4c2ad23ee2b4d",
+    "2cb09cff9d7407e5",
+    "5277924d05d0b1d8",
+    "effc9ba18477fa0f",
+    "7a74e654f23eb291"
+   ]
+  },
+  {
+   "date": "2006-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621722:por",
+     "title": "Decreto Regulamentar Regional n.º 42/2000/M",
+     "published": "2000-11-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/42-2000-621722"
+    },
+    {
+     "id": "pt:dre:353757:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2006/M",
+     "published": "2006-06-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2006-353757"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "ce0540af177598ce",
+    "49d05f2a577ab23f",
+    "a04c5e096941ca54",
+    "e283ab5f30a629b7",
+    "737f2c7031e9b8ff",
+    "227d1225356d5683",
+    "25801db090585948",
+    "c545fe8484938228",
+    "68207136a0a327b8",
+    "b89a32313cf40f18",
+    "02e98266af0c049b",
+    "24ef16f4fc6536b9",
+    "54717eede5f9a416",
+    "0ef0f22ea0107a23",
+    "afb242d6d63d1168",
+    "997bd0a8323b8801",
+    "6f106c918d7442b0",
+    "2cb09cff9d7407e5",
+    "e3e8a41b60eda841",
+    "effc9ba18477fa0f",
+    "7a74e654f23eb291"
+   ]
+  }
+ ],
+ "fragments": {
+  "ce0540af177598ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria o cartão de identificação do utente dos serviços de saúde na Região Autónoma da Madeira\n\nConsiderando que o [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho, na redacção dada pelo [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), de 27 de Fevereiro, criou o cartão de identificação do utente do Serviço Nacional de Saúde;\n\nConsiderando que aquele diploma assenta na estrutura organizativa dos serviços de saúde nacionais, não contemplando no seu âmbito os serviços de saúde das Regiões Autónomas;\n\nConsiderando que é de importância crucial para a Região Autónoma da Madeira a consagração de dispositivo normativo idêntico, para a criação de um cartão de identificação do utente do Serviço Regional de Saúde, sem descurar a necessária e desejável harmonização normativa, por razões de eficácia do sistema no todo nacional;\n\nConsiderando, assim, a necessidade de observar o disposto no [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho, relativamente à necessidade de harmonização de procedimentos:\n\nAssim, nos termos do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, e na alínea c) do n.º 1 do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e no artigo 227.º, n.º 1, alínea c), da Constituição, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "49d05f2a577ab23f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o cartão de identificação do utente do Serviço Regional de Saúde, adiante designado por cartão de identificação do utente."
+  },
+  "5941a7e8bc4e1fe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente constitui um meio facultativo, com natureza substitutiva, de comprovação da identidade do seu titular perante as instituições e serviços integrados no Serviço Regional de Saúde e as entidades privadas com actividade na área da saúde.\n\n2 - O cartão de identificação do utente é de emissão gratuita e substitui, para os efeitos referidos no número anterior, qualquer outro cartão ou documento de identificação do seu titular."
+  },
+  "e283ab5f30a629b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Apresentação do cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apresentação do cartão\n\n1 - O cartão de identificação do utente é apresentado para os seguintes efeitos:\n\na) Prestação de cuidados de saúde;\n\nb) Requisição e acesso a consultas e meios auxiliares de diagnóstico e terapêutica;\n\nc) Prescrição e aquisição de medicamentos.\n\n2 - Não há lugar à apresentação do cartão quando se trate de:\n\na) Crianças recém-nascidas, até ao fim do prazo legal para efectivação dos respectivos registos;\n\nb) Migrantes abrangidos por acordos ou por convenções internacionais.\n\n3 - Não há ainda lugar à apresentação de cartão quando se trate de actos médico-sanitários prestados no âmbito de acções de saúde pública ou decorrentes de imposição legal."
+  },
+  "d819b441e096f175": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - O cartão de identificação do utente é emitido pela Direcção Regional de Saúde Pública.\n\n2 - As dimensões e modelo do cartão de identificação do utente são fixados por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional."
+  },
+  "9a4a41d8d3799709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Formulário de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formulário de identificação\n\n1 - Para efeitos de emissão do cartão de identificação do utente, os serviços a que se refere o n.º 1 do artigo 2.º devem solicitar ao interessado o preenchimento de um formulário de identificação do utente do Serviço Regional de Saúde.\n\n2 - Para recepção do formulário de identificação pelos serviços referidos no número anterior é exigida a apresentação de documento oficial de identificação do titular e de indicação do local da sua residência, bem como, se for caso disso, de:\n\na) Documento comprovativo da sua qualidade de beneficiário de subsistema ou, no caso de titulares de seguros, a respectiva apólice;\n\nb) Documento comprovativo do seu direito ao regime especial de comparticipação de medicamentos.\n\n3 - O preenchimento do formulário de identificação pode ser informatizado ou manual, sem prejuízo da observância das regras relativas ao modelo e instruções de preenchimento que forem aprovadas por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional.\n\n4 - Os serviços referidos no n.º 1 do artigo 2.º devem facultar ao utente uma cópia autenticada do formulário de identificação, devidamente preenchido, para efeitos de comprovação da sua situação perante o Serviço Regional de Saúde, até à data de atribuição do respectivo cartão de identificação do utente."
+  },
+  "f2aa3b0717c96c54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de identificação\n\n1 - O cartão de identificação do utente deve incluir o número de identificação do respectivo titular perante o Serviço Regional de Saúde.\n\n2 - Na atribuição do número de identificação do utente é utilizada uma faixa numérica sequencial, constituída por nove dígitos, sendo o primeiro o identificador da Região Autónoma da Madeira, os sete seguintes o número individual do utente e o último o dígito de controlo, nos termos definidos por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, observados os requisitos em vigor a nível nacional.\n\n3 - O número de identificação do utente do Serviço Regional de Saúde deve constar, obrigatoriamente, dos documentos comprovativos da facturação emitida no âmbito das prestações nas alíneas a) a c) do n.º 1 do artigo 3.º"
+  },
+  "c545fe8484938228": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Identificação de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação de terceiros\n\nSempre que a prestação de cuidados e de serviços de saúde ao utente do Serviço Regional de Saúde estiver abrangida por contratos, convenções, protocolos ou acordos celebrados no âmbito do Estatuto do Serviço Regional de Saúde, do seu cartão de identificação consta:\n\na) O número de beneficiário ou de aderente;\n\nb) A identificação das entidades responsáveis pelos encargos decorrentes;\n\nc) A indicação do termo de duração da responsabilidade pelos encargos."
+  },
+  "68207136a0a327b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime especial de comparticipação de medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime especial de comparticipação de medicamentos\n\nSempre que o utente do Serviço Regional de Saúde esteja numa das situações previstas no n.º 1 do artigo 3.º do [Decreto-Lei n.º 118/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1992-302737), de 25 de Junho, do seu cartão de identificação consta a titularidade do direito ao regime especial de comparticipação de medicamentos, bem como o respectivo termo."
+  },
+  "6e73b0c2b688806b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alteração de elementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração de elementos\n\n1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Regional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.\n\n2 - A transferência do utente de e ou para a Região Autónoma da Madeira implica a emissão de novo cartão de identificação do utente pelos serviços competentes e a anulação do cartão anterior.\n\n3 - O processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão."
+  },
+  "02e98266af0c049b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Extravio, deterioração ou destruição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Extravio, deterioração ou destruição\n\n1 - Em caso de extravio, destruição ou deterioração, é emitida uma segunda via do cartão de identificação do utente, a pedido do seu titular.\n\n2 - Ao processo de emissão de segunda via do cartão de identificação do utente aplica-se, com as necessárias adaptações, o disposto nos artigos anteriores.\n\n3 - Os encargos decorrentes da emissão de segunda via do cartão de identificação do utente são suportados pelo respectivo titular."
+  },
+  "24ef16f4fc6536b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Celebração de contratos, convenções, protocolos ou acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Celebração de contratos, convenções, protocolos ou acordos\n\nNos contratos, convenções, protocolos ou acordos celebrados ao abrigo e no âmbito do Estatuto do Serviço Regional de Saúde, designadamente para os efeitos das alíneas a) a c) do n.º 1 do artigo 3.º, deve ser prevista a apresentação do cartão de identificação do utente."
+  },
+  "6fd17cfde41df480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Base de dados\n\n1 - Para efeitos de emissão do cartão de identificação do utente, é constituída uma base de dados para a Região Autónoma da Madeira que reúna, relativamente aos respectivos titulares, a seguinte informação:\n\na) Número de identificação;\n\nb) Nome;\n\nc) Nacionalidade e naturalidade;\n\nd) Sexo;\n\ne) Data de nascimento;\n\nf) Morada e telefone;\n\ng) Situação e identificação do utente, para efeitos do disposto nos artigos 7.º a 8.º do presente diploma;\n\nh) Qualidade de dador benévolo de sangue;\n\ni) Número de inscrição do utente no centro de saúde;\n\nj) Número da cédula profissional do médico de clínica geral.\n\n2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes da Direcção Regional de Saúde Pública, que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente."
+  },
+  "83ee79241867e046": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Consulta de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Consulta de dados\n\n1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de cuidados de saúde integrados no Serviço Regional de Saúde, nos termos do Estatuto do Serviço Regional de Saúde, aprovado pelo [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro.\n\n2 - A comunicação de dados prevista no número anterior é efectuada em suporte informático ou através de linha de transmissão, devendo, em qualquer caso, ser garantido o respeito pelas normas de segurança da informação."
+  },
+  "afb242d6d63d1168": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conservação dos dados\n\nOs dados constantes das bases de dados são conservados apenas durante o período estritamente necessário para os fins a que se destinam, sem prejuízo da respectiva destruição, em qualquer caso, com o falecimento do respectivo titular."
+  },
+  "aabd7c8a8d6a3dc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acesso à informação\n\n1 - Qualquer pessoa tem direito a conhecer o conteúdo ou registos constantes da base de dados que lhe digam respeito.\n\n2 - Sem prejuízo das condições que sejam fixadas nos termos da alínea f) do n.º 1 do artigo 8.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, a reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos e abreviaturas deles constantes, é fornecida gratuitamente, a solicitação dos respectivos titulares ou seus representantes legais.\n\n3 - A informação é requerida à entidade responsável pela base de dados ou às instituições e serviços a quem esses dados tenham sido comunicados, nos termos do artigo 13.º"
+  },
+  "c6f4c2ad23ee2b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Correcção de inexactidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Correcção de inexactidões\n\nQualquer pessoa tem o direito de exigir a correcção de inexactidões e o completamento das total ou parcialmente registadas, nos termos dos artigos 30.º e 31.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, mediante requerimento apresentado à Direcção Regional de Saúde Pública."
+  },
+  "2cb09cff9d7407e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Segurança da informação\n\nSão objecto de controlo, tendo em vista a segurança da informação:\n\na) A entrada nas instalações utilizadas para o tratamento de dados pessoais, a fim de impedir o acesso de qualquer pessoa não autorizada;\n\nb) Os suportes de dados, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;\n\nc) A inserção de dados, para impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizadas na base de dados;\n\nd) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;\n\ne) O acesso aos dados, para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;\n\nf) A transmissão de dados, para garantir que a sua utilização seja limitada às entidades autorizadas;\n\ng) O transporte de suportes de dados, para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada."
+  },
+  "5277924d05d0b1d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Responsabilidade pelas bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Responsabilidade pelas bases de dados\n\n1 - A Direcção Regional de Saúde Pública é, nos termos e para os efeitos do disposto na alínea h) do artigo 2.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, responsável pela base de dados existente na Região Autónoma da Madeira, nomeadamente pelo seu processamento, gestão e segurança.\n\n2 - Cabe à Direcção Regional de Saúde Pública assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como a correcção de inexactidões, competindo, ainda, velar para que a consulta da informação respeite as condições prescritas na lei."
+  },
+  "effc9ba18477fa0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sigilo profissional\n\nAquele que, no exercício das suas funções, tome conhecimento da informação constante das bases de dados previstas no presente diploma fica obrigado a sigilo profissional, nos termos do artigo 32.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril."
+  },
+  "7a74e654f23eb291": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Legislação subsidiária\n\nEm tudo o mais rege o [Decreto-Lei n.º 198/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1995-484575), de 29 de Julho, e demais legislação em vigor a nível nacional.\n\nAprovado em Conselho do Governo Regional de 8 de Julho de 1999.\n\nPelo Presidente do Governo Regional, em exercício, José Paulo Baptista Fontes.\n\nAssinado em 13 de Setembro de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "a04c5e096941ca54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente deve ser apresentado sempre que os utentes utilizem os serviços das instituições e serviços integrados no Serviço Regional de Saúde, E. P. E., ou com ele convencionado.\n\n2 - Quando o Serviço Regional de Saúde, E. P. E., tenha contratado a transferência de responsabilidade pela prestação de cuidados de saúde para subsistemas de saúde, os respectivos beneficiários deverão apenas apresentar o cartão do seu subsistema.\n\n3 - A não identificação dos utentes nos termos dos números anteriores não pode, em caso algum, determinar a recusa de prestações de saúde.\n\n4 - Aos utentes não é cobrada, com excepção das taxas moderadoras, quando devidas, qualquer importância relativa às prestações de saúde quando devidamente identificados nos termos deste diploma ou desde que façam prova, nos 10 dias seguintes à interpelação para pagamento dos encargos com os cuidados de saúde prestados, de que são titulares ou requereram a emissão do cartão de identificação de utente do Serviço Regional de Saúde, E. P. E.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "737f2c7031e9b8ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - O cartão de identificação do utente é emitido pelo Serviço Regional de Saúde, E. P. E.\n\n2 - As dimensões e o modelo do cartão de identificação do utente são fixados por despacho do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "227d1225356d5683": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Formulário de identificação",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 5.º — Formulário de identificação\n\n1 - Para efeitos de emissão do cartão de identificação do utente, os serviços a que se refere o n.º 1 do artigo 2.º devem solicitar ao interessado o preenchimento de um formulário de identificação do utente do Serviço Regional de Saúde.\n\n2 - Para recepção do formulário de identificação pelos serviços referidos no número anterior é exigida a apresentação de documento oficial de identificação do titular e de indicação do local da sua residência, bem como, se for caso disso, de:\n\na) Documento comprovativo da sua qualidade de beneficiário de subsistema ou, no caso de titulares de seguros, a respectiva apólice;\n\nb) Documento comprovativo do seu direito ao regime especial de comparticipação de medicamentos.\n\n3 - O preenchimento do formulário de identificação pode ser informatizado ou manual, sem prejuízo da observância das regras relativas ao modelo e instruções de preenchimento que forem aprovadas por portaria do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.\n\n4 - Os serviços referidos no n.º 1 do artigo 2.º devem facultar ao utente uma cópia autenticada do formulário de identificação, devidamente preenchido, para efeitos de comprovação da sua situação perante o Serviço Regional de Saúde, até à data de atribuição do respectivo cartão de identificação do utente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "25801db090585948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número de identificação",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 6.º — Número de identificação\n\n1 - O cartão de identificação do utente deve incluir o número de identificação do respectivo titular perante o Serviço Regional de Saúde.\n\n2 - Na atribuição do número de identificação do utente é utilizada uma faixa numérica sequencial, constituída por nove dígitos, sendo o primeiro o identificador da Região Autónoma da Madeira, os sete seguintes o número individual do utente e o último o dígito de controlo, nos termos definidos por portaria do Secretário Regional dos Assuntos Sociais, observados os requisitos em vigor a nível nacional.\n\n3 - O número de identificação do utente do Serviço Regional de Saúde deve constar, obrigatoriamente, dos documentos comprovativos da facturação emitida no âmbito das prestações nas alíneas a) a c) do n.º 1 do artigo 3.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "b89a32313cf40f18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alteração de elementos",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 42/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-2000-621722), publicado em 2000-11-02."
+   ],
+   "markdown": "###### Artigo 9.º — Alteração de elementos\n\n1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Regional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.\n\n2 - A transferência do utente de e ou para a Região Autónoma da Madeira implica a emissão de novo cartão, mantendo-se o número de identificação do utente atribuído na emissão anterior.\n\n3 - Sem prejuízo do disposto no número anterior, o processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 42/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-2000-621722), publicado em 2000-11-02."
+  },
+  "54717eede5f9a416": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Base de dados",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 12.º — Base de dados\n\n1 - Para efeitos de emissão do cartão de identificação do utente, é constituída uma base de dados para a Região Autónoma da Madeira que reúna, relativamente aos respectivos titulares, a seguinte informação:\n\na) Número de identificação;\n\nb) Nome;\n\nc) Nacionalidade e naturalidade;\n\nd) Sexo;\n\ne) Data de nascimento;\n\nf) Morada e telefone;\n\ng) Situação e identificação do utente, para efeitos do disposto nos artigos 7.º a 8.º do presente diploma;\n\nh) Qualidade de dador benévolo de sangue;\n\ni) Número de inscrição do utente no centro de saúde;\n\nj) Número da cédula profissional do médico de clínica geral.\n\n2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes do Serviço Regional de Saúde, E. P. E., que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "0ef0f22ea0107a23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Consulta de dados",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 13.º — Consulta de dados\n\n1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de saúde integrados no Serviço Regional de Saúde, E. P. E., nos termos do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de Abril.\n\n2 - A comunicação de dados prevista no número anterior é efectuada em suporte informático ou através de linha de transmissão, devendo, em qualquer caso, ser garantido o respeito pelas normas de segurança da informação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "997bd0a8323b8801": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acesso à informação",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 15.º — Acesso à informação\n\n1 - Qualquer pessoa tem direito a conhecer o conteúdo ou registos constantes da base de dados que lhe digam respeito.\n\n2 - Sem prejuízo das condições de exercício dos direitos previstos na alínea g) do n.º 1 do artigo 23.º da Lei n.º 67/98, de 26 de Outubro, a reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos e abreviaturas deles constantes, é fornecida gratuitamente, a solicitação dos respectivos titulares ou seus representantes legais.\n\n3 - A informação é requerida à entidade responsável pela base de dados ou às instituições e serviços a quem esses dados tenham sido comunicados, nos termos do artigo 13.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "6f106c918d7442b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Correcção de inexactidões",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 16.º — Correcção de inexactidões\n\nQualquer pessoa tem o direito de exigir a correcção de inexactidões e o complemento das total ou parcialmente registadas, nos termos das alíneas d) e e) do artigo 11.º da Lei n.º 67/98, de 26 de Outubro, mediante requerimento apresentado ao Serviço Regional de Saúde, E. P. E.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  },
+  "e3e8a41b60eda841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Responsabilidade pelas bases de dados",
+   "in_force_from": "2006-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+   ],
+   "markdown": "###### Artigo 18.º — Responsabilidade pelas bases de dados\n\n1 - O Serviço Regional de Saúde, E. P. E., é, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, responsável pela base de dados existente na Região Autónoma da Madeira, nomeadamente pelo seu processamento, gestão e segurança.\n\n2 - Cabe ao Serviço Regional de Saúde, E. P. E., assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como a correcção de inexactidões, competindo-lhe, ainda, velar para que a consulta da informação respeite as condições prescritas na lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 4/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-353757), publicado em 2006-06-01."
+  }
+ }
+}

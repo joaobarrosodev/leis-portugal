@@ -1,0 +1,250 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666767:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60185d8e99d6d8be",
+    "320bd9d44b78b950",
+    "bc426e8edd36c19d",
+    "2c7627eb47593a28",
+    "62ada78527bb1483",
+    "08066fbad6bbb499",
+    "6507b044ef629ff5",
+    "b3c38526e7a2dc31",
+    "b495211c8bad6291",
+    "4495764cbd0df9ce",
+    "61518a478f2d3c6e",
+    "0933d6c94382ccee",
+    "4388b6b1452e9e17",
+    "cd968009badfdf73",
+    "282f9bd3a863fd62",
+    "8467f2052e536d04"
+   ]
+  },
+  {
+   "date": "2009-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490431:por",
+     "title": "Decreto-Lei n.º 250/2009",
+     "published": "2009-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/250-2009-490431"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "60185d8e99d6d8be",
+    "320bd9d44b78b950",
+    "bc426e8edd36c19d",
+    "2c7627eb47593a28",
+    "8b3299e0086b8869",
+    "5a9d8f786a429e43",
+    "8927afda0833ee5b",
+    "fadeaf8eb3ccbf4c",
+    "b495211c8bad6291",
+    "4495764cbd0df9ce",
+    "61518a478f2d3c6e",
+    "0933d6c94382ccee",
+    "4388b6b1452e9e17",
+    "cd968009badfdf73",
+    "b9aaae786e08a22d",
+    "8467f2052e536d04"
+   ]
+  }
+ ],
+ "fragments": {
+  "60185d8e99d6d8be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro\n\nO presente diploma visa regulamentar o regime dos benefícios fiscais estabelecidos nos n.os 4 a 7 do artigo 49.º-A do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pela Lei do Orçamento do Estado para 1999.\n\nA crescente inserção de Portugal no processo de globalização da economia mundial, especialmente assumida nos últimos anos, bem como a tendência cada vez maior da articulação mundial entre economias e entre sociedades, constitui factor essencial para que a internacionalização das empresas portuguesas seja um dos objectivos conjunturais assumidos como prioritários em termos da política económica seguida pelo Governo.\n\nNesta perspectiva, o desenvolvimento económico-social, em especial o reforço da competitividade das empresas e do sistema económico e a promoção do crescimento e do emprego, conduziu à decisão de se proceder à reestruturação e consequente reformulação da regulamentação anteriormente estabelecida neste domínio.\n\nAs novas oportunidades resultantes do mercado globalizado serão, com a aplicação do novo regime, mais facilmente integradas e potenciadas pelas empresas nacionais, eficientes e competitivas, do que resultará uma diversificação e desenvolvimento estrutural, repercutido necessariamente na esfera de bem-estar de todos os portugueses.\n\nNestes termos, atendendo a que o anterior regime contido no [Decreto-Lei n.º 289/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680), de 26 de Dezembro, cessou os seus efeitos em 31 de Dezembro 1995, aplicando-se apenas aos projectos de investimento realizados até ao final daquele ano, e considerando que a Lei do Orçamento do Estado para 1999 aprovou uma nova redacção do artigo 49.º-A, importa regulamentar o referido regime jurídico, dando-se assim cumprimento ao disposto no n.º 4 do artigo 49.º-A do Estatuto dos Benefícios Fiscais.\n\nJustifica-se, portanto, a regulamentação dos benefícios fiscais a atribuir às empresas portuguesas que promovam projectos de investimento realizados até 2010 e que visem a sua internacionalização.\n\nTrata-se de benefícios de natureza excepcional com carácter temporário, concedidos em regime contratual e limitados em função do investimento realizado, estabelecendo-se uma intensidade mais elevada para os projectos de especial interesse para o País.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo artigo 49.º-A do Estatuto dos Benefícios Fiscais e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "320bd9d44b78b950": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - O presente diploma visa regulamentar os benefícios fiscais contratuais, condicionados e temporários, susceptíveis de concessão ao abrigo do disposto no artigo 49.º-A, n.º 4, do Estatuto dos Benefícios Fiscais.\n\n2 - O regime de benefícios fiscais referido no número anterior aplica-se a projectos de investimento realizados até 31 de Dezembro de 2010 que tenham em vista a internacionalização das empresas portuguesas.\n\n3 - Poderão beneficiar deste regime os investimentos directos efectuados no estrangeiro que contribuam positivamente para os resultados da empresa promotora e tenham por objecto as seguintes actividades económicas:\n\na) Indústria transformadora tal como definida na Classificação Portuguesa das Actividades Económicas;\n\nb) Actividades turísticas;\n\nc) Actividades agrícolas, piscícolas, agro-pecuárias e florestais;\n\nd) Construção de edifícios, obras públicas e actividades de arquitectura e de engenharia conexas com aquelas;\n\ne) Comércio por grosso e a retalho;\n\nf) Ambiente, energia e telecomunicações;\n\ng) Transportes;\n\nh) Tecnologias da informação e produção de áudio-visual e multimedia."
+  },
+  "bc426e8edd36c19d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projectos de investimento de montante igual ou superior a 50000 contos em aplicações relevantes que preencham cumulativamente as seguintes condições:\n\na) Demonstrem interesse estratégico para a internacionalização da economia portuguesa;\n\nb) Demonstrem ter viabilidade técnica, económica e financeira;\n\nc) Não se localizem em zonas francas ou nos países, territórios e regiões previstos na [Portaria n.º 377-B/94](https://diariodarepublica.pt/dr/detalhe/portaria/377-b-1994-516933), de 15 de Junho.\n\n2 - Caso os projectos se realizem num Estado membro da Comunidade Europeia, o disposto no n.º 1 aplica-se exclusivamente a pequenas e médias empresas, tal como são definidas pela União Europeia.\n\n3 - Os projectos de investimento podem ser excluídos quando:\n\na) Os promotores não possuam capacidade técnica e de gestão;\n\nb) Os promotores e o projecto de investimento não demonstrem uma situação financeira equilibrada;\n\nc) Os promotores não disponham de contabilidade regularmente organizada de acordo com a normalização contabilística e outras disposições legais em vigor para o respectivo sector de actividade, que seja adequada às análises requeridas para a apreciação e acompanhamento do projecto e permita autonomizar os efeitos do mesmo;\n\nd) O lucro tributável dos promotores seja determinado por métodos indiciários.\n\n4 - No âmbito da apreciação dos projectos de investimento são excluídos os promotores que sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou não tenham o pagamento dos seus débitos devidamente assegurado.\n\n5 - Para efeitos da alínea b) do n.º 3, considera-se situação financeira equilibrada quando a autonomia financeira medida pelo coeficiente entre o capital próprio e o total do activo, ambos apurados segundo os princípios preconizados pelo Plano Oficial de Contabilidade, seja igual ou superior a 0,2.\n\n6 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 9.º do presente diploma."
+  },
+  "2c7627eb47593a28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de elegibilidade dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de elegibilidade dos projectos\n\n1 - São elegíveis os projectos de investimento cuja realização não se tenha iniciado nos 60 dias anteriores à data da apresentação da candidatura, com excepção da elaboração de estudos directamente relacionados com o investimento.\n\n2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projecto de investimento se reporta à data do primeiro contrato ou outro documento com eficácia jurídica referente às aquisições dos activos considerados aplicações relevantes."
+  },
+  "62ada78527bb1483": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Benefícios fiscais\n\n1 - Os benefícios fiscais a conceder consistem num crédito de imposto correspondente a 10% das aplicações relevantes relacionadas com:\n\na) Criação de sucursais ou estabelecimentos estáveis no estrangeiro;\n\nb) Aquisição de participações de sociedades não residentes ou a criação de sociedades no estrangeiro, desde que a participação directa seja, pelo menos, de 25% do capital social;\n\nc) Campanhas de projecção plurianual para lançamento e promoção de produtos, prospecção e consolidação de mercados no estrangeiro, incluindo as realizadas com feiras, exposições e outras manifestações análogas com carácter internacional.\n\n2 - O crédito de imposto a que se refere o número anterior traduz-se na dedução ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), não podendo ultrapassar 25% daquele montante, com limite de 200000 contos, em cada exercício.\n\n3 - Aplicando-se o regime de tributação pelo lucro consolidado nos termos dos artigos 59.º e seguintes do Código do IRC, a dedução a que se refere o n.º 1 é feita de acordo com as seguintes regras:\n\na) A dedução efectua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC com base na matéria colectável consolidada;\n\nb) A dedução é feita até 25% do montante mencionado na alínea a) e não pode ultrapassar, em relação a cada sociedade, o limite estabelecido no n.º 2 da colecta correspondente à sociedade que realizou as despesas de investimento depois de eliminadas as operações entre sociedades do grupo.\n\n4 - A dedução é feita na liquidação do IRC respeitante ao exercício em que forem realizadas as despesas relevantes ou em que seja atingida a participação de 25%, consoante o caso, ou, quando o não possa ser integralmente, a importância ainda não deduzida poderá sê-lo, nas mesmas condições, na liquidação dos cinco exercícios seguintes.\n\n5 - A contabilidade das empresas dará expressão ao imposto que deixe de ser pago em resultado da dedução a que se referem os números anteriores, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativos ao exercício em que se efectua a dedução.\n\n6 - Os benefícios fiscais a conceder não são cumuláveis com outros benefícios da mesma natureza para o mesmo projecto de investimento."
+  },
+  "08066fbad6bbb499": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Eliminação da dupla tributação económica dos lucros distribuídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Eliminação da dupla tributação económica dos lucros distribuídos\n\n1 - A dedução prevista no n.º 1 do artigo 45.º do Código do IRC é aplicável, durante o período contratual, nos termos e condições aí referidos, relativamente aos lucros distribuídos por sociedades afiliadas não residentes em território português ou em Estado membro da Comunidade Europeia, sujeitas e não isentas de imposto sobre os lucros da mesma natureza do IRC, desde que os lucros distribuídos sejam provenientes de resultados obtidos no ano ou anos seguintes ao da realização do investimento.\n\n2 - Para efeitos de aplicação do disposto no número anterior, o sujeito passivo de IRC titular da participação deve dispor de prova da verificação das condições de que depende a dedução, designadamente declaração confirmada e autenticada pelas autoridades fiscais do Estado de residência da sociedade afiliada e demonstração do ano a que se referem os resultados donde provêm os lucros distribuídos."
+  },
+  "6507b044ef629ff5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de determinação do crédito fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de determinação do crédito fiscal\n\n1 - A percentagem estabelecida no n.º 1 do artigo 4.º do presente diploma pode ser majorada da seguinte forma:\n\na) Em 5%, caso o projecto de investimento se realize num dos países referidos no anexo I ao presente diploma;\n\nb) Em 5%, caso o promotor do projecto seja uma PME, tal como definida pela Comunidade Europeia.\n\n2 - As percentagens de majoração previstas no n.º 1 deste artigo podem ser atribuídas cumulativamente.\n\n3 - No caso de reconhecida relevância excepcional do projecto para a economia nacional, pode ser atribuída pelo Conselho de Ministros uma majoração até 5%, com o limite total de 20% das aplicações relevantes."
+  },
+  "b3c38526e7a2dc31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes para efeito do cálculo dos benefícios as despesas associadas aos projectos e relativas a:\n\na) Aquisição de equipamento afecto à actividade de sucursal ou estabelecimento estável no exterior, directamente relacionado e relevante para a actividade desenvolvida;\n\nb) Valor de aquisição de participações em sociedades não residentes;\n\nc) Montante de capital social realizado em sociedades no estrangeiro;\n\nd) Custos com a realização de campanhas plurianuais com as características definidas na alínea c) do n.º 1 do artigo 4.º;\n\ne) Custos corporizados em activo fixo incorpóreo, designadamente relacionados com:\n\ni) Despesas com assistência técnica e elaboração de estudos;\n\nii) Despesas com patentes, licenças e alvarás.\n\n2 - Excepciona-se da alínea a) do n.º 1 investimento em:\n\na) Terrenos;\n\nb) Edifícios e outras construções não directamente ligados ao processo produtivo ou às actividades administrativas essenciais;\n\nc) Viaturas ligeiras ou mistas e outro material de transporte no valor que ultrapasse 20% do total das aplicações relevantes;\n\nd) Mobiliário e artigos de conforto ou decoração;\n\ne) Equipamentos sociais, com excepção daqueles que a empresa seja obrigada a possuir por determinação da lei."
+  },
+  "b495211c8bad6291": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Candidatura e apreciação dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Candidatura e apreciação dos processos\n\n1 - As empresas promotoras dos investimentos devem apresentar devidamente caracterizado e fundamentado o processo de candidatura aos benefícios fiscais nas seguintes entidades:\n\na) ICEP - Investimentos, Comércio e Turismo de Portugal, quando se candidatem aos apoios de natureza financeira geridos por esta entidade ou exclusivamente aos benefícios fiscais;\n\nb) IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, quando os projectos se candidatem a auxílios de natureza financeira geridos por esta entidade.\n\n2 - Compete ao ICEP ou ao IAPMEI, consoante o caso:\n\na) Verificar o cumprimento das condições gerais de acesso e de elegibilidade dos projectos mencionadas nos artigos 2.º e 3.º;\n\nb) Pronunciar-se sobre o interesse do projecto quanto aos objectivos visados pelos benefícios fiscais;\n\nc) Avaliar as aplicações relevantes.\n\n3 - No exercício das competências que lhes são cometidas no número anterior, o ICEP e o IAPMEI podem recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.\n\n4 - As entidades referidas no n.º 2 podem, no decurso da fase de verificação das candidaturas, solicitar aos promotores dos projectos esclarecimentos complementares, os quais devem ser apresentados no prazo de 45 dias, findo o qual, na ausência de resposta, quando imputável aos promotores, se considera haver desistência do procedimento.\n\n5 - O ICEP e o IAPMEI submetem o processo devidamente instruído, acompanhado do respectivo parecer técnico, nos termos do n.º 2, à DGCI - Direcção-Geral dos Impostos no prazo de 60 dias contados a partir da data de apresentação da candidatura, que será interrompido nos casos previstos no n.º 4.\n\n6 - A DGCI emite parecer quanto à matéria relativa aos benefícios fiscais, podendo, se for caso disso, solicitar esclarecimentos complementares ao ICEP e ao IAPMEI."
+  },
+  "4495764cbd0df9ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contrato de concessão dos benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contrato de concessão dos benefícios\n\n1 - A concessão dos benefícios fiscais é objecto de contrato, com período de vigência até cinco anos a contar do início da realização do projecto de investimento, e é aprovada por despacho do Ministro das Finanças, no qual constam, designadamente, os objectivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos.\n\n2 - Os contratos de investimento de montante superior a 500000 contos ficam subordinados à aprovação pelo Governo através de resolução do Conselho de Ministros.\n\n3 - Os contratos de investimento de montante superior a 50000 contos e inferior a 500000 contos ficam subordinados à aprovação pelo Governo através de despacho conjunto dos Ministros das Finanças e da Economia."
+  },
+  "61518a478f2d3c6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Fiscalização e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização e acompanhamento\n\n1 - Sem prejuízo das competências próprias da DGCI, a verificação do cumprimento dos contratos de concessão de benefícios fiscais ao investimento pelos promotores compete ao ICEP ou ao IAPMEI, consoante o caso.\n\n2 - No exercício das competências previstas no número anterior, o ICEP e o IAPMEI podem recorrer à colaboração de entidades públicas ou privadas, sendo as entidades públicas solicitadas obrigadas a dar resposta ao pedido no prazo de 30 dias.\n\n3 - Para efeitos do cumprimento do artigo 6.º do Estatuto dos Benefícios Fiscais, o ICEP e o IAPMEI enviarão anualmente à DGCI os relatórios de verificação do cumprimento dos objectivos previstos nos contratos de concessão de benefícios fiscais."
+  },
+  "0933d6c94382ccee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Renegociação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Renegociação\n\n1 - O contrato pode ser objecto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que fundaram a sua vontade de contratar.\n\n2 - Qualquer alteração contratual decorrente de renegociação prevista no número anterior será submetida a aprovação nos termos do artigo 9.º\n\n3 - O incumprimento parcial dos objectivos e obrigações contratuais previstos, desde que não comprometa definitivamente a realização do projecto, poderá dar lugar a uma redução proporcional dos benefícios concedidos, desde que não comprometa definitivamente a realização do projecto."
+  },
+  "4388b6b1452e9e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Resolução do contrato\n\nA resolução do contrato é declarada por resolução do Conselho de Ministros nos contratos de montante superior a 500000 contos, ou por despacho conjunto dos Ministros das Finanças e da Economia nos contratos de montante inferior, e nos seguintes casos:\n\na) Não cumprimento dos objectivos e obrigações estabelecidos no contrato, nos prazos aí fixados, por facto imputável à empresa promotora;\n\nb) Não cumprimento atempado das obrigações fiscais por parte da empresa promotora;\n\nc) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos na apresentação e apreciação e no acompanhamento dos projectos."
+  },
+  "cd968009badfdf73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Efeitos da resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Efeitos da resolução do contrato\n\n1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data do mesmo e ainda a obrigação de, no prazo de 30 dias a contar da respectiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respectivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas do juro compensatório, nos termos do artigo 83.º do Código de Processo Tributário.\n\n2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, haverá lugar a procedimento executivo."
+  },
+  "282f9bd3a863fd62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\n1 - O presente diploma produz efeitos a partir 1 de Janeiro de 1999.\n\n2 - Aos projectos que se tenham iniciado anteriormente a 1 de Janeiro de 1999 é aplicável o regime de benefícios fiscais instituídos na redacção dada ao artigo 49.º-A do Estatuto dos Benefícios Fiscais pela [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), de 27 de Dezembro.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - António Ricardo Rocha de Magalhães - José Mariano Rebelo Pires Gago.\n\nPromulgado em 29 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8467f2052e536d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nPara efeitos da majoração do crédito fiscal prevista na alínea a) do n.º 1 do artigo 6.º são determinados os seguintes países:\n\n1) Estados membros da União Europeia;\n\n2) Angola;\n\n3) Moçambique;\n\n4) Cabo Verde;\n\n5) Guiné-Bissau;\n\n6) São Tomé e Príncipe;\n\n7) Brasil."
+  },
+  "8b3299e0086b8869": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Benefícios fiscais",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+   ],
+   "markdown": "###### Artigo 4.º — Benefícios fiscais\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+  },
+  "5a9d8f786a429e43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Eliminação da dupla tributação económica dos lucros distribuídos",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+   ],
+   "markdown": "###### Artigo 5.º — Eliminação da dupla tributação económica dos lucros distribuídos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+  },
+  "8927afda0833ee5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de determinação do crédito fiscal",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de determinação do crédito fiscal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+  },
+  "fadeaf8eb3ccbf4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aplicações relevantes",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+   ],
+   "markdown": "###### Artigo 7.º — Aplicações relevantes\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+  },
+  "b9aaae786e08a22d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": "2009-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23."
+   ],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - António Ricardo Rocha de Magalhães - José Mariano Rebelo Pires Gago.\n\nPromulgado em 29 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

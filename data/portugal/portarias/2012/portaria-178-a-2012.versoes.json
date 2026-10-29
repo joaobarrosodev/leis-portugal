@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:606319:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69517571459a967e",
+    "4217dc8d86459810",
+    "fa879fe011568954",
+    "6cbb8381e2f89589",
+    "2d5309298e20bf08",
+    "30180b8fa94d6533",
+    "56bd75e2eb32bbc7",
+    "3e4460a1cd60fab6",
+    "abaef72d5c4d5789",
+    "38a8d36ffa73d378",
+    "08b3fd1a86607258",
+    "8002799bae11f3a4",
+    "6080dca4998a5949",
+    "58af62d5dd08727e",
+    "73aa6cbd6252586c"
+   ]
+  },
+  {
+   "date": "2012-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178560:por",
+     "title": "Portaria n.º 203/2012",
+     "published": "2012-07-04",
+     "dre_path": "/dr/detalhe/portaria/203-2012-178560"
+    },
+    {
+     "id": "pt:dre:194660:por",
+     "title": "Portaria n.º 226-A/2012",
+     "published": "2012-08-01",
+     "dre_path": "/dr/detalhe/portaria/226-a-2012-194660"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "69517571459a967e",
+    "4217dc8d86459810",
+    "fa879fe011568954",
+    "70cf330e0aa668bd",
+    "2d5309298e20bf08",
+    "30180b8fa94d6533",
+    "56bd75e2eb32bbc7",
+    "6b83ac49618a0f4f",
+    "abaef72d5c4d5789",
+    "38a8d36ffa73d378",
+    "08b3fd1a86607258",
+    "8002799bae11f3a4",
+    "6080dca4998a5949",
+    "58af62d5dd08727e",
+    "73aa6cbd6252586c"
+   ]
+  }
+ ],
+ "fragments": {
+  "69517571459a967e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de maio\n\nAs condições climatéricas que têm atingido Portugal continental desde final do ano de 2011, com a quase total ausência de chuva, colocaram o território em situação de seca e de seca severa, em termos equiparáveis a calamidade natural.\n\nNeste contexto, foi adotada a Resolução do Conselho de Ministros n.º 37/2012, de 27 de março, nos termos da qual se determinou a preparação de medidas urgentes, para a mitigação dos impactos da seca, com especial incidência no sector agrícola.\n\nNa categoria das medidas de carácter fiscal e para fiscal inscreve-se a isenção ou diferimento do pagamento de contribuições sociais por parte dos agricultores e dos empregadores agrícolas, que importa agora consagrar.\n\nFace às exigências comunitárias em matéria de auxílios de Estado, importa salientar que a presente ajuda é concedida às explorações que tenham sofrido, devido à situação de seca no corrente ano, perdas de rendimento superiores a 30 %, e que o método utilizado para determinar tal percentagem resulta da comparação da produção do ano de seca e a média dos últimos três anos.\n\nPor outro lado, é de referir que as despesas não efetuadas devido à situação de seca, devem ser deduzidas, por forma a evitar a sobrecompensação.\n\nAssim:\n\nAo abrigo da subalínea iii) do ponto 4 da alínea c) do n.º 1 da Resolução do Conselho de Ministros n.º 37/2012, de 27 de março, e do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, manda o Governo, pelos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o seguinte:"
+  },
+  "4217dc8d86459810": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nPela presente portaria são previstos apoios às explorações agrícolas que se situem no continente português, nos termos da Resolução do Conselho de Ministros n.º 37/2012, de 27 de março, nos seguintes termos:\n\na) Dispensa do pagamento das contribuições relativas aos meses de maio a outubro de 2012 para o regime de segurança social dos produtores agrícolas e respetivos cônjuges;\n\nb) Diferimento do prazo de pagamento de contribuições relativas aos meses de maio a outubro de 2012 das entidades empregadoras relativamente aos seus trabalhadores."
+  },
+  "fa879fe011568954": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A dispensa ou o diferimento do pagamento de contribuições abrangem as explorações do continente português que tenham por objeto principal a produção agrícola, pecuária ou a apicultura, que tenham sofrido perdas de rendimento superiores a 30 % devido à situação de seca, por comparação da produção verificada no presente ano e a média dos últimos três anos.\n\n2 - Os apoios previstos na presente portaria não se aplicam às explorações que tenham por objeto principal a silvicultura ou em atividades agrícolas em que a terra tenha uma função de mero suporte de instalações.\n\n3 - A ajuda concedida ao abrigo da presente portaria, quando acumulada com outras contribuições financeiras nacionais ou comunitárias para as mesmas despesas elegíveis, não pode ultrapassar a intensidade máxima de auxílio estabelecida no artigo 11.º do Regulamento (CE) n.º [1857/2006](http://data.europa.eu/eli/reg/2006/1857/oj?locale=pt), da Comissão, de 15 de dezembro."
+  },
+  "6cbb8381e2f89589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - São dispensados do pagamento de contribuições os produtores agrícolas cujas explorações preencham os requisitos referidos no artigo anterior, enquadrados no regime dos trabalhadores independentes em virtude do exercício exclusivo da atividade agrícola, bem como os cônjuges que com eles exerçam efetiva e regularmente atividade profissional na exploração.\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade agrícola nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - São excluídos os produtores agrícolas e as entidades empregadoras que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, C 244, de 1 de outubro de 2004."
+  },
+  "2d5309298e20bf08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condição de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condição de acesso\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as entidades empregadoras, os produtores agrícolas e os respetivos cônjuges, referidos no artigo anterior, que tenham a situação contributiva regularizada perante a segurança social que comprovem a perda de rendimento referida no n.º 1 do artigo 2.º\n\n2 - Os requerentes que não tenham a situação contributiva regularizada podem requerer o pagamento em prestações, nos termos da lei."
+  },
+  "30180b8fa94d6533": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Diferimento do pagamento de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diferimento do pagamento de contribuições\n\nAs entidades empregadoras podem proceder ao pagamento das contribuições devidas relativas ao período de diferimento a partir de dezembro de 2012 num prazo máximo de 12 meses, em prestações mensais e iguais."
+  },
+  "56bd75e2eb32bbc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Causas de cessação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Causas de cessação dos apoios\n\nOs apoios previstos na presente portaria cessam quando se verifique uma das seguintes circunstâncias:\n\na) Termo do período de concessão;\n\nb) Falta de entrega, no prazo legal, das declarações de remunerações, ou falta de inclusão de quaisquer trabalhadores nas referidas declarações;\n\nc) Falta de pagamento no prazo do respetivo vencimento de qualquer das prestações para a regularização da situação devedora."
+  },
+  "3e4460a1cd60fab6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar, no prazo de 30 dias após a data da entrada em vigor da presente portaria, nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações."
+  },
+  "abaef72d5c4d5789": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução\n\n1 - Cabe à Direção Regional de Agricultura e Pescas (DRAP) da área da sede da exploração certificar, em campo próprio do requerimento que para o efeito será remetido pelo ISS, I. P., as declarações dele constantes relativas à natureza da exploração, bem como ao cumprimento dos requisitos previstos no artigo 2.º e no n.º 3 do artigo 3.º da presente portaria.\n\n2 - Para efeitos da instrução do processo, podem as DRAP solicitar ou obter informações e elementos complementares necessários à correta apreciação do pedido.\n\n3 - A certificação deve ocorrer no prazo máximo de 10 dias após a receção do requerimento, prorrogável, se necessário, por período não superior a 10 dias, após o que o requerimento é remetido aos serviços do ISS, I. P."
+  },
+  "38a8d36ffa73d378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Decisão e efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Decisão e efeitos\n\n1 - O ISS, I. P., deve proferir decisão sobre o pedido no prazo máximo de 30 dias após a receção do requerimento inicial.\n\n2 - No caso de indeferimento do requerimento não são exigíveis juros de mora pelo valor das contribuições não pagas desde que as mesmas sejam regularizadas no prazo de 30 dias sobre a data em que tenha sido notificado o indeferimento."
+  },
+  "08b3fd1a86607258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Pagamento de contribuições diferidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento de contribuições diferidas\n\n1 - O ISS, I. P., notifica a entidade empregadora, em novembro de 2012, do valor total de contribuições devidas e do prazo para pagamento voluntário das mesmas.\n\n2 - A entidade empregadora deve indicar ao ISS, I. P., no prazo de 10 dias úteis, a intenção de cumprimento da obrigação em prestações, para efeitos de definição do respetivo plano de pagamentos.\n\n3 - A falta de cumprimento da obrigação contributiva prevista nos números anteriores determina a participação da dívida para execução fiscal."
+  },
+  "8002799bae11f3a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Falsas declarações\n\nAs falsas declarações tornam exigíveis as contribuições relativas ao período em que tenha vigorado a dispensa de pagamento das mesmas, sem prejuízo da aplicação das sanções legais previstas para o respetivo ilícito."
+  },
+  "6080dca4998a5949": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Equivalência à entrada de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Equivalência à entrada de contribuições\n\nA dispensa do pagamento de contribuições relativa aos produtores agrícolas e respetivos cônjuges determina o registo de remunerações por equivalência à entrada de contribuições de acordo com a respetiva base de incidência contributiva."
+  },
+  "58af62d5dd08727e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Financiamento\n\nO financiamento do regime previsto na presente portaria é assegurado pelo orçamento do Ministério da Solidariedade e da Segurança Social."
+  },
+  "73aa6cbd6252586c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 31 de maio de 2012.\n\nA Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares."
+  },
+  "70cf330e0aa668bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": "2012-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04."
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - São dispensados do pagamento de contribuições os produtores agrícolas cujas explorações preencham os requisitos referidos no artigo anterior, enquadrados no regime dos trabalhadores independentes em virtude do exercício exclusivo da atividade agrícola, bem como os cônjuges que com eles exerçam efetiva e regularmente atividade profissional na exploração.\n\n2 - Podem requerer o pagamento diferido de contribuições as entidades empregadoras relativamente aos trabalhadores que exerçam atividade nas explorações que preencham os requisitos referidos no artigo anterior.\n\n3 - São excluídos os produtores agrícolas e as entidades empregadoras que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, C 244, de 1 de outubro de 2004.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04."
+  },
+  "6b83ac49618a0f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requerimento",
+   "in_force_from": "2012-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 226-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-2012-194660), publicado em 2012-08-01."
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento\n\n1 - A concessão dos apoios previstos na presente portaria depende de requerimento a apresentar até ao dia 15 de setembro de 2012 nos serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Os requerimentos podem ainda ser apresentados nas associações de agricultores, no mesmo prazo, nos termos a estabelecer em protocolo.\n\n3 - O requerimento é apresentado em modelo próprio, aprovado por despacho conjunto dos Ministros da Agricultura, do Mar, do Ambiente e do Ordenamento do Território e da Solidariedade e da Segurança Social, o qual integra todos os elementos necessários à identificação dos requerentes e das explorações.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 203/2012](https://diariodarepublica.pt/dr/detalhe/portaria/203-2012-178560), publicado em 2012-07-04.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 226-A/2012](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-2012-194660), publicado em 2012-08-01."
+  }
+ }
+}

@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-10-26'
+version_history:
+  file: decreto-lei-49171.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-10-26'
+    amending: pt:dre:277303:por
+    amending_title: Decreto-Lei n.º 447/77
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:10:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 447/77. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49171.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,9 +129,15 @@ Convindo uniformizar tanto as categorias como as remunerações e condições de
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º São equiparados aos professores e mestres do ensino das escolas técnicas do Ministério da Educação Nacional, quanto a remunerações, diuturnidades e tempo de serviço obrigatório, os professores do ensino técnico, os de Educação Física, os de Música e Canto Coral e os mestres do ensino comercial e industrial da Casa Pia de Lisboa.
+###### Artigo 1.º
 
-Art. 2.º Os professores e mestres, do mesmo ensino com mais de cinco anos de efectivo serviço consideram-se com categoria equivalente à dos professores efectivos e mestres das escolas técnicas do Ministério da Educação Nacional, sem dependência de quaisquer outras formalidades além da simples comunicação ao Tribunal de Contas.
+São equiparados aos professores e mestres do ensino das escolas técnicas do Ministério da Educação Nacional, quanto a remunerações, diuturnidades e tempo de serviço obrigatório, os professores do ensino técnico, os de Educação Física, os de Música e Canto Coral e os mestres do ensino comercial e industrial da Casa Pia de Lisboa.
+
+###### Artigo 2.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 447/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1977-277303), publicado em 1977-10-26.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Lopo de Carvalho Cancella de Abreu.
 

@@ -1,0 +1,278 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484575:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b98830be558b0a81",
+    "f96ad12424e476c8",
+    "a80c7fbdf15da588",
+    "2676e73df468ff4a",
+    "6a7868fe6bd910ae",
+    "087c518a9b423359",
+    "b948012bb551efa1",
+    "3ec24131ba1cf194",
+    "a8f597054b66eaf0",
+    "38bf328658d8d77b",
+    "15d0350561d8e48c",
+    "411b871322bcd4a4",
+    "f9984a7a9b4f10ce",
+    "d36a0820f0a08c17",
+    "56fca8495b18dd5b",
+    "5ee8785e56cec8bc",
+    "5a8c7f44100e2e54",
+    "a26b389d8d792db4",
+    "ec63e16218d9ae0a",
+    "dfb9712360464d39",
+    "46a0bb196dbcaab8"
+   ]
+  },
+  {
+   "date": "1997-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506429:por",
+     "title": "Decreto-Lei n.º 48/97",
+     "published": "1997-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/48-1997-506429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "b98830be558b0a81",
+    "f96ad12424e476c8",
+    "a80c7fbdf15da588",
+    "2676e73df468ff4a",
+    "6a7868fe6bd910ae",
+    "087c518a9b423359",
+    "b948012bb551efa1",
+    "3ec24131ba1cf194",
+    "5a7fcfc7c8e9aec3",
+    "38bf328658d8d77b",
+    "1cf479fb23a3e82a",
+    "411b871322bcd4a4",
+    "f9984a7a9b4f10ce",
+    "42a664af68f35baf",
+    "56fca8495b18dd5b",
+    "5ee8785e56cec8bc",
+    "5a8c7f44100e2e54",
+    "a26b389d8d792db4",
+    "ec63e16218d9ae0a",
+    "dfb9712360464d39",
+    "46a0bb196dbcaab8"
+   ]
+  }
+ ],
+ "fragments": {
+  "b98830be558b0a81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nO alargamento do acesso dos cidadãos aos cuidados de saúde constitui um dos princípios fundamentais da Lei de Bases da Saúde e uma preocupação constante da reforma do sistema de saúde português.\n\nUm sistema de identificação dos utentes do Serviço Nacional de Saúde que assegure a definição exacta da situação de cada um garante a concretização dos direitos dos seus titulares, designadamente o acesso a actividades de protecção da saúde, à prestação de cuidados e ao fornecimento de medicamentos, quer pelos serviços próprios do Serviço Nacional de Saúde, quer pelas entidades privadas com ele convencionadas.\n\nActualmente, a uma diversidade de suportes de identificação vem juntar-se, por vezes, uma incorrecta definição da situação do utente, susceptível de comprometer o interesse público e, bem assim, de lesar a obtenção directa de benefícios pelos particulares.\n\nImporta, por isso, unificar, no respeito pelos princípios da universalidade e da equidade, o sistema de identificação dos utentes do Serviço Nacional de Saúde, através da instituição de um cartão, de emissão gratuita e de natureza substitutiva, em termos idênticos aos existentes para utentes de subsistemas.\n\nProssegue-se, deste modo, a mais fácil identificação pessoal nos serviços de saúde, sem necessidade de apresentação de qualquer outro documento. Para além disso, esta medida representa um benefício acrescido para o seu titular, na medida em que elimina circuitos e procedimentos burocráticos e simplifica a atribuição da isenção das taxas moderadoras e o reconhecimento de outras situações de isenção. A natureza do cartão de identificação do utente promove, ainda, a movimentação mais fácil no âmbito dos serviços de saúde, pela eliminação de circuitos e de documentos, substituíveis por este cartão.\n\nDoutra parte, a existência de um cartão de identificação uniforme garante ao respectivo titular o conhecimento adequado e actualizado dos respectivos direitos, designadamente no que respeita à identificação de terceiros responsáveis, à isenção de taxas e à comparticipação especial de medicamentos.\n\nO cartão de identificação do utente é, pois, para o seu titular, um instrumento de participação esclarecida no processo de efectivação do direito à protecção da saúde.\n\nA correcta identificação das situações individuais relacionadas directa ou indirectamente com a efectivação do direito à protecção da saúde, no âmbito do Serviço Nacional de Saúde, apresenta-se, ainda, como pressuposto da efectiva articulação entre o Estado e as entidades privadas legal ou contratualmente responsáveis pelos encargos decorrentes das referidas prestações. Exemplo dessa articulação é o incremento do recurso ao sector privado, cujos médicos, por sua vez, passam a poder prescrever, com base nos elementos de identificação e informação constantes do cartão, receituário comparticipado através do Serviço Nacional de Saúde.\n\nPor último, o cartão de identificação do utente tem em vista assegurar de modo mais efectivo o princípio da responsabilidade pública pelo sistema de saúde, permitindo um acréscimo de racionalização na gestão dos meios e da globalidade dos recursos afectos ao Serviço Nacional de Saúde, através do maior controlo dos encargos relativos a cada utente com prestação de cuidados de saúde e comparticipação medicamentosa.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados Pessoais Informatizados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "f96ad12424e476c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o cartão de identificação do utente do Serviço Nacional de Saúde, adiante designado por cartão de identificação do utente."
+  },
+  "a80c7fbdf15da588": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\n1 - O cartão de identificação do utente constitui um meio facultativo, e com natureza substitutiva, de comprovação da identidade do seu titular perante as instituições e serviços integrados no Serviço Nacional de Saúde e as entidades privadas com actividade na área da saúde.\n\n2 - O cartão de identificação do utente é de emissão gratuita e substitui, para os efeitos referidos no número anterior, qualquer outro cartão ou documento de identificação do seu titular."
+  },
+  "2676e73df468ff4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Apresentação do cartão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apresentação do cartão\n\n1 - O cartão de identificação do utente é apresentado para os seguintes efeitos:\n\na) Prestação de cuidados de saúde;\n\nb) Requisição e acesso a consultas e meios auxiliares de diagnóstico e terapêutica;\n\nc) Prescrição e aquisição de medicamentos.\n\n2 - Não há lugar à apresentação do cartão quando se trate de:\n\na) Crianças recém-nascidas, até ao fim do prazo legal para efectivação do respectivos registos;\n\nb) Migrantes abrangidos por acordos ou por convenções internacionais.\n\n3 - Não há ainda lugar à apresentação de cartão quando se trate de actos médico-sanitários prestados no âmbito de acções de saúde pública ou decorrentes de imposição legal."
+  },
+  "6a7868fe6bd910ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - O cartão de identificação do utente é emitido pelos serviços competentes da administração regional de saúde da área da residência do titular.\n\n2 - As dimensões e modelo do cartão de identificação do utente são fixados por portaria do Ministro da Saúde."
+  },
+  "087c518a9b423359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Formulário de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formulário de identificação\n\n1 - Para efeitos de emissão do cartão de identificação do utente, os serviços a que se refere o n.º 1 do artigo 2.º devem solicitar ao interessado o preenchimento de um formulário de identificação do utente do Serviço Nacional de Saúde.\n\n2 - Para a recepção do formulário de identificação pelos serviços referidos no número anterior é exigida a apresentação de documento oficial de identificação do titular e de indicação do local da sua residência, bem como, se for caso disso, de:\n\na) Documento comprovativo da sua qualidade de beneficiário de subsistema ou, no caso de titulares de seguros, a respectiva apólice;\n\nb) Documento comprovativo do seu direito de isenção de taxa moderadora;\n\nc) Documento comprovativo do seu direito ao regime especial de comparticipação de medicamentos.\n\n3 - O preenchimento do formulário de identificação pode ser informatizado ou manual, sem prejuízo da observância das regras relativas ao modelo e instruções de preenchimento que forem aprovadas por portaria do Ministro da Saúde.\n\n4 - Os serviços referidos no n.º 1 do artigo 2.º devem facultar ao utente uma cópia autenticada do formulário de identificação, devidamente preenchido, para efeitos de comprovação da sua situação perante o Serviço Nacional de Saúde, até à data de atribuição do respectivo cartão de identificação do utente."
+  },
+  "b948012bb551efa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Número de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Número de identificação\n\n1 - O cartão de identificação do utente deve incluir o número de identificação do respectivo titular perante o Serviço Nacional de Saúde.\n\n2 - Na atribuição do número de identificação do utente é utilizada uma faixa numérica sequencial, constituída por nove dígitos, sendo o primeiro o identificador da administração regional de saúde emissora, os sete seguintes o número individual do utente e o último o dígito de controlo, nos termos definidos por portaria do Ministro da Saúde.\n\n3 - O número de identificação do utente do Serviço Nacional de Saúde deve constar, obrigatoriamente, dos documentos comprovativos da facturação emitida no âmbito das prestações previstas nas alíneas a) a c) do n.º 1 do artigo 3.º"
+  },
+  "3ec24131ba1cf194": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Identificação de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação de terceiros\n\nSempre que a prestação de cuidados e de serviços de saúde ao utente do Serviço Nacional de Saúde estiver abrangida por contratos, convenções, protocolos ou acordos celebrados no âmbito do Estatuto do Serviço Nacional de Saúde, do seu cartão de identificação consta:\n\na) O número de beneficiário ou de aderente;\n\nb) A identificação das entidades responsáveis pelos encargos decorrentes;\n\nc) A indicação do termo de duração da responsabilidade pelos encargos."
+  },
+  "a8f597054b66eaf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxas moderadoras\n\nSempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal."
+  },
+  "38bf328658d8d77b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime especial de comparticipação de medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime especial de comparticipação de medicamentos\n\nSempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 3.º do [Decreto-Lei n.º 118/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1992-302737), de 25 de Junho, do seu cartão de identificação consta a titularidade do direito ao regime especial de comparticipação de medicamentos, bem como o respectivo termo."
+  },
+  "15d0350561d8e48c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Alteração de elementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração de elementos\n\n1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Nacional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.\n\n2 - A transferência do utente de uma região de saúde para outra implica a emissão de novo cartão de identificação do utente, pelos serviços competentes da administração regional de saúde respectiva, e a anulação do cartão anterior.\n\n3 - O processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão."
+  },
+  "411b871322bcd4a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Extravio, deterioração ou destruição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extravio, deterioração ou destruição\n\n1 - Em caso de extravio, destruição ou deterioração, é emitida uma segunda via do cartão de identificação do utente, a pedido do seu titular.\n\n2 - Ao processo de emissão de segunda via do cartão de identificação do utente aplica-se, com as necessárias adaptações, o disposto nos artigos anteriores.\n\n3 - Os encargos decorrentes da emissão de segunda via do cartão de identificação do utente são suportados pelo respectivo titular."
+  },
+  "f9984a7a9b4f10ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Celebração de contratos, convenções, protocolos ou acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Celebração de contratos, convenções, protocolos ou acordos\n\n1 - Nos contratos, convenções, protocolos ou acordos celebrados ao abrigo e no âmbito do Estatuto do Serviço Nacional de Saúde, designadamente para os efeitos das alíneas a) a c) do n.º 1 do artigo 3.º, deve ser prevista a apresentação do cartão de identificação do utente.\n\n2 - Os procedimentos de equiparação do receituário próprio das entidades referidas no n.º 1 do artigo 2.º, para efeitos de acesso ao regime legalmente previsto para as receitas médicas prescritas no âmbito do Serviço Nacional de Saúde, são fixados por portaria do Ministro da Saúde."
+  },
+  "d36a0820f0a08c17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Bases de dados\n\n1 - Para efeitos de emissão do cartão de identificação do utente, são constituídas bases de dados, com correspondência às áreas de intervenção das administrações regionais de saúde, que reúnam, relativamente aos respectivos titulares, a seguinte informação:\n\na) Número de identificação;\n\nb) Nome;\n\nc) Nacionalidade e naturalidade;\n\nd) Sexo;\n\ne) Data de nascimento;\n\nf) Morada e telefone;\n\ng) Situação e identificação do utente, para efeitos do disposto nos artigos 7.º a 9.º do presente diploma;\n\nh) Qualidade de dador benévolo de sangue.\n\n2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes das administrações regionais de saúde, que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente."
+  },
+  "56fca8495b18dd5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Consulta de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Consulta de dados\n\n1 - É autorizada a comunicação dos dados referidos no n.º 1 do artigo anterior às instituições e serviços prestadores de cuidados de saúde integrados no Serviço Nacional de Saúde, nos termos do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro, bem como, apenas para os efeitos previstos no presente diploma, ao Instituto de Gestão Informática e Financeira da Saúde.\n\n2 - A comunicação de dados prevista no número anterior é efectuada em suporte informático ou através de linha de transmissão, devendo, em qualquer caso, ser garantido o respeito pelas normas de segurança da informação."
+  },
+  "5ee8785e56cec8bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conservação dos dados\n\nOs dados constantes das bases de dados são conservados apenas durante o período estritamente necessário para os fins a que se destinam, sem prejuízo da respectiva destruição, em qualquer caso, com o falecimento do respectivo titular."
+  },
+  "5a8c7f44100e2e54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acesso à informação\n\n1 - Qualquer pessoa tem direito a conhecer o conteúdo do registo ou registos constantes da base de dados que lhe digam respeito.\n\n2 - Sem prejuízo das condições que sejam fixadas nos termos da alínea f) do n.º 1 do artigo 8.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, a reprodução exacta dos registos a que se refere o número anterior, com a indicação do significado de quaisquer códigos e abreviaturas deles constantes, é fornecida gratuitamente, a solicitação dos respectivos titulares ou seus representantes legais.\n\n3 - A informação é requerida à entidade responsável pela base de dados ou às instituições e serviços a quem esses dados tenham sido comunicados, nos termos do artigo 14.º"
+  },
+  "a26b389d8d792db4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Correcção de inexactidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Correcção de inexactidões\n\nQualquer pessoa tem o direito de exigir a correcção de inexactidões e o completamento das total ou parcialmente omissas, bem como a supressão de dados indevidamente registados, nos termos dos artigos 30.º e 31.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, mediante requerimento apresentado ao presidente da administração regional de saúde competente."
+  },
+  "ec63e16218d9ae0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Segurança da informação\n\nSão objecto de controlo, tendo em vista a segurança da informação:\n\na) A entrada nas instalações utilizadas para o tratamento de dados pessoais, a fim de impedir o acesso de qualquer pessoa não autorizada;\n\nb) Os suportes de dados, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por qualquer pessoa não autorizada;\n\nc) A inserção de dados, para impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizadas na base de dados;\n\nd) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;\n\ne) O acesso aos dados, para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;\n\nf) A transmissão de dados, para garantir que a sua utilização seja limitada às entidades autorizadas;\n\ng) O transporte de suportes de dados, para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada."
+  },
+  "dfb9712360464d39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Responsabilidade pelas bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Responsabilidade pelas bases de dados\n\n1 - As administrações regionais de saúde são, nos termos e para os efeitos do disposto na alínea h) do artigo 2.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, responsáveis pela base de dados existente na respectiva região de saúde, nomeadamente pelo seu processamento, gestão e segurança.\n\n2 - Cabe aos presidentes dos conselhos de administração das administrações regionais de saúde assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como a correcção de inexactidões, competindo-lhes, ainda, velar para que a consulta da informação respeite as condições prescritas na lei."
+  },
+  "46a0bb196dbcaab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sigilo profissional\n\nAquele que, no exercício das suas funções, tome conhecimento de informação constante das bases de dados previstas no presente diploma fica obrigado a sigilo profissional, nos termos do artigo 32.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Adalberto Paulo da Fonseca Mendo.\n\nPromulgado em 6 de Julho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Julho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "5a7fcfc7c8e9aec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Taxas moderadoras",
+   "in_force_from": "1997-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+   ],
+   "markdown": "###### Artigo 8.º — Taxas moderadoras\n\n1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.\n\n2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+  },
+  "1cf479fb23a3e82a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Alteração de elementos",
+   "in_force_from": "1997-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+   ],
+   "markdown": "###### Artigo 10.º — Alteração de elementos\n\n1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Nacional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.\n\n2 - A mudança de residência do utente de uma região de saúde para outra implica a emissão de novo cartão, mantendo-se o número de identificação do utente atribuído na primeira emissão.\n\n3 - Sem prejuízo do disposto no número anterior, o processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+  },
+  "42a664af68f35baf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Bases de dados",
+   "in_force_from": "1997-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+   ],
+   "markdown": "###### Artigo 13.º — Bases de dados\n\n1 - Para efeitos de emissão do cartão de identificação do utente, são constituídas bases de dados, com correspondência às áreas de intervenção das administrações regionais de saúde, que reúnam, relativamente aos respectivos titulares, a seguinte informação:\n\na) Número de identificação;\n\nb) Nome;\n\nc) Nacionalidade e naturalidade;\n\nd) Sexo;\n\ne) Data de nascimento;\n\nf) Morada e telefone;\n\ng) Situação e identificação do utente, para efeitos do disposto nos artigos 7.º a 9.º do presente diploma;\n\nh) Qualidade de dador benévolo de sangue.\n\ni) Número de inscrição do utente no centro de saúde;\n\nj) Número de cédula profissional do médico de clínica geral.\n\n2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes das administrações regionais de saúde, que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27."
+  }
+ }
+}

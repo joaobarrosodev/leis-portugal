@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-25'
+version_history:
+  file: portaria-904-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-25'
+    amending: pt:dre:627824:por
+    amending_title: Portaria n.º 1611/2007
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/904/2006/09/04/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1611/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-904-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,11 +182,13 @@ b) «Estabelecimento de zona livre» o acto pelo qual as direcções regionais d
 
 Os agricultores ou as suas organizações e as empresas agrícolas que pretendam estabelecer-se em zonas livres ou o município, no caso de o estabelecimento ser de iniciativa municipal, devem apresentar o pedido à DRA da área de localização das explorações agrícolas, atento o disposto no n.º 2 do artigo 4.º, acompanhado dos seguintes documentos:
 
-a) Declaração escrita conjunta de que nas suas explorações agrícolas se dedicam ao cultivo de uma espécie referida no anexo I do Decreto-Lei n.º 160/2005, de 21 de Setembro, e de que o modo de produção que praticam não contempla, em caso algum, o cultivo de variedades geneticamente modificadas nessa zona;
+a) Declaração escrita e identificação de todos os agricultores interessados, incluindo a denominação das suas explorações, respectivas áreas e localização, bem como o comprovativo de que a área total do conjunto das explorações tem a área mínima referida no artigo seguinte;
 
-b) Relação e identificação de todos os agricultores interessados, incluindo a denominação das suas explorações, respectivas áreas e localização, bem como o comprovativo de que a área total do conjunto das explorações tem a área mínima referida no artigo seguinte;
+b) No caso em que os agricultores referidos na alínea anterior não sejam os proprietários das explorações agrícolas, declaração escrita de consentimento destes de que o modo de produção agrícola a praticar não contempla o cultivo de variedades geneticamente modificadas nessa zona;
 
-c) No caso em que os agricultores referidos nas alíneas anteriores não sejam os proprietários das explorações agrícolas, declaração escrita de consentimento destes de que o modo de produção agrícola a praticar não contempla o cultivo de variedades geneticamente modificadas nessa zona.
+c) No caso de uma zona livre de iniciativa municipal que abranja toda a área do município, não é necessária a apresentação dos documentos referidos nas anteriores alíneas a) e b).
+
+> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20.
 
 ###### Artigo 4.º — Área
 
@@ -228,17 +246,19 @@ c) Haja violação às declarações escritas previstas no artigo 3.º, nomeadam
 
 ###### Artigo 12.º — Iniciativa municipal
 
-1 - O estabelecimento de uma zona livre pode ser requerido pelo município à DRA competente.
+1 - O estabelecimento de uma zona livre pode ser requerido pelo órgão executivo do município à DRA competente.
 
-2 - A assembleia municipal, após parecer positivo das estruturas representativas de agricultores, que devem informar os seus representados, delibera o pedido de estabelecimento de zona livre.
+2 - O órgão executivo do município, após parecer positivo das estruturas representativas dos agricultores, que devem informar os seus representados, apresenta o pedido de estabelecimento de zona livre para deliberação da assembleia municipal.
 
-3 - A deliberação sobre o pedido de estabelecimento de zona livre é aprovada por maioria qualificada de dois terços de todos os membros da assembleia municipal.
+3 - A deliberação sobre o pedido de estabelecimento de zona livre é aprovada por maioria absoluta dos votos dos membros presentes na reunião da assembleia municipal.
 
 4 - Caso algum agricultor da área proposta para zona livre declare por escrito a vontade de não participar na mesma, a assembleia municipal fica impedida de prosseguir com o pedido de estabelecimento.
 
-5 - Após a deliberação referida nos n.os 2 e 3, compete à câmara municipal assegurar o cumprimento do procedimento previsto no artigo 3.º
+5 - Após a deliberação referida nos n.os 2 e 3, compete ao órgão executivo do município assegurar o cumprimento do procedimento previsto no artigo 3.º, devendo assegurar a publicitação da intenção de criação da zona livre através de edital, a afixar em todas as juntas de freguesia da área objecto de zona livre, bem como em jornal de maior tiragem na região e na página da Internet do município.
 
-6 - Compete igualmente ao município, nos termos previstos para o estabelecimento, a iniciativa tendente à cessação da zona livre ou renovação do pedido de estabelecimento, nos casos em que a mesma não ocorra automaticamente.
+6 - Compete igualmente ao órgão executivo do município, nos termos previstos para o estabelecimento, a iniciativa tendente à cessação da zona livre ou renovação do pedido de estabelecimento, nos casos em que a mesma não ocorra automaticamente.
+
+> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20.
 
 ###### Artigo 13.º — Fiscalização
 

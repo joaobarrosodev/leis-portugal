@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-03-22'
+version_history:
+  file: decreto-lei-349-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-03-22'
+    amending: pt:dre:197525:por
+    amending_title: Decreto-Lei n.º 63/98
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/349/1997/12/05/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:54:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 63/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-349-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +154,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O valor dos prejuízos deve ser confirmado pelas direcções regionais de agricultura competentes.
 
-3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF, caso a entidade recorra a estas ajudas para recuperação dos danos ocorridos.
+3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados nos termos do número anterior ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF ou do Plano Operacional Intempéries Novembro 97, caso a entidade recorra a uma destas ajudas para recuperação dos danos ocorridos.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 63/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1998-197525), publicado em 1998-03-17.
 
 ###### Artigo 3.º — Forma
 

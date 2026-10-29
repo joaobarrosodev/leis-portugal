@@ -1,0 +1,132 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:611883:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc623c586b4f629b",
+    "9920610320b9ec80",
+    "e664c0e182913720",
+    "8b837dabad7b6ed6",
+    "719aeff728c82c28",
+    "90cdbd3b80e6ef20",
+    "055b8077d98734e2",
+    "16c2f76365cc51f0"
+   ]
+  },
+  {
+   "date": "2005-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241792:por",
+     "title": "Decreto Regulamentar n.º 7/2005",
+     "published": "2005-08-10",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/7-2005-241792"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "dc623c586b4f629b",
+    "9920610320b9ec80",
+    "d71c5cf2112108a1",
+    "8b837dabad7b6ed6",
+    "719aeff728c82c28",
+    "90cdbd3b80e6ef20",
+    "055b8077d98734e2",
+    "16c2f76365cc51f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc623c586b4f629b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro\n\nPelo presente diploma procede-se à alteração da Lei Orgânica do Ministério da Saúde, aprovada pelo [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro, criando-se um órgão central designado por Departamento de Modernização e Recursos da Saúde, em resultado da fusão da Secretaria-Geral e do Departamento de Recursos Humanos (ambos com nível de direcção-geral). Ao mesmo tempo é criado o cargo de alto-comissário da saúde, a exercer, em acumulação, pelo director-geral da Saúde, sem retribuição adicional.\n\nA acumulação de competências do cargo de alto-comissário da saúde com as funções de director-geral da Saúde justifica-se pelas seguintes razões:\n\na) A necessidade de supervisão, coordenação e orientação das administrações regionais de saúde, criadas pela Lei de Bases e Estatuto do Serviço Nacional de Saúde, com estatuto dirigente igual ao do órgão central coordenante, a Direcção-Geral de Saúde;\n\nb) A coordenação de mais de uma dezena de comissões técnicas de alto nível, exigida pelos princípios de horizontalidade das intervenções em saúde;\n\nc) A fusão, realizada ao longo dos últimos anos, das funções centrais das antigas Direcção-Geral dos Hospitais, dos Cuidados de Saúde Primários e do Departamento de Estudos e Planeamento na Direcção-Geral da Saúde, com sensível acréscimo de atribuições e competências e sem o correspondente acréscimo da capacidade de comando.\n\nA presente alteração da Lei Orgânica inscreve-se na dupla preocupação do Ministério da Saúde de, por um lado, racionalizar as estruturas e obviar à sua duplicação e, por outro, de reservar para os serviços centrais a definição e acompanhamento das políticas, descentralizando as intervenções operacionais do Ministério que podem e devem ser prosseguidas descentralizadamente, com os consequentes ganhos de eficiência ao nível do acompanhamento dos diversos assuntos de interesse para as regiões e da tomada da respectiva decisão.\n\nCom a fusão da Secretaria-Geral e do Departamento de Recursos Humanos da Saúde dá-se também execução ao esforço de modernização administrativa e também ao Programa de Redução da Despesa Pública, diminuindo o número de cargos de direcção e chefia, com visível economia de meios financeiros.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9920610320b9ec80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alterações ao [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações ao [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro\n\nOs artigos 5.º e 7.º do [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 5.º\n\nServiços centrais\n\nSão serviços centrais:\n\na) O Departamento de Modernização e Recursos da Saúde;\n\nb) ...\n\nc) ...\n\nd) ...\n\nArtigo 7.º\n\nDepartamento de Modernização e Recursos da Saúde\n\n1 - O Departamento de Modernização e Recursos da Saúde é o serviço central de apoio aos gabinetes dos membros do Governo, de acompanhamento da política de modernização administrativa e sua implementação, de regulamentação e acompanhamento das políticas de recursos humanos ao nível dos serviços centrais e desconcentrados do Ministério e do Serviço Nacional de Saúde.\n\n2 - O Departamento de Modernização e Recursos da Saúde assegura ainda a instrução de todos os actos de impugnação hierárquica ou contenciosa que devam ter intervenção dos membros do Governo.\n\n3 - O Departamento de Modernização e Recursos da Saúde é dirigido por um director-geral, coadjuvado por dois subdirectores-gerais, que exercerão as competências que neles forem delegadas ou subdelegadas.»"
+  },
+  "e664c0e182913720": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alto-comissário da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alto-comissário da saúde\n\n1 - É criado o cargo de alto-comissário da saúde, equiparado, para efeitos remuneratórios, a Subsecretário de Estado.\n\n2 - O cargo de alto-comissário da saúde é exercido, em acumulação, pelo director-geral da Saúde.\n\n3 - Compete, em especial, ao alto-comissário da saúde o seguinte:\n\na) Promover a procura de ganhos em saúde, garantindo a melhor articulação e colaboração dos diversos serviços do Ministério da Saúde;\n\nb) Propor e desenvolver programas estratégicos intersectoriais de saúde e coordenar superiormente o seu desenvolvimento;\n\nc) Orientar, acompanhar e coordenar a actividade das administrações regionais de saúde e das autoridades de saúde de nível regional e concelhio;\n\nd) Coordenar os sistemas de informação que permitam conhecer o nível de saúde das populações e tomar ou propor a adopção das medidas necessárias ao seu bem-estar;\n\ne) Vigiar os locais e estabelecimentos de utilização pública e determinar a adopção de todas as medidas correctivas necessárias;\n\nf) Ordenar a suspensão ou o encerramento de todos os locais de utilização pública que funcionem em condições de grave risco para a saúde pública;\n\ng) Determinar, nos termos da lei, a prestação compulsiva de cuidados de saúde em todas as situações que possam representar risco real ou potencial para a saúde das populações;\n\nh) Requisitar serviços ou estabelecimentos de qualquer natureza e, bem assim, os profissionais de saúde, em caso de epidemias graves ou outras situações semelhantes.\n\n4 - Todos os serviços e organismos da Administração Pública prestam ao alto-comissário da saúde a colaboração por ele solicitada e dão sequência às suas iniciativas.\n\n5 - O apoio logístico e administrativo ao alto-comissário da saúde é assegurado pela Direcção-Geral da Saúde."
+  },
+  "8b837dabad7b6ed6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Lei Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Lei Orgânica\n\nA Lei Orgânica do Departamento de Modernização e Recursos da Saúde deverá entrar em vigor no prazo máximo de 90 dias."
+  },
+  "719aeff728c82c28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissões de serviço\n\nMantêm-se em vigor as comissões de serviço dos dirigentes da Secretaria-Geral e do Departamento de Recursos Humanos da Saúde até à entrada em vigor do diploma orgânico do Departamento de Modernização e Recursos da Saúde, cessando nessa data."
+  },
+  "90cdbd3b80e6ef20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos e obrigações\n\nO património e os direitos e obrigações da Secretaria-Geral e do Departamento de Recursos Humanos da Saúde, incluindo as posições contratuais de que sejam detentores, transmitem-se, independentemente de quaisquer formalidades, para os serviços centrais ou regionais que recebam ou venham a receber as respectivas atribuições e competências."
+  },
+  "055b8077d98734e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Transferência de saldos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transferência de saldos\n\nOs saldos de todas as dotações existentes nos serviços referidos no artigo anterior, à data de entrada em vigor da Lei Orgânica do Departamento de Modernização e Recursos da Saúde, transferem-se automaticamente para o orçamento privativo deste serviço."
+  },
+  "16c2f76365cc51f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\n1 - São revogados:\n\na) A alínea f) do artigo 5.º e o artigo 12.º do [Decreto-Lei n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1993-586004), de 15 de Janeiro;\n\nb) O [Decreto-Lei n.º 296/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1993-325899), de 25 de Agosto;\n\nc) O [Decreto-Lei n.º 96/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2000-300040), de 23 de Maio;\n\nd) O [Decreto-Lei n.º 1-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-b-2000-667939), de 22 de Janeiro;\n\ne) O [Decreto-Lei n.º 16/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2001-313618), de 27 de Janeiro.\n\n2 - A revogação prevista no número anterior só produz efeitos a partir da data de entrada em vigor da Lei Orgânica do Departamento de Modernização e Recursos da Saúde.\n\nVisto e aprovado em Conselho de Ministros de 2 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guillherme d'Oliveira Martins - António Ferreira Correia de Campos - Alexandre António Cantigas Rosa.\n\nPromulgado em 6 de Setembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Setembro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "d71c5cf2112108a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alto-comissário da saúde",
+   "in_force_from": "2005-08-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10."
+   ],
+   "markdown": "###### Artigo 2.º — Alto-comissário da saúde\n\n1 - É criado o cargo de alto-comissário da saúde, equiparado, para efeitos remuneratórios, a Subsecretário de Estado.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10."
+  }
+ }
+}

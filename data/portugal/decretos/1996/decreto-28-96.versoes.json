@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219675:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-09-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c8ed8d74e38dd60d",
+    "0915510e107a72ee",
+    "a83077011b9609b5",
+    "44c970699d17d2e2",
+    "78901db37c46b7fa",
+    "8749d7067c283494",
+    "027d031910085d0c",
+    "13caedff273e442a",
+    "f609777d21d67edf",
+    "189903081a40e2dd",
+    "ca7436e696c4bc2c",
+    "0142b4d74c67c4ce"
+   ]
+  },
+  {
+   "date": "1996-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321498:por",
+     "title": "Declaração de Rectificação n.º 15-B/96",
+     "published": "1996-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-b-1996-321498"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "c8ed8d74e38dd60d",
+    "0915510e107a72ee",
+    "a83077011b9609b5",
+    "44c970699d17d2e2",
+    "78901db37c46b7fa",
+    "8749d7067c283494",
+    "027d031910085d0c",
+    "13caedff273e442a",
+    "f609777d21d67edf",
+    "189903081a40e2dd",
+    "ca7436e696c4bc2c",
+    "c6fee9b21817810c"
+   ]
+  }
+ ],
+ "fragments": {
+  "c8ed8d74e38dd60d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Setembro\n\nNos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0915510e107a72ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Acordo entre a República Portuguesa e a República Tunisina sobre Supressão de Vistos para Titulares de Passaportes Diplomáticos e de Serviço, assinado em Tunis em 31 de Julho de 1995, cujas versões em língua portuguesa, em língua árabe e em língua francesa seguem em anexo."
+  },
+  "a83077011b9609b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO disposto no Acordo referido no artigo anterior não dispensa o cumprimento prévio das formalidades constitucionais exigíveis para vinculação do Estado Português.\n\nVisto e aprovado em Conselho de Ministros de 1 de Agosto de 1996. - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - Alberto Bernardes Costa.\n\nAssinado em 26 de Agosto de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Agosto de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nACORDO DE SUPRESSÃO DE VISTOS PARA TITULARES DE PASSAPORTES DIPLOMÁTICOS E DE SERVIÇO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA TUNISINA.\n\nA República Portuguesa e a República Tunisina (de agora em diante designadas «Partes Contratantes»):\n\nDesejando promover o desenvolvimento de relações amistosas e de cooperação entre os dois países; e\n\nDesejando facilitar a circulação dos seus nacionais titulares de passaportes diplomáticos ou de serviço;\n\nacordam nos termos seguintes:"
+  },
+  "44c970699d17d2e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs nacionais de cada uma das Partes Contratantes que sejam titulares de passaportes diplomáticos ou de serviço válidos podem entrar, transitar, sair ou permanecer no território nacional da outra Parte Contratante, sem necessidade de visto, por um período não superior a 90 dias."
+  },
+  "78901db37c46b7fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA isenção de vistos para os nacionais das Partes Contratantes, titulares de passaportes diplomáticos ou de serviço, não exclui a obrigação de vistos de trabalho, estudo ou residência, sempre que tal resulte das disposições internas de cada Parte Contratante."
+  },
+  "8749d7067c283494": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As Partes Contratantes trocarão entre si espécimes de passaportes diplomáticos e de serviço por via diplomática.\n\n2 - No caso de uma Parte Contratante introduzir alterações nos seus passaportes diplomáticos ou de serviço, esta deverá enviar à outra Parte Contratante espécimes dos novos passaportes, 60 dias antes da sua entrada em circulação."
+  },
+  "027d031910085d0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs nacionais de ambas as Partes Contratantes apenas poderão entrar e sair do território nacional da outra Parte Contratante pelos pontos de passagem devidamente assinalados para a circulação internacional de passageiros."
+  },
+  "13caedff273e442a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão aplicáveis aos titulares de passaportes diplomáticos e de serviço de cada Parte Contratante as obrigações decorrentes da lei e demais disposições internas da outra Parte Contratante, que não sejam contrárias ao presente Acordo."
+  },
+  "f609777d21d67edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - As autoridades competentes de cada Parte Contratante reservam-se o direito de recusar a entrada ou estada aos nacionais, titulares de passaporte diplomático ou de serviço, da outra Parte Contratante, considerados indesejáveis.\n\n2 - Cada Parte Contratante poderá suspender temporariamente o presente Acordo, no todo ou em parte, por razões de ordem pública, ou sanitárias, devendo tal suspensão ser comunicada de imediato à outra Parte Contratante por via diplomática."
+  },
+  "189903081a40e2dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nQuaisquer alterações ao presente Acordo deverão ser concertadas de comum acordo entre ambas as Partes Contratantes e efectuar-se-ão por troca de notas."
+  },
+  "ca7436e696c4bc2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente Acordo entrará em vigor 60 dias após a troca das respectivas notificações."
+  },
+  "0142b4d74c67c4ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente Acordo é concluído por um período de cinco anos, renováveis por recondução tácita, e pode ser denunciado a qualquer momento, desde que cada uma das Partes Contratantes notifique, por via diplomática, a outra da sua intenção de o fazer com pré-aviso de 30 dias.\n\nFeito em Tunis, aos 31 de Julho de 1995, em português, árabe e francês, os três textos fazendo igualmente fé. Em caso de dúvida, prevalecerá o texto em francês.\n\nPela República Portuguesa:\n\nJosé Manuel Durão Barroso.\n\nPela República Tunisina:\n\nHabib Ben y Ahia.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/214a00/32023204.pdf)\n\nACCORD DE SUPPRESSION DE VISA POUR LES DETENTEURS DE PASSEPORTS DIPLOMATIQUES ET DE SERVICE ENTRE LA REPUBLIQUE TUNISIENNE ET LA REPUBLIQUE PORTUGAISE.\n\nLa République Tunisienne et la République Portugaise appelées Parties contractantes desirante promouvoir le développement des relations d'amitié et de coopération entre les deux pays et souhaitant faciliter la circulation de leurs ressortissants détenteurs de passeports diplomatiques e de service ont convenu de ce qui suit:\n\nArticle I\n\nLes ressortissants de chacune des Parties contractantes détenteurs de passeports diplomatiques ou de service em cours de validité peuvent entrer, transiter, sortir et séjourner dans le territoire national de l'autre Partie contractante, sans avoir à remplir des formalités de visa pour des séjours ne dépassant pas quatre-vingt dix jours.\n\nArticle II\n\nLa suppression de visa pour les detenteurs de passeports deplomatiques ou de service, ressortissants des deux Parties contractantes n'éxclut pas leur obligation en ce qui concerne les visas de travail, d'études, de résidence si cela résulte des dispositions internes de chaque Partie contractante.\n\nArticle III\n\n1 - Les Parties contractantes échangeront, par voie diplomatique, les spécimens des passeports diplomatiques et de service.\n\n2 - Au cas où l'une des Parties contractantes introduirait des modifications ou remplacerait les documents sus-mentionnés, elle devra envoyer à l'autre Partie les nouveaux spécimens soixante jours avant leur mise en circulation.\n\nArticle IV\n\nLes ressortissants des deux Parties contractantes ne peuvent entrer et sortir du territoire national de l'autre Partie que par les points de passage dûment signalés pour la circulation internationale de passagers.\n\nArticle V\n\nSont applicables aux ressortissants des deux Parties contractantes munis de passeports diplomatiques ou de service les obligations qui découlent de la loi et des dispositions internes de l'autre Partie contractante qui ne sont pas contraires au présent accord.\n\nArticle VI\n\n1 - Les autorités compétentes de chaque Partie contractante se réservent le droit de refuser l'entrée et le permis de séjour dans leurs pays à tout ressortissant de l'autre Partie muni de passeports diplomatiques et de service.\n\n2 - Les Parties contractantes peuvent suspendre l'accord temporairement, entièrement ou en partie, pour des raisons d'ordre public ou de santé. La décision devra être portée immédiatement à la connaissance de l'autre Partie contractante par la voie diplomatique.\n\nArticle VII\n\nToutes les modifications au présent accord devront être concertées entre les deux Parties contractantes par commun accord et s'effectueront par échange de notes.\n\nArticle VIII\n\nLe présent accord entrera en vigueur soixante jours après l'échange des notifications.\n\nArticle IX\n\nLe présent accord aura une validité de cinq ans renouvelable par tacite reconduction et chaque Partie contractante peut le dénoncer à tout moment à condition d'en aviser l'autre Partie par voie diplomatique avec un préavis de trente jours.\n\nFait a Tunis le 31 juin 1995, en trois exemplaires en langues arabe, portugaise et française. En cas de divergence, le texte en langue française prévaudra.\n\nPour la République Tunisienne:\n\nHabib Ben y Ahia.\n\nPour la République Portugaise:\n\nJosé Manuel Durão Barroso."
+  },
+  "c6fee9b21817810c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1996-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 15-B/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-b-1996-321498), publicado em 1996-10-31."
+   ],
+   "markdown": "###### Artigo 9.º\n\nO presente Acordo é concluído por um período de cinco anos, renováveis por recondução tácita, e pode ser denunciado a qualquer momento, desde que cada uma das Partes Contratantes notifique, por via diplomática, a outra da sua intenção de o fazer com pré-aviso de 30 dias.\n\nFeito em Tunis, aos 31 de Julho de 1995, em português, árabe e francês, os três textos fazendo igualmente fé. Em caso de dúvida, prevalecerá o texto em francês.\n\nPela República Portuguesa:\n\nJosé Manuel Durão Barroso.\n\nPela República Tunisina:\n\nHabib Ben y Ahia.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/214a00/32023204.pdf)\n\nACCORD DE SUPPRESSION DE VISA POUR LES DETENTEURS DE PASSEPORTS DIPLOMATIQUES ET DE SERVICE ENTRE LA REPUBLIQUE TUNISIENNE ET LA REPUBLIQUE PORTUGAISE.\n\nLa République Tunisienne et la République Portugaise appelées Parties contractantes desirante promouvoir le développement des relations d'amitié et de coopération entre les deux pays et souhaitant faciliter la circulation de leurs ressortissants détenteurs de passeports diplomatiques e de service ont convenu de ce qui suit:\n\nArticle I\n\nLes ressortissants de chacune des Parties contractantes détenteurs de passeports diplomatiques ou de service em cours de validité peuvent entrer, transiter, sortir et séjourner dans le territoire national de l'autre Partie contractante, sans avoir à remplir des formalités de visa pour des séjours ne dépassant pas quatre-vingt dix jours.\n\nArticle II\n\nLa suppression de visa pour les detenteurs de passeports deplomatiques ou de service, ressortissants des deux Parties contractantes n'éxclut pas leur obligation en ce qui concerne les visas de travail, d'études, de résidence si cela résulte des dispositions internes de chaque Partie contractante.\n\nArticle III\n\n1 - Les Parties contractantes échangeront, par voie diplomatique, les spécimens des passeports diplomatiques et de service.\n\n2 - Au cas où l'une des Parties contractantes introduirait des modifications ou remplacerait les documents sus-mentionnés, elle devra envoyer à l'autre Partie les nouveaux spécimens soixante jours avant leur mise en circulation.\n\nArticle IV\n\nLes ressortissants des deux Parties contractantes ne peuvent entrer et sortir du territoire national de l'autre Partie que par les points de passage dûment signalés pour la circulation internationale de passagers.\n\nArticle V\n\nSont applicables aux ressortissants des deux Parties contractantes munis de passeports diplomatiques ou de service les obligations qui découlent de la loi et des dispositions internes de l'autre Partie contractante qui ne sont pas contraires au présent accord.\n\nArticle VI\n\n1 - Les autorités compétentes de chaque Partie contractante se réservent le droit de refuser l'entrée et le permis de séjour dans leurs pays à tout ressortissant de l'autre Partie muni de passeports diplomatiques et de service.\n\n2 - Les Parties contractantes peuvent suspendre l'accord temporairement, entièrement ou en partie, pour des raisons d'ordre public ou de santé. La décision devra être portée immédiatement à la connaissance de l'autre Partie contractante par la voie diplomatique.\n\nArticle VII\n\nToutes les modifications au présent accord devront être concertées entre les deux Parties contractantes par commun accord et s'effectueront par échange de notes.\n\nArticle VIII\n\nLe présent accord entrera en vigueur soixante jours après l'échange des notifications.\n\nArticle IX\n\nLe présent accord aura une validité de cinq ans renouvelable par tacite reconduction et chaque Partie contractante peut le dénoncer à tout moment à condition d'en aviser l'autre Partie par voie diplomatique avec un préavis de trente jours.\n\nFait a Tunis le 31 Juillet 1995, en trois exemplaires en langues arabe, portugaise et française. En cas de divergence, le texte en langue française prévaudra.\n\nPour la République Tunisienne:\n\nHabib Ben y Ahia.\n\nPour la République Portugaise:\n\nJosé Manuel Durão Barroso.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 15-B/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-b-1996-321498), publicado em 1996-10-31."
+  }
+ }
+}

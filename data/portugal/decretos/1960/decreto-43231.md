@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-08-25'
+version_history:
+  file: decreto-43231.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-08-25'
+    amending: pt:dre:198681:por
+    amending_title: Decreto n.º 49205
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:20:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 49205. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1960/decreto-43231.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,47 +133,73 @@ Convindo introduzir diversas alterações no [Decreto n.º 37029](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. A matrícula no 1.º ano do curso de topógrafo auxiliar de obras públicas passa a ser facultada a candidatos que, completando 16 anos até ao início do ano escolar, obtenham aprovação no exame de admissão a que se refere a alínea b) do n.º 1 do artigo 87.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+###### Artigo 1.º
+
+1. A matrícula no 1.º ano do curso de topógrafo auxiliar de obras públicas passa a ser facultada a candidatos que, completando 16 anos até ao início do ano escolar, obtenham aprovação no exame de admissão a que se refere a alínea b) do n.º 1 do artigo 87.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
 
 2. Aos alunos que provem ser forçados, pelo exercício da sua actividade profissional, a afastar-se temporàriamente da localidade da escola podem ser relevadas faltas em número superior ao fixado no n.º 1 do artigo 454.º do mesmo diploma, desde que obtenham aproveitamento suficiente em provas especiais de frequência a determinar pelo director da escola, ouvidos os professores interessados.
 
-Art. 2.º Ao exame de admissão a que se refere a parte final do n.º 1 do artigo 230.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, podem também ser submetidos candidatos com habilitações adquiridas no ensino superior ou médio que, para este fim especial, sejam equiparadas, por despacho ministerial, às que, nos termos da legislação vigente, relativamente a cada grupo e grau, conferem direito ao ingresso no estágio.
+###### Artigo 2.º
 
-Art. 3.º Para efeito de discriminação do serviço docente extraordinário a prestar nos termos do artigo 4.º do [Decreto-Lei n.º 42583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42583-1959-430269), de 15 de Outubro de 1959, consideram-se compreendidas nas 24 horas a que a mesma disposição legal se refere as reduções previstas nos artigos 326.º, 327.º, 328.º e 330.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+(Revogado.)
 
-Art. 4.º Os artigos 12.º, 14.º, 31.º, 72.º, 87.º, 114.º, 203.º, 216.º, 233.º, 255.º, 259.º, 280.º, 316.º, 335.º, 370.º, 373.º, 400.º a 402.º, 405.º, 409.º, 436.º, 437.º, 447.º a 449.º, 451.º, 453.º, 454.º, 467.º a 472.º, 474.º, 482.º 484.º 485.º, 487.º, 497.º a 499.º, 505.º, 510.º, 513.º e 566.º do Estatuto do Ensino Profissional Industrial e Comercial passam a ter, no todo ou em parte, segundo para cada um vai indicado, a redacção seguinte:
+> Revogado pelo/a [Decreto n.º 49205](https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681), publicado em 1969-08-25.
 
-Art. 12.º - 1. ...
+###### Artigo 3.º
+
+Para efeito de discriminação do serviço docente extraordinário a prestar nos termos do artigo 4.º do [Decreto-Lei n.º 42583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42583-1959-430269), de 15 de Outubro de 1959, consideram-se compreendidas nas 24 horas a que a mesma disposição legal se refere as reduções previstas nos artigos 326.º, 327.º, 328.º e 330.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+
+###### Artigo 4.º
+
+Os artigos 12.º, 14.º, 31.º, 72.º, 87.º, 114.º, 203.º, 216.º, 233.º, 255.º, 259.º, 280.º, 316.º, 335.º, 370.º, 373.º, 400.º a 402.º, 405.º, 409.º, 436.º, 437.º, 447.º a 449.º, 451.º, 453.º, 454.º, 467.º a 472.º, 474.º, 482.º 484.º 485.º, 487.º, 497.º a 499.º, 505.º, 510.º, 513.º e 566.º do Estatuto do Ensino Profissional Industrial e Comercial passam a ter, no todo ou em parte, segundo para cada um vai indicado, a redacção seguinte:
+
+###### Artigo 12.º
+
+1. ...
 
 ...
 
 3. Podem também matricular-se no 1.º ano do ciclo preparatório os candidatos aprovados no exame de admissão aos liceus, mediante o pagamento da propina adicional de 30$00.
 
-Art. 14.º - 1. ...
+###### Artigo 14.º
+
+1. ...
 
 2. Expirado este prazo, a admissão poderá ser autorizada pelo director da escola, até ao dia 10 de Julho, mediante o pagamento, em estampilhas fiscais, da multa de 50$00, e, depois dessa data, até à véspera do início dos exames, mediante o pagamento da multa de 100$00, também em estampilhas fiscais.
 
-Art. 31.º - 1. A elaboração dos pontos para as provas escritas será confiada a três professores propostos anualmente ao director-geral pela Inspecção do Ensino Técnico Profissional.
+###### Artigo 31.º
+
+1. A elaboração dos pontos para as provas escritas será confiada a três professores propostos anualmente ao director-geral pela Inspecção do Ensino Técnico Profissional.
 
 ...
 
-Art. 72.º - 1. ...
+###### Artigo 72.º
+
+1. ...
 
 2. Para efeito de matrícula nos cursos comerciais ou nos industriais que não compreendam a disciplina de Desenho, são dispensados do exame de transição os candidatos aprovados no exame do 1.º ciclo dos liceus sem deficiência manifesta, respectivamente, em Língua e História Pátria e Matemática ou em Matemática.
 
-Art. 87.º - 1. ...
+###### Artigo 87.º
+
+1. ...
 
 É de 100$00 a propina do exame de admissão previsto na alínea b) do número anterior e pode ser organizado nas escolas, em regime de aperfeiçoamento, o ensino das disciplinas sobre que verse.
 
 ...
 
-Art. 114.º - 1. ...
+###### Artigo 114.º
+
+1. ...
 
 2. Os professores delegados são escolhidos de entre os professores dos quadros, mas, na sua falta, podem ser designados outros professores que tenham prestado, pelo menos, dois anos de serviço.
 
-Art. 203.º Não podem ser providos nos lugares de professores efectivos, adjuntos, auxiliares ou contratados os candidatos a cujo serviço tenha sido atribuída a classificação de deficiente num dos dois anos escolares imediatamente anteriores.
+###### Artigo 203.º
 
-Art. 216.º - 1. ...
+Não podem ser providos nos lugares de professores efectivos, adjuntos, auxiliares ou contratados os candidatos a cujo serviço tenha sido atribuída a classificação de deficiente num dos dois anos escolares imediatamente anteriores.
+
+###### Artigo 216.º
+
+1. ...
 
 ...
 
@@ -166,23 +207,33 @@ Art. 216.º - 1. ...
 
 ...
 
-Art. 233.º - 1. A inspecção médica dos candidatos fica a cargo de uma junta de três médicos escolares, designados pelo director-geral da Educação Física, Desportos e Saúde Escolar, cabendo ao director-geral do Ensino Técnico Profissional, com o acordo daquele, fixar a data da sua realização.
+###### Artigo 233.º
+
+1. A inspecção médica dos candidatos fica a cargo de uma junta de três médicos escolares, designados pelo director-geral da Educação Física, Desportos e Saúde Escolar, cabendo ao director-geral do Ensino Técnico Profissional, com o acordo daquele, fixar a data da sua realização.
 
 2. Quando as provas do exame de admissão sejam prestadas em mais de uma localidade, poderá constituir-se mais de uma junta médica.
 
 ...
 
-Art. 255.º - 1. A matrícula no 1.º ano realiza-se na secretaria da escola onde funcionem os serviços do estágio do respectivo grupo e grau até ao dia 15 de Setembro, cumprindo aos candidatos mencionar nos requerimentos o Diário do Governo em que foi publicada a classificação do exame de admissão.
+###### Artigo 255.º
+
+1. A matrícula no 1.º ano realiza-se na secretaria da escola onde funcionem os serviços do estágio do respectivo grupo e grau até ao dia 15 de Setembro, cumprindo aos candidatos mencionar nos requerimentos o Diário do Governo em que foi publicada a classificação do exame de admissão.
 
 ...
 
-Art. 259.º A partir do dia 20 de Setembro os candidatos matriculados ficam à disposição dos directores das escolas, iniciando-se os trabalhos de estágio na data por estes fixada.
+###### Artigo 259.º
 
-Art. 280.º - 1. Aplicam-se aos Exames de Estado os artigos 244.º a 246.º e artigo 250.º
+A partir do dia 20 de Setembro os candidatos matriculados ficam à disposição dos directores das escolas, iniciando-se os trabalhos de estágio na data por estes fixada.
+
+###### Artigo 280.º
+
+1. Aplicam-se aos Exames de Estado os artigos 244.º a 246.º e artigo 250.º
 
 ...
 
-Art. 316.º - 1. ...
+###### Artigo 316.º
+
+1. ...
 
 ...
 
@@ -190,17 +241,23 @@ Art. 316.º - 1. ...
 
 ...
 
-Art. 335.º - 1 O serviço prestado pelos professores e mestres é classificado de Bom, Suficiente ou Deficiente.
+###### Artigo 335.º
+
+1 O serviço prestado pelos professores e mestres é classificado de Bom, Suficiente ou Deficiente.
 
 ...
 
-Art. 370.º - 1. ...
+###### Artigo 370.º
+
+1. ...
 
 ...
 
 8. Os processos individuais dos candidatos que se inscrevam em escola diferente da que anteriormente hajam frequentado podem, a requerimento dos interessados, ser transferidos para aquela em que pretendam matricular-se, ficando dispensada a apresentação dos documentos existentes nos processos.
 
-Art. 373.º - 1. ...
+###### Artigo 373.º
+
+1. ...
 
 ...
 
@@ -208,13 +265,19 @@ Art. 373.º - 1. ...
 
 ...
 
-Art. 400.º As propinas de frequência dos alunos que, por falta de assiduidade ou de aproveitamento, tiverem de repetir a matrícula, por mais de uma vez, em qualquer ano, disciplina ou trabalho, são acrescidas de 50 por cento do respectivo custo.
+###### Artigo 400.º
 
-Art. 401.º - 1. As propinas são pagas em estampilhas fiscais, salvo nas escolas a cargo das juntas autónomas das ilhas adjacentes ou das câmaras municipais, onde o pagamento é feito em dinheiro, entrando nos respectivos cofres por meio de guias.
+As propinas de frequência dos alunos que, por falta de assiduidade ou de aproveitamento, tiverem de repetir a matrícula, por mais de uma vez, em qualquer ano, disciplina ou trabalho, são acrescidas de 50 por cento do respectivo custo.
+
+###### Artigo 401.º
+
+1. As propinas são pagas em estampilhas fiscais, salvo nas escolas a cargo das juntas autónomas das ilhas adjacentes ou das câmaras municipais, onde o pagamento é feito em dinheiro, entrando nos respectivos cofres por meio de guias.
 
 ...
 
-Art. 402.º - 1. Os alunos que nos prazos prescritos não paguem qualquer prestação das propinas ficarão imediatamente impedidos de frequentar a escola ou as disciplinas a que respeitar a falta de pagamento, cumprindo às secretarias apresentar aos directores relação desses alunos no dia seguinte ao termo de cada prazo.
+###### Artigo 402.º
+
+1. Os alunos que nos prazos prescritos não paguem qualquer prestação das propinas ficarão imediatamente impedidos de frequentar a escola ou as disciplinas a que respeitar a falta de pagamento, cumprindo às secretarias apresentar aos directores relação desses alunos no dia seguinte ao termo de cada prazo.
 
 2. Serão marcadas faltas aos alunos suspensos nos termos do número anterior e os mesmos podem ser readmitidos à frequência logo que façam o pagamento da prestação em débito, caso o número de faltas dadas não exceda o limite fixado no artigo 454.º
 
@@ -222,7 +285,9 @@ Art. 402.º - 1. Os alunos que nos prazos prescritos não paguem qualquer presta
 
 ...
 
-Art. 405.º - 1. ...
+###### Artigo 405.º
+
+1. ...
 
 ...
 
@@ -230,23 +295,35 @@ Art. 405.º - 1. ...
 
 ...
 
-Art. 409.º - 1. As isenções só podem ser concedidas aos alunos que, além de não disporem de recursos considerados suficientes pelos conselhos escolares ou, na falta destes, pelos directores das escolas, tenham obtido aproveitamento suficiente no ano anterior para passar ao seguinte, ou, tratando-se de candidatos que frequentem o ensino de aperfeiçoamento, tenham sido aprovados na maioria das disciplinas em que se hajam matriculado.
+###### Artigo 409.º
+
+1. As isenções só podem ser concedidas aos alunos que, além de não disporem de recursos considerados suficientes pelos conselhos escolares ou, na falta destes, pelos directores das escolas, tenham obtido aproveitamento suficiente no ano anterior para passar ao seguinte, ou, tratando-se de candidatos que frequentem o ensino de aperfeiçoamento, tenham sido aprovados na maioria das disciplinas em que se hajam matriculado.
 
 ...
 
-Art. 436.º Serão dispensados da frequência da disciplina de Religião e Moral os alunos cujos pais declararem pretender que eles não sejam educados segundo a religião católica.
+###### Artigo 436.º
 
-Art. 437.º Por motivos de saúde podem os directores das escolas, mediante proposta do médico escolar e parecer favorável da secção disciplinar, dispensar os alunos das sessões de Educação Física e de Canto Coral ou dos exercícios físicos integrados nas actividades da Mocidade Portuguesa.
+Serão dispensados da frequência da disciplina de Religião e Moral os alunos cujos pais declararem pretender que eles não sejam educados segundo a religião católica.
+
+###### Artigo 437.º
+
+Por motivos de saúde podem os directores das escolas, mediante proposta do médico escolar e parecer favorável da secção disciplinar, dispensar os alunos das sessões de Educação Física e de Canto Coral ou dos exercícios físicos integrados nas actividades da Mocidade Portuguesa.
 
 ...
 
-Art. 447.º - 1. As classificações periódicas e finais das disciplinas do ensino de aperfeiçoamento e dos cursos de mestrança serão, nos dois dias imediatos ao fim de cada período ou semestre, enviadas à secretaria pelos professores e mestres, podendo, porém, o director da escola, quando o considerar conveniente, determinar que o apuramento dessas classificações seja feito nos termos do n.º 1 do artigo 443.º
+###### Artigo 447.º
+
+1. As classificações periódicas e finais das disciplinas do ensino de aperfeiçoamento e dos cursos de mestrança serão, nos dois dias imediatos ao fim de cada período ou semestre, enviadas à secretaria pelos professores e mestres, podendo, porém, o director da escola, quando o considerar conveniente, determinar que o apuramento dessas classificações seja feito nos termos do n.º 1 do artigo 443.º
 
 ...
 
-Art. 448.º Os mapas das classificações periódicas e finais serão afixados no átrio da escola, cumprindo à secretaria proceder ao seu registo nos processos individuais dos alunos.
+###### Artigo 448.º
 
-Art. 449.º - 1. ...
+Os mapas das classificações periódicas e finais serão afixados no átrio da escola, cumprindo à secretaria proceder ao seu registo nos processos individuais dos alunos.
+
+###### Artigo 449.º
+
+1. ...
 
 ...
 
@@ -254,21 +331,29 @@ Art. 449.º - 1. ...
 
 ...
 
-Art. 451.º - 1. ...
+###### Artigo 451.º
+
+1. ...
 
 2. As faltas dadas pelos alunos menores de 16 anos serão mensalmente comunicadas pelos professores e mestres, coadjuvados pela secretaria, aos encarregados de educação ou, tratando-se de alunos do ensino primário de aprendizagem, às entidades patronais.
 
 ...
 
-Art. 453.º É dever do aluno ou do seu encarregado da educação justificar, por escrito, no prazo estabelecido pelo director da escola, todas as faltas que seja forçado a dar.
+###### Artigo 453.º
 
-Art. 454.º - 1. No fim de cada período escolar os directores das escolas ou os conselhos de turma, segundo o caso, podem, a requerimento dos interessados, revelar as faltas dadas pelos alunos a qualquer disciplina, trabalho ou actividades até ao limite que corresponda, em cada ano lectivo, a três vezes o número de aulas ou sessões que lhe sejam semanalmente atribuídas desde que essas faltas se encontrem devidamente justificadas e o aluno tenha aproveitamento suficiente.
+É dever do aluno ou do seu encarregado da educação justificar, por escrito, no prazo estabelecido pelo director da escola, todas as faltas que seja forçado a dar.
+
+###### Artigo 454.º
+
+1. No fim de cada período escolar os directores das escolas ou os conselhos de turma, segundo o caso, podem, a requerimento dos interessados, revelar as faltas dadas pelos alunos a qualquer disciplina, trabalho ou actividades até ao limite que corresponda, em cada ano lectivo, a três vezes o número de aulas ou sessões que lhe sejam semanalmente atribuídas desde que essas faltas se encontrem devidamente justificadas e o aluno tenha aproveitamento suficiente.
 
 2. Perde o direito à frequência o aluno que der em qualquer disciplina, trabalho ou actividade um número de faltas não relevadas que ultrapasse o triplo do número de aulas ou sessões que lhe sejam semanalmente atribuídas.
 
 3. Quando as faltas sejam motivadas por acidente de trabalho, verificado nos termos previstos no artigo 566.º, pode ser autorizada a relevação de um número de faltas superior ao fixado no n.º 1.
 
-Art. 467.º - 1. ...
+###### Artigo 467.º
+
+1. ...
 
 2. Nas escolas onde uma ou mais oficinas funcionem em regime de produção útil será organizado um fundo privativo das oficinas, constituído pelas verbas orçamentais destinadas a matérias-primas e força motriz, pelas receitas previstas nos artigos 469.º e 470.º e ainda por quaisquer comparticipações ou donativos que lhe sejam destinados.
 
@@ -276,7 +361,9 @@ Art. 467.º - 1. ...
 
 ...
 
-Art. 468.º - 1. Para cada obra a executar em regime de produção útil será elaborado orçamento do qual constem os seguintes encargos, ou, de entre esses, os que devam ser considerados, calculados segundo normas a fixar, com a cooperação dos mestres, pelo director da oficina:
+###### Artigo 468.º
+
+1. Para cada obra a executar em regime de produção útil será elaborado orçamento do qual constem os seguintes encargos, ou, de entre esses, os que devam ser considerados, calculados segundo normas a fixar, com a cooperação dos mestres, pelo director da oficina:
 
 a) Matérias-primas;
 
@@ -300,7 +387,9 @@ c) Trabalho dos mestres e contramestres.
 
 3. A execução dos trabalhos será acompanhada pelo respectivo registo na conta da obra.
 
-Art. 469.º - 1. As encomendas executadas serão pagas ao conselho administrativo, no acto da entrega, pelo preço do custo, calculado nos termos do n.º 1 do artigo anterior, deduzindo-se a importância correspondente às matérias-primas entregues ou pagas pela entidade que fez a encomenda.
+###### Artigo 469.º
+
+1. As encomendas executadas serão pagas ao conselho administrativo, no acto da entrega, pelo preço do custo, calculado nos termos do n.º 1 do artigo anterior, deduzindo-se a importância correspondente às matérias-primas entregues ou pagas pela entidade que fez a encomenda.
 
 2. Os encargos a que se refere o n.º 2 do artigo anterior serão satisfeitos em face do apuramento constante da conta de obra e as importâncias relativas às diversas alíneas terão o destino próprio.
 
@@ -308,13 +397,19 @@ Art. 469.º - 1. As encomendas executadas serão pagas ao conselho administrativ
 
 4. Os pagamentos a que se referem os n.os 2 e 3 serão feitos na secretaria, mediante folhas organizadas nas oficinas e visadas por, pelo menos, um dos membros do conselho administrativo.
 
-Art. 470.º As obras executadas em regime de produção útil, não destinadas à satisfação de encomendas ou das necessidades de equipamento da escola, poderão ser vendidas pelo preço do custo, determinado pela respectiva conta, dando-se à receita assim obtida o destino estabelecido no artigo anterior.
+###### Artigo 470.º
 
-Art. 471.º - 1. As receitas do fundo privativo das oficinas cujo destino não fica expressamente consignado nos artigos anteriores serão aplicadas no pagamento de força motriz, na aquisição de matérias-primas, de móveis e utensílios, na preparação do equipamento oficial e noutras aquisições susceptíveis de contribuir para a maior eficiência do ensino.
+As obras executadas em regime de produção útil, não destinadas à satisfação de encomendas ou das necessidades de equipamento da escola, poderão ser vendidas pelo preço do custo, determinado pela respectiva conta, dando-se à receita assim obtida o destino estabelecido no artigo anterior.
+
+###### Artigo 471.º
+
+1. As receitas do fundo privativo das oficinas cujo destino não fica expressamente consignado nos artigos anteriores serão aplicadas no pagamento de força motriz, na aquisição de matérias-primas, de móveis e utensílios, na preparação do equipamento oficial e noutras aquisições susceptíveis de contribuir para a maior eficiência do ensino.
 
 2. Nas escolas em que haja mais de uma oficina em regime de produção útil a aplicação prevista no número anterior será feita depois de ouvidos os professores que tenham a seu cargo a respectiva orientação.
 
-Art. 472.º - 1. As contas de obras dos trabalhos executados em regime de produção útil são obrigatòriamente arquivadas durante, pelo menos, cinco anos.
+###### Artigo 472.º
+
+1. As contas de obras dos trabalhos executados em regime de produção útil são obrigatòriamente arquivadas durante, pelo menos, cinco anos.
 
 2. Relativamente a cada oficina, haverá, também obrigatòriamente, um inventário das máquinas, acessórios e aparelhos e os seguintes elementos de registo:
 
@@ -326,11 +421,15 @@ c) Dos trabalhos úteis executados pelos alunos.
 
 ...
 
-Art. 474.º A orientação e fiscalização do trabalho oficinal e a organização dos programas de aprendizagem, quando estes não se encontrem superiormente fixados, competem ao director do curso, coadjuvado pelo conselho do curso, ou, na falta destes, ao director da escola ou delegado seu, designado nos termos do artigo 114.º, com a cooperação dos professores e mestres que tenham a seu cargo o ensino das matérias relacionadas com a oficina.
+###### Artigo 474.º
+
+A orientação e fiscalização do trabalho oficinal e a organização dos programas de aprendizagem, quando estes não se encontrem superiormente fixados, competem ao director do curso, coadjuvado pelo conselho do curso, ou, na falta destes, ao director da escola ou delegado seu, designado nos termos do artigo 114.º, com a cooperação dos professores e mestres que tenham a seu cargo o ensino das matérias relacionadas com a oficina.
 
 ...
 
-Art. 482.º - 1. ...
+###### Artigo 482.º
+
+1. ...
 
 ...
 
@@ -338,23 +437,33 @@ Art. 482.º - 1. ...
 
 ...
 
-Art. 484.º - 1. Os alunos dos cursos mencionados no n.º 1 do artigo 482.º que nas escolas oficiais obtenham a classificação mínima de 14 valores no último ano de frequência de qualquer trabalho desses cursos e sejam aprovados na frequência simultânea dos demais, pertencentes ao mesmo ano, são dispensados do respectivo exame final, se assim o requererem e pagarem a propina que for devida.
+###### Artigo 484.º
+
+1. Os alunos dos cursos mencionados no n.º 1 do artigo 482.º que nas escolas oficiais obtenham a classificação mínima de 14 valores no último ano de frequência de qualquer trabalho desses cursos e sejam aprovados na frequência simultânea dos demais, pertencentes ao mesmo ano, são dispensados do respectivo exame final, se assim o requererem e pagarem a propina que for devida.
 
 ...
 
-Art. 485.º - 1. Os exames dos alunos do ensino particular e dos candidatos dispensados de matrícula são requeridos de 5 a 15 de Julho.
+###### Artigo 485.º
+
+1. Os exames dos alunos do ensino particular e dos candidatos dispensados de matrícula são requeridos de 5 a 15 de Julho.
 
 ...
 
-Art. 487.º - Aos candidatos que não tenham requerido no prazo legal ou não tenham pago as propinas nos prazos a que se refere o n.º 1 do artigo 486.º pode ser autorizada a admissão a exame até 24 horas antes do início das provas, mediante o pagamento da propina especial de 100$00.
+###### Artigo 487.º
+
+Aos candidatos que não tenham requerido no prazo legal ou não tenham pago as propinas nos prazos a que se refere o n.º 1 do artigo 486.º pode ser autorizada a admissão a exame até 24 horas antes do início das provas, mediante o pagamento da propina especial de 100$00.
 
 ...
 
-Art. 497.º - 1. Os candidatos que, por motivo justificado, faltarem a qualquer prova de exame que não seja de transição, de aptidão profissional ou prestado nos termos do n.º 6 do artigo 482.º têm direito a realizá-la em segunda chamada, desde que o requeiram no prazo de 48 horas sobre o momento em que faltaram e paguem a propina especial de 50$00 por cada disciplina, ou, tratando-se do ciclo preparatório, de 100$00.
+###### Artigo 497.º
+
+1. Os candidatos que, por motivo justificado, faltarem a qualquer prova de exame que não seja de transição, de aptidão profissional ou prestado nos termos do n.º 6 do artigo 482.º têm direito a realizá-la em segunda chamada, desde que o requeiram no prazo de 48 horas sobre o momento em que faltaram e paguem a propina especial de 50$00 por cada disciplina, ou, tratando-se do ciclo preparatório, de 100$00.
 
 ...
 
-Art. 498.º - 1. ...
+###### Artigo 498.º
+
+1. ...
 
 ...
 
@@ -366,17 +475,23 @@ d) Há sòmente prova oral nas disciplinas de Geografia, História e Regulamenta
 
 3. Haverá exame final em cada uma das partes das disciplinas múltiplas sempre que, nos planos dos cursos, a cada parte sejam atribuídos tempos de ensino próprios.
 
-Art. 499.º - 1. A elaboração dos pontos para as provas escritas pode ser confiada a professores, anualmente propostos ao director-geral pelos inspectores, tendo os professores designados direito à gratificação a que se refere o n.º 2 do artigo 31.º
+###### Artigo 499.º
+
+1. A elaboração dos pontos para as provas escritas pode ser confiada a professores, anualmente propostos ao director-geral pelos inspectores, tendo os professores designados direito à gratificação a que se refere o n.º 2 do artigo 31.º
 
 ...
 
-Art. 505.º - 1. ...
+###### Artigo 505.º
+
+1. ...
 
 2. Os examinandos não abrangidos pelo disposto no número anterior que obtenham na prova escrita classificação inferior a 14 valores são submetidos à prova oral. Os restantes são dados como aprovados, salvo se requererem a prestação da prova oral dentro das vinte e quatro horas que se seguirem à publicação dos resultados das provas escritas.
 
 ...
 
-Art. 510.º - 1. ...
+###### Artigo 510.º
+
+1. ...
 
 2. As provas de cada exame serão estabelecidas de acordo com a doutrina genèricamente fixada por despacho ministerial, sob parecer da 5.ª secção da Junta Nacional da Educação, e versam sobre as matérias do curso profissional em que o candidato se propõe ingressar não compreendidas nos exames que anteriormente tenha realizado ou cujo estudo obedeça a programas diferentes.
 
@@ -386,7 +501,9 @@ Art. 510.º - 1. ...
 
 ...
 
-Art. 513.º - 1. O exame de aptidão profissional, quer no ensino de formação, quer no ensino complementar de aprendizagem, consta:
+###### Artigo 513.º
+
+1. O exame de aptidão profissional, quer no ensino de formação, quer no ensino complementar de aprendizagem, consta:
 
 a) Nos cursos industriais, de prova de desenho, acompanhada de orçamento sucinto que obrigue à realização de cálculos profissionais, e de provas oficinais, salvo nos casos seguintes:
 
@@ -416,7 +533,9 @@ c) No curso de estenodactilógrafo, de prova de estenografia, em português, com
 
 ...
 
-Art. 566.º - 1. ...
+###### Artigo 566.º
+
+1. ...
 
 ...
 

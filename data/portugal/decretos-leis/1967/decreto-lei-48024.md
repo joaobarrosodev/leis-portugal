@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-09-07'
+version_history:
+  file: decreto-lei-48024.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-07'
+    amending: pt:dre:474734:por
+    amending_title: Decreto-Lei n.º 415/74
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:03:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 415/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48024.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,13 +125,21 @@ A experiência tem demonstrado que algumas disposições do [Decreto-Lei n.º 35
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os mancebos maiores de 16 anos ainda não recenseados ou incorporados em qualquer dos ramos das forças armadas carecem de licença, passada pelos órgãos de recrutamento militar, para se ausentarem para o estrangeiro, a título temporário ou definitivo, ou para embarcarem como tripulantes a bordo de navios ou aeronaves nacionais.
+###### Artigo 1.º
 
-Art. 2.º É reduzido para três meses o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 415/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1974-474734), publicado em 1974-09-07.
+
+###### Artigo 2.º
+
+É reduzido para três meses o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.
 
 § único. O prazo de três meses a que se refere o corpo do artigo pode, excepcionalmente, ser prorrogado por igual período de tempo, mediante despacho do Ministro do Exército.
 
-Art. 3.º Para efeitos de aplicação do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946, apenas se podem considerar habitualmente residentes no estrangeiro os indivíduos que transpuserem a fronteira e se fixarem noutro país munidos de passaporte que a tal os habilite.
+###### Artigo 3.º
+
+Para efeitos de aplicação do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946, apenas se podem considerar habitualmente residentes no estrangeiro os indivíduos que transpuserem a fronteira e se fixarem noutro país munidos de passaporte que a tal os habilite.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-09-01'
+version_history:
+  file: decreto-lei-80-a-2023.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2023-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-09-01'
+    amending: pt:dre:1166155908:por
+    amending_title: Decreto-Lei n.º 175/2026
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/80-a/2023/09/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:47:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 175/2026. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2023/decreto-lei-80-a-2023.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +189,13 @@ a) Licenciatura em Educação Básica, para os grupos de recrutamento identifica
 
 b) Qualificação de nível vi, ou equivalente, que constitua requisito de acesso ao 2.º ciclo de estudos, nos termos previstos no n.º 1 do artigo 17.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, desde que o candidato tenha obtido, quer no quadro dessa qualificação, quer em outros ciclos de estudos do ensino superior, os requisitos de formação fixados para os respetivos grupos de recrutamento constantes do anexo ao presente decreto-lei.
 
-2 - Quando nenhum dos candidatos reúna os requisitos previstos no número anterior, os agrupamentos de escolas ou escolas não agrupadas podem proceder à contratação de candidatos titulares de licenciatura, desde que disponham de 120 créditos obtidos na área científica correspondente à disciplina a lecionar.
+2 - Quando nenhum dos candidatos reúna os requisitos previstos no número anterior, os agrupamentos de escolas ou escolas não agrupadas podem proceder à contratação de candidatos titulares do grau de licenciado que preencham uma das seguintes condições:
+
+a) A licenciatura seja em área científica correspondente à disciplina a lecionar;
+
+b) Comprovem a obtenção de, pelo menos, 120 créditos ECTS na área científica correspondente à disciplina a lecionar.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 175/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2026-1166155908), publicado em 2026-09-03.
 
 ###### Artigo 3.º — Acompanhamento e formação
 

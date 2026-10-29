@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:190576:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b707b6d4bc055c35",
+    "4db466136a34878b",
+    "311d3d618ea9bc20",
+    "3e069b150cbbafc4",
+    "55351ad2b86abdca",
+    "0c306aaa6434a826",
+    "c7de85b2738f9ab9"
+   ]
+  },
+  {
+   "date": "2014-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66022084:por",
+     "title": "Lei n.º 82-D/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-d-2014-66022084"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b707b6d4bc055c35",
+    "4db466136a34878b",
+    "1a33482972ba7366",
+    "3e069b150cbbafc4",
+    "55351ad2b86abdca",
+    "0c306aaa6434a826",
+    "c7de85b2738f9ab9"
+   ]
+  }
+ ],
+ "fragments": {
+  "b707b6d4bc055c35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de dezembro\n\nAprova benefícios fiscais à utilização das terras agrícolas, florestais e silvopastoris e à dinamização da «Bolsa de terras»\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "4db466136a34878b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova benefícios fiscais à utilização das terras agrícolas, florestais e silvopastoris e à dinamização da bolsa de terras.\n\n2 - A presente lei estabelece ainda reduções emolumentares destinadas a dinamizar a bolsa de terras, alterando o Regulamento Emolumentar dos Registos e Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro."
+  },
+  "311d3d618ea9bc20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Prédios rústicos e mistos com utilização agrícola, florestal ou silvopastoril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prédios rústicos e mistos com utilização agrícola, florestal ou silvopastoril\n\n1 - Para os prédios rústicos ou mistos, na parte rústica, que estejam a ser utilizados para fins agrícolas, florestais ou silvopastoris, a taxa prevista na alínea a) do n.º 1 do artigo 112.º do Código do Imposto Municipal sobre Imóveis é obrigatoriamente reduzida entre 50 % e 100 %.\n\n2 - O benefício fiscal a que se refere o número anterior é reconhecido anualmente pelo chefe do serviço de finanças da área da situação do prédio, mediante a apresentação de requerimento no referido serviço, acompanhado de documento comprovativo da utilização agrícola, florestal ou silvopastoril do prédio referente ao ano anterior.\n\n3 - O modelo e prazo de entrega do requerimento, bem como a entidade emitente do documento comprovativo do tipo de utilização do prédio são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e das florestas."
+  },
+  "3e069b150cbbafc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Prédios rústicos e mistos disponibilizados na bolsa de terras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prédios rústicos e mistos disponibilizados na bolsa de terras\n\n1 - Para os prédios rústicos ou mistos, na parte rústica, que sejam disponibilizados na bolsa de terras nos termos da lei que cria a «Bolsa de terras», a taxa prevista na alínea a) do n.º 1 do artigo 112.º do Código do Imposto Municipal sobre Imóveis é obrigatoriamente reduzida entre 50 % e 100 %.\n\n2 - O benefício fiscal a que se refere o número anterior é de carácter automático, operando mediante comunicação anual da disponibilização do prédio na bolsa de terras por referência a 31 de dezembro, a efetuar pela entidade gestora da bolsa de terras à Autoridade Tributária e Aduaneira até ao final do mês de fevereiro de cada ano.\n\n3 - O benefício fiscal a que se refere o n.º 1 extingue-se logo que:\n\na) O prédio seja retirado da bolsa de terras;\n\nb) O proprietário rejeite oferta de cedência de montante igual ou superior ao valor patrimonial tributário do prédio, em caso de venda, ou de montante igual ou superior a 1/15 do valor patrimonial tributário, em caso de arrendamento.\n\n4 - A extinção do benefício fiscal implica o pagamento da diferença entre a taxa prevista na alínea a) do n.º 1 do artigo 112.º do Código do Imposto Municipal sobre Imóveis e a taxa reduzida aplicada durante o período de disponibilização do prédio na bolsa de terras, com o limite de três anos, salvo se o sujeito passivo demonstrar que a causa de extinção do benefício decorre da utilização do prédio para os fins previstos no n.º 1 do artigo anterior."
+  },
+  "55351ad2b86abdca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Fixação dos benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação dos benefícios fiscais\n\n1 - Para efeitos do disposto nos artigos anteriores, os municípios, mediante deliberação da assembleia municipal e sob proposta da respetiva assembleia de freguesia, fixam anualmente a percentagem da redução a aplicar.\n\n2 - A percentagem da redução prevista nos artigos anteriores é única e igual dentro da mesma freguesia.\n\n3 - A deliberação da assembleia municipal referida no n.º 1 é comunicada à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, para vigorar no ano seguinte, aplicando-se a redução de 50 % caso a comunicação não seja recebida até 30 de novembro."
+  },
+  "0c306aaa6434a826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Alteração ao [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro\n\nO artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro, alterado pelos Decretos-Leis n.os [315/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2002-404747), de 27 de dezembro, [194/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966), de 23 de agosto, [53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, [199/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2004-480709), de 18 de agosto, [111/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2005-235906), de 8 de julho, [178-A/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-2005-404371), de 28 de outubro, [76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), de 29 de março, [85/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2006-633290), de 23 de maio, [125/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2006-356373), de 29 de junho, [237-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-2006-216911), 14 de dezembro, [8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de janeiro, e [263-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-a-2007-499204), de 23 de julho, pela [Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), de 24 de agosto, e pelos Decretos-Leis n.os [324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), de 28 de setembro, [20/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2008-248220), de 31 de janeiro, [73/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2008-249803), de 16 de abril, [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, [247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), de 30 de dezembro, [122/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), de 21 de maio, [185/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2009-493506), 12 de agosto, e [99/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272), de 2 de setembro, passa a ter a seguinte redação:\n\n«Artigo 28.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...\n\n17 - ...\n\n18 - ...\n\n19 - ...\n\n20 - ...\n\n21 - ...\n\n22 - ...\n\n23 - ...\n\n24 - ...\n\n25 - ...\n\n26 - ...\n\n27 - ...\n\n28 - ...\n\n29 - ...\n\n30 - ...\n\n31 - ...\n\n32 - ...\n\n33 - ...\n\n34 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédio rústico ou misto a disponibilizar, ou disponibilizado, na bolsa de terras a que se refere a lei que cria a bolsa nacional de terras para utilização agrícola, florestal ou silvopastoril, designada por 'Bolsa de terras' e relacionados com a finalidade dessa disponibilização, são reduzidos em 75 %.»"
+  },
+  "c7de85b2738f9ab9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO disposto nos artigos 2.º a 4.º da presente lei produz efeitos:\n\na) Após a cessação da vigência do Programa de Assistência Económica e Financeira a Portugal celebrado com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu; e\n\nb) Após a avaliação geral dos prédios rústicos prevista no artigo 16.º do Código do Imposto Municipal sobre Imóveis.\n\nAprovada em 12 de outubro de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 28 de novembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 29 de novembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1a33482972ba7366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Prédios rústicos e mistos com utilização agrícola, florestal ou silvopastoril",
+   "in_force_from": "2014-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 82-D/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), publicado em 2014-12-31."
+   ],
+   "markdown": "###### Artigo 2.º — Prédios rústicos e mistos com utilização agrícola, florestal ou silvopastoril\n\n1 - Para os prédios rústicos ou mistos, na parte rústica, que estejam a ser utilizados para fins agrícolas, florestais ou silvopastoris e que se encontrem inscritos no cadastro predial, a taxa prevista na alínea a) do n.º 1 do artigo 112.º do Código do Imposto Municipal sobre Imóveis é obrigatoriamente reduzida entre 50 % e 100 %.\n\n2 - O benefício fiscal a que se refere o número anterior é reconhecido anualmente pelo chefe do serviço de finanças da área da situação do prédio, mediante a apresentação de requerimento no referido serviço, acompanhado de documento comprovativo da utilização agrícola, florestal ou silvopastoril do prédio referente ao ano anterior e da inscrição do prédio no cadastro predial.\n\n3 - O modelo e prazo de entrega do requerimento, bem como a entidade emitente do documento comprovativo do tipo de utilização do prédio são fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e das florestas.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 82-D/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), publicado em 2014-12-31."
+  }
+ }
+}

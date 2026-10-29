@@ -40,10 +40,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-31'
+version_history:
+  file: decreto-lei-66-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-31'
+    amending: pt:dre:670022:por
+    amending_title: Decreto-Lei n.º 77/2011; Decreto-Lei n.º 74/2012; Decreto-Lei n.º 15/2013; Decreto-Lei n.º 15/2015
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre/pt/html
@@ -69,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:13:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 77/2011; Decreto-Lei
+    n.º 74/2012; Decreto-Lei n.º 15/2013; Decreto-Lei n.º 15/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2010/decreto-lei-66-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -281,11 +301,29 @@ Artigo 67.º
 
 ###### Artigo 5.º — Disposição transitória
 
-1 - Os comercializadores de último recurso devem, até 31 de Março de 2011, continuar a fornecer gás natural aos clientes finais de gás natural com consumos anuais superiores a 10 000 m3 que não tenham contratado no mercado livre o seu fornecimento.
+1 - Os comercializadores de último recurso devem, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE, continuar a fornecer gás natural aos clientes finais de gás natural com consumos anuais superiores a 10000 m3 que não tenham contratado no mercado livre o seu fornecimento.
 
-2 - Na situação referida no número anterior, é aplicada uma tarifa de venda transitória, fixada pela ERSE, e determinada pela soma dos valores das tarifas de acesso às redes e de comercialização em vigor, e de um preço de energia que reflicta o custo médio, previsto para o trimestre em causa, das quantidades de gás natural no âmbito dos contratos de take or pay celebrados antes da entrada em vigor da Directiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento e do Conselho, de 26 de Junho.
+2 - Na situação referida no número anterior é aplicada uma tarifa transitória de venda, fixada pela ERSE, a qual é determinada pela soma das tarifas de energia, de acesso às redes e de comercialização, sobre as quais se aplica um fator de agravamento, que se destina a induzir a adesão gradual às formas de contratação oferecidas em mercado.
 
-3 - A tarifa de venda transitória referida no número anterior é agravada trimestralmente em percentagem a determinar pela ERSE.
+3 - (Revogado.)
+
+4 - O membro do Governo responsável pela área da energia, ouvida a ERSE, estabelece, através de portaria, o mecanismo de determinação do fator de agravamento referido no n.º 2.
+
+5 - (Revogado.)
+
+6 - O mecanismo referido no n.º 4 deve obedecer a princípios de transparência das regras aplicáveis, clareza da sua aplicação, direito no acesso à informação, igualdade de tratamento e de oportunidades, racionalidade e eficiência e ter em consideração a transição verificada no número de clientes do mercado regulado para o mercado livre.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), publicado em 2011-06-20.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), publicado em 2012-03-26.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2013-257005), publicado em 2013-01-28.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), publicado em 2015-01-30.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), publicado em 2015-01-30.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2015-66379753), publicado em 2015-01-30.
 
 ###### Artigo 6.º — Procedimento para a mudança de comercializador durante o período transitório
 

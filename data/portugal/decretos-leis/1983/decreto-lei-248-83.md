@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-01'
+version_history:
+  file: decreto-lei-248-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-01'
+    amending: pt:dre:372853:por
+    amending_title: Decreto-Lei n.º 206/2001
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:51:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 206/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-248-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +130,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Sempre que tal se revele necessário, os órgãos de gestão dos hospitais e dos lares para a terceira idade poderão determinar que os funerais de pessoas falecidas nesses estabelecimentos, a realizar por agências com sede ou filial no respectivo concelho, fiquem dependentes de prévia inscrição das referidas agências naqueles estabelecimentos.
+###### Artigo 1.º
+
+1 - Sempre que tal se revele necessário, os órgãos de gestão dos hospitais e dos lares para a terceira idade poderão determinar que os funerais de pessoas falecidas nesses estabelecimentos, a realizar por agências com sede ou filial no respectivo concelho, fiquem dependentes de prévia inscrição das referidas agências naqueles estabelecimentos.
 
 2 - Nos casos previstos no número anterior, os serviços fúnebres serão distribuídos de forma equitativa pelas agências inscritas, em condições a acordar entre os estabelecimentos e as agências.
 
@@ -123,9 +140,15 @@ Artigo 1.º - 1 - Sempre que tal se revele necessário, os órgãos de gestão d
 
 4 - O disposto nos números anteriores não prejudica a faculdade de livre escolha, pelos familiares dos falecidos, da agência funerária que efectuará os funerais.
 
-Art. 2.º A realização de serviços fúnebres com violação do disposto neste diploma e dos acordos nele previstos fica sujeita às penalidades estabelecidas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, seguindo-se o procedimento determinado no n.º 1 e na primeira parte do n.º 2 do artigo 3.º e nos artigos 4.º e 5.º do mesmo diploma.
+###### Artigo 2.º
 
-Art. 3.º O artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, passa a ter a seguinte redacção:
+(Revogado.)
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
+
+###### Artigo 3.º
+
+O artigo 2.º do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, passa a ter a seguinte redacção:
 
 Art. 2.º - 1 - A violação do disposto nos n.os 1 e 2 do artigo anterior será punida com multa de 12000$00 a 120000$00 e proibição de as agências efectuarem funerais de qualquer pessoa falecida nos hospitais e lares para a terceira idade por períodos de um a cinco anos.
 
@@ -133,7 +156,9 @@ Art. 2.º - 1 - A violação do disposto nos n.os 1 e 2 do artigo anterior será
 
 3 - ...
 
-Art. 4.º As referências feitas aos hospitais e seus funcionários no preâmbulo e no articulado do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, tornam-se extensivas aos lares para a terceira idade e respectivos funcionários.
+###### Artigo 4.º
+
+As referências feitas aos hospitais e seus funcionários no preâmbulo e no articulado do [Decreto-Lei n.º 47838](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47838-1967-313653), de 9 de Agosto de 1967, tornam-se extensivas aos lares para a terceira idade e respectivos funcionários.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa.
 

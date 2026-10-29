@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-09'
+version_history:
+  file: decreto-regulamentar-regional-11-2004-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-09'
+    amending: pt:dre:553612:por
+    amending_title: Decreto Regulamentar Regional n.º 10/2006/A
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/11/2004/04/24/a/dre/pt/html
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:29:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    10/2006/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2004/decreto-regulamentar-regional-11-2004-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,7 +311,7 @@ b) A remoção de gradeamentos sobre muros delimitadores.
 
 ###### Artigo 4.º — Reconstrução de imóveis em ruínas
 
-1 - São objecto de comparticipação até ao valor máximo de 50% do custo da intervenção em paredes exteriores, coberturas e vãos as obras de reconstrução de imóveis em ruínas que se encontrem nesse estado à data de entrada em vigor do Plano Especial de Ordenamento da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico, desde que se verifiquem cumulativamente as seguintes condições:
+1 - São objecto de comparticipação até ao valor máximo de 50% do custo da intervenção em paredes exteriores, coberturas e vãos as obras de reconstrução de imóveis em ruínas, desde que se verifiquem, cumulativamente, as seguintes condições:
 
 a) O imóvel deva ser reconstruído com a reutilização dos materiais ainda existentes ou com materiais da mesma natureza;
 
@@ -302,9 +323,11 @@ c) A intervenção esteja conforme o determinado por despacho do membro do Gover
 
 3 - A comparticipação a que se refere o número anterior pode ainda ser concedida para a realização de intervenções nos imóveis a que se refere a alínea a) do n.º 3 do artigo 2.º do presente diploma.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
+
 ###### Artigo 5.º — Correcção de dissonâncias e anomalias arquitectónicas
 
-1 - São objecto de comparticipação até ao valor máximo de 50% do custo total de intervenção os imóveis com dissonâncias que prejudiquem o conjunto construído e que se encontrem nesse estado à data de entrada em vigor do Plano Especial de Ordenamento da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico.
+1 - São objecto de comparticipação até ao valor máximo de 50% do custo total de intervenção os imóveis com dissonâncias que prejudiquem o conjunto construído.
 
 2 - Podem ser objecto da comparticipação prevista no número anterior os imóveis cujos proprietários aceitem corrigir as dissonâncias arquitectónicas, desde que se verifiquem cumulativamente as seguintes condições:
 
@@ -320,21 +343,25 @@ a) A intervenção tenha parecer favorável da comissão directiva;
 
 b) A intervenção esteja conforme o determinado por despacho do membro do Governo Regional competente em matéria de ambiente e dela resulte claro benefício para o enquadramento do núcleo e para a paisagem envolvente.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
+
 ###### Artigo 6.º — Elementos de excepcional interesse
 
 Nas correcções de dissonâncias ou anomalias em imóveis considerados quer pela sua localização quer pelo seu especial interesse ou valor arquitectónico, aprovados por despacho do membro do Governo Regional com competência em matéria de ambiente, e constantes do inventário produzido pelo Gabinete Técnico, o valor máximo da comparticipação poderá atingir 75% do custo da intervenção quer o imóvel se situe nos núcleos quer na restante área candidata.
 
 ###### Artigo 7.º — Apoio técnico
 
-1 - Em casos de especial valor arquitectónico ou histórico do bem a preservar ou de carência económica comprovada do proprietário do imóvel, poderá ser prestado pelo Gabinete Técnico apoio técnico especializado na fase de elaboração do projecto, o qual poderá acrescer aos apoios previstos nos artigos anteriores.
+1 - Em casos de especial valor arquitectónico ou histórico do bem a preservar ou de carência económica comprovada do proprietário do imóvel, poderá ser prestado pela comissão directiva da Paisagem Protegida, através do Gabinete Técnico, apoio técnico especializado na fase de elaboração do projecto, o qual poderá acrescer aos apoios previstos nos artigos anteriores.
 
-2 - O pedido é formulado em impresso próprio, fornecido pelo Gabinete Técnico, que emitirá parecer no prazo de 15 dias a contar da sua recepção, sendo submetido a despacho do membro do Governo Regional competente em matéria de ambiente.
+2 - O pedido é formulado em impresso próprio, fornecido pela comissão directiva da Paisagem Protegida, que emitirá parecer no prazo de 15 dias a contar da sua recepção, sendo submetido a despacho do membro do Governo Regional competente em matéria de ambiente.
 
 3 - Para efeitos da aplicação do disposto no número anterior, considerar-se-á a seguinte ordem de prioridades:
 
 a) Imóveis cujos proprietários demonstram carência económica;
 
 b) Pequenas intervenções para correcção das dissonâncias arquitectónicas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
 
 ### CAPÍTULO III — Processo
 
@@ -372,17 +399,19 @@ c) Projectos de especialidade quando exigíveis para a operação urbanística p
 
 ###### Artigo 10.º — Concessão
 
-1 - A concessão da comparticipação depende de despacho do membro do Governo Regional competente em matéria de ambiente, precedido de parecer do Gabinete Técnico.
+1 - A concessão da comparticipação depende de despacho do membro do Governo Regional competente em matéria de ambiente, precedido de parecer da comissão directiva da Paisagem Protegida, acompanhado da instrução realizada pelo Gabinete Técnico.
 
 2 - O processamento da comparticipação apenas se iniciará depois de verificadas, cumulativamente, as seguintes condições:
 
 a) Tenha sido assinado contrato entre o departamento governamental competente em matéria de ambiente, representada pelo respectivo titular, com poder de delegação, e o beneficiário;
 
-b) O Gabinete Técnico tenha recebido declaração, por parte do beneficiário, da total aceitação das condições previstas neste diploma.
+b) A comissão directiva da paisagem protegida tenha recebido declaração, por parte do beneficiário, da total aceitação das condições previstas neste diploma.
 
 3 - Do contrato referido no número anterior é publicado extracto na 2.ª série do Jornal Oficial, indicando o montante concedido e o objectivo da obra.
 
 4 - O beneficiário compromete-se a publicitar a comparticipação obtida, através da colocação, durante o período da obra, de placa informativa em termos a regulamentar pelo membro do Governo Regional competente em matéria de ambiente e a afixar, de forma permanente, por meio adequado à natureza do bem, indicação da comparticipação recebida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
 
 ###### Artigo 11.º — Revisão da comparticipação
 
@@ -402,13 +431,17 @@ A título excepcional, o montante da comparticipação poderá ser revisto, a re
 
 1 - Os trabalhos deverão decorrer em bom ritmo e sem interrupções injustificadas.
 
-2 - No caso de se verificar uma interrupção por período superior a 30 dias, deve o beneficiário comunicar o facto, por escrito, ao Gabinete Técnico, mencionando o motivo e a nova data previsível do termo da intervenção.
+2 - No caso de se verificar uma interrupção por período superior a 30 dias, deve o beneficiário comunicar o facto, por escrito, à comissão directiva da Paisagem Protegida, mencionando o motivo e a nova data previsível do termo da intervenção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
 
 ###### Artigo 14.º — Relatório final
 
-1 - Até 30 dias após o termo da intervenção, o beneficiário fica obrigado a entregar ao Gabinete Técnico um relatório final, instruído com a declaração de conformidade com o projecto aprovado, assinada pelo técnico responsável, e com os documentos fotográficos necessários para cabal documentação dos trabalhos executados.
+1 - Até 30 dias após o termo da intervenção, o beneficiário fica obrigado a entregar na comissão directiva da Paisagem Protegida um relatório final, instruído com a declaração de conformidade com o projecto aprovado, assinada pelo técnico responsável, e com os documentos fotográficos necessários para cabal documentação dos trabalhos executados.
 
 2 - Do relatório final devem constar os comprovativos das despesas efectuadas ou sua cópia autenticada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
 
 ###### Artigo 15.º — Processamento
 
@@ -442,9 +475,11 @@ A caducidade do apoio, qualquer que seja a sua causa, a falta de cumprimento do 
 
 ###### Artigo 18.º — Fiscalização
 
-1 - A fiscalização das intervenções comparticipadas ao abrigo do presente diploma é da competência do Gabinete Técnico.
+1 - A fiscalização das intervenções comparticipadas ao abrigo do presente diploma é da competência da comissão directiva da Paisagem Protegida, exercida através do Gabinete Técnico.
 
-2 - Quando tal se mostre necessário, pode o Gabinete Técnico adquirir os serviços técnicos necessários à execução do disposto no número anterior.
+2 - Quando tal se mostre necessário, pode a comissão directiva da Paisagem Protegida adquirir os serviços técnicos necessários à execução do disposto no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2006-553612), publicado em 2006-02-09.
 
 ###### Artigo 19.º — Impossibilidade de cumulação
 

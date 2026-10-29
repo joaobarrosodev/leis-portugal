@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-21'
+version_history:
+  file: portaria-516-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-21'
+    amending: pt:dre:343154:por
+    amending_title: Portaria n.º 695/2010
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/516/2010/07/19/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 695/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-516-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Cumpridos os preceitos legais e com fundamento no disposto no artigo 48.º, em c
 
 ###### Artigo 1.º — Renovação
 
-É renovada a concessão da zona de caça associativa da Quinta de São Francisco e outras (processo n.º 388-AFN), situada na freguesia de Vila Verde dos Francos, município de Alenquer, com a área de 206 ha, na freguesia de Pêro Moniz, município do Cadaval, com a área de 319 ha, na freguesia de Moita dos Ferreiros, município da Lourinhã, com a área de 18 ha, e nas freguesias de Campelos e Maxial, ambas do município de Torres Vedras, com a área de 29 ha, perfazendo a área total de 572 ha.
+É renovada a concessão da zona de caça associativa da Quinta de S. Francisco e outras (processo n.º 388-AFN), válida por um período de seis anos, renovável automaticamente por dois períodos de igual duração, situada na freguesia de Vila Verde dos Francos, município de Alenquer, com a área de 206 ha, na freguesia de Pêro Moniz, município do Cadaval, com a área de 319 ha, na freguesia de Moita dos Ferreiros, município da Lourinhã, com a área de 18 ha, e nas freguesias de Campelos e Maxial, ambas do município de Torres Vedras, com a área de 29 ha, perfazendo a área total de 572 ha.
+
+> Alterado pelo/a Artigo único do/a [Portaria n.º 695/2010](https://diariodarepublica.pt/dr/detalhe/portaria/695-2010-343154), publicado em 2010-08-16.
 
 ###### Artigo 2.º — Produção de efeitos
 

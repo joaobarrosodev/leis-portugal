@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234913:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d829ce5058e87994",
+    "20dd2e24bbac1130",
+    "6e44baac1681461c",
+    "75d673c83c750fea",
+    "92ea9c900dbe7bf4",
+    "c3440dcd9a314152",
+    "43b532ed1b1aca3a",
+    "11f11853d9d0e630",
+    "d3b98a733eb6cbc8",
+    "f6777f075c1c19b6",
+    "5c93dd461637f601",
+    "22a08aa0970549f0",
+    "81a898af373ee2b3",
+    "a321b304ba1e50cc",
+    "53fe5424a5411625",
+    "6637e57e03813463",
+    "b757103ccca19fd4",
+    "81886b3261ab8006",
+    "6c69eab00258a6e8",
+    "142d5265685da212",
+    "aa11aa1f5f549035",
+    "41f0f25ee737a56d",
+    "e855a7157ec38ed9",
+    "25750b02b2debd4b"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "d829ce5058e87994",
+    "20dd2e24bbac1130",
+    "6e44baac1681461c",
+    "75d673c83c750fea",
+    "92ea9c900dbe7bf4",
+    "eb3945e1f85b72e1",
+    "43b532ed1b1aca3a",
+    "11f11853d9d0e630",
+    "a49cde62cdbefcb1",
+    "fc5ff89e316b7286",
+    "5c93dd461637f601",
+    "22a08aa0970549f0",
+    "81a898af373ee2b3",
+    "a321b304ba1e50cc",
+    "53fe5424a5411625",
+    "6637e57e03813463",
+    "b757103ccca19fd4",
+    "81886b3261ab8006",
+    "6c69eab00258a6e8",
+    "142d5265685da212",
+    "aa11aa1f5f549035",
+    "41f0f25ee737a56d",
+    "e855a7157ec38ed9",
+    "25750b02b2debd4b"
+   ]
+  }
+ ],
+ "fragments": {
+  "d829ce5058e87994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro\n\nA criação do Parque Natural da Arrábida pelo [Decreto-Lei n.º 622/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1976-430866), de 28 de Julho, traduziu o reconhecimento da existência, nesta área da região metropolitana de Lisboa-Setúbal, de valores naturais, culturais e paisagísticos de incontestável valor que urgia defender, tendo sobretudo em conta as fortes pressões urbanísticas e industriais que os poderiam pôr em causa.\n\nA salvaguarda do património vegetal representado por formações notáveis de matas e matagais mediterrânicos e da fauna da região, a protecção dos valores paisagísticos e do património geológico, arquitectónico e arqueológico, para além do património cultural, e a dinamização da vida rural tradicional constituem objectivos de interesse público que justificam a manutenção das medidas de protecção que estiveram na origem deste Parque Natural.\n\nO litoral marinho não foi incluído nos limites do Parque Natural da Arrábida, tendo, no entanto, o preâmbulo do seu decreto-lei chamado a atenção para o facto de a «zona costeira da Arrábida fazer parte de uma baía que constitui um dos principais mananciais do Atlântico Norte, absolutamente indispensável à criação e manutenção das espécies marítimas animais e vegetais que deverão justificar oportunamente a criação do parque marítimo de Sesimbra».\n\nDesde a criação do Parque Natural da Arrábida que a Pedra da Anicha se encontra classificada como reserva zoológica, considerando-se carecer de um estatuto de protecção mais forte e eficaz, atendendo à permanente perturbação de que é alvo, à sua vulnerabilidade e carácter único. Atendendo às características do ecossistema marinho, não é possível conceber a protecção de áreas pontuais, devendo antes ser constituídas áreas suficientemente vastas por forma a garantir uma gestão sustentável.\n\nEste troço de costa apresenta sectores em que a acção antropogénica não produziu ainda impactes negativos irreversíveis, sendo uma zona onde é possível implementar uma correcta gestão integrada da orla costeira, conciliando a protecção adequada dos ambientes marinhos com as actividades humanas desenvolvidas quer no meio marinho quer no meio terrestre.\n\nAssim, considera-se importante classificar como parque marinho toda uma área costeira que se estende dos baixios da entrada do estuário do Sado até aos biótopos rochosos situados a norte do cabo Espichel, com limite na praia da Foz. Esta área designar-se-á «Parque Marinho do Professor Luís Saldanha», complementando no meio marinho os objectivos de conservação da natureza subjacentes à criação do Parque Natural da Arrábida.\n\nTambém a publicação do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, que cria o novo quadro de classificação das áreas protegidas nacionais, impõe a reclassificação do Parque Natural da Arrábida segundo os critérios aí estabelecidos.\n\nForam ouvidas as Câmaras Municipais de Palmela, Setúbal e Sesimbra.\n\nAssim:\n\nAo abrigo do disposto nos artigos 13.º e 32.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "20dd2e24bbac1130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Reclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Reclassificação\n\n1 - É reclassificado o Parque Natural da Arrábida, adiante denominado «Parque Natural», com alteração dos seus limites e inclusão de uma área de parque marinho.\n\n2 - O Parque Natural engloba igualmente diversas áreas cuja definição e limites constam do anexo II a este diploma, do qual faz parte integrante.\n\n3 - O parque marinho referido no número anterior é designado «Parque Marinho do Professor Luís Saldanha» e abrange a área da Arrábida-Espichel."
+  },
+  "6e44baac1681461c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - Os limites do Parque Natural e as áreas descritas no n.º 2 do artigo anterior são os fixados nos textos e na carta simplificada que constituem os anexos I, II e III ao presente diploma, do qual fazem parte integrante.\n\n2 - As dúvidas eventualmente suscitadas são resolvidas pela consulta da carta à escala de 1:25000, arquivada para o efeito na sede do Parque Natural."
+  },
+  "75d673c83c750fea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos específicos do Parque Natural:\n\na) Promover a conservação dos recursos naturais da região, desenvolvendo acções tendentes à salvaguarda da flora, principalmente a vegetação terrestre climácica, da fauna, nomeadamente dos recursos marinhos, e dos aspectos geológicos e paisagísticos;\n\nb) Promover a gestão e valorização dos recursos naturais, nomeadamente os marinhos, possibilitando a manutenção dos sistemas ecológicos essenciais e os suportes de vida, garantindo a sua utilização sustentável, a preservação da biodiversidade e a recuperação dos recursos depauperados ou sobreexplorados;\n\nc) Salvaguardar o património arqueológico, nomeadamente o subaquático, e o património arquitectónico, histórico ou tradicional da região, bem como promover uma arquitectura integrada na paisagem;\n\nd) Contribuir para a ordenação e disciplina das actividades urbanísticas, industriais, recreativas e turísticas, de forma a evitar a degradação dos valores naturais, seminaturais e paisagísticos, estéticos e culturais da região, possibilitando o exercício de actividades compatíveis, nomeadamente o turismo de natureza;\n\ne) Promover o desenvolvimento sustentável da região e o bem-estar das populações."
+  },
+  "92ea9c900dbe7bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão\n\nO Parque Natural é gerido pelo Instituto da Conservação da Natureza, adiante designado por ICN."
+  },
+  "c3440dcd9a314152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "43b532ed1b1aca3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição e funcionamento da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e funcionamento da comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente, sob proposta do presidente do ICN, de quem depende hierarquicamente, observadas as disposições legais aplicáveis ao recrutamento para cargos dirigentes.\n\n3 - Um dos vogais é nomeado pelo ICN o outro pelas Câmaras Municipais de Setúbal, Palmela e Sesimbra, as quais dispõem, para o efeito, de um prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - Na falta de nomeação do vogal pelas Câmaras Municipais no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área da administração local.\n\n5 - O mandato dos titulares da comissão directiva é de três anos.\n\n6 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de um dos vogais.\n\n7 - O presidente tem voto de qualidade.\n\n8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "11f11853d9d0e630": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência da comissão directiva\n\n1 - Compete à comissão directiva, em geral, a administração dos interesses específicos do Parque Natural, executando as medidas contidas nos instrumentos de gestão e assegurando o cumprimento das normas legais e regulamentares em vigor.\n\n2 - Compete, em especial, ao presidente da comissão directiva:\n\na) Representar o Parque Natural;\n\nb) Dirigir os serviços e o pessoal com os quais o Parque Natural seja dotado;\n\nc) Submeter anualmente ao ICN um relatório sobre o estado do Parque Natural;\n\nd) Fiscalizar a conformidade do exercício de actividades no Parque Natural com as normas do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, do presente diploma e do plano de ordenamento;\n\ne) Cobrar as receitas e autorizar as despesas para que seja competente.\n\n3 - Compete, em especial, à comissão directiva:\n\na) Preparar e executar planos e programas anuais e plurianuais de gestão e investimento, submetendo-os previamente à apreciação do conselho consultivo;\n\nb) Elaborar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência, submetendo-os previamente à apreciação do conselho consultivo;\n\nc) Decidir da elaboração periódica de relatórios científicos e culturais sobre o estado do Parque Natural;\n\nd) Autorizar actos ou actividades condicionados no Parque Natural, tendo em atenção o plano de ordenamento;\n\ne) Tomar as medidas administrativas de reposição previstas no [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro;\n\nf) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras acções realizadas em violação ao disposto no presente diploma e legislação complementar;\n\ng) Ordenar a imobilização das embarcações encontradas em infracção ao disposto no presente diploma e legislação complementar, até à chegada da respectiva autoridade marítima.\n\n4 - Das deliberações da comissão directiva cabe recurso tutelar para o Ministro do Ambiente."
+  },
+  "d3b98a733eb6cbc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição e funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e funcionamento do conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Universidade de Lisboa pela Faculdade de Ciências, Universidade Nova de Lisboa pela Faculdade de Ciências e Tecnologia e Universidade Técnica de Lisboa pelo Instituto Superior de Agronomia, consideradas em conjunto e em sistema rotativo com mandato de um ano;\n\nb) Instituto de Investigação das Pescas e do Mar;\n\nc) Instituto Português de Arqueologia;\n\nd) Administração dos Portos de Setúbal e Sesimbra, S. A.;\n\ne) Capitania do Porto de Setúbal;\n\nf) Direcção Regional de Agricultura do Ribatejo e Oeste;\n\ng) Direcção Regional de Geologia e Minas de Lisboa e Vale do Tejo;\n\nh) Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\ni) Câmara Municipal de Palmela;\n\nj) Câmara Municipal de Sesimbra;\n\nl) Câmara Municipal de Setúbal;\n\nm) Juntas de freguesia da área do Parque Natural, consideradas em conjunto e em sistema rotativo com mandato de um ano;\n\nn) Organizações não governamentais de ambiente (ONGA), de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo com mandato de um ano;\n\no) Associações representativas dos diferentes sectores económicos com intervenção na área do Parque Natural, consideradas em conjunto.\n\n2 - A Direcção Regional do Ambiente de Lisboa e Vale do Tejo será ouvida pelo conselho, participando nas suas reuniões com estatuto de observador, nos termos do regulamento interno a aprovar pelo conselho.\n\n3 - O conselho consultivo poderá ouvir outras entidades representativas com intervenção na área do Parque Natural, nomeadamente a Federação Portuguesa de Actividades Subaquáticas, participando nas reuniões com estatuto de observador, nos termos do regulamento interno.\n\n4 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros."
+  },
+  "f6777f075c1c19b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;\n\ne) Dar parecer sobre qualquer assunto com interesse para o Parque Natural."
+  },
+  "5c93dd461637f601": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Interdições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interdições\n\nNa área do Parque Natural são interditos os seguintes actos e actividades:\n\na) A realização de obras de construção civil ou a alteração do uso actual dos terrenos ou da morfologia do solo para instalação de estabelecimentos industriais das classes A e B, segundo a classificação constante no quadro anexo ao Regulamento do Exercício da Actividade Industrial;\n\nb) A alteração do uso actual dos terrenos para estabelecimento de novas explorações mineiras ou de materiais inertes ou pela ampliação das explorações existentes;\n\nc) A remoção ou danificação de quaisquer substratos marinhos;\n\nd) Alterações da configuração e topologia das zonas marinhas;\n\ne) A alteração à morfologia do solo pela deposição de ferro-velho, de sucata, de veículos, de inertes ou de resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como o vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;\n\nf) A colheita, corte, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, em qualquer fase do seu ciclo biológico, bem como a perturbação ou a destruição dos seus habitats com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;\n\ng) A introdução no estado selvagem de espécies zoológicas ou botânicas exóticas ou estranhas ao ambiente;\n\nh) A prática de actividades desportivas motorizadas fora das estradas, dos caminhos municipais ou florestais, dos arrifes ou aceiros, susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, onde se incluem passeios e raids organizados de veículos todo o terreno e o motocross;\n\ni) A prática de campismo ou caravanismo fora dos locais para tal destinados;\n\nj) A pesca e a caça nos termos do disposto nos artigos 13.º e 14.º"
+  },
+  "22a08aa0970549f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos e actividades sujeitos a autorização\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização do Parque Natural os seguintes actos e actividades:\n\na) O fraccionamento ou parcelamento de terrenos rústicos que respeite as possibilidades e os limites estabelecidos por lei para as unidades de cultura, salvo se para efeitos de emparcelamento;\n\nb) A alteração da morfologia do solo, a alteração do uso actual dos terrenos de culturas permanentes para culturas anuais, ou vice-versa, ou a adaptação a regadio, quando abranjam uma área superior a 1 ha;\n\nc) A alteração do coberto vegetal através da realização de cortes rasos de povoamentos florestais, pelo corte de vegetação arbórea ou arbustiva ripícola destinado a acções de limpeza ou pela destruição das compartimentações existentes de sebes vivas, exceptuando-se as acções decorrentes do combate a incêndios e da normal actividade agrícola e florestal;\n\nd) O sobrevoo de aeronaves com motor abaixo dos 1000 pés, incluindo a utilização de locais de descolagem para actividades desportivas que têm como suporte o ar, excepto as acções de vigilância, combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural;\n\ne) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica do Parque Natural ou da respectiva câmara municipal;\n\nf) A criação de espécies zoológicas não autóctones, com excepção da decorrente da normal actividade agro-pecuária;\n\ng) A recolha de amostras geológicas;\n\nh) A remoção de quaisquer substratos marinhos para fins exclusivamente científicos;\n\ni) A utilização de aparelhagem de amplificação sonora, excepto dentro dos perímetros dos aglomerados urbanos, locais de festividade religiosa e recintos de feira;\n\nj) A venda ambulante de produtos de qualquer natureza, excepto dentro dos perímetros dos aglomerados urbanos, locais de festividade religiosa e recintos de feira, não carecendo de autorização os produtos extraídos ou manufacturados na área geográfica do Parque Natural;\n\nl) A realização de fogos controlados, efectuados ao abrigo da alínea d) do artigo 10.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, e a realização de queimadas ao abrigo do [Decreto-Lei n.º 316/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), de 28 de Novembro."
+  },
+  "81a898af373ee2b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Actos e actividades sujeitos a parecer vinculativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Actos e actividades sujeitos a parecer vinculativo\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a parecer vinculativo do Parque Natural os seguintes actos e actividades:\n\na) A realização de obras de construção civil, a alteração do uso actual ou da morfologia do solo, designadamente para edificações, instalação/ampliação de parques de campismo e caravanismo, empreendimentos turísticos, fora dos perímetros dos aglomerados urbanos como tal definidos nos planos municipais de ordenamento do território (PMOT), para explorações agro-pecuárias ou agro-industriais, açudes, projectos de irrigação ou de tratamento de águas residuais, estaleiros temporários ou permanentes, portos, ancoradouros e marinas;\n\nb) A realização de obras de construção civil ou a alteração do uso actual dos terrenos ou da morfologia do solo para instalação de estabelecimentos industriais das classes C e D, segundo a classificação constante no quadro anexo ao Regulamento do Exercício da Actividade e para o estabelecimento de áreas destinadas a indústrias transformadoras ou a parques industriais, fora do perímetro dos aglomerados urbanos;\n\nc) O licenciamento de loteamentos urbanos e industriais;\n\nd) A alteração à morfologia do solo por escavações ou aterros;\n\ne) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural, da qualidade das águas superficiais e subterrâneas e respectivo caudal, a abertura de poços, furos e captações, excepto para usos agrícolas;\n\nf) A abertura de novas estradas, caminhos ou acessos, o alargamento ou qualquer modificação dos existentes, bem como as obras de manutenção e conservação que impliquem a destruição do coberto vegetal;\n\ng) A instalação de infra-estruturas eléctricas e telefónicas aéreas ou subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis, fora dos perímetros dos aglomerados urbanos;\n\nh) A prática de actividades desportivas, nomeadamente o mergulho com escafandro autónomo e actividades turísticas susceptíveis de deteriorarem os valores naturais da área;\n\ni) A prática de actividades desportivas motorizadas susceptíveis de provocarem poluição, ruído ou deteriorarem os valores naturais da área, nomeadamente a motonáutica, a utilização de motos de água e similares, os raids de veículos todo o terreno e o enduro;\n\nj) A pesca nos termos do disposto no artigo 13.º"
+  },
+  "a321b304ba1e50cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Pesca, apanha e aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pesca, apanha e aquicultura\n\n1 - A prática de actividades ligadas à pesca, apanha e aquicultura na área do Parque Natural está sujeita a legislação específica.\n\n2 - Por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente poderão ser estabelecidos condicionalismos específicos ao exercício da pesca profissional e lúdica, incluindo a fixação de um número máximo de embarcações a operar na área do Parque Natural.\n\n3 - Sempre que se verifiquem situações de restrição de acesso às actividades previstas no número anterior, poderá ser dada prioridade às comunidades locais dependentes da pequena pesca.\n\n4 - O licenciamento para as actividades de apanha de organismos marinhos, bem como para a instalação de estabelecimentos de culturas marinhas, está sujeito ao parecer vinculativo do Parque Natural.\n\n5 - Na área do Parque Natural é proibida a pesca com ganchorra e a apanha de bivalves com escafandro autónomo."
+  },
+  "53fe5424a5411625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caça\n\nA prática de actividades venatórias no Parque Natural está sujeita às regras previstas na [Portaria n.º 833/93](https://diariodarepublica.pt/dr/detalhe/portaria/833-1993-626989), de 8 de Setembro."
+  },
+  "6637e57e03813463": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Infracções\n\n1 - Constitui contra-ordenação a prática dos actos e actividades estabelecidos no artigo 10.º ou sem as autorizações e os pareceres vinculativos necessários previstos nos artigos 11.º e 12.º, respectivamente.\n\n2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os n.os 2 e 3 dos artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.\n\n3 - Acessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Arrábida, do produto da infracção e dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção ao disposto no presente diploma, sem prejuízo do disposto no artigo 23.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro.\n\n4 - As infracções cometidas no exercício da actividade da pesca, apanha e aquicultura são processadas e punidas nos termos da legislação específica.\n\n5 - As infracções cometidas no exercício da actividade da caça são processadas e punidas nos termos da [Portaria n.º 833/93](https://diariodarepublica.pt/dr/detalhe/portaria/833-1993-626989), de 8 de Setembro."
+  },
+  "b757103ccca19fd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reposição da situação anterior à infracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reposição da situação anterior à infracção\n\nA comissão directiva do Parque Natural pode ordenar que se proceda à reposição da situação anterior à infracção, nos termos do disposto no artigo 25.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "81886b3261ab8006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\nAs funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável no Parque Natural, competem ao ICN, às autarquias locais, à autoridade marítima e demais entidades competentes, nos termos da legislação em vigor."
+  },
+  "6c69eab00258a6e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Plano de ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Plano de ordenamento\n\n1 - O Parque Natural é dotado de um plano de ordenamento do território, nos termos do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, a elaborar no prazo máximo de três anos a contar da data da publicação do presente diploma.\n\n2 - Na elaboração do plano de ordenamento será tida em conta a área do porto de Sesimbra, na qual não serão aplicadas restrições ao tráfego nem às características das embarcações.\n\n3 - Até à aprovação do plano de ordenamento referido no n.º 1, aplica-se o plano de ordenamento preliminar e o regulamento publicados pela [Portaria n.º 26-F/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-f-1980-508614), de 9 de Janeiro, incluindo as interdições e condicionamentos nele previstos, em tudo o que não seja contrário ao disposto no presente diploma."
+  },
+  "142d5265685da212": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Autorizações e pareceres vinculativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Autorizações e pareceres vinculativos\n\n1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva do Parque Natural não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n2 - Os pareceres emitidos pela comissão directiva são vinculativos, sem prejuízo de outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n3 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações e pareceres pela comissão directiva do Parque Natural é de 45 dias.\n\n4 - As autorizações e pareceres emitidos pela comissão directiva do Parque Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.\n\n5 - São nulos e de nenhum efeito os actos administrativos que contrariem o disposto no presente diploma."
+  },
+  "aa11aa1f5f549035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogações\n\nÉ revogada a [Portaria n.º 26-F/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-f-1980-508614), de 9 de Janeiro, com excepção do disposto nos artigos 8.º a 16.º, em tudo o que não disponham em contrário ao presente diploma."
+  },
+  "41f0f25ee737a56d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros, 23 de Julho de 1998.\n\nAntónio Manuel de Oliveira Guterres - José Veiga Simão - Fernando Teixeira dos Santos - Fausto de Sousa Correia - Emanuel José Leandro Maranha das Neves - José Manuel de Matos Fernandes - Vítor Manuel Sampaio Caetano Ramalho - Manuel Maria Cardoso Leal - Guilherme d'Oliveira Martins - António Ricardo Rocha de Magalhães - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 18 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "e855a7157ec38ed9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Limites do Parque Natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Limites do Parque Natural\n\nOs limites terrestres do Parque Natural começam a nascente, e com início no Forte de Albarquel, pela estrada que liga o mesmo à estrada nacional n.º 10-4; pela estrada nacional n.º 10-4, no sentido poente-nascente, até ao quilómetro 0, ligando depois à estrada que leva ao Castelo de São Filipe; segue depois ao longo da estrada citada anteriormente até ao caminho vicinal que se inicia no Castelo de São Filipe e passa junto à Quinta do Lopes, vai ao longo do mesmo até ao entroncamento do Viso Grande; aí inflecte para a direita, ao longo do caminho vicinal que passa ao Casal do Valido, Casal do Machado e Casal Ligeiro; no Casal Ligeiro inflecte para a esquerda, segue ao longo da azinhaga que passa ao Casal das Noivas, Quinta de Santa Efigénia e Quintão, até entroncar na estrada nacional n.º 10; no sentido nascente-poente, pela estrada nacional n.º 10, pela azinhaga que liga ao lugar de Combros, Casal da Fé, Casal do Olival, Casal do Guarda-Mor e Azinhaga de Alferrare; do sítio de Arca de Água, pela azinhaga, do limite do concelho de Setúbal até à estrada municipal n.º 531; no sentido sul-norte pela estrada municipal n.º 531, Estrada da Cobra até ao entroncamento com a estrada nacional n.º 379, na vila de Palmela; ao longo da estrada nacional n.º 379, desde Palmela à povoação de Santana, inflectindo pela Estrada do Facho e terminando no moinho do mesmo nome; pelo alinhamento do marco geodésico do moinho do Facho com o marco geodésico do Alto da Califórnia; pelo alinhamento do marco geodésico do Alto da Califórnia com a ponta da Meia Velha; seguindo-se toda a linha costeira que delimita o domínio público marítimo até intersectar a foz da ribeira da praia da Foz.\n\nOs limites marinhos do Parque Natural começam a poente na linha de água da foz, praia da Foz a norte do cabo Espichel; segue-se o paralelo 38º 27' 18'' N. até ao ponto 1 assinalado no mapa anexo com as coordenadas 38º 27' 18'' N. e 9º 14' 00'' W. e que dista da costa 2,2 milhas marítimas; segue-se o meridiano 9º 14' 00'' W. até ao ponto 2 assinalado no mapa anexo, de coordenadas 38º 23' 54'' N. e 9º 14' 00'' W.; segue-se o paralelo 38º 23' 54'' N. até ao ponto 3 assinalado no mapa anexo, de coordenadas 38º 23' 54'' N. e 9º 11' 42'' W. e que dista da costa 0,7 milhas; segue-se o enfiamento do ponto referido na alínea anterior e a baliza n.º 2 da entrada da barra de Setúbal; segue-se o enfiamento da baliza n.º 2, a baliza n.º 4 e o pontão este da praia da Figueirinha, onde estes limites terminam a nascente.\n\nO limite do Parque Natural segue para nascente pela linha de máxima baixa-mar de águas vivas equinociais até ao Forte de Albarquel."
+  },
+  "25750b02b2debd4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1 - As áreas englobadas no Parque Natural da Arrábida são as seguintes:\n\n1.1 - Reserva integral. - Abrange as zonas vulgarmente designadas por Mata do Solitário, Mata Coberta e Mata dos Vidais.\n\n1.2 - Reserva parcial. - Engloba os seguintes tipos de reservas:\n\n1.2.1 - Reserva botânica. - Toda a zona envolvente às reservas integrais descritas anteriormente e que, em linhas gerais, abrange o Alto do Poios do Cortiço, Rocha do Cardoso, Valongo, Murteira, Cabeça Gorda, Fonte do Veado, Formosinho e Estaganhais.\n\n1.2.2 - Reserva geológica. - A zona situada entre as estradas nacionais n.os 379-1 e 10-4 da parte superior às praias da Figueirinha e de Galapos; a zona situada entre as mesmas estradas citadas anteriormente, mas na parte superior da baía do Portinho da Arrábida; toda a zona da falésia entre o Calhau dos Alhos e a ponta da Meia Velha.\n\n1.2.3 - Reserva zoológica. - Pedra da Anicha.\n\n1.2.4 - Reserva paisagística. - Abrange grande parte da Herdade e Mata da Comenda, a serra de São Luís e a serra dos Gaiteiros.\n\n1.3 - Sítio do Convento. - Constitui todo o conjunto arquitectónico do Convento Novo do Bom Jesus da Arrábida e o Convento Velho.\n\n1.4 - Sítio arqueológico. - Abrange as seguintes zonas e locais vulgarmente conhecidos por:\n\nLugar do Pedrão - povoado situado na encosta este da serra de São Luís, à cota de 165 m;\n\nGrutas artificiais da Quinta do Anjo, situadas no limite da referida povoação;\n\nRotura - povoado situado na encosta sudeste da serra de São Luís;\n\nRoça do Casal do Meio - monumento funerário do final da Idade do Bronze situado a 400 m para nor-nordeste do Casal do Meio, Quinta do Calhariz.\n\n2 - As zonas referidas no n.º 1 caracterizam-se por:\n\n2.1 - Reserva integral. - Zonas destinadas à protecção absoluta de todos os elementos naturais, que ficarão sujeitas às recomendações internacionais sobre este assunto e cujo acesso só será autorizado para fim de estudo e de investigação científica.\n\n2.2 - Reservas parciais. - Zonas de protecção especial sobre determinados elementos naturais, ficando sujeitas às disposições das convenções internacionais sobre a protecção da natureza e cujo acesso será também limitado.\n\nEstas reservas poderão ser botânicas, zoológicas e geológicas.\n\n2.3 - Reserva paisagística. - Zonas destinadas à protecção e conservação de locais ou paisagens, bem como de panorâmicas de grande valor cultural, histórico e estético.\n\n2.4 - Paisagem protegida. - Zonas rurais onde subsistem aspectos característicos de hábitos e cultura dos habitantes e onde se pretende que sejam prosseguidas as actividades tradicionais apoiadas numa estrutura de recreio, como fonte de receita e promoção.\n\n2.5 - Sítio. - Conjunto ou conjuntos constituídos com uma função ou unidade histórica e uma continuidade física com interesse científico e ou arquitectónico.\n\n[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/10/237b00/53395345.pdf)"
+  },
+  "eb3945e1f85b72e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "a49cde62cdbefcb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição e funcionamento do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 8.º — Composição e funcionamento do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "fc5ff89e316b7286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  }
+ }
+}

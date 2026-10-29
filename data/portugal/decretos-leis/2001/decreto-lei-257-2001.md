@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-08-15'
+version_history:
+  file: decreto-lei-257-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-15'
+    amending: pt:dre:241792:por
+    amending_title: Decreto Regulamentar n.º 7/2005
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/257/2001/09/22/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:27:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 7/2005.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-257-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,29 +210,21 @@ Departamento de Modernização e Recursos da Saúde
 
 1 - É criado o cargo de alto-comissário da saúde, equiparado, para efeitos remuneratórios, a Subsecretário de Estado.
 
-2 - O cargo de alto-comissário da saúde é exercido, em acumulação, pelo director-geral da Saúde.
+2 - (Revogado.)
 
-3 - Compete, em especial, ao alto-comissário da saúde o seguinte:
+3 - (Revogado.)
 
-a) Promover a procura de ganhos em saúde, garantindo a melhor articulação e colaboração dos diversos serviços do Ministério da Saúde;
+4 - (Revogado.)
 
-b) Propor e desenvolver programas estratégicos intersectoriais de saúde e coordenar superiormente o seu desenvolvimento;
+5 - (Revogado.)
 
-c) Orientar, acompanhar e coordenar a actividade das administrações regionais de saúde e das autoridades de saúde de nível regional e concelhio;
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.
 
-d) Coordenar os sistemas de informação que permitam conhecer o nível de saúde das populações e tomar ou propor a adopção das medidas necessárias ao seu bem-estar;
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.
 
-e) Vigiar os locais e estabelecimentos de utilização pública e determinar a adopção de todas as medidas correctivas necessárias;
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.
 
-f) Ordenar a suspensão ou o encerramento de todos os locais de utilização pública que funcionem em condições de grave risco para a saúde pública;
-
-g) Determinar, nos termos da lei, a prestação compulsiva de cuidados de saúde em todas as situações que possam representar risco real ou potencial para a saúde das populações;
-
-h) Requisitar serviços ou estabelecimentos de qualquer natureza e, bem assim, os profissionais de saúde, em caso de epidemias graves ou outras situações semelhantes.
-
-4 - Todos os serviços e organismos da Administração Pública prestam ao alto-comissário da saúde a colaboração por ele solicitada e dão sequência às suas iniciativas.
-
-5 - O apoio logístico e administrativo ao alto-comissário da saúde é assegurado pela Direcção-Geral da Saúde.
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), publicado em 2005-08-10.
 
 ###### Artigo 3.º — Lei Orgânica
 

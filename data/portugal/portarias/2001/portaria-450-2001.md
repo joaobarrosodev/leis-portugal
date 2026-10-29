@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-05-27'
+version_history:
+  file: portaria-450-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-27'
+    amending: pt:dre:286682:por
+    amending_title: Portaria n.º 478/2006
+    changes:
+    - Altera Artigo ANEXO::11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/450/2001/05/05/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:32:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 478/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-450-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -283,7 +298,7 @@ l) Ser demonstrado o grau de concretização relativo à implementação dos div
 
 3 - Sempre que os promotores, para efeitos do disposto no número anterior, optem pela apresentação dos respectivos projectos âncora ao sistema de incentivos associado ao PITER, observar-se-á o seguinte:
 
-a) A apresentação da respectiva candidatura deve ocorrer no momento da apresentação do programa à fase da candidatura PITER, podendo aquela preceder esta última por um período não superior a 30 dias;
+a) Salvo em casos devidamente justificados e autorizados pelo membro do Governo responsável pelo sector do turismo, a apresentação da respectiva candidatura deve ocorrer no momento da apresentação do programa à fase da candidatura PITER, podendo aquele preceder esta última por período não superior a 30 dias;
 
 b) O não cumprimento do prazo de 30 dias referido na alínea anterior determina a caducidade da candidatura ao sistema de incentivos associado ao PITER;
 
@@ -294,6 +309,8 @@ d) O prosseguimento para análise da candidatura ao sistema de incentivos é con
 4 - No caso de não declaração do programa em causa como PITER, as candidaturas a que se refere o número anterior podem transitar, com as necessárias adaptações, para o sistema de apoio que, atenta a natureza dos projectos, seja aplicável, considerando-se como data de candidatura, para efeitos de início de obra, a da candidatura ao sistema de incentivos associado ao PITER.
 
 5 - Excepcionalmente e em casos devidamente justificados, os limites mínimos de investimento em capital fixo referidos na alínea b) do n.º 1 do presente artigo podem, verificada a conformidade do programa com os objectivos referidos no n.º 1 do artigo 2.º do presente Regulamento, ser ajustados, por despacho do Ministro da Economia, sob proposta do Instituto de Financiamento e Apoio ao Turismo, nomeadamente em função de factores de localização, desenvolvimento regional, natureza e tipologia de projectos, bem como da existência de outras acções integradas já implantadas na mesma área geográfica.
+
+> Alterado pelo/a [Portaria n.º 478/2006](https://diariodarepublica.pt/dr/detalhe/portaria/478-2006-286682), publicado em 2006-05-26.
 
 ###### Artigo 12.º — Competências
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1966-01-01'
+version_history:
+  file: decreto-lei-45457.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1966-01-01'
+    amending: pt:dre:507871:por
+    amending_title: Decreto-Lei n.º 46697
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:47:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46697. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45457.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,23 +136,33 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.
+###### Artigo 1.º
+
+O Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.
 
 § único. O pessoal eventualmente empregado em trabalhos de campo pode ser assalariado pelos directores dos estabelecimentos que executarem os trabalhos, de harmonia com as necessidades prèviamente reconhecidas pelo conselho administrativo.
 
-Art. 2.º O actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.
+###### Artigo 2.º
+
+O actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.
 
 § único. O provimento será automático, sendo dispensadas todas as formalidades, incluindo o visto do Tribunal de Contas.
 
-Art. 3.º O artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, passa a ter a seguinte redacção:
+###### Artigo 3.º
 
-Art. 4.º As quantias arrecadadas nos termos do artigo anterior e seu parágrafo darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado, no capítulo das «Consignações de receita», devendo ser aplicadas através da dotação de «Participações em cobranças ou receitas» atribuída à Direcção-Geral dos Serviços Agrícolas.
+(Revogado.)
 
-Art. 4.º As despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.
+> Revogado pelo/a [Decreto-Lei n.º 46697](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871), publicado em 1965-12-04.
+
+###### Artigo 4.º
+
+As despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.
 
 § único. Exceptuam-se as despesas que forem consideradas, por despacho do Ministro da Economia, como devendo ser satisfeitas por verba atribuída a determinado serviço do Ministério em virtude do seu restrito ou específico interesse.
 
-Art. 5.º Este diploma entra em vigor no início do ano económico de 1964.
+###### Artigo 5.º
+
+Este diploma entra em vigor no início do ano económico de 1964.
 
 Publique-se e cumpra-se como nele se contém.
 

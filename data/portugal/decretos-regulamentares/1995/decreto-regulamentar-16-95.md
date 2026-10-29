@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-07-25'
+version_history:
+  file: decreto-regulamentar-16-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-25'
+    amending: pt:dre:636749:por
+    amending_title: Decreto-Lei n.º 267/2007
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/16/1995/05/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:22:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 267/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1995/decreto-regulamentar-16-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,17 +143,27 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.
+###### Artigo 1.º
 
-2 - Para efeitos do disposto no número anterior, deve ser registada e conservada pelo prazo mínimo de 50 anos a partir da data da última actualização a documentação, referida no anexo a este diploma e que dele faz parte integrante, relativa à recolha e à administração de sangue em estabelecimentos de saúde públicos ou privados.
+1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.
 
-Art. 2.º - 1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 267/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2007-636749), publicado em 2007-07-24.
+
+###### Artigo 2.º
+
+1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.
 
 2 - A violação do disposto no número anterior constitui ilícito disciplinar e civil.
 
-Art. 3.º A fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional.
+###### Artigo 3.º
 
-Art. 4.º - 1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º
+A fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional.
+
+###### Artigo 4.º
+
+1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º
 
 2 - No acto da eliminação será lavrado um auto, no qual deverá constar uma relação dos documentos objecto de destruição, devidamente identificados.
 

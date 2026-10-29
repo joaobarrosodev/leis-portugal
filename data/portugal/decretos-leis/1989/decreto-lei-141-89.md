@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-12-14'
+version_history:
+  file: decreto-lei-141-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-04-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-12-14'
+    amending: pt:dre:189476:por
+    amending_title: Decreto-Lei n.º 240/96
+    changes:
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:49:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 240/96. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-141-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -244,7 +259,9 @@ Nos casos em que os ajudantes familiares queiram fazer cessar a prestação de s
 
 1 - Os ajudantes familiares ficam obrigatoriamente enquadrados pelo regime de segurança social dos trabalhadores independentes, com as especificidades constantes do número seguinte.
 
-2 - As contribuições para o regime dos trabalhadores independentes devidas pelos ajudantes familiares são calculadas pela aplicação da taxa de 12% sobre o valor da retribuição mensal ajustado com a instituição de suporte, com um limite mínimo da base de incidência correspondente a 30% do valor da remuneração mensal mínima garantida à generalidade dos trabalhadores.
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 240/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1996-189476), publicado em 1996-12-14.
 
 ###### Artigo 17.º — Prova de exercício de actividade
 

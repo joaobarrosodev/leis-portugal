@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:150765:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5679d150adfc12a4",
+    "23836370ae405d04",
+    "76da70653da62aec",
+    "5a60991c6224a371",
+    "cd5c977dc2b6af39",
+    "c5ab5962719c2879",
+    "e16af74686c28402",
+    "1ad6c56f53704793",
+    "54a0f5ad72dfaffc",
+    "e18c73696420bf86",
+    "a3767a401eba6f1a",
+    "3dc1f4a0666e972b",
+    "63c5eff224af9699",
+    "10b81113df3acf63",
+    "6921efdf2890647a",
+    "69f15428fb12d15b",
+    "cb10de5a435a02ca",
+    "283c65a1e95aff16",
+    "7d4c535a84ac1988",
+    "4eba0a224283c3bb",
+    "ef7a8fe5edc327f1",
+    "4ad3fa121e66af54",
+    "75b9bfe5b916ccee",
+    "4c41e8771c3e7617",
+    "e84ad9e1d3887d2f",
+    "1ebc4df12f17c098",
+    "12b3d040d0c41565"
+   ]
+  },
+  {
+   "date": "1999-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:486974:por",
+     "title": "Decreto-Lei n.º 178/98",
+     "published": "1998-07-03",
+     "dre_path": "/dr/detalhe/decreto-lei/178-1998-486974"
+    },
+    {
+     "id": "pt:dre:688416:por",
+     "title": "Decreto-Lei n.º 221-A/99",
+     "published": "1999-06-21",
+     "dre_path": "/dr/detalhe/decreto-lei/221-a-1999-688416"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "5679d150adfc12a4",
+    "23836370ae405d04",
+    "76da70653da62aec",
+    "2b062ae587ade135",
+    "3d323f9d5d4079c7",
+    "a48a503bd4f25387",
+    "2e88542d627b9bfb",
+    "1ad6c56f53704793",
+    "54a0f5ad72dfaffc",
+    "e18c73696420bf86",
+    "a3767a401eba6f1a",
+    "3dc1f4a0666e972b",
+    "63c5eff224af9699",
+    "10b81113df3acf63",
+    "6921efdf2890647a",
+    "4e6accf234d52eb8",
+    "3f82776a166abcf3",
+    "759f1bd1ca13f3a5",
+    "2cb3bf2b30339dce",
+    "4eba0a224283c3bb",
+    "ef7a8fe5edc327f1",
+    "4ad3fa121e66af54",
+    "75b9bfe5b916ccee",
+    "4c41e8771c3e7617",
+    "e84ad9e1d3887d2f",
+    "1ebc4df12f17c098",
+    "12b3d040d0c41565"
+   ]
+  }
+ ],
+ "fragments": {
+  "5679d150adfc12a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Julho\n\nA Iniciativa Comunitária PME, cujas directrizes foram fixadas pela comunicação aos Estados membros n.os 94/C 180/03, de 1 de Julho de 1994, foi lançada com o objectivo de criar condições para reforçar a posição concorrencial das pequenas e médias empresas no mercado interno europeu.\n\nEm Dezembro de 1995 a Comissão das Comunidades Europeias adoptou a Decisão C (95) 3163, relativa à concessão de uma contribuição do FEDER e do FSE para um programa operacional no âmbito da Iniciativa Comunitária Pequenas e Médias Empresas em Portugal.\n\nO programa contém um conjunto de medidas que visa aumentar a competitividade das pequenas e médias empresas na quase totalidade dos sectores secundário e terciário, com especial enfoque nas de menor dimensão, através do investimento em factores de competitividade não directamente produtivos. Para tornar operacional o programa foi publicado o Decreto-Lei n.º 291/95, de 14 de Novembro, que criou o Sistema de Incentivos às Pequenas e Médias Empresas.\n\nEntretanto, a revisão de alguns sistemas de incentivos incluídos no Quadro Comunitário de Apoio, caso do Regime de Incentivos às Microempresas, ou mesmo o lançamento de novos programas a curto prazo (internacionalização, formação), tornou indispensável a reformulação do referido diploma com o intuito de clarificar a sua articulação com as restantes intervenções em favor das pequenas e médias empresas (PME).\n\nDe acordo com esta orientação, julgou-se conveniente criar um novo quadro legal, mais coerente e sistematizado, onde se consagram os vários regimes de apoio previstos, remetendo-se toda a regulamentação específica para os respectivos diplomas de aplicação.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "76da70653da62aec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivo\n\n1 - Pelo presente diploma é criado, nos termos do disposto na Decisão Comunitária C (95) 3163, de 20 de Dezembro de 1995, o Programa Operacional Iniciativa Comunitária Pequenas e Médias Empresas, adiante também designado abreviadamente «Programa», aplicável a todo o território nacional até 31 de Dezembro de 1999.\n\n2 - O Programa tem por objectivo reforçar a posição concorrencial das pequenas e médias empresas nacionais no seio do União Europeia, em especial através da utilização adequada de factores de competitividade não directamente produtivos.\n\n3 - No âmbito do presente diploma, entende-se por pequenas e médias empresas as que empreguem menos de 250 pessoas e tenham um volume de negócios que não ultrapasse 7,5 milhões de contos, exceptuando as situações previstas na regulamentação específica."
+  },
+  "5a60991c6224a371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Instrumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instrumentos\n\n1 - A prossecução do objectivo do Programa concretiza-se através dos seguintes instrumentos:\n\na) Regimes de apoio;\n\nb) Acções voluntaristas.\n\n2 - Os regimes de apoio previstos são os seguintes:\n\na) Regime de apoio à competitividade das empresas dos sectores da indústria, comércio e serviços às empresas;\n\nb) Regime de apoio à competitividade das empresas de turismo;\n\nc) Regime de apoio à competitividade das empresas de construção;\n\nd) Regime de apoio ao desenvolvimento de competências tecnológicas nas empresas.\n\n3 - As candidaturas aos regimes de apoio previstos no número anterior podem envolver investimento em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em regulamento específico.\n\n4 - As acções voluntaristas compreendem todas as acções de informação, sensibilização, promoção da cooperação empresarial e de formação e a criação de novos instrumentos financeiros adaptados às PME e às novas empresas de base tecnológica.\n\n5 - Os regimes de apoio e as acções voluntaristas são objecto de regulamentação específica."
+  },
+  "cd5c977dc2b6af39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Os apoios a conceder no âmbito dos regimes previstos no n.º 2 do artigo anterior dirigem-se aos projectos promovidos por empresas constituídas, ou a constituir, que:\n\na) Tenham até 50 trabalhadores, no caso dos regimes de apoio previstos nas alíneas a) e b);\n\nb) Tenham entre 10 e 250 trabalhadores, no caso do regime de apoio previsto na alínea c);\n\nc) Tenham até 250 trabalhadores, no caso do regime de apoio previsto na alínea d), com excepção das situações previstas em regulamento específico.\n\n2 - As empresas a que se refere o n.º 1 podem candidatar-se conjuntamente, nos termos a definir em regulamento.\n\n3 - São beneficiárias das acções voluntaristas as PME que participem nas iniciativas levadas a cabo pelas entidades da Administração Pública, do Sistema Científico e Tecnológico, associações empresariais e outras entidades que vierem a ser associadas ao Programa através da celebração de contratos-programa nos termos a definir em regulamento."
+  },
+  "c5ab5962719c2879": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso do promotor\n\n1 - As empresas promotoras dos projectos candidatos aos regimes de apoio indicados no artigo 2.º podem beneficiar dos incentivos nele previstos desde que:\n\na) Estejam constituídas como sociedades comerciais à data da celebração do contrato;\n\nb) Se comprometam a manter uma contabilidade organizada segundo o Plano Oficial de Contabilidade;\n\nc) Façam prova de que têm regularizada a situação contributiva perante o Estado e a segurança social;\n\nd) Tenham a situação regularizada em matéria de licenciamento da actividade a desenvolver ou se comprometam a regularizá-la, devendo apresentar comprovativo à data da realização do contrato;\n\ne) Não sejam detidas em mais de 25% do seu capital social por empresas que não cumpram os critérios de pequena e média empresa, de acordo com a Recomendação n.º [96/280/CE](https://diariodarepublica.pt/application/external/eurolex?96X0280) da Comissão das Comunidades Europeias.\n\n2 - Constituem ainda condições de acesso do promotor, em termos a definir pelo regulamento de cada regime de apoio:\n\na) Apresentar uma situação financeira equilibrada;\n\nb) Demonstrar que possui capacidade técnica e de gestão adequadas à dimensão e complexidade do projecto.\n\n3 - Quando exista investimento em formação profissional, as empresas podem beneficiar de apoios do Fundo Social Europeu, desde que cumpram o disposto no regulamento previsto no n.º 3 do artigo 2.º"
+  },
+  "e16af74686c28402": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso do projecto\n\n1 - Os projectos candidatos devem satisfazer as seguintes condições:\n\na) Apresentarem um montante de investimento, avaliado a preços correntes, dentro dos limites que venham a ser estabelecidos;\n\nb) Não se terem iniciado há mais de 90 dias úteis à data de apresentação da candidatura;\n\nc) Disporem de financiamento adequado, excluindo os eventuais incentivos a atribuir à candidatura.\n\n2 - As condições de acesso referidas no número anterior são objecto de regulamentação."
+  },
+  "1ad6c56f53704793": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Natureza do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza do projecto\n\nOs projectos candidatos aos regimes de apoio indicados no artigo 2.º compreendem, no essencial, investimentos não directamente produtivos, eventualmente associados a investimento produtivo e a acções de formação, respeitando as seguintes características:\n\na) Apresentarem um impacte significativo na modernização da gestão da empresa;\n\nb) Integrarem-se num processo coerente de aquisição ou reforço da capacidade estratégica da empresa com reflexos na melhoria da sua competitividade."
+  },
+  "54a0f5ad72dfaffc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Natureza e intensidade do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza e intensidade do incentivo\n\n1 - Os incentivos a conceder aos projectos candidatos aos regimes de apoio indicados no artigo 2.º assumem a forma de:\n\na) Subsídio a fundo perdido ao investimento elegível não directamente produtivo;\n\nb) Bonificação de juros no caso de investimento elegível directamente produtivo.\n\n2 - A intensidade do incentivo é objecto de regulamentação específica para cada regime de apoio, não podendo, contudo, ultrapassar o valor acumulado de 75% da totalidade das despesas elegíveis."
+  },
+  "e18c73696420bf86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Competências e processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Competências e processo de decisão"
+  },
+  "a3767a401eba6f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\n1 - A gestão do Programa é da competência do gestor da Intervenção Operacional Iniciativa Comunitária Pequenas e Médias Empresas, apoiado pela unidade de gestão criada por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, para a Qualificação e o Emprego e da Ciência e da Tecnologia, publicado no Diário da República, 2.ª série, de 7 de Maio de 1996.\n\n2 - Na gestão do Programa intervêm as seguintes entidades:\n\na) O Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), que faz gestão dos projectos candidatos aos regimes de apoio previstos nas alíneas a) e c) do n.º 2 do artigo 2.º;\n\nb) O Fundo de Turismo, que faz a gestão dos projectos candidatos ao regime de apoio previsto na alínea b) do n.º 2 do artigo 2.º;\n\nc) A Agência de Inovação, que faz a gestão dos projectos candidatos ao regime de apoio previsto na alínea d) do n.º 2 do artigo 2.º\n\n3 - A avaliação das candidaturas, a celebração dos contratos de concessão dos incentivos às empresas, o pagamento dos incentivos e o acompanhamento e a verificação dos projectos competem às entidades gestoras referidas no número anterior.\n\n4 - No âmbito das competências atribuídas no número anterior incluem-se, nomeadamente, as seguintes:\n\na) Verificar as condições de acesso dos promotores e dos projectos;\n\nb) Analisar os projectos;\n\nc) Determinar as despesas elegíveis;\n\nd) Propor o montante do incentivo a conceder;\n\ne) Enviar ao gestor do Programa os pareceres e a proposta de decisão relativos às candidaturas apreciadas.\n\n5 - Nas Regiões Autónomas dos Açores e da Madeira compete aos órgãos de governo próprio definir os organismos e serviços da administração regional intervenientes na gestão do Programa, sem prejuízo da gestão a nível nacional."
+  },
+  "3dc1f4a0666e972b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação das candidaturas\n\n1 - A apresentação das candidaturas é efectuada mediante o preenchimento de formulário adequado em suporte de papel, acompanhado da memória descritiva do projecto e dos documentos exigidos em regulamento, sem prejuízo de poderem ser utilizados outros tipos de suporte, designadamente informático e telemático.\n\n2 - As candidaturas são entregues em duplicado às entidades referidas no n.º 2 do artigo 8.º\n\n3 - As candidaturas só podem ser recebidas quando acompanhadas de todos os documentos que constam do regulamento do regime a que forem propostas."
+  },
+  "63c5eff224af9699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Processo e prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Processo e prazo de apreciação\n\n1 - Os processos de candidatura são analisados pelo IAPMEI, pelo Fundo de Turismo ou pela Agência de Inovação, consoante os casos, no prazo de 30 dias úteis após a recepção, excepto no que toca aos projectos entregues na Agência de Inovação, em que o prazo poderá alargar-se até 90 dias úteis, findo o qual devem apresentar a proposta de decisão ao gestor do Programa, salvo nos casos em que haja lugar a pedido de informação complementar, nos termos do número seguinte, em que o prazo é alargado em conformidade.\n\n2 - Após a recepção dos processos, as entidades referidas no número anterior podem solicitar aos promotores do projecto, de uma só vez, esclarecimentos complementares, que devem ser apresentados no prazo de 10 dias úteis, findos os quais a ausência de resposta significa a desistência da candidatura, salvo quando não imputável ao promotor do projecto.\n\n3 - A unidade de gestão do Programa selecciona, no prazo de 15 dias úteis a contar da recepção da proposta de decisão, os projectos a apoiar tendo em conta os critérios definidos, bem como os pareceres do IAPMEI, do Fundo de Turismo ou da Agência de Inovação, e as dotações financeiras disponíveis, e procede à determinação do montante dos incentivos a atribuir."
+  },
+  "10b81113df3acf63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão\n\n1 - O gestor do Programa submete a homologação dos membros do Governo competentes as listas de projectos seleccionados e não seleccionados.\n\n2 - A homologação da decisão sobre a candidatura é notificada de imediato ao promotor pela entidade gestora do regime de apoio."
+  },
+  "6921efdf2890647a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reclamações e recursos\n\n1 - As decisões da unidade de gestão são passíveis de reclamação para os membros do Governo competentes no prazo de 15 dias úteis a contar da data da notificação da respectiva homologação.\n\n2 - A reclamação prevista no número anterior deve ser decidida no prazo de 30 dias úteis.\n\n3 - Podem ainda ser objecto de recurso hierárquico todos os actos administrativos, de acordo com o Código do Procedimento Administrativo."
+  },
+  "69f15428fb12d15b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contrato de concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de concessão de incentivos\n\n1 - A concessão dos incentivos previstos neste diploma é formalizada através de contrato, de acordo com minuta tipo previamente homologada pelo Ministro do Equipamento, do Planeamento e da Administração do Território, a celebrar entre as entidades gestoras referidas no n.º 2 do artigo 8.º e o promotor, do qual constam, para além do montante máximo das comparticipações financeiras concedidas, os objectivos do projecto e as obrigações das partes contraentes, incluindo eventuais condicionantes.\n\n2 - As entidades gestoras preparam e enviam ao promotor o contrato, no prazo de oito dias úteis após a notificação da homologação da decisão, salvo nos casos em que haja lugar a pedido de informação complementar, em que o prazo é alargado em conformidade.\n\n3 - Os promotores dispõem de 10 dias úteis a contar da data de recepção, ou de 60 dias úteis, quando se tratar de promotores ainda não totalmente constituídos como sociedade comercial, para procederem à assinatura dos contratos, sob pena de caducidade da concessão dos incentivos.\n\n4 - As entidades que venham a beneficiar de qualquer incentivo no âmbito deste diploma ficam obrigadas a comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa quer os pressupostos relativos às condições de acesso com base nos quais o projecto foi aprovado quer a realização do projecto.\n\n5 - O contrato pode ser objecto de renegociação por motivos devidamente justificados e após autorização da entidade gestora.\n\n6 - A posição jurídica do promotor no contrato pode ser objecto de cessão, por motivos devidamente justificados, após autorização da entidade gestora e homologação dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, para a Qualificação e o Emprego e da Ciência e da Tecnologia."
+  },
+  "cb10de5a435a02ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Rescisão do contrato de concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rescisão do contrato de concessão de incentivos\n\n1 - O contrato pode ser rescindido pelas entidades referidas no n.º 2 do artigo 8.º, mediante autorização dos membros do Governo competentes, nos seguintes casos:\n\na) Não cumprimento dos objectivos, das obrigações e dos prazos estabelecidos no contrato por facto imputável ao promotor;\n\nb) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos nas fases de candidatura e acompanhamento dos projectos.\n\n2 - A rescisão do contrato implica a caducidade dos incentivos concedidos, sendo o promotor obrigado, no prazo de 60 dias a contar da notificação, a repor à entidade gestora as importâncias recebidas, acrescidas de juros calculados à taxa LISBOR aplicável a operações activas de idêntica duração, acrescida de 3 pontos percentuais."
+  },
+  "283c65a1e95aff16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pagamento dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento dos incentivos\n\n1 - Os promotores das candidaturas aprovadas ao abrigo do presente diploma, após a assinatura do contrato e para efeito da implementação dos projectos, devem enviar pedidos de pagamento ao IAPMEI, ao Fundo de Turismo ou à Agência de Inovação, consoante os casos, no máximo de dois, apresentando para o efeito os originais das facturas, dos recibos justificativos dos pagamentos, devidamente classificados em função do projecto, e os comprovativos do seu registo contabilístico.\n\n2 - O segundo e último pagamento não poderá ser inferior a 20% do total do incentivo concedido.\n\n3 - O pagamento dos incentivos é efectuado no prazo de 15 dias úteis, pelas entidades referidas no n.º 1, ao promotor do projecto, após a verificação física, documental e contabilística das despesas a que respeitarem.\n\n4 - As entidades referidas no n.º 1 devem enviar mensalmente ao gestor do Programa as listas de pagamentos efectuados aos promotores dos projectos."
+  },
+  "7d4c535a84ac1988": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Adiantamento de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Adiantamento de pagamento\n\n1 - Pode ser concedido um único adiantamento a cada projecto, correspondente a um máximo de 50% do incentivo a fundo perdido aprovado, mediante solicitação da empresa, devidamente acompanhada de garantia bancária emitida por instituição de crédito de primeira ordem, segundo minuta a fornecer pela entidade gestora, e no valor correspondente ao adiantamento, bem como a prova de que se iniciou o investimento.\n\n2 - No caso de adiantamento, o pagamento é efectuado no prazo de 10 dias úteis após a confirmação dos elementos constantes do pedido de pagamento."
+  },
+  "4eba0a224283c3bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Contabilização dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contabilização dos incentivos\n\nOs incentivos atribuídos devem ser contabilizados de acordo com as normas do Plano Oficial de Contabilidade."
+  },
+  "ef7a8fe5edc327f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acompanhamento e fiscalização\n\n1 - As entidades beneficiárias ficam sujeitas à verificação da aplicação dos incentivos concedidos, não podendo ceder, locar, alienar ou por qualquer modo onerar, no todo ou em parte, sem autorização prévia do Ministro do Equipamento, do Planeamento e da Administração do Território, quer a gestão quer os bens adquiridos para a execução do projecto até três anos após o termo da realização dos investimentos previstos.\n\n2 - Os promotores devem fornecer todos os elementos relativos ao projecto que lhes forem solicitados pelas entidades com competências de acompanhamento e fiscalização.\n\n3 - O acompanhamento e a fiscalização dos projectos apoiados exercem-se nos termos previstos no Decreto-Lei n.º 99/94, de 19 de Abril, competindo em especial às entidades referidas no n.º 2 do artigo 8.º acompanhar e fiscalizar a realização dos projectos de investimento e o cumprimento das obrigações dos promotores.\n\n4 - A fiscalização da realização do investimento é efectuada através de visitas aos locais e de verificação dos documentos comprovativos das despesas.\n\n5 - As entidades referidas no n.º 2 do artigo 8.º devem elaborar e apresentar ao gestor do Programa relatórios globais de acompanhamento e execução, com periodicidade semestral, e ainda relatórios finais por projecto, à medida que forem sendo concluídos."
+  },
+  "4ad3fa121e66af54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Acumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acumulação de incentivos\n\nPara as mesmas despesas elegíveis, os incentivos a que se refere este diploma não são acumuláveis com quaisquer outros da mesma natureza, ou com idêntica finalidade, concedidos ao abrigo do Programa ou por outro regime legal nacional."
+  },
+  "75b9bfe5b916ccee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais"
+  },
+  "4c41e8771c3e7617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cobertura orçamental\n\nOs encargos nacionais decorrentes da aplicação deste diploma são inscritos anualmente no orçamento da Direcção-Geral do Desenvolvimento Regional sob o titulo «Iniciativa Comunitária PME»."
+  },
+  "e84ad9e1d3887d2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nPelo presente diploma fica revogado o Decreto-Lei n.º 291/95, de 14 de Novembro."
+  },
+  "1ebc4df12f17c098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\n1 - Os projectos cujo investimento se tenha iniciado após o dia 15 de Maio de 1995 e que podiam ser enquadrados nos regimes de apoio previstos no Decreto-Lei n.º 291/95, de 14 de Novembro, podem candidatar-se ao presente Programa nos 90 dias úteis imediatos à data da sua entrada em vigor.\n\n2 - As acções voluntaristas que tenham sido iniciadas após 2 de Janeiro de 1997 podem candidatar-se ao presente Programa nos 90 dias úteis imediatos à data da sua entrada em vigor."
+  },
+  "12b3d040d0c41565": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria João Fernandes Rodrigues - José Mariano Rebelo Pires Gago.\n\nPromulgado em 26 de Junho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Junho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "2b062ae587ade135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Instrumentos",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 2.º — Instrumentos\n\n1 - A prossecução do objectivo do Programa concretiza-se através dos seguintes instrumentos:\n\na) Regimes de apoio;\n\nb) Acções voluntaristas.\n\n2 - Os regimes de apoio previstos são os seguintes:\n\na) Regime de apoio à competitividade das empresas dos sectores da indústria, comércio e serviços às empresas;\n\nb) Regime de apoio à competitividade das empresas de turismo;\n\nc) Regime de apoio à competitividade das empresas de construção;\n\nd) Regime de apoio ao desenvolvimento de competências tecnológicas nas empresas.\n\n3 - As candidaturas aos regimes de apoio e acções voluntaristas podem envolver investimento em formação profissional, financiado pelo Fundo Social Europeu, nos termos previstos em regulamento específico.\n\n4 - As acções voluntaristas compreendem todas as acções de informação, sensibilização, promoção da cooperação empresarial e de formação e a criação de novos instrumentos financeiros adaptados às PME e às novas empresas de base tecnológica.\n\n5 - Os regimes de apoio e as acções voluntaristas são objecto de regulamentação específica.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "3d323f9d5d4079c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Os apoios a conceder no âmbito dos regimes previstos no n.º 2 do artigo anterior dirigem-se aos projectos promovidos por empresas, agrupamentos complementares de empresas (ACE), cooperativas e consórcios, constituídos ou a constituir, que:\n\na) Tenham até 250 trabalhadores, no caso dos regimes de apoio previstos nas alíneas a), b) e c);\n\nb) Tenham até 500 trabalhadores, no caso do regime de apoio previsto na alínea d).\n\n2 - As empresas a que se refere o n.º 1 podem candidatar-se conjuntamente, nos termos a definir em regulamento.\n\n3 - São beneficiárias das acções voluntaristas as PME que participem nas iniciativas levadas a cabo pelas entidades da Administração Pública, do Sistema Científico e Tecnológico, associações empresariais e outras entidades que vierem a ser associadas ao Programa através da celebração de contratos-programa nos termos a definir em regulamento.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "a48a503bd4f25387": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso do promotor",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 4.º — Condições de acesso do promotor\n\n1 - As entidades promotoras dos projectos candidatos aos regimes de apoio indicados no artigo 2.º podem beneficiar dos incentivos nele previstos desde que:\n\na) Estejam constituídas como sociedades comerciais, cooperativas, agrupamentos complementares de empresas ou consórcios à data da celebração do contrato de concessão de incentivos;\n\nb) Se comprometam a manter uma contabilidade organizada segundo o Plano Oficial de Contabilidade;\n\nc) Façam prova de que têm regularizada a situação contributiva perante o Estado e a segurança social;\n\nd) Tenham a situação regularizada em matéria de licenciamento da actividade a desenvolver ou se comprometam a regularizá-la, devendo apresentar comprovativo à data da realização do contrato;\n\ne) Não sejam detidas em mais de 25% do seu capital social por empresas que não cumpram os critérios de pequena e média empresa, de acordo com a Recomendação n.º [96/280/CE](https://diariodarepublica.pt/application/external/eurolex?96X0280) da Comissão das Comunidades Europeias.\n\n2 - Constituem ainda condições de acesso do promotor, em termos a definir pelo regulamento de cada regime de apoio:\n\na) Apresentar uma situação financeira equilibrada;\n\nb) Demonstrar que possui capacidade técnica e de gestão adequadas à dimensão e complexidade do projecto.\n\n3 - Quando exista investimento em formação profissional, as empresas podem beneficiar de apoios do Fundo Social Europeu, desde que cumpram o disposto no regulamento previsto no n.º 3 do artigo 2.º\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "2e88542d627b9bfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso do projecto",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso do projecto\n\n1 - Os projectos candidatos devem satisfazer as seguintes condições:\n\na) Apresentarem um montante de investimento, avaliado a preços correntes, dentro dos limites que venham a ser estabelecidos;\n\nb) Não se terem iniciado há mais de 90 dias úteis à data de apresentação da candidatura;\n\nc) Disporem de financiamento adequado, excluindo os eventuais incentivos a atribuir à candidatura.\n\n2 - Para efeitos da alínea b) do n.º 1, considera-se início do projecto a data da factura mais antiga imputável ao projecto.\n\n3 - As condições de acesso referidas no n.º 1 são objecto de regulamentação.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "4e6accf234d52eb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contrato de concessão de incentivos",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 13.º — Contrato de concessão de incentivos\n\n1 - A concessão dos incentivos previstos neste diploma é formalizada através de contrato, de acordo com minuta tipo previamente homologada pelo Ministro do Equipamento, do Planeamento e da Administração do Território, a celebrar entre as entidades gestoras referidas no n.º 2 do artigo 8.º e o promotor, do qual constam, para além do montante máximo das comparticipações financeiras concedidas, os objectivos do projecto e as obrigações das partes contraentes, incluindo eventuais condicionantes.\n\n2 - As entidades gestoras preparam e enviam ao promotor o contrato, no prazo de oito dias úteis após a notificação da homologação da decisão, salvo nos casos em que haja lugar a pedido de informação complementar, em que o prazo é alargado em conformidade.\n\n3 - Os promotores dispõem de 10 dias úteis a contar da data de recepção, ou de 60 dias úteis, quando se tratar de promotores ainda não totalmente constituídos como sociedade comercial, para procederem à assinatura dos contratos, sob pena de caducidade da concessão dos incentivos.\n\n4 - As entidades que venham a beneficiar de qualquer incentivo no âmbito deste diploma ficam obrigadas a comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa quer os pressupostos relativos às condições de acesso com base nos quais o projecto foi aprovado quer a realização do projecto.\n\n5 - O contrato pode ser objecto de renegociação por motivos devidamente justificados e após autorização da entidade gestora.\n\n6 - A posição jurídica do promotor no contrato pode ser objecto de cessão, por motivos devidamente justificados, após homologação dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, do Trabalho e da Solidariedade e da Ciência e da Tecnologia, sob proposta da entidade gestora.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "3f82776a166abcf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Rescisão do contrato de concessão de incentivos",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+   ],
+   "markdown": "###### Artigo 14.º — Rescisão do contrato de concessão de incentivos\n\n1 - O contrato pode ser rescindido pelas entidades referidas no n.º 2 do artigo 8.º, mediante autorização dos membros do Governo competentes, nos seguintes casos:\n\na) Não cumprimento dos objectivos, das obrigações e dos prazos estabelecidos no contrato por facto imputável ao promotor;\n\nb) Prestação de informações falsas sobre a situação da empresa ou viciação de dados fornecidos nas fases de candidatura e acompanhamento dos projectos.\n\n2 - A rescisão do contrato implica a caducidade dos incentivos concedidos, sendo o promotor obrigado, no prazo de 60 dias a contar da notificação, a repor à entidade gestora as importâncias recebidas, acrescidas de juros calculados à taxa LISBOR aplicável a operações activas de idêntica duração, acrescida de 3 pontos percentuais.\n\n3 - Sempre que o fundamento da rescisão for o constante da alínea b) do n.º 1, o respectivo promotor não pode apresentar novas candidaturas a incentivos no âmbito do Programa.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03."
+  },
+  "759f1bd1ca13f3a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pagamento dos incentivos",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21."
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento dos incentivos\n\n1 - Os promotores das candidaturas aprovadas ao abrigo do presente diploma, após a assinatura do contrato e para efeito da implementação dos projectos, devem enviar pedidos de pagamento ao IAPMEI, ao Fundo de Turismo ou à Agência de Inovação, consoante os casos, no máximo de dois, apresentando para o efeito os originais das facturas, dos recibos justificativos dos pagamentos, devidamente classificados em função do projecto, e os comprovativos do seu registo contabilístico.\n\n2 - O primeiro pagamento não pode ser superior a 50% do incentivo concedido.\n\n3 - O pagamento dos incentivos aos promotores é efectuado, no prazo de 10 dias úteis, pelas entidades referidas no n.º 1, após a verificação documental no primeiro pagamento e após verificação física, documental e contabilística no último pagamento.\n\n4 - As entidades referidas no n.º 1 devem enviar mensalmente ao gestor do Programa as listas de pagamentos efectuados aos promotores dos projectos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21."
+  },
+  "2cb3bf2b30339dce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Adiantamentos do pagamento",
+   "in_force_from": "1999-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21."
+   ],
+   "markdown": "###### Artigo 16.º — Adiantamentos do pagamento\n\n1 - Podem ser concedidos dois adiantamentos, correspondentes a um máximo para cada um de 30% do incentivo a fundo perdido aprovado, mediante solicitação da empresa, devidamente acompanhada de garantia bancária emitida por instituição de crédito de primeira ordem, segundo minuta a fornecer pela entidade gestora e no valor correspondente ao adiantamento, bem como a prova de que se iniciou o investimento.\n\n2 - O pagamento do primeiro adiantamento é efectuado no prazo de 10 dias úteis após a confirmação dos elementos constantes do pedido de pagamento.\n\n3 - O segundo adiantamento é pago 10 dias úteis após a comprovação documental das despesas elegíveis correspondentes ao incentivo já adiantado.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21."
+  }
+ }
+}

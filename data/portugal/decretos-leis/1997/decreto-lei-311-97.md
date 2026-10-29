@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-03'
+version_history:
+  file: decreto-lei-311-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-03'
+    amending: pt:dre:692183:por
+    amending_title: Decreto-Lei n.º 438/99
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/311/1997/11/13/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:53:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 438/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-311-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,17 +223,41 @@ A bonificação só produz efeitos no cálculo das pensões a partir do mês seg
 
 3 - No caso de requerimento apresentado por beneficiário que à data da entrada em vigor deste diploma já seja pensionista pode o mesmo ser apresentado a todo o tempo.
 
+4 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o n.º 1 pode ser apresentado, a todo o tempo, pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.
+
 ###### Artigo 12.º — Meios de prova
 
 A prova da prestação de serviço militar obrigatório a que se reporta o presente diploma e a da percentagem da bonificação a considerar é obtida oficiosamente pelos serviços de segurança social junto dos serviços competentes do Ministério da Defesa Nacional.
 
-###### Artigo 13.º — Modo de pagamento das contribuições
+###### Artigo 13.º — Pagamento das contribuições
 
-O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.
+1 - O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.
+
+2 - No prazo de 90 dias a contar da data da notificação do despacho que defira o requerimento e fixe o montante das contribuições deve o interessado efectuar o pagamento ou manifestar a sua opção relativamente ao número de prestações a considerar, sob pena de caducar o direito à bonificação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.
+
+###### Artigo 13.º-A — Reembolso de contribuições
+
+Nos casos de desistência do pagamento de contribuições, ou de morte do beneficiário, devem as instituições de segurança social, mediante requerimento dos interessados, devolver as quantias correspondentes às contribuições pagas e proceder à anulação dos respectivos registos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.
+
+###### Artigo 13.º-B — Pagamento em prestações
+
+1 - Nos casos em que o interessado tenha optado pelo pagamento em prestações, a primeira destas vence-se no final do mês seguinte àquele em que tenha tido lugar a referida opção e as restantes vencem-se no final de cada um dos meses seguintes.
+
+2 - Se as prestações não forem pagas até ao último dia do mês em que se vencem, são devidos juros de mora, nos termos das normas aplicáveis às contribuições em dívida à segurança social.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.
 
 ###### Artigo 14.º — Procedimentos administrativos
 
-Os procedimentos administrativos a adoptar no âmbito da aplicação do presente diploma são aprovados por portaria.
+(Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), publicado em 1999-10-29.
 
 ###### Artigo 15.º — Aplicação às Regiões Autónomas
 

@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-45-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/45/1997/11/17/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-45-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,7 +212,9 @@ São órgãos da Reserva Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
@@ -249,51 +268,15 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Departamento de Botânica da Faculdade de Ciências e Tecnologia da Universidade de Coimbra:
-
-b) Departamento de Zoologia da Faculdade de Ciência e Tecnologia da Universidade de Coimbra;
-
-c) Comissão de Coordenação da Região do Centro;
-
-d) Delegação Regional da Indústria e Energia do Centro;
-
-e) Direcção Regional de Agricultura da Beira Litoral;
-
-f) Direcção Regional do Ambiente - Centro;
-
-g) Câmara Municipal de Coimbra;
-
-h) Câmara Municipal de Condeixa-a-Nova;
-
-i) Câmara Municipal de Montemor-o-Velho;
-
-j) Junta de Freguesia de Anobra;
-
-l) Junta de Freguesia de Arzila;
-
-m) Junta de Freguesia de Pereira de Campo;
-
-n) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional com intervenção na região.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.
-
-3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos seus membros.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

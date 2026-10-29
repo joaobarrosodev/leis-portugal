@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-03-29'
+version_history:
+  file: portaria-91-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-29'
+    amending: pt:dre:276437:por
+    amending_title: Portaria n.º 135-B/2013
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/91/2013/02/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:56:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 135-B/2013. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-91-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +185,11 @@ Para efeitos da revisão anual de preços para o ano de 2013, os titulares de au
 
 ###### Artigo 4.º — Norma revogatória
 
-É revogada a [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de outubro.
+1 - É revogada, a partir de 31 de março de 2013, a Portaria n.º 1041-A/2010, de 7 de outubro.
+
+2 - A revogação prevista no número anterior não abrange os medicamentos que em 31 de março de 2013 já se encontrem nos distribuidores por grosso ou nas farmácias, cujo escoamento deverá fazer-se nos termos do n.º 2 do artigo 10.º da Portaria n.º4/2012, de 2 de janeiro, mediante a aplicação da dedução prevista na Portaria n.º 1041-A/2010, de 7 de outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/135-b-2013-276437), publicado em 2013-03-28.
 
 ###### Artigo 5.º — Entrada em vigor
 

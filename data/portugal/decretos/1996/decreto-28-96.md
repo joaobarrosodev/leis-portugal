@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-10-31'
+version_history:
+  file: decreto-28-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-10-31'
+    amending: pt:dre:321498:por
+    amending_title: Declaração de Rectificação n.º 15-B/96
+    changes:
+    - Retifica Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/28/1996/09/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:07:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 15-B/96.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1996/decreto-28-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -241,7 +256,7 @@ Article IX
 
 Le présent accord aura une validité de cinq ans renouvelable par tacite reconduction et chaque Partie contractante peut le dénoncer à tout moment à condition d'en aviser l'autre Partie par voie diplomatique avec un préavis de trente jours.
 
-Fait a Tunis le 31 juin 1995, en trois exemplaires en langues arabe, portugaise et française. En cas de divergence, le texte en langue française prévaudra.
+Fait a Tunis le 31 Juillet 1995, en trois exemplaires en langues arabe, portugaise et française. En cas de divergence, le texte en langue française prévaudra.
 
 Pour la République Tunisienne:
 
@@ -250,3 +265,5 @@ Habib Ben y Ahia.
 Pour la République Portugaise:
 
 José Manuel Durão Barroso.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15-B/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-b-1996-321498), publicado em 1996-10-31.

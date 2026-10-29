@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-07-14'
+version_history:
+  file: decreto-lei-284-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-07-14'
+    amending: pt:dre:179571:por
+    amending_title: Lei n.º 24/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/284/2007/08/17/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:59:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 24/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-284-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,13 +153,15 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto-lei tem por objecto a determinação da competência para o reconhecimento de fundações.
+(Revogado.)
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09.
 
 ###### Artigo 2.º — Competência para o reconhecimento de fundações
 
-1 - Compete ao Ministro da Presidência, com faculdade de delegação, o reconhecimento das fundações, nos termos e para os efeitos previstos no n.º 2 do artigo 158.º e no artigo 188.º do Código Civil.
+(Revogado.)
 
-2 - O disposto no número anterior não prejudica a competência de outros membros do Governo para o reconhecimento de categorias específicas de fundações, nos termos da lei.
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09.
 
 ###### Artigo 3.º — Regulamentação
 

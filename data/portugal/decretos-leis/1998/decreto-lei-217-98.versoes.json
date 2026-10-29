@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424687:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-07-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52984bc952f83d30",
+    "99a609b315ff9f37",
+    "5cd90ee69576084f",
+    "478d4049c449fc56",
+    "e5834e550500d3ee"
+   ]
+  },
+  {
+   "date": "1999-03-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151290:por",
+     "title": "Lei n.º 9/99",
+     "published": "1999-03-04",
+     "dre_path": "/dr/detalhe/lei/9-1999-151290"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "52984bc952f83d30",
+    "99a609b315ff9f37",
+    "a6921401065f184a",
+    "478d4049c449fc56",
+    "e5834e550500d3ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "52984bc952f83d30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho\n\nO curso de auxiliares sociais, ministrado pelas extintas Escolas de Auxiliares Sociais de Coimbra e Lisboa (bem como pelas Escolas de São Pedro de Alcântara e de São Vicente de Paula), criado pelo [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, por iniciativa e sob tutela da então Direcção-Geral da Assistência, teve em vista facultar formação adequada ao exercício de funções na área de serviço social.\n\nA formação específica conferida pelo curso permitiu que pessoal com essa habilitação venha desempenhando, na área de serviço social, funções cuja natureza e complexidade justificam o seu reenquadramento em carreira de nível superior.\n\nEncontram-se nessa situação os actuais técnicos-adjuntos de serviço social detentores do curso de auxiliares sociais referido.\n\nImporta, pois, proceder à transição dos profissionais em causa para lugares da carreira técnica de serviço social, a extinguir à medida que vagarem.\n\nDe acordo com o disposto na legislação em vigor, o presente diploma foi antecedido de audição das organizações sindicais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "99a609b315ff9f37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma é aplicável aos organismos e serviços da administração central, regional e local, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos."
+  },
+  "5cd90ee69576084f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs actuais técnicos-adjuntos de serviço social, habilitados com o curso de auxiliares sociais, criado pelo [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, que desempenham funções correspondentes às integrantes da carreira técnica de serviço social transitam para lugares desta carreira em categoria e escalão a determinar nos termos do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as seguintes especialidades:\n\na) Os técnicos-adjuntos especialistas de 1.ª classe posicionados nos escalões 3.º, 4.º e 5.º transitam, respectivamente, para os escalões 2.º, 3.º e 4.º da categoria de técnico de 1.ª classe;\n\nb) Os técnicos-adjuntos principais posicionados nos escalões 4.º, 5.º e 6.º transitam, respectivamente, para os escalões 2.º, 3.º e 5.º da categoria de técnico de 2.ª classe;\n\nc) Os técnicos-adjuntos de 1.ª classe posicionados no escalão 6.º transitam para o escalão 2.º da categoria de técnico de 2.ª classe."
+  },
+  "478d4049c449fc56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Consideram-se automaticamente criados os lugares da carreira técnica de serviço social necessários à execução do presente diploma, os quais se extinguirão à medida que vagarem.\n\n2 - São extintos os lugares da carreira de técnico-adjunto de serviço social que vagarem por força das transições previstas no presente diploma."
+  },
+  "e5834e550500d3ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma produz efeitos a partir do dia 1 de Maio de 1997.\n\nVisto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 2 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "a6921401065f184a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1999-03-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 9/99](https://diariodarepublica.pt/dr/detalhe/lei/9-1999-151290), publicado em 1999-03-04."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs actuais técnicos-adjuntos de serviço social, habilitados com o curso de auxiliares sociais, criado pelo Decreto-Lei n.º 38884, de 28 de Agosto de 1952, ou habilitações a ele equiparadas, que desempenham funções correspondentes às integrantes da carreira técnica de serviço social transitam para lugares desta carreira em categoria e escalão a determinar nos termos do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, com as seguintes especialidades:\n\na) Os técnicos-adjuntos especialistas de 1.ª classe posicionados nos escalões 3.º, 4.º e 5.º transitam, respectivamente, para os escalões 2.º, 3.º e 4.º da categoria de técnico de 1.ª classe;\n\nb) Os técnicos-adjuntos principais posicionados nos escalões 4.º, 5.º e 6.º transitam, respectivamente, para os escalões 2.º, 3.º e 5.º da categoria de técnico de 2.ª classe;\n\nc) Os técnicos-adjuntos de 1.ª classe posicionados no escalão 6.º transitam para o escalão 2.º da categoria de técnico de 2.ª classe.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 9/99](https://diariodarepublica.pt/dr/detalhe/lei/9-1999-151290), publicado em 1999-03-04."
+  }
+ }
+}

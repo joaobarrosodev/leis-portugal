@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-03'
+version_history:
+  file: portaria-859-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-03'
+    amending: pt:dre:2878993:por
+    amending_title: Portaria n.º 598/2010
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:22:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 598/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2009/portaria-859-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,13 +130,15 @@ Ao abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](htt
 
 Fica autorizado o Instituto das Tecnologias de Informação na Justiça, I. P., a iniciar um procedimento pré-contratual de concurso público para a contratualização dos serviços de atendimento aos utilizadores (helpdesk), até ao montante de (euro) 1 650 000, a que acresce o IVA à taxa legal em vigor, e que envolve despesa em anos económicos diferentes, de acordo com a seguinte distribuição e escalonamento:
 
-a) Ano de 2009 - (euro) 45 833,33, a que acresce o IVA;
+Ano de 2010 - (euro) 366 666,66 a que acresce o IVA;
 
-b) Ano de 2010 - (euro) 550 000, a que acresce o IVA;
+Ano de 2011 - (euro) 550 000 a que acresce o IVA;
 
-c) Ano de 2011 - (euro) 550 000, a que acresce o IVA;
+Ano de 2012 - (euro) 550 000 a que acresce o IVA;
 
-d) Ano de 2012 - (euro) 504 166,67 a que acresce o IVA.
+Ano de 2013 - (euro) 183 333,34 a que acresce o IVA.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 598/2010](https://diariodarepublica.pt/dr/detalhe/portaria/598-2010-2878993), publicado em 2010-08-03.
 
 ###### Artigo 2.º
 

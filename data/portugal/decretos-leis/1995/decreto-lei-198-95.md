@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-04'
+version_history:
+  file: decreto-lei-198-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-04'
+    amending: pt:dre:506429:por
+    amending_title: Decreto-Lei n.º 48/97
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/198/1995/07/29/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-198-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,7 +242,11 @@ c) A indicação do termo de duração da responsabilidade pelos encargos.
 
 ###### Artigo 8.º — Taxas moderadoras
 
-Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do [Decreto-Lei n.º 54/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1992-199795), de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.
+1 - Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações previstas no n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril, do seu cartão de identificação consta a titularidade do direito de isenção e respectivo limite temporal.
+
+2 - O disposto no número anterior é igualmente aplicável às demais situações legalmente previstas de isenção de pagamento de taxas moderadoras.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.
 
 ###### Artigo 9.º — Regime especial de comparticipação de medicamentos
 
@@ -235,9 +256,11 @@ Sempre que o utente do Serviço Nacional de Saúde esteja numa das situações p
 
 1 - Sempre que se verifique a alteração de elementos constantes do cartão de identificação do utente ou da situação do seu titular perante o Serviço Nacional de Saúde, designadamente nas situações cobertas por subsistemas ou por seguros, deve o mesmo ser actualizado.
 
-2 - A transferência do utente de uma região de saúde para outra implica a emissão de novo cartão de identificação do utente, pelos serviços competentes da administração regional de saúde respectiva, e a anulação do cartão anterior.
+2 - A mudança de residência do utente de uma região de saúde para outra implica a emissão de novo cartão, mantendo-se o número de identificação do utente atribuído na primeira emissão.
 
-3 - O processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.
+3 - Sem prejuízo do disposto no número anterior, o processo de actualização do cartão de identificação do utente obedece às normas aplicáveis à respectiva emissão.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.
 
 ###### Artigo 11.º — Extravio, deterioração ou destruição
 
@@ -273,7 +296,13 @@ g) Situação e identificação do utente, para efeitos do disposto nos artigos 
 
 h) Qualidade de dador benévolo de sangue.
 
+i) Número de inscrição do utente no centro de saúde;
+
+j) Número de cédula profissional do médico de clínica geral.
+
 2 - Os dados constantes das bases de dados são recolhidos pelos serviços competentes das administrações regionais de saúde, que processam informaticamente todos os movimentos a partir do formulário de identificação referido no artigo 5.º, devidamente preenchido, por forma a manter actualizada a base de dados e a permitir a emissão dos cartões de identificação do utente.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1997-506429), publicado em 1997-02-27.
 
 ###### Artigo 14.º — Consulta de dados
 

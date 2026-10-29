@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-01-10'
+version_history:
+  file: decreto-legislativo-regional-21-2001-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-10'
+    amending: pt:dre:114484244:por
+    amending_title: Decreto Legislativo Regional n.º 2/2018/M
+    changes:
+    - Adita Artigo ANEXO — Estatutos da Sociedade Metropolitana de Desenvolvimento, S. A.::6.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21/2001/08/04/m/dre/pt/html
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    2/2018/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2001/decreto-legislativo-regional-21-2001-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -306,6 +321,14 @@ c) Divulgar toda a informação relevante para o investimento e o desenvolviment
 1 - A Sociedade pode ainda emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - As obrigações a que se refere o número anterior podem ser emitidas tanto por subscrição pública como privada.
+
+###### Artigo 6.º-A — Cobrança coerciva de dívidas
+
+1 - Os créditos da 'Sociedade Metropolitana de Desenvolvimento, S. A.', relativos a taxas, rendas de concessões, coimas ou quaisquer outros que tenham por causa o exercício de poderes públicos ou de interesse público, assim como os provenientes de contratos escritos ou verbais e de outros documentos relativos a bens cuja gestão, exploração e utilização lhe foi conferida em regime de serviço público com poderes e prerrogativas de autoridade, encontram-se sujeitos à cobrança coerciva nos termos do processo de execução fiscal regulado no Código de Procedimento e de Processo Tributário, através da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM), sendo tais créditos equiparados, para todos os efeitos legais, a créditos da Região Autónoma da Madeira.
+
+2 - Para efeitos de aplicação do disposto no número anterior, é emitida certidão com valor de título executivo, conforme o disposto nos artigos 162.º e 163.º do Código do Procedimento e do Processo Tributário, pelo departamento do Governo Regional com a tutela das finanças, após comunicação dos valores em falta por parte da 'Sociedade Metropolitana de Desenvolvimento, S. A.'
+
+> Aditado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), publicado em 2018-01-09.
 
 ### CAPÍTULO III — Órgãos sociais
 

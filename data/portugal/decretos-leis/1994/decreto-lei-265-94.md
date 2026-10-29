@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-01-11'
+version_history:
+  file: decreto-lei-265-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-11'
+    amending: pt:dre:105711868:por
+    amending_title: Decreto-Lei n.º 9/2017
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/265/1994/10/25/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:33:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 9/2017. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-265-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,55 +144,33 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [93/15/CEE](https://data.europa.eu/eli/dir/1993/15/oj?locale=pt), do Conselho, de 5 de Abril, relativa à harmonização das legislações dos Estados membros respeitantes à colocação no mercado e ao controlo dos explosivos para utilização civil.
+(Revogado.)
+
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2017-105711868), publicado em 2017-01-10.
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-1 - O presente diploma é aplicável aos explosivos, tal como são definidos na classe 1 do Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), aprovado, para adesão, pelo Decreto-Lei n.º 45935, de 19 de Setembro de 1964.
+(Revogado.)
 
-2 - O presente diploma não é aplicável:
-
-a) Aos explosivos, incluindo as munições, destinados a ser utilizados pelas Forças Armadas ou pelas forças e serviços de segurança;
-
-b) Aos artigos de pirotecnia;
-
-c) Às munições previstas no regulamento aprovado pelo Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949, e no Decreto-Lei n.º 399/93, de 3 de Dezembro.
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2017-105711868), publicado em 2017-01-10.
 
 ###### Artigo 3.º — Aquisição e transferência de explosivos
 
-1 - A aquisição e transferência de explosivos de Portugal para outro Estado membro ou de outro Estado membro para Portugal está sujeita a autorização, cujo modelo será aprovado por portaria do Ministro da Administração Interna.
+(Revogado.)
 
-2 - A autorização a que se refere o número anterior é emitida pelo Comando-Geral da Polícia de Segurança Pública, mediante o pagamento das taxas previstas na tabela anexa ao Decreto-Lei n.º 35/94, de 8 de Fevereiro.
-
-3 - A autorização deve acompanhar sempre os explosivos até ao ponto de destino e deve ser apresentada sempre que solicitada pelos agentes das forças e serviços de segurança.
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2017-105711868), publicado em 2017-01-10.
 
 ###### Artigo 4.º — Certificação da conformidade
 
-1 - Os explosivos referidos no n.º 1 do artigo 2.º devem satisfazer os requisitos essenciais de segurança constantes do anexo I ao presente diploma, que dele faz parte integrante.
+(Revogado.)
 
-2 - Os procedimentos de certificação da conformidade dos explosivos podem ser:
-
-a) O exame CE de tipo (módulo B) referido no anexo II, parte 1, do presente diploma, e que dele faz parte integrante, à escolha do fabricante;
-
-b) A verificação da unidade (módulo G) referida no anexo II, parte 6.
-
-3 - O exame a que se refere a alínea a) do número anterior pode ser:
-
-a) A conformidade com o tipo (módulo C) referida no anexo II, parte 2;
-
-b) O processo relativo à garantia de qualidade da produção (módulo D) referido no anexo II, parte 3;
-
-c) O processo relativo à garantia de qualidade do produto (módulo E) referido no anexo II, parte 4;
-
-d) A verificação do produto (módulo F) referida no anexo II, parte 5.
-
-4 - As entidades competentes para executar os procedimentos de certificação da conformidade serão designadas por despacho do Ministro da Administração Interna.
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2017-105711868), publicado em 2017-01-10.
 
 ###### Artigo 5.º — Marcação de conformidade
 
-1 - A marcação CE de conformidade é constituída pelas iniciais CE, de acordo com o símbolo gráfico constante do anexo III ao presente diploma, que dele faz parte integrante.
+(Revogado.)
 
-2 - Em caso de redução ou ampliação do símbolo referido no número anterior, deverão ser respeitadas as suas proporções.
+> Revogado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2017-105711868), publicado em 2017-01-10.
 
 ###### Artigo 6.º — Equiparação de transgressões a contra-ordenações
 

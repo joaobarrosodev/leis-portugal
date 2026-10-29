@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-01'
+version_history:
+  file: decreto-legislativo-regional-11-85-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-01'
+    amending: pt:dre:540626:por
+    amending_title: Decreto Legislativo Regional n.º 38/2006/M
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    38/2006/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-11-85-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,39 +136,65 @@ Para a realização desses objectivos, torna-se necessário eliminar na área do
 
 Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição e da alínea a) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-Artigo 1.º Salvo o disposto no artigo seguinte, é proibido o abandono ou despejo de aterros, lixos, materiais poluentes, detritos ou sucata em toda a área do Parque Natural da Madeira.
+###### Artigo 1.º
 
-Art. 2.º Em casos devidamente justificados e mediante prévia autorização do Parque Natural poderão ser admitidos vazamentos em zonas arcadas, as quais não poderão, em caso algum, situar-se em áreas de reserva ou de paisagem protegida.
+Salvo o disposto no artigo seguinte, é proibido o abandono ou despejo de aterros, lixos, materiais poluentes, detritos ou sucata em toda a área do Parque Natural da Madeira.
 
-Art. 3.º - 1 - Carece de autorização prévia do Parque Natural da Madeira a realização de quaisquer obras de edificação a efectuar na área deste.
+###### Artigo 2.º
+
+Em casos devidamente justificados e mediante prévia autorização do Parque Natural poderão ser admitidos vazamentos em zonas arcadas, as quais não poderão, em caso algum, situar-se em áreas de reserva ou de paisagem protegida.
+
+###### Artigo 3.º
+
+1 - Carece de autorização prévia do Parque Natural da Madeira a realização de quaisquer obras de edificação a efectuar na área deste.
 
 2 - A autorização não será concedida sempre que as obras a realizar possam causar alteração no meio físico e ambiente.
 
 3 - A autorização referida neste artigo constitui documento necessário ao processo para obtenção de outros condicionamentos ou licenças exigidos por lei.
 
-Art. 4.º - 1 - Carece igualmente de autorização prévia do Parque Natural da Madeira a abertura de estradas, caminhos e outras vias de acesso, bem como a extracção de produtos inertes de qualquer natureza, a levar a cabo na área daquele.
+###### Artigo 4.º
+
+1 - Carece igualmente de autorização prévia do Parque Natural da Madeira a abertura de estradas, caminhos e outras vias de acesso, bem como a extracção de produtos inertes de qualquer natureza, a levar a cabo na área daquele.
 
 2 - Os processos de licenciamento para a extracção de inertes na área do Parque Natural da Madeira já autorizados à data da entrada em vigor do presente diploma serão objecto de revisão quando se verifique que a sua continuação poderá provocar alteração no meio físico e ambiente.
 
-Art. 5.º - 1 - A infracção ao disposto no artigo 1.º do presente diploma constitui contra-ordenação, a que corresponde uma coima de 10000$00 a 100000$00.
+###### Artigo 5.º
 
-2 - A infracção ao disposto nos n.os 1 dos artigos 3.º e 4.º constitui contra-ordenação, a que corresponde a coima de 50000$00 a 200000$00.
+1 - A infracção ao disposto no artigo 1.º do presente decreto legislativo regional constitui contra-ordenação punível com coima de (euro) 50 a (euro) 2000.
+
+2 - As infracções ao disposto no n.º 1 dos artigos 3.º e 4.º constituem contra-ordenações puníveis com coima de (euro) 100 a (euro) 3500.
 
 3 - Em caso de reincidência, os limites das coimas mencionadas nos números anteriores serão sempre elevados para o dobro.
 
 4 - Para além das coimas previstas nos números anteriores, podem ser apreendidos os equipamentos e produtos objecto da prática da infracção.
 
-Art. 6.º - 1 - Os infractores às disposições do presente diploma ficam obrigados a repor a situação anterior.
+5 - O montante máximo da coima aplicável às pessoas colectivas é de (euro) 30000.
+
+6 - A negligência e a tentativa são puníveis.
+
+7 - Se o agente retirar da infracção um benefício económico calculável superior ao limite máximo da coima e não existirem outros meios de o eliminar, aquele limite eleva-se até ao montante do benefício, não podendo a elevação exceder um terço do limite máximo legalmente estabelecido.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 38/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2006-540626), publicado em 2006-08-23.
+
+###### Artigo 6.º
+
+1 - Os infractores às disposições do presente diploma ficam obrigados a repor a situação anterior.
 
 2 - No caso de os infractores não cumprirem o preceituado no número anterior, o Parque Natural da Madeira providenciará pela reposição, a expensas dos mesmos.
 
-Art. 7.º - 1 - O processamento das contra-ordenações e a aplicação das coimas previstas neste diploma são, respectivamente, da competência do Parque Natural da Madeira e do seu director.
+###### Artigo 7.º
+
+1 - O processamento das contra-ordenações e a aplicação das coimas previstas neste diploma são, respectivamente, da competência do Parque Natural da Madeira e do seu director.
 
 2 - O director do Parque Natural da Madeira poderá confiar a investigação e instrução dos processos por contra-ordenações às autoridades policiais, bem como solicitar o auxílio de outras autoridades e serviços públicos.
 
-Art. 8.º O produto resultante do pagamento das coimas previstas neste diploma constitui receita do Parque Natural da Madeira.
+###### Artigo 8.º
 
-Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+O produto resultante do pagamento das coimas previstas neste diploma constitui receita do Parque Natural da Madeira.
+
+###### Artigo 9.º
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 28 de Fevereiro de 1985.
 

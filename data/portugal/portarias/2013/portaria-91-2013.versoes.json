@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259247:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7b1a7d92833f3d6b",
+    "b8986f34d024a913",
+    "2ddb1f1d62a5a20f",
+    "78b2a370b018b1bc",
+    "2ed1c673929364ff",
+    "f4011e324dc74c2a"
+   ]
+  },
+  {
+   "date": "2013-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:276437:por",
+     "title": "Portaria n.º 135-B/2013",
+     "published": "2013-03-28",
+     "dre_path": "/dr/detalhe/portaria/135-b-2013-276437"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "7b1a7d92833f3d6b",
+    "b8986f34d024a913",
+    "2ddb1f1d62a5a20f",
+    "78b2a370b018b1bc",
+    "7bc50a6ba844a06d",
+    "f4011e324dc74c2a"
+   ]
+  }
+ ],
+ "fragments": {
+  "7b1a7d92833f3d6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de fevereiro\n\nO [Decreto-Lei n.º 34/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2013-259241), de 27 de fevereiro, procedeu à alteração do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de novembro, diploma que estabelece o regime de preços dos medicamentos, de forma a que o conjunto de países considerados, para a revisão internacional do preço dos medicamentos em Portugal, passe a ser definido anualmente por portaria do membro do Governo responsável pela área da saúde, publicada até 15 de novembro do ano precedente.\n\nComo critérios para essa definição de países estipulam-se três países da União Europeia que, face a Portugal, apresentem ou um produto interno bruto per capita comparável em paridade de poder de compra ou um nível de preços de medicamentos mais baixo.\n\nPara efeitos da revisão de preços para 2013, foi estabelecido no citado diploma, que a portaria que estabelece os países de referência, é imediatamente publicada após a entrada em vigor do Decreto -[Lei n.º 34/2013](https://diariodarepublica.pt/dr/detalhe/lei/34-2013-261089), de 27 de fevereiro.\n\nImporta, assim, dar execução ao [Decreto-Lei n.º 34/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2013-259241), de 27 de fevereiroe determinar quais os países a considerar no ano de 2013, e definir, relativamente ao processo de revisão de preços os respetivos prazos.\n\nAtendendo à necessidade de racionalização dos encargos públicos com medicamentos, o conjunto de países selecionados atende ao critério de países europeus com nível de preços de medicamentos mais baixos.\n\nPor outro lado, dadas as alterações entretanto verificadas no regime de preços dos medicamentos, não se justifica neste momento manter a dedução prevista na [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de outubro, pelo que se procede à revogação da referida Portaria.\n\nAdicionalmente, e para o ano de 2013, a revisão de preço não abrangerá os medicamentos genéricos cujo nível médio de preços praticados se situa abaixo dos preços de máximos que resultariam da sua revisão.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Saúde, ao abrigo do disposto no n.º 2 do artigo 6.º e artigo.º 14.º [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de novembro, alterado pelo [Decreto-Lei n.º 152/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2012-179572), de 12 de julho, e pelo [Decreto-Lei n.º 34/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2013-259241), de 27 de fevereiro, e no n.º 1 do artigo 4.º do Decreto-lei n.º 34/2013, de 27 de fevereiro o seguinte:"
+  },
+  "b8986f34d024a913": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece os países de referência a considerar em 2013 para efeitos de revisão anual de preços dos medicamentos, bem como os prazos dessa revisão, e procede à revogação da [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de outubro."
+  },
+  "2ddb1f1d62a5a20f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Países de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Países de referência\n\nPara o ano de 2013, são considerados países de referência, para efeitos do disposto no n.º 1 do artigo 6.º e do artigo 7.º do [Decreto-Lei n.º 112/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065), de 29 de novembro, na redação dada pelo [Decreto-Lei n.º 34/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2013-259241), de 27 de fevereiro, a Espanha, a França e a Eslováquia."
+  },
+  "78b2a370b018b1bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazos\n\nPara efeitos da revisão anual de preços para o ano de 2013, os titulares de autorização de introdução no mercado de medicamentos não genéricos, ou seus representantes, apresentam até 15 de março de 2013, as listagens de preços a praticar, os quais entram em vigor no dia 1 de abril de 2013."
+  },
+  "2ed1c673929364ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a [Portaria n.º 1041-A/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1041-a-2010-671941), de 7 de outubro."
+  },
+  "f4011e324dc74c2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação\n\nO Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 22 de fevereiro de 2013."
+  },
+  "7bc50a6ba844a06d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2013-03-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/135-b-2013-276437), publicado em 2013-03-28."
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\n1 - É revogada, a partir de 31 de março de 2013, a Portaria n.º 1041-A/2010, de 7 de outubro.\n\n2 - A revogação prevista no número anterior não abrange os medicamentos que em 31 de março de 2013 já se encontrem nos distribuidores por grosso ou nas farmácias, cujo escoamento deverá fazer-se nos termos do n.º 2 do artigo 10.º da Portaria n.º4/2012, de 2 de janeiro, mediante a aplicação da dedução prevista na Portaria n.º 1041-A/2010, de 7 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 135-B/2013](https://diariodarepublica.pt/dr/detalhe/portaria/135-b-2013-276437), publicado em 2013-03-28."
+  }
+ }
+}

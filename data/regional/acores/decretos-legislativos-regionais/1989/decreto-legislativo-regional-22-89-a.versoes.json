@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:549797:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-11-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c3b3153a5a9daf2a"
+   ]
+  },
+  {
+   "date": "1992-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176774:por",
+     "title": "Decreto Legislativo Regional n.º 8/92/A",
+     "published": "1992-03-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-1992-176774"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "c2b5852149dd7d67",
+    "4584e1a5c8ed55f9",
+    "41af8c5a1529f2e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "c3b3153a5a9daf2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "GEPAP - Formalidades administrativas\n\nConsiderando que, nos termos da alínea e) do n.º 1 do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, e com vista ao cumprimento do Programa de Desenvolvimento Agro-Pecuário da Ilha do Pico (PDAPIP), o Gabinete de Execução do Programa Agro-Pecuário da Ilha do Pico (GEPAP) deve celebrar contratos de prestação de serviços com os lavradores interessados;\n\nConsiderando que a natureza das funções cometidas aquele organismo não se compadece com a sujeição a determinadas formalidades, próprias da generalidade dos serviços públicos, que poderiam constituir entrave ao normal desenrolar das acções em curso:\n\nNestes termos, a Assembleia Legislativa Regional dos Açores decreta, com base na alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, o seguinte:\n\nArtigo 1.º Os contratos celebrados pelo GEPAP ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, estão dispensados de visto prévio da Secção Regional dos Açores do Tribunal de Contas.\n\nArt. 2.º A cobrança coerciva das dívidas à Região emergentes da execução do PDAPIP efectua-se nos termos do artigo 71.º do Estatuto Político-Administrativo da Região Autónoma dos Açores.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Setembro de 1989.\n\nO Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 16 de Outubro de 1989.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  },
+  "c2b5852149dd7d67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "GEPAP - Formalidades administrativas\n\nConsiderando que, nos termos da alínea e) do n.º 1 do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, e com vista ao cumprimento do Programa de Desenvolvimento Agro-Pecuário da Ilha do Pico (PDAPIP), o Gabinete de Execução do Programa Agro-Pecuário da Ilha do Pico (GEPAP) deve celebrar contratos de prestação de serviços com os lavradores interessados;\n\nConsiderando que a natureza das funções cometidas aquele organismo não se compadece com a sujeição a determinadas formalidades, próprias da generalidade dos serviços públicos, que poderiam constituir entrave ao normal desenrolar das acções em curso:\n\nNestes termos, a Assembleia Legislativa Regional dos Açores decreta, com base na alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, o seguinte:"
+  },
+  "4584e1a5c8ed55f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-03-20",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.",
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20.\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 8/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-176774), publicado em 1992-03-20."
+  },
+  "41af8c5a1529f2e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA cobrança coerciva das dívidas à Região emergentes da execução do PDAPIP efectua-se nos termos do artigo 71.º do Estatuto Político-Administrativo da Região Autónoma dos Açores.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Setembro de 1989.\n\nO Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 16 de Outubro de 1989.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  }
+ }
+}

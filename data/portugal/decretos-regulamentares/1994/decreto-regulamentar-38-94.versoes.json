@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654522:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9cdd06958f23d7e9",
+    "4eb341a5c3703312",
+    "1362dbc690ef5903",
+    "9aad3b465403a793",
+    "6c7ea20548d25ee9",
+    "e0688f828fe0dc8a",
+    "92d3a03a34873af3",
+    "cd0cf1c04861cc77",
+    "4b769cee67495e6b",
+    "555e2e2d01d02b32"
+   ]
+  },
+  {
+   "date": "1994-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:355905:por",
+     "title": "Declaração de Rectificação n.º 239/94",
+     "published": "1994-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/239-1994-355905"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 8.º"
+   ],
+   "fragments": [
+    "9cdd06958f23d7e9",
+    "4eb341a5c3703312",
+    "1362dbc690ef5903",
+    "9aad3b465403a793",
+    "6c7ea20548d25ee9",
+    "e0688f828fe0dc8a",
+    "92d3a03a34873af3",
+    "a78d60ae78b78f27",
+    "e4a24134e0966f97",
+    "555e2e2d01d02b32"
+   ]
+  }
+ ],
+ "fragments": {
+  "9cdd06958f23d7e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nO Centro de Comunicações da Armada, criado pela [Portaria n.º 17352](https://diariodarepublica.pt/dr/detalhe/portaria/17352-1959-429466), de 15 de Setembro de 1959, dispondo de um sistema computorizado para o processamento e comutação automáticos de mensagens, constitui o nó principal da rede de comunicações da Marinha.\n\nCumulativamente com as tarefas próprias do apoio aos seus utentes, o Centro de Comunicações da Armada assegura a ligação telegráfica às redes de comunicações que servem órgãos e entidades externos à Marinha, nomeadamente os inseridos nas estruturas do Ministério da Defesa Nacional e dos comandos aliados.\n\nNa sequência da aprovação da Lei Orgânica da Marinha, através do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, importa estabelecer as competências e definir a organização do Centro de Comunicações da Armada.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, e nos termos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "4eb341a5c3703312": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Centro de Comunicações da Armada (CCA) é um órgão de execução de serviços visando o processamento e a comutação automatizados de mensagens na rede de comunicações da Marinha.\n\n2 - O CCA funciona na dependência directa do Vice-Chefe do Estado-Maior da Armada."
+  },
+  "1362dbc690ef5903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\nAo CCA compete:\n\na) Assegurar o encaminhamento, processamento, cifra, distribuição e arquivo das mensagens originadas ou destinadas ao Chefe do Estado-Maior da Armada (CEMA), ao Estado-Maior da Armada, aos órgãos centrais de administração e direcção da Marinha e a outros órgãos e serviços que forem designados como seus utentes;\n\nb) Assegurar a condução e controlo das radiodifusões do serviço móvel marítimo pelas quais seja responsável;\n\nc) Exercer acção fiscalizadora, no âmbito dos procedimentos de comunicações em vigor, de todo o tráfego por si processado ou encaminhado."
+  },
+  "9aad3b465403a793": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura orgânica\n\n1 - O CCA compreende:\n\na) O chefe do CCA;\n\nb) O Serviço de Comunicações;\n\nc) O Serviço de Processamento Automático de Dados;\n\nd) O Serviço de Assistência Oficinal;\n\ne) O Serviço de Apoio Geral.\n\n2 - O apoio à gestão financeira e patrimonial do CCA é assegurado, nos termos da lei, por conselho administrativo a designar por despacho do CEMA."
+  },
+  "6c7ea20548d25ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Chefe do CCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Chefe do CCA\n\nAo chefe do CCA compete:\n\na) Planear, organizar, dirigir e controlar as actividades do CCA e o funcionamento dos seus serviços;\n\nb) Propor as medidas tidas por adequadas à optimização do funcionamento da rede de comunicações do serviço fixo da Marinha;\n\nc) Controlar a correcção dos procedimenos de comunicações nos circuitos operados no CCA;\n\nd) Promover a edição de publicações necessárias à exploração do CCA;\n\ne) Propor as dotações orçamentais anuais a atribuir ao CCA e efectuar a sua gestão."
+  },
+  "e0688f828fe0dc8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Serviço de Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviço de Comunicações\n\nAo Serviço de Comunicações compete:\n\na) Encaminhar, processar, distribuir e arquivar as mensagens originadas pelos utentes ou a eles destinadas;\n\nb) Executar as operações criptográficas necessárias ao manuseamento do tráfego classificado;\n\nc) Gerir os equipamentos de comunicações atribuídos ao CCA;\n\nd) Conduzir os sistemas de processamento automático de dados, de acordo com os procedimentos definidos pelo serviço respectivo;\n\ne) Operar os circuitos de serviço fixo de que o CCA é terminal;\n\nf) Manipular as radiodifusões do serviço móvel marítimo da responsabilidade do CCA e controlar a sua emissão;\n\ng) Guardar, controlar e actualizar as publicações distribuídas ao CCA;\n\nh) Executar os procedimentos necessários à edição de publicações relativas aos procedimentos de comunicações necessários à exploração do CCA e a utilizar pelos seus utentes."
+  },
+  "92d3a03a34873af3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviço de Processamento Automático de Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviço de Processamento Automático de Dados\n\nAo Serviço de Processamento Automático de Dados compete:\n\na) Gerir os sistemas de processamento automático de dados, estabelecendo procedimentos de condução e controlando o seu desempenho;\n\nb) Manter os sistemas de processamento automático de dados atribuídos, optimizando a sua disponibilidade;\n\nc) Estudar, propor e executar alterações à configuração dos sistemas de processamento automático de dados existentes."
+  },
+  "cd0cf1c04861cc77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço de Assistência Oficinal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de Assistência Oficinal\n\nAo Serviço de Assistência Oficinal compete:\n\na) Planear e executar, de acordo com as suas capacidades, as acções de manuteção de equipamentos e sistemas de comunicações instalados no CCA e em terminais periféricos ligados ao equipamento telegráfico automático de retransmissão de mensagens;\n\nb) Planear e executar as acções de manutenção de equipamentos e sistemas de produção e distribuição de energia eléctrica e de sistemas condicionadores de ar;\n\nc) Planear e executar, de acordo com as suas capacidades, as acções de manutenção dos motores-geradores, sistemas de distribuição de água e saneamento e meios de combate a incêndios instalados;\n\nd) Preparar e divulgar normas de operação dos equipamentos."
+  },
+  "4b769cee67495e6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de Apoio Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de Apoio Geral\n\n1 - Ao Serviço de Apoio Geral compete:\n\na) Executar as tarefas de natureza administrativa inerentes à gestão do pessoal em serviço no CCA;\n\nb) Receber, registar, expedir processar e arquivar a correspondência do CCA e executar os trabalhos de dactilografia e reprodução de documentos necessários ao seu funcionamento;\n\nc) Coordenar a utilização das viaturas atribuídas ao CCA;\n\nd) Assegurar a elaboração do orçamento anual e processar todas as despesas resultantes da sua execução nos termos da lei;\n\ne) Executar a contabilidade patrimonial, assegurar a obtenção dos meios materiais necessários ao funcionamento dos serviços e gerir as existências correntes;\n\nf) Organizar e assegurar o controlo dos chaveiros e das entradas e saídas de pessoal e material;\n\ng) Elaborar, manter e assegurar a execução de normas para a prevenção e combate a incêndios;\n\nh) Executar, de acordo com as suas capacidades, as acções de manutenção, conservação e reparação das instalações do CCA e efectuar a sua limpeza.\n\n2 - O Serviço de Apoio Geral é chefiado por um oficial, em regime de acumulação com outras funções no CCA."
+  },
+  "555e2e2d01d02b32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogadas:\n\na) A [Portaria n.º 17352](https://diariodarepublica.pt/dr/detalhe/portaria/17352-1959-429466), de 18 de Setembro de 1959;\n\nb) A [Portaria n.º 427/75](https://diariodarepublica.pt/dr/detalhe/portaria/427-1975-336991), de 12 de Julho.\n\nPresidência do Conselho de Ministros, 4 de Abril de 1994.\n\nAníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.\n\nPromulgado em 5 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Agosto de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "a78d60ae78b78f27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço de Assistência Oficinal",
+   "in_force_from": "1994-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30."
+   ],
+   "markdown": "###### Artigo 7.º — Serviço de Assistência Oficinal\n\nAo Serviço de Assistência Oficinal compete:\n\na) Planear e executar, de acordo com as suas capacidades, as acções de manutenção de equipamentos e sistemas de comunicações instalados no CCA e em terminais periféricos ligados ao equipamento telegráfico automático de retransmissão de mensagens;\n\nb) Planear e executar as acções de manutenção de equipamentos e sistemas de produção e distribuição de energia eléctrica e de sistemas condicionadores de ar;\n\nc) Planear e executar, de acordo com as suas capacidades, as acções de manutenção dos motores-geradores, sistemas de distribuição de água e saneamento e meios de combate a incêndios instalados;\n\nd) Preparar e divulgar normas de operação dos equipamentos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30."
+  },
+  "e4a24134e0966f97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de Apoio Geral",
+   "in_force_from": "1994-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30."
+   ],
+   "markdown": "###### Artigo 8.º — Serviço de Apoio Geral\n\n1 - Ao Serviço de Apoio Geral compete:\n\na) Executar as tarefas de natureza administrativa inerentes à gestão do pessoal em serviço no CCA;\n\nb) Receber, registar, expedir, processar e arquivar a correspondência do CCA e executar os trabalhos de dactilografia e reprodução de documentos necessários ao seu funcionamento;\n\nc) Coordenar a utilização das viaturas atribuídas ao CCA;\n\nd) Assegurar a elaboração do orçamento anual e processar todas as despesas resultantes da sua execução nos termos da lei;\n\ne) Executar a contabilidade patrimonial, assegurar a obtenção dos meios materiais necessários ao funcionamento dos serviços e gerir as existências correntes;\n\nf) Organizar e assegurar o controlo dos chaveiros e das entradas e saídas de pessoal e material;\n\ng) Elaborar, manter e assegurar a execução de normas para a prevenção e combate a incêndios;\n\nh) Executar, de acordo com as suas capacidades, as acções de manutenção, conservação e reparação das instalações do CCA e efectuar a sua limpeza.\n\n2 - O Serviço de Apoio Geral é chefiado por um oficial, em regime de acumulação com outras funções no CCA.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 239/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/239-1994-355905), publicado em 1994-11-30."
+  }
+ }
+}

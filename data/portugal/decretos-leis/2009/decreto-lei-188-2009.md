@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-01'
+version_history:
+  file: decreto-lei-188-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-01'
+    amending: pt:dre:175280:por
+    amending_title: Decreto-Lei n.º 184/2012
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 25.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/188/2009/08/12/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:08:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 184/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-188-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,6 +225,18 @@ d) Definição do funcionamento dos mecanismos de monitorização e de auditoria
 
 2 - O PNDAE é aprovado pelo conselho directivo do INEM, I. P., ouvidos a comissão técnico-científica do INEM, I. P., os serviços e organismos regionais com atribuições e competências equivalentes às deste instituto público e as entidades que aquele órgão entenda ser adequado consultar.
 
+3 - É obrigatória a instalação de equipamentos de DAE nos seguintes locais de acesso ao público:
+
+a) Estabelecimentos de comércio e conjuntos comerciais abrangidos pelas alíneas a) e c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 21/2009, de 19 de janeiro;
+
+b) Aeroportos e portos comerciais;
+
+c) Estações ferroviárias, de metro e de camionagem com fluxo médio diário superior a 10 000 passageiros;
+
+d) Recintos desportivos, de lazer e de recreio com lotação superior a 5000 pessoas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2012-175280), publicado em 2012-08-08.
+
 ### CAPÍTULO II — Meios humanos
 
 #### Secção I — Responsável médico
@@ -252,9 +281,11 @@ f) Avaliar cada acto de DAE, mediante a verificação da documentação relativa
 
 ###### Artigo 10.º — Vigência e revogação do certificado
 
-1 - O certificado vigora por três anos, dependendo a sua renovação de um curso de verificação do cumprimento dos requisitos de que depende a obtenção do certificado.
+1 - O certificado vigora por cinco anos, dependendo a sua renovação de um curso de verificação do cumprimento dos requisitos necessários à sua obtenção, nos termos do n.º 2 do artigo 9.º
 
 2 - O certificado pode ser revogado pela entidade que o tenha concedido, em caso de incumprimento, pelo seu titular, das normas definidas no presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2012-175280), publicado em 2012-08-08.
 
 ###### Artigo 11.º — Âmbito da prática de actos de desfibrilhação automática externa
 
@@ -450,7 +481,11 @@ e) Falta de envio dos documentos e registos referidos nos artigos 23.º e 24.º;
 
 f) Recusa de colaboração com acções de fiscalização ou prática de actos que ilegitimamente impeçam ou dificultem a sua realização.
 
+g) Incumprimento da obrigação de instalação de equipamentos de DAE nos locais referidos no n.º 3 do artigo 5.º
+
 2 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos da coima reduzidos a metade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 184/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2012-175280), publicado em 2012-08-08.
 
 ###### Artigo 26.º — Sanções acessórias
 

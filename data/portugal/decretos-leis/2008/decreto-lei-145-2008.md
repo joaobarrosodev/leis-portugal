@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-02-19'
+version_history:
+  file: decreto-lei-145-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-02-19'
+    amending: pt:dre:572451:por
+    amending_title: Decreto-Lei n.º 25/2014
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/145/2008/07/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:03:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 25/2014. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-145-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +189,9 @@ b) O preço de referência do combustível do dia imediatamente anterior a cada 
 
 ###### Artigo 2.º — Extensão
 
-O artigo 4.º-A do [Decreto-Lei n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2003-483392), de 4 de Outubro, na redacção do presente decreto-lei, aplica-se aos contratos de prestação de serviços em veículos de pronto-socorro.
+(Revogado.)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), publicado em 2014-02-14.
 
 ###### Artigo 3.º — Produção de efeitos
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-03'
+version_history:
+  file: decreto-regulamentar-6-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-03'
+    amending: pt:dre:240384:por
+    amending_title: Decreto-Lei n.º 1/2004
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/6/1999/05/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:26:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 1/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1999/decreto-regulamentar-6-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,23 +190,9 @@ O Gabinete de Estudos e Prospectiva Económica, adiante abreviadamente designado
 
 ###### Artigo 2.º — Atribuições
 
-São atribuições do GEPE, no âmbito da intervenção do Ministério da Economia:
+(Revogado.)
 
-a) Promover, coordenar e realizar estudos que contribuam para a formulação das políticas relevantes para as áreas de intervenção do Ministério da Economia, numa óptica prospectiva, integrada e global;
-
-b) Analisar a evolução da actividade económica, assegurando a coordenação, tratamento e análise da informação estatística, visando a formação de expectativas pelos agentes económicos;
-
-c) Coordenar, gerir e disponibilizar a informação relativa aos estudos promovidos, realizados ou adjudicados no âmbito do Ministério e emitir parecer prévio à realização de novos estudos, com vista a racionalizar o seu potencial e a melhor internalizar a utilização dos seus resultados;
-
-d) Promover e desenvolver acções que contribuam para a articulação entre as políticas sectoriais e horizontais do Ministério e entre estas e outras políticas relevantes do Governo, com impacte na competitividade e internacionalização da economia portuguesa;
-
-e) Fomentar, na base de parcerias e de cooperação, actividades de reflexão com universidades, centros de investigação e outros agentes económicos, nacionais e estrangeiros, visando uma envolvente económica favorável a estratégias empresariais abertas ao desenvolvimento dos novos factores de competitividade e à internacionalização da economia portuguesa;
-
-f) Proporcionar informação qualificada de natureza envolvente e estratégica aos agentes económicos;
-
-g) Participar na elaboração das Grandes Opções do Plano e de planos nacionais de desenvolvimento sócio-económicos;
-
-h) Participar na formulação das medidas de política que integram o Orçamento do Estado.
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 1/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2004-240384), publicado em 2004-01-02.
 
 ### CAPÍTULO II — Órgãos e serviços
 

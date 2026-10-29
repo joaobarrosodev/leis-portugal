@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-04-01'
+version_history:
+  file: portaria-417-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-04-01'
+    amending: pt:dre:195656:por
+    amending_title: Portaria n.º 135/86
+    changes:
+    - Revoga Artigo 29.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:04:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 135/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-417-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Regulamento de Leilões de Gado
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º O Regulamento de Leilões de Gado tem como objectivo reger o seu funcionamento por forma a:
+###### Artigo 1.º
+
+O Regulamento de Leilões de Gado tem como objectivo reger o seu funcionamento por forma a:
 
 a) Disciplinar a apresentação para venda de animais em leilão, das espécies bovina, ovina, caprina e equina, destinados à recria, acabamento e abate;
 
@@ -174,91 +191,147 @@ d) Tornar rápido e expedito o juízo sobre valor dos animais;
 
 e) Constituir centros de recolha e divulgação de cotações de animais vivos, atendendo à raça e grupos etários dos animais.
 
-Art. 2.º - 1 - Nos leilões por si promovidos, a Junta Nacional dos Produtos Pecuários nomeará, pelo período de 1 ano, renovável, 1 director de leilão, que presidirá à sua realização.
+###### Artigo 2.º
+
+1 - Nos leilões por si promovidos, a Junta Nacional dos Produtos Pecuários nomeará, pelo período de 1 ano, renovável, 1 director de leilão, que presidirá à sua realização.
 
 2 - Nos leilões referidos no número anterior funcionará uma comissão permanente com as atribuições referidas no artigo 35.º deste Regulamento.
 
-Art. 3.º A realização dos leilões será anunciada nos órgãos de comunicação social, com uma antecedência mínima de 15 dias.
+###### Artigo 3.º
 
-Art. 4.º Sempre que possível poderão ser admitidos animais destinados a exposição, mediante o pagamento de um valor destinado a suportar despesas de alimentação e manutenção, o que deverá constar obrigatoriamente do anúncio previsto no artigo 3.º deste Regulamento.
+A realização dos leilões será anunciada nos órgãos de comunicação social, com uma antecedência mínima de 15 dias.
 
-Art. 5.º Compete à entidade promotora promover a realização das operações necessárias à transacção dos animais expostos, dinamizando o eficiente funcionamento dos leilões de gado.
+###### Artigo 4.º
 
-Art. 6.º Todos os vendedores e compradores operantes no leilão deverão, obrigatoriamente, tomar conhecimento prévio deste diploma, dele não podendo alegar desconhecimento.
+Sempre que possível poderão ser admitidos animais destinados a exposição, mediante o pagamento de um valor destinado a suportar despesas de alimentação e manutenção, o que deverá constar obrigatoriamente do anúncio previsto no artigo 3.º deste Regulamento.
+
+###### Artigo 5.º
+
+Compete à entidade promotora promover a realização das operações necessárias à transacção dos animais expostos, dinamizando o eficiente funcionamento dos leilões de gado.
+
+###### Artigo 6.º
+
+Todos os vendedores e compradores operantes no leilão deverão, obrigatoriamente, tomar conhecimento prévio deste diploma, dele não podendo alegar desconhecimento.
 
 ### CAPÍTULO II — Da admissão e recepção do gado
 
-Art. 7.º Para efeitos de admissão nos parques, a inscrição de gado efecuar-se-á na sede e nas delegações da Junta Nacional dos Produtos Pecuários ou nos parques de gado, com uma antecedência mínima de 10 dias sobre a data do leilão.
+###### Artigo 7.º
 
-Art. 8.º A convocatória far-se-á pela ordem de inscrição, até ao limite da capacidade do parque, nos 7 dias subsequentes ao recebimento da inscrição.
+Para efeitos de admissão nos parques, a inscrição de gado efecuar-se-á na sede e nas delegações da Junta Nacional dos Produtos Pecuários ou nos parques de gado, com uma antecedência mínima de 10 dias sobre a data do leilão.
 
-Art. 9.º A data de admissão dos animais inscritos será anunciada nos órgãos de comunicação social, nos termos do artigo 3.º do presente Regulamento.
+###### Artigo 8.º
 
-Art. 10.º Compete às direcções regionais de agricultura a inspecção sanitária dos animais e o controle da documentação oficialmente exigida no acto de admissão, bem como a determinação do destino a dar aos rejeitados e aos que vierem a ser excluídos, nos termos do artigo 20.º do presente Regulamento.
+A convocatória far-se-á pela ordem de inscrição, até ao limite da capacidade do parque, nos 7 dias subsequentes ao recebimento da inscrição.
+
+###### Artigo 9.º
+
+A data de admissão dos animais inscritos será anunciada nos órgãos de comunicação social, nos termos do artigo 3.º do presente Regulamento.
+
+###### Artigo 10.º
+
+Compete às direcções regionais de agricultura a inspecção sanitária dos animais e o controle da documentação oficialmente exigida no acto de admissão, bem como a determinação do destino a dar aos rejeitados e aos que vierem a ser excluídos, nos termos do artigo 20.º do presente Regulamento.
 
 ### CAPÍTULO III — Do leilão do gado
 
-Art. 11.º Podem concorrer aos leilões os produtores reconhecidos pelas entidades oficiais ou pelas organizações da produção, os possuidores de centros de acabamento de gado devidamente credenciados, os comerciantes de gado e os importadores e exportadores registados, segundo legislação aplicável.
+###### Artigo 11.º
 
-Art. 12.º Os utentes adquirem a condição de licitantes desde que previamente registados para o efeito.
+Podem concorrer aos leilões os produtores reconhecidos pelas entidades oficiais ou pelas organizações da produção, os possuidores de centros de acabamento de gado devidamente credenciados, os comerciantes de gado e os importadores e exportadores registados, segundo legislação aplicável.
 
-Art. 13.º Os arrematantes de gado para recria e para acabamento deverão, obrigatoriamente, estar munidos de documento oficial, passado pela direcção regional de agricultura da sua área, comprovativo de que dispõem de instalações adequadas para o efeito, cujo tempo de validade será definido pela entidade emissora.
+###### Artigo 12.º
 
-Art. 14.º A adjudicação é feita pela melhor oferta.
+Os utentes adquirem a condição de licitantes desde que previamente registados para o efeito.
 
-Art. 15.º O vendedor não pode licitar no seu próprio lote nem fazê-lo através do seu agente.
+###### Artigo 13.º
 
-Art. 16.º Ninguém poderá anunciar qualquer lance numa soma inferior dada pelo leiloeiro de tempos a tempos.
+Os arrematantes de gado para recria e para acabamento deverão, obrigatoriamente, estar munidos de documento oficial, passado pela direcção regional de agricultura da sua área, comprovativo de que dispõem de instalações adequadas para o efeito, cujo tempo de validade será definido pela entidade emissora.
 
-Art. 17.º Nenhum lance poderá ser retirado.
+###### Artigo 14.º
 
-Art. 18.º O leiloeiro poderá, em caso de dúvida quanto ao responsável pelo lance mais alto, obrigar que o animal ou lote em disputa seja levado novamente à praça, podendo somente licitar os ofertantes daquele lance.
+A adjudicação é feita pela melhor oferta.
 
-Art. 19.º Qualquer reclamação inerente à licitação e à adjudicação só poderá ser feita perante o leiloeiro, dentro do período de funcionamento do leilão, que dela dará conhecimento ao director do leilão.
+###### Artigo 15.º
 
-Art. 20.º O director do leilão poderá excluir ou mandar retirar do leilão qualquer animal que, em sua opinião, se revele perigoso ou aparente sintomas de doença ou de inferioridade física, consultando, sempre que necessário, a respectiva autoridade sanitária.
+O vendedor não pode licitar no seu próprio lote nem fazê-lo através do seu agente.
 
-Art. 21.º Nenhum animal ou lote de animais poderá ser retirado do leilão após o início deste.
+###### Artigo 16.º
 
-Art. 22.º Quando qualquer animal ou lote de animais recebidos para leilão for transaccionado antes ou depois do leilão, ainda que o lote tenha sido retirado, obriga-se ao pagamento dos valores estabelecidos na alínea a) do artigo 29.º
+Ninguém poderá anunciar qualquer lance numa soma inferior dada pelo leiloeiro de tempos a tempos.
 
-Art. 23.º A base de licitação será definida pelo proprietário dos animais ou seu representante, desde que devidamente credenciado.
+###### Artigo 17.º
 
-Art. 24.º - 1 - Os preços de avaliação serão definidos para cada leilão, tendo por base os preços de garantia da Junta Nacional dos Produtos Pecuários e os preços de mercado.
+Nenhum lance poderá ser retirado.
+
+###### Artigo 18.º
+
+O leiloeiro poderá, em caso de dúvida quanto ao responsável pelo lance mais alto, obrigar que o animal ou lote em disputa seja levado novamente à praça, podendo somente licitar os ofertantes daquele lance.
+
+###### Artigo 19.º
+
+Qualquer reclamação inerente à licitação e à adjudicação só poderá ser feita perante o leiloeiro, dentro do período de funcionamento do leilão, que dela dará conhecimento ao director do leilão.
+
+###### Artigo 20.º
+
+O director do leilão poderá excluir ou mandar retirar do leilão qualquer animal que, em sua opinião, se revele perigoso ou aparente sintomas de doença ou de inferioridade física, consultando, sempre que necessário, a respectiva autoridade sanitária.
+
+###### Artigo 21.º
+
+Nenhum animal ou lote de animais poderá ser retirado do leilão após o início deste.
+
+###### Artigo 22.º
+
+Quando qualquer animal ou lote de animais recebidos para leilão for transaccionado antes ou depois do leilão, ainda que o lote tenha sido retirado, obriga-se ao pagamento dos valores estabelecidos na alínea a) do artigo 29.º
+
+###### Artigo 23.º
+
+A base de licitação será definida pelo proprietário dos animais ou seu representante, desde que devidamente credenciado.
+
+###### Artigo 24.º
+
+1 - Os preços de avaliação serão definidos para cada leilão, tendo por base os preços de garantia da Junta Nacional dos Produtos Pecuários e os preços de mercado.
 
 2 - Os animais são avaliados pelo representante da Junta Nacional dos Produtos Pecuários, devendo estar presente à avaliação o proprietário dos animais ou seu representante devidamente credenciado, sob pena de os animais não serem admitidos a leilão.
 
-Art. 25.º No caso de não haver lance que cubra a base de licitação, a Junta Nacional dos Produtos Pecuários garantirá ao representante a aquisição pelo valor de avaliação, até final do leilão.
+###### Artigo 25.º
 
-Art. 26.º Os animais leiloados serão entregues ao arrematante contra apresentação de documento comprovativo da liquidação do valor da arrematação e encargos respectivos.
+No caso de não haver lance que cubra a base de licitação, a Junta Nacional dos Produtos Pecuários garantirá ao representante a aquisição pelo valor de avaliação, até final do leilão.
+
+###### Artigo 26.º
+
+Os animais leiloados serão entregues ao arrematante contra apresentação de documento comprovativo da liquidação do valor da arrematação e encargos respectivos.
 
 § único. O valor da arrematação será liquidado directamente ao vendedor, sem intervenção da entidade promotora.
 
-Art. 27.º A retirada dos animais é feita após o término do leilão ou no dia imediato, não se responsabilizando a Junta Nacional dos Produtos Pecuários pela manutenção e guarda dos animais depois das 17 horas do dia seguinte ao do leilão.
+###### Artigo 27.º
 
-Art. 28.º Qualquer violação ao presente Regulamento poderá implicar para o seu autor ou autores a perca do direito temporário ou permanente à participação nos leilões.
+A retirada dos animais é feita após o término do leilão ou no dia imediato, não se responsabilizando a Junta Nacional dos Produtos Pecuários pela manutenção e guarda dos animais depois das 17 horas do dia seguinte ao do leilão.
+
+###### Artigo 28.º
+
+Qualquer violação ao presente Regulamento poderá implicar para o seu autor ou autores a perca do direito temporário ou permanente à participação nos leilões.
 
 ### CAPÍTULO IV — Das receitas e despesas
 
-Art. 29.º Pela utilização das instalações para a realização dos leilões, a Junta Nacional dos Produtos Pecuários cobrará:
+###### Artigo 29.º
 
-a) Em caso de venda, 0,6% a pagar pelo arrematante e 0,6% a pagar pelo apresentante, sobre o valor da arrematação;
+(Revogado.)
 
-b) Em caso de não haver venda, 0,6% a pagar pelo apresentante, sobre o valor da avaliação;
-
-c) Os proprietários que desejem retirar do leilão os seus animais só o poderão fazer após o fecho deste e do pagamento referido na alínea b);
-
-d) No caso de o apresentante fazer prova de que é criador devidamente reconhecido pela direcção regional de agricultura da área a que pertence e que, paralelamente, o animal ou animais que apresentar a leilão lhe pertencem há, pelo menos, 3 meses, pagará apenas 0,3% dos valores referidos nas alíneas a) e b).
+> Revogado pelo/a [Portaria n.º 135/86](https://diariodarepublica.pt/dr/detalhe/portaria/135-1986-195656), publicado em 1986-04-07.
 
 ### CAPÍTULO V — Das indemnizações
 
-Art. 30.º A Junta Nacional dos Produtos Pecuários garante o pagamento de uma indemnização ao dono dos animais que, uma vez admitidos no recinto do parque, sofram acidente, morte ou tenham de ser sujeitos a abate coercivo, passando os mesmos a ser propriedade da Junta Nacional dos Produtos Pecuários.
+###### Artigo 30.º
 
-Art. 31.º Se o acidente ou morte ocorrer depois de o animal ser leiloado, a indemnização será processada com base no preço de arrematação; caso contrário, será considerado o preço de avaliação.
+A Junta Nacional dos Produtos Pecuários garante o pagamento de uma indemnização ao dono dos animais que, uma vez admitidos no recinto do parque, sofram acidente, morte ou tenham de ser sujeitos a abate coercivo, passando os mesmos a ser propriedade da Junta Nacional dos Produtos Pecuários.
+
+###### Artigo 31.º
+
+Se o acidente ou morte ocorrer depois de o animal ser leiloado, a indemnização será processada com base no preço de arrematação; caso contrário, será considerado o preço de avaliação.
 
 ### CAPÍTULO VI — Do director do leilão e da comissão permanente
 
-Art. 32.º O director do leilão preside e coordena a sua realização, competindo-lhe, nomeadamente:
+###### Artigo 32.º
+
+O director do leilão preside e coordena a sua realização, competindo-lhe, nomeadamente:
 
 a) Presidir à comissão permanente;
 
@@ -276,7 +349,9 @@ g) Decidir da aplicação de sanções previstas no artigo 28.º do presente Reg
 
 h) Apreciar e decidir sobre todos os incidentes e reclamações surgidos no decorrer do leilão e da sua decisão não haver recurso.
 
-Art. 33.º - 1 - A comissão permanente é composta por:
+###### Artigo 33.º
+
+1 - A comissão permanente é composta por:
 
 a) O director do leilão, que presidirá;
 
@@ -286,9 +361,13 @@ b) 2 vogais efectivos, representantes dos vendedores e dos compradores, indicado
 
 3 - O mandato dos vogais que integram a comissão permanente terá a duração de 1 ano, renovável por iguais períodos.
 
-Art. 34.º Os vogais efectivos terão direito à atribuição de um subsídio de compensação de encargos, a suportar pela entidade promotora.
+###### Artigo 34.º
 
-Art. 35.º São atribuições da comissão permanente:
+Os vogais efectivos terão direito à atribuição de um subsídio de compensação de encargos, a suportar pela entidade promotora.
+
+###### Artigo 35.º
+
+São atribuições da comissão permanente:
 
 a) Colaborar com o director do leilão em todos os actos necessários ao bom funcionamento do leilão;
 

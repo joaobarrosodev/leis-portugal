@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-01-12'
+version_history:
+  file: decreto-lei-265-a-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-01-12'
+    amending: pt:dre:302168:por
+    amending_title: Decreto-Lei n.º 2/97
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/265-a/1995/10/17/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:40:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 2/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-265-a-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,11 +170,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - O Ministro das Obras Públicas, Transportes e Comunicações fica autorizado a aceitar, em nome do Governo, a cessação do actual contrato de concessão da Companhia Portuguesa Rádio Marconi, S. A. (CPRM).
+###### Artigo 1.º
+
+1 - O Ministro das Obras Públicas, Transportes e Comunicações fica autorizado a aceitar, em nome do Governo, a cessação do actual contrato de concessão da Companhia Portuguesa Rádio Marconi, S. A. (CPRM).
 
 2 - Sem prejuízo do disposto no artigo seguinte, a cessação do contrato de concessão da CPRM produz todos os seus efeitos no momento da aludida aceitação.
 
-Art. 2.º - 1 - Para a execução do disposto no artigo 18.º do contrato de concessão da CPRM, esta sociedade e o Instituto das Comunicações de Portugal (ICP) estabelecerão, no prazo de 30 dias a contar da publicação do presente diploma, o inventário dos bens, bem como o elenco das posições jurídicas que se transmitem com o estabelecimento, incluindo as de natureza laboral, afectos à exploração da concessão.
+###### Artigo 2.º
+
+1 - Para a execução do disposto no artigo 18.º do contrato de concessão da CPRM, esta sociedade e o Instituto das Comunicações de Portugal (ICP) estabelecerão, no prazo de 30 dias a contar da publicação do presente diploma, o inventário dos bens, bem como o elenco das posições jurídicas que se transmitem com o estabelecimento, incluindo as de natureza laboral, afectos à exploração da concessão.
 
 2 - Os efeitos do disposto no artigo 18.º do contrato de concessão da CPRM produzem-se com a homologação, pelo Ministro das Obras Públicas, Transportes e Comunicações, do inventário e do elenco referidos no número anterior.
 
@@ -166,15 +186,29 @@ Art. 2.º - 1 - Para a execução do disposto no artigo 18.º do contrato de con
 
 4 - São isentos de quaisquer taxas, emolumentos e outros encargos legais os actos necessários à regularização da transmissão referida no número anterior, bem como os decorrentes da aplicação da cláusula 27.ª do mencionado contrato de concessão.
 
-Art. 3.º - 1 - Os trabalhadores da CPRM que vierem a ser integrados na Portugal Telecom, S. A. (PT), por efeito do disposto no artigo anterior e do contrato de concessão desta última, mantêm perante a Caixa de Previdência do Pessoal da CPRM os direitos inerentes à sua qualidade de beneficiários, assumindo a PT, perante aquela Caixa, todas as obrigações do âmbito do regime geral da segurança social que cabiam à mesma Caixa relativamente aos trabalhadores referidos, até à definição que vier a ser tomada aquando da integração da Caixa de Previdência do Pessoal da CPRM no sistema da segurança social.
+###### Artigo 3.º
 
-2 - A PT é garante, nos termos do Código das Sociedades Comerciais, das obrigações actualmente assumidas pela CPRM no âmbito do regime geral da segurança social, relativamente aos trabalhadores não abrangidos pelo disposto no número anterior.
+1 - Os trabalhadores da CPRM que na sequência da cessação do contrato de concessão sejam integrados na Portugal Telecom, S. A. (PT), e, bem assim, os pensionistas por invalidez, velhice e sobrevivência mantêm o direito à protecção social garantida pela Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi, incluindo a decorrente do Fundo Especial de Melhoria da Segurança Social, e pelos esquemas de protecção, complementares e suplementares, assegurados pela CPRM aos seus trabalhadores.
 
-3 - As contribuições para o Fundo de Pensões da Marconi, que garante o pagamento de complementos de pensões de reforma, relativas aos trabalhadores que, por efeito do disposto no artigo anterior e no contrato de concessão da PT, sejam integrados nesta última, passam, enquanto for o caso nos termos legal e contratualmente aplicáveis, a ser asseguradas por esta empresa.
+2 - Os pensionistas por invalidez, velhice e sobrevivência, a que se refere o número anterior, compreendem os existentes à data da entrada em vigor deste diploma e os trabalhadores da CPRM e seus familiares que, futuramente, venham a adquirir tal qualidade, independentemente de estes trabalhadores terem, ou não, sido integrados na PT.
 
-Art. 4.º A associação sem fins lucrativos equiparada a instituição particular de solidariedade social nos termos do n.º 1 do artigo 10.º do [Decreto-Lei n.º 122/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1994-264277), de 14 de Maio, que a PT, em execução do mesmo preceito, venha a constituir com os CTT - Correios de Portugal, S. A., ou com outras entidades, poderá alargar o respectivo âmbito de actuação a trabalhadores da CPRM.
+3 - Para efeito do disposto no n.º 1 deste artigo, a PT sucede à CPRM, perante a mencionada Caixa de Previdência e as entidades gestoras dos referidos esquemas, quer quanto à obrigação de integrar os valores das pensões, enquanto não forem constituídas as correspondentes reservas matemáticas e o Fundo de Reserva, quer quanto às obrigações que decorram dos esquemas complementares e suplementares de protecção social garantidos aos trabalhadores.
 
-Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+4 - Os trabalhadores que transitem para a PT não perdem a qualidade de beneficiários da Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi, cujo âmbito é, para os mesmos efeitos, alargado àquela empresa, a qual assume a qualidade de contribuinte, nomeadamente de protecção social garantidos aos trabalhadores.
+
+5 - A PT é garante dos direitos à protecção social não previstos nos números anteriores, relativamente aos trabalhadores da CPRM, bem como dos reconhecidos pelas disposições legais aplicáveis, relativamente aos ex-trabalhadores desta empresa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 2/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1997-302168), publicado em 1997-01-07.
+
+###### Artigo 4.º
+
+A associação sem fins lucrativos equiparada a instituição particular de solidariedade social, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 122/94, de 14 de Maio, que a PT, em execução do mesmo preceito, venha a constituir com os CTT - Correios de Portugal, S. A., ou com outras entidades, poderá alargar o respectivo âmbito pessoal aos trabalhadores e pensionistas a que se refere o artigo anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 2/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1997-302168), publicado em 1997-01-07.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 

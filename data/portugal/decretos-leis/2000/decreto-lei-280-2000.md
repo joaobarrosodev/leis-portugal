@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-09-27'
+version_history:
+  file: decreto-lei-280-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-09-27'
+    amending: pt:dre:148001:por
+    amending_title: Decreto-Lei n.º 165/2005
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/280/2000/11/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:20:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 165/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-280-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +168,9 @@ Durante o período de 90 dias, contados da data de entrada em vigor do presente 
 
 ###### Artigo 2.º — Duração e limite
 
-Os contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até um limite de cinco anos, se não forem oportunamente denunciados nos termos da lei geral.
+Os contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até ao limite de seis anos, se não forem oportunamente denunciados nos termos da lei geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), publicado em 2005-09-22.
 
 ###### Artigo 3.º — Recrutamento
 

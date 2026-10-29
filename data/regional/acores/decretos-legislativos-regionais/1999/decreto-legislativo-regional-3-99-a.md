@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-08-01'
+version_history:
+  file: decreto-legislativo-regional-3-99-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-08-01'
+    amending: pt:dre:346707:por
+    amending_title: Decreto Legislativo Regional n.º 24/99/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/3/1999/01/20/a/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    24/99/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1999/decreto-legislativo-regional-3-99-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,13 +163,19 @@ A aplicação do [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/deta
 
 1 - O regime de regularização instituído pelos diplomas referidos no artigo anterior aplica-se ainda:
 
-a) Ao pessoal que entre 10 de Janeiro e 26 de Junho de 1996 esteve ou estava ao abrigo do programa criado pela Resolução n.º 125/93, de 11 de Novembro, e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo;
+a) Ao pessoal que entre 10 de Janeiro e 26 de Junho de 1996 esteve ou estava ao abrigo do programa criado pela Resolução n.º 125/93, de 11 de Novembro, e ou do Decreto Regulamentar Regional n.º 50/83/A, de 15 de Novembro, e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo;
 
 b) Ao pessoal admitido ao abrigo do programa a que se refere a Resolução n.º 29/97, de 13 de Março, e que, no âmbito do mesmo, possua 12 meses de serviço continuado e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo.
+
+c) Ao pessoal admitido ao abrigo do Decreto Regulamentar Regional n.º 50/83/A, de 15 de Janeiro, e que, no âmbito do mesmo, possua 12 meses de serviço continuado e se encontrava a desempenhar funções correspondentes a necessidades permanentes dos serviços, com subordinação hierárquica e horário completo.
 
 2 - O pessoal a que se refere a alínea a) do número anterior só poderá ser objecto de regularização desde que, no momento da entrada em vigor do presente diploma, se encontre a prestar serviço, a qualquer título, nos serviços a que se reporta o artigo 1.º, com subordinação hierárquica e horário completo.
 
 3 - A aferição do tempo de serviço a que se refere a alínea b) do n.º 1 deste artigo é reportada até 30 de Setembro de 1998, independentemente de o pessoal nesta data estar ou não a prestar serviço.
+
+4 - A aferição do tempo de serviço a que se refere a alínea c) do n.º 1 deste artigo é reportada até 4 de Fevereiro de 1999, independentemente de o pessoal nesta data estar ou não a prestar serviço.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1999-346707), publicado em 1999-07-31.
 
 ###### Artigo 3.º
 

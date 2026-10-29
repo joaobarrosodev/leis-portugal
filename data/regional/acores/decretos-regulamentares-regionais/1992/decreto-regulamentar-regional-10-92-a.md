@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-06-14'
+version_history:
+  file: decreto-regulamentar-regional-10-92-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-06-14'
+    amending: pt:dre:435043:por
+    amending_title: Decreto Regulamentar Regional n.º 24/96/A
+    changes:
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/10/1992/03/04/a/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:27:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    24/96/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1992/decreto-regulamentar-regional-10-92-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -260,7 +275,9 @@ As condições de utilização e exploração das instalações serão definidas
 
 ###### Artigo 13.º — Receitas
 
-As receitas provenientes das actividades desenvolvidas pelo PDAH são depositadas nos cofres da Região.
+As receitas provenientes das actividades desenvolvidas pelo Parque Desportivo da Ilha Terceira são consideradas receitas do Fundo Regional de Fomento do Desporto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 24/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1996-435043), publicado em 1996-06-14.
 
 ###### Artigo 14.º — Entrada em vigor
 

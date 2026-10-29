@@ -1,0 +1,478 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:265085:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d896d6758c8596b0",
+    "8754d85ab630ca74",
+    "1ed3dbec4d5e0074",
+    "acf031bcd0126296",
+    "525c1279f18a154b",
+    "0aecf6c421128697",
+    "587d0a2ad32c7689",
+    "f2d474368bb993af",
+    "ccf3a288221a39cb",
+    "fbb97ed28e40ea9f",
+    "7c165856a93569bb",
+    "92b2dd338efd7056",
+    "d9de5571244eae8b",
+    "35a8b54e078e1fed",
+    "08dcc3dd7e4522f5",
+    "b6e922c36aa8ea32",
+    "0a429aba1af69e81",
+    "ea7246a83efe420a",
+    "b9f25bed41f4620d",
+    "e3e88f5870f78ed8",
+    "b98d2d21a9a37e3a",
+    "04d82a8dba992dbb",
+    "75a298b529ae9527",
+    "1980596acebcbe1b",
+    "d465b691e61fc14f",
+    "3e1a8c91194d4a20",
+    "385bb29a6e167a12",
+    "a27bf2823233857f",
+    "ebfd862cd5334d36",
+    "4335aee1386b9bac",
+    "b93f5006afefd954",
+    "e5d74b5e13b2dbb7",
+    "087b4ebe4f9fdde6",
+    "48410b2f6f870059",
+    "92af497a10ca6903",
+    "96d8313b142d67f8",
+    "dcb8ad26bf409d70",
+    "9790cab6fd9b25cf",
+    "53c0bf31b2e560ae",
+    "2acdeffb1de02945",
+    "41cfeb5346e7823d"
+   ]
+  },
+  {
+   "date": "1999-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:508585:por",
+     "title": "Decreto-Lei n.º 277-A/99",
+     "published": "1999-07-23",
+     "dre_path": "/dr/detalhe/decreto-lei/277-a-1999-508585"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA GALP - PETRÓLEOS E GÁS DE PORTUGAL, SGPS, S. A.::4.º"
+   ],
+   "fragments": [
+    "d896d6758c8596b0",
+    "8754d85ab630ca74",
+    "1ed3dbec4d5e0074",
+    "abb838f40853fab3",
+    "9e0693716c02faae",
+    "0aecf6c421128697",
+    "587d0a2ad32c7689",
+    "f2d474368bb993af",
+    "ccf3a288221a39cb",
+    "fbb97ed28e40ea9f",
+    "7c165856a93569bb",
+    "92b2dd338efd7056",
+    "d9de5571244eae8b",
+    "35a8b54e078e1fed",
+    "dfe9513a1babbaf9",
+    "b6e922c36aa8ea32",
+    "0a429aba1af69e81",
+    "ea7246a83efe420a",
+    "b9f25bed41f4620d",
+    "e3e88f5870f78ed8",
+    "b98d2d21a9a37e3a",
+    "04d82a8dba992dbb",
+    "75a298b529ae9527",
+    "1980596acebcbe1b",
+    "d465b691e61fc14f",
+    "3e1a8c91194d4a20",
+    "385bb29a6e167a12",
+    "a27bf2823233857f",
+    "ebfd862cd5334d36",
+    "4335aee1386b9bac",
+    "b93f5006afefd954",
+    "e5d74b5e13b2dbb7",
+    "087b4ebe4f9fdde6",
+    "48410b2f6f870059",
+    "92af497a10ca6903",
+    "96d8313b142d67f8",
+    "dcb8ad26bf409d70",
+    "9790cab6fd9b25cf",
+    "53c0bf31b2e560ae",
+    "2acdeffb1de02945",
+    "41cfeb5346e7823d"
+   ]
+  }
+ ],
+ "fragments": {
+  "d896d6758c8596b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nPretende o Governo que o sector energético português seja internacionalmente competitivo. Implica isso a articulação do desenvolvimento dos vários subsectores - petróleo, gás e electricidade - através da criação de um modelo organizativo que possibilite uma gestão mais integrada do que a que actualmente existe, de modo a facilitar o aproveitamento das complementaridades entre os vários operadores do sector.\n\nNo caso do petróleo e do gás natural, só a melhor articulação das operações, hoje repartidas pelos dois grupos empresariais dominados pelo Estado, permitirá a eliminação das sobreposições existentes e a promoção de uma mais eficaz afectação de recursos no sector. Por tal via, poder-se-á ainda proceder a uma melhor racionalização dos investimentos nos dois subsectores.\n\nAs melhorias de eficiência produtiva resultantes da gestão integrada gerarão, de forma quase imediata, benefícios para os consumidores, tanto empresariais como residenciais. A ocorrência de ganhos para os consumidores tenderá a assumir um carácter permanente, uma vez que a nova operação integrada terá centro de decisão em Portugal. É ainda de sublinhar que tais ganhos se repercutirão em todos os sectores da economia, dado o carácter estruturante e transversal do sector da energia.\n\nÀ face das considerações anteriores, decidiu o Governo constituir uma sociedade de capitais públicos que agrupará as participações estatais directas nas sociedades Petróleos de Portugal - PETROGAL, S. A., GDP - Gás de Portugal, SGPS, S. A., e TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A.\n\nAssim:\n\nNos termos da alínea a) do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "8754d85ab630ca74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a sociedade comercial GALP - Petróleos e Gás de Portugal, SGPS, S. A., sociedade anónima de capitais públicos, adiante designada abreviadamente por Sociedade."
+  },
+  "1ed3dbec4d5e0074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Sociedade rege-se pelo presente diploma, pelos seus estatutos, constantes do anexo a este diploma, pelas normas reguladoras das sociedades anónimas e pela demais legislação aplicável.\n\n2 - A assembleia geral da Sociedade poderá alterar os estatutos aprovados por este diploma, nos termos da lei comercial."
+  },
+  "acf031bcd0126296": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O capital social da Sociedade é de 411346155 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - Enquanto as acções da Sociedade forem detidas pela Direcção-Geral do Tesouro, os direitos do Estado como accionista serão exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro da Economia.\n\n3 - No caso previsto no número anterior, e sempre que a lei ou os estatutos da Sociedade exijam a deliberação da assembleia geral, ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no respectivo livro de actas."
+  },
+  "525c1279f18a154b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital social da Sociedade é realizado pela transmissão, para a Sociedade, das seguintes participações do Estado, que representam a totalidade das suas participações directas nas sociedades em causa:\n\na) 56842500 acções, no valor nominal global de 56842500000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) 25000000 de acções, no valor nominal global de 25000000000$00, no capital social da GDP - Gás de Portugal, SGPS, S. A.;\n\nc) 625000 acções, no valor nominal global de 625000000$00, no capital social da TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A.\n\n2 - O valor a atribuir às acções, transmitidas nos termos deste artigo, será fixado por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, ficando a diferença entre o valor do capital social e o valor atribuído às acções a constituir uma reserva da Sociedade.\n\n3 - As transmissões a que se refere o n.º 1 deste artigo operam-se por mero efeito da aplicação do presente diploma."
+  },
+  "0aecf6c421128697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma é título bastante para a comprovação, para todos os efeitos legais, incluindo os de registo, de todos os factos nele previstos, devendo quaisquer actos necessários ao cumprimento das formalidades legalmente exigíveis ser realizados pelos serviços competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Sociedade."
+  },
+  "587d0a2ad32c7689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - São revogados os n.os 1 e 2 do artigo 1.º, os n.os 2 e 3 do artigo 2.º e o artigo 12.º do [Decreto-Lei n.º 353/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1991-301631), de 20 de Setembro, ficando a eventual alienação, pela Sociedade, das suas participações na Petróleos de Portugal - PETROGAL, S. A., bem como na GDP - Gás de Portugal, SGPS, S. A., sujeita aos regimes que vierem a ser estabelecidos em diplomas próprios, em condições e segundo qualquer das modalidades admitidas pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n2 - Todos os preceitos legais que pressupõem a participação do Estado no capital social da Petróleos de Portugal - PETROGAL, S. A., manter-se-ão em vigor, considerando-se as referências ao Estado como feitas à sociedade criada pelo presente diploma."
+  },
+  "f2d474368bb993af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 20 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "ccf3a288221a39cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DA GALP - PETRÓLEOS E GÁS DE PORTUGAL, SGPS, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DA GALP - PETRÓLEOS E GÁS DE PORTUGAL, SGPS, S. A."
+  },
+  "fbb97ed28e40ea9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Firma, sede e objecto"
+  },
+  "7c165856a93569bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — A sociedade adopta a firma GALP - Petróleos e Gás de Portugal, SGPS, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — A sociedade adopta a firma GALP - Petróleos e Gás de Portugal, SGPS, S. A."
+  },
+  "92b2dd338efd7056": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A sede social é em Lisboa, na Rua de Mouzinho da Silveira, 26, freguesia do Coração de Jesus, podendo ser deslocada pelo conselho de administração, nos limites da lei.\n\n2 - Compete ao conselho de administração criar e encerrar sucursais, delegações e outras formas de representação da sociedade, em Portugal ou no estrangeiro.\n\n3 - A sociedade é constituída por tempo indeterminado."
+  },
+  "d9de5571244eae8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA sociedade tem por objecto a gestão de participações sociais de outras sociedades, como forma indirecta de exercício de actividades económicas."
+  },
+  "35a8b54e078e1fed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social"
+  },
+  "08dcc3dd7e4522f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO capital social é de 411346155 euros, encontrando-se integralmente realizado, e é representado por 82269231 acções, com o valor nominal de 5 euros cada uma."
+  },
+  "b6e922c36aa8ea32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções são nominativas e podem ser representadas por títulos ou revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista.\n\n2 - Os títulos representam 1, 10, 50, 100, 1000 ou 10000 acções, podendo os accionistas exigir a sua divisão e a sua concentração.\n\n3 - As despesas de divisão e concentração de títulos correm por conta dos accionistas interessados."
+  },
+  "0a429aba1af69e81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA sociedade pode emitir obrigações e quaisquer outros títulos negociáveis."
+  },
+  "ea7246a83efe420a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições comuns relativas aos órgãos sociais e representação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições comuns relativas aos órgãos sociais e representação da sociedade"
+  },
+  "b9f25bed41f4620d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os membros da mesa da assembleia geral e dos órgãos sociais são designados por períodos de três anos civis, renováveis, contando-se como completo o ano civil da designação.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los."
+  },
+  "e3e88f5870f78ed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As remunerações dos membros da mesa da assembleia geral e dos órgãos sociais são fixadas por uma comissão de remunerações designada pela assembleia geral.\n\n2 - A remuneração dos administradores pode englobar uma percentagem dos lucros do exercício, até ao limite global de 0,5% dos mesmos."
+  },
+  "b98d2d21a9a37e3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A sociedade obriga-se:\n\na) Pela intervenção conjunta de dois dos administradores;\n\nb) Pela intervenção de um só dos administradores, quando se trate de matéria em que tal tenha sido deliberado pelo conselho de administração ou que respeite ao exercício de poderes especialmente delegados;\n\nc) Pela intervenção de um ou mais procuradores, nos termos das respectivas procurações.\n\n2 - Fica expressamente esclarecido que nos actos que não envolvam contracção de obrigações para a sociedade ela pode ser representada por qualquer dos seus administradores, agindo isoladamente."
+  },
+  "04d82a8dba992dbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Da assembleia geral"
+  },
+  "75a298b529ae9527": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Apenas têm direito a participar nas reuniões da assembleia geral os accionistas com direito a voto.\n\n2 - Têm a qualidade de accionistas, para efeitos de participação nas reuniões da assembleia geral, os que tenham acções registadas em seu nome no livro apropriado da sociedade ou, no caso das acções escriturais, na respectiva conta, e os que tenham acções depositadas em instituições de crédito e desse depósito façam prova.\n\n3 - O registo e o depósito a que se refere o número anterior hão-de ter-se verificado com a antecedência mínima de dois dias relativamente à data da reunião de que se trate e hão-de manter-se até ao encerramento da reunião.\n\n4 - Cabe um voto a cada grupo de 100 acções, podendo os accionistas com menor número de acções agrupar-se de modo a obterem aquele número, mas, em tal caso, hão-de fazer-se representar por um só deles ou por outro accionista.\n\n5 - Todos os arredondamentos dos votos que cabem aos accionistas são determinados por defeito.\n\n6 - Os accionistas que sejam pessoas colectivas podem fazer-se representar nas reuniões de accionistas por qualquer pessoa, podendo a designação ser feita por qualquer meio escrito.\n\n7 - Os accionistas que sejam pessoas singulares apenas podem fazer-se representar por um membro do conselho de administração, pelo seu cônjuge, pelos seus parentes na linha recta ou por outros accionistas, podendo a designação ser feita por qualquer meio escrito."
+  },
+  "1980596acebcbe1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Cabe à mesa da assembleia geral dirigir as reuniões desta e elaborar as respectivas actas, sem prejuízo do disposto na lei quanto ao secretário da sociedade.\n\n2 - A mesa, composta por um presidente e um secretário, é eleita pela assembleia."
+  },
+  "d465b691e61fc14f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A convocação dos accionistas para a assembleia geral poderá ser feita através de publicidade, nos termos da lei, ou por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.\n\n2 - Em primeira convocação, a assembleia geral só pode constituir-se quando estejam presentes ou representados accionistas detentores de, no mínimo, 51% do capital social.\n\n3 - Salvo nos casos em que a lei exija maiorias qualificadas, as deliberações da assembleia são tomadas por maioria de votos emitidos, não se contando as abstenções."
+  },
+  "3e1a8c91194d4a20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPara além das reuniões impostas por lei, a assembleia geral reúne-se sempre que tal seja solicitado ao presidente da mesa por algum dos outros órgãos sociais ou por accionistas, nos termos legalmente estabelecidos."
+  },
+  "385bb29a6e167a12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do conselho de administração"
+  },
+  "a27bf2823233857f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - O conselho de administração é composto por três ou cinco membros, eleitos em assembleia geral, que designará de entre estes o que exercerá as funções de presidente.\n\n2 - Cabe ao presidente convocar e dirigir as reuniões do conselho, dispondo de voto de qualidade em caso de empate nas votações.\n\n3 - Os administradores estão dispensados de caução."
+  },
+  "ebfd862cd5334d36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nCompete ao conselho de administração, para além do mais consignado na lei e nestes estatutos:\n\na) Conduzir as actividades da sociedade, praticando todos os actos que a lei ou estes estatutos não reservem a outros órgãos sociais;\n\nb) Executar as deliberações da assembleia geral;\n\nc) Definir as políticas gerais da sociedade, sem prejuízo do disposto na alínea anterior;\n\nd) Aprovar orçamentos anuais;\n\ne) Definir a organização interna da sociedade;\n\nf) Representar a sociedade, em juízo ou fora dele, comprometendo-se em arbitragens, propondo pleitos judiciais ou defendendo-se neles, podendo confessar, desistir ou transigir em quaisquer processos judiciais;\n\ng) Apresentar à assembleia geral, para apreciação e votação, nas épocas legalmente determinadas, os relatórios, balanços e contas dos exercícios sociais;\n\nh) Adquirir, alienar e onerar quaisquer direitos ou bens;\n\ni) Contrair quaisquer obrigações;\n\nj) Contratar e despedir empregados e outros prestadores de serviços;\n\nl) Designar o secretário da sociedade."
+  },
+  "4335aee1386b9bac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Nos casos em que a lei não o proíba, o conselho de administração pode delegar as suas competências em qualquer dos seus membros.\n\n2 - Em especial, o conselho de administração pode incumbir algum ou alguns, em número ímpar, dos seus membros da gestão corrente da sociedade; recaindo o encargo sobre vários administradores, o seu conjunto será designado por comissão executiva."
+  },
+  "b93f5006afefd954": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - O conselho de administração reúne-se, ordinariamente, uma vez em cada três meses.\n\n2 - O conselho reúne-se ainda sempre que o seu presidente o entenda ou algum dos membros lho solicite.\n\n3 - As reuniões são convocadas com a antecedência de, pelo menos, cinco dias.\n\n4 - Para que o conselho se possa constituir em reunião é necessária a presença da maioria dos seus membros.\n\n5 - Os administradores podem fazer-se representar por outros administradores nas reuniões do conselho, mediante carta dirigida ao presidente aquando de cada reunião."
+  },
+  "e5d74b5e13b2dbb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Do fiscal único"
+  },
+  "087b4ebe4f9fdde6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - A fiscalização da sociedade cabe a um fiscal único.\n\n2 - Além do fiscal efectivo, haverá um suplente, devendo ambos ser revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "48410b2f6f870059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Do secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Do secretário"
+  },
+  "92af497a10ca6903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - A sociedade poderá ter um secretário, a designar pelo conselho de administração.\n\n2 - Quando for designado um secretário efectivo, será também designado um suplente.\n\n3 - A duração das funções do secretário coincidirá com a dos mandatos dos membros do conselho de administração que o designe."
+  },
+  "96d8313b142d67f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Aplicação de resultados"
+  },
+  "dcb8ad26bf409d70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os resultados líquidos do exercício terão a aplicação que a assembleia geral livremente deliberar, não sendo aplicável a limitação do artigo 294.º, n.º 1, do Código das Sociedades Comerciais.\n\n2 - A sociedade poderá distribuir lucros aos accionistas no decurso dos exercícios sociais, observadas as condições da lei."
+  },
+  "9790cab6fd9b25cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições gerais e finais"
+  },
+  "53c0bf31b2e560ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nSem prejuízo da competência atribuída pela lei e por estes estatutos ao fiscal único, a assembleia geral ou o conselho de administração podem solicitar a entidades especializadas exteriores à sociedade a realização de auditorias às contas sociais."
+  },
+  "2acdeffb1de02945": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - A sociedade dissolve-se nos casos previstos na lei.\n\n2 - Serão liquidatários os administradores em funções à data da dissolução, salvo se a assembleia geral deliberar em contrário."
+  },
+  "41cfeb5346e7823d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nTodos os litígios que oponham a sociedade aos accionistas ou a outros membros dos órgãos sociais serão dirimidos no foro da comarca onde se situe a sede social."
+  },
+  "abb838f40853fab3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1999-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O capital social da Sociedade é de 411383565 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.\n\n2 - Enquanto as acções da Sociedade forem detidas pela Direcção-Geral do Tesouro, os direitos do Estado como accionista serão exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro da Economia.\n\n3 - No caso previsto no número anterior, e sempre que a lei ou os estatutos da Sociedade exijam a deliberação da assembleia geral, ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no respectivo livro de actas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+  },
+  "9e0693716c02faae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1999-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital social da Sociedade é realizado pela transmissão, para a Sociedade, das seguintes participações do Estado, que representam a totalidade das suas participações directas nas sociedades em causa:\n\na) 56850000 acções, no valor nominal global de 56850000000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;\n\nb) 25000000 de acções, no valor nominal global de 25000000000$00, no capital social da GDP - Gás de Portugal, SGPS, S. A.;\n\nc) 625000 acções, no valor nominal global de 625000000$00, no capital social da TRANSGÁS - Sociedade Portuguesa de Gás Natural, S. A.\n\n2 - O valor a atribuir às acções, transmitidas nos termos deste artigo, será fixado por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, ficando a diferença entre o valor do capital social e o valor atribuído às acções a constituir uma reserva da Sociedade.\n\n3 - As transmissões a que se refere o n.º 1 deste artigo operam-se por mero efeito da aplicação do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+  },
+  "dfe9513a1babbaf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1999-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO capital social é de 411383565 euros, encontrando-se integralmente realizado, e é representado por 82276713 acções, com o valor nominal de 5 euros cada uma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23."
+  }
+ }
+}

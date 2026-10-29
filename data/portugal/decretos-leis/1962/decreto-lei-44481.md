@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1964-07-06'
+version_history:
+  file: decreto-lei-44481.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1964-07-06'
+    amending: pt:dre:578094:por
+    amending_title: Decreto-Lei n.º 45793
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:41:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45793. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44481.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,33 +159,57 @@ São estas as razões do presente decreto-lei.
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
 
-Artigo 1.º O Fundo de Fomento Florestal e Aquícola (F. F. F. A.), a que se refere a base XIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, gozará de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido por um conselho administrativo constituído pelo director-geral dos Serviços Florestais o Aquícolas, que servirá de presidente, e por dois inspectores-chefes, um técnico e um administrativo.
+###### Artigo 1.º
 
-Art. 2.º Para auxiliar o conselho na sua acção de administração e execução dos vários trabalhos, serão constituídas secções especializadas, presididas por um inspector-chefe ou chefe de repartição da Direcção-Geral dos Serviços Florestais e Aquícolas, de que farão parte representantes da lavoura, das comissões regionais de pesca e organismos que tenham interferência ou interesse nos problemas ligados às diferentes secções.
+O Fundo de Fomento Florestal e Aquícola (F. F. F. A.), a que se refere a base XIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, gozará de autonomia administrativa e financeira, terá escrita própria das suas receitas e despesas e será gerido por um conselho administrativo constituído pelo director-geral dos Serviços Florestais o Aquícolas, que servirá de presidente, e por dois inspectores-chefes, um técnico e um administrativo.
 
-Art. 3.º Aos membros do conselho administrativo, bem como aos indivíduos que compõem as secções especializadas, serão abonadas senhas de presença em quantitativo a fixar pelo Secretário de Estado da Agricultura com o acordo do Ministro das Finanças.
+###### Artigo 2.º
 
-§ único. Os membros das secções especializadas têm direito, nos termos legais, ao abono de ajudas de custo e de despesas de transporte, correspondentes aos grupos C a F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+(Revogado.)
 
-Art. 4.º Todo o expediente, escrita e contabilidade relativos ao Fundo serão assegurados por uma secretaria privativa.
+> Revogado pelo/a [Decreto-Lei n.º 45793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094), publicado em 1964-07-06.
 
-§ único. O numerário do Fundo será movimentado pela tesouraria da Direcção-Geral dos Serviços Florestais e Aquícolas.
+###### Artigo 3.º
 
-Art. 5.º O Fundo submeterá a julgamento ao Tribunal de Contas as suas contas de gerência e entregará as suas receitas nos cofres do Estado para serem aplicadas através de dotação global do orçamento do Ministério da Economia e mediante orçamento privativo sujeito às formalidades legais.
+(Revogado.)
 
-§ único. As receitas não aplicadas em cada ano transitarão para o ano seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 45793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094), publicado em 1964-07-06.
 
-Art. 6.º O preenchimento dos lugares para o desempenho dos serviços do F. F. F. A. cujas categorias não constem dos quadros a que se refere o [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, podem ser providos em funcionários destacados de harmonia com a base IX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959.
+###### Artigo 4.º
 
-Art. 7.º O pessoal contratado do Fundo de Fomento Florestal e Aquícola poderá concorrer, com dispensa do limite de idade, aos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, desde que tenha sido admitido com menos de 35 anos ao serviço do Fundo e possua as habilitações legalmente exigidas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 45793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094), publicado em 1964-07-06.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 45793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094), publicado em 1964-07-06.
+
+###### Artigo 6.º
+
+O preenchimento dos lugares para o desempenho dos serviços do F. F. F. A. cujas categorias não constem dos quadros a que se refere o [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, podem ser providos em funcionários destacados de harmonia com a base IX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959.
+
+###### Artigo 7.º
+
+O pessoal contratado do Fundo de Fomento Florestal e Aquícola poderá concorrer, com dispensa do limite de idade, aos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, desde que tenha sido admitido com menos de 35 anos ao serviço do Fundo e possua as habilitações legalmente exigidas.
 
 § único. O pessoal referido no corpo do artigo poderá ser opositor nos concursos para preenchimento de lugares da sua ou equivalente categoria.
 
-Art. 8.º Ao pessoal contratado e destacado em serviço no Fundo, quando for aposentado, ser-lhe-á calculada a pensão de aposentação com base no vencimento atribuído à categoria que desempenhou neste organismo.
+###### Artigo 8.º
 
-Art. 9.º A nomeação do conselho administrativo e das secções especializadas, bem como a sua constituição e denominação, será feita por portaria do Secretário de Estado da Agricultura, mediante proposta fundamentada do director-geral dos Serviços Florestais e Aquícolas.
+Ao pessoal contratado e destacado em serviço no Fundo, quando for aposentado, ser-lhe-á calculada a pensão de aposentação com base no vencimento atribuído à categoria que desempenhou neste organismo.
 
-Art. 10.º Os requerimentos ou pedidos apresentados à Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos da base XIV da [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973) e artigo 30.º da [Lei n.º 2069](https://diariodarepublica.pt/dr/detalhe/lei/2069-1954-218084), para a concessão de plantas e sementes, transitarão pelo Fundo de Fomento Florestal e Aquícola, que determinará as importâncias que forem devidas pelo transporte e embalagem dos artigos fornecidos.
+###### Artigo 9.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 45793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45793-1964-578094), publicado em 1964-07-06.
+
+###### Artigo 10.º
+
+Os requerimentos ou pedidos apresentados à Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos da base XIV da [Lei n.º 1971](https://diariodarepublica.pt/dr/detalhe/lei/1971-1938-365973) e artigo 30.º da [Lei n.º 2069](https://diariodarepublica.pt/dr/detalhe/lei/2069-1954-218084), para a concessão de plantas e sementes, transitarão pelo Fundo de Fomento Florestal e Aquícola, que determinará as importâncias que forem devidas pelo transporte e embalagem dos artigos fornecidos.
 
 § 1.º Pode o Secretário de Estado da Agricultura, sempre que o ache conveniente, fixar, em despacho a publicar no Diário do Governo, o preço das plantas e sementes que, em cada ano, a Direcção-Geral dos Serviços Florestais e Aquícolas esteja em condições de fornecer aos particulares.
 

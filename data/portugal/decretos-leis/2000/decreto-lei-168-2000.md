@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-31'
+version_history:
+  file: decreto-lei-168-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-31'
+    amending: pt:dre:573127:por
+    amending_title: Decreto-Lei n.º 172-B/2001
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/168/2000/08/05/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 172-B/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-168-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,6 +197,10 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 4 - A sociedade goza de isenção de sisa relativa à transmissão de imóveis de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., em consequência da fusão, bem como de isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de fusão, de acordo com o [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro.
 
 5 - Os prejuízos fiscais de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., podem ser deduzidos dos lucros tributáveis na sociedade, nos termos e para os efeitos do n.º 5 do artigo 62.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
+
+6 - Os efeitos de natureza contabilística e fiscal decorrentes da constituição da sociedade e, bem assim, os pressupostos de qualquer acto que impliquem a necessidade de consideração das extintas contas de exploração das sociedades Águas do Sotavento Algarvio, S. A., e Águas do Barlavento Algarvio, S. A., são reportados a 1 de Janeiro de 2000.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172-B/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-2001-573127), publicado em 2001-05-26.
 
 ###### Artigo 3.º
 

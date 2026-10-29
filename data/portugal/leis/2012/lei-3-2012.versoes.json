@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:477153:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51451d490d48202f",
+    "924e7c303ca154b6",
+    "fbff1db736c82ae0",
+    "52c214d68428a6b9",
+    "106217d38c92b99d",
+    "7745e3ee62148002",
+    "00d25b9cbda75fd0"
+   ]
+  },
+  {
+   "date": "2012-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178501:por",
+     "title": "Lei n.º 23/2012",
+     "published": "2012-06-25",
+     "dre_path": "/dr/detalhe/lei/23-2012-178501"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "51451d490d48202f",
+    "924e7c303ca154b6",
+    "fbff1db736c82ae0",
+    "52c214d68428a6b9",
+    "e6ff302920247567",
+    "7745e3ee62148002",
+    "00d25b9cbda75fd0"
+   ]
+  }
+ ],
+ "fragments": {
+  "51451d490d48202f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de janeiro\n\nEstabelece um regime de renovação extraordinária dos contratos de trabalho a termo certo, bem como o regime e o modo de cálculo da compensação aplicável aos contratos objecto dessa renovação.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "924e7c303ca154b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece um regime de renovação extraordinária dos contratos de trabalho a termo certo, celebrados ao abrigo do disposto no Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de Fevereiro, que atinjam o limite máximo da sua duração até 30 de Junho de 2013.\n\n2 - A presente lei estabelece ainda o regime e o modo de cálculo da compensação aplicável aos contratos de trabalho objecto de renovação extraordinária nos termos da presente lei."
+  },
+  "fbff1db736c82ae0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime de renovação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de renovação extraordinária\n\n1 - Podem ser objecto de duas renovações extraordinárias os contratos de trabalho a termo certo que, até 30 de Junho de 2013, atinjam os limites máximos de duração estabelecidos no n.º 1 do artigo 148.º do Código do Trabalho.\n\n2 - A duração total das renovações referidas no número anterior não pode exceder 18 meses.\n\n3 - A duração de cada renovação extraordinária não pode ser inferior a um sexto da duração máxima do contrato de trabalho a termo certo ou da sua duração efectiva consoante a que for inferior.\n\n4 - Sem prejuízo do disposto no número anterior, o limite de vigência do contrato de trabalho a termo certo objecto de renovação extraordinária é 31 de Dezembro de 2014."
+  },
+  "52c214d68428a6b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Conversão em contrato de trabalho sem termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conversão em contrato de trabalho sem termo\n\nConverte-se em contrato de trabalho sem termo o contrato de trabalho a termo certo em que sejam excedidos os limites resultantes do disposto no artigo anterior."
+  },
+  "106217d38c92b99d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Compensação\n\n1 - Os contratos de trabalho a termo certo que sejam objecto de renovação extraordinária nos termos da presente lei estão sujeitos ao seguinte regime de compensação:\n\na) Em relação ao período de vigência do contrato até à primeira renovação extraordinária, o montante da compensação é calculado de acordo com o regime jurídico aplicável a um contrato de trabalho a termo certo celebrado à data do início de vigência daquele contrato;\n\nb) Em relação ao período de vigência do contrato a partir da primeira renovação extraordinária, o montante da compensação é calculado de acordo com o regime aplicável a um contrato de trabalho a termo certo celebrado à data daquela renovação extraordinária;\n\nc) A compensação a que o trabalhador tem direito resulta da soma dos montantes calculados nos termos das alíneas anteriores.\n\n2 - Constitui contra-ordenação grave a violação do disposto neste artigo."
+  },
+  "7745e3ee62148002": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto na presente lei, é aplicável subsidiariamente o disposto no Código do Trabalho."
+  },
+  "00d25b9cbda75fd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da respectiva publicação.\n\nAprovada em 9 de Dezembro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 30 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 30 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "e6ff302920247567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Compensação",
+   "in_force_from": "2012-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), publicado em 2012-06-25."
+   ],
+   "markdown": "###### Artigo 4.º — Compensação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/lei/23-2012-178501), publicado em 2012-06-25."
+  }
+ }
+}

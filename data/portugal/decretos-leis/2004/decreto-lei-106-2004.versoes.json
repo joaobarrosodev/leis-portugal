@@ -1,0 +1,306 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:302525:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32dd72faacbeaae9",
+    "9554b40f2244892d",
+    "8f685d658aa43ba4",
+    "b3859ee1d990e1ff",
+    "bdf97216b2bc7643",
+    "ce2dad585e75fa4a",
+    "0425193e2da2cde3",
+    "87a443f1e56000ba",
+    "e5a7049b8e71a7c7",
+    "164926d665a778f8",
+    "8706718175b72778",
+    "0c37bfed7757b549",
+    "bb719ec4a144418f",
+    "6e2f296281c1faf6",
+    "f5620db0a2582b9c",
+    "d73b99705d701247",
+    "be10c9ffab8dff3a",
+    "5f1ce83a68fd8d3a",
+    "6d874058e9d3fa48",
+    "1c188b4bfe6e32bb",
+    "c28dab693b44a73e",
+    "8ee9261db8dbc247",
+    "dc01ff2ff2f555a0",
+    "b139f95b77bd6c1a",
+    "9137fa4f8e155139",
+    "9df8568738bc3b9e"
+   ]
+  },
+  {
+   "date": "2012-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553057:por",
+     "title": "Lei n.º 18/2012",
+     "published": "2012-05-07",
+     "dre_path": "/dr/detalhe/lei/18-2012-553057"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "32dd72faacbeaae9",
+    "9554b40f2244892d",
+    "8f685d658aa43ba4",
+    "b3859ee1d990e1ff",
+    "bdf97216b2bc7643",
+    "ce2dad585e75fa4a",
+    "0425193e2da2cde3",
+    "87a443f1e56000ba",
+    "e5a7049b8e71a7c7",
+    "164926d665a778f8",
+    "8706718175b72778",
+    "0c37bfed7757b549",
+    "bb719ec4a144418f",
+    "6e2f296281c1faf6",
+    "f5620db0a2582b9c",
+    "65357037c3a0bd9d",
+    "be10c9ffab8dff3a",
+    "5f1ce83a68fd8d3a",
+    "6d874058e9d3fa48",
+    "1c188b4bfe6e32bb",
+    "c28dab693b44a73e",
+    "8ee9261db8dbc247",
+    "dc01ff2ff2f555a0",
+    "b139f95b77bd6c1a",
+    "9137fa4f8e155139",
+    "9df8568738bc3b9e"
+   ]
+  }
+ ],
+ "fragments": {
+  "32dd72faacbeaae9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Maio\n\nPelo [Decreto do Governo n.º 79/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/79-1983-294354), de 14 de Outubro, Portugal aprovou para ratificação a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974 (SOLAS 74) e pelo [Decreto do Governo n.º 78/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/78-1983-441485), de 14 de Outubro, e pelo [Decreto n.º 51/99](https://diariodarepublica.pt/dr/detalhe/decreto/51-1999-684847), de 18 de Setembro, aprovou para adesão os Protocolos de 1978 e de 1988 à referida Convenção.\n\nForam igualmente aprovadas para adesão as emendas à Convenção SOLAS 74, sobre o Sistema Mundial de Socorro e Segurança Marítima, e as emendas relativas à introdução dos novos capítulos IX, X e XI, respectivamente pelos Decretos n.os [40/92](https://diariodarepublica.pt/dr/detalhe/decreto/40-1992-233306), de 2 de Outubro, e [21/98](https://diariodarepublica.pt/dr/detalhe/decreto/21-1998-485048), de 10 de Julho.\n\nDecorrendo, expressamente, do disposto na alínea b) do artigo 1.º da Convenção SOLAS 74, que aos Governos Contratantes compete tomar todas as medidas necessárias, de carácter legislativo ou de outra natureza, com vista a possibilitar a aplicação dos normativos convencionais nos respectivos países, o Governo Português, apesar da Convenção vigorar desde 1980, não procedeu de imediato à sua regulamentação através de diploma próprio, por um lado, porque as leis orgânicas dos organismos com vocação para administrar a Convenção continham disposições nesse sentido e, por outro, porque era reduzida a frota de navios de bandeira portuguesa abrangidos pela Convenção.\n\nPor outro lado, o reforço do controlo dos navios pelo Estado do porto (Port State Control) aconselha a que seja prevista a possibilidade de acções de fiscalização aos navios no seguimento de tal controlo, no sentido de evitar situações que possam pôr em causa o prestígio da nossa bandeira.\n\nTem-se em vista, através deste diploma, não só precisar quais as entidades intervenientes no processo de certificação, mas também reforçar a capacidade de fiscalização técnica das condições de segurança dos navios, no sentido de levar os armadores a praticar níveis de segurança que afastem a possibilidade de eventual detenção desses navios.\n\nPretende-se, ainda, com o objectivo de aumentar a segurança de embarcações nacionais não abrangidas pela Convenção, estender a aplicação das regras constantes do anexo à Convenção às embarcações nacionais que efectuem viagens entre portos do continente e das Regiões Autónomas e entre portos destas Regiões.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "9554b40f2244892d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - Pelo presente diploma é regulamentada a aplicação da Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974 (SOLAS 74), o respectivo Protocolo e as emendas em vigor no ordenamento jurídico nacional.\n\n2 - Por este diploma, o anexo à Convenção aplica-se aos navios de carga nacionais de arqueação bruta igual ou superior a 500, que efectuem viagens entre o continente e as Regiões Autónomas dos Açores e da Madeira e entre estas Regiões."
+  },
+  "8f685d658aa43ba4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos deste diploma, entende-se por:\n\na) «Convenção» a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, o Protocolo de 1988 e as emendas supervenientes e regulamentadas pelo [Decreto-Lei n.º 245/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1994-606527), de 26 de Setembro;\n\nb) «Companhia» o proprietário de um navio, o gestor de navios, o afretador em casco nu ou qualquer outra organização ou pessoa que tenha assumido perante o proprietário a responsabilidade pela exploração do navio e que ao fazê-lo concordou em cumprir todos os deveres e obrigações impostos pela Convenção;\n\nc) «Arqueação bruta» a medida do volume total de um navio, determinada em conformidade com as disposições da Convenção Internacional de Arqueação de Navios, aprovada para adesão pelo [Decreto do Governo n.º 4/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/4-1987-663494), de 15 de Janeiro;\n\nd) «Navio de passageiros» o navio que transporte mais de 12 passageiros;\n\ne) «Navio de carga» o navio que não é navio de passageiros;\n\nf) «Navio de pesca» o navio usado para a captura de peixe, baleias, focas, morsas e outros recursos vivos do mar;\n\ng) «Viagem internacional» qualquer viagem com início num porto nacional até um porto situado fora do território nacional, ou inversamente;\n\nh) «Organização reconhecida (OR)» uma organização reconhecida em conformidade com o disposto no [Decreto-Lei n.º 321/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), de 23 de Dezembro, relativo às regras do reconhecimento prévio e acompanhamento da actividade das organizações habilitadas para realizar as inspecções, aprovação de planos e esquemas, realização de provas e ensaios e aprovação de cadernos de estabilidade, vistorias e auditorias a navios de pavilhão nacional e que tenha celebrado com o ministério da tutela da segurança das embarcações o acordo previsto no artigo 9.º do referido diploma;\n\ni) «Acidente» todo o facto extraordinário que ocorra no mar, ou em águas sob qualquer jurisdição nacional, que tenha causado ou possa causar danos a navios, engenhos flutuantes, pessoas ou coisas que neles se encontrem ou por eles sejam transportadas."
+  },
+  "b3859ee1d990e1ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se:\n\na) Aos navios abrangidos pela Convenção, que efectuem viagens internacionais;\n\nb) Aos navios de carga nacionais de arqueação bruta igual ou superior a 500, que efectuem viagens entre o continente e as Regiões Autónomas dos Açores e da Madeira e entre estas Regiões.\n\n2 - Excluem-se do âmbito deste diploma:\n\na) Os navios de guerra e as unidades auxiliares da Marinha;\n\nb) Os navios sem propulsão mecânica;\n\nc) Os navios de madeira, de construção primitiva;\n\nd) As embarcações de recreio utilizadas para fins não comerciais;\n\ne) Os navios afectos a serviços governamentais de carácter não comercial;\n\nf) Os navios de pesca e os navios de carga de arqueação bruta inferior a 500, salvo no que respeita ao disposto no anexo à Convenção, relativamente a este tipo de navios."
+  },
+  "bdf97216b2bc7643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade competente\n\nA entidade competente para a execução do disposto no presente diploma é o Instituto Portuário e dos Transportes Marítimos (IPTM)."
+  },
+  "ce2dad585e75fa4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência para concessão de isenções e equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para concessão de isenções e equivalências\n\n1 - O IPTM pode dispensar o cumprimento de algumas das regras constantes do anexo à Convenção, relativamente aos navios abrangidos por este diploma.\n\n2 - O IPTM, sem prejuízo do disposto no [Decreto-Lei n.º 167/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1999-323077), de 18 de Maio, pode conceder equivalência a determinadas instalações e equipamentos de navios abrangidos por este diploma, desde que essas instalações e esses equipamentos garantam um nível de segurança pelo menos igual ao que seria obtido em resultado da aplicação das regras constantes do anexo à Convenção.\n\n3 - Ao IPTM cumpre comunicar à Organização Marítima Internacional (OMI) as equivalências que conceder ao abrigo do número anterior, se estas respeitarem a navios abrangidos pela Convenção."
+  },
+  "0425193e2da2cde3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entidades que efectuam vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades que efectuam vistorias\n\nAs vistorias aos navios abrangidos por este diploma, constantes do anexo à Convenção, são efectuadas por inspectores do IPTM ou por inspectores ao serviço de uma OR."
+  },
+  "87a443f1e56000ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requerimento para vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento para vistorias\n\n1 - As companhias devem requerer ao IPTM ou às OR as vistorias a efectuar aos navios abrangidos por este diploma, com a antecedência devida, tendo em conta a emissão e manutenção da validade dos certificados.\n\n2 - Os comandantes devem garantir que a tripulação dos navios colabore com os inspectores no desempenho das suas funções, operando as instalações e os equipamentos de bordo, se tal lhes for solicitado durante as vistorias."
+  },
+  "e5a7049b8e71a7c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Alterações à estrutura, às máquinas e ao equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alterações à estrutura, às máquinas e ao equipamento\n\nDepois de concluídas as vistorias exigidas aos navios abrangidos por este diploma, não são permitidas, sem a aprovação do IPTM ou de uma OR, alterações à estrutura, às máquinas e aos equipamentos abrangidos pelas referidas vistorias."
+  },
+  "164926d665a778f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Manutenção das condições dos navios após as vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Manutenção das condições dos navios após as vistorias\n\n1 - Os navios nacionais abrangidos por este diploma e respectivos equipamentos, depois de certificados, devem cumprir as regras de manutenção constantes do anexo à Convenção, para que sejam garantidas as condições de segurança dos navios, das pessoas e dos bens embarcados e da prevenção da poluição.\n\n2 - No caso de serem detectadas deficiências que afectem a segurança do navio, a eficiência ou a prontidão dos seus meios de salvação e outro equipamento, a companhia ou o comandante devem informar, com urgência, o IPTM ou a OR dessas deficiências, de modo a decidirem da necessidade de se efectuar uma vistoria.\n\n3 - Se o navio se encontrar no porto de um Estado Parte da Convenção, a companhia ou o comandante devem informar, igualmente, as autoridades competentes desse Estado das situações referidas no número anterior."
+  },
+  "8706718175b72778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Emissão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Emissão de certificados\n\n1 - A emissão dos certificados exigidos aos navios nacionais, por força da Convenção e do disposto neste diploma, é efectuada pelo IPTM ou pelas OR.\n\n2 - O IPTM pode emitir, também, certificados para navios estrangeiros, quando seja expressamente solicitado por um Estado Parte da Convenção e as vistorias a efectuar não estejam delegadas numa organização reconhecida por esse Estado.\n\n3 - O IPTM e as OR podem prorrogar o prazo de validade dos certificados ou alterar o início da sua validade.\n\n4 - Os navios nacionais obrigados à certificação por força da Convenção e do disposto neste diploma não podem ser utilizados pelas companhias sem estar devidamente certificados.\n\n5 - Os navios que possuam os certificados previstos no n.º 1 são dispensados do certificado de navegabilidade previsto no artigo 128.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho."
+  },
+  "0c37bfed7757b549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Certificados emitidos por mudança de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Certificados emitidos por mudança de pavilhão\n\n1 - Se um navio adquirir pavilhão nacional, o IPTM ou a OR só deve proceder à sua certificação depois de verificar que o navio satisfaz as condições de segurança previstas no anexo à Convenção.\n\n2 - O registo definitivo de um navio que adquira pavilhão nacional só pode ser efectuado depois de o navio ser visitado por um inspector do IPTM, ou de uma OR, para verificação da conformidade da documentação da tripulação e do navio e para prestar informações, no âmbito das competências do IPTM, designadamente, sobre os procedimentos em matéria de investigação técnica de acidentes, embarque e desembarque de tripulantes e reconhecimento de certificados de competência, dando, ainda, as indicações tidas como necessárias sobre os procedimentos a adoptar com as autoridades marítimas locais."
+  },
+  "bb719ec4a144418f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Suspensão dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Suspensão dos certificados\n\n1 - Um certificado pode ser suspenso sempre que sejam detectadas deficiências graves nos navios, relativas às matérias a que o certificado respeite.\n\n2 - O IPTM é competente para suspender a validade dos certificados que emitir e dos que forem emitidos pelas OR.\n\n3 - As OR são competentes para suspender a validade dos certificados que emitirem, devendo informar de imediato o IPTM.\n\n4 - As companhias não podem utilizar navios cujos certificados estejam suspensos.\n\n5 - A suspensão dos certificados é efectuada através da emissão de uma «nota de suspensão», cujo modelo constará de regulamento a publicar ao abrigo do artigo 16.º do [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), de 22 de Novembro."
+  },
+  "6e2f296281c1faf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Afixação dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Afixação dos certificados\n\n1 - Os certificados emitidos em cumprimento do presente diploma devem ser afixados a bordo, em local bem visível e de fácil acesso, de forma que estejam sempre disponíveis para verificação pelas autoridades nacionais e internacionais.\n\n2 - O cumprimento das obrigações previstas no número anterior é da responsabilidade do comandante do navio."
+  },
+  "f5620db0a2582b9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Modelo dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Modelo dos certificados\n\nO modelo dos certificados a emitir para os navios nacionais, abrangidos por este diploma, constará de regulamento a publicar ao abrigo do artigo 16.º do [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), de 22 de Novembro."
+  },
+  "d73b99705d701247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acidentes marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acidentes marítimos\n\n1 - A investigação técnica de acidentes que envolvam navios abrangidos pelo presente diploma é da competência do IPTM.\n\n2 - O IPTM dará a conhecer à OMI os relatórios dos acidentes, bem como os relatórios que possam contribuir para melhorar as regras da Convenção.\n\n3 - Os relatórios técnicos dos acidentes não podem ser utilizados para imputar responsabilidades, tanto às companhias dos navios acidentados, como às pessoas envolvidas.\n\n4 - A companhia ou o comandante deve informar o IPTM, de imediato, da ocorrência de qualquer acidente com os seus navios."
+  },
+  "be10c9ffab8dff3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Inspecções de controlo de navios nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Inspecções de controlo de navios nacionais\n\n1 - Os navios nacionais abrangidos por este diploma podem ser objecto de inspecções de controlo, em portos nacionais ou estrangeiros, efectuadas por inspectores do IPTM, devidamente credenciados.\n\n2 - A inspecção referida no número anterior será de conteúdo idêntico às inspecções de controlo pelo Estado do porto, previstas no Regulamento de Inspecção de Navios Estrangeiros (RINE), aprovado pelo [Decreto-Lei n.º 195/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1998-485050), de 10 de Julho.\n\n3 - Se numa inspecção de controlo forem detectadas deficiências que justifiquem a detenção do navio, de acordo com os critérios utilizados nas inspecções do controlo pelo Estado do porto, os inspectores emitirão uma nota de suspensão da validade dos certificados correspondentes, conforme referido no n.º 5 do artigo 12.º\n\n4 - Pelas inspecções efectuadas que impliquem a suspensão da validade de certificados ou o seu levantamento, serão cobradas taxas de valor igual às previstas, respectivamente para as inspecções com detenção de navio ou para levantamento da detenção, na tabela de taxas aprovada pelo [Decreto-Lei n.º 98/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2001-344965), de 28 de Março."
+  },
+  "5f1ce83a68fd8d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Detenção de navio de bandeira nacional em portos estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Detenção de navio de bandeira nacional em portos estrangeiros\n\n1 - Sempre que ocorra a detenção de um navio de bandeira nacional no estrangeiro, em consequência de inspecção efectuada pelo controlo do Estado do porto, a companhia ou o comandante do navio devem informar o IPTM dessa detenção no prazo de vinte e quatro horas, assim como da evolução posterior dessa ocorrência.\n\n2 - Na situação prevista no número anterior, o IPTM deve:\n\na) Avaliar as deficiências que motivaram a detenção, confirmando-as ou apresentando reclamação junto da administração marítima que efectuou a detenção;\n\nb) Decidir da necessidade de enviar um inspector para avaliar as deficiências do navio ou para inspeccionar o navio, depois de efectuadas as necessárias reparações.\n\n3 - A confirmação das deficiências que motivaram a detenção do navio constitui prova bastante da falta de manutenção, prevista no n.º 1 do artigo 9.º\n\n4 - As despesas decorrentes do envio de um inspector a um navio detido em porto estrangeiro são da responsabilidade da respectiva companhia."
+  },
+  "6d874058e9d3fa48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Normas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas complementares\n\nO IPTM estabelecerá por regulamento a publicar ao abrigo do artigo 16.º do [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), de 22 de Novembro, as normas relativas:\n\na) Aos elementos respeitantes a projectos, cálculos e demais documentação necessária à aprovação da construção ou modificação dos navios;\n\nb) Aos documentos necessários, a enviar ao IPTM, no caso de navios que venham a adquirir o pavilhão nacional;\n\nc) Ao processo de vistorias;\n\nd) Aos procedimentos e demais normas técnicas cuja fixação a própria Convenção deixa à competência da administração nacional."
+  },
+  "1c188b4bfe6e32bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Taxas\n\nPelos serviços prestados pelo IPTM, em resultado da execução do presente diploma, são cobradas taxas de acordo com a tabela aprovada pelo [Decreto-Lei n.º 98/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2001-344965), de 28 de Março."
+  },
+  "c28dab693b44a73e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contra-ordenações\n\n1 - As infracções às normas previstas no presente diploma constituem contra-ordenação punível com coima, nos termos das alíneas seguintes:\n\na) O comandante do navio cuja tripulação não colabore com os inspectores, violando o disposto no n.º 2 do artigo 7.º, é punido com coima cujo montante mínimo é de (euro) 250 e o máximo de (euro) 2500;\n\nb) A companhia que efectue, sem autorização prévia do IPTM ou de uma OR, alterações à estrutura dos navios, às máquinas ou aos equipamentos, depois de concluída qualquer vistoria, violando o disposto no artigo 8.º, é punida com coima cujo montante mínimo é de (euro) 400 e o máximo de (euro) 4000;\n\nc) A companhia que não efectue a manutenção dos navios e seus equipamentos, de acordo com as regras constantes do anexo à Convenção, violando o disposto no n.º 1 do artigo 9.º, é punida com coima cujo montante mínimo é de (euro) 500 e o máximo de (euro) 5000;\n\nd) A companhia ou o comandante que não comuniquem ao IPTM ou a uma OR ou às autoridades do porto de um Estado Parte da Convenção as deficiências detectadas nos navios, ou a ocorrência de qualquer acidente, violando, respectivamente, o disposto nos n.os 2 e 3 do artigo 9.º e no n.º 4 do artigo 15.º, são punidos com coima cujo montante mínimo é de (euro) 300 e o máximo de (euro) 5000;\n\ne) A companhia que utilize navios que não se encontrem devidamente certificados ou que tenham os seus certificados suspensos, violando, respectivamente, o n.º 4 dos artigos 10.º e 12.º, é punida com coima cujo montante mínimo é de (euro) 600 e o máximo de (euro) 6000;\n\nf) A companhia cujo navio inicie uma viagem, sem que tenha sido visitado por um inspector do IPTM ou de uma OR, depois de ter adquirido pavilhão nacional, violando o disposto no n.º 2 do artigo 11.º, é punida com coima cujo montante mínimo é de (euro) 400 e o máximo de (euro) 5000;\n\ng) O comandante do navio que não tenha afixado a bordo, ou colocado em local bem visível e de fácil acesso, os certificados de segurança, violando o disposto no artigo 13.º, é punido com coima cujo montante mínimo é de (euro) 200 e o máximo de (euro) 2000.\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - Às contra-ordenações previstas neste diploma aplica-se subsidiariamente o regime geral das contra-ordenações."
+  },
+  "8ee9261db8dbc247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instrução dos processos contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução dos processos contra-ordenacionais\n\nA instrução dos processos contra-ordenacionais e a aplicação das coimas, previstas neste diploma, são da competência do IPTM."
+  },
+  "dc01ff2ff2f555a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Destino das coimas\n\nO produto das coimas, previstas no n.º 1 do artigo 20.º, constitui receita do IPTM em 40% e dos cofres do Estado em 60%."
+  },
+  "b139f95b77bd6c1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Competência fiscalizadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência fiscalizadora\n\nSem prejuízo das competências legais atribuídas à autoridade marítima, compete ao IPTM fiscalizar o cumprimento das disposições constantes do presente diploma."
+  },
+  "9137fa4f8e155139": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regiões Autónomas\n\nO presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe sejam introduzidas por diploma regional."
+  },
+  "9df8568738bc3b9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposição transitória\n\nOs certificados emitidos antes da entrada em vigor deste diploma mantêm-se válidos até ao fim do seu período de validade.\n\nVisto e aprovado em Conselho de Ministros de 24 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues.\n\nPromulgado em 26 de Abril de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Abril de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "65357037c3a0bd9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acidentes marítimos",
+   "in_force_from": "2012-05-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+   ],
+   "markdown": "###### Artigo 15.º — Acidentes marítimos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+  }
+ }
+}

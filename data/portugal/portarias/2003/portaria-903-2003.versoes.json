@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:633279:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5045442c5ab1faa4",
+    "4affece032213578",
+    "621d93fd4ceeeaa8",
+    "74ec1eb2cc849033",
+    "d6882c0660af62a0",
+    "6aaf0bfa8870239e",
+    "8d253c17781dd73a",
+    "5b6a85e3a242ebdc",
+    "63bb639fd611198c",
+    "9be410e50788038d",
+    "db155d237cc9f3ef",
+    "c2fb42b6dc0a8766",
+    "1cf0a627d364e690",
+    "521f86ee0fc7c88c",
+    "b671d00a07a54658",
+    "8110e62bf1b6fd4a",
+    "7ec9b0f2ef7b29b0",
+    "81da784fe96bd580",
+    "42a3d32e79e2e7ce",
+    "7472e49131f929c9"
+   ]
+  },
+  {
+   "date": "2005-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:467271:por",
+     "title": "Portaria n.º 1295/2005",
+     "published": "2005-12-19",
+     "dre_path": "/dr/detalhe/portaria/1295-2005-467271"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS::9.º"
+   ],
+   "fragments": [
+    "5045442c5ab1faa4",
+    "4affece032213578",
+    "621d93fd4ceeeaa8",
+    "74ec1eb2cc849033",
+    "d6882c0660af62a0",
+    "6aaf0bfa8870239e",
+    "8d253c17781dd73a",
+    "5b6a85e3a242ebdc",
+    "63bb639fd611198c",
+    "9be410e50788038d",
+    "73bb7cbb548e5085",
+    "c2fb42b6dc0a8766",
+    "1cf0a627d364e690",
+    "521f86ee0fc7c88c",
+    "b671d00a07a54658",
+    "8110e62bf1b6fd4a",
+    "7ec9b0f2ef7b29b0",
+    "81da784fe96bd580",
+    "42a3d32e79e2e7ce",
+    "7472e49131f929c9"
+   ]
+  }
+ ],
+ "fragments": {
+  "5045442c5ab1faa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Agosto\n\nA [Resolução do Conselho de Ministros n.º 103/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2002-197496), de 17 de Junho, publicada em 26 de Julho, que aprovou o PPCE - Programa para a Produtividade e Crescimento da Economia, delineou e calendarizou um conjunto de medidas dirigidas à criação de condições propícias à consolidação, ao crescimento e ao desenvolvimento das empresas estabelecidas em Portugal e ao consequente aumento da competitividade da economia portuguesa.\n\nDa revisão do Programa Operacional da Economia (POE), surge a criação do Programa de Incentivos à Modernização da Economia (PRIME), que cria condições para promover a produtividade e a competitividade da economia portuguesa.\n\nPorque a dinamização das estruturas associativas se apresentou, no âmbito do POE, como um importante instrumento para a promoção da capacidade efectiva dessas estruturas com vista à sua actuação ao nível da mobilização, divulgação, informação e sensibilização das empresas nacionais, regulamentado através da [Portaria n.º 686-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/686-b-2000-516931), de 30 de Agosto, considerou-se essencial à dinamização do processo de modernização e incremento da capacidade competitiva das empresas manter, no âmbito deste Programa, a mesma tipologia de apoios.\n\nO presente regulamento específico para a acção «Apoio às actuais infra-estruturas associativas» pretende, por um lado, colmatar algumas lacunas existentes ao nível da regulamentação desta matéria no quadro do POE e, por outro lado, afastar os apoios concedidos no âmbito dos projectos de construção.\n\nAssim:\n\nAo abrigo do artigo 20.º e nos termos da alínea c) do artigo 7.º, ambos do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio, em conjugação com o n.º 3 da [Resolução do Conselho de Ministros n.º 101/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2003-647110), aprovada em 10 de Julho de 2003:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Economia, o seguinte:\n\n1.º É aprovado o Regulamento Específico para os Apoios às Actuais Infra-Estruturas Associativas, nos termos do anexo à presente portaria, da qual faz parte integrante.\n\n2.º É revogada a [Portaria n.º 686-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/686-b-2000-516931), publicada no Diário da República, 1.ª série-B, n.º 200, de 30 de Agosto de 2000, com a redacção que lhe foi dada pelas Portarias n.os [1216-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1216-b-2000-527225), de 28 de Dezembro, e [349/2001](https://diariodarepublica.pt/dr/detalhe/portaria/349-2001-354549), de 9 de Abril.\n\nEm 21 de Julho de 2003. - A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva."
+  },
+  "4affece032213578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS"
+  },
+  "621d93fd4ceeeaa8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação do apoio às actuais infra-estruturas associativas, no âmbito do Programa de Incentivos à Modernização da Economia."
+  },
+  "74ec1eb2cc849033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regulamento os projectos com vista ao reforço da capacidade associativa."
+  },
+  "d6882c0660af62a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\nAs entidades beneficiárias da medida de apoio ao associativismo são as seguintes:\n\na) Estruturas associativas empresariais sectoriais, regionais e nacionais classificadas na CAE 91110 ou outras estruturas associativas empresariais equiparadas, devendo em qualquer dos casos os seus associados exercer maioritariamente actividades enquadráveis no conjunto de medidas de acção económica para o desenvolvimento dos diversos sectores de actividade da economia, concebidas ao abrigo do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio;\n\nb) Federações ou confederações de estruturas associativas definidas na alínea anterior;\n\nc) Estruturas associativas sindicais classificadas na CAE 91200, desde que os seus associados exerçam maioritariamente actividades enquadráveis no conjunto das medidas de acção económica para o desenvolvimento dos diversos sectores de actividade da economia concebidas ao abrigo do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio;\n\nd) Regiões de turismo e juntas de turismo."
+  },
+  "6aaf0bfa8870239e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de elegibilidade das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de elegibilidade das entidades beneficiárias\n\n1 - A entidade beneficiária do projecto deve, à data da candidatura, cumprir as seguintes condições:\n\na) Encontrar-se legalmente constituída;\n\nb) Ter concluído o projecto anteriormente apoiado no âmbito do presente Regulamento ou no âmbito da medida de apoio ao associativismo, regulamentada através da [Portaria n.º 686-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/686-a-2000-516935), de 30 de Agosto;\n\nc) Possuir uma estrutura organizacional e de recursos humanos qualificados adequada às actividades a desenvolver;\n\nd) Apresentar uma situação económico-financeira equilibrada através da demonstração de uma situação líquida positiva no ano anterior ao da data da candidatura;\n\ne) Ter a situação regularizada face à administração fiscal, à segurança social e às entidades pagadoras do apoio;\n\nf) Dispor de contabilidade organizada;\n\ng) Cumprir, quando existam investimentos em formação profissional, todas as regras estabelecidas na legislação enquadradora dos apoios do FSE.\n\n2 - O disposto na alínea d) não é aplicável às estruturas associativas constituídas há menos de um ano nem às entidades previstas na alínea d) do artigo 3.º do presente regulamento."
+  },
+  "8d253c17781dd73a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade do projecto\n\n1 - São condições de elegibilidade para os projectos de reforço da capacidade associativa as que a seguir se enunciam:\n\na) Enquadrar-se na presente medida de apoio;\n\nb) Inserir-se na estratégia a médio prazo da entidade beneficiária, por forma a assegurar o seu envolvimento nas tomadas de decisão e na execução das medidas relevantes para os agentes económicos, fundamentada através de um diagnóstico e plano de acção de médio prazo, que deverá reflectir a inserção da actividade a desenvolver na estratégia competitiva da sua base (sectorial, regional ou nacional);\n\nc) Apresentar adequação do projecto, incluindo a componente de formação profissional, ao diagnóstico e plano de acção de médio prazo;\n\nd) Apresentar uma descrição anual das acções a desenvolver, de acordo com os objectivos definidos no diagnóstico e plano de acção;\n\ne) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;\n\nf) Envolver um montante mínimo de investimento de (euro) 35000/ano civil, com excepção do 1.º ano, caso o investimento aí previsto se limite ao último semestre;\n\ng) Ter recursos humanos qualificados afectos que garantam a sua adequada execução;\n\nh) Não se ter iniciado à data de apresentação da candidatura, com excepção do diagnóstico e plano de acção, concluídos há menos de 80 dias úteis e da sinalização de equipamento há menos de 60 dias úteis, desde que não excedam 15% do valor total das despesas elegíveis do projecto;\n\ni) Ter uma duração máxima de execução de dois anos;\n\nj) O investimento anual não ultrapassar o quádruplo da média dos proveitos globais dos últimos três anos, incluindo o valor das quotizações e deduzindo os subsídios públicos;\n\nk) Demonstrar, quando integrar acções de formação profissional, que o plano de formação se revela coerente e em consonância com os objectivos do projecto e ainda que cumpre os normativos aplicáveis aos apoios no âmbito do FSE;\n\nl) Demonstrar, através de plano de financiamento devidamente justificado que se encontram asseguradas as fontes de financiamento do projecto.\n\n2 - A verificação da condição constante na alínea d) do número anterior pode ser remetida até à data da assinatura do contrato de concessão de incentivos.\n\n3 - O investimento máximo anual previsto na alínea j) do n.º 1 é calculado:\n\na) Para os projectos de estruturas associativas constituídas há mais de um ano e há menos de três anos, através da média anual dos proveitos globais, incluindo quotizações e excluindo subsídios públicos, desde a data da sua constituição;\n\nb) Para os projectos de estruturas associativas constituídas há menos de um ano o limite máximo de investimento elegível anual é de (euro) 45000."
+  },
+  "5b6a85e3a242ebdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\n1 - São elegíveis, no âmbito de projectos de reforço da capacidade associativa, as seguintes despesas:\n\na) Assistência técnica externa relativa à preparação do diagnóstico e plano de acção a médio prazo;\n\nb) Custos internos da estrutura associativa relacionados com a preparação do diagnóstico e plano de acção até 5% do valor das despesas totais elegíveis não ultrapassando (euro) 12500 por projecto e desde que não se verifique a imputação das despesas previstas na alínea a) do n.º 1 deste artigo;\n\nc) Contratação e ou manutenção em regime permanente, incluindo salários e encargos sociais obrigatórios, de um limite máximo de três quadros técnicos especializados, a afectar directamente ao projecto, e exclusivamente em áreas específicas para as quais o diagnóstico identifique lacunas, ficando excluídos deste apoio os cargos dirigentes de topo, conforme resulte da avaliação da dimensão do quadro de pessoal de cada entidade, bem como das funções técnicas desempenhadas pelos respectivos dirigentes;\n\nd) Actualização de sistemas informáticos, com excepção das realizadas no âmbito de um contrato de manutenção/assistência técnica, e aquisição de outros equipamentos indispensáveis ao desenvolvimento da actividade, de acordo com o diagnóstico e plano de acção;\n\ne) Elaboração e divulgação de estudos e monografias com carácter sectorial, regional ou temático cuja necessidade seja claramente identificada pelo diagnóstico e plano de acção a médio prazo;\n\nf) Organização de seminários ou outros encontros de natureza similar destinados à sensibilização e informação dos associados para temas relacionados com os objectivos globais definidos no diagnóstico e plano de acção;\n\ng) Participação em feiras ou outros certames para promoção do turismo interno, no caso de projectos promovidos pelas entidades definidas na alínea d) do artigo 3.º do presente Regulamento;\n\nh) Produção e distribuição de, de entre outras, publicações especializadas, anuários, catálogos e material audiovisual, sendo que a comparticipação nesta rubrica apenas incide sobre os custos não cobertos por eventuais receitas obtidas nestas acções;\n\ni) Aquisição de bibliografia e documentação técnica e económica, nomeadamente através do acesso permanente a bases de dados;\n\nj) Inscrições e quotizações em organizações internacionais, bem como o custo de deslocações e alojamento relativos à presença de técnicos da associação em reuniões no estrangeiro e o custo de organização de sessões ou congressos dessas organizações internacionais em Portugal, considerando-se estes custos como os referentes a aluguer de espaço, equipamentos, tradutores, publicidade, material de apoio, estadas e deslocações de oradores;\n\nk) Despesas com participações de carácter pontual e justificadas como essenciais para a actividade da associação em organismos nacionais, limitadas a inscrições e acções técnicas, ligadas à inovação e ao desenvolvimento tecnológico;\n\nl) Custos relacionados com a implementação de sistemas de garantia da qualidade da associação promotora do projecto no âmbito do SPQ;\n\nm) Custos com ROC ou TOC;\n\nn) Custos referentes à componente formação profissional associada ao projecto, sendo as correspondentes despesas elegíveis definidas em regulamento específico, em observância da legislação enquadradora dos apoios do FSE.\n\n2 - Para o efeito do disposto no número anterior, com excepção das alíneas b) e n), as despesas elegíveis mencionadas referem-se exclusivamente a despesas com aquisição de bens ou serviços ao exterior devidamente comprovadas com documentos de entidades terceiras, não sendo consideradas elegíveis despesas referentes a:\n\na) Aquisição de bens em estado de uso;\n\nb) Aquisição de terrenos, edifícios ou de mobiliário;\n\nc) Veículos automóveis e outro material de transporte;\n\nd) Juros sobre empréstimos, comissões e perdas cambiais e outras despesas meramente financeiras;\n\ne) Despesas com alimentação, no âmbito das alíneas f) e j) do número anterior;\n\nf) IVA, excepto quando suportado por entidades que não são reembolsadas do imposto pago nas aquisições de bens e serviços."
+  },
+  "63bb639fd611198c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\n1 - Aos projectos previstos no artigo 2.º será atribuída uma pontuação de acordo com os seguintes critérios:\n\na) C1 - grau de relevância do diagnóstico e plano de acção a médio prazo a executar, face aos objectivos da acção;\n\nb) C2 - nível de cumprimento dos objectivos físicos e financeiros obtido em projectos anteriores, apresentados e desenvolvidos no âmbito da mesma medida de apoio ou no âmbito da medida de apoio ao associativismo regulamentada através da [Portaria n.º 686-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/686-a-2000-516935), de 30 de Agosto.\n\n2 - O cálculo da pontuação final dos projectos resulta da aplicação da metodologia constante do anexo A do presente Regulamento, do qual faz parte integrante."
+  },
+  "9be410e50788038d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Selecção de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Selecção de projectos\n\nNo caso dos projectos apoiados no âmbito da presente medida, apenas são considerados para efeitos de selecção os que obtiverem uma pontuação final igual ou superior a 50, nos termos da metodologia para a determinação da pontuação final constante do anexo A do presente Regulamento."
+  },
+  "db155d237cc9f3ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio\n\n1 - O apoio a conceder no âmbito dos projectos de reforço da capacidade associativa terá a natureza de incentivo não reembolsável, no montante de 45% das despesas elegíveis, com excepção dos investimentos em formação profissional que resultam de regulamento específico dessa componente, tendo em consideração a legislação enquadradora dos apoios do FSE.\n\n2 - Prevê-se um adicional de 15% a título de prémio final do projecto, que será atribuído face ao cumprimento de indicadores mensuráveis de impacte do projecto ao tecido económico, definidos em sede de candidatura pela entidade beneficiária, e cuja razoabilidade será aferida pela respectiva entidade gestora, validada em unidade de gestão e devidamente aprovada pelo Ministro da Economia.\n\n3 - Os limites máximos absolutos a fixar para os incentivos no âmbito desta medida são graduados, em função das aplicações relevantes, até ao máximo de 30% das receitas obtidas pelo promotor no período correspondente aos dois anos anteriores à candidatura, não podendo ultrapassar o total de (euro) 390000, com os seguintes limites máximos por rubrica:\n\na) Assistência técnica na preparação do diagnóstico e plano de acção a médio prazo - (euro) 15000;\n\nb) Bibliografia/documentação técnica, acesso a bases de dados, estudos e monografias - (euro) 85000;\n\nc) Produção de revistas e outro material de divulgação, organização de seminários e outros encontros - (euro) 75000;\n\nd) Participação em organizações internacionais, designadamente quotizações, deslocações e estadas, bem como participação em organismos nacionais, nomeadamente inscrição e acções técnicas - (euro) 50000;\n\ne) Contratação/manutenção de técnicos especializados, no máximo três técnicos - (euro) 80000, sendo o valor ajustado proporcionalmente ao número de técnicos a afectar ao projecto, nos casos em que a contratação/manutenção seja inferior ao número máximo de técnicos previstos;\n\nf) Sistemas informáticos e outros equipamentos - (euro) 60000;\n\ng) Custos referentes à implementação de sistemas de garantia da qualidade da associação promotora do projecto no âmbito do SPQ - (euro) 25000.\n\n4 - Sempre que o valor do incentivo seja inferior a (euro) 390000, os valores dos limites máximos por rubrica, definidos no número anterior, serão ajustados proporcionalmente.\n\n5 - Os limites referidos no número anterior poderão ser excedidos por despacho do Ministro da Economia e sob proposta do gestor do Programa, em situações devidamente justificadas.\n\n6 - Os limites absolutos para os incentivos e correspondentes limites máximos por rubrica estão definidos para um período de execução de dois anos, sendo ajustados proporcionalmente à duração do projecto, nos casos em que a duração seja inferior a esse período temporal.\n\n7 - O investimento elegível pode ser ajustado no sentido de redução face ao comprovadamente realizado no ano anterior, não podendo ser efectuadas quaisquer transferências de verbas entre anos em montante superior a 15% do valor das despesas elegíveis do ano anterior."
+  },
+  "c2fb42b6dc0a8766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nPara as mesmas despesas elegíveis, os apoios concedidos ao abrigo do presente diploma não são acumuláveis com quaisquer outros da mesma natureza."
+  },
+  "1cf0a627d364e690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entidades gestoras, competentes e outras entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidades gestoras, competentes e outras entidades intervenientes\n\n1 - As entidades gestoras, responsáveis pela gestão da presente medida de apoio são o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e o Instituto de Financiamento e Apoio ao Turismo (IFT).\n\n2 - Os organismos competentes especializados no âmbito da presente medida de apoio são:\n\na) A Direcção-Geral da Indústria;\n\nb) A Direcção-Geral do Comércio e Concorrência;\n\nc) A Direcção-Geral do Turismo;\n\nd) A Direcção-Geral da Energia.\n\n3 - O Gabinete de Coordenação de Parcerias e Formação Profissional (GPF) é a entidade responsável pela harmonização de critérios entre os diferentes sectores, bem como a entidade competente especializada na componente de formação profissional."
+  },
+  "521f86ee0fc7c88c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\n1 - Compete às entidades gestoras proceder à avaliação das candidaturas, emitir as ordens de pagamento dos incentivos e proceder ao acompanhamento e à verificação da execução dos projectos.\n\n2 - Compete ao GPF analisar, emitir parecer, emitir as ordens de pagamento dos incentivos e proceder ao acompanhamento e à verificação da execução da componente de formação profissional em articulação com as entidades gestoras.\n\n3 - Compete ao GPF, face aos pareceres das entidades gestoras, garantir a total harmonização de critérios entre os diferentes sectores.\n\n4 - No âmbito das competências definidas no n.º 2, o GPF enviará à entidade gestora um parecer sobre a componente de formação profissional no prazo de 35 dias úteis a partir da data da recepção da candidatura.\n\n5 - As entidades gestoras deverão emitir proposta de decisão num prazo de 45 dias úteis a contar a partir da data da recepção das candidaturas, que será enviada ao GPF para validação.\n\n6 - Compete à unidade de gestão emitir proposta de decisão sobre as candidaturas a submeter ao Ministro da Economia, no prazo de 15 dias úteis.\n\n7 - A decisão relativa ao pedido de concessão do incentivo é notificada ao promotor pelos organismos gestores.\n\n8 - A entidade gestora bem como a entidade competente na área da formação profissional poderão solicitar esclarecimentos complementares, os quais deverão ser apresentados no prazo máximo de 10 dias úteis após a solicitação, decorridos os quais a ausência de resposta significará a desistência da candidatura.\n\n9 - Os prazos previstos nos n.os 4 e 5 do presente artigo suspendem-se sempre que, nos termos do número anterior, sejam solicitados esclarecimentos à entidade beneficiária."
+  },
+  "b671d00a07a54658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação de candidaturas\n\n1 - As candidaturas dão entrada na entidade gestora da acção de apoio para o sector de actividade em que a estrutura associativa se enquadre, mediante formulário próprio devidamente preenchido.\n\n2 - A entidade responsável pela recepção da candidatura efectua o seu registo no sistema de informação e procede à instrução sumária da sua validação."
+  },
+  "8110e62bf1b6fd4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Formalização da concessão do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do apoio\n\n1 - A concessão do incentivo é formalizada através de contrato a celebrar entre as entidades beneficiárias e o IAPMEI ou o IFT, para o caso de projectos do sector do turismo, mediante minuta tipo homologada pelo Ministro da Economia.\n\n2 - A não celebração do contrato por razões imputáveis às entidades beneficiárias no prazo de 40 dias, contados a partir da data da notificação da decisão de aprovação, determina a caducidade da decisão de concessão de apoio."
+  },
+  "7ec9b0f2ef7b29b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações das entidades beneficiárias\n\n1 - As entidades beneficiárias ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos fixados no contrato;\n\nb) Cumprir as obrigações legais, designadamente de natureza fiscal;\n\nc) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competências para o acompanhamento, o controlo e a fiscalização;\n\nd) Elaborar um relatório de execução intercalar, a ser entregue até três meses após a conclusão do primeiro período anual a que os investimentos dizem respeito, bem como um relatório final;\n\ne) Comunicar às entidades gestoras qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua realização pontual;\n\nf) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\ng) Manter a situação regularizada perante as entidades pagadoras do apoio;\n\nh) Manter a contabilidade organizada segundo o Plano Oficial de Contabilidade;\n\ni) Manter nas instalações próprias, devidamente organizado em dossier, todos os documentos susceptíveis de comprovar as declarações prestadas em candidatura e necessários durante a execução do projecto;\n\nj) Cumprir as normas em vigor relativas à publicidade dos apoios.\n\n2 - As entidade beneficiárias ficam sujeitas à verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por qualquer modo onerar o investimento no todo ou em parte, sem autorização prévia das entidades gestoras, até cinco anos após a data da celebração do contrato."
+  },
+  "81da784fe96bd580": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Pagamento de incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento de incentivo\n\nO pagamento do apoio às entidades beneficiárias será feito nos termos das cláusulas contratuais, mediante a emissão de ordens de pagamento pela entidade gestora e na componente de formação profissional pela entidade competente, as quais solicitarão o respectivo processamento ao IAPMEI, ou ao IFT, no caso do sector do turismo."
+  },
+  "42a3d32e79e2e7ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Acompanhamento, controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento, controlo e fiscalização\n\n1 - Sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adoptados, o acompanhamento e a verificação da execução do projecto serão efectuados com base nos seguintes documentos:\n\na) A verificação financeira do projecto da responsabilidade da entidade gestora terá por base uma declaração de despesa do investimento apresentada pelo promotor e ratificada por um revisor oficial de contas ou técnico oficial de contas, através da qual confirma a realização das despesas de investimentos, que os documentos comprovativos daquelas se encontram correctamente lançados na contabilidade e que o incentivo foi contabilizado de acordo com o Plano Oficial de Contabilidade;\n\nb) A verificação física do projecto tem por base um relatório de execução do projecto, a apresentar pela entidade gestora.\n\n2 - No caso da componente de formação profissional, o acompanhamento e a verificação da execução do projecto e a emissão das ordens de pagamento de incentivo serão assegurados pela respectiva entidade competente."
+  },
+  "7472e49131f929c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A — Metodologia para a determinação da pontuação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — Metodologia para a determinação da pontuação final\n\n1.º\n\nProjectos de reforço da capacidade associativa\n\n1 - A valia do projecto será determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios referidos no n.º 1 do artigo 7.º, através da aplicação da seguinte fórmula:\n\nPf = 0,6C1 + 0,4C2\n\n2 - A pontuação do critério C1 e C2 será atribuída nos seguintes termos:\n\nFraco - 0;\n\nMédio - 40;\n\nForte - 70;\n\nMuito forte - 100.\n\n3 - Quando não houver lugar à aplicação do critério C2, a valia do projecto será determinada apenas pela pontuação do critério C1.\n\n4 - Apenas são considerados para efeitos de selecção os projectos que obtenham uma pontuação final (Pf) igual ou superior a 50, sem pontuação nula em qualquer dos critérios."
+  },
+  "73bb7cbb548e5085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio",
+   "in_force_from": "2005-12-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1295/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1295-2005-467271), publicado em 2005-12-19."
+   ],
+   "markdown": "###### Artigo 9.º — Apoio\n\n1 - O apoio a conceder no âmbito dos projectos de reforço da capacidade associativa terá a natureza de incentivo não reembolsável, no montante de 45% das despesas elegíveis, com excepção dos investimentos em formação profissional que resultam de regulamento específico dessa componente, tendo em consideração a legislação enquadradora dos apoios do FSE.\n\n2 - Prevê-se um adicional de 15% a título de prémio final do projecto, que será atribuído face ao cumprimento de indicadores mensuráveis de impacte do projecto ao tecido económico, definidos em sede de candidatura pela entidade beneficiária, e cuja razoabilidade será aferida pela respectiva entidade gestora, validada em unidade de gestão e devidamente aprovada pelo Ministro da Economia.\n\n3 - Os limites máximos absolutos a fixar para os incentivos no âmbito desta medida são graduados, em função das aplicações relevantes, até ao máximo de 30% das receitas obtidas pelo promotor no período correspondente aos dois anos anteriores à candidatura, não podendo ultrapassar o total de (euro) 390000, com os seguintes limites máximos por rubrica:\n\na) Assistência técnica na preparação do diagnóstico e plano de acção a médio prazo - (euro) 15000;\n\nb) Bibliografia/documentação técnica, acesso a bases de dados, estudos e monografias - (euro) 85000;\n\nc) Produção de revistas e outro material de divulgação, organização de seminários e outros encontros - (euro) 75000;\n\nd) Participação em organizações internacionais, designadamente quotizações, deslocações e estadas, bem como participação em organismos nacionais, nomeadamente inscrição e acções técnicas - (euro) 50000;\n\ne) Contratação/manutenção de técnicos especializados, no máximo três técnicos - (euro) 80000, sendo o valor ajustado proporcionalmente ao número de técnicos a afectar ao projecto, nos casos em que a contratação/manutenção seja inferior ao número máximo de técnicos previstos;\n\nf) Sistemas informáticos e outros equipamentos - (euro) 60000;\n\ng) Custos referentes à implementação de sistemas de garantia da qualidade da associação promotora do projecto no âmbito do SPQ - (euro) 25000.\n\n4 - Sempre que o valor do incentivo seja inferior a (euro) 390000, os valores dos limites máximos por rubrica, definidos no número anterior, serão ajustados proporcionalmente.\n\n5 - Os limites referidos no n.º 3 do presente artigo podem ser excedidos por despacho do Ministro da Economia e da Inovação e sob proposta do gestor do Programa, em situações devidamente justificadas.\n\n6 - Os limites absolutos para os incentivos e correspondentes limites máximos por rubrica estão definidos para um período de execução de dois anos, sendo ajustados proporcionalmente à duração do projecto, nos casos em que a duração seja inferior a esse período temporal.\n\n7 - O investimento elegível pode ser ajustado no sentido de redução face ao comprovadamente realizado no ano anterior, não podendo ser efectuadas quaisquer transferências de verbas entre anos em montante superior a 15% do valor das despesas elegíveis do ano anterior.\n\n> Alterado pelo/a [Portaria n.º 1295/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1295-2005-467271), publicado em 2005-12-19."
+  }
+ }
+}

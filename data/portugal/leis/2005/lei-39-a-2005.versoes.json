@@ -1,0 +1,412 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483459:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ce7d29ef98b3b73",
+    "e9035f983985ae32",
+    "872069d58de13d92",
+    "6ffa62b6cccbda55",
+    "827551585d39f9ca",
+    "2762caab2be80e02",
+    "edd2428fb4d2a807",
+    "08d3bab6c109aaf9",
+    "6ca9844b6b5215ad",
+    "cb534267beb9016d",
+    "88c33590952c2501",
+    "d248482a5e18b59c",
+    "438e7ca43d673ef4",
+    "1c6e593fbd59e999",
+    "090476c9e6cb0274",
+    "19f3154c7c237e34",
+    "20af83b3593faf35",
+    "29df7684be822689",
+    "f0b9e27cef1e3a9d",
+    "3632235a5e6d8990",
+    "82b258df3eb6f38a",
+    "78a1273d2e7f0c24",
+    "19614aa9eb83f966",
+    "4aa3d56c62bce500",
+    "3d9f16fe954a8b07",
+    "8d427f17b639cc9f",
+    "17e9768cb4e856cc",
+    "d26140a91e551ca2",
+    "f602841e44f6edd7",
+    "7e95b611a6b89424",
+    "d796a056369592c2",
+    "b9018fd11327b5bc",
+    "7e7aa67083789208",
+    "474b74fd3d671471",
+    "d0a0416385f9650d",
+    "1313a8c2570c9628"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197511:por",
+     "title": "Lei n.º 53-A/2006",
+     "published": "2006-12-29",
+     "dre_path": "/dr/detalhe/lei/53-a-2006-197511"
+    },
+    {
+     "id": "pt:dre:197511:por",
+     "title": "Lei n.º 53-A/2006",
+     "published": "2006-12-29",
+     "dre_path": "/dr/detalhe/lei/53-a-2006-197511"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "3ce7d29ef98b3b73",
+    "e9035f983985ae32",
+    "872069d58de13d92",
+    "6ffa62b6cccbda55",
+    "827551585d39f9ca",
+    "2762caab2be80e02",
+    "edd2428fb4d2a807",
+    "08d3bab6c109aaf9",
+    "76344fb902a8605a",
+    "cb534267beb9016d",
+    "88c33590952c2501",
+    "d248482a5e18b59c",
+    "438e7ca43d673ef4",
+    "1c6e593fbd59e999",
+    "090476c9e6cb0274",
+    "19f3154c7c237e34",
+    "20af83b3593faf35",
+    "29df7684be822689",
+    "f0b9e27cef1e3a9d",
+    "3632235a5e6d8990",
+    "82b258df3eb6f38a",
+    "78a1273d2e7f0c24",
+    "19614aa9eb83f966",
+    "4aa3d56c62bce500",
+    "3d9f16fe954a8b07",
+    "8d427f17b639cc9f",
+    "17e9768cb4e856cc",
+    "d26140a91e551ca2",
+    "f602841e44f6edd7",
+    "7e95b611a6b89424",
+    "d796a056369592c2",
+    "b9018fd11327b5bc",
+    "7e7aa67083789208",
+    "474b74fd3d671471",
+    "d0a0416385f9650d",
+    "1313a8c2570c9628"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ce7d29ef98b3b73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nPrimeira alteração à Lei n.º 55-B/2004, de 30 de Dezembro\n\n(Orçamento do Estado para 2005)\n\nA Assembleia da República decreta, nos termos da alínea g) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "e9035f983985ae32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Alterações ao Orçamento do Estado para 2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Alterações ao Orçamento do Estado para 2005"
+  },
+  "872069d58de13d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alteração ao Orçamento do Estado para 2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Orçamento do Estado para 2005\n\n1 - É alterado o Orçamento do Estado de 2005, aprovado pela Lei n.º 55-B/2004, de 30 de Dezembro, na parte relativa aos mapas I, II, III, IV, X, XI, XII, XIII, XIV e XV anexos a essa lei, quer no que respeita à apresentação da orgânica do XVII Governo Constitucional, quer nos termos dos artigos seguintes.\n\n2 - A alteração referida no número anterior consta dos mapas I, II, III, IV, X, XI, XII, XIII, XIV e XV anexos à presente lei, que substituem os mapas I, II, III, IV, X, XI, XII, XIII, XIV e XV da Lei n.º 55-B/2004, de 30 de Dezembro.\n\n3 - Os artigos 2.º, 3.º, 5.º, 16.º, 19.º, 23.º, 24.º, 25.º, 51.º, 52.º, 53.º, 55.º e 62.º da Lei n.º 55-B/2004, de 30 de Dezembro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - Ficam cativos 37% do total das verbas afectas à Lei de Programação Militar.\n\n2 - Ficam cativos (euro) 450000000 das dotações inscritas no capítulo 50 do Orçamento do Estado em financiamento nacional, a repartir por ministério, mediante despacho do Ministro das Finanças.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - A descativação das verbas referidas nos n.os 1 a 5 só pode realizar-se por razões excepcionais, estando sempre sujeita à autorização do Governo, através do Ministro das Finanças, que decide os montantes a descativar em função da evolução da execução orçamental.\n\nArtigo 3.º\n\n[...]\n\n1 - ...\n\n2 - Nos imóveis referidos no número anterior incluem-se aqueles que as entidades aí referidas tenham adquirido a particulares a qualquer título e que se situem dentro da margem das águas do mar ou de quaisquer águas navegáveis ou flutuáveis.\n\n3 - As alienações dos imóveis referidos nos números anteriores processam-se nos termos e condições definidos em despacho normativo, sendo adoptado, preferencialmente, o procedimento da hasta pública sem prejuízo do recurso ao procedimento de ajuste directo nos casos ali previstos, ou nos termos que vierem a ser estabelecidos por lei.\n\n4 - (Anterior n.º 3.)\n\n5 - O disposto nos números anteriores não se aplica:\n\na) Ao património imobiliário da segurança social mencionado no n.º 3 do artigo 24.º;\n\nb) À alienação de imóveis da carteira de activos do Fundo de Estabilização Financeira da Segurança Social, gerida pelo Instituto de Gestão de Fundos de Capitalização da Segurança Social, cuja receita seja aplicada naquele mesmo Fundo;\n\nc) ...\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\n8 - No âmbito de operações de deslocalização ou de reinstalação de serviços ou de organismos públicos a que se refere o n.º 1 pode ser autorizada a alienação por ajuste directo ou a permuta de imóveis pertencentes ao domínio privado do Estado que se encontrem afectos aos serviços ou organismos a deslocalizar ou a reinstalar ou que integrem o respectivo património privativo, a favor das entidades a quem, nos termos legalmente consagrados para a aquisição de imóveis, venha a ser adjudicada a aquisição de novas instalações.\n\n9 - A autorização prevista no número anterior consta de despacho conjunto dos Ministros das Finanças e da Administração Pública e da tutela que especifica as condições da operação, designadamente:\n\na) Identificação da entidade a quem serão adquiridos os novos imóveis;\n\nb) Identificação matricial, registral e local da situação dos imóveis a transaccionar;\n\nc) Valores de transacção dos imóveis incluídos na operação e respectivos valores da avaliação promovida nos termos do n.º 10;\n\nd) Condições e prazos de disponibilização das novas instalações e das instalações que, sendo libertadas pelos serviços ocupantes, serão alienadas à entidade a quem serão adquiridas as novas instalações;\n\ne) Informação de cabimento orçamental e suporte da despesa;\n\nf) Fixação do destino da receita, no caso de resultar da operação um saldo favorável ao Estado ou ao organismo alienante, sempre sem prejuízo do disposto nos n.os 11 e 12.\n\n10 - As alienações de imóveis inseridas nas operações previstas no n.º 8 têm como referência o valor apurado em avaliação promovida pela Direcção-Geral do Património.\n\n11 - (Anterior n.º 7.)\n\n12 - (Anterior n.º 8.)\n\n13 - (Anterior n.º 9.)\n\nArtigo 5.º\n\n[...]\n\n...\n\n1) ...\n\n2) ...\n\n3) ...\n\n4) ...\n\n5) ...\n\n6) ...\n\n7) ...\n\n8) ...\n\n9) ...\n\n10) ...\n\n11) ...\n\n12) ...\n\n13) ...\n\n14) ...\n\n15) ...\n\n16) ...\n\n17) ...\n\n18) ...\n\n19) ...\n\n20) ...\n\n21) ...\n\n22) ...\n\n23) ...\n\n24) ...\n\n25) ...\n\n26) ...\n\n27) ...\n\n28) ...\n\n29) ...\n\n30) Transferir as dotações inscritas no capítulo 50 do orçamento da Secretaria-Geral do anteriormente designado Ministério das Actividades Económicas e do Trabalho, actual Ministério da Economia e da Inovação, a favor da Direcção-Geral do Emprego e das Relações de Trabalho (DGERT), da Inspecção-Geral do Trabalho (IGT) e do Instituto António Sérgio para o Sector Cooperativo (INSCOOP), no montante global de (euro) 1538000, destinadas à prossecução dos projectos com as referências P001-M003-4389, P006-M003-4009, P001-M003-4387, P006-M002-3531, P006-M006-4229, P006-M006-4232 e P006-M003-1294, bem como os saldos das respectivas dotações orçamentais, para os orçamentos dos serviços em referência;\n\n31) Transferir verbas do Ministério da Defesa Nacional para o orçamento da segurança social destinadas ao reembolso do pagamento das prestações previstas nas Leis n.os 9/2002, de 11 de Fevereiro, e 21/2004, de 5 de Junho, e no Decreto-Lei n.º 160/2004, de 2 de Julho;\n\n32) Transferir do capítulo 50 do orçamento do Ministério das Obras Públicas, Transportes e Comunicações uma verba até (euro) 315000000 para a EP - Estradas de Portugal, E. P. E., destinada ao cumprimento das obrigações decorrentes da construção de infra-estruturas rodoviárias.\n\nArtigo 16.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - São nulos os contratos-programa, acordos de colaboração, protocolos ou quaisquer outros instrumentos no domínio dos auxílios financeiros e da cooperação técnica e financeira que não sejam alvo de publicação no Diário da República nos termos do preceituado no n.º 6 do artigo 7.º da Lei n.º 42/98, de 6 de Agosto.\n\n3 - O Governo publicará trimestralmente, no Diário da República, uma listagem da qual constem os contratos-programa, acordos de colaboração, protocolos ou quaisquer outros instrumentos no domínio dos auxílios financeiros e da cooperação técnica e financeira, celebrados por cada ministério, bem como os respectivos montantes e prazos.\n\nArtigo 19.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\na) O montante máximo do crédito não pode exceder 75% do montante da participação pública nacional necessária para a execução dos projectos de infra-estruturas e equipamentos co-financiados pelo Fundo Europeu de Desenvolvimento Regional no âmbito do Quadro Comunitário de Apoio 2000-2006, ou pelo Fundo de Coesão;\n\nb) ...\n\n7 - Excepcionam-se do limite previsto no n.º 1 do artigo 24.º da Lei n.º 42/98, de 6 de Agosto, os empréstimos de curto prazo contraídos pelos municípios para financiarem projectos aprovados no âmbito da iniciativa comunitária INTERREG III que respeitem as seguintes condições:\n\na) O montante máximo do crédito não pode exceder 75% do montante da participação pública necessária para a execução dos projectos;\n\nb) Apenas são elegíveis para esta excepção os projectos de infra-estruturas e equipamentos aprovados entre Julho de 2004 e 31 de Dezembro de 2005 e referentes às tipologias enunciadas na alínea b) do n.º 6;\n\nc) Os municípios devem indicar a intenção de recurso ao crédito de curto prazo para financiamento da participação pública aquando da submissão das respectivas candidaturas;\n\nd) No caso das candidaturas já apresentadas, devem os municípios comunicar ao gestor da iniciativa comunitária INTERREG III a intenção de recorrerem ao crédito no prazo de 15 dias úteis contado a partir da recepção da comunicação das respectivas aprovações;\n\ne) O gestor referido na alínea d) informa mensalmente a Direcção-Geral das Autarquias Locais dos montantes estimados, por município, para recurso ao crédito previsto neste número, a qual comunicará ao Tribunal de Contas;\n\nf) Os municípios devem identificar claramente na sua contabilidade o recurso ao crédito previsto neste número.\n\n8 - (Anterior n.º 7.)\n\n9 - (Anterior n.º 8.)\n\n10 - (Anterior n.º 9.)\n\n11 - Os municípios que pretendam utilizar o rateio previsto no n.º 3 devem comunicar à Direcção-Geral das Autarquias Locais até 31 de Agosto o montante que vão utilizar em 2005.\n\nArtigo 23.º\n\n[...]\n\n1 - ...\n\n2 - Os saldos referidos no número anterior que resultem de receitas provenientes da execução de programas co-financiados maioritariamente pelo Fundo Social Europeu podem ser mantidos no Instituto do Emprego e Formação Profissional, por despacho conjunto dos Ministros de Estado e das Finanças e do Trabalho e da Solidariedade Social.\n\nArtigo 24.º\n\n[...]\n\n1 - Dando cumprimento ao disposto no artigo 111.º da Lei n.º 32/2002, de 20 de Dezembro, e de acordo com o previsto no n.º 3 do referido artigo, é afecta ao Fundo de Estabilização Financeira da Segurança Social uma parcela de até 2 pontos percentuais do valor percentual correspondente às quotizações dos trabalhadores por conta de outrem.\n\n2 - (Revogado.)\n\n3 - Os saldos anuais do subsistema previdencial, bem como as receitas resultantes da alienação de património, são igualmente transferidos para o Fundo de Estabilização Financeira da Segurança Social.\n\nArtigo 25.º\n\n[...]\n\nFica o Governo autorizado, através do Ministro do Trabalho e da Solidariedade Social, que tem a faculdade de delegar, a proceder à anulação de créditos detidos pelo Instituto de Gestão Financeira da Segurança Social quando se verifique carecerem os mesmos de justificação ou estarem insuficientemente documentados ou quando a sua irrecuperabilidade decorra da inexistência de bens penhorados do devedor.\n\nArtigo 51.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) À contratação de prestação de serviços, em casos devidamente fundamentados, no âmbito da recuperação dos créditos do Estado e do patrocínio do Estado sempre que este assuma a posição de empresas dissolvidas, relativamente às quais exista acções judiciais pendentes.\n\n4 - ...\n\n5 - ...\n\nArtigo 52.º\n\n[...]\n\nFica o Governo autorizado, através do Ministro de Estado e das Finanças, que tem a faculdade de delegar, e sujeito ao limite estabelecido no artigo 63.º:\n\na) A adquirir créditos de empresas públicas, no contexto de planos estratégicos de reestruturação e de saneamento financeiro, no âmbito dos respectivos processos de liquidação ou extinção ou ainda detidos pelas mesmas sobre empresas públicas;\n\nb) A assumir passivos de empresas públicas, no contexto de planos estratégicos de reestruturação e de saneamento financeiro ou no âmbito dos respectivos processos de liquidação ou extinção.\n\nArtigo 53.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) Regularização de responsabilidades no âmbito do regime de crédito à habitação bonificado relativas a empréstimos concedidos nos territórios das Regiões Autónomas dos Açores e da Madeira, nos termos do n.º 2 do artigo 26.º do Decreto-Lei n.º 349/98, de 11 de Novembro.\n\nArtigo 55.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - As entidades públicas empresariais devem manter as suas disponibilidades e aplicações financeiras junto da Direcção-Geral do Tesouro, sendo-lhes para esse efeito aplicável o regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de Junho.\n\nArtigo 62.º\n\n[...]\n\nPara fazer face às necessidades de financiamento decorrentes da execução do Orçamento do Estado, incluindo os serviços e fundos dotados de autonomia administrativa e financeira, fica o Governo autorizado, nos termos da alínea h) do artigo 161.º da Constituição e do artigo 64.º, a aumentar o endividamento líquido global directo até ao montante máximo de (euro) 12550000000.»"
+  },
+  "6ffa62b6cccbda55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Segurança social"
+  },
+  "827551585d39f9ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Financiamento dos encargos do subsistema de protecção familiar e políticas activas de emprego e formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Financiamento dos encargos do subsistema de protecção familiar e políticas activas de emprego e formação profissional\n\nO artigo 9.º do Decreto-Lei n.º 331/2001, de 20 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\nFinanciamento dos encargos do subsistema de protecção familiar e políticas activas de emprego e formação profissional.\n\n1 - É consignada à segurança social a receita do IVA resultante do aumento da taxa normal operada através do n.º 6 do artigo 32.º da Lei n.º 39-B/94, de 27 de Dezembro, relativamente à cobrança efectuada em cada exercício orçamental.\n\n2 - A satisfação de 50% dos encargos com o subsistema de protecção familiar e políticas activas de emprego e formação profissional é garantida pela receita fiscal referida no número anterior e no remanescente por transferências do Orçamento do Estado para a segurança social.»"
+  },
+  "2762caab2be80e02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sistema de informação da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sistema de informação da segurança social\n\nAs despesas com a aquisição ou locação, sob qualquer regime, instalação e operacionalização de bens e serviços de informática a efectuar pelas instituições de segurança social que visem o aperfeiçoamento, o desenvolvimento ou a adaptação do sistema de informação da segurança social, com vista a melhorar a gestão e o controlo do sistema de cobrança de contribuições, assegurar a luta contra a fraude e evasão contributiva ou a atribuição indevida de prestações, incluindo os necessários estudos e demais despesas que decorram da concepção e implementação da reestruturação orgânica do sistema da segurança social, podem, durante o presente ano económico, realizar-se com recurso ao procedimento por negociação ou ajuste directo."
+  },
+  "edd2428fb4d2a807": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Medidas de combate à fraude e à evasão e de reforço da eficiência fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Medidas de combate à fraude e à evasão e de reforço da eficiência fiscal"
+  },
+  "08d3bab6c109aaf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tributação de dividendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tributação de dividendos\n\nFica o Governo autorizado a rever o regime de tributação dos dividendos de modo a evitar a prática de operações denominadas de «lavagem de dividendos», no seguinte sentido:\n\na) Estabelecer uma taxa de tributação idêntica, de retenção na fonte do IRS ou do IRC, que não ultrapasse 25% quando os beneficiários sejam residentes ou não residentes em território português;\n\nb) Atribuir um carácter definitivo à retenção na fonte quando os dividendos são auferidos por sujeitos passivos do IRS residentes, mantendo a possibilidade de opção pelo englobamento;\n\nc) Estabelecer uma taxa especial de tributação para os dividendos de fonte externa, idêntica à taxa de retenção na fonte, quando auferidos por sujeitos passivos do IRS residentes, consagrando também a possibilidade de opção pelo englobamento;\n\nd) Prever uma tributação autónoma para os dividendos de fonte interna ou externa, que correspondam a participações detidas durante um período inferior a um ano, a uma taxa idêntica à definida para a retenção na fonte, quando sejam auferidos por sujeitos passivos do IRC residentes, que beneficiem de isenção relativamente aos rendimentos de capitais;\n\ne) Eliminar a dispensa de retenção na fonte do IRC para os dividendos correspondentes a participações detidas durante um período inferior a um ano."
+  },
+  "6ca9844b6b5215ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regularização tributária de elementos patrimoniais colocados no exterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regularização tributária de elementos patrimoniais colocados no exterior\n\n1 - É aprovado o regime excepcional de regularização tributária de elementos patrimoniais que não se encontrem no território português em 31 de Dezembro de 2004, abreviadamente designado pela sigla RERT, nos termos e condições de seguida transcritos:\n\n«Artigo 1.º\n\nObjecto\n\nO presente regime excepcional de regularização tributária aplica-se a elementos patrimoniais que não se encontrem no território português em 31 de Dezembro de 2004, que consistam em depósitos, certificados de depósito, valores mobiliários e outros instrumentos financeiros, incluindo apólices de seguro do ramo 'Vida' ligados a fundos de investimento e operações de capitalização do ramo 'Vida'.\n\nArtigo 2.º\n\nÂmbito subjectivo\n\n1 - Podem beneficiar do presente regime os sujeitos passivos pessoas singulares que possuam elementos patrimoniais referidos no artigo anterior.\n\n2 - Para efeitos do presente regime, os sujeitos passivos devem:\n\na) Apresentar a declaração de regularização tributária prevista no artigo 5.º;\n\nb) Proceder ao pagamento da importância correspondente à aplicação de uma taxa de 5% sobre o valor dos elementos patrimoniais constantes da declaração referida na alínea anterior.\n\n3 - A importância paga nos termos da alínea b) do número anterior não é dedutível nem compensável para efeitos de qualquer outro imposto ou tributo.\n\nArtigo 3.º\n\nValorização dos elementos patrimoniais\n\nA determinação do valor referido na alínea b) do n.º 2 do artigo 2.º faz-se de acordo com as seguintes regras aplicadas com referência à data de 31 de Dezembro de 2004:\n\na) No caso de depósitos em instituições financeiras, o montante do respectivo saldo;\n\nb) No caso de instrumentos financeiros cotados em mercado regulamentado, o valor da última cotação;\n\nc) No caso de unidades de participação em organismos de investimento colectivo não admitidas à cotação em mercado regulamentado, bem como de seguros do ramo 'Vida' ligados a um fundo de investimentos, o seu valor para efeitos de resgate;\n\nd) No caso de operações de capitalização do ramo 'Vida' e demais instrumentos de capitalização, o valor capitalizado;\n\ne) Nos demais casos, o valor que resultar da aplicação das regras de determinação do valor tributável previstas no Código do Imposto do Selo ou o respectivo custo de aquisição, consoante o que for maior.\n\nArtigo 4.º\n\nEfeitos\n\n1 - A declaração e o pagamento referidos no n.º 2 do artigo 2.º produzem, relativamente aos elementos patrimoniais constantes da declaração e respectivos rendimentos, os seguintes efeitos:\n\na) Extinção das obrigações tributárias exigíveis em relação àqueles elementos e rendimentos, respeitantes aos períodos de tributação que tenham terminado até 31 de Dezembro de 2004;\n\nb) Exclusão da responsabilidade por infracções tributárias que resultem de condutas ilícitas que tenham lugar por ocultação ou alteração de factos ou valores que devam constar de livros de contabilidade ou escrituração, de declarações apresentadas ou prestadas à administração fiscal ou que a esta devam ser revelados, desde que conexionadas com aqueles elementos ou rendimentos;\n\nc) Constituição de prova bastante para os efeitos previstos no n.º 3 do artigo 89.º-A da lei geral tributária.\n\n2 - Os efeitos previstos no número anterior não se verificam quando à data da apresentação da declaração já tenha tido início procedimento de inspecção ou qualquer outro procedimento para apuramento da situação tributária do contribuinte, bem como quando já tenha sido desencadeado procedimento penal ou contra-ordenacional de que, em qualquer dos casos, o interessado já tenha tido conhecimento nos termos da lei e que abranjam elementos patrimoniais susceptíveis de beneficiar do regime previsto na presente lei.\n\nArtigo 5.º\n\nDeclaração e pagamento\n\n1 - A declaração de regularização tributária a que se refere a alínea a) do n.º 2 do artigo 2.º obedece a modelo aprovado por portaria do Ministro das Finanças e deve ser acompanhada dos documentos comprovativos da titularidade e do depósito ou registo dos elementos patrimoniais dela constantes.\n\n2 - A declaração de regularização tributária deve ser entregue até ao dia 16 de Dezembro de 2005, junto do Banco de Portugal ou de outros bancos estabelecidos em Portugal.\n\n3 - O pagamento previsto na alínea b) do n.º 2 do artigo 2.º é efectuado junto das entidades referidas no número anterior, em simultâneo com a entrega da declaração a que se refere a alínea a) do mesmo número e artigo, ou nos 10 dias úteis posteriores contados da data da recepção daquela declaração.\n\n4 - A entidade bancária interveniente entrega ao declarante no acto do pagamento, um documento nominativo comprovativo da entrega da declaração e do respectivo pagamento.\n\n5 - Nos limites da presente lei, a declaração de regularização tributária não pode ser, por qualquer modo, utilizada como indício ou elemento relevante para efeitos de qualquer procedimento tributário, penal ou contra-ordenacional, devendo os bancos intervenientes assegurar o sigilo sobre a informação prestada.\n\n6 - No caso de a entrega da declaração e o pagamento não serem efectuados directamente junto do Banco de Portugal, o banco interveniente deverá remeter ao Banco de Portugal a referida declaração, bem como uma cópia do documento comprovativo, nos 10 dias úteis posteriores à data da entrega da declaração.\n\n7 - Nos casos previstos no número anterior, o banco interveniente deverá transferir para o Banco de Portugal as importâncias recebidas nos 10 dias úteis posteriores ao respectivo pagamento.\n\nArtigo 6.º\n\nInvestimento em títulos do Estado Português\n\n1 - Se todos ou alguns dos elementos patrimoniais objecto da declaração de regularização tributária forem títulos do Estado Português, a taxa referida na alínea b) do n.º 2 do artigo 2.º é reduzida a metade na parte referente a esses títulos.\n\n2 - A redução de taxa a que se refere o número anterior é igualmente aplicável a outros elementos patrimoniais se o respectivo valor for reinvestido em títulos do Estado Português até à data da apresentação da declaração de regularização tributária.\n\n3 - No caso de reinvestimento parcial, a redução de taxa respeita apenas à parte do valor reinvestido.\n\n4 - Os títulos do Estado Português que beneficiarem do regime previsto no presente artigo devem permanecer na titularidade do declarante durante, pelo menos, três anos a contar da data da apresentação de declaração de regularização tributária e independentemente da data da respectiva aquisição.\n\n5 - O incumprimento do período mínimo de detenção previsto no número anterior implica o pagamento da diferença face ao valor que resultaria da aplicação da taxa referida na alínea b) do n.º 2 do artigo 2.º, acrescida dos correspondentes juros compensatórios majorados em 5 pontos percentuais.\n\nArtigo 7.º\n\nFalta, omissões e inexactidões da declaração\n\nSem prejuízo das demais sanções que ao caso sejam aplicáveis, a falta de entrega da declaração de regularização tributária de elementos patrimoniais referidos no artigo 1.º bem como as omissões ou inexactidões da mesma implicam em relação aos elementos patrimoniais não declarados, omitidos ou inexactos, a majoração em 50% do imposto que seria devido pelos rendimentos correspondentes aos elementos patrimoniais não declarados, omitidos ou inexactos.»\n\n2 - São excluídos da aplicação do regime excepcional aprovado pelo número anterior os elementos patrimoniais situados em países ou territórios considerados não cooperantes pelo Grupo de Acção Financeira (GAFI)."
+  },
+  "cb534267beb9016d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Sistema informático de apoio à administração tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema informático de apoio à administração tributária\n\nAs despesas com a aquisição ou locação, sob qualquer regime, instalação ou operacionalização de bens e serviços de informática que visem o aperfeiçoamento, desenvolvimento ou adaptação dos sistemas de informação de apoio à administração tributária e envolvam dados de natureza confidencial ou que se destinem a assegurar a luta contra a fraude e a evasão fiscal e a arrecadação e controlo das receitas tributárias podem realizar-se com recurso a procedimento por negociação ou ajuste directo, com dispensa de consulta, até aos limites comunitários."
+  },
+  "88c33590952c2501": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Alteração ao regime legal que transpôs a directiva da poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao regime legal que transpôs a directiva da poupança\n\nO artigo 15.º do Decreto-Lei n.º 62/2005, de 11 de Março, que transpôs para a ordem jurídica interna a Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), do Conselho, de 3 de Junho, relativa à tributação dos rendimentos da poupança sob a forma de juros, passa a ter a seguinte redacção:\n\n«Artigo 15.º\n\n[...]\n\n1 - O presente regime aplica-se, com as necessárias adaptações, aos rendimentos da poupança sob a forma de juros de que sejam beneficiárias efectivas pessoas singulares residentes em Estados terceiros ou noutros territórios com os quais Portugal celebre acordos ou convénios que visem permitir que tais rendimentos sejam sujeitos a uma tributação efectiva em conformidade com a legislação aplicável no Estado ou território de residência do beneficiário efectivo.\n\n2 - O cumprimento das obrigações previstas no presente regime relativas a rendimentos da poupança sob a forma de juros pagos ou atribuídos a beneficiários efectivos ou a entidades similares às referidas no n.º 2 do artigo 4.º da Directiva n.º [2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt) residentes ou estabelecidas nos territórios a seguir indicados é obrigatório a partir de 1 de Julho de 2005:\n\na) Anguila;\n\nb) Antilhas Holandesas;\n\nc) Aruba;\n\nd) Ilhas Caimão;\n\ne) Guernsey;\n\nf) Jersey;\n\ng) Ilha de Man;\n\nh) Monserrate;\n\ni) Ilhas Turcas e Caicos;\n\nj) Ilhas Virgens Britânicas.»"
+  },
+  "d248482a5e18b59c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aditamento ao regime legal que transpôs a directiva da poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aditamento ao regime legal que transpôs a directiva da poupança\n\nÉ aditado o artigo 15.º-A ao Decreto-Lei n.º 62/2005, de 11 de Março, com a seguinte redacção:\n\n«Artigo 15.º-A\n\nDerrogação do dever de sigilo\n\nO cumprimento das obrigações previstas neste diploma derroga qualquer dever de sigilo a que estão sujeitas as entidades abrangidas por essas obrigações.»"
+  },
+  "438e7ca43d673ef4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Impostos directos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Impostos directos"
+  },
+  "1c6e593fbd59e999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares\n\nOs artigos 10.º e 81.º do Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - A exclusão estabelecida no n.º 2 não abrange as mais-valias provenientes de acções de sociedades cujo activo seja constituído, directa ou indirectamente, em mais de 50%, por bens imóveis ou direitos reais sobre bens imóveis situados em território português.\n\nArtigo 81.º\n\n[...]\n\n1 - Os titulares de rendimentos das diferentes categorias obtidos no estrangeiro têm direito a um crédito de imposto por dupla tributação internacional, dedutível até à concorrência da parte da colecta proporcional a esses rendimentos líquidos, considerados nos termos da alínea b) do n.º 6 do artigo 22.º, que corresponderá à menor das seguintes importâncias:\n\na) ...\n\nb) Fracção da colecta do IRS, calculada antes da dedução, correspondente aos rendimentos que no país em causa possam ser tributados, líquidos das deduções específicas previstas neste Código.\n\n2 - ...\n\n3 - (Revogado.)»"
+  },
+  "090476c9e6cb0274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Colectivas\n\nOs artigos 47.º e 85.º do Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 47.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - O previsto no n.º 1 deixa de ser aplicável quando se verificar, à data do termo do período de tributação em que é efectuada a dedução, que, em relação àquele a que respeitam os prejuízos, foi modificado o objecto social da entidade a que respeita ou alterada, de forma substancial, a natureza da actividade anteriormente exercida ou que se verificou a alteração da titularidade de, pelo menos, 50% do capital social ou da maioria dos direitos de voto.\n\n9 - ...\n\nArtigo 85.º\n\n[...]\n\n1 - A dedução a que se refere a alínea b) do n.º 2 do artigo 83.º é apenas aplicável quando na matéria colectável tenham sido incluídos rendimentos obtidos no estrangeiro e corresponde à menor das seguintes importâncias:\n\na) ...\n\nb) Fracção do IRC, calculado antes da dedução, correspondente aos rendimentos que no país em causa possam ser tributados, líquidos dos custos ou perdas directa ou indirectamente suportados para a sua obtenção.\n\n2 - ...\n\n3 - (Revogado.)»"
+  },
+  "19f3154c7c237e34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Valores mobiliários representativos de dívida pública e não pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Valores mobiliários representativos de dívida pública e não pública\n\n1 - Fica o Governo autorizado a:\n\na) Rever o regime de isenção de IRS e IRC aplicável aos rendimentos de valores mobiliários representativos de dívida pública e dívida emitida pelas Regiões Autónomas obtidos por entidades não residentes em território português previsto no Decreto-Lei n.º 88/94, de 2 de Abril;\n\nb) Criar um regime de isenção de IRS e IRC para os rendimentos de valores mobiliários representativos de dívida não pública auferidos por não residentes em território português e que neste território não disponham de estabelecimento estável ao qual os mesmos sejam imputáveis.\n\n2 - A autorização legislativa conferida nas alíneas a) e b) do número anterior tem o seguinte sentido e extensão:\n\na) Alargar a isenção aos rendimentos de valores mobiliários representativos de dívida pública qualificados como mais-valias para efeitos de IRS e IRC;\n\nb) A isenção relativa aos rendimentos de valores mobiliários representativos de dívida não pública abrangerá os rendimentos qualificados como de capitais e de mais-valias para efeitos de IRS e IRC."
+  },
+  "20af83b3593faf35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Impostos indirectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Impostos indirectos"
+  },
+  "29df7684be822689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Alteração ao Código do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Código do Imposto sobre o Valor Acrescentado\n\nO artigo 71.º do Código do IVA, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 71.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - A correcção de erros materiais ou de cálculo no registo a que se referem os artigos 44.º a 51.º e 65.º, nas declarações mencionadas no artigo 40.º e nas guias ou declarações mencionadas nas alíneas b) e c) do n.º 1 do artigo 67.º, é facultativa quando resultar imposto a favor do sujeito passivo, mas só poderá ser efectuada no prazo de dois anos, que, no caso do exercício do direito à dedução, será contado a partir do nascimento do respectivo direito nos termos do n.º 1 do artigo 22.º, sendo obrigatória quando resulte imposto a favor do Estado.\n\n7 - (Revogado.)\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - ...»"
+  },
+  "f0b9e27cef1e3a9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Outras medidas no âmbito do IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Outras medidas no âmbito do IVA\n\n1 - Fica o Governo autorizado a consagrar normas especiais que obstem à concretização de negócios que, no essencial, visem impedir, minorar ou retardar a tributação em IVA, no âmbito de transmissões, locações ou cedências de outra natureza de bens imóveis ou partes autónomas destes, com o seguinte sentido e alcance:\n\na) Prevenir práticas de subavaliação na transmissão de imóveis ou nas prestações de serviços com estes conexas, quando o destinatário das operações seja um sujeito passivo sem direito à dedução integral ou quando entre este e o transmitente ou prestador existam relações especiais tal como estas se encontram definidas para efeitos de IRC, prevendo, para tanto, uma derrogação ao previsto no artigo 16.º do Código do IVA, mediante a aplicação, naquelas circunstâncias, do valor normal como base tributável;\n\nb) Definir, nas operações realizadas entre sujeitos passivos, como devedor de imposto o destinatário de prestações de serviços conexas com a construção de edifícios, bem como o adquirente, locatário ou cessionário no caso das operações sobre imóveis sujeitas a tributação, ainda que por opção;\n\nc) Rever os requisitos necessários ao exercício do direito a renunciar à isenção de IVA constante dos n.os 4 a 7 do artigo 12.º do Código do IVA, introduzindo restrições a tal direito quando, nas operações realizadas ou a realizar, estejam envolvidos sujeitos passivos sem direito à dedução integral ou quando entre eles existam relações especiais tal como estas se encontram definidas para efeitos de IRC, devendo, no mesmo contexto, reformular todo o procedimento administrativo, as exigências e obrigações declarativas previstas no Decreto-Lei n.º 241/86, de 20 de Agosto, de modo a reforçar os mecanismos de controlo da utilização deste regime.\n\n2 - Fica o Governo autorizado a, tendo em conta a experiência e as melhores práticas adoptadas noutros países da União Europeia, reformular o regime de facturação e respectivo registo previsto no Código do IVA, designadamente no respectivo artigo 39.º, eliminando, em relação a sectores de actividades em que ocorram de forma reiterada práticas que visam a evasão e a fraude fiscal, as situações de dispensa de facturação ou de admissibilidade de emissão de documento equivalente a factura.\n\n3 - Fica ainda o Governo autorizado a criar um regime especial de imposto sobre o valor acrescentado aplicável nas transmissões de desperdícios, resíduos e sucatas recicláveis e nas prestações de serviços de selecção, corte, fragmentação e prensagem efectuadas sobre esses bens, em todas as fases do circuito económico, determinando que a liquidação do imposto que se mostre devido nessas operações compete ao adquirente sujeito passivo do imposto, o qual terá direito a dedução desse imposto para efeito da aplicação dos artigos 19.º e 20.º do Código do IVA."
+  },
+  "3632235a5e6d8990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Alteração ao Código do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Código do Imposto do Selo\n\nOs artigos 1.º, 4.º, 15.º e 26.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) Participações sociais, valores mobiliários e direitos de crédito associados, ainda que transmitidos autonomamente, títulos e certificados da dívida pública, bem como valores monetários, ainda que objecto de depósito em contas bancárias;\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\n4 - ...\n\n5 - Não são sujeitas a imposto do selo as seguintes transmissões gratuitas:\n\na) O abono de família em dívida à morte do titular, os créditos provenientes de seguros de vida e as pensões e subsídios atribuídos, ainda que a título de subsídio por morte, por sistemas de segurança social;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n6 - ...\n\n7 - Os valores e dinheiro depositados em contas conjuntas, guardados em cofres de aluguer ou confiados a qualquer pessoa ou entidade, consideram-se pertencentes em partes iguais aos respectivos titulares, salvo prova em contrário, tanto da Fazenda Nacional como dos interessados.\n\n8 - Os saldos das contas de depósitos existentes à data da sucessão em nome de qualquer herdeiro ou legatário, e que pudessem ser movimentados pelo autor da herança, presumir-se-ão fazer parte desta, salvo prova em contrário.\n\nArtigo 4.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Os valores monetários depositados em instituições com sede, direcção efectiva ou estabelecimento estável em território nacional, ou, não se tratando de valores monetários depositados, o autor da transmissão tenha domicílio, sede, direcção efectiva ou estabelecimento estável neste território;\n\nf) [Anterior alínea e).]\n\n5 - ...\n\nArtigo 15.º\n\nValor tributável de participações sociais, títulos de créditos e valores monetários\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - O valor tributável dos valores monetários corresponde ao montante existente à data da transmissão, o qual, quando estiver expresso em moeda sem curso legal em Portugal, é determinado de acordo com o disposto no artigo 10.º, aplicando-se as taxas de câmbio à data da transmissão.\n\nArtigo 26.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) Documento comprovativo dos valores monetários existentes, emitido pelas instituições competentes, no caso de valores depositados, bem como, tratando-se de dinheiro depositado em instituições bancárias, extracto do depósito ou da respectiva conta-corrente à data da transmissão, com demonstração dos movimentos efectuados nos últimos 60 dias;\n\nm) [Anterior alínea l).]»"
+  },
+  "82b258df3eb6f38a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Aditamento ao Código do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aditamento ao Código do Imposto do Selo\n\nÉ aditado o artigo 63.º-A ao Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de Setembro, com a seguinte redacção:\n\n«Artigo 63.º-A\n\nLevantamento de depósitos de valores monetários\n\n1 - Nenhuma pessoa singular ou colectiva poderá autorizar o levantamento de quaisquer depósitos que lhe tenham sido confiados, que hajam constituído objecto de uma transmissão gratuita, sem que se mostre pago o imposto do selo relativo a esses bens, ou, verificando-se qualquer isenção, sem que se mostre cumprida a respectiva obrigação declarativa a que se refere o n.º 2 do artigo 26.º\n\n2 - A inobservância do disposto no número anterior importará a responsabilidade solidária da pessoa singular ou colectiva pelo pagamento do imposto, bem como a dos administradores, directores ou gerentes desta última que tomaram ou sancionaram a decisão.»"
+  },
+  "78a1273d2e7f0c24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Impostos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Impostos especiais"
+  },
+  "19614aa9eb83f966": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Imposto automóvel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Imposto automóvel\n\nFicam isentos de imposto automóvel durante os anos de 2005 e 2006 os veículos automóveis adquiridos em sistema de locação financeira ou de aluguer de longa duração, necessários à renovação da frota automóvel de veículos descaracterizados da PSP e GNR, que preencham os requisitos estabelecidos na alínea c) do artigo 7.º do Decreto-Lei n.º 40/93, de 18 de Fevereiro."
+  },
+  "4aa3d56c62bce500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Impostos locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Impostos locais"
+  },
+  "3d9f16fe954a8b07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Imposto municipal sobre veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Imposto municipal sobre veículos\n\nFica o Governo autorizado a alterar o Regulamento do Imposto Municipal sobre Veículos, aprovado pelo Decreto-Lei n.º 143/78, de 12 de Junho, no sentido de estabelecer a obrigatoriedade de afectação da receita relativa a este imposto ao município de domicílio do utilizador nos casos de locação financeira e de aluguer de longa duração."
+  },
+  "8d427f17b639cc9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Procedimento, processo tributário e outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Procedimento, processo tributário e outras disposições"
+  },
+  "17e9768cb4e856cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reforma do contencioso tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reforma do contencioso tributário\n\nFica o Governo autorizado a proceder à harmonização entre as normas dos códigos tributários e as normas da lei geral tributária e do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de Outubro, ou entre este e aquela lei, bem como destes diplomas com as alterações no âmbito do Código de Processo Civil e da reforma do contencioso administrativo, relativamente a matérias de caducidade e prescrição, de recursos e procedimento de revisão da matéria tributária, de juros de mora, compensatórios e indemnizatórios, de responsabilidade subsidiária, de penhoras, de vendas, de citações, de notificações, de prazos, de certidões, de competências e de acções sujeitas a regras específicas do contencioso tributário."
+  },
+  "d26140a91e551ca2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Alteração ao Regime Geral das Infracções Tributárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração ao Regime Geral das Infracções Tributárias\n\nO artigo 41.º do Regime Geral das Infracções Tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 41.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Relativamente aos crimes fiscais, no director de finanças que exercer funções na área onde o crime tiver sido cometido ou no director da Direcção de Serviços de Inspecção Tributária ou no director da Direcção de Serviços de Investigação da Fraude e de Acções Especiais nos processos por crimes que venham a ser indiciados por estas no exercício das suas atribuições;\n\nc) ...\n\n2 - ...\n\n3 - ...»"
+  },
+  "f602841e44f6edd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Garantias do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Garantias do Estado"
+  },
+  "7e95b611a6b89424": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Aditamento ao Decreto-Lei n.º 37/88, de 5 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aditamento ao Decreto-Lei n.º 37/88, de 5 de Fevereiro\n\nÉ aditado o artigo 4.º ao Decreto-Lei n.º 37/88, de 5 de Fevereiro, com a seguinte redacção:\n\n«Artigo 4.º\n\nPara garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.»"
+  },
+  "d796a056369592c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Aditamento ao Decreto-Lei n.º 77/89, de 3 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aditamento ao Decreto-Lei n.º 77/89, de 3 de Março\n\nÉ aditado o artigo 5.º ao Decreto-Lei n.º 77/89, de 3 de Março, com a seguinte redacção:\n\n«Artigo 5.º\n\nPara garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.»"
+  },
+  "b9018fd11327b5bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Disposições diversas"
+  },
+  "7e7aa67083789208": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Extinção de organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção de organismos\n\nÉ extinta a Comissão Nacional para a Regularização Extraordinária da Situação dos Imigrantes Clandestinos, criada pela Lei n.º 17/96, de 24 de Maio, cabendo ao Serviço de Estrangeiros e Fronteiras a decisão sobre os processos pendentes, com recurso para o ministro da tutela e, nos termos gerais, recurso contencioso da decisão deste, com efeito suspensivo."
+  },
+  "474b74fd3d671471": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Sistema de vigilância rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sistema de vigilância rodoviária\n\n1 - Com vista à melhoria das condições de prevenção e segurança rodoviárias, são alterados o artigo 2.º e o capítulo V da Lei n.º 1/2005, de 10 de Janeiro, que passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Prevenção e repressão de infracções estradais.\n\n2 - ...\n\n3 - ...\n\nCAPÍTULO V\n\nRegime especial\n\nArtigo 13.º\n\nUtilização de sistemas de vigilância rodoviária\n\n1 - Com vista à salvaguarda da segurança das pessoas e bens na circulação rodoviária e à melhoria das condições de prevenção e repressão das infracções estradais é autorizada a instalação e a utilização pelas forças de segurança de sistemas de vigilância electrónica, mediante câmaras digitais, de vídeo ou fotográficas, para captação de dados em tempo real e respectiva gravação e tratamento, bem como sistemas de localização, instalados ou a instalar pela entidade competente para a gestão das estradas nacionais e pelas concessionárias rodoviárias, nas respectivas vias concessionadas.\n\n2 - Os sistemas de registo, gravação e tratamento de dados referidos no número anterior são autorizados tendo em vista o reforço da eficácia da intervenção legal das forças de segurança e das autoridades judiciárias e a racionalização de meios, sendo apenas utilizáveis em conformidade com os princípios gerais de tratamento de dados pessoais previstos na Lei n.º 67/98, de 26 de Outubro, em especial os princípios da adequação e da proporcionalidade e de acordo com as regras previstas no artigo 8.º, nos n.os 1 e 2 do artigo 9.º e no artigo 11.º, por forma a assegurar:\n\na) A detecção, em tempo real ou através de registo, de infracções rodoviárias e a aplicação das correspondentes normas sancionatórias;\n\nb) A realização de acções de controlo de tráfego e o accionamento de mecanismos de prevenção e de socorro em matéria de acidentes de trânsito;\n\nc) A localização de viaturas para efeitos de cumprimento de normas legais, designadamente de carácter penal, tais como as referentes a veículos furtados ou à detecção de matrículas falsificadas em circulação;\n\nd) A utilização dos registos vídeo para efeitos de prova em processo penal ou contra-ordenacional, respectivamente nas fases de levantamento de auto, inquérito, instrução e julgamento ou nas fases administrativa e de recurso judicial.»\n\n2 - Fica o Governo autorizado a aprovar, no prazo de 60 dias, ouvida a Comissão Nacional de Protecção de Dados (CNPD), nos termos e dentro dos limites decorrentes do número anterior, legislação que:\n\na) Regulamente os procedimentos a adoptar na instalação de sistemas de vigilância rodoviária;\n\nb) Tipifique os procedimentos a adoptar para o tratamento da informação recolhida e o eficaz registo de acidentes, infracções ou quaisquer ilícitos;\n\nc) Estabeleça o regime de transição para a utilização dos sistemas existentes e as formas de coordenação das forças de segurança."
+  },
+  "d0a0416385f9650d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Receitas resultantes do sistema de vigilância rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Receitas resultantes do sistema de vigilância rodoviária\n\nFica o Governo autorizado a inscrever no orçamento da Guarda Nacional Republicana e da Polícia de Segurança Pública o valor equivalente ao acréscimo de receita resultante da aplicação das medidas previstas no artigo anterior."
+  },
+  "1313a8c2570c9628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Renovação de autorizações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Renovação de autorizações legislativas\n\nPela presente lei são renovadas as autorizações legislativas dadas pelo n.º 4 do artigo 11.º, pelo n.º 2 do artigo 14.º, pelo artigo 18.º, pelo artigo 20.º e pelo n.º 2 do artigo 49.º da Lei n.º 55-B/2004, de 30 de Dezembro.\n\nAprovada em 6 de Julho de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 21 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 25 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/07/145a01/00020195.pdf)"
+  },
+  "76344fb902a8605a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regularização tributária de elementos patrimoniais colocados no exterior",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29."
+   ],
+   "markdown": "###### Artigo 5.º — Regularização tributária de elementos patrimoniais colocados no exterior\n\n1 - É aprovado o regime excepcional de regularização tributária de elementos patrimoniais que não se encontrem no território português em 31 de Dezembro de 2004, abreviadamente designado pela sigla RERT, nos termos e condições de seguida transcritos:\n\n«Artigo 1.º\n\nObjecto\n\nO presente regime excepcional de regularização tributária aplica-se a elementos patrimoniais que não se encontrem no território português em 31 de Dezembro de 2004, que consistam em depósitos, certificados de depósito, valores mobiliários e outros instrumentos financeiros, incluindo apólices de seguro do ramo 'Vida' ligados a fundos de investimento e operações de capitalização do ramo 'Vida'.\n\nArtigo 2.º\n\nÂmbito subjectivo\n\n1 - Podem beneficiar do presente regime os sujeitos passivos pessoas singulares que possuam elementos patrimoniais referidos no artigo anterior.\n\n2 - Para efeitos do presente regime, os sujeitos passivos devem:\n\na) Apresentar a declaração de regularização tributária prevista no artigo 5.º;\n\nb) Proceder ao pagamento da importância correspondente à aplicação de uma taxa de 5% sobre o valor dos elementos patrimoniais constantes da declaração referida na alínea anterior.\n\n3 - A importância paga nos termos da alínea b) do número anterior não é dedutível nem compensável para efeitos de qualquer outro imposto ou tributo.\n\nArtigo 3.º\n\nValorização dos elementos patrimoniais\n\nA determinação do valor referido na alínea b) do n.º 2 do artigo 2.º faz-se de acordo com as seguintes regras aplicadas com referência à data de 31 de Dezembro de 2004:\n\na) No caso de depósitos em instituições financeiras, o montante do respectivo saldo;\n\nb) No caso de instrumentos financeiros cotados em mercado regulamentado, o valor da última cotação;\n\nc) No caso de unidades de participação em organismos de investimento colectivo não admitidas à cotação em mercado regulamentado, bem como de seguros do ramo 'Vida' ligados a um fundo de investimentos, o seu valor para efeitos de resgate;\n\nd) No caso de operações de capitalização do ramo 'Vida' e demais instrumentos de capitalização, o valor capitalizado;\n\ne) Nos demais casos, o valor que resultar da aplicação das regras de determinação do valor tributável previstas no Código do Imposto do Selo ou o respectivo custo de aquisição, consoante o que for maior.\n\nArtigo 4.º\n\nEfeitos\n\n1 - A declaração e o pagamento referidos no n.º 2 do artigo 2.º produzem, relativamente aos elementos patrimoniais constantes da declaração e respectivos rendimentos, os seguintes efeitos:\n\na) Extinção das obrigações tributárias exigíveis em relação àqueles elementos e rendimentos, respeitantes aos períodos de tributação que tenham terminado até 31 de Dezembro de 2004;\n\nb) Exclusão da responsabilidade por infracções tributárias que resultem de condutas ilícitas que tenham lugar por ocultação ou alteração de factos ou valores que devam constar de livros de contabilidade ou escrituração, de declarações apresentadas ou prestadas à administração fiscal ou que a esta devam ser revelados, desde que conexionadas com aqueles elementos ou rendimentos;\n\nc) Constituição de prova bastante para os efeitos previstos no n.º 3 do artigo 89.º-A da lei geral tributária.\n\n2 - Os efeitos previstos no número anterior não se verificam quando à data da apresentação da declaração já tenha tido início procedimento de inspecção ou qualquer outro procedimento para apuramento da situação tributária do contribuinte, bem como quando já tenha sido desencadeado procedimento penal ou contra-ordenacional de que, em qualquer dos casos, o interessado já tenha tido conhecimento nos termos da lei e que abranjam elementos patrimoniais susceptíveis de beneficiar do regime previsto na presente lei.\n\nArtigo 5.º\n\nDeclaração e pagamento\n\n1 - A declaração de regularização tributária a que se refere a alínea a) do n.º 2 do artigo 2.º obedece a modelo aprovado por portaria do Ministro das Finanças e deve ser acompanhada dos documentos comprovativos da titularidade e do depósito ou registo dos elementos patrimoniais dela constantes.\n\n2 - A declaração de regularização tributária deve ser entregue até ao dia 16 de Dezembro de 2005, junto do Banco de Portugal ou de outros bancos estabelecidos em Portugal.\n\n3 - O pagamento previsto na alínea b) do n.º 2 do artigo 2.º é efectuado junto das entidades referidas no número anterior, em simultâneo com a entrega da declaração a que se refere a alínea a) do mesmo número e artigo, ou nos 10 dias úteis posteriores contados da data da recepção daquela declaração.\n\n4 - A entidade bancária interveniente entrega ao declarante no acto do pagamento, um documento nominativo comprovativo da entrega da declaração e do respectivo pagamento.\n\n5 - Nos limites da presente lei, a declaração de regularização tributária não pode ser, por qualquer modo, utilizada como indício ou elemento relevante para efeitos de qualquer procedimento tributário, penal ou contra-ordenacional, devendo os bancos intervenientes assegurar o sigilo sobre a informação prestada.\n\n6 - No caso de a entrega da declaração e o pagamento não serem efectuados directamente junto do Banco de Portugal, o banco interveniente deverá remeter ao Banco de Portugal a referida declaração, bem como uma cópia do documento comprovativo, nos 10 dias úteis posteriores à data da entrega da declaração.\n\n7 - Nos casos previstos no número anterior, o banco interveniente deverá transferir para o Banco de Portugal as importâncias recebidas nos 10 dias úteis posteriores ao respectivo pagamento.\n\nArtigo 6.º\n\nInvestimento em títulos do Estado Português\n\n1 - Se todos ou alguns dos elementos patrimoniais objecto da declaração de regularização tributária forem títulos do Estado Português, a taxa referida na alínea b) do n.º 2 do artigo 2.º é reduzida a metade na parte referente a esses títulos.\n\n2 - A redução de taxa a que se refere o número anterior é igualmente aplicável a outros elementos patrimoniais se o respectivo valor for reinvestido em títulos do Estado Português até à data da apresentação da declaração de regularização tributária.\n\n3 - No caso de reinvestimento parcial, a redução de taxa respeita apenas à parte do valor reinvestido.\n\n4 - Os títulos do Estado Português que beneficiarem do regime previsto no presente artigo devem permanecer na titularidade do declarante durante, pelo menos, três anos a contar da data da apresentação de declaração de regularização tributária e independentemente da data da respectiva aquisição.\n\n5 - O incumprimento do período mínimo de detenção previsto no número anterior implica o pagamento da diferença face ao valor que resultaria da aplicação da taxa referida na alínea b) do n.º 2 do artigo 2.º, acrescida dos correspondentes juros compensatórios majorados em 5 pontos percentuais.\n\n6 - É competente para proceder à liquidação do imposto e juros compensatórios devidos nos termos do número anterior, notificação ao declarante e, sendo caso disso, posterior cobrança coerciva nos termos do Código de Procedimento e de Processo Tributário a Direcção-Geral dos Impostos, devendo para o efeito o Banco de Portugal comunicar-lhe, uma vez verificado o incumprimento do dever de comprovação do período mínimo de detenção, a identificação fiscal do declarante, a base tributável e a data em que ocorreu o termo do prazo para comprovação.\n\nArtigo 7.º\n\nFalta, omissões e inexactidões da declaração\n\nSem prejuízo das demais sanções que ao caso sejam aplicáveis, a falta de entrega da declaração de regularização tributária de elementos patrimoniais referidos no artigo 1.º bem como as omissões ou inexactidões da mesma implicam em relação aos elementos patrimoniais não declarados, omitidos ou inexactos, a majoração em 50% do imposto que seria devido pelos rendimentos correspondentes aos elementos patrimoniais não declarados, omitidos ou inexactos.»\n\n2 - São excluídos da aplicação do regime excepcional aprovado pelo número anterior os elementos patrimoniais situados em países ou territórios considerados não cooperantes pelo Grupo de Acção Financeira (GAFI).\n\n> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29."
+  }
+ }
+}

@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-14'
+version_history:
+  file: despacho-normativo-561-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-14'
+    amending: pt:dre:472168:por
+    amending_title: Despacho Normativo n.º 40/98
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/561/1994/07/29/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 40/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-561-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,21 +152,29 @@ O presente despacho tem por objecto o Sistema de Incentivos à Consolidação de
 
 a) Dinamização de acções de formação, desde que previstas num plano estratégico integrado de médio prazo;
 
-b) Reforço da cooperação interescolas ou outras instituições para valorização de complementaridades e concertação de intervenções em assuntos de interesse comum;
+b) (Revogada.)
 
-c) Consolidação de actividades de gestão profissionalizada e acções de divulgação;
+c) (Revogada.)
 
-d) Investimentos corpóreos complementares indispensáveis à concretização do plano estratégico.
+d) (Revogada.)
 
 2 - Para efeitos do disposto na alínea a) do número anterior, serão apoiadas no âmbito deste Sistema de Incentivos as seguintes acções de formação profissional:
 
-a) Formação profissional a nível interno, independemente da área, população alvo e duração;
+a) (Revogada.)
 
 b) Planos de formação dos cursos de especialização tecnológica, previamente aprovados;
 
 c) Acções de formação de curta, média e longa duração, em que as escolas tecnológicas sejam entidade formadora, desde que se insiram no sector tecnológico em que se desenvolve a sua actividade formativa e façam parte do plano de consolidação;
 
 3 - As acções de formação profissional atrás referidas serão financiadas pelo Fundo Social Europeu (FSE), nos termos previstos em despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social.
+
+> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 40/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1998-472168), publicado em 1998-06-09.
+
+> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 40/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1998-472168), publicado em 1998-06-09.
+
+> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 40/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1998-472168), publicado em 1998-06-09.
+
+> Revogado pelo/a Artigo 4.º do/a [Despacho Normativo n.º 40/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1998-472168), publicado em 1998-06-09.
 
 ###### Artigo 3.º — Organismo gestor
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-02'
+version_history:
+  file: decreto-lei-342-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-02'
+    amending: pt:dre:144217:por
+    amending_title: Decreto-Lei n.º 29-A/2011
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:21:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 29-A/2011. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-342-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Nestes termos, face ao manifesto interesse público que o citado conjunto encerr
 
 O Governo decreta, ao abrigo da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Ao abrigo do disposto no artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património em liquidação da extinta Companhia Portuguesa de Pesca, S. A. R. L. (em liquidação), o estabelecimento industrial Olho de Boi, sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, compreendendo:
+###### Artigo 1.º
+
+1 - Ao abrigo do disposto no artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Estado reserva, do património em liquidação da extinta Companhia Portuguesa de Pesca, S. A. R. L. (em liquidação), o estabelecimento industrial Olho de Boi, sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, compreendendo:
 
 a) Prédio rústico e urbano, denominado «Olho de Boi», sito no lugar do mesmo nome, freguesia de Santiago, concelho de Almada, distrito de Setúbal, registado na Conservatória do Registo Predial de Almada sob o n.º 48, a fl. 142 v.º do livro B-1.º, confrontando a norte com o rio Tejo, a sul com rocha, a nascente com terrenos da Companhia Portuguesa de Pesca, S. A. R. L., e a poente com Domingos Afonso;
 
@@ -138,13 +155,17 @@ e) Duas parcelas de terreno, com as áreas de 2282 m2 e 1370 m2, adquiridas em h
 
 2 - A reserva afecta ao Estado a universalidade de bens que integram a unidade produtiva do estabelecimento industrial, nomeadamente bens de equipamento e máquinas industriais e seus pertences.
 
-3 - Os bens imóveis e móveis reservados ficam, desde já, afectados ao Serviço Nacional de Parques, Reservas e Conservação da Natureza.
+3 - Os bens imóveis e móveis reservados são afectos à Administração da Região Hidrográfica do Tejo, I. P.
 
-4 - O direito de uso privativo das áreas de domínio público marítimo situadas no Olho de Boi, freguesia de Santiago, concelho de Almada, distrito de Setúbal, será atribuído ao Serviço Nacional de Parques, Reservas e Conservação da Natureza, para o que a Administração do Porto de Lisboa emitirá, nos termos do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, a competente licença.
+4 - O direito de uso privativo das áreas de domínio público marítimo situadas no Olho de Boi, concelho de Almada, distrito de Setúbal, é atribuído à Administração da Região Hidrográfica do Tejo, I. P.
 
 5 - O disposto no n.º 1 constitui título suficiente, para efeitos de registo na aludida Conservatória, da aquisição pelo Estado do direito de propriedade sobre os prédios que, nos termos aí estabelecidos, para ele transitam.
 
-Art. 2.º - 1 - O Estado obriga-se a entregar à massa em liquidação, caso haja lugar a tal, o montante correspondente à diferença entre o valor que vier a ser fixado para os bens ora reservados na avaliação realizada nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e o valor dos créditos a que tem direito na massa em liquidação.
+> Alterado pelo/a Artigo 87.º do/a [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), publicado em 2011-03-01.
+
+###### Artigo 2.º
+
+1 - O Estado obriga-se a entregar à massa em liquidação, caso haja lugar a tal, o montante correspondente à diferença entre o valor que vier a ser fixado para os bens ora reservados na avaliação realizada nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e o valor dos créditos a que tem direito na massa em liquidação.
 
 2 - Para os efeitos do número anterior, os louvados elaborarão lista nominativa dos bens reservados pelo n.º 2 do artigo 1.º
 

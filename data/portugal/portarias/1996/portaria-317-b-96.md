@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-30'
+version_history:
+  file: portaria-317-b-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-30'
+    amending: pt:dre:516564:por
+    amending_title: Portaria n.º 525-B/96; Portaria n.º 371/98
+    changes:
+    - Altera Artigo ANEXO I — Regulamento dos Regimes Especiais de Acesso ao Ensino Superior::13.º
+    - Altera Artigo ANEXO I — Regulamento dos Regimes Especiais de Acesso ao Ensino Superior::1.º
+    - Altera Artigo ANEXO I — Regulamento dos Regimes Especiais de Acesso ao Ensino Superior::15.º
+    - Altera Artigo ANEXO I — Regulamento dos Regimes Especiais de Acesso ao Ensino Superior::17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/317-b/1996/07/29/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:26:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 525-B/96; Portaria n.º
+    371/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-317-b-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +177,9 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 1 - O presente Regulamento disciplina os regimes especiais de acesso ao ensino superior referidos no artigo 45.º do [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), de 4 de Abril.
 
-2 - Os pares estabelecimento/curso abrangidos pelo presente Regulamento são aqueles a que se referem o n.º 1 e a alínea c) do n.º 2 do artigo 21.º do [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396).
+2 - Os pares estabelecimento/curso abrangidos pelo presente Regulamento são aqueles a que se referem o n.º 1 e as alíneas a) e c) do n.º 2 do artigo 21.º do Decreto-Lei n.º 28-B/96, de 4 de Abril.
+
+> Alterado pelo/a [Portaria n.º 371/98](https://diariodarepublica.pt/dr/detalhe/portaria/371-1998-477821), publicado em 1998-06-29.
 
 ###### Artigo 2.º — Regimes especiais
 
@@ -313,9 +333,11 @@ Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus
 
 ###### Artigo 13.º — Âmbito
 
-1 - São abrangidos por este regime os funcionários estrangeiros de missão diplomática acreditada em Portugal, e seus familiares aqui residentes, habilitados com um curso do ensino secundário estrangeiro, completado em país estrangeiro ou em estabelecimento de ensino estrangeiro em Portugal, que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial.
+1 - São abrangidos por este regime os funcionários estrangeiros de missão diplomática acreditada em Portugal, e seus familiares aqui residentes, habilitados com um curso do ensino secundário estrangeiro, completado em país estrangeiro ou em estabelecimento de ensino estrangeiro em Portugal, que constitua, nesse país, habilitação académica suficiente para ingresso no ensino superior oficial, ou com um curso do ensino secundário português.
 
 2 - A aplicação do número anterior tem ainda como condição a demonstração de tratamento recíproco aos cidadãos portugueses.
+
+> Alterado pelo/a [Portaria n.º 525-B/96](https://diariodarepublica.pt/dr/detalhe/portaria/525-b-1996-516564), publicado em 1996-09-30.
 
 ###### Artigo 14.º — Cursos para que podem requerer matrícula e inscrição
 
@@ -325,7 +347,9 @@ Os estudantes abrangidos por este regime podem requerer a matrícula e inscriç�
 
 ###### Artigo 15.º — Âmbito
 
-São abrangidos por este regime os atletas praticantes com estatuto de alta competição a que se refere o artigo 3.º do [Decreto-Lei n.º 125/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1995-527406), de 31 de Maio, que sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente.
+São abrangidos por este regime especial os atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 125/95, de 31 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 123/96, de 10 de Agosto, conjugado com os n.os 1.º e 2.º da Portaria n.º 947/95, de 1 de Agosto, que sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente.
+
+> Alterado pelo/a [Portaria n.º 371/98](https://diariodarepublica.pt/dr/detalhe/portaria/371-1998-477821), publicado em 1998-06-29.
 
 ###### Artigo 16.º — Cursos para que podem requerer matrícula e inscrição
 
@@ -337,7 +361,9 @@ Naturais e filhos de naturais de territórios sob administração portuguesa, ma
 
 ###### Artigo 17.º — Âmbito
 
-São abrangidos por este regime os estudantes naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas de Estados estrangeiros, que sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente.
+São abrangidos por este regime os estudantes naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por Forças Armadas de Estados estrangeiros, que sejam titulares de um curso do ensino secundário ou habilitação legalmente equivalente.
+
+> Alterado pelo/a [Portaria n.º 371/98](https://diariodarepublica.pt/dr/detalhe/portaria/371-1998-477821), publicado em 1998-06-29.
 
 ###### Artigo 18.º — Cursos para que podem requerer matrícula e inscrição
 

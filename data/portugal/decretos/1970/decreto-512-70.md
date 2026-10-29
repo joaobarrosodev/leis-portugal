@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-12-15'
+version_history:
+  file: decreto-512-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-10-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-12-15'
+    amending: pt:dre:685446:por
+    amending_title: Decreto-Lei n.º 520/72
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:14:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 520/72. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1970/decreto-512-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,37 +118,37 @@ Nestas condições, e sem prejuízo de modificação mais profunda a decretar no
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º Os dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:
+###### Artigo 1.º
+
+Os dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf)
 
-Art. 2.º - 1. São introduzidas na organização dos três últimos anos dos cursos referidos no artigo anterior as alterações constantes dos números seguintes.
+###### Artigo 2.º
 
-2. Do 3.º ano do curso superior de Finanças passa a fazer parte a disciplina de Introdução à Economia da Empresa.
+(Revogado.)
 
-3. O conselho escolar, quando se mostrar aconselhável o estudo especializado de certas matérias abrangidas por disciplinas do 3.º, 4.º ou 5.º anos, poderá desdobrar qualquer dessas disciplinas.
+> Revogado pelo/a [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446), publicado em 1972-12-15.
 
-4. Os alunos poderão frequentar mais de um dos desdobramentos que o conselho escolar venha a decidir nos termos do número anterior.
+###### Artigo 3.º
 
-5. O conselho escolar poderá especificar, quando o entender conveniente, o desdobramento de disciplina que será de frequência obrigatória.
-
-6. Poderá o conselho escolar decidir que sejam de frequência facultativa a disciplina de Direito Comercial e Marítimo, para os alunos do curso superior de Economia, e um semestre das disciplinas de Direito Constitucional e Administrativo e de Finanças II, para os alunos do curso superior de Finanças.
-
-7. Em cada um do 3.º, 4.º e 5.º anos, os alunos terão de cursar cinco disciplinas anuais, considerando-se, para este efeito, duas disciplinas semestrais como uma anual.
-
-8. Cada disciplina terá normalmente cinco horas de aula por semana, sendo duas teóricas de uma hora e duas práticas de uma hora e meia. Nas de Direito Constitucional e Administrativo, Direito Internacional Público, História Diplomática e Direito Corporativo haverá, em cada semana, três aulas teóricas de uma hora, as quais poderão ser dedicadas, em parte, a trabalhos de aplicação.
-
-Art. 3.º - 1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.
+1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.
 
 2. O conselho escolar determinará as precedências impostas pela sequência lógica das matérias nos casos em que venha a decidir o desdobramento de disciplinas.
 
-Art. 4.º As aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno.
+###### Artigo 4.º
 
-Art. 5.º - 1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.
+As aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno.
+
+###### Artigo 5.º
+
+1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.
 
 2. A aprovação no ano lectivo de 1969-1970, nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I, do 1.º ano, ou Análise Matemática, Economia II, Direito Civil (Parte Geral e Obrigações) e Propedêutica Comercial II, do 2.º ano, considera-se, para todos os efeitos, aproveitamento do ano completo.
 
-Art. 6.º - 1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.
+###### Artigo 6.º
+
+1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.
 
 2. Funcionará ainda a disciplina de Análise Matemática.
 
@@ -147,7 +162,9 @@ Art. 6.º - 1. No ano escolar de 1970-1971 observar-se-ão as disposições tran
 
 7. Os alunos inscritos no 5.º ano com disciplinas atrasadas poderão cursar apenas o equivalente a quatro disciplinas anuais e uma semestral de entre as previstas para o 5.º ano no presente diploma.
 
-Art. 7.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
+###### Artigo 7.º
+
+As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.
 
 Marcello Caetano - José Veiga Simão.
 

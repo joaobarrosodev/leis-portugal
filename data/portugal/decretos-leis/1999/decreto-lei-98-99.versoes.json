@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138128:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ec334001bf2ca299",
+    "4654d7ad9ffe217d",
+    "8a6532b2935b324c",
+    "98831d435173b583",
+    "ed68515ebdbe60b5",
+    "5bd84fd8e1f1d92d",
+    "1a26a98796a39b29",
+    "3b4c7e78f97f7712"
+   ]
+  },
+  {
+   "date": "2000-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408374:por",
+     "title": "Decreto-Lei n.º 24/2000",
+     "published": "2000-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/24-2000-408374"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "ec334001bf2ca299",
+    "4654d7ad9ffe217d",
+    "8a6532b2935b324c",
+    "4e73616ea7d11152",
+    "ed68515ebdbe60b5",
+    "5bd84fd8e1f1d92d",
+    "1a26a98796a39b29",
+    "3b4c7e78f97f7712"
+   ]
+  }
+ ],
+ "fragments": {
+  "ec334001bf2ca299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março\n\nA opção de localizar a Exposição Mundial de 1998 - EXPO 98 numa zona degradada teve em consideração o evidente benefício resultante da intervenção programada em termos da sua recuperação e reconversão urbanística, conforme se salientou no preâmbulo do [Decreto-Lei n.º 354/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1993-669800), de 9 de Outubro.\n\nPor essa razão, foram atribuídas à Parque EXPO 98, S. A., funções relativas à elaboração de um plano de urbanização para a globalidade da zona envolvida e do respectivo desenvolvimento, através de planos de pormenor.\n\nNa sequência do trabalho desenvolvido pela Parque EXPO 98, S. A., foi aprovado o Plano de Urbanização da Zona de Intervenção da EXPO 98, através da [Portaria n.º 640/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-1994-298836), de 15 de Julho, e planos de pormenor, aprovados pelas Portarias n.os [1210/95](https://diariodarepublica.pt/dr/detalhe/portaria/1210-1995-664336), de 6 de Outubro, e [1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro.\n\nTerminada a Exposição Mundial de 1998, e tendo-se procedido a uma reavaliação destes instrumentos urbanísticos, torna-se necessário efectuar, no conjunto da zona de intervenção, algumas adaptações do Plano de Pormenor para a Zona do Recinto da EXPO 98, PP2, tendo em vista assegurar um uso adequado de uma área cuja utilização revelou estar vocacionada para a fruição pelo público.\n\nAssim, de acordo com o [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, torna-se imperioso aprovar medidas preventivas que salvaguardem a execução das alterações que virão a ser introduzidas, por forma a não inviabilizar a hipótese de utilização da área em causa como espaço de lazer pelo público, designadamente devido a uma afectação exagerada de área de construção a fins habitacionais.\n\nFoi ouvida a Câmara Municipal de Lisboa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "4654d7ad9ffe217d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Medidas preventivas\n\nFica sujeita a medidas preventivas a área definida na planta anexa, a qual faz parte integrante do presente diploma."
+  },
+  "8a6532b2935b324c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Proibições\n\nNa área abrangida pelas medidas preventivas fica proibida a prática dos seguintes actos ou actividades:\n\na) Construção, reconstrução ou ampliação de edifícios ou outras instalações, salvo obras de manutenção em instalações existentes;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração actual do terreno."
+  },
+  "98831d435173b583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cessação de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cessação de vigência\n\nAs medidas preventivas cessam a sua vigência com a ocorrência de uma das seguintes circunstâncias:\n\na) Com a entrada em vigor das normas provisórias ou da alteração ou revisão do Plano de Pormenor para a Zona do Recinto da EXPO 98, PP2, aprovado pela [Portaria n.º 1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro; ou\n\nb) No dia 31 de Dezembro de 1999, no caso de até esta data não terem entrado em vigor os instrumentos referidos na alínea anterior."
+  },
+  "ed68515ebdbe60b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Suspensão de instrumentos urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Suspensão de instrumentos urbanísticos\n\nDurante o período de vigência das medidas preventivas ficam suspensos os seguintes instrumentos urbanísticos na área delimitada na planta anexa:\n\na) Plano Director Municipal de Lisboa, ratificado pela [Resolução do Conselho de Ministros n.º 94/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/94-1994-609283), de 14 de Julho;\n\nb) Plano de Urbanização da Zona de Intervenção da EXPO 98, aprovado pela [Portaria n.º 640/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-1994-298836), de 15 de Julho;\n\nc) Plano de Pormenor 2 - Zona do Recinto da EXPO 98, aprovado pela [Portaria n.º 1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro."
+  },
+  "5bd84fd8e1f1d92d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenação\n\n1 - A violação do disposto no artigo 2.º constitui contra-ordenação punível com a coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo o limite máximo elevado para 6000000$00, no caso de se tratar de pessoa colectiva.\n\n2 - As contra-ordenações podem determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) Perda dos objectos pertencentes ao agente que tenham sido utilizados como instrumentos na prática da infracção;\n\nb) Interdição do exercício de profissões ou actividades conexas com a infracção praticada, por um período máximo de dois anos, quando o exercício dependa de título público ou de autorização ou homologação de autoridade pública.\n\n3 - A negligência e a tentativa são puníveis.\n\n4 - Sem prejuízo da competência atribuída a outras entidades, a Câmara Municipal de Lisboa e a Parque EXPO 98, S. A., são competentes para a instrução das contra-ordenações e aplicação das respectivas coimas.\n\n5 - O produto das coimas reverte em 60% para o Estado e 40% para a entidade que instruir o processo."
+  },
+  "1a26a98796a39b29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\nA Câmara Municipal de Lisboa e a Parque EXPO 98, S. A., são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma, bem como para proceder de acordo com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro."
+  },
+  "3b4c7e78f97f7712": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - António Luís Santos da Costa.\n\nPromulgado em 10 de Março de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Março de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/03/071a00/16791681.pdf)"
+  },
+  "4e73616ea7d11152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cessação de vigência",
+   "in_force_from": "2000-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2000-408374), publicado em 2000-03-02."
+   ],
+   "markdown": "###### Artigo 3.º — Cessação de vigência\n\nAs medidas preventivas cessam a sua vigência com a ocorrência de uma das seguintes circunstâncias:\n\na) Com a entrada em vigor das normas provisórias ou da alteração ou revisão do Plano de Pormenor para a Zona do Recinto da EXPO 98, PP2, aprovado pela [Portaria n.º 1357/95](https://diariodarepublica.pt/dr/detalhe/portaria/1357-1995-689023), de 16 de Novembro; ou\n\nb) No dia 30 de Abril de 2000, no caso de até esta data não terem entrado em vigor os instrumentos referidos na alínea anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 24/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2000-408374), publicado em 2000-03-02."
+  }
+ }
+}

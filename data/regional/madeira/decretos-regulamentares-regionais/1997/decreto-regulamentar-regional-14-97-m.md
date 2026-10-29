@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-20'
+version_history:
+  file: decreto-regulamentar-regional-14-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-20'
+    amending: pt:dre:315737:por
+    amending_title: Declaração de Rectificação n.º 19-A/97
+    changes:
+    - Retifica Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/14/1997/07/23/m/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 19-A/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-14-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +244,9 @@ No ano de 1997 a aquisição, a permuta e a locação financeira, bem como o alu
 
 ###### Artigo 14.º — Dispensa de parecer
 
-A aquisição de bens, incluindo a aquisição de material de informática e de viaturas com motor para o transporte de pessoas, efectuada através de procedimentos que têm por objecto principal a realização de empreitadas de obras públicas está dispensada do parecer a que se refere o n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, com a redacção dada pelo n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 13/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1995-510178), de 11 de Maio.
+A aquisição de bens, incluindo a aquisição de material de informática e de viaturas com motor para o transporte de pessoas, efectuada através de procedimentos que têm por objecto principal a realização de empreitadas de obras públicas está dispensada do parecer a que se refere o n.º 1 do artigo 5.º do Decreto Regulamentar Regional n.º 5/82/M, de 18 de Maio, com a redacção dada pelo artigo 10.º do Decreto Regulamentar Regional n.º 13/95/M, de 11 de Maio.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 19-A/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-a-1997-315737), publicado em 1997-11-20.
 
 ###### Artigo 15.º — Vigência
 

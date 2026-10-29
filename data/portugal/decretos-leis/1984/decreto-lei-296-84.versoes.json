@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:373625:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a8ada83dfe50ed66"
+   ]
+  },
+  {
+   "date": "2003-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491932:por",
+     "title": "Decreto-Lei n.º 226/2003",
+     "published": "2003-09-26",
+     "dre_path": "/dr/detalhe/decreto-lei/226-2003-491932"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "57600831baed4be5",
+    "8b603c751a7e1e21",
+    "b2a55e924c1e7fed",
+    "976ca54e1482996d",
+    "901e63906c2d46d5",
+    "077ff2ca56fd3004",
+    "f7e5f7137cdf2024",
+    "69f18d19bf13fb4b",
+    "2afeabb4664c4b32",
+    "fcc8284f6c2def1e",
+    "d63d7d47d952bacb",
+    "5fab2338b4543c76",
+    "8deff6158800c345",
+    "c8339e2d7cdc2989"
+   ]
+  }
+ ],
+ "fragments": {
+  "a8ada83dfe50ed66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Agosto\n\nConsiderando ser conveniente proceder-se à reformulação de algumas normas definidoras da carreira militar dos oficiais do quadro especial de oficiais e, em especial, as referentes ao sistema de promoções;\n\nConsiderando, no entanto, ser de manter a aplicabilidade da generalidade do Estatuto do Oficial do Exército àqueles oficiais e a atribuição prioritária dos mesmos à respectiva arma de origem;\n\nConsiderando a vantagem de, simultaneamente, se aglutinar num só diploma a legislação vária definidora da carreira militar dos oficiais do quadro especial de oficiais:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - O quadro especial de oficiais (QEO), criado pelo [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, com as alterações introduzidas pelos Decretos-Leis n.os [614/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1970-146500), de 11 de Dezembro, [353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, [686/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/686-1973-195789), de 21 de Outubro, [302/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1978-328651), de 11 de Outubro, e [557-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-a-1980-390804), de 2 de Dezembro, mantém-se em progressiva extinção pela continuação do cancelamento de admissões no referido quadro.\n\n2 - À data da entrada em vigor do presente diploma mantêm-se a ordenação dos oficiais do QEO e as respectivas datas de antiguidades e tempos de permanência nos postos.\n\nArt. 2.º A constituição do QEO é a seguinte:\n\nCoronéis - 8;\n\nTenentes-coronéis - 24;\n\nMajores - 48;\n\nCapitães - 87.\n\nArt. 3.º Os oficiais do QEO são considerados oficiais dos quadros permanentes (QP), sendo-lhes aplicado o Estatuto do Oficial do Exército (EOE), sem prejuízo das disposições constantes do presente diploma.\n\nArt. 4.º - 1 - Os oficiais do QEO mantêm-se atribuídos à sua arma de origem (infantaria, artilharia ou cavalaria), excepto quando, por razões de reclassificação, transitem para outra arma ou serviço com quadro próprio.\n\n2 - Embora com carácter excepcional, mantém-se a possibilidade de reclassificação dos oficiais do QEO, devendo esta ser estudada caso a caso.\n\nArt. 5.º Em concorrência de serviço e igualdade de antiguidade no posto, a antiguidade dos oficiais do QEO relativamente a outros oficiais obedece, pela ordem indicada, às seguintes prioridades:\n\nOficiais dos QP;\n\nOficiais do QEO;\n\nOficiais de complemento.\n\nArt. 6.º Aos oficiais do QEO competem todas as funções desempenhadas pelos oficiais dos QP da arma ou serviço a que estão atribuídos, tendo em especial atenção as respectivas qualificações, especialidades e aptidões.\n\nArt. 7.º - 1 - Os limites de idade para a passagem a adido com vista à condição 16 da alínea b) do artigo 44.º do EOE e para passagem à situação de reserva dos oficiais do QEO são os mesmos dos oficiais dos QP da arma ou serviço a que estão atribuídos.\n\n2 - São aplicáveis aos oficiais do QEO as disposições do [Decreto-Lei n.º 239/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1977-253235), de 8 de Junho.\n\nArt. 8.º - 1 - Sem prejuízo do disposto neste diploma, as condições de promoção dos oficiais do QEO são idênticas às que vigoram para os oficiais dos QP da arma ou serviço a que aqueles estão atribuídos.\n\n2 - As promoções no QEO são feitas:\n\na) Por escolha e antiguidade, aos postos de major e tenente-coronel;\n\nb) Por escolha, ao posto de coronel;\n\nc) Por distinção, a qualquer posto do quadro.\n\n3 - As promoções por antiguidade ao posto de major dos oficiais do QEO só poderão ocorrer após terem sido promovidos a este posto os oficiais dos QP das armas de infantaria, artilharia e cavalaria com maior ou igual antiguidade no posto de capitão e que não tenham sido demorados nem preteridos.\n\n4 - As promoções por antiguidade ao posto de tenente-coronel dos oficiais do QEO só poderão ocorrer após terem sido promovidos os majores dos QP das armas de infantaria, artilharia e cavalaria com maior ou igual antiguidade no posto de major e, simultaneamente, maior ou igual antiguidade no posto de capitão e que não tenham sido demorados nem preteridos na promoção a qualquer destes postos.\n\n5 - Aos oficiais do QEO que tenham sido promovidos a major por escolha ou distinção apenas é aplicável a restrição do número anterior no referente à sua antiguidade de major em relação às antiguidades dos restantes majores das armas nele referidas.\n\nArt. 9.º - 1 - Os oficiais do QEO são inicialmente apreciados pela direcção da arma ou serviço a que estão atribuídos.\n\n2 - Após a apreciação constante do número anterior, os oficiais do QEO são apreciados por um conselho constituído exclusivamente por oficiais dos conselhos das armas de infantaria, artilharia e cavalaria, para elaboração das listas nos termos do artigo 70.º do EOE.\n\n3 - O conselho referido no número anterior é nomeado por despacho do Chefe do Estado-Maior do Exército, sendo presidido pelo director da arma de infantaria e integrando, além deste, no mínimo, mais os seguintes oficiais:\n\n1 coronel;\n\n1 tenente-coronel;\n\n1 major;\n\n3 capitães.\n\n4 - Se qualquer dos conselhos das armas ou serviços integrar oficiais do QEO, estes farão obrigatoriamente parte do conselho definido no n.º 3 deste artigo.\n\nArt. 10.º Em conformidade com o definido, independentemente do referido na alínea b) do n.º 2 do artigo 8.º do presente decreto-lei, as vagas existentes no posto de coronel do QEO não são obrigatoriamente preenchidas.\n\nArt. 11.º O tempo de serviço prestado nas Forças Armadas ou, de um modo geral, ao Estado anteriormente ao ingresso no QEO é contado para efeitos de passagem à situação de reserva e para efeitos de aposentação dos respectivos oficiais, sendo devida indemnização à Caixa Geral de Aposentações quando for caso disso.\n\nArt. 12.º Os oficiais do QEO mantêm o emblema próprio em vigor à data da publicação do presente diploma.\n\nArt. 13.º São revogados os Decretos-Leis n.os 49324, de 27 de Outubro de 1969, [614/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1970-146500), de 11 de Dezembro, [353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, [686/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/686-1973-195789), de 21 de Dezembro, [302/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1978-328651), de 11 de Outubro, o artigo 1.º do [Decreto-Lei n.º 557-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-a-1980-390804), de 2 de Dezembro, e toda a restante legislação que contrarie o disposto no presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.\n\nPromulgado em 22 de Agosto de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 23 de Agosto de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "57600831baed4be5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Agosto\n\nConsiderando ser conveniente proceder-se à reformulação de algumas normas definidoras da carreira militar dos oficiais do quadro especial de oficiais e, em especial, as referentes ao sistema de promoções;\n\nConsiderando, no entanto, ser de manter a aplicabilidade da generalidade do Estatuto do Oficial do Exército àqueles oficiais e a atribuição prioritária dos mesmos à respectiva arma de origem;\n\nConsiderando a vantagem de, simultaneamente, se aglutinar num só diploma a legislação vária definidora da carreira militar dos oficiais do quadro especial de oficiais:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "8b603c751a7e1e21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O quadro especial de oficiais (QEO), criado pelo [Decreto-Lei n.º 49324](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49324-1969-215517), de 27 de Outubro de 1969, com as alterações introduzidas pelos Decretos-Leis n.os [614/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1970-146500), de 11 de Dezembro, [353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, [686/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/686-1973-195789), de 21 de Outubro, [302/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1978-328651), de 11 de Outubro, e [557-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-a-1980-390804), de 2 de Dezembro, mantém-se em progressiva extinção pela continuação do cancelamento de admissões no referido quadro.\n\n2 - À data da entrada em vigor do presente diploma mantêm-se a ordenação dos oficiais do QEO e as respectivas datas de antiguidades e tempos de permanência nos postos."
+  },
+  "b2a55e924c1e7fed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA constituição do QEO é a seguinte:\n\nCoronéis - 8;\n\nTenentes-coronéis - 24;\n\nMajores - 48;\n\nCapitães - 87."
+  },
+  "976ca54e1482996d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs oficiais do QEO são considerados oficiais dos quadros permanentes (QP), sendo-lhes aplicado o Estatuto do Oficial do Exército (EOE), sem prejuízo das disposições constantes do presente diploma."
+  },
+  "901e63906c2d46d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os oficiais do QEO mantêm-se atribuídos à sua arma de origem (infantaria, artilharia ou cavalaria), excepto quando, por razões de reclassificação, transitem para outra arma ou serviço com quadro próprio.\n\n2 - Embora com carácter excepcional, mantém-se a possibilidade de reclassificação dos oficiais do QEO, devendo esta ser estudada caso a caso."
+  },
+  "077ff2ca56fd3004": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm concorrência de serviço e igualdade de antiguidade no posto, a antiguidade dos oficiais do QEO relativamente a outros oficiais obedece, pela ordem indicada, às seguintes prioridades:\n\nOficiais dos QP;\n\nOficiais do QEO;\n\nOficiais de complemento."
+  },
+  "f7e5f7137cdf2024": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAos oficiais do QEO competem todas as funções desempenhadas pelos oficiais dos QP da arma ou serviço a que estão atribuídos, tendo em especial atenção as respectivas qualificações, especialidades e aptidões."
+  },
+  "69f18d19bf13fb4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os limites de idade para a passagem a adido com vista à condição 16 da alínea b) do artigo 44.º do EOE e para passagem à situação de reserva dos oficiais do QEO são os mesmos dos oficiais dos QP da arma ou serviço a que estão atribuídos.\n\n2 - São aplicáveis aos oficiais do QEO as disposições do [Decreto-Lei n.º 239/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1977-253235), de 8 de Junho."
+  },
+  "2afeabb4664c4b32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Sem prejuízo do disposto neste diploma, as condições de promoção dos oficiais do QEO são idênticas às que vigoram para os oficiais dos QP da arma ou serviço a que aqueles estão atribuídos.\n\n2 - As promoções no QEO são feitas:\n\na) Por escolha e antiguidade, aos postos de major e tenente-coronel;\n\nb) Por escolha, ao posto de coronel;\n\nc) Por distinção, a qualquer posto do quadro.\n\n3 - As promoções por antiguidade ao posto de major dos oficiais do QEO só poderão ocorrer após terem sido promovidos a este posto os oficiais dos QP das armas de infantaria, artilharia e cavalaria com maior ou igual antiguidade no posto de capitão e que não tenham sido demorados nem preteridos.\n\n4 - As promoções por antiguidade ao posto de tenente-coronel dos oficiais do QEO só poderão ocorrer após terem sido promovidos os majores dos QP das armas de infantaria, artilharia e cavalaria com maior ou igual antiguidade no posto de major e, simultaneamente, maior ou igual antiguidade no posto de capitão e que não tenham sido demorados nem preteridos na promoção a qualquer destes postos.\n\n5 - Aos oficiais do QEO que tenham sido promovidos a major por escolha ou distinção apenas é aplicável a restrição do número anterior no referente à sua antiguidade de major em relação às antiguidades dos restantes majores das armas nele referidas."
+  },
+  "fcc8284f6c2def1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2003-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 226/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2003-491932), publicado em 2003-09-26."
+  },
+  "d63d7d47d952bacb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEm conformidade com o definido, independentemente do referido na alínea b) do n.º 2 do artigo 8.º do presente decreto-lei, as vagas existentes no posto de coronel do QEO não são obrigatoriamente preenchidas."
+  },
+  "5fab2338b4543c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO tempo de serviço prestado nas Forças Armadas ou, de um modo geral, ao Estado anteriormente ao ingresso no QEO é contado para efeitos de passagem à situação de reserva e para efeitos de aposentação dos respectivos oficiais, sendo devida indemnização à Caixa Geral de Aposentações quando for caso disso."
+  },
+  "8deff6158800c345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs oficiais do QEO mantêm o emblema próprio em vigor à data da publicação do presente diploma."
+  },
+  "c8339e2d7cdc2989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão revogados os Decretos-Leis n.os 49324, de 27 de Outubro de 1969, [614/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/614-1970-146500), de 11 de Dezembro, [353/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1973-421424), de 13 de Julho, [686/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/686-1973-195789), de 21 de Dezembro, [302/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1978-328651), de 11 de Outubro, o artigo 1.º do [Decreto-Lei n.º 557-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-a-1980-390804), de 2 de Dezembro, e toda a restante legislação que contrarie o disposto no presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.\n\nPromulgado em 22 de Agosto de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 23 de Agosto de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

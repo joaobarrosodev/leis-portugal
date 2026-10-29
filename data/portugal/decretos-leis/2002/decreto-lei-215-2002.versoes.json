@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:432175:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "78f49393e2946eac",
+    "9b910d3e4a186d2f",
+    "44782a65f45465b4",
+    "375b54a62ed9bccb",
+    "3a52d2a871459ebe",
+    "2ee819ee4bf40fa4",
+    "62c1eb37fe2f2e6a",
+    "35ef929a99da4362",
+    "6523fc2e6889ca2c",
+    "ad7d04acf17a46f0",
+    "dedebe3fe7bd112c",
+    "ebf3f0dc51154e48",
+    "0cdddd9ce3d65496"
+   ]
+  },
+  {
+   "date": "2004-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302160:por",
+     "title": "Decreto-Lei n.º 98/2004",
+     "published": "2004-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/98-2004-302160"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "78f49393e2946eac",
+    "9b910d3e4a186d2f",
+    "44782a65f45465b4",
+    "375b54a62ed9bccb",
+    "b0d57c5c10924100",
+    "2ee819ee4bf40fa4",
+    "62c1eb37fe2f2e6a",
+    "35ef929a99da4362",
+    "6523fc2e6889ca2c",
+    "ad7d04acf17a46f0",
+    "dedebe3fe7bd112c",
+    "ebf3f0dc51154e48",
+    "0cdddd9ce3d65496"
+   ]
+  }
+ ],
+ "fragments": {
+  "78f49393e2946eac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro\n\nAs linhas estratégicas fundamentais do Programa do XV Governo Constitucional, em matéria de organização da Administração Pública, baseiam-se na eficiência da prossecução de objectivos claros, orientados para os interesses e necessidades dos cidadãos e na racionalidade e optimização das estruturas.\n\nNa verdade, importa simplificar a organização administrativa, por forma a, por um lado, retirar duplicidade e complexidade na sua forma de funcionamento e, por outro, ganhar aproximação ao cidadão e capacidade de resposta às suas necessidades, clarificando, simultaneamente, a responsabilidade pública em face da sociedade civil.\n\nNo âmbito destes objectivos, a [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, no n.º 2 do seu artigo 2.º, previu a extinção do Instituto para a Inovação na Administração do Estado (IIAE), cujas atribuições podem e devem ser asseguradas de uma forma eficiente e integrada por organismos vocacionados para as mesmas áreas, potenciando a sua actuação e permitindo um pleno aproveitamento dos recursos existentes.\n\nÉ esse o objectivo do presente diploma. Com a extinção que ora se concretiza, cometem-se à Direcção-Geral da Administração Pública, ao Instituto de Informática e ao Instituto para a Gestão das Lojas do Cidadão as competências que antes haviam sido concentradas no IIAE, garantindo por esta forma maior racionalidade na articulação entre os fins prosseguidos, que se mantêm, e que melhor se inserem nas grandes missões dos organismos referidos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9b910d3e4a186d2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Extinção\n\nA extinção do Instituto para a Inovação na Administração do Estado (IIAE), criado pelo [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, cujos Estatutos foram aprovados pelo [Decreto-Lei n.º 300/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2001-567032), de 22 de Novembro, prevista no artigo 2.º da [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, concretiza-se nos termos do presente diploma."
+  },
+  "44782a65f45465b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Transição de atribuições para a Direcção-Geral da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transição de atribuições para a Direcção-Geral da Administração Pública\n\n1 - Transitam para a Direcção-Geral da Administração Pública (DGAP) as atribuições conferidas ao IIAE nos domínios do emprego público e gestão de recursos humanos, dos modelos organizacionais da Administração Pública e da sociedade de informação numa perspectiva de qualidade dos serviços públicos, e assumidas nos termos do disposto nos n.os 1, 2 e 3 do artigo 3.º do [Decreto-Lei n.º 300/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2001-567032), de 22 de Novembro.\n\n2 - A transferência para a DGAP da base de dados de recursos humanos da Administração Pública (BDAP), criada pelo [Decreto-Lei n.º 47/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1998-219145), de 7 de Março, far-se-á sem prejuízo do apoio técnico a prestar pelo Instituto de Informática do Ministério das Finanças, na sua manutenção técnica e desenvolvimento operacional.\n\n3 - Mantêm-se em vigor os artigos 1.º a 12.º do [Decreto-Lei n.º 47/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1998-219145), de 7 de Março.\n\n4 - O responsável pela BDAP é o director-geral da Administração Pública."
+  },
+  "375b54a62ed9bccb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transição de atribuições para o Instituto de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição de atribuições para o Instituto de Informática\n\nTransitam para o Instituto de Informática (II), do Ministério das Finanças, as atribuições relativas à promoção e normalização dos sistemas e tecnologias de informação constantes do n.º 4 do artigo 3.º do [Decreto-Lei n.º 300/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2001-567032), de 22 de Novembro."
+  },
+  "3a52d2a871459ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão\n\nTransitam para o Instituto para a Gestão das Lojas do Cidadão (IGLC) as atribuições e competências associadas ao Sistema Integrado de Informação Administrativa ao Cidadão e Serviço Público Directo."
+  },
+  "2ee819ee4bf40fa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pessoal\n\nO pessoal afecto ao exercício das funções agora atribuídas a outros serviços e organismos transita para estes, na medida das necessidades e nos termos da legislação em vigor."
+  },
+  "62c1eb37fe2f2e6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Situações transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Situações transitórias\n\n1 - O conselho de administração e o pessoal dirigente em funções no IIAE cessam as respectivas comissões de serviço na data da entrada em vigor do presente diploma, mantendo-se em exercício até à apresentação da conta de gerência e à transição dos bens e equipamentos necessários à continuidade das funções transferidas, as quais serão concluídas no prazo contínuo de 30 dias.\n\n2 - Os funcionários requisitados ou destacados em serviço no IIAE que não sejam estritamente necessários à conclusão da extinção regressam aos lugares de origem na data de entrada em vigor do presente diploma."
+  },
+  "35ef929a99da4362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Transferência de direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferência de direitos e obrigações\n\n1 - Os direitos e obrigações decorrentes das atribuições do extinto IIAE, bem como os equipamentos de suporte ao desenvolvimento das respectivas actividades, ou que lhes estejam associados, transferem-se para os serviços que respectivamente as assumem, nos termos do presente diploma.\n\n2 - O presente diploma é título jurídico suficiente para assegurar a transição prevista no número anterior."
+  },
+  "6523fc2e6889ca2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Bens patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Bens patrimoniais\n\nOs bens patrimoniais pertencentes ao IIAE, ou que lhe estejam afectos, constantes de inventário subscrito pela direcção, que não sejam necessários ao prosseguimento das atribuições cometidas aos serviços e organismos que lhe sucedem, transitam para a Direcção-Geral do Património."
+  },
+  "ad7d04acf17a46f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Saldos das dotações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Saldos das dotações\n\nSem prejuízo da transferência das verbas necessárias ao cumprimento das obrigações que transitam para a DGAP, IGLC e II do Ministério das Finanças, nos termos do presente diploma, os saldos apurados do IIAE revertem para a dotação provisional do Ministério das Finanças, nos termos do n.º 5 do artigo 2.º da [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio."
+  },
+  "dedebe3fe7bd112c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Extinção do quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Extinção do quadro de pessoal\n\nÉ extinto o quadro de pessoal do ex-Instituto de Gestão da Base de Dados dos Recursos Humanos da Administração Pública."
+  },
+  "ebf3f0dc51154e48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 300/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2001-567032), de 22 de Novembro."
+  },
+  "0cdddd9ce3d65496": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.\n\nPromulgado em 7 de Outubro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Outubro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "b0d57c5c10924100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão",
+   "in_force_from": "2004-05-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2004-302160), publicado em 2004-05-03."
+   ],
+   "markdown": "###### Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2004-302160), publicado em 2004-05-03."
+  }
+ }
+}

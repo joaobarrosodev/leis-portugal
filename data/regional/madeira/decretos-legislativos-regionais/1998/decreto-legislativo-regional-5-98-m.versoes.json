@@ -1,0 +1,178 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176347:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "941f6db7108f4637",
+    "97bc26974ae33492",
+    "de62e1595e63c8a1",
+    "7f1735bd11c24198",
+    "abbf6afe2ecb003c",
+    "765542e65d953098",
+    "60ec1c8e9aac3d6d",
+    "42d246645343d868",
+    "ea98236eecf4bcd8",
+    "00e7ddb66c7b5556",
+    "42ce9726c3ef540e"
+   ]
+  },
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72991305:por",
+     "title": "Decreto Legislativo Regional n.º 17/2015/M",
+     "published": "2015-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2015-72991305"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "941f6db7108f4637",
+    "97bc26974ae33492",
+    "883a063359bbd5a8",
+    "7f1735bd11c24198",
+    "abbf6afe2ecb003c",
+    "765542e65d953098",
+    "60ec1c8e9aac3d6d",
+    "d83539ce753e2456",
+    "8b99a194b7c3c522",
+    "00e7ddb66c7b5556",
+    "42ce9726c3ef540e"
+   ]
+  }
+ ],
+ "fragments": {
+  "941f6db7108f4637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Define o regime jurídico dos coordenadores regionais, coordenadores concelhios, professores de apoio e animadores da área de expressão musical e dramática\n\nCom o objectivo de implementar, coordenar e leccionar a área de expressão musical e dramática na educação pré-escolar e no 1.º ciclo do ensino básico, foram criados os cargos de coordenadores regionais, coordenadores concelhios, professores e animadores.\n\nRevelando a importância e o sucesso que esta área vem assumindo na Região Autónoma da Madeira, como importante contributo para a formação integral das nossas crianças, importa proceder a uma reavaliação dos suplementos de natureza remuneratória existentes, de modo a compensar as responsabilidades acrescidas e as particularidades específicas que o desempenho destes cargos acarreta.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição e nas alíneas c) do n.º 1 do artigo 29.º e o) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:"
+  },
+  "97bc26974ae33492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma define o regime jurídico dos coordenadores regionais, coordenadores concelhios, professores de apoio e animadores da área de expressão musical e dramática."
+  },
+  "de62e1595e63c8a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Cada conjunto de 20 professores do 1.º ciclo do ensino básico é orientado por um professor de apoio à área disciplinar de expressão musical e dramática.\n\n2 - Os professores de apoio à expressão musical e dramática têm a sua acção dinamizada e orientada por coordenadores concelhios, os quais são coordenados por dois coordenadores regionais, um para a área de expressão musical e outro para a área de expressão dramática.\n\n3 - A área de expressão musical e dramática na educação pré-escolar é assegurada por nove animadores, orientados por um coordenador.\n\n4 - Os cargos de professor de apoio à expressão musical e dramática, coordenador concelhio e coordenador regional devem ser desempenhados por professores habilitados para a leccionação da disciplina de Educação Musical, podendo também ser desempenhados por professores do 1.º ciclo ou educadores de infância devidamente habilitados."
+  },
+  "7f1735bd11c24198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete aos coordenadores regionais:\n\na) Orientar e acompanhar a actividade curricular e extracurricular;\n\nb) Programar, propor e orientar acções de formação para os professores no âmbito da área disciplinar de expressão musical e dramática;\n\nc) Propor o apetrechamento em equipamento e material musical das escolas, por forma a ser garantido todo o processo de aprendizagem;\n\nd) Coordenar e dinamizar o grupo de trabalho constituído pelos coordenadores concelhios, professores e animadores."
+  },
+  "abbf6afe2ecb003c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete aos coordenadores concelhios:\n\na) Orientar e acompanhar a área disciplinar de expressão musical e dramática;\n\nb) Elaborar toda a documentação julgada conveniente para o apoio à área disciplinar de expressão musical e dramática;\n\nc) Dinamizar o trabalho de grupo, coordenando e orientando sempre que estejam em causa actividades desta área a nível do concelho."
+  },
+  "765542e65d953098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCompete aos professores de apoio à expressão musical e dramática no 1.º ciclo do ensino básico:\n\na) Colaborar com os docentes das escolas do 1.º ciclo no desenvolvimento das actividades curriculares de expressão musical e dramática;\n\nb) Garantir o funcionamento dos núcleos extracurriculares existentes nas escolas, nomeadamente grupos corais e instrumentais, núcleos de aprendizagem dos instrumentos de corda tradicionais madeirenses e grupos de expressão dramática;\n\nc) Participar na elaboração do projecto educativo;\n\nd) Dinamizar o trabalho de grupo, orientando sempre que estejam em causa actividades desta área a nível de escola;\n\ne) Reunir com os professores do 1.º ciclo sempre que necessário, com vista à planificação de trabalhos de programação interdisciplinar;\n\nf) Colaborar nas experiências pedagógicas que se realizam nas escolas;\n\ng) Veicular junto das escolas toda a orientação superiormente definida;\n\nh) Participar em todas as actividades planeadas pelo Gabinete de Apoio à Expressão Musical e Dramática, nomeadamente encontros regionais de grupos corais e instrumentais e MUSICAEP (Música no Ensino Primário)."
+  },
+  "60ec1c8e9aac3d6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete aos animadores da educação pré-escolar:\n\na) Implementar uma prática efectiva da área de expressão musical e dramática na educação pré-escolar;\n\nb) Dinamizar essa prática através de acções junto das crianças;\n\nc) Apoiar os educadores de infância no que concerne a esta área, sempre que para isso sejam solicitados;\n\nd) Elaborar o material necessário ao trabalho que desenvolvem, nomeadamente diversos tipos de fantoches, sombras chinesas e adereços;\n\ne) Participar em iniciativas e actividades propostas pelo Gabinete de Apoio à Expressão Musical e Dramática."
+  },
+  "42d246645343d868": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - No exercício das suas funções, os animadores e os professores de apoio à expressão musical e dramática têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios auferem no exercício da suas funções uma gratificação mensal correspondente a 20% do vencimento a que tiverem direito, a abonar durante os 12 meses do ano.\n\n3 - Os coordenadores regionais auferem no exercício das suas funções uma gratificação mensal correspondente a 25% do vencimento a que tiverem direito, a abonar durante os 12 meses do ano."
+  },
+  "ea98236eecf4bcd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os coordenadores regionais e concelhios e os professores e animadores da área de expressão musical e dramática são nomeados pelo Secretário Regional de Educação, precedido de um processo de recrutamento e selecção assente na avaliação curricular e entrevista profissional com requisitos previamente publicados.\n\n2 - O exercício de funções dos coordenadores regionais e concelhios, professores e animadores é fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idêntico período, cessando em qualquer momento por decisão superior ou a pedido do interessado no período compreendido entre 1 e 15 de Maio de cada ano."
+  },
+  "00e7ddb66c7b5556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ revogado o [Decreto Regulamentar Regional n.º 3/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1992-158576), de 18 de Fevereiro."
+  },
+  "42ce9726c3ef540e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma produz efeitos desde 1 de Setembro de 1997.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Março de 1998.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 2 de Abril de 1998.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "883a063359bbd5a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A estrutura, composição e número de coordenadores regionais, coordenadores concelhios, professores de apoio e animadores da área de expressão musical e dramática é regulada por despacho do Secretário Regional da Educação.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - Os cargos de professor de apoio à expressão musical e dramática, coordenador concelhio e coordenador regional devem ser desempenhados por professores habilitados para a leccionação da disciplina de Educação Musical, podendo também ser desempenhados por professores do 1.º ciclo ou educadores de infância devidamente habilitados.\n\n> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "d83539ce753e2456": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - No exercício das suas funções, os animadores e os professores de apoio à expressão musical e dramática têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.\n\n2 - Os coordenadores concelhios auferem no exercício das suas funções uma gratificação mensal correspondente a 20 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.\n\n3 - Os coordenadores regionais auferem no exercício das suas funções uma gratificação mensal correspondente a 25 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.\n\n> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "8b99a194b7c3c522": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os coordenadores regionais e concelhios e os professores e animadores da área de expressão musical e dramática são designados por despacho do Secretário Regional da Educação.\n\n2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.\n\n> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  }
+ }
+}

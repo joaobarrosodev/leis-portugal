@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-06-02'
+version_history:
+  file: decreto-lei-6-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-06-02'
+    amending: pt:dre:153105:por
+    amending_title: Decreto-Lei n.º 153/2002
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/6/2000/01/29/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:22:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 153/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-6-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-Os funcionários das carreiras de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, tem direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.
+Os funcionários das carreiras de vigilante-recepcionista, de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, têm direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 153/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2002-153105), publicado em 2002-05-28.
 
 ###### Artigo 2.º
 

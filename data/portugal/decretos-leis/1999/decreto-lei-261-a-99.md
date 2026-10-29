@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-261-a-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:669513:por
+    amending_title: Decreto-Lei n.º 90/2011
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/261-a/1999/07/07/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:09:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-261-a-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -220,15 +235,9 @@ e) O caderno de encargos que definirá as condições específicas a que obedece
 
 ###### Artigo 4.º — Criação de acções de categoria especial
 
-1 - Antes de ser deliberado o aumento do capital através do qual se concretizará a 1.ª fase de privatização da GALP poderão ser criadas, por conversão de acções ordinárias, acções privilegiadas.
+(Revogado.)
 
-2 - As acções privilegiadas referidas no número anterior não poderão exceder 10% do actual capital social da GALP, devendo ser detidas maioritariamente por entes públicos, na acepção da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
-
-3 - As aludidas acções poderão conferir, designadamente, os seguintes direitos especiais:
-
-a) O direito de, de acordo com o n.º 2 do artigo 391.º do Código das Sociedades Comerciais, aprovar a eleição de um número de administradores não superior a um terço do total;
-
-b) O direito de aprovar quaisquer deliberações de alteração do contrato de sociedade, quaisquer deliberações que visem autorizar a celebração de contratos de grupo paritário ou de subordinação e, ainda, quaisquer deliberações que, de algum modo, possam pôr em causa o abastecimento do País de petróleo, gás ou produtos derivados dos mesmos.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
 ###### Artigo 5.º — Isenções de taxas e emolumentos
 

@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522620:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b2a9dcd87c959d3c",
+    "9946b17435820de4",
+    "d70850a95ca85668",
+    "548f32b72c97a71e",
+    "1448878f9ac40216"
+   ]
+  },
+  {
+   "date": "2007-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:636974:por",
+     "title": "Decreto-Lei n.º 286/2007",
+     "published": "2007-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/286-2007-636974"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "b2a9dcd87c959d3c",
+    "9946b17435820de4",
+    "3dd1e25d3cf7ecf2",
+    "2a2e9ec8bc53dd1d",
+    "1448878f9ac40216"
+   ]
+  }
+ ],
+ "fragments": {
+  "b2a9dcd87c959d3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Janeiro\n\nO estado do tempo no território do continente nas últimas semanas foi influenciado por uma depressão centrada no Atlântico adjacente ao território, com linhas de instabilidade associadas, em resultado da qual, em diversos locais do continente, as quantidades de precipitação registadas ultrapassaram, em muito, os valores médios para esta altura do ano.\n\nEm resultado desses índices anormais de precipitação, concentrados fundamentalmente nos dias 25 de Outubro e 5 de Novembro, ocorreram em vários distritos do País inundações e cheias que provocaram os mais diversos prejuízos.\n\nEntre as várias medidas adoptadas para minimizar os impactes destes acontecimentos, importa, complementarmente, criar um regime excepcional e transitório de contratação de empreitadas de obras públicas, fornecimento de bens e aquisição de serviços, quando se tenha em vista fazer face, com carácter de urgência, a situações extraordinárias decorrentes das referidas cheias e inundações.\n\nO presente decreto-lei visa exactamente dar cumprimento à determinação do Governo no quadro da adopção das medidas consideradas adequadas a minorar os efeitos da situação que assolou o nosso país.\n\nFoi ouvida a Associação Nacional dos Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9946b17435820de4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei cria um regime excepcional de contratação de empreitadas de obras públicas, fornecimento de bens e aquisição de serviços que tenham em vista acorrer, com carácter de urgência, a situações extraordinárias decorrentes dos altos índices de pluviosidade verificados em Outubro e Novembro de 2006.\n\n2 - O presente decreto-lei aplica-se exclusivamente aos contratos que tenham por objecto prevenir ou acorrer a situações extraordinárias verificadas no território continental."
+  },
+  "d70850a95ca85668": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excepcional\n\n1 - Ficam autorizadas a proceder, até 30 de Junho de 2007, ao ajuste directo dos contratos referidos no artigo anterior cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratos públicos as seguintes entidades:\n\na) Instituto da Água;\n\nb) Serviço Nacional de Bombeiros e Protecção Civil;\n\nc) Comissão de Coordenação e Desenvolvimento Regional do Norte;\n\nd) Comissão de Coordenação e Desenvolvimento Regional do Centro;\n\ne) Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo;\n\nf) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;\n\ng) Comissão de Coordenação e Desenvolvimento Regional do Algarve; e\n\nh) Instituto de Desenvolvimento Rural e Hidráulica.\n\n2 - O regime referido no número anterior aplica-se igualmente aos municípios que constem de lista a publicar por despacho do Ministro de Estado e da Administração Interna.\n\n3 - As adjudicações de contratos feitas ao abrigo do presente regime excepcional devem ser comunicadas aos ministérios que tutelam as entidades que a ele recorram, bem como ao Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, nos termos do artigo 276.º do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, por forma a garantir o cumprimento dos princípios da publicidade e transparência dos contratos."
+  },
+  "548f32b72c97a71e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estudos e projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estudos e projectos\n\nA elaboração dos estudos e projectos necessários à execução dos trabalhos objecto da contratação prevista no artigo 1.º pode ser adjudicada por ajuste directo pelas entidades referidas no artigo anterior desde que o seu valor, não considerando o IVA, seja inferior aos limiares a que se refere o n.º 1 do mesmo artigo."
+  },
+  "1448878f9ac40216": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.\n\nPromulgado em 4 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 8 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "3dd1e25d3cf7ecf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime excepcional",
+   "in_force_from": "2007-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17."
+   ],
+   "markdown": "###### Artigo 2.º — Regime excepcional\n\n1 - Ficam autorizadas a proceder, até 31 de Dezembro de 2007, ao ajuste directo dos contratos referidos no artigo anterior, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratos públicos, as seguintes entidades:\n\na) Instituto da Água, I. P.;\n\nb) Autoridade Nacional de Protecção Civil;\n\nc) Comissão de Coordenação e Desenvolvimento Regional do Norte;\n\nd) Comissão de Coordenação e Desenvolvimento Regional do Centro;\n\ne) Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo;\n\nf) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;\n\ng) Comissão de Coordenação e Desenvolvimento Regional do Algarve; e\n\nh) Direcção-Geral de Agricultura e Desenvolvimento Rural.\n\n2 - O regime referido no número anterior aplica-se igualmente aos municípios que constem de lista a publicar por despacho do Ministro de Estado e da Administração Interna.\n\n3 - As adjudicações de contratos feitas ao abrigo do presente regime excepcional devem ser comunicadas aos ministérios que tutelam as entidades que a ele recorram, bem como ao Instituto da Construção e do Imobiliário, nos termos do artigo 276.º do Decreto-Lei n.º 59/99, de 2 de Março, por forma a garantir o cumprimento dos princípios da publicidade e transparência dos contratos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17."
+  },
+  "2a2e9ec8bc53dd1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estudos e projectos",
+   "in_force_from": "2007-08-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17."
+   ],
+   "markdown": "###### Artigo 3.º — Estudos e projectos\n\nA elaboração dos estudos e projectos necessários à execução dos trabalhos objecto da contratação prevista no artigo 1.º pode ser adjudicada por ajuste directo pelas entidades referidas no artigo anterior desde que o seu valor, não considerando o IVA, seja inferior aos limiares a que se refere o n.º 1 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-03-31'
+version_history:
+  file: decreto-lei-118-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-03-31'
+    amending: pt:dre:197755:por
+    amending_title: Decreto-Lei n.º 73/98
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/118/1996/08/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:43:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 73/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-118-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ O exercício de funções de membro da comissão de acompanhamento da obra (CAO)
 
 1 - O suplemento remuneratório a que se refere o artigo anterior corresponde, no caso do presidente da CAO, a 20% do vencimento de director-geral e, no dos restantes membros, a 14% do mesmo vencimento.
 
-2 - O funcionamento entre reuniões e a articulação de grupos de trabalho são assegurados pelo representante do IPAMB (Instituto de Protecção do Ambiente), que exerce as funções de secretário-geral da comissão, correspondendo neste caso o suplemento remuneratório a 17% do vencimento de director-geral.
+2 - O funcionamento entre reuniões e a articulação de grupos de trabalho são assegurados pelo secretário-geral da comissão, nomeado por despacho do Ministro do Ambiente, sob proposta do presidente da CAO, correspondendo neste caso o suplemento remuneratório a 17% do vencimento de director-geral.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 73/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1998-197755), publicado em 1998-03-26.
 
 ###### Artigo 3.º
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-05'
+version_history:
+  file: portaria-44-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-05'
+    amending: pt:dre:500184:por
+    amending_title: Portaria n.º 297/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/44/2011/01/26/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:51:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 297/2013. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2011/portaria-44-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,15 +146,19 @@ A presente portaria fixa as taxas a aplicar nos processos de regularização de 
 
 1 - As taxas a aplicar no processo de regularização de veículos tributáveis usados no território nacional são as seguintes:
 
-a) Na avaliação efectuada exclusivamente a partir da análise de documentos referentes a publicações especializadas do sector - (euro) 150;
+a) Na avaliação efetuada exclusivamente a partir da análise de documentos referentes a publicações especializadas do sector - (euro) 200;
 
-b) Na avaliação efectuada com base em análise de documentos referentes a publicações especializadas do sector com recurso à verificação física do veículo - (euro) 200.
+b) Na avaliação efetuada com base em análise de documentos referentes a publicações especializadas do sector com recurso à verificação física do veículo - (euro) 300.
 
 2 - O pagamento da taxa devida é efectuado no momento da apresentação do pedido a que se refere o n.º 3 do artigo 11.º do Código do ISV.
 
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 297/2013](https://diariodarepublica.pt/dr/detalhe/portaria/297-2013-500184), publicado em 2013-10-04.
+
 ###### Artigo 3.º — Receita
 
-O produto das taxas cobradas ao abrigo da presente portaria constitui receita própria da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+O produto das taxas cobradas ao abrigo da presente portaria constitui receita própria da Autoridade Tributária e Aduaneira.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 297/2013](https://diariodarepublica.pt/dr/detalhe/portaria/297-2013-500184), publicado em 2013-10-04.
 
 ###### Artigo 4.º — Entrada em vigor
 

@@ -1,0 +1,298 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:639904:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b1eda75bb02d6cf5",
+    "088d613dd75bea1a",
+    "0c20626df2f9c778",
+    "6c0e40f9d897227e",
+    "c1376839851dd12c",
+    "e9d267e1812d6e34",
+    "459f2d874dcbe5c5",
+    "a5885d225cc69f4c",
+    "e25a0dd8e8e934dd",
+    "d65df77463b29c1f",
+    "203d6eddad2c56be",
+    "ff45fda3b4577a83",
+    "a3cd2c52de19d9c3",
+    "fcd2b9b7d6f90748",
+    "12265eefb9e3119b",
+    "d0750b8d2a8c2df5",
+    "d95094d455493f7d",
+    "cda0d09fec4ca312",
+    "3781dc1e70846f16",
+    "26a5b7b20d558b11",
+    "8f060305fe6dd891",
+    "7b0071c55abb196b",
+    "2dcae7ebe05ce176"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "b1eda75bb02d6cf5",
+    "088d613dd75bea1a",
+    "0c20626df2f9c778",
+    "6c0e40f9d897227e",
+    "c1376839851dd12c",
+    "a09f0f626bc2a82b",
+    "459f2d874dcbe5c5",
+    "a5885d225cc69f4c",
+    "e25a0dd8e8e934dd",
+    "3e11f60e6d86b58d",
+    "ef8e9a0e2b3a5b60",
+    "ff45fda3b4577a83",
+    "a3cd2c52de19d9c3",
+    "fcd2b9b7d6f90748",
+    "12265eefb9e3119b",
+    "d0750b8d2a8c2df5",
+    "d95094d455493f7d",
+    "cda0d09fec4ca312",
+    "3781dc1e70846f16",
+    "26a5b7b20d558b11",
+    "8f060305fe6dd891",
+    "7b0071c55abb196b",
+    "2dcae7ebe05ce176"
+   ]
+  }
+ ],
+ "fragments": {
+  "b1eda75bb02d6cf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro\n\nA criação da Reserva Natural Parcial da Serra da Malcata pelo [Decreto-Lei n.º 294/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1981-561855), de 16 de Outubro, correspondeu ao reconhecimento da existência no seu território de valores botânicos e faunísticos de incontestável interesse, que tornam esta Reserva Natural num ecossistema privilegiado e especialmente importante a defender. Encontra-se aqui uma vegetação rica e variada e uma fauna diversificada, que inclui o javali, o gato-bravo, a cegonha-preta, o abutre-negro, bem como o lince-ibérico, espécie em perigo de extinção.\n\nA conservação da Natureza, a protecção dos espaços naturais e das paisagens, a preservação das espécies da fauna e da flora, a manutenção dos equilíbrios ecológicos e a protecção dos recursos naturais justificam medidas de protecção adequadas a uma zona que constitui património nacional.\n\nCom a publicação do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, que cria o novo quadro de classificação das áreas protegidas nacionais, impõe-se a reclassificação da Reserva Natural da Serra da Malcata, segundo os critérios aí estabelecidos.\n\nForam ouvidas as Câmaras Municipais de Penamacor e do Sabugal.\n\nAssim:\n\nAo abrigo do disposto nos artigos 13.º e 32.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "088d613dd75bea1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Reclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Reclassificação\n\nA Reserva Natural Parcial da Serra da Malcata é reclassificada como Reserva Natural da Serra da Malcata, adiante denominada por Reserva Natural."
+  },
+  "0c20626df2f9c778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - Os limites da Reserva Natural são os fixados no texto e na carta simplificada que constituem os anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - As dúvidas eventualmente suscitadas são resolvidas pela consulta da carta à escala de 1:25000, arquivada para o efeito na sede da Reserva Natural."
+  },
+  "6c0e40f9d897227e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos específicos\n\nSem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos da Reserva Natural:\n\na) Proteger o património natural, através de um correcto ordenamento, conforme as potencialidades e características de cada zona, tendo em vista a manutenção dos habitats essenciais à conservação das espécies florísticas e faunísticas;\n\nb) Promover o estudo científico, a educação ambiental e o apoio às actividades humanas tradicionais."
+  },
+  "c1376839851dd12c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão\n\nA Reserva Natural é gerida pelo Instituto da Conservação da Natureza, adiante designado por ICN."
+  },
+  "e9d267e1812d6e34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "459f2d874dcbe5c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição e funcionamento da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e funcionamento da comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo da Reserva Natural.\n\n2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente, sob proposta do presidente do ICN, de quem depende hierarquicamente, observadas as disposições legais aplicáveis ao recrutamento para cargos dirigentes.\n\n3 - Um dos vogais é nomeado pelo ICN, designadamente em regime de destacamento ou requisição, e o outro pelas Câmaras Municipais de Penamacor e do Sabugal, as quais dispõem para o efeito de um prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - Na falta de nomeação do vogal pelas Câmaras Municipais no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área da administração local.\n\n5 - O mandato dos titulares da comissão directiva é de três anos.\n\n6 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de um dos vogais.\n\n7 - O presidente tem voto de qualidade.\n\n8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, na redacção do [Decreto-Lei n.º 169/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475), de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "a5885d225cc69f4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências da comissão directiva\n\n1 - Compete à comissão directiva, em geral, a administração dos interesses específicos da Reserva Natural, executando as medidas contidas nos instrumentos de gestão e assegurando o cumprimento das normas legais e regulamentares em vigor.\n\n2 - Compete, em especial, à comissão directiva:\n\na) Preparar e executar planos e programas anuais e plurianuais de gestão e investimento, submetendo-os previamente à apreciação do conselho consultivo;\n\nb) Elaborar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência, submetendo-os previamente à apreciação do conselho consultivo;\n\nc) Decidir da elaboração periódica de relatórios científicos e culturais sobre o estado da Reserva Natural;\n\nd) Autorizar actos ou actividades condicionados na Reserva Natural, tendo em atenção o plano de ordenamento;\n\ne) Tomar as medidas administrativas de reposição previstas no [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro;\n\nf) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras acções realizadas em violação ao disposto no presente diploma e legislação complementar.\n\n3 - Das deliberações da comissão directiva cabe recurso tutelar para o Ministro do Ambiente."
+  },
+  "e25a0dd8e8e934dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competência do presidente da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência do presidente da comissão directiva\n\nCompete ao presidente da comissão directiva:\n\na) Representar a Reserva Natural;\n\nb) Dirigir os serviços e o pessoal com os quais a Reserva Natural seja dotada;\n\nc) Submeter anualmente ao ICN um relatório sobre o estado da Reserva Natural;\n\nd) Fiscalizar a conformidade do exercício de actividades na Reserva Natural com as normas do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, do presente diploma e do plano de ordenamento;\n\ne) Cobrar as receitas e autorizar as despesas para que seja competente."
+  },
+  "d65df77463b29c1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Composição e funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição e funcionamento do conselho consultivo\n\n1 - O conselho consultivo é constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Direcção-Geral das Florestas;\n\nb) Direcção-Geral do Ordenamento do Território;\n\nc) Comissão de Coordenação da Região do Centro;\n\nd) Direcção Regional de Agricultura da Beira Interior;\n\ne) Câmara Municipal de Penamacor;\n\nf) Câmara Municipal do Sabugal;\n\ng) Junta de Freguesia da Malcata;\n\nh) Junta de Freguesia de Meimão;\n\ni) Junta de Freguesia de Meimoa;\n\nj) Junta de Freguesia de Penamacor;\n\nl) Junta de Freguesia de Quadrazais;\n\nm) Junta de Freguesia de Vale de Espinho;\n\nn) Organizações não governamentais de ambiente (ONGA), de âmbito regional ou de âmbito nacional com intervenção na área da Reserva Natural, consideradas em conjunto e em sistema rotativo com mandato de um ano;\n\no) Associações representativas dos diferentes sectores económicos, consideradas em conjunto e em sistema rotativo com mandato de um ano.\n\n2 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros."
+  },
+  "203d6eddad2c56be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas na Reserva Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado da Reserva Natural;\n\ne) Dar parecer sobre qualquer assunto com interesse para a Reserva Natural."
+  },
+  "ff45fda3b4577a83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Interdições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Interdições\n\nNa área da Reserva Natural são interditos os seguintes actos e actividades:\n\na) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pela Reserva Natural e das acções de âmbito científico devidamente autorizadas pela mesma;\n\nb) A introdução de espécies zoológicas e botânicas exóticas ou estranhas ao ambiente;\n\nc) Lançamento de águas residuais industriais ou de uso doméstico, susceptíveis de causarem poluição;\n\nd) A prática de actividades desportivas motorizadas susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, nomeadamente o motocross e os raids de veículos todo o terreno;\n\ne) O sobrevoo de aeronaves com motor abaixo dos 1000 pés, salvo por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pela Reserva Natural."
+  },
+  "a3cd2c52de19d9c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Actos e actividades sujeitos a autorização\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia da Reserva Natural os seguintes actos e actividades:\n\na) A alteração à morfologia do solo, nomeadamente por escavações ou aterros, o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural;\n\nb) A alteração à morfologia do solo pela modificação do coberto vegetal através da realização de cortes rasos de povoamentos florestais ou pelo corte de vegetação arbórea ou arbustiva ripícola destinado a acções de limpeza e destruição das compartimentações existentes de sebes vivas, exceptuando-se as acções decorrentes do combate a incêndios;\n\nc) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção, que, pela sua natureza, não decorrem da normal actividade agrícola."
+  },
+  "fcd2b9b7d6f90748": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Actos e actividades sujeitos a parecer vinculativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Actos e actividades sujeitos a parecer vinculativo\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a parecer vinculativo da Reserva Natural os seguintes actos e actividades:\n\na) A realização de obras de construção civil, designadamente novos edifícios e reconstrução, ampliação, alteração ou demolição de edificações, exceptuando as obras de simples conservação, restauro ou limpeza fora dos perímetros dos aglomerados urbanos;\n\nb) A abertura de novas estradas, caminhos ou acessos, bem como o alargamento ou qualquer modificação das vias existentes e obras de manutenção e conservação que impliquem a destruição significativa do coberto vegetal;\n\nc) A instalação de infra-estruturas de electricidade e telefónicas, aéreas ou subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos."
+  },
+  "12265eefb9e3119b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 11.º ou sem as autorizações e os pareceres vinculativos necessários previstos nos artigos 12.º e 13.º, respectivamente.\n\n2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitas de acordo com os artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "d0750b8d2a8c2df5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Caça\n\nA prática de actividades venatórias na Reserva Natural encontra-se regulamentada pela [Portaria n.º 874/93](https://diariodarepublica.pt/dr/detalhe/portaria/874-1993-660317), de 14 de Setembro."
+  },
+  "d95094d455493f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nAs funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável na Reserva Natural, competem ao ICN, às autarquias locais e demais entidades competentes, nos termos da legislação em vigor."
+  },
+  "cda0d09fec4ca312": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Plano de ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Plano de ordenamento\n\nA Reserva Natural é dotada de um plano de ordenamento, nos termos do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, a elaborar no prazo máximo de três anos a contar da data de publicação do presente diploma."
+  },
+  "3781dc1e70846f16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Autorização e pareceres vinculativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Autorização e pareceres vinculativos\n\n1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva da Reserva Natural não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n2 - Os pareceres emitidos pela comissão directiva da Reserva Natural são vinculativos, sem prejuízo de outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n3 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações e pareceres pela comissão directiva da Reserva Natural é de 45 dias.\n\n4 - As autorizações e pareceres emitidos pela comissão directiva da Reserva Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.\n\n5 - São nulos os actos administrativos que decidam pedidos de licenciamento em violação do disposto no presente diploma."
+  },
+  "26a5b7b20d558b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito de preferência\n\n1 - O ICN goza do direito de preferência nas alienações, a título oneroso, de quaisquer bens imóveis que se situem em zonas de interesse patrimonial definidas pelo plano de ordenamento.\n\n2 - O direito de preferência referido no número anterior tem o conteúdo e o alcance previstos no artigo 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e regula-se pelas normas do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro.\n\n3 - Os transmitentes devem efectuar a comunicação a que se refere o n.º 3 do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), podendo o titular do direito exercê-lo a todo o tempo, nos termos previstos no mesmo diploma."
+  },
+  "8f060305fe6dd891": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 8 de Novembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Novembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "7b0071c55abb196b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Limites da Reserva Natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Limites da Reserva Natural\n\nTroço do rio Côa com início no moinho da Tinita ou do Patrício, cerca de 2 km a nascente da Malcata, até perto do cabeço do Canto da Ribeira, seguindo para sul pelo caminho de acesso à casa do guarda florestal e daí até à fronteira. Continua pela linha da fronteira, onde inflecte para o interior do território nacional pelo caminho a cerca de 300 m a sul de Barroca da Mota do Padre e depois pela linha de cumeada que passa pelo vértice geodésico da Marvaninha (cota n.º 839), até encontrar o rio Bazagueda. Continua pelo caminho que parte do moinho e que passa por Bazagueda, até cerca de 130 m a oeste do vértice geodésico da Figueirinha (cota n.º 607). Daí segue para oeste por uma linha de água até à ribeira de Valdedra, que segue para montante até outra linha de água que atravessa o Covão do Urso para noroeste até à estrada de Meimão, a cerca de 500 m a és-nordeste da carreira de tiro de Penamacor. Segue-a para ocidente durante cerca de 600 m, inflectindo para noroeste pelo caminho que desemboca na estrada para Meimoa, seguindo-a durante 500 m e inflectindo para norte pelo caminho que passa por Barroca da Serra, pelo ribeiro do Conleeiro até à ribeira da Meimoa. Continua por esta ribeira até à confluência da ribeira do Arrebentão. Daqui segue para nor-noroeste pelo caminho que passa pela Fonte Ferranha e pelo vértice geodésico do Alísio (cota n.º 927). A partir daí, o caminho, que é também limite de distrito, segue para leste até ao vértice geodésico do Homem (cota n.º 996) e inflecte para noroeste pelo caminho até à ribeira da Porqueira, que acompanha em cerca de 500 m. Segue para nor-noroeste por várias linhas de água, passando pelo Ninho das Corças até ao moinho da Tinita, seguindo o rio Côa, conforme já descrito."
+  },
+  "2dcae7ebe05ce176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84548458.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84548458.pdf)"
+  },
+  "a09f0f626bc2a82b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos da Reserva Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "3e11f60e6d86b58d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Composição e funcionamento do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 9.º — Composição e funcionamento do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "ef8e9a0e2b3a5b60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 10.º — Competências do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  }
+ }
+}

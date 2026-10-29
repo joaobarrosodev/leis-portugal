@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240271:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a37d0d519bf16a99",
+    "1a6dbe8f284fae2d",
+    "a7f586e3d04f4b6d",
+    "9042480d5ef3bfa5",
+    "017d49acd2e7b04a",
+    "fb0ab750fbde4579",
+    "1dd286119d0cffa9",
+    "05ceee53e8c6cb9e",
+    "b187ee23fe86fecd",
+    "bad90f0aa93c6371",
+    "fcce6751b6c9b7b4",
+    "ef1984a6a3cc07d8",
+    "f4bdb8f9ce283bb3",
+    "e88be91a0322e38c",
+    "f37276fdcd8f6edb",
+    "3b1a2d3bf61e9ac9",
+    "21613929b4b0fdf9",
+    "8ef3fcac2cf39040",
+    "c5428a8ed351f79d",
+    "7b427639eb8dfe1c",
+    "e90b5a7d62783d21",
+    "727e22408b833405",
+    "708537f77ffb2c94"
+   ]
+  },
+  {
+   "date": "2005-11-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584640:por",
+     "title": "Decreto-Lei n.º 199/2005",
+     "published": "2005-11-10",
+     "dre_path": "/dr/detalhe/decreto-lei/199-2005-584640"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "a37d0d519bf16a99",
+    "1a6dbe8f284fae2d",
+    "a7f586e3d04f4b6d",
+    "9042480d5ef3bfa5",
+    "017d49acd2e7b04a",
+    "11e4340b0ea3c87b",
+    "1dd286119d0cffa9",
+    "05ceee53e8c6cb9e",
+    "b187ee23fe86fecd",
+    "bad90f0aa93c6371",
+    "fcce6751b6c9b7b4",
+    "ef1984a6a3cc07d8",
+    "f4bdb8f9ce283bb3",
+    "e88be91a0322e38c",
+    "f37276fdcd8f6edb",
+    "3b1a2d3bf61e9ac9",
+    "21613929b4b0fdf9",
+    "8ef3fcac2cf39040",
+    "c5428a8ed351f79d",
+    "7b427639eb8dfe1c",
+    "e90b5a7d62783d21",
+    "727e22408b833405",
+    "708537f77ffb2c94"
+   ]
+  }
+ ],
+ "fragments": {
+  "a37d0d519bf16a99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nO [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, aprovou o regime jurídico do pagamento dos prémios de seguro. Com a publicação deste diploma, procurou alcançar-se um maior equilíbrio nas relações contratuais entre empresas de seguros e segurados. Pretendia-se, assim, que o número de litígios relativos ao pagamento de prémios de seguro diminuísse. Este objectivo não foi atingido na sua plenitude, continuando as empresas de seguros a propor acções em tribunal para a cobrança de dívidas relativas a prémios de seguro, muitas de valor reduzido.\n\nOs Decretos-Leis n.os [248-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2000-187476), de 12 de Outubro, e [150/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2004-517446), de 29 de Junho, que alteraram o [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, não previram soluções para resolver directamente esta questão.\n\nO presente diploma vem, pois, alterar o [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, com o principal objectivo de diminuir o número de litígios relacionados com o pagamento de prémios de seguro. Para atingir este propósito, importa aplicar em toda a sua extensão o princípio que já resultava da versão originária do diploma, segundo o qual o contrato de seguro só deve produzir os seus efeitos com o pagamento do prémio ou fracção por parte do tomador de seguro. Na falta de pagamento do prémio ou fracção, o risco não deve estar coberto pelo contrato. Deste modo, o seguro apenas é válido, produzindo os seus efeitos, com o pagamento do prémio ou fracção, não sendo eficaz, quanto às obrigações de ambas as partes, se não se verificar o pagamento.\n\nNeste sentido, tanto o prémio ou fracção inicial como os prémios ou fracções subsequentes são devidos numa determinada data, mas o contrato apenas produz os seus efeitos, na parte correspondente ao prémio ou fracção em dívida, a partir do momento do seu pagamento. Não procedendo o tomador de seguro ao seu pagamento, verificam-se duas consequências: por um lado, o risco deixa de estar coberto pelo contrato; por outro, o valor do prémio ou fracção em dívida deixa, relativamente à generalidade dos contratos, de poder ser judicialmente exigido pela seguradora.\n\nConsequência relevante do regime ora aprovado, facilitadora do tráfico jurídico e da mobilidade do tomador de seguro, é o afastamento parcial do regime previsto no n.º 1 do artigo 18.º do [Decreto-Lei n.º 176/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1995-484984), de 26 de Junho, no caso de não renovação do contrato de seguro por vontade do tomador de seguro, que passará a operar tão-só pelo não pagamento atempado do respectivo prémio, desonerando-o de efectuar a comunicação aí prevista.\n\nNo que respeita aos prémios ou fracções subsequentes, mantém-se a obrigação da empresa de seguros de informar o tomador de seguro acerca do momento em que o prémio ou fracção é devido. No entanto, como o tomador de seguro deixa de beneficiar de um período de 30 dias, já na vigência do contrato, para efectuar o pagamento, prevê-se um aumento do prazo de aviso de 30 para 60 dias. Assim, a empresa de seguros encontra-se obrigada a avisar por escrito o tomador de seguro até 60 dias antes da data em que os prémios ou fracções subsequentes sejam devidos. Desse aviso devem constar a data do pagamento, o valor a pagar, a forma e o lugar de pagamento e a consequência da falta de pagamento, que, em princípio, será a não produção de efeitos do contrato.\n\nO momento do início da cobertura dos riscos deve constar da apólice. O pagamento do prémio ou fracção, condição necessária, na generalidade dos contratos, para o início da cobertura dos riscos, deve sempre preceder a entrega ao tomador de seguro do título que lhe permite comprovar a existência de um seguro válido.\n\nJustifica-se, assim, que, no que diz respeito ao seguro de responsabilidade civil automóvel obrigatório, tanto o certificado internacional como o certificado provisório só possam ser emitidos após o pagamento do prémio, uma vez que é a partir deste momento que se inicia a cobertura do risco. Procura-se, desta forma, que o certificado reflicta a eficácia do contrato de seguro e, portanto, a cobertura dos riscos. As autoridades policiais devem ter a possibilidade de, exigindo apenas o certificado, concluir acerca da produção de efeitos do contrato de seguro.\n\nAos contratos de prémio variável e aos contratos titulados por apólices abertas continua a aplicar-se o regime anterior. Nestes casos, justifica-se que o contrato se mantenha válido se não tiver sido denunciado pelas partes, não se encontrando o tomador de seguro exonerado da obrigação de proceder ao pagamento dos valores que estiverem em dívida relativamente ao período em que o contrato esteve em vigor.\n\nTambém os valores que a empresa de seguros tiver pago ao abrigo do disposto no n.º 3 do artigo 9.º devem ser pagos pelo tomador de seguro, o que resulta da norma referida.\n\nForam ouvidos o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, a Comissão Nacional de Protecção de Dados, a Ordem dos Advogados, a Câmara dos Solicitadores, o Conselho dos Oficiais de Justiça, o Instituto de Seguros de Portugal, o Instituto do Consumidor, a Associação Portuguesa de Seguradores e a Associação Portuguesa para a Defesa do Consumidor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1a6dbe8f284fae2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alteração ao [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho\n\nOs artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º e 12.º do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, alterado pelos Decretos-Leis n.os [248-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2000-187476), de 12 de Outubro, e [150/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2004-517446), de 29 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n2 - Em caso de impossibilidade de emissão do recibo no momento do pagamento do prémio ou fracção inicial, a empresa de seguros emite um recibo provisório, devendo emitir o recibo definitivo dentro do prazo que vier a ser fixado por norma regulamentar a emitir pelo Instituto de Seguros de Portugal.\n\nArtigo 5.º\n\n[...]\n\n1 - Os prémios ou fracções subsequentes são devidos nas datas estabelecidas na apólice respectiva, sem prejuízo do disposto nos n.os 2 e 3 do presente artigo.\n\n2 - ...\n\n3 - ...\n\nArtigo 6.º\n\n[...]\n\n1 - A cobertura dos riscos apenas se verifica a partir do momento do pagamento do prémio ou fracção.\n\n2 - As partes podem convencionar que o início da produção de efeitos do contrato seja reportado a data posterior ou anterior à sua celebração, data esta que não pode ser anterior à da recepção da proposta de seguro pela empresa de seguros.\n\n3 - O momento do início da cobertura dos riscos deve constar expressamente das condições particulares da apólice e, quando estiver dependente do pagamento do prémio ou fracção, comprova-se pelo respectivo recibo ou, na falta deste, pelo recibo provisório referido no n.º 2 do artigo 4.º\n\n4 - A empresa de seguros deve esclarecer devidamente o tomador acerca do teor do presente artigo, quer antes do pagamento do prémio ou fracção quer nas condições gerais ou especiais das apólices.\n\nArtigo 7.º\n\n[...]\n\n1 - A empresa de seguros encontra-se obrigada, até 60 dias antes da data em que os prémios ou fracções subsequentes sejam devidos, a avisar, por escrito, o tomador de seguro, indicando a data do pagamento, o valor a pagar e a forma e o lugar de pagamento.\n\n2 - O prazo referido no número anterior é de 30 dias no que respeita aos prémios ou fracções referidos nos n.os 2 e 3 do artigo 5.º\n\n3 - Do aviso a que se referem os números anteriores devem obrigatoriamente constar as consequências da falta de pagamento do prémio ou fracção.\n\n4 - (Anterior n.º 3.)\n\n5 - Nos seguros de crédito, quando o risco coberto seja o previsto na alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 94-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-b-1998-474478), de 17 de Abril, e estejam identificados em documento contratual as datas de vencimento e os valores a pagar, bem como as consequências da falta de pagamento do prémio ou fracção, a empresa de seguros pode optar por não proceder ao envio do aviso previsto no n.º 1, recaindo sobre ela o ónus da prova da emissão e aceitação, pelo tomador de seguro, daquele documento contratual.\n\n6 - Nos contratos de seguro cujo pagamento do prémio seja objecto de fraccionamento por prazo inferior ao trimestre, e estejam identificados em documento contratual as datas de vencimento e os valores a pagar, bem como as consequências da falta de pagamento do prémio ou fracção, a empresa de seguros pode igualmente optar por não proceder ao envio do aviso previsto no n.º 1, recaindo sobre ela o ónus da prova da emissão e aceitação, pelo tomador de seguro, daquele documento contratual.\n\n7 - Nos contratos de seguro de responsabilidade civil automóvel em que o pagamento do prémio seja fraccionado, para efeitos de aplicação do n.º 1 do artigo 3.º do [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, considera-se que a validade do seguro corresponde ao período para o qual o prémio se encontra pago.\n\nArtigo 8.º\n\nFalta de pagamento do prémio ou fracção\n\n1 - A falta de pagamento do prémio de anuidades subsequentes, ou da primeira fracção deste, impede a renovação do contrato, que por esse facto se não opera, e o não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade determina a resolução automática e imediata do contrato, na data em que o pagamento dessa fracção era devido.\n\n2 - Na falta de pagamento dos prémios ou fracções referidos nos n.os 2 e 3 do artigo 5.º na data indicada no respectivo aviso, o tomador de seguro constitui-se em mora e, decorridos 30 dias após aquela data, o contrato é automaticamente resolvido, sem possibilidade de ser reposto em vigor.\n\n3 - Durante o prazo referido no número anterior o contrato produz todos os seus efeitos, nomeadamente a cobertura dos riscos.\n\n4 - Nos casos em que a cobrança seja efectuada através de mediadores, estes ficam obrigados a devolver às empresas de seguros os recibos não cobrados dentro do prazo de oito dias subsequentes ao prazo estabelecido nos avisos referidos nos n.os 1 e 2 do artigo anterior, sob pena de incorrerem nas sanções legalmente estabelecidas.\n\nArtigo 9.º\n\n[...]\n\n1 - A não renovação ou a resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada por força da falta de pagamento do prémio de anuidades subsequentes ou do não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade deve ser comunicada pela empresa de seguros à Inspecção-Geral do Trabalho através de envio de listagens mensais por correio registado ou por outro meio do qual fique registo escrito ou electrónico.\n\n2 - ...\n\n3 - A não produção de efeitos ou a resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada nos termos do artigo anterior não é oponível a terceiros lesados, até 15 dias após a recepção das listagens referidas no n.º 1 do presente artigo, sem prejuízo do direito de regresso da empresa de seguros contra o tomador de seguro relativamente às prestações efectuadas às pessoas seguras ou a terceiros em consequência de sinistros ocorridos desde o momento em que o contrato deixou de produzir efeitos até ao termo do prazo acima referido.\n\n4 - ...\n\nArtigo 10.º\n\n[...]\n\nA resolução do contrato, nos termos do n.º 2 do artigo 8.º, por falta de pagamento do prémio ou fracção subsequente nos contratos referidos nos n.os 2 e 3 do artigo 5.º, não exonera o tomador de seguro da obrigação de pagamento dos prémios ou fracções em dívida correspondentes ao período em que o contrato esteve em vigor, acrescidos das penalidades contratualmente estabelecidas e dos respectivos juros de mora.\n\nArtigo 12.º\n\n[...]\n\nAs relações entre as seguradoras e os mediadores de seguros com poderes de cobrança, designadamente no que respeita a prazos para prestação de contas, regem-se pelas normas específicas em vigor, sem prejuízo do disposto no n.º 4 do artigo 8.º»"
+  },
+  "a7f586e3d04f4b6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro\n\nO artigo 20.º do [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), de 31 de Dezembro, alterado pelos Decretos-Leis n.os [122-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-a-1986-194397), de 30 de Maio, [436/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1986-627040), de 31 de Dezembro, [81/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1987-662690), de 20 de Fevereiro, [394/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1987-406121), de 31 de Dezembro, [415/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1989-550819), de 30 de Novembro, [122/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1992-291845), de 2 de Julho, [18/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1993-584780), de 23 de Janeiro, [358/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1993-668324), de 14 de Outubro, [130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, [3/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1996-583976), de 25 de Janeiro, [68/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1997-526781), de 3 de Abril, [368/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1997-419386), de 23 de Dezembro, [301/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2001-566836), de 23 de Novembro, e [72-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884), de 14 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 20.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Quando a seguradora não emitir o certificado internacional de seguro no momento da aceitação do contrato ou de qualquer alteração que obrigue à emissão de novo certificado, deverá, após o pagamento do prémio pelo tomador do seguro, entregar a este um certificado provisório, que será válido até ao final do prazo referido no n.º 2.\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...\n\n13 - ...\n\n14 - ...\n\n15 - ...\n\n16 - Qualquer documento que comprove a eficácia do contrato de seguro só pode ser emitido após o pagamento do prémio pelo tomador do seguro, ficando a entidade emitente, quando não seja a seguradora, responsável perante esta pela entrega da quantia correspondente ao prémio.»"
+  },
+  "9042480d5ef3bfa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Aditamento ao [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho\n\nÉ aditado o artigo 9.º-A ao [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, alterado pelos Decretos-Leis n.os [248-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2000-187476), de 12 de Outubro, e [150/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2004-517446), de 29 de Junho, com a seguinte redacção:\n\n«Artigo 9.º-A\n\nResolução de contrato de seguro obrigatório do ramo automóvel\n\n1 - A não renovação ou resolução de contratos de seguro obrigatório do ramo automóvel operada por força do n.º 1 do artigo 8.º, bem como a celebração de novos contratos, é comunicada pela empresa de seguros à Direcção-Geral de Viação, com a indicação da matrícula da viatura segura, a identificação do tomador do seguro e a respectiva morada.\n\n2 - A Direcção-Geral de Viação, caso verifique não ter sido coberto o risco por novo contrato, comunica o facto à força policial competente para efeitos de fiscalização.\n\n3 - As forças policiais devem apreender, procedendo à remoção ou bloqueamento, os veículos cujos riscos objecto de seguro obrigatório não se prove estarem cobertos por contrato em vigor.\n\n4 - À remoção e ao bloqueamento a que se refere o número anterior são aplicáveis, com as necessárias adaptações, as disposições dos n.os 3 e 5 a 8 do artigo 164.º do Código da Estrada.»"
+  },
+  "017d49acd2e7b04a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Republicação\n\nÉ republicado, em anexo ao presente diploma, o [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho."
+  },
+  "fb0ab750fbde4579": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, que entram em vigor no dia seguinte ao da publicação.\n\n2 - O presente diploma aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que passem a ser devidos em momento a ela posterior.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 13 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1dd286119d0cffa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regime jurídico do pagamento dos prémios de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regime jurídico do pagamento dos prémios de seguro"
+  },
+  "05ceee53e8c6cb9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma estabelece o regime jurídico do pagamento dos prémios de seguro.\n\n2 - O presente diploma é aplicável a todos os contratos de seguro, com excepção dos respeitantes aos seguros dos ramos colheitas, ao ramo «Vida», bem como aos seguros temporários celebrados por períodos inferiores a 90 dias."
+  },
+  "b187ee23fe86fecd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entidade a quem são pagos e formas de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade a quem são pagos e formas de pagamento\n\n1 - Os prémios de seguro devem ser pagos, pontualmente, pelo tomador do seguro directamente à empresa de seguros ou a outra entidade por esta expressamente designada para o efeito.\n\n2 - Apenas são admitidas como formas de pagamento dos prémios de seguro as que forem fixadas por portaria do Ministro das Finanças."
+  },
+  "bad90f0aa93c6371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Carácter unitário do prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carácter unitário do prémio\n\nO prémio correspondente a cada período de duração do contrato de seguro é, salvo se o contrato for anulado ou resolvido nos termos legais e regulamentares em vigor, devido por inteiro, sem prejuízo de, em conformidade com o previsto na apólice respectiva, poder ser fraccionado para efeitos de pagamento."
+  },
+  "fcce6751b6c9b7b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Prémio ou fracção inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prémio ou fracção inicial\n\n1 - O prémio ou fracção inicial é devido na data da celebração do contrato.\n\n2 - Em caso de impossibilidade de emissão do recibo no momento do pagamento do prémio ou fracção inicial, a empresa de seguros emite um recibo provisório, devendo emitir o recibo definitivo dentro do prazo que vier a ser fixado por norma regulamentar a emitir pelo Instituto de Seguros de Portugal."
+  },
+  "ef1984a6a3cc07d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Prémios ou fracções subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prémios ou fracções subsequentes\n\n1 - Os prémios ou fracções subsequentes são devidos nas datas estabelecidas na apólice respectiva, sem prejuízo do disposto nos n.os 2 e 3 do presente artigo.\n\n2 - Nos contratos de prémio variável, nomeadamente dos ramos de acidentes de trabalho, marítimo e mercadorias transportadas, os prémios ou fracções seguintes são devidos na data da emissão do recibo respectivo.\n\n3 - Nos contratos titulados por apólices abertas, os prémios ou fracções relativos às sucessivas aplicações são devidos na data da emissão do recibo respectivo."
+  },
+  "f4bdb8f9ce283bb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Cobertura dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cobertura dos riscos\n\n1 - A cobertura dos riscos apenas se verifica a partir do momento do pagamento do prémio ou fracção.\n\n2 - As partes podem convencionar que o início da produção de efeitos do contrato seja reportado a data posterior ou anterior à sua celebração, data esta que não pode ser anterior à da recepção da proposta de seguro pela empresa de seguros.\n\n3 - O momento do início da cobertura dos riscos deve constar expressamente das condições particulares da apólice e, quando estiver dependente do pagamento do prémio ou fracção, comprova-se pelo respectivo recibo ou, na falta deste, pelo recibo provisório referido no n.º 2 do artigo 4.º\n\n4 - A empresa de seguros deve esclarecer devidamente o tomador acerca do teor do presente artigo, quer antes do pagamento do prémio ou fracção quer nas condições gerais ou especiais das apólices."
+  },
+  "e88be91a0322e38c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aviso para pagamento de prémios ou fracções subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aviso para pagamento de prémios ou fracções subsequentes\n\n1 - A empresa de seguros encontra-se obrigada, até 60 dias antes da data em que os prémios ou fracções subsequentes sejam devidos, a avisar, por escrito, o tomador de seguro, indicando a data do pagamento, o valor a pagar e a forma e o lugar de pagamento.\n\n2 - O prazo referido no número anterior é de 30 dias no que respeita aos prémios ou fracções referidos nos n.os 2 e 3 do artigo 5.º\n\n3 - Do aviso a que se referem os números anteriores devem obrigatoriamente constar as consequências da falta de pagamento do prémio ou fracção.\n\n4 - Recai sobre a empresa de seguros o ónus da prova relativo ao envio do aviso a que se refere o presente artigo.\n\n5 - Nos seguros de crédito, quando o risco coberto seja o previsto na alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 94-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-b-1998-474478), de 17 de Abril, e estejam identificados em documento contratual as datas de vencimento e os valores a pagar, bem como as consequências da falta de pagamento do prémio ou fracção, a empresa de seguros pode optar por não proceder ao envio do aviso previsto no n.º 1, recaindo sobre ela o ónus da prova da emissão e aceitação, pelo tomador de seguro, daquele documento contratual.\n\n6 - Nos contratos de seguro cujo pagamento do prémio seja objecto de fraccionamento por prazo inferior ao trimestre, e estejam identificados em documento contratual as datas de vencimento e os valores a pagar, bem como as consequências da falta de pagamento do prémio ou fracção, a empresa de seguros pode igualmente optar por não proceder ao envio do aviso previsto no n.º 1, recaindo sobre ela o ónus da prova da emissão e aceitação, pelo tomador de seguro, daquele documento contratual.\n\n7 - Nos contratos de seguro de responsabilidade civil automóvel em que o pagamento do prémio seja fraccionado, para efeitos de aplicação do n.º 1 do artigo 3.º do [Decreto-Lei n.º 130/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1994-262840), de 19 de Maio, considera-se que a validade do seguro corresponde ao período para o qual o prémio se encontra pago."
+  },
+  "f37276fdcd8f6edb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Falta de pagamento do prémio ou fracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Falta de pagamento do prémio ou fracção\n\n1 - A falta de pagamento do prémio de anuidades subsequentes, ou da primeira fracção deste, impede a renovação do contrato, que por esse facto se não opera, e o não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade determina a resolução automática e imediata do contrato, na data em que o pagamento dessa fracção era devido.\n\n2 - Na falta de pagamento dos prémios ou fracções referidos nos n.os 2 e 3 do artigo 5.º na data indicada no respectivo aviso, o tomador de seguro constitui-se em mora e, decorridos 30 dias após aquela data, o contrato é automaticamente resolvido, sem possibilidade de ser reposto em vigor.\n\n3 - Durante o prazo referido no número anterior o contrato produz todos os seus efeitos, nomeadamente a cobertura dos riscos.\n\n4 - Nos casos em que a cobrança seja efectuada através de mediadores, estes ficam obrigados a devolver às empresas de seguros os recibos não cobrados dentro do prazo de oito dias subsequentes ao prazo estabelecido nos avisos referidos nos n.os 1 e 2 do artigo anterior, sob pena de incorrerem nas sanções legalmente estabelecidas."
+  },
+  "3b1a2d3bf61e9ac9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho\n\n1 - A não renovação ou a resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada por força da falta de pagamento do prémio de anuidades subsequentes ou do não pagamento de uma qualquer fracção do prémio no decurso de uma anuidade deve ser comunicada pela empresa de seguros à Inspecção-Geral do Trabalho através de envio de listagens mensais por correio registado ou por outro meio do qual fique registo escrito ou electrónico.\n\n2 - Em caso de dúvida, recai sobre a empresa de seguros o ónus da prova relativo à comunicação referida no número anterior.\n\n3 - A não produção de efeitos ou a resolução dos contratos de seguro obrigatório do ramo de acidentes de trabalho operada nos termos do artigo anterior não é oponível a terceiros lesados, até 15 dias após a recepção das listagens referidas no n.º 1 do presente artigo, sem prejuízo do direito de regresso da empresa de seguros contra o tomador de seguro relativamente às prestações efectuadas às pessoas seguras ou a terceiros em consequência de sinistros ocorridos desde o momento em que o contrato deixou de produzir efeitos até ao termo do prazo acima referido.\n\n4 - O disposto no número anterior não se aplica aos seguros de acidentes de trabalho em que os terceiros lesados sejam administradores, directores, gerentes ou equiparados do segurado."
+  },
+  "21613929b4b0fdf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º-A — Resolução de contrato de seguro obrigatório do ramo automóvel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º-A — Resolução de contrato de seguro obrigatório do ramo automóvel\n\n1 - A não renovação ou resolução de contratos de seguro obrigatório do ramo automóvel operada por força do n.º 1 do artigo 8.º, bem como a celebração de novos contratos, é comunicada pela empresa de seguros à Direcção-Geral de Viação, com a indicação da matrícula da viatura segura, a identificação do tomador do seguro e a respectiva morada.\n\n2 - A Direcção-Geral de Viação, caso verifique não ter sido coberto o risco por novo contrato, comunica o facto à força policial competente para efeitos de fiscalização.\n\n3 - As forças policiais devem apreender, procedendo à remoção ou bloqueamento, os veículos cujos riscos objecto de seguro obrigatório não se prove estarem cobertos por contrato em vigor.\n\n4 - À remoção e ao bloqueamento a que se refere o número anterior são aplicáveis, com as necessárias adaptações, as disposições dos n.os 3 e 5 a 8 do artigo 164.º do Código da Estrada."
+  },
+  "8ef3fcac2cf39040": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Obrigação de pagamento em caso de resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigação de pagamento em caso de resolução\n\nA resolução do contrato, nos termos do n.º 2 do artigo 8.º, por falta de pagamento do prémio ou fracção subsequente nos contratos referidos nos n.os 2 e 3 do artigo 5.º, não exonera o tomador de seguro da obrigação de pagamento dos prémios ou fracções em dívida correspondentes ao período em que o contrato esteve em vigor, acrescidos das penalidades contratualmente estabelecidas e dos respectivos juros de mora."
+  },
+  "c5428a8ed351f79d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Prémios de seguro em dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prémios de seguro em dívida\n\n1 - As empresas de seguros, mesmo nos casos de seguros obrigatórios, podem recusar a aceitação de um contrato de seguro se o risco que se pretende segurar já esteve coberto, total ou parcialmente, por contrato de seguro relativamente ao qual existam quaisquer quantias em dívida, nos termos dos artigos anteriores, salvo se o tomador tiver invocado excepção de não cumprimento do contrato.\n\n2 - Para efeitos do disposto no número anterior, todas as propostas de contrato de seguro devem conter a identificação completa do tomador do seguro, incluindo o número de identificação fiscal, recaindo sobre o tomador o ónus de o fornecer às empresas de seguros, e uma declaração do mesmo tomador sobre se o risco que pretende segurar já esteve ou não coberto, total ou parcialmente, por algum contrato relativamente ao qual existam quantias em dívida, nos termos dos artigos anteriores.\n\n3 - As empresas de seguros, directamente ou por intermédio das suas associações representativas, e em conformidade com a respectiva legislação em vigor, ficam habilitadas a instituir mecanismos que permitam identificar os tomadores de seguros que, sem fundada justificação, não satisfizerem as suas obrigações de pagamento relativamente aos contratos de seguro que celebrarem.\n\n4 - Os mecanismos instituídos nos termos do número anterior devem respeitar as seguintes condições:\n\na) De acordo com um princípio de reciprocidade, as empresas de seguros que pretendam aceder ao sistema ficam obrigadas a fornecer os elementos necessários quanto a contratos de seguro relativamente aos quais existam prémios injustificadamente em dívida;\n\nb) O acesso à informação pelas empresas de seguros deve circunscrever-se aos dados relativos a incumprimentos de obrigações de pagamento de prémios de contratos de seguro que cubram os mesmos riscos que se pretende segurar;\n\nc) Toda a informação recebida nos termos do número anterior deve ser exclusivamente destinada às empresas de seguros participantes, sendo vedada qualquer transmissão, total ou parcial, a terceiros, não podendo ainda ser utilizada para outros fins que não sejam os consignados no presente artigo;\n\nd) Eliminação imediata do sistema dos dados referentes a tomadores de seguros logo que se mostrem pagos os prémios de seguro que determinaram a sua identificação como incumpridores;\n\ne) Garantia, nos termos legais, aos respectivos titulares, do direito de acesso, rectificação e actualização dos dados."
+  },
+  "7b427639eb8dfe1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Relações entre seguradoras e mediadores de seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relações entre seguradoras e mediadores de seguros\n\nAs relações entre as seguradoras e os mediadores de seguros com poderes de cobrança, designadamente no que respeita a prazos para prestação de contas, regem-se pelas normas específicas em vigor, sem prejuízo do disposto no n.º 4 do artigo 8.º"
+  },
+  "e90b5a7d62783d21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exclusão\n\nO disposto no artigo 6.º e no n.º 1 do artigo 8.º não é aplicável às mútuas de seguros relativamente a prémios cujo recebimento se obtém através da dedução de valores nas operações de vendagem ou descarga."
+  },
+  "727e22408b833405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 105/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1994-265557), de 23 de Abril."
+  },
+  "708537f77ffb2c94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da data da sua publicação, aplicando-se, a partir daquele momento, a todos os contratos de seguro que venham a ser celebrados, bem como, na data das respectivas renovações, aos contratos já existentes.\n\n2 - O disposto no número anterior não prejudica a possibilidade de o regime previsto no [Decreto-Lei n.º 105/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1994-265557), de 23 de Abril, poder continuar a aplicar-se até 31 de Dezembro de 2000."
+  },
+  "11e4340b0ea3c87b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2005-11-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 199/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2005-584640), publicado em 2005-11-10."
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, que entram em vigor no dia seguinte ao da publicação.\n\n2 - O presente decreto-lei aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 199/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2005-584640), publicado em 2005-11-10.\n\nVisto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 13 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

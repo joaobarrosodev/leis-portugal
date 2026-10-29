@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-20'
+version_history:
+  file: portaria-1109-h-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-20'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001
+    changes:
+    - Altera Artigo ANEXO::1.º
+    - Altera Artigo ANEXO::3.º
+    - Altera Artigo ANEXO::5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-h/2000/11/27/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-h-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +179,9 @@ Regulamento de Aplicação da Subacção n.º 3.3, «Apoio à Prestação de Ser
 
 1 - O presente Regulamento estabelece o regime de aplicação da subacção n.º 3.3, «Apoio à prestação de serviços florestais», da medida AGRIS.
 
-2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior da medida AGRIS.
+2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 2.º — Objectivos
 
@@ -174,11 +193,13 @@ Para efeitos deste Regulamento considera-se:
 
 a) Associações de produtores florestais - associações de proprietários e produtores florestais que tenham como objecto principal a actividade florestal;
 
-b) Organizações de produtores florestais - designação que abrange as associações de produtores florestais, cooperativas de produtores florestais, cooperativas agrícolas com secção florestal e régies cooperativas;
+b) Organizações de produtores florestais - designação que abrange associações de produtores florestais, cooperativas de produtores e de serviços florestais, cooperativas agrícolas com secção florestal e régies cooperativas;
 
-c) Pequenas empresas de serviços florestais - empresas que tenham um número médio de trabalhadores superior a 3 e inferior a 20, um volume de negócios não superior a 500000 contos e que se dediquem à prestação de serviços à actividade florestal;
+c) Pequenas empresas de serviços florestais - empresas que tenham um número médio de trabalhadores inferior a 20, um volume de negócios não superior a 500000 contos, não sejam participadas em mais de 25% por empresas de outro tipo e se dediquem à prestação de serviços à actividade florestal;
 
 d) Serviços directamente ligados ao processo produtivo - operações ou tarefas, com tradução essencialmente física e cuja execução se encontra a jusante do planeamento, gestão ou divulgação.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 4.º — Beneficiários
 
@@ -206,7 +227,9 @@ d) Apoio à gestão florestal;
 
 e) Outros serviços técnicos especializados não directamente associados ao processo produtivo;
 
-f) Divulgação tecnológica, legislativa, comercial e organizacional.
+f) Divulgação técnica, legislativa, comercial e organizacional.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 6.º — Serviços excluídos
 

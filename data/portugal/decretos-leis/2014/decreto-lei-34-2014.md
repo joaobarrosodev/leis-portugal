@@ -41,10 +41,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-07-19'
+version_history:
+  file: decreto-lei-34-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-07-19'
+    amending: pt:dre:107703391:por
+    amending_title: Decreto-Lei n.º 82/2017
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/34/2014/03/05/p/dre/pt/html
@@ -70,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:25:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 82/2017. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2014/decreto-lei-34-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,39 +203,25 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O presente decreto-lei procede ainda à:
 
-a) Segunda alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, que regula a produção, controlo, certificação e comercialização de materiais de propagação e de plantação de espécies hortícolas, com exceção das sementes, e de materiais de propagação de fruteiras e de fruteiras destinadas à produção de frutos;
+a) (Revogada.)
 
 b) Segunda alteração ao Decreto-Lei n.º 257/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 54/2011, de 14 de abril, que estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas e hortícolas;
 
 c) Terceira alteração ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, que regula a produção, o controlo, a certificação e a comercialização de sementes de espécies agrícolas e de espécies hortícolas, com exceção das utilizadas para fins ornamentais.
 
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18.
+
 ###### Artigo 2.º — Alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro
 
-O artigo 2.º do Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, passa a ter a seguinte redação:
+(Revogado.)
 
-«Artigo 2.º
-
-[...]
-
-1 - [...].
-
-2 - [...]:
-
-a) [...]:
-
-i) [Revogada];
-
-ii) [...];
-
-iii) [...];
-
-iv) Diretiva n.º [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, de 15 de julho de 2008, relativa à comercialização de material de propagação e plantação de produtos hortícolas, com exceção das sementes, alterada pela Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013.
-
-b) [...].»
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18.
 
 ###### Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro
 
-O anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, é alterado com a redação constante do anexo I ao presente decreto-lei, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18.
 
 ###### Artigo 4.º — Alteração aos anexos I e II ao Decreto-Lei n.º 257/2009, de 24 de setembro
 
@@ -229,7 +233,9 @@ Os anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos De
 
 ###### Artigo 6.º — Norma revogatória
 
-São revogadas a subalínea i) da alínea a) do n.º 2 do artigo 2.º e a parte E do anexo IV ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio.
+(Revogado.)
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18.
 
 ###### Artigo 7.º — Entrada em vigor
 

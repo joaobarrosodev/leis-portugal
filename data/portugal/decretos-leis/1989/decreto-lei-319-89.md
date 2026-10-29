@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-12'
+version_history:
+  file: decreto-lei-319-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-12'
+    amending: pt:dre:374615:por
+    amending_title: Decreto-Lei n.º 257/99
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:53:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 257/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-319-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,6 +180,10 @@ d) Organizar estágios e visitas de estudo, no País ou no estrangeiro, para o p
 e) Promover conferências, colóquios e outras iniciativas similares, com a participação de especialistas portugueses ou estrangeiros;
 
 f) Organizar e administrar o Centro de Documentação Histórica dos Serviços Prisionais.
+
+4 - Ao Centro cabe igualmente conceber, programar e executar acções de formação destinadas aos reclusos, nomeadamente nas áreas de informática, técnicas administrativas e de educação física e animação desportiva.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 257/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1999-374615), publicado em 1999-07-07.
 
 ###### Artigo 3.º — Órgãos
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-29'
+version_history:
+  file: decreto-17-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-29'
+    amending: pt:dre:305441:por
+    amending_title: Declaração de Rectificação n.º 21-C/97
+    changes:
+    - Retifica Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/17/1997/04/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:07:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 21-C/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1997/decreto-17-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição da Repúbl
 
 ###### Artigo único
 
-São aprovadas, para ratificação, as alterações ao artigo XVII do Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (INTELSAT), aprovado pelo [Decreto-Lei n.º 124/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1992-291849), de 19 de Abril, adoptadas nas 19.ª e 20.ª Assembleias de Partes, que tiveram lugar, respectivamente, na Venezuela, de 25 a 28 de Outubro de 1994, e na Dinamarca, de 29 de Agosto a 1 de Setembro de 1995, bem como as alterações aos artigos 6 e 22 do correspondente Acordo de Exploração, aprovado pelo [Decreto-Lei n.º 169/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1972-681391), de 16 de Maio, adoptadas na 25.ª Sessão da Reunião de Signatários efectuada em Singapura de 4 a 7 de Abril de 1995, cujo texto original em inglês e respectiva tradução em português seguem em anexo ao presente diploma.
+São aprovadas, para ratificação, as alterações ao artigo XVII do Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (INTELSAT), aprovado pelo Decreto-Lei n.º 124/72, de 19 de Abril, adoptadas nas 19.ª e 20.ª Assembleias de Partes, que tiveram lugar, respectivamente, na Venezuela, de 25 a 28 de Outubro de 1994, e na Dinamarca, de 29 de Agosto a 1 de Setembro de 1995, bem como as alterações aos artigos 6 e 22 do correspondente Acordo de Exploração, aprovado pelo Decreto-Lei n.º 169/72, de 16 de Maio, adoptadas na 25.ª Sessão da Reunião de Signatários efectuada em Singapura de 4 a 7 de Abril de 1995, cujo texto original em inglês e respectiva tradução em português seguem em anexo ao presente diploma.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21-C/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-c-1997-305441), publicado em 1997-11-29.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.
 

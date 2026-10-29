@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-22'
+version_history:
+  file: decreto-lei-355-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-22'
+    amending: pt:dre:456799:por
+    amending_title: Decreto-Lei n.º 139/2008
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/355/2007/10/29/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:00:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 139/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-355-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -254,7 +269,7 @@ e) Gabinete de Trabalho das Participadas.
 
 a) Departamento das Tecnologias das Indústrias Alimentares (DTIA);
 
-b) Departamento das Tecnologias das Indústrias Químicas e respectivos laboratórios (DTIQ);
+b) (Revogada.)
 
 c) Departamento de Biotecnologia (DB), com excepção das funções referidas na alínea f) do n.º 2 e na alínea c) do n.º 7.
 
@@ -271,6 +286,8 @@ c) Unidade de Novas Formas de Agentes Bioactivos (UNFAB) e Unidade de Tecnologia
 d) Unidade de Tecnologias de Produção (UTP) do Departamento de Materiais e Tecnologias de Produção (DMTP).
 
 8 - A sucessão nas competências das unidades referidas no número anterior é objecto de decreto-lei, após definição das áreas a transferir para cada uma das entidades integradoras, a efectuar sob a responsabilidade dos membros do Governo responsáveis pelas áreas da economia e da ciência, tecnologia e do ensino superior, devendo este processo estar concluído no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 139/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2008-456799), publicado em 2008-07-21.
 
 ###### Artigo 3.º — Sucessão no património
 

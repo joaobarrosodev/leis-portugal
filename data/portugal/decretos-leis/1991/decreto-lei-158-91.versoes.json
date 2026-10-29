@@ -1,0 +1,549 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:598767:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f11653be1cb67af6",
+    "e82e298be73417b9",
+    "819190a325f90de8",
+    "7c37bc9152817caa",
+    "9777d01396bf9100",
+    "50a157fb7c80dd4f",
+    "4c88db7262adaa8e",
+    "583060233734a0a3",
+    "36dbc1e0756d4fe6",
+    "eb77acc0596f1055",
+    "76721d9ddd9df5f2",
+    "5561a50d6a040186",
+    "7b4080249ea8dd44",
+    "93104eedc6435024",
+    "97930aed370f337a",
+    "84ba76f4c33a9ee2",
+    "035e2bef52b2e170",
+    "2122de47192500b8",
+    "bf7383ba50295392",
+    "97846bd74226098f",
+    "0c52ad33685ca806",
+    "3483df9205e334a6",
+    "d03588f123b38dfe",
+    "0f5538f2d0d7db15",
+    "e2d4b1823ec5b29d",
+    "0f75ddf7f0a5618f",
+    "84d0e470930395af",
+    "3f00b7c3cc7596cd",
+    "e9d832eebfa0de34",
+    "e75ccdf08a694556",
+    "da24fde4c2ef67b0",
+    "7d74145fbde6a0b7",
+    "115ee74db0183011",
+    "070c7fbf9125ac8f",
+    "2b74c3847dcc55c3",
+    "e40d3853426e6d93",
+    "0d79a72c25e98014",
+    "82871f8e786185f9",
+    "712fbd312d867641",
+    "33f9e9bb62489270",
+    "6342654cea875c8f",
+    "3c1f55918acca66a",
+    "c01b19f59248e536",
+    "116acb16ca4901b4",
+    "1f21867002fa927b",
+    "f639a460d0fd21a9",
+    "7662b359b351b73a",
+    "f5d14b9a77f6044b"
+   ]
+  },
+  {
+   "date": "2001-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144991:por",
+     "title": "Decreto-Lei n.º 79/99",
+     "published": "1999-03-16",
+     "dre_path": "/dr/detalhe/decreto-lei/79-1999-144991"
+    },
+    {
+     "id": "pt:dre:309370:por",
+     "title": "Decreto-Lei n.º 212/99",
+     "published": "1999-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/212-1999-309370"
+    },
+    {
+     "id": "pt:dre:319733:por",
+     "title": "Decreto-Lei n.º 60/2001",
+     "published": "2001-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/60-2001-319733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "f11653be1cb67af6",
+    "e82e298be73417b9",
+    "819190a325f90de8",
+    "7c37bc9152817caa",
+    "9777d01396bf9100",
+    "50a157fb7c80dd4f",
+    "4c88db7262adaa8e",
+    "583060233734a0a3",
+    "36dbc1e0756d4fe6",
+    "cc5cbd29624de0c5",
+    "76721d9ddd9df5f2",
+    "5561a50d6a040186",
+    "7b4080249ea8dd44",
+    "93104eedc6435024",
+    "97930aed370f337a",
+    "84ba76f4c33a9ee2",
+    "ef4da7d720045bd9",
+    "2122de47192500b8",
+    "bf7383ba50295392",
+    "97846bd74226098f",
+    "0c52ad33685ca806",
+    "3483df9205e334a6",
+    "d03588f123b38dfe",
+    "0f5538f2d0d7db15",
+    "e2d4b1823ec5b29d",
+    "0f75ddf7f0a5618f",
+    "84d0e470930395af",
+    "3f00b7c3cc7596cd",
+    "e9d832eebfa0de34",
+    "e75ccdf08a694556",
+    "da24fde4c2ef67b0",
+    "7d74145fbde6a0b7",
+    "115ee74db0183011",
+    "070c7fbf9125ac8f",
+    "2b74c3847dcc55c3",
+    "e40d3853426e6d93",
+    "0d79a72c25e98014",
+    "82871f8e786185f9",
+    "712fbd312d867641",
+    "33f9e9bb62489270",
+    "6342654cea875c8f",
+    "3c1f55918acca66a",
+    "c01b19f59248e536",
+    "116acb16ca4901b4",
+    "1f21867002fa927b",
+    "f639a460d0fd21a9",
+    "7662b359b351b73a",
+    "f5d14b9a77f6044b"
+   ]
+  }
+ ],
+ "fragments": {
+  "f11653be1cb67af6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril\n\nA [Lei n.º 46/90](https://diariodarepublica.pt/dr/detalhe/lei/46-1990-574166), de 22 de Agosto, que altera a [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, regula, entre outras matérias, a do destino das áreas expropriadas e nacionalizadas, estabelecendo que tais áreas são entregues para exploração a beneficiários aptos a contribuírem para os objectivos da política agrícola, nos termos da Constituição da República.\n\nNeste sentido, é estabelecida a prioridade na entrega de terras para exploração a pequenos agricultores inseridos em empresas agrícolas do tipo familiar, especialmente a jovens agricultores dotados de adequada habilitação profissional.\n\nO presente diploma sucede ao [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro, mantendo, contudo, algumas das suas ideias norteadoras, as quais, aliás, já inspiraram o [Decreto-Lei n.º 111/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1978-294675), de 27 de Maio.\n\nAssim:\n\nNo desenvolvimento do regime Jurídico estabelecido pela [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro com a redacção que lhe foi dada pela [Lei n.º 46/90](https://diariodarepublica.pt/dr/detalhe/lei/46-1990-574166), de 22 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "819190a325f90de8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regulamenta o regime da entrega em exploração dos prédios expropriados ou nacionalizados no âmbito da política de redimensionamento das unidades de exploração agrícola."
+  },
+  "7c37bc9152817caa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrega para exploração e gestão por entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrega para exploração e gestão por entidades públicas\n\n1 - Os prédios expropriados ou nacionalizados serão entregues para exploração a beneficiários dotados de capacidade profissional bastante e aptos a contribuírem para os objectivos de política agrícola, nos termos da Constituição.\n\n2 - Os prédios expropriados ou nacionalizados podem, a título excepcional, ser geridos pelo próprio Estado ou por outra pessoa colectiva pública desde que para fins de investigação agrária, de extensão rural ou de formação profissional agrária."
+  },
+  "9777d01396bf9100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição\n\nPara efeitos do presente diploma, entende-se por:\n\na)Concessão de exploração - contrato oneroso pelo qual o Estado transfere para uma empresa agrícola a gestão de um estabelecimento agrícola, conferindo-lhe o direito de o usar, fruir e administrar;\n\nb) Licença de uso privativo - contrato oneroso pelo qual o Estado consente que uma empresa agrícola explore temporária e precariamente uma determinada área agrícola;\n\nc) Pequeno agricultor - pessoa singular que utiliza permanente e predominantemente a actividade própria ou de pessoas do seu agregado doméstico, não remuneradas com salário certo e regular;\n\nd) Exploração ou empresa agrícola do tipo familiar - empresa agrícola constituída por uma pessoa singular que, com base no seu agregado doméstico, coordena factores de produção para exercer, por conta própria, a exploração de um estabelecimento agrícola;\n\ne) Jovem agricultor - pessoa singular dotada de formação profissional agrária que, à data da apresentação da candidatura à entrega em exploração, tenha mais de 18 anos e menos de 40 anos de idade;\n\nf) Capacidade profissional bastante - habilitação de um agricultor, ou a dos administradores ou gerentes da exploração de uma pessoa colectiva, com curso superior, médio, técnico-profissional ou equivalente nos domínios da agricultura, silvicultura ou pecuária ou a de quem tenha trabalhado nestas actividades como empresário agrícola, assalariado ou em regime de mão-de-obra familiar por período não inferior a três anos."
+  },
+  "50a157fb7c80dd4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Beneficiários de entrega para exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Beneficiários de entrega para exploração"
+  },
+  "4c88db7262adaa8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Critérios de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de preferência\n\n1 - Na determinação dos beneficiários da entrega para exploração de prédios expropriados ou nacionalizados terão prioridade os jovens agricultores, obedecendo a sua selecção aos seguintes critérios, por ordem de menção:\n\na) Redimensionamento de unidades minifundiárias, por forma que estas atinjam os limites mínimos fixados na tabela anexa ao presente diploma;\n\nb) Proximidade da residência em relação à área de exploração;\n\nc) Nível profissional e experiência agrícolas.\n\n2 - Na segunda ordem de prioridade serão considerados outros pequenos agricultores, inseridos em explorações do tipo familiar, obedecendo a sua selecção aos seguintes critérios, por ordem de menção:\n\na) Redimensionamento de unidades minifundiárias, por forma que estas atinjam os limites mínimos fixados na tabela anexa ao presente diploma;\n\nb) Proximidade da residência em relação à área de exploração;\n\nc) Nível profissional e experiência agrícolas.\n\n3 - Na terceira ordem de prioridade serão consideradas as cooperativas de trabalhadores rurais ou de pequenos agricultores ou outras formas de exploração por trabalhadores, obedecendo a sua selecção aos seguintes critérios, por ordem de menção:\n\na) Capacidade empresarial agrícola;\n\nb) Proximidade da exploração em relação à área a atribuir;\n\nc) Viabilidade económica e financeira."
+  },
+  "583060233734a0a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Limites de exploração e entidades excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limites de exploração e entidades excluídas\n\n1 - Nenhuma pessoa singular pode ser beneficiária de entrega para exploração de área superior ao limite máximo constante da tabela anexa ao presente diploma.\n\n2 - Não podem ser beneficiários de entrega para exploração quaisquer funcionários ou agentes do Ministério da Agricultura, Pescas e Alimentação, nem reformados, nem detentores de dívidas ao Estado."
+  },
+  "36dbc1e0756d4fe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Área de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Área de exploração"
+  },
+  "eb77acc0596f1055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Área de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Área de exploração\n\n1 - Na determinação da área dos prédios que será afecta a cada estabelecimento agrícola ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado, de forma a conseguir-se um dimensionamento e ordenamento adequado da exploração, respeitando-se os limites constantes da tabela anexa ao presente diploma.\n\n2 - Caso a área do prédio ou de parte do prédio, por si só ou conjuntamente com outras, não atinja os limites mínimos fixados no número anterior deverá a mesma ser preferencialmente destinada ao redimensionamento de explorações minifundiárias vizinhas ou da sua proximidade, nos termos previstos nos n.os 2 e 3 do artigo 4.º"
+  },
+  "76721d9ddd9df5f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Processo preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo preliminar\n\n1 - A direcção regional de agricultura em cuja área se encontre o prédio efectuará os estudos necessários para efeitos de definição da área dos prédios que será afecta a cada estabelecimento agrícola, em obediência ao disposto no artigo anterior.\n\n2 - A abertura do processo para entrega em exploração dos prédios expropriados ou nacionalizados é determinada por despacho do Ministro da Agricultura, Pescas e Alimentação, definindo a área dos prédios a afectar a cada estabelecimento agrícola e o programa do concurso."
+  },
+  "5561a50d6a040186": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Tipos de contratos de entrega para exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Tipos de contratos de entrega para exploração"
+  },
+  "7b4080249ea8dd44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dos contratos\n\n1 - A entrega para exploração dos prédios expropriados ou nacionalizados pode ser efectuada mediante:\n\na) Arrendamento rural;\n\nb) Concessão de exploração;\n\nc) Licença de uso privativo;\n\nd) Exploração de campanha.\n\n2 - Os contratos referidos nas alíneas b), c) e d) do número anterior só excepcionalmente podem ser utilizados, devendo, preferencialmente, celebrar-se o contrato de arrendamento rural."
+  },
+  "93104eedc6435024": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos direitos e deveres das partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos direitos e deveres das partes"
+  },
+  "97930aed370f337a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma\n\nTodos os contratos são obrigatoriamente reduzidos a escrito."
+  },
+  "84ba76f4c33a9ee2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Prescrição e acessão imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prescrição e acessão imobiliária\n\nOs benficiários não podem adquirir direitos por prescrição ou acessão imobiliária sobre os prédios expropriados ou nacionalizados."
+  },
+  "035e2bef52b2e170": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Transmissão e oneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transmissão e oneração\n\nOs direitos que, por meio de contrato, referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º, se adquiram sobre prédios expropriados ou nacionalizados são insusceptíveis de transmissão ou oneração."
+  },
+  "2122de47192500b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Gestão pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gestão pública\n\n1 - O Estado, ou qualquer outra pessoa colectiva pública, pode, sem se constituir na obrigação de indemnizar, resolver unilateralmente o contrato ou rescindir a relação jurídica pela qual qualquer entidade, com a exploração de um prédio expropriado ou nacionalizado, infringe o regime imperativo de uso da terra e não executa os planos de exploração aprovados.\n\n2 - O disposto no número anterior é aplicável aos casos em que as entidades explorantes tenham abandonado total ou parcialmente os respectivos estabelecimentos agrícolas, ou tenham cedido a outrem a sua exploração, ou se achem em situação de inviabilidade ou insolvência económica."
+  },
+  "bf7383ba50295392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — O contrato de arrendamento rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — O contrato de arrendamento rural"
+  },
+  "97846bd74226098f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime\n\nOs contratos de arrendamento rural relativos a prédios expropriados ou nacionalizados regular-se-ão pelo [Decreto-Lei n.º 385/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1988-354121), de 25 de Outubro (Lei do Arrendamento Rural), em tudo o que não contrariar o presente diploma."
+  },
+  "0c52ad33685ca806": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Plano de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Plano de exploração\n\n1 - Os candidatos à celebração de um contrato de arrendamento rural apresentarão um plano de exploração técnico-económico, o qual, uma vez aprovado, passará a fazer parte integrante do contrato.\n\n2 - Os serviços de gestão e estruturação fundiária do Ministério da Agricultura, Pescas e Alimentação, a pedido do interessado, apoiarão tecnicamente a elaboração do plano referido no número anterior."
+  },
+  "3483df9205e334a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Contrato de concessão em exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Contrato de concessão em exploração"
+  },
+  "d03588f123b38dfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito\n\n1 - A concessão em exploração é utilizada quando se verifique a existência prévia de um estabelecimento agrícola, universalidade de bens, ou unidade empresarial, para fins de investigação agrária, formação profissional agrária ou extensão rural.\n\n2 - O valor da prestação a pagar pelo concessionário será revisto nos termos a estabelecer no contrato."
+  },
+  "0f5538f2d0d7db15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Plano de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Plano de exploração\n\nOs candidatos à celebração de um contrato de concessão de exploração apresentarão um plano de exploração técnico-económico, para o que poderão solicitar o apoio dos serviços do Ministério da Agricultura, Pescas e Alimentação, o qual, uma vez aprovado, fará parte integrante do contrato."
+  },
+  "e2d4b1823ec5b29d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prazo\n\n1 - Os candidatos proporão um prazo para o contrato que lhes permita amortizar os investimentos previstos no plano de exploração apresentado.\n\n2 - A concessão de exploração de prédios expropriados ou nacionalizados não poderá vigorar por prazo superior ao disposto no artigo 1025.º do Código Civil.\n\n3 - O contrato vigorará pelo prazo mínimo de 10 anos, renovando-se automaticamente por períodos sucessivos de 3 anos, enquanto não for denunciado nos termos do presente diploma, até ao limite máximo previsto no número anterior."
+  },
+  "0f75ddf7f0a5618f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Denúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Denúncia\n\n1 - O concessionário pode denunciar o contrato para o fim do período contratual mediante comunicação, por carta registada com aviso de recepção, à direcção regional de agricultura competente, com a antecedência mínima de 18 meses.\n\n2 - O Estado pode denunciar o contrato para o fim do período contratual, mediante comunicação à empresa concessionária pela forma e prazo previstos no número anterior."
+  },
+  "84d0e470930395af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Rescisão\n\n1 - O Estado poderá rescindir o contrato, sem que haja lugar a pagamento de indemnização, sempre que o concessionário não cumpra as obrigações a que contratualmente se vinculou, ou se verifiquem as causas de resolução previstas para o contrato de arrendamento rural, ou nos casos previstos no artigo 12.º do presente diploma.\n\n2 - À mora no pagamento das prestações convencionadas aplica-se, com as necessárias adaptações, o disposto no artigo 12.º do [Decreto-Lei n.º 385/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1988-354121), de 25 de Outubro."
+  },
+  "3f00b7c3cc7596cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — O contrato de licença de uso privativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — O contrato de licença de uso privativo"
+  },
+  "e9d832eebfa0de34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Âmbito\n\nO contrato de licença de uso privativo só será permitido em casos resultantes de contencioso fundiário ou de direitos litigiosos sobre a terra em que se justifique a utilização precária da área a atribuir."
+  },
+  "e75ccdf08a694556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prazo\n\n1 - O contrato de licença de uso privativo é celebrado pelo prazo de um ano, renovando-se automaticamente por igual período, quando não for denunciado, nos termos do número seguinte.\n\n2 - As partes podem denunciar o contrato, para o fim do período contratual, mediante comunicação por carta registada com aviso de recepção, com a antecedência mínima de seis meses."
+  },
+  "da24fde4c2ef67b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — O contrato de exploração de campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — O contrato de exploração de campanha"
+  },
+  "7d74145fbde6a0b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime\n\nOs contratos de exploração de campanha serão celebrados por uma campanha ou por um ou mais anos até ao máximo de um ano agrícola por cada folha de cultura, sendo-lhe aplicável, com as necessárias adaptações, o regime geral."
+  },
+  "115ee74db0183011": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito\n\nOs contratos de exploração de campanha só serão utilizados a título excepcional, quando a natureza da cultura e os usos da região o justifiquem."
+  },
+  "070c7fbf9125ac8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Do processo"
+  },
+  "2b74c3847dcc55c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Formalidades de adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Formalidades de adjudicação\n\n1 - Os contratos de entrega para exploração serão precedidos de concurso público, sem prejuízo do disposto no número seguinte.\n\n2 - O contrato poderá ser celebrado mediante ajuste directo, com dispensa de concurso público, sempre que circunstâncias sócio-económicos especiais devidamente fundamentadas o justifiquem ou quando se verifique a impossibilidade de restabelecimento de direitos de exploração ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, com a redacção que lhe foi dada pela [Lei n.º 46/90](https://diariodarepublica.pt/dr/detalhe/lei/46-1990-574166), de 22 de Agosto."
+  },
+  "e40d3853426e6d93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Ajuste directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ajuste directo\n\n1 - O processo do ajuste directo iniciar-se-á com a elaboração, por parte dos serviços regionais, da respectiva proposta fundamentada, à qual se anexará minuta do contrato a celebrar.\n\n2 - O beneficiário do ajuste directo apresentará um plano de exploração técnico-económico, o qual, uma vez aprovado, passará a fazer parte integrante do contrato.\n\n3 - Após parecer do director regional, subirá a proposta para despacho do Ministro da Agricultura, Pescas e Alimentação.\n\n4 - Do conteúdo do despacho de deferimento da proposta de decisão será notificado o beneficiário, bem como da data e local para celebração do contrato."
+  },
+  "0d79a72c25e98014": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Concurso público\n\n1 - O processo do concurso público inicia-se com o despacho ministerial exarado no estudo elaborado nos termos do n.º 1 do artigo 7.º\n\n2 - Autorizado o concurso, será o respectivo programa divulgado através de editais a afixar nas zonas agrárias, na sede do município e nas juntas de freguesia de localização dos prédios em causa e publicado em pelo menos dois números consecutivos de um jornal diário de grande tiragem nacional ou, existindo, da região.\n\n3 - Do programa de concurso constará, nomeadamente, informação pormenorizada da área e localização dos prédios ou da parte deles que serão afectos a cada estabelecimento agrícola, tipo de contrato a utilizar, prazos e local para entrega de propostas.\n\n4 - O prazo de entrega das propostas não poderá ser inferior 20 dias."
+  },
+  "82871f8e786185f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apreciação das candidaturas\n\n1 - Após a apreciação das propostas, a direcção regional elaborará relatório técnico donde constem os fundamentos de facto e de direito que levaram à proposta de selecção do candidato.\n\n2 - Todos os concorrentes serão notificados, através de carta registada com aviso de recepção, do relatório final.\n\n3 - Podem os notificados reclamar da decisão, no prazo de 10 dias a contar da data da assinatura do aviso de recepção.\n\n4 - Concluídas as diligências previstas nos números anteriores e após apreciação das reclamações, o processo terá parecer do director regional de agricultura, exarado em informação com proposta de decisão final de adjudicação, após o que será remetido, acompanhado da minuta do contrato assinada pelo candidato proposto e do plano de exploração, para despacho ministerial."
+  },
+  "712fbd312d867641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Notificação da decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Notificação da decisão final\n\nA decisão final será notificada a todos os candidatos, mediante carta registada com aviso de recepção, pela direcção regional de agricultura."
+  },
+  "33f9e9bb62489270": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Execução da decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Execução da decisão final\n\n1 - Da entrega da área objecto do concurso será elaborada acta, assinada pelos beneficiários e por dois funcionários dos serviços competentes.\n\n2 - Sempre que no acto da entrega da área para exploração se verifique que existem avanços às culturas, fica o respectivo beneficiário da entrega obrigado a indemnizar o anterior possuidor das despesas de estrutura de custos já absorvidas (pesticidas, fertilizantes, correctivos de solos, sementes e propágulos), até ao valor dos frutos que vierem a ser colhidos.\n\n3 - A avaliação dos componentes da estrutura de custos a que se refere o número anterior será feita pelas competentes direcções regionais."
+  },
+  "6342654cea875c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Assinatura do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Assinatura do contrato\n\n1 - Os contratos definitivos serão assinados pelo director regional da respectiva área.\n\n2 - Os contratos referidos no artigo 8.º não carecem de exame e visto do Tribunal de Contas."
+  },
+  "3c1f55918acca66a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Documentos componentes do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Documentos componentes do contrato\n\nO instrumento contratual compõe-se de duas partes, sendo a primeira destinada às cláusulas contratuais especialmente aplicáveis a cada caso e a segunda à planta do prédio entregue para exploração e respectivo plano de exploração."
+  },
+  "c01b19f59248e536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Eficácia do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Eficácia do contrato\n\nOs instrumentos contratuais farão prova plena, em em juízo e fora dele, nomeadamente para efeitos de identificação do prédio, e constituirão título bastante para as empresas agrícolas defenderem a sua posse erga omnes."
+  },
+  "116acb16ca4901b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Disposições finais e transitórias"
+  },
+  "1f21867002fa927b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência\n\nAs competências conferidas pelo presente diploma ao Ministro da Agricultura, Pescas e Alimentação poderão ser delegadas, nos termos da lei."
+  },
+  "f639a460d0fd21a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Foro aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Foro aplicável\n\nTodos os litígios emergentes dos contratos previstos no presente diploma são da competência do contencioso administrativo."
+  },
+  "7662b359b351b73a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Rendas e outras prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Rendas e outras prestações\n\nAs rendas ou prestações devidas pelos beneficiários da entrega de terras para exploração, quer ao abrigo do presente diploma, quer no domínio da legislação anterior, serão pagas directamente na direcção regional de agricultura da respectiva área."
+  },
+  "f5d14b9a77f6044b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Legislação revogada\n\nÉ revogado o [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - António Fernando Couto dos Santos.\n\nPromulgado em 9 de Abril de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Abril de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela anexa\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/096a00/23492354.pdf)"
+  },
+  "cc5cbd29624de0c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Área de exploração",
+   "in_force_from": "2001-02-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19."
+   ],
+   "markdown": "###### Artigo 6.º — Área de exploração\n\n1 - Na determinação da área dos prédios que será afecta a cada estabelecimento agrícola ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado, de forma a conseguir-se um dimensionamento e ordenamento adequado da exploração, respeitando-se os limites constantes da tabela anexa ao presente diploma.\n\n2 - Caso a área do prédio ou de parte do prédio, por si só ou conjuntamente com outras, não atinja os limites mínimos fixados no número anterior deverá a mesma ser preferencialmente destinada ao redimensionamento de explorações minifundiárias vizinhas ou da sua proximidade, nos termos previstos nos n.os 2 e 3 do artigo 4.º\n\n3 - Exceptua-se do disposto nos números anteriores as seguintes situações:\n\na) O prédio ou parte do prédio cuja exploração constitua relevante complemento da economia do agregado familiar do agricultor, ou contribua preponderantemente para a sua integração e fixação no meio sócio-rural em que se insere;\n\nb) O prédio ou parte do prédio que, apesar de não respeitar os limites da área constantes da tabela anexa ao presente diploma, tenha vindo a ser racionalmente explorado.\n\n4 - Caberá ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas autorizar, caso a caso, sob proposta dos serviços regionais, a celebração de contratos de arrendamento rural com os agricultores que se encontrem nas situações descritas nas alíneas do número anterior, sendo requisito da autorização a ocorrência de posse de boa fé, pacífica e pública, da parcela objecto do contrato.\n\n5 - Os contratos de arrendamento já celebrados à data da entrada em vigor deste diploma são reconhecidos como válidos nos termos do disposto nos números anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19."
+  },
+  "ef4da7d720045bd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Transmissão e oneração",
+   "in_force_from": "2001-02-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19."
+   ],
+   "markdown": "###### Artigo 11.º — Transmissão e oneração\n\n1 - Os direitos que, por meio de contrato, referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º, se adquiram sobre os prédios expropriados ou nacionalizados são insusceptíveis de transmissão ou oneração.\n\n2 - O Estado pode, porém, autorizar a transmissão para o cônjuge do arrendatário, quando não separado judicialmente ou de facto, para parentes ou afins, na linha recta, que com o mesmo vivam habitualmente em comunhão de mesa e habitação ou economia comum há mais de um ano consecutivamente e para quem viva com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n3 - Os contratos referidos no n.º 1 transmitem-se também por morte do arrendatário nos mesmos termos do número anterior, contudo sem necessidade de autorização prévia.\n\n4 - As transmissões referidas nos números anteriores deferem-se pela seguinte ordem:\n\na) Ao cônjuge;\n\nb) Aos parentes ou afins em linha recta, preferindo os primeiros aos segundos, os descendentes aos ascendentes e os de grau mais próximo aos de grau mais remoto;\n\nc) À pessoa que viva, ou vivesse, com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.\n\n5 - A transmissão por morte a favor dos parentes ou afins do primitivo arrendatário, segundo a ordem constante do número anterior, também se verifica por morte do cônjuge sobrevivo quando, nos termos do número anterior, lhe tenha sido transmitido direito ao arrendamento\n\n> Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19."
+  }
+ }
+}

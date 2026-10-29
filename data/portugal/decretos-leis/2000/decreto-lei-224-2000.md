@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-05'
+version_history:
+  file: decreto-lei-224-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: pt:dre:288445:por
+    amending_title: Decreto-Lei n.º 117/2002; Decreto-Lei n.º 109/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/224/2000/09/09/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 117/2002; Decreto-Lei
+    n.º 109/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-224-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +175,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto e âmbito
 
-O presente diploma estabelece a regulamentação do Programa Operacional Pesca, doravante designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, bem como da Componente Pesca dos Programas Operacionais Regionais, adiante designada por MARIS, aplicável ao território do continente durante o período de vigência do Quadro Comunitário de Apoio para 2000-2006 (QCA III), nos termos dos Regulamentos (CE) n.os [1260/1999](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), [1263/1999](http://data.europa.eu/eli/reg/1999/1263/oj?locale=pt) e [2792/1999](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), todos do Conselho, de 21 de Junho e de 17 de Dezembro, respectivamente.
+1 - O presente diploma estabelece a regulamentação do Programa Operacional Pesca, doravante designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, bem como da componente Pesca dos programas operacionais regionais, adiante designada por MARIS, aplicável ao território do continente durante o período de vigência do Quadro Comunitário de Apoio para 2000-2006 (QCA III), nos termos dos Regulamentos (CE) n.os 1260/1999, 2792/1263 e 2792/1999, todos do Conselho, de 21 de Junho e de 17 de Dezembro, respectivamente.
+
+2 - O presente diploma aplica-se igualmente ao regime das ajudas públicas concedidas ao abrigo do Regulamento (CE) n.º 2561/2001, do Conselho, de 17 de Dezembro.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 117/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2002-288445), publicado em 2002-04-20.
 
 ###### Artigo 2.º — Objectivo e regimes de apoio
 
@@ -201,13 +221,15 @@ q) Prospecção e investigação aplicada às pescas.
 
 3 - A aplicação da MARIS pesca dos programas operacionais de âmbito regional desenvolve-se através dos seguintes domínios:
 
-a) Infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura;
+a) Equipamentos de portos de pesca e infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura;
 
 b) Qualidade e normalização dos produtos da pesca.
 
-4 - As medidas cujos objectivos sejam também concretizados através de entidades públicas ou que prossigam fins de interesse público são objecto de regulamento incluído no complemento de programação dos respectivos programas.
+4 - As medidas cujos objectivos sejam também concretizados através de entidades públicas ou que prossigam fins de interesse público regem-se pelo constante no complemento de programação dos respectivos programas.
 
 5 - Os domínios previstos nos n.os 2 e 3 são objecto de portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com excepção do previsto na alínea j), que é objecto de portaria conjunta dos Ministros do Trabalho e da Solidariedade e da Agricultura, do Desenvolvimento Rural e das Pescas, quando estejam em causa medidas de pré-reforma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 109/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2003-553429), publicado em 2003-06-04.
 
 ###### Artigo 3.º — Estrutura orgânica
 

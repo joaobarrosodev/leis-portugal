@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-11-27'
+version_history:
+  file: portaria-55-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-27'
+    amending: pt:dre:191284:por
+    amending_title: Portaria n.º 384/2012
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/55/2012/03/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:54:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 384/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2012/portaria-55-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,9 +163,11 @@ A presente portaria especifica as profissões regulamentadas abrangidas na área
 
 As profissões regulamentadas abrangidas na área do emprego são as seguintes:
 
-a) Técnico Superior de Segurança e Higiene do Trabalho;
+a) Técnico Superior de Segurança no Trabalho;
 
-b) Técnico de Segurança e Higiene do Trabalho.
+b) Técnico de Segurança no Trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2012](https://diariodarepublica.pt/dr/detalhe/portaria/384-2012-191284), publicado em 2012-11-26.
 
 ###### Artigo 3.º — Autoridade competente
 

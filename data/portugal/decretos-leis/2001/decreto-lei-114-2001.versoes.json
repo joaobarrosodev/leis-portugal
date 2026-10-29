@@ -1,0 +1,386 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:362687:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "daf3912945172776",
+    "23836370ae405d04",
+    "315c5d345aad1fcd",
+    "ad1b480424e46acc",
+    "82b41a6f9ce45266",
+    "31a33dfe73d94f1e",
+    "dbcdc4d91dd0176a",
+    "3e17db934e086b29",
+    "cd533c270e56569f",
+    "1a79139003abb9e9",
+    "93b497007859e9b1",
+    "2bea38c6b84f7856",
+    "49dbfd0a43cbf457",
+    "a49cf6d215ddfea9",
+    "8af65b4d26f0dcc5",
+    "e62bcf7f94a5bfe4",
+    "50015491c9ae91af",
+    "9c135666921b06c4",
+    "70d30b3ceecbc5f9",
+    "9314526c41d1fe35",
+    "f2569614c3fc071c",
+    "9539be69fc77bb5c",
+    "0507217692e84b09",
+    "1699907aff256f6a",
+    "e4a0a54157a14dcc",
+    "e6394005dc484d1c",
+    "2bbf99c601f7e662",
+    "fac30ad65cc78dc4",
+    "f5f436df81b5fc96",
+    "ae6525e8cf6d1862",
+    "d617a7c229359779",
+    "468a78a3f8c0f0fa",
+    "3db96590ac926611",
+    "446fc677ba96201c"
+   ]
+  },
+  {
+   "date": "2002-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:425885:por",
+     "title": "Decreto-Lei n.º 224/2002",
+     "published": "2002-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/224-2002-425885"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "daf3912945172776",
+    "23836370ae405d04",
+    "315c5d345aad1fcd",
+    "ad1b480424e46acc",
+    "82b41a6f9ce45266",
+    "31a33dfe73d94f1e",
+    "84f57e0115c0bc4b",
+    "3e17db934e086b29",
+    "cd533c270e56569f",
+    "1a79139003abb9e9",
+    "93b497007859e9b1",
+    "2bea38c6b84f7856",
+    "49dbfd0a43cbf457",
+    "a49cf6d215ddfea9",
+    "8af65b4d26f0dcc5",
+    "e62bcf7f94a5bfe4",
+    "50015491c9ae91af",
+    "9c135666921b06c4",
+    "70d30b3ceecbc5f9",
+    "9314526c41d1fe35",
+    "f2569614c3fc071c",
+    "9539be69fc77bb5c",
+    "0507217692e84b09",
+    "1699907aff256f6a",
+    "e4a0a54157a14dcc",
+    "e6394005dc484d1c",
+    "2bbf99c601f7e662",
+    "fac30ad65cc78dc4",
+    "f5f436df81b5fc96",
+    "ae6525e8cf6d1862",
+    "d617a7c229359779",
+    "468a78a3f8c0f0fa",
+    "3db96590ac926611",
+    "446fc677ba96201c"
+   ]
+  }
+ ],
+ "fragments": {
+  "daf3912945172776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Abril\n\nA energia é um bem essencial ao desenvolvimento e ao bem-estar das sociedades modernas, pelo que a garantia de um regular abastecimento energético, ou a minoração dos efeitos de eventuais perturbações nesse abastecimento, constitui uma fundamental preocupação da acção governativa.\n\nHistoricamente, já na crise petrolífera verificada nos finais de 1973, Portugal, à semelhança do que aconteceu na maioria dos países da OCDE, adoptou um conjunto de medidas restritivas do consumo dos produtos derivados do petróleo.\n\nDa mesma forma, entre 1974 e 1979, as dificuldades de abastecimento e a subida dos preços da energia, aliadas às condições económicas do País, conduziram à adopção de medidas de restrição do consumo de energia, em especial de combustíveis petrolíferos e de energia eléctrica.\n\nContudo, em qualquer daquelas situações, a imposição das medidas resultou de resoluções avulsas, não assentando num quadro legislativo específico que as enquadrasse.\n\nAcontecimentos subsequentes, como a crise do golfo Pérsico de 1991, e, mais recentemente, a greve no sector do transporte de combustíveis, colocaram em manifesta evidência a necessidade de consagração de um quadro legislativo organizado e coerente, que seja suportado por um planeamento preventivo e constantemente actualizado, susceptível de, com toda a eficácia e certeza jurídica, constituir um instrumento idóneo para permitir enfrentar situações de crise, prevendo mecanismos adequados atinentes a aplicação de medidas de carácter excepcional.\n\nCom efeito, a imprevisibilidade da ocorrência das situações de crise energética e a flexibilidade instrumental requerida para a sua gestão eficaz justificam plenamente a consagração de um quadro legislativo autónomo enquadrador das medidas e das acções susceptíveis de atenuar os seus efeitos. Estas medidas, na relevância prevalecente dos interesses gerais, poderão passar pela restrição excepcional das condições regulares do abastecimento, da partilha e rateio dos bens energéticos pelos sectores prioritários do tecido social, bem como pelas restrições à circulação de veículos.\n\nA estes factores acrescem as obrigações decorrentes da conexão da política energética a nível das instituições internacionais de que o nosso país é membro de pleno direito, em especial da União Europeia e da Agência Internacional de Energia, podendo, em certas circunstâncias, implicar a execução coordenada de medidas que podem abranger a mobilização da utilização de reservas, a restrição dos consumos e a partilha das disponibilidades de produtos petrolíferos.\n\nO presente diploma tem por finalidade estabelecer o normativo integrador do conceito de crise energética, dos requisitos da respectiva declaração, bem como do planeamento, regulamentação e aplicação das medidas excepcionais a adoptar e respectivo regime sancionatório.\n\nNo âmbito deste diploma, a definição da situação de crise energética assenta na ocorrência de dificuldades que perturbem gravemente o funcionamento do mercado, obrigando à aplicação de medidas de excepção destinadas a garantir os abastecimentos de energia essenciais à defesa do País, ao funcionamento do Estado e dos sectores prioritários da economia, bem como à satisfação das necessidades fundamentais da população. Na extensão deste conceito integram-se situações que possam ocorrer dentro ou fora do País, no sistema de aprovisionamento ou nos sistemas logísticos ou de abastecimento.\n\nPor outro lado, a definição da aplicação de medidas de carácter excepcional, que se articulará concertadamente no quadro do planeamento civil de emergência, assenta no primado da sua previsão legal.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e as entidades representativas do sector energético.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "315c5d345aad1fcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma estabelece as disposições relativas à definição de crise energética, à sua declaração e às medidas de carácter excepcional a aplicar nessa situação."
+  },
+  "ad1b480424e46acc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Situação de crise energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Situação de crise energética\n\n1 - A situação de crise energética caracteriza-se pela ocorrência de dificuldades no aprovisionamento ou na distribuição de energia que tornem necessária a aplicação de medidas excepcionais destinadas a garantir os abastecimentos energéticos essenciais à defesa, ao funcionamento do Estado e dos sectores prioritários da economia e à satisfação das necessidades fundamentais da população.\n\n2 - As dificuldades referidas no número anterior podem resultar de acontecimentos provocados por acção do homem ou da natureza, ocorridos dentro do País ou fora dele, designadamente em países membros de organizações internacionais em que Portugal se insere.\n\n3 - A previsão de circunstâncias que possam provocar, com elevada probabilidade, aquelas dificuldades é equiparada a uma situação de crise."
+  },
+  "82b41a6f9ce45266": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Declaração de situação de crise energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Declaração de situação de crise energética\n\n1 - A declaração de situação de crise energética é da competência do Governo e reveste a forma de resolução do Conselho de Ministros.\n\n2 - Quando a situação de crise energética afectar exclusivamente as Regiões Autónomas, a declaração de situação de crise energética é da competência dos respectivos Governos Regionais.\n\n3 - O disposto no número anterior não prejudica que a resolução do Conselho de Ministros possa ser extensiva a todo o território nacional.\n\n4 - A declaração da situação de crise energética é feita sem prejuízo da declaração do estado de sítio ou de emergência, ou da declaração de crise no âmbito da protecção civil, devendo harmonizar-se e articular-se com estas situações."
+  },
+  "31a33dfe73d94f1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Âmbito da resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito da resolução\n\nA resolução que declarar a situação de crise energética conterá os seguintes elementos:\n\na) Identificação dos acontecimentos que originam a situação de crise e que fundamentam a declaração;\n\nb) Definição do âmbito temporal e territorial abrangidos na declaração da situação de crise energética;\n\nc) Indicação dos tipos de medidas previstas neste diploma que poderão ser aplicadas para fazer face aos efeitos da crise energética;\n\nd) Identificação, quando necessário, das entidades ou órgãos responsáveis pela aplicação das diversas medidas e atribuição das suas competências."
+  },
+  "dbcdc4d91dd0176a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências\n\n1 - No âmbito do disposto nos artigos 3.º e 4.º, compete ao ministro que tutela o sector energético, adiante abreviadamente designado por ministro da tutela:\n\na) Propor o plano geral de resposta à situação e as medidas necessárias à implementação do plano e coordenar globalmente a sua aplicação, em articulação com os restantes ministros;\n\nb) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência, nomeadamente a Organização para Emergência Energética criada pela [Resolução do Conselho de Ministros n.º 29/92](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-1992-282079), de 18 de Agosto, para aplicação das medidas previstas e acompanhamento da evolução da situação a nível nacional e internacional;\n\nc) Propor ao Primeiro-Ministro, tendo em conta a avaliação da situação e a sua previsível evolução, a prorrogação ou a cessação da declaração de situação de crise energética.\n\n2 - Sem prejuízo do disposto no número anterior, a definição, regulamentação e implementação das medidas aplicáveis a um sector específico é da competência do respectivo ministro da tutela.\n\n3 - No caso do n.º 2 do artigo 3.º, as competências previstas neste artigo são atribuídas aos órgãos competentes dos Governos Regionais."
+  },
+  "3e17db934e086b29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Prorrogação e cessação da declaração da situação de crise energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prorrogação e cessação da declaração da situação de crise energética\n\n1 - A prorrogação ou cessação da declaração de situação de crise energética é da competência do Governo e reveste a forma de resolução do Conselho de Ministros.\n\n2 - A prorrogação da situação de crise energética pode ampliar ou restringir o conjunto de medidas inicialmente previstas na resolução do Conselho de Ministros."
+  },
+  "cd533c270e56569f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Medidas excepcionais para aplicação em situação de crise energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Medidas excepcionais para aplicação em situação de crise energética"
+  },
+  "1a79139003abb9e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Planos e medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Planos e medidas"
+  },
+  "93b497007859e9b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípios gerais\n\n1 - A resposta a uma situação de crise energética requer a formulação de planos e a execução de medidas com a finalidade de optimizar a utilização dos recursos energéticos disponíveis, tendo em atenção as prioridades que forem definidas pelo Governo.\n\n2 - O plano de resposta terá em atenção as obrigações decorrentes dos procedimentos estabelecidos e de deliberações adoptadas nesta matéria a nível de organismos internacionais de que o País participa.\n\n3 - A intervenção da Administração Pública será, tanto quanto possível, supletiva, devendo ser aproveitadas, prioritariamente, as potencialidades auto-reguladoras dos mecanismos de mercado para combater os efeitos da crise.\n\n4 - Todas as entidades, singulares ou colectivas, de direito público ou de direito privado, têm o dever de colaborar na aplicação das medidas adoptadas, observando as leis e regulamentos e acatando as ordens, instruções e conselhos emanados das entidades competentes.\n\n5 - As entidades competentes no âmbito da aplicação das medidas deverão informar e esclarecer as populações sobre a natureza e a finalidade das restrições, consciencializando-as do seu dever de cooperação e da responsabilidade e consequências que decorrem da infracção das medidas.\n\n6 - A desobediência e a resistência às ordens legítimas das entidades competentes sobre aplicações das medidas previstas neste diploma são sancionadas nos termos previstos na lei geral e neste diploma."
+  },
+  "2bea38c6b84f7856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Princípios relativos aos planos para situações de crise energética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Princípios relativos aos planos para situações de crise energética\n\n1 - Os sectores relevantes para a gestão de uma crise energética, ou que possam vir a ser especialmente afectados por essa perturbação, devem desenvolver planos sectoriais de resposta a uma situação de crise energética.\n\n2 - Sem prejuízo da coordenação pelo ministro da tutela do plano global de resposta a uma situação concreta, o desenvolvimento e a execução de planos sectoriais são da responsabilidade dos ministros com tutela sobre cada sector."
+  },
+  "49dbfd0a43cbf457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Princípios relativos às medidas de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Princípios relativos às medidas de emergência\n\n1 - A escolha e a efectiva aplicação das medidas excepcionais previstas no presente diploma devem orientar-se pelo respeito dos princípios da necessidade, proporcionalidade e adequação aos fins visados.\n\n2 - As medidas poderão ser aplicadas, quanto ao território e universo potenciais, de forma generalizada ou parcial e de modo uniforme ou diferenciado, tendo em conta os condicionalismos locais e a satisfação prioritária das necessidades essenciais.\n\n3 - As medidas podem ser executadas isoladamente ou de forma combinada, devendo assegurar-se, sempre que possível, que a aplicação de medidas actuando do lado da oferta seja complementada com medidas actuando sobre o lado da procura, por forma a melhor atenuar os desequilíbrios e as tensões existentes no mercado.\n\n4 - As medidas que afectem a livre concorrência no mercado dos bens energéticos serão aplicadas de forma transparente, imparcial e não discriminatória e, quando adequado, deverão ser ponderadas, na medida do possível, em proporção com a participação dos operadores no mercado.\n\n5 - Quando a aplicação de alguma medida implique particular prejuízo de direitos ou legítimos interesses de qualquer entidade privada, assiste-lhe o direito a uma justa indemnização, nos termos da legislação aplicável.\n\n6 - Cada ministério é responsável pela preparação e execução das medidas específicas para a sua área de competência, sem prejuízo da coordenação, necessária à eficácia global da resposta, atribuída ao ministro."
+  },
+  "a49cf6d215ddfea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Classificação das medidas excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Classificação das medidas excepcionais\n\n1 - Em situação de crise energética poderão ser adoptadas medidas excepcionais, de natureza voluntária ou compulsiva, classificáveis nos seguintes tipos:\n\na) Medidas para atenuar o desequilíbrio entre a oferta e a procura de energia;\n\nb) Medidas para optimizar a distribuição dos recursos energéticos disponíveis;\n\nc) Medidas complementares.\n\n2 - As medidas para atenuar o desequilíbrio entre a oferta e a procura de energia têm por objectivo reduzir as tensões existentes no mercado em resultado do défice de aprovisionamento, podendo actuar em duas vertentes:\n\na) Redução da procura de energia;\n\nb) Aumento da oferta de energia.\n\n3 - As medidas para optimizar a distribuição dos recursos energéticos disponíveis têm por objectivo promover a sua repartição equilibrada, garantindo o abastecimento dos consumidores prioritários e a satisfação das necessidades básicas da generalidade da população, podendo traduzir-se em medidas de:\n\na) Condicionamento dos fornecimentos de energia aos consumidores;\n\nb) Partilha dos recursos entre os operadores, a nível nacional;\n\nc) Partilha dos recursos a nível internacional, em cumprimento de decisões de organismos que vinculem o Estado Português.\n\n4 - As medidas complementares têm por objectivo assegurar a eficácia das medidas adoptadas, previstas nas alíneas a) e b) do n.º 1, apoiando a sua aplicação, podendo traduzir-se em medidas de:\n\na) Fiscalização e controlo extraordinários;\n\nb) Imposição a entidades públicas e privadas do desempenho de procedimentos e a adopção de mecanismos auxiliares para implementação das medidas extraordinárias."
+  },
+  "8af65b4d26f0dcc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Medidas para atenuar o desequilíbrio entre a oferta e a procura de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Medidas para atenuar o desequilíbrio entre a oferta e a procura de energia"
+  },
+  "e62bcf7f94a5bfe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Medidas para redução da procura de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medidas para redução da procura de energia\n\n1 - A redução da procura de energia poderá ser prosseguida através da utilização conjugada ou sequencial de medidas de natureza persuasiva e de natureza compulsiva ou ainda de medidas que contribuam indirectamente para aquela finalidade.\n\n2 - As medidas de natureza persuasiva para redução da procura de energia visam induzir os operadores e consumidores à adopção voluntária de comportamentos de poupança e uso racional de energia mediante, nomeadamente:\n\na) Campanhas informativas através dos meios de comunicação social;\n\nb) Publicação de folhetos informativos e explicativos;\n\nc) Afixação de cartazes em locais públicos;\n\nd) Acção directa de agentes do Estado ou mandatados pela Administração Pública.\n\n3 - As medidas compulsivas para redução da procura de energia visam os mesmos objectivos de poupança e uso racional da energia mediante a imposição de mecanismos que podem abranger, nomeadamente, as seguintes modalidades:\n\na) Restrições ao uso de veículos motorizados particulares, designadamente através de proibições de circulação, da proibição do uso de veículos de recreio e de realização de provas desportivas com veículos a motor, da penalização do uso de viaturas particulares em subocupação e da redução dos limites máximos de velocidade;\n\nb) Restrições aos percursos em vazio ou em subocupação de transportes públicos, comerciais e da Administração Pública, impondo a utilização mais eficiente dos meios de transporte;\n\nc) Restrições à utilização de equipamentos consumidores de energia, designadamente pela limitação de horários e níveis da iluminação, do aquecimento e da refrigeração, em edifícios e locais públicos ou privados com acesso público;\n\nd) Imposição de regras de exploração de equipamentos consumidores visando aumentar a eficiência da utilização da energia;\n\ne) Substituição do consumo de um produto deficitário pelo consumo de outra forma energética mais abundante, podendo esta substituição efectuar-se em instalações equipadas para consumir mais de um combustível, ou por transferência da laboração para outra instalação capaz de utilizar o combustível alternativo.\n\n4 - As medidas visando indirectamente a poupança de energia podem consistir, designadamente, em:\n\na) Introdução de horários diferenciados;\n\nb) Limitação de horários das emissões de televisão e do funcionamento de espectáculos;\n\nc) Agravamento das tarifas e dos preços da energia."
+  },
+  "50015491c9ae91af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Medidas para aumento da oferta de energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas para aumento da oferta de energia\n\n1 - As medidas para aumento da oferta de energia visam diminuir o défice de aprovisionamento e satisfazer a procura de bens energéticos, podendo assumir as seguintes modalidades:\n\na) Introdução no mercado das reservas obrigatórias de combustíveis, segundo os planos aprovados pelo Governo;\n\nb) Reforço da produção de bens energéticos deficitários e de fontes energéticas alternativas.\n\n2 - Para efeitos da alínea a) do número anterior, os operadores deverão ajustar os seus planos de distribuição, entregando ao mercado os volumes libertados pela redução das reservas que tenha sido determinada.\n\n3 - Para efeitos da alínea b) do n.º 1, os produtores de energia deverão ajustar os rendimentos de fabricação em conformidade com os objectivos procurados, na medida da viabilidade técnica e do custo admissível, podendo o Governo determinar ou autorizar:\n\na) A flexibilização do cumprimento de determinadas especificações dos produtos energéticos;\n\nb) A derrogação ou suspensão de determinadas normas de emissões;\n\nc) A concessão de apoio técnico e financeiro à produção e utilização de fontes energéticas alternativas."
+  },
+  "9c135666921b06c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Medidas para optimizar a distribuição dos recurso energéticos disponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Medidas para optimizar a distribuição dos recurso energéticos disponíveis"
+  },
+  "70d30b3ceecbc5f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Medidas de condicionamento dos fornecimentos de energia aos consumidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de condicionamento dos fornecimentos de energia aos consumidores\n\n1 - As medidas de condicionamento do fornecimento de energia aos consumidores visam garantir o acesso aos recursos, disciplinando o processo de aquisição e combatendo o açambarcamento, mediante a sujeição do comércio de energia a determinados procedimentos e limitações.\n\n2 - As medidas previstas no número anterior podem concretizar-se, nomeadamente, através de:\n\na) Limitação das quantidades globais de combustíveis introduzidas no mercado pelos operadores;\n\nb) Fixação de limites máximos para as quantidades de combustíveis a fornecer em cada abastecimento;\n\nc) Determinação de períodos de encerramento de postos de abastecimento de combustíveis;\n\nd) Imposição de procedimentos de venda que dificultem o açambarcamento, designadamente obrigando à devolução de taras na aquisição de gases de petróleo liquefeitos;\n\ne) Repartição dos recursos disponíveis entre os consumidores através de sistemas de racionamento;\n\nf) Cortes periódicos e selectivos de abastecimento de energia distribuída em redes de electricidade e de gás."
+  },
+  "9314526c41d1fe35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Medidas de repartição dos recursos energéticos a nível nacional e a nível internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas de repartição dos recursos energéticos a nível nacional e a nível internacional\n\n1 - A repartição dos recursos energéticos tem por objectivo equilibrar globalmente as disponibilidades e as necessidades quando ocorrem distorções significativas no aprovisionamento, com a finalidade de satisfazer as necessidades fundamentais do consumo e de minimizar a perturbação da economia.\n\n2 - As medidas de repartição dos recursos energéticos podem efectuar-se a dois níveis:\n\na) A nível internacional, no âmbito da Agência Internacional de Energia, adiante designada por AIE, sendo a repartição de produtos petrolíferos decidida e calculada a nível de países e a sua implementação intermediada pelos operadores;\n\nb) A nível nacional, o Governo poderá determinar a repartição de recursos entre os operadores energéticos, tendo em atenção a sua participação relativa no mercado em período normal, a conveniência de manter os circuitos habituais de distribuição e a sua eventual contribuição para o esquema de partilha da AIE.\n\n3 - A fim de melhor coordenarem acções e meios, os operadores energéticos poderão reunir-se, durante uma situação de crise, para acordar em acções concertadas, com vista à concretização das medidas previstas no número anterior."
+  },
+  "f2569614c3fc071c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Medidas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Medidas complementares"
+  },
+  "9539be69fc77bb5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Medidas de apoio à implementação das medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas de apoio à implementação das medidas restritivas\n\nAs medidas restritivas previstas neste diploma podem requerer, para sua melhor implementação, o apoio de algumas medidas complementares, nomeadamente:\n\na) Estabelecimento de uma rede especial de postos de abastecimento de combustíveis destinados a satisfazer os consumos das entidades prioritárias;\n\nb) Definição das entidades prioritárias que serão, total ou parcialmente, isentas da aplicação das medidas ou de determinadas medidas;\n\nc) Obrigação de apoio, por parte de operadores e de outras entidades, aos procedimentos operacionais e burocráticos associados à implementação das medidas, nomeadamente a obrigação de efectuar os controlos e verificações dos requisitos que condicionem os direitos de abastecimento dos seus clientes, nos termos fixados na regulamentação das medidas restritivas;\n\nd) Autorização de constituição de grupos ad hoc de cooperação entre os operadores para favorecer a eficácia da resposta à situação de crise, caso seja determinada a repartição de recursos."
+  },
+  "0507217692e84b09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Medidas de fiscalização e controlo da implementação das medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medidas de fiscalização e controlo da implementação das medidas restritivas\n\n1 - As medidas de fiscalização e controlo estabelecem obrigações e conferem competências excepcionais para reforçar a verificação do cumprimento das medidas restritivas impostas.\n\n2 - Estas medidas podem incluir, nomeadamente:\n\na) Obrigação de manutenção, pelos operadores e grandes consumidores, de registos de aquisições, consumo e reservas de produtos energéticos;\n\nb) Acesso das entidades administrativas competentes aos registos de compra e venda de energia de todos os intervenientes no mercado;\n\nc) Obrigação de fornecimento de dados estatísticos suplementares, a solicitação e nos prazos fixados pela Direcção-Geral da Energia."
+  },
+  "1699907aff256f6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Isenções\n\n1 - Poderão ser isentos, total ou parcialmente, do cumprimento das medidas estabelecidas ou ser inseridos em regimes particulares de abastecimento de energia:\n\na) As entidades do Estado ou da Administração Pública;\n\nb) As Forças Armadas;\n\nc) As forças de segurança;\n\nd) As entidades públicas ou privadas que prestem serviços de interesse público;\n\ne) Os deficientes e as suas associações;\n\nf) Os representantes diplomáticos;\n\ng) As actividades industriais, comerciais ou profissionais de relevante interesse para a economia nacional ou para o bem-estar da população.\n\n2 - As isenções previstas no número anterior serão definidas nos termos da regulamentação prevista no artigo 24.º do presente diploma."
+  },
+  "e4a0a54157a14dcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Obrigação de apoiar a implementação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigação de apoiar a implementação das medidas\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 7.º do presente diploma, ficam obrigados a disponibilizar os meios humanos e físicos de que disponham e necessários à execução e controlo das medidas previstas neste diploma:\n\na) Os serviços do Estado e da sua Administração e as autarquias locais;\n\nb) Forças de segurança;\n\nc) Entidades privadas, nomeadamente os operadores e consumidores do sector energético.\n\n2 - O apoio será prestado, nos termos dos planos e respectiva regulamentação, tendo em conta as capacidades existentes, independentemente das atribuições e competências próprias.\n\n3 - As entidades referidas no n.º 1 têm direito a ser compensadas pelos encargos extraordinários suportados com a disponibilização de meios e apoio concedido à execução das medidas estabelecidas, devendo os respectivos pedidos ser apresentados:\n\na) No caso de entidades públicas, ao ministro da tutela;\n\nb) No caso de entidades privadas, ao Ministro da Economia."
+  },
+  "e6394005dc484d1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Comissões ad hoc de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comissões ad hoc de cooperação\n\nAs comissões ad hoc de cooperação previstas na alínea d) do artigo 15.º podem ser constituídas por iniciativa dos operadores ou da Administração Pública, nos termos da regulamentação prevista neste diploma."
+  },
+  "2bbf99c601f7e662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Comissões arbitrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissões arbitrais\n\n1 - Sem prejuízo do recurso para os tribunais, poderão ser constituídas comissões para fixação das compensações devidas às entidades privadas em consequência da aplicação de medidas excepcionais previstas por este diploma.\n\n2 - As comissões funcionam junto do Ministro das Finanças e são constituídas por três árbitros, sendo um nomeado pelo Ministro das Finanças, outro pelo requerente e o terceiro por acordo entre as partes ou, na ausência deste, pelo juiz da Relação, nos seguintes termos:\n\na) A constituição e funcionamento da comissão é requerida ao Ministro das Finanças pelas entidades referidas no n.º 1;\n\nb) Os laudos de fixação das indemnizações só são vinculativos para o Estado quando homologados pelo Ministro das Finanças;\n\nc) Tendo a fixação de compensações sido homologada pelo Ministro das Finanças e notificada ao requerente, esta torna-se definitiva se este não recorrer para o Ministro no prazo de 30 dias;\n\nd) Os interessados podem recorrer para os tribunais, nos termos da lei geral, dos actos do Ministro das Finanças que indeferiu o recurso previsto na alínea anterior."
+  },
+  "fac30ad65cc78dc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Regime sancionatório"
+  },
+  "f5f436df81b5fc96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\n1 - Sem prejuízo do disposto no artigo 8.º, bem como dos regimes sancionatórios estabelecidos em diplomas específicos que estabeleçam sanções mais graves, constitui contra-ordenação, punível com as seguintes coimas:\n\na) De 500000$00 a 9000000$00, a desobediência ao cumprimento das medidas previstas no artigo 13.º;\n\nb) De 250000$00 a 500000$00, a violação do cumprimento das medidas previstas no artigo 14.º;\n\nc) De 200000$00 a 450000$00, a violação ao cumprimento das medidas previstas no artigo 16.º;\n\nd) De 50000$00 a 500000$00, a violação ao cumprimento das medidas previstas no artigo 12.º\n\n2 - No caso de pessoa singular, o máximo da coima a aplicar é de 750000$00.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro."
+  },
+  "ae6525e8cf6d1862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Processamento e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Processamento e aplicação de coimas\n\n1 - A instauração e instrução dos processos de contra-ordenação é da competência das entidades fiscalizadoras, dentro das suas competências de fiscalização.\n\n2 - O julgamento e a aplicação das coimas e das sanções acessórias é da competência dos órgãos máximos de direcção das entidades fiscalizadoras que tiverem instaurado e instruído os processos de contra-ordenação.\n\n3 - O montante resultante da cobrança das coimas reverte:\n\na) Em 60% para o Estado;\n\nb) Em 40% para a entidade que tiver aplicado a coima."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "468a78a3f8c0f0fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Suporte financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suporte financeiro\n\nAs verbas eventualmente necessárias para custear os encargos financeiros emergentes da aplicação das medidas previstas no presente diploma serão disponibilizados pelo Ministério das Finanças, através de rubricas orçamentais específicas."
+  },
+  "3db96590ac926611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Regulamentação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamentação das medidas\n\n1 - A regulamentação das medidas previstas no presente diploma é aprovada por portaria dos ministros que tutelam os sectores e as áreas objecto de incidência material das medidas adoptadas pela resolução do Conselho de Ministros.\n\n2 - Sem prejuízo das competências atribuídas por lei, as disposições específicas de fiscalização e controlo das medidas previstas no presente diploma serão objecto da regulamentação referida no número anterior."
+  },
+  "446fc677ba96201c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Novembro de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 23 de Março de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Março de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "84f57e0115c0bc4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": "2002-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2002-425885), publicado em 2002-10-30."
+   ],
+   "markdown": "###### Artigo 5.º — Competências\n\n1 - No âmbito do disposto nos artigos 3.º e 4.º, compete ao ministro que tutela o sector energético, adiante abreviadamente designado por ministro da tutela:\n\na) Propor o plano geral de resposta à situação e as medidas necessárias à implementação do plano e coordenar globalmente a sua aplicação, em articulação com os restantes ministros;\n\nb) Propor a activação de estruturas de crise no âmbito do planeamento civil de emergência para aplicação das medidas previstas e acompanhamento da evolução da situação nacional e internacional;\n\nc) Propor ao Primeiro-Ministro, tendo em conta a avaliação da situação e a sua previsível evolução, a prorrogação ou a cessação da declaração de situação de crise energética.\n\n2 - Sem prejuízo do disposto no número anterior, a definição, regulamentação e implementação das medidas aplicáveis a um sector específico é da competência do respectivo ministro da tutela.\n\n3 - No caso do n.º 2 do artigo 3.º, as competências previstas neste artigo são atribuídas aos órgãos competentes dos Governos Regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2002-425885), publicado em 2002-10-30."
+  }
+ }
+}

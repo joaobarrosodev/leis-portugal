@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382661:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "40039c4d483d7376"
+   ]
+  },
+  {
+   "date": "2012-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:543049:por",
+     "title": "Decreto-Lei n.º 32/2012",
+     "published": "2012-02-13",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2012-543049"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "10883d2401e63914",
+    "0abebf11ddd8a18f",
+    "db85fa20cac08b32",
+    "186962099c9a8db3",
+    "7c55c9f4ff92d74a",
+    "fafc9b05aab7ada3",
+    "17328d2a5bfb5928",
+    "7edeca5eb5a7e406",
+    "0ae0545690011799",
+    "76c2243d4dbac5d0",
+    "fe1ccf2a3b845c8d",
+    "8179f39a01511b07",
+    "54e83ec1d31c1c3f",
+    "fa0801d051da2c5d"
+   ]
+  }
+ ],
+ "fragments": {
+  "40039c4d483d7376": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio\n\nDa indefinição do regime aplicável ao pessoal dos organismos de coordenação económica e dos organismos corporativos de constituição obrigatória, dependentes do ex-Ministério da Economia (estes quase todos extintos ao abrigo do disposto no [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro), resultou que, se aquele pessoal estava equiparado ao funcionalismo público relativamente às suas categorias profissionais, às remunerações que, correspondentemente, lhe eram atribuídas, nomeadamente ajudas de custo, já o mesmo não se verificava quanto ao regime de previdência, ficando, no que respeita à reforma, por exemplo, numa situação de manifesta desigualdade.\n\nCom efeito, os funcionários públicos estão inscritos na Caixa Geral de Aposentações, enquanto o pessoal dos organismos se encontra inscrito na Caixa Nacional de Pensões. Da diferença de regimes aplicáveis a estas duas entidades resulta que, enquanto os funcionários públicos, com quarenta anos de serviço, recebem, como pensão, o vencimento correspondente ao último cargo exercido, o que significa receber o vencimento por inteiro, o pessoal dos organismos com os mesmos anos de serviço tem a sua reforma limitada a 70% da média dos melhores cinco anos dos últimos dez com entrada de contribuições, o que praticamente pode corresponder, no máximo, a 70% do último vencimento.\n\nTal desigualdade tem provocado consequências bastante gravosas, quer para o pessoal em questão, quer para a eficiência e economia dos próprios organismos, e impõe-se pôr-lhe termo, facilitando as reformas, através da equiparação de situações com os funcionários públicos, o que vai permitir, inclusivamente, o redimensionamento dos quadros dos organismos em questão.\n\nAdoptou-se, para o efeito, o regime já seguido no [Decreto-Lei n.º 562/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1977-404683), de 31 de Dezembro, atribuindo-se ao referido pessoal pensões complementares da sua pensão de aposentação ou reforma, por forma que o montante total das mesmas seja igual ao que resultaria se lhes fosse aplicável a forma de cálculo determinada pelo Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.\n\nPor outro lado, o referido pessoal passa a estar inscrito obrigatoriamente na Caixa Geral de Aposentações. Satisfaz-se, assim, uma pretensão que vem de longe e termina-se com uma situação que criava graves problemas de ordem social e na própria vida administrativa dos organismos.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - A partir da data da entrada em vigor deste diploma, o pessoal ao serviço dos organismos de coordenação económica, da Comissão de Viticultura da Região dos Vinhos Verdes, da Federação dos Vinicultores da Região do Douro e da Adega Regional de Colares passa a estar inscrito obrigatoriamente na Caixa Geral de Aposentações, aplicando-se-lhe o disposto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e legislação complementar.\n\n2 - O disposto no número anterior implica a inscrição na Assistência na Doença aos Servidores Civis do Estado (ADSE), ficando o pessoal nele abrangido a coberto do regime de protecção na doença, nos termos gerais em vigor na função pública.\n\n3 - Manterá a inscrição na Caixa Nacional de Pensões o pessoal que não possa ser inscrito na Caixa Geral de Aposentações, por força das excepções previstas no diploma a que se alude no n.º 1.\n\nArt. 2.º - 1 - O pessoal referido no artigo 1.º do presente decreto-lei que, à data da sua entrada em vigor, tenha 70 ou mais anos de idade cessa imediatamente as respectivas funções, sem prejuízo dos direitos que, em matéria de segurança social, lhe estejam atribuídos em lei geral ou especial ou nos termos deste decreto-lei.\n\n2 - Cessa igualmente o exercício de funções o pessoal que for atingindo os 70 anos de idade.\n\nArt. 3.º - O pessoal ao serviço dos organismos mencionados no artigo 1.º, com excepção do que for admitido posteriormente à data da entrada em vigor deste decreto-lei, quando se aposentar ou reformar, terá direito a pensões complementares das que lhe sejam atribuídas, de modo que o montante total das suas pensões seja igual ao que resultaria se lhes fosse aplicável a forma de cálculo determinada no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188).\n\n2 - Para o cálculo das pensões complementares será contado todo o tempo de serviço prestado, incluindo o anterior à data de inscrição na Caixa Nacional de Pensões.\n\n3 - O Ministro da respectiva pasta autorizará os organismos citados no artigo 1.º ou outras entidades públicas dotadas de orçamento próprio dependentes do seu Ministério a despender as importâncias correspondentes às pensões complementares de aposentação ou reforma, individualizando-se no respectivo despacho os beneficiários, bem como os quantitativos dos complementos que lhes forem atribuídos.\n\nArt. 4.º - 1 - O disposto no artigo 3.º será também aplicável ao pessoal que esteve ao serviço de organismos de coordenação económica, bem como de organismos corporativos cuja extinção foi determinada pelo [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, e que, por ter sido integrado em serviços públicos ou lhe ter sido aplicado o regime da função pública, passou a descontar para a Caixa Geral de Aposentações.\n\n2 - Os encargos com as pensões complementares de reforma atribuídas por força do disposto no n.º 1 deste artigo serão suportados pelos serviços em que o pessoal tenha sido integrado ou por outras entidades públicas, nos mesmos termos da última parte do n.º 3 do artigo 3.º\n\nArt. 5.º No caso de serem extintos os organismos ou serviços aos quais venha a competir o encargo com o pagamento de pensões complementares de aposentação ou reforma, nos termos deste diploma, será indicada, por despacho dos Ministros competentes, a entidade que assumirá o encargo com o pagamento daquelas pensões.\n\nArt. 6.º - 1 - As pensões globais devidas nos termos dos artigos anteriores serão pagas pela Caixa Geral de Aposentações, que receberá da Caixa Nacional de Pensões e dos serviços e organismos, aos quais for cometido o encargo com as pensões complementares, a quota-parte da pensão da responsabilidade daquela instituição e de cada um dos mesmos serviços ou organismos, de harmonia com o regime estabelecido no artigo 15.º, no n.º 3 do artigo 53.º e nos n.os 4 e 5 do artigo 63.º do Estatuto da Aposentação.\n\n2 - Sempre que haja qualquer aumento nas pensões de aposentação ou reforma, os serviços e organismos aos quais cabe o encargo com as pensões complementares ajustarão os quantitativos destas, por forma que se mantenha o princípio expresso na parte final do n.º 1 do artigo 3.º\n\n3 - A entrega das importâncias a que aludem os números anteriores far-se-á através de contas correntes, a abrir na Caixa Nacional de Previdência, entre a Caixa Geral de Aposentações e a Caixa Nacional de Pensões e entre aquela instituição e os serviços e organismos que responderem pelas pensões complementares.\n\nArt. 7.º - 1 - O pessoal abrangido por este diploma, ao qual seja aplicável o disposto no n.º 1 do artigo 3.º e artigos 4.º e 6.º, beneficiará do mesmo regime no que respeita a pensões de sobrevivência, em conformidade com o [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e em tudo quanto não colida com o que se dispõe no presente decreto-lei sobre esta matéria.\n\n2 - Quando se trate de tempo sobreposto e não sucessivo, relativo ao exercício da mesma função retribuída por serviços ou organismos do Estado, o pessoal abrangido pelo regime descrito no n.º 1 deste artigo, ou os seus herdeiros hábeis, não tem a faculdade de requerer a retroactividade da inscrição no Montepio dos Servidores do Estado, a que se referem os artigos 8.º, 9.º, 10.º e 25.º do respectivo Estatuto, quando essa retroacção venha a abranger tempo já considerado para atribuição de pensões de sobrevivência pela Caixa Nacional de Pensões e respectivos complementos pelos serviços e organismos.\n\n3 - Para completar o prazo de garantia a que alude o n.º 1 do artigo 26.º do Estatuto das Pensões de Sobrevivência é permitido contar o tempo de serviço previsto no número anterior.\n\nArt. 8.º O valor a ter em conta na fixação de pensões mínimas, para os efeitos deste diploma, será o quantitativo global que resultar das regras aplicáveis à Caixa Geral de Aposentações e à Caixa Nacional de Pensões.\n\nArt. 9.º Até que as pensões de aposentação e reforma passem a constituir encargo das entidades referidas nos artigos 6.º e 7.º, caberá aos respectivos serviços e organismos o pagamento de pensões provisórias e complementares a que houver lugar, nos termos deste diploma, devendo proceder-se aos necessários ajustamentos logo que aquele encargo seja assumido pelas mesmas entidades.\n\nArt. 10.º Ao subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo n.º 1 do artigo 3.º\n\nArt. 11.º - 1 - Os organismos abrangidos por este diploma serão autorizados, por despacho do Ministro da respectiva pasta, a afectar as verbas necessárias à sua execução.\n\n2 - Os serviços a que se refere o n.º 2 do artigo 4.º promoverão as diligências indispensáveis à inscrição das verbas necessárias à execução do presente diploma.\n\nArt. 12.º As dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro da respectiva pasta e do Secretário de Estado da Administração Pública, sob parecer da Caixa Geral de Aposentações.\n\nArt. 13.º O presente diploma entra em vigor trinta dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - Abel Pinto Repolho Correia - Acácio Manuel Pereira Magro.\n\nPromulgado em 10 de Maio de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "10883d2401e63914": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Maio\n\nDa indefinição do regime aplicável ao pessoal dos organismos de coordenação económica e dos organismos corporativos de constituição obrigatória, dependentes do ex-Ministério da Economia (estes quase todos extintos ao abrigo do disposto no [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro), resultou que, se aquele pessoal estava equiparado ao funcionalismo público relativamente às suas categorias profissionais, às remunerações que, correspondentemente, lhe eram atribuídas, nomeadamente ajudas de custo, já o mesmo não se verificava quanto ao regime de previdência, ficando, no que respeita à reforma, por exemplo, numa situação de manifesta desigualdade.\n\nCom efeito, os funcionários públicos estão inscritos na Caixa Geral de Aposentações, enquanto o pessoal dos organismos se encontra inscrito na Caixa Nacional de Pensões. Da diferença de regimes aplicáveis a estas duas entidades resulta que, enquanto os funcionários públicos, com quarenta anos de serviço, recebem, como pensão, o vencimento correspondente ao último cargo exercido, o que significa receber o vencimento por inteiro, o pessoal dos organismos com os mesmos anos de serviço tem a sua reforma limitada a 70% da média dos melhores cinco anos dos últimos dez com entrada de contribuições, o que praticamente pode corresponder, no máximo, a 70% do último vencimento.\n\nTal desigualdade tem provocado consequências bastante gravosas, quer para o pessoal em questão, quer para a eficiência e economia dos próprios organismos, e impõe-se pôr-lhe termo, facilitando as reformas, através da equiparação de situações com os funcionários públicos, o que vai permitir, inclusivamente, o redimensionamento dos quadros dos organismos em questão.\n\nAdoptou-se, para o efeito, o regime já seguido no [Decreto-Lei n.º 562/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/562-1977-404683), de 31 de Dezembro, atribuindo-se ao referido pessoal pensões complementares da sua pensão de aposentação ou reforma, por forma que o montante total das mesmas seja igual ao que resultaria se lhes fosse aplicável a forma de cálculo determinada pelo Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.\n\nPor outro lado, o referido pessoal passa a estar inscrito obrigatoriamente na Caixa Geral de Aposentações. Satisfaz-se, assim, uma pretensão que vem de longe e termina-se com uma situação que criava graves problemas de ordem social e na própria vida administrativa dos organismos.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "0abebf11ddd8a18f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A partir da data da entrada em vigor deste diploma, o pessoal ao serviço dos organismos de coordenação económica, da Comissão de Viticultura da Região dos Vinhos Verdes, da Federação dos Vinicultores da Região do Douro e da Adega Regional de Colares passa a estar inscrito obrigatoriamente na Caixa Geral de Aposentações, aplicando-se-lhe o disposto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e legislação complementar.\n\n2 - O disposto no número anterior implica a inscrição na Assistência na Doença aos Servidores Civis do Estado (ADSE), ficando o pessoal nele abrangido a coberto do regime de protecção na doença, nos termos gerais em vigor na função pública.\n\n3 - Manterá a inscrição na Caixa Nacional de Pensões o pessoal que não possa ser inscrito na Caixa Geral de Aposentações, por força das excepções previstas no diploma a que se alude no n.º 1."
+  },
+  "db85fa20cac08b32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O pessoal referido no artigo 1.º do presente decreto-lei que, à data da sua entrada em vigor, tenha 70 ou mais anos de idade cessa imediatamente as respectivas funções, sem prejuízo dos direitos que, em matéria de segurança social, lhe estejam atribuídos em lei geral ou especial ou nos termos deste decreto-lei.\n\n2 - Cessa igualmente o exercício de funções o pessoal que for atingindo os 70 anos de idade."
+  },
+  "186962099c9a8db3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º-O",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-O\n\npessoal ao serviço dos organismos mencionados no artigo 1.º, com excepção do que for admitido posteriormente à data da entrada em vigor deste decreto-lei, quando se aposentar ou reformar, terá direito a pensões complementares das que lhe sejam atribuídas, de modo que o montante total das suas pensões seja igual ao que resultaria se lhes fosse aplicável a forma de cálculo determinada no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188).\n\n2 - Para o cálculo das pensões complementares será contado todo o tempo de serviço prestado, incluindo o anterior à data de inscrição na Caixa Nacional de Pensões.\n\n3 - O Ministro da respectiva pasta autorizará os organismos citados no artigo 1.º ou outras entidades públicas dotadas de orçamento próprio dependentes do seu Ministério a despender as importâncias correspondentes às pensões complementares de aposentação ou reforma, individualizando-se no respectivo despacho os beneficiários, bem como os quantitativos dos complementos que lhes forem atribuídos."
+  },
+  "7c55c9f4ff92d74a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O disposto no artigo 3.º será também aplicável ao pessoal que esteve ao serviço de organismos de coordenação económica, bem como de organismos corporativos cuja extinção foi determinada pelo [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, e que, por ter sido integrado em serviços públicos ou lhe ter sido aplicado o regime da função pública, passou a descontar para a Caixa Geral de Aposentações.\n\n2 - Os encargos com as pensões complementares de reforma atribuídas por força do disposto no n.º 1 deste artigo serão suportados pelos serviços em que o pessoal tenha sido integrado ou por outras entidades públicas, nos mesmos termos da última parte do n.º 3 do artigo 3.º"
+  },
+  "fafc9b05aab7ada3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo caso de serem extintos os organismos ou serviços aos quais venha a competir o encargo com o pagamento de pensões complementares de aposentação ou reforma, nos termos deste diploma, será indicada, por despacho dos Ministros competentes, a entidade que assumirá o encargo com o pagamento daquelas pensões."
+  },
+  "17328d2a5bfb5928": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - As pensões globais devidas nos termos dos artigos anteriores serão pagas pela Caixa Geral de Aposentações, que receberá da Caixa Nacional de Pensões e dos serviços e organismos, aos quais for cometido o encargo com as pensões complementares, a quota-parte da pensão da responsabilidade daquela instituição e de cada um dos mesmos serviços ou organismos, de harmonia com o regime estabelecido no artigo 15.º, no n.º 3 do artigo 53.º e nos n.os 4 e 5 do artigo 63.º do Estatuto da Aposentação.\n\n2 - Sempre que haja qualquer aumento nas pensões de aposentação ou reforma, os serviços e organismos aos quais cabe o encargo com as pensões complementares ajustarão os quantitativos destas, por forma que se mantenha o princípio expresso na parte final do n.º 1 do artigo 3.º\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+  },
+  "7edeca5eb5a7e406": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O pessoal abrangido por este diploma, ao qual seja aplicável o disposto no n.º 1 do artigo 3.º e artigos 4.º e 6.º, beneficiará do mesmo regime no que respeita a pensões de sobrevivência, em conformidade com o [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e em tudo quanto não colida com o que se dispõe no presente decreto-lei sobre esta matéria.\n\n2 - Quando se trate de tempo sobreposto e não sucessivo, relativo ao exercício da mesma função retribuída por serviços ou organismos do Estado, o pessoal abrangido pelo regime descrito no n.º 1 deste artigo, ou os seus herdeiros hábeis, não tem a faculdade de requerer a retroactividade da inscrição no Montepio dos Servidores do Estado, a que se referem os artigos 8.º, 9.º, 10.º e 25.º do respectivo Estatuto, quando essa retroacção venha a abranger tempo já considerado para atribuição de pensões de sobrevivência pela Caixa Nacional de Pensões e respectivos complementos pelos serviços e organismos.\n\n3 - Para completar o prazo de garantia a que alude o n.º 1 do artigo 26.º do Estatuto das Pensões de Sobrevivência é permitido contar o tempo de serviço previsto no número anterior."
+  },
+  "0ae0545690011799": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO valor a ter em conta na fixação de pensões mínimas, para os efeitos deste diploma, será o quantitativo global que resultar das regras aplicáveis à Caixa Geral de Aposentações e à Caixa Nacional de Pensões."
+  },
+  "76c2243d4dbac5d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+  },
+  "fe1ccf2a3b845c8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAo subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo n.º 1 do artigo 3.º"
+  },
+  "8179f39a01511b07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2012-02-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 76.º do/a [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), publicado em 2012-02-13."
+  },
+  "54e83ec1d31c1c3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs dúvidas suscitadas na aplicação deste decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano, do Ministro da respectiva pasta e do Secretário de Estado da Administração Pública, sob parecer da Caixa Geral de Aposentações."
+  },
+  "fa0801d051da2c5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente diploma entra em vigor trinta dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - Abel Pinto Repolho Correia - Acácio Manuel Pereira Magro.\n\nPromulgado em 10 de Maio de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

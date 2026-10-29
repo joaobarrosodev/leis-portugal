@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614347:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bd0f3c89036491d",
+    "6db3b46f3c31d10e",
+    "56ccd36ce87e1a27",
+    "580a9f87bcd44e9c",
+    "3d43ec68ad743379",
+    "1019755326c1aa72"
+   ]
+  },
+  {
+   "date": "2005-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:148001:por",
+     "title": "Decreto-Lei n.º 165/2005",
+     "published": "2005-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/165-2005-148001"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "2bd0f3c89036491d",
+    "6db3b46f3c31d10e",
+    "a65f4c8e9ffdb8f3",
+    "580a9f87bcd44e9c",
+    "3d43ec68ad743379",
+    "1019755326c1aa72"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bd0f3c89036491d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro\n\nO INOFOR - Instituto para a Inovação na Formação foi criado através do [Decreto-Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1997-385209), de 12 de Maio, para dar resposta imediata a uma necessidade urgente do sistema nacional de formação profissional: a existência de uma entidade pública que desenvolvesse, com carácter de permanência, as tarefas de conceber, desenvolver, avaliar e contribuir para a generalização de metodologias, programas e instrumentos necessários à plena valorização dos recursos humanos no quadro da evolução dos sistemas social e produtivo, das tecnologias e da organização do trabalho, que nessa medida se constituísse como suporte da intervenção operacional dos serviços do Ministério do Trabalho e da Solidariedade e demais entidades públicas e privadas ligadas ao sector da formação e inserção profissional, ao nível da investigação e da inovação na formação.\n\nA exigência técnica das atribuições cometidas ao INOFOR torna indispensável que os respectivos recursos humanos integrem profissionais qualificados no domínio da inovação e formação profissional.\n\nEm face da necessidade de dotar o INOFOR no momento da sua criação com os recursos necessários à sua entrada em funcionamento imediata, iniciando o desenvolvimento de projectos fundamentais para a adequação do sistema nacional de formação às necessidades da procura formativa do País, bem como para poder desenvolver a importante competência que lhe foi cometida no âmbito da acreditação de entidades formadoras, o referido Instituto recorreu aos instrumentos de contratação de pessoal a título provisório previstos na lei geral do trabalho, nos termos da alínea b) do n.º 4 do artigo 21.º do [Decreto-Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1997-385209), de 12 de Maio.\n\nEfectivamente, as tentativas de recrutamento de pessoal através dos instrumentos de mobilidade resultaram infrutíferas, o que evidencia a dificuldade, no âmbito da função pública, dos perfis de competências necessários ao INOFOR, mercê da exigência e especificidade técnica das suas atribuições.\n\nAs vicissitudes envolvidas com a instalação de um novo Instituto Público, com a implantação de raiz de novos procedimentos e métodos de trabalho e com a sedimentação das respectivas competências, âmbitos de actuação e projectos a desenvolver, contribuíram para que, até à data, não se lograsse a necessária estabilização e adequação às respectivas exigências de funcionamento do quadro de pessoal do INOFOR.\n\nPassadas que estão as fases de instalação do Instituto e de estabilização das suas funções e tarefas no quadro do apoio à política nacional de formação profissional, torna-se claro que o pessoal existente é manifestamente insuficiente para dar cumprimento às atribuições que são cometidas ao INOFOR. A existência de um elevado número de vagas no seu quadro de pessoal, aprovado pela [Portaria n.º 1197/97](https://diariodarepublica.pt/dr/detalhe/portaria/1197-1997-406360), de 28 de Novembro, é o melhor espelho desta situação.\n\nPor outro lado, o desenvolvimento das funções do INOFOR, em particular aquelas que se situam directamente nos domínios da inovação e qualidade do sistema de formação profissional, exigem um corpo de colaboradores estável, qualificado e coeso, e com um perfil profissional exigente em áreas técnicas específicas.\n\nImporta, por isso, promover, na presente fase, de forma crucial, o aproveitamento do inestimável capital de experiência acumulado nos três anos de trabalho desenvolvido até ao presente.\n\nNesta medida, está em fase de ultimação um processo de descongelamento das vagas existentes e por preencher do quadro de pessoal do INOFOR, a que se seguirá, no mais curto período de tempo possível, o lançamento dos concursos públicos necessários ao seu preenchimento.\n\nNão obstante, é absolutamente imperioso assegurar a imediata disponibilidade dos meios necessários, designadamente, para assegurar a continuidade de projectos na área da monitorização de percursos profissionais e de definição de perfis no âmbito do sistema nacional de formação, que foram lançados e que são indispensáveis à promoção da qualidade do sistema de formação profissional e à garantia da boa aplicação dos fundos estruturais nestes domínios. Estes projectos encontram-se em fase de execução e os profissionais que os lançaram são imprescindíveis à conclusão da sua implementação.\n\nÉ, assim, essencial criar as condições para que não seja desperdiçada a experiência e o know how acumulados no trabalho desenvolvido até à data, tanto mais que estamos na presença de um conjunto de tarefas que vêm sendo realizadas de forma inovadora e autónoma por um organismo pela primeira vez especificamente vocacionado para o efeito.\n\nPor outro lado, há que garantir a capacidade de resposta do INOFOR, adequando o volume de pessoal às exigências decorrentes das suas atribuições.\n\nAssim, ao abrigo do disposto na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "6db3b46f3c31d10e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Contratos administrativos de provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Contratos administrativos de provimento\n\nDurante o período de 90 dias, contados da data de entrada em vigor do presente diploma, o INOFOR - Instituto para a Inovação na Formação pode celebrar contratos administrativos de provimento para as categorias de ingresso das carreiras indicadas no artigo 4.º"
+  },
+  "56ccd36ce87e1a27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Duração e limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Duração e limite\n\nOs contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até um limite de cinco anos, se não forem oportunamente denunciados nos termos da lei geral."
+  },
+  "580a9f87bcd44e9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recrutamento\n\n1 - Está em condições de celebrar os contratos de provimento referidos no artigo 1.º o pessoal em exercício de funções no INOFOR em 30 de Agosto de 2000, em regime de contrato individual de trabalho a termo.\n\n2 - Os contratos que vierem a ser celebrados ao abrigo do artigo 1.º e nos termos do número anterior produzem efeitos à data de 1 de Setembro de 2000."
+  },
+  "3d43ec68ad743379": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Limite",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limite\n\nO número máximo de contratos a celebrar por carreira, ao abrigo do artigo 1.º e nos termos do n.º 1 do artigo anterior, para as categorias de ingresso das carreiras do regime geral é o seguinte:\n\na) 54 para a carreira técnica superior;\n\nb) 1 para a carreira técnica;\n\nc) 11 para a carreira de assistente administrativo;\n\nd) 1 para a carreira de programador;\n\ne) 1 para a carreira de motorista;\n\nf) 2 para a carreira de auxiliar administrativo;\n\ng) 2 para a carreira de telefonista."
+  },
+  "1019755326c1aa72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no 5.º dia posterior ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.\n\nPromulgado em 16 de Outubro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Outubro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "a65f4c8e9ffdb8f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Duração e limite",
+   "in_force_from": "2005-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), publicado em 2005-09-22."
+   ],
+   "markdown": "###### Artigo 2.º — Duração e limite\n\nOs contratos referidos no número anterior têm a duração de um ano, tácita e sucessivamente renováveis até ao limite de seis anos, se não forem oportunamente denunciados nos termos da lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 165/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2005-148001), publicado em 2005-09-22."
+  }
+ }
+}

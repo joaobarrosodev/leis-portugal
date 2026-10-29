@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-18'
+version_history:
+  file: decreto-lei-243-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-18'
+    amending: pt:dre:480916:por
+    amending_title: Decreto-Lei n.º 188/2004
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/243/2002/11/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:33:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 188/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-243-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,6 +222,12 @@ O IGAPHE, criado pelo [Decreto-Lei n.º 88/87](https://diariodarepublica.pt/dr/d
 4 - A transferência de património, prevista no n.º 2, efectua-se com dispensa de quaisquer formalidades, salvo de registo, quando necessário.
 
 5 - Exceptuam-se do disposto no n.º 2 do presente artigo os terrenos cujos processos de concurso para alienação hajam já sido iniciados e que continuem a ser desenvolvidos pelo IGAPHE até ao seu termo.
+
+6 - Sem prejuízo do disposto no n.º 1 do presente artigo, reverte ainda para o domínio privado do Estado o património imobiliário edificado próprio do IGAPHE constante de lista a elaborar para o efeito pelo IGAPHE e aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, na data indicada no referido despacho.
+
+7 - O património a que se refere o número anterior é alienado ao INH, por ajuste directo, nos termos referidos no n.º 4, de acordo com o n.º 6 do artigo 3.º da Lei n.º 107-B/2003, de 31 de Dezembro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2004-480916), publicado em 2004-08-17.
 
 ###### Artigo 4.º — Extinção de serviços do Instituto de Gestão e Alienação do Património Habitacional do Estado
 

@@ -38,10 +38,25 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-09-08'
+version_history:
+  file: decreto-lei-47-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-02-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-09-08'
+    amending: pt:dre:73958532:por
+    amending_title: Lei n.º 7-A/2016; Decreto-Lei n.º 113/2017
+    changes:
+    - Altera Artigo 22.º
+    - Revoga Artigo 22.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/47/2005/02/24/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 7-A/2016; Decreto-Lei n.º
+    113/2017. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-47-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -470,11 +486,11 @@ b) Administrar os impostos especiais sobre o consumo.
 
 ###### Artigo 22.º — Fundo de Estabilização Aduaneiro e Fundo de Estabilização Tributário
 
-1 - O FEA é um fundo autónomo não personalizado, gerido pela DGAIEC, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro.
+(Revogado.)
 
-2 - O FET é um fundo autónomo não personalizado, gerido em conjunto pela DGCI e pela DGITA e regulado pelo [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, sendo o rendimento do património afecto a obras sociais e ao pagamento dos suplementos atribuídos em função de particularidades específicas da prestação de trabalho dos funcionários e agentes da DGCI e da DGITA.
+> Alterado pelo/a Artigo 202.º do/a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), publicado em 2016-03-30.
 
-3 - São receitas do FET, nos termos da lei em vigor, um montante até 5% das cobranças coercivas derivadas de processos instaurados nos serviços da DGCI e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, montante que será definido, anualmente, mediante portaria do MFAP, bem como as receitas previstas no artigo 5.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, e no artigo 4.º do [Decreto-Lei n.º 303/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), de 5 de Dezembro.
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 113/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), publicado em 2017-09-07.
 
 ###### Artigo 23.º — Fundo de Regularização da Dívida Pública
 

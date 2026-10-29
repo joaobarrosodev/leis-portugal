@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405938:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cc03fd35d532f9bb",
+    "d5a4e72e38a64b48",
+    "55a684367cded97c",
+    "a48130e64af37b87"
+   ]
+  },
+  {
+   "date": "2002-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153105:por",
+     "title": "Decreto-Lei n.º 153/2002",
+     "published": "2002-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/153-2002-153105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "cc03fd35d532f9bb",
+    "8fc8d989ac922d7e",
+    "55a684367cded97c",
+    "a48130e64af37b87"
+   ]
+  }
+ ],
+ "fragments": {
+  "cc03fd35d532f9bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Janeiro\n\nConsiderando que os espaços afectos aos organismos tutelados pelo Ministério da Cultura revestem características únicas de que resulta a solicitação, por diversas entidades, da cedência de tais espaços para a realização de eventos, fora do horário normal do respectivo funcionamento, podendo excepcionalmente entender-se que, pelos efeitos de imagem envolvidos, poderá a cedência dos mesmos espaços implicar, ainda que de forma indirecta, a representação do Estado;\n\nConsiderando que a utilização desses espaços requer necessariamente a prestação de serviços de apoio por funcionários do Ministério da Cultura e organismos sob a sua tutela, bem como frequentemente o apoio de funcionários do Ministério dos Negócios Estrangeiros;\n\nConsiderando que, ao contrário do previsto no [Decreto-Lei n.º 232/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1986-218906), de 14 de Agosto, que estabeleceu uma retribuição pela prestação desses serviços aos funcionários do Ministério dos Negócios Estrangeiros, não existe dispositivo legal na matéria para os funcionários do Ministério da Cultura e dos organismos sob a sua tutela;\n\nConsiderando que foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d5a4e72e38a64b48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs funcionários das carreiras de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, tem direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública."
+  },
+  "55a684367cded97c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA retribuição prevista no presente diploma não é cumulável com o pagamento de horas extraordinárias."
+  },
+  "a48130e64af37b87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos, directos ou indirectos, decorrentes do previsto no artigo 1.º são integralmente suportados pelas receitas resultantes da cedência dos espaços e da prestação de serviços a entidades privadas utilizadoras.\n\nVisto e aprovado em Conselho de Ministros de 30 de Novembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Manuel Maria Ferreira Carrilho - Alberto de Sousa Martins.\n\nPromulgado em 5 de Janeiro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Janeiro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8fc8d989ac922d7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2002-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 153/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2002-153105), publicado em 2002-05-28."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs funcionários das carreiras de vigilante-recepcionista, de pessoal operário e auxiliar do Ministério da Cultura e organismos tutelados que forem designados para o serviço de apoio nos espaços dos organismos tutelados, aquando da cedência dos mesmos, fora do horário normal de trabalho, têm direito, por cada acto para que forem escalados, a uma retribuição que será fixada conjuntamente em tabela a aprovar por despacho conjunto dos Ministros das Finanças, da Cultura e da Reforma do Estado e da Administração Pública.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 153/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2002-153105), publicado em 2002-05-28."
+  }
+ }
+}

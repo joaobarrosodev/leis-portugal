@@ -1,0 +1,357 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141831:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9305084131330532",
+    "23836370ae405d04",
+    "10c4c19f85ec4998",
+    "005f20cdbdf157d5",
+    "d0cd7889806fd2a7",
+    "68f8cd1ee9ae6537",
+    "d52ce26165b159e0",
+    "697b11c8af4498f6",
+    "bf411d0efd2a6d46",
+    "939daf95feec76bc",
+    "fe76799e2fecf648",
+    "eafde24ba49f84f0",
+    "1807048c6a3cbf8d",
+    "21c533194f3794cd",
+    "af06a97d94a2bc57",
+    "465174494d99228e",
+    "66e029fdea649349",
+    "49ec7d72bcf5cfb3",
+    "9c9736e9795fa910",
+    "4f2c59b363ae592a",
+    "1793fa868ff9857f",
+    "8f08e0c8afd6f512",
+    "6e0b10dd198faad4",
+    "f34c59349dc23108",
+    "589e86726b918915",
+    "6b050db80a929544",
+    "1de274fee6b25ae7",
+    "9a53aa7fab37d7d7",
+    "9018cdc2b19620fd"
+   ]
+  },
+  {
+   "date": "2014-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:438049:por",
+     "title": "Lei n.º 29/2002",
+     "published": "2002-12-06",
+     "dre_path": "/dr/detalhe/lei/29-2002-438049"
+    },
+    {
+     "id": "pt:dre:572419:por",
+     "title": "Decreto-Lei n.º 35/2014",
+     "published": "2014-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2014-572419"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "9305084131330532",
+    "23836370ae405d04",
+    "10c4c19f85ec4998",
+    "005f20cdbdf157d5",
+    "d0cd7889806fd2a7",
+    "68f8cd1ee9ae6537",
+    "d52ce26165b159e0",
+    "697b11c8af4498f6",
+    "bf411d0efd2a6d46",
+    "939daf95feec76bc",
+    "1d559b65845ca29f",
+    "eafde24ba49f84f0",
+    "1807048c6a3cbf8d",
+    "21c533194f3794cd",
+    "af06a97d94a2bc57",
+    "1577aef92aac229b",
+    "66e029fdea649349",
+    "49ec7d72bcf5cfb3",
+    "9c9736e9795fa910",
+    "4f2c59b363ae592a",
+    "1793fa868ff9857f",
+    "8f08e0c8afd6f512",
+    "6e0b10dd198faad4",
+    "f34c59349dc23108",
+    "589e86726b918915",
+    "6b050db80a929544",
+    "1de274fee6b25ae7",
+    "9a53aa7fab37d7d7",
+    "9018cdc2b19620fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "9305084131330532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Agosto\n\nDefine as bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "10c4c19f85ec4998": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - A presente lei tem por objecto a definição das bases gerais a que obedece o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações.\n\n2 - O disposto na presente lei não se aplica aos serviços de telecomunicações de difusão."
+  },
+  "005f20cdbdf157d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições e classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições e classificações\n\n1 - Por telecomunicações entende-se a transmissão, recepção ou emissão de sinais, representando símbolos, escrita, imagens, sons ou informações de qualquer natureza por fios, por sistemas ópticos por meios radioeléctricos e por outros sistemas electromagnéticos.\n\n2 - As telecomunicações classificam-se em:\n\na) Telecomunicações de uso público: as destinadas ao público em geral;\n\nb) Telecomunicações privativas: as destinadas ao uso próprio ou a um número restrito de utilizadores.\n\n3 - As telecomunicações de uso público e as privativas subdividem-se em:\n\na) Telecomunicações endereçadas: aquelas em que a informação é apenas enviada a um ou mais destinatários predeterminados, através de endereçamento, podendo ou não haver bidireccionalidade;\n\nb) Telecomunicações de difusão ou teledifusão: as que se realizam num só sentido, simultaneamente para vários pontos de recepção e sem prévio endereçamento.\n\n4 - Por serviços de telecomunicações entende-se a forma e o modo da exploração do encaminhamento e ou distribuição de informação através de redes de telecomunicações.\n\n5 - Os serviços de telecomunicações classificam-se em:\n\na) Serviços de telecomunicações de uso público: os destinados ao público em geral;\n\nb) Serviços de telecomunicações privativas: os destinados ao uso próprio ou a um número restrito de utilizadores.\n\n6 - Os serviços de telecomunicações de uso público e privativas subdividem-se em:\n\na) Serviços de telecomunicações endereçados: os que implicam prévio endereçamento;\n\nb) Serviços de telecomunicações de difusão ou teledifusão: aqueles em que a comunicação se realiza num só sentido, simultaneamente para vários pontos de recepção e sem prévio endereçamento.\n\n7 - Por redes de telecomunicações entende-se o conjunto de meios físicos, denominados infra-estruturas, ou electromagnéticos que suportam a transmissão, recepção ou emissão de sinais.\n\n8 - As redes de telecomunicações classificam-se em:\n\na) Redes públicas de telecomunicações: as que suportam, no todo ou em parte, serviços de telecomunicações de uso público;\n\nb) Redes privativas de telecomunicações: as que suportam, apenas, serviços privativos de telecomunicações.\n\n9 - Por interligação entende-se a ligação física e lógica das redes de telecomunicações utilizadas por um mesmo ou diferentes operadores por forma a permitir o acesso e as comunicações entre os diferentes utilizadores dos serviços prestados."
+  },
+  "d0cd7889806fd2a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Domínio público radioeléctrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Domínio público radioeléctrico\n\nO espaço pelo qual podem propagar-se as ondas radioeléctricas constitui o domínio público radioeléctrico, cuja gestão, administração e fiscalização competem ao Estado, nos termos da lei."
+  },
+  "68f8cd1ee9ae6537": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Expropriações\n\nÉ permitida, nos termos da lei, a expropriação e a constituição de servidões administrativas indispensáveis à construção e protecção radioeléctrica das instalações necessárias à fiscalização da utilização do espectro radioeléctrico, bem como à instalação, protecção e conservação das infra-estruturas das redes públicas de telecomunicações."
+  },
+  "d52ce26165b159e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Tutela das telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tutela das telecomunicações\n\n1 - Compete ao Estado a definição das linhas estratégicas e das políticas gerais, a aprovação da legislação aplicável ao sector, a superintendência e a fiscalização das telecomunicações e da actividade dos operadores de telecomunicações.\n\n2 - Na prossecução das atribuições do Estado, compete ao Instituto das Comunicações de Portugal, enquanto entidade reguladora do sector e sem prejuízo de outras atribuições cometidas por lei:\n\na) A gestão do espectro radioeléctrico e das posições orbitais;\n\nb) A normalização, aprovação e homologação dos materiais e equipamentos de telecomunicações, de acordo com a legislação aplicável;\n\nc) A fiscalização das telecomunicações e do cumprimento das respectivas disposições legais e regulamentares relativas à actividade, bem como a aplicação das correspondentes sanções;\n\nd) A definição das condições de interligação de redes e serviços de telecomunicações de uso público explorados por operadores com posição significativa nos mercados."
+  },
+  "697b11c8af4498f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Coordenação das telecomunicações em situações de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação das telecomunicações em situações de emergência\n\nCompete ao Estado assegurar, nos termos da lei, a adequada coordenação das redes e serviços de telecomunicações em situações de emergência, crise ou guerra."
+  },
+  "bf411d0efd2a6d46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos serviços de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos serviços de telecomunicações"
+  },
+  "939daf95feec76bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviços de telecomunicações de uso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços de telecomunicações de uso público\n\nÉ consagrado o princípio da liberalização das telecomunicações, a exercer de acordo com a legislação aplicável."
+  },
+  "fe76799e2fecf648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço universal de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço universal de telecomunicações\n\n1 - Compete ao Estado assegurar a existência e disponibilidade do serviço universal de telecomunicações entendido como o conjunto de obrigações específicas inerentes à prestação de serviços de telecomunicações de uso público endereçadas, visando a satisfação de necessidades de comunicação da população e das actividades económicas e sociais no todo do território nacional, em termos de igualdade e continuidade e mediante condições de adequada remuneração, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - Para efeitos do disposto do número anterior, é garantida a prestação, em termos de serviço universal, de um serviço fixo de telefone, o qual pode ser explorado:\n\na) Pelo Estado;\n\nb) Por pessoa colectiva de direito público;\n\nc) Por pessoa colectiva de direito privado, mediante contrato.\n\n3 - O contrato a que alude a alínea c) do número anterior reveste a forma de concessão quando inclua, também, o estabelecimento, gestão e exploração das infra-estruturas que constituam a rede básica de telecomunicações a que se refere o Artigo 12.º\n\n4 - A obrigação a que se refere o número anterior pode ainda incluir, nos termos da lei e do contrato de concessão, a prestação de um serviço comutado de transmissão de dados e de um serviço de circuitos alugados ou de outros serviços."
+  },
+  "eafde24ba49f84f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Custos do serviço universal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Custos do serviço universal\n\n1 - Os operadores de redes públicas de telecomunicações e os prestadores de serviços de telecomunicações de uso público de transporte de voz participam, nos termos a fixar em diploma de desenvolvimento da presente lei, nos custos de serviço universal.\n\n2 - Os custos a que se refere o número anterior são os decorrentes da prestação do serviço fixo de telefone e da rede que o suporta."
+  },
+  "1807048c6a3cbf8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Numeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Numeração\n\n1 - É garantida a existência, nos termos a fixar em diploma de desenvolvimento da presente lei, de um plano nacional de numeração que assegure a plena interoperabilidade de redes públicas de telecomunicações e serviços de telecomunicações de uso público, bem como a progressiva implementação da portabilidade do número de cliente.\n\n2 - Os processos de atribuição de números ou séries de números obedecem a princípios de transparência, equidade e eficácia."
+  },
+  "21c533194f3794cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Das redes de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Das redes de telecomunicações"
+  },
+  "af06a97d94a2bc57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Redes públicas de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Redes públicas de telecomunicações\n\n1 - É livre o estabelecimento, gestão, exploração e utilização de redes públicas de telecomunicações.\n\n2 - O estabelecimento, gestão, exploração e utilização de redes públicas de telecomunicações apenas pode ser condicionado por limitações do espectro radioeléctrico, pela disponibilização de números suficientes ou por razões de segurança e ordem pública.\n\n3 - As condições de estabelecimento, gestão, exploração e utilização de redes públicas de telecomunicações são definidas em diploma de desenvolvimento da presente lei."
+  },
+  "465174494d99228e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Rede básica de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Rede básica de telecomunicações\n\n1 - Compete ao Estado assegurar a existência, disponibilidade e qualidade de uma rede pública de telecomunicações endereçadas, denominada «rede básica», que cubra as necessidades de comunicação dos cidadãos e das actividades económicas e sociais no conjunto do território nacional e assegure as ligações internacionais, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - A rede básica de telecomunicações é composta pelo sistema fixo de acesso de assinante, pela rede de transmissão e pelos nós de concentração, comutação ou processamento, quando afectos à prestação do serviço fixo de telefone a que se refere o artigo 8.º\n\n3 - Para efeitos do disposto no número anterior, entende-se por:\n\na) Sistema fixo de acesso de assinante - o conjunto dos meios de transmissão localizados entre um ponto fixo, ao nível da ligação física ao equipamento terminal de assinante e outro ponto, situado ao nível da ligação física no primeiro nó de concentração, comutação ou processamento;\n\nb) Rede de transmissão - o conjunto de meios físicos ou radioeléctricos que estabelecem as ligações para transporte de informação entre os nós de concentração, comutação ou processamento;\n\nc) Nós de concentração, comutação ou processamento - todo o dispositivo ou sistema que encaminhe ou processe a informação com origem ou destino no sistema de assinante.\n\n4 - A rede básica de telecomunicações deve funcionar como uma rede aberta, servindo de suporte à transmissão da generalidade dos serviços, devendo ser assegurada a sua utilização por todos os operadores de telecomunicações em igualdade de condições de concorrência.\n\n5 - A rede básica de telecomunicações constitui bem do domínio público do Estado, podendo ser afecta, nos termos da lei, a operador de serviço universal.\n\n6 - É garantido o desenvolvimento e a modernização da rede básica de telecomunicações em articulação com o plano de ordenamento do território e com as necessidades dos cidadãos em matéria de segurança e de protecção civil."
+  },
+  "66e029fdea649349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Isenção de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Isenção de taxas\n\nOs operadores de redes básicas de telecomunicações estão isentos do pagamento de taxas e de quaisquer outros encargos, pela implantação das infra-estruturas de telecomunicações ou pela passagem das diferentes partes da instalação ou equipamento necessário à exploração do objecto de concessão da respectiva rede."
+  },
+  "49ec7d72bcf5cfb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Redes privativas de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Redes privativas de telecomunicações\n\n1 - As condições de estabelecimento e utilização de redes privativas de telecomunicações são definidas em diploma de desenvolvimento da presente lei.\n\n2 - As redes privativas das forças armadas e das forças e serviços de segurança e emergência obedecem a legislação específica."
+  },
+  "9c9736e9795fa910": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Da interligação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Da interligação"
+  },
+  "4f2c59b363ae592a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Interligação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Interligação\n\n1 - É garantida a interligação através da rede básica de telecomunicações.\n\n2 - A interligação é também garantida através de redes de operadores com posição significativa nos mercados, segundo critérios a definir no diploma a que se refere o n.º 4.\n\n3 - São livres os acordos de interligação entre operadores de redes públicas de telecomunicações e ou prestadores de serviços de telecomunicações de uso público endereçadas.\n\n4 - Os direitos e obrigações de interligação de certas e determinadas categorias de operadores de redes ou prestadores de serviços de telecomunicações são fixados em diploma de desenvolvimento da presente lei."
+  },
+  "1793fa868ff9857f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições comuns"
+  },
+  "8f08e0c8afd6f512": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Defesa da concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Defesa da concorrência\n\n1 - São proibidas aos operadores de redes e prestadores de serviços de telecomunicações quaisquer práticas que falseiem as condições de concorrência ou que se traduzam em abuso de posição dominante.\n\n2 - Os operadores de serviço universal devem assegurar a utilização das suas redes por todos os operadores de redes e prestadores de serviços de telecomunicações."
+  },
+  "6e0b10dd198faad4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direito ao uso dos serviços de telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito ao uso dos serviços de telecomunicações\n\n1 - Todos têm o direito de utilizar os serviços de telecomunicações de uso público, mediante o pagamento dos preços e tarifas correspondentes, desde que sejam observadas as disposições legais e regulamentares aplicáveis.\n\n2 - Com os limites impostos pela sua natureza e pelo fim a que se destinam, é garantida a inviolabilidade e o sigilo dos serviços de telecomunicações de uso público, nos termos da lei.\n\n3 - A aprovação dos regulamentos de exploração dos serviços de telecomunicações prestados em termos de serviço universal é precedida da audição das organizações representativas dos consumidores, como medida de protecção dos direitos dos utilizadores.\n\n4 - Os consumidores podem controlar a facturação correspondente à utilização dos serviços de telecomunicações prestados em termos de serviço universal, nos termos a definir nos respectivos regulamentos de exploração."
+  },
+  "f34c59349dc23108": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Equipamento terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Equipamento terminal\n\nÉ livre a ligação às redes públicas de telecomunicações de equipamentos terminais devidamente aprovados, de acordo com as condições estabelecidas na lei, tendo em vista a salvaguarda da integridade dessas redes de telecomunicações e da adequada interoperabilidade dos serviços."
+  },
+  "589e86726b918915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Princípios gerais de fixação de tarifas e preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Princípios gerais de fixação de tarifas e preços\n\n1 - É consagrado o princípio da liberalização de tarifas e preços dos serviços de telecomunicações.\n\n2 - Sem prejuízo do disposto no número anterior, o regime de preços do serviço universal de telecomunicações está sujeito a legislação específica."
+  },
+  "6b050db80a929544": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitárias"
+  },
+  "1de274fee6b25ae7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime transitório\n\nOs princípios da presente lei, no que respeita à prestação de serviço fixo de telefone bem como à instalação, estabelecimento e exploração das redes de telecomunicações que o suportam, aplicam-se a partir de Janeiro de 2000."
+  },
+  "9a53aa7fab37d7d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Salvaguarda dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Salvaguarda dos direitos adquiridos\n\n1 - O regime legal aprovado no desenvolvimento da [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro, mantém-se até à entrada em vigor dos diplomas de desenvolvimento da presente lei.\n\n2 - Os títulos de licenciamento, autorização, concessão e subconcessão para o exercício de actividades outorgados ao abrigo dos regimes legais e regulamentares aprovados em desenvolvimento da [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro, mantêm-se em vigor, sem prejuízo das alterações que venham a ser determinadas pelos diplomas de desenvolvimento da presente lei."
+  },
+  "9018cdc2b19620fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a [Lei n.º 88/89](https://diariodarepublica.pt/dr/detalhe/lei/88-1989-547200), de 11 de Setembro.\n\nAprovada em 3 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Julho de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "1d559b65845ca29f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço universal de telecomunicações",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06."
+   ],
+   "markdown": "###### Artigo 8.º — Serviço universal de telecomunicações\n\n1 - Compete ao Estado assegurar a existência e disponibilidade do serviço universal de telecomunicações entendido como o conjunto de obrigações específicas inerentes à prestação de serviços de telecomunicações de uso público endereçadas, visando a satisfação de necessidades de comunicação da população e das actividades económicas e sociais no todo do território nacional, em termos de igualdade e continuidade e mediante condições de adequada remuneração, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - Para efeitos do disposto do número anterior, é garantida a prestação, em termos de serviço universal, de um serviço fixo de telefone, o qual pode ser explorado:\n\na) Pelo Estado;\n\nb) Por pessoa colectiva de direito público;\n\nc) Por pessoa colectiva de direito privado, mediante contrato.\n\n3 - O contrato a que alude a alínea c) do número anterior reveste a forma de concessão quando inclua, também, o estabelecimento, gestão e exploração das infra-estruturas que constituam a rede básica de telecomunicações a que se refere o Artigo 12.º\n\n4 - A obrigação a que se refere o número anterior pode ainda incluir, nos termos da lei e do contrato de concessão, a prestação de um serviço comutado de transmissão de dados e de um serviço de circuitos alugados ou de outros serviços.\n\n5 - O conceito de serviço universal de telecomunicações deve evoluir por forma a acompanhar o progresso da tecnologia, o desenvolvimento do mercado e as modificações da procura por parte dos utilizadores, sendo o seu âmbito modificado sempre que tal evolução o justifique.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06."
+  },
+  "1577aef92aac229b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Rede básica de telecomunicações",
+   "in_force_from": "2014-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06.",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07.",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07."
+   ],
+   "markdown": "###### Artigo 12.º — Rede básica de telecomunicações\n\n1 - Compete ao Estado assegurar a existência, disponibilidade e qualidade de uma rede pública de telecomunicações endereçadas, denominada «rede básica», que cubra as necessidades de comunicação dos cidadãos e das actividades económicas e sociais no conjunto do território nacional e assegure as ligações internacionais, tendo em conta as exigências de um desenvolvimento económico e social harmónico e equilibrado.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A rede básica de telecomunicações deve funcionar como uma rede aberta, servindo de suporte à transmissão da generalidade dos serviços, devendo ser assegurada a sua utilização por todos os operadores de telecomunicações em igualdade de condições de concorrência.\n\n5 - A rede básica de telecomunicações garante a prestação do serviço universal, devendo, para esse efeito, ser mantida a sua segurança, integridade e permanente operabilidade, no respeito pelo disposto no artigo 8.º\n\n6 - É garantido o desenvolvimento e a modernização da rede básica de telecomunicações em articulação com o plano de ordenamento do território e com as necessidades dos cidadãos em matéria de segurança e de protecção civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 29/2002](https://diariodarepublica.pt/dr/detalhe/lei/29-2002-438049), publicado em 2002-12-06.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2014-572419), publicado em 2014-03-07."
+  }
+ }
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-03-09'
+version_history:
+  file: decreto-lei-217-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-03-09'
+    amending: pt:dre:151290:por
+    amending_title: Lei n.º 9/99
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/217/1998/07/17/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:58:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 9/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-217-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,13 +152,15 @@ O presente diploma é aplicável aos organismos e serviços da administração c
 
 ###### Artigo 2.º
 
-Os actuais técnicos-adjuntos de serviço social, habilitados com o curso de auxiliares sociais, criado pelo [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, que desempenham funções correspondentes às integrantes da carreira técnica de serviço social transitam para lugares desta carreira em categoria e escalão a determinar nos termos do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as seguintes especialidades:
+Os actuais técnicos-adjuntos de serviço social, habilitados com o curso de auxiliares sociais, criado pelo Decreto-Lei n.º 38884, de 28 de Agosto de 1952, ou habilitações a ele equiparadas, que desempenham funções correspondentes às integrantes da carreira técnica de serviço social transitam para lugares desta carreira em categoria e escalão a determinar nos termos do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, com as seguintes especialidades:
 
 a) Os técnicos-adjuntos especialistas de 1.ª classe posicionados nos escalões 3.º, 4.º e 5.º transitam, respectivamente, para os escalões 2.º, 3.º e 4.º da categoria de técnico de 1.ª classe;
 
 b) Os técnicos-adjuntos principais posicionados nos escalões 4.º, 5.º e 6.º transitam, respectivamente, para os escalões 2.º, 3.º e 5.º da categoria de técnico de 2.ª classe;
 
 c) Os técnicos-adjuntos de 1.ª classe posicionados no escalão 6.º transitam para o escalão 2.º da categoria de técnico de 2.ª classe.
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 9/99](https://diariodarepublica.pt/dr/detalhe/lei/9-1999-151290), publicado em 1999-03-04.
 
 ###### Artigo 3.º
 

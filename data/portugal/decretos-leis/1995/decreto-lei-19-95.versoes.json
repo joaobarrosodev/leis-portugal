@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141072:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "39c9a85b61e16461"
+   ]
+  },
+  {
+   "date": "1999-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335215:por",
+     "title": "Decreto-Lei n.º 145/99",
+     "published": "1999-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/145-1999-335215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "143caa05a5dd6ed6",
+    "3e9d876ba93162af",
+    "d887e07060205399",
+    "02a9b8ef1aadb7fc"
+   ]
+  }
+ ],
+ "fragments": {
+  "39c9a85b61e16461": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro\n\nOs diplomas orgânicos do Conselho de Reitores das Universidades Portuguesas e do Conselho Coordenador dos Institutos Superiores Politécnicos (Decretos-Leis n.os [283/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1993-329453), de 18 de Agosto, e [344/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1993-646304), de 1 de Outubro, respectivamente) prevêem à participação, na qualidade de membros convidados, da Universidade de Macau e do Instituto Politécnico de Macau.\n\nEntende, contudo, o Governo que é chegado o momento de atribuir à Universidade de Macau e ao Instituto Politécnico de Macau o estatuto de membros efectivos dos referidos Conselhos. Com efeito, considera-se que com tal participação melhor se define o enquadramento legal dos cursos ministrados por essas instituições de ensino superior, permitindo a atribuição aos cursos por eles ministrados e que satisfaçam os necessários requisitos de efeitos semelhantes aos dos cursos ministrados no sistema de ensino superior português.\n\nTrata-se de uma medida legal há muito pensada e desejada, que, se, por um lado, dignifica ainda mais aqueles cursos, por outro, dá saída profissional plena em Portugal aos que com eles se encontrem habilitados.\n\nForam ouvidos o Governador de Macau, o Conselho de Reitores das Universidades Portuguesas e o Conselho Coordenador dos Institutos Superiores Politécnicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - O reitor da Universidade de Macau passa a integrar o Conselho de Reitores das Universidades Portuguesas na qualidade de membro efectivo.\n\n2 - O Instituto Politécnico de Macau passa a integrar o Conselho Coordenador dos Institutos Superiores Politécnicos na qualidade de membro efectivo, sendo representado pelo respectivo presidente.\n\nArt. 2.º Os cursos ministrados pela Universidade de Macau e pelo Instituto Superior Politécnico de Macau, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.\n\nArt. 3.º - 1 - A aferição dos requisitos a que se refere o artigo anterior cabe a uma comissão de especialistas, integrada por professores das instituições de ensino superior portuguesas, designadas, para cada curso, pelo Ministro da Educação, sob proposta do Conselho de Reitores das Universidades Portuguesas ou do Conselho Coordenador dos Institutos Superiores Politécnicos, consoante o curso.\n\n2 - A comissão a que se refere o número anterior deve ser designada nos 30 dias subsequentes à apresentação do pedido de reconhecimento do curso, grau ou diploma pela instituição de ensino superior de Macau, dispondo do prazo de 30 dias para formular o seu parecer.\n\n3 - O pedido a que se refere o número anterior é dirigido ao Ministro da Educação.\n\n4 - O parecer da comissão carece de homologação pelo Ministro da Educação e pelo Governador de Macau, devendo o despacho homologatório ser publicado no Diário da República e no Boletim Oficial de Macau.\n\nVisto e aprovado em Conselho de Ministros de 2 de Dezembro de 1994. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Luís Manuel Gonçalves Marques Mendes.\n\nPara publicação no Boletim Oficial de Macau.\n\nPromulgado em 28 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "143caa05a5dd6ed6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro\n\nOs diplomas orgânicos do Conselho de Reitores das Universidades Portuguesas e do Conselho Coordenador dos Institutos Superiores Politécnicos (Decretos-Leis n.os [283/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1993-329453), de 18 de Agosto, e [344/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1993-646304), de 1 de Outubro, respectivamente) prevêem à participação, na qualidade de membros convidados, da Universidade de Macau e do Instituto Politécnico de Macau.\n\nEntende, contudo, o Governo que é chegado o momento de atribuir à Universidade de Macau e ao Instituto Politécnico de Macau o estatuto de membros efectivos dos referidos Conselhos. Com efeito, considera-se que com tal participação melhor se define o enquadramento legal dos cursos ministrados por essas instituições de ensino superior, permitindo a atribuição aos cursos por eles ministrados e que satisfaçam os necessários requisitos de efeitos semelhantes aos dos cursos ministrados no sistema de ensino superior português.\n\nTrata-se de uma medida legal há muito pensada e desejada, que, se, por um lado, dignifica ainda mais aqueles cursos, por outro, dá saída profissional plena em Portugal aos que com eles se encontrem habilitados.\n\nForam ouvidos o Governador de Macau, o Conselho de Reitores das Universidades Portuguesas e o Conselho Coordenador dos Institutos Superiores Politécnicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "3e9d876ba93162af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O reitor da Universidade de Macau passa a integrar o Conselho de Reitores das Universidades Portuguesas na qualidade de membro efectivo.\n\n2 - O Instituto Politécnico de Macau passa a integrar o Conselho Coordenador dos Institutos Superiores Politécnicos na qualidade de membro efectivo, sendo representado pelo respectivo presidente."
+  },
+  "d887e07060205399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1999-05-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1999-335215), publicado em 1999-05-03."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs cursos ministrados pela Universidade de Macau, pelo Instituto Superior Politécnico de Macau e pela Escola Superior de Turismo a que se refere o Decreto-Lei n.º 45/95/M, de 28 de Agosto, alterado pelo Decreto-Lei n.º 42/96/M, de 29 de Julho, bem como os respectivos graus e diplomas, são reconhecidos, para todos os efeitos, no sistema de ensino superior português, desde que apresentem estrutura e exigência, científica e pedagógica, de nível idêntico aos cursos homólogos ministrados pelas instituições de ensino superior portuguesas.\n\n> Alterado pelo/a [Decreto-Lei n.º 145/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1999-335215), publicado em 1999-05-03."
+  },
+  "02a9b8ef1aadb7fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A aferição dos requisitos a que se refere o artigo anterior cabe a uma comissão de especialistas, integrada por professores das instituições de ensino superior portuguesas, designadas, para cada curso, pelo Ministro da Educação, sob proposta do Conselho de Reitores das Universidades Portuguesas ou do Conselho Coordenador dos Institutos Superiores Politécnicos, consoante o curso.\n\n2 - A comissão a que se refere o número anterior deve ser designada nos 30 dias subsequentes à apresentação do pedido de reconhecimento do curso, grau ou diploma pela instituição de ensino superior de Macau, dispondo do prazo de 30 dias para formular o seu parecer.\n\n3 - O pedido a que se refere o número anterior é dirigido ao Ministro da Educação.\n\n4 - O parecer da comissão carece de homologação pelo Ministro da Educação e pelo Governador de Macau, devendo o despacho homologatório ser publicado no Diário da República e no Boletim Oficial de Macau.\n\nVisto e aprovado em Conselho de Ministros de 2 de Dezembro de 1994. - Aníbal António Cavaco Silva - Maria Manuela Dias Ferreira Leite - Luís Manuel Gonçalves Marques Mendes.\n\nPara publicação no Boletim Oficial de Macau.\n\nPromulgado em 28 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

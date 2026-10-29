@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-16'
+version_history:
+  file: decreto-regulamentar-36-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-16'
+    amending: pt:dre:354930:por
+    amending_title: Decreto-Lei n.º 279/93
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 279/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1990/decreto-regulamentar-36-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://dia
 
 ###### Artigo 1.º — Remuneração dos coordenadores
 
-A remuneração base mensal do cargo de coordenador do Serviço do Provedor de Justiça será a correspondente à do cargo de director-geral da tabela de remunerações dos dirigentes da Administração Pública, aprovada pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+(Revogado.)
+
+> Revogado pelo/a Artigo 38.º do/a [Decreto-Lei n.º 279/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1993-354930), publicado em 1993-08-11.
 
 ###### Artigo 2.º — Remuneração dos assessores
 

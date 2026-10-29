@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-27'
+version_history:
+  file: despacho-normativo-682-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-27'
+    amending: pt:dre:149617:por
+    amending_title: Despacho Normativo n.º 36/97
+    changes:
+    - Adita Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/682/1994/09/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-682-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -244,6 +259,10 @@ d) Juros sobre empréstimos e outros encargos financeiros;
 e) Cauções e garantias bancárias;
 
 f) O IVA envolvido, se as entidades beneficiárias forem ressarcidas desse imposto.
+
+7 - As despesas de investimento referidas no n.º 2 do presente artigo para reconversão das instalações licenciadas até à data da outorga dos contratos de concessão das empresas concessionárias de transporte e distribuição de gás natural são elegíveis, sem prejuízo do disposto no artigo 1.º do Decreto-Lei n.º 262/89, de 17 de Agosto, quanto ao respectivo processo de licenciamento.
+
+> Alterado pelo/a Artigo único do/a [Despacho Normativo n.º 36/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1997-149617), publicado em 1997-07-22.
 
 ###### Artigo 10.º — Documentos contratuais
 

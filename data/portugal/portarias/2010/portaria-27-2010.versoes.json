@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:459917:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c6f1bfbb95d5b20",
+    "833f3b2c74ab7c7e",
+    "376f7dfb0955f0a0"
+   ]
+  },
+  {
+   "date": "2010-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613412:por",
+     "title": "Portaria n.º 219/2010",
+     "published": "2010-04-16",
+     "dre_path": "/dr/detalhe/portaria/219-2010-613412"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "7c6f1bfbb95d5b20",
+    "833f3b2c74ab7c7e",
+    "d2fc41611fadb5d5"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c6f1bfbb95d5b20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Janeiro\n\nAs alterações do contrato colectivo de trabalho entre a APROSE - Associação Portuguesa dos Produtores Profissionais de Seguros e o SISEP - Sindicato dos Profissionais de Seguros de Portugal e outro, publicadas no Boletim do Trabalho e Emprego, n.º 35, de 22 de Setembro de 2009, abrangem as relações de trabalho entre empregadores que exerçam a actividade de mediação de seguros e ou resseguros e trabalhadores ao seu serviço, uns e outros representados pelas associações que as outorgaram.\n\nA APROSE requereu a extensão das referidas alterações do contrato colectivo.\n\nA convenção actualiza a tabela salarial. O estudo de avaliação do impacto da extensão da tabela salarial teve por base as retribuições efectivas praticadas no sector abrangido pela convenção, apuradas pelos quadros de pessoal de 2007 e actualizadas com base no aumento percentual médio das tabelas salariais das convenções publicadas no ano de 2008.\n\nOs trabalhadores a tempo completo do sector, com exclusão de aprendizes, praticantes e um grupo residual, são cerca de 1452, dos quais 849 (58,5 %) auferem retribuições inferiores às da convenção, sendo que 575 (39,6 %) auferem retribuições inferiores às convencionais em mais de 5,4 %. São as empresas do escalão de dimensão até 9 trabalhadores que empregam o maior número de trabalhadores com retribuições inferiores às da convenção.\n\nA convenção actualiza, ainda, o subsídio de alimentação com um acréscimo de 1,3 %. Não se dispõe de dados estatísticos que permitam avaliar o impacto desta prestação. Considerando a finalidade da extensão e que a mesma prestação foi objecto de extensões anteriores, justifica-se incluí-la na extensão.\n\nCom vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido, a extensão assegura para a tabela salarial e para as cláusulas de conteúdo pecuniário retroactividade idêntica à prevista na convenção.\n\nEmbora a convenção tenha área nacional, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a extensão apenas será aplicável no território do continente.\n\nA extensão da convenção tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.\n\nFoi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 40, de 29 de Outubro de 2009, ao qual não foi deduzida oposição por parte dos interessados.\n\nAssim:\n\nManda o Governo, pela Ministra do Trabalho e da Solidariedade Social, ao abrigo do artigo 514.º e do n.º 1 do artigo 516.º do Código do Trabalho, o seguinte:"
+  },
+  "833f3b2c74ab7c7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - As condições de trabalho constantes das alterações do contrato colectivo de trabalho entre a APROSE - Associação Portuguesa dos Produtores Profissionais de Seguros e o SISEP - Sindicato dos Profissionais de Seguros de Portugal e outro, publicadas no Boletim do Trabalho e Emprego, n.º 35, de 22 de Setembro de 2009, são estendidas, no território do continente:\n\na) Às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que exerçam a actividade de mediação de seguros e ou resseguros e trabalhadores ao seu serviço das profissões e categorias profissionais nelas previstas;\n\nb) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que exerçam a actividade económica referida na alínea anterior e trabalhadores ao seu serviço das profissões e categorias profissionais previstas na convenção não filiados nos sindicatos outorgantes."
+  },
+  "376f7dfb0955f0a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.\n\n2 - A tabela salarial e as cláusulas de conteúdo pecuniário produzem efeitos a partir de 1 de Janeiro de 2008.\n\n3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.\n\nA Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009."
+  },
+  "d2fc41611fadb5d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2010-04-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Portaria n.º 219/2010](https://diariodarepublica.pt/dr/detalhe/portaria/219-2010-613412), publicado em 2010-04-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.\n\n2 - A tabela salarial e o valor do subsídio de almoço produzem efeitos a partir de 1 de Janeiro de 2009.\n\n3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.\n\n> Alterado pelo/a Artigo único do/a [Portaria n.º 219/2010](https://diariodarepublica.pt/dr/detalhe/portaria/219-2010-613412), publicado em 2010-04-16.\n\nA Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009."
+  }
+ }
+}

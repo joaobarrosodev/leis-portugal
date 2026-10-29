@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:368665:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e571f559e71b50e7",
+    "381d840eefb6c273",
+    "3d0d4b90f2a08f72"
+   ]
+  },
+  {
+   "date": "2014-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345606:por",
+     "title": "Decreto-Lei n.º 104/2014",
+     "published": "2014-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2014-25345606"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "e571f559e71b50e7",
+    "381d840eefb6c273",
+    "1d6f9b88fdc3b79d"
+   ]
+  }
+ ],
+ "fragments": {
+  "e571f559e71b50e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Maio\n\nAtravés do [Decreto-Lei n.º 53/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1997-513003), de 4 de Março, foi criado o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos da margem sul do Tejo, integrado pelos municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal e Sesimbra.\n\nConsiderando que a solução para os problemas de valorização e tratamento de resíduos sólidos urbanos da margem sul do Tejo impõe o alargamento ao município de Setúbal do referido sistema multimunicipal;\n\nConsiderando que a integração no referido sistema se apresenta como solução mais correcta quer do ponto de vista ambiental quer na óptica da racionalidade económica, com vantagens mútuas ao nível da tarifa requerida para a sustentabilidade da exploração;\n\nConsiderando o pedido expresso de adesão ao sistema multimunicipal formulado pelo município de Setúbal, através da respectiva Câmara Municipal;\n\nConsiderando ainda o interesse público deste alargamento, à luz da proximidade geográfica do município de Setúbal, face aos municípios utilizadores originários do sistema e das vantagens inerentes a economias de escala na aplicação dos conceitos modernos de gestão dos resíduos sólidos urbanos;\n\nE que, após este alargamento, o sistema multimunicipal passa a abranger os municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Setúbal e Sesimbra:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "381d840eefb6c273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos da margem sul do Tejo, criado pelo [Decreto-Lei n.º 53/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1997-513003), de 4 de Março, adiante designado por sistema, é alargado ao município de Setúbal."
+  },
+  "3d0d4b90f2a08f72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O sistema poderá ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.\n\n2 - O interesse público referido no número anterior é reconhecido por despacho do Ministro do Ambiente e do Ordenamento do Território, sob proposta da sociedade concessionária do sistema e uma vez ouvidos os municípios integrantes do mesmo.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 23 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Abril de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "1d6f9b88fdc3b79d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2014-07-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2014-25345606), publicado em 2014-07-02."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2014-25345606), publicado em 2014-07-02.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 23 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Abril de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

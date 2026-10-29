@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553595:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75b81736e03050c1",
+    "46c8ad484a4fb0c6",
+    "cf02ccf0b0f1f465",
+    "033b6a53875e3a3c",
+    "3cec7bb8ec727ffa"
+   ]
+  },
+  {
+   "date": "2012-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191284:por",
+     "title": "Portaria n.º 384/2012",
+     "published": "2012-11-26",
+     "dre_path": "/dr/detalhe/portaria/384-2012-191284"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75b81736e03050c1",
+    "46c8ad484a4fb0c6",
+    "a2eebd6718dd2a24",
+    "033b6a53875e3a3c",
+    "3cec7bb8ec727ffa"
+   ]
+  }
+ ],
+ "fragments": {
+  "75b81736e03050c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de março\n\nA Lei n.º 9/2009, de 4 de março, transpôs para a ordem jurídica interna a Diretiva n.º [2005/36/CE](http://data.europa.eu/eli/dir/2005/36/oj?locale=pt), do Parlamento Europeu e do Conselho, relativa ao reconhecimento das qualificações profissionais, e a Diretiva n.º [2006/100/CE](http://data.europa.eu/eli/dir/2006/100/oj?locale=pt), do Conselho, de 20 de novembro, que adapta determinadas diretivas no domínio da livre circulação de pessoas, em virtude da adesão da Bulgária e da Roménia.\n\nNos termos do disposto no n.º 1 do artigo 51.º da Lei n.º 9/2009, de 4 de março, as autoridades nacionais competentes para proceder ao reconhecimento das qualificações profissionais são designadas por portaria dos ministros responsáveis pela atividade em causa, que especifique as profissões regulamentadas abrangidas no âmbito da respetiva competência.\n\nImporta, assim, dar execução àquele preceito legal, no que concerne ao reconhecimento das qualificações profissionais em matéria de segurança e higiene do trabalho.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Emprego, ao abrigo do n.º 1 do artigo 51.º da Lei n.º 9/2009, de 4 de março, o seguinte:"
+  },
+  "46c8ad484a4fb0c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria especifica as profissões regulamentadas abrangidas na área do emprego e designa a respetiva autoridade competente para proceder ao reconhecimento das qualificações profissionais, nos termos da Lei n.º 9/2009."
+  },
+  "cf02ccf0b0f1f465": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nAs profissões regulamentadas abrangidas na área do emprego são as seguintes:\n\na) Técnico Superior de Segurança e Higiene do Trabalho;\n\nb) Técnico de Segurança e Higiene do Trabalho."
+  },
+  "033b6a53875e3a3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente\n\nA autoridade nacional competente para proceder ao reconhecimento das qualificações profissionais referidas no artigo anterior é a Autoridade para as Condições do Trabalho."
+  },
+  "3cec7bb8ec727ffa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação.\n\nO Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 21 de fevereiro de 2012."
+  },
+  "a2eebd6718dd2a24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2012-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2012](https://diariodarepublica.pt/dr/detalhe/portaria/384-2012-191284), publicado em 2012-11-26."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nAs profissões regulamentadas abrangidas na área do emprego são as seguintes:\n\na) Técnico Superior de Segurança no Trabalho;\n\nb) Técnico de Segurança no Trabalho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 384/2012](https://diariodarepublica.pt/dr/detalhe/portaria/384-2012-191284), publicado em 2012-11-26."
+  }
+ }
+}

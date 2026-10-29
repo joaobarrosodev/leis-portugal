@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492401:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "82d31bf4084f9ecd",
+    "ef916c67bf23dd88",
+    "96da2f0c491b1c30",
+    "5bbe3d79af96618f",
+    "ad93e37d6030eab8"
+   ]
+  },
+  {
+   "date": "2009-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491195:por",
+     "title": "Portaria n.º 1154/2009",
+     "published": "2009-10-02",
+     "dre_path": "/dr/detalhe/portaria/1154-2009-491195"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "82d31bf4084f9ecd",
+    "ef916c67bf23dd88",
+    "96da2f0c491b1c30",
+    "572926214d8aa73e",
+    "ad93e37d6030eab8"
+   ]
+  }
+ ],
+ "fragments": {
+  "82d31bf4084f9ecd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho\n\nA Portaria n.º 1144/2008, de 10 de Outubro, estabelece para o continente as normas complementares de execução do regime de apoio à reestruturação e reconversão das vinhas.\n\nConsiderando que esta medida apresenta grande receptividade junto do sector, importa promover desde já as alterações ao regime que permitam optimizar a utilização dos montantes disponíveis, pelo que, para o efeito, procede-se ao alargamento do prazo para apresentação dos pedidos de pagamento das candidaturas apresentadas na campanha de 2008-2009, permite-se que os investimentos efectuados com direitos de plantação atribuídos a partir da reserva possam beneficiar deste regime de apoio, e procede-se ainda a alguns ajustamentos para as próximas campanhas.\n\nImporta também que, à semelhança do definido quanto à comparticipação financeira para os investimentos que transitaram do anterior regime para o actual, seja permitida a atribuição de uma compensação pela perda de receita, nas situações em que tenha havido arranque prévio da vinha.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 83/97, de 9 de Abril, o seguinte:"
+  },
+  "ef916c67bf23dd88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alteração à Portaria n.º 1144/2008, de 10 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Portaria n.º 1144/2008, de 10 de Outubro\n\nSão alterados os artigos 3.º, 8.º, 9.º, 14.º, 23.º e 24.º e os n.os 1.1 e 2.1 do anexo ii e os n.os 1.1 e 2.1 do anexo iii da Portaria n.º 1144/2008, de 10 de Outubro, que passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\ni) ...\n\nii) ...\n\nd) Aos direitos de plantação atribuídos a partir da reserva do território do continente, a exercer pelos titulares.\n\n2 - ...\n\n3 - ...\n\nArtigo 8.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - (Revogado.)\n\nArtigo 9.º\n\nElegibilidade\n\n1 - São elegíveis os investimentos executados a partir de 1 de Agosto de 2008.\n\n2 - A opção pela compensação financeira nos termos do artigo anterior exige o arranque da vinha velha antes do início da colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respectiva enxertia, desde que o arranque tenha ocorrido a partir de 1 de Agosto de 2008.\n\nArtigo 14.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n2 - ...\n\n3 - Em derrogação das alíneas a) e b) do n.º 1 as candidaturas aprovadas, relativamente à campanha de 2008-2009, devem:\n\na) Encontrar-se integralmente executadas até 31 de Julho do ano seguinte ao da apresentação da candidatura e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou\n\nb) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 31 de Julho do ano seguinte ao da apresentação da candidatura, mediante a prestação de uma garantia, sem prazo, a favor do IFAP, I. P., de montante igual a 120 % do valor das ajudas previstas para as medidas específicas em causa, devendo estas encontrarem-se integralmente executadas até ao termo da segunda campanha vitivinícola após o pagamento do adiantamento\n\nArtigo 23.º\n\n[...]\n\nCompete ao IFAP, I. P.:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Remeter ao IVV, I. P., até 15 de Novembro de cada ano, os elementos a que se refere o anexo viii-A do Regulamento (CE) n.º [555/2008](http://data.europa.eu/eli/reg/2008/555/oj?locale=pt), da Comissão, de 27 de Junho;\n\ne) Remeter ao IVV, I. P., até 31 de Dezembro de cada ano, os elementos a que se referem os anexos vi e vii do Regulamento (CE) n.º [555/2008](http://data.europa.eu/eli/reg/2008/555/oj?locale=pt), da Comissão, de 27 de Junho;\n\nf) Exercer as funções de organismo pagador das despesas financiadas no âmbito desta medida, na acepção do Regulamento (CE) n.º [1290/2005](http://data.europa.eu/eli/reg/2005/1290/oj?locale=pt), do Conselho, de 21 de Junho, e do Regulamento (CE) n.º [885/2006](http://data.europa.eu/eli/reg/2006/885/oj?locale=pt), da Comissão, de 21 de Junho;\n\ng) Assegurar a interlocução com a Comissão Europeia, prestando contas relativas às despesas efectuadas, centralizando e conferindo a informação e os processos necessários para o efeito.\n\nArtigo 24.º\n\n[...]\n\nCompete às DRAP:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) (Revogado.)\n\nANEXO II\n\n1.1 - Drenagem superficial do terreno, quando, em função da geometria e do declive da parcela, se justificar a correcção do percurso de pequenas linhas de água, a execução de valas artificiais, de valetas em meias manilhas e colocação de manilhas ou de tubos em PVC em passagens de acesso a parcelas e entre parcelas e para atravessar caminhos no interior das superfícies a reestruturar:\n\ni) [...]\n\nii) [...]\n\niii) [...]\n\niv) Colocação de manilhas ou de tubos em PVC - (euro) 8,07/m.\n\n2.1 - Os valores unitários da ajuda correspondentes à acção 'Plantação da vinha' são reduzidos em 5 % relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência ou por direitos de plantação atribuídos a partir da reserva do território do continente.\n\nANEXO III\n\n1.1 - Drenagem superficial do terreno, quando, em função da geometria e do declive da parcela, se justificar a correcção do percurso de pequenas linhas de água, a execução de valas artificiais, de valetas em meias manilhas e colocação de manilhas ou de tubos em PVC em passagens de acesso a parcelas e entre parcelas e para atravessar caminhos no interior das superfícies a reestruturar:\n\nv) [...]\n\nvi) [...]\n\nvii) [...]\n\nviii) Colocação de manilhas ou de tubos em PVC - (euro) 5,38/m.\n\n2.1 Os valores unitários da ajuda correspondentes à acção 'Plantação da vinha' são reduzidos em 5 % relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência ou por direitos de plantação atribuídos a partir da reserva do território do continente.»"
+  },
+  "96da2f0c491b1c30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Aditamento à Portaria n.º 1144/2008, de 10 de Outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento à Portaria n.º 1144/2008, de 10 de Outubro\n\nÉ aditado o artigo 9.º-A à Portaria n.º 1144/2008, de 10 de Outubro, com a seguinte redacção:\n\n«Artigo 9.º-A\n\nNorma transitória\n\nEm derrogação do artigo anterior, as operações de reestruturação que já tenham sido planeadas em aplicação do artigo 11.º do Regulamento (CE) n.º [1493/99](http://data.europa.eu/eli/reg/1999/1493/oj?locale=pt), do Conselho, de 17 de Maio, e se encontrem em curso, podem transitar para o actual regime de apoio, depois das adaptações eventualmente necessárias.»"
+  },
+  "5bbe3d79af96618f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010\n\nSem prejuízo do disposto no n.º 2 do artigo 11.º e no n.º 2 do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:\n\n1 - A recepção de candidaturas decorre entre a data de publicação da presente portaria até 30 de Setembro de 2009.\n\n2 - As candidaturas são decididas até 15 de Dezembro de 2009."
+  },
+  "ad93e37d6030eab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nExcepto no que se refere ao artigo anterior, a presente portaria produz efeitos à data da entrada em vigor da Portaria n.º 1144/2008, de 10 de Outubro.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 8 de Julho de 2009."
+  },
+  "572926214d8aa73e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010",
+   "in_force_from": "2009-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-491195), publicado em 2009-10-02."
+   ],
+   "markdown": "###### Artigo 3.º — Apresentação e decisão das candidaturas para a campanha de 2009-2010\n\nSem prejuízo do disposto no n.º 2 do artigo 11.º e na segunda parte do artigo 12.º da Portaria n.º 1144/2008, de 10 de Outubro, para as campanhas posteriores, para a campanha de 2009-2010:\n\n1 - A recepção de candidaturas é prorrogada até 30 de Outubro de 2009.\n\n2 - As candidaturas são decididas até 15 de Janeiro de 2010.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1154/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1154-2009-491195), publicado em 2009-10-02."
+  }
+ }
+}

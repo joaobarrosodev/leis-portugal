@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:600525:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-02-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c6ca675373b7ede8"
+   ]
+  },
+  {
+   "date": "2012-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:544382:por",
+     "title": "Decreto-Lei n.º 12/2012",
+     "published": "2012-01-20",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2012-544382"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "ab23b0ce61b04398",
+    "4bd64b18467088f3",
+    "557dc88eb3ea9a5f"
+   ]
+  }
+ ],
+ "fragments": {
+  "c6ca675373b7ede8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Fevereiro\n\nConsiderando a necessidade de contemplar situações específicas relacionadas com a inevitabilidade da existência de prestação de trabalho extraordinário por parte do pessoal operário e auxiliar em serviço nas residências oficiais do Presidente da República e do Primeiro-Ministro, respectivamente;\n\nConsiderando que essas situações não encontram contrapartida remuneratória suficiente em consequência dos limites impostos ao quantitativo de horas de prestação de actividade laboral pelo Decreto- Lei n.º 110-A/81, de 14 de Maio;\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Poderão os funcionários do quadro do pessoal operário e auxiliar da Secretaria-Geral da Presidência da República em serviço na residência oficial do Presidente da República prestar, sempre que estritamente necessário, trabalho extraordinário para além do limite de horas fixado no n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não podendo, neste caso, a remuneração auferida exceder 85% da retribuição base correspondente auferida durante o período normal de trabalho.\n\nArt. 2.º O regime estabelecido no número anterior é extensivo, nos mesmos precisos termos, ao pessoal de idêntico quadro da Secretaria-Geral da Presidência do Conselho de Ministros que prestar serviço na residência oficial do Primeiro-Ministro.\n\nVisto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Janeiro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "ab23b0ce61b04398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Fevereiro\n\nConsiderando a necessidade de contemplar situações específicas relacionadas com a inevitabilidade da existência de prestação de trabalho extraordinário por parte do pessoal operário e auxiliar em serviço nas residências oficiais do Presidente da República e do Primeiro-Ministro, respectivamente;\n\nConsiderando que essas situações não encontram contrapartida remuneratória suficiente em consequência dos limites impostos ao quantitativo de horas de prestação de actividade laboral pelo Decreto- Lei n.º 110-A/81, de 14 de Maio;\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "4bd64b18467088f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPoderão os funcionários do quadro do pessoal operário e auxiliar da Secretaria-Geral da Presidência da República em serviço na residência oficial do Presidente da República prestar, sempre que estritamente necessário, trabalho extraordinário para além do limite de horas fixado no n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não podendo, neste caso, a remuneração auferida exceder 85% da retribuição base correspondente auferida durante o período normal de trabalho."
+  },
+  "557dc88eb3ea9a5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2012-544382), publicado em 2012-01-20."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2012-544382), publicado em 2012-01-20.\n\nVisto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Janeiro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

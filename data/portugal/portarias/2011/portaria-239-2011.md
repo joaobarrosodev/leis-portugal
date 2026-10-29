@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-03-01'
+version_history:
+  file: portaria-239-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-03-01'
+    amending: pt:dre:66229856:por
+    amending_title: Decreto-Lei n.º 10/2015
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/239/2011/06/21/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:51:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 10/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2011/portaria-239-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,17 +159,7 @@ A presente portaria identifica os elementos que as meras comunicações prévias
 
 ###### Artigo 2.º — Mera comunicação prévia
 
-1 - A mera comunicação prévia efectuada ao abrigo do artigo 4.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve conter os seguintes elementos:
-
-a) Os referidos no n.º 3 do artigo 4.º do Decreto-Lei n.º 48/2011, de 1 de Abril;
-
-b) O código de acesso à certidão permanente do registo comercial, caso se trate de pessoa colectiva sujeita a registo comercial;
-
-c) Consentimento de consulta da declaração de início ou de alteração de actividade, caso se trate de pessoa singular;
-
-d) O horário de funcionamento;
-
-e) A declaração do interessado de que tomou conhecimento da necessidade do edifício ou fracção onde vai instalar o estabelecimento possuir título de autorização de utilização compatível com a actividade a exercer.
+1 - (Revogado.)
 
 2 - A mera comunicação prévia efectuada ao abrigo do artigo 12.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve conter os seguintes elementos:
 
@@ -161,63 +169,21 @@ b) O código de acesso à certidão permanente do registo comercial, caso se tra
 
 c) Consentimento de consulta da declaração de início ou de alteração de actividade, caso se trate de pessoa singular.
 
-3 - A mera comunicação prévia das alterações ao horário de funcionamento, efectuada ao abrigo do artigo 4.º-A do Decreto-Lei n.º 48/96, de 15 de Maio, dos estabelecimentos sujeitos ao regime de instalação e funcionamento previsto no artigo 2.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve conter os seguintes elementos:
+3 - (Revogado.)
 
-a) Os referidos nas alíneas a), b), c) e f) do n.º 3 do artigo 4.º do Decreto-Lei n.º 48/2011, de 1 de Abril;
+4 - (Revogado.)
 
-b) Os referidos nas alíneas b) a d) do n.º 1 do presente artigo.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), publicado em 2015-01-16.
 
-4 - A mera comunicação prévia do horário de funcionamento e suas alterações, efectuadas ao abrigo do artigo 4.º-A do Decreto-Lei n.º 48/96, de 15 de Maio, dos estabelecimentos não sujeitos ao regime de instalação e funcionamento previsto no artigo 2.º do Decreto-Lei n.º 48/2011, de 1 de Abril, devem conter os seguintes elementos:
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), publicado em 2015-01-16.
 
-a) Os referidos nas alíneas a), b), c) e f) do n.º 3 do artigo 4.º do Decreto-Lei n.º 48/2011, de 1 de Abril;
-
-b) Os referidos nas alíneas b) a d) do n.º 1 do presente artigo.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), publicado em 2015-01-16.
 
 ###### Artigo 3.º — Comunicação prévia com prazo
 
-1 - As comunicações prévias com prazo efectuadas ao abrigo do Decreto-Lei n.º 48/2011, de 1 de Abril, devem conter os seguintes elementos:
+(Revogado.)
 
-a) A identificação do titular da exploração do estabelecimento ou do prestador de serviços com menção do nome ou firma e do número de identificação fiscal;
-
-b) O endereço da sede da pessoa colectiva ou do empresário em nome individual;
-
-c) O endereço do estabelecimento ou armazém e o respectivo nome ou insígnia, quando aplicável;
-
-d) O código de acesso à certidão permanente do registo comercial, caso se trate de pessoa colectiva sujeita a registo comercial;
-
-e) Consentimento de consulta da declaração de início ou de alteração de actividade, caso se trate de pessoa singular.
-
-2 - A comunicação prévia com prazo efectuada ao abrigo do artigo 5.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve conter os seguintes elementos adicionais:
-
-a) Termo de responsabilidade subscrito por pessoa habilitada a ser autor de projecto, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos, quanto ao cumprimento de todos os requisitos legais e regulamentares não identificados nos termos da alínea b) do presente número, nas situações identificadas no «Balcão do empreendedor»;
-
-b) A identificação dos requisitos legais ou regulamentares a dispensar, aplicáveis às instalações, aos equipamentos e ao funcionamento das actividades económicas a exercer no estabelecimento, e a fundamentação das razões do seu não cumprimento;
-
-c) Planta e corte do edifício, da fracção ou da área objecto da comunicação à escala de 1:100 ou superior, contendo as dimensões, áreas e usos de todos os compartimentos, bem como a representação do mobiliário fixo e equipamento sanitário, nas situações identificadas no «Balcão do empreendedor»;
-
-d) A CAE das actividades que são desenvolvidas no estabelecimento, bem como outra informação relevante para a caracterização dessas actividades, designadamente a área de venda e de armazenagem do estabelecimento ou armazém, as secções acessórias existentes, o número de pessoas ao serviço, o tipo de localização e o método de venda;
-
-e) A data de abertura ao público do estabelecimento ou de início de exploração do armazém;
-
-f) A declaração do titular da exploração do estabelecimento de que tomou conhecimento e que respeita integralmente as obrigações legais e regulamentares identificadas no anexo iii do Decreto-Lei n.º 48/2011, de 1 de Abril, com excepção das relativas aos requisitos a que se refere a alínea b) do presente número;
-
-g) O horário de funcionamento.
-
-3 - A comunicação prévia com prazo efectuada ao abrigo do artigo 6.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve ser acompanhada dos seguintes elementos adicionais:
-
-a) A CAE das actividades que são desenvolvidas, bem como outra informação relevante para a caracterização dessas actividades, designadamente características da unidade ou da instalação e da prestação de serviços;
-
-b) A declaração do interessado de que cumpre as obrigações legais e regulamentares relativas às instalações e equipamentos, bem como as regras de segurança, saúde pública e os requisitos de higiene dos géneros alimentícios;
-
-c) Termo de responsabilidade subscrito por pessoa habilitada a ser autor de projecto, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos, quanto ao cumprimento de todos os requisitos legais e regulamentares relativos à instalação e à segurança contra incêndios, nas situações identificadas no «Balcão do empreendedor».
-
-4 - A comunicação prévia com prazo efectuada ao abrigo do artigo 12.º do Decreto-Lei n.º 48/2011, de 1 de Abril, deve ser acompanhada dos seguintes elementos adicionais:
-
-a) A indicação do fim pretendido com a ocupação do espaço público;
-
-b) A identificação das características e da localização do mobiliário urbano a colocar;
-
-c) A declaração do titular da exploração de que respeita integralmente as obrigações legais e regulamentares sobre a ocupação do espaço público.
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), publicado em 2015-01-16.
 
 ###### Artigo 4.º — Entrada em vigor
 

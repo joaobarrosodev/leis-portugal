@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-05-16'
+version_history:
+  file: decreto-26-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-16'
+    amending: pt:dre:520661:por
+    amending_title: Decreto n.º 8/2007
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/26/2002/08/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:12:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 8/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/2002/decreto-26-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 2 - A parcela de terreno referida no número anterior localiza-se na vila de Mourão e destina-se à construção do novo Centro de Saúde de Mourão, bem como à melhoria do espaço envolvente, de modo a eliminar as lixeiras aí existentes.
 
-3 - Caso não venha a concretizar-se o uso referido no n.º 2 no prazo de três anos a partir da data da publicação do presente decreto, a área em causa será novamente integrada no perímetro florestal de Mourão.
+3 - Caso não se venha a concretizar o uso referido no n.º 2 até ao final do ano de 2008, a área em causa será novamente incluída no Perímetro Florestal de Mourão e como tal submetida a regime florestal parcial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto/8-2007-520661), publicado em 2007-05-11.
 
 ###### Artigo 2.º — Medidas a adoptar
 

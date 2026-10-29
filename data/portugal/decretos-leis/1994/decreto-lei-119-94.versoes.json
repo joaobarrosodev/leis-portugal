@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:256434:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3fe4cfda4d4913aa"
+   ]
+  },
+  {
+   "date": "1994-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667960:por",
+     "title": "Declaração de Rectificação n.º 103/94",
+     "published": "1994-07-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/103-1994-667960"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 146.º"
+   ],
+   "fragments": [
+    "7cbf649a70d52297",
+    "1e2c2e370725b3b9",
+    "98d1495873d96ded",
+    "63fd1ca39e8a794e",
+    "769651b81c659526",
+    "d6e4ad5288a75069",
+    "7672779cca605a4e",
+    "be86a82248be3c4e"
+   ]
+  }
+ ],
+ "fragments": {
+  "3fe4cfda4d4913aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nAtravés do presente diploma é instituído um regime de não incidência do imposto sobre as sucessões e doações para os donativos que são dedutíveis ao rendimento colectável das pessoas singulares ou que constituem custos do exercício das pessoas colectivas, eliminando-se, deste modo, um pesado processo administrativo.\n\nSão também elevados os limites de isenção do imposto e actualizam-se os escalões dos valores das transmissões constantes da tabela de taxas, com base no coeficiente de desvalorização da moeda reportado a 1989, com vista a obstar ao agravamento da tributação, em sede de imposto sobre as sucessões e doações.\n\nPor outro lado, reduz-se para 10 anos o prazo de caducidade da liquidação da sisa e do imposto sucessório e harmoniza-se o prazo de prescrição com o previsto no Código de Processo Tributário.\n\nFinalmente, são reforçados os direitos da Fazenda Nacional à cobrança do imposto mediante a prestação das garantias previstas no artigo 136.º do respectivo Código.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único. Os artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:\n\nArt. 3.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\n1.º ...\n\n2.º ...\n\n3.º ...\n\n4.º ...\n\n5.º ...\n\n6.º Os donativos que, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares e do Código do Imposto sobre o Rendimento das Pessoas Colectivas, sejam considerados de interesse público ou destinados a fins culturais.\n\nArt. 12.º ...\n\n1.º As transmissões de bens de valor igual ou inferior a 70000$00 para cada adquirente;\n\n2.º As transmissões a favor dos filhos ou dos adoptados no caso de adopção plena, ou dos seus descendentes, até ao valor de 700000$00 dos bens adquiridos por cada um deles, embora em épocas diversas, do mesmo ascendente ou adoptante, bem como as transmissões a favor do cônjuge, até ao valor de 700000$00;\n\n3.º As transmissões por morte a favor de ambos os ascendentes no 1.º grau ou do sobrevivo, compreendidos os adoptantes no caso de adopção plena, até ao valor de 350000$00 dos bens adquiridos do mesmo descendente ou adoptado;\n\n4.º (Revogado.)\n\n5.º ...\n\n6.º ...\n\n7.º ...\n\n8.º (Revogado.)\n\n9.º (Revogado.)\n\n10.º (Revogado.)\n\n11.º ...\n\n12.º ...\n\n§ 1.º (Revogado.)\n\n§ 2.º ...\n\n§ 3.º ...\n\nArt. 20.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\n1.ª ...\n\n2.ª O valor do estabelecimento comercial, industrial ou agrícola determinar-se-á pelo último balanço, a menos que, sendo partilhado ou liquidado judicialmente, se lhe atribua valor diverso, ou, sendo liquidado ou partilhado extrajudicialmente, se lhe atribua valor superior. Para efeitos da presente regra, considera-se estabelecimento agrícola aquele que dê origem a actividade tributada, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), nas categorias C e D.\n\nNão havendo balanço, partilha ou liquidação, o valor do estabelecimento será o indicado na relação de bens;\n\n3.ª ...\n\n4.ª ...\n\n5.ª ...\n\na) ...\n\nVa - ...\n\nn - ...\n\nS - ...\n\nR1 e R2 - ...\n\nf - É o factor da capitalização dos resultados líquidos que será apurado pela Direcção-Geral das Contribuições e Impostos, com base na taxa básica de desconto do Banco de Portugal em vigor na data da transmissão.\n\nNo caso de sociedades constituídas há menos de dois anos, quando tiver de recorrer-se ao uso da fórmula, o valor das respectivas acções será o que lhes corresponder no valor substancial, ou seja, Va = S/n;\n\nb) ...\n\n5.ª - A ...\n\na) ...\n\nb) ...\n\nc) ...\n\n6.ª ...\n\n7.ª ...\n\na) ...\n\nb) ...\n\n8.ª ...\n\nArt. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)\n\n§ único. ...\n\nArt. 92.º Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.\n\n§ 1.º (Revogado.)\n\n§ 2.º Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os 10 anos contar-se-ão desde a data da entrega.\n\n§ 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado.\n\nArt. 146.º ...\n\n§ único. Só se considera assegurado o pagamento mediante qualquer das garantias no § 1.º do artigo 136.º\n\nArt. 180.º O imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.\n\n§ 1.º ...\n\n§ 2.º ...\n\nVisto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado no Porto em 12 de Abril de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Abril de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "7cbf649a70d52297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nAtravés do presente diploma é instituído um regime de não incidência do imposto sobre as sucessões e doações para os donativos que são dedutíveis ao rendimento colectável das pessoas singulares ou que constituem custos do exercício das pessoas colectivas, eliminando-se, deste modo, um pesado processo administrativo.\n\nSão também elevados os limites de isenção do imposto e actualizam-se os escalões dos valores das transmissões constantes da tabela de taxas, com base no coeficiente de desvalorização da moeda reportado a 1989, com vista a obstar ao agravamento da tributação, em sede de imposto sobre as sucessões e doações.\n\nPor outro lado, reduz-se para 10 anos o prazo de caducidade da liquidação da sisa e do imposto sucessório e harmoniza-se o prazo de prescrição com o previsto no Código de Processo Tributário.\n\nFinalmente, são reforçados os direitos da Fazenda Nacional à cobrança do imposto mediante a prestação das garantias previstas no artigo 136.º do respectivo Código.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1e2c2e370725b3b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nOs artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:\n\nArt. 3.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\n1.º ...\n\n2.º ...\n\n3.º ...\n\n4.º ...\n\n5.º ...\n\n6.º Os donativos que, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares e do Código do Imposto sobre o Rendimento das Pessoas Colectivas, sejam considerados de interesse público ou destinados a fins culturais."
+  },
+  "98d1495873d96ded": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n..\n\n1.º As transmissões de bens de valor igual ou inferior a 70000$00 para cada adquirente;\n\n2.º As transmissões a favor dos filhos ou dos adoptados no caso de adopção plena, ou dos seus descendentes, até ao valor de 700000$00 dos bens adquiridos por cada um deles, embora em épocas diversas, do mesmo ascendente ou adoptante, bem como as transmissões a favor do cônjuge, até ao valor de 700000$00;\n\n3.º As transmissões por morte a favor de ambos os ascendentes no 1.º grau ou do sobrevivo, compreendidos os adoptantes no caso de adopção plena, até ao valor de 350000$00 dos bens adquiridos do mesmo descendente ou adoptado;\n\n4.º (Revogado.)\n\n5.º ...\n\n6.º ...\n\n7.º ...\n\n8.º (Revogado.)\n\n9.º (Revogado.)\n\n10.º (Revogado.)\n\n11.º ...\n\n12.º ...\n\n§ 1.º (Revogado.)\n\n§ 2.º ...\n\n§ 3.º ..."
+  },
+  "63fd1ca39e8a794e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n..\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ...\n\n1.ª ...\n\n2.ª O valor do estabelecimento comercial, industrial ou agrícola determinar-se-á pelo último balanço, a menos que, sendo partilhado ou liquidado judicialmente, se lhe atribua valor diverso, ou, sendo liquidado ou partilhado extrajudicialmente, se lhe atribua valor superior. Para efeitos da presente regra, considera-se estabelecimento agrícola aquele que dê origem a actividade tributada, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), nas categorias C e D.\n\nNão havendo balanço, partilha ou liquidação, o valor do estabelecimento será o indicado na relação de bens;\n\n3.ª ...\n\n4.ª ...\n\n5.ª ...\n\na) ...\n\nVa - ...\n\nn - ...\n\nS - ...\n\nR1 e R2 - ...\n\nf - É o factor da capitalização dos resultados líquidos que será apurado pela Direcção-Geral das Contribuições e Impostos, com base na taxa básica de desconto do Banco de Portugal em vigor na data da transmissão.\n\nNo caso de sociedades constituídas há menos de dois anos, quando tiver de recorrer-se ao uso da fórmula, o valor das respectivas acções será o que lhes corresponder no valor substancial, ou seja, Va = S/n;\n\nb) ...\n\n5.ª - A ...\n\na) ...\n\nb) ...\n\nc) ...\n\n6.ª ...\n\n7.ª ...\n\na) ...\n\nb) ...\n\n8.ª ..."
+  },
+  "769651b81c659526": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nAs taxas do imposto sobre as sucessões e doações são as seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)\n\n§ único. ..."
+  },
+  "d6e4ad5288a75069": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º\n\nSó poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.\n\n§ 1.º (Revogado.)\n\n§ 2.º Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os 10 anos contar-se-ão desde a data da entrega.\n\n§ 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado."
+  },
+  "7672779cca605a4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 146.º",
+   "in_force_from": "1994-07-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 103/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-1994-667960), publicado em 1994-07-30."
+   ],
+   "markdown": "###### Artigo 146.º\n\n..\n\n§ único. Só se considera assegurado o pagamento mediante qualquer das garantias referidas no § 1.º do artigo 136.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 103/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-1994-667960), publicado em 1994-07-30."
+  },
+  "be86a82248be3c4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 180.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 180.º\n\nO imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.\n\n§ 1.º ...\n\n§ 2.º ...\n\nVisto e aprovado em Conselho de Ministros de 24 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado no Porto em 12 de Abril de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Abril de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

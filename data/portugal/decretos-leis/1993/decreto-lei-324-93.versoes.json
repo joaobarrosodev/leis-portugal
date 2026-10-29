@@ -1,0 +1,1038 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:653126:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-09-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc688c3122aea0ce",
+    "d0362ae5e44f3606",
+    "9a2f35c171c9e472",
+    "481b4bfbf91cdbe6",
+    "31d4546644320d24",
+    "b4a32b0d9c0e1d10",
+    "8b8a14d6231c2582",
+    "b52de62f6995a3e0",
+    "1d9f00c9267945cf",
+    "bc7ef6260259077b",
+    "697158e7326a9662",
+    "36f3030c5d1c51b6",
+    "a848c39666df1b8d",
+    "3f63b74c9f1441de",
+    "7767e5bb6f650e0a",
+    "5392e80f6473ff3b",
+    "0f74e4e2fbe27140",
+    "5e6b1ab89a44ae0f",
+    "2085a266b818c080",
+    "12aed570c6de30e5",
+    "1ad5b81b7a54a58e",
+    "f1d0d53907d1300d",
+    "bac699744595b0f9",
+    "f753ecd9ddbc71bf",
+    "805b0ab691536130",
+    "6485efad090851a8",
+    "5dd7b8ede6672887",
+    "daeb8577a0131577",
+    "9b02452fb34ee989",
+    "5f37d2dbdb81423a",
+    "60062dec4b1448f2",
+    "f3db2fd1759841cd",
+    "c752d93ccf8958f7",
+    "46b5ddabe4b5fe11",
+    "2175a2da082e1cc3",
+    "9cb1de692c382310",
+    "8781869c4cdbe759",
+    "693ae9d73841f006",
+    "381457ec3d3bed0e",
+    "ee01aff73654239d",
+    "0465c8b71bdd46b2",
+    "5cafce3071fc9337",
+    "ef26b876dc4131b0",
+    "263b57f9a48278a4",
+    "1830a4e4c2ee3349",
+    "1298c70fa4ecb648",
+    "61a01b8c49760b12",
+    "0b1741a0be4e3dbd",
+    "a0b20480d756a146",
+    "ca6afb575683e84a",
+    "61a8536c09577c2b",
+    "c0ef964e6d299d10",
+    "78cc2c11b1612284",
+    "76ea8ac6afc497c8",
+    "fbdad04294e896bc",
+    "4f81535ac5c62746",
+    "f398bf9639638d12",
+    "720b6f192e107a8d",
+    "87bf541d5c0cbd8d",
+    "845e80efea090899",
+    "8664c7037de4dc4b",
+    "459843d84e519623",
+    "ac8e2d4a543fc3ca",
+    "9ea387ad9afb6005",
+    "697f1e145091a6c2",
+    "3690d3baf537faf0",
+    "d9a448c3a27d3b39",
+    "0602c99343c44407",
+    "85a9db28b6e2c747",
+    "8d3035610a76c22e",
+    "6c02e89a2ba6ae9a",
+    "925884342a833983",
+    "294ccbcd949951c7",
+    "eb4ce5410cf8b322",
+    "92013218083b5311",
+    "26d2671ccaa2e1f6",
+    "9340209b7a64e2ea",
+    "f7d49d584b599fb7",
+    "9096ac632d2451e9",
+    "9129dceb611386a6",
+    "785a2800e78cd6f7",
+    "16f1234abe0565aa",
+    "fef2a86a0ed09344",
+    "0b311fa18eb83af7",
+    "eb1db764d7e61623",
+    "b751219130ef095c",
+    "1cc26143379eec60",
+    "abe72d2dc7113161",
+    "fb721b67d33c0b49",
+    "3dd43d02085b640f"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124324704:por",
+     "title": "Decreto-Lei n.º 132/2019",
+     "published": "2019-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 58.º",
+    "Revoga Artigo 59.º",
+    "Revoga Artigo 60.º",
+    "Revoga Artigo 61.º"
+   ],
+   "fragments": [
+    "dc688c3122aea0ce",
+    "d0362ae5e44f3606",
+    "9a2f35c171c9e472",
+    "481b4bfbf91cdbe6",
+    "31d4546644320d24",
+    "b4a32b0d9c0e1d10",
+    "8b8a14d6231c2582",
+    "b52de62f6995a3e0",
+    "1d9f00c9267945cf",
+    "bc7ef6260259077b",
+    "697158e7326a9662",
+    "36f3030c5d1c51b6",
+    "a848c39666df1b8d",
+    "3f63b74c9f1441de",
+    "7767e5bb6f650e0a",
+    "5392e80f6473ff3b",
+    "0f74e4e2fbe27140",
+    "5e6b1ab89a44ae0f",
+    "2085a266b818c080",
+    "12aed570c6de30e5",
+    "1ad5b81b7a54a58e",
+    "f1d0d53907d1300d",
+    "bac699744595b0f9",
+    "f753ecd9ddbc71bf",
+    "805b0ab691536130",
+    "6485efad090851a8",
+    "5dd7b8ede6672887",
+    "daeb8577a0131577",
+    "9b02452fb34ee989",
+    "5f37d2dbdb81423a",
+    "60062dec4b1448f2",
+    "f3db2fd1759841cd",
+    "c752d93ccf8958f7",
+    "46b5ddabe4b5fe11",
+    "2175a2da082e1cc3",
+    "9cb1de692c382310",
+    "8781869c4cdbe759",
+    "693ae9d73841f006",
+    "381457ec3d3bed0e",
+    "ee01aff73654239d",
+    "0465c8b71bdd46b2",
+    "5cafce3071fc9337",
+    "ef26b876dc4131b0",
+    "263b57f9a48278a4",
+    "1830a4e4c2ee3349",
+    "1298c70fa4ecb648",
+    "61a01b8c49760b12",
+    "0b1741a0be4e3dbd",
+    "a0b20480d756a146",
+    "ca6afb575683e84a",
+    "61a8536c09577c2b",
+    "c0ef964e6d299d10",
+    "78cc2c11b1612284",
+    "76ea8ac6afc497c8",
+    "fbdad04294e896bc",
+    "4f81535ac5c62746",
+    "f398bf9639638d12",
+    "720b6f192e107a8d",
+    "87bf541d5c0cbd8d",
+    "845e80efea090899",
+    "8664c7037de4dc4b",
+    "459843d84e519623",
+    "ac8e2d4a543fc3ca",
+    "9ea387ad9afb6005",
+    "697f1e145091a6c2",
+    "3690d3baf537faf0",
+    "d9a448c3a27d3b39",
+    "0602c99343c44407",
+    "85a9db28b6e2c747",
+    "8d3035610a76c22e",
+    "6c02e89a2ba6ae9a",
+    "0b203dc2c06b4d74",
+    "7f6d02ca5e5499b0",
+    "06453deabcd56155",
+    "d6c1df3851fb0e26",
+    "17485ab9b8c7f3d5",
+    "fdee594ec343436e",
+    "a2073c57f5ac2e2a",
+    "a12de89763d7a996",
+    "59a209fd5d11161b",
+    "785a2800e78cd6f7",
+    "16f1234abe0565aa",
+    "fef2a86a0ed09344",
+    "0b311fa18eb83af7",
+    "eb1db764d7e61623",
+    "b751219130ef095c",
+    "1cc26143379eec60",
+    "abe72d2dc7113161",
+    "fb721b67d33c0b49",
+    "3dd43d02085b640f"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc688c3122aea0ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Setembro\n\nPasso prioritário para a consolidação do Mercado Único e para a criação das condições indispensáveis ao seu sucesso é manter em funcionamento eficaz uma união aduaneira, enquanto estrutura fundamental à regulação do comércio entre a Comunidade Europeia e terceiros países.\n\nA Direcção-Geral das Alfândegas, como elemento activo na gestão da união aduaneira, deve, por conseguinte, ser dotada dos instrumentos que lhe permitam ser competitiva com as administrações aduaneiras dos outros Estados membros e contribuir para a homogeneidade de actuação que o Mercado Único exige, nomeadamente na sua fronteira externa, obviando a distorções de concorrência entre os agentes económicos e a desvios de tráfego.\n\nO novo quadro organizacional em que se movimenta a Direcção-Geral das Alfândegas comporta três sistemas: o aduaneiro, o dos impostos especiais sobre o consumo e o de prevenção e repressão da fraude.\n\nO sistema aduaneiro assenta a sua sistematização formal no Código Aduaneiro comunitário: pressente-se-lhe especial aptidão para disponibilizar a informação técnica específica na aplicação dos normativos do Código, acompanhá-la, estudar e avaliar o seu impacte, canalizando a respectiva avaliação para os órgãos decisórios.\n\nO sistema dos impostos especiais sobre o consumo desempenha, no campo dos princípios gerais, o mesmo tipo de actividde técnico-normativa do sistema anteriormente referido, actuando, todavia, sobre diferente objecto: óleos minerais, veículos automóveis, álcool e bebidas alcoólicas e tabacos.\n\nO terceiro sistema que a lei consagra é o de prevenção e repressão da fraude.\n\nConsagra-se neste sistema, para além da estrutura central de tratamento da informação e da de intervenção a nível nacional especializado, a participação da orgânica em programas e acções desenvolvidos ao nível periférico.\n\nO reflexo desta solução estrutural é visível na relação funcional com as orgânicas de apoio dos grandes centros de movimento aduaneiro e fiscal e, particularmente, na estrutura matricial que se desenvolve com equipas pluridisciplinares de intervenção, onde é possível compatibilizar valências centrais, periféricas e externas, bem como as especializadas nos sectores sob controlo.\n\nPassando da conceptualização das políticas e do seu acompanhamento e reformulação à fase de execução, o suporte orgânico por excelência, exercido a nível periférico, é a unidade orgânica «alfândega», onde se operam todos os actos técnicos e administrativos que permitem dar execução às políticas e onde se recolhe toda a informação necessária à reformulação das mesmas.\n\nO especial relevo dos distritos de Lisboa e do Porto em volume de trabalho e, particularmente, a especificidade das vias de comunicação e respectivos meios de transporte explicam e justificam a existência de uma estrutura mínima de cúpula nestas áreas - as Direcções das Alfândegas de Lisboa e do Porto.\n\nJá as delegações e postos são extensões de competência, com flexibilidade de criação e extinção, de molde a permitir acompanhar a evolução do processo económico e fiscal, com celeridade e aproximação aos agentes económicos.\n\nA lei introduz igualmente o conceito de território aduaneiro, aliás extraído do Código Aduaneiro comunitário, abrangendo o território do continente e das Regiões Autónomas.\n\nPrevê-se ainda a possibilidade da criação de delegações e postos nas instalações dos operadores económicos, o que representa um significativo apoio à desburocratização e ao já referido princípio da aproximação dos serviços aos agentes económicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d0362ae5e44f3606": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral das Alfândegas, adiante designada abreviadamente DGA, é o departamento do Ministério das Finanças que tem por objectivos fundamentais estudar, propor, coordenar, executar e avaliar programas e medidas de política aduaneira, bem como os relativos ao regime fiscal dos impostos indirectos que lhe estão cometidos."
+  },
+  "9a2f35c171c9e472": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da DGA:\n\na) Produzir, tratar, organizar e difundir a informação necessária à sua participação na definição das políticas nacionais e comunitárias nos domínios aduaneiro, fiscal e de prevenção e repressão da fraude;\n\nb) Executar acções de coordenação e controlo da aplicação das políticas definidas e das disposições legais em vigor no domínio da sua competência;\n\nc) Preparar e assegurar a participação da administração aduaneira no âmbito das relações externas bilaterais e das relações externas da Comunidade Europeia com terceiros países e com organizações internacionais;\n\nd) Contribuir, no âmbito das suas atribuições, para que seja assegurada a coerência interna das várias políticas comunitárias susceptíveis de interacções no Mercado Único;\n\ne) Promover a cooperação com as administrações aduaneiras dos demais Estados membros da Comunidade Europeia com vista à troca regular de informações, necessária à fundamentação de estudos e intervenções que assegurem uma participação eficaz e homogénea no funcionamento do Mercado Único;\n\nf) Acompanhar as negociações das matérias comunitárias que se enquadrem nas suas atribuições e assegurar a participação dos serviços, em razão da sua competência;\n\ng) Colaborar numa gestão eficaz e competitiva da fronteira externa, procurando soluções que contribuam para uma harmonização de procedimentos a nível comunitário e impeçam desvios de tráfego e perturbações no funcionamento concorrencial dos mercados;\n\nh) Controlar as trocas de mercadorias e os meios de transporte com fins fiscais e económicos e, bem assim, exercer outros controlos que lhe forem cometidos;\n\ni) Garantir a correcta aplicação das disposições legais a que se encontrem sujeitas as mercadorias introduzidas no território aduaneiro da Comunidade, até que lhes seja atribuído um destino aduaneiro;\n\nj) Atribuir um destino aduaneiro às mercadorias nos termos da legislação em vigor e proceder, nos casos em que a ela houver lugar, à cobrança das receitas nacionais e comunitárias;\n\nl) Proceder, no âmbito da sua competência, às adequadas verificações na fronteira externa e no mercado nacional, através de controlos físicos nos locais de partida, destino e trânsito das mercadorias e do controlo da contabilidade dos agentes económicos;\n\nm) Assegurar, nas trocas comerciais com países terceiros, a liquidação e cobrança do IVA e a administração dos impostos especiais de consumo, bem como, nas trocas intracomunitárias e na produção nacional, a administração destes últimos e dos demais impostos indirectos que lhe estão cometidos;\n\nn) Prevenir e reprimir a fraude aduaneira e fiscal e os tráficos ilícitos, designadamente de droga, precursores, armas químicas, explosivos, bens de alta tecnologia, armas e objectos de arte, com recurso aos instrumentos e meios de informação adequados;\n\no) Cooperar com outros serviços no âmbito das actividades referidas na alínea anterior, nomeadamente pela prática da assistência mútua internacional;\n\np) Solicitar para os fins e domínios referidos na alínea n) a colaboração de serviços policiais e forças de segurança;\n\nq) Proceder à realização de controlos, inspecções e auditorias com vista a garantir a correcta aplicação dos regimes aduaneiros e fiscais;\n\nr) Assegurar aos agentes económicos e sociais informação concreta e orientada para o esclarecimento das questões suscitadas pelo exercício das suas atribuições e, nomeadamente, pelo funcionamento do Mercado Único."
+  },
+  "481b4bfbf91cdbe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Território aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Território aduaneiro\n\nO território aduaneiro nacional constitui uma parcela do território aduaneiro comunitário e é integrado:\n\na) Pelo território do continente e das Regiões Autónomas dos Açores e da Madeira e respectivas águas marítimas interiores;\n\nb) Pelas águas territoriais;\n\nc) Pelo espaço aéreo nacional."
+  },
+  "31d4546644320d24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos da DGA:\n\na) O director-geral;\n\nb) O Conselho Técnico-Aduaneiro."
+  },
+  "b4a32b0d9c0e1d10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Director-geral\n\n1 - Compete ao director-geral:\n\na) Dirigir e orientar a acção dos serviços da DGA;\n\nb) Apresentar à aprovação do membro do Governo competente o plano e o relatório de actividades da DGA;\n\nc) Submeter à aprovação das entidades competentes os orçamentos e a conta anual da DGA;\n\nd) Representar e fazer representar a DGA em quaisquer actos ou contratos em que ela haja de intervir, em juízo ou fora dela.\n\n2 - O director-geral é coadjuvado por subdirectores-gerais, nos quais pode delegar parte da sua competência.\n\n3 - O director-geral pode delegar parte da sua competência nos directores de serviço e chefes de divisão ou equiparados, com poderes para subdelegarem."
+  },
+  "8b8a14d6231c2582": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Conselho Técnico-Aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho Técnico-Aduaneiro\n\n1 - Ao Conselho Técnico-Aduaneiro, na dependência do director-geral, compete decidir sobre as contestações de carácter técnico suscitadas no acto de verificação das mercadorias ou posteriormente ao seu desalfandegamento, relacionadas com a classificação pautal, origem ou valor das mercadorias.\n\n2 - A constituição e o funcionamento do Conselho Técnico-Aduaneiro, bem como a tramitação dos processos de contestação sobre classificação pautal, origem e valor das mercadorias, é o que consta do [Decreto-Lei n.º 281/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1991-679824), de 9 de Agosto, com as alterações que lhe são introduzidas pelo presente diploma."
+  },
+  "b52de62f6995a3e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços centrais\n\nSão serviços centrais da DGA:\n\na) Gabinete de Auditoria Interna;\n\nb) Direcção de Serviços Jurídicos;\n\nc) Direcção de Serviços de Gestão de Recursos Humanos;\n\nd) Direcção de Serviços Financeiros;\n\ne) Direcção de Serviços de Sistemas de Informação;\n\nf) Centro de Documentação e Relações Públicas;\n\ng) Laboratório;\n\nh) Direcção de Serviços de Tributação Aduaneira;\n\ni) Direcção de Serviços de Regulação Aduaneira;\n\nj) Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis;\n\nl) Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado;\n\nm) Direcção de Serviços de Prevenção e Repressão da Fraude."
+  },
+  "1d9f00c9267945cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Gabinete de Auditoria Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Auditoria Interna\n\n1 - Ao Gabinete de Auditoria Interna compete:\n\na) Desenvolver acções no âmbito da inspecção e auditoria de gestão;\n\nb) Analisar e avaliar, em termos de eficácia e eficiência, a actividade prosseguida pelos serviços, detectando e caracterizando os factores e as situações condicionantes ou impeditivas da realização dos objectivos definidos;\n\nc) Verificar o cumprimento das disposições legais e regulamentares;\n\nd) Cooperar com os serviços comunitários na realização de auditorias e acompanhar posteriormente as sugestões por eles formuladas;\n\ne) Recolher informações, elaborar relatórios e propor medidas tendentes à eliminação das deficiências e irregularidades detectadas.\n\n2 - O Gabinete de Auditoria Interna é dirigido por um director de serviços."
+  },
+  "bc7ef6260259077b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços Jurídicos\n\n1 - À Direcção de Serviços Jurídicos compete:\n\na) Apoiar os serviços na elaboração de projectos de diplomas respeitantes ou relacionados com matérias que relevem da respectiva competência e assegurar a coordenação interdepartamental que se revele necessária;\n\nb) Apoiar a transposição de directivas e a aplicação de outros actos normativos comunitários na ordem jurídica interna;\n\nc) Realizar estudos e emitir pareceres e informações de natureza jurídica que se relacionem com matérias de incidência administrativa e fiscal;\n\nd) Acompanhar junto dos tribunais os processos judiciais e de contencioso administrativo e fiscal em que a DGA seja interessada;\n\ne) Emitir parecer, relativamente à eventual ocorrência de procedimento disciplinar, face a participações apresentadas pelos serviços;\n\nf) Proceder a averiguações e instruir os processos disciplinares, inquéritos e sindicâncias que lhe forem determinados;\n\ng) Colaborar com os restantes serviços, nas matérias que relevem da sua competência, na análise, estudo, aplicação e actualização de tratados, convenções e acordos bilaterais ou multilaterais com incidência aduaneira ou fiscal.\n\n2 - A Direcção de Serviços Jurídicos é dirigida por um director de serviços."
+  },
+  "697158e7326a9662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Gestão de Recursos Humanos\n\n1 - À Direcção de Serviços de Gestão de Recursos Humanos compete assegurar os procedimentos técnicos e administrativos relativos à gestão e desenvolvimento dos recursos humanos.\n\n2 - A Direcção de Serviços de Gestão de Recursos Humanos é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços de Gestão de Recursos Humanos dispõe dos seguintes serviços:\n\na) Divisão de Gestão de Recursos Humanos;\n\nb) Divisão de Formação."
+  },
+  "36f3030c5d1c51b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º"
+  },
+  "a848c39666df1b8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Gestão de Recursos Humanos\n\n1 - À Divisão de Gestão de Recursos Humanos compete:\n\na) Conceber e manter actualizado um sistema de informação relativo a pessoal e contribuir para a definição e implementação das políticas a prosseguir no âmbito da gestão dos recursos humanos;\n\nb) Assegurar a aplicação uniforme das disposições legais relativas ao recrutamento, selecção, provimento, promoção, progressão e cessação da relação jurídica de emprego;\n\nc) Proceder à definição de normas de mobilidade do pessoal com vista a uma gestão racional e previsional do quadro da DGA;\n\nd) Executar os procedimentos relativos ao processo de classificação de serviço e promover a aplicação de critérios comuns de avaliação do desempenho, por forma a garantir a equidade;\n\ne) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego, bem como à assiduidade, férias e benefícios sociais dos funcionários;\n\nf) Elaborar o balanço social.\n\n2 - A Divisão de Gestão de Recursos Humanos é dirigida por um chefe de divisão."
+  },
+  "3f63b74c9f1441de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º"
+  },
+  "7767e5bb6f650e0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Formação\n\n1 - À Divisão de Formação compete:\n\na) Realizar os estudos necessários à determinação do diagnóstico de necessidades dos serviços em matéria de formação e aperfeiçoamento profissional;\n\nb) Apoiar a formulação das políticas de formação e aperfeiçoamento profissional da DGA e assegurar a sua aplicação;\n\nc) Programar e realizar as acções de formação e aperfeiçoamento profissional que se mostrem adequadas ao aumento da eficácia e eficiência dos serviços e à qualificação dos recursos humanos;\n\nd) Proceder à caracterização do perfil de formador e assegurar a preparação de formadores especialistas nas diversas áreas de interesse para a DGA;\n\ne) Desenvolver as operações técnicas necessárias à avaliação e validação das acções;\n\nf) Informar, através da elaboração e divulgação do relatório, o resultado das suas actividades e fornecer indicadores numa perspectiva do enquadramento destes na gestão global da DGA;\n\ng) Conceber e manter actualizada uma base de dados relativa à formação ministrada, formandos, formadores e outros elementos relativos aos cursos e sua frequência;\n\nh) Colaborar com os serviços comunitários na concepção e realização de programas de formação adaptados à evolução do processo comunitário;\n\ni) Colaborar, sempre que solicitada, na realização de acções de formação promovidas por entidades estranhas à DGA, designadamente no âmbito da cooperação;\n\nj) Promover e desenvolver acções de formação, programas e projectos que lhe sejam solicitados por outros países no âmbito da cooperação bilateral, comunitária ou internacional.\n\n2 - A Divisão de Formação é dirigida por um chefe de divisão."
+  },
+  "5392e80f6473ff3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços Financeiros\n\n1 - À Direcção de Serviços Financeiros compete promover a execução do regime financeiro da DGA e assegurar os procedimentos técnicos e administrativos relativos aos recursos próprios comunitários e à receita nacional.\n\n2 - A Direcção de Serviços Financeiros é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços Financeiros dispõe dos seguintes serviços:\n\na) Repartição do Orçamento e Conta e da Administração do Património;\n\nb) Divisão dos Recursos Próprios Comunitários e da Receita Nacional."
+  },
+  "0f74e4e2fbe27140": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Repartição do Orçamento e Conta e da Administração do Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Repartição do Orçamento e Conta e da Administração do Património\n\n1 - À Repartição do Orçamento e Conta e da Administração do Património compete:\n\na) Preparar o projecto de orçamento da DGA em conformidade com as regras gerais definidoras do regime jurídico e financeiro dos serviços e organismos da Administração Pública;\n\nb) Colaborar com os demais serviços centrais e com os periféricos na orçamentação das respectivas actividades e na organização anual da conta de gerência a submeter a aprovação do Tribunal de Contas;\n\nc) Executar o orçamento, utilizando os suportes de informação determinados por lei;\n\nd) Elaborar os mapas e relatórios de execução e avaliação orçamental que se mostrem necessários ao adequado controlo da gestão orçamental da DGA, bem como definir os respectivos indicadores;\n\ne) Verificar a legalidade e eficiência das despesas e efectuar o seu processamento, incluindo o relativo aos vencimentos e abonos com o pesoal e respectivos descontos;\n\nf) Assegurar a constituição de um fundo de maneio;\n\ng) Proceder ao registo e emissão dos documentos exigidos por lei ou regulamento;\n\nh) Organizar e manter actualizado o inventário do património da DGA;\n\ni) Implementar medidas de conservação dos edifícios afectos ao funcionamento dos serviços da DGA;\n\nj) Assegurar os procedimentos relativos ao aprovisionamento de bens e serviços nas suas vertentes de compra, armazenamento e gestão de existências;\n\nl) Satisfazer as requisições de material de uso corrente, segundo padrões de rentabilização dos investimentos;\n\nm) Gerir o parque automóvel, assegurar a sua manutenção, superintender no respectivo pessoal e criar indicadores da respectiva exploração.\n\n2 - A Repartição do Orçamento e Conta e da Administração do Património é dirigida por um chefe de repartição.\n\n3 - Para a prossecução das suas actividades, a Repartição do Orçamento e Conta e da Administração do Património compreende:\n\na) A Secção de Orçamento e Contabilidade, com as competências estabelecidas nas alíneas a) a g) do n.º 1;\n\nb) A Secção do Património, com as competências estabelecidas nas alíneas h) a m) do n.º 1.\n\n4 - As secções previstas no número anterior são dirigidas por chefes de secção."
+  },
+  "5e6b1ab89a44ae0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º"
+  },
+  "2085a266b818c080": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Recursos Próprios Comunitários e da Receita Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Recursos Próprios Comunitários e da Receita Nacional\n\n1 - À Divisão dos Recursos Próprios Comunitários e da Receita Nacional compete:\n\na) Analisar os elementos fornecidos pelos serviços periféricos e elaborar a informação relativa aos montantes apurados dos recursos próprios tradicionais, inscritos na contabilidade ordinária, para efeitos da sua colocação à disposição da Comissão das Comunidades Europeias;\n\nb) Analisar os elementos fornecidos pelos serviços periféricos e elaborar a informação relativa aos montantes apurados dos recursos próprios tradicionais, inscritos na contabilidade separada, para efeitos da sua comunicação à Comissão das Comunidades Europeias;\n\nc) Acompanhar a tramitação dos processos relativos a recursos próprios tradicionais, cuja liquidação haja sido posta em causa, com vista a permitir à Comissão controlar a acção desenvolvida em matéria de cobrança de tais recursos;\n\nd) Proceder à elaboração dos relatórios semestrais relativos à descrição sumária das fraudes e irregularidades que incidam sobre determinado montante de recursos próprios;\n\ne) Emitir pareceres e informações em matéria de dívida aduaneira;\n\nf) Informar os processos de reembolso, dispensa de pagamento e cobrança a posteriori de direitos, a autorizar pelo director-geral, e proceder à instrução dos processos cuja decisão seja da competência da Comissão das Comunidades Europeias;\n\ng) Preparar a informação relativa a recursos próprios, necessária à elaboração do Orçamento do Estado;\n\nh) Elaborar a conta recapitulativa dos direitos apurados, bem como o relatório relativo ao apuramento e à contabilização dos recursos próprios, nos termos da legislação comunitária em vigor;\n\ni) Recolher, tratar e contabilizar todos os rendimentos arrecadados pela DGA e elaborar os adequados instrumentos estatísticos.\n\n2 - A Divisão dos Recursos Próprios Comunitários e da Receita Nacional é dirigida por um chefe de divisão."
+  },
+  "12aed570c6de30e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção de Serviços de Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços de Sistemas de Informação\n\n1 - À Direcção de Serviços de Sistemas de Informação compete o desenvolvimento e exploração de sistemas de informação adequados à racionalização de estruturas e procedimentos e ao apoio à tomada de decisão, numa perspectiva de modernização e melhoria da qualidade dos serviços.\n\n2 - A Direcção de Serviços de Sistemas de Informação é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços de Sistemas de Informação dispõe dos seguintes serviços:\n\na) Divisão de Organização e Desenvolvimento Tecnológico;\n\nb) Divisão de Concepção de Sistemas Informáticos;\n\nc) Divisão de Exploração e Comunicações."
+  },
+  "1ad5b81b7a54a58e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º"
+  },
+  "f1d0d53907d1300d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Organização e Desenvolvimento Tecnológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Organização e Desenvolvimento Tecnológico\n\n1 - À Divisão de Organização e Desenvolvimento Tecnológico compete:\n\na) Proceder à elaboração do plano integrado e global de actividades para a DGA, tendo em conta as propostas formuladas pelos vários serviços;\n\nb) Elaborar o relatório anual de execução do mesmo plano, com vista a aferir do grau de consecução dos resultados alcançados;\n\nc) Elaborar os estudos e formular as propostas de adequação da estrutura orgânica da DGA aos seus objectivos;\n\nd) Proceder à definição e à adopção de metodologias adequadas a um aproveitamento correcto das instalações dos serviços, tendo em vista a racionalização do trabalho e o enquadramento integral dos recursos humanos e materiais;\n\ne) Estudar, propor e incrementar formas de organização do trabalho, nomeadamente através do recurso a novas tecnologias da informação;\n\nf) Proceder ao levantamento e eventual redefinição dos sistemas de informação, com vista à adopção dos processos mais adequados ao seu tratamento;\n\ng) Proceder à uniformização de conceitos e normalização de suportes e procedimentos da informação.\n\n2 - A Divisão de Organização e Desenvolvimento Tecnológico é dirigida por um chefe de divisão."
+  },
+  "bac699744595b0f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º"
+  },
+  "f753ecd9ddbc71bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Concepção de Sistemas Informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Concepção de Sistemas Informáticos\n\n1 - À Divisão de Concepção de Sistemas Informáticos compete:\n\na) Conceber, incrementar e manter sistemas informáticos adequados à satisfação das necessidades de informatização da DGA;\n\nb) Promover a elaboração dos instrumentos documentais necessários à correcta exploração das aplicações;\n\nc) Colaborar com os utilizadores, tendo em vista a completa adequação dos meios disponíveis aos objectivos que presidam à sua instalação e promover a respectiva informação e formação;\n\nd) Garantir a aplicação de metodologias e de normas de documentação e execução técnica de projectos;\n\ne) Garantir a produção e qualidade dos produtos informacionais resultantes do tratamento de dados.\n\n2 - A Divisão de Concepção de Sistemas Informáticos é dirigida por um chefe de divisão."
+  },
+  "805b0ab691536130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º"
+  },
+  "6485efad090851a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Exploração e Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Exploração e Comunicações\n\n1 - À Divisão de Exploração e Comunicações compete:\n\na) Realizar os estudos necessários à elaboração das propostas de aquisição de equipamentos e suportes lógicos;\n\nb) Planificar e executar as actividades inerentes a uma adequada exploração dos equipamentos, com vista ao cumprimento cabal e atempado das tarefas que lhe sejam cometidas;\n\nc) Assegurar a concretização das medidas necessárias ao bom funcionamento dos equipamentos, desencadeando em tempo oportuno as acções adequadas à correcção de anomalias;\n\nd) Garantir, em colaboração com os fornecedores, a execução dos planos de manutenção de todo o equipamento, procedendo ao registo de todas as acções executadas neste âmbito;\n\ne) Proceder à elaboração e actualização dos manuais de operação do equipamento sob a sua responsabilidade, garantindo a aplicação de todas as normas e procedimentos que nestes se contenham;\n\nf) Proceder à definição de normas de segurança e garantir a sua execução, tendo em vista a salvaguarda dos meios postos à sua disposição, bem como da informação à sua guarda;\n\ng) Manter informação adequada acerca da utilização dos equipamentos, com vista à definição de indicadores que fundamentem eventuais alterações da política de exploração;\n\nh) Estabelecer os mecanismos adequados à garantia do cumprimento das normas de acesso à informação;\n\ni) Realizar estudos necessários à definição de redes e meios de comunicação entre os equipamentos.\n\n2 - A Divisão de Exploração e Comunicações é dirigida por um chefe de divisão."
+  },
+  "5dd7b8ede6672887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Centro de Documentação e Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Centro de Documentação e Relações Públicas\n\n1 - Ao Centro de Documentação e Relações Públicas compete:\n\na) Organizar e manter actualizado um centro de documentação;\n\nb) Assegurar aos serviços da DGA o apoio documental e bibliográfico;\n\nc) Assegurar a recolha, selecção e tratamento da documentação histórica;\n\nd) Organizar e gerir o arquivo histórico da DGA;\n\ne) Planificar, redigir, editar e difundir publicações com interesse para os serviços da DGA e para o público em geral;\n\nf) Coordenar a execução das acções dirigidas à promoção da imagem da DGA;\n\ng) Tratar e difundir a informação produzida pelos órgãos da comunicação social;\n\nh) Assegurar o serviço de relações públicas da DGA;\n\ni) Orientar os agentes económicos e sociais para o esclarecimento das questões suscitadas pelo exercício das atribuições da DGA, através dos meios de informação adequados, nomeadamente utilizando a gestão de circuitos telefónicos específicos;\n\nj) Organizar os programas das actividades sociais e culturais no domínio das relações de cooperação com as instituições similares de outros países, designadamente com as dos países de língua portuguesa;\n\nl) Coordenar a actividade de cooperação com os países de língua portuguesa.\n\n2 - O Centro de Documentação e Relações Públicas é dirigido por um chefe de divisão."
+  },
+  "daeb8577a0131577": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Laboratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Laboratório\n\n1 - Ao Laboratório compete:\n\na) Elaborar e propor um plano de estudos laboratoriais e de execução de análises tendo em conta as necessidades dos serviços, as mercadorias mais sensíveis e o tipo de análises mais solicitado;\n\nb) Colaborar com os serviços nacionais e instituições comunitárias competentes na definição de normas sobre colheita de amostras;\n\nc) Realizar os estudos laboratoriais necessários à aplicação da regulamentação comunitária sobre métodos de análise;\n\nd) Proceder à colheita de amostras e à execução das análises que se mostrem necessárias ao processamento da declaração aduaneira, à instrução dos processos do contencioso fiscal e do contencioso técnico-aduaneiro;\n\ne) Executar as análises dos corantes, desnaturantes e conservantes mandados adoptar;\n\nf) Providenciar pela aquisição dos meios técnicos e materiais necessários ao exercício da sua competência.\n\n2 - O Laboratório é dirigido por um chefe de divisão."
+  },
+  "9b02452fb34ee989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Direcção de Serviços de Tributação Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direcção de Serviços de Tributação Aduaneira\n\n1 - À Direcção de Serviços de Tributação Aduaneira compete desenvolver a actividade técnico-normativa e prestar apoio técnico no domínio da aplicação dos direitos aduaneiros e outras medidas de carácter pautal, no âmbito das trocas externas de mercadorias.\n\n2 - A Direcção de Serviços de Tributação Aduaneira é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços de Tributação Aduaneira dispõe dos seguintes serviços:\n\na) Divisão de Nomenclatura e Gestão Pautal;\n\nb) Divisão de Origens e Valor Aduaneiro."
+  },
+  "5f37d2dbdb81423a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º"
+  },
+  "60062dec4b1448f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Nomenclatura e Gestão Pautal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Nomenclatura e Gestão Pautal\n\n1 - À Divisão de Nomenclatura e Gestão Pautal compete:\n\na) Elaborar e manter actualizada a Pauta dos Direitos de Importação em conformidade com a Pauta Aduaneira Comum;\n\nb) Elaborar e manter actualizada a pauta de serviço em conformidade com a Pauta Aduaneira Integrada da Comunidade Europeia, aditada com a informação necessária ao desalfandegamento das mercadorias, na importação e exportação;\n\nc) Manter actualizada a base de dados pautal;\n\nd) Proceder ao tratamento e difusão dos montantes aplicáveis às trocas de produtos agrícolas e das respectivas normas de aplicação;\n\ne) Pronunciar-se sobre as dúvidas suscitadas no âmbito da classificação pautal de mercadorias e emitir pareceres e recomendações de classificação pautal;\n\nf) Emitir informações pautais vinculativas;\n\ng) Analisar e difundir os pareceres emitidos pelo Conselho de Cooperação Aduaneira sobre classificação de mercadorias na nomenclatura do Sistema Harmonizado de Designação e Codificação de Mercadorias;\n\nh) Elaborar instruções sobre a aplicação do regime de destino especial das mercadorias;\n\ni) Elaborar instruções respeitante à aplicação de medidas de vigilância e restrições à importação e exportação, bem como de direitos antidumping;\n\nj) Proceder ao exame sumário dos autos em processos de contestação sobre classificação pautal, nos termos da legislação em vigor.\n\n2 - A Divisão de Nomenclatura e Gestão Pautal é dirigida por um chefe de divisão."
+  },
+  "f3db2fd1759841cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º"
+  },
+  "c752d93ccf8958f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Origens e Valor Aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Origens e Valor Aduaneiro\n\n1 - À Divisão de Origens e Valor Aduaneiro compete:\n\na) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação da legislação relativa às regras de origem das mercadorias;\n\nb) Colaborar com outras entidades na elaboração e aplicação dos acordos preferenciais celebrados entre a Comunidade e países terceiros;\n\nc) Participar nos trabalhos das instituições nacionais e comunitárias competentes com vista a assegurar a abertura e gestão adequada dos contingentes e das suspensões pautais comunitárias;\n\nd) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação da legislação sobre valor aduaneiro das mercadorias;\n\ne) Desenvolver os estudos e outras actividades necessárias à garantia de uma avaliação exacta e uniforme do valor das mercadorias;\n\nf) Colaborar na realização de investigações e inquéritos para controlo do valor aduaneiro das mercadorias.\n\n2 - A Divisão de Origens e Valor Aduaneiro é dirigida por um chefe de divisão."
+  },
+  "46b5ddabe4b5fe11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Direcção de Serviços de Regulação Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direcção de Serviços de Regulação Aduaneira\n\n1 - À Direcção de Serviços de Regulação Aduaneira compete desenvolver a actividade técnico-normativa e prestar o apoio técnico no domínio das trocas externas das mercadorias e da sua permanência no território aduaneiro comunitário.\n\n2 - A Direcção de Serviços de Regulação Aduaneira é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços de Regulação Aduaneira dispõe dos seguintes serviços:\n\na) Divisão de Circulação de Mercadorias;\n\nb) Divisão de Regimes Aduaneiros."
+  },
+  "2175a2da082e1cc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º"
+  },
+  "9cb1de692c382310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Circulação de Mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Circulação de Mercadorias\n\n1 - À Divisão de Circulação de Mercadorias compete:\n\na) Proceder a estudos e à elaboração de instruções com vista a uma actuação uniforme dos serviços relativamente às mercadorias introduzidas no território aduaneiro da Comunidade e sua apresentação à alfândega até que lhes seja atribuído um destino aduaneiro;\n\nb) Proceder a estudos e à elaboração de instruções para a correcta aplicação das disposições legais relativas aos regimes de importação e exportação, procedimentos simplificados de desalfandegamento e trânsito externo e interno;\n\nc) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação das disposições legais relativamente à introdução das mercadorias em livre prática;\n\nd) Acompanhar o processo de simplificação e racionalização dos documentos e formalidades exigidos pela declaração aduaneira;\n\ne) Proceder a estudos e à elaboração de instruções com vista à aplicação dos procedimentos aduaneiros relativos aos mecanismos horizontais de gestão, nomeadamente em matéria de intervenção, de certificação e de garantias, nas trocas comerciais de produtos agrícolas;\n\nf) Elaborar instruções e definir os procedimentos aduaneiros para aplicação da legislação comunitária referente às organizações de mercado no domínio da política agrícola;\n\ng) Organizar e proceder ao tratamento dos processos aduaneiros que sejam objecto de concessão de restituições ou de outros montantes à exportação de produtos agrícolas;\n\nh) Acompanhar os processos relativos às irregularidades resultantes da violação das regras da política agrícola, com incidência financeira no âmbito do FEOGA-Garantia e apoiar as respectivas acções de prevenção e repressão;\n\ni) Colaborar com outras entidades na gestão dos mercados agrícolas;\n\nj) Colaborar com os organismos competentes na elaboração de normas sobre protecção sanitária, fitossanitária e de qualidade dos produtos e garantir a sua correcta aplicação;\n\nl) Elaborar instruções com vista à correcta aplicação das disposições legais em matéria de controlos das normas referidas na alínea anterior e das normas técnicas;\n\nm) Analisar e emitir pareceres ou informações sobre questões relacionadas com a aplicação do direito marítimo.\n\n2 - A Divisão de Circulação de Mercadorias é dirigida por um chefe de divisão."
+  },
+  "8781869c4cdbe759": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º"
+  },
+  "693ae9d73841f006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Regimes Aduaneiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Regimes Aduaneiros\n\n1 - À Divisão de Regimes Aduaneiros compete:\n\na) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação das disposições legais relativas aos regimes de entreposto aduaneiro, aperfeiçoamento activo, transformação sob controlo aduaneiro, importação temporária, aperfeiçoamento passivo e exportação temporária;\n\nb) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação das disposições legais relativas às zonas francas, aos entrepostos francos, aos depósitos temporários e aos armazéns de exportação;\n\nc) Proceder a estudos e à elaboração de instruções com vista à correcta aplicação das disposições legais relativas aos regimes de franquias e de retorno;\n\nd) Pronunciar-se sobre a venda coerciva de mercadorias.\n\n2 - A Divisão de Regimes Aduaneiros é dirigida por um chefe de divisão."
+  },
+  "381457ec3d3bed0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis\n\n1 - À Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis compete a administração dos impostos especiais com incidência sobre estes produtos, importados e de produção comunitária.\n\n2 - A Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços dos Impostos sobre os Óleos Minerais e os Veículos Automóveis dispõe dos seguintes serviços:\n\na) Divisão do Imposto sobre os Óleos Minerais;\n\nb) Divisão do Imposto sobre os Veículos Automóveis."
+  },
+  "ee01aff73654239d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º"
+  },
+  "0465c8b71bdd46b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão do Imposto sobre os Óleos Minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão do Imposto sobre os Óleos Minerais\n\n1 - À Divisão do Imposto sobre os Óleos Minerais compete:\n\na) Participar no processo comunitário de harmonização do imposto sobre os óleos minerais;\n\nb) Elaborar estudos, pareceres e projectos de diplomas com vista à aplicação do regime fiscal dos óleos minerais;\n\nc) Proceder à elaboração de instruções para aplicação uniforme dos procedimentos relativos ao imposto sobre os óleos minerais;\n\nd) Colaborar com os serviços competentes na elaboração de normas de identificação dos óleos minerais e condições de medição;\n\ne) Determinar as taxas do imposto sobre os óleos minerais a aplicar no continente e nas Regiões Autónomas;\n\nf) Acompanhar o comportamento dos preços europeus dos óleos minerais sujeitos a imposto, tendo em vista o ajustamento dos preços portugueses;\n\ng) Preparar a previsão orçamental das receitas relativas ao imposto sobre os óleos minerais e acompanhar a respectiva execução orçamental;\n\nh) Elaborar indicadores relativos ao imposto sobre óleos minerais;\n\ni) Colaborar com outros organismos do Estado no controlo da utilização dos produtos que beneficiam de isenção ou redução do imposto sobre os óleos minerais e proceder às respectivas devoluções.\n\n2 - A Divisão do Imposto sobre os Óleos Minerais é dirigida por um chefe de divisão."
+  },
+  "5cafce3071fc9337": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º"
+  },
+  "ef26b876dc4131b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão do Imposto sobre os Veículos Automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão do Imposto sobre os Veículos Automóveis\n\n1 - À Divisão do Imposto sobre os Veículos Automóveis compete:\n\na) Elaborar estudos, pareceres e projectos de diplomas com vista à aplicação do regime fiscal dos veículos automóveis;\n\nb) Proceder à elaboração de instruções para aplicação uniforme dos procedimentos relativos ao imposto automóvel;\n\nc) Colaborar com os serviços competentes na execução da política fiscal definida para os veículos automóveis;\n\nd) Preparar a previsão orçamental das receitas relativas ao imposto referido na alínea b) e acompanhar a respectiva execução orçamental;\n\ne) Colaborar com outros serviços do Estado no controlo da utilização e destino dos veículos automóveis que beneficiam de isenção ou redução de impostos.\n\n2 - A Divisão do Imposto sobre os Veículos Automóveis é dirigida por um chefe de divisão."
+  },
+  "263b57f9a48278a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado\n\n1 - À Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado compete a administração dos impostos especiais com incidência sobre aqueles produtos, importados e de produção comunitária, bem como do imposto sobre o valor acrescentado, nos limites da sua competência.\n\n2 - A Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços dos Impostos sobre o Álcool, as Bebidas Alcoólicas, os Tabacos e o Valor Acrescentado dispõe dos seguintes serviços:\n\na) Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas;\n\nb) Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado."
+  },
+  "1830a4e4c2ee3349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º"
+  },
+  "1298c70fa4ecb648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas\n\n1 - À Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas compete:\n\na) Participar no processo comunitário de harmonização dos impostos sobre o álcool e as bebidas alcoólicas;\n\nb) Elaborar estudos, pareceres e projectos de diplomas com vista à aplicação do regime fiscal dos produtos referidos na alínea anterior;\n\nc) Proceder à elaboração de instruções para aplicação uniforme dos procedimentos relativos aos impostos referidos na alínea a);\n\nd) Preparar a previsão orçamental de receitas relativas aos impostos sobre o álcool e as bebidas alcoólicas e acompanhar a respectiva execução orçamental;\n\ne) Colaborar com os serviços competentes na execução da política fiscal definida para cada um dos referidos produtos.\n\n2 - A Divisão dos Impostos sobre o Álcool e as Bebidas Alcoólicas é dirigida por um chefe de divisão."
+  },
+  "61a01b8c49760b12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º"
+  },
+  "0b1741a0be4e3dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado\n\n1 - À Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado compete:\n\na) Participar no processo comunitário de harmonização do imposto sobre o consumo dos tabacos manufacturados e sobre o valor acrescentado;\n\nb) Elaborar estudos, pareceres e projectos de diplomas com vista à aplicação do regime fiscal dos tabacos;\n\nc) Proceder à elaboração de instruções para aplicação uniforme dos procedimentos relativos aos impostos referidos na alínea a);\n\nd) Preparar a previsão orçamental de receitas relativas ao imposto sobre os tabacos e ao imposto sobre o valor acrescentado na importação e acompanhar a respectiva execução orçamental;\n\ne) Coordenar a actuação das delegações a funcionar junto das fábricas de produção nacional;\n\nf) Controlar a atribuição de estampilhas especiais para selagem do tabaco;\n\ng) Colaborar com os organismos competentes na implementação da política fiscal definida para o imposto sobre o valor acrescentado.\n\n2 - A Divisão dos Impostos sobre os Tabacos e o Valor Acrescentado é dirigida por um chefe de divisão."
+  },
+  "a0b20480d756a146": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Direcção de Serviços de Prevenção e Repressão da Fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direcção de Serviços de Prevenção e Repressão da Fraude\n\n1 - À Direcção de Serviços de Prevenção e Repressão da Fraude compete desenvolver a actividade técnico-normativa de prevenção e repressão à fraude aduaneira e fiscal e planear, dirigir, organizar, coordenar e controlar acções no mesmo domínio.\n\n2 - A Direcção de Serviços de Prevenção e Repressão da Fraude é dirigida por um director de serviços.\n\n3 - Para o exercício da sua competência a Direcção de Serviços de Prevenção e Repressão da Fraude dispõe dos seguintes serviços:\n\na) Divisão de Informação;\n\nb) Divisão de Fiscalização.\n\n4 - A Direcção de Serviços de Prevenção e Repressão da Fraude exerce as suas actividades privilegiadamente através de programas matriciais, desenvolvidos em pluridisciplinaridade com os restantes serviços centrais e periféricos da DGA."
+  },
+  "ca6afb575683e84a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º"
+  },
+  "61a8536c09577c2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informação\n\n1 - À Divisão de Informação compete:\n\na) Proceder ao tratamento integrado de dados e informações de natureza aduaneira e fiscal necessários à definição das medidas de política de prevenção e repressão da fraude;\n\nb) Proceder especificamente à recolha e tratamento da informação relativa à prevenção e repressão do tráfico ilícito de produtos sensíveis, designadamente, estupefacientes, substâncias psicotrópicas, armas nucleares, químicas e biológicas, percursores de droga, bens e tecnologias duais, objectos de arte, antiguidades e espécies da fauna e da flora em vias de extinção;\n\nc) Proceder à recolha e tratamento da informação relativa aos controlos, fraudes e irregularidades, a fornecer aos serviços da Comissão, nos termos da legislação comunitária;\n\nd) Proceder ao registo de dados relativos à identificação das mercadorias, meios de transporte e operadores económicos que, segundo critérios de risco, devam ser objecto de verificações, inspecções ou auditorias;\n\ne) Elaborar os indicadores que permitam a avaliação e o controlo dos resultados;\n\nf) Proceder a estudos no domínio do tratamento da informação relativos à correcta aplicação das medidas enunciadas nas alíneas anteriores;\n\ng) Elaborar manuais de operações relacionados com a fiscalização aduaneira e fiscal.\n\n2 - A Divisão de Informação é dirigida por um chefe de divisão."
+  },
+  "c0ef964e6d299d10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º"
+  },
+  "78cc2c11b1612284": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Fiscalização\n\n1 - À Divisão de Fiscalização compete:\n\na) Proceder a estudos e elaboração de instruções com vista à correcta aplicação das disposições legais relativas à prevenção e repressão da fraude;\n\nb) Elaborar o plano de actuação dos serviços, proceder à avaliação dos resultados obtidos e propor as medidas correctivas que se revelem necessárias;\n\nc) Fixar os princípicos a que se deve submeter o exercício da actividade de fiscalização, designadamente nas rodovias, caminhos de ferro, aeroportos e aeródromos, ancoradouros e rios limítrofes, comboios, aeronaves, embarcações e outros veículos, bem como das mercadorias sujeitas a acção aduaneira;\n\nd) Coordenar ou controlar acções de fiscalização ao nível periférico;\n\ne) Assegurar a constituição e coordenação técnica de equipas interdisciplinares, destinadas à realização de controlos, inspecções e auditorias, com vista a averiguar da regularidade de aplicação dos regimes aduaneiros e fiscais;\n\nf) Assegurar a realização dos controlos relacionados com as ajudas financeiras concedidas no âmbito da política agrícola comum;\n\ng) Promover acções de fiscalização e controlo, no âmbito da sua competência, nomeadamente em relação ao imposto sobre o valor acrescentado e impostos especiais sobre o consumo e outros impostos indirectos cometidos à DGA.\n\n2 - A Divisão de Fiscalização é dirigida por um chefe de divisão."
+  },
+  "76ea8ac6afc497c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Funcionamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Funcionamento interno\n\n1 - A prossecução das actividades da DGA obedece a princípios de planeamento, orçamentação e controlo e exerce-se pela via da programação anual.\n\n2 - Sempre que esteja em causa a realização de objectivos de natureza multidisciplinar e temporária, haverá lugar à intervenção simultânea de diversas unidades orgânicas da DGA."
+  },
+  "fbdad04294e896bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Natureza dos serviços periféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Natureza dos serviços periféricos\n\n1 - Os serviços periféricos constituem unidades orgânicas desconcentradas da DGA que visam assegurar a prossecução das suas atribuições na respectiva área de jurisdição.\n\n2 - A jurisdição dos serviços periféricos exercer-se-á sobre a totalidade do território aduaneiro nas condições fixadas nas leis e regulamentos aduaneiros."
+  },
+  "4f81535ac5c62746": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Serviços periféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Serviços periféricos\n\n1 - São serviços periféricos:\n\na) As alfândegas;\n\nb) As delegações aduaneiras;\n\nc) Os postos aduaneiros.\n\n2 - Nos distritos de Lisboa e do Porto as alfândegas são integradas em direcções, respectivamente designadas por Direcção das Alfândegas de Lisboa e Direcção das Alfândegas do Porto."
+  },
+  "f398bf9639638d12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Hierarquização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Hierarquização\n\nA hierarquização dos serviços periféricos é a constante do anexo I ao presente diploma, que dele faz parte integrante."
+  },
+  "720b6f192e107a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Área de jurisdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Área de jurisdição\n\n1 - A área de jurisdição dos serviços periféricos é a constante do anexo II ao presente diploma, que dele faz parte integrante.\n\n2 - A área de jurisdição de cada alfândega nos distritos de Lisboa e do Porto é definida por despacho do director-geral, sob proposta do director da respectiva direcção."
+  },
+  "87bf541d5c0cbd8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Equiparações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Equiparações\n\n1 - Os directores das Direcções das Alfândegas de Lisboa e do Porto, bem como os directores das Alfândegas do Funchal e de Ponta Delgada, são equiparados, para todos os efeitos legais, a directores de serviço.\n\n2 - Os directores das alfândegas são equiparados, para todos os efeitos legais, a chefes de divisão."
+  },
+  "845e80efea090899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Nível orgânico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Nível orgânico\n\nO nível orgânico dos serviços periféricos é determinado com base, nomeadamente, nos seguintes factores:\n\na) Segurança fiscal aduaneira;\n\nb) Salvaguarda de desvios de tráfego e da concorrência;\n\nc) Volume e natureza das trocas externas;\n\nd) Produção e fluxos de entrada e saída de mercadorias sujeitas a impostos especiais de consumo;\n\ne) Volume e natureza das receitas cobradas;\n\nf) Fluxos de entrada e saída de meios de transporte;\n\ng) Implantação dos agentes económicos;\n\nh) Aproximação das autoridades aduaneiras às empresas;\n\ni) Interesse sócio-económico do território sob jurisdição do serviço periférico."
+  },
+  "8664c7037de4dc4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Criação e extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Criação e extinção de serviços\n\nAs delegações e postos aduaneiros são criados e extintos por portaria do Ministro das Finanças."
+  },
+  "459843d84e519623": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Serviços nas instalações dos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Serviços nas instalações dos operadores\n\n1 - Poderão ser criadas nas instalações dos operadores económicos delegações ou postos aduaneiros para maior celeridade de despacho, economia de meios ou simplificação do desembaraço de mercadorias.\n\n2 - A instalação, equipamento e manutenção dos serviços criados nos termos do número anterior é encargo dos operadores económicos."
+  },
+  "ac8e2d4a543fc3ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Competência\n\n1 - Compete aos dirigentes dos serviços periféricos, equiparados a directores de serviços:\n\na) Dirigir as actividades dos serviços dependentes, definindo objectivos de actuação dos mesmos, tendo em conta os objectivos gerais estabelecidos;\n\nb) Controlar o cumprimento dos planos de actividades, os resultados obtidos e a eficiência dos serviços dependentes;\n\nc) Assegurar a administração e a gestão dos recursos humanos e materiais que lhe estão afectos, promovendo o melhor aproveitamento e desenvolvimento dos mesmos, tendo em conta os objectivos e actividades dos serviços dependentes.\n\n2 - Compete aos directores das alfândegas:\n\na) Organizar as actividades do serviço, de acordo com os planos, programas e orientações definidos e proceder à avaliação dos resultados obtidos;\n\nb) Distribuir, orientar e controlar a execução dos trabalhos dos subordinados;\n\nc) Promover a qualificação do pessoal."
+  },
+  "9ea387ad9afb6005": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Organização e funcionamento\n\n1 - A estrutura dos serviços periféricos adequar-se-á aos objectivos permanentes da DGA e à prossecução eficaz das políticas necessárias à sua realização, e o seu funcionamento reflectirá a interligação hierárquica e funcional entre si e com os órgãos e serviços centrais.\n\n2 - Para o exercício de actividades conjuntas com características de missão, os serviços periféricos articular-se-ão com os órgãos e serviços centrais para o desenvolvimento de programas e projectos."
+  },
+  "697f1e145091a6c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Direcções das Alfândegas de Lisboa e do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Direcções das Alfândegas de Lisboa e do Porto\n\n1 - Às Direcções das Alfândegas de Lisboa e do Porto compete:\n\na) Efectuar a recolha de dados relativos às alfândegas, delegações e postos aduaneiros na sua dependência que lhes permitam um conhecimento actualizado do movimento das trocas de mercadorias e dos montantes liquidados e cobrados;\n\nb) Elaborar os indicadores de gestão relativos à sua área de jurisdição e assegurar a sua produção de forma adequada aos objectivos definidos;\n\nc) Preparar, de acordo com as directrizes gerais emanadas dos serviços centrais, regras internas de actuação dos serviços periféricos dependentes com vista à sua aplicação uniforme na respectiva área de jurisdição;\n\nd) Organizar racionalmente as actividades e manter em funcionamento os serviços técnicos necessários ao apoio em áreas comuns aos serviços dependentes, designadamente nas áreas jurídica, do despacho e da venda coerciva de mercadorias;\n\ne) Participar, com os recursos adequados, nas acções que lhes forem cometidas, designadamente sob a modalidade de programas ou projectos, e proceder ao seu acompanhamento e avaliação sistemáticos;\n\nf) Exercer os demais poderes que lhes forem conferidos nas leis e regulamentos.\n\n2 - As Direcções das Alfândegas de Lisboa e do Porto dispõem dos seguintes serviços:\n\na) Divisão de Procedimentos Aduaneiros e Fiscais;\n\nb) Divisão de Apoio à Prevenção e Repressão da Fraude.\n\n3 - Os directores das Direcções das Alfândegas de Lisboa e do Porto serão substituídos nas suas faltas e impedimentos pelo chefe de divisão que para o efeito designarem."
+  },
+  "3690d3baf537faf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º"
+  },
+  "d9a448c3a27d3b39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Procedimentos Aduaneiros e Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Procedimentos Aduaneiros e Fiscais\n\n1 - À Divisão dos Procedimentos Aduaneiros e Fiscais compete, em especial, o desenvolvimento das actividades necessárias ao exercício das competências previstas nas alíneas a), b) e c) do n.º 1 do artigo 48.º\n\n2 - A Divisão dos Procedimentos Aduaneiros e Fiscais é dirigida por um chefe de divisão."
+  },
+  "0602c99343c44407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º"
+  },
+  "85a9db28b6e2c747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio à Prevenção e Repressão da Fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio à Prevenção e Repressão da Fraude\n\n1 - A Divisão de Apoio à Prevenção e Repressão da Fraude funciona de acordo com objectivos formalizados em planos e programas desenvolvidos pela Direcção de Serviços de Prevenção e Repressão da Fraude e coordena as actividades de fiscalização das alfândegas na respectiva área de jurisdição.\n\n2 - O chefe da Divisão de Apoio à Prevenção e Repressão da Fraude actua na dependência hierárquica do director da direcção das alfândegas respectivo e na dependência funcional do director de Serviços de Prevenção e Repressão da Fraude.\n\n3 - A Divisão de Apoio à Prevenção e Repressão da Fraude é chefiada por um chefe de divisão."
+  },
+  "8d3035610a76c22e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Competência das alfândegas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Competência das alfândegas\n\n1 - Às alfândegas compete:\n\na) Recolher, sistematizar e relatar os dados relativos à gestão da sua área de jurisdição;\n\nb) Fiscalizar as mercadorias introduzidas no território aduaneiro da Comunidade até que lhes seja atribuído um destino aduaneiro;\n\nc) Garantir o cumprimento das formalidades aduaneiras necessárias à apresentação das mercadorias à alfândega nos termos da legislação em vigor;\n\nd) Controlar os locais e condições em que se encontrem armazenadas as mercadorias apresentadas à alfândega, com estatuto de mercadoria em depósito temporário;\n\ne) Desenvolver as actividades decorrentes da declaração das mercadorias para um regime aduaneiro, nos termos gerais ou ao abrigo de procedimentos simplificados de desalfandegamento;\n\nf) Proceder à liquidação e cobrança dos direitos aduaneiros, do imposto sobre o valor acrescentado, dos impostos especiais sobre o consumo e de outros impostos indirectos que lhes estão cometidos;\n\ng) Instruir os pedidos de isenção e franquias de âmbito aduaneiro e fiscal;\n\nh) Instruir os processos de concessão de qualquer regime aduaneiro e assegurar a aplicação dos regimes pautais e preferenciais;\n\ni) Garantir a regular aplicação dos regimes aduaneiros económicos, dos regimes de destino especial e dos que exijam tratamento pautal diferenciado;\n\nj) Controlar as mercadorias sujeitas a impostos especiais de consumo, designadamente as que tenham beneficiado de tratamento fiscal diferenciado;\n\nl) Exercer os controlos técnicos que por lei lhes forem atribuídos;\n\nm) Executar acções de fiscalização destinadas a prevenir e a reprimir a evasão e fraude fiscais, bem como as de prevenção e repressão de outros tráficos ilícitos;\n\nn) Participar na constituição de equipas interdisciplinares, coordenadas a nível central e destinadas à prevenção e repressão da fraude.\n\n2 - As alfândegas são dirigidas por um director de alfândega."
+  },
+  "6c02e89a2ba6ae9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Competência das delegações e postos aduaneiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Competência das delegações e postos aduaneiros\n\n1 - Às delegações e postos aduaneiros compete o exercício desconcentrado da competência referida no artigo anterior, tendo em conta os factores referidos no artigo 43.º e em correspondência com os respectivos níveis.\n\n2 - O âmbito da competência das delegações e postos aduaneiros é definido, respectivamente, na portaria a que se refere o artigo 44.º\n\n3 - Os funcionários colocados nos postos aduaneiros dependem do respectivo director de alfândega ou do chefe de delegação."
+  },
+  "925884342a833983": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Provimento do pessoal dirigente e de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Provimento do pessoal dirigente e de chefia\n\n1 - O provimento dos lugares do pessoal dirigente ou a este equiparado pelo presente diploma é feito nos termos da lei geral, sem prejuízo do disposto nos números seguintes.\n\n2 - Os lugares de director do Gabinete de Auditoria Interna, de director das Direcções das Alfândegas de Lisboa e do Porto e de director das Alfândegas do Funchal e de Ponta Delgada são providos de entre funcionários com categoria não inferior a reverificador.\n\n3 - O lugar de director de alfândega é provido de entre funcionários com categoria não inferior a primeiro-verificador superior.\n\n4 - O lugar de chefe de delegação é provido por despacho do director-geral, em comissão de serviço pelo período de um ano, renovável por igual período, de entre funcionários com categoria não inferior a primeiro-verificador superior, segundo-verificador superior com pelo menos dois anos de serviço efectivo ou técnico verificador especialista com reconhecida competência para o exercício das funções.\n\n5 - A comissão de serviço referida no número anterior considera-se automaticamente renovada se até 30 dias antes do seu termo não tiver sido manifestada, expressamente, pelo director-geral ou pelo funcionário a intenção de a fazer cessar."
+  },
+  "294ccbcd949951c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Mobilidade interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Mobilidade interna\n\nSão instrumentos de mobilidade interna a deslocação e a deslocação temporária."
+  },
+  "eb4ce5410cf8b322": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Deslocação\n\n1 - A deslocação consiste na ocupação de novo posto de trabalho em serviço situado em localidade diferente daquela onde o funcionário se encontrava a exercer funções.\n\n2 - Para efeito do disposto no número anterior entende-se por localidade:\n\na) A área do município onde se situa o serviço;\n\nb) A área do município e dos municípios limítrofes, no caso de Lisboa e Porto;\n\nc) A área correspondente a cada ilha, no caso das Regiões Autónomas dos Açores e da Madeira.\n\n3 - A deslocação é autorizada por despacho do director-geral e faz-se, em regra, por iniciativa, devidamente publicitada, do serviço competente, com o acordo do funcionário.\n\n4 - Pode ainda ser feita a pedido do funcionário, por permuta ou, quando por todos estes meios não seja possível efectuá-la, por concurso de promoção.\n\n5 - A deslocação a pedido do funcionário ou por permuta só será concedida se não houver inconveniente para os serviços, devendo a segunda ser sempre requerida por funcionário pertencente à mesma carreira.\n\n6 - À deslocação por concurso de promoção podem candidatar-se os funcionários que, sem prejuízo dos demais requisitos exigidos pela lei, possuam dois anos de serviço na categoria classificados de Muito bom.\n\n7 - Aos concursos referidos no número anterior, que só serão abertos para categorias de acesso das carreiras aduaneiras, são aplicáveis as regras previstas na lei geral para o concurso interno condicionado, salvo quanto ao número de vagas existentes e de potenciais candidatos.\n\n8 - Ao funcionário deslocado por concurso de promoção não é aplicável o disposto no presente artigo nem no artigo seguinte, antes de decorrido um período de três anos de permanência no serviço da sua nova colocação."
+  },
+  "92013218083b5311": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Deslocação temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Deslocação temporária\n\n1 - Considera-se temporária a deslocação, nos termos dos n.os 1 e 2 do artigo anterior, por período não inferior a um ano nem superior a dois, findo o qual o funcionário tem direito a regressar ao serviço de origem.\n\n2 - A deslocação temporária faz-se por conveniência de serviço ou a pedido do funcionário.\n\n3 - A deslocação temporária por conveniência de serviço é determinada por despacho do director-geral, podendo esta competência ser delegada nos directores das Direcções das Alfândegas de Lisboa e do Porto ou das demais alfândegas para as deslocações que ocorram nas respectivas áreas de jurisdição.\n\n4 - A deslocação temporária a pedido é autorizada pelas entidades e nos termos referidos no número anterior.\n\n5 - A deslocação temporária por conveniência de serviço é feita pelo período máximo de um ano, preferindo os funcionários mais modernos na categoria, de acordo com a última lista de antiguidades publicada.\n\n6 - O período de deslocação referido no número anterior só pode ser excedido com o acordo do funcionário e com observância do limite mencionado no n.º 1.\n\n7 - O funcionário que pretenda permanecer no serviço onde está deslocado temporariamente para além do limite máximo previsto no n.º 1 deve requerer a sua deslocação para aquele serviço, nos termos do artigo anterior, não dando esta direito à atribuição de qualquer subsídio."
+  },
+  "26d2671ccaa2e1f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Mobilidade de pessoal entre serviços situados na mesma localidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Mobilidade de pessoal entre serviços situados na mesma localidade\n\nA mobilidade de pessoal entre serviços situados na mesma localidade faz-se por despacho do director-geral, podendo esta competência ser delegada nos directores das Direcções das Alfândegas de Lisboa e do Porto ou das demais alfândegas sempre que aquela ocorra na área da respectiva jurisdição."
+  },
+  "9340209b7a64e2ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Transporte dos funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Transporte dos funcionários\n\n1 - Os funcionários têm direito a transporte por conta do Estado nas seguintes situações:\n\na) Quando deslocados, salvo se a pedido do funcionário ou por permuta, nos termos do artigo 55.º;\n\nb) Quando deslocados temporariamente por conveniência de serviço, nos termos do artigo 56.º;\n\nc) Quando realizem acções esporádicas por motivos de serviço;\n\nd) Quando deslocados para efeitos de frequência de cursos de formação, estágios ou prestação de provas de selecção;\n\ne) Quando, no caso de ingresso na DGA, os nomeados residirem no continente e forem colocados nas Regiões Autónomas, ou vice-versa.\n\n2 - Nos casos referidos no número anterior, deve utilizar-se o transporte público, de acordo com o estabelecido na lei geral, salvo quando a urgência ou a necessidade do serviço superiormente reconhecidos exigirem outro meio de transporte, cujo custo será reembolsado mediante apresentação do respectivo documento de despesa.\n\n3 - Se o funcionário utilizar transporte próprio, aplica-se o disposto na lei geral."
+  },
+  "f7d49d584b599fb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Transporte de familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Transporte de familiares\n\n1 - Os familiares dos funcionários têm, de igual modo, nos termos do artigo anterior, direito a transporte por conta do Estado, excepto nos casos referidos nas alíneas c) e d) do n.º 1 do mesmo artigo.\n\n2 - Para efeitos do disposto no número anterior, consideram-se familiares o cônjuge e os parentes e afins na linha recta, bem como os irmãos menores, desde que vivam com o funcionário em comunhão de mesa e habitação e não tenham rendimentos suficientes."
+  },
+  "9096ac632d2451e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Subsídio de deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Subsídio de deslocação\n\n1 - Os funcionários deslocados, salvo por permuta, nos termos do artigo 55.º, têm direito, no momento da deslocação, a um subsídio fixo equivalente a 60 dias de ajudas de custo, se a mesma ocorrer no continente ou implicar mudança de ilha nas Regiões Autónomas, ou ainda a 120 dias, se implicar mudança do continente para as Regiões Autónomas, ou vice-versa.\n\n2 - Os funcionários referidos no número anterior têm ainda direito ao transporte e seguro, por conta do Estado, do respectivo mobiliário e bagagem.\n\n3 - No caso de a deslocação se fazer por iniciativa do serviço ou a pedido do funcionário, o subsídio só será atribuído se os funcionários declararem, expressamente, a vontade de permanecer pelo período mínimo de dois anos no seu novo posto de trabalho.\n\n4 - Os funcionários deslocados temporariamente por conveniência de serviço, nos termos do artigo 56.º, têm direito, pelo período de um ano, a um subsídio equivalente a 50% das ajudas de custo diárias, se a deslocação ocorrer no continente ou implicar mudança de ilha nas Regiões Autónomas, ou ainda a 65%, se implicar mudança do continente para as Regiões Autónomas.\n\n5 - O subsídio referido no número anterior reduz-se de 25% no caso de ser fornecida habitação por conta do Estado.\n\n6 - Quando a deslocação temporária por conveniência de serviço se destinar às Regiões Autónomas, os funcionários gozam, por ocasião da deslocação e do regresso ao seu lugar de origem, do direito previsto no n.º 2.\n\n7 - Os subsídios de deslocação previstos no presente artigo só são atribuídos quando a distância entre o serviço onde o funcionário se encontra colocado e o serviço da sua nova colocação for igual ou superior a 60 km, com excepção das deslocações que impliquem mudança de ilha nas Regiões Autónomas, e não são acumuláveis com as ajudas de custo previstas na lei geral, que são devidas nas situações constantes das alíneas c) e d) do n.º 1 do artigo 58.º\n\n8 - Os directores de alfândega e os chefes de delegação têm direito, quando da sua nomeação, ao subsídio de deslocação fixado nos termos dos n.os 4 a 7.\n\n9 - A renovação das comissões de serviço dos lugares de chefia referidos no número anterior não dá direito à atribuição de novo subsídio."
+  },
+  "9129dceb611386a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Residência oficial\n\nOs serviços onde os funcionários sejam deslocados ou deslocados temporariamente, nos termos dos artigos 55.º e 56.º, passam a constituir a sua residência oficial para efeitos de atribuição de ajudas de custo."
+  },
+  "785a2800e78cd6f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Pessoal em comissão de serviço, requisição, destacamento ou licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Pessoal em comissão de serviço, requisição, destacamento ou licença\n\n1 - Com a entrada em vigor do presente diploma são dadas por findas as comissões de serviço dos directores de serviço e chefes de divisão ou equiparados, bem como do restante pessoal de chefia da DGA, mantendo-se, no entanto, em funções os actuais titulares dos cargos enquanto não se proceder a novas nomeações.\n\n2 - Os funcionários da DAG que, à data da entrada em vigor do presente diploma, se encontrem na situação de requisição, destacamento, licença ou comissão de serviço não abrangida pelo número anterior mantêm a respectiva situação."
+  },
+  "16f1234abe0565aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Criação dos lugares de direcção e chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Criação dos lugares de direcção e chefia\n\nSão criados no quadro de pessoal da DGA os lugares de direcção e chefia constantes do anexo III ao presente diploma, que dele faz parte integrante."
+  },
+  "fef2a86a0ed09344": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Transição do pessoal de fiscalização dos tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Transição do pessoal de fiscalização dos tabacos\n\n1 - O pessoal de fiscalização dos tabacos afecto ao Núcleo de Fiscalização dos Tabacos (NUFT) que, à data da entrada em vigor do presente diploma, se encontre provido em lugares da carreira de agente fiscal do quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, transita para o quadro de pessoal da DGA para lugares da mesma carreira, categoria e escalão que já possui, mantendo-se-lhe aplicável o regime aprovado pelo [Decreto Regulamentar n.º 48/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1991-301601), de 20 de Setembro.\n\n2 - O actual chefe de delegação poderá optar por transitar e ser provido definitivamente em idêntico cargo no quadro de pessoal da DGA, nos termos do número anterior, cessando na mesma data a situação de comissão de serviço em que se encontra.\n\n3 - A opção referida no número anterior faz-se por requerimento ao director-geral das Alfândegas no prazo de 15 dias contados da data da entrada em vigor do presente diploma.\n\n4 - O tempo de serviço prestado no quadro de origem conta para todos os efeitos legais como prestado no novo quadro, sendo o tempo de serviço neste quadro classificado nos termos da [Portaria n.º 31/88](https://diariodarepublica.pt/dr/detalhe/portaria/31-1988-283368), de 15 de Janeiro.\n\n5 - Os agentes fiscais que à data da entrada em vigor do presente diploma se encontrem a exercer funções em regime de comissão de serviço noutros quadros ou serviços mantêm essa situação, sem prejuízo da sua transição nos termos do n.º 1."
+  },
+  "0b311fa18eb83af7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Criação de lugares da carreira de fiscalização de tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Criação de lugares da carreira de fiscalização de tabacos\n\nPara efeito do disposto no n.º 1 do artigo anterior, são criados no quadro de pessoal da DGA, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, os lugares considerados necessários à assunção da competência relativa à administração do imposto de consumo sobre os tabacos manufacturados, constantes do anexo IV ao presente diploma, que dele faz parte integrante, sendo abatidos ao quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, por aplicação do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, todos os lugares da carreira de fiscalização de tabacos."
+  },
+  "eb1db764d7e61623": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Provimento do pessoal de fiscalização dos tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Provimento do pessoal de fiscalização dos tabacos\n\n1 - O lugar de chefe de delegação é provido de entre agentes fiscais especialistas com três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função, habilitados com o curso geral do ensino secundário ou equivalente.\n\n2 - Os lugares de agente fiscal especialista e principal são providos de entre, respectivamente, agentes fiscais principais e de 1.ª classe com classificação não inferior a Bom, logo que completem três anos de serviço na categoria.\n\n3 - O conteúdo funcional da carreira de agente fiscal consta do anexo V ao presente diploma, que dele faz parte integrante."
+  },
+  "b751219130ef095c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Concursos e estágios pendentes\n\nMantêm-se válidos os concurso e os estágios a decorrer à data da entrada em vigor do presente diploma desde que existam os correspondentes lugares vagos no quadro de pessoal da DGA, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, ainda que em número inferior ao constante do respectivo aviso de abertura."
+  },
+  "1cc26143379eec60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Alteração na composição do Conselho Técnico Aduaneiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Alteração na composição do Conselho Técnico Aduaneiro\n\nOs artigos 2.º e 3.º do [Decreto-Lei n.º 281/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1991-679824), de 9 de Agosto, passam a ter a seguinte redacção:\n\nArt. 2.º ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Quatro representantes da Direcção-Geral das Alfândegas;\n\ne) ...\n\nArt. 3.º - 1 - Dos representantes da Direcção-Geral das Alfândegas, três são vogais permanentes do Conselho, sendo o outro o director de serviços da área em que se insere a matéria em contestação.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ..."
+  },
+  "abe72d2dc7113161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Prestação de serviços\n\nA DGA pode prestar serviços, bem como realizar trabalhos no âmbito das suas atribuições, que lhe sejam solicitados por outras entidades, sendo as condições de prestação dos mesmos e os respectivos preços fixados por despacho do Ministro das Finanças."
+  },
+  "fb721b67d33c0b49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Receitas da DGA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Receitas da DGA\n\n1 - Constituem receitas da DGA:\n\na) As dotações atribuídas pelo Orçamento do Estado;\n\nb) O produto da venda de serviços aos utilizadores do Sistema de Tratamento Automático da Declaração Aduaneira (STADA), nos termos do n.º 1 do artigo 8.º do [Decreto-Lei n.º 264/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1991-690986), de 26 de Julho;\n\nc) O produto da venda de outros serviços a terceiros.\n\n2 - As receitas decorrentes das alíneas b) e c) do número anterior são movimentadas nos termos da lei geral.\n\n3 - Os saldos das verbas referidas nessas mesmas alíneas transitam para o ano seguinte."
+  },
+  "3dd43d02085b640f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Legislação revogada\n\n1 - São revogados pelo presente diploma os capítulos I e II, os artigos 44.º, 46.º a 48.º, os n.os 1, 2 e 4 a 9 do artigo 49.º, os n.os 1, 2 e 4 do artigo 50.º, a alínea c) do n.º 1 e os n.os 2 e 4 a 6 do artigo 51.º, os artigos 52.º a 54.º, os artigos 56.º a 66.º, a remissão para o n.º 1 do artigo 68.º constante da alínea a) do n.º 2 do artigo 67.º, o n.º 1 do artigo 68.º, os artigos 70.º e 73.º, os artigos 78.º a 81.º, os artigos 83.º a 89.º, o artigo 92.º, os artigos 95.º a 100.º, os artigos 106.º a 110.º, os artigos 119.º e 120.º, os n.os 1 a 4 do artigo 121.º e os artigos 122.º a 125.º do capítulo III e os artigos 127.º a 147.º e os artigos 149.º a 157.º do capítulo IV do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.\n\n2 - São ainda revogados os Decretos-Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), de 17 de Fevereiro, e [273/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1990-556665), de 7 de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.\n\nPromulgado em 21 de Junho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 23 de Junho de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo I a que se refere o artigo 40.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo II a que se refere o artigo 41.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo III a que se refere o artigo 63.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo IV a que se refere o artigo 65.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAnexo V a que se refere o n.º 3 do artigo 66.º\n\nConteúdo funcional\n\nAgente fiscal. - O agente fiscal desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas relativas ao controlo técnico e fiscal das mercadorias sujeitas ao regime dos tabacos, competindo-lhe, nomeadamente:\n\nControlo físico, nas entradas e saídas dos estabelecimentos fabris, de pessoas e equipamentos;\n\nControlo e fiscalização dos produtos em armazém;\n\nRegisto e preenchimento de guias necessárias ao controlo contabilístico da saída e trânsito dos tabacos;\n\nAcompanhamento do transporte dos tabacos para os portos, aeroportos e entrepostos aduaneiros."
+  },
+  "0b203dc2c06b4d74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Provimento do pessoal dirigente e de chefia",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.",
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 53.º — Provimento do pessoal dirigente e de chefia\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O lugar de chefe de delegação é provido por despacho do director-geral, em comissão de serviço pelo período de um ano, renovável por igual período, de entre funcionários com categoria não inferior a primeiro-verificador superior, segundo-verificador superior com pelo menos dois anos de serviço efectivo ou técnico verificador especialista com reconhecida competência para o exercício das funções.\n\n5 - A comissão de serviço referida no número anterior considera-se automaticamente renovada se até 30 dias antes do seu termo não tiver sido manifestada, expressamente, pelo director-geral ou pelo funcionário a intenção de a fazer cessar.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "7f6d02ca5e5499b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Mobilidade interna",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 54.º — Mobilidade interna\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "06453deabcd56155": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Deslocação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 55.º — Deslocação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "d6c1df3851fb0e26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Deslocação temporária",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 56.º — Deslocação temporária\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "17485ab9b8c7f3d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Mobilidade de pessoal entre serviços situados na mesma localidade",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 57.º — Mobilidade de pessoal entre serviços situados na mesma localidade\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "fdee594ec343436e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Transporte dos funcionários",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 58.º — Transporte dos funcionários\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "a2073c57f5ac2e2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Transporte de familiares",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 59.º — Transporte de familiares\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "a12de89763d7a996": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Subsídio de deslocação",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 60.º — Subsídio de deslocação\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "59a209fd5d11161b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Residência oficial",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "###### Artigo 61.º — Residência oficial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  }
+ }
+}

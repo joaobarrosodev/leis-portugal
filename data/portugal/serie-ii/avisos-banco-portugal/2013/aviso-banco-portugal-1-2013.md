@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-12-30'
+version_history:
+  file: aviso-banco-portugal-1-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-30'
+    amending: pt:dre:58217066:por
+    amending_title: Aviso do Banco de Portugal n.º 8/2014; Aviso do Banco de Portugal n.º 14/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:13:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso do Banco de Portugal n.º 8/2014;
+    Aviso do Banco de Portugal n.º 14/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/avisos-banco-portugal/2013/aviso-banco-portugal-1-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,27 +161,31 @@ Assim, no uso da competência que lhe é atribuída pelo artigo 17.º da sua Lei
 
 ###### Artigo 2.º — Método de apuramento das contribuições periódicas para o Fundo de Resolução
 
-1 - O valor da contribuição periódica para o Fundo de Resolução devida por cada instituição participante é determinado pela aplicação de uma taxa contributiva sobre os valores médios dos saldos mensais do passivo apurado e aprovado pelas instituições participantes, deduzido dos elementos do passivo que integram os fundos próprios de base e complementares e dos depósitos cobertos pelo Fundo de Garantia de Depósitos ou pelo Fundo de Garantia do Crédito Agrícola Mútuo, nos termos previstos no artigo 10.º do [Decreto-Lei n.º 24/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2013-258538), de 19 de fevereiro.
+1 - O valor da contribuição periódica para o Fundo de Resolução devida por cada instituição participante é determinado pela aplicação de uma taxa contributiva sobre os valores médios dos saldos mensais do passivo apurado e aprovado pelas instituições participantes, deduzido dos elementos do passivo que integram os fundos próprios e dos depósitos cobertos pelo Fundo de Garantia de Depósitos ou pelo Fundo de Garantia do Crédito Agrícola Mútuo, nos termos previstos no artigo 10.º do Decreto-Lei n.º 24/2013, de 19 de fevereiro.
 
 2 - A taxa contributiva referida no número anterior é determinada a partir de uma taxa base, que é multiplicada por um fator de ajustamento calculado em função do perfil de risco de cada instituição participante, tendo em consideração a sua situação de solvabilidade.
 
-3 - O Banco de Portugal fixa anualmente, até ao final do mês de outubro, mediante instrução, a taxa base referida no número anterior, até ao máximo de 0,07 %, ouvidas a Comissão Diretiva do Fundo de Resolução e a associação que em Portugal represente as instituições participantes que, no seu conjunto, detenham maior volume de depósitos.
+3 - O Banco de Portugal fixa anualmente, até 15 de dezembro, mediante instrução, a taxa base referida no número anterior, até ao máximo de 0,07 %, ouvidas a Comissão Diretiva do Fundo de Resolução e a associação que em Portugal represente as instituições participantes que, no seu conjunto, detenham maior volume de depósitos.
 
 4 - Para cada instituição participante, o fator de ajustamento referido no n.º 2 é determinado com base na seguinte fórmula, cujo resultado é arredondado a duas casas decimais:
 
-Fator de ajustamento = 12/RMCT1
+Fator de ajustamento = (11,5/RMCET1)
 
-Em que RMCT1 é rácio médio de core tier 1 relevante para cada instituição participante, expresso em pontos percentuais, arredondado a uma casa decimal.
+Em que RMCET1 é rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») relevante para cada instituição participante, expresso em pontos percentuais, arredondado a uma casa decimal.
 
-5 - No caso das instituições integradas em grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de core tier 1 a considerar para efeitos do disposto no número anterior corresponde à média dos rácios core tier 1 do grupo em que a instituição está integrada, calculados em base consolidada, nos termos do [Aviso do Banco de Portugal n.º 3/2011](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/3-2011-2230613), com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
+5 - No caso das instituições integradas em grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») a considerar para efeitos do disposto no número anterior corresponde à média dos rácios de fundos próprios principais de nível 1 («Common Equity Tier 1») do grupo em que a instituição está integrada, calculados em base consolidada, nos termos da parte II do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, com as derrogações previstas na parte X, e ainda de acordo com o Aviso do Banco de Portugal n.º 6/2013, com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
 
-6 - No caso das instituições não integradas em nenhum grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de core tier 1 a considerar para efeitos do disposto no n.º 4 é determinado pela média dos rácios core tier 1, calculados em base individual, nos termos do [Aviso do Banco de Portugal n.º 3/2011](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/3-2011-2230613), com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
+6 - No caso das instituições não integradas em nenhum grupo financeiro sujeito a supervisão em base consolidada pelo Banco de Portugal, o rácio médio de fundos próprios principais de nível 1 («Common Equity Tier 1») a considerar para efeitos do disposto no n.º 4 é determinado pela média dos fundos próprios principais de nível 1 («Common Equity Tier 1»), calculados em base individual, nos termos da parte II do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho, 26 de junho de 2013, com as derrogações aí previstas na parte X, e ainda de acordo com o Aviso do Banco de Portugal n.º 6/2013, com referência a 30 de junho e a 31 de dezembro do ano anterior àquele a que respeita a contribuição.
 
 7 - Sem prejuízo do disposto no n.º 4, o fator de ajustamento não pode ser inferior a 0,8 nem superior a 2,0, pelo que, quando da aplicação da fórmula prevista naquele número resultar um fator de ajustamento fora desse intervalo, o fator de ajustamento a considerar é igual ao limite mais próximo.
 
 8 - No caso das instituições participantes que sejam empresas de investimento e que não estejam integradas no perímetro de supervisão em base consolidada de uma instituição de crédito, é aplicado um fator de ajustamento igual a 0,8.
 
 9 - No caso das sociedades relevantes para sistemas de pagamentos sujeitas à supervisão do Banco de Portugal, é aplicado um fator de ajustamento igual a 1,0.
+
+> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 8/2014](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/8-2014-58217066), publicado em 2014-10-09.
+
+> Alterado pelo/a Artigo 1.º do/a [Aviso do Banco de Portugal n.º 14/2014](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/14-2014-66005458), publicado em 2014-12-30.
 
 ###### Artigo 3.º — Procedimentos de apuramento das contribuições periódicas
 

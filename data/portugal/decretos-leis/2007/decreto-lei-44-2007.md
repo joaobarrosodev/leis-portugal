@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-01-05'
+version_history:
+  file: decreto-lei-44-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-05'
+    amending: pt:dre:632430:por
+    amending_title: Decreto-Lei n.º 266-D/2012
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/44/2007/02/23/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 266-D/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-44-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -266,13 +281,9 @@ b) Quando não prejudique o regular funcionamento do serviço de urgência do es
 
 ###### Artigo 3.º — Norma transitória
 
-1 - Até à aprovação do regime remuneratório que venha a ser previsto para o trabalho prestado no âmbito da rede de serviços de urgência, o trabalho extraordinário realizado nos termos do n.º 7 do artigo 24.º, bem como nos termos dos n.os 6 a 9 do artigo 31.º, ambos do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, com a redacção que lhes foi conferida pelo presente decreto-lei, sem prejuízo das demais regras fixadas no diploma que disciplina o regime de trabalho e sua remuneração nos estabelecimentos hospitalares, é remunerado nos seguintes termos:
+(Revogado.)
 
-a) Da 1.ª hora até à 7.ª, inclusive, é pago com base na remuneração correspondente ao regime de trabalho praticado, para a respectiva categoria e escalão;
-
-b) A partir da 8.ª hora é pago, independentemente do regime de trabalho praticado, com base na remuneração correspondente ao regime de trabalho de dedicação exclusiva com o horário de quarenta e duas horas semanais, para a respectiva categoria e escalão.
-
-2 - Até à extinção dos serviços de atendimento permanente, e sem prejuízo do disposto no n.º 5 do artigo 24.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, na redacção conferida pelo presente diploma, aplica-se, com as devidas adaptações, aos médicos da carreira médica de clínica geral dos centros de saúde com serviços de atendimento permanente, o disposto no artigo 31.º do [Decreto-Lei n.º 73/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1990-332425), de 6 de Março, com a redacção dada por este diploma, bem como o disposto no número anterior no que se reporta aos efeitos remuneratórios do trabalho extraordinário prestado nestes serviços.
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 266-D/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), publicado em 2012-12-31.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 

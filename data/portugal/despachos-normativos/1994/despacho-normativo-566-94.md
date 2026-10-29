@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-09-30'
+version_history:
+  file: despacho-normativo-566-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-09-30'
+    amending: pt:dre:354293:por
+    amending_title: Declaração de Rectificação n.º 148/94
+    changes:
+    - Retifica Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/566/1994/07/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 148/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-566-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +176,9 @@ d) Comprovar que têm a sua situação contributiva regularizada perante o Estad
 
 ###### Artigo 6.º — Condições de acesso do projecto
 
-As operações a apoiar devem corresponder à alineação de activos que haviam sido adquiridos pelo fundo, associada ao financiamento de projectos de investimento apoiados no âmbito do PEDIP II ou de outras iniciativas que concorram para os objectivos da política industrial e enquadrados no objecto principal dos FUNGEPI.
+As operações a apoiar devem corresponder à alienação de activos que haviam sido adquiridos pelo fundo, associada ao financiamento de projectos de investimento apoiados no âmbito do PEDIP II ou de outras iniciativas que concorram para os objectivos da política industrial e enquadrados no objecto principal dos FUNGEPI.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 148/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/148-1994-354293), publicado em 1994-09-30.
 
 ###### Artigo 7.º — Critérios de selecção
 

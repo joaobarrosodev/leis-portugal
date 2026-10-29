@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:147793:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-10-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cd71e1e575d24372"
+   ]
+  },
+  {
+   "date": "1972-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:685446:por",
+     "title": "Decreto-Lei n.º 520/72",
+     "published": "1972-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/520-1972-685446"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "7aa9c88f6dfb2db5",
+    "e4841c07350ea0e9",
+    "20f52ffd09694e80",
+    "054e7d596aa2393f",
+    "0be7b96ce7541132",
+    "f19b848d76d020e6",
+    "c3a3608019fd3720",
+    "d73e0993126c3457"
+   ]
+  }
+ ],
+ "fragments": {
+  "cd71e1e575d24372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro\n\nO plano de estudos do Instituto Superior de Ciências Económicas e Financeiras foi aprovado pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949. Em mais de vinte anos alteraram-se profundamente os conhecimentos nos domínios científicos e técnicos que estão na base dos cursos professados e cresceu a importância de tais matérias para a vida nacional e para a compreensão do mundo contemporâneo. Alteraram-se, também, as relações da Universidade com a sociedade, abrindo-se perspectivas e exigências legítimas de reforma universitária. Daí que a Direcção-Geral do Ensino Superior e das Belas-Artes, por várias vezes ao longo dos últimos anos, tenha salientado a necessidade de uma reorganização dos planos de estudo das nossas duas Escolas Superiores de Economia e que o conselho escolar do Instituto, em mais de uma ocasião, tenha manifestado as suas preocupações e apresentado projectos tendo em vista as necessárias adaptações.\n\nNestas condições, e sem prejuízo de modificação mais profunda a decretar no âmbito das reformas universitárias em elaboração, tomam-se algumas medidas sobre cuja necessidade e urgência os estudos já realizados não deixam dúvidas.\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º Os dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf)\n\nArt. 2.º - 1. São introduzidas na organização dos três últimos anos dos cursos referidos no artigo anterior as alterações constantes dos números seguintes.\n\n2. Do 3.º ano do curso superior de Finanças passa a fazer parte a disciplina de Introdução à Economia da Empresa.\n\n3. O conselho escolar, quando se mostrar aconselhável o estudo especializado de certas matérias abrangidas por disciplinas do 3.º, 4.º ou 5.º anos, poderá desdobrar qualquer dessas disciplinas.\n\n4. Os alunos poderão frequentar mais de um dos desdobramentos que o conselho escolar venha a decidir nos termos do número anterior.\n\n5. O conselho escolar poderá especificar, quando o entender conveniente, o desdobramento de disciplina que será de frequência obrigatória.\n\n6. Poderá o conselho escolar decidir que sejam de frequência facultativa a disciplina de Direito Comercial e Marítimo, para os alunos do curso superior de Economia, e um semestre das disciplinas de Direito Constitucional e Administrativo e de Finanças II, para os alunos do curso superior de Finanças.\n\n7. Em cada um do 3.º, 4.º e 5.º anos, os alunos terão de cursar cinco disciplinas anuais, considerando-se, para este efeito, duas disciplinas semestrais como uma anual.\n\n8. Cada disciplina terá normalmente cinco horas de aula por semana, sendo duas teóricas de uma hora e duas práticas de uma hora e meia. Nas de Direito Constitucional e Administrativo, Direito Internacional Público, História Diplomática e Direito Corporativo haverá, em cada semana, três aulas teóricas de uma hora, as quais poderão ser dedicadas, em parte, a trabalhos de aplicação.\n\nArt. 3.º - 1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.\n\n2. O conselho escolar determinará as precedências impostas pela sequência lógica das matérias nos casos em que venha a decidir o desdobramento de disciplinas.\n\nArt. 4.º As aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno.\n\nArt. 5.º - 1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.\n\n2. A aprovação no ano lectivo de 1969-1970, nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I, do 1.º ano, ou Análise Matemática, Economia II, Direito Civil (Parte Geral e Obrigações) e Propedêutica Comercial II, do 2.º ano, considera-se, para todos os efeitos, aproveitamento do ano completo.\n\nArt. 6.º - 1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.\n\n2. Funcionará ainda a disciplina de Análise Matemática.\n\n3. Poderão inscrever-se no 2.º ano os alunos que tenham obtido aprovação, pelo menos, em duas disciplinas do 1.º ano do plano de estudos definido pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949, desde que uma delas seja Matemáticas Gerais ou Economia I.\n\n4. Poderão inscrever-se no 3.º ano os alunos que tenham obtido aprovação, pelo menos, em duas disciplinas do 2.º ano do plano de estudos do mencionado [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), desde que uma delas seja Direito Civil (Parte Geral e Obrigações) e a outra Análise Matemática ou Economia II.\n\n5. Aos alunos do 3.º ano do curso superior de Finanças será facultado optarem entre a frequência de Direito Comercial e Marítimo e a dos 2.os semestres de Direito Constitucional e Administrativo e de Finanças II, devendo nesta última hipótese vir a frequentar no 4.º ano a disciplina de Direito Comercial e Marítimo.\n\n6. Poderão inscrever-se no 3.º ano os alunos que tenham obtido aprovação nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I e em, pelo menos, duas disciplinas do 2.º ano, desde que uma delas seja Direito Civil (Parte Geral e Obrigações).\n\n7. Os alunos inscritos no 5.º ano com disciplinas atrasadas poderão cursar apenas o equivalente a quatro disciplinas anuais e uma semestral de entre as previstas para o 5.º ano no presente diploma.\n\nArt. 7.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.\n\nMarcello Caetano - José Veiga Simão.\n\nPromulgado em 17 de Outubro de 1970.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "7aa9c88f6dfb2db5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro\n\nO plano de estudos do Instituto Superior de Ciências Económicas e Financeiras foi aprovado pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949. Em mais de vinte anos alteraram-se profundamente os conhecimentos nos domínios científicos e técnicos que estão na base dos cursos professados e cresceu a importância de tais matérias para a vida nacional e para a compreensão do mundo contemporâneo. Alteraram-se, também, as relações da Universidade com a sociedade, abrindo-se perspectivas e exigências legítimas de reforma universitária. Daí que a Direcção-Geral do Ensino Superior e das Belas-Artes, por várias vezes ao longo dos últimos anos, tenha salientado a necessidade de uma reorganização dos planos de estudo das nossas duas Escolas Superiores de Economia e que o conselho escolar do Instituto, em mais de uma ocasião, tenha manifestado as suas preocupações e apresentado projectos tendo em vista as necessárias adaptações.\n\nNestas condições, e sem prejuízo de modificação mais profunda a decretar no âmbito das reformas universitárias em elaboração, tomam-se algumas medidas sobre cuja necessidade e urgência os estudos já realizados não deixam dúvidas.\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "e4841c07350ea0e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs dois primeiros anos dos cursos superiores de Finanças e de Economia, professados no Instituto Superior de Ciências Económicas e Financeiras, passam a ter a constituição seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/10/25200/16161617.pdf)"
+  },
+  "20f52ffd09694e80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1972-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446), publicado em 1972-12-15."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 520/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1972-685446), publicado em 1972-12-15."
+  },
+  "054e7d596aa2393f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O regime de apreciação do aproveitamento, incluindo a fixação das condições de dispensa de exames finais, bem como o da passagem do 1.º para o 2.º e do 2.º para o 3.º anos dos cursos serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e parecer da Junta Nacional da Educação.\n\n2. O conselho escolar determinará as precedências impostas pela sequência lógica das matérias nos casos em que venha a decidir o desdobramento de disciplinas."
+  },
+  "0be7b96ce7541132": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs aulas teóricas e práticas do 1.º e 2.º anos passam a funcionar simultâneamente em regime de curso diurno e nocturno."
+  },
+  "f19b848d76d020e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As disciplinas de Matemáticas Gerais, Análise Matemática, Economia I e Economia II são para todos os efeitos equivalentes, respectivamente, a Matemáticas I, Matemáticas II, Teoria Económica I e Teoria Económica II.\n\n2. A aprovação no ano lectivo de 1969-1970, nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I, do 1.º ano, ou Análise Matemática, Economia II, Direito Civil (Parte Geral e Obrigações) e Propedêutica Comercial II, do 2.º ano, considera-se, para todos os efeitos, aproveitamento do ano completo."
+  },
+  "c3a3608019fd3720": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. No ano escolar de 1970-1971 observar-se-ão as disposições transitórias constantes dos números seguintes.\n\n2. Funcionará ainda a disciplina de Análise Matemática.\n\n3. Poderão inscrever-se no 2.º ano os alunos que tenham obtido aprovação, pelo menos, em duas disciplinas do 1.º ano do plano de estudos definido pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949, desde que uma delas seja Matemáticas Gerais ou Economia I.\n\n4. Poderão inscrever-se no 3.º ano os alunos que tenham obtido aprovação, pelo menos, em duas disciplinas do 2.º ano do plano de estudos do mencionado [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), desde que uma delas seja Direito Civil (Parte Geral e Obrigações) e a outra Análise Matemática ou Economia II.\n\n5. Aos alunos do 3.º ano do curso superior de Finanças será facultado optarem entre a frequência de Direito Comercial e Marítimo e a dos 2.os semestres de Direito Constitucional e Administrativo e de Finanças II, devendo nesta última hipótese vir a frequentar no 4.º ano a disciplina de Direito Comercial e Marítimo.\n\n6. Poderão inscrever-se no 3.º ano os alunos que tenham obtido aprovação nas disciplinas de Matemáticas Gerais, Geografia Económica Portuguesa, Economia I e Propedêutica Comercial I e em, pelo menos, duas disciplinas do 2.º ano, desde que uma delas seja Direito Civil (Parte Geral e Obrigações).\n\n7. Os alunos inscritos no 5.º ano com disciplinas atrasadas poderão cursar apenas o equivalente a quatro disciplinas anuais e uma semestral de entre as previstas para o 5.º ano no presente diploma."
+  },
+  "d73e0993126c3457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.\n\nMarcello Caetano - José Veiga Simão.\n\nPromulgado em 17 de Outubro de 1970.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

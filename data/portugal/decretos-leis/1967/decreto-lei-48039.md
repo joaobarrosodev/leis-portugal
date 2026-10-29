@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-12-24'
+version_history:
+  file: decreto-lei-48039.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-12-24'
+    amending: pt:dre:216347:por
+    amending_title: Decreto-Lei n.º 49455
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:03:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49455. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48039.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +183,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As actuais pensões de aposentação, reforma e invalidez, bem como as que vierem a ser calculadas com base nas remunerações presentemente em vigor, serão acrescidas, a título transitório, de um subsídio eventual de custo de vida, de harmonia com os escalões e taxas seguintes:
+###### Artigo 1.º
+
+As actuais pensões de aposentação, reforma e invalidez, bem como as que vierem a ser calculadas com base nas remunerações presentemente em vigor, serão acrescidas, a título transitório, de um subsídio eventual de custo de vida, de harmonia com os escalões e taxas seguintes:
 
 I) Pensões mensais até 1150$00 - 20 por cento;
 
@@ -178,17 +195,31 @@ III) Pensões mensais superiores a 2400$00 - 15 por cento.
 
 § único. Quando, pela aplicação das taxas do segundo e terceiro escalões, a soma da pensão e do subsídio resultar inferior ao limite global máximo correspondente ao escalão imediatamente anterior, será o respectivo subsídio acrescido da importância necessária para perfazer aquele limite.
 
-Art. 2.º Não haverá lugar ao abono eventual de custo de vida quando no cálculo das pensões operem remunerações melhoradas posteriormente a 1 de Janeiro de 1968. Se, porém, a pensão assim fixada resultar inferior à soma da que corresponderia à anterior remuneração e do respectivo subsídio, será abonada, a título de subsídio, a diferença que se verificar.
+###### Artigo 2.º
 
-Art. 3.º O subsídio resultante da aplicação das taxas referidas no artigo 1.º, que será arredondado para escudos por excesso, é inalienável e impenhorável, sendo isento de todos e quaisquer descontos, salvo do imposto do selo.
+(Revogado.)
 
-Art. 4.º São exceptuadas do disposto no artigo 1.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos correios, telégrafos e telefones, em relação às quais o preceituado no presente diploma somente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações.
+> Revogado pelo/a [Decreto-Lei n.º 49455](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49455-1969-216347), publicado em 1969-12-24.
 
-Art. 5.º O preceituado neste diploma é aplicável às pensões de reserva abonadas aos militares que não se encontrem na efectividade de serviço, sem prejuízo do que legalmente se encontre estabelecido sobre o seu limite.
+###### Artigo 3.º
 
-Art. 6.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, mediante prévio parecer da Caixa Geral de Aposentações, por despacho do Ministro das Finanças.
+O subsídio resultante da aplicação das taxas referidas no artigo 1.º, que será arredondado para escudos por excesso, é inalienável e impenhorável, sendo isento de todos e quaisquer descontos, salvo do imposto do selo.
 
-Art. 7.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1968.
+###### Artigo 4.º
+
+São exceptuadas do disposto no artigo 1.º as pensões que constituem encargo, no todo ou em parte, dos corpos administrativos, as dos conservadores, notários e funcionários de justiça e as dos funcionários dos correios, telégrafos e telefones, em relação às quais o preceituado no presente diploma somente entrará em execução depois de publicada portaria de autorização, respectivamente, pelos Ministros do Interior, da Justiça e das Comunicações.
+
+###### Artigo 5.º
+
+O preceituado neste diploma é aplicável às pensões de reserva abonadas aos militares que não se encontrem na efectividade de serviço, sem prejuízo do que legalmente se encontre estabelecido sobre o seu limite.
+
+###### Artigo 6.º
+
+As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, mediante prévio parecer da Caixa Geral de Aposentações, por despacho do Ministro das Finanças.
+
+###### Artigo 7.º
+
+O presente decreto-lei entra em vigor em 1 de Janeiro de 1968.
 
 Publique-se e cumpra-se como nele se contém.
 

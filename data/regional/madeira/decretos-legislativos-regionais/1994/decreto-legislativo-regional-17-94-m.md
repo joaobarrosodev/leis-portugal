@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-01-22'
+version_history:
+  file: decreto-legislativo-regional-17-94-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-01-22'
+    amending: pt:dre:197309:por
+    amending_title: Decreto Legislativo Regional n.º 2/99/M
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/17/1994/09/06/m/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    2/99/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1994/decreto-legislativo-regional-17-94-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -200,9 +215,11 @@ c) Experiência profissional na área da formação.
 
 1 - A contratação dos formadores será feita através da celebração de contrato de prestação de serviços, nos termos da legislação em vigor, a outorgar entre o formador e a entidade promotora.
 
-2 - O contrato de prestação de serviços celebrado pode cessar a todo o tempo, desde que respeitado um período de aviso prévio de 60 dias, não conferindo a cessação direito a qualquer indemnização.
+2 - O contrato de prestação de serviços celebrado pode cessar a todo o tempo, desde que respeitado um período de aviso prévio de 30 dias, não conferindo a cessação direito a qualquer indemnização.
 
-3 - A falta de prestação de serviço por um período superior a 20 dias interpolados ou 10 seguidos confere à entidade promotora o direito a rescindir o contrato com o formador.
+3 - A falta de prestação de serviços superior a 10% do total de horas previsto confere à entidade promotora o direito a rescindir o contrato com o formador.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197309), publicado em 1999-01-21.
 
 ###### Artigo 7.º — Remuneração
 

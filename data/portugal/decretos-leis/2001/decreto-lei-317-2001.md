@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-27'
+version_history:
+  file: decreto-lei-317-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-27'
+    amending: pt:dre:432074:por
+    amending_title: Decreto-Lei n.º 222/2002
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 5.º do Decreto-Lei n.º 317/2001)::5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/317/2001/12/10/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:28:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 222/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-317-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,13 +173,15 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 3.º — Capital social
 
-1 - A SetúbalPolis é constituída com um capital social de (euro) 6383200 realizado em numerário.
+1 - A SetúbalPolis é constituída com um capital social de (euro) 6383000 realizado em numerário.
 
 2 - No acto de constituição, o capital social é subscrito em 10%, na proporção prevista para as participações dos accionistas, sendo os restantes 90% realizados em seis prestações iguais e com periodicidade semestral, respeitando igualmente a proporção das participações.
 
 3 - Por aumento de capital poderão participar no capital social pessoas colectivas públicas e sociedades exclusivamente ou maioritariamente participadas pelo Estado ou por outras pessoas colectivas públicas de âmbito territorial.
 
 4 - A titularidade de acções representativas de, pelo menos, 51% do capital social da SetúbalPolis deve ser detida por entes públicos, sendo nulas as transmissões efectuadas com violação deste limite.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 222/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2002-432074), publicado em 2002-10-22.
 
 ###### Artigo 4.º — Exercício de direitos dos accionistas
 
@@ -249,9 +267,11 @@ A duração da Sociedade fica condicionada à realização completa do seu objec
 
 ###### Artigo 5.º — Capital
 
-1 - O capital social é de (euro) 6383200, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Setúbal, encontrando-se realizado, na mesma proporção, em (euro) 638320, devendo o remanescente ser realizado em seis prestações semestrais de igual montante, na mesma proporção.
+1 - O capital social é de (euro) 6383000, subscrito na proporção de 60% pelo Estado e de 40% pelo município de Setúbal, encontrando-se realizado na mesma proporção em (euro) 638300, devendo o remanescente ser realizado em seis prestações semestrais de igual montante, na mesma proporção.
 
 2 - O capital social poderá ser aumentado por subscrição a realizar em dinheiro ou em espécie, por uma ou mais vezes, mediante deliberação dos accionistas a tomar em assembleia geral a convocar para o efeito, podendo delegar no conselho de administração a definição dos termos precisos em que a mesma deva ocorrer.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 222/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2002-432074), publicado em 2002-10-22.
 
 ###### Artigo 6.º — Acções e obrigações
 

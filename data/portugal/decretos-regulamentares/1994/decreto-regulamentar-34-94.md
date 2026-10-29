@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-11-30'
+version_history:
+  file: decreto-regulamentar-34-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-11-30'
+    amending: pt:dre:355917:por
+    amending_title: Declaração de Rectificação n.º 241/94
+    changes:
+    - Retifica Artigo 2.º
+    - Retifica Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/34/1994/09/01/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:21:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 241/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1994/decreto-regulamentar-34-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,13 +169,15 @@ c) A Escola de Comunicações;
 
 d) A Escola de Informações de Combate;
 
-e) A Escola de Marinhagem;
+e) A Escola de Marinharia;
 
 f) A Escola de Limitação de Avarias;
 
 g) A Escola de Tecnologia de Educação e Treino.
 
 4 - As escolas são genericamente designadas por escolas técnicas.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30.
 
 ###### Artigo 3.º — Competências
 
@@ -253,7 +271,7 @@ d) Os directores das escolas.
 
 1 - O director escolar (DE) coadjuva o comandante na coordenação e orientação das actividades das escolas, competindo-lhe em especial:
 
-a) Elaborar e propor normas internas e instruções necessárias à execução das actividades de promoção;
+a) Elaborar e propor normas internas e instruções necessárias à execução das actividades de formação;
 
 b) Coordenar as actividades das escolas, designadamente no que respeite à elaboração dos programas de formação e das propostas de planos de curso;
 
@@ -268,6 +286,8 @@ e) Propor a atribuição e promover a distribuição dos prémios escolares.
 3 - O DE dispõe de uma secretaria escolar e de uma editora escolar.
 
 4 - Na dependência do DE podem funcionar departamentos de formação, com carácter eventual, destinados ao ensino de matérias comuns aos cursos ministrados.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30.
 
 ###### Artigo 8.º — Conselho Administrativo
 

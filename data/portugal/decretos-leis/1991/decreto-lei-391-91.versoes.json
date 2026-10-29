@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288067:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "72cb413b1bf85567",
+    "bed006b446d6df8f",
+    "eed6fdec61e9ce40",
+    "635b5ffba639275f",
+    "ee9f267a75127c01",
+    "83cce261440ed7f9",
+    "755e2ef4439d5d4b",
+    "7b80de524c843114",
+    "500f80ef0839c169",
+    "54254dd30cf97417",
+    "a2a47517ab07e306",
+    "da70134d7a39451d",
+    "afcc02029a38c2c1",
+    "52f969b5b2f5ed64",
+    "600aa8c059a461af",
+    "a7062312841d5804",
+    "f65f5a2cfd176d02",
+    "bbf48823f2a315d8",
+    "c35c418440982838",
+    "40953d5cd7362f01",
+    "dce53a3c6e2b5ef7",
+    "991f9e88d6745c56",
+    "3da85cce8053f4ea"
+   ]
+  },
+  {
+   "date": "1996-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189476:por",
+     "title": "Decreto-Lei n.º 240/96",
+     "published": "1996-12-14",
+     "dre_path": "/dr/detalhe/decreto-lei/240-1996-189476"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "72cb413b1bf85567",
+    "bed006b446d6df8f",
+    "eed6fdec61e9ce40",
+    "635b5ffba639275f",
+    "ee9f267a75127c01",
+    "83cce261440ed7f9",
+    "755e2ef4439d5d4b",
+    "7b80de524c843114",
+    "500f80ef0839c169",
+    "54254dd30cf97417",
+    "a2a47517ab07e306",
+    "da70134d7a39451d",
+    "afcc02029a38c2c1",
+    "52f969b5b2f5ed64",
+    "600aa8c059a461af",
+    "a7062312841d5804",
+    "f65f5a2cfd176d02",
+    "bbf48823f2a315d8",
+    "c35c418440982838",
+    "40953d5cd7362f01",
+    "693d93f39a74948d",
+    "991f9e88d6745c56",
+    "3da85cce8053f4ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "72cb413b1bf85567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Outubro\n\nA dimensão social e a qualidade de vida do cidadão constituem uma das três grandes opções que o Governo adoptou para o ano de 1991, aprovadas pela [Lei n.º 64/90](https://diariodarepublica.pt/dr/detalhe/lei/64-1990-469073), de 28 de Dezembro.\n\nEsta opção traduz-se numa actuação cada vez mais eficaz no domínio da protecção social e no reforço da solidariedade social.\n\nSem minimizar o que até aqui se tem feito no âmbito da segurança social, o certo é que novas necessidades sociais têm surgido, tornando-se imperioso o alargamento da sua cobertura.\n\nCom efeito, estamos a viver numa sociedade em constante mudança, em que os fenómenos sociais se sucedem a um ritmo acelerado e, por conseguinte, as respostas de solução, tanto quanto possível, tem de ser criadas, sob pena de não serem compridos os princípios e os objectivos enunciados na [Lei n.º 64/90](https://diariodarepublica.pt/dr/detalhe/lei/64-1990-469073).\n\nEfectivamente, a participação da mulher no mercado de emprego, o progressivo envelhecimento da população e o crescimento de factores exógenos que não contribuem para uma redução do número de deficientes, não obstante a melhoria verificada nas condições gerais da vida dos cidadãos, nomeadamente no campo da saúde, destacando-se ainda o da prevenção da deficiência, exigem a adopção de medidas sociais para apoiar aqueles que, pela sua idade ou por falta de autonomia, vivem numa situação de isolamento, agravada pela insuficiência ou inexistência de respostas que satisfaçam as suas necessidades básicas.\n\nEstes indivíduos constituem, pois, grupos de risco, que exigem um atendimento que ultrapassa muitas vezes as possibilidades reais da família.\n\nDesta feita, e a fim de diversificar a rede de respostas destinadas a estes dois grupos, é criado o acolhimento familiar, que, como alternativa ao meio familiar, constitui a resposta mais humana e personalizada ao atendimento daqueles grupos, evitando ou retardando o mais possível o recurso à resposta institucional.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "bed006b446d6df8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conceito\n\n1 - O acolhimento familiar é uma medida de política social que consiste em integrar, temporária ou permanentemente, em famílias consideradas idóneas pessoas idosas ou pessoas com deficiência, a partir da idade adulta.\n\n2 - Para os efeitos do presente diploma, o acolhimento familiar é assumido por particulares, no seu domicílio.\n\n3 - O acolhimento familiar é prestado a título oneroso."
+  },
+  "eed6fdec61e9ce40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO acolhimento familiar destina-se a garantir à passoa acolhida um ambiente sócio-familiar e afectivo propício à satisfação das suas necessidades básicas e ao respeito pela sua identidade, personalidade e privacidade."
+  },
+  "635b5ffba639275f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Situações determinantes do acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situações determinantes do acolhimento familiar\n\n1 - O acolhimento familiar pode verificar-se nas seguintes situações:\n\na) Inexistência ou insuficiência de respostas sociais eficazes que assegurem o apoio adequado à manutenção no seu domicílio da pessoa idosa ou da pessoa adulta com deficiência;\n\nb) Ausência da respectiva família ou quando esta não reúna condições mínimas para assegurar o seu acompanhamento.\n\n2 - A título excepcional, o acolhimento nos termos do presente diploma pode ser efectuado por parente do acolhido a partir do 3.º grau da linha colateral."
+  },
+  "ee9f267a75127c01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Aceitação do acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aceitação do acolhimento familiar\n\nO acolhimento familiar depende sempre da aceitação escrita do interessado, salvo quando o mesmo esteja incapaz de manifestar a sua vontade, caso em que cabe à respectiva família pronunciar-se ou, na sua falta, às instituições de enquadramento previstas no artigo 13.º"
+  },
+  "83cce261440ed7f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Modalidades de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de acolhimento\n\n1 - O acolhimento familiar de pessoas idosas ou de pessoas adultas com deficiência pode ser temporário ou permanente e a tempo completo ou a tempo parcial.\n\n2 - Em qualquer das modalidades de acolhimento previstas no número anterior não devem, em princípio, ser acolhidas simultaneamente mais de duas pessoas na mesma família.\n\n3 - Em casos devidamente fundamentados pode o acolhimento familiar abranger o máximo de três pessoas."
+  },
+  "755e2ef4439d5d4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições para recurso ao acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições para recurso ao acolhimento familiar\n\nA pessoa idosa ou a pessoa adulta com deficiência pode recorrer ao acolhimento familiar, desde que esteja nalguma das seguintes condições:\n\na) Ter idade igual ou superior a 60 anos ou não inferior a 18 anos, quando se trate de pessoa com deficiência;\n\nb) Ser portadora de deficiência orgânica, motora ou sensorial;\n\nc) Encontrar-se em situação de dependência ou de perda de autonomia, não podendo bastar-se a si própria;\n\nd) Viver isolada e sem apoio de natureza sócio-familiar;\n\ne) Viver em situação de alojamento muito precário ou sem alojamento que ponha em perigo a sua segurança;\n\nf) Ser vítima de maus tratos."
+  },
+  "7b80de524c843114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições da família de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições da família de acolhimento\n\n1 - A família de acolhimento, para prestar os serviços previstos neste diploma, deve reunir as seguintes condições:\n\na) Ter sensibilidade para a problemática do envelhecimento ou da deficiência;\n\nb) Ter estabilidade familiar, capacidade afectiva e capacidade económica mínima;\n\nc) Apresentar equilíbrio no plano da saúde física e mental;\n\nd) Possuir habitação com adequados requisitos de habitabilidade e acessibilidade;\n\ne) Estar disponível para frequentar acções de formação prévia e contínua promovidas pelas instituições de enquadramento.\n\n2 - Para os efeitos do presente diploma, deve a família de acolhimento ter um membro disponível a quem se possa imputar a responsabilidade da prestação do acolhimento."
+  },
+  "500f80ef0839c169": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Deveres da família de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres da família de acolhimento\n\nConstituem deveres da família de acolhimento, nomeadamente, os seguintes:\n\na) Acompanhar a pessoa acolhida, garantindo-lhe a satisfação das suas necessidades básicas;\n\nb) Prestar, a solitação do acolhido, colaboração na administração de bens e valores de que aquele se faça acompanhar, quando for necessário;\n\nc) Fomentar a integração da pessoa acolhida no ambiente familiar, mesmo quando o acolhimento seja apenas temporário ou a tempo parcial;\n\nd) Recorrer aos serviços de saúde e de apoio social, sempre que a pessoa acolhida deles necessite;\n\ne) Assegurar e fomentar o relacionamento entre a pessoa acolhida e a respectiva família;\n\nf) Fomentar a participação da pessoa acolhida na vida da comunidade, através da frequência e do apoio das respectivas estruturas;\n\ng) Manter a família da pessoa acolhida e a instituição de enquadramento informadas dos aspectos relevantes da situação física, psíquica e social da pessoa acolhida;\n\nh) Informar, com a antecedência mínima de 30 dias, salvo motivo de força maior, a pessoa acolhida, a respectiva família ou a instituição de enquadramento quando desejar interromper a situação de acolhimento, justificando a decisão tomada."
+  },
+  "54254dd30cf97417": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direitos da família de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos da família de acolhimento\n\nA família de acolhimento tem os seguintes direitos:\n\na) À retribuição pelos serviços prestados à pessoa acolhida, cujo montante consta de um contrato a celebrar para o efeito;\n\nb) Ao apoio técnico e à formação prévia e contínua por parte da instituição de enquadramento;\n\nc) Aos valores correspondentes à comparticipação pelos serviços de acolhimento prestados;\n\nd) Aos montantes necessários à cobertura de despesas extraordinárias relativas às necessidades de saúde e outras da pessoa acolhida."
+  },
+  "a2a47517ab07e306": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Retribuição do acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Retribuição do acolhimento familiar\n\n1 - Os valores da retribuição pelos serviços prestados no âmbito do acolhimento familiar e as comparticipações por parte da instituição de enquadramento são fixados por despacho ministerial e sujeitos a actualização anual.\n\n2 - O pagamento da retribuição pelos serviços prestados cabe à pessoa acolhida ou à respectiva família, quando tenham comprovada disponibilidade financeira.\n\n3 - Nos casos em que não se verifique a disponibilidade referida no número anterior, cabe à instituição de enquadramento assegurar o pagamento daquela retribuição.\n\n4 - A família de acolhimento não responde por encargos adicionais que possam advir do agravamento da situação da pessoa acolhida, devendo esses encargos ser imputados ao próprio ou à respectiva família e, no caso de falta de recursos financeiros por parte destes, à instituição de enquadramento."
+  },
+  "da70134d7a39451d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direitos da pessoa acolhida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos da pessoa acolhida\n\n1 - A pessoa acolhida tem os direitos inerentes ao reconhecimento da dignidade como pessoa humana, independentemente da sua situação de dependência ou de perda de autonomia.\n\n2 - A situação de acolhimento familiar considera-se equiparada ao previsto na alínea a) do n.º 2 do artigo 64.º do Regime de Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro."
+  },
+  "afcc02029a38c2c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Deveres da pessoa acolhida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres da pessoa acolhida\n\nA pessoa acolhida tem, nomeadamente, os seguintes deveres:\n\na) Respeitar e estimar a família de acolhimento, de modo a não gerar conflitos que possam prejudicar o equilíbrio e harmonia daquela;\n\nb) Informar, com a antecedência mínima de 30 dias, salvo motivo de força maior, a família de acolhimento e a instituição de enquadramento se desejar interromper a situação de acolhimento, justificando a decisão tomada."
+  },
+  "52f969b5b2f5ed64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Instituições de enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instituições de enquadramento\n\n1 - O acolhimento familiar pode ser promovido pelos centros regionais de segurança social e pela Santa Casa da Misericórdia de Lisboa.\n\n2 - O acolhimento familiar pode também ser promovido pelas instituições particulares de solidariedade social, em articulação com as entidades referidas no número anterior e nos termos do artigo 15.º do presente diploma."
+  },
+  "600aa8c059a461af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência das instituições de enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência das instituições de enquadramento\n\n1 - Compete às instituições de enquadramento:\n\na) Seleccionar e formar as famílias candidatas ao acolhimento, assegurando-se da sua idoneidade;\n\nb) Analisar a situação da pessoa a acolher e da respectiva família;\n\nc) Estabelecer entre os intervenientes as condições do acolhimento;\n\nd) Garantir, quando necessário, o apoio e as ajudas técnicas indispensáveis à integração social e ao bem-estar da pessoa acolhida;\n\ne) Garantir às famílias de acolhimento o pagamento das despesas previstas nas alíneas c) e d) do artigo 9.º;\n\nf) Acompanhar e fiscalizar a situação do acolhimento familiar;\n\ng) Promover a realização de contratos de seguro de acidentes pessoais para cobertura de riscos que possam ocorrer com a pessoa acolhida;\n\nh) Promover a nomeação de um curador, nos casos em que a pessoa acolhida se mostre incapaz de exercer os seus direitos e deveres, na ausência ou incapacidade da respectiva família;\n\ni) Encaminhar, quando necessário, a pessoa acolhida para as estruturas locais de saúde e de apoio social.\n\n2 - São consideradas idóneas para efeito da aplicação do presente diploma as famílias que reúnam as condições referidas no artigo 7.º"
+  },
+  "a7062312841d5804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acordos de cooperação\n\nNo âmbito da legislação em vigor sobre cooperação, podem ser celebrados acordos com instituições particulares de solidariedade social para promover o acolhimento familiar previsto neste diploma."
+  },
+  "f65f5a2cfd176d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Formalização do acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalização do acolhimento familiar\n\n1 - As condições a que deve obedecer o acolhimento familiar, como medida de política social, constam de documento escrito, revestindo a forma de contrato.\n\n2 - O modelo de contrato referido no número anterior será aprovado por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social."
+  },
+  "bbf48823f2a315d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Início e cessação da retribuição e demais encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Início e cessação da retribuição e demais encargos\n\nA satisfação dos encargos tem início no primeiro dia do mês em que se processa o acolhimento familiar e cessa no final do mês em que aquele termina."
+  },
+  "c35c418440982838": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Cessação do contrato de acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cessação do contrato de acolhimento familiar\n\nO contrato de acolhimento familiar cessa:\n\na) Nos casos fixados na lei geral;\n\nb) Quando a família de acolhimento ou a pessoa acolhida não desejem manter a situação ou quando esgotadas as tentativas de conciliação."
+  },
+  "40953d5cd7362f01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Revisão dos contratos de acolhimento familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revisão dos contratos de acolhimento familiar\n\n1 - O contrato de acolhimento familiar celebrado nos termos deste diploma pode ser revisto sempre que as condições que lhe deram origem se alterem.\n\n2 - A revisão prevista no número anterior não dispensa o parecer favorável da instituição de enquadramento."
+  },
+  "dce53a3c6e2b5ef7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime geral da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime geral da segurança social\n\n1 - O membro da família de acolhimento a quem seja imputada a responsabilidade pela prestação de serviços fica obrigatoriamente enquadrado no regime geral da segurança social dos trabalhadores independentes, sem prejuízo da eventual isenção de pagamento de contribuições, nos termos legais.\n\n2 - As contribuições para o regime geral da segurança social dos trabalhadores independentes são fixadas tendo em conta o limite mínimo de base de incidência e a taxa contributiva mais baixa que estiver em vigor nesse regime."
+  },
+  "991f9e88d6745c56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nA situação das famílias de acolhimento já existentes deve ser regularizada de acordo com as normas constantes deste diploma no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "3da85cce8053f4ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 22 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda.\n\nPromulgado em 24 de Setembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Setembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo a que se refere o n.º 2 do artigo 16.º\n\nModelo tipo do contrato de prestação de serviços de acolhimento familiar\n\nEntre a instituição de enquadramento (ver nota 1) ..., representada por ..., na qualidade de primeiro outorgante, e (ver nota 2) ..., (ver nota 3) ..., residente em ..., na qualidade de segundo outorgante, e em representação da família de acolhimento, é celebrado o presente contrato de prestação de serviços, ao abrigo do disposto no Decreto-Lei n.º 391/91, de 10 de Outubro, e no Despacho n.º ..., de ... (ver nota 4), nos termos das cláusulas seguintes:\n\nCláusula I\n\nO segundo outorgante obriga-se a garantir a prestação de serviço de acolhimento familiar à pessoa idosa ou à pessoa com deficiência, no número máximo de três, nos termos do artigo 5.º do Decreto-Lei n.º 391/91, de 10 de Outubro.\n\nCláusula II\n\nO primeiro outorgante obriga-se a prestar formação e apoio sistemático à família de acolhimento e a garantir as demais obrigações decorrentes das competências fixadas no artigo 14.º\n\nCláusula III\n\nO primeiro outorgante obriga-se a pagar à família de acolhimento, representada pelo segundo outorgante, durante os períodos definidos no artigo 7.º do Decreto-Lei n.º 391/91, de 10 de Outubro, os montantes mensais fixados no Despacho n.º ..., de ... (ver nota 4), correspondentes à retribuição do serviço, às comparticipações devidas e aos encargos adicionais.\n\nCláusula IV\n\nSempre que se verifique alteração dos valores da retribuição da prestação de serviço de acolhimento e das comparticipações das pessoas acolhidas fixados por despacho, consideram-se os novos valores automaticamente aplicáveis ao presente contrato.\n\nCláusula V\n\nO primeiro outorgante obriga-se ainda a dotar a família de acolhimento com os montantes necessários à cobertura das despesas extraordinárias relativas a necessidades de saúde e outras da pessoa acolhida.\n\nCláusula VI\n\nNos casos em que o segundo outorgante pretenda pôr termo ao presente contrato, deve avisar a instituição de enquadramento com a antecedência mínima de 30 dias, salvo motivo de força maior.\n\nO Primeiro Outorgante, ...\n\nO Segundo Outorgante, ...\n\n(nota 1) Centro Regional de Segurança Social .../Santa Casa da Misericórdia de Lisboa/IPSS(com acordo de cooperação).\n\n(nota 2) Nome do membro da família de acolhimento que assume a responsabilidade pelo serviço prestado.\n\n(nota 3) Estado civil.\n\n(nota 4) Despacho de fixação dos montantes de retribuição e dos valores das comparticipações em vigor à data da celebração do contrato e fixação de encargos adicionais."
+  },
+  "693d93f39a74948d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime geral da segurança social",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 240/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1996-189476), publicado em 1996-12-14."
+   ],
+   "markdown": "###### Artigo 20.º — Regime geral da segurança social\n\n1 - O membro da família de acolhimento a quem seja imputada a responsabilidade pela prestação de serviços fica obrigatoriamente enquadrado no regime geral da segurança social dos trabalhadores independentes, sem prejuízo da eventual isenção de pagamento de contribuições, nos termos legais.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 240/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1996-189476), publicado em 1996-12-14."
+  }
+ }
+}

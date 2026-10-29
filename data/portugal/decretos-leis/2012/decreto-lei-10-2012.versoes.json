@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544172:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3ccffd74a350a339",
+    "cd59253c4153d274",
+    "23f789a8d3678e7d",
+    "fcf380b28702b3ea",
+    "0f66e5172c9519b7",
+    "6fc65e32138784f6",
+    "239186526e23278e",
+    "60ba3759e60485a8",
+    "e92a08385ed14a89",
+    "4d76b37326367927",
+    "b6f002e64d14643a",
+    "d09fc5d7b3bdca27",
+    "e3372da5bd892af7",
+    "19d9ee3155a2c98b"
+   ]
+  },
+  {
+   "date": "2012-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552547:por",
+     "title": "Decreto-Lei n.º 89/2012",
+     "published": "2012-04-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2012-552547"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "3ccffd74a350a339",
+    "cd59253c4153d274",
+    "23f789a8d3678e7d",
+    "fcf380b28702b3ea",
+    "0f66e5172c9519b7",
+    "6fc65e32138784f6",
+    "239186526e23278e",
+    "60ba3759e60485a8",
+    "e92a08385ed14a89",
+    "4d76b37326367927",
+    "dfe48ea322358513",
+    "d09fc5d7b3bdca27",
+    "e3372da5bd892af7",
+    "19d9ee3155a2c98b"
+   ]
+  }
+ ],
+ "fragments": {
+  "3ccffd74a350a339": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNo âmbito da reestruturação do Ministério dos Negócios Estrangeiros, operada pela nova Lei Orgânica, torna-se necessário adequar a orgânica do Fundo para as Relações Internacionais, I. P. (FRI, I. P.), aos objectivos cuja prossecução lhe foi atribuída. A actividade do FRI, I. P., centra-se, preferencialmente, na modernização dos serviços do MNE, nas acções de natureza social de apoio a agentes das relações internacionais e actividades destinadas às comunidades portuguesas, no financiamento das acções especiais de política externa e nos projectos de formação no âmbito da política de relações internacionais.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "cd59253c4153d274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Fundo para as Relações Internacionais, I. P., abreviadamente designado por FRI, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa, financeira e patrimonial.\n\n2 - O FRI, I. P., prossegue as atribuições do Ministério dos Negócios Estrangeiros (MNE), sob a superintendência e a tutela do respectivo Ministro."
+  },
+  "23f789a8d3678e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O FRI, I. P., desenvolve a sua acção junto dos serviços internos e das missões e representações diplomáticas e postos consulares.\n\n2 - O FRI, I. P., tem a sua sede em Lisboa."
+  },
+  "fcf380b28702b3ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O FRI, I. P., tem por missão apoiar a modernização dos serviços e do património do MNE, as acções de natureza social de apoio a agentes das relações internacionais e actividades destinadas às comunidades portuguesas, acções especiais de política externa e projectos de formação no âmbito da política de relações internacionais.\n\n2 - São atribuições do FRI, I. P.:\n\na) Apoiar as acções de modernização dos serviços do MNE;\n\nb) Apoiar obras necessárias à manutenção e modernização do património do MNE;\n\nc) Apoiar as medidas de inovação, designadamente as relativas ao reforço da utilização das Tecnologias de Informação e Comunicação nos serviços da administração directa e indirecta do MNE;\n\nd) Comparticipar em acções de natureza social promovidas por entidades de natureza associativa, visando o apoio, directo ou indirecto, aos agentes das relações internacionais;\n\ne) Apoiar actividades de natureza social, cultural, económica e comercial, designadamente as destinadas às comunidades portuguesas, promovidas por entidades públicas e privadas, nacionais ou estrangeiras, no quadro das diversas vertentes da política externa portuguesa;\n\nf) Satisfazer os encargos ocasionados por acções extraordinárias de política externa;\n\ng) Apoiar acções de formação e conceder subsídios e bolsas a entidades públicas e privadas, nacionais ou estrangeiras, no âmbito da política definida em matéria de relações internacionais."
+  },
+  "0f66e5172c9519b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do FRI, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único."
+  },
+  "6fc65e32138784f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - O conselho directivo é o órgão de gestão do FRI, I. P., e é composto, por inerência, pelos seguintes membros:\n\na) Secretário-geral do Ministério dos Negócios Estrangeiros, que preside;\n\nb) Director-geral dos Assuntos Consulares e das Comunidades Portuguesas;\n\nc) Director do Departamento Geral de Administração.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho directivo, no âmbito da orientação e gestão do FRI, I. P.:\n\na) Promover a elaboração dos instrumentos de gestão previsional e submetê-los à aprovação do membro do Governo da tutela;\n\nb) Aprovar os documentos de prestação de contas e assegurar a elaboração de indicadores de gestão, que permitam acompanhar a evolução da situação administrativa e financeira;\n\nc) Autorizar a realização de despesas que não sejam da competência ministerial;\n\nd) Abrir e movimentar contas, mediante a assinatura do presidente e de um dos vogais, em moeda nacional ou estrangeira, em Portugal ou em qualquer outro país, que se revelem necessárias à prossecução da sua actividade;\n\ne) Manter informado o membro do Governo da tutela sobre os assuntos relativos ao Fundo;\n\nf) Tomar as providências adequadas à boa gestão e racional utilização dos recursos do Fundo, nomeadamente assegurar a recepção do produto das receitas próprias;\n\ng) Aprovar a aquisição e alienação de bens;\n\nh) Designar os chefes da equipa multidisciplinar;\n\ni) Assegurar a elaboração dos documentos de prestação de contas e relatório anuais, bem como a organização e actualização da contabilidade, designadamente a conferência, processamento e liquidação das despesas relativas à actividade do FRI, I. P.;\n\nj) Assegurar a organização e actualização do cadastro de pessoal afecto ao FRI, I. P., bem como o registo e controlo de assiduidade."
+  },
+  "239186526e23278e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na Lei Quadro dos Institutos Públicos."
+  },
+  "60ba3759e60485a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização interna\n\nA organização interna do FRI, I. P., é a prevista nos respectivos Estatutos."
+  },
+  "e92a08385ed14a89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Afectação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Afectação de pessoal\n\nO apoio técnico e administrativo ao FRI, I. P., é prestado pela Secretaria-Geral do MNE."
+  },
+  "4d76b37326367927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O FRI, I. P., dispõe de receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O FRI, I. P., dispõe ainda das seguintes receitas próprias:\n\na) Os emolumentos consulares cobrados nos serviços externos do MNE;\n\nb) O produto de doações, heranças e legados;\n\nc) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - Os saldos das receitas referidas no número anterior verificados no final de cada ano transitam para o ano seguinte, nos termos da lei."
+  },
+  "b6f002e64d14643a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\n1 - Constituem despesas do FRI, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, dividindo-se em normais e classificadas.\n\n2 - As despesas decorrentes do exercício das competências previstas nas alíneas d) e f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.\n\n3 - As despesas classificadas são justificadas por documento do conselho directivo, assinado pelo seu presidente e outro membro."
+  },
+  "d09fc5d7b3bdca27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património do FRI, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que seja titular."
+  },
+  "e3372da5bd892af7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 118/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2007-520997), de 27 de Abril."
+  },
+  "19d9ee3155a2c98b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas.\n\nPromulgado em 12 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "dfe48ea322358513": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": "2012-04-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2012-552547), publicado em 2012-04-11."
+   ],
+   "markdown": "###### Artigo 10.º — Despesas\n\n1 - Constituem despesas do FRI, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, dividindo-se em normais e classificadas.\n\n2 - As despesas decorrentes do exercício das competências previstas na alínea f) do n.º 2 do artigo 3.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do membro do Governo da tutela.\n\n3 - As despesas classificadas são justificadas por documento do conselho directivo, assinado pelo seu presidente e outro membro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 89/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2012-552547), publicado em 2012-04-11."
+  }
+ }
+}

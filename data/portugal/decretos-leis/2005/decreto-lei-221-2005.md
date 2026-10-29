@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-01-01'
+version_history:
+  file: decreto-lei-221-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/221/2005/12/23/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 66-B/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-221-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,9 +158,11 @@ O pessoal do QPME beneficia de um acréscimo de 15% sobre o tempo de serviço ef
 
 1 - O pessoal do QPME que até 31 de Dezembro de 2005 reúna as condições vigentes nessa data para requerer a passagem à situação de reforma pode fazê-lo a todo o tempo, sendo o pedido decidido nos termos em vigor até àquela data.
 
-2 - Até 31 de Dezembro de 2013, pode ainda requerer a passagem à situação de reforma o pessoal que complete a idade prevista na tabela anexa ao presente decreto-lei, que dele faz parte integrante.
+2 - (Revogado.)
 
 3 - O disposto no artigo anterior aplica-se apenas ao tempo de serviço prestado a partir da sua entrada em vigor.
+
+> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31.
 
 ###### Artigo 4.º — Norma revogatória
 

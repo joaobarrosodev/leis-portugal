@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-09-12'
+version_history:
+  file: portaria-783-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-12'
+    amending: pt:dre:56727879:por
+    amending_title: Portaria n.º 178/2014
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/783/2009/07/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 178/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-783-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -205,15 +220,17 @@ d) Solos podzolizados de areias e arenitos.
 
 1 - Os vinhos protegidos por esta portaria devem provir de vinhas com pelo menos três anos de enxertia, ou de dois anos se se tratar de enxertos prontos, ou do próprio ano no caso de reenxertia, e a sua elaboração, salvo em casos excepcionais, a autorizar pela entidade certificadora, deve decorrer, dentro da região de produção, em adegas inscritas e aprovadas para o efeito, que ficam sujeitas ao controlo da entidade certificadora.
 
-2 - Na elaboração dos vinhos protegidos por esta portaria são seguidas as práticas e tratamentos enológicos legalmente autorizados.
+2 - Na elaboração dos vinhos protegidos por esta portaria são seguidas as práticas e tratamentos enológicos legalmente autorizados e satisfeitos os requisitos organoléticos apropriados quanto à cor, limpidez, aroma e sabor.
 
-3 - O vinho rosado é elaborado a partir de uvas tintas ou tintas e brancas em que estas não podem ultrapassar um terço do total, vinificado em sistema de «bica aberta».
+3 - (Revogado)
 
 4 - O vinho frisante e o vinho espumante devem ter como vinho base um vinho apto a ser reconhecido como DO «Palmela», em que o dióxido de carbono que contêm resulte de uma segunda fermentação e respeite o disposto na legislação aplicável.
 
 5 - O vinho licoroso com direito à DO «Palmela» deve ser elaborado a partir de mosto de uvas que reúna condições para poder dar origem à DO «Palmela» em início de fermentação, ao qual foi adicionado álcool vínico neutro com um título alcoométrico adquirido igual ou superior a 96 % vol., ou destilado de vinho com um título alcoométrico adquirido igual ou superior a 52 % vol., e inferior ou igual a 86 % vol., desde que sejam respeitadas as características estabelecidas na legislação em vigor.
 
 6 - No caso de na mesma adega serem também elaborados vinhos sem direito à DO «Palmela» a entidade certificadora estabelece as condições em que deve decorrer a sua elaboração, devendo os vinhos protegidos por esta portaria ser conservados em áreas separadas, em recipientes devidamente identificados, nos quais constem, nomeadamente, as indicações relativas ao volume do recipiente, ao tipo de vinho contido e ao ano de colheita.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 178/2014](https://diariodarepublica.pt/dr/detalhe/portaria/178-2014-56727879), publicado em 2014-09-11.
 
 ###### Artigo 8.º
 

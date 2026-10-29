@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-05-07'
+version_history:
+  file: decreto-legislativo-regional-10-2000-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-05-07'
+    amending: pt:dre:603512:por
+    amending_title: Decreto Legislativo Regional n.º 23/2001/A; Decreto Legislativo Regional n.º 20/2003/A
+    changes:
+    - Adita Artigo 4.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/10/2000/05/12/a/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    23/2001/A; Decreto Legislativo Regional n.º 20/2003/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2000/decreto-legislativo-regional-10-2000-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,3 +169,11 @@ Assinado em Angra do Heroísmo em 10 de Abril de 2000.
 Publique-se.
 
 O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
+
+###### Artigo 4.º — Vigência
+
+O regime previsto no presente diploma vigora até 30 de Junho de 2003.
+
+> Aditado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 23/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2001-603512), publicado em 2001-11-13.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 20/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2003-572607), publicado em 2003-05-06.

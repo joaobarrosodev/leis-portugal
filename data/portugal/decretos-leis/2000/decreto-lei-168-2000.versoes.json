@@ -1,0 +1,466 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:335902:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "11b03035cd1fb123",
+    "1e5ce63ee0ff5081",
+    "1bc76c0c7b5a907f",
+    "96046a0866e0df0d",
+    "fe66e54efd2ea9af",
+    "b8d103cfc848e762",
+    "8d321f8b4c48eb28",
+    "b28597be75a7568d",
+    "d1009e8f04d6f34a",
+    "f5a48495a1179812",
+    "ba7019176738c6b8",
+    "db2d0de6e88796af",
+    "77a25c8a8251c890",
+    "45003008bfc34d5e",
+    "3f852fa77b21757d",
+    "507465396b768dde",
+    "927bcebb60e5d585",
+    "fa229af56b34f158",
+    "7535d6ea94861a47",
+    "364abf7790402df4",
+    "9e4a01a7a1f5239d",
+    "69e32aecb4b1c571",
+    "e9fe672ddde1d8b6",
+    "05da3cef5c854035",
+    "a29aba6e19915a66",
+    "8bf9ccd7c85cc77f",
+    "26a5a8154b37eed0",
+    "3f8a6a8fa2d3baf4",
+    "dc34cc21a5fb9a65",
+    "2accdf18ef7db898",
+    "f7396b4f88cc60b3",
+    "55cd39d25bf18a00",
+    "fcf3d57e11020e26",
+    "e850997191d918e6",
+    "2655fb373e48009a",
+    "891f562b1df78d0b",
+    "a8539ab047a1dcb9",
+    "de3add7ec128ff05",
+    "4c2845f9bc88f3fd",
+    "253801bbc1fa6edb",
+    "c7bd5582844dff4b",
+    "98fb25ee041f1505"
+   ]
+  },
+  {
+   "date": "2001-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573127:por",
+     "title": "Decreto-Lei n.º 172-B/2001",
+     "published": "2001-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/172-b-2001-573127"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "11b03035cd1fb123",
+    "1e5ce63ee0ff5081",
+    "e2aa40de17786ac6",
+    "96046a0866e0df0d",
+    "fe66e54efd2ea9af",
+    "b8d103cfc848e762",
+    "8d321f8b4c48eb28",
+    "b28597be75a7568d",
+    "d1009e8f04d6f34a",
+    "f5a48495a1179812",
+    "ba7019176738c6b8",
+    "db2d0de6e88796af",
+    "77a25c8a8251c890",
+    "45003008bfc34d5e",
+    "3f852fa77b21757d",
+    "507465396b768dde",
+    "927bcebb60e5d585",
+    "fa229af56b34f158",
+    "7535d6ea94861a47",
+    "364abf7790402df4",
+    "9e4a01a7a1f5239d",
+    "69e32aecb4b1c571",
+    "e9fe672ddde1d8b6",
+    "05da3cef5c854035",
+    "a29aba6e19915a66",
+    "8bf9ccd7c85cc77f",
+    "26a5a8154b37eed0",
+    "3f8a6a8fa2d3baf4",
+    "dc34cc21a5fb9a65",
+    "2accdf18ef7db898",
+    "f7396b4f88cc60b3",
+    "55cd39d25bf18a00",
+    "fcf3d57e11020e26",
+    "e850997191d918e6",
+    "2655fb373e48009a",
+    "891f562b1df78d0b",
+    "a8539ab047a1dcb9",
+    "de3add7ec128ff05",
+    "4c2845f9bc88f3fd",
+    "253801bbc1fa6edb",
+    "c7bd5582844dff4b",
+    "98fb25ee041f1505"
+   ]
+  }
+ ],
+ "fragments": {
+  "11b03035cd1fb123": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Agosto\n\nOs Decretos-Leis n.os [130/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1995-519642), de 5 de Junho, e [136/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1995-518795), de 12 de Junho, procederam à constituição das sociedades Águas do Sotavento Algarvio, S. A., e Águas do Barlavento Algarvio, S. A., concessionárias dos sistemas multimunicipais de captação, tratamento e abastecimento de água, respectivamente, do Sotavento Algarvio e do Barlavento Algarvio, criados pelas alíneas a) e b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro.\n\nConsiderando que a necessidade de efectuar a ligação física entre os dois sistemas aconselha a que a respectiva exploração e gestão seja efectuada por uma mesma sociedade concessionária;\n\nConsiderando que a fusão das concessionárias permitirá a obtenção de sinergias;\n\nConsiderando o acordo manifestado por todos os accionistas de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., à constituição, por fusão de ambas, de uma nova sociedade:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1e5ce63ee0ff5081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É constituída a sociedade Águas do Algarve, S. A., adiante designada abreviadamente por sociedade, por fusão das sociedades Águas do Sotavento Algarvio, S. A., e Águas do Barlavento Algarvio, S. A., constituídas, respectivamente, pelos Decretos-Leis n.os [130/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1995-519642), de 5 de Junho, e [136/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1995-518795), de 12 de Junho.\n\n2 - A sociedade rege-se pelo presente diploma, pelos seus estatutos e pela lei comercial.\n\n3 - Os efeitos previstos nas alíneas a) e b) do artigo 112.º do Código das Sociedades Comerciais, nomeadamente a extinção das sociedades fundidas e a transmissão dos respectivos direitos e obrigações para a sociedade, consideram-se produzidos no 10.º dia posterior à data da entrada em vigor do presente decreto-lei, ou no 1.º dia útil subsequente."
+  },
+  "1bc76c0c7b5a907f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - São aprovados os estatutos da sociedade, que figuram em anexo ao presente diploma.\n\n2 - A fusão e os estatutos anexos não carecem de redução a escritura pública, devendo o registo oficial, bem como todos os demais registos decorrentes da fusão, nomeadamente comerciais, prediais, de registo automóvel ou de propriedade industrial, ser feitos oficiosamente, estando isentos de taxas, emolumentos ou outros encargos legais, com base na publicação feita no Diário da República.\n\n3 - As alterações aos estatutos realizam-se nos termos da lei comercial.\n\n4 - A sociedade goza de isenção de sisa relativa à transmissão de imóveis de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., em consequência da fusão, bem como de isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de fusão, de acordo com o [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro.\n\n5 - Os prejuízos fiscais de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., podem ser deduzidos dos lucros tributáveis na sociedade, nos termos e para os efeitos do n.º 5 do artigo 62.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas."
+  },
+  "96046a0866e0df0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - São titulares originários das acções da sociedade os municípios de Albufeira, Castro Marim, Faro, Lagoa, Lagos, Loulé, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António, com um total de 34,2% do capital social com direito a voto, a IPE - Águas de Portugal, Sociedade Gestora de Participações Sociais, S. A., com 51% do capital social com direito a voto, e a IPE Capital - Sociedade de Capital de Risco, S. A., ou um fundo por si gerido, com 14,8% do capital com direito a voto.\n\n2 - O capital social, no montante de 12000000 euros, é representado por 1824000 acções da classe A e 576000 acções da classe B, repartidas da seguinte forma pelos accionistas fundadores:\n\na) IPE - Águas de Portugal, Sociedade Gestora de Participações Sociais, S. A.: 1224000 acções da classe A;\n\nb) Município de Albufeira: 60980 acções da classe A e 35124 acções da classe B;\n\nc) Município de Castro Marim: 8637 acções da classe A;\n\nd) Município de Faro: 86397 acções da classe A e 49764 acções da classe B;\n\ne) Município de Lagoa: 39573 acções da classe A;\n\nf) Município de Lagos: 42717 acções da classe A e 24606 acções da classe B;\n\ng) Município de Loulé: 89597 acções da classe A;\n\nh) Município de Olhão: 61041 acções da classe A;\n\ni) Município de Portimão: 77835 acções da classe A e 74721 acções da classe B;\n\nj) Município de São Brás de Alportel: 10488 acções da classe A e 3021 acções da classe B;\n\nl) Município de Silves: 46882 acções da classe A e 27004 acções da classe B;\n\nm) Município de Tavira: 33331 acções da classe A;\n\nn) Município de Vila do Bispo: 11278 acções da classe A e 6496 acções da classe B;\n\no) Município de Vila Real de Santo António: 31244 acções da classe A;\n\np) IPE Capital - Sociedade de Capital de Risco, S. A., ou um fundo por si gerido: 355264 acções da classe B.\n\n3 - As acções da classe A deverão representar, sempre e pelo menos, 51% do capital social com direito a voto e delas apenas poderão ser titulares entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, ou municípios utilizadores dos sistemas multimunicipais de cuja exploração e gestão a sociedade seja concessionária.\n\n4 - A transmissão de acções em violação do disposto no número anterior é nula.\n\n5 - Sem prejuízo do disposto no n.º 3, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral da sociedade.\n\n6 - O valor do capital social resulta da soma dos capitais sociais de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., e o número de acções da sociedade é o correspondente ao número de acções que cada accionista detinha nas sociedades fundidas, depois de redenominadas, segundo o método padrão, e renominalizadas, por transposição do seu valor nominal de 1000$00, com arredondamento para 5 euros cada uma, nos termos do [Decreto-Lei n.º 343/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1998-223195), de 6 de Novembro, com aproveitamento da reserva legal existente em Águas do Sotavento Algarvio, S. A., para o efeito, e devendo os accionistas de Águas do Barlavento Algarvio, S. A., realizar no prazo de cinco dias a contar da data da entrada em vigor do presente diploma, em dinheiro, o montante necessário para perfazer o capital social resultante da respectiva denominação em euros."
+  },
+  "fe66e54efd2ea9af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão considerados utilizadores dos sistemas multimunicipais de captação, tratamento e abastecimento de água do Sotavento Algarvio e do Barlavento Algarvio, criados pelas alíneas a) e b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, para além dos municípios por eles abrangidos, quaisquer pessoas singulares ou colectivas, públicas ou privadas, no caso da distribuição directa de água integrada nos referidos sistemas, sendo obrigatória para os mesmos a ligação a estes, mediante contrato a celebrar com a concessionária."
+  },
+  "b8d103cfc848e762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O prazo dos credores para deduzirem oposição judicial à fusão, com fundamento no prejuízo que dela derive para a realização dos seus direitos, é de 30 dias a contar da data da entrada em vigor do presente diploma.\n\n2 - A oposição de credores não suspende a fusão mas, quando resolvida favoravelmente ao credor, a sociedade ficará responsável pelo pagamento do crédito, gozando este de preferência sobre os de natureza idêntica constituídos após a fusão."
+  },
+  "8d321f8b4c48eb28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nConsidera-se convocada a assembleia geral da sociedade, sem necessidade de cumprimento dos requisitos mencionados no artigo 13.º e no n.º 2 do artigo 16.º dos estatutos anexos, para o 10.º dia posterior à data da entrada em vigor do presente decreto-lei, ou para o 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os órgãos sociais da sociedade e aprovar o respectivo estatuto remuneratório.\n\nVisto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 19 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "b28597be75a7568d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatutos de Águas do Algarve, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatutos de Águas do Algarve, S. A."
+  },
+  "d1009e8f04d6f34a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Denominação, duração e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Denominação, duração e sede"
+  },
+  "f5a48495a1179812": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA sociedade adopta a denominação de Águas do Algarve, S. A., e durará por tempo indeterminado."
+  },
+  "ba7019176738c6b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A sede social é em Faro, na freguesia da Sé, na Rua do Repouso, 10.\n\n2 - Por deliberação do conselho de administração poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como poderá ser mudada a sede social para outro local sito no mesmo município ou em município limítrofe."
+  },
+  "db2d0de6e88796af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Objecto"
+  },
+  "77a25c8a8251c890": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A sociedade tem por objecto social a exploração e gestão dos sistemas multimunicipais de captação, tratamento e abastecimento de água do Sotavento Algarvio e do Barlavento Algarvio.\n\n2 - Por deliberação da assembleia geral, a sociedade poderá exercer também a actividade de exploração e gestão de sistemas de saneamento para recolha, tratamento e rejeição de efluentes.\n\n3 - Incluem-se no objecto social da sociedade, nomeadamente, a construção, extensão, reparação, renovação, manutenção e melhoria das obras e equipamentos necessários para o desenvolvimento das actividades previstas nos números anteriores.\n\n4 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo concedente."
+  },
+  "45003008bfc34d5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA sociedade poderá participar em quaisquer outras sociedades ou entidades legais com objecto similar ou complementar do seu, desde que previamente autorizada pelo concedente."
+  },
+  "3f852fa77b21757d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Capital social, acções e obrigações"
+  },
+  "507465396b768dde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de 12000000 de euros.\n\n2 - O capital social é representado por 2400000 acções, com o valor nominal de 5 euros cada uma, sendo 1824000 da classe A e 576000 da classe B."
+  },
+  "927bcebb60e5d585": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Quaisquer eventuais aumentos de capital social serão realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar sempre pelo menos 51% do capital social com direito a voto.\n\n2 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.\n\n3 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.\n\n4 - Apenas poderão ser titulares das acções pertencentes à classe A entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, ou municípios utilizadores dos sistemas multimunicipais de cuja exploração e gestão a sociedade seja concessionária.\n\n5 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, designadamente pela verificação de qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a sociedade deverá proceder imediatamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquele rácio.\n\n6 - Desde que não seja ultrapassado o limite fixado no n.º 1 deste artigo, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação da assembleia geral.\n\n7 - As deliberações de aumento de capital deverão prever para os accionistas preferentes um prazo de realização das entradas não inferior a 60 dias."
+  },
+  "fa229af56b34f158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - As acções da classe A são nominativas; as acções da classe B são nominativas, podendo, no entanto, ser convertidas ao portador, a pedido do accionista e mediante deliberação da assembleia geral.\n\n2 - Serão emitidos títulos que poderão representar 1, 10 ou múltiplos de 10 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.\n\n3 - Os títulos representativos das acções deverão mencionar a classe de acções que incorporam.\n\n4 - Os títulos serão assinados por dois administradores, podendo as assinaturas ser de chancela por eles autorizada.\n\n5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável."
+  },
+  "7535d6ea94861a47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 4 do artigo 6.º e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.\n\n2 - A transmissão de acções em violação do disposto no número anterior é nula.\n\n3 - Existe direito de preferência na transmissão de acções da classe A, primeiro a favor da sociedade e depois a favor dos accionistas titulares da mesma classe de acções.\n\n4 - Querendo o accionista transmitir acções da classe A, deve informar por escrito a sociedade desse facto, mediante carta registada, com aviso de recepção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respectiva valoração, bem como as demais condições da projectada transmissão.\n\n5 - A sociedade, caso não pretenda exercer o direito de preferência, o que deverá decidir no prazo de 60 dias contados da data de recepção da carta mencionada no número anterior, comunicará a todos os accionistas titulares da mesma classe de acções a informação recebida, tendo estes um prazo de 30 dias a contar da sua recepção para declararem se exercem o direito de preferência na aquisição das acções; querendo vários accionistas preferir, as acções alienadas serão distribuídas a cada um, incluindo ao primitivo adquirente, se já for accionista, na proporção das respectivas participações sociais.\n\n6 - A sociedade primeiro e depois todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às condições estabelecidas nos números anteriores."
+  },
+  "364abf7790402df4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Mediante deliberação dos sócios, a sociedade poderá amortizar quaisquer acções que forem penhoradas, arrestadas, arroladas, incluídas em massa falida, que forem apreendidas no âmbito de qualquer acção judicial ou que estiverem em condições de ser transmitidas judicialmente.\n\n2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado."
+  },
+  "9e4a01a7a1f5239d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Poderão ser emitidas obrigações em qualquer das modalidades admitidas por lei.\n\n2 - Às obrigações emitidas pela sociedade aplica-se o disposto no n.º 4 do artigo 7.º"
+  },
+  "69e32aecb4b1c571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Órgãos sociais"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "05da3cef5c854035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - São órgãos sociais a assembleia geral, o conselho de administração e o revisor oficial de contas, ou a sociedade de revisores oficiais de contas designada pela assembleia geral.\n\n2 - Os membros da mesa da assembleia geral e dos demais órgãos sociais são eleitos em assembleia geral por períodos de três anos, podendo ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos."
+  },
+  "a29aba6e19915a66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento na eleição dos administradores tem direito a designar um administrador, contanto que essa minoria represente pelo menos 10% do capital social.\n\n2 - No caso de a minoria prevista no número anterior representar, pelo menos, 49% do capital social, tem direito a designar mais um administrador, além do administrador eleito ao abrigo do número anterior, se o conselho de administração for composto de cinco administradores, bem como designar o vice-presidente da mesa da assembleia geral."
+  },
+  "8bf9ccd7c85cc77f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Assembleia geral"
+  },
+  "26a5a8154b37eed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Os accionistas com direito a voto poderão participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.\n\n2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral."
+  },
+  "3f8a6a8fa2d3baf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.\n\n2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente."
+  },
+  "dc34cc21a5fb9a65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - A assembleia geral reunirá no prazo estabelecido no n.º 1 do artigo 376.º do Código das Sociedades Comerciais.\n\n2 - A assembleia geral reunirá ainda sempre que o requeiram o conselho de administração, o revisor oficial de contas ou a sociedade de revisores oficiais de contas, ou ainda os accionistas que representem pelo menos 5% do capital social.\n\n3 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, indicando com precisão os assuntos a incluir na ordem do dia e justificando a necessidade da reunião da assembleia."
+  },
+  "2accdf18ef7db898": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - As reuniões da assembleia geral serão convocadas com a antecedência e nos termos previstos na lei, podendo a convocação ser efectuada por carta registada em substituição da publicação da convocatória, enquanto forem nominativas todas as acções da sociedade.\n\n2 - A assembleia geral pode deliberar em primeira convocação desde que estejam presentes ou representados accionistas que detenham mais de dois terços do capital social.\n\n3 - No aviso convocatório poderá logo fixar-se uma data alternativa para a reunião da assembleia geral, caso a mesma não possa reunir na data inicialmente marcada por falta de quórum constitutivo, devendo entre as duas datas indicadas mediar mais de 15 dias."
+  },
+  "f7396b4f88cc60b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Os accionistas podem deliberar sobre todos os assuntos que não sejam da competência exclusiva de outros órgãos sociais.\n\n2 - Compete, em especial, à assembleia:\n\na) Deliberar sobre o relatório de gestão e as contas de exercício apresentados pelo conselho de administração;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Apreciar a gestão e a fiscalização da sociedade;\n\nd) Aprovar os planos de actividades e financeiros plurianuais para um período de, pelo menos, cinco anos e suas eventuais alterações;\n\ne) Eleger os membros dos órgãos sociais;\n\nf) Deliberar sobre a emissão de obrigações;\n\ng) Deliberar sobre o aumento de capital;\n\nh) Fixar as remunerações dos órgãos sociais da sociedade, podendo esta competência ser delegada em comissão de vencimentos a nomear para o efeito."
+  },
+  "55cd39d25bf18a00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Administração da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Administração da sociedade"
+  },
+  "fcf3d57e11020e26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - A administração da sociedade será exercida por um conselho de administração, composto por três, cinco, sete ou nove membros.\n\n2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente e, se a assembleia geral assim o deliberar, o respectivo vice-presidente.\n\n3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral que os eleja."
+  },
+  "e850997191d918e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO conselho de administração tem os poderes de gestão e representação da sociedade que lhe forem cometidos por lei, pelos presentes estatutos e pelas deliberações dos accionistas."
+  },
+  "2655fb373e48009a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO conselho de administração poderá delegar num administrador ou numa comissão executiva, formada por um número ímpar de administradores, a gestão corrente da sociedade, devendo a deliberação de delegação fixar os limites da mesma."
+  },
+  "891f562b1df78d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A sociedade obriga-se perante terceiros:\n\na) Pela assinatura conjunta de dois administradores, um dos quais deve pertencer à comissão executiva, quando esta exista;\n\nb) Pela assinatura do administrador-delegado, quando exista, dentro dos limites da delegação;\n\nc) Pela assinatura de procuradores quanto aos actos ou categorias de actos definidos nas correspondentes procurações.\n\n2 - Nos documentos de mero expediente e quando se trate de endosso de letras, recibos, cheques ou quaisquer outros documentos, cujo produto de desconto ou de cobrança se destine a ser creditado em conta da sociedade aberta em qualquer instituição financeira, basta a assinatura de um administrador ou de quem para tanto for mandatado."
+  },
+  "a8539ab047a1dcb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - O conselho de administração reúne sempre que convocado pelo presidente ou por dois administradores.\n\n2 - Independentemente do disposto no número anterior, o conselho de administração reunirá pelo menos uma vez por mês.\n\n3 - Os membros do conselho de administração serão convocados por escrito com a antecedência mínima de cinco dias, salvo se a totalidade dos administradores estiver presente ou representada ou se tratar de reuniões com periodicidade fixa, do conhecimento de todos os administradores, caso em que é dispensada a convocatória."
+  },
+  "de3add7ec128ff05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - O conselho de administração não poderá deliberar sem que esteja presente ou representada a maioria dos seus membros.\n\n2 - Qualquer administrador poderá fazer-se representar em cada sessão por outro administrador, sendo que os poderes de representação conferidos devem constar de carta dirigida ao presidente, a qual poderá ser enviada por telecópia, válida apenas para uma reunião.\n\n3 - Qualquer administrador poderá votar por correspondência, podendo a respectiva carta ser enviada por telecópia."
+  },
+  "4c2845f9bc88f3fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Fiscalização da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Fiscalização da sociedade"
+  },
+  "253801bbc1fa6edb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA fiscalização da sociedade compete a um revisor oficial de contas ou sociedade de revisores oficiais de contas."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "98fb25ee041f1505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - O ano social coincide com o ano civil.\n\n2 - Os resultados apurados em cada exercício, exceptuada a parte destinada à constituição ou reintegração da reserva legal, terão a aplicação que a assembleia geral deliberar."
+  },
+  "e2aa40de17786ac6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172-B/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-2001-573127), publicado em 2001-05-26."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - São aprovados os estatutos da sociedade, que figuram em anexo ao presente diploma.\n\n2 - A fusão e os estatutos anexos não carecem de redução a escritura pública, devendo o registo oficial, bem como todos os demais registos decorrentes da fusão, nomeadamente comerciais, prediais, de registo automóvel ou de propriedade industrial, ser feitos oficiosamente, estando isentos de taxas, emolumentos ou outros encargos legais, com base na publicação feita no Diário da República.\n\n3 - As alterações aos estatutos realizam-se nos termos da lei comercial.\n\n4 - A sociedade goza de isenção de sisa relativa à transmissão de imóveis de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., em consequência da fusão, bem como de isenção dos emolumentos e de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no processo de fusão, de acordo com o [Decreto-Lei n.º 404/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1990-406088), de 21 de Dezembro.\n\n5 - Os prejuízos fiscais de Águas do Barlavento Algarvio, S. A., e de Águas do Sotavento Algarvio, S. A., podem ser deduzidos dos lucros tributáveis na sociedade, nos termos e para os efeitos do n.º 5 do artigo 62.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.\n\n6 - Os efeitos de natureza contabilística e fiscal decorrentes da constituição da sociedade e, bem assim, os pressupostos de qualquer acto que impliquem a necessidade de consideração das extintas contas de exploração das sociedades Águas do Sotavento Algarvio, S. A., e Águas do Barlavento Algarvio, S. A., são reportados a 1 de Janeiro de 2000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 172-B/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-2001-573127), publicado em 2001-05-26."
+  }
+ }
+}

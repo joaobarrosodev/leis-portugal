@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-227-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:508460:por
+    amending_title: Decreto-Lei n.º 268-A/2000; Decreto-Lei n.º 90/2011
+    changes:
+    - Altera Artigo 2.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227-a/2000/09/09/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 268-A/2000; Decreto-Lei
+    n.º 90/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-227-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -236,6 +252,10 @@ d) Uma oferta em mercado de bolsa das acções referidas no n.º 3 do artigo 3.�
 10 - A operação prevista no n.º 7 poderá realizar-se em momento anterior à alienação referida no n.º 1 ou em simultâneo com esta.
 
 11 - A PT requererá a admissão à negociação da totalidade das acções alienadas e das que venham a ser emitidas na sequência da operação prevista no n.º 7, no mercado de cotações oficiais da Bolsa de Valores de Lisboa e Porto e nas bolsas estrangeiras que venha a escolher.
+
+12 - A renúncia, por parte de outros accionistas da PT titulares de acções da categoria A, aos privilégios a estas inerentes produz os efeitos referidos no n.º 2 deste artigo, sendo eficaz mediante simples comunicação escrita, dirigida ao presidente da mesa da assembleia geral da PT.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 268-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-a-2000-508460), publicado em 2000-10-26.
 
 ###### Artigo 3.º — Oferta pública de venda
 
@@ -429,7 +449,9 @@ Sem prejuízo do disposto nos artigos 9.º e 10.º, para a realização da opera
 
 7 - Mantém-se em vigor o disposto no n.º 3 do artigo 19.º do [Decreto-Lei n.º 44/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1995-188691), de 22 de Fevereiro.
 
-8 - A PARTEST - Participações do Estado, SGPS, S. A., é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.
+8 - (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
 ###### Artigo 15.º — Depositários de ADR ou GDR e exercício de direitos de voto
 

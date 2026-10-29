@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:429178:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-12-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb8ba5e4dbd14e0a",
+    "d276738160a0665a",
+    "34b74e964d6b7235",
+    "c413659a602da86e",
+    "2ff01be48c34800d",
+    "a801faae85ab024c",
+    "86434d838329ee54",
+    "8a694d4415b6d9e1"
+   ]
+  },
+  {
+   "date": "2004-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:568315:por",
+     "title": "Decreto-Lei n.º 38/2004",
+     "published": "2004-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2004-568315"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "cb8ba5e4dbd14e0a",
+    "d276738160a0665a",
+    "34b74e964d6b7235",
+    "315e27f3de3273e7",
+    "2ff01be48c34800d",
+    "a801faae85ab024c",
+    "86434d838329ee54",
+    "8a694d4415b6d9e1"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb8ba5e4dbd14e0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Dezembro\n\nDurante o Verão do corrente ano, Portugal enfrentou uma vaga de calor, com temperaturas superiores a 40ºC, acompanhada de níveis de humidade na atmosfera muito baixos, de ventos de grande intensidade e da ocorrência de trovoadas secas.\n\nEste quadro, excepcional de acordo com os registos meteorológicos, originou condições especialmente desfavoráveis no que se refere ao combate e à extinção dos incêndios, com as consequências graves que são publicamente conhecidas.\n\nPor isso, o Governo declarou então a situação de calamidade pública decorrente dos incêndios verificados desde o dia 20 de Julho até ao fim do Verão, nos termos previstos na [Resolução do Conselho de Ministros n.º 106-B/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-b-2003-607106), de 11 de Agosto, com as alterações que lhe foram introduzidas pela [Resolução do Conselho de Ministros n.º 123/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-2003-655919), de 25 de Agosto, e pela [Resolução do Conselho de Ministros n.º 161/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-2003-482394), de 18 de Setembro.\n\nJustifica-se, agora, a adopção de medidas de carácter excepcional que permitam fazer face às circunstâncias particulares que o mercado apresenta, designadamente o aumento da oferta de madeira ardida, por forma a contrariar a tendência para a depreciação de preços e condições de mercado.\n\nPara o efeito, o Governo decidiu criar uma linha de crédito destinada a apoiar a aquisição, armazenagem e preservação da madeira de pinho e de eucalipto que tenha sido afectada pelos já referidos incêndios.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d276738160a0665a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada uma linha de crédito bonificado tendo por finalidade a aquisição, a armazenagem e a preservação da madeira, de pinho e eucalipto, afectada pelos incêndios ocorridos em Julho, Agosto e Setembro de 2003, nos distritos abrangidos pela declaração da situação de calamidade pública.\n\n2 - O montante máximo da presente linha de crédito é fixado em 20 milhões de euros.\n\n3 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos proporcionalmente."
+  },
+  "34b74e964d6b7235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à presente linha de crédito as entidades que se dediquem à indústria transformadora de madeira e que adquiram no mercado nacional madeira de pinho e eucalipto, que comprovadamente foi afectada pelos incêndios.\n\n2 - As condições, em concreto, de acesso e manutenção na presente linha de crédito são fixadas por despacho normativo conjunto dos Ministros das Finanças, da Administração Interna e da Agricultura, Desenvolvimento Rural e Pescas."
+  },
+  "c413659a602da86e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições financeiras dos empréstimos\n\n1 - O prazo máximo dos empréstimos é de três anos, a contar da data da primeira utilização de capital.\n\n2 - A utilização dos empréstimos deve ocorrer até 30 de Janeiro de 2004, se estes tiverem como fim a aquisição de madeira de pinho, e até 30 de Junho de 2004 se tiverem como fim a aquisição de madeira de eucalipto e a preservação e conservação da madeira ardida.\n\n3 - Os empréstimos vencem juros calculados, dia a dia, sobre o capital em dívida à taxa contratual.\n\n4 - Os juros são pagos postecipadamente.\n\n5 - A amortização do capital é efectuada anualmente em prestações iguais e sucessivas, vencendo-se a primeira um ano após a data da primeira utilização.\n\n6 - Os empréstimos beneficiam de uma bonificação de juros a suportar pela dotação do Ministério das Finanças através do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), calculada sobre o capital em dívida em cada momento, nas seguintes percentagens:\n\n1.º ano - 80%;\n\n2.º ano - 50%;\n\n3.º ano - 50%.\n\n7 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início da contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta."
+  },
+  "2ff01be48c34800d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Pagamento das bonificações de juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pagamento das bonificações de juros\n\n1 - A bonificação é processada enquanto se verificarem as condições de acesso definidas nos termos do artigo 2.º do presente diploma, bem como o pontual cumprimento das obrigações contratualmente assumidas pelos mutuários.\n\n2 - As instituições de crédito devem fornecer ao IFADAP todas as informações por este solicitadas relativas aos empréstimos objecto de bonificação."
+  },
+  "a801faae85ab024c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Incumprimento pelo mutuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incumprimento pelo mutuário\n\n1 - O incumprimento de qualquer das obrigações do mutuário é prontamente comunicado pela instituição de crédito mutuante ao IFADAP.\n\n2 - O incumprimento previsto no n.º 1 determina a imediata cessação do pagamento das bonificações, bem como a recuperação das que tiverem sido indevidamente processadas."
+  },
+  "86434d838329ee54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acompanhamento e controlo\n\nNo âmbito da presente linha de crédito, compete ao IFADAP:\n\na) O estabelecimento das normas técnicas e financeiras destinadas a garantir o cumprimento do disposto neste diploma;\n\nb) A análise das candidaturas, tendo em vista a verificação das condições de acesso e a aferição do montante do empréstimo a conceder;\n\nc) O processamento e pagamento das bonificações de juros;\n\nd) O acompanhamento e fiscalização das condições de acesso e permanência na presente linha de crédito."
+  },
+  "8a694d4415b6d9e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Comissão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de gestão\n\nPelos serviços prestados, o IFADAP recebe uma remuneração de 3,5% sobre as bonificações pagas.\n\nVisto e aprovado em Conselho de Ministros de 14 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Armando José Cordeiro Sevinate Pinto.\n\nPromulgado em 20 de Novembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Novembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "315e27f3de3273e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições financeiras dos empréstimos",
+   "in_force_from": "2004-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2004-568315), publicado em 2004-02-27."
+   ],
+   "markdown": "###### Artigo 3.º — Condições financeiras dos empréstimos\n\n1 - O prazo máximo dos empréstimos é de três anos, a contar da data da primeira utilização de capital.\n\n2 - A utilização dos empréstimos deve ocorrer até 30 de Junho de 2004, se estes tiverem como fim a aquisição de madeira de pinho, e até 31 de Agosto de 2004, se tiverem como fim a aquisição de madeira de eucalipto e a preservação e conservação da madeira ardida.\n\n3 - Os empréstimos vencem juros calculados, dia a dia, sobre o capital em dívida à taxa contratual.\n\n4 - Os juros são pagos postecipadamente.\n\n5 - A amortização do capital é efectuada anualmente em prestações iguais e sucessivas, vencendo-se a primeira um ano após a data da primeira utilização.\n\n6 - Os empréstimos beneficiam de uma bonificação de juros a suportar pela dotação do Ministério das Finanças através do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), calculada sobre o capital em dívida em cada momento, nas seguintes percentagens:\n\n1.º ano - 80%;\n\n2.º ano - 50%;\n\n3.º ano - 50%.\n\n7 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início da contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2004-568315), publicado em 2004-02-27."
+  }
+ }
+}

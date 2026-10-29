@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-08-12'
+version_history:
+  file: decreto-lei-43110.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-08-12'
+    amending: pt:dre:397908:por
+    amending_title: Decreto-Lei n.º 322/82
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:33:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 322/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43110.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,29 +126,37 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Na Conservatória dos Registos Centrais serão cobrados pelos serviços de registo de nacionalidade os seguintes emolumentos:
+###### Artigo 1.º
 
-a) Por cada declaração para a aquisição, perda ou reaquisição da nacionalidade, ou para a sua manutenção ou não aquisição, em caso de casamento ... 100$00
+(Revogado.)
 
-b) Por cada registo de nacionalidade, em caso de naturalização e, quando requerido, nos casos das alíneas a), b) e c) da base XLI da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959 ... 100$00
+> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.
 
-c) Por cada processo de contencioso da nacionalidade ... 150$00
+###### Artigo 2.º
 
-d) Por cada certificado de nacionalidade ... 25$00
+(Revogado.)
 
-Art. 2.º É aplicável às certidões extraídas de registos de nacionalidade o disposto nos artigos 29.º e 31.º da tabela anexa ao Código do Registo Civil.
+> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.
 
-Art. 3.º Pelas fotocópias extraídas dos livros de registo civil e de nacionalidade ou de documentos arquivados que lhes respeitem são devidos os emolumentos previstos no artigo 23.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, acrescidos da importância a que se refere o n.º 3 do artigo 35.º da mesma tabela.
+###### Artigo 3.º
 
-Art. 4.º 1. Os registos de nacionalidade respeitantes a indivíduos nas condições previstas no artigo 256.º do Código Administrativo, bem como os documentos e declarações para eles necessários, são gratuitos.
+Pelas fotocópias extraídas dos livros de registo civil e de nacionalidade ou de documentos arquivados que lhes respeitem são devidos os emolumentos previstos no artigo 23.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, acrescidos da importância a que se refere o n.º 3 do artigo 35.º da mesma tabela.
 
-2. São igualmente gratuitas as transcrições oficiosas, realizadas na Conservatória dos Registos Centrais, de actos de registo civil ou de nacionalidade lavrados pelos órgãos especiais do registo civil.
+###### Artigo 4.º
 
-Art. 5.º 1. Os emolumentos previstos nas alíneas c) dos artigos 3.os das tabelas anexas aos Decretos-Leis n.os 42565, de 8 de Outubro de 1959, e 42644, de 14 de Novembro do mesmo ano, e na alínea d) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $60.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12.
+
+###### Artigo 5.º
+
+1. Os emolumentos previstos nas alíneas c) dos artigos 3.os das tabelas anexas aos Decretos-Leis n.os 42565, de 8 de Outubro de 1959, e 42644, de 14 de Novembro do mesmo ano, e na alínea d) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $60.
 
 2. Os emolumentos previstos na alínea d) do artigo 3.º da tabela anexa ao [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, e na alínea e) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $20.
 
-Art. 6.º O prazo a que se refere o n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, é prorrogado até 1 de Julho de 1961.
+###### Artigo 6.º
+
+O prazo a que se refere o n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, é prorrogado até 1 de Julho de 1961.
 
 Publique-se e cumpra-se como nele se contém.
 

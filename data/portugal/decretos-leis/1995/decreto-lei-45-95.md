@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-03-01'
+version_history:
+  file: decreto-lei-45-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-01'
+    amending: pt:dre:468663:por
+    amending_title: Lei n.º 12-A/2008
+    changes:
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/45/1995/03/02/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 12-A/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-45-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -401,15 +416,9 @@ O sistema de fixação de quadros de pessoal previsto no artigo 25.º do [Decret
 
 ###### Artigo 20.º — Concurso de ingresso
 
-1 - Nos concursos externos de ingresso nas carreiras de pessoal da função pública abertos há menos de dois anos podem ser preenchidos lugares vagos dos quadros em número superior aos inicialmente postos a concurso, desde que se verifiquem cumulativamente as seguintes condições:
+(Revogado.)
 
-a) O número de candidatos admitidos seja 15 vezes superior ao número de vagas postas a concurso;
-
-b) Tenha sido proferido o correspondente despacho de descongelamento de admissões;
-
-c) Tenha sido realizada consulta prévia à Direcção-Geral da Administração Pública sobre a existência de pessoal excedente.
-
-2 - Nos concursos a que se refere o número anterior, o provimento deve ter lugar nos dois anos subsequentes à data de publicação da respectiva lista de classificação final.
+> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.
 
 ###### Artigo 21.º — Quadro de excedentes da INDEP
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-15'
+version_history:
+  file: decreto-regional-30-78-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-15'
+    amending: pt:dre:659928:por
+    amending_title: Decreto Legislativo Regional n.º 23/2003/M
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:43:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    23/2003/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regionais/1978/decreto-regional-30-78-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +149,13 @@ Mas não tendo a bandeira e o escudo da Região uma dignidade ao nível da Bande
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República, a Assembleia Regional da Madeira determina, para valer como lei:
 
-Artigo 1.º A Região Autónoma da Madeira tem bandeira, escudo e selo branco próprios.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A bandeira da Região Autónoma da Madeira tem a forma rectangular, sendo a sua altura dois terços da largura.
+A Região Autónoma da Madeira tem bandeira, escudo e selo branco próprios.
+
+###### Artigo 2.º
+
+1 - A bandeira da Região Autónoma da Madeira tem a forma rectangular, sendo a sua altura dois terços da largura.
 
 2 - Está dividida em três rectângulos iguais, tendo cada um a altura da bandeira e um terço da sua largura.
 
@@ -144,13 +163,17 @@ Art. 2.º - 1 - A bandeira da Região Autónoma da Madeira tem a forma rectangul
 
 4 - No rectângulo cor de ouro figurará a cruz da Ordem de Cristo.
 
-Art. 3.º - 1 - O escudo da Região Autónoma da Madeira tem a forma heraldicamente designada por «escudo português».
+###### Artigo 3.º
+
+1 - O escudo da Região Autónoma da Madeira tem a forma heraldicamente designada por «escudo português».
 
 2 - Os flancos dextro e sinistro do escudo são de cor azul e o campo situado entre eles é de metal ouro.
 
 3 - No ponto de honra do escudo figurará a cruz da Ordem de Cristo.
 
-Art. 4.º - 1 - O selo branco da Região Autónoma da Madeira terá a forma circular.
+###### Artigo 4.º
+
+1 - O selo branco da Região Autónoma da Madeira terá a forma circular.
 
 2 - No centro da área do círculo inserir-se-á a cruz da Ordem de Cristo.
 
@@ -158,21 +181,37 @@ Art. 4.º - 1 - O selo branco da Região Autónoma da Madeira terá a forma circ
 
 4 - Sob a insígnia mencionada nos números anteriores e acompanhando igualmente o perímetro do círculo inscreve-se a palavra «Portugal».
 
-Art. 5.º - 1 - Todas as instituições, estabelecimentos ou serviços sob tutela ou superintendência dos órgãos de Governo próprio da Região Autónoma da Madeira, à esquerda do mastro destinado à Bandeira Nacional, colocarão um outro mastro destinado à bandeira da Região Autónoma.
+###### Artigo 5.º
 
-2 - A bandeira da Região Autónoma deverá ser hasteada com a Bandeira Nacional.
+1 - Todas as instituições, estabelecimentos ou serviços sob tutela ou superintendência dos órgãos de Governo próprio da Região Autónoma da Madeira, à esquerda do mastro destinado à Bandeira Nacional, colocarão um outro mastro destinado à bandeira da Região Autónoma.
 
-Art. 6.º As viaturas oficiais do Presidente da Assembleia Regional e do Presidente do Governo Regional usarão uma flâmula, respectivamente, de cor amarela com insígnia e cor azul com insígnia.
+2 - A Bandeira da Região Autónoma da Madeira deverá ser hasteada nas instalações e actividades dependentes dos órgãos do Governo da República na Região, nos termos definidos pelo número anterior e pelos competentes órgãos, em lugar subalterno ao reservado à Bandeira Nacional.
 
-Art. 7.º - 1 - A bandeira e o escudo da Região Autónoma da Madeira poderão também ser utilizados como elemento decorativo na via pública, recintos públicos, residências ou estabelecimentos privados, desde que tal utilização não seja susceptível de ilações desrespeitosas ou desprestigiantes e acautele o valor estético.
+3 - A Bandeira da Região Autónoma deverá ser hasteada com a Bandeira Nacional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2003-659928), publicado em 2003-08-14.
+
+###### Artigo 6.º
+
+As viaturas oficiais do Presidente da Assembleia Regional e do Presidente do Governo Regional usarão uma flâmula, respectivamente, de cor amarela com insígnia e cor azul com insígnia.
+
+###### Artigo 7.º
+
+1 - A bandeira e o escudo da Região Autónoma da Madeira poderão também ser utilizados como elemento decorativo na via pública, recintos públicos, residências ou estabelecimentos privados, desde que tal utilização não seja susceptível de ilações desrespeitosas ou desprestigiantes e acautele o valor estético.
 
 2 - Verificando-se o referido no número anterior, não poderão ser utilizadas outras bandeiras nos mesmos locais.
 
-Art. 8.º É facultativa para as entidades referidas no n.º 1 do artigo 5.º a afixação do escudo da Região Autónoma no frontispício dos seus edifícios.
+###### Artigo 8.º
 
-Art. 9.º O selo branco da Região Autónoma da Madeira será utilizado nos documentos da Assembleia Regional e do Governo Regional, nos termos previstos na lei.
+É facultativa para as entidades referidas no n.º 1 do artigo 5.º a afixação do escudo da Região Autónoma no frontispício dos seus edifícios.
 
-Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 9.º
+
+O selo branco da Região Autónoma da Madeira será utilizado nos documentos da Assembleia Regional e do Governo Regional, nos termos previstos na lei.
+
+###### Artigo 10.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 28 de Julho de 1978.
 

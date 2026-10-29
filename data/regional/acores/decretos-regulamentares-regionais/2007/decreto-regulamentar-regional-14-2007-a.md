@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2022-07-27'
+version_history:
+  file: decreto-regulamentar-regional-14-2007-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-27'
+    amending: pt:dre:669860:por
+    amending_title: Decreto Regulamentar Regional n.º 18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A
+    changes:
+    - Revoga Artigo 42.º
+    - Revoga Artigo 40.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:30:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2007/decreto-regulamentar-regional-14-2007-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -750,15 +766,9 @@ A dotação dos quadros do pessoal docente é fixada nos termos da legislação 
 
 ###### Artigo 40.º — Dotação dos quadros do pessoal não docente
 
-1 - Os quadros do pessoal não docente são fixados nos termos dos n.os 4 e 5 do artigo 5.º do anexo ao [Decreto Legislativo Regional n.º 11/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2006-667771), de 21 de Março.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no artigo 7.º do Estatuto do Pessoal não Docente, aprovado pelo [Decreto Legislativo Regional n.º 11/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2006-667771), de 21 de Março, na dotação dos diversos estabelecimentos de cada unidade orgânica, para a carreira de auxiliar de acção educativa, são tidas em consideração as seguintes regras indicativas:
-
-a) Na educação pré-escolar e no 1.º ciclo do ensino básico, um lugar por cada 50 alunos ou fracção;
-
-b) Nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, um lugar por cada 60 alunos até aos 600 alunos, 12 lugares de 600 a 1000 alunos, 14 lugares de 1000 a 1500 alunos e 16 lugares quando o número de alunos for igual ou superior a 1500.
-
-3 - O disposto nos números anteriores é tido em conta apenas para a fixação do número de lugares a atribuir a cada estabelecimento, ficando o seu preenchimento dependente do disposto na lei geral em matéria de recrutamento e selecção de pessoal.
+> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 11/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-186663186), publicado em 2022-07-26.
 
 ### CAPÍTULO VIII — Normas transitórias e finais
 
@@ -794,9 +804,11 @@ h) São mantidos os códigos criados na Região para o recrutamento dos docentes
 
 2 - São conservatórios regionais não integrados:
 
-a) Conservatório Regional da Horta;
+a) (Revogada.)
 
 b) Conservatório Regional de Ponta Delgada.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 18/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2011-669860), publicado em 2011-08-10.
 
 ###### Artigo 43.º — Norma revogatória
 

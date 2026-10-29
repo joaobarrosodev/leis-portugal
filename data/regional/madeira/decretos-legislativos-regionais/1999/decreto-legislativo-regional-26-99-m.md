@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-07-15'
+version_history:
+  file: decreto-legislativo-regional-26-99-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-15'
+    amending: pt:dre:526854:por
+    amending_title: Decreto Legislativo Regional n.º 15/2004/M
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Adita Artigo 3.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/26/1999/08/27/m/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    15/2004/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1999/decreto-legislativo-regional-26-99-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,6 +181,18 @@ A gestão de documentos far-se-á em obediência a critérios de avaliação e s
 
 4 - Compete aos dirigentes máximos dos serviços referidos nas alíneas a) e c), ambas do n.º 1 do artigo 6.º do presente diploma, definir, internamente, os prazos de conservação dos documentos em fase activa e semiactiva.
 
+###### Artigo 3.º-A — Avaliação de documentação acumulada
+
+Compete ao órgão de gestão dos arquivos da Região emitir parecer e definir os procedimentos e formalidades relativos a processos de avaliação de massas documentais acumuladas:
+
+a) Produzidas por um organismo extinto;
+
+b) Provenientes de funções extintas em organismos e serviços que tenham sido sujeitos a uma ou sucessivas reestruturações;
+
+c) Cuja custódia seja transferida para um organismo não responsável pela produção das mesmas.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14.
+
 ###### Artigo 4.º — Documentos de conservação permanente
 
 São considerados de conservação permanente as séries ou subséries documentais que:
@@ -252,13 +281,21 @@ d) O triplicado será provisoriamente utilizado no arquivo intermédio ou defini
 
 2 - Os documentos a que se referem as alíneas a) e b) do presente artigo serão de modelo a aprovar por portaria conjunta dos membros do Governo Regional com competência nas áreas da cultura e da Administração Pública.
 
+3 - A documentação a incorporar no arquivo definitivo público (Arquivo Regional da Madeira) deve cumprir ainda os requisitos de inventariação, desinfestação, higienização e acondicionamento estabelecidos pelo órgão de gestão regional de arquivos.
+
+4 - Os encargos de inventariação, higienização e transporte da documentação a incorporar no arquivo definitivo público serão da responsabilidade da instituição remetente, ficando os encargos relativos à desinfestação dos mesmos sob responsabilidade da referida entidade receptora.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14.
+
 ###### Artigo 10.º — Eliminação
 
 1 - A eliminação dos documentos aos quais não seja reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
 
-2 - A eliminação dos documentos que não estejam mencionados na respectiva tabela de selecção carece de autorização expressa do órgão de gestão dos arquivos da Região.
+2 - A eliminação de documentos que não constem da respectiva tabela de selecção ou que não tenham sido abrangidos por processo de avaliação de documentação acumulada carece de parecer favorável do órgão de gestão dos arquivos da Região, desde que proposta pelas administrações produtoras.
 
 3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14.
 
 ###### Artigo 11.º — Formalidades da eliminação
 

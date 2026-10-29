@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-06-24'
+version_history:
+  file: portaria-936-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-24'
+    amending: pt:dre:272609:por
+    amending_title: Portaria n.º 678/2004
+    changes:
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::9.º
+    - Altera Artigo ANEXO::11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/936/2003/09/04/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:52:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 678/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-936-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,9 +247,11 @@ ii) Outras entidades com particular vocação e experiência na gestão, desenvo
 
 iii) Organismos da administração central;
 
-e) Projectos do tipo F - organismos da administração central.
+e) Projectos do tipo F - sociedade gestora do Fundo de Contragarantia Mútuo.
 
 2 - Podem, ainda, beneficiar de ajudas no âmbito de projectos tipo B os proprietários de prédios rústicos ou de prédios urbanos integrados nos prédios mistos em que aqueles se integrem, que permutem esse prédios por unidades de participação do fundo imobiliário.
+
+> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.
 
 ###### Artigo 7.º — Condições de acesso
 
@@ -294,11 +313,15 @@ ii) Subscrição de unidades de participação de fundos de investimento;
 
 iii) Despesas com comissões às sociedades gestoras de fundos e à entidade reguladora;
 
+iv) Elaboração de estudos de implementação de fundos de investimento e das respectivas sociedades gestoras;
+
 b) Projectos do tipo D - subscrição de participações no capital social de SGM;
 
 c) Projectos dos tipos C e E - despesas imputáveis directamente à elaboração dos estudos e projectos, bem como até ao limite de 10% do total das despesas elegíveis, as despesas gerais e imprevistas associadas à sua concretização, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º [1685/2000](http://data.europa.eu/eli/reg/2000/1685/oj?locale=pt), da Comissão, de 28 de Julho, com a redacção dada pelo Regulamento (CE) n.º [1145/2003](http://data.europa.eu/eli/reg/2003/1145/oj?locale=pt), da Comissão, de 27 de Junho;
 
 d) Projectos do tipo F - montante do reforço.
+
+> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.
 
 ###### Artigo 10.º — Forma e valores das ajudas
 
@@ -326,7 +349,9 @@ c) Tipos C e E - 150 mil euros;
 
 d) Tipo D - 4 milhões de euros;
 
-e) Tipo F - 10 milhões de euros.
+e) Tipo F - 15 milhões de euros.
+
+> Alterado pelo/a [Portaria n.º 678/2004](https://diariodarepublica.pt/dr/detalhe/portaria/678-2004-272609), publicado em 2004-06-19.
 
 ###### Artigo 12.º — Apresentação das candidaturas
 

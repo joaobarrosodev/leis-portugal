@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308337:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2e4e3044cbd00609"
+   ]
+  },
+  {
+   "date": "1988-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354484:por",
+     "title": "Decreto n.º 39/88",
+     "published": "1988-10-26",
+     "dre_path": "/dr/detalhe/decreto/39-1988-354484"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "7148a5417d7aaac7",
+    "f5523cc99c981d23",
+    "aeb66489dd0a6ab3",
+    "46a8fd289a59d07d",
+    "2bcf55e8f9baade7"
+   ]
+  }
+ ],
+ "fragments": {
+  "2e4e3044cbd00609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Janeiro\n\nTendo a Junta de Freguesia de Salvada representado, pelas vias competentes, a fim de lhe ser actualizada, a importância de 25000$00 relativa à renda fixada pelo decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960, para a sua propriedade privada denominada «Baldio da Salvada», com a área de 164,5 ha;\n\nConsiderando que é de justiça atender a pretensão da referida junta de freguesia, visto o rendimento que a mesma auferia daquela propriedade antes da submissão ao regime florestal e da sua exploração pelo Estado não ter sofrido qualquer actualização desde a data daquela submissão;\n\nConsiderando o interesse de a sua exploração continuar a ser feita pelo Estado e dado o parecer favorável dos serviços competentes:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição o seguinte:\n\nArtigo 1.º Passa a ter a seguinte redacção o artigo 4.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960:\n\nArt. 4.º A renda a pagar anualmente passará, a ser de 155000$00, a partir de 1982, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos.\n\nArt. 2.º São revogados o artigo 3.º, o artigo 5.º e seu § único e o artigo 8.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960.\n\nArt. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Junho de 1982. - Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca.\n\nPromulgado em 11 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "7148a5417d7aaac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Janeiro\n\nTendo a Junta de Freguesia de Salvada representado, pelas vias competentes, a fim de lhe ser actualizada, a importância de 25000$00 relativa à renda fixada pelo decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960, para a sua propriedade privada denominada «Baldio da Salvada», com a área de 164,5 ha;\n\nConsiderando que é de justiça atender a pretensão da referida junta de freguesia, visto o rendimento que a mesma auferia daquela propriedade antes da submissão ao regime florestal e da sua exploração pelo Estado não ter sofrido qualquer actualização desde a data daquela submissão;\n\nConsiderando o interesse de a sua exploração continuar a ser feita pelo Estado e dado o parecer favorável dos serviços competentes:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição o seguinte:"
+  },
+  "f5523cc99c981d23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-10-31",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 39/88](https://diariodarepublica.pt/dr/detalhe/decreto/39-1988-354484), publicado em 1988-10-26."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 39/88](https://diariodarepublica.pt/dr/detalhe/decreto/39-1988-354484), publicado em 1988-10-26."
+  },
+  "aeb66489dd0a6ab3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA renda a pagar anualmente passará, a ser de 155000$00, a partir de 1982, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos."
+  },
+  "46a8fd289a59d07d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão revogados o artigo 3.º, o artigo 5.º e seu § único e o artigo 8.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960."
+  },
+  "2bcf55e8f9baade7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Junho de 1982. - Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca.\n\nPromulgado em 11 de Janeiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

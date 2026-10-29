@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-22'
+version_history:
+  file: decreto-regulamentar-48-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-22'
+    amending: pt:dre:288869:por
+    amending_title: Decreto-Lei n.º 409/91
+    changes:
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:13:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 409/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-48-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -301,9 +316,9 @@ Para efeitos do disposto no presente capítulo o valor da hora de trabalho norma
 
 ###### Artigo 15.º — (Regime)
 
-1 - A acumulação de lugares ou cargos públicos por funcionários ou agentes abrangidos pelo presente diploma rege-se pelo disposto nos Decretos-Leis n.os [110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, e [191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+(Revogado.)
 
-2 - As referências contidas nos diplomas referidos no número anterior aos membros do Governo devem considerar-se feitas aos órgãos mencionados no artigo 13.º do presente decreto regulamentar.
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 409/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1991-288869), publicado em 1991-10-17.
 
 ### CAPÍTULO III — Disposições finais
 

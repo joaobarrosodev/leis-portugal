@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-03-01'
+version_history:
+  file: decreto-lei-34-a-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-03-01'
+    amending: pt:dre:515471:por
+    amending_title: Decreto-Lei n.º 48/94
+    changes:
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:53:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-34-a-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -322,11 +337,9 @@ Na contagem do tempo de permanência no estrangeiro incluir-se-ão os períodos 
 
 ###### Artigo 16.º — Forma dos actos
 
-1 - A nomeação, promoção até à categoria de conselheiro de embaixada, transferência, exoneração e quaisquer outros actos que alterem ou extingam a situação dos funcionários do serviço diplomático serão feitos por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros, e dos cônsules honorários, dos vice-cônsules e dos chanceleres por despacho do Ministro dos Negócios Estrangeiros, sem prejuízo da competência atribuída ao Presidente da República nas relações internacionais pela alínea a) do artigo 138.º da Constituição.
+(Revogado.)
 
-2 - A nomeação e exoneração dos embaixadores, dos funcionários que desempenham funções de chefe de missão diplomática, dos cônsules-gerais, dos cônsules e dos terceiros-secretários, bem como as promoções dos ministros plenipotenciários de 2.ª classe e de 1.ª classe e dos embaixadores, serão feitas por decreto, sem prejuízo da competência atribuída ao Presidente da República nas relações internacionais pela alínea a) do artigo 138.º da Constituição.
-
-3 - O provimento dos cargos de director-geral, subdirector-geral ou equiparados, bem como o provimento dos cargos de director de serviços e chefe de divisão, serão feitos, respectivamente, nos termos do disposto no [Decreto-Lei n.º 116/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1988-284734), de 14 de Abril, e nos termos da lei geral.
+> Revogado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), publicado em 1994-02-24.
 
 ###### Artigo 17.º — Excepção
 

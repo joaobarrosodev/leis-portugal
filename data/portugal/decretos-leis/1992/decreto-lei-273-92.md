@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-08-18'
+version_history:
+  file: decreto-lei-273-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-12-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-08-18'
+    amending: pt:dre:405373:por
+    amending_title: Decreto-Lei n.º 135/96
+    changes:
+    - Revoga Artigo 19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/273/1992/12/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:19:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 135/96. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-273-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -455,7 +470,7 @@ e) Autorizar despesas com aquisição de bens ou prestação de serviços até a
 
 ###### Artigo 19.º — Director clínico
 
-1 - O director clínico é o director da área de assistência oncológica diferenciada, nomeado pelo Ministro da Saúde, sob proposta do director do centro, de entre os médicos com a categoria de chefe de serviço do respectivo quadro.
+1 - (Revogado.)
 
 2 - Compete ao director clínico, em geral, coordenar toda a assistência prestada aos doentes, assegurar o funcionamento harmónico dos serviços de assistência, garantir a correcção e prontidão dos cudidados de saúde prestados e dirigir a acção médica.
 
@@ -472,6 +487,8 @@ d) Decidir os conflitos que surjam entre os serviços de acção médica;
 e) Assegurar a prática multidisciplinar da oncologia.
 
 4 - O director clínico é coadjuvado no exercício das suas funções por dois a cinco adjuntos, por si nomeados de entre o corpo clínico do centro, sendo um o subdirector da área de investigação oncológica e outro o subdirector da área do ensino oncológico.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 135/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1996-405373), publicado em 1996-08-13.
 
 ###### Artigo 20.º — Subdirector da área de investigação oncológica
 

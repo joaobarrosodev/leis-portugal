@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-13'
+version_history:
+  file: decreto-regulamentar-80-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-13'
+    amending: pt:dre:220135:por
+    amending_title: Decreto Regulamentar n.º 38/86
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 38/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-80-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ c) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pens�
 
 2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do artigo 2.º é aplicável a garantia do valor mínimo da pensão estabelecido no número anterior.
 
-3 - Em nenhum caso o aumento mensal resultante da actualização das pensões poderá ser superior a 8000$00.
+3 - (Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 38/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1986-220135), publicado em 1986-09-08.
 
 ###### Artigo 5.º — Actualização das pensões de sobrevivência
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-09-11'
+version_history:
+  file: decreto-lei-45988.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-09-11'
+    amending: pt:dre:214068:por
+    amending_title: Decreto-Lei n.º 49235
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:50:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49235. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45988.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,11 +122,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Durante os primeiros cinco anos de funcionamento, contados a partir da publicação do presente diploma, o Centro de Assistência Materno-Infantil do Doutor Bissaia Barreto será dirigido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, com a categoria de director, o qual exercerá essas funções a título gratuito, cabendo-lhe a competência a que se referem os artigos 8.º e 9.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
+###### Artigo 1.º
+
+Durante os primeiros cinco anos de funcionamento, contados a partir da publicação do presente diploma, o Centro de Assistência Materno-Infantil do Doutor Bissaia Barreto será dirigido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, com a categoria de director, o qual exercerá essas funções a título gratuito, cabendo-lhe a competência a que se referem os artigos 8.º e 9.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
 
 § único. Findo o prazo de cinco anos, pode o mesmo ser prorrogado por mais dois anos, mediante despacho do Ministro da Saúde e Assistência.
 
-Art. 2.º Enquanto se mantiver a situação a que se refere o artigo anterior, proceder-se-á da seguinte forma, em relação ao disposto no [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995):
+###### Artigo 2.º
+
+Enquanto se mantiver a situação a que se refere o artigo anterior, proceder-se-á da seguinte forma, em relação ao disposto no [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995):
 
 a) O director será coadjuvado pelo director clínico é por um administrador, nos quais pode delegar as funções que julgar convenientes;
 
@@ -127,9 +146,15 @@ f) O lugar de administrador será provido, em comissão de serviço ou interinam
 
 g) Não será provido o lugar de chefe dos serviços administrativos.
 
-Art. 3.º Finda a situação prevista neste diploma, fica extinto o lugar de administrador, dando-se por finda a comissão de serviço ou a interinidade.
+###### Artigo 3.º
 
-Art. 4.º Ficam revogados os artigos 33.º e 34.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 49235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49235-1969-214068), publicado em 1969-09-11.
+
+###### Artigo 4.º
+
+Ficam revogados os artigos 33.º e 34.º do [Decreto-Lei n.º 45591](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45591-1964-469995), de 3 de Março de 1964.
 
 Publique-se e cumpra-se como nele se contém.
 

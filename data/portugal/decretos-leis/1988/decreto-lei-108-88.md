@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-12-29'
+version_history:
+  file: decreto-lei-108-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-29'
+    amending: pt:dre:666882:por
+    amending_title: Decreto-Lei n.º 138-C/2010
+    changes:
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 138-C/2010. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-108-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,9 +166,9 @@ O dimensionamento da rede escolar dependente do Ministério da Educação, no qu
 
 ###### Artigo 5.º — Manutenção de contratos de associação
 
-1 - Sempre que a criação de uma ou mais escolas públicas dependentes do Ministério da Educação venha a realizar-se em zona onde funcionem escolas particulares e cooperativas em regime de contrato de associação previsto no [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, pode este ser renovado, sem solução de continuidade e sem demais exigências contratuais, por um período igual ao somatório daqueles em que se tenha desenvolvido anteriormente, mas nunca inferior a cinco anos.
+(Revogado.)
 
-2 - O disposto no número anterior depende de as escolas particulares e cooperativas manterem cumpridos os requisitos legais previstos no [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138-C/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882), publicado em 2010-12-28.
 
 ###### Artigo 6.º — Conceito de zona
 

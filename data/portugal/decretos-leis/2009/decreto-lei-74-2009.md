@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-01-05'
+version_history:
+  file: decreto-lei-74-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-05'
+    amending: pt:dre:489214:por
+    amending_title: Decreto-Lei n.º 218/2009; Decreto-Lei n.º 1-A/2010
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/74/2009/03/31/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:11:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 218/2009; Decreto-Lei
+    n.º 1-A/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-74-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,11 +194,9 @@ e) Não tenham beneficiado de outras ajudas públicas para as despesas a financi
 
 ###### Artigo 5.º — Montante global de crédito
 
-A linha de crédito disponibiliza um montante máximo de crédito de (euro) 175 000 000, repartido do seguinte modo:
+A linha de crédito disponibiliza um montante máximo de crédito de (euro) 150 000 000, sendo (euro) 125 000 000 destinados ao sector florestal e agro-indústrias e (euro) 25 000 000 destinados ao sector agrícola e pecuário, podendo a repartição destes montantes, entre os sectores referidos, ser alterada por despacho do membro do Governo responsável pela área da agricultura.
 
-a) Sector agrícola e pecuário - (euro) 75 000 000, dirigidos às pequenas e médias empresas de produção agrícola e pecuária;
-
-b) Sector florestal e agro-indústrias - (euro) 100 000 000, dirigidos às pequenas e médias empresas do sector florestal e de transformação e comercialização de produtos agrícolas e pecuários.
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 1-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2010-622293), publicado em 2010-01-04.
 
 ###### Artigo 6.º — Montante global de auxílio
 
@@ -239,6 +253,10 @@ c) Operações de risco moderado - 85 % de bonificação;
 d) Operações de risco elevado - 80 % de bonificação.
 
 8 - As percentagens anteriormente fixadas incidem sobre a taxa de referência para cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor no início de cada período de contagem de juros, excepto se a taxa contratual da operação for inferior à taxa de referência, caso em que aquela percentagem é aplicada sobre a taxa contratual.
+
+9 - Na situação em que os empréstimos referidos no n.º 1 sejam concedidos a beneficiários que desenvolvem actividades de produção e transformação do leite, o prazo máximo do empréstimo é de seis anos, a contar da data da celebração do contrato, e amortizável anualmente, em prestações de capital de igual montante, vencendo-se a primeira amortização, no máximo, três anos após a data prevista para a primeira utilização de crédito, permitindo dois anos de carência de capital.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 218/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2009-489214), publicado em 2009-09-07.
 
 ###### Artigo 10.º — Formalização das operações
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-141-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:669513:por
+    amending_title: Decreto-Lei n.º 90/2011
+    changes:
+    - Revoga Artigo 13.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/141/2000/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:17:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-141-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -329,17 +344,9 @@ b) A limitação de contagem de votos legal ou estatutariamente estabelecida ref
 
 ###### Artigo 13.º — Direitos especiais do Estado
 
-1 - Enquanto o Estado for accionista da sociedade, independentemente do número de acções de que for titular e quer o seja directamente ou indirectamente, por meio de entes públicos na acepção da alínea c) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, as deliberações da assembleia geral a seguir referidas só se considerarão aprovadas se merecerem o voto favorável do Estado:
+(Revogado.)
 
-a) Deliberações de alteração do contrato de sociedade, incluindo de aumento de capital, de fusão, cisão e de dissolução;
-
-b) Deliberação sobre celebração de contratos de grupo paritário e de subordinação;
-
-c) Deliberações de supressão ou limitação do direito de preferência dos accionistas em aumentos de capital.
-
-2 - Enquanto for accionista da sociedade, nos termos do número anterior, o Estado, se votar contra a proposta que fizer vencimento na eleição dos administradores, gozará ainda do direito de designar um administrador, o qual substituirá automaticamente a pessoa menos votada da lista vencedora ou, em caso de igualdade de votos, aquela que figurar em último lugar na mesma lista.
-
-3 - O direito conferido ao Estado no número anterior prevalece sobre os direitos similares conferidos aos accionistas minoritários pelo artigo 392.º do Código das Sociedades Comerciais.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
 ###### Artigo 14.º — Entrada em vigor
 

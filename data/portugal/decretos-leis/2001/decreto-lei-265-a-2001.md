@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-07'
+version_history:
+  file: decreto-lei-265-a-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-07'
+    amending: pt:dre:584795:por
+    amending_title: Lei n.º 1/2002
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/265-a/2001/09/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:27:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 1/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-265-a-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2917,6 +2933,28 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 90 a (euro) 450.
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 300 a (euro) 1500, podendo ainda os meios de publicidade em causa ser mandados retirar pela entidade competente.
+
+###### Artigo 5.º-A — Comissão de acompanhamento e avaliação
+
+1 - É criada uma comissão de acompanhamento e avaliação, que deverá exercer a sua acção relativamente a:
+
+a) Causas das infracções e acidentes com especial incidência sobre a alcoolemia;
+
+b) Eficácia das medidas preventivas.
+
+2 - A comissão apresentará o primeiro relatório no prazo de seis meses a contar da sua institucionalização.
+
+3 - A comissão organizará uma consulta pública, submetendo à Assembleia da República o respectivo relatório.
+
+4 - A comissão é constituída por cinco personalidades dos meios científicos especializados, das associações promotoras da segurança rodoviária e do sector vitivinícola, sendo três designados pela Assembleia da República, um dos quais presidente, e dois designados pelo Governo.
+
+> Aditado pelo/a Artigo único do/a [Lei n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/lei/1-2002-584795), publicado em 2002-01-02.
+
+###### Artigo 5.º-B — Suspensão de normas
+
+É suspensa por um período de 10 meses a aplicação do disposto no n.º 2 e na alínea a) do n.º 5 do artigo 81.º do Código da Estrada, considerando-se durante esse período sob influência do álcool o condutor que apresente uma taxa de álcool no sangue igual ou superior a 0,5 g/l ou que, após exame realizado nos termos previstos no Código da Estrada e legislação complementar, seja como tal considerado em relatório médico.
+
+> Aditado pelo/a Artigo único do/a [Lei n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/lei/1-2002-584795), publicado em 2002-01-02.
 
 ###### Artigo 6.º — Sinais
 

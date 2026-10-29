@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:473502:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "554e201ff4953c56",
+    "39ae09498a439c57",
+    "9f62ba4e4e92eac5",
+    "77b063c646b0c21f",
+    "9cc3df6886d39572",
+    "3f7855e30862b6aa"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "554e201ff4953c56",
+    "39ae09498a439c57",
+    "9f62ba4e4e92eac5",
+    "77b063c646b0c21f",
+    "3c8c0a01febbcdc9",
+    "3f7855e30862b6aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "554e201ff4953c56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nPela [Resolução do Conselho de Ministros n.º 110/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2005-233731), de 30 de Junho, determinou o Governo que se procedesse à revisão dos regimes especiais de reforma e aposentação que estabelecem idades de aposentação, tempos mínimos de serviço ou regimes de contagem do tempo de serviço diferentes do regime geral aplicável aos servidores do Estado.\n\nEstão nestas condições os funcionários da Polícia Judiciária, que integram um corpo superior de polícia criminal auxiliar da administração da justiça, cujo regime de aposentação tem dois aspectos diversos do regime aplicável aos demais servidores do Estado.\n\nPor um lado, o tempo de serviço é contado com um acréscimo de 20%, por outro, a aposentação dos funcionários de investigação criminal pode ser antecedida por um período na situação de disponibilidade, que pode ser requerido aos 55 anos de idade, independentemente dos anos de serviço, ou aos 36 anos de serviço, independentemente da idade.\n\nO presente diploma tem um duplo objectivo: alterar a idade mínima da reforma dos funcionários de investigação criminal para 60 anos de idade, à semelhança do regime adoptado para outras forças de segurança, e proceder à alteração do número mínimo de anos de serviço necessário para a aposentação com a pensão por inteiro.\n\nHarmoniza-se, assim, com o regime geral aplicável aos funcionários públicos o cálculo para a aposentação com a pensão por inteiro para os funcionários da Polícia Judiciária, passando para 40 anos o número mínimo de anos de serviço necessários para este efeito, sendo os referidos anos contados com um acréscimo destinado a assegurar que, numa carreira média normal, os 40 anos decorram entre as idades de admissão e de aposentação.\n\nEsta excepção ao regime geral da aposentação da função pública encontra ampla justificação nas características específicas da actividade desempenhada pelos funcionários da Polícia Judiciária. Um trabalho realizado sem limitações de horário e, não raro, em condições não só adversas como bastante perigosas é susceptível de provocar danos excepcionais na saúde e de gerar a quase impossibilidade de continuar a realizá-lo para além dos 60 anos.\n\nCom efeito, ao pessoal de investigação criminal está cometida, nos termos plasmados no regime da organização da investigação criminal, aprovado pela [Lei n.º 21/2000](https://diariodarepublica.pt/dr/detalhe/lei/21-2000-339841), de 10 de Agosto, a realização das diligências de investigação da criminalidade socialmente mais grave e de maior dificuldade investigatória, o que significa que estes funcionários estão ao longo da sua carreira sujeitos a permanente desgaste físico, emocional e mental.\n\nDe igual modo, algum pessoal de apoio à investigação criminal desempenha frequentemente funções muito próximas das dos investigadores, acompanhando-os à cena do crime, sem limite de horas, contactando com criminosos, contactando e manipulando objectos e substâncias prejudiciais à sua saúde; o mesmo é dizer-se, estando exposto aos mesmos perigos.\n\nSão estas as razões que justificam a existência de um regime de disponibilidade para o pessoal de investigação criminal aos 55 anos de idade e de aposentação aos 60. E são estas mesmas razões que justificam ainda que determinados funcionários integrados no grupo de pessoal de apoio à investigação criminal, nomeadamente os da carreira de segurança, possam aposentar-se aos 60 anos e que o pessoal que exerce as funções de lofoscopista beneficie da bonificação de 15% em relação ao tempo de serviço prestado.\n\nA situação actual de ausência de serviço efectivo dos investigadores na disponibilidade é substituída pelo desempenho de funções adequadas às capacidades de cada um.\n\nO novo regime mantém os direitos adquiridos, quer em contagem do tempo de serviço já decorrido quer nos casos em que estão já reunidas, mas não exercidas, as condições para passagem à disponibilidade ou aposentação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "39ae09498a439c57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alteração à Lei Orgânica da Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Lei Orgânica da Polícia Judiciária\n\nOs artigos 87.º, 146.º, 147.º e 148.º da Lei Orgânica da Polícia Judiciária, aprovada pelo [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, e alterada pela [Lei n.º 103/2001](https://diariodarepublica.pt/dr/detalhe/lei/103-2001-515632), de 25 de Agosto, e pelos Decretos-Leis n.os [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de Dezembro, [304/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2002-406551), de 13 de Dezembro, e [43/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2003-215078), de 13 de Março, passam a ter a seguinte redacção:\n\n«Artigo 87.º\n\n[...]\n\n1 - O pessoal de investigação criminal, o pessoal que exerce as funções de lofoscopista e o pessoal que integra a carreira de segurança, goza do direito ao acréscimo de 15% de tempo de serviço para efeitos de aposentação, contados desde a data de posse nas funções respectivas.\n\n2 - ...\n\n3 - ...\n\nArtigo 146.º\n\n[...]\n\n1 - O pessoal de investigação criminal que não se encontre provido em comissão de serviço em cargos dirigentes passa à disponibilidade:\n\na) ...\n\nb) Por despacho do Ministro da Justiça, a requerimento do funcionário, quando tenha completado 55 anos de idade e 36 anos de serviço.\n\n2 - ...\n\nArtigo 147.º\n\n[...]\n\n1 - Na situação de disponibilidade, o funcionário conserva os direitos e regalias respectivos e continua vinculado aos deveres e incompatibilidades, com excepção:\n\na) ...\n\nb) Direito de promoção.\n\n2 - Na situação de disponibilidade, o funcionário presta serviço compatível com o seu estado físico e intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometido o exercício de funções de chefia.\n\n3 - A remuneração do funcionário na situação de disponibilidade em efectividade de serviço é igual àquela a que teria direito se estivesse no activo.\n\n4 - A remuneração do funcionário na situação de disponibilidade fora da efectividade de serviço é igual à remuneração de base média do último ano, acrescida dos suplementos a que porventura tenha direito.\n\n5 - O regime de prestação de serviço na disponibilidade é definido por portaria do Ministro da Justiça.\n\nArtigo 148.º\n\n[...]\n\n1 - O pessoal de investigação criminal, mesmo quando provido em comissão de serviço em cargos dirigentes, passa à situação de aposentado, se o requerer, quando tenha completado 60 anos de idade.\n\n2 - ...»"
+  },
+  "9f62ba4e4e92eac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Aditamento à Lei Orgânica da Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento à Lei Orgânica da Polícia Judiciária\n\nSão aditados à Lei Orgânica da Polícia Judiciária, aprovada pelo [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, e alterada pela [Lei n.º 103/2001](https://diariodarepublica.pt/dr/detalhe/lei/103-2001-515632), de 25 de Agosto, e pelos Decretos-Leis n.os [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de Dezembro, [304/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2002-406551), de 13 de Dezembro, e [43/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2003-215078), de 13 de Março, os artigos 147.º-A e 148.º-A, com a seguinte redacção:\n\n«Artigo 147.º-A\n\nContingente em efectividade de serviço\n\n1 - É fixado anualmente, por despacho do Ministro da Justiça, o contingente de funcionários a colocar na situação de disponibilidade na efectividade de serviço.\n\n2 - Quando o número de funcionários em situação de disponibilidade exceder o contingente definido pelo despacho do Ministro da Justiça, são colocados fora da efectividade de serviço, na quantidade excedente, os funcionários que o requeiram.\n\n3 - As regras de prioridade no deferimento dos requerimentos são estabelecidas, tendo em conta a idade e o tempo de serviço prestado pelos funcionários, por despacho do Ministro da Justiça.\n\nArtigo 148.º-A\n\nPassagem à situação de aposentação do pessoal da carreira de segurança\n\nOs funcionários que integram a carreira de segurança podem requerer a aposentação quando completem 60 anos.»"
+  },
+  "77b063c646b0c21f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Conciliação com o regime da aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conciliação com o regime da aposentação\n\n1 - Ao cálculo da pensão de aposentação do pessoal da Polícia Judiciária é aplicável o disposto no regime geral da aposentação e os respectivos regimes transitórios.\n\n2 - O tempo de serviço na Polícia Judiciária relevante para o cálculo referido no número anterior inclui todo o período no qual sejam efectuados descontos, incluindo o decorrido na situação de disponibilidade, com as bonificações decorrentes da lei."
+  },
+  "9cc3df6886d39572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime transitório\n\n1 - O pessoal da Polícia Judiciária que até 31 de Dezembro de 2005 reúna as condições nesse momento em vigor para requerer a passagem à situação de disponibilidade ou de aposentação pode fazê-lo a qualquer tempo, sendo o requerimento decidido nos termos do regime em vigor até àquela data.\n\n2 - Até 31 de Dezembro de 2014, pode ainda requerer a passagem à situação de disponibilidade o pessoal que complete as idades previstas na tabela anexa ao presente diploma, que dele faz parte integrante, sem que lhe seja aplicável o regime previsto nos artigos 147.º e 147.º-A da Lei Orgânica da Polícia Judiciária, na redacção introduzida pelo presente diploma.\n\n3 - É garantida a passagem à aposentação sem redução de pensão, nos termos vigentes até 31 de Dezembro de 2005, ao pessoal que complete cinco anos na situação de disponibilidade, quando a tenha requerido ao abrigo do disposto nos números anteriores e lhe tenha sido deferida.\n\n4 - O tempo de serviço efectivo prestado até 31 de Dezembro de 2005 é contado, para efeitos de passagem à situação de disponibilidade e de aposentação, com o aumento previsto no artigo 87.º da Lei Orgânica da Polícia Judiciária, na redacção vigente até àquela data."
+  },
+  "3f7855e30862b6aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor em 1 de Janeiro de 2006.\n\nVisto e aprovado em Conselho de Ministros de 15 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva.\n\nPromulgado em 21 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\nTABELA ANEXA\n\n(referida no n.º 2 do artigo 4.º)\n\nRegime transitório de acesso ao regime de disponibilidade, de acordo com a idade, do pessoal de investigação criminal da Polícia Judiciária, nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação de serviço efectivo.\n\nA partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2007 - 56 anos.\n\nA partir de 1 de Janeiro de 2008 - 56 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2009 - 57 anos.\n\nA partir de 1 de Janeiro de 2010 - 57 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2011 - 58 anos.\n\nA partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.\n\nA partir de 1 de Janeiro de 2013 - 59 anos.\n\nA partir de 1 de Janeiro de 2014 - 59 anos e 6 meses."
+  },
+  "3c8c0a01febbcdc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime transitório",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31."
+   ],
+   "markdown": "###### Artigo 4.º — Regime transitório\n\n1 - O pessoal da Polícia Judiciária que até 31 de Dezembro de 2005 reúna as condições nesse momento em vigor para requerer a passagem à situação de disponibilidade ou de aposentação pode fazê-lo a qualquer tempo, sendo o requerimento decidido nos termos do regime em vigor até àquela data.\n\n2 - (Revogado.)\n\n3 - É garantida a passagem à aposentação sem redução de pensão, nos termos vigentes até 31 de Dezembro de 2005, ao pessoal que complete cinco anos na situação de disponibilidade, quando a tenha requerido ao abrigo do disposto nos números anteriores e lhe tenha sido deferida.\n\n4 - O tempo de serviço efectivo prestado até 31 de Dezembro de 2005 é contado, para efeitos de passagem à situação de disponibilidade e de aposentação, com o aumento previsto no artigo 87.º da Lei Orgânica da Polícia Judiciária, na redacção vigente até àquela data.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31."
+  }
+ }
+}

@@ -40,10 +40,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-20'
+version_history:
+  file: portaria-1109-g-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-20'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001
+    changes:
+    - Altera Artigo ANEXO::1.º
+    - Altera Artigo ANEXO::4.º
+    - Altera Artigo ANEXO::5.º
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::8.º
+    - Altera Artigo ANEXO::11.º
+    - Altera Artigo ANEXO::16.º
+    - Altera Artigo ANEXO::17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-g/2000/11/27/p/dre/pt/html
@@ -69,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-g-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,7 +182,9 @@ Regulamento de Aplicação da Subacção n.º 3.1, «Instalação de Organizaç�
 
 1 - O presente Regulamento estabelece o regime de aplicação da subacção n.º 3.1, «Instalação de organizações de produtores florestais», da medida AGRIS.
 
-2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, da medida AGRIS.
+2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 2.º — Objectivos
 
@@ -190,7 +214,9 @@ c) Dispor de contabilidade e comprometer-se a manter registos e comprovativos da
 
 d) Apresentar um plano de acção, reportado ao período da candidatura, devidamente fundamentado, quantificado e calendarizado;
 
-e) No caso da constituição de um núcleo de uma organização de produtores florestais, aquela deve decorrer de uma decisão tomada em assembleia geral e terá de contar com meios humanos afectos à sua actividade, de acordo com o disposto no n.º 4 do artigo 6.º
+e) Ter ao seu serviço, a tempo inteiro, pelo menos um técnico com formação florestal;
+
+f) No caso da constituição de um núcleo de uma organização de produtores florestais, aquela deve decorrer de uma decisão tomada em assembleia geral e o requisito referido na alínea anterior deve ser observado relativamente ao núcleo.
 
 2 - O plano de acção a que se refere a alínea d) do número anterior deve incluir, no mínimo, os seguintes elementos:
 
@@ -214,9 +240,15 @@ h) Número actual e perspectivas futuras de novos associados e área florestal a
 
 4 - Durante o período de execução do projecto, os beneficiários devem apresentar relatórios anuais de actividades com o balanço entre as actividades programadas e as executadas e a justificação de eventuais desvios.
 
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
+
 ###### Artigo 5.º — Investimentos elegíveis
 
-São considerados elegíveis os investimentos relativos à constituição, instalação e funcionamento das entidades beneficiárias, realizados num período máximo de cinco anos a contar da data de apresentação da candidatura.
+1 - São considerados elegíveis os investimentos relativos à instalação e funcionamento das entidades beneficiárias, realizados num período máximo de cinco anos a contar da data de assinatura do contrato de atribuição de ajudas.
+
+2 - As despesas relativas à constituição das entidades beneficiárias são elegíveis desde que realizadas nos dois anos anteriores à data de apresentação da candidatura.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 6.º — Despesas elegíveis
 
@@ -224,9 +256,9 @@ São considerados elegíveis os investimentos relativos à constituição, insta
 
 a) Constituição das entidades beneficiárias;
 
-b) Instalações, equipamentos e meios de transporte;
+b) Instalações, equipamentos e viaturas;
 
-c) Arranque da organização, recursos humanos e outras despesas de funcionamento por um período máximo de cinco anos;
+c) Recursos humanos e outras despesas de funcionamento por um período máximo de cinco anos;
 
 d) Garantias exigidas no âmbito da análise de risco do projecto até à libertação da última parcela do incentivo.
 
@@ -242,9 +274,11 @@ d) Outras despesas de funcionamento: 5000 euros/ano;
 
 e) Despesas com garantias: 7750 euros.
 
-3 - As despesas com viaturas só são consideradas quando resultantes de um contrato de leasing, não podendo essa despesa exceder 50% do montante máximo elegível para o conjunto das despesas referidas na alínea b) do número anterior.
+3 - As despesas com viaturas só são elegíveis quando resultantes de um contrato de leasing, não podendo essa despesa exceder 20% do montante elegível da candidatura, até ao limite de (euro) 30000.
 
-4 - Os recursos humanos para a área administrativa são elegíveis na proporção máxima de um administrativo por cada dois técnicos com formação florestal.
+4 - As despesas com a contratação de recursos humanos para a área administrativa, com excepção da primeira, são elegíveis desde que seja respeitada a relação de, pelo menos, um administrativo para mais dois técnicos com formação florestal.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 7.º — Forma e nível das ajudas
 
@@ -258,7 +292,11 @@ b) Iniciando-se com 100% e decrescendo anualmente em 10%, no caso das despesas c
 
 ###### Artigo 8.º — Apresentação das candidaturas
 
-As candidaturas são entregues nas direcções regionais de agricultura durante os meses de Janeiro e Fevereiro, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+1 - As candidaturas são entregues nas direcções regionais de agricultura durante os meses de Janeiro e Fevereiro, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+
+2 - Em 2001 há lugar a um período excepcional de candidatura, que decorre no mês de Outubro.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 9.º — Análise das candidaturas
 
@@ -272,11 +310,13 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do artigo 29.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
-2 - As candidaturas serão objecto de análise e deliberação entre 1 de Abril e 31 de Maio de cada ano.
+2 - As candidaturas são objecto de análise e deliberação entre 1 de Abril e 30 de Maio de cada ano, ou entre 1 de Novembro e 31 de Dezembro, no caso referido no n.º 2 do artigo 8.º
 
 3 - As candidaturas são hierarquizadas em função de critérios de prioridade e aprovadas de acordo com a dotação orçamental do presente regime de ajudas.
 
 4 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 12.º — Critérios de prioridade
 
@@ -320,14 +360,20 @@ Os beneficiários ficam obrigados, nomeadamente, a cumprir os planos de acção 
 
 1 - O pagamento das ajudas é efectuado pelo lFADAP nos termos das cláusulas contratuais.
 
-2 - A primeira prestação das ajudas só será paga após a realização de, pelo menos, 25% do investimento elegível.
+2 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.
 
-3 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.
+3 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.
 
-4 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.
+4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 17.º — Normas transitórias
 
-1 - O disposto na alínea a) do n.º 1 do artigo 4.º, relativamente à data de constituição, e na alínea b) do n.º 1 do mesmo artigo não se aplica às entidades que tenham beneficiado de ajudas ao reforço da capacidade técnica e de gestão das organizações de agricultores da medida n.º 4 do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF) do QCA II por período inferior a três anos, caso em que poderão candidatar-se às ajudas previstas neste Regulamento.
+1 - O disposto na alínea a) do n.º 1 do artigo 4.º relativamente à data de constituição e na alínea b) do n.º 1 do mesmo artigo não se aplica às entidades que tenham beneficiado de ajudas ao reforço da capacidade técnica e de gestão das organizações de agricultores, da medida n.º 4 do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF) do QCA II, por período inferior a quatro anos, caso em que poderão candidatar-se às ajudas previstas neste Regulamento.
 
-2 - Nas situações referidas no número anterior, as candidaturas apenas podem incidir sobre as despesas com recursos humanos e outras despesas de funcionamento, previstas na alínea c) do n.º 1 do artigo 6.º, e a duração dos apoios não pode exceder o prazo de cinco anos, sendo para este efeito contabilizado o período de concessão de ajudas ao abrigo do PAMAF já referidas.
+2 - Nas situações referidas no número anterior, a duração dos apoios não pode exceder o prazo de cinco anos, sendo, para o efeito, contabilizado o período de concessão de ajudas no âmbito do PAMAF e, quando se trate de entidades constituídas há mais de dois anos, as ajudas apenas podem incidir sobre despesas com recursos humanos e outras despesas de funcionamento.
+
+3 - As candidaturas respeitantes às situações a que se referem os números anteriores devem ser apresentadas no período excepcional de candidatura previsto no n.º 2 do artigo 8.º
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.

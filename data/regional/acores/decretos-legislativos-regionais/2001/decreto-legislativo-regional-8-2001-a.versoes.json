@@ -1,0 +1,344 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:341802:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba31abeb0d4989b9",
+    "3c965ddcaf13324a",
+    "2b28042cd127499a",
+    "f7cdbfc649af45bf",
+    "870dd2307883efd4",
+    "6e4062b352909203",
+    "fb7d23191f392e48",
+    "254f5a21a1046ccf",
+    "891ff6ef5475ab78",
+    "488d82a960414eeb",
+    "917d8162394a6bc1",
+    "7f6217f0e21dd36c",
+    "e15948388016222f",
+    "1ece55727c7cf540",
+    "bc4ab6224b606286",
+    "5b5371b86bca9a9d",
+    "464809fdf70e1b42",
+    "74d4b4b2549c258a",
+    "db703795b3e234de",
+    "fe17f4c17488b7ac",
+    "c8fa41100311b2a3",
+    "925e557770781e4e",
+    "3a8618ec79872eb5",
+    "48c0702f61b6df4e",
+    "8331daa56547e7a2",
+    "881172c01c3eda54",
+    "b156e32f60f03bd5",
+    "adf1b66bcdfdc1a9"
+   ]
+  },
+  {
+   "date": "2007-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239238:por",
+     "title": "Decreto Legislativo Regional n.º 16-A/2001/A",
+     "published": "2001-10-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-a-2001-239238"
+    },
+    {
+     "id": "pt:dre:629104:por",
+     "title": "Decreto Legislativo Regional n.º 22/2007/A",
+     "published": "2007-10-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2007-629104"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "ba31abeb0d4989b9",
+    "3c965ddcaf13324a",
+    "2b28042cd127499a",
+    "f7cdbfc649af45bf",
+    "870dd2307883efd4",
+    "6e4062b352909203",
+    "fb7d23191f392e48",
+    "254f5a21a1046ccf",
+    "891ff6ef5475ab78",
+    "488d82a960414eeb",
+    "de95720c3fd0821d",
+    "917d8162394a6bc1",
+    "7f6217f0e21dd36c",
+    "e15948388016222f",
+    "1ece55727c7cf540",
+    "bc4ab6224b606286",
+    "5b5371b86bca9a9d",
+    "464809fdf70e1b42",
+    "74d4b4b2549c258a",
+    "db703795b3e234de",
+    "fe17f4c17488b7ac",
+    "c8fa41100311b2a3",
+    "3e81427a1f2c6bde",
+    "3a8618ec79872eb5",
+    "48c0702f61b6df4e",
+    "8331daa56547e7a2",
+    "881172c01c3eda54",
+    "b156e32f60f03bd5",
+    "adf1b66bcdfdc1a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba31abeb0d4989b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Orçamento da Região Autónoma dos Açores para o ano 2001\n\nA Assembleia Legislativa Regional dos Açores, nos termos da alínea p) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa e das alíneas c), d) e e) do artigo 30.º e do n.º 1 do artigo 34.º do Estatuto Político-Administrativo da Região, decreta o seguinte:"
+  },
+  "3c965ddcaf13324a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Aprovação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Aprovação do Orçamento"
+  },
+  "2b28042cd127499a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado pelo presente diploma o Orçamento da Região Autónoma dos Açores para 2001, constante dos mapas seguintes:\n\nMapas I a VIII, do orçamento da administração pública regional, incluindo os orçamentos dos fundos e serviços autónomos;\n\nMapa IX, com os programas e projectos de investimento de cada secretaria regional."
+  },
+  "f7cdbfc649af45bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Transferências e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Transferências e financiamento"
+  },
+  "870dd2307883efd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Transferências do Orçamento do Estado e da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferências do Orçamento do Estado e da União Europeia\n\n1 - Os montantes a receber, por transferência, do Orçamento do Estado deverão atingir o valor de 38410 milhares de contos, dos quais 9360 milhares de contos correspondem a verbas provenientes do Fundo de Coesão, as quais se destinam, exclusivamente, a financiar projectos de investimento, 1500 milhares de contos para a finalidade prevista no n.º 4 do artigo 5.º da Lei de Finanças das Regiões Autónomas e 800 milhares de contos para suportar a bonificação de juros do crédito à habitação, nos termos do n.º 5 do artigo 30.º da supracitada lei.\n\n2 - Os valores estimados para as transferências da União Europeia deverão atingir os 16500 milhares de contos, assim distribuídos: 12800 milhares de contos pelo FEDER, 3500 milhares de contos pelo FEOGA e 190 milhares de contos pelo FSE."
+  },
+  "6e4062b352909203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Necessidades de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Necessidades de financiamento\n\nRevelando-se insuficientes os recursos entregues pelo Estado à Região Autónoma dos Açores, com base nos artigos 99.º e 105.º do seu Estatuto Político-Administrativo, e, bem assim, os recursos financeiros provenientes dos fundos estruturais da UE, fica o Governo Regional autorizado, nos termos da alínea d) do artigo 30.º do EPARAA, e mediante inscrição de verba correspondente, a contrair empréstimos, incluindo créditos bancários, para fazer face, exclusivamente, ao défice do Orçamento da Região Autónoma dos Açores."
+  },
+  "fb7d23191f392e48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições gerais dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições gerais dos empréstimos\n\nOs empréstimos a realizar pelo Governo Regional devem subordinar-se às seguintes condições gerais:\n\na) Serem amortizáveis, a colocar junto das instituições financeiras ou outras entidades, nacionais ou internacionais, sendo a opção por umas ou outras determinada pela consecução de condições mais favoráveis para a Região;\n\nb) Não ultrapassarem o montante de 6 milhões de contos de endivamento líquido, a serem aplicados no financiamento do plano de investimento da Região;\n\nc) As condições dos empréstimos internos não poderão ser mais gravosas do que as resultantes do mercado em matéria de prazo, taxa de juro e demais encargos, podendo as mesmas ser objecto dos ajustamentos técnicos que se revelarem aconselháveis;\n\nd) Os empréstimos externos serão contraídos em condições mais favoráveis do que as praticadas no mercado nacional de capitais."
+  },
+  "254f5a21a1046ccf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Garantias de empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantias de empréstimos\n\nFica o Governo Regional autorizado a garantir, nas condições correntes nos respectivos mercados, operações financeiras internas e externas requeridas pela execução de empreendimentos de reconhecido interesse económico e social para a Região."
+  },
+  "891ff6ef5475ab78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Avales e outras garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avales e outras garantias\n\nÉ fixado em 7100 milhares de contos o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores."
+  },
+  "488d82a960414eeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Gestão da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão da dívida pública\n\nO Governo Regional tomará as medidas adequadas à eficiente gestão da dívida pública, ficando autorizado, através do Secretário Regional da Presidência para as Finanças e Planeamento:\n\na) Ao reforço das dotações orçamentais para amortização de capital, caso isso se mostre necessário;\n\nb) Ao pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nc) A contratação de novas operações destinadas a fazer face ao pagamento antecipado ou à transferência das responsabilidades associadas a empréstimos anteriores;\n\nd) À renegociação das condições de empréstimos anteriores, incluindo a celebração de contratos de troca (swaps), do regime de taxa de juro, de divisa e de outras condições contratuais;\n\ne) À alteração do limite do endividamento externo por contrapartida do limite do endividamento interno, para obter as condições de endividamento mais favoráveis em cada momento."
+  },
+  "917d8162394a6bc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Despesas e alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Despesas e alterações orçamentais"
+  },
+  "7f6217f0e21dd36c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlo das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo das despesas\n\nO Governo Regional tomará as medidas necessárias à rigorosa contenção das despesas públicas e ao controlo da sua eficiência, de forma a alcançar possíveis reduções do défice orçamental e uma melhor aplicação dos recursos públicos."
+  },
+  "e15948388016222f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Fundos e serviços autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fundos e serviços autónomos\n\n1 - Os fundos e serviços autónomos deverão remeter ao Secretário Regional da Presidência para as Finanças e Planeamento balancetes trimestrais que permitam avaliar a respectiva execução orçamental, bem como os elementos necessários à avaliação da execução das despesas incluídas no plano de investimentos da Região.\n\n2 - A contracção de empréstimos e a emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do Secretário Regional da Presidência para as Finanças e Planeamento."
+  },
+  "1ece55727c7cf540": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autorização de despesas\n\n1 - São competentes para autorizar despesas com empreitadas de obras públicas, locação e aquisição de bens e serviços as seguintes entidades, com os seguintes limites:\n\na) Até 20000 contos, os directores regionais e os órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até 40000 contos, os órgãos máximos dos organismos dotados de autonomia administrativa e financeira;\n\nc) Até 200000 contos, os secretários regionais e o subsecretário regional;\n\nd) Até 750000 contos, o Presidente do Governo Regional;\n\ne) Sem limite, o Conselho do Governo Regional.\n\n2 - As competências referidas no número anterior podem ser delegadas, nos termos que vierem a ser fixados no decreto regulamentar regional que puser em execução o Orçamento da Região Autónoma dos Açores para o ano 2001 ou em diploma autónomo."
+  },
+  "bc4ab6224b606286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho\n\nNa aplicação do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, para além de se dever ter em conta o disposto no artigo anterior, consideram-se reportadas aos órgãos e serviços correspondentes da administração regional as referências feitas naquele diploma a órgãos e serviços da Administração do Estado."
+  },
+  "5b5371b86bca9a9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alterações orçamentais\n\n1 - O Governo Regional fica autorizado a proceder às alterações orçamentais que se revelarem necessárias à execução do Orçamento regional, fazendo cumprir, nesta matéria, o [Decreto-Lei n.º 71/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1995-230110), de 15 de Abril, com as devidas adaptações, em termos de correspondência dos órgãos e serviços da administração regional às referências ali constantes aos órgãos e serviços da Administração do Estado.\n\n2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional e transferências de pessoal justificadas pela mobilidade e reafectação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os departamentos de destino."
+  },
+  "464809fdf70e1b42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Colaboração com as autarquias - Recuperação de habitação degradada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Colaboração com as autarquias - Recuperação de habitação degradada\n\n1 - Em cumprimento do disposto no n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 5/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1999-158046), de 11 de Março, é fixada em 20% da dotação inicial do projecto 27.2 (recuperação da habitação e realojamentos) do Plano da Região a comparticipação financeira a assegurar pelo Governo Regional às autarquias locais.\n\n2 - O Governo Regional apresentará, no decurso da vigência deste diploma, propostas legislativas, visando a reformulação da cooperação técnico-financeira naquele domínio."
+  },
+  "74d4b4b2549c258a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Adaptação do sistema fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Adaptação do sistema fiscal"
+  },
+  "db703795b3e234de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Deduções à colecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deduções à colecta\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 6.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de Janeiro, determina-se que os lucros que beneficiarão da dedução à colecta são os que forem reinvestidos na:\n\na) Criação de novas unidades hoteleiras ou similares ou ampliação das já existentes;\n\nb) Aquisição de embarcações de pesca;\n\nc) Investigação científica e desenvolvimento experimental (I&D) com interesse relevante.\n\n2 - O Governo Regional definirá as condições de aplicabilidade das deduções previstas no número anterior."
+  },
+  "fe17f4c17488b7ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Benefícios fiscais\n\nEm cumprimento do disposto no n.º 4 do artigo 9.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de Janeiro, determina-se que são considerados relevantes, tendo em vista a concessão de benefícios em regime contratual, os projectos de investimentos em unidades produtivas de valor superior a 500000000$00."
+  },
+  "c8fa41100311b2a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Complemento de pensão e remuneração complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Complemento de pensão e remuneração complementar"
+  },
+  "925e557770781e4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro\n\n1 - Os montantes do complemento de pensões e da remuneração complementar a que se referem os n.os 1 dos artigos 3.º dos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065) e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), ambos de 12 de Janeiro, são actualizados no corrente ano em 6,5%, sendo arredondados para a centena de escudos imediatamente superior.\n\n2 - Os artigos 1.º, 2.º, 3.º, 5.º e 7.º do [Decreto Legislativo Regional n.º 2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto e âmbito\n\n1 - É criado um complemento mensal de pensão para os pensionistas cuja residência permanente seja na Região Autónoma dos Açores.\n\n2 - Beneficiam de idêntico complemento os que aufiram pensões de sistemas de segurança ou protecção social estrangeiros, cumulativamente ou não com pensões nacionais.\n\n3 - O complemento a que se refere o n.º 1 abrange, ainda, os pensionistas do regime geral da segurança social que aufiram ajudas comunitárias à cessação de actividade, designadamente os produtores agrícolas abrangidos pela [Portaria n.º 32/95](https://diariodarepublica.pt/dr/detalhe/portaria/32-1995-146939), de 11 de Maio, cujas ajudas deverão entrar no cálculo para atribuição dos respectivos complementos de pensão.\n\n4 - Para efeitos do presente diploma, consideram-se pensionistas os beneficiários que aufiram pensões, isolada ou conjuntamente, dos regimes de segurança social, incluindo os da pensão social e de invalidez, as doenças profissionais, os aposentados da função pública, os pensionistas de sobrevivência e os beneficiários de pensões de outros sistemas de protecção social, incluindo as pensões por acidentes de trabalho.\n\nArtigo 2.º\n\nAtribuição\n\nO complemento de pensão é atribuído mediante requerimento apresentado pelo interessado, sendo pago pelos serviços regionais da segurança social em 14 mensalidades, das quais 2 no mês de Julho e 2 no mês de Dezembro.\n\nArtigo 3.º\n\nMontante\n\n1 - O complemento mensal de pensão é de 6400$00.\n\n2 - ...\n\n3 - Sempre que da atribuição do complemento de pensão resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido sobre o montante ilíquido apurado nos termos do número anterior um acréscimo de complemento de pensão correspondente a 25% do quantitativo referido no n.º 2.\n\nArtigo 5.º\n\nBeneficiários\n\nSão beneficiários do complemento de pensão todos aqueles que se encontrem abrangidos pelo artigo 1.º, cujos montantes globais auferidos se integrem no disposto no n.º 2 do artigo 3.º do presente diploma.\n\nArtigo 7.º\n\nProva de pensão auferida e prova de residência\n\n1 - De Janeiro a Março de cada ano, os beneficiários apresentarão, nos serviços da segurança social, documento que comprove o quantitativo que auferem, referente à pensão ou pensões, que lhes dá o direito ao complemento de pensão, excluindo aquelas que sejam de conhecimento oficioso daquela entidade.\n\n2 - Todos os pensionistas referidos no artigo 1.º deverão, na data mencionada no número anterior, fazer prova de residência permanente na Região.\n\n3 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respectiva pensão e prova de residência, respectivamente, nos termos dos números anteriores.\n\n4 - O requerimento referido no número anterior poderá ainda ser apresentado em qualquer altura para além daquele prazo, processando-se neste caso o respectivo complemento a partir da data da sua apresentação.»\n\n3 - Os artigos 1.º, 2.º, 3.º e 4.º do [Decreto Legislativo Regional n.º 3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nRemuneração complementar\n\n1 - ...\n\n2 - À remuneração complementar é aplicável o regime da remuneração base quanto a férias, faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na lei.\n\nArtigo 2.º\n\nBeneficiários\n\nBeneficiam da remuneração complementar os funcionários, os agentes e os contratados a termo certo da administração pública regional e local que exerçam funções na Região Autónoma dos Açores, cuja remuneração seja igual ou inferior à do índice 380.\n\nArtigo 3.º\n\nMontante\n\n1 - O montante mensal da remuneração complementar é de 9100$00.\n\n2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:\n\na) A totalidade para aqueles cuja remuneração seja igual ou inferior ao índice 137;\n\nb) 90% para aqueles cuja remuneração esteja compreendida entre os índices 137 e 181, inclusive;\n\nc) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 205, inclusive;\n\nd) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 225, inclusive;\n\ne) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 250, inclusive;\n\nf) 60% para aqueles cuja remuneração esteja compreendida entre os índices 250 e 270, inclusive;\n\ng) 55% para aqueles cuja remuneração esteja compreendida entre os índices 270 e 305, inclusive;\n\nh) 45% para aqueles cuja remuneração esteja compreendida entre os índices 305 e 320, inclusive;\n\ni) 40% para aqueles cuja remuneração esteja compreendida entre os índices 320 e 330, inclusive;\n\nj) 35% para aqueles cuja remuneração esteja compreendida entre os índices 330 e 355, inclusive;\n\nk) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355 e 380, inclusive.\n\n3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido mediante requerimento do interessado e sobre o montante apurado um acréscimo de remuneração complementar correspondente a 25% do quantitativo referido no n.º 2. Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.\n\nArtigo 4.º\n\nÍndices\n\n1 - Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.\n\n2 - Para efeitos de aplicação do artigo anterior, os índices do pessoal integrado em carreiras específicas da Região do regime especial e dos corpos especiais são convertidos em montante remuneratório idêntico aos índices da escala do regime geral da função pública.»"
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "48c0702f61b6df4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Execução orçamental\n\nO Orçamento da Região Autónoma dos Açores será posto em execução pelo Governo Regional mediante decreto regulamentar regional, que estabelecerá medidas regulamentares e de desenvolvimento do disposto no presente diploma, aplicáveis a todos os serviços que integram a administração pública regional, incluindo os organismos dotados de autonomia administrativa e financeira."
+  },
+  "8331daa56547e7a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Alteração ao [Decreto Regulamentar Regional n.º 8/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1984-660506), de 4 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao [Decreto Regulamentar Regional n.º 8/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1984-660506), de 4 de Fevereiro\n\nFica o Governo Regional autorizado a alterar o [Decreto Regulamentar Regional n.º 8/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1984-660506), de 4 de Fevereiro, designadamente quanto ao montante das taxas."
+  },
+  "881172c01c3eda54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Alteração à orgânica regional de planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alteração à orgânica regional de planeamento\n\nO Governo Regional deverá apresentar, no decurso da vigência deste diploma, uma proposta de alteração da legislação respeitante à orgânica regional de planeamento, visando, entre outros aspectos, o alargamento do prazo concedido aos parceiros sociais para análise e emissão de pareceres."
+  },
+  "b156e32f60f03bd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Plano de recuperação dos caminhos agrícolas e rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Plano de recuperação dos caminhos agrícolas e rurais\n\nO Governo Regional apresentará, no decurso da vigência deste diploma, um plano de recuperação dos caminhos agrícolas e rurais existentes em todas as ilhas da Região, que será analisado conjuntamente com o Plano da Região para 2002."
+  },
+  "adf1b66bcdfdc1a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro de 2001.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 6 de Abril de 2001.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado de Menezes.\n\nAssinado em Angra do Heroísmo em 2 de Maio de 2001.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.\n\nMAPA I\n\nReceita da Região Autónoma dos Açores\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA II\n\nDespesas por departamentos e por capítulos da Região Autónoma dos Açores\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA III\n\nDespesas da Região especificadas segundo a classificação funcional\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA IV\n\nDespesas da Região especificadas segundo a classificação económica\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA V\n\nReceitas globais dos fundos e serviços autónomos segundo a classificação orgânica\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA VI\n\nDespesas globais dos fundos e serviços autónomos segundo a classificação orgânica\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA VII\n\nDespesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA VIII\n\nDespesas globais dos fundos e serviços autónomos especificados segundo a classificação económica\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)\n\nMAPA IX\n\nDespesas de investimento da administração pública regional\n\nResumo por departamentos\n\n[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)"
+  },
+  "de95720c3fd0821d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º-A — Regularização de responsabilidades do Serviço Regional de Saúde",
+   "in_force_from": "2007-10-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16-A/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-a-2001-239238), publicado em 2001-10-31."
+   ],
+   "markdown": "###### Artigo 7.º-A — Regularização de responsabilidades do Serviço Regional de Saúde\n\nSem prejuízo do limite máximo de 6 milhões de contos de endividamento líquido fixado na alínea b) do artigo 4.º do presente diploma, o Governo Regional dos Açores fica autorizado, através do Secretário Regional da Presidência para as Finanças e Planeamento, a proceder à regularização de responsabilidades decorrentes do cumprimento de obrigações dos organismos dotados de autonomia administrativa e financeira integrados no Serviço Regional de Saúde, até ao limite de 12 milhões de contos.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16-A/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-a-2001-239238), publicado em 2001-10-31."
+  },
+  "3e81427a1f2c6bde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro",
+   "in_force_from": "2007-10-23",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), publicado em 2007-10-23."
+   ],
+   "markdown": "###### Artigo 16.º — Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), publicado em 2007-10-23."
+  }
+ }
+}

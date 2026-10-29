@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-06-20'
+version_history:
+  file: decreto-lei-83-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-06-20'
+    amending: pt:dre:303819:por
+    amending_title: Decreto-Lei n.º 107/2000
+    changes:
+    - Altera Artigo 2.º
+    - Adita Artigo ANEXO — Regulamento do Conselho de Saúde e Segurança no Trabalho para a Administração Pública::5.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/83/1998/04/03/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:04:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-83-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +178,7 @@ Nos termos do n.º 5 do artigo 112.º e da alínea a) do n.º 1 do artigo 198.º
 
 a) Um presidente designado pelo membro do Governo que tutela a Administração Pública, ouvidas as organizações sindicais;
 
-b) Dez representantes do Governo e suplentes designados, respectivamente, pelo membro do Governo que tutela a Administração Pública, pelo Ministro da Defesa Nacional, pelo Ministro das Finanças, pelo Ministro da Administração Interna, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, pelo Ministro da Justiça, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pelo Ministro da Saúde, pelo Ministro do Trabalho e da Solidariedade e pelo Ministro do Ambiente;
+b) Dez representantes do Governo e respectivos suplentes, designados pelos membros do Governo responsáveis pelas áreas da Administração Pública, da defesa nacional, das finanças, da administração interna, da administração local, da justiça, da agricultura e pescas, da saúde, do trabalho e do ambiente.
 
 c) Dois representantes designados pelos Governos Regionais, em matérias de interesse para as Regiões Autónomas;
 
@@ -171,6 +187,8 @@ d) Dez representantes de organizações sindicais representativas dos trabalhado
 2 - Nas suas ausências e impedimentos o presidente é substituído por um dos membros do Conselho, designado nos termos da alínea a) do número anterior, sendo a sua representação no Conselho assegurada pelo respectivo membro suplente.
 
 3 - Os membros do Conselho exercem o seu mandato por períodos de três anos, renováveis, sem prejuízo da sua substituição, a todo o tempo, por proposta da entidade que os designou.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19.
 
 ###### Artigo 3.º — Competências
 
@@ -281,6 +299,12 @@ c) O presidente, ou quem o substitua, tem voto de desempate, que deve fundamenta
 5 - Cada comissão manter-se-á em exercício apenas enquanto o Conselho o considerar conveniente.
 
 6 - O coordenador de cada comissão, quando for membro suplente do Conselho, participa nas reuniões do Conselho, sem direito a voto.
+
+###### Artigo 5.º-A — Remunerações
+
+Os membros das comissões técnicas previstas no artigo 5.º do presente Regulamento são remunerados por gratificação ou por senhas de presença, de acordo com o tipo de trabalho a desenvolver, nos termos a fixar por despacho conjunto do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública e têm direito ao abono de despesas de deslocação e de ajudas de custo nos termos da lei geral.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 107/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2000-303819), publicado em 2000-06-19.
 
 ###### Artigo 6.º — Secretariado
 

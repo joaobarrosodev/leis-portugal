@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-8-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/8/1998/05/11/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-8-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +187,9 @@ São órgãos do Parque Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
@@ -224,55 +243,15 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Direcção Regional de Agricultura de Trás-os-Montes e Direcção Regional de Agricultura da Beira Interior, consideradas em conjunto;
-
-b) Instituto Politécnico de Bragança, Instituto Politécnico da Guarda, Universidade da Beira Interior e Universidade de Trás-os-Montes e Alto Douro, consideradas em conjunto;
-
-c) Comissão de Coordenação da Região do Norte e Comissão de Coordenação da Região do Centro, consideradas em conjunto;
-
-d) Região de Turismo do Nordeste Transmontano;
-
-e) Câmara Municipal de Figueira de Castelo Rodrigo;
-
-f) Câmara Municipal de Freixo de Espada à Cinta;
-
-g) Câmara Municipal de Miranda do Douro;
-
-h) Câmara Municipal de Mogadouro;
-
-i) Juntas de freguesia incluídas no Parque Natural do concelho de Figueira de Castelo Rodrigo, consideradas em conjunto e em sistema rotativo pelo período de um ano;
-
-j) Juntas de freguesia incluídas no Parque Natural do concelho de Freixo de Espada à Cinta, consideradas em conjunto e em sistema rotativo pelo período de um ano;
-
-l) Juntas de freguesia incluídas no Parque Natural do concelho de Miranda do Douro, consideradas em conjunto e em sistema rotativo pelo período de um ano;
-
-m) Juntas de freguesia incluídas no Parque Natural do concelho de Mogadouro, consideradas em conjunto e em sistema rotativo pelo período de um ano;
-
-n) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo pelo período de um ano;
-
-o) Associações representativas dos diferentes sectores económicos, nomeadamente do sector primário, consideradas em conjunto e em sistema rotativo pelo período de um ano.
-
-2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.
-
-3 - O Instituto Português do Património Arqueológico e Arquitectónico (IPPAR) será ouvido pelo conselho, participando nas suas reuniões com estatuto de observador, nos termos do regulamento interno a aprovar pelo conselho.
-
-4 - Sempre que seja discutida matéria de interesse do IPPAR, este participará nas reuniões do conselho consultivo em substituição do representante da Região de Turismo do Nordeste Transmontano, sendo para o efeito convocado pelo presidente do conselho consultivo.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competência do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;
-
-e) Dar parecer sobre assuntos com interesse para o Parque Natural.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

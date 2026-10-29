@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-5-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/5-a/1997/04/04/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-5-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,7 +220,9 @@ São órgãos do Parque Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
@@ -259,49 +278,15 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Universidade de Trás-os-Montes e Alto Douro;
-
-b) Instituto Politécnico de Bragança;
-
-c) Direcção-Geral do Turismo;
-
-d) Director-geral de Hidráulica, Engenharia Rural e Ambiente;
-
-e) Instituto Português do Património Arquitectónico e Arqueológico;
-
-f) Comissão de Coordenação da Região do Norte;
-
-g) Direcção Regional de Agricultura de Trás-os-Montes;
-
-h) Direcção Regional do Ambiente e Recursos Naturais do Norte;
-
-i) Câmara Municipal de Bragança;
-
-j) Câmara Municipal de Vinhais;
-
-l) Juntas de freguesia da área do Parque Natural consideradas em conjunto e em sistema rotativo, com mandato de um ano;
-
-m) Associação de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.
-
-3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos membros.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividade, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

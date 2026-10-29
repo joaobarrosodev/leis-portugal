@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-28'
+version_history:
+  file: decreto-regulamentar-regional-16-92-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-28'
+    amending: pt:dre:316921:por
+    amending_title: Decreto Regulamentar Regional n.º 7/99/M
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/16/1992/07/22/m/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:45:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    7/99/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1992/decreto-regulamentar-regional-16-92-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,11 +145,19 @@ Assim:
 
 O Governo Regional decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-Artigo 1.º As referências feitas e as competências atribuídas nos artigos 2.º, alínea g), e 8.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, aos Ministérios da Indústria e Energia e da Agricultura, Pescas e Alimentação consideram-se reportadas e são exercidas na Região Autónoma da Madeira pela Secretaria Regional da Economia.
+###### Artigo 1.º
 
-Art. 2.º O produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria.
+As referências feitas e as competências atribuídas pelo Decreto-Lei n.º 109/91, de 15 de Março, e respectiva legislação complementar, aos Ministérios da Indústria e Energia e da Agricultura consideram-se reportadas e são exercidas na Região Autónoma da Madeira pelos departamentos governamentais que tenham a seu cargo, respectivamente, os sectores da indústria e energia e da agricultura, pecuária e pescas.
 
-Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1999-316921), publicado em 1999-05-27.
+
+###### Artigo 2.º
+
+O produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 11 de Junho de 1992.
 

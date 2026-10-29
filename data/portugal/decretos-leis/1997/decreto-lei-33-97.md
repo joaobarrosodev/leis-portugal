@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-01'
+version_history:
+  file: decreto-lei-33-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-01'
+    amending: pt:dre:305379:por
+    amending_title: Decreto-Lei n.º 145-A/2001
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33/1997/01/30/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:53:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 145-A/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-33-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,9 +208,13 @@ A indemnização por cessação do contrato de trabalho a que se referem as alí
 
 #### SECÇÃO II — Prestações de pré-reforma
 
-###### Artigo 8.º — Princípio geral
+###### Artigo 8.º — Âmbito
 
-Aos trabalhadores de idade igual ou superior a 55 anos e para os mineiros de fundo a partir dos 48 anos, cujos contratos de trabalho tenham cessado, é garantido o direito a uma prestação de pré-reforma e a um complemento de pré-reforma, nos termos previstos no presente diploma.
+1 - Aos trabalhadores de idade igual ou superior a 55 anos cujos contratos de trabalho tenham cessado é garantido o direito a uma prestação de pré-reforma e a um complemento de pré-reforma, nos termos previstos no presente diploma.
+
+2 - Aos trabalhadores cujos contratos de trabalho tenham cessado por força da cessação definitiva da produção de aço é reconhecido o direito à protecção prevista no número anterior, a partir da idade de 50 anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-a-2001-305379), publicado em 2001-04-30.
 
 ###### Artigo 9.º — Montantes
 
@@ -383,11 +404,13 @@ c) Elaborar os relatórios sobre a execução dos programas a que se refere o §
 
 ###### Artigo 35.º — Elaboração dos pedidos de auxílio
 
-1 - Os pedidos de auxílio respeitantes às medidas de protecção social cujo pagamento é da responsabilidade das empresas são elaborados por estas e apresentados ao Instituto de Gestão Financeira da Segurança Social até ao dia 15 de Março de cada ano.
+1 - Os pedidos de auxílio respeitantes às medidas de protecção social cujo pagamento é da responsabilidade das empresas são elaborados por estas e apresentados ao Instituto de Gestão Financeira da Segurança Social, no ano de 2002, até 10 de Janeiro de 2002.
 
 2 - Após o recebimento dos pedidos de auxílio das empresas, o Instituto de Gestão Financeira da Segurança Social procede à sua análise, em colaboração com a Comissão Técnica Interministerial CECA, tendo em vista a recolha de informação necessária à elaboração dos pedidos de auxilio que devem ser formulados.
 
 3 - O Instituto de Gestão Financeira da Segurança Social, com base nos elementos respeitantes aos pedidos de auxilio, remete à Direcção-Geral do Tesouro indicação do montante das comparticipações nacionais e comunitárias a cargo do Orçamento do Estado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-a-2001-305379), publicado em 2001-04-30.
 
 ###### Artigo 36.º — Elementos a remeter ao Instituto de Gestão
 
@@ -410,6 +433,10 @@ O Instituto de Gestão Financeira da Segurança Social apresenta, trimestralment
 1 - A dotação inscrita no Orçamento do Estado destinada ao cumprimento das responsabilidades atribuídas ao Estado pelo presente diploma engloba, também, a parte correspondente às comparticipações comunitárias, para o respectivo ano económico, destinadas aos auxílios CECA.
 
 2 - A Direcção-Geral do Tesouro processa, trimestralmente, as despesas relativas às comparticipações nos pedidos apresentados nos termos do n.º 3 do artigo 35.º e do artigo 37.º, transferindo esses montantes, respectivamente, para as empresas e para o Instituto de Gestão Financeira da Segurança Social.
+
+3 - Sem prejuízo do disposto no número anterior, a Direcção-Geral do Tesouro, em circunstâncias especiais, devidamente comprovadas, pode antecipar mensalmente o pagamento das despesas relativas às comparticipações nos pedidos apresentados nos termos do n.º 3 do artigo 35.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 145-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-a-2001-305379), publicado em 2001-04-30.
 
 ###### Artigo 39.º — Comparticipações comunitárias
 

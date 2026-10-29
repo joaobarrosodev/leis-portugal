@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309302:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2dab1532f7849956",
+    "96171620e1d4cf5a",
+    "13d5dfb3b4f28f32",
+    "6745cb2352edc93c",
+    "14f2b0602342948a",
+    "fbde48946a9fa190",
+    "d58d4f23a4e02dde"
+   ]
+  },
+  {
+   "date": "2010-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306431:por",
+     "title": "Portaria n.º 1289/2010",
+     "published": "2010-12-17",
+     "dre_path": "/dr/detalhe/portaria/1289-2010-306431"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "2dab1532f7849956",
+    "96171620e1d4cf5a",
+    "13d5dfb3b4f28f32",
+    "6745cb2352edc93c",
+    "b2b37fa91a290d36",
+    "14f2b0602342948a",
+    "fbde48946a9fa190",
+    "d58d4f23a4e02dde"
+   ]
+  }
+ ],
+ "fragments": {
+  "2dab1532f7849956": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Novembro\n\nPela Portaria n.º 99/2007, de 22 de Janeiro, foi criada a zona de caça municipal da Fraga do Lobo e Santo Maroto (processo n.º 4551-AFN), situada no município de Lamego, com a área de 1053 ha, válida até 22 de Janeiro de 2013, e concessionada à Associação de Caçadores das Quelhas, que entretanto requereu a sua extinção.\n\nPela [Portaria n.º 570/2004](https://diariodarepublica.pt/dr/detalhe/portaria/570-2004-251622), de 26 de Maio, foi criada a zona de caça municipal de Castro da Mogueira (processo n.º 3209-AFN), situada no município de Resende, com a área de 4172 ha, válida até 26 de Maio de 2010, e concessionada à Associação de Caçadores das Quelhas, que entretanto requereu a sua renovação e, em simultâneo, a anexação de parte dos terrenos cinegéticos que englobavam a zona de caça municipal que agora se extingue.\n\nCumpridos os preceitos legais e com fundamento no disposto nos artigos 11.º e 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, na alínea a) do n.º 1 do artigo 22.º, no artigo 46.º e no n.º 1 do artigo 118.º, todos do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, consultados os Conselhos Cinegéticos Municipais de Resende e Lamego de acordo com a alínea d) do artigo 158.º do mesmo diploma, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, manda o Governo, pelos Secretários de Estado das Florestas e Desenvolvimento Rural e do Ambiente, o seguinte:"
+  },
+  "96171620e1d4cf5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Extinção\n\nÉ extinta a zona de caça municipal da Fraga do Lobo e Santo Maroto (processo n.º 4551-AFN)."
+  },
+  "13d5dfb3b4f28f32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Renovação\n\nÉ renovada a concessão da zona de caça municipal de Castro da Mogueira (processo n.º 3209-AFN), por um período de seis anos, constituída por terrenos cinegéticos sitos nas freguesias de Barrô, Feirão, Felgueiras, Paus, São João de Fontoura e São Martinho de Mouros, todas do município de Resende, com a área de 2768 ha."
+  },
+  "6745cb2352edc93c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Anexação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Anexação\n\nSão anexados à zona de caça municipal de Castro da Mogueira (processo n.º 3209-AFN) terrenos cinegéticos sitos nas freguesias de Penajóia e Samodães, ambas do município de Lamego, com a área de 751 ha, passando assim esta zona de caça a ser constituída pelos terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, com a área total de 3519 ha."
+  },
+  "14f2b0602342948a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Efeitos da sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Efeitos da sinalização\n\nA anexação referida no artigo anterior só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização."
+  },
+  "fbde48946a9fa190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a Portaria n.º 99/2007, de 22 de Janeiro."
+  },
+  "d58d4f23a4e02dde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\n1 - A renovação a que se refere o artigo 2.º da presente portaria produz efeitos a partir do dia 27 de Maio de 2010.\n\n2 - A extinção e a anexação de terrenos a que se referem respectivamente os artigos 1.º e 3.º da presente portaria produzem efeitos a partir do dia seguinte ao da sua publicação.\n\nO Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 18 de Outubro de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 14 de Outubro de 2010.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/21200/0493204933.pdf)"
+  },
+  "b2b37fa91a290d36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º-A — Acesso dos caçadores",
+   "in_force_from": "2010-12-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo único do/a [Portaria n.º 1289/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1289-2010-306431), publicado em 2010-12-17."
+   ],
+   "markdown": "###### Artigo 3.º-A — Acesso dos caçadores\n\nDe acordo com o estabelecido no artigo 15.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 201/2005, de 24 de Novembro, e com a alteração do Decreto-Lei n.º 9/2009, de 9 de Janeiro, os critérios de proporcionalidade de acesso dos caçadores à zona de caça municipal de Castro da Mogueira (processo n.º 3209-AFN) passam a ser os que abaixo se indicam:\n\na) 50 %, relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 5 %, relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20 %, relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 25 %, aos demais caçadores conforme é referido na alínea d) do citado artigo 15.º\n\n> Aditado pelo/a Artigo único do/a [Portaria n.º 1289/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1289-2010-306431), publicado em 2010-12-17."
+  }
+ }
+}

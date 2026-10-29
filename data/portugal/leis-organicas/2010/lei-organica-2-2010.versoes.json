@@ -1,0 +1,344 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:335688:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "42b1cd8f7ce3795f",
+    "b6ad0548deb8a89d",
+    "732198c480f2a664",
+    "817a1a445ded71b6",
+    "edda94675e845adb",
+    "92bf5ccf236cc32c",
+    "4c0e0484cf8a65f9",
+    "41a61bb08253031f",
+    "d7e49bb9e43f1fbb",
+    "27f7c3b8a1f1dfd9",
+    "80523cc80d499d63",
+    "a0d8e1b10630e787",
+    "feb9f9347ac117d1",
+    "8070b685d3aeb976",
+    "ef024ee5a04db259",
+    "04690a110587683c",
+    "b5916784d0173cb3",
+    "5c7af008686280db",
+    "c54210d45ac950f1",
+    "b83105f4454ab6a7",
+    "79f0bf9abd39a93b",
+    "6689110d10d34fe0",
+    "24067d1d754f18c1",
+    "ceb914ef8af2f67a",
+    "16c7d881335ce8ea",
+    "3cfa13556004c28f",
+    "e12b69feda48c19f",
+    "9ff5698af5d94083"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    },
+    {
+     "id": "pt:dre:499567:por",
+     "title": "Lei Orgânica n.º 2/2013",
+     "published": "2013-09-02",
+     "dre_path": "/dr/detalhe/lei-organica/2-2013-499567"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "42b1cd8f7ce3795f",
+    "b6ad0548deb8a89d",
+    "732198c480f2a664",
+    "817a1a445ded71b6",
+    "edda94675e845adb",
+    "92bf5ccf236cc32c",
+    "4c0e0484cf8a65f9",
+    "41a61bb08253031f",
+    "d7e49bb9e43f1fbb",
+    "27f7c3b8a1f1dfd9",
+    "80523cc80d499d63",
+    "a0d8e1b10630e787",
+    "feb9f9347ac117d1",
+    "8070b685d3aeb976",
+    "ef024ee5a04db259",
+    "04690a110587683c",
+    "b5916784d0173cb3",
+    "5c7af008686280db",
+    "c54210d45ac950f1",
+    "b83105f4454ab6a7",
+    "79f0bf9abd39a93b",
+    "6689110d10d34fe0",
+    "24067d1d754f18c1",
+    "ceb914ef8af2f67a",
+    "16c7d881335ce8ea",
+    "1261e73bc5dfcd8e",
+    "f9502969864cef3d",
+    "e12b69feda48c19f",
+    "9ff5698af5d94083"
+   ]
+  }
+ ],
+ "fragments": {
+  "42b1cd8f7ce3795f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Junho\n\nFixa os meios que asseguram o financiamento das iniciativas de apoio e reconstrução na Região Autónoma da Madeira na sequência da intempérie de Fevereiro de 2010\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  },
+  "b6ad0548deb8a89d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo I — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito"
+  },
+  "732198c480f2a664": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei fixa o regime excepcional dos meios financeiros extraordinários de que dispõe a Região Autónoma da Madeira para, num quadro de cooperação entre o Governo e o Governo Regional e perante uma situação de emergência nacional, proceder à reconstrução das zonas afectadas pelo temporal que ocorreu na Região."
+  },
+  "817a1a445ded71b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Os meios financeiros extraordinários que a Região Autónoma da Madeira dispõe, nos termos da presente lei, destinam-se à reconstrução das infra-estruturas danificadas, bem como ao apoio ao sector privado e à ajuda às vítimas das intempéries.\n\n2 - Incluem-se no âmbito do número anterior os meios financeiros destinados a intervir, designadamente, nas seguintes áreas:\n\na) Estradas, visando a recuperação e a reposição das vias de comunicação e de obras de arte;\n\nb) Hidrologia, com vista à regularização dos principais cursos de água e adopção de medidas preventivas de novas situações de intensidades anormais de pluviosidade e de agitação marítima;\n\nc) Redes de saneamento e de electricidade, com vista à reconstrução das redes de abastecimento de água, de electricidade e de saneamento básico;\n\nd) Habitação, visando a reconstrução de habitações danificadas e o realojamento das famílias cujas habitações foram destruídas;\n\ne) Actividades económicas, com vista à recuperação de estabelecimentos comerciais e à reposição de stocks;\n\nf) Portos e infra-estruturas do litoral, visando a reconstrução das infra-estruturas danificadas e a reposição da foz dos diversos cursos de água afectados, incluindo a recuperação do porto do Funchal e a reposição de infra-estruturas no litoral, bem como a prevenção dos efeitos da ondulação sobre o litoral e sobre as infra-estruturas portuárias."
+  },
+  "edda94675e845adb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo II — Financiamento e limites de endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Financiamento e limites de endividamento"
+  },
+  "92bf5ccf236cc32c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Comparticipação do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comparticipação do Governo\n\nO Governo comparticipa com um valor total de 740 milhões de euros, concretizado através de:\n\na) Transferências do Orçamento do Estado;\n\nb) Reforço das verbas do Fundo de Coesão afectas à Região Autónoma da Madeira;\n\nc) Linha de crédito junto do Banco Europeu de Investimentos (BEI);\n\nd) Verbas do Programa de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC)."
+  },
+  "4c0e0484cf8a65f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Transferências do Orçamento do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transferências do Orçamento do Estado\n\n1 - A Região Autónoma da Madeira tem direito, durante todo o período de vigência da presente lei, às transferências extraordinárias do Orçamento do Estado no montante global de 200 milhões de euros, a executar da seguinte forma:\n\na) 50 milhões de euros, em 2010;\n\nb) 50 milhões de euros, em 2011;\n\nc) 50 milhões de euros, em 2012;\n\nd) 50 milhões de euros, em 2013.\n\n2 - As transferências referidas no número anterior podem ser destinadas ao reforço dos fundos financeiros disponíveis na Região Autónoma da Madeira.\n\n3 - As transferências a que se refere o n.º 1 podem ser antecipadas em função das concretas necessidades de reconstrução, por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "41a61bb08253031f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Reforço do Fundo de Coesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reforço do Fundo de Coesão\n\nAs verbas previstas no Fundo de Coesão, destinadas à Região Autónoma da Madeira, são reforçadas em 265 milhões de euros, através de reprogramação dos programas operacionais."
+  },
+  "d7e49bb9e43f1fbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Financiamento através do Banco Europeu de Investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento através do Banco Europeu de Investimentos\n\n1 - O Governo assegura em benefício da Região Autónoma da Madeira, durante o período de vigência da presente lei, uma linha especial de financiamento junto do Banco Europeu de Investimentos, no montante de 250 milhões de euros, com os seguintes limites anuais:\n\na) 62,5 milhões de euros, em 2010;\n\nb) 62,5 milhões de euros, em 2011;\n\nc) 62,5 milhões de euros, em 2012;\n\nd) 62,5 milhões de euros, em 2013.\n\n2 - As transferências referidas no número anterior podem ser antecipadas em função das concretas necessidades de reconstrução, por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "27f7c3b8a1f1dfd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Verbas do PIDDAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Verbas do PIDDAC\n\n1 - As verbas do PIDDAC, previstas no Orçamento do Estado para intervenções na Região Autónoma da Madeira, são reforçadas no montante de 25 milhões de euros.\n\n2 - O montante a que se refere o número anterior inclui verbas do PIDDAC do Instituto de Habitação e Reabilitação Urbana, I. P. (IHRU, I. P.), no valor de 15 milhões de euros, para a concretização de apoios na área da habitação, e verbas do PIDDAC do Instituto de Apoio às Pequenas e Médias Empresas (IAPMEI), para a efectivação de uma linha de crédito, no valor de 10 milhões de euros."
+  },
+  "80523cc80d499d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Outras fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras fontes de financiamento\n\n1 - O orçamento da Região Autónoma da Madeira e os orçamentos municipais, conjuntamente com os programas operacionais regionais e com os financiamentos privados, comparticipam na reconstrução com o valor total de 340 milhões de euros.\n\n2 - O Governo assegura a candidatura ao Fundo de Solidariedade da União Europeia, em benefício da Região Autónoma da Madeira."
+  },
+  "a0d8e1b10630e787": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Projectos da responsabilidade dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Projectos da responsabilidade dos municípios\n\nAs iniciativas de reconstrução a realizar pelos municípios da Região Autónoma da Madeira são financiadas, entre outras fontes de financiamento, através de fundos comunitários, de empréstimos e de comparticipações do orçamento regional, sendo estas atribuídas mediante contratos-programa a celebrar entre o Governo Regional e as autarquias locais."
+  },
+  "feb9f9347ac117d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Limites de endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limites de endividamento\n\n1 - Exceptuam-se da regra do endividamento líquido nulo os aumentos líquidos de endividamento até aos seguintes limites:\n\na) 75 milhões de euros, em 2010;\n\nb) 75 milhões de euros, em 2011;\n\nc) 25 milhões de euros, em 2012;\n\nd) 25 milhões de euros, em 2013.\n\n2 - Exceptuam-se ainda da regra do endividamento líquido nulo os empréstimos destinados ao financiamento de projectos com comparticipação de fundos comunitários da responsabilidade da administração regional e local, os quais acrescem aos limites máximos de endividamento líquido fixados nas alíneas do número anterior, mediante despacho do membro do Governo responsável pela área das finanças."
+  },
+  "8070b685d3aeb976": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Alterações e transferências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações e transferências orçamentais\n\n1 - O Governo pode efectuar, durante o período de vigência da presente lei, todas as alterações orçamentais e transferências de verbas necessárias à plena aplicação da lei, mediante despacho do membro do Governo responsável pela área das finanças.\n\n2 - O disposto no número anterior inclui todas as alterações orçamentais que consistam na inscrição de novos programas ou num aumento do montante total das despesas de cada programa, bem como as transferências de verbas entre diferentes programas, designadamente quando impliquem alterações da classificação funcional.\n\n3 - Incluem-se também no n.º 1 as alterações no orçamento dos serviços integrados que consistam num aumento do montante total de cada título ou capítulo ou de natureza funcional e as transferências de verbas entre diferentes títulos e capítulos ou de natureza funcional.\n\n4 - Incluem-se ainda no n.º 1 as alterações do orçamento dos serviços e fundos autónomos que consistam num aumento do montante das despesas globais de cada serviço ou fundo autónomo ou das despesas de cada serviço ou fundo autónomo afectas a uma rubrica de classificação funcional e as transferências de verbas no orçamento de cada serviço ou fundo autónomo que consistam em transferências de natureza funcional."
+  },
+  "ef024ee5a04db259": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo III — Apoios à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoios à habitação"
+  },
+  "04690a110587683c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Apoio extraordinário à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apoio extraordinário à habitação\n\n1 - As intervenções a promover na área da habitação, a que se refere a alínea d) do n.º 2 do artigo 2.º, são concretizadas através da concessão de financiamentos ao abrigo do PROHABITA - Programa de Financiamento para Acesso à Habitação, regulado pelo Decreto-Lei n.º 135/2004, de 3 de Junho, alterado pelo Decreto-Lei n.º 54/2007, de 12 de Março, adiante abreviadamente designado por Programa PROHABITA.\n\n2 - Aos acordos de colaboração a celebrar ao abrigo do Programa PROHABITA são aplicáveis as disposições previstas no artigo seguinte.\n\n3 - Os financiamentos a conceder ao abrigo da presente lei e os demais benefícios financeiros e fiscais aplicáveis às empreitadas de reabilitação de imóveis têm por objecto a realização das obras nas habitações e suas partes acessórias, podendo incluir as obras de recuperação de muros de contenção e de acessos pedonais, até ao valor máximo de financiamento aplicável àquelas.\n\n4 - São excepcionados do disposto no n.º 2 do artigo 39.º da Lei n.º 2/2007, de 15 de Janeiro, os empréstimos e as amortizações relativos aos financiamentos concedidos ao abrigo do disposto no presente artigo."
+  },
+  "b5916784d0173cb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Instrução dos processos de apoio à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instrução dos processos de apoio à habitação\n\n1 - Os acordos previstos no artigo anterior podem ser celebrados entre o IHRU, I. P., a IHM - Investimentos Habitacionais da Madeira, E. P. E. (IHM, E. P. E.), e os municípios territorialmente competentes, desde que se revelem necessários às intervenções de reabilitação de habitações total ou parcialmente destruídas pela intempérie de 20 de Fevereiro de 2010 e ao alojamento definitivo das pessoas e agregados familiares afectados.\n\n2 - Os acordos de colaboração são aprovados pelo membro do Governo responsável pela área da habitação, mediante proposta do IHRU, I. P., e têm um prazo de vigência compreendido entre a data da sua celebração e a caducidade da presente lei, sem prejuízo da prorrogação, no caso de processos de aquisição de habitações ou de realização de obras ainda em curso, apenas na medida necessária à conclusão dos mesmos.\n\n3 - A instrução dos acordos de colaboração é da responsabilidade da IHM, E. P. E., e tem em consideração os elementos constantes do relatório aprovado por esta e pelo IHRU, I. P., devendo conter, designadamente:\n\na) Os elementos relativos aos agregados familiares abrangidos;\n\nb) As soluções definitivas para as respectivas carências habitacionais;\n\nc) Os valores máximos dos financiamentos necessários para o efeito.\n\n4 - São considerados carenciados, para qualquer dos efeitos previstos no Programa PROHABITA, os agregados familiares abrangidos pelo levantamento subjacente ao relatório referido no número anterior, não lhes sendo aplicável o disposto na alínea d) do n.º 1 do artigo 3.º do Decreto-Lei n.º 135/2004, de 3 de Junho, alterado pelo Decreto-Lei n.º 54/2007, de 12 de Março, competindo à IHM, E. P. E., e ao município competente aprovar as soluções de alojamento mais adequadas em função das características de cada situação e do agregado familiar, desde que aquelas sejam previamente aceites pelo IHRU, I. P.\n\n5 - Sem prejuízo da sua consideração no âmbito dos acordos de colaboração, o financiamento à reabilitação das habitações pode ser concedido directamente aos agregados familiares, nas condições do artigo 23.º-G do Decreto-Lei n.º 135/2004, de 3 de Junho, alterado pelo Decreto-Lei n.º 54/2007, de 12 de Março, competindo à IHM, E. P. E., a coordenação dos processos desses agregados familiares e o seu envio ao IHRU, I. P., para apreciação e contratação."
+  },
+  "5c7af008686280db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime especial de benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime especial de benefícios fiscais\n\n1 - Durante a vigência da presente lei estão isentas do imposto municipal sobre imóveis (IMI) as entidades públicas empresariais relativamente aos prédios ou parte de prédios que se destinem directa e exclusivamente à promoção de habitação social.\n\n2 - A isenção a que se refere o número anterior vigora a partir do ano em que o prédio ou a parte de prédio for afecto aos fins aí referidos."
+  },
+  "c54210d45ac950f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo IV — Procedimentos de contratação pública e regime especial de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimentos de contratação pública e regime especial de expropriação"
+  },
+  "b83105f4454ab6a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Procedimento de ajuste directo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de ajuste directo\n\n1 - Sem prejuízo do respeito pelos princípios da transparência, da igualdade e da concorrência, pode adoptar-se o procedimento de ajuste directo para a celebração de contratos de empreitada de obras públicas, de aquisição de bens móveis e de aquisição de serviços celebrados ao abrigo da presente lei, desde que o valor do contrato seja inferior ao valor referido, consoante o caso, nas alíneas b) ou c) do artigo 7.º da Directiva n.º [2004/18/CE](http://data.europa.eu/eli/dir/2004/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Março, e a decisão de contratar seja tomada até 31 de Dezembro de 2010.\n\n2 - Nos procedimentos de ajuste directo adoptados ao abrigo do número anterior, deve a entidade adjudicante convidar, pelo menos, cinco entidades distintas para a apresentação de propostas."
+  },
+  "79f0bf9abd39a93b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Procedimento de concurso público urgente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de concurso público urgente\n\n1 - Sem prejuízo do disposto no artigo anterior, pode adoptar-se o procedimento de concurso público urgente para a celebração de contratos de empreitada de obras públicas, de aquisição de bens móveis e de aquisição de serviços celebrados ao abrigo da presente lei, desde que o valor do contrato seja inferior ao valor referido, consoante o caso, nas alíneas b) ou c) do artigo 7.º da Directiva n.º [2004/18/CE](http://data.europa.eu/eli/dir/2004/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Março, e o critério de adjudicação seja o do mais baixo preço.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 156.º do Código dos Contratos Públicos (CCP), é exigida ao adjudicatário a prestação de uma caução, nos termos do disposto nos artigos 88.º a 91.º do CCP."
+  },
+  "6689110d10d34fe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Entidades adjudicantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entidades adjudicantes\n\nSão abrangidas pelo regime excepcional de contratação pública previsto nos artigos anteriores as entidades adjudicantes referidas no artigo 2.º do CCP."
+  },
+  "24067d1d754f18c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Aplicação subsidiária do Código dos Contratos Públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aplicação subsidiária do Código dos Contratos Públicos\n\n1 - Em tudo o que não esteja especialmente previsto nos artigos 15.º e 16.º da presente lei, é aplicável subsidiariamente, e com as devidas adaptações, o disposto no Código dos Contratos Públicos.\n\n2 - Sempre que no Código dos Contratos Públicos sejam feitas referências aos valores constantes dos artigos 19.º e 20.º do mesmo Código, deve entender-se, no que respeita aos procedimentos de formação dos contratos públicos referidos nos artigos 15.º e 16.º da presente lei, que essas remissões são feitas para os valores referidos no n.º 1 do artigo 15.º e no n.º 1 do artigo 16.º da presente lei, consoante o procedimento em causa."
+  },
+  "ceb914ef8af2f67a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime especial de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime especial de expropriação\n\n1 - Durante a vigência da presente lei, as entidades públicas na Região Autónoma da Madeira com competências nas áreas do ordenamento, das obras públicas, das acessibilidades e das comunicações podem tomar posse administrativa imediata dos bens destinados a prover as necessidades decorrentes da intempérie de 20 de Fevereiro de 2010, desde que se incluam no âmbito do artigo 2.º, com dispensa de qualquer formalidade prévia, seguindo-se sem mais diligências o estabelecido no Código das Expropriações, no que respeita à fixação da indemnização em processo litigioso.\n\n2 - Durante a vigência da presente lei, a admissão judicial de quaisquer processos relativos ao procedimento expropriativo não tem efeito suspensivo."
+  },
+  "16c7d881335ce8ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "3cfa13556004c28f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Suspensão e reposição de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Suspensão e reposição de vigência\n\n1 - É suspensa, durante o período em que vigora a presente lei:\n\na) A vigência dos artigos 18.º, 22.º, 26.º, 29.º, 30.º, 35.º, 41.º, 42.º, 43.º, 44.º, 49.º, 51.º, 56.º, 58.º, 62.º, 66.º, 68.º e 74.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro, na redacção e renumeração conferida pela Lei Orgânica n.º 1/2010, de 29 de Março;\n\nb) A vigência do artigo 4.º da Lei Orgânica n.º 1/2010, de 29 de Março.\n\n2 - São repostos em vigor, durante o período em que vigora a presente lei, os artigos 15.º, 19.º, 25.º, 30.º, 32.º, 37.º, 38.º, 39.º, 44.º, 49.º, 51.º, 55.º e 59.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro, na redacção e numeração originárias."
+  },
+  "e12b69feda48c19f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e retroage os seus efeitos ao dia 20 de Fevereiro de 2010."
+  },
+  "9ff5698af5d94083": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Prazo de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazo de vigência\n\nA presente lei vigora até 31 de Dezembro de 2013.\n\nAprovada em 20 de Maio de 2010.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 7 de Junho de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 6 de Junho de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1261e73bc5dfcd8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Suspensão e reposição de vigência",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 73.º do/a [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), publicado em 2013-09-02."
+   ],
+   "markdown": "###### Artigo 20.º — Suspensão e reposição de vigência\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 73.º do/a [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), publicado em 2013-09-02."
+  },
+  "f9502969864cef3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º-A — Execução",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 94.º do/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31."
+   ],
+   "markdown": "###### Artigo 20.º-A — Execução\n\nNa aplicação e execução da presente lei, e nomeadamente no respeitante aos limites estabelecidos pelo artigo 10.º, cabe à Administração Pública regional usar a necessária flexibilização que operacionalize e garanta o integral aproveitamento dos fundos disponibilizados, nas diversas rubricas orçamentadas, salvaguardando-se a programação anual definida e a execução dos projectos de reconstrução e recuperação decorrentes da intempérie que atingiu a Região Autónoma da Madeira em 20 de Fevereiro de 2010.\n\n> Aditado pelo/a Artigo 94.º do/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31."
+  }
+ }
+}

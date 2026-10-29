@@ -37,10 +37,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-06-01'
+version_history:
+  file: decreto-lei-141-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-01'
+    amending: pt:dre:345124:por
+    amending_title: Lei n.º 113/99; Decreto-Lei n.º 88/2015
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/141/1995/06/14/p/dre/pt/html
@@ -66,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:37:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 113/99; Decreto-Lei n.º 88/2015.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-141-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,9 +155,11 @@ O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92
 
 2 - O presente diploma não se aplica:
 
-a) À colocação no mercado de substâncias e preparados perigosos, de produtos e de equipamentos, regulada por disposições legais, salvo referência expressa em contrário;
+a) À sinalização para a colocação no mercado de substâncias e misturas perigosas, de produtos e ou equipamentos, regulada por disposições legais, salvo referência expressa em contrário;
 
 b) À sinalização utilizada para a regulamentação do tráfego.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), publicado em 2015-05-28.
 
 ###### Artigo 3.º — Definições
 
@@ -251,35 +269,25 @@ b) Relativamente aos processos de sinalização já em utilização, decorridos 
 
 ###### Artigo 11.º — Contra-ordenações
 
-1 - Constitui contra-ordenação o incumprimento, por parte do empregador, das obrigações relativas às prescrições da sinalização de segurança e de saúde nos locais de trabalho estabelecidas no presente diploma e na portaria a que se refere o artigo 4.º, bem como dos deveres de informação, formação e consulta previstos no presente diploma.
+1 - Constitui contra-ordenação muito grave a ausência ou insuficiência de sinalização:
 
-2 - As contra-ordenações previstas no número anterior são puníveis com coimas, nos seguintes termos:
+a) Em armazéns de produtos perigosos;
 
-a) De 15000$00 a 70000$00, quando o número de trabalhadores da empresa ou estabelecimento for até 20;
+b) Em recipientes ou tubagens que contenham ou transportem substâncias ou produtos perigosos;
 
-b) De 20000$00 a 100000$00, quando o número de trabalhadores da empresa ou estabelecimento for de 21 a 50;
+c) De meios de combate a incêndios em locais de trabalho onde se manipulem ou armazenem produtos inflamáveis ou explosivos.
 
-c) De 30000$00 a 130000$00, quando o número de trabalhadores da empresa ou estabelecimento for de 51 a 100;
+2 - Constitui contra-ordenação grave:
 
-d) De 50000$00 a 250000$00, quando o número de trabalhadores da empresa ou estabelecimento for superior a 100.
+a) A violação dos n.os 1 e 2 do artigo 5.º e dos artigos 8.º e 9.º;
 
-3 - Os montantes referidos no número anterior são elevados para o dobro nos seguintes casos:
+b) A ausência absoluta de sinalização de segurança e de saúde no trabalho;
 
-a) Ausência absoluta de sinalização de segurança e de saúde no trabalho;
+c) A ausência ou insuficiência de sinalização do risco de choque contra obstáculos e de quedas de pessoas ou objectos;
 
-b) Ausência ou insuficiência de sinalização de segurança e de saúde no trabalho em zonas, salas ou recintos onde se armazenem substâncias ou produtos perigosos;
+d) A ausência ou insuficiência de medidas suplementares ou de substituição que tenham em conta a situação dos trabalhadores com capacidades auditivas ou visuais diminuídas.
 
-c) Ausência ou insuficiência de sinalização de segurança e de saúde de recipientes ou tubagens que contenham ou transportem substâncias ou produtos perigosos;
-
-d) Ausência ou insuficiência de sinalização do risco de choque contra obstáculos e de quedas de objectos ou de pessoas;
-
-e) Ausência ou insuficiência de sinalização de meios de combate a incêndios em locais de trabalho onde se manipulem ou armazenem produtos inflamáveis ou explosivos;
-
-f) Ausência ou insuficiência de medidas suplementares ou de substituição que tenham em conta a especificidade dos trabalhadores com capacidades auditivas ou visuais diminuídas.
-
-4 - Para efeito da aplicação das coimas previstas nos números anteriores, considera-se o número de trabalhadores por conta de outrem e independentes que prestam em simultâneo a sua actividade na empresa ou estabelecimento.
-
-5 - Às contra-ordenações referidas é aplicável o disposto no Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.
 
 ###### Artigo 12.º — Fiscalização
 

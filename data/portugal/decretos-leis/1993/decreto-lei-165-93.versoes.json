@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274243:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c7d3d031775a1ce6",
+    "4911e43edab22ce0",
+    "4ac7fadba6d682a1",
+    "08e5ff60d918559f",
+    "0ba18524d6a2c641",
+    "3dba9f489355760e",
+    "3cedf472da646261",
+    "dff2b1e52763ce3a",
+    "7a76830098dcf93c",
+    "c386a839853f94e1",
+    "0bcf40996fa0cdec",
+    "a49fde11bd7443a8",
+    "e1857764a533b258",
+    "9bb22d397acc8b45",
+    "c5b87b612787d98b",
+    "14f9e797a00397c1",
+    "4606f9ca32ec947b",
+    "c5fc10c47e8447f8",
+    "e591be119365e6b0",
+    "2924b9353ec6ddf4"
+   ]
+  },
+  {
+   "date": "1997-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383437:por",
+     "title": "Decreto-Lei n.º 109/97",
+     "published": "1997-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/109-1997-383437"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "c7d3d031775a1ce6",
+    "4911e43edab22ce0",
+    "4ac7fadba6d682a1",
+    "08e5ff60d918559f",
+    "0ba18524d6a2c641",
+    "3dba9f489355760e",
+    "3cedf472da646261",
+    "dff2b1e52763ce3a",
+    "7a76830098dcf93c",
+    "c386a839853f94e1",
+    "0bcf40996fa0cdec",
+    "a49fde11bd7443a8",
+    "d67665c5218f213a",
+    "9bb22d397acc8b45",
+    "c5b87b612787d98b",
+    "14f9e797a00397c1",
+    "4606f9ca32ec947b",
+    "c5fc10c47e8447f8",
+    "e591be119365e6b0",
+    "2924b9353ec6ddf4"
+   ]
+  }
+ ],
+ "fragments": {
+  "c7d3d031775a1ce6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nO [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), de 2 de Fevereiro, constituiu uma das várias medidas implementadas tendo em vista a criação das condições institucionais e técnico-financeiras para promoção de habitação de custos controlados que favorecessem a diminuição das carências habitacionais dos agregados familiares de menores recursos.\n\nSe bem que tenha sido lançado este desafio à iniciativa privada, neste regime as empresas intervenientes em contratos de desenvolvimento para habitação (CDH) só podiam vender os fogos a interessados que constassem de listas organizadas pelos serviços do Instituto Nacional de Habitação ou pelos serviços municipais e que os afectassem, durante um período mínimo obrigatório de 10 anos, à sua habitação própria permanente, o que funcionou como limitação à adesão a estes programas, face ao seu diminuto apoio financeiro.\n\nAo proceder-se agora à revisão do regime jurídico de CDH por via da respectiva actualização, visa-se sobretudo garantir à iniciativa privada eventualmente associada a municípios e instituições particulares de solidariedade social, a cuja participação se amplia o âmbito de aplicação deste diploma, melhores condições para a promoção habitacional de custos controlados, eliminando os constrangimentos ainda existentes e flexibilizando o regime.\n\nPara isso, alarga-se a possibilidade de alienação do fogo para arrendamento, desde que o valor da renda não seja superior à aplicação do regime de renda condicionada, durante cinco anos, prazo mínimo dos contratos de arrendamento habitacional em regime de duração limitada, para além de se alterarem os mecanismos de venda e de se adequarem os ónus em função dos benefícios financeiros e fiscais auferidos.\n\nPretende-se, assim, que a promoção de habitação de custos controlados em regime de CDH por empresas privadas que se dediquem à construção civil se assuma como uma verdadeira alternativa para lançar no mercado habitações a um preço acessível à maioria das famílias, contribuindo para a actualização de preços.\n\nForam ouvidos a Associação Nacional de Municípios Portugueses e os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "4911e43edab22ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula a concessão de financiamentos a empresas privadas de construção civil para a construção de habitação de custos controlados ao abrigo de contratos de desenvolvimento para habitação, abrevidamente designados por CDH"
+  },
+  "4ac7fadba6d682a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\n1 - O CDH é um contrato celebrado entre as instituições financiadoras, por si só ou em associação, e as empresas privadas que se dediquem à construção civil, com vista à construção de habitação de custos controlados para venda, destinados a habitação própria ou a arrendamento para habitação.\n\n2 - Podem também intervir no CDH outras entidades contratualmente autorizadas, sem prejuízo de a responsabilidade pela execução do contrato caber sempre à empresa construtora."
+  },
+  "08e5ff60d918559f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Instituições financiadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instituições financiadoras\n\nOs financiamentos referidos no artigo 1.º podem ser concedidos pelo Instituto Nacional de Habitação, ou por qualquer instituição de crédito legalmente autorizada para os conceder."
+  },
+  "0ba18524d6a2c641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n1 - Podem ter acesso aos financiamentos as empresas que reúnam as seguintes condições:\n\na) Disporem de alvará adequado ao valor do contrato e à natureza da obra;\n\nb) Apresentarem uma sólida estrutura financeira;\n\nc) Obedecerem os projectos aos parâmetros e valores legalmente definidos para a habitação de custos controlados;\n\nd) Terem os respectivos projectos sido aprovados pelo município competente;\n\ne) Comprovarem, através de certidões, a não existência de dívidas fiscais e de dívidas à segurança social;\n\nf) Demonstrarem a viabilidade de comercialização das habitações;\n\ng) Terem cumprido ou estarem a cumprir pontualmente as obrigações decorrentes de anteriores financiamentos de idêntica natureza.\n\n2 - No caso de CDH a celebrar com grupos de empresas, têm de ser definidas as responsabilidades de cada uma pela qualidade técnica da construção e pelo conjunto das obrigações contratuais, designadamente quanto ao pontual cumprimento dos objectivos parciais e globais estabelecidos."
+  },
+  "3dba9f489355760e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Parâmetros e valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Parâmetros e valores\n\nAs habitações construídas com financiamentos concedidos ao abrigo do presente diploma estão sujeitas aos parâmetros e valores em vigor para a habitação de custos controlados, nomeadamente quanto aos custos de construção por metro quadrado e aos valores máximos de venda, ou outros contratualmente estabelecidos."
+  },
+  "3cedf472da646261": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições dos financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições dos financiamentos\n\n1 - Os financiamentos a conceder ao abrigo do presente diploma estão sujeitos às seguintes condições:\n\na) O montante máximo é fixado pelas instituições financiadoras até 80% do valor global do empreendimento, determinado de acordo com os preços de venda em vigor para a habitação de custos controlados;\n\nb) O prazo máximo de financiamento é de três anos, eventualmente prorrogável por mais dois anos;\n\nc) Os financiamentos beneficiam de uma bonificação, a suportar pelo Estado ou pelos orçamentos das Regiões Autónomas, nos casos referentes a fogos situados nas Regiões, até ao limite de um terço da taxa de referência legalmente fixada para as linhas de crédito bonificado ou da taxa efectivamente cobrada, se foi inferior à taxa de referência;\n\nd) A amortização dos financiamentos é efectuada por contrapartida da comercialização das habitações, sem prejuízo de, em qualquer caso, se dever concluir no termo do prazo fixado na alínea b).\n\n2 - A bonificação referida na alínea c) do número anterior obedece aos termos e processo de concessão legalmente estabelecidos para os financiamentos de programas de habitação de custos controlados."
+  },
+  "dff2b1e52763ce3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação dos pedidos\n\n1 - O pedido de financiamento é apresentado à instituição financiadora devidamente instruído com os elementos necessários à sua apreciação, tendo em conta, nomeadamente, o cumprimento do disposto nos artigos 4.º e 5.º\n\n2 - Quando a dimensão do empreendimento projectado e o volume de financiamento assim o justifiquem, a instituição financiadora pode decidir da eventual necessidade de celebração de mais de um CDH entre as mesmas partes e temporalmente sucessivos.\n\n3 - No caso de haver lugar à celebração de mais de um CDH devem as partes contratantes definir, por protocolo, as respectivas condições quanto aos financiamentos e ao faseamento dos empreendimentos."
+  },
+  "7a76830098dcf93c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Intervenção do INH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Intervenção do INH\n\nQuando a instituição financiadora não seja o INH e em caso de aceitação do pedido de financiamento, o respectivo processo é canalizado para aquele Instituto para os efeitos do disposto no [Decreto-Lei n.º 150-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1991-478048), de 22 de Abril, em relação à atribuição de bonificações."
+  },
+  "c386a839853f94e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Pedido de benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de benefícios fiscais\n\nCompete ao INH a coordenação e envio para a Direcção-Geral das Contribuições e Impostos das solicitações relativas aos benefícios fiscais aplicáveis aos CDH previstos no [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, após a aprovação do pedido, nos termos do disposto no artigo anterior."
+  },
+  "0bcf40996fa0cdec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Destino dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destino dos fogos\n\nAs habitações construídas no âmbito de CDH podem ser destinadas aos seguintes fins:\n\na) Venda para habitação própria permanente dos adquirentes;\n\nb) Venda para arrendamento habitacional em regime de renda condicionada;\n\nc) Venda a municípios ou a instituições particulares de solidariedade social (IPSS) para arrendamento em regime de renda apoiada."
+  },
+  "a49fde11bd7443a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Comercialização dos fogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comercialização dos fogos\n\n1 - Cabe à empresa promotora, por si ou através de empresa de mediação imobiliária devidamente contratada, promover a comercialização dos fogos construídos ao abrigo de CDH, devendo comunicar à instituição financeira e ao INH a data marcada para o início da comercialização com uma antecedência mínima de 30 dias em relação a essa data, solicitando a aprovação dos respectivos preços máximos, a qual deverá ser decidida no prazo de 15 dias.\n\n2 - Não pode ser objecto de comercialização qualquer fracção autónoma do imóvel sem prévia constituição da propriedade horizontal.\n\n3 - A divulgação das condições de comercialização dos fogos, respectivas tipologias e valores de venda, bem como os locais e as entidades junto das quais os interessados na aquisição se podem inscrever, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações."
+  },
+  "e1857764a533b258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Intransmissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Intransmissibilidade\n\n1 - Os fogos adquiridos ao abrigo do disposto nas alíneas a) e b) do artigo 10.º ficam sujeitos a um regime de intransmissibilidade pelo período de cinco anos subsequente à data da respectiva aquisição ou emissão da licença de utilização, caso esta seja posterior.\n\n2 - Nos fogos destinados a arrendamento o valor da renda não pode exceder, durante o prazo de cinco anos, o seu valor calculado em regime de renda condicionada.\n\n3 - Os regimes de intransmissibilidade e de arrendamento em regime de renda condicionada referidos nos números anteriores estão sujeitos a registo e cessam automaticamente, independentemente do referido prazo, com a morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge.\n\n4 - Se o proprietário pretender alienar o fogo antes do decurso do prazo referido no n.º 1, pode solicitar ao INH o levantamento do regime de intransmissibilidade, reembolsando a bonificação relativa à respectiva fracção, nos termos a definir em portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n5 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda de fogo perante documento emitido, para o efeito, pelo INH.\n\n6 - Em caso de execução da garantia hipotecária da entidade financiadora, cessa a sujeição aos valores de venda máximos previstos no presente diploma.\n\n7 - O disposto nos números anteriores aplica-se igualmente aos casos previstos na alínea c) do artigo 10.º, sem prejuízo de outros ónus que porventura lhes sejam aplicáveis por efeito de outras disposições legais."
+  },
+  "9bb22d397acc8b45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Garantia dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Garantia dos empréstimos\n\nOs financiamentos são garantidos por hipoteca dos terrenos e das edificações construídas ao abrigo do presente diploma, sem prejuízo de outras garantias que as instituições financiadoras possam exigir."
+  },
+  "c5b87b612787d98b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contrato-promessa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato-promessa\n\n1 - A empresa pode, nos contratos-promessa de compra e venda a celebrar, receber a título de sinal e início de pagamento a importância correspondente à fracção do valor do fogo que não é financiada.\n\n2 - As importâncias recebidas a título de sinal que excedam o montante referido no número anterior são obrigatoriamente afectas à imediata amortização dos financiamentos em dívida.\n\n3 - O INH pode definir cláusulas obrigatórias a inserir nos contratos-promessa a celebrar, no âmbito da comercialização dos fogos, tendo em vista garantir a execução do presente diploma."
+  },
+  "14f9e797a00397c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Opção de compra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Opção de compra\n\n1 - Os municípios ou as IPSS podem assegurar a aquisição de fogos construídos ao abrigo do presente diploma, podendo para o efeito ser partes outorgantes do CDH, estabelecendo as condições dessa aquisição no respectivo contrato.\n\n2 - Sem prejuízo do disposto no número anterior, o CDH também pode prever a opção de compra por outras entidades de fogos destinados a venda para arrendamento habitacional."
+  },
+  "4606f9ca32ec947b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Alteração do fim do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração do fim do contrato\n\n1 - A aplicação do financiamento a fim diverso daquele para o qual tenha sido contratado ou a não utilização dos terrenos e edificações para os fins para que tenham sido financiados determina o reembolso ao Estado, através da instituição financiadora, do montante das bonificações recebidas, acrescido de 20%, sem prejuízo de outras sanções legais igualmente aplicáveis.\n\n2 - Salvo o disposto no n.º 4 do artigo 12.º, são nulos os contratos pelos quais os adquirentes ou arrendatários afectem os fogos construídos ao abrigo de CDH a fins diversos dos previstos no presente diploma, sem prejuízo de outras sanções legais que ao caso caibam."
+  },
+  "c5fc10c47e8447f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Equipamento complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Equipamento complementar\n\nAs empresas promotoras de empreendimentos em regime de CDH podem solicitar financiamento adicional para construção de equipamento complementar, desde que devidamente Justificada a sua afectação ao empreendimento a que se destina, nos termos a definir por portaria do Ministro das Obras Públicas, Transportes e Comunicações, não sendo, contudo, passível de qualquer bonificação."
+  },
+  "e591be119365e6b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - Constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, a comercialização de fogos a preços superiores aos que forem estabelecidos nos termos do artigo 11.º ou a prática de renda em violação do regime de renda condicionada aplicável nos termos do n.º 2 do artigo 12.º\n\n2 - Sem prejuízo do disposto no número anterior, a violação dos preços máximos implica a suspensão, por um ano, do alvará da empresa promotora responsável pelo CDH ou da mediadora imobiliária.\n\n3 - A violação do disposto no artigo 14.º implica para a empresa a perda da bonificação respectiva, sem prejuízo da demais responsabilidade contratual ou outra em que incorra.\n\n4 - O incumprimento do CDH pela empresa promotora implica a suspensão do respectivo alvará até que seja regularizada a situação."
+  },
+  "2924b9353ec6ddf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\n1 - É revogado o [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), de 1 de Fevereiro, com excepção do artigo 15.º, na parte em que mantém em vigor o artigo 8.º, n.º 1, alíneas b) a d), e do artigo 17.º, n.º 3 a 5, do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho.\n\n2 - As remissões efectuadas para o [Decreto-Lei n.º 39/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1989-610412), de 1 de Fevereiro, consideram-se feitas para o presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 26 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "d67665c5218f213a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regimes de inalienabilidade e de renda condicionada",
+   "in_force_from": "1997-05-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437), publicado em 1997-05-08."
+   ],
+   "markdown": "###### Artigo 12.º — Regimes de inalienabilidade e de renda condicionada\n\n1 - Os fogos adquiridos ao abrigo do disposto nas alíneas a) e b) do artigo 10.º ficam sujeitos ao regime legal de inalienabilidade previsto para as habitações a custos controlados para venda.\n\n2 - Nos fogos destinados a arrendamento o valor da renda não pode exceder, durante o prazo de cinco anos, o seu valor calculado em regime de renda condicionada.\n\n3 - O regime de arrendamento referido no número anterior está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge.\n\n4 - Em caso de execução da garantia hipotecária da entidade financiadora, cessa a sujeição aos valores de venda máximos previstos no presente diploma.\n\n5 - O disposto nos números anteriores aplica-se igualmente aos casos previstos na alínea c) do artigo 10.º, sem prejuízo de outros ónus que porventura lhes sejam aplicáveis por efeito de outras disposições legais.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 109/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1997-383437), publicado em 1997-05-08."
+  }
+ }
+}

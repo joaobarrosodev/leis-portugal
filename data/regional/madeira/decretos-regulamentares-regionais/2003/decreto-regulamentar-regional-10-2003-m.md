@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-07-13'
+version_history:
+  file: decreto-regulamentar-regional-10-2003-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-07-13'
+    amending: pt:dre:236769:por
+    amending_title: Decreto Regulamentar Regional n.º 28/2005/M
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/10/2003/03/13/m/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    28/2005/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2003/decreto-regulamentar-regional-10-2003-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -242,7 +257,7 @@ Os contratos-programa, para além de outras que resultem da legislação vigente
 
 a) Compromisso do dono da obra em relação ao integral cumprimento do projecto aprovado;
 
-b) Indicação de que o dono da obra destinada à instalação da biblioteca pública é o município, pertencendo-lhe a propriedade da mesma, sem prejuízo do direito de acompanhamento e fiscalização reconhecido às outras entidades financiadoras;
+b) Indicação de que o dono da obra destinada à instalação da biblioteca pública é o município; ou, não o sendo, indicação de que o município é o proprietário da biblioteca pública, quando concluída, sem prejuízo do direito de acompanhamento e fiscalização reconhecido às outras entidades financiadoras;
 
 c) Compromisso do município relativamente ao cumprimento dos requisitos previstos no programa base da RRBP e das orientações programáticas aprovadas pela entidade competente;
 
@@ -259,6 +274,8 @@ h) Os motivos de rescisão do contrato e os mecanismos de restituição de verba
 i) As questões relacionadas com o desenvolvimento da biblioteca, com o provimento do pessoal qualificado, com a informatização, com a aquisição dos fundos documentais iniciais e de equipamentos;
 
 j) A forma convencionada entre as partes de dirimir litígios.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 28/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2005-236769), publicado em 2005-07-12.
 
 ###### Artigo 15.º — Rede informática
 

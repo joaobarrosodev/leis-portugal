@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382608:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-05-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1ae3b6a1ffc7aa49"
+   ]
+  },
+  {
+   "date": "2002-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153353:por",
+     "title": "Decreto Regulamentar Regional n.º 15/2002/A",
+     "published": "2002-05-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/15-2002-153353"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "971256fa61c8ce0f",
+    "6a3bb1068a62a057",
+    "477cd0d69545fe00",
+    "9e94946ccc0d9c79",
+    "c3643d778d27a0c1",
+    "fa20e2f374939c79",
+    "30a3a61de0d194ca"
+   ]
+  }
+ ],
+ "fragments": {
+  "1ae3b6a1ffc7aa49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cometeu a Assembleia Regional ao Governo, no artigo 12.º do diploma sobre a simbologia heráldica dos Açores, o encargo de aprovar, por decreto, a versão autêntica desses símbolos e do hino.\n\nEstão em curso trabalhos para se obter uma versão aperfeiçoada do desenho do brasão de armas e do selo da Região. É, porém, desde já possível avançar com o que diz respeito à bandeira e à música do hino. Aproveita-se para esclarecer alguns aspectos relacionados com o uso da bandeira.\n\nNestes termos, o Governo da Região Autónoma dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º É aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma.\n\nArt. 2.º - 1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.\n\n2 - Havendo dois mastros, a Bandeira Nacional ocupará o da direita e a dos Açores o da esquerda; havendo três mastros, a Bandeira Nacional ocupará o do centro e a dos Açores o da direita; havendo mais de três mastros, a Bandeira Nacional ocupará o primeiro da direita e a dos Açores o seguinte.\n\nArt. 3.º - 1 - A bandeira será hasteada nos domingos e dias feriados.\n\n2 - A bandeira será hasteada desde manhã ao pôr do Sol, excepto nos dias feriados de gala, em que se manterá até à meia-noite, nos edifícios que forem iluminados.\n\nArt. 4.º A bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro.\n\nArt. 5.º É aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma.\n\nArt. 6.º Este diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.\n\nAprovado pelo Governo Regional em 4 de Abril de 1979.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 10 de Abril de 1979.\n\nPublique-se.\n\nO Ministro da República, Henrique Afonso da Silva Horta.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11400/09810982.pdf)"
+  },
+  "971256fa61c8ce0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cometeu a Assembleia Regional ao Governo, no artigo 12.º do diploma sobre a simbologia heráldica dos Açores, o encargo de aprovar, por decreto, a versão autêntica desses símbolos e do hino.\n\nEstão em curso trabalhos para se obter uma versão aperfeiçoada do desenho do brasão de armas e do selo da Região. É, porém, desde já possível avançar com o que diz respeito à bandeira e à música do hino. Aproveita-se para esclarecer alguns aspectos relacionados com o uso da bandeira.\n\nNestes termos, o Governo da Região Autónoma dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "6a3bb1068a62a057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma."
+  },
+  "477cd0d69545fe00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.\n\n2 - Havendo dois mastros, a Bandeira Nacional ocupará o da direita e a dos Açores o da esquerda; havendo três mastros, a Bandeira Nacional ocupará o do centro e a dos Açores o da direita; havendo mais de três mastros, a Bandeira Nacional ocupará o primeiro da direita e a dos Açores o seguinte."
+  },
+  "9e94946ccc0d9c79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2002-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 15/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2002-153353), publicado em 2002-05-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A bandeira estará obrigatoriamente hasteada aos domingos e dias feriados desde manhã ao pôr do Sol.\n\n2 - Havendo condições adequadas de iluminação, a bandeira poderá manter-se hasteada desde o final até ao início do período de expediente normal dos serviços dos dias úteis imediatamente anteriores e posteriores aos domingos e feriados, respectivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 15/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2002-153353), publicado em 2002-05-31."
+  },
+  "c3643d778d27a0c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro."
+  },
+  "fa20e2f374939c79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma."
+  },
+  "30a3a61de0d194ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEste diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.\n\nAprovado pelo Governo Regional em 4 de Abril de 1979.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 10 de Abril de 1979.\n\nPublique-se.\n\nO Ministro da República, Henrique Afonso da Silva Horta.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11400/09810982.pdf)"
+  }
+ }
+}

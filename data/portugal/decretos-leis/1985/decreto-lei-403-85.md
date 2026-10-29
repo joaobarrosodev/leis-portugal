@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-06-03'
+version_history:
+  file: decreto-lei-403-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-06-03'
+    amending: pt:dre:226846:por
+    amending_title: Decreto-Lei n.º 126/86
+    changes:
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:07:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-403-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,9 +141,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º A gestão do Parque Nacional da Peneda-Gerês, adiante designado por PNPG, criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, e posteriormente alterado pelo [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, passa a competir ao Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN), pelo que as competências atribuídas ao Ministério da Agricultura por aqueles diplomas são transferidas para o membro do Governo que tenha a seu cargo a área do ambiente.
+###### Artigo 1.º
 
-Art. 2.º - 1 - O pessoal afecto ao PNPG, constante do mapa anexo ao presente diploma, transita para o SNPRCN sem alteração da sua actual situação jurídico-funcional.
+A gestão do Parque Nacional da Peneda-Gerês, adiante designado por PNPG, criado pelo [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, e posteriormente alterado pelo [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, passa a competir ao Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN), pelo que as competências atribuídas ao Ministério da Agricultura por aqueles diplomas são transferidas para o membro do Governo que tenha a seu cargo a área do ambiente.
+
+###### Artigo 2.º
+
+1 - O pessoal afecto ao PNPG, constante do mapa anexo ao presente diploma, transita para o SNPRCN sem alteração da sua actual situação jurídico-funcional.
 
 2 - A integração do pessoal referido no número anterior para as categorias previstas ou a prever no quadro de pessoal constante da lei orgânica do SNPRCN será efectuada de acordo com as seguintes regras:
 
@@ -142,15 +161,25 @@ b) Para a categoria correspondente, remunerada com a mesma letra de vencimento o
 
 5 - A partir da data da publicação da lei orgânica referida no número anterior operar-se-ão as correspondentes reduções de lugares nos quadros de pessoal do Ministério da Agricultura.
 
-Art. 3.º Transitam para o património do SNPRCN a universalidade dos bens, direitos, obrigações, activos e passivos que constituem, à data da publicação deste diploma, o património, do PNPG.
+###### Artigo 3.º
 
-Art. 4.º - 1 - Serão transferidas para o orçamento do SNPRCN as verbas expressamente inscritas no Orçamento do Estado destinadas ou a destinar ao PNPG.
+Transitam para o património do SNPRCN a universalidade dos bens, direitos, obrigações, activos e passivos que constituem, à data da publicação deste diploma, o património, do PNPG.
+
+###### Artigo 4.º
+
+1 - Serão transferidas para o orçamento do SNPRCN as verbas expressamente inscritas no Orçamento do Estado destinadas ou a destinar ao PNPG.
 
 2 - Ficam os Ministros das Finanças e do Plano e da Agricultura e o membro do Governo que tenha a seu cargo a área do ambiente autorizados a proceder às alterações orçamentais decorrentes da aplicação deste decreto-lei.
 
-Art. 5.º A área correspondente ao núcleo 3, delimitado no anexo ao [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, continua afecta ao Ministério da Agricultura, através da Direcção-Geral das Florestas.
+###### Artigo 5.º
 
-Art. 6.º São revogados os artigos 1.º do [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, 4.º do [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, e bem assim todas as disposições dos referidos diplomas que contrariem o disposto no presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 126/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1986-226846), publicado em 1986-06-02.
+
+###### Artigo 6.º
+
+São revogados os artigos 1.º do [Decreto-Lei n.º 519-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c-1979-510044), de 28 de Dezembro, 4.º do [Decreto n.º 187/71](https://diariodarepublica.pt/dr/detalhe/decreto/187-1971-644352), de 8 de Maio, e bem assim todas as disposições dos referidos diplomas que contrariem o disposto no presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Sores - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Álvaro Roque de Pinho Bissaia Barreto.
 

@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-01-20'
+version_history:
+  file: decreto-lei-38-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-20'
+    amending: pt:dre:544382:por
+    amending_title: Decreto-Lei n.º 12/2012
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:45:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 12/2012. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-38-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,9 +128,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Poderão os funcionários do quadro do pessoal operário e auxiliar da Secretaria-Geral da Presidência da República em serviço na residência oficial do Presidente da República prestar, sempre que estritamente necessário, trabalho extraordinário para além do limite de horas fixado no n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não podendo, neste caso, a remuneração auferida exceder 85% da retribuição base correspondente auferida durante o período normal de trabalho.
+###### Artigo 1.º
 
-Art. 2.º O regime estabelecido no número anterior é extensivo, nos mesmos precisos termos, ao pessoal de idêntico quadro da Secretaria-Geral da Presidência do Conselho de Ministros que prestar serviço na residência oficial do Primeiro-Ministro.
+Poderão os funcionários do quadro do pessoal operário e auxiliar da Secretaria-Geral da Presidência da República em serviço na residência oficial do Presidente da República prestar, sempre que estritamente necessário, trabalho extraordinário para além do limite de horas fixado no n.º 1 do artigo 12.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não podendo, neste caso, a remuneração auferida exceder 85% da retribuição base correspondente auferida durante o período normal de trabalho.
+
+###### Artigo 2.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2012-544382), publicado em 2012-01-20.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 

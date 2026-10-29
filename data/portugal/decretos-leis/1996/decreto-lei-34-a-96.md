@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-34-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:669513:por
+    amending_title: Decreto-Lei n.º 90/2011
+    changes:
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/34-a/1996/04/24/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:47:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-34-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -280,7 +295,9 @@ a) Às instituições que no âmbito da emissão de programas de american deposi
 
 b) Às centrais internacionais de liquidação, relativamente às acções da PT registadas nas contas de valores mobiliários abertas em seu nome em instituições de custódia filiadas na Central de Valores Mobiliários.
 
-4 - A PARTEST - Participações do Estado, SGPS, S. A., é equiparada ao Estado para efeitos do disposto no n.º 3 do artigo 384.º do Código das Sociedades Comerciais.
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
 ###### Artigo 10.º
 

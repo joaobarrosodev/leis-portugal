@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-06-28'
+version_history:
+  file: portaria-130-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-28'
+    amending: pt:dre:335223:por
+    amending_title: Portaria n.º 371/2010
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/130/2010/03/01/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:45:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 371/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-130-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,9 +171,11 @@ O número de créditos, segundo o sistema europeu de transferência e acumulaç�
 
 ###### Artigo 6.º — Número máximo de alunos
 
-1 - O número máximo de novos alunos a admitir anualmente não pode exceder 30.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder 75.
 
-2 - A frequência global do curso não pode exceder 45 alunos.
+2 - A frequência global do curso não pode exceder 110 alunos.
+
+> Alterado pelo/a Artigo único do/a [Portaria n.º 371/2010](https://diariodarepublica.pt/dr/detalhe/portaria/371-2010-335223), publicado em 2010-06-23.
 
 ###### Artigo 7.º — Condições de acesso
 

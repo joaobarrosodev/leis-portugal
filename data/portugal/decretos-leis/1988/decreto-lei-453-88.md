@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-10-05'
+version_history:
+  file: decreto-lei-453-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-10-05'
+    amending: pt:dre:241227:por
+    amending_title: Decreto-Lei n.º 158/96; Lei n.º 127-B/97; Lei n.º 64-A/2008; Lei n.º 75-A/2014
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:45:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 158/96; Lei n.º 127-B/97;
+    Lei n.º 64-A/2008; Lei n.º 75-A/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-453-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -258,6 +274,16 @@ b) As aplicações expressamente previstas no artigo 7.º da [Lei n.º 84/88](ht
 
 c) As referidas no artigo 4.º do presente decreto-lei, nos termos aí previstos.
 
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) As decorrentes de contratos relativos à montagem de operações de alienação e de oferta pública de subscrição de acções, à tomada firme e respectiva colocação e a demais operações associadas, no âmbito da reprivatização ou de outras alienações de participações sociais, por entes públicos;
+
+g) As decorrentes da amortização de dívida pública.
+
+h) As resultantes de quaisquer procedimentos de fiscalização prévia ou sucessiva pelo Tribunal de Contas que tenham como objecto o Fundo de Regularização da Dívida Pública.
+
 3 - As receitas a que se referem as alíneas b) e c) do n.º 1 do presente artigo podem ser aplicadas até ao máximo de 20% no reequilíbrio financeiro das empresas do sector público com viabilidade económica comprovada, sendo os respectivos títulos transferidos para a Direcção-Geral do Tesouro.
 
 4 - As aplicações que se destinem ao reequilíbrio financeiro do sector empresarial do Estado, mediante o reforço de capitais estatutários ou sociais, poderão revestir a forma de acções, fundos consignados, nos termos do [Decreto-Lei n.º 427/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1986-210827), de 29 de Dezembro, títulos de participação, previstos no [Decreto-Lei n.º 407/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1986-221291), de 6 de Dezembro, ou quaisquer outras que sejam consideradas como capitais próprios ou quase próprios.
@@ -265,6 +291,8 @@ c) As referidas no artigo 4.º do presente decreto-lei, nos termos aí previstos
 5 - Sempre que as aplicações respeitantes a receitas decorrentes de alienações ao abrigo da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781) correspondam à aquisição de dívida pública de qualquer espécie, deve o Fundo diligenciar, de imediato, para que a Direcção-Geral do Tesouro ou a Junta do Crédito Público procedam ao abatimento definitivo da dívida, mediante anulação, conforme estabelecem os artigos 17.º e 21.º do Decreto n.º 43453.
 
 6 - Em todas as outras situações de aquisição de dívida pública deve o Fundo diligenciar para que se proceda, de igual modo, ao abatimento da dívida, podendo esta, porém, não ser anulada, conforme prevê o artigo 7.º do Decreto n.º 43453.
+
+> Alterado pelo/a [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227) e [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563) e [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) e [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), publicado em 2014-09-30.
 
 ###### Artigo 4.º — Liquidação do ex-Fundo de Compensação
 
@@ -290,19 +318,9 @@ c) No reforço do capital de instituições financeiras.
 
 ###### Artigo 6.º — Órgãos e serviços
 
-1 - São órgãos do Fundo:
+A gestão do Fundo cabe ao Instituto de Gestão do Crédito Público.
 
-a) O presidente, que será, por inerência, o presidente da Junta do Crédito Público;
-
-b) O conselho consultivo, constituído por sete membros, em representação do Banco de Portugal, da Direcção-Geral do Tesouro, da Direcção-Geral da Junta do Crédito Público, do Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas, de uma das bolsas de valores, do Instituto de Seguros de Portugal e da Associação Portuguesa de Bancos, e pelo presidente do Fundo, que também preside a este conselho.
-
-2 - O Fundo não disporá de pessoal próprio e funcionará junto da Junta do Crédito Público, à qual compete prestar todo o apoio necessário ao cabal desempenho das suas atribuições.
-
-3 - Os membros do conselho consultivo não têm remuneração.
-
-4 - Os membros do conselho consultivo são nomeados por despacho do Ministro das Finanças.
-
-5 - O presidente do Fundo é, por inerência, membro do Conselho Nacional das Bolsas de Valores.
+> Alterado pelo/a [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227) e [Lei n.º 127-B/97](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563) e [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747) e [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), publicado em 2014-09-30.
 
 ###### Artigo 7.º — Gestão orçamental e patrimonial
 

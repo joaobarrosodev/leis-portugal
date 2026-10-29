@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-04-11'
+version_history:
+  file: decreto-legislativo-regional-21-2003-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-04-11'
+    amending: pt:dre:25343993:por
+    amending_title: Decreto Legislativo Regional n.º 3/2014/M
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21/2003/08/13/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    3/2014/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2003/decreto-legislativo-regional-21-2003-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,7 +209,11 @@ A estrutura material das insígnias será descrita no regulamento das insígnias
 
 ###### Artigo 8.º — Concessão
 
-A concessão das insígnias é feita mediante deliberação do Conselho do Governo Regional assumindo a forma de resolução, por iniciativa do próprio Conselho, do Presidente do Governo Regional, do Vice-Presidente do Governo Regional, de qualquer secretário regional ou de qualquer deputado à Assembleia Legislativa Regional.
+1 - A concessão das insígnias é feita mediante deliberação do Conselho do Governo Regional assumindo a forma de resolução, por iniciativa do próprio Conselho, do Presidente do Governo Regional, do Vice-Presidente do Governo Regional, de qualquer secretário regional ou de qualquer deputado à Assembleia Legislativa da Região Autónoma da Madeira.
+
+2 - O Governo Regional publicará e atualizará sistematicamente a listagem de todos quantos sejam, e já foram, homenageados com as insígnias honoríficas regionais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2014-25343993), publicado em 2014-04-10.
 
 ###### Artigo 9.º — Pessoas colectivas
 

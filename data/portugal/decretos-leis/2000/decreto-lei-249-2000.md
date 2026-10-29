@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-11-13'
+version_history:
+  file: decreto-lei-249-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-11-13'
+    amending: pt:dre:595557:por
+    amending_title: Decreto-Lei n.º 286/2001
+    changes:
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/249/2000/10/13/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 286/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-249-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -276,17 +291,19 @@ A fiscalização do cumprimento das disposições do presente diploma é efectua
 
 1 - As infracções ao disposto no presente diploma constituem contra-ordenações, sancionadas com as seguintes coimas:
 
-a) De 10000$00 a 50000$00, aplicada por cada passageiro transportado em infracção ao disposto no n.º 3 do artigo 8.º;
+a) De (euro) 50 a (euro) 250, aplicada por cada passageiro transportado em infracção ao disposto no n.º 3 do artigo 8.º;
 
-b) De 250000$00 a 750000$00 a falta de autorização especial de circulação a que se refere o artigo 15.º;
+b) De (euro) 1250 a (euro) 3750, a falta de autorização especial de circulação a que se refere o artigo 15.º;
 
-c) De 100000$00 a 500000$00 a circulação de comboio turístico em percurso não autorizado;
+c) De (euro) 500 a (euro) 2500, a circulação de comboio turístico em percurso não autorizado;
 
-d) De 100000$00 a 500000$00 a infracção ao disposto na alínea c) do artigo 13.º
+d) De (euro) 500 a (euro) 2500, a infracção ao disposto nas alíneas c) e d) do artigo 13.º
 
 2 - A infracção ao disposto no artigo 12.º é sancionada nos termos do artigo 27.º, n.º 3, alínea b), do Código da Estrada.
 
 3 - Nas contra-ordenações previstas no presente diploma a negligência é sempre sancionada.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 286/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2001-595557), publicado em 2001-11-08.
 
 ###### Artigo 18.º — Processamento das contra-ordenações
 

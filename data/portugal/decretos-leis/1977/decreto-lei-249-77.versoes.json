@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:253436:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8e534dc430429e46"
+   ]
+  },
+  {
+   "date": "1997-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571071:por",
+     "title": "Decreto-Lei n.º 36/97",
+     "published": "1997-01-31",
+     "dre_path": "/dr/detalhe/decreto-lei/36-1997-571071"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "e090d2d529075978",
+    "1269ba52bee90198",
+    "f45ea93fb2e55516",
+    "155d416695806e73",
+    "b06fbc8afad92d64",
+    "9c0a8ceb29e3fac7",
+    "e0731d0d8300a289",
+    "23e891b17e2994a7",
+    "1562a8929940463f",
+    "fabc7e413a7b5d8a"
+   ]
+  }
+ ],
+ "fragments": {
+  "8e534dc430429e46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nA independência das ex-colónias impõe que se regule a forma de ingresso nos livros do registo civil português dos actos de registo civil anteriormente lavrados nesses territórios.\n\nPara além disso, o considerável aumento do movimento da Conservatória dos Registos Centrais, nomeadamente no que respeita a problemas de nacionalidade, aconselha a simplificação do regime de actualização do respectivo quadro de pessoal.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1. Os actos de registo civil ou de registo paroquial com eficácia civil, respeitantes a cidadãos portugueses, lavrados nas ex-colónias podem ingressar nos livros do registo civil português, oficialmente, nas condições que vierem a ser estabelecidas por despacho do Ministro da Justiça ou a requerimento dos interessados com base no assento original.\n\n2. Nos casos de omissão do assento ou em que não seja viável obter a certidão do assento original com a brevidade normal, podem os interessados recorrer aos meios previstos no Código do Registo Civil para suprimento de omissão de registo.\n\n3. Para os fins do disposto no número anterior, quando for necessário instaurar processo de justificação judicial, não são aplicáveis os n.os 1, alínea b), 2, 3 e 4 do artigo 318.º do Código do Registo Civil.\n\n4. No processo de inscrição tardia de nascimento, a certidão de casamento dos pais do registando, quando celebrado nas ex-colónias, pode ser substituída por prova testemunhal.\n\n5. Na inscrição de nascimento, quando não seja viável obter certidão do respectivo assento lavrado nas ex-colónias, a intervenção de um ou de ambos os pais, para o efeito da menção de filiação, pode ser substituída pela apresentação do bilhete de identidade, cédula pessoal ou certidão do registo de casamento do registando, desde que deles conste essa filiação.\n\nArt. 2.º Para o ingresso previsto no artigo anterior é exclusivamente competente a Conservatória dos Registos Centrais, salvo quanto aos registos já requeridos.\n\nArt. 3.º O registo previsto no artigo 1.º e os actos, documentos e processos a ele respeitantes são isentos de selos e emolumentos.\n\nArt. 4.º O disposto nos n.os 2 a 5 do artigo 1.º e nos artigos 2.º e 3.º pode ser aplicável a território ainda sob administração portuguesa, mediante despacho do Ministro da Justiça.\n\nArt. 5.º São ineficazes os averbamentos de cancelamento exarados nos assentos de registo civil por efeito do seu ingresso no registo civil dos antigos territórios ultramarinos, devendo a ineficácia ser averbada, oficiosamente, pelo funcionário competente.\n\nArt. 6.º Na Conservatória dos Registos Centrais é criado mais um lugar de conservador-adjunto e um lugar de telefonista com a categoria da letra S, que fica integrado no quadro de pessoal auxiliar.\n\nArt. 7.º Aos conservadores-adjuntos compete coadjuvar o conservador, que, nas suas faltas e impedimentos, é substituído pelo conservador-adjunto que o director-geral dos Registos e do Notariado designar ou, na falta de designação, pelo mais antigo.\n\nArt. 8.º O quadro auxiliar da Conservatória dos Registos Centrais pode ser alterado por portaria do Ministro da Justiça, mediante proposta do director-geral dos Registos e do Notariado.\n\nArt. 9.º É revogado o n.º 3 do artigo 9.º do Código do Registo Civil.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos.\n\nPromulgado em 31 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "e090d2d529075978": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nA independência das ex-colónias impõe que se regule a forma de ingresso nos livros do registo civil português dos actos de registo civil anteriormente lavrados nesses territórios.\n\nPara além disso, o considerável aumento do movimento da Conservatória dos Registos Centrais, nomeadamente no que respeita a problemas de nacionalidade, aconselha a simplificação do regime de actualização do respectivo quadro de pessoal.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "1269ba52bee90198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os actos de registo civil ou de registo paroquial com eficácia civil, respeitantes a cidadãos portugueses, lavrados nas ex-colónias podem ingressar nos livros do registo civil português, oficialmente, nas condições que vierem a ser estabelecidas por despacho do Ministro da Justiça ou a requerimento dos interessados com base no assento original.\n\n2. Nos casos de omissão do assento ou em que não seja viável obter a certidão do assento original com a brevidade normal, podem os interessados recorrer aos meios previstos no Código do Registo Civil para suprimento de omissão de registo.\n\n3. Para os fins do disposto no número anterior, quando for necessário instaurar processo de justificação judicial, não são aplicáveis os n.os 1, alínea b), 2, 3 e 4 do artigo 318.º do Código do Registo Civil.\n\n4. No processo de inscrição tardia de nascimento, a certidão de casamento dos pais do registando, quando celebrado nas ex-colónias, pode ser substituída por prova testemunhal.\n\n5. Na inscrição de nascimento, quando não seja viável obter certidão do respectivo assento lavrado nas ex-colónias, a intervenção de um ou de ambos os pais, para o efeito da menção de filiação, pode ser substituída pela apresentação do bilhete de identidade, cédula pessoal ou certidão do registo de casamento do registando, desde que deles conste essa filiação."
+  },
+  "f45ea93fb2e55516": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1997-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1997-571071), publicado em 1997-01-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Para o ingresso dos assentos de nascimento, de declaração de maternidade e de perfilhação previstos no artigo anterior é competente a Conservatória dos Registos Centrais.\n\n2 - Para o ingresso dos assentos de casamento e de óbito previstos no artigo anterior a competência da conservatória determina-se de acordo com o estabelecido, respectivamente, no n.º 2 do artigo 187.º e nos n.os 5 e 6 do artigo 200.º do Código do Registo Civil.\n\n3 - Se não constar do registo civil nacional o assento de nascimento das pessoas a quem respeite o assento de casamento ou de óbito, ou se se tratar de facto sujeito a registo para o qual não seja competente nenhuma outra conservatória, a competência para o ingresso destes actos pertence à Conservatória dos Registos Centrais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1997-571071), publicado em 1997-01-31."
+  },
+  "155d416695806e73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO registo previsto no artigo 1.º e os actos, documentos e processos a ele respeitantes são isentos de selos e emolumentos."
+  },
+  "b06fbc8afad92d64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO disposto nos n.os 2 a 5 do artigo 1.º e nos artigos 2.º e 3.º pode ser aplicável a território ainda sob administração portuguesa, mediante despacho do Ministro da Justiça."
+  },
+  "9c0a8ceb29e3fac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão ineficazes os averbamentos de cancelamento exarados nos assentos de registo civil por efeito do seu ingresso no registo civil dos antigos territórios ultramarinos, devendo a ineficácia ser averbada, oficiosamente, pelo funcionário competente."
+  },
+  "e0731d0d8300a289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa Conservatória dos Registos Centrais é criado mais um lugar de conservador-adjunto e um lugar de telefonista com a categoria da letra S, que fica integrado no quadro de pessoal auxiliar."
+  },
+  "23e891b17e2994a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAos conservadores-adjuntos compete coadjuvar o conservador, que, nas suas faltas e impedimentos, é substituído pelo conservador-adjunto que o director-geral dos Registos e do Notariado designar ou, na falta de designação, pelo mais antigo."
+  },
+  "1562a8929940463f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO quadro auxiliar da Conservatória dos Registos Centrais pode ser alterado por portaria do Ministro da Justiça, mediante proposta do director-geral dos Registos e do Notariado."
+  },
+  "fabc7e413a7b5d8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ revogado o n.º 3 do artigo 9.º do Código do Registo Civil.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos.\n\nPromulgado em 31 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

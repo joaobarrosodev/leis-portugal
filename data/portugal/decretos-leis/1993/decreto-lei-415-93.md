@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-20'
+version_history:
+  file: decreto-lei-415-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-20'
+    amending: pt:dre:667764:por
+    amending_title: Decreto-Lei n.º 280/97
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:28:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 280/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-415-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,7 +231,17 @@ Os quadros de pessoal das ESTES são aprovados por portaria conjunta dos Ministr
 
 2 - Por portaria conjunta dos Ministros da Educação e da Saúde serão fixadas as unidades curriculares de transição dos actuais planos de estudos para os cursos que conferem o grau de bacharelato.
 
-3 - Os cursos já ministrados e cujos planos de estudos correspondam substancialmente aos que forem aprovados nos termos do artigo 3.º conferem o grau de bacharelato.
+3 - Os cursos das escolas técnicas dos serviços de saúde cujos planos de estudos correspondam substancialmente aos dos cursos de bacharelato criados ao abrigo do artigo 3.º são equiparados ao grau de bacharel nos termos dos números seguintes.
+
+4 - A produção de efeitos da equiparação a que se refere o número anterior está condicionada ao prévio registo da mesma na escola superior que sucedeu àquela que concedeu o diploma.
+
+5 - Por portaria conjunta dos Ministros da Educação e da Saúde:
+
+a) É fixado, sobre proposta fundamentada dos conselhos científicos das escolas superiores de tecnologia da saúde, o elenco de cursos abrangidos pelo n.º 3;
+
+b) São aprovadas as regras a que deve obedecer o registo a que se refere o n.º 4.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), publicado em 1997-10-15.
 
 ###### Artigo 10.º — Transição do pessoal docente
 

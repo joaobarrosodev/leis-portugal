@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-09-19'
+version_history:
+  file: decreto-regulamentar-regional-7-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-09-19'
+    amending: pt:dre:241444:por
+    amending_title: Decreto Legislativo Regional n.º 23/98/M
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/7/1997/03/18/m/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    23/98/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-7-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +156,7 @@ b) Direcção Regional de Turismo;
 
 c) Direcção Regional dos Assuntos Culturais;
 
-d) Escola de Hotelaria e Turismo da Madeira;
+d) (Revogada.)
 
 e) Centro de Estudos de História do Atlântico.
 
@@ -148,29 +164,13 @@ e) Centro de Estudos de História do Atlântico.
 
 3 - A orgânica do serviço mencionado na alínea e) do n.º 1 consta do Decreto Regulamento Regional n.º 33/93/M, de 8 de Outubro.
 
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18.
+
 ###### Artigo 2.º
 
-1 - A Escola de Hotelaria e Turismo da Madeira (EHTM) passa a ser dirigida por um director-coordenador, que é equiparado, para todos os efeitos, a director regional.
+(Revogado.)
 
-2 - O director-coordenador da EHTM é coadjuvado por três directores sectoriais, que são equiparados, para todos os efeitos, a director de serviços, com as seguintes designações:
-
-a) Director de ensino;
-
-b) Director do hotel de aplicação;
-
-c) Director financeiro.
-
-3 - A EHTM compreende os seguintes órgãos:
-
-a) Director-coordenador;
-
-b) Conselho pedagógico;
-
-c) Conselho disciplinar;
-
-d) Conselho administrativo.
-
-4 - A composição e competência de cada um dos órgãos referidos no número anterior constarão de diploma legal próprio.
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18.
 
 ###### Artigo 3.º
 

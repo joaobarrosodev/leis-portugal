@@ -1,0 +1,440 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321283:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ffca8d87b2cd866e",
+    "7342f7b1dcac3873",
+    "f9e7874bf74e60a4",
+    "f538380986484992",
+    "96ea62a37cefb458",
+    "d5c1fb8861661ff3",
+    "7914277e2e7ee534",
+    "2307147327540b39",
+    "ccc724138b682c75",
+    "d1e562ceafe8c7ff",
+    "deab03351419ed43",
+    "3df959456024334e",
+    "6fc97f062c437351",
+    "091b421af273cb6a",
+    "2d6aa2b963990091",
+    "9597cb67e61a2018",
+    "5eca114e99d281e8",
+    "cdab4f0f8cd1a9a8",
+    "1d08a98745a49780",
+    "aab63de8b2779bde",
+    "ab8c43c0424b0436",
+    "6ca522390246bac8",
+    "a30f5d7f54be8e51",
+    "bee65d341460a5aa",
+    "eb5ad864e8afeede",
+    "bb88768507bda822",
+    "86b7c0f1a19b2c1c",
+    "62a6de1236484578",
+    "b4e86853da82f231",
+    "7e9736f9e61b1475",
+    "185b78b709079d73",
+    "d48b021c26bcd32e",
+    "4223d20d38ad2b12",
+    "d0e8daf1a189bf07",
+    "4fe3f276f76cc166"
+   ]
+  },
+  {
+   "date": "2005-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608072:por",
+     "title": "Decreto-Lei n.º 47/2005",
+     "published": "2005-02-24",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2005-608072"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "ffca8d87b2cd866e",
+    "7342f7b1dcac3873",
+    "f9e7874bf74e60a4",
+    "f538380986484992",
+    "96ea62a37cefb458",
+    "4ac99c48d449edb0",
+    "7914277e2e7ee534",
+    "2307147327540b39",
+    "03106be4538a1792",
+    "1d808772bc042490",
+    "deab03351419ed43",
+    "2069892be0311486",
+    "f6c08f860ad7d791",
+    "091b421af273cb6a",
+    "2d6aa2b963990091",
+    "9597cb67e61a2018",
+    "5eca114e99d281e8",
+    "cdab4f0f8cd1a9a8",
+    "1d08a98745a49780",
+    "aab63de8b2779bde",
+    "ab8c43c0424b0436",
+    "6ca522390246bac8",
+    "a30f5d7f54be8e51",
+    "bee65d341460a5aa",
+    "eb5ad864e8afeede",
+    "bb88768507bda822",
+    "86b7c0f1a19b2c1c",
+    "62a6de1236484578",
+    "b4e86853da82f231",
+    "7e9736f9e61b1475",
+    "185b78b709079d73",
+    "d48b021c26bcd32e",
+    "4223d20d38ad2b12",
+    "d0e8daf1a189bf07",
+    "4fe3f276f76cc166"
+   ]
+  }
+ ],
+ "fragments": {
+  "ffca8d87b2cd866e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Julho\n\nPelo [Decreto-Lei n.º 474-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-a-1999-692200), de 8 de Novembro, que aprova a Lei Orgânica do XIV Governo Constitucional, foi criado o Ministério do Planeamento.\n\nA criação de um ministério especificamente vocacionado para a prossecução da política do planeamento e do desenvolvimento regional enquadra-se no objectivo visado pelo Governo, de reforço da coesão económica e social em Portugal.\n\nA autonomização do Ministério do Planeamento visa também criar condições para garantir e optimizar a articulação e integração das políticas de investimento público nacional e a execução eficiente e eficaz do III Quadro Comunitário de Apoio (QCA III).\n\nA utilização integrada dos recursos nacionais e comunitários acelerará o processo de convergência real ao padrão europeu de qualidade de vida, contribuindo para um desenvolvimento regional e socialmente equilibrado, bem como para o aumento da competitividade internacional do País.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "f9e7874bf74e60a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Ministério do Planeamento é o departamento governamental responsável pela prossecução da política do planeamento e do desenvolvimento regional e pela coordenação global do Quadro Comunitário de Apoio (QCA)."
+  },
+  "f538380986484992": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do Ministério do Planeamento:\n\na) Elaborar as bases gerais da política de desenvolvimento regional visando o desenvolvimento económico e social do País, em articulação com os restantes departamentos governamentais responsáveis;\n\nb) Implementar a política de desenvolvimento regional e acompanhar as suas repercussões a nível sectorial e regional;\n\nc) Assegurar o planeamento das acções e investimentos com incidência regional em articulação com as acções dos fundos comunitários;\n\nd) Conduzir a coordenação da execução e das negociações relativas aos fundos comunitários, ao nível governamental;\n\ne) Elaborar o Programa de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC), acompanhar e avaliar a sua execução;\n\nf) Assegurar a gestão nacional do Fundo Europeu de Desenvolvimento Regional (FEDER) e do Fundo de Coesão;\n\ng) Coordenar o relacionamento do Governo com as instituições europeias em matérias relacionadas com os fundos comunitários;\n\nh) Implementar mecanismos que permitam assegurar transparência, rigor e eficácia na gestão dos fundos comunitários;\n\ni) Coordenar o processo de avaliação das acções desenvolvidas no quadro do QCA e do Fundo de Coesão;\n\nj) Elaborar estudos de prospectiva e de análise da evolução económica e social do País, perspectivando cenários e trajectórias possíveis de evolução da economia e da sociedade portuguesa, e ainda propor as grandes linhas da estratégia de desenvolvimento, integrando e articulando as políticas sectoriais e espaciais;\n\nl) Garantir o apuramento, coordenação e difusão dos dados estatísticos ao nível nacional;\n\nm) Assegurar, no âmbito das suas atribuições, o relacionamento com as instituições europeias e demais instituições internacionais, bem como a representação no quadro da celebração de acordos internacionais, de natureza bilateral ou multilateral."
+  },
+  "96ea62a37cefb458": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos, serviços e entidades sob tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos, serviços e entidades sob tutela"
+  },
+  "d5c1fb8861661ff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\n1 - O Ministério do Planeamento compreende serviços a nível central e regional e serviços sob tutela.\n\n2 - Constituem serviços centrais do Ministério do Planeamento:\n\na) A Secretaria-Geral;\n\nb) A Auditoria Jurídica;\n\nc) O Gabinete de Assuntos Europeus e Relações Externas;\n\nd) A Direcção-Geral do Desenvolvimento Regional;\n\ne) O Departamento de Prospectiva e Planeamento.\n\n3 - Constituem serviços desconcentrados a nível regional:\n\na) A Comissão de Coordenação da Região do Norte;\n\nb) A Comissão de Coordenação da Região do Centro;\n\nc) A Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\nd) A Comissão de Coordenação da Região do Alentejo;\n\ne) A Comissão de Coordenação da Região do Algarve.\n\n4 - Junto do Ministro do Planeamento funcionam o Conselho Superior de Estatística e o Observatório do QCA III.\n\n5 - O Conselho Superior de Estatística é o órgão do Estado que superiormente orienta e coordena o Sistema Estatístico Nacional, estando a sua composição e funcionamento definidos pela [Lei n.º 6/89](https://diariodarepublica.pt/dr/detalhe/lei/6-1989-615214), de 15 de Abril, que estabelece as bases gerais do Sistema Estatístico Nacional.\n\n6 - O Observatório do QCA constitui uma sede de análise e avaliação da execução e dos resultados do QCA III, sendo o seu funcionamento interno e composição objecto de portaria do Ministro do Planeamento."
+  },
+  "7914277e2e7ee534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Instituto sob tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instituto sob tutela\n\nFunciona sob tutela do Ministério do Planeamento o Instituto Nacional de Estatística."
+  },
+  "2307147327540b39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Empresa tutelada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Empresa tutelada\n\nFunciona sob tutela do Ministro do Planeamento a Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A."
+  },
+  "ccc724138b682c75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretaria-Geral\n\n1 - É criada a Secretaria-Geral do Ministério do Planeamento.\n\n2 - A Secretaria-Geral (SG) é o serviço central de coordenação e de apoio aos membros do Governo, aos serviços e demais entidades do Ministério do Planeamento, nos domínios do planeamento e controlo orçamental, da gestão dos recursos humanos, da gestão financeira e patrimonial, da organização logística e da informação e relações públicas.\n\n3 - Compete à Secretaria-Geral:\n\na) Apoiar técnica e administrativamente os membros do Governo que integram o Ministério do Planeamento, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham dos meios apropriados;\n\nb) Participar na definição das medidas de política de pessoal e de emprego do Ministério do Planeamento e na elaboração das normas de gestão dos recursos humanos dos serviços que nele se integram;\n\nc) Promover e apoiar acções de formação em áreas comuns aos serviços do Ministério do Planeamento;\n\nd) Propor medidas de aperfeiçoamento, de modernização e inovação administrativas, conducentes à melhoria de funcionamento das estruturas e ao incremento da qualidade dos serviços prestados;\n\ne) Coordenar a preparação do orçamento de funcionamento do Ministério do Planeamento e acompanhar a sua execução;\n\nf) Assegurar a conservação e administração dos bens móveis e imóveis afectos ao ministério, à excepção dos atribuídos a outros serviços;\n\ng) Realizar e coordenar actividades nos domínios da informação, relações públicas e protocolo;\n\nh) Elaborar estudos, projectos e informações no domínio das suas competências, por sua iniciativa ou a solicitação dos membros do Governo ou dos serviços, bem como assegurar a coordenação das acções de carácter comum no âmbito do Ministério do Planeamento.\n\n4 - A SG articula a sua acção, nomeadamente nos domínios dos recursos humanos, da modernização administrativa, do planeamento e da gestão financeira e patrimonial, com os competentes serviços centrais da Administração Pública.\n\n5 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, equiparados, para todos os efeitos, a director-geral e subdirector-geral, respectivamente."
+  },
+  "d1e562ceafe8c7ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Auditoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Auditoria Jurídica\n\n1 - É criada a Auditoria Jurídica do Ministério do Planeamento.\n\n2 - A Auditoria Jurídica é o serviço de consulta jurídica e de apoio legislativo e contencioso do Ministro do Planeamento e dos restantes membros do Governo que integram o Ministério do Planeamento.\n\n3 - Compete à Auditoria Jurídica:\n\na) Dar parecer, prestar informações e proceder a estudos jurídicos sobre quaisquer assuntos que sejam submetidos à sua apreciação pelos membros do Governo da área do planeamento;\n\nb) Verificar o conteúdo e o rigor técnico-jurídico dos projectos de diplomas que lhe sejam submetidos;\n\nc) Colaborar na elaboração de projectos de diplomas legais;\n\nd) Intervir nos processos contenciosos que digam respeito ao Ministério do Planeamento, promovendo as diligências necessárias à sua tramitação;\n\ne) Promover a instrução de processos disciplinares e de inquérito;\n\nf) Prestar todo o apoio que, no âmbito das suas competências, lhe for solicitado pelos membros do Governo do Ministério do Planeamento.\n\n4 - A orientação e a coordenação técnico-jurídica da Auditoria Jurídica competem a um procurador-geral-adjunto, designado para o exercício de funções de auditor jurídico junto do Ministério do Planeamento."
+  },
+  "deab03351419ed43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Gabinete de Assuntos Europeus e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Assuntos Europeus e Relações Externas\n\n1 - É criado o Gabinete de Assuntos Europeus e Relações Externas, adiante abreviadamente designado por GAERE.\n\n2 - O GAERE é o serviço central de coordenação e apoio técnico do Ministério do Planeamento, em matérias relacionadas com a União Europeia e com as relações internacionais, competindo-lhe, em articulação com o Ministério dos Negócios Estrangeiros:\n\na) Contribuir, nas áreas de actuação do Ministério do Planeamento, para a definição e execução das políticas em matéria de assuntos europeus e de relações internacionais, em particular nestas últimas, com o Conselho da Europa, a OCDE e as Nações Unidas;\n\nb) Coordenar, apoiar e desenvolver a actividade do Ministério do Planeamento no quadro da União Europeia;\n\nc) Coordenar, apoiar e desenvolver as actividades do Ministério do Planeamento junto de organizações internacionais ou no quadro bilateral, nomeadamente na cooperação com os países de língua oficial portuguesa;\n\nd) Assegurar a obtenção, o tratamento e a divulgação, em tempo útil, aos serviços e organismos do Ministério, da documentação e de todo o tipo de informação técnica referente a questões comunitárias;\n\ne) Promover e colaborar na elaboração de estudos técnicos, em articulação com outras entidades;\n\nf) Compatibilizar a sua actividade com os objectivos da política externa portuguesa, em especial nos domínios dos assuntos europeus e das relações internacionais;\n\ng) Assegurar a representação do Ministério do Planeamento na Comissão Interministerial para os Assuntos Comunitários e na Comissão Interministerial para a Cooperação.\n\n3 - O GAERE é dirigido por um director, coadjuvado no exercício das suas funções por um subdirector, equiparados, para todos os efeitos, a director-geral e subdirector-geral, respectivamente."
+  },
+  "3df959456024334e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção-Geral do Desenvolvimento Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção-Geral do Desenvolvimento Regional\n\n1 - A Direcção-Geral do Desenvolvimento Regional (DGDR) é o serviço central do Ministério do Planeamento, dotado de autonomia administrativa e financeira, responsável pela elaboração e execução da política de desenvolvimento regional, pela coordenação e acompanhamento da execução das intervenções nos fundos comunitários, bem como pela gestão nacional do FEDER e do Fundo de Coesão.\n\n2 - Constituem competências da DGDR:\n\na) Propor ao Governo as bases gerais da política de desenvolvimento regional, bem como a sua reformulação periódica, promovendo, em conjugação com outros organismos competentes, a sua articulação com a política de desenvolvimento económico e social;\n\nb) Elaborar o Plano de Desenvolvimento Regional, de harmonia com as orientações das Grandes Opções do Plano e, neste âmbito, articular as acções dos fundos comunitários;\n\nc) Acompanhar a implementação da política de desenvolvimento regional, analisando, designadamente, as suas repercussões a nível sectorial e regional;\n\nd) Propor medidas de apoio à actividade económica no âmbito do desenvolvimento regional e promover e acompanhar a sua aplicação;\n\ne) Participar no processo de planeamento das acções e investimentos, com incidência no desenvolvimento regional, estabelecendo as necessárias articulações interinstitucionais a nível global, sectorial e inter-regional;\n\nf) Assegurar as negociações com a Comissão Europeia em questões relacionadas com os fundos comunitários, de acordo com as orientações do Governo;\n\ng) Efectuar o acompanhamento da execução dos fundos comunitários;\n\nh) Assegurar a gestão nacional do FEDER e do Fundo de Coesão, cabendo-lhe as respectivas funções de interlocutor nacional perante a Comissão Europeia;\n\ni) Centralizar os fluxos financeiros provenientes do FEDER e do Fundo de Coesão, assegurando, enquanto autoridade de pagamento, a sua gestão;\n\nj) Assegurar o controlo de segundo nível das intervenções co-financiadas pelo FEDER e pelo Fundo de Coesão, em articulação com as inspecções-gerais ou outros organismos integrados nos departamentos governamentais com competências atinentes aos sectores envolvidos, expressamente designados para o efeito pelo membro do Governo correspondente;\n\nl) Assegurar a existência, organização e funcionamento do sistema de informação do QCA III e do Fundo de Coesão;\n\nm) Colaborar nos processos da avaliação intercalar e final do QCA III e do Fundo de Coesão;\n\nn) Emitir orientações dirigidas aos gestores das intervenções operacionais tendo em vista a harmonização da aplicação das normas comunitárias relativas ao FEDER e ao Fundo de Coesão;\n\no) Prestar apoio à Comissão de Gestão do QCA III, nos termos da legislação em vigor;\n\np) Contribuir para a definição de normas de acesso, gestão e controlo relativamente a projectos e acções financiadas pelo FEDER ou pelo Fundo de Coesão;\n\nq) Exercer as demais funções que lhe forem legalmente cometidas.\n\n3 - A DGDR é dirigida por um director-geral, que, por inerência, preside à Comissão de Gestão do QCA III, coadjuvado no exercício das suas funções por três subdirectores-gerais."
+  },
+  "6fc97f062c437351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Departamento de Prospectiva e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento de Prospectiva e Planeamento\n\n1 - O Departamento de Prospectiva e Planeamento (DPP) é o serviço do Ministério do Planeamento vocacionado para o estudo, concepção e proposta da estratégia de desenvolvimento económico e social.\n\n2 - Constituem competências do DPP:\n\na) Preparar cenários e trajectórias possíveis de evolução da economia e sociedades portuguesas e propor as grandes linhas da estratégia de desenvolvimento, integrando e articulando as políticas sectoriais e espaciais, de acordo com as orientações do Governo;\n\nb) Coordenar o processo de preparação das Grandes Opções do Plano;\n\nc) Preparar e elaborar a proposta técnica do PIDDAC e proceder ao acompanhamento e avaliação da sua execução;\n\nd) Realizar avaliações de impacte de ordem macroeconómica do QCA, a integrar nos respectivos relatórios de execução global, bem como de outros programas de investimento de importância relevante para o desenvolvimento do País;\n\ne) Avaliar o cumprimento do princípio da adicionalidade, relativamente ao QCA;\n\nf) Realizar e participar em estudos de prospectiva nas áreas política, social, económica e tecnológica, no âmbito internacional em geral e comunitário em particular;\n\ng) Analisar a evolução económico-social mundial, em especial a das zonas geográficas e sectores com maior relevo para Portugal;\n\nh) Analisar e acompanhar a evolução económica e social do País, identificando os principais estrangulamentos e perspectivando vectores de desenvolvimento e novas oportunidades associadas à internacionalização da economia portuguesa, em estreito diálogo com outros serviços da Administração e com especialistas do sector privado;\n\ni) Preparar o enquadramento dos programas de desenvolvimento económico e avaliar o seu impacte macroeconómico.\n\n3 - O DPP é dirigido por um director, coadjuvado no exercício das suas funções por dois subdirectores, equiparados para todos os efeitos a director-geral e a subdirector-geral, respectivamente."
+  },
+  "091b421af273cb6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Comissões de coordenação regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissões de coordenação regional\n\n1 - As comissões de coordenação regional (CCR) são serviços desconcentrados do Ministério do Planeamento incumbidos de, na respectiva área de actuação, executarem a política de planeamento e desenvolvimento regional.\n\n2 - Compete às CCR, no respectivo âmbito regional:\n\na) Participar na elaboração das bases gerais da política de desenvolvimento regional, em articulação com a política de desenvolvimento económico e social do País;\n\nb) Acompanhar a execução da política de desenvolvimento regional e proceder à avaliação das suas repercussões espaciais e sectoriais;\n\nc) Contribuir para a elaboração do PDR e para a garantia do cumprimento dos objectivos e a concretização das medidas nele previstas;\n\nd) Assegurar a execução da intervenção operacional regional respectiva incluída no QCA III;\n\ne) Assegurar o processo de concertação estratégica, ao nível regional, inerente à respectiva intervenção operacional, contribuindo para a coerência e articulação das respectivas acções;\n\nf) Assegurar a execução das acções integradas de desenvolvimento regional, no âmbito da respectiva intervenção operacional regional, em articulação com câmaras municipais, órgãos desconcentrados da Administração Pública e agentes privados;\n\ng) Acompanhar as dinâmicas regionais derivadas da aplicação do QCA III;\n\nh) Dinamizar e participar em processos de planeamento estratégico do desenvolvimento sócio-económico, bem como participar em processos relativos ao ordenamento do território;\n\ni) Participar na elaboração, articulação e monitorização da proposta anual do PIDDAC, na região, com o objectivo de estruturar e racionalizar as redes e sistemas que servem os espaços urbanos e rurais;\n\nj) Fomentar a parceria e a participação dos agentes regionais e locais na preparação, na gestão, no acompanhamento e na avaliação das intervenções com incidência regional;\n\nl) Dinamizar a cooperação inter-regional e a articulação entre instituições, quer públicas quer privadas, no quadro das políticas nacional e comunitária, contribuindo para a integração europeia do espaço regional e para o reforço da sua competitividade, com base em estratégias de desenvolvimento regional e local definidas.\n\n3 - As CCR são dirigidas por um presidente, que, por inerência, é o gestor da intervenção operacional regional correspondente, coadjuvado no exercício das suas funções por dois vice-presidentes, equiparados para todos os efeitos a director-geral e a subdirector-geral, respectivamente.\n\n4 - Dependem das CCR as estruturas de apoio técnico das respectivas intervenções operacionais regionais."
+  },
+  "2d6aa2b963990091": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Instituto Nacional de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instituto Nacional de Estatística\n\n1 - O Instituto Nacional de Estatística (INE) é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio, tendo por objecto o exercício de funções de notação, apuramento, coordenação e difusão de dados estatísticos de interesse geral e comum.\n\n2 - Ao INE estão cometidas as seguintes competências:\n\na) Notação, apuramento, coordenação e difusão dos dados estatísticos de que for incumbido pelo Governo, nos termos fixados por portaria do ministro da tutela, a emitir tendo em conta as linhas gerais definidas pelo Conselho Superior de Estatística;\n\nb) Notação, apuramento, coordenação e difusão de outros dados estatísticos que permitam satisfazer, em termos economicamente viáveis, as necessidades dos utilizadores, públicos ou privados, sem prejuízo da prossecução das atribuições referidas na alínea anterior.\n\n3 - O INE rege-se pelas disposições constantes da [Lei n.º 6/89](https://diariodarepublica.pt/dr/detalhe/lei/6-1989-615214), de 15 de Abril, que estabelece as bases gerais do Sistema Estatístico Nacional, e pelos respectivos estatutos, aprovados pelo [Decreto-Lei n.º 280/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1989-618497), de 23 de Agosto, alterado pelo [Decreto-Lei n.º 118/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1994-250376), de 5 de Maio, e pelo [Decreto-Lei n.º 479/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1999-683186), de 9 de Novembro."
+  },
+  "9597cb67e61a2018": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Intervenções operacionais regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Intervenções operacionais regionais\n\n1 - Nos termos previstos no diploma que define a estrutura orgânica relativa ao QCA III, a gestão técnica, administrativa e financeira de cada uma das intervenções operacionais regionais do continente incumbe, por inerência, ao presidente da comissão de coordenação da respectiva região.\n\n2 - Aos vice-presidentes das CCR podem ser delegadas competências em matéria relativa a apoios ao investimento municipal e intermunicipal abrangidos pelo QCA III, incumbindo-lhe, nesse caso, por inerência, a gestão do correspondente eixo prioritário incluído na intervenção operacional regional do continente da respectiva região.\n\n3 - Aos vice-presidentes das CCR podem ser delegadas competências em matéria relativa a acções integradas de base territorial incluídas no QCA III, incumbindo-lhe, nesse caso, por inerência, a gestão do correspondente eixo prioritário incluído na intervenção operacional regional do continente da respectiva região.\n\n4 - As situações previstas nos números anteriores não implicam a acumulação de remunerações, podendo os nomeados optar pela remuneração prevista para o exercício do cargo de gestor."
+  },
+  "5eca114e99d281e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Apoio a outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoio a outras entidades\n\nOs serviços e organismos do Ministério do Planeamento podem, no âmbito das respectivas atribuições e mediante despacho do Ministro do Planeamento, prestar apoio material e financeiro a entidades públicas, cooperativas e privadas."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "1d08a98745a49780": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Quadros do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Quadros do pessoal\n\n1 - O pessoal dirigente dos serviços do Ministério do Planeamento elencados no artigo 3.º deste diploma, com cargos de director-geral e subdirector-geral ou equiparados, consta do mapa anexo ao presente diploma e que dele faz parte integrante.\n\n2 - Os lugares do restante pessoal dirigente constam dos respectivos diplomas orgânicos.\n\n3 - O quadro do restante pessoal dos serviços criados e ou reestruturados pelo presente diploma é aprovado mediante portaria conjunta dos Ministros das Finanças, do Planeamento e da Reforma do Estado e da Administração Pública."
+  },
+  "aab63de8b2779bde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Equipas de projecto\n\n1 - Por despacho do Ministro do Planeamento podem ser criadas equipas de projecto de duração limitada e que actuam sob a responsabilidade de coordenadores de diversas especialidades, sem prejuízo do disposto no número seguinte.\n\n2 - As equipas de projecto que integrem elementos não afectos ao Ministério do Planeamento, que envolvam a participação de individualidades não pertencentes à função pública ou que, envolvendo-a, impliquem a atribuição de retribuição própria para o efeito são constituídas por despacho conjunto dos Ministros das Finanças, do Planeamento e da Reforma do Estado e da Administração Pública.\n\n3 - Os despachos previstos nos números anteriores deverão prever a constituição das equipas, a nomeação dos respectivos coordenadores e o período de duração, assim como os objectivos a prosseguir e o respectivo orçamento."
+  },
+  "ab8c43c0424b0436": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Serviços Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviços Sociais\n\nOs funcionários e agentes do Ministério do Planeamento ficam abrangidos pela Obra Social do Ministério do Equipamento Social, cabendo à Secretaria-Geral do Ministério e aos serviços autónomos as responsabilidades daí decorrentes."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "a30f5d7f54be8e51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Transição de pessoal\n\n1 - Sem prejuízo de outras regras especiais de transição a prever nos diplomas dos serviços respectivos, ditadas pela especificidade do processo de criação e ou reestruturação orgânica, a transição do pessoal para os lugares dos quadros de pessoal a que se refere o n.º 3 do artigo 15.º processa-se para a mesma carreira, categoria e escalão que o funcionário já detém.\n\n2 - Os lugares de chefe de repartição dos quadros de pessoal dos serviços referidos no n.º 1 são extintos, sendo os respectivos titulares reclassificados de acordo com o disposto no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção da [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho."
+  },
+  "bee65d341460a5aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Situações pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Situações pendentes\n\n1 - Mantêm-se em vigor os concursos a decorrer à data da entrada em vigor do presente diploma, bem como os abertos até à data da entrada em vigor das portarias de aprovação dos novos quadros de pessoal, nos termos previstos no n.º 3 do artigo 15.º deste diploma.\n\n2 - Mantêm-se em vigor os concursos para cargos dirigentes que se considerem válidos para as unidades do mesmo nível que integrem as correspondentes áreas de actuação, mediante despacho fundamentado do membro do Governo competente.\n\n3 - O pessoal que se encontra na situação de licença mantém os direitos que detinha à data de início da mesma, nos termos da lei aplicável."
+  },
+  "eb5ad864e8afeede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Pessoal pertencente a serviços em dependência conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pessoal pertencente a serviços em dependência conjunta\n\n1 - Por despacho conjunto dos Ministros do Equipamento Social e do Planeamento, será feita a afectação de funcionários à SG do Ministério do Planeamento e à sua congénere do Ministério do Equipamento Social, de entre o pessoal pertencente à Secretaria-Geral do ex-Ministério do Equipamento, do Planeamento e da Administração do Território.\n\n2 - Até à data de entrada em vigor do despacho a que se refere o número anterior, a Secretaria-Geral do ex-Ministério do Equipamento, do Planeamento e da Administração do Território ficará na dependência conjunta dos Ministros do Equipamento Social e do Planeamento.\n\n3 - O pessoal pertencente ao quadro da Auditoria Jurídica do ex-Ministério do Planeamento e da Administração do Território, aprovado pelo [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, transita para a Auditoria Jurídica a que se refere o artigo 7.º do presente diploma, na mesma carreira, categoria e escalão.\n\n4 - O pessoal pertencente ao quadro do Gabinete para os Assuntos Europeus e Relações Externas do ex-Ministério do Planeamento e da Administração do Território, aprovado pela [Portaria n.º 226/94](https://diariodarepublica.pt/dr/detalhe/portaria/226-1994-265972), de 15 de Abril, transita para o GAERE a que se refere o artigo 8.º do presente diploma, na mesma carreira, categoria e escalão."
+  },
+  "bb88768507bda822": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Regulamentos em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentos em vigor\n\nA entrada em vigor do presente diploma não prejudica a manutenção dos regulamentos existentes aprovados nos termos da legislação aplicável, designadamente em matéria de estágio para ingresso nas carreiras, horários de trabalho e programas de provas."
+  },
+  "86b7c0f1a19b2c1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pessoal dirigente\n\n1 - As comissões de serviço dos directores-gerais e equiparados e dos subdirectores-gerais e equiparados dos organismos e serviços extintos ou reorganizados cessam na data da entrada em vigor do presente diploma, mantendo-se os mesmos no exercício de funções de gestão corrente até à nomeação dos novos titulares dos cargos.\n\n2 - Mantêm-se válidas as comissões de serviço dos directores de serviços e dos chefes de divisão ou equiparados até à entrada em vigor dos diplomas orgânicos dos serviços, sendo-lhes aplicável o disposto na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho."
+  },
+  "62a6de1236484578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Receitas próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Receitas próprias\n\nOs serviços do Ministério do Planeamento podem proceder à venda de publicações e outros trabalhos por si editados, bem como à prestação de serviços a outras entidades, constituindo o seu produto receita própria a inscrever na adequada subdivisão dos orçamentos respectivos."
+  },
+  "b4e86853da82f231": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Providências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Providências orçamentais\n\n1 - Serão efectuadas as alterações orçamentais necessárias à execução do presente diploma, decorrentes da criação da SG e do GAERE, a que se referem as alíneas a) e c) do n.º 2 do artigo 3.º do presente diploma, nos termos dos n.os 1 e 39 do artigo 7.º da [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de Abril.\n\n2 - O disposto no número anterior não impede o provimento, desde já, dos lugares de pessoal dirigente criados pelo presente diploma, sendo os encargos suportados nos termos da actual expressão orçamental por conta do orçamento afecto à Secretaria-Geral e ao Gabinete para os Assuntos Europeus e Relações Externas do ex-Ministério do Equipamento, do Planeamento e da Administração do Território."
+  },
+  "7e9736f9e61b1475": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Apoio jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apoio jurídico\n\n1 - A Auditoria Jurídica, prevista na alínea b) do n.º 2 do artigo 3.º do presente diploma, presta apoio transitoriamente ao Ministro Adjunto em matérias relativas à administração local.\n\n2 - A referida Auditoria Jurídica assegura ainda transitoriamente, até à entrada em funcionamento da Auditoria Jurídica do Ministério da Ciência e da Tecnologia, o apoio técnico-administrativo ao respectivo ministro."
+  },
+  "185b78b709079d73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Direcções regionais de administração autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direcções regionais de administração autárquica\n\nAté à entrada em vigor do diploma que estabeleça a orgânica dos serviços desconcentrados de administração autárquica, as actuais direcções regionais de administração autárquica (DRAA) mantêm-se integradas na estrutura das CCR apoiando as autarquias locais, designadamente nos domínios jurídico, económico, financeiro, técnico, dos recursos humanos e da formação e modernização administrativa autárquica e dos equipamentos associativo e religioso, funcionando na dependência conjunta do Ministro Adjunto e do Ministro do Planeamento, sem prejuízo de caber ao primeiro a orientação política."
+  },
+  "d48b021c26bcd32e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Gabinetes de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Gabinetes de apoio técnico\n\nAté à definição de um novo quadro legal dos gabinetes de apoio técnico (GAT), estes mantêm-se enquadrados nas comissões de coordenação regional, funcionando na dependência conjunta do Ministro Adjunto e do Ministro do Planeamento, cabendo ao primeiro a orientação quanto à assessoria técnica aos municípios."
+  },
+  "4223d20d38ad2b12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Transição para o Ministério do Ambiente e do Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transição para o Ministério do Ambiente e do Ordenamento do Território\n\n1 - As direcções regionais do ordenamento do território das comissões de coordenação regional transitam para o Ministério do Ambiente e do Ordenamento do Território, nos termos estabelecidos na lei orgânica das direcções regionais do ambiente e do ordenamento do território.\n\n2 - Os funcionários do extinto Ministério do Equipamento, do Planeamento e da Administração do Território que exerçam funções relevantes em matéria de ordenamento do território e desenvolvimento urbano ou que assegurem o apoio necessário ao exercício dessas funções transitam para o Ministério do Ambiente e do Ordenamento do Território nos termos do disposto no número seguinte.\n\n3 - A transição do pessoal das comissões de coordenação regional, da Auditoria Jurídica e do Gabinete para os Assuntos Europeus e Relações Externas, do extinto Ministério do Equipamento, do Planeamento e da Administração do Território, para os serviços correspondentes do Ministério do Planeamento ou do Ministério do Ambiente e do Ordenamento do Território faz-se por lista nominativa aprovada por despacho conjunto dos Ministros do Planeamento e do Ambiente e do Ordenamento do Território."
+  },
+  "d0e8daf1a189bf07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Legislação revogada\n\nÉ revogado o [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho."
+  },
+  "4fe3f276f76cc166": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins.\n\nPromulgado em 11 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nMapa a que se refere o n.º 1 do artigo 15.º\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/166a00/33583364.pdf)"
+  },
+  "4ac99c48d449edb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\n1 - O Ministério do Planeamento compreende serviços a nível central e regional e serviços sob tutela.\n\n2 - (Revogado.)\n\n3 - Constituem serviços desconcentrados a nível regional:\n\na) A Comissão de Coordenação da Região do Norte;\n\nb) A Comissão de Coordenação da Região do Centro;\n\nc) A Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\nd) A Comissão de Coordenação da Região do Alentejo;\n\ne) A Comissão de Coordenação da Região do Algarve.\n\n4 - Junto do Ministro do Planeamento funcionam o Conselho Superior de Estatística e o Observatório do QCA III.\n\n5 - O Conselho Superior de Estatística é o órgão do Estado que superiormente orienta e coordena o Sistema Estatístico Nacional, estando a sua composição e funcionamento definidos pela [Lei n.º 6/89](https://diariodarepublica.pt/dr/detalhe/lei/6-1989-615214), de 15 de Abril, que estabelece as bases gerais do Sistema Estatístico Nacional.\n\n6 - O Observatório do QCA constitui uma sede de análise e avaliação da execução e dos resultados do QCA III, sendo o seu funcionamento interno e composição objecto de portaria do Ministro do Planeamento.\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+  },
+  "03106be4538a1792": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretaria-Geral",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+   ],
+   "markdown": "###### Artigo 6.º — Secretaria-Geral\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+  },
+  "1d808772bc042490": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Auditoria Jurídica",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+   ],
+   "markdown": "###### Artigo 7.º — Auditoria Jurídica\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+  },
+  "2069892be0311486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção-Geral do Desenvolvimento Regional",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+   ],
+   "markdown": "###### Artigo 9.º — Direcção-Geral do Desenvolvimento Regional\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+  },
+  "f6c08f860ad7d791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Departamento de Prospectiva e Planeamento",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+   ],
+   "markdown": "###### Artigo 10.º — Departamento de Prospectiva e Planeamento\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24."
+  }
+ }
+}

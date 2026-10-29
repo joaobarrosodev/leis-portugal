@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-08'
+version_history:
+  file: decreto-lei-215-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-08'
+    amending: pt:dre:302160:por
+    amending_title: Decreto-Lei n.º 98/2004
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/215/2002/10/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:33:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 98/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-215-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +183,9 @@ Transitam para o Instituto de Informática (II), do Ministério das Finanças, a
 
 ###### Artigo 4.º — Transição de atribuições para o Instituto para a Gestão das Lojas do Cidadão
 
-Transitam para o Instituto para a Gestão das Lojas do Cidadão (IGLC) as atribuições e competências associadas ao Sistema Integrado de Informação Administrativa ao Cidadão e Serviço Público Directo.
+(Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2004-302160), publicado em 2004-05-03.
 
 ###### Artigo 5.º — Pessoal
 

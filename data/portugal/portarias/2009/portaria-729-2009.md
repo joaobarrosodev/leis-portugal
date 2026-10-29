@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-11'
+version_history:
+  file: portaria-729-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-11'
+    amending: pt:dre:491388:por
+    amending_title: Portaria n.º 1174/2009
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/729/2009/07/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1174/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-729-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,11 +163,13 @@ a) Às relações de trabalho entre empregadores não filiados na associação d
 
 b) Às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que no território do continente exerçam a actividade económica referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas na convenção, não representados pelas associações sindicais outorgantes.
 
-2 - A presente extensão não se aplica às relações de trabalho em que sejam parte empregadores filiados na NORQUIFAR - Associação do Norte dos Importadores/Armazenistas de Produtos Químicos e Farmacêuticos.
+2 - A presente extensão não se aplica às relações de trabalho em que sejam parte empregadores filiados na NORQUIFAR - Associação do Norte dos Importadores/Armazenistas de Produtos Químicos e Farmacêuticos, nem aos trabalhadores filiados em sindicatos representados pela FIEQUIMETAL - Federação Intersindical das Indústrias Metalúrgica, Química, Farmacêutica, Eléctrica, Energia e Minas.
 
 3 - As retribuições da tabela salarial em vigor inferiores à retribuição mínima mensal garantida para o ano de 2009 apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante de redução relacionada com o trabalhador, de acordo com o artigo 275.º do Código do Trabalho.
 
 4 - Não são objecto de extensão as disposições contrárias a normas legais imperativas.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2009-491388), publicado em 2009-10-06.
 
 ###### Artigo 2.º
 

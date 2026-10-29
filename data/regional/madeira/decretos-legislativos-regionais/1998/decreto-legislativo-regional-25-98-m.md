@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-25'
+version_history:
+  file: decreto-legislativo-regional-25-98-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-25'
+    amending: pt:dre:468639:por
+    amending_title: Decreto Legislativo Regional n.º 15-A/2006/M
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/25/1998/12/16/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    15-A/2006/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1998/decreto-legislativo-regional-25-98-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,13 +184,15 @@ O regime fixado neste diploma aplica-se aos contratos celebrados com docentes pr
 
 ###### Artigo 3.º — Renovação do contrato
 
-1 - Os contratos celebrados pelo período de um ano escolar podem ser renovados, consecutivamente, por igual período, até ao limite de quatro anos.
+1 - (Revogado.)
 
 2 - A renovação dos contratos depende de comunicação ao contratado a realizar pelo órgão de gestão do estabelecimento de educação/ensino até 15 de Julho.
 
 3 - O contratado tem cinco dias úteis para aceitar a proposta de renovação, prazo findo o qual se considera como não aceite.
 
 4 - Para efeitos de autorização, a delegação escolar/estabelecimento de ensino envia à Direcção Regional de Administração e Pessoal, até 10 de Agosto de cada ano, a proposta de renovação dos contratos e a declaração de anuência dos interessados.
+
+> Revogado pelo/a Artigo 61.º do/a [Decreto Legislativo Regional n.º 15-A/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2006-468639), publicado em 2006-04-24.
 
 ###### Artigo 4.º — Contingente anual
 

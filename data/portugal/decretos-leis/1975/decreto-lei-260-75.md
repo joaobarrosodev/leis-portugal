@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-01-01'
+version_history:
+  file: decreto-lei-260-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-01-01'
+    amending: pt:dre:231286:por
+    amending_title: Decreto-Lei n.º 530/79
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:40:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 530/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-260-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,37 +149,57 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O Instituto de Assistência Nacional aos Tuberculosos é por este diploma integrado na Direcção-Geral de Saúde, nos termos constantes dos artigos seguintes.
+###### Artigo 1.º
 
-Art. 2.º - 1. Os serviços centrais do actual Instituto de Assistência Nacional aos Tuberculosos passam a constituir um serviço da Direcção-Geral de Saúde, com a designação de Serviço de Luta Antituberculosa.
+(Revogado.)
 
-2. Cabe ao Serviço de Luta Antituberculosa promover, dirigir, controlar e avaliar a acção de luta contra a tuberculose no País, dentro das linhas de acção desenvolvidas pela Direcção-Geral de Saúde.
+> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
 
-Art. 3.º - 1. O Serviço de Luta Antituberculosa é dotado de personalidade jurídica e de autonomia administrativa, sem prejuízo da sua dependência da Direcção-Geral de Saúde.
+###### Artigo 2.º
 
-2. O referido Serviço sucede ao Instituto de Assistência Nacional aos Tuberculosos em todos os seus direitos e obrigações, salvo os que, por disposição especial, sejam objecto de destino diferente.
+(Revogado.)
 
-Art. 4.º - 1. Os sanatórios actualmente pertencentes ao Instituto de Assistência Nacional aos Tuberculosos passam a fazer parte da organização hospitalar, na dependência da Direcção-Geral dos Hospitais, e com observância do disposto nos números seguintes.
+> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
+
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 530/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1979-231286), publicado em 1979-12-31.
+
+###### Artigo 4.º
+
+1. Os sanatórios actualmente pertencentes ao Instituto de Assistência Nacional aos Tuberculosos passam a fazer parte da organização hospitalar, na dependência da Direcção-Geral dos Hospitais, e com observância do disposto nos números seguintes.
 
 2. Na fixação do esquema de serviços que vier a ser atribuído aos novos estabelecimentos hospitalares será tomada em conta a sua vocação para pneumotisiologia, devendo manter serviços de internamento desta especialidade com capacidade adaptável à evolução das necessidades do País.
 
 3. Caberá igualmente aos referidos estabelecimentos colaborar na formação e aperfeiçoamento do pessoal técnico de pneumotisiologia.
 
-Art. 5.º - 1. O Centro Sanatorial do Lumiar, em Lisboa, e o Centro Sanatorial de D. Manuel II, em Vila Nova de Gaia, passam a constituir hospitais gerais centrais, com as designações, respectivamente, de Hospital de Pulido Valente e Hospital de Eduardo Santos Silva.
+###### Artigo 5.º
+
+1. O Centro Sanatorial do Lumiar, em Lisboa, e o Centro Sanatorial de D. Manuel II, em Vila Nova de Gaia, passam a constituir hospitais gerais centrais, com as designações, respectivamente, de Hospital de Pulido Valente e Hospital de Eduardo Santos Silva.
 
 2. Cada um dos hospitais criados pelo número anterior dispõe de personalidade jurídica e autonomia administrativa, sendo-lhes aplicável a legislação por que se regem os estabelecimentos hospitalares oficiais.
 
-Art. 6.º Os edifícios e demais bens até agora afectos aos sanatórios referidos no artigo anterior passam a constituir património próprio de cada um dos novos hospitais.
+###### Artigo 6.º
 
-Art. 7.º - 1. Os actuais sanatórios não incluídos no artigo 5.º são integrados na organização hospitalar das respectivas áreas, qualquer que seja a forma que esta assuma, como estabelecimentos prioritariamente destinados a internar doentes do foro da tuberculose.
+Os edifícios e demais bens até agora afectos aos sanatórios referidos no artigo anterior passam a constituir património próprio de cada um dos novos hospitais.
+
+###### Artigo 7.º
+
+1. Os actuais sanatórios não incluídos no artigo 5.º são integrados na organização hospitalar das respectivas áreas, qualquer que seja a forma que esta assuma, como estabelecimentos prioritariamente destinados a internar doentes do foro da tuberculose.
 
 2. A integração prevista no número anterior tornar-se-á efectiva para cada sanatório à medida que for aplicado ao respectivo hospital distrital o regime previsto no [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300), de 7 de Dezembro, passando o sanatório a dispor da autonomia que lhe for atribuída em despacho do Secretário de Estado da Saúde.
 
 3. Independentemente do disposto no número anterior, pode a integração efectivar-se mediante despacho do Ministro dos Assuntos Sociais, sob proposta do Secretário de Estado da Saúde, no qual se determinará a afectação do estabelecimento em causa, com observância do disposto no n.º 1.
 
-Art. 8.º Cabe à Direcção-Geral dos Hospitais e ao Serviço de Luta Antituberculosa promover a execução do disposto no artigo anterior de modo que as integrações nele previstas estejam efectuadas até 31 de Dezembro do ano em curso.
+###### Artigo 8.º
 
-Art. 9.º - 1. Os dispensários e os centros de diagnóstico e profilaxia são integrados nos centros de saúde.
+Cabe à Direcção-Geral dos Hospitais e ao Serviço de Luta Antituberculosa promover a execução do disposto no artigo anterior de modo que as integrações nele previstas estejam efectuadas até 31 de Dezembro do ano em curso.
+
+###### Artigo 9.º
+
+1. Os dispensários e os centros de diagnóstico e profilaxia são integrados nos centros de saúde.
 
 2. As funções até agora cometidas aos serviços mencionados no número anterior, bem como as cometidas às consultas-dispensários a cargo das Misericórdias, passam a ser exercidas pelos centros de saúde dos respectivos concelhos, no âmbito dos cuidados médicos de base que lhes cabe assegurar.
 
@@ -170,21 +207,33 @@ Art. 9.º - 1. Os dispensários e os centros de diagnóstico e profilaxia são i
 
 4. A integração prevista nos números anteriores far-se-á gradualmente, à medida que os centros de saúde respectivos se encontrarem aptos a exercer as funções que passam a caber-lhes.
 
-Art. 10.º Os preventórios do Funchal, Parede e Santa Cruz da Trapa, actualmente pertencentes ao Instituto de Assistência Nacional aos Tuberculosos, são desintegrados do respectivo património, ficando o Ministro dos Assuntos Sociais autorizado a afectá-los, por despacho, a serviços de saúde ou de segurança social.
+###### Artigo 10.º
 
-Art. 11.º O actual Centro de Informática do Instituto de Assistência Nacional aos Tuberculosos terá o destino que lhe for dado em despacho do Secretário de Estado da Saúde, de acordo com o plano director de informática do Ministério dos Assuntos Sociais.
+Os preventórios do Funchal, Parede e Santa Cruz da Trapa, actualmente pertencentes ao Instituto de Assistência Nacional aos Tuberculosos, são desintegrados do respectivo património, ficando o Ministro dos Assuntos Sociais autorizado a afectá-los, por despacho, a serviços de saúde ou de segurança social.
 
-Art. 12.º - 1. Enquanto não forem revistos os quadros de pessoal da Direcção-Geral de Saúde e dos seus serviços locais, de acordo com o presente diploma, consideram-se os actuais quadros de pessoal do Instituto de Assistência Nacional aos Tuberculosos atribuídos ao Serviço de Luta Antituberculosa, com excepção dos actualmente afectos aos sanatórios, que ficarão a pertencer aos novos estabelecimentos hospitalares.
+###### Artigo 11.º
+
+O actual Centro de Informática do Instituto de Assistência Nacional aos Tuberculosos terá o destino que lhe for dado em despacho do Secretário de Estado da Saúde, de acordo com o plano director de informática do Ministério dos Assuntos Sociais.
+
+###### Artigo 12.º
+
+1. Enquanto não forem revistos os quadros de pessoal da Direcção-Geral de Saúde e dos seus serviços locais, de acordo com o presente diploma, consideram-se os actuais quadros de pessoal do Instituto de Assistência Nacional aos Tuberculosos atribuídos ao Serviço de Luta Antituberculosa, com excepção dos actualmente afectos aos sanatórios, que ficarão a pertencer aos novos estabelecimentos hospitalares.
 
 2. Ao pessoal dos quadros referidos no número anterior serão mantidos, nos novos serviços, os direitos e regalias inerentes à sua situação.
 
-Art. 13.º O Serviço de Luta Antituberculosa e os Hospitais de Pulido Valente e de Eduardo Santos Silva entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+###### Artigo 13.º
 
-Art. 14.º - 1. Fica o Secretário de Estado da Saúde autorizado a aprovar, em despacho, os regulamentos necessários à execução do presente diploma.
+O Serviço de Luta Antituberculosa e os Hospitais de Pulido Valente e de Eduardo Santos Silva entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+###### Artigo 14.º
+
+1. Fica o Secretário de Estado da Saúde autorizado a aprovar, em despacho, os regulamentos necessários à execução do presente diploma.
 
 2. Dos referidos regulamentos constará, nomeadamente, a obrigatoriedade de estreita cooperação entre todos os serviços intervenientes na luta contra a tuberculose de forma a assegurar a unidade de tratamento dos doentes, bem como do apoio a prestar pelos hospitais referidos no artigo 5.º na formação e aperfeiçoamento de pessoal técnico de pneumotisiologia.
 
-Art. 15.º - 1. No corrente ano económico o Serviço de Luta Antituberculosa atribuirá aos hospitais referidos no artigo 5.º e aos serviços que forem designados, nos termos do artigo 7.º, subsídios de montante a fixar em despacho do Secretário de Estado da Saúde, correspondentes aos encargos com o pessoal que transite e com as necessidades do actual esquema de funcionamento de serviços.
+###### Artigo 15.º
+
+1. No corrente ano económico o Serviço de Luta Antituberculosa atribuirá aos hospitais referidos no artigo 5.º e aos serviços que forem designados, nos termos do artigo 7.º, subsídios de montante a fixar em despacho do Secretário de Estado da Saúde, correspondentes aos encargos com o pessoal que transite e com as necessidades do actual esquema de funcionamento de serviços.
 
 2. O Serviço de Luta Antituberculosa suportará os encargos com o funcionamento das valências de pneumotisiologia e comparticipará nas despesas com o tratamento de doentes tuberculosos a cargo das valências dos cuidados médicos de base.
 

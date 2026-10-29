@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-11-26'
+version_history:
+  file: decreto-lei-357-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-26'
+    amending: pt:dre:448153:por
+    amending_title: Decreto-Lei n.º 262/2002
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/357/1998/11/18/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 262/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-357-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,17 +166,21 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ### CAPÍTULO I — Direcções de finanças de Lisboa e Porto
 
-###### Artigo 1.º — Direcções de finanças de Lisboa: divisão geográfica e denominação
+###### Artigo 1.º — Direcção de Finanças de Lisboa
 
-1 - No distrito de Lisboa são criadas duas direcções de finanças, cuja competência territorial será definida por portaria do Ministro das Finanças, com base na divisão do distrito em duas áreas fiscais.
+1 - É criada a Direcção de Finanças de Lisboa, cuja competência territorial abrange o respectivo distrito.
 
-2 - As direcções de finanças de Lisboa denominam-se 1.ª Direcção de Finanças de Lisboa e 2.ª Direcção de Finanças de Lisboa.
+2 - Os funcionários e agentes colocados nas 1.ª e 2.ª Direcções de Finanças de Lisboa, que não pertençam ao grupo de pessoal dirigente, transitam para lugares do quadro da direcção de finanças criada pelo presente diploma.
 
-3 - A actual Direcção de Finanças será extinta logo que entrem em funcionamento as direcções referidas no n.º 1 do presente artigo.
+3 - São extintas a 1.ª e a 2.ª Direcções de Finanças de Lisboa, cessando as comissões de serviço dos respectivos directores e demais pessoal dirigente, sem prejuízo de se manterem as comissões de serviço dos directores-adjuntos, directores de serviço e chefes de divisão para os efeitos previstos na alínea b) do n.º 1 do artigo 20.º da Lei n.º 49/99, de 22 de Junho.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 262/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2002-448153), publicado em 2002-11-25.
 
 ###### Artigo 2.º — Competências
 
-As competências de cada uma das direcções de finanças referidas no artigo anterior são as fixadas no n.º 1 do artigo 32.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro.
+As competências da Direcção de Finanças de Lisboa são as fixadas no n.º 1 do artigo 32.º do Decreto-Lei n.º 408/93, de 14 de Dezembro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 262/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2002-448153), publicado em 2002-11-25.
 
 ###### Artigo 3.º — Delegação de competências
 
@@ -169,9 +190,9 @@ As competências de cada uma das direcções de finanças referidas no artigo an
 
 3 - O disposto na primeira parte do número anterior não impede que, no caso das áreas funcionais referidas no n.º 3 do artigo seguinte, as delegações ou subdelegações possam ser efectuadas por matérias específicas relacionadas com as competências próprias das direcções de finanças ou, ainda, por serviços considerados isoladamente.
 
-###### Artigo 4.º — Estrutura orgânica das direcções de finanças de Lisboa e Porto
+###### Artigo 4.º — Estrutura orgânica
 
-1 - A 1.ª e a 2.ª Direcções de Finanças de Lisboa e a Direcção de Finanças do Porto dispõem de serviços operativos e de serviços de apoio técnico e administrativo.
+1 - A Direcção de Finanças de Lisboa e a Direcção de Finanças do Porto dispõem de serviços operativos e de serviços de apoio técnico e administrativo.
 
 2 - Os serviços operativos distribuem-se pelas seguintes áreas funcionais:
 
@@ -186,6 +207,8 @@ c) Inspecção tributária.
 a) Apoio técnico;
 
 b) Apoio administrativo.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 262/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2002-448153), publicado em 2002-11-25.
 
 ###### Artigo 5.º — Serviços operativos
 

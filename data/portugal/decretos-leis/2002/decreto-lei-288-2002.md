@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-13'
+version_history:
+  file: decreto-lei-288-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-13'
+    amending: pt:dre:505212:por
+    amending_title: Decreto-Lei n.º 207/2003
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO — ESTATUTOS::3.º
+    - Altera Artigo ANEXO — ESTATUTOS::19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/288/2002/12/10/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 207/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-288-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,11 +190,13 @@ O Centro Hospitalar da Cova da Beira é transformado em sociedade anónima de ca
 
 ###### Artigo 2.º — Objecto
 
-1 - O Centro tem por objecto a prestação de serviços de saúde, nos termos dos seus estatutos e no respeito pelas normas que o regem.
+1 - O Centro tem por objecto a prestação de serviços de saúde, bem como a investigação e o ensino, nos termos dos seus Estatutos e no respeito pelas normas que o regem.
 
 2 - O Centro está integrado no Serviço Nacional de Saúde.
 
 3 - O Centro pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 207/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2003-505212), publicado em 2003-09-12.
 
 ###### Artigo 3.º — Sucessão
 
@@ -349,11 +368,13 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 ###### Artigo 3.º — Objecto e duração
 
-1 - O Centro tem por objecto a prestação de serviços de saúde, integrado no Serviço Nacional de Saúde, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.
+1 - O Centro tem por objecto a prestação de serviços de saúde, bem como a investigação e o ensino, nos termos dos seus Estatutos e no respeito pelas normas que o regem.
 
 2 - O Centro pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.
 
 3 - O Centro é constituído por tempo ilimitado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2003-505212), publicado em 2003-09-12.
 
 ###### Artigo 4.º — Capital social e acções
 
@@ -609,11 +630,11 @@ h) Efectuar a revisão e a certificação legal de contas do Centro.
 
 a) Pessoa de reconhecido mérito nomeada pelo Ministro da Saúde, que preside;
 
-b) Um representante da Assembleia Municipal do concelho em que está sediado o Centro;
+b) Um representante de cada uma das assembleias municipais dos concelhos onde o Centro tem hospitais localizados;
 
 c) Um membro da Administração Regional de Saúde do Centro;
 
-d) Um representante dos utentes designado pela respectiva associação ou por equivalente estrutura de representação;
+d) Um representante dos utentes de cada um dos hospitais que integram o Centro, designados pela respectiva associação ou por equivalente estrutura de representação;
 
 e) Um representante dos trabalhadores;
 
@@ -626,6 +647,8 @@ g) Dois representantes escolhidos pelos membros do conselho anteriormente referi
 4 - O conselho de administração participa nas reuniões, sendo representado pelo seu presidente ou por um dos administradores do Centro.
 
 5 - O mandato dos membros do conselho não é remunerado e tem a duração de três anos, sem prejuízo de serem substituídos a todo o tempo, para completar o mandato, pelas entidades que os designaram.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2003-505212), publicado em 2003-09-12.
 
 ###### Artigo 20.º — Órgãos de apoio técnico
 

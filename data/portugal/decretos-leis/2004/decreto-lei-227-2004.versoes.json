@@ -1,0 +1,367 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:213808:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a7617064c5a57ff",
+    "929ac152064c785a",
+    "2be2ec0dc742c06b",
+    "02e25f347cedcc41",
+    "ae164b5b84daa5e1",
+    "35e22f81c14a13b8",
+    "93e02878320e8ea6",
+    "839ebb1d1ae285aa",
+    "37c91cdef53804d4",
+    "4e91e1793a86113b",
+    "814617f0a35429e2",
+    "a91af70daee871b0",
+    "0bcaf16c51edc75a",
+    "bce5e897b42f6a03",
+    "30f29c921f56e395",
+    "df6e065ad2a63904",
+    "2cfb9d8144018548",
+    "a81cd6ff5a7150a8",
+    "542b01d32a3c0ed9",
+    "194ff389998450ee",
+    "4dfbc546d6b0b23b",
+    "d1eecc8e8ab99147",
+    "f086e294a426750e",
+    "71e362fbb763a3f8",
+    "a7eb56de54c25779",
+    "b26a02dc3eae82bb",
+    "f78a1bf5213146c5",
+    "4bb2881793438edf",
+    "26d52b3d4f2ad062",
+    "11680b7438c8481a",
+    "e7f685df11606d24"
+   ]
+  },
+  {
+   "date": "2011-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670027:por",
+     "title": "Decreto-Lei n.º 79/2011",
+     "published": "2011-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2011-670027"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "2a7617064c5a57ff",
+    "929ac152064c785a",
+    "2be2ec0dc742c06b",
+    "02e25f347cedcc41",
+    "ae164b5b84daa5e1",
+    "35e22f81c14a13b8",
+    "93e02878320e8ea6",
+    "839ebb1d1ae285aa",
+    "37c91cdef53804d4",
+    "4e91e1793a86113b",
+    "814617f0a35429e2",
+    "01d844a719aecd11",
+    "970ed33ce8f75243",
+    "bce5e897b42f6a03",
+    "30f29c921f56e395",
+    "df6e065ad2a63904",
+    "2cfb9d8144018548",
+    "a81cd6ff5a7150a8",
+    "542b01d32a3c0ed9",
+    "194ff389998450ee",
+    "4dfbc546d6b0b23b",
+    "d1eecc8e8ab99147",
+    "f086e294a426750e",
+    "71e362fbb763a3f8",
+    "a7eb56de54c25779",
+    "b26a02dc3eae82bb",
+    "f78a1bf5213146c5",
+    "4bb2881793438edf",
+    "26d52b3d4f2ad062",
+    "11680b7438c8481a",
+    "e7f685df11606d24"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a7617064c5a57ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro\n\nAs trocas comerciais intracomunitárias de ovinos e caprinos pressupõem o cumprimento de exigências de polícia sanitária que assegurem um estatuto sanitário uniforme dos animais.\n\nA Directiva n.º [91/68/CEE](https://data.europa.eu/eli/dir/1991/68/oj?locale=pt), do Conselho, de 29 de Janeiro, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos, foi parcialmente transposta para o ordenamento jurídico interno pelas Portarias n.os 233/91, de 22 de Março, 427/91, de 24 de Maio, e 1051/91, de 15 de Outubro.\n\nO Decreto-Lei n.º 244/2000, de 27 de Setembro, que estabelece as normas técnicas de execução do Programa de Erradicação da Brucelose, bem como os procedimentos relativos à classificação sanitária de efectivos e áreas e à consequente epidemiovigilância da doença, revogou aquelas portarias.\n\nEntretanto, a Directiva n.º [2001/10/CE](https://data.europa.eu/eli/dir/2001/10/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, veio alterar a referida Directiva n.º [91/68/CEE](https://data.europa.eu/eli/dir/1991/68/oj?locale=pt), tendo sido transposta pelo Decreto-Lei n.º 265/2002, de 26 de Novembro.\n\nA necessidade de prevenir e controlar a ocorrência de surtos, como o da febre aftosa de 2001, e de minimizar os seus efeitos económicos adversos determinou a aprovação da Directiva n.º [2003/50/CE](https://data.europa.eu/eli/dir/2003/50/oj?locale=pt), do Conselho, de 11 de Junho, que altera a Directiva n.º [91/68/CEE](https://data.europa.eu/eli/dir/1991/68/oj?locale=pt) no que diz respeito ao reforço dos controlos da circulação de ovinos e caprinos consolidada, que ora se transpõe pelo presente decreto-lei.\n\nA extensão das alterações introduzidas justifica a revogação do Decreto-Lei n.º 265/2002, de 26 de Novembro, e a transposição para a ordem jurídica interna da Directiva n.º [91/68/CEE](https://data.europa.eu/eli/dir/1991/68/oj?locale=pt), do Conselho, de 29 de Janeiro, na redacção que lhe foi dada pela Directiva n.º [2003/50/CE](https://data.europa.eu/eli/dir/2003/50/oj?locale=pt).\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "929ac152064c785a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/68/CEE](https://data.europa.eu/eli/dir/1991/68/oj?locale=pt), do Conselho, de 29 de Janeiro, relativa às condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos, na redacção que lhe foi dada pela Directiva n.º [2003/50/CE](https://data.europa.eu/eli/dir/2003/50/oj?locale=pt), do Conselho, de 11 de Junho."
+  },
+  "2be2ec0dc742c06b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma regula as condições de polícia sanitária que regem as trocas comerciais intracomunitárias de ovinos e caprinos.\n\n2 - O disposto no presente diploma não exclui a aplicação da legislação que estabelece as normas técnicas de execução do Programa de Erradicação da Brucelose, bem como os procedimentos relativos à classificação sanitária de efectivos e áreas e à consequente epidemiovigilância da doença."
+  },
+  "02e25f347cedcc41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Ovino ou caprino para abate» o animal das espécies ovina ou caprina transportado, directamente ou através de centro de agrupamento, para um matadouro para abate;\n\nb) «Ovino ou caprino para reprodução» o animal das espécies ovina ou caprina não abrangido pelas alíneas a) e c) transportado para o local de destino, directamente ou através de centro de agrupamento aprovado, para fins de reprodução e de produção;\n\nc) «Ovino ou caprino para engorda» o animal das espécies ovina ou caprina não abrangido pelas alíneas a) e b) transportado para o local de destino, directamente ou através de centro de agrupamento aprovado, para fins de engorda e subsequente abate;\n\nd) «Exploração de ovinos ou caprinos oficialmente indemne de brucelose» a exploração que cumpre as condições previstas na secção D do anexo I do Decreto-Lei n.º 244/2000, de 27 de Setembro;\n\ne) «Exploração de ovinos ou caprinos indemne de brucelose» a exploração que cumpre as condições previstas na secção E do anexo I do Decreto-Lei n.º 244/2000, de 27 de Setembro;\n\nf) «Doença de notificação obrigatória» uma doença constante da secção I do anexo B do presente diploma;\n\ng) «Veterinário oficial» o veterinário designado pela autoridade competente;\n\nh) «Exploração de origem» a exploração em que os ovinos ou caprinos tenham residido continuamente como previsto no presente diploma e sobre a qual se mantêm registos que comprovam o lugar de residência dos animais e que possam ser objecto de auditoria pelas autoridades competentes;\n\ni) «Centros de agrupamento» o local onde são agrupados animais provenientes de diferentes explorações de origem para constituição de lotes destinados ao comércio;\n\nj) «Comerciante» a pessoa singular ou colectiva que, directa ou indirectamente, compra e vende animais para fins comerciais, que tem uma rotação regular desses animais e que, no prazo máximo de 29 dias a contar da aquisição, os revende ou transfere das primeiras instalações para outras instalações ou directamente para matadouro que não sejam da sua propriedade;\n\nl) «Instalações de comerciantes» as instalações, dirigidas por comerciante e aprovadas pela autoridade competente, onde os ovinos ou caprinos provenientes de diferentes explorações são agrupados para formar remessas de animais destinados ao comércio intracomunitário;\n\nm) «Transportador» a pessoa, singular ou colectiva, que, com carácter comercial e com fins lucrativos, transporta animais, por conta própria ou por conta de terceiros, ou coloca à disposição de terceiros um meio de transporte destinado a transportar animais;\n\nn) «Região» parte do território nacional de área não inferior a 2000 km2 sujeita a inspecção pelas autoridades competentes e que inclui, pelo menos, no território do continente, uma das zonas estabelecidas no anexo A e, no território insular, uma Região Autónoma;\n\no) «Autoridade sanitária veterinária nacional» a Direcção-Geral de Veterinária (DGV);\n\np) «Autoridade veterinária regional» as direcções regionais de agricultura (DRA)."
+  },
+  "ae164b5b84daa5e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Requisitos para o comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos para o comércio\n\n1 - Os ovinos e caprinos para abate podem ser objecto de comércio se preencherem as condições previstas nos artigos 5.º, 6.º, 7.º e 8.º\n\n2 - Sem prejuízo de eventuais garantias suplementares que possam ser exigidas, os ovinos e caprinos para engorda e os para reprodução só podem ser objecto de comércio se preencherem as condições previstas nos artigos 5.º, 6.º, 7.º, 9.º e 10.º\n\n3 - Os ovinos e caprinos abrangidos pelo presente diploma não devem, em nenhum momento, desde a saída da exploração de origem até à chegada ao local de destino, ter contactado com animais artiodáctilos que não sejam ovinos ou caprinos com o mesmo estatuto sanitário."
+  },
+  "35e22f81c14a13b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos mínimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos mínimos\n\n1 - Os ovinos e caprinos devem:\n\na) Ser identificados e registados em conformidade com a legislação em vigor;\n\nb) Ser inspeccionados por veterinário oficial durante as vinte e quatro horas que antecedem o seu carregamento e não apresentar qualquer sinal clínico de doença;\n\nc) Não ser provenientes nem ter estado em contacto com animais provenientes de exploração que seja objecto de proibição por motivos de polícia sanitária, devendo essa proibição vigorar, após o abate ou a eliminação do último animal afectado por, ou susceptível a, uma das doenças referidas nas subalíneas i), ii) ou iii), durante pelo menos:\n\ni) 42 dias, no caso da brucelose;\n\nii) 30 dias, no caso da raiva;\n\niii) 15 dias, no caso de carbúnculo bacteriano;\n\nd) Não ser provenientes nem ter estado em contacto com animais provenientes de exploração situada em zona que, por motivos de polícia sanitária, seja objecto de proibição ou restrição que afecte a espécie em questão;\n\ne) Não ter sido objecto de medidas em matéria de polícia sanitária decorrentes da legislação relativa à febre aftosa nem ter sido vacinados contra esta doença.\n\n2 - Não podem ser comercializados os ovinos e caprinos que:\n\na) Possam ter de ser abatidos no âmbito de programa nacional de erradicação de doenças não constantes do anexo C da Portaria n.º 575/93, de 4 de Junho, na última redacção que lhe foi dada pelo Decreto-Lei n.º 32/2004, de 7 de Fevereiro, nem na secção I do anexo B do presente diploma;\n\nb) Não possam ser comercializados no território nacional por questões de saúde pública ou saúde animal.\n\n3 - Os ovinos e caprinos devem ter nascido e sido criados desde o seu nascimento em território nacional ou ter sido importados de país terceiro em conformidade com a legislação em vigor."
+  },
+  "93e02878320e8ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Animais destinados ao abate, engorda ou reprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Animais destinados ao abate, engorda ou reprodução\n\n1 - Os ovinos e caprinos destinados ao abate, à engorda ou à reprodução podem ser comercializados quando:\n\na) Tenham permanecido continuamente na exploração de origem por um período de, pelo menos, 30 dias ou desde a nascença quando tenham menos de 30 dias de idade;\n\nb) Não provenham de exploração na qual tenham sido introduzidos ovinos ou caprinos nos 21 dias anteriores à expedição;\n\nc) Não provenham de exploração na qual tenham sido introduzidos biungulados importados de país terceiro nos 30 dias anteriores à expedição.\n\n2 - Em derrogação ao disposto nas alíneas b) e c) do número anterior, a autoridade veterinária regional pode autorizar a expedição de ovinos e caprinos sempre que os animais tenham sido completamente isolados de todos os outros animais da exploração."
+  },
+  "839ebb1d1ae285aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições gerais\n\n1 - Os animais não devem permanecer fora da sua exploração de origem por mais de seis dias antes de serem certificados pela última vez tendo em vista o comércio ou o destino final em outro Estado membro como indicado no certificado sanitário.\n\n2 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 14.º, no caso de transporte marítimo, o prazo estabelecido no número anterior é prorrogado pelo período de duração da viagem marítima.\n\n3 - Depois de abandonarem a exploração de origem, os animais devem ser enviados directamente para o seu destino.\n\n4 - Em derrogação ao disposto no n.º 3, os ovinos e caprinos podem transitar por um único centro de agrupamento, situado em território nacional, depois de deixarem a exploração de origem e antes da sua chegada ao destino.\n\n5 - No caso dos ovinos e caprinos para abate, o centro de agrupamento pode ser substituído por instalações de comerciantes situadas em território nacional.\n\n6 - Os animais para abate que, logo após a sua chegada ao destino, tenham sido conduzidos para um matadouro devem ser abatidos com a maior brevidade e nunca em prazo superior a setenta e duas horas a contar da sua chegada.\n\n7 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, os animais abrangidos pelo presente diploma não podem, em nenhum momento, desde a saída da exploração de origem até à chegada ao local de destino, comprometer o estatuto sanitário dos ovinos e caprinos não destinados às trocas intracomunitárias."
+  },
+  "37c91cdef53804d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Ovinos e caprinos para abate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ovinos e caprinos para abate\n\n1 - Em derrogação ao disposto na alínea a) do n.º 1 do artigo 6.º, os ovinos e caprinos para abate podem ser objecto de comércio após um período de permanência contínua na exploração de origem de 21 dias.\n\n2 - Em derrogação ao disposto na alínea b) do n.º 1 do artigo 6.º e sem prejuízo da aplicação do disposto no n.º 1 do artigo 7.º, os ovinos e caprinos para abate podem ser directamente entregues pela exploração de origem a matadouro, situado no Estado membro de destino, para abate imediato, sem terem completado o período de imobilização, sem terem sido sujeitos a operação de agrupamento, nem terem passado por ponto de paragem estabelecido, no âmbito dos controlos veterinários de animais vivos.\n\n3 - Em derrogação ao disposto nos n.os 3 e 4 do artigo 7.º e sem prejuízo da aplicação do disposto no n.º 1 do mesmo artigo, os ovinos e caprinos para abate podem, depois de abandonarem a exploração de origem, passar por mais de um centro de agrupamento, desde que:\n\na) Os animais, antes de passarem pelo centro de agrupamento previsto no n.º 4 do artigo 7.º, situado em território nacional:\n\ni) Passem, depois de abandonarem a exploração de origem, por um único centro de agrupamento sob controlo do veterinário oficial, onde só são aceites em simultâneo animais com, pelo menos, o mesmo estatuto sanitário;\n\nii) Sem prejuízo da legislação em vigor relativa à identificação dos ovinos e caprinos, sejam identificados nesse centro de agrupamento de modo a permitir, em cada caso, a rastreabilidade da sua exploração de origem;\n\niii) Sejam transportados acompanhados por documento do veterinário oficial até ao centro de agrupamento previsto no n.º 4 do artigo 7.º, para serem certificados e directamente entregues em matadouro do Estado membro de destino; ou\n\nb) Os animais, depois de expedidos do território nacional e antes de serem entregues no matadouro no Estado membro de destino, transitem por um centro de agrupamento aprovado que:\n\ni) Está situado no Estado membro de destino do qual é necessário remover os animais directamente para matadouro, sob a responsabilidade do veterinário oficial, para se proceder ao respectivo abate no prazo máximo de cinco dias após a sua chegada ao centro de agrupamento;\n\nii) Está situado em Estado membro de trânsito a partir do qual os animais são directamente entregues no matadouro do Estado membro de destino indicado no certificado sanitário emitido em conformidade com o n.º 7 do artigo 14.º"
+  },
+  "4e91e1793a86113b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Garantias complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Garantias complementares\n\nSem prejuízo das garantias complementares dadas pela implementação de programas nacionais de erradicação aprovados pela União Europeia, relativamente às epizootias constantes da secção II do anexo B, a introdução de ovinos e caprinos de engorda e reprodução em exploração oficialmente indemne de brucelose depende do cumprimento das condições previstas no artigo 5.º, bem como das exigências previstas no n.º 4 da secção D e no n.º 4 da secção E do anexo I do Decreto-Lei n.º 244/2000, de 27 de Setembro."
+  },
+  "814617f0a35429e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Requisitos especiais para ovinos e caprinos de engorda e reprodução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos especiais para ovinos e caprinos de engorda e reprodução\n\n1 - Sem prejuízo do disposto nos artigos 8.º e 9.º, os animais de engorda e reprodução devem, ainda, cumprir as exigências previstas nos números seguintes.\n\n2 - Os animais de engorda e reprodução devem ter permanecido em exploração e, apenas, ter tido contacto com animais de uma exploração:\n\na) Na qual não ocorreram as seguintes doenças:\n\ni) Durante os últimos seis meses, agalaxia contagiosa (Mycoplasma agalactiae) e agalaxia contagiosa da cabra (Mycoplasma agalactiae, M. capricolum, M. mycoides «large colony»);\n\nii) Durante os últimos 12 meses, a paratuberculose ou a linfadenite caseosa;\n\niii) Durante os últimos três anos, a adenomatose pulmonar, a Maedi visna ou a encefalite viral caprina, sendo, no entanto, este período reduzido para 12 meses se os animais atingidos por Maedi visna ou encefalite viral caprina foram abatidos e os restantes animais reagiram negativamente a testes reconhecidos segundo o procedimento comunitário ou que, sem prejuízo das exigências para as outras epizootias, forneçam para uma ou várias das epizootias anteriormente citadas no quadro de um programa aprovado segundo o procedimento comunitário garantias sanitárias equivalentes para essa ou para as referidas epizootias;\n\nb) Na qual não foi constatado, pelo veterinário oficial encarregue de emitir certificado veterinário, qualquer facto que indique falta de cumprimento das disposições previstas na alínea anterior;\n\nc) Cujo proprietário declarou por escrito não ter tido conhecimento de tal facto e que os animais destinados às trocas intracomunitárias cumprem os critérios previstos na alínea a).\n\n3 - No que se refere à epididimiorquite infecciosa do carneiro (B. ovis), os machos reprodutores e de criação não castrados devem:\n\na) Ser provenientes de exploração em que não foi constatado nenhum caso de epididimiorquite infecciosa (B. ovis) durante os últimos 12 meses;\n\nb) Ter permanecido nessa exploração durante os 60 dias precedentes à expedição;\n\nc) Ter sido submetidos, com resultado negativo, nos 30 dias precedentes à expedição, a exame serológico efectuado nas condições previstas no anexo C ou responder a garantias sanitárias equivalentes, a reconhecer segundo procedimento comunitariamente previsto.\n\n4 - A menção do cumprimento destas exigências deve figurar em certificado conforme ao modelo III do anexo D."
+  },
+  "a91af70daee871b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Centros de agrupamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Centros de agrupamento\n\nOs centros de agrupamento são autorizados pela autoridade competente nos termos e condições estabelecidos na legislação que regula o sistema nacional de identificação, registo e circulação de animais."
+  },
+  "0bcaf16c51edc75a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comerciantes\n\nOs comerciantes são registados nos termos e condições previstos na legislação que regula o sistema nacional de identificação, registo e circulação de animais."
+  },
+  "bce5e897b42f6a03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Transporte de animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transporte de animais\n\nOs transportadores devem cumprir as condições previstas na legislação que regula o sistema nacional de identificação, registo e circulação de animais."
+  },
+  "30f29c921f56e395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Certificados\n\n1 - Os ovinos e caprinos para abate, para engorda ou para reprodução destinados ao comércio entre Estados membros devem ser acompanhados, durante o transporte e até ao local de destino, de certificado sanitário conforme ao anexo D, respectivamente dos modelos I, II ou III.\n\n2 - O certificado deve:\n\na) Consistir em uma única folha ou, quando seja necessária mais de uma folha, é constituído de maneira a que todas as folhas façam parte de um conjunto integrado e indivisível, com um número de série;\n\nb) Ser emitido pelo veterinário oficial após as inspecções, visitas e controlos previstos no presente diploma;\n\nc) Ser emitido no dia da inspecção sanitária, pelo menos em uma das línguas oficiais do país de destino;\n\nd) Ser válido durante 10 dias a contar da data da inspecção sanitária.\n\n3 - As inspecções sanitárias para a emissão do certificado sanitário, incluindo as garantias adicionais para uma remessa de animais, podem ter lugar:\n\na) Na exploração de origem;\n\nb) Em centro de agrupamento; ou\n\nc) No caso dos animais destinados a abate, nas instalações do comerciante.\n\n4 - O veterinário oficial responsável pelo centro de agrupamento deve realizar as verificações necessárias nos animais logo após a sua chegada.\n\n5 - Para os ovinos e caprinos destinados a engorda e reprodução expedidos para outro Estado membro a partir de um centro de agrupamento situado em território nacional, o certificado sanitário referido no n.º 1, emitido de acordo com os modelos II ou III constantes do anexo D, pode ser emitido com base nas inspecções previstas no n.º 4 e em documento oficial, com as necessárias informações, completado pelo veterinário oficial responsável pela exploração de origem.\n\n6 - No caso dos ovinos e caprinos destinados a abate expedidos para outro Estado membro a partir de centro de agrupamento ou de instalações de comerciantes situados em território nacional, o certificado sanitário previsto no n.º 1, emitido de acordo com o modelo I constante do anexo D, só pode ser emitido com base nas inspecções previstas no n.º 4 e em documento oficial contendo as necessárias informações e completado pelo veterinário oficial responsável pela exploração de origem ou pelo centro de agrupamento previsto na subalínea i) da alínea a) do n.º 3 do artigo 8.º\n\n7 - No caso dos ovinos e caprinos destinados a abate que passam por um centro de agrupamento aprovado nos termos da subalínea ii) da alínea b) do n.º 3 do artigo 8.º, o veterinário oficial responsável pelo centro de agrupamento situado em território nacional deve, se os animais estiverem em trânsito, fornecer certificação ao Estado membro de destino mediante a emissão de um segundo certificado sanitário, emitido de acordo com o modelo I constante do anexo D, completando-o com os dados exigidos a partir do ou dos certificados sanitários originais e apensando-lhe uma cópia autenticada deste ou destes últimos, não devendo a validade combinada dos certificados exceder o prazo previsto no n.º 2.\n\n8 - O veterinário oficial que emita um certificado sanitário para o comércio intracomunitário conforme com um dos modelos I, II ou III constantes do anexo D, deve assegurar o registo do transporte dos animais no sistema ANIMO no dia da emissão do certificado."
+  },
+  "df6e065ad2a63904": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acordos bilaterais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acordos bilaterais\n\nPodem ser implementados bilateralmente regimes alternativos de controlo que ofereçam garantias alternativas às previstas nos artigos 6.º e 7.º para os movimentos de ovinos e caprinos, nomeadamente no que se refere à inspecção prevista no artigo 5.º e à obrigação do certificado previsto no artigo 14.º"
+  },
+  "2cfb9d8144018548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nA fiscalização do cumprimento das normas do presente diploma compete à DGV e às DRA, sem prejuízo das competências atribuídas por lei a outras entidades."
+  },
+  "a81cd6ff5a7150a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3700 ou (euro) 44800, consoante o agente seja pessoa singular ou colectiva:\n\na) A comercialização de ovinos e caprinos para abate que não preencham as condições previstas nos artigos 5.º, 6.º, 7.º e 8.º;\n\nb) A comercialização de ovinos e caprinos para engorda ou para reprodução que não preencham as condições previstas nos artigos 5.º, 6.º, 7.º, 9.º e 10.º;\n\nc) O comércio entre Estados membros da União Europeia de ovinos e caprinos para abate, para engorda ou para reprodução destinados ao comércio sem que sejam acompanhados durante o transporte e até ao local de destino do certificado sanitário previsto no artigo 14.º;\n\nd) A emissão de certificado sanitário em desrespeito pelas condições previstas no artigo 14.º\n\n2 - A negligência e a tentativa são sempre punidas."
+  },
+  "542b01d32a3c0ed9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de animais ou objectos pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorização, licenças e alvarás.\n\n2 - As sanções acessórias referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos a contar do trânsito em julgado da decisão condenatória."
+  },
+  "194ff389998450ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Instrução e decisão dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Instrução e decisão dos processos de contra-ordenação\n\n1 - Compete à DRA da área da prática da infracção a instrução dos processos de contra-ordenação.\n\n2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias."
+  },
+  "4dfbc546d6b0b23b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Afectação do produto das coimas\n\nA afectação do produto das coimas cobradas em aplicação do artigo 17.º faz-se da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que decidiu o processo;\n\nd) 60% para o Estado."
+  },
+  "d1eecc8e8ab99147": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV e às DRA pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria."
+  },
+  "f086e294a426750e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Alteração ao Decreto-Lei n.º 244/2000, de 27 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Decreto-Lei n.º 244/2000, de 27 de Setembro\n\n1 - O anexo B do Decreto-Lei n.º 244/2000, de 27 de Setembro, aditado pelo Decreto-Lei n.º 265/2002, de 26 de Novembro, é substituído pelo anexo E do presente diploma, que dele faz parte integrante.\n\n2 - Sempre que no Decreto-Lei n.º 244/2000, de 27 de Setembro, e no que se refere ao estatuto de efectivo ou exploração indemne ou oficialmente indemne de brucelose, se fizer referência ao teste de rosa de Bengala e fixação do complemento, deve entender-se como referência ao anexo E previsto no número anterior."
+  },
+  "71e362fbb763a3f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 265/2002, de 26 de Novembro.\n\nVisto e aprovado em Conselho de Ministros de 16 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - Carlos Henrique da Costa Neves - Luís Filipe da Conceição Pereira.\n\nPromulgado em 5 de Novembro de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 10 de Novembro de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "a7eb56de54c25779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A — Zonas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — Zonas\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/286a00/69887000.pdf)"
+  },
+  "b26a02dc3eae82bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO B — Doenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — Doenças"
+  },
+  "f78a1bf5213146c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\nFebre aftosa.\n\nBrucelose (B. melitensis).\n\nEpididimite contagiosa do carneiro (B. ovis).\n\nCarbúnculo bacteriano.\n\nRaiva."
+  },
+  "4bb2881793438edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\nAgalaxia contagiosa.\n\nParatuberculose.\n\nLinfadenite caseosa.\n\nAdenomatose pulmonar.\n\nMaedi visna.\n\nArtrite e encefalite viral caprina."
+  },
+  "26d52b3d4f2ad062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO C — Teste oficial de pesquisa da epididimite contagiosa do carneiro (B. ovis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — Teste oficial de pesquisa da epididimite contagiosa do carneiro (B. ovis)\n\nTeste de fixação do complemento\n\n1 - O antigéneo específico utilizado deve ser reconhecido pelo Laboratório Nacional de Investigação Veterinária e deve ser padronizado em relação ao soro padrão internacional anti-brucella ovis.\n\n2 - O soro de trabalho, de controlo diário, deve ser escalonado em relação ao soro padrão internacional anti-brucella ovis, preparado pelo laboratório veterinário central de Weybridge, Surrey, UK.\n\n3 - O soro que contenha pelo menos 50 unidades internacionais por mililitro deve ser considerado positivo."
+  },
+  "11680b7438c8481a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO D — Modelos de certificado sanitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — Modelos de certificado sanitário\n\nDo Modelo I ao Modelo III\n\n[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/12/286a00/69887000.pdf)"
+  },
+  "e7f685df11606d24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO E — Provas para a pesquisa da brucelose (B. melitensis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — Provas para a pesquisa da brucelose (B. melitensis)\n\n1 - Para a classificação das explorações, a pesquisa da brucelose (B. melitensis) é efectuada pelo teste rosa de Bengala, pelo teste de fixação do complemento descrito no anexo da Decisão n.º [90/242/CEE](https://data.europa.eu/eli/dec/1990/242/oj?locale=pt) ou por qualquer outro método reconhecido segundo o procedimento comunitariamente previsto, sendo o teste de fixação do complemento reservado aos testes a efectuar individualmente.\n\n2 - Se, aquando da realização da pesquisa por rosa de Bengala, mais de 5% dos animais da exploração apresentarem reacção positiva, deve ser feito um controlo adicional a cada animal pelo teste de fixação do complemento.\n\n3 - Para o teste de fixação do complemento, o soro, contendo pelo menos 20 unidades ICFT por mililitro, deve ser considerado positivo.\n\n4 - Os antigénios utilizados devem ser reconhecidos pelo Laboratório Nacional de Investigação Veterinária, de ora em diante designado por LNIV, e devem ser padronizados em relação ao segundo soro padrão internacional anti-brucella abortus."
+  },
+  "01d844a719aecd11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Centros de agrupamento",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+   ],
+   "markdown": "###### Artigo 11.º — Centros de agrupamento\n\n1 - O exercício da actividade pelos centros de agrupamento depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.\n\n2 - A aprovação prevista no número anterior só é concedida se o centro de agrupamento respeitar as condições previstas no presente decreto-lei e no Decreto-Lei n.º 214/2008, de 10 de Novembro.\n\n3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixe de ser cumprida alguma das condições legalmente exigidas.\n\n4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos centros de colheita de sémen.\n\n5 - Aos centros de agrupamento é atribuído um número de aprovação, e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+  },
+  "970ed33ce8f75243": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Comerciantes",
+   "in_force_from": "2011-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+   ],
+   "markdown": "###### Artigo 12.º — Comerciantes\n\n1 - O exercício da actividade pelos comerciantes depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.\n\n2 - A aprovação prevista no número anterior só é concedida se os comerciantes respeitarem os requisitos previstos no presente diploma e no Decreto-Lei n.º 214/2008, de 10 de Novembro.\n\n3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixem de ser cumpridas alguma das condições legalmente exigidas.\n\n4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos comerciantes.\n\n5 - Aos comerciantes é atribuído um número de aprovação, e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20."
+  }
+ }
+}

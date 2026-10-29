@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522646:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-01-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f079d4847ca8633",
+    "60ca746f3eee0c55",
+    "f4c776d338338bea",
+    "ec31f41246a92c18",
+    "4a33922c34fd747e",
+    "f1530c471d03a5fb",
+    "7858dbaacf51cc92",
+    "77d053e523587068",
+    "e21de3f0ef2ec2b7",
+    "70e95ab78ea6d0ac",
+    "d75e697e1f5584d7",
+    "1fcd6c47a2f28b73",
+    "8607bcd2c049faa9",
+    "2a9be1cbf20da61e",
+    "eac40af23322dce7"
+   ]
+  },
+  {
+   "date": "2007-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628530:por",
+     "title": "Portaria n.º 1516/2007",
+     "published": "2007-12-03",
+     "dre_path": "/dr/detalhe/portaria/1516-2007-628530"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "4f079d4847ca8633",
+    "60ca746f3eee0c55",
+    "f4c776d338338bea",
+    "ec31f41246a92c18",
+    "4a33922c34fd747e",
+    "f1530c471d03a5fb",
+    "7858dbaacf51cc92",
+    "77d053e523587068",
+    "e21de3f0ef2ec2b7",
+    "70e95ab78ea6d0ac",
+    "d75e697e1f5584d7",
+    "1fcd6c47a2f28b73",
+    "8607bcd2c049faa9",
+    "b14cf254da9db121",
+    "eac40af23322dce7"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f079d4847ca8633": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Janeiro\n\nConsiderando o êxito da campanha «Todos diferentes, todos iguais» realizada em Portugal em 1995, ao abrigo do programa constante na [Portaria n.º 745-M/96](https://diariodarepublica.pt/dr/detalhe/portaria/745-m-1996-584816), de 18 de Dezembro;\n\nConsiderando que a segunda edição desta campanha europeia é parte integrante do plano de acção adoptado na Cimeira de Chefes de Estado e Governos dos Países Membros do Conselho da Europa, celebrado em Varsóvia nos dias 15 e 16 de Maio de 2005;\n\nConsiderando que 2007 é o Ano Europeu de Igualdade de Oportunidades;\n\nConsiderando, ainda, a necessidade de apoiar iniciativas que contribuam para a desmistificação de preconceitos baseados no desconhecimento, o fortalecimento do respeito pela diferença e o entendimento de que a diversidade pode ser um factor qualitativo de maior participação social:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, ao abrigo do n.º 2 do artigo 2.º do [Decreto-Lei n.º 70/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1996-437780), de 4 de Junho, e atendendo ao estabelecido no [Decreto-Lei n.º 198/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1996-226063), de 17 de Outubro, o seguinte:"
+  },
+  "60ca746f3eee0c55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Programa Todos Diferentes, Todos Iguais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Programa Todos Diferentes, Todos Iguais\n\nÉ criado o Programa Todos Diferentes, Todos Iguais, adiante designado por Programa TDTI."
+  },
+  "f4c776d338338bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento\n\nÉ aprovado o respectivo Regulamento, que faz parte integrante da presente portaria."
+  },
+  "ec31f41246a92c18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão\n\nA gestão do Programa TDTI é atribuída ao Instituto Português da Juventude."
+  },
+  "4a33922c34fd747e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria produz efeitos a partir de 1 de Janeiro de 2007.\n\nO Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 4 de Janeiro de 2007.\n\nREGULAMENTO DO PROGRAMA TODOS DIFERENTES, TODOS IGUAIS"
+  },
+  "f1530c471d03a5fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO Programa TDTI tem como objectivo promover um debate participado sobre os direitos humanos, bem como promover e celebrar a diversidade."
+  },
+  "7858dbaacf51cc92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas de intervenção\n\nO Programa TDTI compreende as seguintes áreas de intervenção:\n\na) O voluntariado dirigido às comunidades imigrantes, tendo em vista o seu melhor acesso à informação relevante, bem como uma melhor inclusão social;\n\nb) Preparação, elaboração e difusão de materiais integrados nos objectivos globais do Programa, nas modalidades didáctico-informativa ou artística;\n\nc) Debates, colóquios e conferências que tenham como objectivo central o debate dos temas mencionados no artigo 1.º;\n\nd) Animação sócio-cultural que tenha em vista a promoção da inter-relação étnico-cultural;\n\ne) Desenvolvimento e publicação de trabalhos de investigação e de dados estatísticos relevantes, inovadores e inéditos;\n\nf) Apoio a acções de formação para a cidadania e os direitos humanos;\n\ng) Medidas de apoio, nomeadamente campanhas e acções de informação-formação, visando uma mais adequada integração das pessoas com deficiência ou incapacidade;\n\nh) Validação de instrumentos e apoio à sua publicação e publicitação, no âmbito da igualdade de oportunidades e do género;\n\ni) Acções de educação para a cidadania, em contexto escolar ou outro, na área da educação não formal."
+  },
+  "77d053e523587068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades promotoras\n\nPodem candidatar-se ao Programa TDTI as seguintes entidades:\n\na) Associações juvenis inscritas no Registo Nacional do Associativismo Jovem (RNAJ);\n\nb) Grupos informais de jovens;\n\nc) Outras entidades privadas sem fins lucrativos que prossigam objectivos enquadrados nas áreas de intervenção deste Programa, maioritariamente dirigidas a públicos juvenis."
+  },
+  "e21de3f0ef2ec2b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Apresentação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação dos projectos\n\n1 - As candidaturas serão apresentadas, em impresso próprio, nos serviços centrais e nas delegações regionais do Instituto Português da Juventude (IPJ) ou online através do portal da juventude.\n\n2 - As candidaturas deverão ser apresentadas em duas fases distintas: a primeira até 16 de Fevereiro e a segunda entre os dias 1 e 31 de Maio.\n\n3 - Os projectos apoiados não podem ultrapassar o prazo de 30 de Setembro de 2007."
+  },
+  "70e95ab78ea6d0ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Apreciação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apreciação dos projectos\n\n1 - A análise das candidaturas deverá ser realizada com base nos seguintes critérios:\n\na) Impacte e relevância da iniciativa proposta, nomeadamente pelo seu carácter formativo e pelos efeitos multiplicadores que origine;\n\nb) Número de participantes envolvidos ou população abrangida;\n\nc) Participação de jovens no planeamento, organização e realização das acções.\n\n2 - O IPJ apreciará as candidaturas e comunicará a sua decisão no prazo de 10 dias úteis, após parecer prévio favorável do Comité Nacional da Campanha."
+  },
+  "d75e697e1f5584d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoios\n\n1 - O apoio financeiro a conceder às actividades poderá ascender no máximo até 50% do total do orçamento efectivamente executado, não podendo ultrapassar (euro) 25000 por candidatura.\n\n2 - O apoio será atribuído em dois momentos:\n\na) O primeiro, correspondente a 70% do total do apoio, entregue no início da actividade;\n\nb) Os restantes 30% são disponibilizados depois de aprovado o relatório previsto no artigo seguinte e no prazo máximo de 30 dias após entrega do mesmo."
+  },
+  "1fcd6c47a2f28b73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Deveres das entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres das entidades promotoras\n\nConstituem deveres das entidades promotoras:\n\na) Dar conhecimento ao IPJ das alterações à planificação inicial das iniciativas, caso venham a verificar-se;\n\nb) Apresentar ao IPJ, no prazo de 20 dias, após conclusão do projecto, um relatório final com a discriminação de todas as despesas realizadas, com a exibição das cópias dos respectivos documentos comprovativos;\n\nc) Publicitar obrigatoriamente e de forma visível o apoio do Programa TDTI ao projecto;\n\nd) Certidão comprovativa da inexistência de dívidas ao Fisco e à segurança social."
+  },
+  "8607bcd2c049faa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Penalizações\n\n1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos ou acordados, implicará a imediata suspensão das mesmas, não podendo, ainda, a entidade beneficiar de qualquer apoio por um prazo de dois anos por parte do IPJ.\n\n2 - A não apresentação do relatório nos termos do referido na alínea b) do artigo anterior implica a reposição do apoio já efectuado e a inelegibilidade de novos projectos ao abrigo do Programa TDTI."
+  },
+  "2a9be1cbf20da61e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Duração do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Duração do Programa\n\nO Programa decorre até 30 de Setembro de 2007, devendo as acções ser realizadas até essa data."
+  },
+  "eac40af23322dce7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento\n\nAs despesas associadas ao Programa TDTI bem como os financiamentos previstos são suportados:\n\na) Pelo orçamento do IPJ e até ao limite das dotações orçamentais fixadas, através de despacho do Secretário de Estado da Juventude e do Desporto, sobre proposta da comissão executiva do IPJ;\n\nb) Por orçamentos provenientes de outras entidades públicas parceiras na campanha e no Programa, nomeadamente a Comissão para a Igualdade e para os Direitos das Mulheres, o Alto Comissariado para a Imigração e Minorias Étnicas e o Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência."
+  },
+  "b14cf254da9db121": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Duração do Programa",
+   "in_force_from": "2007-12-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1516/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1516-2007-628530), publicado em 2007-12-03."
+   ],
+   "markdown": "###### Artigo 9.º — Duração do Programa\n\nO Programa decorre até 31 de Maio de 2008, devendo as acções ser realizadas até essa data.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1516/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1516-2007-628530), publicado em 2007-12-03."
+  }
+ }
+}

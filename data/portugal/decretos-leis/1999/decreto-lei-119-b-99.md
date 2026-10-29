@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-01-01'
+version_history:
+  file: decreto-lei-119-b-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: pt:dre:627588:por
+    amending_title: Decreto-Lei n.º 220-A/99; Decreto-Lei n.º 541/99; Decreto-Lei n.º 306/2002; Decreto-Lei n.º 85/2003; Decreto-Lei
+      n.º 210/2003; Decreto-Lei n.º 217/2003; Decreto-Lei n.º 196/2004; Decreto-Lei n.º 48/2005; Decreto-Lei n.º 99/2006;
+      Decreto-Lei n.º 380/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/119-b/1999/04/14/p/dre/pt/html
@@ -68,7 +85,10 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:05:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 220-A/99; Decreto-Lei
+    n.º 541/99; Decreto-Lei n.º 306/2002; Decreto-Lei n.º 85/2003; Decreto-Lei n.º 210/2003; Decreto-Lei n.º 217/2003; Decreto-Lei
+    n.º 196/2004; Decreto-Lei n.º 48/2005; Decreto-Lei n.º 99/2006; Decreto-Lei n.º 380/2007. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-119-b-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -205,25 +225,33 @@ Considerando o disposto nos n.os 3, 6 e 7 do artigo 15.º da [Lei n.º 10/90](ht
 
 São objecto do presente diploma as seguintes concessões:
 
-a) Concessão a designar por IC16/IC30, integrando os seguintes lanços:
+a) Concessão a designar por Grande Lisboa, integrando os seguintes lanços:
 
-a1) Para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:
+a1) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes:
 
-IC16 - nó de Alto Colaride (IC18)-Lourel (IC30);
+A 16/IC 16 - nó da CREL (IC 18)-Lourel (IC 30);
 
-IC30 - Ranholas (IC19)-Linhó (EN9);
+A 16/IC 30 - Ranholas (IC 19)-Linhó;
 
-a2) Para concepção, construção, financiamento, exploração e manutenção, sem cobrança de portagem:
+a2) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes, excepto ao tráfego local:
 
-IC17 - CRIL/Buraca (IC19)-Pontinha (IC16);
+A 16/IC 30 - Linhó-Alcabideche (IC 15);
 
-a3) Para aumento do número de vias, exploração e manutenção, sem cobrança de portagem:
+a3) Para exploração, manutenção e aumento do número de vias com cobrança de portagem aos utentes, excepto ao tráfego local:
 
-IC16 - Lisboa (IC17)-nó de Belas (IC18);
+A 16/IC 30 - Lourel (IC 16)-Ranholas (IC 19);
 
-IC30 - Lourel (IC16)-Ranholas (IC19);
+a4) Para exploração e manutenção sem cobrança de portagem aos utentes:
 
-IC30 - Linhó (EN9)-Alcabideche (IC15);
+A 16/IC 16 - Lisboa (IC 17)-nó de Belas (IC 18);
+
+A 30/IC 2 - Sacavém (IP 1)-Santa Iria de Azoia (IP 1);
+
+A 36/IC 17 - Algés-Sacavém (IP 1); A37/IC I9 - Buraca (IC 17)-Ranholas (IC 30);
+
+A 40/IC 22 - Olival de Basto (IC 17)-Montemor (IC 18);
+
+IP 7 - Eixo Rodoviário Norte-Sul;
 
 b) Concessão a designar por Litoral/Centro, integrando os seguintes lanços:
 
@@ -233,13 +261,9 @@ IC1 - Marinha Grande (IC9)-Figueira da Foz (IP3);
 
 IC1 - Figueira da Foz (IP3)-Mira;
 
-b2) Para concepção, construção, financiamento, sem cobrança de portagem:
-
-IC8 - Louriçal (IC1)-nó de Pombal (IP1);
-
 c) Concessão a designar por Norte/Litoral, em regime de portagem sem cobrança respectiva aos utilizadores (SCUT), que integrará os seguintes lanços:
 
-c1) Para concepção, construção, conservação e exploração:
+c1) Para concepção, construção, financiamento, conservação e exploração:
 
 IP9 - Nogueira-Ponte de Lima;
 
@@ -251,27 +275,61 @@ IC1 - Porto (IP4)-Viana do Castelo (IP9);
 
 IP9 - Viana do Castelo (IC1)-Nogueira;
 
-d) Concessão a designar por Lisboa Norte - para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:
+d) (Revogada.)
 
-IC11 - Torres Vedras (IC1)-Carregado (IC2);
+e) Concessão a designar por Douro Litoral, integrando os seguintes lanços:
 
-e) Concessão a designar por IC24:
+e1) Para concepção, construção, financiamento, exploração e manutenção com cobrança de portagem aos utentes:
 
-e1) Para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:
+A 32/IC 2 - São João da Madeira (ER 327)-Carvalhos (IP 1);
 
-IC24 - Picoto (IC2)-nó da Ermida (IC25);
+A 41/IC 24 - Picoto (IC 2)-nó da Ermida (IC 25);
 
-e2) Para concepção, construção, financiamento, exploração e manutenção, sem cobrança de portagem aos utentes:
+A 43/IC 29 - Gondomar-Aguiar de Sousa (IC 24);
 
-IC24 - Espinho (IC1)-Picoto (IC2);
+ER 327 - Ovar (IC 1)-São João da Madeira (IC 2);
 
-f) Concessão a designar por IC3/Baixo Tejo - para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:
+e2) Para exploração e manutenção sem cobrança de portagem aos utentes:
 
-IC3 - Montijo (IP1)-Porto Alto (IC11).
+EN 14 - Ameal (IC 23)-Leça do Balio (IP 4);
+
+A 1/IC 1 - Coimbrões (IC 23)-Ponte da Arrábida (Norte);
+
+A 1/IC 2 - Nó de Santo Ovídio (IC 2)-Coimbrões (IC 1);
+
+A 20/IP 1 - Carvalhos (IC 2) - nó da VCI (IC 23);
+
+A 20/IC 23 - Nó de Francos (IC 1)-nó da VCI (IP 1);
+
+A 28/IC 1 - Ponte da Arrábida (Norte)-Sendim (IP 4);
+
+A 41/IC 24 - Espinho (IC 1)-Picoto (IC 2);
+
+A 43/IC 29 - Ponte do Freixo Norte (IP 1)-Gondomar;
+
+A 44/IC 23 - Coimbrões (IC 2)-Ponte do Freixo Sul (IP 1).
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+i) Concessão a designar por concessão do túnel do Marão, para concepção, construção, financiamento, exploração e manutenção, com cobrança de portagem aos utentes:
+
+A 4/IP 4 - Amarante-Vila Real;
+
+j) (Revogada.)
+
+l) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 220-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-a-1999-627588) e [Decreto-Lei n.º 541/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1999-632926) e [Decreto-Lei n.º 306/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2002-406552) e [Decreto-Lei n.º 85/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2003-240673) e [Decreto-Lei n.º 210/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2003-503819) e [Decreto-Lei n.º 217/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2003-497274) e [Decreto-Lei n.º 196/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2004-480915) e [Decreto-Lei n.º 48/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2005-608073) e [Decreto-Lei n.º 99/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2006-353937) e [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), publicado em 2007-11-13.
 
 ###### Artigo 3.º — Regime
 
-Sem prejuízo do previsto no n.º 2 do artigo 1.º do presente diploma, às concessões previstas nas alíneas a), b) e d) a f) do artigo anterior aplicam-se os artigos 3.º a 14.º do [Decreto-Lei n.º 9/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1997-301669), de 10 de Janeiro, e à mencionada na alínea c) os artigos 3.º a 14.º do Decreto-lei n.º 267/97, de 2 de Outubro.
+Sem prejuízo do previsto no n.º 2 do artigo 1.º do presente decreto-lei, às concessões previstas nas alíneas a), b) e d) a j) do artigo anterior aplicam-se os artigos 3.º a 14.º do Decreto-Lei n.º 9/97, de 10 de Janeiro, e às referidas nas alíneas c) e l), os artigos 3.º a 14.º do Decreto-Lei n.º 267/97, de 2 de Outubro.
+
+> Alterado pelo/a [Decreto-Lei n.º 220-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-a-1999-627588) e [Decreto-Lei n.º 541/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/541-1999-632926) e [Decreto-Lei n.º 306/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2002-406552) e [Decreto-Lei n.º 85/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2003-240673) e [Decreto-Lei n.º 210/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2003-503819) e [Decreto-Lei n.º 217/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2003-497274) e [Decreto-Lei n.º 196/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2004-480915) e [Decreto-Lei n.º 48/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2005-608073) e [Decreto-Lei n.º 99/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2006-353937) e [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), publicado em 2007-11-13.
 
 ###### Artigo 4.º — Entrada em vigor
 

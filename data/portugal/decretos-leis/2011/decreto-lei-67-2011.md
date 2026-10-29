@@ -38,10 +38,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-31'
+version_history:
+  file: decreto-lei-67-2011.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-31'
+    amending: pt:dre:66325236:por
+    amending_title: Decreto-Lei n.º 12/2015
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/67/2011/06/02/p/dre/pt/html
@@ -67,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:15:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 12/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2011/decreto-lei-67-2011.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,9 +256,11 @@ Ao abrigo do disposto no n.º 3 do artigo 18.º do regime jurídico da gestão h
 
 1 - O presente decreto-lei cria, com a natureza de entidade pública empresarial, a Unidade Local de Saúde do Nordeste, E. P. E. (ULS do Nordeste, E. P. E.), por integração do Centro Hospitalar do Nordeste, E. P. E. (CHNE), e do Agrupamento dos Centros de Saúde do Alto Trás-os-Montes I - Nordeste (ACES Nordeste), constante do anexo i ao presente decreto-lei, do qual faz parte integrante.
 
-2 - São aprovados os estatutos da ULS do Nordeste, E. P. E., que constam do anexo ii ao presente decreto-lei, do qual fazem parte integrante.
+2 - (Revogado.)
 
 3 - Com dispensa de quaisquer formalidades legais, consideram-se extintos, na data de entrada em vigor do presente decreto-lei, o CHNE e o ACES Nordeste.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 2.º — Sucessão
 
@@ -243,137 +274,87 @@ O presente decreto-lei e os seus anexos constituem títulos bastante para todos 
 
 ###### Artigo 4.º — Natureza e regime
 
-1 - A ULS do Nordeste, E. P. E., é uma pessoa colectiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro.
+(Revogado.)
 
-2 - A ULS do Nordeste, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus estatutos e na lei.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 5.º — Superintendência e tutela
 
-1 - Os membros do Governo responsáveis pelas áreas da saúde e das finanças exercem os poderes de superintendência e de tutela previstos no artigo 29.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro.
+(Revogado.)
 
-2 - Compete ainda ao membro do Governo responsável pela área da saúde:
-
-a) Aprovar os objectivos e estratégias da ULS do Nordeste, E. P. E.;
-
-b) Dar orientações, recomendações e directivas para prossecução das atribuições da ULS do Nordeste, E. P. E., designadamente em matérias transversais e comuns ao Serviço Nacional de Saúde;
-
-c) Definir as normas de organização e de actuação hospitalar;
-
-d) Homologar o regulamento interno da ULS do Nordeste, E. P. E.;
-
-e) Exigir todas as informações julgadas necessárias ao acompanhamento da actividade da ULS do Nordeste, E. P. E., bem como determinar auditorias e inspecções ao seu funcionamento.
-
-3 - O membro do Governo responsável pela área da saúde pode delegar os poderes referidos no número anterior no conselho directivo da Administração Regional de Saúde do Norte, I. P.
-
-4 - Compete aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
-
-a) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do respectivo fiscal único;
-
-b) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2 % do capital estatutário da ULS do Nordeste, E. P. E., mediante parecer favorável do fiscal único;
-
-c) Determinar os aumentos e reduções do capital estatutário da ULS do Nordeste, E. P. E.;
-
-d) Autorizar a contracção de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário da ULS do Nordeste, E. P. E.;
-
-e) Autorizar cedências de exploração de serviços, bem como a constituição de associações com outras entidades públicas para a melhor prossecução das atribuições da ULS do Nordeste, E. P. E.;
-
-f) Autorizar a participação da ULS do Nordeste, E. P. E., em sociedades anónimas cujo capital social seja por ela maioritariamente detido e que tenham por objecto a prestação de cuidados de saúde;
-
-g) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação da ULS do Nordeste, E. P. E., no capital social de outras sociedades, nos termos do artigo 37.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro;
-
-h) Autorizar os demais actos que, nos termos da legislação aplicável, necessitem de aprovação tutelar.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 6.º — Capital estatutário
 
-1 - O capital estatutário da ULS do Nordeste, E. P. E., é de (euro) 34 940 000, nos termos previstos nos respectivos estatutos.
+(Revogado.)
 
-2 - O capital da ULS do Nordeste, E. P. E., deve ser aumentado por entradas em espécie através dos bens imóveis pertencentes ao domínio privado do Estado e que integram actualmente os centros de saúde que correspondem ao ACES Nordeste, os quais são transferidos para o património da ULS do Nordeste, E. P. E.
-
-3 - Para efeitos do número anterior, deve ser realizada uma avaliação prévia pela Direcção-Geral do Tesouro e Finanças.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ### CAPÍTULO III — Regime financeiro
 
 ###### Artigo 7.º — Controlo financeiro
 
-Sem prejuízo do disposto nos artigos 12.º e 13.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, deve a ULS do Nordeste, E. P. E., submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
+(Revogado.)
 
-a) O plano de actividades e o orçamento, até ao final do mês de Outubro de cada ano;
-
-b) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;
-
-c) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, com a periodicidade que seja estabelecida.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 8.º — Financiamento
 
-1 - A ULS do Nordeste, E. P. E., é financiada nos termos da base xxxiii da Lei de Bases da Saúde, aprovada pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e alterada pela [Lei n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), de 8 de Novembro.
+(Revogado.)
 
-2 - O pagamento dos actos e actividades da ULS do Nordeste, E. P. E., pelo Estado é feito através de contrato-programa a celebrar com o Ministério da Saúde, no qual se estabelece o seguinte:
-
-a) Os objectivos e metas qualitativas e quantitativas;
-
-b) A calendarização das metas referidas na alínea anterior;
-
-c) Os meios e instrumentos para prosseguir os objectivos;
-
-d) Os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos actos clínicos.
-
-3 - O endividamento da ULS do Nordeste, E. P. E., não pode exceder em qualquer momento o limite de 30 % do respectivo capital estatutário, sem prejuízo do estabelecido relativamente ao acréscimo dos limites de endividamento.
-
-4 - O processo de financiamento assenta num sistema por capitação, determinado anualmente pelo Ministério da Saúde.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 9.º — Aquisição de bens e serviços
 
-À aquisição de bens e serviços é aplicável o regime previsto para os hospitais entidades públicas empresariais, designados por hospitais, E. P. E.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ### CAPÍTULO IV — Recursos humanos
 
 ###### Artigo 10.º — Regime de pessoal
 
-Os trabalhadores da ULS do Nordeste, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamento interno.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 11.º — Opção pelo contrato de trabalho
 
-A opção definitiva pelo regime do contrato de trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho a celebrar com a ULS do Nordeste, E. P. E., passa a produzir efeitos.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 12.º — Licença sem vencimento
 
-1 - Todos os trabalhadores que, à data da entrada em vigor do presente decreto-lei, possuam relação jurídica de emprego público com as unidades de saúde integradas na ULS do Nordeste, E. P. E. podem optar pela celebração de contrato de trabalho quando para o efeito lhes seja concedida licença sem vencimento prevista nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro, sendo-lhes asseguradas:
+(Revogado.)
 
-a) A contagem, na categoria de origem, do tempo de serviço prestado na ULS do Nordeste, E. P. E.;
-
-b) A opção pelo regime de protecção social da função pública.
-
-2 - Compete ao conselho de administração da ULS do Nordeste, E. P. E., o reconhecimento casuístico do interesse público subjacente ao pedido de licença sem vencimento.
-
-3 - Finda a licença sem vencimento, é ainda assegurada:
-
-a) A integração no quadro do serviço ou organismo do Ministério da Saúde que careça do profissional em causa, se necessário, em lugar a extinguir quando vagar, de preferência da região de saúde respectiva;
-
-b) A colocação em situação de mobilidade especial, nos termos legalmente estabelecidos.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 13.º — Mobilidade
 
-1 - Os trabalhadores que exercem funções públicas dos serviços e organismos do Ministério da Saúde podem ser contratados pela ULS do Nordeste, E. P. E., nos termos dos instrumentos de mobilidade previstos na lei, aplicando-se o disposto no artigo anterior e competindo ao membro do Governo responsável pela área da saúde o reconhecimento do respectivo interesse público, ouvidos os dirigentes máximos dos serviços ou organismos de origem e dos hospitais, E. P. E.
+(Revogado.)
 
-2 - Aplica-se à ULS do Nordeste, E. P. E., o regime de comissão de serviço previsto no artigo 17.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, alterado pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 14.º — Regime de protecção social
 
-Sem prejuízo do disposto nos artigos anteriores, o regime de protecção social da ULS do Nordeste, E. P. E., é o regime geral da segurança social.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
 ###### Artigo 15.º — Cessação dos mandatos e das comissões de serviço
 
-1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção das unidades integradas na ULS do Nordeste, E. P. E., mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.
+(Revogado.)
 
-2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia dos mesmos estabelecimentos e serviços de saúde, mantendo-se os respectivos titulares em exercício de funções até à designação dos novos titulares.
-
-3 - A designação dos novos titulares de cargos de direcção e chefia faz-se nos termos previstos no Código do Trabalho.
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 16.º — Regulamento interno
 
-O regulamento interno da ULS do Nordeste, E. P. E., deve ser elaborado e submetido a homologação do membro do Governo responsável pela área da saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 ###### Artigo 17.º — Pessoal com relação jurídica de emprego público
 
@@ -389,7 +370,9 @@ O regulamento interno da ULS do Nordeste, E. P. E., deve ser elaborado e submeti
 
 ###### Artigo 18.º — Entrada em vigor
 
-O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), publicado em 2015-01-26.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.
 

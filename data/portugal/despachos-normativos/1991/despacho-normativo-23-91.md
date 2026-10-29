@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-02-28'
+version_history:
+  file: despacho-normativo-23-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-02-28'
+    amending: pt:dre:292486:por
+    amending_title: Declaração de Rectificação n.º 28-I/91
+    changes:
+    - Retifica Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/23/1991/01/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:51:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 28-I/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-23-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +167,9 @@ As acções de conservação que concorrem ao Prémio de Defesa do Património C
 
 ###### Artigo 5.º — Júri
 
-O júri será constituído pelo presidente do Instituto Português do Património Cultural, que preside, por um dos vice-presidentes do mesmo organismo, por dois membros do Conselho Superior de Defesa e Salvaguarda do Património Cultural, pelo presidente da Associação Nacional de Municípios, pelo presidente da Associação dos Amigos das Casas Antigas e por três especialistas de reconhecida competência nas matérias em causa.
+O júri será constituído pelo presidente do Instituto Português do Património Cultural, que preside, por um dos vice-presidentes do mesmo organismo, por dois membros do Conselho Superior de Defesa e Salvaguarda do Património Cultural, pelo presidente da Associação Nacional de Municípios, pelo presidente da Associação Portuguesa das Casas Antigas e por três especialistas de reconhecida competência nas matérias em causa.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 28-I/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-i-1991-292486), publicado em 1991-02-28.
 
 ###### Artigo 6.º — Falta de qualidade
 

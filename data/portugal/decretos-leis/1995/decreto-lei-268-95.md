@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-11'
+version_history:
+  file: decreto-lei-268-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-11'
+    amending: pt:dre:361886:por
+    amending_title: Decreto-Lei n.º 141/97
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/268/1995/10/18/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:40:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 141/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-268-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,9 +180,11 @@ d) A Divisão de Expropriações da Direcção de Serviços de Construção;
 
 e) As direcções de exploração;
 
-f) As direcções de estradas no âmbito das direcções de exploração;
+f) As direcções de estradas no âmbito da Direcção de Serviços de Conservação;
 
 g) As divisões de estudo e planeamento e as de projecto, acompanhamento e apoio das direcções regionais de estradas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
 
 ###### Artigo 2.º — Direcção de Serviços de Projectos
 
@@ -247,39 +266,33 @@ f) Acompanhar, em colaboração com o Gabinete de Contencioso e Apoio Jurídico,
 
 ###### Artigo 8.º — Direcções de exploração
 
-1 - São criadas as Direcções de Exploração do Norte, das Beiras, do Centro, de Lisboa e do Sul, com sede, respectivamente, no Porto, em Viseu, em Santarém, em Lisboa e em Faro.
+1 - São criadas as direcções de exploração com a seguinte área de intervenção geográfica:
 
-2 - Todas as competências legalmente atribuídas às actuais direcções de estradas são transferidas para as direcções de exploração.
+a) Direcção de Exploração do Norte, com sede no Porto e abrangendo os distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto;
+
+b) Direcção de Exploração das Beiras, com sede em Viseu e abrangendo os distritos de Aveiro, Viseu, Guarda, Coimbra e Castelo Branco;
+
+c) Direcção de Exploração do Centro, com sede em Santarém e abrangendo os distritos de Leiria, Santarém, Portalegre e Évora;
+
+d) Direcção de Exploração de Lisboa, com sede em Lisboa e abrangendo os distritos de Lisboa e Setúbal;
+
+e) Direcção de Exploração do Sul, com sede em Faro e abrangendo os distritos de Beja e Faro.
+
+2 - As direcções de exploração prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere aos itinerários principais e complementares constituídos, bem como às estradas nacionais que, provisoriamente, asseguram essa função.
 
 3 - As direcções de exploração são chefiadas por directores de serviços, nomeados, nos termos da lei geral, em comissão de serviço.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
+
 ###### Artigo 9.º — Direcções de estradas
 
-1 - As direcções de exploração compreendem subunidades orgânicas, designadas direcções de estradas, com as seguintes áreas de intervenção geográfica:
-
-No âmbito da Direcção de Exploração do Norte/Porto:
-
-As Direcções de Estradas dos Distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto;
-
-No âmbito da Direcção de Exploração das Beiras:
-
-A Direcção de Estradas dos Distritos de Aveiro, Viseu, Guarda, Coimbra e Castelo Branco;
-
-No âmbito da Direcção de Exploração do Centro:
-
-As Direcções de Estradas dos Distritos de Leiria, Santarém, Portalegre e Évora;
-
-No âmbito da Direcção de Exploração de Lisboa:
-
-As Direcções de Estradas dos Distritos de Lisboa e Setúbal;
-
-No âmbito da Direcção de Exploração do Sul:
-
-As Direcções de Estradas dos Distritos de Beja e Faro.
+1 - As direcções de estradas têm âmbito distrital, sendo as seguintes: Direcção de Estradas do Distrito de Viana do Castelo, Braga, Bragança, Vila Real, Porto, Aveiro, Viseu, Guarda, Coimbra, Castelo Branco, Leiria, Santarém, Portalegre, Évora, Lisboa, Setúbal, Beja e Faro.
 
 2 - Cada direcção de estradas é chefiada por um director com categoria correspondente a chefe de divisão, nomeado, nos termos da lei geral, em comissão de serviço.
 
-3 - Os directores de estradas exercem as competências que lhe forem delegadas ou subdelegadas pelo respectivo director de exploração, essencialmente nos domínios da exploração, polícia e segurança das estradas.
+3 - As direcções de estradas prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º, bem como as previstas no artigo 63.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere às estradas nacionais e às estradas regionais, quando criadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06.
 
 ###### Artigo 10.º
 

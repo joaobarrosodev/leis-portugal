@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-15'
+version_history:
+  file: decreto-lei-55-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-15'
+    amending: pt:dre:522218:por
+    amending_title: Lei n.º 89/2001
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/55/2001/02/15/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:29:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 89/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-55-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -372,13 +388,15 @@ c) Dois anos após a entrada em vigor do presente diploma, e, se for caso disso,
 
 1 - Durante um período de dois anos a contar da data de entrada em vigor do presente diploma e mediante a realização de concursos nos termos legais:
 
-a) O recrutamento para a carreira de conservador pode ser alargado aos técnicos superiores dos quadros de pessoal dos palácios, monumentos e sítios, detentores de licenciatura adequada e experiência profissional, no mínimo de três anos, no exercício efectivo de funções correspondentes à carreira de conservador;
+a) O recrutamento para a carreira de conservador pode ser alargado aos técnicos superiores dos quadros de pessoal dos museus, palácios, monumentos e sítios dos serviços e organismos a que se refere o n.º 2 do artigo 1.º do presente diploma, detentores de licenciatura adequada e experiência profissional, no mínimo de três anos, no exercício efectivo de funções correspondentes à carreira de conservador;
 
 b) O recrutamento para a carreira de conservador-restaurador pode ser alargado aos técnicos de conservação e restauro possuidores de curso superior não conferente de grau de licenciatura, habilitados com formação profissional adequada e com experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro;
 
 c) O recrutamento para a carreira de técnico profissional de conservação e restauro pode ser alargado a indivíduos habilitados com o 9.º ano de escolaridade e experiência profissional adequada, no mínimo de três anos, na área de conservação e restauro.
 
 2 - A integração na escala indiciária das categorias de ingresso das carreiras a que se refere o número anterior faz-se nos termos do n.º 2 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, aplicando-se o disposto no n.º 3 do mesmo artigo.
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10.
 
 ###### Artigo 18.º — Alteração dos quadros de pessoal
 
@@ -396,7 +414,9 @@ e) Os lugares da carreira do grupo de pessoal de guardaria providos pelos funcio
 
 f) Os lugares da carreira de auxiliar de museografia são convertidos em lugares da carreira de auxiliar administrativo.
 
-2 - Para efeitos da aplicação do regime previsto no presente diploma, os quadros de pessoal dos organismos e serviços referidos no artigo 1.º serão alterados no prazo de um ano.
+2 - Para efeitos da aplicação do regime previsto no presente diploma, os quadros de pessoal dos organismos e serviços referidos no artigo 1.º serão alterados no prazo de um ano a contar da data de entrada em vigor do presente diploma.
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 89/2001](https://diariodarepublica.pt/dr/detalhe/lei/89-2001-522218), publicado em 2001-08-10.
 
 ###### Artigo 19.º — Contagem de tempo de serviço
 

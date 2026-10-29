@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298050:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7d80e592d8c6402a"
+   ]
+  },
+  {
+   "date": "1996-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228404:por",
+     "title": "Decreto-Lei n.º 195/96",
+     "published": "1996-10-16",
+     "dre_path": "/dr/detalhe/decreto-lei/195-1996-228404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "fe5a0f726d28e48a",
+    "f589b355f36edcbd",
+    "ef0e73063590ad84",
+    "e4f98c0016b4368d",
+    "e77f9316f821c323",
+    "a1354eae02dcfb0a",
+    "845c38d7ce6a86f5",
+    "0f484f782b35f68a",
+    "312a8637f7e00753",
+    "2f6fb73278263f83",
+    "5d094357340ae8aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "7d80e592d8c6402a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nConsiderando a necessidade de criar um bilhete de identidade que legalmente identifique o pessoal da Guarda Nacional Republicana como militar e como autoridade (ou agente de autoridade) policial, instrumento necessário ao exercício da respectiva missão, cuja falta de há muito se fazia sentir;\n\nAtendendo a que constitui aspiração antiga de quantos servem naquele corpo de tropas a obtenção de um bilhete de identidade a que sejam reconhecidos todos os efeitos conferidos por lei ao bilhete de identidade civil;\n\nTendo em conta que o Exército de há muito dispõe de um regime de identificação próprio para o seu pessoal e que a lei reconhece aos militares da Guarda Nacional Republicana direitos idênticos aos dos militares do Exército:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º É criado o bilhete de identidade do pessoal militar da Guarda Nacional Republicana destinado a oficiais, sargentos e praças, nas situações de activo, reserva e reforma.\n\nArt. 2.º - 1 - O bilhete de identidade a que se refere o artigo anterior é do modelo anexo ao presente diploma e é impresso, em ambas as faces, sobre campo azul, verde ou amarelo, consoante se destinar, respectivamente, a oficiais, sargentos ou praças, constituído pelo escudo nacional, por um desenho repetitivo do distintivo da Guarda Nacional Republicana, alternadamente disposto em colunas paralelas, e pelos dizeres «República Portuguesa» e «Guarda Nacional Republicana».\n\n2 - A inscrição «síntese biossanitária» e os respectivos traços limitativos são impressos a encarnado.\n\n3 - O bilhete de identidade é protegido por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão.\n\nArt. 3.º - 1 - A fotografia a inserir no bilhete de identidade é tirada a três quartos e da linha de ombros para cima.\n\n2 - A fotografia é tirada de uniforme privativo com barrete.\n\nArt. 4.º Do verso de cada tipo de bilhete de identidade consta, por extracto, referência aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções.\n\nArt. 5.º O bilhete de identidade é emitido pelo Comando-Geral da Guarda Nacional Republicana e autenticado por selo branco, aposto no canto inferior direito da fotografia.\n\nArt. 6.º O bilhete de identidade referido no artigo 1.º substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.\n\nArt. 7.º - 1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de militar dos quadros da Guarda Nacional Republicana.\n\n2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral da Guarda Nacional Republicana, do bilhete caducado.\n\nArt. 8.º O bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma.\n\nArt. 9.º Os tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça.\n\nArt. 10.º A Guarda Nacional Republicana estabelecerá as normas internas relativas a:\n\na) Emissão do bilhete de identidade;\n\nb) Contrôle dos impressos utilizados.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama.\n\nPromulgado em 21 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15400/12611262.pdf)"
+  },
+  "fe5a0f726d28e48a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nConsiderando a necessidade de criar um bilhete de identidade que legalmente identifique o pessoal da Guarda Nacional Republicana como militar e como autoridade (ou agente de autoridade) policial, instrumento necessário ao exercício da respectiva missão, cuja falta de há muito se fazia sentir;\n\nAtendendo a que constitui aspiração antiga de quantos servem naquele corpo de tropas a obtenção de um bilhete de identidade a que sejam reconhecidos todos os efeitos conferidos por lei ao bilhete de identidade civil;\n\nTendo em conta que o Exército de há muito dispõe de um regime de identificação próprio para o seu pessoal e que a lei reconhece aos militares da Guarda Nacional Republicana direitos idênticos aos dos militares do Exército:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "f589b355f36edcbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o bilhete de identidade do pessoal militar da Guarda Nacional Republicana destinado a oficiais, sargentos e praças, nas situações de activo, reserva e reforma."
+  },
+  "ef0e73063590ad84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1996-10-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1996-228404), publicado em 1996-10-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O modelo de bilhete de identidade a que se refere o artigo anterior é o constante do anexo ao presente diploma.\n\n2 - O impresso do modelo referido no número anterior apresenta as seguintes características: papel branco, fundo de impressão branco com o escudo da Guarda Nacional Republicana impresso em rede de cor verde e impressão dos restantes elementos a preto.\n\n3 - O modelo referido no n.º 1 do presente artigo tem as dimensões de 105 mm de largura por 76 mm de altura e os espaços nele reservados à fotografia e à impressão digital medem, respectivamente, 37 mm x 37 mm e 37 mm x 30 mm.\n\n4 - A inscrição 'síntese biossanitária' e os respectivos traços limitativos são impressos a encarnado.\n\n5 - O bilhete de identidade é emitido por meios informáticos, sendo as bases de dados que lhe dão origem criadas de acordo com o preceituado na Lei n.º 10/91, de 29 de Abril, alterada pela Lei n.º 28/94, de 29 de Agosto, e é protegido por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 195/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1996-228404), publicado em 1996-10-16."
+  },
+  "e4f98c0016b4368d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A fotografia a inserir no bilhete de identidade é tirada a três quartos e da linha de ombros para cima.\n\n2 - A fotografia é tirada de uniforme privativo com barrete."
+  },
+  "e77f9316f821c323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDo verso de cada tipo de bilhete de identidade consta, por extracto, referência aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções."
+  },
+  "a1354eae02dcfb0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO bilhete de identidade é emitido pelo Comando-Geral da Guarda Nacional Republicana e autenticado por selo branco, aposto no canto inferior direito da fotografia."
+  },
+  "845c38d7ce6a86f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO bilhete de identidade referido no artigo 1.º substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação."
+  },
+  "0f484f782b35f68a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de militar dos quadros da Guarda Nacional Republicana.\n\n2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral da Guarda Nacional Republicana, do bilhete caducado."
+  },
+  "312a8637f7e00753": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma."
+  },
+  "2f6fb73278263f83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça."
+  },
+  "5d094357340ae8aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Guarda Nacional Republicana estabelecerá as normas internas relativas a:\n\na) Emissão do bilhete de identidade;\n\nb) Contrôle dos impressos utilizados.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama.\n\nPromulgado em 21 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15400/12611262.pdf)"
+  }
+ }
+}

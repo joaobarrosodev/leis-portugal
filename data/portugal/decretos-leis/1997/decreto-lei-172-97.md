@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-26'
+version_history:
+  file: decreto-lei-172-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-26'
+    amending: pt:dre:486974:por
+    amending_title: Decreto-Lei n.º 178/98; Decreto-Lei n.º 221-A/99
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/172/1997/07/16/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:50:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 178/98; Decreto-Lei
+    n.º 221-A/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-172-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,31 +193,33 @@ c) Regime de apoio à competitividade das empresas de construção;
 
 d) Regime de apoio ao desenvolvimento de competências tecnológicas nas empresas.
 
-3 - As candidaturas aos regimes de apoio previstos no número anterior podem envolver investimento em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em regulamento específico.
+3 - As candidaturas aos regimes de apoio e acções voluntaristas podem envolver investimento em formação profissional, financiado pelo Fundo Social Europeu, nos termos previstos em regulamento específico.
 
 4 - As acções voluntaristas compreendem todas as acções de informação, sensibilização, promoção da cooperação empresarial e de formação e a criação de novos instrumentos financeiros adaptados às PME e às novas empresas de base tecnológica.
 
 5 - Os regimes de apoio e as acções voluntaristas são objecto de regulamentação específica.
 
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
+
 ###### Artigo 3.º — Entidades beneficiárias
 
-1 - Os apoios a conceder no âmbito dos regimes previstos no n.º 2 do artigo anterior dirigem-se aos projectos promovidos por empresas constituídas, ou a constituir, que:
+1 - Os apoios a conceder no âmbito dos regimes previstos no n.º 2 do artigo anterior dirigem-se aos projectos promovidos por empresas, agrupamentos complementares de empresas (ACE), cooperativas e consórcios, constituídos ou a constituir, que:
 
-a) Tenham até 50 trabalhadores, no caso dos regimes de apoio previstos nas alíneas a) e b);
+a) Tenham até 250 trabalhadores, no caso dos regimes de apoio previstos nas alíneas a), b) e c);
 
-b) Tenham entre 10 e 250 trabalhadores, no caso do regime de apoio previsto na alínea c);
-
-c) Tenham até 250 trabalhadores, no caso do regime de apoio previsto na alínea d), com excepção das situações previstas em regulamento específico.
+b) Tenham até 500 trabalhadores, no caso do regime de apoio previsto na alínea d).
 
 2 - As empresas a que se refere o n.º 1 podem candidatar-se conjuntamente, nos termos a definir em regulamento.
 
 3 - São beneficiárias das acções voluntaristas as PME que participem nas iniciativas levadas a cabo pelas entidades da Administração Pública, do Sistema Científico e Tecnológico, associações empresariais e outras entidades que vierem a ser associadas ao Programa através da celebração de contratos-programa nos termos a definir em regulamento.
 
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
+
 ###### Artigo 4.º — Condições de acesso do promotor
 
-1 - As empresas promotoras dos projectos candidatos aos regimes de apoio indicados no artigo 2.º podem beneficiar dos incentivos nele previstos desde que:
+1 - As entidades promotoras dos projectos candidatos aos regimes de apoio indicados no artigo 2.º podem beneficiar dos incentivos nele previstos desde que:
 
-a) Estejam constituídas como sociedades comerciais à data da celebração do contrato;
+a) Estejam constituídas como sociedades comerciais, cooperativas, agrupamentos complementares de empresas ou consórcios à data da celebração do contrato de concessão de incentivos;
 
 b) Se comprometam a manter uma contabilidade organizada segundo o Plano Oficial de Contabilidade;
 
@@ -213,6 +237,8 @@ b) Demonstrar que possui capacidade técnica e de gestão adequadas à dimensão
 
 3 - Quando exista investimento em formação profissional, as empresas podem beneficiar de apoios do Fundo Social Europeu, desde que cumpram o disposto no regulamento previsto no n.º 3 do artigo 2.º
 
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
+
 ###### Artigo 5.º — Condições de acesso do projecto
 
 1 - Os projectos candidatos devem satisfazer as seguintes condições:
@@ -223,7 +249,11 @@ b) Não se terem iniciado há mais de 90 dias úteis à data de apresentação d
 
 c) Disporem de financiamento adequado, excluindo os eventuais incentivos a atribuir à candidatura.
 
-2 - As condições de acesso referidas no número anterior são objecto de regulamentação.
+2 - Para efeitos da alínea b) do n.º 1, considera-se início do projecto a data da factura mais antiga imputável ao projecto.
+
+3 - As condições de acesso referidas no n.º 1 são objecto de regulamentação.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
 
 ###### Artigo 6.º — Natureza do projecto
 
@@ -315,7 +345,9 @@ e) Enviar ao gestor do Programa os pareceres e a proposta de decisão relativos 
 
 5 - O contrato pode ser objecto de renegociação por motivos devidamente justificados e após autorização da entidade gestora.
 
-6 - A posição jurídica do promotor no contrato pode ser objecto de cessão, por motivos devidamente justificados, após autorização da entidade gestora e homologação dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, para a Qualificação e o Emprego e da Ciência e da Tecnologia.
+6 - A posição jurídica do promotor no contrato pode ser objecto de cessão, por motivos devidamente justificados, após homologação dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Economia, do Trabalho e da Solidariedade e da Ciência e da Tecnologia, sob proposta da entidade gestora.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
 
 ###### Artigo 14.º — Rescisão do contrato de concessão de incentivos
 
@@ -327,21 +359,31 @@ b) Prestação de informações falsas sobre a situação da empresa ou viciaç�
 
 2 - A rescisão do contrato implica a caducidade dos incentivos concedidos, sendo o promotor obrigado, no prazo de 60 dias a contar da notificação, a repor à entidade gestora as importâncias recebidas, acrescidas de juros calculados à taxa LISBOR aplicável a operações activas de idêntica duração, acrescida de 3 pontos percentuais.
 
+3 - Sempre que o fundamento da rescisão for o constante da alínea b) do n.º 1, o respectivo promotor não pode apresentar novas candidaturas a incentivos no âmbito do Programa.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 178/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1998-486974), publicado em 1998-07-03.
+
 ###### Artigo 15.º — Pagamento dos incentivos
 
 1 - Os promotores das candidaturas aprovadas ao abrigo do presente diploma, após a assinatura do contrato e para efeito da implementação dos projectos, devem enviar pedidos de pagamento ao IAPMEI, ao Fundo de Turismo ou à Agência de Inovação, consoante os casos, no máximo de dois, apresentando para o efeito os originais das facturas, dos recibos justificativos dos pagamentos, devidamente classificados em função do projecto, e os comprovativos do seu registo contabilístico.
 
-2 - O segundo e último pagamento não poderá ser inferior a 20% do total do incentivo concedido.
+2 - O primeiro pagamento não pode ser superior a 50% do incentivo concedido.
 
-3 - O pagamento dos incentivos é efectuado no prazo de 15 dias úteis, pelas entidades referidas no n.º 1, ao promotor do projecto, após a verificação física, documental e contabilística das despesas a que respeitarem.
+3 - O pagamento dos incentivos aos promotores é efectuado, no prazo de 10 dias úteis, pelas entidades referidas no n.º 1, após a verificação documental no primeiro pagamento e após verificação física, documental e contabilística no último pagamento.
 
 4 - As entidades referidas no n.º 1 devem enviar mensalmente ao gestor do Programa as listas de pagamentos efectuados aos promotores dos projectos.
 
-###### Artigo 16.º — Adiantamento de pagamento
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21.
 
-1 - Pode ser concedido um único adiantamento a cada projecto, correspondente a um máximo de 50% do incentivo a fundo perdido aprovado, mediante solicitação da empresa, devidamente acompanhada de garantia bancária emitida por instituição de crédito de primeira ordem, segundo minuta a fornecer pela entidade gestora, e no valor correspondente ao adiantamento, bem como a prova de que se iniciou o investimento.
+###### Artigo 16.º — Adiantamentos do pagamento
 
-2 - No caso de adiantamento, o pagamento é efectuado no prazo de 10 dias úteis após a confirmação dos elementos constantes do pedido de pagamento.
+1 - Podem ser concedidos dois adiantamentos, correspondentes a um máximo para cada um de 30% do incentivo a fundo perdido aprovado, mediante solicitação da empresa, devidamente acompanhada de garantia bancária emitida por instituição de crédito de primeira ordem, segundo minuta a fornecer pela entidade gestora e no valor correspondente ao adiantamento, bem como a prova de que se iniciou o investimento.
+
+2 - O pagamento do primeiro adiantamento é efectuado no prazo de 10 dias úteis após a confirmação dos elementos constantes do pedido de pagamento.
+
+3 - O segundo adiantamento é pago 10 dias úteis após a comprovação documental das despesas elegíveis correspondentes ao incentivo já adiantado.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 221-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-a-1999-688416), publicado em 1999-06-21.
 
 ###### Artigo 17.º — Contabilização dos incentivos
 

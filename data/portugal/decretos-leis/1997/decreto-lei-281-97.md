@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-18'
+version_history:
+  file: decreto-lei-281-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-10-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-18'
+    amending: pt:dre:522844:por
+    amending_title: Decreto-Lei n.º 130/98
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/281/1997/10/15/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:52:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 130/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-281-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,11 +177,13 @@ c) Três personalidades de reconhecida competência.
 
 ###### Artigo 5.º — Requerimento
 
-1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias sobre a entrada em vigor do presente diploma, ao júri a que se refere o artigo 3.º
+1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias a contar da data da entrada em vigor da portaria prevista no artigo 10.º, ao júri a que se refere o artigo 3.º
 
 2 - Os requerimentos são entregues no Departamento dos Recursos Humanos da Saúde.
 
 3 - Compete ao Departamento dos Recursos Humanos da Saúde verificar a adequada instrução dos pedidos de acordo com os critérios fixados pelo júri.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1998-522844), publicado em 1998-05-13.
 
 ###### Artigo 6.º — Critérios
 

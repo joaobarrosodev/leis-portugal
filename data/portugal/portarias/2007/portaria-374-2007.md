@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-07-24'
+version_history:
+  file: portaria-374-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-24'
+    amending: pt:dre:334101:por
+    amending_title: Portaria n.º 560/2010
+    changes:
+    - Altera Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::1.º
+    - Adita Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::3.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/374/2007/03/30/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:23:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 560/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-374-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,17 +159,25 @@ Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário
 
 ###### Artigo 1.º — Estrutura
 
-1 - A Cinemateca Portuguesa-Museu do Cinema, I. P., abreviadamente designada por CP-MC, I. P., estrutura-se em dois departamentos e uma divisão.
+1 - A Cinemateca Portuguesa-Museu do Cinema, I. P., abreviadamente designada por CP-MC, I. P., estrutura-se em serviços centrais e um serviço desconcentrado.
 
-2 - São departamentos da CP-MC, I. P.:
+2 - Os serviços centrais da CP-MC, I. P., integram dois departamentos e uma divisão.
+
+3 - São departamentos da CP-MC, I. P.:
 
 a) Departamento de Arquivo Nacional das Imagens em Movimento;
 
 b) Departamento de Exposição Permanente.
 
-3 - É divisão da CP-MC, I. P., a Divisão de Gestão.
+4 - É divisão da CP-MC, I. P., a Divisão de Gestão.
 
-4 - Os Departamentos são dirigidos por um director, cargo de direcção intermédia de 1.º grau, e a Divisão por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
+5 - É serviço territorialmente desconcentrado da CP-MC, I. P., a Casa do Cinema do Porto, cujo âmbito territorial corresponde à unidade Norte de nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo Decreto-Lei n.º 46/89, de 15 de Fevereiro, para o território continental.
+
+6 - Os departamentos integrados nos serviços centrais da CP-MC, I. P., são dirigidos por um director de serviços, cargo de direcção intermédia de 1.º grau, e a divisão por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
+
+7 - O serviço territorialmente desconcentrado é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23.
 
 ###### Artigo 2.º — Departamento de Arquivo Nacional das Imagens em Movimento
 
@@ -268,6 +292,86 @@ g) Manter uma biblioteca especializada e um centro de documentação e informaç
 h) Recolher, tratar e divulgar a informação cinematográfica nacional e estrangeira de carácter histórico, estético ou crítico em forma de monografias, publicações periódicas, recortes de imprensa, folhetos, guiões cinematográficos, sinopses e outro material bibliográfico não impresso;
 
 i) Disponibilizar o serviço de leitura presencial bem como formas adequadas de difusão da informação de todo o material bibliográfico existente, impresso ou não impresso.
+
+###### Artigo 3.º-A — Casa do Cinema do Porto
+
+1 - O serviço territorialmente desconcentrado «Casa do Cinema do Porto», abreviadamente designado por CCP, assegura e acompanha, na sua área de intervenção territorial, as actividades desenvolvidas pela CP-MC, I. P., de acordo com o plano de actividades e em coordenação com os serviços centrais.
+
+2 - Ao CCP compete:
+
+a) Promover a exposição e a exibição de obras cinematográficas, dentro de critérios de museografia da obra fílmica e de programação, que favoreçam e estimulem a visão comparativa dos diversos períodos, épocas, géneros e escolas da história do cinema;
+
+b) Integrar a actividade expositora e exibidora num projecto global que promova a exposição do maior número possível de materiais relativos à sua história e feitura, quer em relação com a política de programação quer em função de uma política autónoma que não exclua a programação de filmes com esta relacionados;
+
+c) Organizar ciclos, retrospectivas ou sessões individuais, cuja concepção e planeamento reflictam os objectivos enunciados;
+
+d) Propor a aquisição de obras e de projectos de interesse museográfico em relação com a história do cinema e em articulação com o ANIM;
+
+e) Prospectar e receber em depósito património museográfico relacionado com a história do cinema, designadamente aparelhos, cenários e adereços;
+
+f) Associar-se a outras entidades da sua área territorial de intervenção, de modo a valorizar mais plenamente as suas actividades museográficas, nomeadamente através da cedência temporária de colecções que se articulem com as da CP-MC, I. P.;
+
+g) Organizar actividades complementares de exposição e de exibição das colecções fílmicas e não fílmicas da CP-MC, I. P., nomeadamente exposições temporárias, seminários especializados, conferências, debates e apresentações orais dos filmes, elaboração e distribuição de textos ou de outros materiais informativos;
+
+h) Promover iniciativas em colaboração com organismos ou instituições de carácter cultural, sem prejuízo das exigências de preservação do património;
+
+i) Promover iniciativas que, dentro dos condicionalismos referidos na alínea anterior, permitam o acesso do maior número possível de frequentadores às suas exposições e exibições;
+
+j) Apresentar regularmente as aquisições e os restauros do ANIM;
+
+l) Colaborar com as escolas de cinema e demais instituições pedagógicas ligadas a esta arte;
+
+m) Assegurar o serviço de relações com o público e com os meios de comunicação social, nomeadamente promovendo e executando acções regulares de informação sobre as actividades e a programação da CP-MC, I. P., na sua área de intervenção territorial, sem prejuízo das competências da Secretaria-Geral do Ministério da Cultura;
+
+n) Elaborar programas de animação e promover visitas de estudo aos locais de funcionamento do CCP, no âmbito do desenvolvimento das relações da CP-MC, I. P., com as escolas;
+
+o) Organizar a participação da CP-MC, I. P., em feiras do livro e outros certames culturais realizados na sua área de intervenção territorial;
+
+p) Desenvolver as acções regionais e locais que a CP-MC, I. P., entenda levar a cabo na sua área de intervenção territorial;
+
+q) Colaborar com as actividades do Programa Amigos da Cinemateca;
+
+r) Dar a conhecer a história do cinema ao público infantil e pré-adolescente;
+
+s) Promover, na área do pré-cinema, a criação de uma exposição permanente interactiva, didáctica e lúdica, relativa às origens das imagens em movimento;
+
+t) Organizar um programa de actividades regulares, composto por espectáculos de pré-cinema e ateliers temáticos, com o objectivo de dar a conhecer ao público jovem a história do cinema, enquadrando-a num contexto histórico-cultural, social e científico;
+
+u) Promover visitas escolares, com envolvimento prévio de professores acompanhantes;
+
+v) Programar, ao longo do ano lectivo, sessões de cinema com recurso a material do arquivo da Cinemateca ou a adquirir;
+
+x) Colaborar com o DDEP na manutenção de uma biblioteca especializada e de um centro de documentação e informação na CP-MC, I. P., com vista a recolher o maior número possível de material bibliográfico relativo à história, à técnica e à estética do cinema;
+
+z) Colaborar com o DDEP na recolha, tratamento e divulgação da informação cinematográfica nacional e estrangeira de carácter histórico, estético ou crítico em forma de monografias, publicações periódicas, recortes de imprensa, folhetos, guiões cinematográficos, sinopses e outro material bibliográfico não impresso.
+
+3 - Compete, ainda, ao CCP:
+
+a) Colaborar na elaboração do plano anual de actividades - ou outros instrumentos de gestão estratégica - em matérias relativas à sua área de competências;
+
+b) Elaborar um relatório anual de actividades do CCP;
+
+c) Coordenar com os serviços centrais o transporte de material fílmico e não fílmico necessário à sua actividade de programação e exposição;
+
+d) Propor e desenvolver estratégias de captação de apoios mecenáticos para a realização de iniciativas da CP-MC, I. P., na sua área de intervenção territorial;
+
+e) Colaborar com a Divisão de Gestão na execução de tarefas administrativas relativas à gestão dos recursos humanos;
+
+f) Assegurar a execução do sistema de avaliação de desempenho do pessoal afecto à sua área de intervenção territorial;
+
+g) Garantir o cumprimento das normas relativas às condições de higiene, saúde e segurança no trabalho nos locais afectos ao funcionamento do CCP;
+
+h) Identificar, em coordenação com a Divisão de Gestão, as necessidades de aquisição de bens e serviços necessários ao funcionamento do CCP;
+
+i) Assegurar a recepção, expedição, classificação, registo, distribuição interna e arquivo de todo o expediente do CCP;
+
+j) Coordenar a gestão das bilheteiras do CCP, em colaboração com a Divisão de Gestão.
+
+4 - As competências referidas nos números anteriores que coincidam com competências cometidas ao DDEP nos termos dos presentes Estatutos são exercidas em exclusivo pelo CCP na respectiva área de intervenção territorial.
+
+5 - O CCP funciona no Porto.
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23.
 
 ###### Artigo 4.º
 

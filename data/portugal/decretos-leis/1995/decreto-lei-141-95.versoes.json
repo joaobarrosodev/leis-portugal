@@ -1,0 +1,213 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518662:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3fc424a31172430d",
+    "c7969cd60f9ddde4",
+    "cd8a1979bc3e62c7",
+    "9c8e29bd69894560",
+    "46079348c15ec5b2",
+    "eb9d22074cf1f130",
+    "7dc52fe5bb3c1622",
+    "727ad22cff7cbf41",
+    "9a2142098221601f",
+    "695c9d1ca06a255f",
+    "771d0b98093ce637",
+    "f4aa0fb9635a375c",
+    "a9e08b9e5b94324c",
+    "7ae979d51559852e",
+    "0583a1659918accc"
+   ]
+  },
+  {
+   "date": "2015-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    },
+    {
+     "id": "pt:dre:67332417:por",
+     "title": "Decreto-Lei n.º 88/2015",
+     "published": "2015-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/88-2015-67332417"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "3fc424a31172430d",
+    "c7969cd60f9ddde4",
+    "750cf5f3fffa2427",
+    "9c8e29bd69894560",
+    "46079348c15ec5b2",
+    "eb9d22074cf1f130",
+    "7dc52fe5bb3c1622",
+    "727ad22cff7cbf41",
+    "9a2142098221601f",
+    "695c9d1ca06a255f",
+    "771d0b98093ce637",
+    "abcfa54ae74769f8",
+    "a9e08b9e5b94324c",
+    "7ae979d51559852e",
+    "0583a1659918accc"
+   ]
+  }
+ ],
+ "fragments": {
+  "3fc424a31172430d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, diploma que estabelece os princípios gerais de promoção da segurança, higiene e saúde no trabalho, prevê que tais princípios sejam concretizados, designadamente, através da transposição para o direito interno de directivas comunitárias.\n\nDe acordo com esta orientação, o presente diploma transpõe para o direito interno a Directiva n.º [92/58/ CEE](http://data.europa.eu/eli/dir/1992/58/oj?locale=pt), de 24 de Junho de 1992, relativa as prescrições mínimas para a sinalização de segurança e de saúde no trabalho.\n\nEsta directiva procede à harmonização da sinalização de segurança e de saúde a utilizar no trabalho, visando prevenir os riscos profissionais e, desse modo, proteger a segurança e a saúde dos trabalhadores. Na verdade, as diferenças até agora existentes nas sinalizações de segurança e saúde utilizadas nos diversos Estados membros vinham constituindo um factor de insegurança, especialmente agravado pela livre circulação de trabalhadores, com diferentes culturas e línguas, no âmbito do mercado interno.\n\nO projecto correspondente ao presente diploma foi publicado, para apreciação pública, na separata do Boletim do Trabalho e Emprego, n.º 2, de 26 de Setembro de 1994, tendo os comentários apresentados pelas organizações de trabalhadores sido ponderados na elaboração da versão final.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "c7969cd60f9ddde4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º [92/58/CEE](http://data.europa.eu/eli/dir/1992/58/oj?locale=pt), do Conselho, relativa às prescrições mínimas para a sinalização de segurança e de saúde no trabalho."
+  },
+  "cd8a1979bc3e62c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O âmbito de aplicação do presente diploma corresponde ao estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro;\n\n2 - O presente diploma não se aplica:\n\na) À colocação no mercado de substâncias e preparados perigosos, de produtos e de equipamentos, regulada por disposições legais, salvo referência expressa em contrário;\n\nb) À sinalização utilizada para a regulamentação do tráfego."
+  },
+  "9c8e29bd69894560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da aplicação do presente diploma, entende-se por:\n\na) Sinalização de segurança e de saúde - a sinalização relacionada com um objecto, uma actividade ou uma situação determinada, que fornece uma indicação ou uma prescrição relativa a segurança ou a saúde no trabalho, ou a ambas, por intermédio de uma placa, uma cor, um sinal luminoso ou acústico, uma comunicação verbal ou um sinal gestual;\n\nb) Sinal de proibição - o sinal que proíbe um comportamento;\n\nc) Sinal de aviso - o sinal que adverte de um perigo ou de um risco;\n\nd) Sinal de obrigação - o sinal que impõe certo comportamento;\n\ne) Sinal de salvamento ou de socorro - o sinal que dá indicações sobre saídas de emergência ou meios de socorro ou salvamento;\n\nf) Sinal de indicação - o sinal que fornece indicações não abrangidas por sinais de proibição, aviso, obrigação e de salvamento ou de socorro;\n\ng) Cor de segurança - cor à qual é atribuído um determinado significado;\n\nh) Símbolo ou pictograma - a imagem que descreve uma situação ou impõe um determinado comportamento e que é utilizada numa placa ou superfície luminosa;\n\ni) Placa - o sinal que combina uma forma geométrica, cores e um símbolo ou pictograma, visando fornecer uma indicação cuja visibilidade deva ser garantida por iluminação adequada;\n\nj) Placa adicional - placa utilizada em conjunto com outra placa e que fornece indicações complementares a esta;\n\nl) Sinal luminoso - o sinal emitido por um dispositivo composto por materiais transparentes ou translúcidos, iluminados a partir do interior ou pela retaguarda, de modo a transformá-lo numa superfície luminosa;\n\nm) Sinal acústico - o sinal sonoro codificado, emitido e difundido por um dispositivo específico, sem recurso à voz, humana ou sintética;\n\nn) Comunicação verbal - a mensagem verbal predeterminada que utiliza voz, humana ou sintética;\n\no) Sinal gestual - o movimento, ou uma posição dos braços ou das mãos, ou qualquer combinação entre eles, que, através de uma forma codificada, oriente a realização de manobras que representem risco ou perigo para os trabalhadores."
+  },
+  "46079348c15ec5b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regulamentação\n\nAs regras técnicas de execução do presente diploma são aprovadas por portaria conjunta dos Ministros do Emprego e da Segurança Social e da Saúde."
+  },
+  "eb9d22074cf1f130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações do empregador\n\n1 - O empregador deve garantir a existência de sinalização de segurança e de saúde no trabalho adequada, de acordo com as prescrições deste diploma, sempre que esses riscos não puderem ser evitados ou suficientemente diminuídos com meios técnicos de protecção colectiva ou com medidas, métodos ou processos de organização do trabalho.\n\n2 - Na colocação e utilização da sinalização de segurança e de saúde no trabalho deverá ter-se em conta a avaliação de riscos a que se refere o artigo 8.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n3 - Se for caso disso, deve ser utilizada, no interior da empresa ou do estabelecimento, a sinalização específica dos tráfegos rodoviário, ferroviário, fluvial, marítimo ou aéreo.\n\n4 - É proibida a utilização da sinalização de segurança e de saúde do trabalho que contrarie as regras técnicas estabelecidas na portaria referida no artigo anterior.\n\n5 - Tendo o empregador ao seu serviço trabalhadores com capacidades auditivas ou visuais diminuídas, ou quando o uso de equipamentos de protecção individual implique a diminuição dessas capacidades, devem ser tomadas medidas suplementares ou de substituição que tenham em conta essas especificidades."
+  },
+  "7dc52fe5bb3c1622": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Sinalização permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sinalização permanente\n\nTêm carácter permanente:\n\na) As placas de proibição, aviso e obrigação;\n\nb) As placas de localização e identificação dos meios de salvamento e de socorro;\n\nc) As placas e cores de segurança destinadas a localizar e a identificar o material e equipamento de combate a incêndios;\n\nd) As placas e cores de segurança destinadas a indicar o risco de choque contra obstáculos e a queda de pessoas;\n\ne) As placas e rotulagens de recipientes e tubagens;\n\nf) A marcação, com uma cor de segurança, de vias de circulação."
+  },
+  "727ad22cff7cbf41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Sinalização acidental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sinalização acidental\n\nTêm carácter acidental, devendo a sua utilização ser restringida ao tempo estritamente necessário:\n\na) Os sinais luminosos ou acústicos, ou as comunicações verbais destinadas a chamar a atenção para acontecimentos perigosos, a chamar pessoas para uma acção específica ou a facilitar a evacuação de emergência de pessoas;\n\nb) Os sinais gestuais ou as comunicações verbais destinadas a orientar pessoas que efectuam manobras que impliquem riscos ou perigos."
+  },
+  "9a2142098221601f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Eficiência da sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Eficiência da sinalização\n\n1 - O empregador deve garantir que a acessibilidade e a clareza da mensagem da sinalização de segurança e de saúde no trabalho não sejam afectadas pela sua má concepção, pelo número insuficiente, pela localização inadequada, pelo mau estado de conservação ou deficiente funcionamento dos seus dispositivos ou pela presença de outra sinalização ou de uma fonte emissora.\n\n2 - A colocação e utilização da sinalização de segurança e de saúde implica, nomeadamente:\n\na) Evitar a afixação de um número excessivo de placas na proximidade umas das outras;\n\nb) Não utilizar simultaneamente dois sinais luminosos que possam ser confundidos;\n\nc) Não utilizar um sinal luminoso na proximidade de outra fonte luminosa pouco nítida;\n\nd) Não utilizar dois sinais sonoros ao mesmo tempo;\n\ne) Não utilizar um sinal sonoro, quando o ruído ambiente for demasiado forte."
+  },
+  "695c9d1ca06a255f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Informação, formação e consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação, formação e consulta dos trabalhadores\n\n1 - Sem prejuízo do disposto no artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro, os trabalhadores e os seus representantes para a segurança, higiene e saúde no trabalho devem ser informados e consultados sobre as medidas relativas à sinalização de segurança e de saúde no trabalho utilizadas.\n\n2 - Sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 441/91, de 14 de Novembro, os trabalhadores devem receber formação sobre a sinalização de segurança e de saúde adequada às características dos locais de trabalho, em especial sobre o seu significado e sobre os comportamentos gerais e específicos a adoptar."
+  },
+  "771d0b98093ce637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aplicação da sinalização de segurança e de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação da sinalização de segurança e de saúde\n\n1 - O disposto no presente diploma e na portaria a que se refere o artigo 4.º é aplicável:\n\na) Relativamente aos processos de sinalização que não se encontrem já em utilização, a partir da entrada em vigor do presente diploma;\n\nb) Relativamente aos processos de sinalização já em utilização, decorridos 18 meses sobre a entrada em vigor do presente diploma.\n\n2 - Quando estiver em causa a utilização de sinais luminosos e acústicos, o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho pode, mediante requerimento do interessado e após avaliação da natureza da actividade e da dimensão dos locais de trabalho, autorizar a sua isenção total, parcial ou temporária, desde que sejam tomadas medidas alternativas capazes de garantir o mesmo nível de protecção.\n\n3 - Nos casos a que se refere o número anterior, o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho deve proceder à consulta dos representantes dos trabalhadores para a segurança, higiene e saúde no trabalho."
+  },
+  "f4aa0fb9635a375c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contra-ordenação o incumprimento, por parte do empregador, das obrigações relativas às prescrições da sinalização de segurança e de saúde nos locais de trabalho estabelecidas no presente diploma e na portaria a que se refere o artigo 4.º, bem como dos deveres de informação, formação e consulta previstos no presente diploma.\n\n2 - As contra-ordenações previstas no número anterior são puníveis com coimas, nos seguintes termos:\n\na) De 15000$00 a 70000$00, quando o número de trabalhadores da empresa ou estabelecimento for até 20;\n\nb) De 20000$00 a 100000$00, quando o número de trabalhadores da empresa ou estabelecimento for de 21 a 50;\n\nc) De 30000$00 a 130000$00, quando o número de trabalhadores da empresa ou estabelecimento for de 51 a 100;\n\nd) De 50000$00 a 250000$00, quando o número de trabalhadores da empresa ou estabelecimento for superior a 100.\n\n3 - Os montantes referidos no número anterior são elevados para o dobro nos seguintes casos:\n\na) Ausência absoluta de sinalização de segurança e de saúde no trabalho;\n\nb) Ausência ou insuficiência de sinalização de segurança e de saúde no trabalho em zonas, salas ou recintos onde se armazenem substâncias ou produtos perigosos;\n\nc) Ausência ou insuficiência de sinalização de segurança e de saúde de recipientes ou tubagens que contenham ou transportem substâncias ou produtos perigosos;\n\nd) Ausência ou insuficiência de sinalização do risco de choque contra obstáculos e de quedas de objectos ou de pessoas;\n\ne) Ausência ou insuficiência de sinalização de meios de combate a incêndios em locais de trabalho onde se manipulem ou armazenem produtos inflamáveis ou explosivos;\n\nf) Ausência ou insuficiência de medidas suplementares ou de substituição que tenham em conta a especificidade dos trabalhadores com capacidades auditivas ou visuais diminuídas.\n\n4 - Para efeito da aplicação das coimas previstas nos números anteriores, considera-se o número de trabalhadores por conta de outrem e independentes que prestam em simultâneo a sua actividade na empresa ou estabelecimento.\n\n5 - Às contra-ordenações referidas é aplicável o disposto no Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "a9e08b9e5b94324c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma, bem como da respectiva regulamentação, e a aplicação das correspondentes sanções competem ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades."
+  },
+  "7ae979d51559852e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 310/86, de 23 de Setembro."
+  },
+  "0583a1659918accc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma, com excepção do artigo 4.º, entra em vigor decorridos 90 dias sobre a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 16 de Março de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 16 de Maio de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Maio de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "750cf5f3fffa2427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), publicado em 2015-05-28."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O âmbito de aplicação do presente diploma corresponde ao estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro;\n\n2 - O presente diploma não se aplica:\n\na) À sinalização para a colocação no mercado de substâncias e misturas perigosas, de produtos e ou equipamentos, regulada por disposições legais, salvo referência expressa em contrário;\n\nb) À sinalização utilizada para a regulamentação do tráfego.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), publicado em 2015-05-28."
+  },
+  "abcfa54ae74769f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": "2015-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03."
+   ],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a ausência ou insuficiência de sinalização:\n\na) Em armazéns de produtos perigosos;\n\nb) Em recipientes ou tubagens que contenham ou transportem substâncias ou produtos perigosos;\n\nc) De meios de combate a incêndios em locais de trabalho onde se manipulem ou armazenem produtos inflamáveis ou explosivos.\n\n2 - Constitui contra-ordenação grave:\n\na) A violação dos n.os 1 e 2 do artigo 5.º e dos artigos 8.º e 9.º;\n\nb) A ausência absoluta de sinalização de segurança e de saúde no trabalho;\n\nc) A ausência ou insuficiência de sinalização do risco de choque contra obstáculos e de quedas de pessoas ou objectos;\n\nd) A ausência ou insuficiência de medidas suplementares ou de substituição que tenham em conta a situação dos trabalhadores com capacidades auditivas ou visuais diminuídas.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03."
+  }
+ }
+}

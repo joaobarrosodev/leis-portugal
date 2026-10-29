@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:227414:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9d62044847f9278d",
+    "ac14f89d0ff21fed",
+    "763ee2cfdab6a5d8",
+    "628848b6bd25025f",
+    "50ce35fd3691b1e8",
+    "17cb1cbb470bc376",
+    "d3d9fc84249139db",
+    "d0e112981bdcd6e0",
+    "ee6ed3732ba89399",
+    "452d05b8ae9da066",
+    "909ebd5378b74b15",
+    "d4fcef2e8211a5b3",
+    "3f513106def280a8"
+   ]
+  },
+  {
+   "date": "2005-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584867:por",
+     "title": "Decreto-Lei n.º 183/2005",
+     "published": "2005-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/183-2005-584867"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "9d62044847f9278d",
+    "ac14f89d0ff21fed",
+    "763ee2cfdab6a5d8",
+    "14f9976b75c9f5b7",
+    "50ce35fd3691b1e8",
+    "17cb1cbb470bc376",
+    "d3d9fc84249139db",
+    "d0e112981bdcd6e0",
+    "ee6ed3732ba89399",
+    "452d05b8ae9da066",
+    "909ebd5378b74b15",
+    "d4fcef2e8211a5b3",
+    "3f513106def280a8"
+   ]
+  }
+ ],
+ "fragments": {
+  "9d62044847f9278d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Junho\n\nAs condições climatéricas que têm atingido Portugal continental nos últimos meses, com quase total ausência de chuva, têm originado situações graves de carência de água para abeberamento do gado, criando custos acrescidos nas explorações agrícolas e dificultando seriamente a manutenção dos efectivos pecuários aí existentes.\n\nNeste sentido, e de forma a garantir ou melhorar as condições de abeberamento dos efectivos pecuários nas regiões mais afectadas, considera o Governo necessária a criação de uma medida para apoio à realização de obras de hidráulica agrícola.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ac14f89d0ff21fed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nÉ criada uma linha de crédito destinada às entidades do sector pecuário extensivo, com vista a disponibilizar os meios financeiros necessários aos investimentos destinados a aberturas de furos, poços ou captações similares, com a montagem do respectivo equipamento de bombagem, bem como à aquisição de bebedouros e cisternas, quando comprovadamente necessários ao abeberamento de animais."
+  },
+  "763ee2cfdab6a5d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas do sector pecuário extensivo que se dediquem às actividades da bovinicultura, ovinicultura e caprinicultura e que comprovem ter efectuado os investimentos mencionados no artigo anterior, entre Novembro de 2004 e Dezembro de 2005, em explorações situadas nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.\n\n2 - Os beneficiários da presente medida devem reunir as seguintes condições:\n\na) Possuir capacidade profissional adequada;\n\nb) Ser titular de uma exploração agrícola economicamente viável;\n\nc) Cumprir as normas comunitárias relativas ao ambiente, higiene e bem-estar animal.\n\n3 - São excluídos os investimentos que já tenham beneficiado de ajudas no âmbito de programas nacionais ou comunitários do III Quadro Comunitário de Apoio que tenham o mesmo objectivo."
+  },
+  "628848b6bd25025f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Montante de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante de crédito\n\n1 - O montante global de crédito a conceder não pode exceder os 45 milhões de euros.\n\n2 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado."
+  },
+  "50ce35fd3691b1e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Forma do crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Forma do crédito\n\nO crédito é concedido, sob a forma de empréstimo reembolsável, pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), no qual é estabelecida uma taxa de juro nominal máxima."
+  },
+  "17cb1cbb470bc376": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos são amortizáveis anualmente e concedidos pelo prazo máximo de três anos, contados a partir da data da última utilização do crédito.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de oito meses após a data do contrato, podendo efectuar-se até quatro utilizações por contrato.\n\n3 - Os empréstimos vencem juros calculados, dia a dia, sobre o capital em dívida, à taxa de juro anual contratada.\n\n4 - Os juros são postecipados e pagos na data do vencimento das amortizações.\n\n5 - A amortização do capital é efectuada até ao máximo de três prestações de igual montante, ocorrendo a primeira amortização um ano após a data da última utilização do crédito.\n\n6 - Os empréstimos beneficiam de uma bonificação de juros calculada sobre o capital em dívida em cada momento, nas seguintes percentagens:\n\na) 1.º ano - 80%;\n\nb) 2.º ano - 60%;\n\nc) 3.º ano - 40%.\n\n7 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início da contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta."
+  },
+  "d3d9fc84249139db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de pagamento das bonificações de juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de pagamento das bonificações de juros\n\nA bonificação de juros é processada enquanto se verificarem as condições de acesso definidas nos termos do artigo 2.º e o pontual cumprimento das obrigações contratualmente assumidas pelos mutuários."
+  },
+  "d0e112981bdcd6e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Comissão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão de gestão\n\nPelos serviços prestados, no âmbito da presente linha de crédito, o IFADAP recebe uma remuneração correspondente a 1,5% do valor das bonificações processadas, a suportar pelas verbas anualmente consignadas no PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "ee6ed3732ba89399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de informação\n\nO incumprimento de qualquer das obrigações do mutuário é prontamente comunicado pela instituição de crédito mutuante ao IFADAP."
+  },
+  "452d05b8ae9da066": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incumprimento\n\nO incumprimento das obrigações do mutuário determina, para além do vencimento automático de toda a dívida, a imediata cessação do pagamento das bonificações, bem como a recuperação das que tiverem sido indevidamente processadas."
+  },
+  "909ebd5378b74b15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências do IFADAP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do IFADAP\n\nCompete ao IFADAP:\n\na) O estabelecimento das normas técnicas e financeiras destinadas a garantir o cumprimento do disposto neste diploma;\n\nb) A análise das candidaturas, tendo em vista a verificação das condições de acesso e a aferição do montante do empréstimo a conceder;\n\nc) O processamento e o pagamento das bonificações de juros;\n\nd) O acompanhamento e a fiscalização das condições de acesso e da aplicação pelos beneficiários dos empréstimos objecto de bonificação."
+  },
+  "d4fcef2e8211a5b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamento\n\nA cobertura orçamental dos encargos financeiros decorrentes das medidas de apoio previstas neste diploma é assegurada por verbas do PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "3f513106def280a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Disposição condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposição condicional\n\n1 - Sem prejuízo do disposto no número seguinte e de acordo com o artigo 88.º do Tratado Que Institui a Comunidade Europeia, o regime estabelecido pelo presente diploma está dependente da decisão da Comissão Europeia sobre a respectiva compatibilidade com o direito comunitário.\n\n2 - O processo de concessão de crédito com bonificação de juros previsto no presente diploma tem início a partir da entrada em vigor do mesmo.\n\n3 - Em caso de decisão negativa da Comissão Europeia, há lugar aos necessários ajustamentos do regime instituído pelo presente diploma junto dos respectivos beneficiários.\n\nVisto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Jaime de Jesus Lopes Silva.\n\nPromulgado em 1 de Junho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "14f9976b75c9f5b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Montante de crédito",
+   "in_force_from": "2005-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03."
+   ],
+   "markdown": "###### Artigo 3.º — Montante de crédito\n\n1 - O montante global de crédito a conceder não pode exceder os 5 milhões de euros.\n\n2 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no número anterior, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03."
+  }
+ }
+}

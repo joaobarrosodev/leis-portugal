@@ -1,0 +1,1158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:412614:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c351101e898f171",
+    "6f6a0f914be847f9",
+    "0c35db1b5ee96cb9",
+    "cf06850cf2008c2f",
+    "443320eaf083dd09",
+    "ba437c4cdbf54523",
+    "eac8f0c08fa44302",
+    "3f3f77dda970288d",
+    "6fd3c954f616eb20",
+    "a0ea8d064d49a2e3",
+    "30158930165dbd89",
+    "29c088378db91d0c",
+    "271dfb8bc0a7e160",
+    "1c4c3f707d9fbc2b",
+    "4f8f912dfc0f8f39",
+    "44788420e0ecae6a",
+    "a3df84d1459080fd"
+   ]
+  },
+  {
+   "date": "1978-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:295778:por",
+     "title": "Portaria n.º 250/78",
+     "published": "1978-05-03",
+     "dre_path": "/dr/detalhe/portaria/250-1978-295778"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "8c351101e898f171",
+    "343fdd68d0f953c1",
+    "ab0575d5090d2466",
+    "401d73aa06e7ff8f",
+    "9eb1ea62129a62e7",
+    "f8a3562858b0f217",
+    "94a92580d3889778",
+    "a2e653178aae2f5b",
+    "fe2344237d8ed44e",
+    "a29ba7036d58f894",
+    "81d76b9064dc7617",
+    "af8afd6db5076a8b",
+    "6dd3cd1963954608",
+    "1d9262cdb708b162",
+    "9ea42d2b5fb82283",
+    "05f43673b257f303",
+    "d6e878d82f689ca3",
+    "07048bfed745c2ab",
+    "61f0a2fce7b01aff",
+    "12f32e6447451861",
+    "fb718b313e7d265f",
+    "02016e816a0df1ba",
+    "7f9ad9f640ce1604",
+    "c5f6d6421d61b8c2",
+    "d509860c76e36009",
+    "d4cd70560f25e772",
+    "7e844c00782026ff",
+    "6b77d8c28e6c3613",
+    "ababe22f0053c74e",
+    "43d2ae35c1705efb",
+    "3e6918907a974b9a",
+    "7e9589d1bedabb21",
+    "95e0a2b846a2d17e",
+    "7b65b62b15402f94",
+    "e44fc51d9ad32347",
+    "7d3ec0efd3314eda",
+    "69dc66235af20d14",
+    "0659db926b6bfc84",
+    "28ba2019ff26b0df",
+    "fbcfc618b31ce804",
+    "1969eb0748dc1f76",
+    "c19a981f3d2e9882",
+    "a8a5e6eadceaa0df",
+    "2295ed3e59e984a1",
+    "860eeb3f07624c66",
+    "c343c8d5da89b871",
+    "6b5ca9c5d35822a5",
+    "b3d52830b2a56e96",
+    "c728590026bcb648",
+    "82199598b550e6bc",
+    "3fa3a915bcada79c",
+    "c652d5f69148b8ee",
+    "c02381e086ef6258",
+    "4db44d1e2402e091",
+    "7130e9e0e19bfa1f",
+    "ead8f35f4d981e03",
+    "78b5ceafcd6349e5",
+    "e2f5de9537d2de34",
+    "c50bcfda6c40c441",
+    "9df65579eae51a43",
+    "46a0f8e2b5289412",
+    "16a0769b023b347c",
+    "7e77ef7888adf5bb",
+    "cc6a451fe0187e1c",
+    "b9a340532315d726",
+    "79219519479085a0",
+    "85e189e718524715",
+    "2244357caec073ab",
+    "7ebccab9fc9fa381",
+    "b5616804963d8772",
+    "f72c4918813ee042",
+    "2ea00a32773eafe2",
+    "e2c9c37e3fd72694",
+    "a1e393eff153519c",
+    "6911df50c69a7ca9",
+    "aad642a3bdd32e53",
+    "abe7842437841346",
+    "e1604309e66d2a42",
+    "d59b2d69501c0f42",
+    "6d8b247de64c4ea5",
+    "f9a95824a44bf610",
+    "598da45366e0baca",
+    "387870b24ad4f7b2",
+    "3e98a00dc8c27a23",
+    "2147e8f55719e202",
+    "a8f15ce876bba5cd",
+    "b7854fe3e6bdd4a7",
+    "f5a0178d4c93dec4",
+    "2e3edecd7fa94277",
+    "5e9b5adbbc610cc9",
+    "355621c37b3cf4d1",
+    "c07fb1933273f8ad",
+    "a025372ef5a3f37d",
+    "73aaafbef44c0bae",
+    "f209b40537fe791e",
+    "7f55c0a096b4dbd9",
+    "a4cc3dadb3e596c6",
+    "be229f9408b1a776",
+    "cdb5011fbbae4af4",
+    "dc9c2e7a90133991",
+    "a60b5bdd2bc73557",
+    "53b8bd4becf7b6fe",
+    "a47e309e8fb6a30d",
+    "02846d5478b229aa",
+    "11f9fff9d8bdb12e",
+    "cb7eff8978593545",
+    "f8762e194f67f6c4"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c351101e898f171": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro\n\nDe acordo com o disposto no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, a carreira médica hospitalar está dividida em dois grandes escalões, correspondendo o primeiro ao internato médico, para ele se prevendo regulamento próprio, a aprovar por portaria.\n\nNestes termos, e ouvido o Conselho Nacional do Internato Médico e as direcções dos hospitais centrais:\n\nEm execução do disposto no n.º 2 do artigo 11.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, aprovar o Regulamento do Internato Médico, anexo a esta portaria.\n\nMinistério da Saúde e Assistência, 24 de Outubro de 1973. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.\n\nREGULAMENTO DO INTERNATO MÉDICO"
+  },
+  "6f6a0f914be847f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Finalidades, estrutura e duração do internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Finalidades, estrutura e duração do internato\n\nArtigo 1.º - 1. O internato médico constitui a 1.ª fase da carreira médica hospitalar e é regido pelo disposto no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, no [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), de 6 de Fevereiro, e no presente Regulamento.\n\nArt. 2.º O internato médico tem como objectivos proporcionar a todos os licenciados em Medicina idênticas possibilidades de aperfeiçoamento profissional e promover a sua valorização no sentido de se tornarem elementos aptos à cobertura médico-sanitáría do País.\n\nArt. 3.º - 1. O internato médico tem dois graus, a que correspondem duas fases distintas:\n\nGrau 1 - Internato de policlínica;\n\nGrau 2 - Internato de especialidades.\n\n2. O internato de policlínica é destinado ao aperfeiçoamento, no âmbito da prestação de cuidados médicos primários, através do exercício, orientado para esse fim, de actividades pertencentes aos foros da clínica médica, da cirurgia, da pediatria, da obstetrícia e da medicina-comunitária em geral.\n\n3. O internato de especialidades visa a preparação especializada em ramos tecnicamente individualizados das actividades médicas.\n\nArt. 4.º - 1. As durações dos internatos serão uniformes em todos os estabelecimentos em que os mesmos se realizem.\n\n2. A duração do internato de policlínica é de catorze meses, com início em 1 de Janeiro de cada ano.\n\n3. Enquanto não for definida a duração própria dos vários internatos de especialidades, fica estabelecida para todos eles a duração de três anos."
+  },
+  "0c35db1b5ee96cb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos do internato médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos do internato médico\n\nArt. 5.º - 1. Os órgãos do internato médico são o Conselho Nacional do Internato Médico e as direcções do internato.\n\n2. Ao Conselho Nacional do Internato Médico compete cooperar, como órgão consultivo, na superior orientação do internato médico.\n\n3. Às direcções do internato compete o adoptarem as medidas adequadas à condução do internato nos respectivos estabelecimentos hospitalares, de harmonia com os programas aprovados.\n\nArt. 6.º - 1. O Conselho Nacional do Internato Médico é constituído pelas seguintes entidades:\n\na) O director-geral dos Hospitais, que preside;\n\nb) Um representante do Gabinete de Estudos e Planeamento do Ministério da Saúde e Assistência;\n\nc) Um representante do Instituto Nacional de Saúde;\n\nd) Um representante da Direcção-Geral de Saúde;\n\ne) Um representante da Direcção-Geral de Saúde e Assistência do Ministério do Ultramar;\n\nf) Um representante do Conselho Superior de Educação Médica do Ministério da Educação Nacional;\n\ng) Um representante da Ordem dos Médicos;\n\nh) O inspector superior de Acção Hospitalar da Direcção-Geral dos Hospitais;\n\ni) Os directores dos hospitais centrais gerais e especializados;\n\nj) Os directores dos internatos dos hospitais centrais gerais e especializados;\n\nl) Os directores dos internatos do Instituto de Assistência Nacional aos Tuberculosos e do Instituto de Assistência Psiquiátrica;\n\nm) Um representante dos internos de policlínica de cada um dos hospitais centrais gerais;\n\nn) Um representante dos internos de especialidades de cada um dos hospitais centrais gerais e especializados.\n\n2. Os vogais referidos nas alíneas b), c), d), e), f) e g) serão indicados, no decurso da 1.ª quinzena de Janeiro de cada ano, mediante ofício, dirigido, pelas entidades que representam, ao director-geral dos Hospitais, sendo consideradas válidas as nomeações efectuadas anteriormente, sempre que essas entidades não comuniquem quaisquer modificações pretendidas no prazo mencionado.\n\n3. Os vogais referidos nas alíneas m) e n) serão designados pelos internos dos internatos respectivos, no decurso da 1.ª quinzena de Janeiro de cada ano, sendo os resultados das designações comunicados aos directores do internato de cada estabelecimento, que, por sua vez, os transmitirão ao director-geral dos Hospitais.\n\n4. O Conselho terá um secretário, responsável pelo expediente de todos os assuntos relativos ao Conselho e designado, de entre os funcionários da Direcção-Geral dos Hospitais, pelo respectivo director-geral.\n\n5. Na primeira sessão de cada ano do Conselho Nacional do Internato Médico, as entidades referidas nas alíneas i), j), m) e n) designarão os respectivos representantes, em número de dois para cada grupo, que irão constituir, em conjunto com as entidades referidas nas alíneas a), c), f), g) e h), o órgão habitual de consulta no referente a problemas do internato.\n\n6. Nenhum estabelecimento poderá estar representado por mais de dois membros no órgão referido no número anterior.\n\n7. Para estudo de assuntos específicos, poderão ser constituídos, dentro do Conselho, grupos de trabalho cuja composição garanta a idoneidade para os fins visados.\n\nArt. 7.º - 1. O Conselho Nacional do Internato Médico tem a sua sede na Direcção-Geral dos Hospitais e reunirá, pelo menos, duas vezes em cada ano, devendo uma das sessões ter lugar em Março e outra em Outubro.\n\n2. O Conselho poderá reunir extraordinariamente, a pedido de, pelo menos, dois terços dos seus membros.\n\n3. O Conselho poderá reunir também em grupo restrito, na sede de um hospital central, quando solicitado pelo respectivo director do internato ao director-geral dos Hospitais, que indicará o presidente e a constituição do grupo.\n\nArt. 8.º Compete ao Conselho:\n\na) Aprovar os programas anuais dos internatos médicos;\n\nb) Apreciar os relatórios elaborados pelos directores do internato;\n\nc) Aprovar os programas tipo das provas de exames e concursos;\n\nd) Dar parecer sobre os assuntos do internato que lhe sejam submetidos para tal efeito;\n\ne) Sugerir o que julgar conveniente para melhoria do funcionamento do internato médico;\n\nf) Aprovar os modelos dos processos dos internos e respectivos diplomas.\n\nArt. 9.º Em cada estabelecimento hospitalar em que funcione o internato médico haverá um director de internato, responsável pela orientação, direcção e execução das correspondentes actividades.\n\nArt. 10.º - 1. Os directores do internato são nomeados por despacho ministerial, sob proposta dos directores de cada estabelecimento, de entre os médicos dos respectivos quadros permanentes.\n\n2. A proposta referida no número anterior deverá ser feita precedendo parecer das comissões médicas de cada estabelecimento.\n\n3. A nomeação para a função de director do internato é válida pelo período de dois anos e renovada automaticamente desde que não existam motivos determinantes em contrário.\n\n4. Caso se verifique haver vantagem para o conveniente desempenho das funções de director do internato, poderão os médicos nomeados para tal cargo ser temporariamente dispensados das suas restantes funções hospitalares.\n\nArt. 11.º Compete especialmente ao director do internato de cada estabelecimento:\n\na) Promover, de acordo com os órgãos de direcção técnica e administrativa do hospital, a execução dos programas aprovados;\n\nb) Propor e orientar, ouvidos os respectivos directores, a distribuição dos internos pelos diferentes serviços, tendo em conta as tarefas cometidas ao estabelecimento e as possibilidades de cada serviço;\n\nc) Promover e coordenar a realização periódica de sessões técnicas, científicas, visitas de estudo e outras actividades previstas nos programas do internato;\n\nd) Emitir parecer sobre requerimentos e outros documentos relativos à situação dos internos;\n\ne) Colher periodicamente informações sobre o aproveitamento dos internos e funcionamento do internato;\n\nf) Elaborar anualmente um relatório, contendo uma análise crítica do desenvolvimento do internato durante esse ano e em que apresente as sugestões julgadas pertinentes, submetendo o mesmo, através da direcção do hospital respectivo, à apreciação do director-geral dos Hospitais;\n\ng) Propor à direcção do hospital as medidas que lhe parecerem adequadas para melhorar o funcionamento do internato, prestando toda a colaboração que lhe for pedida por aquela entidade;\n\nh) Promover a designação dos representantes dos internos no Conselho Nacional do Internato Médico;\n\ni) Exercer as demais atribuições que lhe são cometidas no presente Regulamento.\n\nArt. 12.º - 1. O director do internato pode ser coadjuvado, no exercício das suas funções, por adjuntos ou coordenadores de internato, escolhidos de entre os médicos do quadro permanente e cujo número será fixado de acordo com as necessidades de cada hospital.\n\n2. As funções de adjunto ou coordenador de internato são desempenhadas por períodos renováveis de dois anos.\n\n3. A designação dos adjuntos ou coordenadores de internato é feita pelo director do estabelecimento, mediante proposta do respectivo director do internato.\n\nArt. 13.º O apoio administrativo de que o director do internato carece é assegurado pelos serviços competentes do respectivo hospital ou por secretariado privativo, conforme for aconselhável em face das circunstâncias de cada estabelecimento."
+  },
+  "cf06850cf2008c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estabelecimentos em que se realiza o internato e programas de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estabelecimentos em que se realiza o internato e programas de actividades\n\nArt. 14.º - 1. A realização do internato terá lugar em serviços dependentes do Ministério da Saúde e Assistência, do Ministério da Educação Nacional e do Ministério do Ultramar que se verifique reunirem as condições necessárias para a consecução dos fins visados.\n\n2. Os serviços referidos no número anterior serão declarados idóneos para a realização do internato mediante despacho do Ministério da Saúde e Assistência, com concordância prévia dos respectivos Ministros quando dependentes de outros Ministérios.\n\nArt. 15.º - 1. São desde já declarados idóneos para a realização do internato os serviços dos hospitais centrais gerais da metrópole, dos hospitais universitários de Luanda e Lourenço Marques e, em relação ao internato das especialidades respectivas, dos hospitais centrais especializados.\n\n2. As maternidades podem ser autorizadas a que nelas se realize o internato de ginecologia, além do internato de obstetrícia.\n\n3. O internato poderá funcionar em hospitais distritais, precedendo despacho ministerial, à medida que se verifique que os mesmos possuem condições para o efeito.\n\nArt. 16.º - 1. A efectivação do internato médico obedecerá a programas gerais de actividades, elaborados anualmente pelos estabelecimentos em que se realiza, sob responsabilidade dos respectivos órgãos de direcção técnica e em termos que garantam a consecução das finalidades visadas.\n\n2. Para a elaboração dos programas serão designados, pelos órgãos de direcção técnica dos estabelecimentos, ouvidos os respectivos directores do internato, os membros dos quadros médicos permanentes julgados necessários.\n\n3. Os programas serão presentes, através da direcção técnica dos estabelecimentos, ao Conselho Nacional do Internato Médico, devendo os respeitantes ao internato de policlínica dar entrada na Direcção-Geral dos Hospitais até ao dia 30 de Setembro e os referentes ao internato de especialidades até ao último dia de Fevereiro de cada ano.\n\n4. Os programas devem incluir, entre outras, as seguintes actividades:\n\na) Estágios em serviços de internamento, consultas externas, serviços domiciliários, serviços de urgência e outros cuja frequência se repute de interesse fundamental para aperfeiçoamento dos internos;\n\nb) Visitas de estudo ou estágios em serviços de saúde pública;\n\nc) Sessões de estudo e de informação sobre temas de medicina;\n\nd) Actividades de investigação clínica e laboratorial em serviços dependentes do Ministério da Saúde e Assistência, do Ministério da Educação Nacional ou do Ministério do Ultramar."
+  },
+  "443320eaf083dd09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime de trabalho e regime jurídico do internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime de trabalho e regime jurídico do internato\n\nArt. 17.º O provimento dos médicos internos é feito por contrato, tendo em atenção as disposições do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.\n\nArt. 18.º - 1. O regime de trabalho do internato de policlínica e do internato de especialidades é o de tempo completo, preenchido por trabalho prestado em período normal de serviço e em regime de escala.\n\n2. As direcções dos hospitais podem propor, por conveniência de serviço, que os períodos de trabalho dos internos sejam estabelecidos de harmonia com o disposto no n.º 3 do artigo 43.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.\n\nArt. 19.º - 1. Os médicos internos são obrigados ao cumprimento dos horárias estabelecidos pelas direcções dos hospitais e a prestar serviços de escala, mesmo em domingos e feriados, sendo, neste caso, compensados, quando possível, com folga no dia imediato.\n\n2. Como regra, os internos não deverão permanecer em serviços de escala mais de doze horas consecutivas.\n\n3. As trocas e substituições que, a título excepcional, os internos pretendam efectuar entre si, poderão ser autorizadas pelos directores de serviço, que fixarão as respectivas condições.\n\nArt. 20.º - 1. Aos médicos que frequentam os internatos será aplicado, com excepção do preceituado no n.º 2 do presente artigo, o regime de faltas e licenças dos servidores civis do Estado.\n\n2. Nos termos do n.º 2 do artigo 66.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, o número máximo de faltas compatível com o aproveitamento em cada ano do internato de especialidades e em todo o período de duração do internato de policlínica é fixado em sessenta, compreendidas neste limite as faltas resultantes de licença para férias.\n\n3. O registo das faltas é feito nos serviços que os internos frequentam, sob responsabilidade dos respectivos directores, que enviarão, mensalmente, relação dessas faltas ao director do internato médico e à secção de pessoal do estabelecimento.\n\n4. Cada falta não justificada a serviços de escala conta, para efeitos de frequência, como duas faltas normais.\n\n5. Os médicos internos têm direito a trinta dias de licença para férias no internato de policlínica e em cada ano do internato de especialidades.\n\nArt. 21.º - 1. Em princípio, cada uma das fases do internato médico deverá ser concluída no estabelecimento em que tiver início.\n\n2. Precedendo parecer favorável da direcção clínica dos estabelecimentos interessados e ouvidos os respectivos directores do internato médico, podem os internos ser autorizados, pelo director-geral dos Hospitais, a completar um período de internato, não inferior a seis meses, em hospital diferente daquele em que iniciaram funções.\n\n3. No internato de especialidades, a transferência para outro estabelecimento só poderá ser autorizada dentro da respectiva especialidade e desde que haja vaga no quadro correspondente.\n\nArt. 22.º - 1. A interrupção da frequência do internato a requerimento do interessado poderá ser autorizada por despacho do director-geral dos Hospitais, ouvido o director do internato, e apenas por motivo de força maior ou razões de interesse público.\n\n2. A frequência do internato poderá ser retomada mediante autorização do director-geral dos Hospitais, ouvido o director do internato interessado e em condições a estabelecer para cada caso particular.\n\nArt. 23.º - 1. No decurso da frequência do internato a mudança de ramo ou especialidade só é permitida mediante novo concurso de admissão.\n\n2. Uma vez terminado com aproveitamento o internato de qualquer especialidade, é permitida a frequência do internato de apenas outra especialidade, precedendo o respectivo concurso de admissão.\n\n3. Os médicos abrangidos pelo disposto nos números anteriores só poderão ser distribuídos nas vagas postas a concurso uma vez completada a distribuição de todos os médicos que, pela primeira vez, concorrem a essa fase do internato.\n\nArt. 24.º - 1. O regime disciplinar dos médicos internos é o estabelecido no Estatuto Disciplinar dos Funcionários Civis do Estado.\n\n2. Os internos têm direito às regalias e benefícios que, nos estabelecimentos, são usufruídos pelo pessoal médico dos quadros permanentes.\n\nArt. 25.º - 1. No início de funções, os internos devem apresentar, ao respectivo director do internato, declaração em que indiquem os lugares que exerçam noutros serviços, estabelecimentos ou instituições."
+  },
+  "ba437c4cdbf54523": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Aproveitamento na frequência do Internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Aproveitamento na frequência do Internato\n\nArt. 26.º - 1. O aproveitamento na frequência dos internatos é estabelecido, relativamente à fase do internato de policlínica no seu conjunto e a cada ano do internato de especialidades, mediante apreciação contínua pelos médicos dos quadros permanentes colocados nos serviços em que se realizem os estágios correspondentes.\n\n2. A informação respeitante ao aproveitamento em cada estágio será atribuída pelo director do serviço em que o mesmo tenha lugar, ouvidos os médicos do quadro permanente, e transmitida por aquele ao respectivo director do internato.\n\n3. A informação referida no número anterior será expressa em valores, segundo uma escala de 0 a 20.\n\n4. O aproveitamento referido no n.º 1 do presente artigo será estabelecido pelo director do internato de cada estabelecimento, com base nas informações dos estágios, e será expresso em termos de «com aproveitamento» ou «sem aproveitamento».\n\n5. Serão classificados de «com aproveitamento» os internos cujas médias das informações nos estágios sejam de 10 valores ou superiores e que, em cada período considerado, não tenham maioria de informações inferiores a essa nota.\n\n6. Os internos cujas médias sejam inferiores a 10 valores ou que tenham, em cada período, maioria de informações inferiores a essa nota serão classificados de «sem aproveitamento».\n\n7. Os directores de internato deverão providenciar no sentido de lhes ser possível dar cumprimento ao disposto no n.º 4 do presente artigo no decurso do último mês do internato de policlínica e dos dois primeiros anos do internato de especialidades e no decurso do penúltimo mês do terceiro ano do internato de especialidades.\n\nArt. 27.º Só poderão ser admitidos a exame final, nos casos do internato de policlínica ou do último ano do internato de especialidades, ou transitar ao ano imediato, no caso dos restantes anos do internato de especialidades, os internos que obtenham a classificação de «com aproveitamento».\n\nArt. 28.º - 1. Mediante parecer do respectivo director do internato, o director do hospital pode autorizar a repetição do internato de policlínica ou de qualquer dos anos do internato de especialidades a internos que tenham sido classificados de «sem aproveitamento».\n\n2. A mesma faculdade pode ser exercida quando a falta de aproveitamento no internato de policlínica ou em qualquer dos anos do internato de especialidades resulte de ter sido excedido o número máximo de faltas referido no n.º 2 do artigo 20.º\n\n3. Em caso de falta a exame final ou exclusão neste, o interno poderá requerer ao director do hospital a repetição do internato de policlínica ou do último ano do internato de especialidades, sendo sujeito a exame final uma vez terminada a repetição.\n\n4. A repetição do internato de policlínica ou de qualquer dos anos do internato de especialidades implica a perda do vencimento durante a repetição, salvo quando motivada por doença ou circunstância de força maior devidamente justificada.\n\n5. Não será permitido aos internos de especialidades repetir por mais de uma vez o mesmo ano, quando o hajam perdido por falta de aproveitamento, falta ao exame final ou exclusão neste.\n\n6. O internato de policlínica, quando perdido por qualquer dos motivos indicados no número anterior, poderá ser repetido uma vez."
+  },
+  "eac8f0c08fa44302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Concursos de admissão e exames finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Concursos de admissão e exames finais\n\nArt. 29.º - 1. A admissão a qualquer das fases do internato médico tem lugar mediante concurso documental, a abrir, em cada ano e separadamente para cada uma das referidas fases, pela Direcção-Geral dos Hospitais.\n\n2. O concurso de admissão ao internato de policlínica será aberto no decurso do mês de Novembro, enquanto o concurso de admissão ao internato de especialidades será aberto no decurso da 2.ª quinzena do mês de Abril.\n\n3. Os concursos referidos no número anterior serão abertos pelo prazo de dez dias, a contar da data da publicação dos respectivos avisos no Diário do Governo.\n\nArt. 30.º - 1. A conclusão de cada uma das fases do internado médico e consequente direito ao respectivo diploma depende da aprovação no exame final respectivo.\n\n2. O exame final do internato de policlínica terá início logo que terminados os estágios correspondentes a essa fase do internato médico, enquanto o do internato de especialidades terá início no decurso do último mês do terceiro ano da frequência desse internato.\n\n3. São admitidos aos exames referidos no número anterior os internos que, de acordo com o disposto nos artigos 26.º e 27.º do presente Regulamento, tenham obtido aproveitamento nas frequências dos internatos respectivos."
+  },
+  "3f3f77dda970288d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Júris de concurso e exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Júris de concurso e exames\n\nArt. 31.º - 1. O júri do concurso de admissão ao internato de policlínica é presidido pelo director do internato médico de um dos hospitais centrais gerais e tem como vogais dois médicos de categoria não inferior à de especialista de hospital central pertencentes aos quadros de outros hospitais centrais gerais.\n\n2. A nomeação do júri a que se refere o número anterior é da competência do director-geral dos Hospitais.\n\n3. O júri terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que necessite.\n\nArt. 32.º - 1. O júri do exame final do internato de policlínica será constituído por uma comissão central, formada por três membros, e por delegações locais, igualmente formadas por três membros, cujo número será igual ao dos estabelecimentos em que se realize o referido exame.\n\n2. A comissão central será presidida por um director de serviço de hospital central e terá como vogais dois chefes de serviço provenientes dos quadros de outros hospitais centrais.\n\n3. Cada delegação local será presidida por um chefe de serviço do hospital central correspondente e terá como vogais dois especialistas pertencentes aos quadros do mesmo estabelecimento.\n\n4. Os membros do júri do exame final do internato de policlínica deverão pertencer aos quadros de medicina e de cirurgia geral.\n\n5. A nomeação do júri do exame final do internato de policlínica é da competência do director-geral dos Hospitais, devendo os membros constituintes das delegações locais ser indicados pelos respectivos directores clínicos.\n\n6. A comissão central do júri do exame, final do internato de policlínica terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que necessite.\n\n7. As delegações locais funcionam nos respectivos estabelecimentos, devendo as direcções clínicas e, bem assim, as direcções dos internatos correspondentes garantir a todas elas os meios necessários à execução das tarefas que lhes competem.\n\nArt. 33.º - 1. O júri do concurso de admissão ao internato de especialidades será presidido pelo director do internato médico de um dos hospitais centrais gerais ou especializados e terá como vogais dois médicos, com categoria não inferior à de especialista de hospital central, provenientes dos quadros de outros hospitais centrais.\n\n2. A nomeação do júri do concurso de admissão ao internato de especialidades é da competência do director-geral dos Hospitais.\n\n3. O júri do concurso de admissão ao internato de especialidades terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que careça.\n\nArt. 34.º - 1. Em cada estabelecimento onde se realizem exames finais do internato de especialidades, o júri de cada ramo clínico ou especialidade será presidido por um director ou chefe de serviço pertencente aos quadros do ramo ou especialidade em causa do próprio estabelecimento e terá como vogais dois médicos de categoria não inferior a especialista de hospital central.\n\n2. Os vogais referidos no número anterior pertencerão obrigatoriamente aos quadros do ramo ou especialidade a que respeitam as provas a efectuar, devendo um deles ser proveniente de estabelecimento diverso daquele em que realizam essas provas.\n\n3. Compete ao director do estabelecimento em causa providenciar no sentido de obter dos directores de outros estabelecimentos a designação dos vogais a que se refere a parte final do número anterior para cada um dos exames a efectuar.\n\n4. Uma vez obtida a designação dos vogais estranhos ao estabelecimento, compete ainda ao director deste, ouvida a respectiva comissão médica, a nomeação dos júris, que deverão ser homologados pelo director-geral dos Hospitais.\n\n5. As direcções dos estabelecimentos em que se realizem exames finais do internato de especialidades e, bem assim, as respectivas direcções do internato devem garantir aos júris os meios necessários à execução das tarefas que lhes competem.\n\nArt. 35.º - 1. A constituição dos júris dos concursos de admissão a cada uma das fases do internato deverá constar dos respectivos avisos de abertura.\n\n2. A constituição dos júris dos exames finais será tornada pública mediante afixação nos estabelecimentos em que se realizem as provas, com uma antecedência mínima de quinze dias sobre o início efectivo das mesmas."
+  },
+  "6fd3c954f616eb20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Concurso de admissão ao internato de policlínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Concurso de admissão ao internato de policlínica\n\nArt. 36.º O concurso de admissão ao internato de policlínica será aberto nas condições referidas no artigo 29.º do presente Regulamento, para um número de lugares a fixar anualmente, por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, sob proposta da Direcção-Geral dos Hospitais.\n\nArt. 37.º - 1. São candidatos idóneos no concurso de admissão ao internato de policlínica os licenciados em Medicina com menos de 35 anos de idade.\n\n2. Serão admitidos condicionalmente a concurso os alunos de Medicina que se encontrem a frequentar o estágio de prática clínica e a terminem até 15 de Novembro do mesmo ano, ficando a sua admissão definitiva dependente da obtenção de aproveitamento no referido estágio.\n\nArt. 38.º - 1. O requerimento de admissão ao concurso referido no artigo 36.º deve conter a identificação completa do candidato, data de nascimento, data de licenciatura ou, para o caso dos candidatos admitidos condicionalmente ao abrigo do n.º 2 do artigo anterior, data do início da frequência do estágio de prática clínica, residência e ordem de preferência dos estabelecimentos onde deseja frequentar o internato em causa.\n\n2. O requerimento deverá ser instruído com os seguintes documentos:\n\na) Certificado da informação final da licenciatura ou, caso não seja possível a sua apresentação, certificado das classificações obtidas em todas as disciplinas do curso de Medicina;\n\nb) Certidão de nascimento;\n\nc) Documento comprovativo da situação militar e do tempo de prestação de serviço militar obrigatório, se já efectuado;\n\nd) Certificado de registo criminal.\n\n3. A documentação referida nos n.os 1 e 2 do presente artigo deverá ser entregue na secretaria do estabelecimento indicado em primeiro lugar na ordem de preferência para a frequência do internato.\n\nArt. 39.º - 1. Os requerimentos e restantes documentos entregues pelos candidatos são organizados em processos individuais e remetidos pelas secretarias ao inspector superior de Acção Hospitalar, decorridos não mais de cinco dias sobre o termo do prazo de abertura do concurso.\n\n2. Compete ao inspector superior de Acção Hospitalar providenciar no sentido de lhe serem fornecidas as listas dos alunos de Medicina que tenham terminado com aproveitamento, até 15 de Novembro do ano em causa, o estágio de prática clínica, anotando o facto nos requerimentos respectivos, caso se tenham candidatado condicionalmente ao internato de policlínica, e eliminando os candidatos admitidos condicionalmente que não tenham obtido aproveitamento.\n\n3. Uma vez concluídos os trabalhos referidos no número anterior, o inspector superior de Acção Hospitalar convocará o júri, a quem fará entrega, até ao dia 30 de Novembro, de toda a documentação respeitante aos candidatos admitidos definitivamente a concurso.\n\n4. Uma vez de posse da documentação e decorridos não mais de cinco dias, o júri promove a afixação, em todos os hospitais centrais gerais, da lista provisória dos candidatos admitidos, indicando a data da primeira reunião do júri para trabalhos de classificação.\n\n5. Durante os cinco dias que se seguem à afixação, os candidatos poderão reclamar para o júri da exactidão da lista provisória, que será rectificada, caso haja fundamento.\n\n6. Terminado o prazo referido no número anterior, o júri deverá reunir para classificação e distribuição dos candidatos, ordenando estes de acordo com as seguintes prioridades, de que a primeira exclui a segunda:\n\n1.ª Mais elevada classificação de licenciatura ou mais elevada média aritmética, com arredondamento para as unidades, das classificações obtidas em todas as disciplinas do curso de Medicina;\n\n2.ª Mais elevada média das classificações obtidas nas disciplinas de Propedêutica, Patologia e Clínicas Médica e Cirúrgica.\n\n7. O júri deverá concluir os trabalhos referidos no número anterior antes do dia 20 de Dezembro, remetendo até essa data a lista com a classificação e distribuição dos candidatos aprovados ao director-geral dos Hospitais, que promoverá a homologação da mesma e sua publicação no Diário do Governo.\n\n8. Simultaneamente, o júri remeterá à mesma entidade toda a restante documentação referente ao concurso.\n\nArt. 40.º O internato de policlínica deverá ter início, em todos os estabelecimentos em que se realize, no dia 1 de Janeiro de cada ano."
+  },
+  "a0ea8d064d49a2e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Exame final do internato de policlínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Exame final do internato de policlínica\n\nArt. 41.º - 1. São automaticamente admitidos a exame final do internato de policlínica os internos que durante a respectiva frequência tenham obtido classificação de «com aproveitamento», atribuída de acordo com o disposto no artigo 26.º do presente Regulamento.\n\n2. Serão também admitidos a exame final do internato de policlínica os médicos que, embora sem a frequência do internato, tenham exercido durante, pelo menos, três anos, com zelo e assiduidade, funções clínicas em qualquer hospital central geral, independentemente da forma de provimento ou do regime de admissão.\n\n3. Os médicos que desejem ser submetidos a exame final do internato de policlínica ao abrigo do número anterior deverão requerer a sua admissão ao mesmo ao director-geral dos Hospitais, com uma antecedência mínima de três meses sobre a data prevista para a sua realização, apresentando simultaneamente documentação comprovativa de reunirem os requisitos indispensáveis para a admissão e indicando no requerimento o estabelecimento em que prefeririam prestar provas.\n\nArt. 42.º - 1. O exame final do internato de policlínica, a ter início no decurso do mês que se segue ao termo do período correspondente de frequência,\n\nconsta de uma prova prática de clínica e de uma prova teórica a efectuar segundo a modalidade das provas escritas de escolha múltipla.\n\n2. Cada uma das provas mencionadas no número anterior é por si só eliminatória.\n\nArt. 43.º A data de início do exame final do internato de policlínica será estabelecida pela Direcção-Geral dos Hospitais e tornada pública, mediante aviso afixado, com a antecedência mínima de um mês, em todos os hospitais centrais gerais.\n\nArt. 44.º - 1. A Direcção-Geral dos Hospitais designará, em Junho de cada ano, uma comissão formada por cinco membros dos quadros permanentes de hospitais centrais, indicados para o efeito pelos respectivos directores, que elaborará, segundo a modalidade indicada no n.º 1 do artigo 42.º, o texto a utilizar para realização da prova teórica do exame final do ano seguinte.\n\n2. A comissão referida no número anterior será presidida pelo mais antigo de entre os seus membros de hierarquia hospitalar mais elevada e deverá concluir os seus trabalhos até 31 de Dezembro de cada ano.\n\n3. Compete ao presidente da comissão velar pelo mais cuidadoso sigilo quanto ao texto elaborado, entregando a forma final deste, até à data indicada no número anterior, ao inspector superior de Acção Hospitalar.\n\n4. Ao inspector superior de Acção Hospitalar compete providenciar no sentido de se obterem as cópias necessárias do referido texto, remetendo ao director de cada um dos hospitais centrais em que se realizem provas o número conveniente de exemplares.\n\n5. Os exemplares destinados a cada estabelecimento, encerrados em embalagens lacradas, ficam confiados à guarda do respectivo director até ao momento da realização da prova.\n\nArt. 45.º O exame final do internato de policlínica tem início com a prova prática de clínica, que será baseada na observação de um doente, pertencente ao foro da medicina interna, e constará de duas fases, das quais a primeira corresponde à referida observação e elaboração do respectivo relatório, enquanto a segunda corresponde à leitura deste e subsequente discussão.\n\nArt. 46.º - 1. Em cada estabelecimento o número de examinandos que em cada dia realizam a primeira fase da prova prática não poderá exceder cinquenta, devendo ser agrupados para o efeito mediante sorteio, a realizar imediatamente antes do início da referida fase.\n\n2. Após o sorteio, o presidente da delegação local do júri indicará publicamente as datas, horas e locais em que se efectuam as restantes sessões da prova prática, inclusive aquelas em que se realizam as leituras correspondentes.\n\nArt. 47.º - 1. O doente a observar será tirado à sorte por cada examinando, imediatamente antes do início da sua prova, de entre os previamente escolhidos pelo júri.\n\n2. O examinando dispõe de noventa minutos para colheita da história clinica e observação do doente que lhe haja cabido em sorteio.\n\n3. Após um intervalo de quinze minutos, os examinandos dispõem de mais duas horas para elaboração de um relatório sobre o doente observado, relatório esse de que deverão constar a anamnese, os resultados da observação efectuada, a discussão do diagnóstico, a terapêutica proposta e o prognóstico.\n\n4. No caso de o examinando considerar que o doente que observou necessita ser objecto de estudo e eventual tratamento por especialista ou especialistas, deverá mencionar o facto no seu relatório, justificando essa opinião.\n\n5. Durante a elaboração do relatório o examinando poderá apresentar ao júri uma lista dos exames complementares e especializados que reputa necessários para esclarecimento do caso, devendo indicar as razões justificativas de cada pedido.\n\n6. Após ter recebido do júri os resultados dos exames requisitados que constem dos processos clínicos, cada examinando poderá apresentar segunda lista de exames complementares, elaborada de acordo com o disposto no número anterior.\n\n7. A entrega ao júri da segunda lista não poderá ter lugar decorrida mais de hora e meia sobre o início da elaboração do relatório.\n\n8. Findas as duas horas destinadas à elaboração dos relatórios, o júri recolherá estes em sobrescritos, que, depois de lacrados, ficam à sua guarda até ao momento da leitura.\n\nArt. 48.º - 1. As leituras terão lugar segundo a ordem definida pelo sorteio referido no artigo 46.º, sendo o número de leituras por sessão estabelecido e tornado público pelo presidente da delegação local do júri logo que terminado aquele sorteio.\n\n2. Concluída cada leitura, os membros do júri poderão comentar o relatório e pedir ao candidato os esclarecimentos que acerca do mesmo julgarem convenientes, dispondo cada um de dez minutos para o efeito.\n\n3. O candidato dispõe do mesmo tempo para responder a cada membro do júri.\n\nArt. 49.º - 1. A classificação da prova prática é estabelecida em termos de «admitido à prova teórica» ou «excluído da prova teórica», mediante votação a efectuar nos mesmos termos por cada um dos membros do júri.\n\n2. Serão excluídos da prova teórica os examinandos que não obtenham maioria de votos favoráveis à admissão.\n\n3. Os presidentes das delegações locais do júri tornarão públicos os resultados no fim de cada sessão de provas e enviarão as listas completas das classificações ao presidente da comissão central do júri decorridas não mais de quarenta e oito horas sobre a última sessão.\n\n4. Compete ao presidente da comissão central do júri homologar as listas referidas no número anterior e providenciar no sentido de serem elaboradas listas gerais dos examinandos admitidos à prova teórica, promovendo a sua afixação em todos os estabelecimentos em que se tenham realizado provas.\n\n5. Simultaneamente com a afixação mencionada no número anterior, o presidente da comissão central do júri mandará afixar um aviso de que constem o dia, hora e locais em que se realizará a prova teórica.\n\nArt. 50.º - 1. A prova teórica terá lugar no mesmo dia e à mesma hora em todos os estabelecimentos em que se realize, decorridos pelo menos dois e não mais de dez dias sobre a afixação do aviso mencionado no n.º 5 do artigo 49.º\n\n2. A duração da prova não deverá exceder duas horas, findas as quais serão as provas recolhidas em sobrescritos lacrados na presença dos candidatos e confiadas à guarda do director do hospital, que as remeterá, logo que possível, ao presidente da comissão central do júri para efeitos de classificação.\n\nArt. 51.º - 1. O júri atribui as classificações da prova teórica de acordo com os resultados obtidos por avaliação mecanográfica.\n\n2. A classificação será estabelecida segundo uma escala de 0 a 20 valores, multiplicando a percentagem de respostas certas pelo coeficiente 0,2.\n\n3. São excluídos os candidatos com classificação inferior a 10 valores.\n\nArt. 52.º - 1. A classificação final do internato de policlínica será a obtida na prova teórica.\n\n2. A comissão central do júri elaborará a lista das classificações finais dos candidatos aprovados, que será afixada em cada um dos estabelecimentos onde se hajam efectuado provas de exame, decorridos não mais de quinze dias sobre a realização das mesmas.\n\n3. A requerimento dos interessados, os serviços administrativos dos hospitais centrais gerais emitirão certificados de habilitação do internato de policlínica."
+  },
+  "30158930165dbd89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Concurso de admissão ao internato de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Concurso de admissão ao internato de especialidades\n\nArt. 53.º - 1. O concurso de admissão ao internato de especialidades será aberto nas condições referidas no artigo 29.º do presente Regulamento para os números de vagas definidos por ramos ou especialidades e por estabelecimentos, por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, tendo em atenção as necessidades nacionais em cada especialidade e a capacidade formativa dos estabelecimentos.\n\n2. As decisões constantes do despacho mencionado no número anterior deverão ser transcritas no aviso de abertura de cada concurso.\n\nArt. 54.º - 1. Podem concorrer ao internato de especialidades os médicos que tenham obtido aprovação no exame final do internato geral ou de policlínica há menos de três anos, ficando exceptuados desta limitação os que tenham sido impedidos de o fazer durante esse prazo por motivos de serviço militar obrigatório.\n\n2. Os médicos exceptuados do prazo de três anos estabelecido no n.º 1, por motivo de serviço militar obrigatório, poderão concorrer aos internatos de especialidades nos concursos realizados durante os três anos que se sigam à sua passagem à disponibilidade.\n\nArt. 55.º - 1. Dentro do prazo de abertura do concurso, os candidatos devem entregar, na secretaria do estabelecimento em que desejem frequentar o internato de especialidades, um requerimento de que constem:\n\na) Identificação, data de nascimento e residência;\n\nb) Indicação do ramo ou especialidade a que concorrem;\n\nc) Indicação do hospital que, de entre os que abriram vagas na especialidade respectiva, pretendem frequentar, podendo indicar, por ordem de preferência, outras opções;\n\nd) Classificação final obtida no internato geral ou de policlínica e respectiva data de exame;\n\nf) Quaisquer outros elementos curriculares que considerem de utilidade para fins do concurso.\n\n2. Ainda dentro do prazo de abertura do concurso os candidatos deverão entregar a seguinte documentação:\n\na) Documento comprovativo da sua situação militar;\n\nb) Certificado de registo criminal;\n\nc) Certidão de nascimento;\n\nd) Documento comprovativo do tempo de prestação de serviço militar obrigatório, se o efectuaram.\n\nArt. 56.º - 1. Os requerimentos e documentos recebidos são organizados pelas secretarias em processos individuais e remetidos ao inspector superior de Acção Hospitalar, decorridos não mais de cinco dias sobre a data em que termine o prazo de entrega dos documentos.\n\n2. O inspector superior de Acção Hospitalar, logo que reúna todos os processos, convocará o júri, a quem fará entrega, antes do dia 20 de Maio, de toda a documentação referente ao concurso.\n\n3. Ao presidente do júri compete providenciar no sentido de, decorridos não mais de cinco dias sobre o recebimento dos documentos, promover a afixação, na Direcção-Geral dos Hospitais e em todos os hospitais centrais, da lista provisória dos candidatos admitidos por ramos ou especialidades, com indicação do estabelecimento que cada candidato preferiu e da data em que o júri reunirá para trabalhos de classificação em mérito relativo dos candidatos.\n\n4. Durante os cinco dias que se seguem à afixação, os candidatos poderão reclamar para o júri da exactidão da lista provisória, que poderá ser rectificada se houver fundamento.\n\n5. A reunião do júri mencionada no n.º 3 do presente artigo deverá ter lugar decorridos não mais de dez dias sobre a afixação da lista provisória.\n\nArt. 57.º - 1. A classificação em mérito relativo atenderá às prioridades abaixo enumeradas, de que cada uma exclui as seguintes:\n\n1.ª Melhor classificação final do internato de policlínica;\n\n2.ª Melhor classificação final no curso de Medicina;\n\n3.ª Melhores informações do internato de policlínica;\n\n4.ª Mais recente internato de policlínica;\n\n5.ª Outros elementos curriculares.\n\n2. O tempo de serviço militar obrigatório é descontado para apuramento das prioridades 4.ª e 5.ª.\n\nArt. 58.º - 1. O júri reúne, na data fixada, para classificar os candidatos em mérito relativo, por ramos ou especialidades, e proceder à sua distribuição pelos hospitais.\n\n2. A lista respectiva será afixada nos locais indicados no n.º 3 do artigo 56.º\n\nArt. 59.º - 1. Os candidatos que não tenham obtido colocação na distribuição referida no artigo anterior podem, no prazo de cinco dias a contar da data da afixação da lista referida no n.º 2 do artigo anterior, requerer colocação em qualquer dos hospitais em que restem vagas da mesma especialidade.\n\n2. Dentro dos cinco dias seguintes, o júri efectua nova reunião para classificar estes candidatos, seguindo os critérios fixados no artigo 57.º, e efectuar a sua distribuição, afixando nova lista, nos mesmos locais.\n\n3. A lista definitiva de todos os candidatos aprovados por ramos ou especialidades e por hospitais será homologada por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, competindo ao director-geral dos Hospitais promover a sua publicação no Diário do Governo.\n\nArt. 60.º O internato de especialidades deverá ter início, em todos os estabelecimentos em que se realize, no dia 1 de Julho de cada ano."
+  },
+  "29c088378db91d0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Exame final do internato de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Exame final do internato de especialidades\n\nArt. 61.º - 1. São admitidos a exame final do internato de especialidades os internos que tenham obtido a classificação de «com aproveitamento» durante a respectiva frequência, atribuída pelos directores do internato dos estabelecimentos que frequentaram, de acordo com o disposto no artigo 26.º do presente Regulamento.\n\n2. Serão também admitidos a exame final do internato de especialidades os médicos que, embora sem a frequência do internato, tenham seis ou mais anos de serviço, dos quais pelo menos quatro na respectiva especialidade, prestado, com zelo e assiduidade, independentemente da forma de provimento ou de admissão, em qualquer hospital central.\n\n3. Os médicos que desejem ser submetidos a exame final do internato de especialidades ao abrigo do disposto no número anterior deverão requerer o mesmo, ao director-geral dos Hospitais, com uma antecedência mínima de três meses sobre a data prevista para a sua realização, indicando a especialidade em que pretendem ser examinados e o estabelecimento em que prefeririam prestar provas e entregando, simultaneamente, documentação comprovativa de posse dos requisitos necessários para admissão a exame.\n\nArt. 62.º - 1. O exame final do internato de especialidades, a iniciar no decurso do último mês do terceiro ano do internato, é constituído pelas seguintes provas:\n\na) Discussão do curriculum vitae;\n\nb) Prova prática;\n\nc) Prova teórica.\n\n2. As provas terão lugar pela ordem indicada no n.º 1 do presente artigo.\n\n3. Cada uma das provas referidas no artigo anterior é, por si só, eliminatória.\n\n4. A falta a qualquer das provas implica a exclusão do exame.\n\nArt. 63.º Na apreciação do curriculum serão obrigatoriamente considerados os seguintes elementos:\n\na) Classificação obtida no exame final do internato de policlínica;\n\nb) Classificação obtida na licenciatura em Medicina;\n\nc) Valor dos trabalhos publicados ou comunicados sobre assuntos da especialidade;\n\nd) Actividades docentes ou de investigação, devidamente documentadas, no campo da especialidade;\n\ne) Informações obtidas nos estágios efectuados durante o internato.\n\nArt. 64.º - 1. A argumentação do curriculum deverá ser feita, pelo menos, por um membro do júri, que disporá de quinze minutos para o efeito.\n\n2. O examinando disporá do mesmo tempo para responder a cada um dos arguentes.\n\nArt. 65.º - 1. Após discussão pública dos curricula, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de provas, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores.\n\nArt. 66.º A segunda prova, que é prática, variará consoante o ramo clínico ou especialidade.\n\nArt. 67.º - 1. Quando se trate de exame final do internato de medicina, de cirurgia geral ou de outras especialidades clínicas, médicas ou cirúrgicas, a prova prática consistirá no exame de dois doentes pertencentes ao foro do ramo clínico ou especialidade em causa, subsequente elaboração do correspondente relatório escrito e ulterior discussão do mesmo, segundo as normas abaixo indicadas.\n\n2. Os dois doentes referidos no n.º 1 do presente artigo serão sorteados pelos examinandos de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia em que se realiza a prova.\n\n3. A observação de ambos os doentes não deverá ser prolongada para além de duas horas, podendo o examinando, no decurso da mesma, tomar as notas que julgar necessárias.\n\n4. Durante o período destinado à observação dos doentes poderão os examinandos, com prévia autorização do júri, efectuar quaisquer exames, radioscópicos, endoscópicos ou de outras naturezas, que considerem convenientes para mais completo esclarecimento das situações clínicas em causa.\n\n5. Terminado o período destinado à observação dos doentes e após um intervalo não superior a trinta minutos, os examinandos darão início à elaboração de um relatório escrito sobre os doentes que observaram, dispondo de três horas para a sua conclusão.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri duas listas de estudos complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, não devendo a segunda lista ser entregue decorridas mais de duas horas sobre o início da parte escrita da prova.\n\n7. As listas mencionadas no número anterior deverão conter justificações sumárias dos pedidos formulados.\n\n8. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\n9. O relatório escrito a que se refere o n.º 5 do presente artigo deverá conter as anamneses, os resultados das observações, os diagnósticos admitidos como definitivos ou mais prováveis, bem como as respectivas discussões, as terapêuticas preconizadas e os prognósticos dos doentes observados.\n\nArt. 68.º - 1. Quando se trate de exame final do internato de radiologia, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de dois doentes, sorteados pelo examinando de entre o mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia em que se realiza a prova.\n\n2. Os doentes deverão ser convenientemente preparados para os exames que, eventualmente, venham a ser efectuados, com ou sem utilização de contrastes.\n\n3. Cada doente será acompanhado de um resumo da história clínica, onde constem as hipóteses de diagnóstico, as dúvidas clínicas existentes e as terapêuticas efectuadas.\n\n4. O examinando disporá de hora e meia para estudar os resumos correspondentes aos doentes que lhe couberem em sorteio e eventual observação directa dos mesmos, elaborando, ainda durante esse tempo, uma lista de todos os exames radiológicos que, em sua opinião, expressamente justificada, conviria efectuar, em cada um deles, para esclarecimento da situação clínica.\n\n5. Dessa lista, que será apresentada ao júri, seleccionará este um exame para cada doente, exequível nas condições do concurso, devendo o examinando efectuar, na presença do júri, os exames seleccionados, para o que dispõe de três horas.\n\n6. Logo que receba as películas devidamente reveladas, o examinando disporá de uma hora para apreciar os radiogramas e elaborar os respectivos relatórios interpretativos.\n\nArt. 69.º - 1. Quando se trate de exame final do internato de radioterapia e medicina nuclear, a prova prática consistirá no estudo de dois doentes em que esteja indicada a terapêutica por radiações, seguido da elaboração de relatório escrito em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos, bem como as respectivas técnicas de aplicação.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Cada doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e terapêuticas efectuadas.\n\n4. O examinando dispõe de duas horas para a análise dos resumos mencionados no número anterior e estudo directo dos doentes, a efectuar perante o júri.\n\n5. Após um intervalo não superior a meia hora, o examinando disporá de duas horas para elaboração de um relatório, em que expresse as conclusões sobre cada um dos casos clínicos, os métodos terapêuticos que preconiza e as respectivas técnicas de aplicação.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\nArt. 70.º - 1. Quando se trate de exame final do internato de análises clinicas, a prova prática compreenderá a execução de três técnicas laboratoriais, com interpretação dos resultados e elaboração de relatório em que tais resultados sejam expressos e acompanhados dos comentários que o examinando considere pertinentes.\n\n2. As técnicas laboratoriais a executar e interpretar pertencerão aos sectores da bioquímica, da microbiologia e da hematologia, não podendo cada examinando executar duas técnicas pertencentes ao mesmo sector.\n\n3. As técnicas a executar serão sorteadas pelos examinandos de listas de dez técnicas, elaboradas separadamente para cada um dos sectores referidos, listas essas que serão estabelecidas e tornadas públicas, por comissões designadas para o efeito pela Direcção-Geral dos Hospitais, com o mínimo de seis meses de antecedência sobre os exames.\n\n4. Os examinandos dispõem de quatro horas para execução das técnicas, podendo distribuir esse tempo como julgarem mais conveniente.\n\n5. Após um intervalo máximo de trinta minutos, dispõem os candidatos de mais hora e meia para a elaboração do relatório mencionado no n.º 1 do presente artigo.\n\nArt. 71.º - 1. Quando se trate de exame final do internato de medicina física e de reabilitação, a prova prática consistirá no estudo de dois doentes em que esteja indicado o recurso à medicina física e de reabilitação, seguido da elaboração de relatório em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos, bem como as respectivas técnicas de aplicação.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Cada doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e terapêuticas efectuadas.\n\n4. O examinando dispõe de duas horas para análise dos resumos mencionados no número anterior e estudo directo dos doentes, a efectuar perante o júri.\n\n5. Após um intervalo de meia hora, o examinando disporá de duas horas para elaborar o relatório a que se refere o n.º 1 do presente artigo, devendo no mesmo especificar as conclusões a que chegou sobre cada caso, os métodos terapêuticos que preconiza e as respectivas técnicas de aplicação.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\nArt. 72.º - 1. Quando se trate de exame final do internato de hemoterapia, a prova prática consistirá de uma parte clínica e de uma parte de hematologia laboratorial, consistindo a primeira na observação de um doente em que se julgue indicado o recurso à hemoterapia, seguida da elaboração de relatório em que se expressem as conclusões atingidas, os métodos terapêuticos considerados indicados e as respectivas técnicas de aplicação.\n\n2. O doente para a parte clínica será sorteado pelo examinando de entre um mínimo de dois, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. O doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e as terapêuticas efectuadas.\n\n4. O examinando dispõe de hora e meia para estudo do resumo mencionado no n.º 3 do presente artigo e observação directa do doente, que deverá ser efectuada perante o júri.\n\n5. Terminado esse período, dispõe de mais hora e meia para elaborar o relatório a que se refere o n.º 1 do presente artigo.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de uma hora decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\n8. Após um intervalo máximo de meia hora, o examinando executará uma prova hematológica, de hematimetria geral, de imunoematologia, de enzimologia, de biofísica ou de bioquímica, sorteada de entre uma lista de quinze provas, abrangendo os diversos sectores referidos da hematologia laboratorial, elaborada e tornada pública de acordo com o preceituado no n.º 3 do artigo 70.º para as técnicas laboratoriais do exame final do internato de análises clínicas.\n\n9. O examinando dispõe de hora e meia para executar a prova e elaborar um relatório, em que expresse os resultados obtidos.\n\nArt. 73.º - 1. Quando se trate de exame final do internato de anatomia patológica, a prova prática constará da execução de uma autópsia e da leitura de três preparações histológicas, seguidas da elaboração dos correspondentes relatórios.\n\n2. As preparações histológicas a que se refere o número anterior serão sorteadas pelo candidato de entre um conjunto de quinze preparações devidamente numeradas, escolhidas para o efeito pelo júri.\n\n3. No início da prova será fornecido ao examinando um resumo da história clínica respeitante ao indivíduo a autopsiar.\n\n4. O examinando dispõe de três horas para execução da autópsia e estudo das preparações histológicas, podendo distribuir esse tempo como tiver por conveniente.\n\n5. Após um intervalo máximo de meia hora, o examinando disporá de duas horas pára elaborar o relatório da autópsia e o do estudo das preparações histológicas que examinou, devendo deste último constarem os respectivos números e correspondentes diagnósticos.\n\nArt. 74.º - 1. Quando se trate de exame final do internato de anestesiologia, a prova prática consistirá no estudo de dois doentes para operar, seguido da elaboração do relatório de que constem os resultados desse estudo, com indicação das técnicas anestésicas preconizadas em cada caso.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Será fornecido ao examinando um boletim de que constem o resumo das histórias clínicas, os diagnósticos pré-operatórios e os tipos de intervenção cirúrgica a que os doentes irão ser submetidos.\n\n4. O examinando dispõe de duas horas para o estudo dos doentes e, após um intervalo máximo de meia hora, de mais duas horas para a elaboração do relatório.\n\n5. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n6. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\nArt. 75.º - 1. Findos os tempos estabelecidos para elaboração dos relatórios a que se faz referência nos artigos anteriores, respeitantes à prova prática do exame final do internato de especialidades, os examinandos encerrarão os mesmos em envelopes que, depois de lacrados, serão confiados à guarda do júri até ao momento das respectivas leituras.\n\n2. As leituras dos relatórios a que se refere o artigo anterior, a realizar pelos examinandos na presença dos respectivos júris, e a respectiva discussão devem ter início decorridas não menos de quarenta e oito nem mais de setenta e duas horas sobre a última sessão prática desta prova.\n\n3. A prova de cada examinando será comentada, pelo menos, por um membro do júri, que dispõe de dez minutos para o efeito.\n\n4. O examinando dispõe de igual tempo para responder a cada um dos arguentes.\n\nArt. 76.º - 1. As classificações da prova prática serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de leitura, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores.\n\nArt. 77.º - 1. A prova teórica do exame final do internato de especialidades, que é oral, consistirá no interrogatório do examinando sobre cinco assuntos diferentes da matéria da especialidade respectiva.\n\n2. Os assuntos sobre os quais recairá o interrogatório serão sorteados pelo examinando, no início da prova, de entre uma lista de vinte, tornada pública com o mínimo de seis meses de antecedência sobre os exames.\n\n3. A lista a que se refere o número anterior será elaborada, para cada especialidade, por uma comissão designada para o efeito pela Direcção-Geral dos Hospitais.\n\n4. O examinando deverá ser interrogado, pelo menos, por dois dos membros do júri.\n\n5. O examinando disporá de dez minutos para responder a cada uma das questões que lhe forem apresentadas.\n\n6. A prova teórica deverá ter início decorridas não menos de quarenta e oito nem mais de setenta e duas horas sobre a conclusão das provas práticas.\n\nArt. 78.º - 1. Terminados os interrogatórios a que se refere o artigo anterior, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de provas, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores.\n\nArt. 79.º - 1. A classificação do exame final do internato de especialidades será estabelecida pela média aritmética das classificações obtidas nas três provas, arredondadas para a décima mais próxima.\n\n2. As classificações finais serão tornadas públicas, mediante afixação no estabelecimento em que se realizaram as provas correspondentes, após homologação pelo respectivo director.\n\n3. Aos médicos que hajam sido aprovados no exame final do internato de especialidades será passado, sempre que o requeiram, certificado comprovativo pelos serviços administrativos do estabelecimento em que tenham realizado o exame."
+  },
+  "271dfb8bc0a7e160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Internato e serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Internato e serviço militar\n\nArt. 80.º - 1. Os médicos admitidos à frequência dos internatos que forem chamados à prestação de serviço militar obrigatório na qualidade de médicos serão, uma vez terminado aquele serviço, readmitidos à frequência, mediante requerimento dirigido ao director do estabelecimento a que se encontravam afectos.\n\n2. Os médicos que requeiram a readmissão à frequência dos internatos ao abrigo do disposto no n.º 1 do presente artigo terão direito à remuneração correspondente à sua categoria durante todo o tempo de estágio que se siga à readmissão, desde que se verifiquem disponibilidades nas verbas orçamentais destinadas ao pagamento de pessoal.\n\n3. Aos médicos a que se refere o número anterior serão considerados válidos os estágios realizados antes da interrupção da frequência.\n\n4. Para efeitos de admissão a exame final, os médicos a que se referem os números anteriores do presente artigo podem requerer ao director-geral dos Hospitais que lhes seja contado, como frequência do internato, o tempo de serviço militar obrigatório.\n\n5. A contagem de tempo a que se refere o número anterior é válida para qualquer dos estágios do internato de policlínica, mas a sua validade para o caso do internato de especialidades será definida individualmente pela Inspecção Superior de Acção Hospitalar, tendo em consideração a natureza e diferenciação das funções exercidas.\n\n6. Os médicos readmitidos à frequência dos internatos ao abrigo do disposto no n.º 1 do presente artigo serão submetidos a exame final na primeira época normal de exames que se siga ao momento em que, consideradas as contagens referidas, hajam completado os estágios necessários para admissão ao mesmo, ficando contratados, em regime eventual, durante todo o período que medeie entre a conclusão desse tempo e a realização do exame.\n\n7. Os médicos a que se refere o presente artigo e que completem o tempo de estágio dos correspondentes internatos menos de trinta dias decorridos sobre o início de uma época normal de exames poderão, caso assim o desejem e requeiram, antecipar os respectivos exames finais.\n\n8. As disposições do presente artigo são aplicáveis aos médicos admitidos à frequência do internato e chamados à prestação de serviço militar obrigatório antes de terem iniciado as suas funções hospitalares e àqueles que tenham obtido aprovação no primeiro concurso realizado para o internato respectivo após cessação do impedimento.\n\nArt. 81.º Os médicos que, tendo interrompido a frequência dos internatos por terem sido convocados para prestação de serviço militar obrigatório, desejem efectuar exames finais do internato que interromperam e satisfaçam os requisitos exigidos para o efeito poderão solicitar a sua admissão a exame, mediante requerimento entregue na Direcção-Geral dos Hospitais com um mínimo de dez dias de antecedência sobre o início das provas.\n\nArt. 82.º - 1. Aos médicos que, ao abrigo do disposto no n.º 2 do artigo 41.º e no n.º 2 do artigo 61.º, desejem submeter-se a exame final dos internatos será contado o tempo de prestação de serviço militar obrigatório como médicos, para efeitos das condições de admissão referidas nos citados artigos.\n\n2. Aos oficiais médicos dos quadros permanentes das forças armadas é aplicável o disposto no número anterior até uma contagem máxima de tempo de vinte e quatro meses."
+  },
+  "1c4c3f707d9fbc2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Contratos eventuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Contratos eventuais\n\nArt. 83.º Os estagiários de prática clínica que, ao abrigo do disposto no n.º 2 do artigo 37.º do presente Regulamento, se apresentem a concurso de admissão ao internato de policlínica no mesmo ano em que terminam o estágio continuarão a perceber, a título de eventuais, a remuneração auferida como estagiários até à data em que, no caso de serem admitidos, tomem posse como internos de policlínica.\n\nArt. 84.º - 1. Os médicos que, tendo terminado o período de frequência do internato de policlínica, aguardem a conclusão das provas do respectivo exame final serão contratados com a mesma categoria e em regime eventual, até que a mesma se verifique.\n\n2. Os médicos que, tendo obtido aprovação no exame final do internato de policlínica, se apresentem, no mesmo ano, a concurso de admissão ao internato de especialidades ficarão contratados em regime eventual, com a categoria de internos de policlínica, até à data em que, no caso de serem admitidos, tomem posse como internos de especialidades.\n\n3. Os médicos que, tendo terminado o período de frequência do internato de especialidades, aguardem a conclusão das provas do respectivo exame final serão contratados, com a mesma categoria e em regime eventual, até que a mesma se verifique.\n\n4. A exclusão nos exames finais dos internatos e, bem assim, a exclusão no concurso de admissão ao internato de especialidades implicam a imediata rescisão dos contratos eventuais a que se refere o presente artigo."
+  },
+  "4f8f912dfc0f8f39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Organização dos processos individuais dos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Organização dos processos individuais dos internos\n\nArt. 85.º - 1. Relativamente a cada interno será organizado um processo em que se inscrevem todos os elementos respeitantes à assiduidade, aproveitamento e demais factos relacionados com a sua carreira no internato.\n\n2. Esse processo fica confiado à responsabilidade do director do internato do estabelecimento em que o interno se encontre colocado.\n\n3. Sempre que o interno transite de estabelecimento, será acompanhado do respectivo processo.\n\nArt. 86.º O processo referido no artigo anterior será de modelo único e elaborado de acordo com as seguintes regras:\n\na) Será susceptível de tratamento mecanográfico quanto aos dados essenciais e de identificação;\n\nb) Deverá conter local apropriado para as apreciações e observações que, relativamente ao interno, sejam feitas pelos directores dos serviços onde realize estágios;\n\nc) Conterá espaço para inscrição das informações obtidas nos estágios, informações anuais ou de período e classificações obtidas em exames finais, bem como dos aspectos relativos à assiduidade e presença em reuniões de trabalho, conferências, seminários e cursos;\n\nd) Mencionará os antecedentes universitários e elementos de valorização profissional, tais como trabalhos publicados ou comunicados, títulos obtidos no país ou no estrangeiro e outros;\n\ne) Deve incluir cópias de documentos com interesse para o curriculum individual."
+  },
+  "44788420e0ecae6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Disposições transitórias\n\nArt. 87.º Os internos que à data da publicação deste Regulamento estejam a frequentar o internato de policlínica ou o último ano do internato de especialidades realizarão os respectivos exames finais de acordo com a legislação até agora aplicada.\n\nArt. 88.º Os exames finais dos internos do internato de especialidades que terminem os seus estágios no decurso dos anos de 1973 a 1976, inclusive, serão realizados nas épocas já estabelecidas em despacho do Secretário de Estado da Saúde e Assistência."
+  },
+  "a3df84d1459080fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Disposições finais\n\nArt. 89.º As dúvidas que se suscitarem quanto à aplicação do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que decidirá das mesmas, colhendo despacho ministerial, quando necessário.\n\nArt. 90.º São revogadas as disposições contidas nos seguintes diplomas legais:\n\na) [Portaria n.º 240/70](https://diariodarepublica.pt/dr/detalhe/portaria/240-1970-142285), de 14 de Maio;\n\nb) [Portaria n.º 610/71](https://diariodarepublica.pt/dr/detalhe/portaria/610-1971-631381), de 6 de Novembro;\n\nc) [Portaria n.º 134/73](https://diariodarepublica.pt/dr/detalhe/portaria/134-1973-684783), de 24 de Fevereiro.\n\nO Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa."
+  },
+  "343fdd68d0f953c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Finalidades, estrutura e duração do internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Finalidades, estrutura e duração do internato"
+  },
+  "ab0575d5090d2466": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O internato médico constitui a 1.ª fase da carreira médica hospitalar e é regido pelo disposto no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, no [Decreto-Lei n.º 33/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1973-684868), de 6 de Fevereiro, e no presente Regulamento."
+  },
+  "401d73aa06e7ff8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO internato médico tem como objectivos proporcionar a todos os licenciados em Medicina idênticas possibilidades de aperfeiçoamento profissional e promover a sua valorização no sentido de se tornarem elementos aptos à cobertura médico-sanitáría do País."
+  },
+  "9eb1ea62129a62e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O internato médico tem dois graus, a que correspondem duas fases distintas:\n\nGrau 1 - Internato de policlínica;\n\nGrau 2 - Internato de especialidades.\n\n2. O internato de policlínica é destinado ao aperfeiçoamento, no âmbito da prestação de cuidados médicos primários, através do exercício, orientado para esse fim, de actividades pertencentes aos foros da clínica médica, da cirurgia, da pediatria, da obstetrícia e da medicina-comunitária em geral.\n\n3. O internato de especialidades visa a preparação especializada em ramos tecnicamente individualizados das actividades médicas."
+  },
+  "f8a3562858b0f217": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As durações dos internatos serão uniformes em todos os estabelecimentos em que os mesmos se realizem.\n\n2. A duração do internato de policlínica é de catorze meses, com início em 1 de Janeiro de cada ano.\n\n3. Enquanto não for definida a duração própria dos vários internatos de especialidades, fica estabelecida para todos eles a duração de três anos."
+  },
+  "94a92580d3889778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos do internato médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos do internato médico"
+  },
+  "a2e653178aae2f5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os órgãos do internato médico são o Conselho Nacional do Internato Médico e as direcções do internato.\n\n2. Ao Conselho Nacional do Internato Médico compete cooperar, como órgão consultivo, na superior orientação do internato médico.\n\n3. Às direcções do internato compete o adoptarem as medidas adequadas à condução do internato nos respectivos estabelecimentos hospitalares, de harmonia com os programas aprovados."
+  },
+  "fe2344237d8ed44e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O Conselho Nacional do Internato Médico é constituído pelas seguintes entidades:\n\na) O director-geral dos Hospitais, que preside;\n\nb) Um representante do Gabinete de Estudos e Planeamento do Ministério da Saúde e Assistência;\n\nc) Um representante do Instituto Nacional de Saúde;\n\nd) Um representante da Direcção-Geral de Saúde;\n\ne) Um representante da Direcção-Geral de Saúde e Assistência do Ministério do Ultramar;\n\nf) Um representante do Conselho Superior de Educação Médica do Ministério da Educação Nacional;\n\ng) Um representante da Ordem dos Médicos;\n\nh) O inspector superior de Acção Hospitalar da Direcção-Geral dos Hospitais;\n\ni) Os directores dos hospitais centrais gerais e especializados;\n\nj) Os directores dos internatos dos hospitais centrais gerais e especializados;\n\nl) Os directores dos internatos do Instituto de Assistência Nacional aos Tuberculosos e do Instituto de Assistência Psiquiátrica;\n\nm) Um representante dos internos de policlínica de cada um dos hospitais centrais gerais;\n\nn) Um representante dos internos de especialidades de cada um dos hospitais centrais gerais e especializados.\n\n2. Os vogais referidos nas alíneas b), c), d), e), f) e g) serão indicados, no decurso da 1.ª quinzena de Janeiro de cada ano, mediante ofício, dirigido, pelas entidades que representam, ao director-geral dos Hospitais, sendo consideradas válidas as nomeações efectuadas anteriormente, sempre que essas entidades não comuniquem quaisquer modificações pretendidas no prazo mencionado.\n\n3. Os vogais referidos nas alíneas m) e n) serão designados pelos internos dos internatos respectivos, no decurso da 1.ª quinzena de Janeiro de cada ano, sendo os resultados das designações comunicados aos directores do internato de cada estabelecimento, que, por sua vez, os transmitirão ao director-geral dos Hospitais.\n\n4. O Conselho terá um secretário, responsável pelo expediente de todos os assuntos relativos ao Conselho e designado, de entre os funcionários da Direcção-Geral dos Hospitais, pelo respectivo director-geral.\n\n5. Na primeira sessão de cada ano do Conselho Nacional do Internato Médico, as entidades referidas nas alíneas i), j), m) e n) designarão os respectivos representantes, em número de dois para cada grupo, que irão constituir, em conjunto com as entidades referidas nas alíneas a), c), f), g) e h), o órgão habitual de consulta no referente a problemas do internato.\n\n6. Nenhum estabelecimento poderá estar representado por mais de dois membros no órgão referido no número anterior.\n\n7. Para estudo de assuntos específicos, poderão ser constituídos, dentro do Conselho, grupos de trabalho cuja composição garanta a idoneidade para os fins visados."
+  },
+  "a29ba7036d58f894": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Conselho Nacional do Internato Médico tem a sua sede na Direcção-Geral dos Hospitais e reunirá, pelo menos, duas vezes em cada ano, devendo uma das sessões ter lugar em Março e outra em Outubro.\n\n2. O Conselho poderá reunir extraordinariamente, a pedido de, pelo menos, dois terços dos seus membros.\n\n3. O Conselho poderá reunir também em grupo restrito, na sede de um hospital central, quando solicitado pelo respectivo director do internato ao director-geral dos Hospitais, que indicará o presidente e a constituição do grupo."
+  },
+  "81d76b9064dc7617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete ao Conselho:\n\na) Aprovar os programas anuais dos internatos médicos;\n\nb) Apreciar os relatórios elaborados pelos directores do internato;\n\nc) Aprovar os programas tipo das provas de exames e concursos;\n\nd) Dar parecer sobre os assuntos do internato que lhe sejam submetidos para tal efeito;\n\ne) Sugerir o que julgar conveniente para melhoria do funcionamento do internato médico;\n\nf) Aprovar os modelos dos processos dos internos e respectivos diplomas."
+  },
+  "af8afd6db5076a8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEm cada estabelecimento hospitalar em que funcione o internato médico haverá um director de internato, responsável pela orientação, direcção e execução das correspondentes actividades."
+  },
+  "6dd3cd1963954608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os directores do internato são nomeados por despacho ministerial, sob proposta dos directores de cada estabelecimento, de entre os médicos dos respectivos quadros permanentes.\n\n2. A proposta referida no número anterior deverá ser feita precedendo parecer das comissões médicas de cada estabelecimento.\n\n3. A nomeação para a função de director do internato é válida pelo período de dois anos e renovada automaticamente desde que não existam motivos determinantes em contrário.\n\n4. Caso se verifique haver vantagem para o conveniente desempenho das funções de director do internato, poderão os médicos nomeados para tal cargo ser temporariamente dispensados das suas restantes funções hospitalares."
+  },
+  "1d9262cdb708b162": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCompete especialmente ao director do internato de cada estabelecimento:\n\na) Promover, de acordo com os órgãos de direcção técnica e administrativa do hospital, a execução dos programas aprovados;\n\nb) Propor e orientar, ouvidos os respectivos directores, a distribuição dos internos pelos diferentes serviços, tendo em conta as tarefas cometidas ao estabelecimento e as possibilidades de cada serviço;\n\nc) Promover e coordenar a realização periódica de sessões técnicas, científicas, visitas de estudo e outras actividades previstas nos programas do internato;\n\nd) Emitir parecer sobre requerimentos e outros documentos relativos à situação dos internos;\n\ne) Colher periodicamente informações sobre o aproveitamento dos internos e funcionamento do internato;\n\nf) Elaborar anualmente um relatório, contendo uma análise crítica do desenvolvimento do internato durante esse ano e em que apresente as sugestões julgadas pertinentes, submetendo o mesmo, através da direcção do hospital respectivo, à apreciação do director-geral dos Hospitais;\n\ng) Propor à direcção do hospital as medidas que lhe parecerem adequadas para melhorar o funcionamento do internato, prestando toda a colaboração que lhe for pedida por aquela entidade;\n\nh) Promover a designação dos representantes dos internos no Conselho Nacional do Internato Médico;\n\ni) Exercer as demais atribuições que lhe são cometidas no presente Regulamento."
+  },
+  "9ea42d2b5fb82283": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O director do internato pode ser coadjuvado, no exercício das suas funções, por adjuntos ou coordenadores de internato, escolhidos de entre os médicos do quadro permanente e cujo número será fixado de acordo com as necessidades de cada hospital.\n\n2. As funções de adjunto ou coordenador de internato são desempenhadas por períodos renováveis de dois anos.\n\n3. A designação dos adjuntos ou coordenadores de internato é feita pelo director do estabelecimento, mediante proposta do respectivo director do internato."
+  },
+  "05f43673b257f303": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO apoio administrativo de que o director do internato carece é assegurado pelos serviços competentes do respectivo hospital ou por secretariado privativo, conforme for aconselhável em face das circunstâncias de cada estabelecimento."
+  },
+  "d6e878d82f689ca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estabelecimentos em que se realiza o internato e programas de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estabelecimentos em que se realiza o internato e programas de actividades"
+  },
+  "07048bfed745c2ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A realização do internato terá lugar em serviços dependentes do Ministério da Saúde e Assistência, do Ministério da Educação Nacional e do Ministério do Ultramar que se verifique reunirem as condições necessárias para a consecução dos fins visados.\n\n2. Os serviços referidos no número anterior serão declarados idóneos para a realização do internato mediante despacho do Ministério da Saúde e Assistência, com concordância prévia dos respectivos Ministros quando dependentes de outros Ministérios."
+  },
+  "61f0a2fce7b01aff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. São desde já declarados idóneos para a realização do internato os serviços dos hospitais centrais gerais da metrópole, dos hospitais universitários de Luanda e Lourenço Marques e, em relação ao internato das especialidades respectivas, dos hospitais centrais especializados.\n\n2. As maternidades podem ser autorizadas a que nelas se realize o internato de ginecologia, além do internato de obstetrícia.\n\n3. O internato poderá funcionar em hospitais distritais, precedendo despacho ministerial, à medida que se verifique que os mesmos possuem condições para o efeito."
+  },
+  "12f32e6447451861": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A efectivação do internato médico obedecerá a programas gerais de actividades, elaborados anualmente pelos estabelecimentos em que se realiza, sob responsabilidade dos respectivos órgãos de direcção técnica e em termos que garantam a consecução das finalidades visadas.\n\n2. Para a elaboração dos programas serão designados, pelos órgãos de direcção técnica dos estabelecimentos, ouvidos os respectivos directores do internato, os membros dos quadros médicos permanentes julgados necessários.\n\n3. Os programas serão presentes, através da direcção técnica dos estabelecimentos, ao Conselho Nacional do Internato Médico, devendo os respeitantes ao internato de policlínica dar entrada na Direcção-Geral dos Hospitais até ao dia 30 de Setembro e os referentes ao internato de especialidades até ao último dia de Fevereiro de cada ano.\n\n4. Os programas devem incluir, entre outras, as seguintes actividades:\n\na) Estágios em serviços de internamento, consultas externas, serviços domiciliários, serviços de urgência e outros cuja frequência se repute de interesse fundamental para aperfeiçoamento dos internos;\n\nb) Visitas de estudo ou estágios em serviços de saúde pública;\n\nc) Sessões de estudo e de informação sobre temas de medicina;\n\nd) Actividades de investigação clínica e laboratorial em serviços dependentes do Ministério da Saúde e Assistência, do Ministério da Educação Nacional ou do Ministério do Ultramar."
+  },
+  "fb718b313e7d265f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime de trabalho e regime jurídico do internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime de trabalho e regime jurídico do internato"
+  },
+  "02016e816a0df1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO provimento dos médicos internos é feito por contrato, tendo em atenção as disposições do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969."
+  },
+  "7f9ad9f640ce1604": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O regime de trabalho do internato de policlínica e do internato de especialidades é o de tempo completo, preenchido por trabalho prestado em período normal de serviço e em regime de escala.\n\n2. As direcções dos hospitais podem propor, por conveniência de serviço, que os períodos de trabalho dos internos sejam estabelecidos de harmonia com o disposto no n.º 3 do artigo 43.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro."
+  },
+  "c5f6d6421d61b8c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os médicos internos são obrigados ao cumprimento dos horárias estabelecidos pelas direcções dos hospitais e a prestar serviços de escala, mesmo em domingos e feriados, sendo, neste caso, compensados, quando possível, com folga no dia imediato.\n\n2. Como regra, os internos não deverão permanecer em serviços de escala mais de doze horas consecutivas.\n\n3. As trocas e substituições que, a título excepcional, os internos pretendam efectuar entre si, poderão ser autorizadas pelos directores de serviço, que fixarão as respectivas condições."
+  },
+  "d509860c76e36009": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1978-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+   ],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+  },
+  "d4cd70560f25e772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Em princípio, cada uma das fases do internato médico deverá ser concluída no estabelecimento em que tiver início.\n\n2. Precedendo parecer favorável da direcção clínica dos estabelecimentos interessados e ouvidos os respectivos directores do internato médico, podem os internos ser autorizados, pelo director-geral dos Hospitais, a completar um período de internato, não inferior a seis meses, em hospital diferente daquele em que iniciaram funções.\n\n3. No internato de especialidades, a transferência para outro estabelecimento só poderá ser autorizada dentro da respectiva especialidade e desde que haja vaga no quadro correspondente."
+  },
+  "7e844c00782026ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A interrupção da frequência do internato a requerimento do interessado poderá ser autorizada por despacho do director-geral dos Hospitais, ouvido o director do internato, e apenas por motivo de força maior ou razões de interesse público.\n\n2. A frequência do internato poderá ser retomada mediante autorização do director-geral dos Hospitais, ouvido o director do internato interessado e em condições a estabelecer para cada caso particular."
+  },
+  "6b77d8c28e6c3613": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1978-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+  },
+  "ababe22f0053c74e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. O regime disciplinar dos médicos internos é o estabelecido no Estatuto Disciplinar dos Funcionários Civis do Estado.\n\n2. Os internos têm direito às regalias e benefícios que, nos estabelecimentos, são usufruídos pelo pessoal médico dos quadros permanentes."
+  },
+  "43d2ae35c1705efb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. No início de funções, os internos devem apresentar, ao respectivo director do internato, declaração em que indiquem os lugares que exerçam noutros serviços, estabelecimentos ou instituições."
+  },
+  "3e6918907a974b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Aproveitamento na frequência do Internato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Aproveitamento na frequência do Internato"
+  },
+  "7e9589d1bedabb21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1978-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+   ],
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+  },
+  "95e0a2b846a2d17e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1978-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+   ],
+   "markdown": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+  },
+  "7b65b62b15402f94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1978-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+   ],
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 250/78](https://diariodarepublica.pt/dr/detalhe/portaria/250-1978-295778), publicado em 1978-05-03."
+  },
+  "e44fc51d9ad32347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Concursos de admissão e exames finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Concursos de admissão e exames finais"
+  },
+  "7d3ec0efd3314eda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. A admissão a qualquer das fases do internato médico tem lugar mediante concurso documental, a abrir, em cada ano e separadamente para cada uma das referidas fases, pela Direcção-Geral dos Hospitais.\n\n2. O concurso de admissão ao internato de policlínica será aberto no decurso do mês de Novembro, enquanto o concurso de admissão ao internato de especialidades será aberto no decurso da 2.ª quinzena do mês de Abril.\n\n3. Os concursos referidos no número anterior serão abertos pelo prazo de dez dias, a contar da data da publicação dos respectivos avisos no Diário do Governo."
+  },
+  "69dc66235af20d14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. A conclusão de cada uma das fases do internado médico e consequente direito ao respectivo diploma depende da aprovação no exame final respectivo.\n\n2. O exame final do internato de policlínica terá início logo que terminados os estágios correspondentes a essa fase do internato médico, enquanto o do internato de especialidades terá início no decurso do último mês do terceiro ano da frequência desse internato.\n\n3. São admitidos aos exames referidos no número anterior os internos que, de acordo com o disposto nos artigos 26.º e 27.º do presente Regulamento, tenham obtido aproveitamento nas frequências dos internatos respectivos."
+  },
+  "0659db926b6bfc84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Júris de concurso e exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Júris de concurso e exames"
+  },
+  "28ba2019ff26b0df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. O júri do concurso de admissão ao internato de policlínica é presidido pelo director do internato médico de um dos hospitais centrais gerais e tem como vogais dois médicos de categoria não inferior à de especialista de hospital central pertencentes aos quadros de outros hospitais centrais gerais.\n\n2. A nomeação do júri a que se refere o número anterior é da competência do director-geral dos Hospitais.\n\n3. O júri terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que necessite."
+  },
+  "fbcfc618b31ce804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. O júri do exame final do internato de policlínica será constituído por uma comissão central, formada por três membros, e por delegações locais, igualmente formadas por três membros, cujo número será igual ao dos estabelecimentos em que se realize o referido exame.\n\n2. A comissão central será presidida por um director de serviço de hospital central e terá como vogais dois chefes de serviço provenientes dos quadros de outros hospitais centrais.\n\n3. Cada delegação local será presidida por um chefe de serviço do hospital central correspondente e terá como vogais dois especialistas pertencentes aos quadros do mesmo estabelecimento.\n\n4. Os membros do júri do exame final do internato de policlínica deverão pertencer aos quadros de medicina e de cirurgia geral.\n\n5. A nomeação do júri do exame final do internato de policlínica é da competência do director-geral dos Hospitais, devendo os membros constituintes das delegações locais ser indicados pelos respectivos directores clínicos.\n\n6. A comissão central do júri do exame, final do internato de policlínica terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que necessite.\n\n7. As delegações locais funcionam nos respectivos estabelecimentos, devendo as direcções clínicas e, bem assim, as direcções dos internatos correspondentes garantir a todas elas os meios necessários à execução das tarefas que lhes competem."
+  },
+  "1969eb0748dc1f76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. O júri do concurso de admissão ao internato de especialidades será presidido pelo director do internato médico de um dos hospitais centrais gerais ou especializados e terá como vogais dois médicos, com categoria não inferior à de especialista de hospital central, provenientes dos quadros de outros hospitais centrais.\n\n2. A nomeação do júri do concurso de admissão ao internato de especialidades é da competência do director-geral dos Hospitais.\n\n3. O júri do concurso de admissão ao internato de especialidades terá a sua sede na Direcção-Geral dos Hospitais e receberá desta todo o apoio administrativo de que careça."
+  },
+  "c19a981f3d2e9882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. Em cada estabelecimento onde se realizem exames finais do internato de especialidades, o júri de cada ramo clínico ou especialidade será presidido por um director ou chefe de serviço pertencente aos quadros do ramo ou especialidade em causa do próprio estabelecimento e terá como vogais dois médicos de categoria não inferior a especialista de hospital central.\n\n2. Os vogais referidos no número anterior pertencerão obrigatoriamente aos quadros do ramo ou especialidade a que respeitam as provas a efectuar, devendo um deles ser proveniente de estabelecimento diverso daquele em que realizam essas provas.\n\n3. Compete ao director do estabelecimento em causa providenciar no sentido de obter dos directores de outros estabelecimentos a designação dos vogais a que se refere a parte final do número anterior para cada um dos exames a efectuar.\n\n4. Uma vez obtida a designação dos vogais estranhos ao estabelecimento, compete ainda ao director deste, ouvida a respectiva comissão médica, a nomeação dos júris, que deverão ser homologados pelo director-geral dos Hospitais.\n\n5. As direcções dos estabelecimentos em que se realizem exames finais do internato de especialidades e, bem assim, as respectivas direcções do internato devem garantir aos júris os meios necessários à execução das tarefas que lhes competem."
+  },
+  "a8a5e6eadceaa0df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. A constituição dos júris dos concursos de admissão a cada uma das fases do internato deverá constar dos respectivos avisos de abertura.\n\n2. A constituição dos júris dos exames finais será tornada pública mediante afixação nos estabelecimentos em que se realizem as provas, com uma antecedência mínima de quinze dias sobre o início efectivo das mesmas."
+  },
+  "2295ed3e59e984a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Concurso de admissão ao internato de policlínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Concurso de admissão ao internato de policlínica"
+  },
+  "860eeb3f07624c66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nO concurso de admissão ao internato de policlínica será aberto nas condições referidas no artigo 29.º do presente Regulamento, para um número de lugares a fixar anualmente, por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, sob proposta da Direcção-Geral dos Hospitais."
+  },
+  "c343c8d5da89b871": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. São candidatos idóneos no concurso de admissão ao internato de policlínica os licenciados em Medicina com menos de 35 anos de idade.\n\n2. Serão admitidos condicionalmente a concurso os alunos de Medicina que se encontrem a frequentar o estágio de prática clínica e a terminem até 15 de Novembro do mesmo ano, ficando a sua admissão definitiva dependente da obtenção de aproveitamento no referido estágio."
+  },
+  "6b5ca9c5d35822a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. O requerimento de admissão ao concurso referido no artigo 36.º deve conter a identificação completa do candidato, data de nascimento, data de licenciatura ou, para o caso dos candidatos admitidos condicionalmente ao abrigo do n.º 2 do artigo anterior, data do início da frequência do estágio de prática clínica, residência e ordem de preferência dos estabelecimentos onde deseja frequentar o internato em causa.\n\n2. O requerimento deverá ser instruído com os seguintes documentos:\n\na) Certificado da informação final da licenciatura ou, caso não seja possível a sua apresentação, certificado das classificações obtidas em todas as disciplinas do curso de Medicina;\n\nb) Certidão de nascimento;\n\nc) Documento comprovativo da situação militar e do tempo de prestação de serviço militar obrigatório, se já efectuado;\n\nd) Certificado de registo criminal.\n\n3. A documentação referida nos n.os 1 e 2 do presente artigo deverá ser entregue na secretaria do estabelecimento indicado em primeiro lugar na ordem de preferência para a frequência do internato."
+  },
+  "b3d52830b2a56e96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Os requerimentos e restantes documentos entregues pelos candidatos são organizados em processos individuais e remetidos pelas secretarias ao inspector superior de Acção Hospitalar, decorridos não mais de cinco dias sobre o termo do prazo de abertura do concurso.\n\n2. Compete ao inspector superior de Acção Hospitalar providenciar no sentido de lhe serem fornecidas as listas dos alunos de Medicina que tenham terminado com aproveitamento, até 15 de Novembro do ano em causa, o estágio de prática clínica, anotando o facto nos requerimentos respectivos, caso se tenham candidatado condicionalmente ao internato de policlínica, e eliminando os candidatos admitidos condicionalmente que não tenham obtido aproveitamento.\n\n3. Uma vez concluídos os trabalhos referidos no número anterior, o inspector superior de Acção Hospitalar convocará o júri, a quem fará entrega, até ao dia 30 de Novembro, de toda a documentação respeitante aos candidatos admitidos definitivamente a concurso.\n\n4. Uma vez de posse da documentação e decorridos não mais de cinco dias, o júri promove a afixação, em todos os hospitais centrais gerais, da lista provisória dos candidatos admitidos, indicando a data da primeira reunião do júri para trabalhos de classificação.\n\n5. Durante os cinco dias que se seguem à afixação, os candidatos poderão reclamar para o júri da exactidão da lista provisória, que será rectificada, caso haja fundamento.\n\n6. Terminado o prazo referido no número anterior, o júri deverá reunir para classificação e distribuição dos candidatos, ordenando estes de acordo com as seguintes prioridades, de que a primeira exclui a segunda:\n\n1.ª Mais elevada classificação de licenciatura ou mais elevada média aritmética, com arredondamento para as unidades, das classificações obtidas em todas as disciplinas do curso de Medicina;\n\n2.ª Mais elevada média das classificações obtidas nas disciplinas de Propedêutica, Patologia e Clínicas Médica e Cirúrgica.\n\n7. O júri deverá concluir os trabalhos referidos no número anterior antes do dia 20 de Dezembro, remetendo até essa data a lista com a classificação e distribuição dos candidatos aprovados ao director-geral dos Hospitais, que promoverá a homologação da mesma e sua publicação no Diário do Governo.\n\n8. Simultaneamente, o júri remeterá à mesma entidade toda a restante documentação referente ao concurso."
+  },
+  "c728590026bcb648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nO internato de policlínica deverá ter início, em todos os estabelecimentos em que se realize, no dia 1 de Janeiro de cada ano."
+  },
+  "82199598b550e6bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Exame final do internato de policlínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Exame final do internato de policlínica"
+  },
+  "3fa3a915bcada79c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. São automaticamente admitidos a exame final do internato de policlínica os internos que durante a respectiva frequência tenham obtido classificação de «com aproveitamento», atribuída de acordo com o disposto no artigo 26.º do presente Regulamento.\n\n2. Serão também admitidos a exame final do internato de policlínica os médicos que, embora sem a frequência do internato, tenham exercido durante, pelo menos, três anos, com zelo e assiduidade, funções clínicas em qualquer hospital central geral, independentemente da forma de provimento ou do regime de admissão.\n\n3. Os médicos que desejem ser submetidos a exame final do internato de policlínica ao abrigo do número anterior deverão requerer a sua admissão ao mesmo ao director-geral dos Hospitais, com uma antecedência mínima de três meses sobre a data prevista para a sua realização, apresentando simultaneamente documentação comprovativa de reunirem os requisitos indispensáveis para a admissão e indicando no requerimento o estabelecimento em que prefeririam prestar provas."
+  },
+  "c652d5f69148b8ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O exame final do internato de policlínica, a ter início no decurso do mês que se segue ao termo do período correspondente de frequência,\n\nconsta de uma prova prática de clínica e de uma prova teórica a efectuar segundo a modalidade das provas escritas de escolha múltipla.\n\n2. Cada uma das provas mencionadas no número anterior é por si só eliminatória."
+  },
+  "c02381e086ef6258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nA data de início do exame final do internato de policlínica será estabelecida pela Direcção-Geral dos Hospitais e tornada pública, mediante aviso afixado, com a antecedência mínima de um mês, em todos os hospitais centrais gerais."
+  },
+  "4db44d1e2402e091": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. A Direcção-Geral dos Hospitais designará, em Junho de cada ano, uma comissão formada por cinco membros dos quadros permanentes de hospitais centrais, indicados para o efeito pelos respectivos directores, que elaborará, segundo a modalidade indicada no n.º 1 do artigo 42.º, o texto a utilizar para realização da prova teórica do exame final do ano seguinte.\n\n2. A comissão referida no número anterior será presidida pelo mais antigo de entre os seus membros de hierarquia hospitalar mais elevada e deverá concluir os seus trabalhos até 31 de Dezembro de cada ano.\n\n3. Compete ao presidente da comissão velar pelo mais cuidadoso sigilo quanto ao texto elaborado, entregando a forma final deste, até à data indicada no número anterior, ao inspector superior de Acção Hospitalar.\n\n4. Ao inspector superior de Acção Hospitalar compete providenciar no sentido de se obterem as cópias necessárias do referido texto, remetendo ao director de cada um dos hospitais centrais em que se realizem provas o número conveniente de exemplares.\n\n5. Os exemplares destinados a cada estabelecimento, encerrados em embalagens lacradas, ficam confiados à guarda do respectivo director até ao momento da realização da prova."
+  },
+  "7130e9e0e19bfa1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nO exame final do internato de policlínica tem início com a prova prática de clínica, que será baseada na observação de um doente, pertencente ao foro da medicina interna, e constará de duas fases, das quais a primeira corresponde à referida observação e elaboração do respectivo relatório, enquanto a segunda corresponde à leitura deste e subsequente discussão."
+  },
+  "ead8f35f4d981e03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Em cada estabelecimento o número de examinandos que em cada dia realizam a primeira fase da prova prática não poderá exceder cinquenta, devendo ser agrupados para o efeito mediante sorteio, a realizar imediatamente antes do início da referida fase.\n\n2. Após o sorteio, o presidente da delegação local do júri indicará publicamente as datas, horas e locais em que se efectuam as restantes sessões da prova prática, inclusive aquelas em que se realizam as leituras correspondentes."
+  },
+  "78b5ceafcd6349e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. O doente a observar será tirado à sorte por cada examinando, imediatamente antes do início da sua prova, de entre os previamente escolhidos pelo júri.\n\n2. O examinando dispõe de noventa minutos para colheita da história clinica e observação do doente que lhe haja cabido em sorteio.\n\n3. Após um intervalo de quinze minutos, os examinandos dispõem de mais duas horas para elaboração de um relatório sobre o doente observado, relatório esse de que deverão constar a anamnese, os resultados da observação efectuada, a discussão do diagnóstico, a terapêutica proposta e o prognóstico.\n\n4. No caso de o examinando considerar que o doente que observou necessita ser objecto de estudo e eventual tratamento por especialista ou especialistas, deverá mencionar o facto no seu relatório, justificando essa opinião.\n\n5. Durante a elaboração do relatório o examinando poderá apresentar ao júri uma lista dos exames complementares e especializados que reputa necessários para esclarecimento do caso, devendo indicar as razões justificativas de cada pedido.\n\n6. Após ter recebido do júri os resultados dos exames requisitados que constem dos processos clínicos, cada examinando poderá apresentar segunda lista de exames complementares, elaborada de acordo com o disposto no número anterior.\n\n7. A entrega ao júri da segunda lista não poderá ter lugar decorrida mais de hora e meia sobre o início da elaboração do relatório.\n\n8. Findas as duas horas destinadas à elaboração dos relatórios, o júri recolherá estes em sobrescritos, que, depois de lacrados, ficam à sua guarda até ao momento da leitura."
+  },
+  "e2f5de9537d2de34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. As leituras terão lugar segundo a ordem definida pelo sorteio referido no artigo 46.º, sendo o número de leituras por sessão estabelecido e tornado público pelo presidente da delegação local do júri logo que terminado aquele sorteio.\n\n2. Concluída cada leitura, os membros do júri poderão comentar o relatório e pedir ao candidato os esclarecimentos que acerca do mesmo julgarem convenientes, dispondo cada um de dez minutos para o efeito.\n\n3. O candidato dispõe do mesmo tempo para responder a cada membro do júri."
+  },
+  "c50bcfda6c40c441": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. A classificação da prova prática é estabelecida em termos de «admitido à prova teórica» ou «excluído da prova teórica», mediante votação a efectuar nos mesmos termos por cada um dos membros do júri.\n\n2. Serão excluídos da prova teórica os examinandos que não obtenham maioria de votos favoráveis à admissão.\n\n3. Os presidentes das delegações locais do júri tornarão públicos os resultados no fim de cada sessão de provas e enviarão as listas completas das classificações ao presidente da comissão central do júri decorridas não mais de quarenta e oito horas sobre a última sessão.\n\n4. Compete ao presidente da comissão central do júri homologar as listas referidas no número anterior e providenciar no sentido de serem elaboradas listas gerais dos examinandos admitidos à prova teórica, promovendo a sua afixação em todos os estabelecimentos em que se tenham realizado provas.\n\n5. Simultaneamente com a afixação mencionada no número anterior, o presidente da comissão central do júri mandará afixar um aviso de que constem o dia, hora e locais em que se realizará a prova teórica."
+  },
+  "9df65579eae51a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. A prova teórica terá lugar no mesmo dia e à mesma hora em todos os estabelecimentos em que se realize, decorridos pelo menos dois e não mais de dez dias sobre a afixação do aviso mencionado no n.º 5 do artigo 49.º\n\n2. A duração da prova não deverá exceder duas horas, findas as quais serão as provas recolhidas em sobrescritos lacrados na presença dos candidatos e confiadas à guarda do director do hospital, que as remeterá, logo que possível, ao presidente da comissão central do júri para efeitos de classificação."
+  },
+  "46a0f8e2b5289412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1. O júri atribui as classificações da prova teórica de acordo com os resultados obtidos por avaliação mecanográfica.\n\n2. A classificação será estabelecida segundo uma escala de 0 a 20 valores, multiplicando a percentagem de respostas certas pelo coeficiente 0,2.\n\n3. São excluídos os candidatos com classificação inferior a 10 valores."
+  },
+  "16a0769b023b347c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1. A classificação final do internato de policlínica será a obtida na prova teórica.\n\n2. A comissão central do júri elaborará a lista das classificações finais dos candidatos aprovados, que será afixada em cada um dos estabelecimentos onde se hajam efectuado provas de exame, decorridos não mais de quinze dias sobre a realização das mesmas.\n\n3. A requerimento dos interessados, os serviços administrativos dos hospitais centrais gerais emitirão certificados de habilitação do internato de policlínica."
+  },
+  "7e77ef7888adf5bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Concurso de admissão ao internato de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Concurso de admissão ao internato de especialidades"
+  },
+  "cc6a451fe0187e1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. O concurso de admissão ao internato de especialidades será aberto nas condições referidas no artigo 29.º do presente Regulamento para os números de vagas definidos por ramos ou especialidades e por estabelecimentos, por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, tendo em atenção as necessidades nacionais em cada especialidade e a capacidade formativa dos estabelecimentos.\n\n2. As decisões constantes do despacho mencionado no número anterior deverão ser transcritas no aviso de abertura de cada concurso."
+  },
+  "b9a340532315d726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1. Podem concorrer ao internato de especialidades os médicos que tenham obtido aprovação no exame final do internato geral ou de policlínica há menos de três anos, ficando exceptuados desta limitação os que tenham sido impedidos de o fazer durante esse prazo por motivos de serviço militar obrigatório.\n\n2. Os médicos exceptuados do prazo de três anos estabelecido no n.º 1, por motivo de serviço militar obrigatório, poderão concorrer aos internatos de especialidades nos concursos realizados durante os três anos que se sigam à sua passagem à disponibilidade."
+  },
+  "79219519479085a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1. Dentro do prazo de abertura do concurso, os candidatos devem entregar, na secretaria do estabelecimento em que desejem frequentar o internato de especialidades, um requerimento de que constem:\n\na) Identificação, data de nascimento e residência;\n\nb) Indicação do ramo ou especialidade a que concorrem;\n\nc) Indicação do hospital que, de entre os que abriram vagas na especialidade respectiva, pretendem frequentar, podendo indicar, por ordem de preferência, outras opções;\n\nd) Classificação final obtida no internato geral ou de policlínica e respectiva data de exame;\n\nf) Quaisquer outros elementos curriculares que considerem de utilidade para fins do concurso.\n\n2. Ainda dentro do prazo de abertura do concurso os candidatos deverão entregar a seguinte documentação:\n\na) Documento comprovativo da sua situação militar;\n\nb) Certificado de registo criminal;\n\nc) Certidão de nascimento;\n\nd) Documento comprovativo do tempo de prestação de serviço militar obrigatório, se o efectuaram."
+  },
+  "85e189e718524715": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. Os requerimentos e documentos recebidos são organizados pelas secretarias em processos individuais e remetidos ao inspector superior de Acção Hospitalar, decorridos não mais de cinco dias sobre a data em que termine o prazo de entrega dos documentos.\n\n2. O inspector superior de Acção Hospitalar, logo que reúna todos os processos, convocará o júri, a quem fará entrega, antes do dia 20 de Maio, de toda a documentação referente ao concurso.\n\n3. Ao presidente do júri compete providenciar no sentido de, decorridos não mais de cinco dias sobre o recebimento dos documentos, promover a afixação, na Direcção-Geral dos Hospitais e em todos os hospitais centrais, da lista provisória dos candidatos admitidos por ramos ou especialidades, com indicação do estabelecimento que cada candidato preferiu e da data em que o júri reunirá para trabalhos de classificação em mérito relativo dos candidatos.\n\n4. Durante os cinco dias que se seguem à afixação, os candidatos poderão reclamar para o júri da exactidão da lista provisória, que poderá ser rectificada se houver fundamento.\n\n5. A reunião do júri mencionada no n.º 3 do presente artigo deverá ter lugar decorridos não mais de dez dias sobre a afixação da lista provisória."
+  },
+  "2244357caec073ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1. A classificação em mérito relativo atenderá às prioridades abaixo enumeradas, de que cada uma exclui as seguintes:\n\n1.ª Melhor classificação final do internato de policlínica;\n\n2.ª Melhor classificação final no curso de Medicina;\n\n3.ª Melhores informações do internato de policlínica;\n\n4.ª Mais recente internato de policlínica;\n\n5.ª Outros elementos curriculares.\n\n2. O tempo de serviço militar obrigatório é descontado para apuramento das prioridades 4.ª e 5.ª."
+  },
+  "7ebccab9fc9fa381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n1. O júri reúne, na data fixada, para classificar os candidatos em mérito relativo, por ramos ou especialidades, e proceder à sua distribuição pelos hospitais.\n\n2. A lista respectiva será afixada nos locais indicados no n.º 3 do artigo 56.º"
+  },
+  "b5616804963d8772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1. Os candidatos que não tenham obtido colocação na distribuição referida no artigo anterior podem, no prazo de cinco dias a contar da data da afixação da lista referida no n.º 2 do artigo anterior, requerer colocação em qualquer dos hospitais em que restem vagas da mesma especialidade.\n\n2. Dentro dos cinco dias seguintes, o júri efectua nova reunião para classificar estes candidatos, seguindo os critérios fixados no artigo 57.º, e efectuar a sua distribuição, afixando nova lista, nos mesmos locais.\n\n3. A lista definitiva de todos os candidatos aprovados por ramos ou especialidades e por hospitais será homologada por despacho conjunto dos Ministros da Educação Nacional e da Saúde e Assistência, competindo ao director-geral dos Hospitais promover a sua publicação no Diário do Governo."
+  },
+  "f72c4918813ee042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nO internato de especialidades deverá ter início, em todos os estabelecimentos em que se realize, no dia 1 de Julho de cada ano."
+  },
+  "2ea00a32773eafe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Exame final do internato de especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Exame final do internato de especialidades"
+  },
+  "e2c9c37e3fd72694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\n1. São admitidos a exame final do internato de especialidades os internos que tenham obtido a classificação de «com aproveitamento» durante a respectiva frequência, atribuída pelos directores do internato dos estabelecimentos que frequentaram, de acordo com o disposto no artigo 26.º do presente Regulamento.\n\n2. Serão também admitidos a exame final do internato de especialidades os médicos que, embora sem a frequência do internato, tenham seis ou mais anos de serviço, dos quais pelo menos quatro na respectiva especialidade, prestado, com zelo e assiduidade, independentemente da forma de provimento ou de admissão, em qualquer hospital central.\n\n3. Os médicos que desejem ser submetidos a exame final do internato de especialidades ao abrigo do disposto no número anterior deverão requerer o mesmo, ao director-geral dos Hospitais, com uma antecedência mínima de três meses sobre a data prevista para a sua realização, indicando a especialidade em que pretendem ser examinados e o estabelecimento em que prefeririam prestar provas e entregando, simultaneamente, documentação comprovativa de posse dos requisitos necessários para admissão a exame."
+  },
+  "a1e393eff153519c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1. O exame final do internato de especialidades, a iniciar no decurso do último mês do terceiro ano do internato, é constituído pelas seguintes provas:\n\na) Discussão do curriculum vitae;\n\nb) Prova prática;\n\nc) Prova teórica.\n\n2. As provas terão lugar pela ordem indicada no n.º 1 do presente artigo.\n\n3. Cada uma das provas referidas no artigo anterior é, por si só, eliminatória.\n\n4. A falta a qualquer das provas implica a exclusão do exame."
+  },
+  "6911df50c69a7ca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nNa apreciação do curriculum serão obrigatoriamente considerados os seguintes elementos:\n\na) Classificação obtida no exame final do internato de policlínica;\n\nb) Classificação obtida na licenciatura em Medicina;\n\nc) Valor dos trabalhos publicados ou comunicados sobre assuntos da especialidade;\n\nd) Actividades docentes ou de investigação, devidamente documentadas, no campo da especialidade;\n\ne) Informações obtidas nos estágios efectuados durante o internato."
+  },
+  "aad642a3bdd32e53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\n1. A argumentação do curriculum deverá ser feita, pelo menos, por um membro do júri, que disporá de quinze minutos para o efeito.\n\n2. O examinando disporá do mesmo tempo para responder a cada um dos arguentes."
+  },
+  "abe7842437841346": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1. Após discussão pública dos curricula, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de provas, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores."
+  },
+  "e1604309e66d2a42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nA segunda prova, que é prática, variará consoante o ramo clínico ou especialidade."
+  },
+  "d59b2d69501c0f42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\n1. Quando se trate de exame final do internato de medicina, de cirurgia geral ou de outras especialidades clínicas, médicas ou cirúrgicas, a prova prática consistirá no exame de dois doentes pertencentes ao foro do ramo clínico ou especialidade em causa, subsequente elaboração do correspondente relatório escrito e ulterior discussão do mesmo, segundo as normas abaixo indicadas.\n\n2. Os dois doentes referidos no n.º 1 do presente artigo serão sorteados pelos examinandos de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia em que se realiza a prova.\n\n3. A observação de ambos os doentes não deverá ser prolongada para além de duas horas, podendo o examinando, no decurso da mesma, tomar as notas que julgar necessárias.\n\n4. Durante o período destinado à observação dos doentes poderão os examinandos, com prévia autorização do júri, efectuar quaisquer exames, radioscópicos, endoscópicos ou de outras naturezas, que considerem convenientes para mais completo esclarecimento das situações clínicas em causa.\n\n5. Terminado o período destinado à observação dos doentes e após um intervalo não superior a trinta minutos, os examinandos darão início à elaboração de um relatório escrito sobre os doentes que observaram, dispondo de três horas para a sua conclusão.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri duas listas de estudos complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, não devendo a segunda lista ser entregue decorridas mais de duas horas sobre o início da parte escrita da prova.\n\n7. As listas mencionadas no número anterior deverão conter justificações sumárias dos pedidos formulados.\n\n8. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\n9. O relatório escrito a que se refere o n.º 5 do presente artigo deverá conter as anamneses, os resultados das observações, os diagnósticos admitidos como definitivos ou mais prováveis, bem como as respectivas discussões, as terapêuticas preconizadas e os prognósticos dos doentes observados."
+  },
+  "6d8b247de64c4ea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\n1. Quando se trate de exame final do internato de radiologia, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de dois doentes, sorteados pelo examinando de entre o mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia em que se realiza a prova.\n\n2. Os doentes deverão ser convenientemente preparados para os exames que, eventualmente, venham a ser efectuados, com ou sem utilização de contrastes.\n\n3. Cada doente será acompanhado de um resumo da história clínica, onde constem as hipóteses de diagnóstico, as dúvidas clínicas existentes e as terapêuticas efectuadas.\n\n4. O examinando disporá de hora e meia para estudar os resumos correspondentes aos doentes que lhe couberem em sorteio e eventual observação directa dos mesmos, elaborando, ainda durante esse tempo, uma lista de todos os exames radiológicos que, em sua opinião, expressamente justificada, conviria efectuar, em cada um deles, para esclarecimento da situação clínica.\n\n5. Dessa lista, que será apresentada ao júri, seleccionará este um exame para cada doente, exequível nas condições do concurso, devendo o examinando efectuar, na presença do júri, os exames seleccionados, para o que dispõe de três horas.\n\n6. Logo que receba as películas devidamente reveladas, o examinando disporá de uma hora para apreciar os radiogramas e elaborar os respectivos relatórios interpretativos."
+  },
+  "f9a95824a44bf610": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\n1. Quando se trate de exame final do internato de radioterapia e medicina nuclear, a prova prática consistirá no estudo de dois doentes em que esteja indicada a terapêutica por radiações, seguido da elaboração de relatório escrito em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos, bem como as respectivas técnicas de aplicação.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Cada doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e terapêuticas efectuadas.\n\n4. O examinando dispõe de duas horas para a análise dos resumos mencionados no número anterior e estudo directo dos doentes, a efectuar perante o júri.\n\n5. Após um intervalo não superior a meia hora, o examinando disporá de duas horas para elaboração de um relatório, em que expresse as conclusões sobre cada um dos casos clínicos, os métodos terapêuticos que preconiza e as respectivas técnicas de aplicação.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes."
+  },
+  "598da45366e0baca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\n1. Quando se trate de exame final do internato de análises clinicas, a prova prática compreenderá a execução de três técnicas laboratoriais, com interpretação dos resultados e elaboração de relatório em que tais resultados sejam expressos e acompanhados dos comentários que o examinando considere pertinentes.\n\n2. As técnicas laboratoriais a executar e interpretar pertencerão aos sectores da bioquímica, da microbiologia e da hematologia, não podendo cada examinando executar duas técnicas pertencentes ao mesmo sector.\n\n3. As técnicas a executar serão sorteadas pelos examinandos de listas de dez técnicas, elaboradas separadamente para cada um dos sectores referidos, listas essas que serão estabelecidas e tornadas públicas, por comissões designadas para o efeito pela Direcção-Geral dos Hospitais, com o mínimo de seis meses de antecedência sobre os exames.\n\n4. Os examinandos dispõem de quatro horas para execução das técnicas, podendo distribuir esse tempo como julgarem mais conveniente.\n\n5. Após um intervalo máximo de trinta minutos, dispõem os candidatos de mais hora e meia para a elaboração do relatório mencionado no n.º 1 do presente artigo."
+  },
+  "387870b24ad4f7b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\n1. Quando se trate de exame final do internato de medicina física e de reabilitação, a prova prática consistirá no estudo de dois doentes em que esteja indicado o recurso à medicina física e de reabilitação, seguido da elaboração de relatório em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos, bem como as respectivas técnicas de aplicação.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Cada doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e terapêuticas efectuadas.\n\n4. O examinando dispõe de duas horas para análise dos resumos mencionados no número anterior e estudo directo dos doentes, a efectuar perante o júri.\n\n5. Após um intervalo de meia hora, o examinando disporá de duas horas para elaborar o relatório a que se refere o n.º 1 do presente artigo, devendo no mesmo especificar as conclusões a que chegou sobre cada caso, os métodos terapêuticos que preconiza e as respectivas técnicas de aplicação.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes."
+  },
+  "3e98a00dc8c27a23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\n1. Quando se trate de exame final do internato de hemoterapia, a prova prática consistirá de uma parte clínica e de uma parte de hematologia laboratorial, consistindo a primeira na observação de um doente em que se julgue indicado o recurso à hemoterapia, seguida da elaboração de relatório em que se expressem as conclusões atingidas, os métodos terapêuticos considerados indicados e as respectivas técnicas de aplicação.\n\n2. O doente para a parte clínica será sorteado pelo examinando de entre um mínimo de dois, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. O doente será acompanhado de um resumo da história clínica, de que constem o diagnóstico e as terapêuticas efectuadas.\n\n4. O examinando dispõe de hora e meia para estudo do resumo mencionado no n.º 3 do presente artigo e observação directa do doente, que deverá ser efectuada perante o júri.\n\n5. Terminado esse período, dispõe de mais hora e meia para elaborar o relatório a que se refere o n.º 1 do presente artigo.\n\n6. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de uma hora decorrida sobre o início da parte escrita da prova.\n\n7. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes.\n\n8. Após um intervalo máximo de meia hora, o examinando executará uma prova hematológica, de hematimetria geral, de imunoematologia, de enzimologia, de biofísica ou de bioquímica, sorteada de entre uma lista de quinze provas, abrangendo os diversos sectores referidos da hematologia laboratorial, elaborada e tornada pública de acordo com o preceituado no n.º 3 do artigo 70.º para as técnicas laboratoriais do exame final do internato de análises clínicas.\n\n9. O examinando dispõe de hora e meia para executar a prova e elaborar um relatório, em que expresse os resultados obtidos."
+  },
+  "2147e8f55719e202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\n1. Quando se trate de exame final do internato de anatomia patológica, a prova prática constará da execução de uma autópsia e da leitura de três preparações histológicas, seguidas da elaboração dos correspondentes relatórios.\n\n2. As preparações histológicas a que se refere o número anterior serão sorteadas pelo candidato de entre um conjunto de quinze preparações devidamente numeradas, escolhidas para o efeito pelo júri.\n\n3. No início da prova será fornecido ao examinando um resumo da história clínica respeitante ao indivíduo a autopsiar.\n\n4. O examinando dispõe de três horas para execução da autópsia e estudo das preparações histológicas, podendo distribuir esse tempo como tiver por conveniente.\n\n5. Após um intervalo máximo de meia hora, o examinando disporá de duas horas pára elaborar o relatório da autópsia e o do estudo das preparações histológicas que examinou, devendo deste último constarem os respectivos números e correspondentes diagnósticos."
+  },
+  "a8f15ce876bba5cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\n1. Quando se trate de exame final do internato de anestesiologia, a prova prática consistirá no estudo de dois doentes para operar, seguido da elaboração do relatório de que constem os resultados desse estudo, com indicação das técnicas anestésicas preconizadas em cada caso.\n\n2. Os dois doentes serão sorteados pelo examinando de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.\n\n3. Será fornecido ao examinando um boletim de que constem o resumo das histórias clínicas, os diagnósticos pré-operatórios e os tipos de intervenção cirúrgica a que os doentes irão ser submetidos.\n\n4. O examinando dispõe de duas horas para o estudo dos doentes e, após um intervalo máximo de meia hora, de mais duas horas para a elaboração do relatório.\n\n5. Durante a elaboração do relatório, os examinandos poderão apresentar ao júri uma lista dos exames complementares ou especializados que considerem necessários para melhor esclarecimento das situações clínicas em causa, lista essa que não deve ser entregue mais de hora e meia decorrida sobre o início da parte escrita da prova.\n\n6. O júri providenciará no sentido de, tão rapidamente quanto possível, serem fornecidos aos examinandos os resultados dos estudos requisitados, sempre que os mesmos constem dos processos clínicos dos doentes."
+  },
+  "b7854fe3e6bdd4a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\n1. Findos os tempos estabelecidos para elaboração dos relatórios a que se faz referência nos artigos anteriores, respeitantes à prova prática do exame final do internato de especialidades, os examinandos encerrarão os mesmos em envelopes que, depois de lacrados, serão confiados à guarda do júri até ao momento das respectivas leituras.\n\n2. As leituras dos relatórios a que se refere o artigo anterior, a realizar pelos examinandos na presença dos respectivos júris, e a respectiva discussão devem ter início decorridas não menos de quarenta e oito nem mais de setenta e duas horas sobre a última sessão prática desta prova.\n\n3. A prova de cada examinando será comentada, pelo menos, por um membro do júri, que dispõe de dez minutos para o efeito.\n\n4. O examinando dispõe de igual tempo para responder a cada um dos arguentes."
+  },
+  "f5a0178d4c93dec4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\n1. As classificações da prova prática serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de leitura, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores."
+  },
+  "2e3edecd7fa94277": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\n1. A prova teórica do exame final do internato de especialidades, que é oral, consistirá no interrogatório do examinando sobre cinco assuntos diferentes da matéria da especialidade respectiva.\n\n2. Os assuntos sobre os quais recairá o interrogatório serão sorteados pelo examinando, no início da prova, de entre uma lista de vinte, tornada pública com o mínimo de seis meses de antecedência sobre os exames.\n\n3. A lista a que se refere o número anterior será elaborada, para cada especialidade, por uma comissão designada para o efeito pela Direcção-Geral dos Hospitais.\n\n4. O examinando deverá ser interrogado, pelo menos, por dois dos membros do júri.\n\n5. O examinando disporá de dez minutos para responder a cada uma das questões que lhe forem apresentadas.\n\n6. A prova teórica deverá ter início decorridas não menos de quarenta e oito nem mais de setenta e duas horas sobre a conclusão das provas práticas."
+  },
+  "5e9b5adbbc610cc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\n1. Terminados os interrogatórios a que se refere o artigo anterior, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada um dos membros do júri, segundo uma escala de 0 a 20 valores.\n\n2. As classificações serão tornadas públicas no fim de cada sessão de provas, sendo desde logo excluídos os examinandos cuja classificação seja inferior a 10 valores."
+  },
+  "355621c37b3cf4d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\n1. A classificação do exame final do internato de especialidades será estabelecida pela média aritmética das classificações obtidas nas três provas, arredondadas para a décima mais próxima.\n\n2. As classificações finais serão tornadas públicas, mediante afixação no estabelecimento em que se realizaram as provas correspondentes, após homologação pelo respectivo director.\n\n3. Aos médicos que hajam sido aprovados no exame final do internato de especialidades será passado, sempre que o requeiram, certificado comprovativo pelos serviços administrativos do estabelecimento em que tenham realizado o exame."
+  },
+  "c07fb1933273f8ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Internato e serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Internato e serviço militar"
+  },
+  "a025372ef5a3f37d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\n1. Os médicos admitidos à frequência dos internatos que forem chamados à prestação de serviço militar obrigatório na qualidade de médicos serão, uma vez terminado aquele serviço, readmitidos à frequência, mediante requerimento dirigido ao director do estabelecimento a que se encontravam afectos.\n\n2. Os médicos que requeiram a readmissão à frequência dos internatos ao abrigo do disposto no n.º 1 do presente artigo terão direito à remuneração correspondente à sua categoria durante todo o tempo de estágio que se siga à readmissão, desde que se verifiquem disponibilidades nas verbas orçamentais destinadas ao pagamento de pessoal.\n\n3. Aos médicos a que se refere o número anterior serão considerados válidos os estágios realizados antes da interrupção da frequência.\n\n4. Para efeitos de admissão a exame final, os médicos a que se referem os números anteriores do presente artigo podem requerer ao director-geral dos Hospitais que lhes seja contado, como frequência do internato, o tempo de serviço militar obrigatório.\n\n5. A contagem de tempo a que se refere o número anterior é válida para qualquer dos estágios do internato de policlínica, mas a sua validade para o caso do internato de especialidades será definida individualmente pela Inspecção Superior de Acção Hospitalar, tendo em consideração a natureza e diferenciação das funções exercidas.\n\n6. Os médicos readmitidos à frequência dos internatos ao abrigo do disposto no n.º 1 do presente artigo serão submetidos a exame final na primeira época normal de exames que se siga ao momento em que, consideradas as contagens referidas, hajam completado os estágios necessários para admissão ao mesmo, ficando contratados, em regime eventual, durante todo o período que medeie entre a conclusão desse tempo e a realização do exame.\n\n7. Os médicos a que se refere o presente artigo e que completem o tempo de estágio dos correspondentes internatos menos de trinta dias decorridos sobre o início de uma época normal de exames poderão, caso assim o desejem e requeiram, antecipar os respectivos exames finais.\n\n8. As disposições do presente artigo são aplicáveis aos médicos admitidos à frequência do internato e chamados à prestação de serviço militar obrigatório antes de terem iniciado as suas funções hospitalares e àqueles que tenham obtido aprovação no primeiro concurso realizado para o internato respectivo após cessação do impedimento."
+  },
+  "73aaafbef44c0bae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\nOs médicos que, tendo interrompido a frequência dos internatos por terem sido convocados para prestação de serviço militar obrigatório, desejem efectuar exames finais do internato que interromperam e satisfaçam os requisitos exigidos para o efeito poderão solicitar a sua admissão a exame, mediante requerimento entregue na Direcção-Geral dos Hospitais com um mínimo de dez dias de antecedência sobre o início das provas."
+  },
+  "f209b40537fe791e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\n1. Aos médicos que, ao abrigo do disposto no n.º 2 do artigo 41.º e no n.º 2 do artigo 61.º, desejem submeter-se a exame final dos internatos será contado o tempo de prestação de serviço militar obrigatório como médicos, para efeitos das condições de admissão referidas nos citados artigos.\n\n2. Aos oficiais médicos dos quadros permanentes das forças armadas é aplicável o disposto no número anterior até uma contagem máxima de tempo de vinte e quatro meses."
+  },
+  "7f55c0a096b4dbd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Contratos eventuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Contratos eventuais"
+  },
+  "a4cc3dadb3e596c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\nOs estagiários de prática clínica que, ao abrigo do disposto no n.º 2 do artigo 37.º do presente Regulamento, se apresentem a concurso de admissão ao internato de policlínica no mesmo ano em que terminam o estágio continuarão a perceber, a título de eventuais, a remuneração auferida como estagiários até à data em que, no caso de serem admitidos, tomem posse como internos de policlínica."
+  },
+  "be229f9408b1a776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\n1. Os médicos que, tendo terminado o período de frequência do internato de policlínica, aguardem a conclusão das provas do respectivo exame final serão contratados com a mesma categoria e em regime eventual, até que a mesma se verifique.\n\n2. Os médicos que, tendo obtido aprovação no exame final do internato de policlínica, se apresentem, no mesmo ano, a concurso de admissão ao internato de especialidades ficarão contratados em regime eventual, com a categoria de internos de policlínica, até à data em que, no caso de serem admitidos, tomem posse como internos de especialidades.\n\n3. Os médicos que, tendo terminado o período de frequência do internato de especialidades, aguardem a conclusão das provas do respectivo exame final serão contratados, com a mesma categoria e em regime eventual, até que a mesma se verifique.\n\n4. A exclusão nos exames finais dos internatos e, bem assim, a exclusão no concurso de admissão ao internato de especialidades implicam a imediata rescisão dos contratos eventuais a que se refere o presente artigo."
+  },
+  "cdb5011fbbae4af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Organização dos processos individuais dos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Organização dos processos individuais dos internos"
+  },
+  "dc9c2e7a90133991": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º\n\n1. Relativamente a cada interno será organizado um processo em que se inscrevem todos os elementos respeitantes à assiduidade, aproveitamento e demais factos relacionados com a sua carreira no internato.\n\n2. Esse processo fica confiado à responsabilidade do director do internato do estabelecimento em que o interno se encontre colocado.\n\n3. Sempre que o interno transite de estabelecimento, será acompanhado do respectivo processo."
+  },
+  "a60b5bdd2bc73557": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º\n\nO processo referido no artigo anterior será de modelo único e elaborado de acordo com as seguintes regras:\n\na) Será susceptível de tratamento mecanográfico quanto aos dados essenciais e de identificação;\n\nb) Deverá conter local apropriado para as apreciações e observações que, relativamente ao interno, sejam feitas pelos directores dos serviços onde realize estágios;\n\nc) Conterá espaço para inscrição das informações obtidas nos estágios, informações anuais ou de período e classificações obtidas em exames finais, bem como dos aspectos relativos à assiduidade e presença em reuniões de trabalho, conferências, seminários e cursos;\n\nd) Mencionará os antecedentes universitários e elementos de valorização profissional, tais como trabalhos publicados ou comunicados, títulos obtidos no país ou no estrangeiro e outros;\n\ne) Deve incluir cópias de documentos com interesse para o curriculum individual."
+  },
+  "53b8bd4becf7b6fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Disposições transitórias"
+  },
+  "a47e309e8fb6a30d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\nOs internos que à data da publicação deste Regulamento estejam a frequentar o internato de policlínica ou o último ano do internato de especialidades realizarão os respectivos exames finais de acordo com a legislação até agora aplicada."
+  },
+  "02846d5478b229aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\nOs exames finais dos internos do internato de especialidades que terminem os seus estágios no decurso dos anos de 1973 a 1976, inclusive, serão realizados nas épocas já estabelecidas em despacho do Secretário de Estado da Saúde e Assistência."
+  },
+  "11f9fff9d8bdb12e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Disposições finais"
+  },
+  "cb7eff8978593545": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º\n\nAs dúvidas que se suscitarem quanto à aplicação do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que decidirá das mesmas, colhendo despacho ministerial, quando necessário."
+  },
+  "f8762e194f67f6c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º\n\nSão revogadas as disposições contidas nos seguintes diplomas legais:\n\na) [Portaria n.º 240/70](https://diariodarepublica.pt/dr/detalhe/portaria/240-1970-142285), de 14 de Maio;\n\nb) [Portaria n.º 610/71](https://diariodarepublica.pt/dr/detalhe/portaria/610-1971-631381), de 6 de Novembro;\n\nc) [Portaria n.º 134/73](https://diariodarepublica.pt/dr/detalhe/portaria/134-1973-684783), de 24 de Fevereiro.\n\nO Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa."
+  }
+ }
+}

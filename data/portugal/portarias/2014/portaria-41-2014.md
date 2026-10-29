@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-05-09'
+version_history:
+  file: portaria-41-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-09'
+    amending: pt:dre:25343751:por
+    amending_title: Portaria n.º 98/2014
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/41/2014/02/17/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:56:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 98/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2014/portaria-41-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,19 +135,21 @@ A presente portaria define, para 2014, o modelo de gestão da quota portuguesa d
 
 ###### Artigo 2.º — Gestão da quota
 
-1 -Nos termos do Regulamento (UE) n.º [43/2014](http://data.europa.eu/eli/reg/2014/43/oj?locale=pt), do Conselho, de 20 de janeiro de 2014, é atribuída a Portugal uma quota de 5998 toneladas de sarda, as quais são repartidas do seguinte modo:
+1 - A quota de sarda atribuída a Portugal em 2014 é repartida do seguinte modo:
 
-a) 17,5 % são atribuídas à frota do largo licenciada para operar no Atlântico Norte;
+a) 12,5 % é atribuída à frota do largo licenciada para operar no Atlântico Norte;
 
-b) 72,5 % são atribuídas à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar até 30 de junho de 2014;
+b) 81,5 % é atribuída à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar até 30 de junho de 2014;
 
-c) 10 % são atribuídas à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar a partir de 1 de julho de 2014.
+c) 6 % é atribuída à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar a partir de 1 de julho de 2014.
 
 2 -Caso a quota a que se refere a alínea b) do número anterior não seja integralmente utilizada até 30 de junho, o remanescente pode ser utilizado a partir de 1 de julho e acresce à quantidade disponível nos termos da alínea c).
 
 3 -Quando a utilização de cada uma das quantidades de sarda a que se referem as alíneas b) e c) do n.º 1 atingir 90 %, a pesca desta espécie fora das águas sob jurisdição nacional fica limitada a capturas acessórias até 5 % do total do pescado a bordo.
 
 4 -Em cada semana, desde a entrada em vigor da presente portaria até 30 de junho de 2014, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar uma quantidade máxima de 60 toneladas de sarda.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/portaria/98-2014-25343751), publicado em 2014-05-08.
 
 ###### Artigo 3.º — Controlo das descargas
 

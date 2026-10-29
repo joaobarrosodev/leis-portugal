@@ -1,0 +1,786 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:597569:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "837b1d0250fc38bb",
+    "adfe621f91a7ad12",
+    "ca855cf9c9076410",
+    "470751f32ab0b909",
+    "d69569f0227546f7",
+    "435a0709ba759e79",
+    "32dfef6e64c259b3",
+    "4a9b8a9adb5b51a9",
+    "97c5b0189e9c91a7",
+    "6ece1ef6004b1c16",
+    "cb9ce6bce869d79a",
+    "ceb98272f1250f24",
+    "9d8dfc3b31488ae9",
+    "4fb61fd464e1b8d3",
+    "f9f9018d15109c3f",
+    "bbfe1f13b9a317c4",
+    "feb13adc77c108a5",
+    "374a0fb1a4ac70b9",
+    "247abb5caf81732c",
+    "85dad63bea77fb81",
+    "c3b2436d1ffce924",
+    "2474cd5f3acabed8",
+    "54e1f092481dd032",
+    "5d7c9d94188f2ee2",
+    "f7d675a1691465eb",
+    "f9b639b25cbdc370",
+    "2cad6116ad47689c",
+    "3325f43a287f8418",
+    "cfb7b52961b87933",
+    "a633d6ddc387b48c",
+    "4f20d5216aa30aca",
+    "cdde24eea838767c",
+    "938bd096ff96d6c1",
+    "2a44ca2bad565d69",
+    "277d521ff1a3f65a",
+    "aaa54ff55f1d89b8",
+    "9f877b16bfa47411",
+    "7d21f69e5548c3f5",
+    "fd9267b3964a710d",
+    "7c0676ef10b8ac0c",
+    "dd18942112521338",
+    "3c9c7c6eca6107d2",
+    "86d4856bd76fe943",
+    "75f3af4d503181bb",
+    "7fe2d04a1df17f2a",
+    "a318538b4f3108ba",
+    "77fd1c8f891a8569",
+    "d4df5daa1efe827f",
+    "2096f908baeccb36",
+    "303754abb1b0fb4c",
+    "97b03fd0162cb8e9",
+    "c2cb38f7e36c17a6",
+    "c93fa0121c60d486",
+    "de3b1205f1520319",
+    "788069b96d86343a",
+    "171ddf69019c4a7d",
+    "dbdfb999c3e882af",
+    "4deb9e7c9fb820cb",
+    "156520c94a6dd41c",
+    "3c6c0def0765b0bf",
+    "cf574b1f990e6bf9",
+    "0acf3dba1e8591e6",
+    "eeeb907b9b60a533",
+    "1cb81566b9a450b6",
+    "66f06e3e453c722f",
+    "0968849967741bfb",
+    "b2593e3c44c09da2",
+    "304a6275e887accb",
+    "8859c4a8b470a042",
+    "c8235b71eb8b1ace",
+    "73997778129672e9",
+    "d3e57ec849df3619",
+    "2721fe982bb4d9e6",
+    "5db0b215192425b4"
+   ]
+  },
+  {
+   "date": "1996-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405373:por",
+     "title": "Decreto-Lei n.º 135/96",
+     "published": "1996-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/135-1996-405373"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "837b1d0250fc38bb",
+    "adfe621f91a7ad12",
+    "ca855cf9c9076410",
+    "470751f32ab0b909",
+    "d69569f0227546f7",
+    "435a0709ba759e79",
+    "32dfef6e64c259b3",
+    "4a9b8a9adb5b51a9",
+    "97c5b0189e9c91a7",
+    "6ece1ef6004b1c16",
+    "cb9ce6bce869d79a",
+    "ceb98272f1250f24",
+    "9d8dfc3b31488ae9",
+    "4fb61fd464e1b8d3",
+    "f9f9018d15109c3f",
+    "bbfe1f13b9a317c4",
+    "feb13adc77c108a5",
+    "374a0fb1a4ac70b9",
+    "247abb5caf81732c",
+    "85dad63bea77fb81",
+    "c3b2436d1ffce924",
+    "2474cd5f3acabed8",
+    "54e1f092481dd032",
+    "5d7c9d94188f2ee2",
+    "f7d675a1691465eb",
+    "f9b639b25cbdc370",
+    "d6fd86e88fbedb6b",
+    "3325f43a287f8418",
+    "cfb7b52961b87933",
+    "a633d6ddc387b48c",
+    "4f20d5216aa30aca",
+    "cdde24eea838767c",
+    "938bd096ff96d6c1",
+    "2a44ca2bad565d69",
+    "277d521ff1a3f65a",
+    "aaa54ff55f1d89b8",
+    "9f877b16bfa47411",
+    "7d21f69e5548c3f5",
+    "fd9267b3964a710d",
+    "7c0676ef10b8ac0c",
+    "dd18942112521338",
+    "3c9c7c6eca6107d2",
+    "86d4856bd76fe943",
+    "75f3af4d503181bb",
+    "7fe2d04a1df17f2a",
+    "a318538b4f3108ba",
+    "77fd1c8f891a8569",
+    "d4df5daa1efe827f",
+    "2096f908baeccb36",
+    "303754abb1b0fb4c",
+    "97b03fd0162cb8e9",
+    "c2cb38f7e36c17a6",
+    "c93fa0121c60d486",
+    "de3b1205f1520319",
+    "788069b96d86343a",
+    "171ddf69019c4a7d",
+    "dbdfb999c3e882af",
+    "4deb9e7c9fb820cb",
+    "156520c94a6dd41c",
+    "3c6c0def0765b0bf",
+    "cf574b1f990e6bf9",
+    "0acf3dba1e8591e6",
+    "eeeb907b9b60a533",
+    "1cb81566b9a450b6",
+    "66f06e3e453c722f",
+    "0968849967741bfb",
+    "b2593e3c44c09da2",
+    "304a6275e887accb",
+    "8859c4a8b470a042",
+    "c8235b71eb8b1ace",
+    "73997778129672e9",
+    "d3e57ec849df3619",
+    "2721fe982bb4d9e6",
+    "5db0b215192425b4"
+   ]
+  }
+ ],
+ "fragments": {
+  "837b1d0250fc38bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro\n\nO ano de 1923 pode considerar-se um marco decisivo no desenvolvimento de actividades sistemáticas de prevenção e tratamento do cancro, mas foi apenas com a publicação do [Decreto-Lei n.º 445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217), de 24 de Outubro, que veio a ser aprovada a lei orgânica do Instituto Português de Oncologia de Francisco Gentil, definindo a sua natureza, fins e competências.\n\nA integração do Instituto Português de Oncologia de Francisco Gentil no Serviço Nacional de Saúde resultou do reconhecimento de que, a par das suas finalidades específicas nos domínios da investigação básica e aplicada e do ensino da oncologia, ao Instituto são cometidas funções assistenciais, de diagnóstico, tratamento e reabilitação do doente oncológico.\n\nNeste contexto, e tendo em conta que o Instituto e os seus centros são organizações complexas, de feição dinâmica, forçoso se tornava, preservando embora as suas especificidades próprias, estender-lhes os princípios consignados no [Decreto-Lei n.º 19/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396) e no [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 21 e 22 de Janeiro, respectivamente, o que veio a ter consagração com o [Decreto-Lei n.º 266/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1990-556789), de 31 de Agosto. A publicação deste diploma possibilitou a resolução de problemas decorrentes da atomicidade de regimes jurídicos.\n\nUrgente se tornava, então, rever o [Decreto-Lei n.º 445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217), à luz dos princípios inovadores introduzidos com a lei da gestão hospitalar, nomeadamente a designação pela tutela dos titulares dos órgãos de administração e a introdução de métodos de gestão empresarial que assegurassem à comunidade o acesso a cuidados de alta qualidade, garantindo elevados níveis de eficiência e serviços eficazes e promovendo uma real humanização da assistência.\n\nColocados em plano idêntico ao dos hospitais públicos, ao nível da estrutura vertical, ou seja, de designação, natureza e competência dos seus órgãos, os centros de oncologia não podem demitir-se das suas finalidades específicas.\n\nNo que concerne à estrutura horizontal, o presente diploma institui, como unidade funcional dos centros, o departamento, avançando assim na direcção de novas formas de divisão do trabalho por universos mais extensos e menos estanques na sua função principal, inserindo-se na filosofia do [Decreto-Lei n.º 19/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396).\n\nEsta estrutura departamental radica numa metodologia própria da abordagem multidisciplinar do fenómeno do cancro, de que são exemplo inequívoco os grupos de decisão terapêutica.\n\nNesta medida, mostra-se necessário dotar o Instituto Português de Oncologia de Francisco Gentil com uma nova lei orgânica, de forma a melhor garantir a salvaguarda da natureza, a prossecução dos fins e o exercício das competências de uma instituição especializada, vocacionada para a investigação, o ensino, a coordenação do rastreio e do tratamento em oncologia, capaz de assegurar, pela prestação de cuidados de qualidade, a permanente adaptação às constantes inovações que caracterizam a área da saúde.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "adfe621f91a7ad12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Instituto"
+  },
+  "ca855cf9c9076410": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto Português de Oncologia de Francisco Gentil, adiante designado por Instituto, é uma pessoa colectiva de direito público, integrado no Serviço Nacional de Saúde e sujeito à tutela do Ministro da Saúde."
+  },
+  "470751f32ab0b909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nO Instituto tem por atribuições:\n\na) Organizar a luta contra o cancro em Portugal;\n\nb) Promover a investigação no domínio da oncologia;\n\nc) Promover o ensino pós-graduado em oncologia;\n\nd) Promover e fomentar a prevenção, primária e secundária, o diagnóstico e o tratamento das doenças oncológicas."
+  },
+  "d69569f0227546f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nA actividade do Instituto é de âmbito nacional e exerce-se através dos centros regionais de oncologia, adiante designados por centros."
+  },
+  "435a0709ba759e79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura\n\nO Instituto compreende:\n\na) A comissão coordenadora;\n\nb) Os Centros de Lisboa, Porto e Coimbra."
+  },
+  "32dfef6e64c259b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Comissão coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Comissão coordenadora"
+  },
+  "4a9b8a9adb5b51a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Natureza e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e competência\n\n1 - A comissão coordenadora é o órgão de coordenação do Instituto e incumbe-lhe, em geral, acompanhar, de forma permanente e sistemática, a acção dos centros e promover a articulação das suas actividades.\n\n2 - Compete, em especial, à comissão coordenadora:\n\na) Designar o seu presidente;\n\nb) Aprovar as medidas sociais propostas pelos centros;\n\nc) Propor ao Ministro da Saúde as tabelas de preços relativas à prestação de cuidados de saúde a praticar pelos centros;\n\nd) Promover a sistematização do registo de dados no âmbito da oncologia;\n\ne) Propor ao Ministro da Saúde as medidas legislativas e administrativas consideradas necessárias à realização dos objectivos dos centros;\n\nf) Organizar o registo oncológico e realizar ou promover a realização de outros estudos epidemiológicos a nível nacional;\n\ng) Apoiar o funcionamento do Conselho Nacional de Oncologia."
+  },
+  "97c5b0189e9c91a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - A comissão coordenadora do Instituto é composta\n\na) Pelos directores dos centros;\n\nb) Por três vogais, designados, em representação de cada um dos centros, pelos respectivos directores.\n\n2 - A presidência da comissão coordenadora é assegurada por cada um dos centros, através do respectivo director, rotativamente e por períodos de dois anos."
+  },
+  "6ece1ef6004b1c16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\nA comissão coordenadora reúne ordinariamente de dois em dois meses e extraordinariamente sempre que for convocada pelo presidente, por sua iniciativa ou a pedido de um dos directores dos centros."
+  },
+  "cb9ce6bce869d79a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente da comissão coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente da comissão coordenadora\n\nCompete ao presidente da comissão coordenadora:\n\na) Dar execução às deliberações da comissão coordenadora;\n\nb) Exercer as competências que lhe forem delegadas."
+  },
+  "ceb98272f1250f24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Centros Regionais de Oncologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Centros Regionais de Oncologia"
+  },
+  "9d8dfc3b31488ae9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Centros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Centros"
+  },
+  "4fb61fd464e1b8d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza jurídica\n\nOs Centros Regionais de Oncologia de Lisboa, Porto e Coimbra são institutos públicos, com sede em Lisboa, Porto e Coimbra, respectivamente, dotados de personalidade jurídica e com autonomia administrativa e financeira."
+  },
+  "f9f9018d15109c3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência\n\nNo respectivo âmbito regional de actuação, compete aos centros:\n\na) Desenvolver acções de investigação no domínio da oncologia;\n\nb) Realizar, de forma sistemática, acções de formação pós-graduada em oncologia;\n\nc) Coordenar as acções de rastreio oncológico nas respectivas regiões;\n\nd) Prestar cuidados de saúde diferenciados no âmbito da oncologia;\n\ne) Colaborar com outras instituições na investigação e formação de pessoal afecto à prestação de cuidados de saúde do foro oncológico;\n\nf) Promover e realizar acções de formação, qualificação e aperfeiçoamento do pessoal indispensáveis à realização dos objectivos;\n\ng) Acordar ou contratar com pessoas, singulares ou colectivas, públicas ou privadas, nacionais, estrangeiras ou internacionais, a realização de estudos ou projectos no âmbito da oncologia;\n\nh) Propor à comissão coordenadora as medidas a adaptar para a solução dos problemas sociais da oncologia;\n\ni) Propor à comissão coordenadora as tabelas de preços relativas à prestação dos cuidados de saúde a praticar."
+  },
+  "bbfe1f13b9a317c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estrutura\n\n1 - Os centros desenvolvem as suas competências nas seguintes áreas:\n\na) Investigação oncológica;\n\nb) Ensino oncológico;\n\nc) Assistência oncológica diferenciada;\n\nd) Rastreio oncológico.\n\n2 - As áreas referidas nas alíneas a) e b) do número anterior são distintas dos departamentos assistenciais.\n\n3 - O regime de funcionamento dos centros é estabelecido por portaria do Ministro da Saúde."
+  },
+  "feb13adc77c108a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos"
+  },
+  "374a0fb1a4ac70b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgãos\n\n1 - Os centros têm órgãos de administração, de direcção técnica, de apoio técnico e de fiscalização.\n\n2 - São órgãos de administração:\n\na) O conselho de administração;\n\nb) O presidente do conselho de administração, que é o director;\n\nc) O administrador-delegado.\n\n3 - São órgãos de direcção técnica:\n\na) O director clínico, que é também o director da área de assistência oncológica;\n\nb) O enfermeiro-director;\n\nc) O subdirector da área de investigação oncológica, que é adjunto do director clínico;\n\nd) O subdirector da área do ensino oncológico, que é adjunto do director clínico.\n\n4 - São órgãos de apoio técnico:\n\na) O conselho de investigação oncológica;\n\nb) O conselho de ensino oncológico;\n\nc) A comissão médica;\n\nd) A comissão de enfermagem.\n\n5 - O órgão de fiscalização é constituído por um auditor, nos termos dos n.os 2 e 3 do artigo 1.º e do artigo 28.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro.\n\n6 - O conselho de administração pode, através do regulamento interno, criar comissões de apoio técnico."
+  },
+  "247abb5caf81732c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Órgãos de administração"
+  },
+  "85dad63bea77fb81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto pelos seguintes elementos:\n\na) O director do centro, que preside;\n\nb) O administrador-delegado;\n\nc) O director clínico;\n\nd) O enfermeiro-director.\n\n2 - A remuneração dos membros do conselho de administração é fixada nos termos do artigo 6.º do [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro."
+  },
+  "c3b2436d1ffce924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Nomeação e regime de trabalho dos membros do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Nomeação e regime de trabalho dos membros do conselho de administração\n\nO provimento e regime de exercício de funções dos membros do conselho de administração obedecem ao disposto no [Decreto Regulamentar n.º 3/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480), de 22 de Janeiro, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 14/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1990-574932), de 6 de Junho."
+  },
+  "2474cd5f3acabed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração estabelecer os princípios fundamentais que devem orientar a organização e o funcionamento do centro, acompanhar a sua execução e efectuar a avaliação periódica.\n\n2 - Compete, em especial, ao conselho de administração:\n\na) Aprovar os planos de acção anuais e plurianuais, a submeter a despacho ministerial;\n\nb) Aprovar as medidas imprescindíveis à melhoria do funcionamento dos departamentos e ao pleno aproveitamento da capacidade dos recursos humanos e materiais;\n\nc) Elaborar e submeter a aprovação do Ministro da Saúde a proposta de regulamento interno do centro;\n\nd) Aprovar os relatórios mensais, trimestrais e anuais do centro;\n\ne) Aprovar os orçamentos, a submeter a despacho ministerial, e as contas de gerência, a submeter a exame do Tribunal de Contas;\n\nf) Inspeccionar periodicamente a execução do orçamento;\n\ng) Aprovar a criação, extinção ou modificação de serviços;\n\nh) Celebrar contratos ou acordos para a realização de estudos ou projectos;\n\ni) Definir genericamente os horários de trabalho e os planos de férias do pessoal;\n\nj) Autorizar, nos termos legais, a preservação da documentação por meios técnicos de reprodução;\n\nl) Classificar, de acordo com os critérios estabelecidos pela tutela, como incobráveis ou reduzir as contas por cujo pagamento sejam responsáveis o doente ou os seus parentes a ele vinculados por obrigação legal de prestação de alimentos, para efeito de sujeição à homologação ministerial;\n\nm) Autorizar a introdução de novos produtos no consumo do centro, desde que deles resultem incidências qualitativas e económicas, numa perspectiva de normalização de produtos;\n\nn) Deliberar sobre aceitação de heranças, legados e doações destinados ao centro."
+  },
+  "54e1f092481dd032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Funcionamento do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Funcionamento do conselho de administração\n\nO conselho de administração reúne ordinariamente duas vezes por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a pedido de, pelo meno, um terço dos seus membros."
+  },
+  "5d7c9d94188f2ee2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência do presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração do centro:\n\na) Propor ao Ministro da Saúde a nomeação e exoneração de outros membros do conselho de administração;\n\nb) Dirigir e coordenar as actividades do centro;\n\nc) Dar execução às deliberações do conselho de administração;\n\nd) Fazer cumprir as disposições legais e regulamentares aplicáveis;\n\ne) Representar o centro em juízo ou fora dele;\n\nf) Nomear oficial público;\n\ng) Exercer as competências que lhe forem delegadas;\n\nh) Desenvolver as restantes acções necessárias ao adequado funcionamento do centro.\n\n2 - O director é responsável pela actualização do registo oncológico regional (ROR), por forma a garantir a colheita de dados sobre doentes oncológicos e a sua análise e interpretação."
+  },
+  "f7d675a1691465eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competência do administrador-delegado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência do administrador-delegado\n\n1 - Ao administrador-delegado cabe executar as decisões relativas à realização dos fins dos centros.\n\n2 - Compete, em especial, ao administrador-delegado:\n\na) Preparar os planos anuais e plurianuais do centro, incluindo os respectivos orçamentos, e submetê-los à aprovação do conselho de administração;\n\nb) Propor ou adoptar as medidas necessárias à melhoria da orgânica e funcionamento dos departamentos;\n\nc) Aprovar os horários de trabalho e os planos de férias do pessoal, dentro dos limites genericamente estabelecidos pelo conselho de administração;\n\nd) Assegurar a regularidade da cobrança das receitas e do pagamento das despesas do centro;\n\ne) Dar balanço mensal à tesouraria;\n\nf) Tomar as providências necessárias à conservação do património;\n\ng) Elaborar os relatórios mensais, trimestrais e anuais do centro e submetê-los à aprovação do conselho de administração;\n\nh) Responsabilizar os diversos sectores de utilidade do centro pela utilização dos meios postos à sua disposição e pelos resultados obtidos;\n\ni) Divulgar a informação que permita aos funcionários do centro e à população que utiliza os seus serviços um conhecimento concreto dos aspectos fundamentais do seu funcionamento.\n\n3 - Compete, especificamente, ao administrador-delegado, quanto à autorização de despesas ou matérias com elas relacionadas:\n\na) Aprovar a constituição das comissões de escolha dos bens ou produtos de consumo, com prévia audiência dos serviços utilizadores;\n\nb) Autorizar todas as despesas com obras de construção, beneficiação, ampliação ou remodelação das instalações ou execução do plano aprovado, sem prejuízo da competência dos órgãos de tutela;\n\nc) Autorizar as despesas de simples conservação e reparação das instalações e do equipamento;\n\nd) Adjudicar os concursos ou consultas para aquisição de bens de consumo e prestação de serviços;\n\ne) Autorizar despesas com aquisição de bens ou prestação de serviços até ao máximo permitido aos órgãos dirigentes de organismos com autonomia administrativa.\n\n4 - O administrador-delegado pode delegar, precedendo autorização do Ministro da Saúde, as competências que lhe são atribuídas pelo presente diploma."
+  },
+  "f9b639b25cbdc370": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Órgãos de direcção técnica"
+  },
+  "2cad6116ad47689c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Director clínico\n\n1 - O director clínico é o director da área de assistência oncológica diferenciada, nomeado pelo Ministro da Saúde, sob proposta do director do centro, de entre os médicos com a categoria de chefe de serviço do respectivo quadro.\n\n2 - Compete ao director clínico, em geral, coordenar toda a assistência prestada aos doentes, assegurar o funcionamento harmónico dos serviços de assistência, garantir a correcção e prontidão dos cudidados de saúde prestados e dirigir a acção médica.\n\n3 - Cabe ao director clínico, em especial:\n\na) Compatibilizar, do ponto de vista técnico, os planos de acção apresentados pelos vários serviços de acção médica, com vista à sua inscrição no plano de acção global do centro;\n\nb) Detectar os eventuais pontos de estrangulamento no rendimento assistencial global do centro, tomando ou propondo as medidas adequadas à sua resolução;\n\nc) Fomentar a ligação, articulação e colaboração entre serviços de acção médica, em ordem a ser obtido o máximo de resultados dos recursos disponíveis;\n\nd) Decidir os conflitos que surjam entre os serviços de acção médica;\n\ne) Assegurar a prática multidisciplinar da oncologia.\n\n4 - O director clínico é coadjuvado no exercício das suas funções por dois a cinco adjuntos, por si nomeados de entre o corpo clínico do centro, sendo um o subdirector da área de investigação oncológica e outro o subdirector da área do ensino oncológico."
+  },
+  "3325f43a287f8418": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Subdirector da área de investigação oncológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Subdirector da área de investigação oncológica\n\nAo subdirector de investigação oncológica compete:\n\na) Presidir ao conselho de investigação oncológica;\n\nb) Submeter anualmente a parecer do conselho de investigação oncológica as linhas gerais e as principais áreas de investigação clínica e laboratorial, com a indicação do responsável da área;\n\nc) Estimular a investigação científica básica e clínica na área da oncologia;\n\nd) Propor ao conselho de administração protocolos de acordo com outras instituições, serviços ou departamentos para projectos de investigação conjuntos;\n\ne) Dar parecer sobre pedidos dirigidos ao centro relativos à investigação oncológica;\n\nf) Coordenar as acções de investigação oncológica aplicada à aferição de métodos de diagnóstico e terapêutica;\n\ng) Estimular a investigação epidemiológica e a avaliação dos dados relativos ao ROR;\n\nh) Dar parecer sobre os diversos projectos de investigação propostas ao conselho de administração;\n\ni) Promover a divulgação de reuniões científicas que decorram no País ou no estrangeiro;\n\nj) Promover a divulgação de bolsas de estudo ou de outros apoios financeiros na área da investigação;\n\nl) Promover a divulgação das novas tecnologias na área da investigação oncológica;\n\nm) Elaborar o relatório anual das actividades."
+  },
+  "cfb7b52961b87933": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Subdirector para a área do ensino oncológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Subdirector para a área do ensino oncológico\n\nAo subdirector do ensino oncológico compete:\n\na) Presidir à direcção do centro de formação permanente de oncologia e ao conselho de ensino oncológico;\n\nb) Submeter anualmente a parecer do conselho de ensino oncológico as linhas gerais e as principais áreas do ensino a desenvolver;\n\nc) Estimular o ensino da oncologia;\n\nd) Propor ao conselho de administração protocolos de acordo com outras instituições, departamentos ou serviços para projectos de ensino conjunto;\n\ne) Dar parecer sobre pedidos dirigidos ao centro na área do ensino da oncologia;\n\nf) Coordenar todas as acções de ensino a decorrer no centro;\n\ng) Dar parecer sobre os diversos programas de ensino propostas pelo conselho de administração;\n\nh) Dar parecer sobre propostas de colaboração de pessoal do centro no ensino da oncologia noutras instituições."
+  },
+  "a633d6ddc387b48c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Enfermeiro-director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Enfermeiro-director\n\n1 - A direcção dos serviços de enfermagem cabe ao enfermeiro-director, a quem compete:\n\na) Orientar e coordenar os serviços de enfermagem, velando pela correcção e pela qualidade dos cuidados prestados;\n\nb) Participar no processo de admissão ou contratação de pessoal de enfermagem, de acordo com o que se encontrar previsto no regulamento da respectiva carreira;\n\nc) Determinar a transferência do pessoal de enfermagem, a seu pedido ou por conveniência de serviço, considerando o interesse do pessoal e o parecer dos serviços envolvidos;\n\nd) Promover a realização de actividades de formação permanente através do centro de formação permanente de oncologia;\n\ne) Promover a realização de actividades de investigação em enfermagem;\n\nf) Promover a actualização e valorização profissional dos enfermeiros de acordo com as necessidades do centro;\n\ng) Coordenar estágios e visitas de estudo de alunos ou de profissionais de enfermagem;\n\nh) Colaborar com o director clínico na compatibilização dos planos de acção dos serviços de acção médica.\n\n2 - No exercício das suas funções, o enfermeiro-director é coadjuvado por um a três adjuntos, consoante o que for fixado no regulamento interno do centro, por si livremente escolhidos de entre o pessoal de enfermagem do centro."
+  },
+  "4f20d5216aa30aca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Órgãos de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Órgãos de apoio técnico"
+  },
+  "cdde24eea838767c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Conselho de investigação oncológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conselho de investigação oncológica\n\n1 - O conselho de investigação oncológica é um órgão de consulta e de apoio técnico ao director clínico e é constituído:\n\na) Pelo subdirector da área de investigação;\n\nb) Pelos responsáveis das áreas de investigação.\n\n2 - O conselho de investigação oncológica rege-se, quanto ao seu funcionamento, pelo disposto no regulamento interno do centro."
+  },
+  "938bd096ff96d6c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Conselho de ensino oncológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conselho de ensino oncológico\n\n1 - O conselho de ensino oncológico é um órgão de consulta e de apoio do director clínico e é constituído:\n\na) Pelo subdirector da área do ensino;\n\nb) Pelos membros da direcção do centro de formação permanente de oncologia.\n\n2 - O conselho de ensino oncológico rege-se, quanto ao seu funcionamento, pelo disposto no regulamento interno do centro."
+  },
+  "2a44ca2bad565d69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Comissão médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão médica\n\n1 - A comissão médica é um órgão de consulta e de apoio técnico ao director clínico, que a ele preside, constituído:\n\na) Pelos adjuntos do director clínico;\n\nb) Pelo representante dos serviços de acção médica oncológica, dos serviços médicos comuns e dos serviços laboratoriais, a designar, em todos os casos, de entre os responsáveis dos serviços e de acordo com as regras a fixar no regulamento interno do centro.\n\n2 - A comissão médica pode funcionar em plenário ou através de comissões especializadas, de âmbito restrito, de acordo com o que se dispuser no regulamento interno do centro.\n\n3 - A comissão médica reúne em plenário sempre que seja convocada pelo seu presidente, por sua iniciativa ou a pedido de um terço dos seus membros."
+  },
+  "277d521ff1a3f65a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Competência da comissão médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência da comissão médica\n\nCompete, em especial, à comissão médica:\n\na) Avaliar o rendimento médico do centro e propor o que julgar útil para a sua melhoria;\n\nb) Fomentar a cooperação entre os serviços de acção médica e entre estes e os restantes;\n\nc) Propor as medidas que considere oportunas para o aperfeiçoamento científico do pessoal médico;\n\nd) Apreciar os aspectos do exercício da medicina no centro que envolvam princípios de deontologia médica;\n\ne) Dar parecer, quando consultado, sobre as queixas e reclamações que sejam formuladas acerca da correcção técnica e profissional da assistência prestada aos doentes."
+  },
+  "aaa54ff55f1d89b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Comissão de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comissão de enfermagem\n\n1 - A comissão de enfermagem é um órgão de apoio técnico ao enfermeiro-director do serviço de enfermagem, que a ele preside, e é constituído pelos seus adjuntos, pelos enfermeiros-supervisores e pelos enfermeiros-chefes.\n\n2 - A comissão de enfermagem reúne sempre que seja convocada pelo seu presidente, por sua iniciativa ou a pedido de um terço dos seus membros."
+  },
+  "9f877b16bfa47411": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Competência da comissão de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competência da comissão de enfermagem\n\nCompete à comissão de enfermagem:\n\na) Colaborar na realização dos planos de actualização profissional do pessoal de enfermagem;\n\nb) Dar parecer e colaborar na execução da regulamentação interna para o sector de enfermagem;\n\nc) Dar parecer sobre assuntos submetidos à sua apreciação pelos órgãos de administração técnica do centro."
+  },
+  "7d21f69e5548c3f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Serviços dos centros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Serviços dos centros"
+  },
+  "fd9267b3964a710d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Unidades de formação permanente de oncologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Unidades de formação permanente de oncologia"
+  },
+  "7c0676ef10b8ac0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competência\n\nOs centros dispõem de unidades de formação permanente de oncologia para ministrar cursos e outras actividades de formação, no âmbito da oncologia, e subsidiariamente dar apoio formativo aos estabelecimentos de ensino e a outras estruturas de formação."
+  },
+  "dd18942112521338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Órgãos\n\nSão órgãos de direcção das unidades de formação permanente de oncologia:\n\na) A direcção;\n\nb) O conselho de orientação pedagógica."
+  },
+  "3c9c7c6eca6107d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Funcionamento dos centros de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionamento dos centros de formação\n\nAs regras de funcionamento e a articulação entre os órgãos das unidades de formação constam do regulamento interno do respectivo centro."
+  },
+  "86d4856bd76fe943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Composição da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição da direcção\n\n1 - A direcção é composta:\n\na) Pelo subdirector para a área de ensino oncológico, que preside;\n\nb) Por quatro vogais.\n\n2 - Os vogais são designados pelo director do centro sob proposta do presidente da direcção."
+  },
+  "75f3af4d503181bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência da direcção\n\nCompete à direcção:\n\na) Dar cumprimento às orientações que forem estabelecidas superiormente;\n\nb) Propor anualmente os cursos e acções de formação necessários;\n\nc) Propor o corpo docente;\n\nd) Zelar pela observância das normas legais, regulamentares e de funcionamento dos centros de formação."
+  },
+  "7fe2d04a1df17f2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Composição do conselho de orientação pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Composição do conselho de orientação pedagógica\n\nO conselho de orientação pedagógica é composto:\n\na) Por um representante do conselho de administração, que preside, nomeado pelo director do centro;\n\nb) Pelo corpo docente dos cursos."
+  },
+  "a318538b4f3108ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Competência do conselho de orientação pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competência do conselho de orientação pedagógica\n\nCompete ao conselho de orientação pedagógica:\n\na) Dar parecer sobre as actividades de formação;\n\nb) Apreciar os relatórios da actividade formativa."
+  },
+  "77fd1c8f891a8569": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cursos\n\n1 - As unidades de formação permanente de oncologia ministram os seguintes cursos:\n\na) Curso de oncologia para médicos clínicos gerais;\n\nb) Curso de oncologia básica a pessoal médico;\n\nc) Curso de enfermagem oncológica.\n\n2 - A criação de novos cursos e as respectivas normas de funcionamento carecem de homologação ministerial.\n\n3 - Todos os cursos e acções de formação dão direito à obtenção de um certificado, de modelo a aprovar pelo conselho de administração do centro."
+  },
+  "d4df5daa1efe827f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviço de registo oncológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviço de registo oncológico"
+  },
+  "2096f908baeccb36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Estrutura\n\nOs centros dispõem de um serviço de registo oncológico, dotado de pessoal técnico, ao qual compete desenvolver e executar as actividades respeitantes ao ROR, criado pela [Portaria n.º 35/88](https://diariodarepublica.pt/dr/detalhe/portaria/35-1988-283528) de 16 de Janeiro."
+  },
+  "303754abb1b0fb4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviços de acção médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviços de acção médica"
+  },
+  "97b03fd0162cb8e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Estrutura\n\n1 - A unidade funcional dos centros é o departamento.\n\n2 - Considera-se departamento o conjunto de serviços agrupados por áreas científicas afins ou pela metodologia técnica e terapêutica utilizada.\n\n3 - A organização dos departamentos é fixada pelo regulamento interno do centro."
+  },
+  "c2cb38f7e36c17a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Serviços de apoio"
+  },
+  "c93fa0121c60d486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Estrutura\n\nOs centros disporão de serviços de apoio de natureza e estrutura variável, consoante as necessidades, a definir no respectivo regulamento interno."
+  },
+  "de3b1205f1520319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Articulação com unidades prestadoras de cuidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Articulação com unidades prestadoras de cuidados"
+  },
+  "788069b96d86343a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Princípios gerais\n\n1 - Aos centros compete atender e orientar os doentes oncológicos com patologias de baixa incidência e de maior complexidade em termos de diagnóstico e terapêutica, devidamente referenciados por outras entidades prestadoras de cuidados.\n\n2 - A referência médica compreende o relatório clínico e os meios complementares de diagnóstico e terapêutica que lhe serviram de suporte.\n\n3 - Compete ainda aos centros colaborar com as restantes unidades prestadoras de cuidados de saúde, através do estabelecimento de protocolos terapêuticos e do acompanhamento dos doentes do foro oncológico, nos termos a regular por portaria do Ministro da Saúde."
+  },
+  "171ddf69019c4a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Gestão financeira e patrimonial"
+  },
+  "dbdfb999c3e882af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Princípios específicos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Princípios específicos de gestão\n\n1 - Os centros devem organizar-se e ser administrados em termos de gestão empresarial, garantindo-se o mínimo custo do seu funcionamento, para o que se utilizarão as regras e os métodos compatíveis com a sua natureza e fins.\n\n2 - Tendo em vista o disposto no número anterior, os centros devem elaborar planos de administração anuais e plurianuais, a submeter à aprovação ministerial, juntamente com os respectivos orçamentos privativos."
+  },
+  "4deb9e7c9fb820cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Centros de responsabilidade e de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Centros de responsabilidade e de custos\n\nPara a prossecução dos princípios definidos no artigo anterior, os centros podem organizar-se e desenvolver a sua acção por centros de responsabilidade e de custos, a criar por portaria do Ministro da Saúde."
+  },
+  "156520c94a6dd41c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Receitas e despesas\n\n1 - Constituem receitas dos centros:\n\na) As transferências do Orçamento do Estado;\n\nb) Os rendimentos dos bens próprios;\n\nc) O produto da alienação de bens imóveis do domínio privado, autorizada pela entidade tutelar, bem como de outros bens;\n\nd) Os subsídios, subvenções, quotizações, comparticipações, doações, heranças ou legados concedidos por quaisquer entidades;\n\ne) As quantias cobradas por serviços prestados a entidades públicas ou privadas, nacionais, estrangeiras ou internacionais;\n\nf) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título lhes sejam atribuídas.\n\n2 - São despesas dos centros as resultantes da prossecução dos fins que por lei lhes cabe prosseguir.\n\n3 - As disponibilidades dos centros serão depositadas nas instituições de crédito, sem prejuízo de poderem ser levantadas e mantidas em tesouraria as importâncias estritamente indispensáveis ao pagamento de pequenas despesas que devam ser feitas em dinheiro."
+  },
+  "3c6c0def0765b0bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Plano oficial de contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Plano oficial de contabilidade\n\n1 - As receitas e despesas dos centros são classificadas segundo o plano oficial de contas dos serviços de saúde.\n\n2 - Os orçamentos são apresentados de acordo com o plano referido no número anterior."
+  },
+  "cf574b1f990e6bf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Especialização por exercícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Especialização por exercícios\n\nAs contas anuais dos centros obedecem ao princípio de especialização dos exercícios."
+  },
+  "0acf3dba1e8591e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Valorização do inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Valorização do inventário\n\n1 - Os centros devem possuir inventário segundo critérios de valorimetria adequados, designadamente de todo o imobilizado que nele exista.\n\n2 - O imobilizado é obrigatoriamente reintegrado nos termos a fixar no plano de contas.\n\n3 - O imobilizado será reavaliado com periodicidade adequada, segundo as taxas fixadas pelo Ministro das Finanças."
+  },
+  "eeeb907b9b60a533": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Pessoal"
+  },
+  "1cb81566b9a450b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Quadros\n\n1 - Os quadros de pessoal dos centros são aprovados por portaria conjunta dos Ministros das Finanças e da Saúde.\n\n2 - Os quadros de pessoal vigentes são os constantes das Portarias n.os [478/86](https://diariodarepublica.pt/dr/detalhe/portaria/478-1986-218961), [1050/91](https://diariodarepublica.pt/dr/detalhe/portaria/1050-1991-288806), [59/92](https://diariodarepublica.pt/dr/detalhe/portaria/59-1992-150931), [390/92](https://diariodarepublica.pt/dr/detalhe/portaria/390-1992-526862) e [754/92](https://diariodarepublica.pt/dr/detalhe/portaria/754-1992-274823), de, respectivamente, 29 de Agosto, 14 de Outubro, 31 de Janeiro, 11 de Maio e 3 de Agosto."
+  },
+  "66f06e3e453c722f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Nomeação\n\nA nomeação do pessoal em lugares dos quadros dos centros faz-se mediante despacho do Ministro da Saúde e com observância das formalidades previstas na lei."
+  },
+  "0968849967741bfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regime do pessoal\n\nO pessoal dos centros rege-se pelo regime aplicável aos funcionários e agentes da Administração Pública, com as especialidades constantes da lei aplicável ao pessoal dos hospitais públicos."
+  },
+  "b2593e3c44c09da2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Do Conselho Nacional de Oncologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Do Conselho Nacional de Oncologia"
+  },
+  "304a6275e887accb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Conselho Nacional de Oncologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Conselho Nacional de Oncologia\n\nO Conselho Nacional de Oncologia é um órgão de apoio do Ministro da Saúde para a definição da política oncológica nacional e para o acompanhamento da sua execução."
+  },
+  "8859c4a8b470a042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Composição\n\nO Conselho Nacional de Oncologia é composto:\n\na) Pelo Ministro da Saúde ou um seu representante, que presidirá;\n\nb) Por um representante do Ministro da Educação, que substitui o presidente nas suas ausências ou impedimentos;\n\nc) Por um representante do Ministro do Planeamento e da Administração do Território;\n\nd) Pelos directores dos Centros Regionais de Oncologia de Lisboa, Porto e Coimbra;\n\ne) Por um representante das Faculdades de Medicina, a designar anualmente pelo Ministro da Educação, ouvido o Conselho de Reitores das Universidades Portuguesas;\n\nf) Por outras personalidades de reconhecida competência no ramo de oncologia."
+  },
+  "c8235b71eb8b1ace": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Funcionamento\n\nO Conselho Nacional de Oncologia reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, metade dos seus membros."
+  },
+  "73997778129672e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições finais"
+  },
+  "d3e57ec849df3619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Participação em organizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Participação em organizações\n\nO Instituto e os centros podem ser membros de organismos nacionais, estrangeiros ou internacionais relacionados com as actividades por eles exercidas."
+  },
+  "2721fe982bb4d9e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Legislação subsidiária\n\nEm tudo o que não esteja especialmente previsto no presente diploma aplicar-se-á o [Decreto-Lei n.º 19/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1988-506396), de 21 de Janeiro, e legislação complementar."
+  },
+  "5db0b215192425b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os [445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217) e [266/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1990-556789), de, respectivamente, 24 de Outubro e 31 de Agosto.\n\nVisto e aprovado em Conselho de Ministros de 10 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.\n\nPromulgado em 6 de Novembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Novembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "d6fd86e88fbedb6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Director clínico",
+   "in_force_from": "1996-08-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 135/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1996-405373), publicado em 1996-08-13."
+   ],
+   "markdown": "###### Artigo 19.º — Director clínico\n\n1 - (Revogado.)\n\n2 - Compete ao director clínico, em geral, coordenar toda a assistência prestada aos doentes, assegurar o funcionamento harmónico dos serviços de assistência, garantir a correcção e prontidão dos cudidados de saúde prestados e dirigir a acção médica.\n\n3 - Cabe ao director clínico, em especial:\n\na) Compatibilizar, do ponto de vista técnico, os planos de acção apresentados pelos vários serviços de acção médica, com vista à sua inscrição no plano de acção global do centro;\n\nb) Detectar os eventuais pontos de estrangulamento no rendimento assistencial global do centro, tomando ou propondo as medidas adequadas à sua resolução;\n\nc) Fomentar a ligação, articulação e colaboração entre serviços de acção médica, em ordem a ser obtido o máximo de resultados dos recursos disponíveis;\n\nd) Decidir os conflitos que surjam entre os serviços de acção médica;\n\ne) Assegurar a prática multidisciplinar da oncologia.\n\n4 - O director clínico é coadjuvado no exercício das suas funções por dois a cinco adjuntos, por si nomeados de entre o corpo clínico do centro, sendo um o subdirector da área de investigação oncológica e outro o subdirector da área do ensino oncológico.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 135/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1996-405373), publicado em 1996-08-13."
+  }
+ }
+}

@@ -41,10 +41,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-04-06'
+version_history:
+  file: decreto-lei-60-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-04-06'
+    amending: pt:dre:106829419:por
+    amending_title: Decreto-Lei n.º 41/2017
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/60/2009/03/04/p/dre/pt/html
@@ -70,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:10:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 41/2017. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-60-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,7 +188,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede, nos termos e ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](https://diariodarepublica.pt/dr/detalhe/lei/78-2001-388220), de 13 de Julho, à criação dos seguintes julgados de paz:
 
-a) Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos;
+a) (Revogada.)
 
 b) Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão;
 
@@ -182,9 +198,11 @@ d) Julgado de Paz do Concelho de Cascais;
 
 e) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei.
 
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05.
+
 ###### Artigo 2.º — Circunscrição territorial
 
-1 - O Julgado de Paz do Agrupamento dos Concelhos de Alcobaça, Caldas da Rainha, Nazaré e Óbidos abrange todas as freguesias destes concelhos.
+1 - (Revogado.)
 
 2 - O Julgado de Paz do Agrupamento dos Concelhos de Belmonte, Covilhã e Fundão abrange todas as freguesias destes concelhos.
 
@@ -193,6 +211,8 @@ e) Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-N
 4 - O Julgado de Paz do Concelho de Cascais abrange todas as freguesias deste concelho.
 
 5 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei abrange todas as freguesias destes concelhos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 41/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2017-106829419), publicado em 2017-04-05.
 
 ###### Artigo 3.º — Sede dos julgados de paz dos agrupamentos de concelhos
 

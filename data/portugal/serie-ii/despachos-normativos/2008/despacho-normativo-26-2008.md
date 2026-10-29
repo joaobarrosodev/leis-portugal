@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-07-15'
+version_history:
+  file: despacho-normativo-26-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-15'
+    amending: pt:dre:2265646:por
+    amending_title: Despacho Normativo n.º 1/2009; Despacho Normativo n.º 20/2010
+    changes:
+    - Altera Artigo 2.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 1/2009; Despacho
+    Normativo n.º 20/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2008/despacho-normativo-26-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +181,11 @@ b) 50 % do limite máximo nacional correspondente ao tomate transformado fixado 
 
 ###### Artigo 2.º
 
-Em aplicação do disposto no n.º 1 do artigo 2.º do Regulamento (CE) n.º 378/2007, do Conselho, de 27 de Março, que estabelece as regras da modulação voluntária dos pagamentos directos instituídos pelo Regulamento (CE) n.º 1782/2003, é aplicada uma taxa de modulação voluntária de 10 % a partir do ano civil de 2008 até 2012.
+(Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 1/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2009-2265646), publicado em 2009-01-07.
+
+> Revogado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 20/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-2010-862719), publicado em 2010-07-15.
 
 ###### Artigo 3.º
 

@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:587619:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9fba56c571ceba7c",
+    "7c20a78191e3f10f",
+    "1bc6b2fd35fd940c",
+    "b1c32736c022cc94",
+    "72a8e69c66ed076d",
+    "ecc37b50530e5268",
+    "5f58cb73414b8831",
+    "0b66fe7c0d3b74f8",
+    "36669f31bb13ddf3",
+    "ede5dbf48283acc6",
+    "199082655b2904e4",
+    "2961c171e920b3bb",
+    "7e4c3e98d086e2c1"
+   ]
+  },
+  {
+   "date": "1998-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223994:por",
+     "title": "Decreto Regulamentar n.º 2/98",
+     "published": "1998-02-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/2-1998-223994"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "9fba56c571ceba7c",
+    "7c20a78191e3f10f",
+    "1bc6b2fd35fd940c",
+    "b1c32736c022cc94",
+    "72a8e69c66ed076d",
+    "ecc37b50530e5268",
+    "5f58cb73414b8831",
+    "0b66fe7c0d3b74f8",
+    "36669f31bb13ddf3",
+    "ede5dbf48283acc6",
+    "a27e48e4a39c7126",
+    "2961c171e920b3bb",
+    "7e4c3e98d086e2c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "9fba56c571ceba7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Setembro\n\nOs trabalhadores inscritos marítimos que exercem a actividade das pescas só foram abrangidos pelo regime geral de segurança social a partir de 1970. Por esse facto a sua carreira contributiva como beneficiários é ainda bastante reduzida, não obstante muitos deles contarem com longos anos de exercício da actividade.\n\nPor isso o valor das pensões de reforma a que têm direito, em função dos anos de contribuição para o regime geral, é, em regra, inevitavelmente reduzido, o que não lhes facilita o abandono da actividade da pesca, uma vez atingida a idade de reforma.\n\nConsidera-se, assim, ser imperativo de justiça social melhorar esta situação, tanto mais que os pescadores têm exercido a sua profissão muitas vezes em condições penosas de dureza e desgaste.\n\nÉ nessa perspectiva que se enquadram as medidas estabelecidas neste diploma, tendo em vista valorizar a protecção social dos homens do mar ligados às pescas.\n\nPor outro lado, tais medidas podem facilitar a reestruturação do sector das pescas, incluindo a racionalização dos seus recursos humanos, o que tem particular importância após a adesão de Portugal às Comunidades Europeias.\n\nDeste modo, no cálculo das pensões de reforma dos profissionais das pescas passam a ser considerados todos os anos em que exerceram efectivamente actividades no sector, independentemente de terem descontado ou não para os antigos fundos de reforma da extinta Junta Central das Casas dos Pescadores.\n\nEm consequência desta medida, os valores médios das pensões dos pescadores ficam expressivamente melhorados, já que beneficiam de aumentos que oscilam, conforme os casos, entre 26,5% e 129,2%.\n\nEsta providência é igualmente alargada, por idênticas razões de justiça social, aos actuais pensionistas de velhice e de invalidez da actividade das pescas, bem como aos familiares que se encontrem a receber pensões de sobrevivência. Deste modo, o diploma prevê que as pensões já atribuídas sejam recalculadas, ficando assim, a partir de agora e para o futuro, a ter um valor sensivelmente actualizado.\n\nFinalmente, para harmonizar e aperfeiçoar as normas aplicáveis ao regime de pensões dos pescadores, evitando também a dispersão de diplomas, considerou-se conveniente integrar neste decreto regulamentar as regras contidas na [Portaria n.º 98/83](https://diariodarepublica.pt/dr/detalhe/portaria/98-1983-308532), de 29 de Janeiro.\n\nAssim:\n\nEm regulamentação do n.º 1 do artigo 25.º da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "7c20a78191e3f10f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Antecipação da idade de reforma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Antecipação da idade de reforma)\n\nOs trabalhadores inscritos marítimos que exerçam actividades na pesca, beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, podem ter acesso às pensões de velhice a partir dos 55 anos de idade, desde que tenham cumprido o prazo de garantia estabelecido para o regime geral de segurança social e totalizem, pelo menos, 30 anos de serviço, sem prejuízo do disposto no artigo seguinte."
+  },
+  "1bc6b2fd35fd940c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Redução da idade de reforma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Redução da idade de reforma)\n\n1 - Aos trabalhadores abrangidos pelo artigo anterior que tenham integrado companhas, seguida ou interpoladamente, por um período mínimo de quinze anos pode ser reduzida a idade normal de reforma fixada para o regime geral de segurança social.\n\n2 - A redução prevista no número antecedente será efectuada por dedução à idade normal de reforma do valor resultante da aplicação do coeficiente de 33% ao número de anos de serviço efectivo prestado em qualquer tipo de pesca."
+  },
+  "b1c32736c022cc94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Regra geral de contagem do tempo de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Regra geral de contagem do tempo de serviço)\n\nPara efeitos do disposto nos artigos anteriores, será contado um ano efectivo de serviço aos pescadores que façam parte de companhas por um período mínimo de 150 dias, seguidos ou interpolados, dentro do mesmo ano civil."
+  },
+  "72a8e69c66ed076d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Pensão por desgaste físico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Pensão por desgaste físico)\n\n1 - Aos trabalhadores referidos no artigo 1.º com idade não inferior a 50 anos é igualmente reconhecido o direito à pensão de reforma por desgaste físico prematuro que torne inconveniente o prosseguimento da actividade e que não possa ser qualificado como doença profissional, desde que totalizem 40 anos de serviço.\n\n2 - A situação de desgaste físico prematuro deverá ser comprovada pelos competentes serviços de verificação de incapacidade relativamente aos trabalhadores com idade inferior a 55 anos."
+  },
+  "ecc37b50530e5268": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Contagem do tempo de serviço para pensão por desgaste físico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Contagem do tempo de serviço para pensão por desgaste físico)\n\nPara efeitos do disposto no artigo anterior, considera-se equivalente a um ano de serviço cada grupo de 273 dias, seguidos ou interpolados, que os pescadores tenham ocupado em companhas ou nos quadros do mar."
+  },
+  "5f58cb73414b8831": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Contagem do prazo de garantia e cálculo das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Contagem do prazo de garantia e cálculo das pensões)\n\nPara cumprimento do prazo de garantia a que se refere o artigo 1.º e para o cálculo das pensões são contados os períodos com contribuições para os fundos de reforma da ex-Junta Central das Casas dos Pescadores, bem como os restantes anos de efectivo serviço de que seja apresentada prova do exercício da actividade, mediante declaração passada pelas capitanias dos portos ou respectivas delegações marítimas."
+  },
+  "0b66fe7c0d3b74f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Extinção de regimes especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Extinção de regimes especiais)\n\nOs regimes especiais aplicáveis aos pescadores consideram-se extintos a partir da data da entrada em vigor do presente diploma."
+  },
+  "36669f31bb13ddf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Revisão das pensões em curso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Revisão das pensões em curso)\n\nAs pensões de reforma já atribuídas aos pescadores devem ser recalculadas de acordo com o disposto no presente diploma, aplicando-se o novo valor a partir da entrada em vigor deste diploma."
+  },
+  "ede5dbf48283acc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Pensões de sobrevivência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Pensões de sobrevivência)\n\nO disposto nos artigos 6.º e 8.º é aplicável às pensões de sobrevivência atribuídas por morte de trabalhadores inscritos marítimos beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca."
+  },
+  "199082655b2904e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Proibição de acumulação de pensões com exercício de actividade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Proibição de acumulação de pensões com exercício de actividade)\n\nOs pescadores cujas pensões de reforma sejam calculadas ao abrigo do presente diploma não podem acumular as respectivas pensões de reforma com remunerações auferidas, a qualquer título, por actividade exercida nas pescas."
+  },
+  "2961c171e920b3bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Norma revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Norma revogatória)\n\nÉ revogada a [Portaria n.º 98/83](https://diariodarepublica.pt/dr/detalhe/portaria/98-1983-308532), de 29 de Janeiro."
+  },
+  "7e4c3e98d086e2c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia 1 de Setembro de 1986.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral.\n\nPromulgado em 11 de Setembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Setembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "a27e48e4a39c7126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Proibição de acumulação de pensões com exercício de actividade",
+   "in_force_from": "1998-02-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1998-223994), publicado em 1998-02-04."
+   ],
+   "markdown": "###### Artigo 10.º — Proibição de acumulação de pensões com exercício de actividade\n\nOs titulares de pensões de velhice calculadas ou recalculadas por aplicação das normas do presente diploma perdem o direito às referidas prestação nos casos em que mantenham o exercício de actividade no mar a bordo de embarcações de pesca como inscritos marítimos e enquanto durar a mesma actividade.\n\n> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1998-223994), publicado em 1998-02-04."
+  }
+ }
+}

@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-21'
+version_history:
+  file: decreto-lei-270-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-21'
+    amending: pt:dre:456492:por
+    amending_title: Decreto-Lei n.º 116/2008
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/270/2000/11/07/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:20:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-270-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,9 +165,11 @@ Os prédios urbanos e fracções autónomas de prédios urbanos que sejam propri
 
 a) De dispensa do trato sucessivo;
 
-b) De dispensa da apresentação de licenças de construção e de utilização para celebração de escrituras públicas de actos que envolvam a transmissão da propriedade dos mesmos.
+b) De dispensa da apresentação de licença de construção e de autorização da utilização para celebração dos actos que envolvam a transmissão da propriedade dos mesmos.
 
 2 - O disposto na alínea b) do número anterior aplica-se também aos actos que venham a ser praticados por futuros titulares de direitos reais sobre esses imóveis.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
 
 ###### Artigo 3.º — Primeira inscrição no registo predial
 
@@ -175,11 +195,13 @@ A venda dos imóveis referidos no artigo 1.º rege-se pelo disposto neste capít
 
 2 - A extinção dá-se pelo decurso no prazo previsto no n.º 1 ou pela morte do adquirente.
 
-3 - Os SSGNR têm direito de preferência na aquisição do imóvel que o adquirente pretenda alienar, por um prazo de 30 anos, a contar da data da primeira alienação, pelo preço desta constante na respectiva escritura, actualizada de acordo com o índice de inflação.
+3 - Os SSGNR têm direito de preferência na aquisição do imóvel que o adquirente pretenda alienar, por um prazo de 30 anos, a contar da data da primeira alienação, pelo preço desta constante do título de aquisição, actualizado de acordo com o índice de inflação.
 
-4 - Esses ónus devem constar da escritura pública de compra e venda e estão sujeitos a registo.
+4 - Esses ónus devem constar do contrato de compra e venda e estão sujeitos a registo.
 
 5 - Os negócios celebrados contra o disposto neste artigo são nulos.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
 
 ###### Artigo 7.º — Venda de imóvel arrendado
 
@@ -237,13 +259,15 @@ sendo V o valor actualizado, Cf um valor relativo ao nível de conforto, Cc um f
 
 5 - No prazo de 30 dias contados da data da recepção da resposta referida no n.º 3, a pessoa a quem a venda é proposta deve declarar, pela mesma forma, se aceita ou não o preço indicado.
 
-###### Artigo 11.º — Escritura pública de compra e venda
+###### Artigo 11.º — Contrato de compra e venda
 
-1 - Aceite a proposta de venda e fixado o preço, a escritura pública de compra e venda deve ser celebrada no prazo de 90 dias, ficando a sua marcação a cargo dos SSGNR, que devem avisar o comprador, pessoalmente ou por carta registada com aviso de recepção, do dia, hora e local da sua realização com pelo menos 15 dias de antecedência.
+1 - Aceite a proposta de venda e fixado o preço, o contrato de compra e venda formalizado por escritura pública ou documento particular autenticado deve ser celebrado no prazo de 90 dias, ficando a marcação da data a cargo dos SSGNR, que devem avisar o comprador, pessoalmente ou por carta registada com aviso de recepção, do dia, hora e local da sua realização com pelo menos 15 dias de antecedência.
 
 2 - O preço deve ser integralmente pago nesse acto, se o não tiver sido antes por iniciativa do comprador.
 
-3 - O comprador deve entregar aos SSGNR, no momento da escritura, declaração no sentido de que reconhece adquirir o imóvel no estado em que o mesmo se encontra.
+3 - O comprador deve entregar aos SSGNR, no momento da celebração do contrato, declaração no sentido de que reconhece adquirir o imóvel no estado em que o mesmo se encontra.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
 
 ###### Artigo 12.º — Recusa de compra
 
@@ -267,9 +291,11 @@ c) O contrato de arrendamento relativo ao imóvel para onde é feita a transfer�
 
 1 - A venda de imóvel devoluto só pode ser feita a um beneficiário dos SSGNR, mediante concurso por proposta em carta fechada que se rege pelo disposto em regulamento aprovado por portaria do Ministro da Administração Interna, por um preço não inferior ao que resulta da aplicação do artigo 8.º
 
-2 - Apurada a proposta vencedora, a escritura pública de compra e venda deve ser celebrada no prazo de 60 dias, ficando a sua marcação a cargo dos SSGNR, que devem avisar o comprador do dia, hora e local da sua realização com pelo menos 15 dias de antecedência.
+2 - Apurada a proposta vencedora, o contrato de compra e venda deve ser celebrado por escritura pública ou documento particular autenticado no prazo de 60 dias, ficando a sua marcação a cargo dos SSGNR, que devem avisar o comprador do dia, hora e local da sua realização com pelo menos 15 dias de antecedência.
 
 3 - O remanescente do preço deve ser integralmente pago nesse acto, se o não tiver sido antes, por iniciativa do comprador.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), publicado em 2008-07-04.
 
 ###### Artigo 15.º — Edifícios implantados em terrenos do Estado
 

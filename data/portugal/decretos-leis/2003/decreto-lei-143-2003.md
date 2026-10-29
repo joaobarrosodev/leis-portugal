@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-25'
+version_history:
+  file: decreto-lei-143-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-25'
+    amending: pt:dre:670027:por
+    amending_title: Decreto-Lei n.º 79/2011
+    changes:
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/143/2003/07/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:37:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 79/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-143-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -572,13 +587,17 @@ r) As medidas de controlo da doença que irão ser aplicadas depois de um perío
 
 1 - Os métodos de diagnóstico, a amostragem e os testes laboratoriais efectuados para detectar a existência da peste suína clássica são efectuados segundo o manual de diagnóstico.
 
-2 - A coordenação das normas e métodos de diagnóstico é efectuada pelo Laboratório Nacional de Investigação Veterinária, de ora em diante designado por LNIV, nos termos do anexo III ao presente diploma, que dele faz parte integrante.
+2 - O laboratório nacional responsável pela coordenação das normas e métodos de diagnóstico, em conformidade com o disposto no anexo iii ao presente diploma, é aquele que consta no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-3 - O LNIV assegura a ligação com o laboratório comunitário de referência, tal como referido no anexo IV ao presente diploma e que dele faz parte integrante, sendo a competência e funções do laboratório as definidas no referido anexo.
+3 - O laboratório nacional designado no número anterior deve cooperar com o laboratório comunitário de referência previsto no anexo iv ao presente diploma.
 
 4 - Para assegurar a uniformidade dos métodos de diagnóstico da peste suína clássica, estes devem obedecer às disposições do manual de diagnóstico.
 
 5 - Para que sejam asseguradas condições adequadas de biossegurança com vista à protecção da sanidade animal, o vírus da peste suína clássica, o seu genoma e antigénios e as vacinas utilizados na investigação, diagnóstico ou fabrico são manipulados ou utilizados apenas em locais, estabelecimentos ou laboratórios aprovados pela autoridade competente.
+
+6 - A DGV deve manter actualizada a lista dos laboratórios ou dos institutos nacionais mencionados no n.º 2, disponibilizando-as aos outros Estados membros e ao público.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 18.º — Utilização, fabrico e venda de vacinas contra a peste suína clássica
 

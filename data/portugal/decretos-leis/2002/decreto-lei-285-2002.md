@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-25'
+version_history:
+  file: decreto-lei-285-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-25'
+    amending: pt:dre:692434:por
+    amending_title: Decreto-Lei n.º 126/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo ANEXO — ESTATUTOS::1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/285/2002/12/10/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-285-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +180,9 @@ No desenvolvimento do regime jurídico estabelecido na base XXXVI da [Lei n.º 4
 
 ###### Artigo 1.º — Transformação
 
-O Hospital da Senhora da Oliveira - Guimarães é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital Nossa Senhora da Oliveira, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361551.
+O Hospital da Senhora da Oliveira - Guimarães é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361551.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 2.º — Objecto
 
@@ -330,7 +348,9 @@ Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e 
 
 ###### Artigo 1.º — Forma e denominação
 
-A sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital Nossa Senhora da Oliveira, S. A., adiante abreviadamente designado por Hospital.
+A sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital da Senhora da Oliveira - Guimarães, S. A., adiante abreviadamente designado por Hospital.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 2.º — Sede
 

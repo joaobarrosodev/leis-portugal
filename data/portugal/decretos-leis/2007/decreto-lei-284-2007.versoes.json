@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636972:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "308fd5efc1068bdd",
+    "6e62975ee7210741",
+    "127190db89a2740f",
+    "7ad528fd7504544d",
+    "aa199dc85cd5d63d",
+    "f0b4a5edefa3db8f",
+    "e495f327e5aa096d"
+   ]
+  },
+  {
+   "date": "2012-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179571:por",
+     "title": "Lei n.º 24/2012",
+     "published": "2012-07-09",
+     "dre_path": "/dr/detalhe/lei/24-2012-179571"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "308fd5efc1068bdd",
+    "205556e9a6f4a41d",
+    "0a8c78ad83dd1aa5",
+    "7ad528fd7504544d",
+    "aa199dc85cd5d63d",
+    "f0b4a5edefa3db8f",
+    "e495f327e5aa096d"
+   ]
+  }
+ ],
+ "fragments": {
+  "308fd5efc1068bdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Agosto\n\nNa sequência da transferência de competências em matéria de instrução dos procedimentos de reconhecimento de fundações da Secretaria-Geral do Ministério da Administração Interna para a Secretaria-Geral da Presidência do Conselho de Ministros, prevista no Programa de Reestruturação da Administração Central do Estado e operada pelo [Decreto-Lei n.º 161/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2007-521256), de 3 de Maio, que aprovou a orgânica da Secretaria-Geral da Presidência do Conselho de Ministros, importa agora proceder à alteração da competência decisória final do procedimento.\n\nNos termos do artigo 17.º do [Decreto-Lei n.º 215/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), de 29 de Maio, aquela competência ainda se encontra cometida ao Ministro da Administração Interna, pelo que há que transferi-la para a esfera de competências decisórias do Ministro da Presidência, com faculdade de delegação.\n\nTratando-se de uma alteração pontual ao regime jurídico do reconhecimento das fundações, aproveita-se a presente alteração legislativa para habilitar a emissão de disposições regulamentares complementares, sob a forma de portaria.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "6e62975ee7210741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei tem por objecto a determinação da competência para o reconhecimento de fundações."
+  },
+  "127190db89a2740f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competência para o reconhecimento de fundações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência para o reconhecimento de fundações\n\n1 - Compete ao Ministro da Presidência, com faculdade de delegação, o reconhecimento das fundações, nos termos e para os efeitos previstos no n.º 2 do artigo 158.º e no artigo 188.º do Código Civil.\n\n2 - O disposto no número anterior não prejudica a competência de outros membros do Governo para o reconhecimento de categorias específicas de fundações, nos termos da lei."
+  },
+  "7ad528fd7504544d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regulamentação\n\nAs regras aplicáveis ao procedimento de reconhecimento, nomeadamente no que respeita à instrução dos pedidos pela Secretaria-Geral da Presidência do Conselho de Ministros, são fixados por portaria do membro do Governo com competência para o reconhecimento das fundações."
+  },
+  "aa199dc85cd5d63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o artigo 17.º do [Decreto-Lei n.º 215/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), de 29 de Maio."
+  },
+  "f0b4a5edefa3db8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\n1 - O disposto no presente decreto-lei aplica-se imediatamente a todos os procedimentos de reconhecimento de fundações pendentes.\n\n2 - Até à emissão da portaria referida no artigo 3.º devem observar-se os procedimentos de reconhecimento de fundações em vigor aquando da transferência das competências instrutórias da Secretaria-Geral do Ministério da Administração Interna para a Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "e495f327e5aa096d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira.\n\nPromulgado em 2 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 9 de Agosto de 2007.\n\nPelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças."
+  },
+  "205556e9a6f4a41d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09."
+  },
+  "0a8c78ad83dd1aa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competência para o reconhecimento de fundações",
+   "in_force_from": "2012-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09."
+   ],
+   "markdown": "###### Artigo 2.º — Competência para o reconhecimento de fundações\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), publicado em 2012-07-09."
+  }
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520412:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79ea8be80fdc4ff3",
+    "bf066252ad8692cd",
+    "a08dec4a3d5f4ae6",
+    "98c378316cd1a8da",
+    "758670e9d2620297",
+    "f843a15c0c72c528",
+    "8bab200902dd0b1b",
+    "b3a54d898c0601a8",
+    "9ddeac7986d6f42c"
+   ]
+  },
+  {
+   "date": "2010-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:334101:por",
+     "title": "Portaria n.º 560/2010",
+     "published": "2010-07-23",
+     "dre_path": "/dr/detalhe/portaria/560-2010-334101"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::1.º",
+    "Adita Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::3.º-A"
+   ],
+   "fragments": [
+    "79ea8be80fdc4ff3",
+    "bf066252ad8692cd",
+    "a08dec4a3d5f4ae6",
+    "98c378316cd1a8da",
+    "8ea503998aa71d7a",
+    "f843a15c0c72c528",
+    "8bab200902dd0b1b",
+    "0c4f3f7422ddb882",
+    "b3a54d898c0601a8",
+    "9ddeac7986d6f42c"
+   ]
+  }
+ ],
+ "fragments": {
+  "79ea8be80fdc4ff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Março\n\nO [Decreto-Lei n.º 94/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2007-520438), de 29 de Março, definiu a missão e as atribuições da Cinemateca Portuguesa-Museu do Cinema, I. P., Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Cultura, o seguinte:"
+  },
+  "bf066252ad8692cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados os Estatutos da Cinemateca Portuguesa-Museu do Cinema, I. P., abreviadamente designada por Cinemateca, I. P., publicados em anexo à presente portaria e que dela fazem parte integrante."
+  },
+  "a08dec4a3d5f4ae6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nEm 29 de Março de 2007.\n\nPelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento. - Pela Ministra da Cultura, Mário Vieira de Carvalho, Secretário de Estado da Cultura."
+  },
+  "98c378316cd1a8da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P."
+  },
+  "758670e9d2620297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A Cinemateca Portuguesa-Museu do Cinema, I. P., abreviadamente designada por CP-MC, I. P., estrutura-se em dois departamentos e uma divisão.\n\n2 - São departamentos da CP-MC, I. P.:\n\na) Departamento de Arquivo Nacional das Imagens em Movimento;\n\nb) Departamento de Exposição Permanente.\n\n3 - É divisão da CP-MC, I. P., a Divisão de Gestão.\n\n4 - Os Departamentos são dirigidos por um director, cargo de direcção intermédia de 1.º grau, e a Divisão por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "f843a15c0c72c528": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Departamento de Arquivo Nacional das Imagens em Movimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Departamento de Arquivo Nacional das Imagens em Movimento\n\n1 - Ao Departamento de Arquivo Nacional das Imagens em Movimento, abreviadamente designado por ANIM, compete:\n\na) Receber em regime de depósito, incluindo o depósito legal obrigatório, imagens em movimento em qualquer suporte e de qualquer época, formato, género, regime de produção ou proveniência;\n\nb) Propor a aquisição de imagens em movimento em qualquer suporte e de qualquer época, formato, género, regime de produção ou proveniência, devendo as propostas de aquisição de obras de produção estrangeira ser efectuadas em articulação com o Departamento de Exposição Permanente;\n\nc) Conservar as imagens em movimento nele arquivadas de acordo com as regras e processos técnicos mais adequados, nomeadamente os que são preconizados pela Federação Internacional dos Arquivos de Filmes (FIAF);\n\nd) Preservar as imagens em movimento arquivadas, incluindo a obtenção de matrizes de conservação dessas imagens e a tiragem de elementos intermédios e novas gerações de cópias;\n\ne) Restaurar obras de imagens em movimento o mais aproximadas possível dos originais;\n\nf) Prospectar, receber em depósito, preservar, restaurar e propor a aquisição de património iconográfico relacionado com a história dessas mesmas imagens, designadamente fotografias, cartazes e maquetas;\n\ng) Preservar e restaurar património museográfico relacionado com a história das imagens em movimento, designadamente aparelhos, cenários e adereços;\n\nh) Inventariar, classificar, catalogar e indexar todo o património nele arquivado;\n\ni) Proceder ao levantamento de dados relativos à produção nacional de imagens em movimento e fazer prospecção de obras produzidas cuja localização não seja conhecida;\n\nj) Facultar a divulgação das obras arquivadas, quer através das estruturas de exibição da CP-MC, I. P., quer, pontualmente, através das estruturas de exibição cultural externas, dentro dos limites impostos pelas regras de preservação, pelos direitos dos depositantes e pela legislação em vigor sobre os direitos de autor e direitos conexos;\n\nl) Facultar, a título gratuito ou oneroso, o acesso às obras arquivadas, através do visionamento no local ou através de rede telemática, no caso de imagens e dados em suporte magnético digital;\n\nm) Facultar, a título oneroso, materiais arquivados para reprodução, no todo ou em parte, por agentes culturais ou comerciais externos, dentro dos limites impostos pelas regras de preservação, pelos direitos dos depositantes e pela legislação em vigor sobre direitos de autor e direitos conexos;\n\nn) Prestar, a título oneroso, serviços de conservação, preservação e restauro a detentores de imagens em movimento;\n\no) Promover a investigação e a formação especializada em todas as áreas técnicas relacionadas com a história e a conservação das imagens em movimento;\n\np) Colaborar com centros de conservação e de imagens em movimento, nacionais e internacionais;\n\nq) Participar em programas de acção de âmbito internacional, nomeadamente ao nível da União Europeia;\n\nr) Participar na produção de imagens em movimento de carácter cultural e didáctico sobre a história do cinema e das imagens em movimento em geral;\n\ns) Publicar documentos bibliográficos relacionados com a técnica e a conservação das imagens em movimento.\n\n2 - O ANIM funciona em Loures."
+  },
+  "8bab200902dd0b1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Departamento de Divulgação e Exposição Permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamento de Divulgação e Exposição Permanente\n\n1 - Ao Departamento de Exposição Permanente, abreviadamente designado por DDEP, compete:\n\na) Promover a exposição e exibição de obras cinematográficas, dentro de critérios de museografia da obra fílmica e de programação, que favoreçam e estimulem a visão comparativa dos diversos períodos, épocas, géneros e escolas da história do cinema;\n\nb) Integrar a actividade expositora e exibidora num projecto global que promova a exposição do maior número possível de materiais relativos à sua história e feitura, quer em relação com a política de programação quer em função de uma política autónoma que não exclua a programação de filmes com ela relacionados;\n\nc) Organizar ciclos, retrospectivas ou sessões individuais cuja concepção e planeamento reflictam os objectivos enunciados;\n\nd) Organizar um museu do cinema que encoraje a comparação das colecções fílmicas com as colecções não fílmicas e as relações entre a arte cinematográfica e as outras artes;\n\ne) Propor a aquisição de obras e projectos de interesse museográfico em relação com a história do cinema e em articulação com o ANIM;\n\nf) Prospectar e receber em depósito património museográfico relacionado com a história do cinema, designadamente aparelhos, cenários e adereços;\n\ng) Associar-se a outras entidades, nacionais e estrangeiras, de modo a valorizar mais plenamente as suas actividades museográficas, nomeadamente através da cedência temporária de colecções que se articulem com as da Cinemateca, I. P.;\n\nh) Promover o intercâmbio e permuta de obras da sua colecção com obras de outras colecções, nacionais e estrangeiras, dentro do espírito da alínea anterior;\n\ni) Organizar actividades complementares de exposição e de exibição das suas colecções fílmicas e não fílmicas, nomeadamente exposições temporárias, seminários especializados, conferências, debates e apresentações orais dos filmes, elaboração e distribuição de textos ou de outros materiais informativos;\n\nj) Editar catálogos que acompanhem as suas principais manifestações, cumprindo simultaneamente finalidades informativas e formativas, bem como obras susceptíveis de enriquecer e difundir os conhecimentos sobre a história do cinema, a sua estética e a sua técnica, privilegiando o cinema português;\n\nl) Garantir a realização e publicação, em edições actualizadas, da história e do dicionário do cinema português e contribuir para a elaboração de novas histórias e dicionários do cinema universal;\n\nm) Promover iniciativas exteriores e descentralizadas em colaboração com organismos ou instituições de carácter cultural, sem prejuízo das exigências de preservação do património;\n\nn) Promover iniciativas exteriores que, dentro dos condicionalismos referidos na alínea anterior, permitam o acesso do maior número possível de frequentadores às suas exposições e exibições, descentralizando os seus próprios ciclos e retrospectivas;\n\no) Apresentar regularmente as aquisições e restauros do ANIM;\n\np) Colaborar com as escolas de cinema e demais instituições pedagógicas ligadas a esta arte;\n\nq) Assegurar o serviço de relações com o público e com os meios de comunicação social, nomeadamente promovendo e executando acções regulares de informação sobre as actividades e programação da CP-MC, I. P., sem prejuízo das competências da Secretaria-Geral do Ministério da Cultura;\n\nr) Coordenar o circuito de distribuição de publicações e o circuito de produção/distribuição de outros materiais relacionados com o cinema, de iniciativa da CP-MC, I. P.;\n\ns) Apoiar a realização de exposições e a organização de conferências, colóquios e outras iniciativas relacionadas com a divulgação, a investigação e o ensino da arte do cinema;\n\nt) Elaborar programas de animação e promover visitas de estudo aos locais da CP-MC, I. P., no âmbito do desenvolvimento das relações da instituição com as escolas;\n\nu) Apoiar a participação da CP-MC em feiras do livro e outros certames culturais;\n\nv) Apoiar as acções regionais e locais que a CP-MC entenda levar a cabo no âmbito do seu programa de descentralização;\n\nx) Levar a cabo acções de projecção e divulgação da CP-MC em Portugal e no estrangeiro, em articulação com o Gabinete de Estratégia, Avaliação, Planeamento e Relações Internacionais (GPEARI), do Ministério da Cultura;\n\nz) Coordenar e dinamizar as actividades do Programa Amigos da Cinemateca;\n\naa) Preparar e organizar, quando tal for determinado, viagens, recepção e estadas de personalidades convidadas no âmbito da acção da CP-MC, I. P., em articulação com o GPEARI.\n\n2 - Compete ainda ao DDEP:\n\na) Dar a conhecer a história do cinema ao público infantil e pré-adolescente;\n\nb) Promover, na área do pré-cinema, a criação de uma exposição permanente interactiva, didáctica e lúdica, relativa às origens das imagens em movimento;\n\nc) Organizar um programa de actividades regulares, composto por espectáculos de pré-cinema e ateliers temáticos, com o objectivo de dar a conhecer ao público jovem a história do cinema, enquadrando-a num contexto histórico-cultural, social e científico;\n\nd) Promover visitas escolares, com envolvimento prévio de professores acompanhantes;\n\ne) Programar, ao longo do ano lectivo, sessões de cinema com recurso a material do arquivo da Cinemateca ou a adquirir;\n\nf) Editar material literário pedagógico;\n\ng) Manter uma biblioteca especializada e um centro de documentação e informação com vista a recolher o maior número possível de material bibliográfico relativo à história, à técnica e à estética do cinema;\n\nh) Recolher, tratar e divulgar a informação cinematográfica nacional e estrangeira de carácter histórico, estético ou crítico em forma de monografias, publicações periódicas, recortes de imprensa, folhetos, guiões cinematográficos, sinopses e outro material bibliográfico não impresso;\n\ni) Disponibilizar o serviço de leitura presencial bem como formas adequadas de difusão da informação de todo o material bibliográfico existente, impresso ou não impresso."
+  },
+  "b3a54d898c0601a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º"
+  },
+  "9ddeac7986d6f42c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Gestão\n\nÀ Divisão de Gestão, abreviadamente designada por DG, compete:\n\na) Coordenar a elaboração do plano anual de actividades - ou outros instrumentos de gestão estratégica - e acompanhar a sua execução;\n\nb) Elaborar o relatório anual de actividades;\n\nc) Proceder ao acompanhamento, avaliação e controlo material e financeiro dos planos;\n\nd) Preparar as candidaturas a fundos comunitários e assegurar o seu acompanhamento e controlo;\n\ne) Assegurar a gestão orçamental e elaborar e apresentar relatórios periódicos de execução orçamental e da situação financeira da CP-MC, I. P.;\n\nf) Instruir os processos relativos à cobrança e arrecadação de receitas e à realização de despesas e executar o respectivo ciclo, assegurando o registo das operações que lhe estão associadas;\n\ng) Propor e desenvolver estratégias de captação de apoios mecenáticos para a realização de iniciativas da CP-MC, I. P.;\n\nh) Promover a constituição, reconstituição e liquidação do fundo permanente e de maneio;\n\ni) Elaborar a conta de gerência;\n\nj) Executar as tarefas administrativas relativas à gestão dos recursos humanos;\n\nl) Elaborar o plano anual de formação, em articulação com a Secretaria-Geral;\n\nm) Remeter à Secretaria-Geral as necessidades de recursos humanos;\n\nn) Elaborar o balanço social;\n\no) Assegurar o processamento dos vencimentos do pessoal e demais abonos, bem como os descontos que sobre eles incidam;\n\np) Assegurar a execução do sistema de avaliação de desempenho;\n\nq) Apreciar e informar os pedidos respeitantes à administração de pessoal, emitir certidões e assegurar a execução do expediente respectivo;\n\nr) Organizar e manter actualizado o cadastro de pessoal;\n\ns) Garantir o cumprimento das normas relativas às condições de higiene, saúde e segurança no trabalho;\n\nt) Instruir os processos de acidentes em serviço;\n\nu) Colaborar com a Unidade Ministerial de Compras (UMC) do Ministério, efectuando a agregação das necessidades de aquisição de bens e serviços;\n\nv) Disponibilizar informação de compras nos moldes e na periodicidade que vierem a ser definidos pela unidade ministerial;\n\nx) Administrar os bens afectos à CP-MC, I. P., mantendo actualizado o inventário e cadastro dos bens móveis e assegurar a manutenção das instalações e equipamento, sem prejuízo das competências, neste domínio, da Secretaria-Geral;\n\nz) Identificar as necessidades de aquisição de bens e serviços necessários ao funcionamento das unidades orgânicas e assegurar a distribuição dos stocks pelas diversas unidades orgânicas;\n\naa) Propor à UMC a alienação dos bens que se mostrem inúteis ou desnecessários ao funcionamento da CP-MC, I. P.;\n\nab) Assegurar a recepção, expedição, classificação, registo, distribuição interna e arquivo de todo o expediente da CP-MC, I. P.;\n\nac) Proceder à disponibilização interna, preferencialmente por via electrónica, de normas e directivas necessárias ao funcionamento da CP-MC, I. P.;\n\nad) Contribuir para a eficiência e qualidade dos serviços prestados pela CP-MC, I. P., elaborando e mantendo actualizados manuais de procedimentos internos e propondo medidas visando a sua desmaterialização;\n\nae) Acompanhar as medidas preconizadas pela sociedade de informação e promover a sua aplicação visando alcançar objectivos de racionalização e modernização administrativa para a efectiva desmaterialização e simplificação dos procedimentos;\n\naf) Executar as tarefas inerentes à recepção, classificação, registo, expedição e arquivo do expediente;\n\nag) Assegurar o desenvolvimento e a gestão do sistema de arquivo da CP-MC, I. P.;\n\nah) Gerir a imagem institucional da CP-MC, I. P., e promover a difusão da informação, visual ou descritiva, relativa ao património cultural que lhe está afecto;\n\nai) Participar na preparação e execução de acordos culturais no domínio das competências da CP-MC, I. P., em articulação com o GPEARI;\n\naj) Pronunciar-se sobre os pedidos de utilização da imagem e dos espaços da CP-MC, I. P.;\n\nal) Coordenar a gestão das bilheteiras da CP-MC, I. P."
+  },
+  "8ea503998aa71d7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura",
+   "in_force_from": "2010-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23."
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura\n\n1 - A Cinemateca Portuguesa-Museu do Cinema, I. P., abreviadamente designada por CP-MC, I. P., estrutura-se em serviços centrais e um serviço desconcentrado.\n\n2 - Os serviços centrais da CP-MC, I. P., integram dois departamentos e uma divisão.\n\n3 - São departamentos da CP-MC, I. P.:\n\na) Departamento de Arquivo Nacional das Imagens em Movimento;\n\nb) Departamento de Exposição Permanente.\n\n4 - É divisão da CP-MC, I. P., a Divisão de Gestão.\n\n5 - É serviço territorialmente desconcentrado da CP-MC, I. P., a Casa do Cinema do Porto, cujo âmbito territorial corresponde à unidade Norte de nível ii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo Decreto-Lei n.º 46/89, de 15 de Fevereiro, para o território continental.\n\n6 - Os departamentos integrados nos serviços centrais da CP-MC, I. P., são dirigidos por um director de serviços, cargo de direcção intermédia de 1.º grau, e a divisão por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n7 - O serviço territorialmente desconcentrado é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23."
+  },
+  "0c4f3f7422ddb882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º-A — Casa do Cinema do Porto",
+   "in_force_from": "2010-07-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23."
+   ],
+   "markdown": "###### Artigo 3.º-A — Casa do Cinema do Porto\n\n1 - O serviço territorialmente desconcentrado «Casa do Cinema do Porto», abreviadamente designado por CCP, assegura e acompanha, na sua área de intervenção territorial, as actividades desenvolvidas pela CP-MC, I. P., de acordo com o plano de actividades e em coordenação com os serviços centrais.\n\n2 - Ao CCP compete:\n\na) Promover a exposição e a exibição de obras cinematográficas, dentro de critérios de museografia da obra fílmica e de programação, que favoreçam e estimulem a visão comparativa dos diversos períodos, épocas, géneros e escolas da história do cinema;\n\nb) Integrar a actividade expositora e exibidora num projecto global que promova a exposição do maior número possível de materiais relativos à sua história e feitura, quer em relação com a política de programação quer em função de uma política autónoma que não exclua a programação de filmes com esta relacionados;\n\nc) Organizar ciclos, retrospectivas ou sessões individuais, cuja concepção e planeamento reflictam os objectivos enunciados;\n\nd) Propor a aquisição de obras e de projectos de interesse museográfico em relação com a história do cinema e em articulação com o ANIM;\n\ne) Prospectar e receber em depósito património museográfico relacionado com a história do cinema, designadamente aparelhos, cenários e adereços;\n\nf) Associar-se a outras entidades da sua área territorial de intervenção, de modo a valorizar mais plenamente as suas actividades museográficas, nomeadamente através da cedência temporária de colecções que se articulem com as da CP-MC, I. P.;\n\ng) Organizar actividades complementares de exposição e de exibição das colecções fílmicas e não fílmicas da CP-MC, I. P., nomeadamente exposições temporárias, seminários especializados, conferências, debates e apresentações orais dos filmes, elaboração e distribuição de textos ou de outros materiais informativos;\n\nh) Promover iniciativas em colaboração com organismos ou instituições de carácter cultural, sem prejuízo das exigências de preservação do património;\n\ni) Promover iniciativas que, dentro dos condicionalismos referidos na alínea anterior, permitam o acesso do maior número possível de frequentadores às suas exposições e exibições;\n\nj) Apresentar regularmente as aquisições e os restauros do ANIM;\n\nl) Colaborar com as escolas de cinema e demais instituições pedagógicas ligadas a esta arte;\n\nm) Assegurar o serviço de relações com o público e com os meios de comunicação social, nomeadamente promovendo e executando acções regulares de informação sobre as actividades e a programação da CP-MC, I. P., na sua área de intervenção territorial, sem prejuízo das competências da Secretaria-Geral do Ministério da Cultura;\n\nn) Elaborar programas de animação e promover visitas de estudo aos locais de funcionamento do CCP, no âmbito do desenvolvimento das relações da CP-MC, I. P., com as escolas;\n\no) Organizar a participação da CP-MC, I. P., em feiras do livro e outros certames culturais realizados na sua área de intervenção territorial;\n\np) Desenvolver as acções regionais e locais que a CP-MC, I. P., entenda levar a cabo na sua área de intervenção territorial;\n\nq) Colaborar com as actividades do Programa Amigos da Cinemateca;\n\nr) Dar a conhecer a história do cinema ao público infantil e pré-adolescente;\n\ns) Promover, na área do pré-cinema, a criação de uma exposição permanente interactiva, didáctica e lúdica, relativa às origens das imagens em movimento;\n\nt) Organizar um programa de actividades regulares, composto por espectáculos de pré-cinema e ateliers temáticos, com o objectivo de dar a conhecer ao público jovem a história do cinema, enquadrando-a num contexto histórico-cultural, social e científico;\n\nu) Promover visitas escolares, com envolvimento prévio de professores acompanhantes;\n\nv) Programar, ao longo do ano lectivo, sessões de cinema com recurso a material do arquivo da Cinemateca ou a adquirir;\n\nx) Colaborar com o DDEP na manutenção de uma biblioteca especializada e de um centro de documentação e informação na CP-MC, I. P., com vista a recolher o maior número possível de material bibliográfico relativo à história, à técnica e à estética do cinema;\n\nz) Colaborar com o DDEP na recolha, tratamento e divulgação da informação cinematográfica nacional e estrangeira de carácter histórico, estético ou crítico em forma de monografias, publicações periódicas, recortes de imprensa, folhetos, guiões cinematográficos, sinopses e outro material bibliográfico não impresso.\n\n3 - Compete, ainda, ao CCP:\n\na) Colaborar na elaboração do plano anual de actividades - ou outros instrumentos de gestão estratégica - em matérias relativas à sua área de competências;\n\nb) Elaborar um relatório anual de actividades do CCP;\n\nc) Coordenar com os serviços centrais o transporte de material fílmico e não fílmico necessário à sua actividade de programação e exposição;\n\nd) Propor e desenvolver estratégias de captação de apoios mecenáticos para a realização de iniciativas da CP-MC, I. P., na sua área de intervenção territorial;\n\ne) Colaborar com a Divisão de Gestão na execução de tarefas administrativas relativas à gestão dos recursos humanos;\n\nf) Assegurar a execução do sistema de avaliação de desempenho do pessoal afecto à sua área de intervenção territorial;\n\ng) Garantir o cumprimento das normas relativas às condições de higiene, saúde e segurança no trabalho nos locais afectos ao funcionamento do CCP;\n\nh) Identificar, em coordenação com a Divisão de Gestão, as necessidades de aquisição de bens e serviços necessários ao funcionamento do CCP;\n\ni) Assegurar a recepção, expedição, classificação, registo, distribuição interna e arquivo de todo o expediente do CCP;\n\nj) Coordenar a gestão das bilheteiras do CCP, em colaboração com a Divisão de Gestão.\n\n4 - As competências referidas nos números anteriores que coincidam com competências cometidas ao DDEP nos termos dos presentes Estatutos são exercidas em exclusivo pelo CCP na respectiva área de intervenção territorial.\n\n5 - O CCP funciona no Porto.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 560/2010](https://diariodarepublica.pt/dr/detalhe/portaria/560-2010-334101), publicado em 2010-07-23."
+  }
+ }
+}

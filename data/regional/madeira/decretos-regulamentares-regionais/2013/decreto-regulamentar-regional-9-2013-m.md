@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-07-27'
+version_history:
+  file: decreto-regulamentar-regional-9-2013-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-27'
+    amending: pt:dre:498741:por
+    amending_title: Decreto Regulamentar Regional n.º 12/2013/M
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/9/2013/05/22/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    12/2013/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2013/decreto-regulamentar-regional-9-2013-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -234,25 +249,9 @@ Compete à Secretaria Regional do Plano e Finanças, adiante designado por SRF, 
 
 ###### Artigo 4.º — Regime duodecimal
 
-1 - Todas as dotações orçamentais estão sujeitas às regras do regime duodecimal, com exceção das abaixo indicadas:
+(Revogado.)
 
-a) As dotações destinadas a despesas com o pessoal;
-
-b) As dotações relativas a transferências destinadas a fazer face a despesas com o pessoal dos serviços e fundos autónomos;
-
-c) As dotações afetas a rendas;
-
-d) As dotações afetas a encargos transitados;
-
-e) As dotações destinadas a suportar encargos com a dívida pública;
-
-f) As dotações com compensação em receita.
-
-2 - Mediante autorização do Secretário Regional do Plano e Finanças, poderão ser antecipados, total ou parcialmente, os duodécimos das dotações inscritas no Orçamento.
-
-3 - Nos serviços dotados de orçamentos privativos, a competência referida no número anterior pertence à entidade que deu o acordo ao respetivo orçamento, não sendo necessária a autorização do Secretário Regional do Plano e Finanças, salvo se for excedido o montante de (euro) 20 000 por dotação.
-
-4 - O disposto neste artigo não prejudica a aplicação das regras relativas às cativações orçamentais que constam no artigo 21.º do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro e na Resolução n.º 109/2013, de 27 de fevereiro.
+> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2013-498741), publicado em 2013-07-26.
 
 ###### Artigo 5.º — Cabimentação
 

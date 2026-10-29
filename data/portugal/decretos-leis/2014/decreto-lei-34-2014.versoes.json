@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572154:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2014-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "643d3e66be6c53b3",
+    "3dd403b62f281f21",
+    "8949027081783bcd",
+    "da6c1493255f71e1",
+    "e14b446ffdecb955",
+    "71d1ccfe0cf6d76f",
+    "cdb38435c13c2296",
+    "8e89a9204cbe6e03",
+    "fe09cddd473b8426"
+   ]
+  },
+  {
+   "date": "2017-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107703391:por",
+     "title": "Decreto-Lei n.º 82/2017",
+     "published": "2017-07-18",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2017-107703391"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "643d3e66be6c53b3",
+    "6518ce0dbe92708e",
+    "14677f062c20db17",
+    "23f343f084fb4d7d",
+    "e14b446ffdecb955",
+    "71d1ccfe0cf6d76f",
+    "e648c8bb29c3dc7b",
+    "8e89a9204cbe6e03",
+    "fe09cddd473b8426"
+   ]
+  }
+ ],
+ "fragments": {
+  "643d3e66be6c53b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de março\n\nA Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013, que altera as Diretivas n.os [2002/55/CE](https://data.europa.eu/eli/dir/2002/55/oj?locale=pt) e [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, e a Diretiva [2009/145/CE](https://data.europa.eu/eli/dir/2009/145/oj?locale=pt), da Comissão, no que diz respeito à designação botânica de tomate, em função da revisão entretanto efetuada ao Código Internacional de Nomenclatura Botânica, substitui nas três diretivas referidas a denominação Lycopersicon esculentum L. por Solanum lycopersicum L.\n\nA Diretiva n.º [2002/55/CE](https://data.europa.eu/eli/dir/2002/55/oj?locale=pt), do Conselho, de 13 de junho de 2002, respeitante à comercialização de sementes de produtos hortícolas, encontra-se transposta na ordem jurídica interna pelo Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, que regula a produção, o controlo, a certificação e a comercialização de sementes de espécies agrícolas e de espécies hortícolas, com exceção das utilizadas para fins ornamentais.\n\nPor seu turno, a Diretiva n.º [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, de 15 de julho de 2008, relativa à comercialização de material de propagação e plantação de produtos hortícolas, com exceção das sementes, procedeu à codificação e revogação da Diretiva n.º [92/33/CEE](https://data.europa.eu/eli/dir/1992/33/oj?locale=pt), do Conselho, de 28 de abril de 1992, relativa à comercialização de material de propagação e plantação de espécies hortícolas, com exceção das sementes. A mencionada Diretiva n.º [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, de 15 de julho de 2008, não careceu de ser transposta para a ordem jurídica interna, por se tratar de uma diretiva de codificação, encontrando-se as regras nela consagradas já adotadas na ordem jurídica interna, atualmente no Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, que regula a produção, o controlo, a certificação e a comercialização de materiais de propagação e de plantação de espécies hortícolas, com exceção das sementes, e de materiais de propagação de fruteiras e de fruteiras destinadas à produção de frutos. Verificando-se, agora a primeira alteração à mencionada diretiva codificadora, considera-se adequado integrar a sua referência na ordem jurídica interna.\n\nA Diretiva n.º [2009/145/CE](https://data.europa.eu/eli/dir/2009/145/oj?locale=pt), da Comissão, de 26 de novembro de 2009, que prevê derrogações à admissão de variedades autóctones de produtos hortícolas e outras variedades tradicionalmente cultivadas em determinadas localidades e regiões e ameaçadas pela erosão genética e de variedades de produtos hortícolas sem valor intrínseco para uma produção vegetal comercial, mas desenvolvidas para cultivo em determinadas condições, e à comercialização de sementes dessas variedades autóctones e outras variedades, encontra-se transposta na ordem jurídica interna pelo Decreto-Lei n.º 257/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 54/2011, de 14 de abril, que estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas e hortícolas e de espécies hortícolas desenvolvidas para cultivo em determinadas condições.\n\nImporta, pois, alterar a designação botânica da espécie tomate nos Decretos-Leis n.os 329/2007, de 8 de outubro, 257/2009, de 24 de setembro, e 88/2010, de 20 de julho, diplomas de transposição para a ordem jurídica interna das diretivas entretanto alteradas pela Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013.\n\nAproveita-se, ainda, a oportunidade para introduzir uma alteração ao anexo IV ao referido Decreto-Lei n.º 329/2007, de 8 de outubro, revogando a sua parte E. Eliminam-se, deste modo, os requisitos para as normas de pureza dos materiais citrícolas e da qualidade das sementes, uma vez que não são hoje tecnicamente justificáveis face ao processo de atualização e simplificação em curso das normas gerais aplicáveis à certificação de plantas cítricas.\n\nIntroduz-se, igualmente, a espécie de Trifolium isthmocarpum no anexo II ao referido Decreto-Lei n.º 88/2010, de 20 de julho, por se tratar de uma espécie mediterrânica de trevo considerada relevante para a biodiversidade, nomeadamente quando utilizada em misturas forrageiras. Concomitantemente, insere-se uma nova alínea r) no quadro I da parte C do mencionado anexo II ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, com vista à simplificação da leitura dos dados ali incluídos e referentes ao controlo dos lotes de sementes forrageiras produzidas.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "3dd403b62f281f21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013, que altera as Diretivas n.os [2002/55/CE](https://data.europa.eu/eli/dir/2002/55/oj?locale=pt) e [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, e a Diretiva [2009/145/CE](https://data.europa.eu/eli/dir/2009/145/oj?locale=pt), da Comissão, no que diz respeito à designação botânica de tomate.\n\n2 - O presente decreto-lei procede ainda à:\n\na) Segunda alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, que regula a produção, controlo, certificação e comercialização de materiais de propagação e de plantação de espécies hortícolas, com exceção das sementes, e de materiais de propagação de fruteiras e de fruteiras destinadas à produção de frutos;\n\nb) Segunda alteração ao Decreto-Lei n.º 257/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 54/2011, de 14 de abril, que estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas e hortícolas;\n\nc) Terceira alteração ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, que regula a produção, o controlo, a certificação e a comercialização de sementes de espécies agrícolas e de espécies hortícolas, com exceção das utilizadas para fins ornamentais."
+  },
+  "8949027081783bcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro\n\nO artigo 2.º do Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...]:\n\ni) [Revogada];\n\nii) [...];\n\niii) [...];\n\niv) Diretiva n.º [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, de 15 de julho de 2008, relativa à comercialização de material de propagação e plantação de produtos hortícolas, com exceção das sementes, alterada pela Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013.\n\nb) [...].»"
+  },
+  "da6c1493255f71e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro\n\nO anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio, é alterado com a redação constante do anexo I ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "e14b446ffdecb955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Alteração aos anexos I e II ao Decreto-Lei n.º 257/2009, de 24 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração aos anexos I e II ao Decreto-Lei n.º 257/2009, de 24 de setembro\n\nOs anexos I e II ao Decreto-Lei n.º 257/2009, de 24 de setembro, alterado e republicado pelo Decreto-Lei n.º 54/2011, de 14 de abril, são alterados com a redação constante do anexo II ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "71d1ccfe0cf6d76f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Alteração aos anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração aos anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho\n\nOs anexos II e IV ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, são alterados com a redação constante do anexo III ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "cdb38435c13c2296": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogadas a subalínea i) da alínea a) do n.º 2 do artigo 2.º e a parte E do anexo IV ao Decreto-Lei n.º 329/2007, de 8 de outubro, alterado pelo Decreto-Lei n.º 53/2010, de 27 de maio."
+  },
+  "8e89a9204cbe6e03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - José Diogo Santiago de Albuquerque.\n\nPromulgado em 21 de fevereiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de fevereiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "fe09cddd473b8426": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se refere o artigo 3.º)\n\n«ANEXO II\n\n[...]\n\nPARTE A\n\n[...]\n\n1 - [...]\n\n1.1 - [...]\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n1.2 - [...]\n\n2 - [...]\n\n2.1 - [...]\n\n2.2 - [...]\n\nPARTE B\n\n[...]\n\n1 - [...]\n\n2.1 - [...]\n\n2.2 - [...]\n\n2 - [...]\n\n3 - [...]\n\nPARTE C\n\n[...]\n\n1 - [...]\n\nQUADRO I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\nPARTE D\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\nANEXO II\n\n(a que se refere o artigo 4.º)\n\n«ANEXO I\n\n[...]\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\nANEXO II\n\n[...]\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\nANEXO III\n\n(a que se refere o artigo 5.º)\n\n«ANEXO II\n\n[...]\n\nPARTE A\n\n[...]\n\n1 - [...]\n\n1.1 - [...]\n\n1.2 - [...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n2 - [...]\n\n3 - [...]\n\nPARTE B\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n5.1 - [...]\n\n5.2 - [...]\n\n5.3 - [...]\n\n5.4 - [...]\n\n5.5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n9.1 - [...]\n\n9.2 - [...]\n\n9.3 - [...]\n\n9.4 - [...]\n\n10 - [...]\n\n10.1 - [...]\n\n10.2 - [...]\n\nPARTE C\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\nQUADRO I\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n(a) [...]\n\n(b) [...]\n\n(c) [...]\n\n(d) [...]\n\n(e) [...]\n\n(f) [...]\n\n(g) [...]\n\n(h) [...]\n\n(i) [...]\n\n(j) [...]\n\n(k) [...]\n\n(l) [...]\n\n(m) [...]\n\n(n) [...]\n\n(o) [...]\n\n(p) [...]\n\n(q) [...]\n\n(r) Incluindo sementes duras.\n\nQUADRO II\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n(a) [...]\n\n(b) [...]\n\n(c) [...]\n\n(d) [...]\n\n(e) [...]\n\n(f) [...]\n\n(g) [...]\n\n(h) [...]\n\n(i) [...]\n\n(j) [...]\n\n(k) [...]\n\n4 - [...]\n\n4.1 - [...]\n\n5 - [...]\n\nQUADRO III\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n(*) [...]\n\n[...]\n\nPARTE D\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\nPARTE E\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\nANEXO IV\n\n[...]\n\nPARTE A\n\n[...]\n\n1 - [...]\n\n1.1 - [...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n1.2 - [...]\n\n2 - [...]\n\nPARTE B\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n2.1 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n6.1 - [...]\n\n6.2 - [...]\n\n7 - [...]\n\n7.1 - [...]\n\n7.2 - [...]\n\nPARTE C\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\nQUADRO I\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n(a) [...]\n\n7 - [...]\n\nQUADRO II\n\n[...]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)\n\n7.1 - [...]\n\nPARTE D\n\n[...]\n\n1 - [...]\n\n2 - [...]»"
+  },
+  "6518ce0dbe92708e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva de Execução n.º [2013/45/UE](https://data.europa.eu/eli/dir/2013/45/oj?locale=pt), da Comissão, de 7 de agosto de 2013, que altera as Diretivas n.os [2002/55/CE](https://data.europa.eu/eli/dir/2002/55/oj?locale=pt) e [2008/72/CE](https://data.europa.eu/eli/dir/2008/72/oj?locale=pt), do Conselho, e a Diretiva [2009/145/CE](https://data.europa.eu/eli/dir/2009/145/oj?locale=pt), da Comissão, no que diz respeito à designação botânica de tomate.\n\n2 - O presente decreto-lei procede ainda à:\n\na) (Revogada.)\n\nb) Segunda alteração ao Decreto-Lei n.º 257/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 54/2011, de 14 de abril, que estabelece o regime de derrogações aplicáveis à inscrição, produção, certificação e comercialização de variedades de conservação de espécies agrícolas e hortícolas;\n\nc) Terceira alteração ao Decreto-Lei n.º 88/2010, de 20 de julho, alterado pelos Decretos-Leis n.os 91/2012, de 12 de abril, 122/2012, de 19 de junho, e 63-B/2013, de 10 de maio, que regula a produção, o controlo, a certificação e a comercialização de sementes de espécies agrícolas e de espécies hortícolas, com exceção das utilizadas para fins ornamentais.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+  },
+  "14677f062c20db17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+   ],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 329/2007, de 8 de outubro\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+  },
+  "23f343f084fb4d7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+   ],
+   "markdown": "###### Artigo 3.º — Alteração ao anexo II ao Decreto-Lei n.º 329/2007, de 8 de outubro\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+  },
+  "e648c8bb29c3dc7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": "2017-07-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+   ],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), publicado em 2017-07-18."
+  }
+ }
+}

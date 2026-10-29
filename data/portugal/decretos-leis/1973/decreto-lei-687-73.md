@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-20'
+version_history:
+  file: decreto-lei-687-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-20'
+    amending: pt:dre:178313:por
+    amending_title: Decreto-Lei n.º 404/85
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:29:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 404/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-687-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A detenção de gasolina etilada ou gasóleo em instalações não sujeitas a licenciamento, nos termos do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ou fora dos depósitos dos veículos automóveis, ciclomotores, velocípedes com motor auxiliar e dos motores a que se destinam será punida com:
+###### Artigo 1.º
+
+1. A detenção de gasolina etilada ou gasóleo em instalações não sujeitas a licenciamento, nos termos do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, ou fora dos depósitos dos veículos automóveis, ciclomotores, velocípedes com motor auxiliar e dos motores a que se destinam será punida com:
 
 a) Multa de 100$00 por cada litro ou fracção de combustível, mas nunca inferior a 1000$00;
 
@@ -143,23 +160,39 @@ d) Apreensão e perda a favor do Estado de todo o combustível ilegalmente detid
 
 5. A detenção de gasolina etilada ou gasóleo, para quaisquer outros usos, no caso de a respectiva armazenagem não estar sujeita a licenciamento, deve ser requerida à Direcção-Geral dos Combustíveis.
 
-Art. 2.º A medida de inibição do direito de conduzir prevista na alínea b) do n.º 1 do artigo 1.º será comunicada, para efeito de execução e registo, à Direcção-Geral de Viação.
+###### Artigo 2.º
 
-Art. 3.º É proibida, sob pena de multa de 5000$00 a 50000$00, a montagem de depósitos suplementares de combustível nos veículos ou a alteração da capacidade dos depósitos de origem. Os veículos em que estas operações tenham sido realizadas serão ainda declarados perdidos a favor do Estado.
+A medida de inibição do direito de conduzir prevista na alínea b) do n.º 1 do artigo 1.º será comunicada, para efeito de execução e registo, à Direcção-Geral de Viação.
 
-Art. 4.º Constitui crime de especulação, punido nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a venda de gasolina ou gasóleo por preços superiores aos legalmente fixados, mas a pena complementar de multa não poderá ser inferior a 5000$00, nem a pena de prisão de três dias a dois anos poderá ser substituída por multa.
+###### Artigo 3.º
 
-Art. 5.º As vendas de produtos derivados de petróleo que não sejam efectuadas pelas companhias distribuidoras, seus revendedores e outros comerciantes para tanto autorizados serão punidas com multa de montante igual a dez vezes o valor do produto transaccionado, mas nunca inferior a 5000$00, e com a sua perda a favor do Estado.
+(Revogado.)
 
-Art. 6.º - 1. As infracções ao disposto no n.º 1 do artigo 1.º e nos artigos 3.º e 5.º serão julgadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e para levantamento dos respectivos autos de notícia serão competentes todas as autoridades administrativas e policiais.
+> Revogado pelo/a [Decreto-Lei n.º 404/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1985-178313), publicado em 1985-10-15.
+
+###### Artigo 4.º
+
+Constitui crime de especulação, punido nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a venda de gasolina ou gasóleo por preços superiores aos legalmente fixados, mas a pena complementar de multa não poderá ser inferior a 5000$00, nem a pena de prisão de três dias a dois anos poderá ser substituída por multa.
+
+###### Artigo 5.º
+
+As vendas de produtos derivados de petróleo que não sejam efectuadas pelas companhias distribuidoras, seus revendedores e outros comerciantes para tanto autorizados serão punidas com multa de montante igual a dez vezes o valor do produto transaccionado, mas nunca inferior a 5000$00, e com a sua perda a favor do Estado.
+
+###### Artigo 6.º
+
+1. As infracções ao disposto no n.º 1 do artigo 1.º e nos artigos 3.º e 5.º serão julgadas nos termos dos artigos 51.º e seguintes do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e para levantamento dos respectivos autos de notícia serão competentes todas as autoridades administrativas e policiais.
 
 2. Os autos de notícia levantados nos termos do número anterior fazem fé em juízo até prova em contrário.
 
-Art. 7.º - 1. Os máximos das multas previstas nos artigos 45.º, 46.º, 49.º e 50.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, são fixados, respectivamente, em 4000000$00, 2000000$00, 5000000$00 e 5000000$00.
+###### Artigo 7.º
+
+1. Os máximos das multas previstas nos artigos 45.º, 46.º, 49.º e 50.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, são fixados, respectivamente, em 4000000$00, 2000000$00, 5000000$00 e 5000000$00.
 
 2. É elevado para 10000000$00 o montante da multa a que se refere o artigo 46.º do decreto mencionado no número anterior, e é aumentada para 5000000$00 a importância da multa prevista no artigo 48.º do mesmo diploma.
 
-Art. 8.º O presente decreto-lei entra imediatamente em vigor.
+###### Artigo 8.º
+
+O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Maria de Mendonça Lino Neto - Manuel Artur Cotta Agostinho Dias.
 

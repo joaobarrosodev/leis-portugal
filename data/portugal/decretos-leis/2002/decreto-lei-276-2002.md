@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-25'
+version_history:
+  file: decreto-lei-276-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-25'
+    amending: pt:dre:692434:por
+    amending_title: Decreto-Lei n.º 126/2003
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO — ESTATUTOS::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/276/2002/12/09/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-276-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,11 +189,13 @@ O Instituto Português de Oncologia de Francisco Gentil, Centro Regional de Coim
 
 ###### Artigo 2.º — Objecto
 
-1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino e o rastreio oncológico, nos termos dos seus Estatutos e no respeito pelas normas que o regem.
+1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, nos termos dos seus Estatutos e no respeito pelas normas que o regem.
 
 2 - O Instituto está integrado no Serviço Nacional de Saúde.
 
 3 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 3.º — Sucessão
 
@@ -345,11 +363,13 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 ###### Artigo 3.º — Objecto e duração
 
-1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino e o rastreio oncológico, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.
+1 - O Instituto tem por objecto a prestação de serviços de saúde no domínio da oncologia, bem como a investigação, o ensino, o registo e o rastreio oncológicos, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.
 
 2 - O Instituto pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.
 
 3 - O Instituto está integrado no Serviço Nacional de Saúde e é constituído por tempo ilimitado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 4.º — Capital social e acções
 

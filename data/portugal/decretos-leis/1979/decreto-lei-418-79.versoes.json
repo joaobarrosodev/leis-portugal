@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:364877:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-10-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2bb4e651a9d5873"
+   ]
+  },
+  {
+   "date": "1995-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521238:por",
+     "title": "Decreto-Lei n.º 131/95",
+     "published": "1995-06-06",
+     "dre_path": "/dr/detalhe/decreto-lei/131-1995-521238"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "2d5589768a21f145",
+    "bb0dc301711ece9d",
+    "e03744e5e4abeffb"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2bb4e651a9d5873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Outubro\n\n1. Tem-se verificado, com alguma frequência, que a demora na integração na Conservatória dos Registos Centrais dos actos de registo civil realizados nos consulados portugueses no estrangeiro não se coaduna com situações de urgência no domínio da prova.\n\n2. Verifica-se, por outro lado, que são especialmente afectados nos seus interesses os emigrantes portugueses durante a sua estada em Portugal, por vezes de curta duração.\n\n3. Torna-se, por isso, indispensável providenciar no sentido de eliminar as dificuldades referidas nos números anteriores reconhecendo-se, na ordem interna, valor próprio e directo às certidões extraídas pelos serviços consulares dos actos de registo lavrados nos seus livros, sempre que se demonstre que a respectiva transcrição ou integração na Conservatória dos Registos Centrais não se encontra ainda efectuada.\n\n4. Aproveita-se a oportunidade para esclarecer que continua em vigor o disposto nos artigos 1.º a 5.º do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º O artigo 6.º do Código do Registo Civil passa a ter a seguinte redacção:\n\nArt. 6.º - 1 - ...\n\n2 - ...\n\n3 - Em casos de manifesta urgência e provando os interessados que o registo do acto realizado no estrangeiro ainda não está integrado na Conservatória dos Registos Centrais, podem as certidões emitidas pelos serviços consulares ser aceites como prova do registo respectivo.\n\nArt. 2.º Mantêm-se em vigor as disposições do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho, relativas ao ingresso no registo civil português dos actos do estado civil lavrados nas ex-colónias, respeitantes a cidadãos portugueses.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.\n\nPromulgado em 8 de Outubro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "2d5589768a21f145": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Outubro\n\n1. Tem-se verificado, com alguma frequência, que a demora na integração na Conservatória dos Registos Centrais dos actos de registo civil realizados nos consulados portugueses no estrangeiro não se coaduna com situações de urgência no domínio da prova.\n\n2. Verifica-se, por outro lado, que são especialmente afectados nos seus interesses os emigrantes portugueses durante a sua estada em Portugal, por vezes de curta duração.\n\n3. Torna-se, por isso, indispensável providenciar no sentido de eliminar as dificuldades referidas nos números anteriores reconhecendo-se, na ordem interna, valor próprio e directo às certidões extraídas pelos serviços consulares dos actos de registo lavrados nos seus livros, sempre que se demonstre que a respectiva transcrição ou integração na Conservatória dos Registos Centrais não se encontra ainda efectuada.\n\n4. Aproveita-se a oportunidade para esclarecer que continua em vigor o disposto nos artigos 1.º a 5.º do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "bb0dc301711ece9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1995-06-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), publicado em 1995-06-06."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), publicado em 1995-06-06."
+  },
+  "e03744e5e4abeffb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nMantêm-se em vigor as disposições do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho, relativas ao ingresso no registo civil português dos actos do estado civil lavrados nas ex-colónias, respeitantes a cidadãos portugueses.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.\n\nPromulgado em 8 de Outubro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

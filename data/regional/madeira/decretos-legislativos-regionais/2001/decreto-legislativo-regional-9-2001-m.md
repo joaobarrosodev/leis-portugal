@@ -38,10 +38,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-01-10'
+version_history:
+  file: decreto-legislativo-regional-9-2001-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-10'
+    amending: pt:dre:207852:por
+    amending_title: Decreto Legislativo Regional n.º 11/2002/M; Decreto Legislativo Regional n.º 2/2018/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo ANEXO — Estatutos da Sociedade de Desenvolvimento do Norte, S. A.::1.º
+    - Altera Artigo ANEXO — Estatutos da Sociedade de Desenvolvimento do Norte, S. A.::3.º
+    - Altera Artigo ANEXO — Estatutos da Sociedade de Desenvolvimento do Norte, S. A.::4.º
+    - Adita Artigo ANEXO — Estatutos da Sociedade de Desenvolvimento do Norte, S. A.::6.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/9/2001/05/10/m/dre/pt/html
@@ -67,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    11/2002/M; Decreto Legislativo Regional n.º 2/2018/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2001/decreto-legislativo-regional-9-2001-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,17 +197,21 @@ A Assembleia Legislativa Regional da Madeira decreta, nos termos das alíneas a)
 
 ###### Artigo 1.º
 
-1 - É constituída a Sociedade de Desenvolvimento do Norte, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por SDN, S. A.
+1 - É constituída a sociedade SDNM - Sociedade de Desenvolvimento do Norte da Madeira, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por SDNM, S. A.
 
-2 - A SDN, S. A., rege-se pelas disposições do presente diploma, pelos estatutos, pelas normas reguladoras das sociedades anónimas e demais legislação complementar.
+2 - A SDNM, S. A., rege-se pelas disposições do presente diploma, pelos estatutos, pelas normas reguladoras das sociedades anónimas e demais legislação complementar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 2.º
 
-A SDN, S. A., que prossegue fins de interesse público, tem por objecto social a concepção, promoção, construção e gestão de projectos, acções e empreendimentos que contribuam de forma integrada para o desenvolvimento económico, social, desportivo e cultural dos concelhos de Porto Moniz, São Vicente e Santana.
+A SDNM, S. A., que prossegue fins de interesse público, tem por objecto social a concepção, promoção, construção e gestão de projectos, acções e empreendimentos que contribuam de forma integrada para o desenvolvimento económico, social, desportivo e cultural dos concelhos de Porto Moniz, São Vicente e Santana.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 3.º
 
-Para a prossecução dos seus fins, nomeadamente no que se refere à construção e ou adaptação de infra-estruturas, são conferidos à SDN, S. A., para além de outros que lhe venham a ser expressamente atribuídos por lei, os seguintes poderes:
+Para a prossecução dos seus fins, nomeadamente no que se refere à construção e ou adaptação de infra-estruturas, são conferidos à SDNM, S. A., para além de outros que lhe venham a ser expressamente atribuídos por lei, os seguintes poderes:
 
 a) Os poderes para, segundo a lei, agir como entidade expropriante dos imóveis que sejam necessários à prossecução do seu escopo social e, para o efeito, declarados de utilidade pública por resolução do Conselho do Governo Regional;
 
@@ -190,25 +219,31 @@ b) O direito de utilizar e administrar os bens do domínio público da Região A
 
 c) Os poderes para proceder à gestão técnica, administrativa e financeira das intervenções operacionais incluídas no Quadro Comunitário de Apoio, no âmbito das iniciativas estruturais comunitárias a efectivar nos concelhos de Porto Moniz, São Vicente e Santana, mediante a celebração de contratos-programa com a Região Autónoma da Madeira e o Estado, conforme o disposto no artigo 35.º do [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, diploma alterado pelos Decretos-Leis n.os [1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551), de 4 de Janeiro, e [208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), de 14 de Julho.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
+
 ###### Artigo 4.º
 
 1 - O capital social é do montante de (euro) 500000, dividido em acções com o valor nominal de (euro) 5 cada uma, que será subscrito e realizado pela Região Autónoma da Madeira no valor de (euro) 275000 e pelas Câmaras Municipais de Porto Moniz, São Vicente e Santana no valor de (euro) 75000 cada uma.
 
-2 - Fica a SDN, S. A., autorizada a proceder a quaisquer aumentos do seu capital, desde que a Região Autónoma da Madeira ou qualquer pessoa colectiva de direito público que a represente mantenha uma participação social de percentagem não inferior a 51%.
+2 - Fica a SDNM, S. A., autorizada a proceder a quaisquer aumentos do seu capital, desde que a Região Autónoma da Madeira ou qualquer pessoa colectiva de direito público que a represente mantenha uma participação social de percentagem não inferior a 51.
 
-3 - Poderão participar no capital social da SDN, S. A., pelo seu aumento, outras pessoas colectivas de direito público, empresas públicas e sociedades participadas pela Região Autónoma da Madeira e ainda quaisquer entidades de natureza exclusivamente privada, desde que estas obedeçam aos requisitos que forem estabelecidos em negociações pela accionista Região Autónoma da Madeira, aprovados por resolução do Conselho do Governo.
+3 - Poderão participar no capital social da SDNM, S. A., pelo seu aumento, outras pessoas colectivas de direito público, empresas públicas e sociedades participadas pela Região Autónoma da Madeira e ainda quaisquer entidades de natureza exclusivamente privada, desde que estas obedeçam aos requisitos que forem estabelecidos em negociações pela accionista Região Autónoma da Madeira, aprovados por resolução do Conselho do Governo.
 
 4 - As acções representativas do capital subscritas pela Região Autónoma da Madeira serão detidas pela mesma e os seus direitos como accionista serão exercidos através do Conselho do Governo Regional, que poderá delegar em qualquer membro do Governo ou em qualquer pessoa colectiva de direito público.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
+
 ###### Artigo 5.º
 
-1 - São aprovados os estatutos da SDN, S. A., publicados em anexo ao presente diploma e do qual fazem parte integrante.
+1 - São aprovados os estatutos da SDNM, S. A., publicados em anexo ao presente diploma e do qual fazem parte integrante.
 
 2 - O presente diploma é título bastante para a comprovação do estabelecido nos números anteriores, para todos os efeitos legais, incluindo os de registo, que deverá ser efectuado com base no Jornal Oficial da Região Autónoma da Madeira e no Diário da República em que hajam sido publicados os respectivos estatutos.
 
 3 - Os actos necessários ao registo da constituição, bem como todas as alterações aos estatutos, estão isentos de quaisquer taxas ou emolumentos notariais, de registo ou de outro tipo.
 
 4 - As alterações aos estatutos realizam-se nos termos da lei comercial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 6.º
 
@@ -222,13 +257,17 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 ###### Artigo 7.º
 
-1 - As obras a realizar pela SDN, S. A., ficam sujeitas ao disposto no [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos, desde que nos respectivos títulos esteja prevista a aplicação subsidiária daquele regime ou expressa, por qualquer forma, a subordinação do contratante às exigências do interesse público da conclusão atempada da obra ou fornecimento.
+1 - As obras a realizar pela SDNM, S. A., ficam sujeitas ao disposto no Decreto-Lei n.º 59/99, de 2 de Março, e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos, desde que nos respectivos títulos esteja prevista a aplicação subsidiária daquele regime ou expressa, por qualquer forma, a subordinação do contratante às exigências do interesse público da conclusão atempada da obra ou fornecimento.
 
-2 - À SDN, S. A., são ainda conferidos os poderes e prerrogativas da Região Autónoma da Madeira quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar.
+2 - À SDNM, S. A., são ainda conferidos os poderes e prerrogativas da Região Autónoma da Madeira quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito à indemnização a que houver lugar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 8.º
 
-Os funcionários de serviços públicos, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na SDN, S. A., em regime de requisição ou de comissão de serviço.
+Os funcionários de serviços públicos, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções na SDNM, S. A., em regime de requisição ou de comissão de serviço.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 9.º
 
@@ -248,9 +287,11 @@ O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monte
 
 ###### Artigo 1.º — Denominação e duração
 
-1 - A sociedade adopta a forma de sociedade anónima e a denominação de Sociedade de Desenvolvimento do Norte, S. A., abreviadamente designada por SDN, S. A.
+1 - A sociedade adopta a forma de sociedade anónima e a denominação de SDNM - Sociedade de Desenvolvimento do Norte da Madeira, S. A., abreviadamente designada por SDNM, S. A.
 
 2 - A duração da Sociedade é por tempo indeterminado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 2.º — Sede
 
@@ -262,7 +303,7 @@ O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monte
 
 ###### Artigo 3.º — Objecto
 
-1 - A SDN, S. A., que prossegue fins de interesse público, tem por objecto social a concepção, promoção, construção e gestão de projectos, acções e empreendimentos que contribuam de forma integrada para o desenvolvimento económico, social, desportivo e cultural dos concelhos de Porto Moniz, São Vicente e Santana.
+1 - A SDNM, S. A., que prossegue fins de interesse público, tem por objecto social a concepção, promoção, construção e gestão de projectos, acções e empreendimentos que contribuam de forma integrada para o desenvolvimento económico, social, desportivo e cultural dos concelhos de Porto Moniz, São Vicente e Santana.
 
 2 - Na realização do seu objecto social, a Sociedade, na medida dos meios técnicos e humanos disponíveis e com a colaboração dos órgãos competentes do Governo Regional e das autarquias locais, visa ainda:
 
@@ -272,9 +313,11 @@ b) Participação no lançamento e na exploração de pólos de desenvolvimento 
 
 c) Divulgar toda a informação relevante para o investimento e o desenvolvimento económico e social dos três concelhos.
 
-3 - A prossecução do objecto social da SDN, S. A., não envolve a realização de operações financeiras, nomeadamente as previstas nas alíneas b) a g) do n.º 1 do artigo 7.º e no artigo 13.º do [Decreto-Lei n.º 25/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1991-693845), de 11 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 247/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), de 7 de Outubro.
+3 - A prossecução do objecto social da SDNM, S. A., não envolve a realização de operações financeiras, nomeadamente as previstas nas alíneas b) a g) do n.º 1 do artigo 7.º e no artigo 13.º do Decreto-Lei n.º 25/91, de 11 de Janeiro, com as alterações introduzidas pelo Decreto-Lei n.º 247/94, de 7 de Outubro.
 
 4 - A Sociedade poderá adquirir, a título originário ou derivado, participações no capital de sociedades cujo objecto social esteja, directa ou indirectamente, relacionado com o seu, bem como, por alguma forma, alienar ou onerar as que estejam integradas no seu património.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
@@ -282,9 +325,11 @@ c) Divulgar toda a informação relevante para o investimento e o desenvolviment
 
 1 - O capital social é do montante de (euro) 500000, dividido em acções com o valor nominal de (euro) 5 cada uma, que será subscrito e realizado pela Região Autónoma da Madeira no valor de (euro) 275000 e pelas Câmaras Municipais de Porto Moniz, São Vicente e Santana no valor de (euro) 75000 cada uma.
 
-2 - Poderão participar no capital social da SDN, S. A., pelo seu aumento, outras pessoas colectivas de direito público, empresas públicas e sociedades participadas pela Região Autónoma da Madeira e ainda quaisquer entidades de natureza exclusivamente privada, desde que estas obedeçam aos requisitos que forem estabelecidos em negociações pela accionista Região Autónoma da Madeira, aprovados por resolução do Conselho do Governo.
+2 - Poderão participar no capital social da SDNM, S. A., pelo seu aumento, outras pessoas colectivas de direito público, empresas públicas e sociedades participadas pela Região Autónoma da Madeira e ainda quaisquer entidades de natureza exclusivamente privada, desde que estas obedeçam aos requisitos que forem estabelecidos em negociações pela accionista Região Autónoma da Madeira, aprovados por resolução do Conselho do Governo.
 
 3 - As acções são nominativas e revestem a forma escritural.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2002-207852), publicado em 2002-07-16.
 
 ###### Artigo 5.º — Transmissão de acções e direito de preferência
 
@@ -301,6 +346,14 @@ c) Divulgar toda a informação relevante para o investimento e o desenvolviment
 1 - A Sociedade pode ainda emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - As obrigações a que se refere o número anterior podem ser emitidas tanto por subscrição pública como privada.
+
+###### Artigo 6.º-A — Cobrança coerciva de dívidas
+
+1 - Os créditos da 'Sociedade de Desenvolvimento do Norte da Madeira, S. A.', relativos a taxas, rendas de concessões, coimas ou quaisquer outros que tenham por causa o exercício de poderes públicos ou de interesse público, assim como os provenientes de contratos escritos ou verbais e de outros documentos relativos a bens cuja gestão, exploração e utilização lhe foi conferida em regime de serviço público com poderes e prerrogativas de autoridade, encontram-se sujeitos à cobrança coerciva nos termos do processo de execução fiscal regulado no Código de Procedimento e de Processo Tributário, através da Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira (AT-RAM), sendo tais créditos equiparados, para todos os efeitos legais, a créditos da Região Autónoma da Madeira.
+
+2 - Para efeitos de aplicação do disposto no número anterior, é emitida certidão com valor de título executivo, conforme o disposto nos artigos 162.º e 163.º do Código do Procedimento e do Processo Tributário, pelo departamento do Governo Regional com a tutela das finanças, após comunicação dos valores em falta por parte da 'Sociedade de Desenvolvimento do Norte da Madeira, S. A.'
+
+> Aditado pelo/a Artigo 57.º do/a [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), publicado em 2018-01-09.
 
 ### CAPÍTULO III — Órgãos sociais
 

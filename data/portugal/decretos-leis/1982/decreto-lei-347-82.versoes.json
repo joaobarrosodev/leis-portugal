@@ -1,0 +1,210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374434:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "68613c224a3dfce1",
+    "03c857735bd37578",
+    "56957fc96026241b",
+    "e738af47b787ee3d",
+    "216b1eb838cab02d",
+    "491c43526dee5548",
+    "830cfadad2d2f532",
+    "f0d3bedef46ace0a",
+    "d4f13847729b0bef",
+    "c9680bb1b723f431"
+   ]
+  },
+  {
+   "date": "1992-11-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216106:por",
+     "title": "Decreto-Lei n.º 247/92",
+     "published": "1992-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/247-1992-216106"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "68613c224a3dfce1",
+    "1a57ec24db718968",
+    "fd772c9acb70f3ae",
+    "a9b514815c4683e7",
+    "d44aecc6ca1a388a",
+    "5a8a97453719ed59",
+    "e39a4455523a8160",
+    "8fa187de2fa74960",
+    "6d3f61e1f006e03f",
+    "caa355ea7fe13812"
+   ]
+  }
+ ],
+ "fragments": {
+  "68613c224a3dfce1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Setembro\n\nEncontrando-se satisfeitas as condições necessárias para o funcionamento das Escolas Superiores Agrárias de Coimbra e de Santarém e iniciadas as suas actividades escolares, pode finalmente proceder-se à extinção das Escolas de Regentes Agrícolas, dando-se cumprimento a legislação anteriormente publicada sobre tal matéria.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "03c857735bd37578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Extinção das Escolas de Regentes Agrícolas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Extinção das Escolas de Regentes Agrícolas)\n\nSão extintas, com efeitos a partir de 31 de Outubro de 1982, as Escolas de Regentes Agrícolas de Coimbra e de Santarém."
+  },
+  "56957fc96026241b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Destino do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Destino do pessoal)\n\nO pessoal em serviço nas Escolas referidas no artigo anterior, terá à data da respectiva extinção, o seguinte destino:\n\na) Transição para as Escolas Superiores Agrárias de Coimbra e de Santarém;\n\nb) Constituição em excedente e consequente ingresso no respectivo quadro de efectivos interdepartamentais."
+  },
+  "e738af47b787ee3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Transição do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Transição do pessoal)\n\n1 - Será seleccionado, para efeitos da transição prevista na alínea a) do artigo anterior, todo o pessoal das Escolas de Regentes Agrícolas, pertencente ou não aos quadros, à excepção dos funcionários e agentes das seguintes carreiras e categorias:\n\na) Professores provisórios;\n\nb) Professores efectivos do 8.º e 9.º grupos, previstos no n.º 1 do artigo 67.º do Decreto-Lei n.º 38026, de 2 de Novembro de 1950;\n\nc) Professores de Educação Física;\n\nd) Regentes de internato efectivos e provisórios;\n\ne) Regentes de trabalhos provisórios;\n\nf) Ex-subdirector com a categoria que foi fixada pelo artigo 26.º do Decreto-Lei n.º 38026, de 2 de Novembro de 1950.\n\n2 - Os critérios de selecção de pessoal terão em atenção a necessidade de garantir a melhor adequação entre as características e qualificações profissionais de cada um dos funcionários e agentes e as exigências inerentes aos postos de trabalho a prover.\n\n3 - A selecção dos professores efectivos não excepcionados nas alíneas do n.º 1 terá por base a apreciação, pela comissão coordenadora das Escolas Superiores Agrárias, dos respectivos curricula.\n\n4 - A selecção dos regentes de trabalhos efectivos, bem como do restante pessoal das Escolas de Regentes Agrícolas, será realizada pelas comissões instaladoras das correspondentes Escolas Superiores Agrárias e proposta à comissão coordenadora referida no número anterior, devendo aquelas objectivar os critérios de adequação expressos no n.º 2, sempre que possível."
+  },
+  "216b1eb838cab02d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Constituição de excedentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Constituição de excedentes)\n\n1 - Serão constituídos em excedentes, desde que reúnam os requisitos previstos na legislação aplicável:\n\na) O pessoal referido nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Os professores efectivos, regentes de trabalhos efectivos e restante pessoal não seleccionado para transitar para as Escolas Superiores Agrárias.\n\n2 - Para efeitos do disposto no número anterior é criado junto da Secretaria-Geral do Ministério da Educação o respectivo quadro de efectivos interdepartamentais, no qual ingressarão automaticamente os efectivos que venham a ser constituídos em excedentes nos termos do presente diploma e, bem assim, todos os originários de serviços ou organismos dependentes ou tutelados por aquele Ministério."
+  },
+  "491c43526dee5548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Formalidades a observar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Formalidades a observar)\n\n1 - A transição do pessoal seleccionado nos termos previstos no artigo 3.º está sujeita às seguintes formalidades:\n\na) Despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa;\n\nb) Anotação do Tribunal de Contas;\n\nc) Publicação no Diário da República.\n\n2 - Os despachos a que alude o n.º 1 poderão assumir a forma de listas nominativas e mencionarão o nome, categoria, letra de vencimento e vínculo de cada um dos funcionários e agentes abrangidos.\n\n3 - Para efeitos do disposto no número anterior, o pessoal que transitar para as Escolas Superiores Agrárias de Coimbra e de Santarém manterá o vínculo, categoria e vencimento que possuía nas Escolas de Regentes Agrícolas a que pertencia, salvo no que respeita aos professores efectivos, cuja situação pode vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n4 - Os efectivos objecto de transição, nos termos do disposto nos artigos anteriores, serão automaticamente abrangidos pelos mapas de pessoal das Escolas Superiores Agrárias de Coimbra e de Santarém.\n\n5 - A constituição em excedente do pessoal mencionado no artigo 4.º far-se-á nos termos da legislação aplicável, sem prejuízo de a situação dos professores efectivos referidos na alínea b) do n.º 1 do artigo 3.º poder vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e [826/82](https://diariodarepublica.pt/dr/detalhe/portaria/826-1982-374637) ?."
+  },
+  "830cfadad2d2f532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Prazo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Prazo)\n\nOs trabalhos necessários à selecção, bem como à constituição em excedente, do pessoal das Escolas de Regentes Agrícolas de Coimbra e de Santarém deverão estar concluídos até à data fixada no artigo 1.º do presente diploma."
+  },
+  "f0d3bedef46ace0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Disposições finais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Disposições finais)\n\n1 - São transferidos para as Escolas Superiores Agrárias de Coimbra e de Santarém o património e os serviços das Escolas de Regentes Agrícolas de Coimbra e de Santarém, respectivamente, bem como os direitos e obrigações de que estas forem titulares.\n\n2 - A documentação das Escolas de Regentes Agrícolas de Coimbra e de Santarém transita, respectivamente, para as Escolas Superiores Agrárias de Coimbra e de Santarém, assim como a obrigação da passagem das correspondentes certidões."
+  },
+  "d4f13847729b0bef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Providências orçamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Providências orçamentais)\n\n1 - As verbas orçamentadas para a satisfação dos encargos com os funcionários e agentes que venham a ser constituídos em excedentes são transferidas para o serviço gestor do quadro de efectivos interdepartamentais referido no n.º 2 do artigo 4.º\n\n2 - Os saldos das dotações orçamentais das Escolas de Regentes Agrícolas de Coimbra e de Santarém, apurados à data da sua extinção, e após a transferência prevista no número anterior, são transferidos para as Escolas Superiores Agrárias de Coimbra e de Santarém, respectivamente.\n\n3 - Até ao cumprimento integral do disposto nos n.os 1 e 2 os vencimentos e demais abonos do pessoal das Escolas de Regentes Agrícolas de Coimbra e de Santarém que tenha transitado ou sido constituído em excedente poderão ser processados pelas Escolas Superiores Agárias de Coimbra e de Santarém e pelo serviço gestor do quadro de efectivos interdepartamentais, respectivamente, por conta das correspondentes verbas dos orçamentos das Escolas agora extintas."
+  },
+  "c9680bb1b723f431": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Resolução de dúvidas)\n\nAs dúvidas emergentes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa, de harmonia com a respectiva competência.\n\nVisto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.\n\nPromulgado em 28 de Junho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "1a57ec24db718968": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Extinção das Escolas de Regentes Agrícolas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Extinção das Escolas de Regentes Agrícolas)\n\nSão extintas, com efeitos a partir de 31 de Outubro de 1982, as Escolas de Regentes Agrícolas de Coimbra e de Santarém."
+  },
+  "fd772c9acb70f3ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Destino do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Destino do pessoal)\n\nO pessoal em serviço nas Escolas referidas no artigo anterior, terá à data da respectiva extinção, o seguinte destino:\n\na) Transição para as Escolas Superiores Agrárias de Coimbra e de Santarém;\n\nb) Constituição em excedente e consequente ingresso no respectivo quadro de efectivos interdepartamentais."
+  },
+  "a9b514815c4683e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Transição do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Transição do pessoal)\n\n1 - Será seleccionado, para efeitos da transição prevista na alínea a) do artigo anterior, todo o pessoal das Escolas de Regentes Agrícolas, pertencente ou não aos quadros, à excepção dos funcionários e agentes das seguintes carreiras e categorias:\n\na) Professores provisórios;\n\nb) Professores efectivos do 8.º e 9.º grupos, previstos no n.º 1 do artigo 67.º do Decreto-Lei n.º 38026, de 2 de Novembro de 1950;\n\nc) Professores de Educação Física;\n\nd) Regentes de internato efectivos e provisórios;\n\ne) Regentes de trabalhos provisórios;\n\nf) Ex-subdirector com a categoria que foi fixada pelo artigo 26.º do Decreto-Lei n.º 38026, de 2 de Novembro de 1950.\n\n2 - Os critérios de selecção de pessoal terão em atenção a necessidade de garantir a melhor adequação entre as características e qualificações profissionais de cada um dos funcionários e agentes e as exigências inerentes aos postos de trabalho a prover.\n\n3 - A selecção dos professores efectivos não excepcionados nas alíneas do n.º 1 terá por base a apreciação, pela comissão coordenadora das Escolas Superiores Agrárias, dos respectivos curricula.\n\n4 - A selecção dos regentes de trabalhos efectivos, bem como do restante pessoal das Escolas de Regentes Agrícolas, será realizada pelas comissões instaladoras das correspondentes Escolas Superiores Agrárias e proposta à comissão coordenadora referida no número anterior, devendo aquelas objectivar os critérios de adequação expressos no n.º 2, sempre que possível."
+  },
+  "d44aecc6ca1a388a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Constituição de excedentes)",
+   "in_force_from": "1992-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), publicado em 1992-11-07."
+   ],
+   "markdown": "###### Artigo 4.º — (Constituição de excedentes)\n\n1 - Serão constituídos em excedentes, desde que reúnam os requisitos previstos na legislação aplicável:\n\na) O pessoal referido nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Os professores efectivos, regentes de trabalhos efectivos e restante pessoal não seleccionado para transitar para as Escolas Superiores Agrárias.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), publicado em 1992-11-07."
+  },
+  "5a8a97453719ed59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Formalidades a observar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Formalidades a observar)\n\n1 - A transição do pessoal seleccionado nos termos previstos no artigo 3.º está sujeita às seguintes formalidades:\n\na) Despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa;\n\nb) Anotação do Tribunal de Contas;\n\nc) Publicação no Diário da República.\n\n2 - Os despachos a que alude o n.º 1 poderão assumir a forma de listas nominativas e mencionarão o nome, categoria, letra de vencimento e vínculo de cada um dos funcionários e agentes abrangidos.\n\n3 - Para efeitos do disposto no número anterior, o pessoal que transitar para as Escolas Superiores Agrárias de Coimbra e de Santarém manterá o vínculo, categoria e vencimento que possuía nas Escolas de Regentes Agrícolas a que pertencia, salvo no que respeita aos professores efectivos, cuja situação pode vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n4 - Os efectivos objecto de transição, nos termos do disposto nos artigos anteriores, serão automaticamente abrangidos pelos mapas de pessoal das Escolas Superiores Agrárias de Coimbra e de Santarém.\n\n5 - A constituição em excedente do pessoal mencionado no artigo 4.º far-se-á nos termos da legislação aplicável, sem prejuízo de a situação dos professores efectivos referidos na alínea b) do n.º 1 do artigo 3.º poder vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e [826/82](https://diariodarepublica.pt/dr/detalhe/portaria/826-1982-374637) ?."
+  },
+  "e39a4455523a8160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Prazo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Prazo)\n\nOs trabalhos necessários à selecção, bem como à constituição em excedente, do pessoal das Escolas de Regentes Agrícolas de Coimbra e de Santarém deverão estar concluídos até à data fixada no artigo 1.º do presente diploma."
+  },
+  "8fa187de2fa74960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Disposições finais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Disposições finais)\n\n1 - São transferidos para as Escolas Superiores Agrárias de Coimbra e de Santarém o património e os serviços das Escolas de Regentes Agrícolas de Coimbra e de Santarém, respectivamente, bem como os direitos e obrigações de que estas forem titulares.\n\n2 - A documentação das Escolas de Regentes Agrícolas de Coimbra e de Santarém transita, respectivamente, para as Escolas Superiores Agrárias de Coimbra e de Santarém, assim como a obrigação da passagem das correspondentes certidões."
+  },
+  "6d3f61e1f006e03f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Providências orçamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Providências orçamentais)\n\n1 - As verbas orçamentadas para a satisfação dos encargos com os funcionários e agentes que venham a ser constituídos em excedentes são transferidas para o serviço gestor do quadro de efectivos interdepartamentais referido no n.º 2 do artigo 4.º\n\n2 - Os saldos das dotações orçamentais das Escolas de Regentes Agrícolas de Coimbra e de Santarém, apurados à data da sua extinção, e após a transferência prevista no número anterior, são transferidos para as Escolas Superiores Agrárias de Coimbra e de Santarém, respectivamente.\n\n3 - Até ao cumprimento integral do disposto nos n.os 1 e 2 os vencimentos e demais abonos do pessoal das Escolas de Regentes Agrícolas de Coimbra e de Santarém que tenha transitado ou sido constituído em excedente poderão ser processados pelas Escolas Superiores Agárias de Coimbra e de Santarém e pelo serviço gestor do quadro de efectivos interdepartamentais, respectivamente, por conta das correspondentes verbas dos orçamentos das Escolas agora extintas."
+  },
+  "caa355ea7fe13812": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Resolução de dúvidas)\n\nAs dúvidas emergentes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa, de harmonia com a respectiva competência.\n\nVisto e aprovado em Conselho de Ministros de 22 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.\n\nPromulgado em 28 de Junho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

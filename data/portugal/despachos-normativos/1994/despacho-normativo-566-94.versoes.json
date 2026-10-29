@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231875:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "21490d0127bf46b9",
+    "8f93d20e0f65d2d5",
+    "17705ad95462e7ea",
+    "c39a7aea59ba746e",
+    "941d03440fec208f",
+    "28db7784baa8183c",
+    "420063105e3ad40e",
+    "4faa35bb8d23f107",
+    "292c0c84d62b6569",
+    "404a602df0fb927b",
+    "d983d25b1657619c"
+   ]
+  },
+  {
+   "date": "1994-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:354293:por",
+     "title": "Declaração de Rectificação n.º 148/94",
+     "published": "1994-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/148-1994-354293"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "21490d0127bf46b9",
+    "8f93d20e0f65d2d5",
+    "17705ad95462e7ea",
+    "c39a7aea59ba746e",
+    "941d03440fec208f",
+    "28db7784baa8183c",
+    "f3c5d653b28052af",
+    "4faa35bb8d23f107",
+    "292c0c84d62b6569",
+    "404a602df0fb927b",
+    "d983d25b1657619c"
+   ]
+  }
+ ],
+ "fragments": {
+  "21490d0127bf46b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIDE0504)\n\nRegime de Apoio aos Fundos de Gestão do Património Imobiliário\n\nO [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.\n\nNo âmbito do PEDIP II insere-se o Sistema de Incentivos à Engenharia Financeira para Apoio às Empresas (SINFEPEDIP), o qual prevê, nos termos do disposto no n.º I, n.º 5, da [Resolução do Conselho de Ministros n.º 50/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1994-291631), de 1 de Julho, vir a ser desenvolvido em regimes de apoio específicos.\n\nDeste modo, é pelo presente despacho regulamentado o Regime de Apoio aos Fundos de Gestão do Património Imobiliário.\n\nAssim, determina-se o seguinte:"
+  },
+  "8f93d20e0f65d2d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente despacho visa regulamentar o Regime de Apoio aos Fundos de Gestão do Património Imobiliário previsto na alínea d) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 562/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/562-1994-231883) (IIDG05), o qual tem como objectivo contribuir para melhor adequar a situação patrimonial das empresas às necessidades de exploração, possibilitando-lhes a obtenção de meios financeiros mediante a utilização racional do seu património."
+  },
+  "17705ad95462e7ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regime consubstancia-se no apoio à actividade das sociedades gestoras de fundos de investimento imobiliário que administram fundos vocacionados para a aquisição de bens imóveis de empresas industriais não afectos à exploração, assegurando-se uma cobertura parcial das menos-valias que venham a ocorrer na alienação dos referidos bens.\n\n2 - As operações apoiáveis destinam-se apenas a ser aplicadas na aquisição de bens imóveis de empresas industriais que pretendam concretizar projectos de investimento de reestruturação, racionalização ou conversão, tecnológica ou financeira, ou de internacionalização, no âmbito do PEDIP II ou de outras iniciativas que concorram para os objectivos da política industrial."
+  },
+  "c39a7aea59ba746e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismo gestor\n\nO organismo responsável pela gestão do presente Regime é o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI)."
+  },
+  "941d03440fec208f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades beneficiárias\n\nSão beneficiários dos apoios concedidos os fundos de gestão do património imobiliário, adiante também designados por FUNGEPI, sendo as candidaturas promovidas pelas sociedades gestoras dos referidos fundos."
+  },
+  "28db7784baa8183c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso do promotor\n\nConstituem condições de acesso dos promotores:\n\na) Encontrar-se constituídos à data de apresentação da candidatura;\n\nb) Possuir a estrutura organizacional, os meios financeiros e os recursos humanos qualificados que lhes confiram capacidade técnica adequada às exigências da sua actividade;\n\nc) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento das operações;\n\nd) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao IAPMEI."
+  },
+  "420063105e3ad40e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso do projecto\n\nAs operações a apoiar devem corresponder à alineação de activos que haviam sido adquiridos pelo fundo, associada ao financiamento de projectos de investimento apoiados no âmbito do PEDIP II ou de outras iniciativas que concorram para os objectivos da política industrial e enquadrados no objecto principal dos FUNGEPI."
+  },
+  "4faa35bb8d23f107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\nSão critérios de selecção, designadamente, a inserção nos objectivos globais do PEDIP II e nos específicos do presente Regime."
+  },
+  "292c0c84d62b6569": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio\n\n1 - O apoio a conceder ao abrigo do presente Regime, sob a forma de garantia, assume o princípio de partilha de menos-valias com os FUNGEPI.\n\n2 - Complementarmente ao regime estabelecido no [Decreto-Lei n.º 316/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1993-655520), de 21 de Setembro, será assegurado aos FUNGEPI o valor correspondente a 50% do montante das menos-valias ocorridas dentro do período de vigência do PEDIP II, até ao montante máximo de 50000 contos por operação."
+  },
+  "404a602df0fb927b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de candidaturas\n\nA apresentação de candidaturas ao presente Regime é contínua e independente, devendo ser formalizada de acordo com o disposto no artigo 8.º do [Despacho Normativo n.º 562/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/562-1994-231883) (IIDG05)."
+  },
+  "d983d25b1657619c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência e prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência e prazo de apreciação\n\nCompete ao IAPMEI a análise do processo de candidatura, emitindo parecer fundamentado no prazo de 60 dias úteis contados da data de apresentação da candidatura.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "f3c5d653b28052af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso do projecto",
+   "in_force_from": "1994-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 148/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/148-1994-354293), publicado em 1994-09-30."
+   ],
+   "markdown": "###### Artigo 6.º — Condições de acesso do projecto\n\nAs operações a apoiar devem corresponder à alienação de activos que haviam sido adquiridos pelo fundo, associada ao financiamento de projectos de investimento apoiados no âmbito do PEDIP II ou de outras iniciativas que concorram para os objectivos da política industrial e enquadrados no objecto principal dos FUNGEPI.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 148/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/148-1994-354293), publicado em 1994-09-30."
+  }
+ }
+}

@@ -38,10 +38,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-01'
+version_history:
+  file: decreto-lei-324-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: pt:dre:124324704:por
+    amending_title: Decreto-Lei n.º 132/2019
+    changes:
+    - Revoga Artigo 53.º
+    - Revoga Artigo 53.º
+    - Revoga Artigo 53.º
+    - Revoga Artigo 54.º
+    - Revoga Artigo 55.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 58.º
+    - Revoga Artigo 59.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -67,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:26:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 132/2019. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-324-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1148,111 +1173,69 @@ n) Participar na constituição de equipas interdisciplinares, coordenadas a ní
 
 ###### Artigo 53.º — Provimento do pessoal dirigente e de chefia
 
-1 - O provimento dos lugares do pessoal dirigente ou a este equiparado pelo presente diploma é feito nos termos da lei geral, sem prejuízo do disposto nos números seguintes.
+1 - (Revogado.)
 
-2 - Os lugares de director do Gabinete de Auditoria Interna, de director das Direcções das Alfândegas de Lisboa e do Porto e de director das Alfândegas do Funchal e de Ponta Delgada são providos de entre funcionários com categoria não inferior a reverificador.
+2 - (Revogado.)
 
-3 - O lugar de director de alfândega é provido de entre funcionários com categoria não inferior a primeiro-verificador superior.
+3 - (Revogado.)
 
 4 - O lugar de chefe de delegação é provido por despacho do director-geral, em comissão de serviço pelo período de um ano, renovável por igual período, de entre funcionários com categoria não inferior a primeiro-verificador superior, segundo-verificador superior com pelo menos dois anos de serviço efectivo ou técnico verificador especialista com reconhecida competência para o exercício das funções.
 
 5 - A comissão de serviço referida no número anterior considera-se automaticamente renovada se até 30 dias antes do seu termo não tiver sido manifestada, expressamente, pelo director-geral ou pelo funcionário a intenção de a fazer cessar.
 
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+
 ###### Artigo 54.º — Mobilidade interna
 
-São instrumentos de mobilidade interna a deslocação e a deslocação temporária.
+(Revogado.)
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 55.º — Deslocação
 
-1 - A deslocação consiste na ocupação de novo posto de trabalho em serviço situado em localidade diferente daquela onde o funcionário se encontrava a exercer funções.
+(Revogado.)
 
-2 - Para efeito do disposto no número anterior entende-se por localidade:
-
-a) A área do município onde se situa o serviço;
-
-b) A área do município e dos municípios limítrofes, no caso de Lisboa e Porto;
-
-c) A área correspondente a cada ilha, no caso das Regiões Autónomas dos Açores e da Madeira.
-
-3 - A deslocação é autorizada por despacho do director-geral e faz-se, em regra, por iniciativa, devidamente publicitada, do serviço competente, com o acordo do funcionário.
-
-4 - Pode ainda ser feita a pedido do funcionário, por permuta ou, quando por todos estes meios não seja possível efectuá-la, por concurso de promoção.
-
-5 - A deslocação a pedido do funcionário ou por permuta só será concedida se não houver inconveniente para os serviços, devendo a segunda ser sempre requerida por funcionário pertencente à mesma carreira.
-
-6 - À deslocação por concurso de promoção podem candidatar-se os funcionários que, sem prejuízo dos demais requisitos exigidos pela lei, possuam dois anos de serviço na categoria classificados de Muito bom.
-
-7 - Aos concursos referidos no número anterior, que só serão abertos para categorias de acesso das carreiras aduaneiras, são aplicáveis as regras previstas na lei geral para o concurso interno condicionado, salvo quanto ao número de vagas existentes e de potenciais candidatos.
-
-8 - Ao funcionário deslocado por concurso de promoção não é aplicável o disposto no presente artigo nem no artigo seguinte, antes de decorrido um período de três anos de permanência no serviço da sua nova colocação.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 56.º — Deslocação temporária
 
-1 - Considera-se temporária a deslocação, nos termos dos n.os 1 e 2 do artigo anterior, por período não inferior a um ano nem superior a dois, findo o qual o funcionário tem direito a regressar ao serviço de origem.
+(Revogado.)
 
-2 - A deslocação temporária faz-se por conveniência de serviço ou a pedido do funcionário.
-
-3 - A deslocação temporária por conveniência de serviço é determinada por despacho do director-geral, podendo esta competência ser delegada nos directores das Direcções das Alfândegas de Lisboa e do Porto ou das demais alfândegas para as deslocações que ocorram nas respectivas áreas de jurisdição.
-
-4 - A deslocação temporária a pedido é autorizada pelas entidades e nos termos referidos no número anterior.
-
-5 - A deslocação temporária por conveniência de serviço é feita pelo período máximo de um ano, preferindo os funcionários mais modernos na categoria, de acordo com a última lista de antiguidades publicada.
-
-6 - O período de deslocação referido no número anterior só pode ser excedido com o acordo do funcionário e com observância do limite mencionado no n.º 1.
-
-7 - O funcionário que pretenda permanecer no serviço onde está deslocado temporariamente para além do limite máximo previsto no n.º 1 deve requerer a sua deslocação para aquele serviço, nos termos do artigo anterior, não dando esta direito à atribuição de qualquer subsídio.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 57.º — Mobilidade de pessoal entre serviços situados na mesma localidade
 
-A mobilidade de pessoal entre serviços situados na mesma localidade faz-se por despacho do director-geral, podendo esta competência ser delegada nos directores das Direcções das Alfândegas de Lisboa e do Porto ou das demais alfândegas sempre que aquela ocorra na área da respectiva jurisdição.
+(Revogado.)
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 58.º — Transporte dos funcionários
 
-1 - Os funcionários têm direito a transporte por conta do Estado nas seguintes situações:
+(Revogado.)
 
-a) Quando deslocados, salvo se a pedido do funcionário ou por permuta, nos termos do artigo 55.º;
-
-b) Quando deslocados temporariamente por conveniência de serviço, nos termos do artigo 56.º;
-
-c) Quando realizem acções esporádicas por motivos de serviço;
-
-d) Quando deslocados para efeitos de frequência de cursos de formação, estágios ou prestação de provas de selecção;
-
-e) Quando, no caso de ingresso na DGA, os nomeados residirem no continente e forem colocados nas Regiões Autónomas, ou vice-versa.
-
-2 - Nos casos referidos no número anterior, deve utilizar-se o transporte público, de acordo com o estabelecido na lei geral, salvo quando a urgência ou a necessidade do serviço superiormente reconhecidos exigirem outro meio de transporte, cujo custo será reembolsado mediante apresentação do respectivo documento de despesa.
-
-3 - Se o funcionário utilizar transporte próprio, aplica-se o disposto na lei geral.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 59.º — Transporte de familiares
 
-1 - Os familiares dos funcionários têm, de igual modo, nos termos do artigo anterior, direito a transporte por conta do Estado, excepto nos casos referidos nas alíneas c) e d) do n.º 1 do mesmo artigo.
+(Revogado.)
 
-2 - Para efeitos do disposto no número anterior, consideram-se familiares o cônjuge e os parentes e afins na linha recta, bem como os irmãos menores, desde que vivam com o funcionário em comunhão de mesa e habitação e não tenham rendimentos suficientes.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 60.º — Subsídio de deslocação
 
-1 - Os funcionários deslocados, salvo por permuta, nos termos do artigo 55.º, têm direito, no momento da deslocação, a um subsídio fixo equivalente a 60 dias de ajudas de custo, se a mesma ocorrer no continente ou implicar mudança de ilha nas Regiões Autónomas, ou ainda a 120 dias, se implicar mudança do continente para as Regiões Autónomas, ou vice-versa.
+(Revogado.)
 
-2 - Os funcionários referidos no número anterior têm ainda direito ao transporte e seguro, por conta do Estado, do respectivo mobiliário e bagagem.
-
-3 - No caso de a deslocação se fazer por iniciativa do serviço ou a pedido do funcionário, o subsídio só será atribuído se os funcionários declararem, expressamente, a vontade de permanecer pelo período mínimo de dois anos no seu novo posto de trabalho.
-
-4 - Os funcionários deslocados temporariamente por conveniência de serviço, nos termos do artigo 56.º, têm direito, pelo período de um ano, a um subsídio equivalente a 50% das ajudas de custo diárias, se a deslocação ocorrer no continente ou implicar mudança de ilha nas Regiões Autónomas, ou ainda a 65%, se implicar mudança do continente para as Regiões Autónomas.
-
-5 - O subsídio referido no número anterior reduz-se de 25% no caso de ser fornecida habitação por conta do Estado.
-
-6 - Quando a deslocação temporária por conveniência de serviço se destinar às Regiões Autónomas, os funcionários gozam, por ocasião da deslocação e do regresso ao seu lugar de origem, do direito previsto no n.º 2.
-
-7 - Os subsídios de deslocação previstos no presente artigo só são atribuídos quando a distância entre o serviço onde o funcionário se encontra colocado e o serviço da sua nova colocação for igual ou superior a 60 km, com excepção das deslocações que impliquem mudança de ilha nas Regiões Autónomas, e não são acumuláveis com as ajudas de custo previstas na lei geral, que são devidas nas situações constantes das alíneas c) e d) do n.º 1 do artigo 58.º
-
-8 - Os directores de alfândega e os chefes de delegação têm direito, quando da sua nomeação, ao subsídio de deslocação fixado nos termos dos n.os 4 a 7.
-
-9 - A renovação das comissões de serviço dos lugares de chefia referidos no número anterior não dá direito à atribuição de novo subsídio.
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 61.º — Residência oficial
 
-Os serviços onde os funcionários sejam deslocados ou deslocados temporariamente, nos termos dos artigos 55.º e 56.º, passam a constituir a sua residência oficial para efeitos de atribuição de ajudas de custo.
+(Revogado.)
+
+> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 62.º — Pessoal em comissão de serviço, requisição, destacamento ou licença
 

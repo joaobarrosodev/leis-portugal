@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-28'
+version_history:
+  file: decreto-lei-148-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-28'
+    amending: pt:dre:523592:por
+    amending_title: Decreto-Lei n.º 144/98
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/148/1994/05/25/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:31:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 144/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-148-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,11 +157,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - O disposto no [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, é aplicável aos técnicos de serviço social titulares de licenciatura em Serviço Social ou em Política Social conferida pelo Instituto Superior de Ciências Sociais e Políticas, da Universidade Técnica de Lisboa.
+###### Artigo 1.º
+
+1 - O disposto no [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, é aplicável aos técnicos de serviço social titulares de licenciatura em Serviço Social ou em Política Social conferida pelo Instituto Superior de Ciências Sociais e Políticas, da Universidade Técnica de Lisboa.
 
 2 - Os funcionários integrados na carreira técnica que, estando habilitados com qualquer das licenciaturas referidas no número anterior, desempenhem funções na área de serviço social em serviços ou organismos que tenham atribuições naquele domínio e ou cujos quadros de pessoal prevejam a área funcional de serviço social relativamente àquela carreira transitam para a carreira de técnico superior de serviço social, nos termos de [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto.
 
-Art. 2.º O presente diploma reporta os seus efeitos a de 1 de Setembro de 1991 no tocante às transições resultantes da aplicação do artigo 3.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, ficando o processamento dos vencimentos dependente da prévia alteração dos quadros de pessoal.
+3 - Os técnicos de serviço social, habilitados com qualquer das licenciaturas referidas no n.º 1, que tenham sido providos em lugares da carreira técnica superior, ao abrigo do sistema de intercomunicabilidade vertical prevista no artigo 17.º do Decreto-Lei n.º 248/85, de 15 de Julho, e exerçam funções na área funcional de serviço social transitam para a carreira técnica superior de serviço social, de acordo com as regras constantes das alíneas a) ou b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 296/91, de 16 de Agosto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 144/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1998-523592), publicado em 1998-05-23.
+
+###### Artigo 2.º
+
+O presente diploma reporta os seus efeitos a de 1 de Setembro de 1991 no tocante às transições resultantes da aplicação do artigo 3.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, ficando o processamento dos vencimentos dependente da prévia alteração dos quadros de pessoal.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 

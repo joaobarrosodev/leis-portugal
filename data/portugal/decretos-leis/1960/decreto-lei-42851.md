@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1962-01-01'
+version_history:
+  file: decreto-lei-42851.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1962-01-01'
+    amending: pt:dre:185362:por
+    amending_title: Decreto-Lei n.º 44049
+    changes:
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:31:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44049. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-42851.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,11 +135,17 @@ Lar Académico de Filhos de Oficiais e de Sargentos
 
 (L. A. F. O. S.)
 
-Artigo 1.º O Lar Académico de Filhos de Oficiais e o Lar Académico de Filhos de Sargentos, em funcionamento em Oeiras, reúnem-se num único estabelecimento, que passará a denominar-se Lar Académico de Filhos de Oficiais e de Sargentos.
+###### Artigo 1.º
 
-Art. 2.º O Lar Académico de Filhos de Oficiais e de Sargentos é um órgão de execução da assistência escolar dos Serviços Sociais das Forças Armadas, dotado de autonomia administrativa, com sede em Oeiras, que funciona na dependência directa da comissão directiva destes serviços.
+O Lar Académico de Filhos de Oficiais e o Lar Académico de Filhos de Sargentos, em funcionamento em Oeiras, reúnem-se num único estabelecimento, que passará a denominar-se Lar Académico de Filhos de Oficiais e de Sargentos.
 
-Art. 3.º O Lar Académico destina-se a receber, em regime de internato, filhos de oficiais e de sargentos que frequentem estabelecimentos oficiais de ensino superior, médio e secundário, liceal e técnico e a velar pela educação e pelo bom aproveitamento dos estudos dos internos.
+###### Artigo 2.º
+
+O Lar Académico de Filhos de Oficiais e de Sargentos é um órgão de execução da assistência escolar dos Serviços Sociais das Forças Armadas, dotado de autonomia administrativa, com sede em Oeiras, que funciona na dependência directa da comissão directiva destes serviços.
+
+###### Artigo 3.º
+
+O Lar Académico destina-se a receber, em regime de internato, filhos de oficiais e de sargentos que frequentem estabelecimentos oficiais de ensino superior, médio e secundário, liceal e técnico e a velar pela educação e pelo bom aproveitamento dos estudos dos internos.
 
 § 1.º Mediante autorização do Ministro da Defesa Nacional, com a concordância do Ministro da Educação Nacional, o Lar Académico poderá ministrar o ensino secundário, liceal ou técnico aos seus internos.
 
@@ -132,7 +153,9 @@ Art. 3.º O Lar Académico destina-se a receber, em regime de internato, filhos 
 
 § 3.º Os internos do Lar Académico fazem parte da Organização Nacional Mocidade Portuguesa Masculina, nos termos do regulamento desta organização.
 
-Art. 4.º O Lar Académico compreende os seguintes elementos:
+###### Artigo 4.º
+
+O Lar Académico compreende os seguintes elementos:
 
 Direcção;
 
@@ -152,15 +175,25 @@ Enfermaria;
 
 Serviço de internato.
 
-Art. 5.º Constituem receitas a administrar pelo Lar Académico as que lhe sejam consignadas no orçamento dos Serviços Sociais das Forças Armadas e, bem assim, as receitas provenientes das suas próprias actividades e de quaisquer subsídios, comparticipações, donativos, doações, legados ou rendimentos que lhe sejam atribuídos.
+###### Artigo 5.º
 
-Art. 6.º O quadro orgânico do pessoal militar e civil do Lar Académico será fixado por portaria do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
+(Revogado.)
 
-Art. 7.º A comissão directiva dos Serviços Sociais das Forças Armadas submeterá à aprovação do Ministro da Defesa Nacional o Regulamento do Lar Académico de Filhos de Oficiais e de Sargentos.
+> Revogado pelo/a [Decreto-Lei n.º 44049](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44049-1961-185362), publicado em 1961-11-22.
+
+###### Artigo 6.º
+
+O quadro orgânico do pessoal militar e civil do Lar Académico será fixado por portaria do Ministro da Defesa Nacional, com visto do Ministro das Finanças.
+
+###### Artigo 7.º
+
+A comissão directiva dos Serviços Sociais das Forças Armadas submeterá à aprovação do Ministro da Defesa Nacional o Regulamento do Lar Académico de Filhos de Oficiais e de Sargentos.
 
 § único. Até ser aprovado o regulamento a que alude o corpo deste artigo, o Lar Académico reger-se-á pelas disposições que vigoram actualmente.
 
-Art. 8.º O disposto no presente diploma considera-se em vigor a partir de 1 de Janeiro de 1960.
+###### Artigo 8.º
+
+O disposto no presente diploma considera-se em vigor a partir de 1 de Janeiro de 1960.
 
 Publique-se e cumpra-se como nele se contém.
 

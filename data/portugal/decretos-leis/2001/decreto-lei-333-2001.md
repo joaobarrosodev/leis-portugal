@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-01'
+version_history:
+  file: decreto-lei-333-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-01'
+    amending: pt:dre:476110:por
+    amending_title: Decreto-Lei n.º 252/2003
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/333/2001/12/24/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:28:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 252/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-333-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,6 +160,10 @@ O presente diploma transpõe para o ordenamento jurídico interno a Directiva n.
 4 - Entende-se por warrant, incluindo o warrant coberto, um instrumento que confere ao seu detentor o direito de adquirir, até à data ou na data em que expira o warrant, um activo subjacente, a um determinado preço, podendo a sua liquidação efectuar-se mediante entrega do próprio activo subjacente ou do seu equivalente em numerário.
 
 5 - Entende-se por financiamento de existências as posições em que as existências físicas são objecto de uma venda a prazo e o custo de financiamento se encontra fixado até à data dessa venda.
+
+6 - Para os efeitos do presente diploma, são equiparadas a empresas de investimento as sociedades gestoras de fundos de investimento mobiliário que sejam autorizadas a exercer a actividade de gestão discricionária e individualizada de carteiras por conta de outrem, com base em mandato conferido pelos investidores.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 252/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), publicado em 2003-10-17.
 
 ###### Artigo 3.º — Requisitos de fundos próprios
 

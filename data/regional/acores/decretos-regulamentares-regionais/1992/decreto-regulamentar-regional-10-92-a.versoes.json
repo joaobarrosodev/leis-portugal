@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168423:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c88d9be76b2a1aef",
+    "7342f7b1dcac3873",
+    "c98bfdeea16445c9",
+    "441a854f75941aac",
+    "396cfe66f6d1ddf2",
+    "fb527cfdb8495fe1",
+    "9d36671fa05985b9",
+    "dc71dbd5d5ddbd6b",
+    "ef48b7fc47d48baf",
+    "6bc2ef8e88a02551",
+    "b1dcbc2eb8388641",
+    "9beebd665d7f511d",
+    "860a133fe7854d79",
+    "a274d1fb90f28e1e",
+    "e4a534dfb743d05d",
+    "6ca522390246bac8",
+    "ffd8cbd09b59850b",
+    "1469afc8df6c872c",
+    "50b655c52924ee90",
+    "5b69cb246a6df553"
+   ]
+  },
+  {
+   "date": "1996-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:435043:por",
+     "title": "Decreto Regulamentar Regional n.º 24/96/A",
+     "published": "1996-06-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/24-1996-435043"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "c88d9be76b2a1aef",
+    "7342f7b1dcac3873",
+    "c98bfdeea16445c9",
+    "441a854f75941aac",
+    "396cfe66f6d1ddf2",
+    "fb527cfdb8495fe1",
+    "9d36671fa05985b9",
+    "dc71dbd5d5ddbd6b",
+    "ef48b7fc47d48baf",
+    "6bc2ef8e88a02551",
+    "b1dcbc2eb8388641",
+    "9beebd665d7f511d",
+    "860a133fe7854d79",
+    "a274d1fb90f28e1e",
+    "e4a534dfb743d05d",
+    "6ca522390246bac8",
+    "ffd8cbd09b59850b",
+    "4ec499a66111c64c",
+    "50b655c52924ee90",
+    "5b69cb246a6df553"
+   ]
+  }
+ ],
+ "fragments": {
+  "c88d9be76b2a1aef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Encontrando-se praticamente concluída a fase inicial do Estádio de João Paulo II, sito em Angra do Heroísmo, reveste-se da maior importância estabelecer com a necessária antecedência as regras quanto ao seu modo de funcionamento, bem como a respectiva estrutura organizacional.\n\nTal como acontece com o Parque Desportivo de Ponta Delgada, pretende-se dotá-lo com uma estrutura aligeirada, sem prejuízo de uma operacionalidade que resulta de uma gestão moderna, eficiente e racional.\n\nTendo em conta a inexistência de um adequado enquadramento do Campo de Jogos de S. Mateus, é criado pelo presente diploma o Parque Desportivo de Angra do Heroísmo, o qual integrará, para além daquela estrutura desportiva, o Estádio de João Paulo II, o que permitirá uma maior rentabilização dos meios disponíveis.\n\nDado o carácter inovatório da gestão que se pretende imprimir, o Parque Desportivo de Angra do Heroísmo deverá permanecer em regime de instalação por um período de dois anos, eventualmente prorrogável, até dispor de uma estrutura orgânica definitiva.\n\nAssim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "c98bfdeea16445c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Parque Desportivo de Angra do Heroísmo, adiante designado, abreviadamente, por PDAH, é um serviço dotado de autonomia administrativa e funciona na dependência da Direcção Regional de Educação Física e Desportos.\n\n2 - O PDAH é composto pelo Estádio de João Paulo II e pelo Campo de Jogos de S. Mateus.\n\n3 - O PDAH fica em regime de instalação pelo prazo de dois anos, podendo ser prorrogado por igual período, mediante despacho do Secretário Regional da Educação e Cultura."
+  },
+  "441a854f75941aac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do PDAH:\n\na) Proporcionar estruturas materiais de acolhimento à formação, estágio e aperfeiçoamento dos praticantes, técnicos e dirigentes desportivos;\n\nb) Apoiar o desenvolvimento da recreação, em especial na área do desporto para todos;\n\nc) Dinamizar as actividades desportivas nas instalações do PDAH."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "fb527cfdb8495fe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\nSão órgãos e serviços do PDAH:\n\na) O director;\n\nb) O conselho administrativo;\n\nc) O Serviço Administrativo;\n\nd) O Serviço de Instalações e Equipamentos."
+  },
+  "9d36671fa05985b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do director\n\nCompete ao director do PDAH, em especial:\n\na) Dirigir, orientar e coordenar os serviços;\n\nb) Colaborar na dinamização das actividades desportivas do PDAH;\n\nc) Coordenar a utilização das instalações;\n\nd) Propor superiormente a admissão de pessoal;\n\ne) Promover a cobrança de receitas e autorizar aquisições e despesas até aos limites estabelecidos na lei geral."
+  },
+  "dc71dbd5d5ddbd6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Composição e competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição e competências do conselho administrativo\n\n1 - O conselho administrativo é composto pelo director do PDAH, que preside, e pelos coordenadores dos Serviços Administrativo e de Instalações e Equipamentos.\n\n2 - Compete ao conselho administrativo, designadamente:\n\na) Aprovar os planos de acção anuais e plurianuais, a submeter a despacho do director regional de Educação Física e Desportos;\n\nb) Propor as linhas de orientação a que deve obedecer a organização e funcionamento do PDAH;\n\nc) Estabelecer as directrizes necessárias ao bom funcionamento dos serviços;\n\nd) Promover a elaboração dos projectos de orçamento e dos subsequentes pedidos de alteração, bem como acompanhar a sua adequada execução;\n\ne) Elaborar os relatórios trimestrais e anuais do PDAH, enviando os ao director regional de Educação Física e Desportos;\n\nf) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes."
+  },
+  "ef48b7fc47d48baf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento do conselho administrativo\n\n1 - O conselho administrativo reunirá sempre que necessário, pelo menos quinzenalmente, e as suas deliberações são tomadas por maioria simples, tendo o director voto de qualidade.\n\n2 - As regras de funcionamento do conselho administrativo serão fixadas pelo próprio conselho na sua primeira reunião.\n\n3 - Das reuniões do conselho administrativo devem ser lavradas actas, a aprovar na reunião seguinte."
+  },
+  "6bc2ef8e88a02551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço Administrativo\n\n1 - Compete ao Serviço Administrativo, em especial:\n\na) Executar todas as operações necessárias à administração do pessoal;\n\nb) Elaborar o projecto de orçamento;\n\nc) Assegurar todas as operações inerentes ao servio de contabilidade;\n\nd) Organizar o arquivo e assegurar o expediente;\n\ne) Manter actualizado o cadastro dos bens do PDAH.\n\n2 - O Serviço Administrativo será dirigido por um coordenador, designado por despacho do director regional de Educação Física e Desportos de entre um dos oficiais administrativos do PDAH."
+  },
+  "b1dcbc2eb8388641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de Instalações e Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de Instalações e Equipamentos\n\n1 - Compete ao Serviço de Instalações e Equipamentos, em especial:\n\na) Manter em bom estado de fruição as instalações, equipamentos e material desportivo;\n\nb) Garantir a prestação dos serviços complementares no domínio da fruição das instalações, equipamentos e material desportivo;\n\nc) Fiscalizar a corrente utilização dos bens referidos nas alíneas anteriores;\n\nd) Efectuar as reparações ou os melhoramentos necessários nas instalações ou equipamentos.\n\n2 - O Serviço de Instalações e Equipamentos será dirigido por um coordenador, designado por despacho do director regional de Educação Física e Desportos de entre o pessoal constante do mapa anexo ao presente diploma."
+  },
+  "9beebd665d7f511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do pessoal"
+  },
+  "860a133fe7854d79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mapa de pessoal\n\nO PDAH tem o pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "a274d1fb90f28e1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Director do PDAH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Director do PDAH\n\nO director do PDAH será nomeado em comissão de serviço de três anos, renováveis, por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional de Educação Física e Desportos, de entre indivíduos de reconhecida competência e que possuam experiência válida para o exercício do cargo, preferencialmente de entre pessoas com formação superior em educação Física e ou desportos."
+  },
+  "e4a534dfb743d05d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Regime aplicável ao pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime aplicável ao pessoal\n\nO pessoal do PDAH será contratado em regime de contrato administrativo de provimento ou em comissão de serviço extraordinário, nos termos do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "ffd8cbd09b59850b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regulamento de utilização e exploração das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamento de utilização e exploração das instalações\n\nAs condições de utilização e exploração das instalações serão definidas por regulamento, aprovado por portaria do Secretário Regional da Educação e Cultura, a publicar no Jornal Oficial da Região, mediante proposta do director do PDAH e obtido parecer favorável do director regional de Educação Física e Desportos."
+  },
+  "1469afc8df6c872c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas\n\nAs receitas provenientes das actividades desenvolvidas pelo PDAH são depositadas nos cofres da Região."
+  },
+  "50b655c52924ee90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional, em Ponta Delgada, 8 de Janeiro de 1992.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 5 de Fevereiro de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto."
+  },
+  "5b69cb246a6df553": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa a que se refere o artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa a que se refere o artigo 9.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/053b00/11631165.pdf)"
+  },
+  "4ec499a66111c64c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Receitas",
+   "in_force_from": "1996-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 24/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1996-435043), publicado em 1996-06-14."
+   ],
+   "markdown": "###### Artigo 13.º — Receitas\n\nAs receitas provenientes das actividades desenvolvidas pelo Parque Desportivo da Ilha Terceira são consideradas receitas do Fundo Regional de Fomento do Desporto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 24/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1996-435043), publicado em 1996-06-14."
+  }
+ }
+}

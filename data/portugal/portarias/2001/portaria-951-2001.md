@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-11-18'
+version_history:
+  file: portaria-951-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-11-18'
+    amending: pt:dre:603513:por
+    amending_title: Portaria n.º 1273/2001
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/951/2001/08/06/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:35:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1273/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-951-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,17 +174,19 @@ b) O pagamento de uma compensação salarial mensal aos respectivos tripulantes 
 
 ###### Artigo 3.º — Beneficiários
 
-1 - Os prémios de imobilização temporária são atribuídos aos armadores que deles beneficiaram durante o ano 2000, ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, e cujas embarcações se mantinham imobilizadas em 1 de Janeiro de 2001.
+1 - Os prémios de imobilização temporária são atribuídos aos armadores que deles beneficiaram durante o ano 2000, ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, e cujas embarcações se mantinham imobilizadas em 1 de Janeiro de 2001 ou que, tendo entretanto retomado a actividade, requeiram a sua integração no presente regime.
 
-2 - As compensações salariais são atribuídas:
+2 - As competências salariais são atribuídas:
 
-a) Aos tripulantes que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, e que se encontravam matriculados nas embarcações imobilizadas em 1 de Janeiro de 2001;
+a) Aos tripulantes que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, e que se encontravam matriculados nas embarcações imobilizadas em 1 de Janeiro de 2001 ou que se encontravam matriculados nas embarcações à data da cessação do primeiro período de imobilização, mantendo essa situação à data do reinício do novo período de imobilização;
 
-b) Aos trabalhadores que exerciam em terra uma actividade directamente ligada às citadas embarcações e que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, mantendo-se ao seu serviço em 1 de Janeiro de 2001.
+b) Aos trabalhadores que exerciam em terra uma actividade directamente ligada às citadas embarcações e que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, mantendo-se ao seu serviço em 1 de Janeiro de 2001, ou que se encontravam directamente ligados às embarcações à data da cessação do primeiro período de imobilização, mantendo essa situação à data do reinício do novo período de imobilização.
 
 3 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações naufragadas que, à data do naufrágio, estavam licenciadas ao abrigo do Acordo podem ser beneficiários desta medida de apoio a partir da data em que a nova unidade esteja em condições para iniciar a sua actividade.
 
 4 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações imobilizadas ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, mantêm-se beneficiários desta medida a partir do registo na pesca da nova unidade.
+
+> Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13.
 
 ###### Artigo 4.º — Impedimentos
 
@@ -176,7 +194,9 @@ b) Aos trabalhadores que exerciam em terra uma actividade directamente ligada à
 
 2 - Retomando uma embarcação a actividade, cessa o pagamento do prémio de imobilização temporária atribuído ao armador e as compensações salariais aos respectivos tripulantes e trabalhadores de terra.
 
-3 - Caso os beneficiários do apoio retomem a actividade, devem proceder à devolução do prémio e compensação salarial relativos ao mês em causa, indevidamente recebidos pro rata temporis, ficando impedidos de apresentar nova candidatura.
+3 - Caso os beneficiários do apoio retomem a actividade, devem proceder à devolução do prémio e compensação salarial relativos ao mês em causa, indevidamente recebidos pro rata temporis.
+
+> Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13.
 
 ###### Artigo 5.º — Montante dos apoios
 

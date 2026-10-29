@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-06-06'
+version_history:
+  file: decreto-lei-418-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-06-06'
+    amending: pt:dre:521238:por
+    amending_title: Decreto-Lei n.º 131/95
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:22:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 131/95. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-418-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,15 +128,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O artigo 6.º do Código do Registo Civil passa a ter a seguinte redacção:
+###### Artigo 1.º
 
-Art. 6.º - 1 - ...
+(Revogado.)
 
-2 - ...
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 131/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), publicado em 1995-06-06.
 
-3 - Em casos de manifesta urgência e provando os interessados que o registo do acto realizado no estrangeiro ainda não está integrado na Conservatória dos Registos Centrais, podem as certidões emitidas pelos serviços consulares ser aceites como prova do registo respectivo.
+###### Artigo 2.º
 
-Art. 2.º Mantêm-se em vigor as disposições do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho, relativas ao ingresso no registo civil português dos actos do estado civil lavrados nas ex-colónias, respeitantes a cidadãos portugueses.
+Mantêm-se em vigor as disposições do [Decreto-Lei n.º 249/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1977-253436), de 14 de Junho, relativas ao ingresso no registo civil português dos actos do estado civil lavrados nas ex-colónias, respeitantes a cidadãos portugueses.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.
 

@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-08-24'
+version_history:
+  file: decreto-lei-2-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-08-24'
+    amending: pt:dre:671453:por
+    amending_title: Decreto-Lei n.º 96/2011
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Adita Artigo 2.º-A
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/2/2010/01/05/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:12:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 96/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2010/decreto-lei-2-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,13 +168,31 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 2 - Na operação referida no número anterior, são alienadas todas as acções representativas do capital social do BPN, detidas directamente pelo Estado através da Direcção-Geral do Tesouro e Finanças.
 
-###### Artigo 2.º — Processo e modalidades de reprivatização
+###### Artigo 2.º — Modalidade e procedimentos
 
 1 - A operação de reprivatização do BPN consiste na alienação da totalidade das acções representativas do capital social do BPN.
 
-2 - A operação de reprivatização do BPN é realizada directamente pelo Estado através da Direcção-Geral do Tesouro e Finanças e concretiza-se mediante as modalidades de concurso público e de oferta de venda destinada exclusivamente a trabalhadores do grupo BPN, nos termos dos artigos seguintes.
+2 - A operação de reprivatização do BPN é realizada directamente pelo Estado através do Direcção-Geral do Tesouro e Finanças e concretiza-se mediante as modalidades de concurso público e de oferta de venda destinada exclusivamente a trabalhadores do grupo BPN, nos termos dos artigos seguintes, ou por venda directa, caso se revele a impossibilidade de privatização através das restantes modalidades, designadamente por ausência de candidatos ao concurso público.
 
-3 - A operação de reprivatização deve assegurar, em conformidade com as orientações estratégicas para o BPN, a integral preservação do interesse patrimonial do Estado e dos interesses dos contribuintes, dos trabalhadores e dos depositantes.
+3 - Para efeitos da venda directa prevista no número anterior, os potenciais interessados podem apresentar propostas individualmente ou em agrupamento.
+
+4 - As propostas devem ter por objecto a totalidade das acções representativas do capital social do BPN, sem prejuízo do disposto no artigo 4.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453), publicado em 2011-08-19.
+
+###### Artigo 2.º-A — Venda directa
+
+1 - No caso de venda directa, a alienação das acções representativas do capital social do BPN é feita à entidade adquirente, escolhida mediante resolução do Conselho de Ministros e ouvido o Banco de Portugal, que apresente a melhor proposta e demonstre ter capacidade para apoiar o BPN no desenvolvimento, devidamente sustentado, das suas actividades e na sua reestruturação financeira, em termos que contribuam para a consolidação e estabilidade do sector financeiro e, paralelamente, para uma concorrência efectiva e equilibrada nesse sector.
+
+2 - Para efeitos do disposto no número anterior, considera-se melhor proposta aquela que assegure a maximização da preservação do perímetro do BPN e do encaixe financeiro, assim como a limitação dos riscos e as garantias associados à venda directa.
+
+3 - O procedimento de venda directa é da responsabilidade da Direcção-Geral do Tesouro e Finanças, competindo-lhe praticar os actos necessários à concretização da operação, em especial os relativos à negociação.
+
+4 - O disposto no número anterior não prejudica a atribuição de mandato, mediante despacho do membro do Governo responsável pela área das finanças, com faculdade de delegação, à Caixa Geral de Depósitos, S. A., na sua qualidade de entidade gestora do BPN, nos termos do n.º 6 do artigo 2.º da Lei n.º 62-A/2008, de 11 de Novembro, e ao conselho de administração do BPN, para os efeitos nele previsto.
+
+5 - O preço de venda das acções a vigorar na operação de venda directa é definido por despacho do membro do Governo responsável pela área das finanças, com faculdade de delegação, com base no resultado da recolha prévia de intenções e propostas de compra junto de potenciais interessados.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453), publicado em 2011-08-19.
 
 ###### Artigo 3.º — Concurso público
 
@@ -177,51 +214,45 @@ d) A sua capacidade para assegurar, em termos compatíveis com a procura e a ges
 
 5 - Em relação aos demais membros do agrupamento, a resolução do Conselho de Ministros que estabeleça as condições finais e concretas das operações necessárias à reprivatização deve definir, designadamente em função de participação qualificada no Banco que pretendam adquirir, os requisitos a observar.
 
-###### Artigo 4.º — Oferta de venda reservada a trabalhadores
+###### Artigo 4.º — Capital reservado a trabalhadores
 
-1 - Das acções a reprivatizar, um lote de acções representativo de 5 % do capital social do BPN é reservado para aquisição por trabalhadores do BPN ou por trabalhadores do grupo de sociedades detidas por este, através de uma oferta de venda em condições preferenciais relativamente às do concurso público.
+1 - Do capital social do BPN a reprivatizar é reservado um lote de acções para aquisição por trabalhadores do BPN ou por trabalhadores do grupo de sociedades detidas por este, através de uma oferta de venda em condições preferenciais relativamente às do concurso público ou da venda directa, em percentagem e nos termos a definir por resolução do Conselho de Ministros.
 
 2 - Para os efeitos do número anterior, são considerados trabalhadores as pessoas que, nos termos do artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, estejam ou tenham estado ao serviço das referidas sociedades por mais de três anos, excluindo as que tenham sido despedidas em consequência de processo disciplinar e as que, tendo passado a trabalhar noutras empresas com o mesmo objecto social daquelas, o respectivo contrato de trabalho tenha cessado por sua iniciativa.
 
-3 - O vencedor do concurso previsto no artigo anterior obriga-se a adquirir as acções representativas do capital social do BPN não abrangidas pela reserva referida no presente artigo, bem como as acções não colocadas no âmbito da mesma.
+3 - A entidade adquirente das acções em resultado de concurso ou de venda directa obriga-se a adquirir as acções representativas do capital social do BPN não abrangidas pela reserva referida no presente artigo, bem como as acções eventualmente não colocadas na oferta de venda reservada a trabalhadores, ao preço unitário por que tenha adquirido as acções do BPN.
 
-4 - A existência deste lote de acções destinado a trabalhadores não prejudica a aplicação, por opção do concorrente vencedor do concurso público previsto no artigo anterior, do disposto no artigo 490.º do Código das Sociedades Comerciais, desde que:
+4 - A existência deste lote de acções destinado a trabalhadores não prejudica a aplicação, por opção da entidade adquirente das acções, do disposto no artigo 490.º do Código das Sociedades Comerciais, desde que cumpridos, cumulativamente, os seguintes requisitos:
 
-a) A intenção de exercer esta opção esteja prevista na proposta apresentada pelo concorrente, no âmbito do concurso público;
+a) O exercício da faculdade prevista naquele artigo ou a intenção de a exercer sejam comunicados na proposta apresentada;
 
-b) A opção seja exercida dentro do prazo de três meses subsequentes à data da adjudicação das acções em resultado do concurso público;
+b) O exercício daquela faculdade ocorra até ao final do 3.º mês subsequente à data da aquisição;
 
-c) Seja dada ao trabalhador a possibilidade de escolher entre receber em numerário o montante equivalente ao preço final pago pelo concorrente no concurso público, ou receber títulos representativos do capital da entidade concorrente que venceu o concurso público por troca das acções do BPN que adquiriu, tendo como referência o preço final das acções do BPN no concurso público.
+c) Seja entregue ao trabalhador, simultaneamente e em contrapartida do exercício daquela faculdade, o montante em numerário equivalente ao preço final por acção devido pela entidade adquirente das acções ou, caso as acções se tenham entretanto valorizado, ao respectivo valor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453), publicado em 2011-08-19.
 
 ###### Artigo 5.º — Indisponibilidade das acções adquiridas por concurso público
 
-1 - Sem prejuízo das demais condições a fixar no caderno de encargos, as acções correspondentes a 51 % do capital social do BPN adquiridas no âmbito do concurso público são indisponíveis por um prazo de cinco anos.
+(Revogado.)
 
-2 - Os agrupamentos concorrentes devem identificar os membros responsáveis pelo cumprimento da regra de indisponibilidade e, em relação a cada um, a quantidade de acções a sujeitar a esse regime de indisponibilidade, bem como o membro que se obriga a adquirir e manter acções representativas de, pelo menos, 51 % do capital social do Banco.
-
-3 - O prazo previsto no n.º 1 conta-se a partir da data de publicação da resolução do Conselho de Ministros que determine o vencedor do concurso.
-
-4 - As acções sujeitas ao regime de indisponibilidade não podem ser objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura.
-
-5 - Não podem ser celebrados negócios pelos quais o titular das acções sujeitas ao regime de indisponibilidade se obrigue a exercer os direitos de voto inerentes às acções em determinado sentido.
-
-6 - São nulos os negócios jurídicos celebrados em violação dos números anteriores.
-
-7 - O disposto nos números anteriores não prejudica a eventual fusão, incorporação ou reestruturação do BPN no grupo adquirente.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 96/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453), publicado em 2011-08-19.
 
 ###### Artigo 6.º — Indisponibilidade das acções adquiridas por trabalhadores
 
 1 - São indisponíveis por um prazo de um mês as acções adquiridas no âmbito da oferta pública de venda a que se refere o artigo 4.º, sem prejuízo do disposto no seu n.º 4.
 
-2 - O referido prazo de indisponibilidade contar-se-á a partir do dia de realização da sessão especial de bolsa destinada a apurar os resultados da oferta.
+2 - O referido prazo de indisponibilidade conta-se a partir da data da celebração do contrato de compra e venda.
 
 3 - Durante o prazo de indisponibilidade, as referidas acções não podem ser oneradas nem objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura.
 
-4 - São nulos os negócios jurídicos celebrados em violação do número anterior.
+4 - São nulos os negócios jurídicos celebrados em violação do disposto nos números anteriores.
 
 5 - Os direitos de voto inerentes a acções adquiridas por trabalhadores no âmbito da oferta pública de venda não podem ser exercidos, durante o prazo de indisponibilidade, por interposta pessoa.
 
 6 - São nulos os negócios jurídicos pelos quais os trabalhadores se obriguem a exercer, durante o prazo de indisponibilidade, os direitos de voto inerentes às acções adquiridas no âmbito da oferta pública de venda em determinado sentido.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 96/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453), publicado em 2011-08-19.
 
 ###### Artigo 7.º — Regulamentação da reprivatização
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-25'
+version_history:
+  file: decreto-lei-227-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-12-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-25'
+    amending: pt:dre:670027:por
+    amending_title: Decreto-Lei n.º 79/2011
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227/2004/12/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:45:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 79/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-227-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -321,11 +337,31 @@ c) Ter sido submetidos, com resultado negativo, nos 30 dias precedentes à exped
 
 ###### Artigo 11.º — Centros de agrupamento
 
-Os centros de agrupamento são autorizados pela autoridade competente nos termos e condições estabelecidos na legislação que regula o sistema nacional de identificação, registo e circulação de animais.
+1 - O exercício da actividade pelos centros de agrupamento depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.
+
+2 - A aprovação prevista no número anterior só é concedida se o centro de agrupamento respeitar as condições previstas no presente decreto-lei e no Decreto-Lei n.º 214/2008, de 10 de Novembro.
+
+3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixe de ser cumprida alguma das condições legalmente exigidas.
+
+4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos centros de colheita de sémen.
+
+5 - Aos centros de agrupamento é atribuído um número de aprovação, e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 12.º — Comerciantes
 
-Os comerciantes são registados nos termos e condições previstos na legislação que regula o sistema nacional de identificação, registo e circulação de animais.
+1 - O exercício da actividade pelos comerciantes depende de aprovação, nos termos do disposto no Decreto-Lei n.º 214/2008, de 10 de Novembro.
+
+2 - A aprovação prevista no número anterior só é concedida se os comerciantes respeitarem os requisitos previstos no presente diploma e no Decreto-Lei n.º 214/2008, de 10 de Novembro.
+
+3 - A aprovação e o exercício da actividade pode ser suspensa ou retirada sempre que deixem de ser cumpridas alguma das condições legalmente exigidas.
+
+4 - O parecer da DGV previsto na alínea f) do n.º 1 do artigo 9.º do Decreto-Lei n.º 214/2008, de 10 de Novembro, é vinculativo no que respeita à aprovação dos comerciantes.
+
+5 - Aos comerciantes é atribuído um número de aprovação, e a sua identificação deve ser divulgada na lista disponibilizada aos outros Estados membros e publicada no sítio da Internet da DGV, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 79/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2011-670027), publicado em 2011-06-20.
 
 ###### Artigo 13.º — Transporte de animais
 

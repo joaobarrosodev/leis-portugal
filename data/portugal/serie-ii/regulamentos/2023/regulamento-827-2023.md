@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-07-06'
+version_history:
+  file: regulamento-827-2023.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2023-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-06'
+    amending: pt:dre:994000577:por
+    amending_title: Regulamento n.º 8/2026
+    changes:
+    - Altera Artigo 131.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:04:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento n.º 8/2026. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2023/regulamento-827-2023.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2194,6 +2209,10 @@ Ligação de instalações provisórias ou de instalações eventuais
 2 - Consideram-se ligações eventuais as que se destinam a alimentar instalações de caráter eventual, nomeadamente eventos temporários de natureza social, cultural ou desportiva.
 
 3 - As ligações de instalações provisórias devem ser estabelecidas, preferencialmente, de modo a que possam vir a constituir ligações definitivas.
+
+4 - Não é admitida, nos casos de instalações provisórias ou eventuais, a constituição de pontos de entrega internos previstos para instalações de consumo não exclusivas para a mobilidade elétrica.»
+
+> Alterado pelo/a [Regulamento n.º 8/2026](https://diariodarepublica.pt/dr/detalhe/regulamento/8-2026-994000577), publicado em 2026-01-06.
 
 ###### Artigo 132.º — Condições comerciais
 

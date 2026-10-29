@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:672448:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-10-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bebbb4aea86d5ab7",
+    "aa1fd23eb7a276d3",
+    "075d5e4ab6e0a98d",
+    "7cd235ba5241ecc6",
+    "3496d85758481b84",
+    "9ef5be3a414447df",
+    "a86a084fca13a8b8"
+   ]
+  },
+  {
+   "date": "2001-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:350103:por",
+     "title": "Decreto-Lei n.º 197/2001",
+     "published": "2001-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/197-2001-350103"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "bebbb4aea86d5ab7",
+    "af71e6ce94b6390b",
+    "3aa0e155ae44d6f1",
+    "3771deaede4baf9d",
+    "46a50d6446a2c65f",
+    "9ef5be3a414447df",
+    "a86a084fca13a8b8"
+   ]
+  }
+ ],
+ "fragments": {
+  "bebbb4aea86d5ab7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Outubro\n\nA produtividade das empresas e a sua consequente competitividade dependem, em grande medida, da respectiva capacidade de inovação, dependendo esta, por seu turno, em grande parte, dos resultados decorrentes da investigação científica e desenvolvimento experimental (I&D) que promovam.\n\nEm Portugal, tem-se verificado que a participação do sector empresarial no esforço global de I&D é muito reduzida, pelo que urge encontrar medidas para apoiar e estimular essa actividade.\n\nEsta tarefa é tanto mais necessária quanto Portugal é dos poucos países da OCDE que não dispõe de um instrumento de incentivo ao fomento da investigação empresarial, quadro do qual resulta uma situação penalizadora no que respeita à captação de investimento qualificado, nomeadamente em relação à vizinha Espanha.\n\nOra, sendo intenção do Governo contribuir para modificar a situação actual no que respeita às actividades de I&D nas empresas, é natural que, desde logo, e sem prejuízo da adopção de outras medidas, se recorra a um dos instrumentos clássicos susceptíveis de, a curto prazo, conduzir a resultados: o dos incentivos fiscais.\n\nNeste sentido, a [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), de 27 de Dezembro, que aprovou o Orçamento do Estado para 1997, autorizou, pelo seu artigo 50.º, o Governo a introduzir um crédito fiscal para investimento em I&D, de que poderão vir a beneficiar os sujeitos passivos de IRC que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola, e que se traduzirá numa dedução à colecta daquele imposto.\n\nPara assegurar a eficácia das actividades de I&D, definem-se as categorias de despesas consideradas de I&D, estabelecendo-se ainda um adequado sistema de controlo e de avaliação de resultados.\n\nNestes termos, e no uso da autorização legislativa conferida pelo artigo 50.º da [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), de 27 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o seguinte:"
+  },
+  "aa1fd23eb7a276d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito da dedução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, realizadas no período de tributação que se inicie em 1997, numa dupla percentagem:\n\na) Taxa de base: 8% das despesas realizadas naquele período;\n\nb) Taxa incremental: 30% do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de 50000 contos.\n\n2 - A dedução é feita, nos termos da alínea d) do n.º 2 do artigo 71.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n3 - As despesas que, por insuficiência de colecta, não possam ser deduzidas no exercício em que foram realizadas poderão ser deduzidas até ao terceiro exercício imediato.\n\n4 - Para efeitos do disposto nos números anteriores, quando no ano de 1997 ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano."
+  },
+  "075d5e4ab6e0a98d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Despesas\n\n1 - Para efeitos do disposto no presente diploma, consideram-se:\n\na) Despesas de investigação, as realizadas pelo sujeito passivo de IRC com vista à aquisição de novos conhecimentos científicos ou técnicos, desde que se refiram a actividades realizadas em território português;\n\nb) Despesas de desenvolvimento, as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico, desde que se refiram a actividades realizadas no território português.\n\n2 - Consideram-se dedutíveis, designadamente, as seguintes categorias de despesas, desde que se refiram a actividades de investigação e desenvolvimento realizadas no território português:\n\na) Aquisições de imobilizado, à excepção de edifícios, desde que criados ou adquiridos em estado novo e directamente afectos à realização de actividades de I&D\n\nb) Despesas com pessoal directamente envolvido em tarefas de I&D\n\nc) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D\n\nd) Despesas de funcionamento, até ao máximo de 55% das despesas com o pessoal directamente envolvido em tarefas de I&D escrituradas a título de remunerações, ordenados ou salários, respeitantes ao exercício;\n\ne) Despesas relativas à contratação de actividades de I&D junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho conjunto dos Ministros da Economia e da Ciência e da Tecnologia;\n\nf) Participação no capital de instituições de I&D e contributos para fundos destinados a financiar a I&D\n\ng) Custos com registo e manutenção de patentes;\n\nh) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de actividades de I&D\n\ni) Despesas com auditorias à I&D.\n\n3 - As entidades referenciadas na alínea e) não poderão deduzir qualquer tipo de despesas incorridas em projectos realizados por conta de terceiros."
+  },
+  "7cd235ba5241ecc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições\n\nApenas poderão beneficiar da dedução a que se refere o artigo 1.º os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indiciários;\n\nb) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado."
+  },
+  "3496d85758481b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações acessórias\n\n1 - A dedução a que se refere o artigo 1.º será justificada por declaração, a anexar à declaração periódica de rendimentos referente ao exercício de 1997, identificando as despesas objecto de dedução, o cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e outros elementos considerados pertinentes.\n\n2 - A declaração a que se refere o número anterior deverá ser acompanhada de uma outra declaração a requerer pelas entidades interessadas, ou de prova da apresentação do pedido de emissão dessa declaração, comprovativa de que as actividades exercidas ou a exercer correspondem efectivamente a acções de investigação ou desenvolvimento, a qual será emitida por entidade nomeada por despacho do Ministro da Ciência e da Tecnologia.\n\n3 - A declaração a que se refere o n.º 1 deverá, igualmente ser acompanhada de documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo 3.º com referência ao mês anterior ao da declaração.\n\n4 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previsto no presente diploma devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 2 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas."
+  },
+  "9ef5be3a414447df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações contabilísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações contabilísticas\n\nA contabilidade dos sujeitos passivos de IRC beneficiários do regime previsto no presente diploma dará expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 1.º mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efectua a dedução."
+  },
+  "a86a084fca13a8b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Exclusividade do benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exclusividade do benefício\n\nA dedução a que se refere o artigo 1.º o não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza previstos noutros diplomas legais.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - José Mariano Rebelo Pires Gago.\n\nPromulgado em 6 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Outubro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "af71e6ce94b6390b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito da dedução",
+   "in_force_from": "2001-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito da dedução\n\n1 - Os sujeitos passivos de IRC residentes em território português que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objecto de comparticipação financeira do Estado a fundo perdido, realizadas no período de tributação que se inicie em 1997, numa dupla percentagem:\n\na) Taxa de base: 20% das despesas realizadas naquele período;\n\nb) Taxa incremental: 50% do acréscimo das despesas realizadas naquele período em relação à média aritmética simples dos dois exercícios anteriores, até ao limite de 100000 contos, o qual poderá ser revisto por portaria dos Ministros das Finanças e da Ciência e da Tecnologia.\n\n2 - A dedução é feita, nos termos da alínea d) do n.º 2 do artigo 71.º do Código do IRC, na liquidação respeitante ao período de tributação mencionado no número anterior.\n\n3 - As despesas que, por insuficiência de colecta, não possam ser deduzidas no exercício em que foram realizadas poderão ser deduzidas até ao sexto exercício imediato.\n\n4 - Para efeitos do disposto nos números anteriores, quando no ano de início de usufruição do benefício ocorrer mudança do período de tributação, deve ser considerado o período anual que se inicie naquele ano.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+  },
+  "3aa0e155ae44d6f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Despesas",
+   "in_force_from": "2001-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+   ],
+   "markdown": "###### Artigo 2.º — Despesas\n\n1 - Para efeitos do disposto no presente diploma, consideram-se:\n\na) Despesas de investigação, as realizadas pelo sujeito passivo de IRC com vista à aquisição de novos conhecimentos científicos ou técnicos, desde que se refiram a actividades realizadas em território português;\n\nb) Despesas de desenvolvimento, as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico, desde que se refiram a actividades realizadas no território português.\n\n2 - Consideram-se dedutíveis, designadamente, as seguintes categorias de despesas, desde que se refiram a actividades de investigação e desenvolvimento realizadas no território português:\n\na) Aquisições de imobilizado, à excepção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e directamente afectos à realização de actividades de I&D\n\nb) Despesas com pessoal directamente envolvido em tarefas de I&D\n\nc) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D\n\nd) Despesas de funcionamento, até ao máximo de 55% das despesas com o pessoal directamente envolvido em tarefas de I&D escrituradas a título de remunerações, ordenados ou salários, respeitantes ao exercício;\n\ne) Despesas relativas à contratação de actividades de I&D junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho conjunto dos Ministros da Economia e da Ciência e da Tecnologia;\n\nf) Participação no capital de instituições de I&D e contributos para fundos destinados a financiar a I&D, incluindo o financiamento da valorização dos seus resultados;\n\ng) Custos com registo e manutenção de patentes;\n\nh) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de actividades de I&D\n\ni) Despesas com auditorias à I&D.\n\n3 - As entidades referenciadas na alínea e) não poderão deduzir qualquer tipo de despesas incorridas em projectos realizados por conta de terceiros.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+  },
+  "3771deaede4baf9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": "2001-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+   ],
+   "markdown": "###### Artigo 3.º — Condições\n\nApenas poderão beneficiar da dedução a que se refere o artigo 1.º os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indirectos;\n\nb) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+  },
+  "46a50d6446a2c65f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Obrigações acessórias",
+   "in_force_from": "2001-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+   ],
+   "markdown": "###### Artigo 4.º — Obrigações acessórias\n\n1 - A dedução a que se refere o artigo 1.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou de prova da apresentação do pedido de emissão dessa declaração, de que as actividades exercidas ou a exercer correspondem efectivamente a acções de investigação ou desenvolvimento, dos respectivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida por entidade nomeada por despacho do Ministro da Ciência e da Tecnologia, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 121.º do Código do IRC.\n\n2 - No processo de documentação fiscal do sujeito passivo deve igualmente constar documento que evidencie o cálculo do benefício fiscal, bem como documento comprovativo de que se encontra preenchida a condição referida na alínea b) do artigo 3.º, com referência ao mês anterior ao da entrega da declaração periódica de rendimentos.\n\n3 - As entidades interessadas em recorrer ao sistema de incentivos fiscais previsto no presente diploma devem disponibilizar atempadamente as informações solicitadas pela entidade referida no n.º 1 e aceitar submeter-se às auditorias tecnológicas que vierem a ser determinadas.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 197/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2001-350103), publicado em 2001-06-29."
+  }
+ }
+}

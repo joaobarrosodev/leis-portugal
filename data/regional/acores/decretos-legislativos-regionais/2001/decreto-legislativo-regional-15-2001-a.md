@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-07'
+version_history:
+  file: decreto-legislativo-regional-15-2001-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-07'
+    amending: pt:dre:652897:por
+    amending_title: Decreto Legislativo Regional n.º 15/2006/A
+    changes:
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/15/2001/08/04/a/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    15/2006/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2001/decreto-legislativo-regional-15-2001-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,9 +219,9 @@ As áreas curriculares disciplinares e não disciplinares, os limites da respect
 
 ###### Artigo 7.º — Educação especial
 
-1 - Ouvidos os parceiros educativos, por decreto regulamentar regional, são fixadas as normas necessárias para permitir aos alunos com necessidades educativas especiais de carácter permanente o acesso aos ensinos básico e secundário, criando um regime educativo especial com as necessárias adaptações curriculares e materiais.
+(Revogado.)
 
-2 - Para satisfazer as necessidades específicas dos alunos do ensino básico que não possam ser integrados no currículo educativo comum, por portaria do secretário regional competente em matéria de educação, podem ser criados programas específicos de escolaridade.
+> Revogado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 15/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2006-652897), publicado em 2006-04-07.
 
 ###### Artigo 8.º — Matrícula e controlo da assiduidade
 

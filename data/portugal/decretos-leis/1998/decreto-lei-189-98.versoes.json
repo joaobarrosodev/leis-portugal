@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485054:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bb1c3b9a88e5fc3e",
+    "84c8144e5dc3200c",
+    "d8ee8098e085a048",
+    "645e113aa0d22bcb",
+    "0073e01b7ae7c8ed",
+    "c49525ec73ac90bb",
+    "df3cb8ac0730e9ca",
+    "3d486f44ada78edf",
+    "d21eac523c2878c8",
+    "330198ece8a85200",
+    "3d1f850d54162fd3",
+    "aca098c6324199db",
+    "fca9dd666a0c5186",
+    "84370ff98d0def64",
+    "57c44d2496a3d55f",
+    "8a8ee499c4c0f53a",
+    "d5b234b9ea008ee2",
+    "2d6dcebc1324c937",
+    "ebf4b5dcc073baf9",
+    "6a73fe70809a3d88",
+    "1f1586f198f82532",
+    "11427f8f87901cc7",
+    "361ce26358e37c0e",
+    "013394e756d017c3",
+    "9f76afc1159c78ae",
+    "fddd4379645a010e",
+    "399da132fc04ee2c",
+    "dfe52d92a1151f0e"
+   ]
+  },
+  {
+   "date": "2012-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553057:por",
+     "title": "Lei n.º 18/2012",
+     "published": "2012-05-07",
+     "dre_path": "/dr/detalhe/lei/18-2012-553057"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 21.º"
+   ],
+   "fragments": [
+    "bb1c3b9a88e5fc3e",
+    "84c8144e5dc3200c",
+    "d8ee8098e085a048",
+    "645e113aa0d22bcb",
+    "0073e01b7ae7c8ed",
+    "c49525ec73ac90bb",
+    "df3cb8ac0730e9ca",
+    "3d486f44ada78edf",
+    "d21eac523c2878c8",
+    "330198ece8a85200",
+    "3d1f850d54162fd3",
+    "aca098c6324199db",
+    "fca9dd666a0c5186",
+    "84370ff98d0def64",
+    "57c44d2496a3d55f",
+    "8a8ee499c4c0f53a",
+    "d5b234b9ea008ee2",
+    "2d6dcebc1324c937",
+    "ebf4b5dcc073baf9",
+    "6a73fe70809a3d88",
+    "1f1586f198f82532",
+    "e46738be4d916fe0",
+    "361ce26358e37c0e",
+    "013394e756d017c3",
+    "9f76afc1159c78ae",
+    "fddd4379645a010e",
+    "399da132fc04ee2c",
+    "dfe52d92a1151f0e"
+   ]
+  }
+ ],
+ "fragments": {
+  "bb1c3b9a88e5fc3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho\n\nTendo como principais objectivos a salvaguarda da vida humana no mar e a defesa das embarcações e dos bens embarcados, foi adoptada em Londres, em 5 de Abril de 1966, a Convenção Internacional das Linhas de Carga, 1966, a qual veio a consagrar novos princípios e regras uniformes na determinação da imersão das embarcações que efectuem viagens internacionais.\n\nPortugal aderiu à referida Convenção, pelo [Decreto-Lei n.º 49209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49209-1969-300465), de 26 de Agosto de 1969, e, em consequência, os princípios e regras nela estabelecidos passaram a aplicar-se às embarcações nacionais abrangidas pela Convenção.\n\nDaí tornar-se necessário criar regulamentação adequada que possibilite dar execução à Convenção e às regras nela previstas, estabelecendo, para o efeito, um quadro normativo que contemple as entidades competentes e respectivas competências em cumprimento da Convenção.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "84c8144e5dc3200c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nPelo presente diploma são fixadas as disposições regulamentares necessárias à aplicação da Convenção Internacional das Linhas de Carga, 1966."
+  },
+  "d8ee8098e085a048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Convenção - a Convenção Internacional das Linhas de Carga, 1966, a que Portugal aderiu pelo [Decreto-Lei n.º 49209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49209-1969-300465), de 26 de Agosto de 1969;\n\nb) Viagem internacional - a viagem com início num porto nacional até um porto situado fora do território nacional, ou inversamente;\n\nc) Embarcação nova - a embarcação cuja quilha foi assente ou se encontrava em fase equivalente de construção, depois da data de entrada em vigor a nível internacional da Convenção, 21 de Julho de 1968;\n\nd) Embarcação existente - a embarcação que não é embarcação nova.\n\n2 - Outras definições a ter em conta na aplicação do presente diploma devem mostrar-se conformes com as normas e as regras estabelecidas na Convenção."
+  },
+  "645e113aa0d22bcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO presente diploma aplica-se, nos termos da Convenção, às embarcações que efectuam viagens internacionais."
+  },
+  "0073e01b7ae7c8ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Determinação das linhas de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Determinação das linhas de carga\n\nNa determinação das linhas de carga das embarcações abrangidas por este diploma são aplicadas as regras técnicas previstas na Convenção."
+  },
+  "c49525ec73ac90bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Apresentação dos cálculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação dos cálculos\n\n1 - Os cálculos efectuados para a determinação das linhas de carga das embarcações devem ser apresentados na Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM) pelos armadores ou pelos construtores, com vista à sua aprovação.\n\n2 - A apresentação é feita em duplicado, através de impresso próprio existente na DGPNTM ou de impressos dos organismos de inspecção oficialmente reconhecidos.\n\n3 - Após a aprovação dos cálculos, o duplicado é devolvido aos interessados para fins de apoio à gravação das marcas das linhas de carga."
+  },
+  "df3cb8ac0730e9ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Marcas do bordo livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Marcas do bordo livre\n\n1 - As marcas do bordo livre das embarcações devem ser posicionadas de acordo com o bordo livre atribuído e gravadas em ambos os bordos em conformidade com as regras 6 e 8 do anexo I da Convenção.\n\n2 - De um e de outro lado do disco da marca do bordo livre e por cima da faixa horizontal que passa pelo seu centro devem ser colocadas, respectivamente, as letras «R» e «P», iniciais da República Portuguesa.\n\n3 - As letras «R» e «P» devem ter aproximadamente 115 mm de altura e 75 mm de largura."
+  },
+  "3d486f44ada78edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Modificação das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modificação das embarcações\n\nAs embarcações abrangidas pela Convenção, depois de devidamente certificadas, não podem ser objecto de modificação na sua estrutura, equipamento, material, escantilhões e arranjos sem autorização da DGPNTM."
+  },
+  "d21eac523c2878c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Isenções\n\n1 - A requerimento do armador ou do construtor, devidamente fundamentado, a DGPNTM pode isentar algumas embarcações do cumprimento das disposições previstas no artigo 6.º da Convenção.\n\n2 - As situações previstas no número anterior devem ser comunicadas à Organização Marítima Internacional (IMO)."
+  },
+  "330198ece8a85200": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Equivalências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equivalências\n\n1 - Em conformidade com o artigo 8.º da Convenção, a DGPNTM pode permitir que nas embarcações sejam instalados equipamentos, materiais ou aparelhos ou efectuados arranjos, não conformes com a Convenção, se não resultar prejudicada a segurança que decorre da aplicação das suas regras técnicas nela previstas.\n\n2 - As situações abrangidas pelo número anterior devem ser comunicadas pela DGPNTM à IMO."
+  },
+  "3d1f850d54162fd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Vistorias e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vistorias e inspecção\n\nAs embarcações abrangidas pela Convenção estão obrigadas às seguintes vistorias:\n\na) Vistoria inicial - a que é efectuada antes de a embarcação iniciar a actividade e consta de uma inspecção completa à estrutura, ao equipamento e a todos os materiais e arranjos;\n\nb) Vistoria periódica - a que é efectuada em intervalos que não excedem os cinco anos e se destina a verificar se a estrutura, o equipamento, os materiais e os escantilhões satisfazem inteiramente as normas da Convenção;\n\nc) Inspecção periódica - a que é efectuada às embarcações anualmente nos três meses que antecedem ou se seguem à data do aniversário do correspondente certificado e consta de uma verificação quer do casco e das superstruturas, destinada a confirmar a não existência de alterações dos elementos que serviram de base aos cálculos para a determinação da posição das linhas de carga, quer das instalações e dos aprestos, abrangendo:\n\nProtecção das aberturas;\n\nBalaustradas;\n\nRebordos do convés;\n\nMeios de acesso aos alojamentos da tripulação."
+  },
+  "aca098c6324199db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Vistorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vistorias\n\nAs vistorias a embarcações previstas neste diploma só podem ser efectuadas por técnicos da carreira de inspecção de navios da DGPNTM ou por peritos de organizações de inspecção de navios, oficialmente reconhecidas nos termos do [Decreto-Lei n.º 115/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1996-411794), de 6 de Agosto."
+  },
+  "fca9dd666a0c5186": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Certificação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Certificação obrigatória\n\nAs embarcações abrangidas pela Convenção não podem exercer a respectiva actividade se não estiverem devidamente certificadas."
+  },
+  "84370ff98d0def64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Emissão de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Emissão de certificados\n\n1 - A DGPNTM é a entidade competente para a emissão dos certificados previstos neste diploma.\n\n2 - A DGPNTM é também competente para proceder à emissão de certificados ao abrigo da Convenção e relativos a embarcações estrangeiras que arvorem bandeiras de Estados partes da Convenção.\n\n3 - Em qualquer caso, os certificados só são emitidos se das vistorias resultar que as embarcações satisfazem as normas e regras da Convenção."
+  },
+  "57c44d2496a3d55f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Tipos de certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tipos de certificados\n\n1 - Na sequência das vistorias efectuadas ao abrigo deste diploma, podem ser emitidos os certificados seguintes:\n\na) Certificado internacional das linhas de carga (1966), relativo a embarcações abrangidas pela Convenção;\n\nb) Certificado internacional de isenção de bordo livre, relativo a embarcações a que tenha sido concedida uma isenção em conformidade com o artigo 8.º do presente diploma.\n\n2 - Os modelos respeitantes aos certificados previstos no número anterior constam do anexo ao presente diploma."
+  },
+  "8a8ee499c4c0f53a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Validade dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Validade dos certificados\n\n1 - O certificado referido na alínea a) do n.º 1 do artigo antecedente é válido por cinco anos, contados a partir da data da respectiva emissão.\n\n2 - O certificado previsto na alínea b) da disposição anteriormente referida é válido:\n\na) Por um período igual ao da validade do respectivo certificado internacional das linhas de carga (1966), quando a isenção for concedida em conformidade com o parágrafo 2 do artigo 6.º da Convenção;\n\nb) Por um período igual ao da duração da viagem a efectuar, quando a isenção for concedida em conformidade com o parágrafo 4 do artigo 6.º da Convenção."
+  },
+  "d5b234b9ea008ee2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prorrogação da validade dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prorrogação da validade dos certificados\n\n1 - O prazo de validade dos certificados pode ser prorrogado pela DGPNTM, a requerimento fundamentado dos interessados, por um período não superior a cinco meses.\n\n2 - A prorrogação do prazo só pode ser concedida se resultar da vistoria, para o efeito efectuada, que a embarcação satisfaz as normas e regras da Convenção.\n\n3 - A prorrogação do prazo de validade de um certificado deve ser averbada no respectivo certificado."
+  },
+  "2d6dcebc1324c937": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cancelamento dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cancelamento dos certificados\n\nA DGPNTM pode cancelar o certificado internacional de linhas de carga (1966) sempre que ocorra uma das seguintes situações:\n\na) Terem sido efectuadas modificações no casco ou nas superstruturas das embarcações que impliquem a alteração no bordo livre atribuído;\n\nb) Não se encontrarem em bom estado as instalações e os arranjos;\n\nc) Não ter sido efectuada e averbada no certificado a vistoria periódica;\n\nd) Ter diminuído a resistência estrutural da embarcação com prejuízo para as respectivas condições de segurança."
+  },
+  "ebf4b5dcc073baf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Afixação dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Afixação dos certificados\n\n1 - Um exemplar de cada certificado deve ser afixado a bordo, em local bem visível e de fácil acesso.\n\n2 - A responsabilidade pelo cumprimento do disposto no número anterior é do comandante da embarcação."
+  },
+  "6a73fe70809a3d88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Limitação da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Limitação da carga\n\nAs embarcações abrangidas pela Convenção não podem ser sujeitas a operações de carregamento que impliquem a imersão da respectiva linha de carga."
+  },
+  "1f1586f198f82532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Zonas e áreas periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Zonas e áreas periódicas\n\nAs embarcações abrangidas pela Convenção devem observar o disposto no anexo II da Convenção, relativamente às zonas e às áreas periódicas."
+  },
+  "11427f8f87901cc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Inquéritos a acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Inquéritos a acidentes\n\nA DGPNTM tem competência para efectuar relatórios relativos a acidentes de embarcações abrangidas pela Convenção e, se assim o entender, deles dar conhecimento à IMO."
+  },
+  "361ce26358e37c0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competência sancionatória\n\n1 - Compete à DGPNTM e ao Sistema de Autoridade Marítima (SAM) assegurar o cumprimento do disposto neste diploma, bem como a instrução dos processos de contra-ordenação.\n\n2 - A aplicação das coimas compete ao director-geral de Portos, Navegação e Transportes Marítimos, bem como aos capitães dos portos, relativamente às infracções que detectem nas respectivas áreas de jurisdição.\n\n3 - O montante das coimas cobradas por força do presente diploma reverte:\n\na) Em 60% para o Estado;\n\nb) Em 40% para as entidades autuantes."
+  },
+  "013394e756d017c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime contra-ordenacional\n\n1 - Constitui contra-ordenação, punível com coima, qualquer infracção ao disposto no presente diploma e como tal tipificada nos artigos seguintes.\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - Às contra-ordenações previstas no presente diploma é aplicável o regime geral das contra-ordenações."
+  },
+  "9f76afc1159c78ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade contra-ordenacional\n\n1 - A não existência de marcas do bordo livre devidamente posicionadas, em conformidade com o disposto no n.º 1 do artigo 6.º, constitui contra-ordenação, punível com coima de 30000$00 a 600000$00, aplicável ao comandante da embarcação.\n\n2 - A modificação de embarcações sem a necessária autorização prevista no artigo 7.º constitui contra-ordenação, punível com coima de 100000$00 a 700000$00, aplicável aos proprietários das embarcações.\n\n3 - O montante máximo da coima prevista no número anterior será de 2000000$00, se o proprietário da embarcação for uma pessoa colectiva.\n\n4 - A inexistência de certificação válida para o exercício da actividade, em conformidade com o disposto no artigo 12.º, constitui contra-ordenação, punível com coima de 30000$00 a 600000$00, aplicável ao comandante da embarcação.\n\n5 - O carregamento de embarcações para além dos limites previstos no artigo 19.º constitui contra-ordenação, punível com coima de 50000$00 a 500000$00, aplicável ao comandante da embarcação."
+  },
+  "fddd4379645a010e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fiscalização\n\nNas acções de fiscalização exercidas ao abrigo do presente diploma compete:\n\na) À DGPNTM verificar se as estruturas, o equipamento, o material, os escantilhões e os arranjos das embarcações se mostram conformes com os requisitos técnicos previstos na legislação aplicável;\n\nb) Ao SAM verificar se as embarcações se encontram devidamente certificadas e os certificados regularmente afixados, se não existe afundamento das linhas de carga e se a marca de bordo livre se encontra na posição correcta."
+  },
+  "399da132fc04ee2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições transitórias\n\n1 - Os certificados emitidos ao abrigo da legislação anterior ao presente diploma continuam válidos até ao termo da sua validade.\n\n2 - As referências feitas na legislação nacional aos certificados internacionais das linhas de carga (1930) consideram-se feitas aos certificados internacionais das linhas de carga (1966)."
+  },
+  "dfe52d92a1151f0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - João Cardona Gomes Cravinho.\n\nPromulgado em 8 de Maio de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/07/157a00/31373141.pdf)"
+  },
+  "e46738be4d916fe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Inquéritos a acidentes",
+   "in_force_from": "2012-05-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+   ],
+   "markdown": "###### Artigo 21.º — Inquéritos a acidentes\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+  }
+ }
+}

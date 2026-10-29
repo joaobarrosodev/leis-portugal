@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274239:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "228c9a20ce6d06d1"
+   ]
+  },
+  {
+   "date": "1997-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:358963:por",
+     "title": "Decreto-Lei n.º 145/97",
+     "published": "1997-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/145-1997-358963"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "6cd21cf925e1f594",
+    "7afd984a4b090177",
+    "143014a3e8c77318",
+    "96612356afa5c616",
+    "a184989a9d3f785c",
+    "03e9d3980f08b2da",
+    "9c4262ddfd35324a",
+    "bfec8e22fb00abf3"
+   ]
+  }
+ ],
+ "fragments": {
+  "228c9a20ce6d06d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nA política de habitação social consubstancia-se no apoio financeiro do Estado por forma a permitir a qualquer agregado familiar o acesso a uma habitação condigna.\n\nPara a construção de habitações de custos controlados, o Estado concede financiamentos bonificados, quer para aquisição e infra-estruturação de terrenos, quer para a construção, para além de diversos benefícios fiscais e parafiscais, materializados na isenção ou na redução de impostos, taxas e outros custos.\n\nA concessão destes financiamentos tem como pressuposto a construção de qualidade, mas a custos controlados, apenas inserida dentro de certos parâmetros a nível de áreas por tipologia, a que corresponde um valor máximo de venda, mas que satisfaz plenamente as necessidades de habitação própria dos seus adquirentes.\n\nNestes termos, a posterior transmissibilidade de habitações de custos controlados não pode desvirtuar os fins que estão na origem do financiamento, impondo-se garantir que ao esforço do Estado correspondam os benefícios sociais que lhe estão subjacentes.\n\nPor outro lado, o [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Abril, veio estabelecer como condição necessária de concessão de financiamentos bonificados a adopção pelos diversos promotores de habitações de custos controlados do regime de empreitadas de obras públicas, o que os obriga ao regime de concurso público. Convém agora explicitar quando é que o concurso público pode ser dispensado, adoptando-se para o efeito o critério idêntico previsto para as entidades promotoras públicas, em igualdade de circunstâncias.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Os fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma.\n\nArt. 2.º - 1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.\n\n2 - No caso de habitações destinadas a arrendamento, nos termos do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, o regime de intransmissibilidade conta-se a partir da data de emissão da licença de utilização.\n\nArt. 3.º - 1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.\n\n2 - O regime de intransmissibilidade não prejudica a possibilidade de alienação do fogo ao arrendatário, no caso de este se encontrar arrendado ao abrigo do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, mantendo-se, contudo, o decurso do respectivo prazo.\n\n3 - Se o proprietário ou a cooperativa pretender alienar o fogo antes do decurso do prazo referido no artigo 2.º, pode solicitar ao Instituto Nacional de Habitação (INH) o levantamento do regime de intransmissibilidade, reembolsando a bonificação relativa à respectiva fracção, nos termos a definir em portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n4 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda do fogo perante documento emitido, para o efeito, pelo INH.\n\nArt. 4.º - 1 - A cooperativa só pode receber dos sócios, a título de sinal e ou início de pagamento, as importâncias correspondentes à fracção do valor do fogo que não é financiado pelo INH.\n\n2 - As importâncias que excedam o montante referido no número anterior são obrigatoriamente afectas à imediata amortização dos financiamentos em dívida.\n\nArt. 5.º As cooperativas ficam obrigadas a divulgar, nos termos a fixar por portaria do Ministro das Obras Públicas, Transportes e Comunicações, os elementos referentes ao projecto e ao financiamento, os valores de venda iniciais e previsíveis dos respectivos fogos e os demais que se mostrem adequados ao correcto conhecimento das condições de aquisição.\n\nArt. 6.º - 1 - A violação do disposto nos artigos 4.º e 5.º pode dar lugar à imediata suspensão do financiamento à cooperativa, para além da inibição de acesso ao crédito bonificado por um período de dois anos.\n\n2 - Sem prejuízo do disposto no número anterior, a violação do artigo 4.º e dos preços máximos de venda fixados constitui crime de especulação, nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.\n\nArt. 7.º - 1 - Para efeitos do disposto no artigo 1.º do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, as cooperativas podem adjudicar, por ajuste directo, as obras de valor inferior ao limite de competência para autorização de despesas com dispensa de concurso legalmente definido para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira.\n\n2 - As normas técnicas de execução do [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Agosto, designadamente no tocante à padronização de cadernos de encargos, são definidas por portaria do Ministro das Obras Públicas, Transportes e Comunicações.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 26 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "6cd21cf925e1f594": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Maio\n\nA política de habitação social consubstancia-se no apoio financeiro do Estado por forma a permitir a qualquer agregado familiar o acesso a uma habitação condigna.\n\nPara a construção de habitações de custos controlados, o Estado concede financiamentos bonificados, quer para aquisição e infra-estruturação de terrenos, quer para a construção, para além de diversos benefícios fiscais e parafiscais, materializados na isenção ou na redução de impostos, taxas e outros custos.\n\nA concessão destes financiamentos tem como pressuposto a construção de qualidade, mas a custos controlados, apenas inserida dentro de certos parâmetros a nível de áreas por tipologia, a que corresponde um valor máximo de venda, mas que satisfaz plenamente as necessidades de habitação própria dos seus adquirentes.\n\nNestes termos, a posterior transmissibilidade de habitações de custos controlados não pode desvirtuar os fins que estão na origem do financiamento, impondo-se garantir que ao esforço do Estado correspondam os benefícios sociais que lhe estão subjacentes.\n\nPor outro lado, o [Decreto-Lei n.º 183/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1992-258130), de 22 de Abril, veio estabelecer como condição necessária de concessão de financiamentos bonificados a adopção pelos diversos promotores de habitações de custos controlados do regime de empreitadas de obras públicas, o que os obriga ao regime de concurso público. Convém agora explicitar quando é que o concurso público pode ser dispensado, adoptando-se para o efeito o critério idêntico previsto para as entidades promotoras públicas, em igualdade de circunstâncias.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7afd984a4b090177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs fogos construídos com financiamentos ao abrigo do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, ficam sujeitos ao regime de intransmissibilidade previsto no presente diploma."
+  },
+  "143014a3e8c77318": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O regime de intransmissibilidade de fogos destinados à habitação própria permanente tem a duração de cinco anos e conta-se a partir da data de aquisição ou da emissão da respectiva licença de utilização, se esta for posterior.\n\n2 - No caso de habitações destinadas a arrendamento, nos termos do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, o regime de intransmissibilidade conta-se a partir da data de emissão da licença de utilização."
+  },
+  "96612356afa5c616": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Dentro do respectivo prazo, o regime de intransmissibilidade está sujeito a registo e cessa automaticamente com a morte ou invalidez permanente e absoluta do cooperador ou do respectivo cônjuge.\n\n2 - O regime de intransmissibilidade não prejudica a possibilidade de alienação do fogo ao arrendatário, no caso de este se encontrar arrendado ao abrigo do [Decreto-Lei n.º 163/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1992-274436), de 5 de Agosto, mantendo-se, contudo, o decurso do respectivo prazo.\n\n3 - Se o proprietário ou a cooperativa pretender alienar o fogo antes do decurso do prazo referido no artigo 2.º, pode solicitar ao Instituto Nacional de Habitação (INH) o levantamento do regime de intransmissibilidade, reembolsando a bonificação relativa à respectiva fracção, nos termos a definir em portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n4 - A verificação do disposto nos números anteriores é aferida pelo notário no momento da celebração da escritura de compra e venda do fogo perante documento emitido, para o efeito, pelo INH."
+  },
+  "a184989a9d3f785c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1997-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+  },
+  "03e9d3980f08b2da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1997-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+  },
+  "9c4262ddfd35324a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1997-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+  },
+  "bfec8e22fb00abf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1997-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 145/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1997-358963), publicado em 1997-06-11.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 26 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

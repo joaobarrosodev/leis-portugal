@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:215542:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a006b1dd3d5cb3e6"
+   ]
+  },
+  {
+   "date": "1999-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:356559:por",
+     "title": "Decreto-Lei n.º 271/99",
+     "published": "1999-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/271-1999-356559"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "b032420816c91e32",
+    "5b1d27b88ac26509",
+    "0779a23d49659348",
+    "488fad58979e81ee",
+    "9d88052bc7886f3c",
+    "4ac0ef29f5b03ee8",
+    "a19df57f50491bd2"
+   ]
+  }
+ ],
+ "fragments": {
+  "a006b1dd3d5cb3e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Uma das metas do III Plano de Fomento em matéria de transportes rodoviários é dar às vias principais características que lhes permitam satisfazer as necessidades de um tráfego em rápido crescimento, remodelando as infra-estruturas rodoviárias existentes.\n\nAssim, o Plano destacou em rubricas a modernização de estradas que servem directamente Lisboa e Porto, bem como das grandes estradas de tráfego internacional e de outras vias de acentuado interesse público.\n\nAo mesmo tempo, propôs-se também o Governo impulsionar a construção de estradas do Plano Rodoviário, incluindo as do Plano Coordenador com o Plano de Viação Rural e as do Plano do Nordeste Transmontano, facultando ao País novas vias, designadamente nas regiões em que os estudos indiquem que a sua baixa densidade entrava o desenvolvimento económico.\n\nA evolução do tráfego e do parque automóvel nacional mostra serem vários os casos em que aquela modernização se deve traduzir na construção de lanços de auto-estradas, e em especial no itinerário Lisboa-Porto, no qual apenas estão construídos, há já alguns anos, uns escassos 38 km de auto-estrada nas proximidades imediatas das duas cidades.\n\nNa realidade, no eixo Lisboa-Porto concentra-se uma percentagem considerável do tráfego rodoviário do País e as características actuais da estrada nacional n.º 1 não são de molde a econòmicamente consentir trabalhos de beneficiação em alguns dos troços mais sobrecarregados e de mais urgente modernização.\n\nOutras mais auto-estradas ou troços de auto-estradas se impõem ou virão a impor na sequência do crescimento do tráfego, e no primeiro caso se incluem os prolongamentos da auto-estrada da Costa do Sol, há anos interrompida junto ao Estádio Nacional, e da auto-estrada do Sul, para além do troço construído simultâneamente com a Ponte Salazar.\n\nÉ propósito do Governo dar ao problema das infra-estruturas rodoviárias, nacionais e municipais, renovada atenção, em correspondência com a especial importância que elas assumem para o progresso económico do País, e é dentro dessa ideia de reforço dos meios de acção que se vai encetar o sistema do financiamento privado para a execução de auto-estradas, em uso generalizado noutros países. Esta a finalidade do presente diploma.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da construção, conservação e exploração de auto-estradas ou seus troços, para cumprimento dos programas de auto-estradas aprovadas pelo Conselho de Ministros.\n\nArt. 2.º Cabe ao Conselho de Ministros adjudicar em cada caso a concessão, cuja outorga será feita por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e das Comunicações, tendo anexo o respectivo caderno de encargos.\n\nArt. 3.º As concessões darão às entidades concessionárias o direito de perceber dos utentes das auto-estradas ou dos troços das auto-estradas a que se refiram a taxa de portagem fixada no decreto de ourtoga da concessão.\n\nArt. 4.º O Estado poderá, quando as circunstâncias o aconselhem, participar no capital das entidades concessionárias directamente ou por intermédio das suas instituições de crédito.\n\nArt. 5.º - 1. O Estado garantirá às entidades concessionárias, pelo exercício da concessão, os seguintes benefícios:\n\na) Insenção das taxas de licença;\n\nb) Insenção de impostos, de contribuições e de outros encargos fiscais;\n\nc) Insenção de direitos de importação para as máquinas a utilizar na construção e na conservação das auto-estradas, mediante informação favorável da Junta Autónoma de Estradas, nos termos do artigo 169.º do Estatuto das Estradas Nacionais, aprovado pela lei n.º 2037, de 19 de Agosto de 1949.\n\n2. A insenção a que se refere a alínea c) do número anterior será também concedida aos empreiteiros dos concessionários, que como tais forem reconhecidos pelo Ministério das Obras Públicas.\n\nArt. 6.º - 1. Serão consideradas de utilidade pública as expropriações necessárias à construção das auto-estradas a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Obras Públicas.\n\n2. É aplicável às expropriações para os fins previstos no presente diploma o regime definido na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 15 de Outubro de 1969.\n\nPublique-se\n\nPresidência da República, 25 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "b032420816c91e32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Uma das metas do III Plano de Fomento em matéria de transportes rodoviários é dar às vias principais características que lhes permitam satisfazer as necessidades de um tráfego em rápido crescimento, remodelando as infra-estruturas rodoviárias existentes.\n\nAssim, o Plano destacou em rubricas a modernização de estradas que servem directamente Lisboa e Porto, bem como das grandes estradas de tráfego internacional e de outras vias de acentuado interesse público.\n\nAo mesmo tempo, propôs-se também o Governo impulsionar a construção de estradas do Plano Rodoviário, incluindo as do Plano Coordenador com o Plano de Viação Rural e as do Plano do Nordeste Transmontano, facultando ao País novas vias, designadamente nas regiões em que os estudos indiquem que a sua baixa densidade entrava o desenvolvimento económico.\n\nA evolução do tráfego e do parque automóvel nacional mostra serem vários os casos em que aquela modernização se deve traduzir na construção de lanços de auto-estradas, e em especial no itinerário Lisboa-Porto, no qual apenas estão construídos, há já alguns anos, uns escassos 38 km de auto-estrada nas proximidades imediatas das duas cidades.\n\nNa realidade, no eixo Lisboa-Porto concentra-se uma percentagem considerável do tráfego rodoviário do País e as características actuais da estrada nacional n.º 1 não são de molde a econòmicamente consentir trabalhos de beneficiação em alguns dos troços mais sobrecarregados e de mais urgente modernização.\n\nOutras mais auto-estradas ou troços de auto-estradas se impõem ou virão a impor na sequência do crescimento do tráfego, e no primeiro caso se incluem os prolongamentos da auto-estrada da Costa do Sol, há anos interrompida junto ao Estádio Nacional, e da auto-estrada do Sul, para além do troço construído simultâneamente com a Ponte Salazar.\n\nÉ propósito do Governo dar ao problema das infra-estruturas rodoviárias, nacionais e municipais, renovada atenção, em correspondência com a especial importância que elas assumem para o progresso económico do País, e é dentro dessa ideia de reforço dos meios de acção que se vai encetar o sistema do financiamento privado para a execução de auto-estradas, em uso generalizado noutros países. Esta a finalidade do presente diploma.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "5b1d27b88ac26509": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da construção, conservação e exploração de auto-estradas ou seus troços, para cumprimento dos programas de auto-estradas aprovadas pelo Conselho de Ministros."
+  },
+  "0779a23d49659348": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCabe ao Conselho de Ministros adjudicar em cada caso a concessão, cuja outorga será feita por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e das Comunicações, tendo anexo o respectivo caderno de encargos."
+  },
+  "488fad58979e81ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs concessões darão às entidades concessionárias o direito de perceber dos utentes das auto-estradas ou dos troços das auto-estradas a que se refiram a taxa de portagem fixada no decreto de ourtoga da concessão."
+  },
+  "9d88052bc7886f3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Estado poderá, quando as circunstâncias o aconselhem, participar no capital das entidades concessionárias directamente ou por intermédio das suas instituições de crédito."
+  },
+  "4ac0ef29f5b03ee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1999-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1999-356559), publicado em 1999-07-16."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1999-356559), publicado em 1999-07-16."
+  },
+  "a19df57f50491bd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Serão consideradas de utilidade pública as expropriações necessárias à construção das auto-estradas a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Obras Públicas.\n\n2. É aplicável às expropriações para os fins previstos no presente diploma o regime definido na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 15 de Outubro de 1969.\n\nPublique-se\n\nPresidência da República, 25 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

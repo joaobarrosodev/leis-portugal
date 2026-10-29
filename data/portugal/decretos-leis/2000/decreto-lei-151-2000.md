@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-03-01'
+version_history:
+  file: decreto-lei-151-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-01'
+    amending: pt:dre:608072:por
+    amending_title: Decreto-Lei n.º 47/2005
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/151/2000/07/20/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:17:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-151-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,17 +268,7 @@ m) Assegurar, no âmbito das suas atribuições, o relacionamento com as institu
 
 1 - O Ministério do Planeamento compreende serviços a nível central e regional e serviços sob tutela.
 
-2 - Constituem serviços centrais do Ministério do Planeamento:
-
-a) A Secretaria-Geral;
-
-b) A Auditoria Jurídica;
-
-c) O Gabinete de Assuntos Europeus e Relações Externas;
-
-d) A Direcção-Geral do Desenvolvimento Regional;
-
-e) O Departamento de Prospectiva e Planeamento.
+2 - (Revogado.)
 
 3 - Constituem serviços desconcentrados a nível regional:
 
@@ -279,6 +288,8 @@ e) A Comissão de Coordenação da Região do Algarve.
 
 6 - O Observatório do QCA constitui uma sede de análise e avaliação da execução e dos resultados do QCA III, sendo o seu funcionamento interno e composição objecto de portaria do Ministro do Planeamento.
 
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
+
 ###### Artigo 4.º — Instituto sob tutela
 
 Funciona sob tutela do Ministério do Planeamento o Instituto Nacional de Estatística.
@@ -289,53 +300,15 @@ Funciona sob tutela do Ministro do Planeamento a Empresa de Desenvolvimento e In
 
 ###### Artigo 6.º — Secretaria-Geral
 
-1 - É criada a Secretaria-Geral do Ministério do Planeamento.
+(Revogado.)
 
-2 - A Secretaria-Geral (SG) é o serviço central de coordenação e de apoio aos membros do Governo, aos serviços e demais entidades do Ministério do Planeamento, nos domínios do planeamento e controlo orçamental, da gestão dos recursos humanos, da gestão financeira e patrimonial, da organização logística e da informação e relações públicas.
-
-3 - Compete à Secretaria-Geral:
-
-a) Apoiar técnica e administrativamente os membros do Governo que integram o Ministério do Planeamento, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham dos meios apropriados;
-
-b) Participar na definição das medidas de política de pessoal e de emprego do Ministério do Planeamento e na elaboração das normas de gestão dos recursos humanos dos serviços que nele se integram;
-
-c) Promover e apoiar acções de formação em áreas comuns aos serviços do Ministério do Planeamento;
-
-d) Propor medidas de aperfeiçoamento, de modernização e inovação administrativas, conducentes à melhoria de funcionamento das estruturas e ao incremento da qualidade dos serviços prestados;
-
-e) Coordenar a preparação do orçamento de funcionamento do Ministério do Planeamento e acompanhar a sua execução;
-
-f) Assegurar a conservação e administração dos bens móveis e imóveis afectos ao ministério, à excepção dos atribuídos a outros serviços;
-
-g) Realizar e coordenar actividades nos domínios da informação, relações públicas e protocolo;
-
-h) Elaborar estudos, projectos e informações no domínio das suas competências, por sua iniciativa ou a solicitação dos membros do Governo ou dos serviços, bem como assegurar a coordenação das acções de carácter comum no âmbito do Ministério do Planeamento.
-
-4 - A SG articula a sua acção, nomeadamente nos domínios dos recursos humanos, da modernização administrativa, do planeamento e da gestão financeira e patrimonial, com os competentes serviços centrais da Administração Pública.
-
-5 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, equiparados, para todos os efeitos, a director-geral e subdirector-geral, respectivamente.
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
 
 ###### Artigo 7.º — Auditoria Jurídica
 
-1 - É criada a Auditoria Jurídica do Ministério do Planeamento.
+(Revogado.)
 
-2 - A Auditoria Jurídica é o serviço de consulta jurídica e de apoio legislativo e contencioso do Ministro do Planeamento e dos restantes membros do Governo que integram o Ministério do Planeamento.
-
-3 - Compete à Auditoria Jurídica:
-
-a) Dar parecer, prestar informações e proceder a estudos jurídicos sobre quaisquer assuntos que sejam submetidos à sua apreciação pelos membros do Governo da área do planeamento;
-
-b) Verificar o conteúdo e o rigor técnico-jurídico dos projectos de diplomas que lhe sejam submetidos;
-
-c) Colaborar na elaboração de projectos de diplomas legais;
-
-d) Intervir nos processos contenciosos que digam respeito ao Ministério do Planeamento, promovendo as diligências necessárias à sua tramitação;
-
-e) Promover a instrução de processos disciplinares e de inquérito;
-
-f) Prestar todo o apoio que, no âmbito das suas competências, lhe for solicitado pelos membros do Governo do Ministério do Planeamento.
-
-4 - A orientação e a coordenação técnico-jurídica da Auditoria Jurídica competem a um procurador-geral-adjunto, designado para o exercício de funções de auditor jurídico junto do Ministério do Planeamento.
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
 
 ###### Artigo 8.º — Gabinete de Assuntos Europeus e Relações Externas
 
@@ -361,69 +334,15 @@ g) Assegurar a representação do Ministério do Planeamento na Comissão Interm
 
 ###### Artigo 9.º — Direcção-Geral do Desenvolvimento Regional
 
-1 - A Direcção-Geral do Desenvolvimento Regional (DGDR) é o serviço central do Ministério do Planeamento, dotado de autonomia administrativa e financeira, responsável pela elaboração e execução da política de desenvolvimento regional, pela coordenação e acompanhamento da execução das intervenções nos fundos comunitários, bem como pela gestão nacional do FEDER e do Fundo de Coesão.
+(Revogado.)
 
-2 - Constituem competências da DGDR:
-
-a) Propor ao Governo as bases gerais da política de desenvolvimento regional, bem como a sua reformulação periódica, promovendo, em conjugação com outros organismos competentes, a sua articulação com a política de desenvolvimento económico e social;
-
-b) Elaborar o Plano de Desenvolvimento Regional, de harmonia com as orientações das Grandes Opções do Plano e, neste âmbito, articular as acções dos fundos comunitários;
-
-c) Acompanhar a implementação da política de desenvolvimento regional, analisando, designadamente, as suas repercussões a nível sectorial e regional;
-
-d) Propor medidas de apoio à actividade económica no âmbito do desenvolvimento regional e promover e acompanhar a sua aplicação;
-
-e) Participar no processo de planeamento das acções e investimentos, com incidência no desenvolvimento regional, estabelecendo as necessárias articulações interinstitucionais a nível global, sectorial e inter-regional;
-
-f) Assegurar as negociações com a Comissão Europeia em questões relacionadas com os fundos comunitários, de acordo com as orientações do Governo;
-
-g) Efectuar o acompanhamento da execução dos fundos comunitários;
-
-h) Assegurar a gestão nacional do FEDER e do Fundo de Coesão, cabendo-lhe as respectivas funções de interlocutor nacional perante a Comissão Europeia;
-
-i) Centralizar os fluxos financeiros provenientes do FEDER e do Fundo de Coesão, assegurando, enquanto autoridade de pagamento, a sua gestão;
-
-j) Assegurar o controlo de segundo nível das intervenções co-financiadas pelo FEDER e pelo Fundo de Coesão, em articulação com as inspecções-gerais ou outros organismos integrados nos departamentos governamentais com competências atinentes aos sectores envolvidos, expressamente designados para o efeito pelo membro do Governo correspondente;
-
-l) Assegurar a existência, organização e funcionamento do sistema de informação do QCA III e do Fundo de Coesão;
-
-m) Colaborar nos processos da avaliação intercalar e final do QCA III e do Fundo de Coesão;
-
-n) Emitir orientações dirigidas aos gestores das intervenções operacionais tendo em vista a harmonização da aplicação das normas comunitárias relativas ao FEDER e ao Fundo de Coesão;
-
-o) Prestar apoio à Comissão de Gestão do QCA III, nos termos da legislação em vigor;
-
-p) Contribuir para a definição de normas de acesso, gestão e controlo relativamente a projectos e acções financiadas pelo FEDER ou pelo Fundo de Coesão;
-
-q) Exercer as demais funções que lhe forem legalmente cometidas.
-
-3 - A DGDR é dirigida por um director-geral, que, por inerência, preside à Comissão de Gestão do QCA III, coadjuvado no exercício das suas funções por três subdirectores-gerais.
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
 
 ###### Artigo 10.º — Departamento de Prospectiva e Planeamento
 
-1 - O Departamento de Prospectiva e Planeamento (DPP) é o serviço do Ministério do Planeamento vocacionado para o estudo, concepção e proposta da estratégia de desenvolvimento económico e social.
+(Revogado.)
 
-2 - Constituem competências do DPP:
-
-a) Preparar cenários e trajectórias possíveis de evolução da economia e sociedades portuguesas e propor as grandes linhas da estratégia de desenvolvimento, integrando e articulando as políticas sectoriais e espaciais, de acordo com as orientações do Governo;
-
-b) Coordenar o processo de preparação das Grandes Opções do Plano;
-
-c) Preparar e elaborar a proposta técnica do PIDDAC e proceder ao acompanhamento e avaliação da sua execução;
-
-d) Realizar avaliações de impacte de ordem macroeconómica do QCA, a integrar nos respectivos relatórios de execução global, bem como de outros programas de investimento de importância relevante para o desenvolvimento do País;
-
-e) Avaliar o cumprimento do princípio da adicionalidade, relativamente ao QCA;
-
-f) Realizar e participar em estudos de prospectiva nas áreas política, social, económica e tecnológica, no âmbito internacional em geral e comunitário em particular;
-
-g) Analisar a evolução económico-social mundial, em especial a das zonas geográficas e sectores com maior relevo para Portugal;
-
-h) Analisar e acompanhar a evolução económica e social do País, identificando os principais estrangulamentos e perspectivando vectores de desenvolvimento e novas oportunidades associadas à internacionalização da economia portuguesa, em estreito diálogo com outros serviços da Administração e com especialistas do sector privado;
-
-i) Preparar o enquadramento dos programas de desenvolvimento económico e avaliar o seu impacte macroeconómico.
-
-3 - O DPP é dirigido por um director, coadjuvado no exercício das suas funções por dois subdirectores, equiparados para todos os efeitos a director-geral e a subdirector-geral, respectivamente.
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
 
 ###### Artigo 11.º — Comissões de coordenação regional
 

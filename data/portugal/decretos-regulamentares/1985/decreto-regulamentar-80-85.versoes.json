@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:170522:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-12-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6ca2e1e168095e0f",
+    "d75bf05caba3a032",
+    "de0d0a48b3596272",
+    "87e65e13b461fa19",
+    "ca976bf7b912bb32",
+    "327d381179986eff",
+    "9061df3b8df16c05",
+    "fb1a5b8aa2015362",
+    "1ed8a3df7396b552",
+    "acb3fd4fd631fa66",
+    "a6f8c11739183e20",
+    "7daafc884213b17a",
+    "747fa0554453dc1d",
+    "8e1c91dd2e7b5e66",
+    "f2ff668c62c1905a",
+    "85f0f8374b487df5",
+    "0719e67bbb07c119",
+    "2cb4b08fdb213d09",
+    "a9cd92954d728c5f",
+    "7b81cc1243f63cba",
+    "05a91a2972bb57e0",
+    "c7bd5582844dff4b",
+    "5ac523b3dce4c739",
+    "c19cdef3eafa766b",
+    "2bcbdd3f84d2462d"
+   ]
+  },
+  {
+   "date": "1986-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220135:por",
+     "title": "Decreto Regulamentar n.º 38/86",
+     "published": "1986-09-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/38-1986-220135"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "6ca2e1e168095e0f",
+    "d75bf05caba3a032",
+    "de0d0a48b3596272",
+    "87e65e13b461fa19",
+    "ca976bf7b912bb32",
+    "327d381179986eff",
+    "ad26bcd3b8b226bd",
+    "fb1a5b8aa2015362",
+    "1ed8a3df7396b552",
+    "acb3fd4fd631fa66",
+    "a6f8c11739183e20",
+    "7daafc884213b17a",
+    "747fa0554453dc1d",
+    "8e1c91dd2e7b5e66",
+    "f2ff668c62c1905a",
+    "85f0f8374b487df5",
+    "0719e67bbb07c119",
+    "2cb4b08fdb213d09",
+    "a9cd92954d728c5f",
+    "7b81cc1243f63cba",
+    "05a91a2972bb57e0",
+    "c7bd5582844dff4b",
+    "5ac523b3dce4c739",
+    "c19cdef3eafa766b",
+    "2bcbdd3f84d2462d"
+   ]
+  }
+ ],
+ "fragments": {
+  "6ca2e1e168095e0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Regulamentar n.º 80/85\n\nde 4 de Dezembro\n\nA valorização das prestações de segurança social, em particular das pensões, é um dos grandes objectivos da política social do Governo, já que dessa forma se contribui muito claramente para a defesa dos interesses dos cidadãos mais desprotegidos.\n\nPor este diploma procede-se à actualização das pensões da Segurança Social. Que seja esta uma das primeiras medidas tomadas pelo presente Governo é significativo da atenção que lhe merecem os cidadãos mais dependentes e corresponde desde já ao cumprimento da promessa de que se visaria muito especialmente o aumento do poder de compra das pensões, tendo em atenção os limites orçamentais.\n\nAs actualizações determinadas significam um acréscimo de despesa de cerca de 6 milhões de contos em 1985 e de mais de 40 milhões em 1986, o que por si só é expressivo do esforço financeiro que implicam.\n\nEstas actualizações traduzem crescimentos de pensões entre 22% e 25,4%, percentagens consideravelmente superiores ao nível de inflação que o Governo estabelece para 1986, constituindo uma excepção à política de rendimentos que vai ser seguida, porque se entende ser uma exigência de justiça social melhorar significativamente o poder de compra e as condições de vida de cidadãos que se encontram entre os mais desprotegidos.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 202.º da Constituição, o seguinte:"
+  },
+  "d75bf05caba3a032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do campo de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do campo de aplicação"
+  },
+  "de0d0a48b3596272": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAs prestações de invalidez, velhice e sobrevivência dos regimes de segurança social são actualizadas nas condições previstas no presente diploma."
+  },
+  "87e65e13b461fa19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Situações excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Situações excluídas\n\nExcluem-se da aplicação deste diploma, sem prejuízo do disposto no n.º 2 do artigo 4.º, os seguintes grupos de beneficiários:\n\na) Os beneficiários da Caixa de Previdência dos Empregados do Banco de Angola com direito aos benefícios constantes do instrumento de regulamentação colectiva de trabalho do sector bancário;\n\nb) Os beneficiários abrangidos pelos regulamentos especiais de segurança social dos trabalhadores ferroviários e do pessoal do Serviço de Transportes Colectivos do Porto;\n\nc) Outros grupos de beneficiários não abrangidos pelo Centro Nacional de Pensões."
+  },
+  "ca976bf7b912bb32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das pensões dos regimes contributivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das pensões dos regimes contributivos"
+  },
+  "327d381179986eff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Actualização das pensões de invalidez e velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actualização das pensões de invalidez e velhice\n\n1 - As pensões regulamentares de invalidez e velhice do regime geral iniciadas anteriormente a 1 de Janeiro de 1985 são actualizadas para o valor resultante da aplicação de um aumento de 22% ao respectivo quantitativo mensal, sem prejuízo do disposto nos n.os 1 e 3 do artigo 4.º\n\n2 - Entende-se por pensão regulamentar a que se obtém adicionando ao valor da pensão estatutária as melhorias legalmente estabelecidas."
+  },
+  "9061df3b8df16c05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento\n\n1 - O valor mínimo das pensões regulamentares de invalidez e velhice do regime geral é de 6900$00.\n\n2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do artigo 2.º é aplicável a garantia do valor mínimo da pensão estabelecido no número anterior.\n\n3 - Em nenhum caso o aumento mensal resultante da actualização das pensões poderá ser superior a 8000$00."
+  },
+  "fb1a5b8aa2015362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Actualização das pensões de sobrevivência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actualização das pensões de sobrevivência\n\n1 - As pensões de sobrevivência iniciadas anteriormente a 1 de Janeiro de 1985 são actualizadas por aplicação das percentagens regulamentares às pensões de invalidez e velhice que lhes servem de base de cálculo, segundo o valor que para estas resulta do aumento no respectivo quantitativo mensal previsto no artigo 3.º\n\n2 - A regra de actualização definida no número anterior é igualmente aplicável:\n\na) Ás pensões de sobrevivência iniciadas a partir de 1 de Janeiro de 1985, desde que o óbito que lhes deu origem se tenha verificado em data anterior;\n\nb) Às pensões de sobrevivência resultantes de óbitos verificados em data anterior ao início de vigência do presente diploma e correspondentes a pensões de invalidez ou velhice iniciadas até 31 de Dezembro de 1984.\n\n3 - Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulta da aplicação da respectiva percentagem regulamentar ao valor mínimo das pensões de invalidez e velhice estabelecido no artigo 4.º, sem prejuízo do disposto nos artigos 6.º e 7.º"
+  },
+  "1ed8a3df7396b552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Actualização das pensões limitadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Actualização das pensões limitadas\n\n1 - As pensões limitadas por aplicação das normas reguladoras da cumulação de pensões de diferentes esquemas obrigatórios de protecção social são actualizadas em 22% sem prejuízo do n.º 3 do artigo 4.º\n\n2 - O montante total actualizado das pensões acumuladas não pode ser inferior ao valor mínimo fixado no n.º 1 do artigo 4.º\n\n3 - Consideram-se esquemas obrigatórios de protecção social para os efeitos deste artigo os regimes de segurança social, nacionais ou de outros países, de inscrição obrigatória, o regime da Caixa Geral de Aposentações, o esquema dos antigos funcionários ultramarinos, o esquema de protecção social estabelecido na regulamentação colectiva de trabalho dos empregados bancários, bem como o regime de protecção nos riscos de acidente de trabalho e doenças profissionais."
+  },
+  "acb3fd4fd631fa66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Actualização das pensões reduzidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actualização das pensões reduzidas\n\n1 - As pensões reduzidas pela consideração de contribuições em mais de uma instituição de inscrição obrigatória para o efeito do cumprimento de prazos de garantia, por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, ou da aplicação de convenções internacionais, são actualizadas para o valor resultante do aumento de 22% ao respectivo quantitativo mensal, sem prejuízo do n.º 3 do artigo 4.º\n\n2 - O montante total das pensões acumuladas ao quantitativo da pensão reduzida não cumulativa não pode, depois de actualizado, ser inferior ao valor mínimo fixado no n.º 1 do artigo 4.º"
+  },
+  "a6f8c11739183e20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Actualização das pensões do regime especial de segurança social das actividades agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actualização das pensões do regime especial de segurança social das actividades agrícolas\n\n1 - O quantitativo mínimo mensal das pensões de invalidez e velhice do regime especial das actividades agrícolas é fixado em 5900$00.\n\n2 - Os valores das pensões de sobrevivência são actualizados por aplicação das percentagens regulamentares em vigor no regime geral ao quantitativo das pensões referidas no número anterior."
+  },
+  "7daafc884213b17a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Actualização das pensões dos antigos fundos de reforma dos pescadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Actualização das pensões dos antigos fundos de reforma dos pescadores\n\n1 - As pensões dos antigos fundos de reforma dos pescadores iniciadas anteriormente a 1 de Janeiro de 1985 são actualizadas de acordo com o disposto no n.º 1 do artigo 3.º\n\n2 - São actualizadas nos mesmos termos as pensões reduzidas do regime geral iniciadas anteriormente a 1 de Janeiro de 1985 e auferidas em acumulação com as pensões a que o número anterior se refere.\n\n3 - As pensões consideradas no n.º 1 ou o total das pensões no caso previsto no n.º 2 não podem infringir os limites fixados nos n.os 1 e 3 do artigo 4.º"
+  },
+  "747fa0554453dc1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Das pensões do regime não contributivo e regimes equiparados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Das pensões do regime não contributivo e regimes equiparados"
+  },
+  "8e1c91dd2e7b5e66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Actualização das pensões do regime não contributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Actualização das pensões do regime não contributivo\n\n1 - O quantitativo mensal das pensões de invalidez e velhice do regime não contributivo é fixado em 5700$00.\n\n2 - As pensões de viuvez e orfandade são actualizadas para o valor que resulta da aplicação das percentagens regulamentares em vigor no regime geral ao montante fixado no número anterior."
+  },
+  "f2ff668c62c1905a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actualização das pensões dos regimes transitórios dos trabalhadores agrícolas\n\n1 - O valor mensal das pensões de invalidez e velhice dos antigos regimes transitórios dos trabalhadores agrícolas, referidos no artigo 90.º do Decreto-Lei n.º 445/70, de 23 de Setembro, no [Decreto-Lei n.º 391/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1972-691622), de 13 de Outubro, e demais legislação aplicável, é fixado em 5700$00.\n\n2 - As pensões de sobrevivência dos antigos regimes transitórios dos trabalhadores agrícolas, atribuídas nos termos do n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, aos cônjuges sobrevivos dos respectivos pensionistas, são actualizadas por aplicação da percentagem regulamentar em vigor no regime geral ao quantitativo fixado no número anterior."
+  },
+  "85f0f8374b487df5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regimes equiparados ao regime não contributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regimes equiparados ao regime não contributivo\n\nAs pensões e prestações equivalentes de nula ou reduzida base contributiva a cargo do Centro Nacional de Pensões, designadamente as respeitantes à extinta Caixa de Previdência da Câmara dos Despachantes Oficiais, às extintas Caixa de Previdência do Pessoal da Casa Agrícola Santos Jorge, Associação de Socorros Mútuos na Inabilidade, Caixa da Marinha Mercante (antigas associações) e ao extinto Grémio dos Industriais de Fósforos, bem como as pensões atribuídas por aplicação dos regulamentos especiais da Caixa de Previdência dos Profissionais de Espectáculos, são actualizadas para o valor fixado no artigo 10.º"
+  },
+  "0719e67bbb07c119": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Desalojados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Desalojados\n\nAs pensões do antigo regime de protecção social a desalojados, integrado no regime geral nos termos do [Decreto-Lei n.º 351/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1981-566868), de 26 de Dezembro, se cumuladas com pensões dos esquemas obrigatórios de protecção social referidos no n.º 3 do artigo 6.º, mantêm o respectivo valor à data da superveniência da cumulação, sem prejuízo da atribuição do quantitativo em curso em 30 de Novembro de 1984, se superior."
+  },
+  "2cb4b08fdb213d09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das prestações complementares das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das prestações complementares das pensões"
+  },
+  "a9cd92954d728c5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Complemento de pensão por cônjuge a cargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Complemento de pensão por cônjuge a cargo\n\nO valor mensal do complemento de pensão por cônjuge a cargo é de 1650$00, sem prejuízo de valores superiores que estejam a ser atribuídos."
+  },
+  "7b81cc1243f63cba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Suplemento de pensão a grandes inválidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suplemento de pensão a grandes inválidos\n\nO quantitativo mensal do suplemento a grandes inválidos é fixado nos montantes seguintes:\n\na) Para pensionistas de invalidez e velhice do regime geral, 4270$00;\n\nb) Para pensionistas de invalidez e velhice do regime especial agrícola e do regime não contributivo e regimes equiparados, 3660$00;\n\nc) Para pensionistas de sobrevivência, 2560$00."
+  },
+  "05a91a2972bb57e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Subsídio de Natal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Subsídio de Natal\n\nO subsídio de Natal atribuído em Dezembro como 13.º mês de pensão aos pensionistas de invalidez, velhice e sobrevivência dos regimes de segurança social será de valor igual ao que resultar, para as respectivas prestações, da actualização estabelecida no presente diploma."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "5ac523b3dce4c739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Equivalência à entrada de contribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Equivalência à entrada de contribuições\n\n1 - A equivalência à entrada de contribuições prevista no [Decreto Regulamentar n.º 17/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1981-394924), de 28 de Abril, pode ser requerida pelo interessado a qualquer tempo, produzindo efeitos a partir do mês seguinte àquele em que for apresentado o respectivo requerimento, sem prejuízo do disposto no número seguinte.\n\n2 - Nos casos em que a equivalência tenha sido requerida anteriormente à entrada em vigor do presente diploma aplicar-se-á o seguinte critério:\n\na) Se o requerimento foi anterior ao deferimento da pensão, a equivalência produz efeitos a partir do início daquela;\n\nb) Se o requerimento foi posterior ao deferimento, a equivalência produz efeitos a partir do mês seguinte ao da apresentação do requerimento.\n\n3 - O requerimento deve ser instruído com documento comprovativo do serviço militar prestado e com declaração do requerente de que, relativamente ao mesmo tempo, não foi pedida contagem para a Caixa Geral de Aposentações e de que se obriga a fazer a comunicação ao serviço ou instituições de segurança social competentes se posteriormente tal contagem vier a ser requerida."
+  },
+  "c19cdef3eafa766b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1 - São revogados o artigo 14.º do [Decreto Regulamentar n.º 92/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/92-1982-380077), de 30 de Novembro, o [Decreto Regulamentar n.º 92-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/92-b-1984-621933), de 28 de Dezembro e o [Decreto Regulamentar n.º 21/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1985-325084), de 4 de Abril.\n\n2 - Mantêm-se em vigor as disposições de anteriores diplomas de actualização de pensões em tudo o que não seja prejudicado pelas normas do presente decreto regulamentar."
+  },
+  "2bcbdd3f84d2462d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma produz efeitos a partir de 1 de Dezembro de 1985.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.\n\nPromulgado em 26 de Novembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Novembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "ad26bcd3b8b226bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento",
+   "in_force_from": "1986-09-13",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 38/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1986-220135), publicado em 1986-09-08."
+   ],
+   "markdown": "###### Artigo 4.º — Valor mínimo das pensões e valor máximo do aumento\n\n1 - O valor mínimo das pensões regulamentares de invalidez e velhice do regime geral é de 6900$00.\n\n2 - Aos beneficiários dos regulamentos especiais de segurança social referidos na alínea b) do artigo 2.º é aplicável a garantia do valor mínimo da pensão estabelecido no número anterior.\n\n3 - (Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 38/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1986-220135), publicado em 1986-09-08."
+  }
+ }
+}

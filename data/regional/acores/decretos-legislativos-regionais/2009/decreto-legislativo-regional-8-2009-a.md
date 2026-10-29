@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-12-06'
+version_history:
+  file: decreto-legislativo-regional-8-2009-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-06'
+    amending: pt:dre:145273:por
+    amending_title: Decreto Legislativo Regional n.º 33/2011/A
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/8/2009/05/20/a/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    33/2011/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2009/decreto-legislativo-regional-8-2009-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,11 +179,15 @@ c) Misto.
 
 2 - Para efeitos do disposto no número anterior, considera-se que o beneficiário se encontra em insuficiência de rendimentos quando, da aplicação da fórmula referida no n.º 3, se concluir que o rendimento per capita é inferior ao valor do indexante dos apoios sociais.
 
-3 - A capitação a considerar para efeitos do presente diploma resulta da aplicação da fórmula:
+3 - A capitação a considerar para efeitos do presente regulamento resulta da aplicação da fórmula:
 
-Capitação = Rendimento líquido do agregado familiar/Número de pessoas do agregado familiar
+Capitação = (Rendimento líquido do agregado familiar - Despesas)/Número de pessoas do agregado familiar
 
-4 - O apoio tem como limite máximo cinco vezes o valor do indexante dos apoios sociais.
+4 - Para efeitos da aplicação da fórmula estabelecida no número anterior, são consideradas as despesas fiscais deduzidas à colecta, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS).
+
+5 - O apoio tem como limite máximo cinco vezes o valor do indexante dos apoios sociais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 33/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2011-145273), publicado em 2011-12-05.
 
 ###### Artigo 6.º — Apoio reembolsável
 

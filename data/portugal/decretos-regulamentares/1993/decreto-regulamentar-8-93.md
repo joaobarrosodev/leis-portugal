@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-20'
+version_history:
+  file: decreto-regulamentar-8-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-20'
+    amending: pt:dre:570303:por
+    amending_title: Decreto-Lei n.º 34/2004
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/8/1993/03/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:21:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 34/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1993/decreto-regulamentar-8-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,35 +159,9 @@ Ao abrigo do disposto no n.º 1 do artigo 26.º do [Decreto-Lei n.º 206/89](htt
 
 ###### Artigo 1.º — Natureza
 
-A Direcção-Geral da Indústria, adiante designada por DGI, é um serviço do Ministério da Indústria e Energia, dotado de autonomia administrativa, responsável pelo estudo, concepção e execução das políticas no âmbito da indústria.
+(Revogado.)
 
-São atribuições da DGI:
-
-a) Contribuir para a definição e aplicação da política industrial e acompanhar a execução das medidas dela decorrentes;
-
-b) Acompanhar e analisar as estratégias industriais de outros países, tendo em conta as perspectivas de crescimento dos principais mercados e as tendências e comportamentos dos principais concorrentes da indústria nacional;
-
-c) Manter um conhecimento actualizado da actividade industrial e das condições de funcionamento da indústria;
-
-d) Contribuir para o desenvolvimento, modernização e adaptação da indústria portuguesa à concorrência internacional e acompanhar e colaborar no apoio aos movimentos de reestruturação do tecido industrial do País;
-
-e) Colaborar, em articulação com o Instituto Nacional de Engenharia e Tecnologia Industrial, no apoio à investigação industrial orientada para o mercado, visando a inovação e o desenvolvimento da competitividade das empresas portuguesas;
-
-f) Apoiar técnica e tecnologicamente as unidades industriais do sector, visando a melhoria das condições de laboração, dos processos de fabrico e dos métodos de aplicação dos produtos nos mercados;
-
-g) Propor a legislação reguladora da actividade industrial e velar pelo seu cumprimento;
-
-h) Cooperar na elaboração de normas, regulamentos e especificações técnicas relativos a instalações e produtos;
-
-i) Participar na definição de políticas nacionais e comunitárias com incidência na indústria, nomeadamente as políticas energética, ambiental, comercial e de investigação e desenvolvimento;
-
-j) Promover o conhecimento, pelas empresas industriais, das medidas, tendências e factores que possam favorecer a respectiva competitividade;
-
-l) Participar na organização e coordenação da informação para a indústria e promover a sua utilização e difusão;
-
-m) Elaborar e divulgar, junto das delegações regionais da Indústria e Energia, as orientações e directrizes necessárias ao desenvolvimento harmonioso das funções relativas à administração industrial nas diferentes áreas geográficas e promover acções de acompanhamento destas actividades, nomeadamente através da análise e avaliação da adequação e eficiência da informação de controlo utilizada;
-
-n) Promover e desenvolver acções de formação e de apoio no âmbito da política industrial, com especial relevo nos factores determinantes da competitividade e da produtividade.
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 

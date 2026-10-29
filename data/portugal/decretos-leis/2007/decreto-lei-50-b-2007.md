@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-09'
+version_history:
+  file: decreto-lei-50-b-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-09'
+    amending: pt:dre:493009:por
+    amending_title: Decreto-Lei n.º 176/2009
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/50-b/2007/02/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 176/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-50-b-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -310,13 +325,15 @@ c) Os indicadores de actividade, económico-financeiros, de recursos humanos e o
 
 ###### Artigo 12.º — Regime de pessoal
 
-1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, de acordo com o Código do Trabalho, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
+1 - Os trabalhadores da ULSNA, E. P. E., estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal da carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação colectiva de trabalho e regulamentos internos.
 
 2 - A ULSNA, E. P. E., deve prever anualmente uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.
 
 3 - Sem prejuízo do disposto no n.º 7 do artigo 13.º, a ULSNA, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.
 
 4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver e assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa fé e da não discriminação, bem como da publicidade, podendo este ser excepcionado, nos casos de manifesta urgência devidamente fundamentada.
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 176/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), publicado em 2009-08-04.
 
 ###### Artigo 13.º — Pessoal com a qualidade de funcionário ou agente
 

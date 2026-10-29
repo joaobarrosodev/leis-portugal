@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-10-23'
+version_history:
+  file: decreto-legislativo-regional-8-2001-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-10-23'
+    amending: pt:dre:239238:por
+    amending_title: Decreto Legislativo Regional n.º 16-A/2001/A; Decreto Legislativo Regional n.º 22/2007/A
+    changes:
+    - Adita Artigo 7.º-A
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/8/2001/05/21/a/dre/pt/html
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16-A/2001/A; Decreto Legislativo Regional n.º 22/2007/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2001/decreto-legislativo-regional-8-2001-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,6 +235,12 @@ d) À renegociação das condições de empréstimos anteriores, incluindo a cel
 
 e) À alteração do limite do endividamento externo por contrapartida do limite do endividamento interno, para obter as condições de endividamento mais favoráveis em cada momento.
 
+###### Artigo 7.º-A — Regularização de responsabilidades do Serviço Regional de Saúde
+
+Sem prejuízo do limite máximo de 6 milhões de contos de endividamento líquido fixado na alínea b) do artigo 4.º do presente diploma, o Governo Regional dos Açores fica autorizado, através do Secretário Regional da Presidência para as Finanças e Planeamento, a proceder à regularização de responsabilidades decorrentes do cumprimento de obrigações dos organismos dotados de autonomia administrativa e financeira integrados no Serviço Regional de Saúde, até ao limite de 12 milhões de contos.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16-A/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-a-2001-239238), publicado em 2001-10-31.
+
 ### CAPÍTULO III — Despesas e alterações orçamentais
 
 ###### Artigo 8.º — Controlo das despesas
@@ -285,111 +307,9 @@ Em cumprimento do disposto no n.º 4 do artigo 9.º do [Decreto Legislativo Regi
 
 ###### Artigo 16.º — Alterações aos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro
 
-1 - Os montantes do complemento de pensões e da remuneração complementar a que se referem os n.os 1 dos artigos 3.º dos Decretos Legislativos Regionais n.os [2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065) e [3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), ambos de 12 de Janeiro, são actualizados no corrente ano em 6,5%, sendo arredondados para a centena de escudos imediatamente superior.
+(Revogado.)
 
-2 - Os artigos 1.º, 2.º, 3.º, 5.º e 7.º do [Decreto Legislativo Regional n.º 2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2000-514065), de 12 de Janeiro, passam a ter a seguinte redacção:
-
-«Artigo 1.º
-
-Objecto e âmbito
-
-1 - É criado um complemento mensal de pensão para os pensionistas cuja residência permanente seja na Região Autónoma dos Açores.
-
-2 - Beneficiam de idêntico complemento os que aufiram pensões de sistemas de segurança ou protecção social estrangeiros, cumulativamente ou não com pensões nacionais.
-
-3 - O complemento a que se refere o n.º 1 abrange, ainda, os pensionistas do regime geral da segurança social que aufiram ajudas comunitárias à cessação de actividade, designadamente os produtores agrícolas abrangidos pela [Portaria n.º 32/95](https://diariodarepublica.pt/dr/detalhe/portaria/32-1995-146939), de 11 de Maio, cujas ajudas deverão entrar no cálculo para atribuição dos respectivos complementos de pensão.
-
-4 - Para efeitos do presente diploma, consideram-se pensionistas os beneficiários que aufiram pensões, isolada ou conjuntamente, dos regimes de segurança social, incluindo os da pensão social e de invalidez, as doenças profissionais, os aposentados da função pública, os pensionistas de sobrevivência e os beneficiários de pensões de outros sistemas de protecção social, incluindo as pensões por acidentes de trabalho.
-
-Artigo 2.º
-
-Atribuição
-
-O complemento de pensão é atribuído mediante requerimento apresentado pelo interessado, sendo pago pelos serviços regionais da segurança social em 14 mensalidades, das quais 2 no mês de Julho e 2 no mês de Dezembro.
-
-Artigo 3.º
-
-Montante
-
-1 - O complemento mensal de pensão é de 6400$00.
-
-2 - ...
-
-3 - Sempre que da atribuição do complemento de pensão resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido sobre o montante ilíquido apurado nos termos do número anterior um acréscimo de complemento de pensão correspondente a 25% do quantitativo referido no n.º 2.
-
-Artigo 5.º
-
-Beneficiários
-
-São beneficiários do complemento de pensão todos aqueles que se encontrem abrangidos pelo artigo 1.º, cujos montantes globais auferidos se integrem no disposto no n.º 2 do artigo 3.º do presente diploma.
-
-Artigo 7.º
-
-Prova de pensão auferida e prova de residência
-
-1 - De Janeiro a Março de cada ano, os beneficiários apresentarão, nos serviços da segurança social, documento que comprove o quantitativo que auferem, referente à pensão ou pensões, que lhes dá o direito ao complemento de pensão, excluindo aquelas que sejam de conhecimento oficioso daquela entidade.
-
-2 - Todos os pensionistas referidos no artigo 1.º deverão, na data mencionada no número anterior, fazer prova de residência permanente na Região.
-
-3 - Qualquer cidadão que passe à situação de pensionista e reúna as condições para beneficiar do complemento de pensão deve apresentar, conjuntamente com o requerimento, nos 90 dias subsequentes, os documentos que comprovem o quantitativo da respectiva pensão e prova de residência, respectivamente, nos termos dos números anteriores.
-
-4 - O requerimento referido no número anterior poderá ainda ser apresentado em qualquer altura para além daquele prazo, processando-se neste caso o respectivo complemento a partir da data da sua apresentação.»
-
-3 - Os artigos 1.º, 2.º, 3.º e 4.º do [Decreto Legislativo Regional n.º 3/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-514063), de 12 de Janeiro, passam a ter a seguinte redacção:
-
-«Artigo 1.º
-
-Remuneração complementar
-
-1 - ...
-
-2 - À remuneração complementar é aplicável o regime da remuneração base quanto a férias, faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na lei.
-
-Artigo 2.º
-
-Beneficiários
-
-Beneficiam da remuneração complementar os funcionários, os agentes e os contratados a termo certo da administração pública regional e local que exerçam funções na Região Autónoma dos Açores, cuja remuneração seja igual ou inferior à do índice 380.
-
-Artigo 3.º
-
-Montante
-
-1 - O montante mensal da remuneração complementar é de 9100$00.
-
-2 - O montante efectivo a abonar é determinado de acordo com as seguintes regras:
-
-a) A totalidade para aqueles cuja remuneração seja igual ou inferior ao índice 137;
-
-b) 90% para aqueles cuja remuneração esteja compreendida entre os índices 137 e 181, inclusive;
-
-c) 85% para aqueles cuja remuneração esteja compreendida entre os índices 181 e 205, inclusive;
-
-d) 80% para aqueles cuja remuneração esteja compreendida entre os índices 205 e 225, inclusive;
-
-e) 70% para aqueles cuja remuneração esteja compreendida entre os índices 225 e 250, inclusive;
-
-f) 60% para aqueles cuja remuneração esteja compreendida entre os índices 250 e 270, inclusive;
-
-g) 55% para aqueles cuja remuneração esteja compreendida entre os índices 270 e 305, inclusive;
-
-h) 45% para aqueles cuja remuneração esteja compreendida entre os índices 305 e 320, inclusive;
-
-i) 40% para aqueles cuja remuneração esteja compreendida entre os índices 320 e 330, inclusive;
-
-j) 35% para aqueles cuja remuneração esteja compreendida entre os índices 330 e 355, inclusive;
-
-k) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355 e 380, inclusive.
-
-3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido mediante requerimento do interessado e sobre o montante apurado um acréscimo de remuneração complementar correspondente a 25% do quantitativo referido no n.º 2. Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.
-
-Artigo 4.º
-
-Índices
-
-1 - Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.
-
-2 - Para efeitos de aplicação do artigo anterior, os índices do pessoal integrado em carreiras específicas da Região do regime especial e dos corpos especiais são convertidos em montante remuneratório idêntico aos índices da escala do regime geral da função pública.»
+> Revogado pelo/a [Decreto Legislativo Regional n.º 22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), publicado em 2007-10-23.
 
 ### CAPÍTULO VI — Disposições finais
 

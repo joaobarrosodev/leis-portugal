@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-26'
+version_history:
+  file: decreto-lei-38-b-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-26'
+    amending: pt:dre:456797:por
+    amending_title: Decreto-Lei n.º 130/2008
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/38-b/2001/02/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:29:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 130/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-38-b-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,9 +163,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 3.º — Montante
 
-1 - O crédito, sob a forma de empréstimo, a bonificar, com o limite de 20 milhões de escudos por operação, é concedido pelas instituições referidas no n.º 2 do artigo 1.º
+1 - O crédito, sob a forma de empréstimo, a bonificar, com o limite de (euro) 500 000 por operação, é concedido pelas instituições referidas no n.º 2 do artigo 1.º
 
 2 - O montante global da linha de crédito a conceder em cada caso será definido por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Economia.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 130/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2008-456797), publicado em 2008-07-21.
 
 ###### Artigo 4.º — Prazo de apresentação das propostas e decisão
 

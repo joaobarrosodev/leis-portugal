@@ -1,0 +1,406 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:634493:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c619424a86d9467",
+    "7342f7b1dcac3873",
+    "0f697be2c6e5876d",
+    "0e701598a522bc28",
+    "54cef21042047ed0",
+    "a332042659b3e818",
+    "6229c30fa51914e0",
+    "df0443eb514a0ee8",
+    "0ca40eb82f474160",
+    "a2937d9c50256c27",
+    "d420ac96e3060eef",
+    "219416732cc70762",
+    "8b675f1819448727",
+    "ef7a00b147641ef0",
+    "81632121b1878620",
+    "76ab4738d11603c3",
+    "3965890308c816db",
+    "0c1a2a470e4dfd5d",
+    "939d8675cc7f9f23",
+    "0d020bbbb6d4acac",
+    "b4bfa1745f98b4d5",
+    "c208ae7c0bb6ef9e",
+    "17629c8480ee48da",
+    "d55f0b5b15103b0d",
+    "50565c4a3fa6d400",
+    "ffd675164af3b92b",
+    "2e5cefe840d49bf3",
+    "3dbaf7426e276253",
+    "9ae3c067d410a464",
+    "0ee6092e66af2ba3",
+    "4de035241f85967f",
+    "4ec3a1b27a63e3dd",
+    "260a9f4ecd4b5740",
+    "f866f8e9c7d76bba",
+    "60fbead269514d4a",
+    "fb03eb30b1215eb6"
+   ]
+  },
+  {
+   "date": "2004-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570303:por",
+     "title": "Decreto-Lei n.º 34/2004",
+     "published": "2004-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/34-2004-570303"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "8c619424a86d9467",
+    "7342f7b1dcac3873",
+    "c474925da9ad6fff",
+    "0e701598a522bc28",
+    "54cef21042047ed0",
+    "a332042659b3e818",
+    "6229c30fa51914e0",
+    "df0443eb514a0ee8",
+    "0ca40eb82f474160",
+    "a2937d9c50256c27",
+    "d420ac96e3060eef",
+    "219416732cc70762",
+    "8b675f1819448727",
+    "ef7a00b147641ef0",
+    "81632121b1878620",
+    "76ab4738d11603c3",
+    "3965890308c816db",
+    "0c1a2a470e4dfd5d",
+    "939d8675cc7f9f23",
+    "0d020bbbb6d4acac",
+    "b4bfa1745f98b4d5",
+    "c208ae7c0bb6ef9e",
+    "17629c8480ee48da",
+    "d55f0b5b15103b0d",
+    "50565c4a3fa6d400",
+    "ffd675164af3b92b",
+    "2e5cefe840d49bf3",
+    "3dbaf7426e276253",
+    "9ae3c067d410a464",
+    "0ee6092e66af2ba3",
+    "4de035241f85967f",
+    "4ec3a1b27a63e3dd",
+    "260a9f4ecd4b5740",
+    "f866f8e9c7d76bba",
+    "60fbead269514d4a",
+    "fb03eb30b1215eb6"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c619424a86d9467": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Março\n\nCom a adesão de Portugal às Comunidades Europeias e com as transformações que estas têm vindo a protagonizar, verificaram-se profundas alterações na política industrial, quer em termos da sua filosofia de enquadramento, objectivos e instrumentos, quer no que se refere às condicionantes endógenas e exógenas da sua aplicação, onde avulta o imperativo da permanente adaptação da indústria aos desafios da concorrência mundial.\n\nFoi neste contexto que o Acto Único Europeu veio ainda consolidar as bases para uma política industrial comunitária, propiciando a confluência nas políticas industriais dos Estados membros de sinergias resultantes de outras políticas comunitárias, de que se destacam a de relações com países terceiros, a de ambiente, a de investigação e desenvolvimento, a de concorrência e a energética, que o Tratado da União Europeia maximizou ao eleger o reforço da competitividade da indústria como um meio estratégico para a prossecução dos fins últimos da União e incluindo um título autónomo sobre a indústria.\n\nÉ neste quadro que surge a necessidade do reajustamento da Direcção-Geral da Indústria, que tem vivido na base de um estatuto legal datado de 1982 e assente em referências a modelos de intervenção pública entretanto ultrapassados.\n\nEste decreto regulamentar visa reformular os objectivos da Direcção-Geral da Indústria e dotá-la de estrutura, meios e processos de funcionamento compatíveis com o prosseguimento de uma política industrial para os anos 90 própria de um Estado membro das Comunidades Europeias, ou seja, centrado no objectivo estratégico de contribuir para o reforço permanente da competitividade sustentada das empresas.\n\nA configuração da Direcção-Geral da Indústria como serviço de estudo, concepção e acompanhamento de políticas e estratégias é também o corolário natural do modelo desconcentrado de actuação a nível executivo por que se optou no Ministério da Indústria e Energia.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 26.º do [Decreto-Lei n.º 206/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1989-620758), de 27 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "0f697be2c6e5876d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral da Indústria, adiante designada por DGI, é um serviço do Ministério da Indústria e Energia, dotado de autonomia administrativa, responsável pelo estudo, concepção e execução das políticas no âmbito da indústria.\n\nSão atribuições da DGI:\n\na) Contribuir para a definição e aplicação da política industrial e acompanhar a execução das medidas dela decorrentes;\n\nb) Acompanhar e analisar as estratégias industriais de outros países, tendo em conta as perspectivas de crescimento dos principais mercados e as tendências e comportamentos dos principais concorrentes da indústria nacional;\n\nc) Manter um conhecimento actualizado da actividade industrial e das condições de funcionamento da indústria;\n\nd) Contribuir para o desenvolvimento, modernização e adaptação da indústria portuguesa à concorrência internacional e acompanhar e colaborar no apoio aos movimentos de reestruturação do tecido industrial do País;\n\ne) Colaborar, em articulação com o Instituto Nacional de Engenharia e Tecnologia Industrial, no apoio à investigação industrial orientada para o mercado, visando a inovação e o desenvolvimento da competitividade das empresas portuguesas;\n\nf) Apoiar técnica e tecnologicamente as unidades industriais do sector, visando a melhoria das condições de laboração, dos processos de fabrico e dos métodos de aplicação dos produtos nos mercados;\n\ng) Propor a legislação reguladora da actividade industrial e velar pelo seu cumprimento;\n\nh) Cooperar na elaboração de normas, regulamentos e especificações técnicas relativos a instalações e produtos;\n\ni) Participar na definição de políticas nacionais e comunitárias com incidência na indústria, nomeadamente as políticas energética, ambiental, comercial e de investigação e desenvolvimento;\n\nj) Promover o conhecimento, pelas empresas industriais, das medidas, tendências e factores que possam favorecer a respectiva competitividade;\n\nl) Participar na organização e coordenação da informação para a indústria e promover a sua utilização e difusão;\n\nm) Elaborar e divulgar, junto das delegações regionais da Indústria e Energia, as orientações e directrizes necessárias ao desenvolvimento harmonioso das funções relativas à administração industrial nas diferentes áreas geográficas e promover acções de acompanhamento destas actividades, nomeadamente através da análise e avaliação da adequação e eficiência da informação de controlo utilizada;\n\nn) Promover e desenvolver acções de formação e de apoio no âmbito da política industrial, com especial relevo nos factores determinantes da competitividade e da produtividade."
+  },
+  "0e701598a522bc28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos, serviços e suas competências"
+  },
+  "54cef21042047ed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n1 - São órgãos da DGI:\n\na) O director-geral;\n\nb) O conselho administrativo.\n\n2 - São serviços da DGI:\n\na) De apoio técnico-administrativo:\n\nA Direcção de Serviços de Gestão;\n\nb) De apoio técnico:\n\nA Direcção de Serviços de Competitividade Industrial;\n\nA Direcção de Serviços de Estudos e Avaliação da Actividade Industrial;\n\nA Direcção de Serviços de Modernização Industrial;\n\nA Direcção de Serviços de Novas Tecnologias;\n\nA Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias de Serviços;\n\nO Gabinete de Informação, Promoção e Relações Externas;\n\nc) Operativos:\n\nA Direcção de Serviços das Indústrias de Base;\n\nA Direcção de Serviços das Indústrias Metalomecânicas, Eléctricas e Electrónicas e de Equipamento de Transporte;\n\nA Direcção de Serviços das Indústrias de Minerais não Metálicos, Cortiça, Madeira, Pasta e Papel;\n\nA Direcção de Serviços das Indústrias Químicas Ligeiras, Farmacêutica, Alimentares e Diversas;\n\nA Direcção de Serviços das Indústrias Têxteis, Confecções, Curtumes e Calçado."
+  },
+  "a332042659b3e818": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é o órgão que dirige a DGI, com as competências que lhe estão conferidas na lei ou que lhe forem delegadas.\n\n2 - O director-geral é coadjuvado por quatro subdirectores-gerais, em quem pode delegar competências.\n\n3 - O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral que, sob proposta sua, for designado pelo Ministro da Indústria e Energia."
+  },
+  "6229c30fa51914e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão de gestão financeira e patrimonial da DGI, com a seguinte composição:\n\na) Director-geral, que presidirá;\n\nb) Subdirector-geral substituto, designado nos termos do n.º 3 do artigo 4.º;\n\nc) Director de Serviços de Gestão.\n\n2 - O presidente é substituído, nas suas ausências e impedimentos, pelo subdirector-geral substituto."
+  },
+  "df0443eb514a0ee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do conselho administrativo\n\n1 - Compete ao conselho administrativo:\n\na) Aprovar os projectos de orçamento e suas alterações, bem como acompanhar a execução orçamental;\n\nb) Apreciar os planos e programas anuais e plurianuais de actividades, bem como os respectivos relatórios de execução;\n\nc) Zelar pela cobrança e arrecadação das receitas, verificar a legalidade e eficiência das despesas e autorizar o respectivo pagamento;\n\nd) Fiscalizar os procedimentos contabilísticos e verificar regularmente os valores em cofre ou em depósito;\n\ne) Autorizar a adjudicação e contratação de estudos, obras, serviços e fornecimentos, e acompanhar a sua execução;\n\nf) Aprovar as contas de gerência e promover o seu envio ao Tribunal de Contas;\n\ng) Pronunciar-se sobre quaisquer assuntos de gestão financeira e patrimonial que lhe sejam submetidos.\n\n2 - O conselho administrativo pode delegar no presidente a competência para a prática de actos de gestão corrente."
+  },
+  "0ca40eb82f474160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do conselho administrativo\n\n1 - O conselho administrativo reúne quinzenalmente e, extraordinariamente, sempre que convocado pelo presidente ou, nas suas ausências e impedimentos, pelo seu substituto.\n\n2 - O conselho administrativo obriga-se pela assinatura de dois dos seus membros, sendo um deles o presidente ou o seu substituto.\n\n3 - O conselho administrativo é secretariado por um funcionário da DGI, a designar pelo director-geral, sem direito a voto."
+  },
+  "a2937d9c50256c27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Gestão\n\n1 - A Direcção de Serviços de Gestão visa promover o estudo e a aplicação de medidas de aperfeiçoamento do funcionamento da DGI, dinamizar a informatização das suas actividades, assegurar a gestão e a administração dos recursos humanos, financeiros e patrimoniais, bem como prestar apoio geral às demais unidades orgânicas.\n\n2 - A Direcção de Serviços de Gestão compreende:\n\na) A Divisão de Apoio Técnico;\n\nb) A Divisão de Informática;\n\nc) A Repartição de Orçamento e Património;\n\nd) A Repartição de Pessoal e Expediente."
+  },
+  "d420ac96e3060eef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º"
+  },
+  "219416732cc70762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio Técnico\n\nIncumbe à Divisão de Apoio Técnico:\n\na) Assegurar a recolha e análise da informação necessária à determinação das prioridades anuais e plurianuais da DGI;\n\nb) Coordenar a elaboração dos planos e programas anuais de actividades da DGI, acompanhar a sua execução e elaborar os respectivos relatórios de actividades;\n\nc) Estudar e propor medidas de aperfeiçoamento do funcionamento dos serviços com base nas modernas técnicas de gestão e acompanhar a sua execução;\n\nd) Propor e apoiar a aplicação de medidas de normalização e simplificação de circuitos e métodos de trabalho, bem como de racionalização de equipamentos e espaços;\n\ne) Efectuar a análise económico-financeira das despesas por forma a apoiar a elaboração dos orçamentos da DGI e coordenar a elaboração dos relatórios trimestrais da execução orçamental;\n\nf) Apoiar a Repartição de Orçamento e Património na elaboração dos orçamentos da DGI e promover a aplicação das adequadas técnicas de orçamentação;\n\ng) Colher e manter actualizada informação relativa aos quadros da DGI que permitam a realização de estudos previsionais de efectivos;\n\nh) Apoiar as acções de recrutamento e selecção adequadas às necessidades da DGI;\n\ni) Promover acções tendentes ao desenvolvimento e aperfeiçoamento profissional dos recursos humanos;\n\nj) Apoiar a aplicação das normas que regulam a relação jurídica de emprego do pessoal da DGI."
+  },
+  "8b675f1819448727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "ef7a00b147641ef0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informática\n\nÀ Divisão de Informática compete:\n\na) Manter informação actualizada sobre as novas tecnologias de informação, com vista ao aperfeiçoamento sistemático dos produtos informáticos utilizados na Direcção-Geral;\n\nb) Definir e conceber soluções informáticas adequadas aos objectivos da Direcção-Geral;\n\nc) Promover a concepção e desenvolvimento de aplicações e assegurar a sua integração;\n\nd) Desenvolver os processos de aquisição de equipamento e suporte lógico e assegurar a sua manutenção;\n\ne) Apoiar os utilizadores e gerir a distribuição dos recursos informáticos de acordo com as necessidades dos serviços."
+  },
+  "81632121b1878620": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Repartição de Orçamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Repartição de Orçamento e Património\n\n1 - Incumbe à Repartição de Orçamento e Património:\n\na) Preparar a informação de base necessária e promover a elaboração dos projectos de orçamentos;\n\nb) Assegurar a execução dos orçamentos e a efectivação das alterações que se mostrem necessárias e proceder à escrituração das receitas e despesas;\n\nc) Assegurar o movimento dos fluxos financeiros e efectuar mensalmente o respectivo balancete;\n\nd) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\ne) Propor e promover a aplicação de medidas tendentes a racionalizar as aquisições de material e os consumos;\n\nf) Efectuar os procedimentos relativos às aquisições necessárias ao normal funcionamento dos serviços e assegurar as funções de economato;\n\ng) Gerir o património e manter actualizado o respectivo cadastro.\n\n2 - Para a prossecução das tarefas cometidas, a Repartição de Orçamento e Património compreende:\n\na) A Secção de Orçamento e Contabilidade, com as competências estabelecidas nas alíneas a) a d);\n\nb) A Secção de Património e Aprovisionamento, com as competências estabelecidas nas alíneas e) a g)."
+  },
+  "76ab4738d11603c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Repartição de Pessoal e Expediente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Repartição de Pessoal e Expediente\n\n1 - Compete à Repartição de Pessoal e Expediente:\n\na) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego do pessoal da DGI;\n\nb) Organizar e manter actualizados o cadastro e os ficheiros de pessoal;\n\nc) Efectuar as acções necessárias ao desenvolvimento do processo de classificação de serviço;\n\nd) Assegurar as operações de registo e controlo da assiduidade e antiguidade dos funcionários e efectuar as acções relativas aos benefícios sociais a que os funcionários tenham direito;\n\ne) Superintender no pessoal auxiliar, assegurando a organização do respectivo trabalho;\n\nf) Assegurar a recepção, registo, classificação, distribuição e expedição da correspondência;\n\ng) Organizar e manter actualizado o arquivo da DGI.\n\n2 - Para a prossecução das tarefas cometidas, a Repartição de Pessoal e Expediente compreende:\n\na) A Secção de Pessoal, com as competências estabelecidas nas alíneas a) a e) do número anterior;\n\nb) A Secção de Expediente, com as competências estabelecidas nas alíneas f) e g) do número anterior."
+  },
+  "3965890308c816db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Competitividade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Competitividade Industrial\n\n1 - A Direcção de Serviços de Competitividade Industrial visa promover a competitividade interna e externa da indústria portuguesa através da avaliação das tendências da concorrência industrial, da realização de acções sistemáticas de análise de competitividade das empresas portuguesas e da apresentação de propostas tendentes ao desenvolvimento e modernização das actividades industriais.\n\n2 - A Direcção de Serviços de Competitividade Industrial compreende:\n\na) A Divisão de Desenvolvimento Industrial;\n\nb) A Divisão de Cooperação Industrial;\n\nc) A Divisão de Regulação dos Mercados Industriais.\n\n3 - À Divisão de Desenvolvimento Industrial incumbe:\n\na) Apresentar propostas tendentes ao desenvolvimento da competitividade sustentada das empresas industriais;\n\nb) Estudar os mecanismos de concepção, aplicação e controlo das políticas industriais dos países principais concorrentes da indústria nacional;\n\nc) Participar, em articulação com o Gabinete para os Assuntos Comunitários do Ministério da Indústria e Energia e com o Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, na definição e implementação da política industrial na Comunidade Europeia e na Organização de Cooperação e Desenvolvimento Económico;\n\nd) Estudar e propor a adopção de estratégias de desenvolvimento, modernização e adaptação da indústria portuguesa à concorrência internacional e participar na concretização das medidas definidas;\n\ne) Apoiar a negociação, em articulação com o Gabinete para os Assuntos Comunitários do Ministério da Indústria e Energia, junto das instâncias comunitárias, das medidas de política industrial e assegurar os procedimentos de notificação e acções complementares estabelecidos.\n\n4 - À Divisão de Cooperação Industrial incumbe:\n\na) Acompanhar os movimentos de reestruturação da malha industrial portuguesa, designadamente as operações de fusão, de concentração ou de integração vertical, o estabelecimento de empresas comuns ou outras estratégias que reforcem a respectiva competitividade;\n\nb) Participar, em articulação com o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, na promoção dos mecanismos de cooperação industrial com vista à adaptação da indústria portuguesa à concorrência interna e internacional;\n\nc) Desenvolver uma base de dados sobre as diferentes modalidades de cooperação industrial e sobre os factores determinantes da competitividade das empresas industriais;\n\nd) Participar, em cooperação com o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, nas acções conducentes à integração da política de empresa na política industrial;\n\ne) Participar no estabelecimento das posições oficiais portuguesas nas instâncias comunitárias em matéria de relações entre empresas e acompanhar a evolução destas questões noutros organismos internacionais.\n\n5 - À Divisão de Regulação dos Mercados Industriais incumbe:\n\na) Optimizar a aplicação de medidas reguladoras dos mercados industriais, preparando a participação no processo de decisão comunitária no domínio da utilização destes instrumentos e acompanhando a vigilância da fronteira externa da Comunidade Europeia;\n\nb) Propor e acompanhar a aplicação de medidas legais ou administrativas relativas a instrumentos de regulação dos mercados industriais;\n\nc) Participar na análise e na gestão dos instrumentos comunitários de diversa ordem que têm incidência na actividade industrial;\n\nd) Implementar e gerir uma base de dados sobre casos de dumping;\n\ne) Estudar e preparar os objectivos e estratégias a prosseguir no âmbito da participação da DGI em matéria de acordos bilaterais com países terceiros."
+  },
+  "0c1a2a470e4dfd5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Estudos e Avaliação da Actividade Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Estudos e Avaliação da Actividade Industrial\n\n1 - A Direcção de Serviços de Estudos e Avaliação da Actividade Industrial visa manter um conhecimento actualizado da evolução da actividade industrial, bem como estudar, planear e propor medidas de política industrial e estratégias de actuação da DGI.\n\n2 - A Direcção de Serviços de Estudos e Avaliação da Actividade Industrial comprende:\n\na) A Divisão de Estudos;\n\nb) A Divisão de Planeamento, Avaliação e Controlo.\n\n3 - À Divisão de Estudos incumbe:\n\na) Proceder à análise regular e sistemática da evolução da actividade industrial e controlar e avaliar os resultados das medidas estabelecidas;\n\nb) Promover o acompanhamento estatístico da actividade industrial, assegurando a colaboração com o Instituto Nacional de Estatística nesta matéria;\n\nc) Assegurar, em articulação com as delegações regionais do Ministério, a manutenção do cadastro industrial e a coordenação do processo de registo dos estabelecimentos industriais;\n\nd) Realizar estudos que contribuam para a definição da política industrial.\n\n4 - À Divisão de Planeamento, Avaliação e Controlo incumbe:\n\na) Assegurar a articulação da DGI com os planos de desenvolvimento regional e com os outros instrumentos de planeamento;\n\nb) Propor os planos estratégicos de actuação da DGI e as respectivas áreas prioritárias de intervenção;\n\nc) Controlar a concessão e a utilização de esquemas de apoio à indústria;\n\nd) Controlar a participação da DGI na transposição e aplicação da legislação comunitária;\n\ne) Fiscalizar a aplicação de programas concretos de apoios à indústria na área de competência da DGI."
+  },
+  "939d8675cc7f9f23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Modernização Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Modernização Industrial\n\nA Direcção de Serviços de Modernização Industrial visa conceber, aplicar e avaliar as medidas específicas de apoio à indústria, incumbindo-lhe:\n\na) Participar na elaboração de regras comunitárias de enquadramento das medidas específicas de apoio à indústria;\n\nb) Acompanhar a evolução e a regulamentação dos fundos estruturais comunitários com incidência específica na indústria;\n\nc) Manter actualizado o conhecimento sobre as medidas ou iniciativas comunitárias de apoio à indústria, bem como do tipo de instrumentos utilizados;\n\nd) Participar na concepção e elaboração de programas operacionais de apoio à indústria, bem como acompanhar a avaliação dos seus resultados;\n\ne) Propor a concessão de incentivos e medidas indispensáveis ao desenvolvimento das empresas que ofereçam marcado interesse para a economia nacional;\n\nf) Analisar as candidaturas a programas de apoio à indústria cuja gestão seja atribuída à DGI e apresentar as respectivas propostas de concessão;\n\ng) Assegurar a informação sobre programas de apoio à indústria junto dos industriais e associações empresariais."
+  },
+  "0d020bbbb6d4acac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção de Serviços de Novas Tecnologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços de Novas Tecnologias\n\n1 - A Direcção de Serviços de Novas Tecnologias visa promover uma adequada endogenização pelas empresas industriais das novas tecnologias, em ligação com os programas comunitários de I&DT vocacionados para as empresas industriais, incumbindo-lhe:\n\na) Assegurar a participação da DGI na preparação dos programas comunitários de I & DT, nomeadamente no ESPRIT, no BRITE EURAM, no CRAFT e no VALUE, visando contribuir para a sua cada vez maior sintonia com as reais necessidades de investigação, desenvolvimento e demonstração da indústria;\n\nb) Participar, em articulação com o Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, nos trabalhos que se desenvolvem nas instâncias da Comunidade Europeia e na OCDE sobre as interfaces da política de I&DT com a política industrial, nomeadamente o CREST;\n\nc) Promover a participação das empresas industriais portuguesas nos programas comunitários de I&DT e no EUREKA;\n\nd) Dinamizar a difusão e valorização dos resultados dos programas comunitários de I&DT\n\ne) Participar no apoio à investigação industrial orientada, dando especial relevo às vertentes da inovação e melhoria da qualidade de produtos e processos de fabrico;\n\nf) Acompanhar a aplicação dos acordos com empresas estrangeiras no que se refere à transferência de tecnologia.\n\n2 - A Direcção de Serviços de Novas Tecnologias compreende uma divisão sobre programas comunitários de I&DT para o desenvolvimento do conjunto das funções correspondentes."
+  },
+  "b4bfa1745f98b4d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias e Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias e Serviços\n\nA Direcção de Serviços de Ambiente, Segurança Industrial e Indústrias de Serviços visa promover o desenvolvimento de uma actividade de características marcadamente transversais à generalidade dos sectores industriais, com a internacionalização de objectivos de natureza ambiental, de gestão de recursos humanos para a indústria e de promoção de serviços de consultadoria industrial, incumbindo-lhe:\n\na) Acompanhar a negociação dos instrumentos legislativos internacionais com incidência na manutenção e segurança industrial, na preservação do ambiente na indústria e na gestão de recursos humanos para a indústria;\n\nb) Promover o cumprimento pelas empresas industriais dos compromissos internacionais que Portugal assuma no âmbito da manutenção e segurança industriais;\n\nc) Promover a caracterização ambiental da indústria;\n\nd) Promover a elaboração de estudos técnicos e propor e acompanhar a aplicação de medidas de prevenção da poluição industrial;\n\ne) Promover o desenvolvimento da indústria de serviços de consultadoria industrial;\n\nf) Promover a aplicação da legislação relativa ao exercício da actividade industrial;\n\ng) Dar parecer sobre os actos de administração industrial decorrentes da aplicação da legislação aplicável, nomeadamente sobre os processos relativos às várias formas de acesso às respectivas actividades;\n\nh) Colaborar com as delegações regionais do Ministério nos processos de administração industrial;\n\ni) Organizar e manter actualizada uma base de dados com os elementos relevantes das empresas industriais em termos das actividades atrás referidas."
+  },
+  "c208ae7c0bb6ef9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Gabinete de Informação, Promoção e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gabinete de Informação, Promoção e Relações Externas\n\n1 - O Gabinete de Informação, Promoção e Relações Externas é o serviço de promoção, de informação e de edição e venda de publicações da DGI, incumbindo-lhe:\n\na) Organizar e pôr à disposição dos serviços, das entidades interessadas e do público em geral documentação e informação no âmbito das actividades da DGI;\n\nb) Coordenar, no âmbito das atribuições da DGI, a ligação a redes de informação nacionais, estrangeiras e internacionais;\n\nc) Assegurar as funções de relações públicas e promover a divulgação, em especial junto das empresas e suas associações, das actividades e serviços da DGI no âmbito da prossecução das políticas da indústria transformadora;\n\nd) Assegurar a participação da DGI em feiras, exposições ou outras actividades similares;\n\ne) Gerir internamente os sistemas de difusão de informação;\n\nf) Promover a edição de publicações com interesse para a indústria transformadora e proceder à sua difusão e venda;\n\ng) Gerir a sala de desenho da DGI e assegurar o serviço de reprografia.\n\n2 - O Gabinete de Informação, Promoção e Relações Externas compreende uma Divisão de Informação, a quem incumbe em particular exercer as competências referidas nas alíneas a), b), e) e f) do número anterior.\n\n3 - O Gabinete de Informação, Promoção e Relações Externas é chefiado por um director, equiparado, para todos os efeitos legais, a director de serviços."
+  },
+  "17629c8480ee48da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Serviços operativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviços operativos\n\n1 - Os serviços operativos visam, nas respectivas áreas de afectação industrial, acompanhar e promover o desenvolvimento das empresas industriais e apoiá-las técnica e tecnologicamente, incumbindo-lhes:\n\na) Elaborar estudos e diagnósticos visando o conhecimento dos sectores industriais e sua envolvente;\n\nb) Contribuir para a definição das políticas industriais específicas e promover a aplicação das disposições legais e regulamentares em vigor;\n\nc) Propor programas de reorganização e modernização de sectores e de reconversão de unidades industriais;\n\nd) Participar na elaboração da legislação reguladora da actividade industrial;\n\ne) Acompanhar a evolução da legislação comunitária e promover a transposição de directivas e a aplicação de regulamentos;\n\nf) Colaborar na aplicação da política de preços para os bens produzidos pelas empresas industriais;\n\ng) Prestar e promover o apoio técnico e tecnológico às unidades industriais, dirigido, nomeadamente no que respeita ao incremento das novas tecnologias, à utilização de recursos naturais e à vertente de cooperação industrial;\n\nh) Inventariar os processos tecnológicos envolvidos na actividade industrial;\n\nl) Dar parecer sobre a viabilidade técnico-económica dos projectos industriais;\n\nj) Colaborar no planeamento de acções relativas ao aproveitamento e valorização dos recursos naturais portugueses.\n\n2 - Os serviços operativos compreendem as seguintes direcções:\n\na) Direcção de Serviços das Indústrias de Base, com as seguintes divisões:\n\nDivisão da Indústria Química de Base;\n\nDivisão da Indústria Metalúrgica;\n\nDivisão da Indústria Siderúrgica;\n\nb) Direcção de Serviços das Indústrias Metalomecânica, Eléctrica e Electrónica e de Equipamento de Transporte, com as seguintes divisões:\n\nDivisão da Indústria Metalomecânica;\n\nDivisão da Indústria Eléctrica e Electrónica;\n\nDivisão de Equipamento de Transporte;\n\nc) Direcção de Serviços das Indústrias de Minerais não Metálicos, Cortiça, Madeira, Pasta e Papel, com as seguintes divisões:\n\nDivisão das Indústrias de Minerais não Matálicos e Cortiça;\n\nDivisão das Indústrias de Madeira, Pasta e Papel;\n\nd) Direcção de Serviços das Indústrias Químicas Ligeiras, Farmacêutica, Alimentares e Diversas, com as seguintes divisões:\n\nDivisão das Indústrias Químicas Ligeiras;\n\nDivisão da Indústria Farmacêutica;\n\nDivisão das Indústrias Alimentares e Diversas;\n\ne) Direcção de Serviços das Indústrias Têxtil, Confecção, Curtume e Calçado, com a seguinte divisão:\n\nDivisão da Indústria Têxtil.\n\n3 - A definição das áreas de afectação industrial dos serviços operativos é feita por despacho do Ministro da Indústria e Energia.\n\n4 - Por despacho do director-geral, podem ser cometidas aos serviços operativos funções de coordenação relativamente a assuntos de carácter horizontal que incidam predominantemente nas respectivas áreas de afectação, designadamente em matéria de novas tecnologias, mercados públicos, harmonização técnica, qualidade industrial e propriedade industrial."
+  },
+  "d55f0b5b15103b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento"
+  },
+  "50565c4a3fa6d400": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\nO funcionamento da DGI assenta na estrutura definida no presente diploma e na articulação entre os seus serviços, com vista à realização dos objectivos comuns."
+  },
+  "ffd675164af3b92b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrumentos de gestão\n\n1 - A gestão da DGI e a administração dos recursos que lhe estão afectos orientam-se por objectivos claramente definidos e por um adequado controlo de custos e resultados, utilizando os seguintes instrumentos:\n\na) Planos anuais e plurianuais de actividades;\n\nb) Orçamento;\n\nc) Relatórios trimestrais;\n\nd) Relatório anual de actividade e relatório financeiro.\n\n2 - Com vista à racionalização das opções orçamentais e ao melhor controlo da sua execução, o orçamento da DGI orientar-se-á por programas."
+  },
+  "2e5cefe840d49bf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Colaboração com outras entidades\n\n1 - No desempenho das suas atribuições, a DGI deve manter uma colaboração próxima com os demais serviços e organismos do Ministério da Indústria e Energia e promover as ligações necessárias com outras entidades, nacionais e internacionais.\n\n2 - A DGI pode ser autorizada a participar em associações ou outras entidades nacionais e internacionais cujo objectivo seja de interesse para a prossecução das suas atribuições, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, que definirá as condições de que a mesma se reveste, nomeadamente as financeiras."
+  },
+  "3dbaf7426e276253": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Venda de publicações e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Venda de publicações e prestação de serviços\n\nA DGI pode vender publicações e prestar serviços remunerados no âmbito das suas atribuições, a solicitação de entidades públicas ou privadas."
+  },
+  "9ae3c067d410a464": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Receitas\n\n1 - Para além das dotações atribuídas no Orçamento do Estado, constituem receitas da DGI:\n\na) O produto das taxas, multas, coimas e outros valores de natureza pecuniária que lhe estejam consignados;\n\nb) O produto da venda de serviços e de publicações;\n\nc) As importâncias que resultem de participação da DGI nas actividades de organismos nacionais ou internacionais;\n\nd) As verbas ou subsídios que lhe forem concedidos por entidades públicas ou privadas, dependendo a respectiva aceitação da autorização do Ministro da Indústria e Energia;\n\ne) Outras receitas que lhe sejam devidas por lei ou contrato ou a qualquer outro título válido.\n\n2 - Na movimentação e utilização das receitas observar-se-á o regime legal em vigor."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "4de035241f85967f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Quadro e regime de pessoal\n\n1 - O quadro de pessoal da DGI será aprovado por portaria conjunta dos Ministros das Finanças e da Indústria e Energia.\n\n2 - O preenchimento dos lugares do quadro e o regime do pessoal da DGI obedecem ao disposto nas leis gerais da função pública."
+  },
+  "4ec3a1b27a63e3dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formação\n\nA DGI promoverá a formação do seu pessoal através de cursos, estágios e outras acções, utilizando, sempre que possível, as estruturas de formação existentes na Administração Pública, particularmente no Ministério da Indústria e Energia."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "f866f8e9c7d76bba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transição de pessoal\n\nA transição para o quadro de pessoal a que se refere o n.º 1 do artigo 25.º deste diploma faz-se, nos termos da lei geral, de entre o pessoal em serviço na DGI e provido nos quadros constantes dos mapas II e VII anexos à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto."
+  },
+  "60fbead269514d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Cessação das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cessação das comissões de serviço\n\nCom a entrada em vigor do presente diploma são dadas por findas as comissões de serviço do pessoal dirigente da DGI."
+  },
+  "fb03eb30b1215eb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Validade dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Validade dos concursos\n\nMantém-se a validade dos concursos de pessoal, abertos à data da publicação do presente diploma, para os lugares do quadro da DGI, dentro do respectivo prazo de validade e das disponibilidades orçamentais.\n\nPresidência do Conselho de Ministros, 4 de Janeiro de 1993.\n\nAníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Março de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Março de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "c474925da9ad6fff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2004-02-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
+  }
+ }
+}

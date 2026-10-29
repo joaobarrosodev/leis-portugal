@@ -40,10 +40,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-08-24'
+version_history:
+  file: decreto-lei-90-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-08-24'
+    amending: pt:dre:75170444:por
+    amending_title: Decreto-Lei n.º 50/2016
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/90/2012/04/11/p/dre/pt/html
@@ -69,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:20:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 50/2016. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-90-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,13 +177,13 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Diretiva n.º 
 
 ###### Artigo 2.º — Definições
 
-Para os efeitos do presente diploma, entende-se por:
+Para os efeitos do presente decreto-lei, entende-se por:
 
 a) «Caudal», a quantidade total de gasolina descarregada de reservatórios móveis numa estação de serviço durante um ano;
 
 b) «Eficiência da captura de vapores de gasolina», a quantidade de vapores de gasolina capturada pelo sistema de fase ii de recuperação de vapores de gasolina, expressa em percentagem da quantidade de vapores de gasolina que seria emitida para a atmosfera na falta desse sistema;
 
-c) «Entidades licenciadoras e fiscalizadoras», as entidades da administração central ou local previstas nos artigos 5.º e 6.º e no artigo 25.º do Decreto-Lei n.º 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.os 389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, e 195/2008, de 6 de outubro;
+c) 'Entidades licenciadoras e fiscalizadoras', as entidades da administração central ou local, previstas nos artigos 5.º e 6.º do presente decreto-lei e no artigo 25.º do Decreto-Lei n.º 267/2002, de 26 de novembro;
 
 d) «Estação de serviço», qualquer instalação onde os reservatórios de combustível dos veículos a motor sejam abastecidos de gasolina proveniente de depósitos de armazenamento fixos;
 
@@ -174,13 +195,15 @@ g) «Estação de serviço objeto de renovação substancial», uma estação de
 
 h) «Gasolina», qualquer derivado do petróleo, com ou sem aditivos, cuja pressão de vapor de Reid seja, no mínimo, 27,6 kPa, destinado a ser utilizado como combustível em veículos a motor, com exceção do gás de petróleo liquefeito (GPL);
 
-i) «Licença de exploração ou alvará de autorização de utilização», o título concedido nos termos da alínea j) do artigo 3.º do Decreto-Lei n.º 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.os 389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, e 195/2008, de 6 de outubro, às instalações de abastecimento de combustíveis;
+i) 'Licença de exploração ou alvará de autorização de utilização', o título concedido nos termos da alínea j) do artigo 3.º do Decreto-Lei n.º 267/2002, de 26 de novembro, às instalações de abastecimento de combustíveis;
 
 j) «Razão vapor/gasolina», a razão entre o volume de vapores de gasolina, à pressão atmosférica, que passa pelo sistema de fase ii de recuperação de vapores de gasolina e o volume de gasolina fornecido;
 
 k) «Sistema de fase ii de recuperação de vapores de gasolina», equipamentos destinados a recuperar os vapores de gasolina provenientes do depósito de combustível dos veículos a motor durante o reabastecimento na estação de serviço e a transferir esses vapores para um reservatório da estação de serviço ou para a unidade de abastecimento de gasolina, para revenda;
 
 l) «Vapores de gasolina», qualquer composto gasoso que se evapore da gasolina.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
 
 ### CAPÍTULO II — Obrigações e requisitos aplicáveis às instalações
 
@@ -198,23 +221,27 @@ b) O seu caudal efetivo ou previsto exceda 100 m3/ano e estejam integradas em ed
 
 ###### Artigo 4.º — Nível mínimo de recuperação de vapores de gasolina
 
-1 - A eficiência da captura de vapores de gasolina dos sistemas de fase ii de recuperação deve ser igual ou superior a 85 %.
+1 - A partir da data em que os sistemas de fase ii de recuperação de vapores de gasolina passem a ser obrigatórios, em conformidade com o artigo anterior:
 
-2 - A eficiência prevista no número anterior deve ser certificada pelo fabricante dos referidos sistemas de acordo com um dos seguintes parâmetros:
+a) A eficiência da captura de vapores de gasolina dos sistemas de fase ii de recuperação deve ser igual ou superior a 85 %;
 
-a) As normas técnicas ou procedimentos de homologação europeus relevantes;
+b) A razão vapor/gasolina dos vapores de gasolina recuperados que sejam transferidos para um reservatório na estação de serviço não pode ser inferior a 0,95, nem superior a 1,05.
 
-b) Os métodos estabelecidos pelo Comité Europeu de Normalização (CEN) a que se refere o artigo 8.º da Diretiva n.º [2009/126/CE](https://data.europa.eu/eli/dir/2009/126/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009; ou
+2 - A eficiência prevista na alínea a) do número anterior deve ser certificada pelo fabricante de acordo com a norma EN 16321-1.
 
-c) Caso as normas ou procedimentos previstos nas alíneas anteriores não existam, com qualquer uma das normas ou procedimentos nacionais que venham a ser instituídos para o efeito.
+3 - (Revogado.)
 
-3 - A exigibilidade do nível de eficiência previsto no n.º 1 depende da entrada em vigor de qualquer das normas, métodos ou procedimentos de certificação previstos no número anterior.
+4 - (Revogado.)
 
-4 - A partir da data em que os sistemas de fase ii de recuperação de vapores de gasolina passem a ser obrigatórios, em conformidade com o artigo anterior, a razão vapor/gasolina dos vapores de gasolina recuperados que sejam transferidos para um reservatório na estação de serviço não pode ser inferior a 0,95 nem superior a 1,05.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
 
 ###### Artigo 5.º — Verificações periódicas e informação aos consumidores
 
-1 - A eficiência da captura de vapores de gasolina dos sistemas de fase ii de recuperação de vapores de gasolina nas estações de serviço deve ser comprovada anualmente, através da verificação da conformidade da razão vapor/gasolina em condições simuladas de fluxo de gasolina com o disposto no n.º 4 do artigo anterior.
+1 - A eficiência da captura de vapores de gasolina dos sistemas de fase ii de recuperação de vapores de gasolina nas estações de serviço deve ser comprovada anualmente, de acordo com a norma EN 16321-2.
 
 2 - As verificações periódicas referidas no número anterior podem ser realizadas pelas entidades licenciadoras ou pelo titular da licença de exploração.
 
@@ -232,7 +259,9 @@ c) O sistema deve interromper automaticamente o fluxo de gasolina proveniente da
 
 6 - Nas estações de serviço que tenham instalado um sistema de fase ii de recuperação de vapores de gasolina, é obrigatória a afixação de um dístico na própria unidade de abastecimento de gasolina ou na sua proximidade, com vista a informar os consumidores da existência do referido sistema.
 
-7 - O modelo do dístico referido no número anterior é definido por despacho do diretor-geral da Direção-Geral de Energia e Geologia.
+7 - O modelo do dístico referido no número anterior é definido por despacho do diretor-geral da Direção-Geral de Energia e Geologia (DGEG).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
 
 ### CAPÍTULO III — Fiscalização e contraordenações
 
@@ -262,19 +291,23 @@ d) A falta de afixação do dístico previsto no n.º 6 do artigo 5.º
 
 ###### Artigo 8.º — Instrução e decisão
 
-As entidades licenciadoras e fiscalizadoras procedem à instrução dos correspondentes processos de contraordenação, cabendo ao presidente da câmara municipal respetiva ou ao diretor regional das direções regionais de economia (DRE) a competência para a aplicação das coimas.
+As entidades licenciadoras e fiscalizadoras procedem à instrução dos correspondentes processos de contraordenação, cabendo ao presidente da câmara municipal respetiva ou ao diretor-geral da DGEG a competência para a aplicação das coimas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
 
 ###### Artigo 9.º — Destino das coimas
 
-1 - A totalidade da receita resultante da aplicação das coimas pelo presidente da câmara municipal reverte para o município respetivo, de acordo com o n.º 1 do artigo 28.º do Decreto-Lei n.º 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.os 389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, e 195/2008, de 6 de outubro.
+1 - A totalidade da receita resultante da aplicação das coimas pelo presidente da câmara municipal reverte para o município respetivo, de acordo com o n.º 1 do artigo 28.º do Decreto-Lei n.º 267/2002, de 26 de novembro.
 
-2 - O produto da aplicação das coimas pelos diretores regionais das DRE reverte a favor das seguintes entidades:
+2 - O produto da aplicação das coimas pelo diretor-geral da DGEG reverte a favor das seguintes entidades:
 
 a) 60 % para o Estado;
 
 b) 30 % para a entidade licenciadora e fiscalizadora;
 
-c) 10 % para a Direção-Geral de Energia e Geologia.
+c) 10 % para a DGEG.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2016-75170444), publicado em 2016-08-23.
 
 ### CAPÍTULO IV — Disposições finais
 

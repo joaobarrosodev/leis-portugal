@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-05'
+version_history:
+  file: decreto-lei-151-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-05'
+    amending: pt:dre:621345:por
+    amending_title: Lei n.º 5/96
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:37:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 5/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-151-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,7 +213,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - Os planos especiais de ordenamento do território são instrumentos normativos, da iniciativa da administração directa ou indirecta do Estado, que fixam princípios e regras quanto à ocupação, ao uso e à transformação do solo na área por eles abrangida, visando a satisfação de um interesse público concreto através de um correcto ordenamento do território.
 
-3 - Os tipos de planos especiais de ordenamento do território, para os efeitos do presente diploma, são os previstos no seu anexo, que dele faz parte integrante.
+3 - Os tipos de planos especiais de ordenamento do território, para os efeitos do presente diploma, são os planos relativos às áreas protegidas, planos de albufeiras de águas públicas e planos da orla costeira.
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 5/96](https://diariodarepublica.pt/dr/detalhe/lei/5-1996-621345), publicado em 1996-02-29.
 
 ###### Artigo 2.º — Competências
 

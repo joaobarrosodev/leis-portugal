@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-11-29'
+version_history:
+  file: decreto-lei-64-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-29'
+    amending: pt:dre:481498:por
+    amending_title: Decreto-Lei n.º 201/2005
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/64/1998/03/17/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:04:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 201/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-64-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,13 +220,17 @@ d) Herdade do Moinho Velho, prédio rústico e urbano sito na freguesia de Abela
 
 ###### Artigo 3.º
 
-1 - A Zona de Caça Nacional da Tapada Nacional de Mafra, criada pelo [Decreto-Lei n.º 378/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1989-549461), de 26 de Outubro, deve ser transformada em zona de caça turística, de acordo com o disposto no artigo 65.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto.
+1 - (Revogado.)
 
 2 - É transferida para uma cooperativa de interesse público, a criar por resolução do Conselho de Ministros e na qual o Estado deterá posição maioritária, a gestão da referida Zona de Caça Nacional da Tapada Nacional de Mafra, bem como a gestão dos móveis, equipamentos e benfeitorias aí existentes.
 
 3 - São transferidos para a cooperativa os trabalhadores da ENDAC a prestar serviço na referida Zona de Caça e que manifestem interesse na transferência, mantendo os mesmos direitos e regalias que possuam à presente data.
 
-4 - Enquanto não for criada a cooperativa referida no número anterior e até à constituição da zona de caça turística referida no n.º 1, a gestão da Zona de Caça Nacional da Tapada Nacional de Mafra é assegurada pela Direcção-Geral das Florestas.
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), publicado em 2005-11-24.
+
+> Revogado pelo/a Artigo 170.º do/a [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), publicado em 2005-11-24.
 
 ###### Artigo 4.º
 

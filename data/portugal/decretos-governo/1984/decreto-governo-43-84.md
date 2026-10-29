@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-08-31'
+version_history:
+  file: decreto-governo-43-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-08-31'
+    amending: pt:dre:520017:por
+    amending_title: Declaração
+    changes:
+    - Retifica Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:28:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-governo/1984/decreto-governo-43-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,7 +123,9 @@ de 1 de Agosto
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
 
-Artigo único. É aprovado o Acordo sobre a Permanência ao Serviço e Readmissão de Nacionais de Uma das Partes Que Se Encontram a Exercer ou Tenham Exercido Funções no Âmbito da Administração Pública da Outra Parte entre a República Portuguesa e a República de Cabo Verde, assinado em 7 de Outubro de 1982, cujo texto vai anexo ao presente decreto.
+###### Artigo único
+
+É aprovado o Acordo sobre a Permanência ao Serviço e Readmissão de Nacionais de Uma das Partes Que Se Encontram a Exercer ou Tenham Exercido Funções no Âmbito da Administração Pública da Outra Parte entre a República Portuguesa e a República de Cabo Verde, assinado em 7 de Outubro de 1982, cujo texto vai anexo ao presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
 
@@ -130,13 +147,15 @@ Considerando ainda os princípios fundamentais nele consignados, bem como a nece
 
 Os Estados signatários decidem subscrever o presente Acordo:
 
-ARTIGO 1.º
+###### Artigo 1.º
 
-1 - Os cidadãos de ambas as Partes que tiverem perdido o requisito da nacionalidade exigido para o exercício de funções públicas em Portugal ou Cabo Verde, mas continuarem ao serviço da administração central, local e regional e em institutos públicos, nas modalidades de serviços personalizados e fundos públicos, têm direito a manter-se no exercício das respectivas funções.
+1 - Os cidadãos de ambas as Partes que perderem o requisito da nacionalidade exigido para o exercício de funções públicas em Portugal ou Cabo Verde, mas continuarem ao serviço da administração central, local e regional e em institutos públicos, nas modalidades de serviços personalizados e fundos públicos, têm direito a manter-se no exercício das respectivas funções.
 
 2 - Consideram-se convalidadas todas as situações irregulares existentes de exercício de funções sem respeito do referido requisito.
 
-ARTIGO 2.º
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520017), publicado em 1984-08-31.
+
+###### Artigo 2.º
 
 1 - Os cidadãos cabo-verdianos nas condições referidas no artigo anterior que tenham sido afastados do exercício de funções públicas em razão da perda da nacionalidade podem requerer a sua readmissão no serviço a que pertenciam, em categoria igual ou equivalente, do quadro ou fora do quadro, no prazo de 180 dias a partir da entrada em vigor deste Acordo.
 
@@ -144,19 +163,19 @@ ARTIGO 2.º
 
 3 - Os cidadãos cabo-verdianos e portugueses que exerciam funções no quadro, não sendo possível a readmissão em lugar da mesma natureza, exercerão transitoriamente funções fora do quadro, com direito à primeira vaga que ocorrer na categoria correspondente.
 
-ARTIGO 3.º
+###### Artigo 3.º
 
 O disposto nos artigos anteriores entende-se com ressalva do acesso à titularidade dos órgãos de soberania e das regiões autónomas, do serviço nas Forças Armadas e da carreira diplomática.
 
-ARTIGO 4.º
+###### Artigo 4.º
 
 Os cidadãos de Cabo Verde e de Portugal abrangidos por este Acordo beneficiam do mesmo estatuto jurídico aplicável aos funcionários e agentes nacionais do país onde exerçam funções.
 
-ARTIGO 5.º
+###### Artigo 5.º
 
 Os diferendos relacionados com a interpretação e aplicação deste Acordo serão solucionados por via de negociação diplomática.
 
-ARTIGO 6.º
+###### Artigo 6.º
 
 O presente Acordo entrará em vigor na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vigente até 6 meses depois da data em que qualquer das Partes contratantes notifique a outra Parte do seu desejo de denunciar o Acordo.
 

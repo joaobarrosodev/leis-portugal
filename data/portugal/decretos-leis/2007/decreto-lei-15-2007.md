@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-01'
+version_history:
+  file: decreto-lei-15-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-01'
+    amending: pt:dre:491219:por
+    amending_title: Decreto-Lei n.º 270/2009
+    changes:
+    - Revoga Artigo 7.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:56:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 270/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-15-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1972,7 +1988,9 @@ d) Participação no júri da prova pública de admissão ao concurso de acesso 
 
 ###### Artigo 7.º — Dispensa da prova de avaliação de conhecimentos e competências
 
-Para efeitos de admissão a concurso de provimento ou outro processo de selecção é dispensado da realização da prova de avaliação de conhecimentos e competências o docente que tenha celebrado contrato administrativo de serviço docente em dois dos últimos quatro anos imediatamente anteriores ao ano lectivo de 2007-2008, desde que conte, pelo menos, cinco anos completos de serviço docente efectivo e avaliação de desempenho igual ou superior a Bom.
+(Revogado.)
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 270/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2009-491219), publicado em 2009-09-30.
 
 ###### Artigo 8.º — Profissionalização em serviço
 
@@ -1986,9 +2004,9 @@ Para efeitos de admissão a concurso de provimento ou outro processo de selecç�
 
 ###### Artigo 9.º — Dispensa do período probatório
 
-1 - Para efeitos de conversão da nomeação provisória em nomeação definitiva considera-se dispensado do período probatório o docente que tenha celebrado contrato administrativo de serviço docente em dois dos últimos quatro anos imediatamente anteriores ao ano lectivo de 2007-2008, no mesmo nível de ensino, grupo de recrutamento, desde que conte, pelo menos, cinco anos completos de serviço docente efectivo e avaliação do desempenho igual ou superior a Bom.
+(Revogado.)
 
-2 - A nomeação do docente que observe os requisitos previstos no número anterior é automaticamente convertida em nomeação definitiva.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 270/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2009-491219), publicado em 2009-09-30.
 
 ###### Artigo 10.º — Transição da carreira docente
 

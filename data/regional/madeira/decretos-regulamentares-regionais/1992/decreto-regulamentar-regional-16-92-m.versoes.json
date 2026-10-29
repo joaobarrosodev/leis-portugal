@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:292517:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3593f8272ef69882"
+   ]
+  },
+  {
+   "date": "1999-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:316921:por",
+     "title": "Decreto Regulamentar Regional n.º 7/99/M",
+     "published": "1999-05-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-1999-316921"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "bb55039ccba605b8",
+    "fdef1c707fb76070",
+    "165064c46a803e6c",
+    "63dd67819d85ae9a"
+   ]
+  }
+ ],
+ "fragments": {
+  "3593f8272ef69882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Define as entidades que na Região Autónoma da Madeira exercerão as competências e atribuições previstas no [Decreto-Lei n.º 103/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1991-459430), de 15 de Março.\n\nO [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, veio estabelecer as novas normas disciplinares do exercício de actividade industrial, tornando-as mais consentâneas com a actual evolução industrial e tecnológica, mas salvaguardando o equilíbrio ambiental.\n\nO referido diploma legal, ainda que aplicável à Região Autónoma da Madeira, necessita, contudo, de ser adaptado às especificidades orgânicas desta Região.\n\nAssim:\n\nO Governo Regional decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:\n\nArtigo 1.º As referências feitas e as competências atribuídas nos artigos 2.º, alínea g), e 8.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, aos Ministérios da Indústria e Energia e da Agricultura, Pescas e Alimentação consideram-se reportadas e são exercidas na Região Autónoma da Madeira pela Secretaria Regional da Economia.\n\nArt. 2.º O produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria.\n\nArt. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 11 de Junho de 1992.\n\nO Vice-Presidente do Governo Regional, Miguel José Luís de Sousa.\n\nAssinado em 6 de Julho de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "bb55039ccba605b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Define as entidades que na Região Autónoma da Madeira exercerão as competências e atribuições previstas no [Decreto-Lei n.º 103/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1991-459430), de 15 de Março.\n\nO [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, veio estabelecer as novas normas disciplinares do exercício de actividade industrial, tornando-as mais consentâneas com a actual evolução industrial e tecnológica, mas salvaguardando o equilíbrio ambiental.\n\nO referido diploma legal, ainda que aplicável à Região Autónoma da Madeira, necessita, contudo, de ser adaptado às especificidades orgânicas desta Região.\n\nAssim:\n\nO Governo Regional decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:"
+  },
+  "fdef1c707fb76070": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1999-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1999-316921), publicado em 1999-05-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs referências feitas e as competências atribuídas pelo Decreto-Lei n.º 109/91, de 15 de Março, e respectiva legislação complementar, aos Ministérios da Indústria e Energia e da Agricultura consideram-se reportadas e são exercidas na Região Autónoma da Madeira pelos departamentos governamentais que tenham a seu cargo, respectivamente, os sectores da indústria e energia e da agricultura, pecuária e pescas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1999-316921), publicado em 1999-05-27."
+  },
+  "165064c46a803e6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO produto das coimas aplicadas por força do referido [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) que sejam cobradas na Região Autónoma da Madeira constitui receita própria."
+  },
+  "63dd67819d85ae9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 11 de Junho de 1992.\n\nO Vice-Presidente do Governo Regional, Miguel José Luís de Sousa.\n\nAssinado em 6 de Julho de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-12-31'
+version_history:
+  file: decreto-lei-400-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-12-31'
+    amending: pt:dre:354563:por
+    amending_title: Decreto-Lei n.º 792/75
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:20:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 792/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-400-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,15 +151,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e legislação complementar.
+###### Artigo 1.º
+
+1. São criadas seis novas escolas do magistério primário, que funcionarão nos termos do [Decreto-Lei n.º 32243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32243-1942-337441), de 5 de Setembro de 1942, e legislação complementar.
 
 2. O local e o início de funcionamento de cada escola serão fixados por despacho do Ministro da Educação Nacional.
 
-Art. 2.º - 1. Os quadros do pessoal administrativo e do pessoal auxiliar de cada uma das escolas criadas pelo artigo 1.º serão fixados e poderão ser remodelados pela forma prescrita no artigo 25.º do [Decreto-Lei n.º 43369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43369-1960-512977), de 2 de Dezembro de 1960.
+###### Artigo 2.º
 
-2. O pessoal administrativo e o pessoal auxiliar que há pelo menos cinco anos exerça funções em escolas particulares do magistério primário ingressará nos quadros das novas escolas oficiais das mesmas localidades, se o requerer no prazo de quinze dias após a publicação do despacho a que se refere o n.º 2 do artigo 1.º e satisfizer às exigências legais estabelecidas para o provimento, com excepção das do artigo 4.º do [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, das dos artigos 6.º e 7.º do [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), de 16 de Setembro de 1963, e das dos artigos 25.º, 27.º e 28.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+(Revogado.)
 
-Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+> Revogado pelo/a [Decreto-Lei n.º 792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563), publicado em 1975-12-31.
 
 Promulgado em 13 de Setembro de 1971.
 

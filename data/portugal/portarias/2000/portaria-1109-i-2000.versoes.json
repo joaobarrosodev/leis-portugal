@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554633:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74368a98d62e4100",
+    "65f55b939063f696",
+    "612030a91b4f8aa9",
+    "2123fe3a8b22c5b4",
+    "26e1d90268091a27",
+    "b36de27cab28bc7b",
+    "31de4fe84b343bab",
+    "2f0b16a71456c2cf",
+    "992f07130e37e161",
+    "2dff2c5981f8d595",
+    "42bf539190e23925",
+    "6d8e77ebd54113b2",
+    "86cf35303e67edee",
+    "b560cd4d308cc2ec",
+    "fd8260c4245fe09c",
+    "736a7a2e30676cc4",
+    "621ea70fa55066ef",
+    "7d19afa1e8b2250b",
+    "03aed493e053caed"
+   ]
+  },
+  {
+   "date": "2001-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650304:por",
+     "title": "Portaria n.º 1103-B/2001",
+     "published": "2001-09-15",
+     "dre_path": "/dr/detalhe/portaria/1103-b-2001-650304"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::5.º",
+    "Altera Artigo ANEXO::6.º"
+   ],
+   "fragments": [
+    "74368a98d62e4100",
+    "65f55b939063f696",
+    "612030a91b4f8aa9",
+    "2123fe3a8b22c5b4",
+    "26e1d90268091a27",
+    "b36de27cab28bc7b",
+    "5641f42e6cedcfa0",
+    "6e5dc0635bf96c5c",
+    "992f07130e37e161",
+    "2dff2c5981f8d595",
+    "42bf539190e23925",
+    "6d8e77ebd54113b2",
+    "86cf35303e67edee",
+    "b560cd4d308cc2ec",
+    "fd8260c4245fe09c",
+    "736a7a2e30676cc4",
+    "621ea70fa55066ef",
+    "7d19afa1e8b2250b",
+    "03aed493e053caed"
+   ]
+  }
+ ],
+ "fragments": {
+  "74368a98d62e4100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro\n\nNo âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006 foram aprovados o Programa Operacional de Agricultura e Desenvolvimento Rural (Programa AGRO), bem como os programas operacionais de âmbito regional onde se inclui a medida Agricultura e Desenvolvimento Rural, abreviadamente designada por AGRIS.\n\nA medida AGRIS pretende garantir a promoção e o desenvolvimento das zonas rurais, nomeadamente através do desenvolvimento e aperfeiçoamento das infra-estruturas ligadas às explorações agrícolas.\n\nA medida AGRIS integra assim a acção «Caminhos e electrificação agro-rurais», enquadrada no âmbito do Regulamento (CE) n.º [1257/1999](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio, travessão 9 do artigo 33.º, e através da qual se pretende, designadamente, melhorar as acessibilidades nas zonas rurais.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais», da acção n.º 6, «Caminhos e electrificação agro-rurais», da medida AGRIS dos programas operacionais regionais, em anexo ao presente diploma e do qual faz parte integrante.\n\nEm 31 de Outubro de 2000.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "65f55b939063f696": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais»"
+  },
+  "612030a91b4f8aa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da subacção n.º 6.1, «Caminhos agrícolas e rurais», da acção «Caminhos e electrificação agro-rurais» da medida AGRIS."
+  },
+  "2123fe3a8b22c5b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nA atribuição de ajudas no âmbito deste Regulamento tem como objectivo melhorar as acessibilidades nas zonas rurais através do apoio à abertura ou melhoria de caminhos agrícolas e rurais, facilitando a circulação de pessoas e equipamentos, o acesso às explorações agrícolas e o escoamento dos produtos agrícolas."
+  },
+  "26e1d90268091a27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPodem ser concedidas ajudas a projectos de construção ou beneficiação de:\n\na) Caminho agrícola - caminho de acesso às explorações agrícolas com largura de plataforma até 4 m;\n\nb) Caminho rural - caminho de ligação entre aglomerados populacionais (lugares, aldeias e vilas), rede viária municipal ou nacional e um perímetro, unidade agrícola ou sub-bloco, com largura de plataforma até 5 m."
+  },
+  "b36de27cab28bc7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste Regulamento:\n\na) Caminhos agrícolas: organizações de agricultores e autarquias locais;\n\nb) Caminhos rurais: autarquias locais."
+  },
+  "31de4fe84b343bab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e valor das ajudas\n\nAs ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis, no caso dos caminhos agrícolas, e de 50%, no caso dos caminhos rurais."
+  },
+  "2f0b16a71456c2cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nSão elegíveis as despesas com:\n\na) Elaboração de estudos e projectos;\n\nb) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;\n\nc) Acompanhamento e fiscalização das obras;\n\nd) Controlo de qualidade em ensaios."
+  },
+  "992f07130e37e161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado do projecto de execução e demais documentos indicados nas respectivas instruções.\n\n2 - As candidaturas são apresentadas, ao longo de todo o ano, nas direcções regionais de agricultura (DRA) competentes."
+  },
+  "2dff2c5981f8d595": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Análise das candidaturas\n\nA análise das candidaturas compete ao coordenador da medida AGRIS, que as remete ao gestor da intervenção operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "42bf539190e23925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão."
+  },
+  "6d8e77ebd54113b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessas competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - As candidaturas são decididas nos meses de Abril e Outubro, só podendo ser objecto de decisão aquelas que tenham sido apresentadas até ao fim dos meses de Fevereiro e Agosto, respectivamente.\n\n3 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.\n\n4 - As candidaturas são aprovadas em função da dotação orçamental.\n\n5 - As candidaturas serão hierarquizadas tendo em conta os seguintes critérios:\n\na) Candidaturas relativas a caminhos agrícolas apresentadas por organizações de agricultores ou por estas em conjunto com autarquias locais;\n\nb) Existência de outras infra-estruturas colectivas já realizadas ou em fase de execução;\n\nc) Articulação com outros projectos de investimento;\n\nd) Manchas de aptidão agrícola com acessos muito deficientes;\n\ne) Número de explorações agrícolas servidas;\n\nf) Custo do projecto/quilómetro;\n\ng) Zonas abrangidas por acções integradas de desenvolvimento de base territorial em que as actividades agrícolas ou florestais tenham carácter dominante e integrador;\n\nh) Localização em zonas desfavorecidas."
+  },
+  "86cf35303e67edee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário no prazo máximo de 30 dias a contar da data da notificação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas."
+  },
+  "b560cd4d308cc2ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos beneficiários\n\nConstituem, nomeadamente, obrigações dos beneficiários:\n\na) Executar o projecto de acordo com os prazos estabelecidos;\n\nb) Assegurar a conservação e manutenção dos caminhos após a conclusão da obra."
+  },
+  "fd8260c4245fe09c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Execução dos investimentos\n\n1 - A elaboração dos estudos e dos projectos de investimento e a execução das obras são da responsabilidade dos proponentes.\n\n2 - O início das obras só poderá efectuar-se depois da assinatura do contrato e após a sua comunicação pelo beneficiário à entidade fiscalizadora, de modo a permitir um correcto acompanhamento das mesmas.\n\n3 - Os prazos de início e conclusão das obras são estabelecidos no contrato."
+  },
+  "736a7a2e30676cc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Alterações aos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações aos investimentos\n\nAs alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão."
+  },
+  "621ea70fa55066ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento e pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e pagamento das ajudas\n\n1 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida, que, após análise dos mesmos, procederá ao envio de um recapitulativo das despesas ao IFADAP, conforme formulário pré-definido, com base no qual este procederá ao processamento das ajudas.\n\n2 - O primeiro pagamento da ajuda só será efectuado após a realização de 5% do investimento elegível.\n\n3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas."
+  },
+  "7d19afa1e8b2250b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Candidaturas apresentadas no âmbito do QCA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Candidaturas apresentadas no âmbito do QCA II\n\nAs candidaturas apresentadas no âmbito do anterior Quadro Comunitário de Apoio e que não foram objecto de decisão, podem beneficiar das presentes ajudas, desde que reúnam as condições estabelecidas neste Regulamento e sejam reformuladas no prazo de 60 dias após a entrada em vigor deste Regulamento."
+  },
+  "03aed493e053caed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Despesas já realizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despesas já realizadas\n\n1 - Nas situações referidas no artigo anterior, são elegíveis as despesas realizadas a partir da data da apresentação da candidatura.\n\n2 - As despesas efectuadas a partir de 19 de Novembro de 1999 relativamente à elaboração de estudos e projectos e à realização de projectos de investimento ainda não apresentados, poderão ser consideradas elegíveis desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento."
+  },
+  "5641f42e6cedcfa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma e valor das ajudas",
+   "in_force_from": "2001-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+   ],
+   "markdown": "###### Artigo 5.º — Forma e valor das ajudas\n\n1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis.\n\n2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.\n\n> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+  },
+  "6e5dc0635bf96c5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": "2001-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+   ],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\nSão elegíveis as despesas com:\n\na) Elaboração de estudos e projectos até ao limite de 5% do custo da obra;\n\nb) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;\n\nc) Acompanhamento e fiscalização das obras;\n\nd) Controlo de qualidade em ensaios.\n\n> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+  }
+ }
+}

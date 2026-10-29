@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-05-09'
+version_history:
+  file: decreto-regulamentar-regional-9-2008-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-09'
+    amending: pt:dre:552066:por
+    amending_title: Decreto Regulamentar Regional n.º 13/2012/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/9/2008/05/07/a/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:30:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    13/2012/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2008/decreto-regulamentar-regional-9-2008-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,7 @@ Assim, nos termos das alíneas d) do n.º 1 do artigo 227.º da Constituição, 
 
 ###### Artigo 2.º — Âmbito subjectivo
 
-1 - Podem candidatar-se à execução de projectos de actividades ocupacionais as seguintes entidades sem fins lucrativos:
+1 - Podem candidatar-se à execução de projetos de atividades ocupacionais as seguintes entidades com e sem fins lucrativos:
 
 a) Serviços e organismos dependentes da administração pública regional;
 
@@ -152,7 +167,13 @@ d) Instituições particulares de solidariedade social ou equiparados;
 
 e) Associações e cooperativas sem fins lucrativos.
 
+f) Entidades públicas empresariais;
+
+g) Sociedades anónimas de capitais maioritariamente públicos.
+
 2 - Os processos de candidatura referidos na alínea a) do número anterior carecem de aprovação prévia dos membros do Governo Regional com competência na área das finanças e da administração pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 13/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2012-552066), publicado em 2012-05-09.
 
 ###### Artigo 3.º — Prestação de desemprego
 

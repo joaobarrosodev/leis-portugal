@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-04-17'
+version_history:
+  file: decreto-lei-270-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-04-17'
+    amending: pt:dre:566223:por
+    amending_title: Decreto-Lei n.º 33/96
+    changes:
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/270/1994/10/25/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:33:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 33/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-270-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,13 +159,21 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º É aprovada a primeira fase da reprivatização directa do Banco de Fomento e Exterior, S. A., regida pelo presente diploma e pela resolução do Conselho de Ministros que, em aplicação e desenvolvimento dos termos legais, aprovará as condições concretas da operação.
+###### Artigo 1.º
 
-Art. 2.º Na primeira fase de reprivatização directa do Banco de Fomento e Exterior, S. A., procede-se à alienação de 6751650 acções representativas do seu capital social, de que é titular a PARTEST, Participações do Estado, SGPS, S. A., conjuntamente com o lote de 1049900 acções próprias, actualmente detidas pela instituição a reprivatizar, ou das que, em resultado do aumento do capital social para o dobro, por incorporação de reservas, lhes corresponderem, mediante oferta pública de venda em bolsa de valores, sem prejuízo do disposto no artigo 4.º
+É aprovada a primeira fase da reprivatização directa do Banco de Fomento e Exterior, S. A., regida pelo presente diploma e pela resolução do Conselho de Ministros que, em aplicação e desenvolvimento dos termos legais, aprovará as condições concretas da operação.
 
-Art. 3.º As acções serão vendidas ao preço fixo que for estabelecido na resolução do Conselho de Ministros referida no artigo 1.º
+###### Artigo 2.º
 
-Art. 4.º - 1 - É reservado para aquisição por pequenos subscritores, emigrantes e trabalhadores do Banco de Fomento e Exterior, S. A., bem como do Banco Borges & Irmão, S. A., cujo capital social é totalmente detido pelo primeiro, um lote de acções correspondentes a 35% do capital a alienar nesta fase.
+Na primeira fase de reprivatização directa do Banco de Fomento e Exterior, S. A., procede-se à alienação de 6751650 acções representativas do seu capital social, de que é titular a PARTEST, Participações do Estado, SGPS, S. A., conjuntamente com o lote de 1049900 acções próprias, actualmente detidas pela instituição a reprivatizar, ou das que, em resultado do aumento do capital social para o dobro, por incorporação de reservas, lhes corresponderem, mediante oferta pública de venda em bolsa de valores, sem prejuízo do disposto no artigo 4.º
+
+###### Artigo 3.º
+
+As acções serão vendidas ao preço fixo que for estabelecido na resolução do Conselho de Ministros referida no artigo 1.º
+
+###### Artigo 4.º
+
+1 - É reservado para aquisição por pequenos subscritores, emigrantes e trabalhadores do Banco de Fomento e Exterior, S. A., bem como do Banco Borges & Irmão, S. A., cujo capital social é totalmente detido pelo primeiro, um lote de acções correspondentes a 35% do capital a alienar nesta fase.
 
 2 - Para os efeitos do número anterior, entende-se por trabalhadores as pessoas como tal consideradas pelo artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
@@ -162,7 +187,9 @@ Art. 4.º - 1 - É reservado para aquisição por pequenos subscritores, emigran
 
 7 - As acções eventualmente remanescentes da oferta pública serão aplicadas sucessivamente na satisfação das ordens dadas em relação às reservas estabelecidas nos n.os 1 e 3 que não tenham sido cumpridas por efeito de rateio.
 
-Art. 5.º - 1 - As acções adquiridas em conformidade com a reserva instituída no n.º 1 do artigo anterior não podem, sob pena de nulidade do referido negócio, ser oneradas ou objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição.
+###### Artigo 5.º
+
+1 - As acções adquiridas em conformidade com a reserva instituída no n.º 1 do artigo anterior não podem, sob pena de nulidade do referido negócio, ser oneradas ou objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição.
 
 2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo anterior não conferem aos respectivos titulares o direito de votarem em assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no número anterior.
 
@@ -172,45 +199,69 @@ Art. 5.º - 1 - As acções adquiridas em conformidade com a reserva instituída
 
 5 - São nulos os contratos-promessa, contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções, quando celebrados antes de terminado o respectivo período de indisponibilidade.
 
-Art. 6.º As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
+###### Artigo 6.º
 
-Art. 7.º - 1 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo do presente diploma, mais de 5% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
+As nulidades cominadas no artigo anterior podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria sociedade.
+
+###### Artigo 7.º
+
+1 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo do presente diploma, mais de 5% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excederem.
 
 2 - Consideram-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelos mesmos sócios.
 
-Art. 8.º Nas deliberações adoptadas em assembleia geral do Banco de Fomento e Exterior, S. A., contar-se-ão como pertencentes ao mesmo accionista os votos das acções detidas por quaisquer entidades que se encontrem nas situações previstas no artigo 530.º do Código do Mercado de Valores Mobiliários, com as necessárias adaptações.
+###### Artigo 8.º
 
-Art. 9.º - 1 - Os accionistas do Banco de Fomento e Exterior, S. A., têm o dever de prestar ao conselho de administração da sociedade, por forma escrita, verdadeira, completa e elucidativa, todas as informações que o mesmo lhes solicitar sobre factos que lhes digam respeito e que tenham a ver com as previsões dos n.os 2 e 3 do artigo 525.º do Código do Mercado de Valores Mobiliários.
+(Revogado.)
 
-2 - A falta de cumprimento deste dever até à data da realização da primeira reunião da assembleia geral da sociedade posterior ao pedido de informação implica a confissão, pelo accionista em causa, dos factos que lhe são imputados pelo conselho de administração.
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.
 
-3 - Os acordos parassociais relativos ao Banco de Fomento e Exterior, S. A., devem ser comunicados, na íntegra, ao conselho de administração, nos 30 dias posteriores à sua celebração, pelos accionistas que os tenham subscrito, sob pena de ineficácia dos mesmos.
+###### Artigo 9.º
 
-Art. 10.º - 1 - Independentemente do número de acções do Banco de que o Estado seja titular, o Governo terá sempre o direito de nomear um administrador, sem prejuízo de participação dos votos do Estado na eleição de outros administradores, nos termos gerais.
+(Revogado.)
 
-2 - As deliberações sobre alteração do contrato de sociedade, fusão, cisão, transformação, dissolução e limitação do direito de preferência dos accionistas ou outras para as quais o contrato de sociedade exija maioria qualificada não se consideram adoptadas contra o voto expresso correspondente às acções pertencentes ao Estado.
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.
 
-Art. 11.º Compete ao conselho de administração do Banco propor ao Ministro das Finanças o valor da instituição para efeitos de reprivatização, com base em avaliação especialmente efectuada por duas entidades independentes escolhidas de entre as que forem pré-qualificadas para o efeito.
+###### Artigo 10.º
 
-Art. 12.º Nos 15 dias seguintes ao termo desta primeira fase do processo de reprivatização directa, o Banco publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
+(Revogado.)
 
-Art. 13.º - 1 - Nos 30 dias seguintes à conclusão da oferta pública de venda prevista no artigo 2.º, o conselho de administração convocará a assembleia geral de accionistas para reunir no prazo mínimo previsto por lei, a fim de eleger os membros dos órgãos sociais e tratar de outras matérias directamente decorrentes da reprivatização.
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1996-566223), publicado em 1996-04-12.
+
+###### Artigo 11.º
+
+Compete ao conselho de administração do Banco propor ao Ministro das Finanças o valor da instituição para efeitos de reprivatização, com base em avaliação especialmente efectuada por duas entidades independentes escolhidas de entre as que forem pré-qualificadas para o efeito.
+
+###### Artigo 12.º
+
+Nos 15 dias seguintes ao termo desta primeira fase do processo de reprivatização directa, o Banco publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas cuja participação atinja 1% do capital social, indicando a quantidade de acções de que cada um é titular.
+
+###### Artigo 13.º
+
+1 - Nos 30 dias seguintes à conclusão da oferta pública de venda prevista no artigo 2.º, o conselho de administração convocará a assembleia geral de accionistas para reunir no prazo mínimo previsto por lei, a fim de eleger os membros dos órgãos sociais e tratar de outras matérias directamente decorrentes da reprivatização.
 
 2 - Enquanto não tiverem lugar as fases subsequentes do processo de reprivatização do Banco de Fomento e Exterior, S. A., os accionistas privados da sociedade terão o direito de designar dois administradores, que serão escolhidos, por meio de eleição isolada, de entre pessoas por eles propostas, em listas subscritas por grupos que representem um mínimo de 10% do capital social.
 
-Art. 14.º Para realização das operações de alienação de acções de que trata o presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, os poderes necessários para contratar, por ajuste directo, a respectiva montagem, bem como a tomada firme e colocação das acções, e ainda para determinar todas as demais condições que se afigurem convenientes.
+###### Artigo 14.º
 
-Art. 15.º - 1 - A escritura pública de alteração do contrato de sociedade do Banco de Fomento e Exterior, S. A., que inclua as modificações decorrentes do disposto no presente decreto-lei, designadamente a eliminação da distinção das acções de tipo A e de tipo B e as resultantes do disposto no artigo 9.º, ficará isenta do pagamento de quaisquer taxas ou emolumentos.
+Para realização das operações de alienação de acções de que trata o presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, os poderes necessários para contratar, por ajuste directo, a respectiva montagem, bem como a tomada firme e colocação das acções, e ainda para determinar todas as demais condições que se afigurem convenientes.
+
+###### Artigo 15.º
+
+1 - A escritura pública de alteração do contrato de sociedade do Banco de Fomento e Exterior, S. A., que inclua as modificações decorrentes do disposto no presente decreto-lei, designadamente a eliminação da distinção das acções de tipo A e de tipo B e as resultantes do disposto no artigo 9.º, ficará isenta do pagamento de quaisquer taxas ou emolumentos.
 
 2 - Permanecem em vigor as disposições do [Decreto-Lei n.º 428/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1989-550587), de 7 de Dezembro, que não forem expressamente contrárias ao previsto no presente diploma.
 
-Art. 16.º - 1 - No quadro da operação de reprivatização do Banco de Fomento e Exterior, S. A., regulada pelo presente diploma, fica o Banco Borges & Irmão, S. A., autorizado a emitir até 5000000 de obrigações de reprivatização, sob a forma de obrigações com direito de subscrição ou de aquisição, em processo de reprivatização, de acções representativas do capital social do primeiro.
+###### Artigo 16.º
+
+1 - No quadro da operação de reprivatização do Banco de Fomento e Exterior, S. A., regulada pelo presente diploma, fica o Banco Borges & Irmão, S. A., autorizado a emitir até 5000000 de obrigações de reprivatização, sob a forma de obrigações com direito de subscrição ou de aquisição, em processo de reprivatização, de acções representativas do capital social do primeiro.
 
 2 - Os accionistas não terão direito de preferência na subscrição das obrigações previstas no número anterior e relativamente à emissão ou emissões de obrigações a que se refere o n.º 1 não vigora o disposto no artigo 372.º-A do Código das Sociedades Comerciais.
 
 3 - No que não estiver previsto no presente diploma quanto à emissão de obrigações de reprivatização aplica-se o regime do [Decreto-Lei n.º 408/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1991-288874), de 17 de Outubro.
 
-Art. 17.º As condições de emissão serão as seguintes:
+###### Artigo 17.º
+
+As condições de emissão serão as seguintes:
 
 a) As obrigações de reprivatização serão emitidas ao valor nominal de 1000$00 e cada uma conferirá o direito de subscrever ou adquirir, na operação de reprivatização regulada pelo presente diploma, uma acção do Banco de Fomento e Exterior, S. A.;
 
@@ -232,15 +283,21 @@ f) As obrigações de reprivatização objecto das reservas instituídas na alí
 
 g) As restantes condições de emissão, designadamente o tipo de obrigações, as regras de rateio, a taxa de juro e as condições de reembolso, serão definidas pelos órgãos competentes do Banco de Fomento e Exterior, S. A., e do Banco Borges & Irmão, S. A.
 
-Art. 18.º - 1 - O direito de subscrição ou de aquisição poderá ser exercido na operação de reprivatização do Banco de Fomento e Exterior, S. A., prevista no presente decreto-lei.
+###### Artigo 18.º
+
+1 - O direito de subscrição ou de aquisição poderá ser exercido na operação de reprivatização do Banco de Fomento e Exterior, S. A., prevista no presente decreto-lei.
 
 2 - O direito de subscrição ou de aquisição de acções do Banco de Fomento e Exterior, S. A., conferido pela alínea a) do artigo 17.º está sujeito ao limite constante do artigo 7.º, mas as ordens dadas pelos titulares desses direitos serão satisfeitas com prioridade relativamente às restantes.
 
 3 - O preço de subscrição ou de aquisição de acções do Banco de Fomento e Exterior, S. A., em virtude do exercício do direito conferido pela alínea a) do artigo 17.º será inferior em 50$00 ao que for fixado para cada classe de adquirente.
 
-Art. 19.º A emissão de obrigações de reprivatização prevista nos artigos antecedentes deverá ser precedida das correspondentes deliberações do Banco de Fomento e Exterior, S. A., e do Banco Borges & Irmão, S. A.
+###### Artigo 19.º
 
-Art. 20.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+A emissão de obrigações de reprivatização prevista nos artigos antecedentes deverá ser precedida das correspondentes deliberações do Banco de Fomento e Exterior, S. A., e do Banco Borges & Irmão, S. A.
+
+###### Artigo 20.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 

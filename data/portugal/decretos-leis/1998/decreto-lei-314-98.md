@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-06-30'
+version_history:
+  file: decreto-lei-314-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-06-30'
+    amending: pt:dre:620286:por
+    amending_title: Decreto-Lei n.º 76-A/2006
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/314/1998/10/17/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:00:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 76-A/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-314-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,6 +177,10 @@ c) Delegação da Direcção-Geral dos Registos e do Notariado.
 5 - As certidões a que se refere o número anterior devem indicar a data de emissão e ser assinadas ou rubricadas por funcionário competente para assinar certidões, fazendo-se constar, em papel avulso a transmitir na continuidade da certidão, a referência à aposição do selo branco.
 
 6 - As certidões recebidas por telecópia têm, junto de qualquer serviço, a força probatória do original, devendo, para o efeito, o competente funcionário dos registos em serviço nos gabinetes de certidões mencionar a presente disposição, assinar a certidão e apor-lhe o selo branco.
+
+7 - Os gabinetes de certidões podem ainda emitir e confirmar certidões e cópias não certificadas de registos, nos termos legalmente previstos para as conservatórias do registo comercial.
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 76-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), publicado em 2006-03-29.
 
 ###### Artigo 4.º — Delegações da Direcção-Geral dos Registos e do Notariado
 

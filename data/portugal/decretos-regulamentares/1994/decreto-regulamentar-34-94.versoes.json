@@ -1,0 +1,277 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654534:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4401c3b92e77e650",
+    "02d047baf47dd8d0",
+    "fb6c52ed4fde3e96",
+    "ad4fe096f6e2d576",
+    "6a4adc7c1ee0b6c7",
+    "396cfe66f6d1ddf2",
+    "ea2198f0e5b3cf98",
+    "fd1d32fb6a5d9f0a",
+    "595908c619de574a",
+    "db2d1fe408e546af",
+    "34315294afb9cb35",
+    "5f2461479ee36ab4",
+    "614e873bd23b8b8a",
+    "7cab3d2f97f6eedf",
+    "be1370bd501daa46",
+    "b5c64ee3b1ec5347",
+    "2517ce00feffe625",
+    "774f8796e51ea117",
+    "cb788fbcbcfc2f58",
+    "641a236ffb9df609",
+    "b3b7f884ae0dc813",
+    "594080fce561a28f"
+   ]
+  },
+  {
+   "date": "1994-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:355917:por",
+     "title": "Declaração de Rectificação n.º 241/94",
+     "published": "1994-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/241-1994-355917"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "4401c3b92e77e650",
+    "02d047baf47dd8d0",
+    "fb6c52ed4fde3e96",
+    "db1785033674e7b2",
+    "6a4adc7c1ee0b6c7",
+    "396cfe66f6d1ddf2",
+    "ea2198f0e5b3cf98",
+    "fd1d32fb6a5d9f0a",
+    "595908c619de574a",
+    "db1d5c5800a2291a",
+    "34315294afb9cb35",
+    "5f2461479ee36ab4",
+    "614e873bd23b8b8a",
+    "7cab3d2f97f6eedf",
+    "be1370bd501daa46",
+    "b5c64ee3b1ec5347",
+    "2517ce00feffe625",
+    "774f8796e51ea117",
+    "cb788fbcbcfc2f58",
+    "641a236ffb9df609",
+    "b3b7f884ae0dc813",
+    "594080fce561a28f"
+   ]
+  }
+ ],
+ "fragments": {
+  "4401c3b92e77e650": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nNa sequência da publicação da Lei Orgânica da Marinha, torna-se necessário estabelecer as competências e definir a organização dos grupos de escolas, dando assim execução ao disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro.\n\nSão considerados grupos de escolas o Grupo n.º 1 de Escolas da Armada e o Grupo n.º 2 de Escolas da Armada, caracterizados na Lei Orgânica como unidades em terra. Embora estas unidades mantenham, no essencial, a sua caracterização tanto a nível estrutural como funcional, introduzem-se alguns ajustamentos e, nomeadamente, transfere-se a Escola de Informações em Combate do Grupo n.º 1 para o Grupo n.º 2 de Escolas da Armada e é extinta a Escola de Alunos Marinheiros.\n\nA necessidade, que se antevê, de reestruturar as classes de sargentos e praças, por forma a satisfazer mais adequadamente os indispensáveis padrões de desempenho do pessoal conduzirá, inevitavelmente, ao reordenamento do actual parque escolar, uma vez que cabe fundamentalmente às escolas que integram os grupos a responsabilidade de ministrar a preparação complementar dos militares daquelas categorias.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "02d047baf47dd8d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza"
+  },
+  "fb6c52ed4fde3e96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nOs grupos de escolas são unidades em terra às quais compete promover a formação do pessoal da Marinha, através das escolas que os integram, sem prejuízo das competências específicas de outras entidades no mesmo âmbito."
+  },
+  "ad4fe096f6e2d576": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Grupos de escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Grupos de escolas\n\n1 - São considerados grupos de escolas o Grupo n.º 1 de Escolas da Armada (G1EA) e o Grupo n.º 2 de Escolas da Armada (G2EA).\n\n2 - O G1EA integra as seguintes escolas:\n\na) A Escola de Máquinas;\n\nb) A Escola de Electrotecnia;\n\nc) A Escola de Abastecimento.\n\n3 - O G2EA integra as seguintes escolas:\n\na) A Escola de Artilharia Naval;\n\nb) A Escola de Armas Submarinas;\n\nc) A Escola de Comunicações;\n\nd) A Escola de Informações de Combate;\n\ne) A Escola de Marinhagem;\n\nf) A Escola de Limitação de Avarias;\n\ng) A Escola de Tecnologia de Educação e Treino.\n\n4 - As escolas são genericamente designadas por escolas técnicas."
+  },
+  "6a4adc7c1ee0b6c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\nAos grupos de escolas compete;\n\na) Assegurar a formação militar destinada à preparação básica e complementar dos sargentos e praças, por forma a habilitá-los para o exercício das funções correspondentes aos seus postos e classes;\n\nb) Assegurar a formação técnico-naval dos oficiais em áreas específicas;\n\nc) Assegurar a formação técnica de outro pessoal da Marinha ou de outras entidades, públicas ou privadas, nacionais e estrangeiras, sem prejuízo do disposto nas alíneas anteriores;\n\nd) Cooperar na elaboração de estudos de natureza especializada e no acompanhamento dos processos técnicos ou pedagógicos no domínio da formação."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "ea2198f0e5b3cf98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura orgânica\n\n1 - O G1EA e o G2EA compreendem:\n\na) O comandante;\n\nb) O Conselho Escolar;\n\nc) O director escolar;\n\nd) O Conselho Administrativo;\n\ne) As escolas técnicas;\n\nf) O Departamento de Pessoal e Segurança;\n\ng) O Departamento de Material;\n\nh) O Departamento Administrativo e Financeiro;\n\ni) O Serviço de Informática.\n\n2 - Para efeitos de enquadramento militar, cada grupo de escolas está organizado em companhias, podendo estas constituir-se em grupos de companhias e batalhão.\n\n3 - Os grupos de escolas dispõem de secretarias, que asseguram o expediente e arquivo.\n\n4 - O G2EA dispõe de um serviço de prisão que funciona na directa dependência do comandante."
+  },
+  "fd1d32fb6a5d9f0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comandante\n\n1 - Ao comandante compete:\n\na) Planear, organizar, dirigir e controlar as actividades de formação que incumbem ao grupo de escolas;\n\nb) Administrar a unidade e, em especial, zelar pela disciplina, moral e bem-estar do pessoal;\n\nc) Promover a realização de estudos de natureza especializada e a difusão de conceitos, normas e métodos pedagógicos visando a optimização do processo ensino-aprendizagem;\n\nd) Aprovar as classificações dos alunos dos cursos ministrados nas escolas;\n\ne) Convocar e presidir às reuniões do Conselho Escolar.\n\n2 - O comandante é um oficial directamente subordinado ao Chefe do Estado-Maior da Armada (CEMA).\n\n3 - O comandante é coadjuvado e substituído, nas suas ausências e impedimentos, pelo 2.º comandante."
+  },
+  "595908c619de574a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Conselho Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho Escolar\n\n1 - O Conselho Escolar (CE) é um órgão de consulta do comandante para assuntos de carácter pedagógico.\n\n2 - Ao CE compete, em especial:\n\na) Apreciar os assuntos relativos ao desenvolvimento das actividades de formação das escolas;\n\nb) Emitir parecer sobre novos cursos e respectivos planos, bem como sobre as alterações aos planos de curso em vigor;\n\nc) Apreciar, no fim de cada curso ou quando necessário, o resultado das provas de avaliação do aproveitamento dos alunos, fazendo o apuramento das classificações;\n\nd) Emitir parecer sobre as propostas de exclusão dos alunos;\n\ne) Emitir parecer sobre os requerimentos para repetições de cursos que lhe sejam presentes para apreciação.\n\n3 - O CE tem a seguinte composição:\n\na) O comandante;\n\nb) O 2.º comandante;\n\nc) O director escolar;\n\nd) Os directores das escolas.\n\n4 - O comandante pode convocar para as reuniões do CE outros oficiais cuja presença julgue conveniente."
+  },
+  "db2d1fe408e546af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Director escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director escolar\n\n1 - O director escolar (DE) coadjuva o comandante na coordenação e orientação das actividades das escolas, competindo-lhe em especial:\n\na) Elaborar e propor normas internas e instruções necessárias à execução das actividades de promoção;\n\nb) Coordenar as actividades das escolas, designadamente no que respeite à elaboração dos programas de formação e das propostas de planos de curso;\n\nc) Promover acções de formação dos formadores;\n\nd) Coligir os elementos estatísticos referentes a concursos e a resultados dos cursos e proceder à sua análise;\n\ne) Propor a atribuição e promover a distribuição dos prémios escolares.\n\n2 - O DE é hierarquicamente superior aos directores das escolas e é substituído, nas suas ausências e impedimentos, pelo director da escola de mais elevado posto ou mais antigo.\n\n3 - O DE dispõe de uma secretaria escolar e de uma editora escolar.\n\n4 - Na dependência do DE podem funcionar departamentos de formação, com carácter eventual, destinados ao ensino de matérias comuns aos cursos ministrados."
+  },
+  "34315294afb9cb35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho Administrativo\n\n1 - O Conselho Administrativo é um órgão deliberativo em matéria de gestão financeira e patrimonial.\n\n2 - O Conselho Administrativo tem a seguinte composição:\n\na) O comandante, que preside;\n\nb) O 2.º comandante e o chefe do Departamento Administrativo e Financeiro;\n\nc) O chefe do Serviço de Gestão Financeira, que secretaria."
+  },
+  "5f2461479ee36ab4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Escolas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Escolas técnicas\n\n1 - Às escolas técnicas compete executar os planos de curso superiormente aprovados.\n\n2 - As escolas técnicas compreendem:\n\na) O director;\n\nb) Os directores de curso;\n\nc) Os gabinetes de formação;\n\nd) O Gabinete de Tecnologia Educativa.\n\n3 - As escolas técnicas dispõem de secretarias que asseguram as actividades de expediente interno."
+  },
+  "614e873bd23b8b8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Director\n\n1 - Aos directores das escolas técnicas compete:\n\na) Planear, organizar, dirigir e controlar as actividades da escola;\n\nb) Colaborar com o director escolar, tendo em vista a coordenação de procedimentos entre as escolas;\n\nc) Promover a realização de estudos e a difusão de conceitos, normas e métodos pedagógicos.\n\n2 - O director é coadjuvado e substituído, nas suas ausências e impedimentos, pelo subdirector, que é, dos restantes oficiais, o oficial de mais elevado posto ou mais antigo da respectiva escola."
+  },
+  "7cab3d2f97f6eedf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Directores de curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Directores de curso\n\n1 - Aos directores de curso das escolas técnicas compete:\n\na) Acompanhar, de forma sistemática, o progresso da aprendizagem dos alunos;\n\nb) Coordenar todas as actividades curriculares do curso;\n\nc) Promover periodicamente reuniões de formadores, tendo em vista a avaliação do processo de aprendizagem, e propor medidas correctivas, visando a eficiência da formação.\n\n2 - Os directores de curso são oficiais que exercem o cargo em regime de acumulação com funções docentes."
+  },
+  "be1370bd501daa46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Gabinetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gabinetes\n\n1 - Aos gabinetes de formação das escolas técnicas, chefiados por oficiais em regime de acumulação com funções docentes, compete executar as unidades lectivas e elaborar as ajudas de instrução e a documentação necessária à sua execução.\n\n2 - Ao Gabinete de Tecnologia Educativa das escolas técnicas, chefiado por um oficial em regime de acumulação com funções docentes, compete programar e avaliar as actividades de formação e coordenar a elaboração das ajudas de instrução e da documentação necessária aos cursos ministrados."
+  },
+  "b5c64ee3b1ec5347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Departamento de Pessoal e Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Departamento de Pessoal e Segurança\n\n1 - Ao Departamento de Pessoal e Segurança (DPS) compete:\n\na) Executar as acções administrativas e processuais relativas ao pessoal;\n\nb) Promover o acompanhamento social, moral e religioso do pessoal;\n\nc) Assegurar a prestação dos cuidados de saúde e promover acções de carácter profiláctico;\n\nd) Assegurar o desenvolvimento físico, incentivando a prática de desporto e educação física;\n\ne) Assegurar o controlo de acessos e o policiamento interno, bem como outras actividades relativas à segurança;\n\nf) Assegurar a guarda e manutenção do armamento, munições e explosivos.\n\n2 - O DPS integra os seguintes serviços:\n\na) O Serviço de Pessoal, que exerce a competência mencionada na alínea a) do n.º 1;\n\nb) O Serviço de Assistência Religiosa, que exerce a competência mencionada na alínea b) do n.º 1;\n\nc) O Serviço de Saúde, que exerce a competência mencionada na alínea c) do n.º 1;\n\nd) O Serviço de Educação Física, que exerce a competência mencionada na alínea d) do n.º 1;\n\ne) O Serviço de Vigilância e Polícia, que exerce as competências mencionadas nas alíneas e) e f) do n.º 1."
+  },
+  "2517ce00feffe625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Departamento de Material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Departamento de Material\n\n1 - Ao Departamento de Material (DM) compete:\n\na) Assegurar ou promover a execução de tarefas de manutenção do material;\n\nb) Assegurar ou promover a manutenção de infra-estruturas;\n\nc) Assegurar o abastecimento de água potável;\n\nd) Assegurar a transformação e distribuição de energia eléctrica e a sua produção em situações de emergência;\n\ne) Promover a prevenção e combate a incêndios e a protecção nuclear, biológica e química;\n\nf) Assegurar a gestão do parque automóvel.\n\n2 - O DM integra os seguintes serviços:\n\na) Os Serviços Gerais, que exercem as competências mencionadas nas alíneas a) e b) do n.º 1;\n\nb) Os Serviços Técnicos, que exercem as competências mencionadas nas alíneas c), d) e e) do n.º 1;\n\nc) O Serviço de Transportes, que exerce a competência mencionada na alínea f) do n.º 1."
+  },
+  "774f8796e51ea117": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Departamento Administrativo e Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Departamento Administrativo e Financeiro\n\n1 - Ao Departamento Administrativo e Financeiro (DAF) compete:\n\na) Colaborar na elaboração dos planos de actividades, analisando-os do ponto de vista económico e financeiro;\n\nb) Elaborar os planos financeiros, de acordo com os objectivos definidos superiormente, assegurar a elaboração do orçamento e proceder à sua execução, nos termos da lei;\n\nc) Assegurar os serviços de tesouraria, arrecadar as receitas, pagar as despesas e manter devidamente escriturados os respectivos livros;\n\nd) Obter, compilar, tratar e arquivar a informação e documentação de natureza financeira e contabilística para a avaliação sistemática da situação económica e financeira e cumprimento das obrigações legalmente estabelecidas, designadamente no que respeita à apresentação da conta de gerência;\n\ne) Elaborar relatórios de gestão periódicos, bem como todas as informações complementares previstas na lei ou superiormente solicitadas;\n\nf) Assegurar a elaboração de informações, pareceres e propostas, bem como os processos para apoio ao conselho administrativo;\n\ng) Assegurar o planeamento, coordenação e execução das actividades relativas à obtenção, recepção, armazenagem e distribuição dos equipamentos e bens necessários ao funcionamento dos serviços e à respectiva contabilização, inventariação e cadastro;\n\nh) Promover, coordenar e garantir o fornecimento de alimentação.\n\n2 - O DAF integra os seguintes serviços:\n\na) O Serviço de Gestão Financeira, que exerce as competências mencionadas nas alíneas a) a f) do n.º 1;\n\nb) O Serviço de Abastecimento, que exerce as competências mencionadas nas alíneas g) e h) do n.º 1."
+  },
+  "cb788fbcbcfc2f58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Serviço de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Serviço de Informática\n\nAo Serviço de Informática compete coordenar e apoiar tecnicamente as actividades do grupo de escolas nas áreas dos sistemas de informação e informática."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "b3b7f884ae0dc813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Extinção da Escola de Alunos Marinheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção da Escola de Alunos Marinheiros\n\n1 - É extinta a Escola de Alunos Marinheiros (EAM).\n\n2 - O disposto no número anterior produz efeitos a partir da data em que, por despacho do Ministro da Defesa Nacional, sob proposta do CEMA, se reconheça estarem reunidas as condições que permitam cometer a outro estabelecimento de ensino as actuais competências da EAM.\n\n3 - Até à efectivação da sua extinção, a EAM funciona no G1EA com estrutura e dependência idênticas às das restantes escolas deste grupo, competindo-lhe assegurar a preparação militar geral de militares destinados às categorias de sargentos e praças."
+  },
+  "594080fce561a28f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nÉ revogada a [Portaria n.º 188/81](https://diariodarepublica.pt/dr/detalhe/portaria/188-1981-390992), de 17 de Fevereiro.\n\nPresidência do Conselho de Ministros, 4 de Abril de 1994.\n\nAníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.\n\nPromulgado em 5 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Agosto de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "db1785033674e7b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Grupos de escolas",
+   "in_force_from": "1994-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30."
+   ],
+   "markdown": "###### Artigo 2.º — Grupos de escolas\n\n1 - São considerados grupos de escolas o Grupo n.º 1 de Escolas da Armada (G1EA) e o Grupo n.º 2 de Escolas da Armada (G2EA).\n\n2 - O G1EA integra as seguintes escolas:\n\na) A Escola de Máquinas;\n\nb) A Escola de Electrotecnia;\n\nc) A Escola de Abastecimento.\n\n3 - O G2EA integra as seguintes escolas:\n\na) A Escola de Artilharia Naval;\n\nb) A Escola de Armas Submarinas;\n\nc) A Escola de Comunicações;\n\nd) A Escola de Informações de Combate;\n\ne) A Escola de Marinharia;\n\nf) A Escola de Limitação de Avarias;\n\ng) A Escola de Tecnologia de Educação e Treino.\n\n4 - As escolas são genericamente designadas por escolas técnicas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30."
+  },
+  "db1d5c5800a2291a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Director escolar",
+   "in_force_from": "1994-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30."
+   ],
+   "markdown": "###### Artigo 7.º — Director escolar\n\n1 - O director escolar (DE) coadjuva o comandante na coordenação e orientação das actividades das escolas, competindo-lhe em especial:\n\na) Elaborar e propor normas internas e instruções necessárias à execução das actividades de formação;\n\nb) Coordenar as actividades das escolas, designadamente no que respeite à elaboração dos programas de formação e das propostas de planos de curso;\n\nc) Promover acções de formação dos formadores;\n\nd) Coligir os elementos estatísticos referentes a concursos e a resultados dos cursos e proceder à sua análise;\n\ne) Propor a atribuição e promover a distribuição dos prémios escolares.\n\n2 - O DE é hierarquicamente superior aos directores das escolas e é substituído, nas suas ausências e impedimentos, pelo director da escola de mais elevado posto ou mais antigo.\n\n3 - O DE dispõe de uma secretaria escolar e de uma editora escolar.\n\n4 - Na dependência do DE podem funcionar departamentos de formação, com carácter eventual, destinados ao ensino de matérias comuns aos cursos ministrados.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 241/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1994-355917), publicado em 1994-11-30."
+  }
+ }
+}

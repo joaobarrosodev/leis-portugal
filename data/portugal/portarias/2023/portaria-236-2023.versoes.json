@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216253494:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2023-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7b0a20031c728af7",
+    "eb438e07b4d35972",
+    "82fa6899c259b998",
+    "abd6b15dfb29632a",
+    "cb7d70e227e5807a",
+    "9a97015a2040f970",
+    "e0bce05f27bdabf6",
+    "b5e98dd849951173",
+    "b2c41427dc671cea",
+    "9d4ed34648091a0e",
+    "5cbd7b8550ccd7e2",
+    "04503497865018db",
+    "1ac240f4c63774ef",
+    "ce892635b79fd732",
+    "0347528388ff3080",
+    "efbe9ebf4de0ace5",
+    "3ea611484815d695"
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1161801441:por",
+     "title": "Portaria n.º 384/2026/1",
+     "published": "2026-08-25",
+     "dre_path": "/dr/detalhe/portaria/384-2026-1161801441"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "7b0a20031c728af7",
+    "eb438e07b4d35972",
+    "82fa6899c259b998",
+    "abd6b15dfb29632a",
+    "cb7d70e227e5807a",
+    "f079c11635a21b66",
+    "e0bce05f27bdabf6",
+    "b5e98dd849951173",
+    "b2c41427dc671cea",
+    "9d4ed34648091a0e",
+    "5cbd7b8550ccd7e2",
+    "04503497865018db",
+    "1ac240f4c63774ef",
+    "f54ecec4b8f1d32d",
+    "0347528388ff3080",
+    "efbe9ebf4de0ace5",
+    "3ea611484815d695"
+   ]
+  }
+ ],
+ "fragments": {
+  "7b0a20031c728af7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de julho\n\nA reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), e tem como enquadramento legislativo os Regulamentos (UE) [2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt) e [2021/2116](http://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), ambos do Parlamento Europeu e do Conselho.\n\nO Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal», foi aprovado pela Comissão Europeia, através da Decisão da Comissão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.\n\nNeste âmbito, a intervenção «B.3.1 - Destilação de subprodutos da vinificação» do domínio «B.3 - Programa Nacional para apoio ao setor da vitivinicultura» do eixo «B - Abordagem setorial integrada» do PEPAC Portugal, cujo financiamento se encontra assegurado pelo FEAGA, tem como objetivo setorial promover a utilização dos subprodutos da vinificação para fins industriais e energéticos, a fim de garantir a qualidade do vinho produzido na União e protegendo simultaneamente o ambiente, bem como o objetivo específico de contribuir para a atenuação das alterações climáticas e a adaptação às mesmas, nomeadamente através da redução das emissões de gases com efeito de estufa e do reforço do sequestro de carbono, bem como promover a energia sustentável.\n\nA presente intervenção concorre, assim, com a intervenção «reestruturação e conversão de vinhas (biológica)», prevista na alínea a) do n.º 1 do artigo 58.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), para assegurar, nos termos do n.º 4 do seu artigo 60.º, a aplicação de pelo menos 5 % do financiamento do PEPAC, ao seu desígnio ambiental.\n\nO montante da assistência da União para a presente intervenção é fixado por % vol. e por hectolitro de álcool produzido, não sendo paga qualquer assistência financeira da União para o volume de álcool contido nos subprodutos a destilar que exceda em 10 % o volume de álcool contido no vinho produzido a nível nacional. Acresce que a assistência financeira da União para a destilação de subprodutos da vinificação é paga aos destiladores que transformem subprodutos da vinificação entregues para destilação em álcool bruto com um título alcoométrico de pelo menos 92 % vol.\n\nA assistência financeira da União inclui um montante fixo para compensação dos custos da recolha dos subprodutos da vinificação. Esse montante é transferido do destilador para o produtor, nos casos em que seja este a suportar os referidos custos.\n\nO álcool resultante da destilação dos subprodutos da vinificação que tenham beneficiado de assistência financeira, no âmbito da presente intervenção, deve ser utilizado exclusivamente para fins industriais ou energéticos que não distorçam a concorrência.\n\nPela presente portaria prevê-se o quadro normativo que institucionaliza e efetiva a intervenção setorial acima referida e identifica as entidades intervenientes e respetivas competências, designadamente da autoridade de gestão nacional (AGN), o Gabinete de Planeamento, Políticas e Administração Geral (GPP), que nos termos do n.º 3 do artigo 56.º do [Decreto-Lei n.º 5/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2023-206478423), de 25 de janeiro, mediante a celebração de acordo escrito, delega funções no Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), na qualidade de organismo intermédio, continuando a ser plenamente responsável pela eficiência e rigor da gestão e execução das funções em causa.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 12/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2023-207760041), de 24 de fevereiro, o seguinte:"
+  },
+  "eb438e07b4d35972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras complementares nacionais, para o continente, da intervenção «Destilação de subprodutos da vinificação» do domínio «B.3 - Programa Nacional para Apoio ao Setor da Vitivinicultura» do eixo «B - Abordagem setorial integrada» do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), nos termos do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, do [Regulamento Delegado (UE) 2022/126](http://data.europa.eu/eli/reg/2022/126/oj?locale=pt), da Comissão, e do [Regulamento de Execução (UE) 2022/1475](http://data.europa.eu/eli/reg/2022/1475/oj?locale=pt), da Comissão."
+  },
+  "82fa6899c259b998": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO apoio previsto na presente portaria pretende promover a utilização dos subprodutos da vinificação para fins industriais e energéticos, a fim de garantir a qualidade do vinho produzido na União, protegendo, simultaneamente, o ambiente."
+  },
+  "abd6b15dfb29632a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - O apoio previsto na presente portaria abrange os subprodutos a partir dos quais é obtido o álcool objeto de pedido de pagamento, que cumpram os seguintes requisitos:\n\na) Tenham sido produzidos no continente e na campanha para a qual é pedida a ajuda;\n\nb) Tenham sido entregues na destilaria o mais tardar até 15 de junho do ano dessa campanha;\n\nc) Contenham as seguintes percentagens mínimas de álcool:\n\ni) Bagaço de uvas: 2,8 l de álcool puro por cada 100 kg;\n\nii) Borras de vinho: 4 l de álcool puro por cada 100 kg.\n\n2 - É elegível para apoio no âmbito da presente portaria o álcool bruto com um título alcoométrico volúmico não inferior a 92 % vol. obtido pela destilação de bagaço de uvas, borras de vinho e vinho entregues para a destilação, pelos produtores estabelecidos no território do continente.\n\n3 - No processo de destilação para obtenção do álcool objeto do apoio referido no número anterior é aplicável uma quebra mínima de 1,5 %.\n\n4 - Apenas é elegível para efeitos do presente apoio o álcool resultante da destilação dos subprodutos da vinificação que seja utilizado exclusivamente para fins industriais ou energéticos, sem distorção da concorrência.\n\n5 - Considera-se álcool para fins industriais ou energéticos o álcool que tenha sido desnaturado de modo a impedir a sua utilização como álcool de boca e o álcool destinado ao uso hospitalar ou à indústria farmacêutica.\n\n6 - Para o álcool destinado ao uso hospitalar ou à indústria farmacêutica não é exigida a desnaturação."
+  },
+  "cb7d70e227e5807a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de elegibilidade dos beneficiários\n\nPodem ser beneficiários do apoio previsto na presente portaria os destiladores que, cumulativamente:\n\na) Estejam legalmente constituídos e tenham sede, representação permanente ou estabelecimento estável no território nacional;\n\nb) Cumpram as condições legais necessárias ao exercício da atividade no setor vitivinícola, nomeadamente estarem inscritos no IVV, I. P., e deterem entreposto fiscal de produção junto da Autoridade Tributária e Aduaneira;\n\nc) Possuam registo atualizado no sistema de identificação de beneficiários junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nd) Tenham a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\ne) Tenham um sistema de contabilidade organizada, de acordo com o legalmente exigido, e procedam ao registo das matérias-primas utilizadas e dos produtos obtidos;\n\nf) Utilizem, na determinação do teor alcoométrico e da densidade do álcool, instrumentos de medição que obedeçam às características metrológicas estabelecidas na [Portaria n.º 16/91](https://diariodarepublica.pt/dr/detalhe/portaria/16-1991-693427), de 9 de janeiro, e na [Portaria n.º 377/91](https://diariodarepublica.pt/dr/detalhe/portaria/377-1991-616386), de 2 de maio, e no documento da Organização Internacional de Metrologia Legal (OIML), relativo a tabelas alcoométricas."
+  },
+  "9a97015a2040f970": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações dos beneficiários\n\nOs beneficiários do apoio previsto na presente portaria devem cumprir as seguintes obrigações:\n\na) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nb) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, bem como todos os originais dos documentos comprovativos da realização das operações em causa, durante cinco anos após a execução da candidatura aprovada, exceto se outro prazo se encontrar fixado em lei especial."
+  },
+  "e0bce05f27bdabf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades competentes\n\n1 - Sem prejuízo das competências próprias e não delegadas do Gabinete de Planeamento, Políticas e Administração Geral (GPP), na qualidade de autoridade de gestão nacional (AGN) do PEPAC, relativamente à supervisão do exercício das funções de gestão dos apoios previstos na presente portaria e da respetiva gestão orçamental, compete ao IVV, I. P.:\n\na) Elaborar as orientações técnicas específicas (OTE);\n\nb) Estipular a dotação financeira para o período da campanha vitivinícola em causa, através de aviso publicitado nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.;\n\nc) Disponibilizar ao beneficiário, no Sistema de Informação da Vinha e do Vinho (SiVV), a informação para a formalização do pedido de apoio;\n\nd) Fornecer ao IFAP, I. P., e às direções regionais de agricultura e pescas (DRAP) a informação de suporte necessária à correta aplicação do disposto na presente portaria.\n\n2 - Compete ao IFAP, I. P.:\n\na) Disponibilizar ao beneficiário o formulário de pedido de pagamento que inclui o termo de aceitação, sendo este aceite e autenticado com a submissão de cada pedido de pagamento;\n\nb) Definir através de OTE os requisitos para a instrução dos pedidos de pagamento e do controlo;\n\nc) Proceder aos controlos administrativos e no local dos pedidos de pagamento, nos termos da regulamentação europeia e nacional aplicável;\n\nd) Analisar e decidir os pedidos de pagamentos apresentados;\n\ne) Efetuar o pagamento dos apoios.\n\n3 - Compete às DRAP:\n\na) Realizar controlos físicos e analíticos dos subprodutos à entrada na destilaria, no âmbito do cumprimento da obrigação de eliminação de subprodutos da vinificação, ou de qualquer outra transformação de uvas;\n\nb) Exercer as demais funções e competências delegadas pelo IFAP, I. P."
+  },
+  "b5e98dd849951173": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Período da campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Período da campanha\n\nO período da campanha vitivinícola tem início a 1 de agosto do ano n e termina a 31 de julho do ano n+1."
+  },
+  "b2c41427dc671cea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Forma, nível e limite do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma, nível e limite do apoio\n\n1 - O apoio a pagar inclui um montante forfetário destinado a compensar os custos de recolha dos produtos e os encargos da sua transformação em álcool bruto, sendo fixado em:\n\na) Álcool bruto obtido de bagaço de uvas: (euro) 1,1/% vol./hl;\n\nb) Álcool bruto obtido de vinho e de borras de vinho: (euro) 0,5/% vol./hl.\n\n2 - Quando o produtor suportar os custos de transporte, o destilador deve pagar ao produtor os custos de recolha, num montante forfetário fixado em (euro) 0,016/kg.\n\n3 - O incumprimento do disposto no número anterior determina que o produto obtido, correspondente ao transporte em causa, não seja objeto de apoio no âmbito da presente portaria."
+  },
+  "9d4ed34648091a0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Pedido de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de apoio\n\n1 - O pedido de apoio é formalizado pelo beneficiário, mediante informação disponibilizada pelo IVV, I. P., no SiVV, que constitui o documento base para a apresentação do pedido de pagamento no IFAP, I. P.\n\n2 - O pedido de apoio a que se refere o número anterior identifica os graus de hectolitros à entrada na destilaria, com base nos documentos de acompanhamento selecionados pelo beneficiário."
+  },
+  "5cbd7b8550ccd7e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Pedido de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pedido de pagamento\n\n1 - Os pedidos de pagamento são formalizados pelos beneficiários em formulário próprio disponibilizado no portal do IFAP, I. P., a partir da data de início de cada campanha vitivinícola e até ao dia 15 de julho do ano seguinte.\n\n2 - Os beneficiários apresentam ao IFAP, I. P., um pedido de pagamento por cada pedido de apoio, tendo, para o efeito, que respeitar os critérios de elegibilidade definidos no artigo 4.º e cumprir as obrigações constantes do artigo 5.º\n\n3 - O álcool a que corresponde cada pedido de pagamento só pode ser objeto de desnaturação ou de expedição nos casos em que não é exigida desnaturação nos termos do n.º 5 do artigo 3.º, decorrido um prazo mínimo de cinco dias úteis após formalização do pedido de pagamento ou do pedido de alteração previsto no número seguinte, no limite, até ao último dia da campanha vitivinícola.\n\n4 - Sem prejuízo do previsto no número anterior, para cada pedido de pagamento, pode ser apresentado um pedido de alteração, não podendo daí resultar o aumento do montante do apoio anteriormente solicitado.\n\n5 - O pedido de alteração referido no número anterior só pode ser apresentado até 15 de julho de cada ano e antes da notificação de qualquer ação de controlo e previamente à preparação do álcool para fins de uso hospitalar ou indústria farmacêutica."
+  },
+  "04503497865018db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Gestão orçamental e pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gestão orçamental e pagamentos\n\n1 - A gestão orçamental é realizada após decisão inicial das candidaturas, sem necessidade de alteração do PEPAC, conforme o artigo 101.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt).\n\n2 - O pagamento do apoio é efetuado por transferência bancária, até 15 de outubro do ano seguinte ao início da campanha vitivinícola.\n\n3 - Caso o valor global dos pedidos de pagamento ultrapasse a correspondente dotação orçamental prevista na alínea b) do n.º 1 do artigo 8.º, o montante individual a conceder é objeto de redução proporcional entre os respetivos pedidos de pagamento."
+  },
+  "1ac240f4c63774ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Controlos ao álcool objeto de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlos ao álcool objeto de apoio\n\n1 - Os pedidos de pagamento apresentados no âmbito da presente portaria estão sujeitos a controlos administrativos e no local, nos termos do [Regulamento (UE) 2021/2116](http://data.europa.eu/eli/reg/2021/2116/oj?locale=pt), do Parlamento Europeu e do Conselho.\n\n2 - No âmbito do controlo administrativo e no local dos pedidos de pagamento podem ser solicitados aos beneficiários elementos complementares que comprovem a execução das operações, designadamente documentos de despesa relativos ao transporte dos subprodutos, liquidação e outras evidências, documento de acompanhamento eletrónico (eDA) que acompanham o trânsito do álcool da destilaria para o destino final, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento bastante para a exclusão das referidas despesas.\n\n3 - Para efeito do disposto no número anterior, podem, ainda, ser solicitados elementos complementares não só aos clientes diretos dos beneficiários como também a entidades terceiras."
+  },
+  "ce892635b79fd732": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reduções e exclusões\n\n1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio ou a recuperação do montante pago no âmbito da correspondente intervenção.\n\n2 - Quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre o apoio pedido e o apoio apurado, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade do apoio apurado;\n\nb) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução no apoio apurado de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento."
+  },
+  "0347528388ff3080": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - A presente intervenção contribui para o objetivo específico estabelecido na alínea e) do artigo 6.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), «Promover o desenvolvimento sustentável e uma gestão eficiente dos recursos naturais como a água, os solos e o ar, nomeadamente através da redução da dependência de substâncias químicas», bem como para o objetivo setorial estabelecido na alínea h) do artigo 57.º do mesmo regulamento, «Promover a utilização dos subprodutos da vinificação para fins industriais e energéticos, a fim de garantir a qualidade do vinho produzido na União e protegendo simultaneamente o ambiente».\n\n2 - Para efeito do cumprimento das metas do PEPAC Portugal relativas aos indicadores de resultados, estabelecidos no anexo i do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), releva o indicador «R.27 - Número de operações que contribuem para a sustentabilidade ambiental e para concretizar a atenuação e a adaptação às alterações climáticas nas zonas rurais»."
+  },
+  "efbe9ebf4de0ace5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e avaliação\n\nO IFAP, I. P., remete ao GPP a informação necessária ao cumprimento das comunicações obrigatórias à Comissão Europeia."
+  },
+  "3ea611484815d695": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de agosto de 2023.\n\nA Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 25 de julho de 2023.\n\n116715585"
+  },
+  "f079c11635a21b66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigações dos beneficiários",
+   "in_force_from": "2026-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25."
+   ],
+   "markdown": "###### Artigo 5.º — Obrigações dos beneficiários\n\nOs beneficiários do apoio previsto na presente portaria devem cumprir as seguintes obrigações:\n\na) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25."
+  },
+  "f54ecec4b8f1d32d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reduções e exclusões",
+   "in_force_from": "2026-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25."
+   ],
+   "markdown": "###### Artigo 13.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou de qualquer irregularidade detetada são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos de aplicação do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, o incumprimento das obrigações previstas nas alíneas a) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações relativamente às quais se verificou o incumprimento.\n\n3 - Quando o IFAP, I. P., após análise do pedido de pagamento, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado, é aplicável o seguinte:\n\na) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;\n\nb) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicada uma redução no montante do apoio apurado, de valor igual à diferença detetada;\n\nc) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-04-21'
+version_history:
+  file: portaria-27-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-21'
+    amending: pt:dre:613412:por
+    amending_title: Portaria n.º 219/2010
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/27/2010/01/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 219/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-27-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,8 +162,10 @@ b) Às relações de trabalho entre empregadores filiados na associação de emp
 
 1 - A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
 
-2 - A tabela salarial e as cláusulas de conteúdo pecuniário produzem efeitos a partir de 1 de Janeiro de 2008.
+2 - A tabela salarial e o valor do subsídio de almoço produzem efeitos a partir de 1 de Janeiro de 2009.
 
 3 - Os encargos resultantes da retroactividade poderão ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
+
+> Alterado pelo/a Artigo único do/a [Portaria n.º 219/2010](https://diariodarepublica.pt/dr/detalhe/portaria/219-2010-613412), publicado em 2010-04-16.
 
 A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André, em 23 de Dezembro de 2009.

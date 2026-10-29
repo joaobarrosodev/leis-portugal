@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-20'
+version_history:
+  file: decreto-regulamentar-29-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-20'
+    amending: pt:dre:522638:por
+    amending_title: Decreto-Lei n.º 15/2007
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/29/1992/11/09/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:20:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 15/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1992/decreto-regulamentar-29-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,9 +172,13 @@ A creditação das acções de formação contínua subordina-se aos princípios
 
 1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão, nos termos do artigo 8.º do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
 
-2 - Para efeitos de progressão na carreira, apenas são consideradas as unidades de crédito adquiridas no decurso do módulo de tempo de serviço no escalão a que se reportam, sem prejuízo do disposto no número seguinte.
+2 - (Revogado.)
 
-3 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
 ###### Artigo 5.º — Dispensa do requisito da formação como condição de progressão na carreira docente
 

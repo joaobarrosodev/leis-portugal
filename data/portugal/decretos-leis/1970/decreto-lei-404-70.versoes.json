@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138835:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0697a7ee60cb71af"
+   ]
+  },
+  {
+   "date": "1972-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:665131:por",
+     "title": "Decreto-Lei n.º 575/72",
+     "published": "1972-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/575-1972-665131"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "6c25dcb1ab62d5d6",
+    "1c7e8ea4dc0dcc97",
+    "01d17ca3b3565564"
+   ]
+  }
+ ],
+ "fragments": {
+  "0697a7ee60cb71af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. A acção que as cooperativas agrícolas podem desempenhar na tarefa de elevação do nível de vida da lavoura, sua associada, com reflexo no aumento de produtividade agrícola nacional, depende, em grande parte, dos meios que, sem perda das regalias que lhes são concedidas, poderão utilizar para a sua expansão e desenvolvimento.\n\nReconhece-se que essa acção será mais profícua se ás associações for facultada a possibilidade de comparticipar em sociedades, já constituídas ou a constituir, que tenham por finalidade o aproveitamento, transformação, conservação ou comercialização dos seus produtos ou dos dos seus associados, com vista a mais eficaz consecução dos objectivos que informaram a sua constituição.\n\n2. Por outro lado, o problema da sujeição das cooperativas agrícolas à quotização para o Fundo de Desemprego tem suscitado dúvidas a que despachos interpretativos não têm posto termo.\n\nSucede, aliás, que a doutrina destes despachos não é vinculativa para os tribunais nem se mostra devidamente conhecida pelos interessados.\n\nImporta, pois, dar forma legal à orientação perfilhada pela administração e generalizar esse entendimento.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As regalias concedidas às cooperativas agrícolas pela legislação em vigor mantêm-se, ainda que participem em posição não inferior a 50 por cento como sócios ou accionistas em sociedades comerciais que tenham por objecto o aproveitamento, transformação, conservação ou comercialização dos seus produtos ou dos dos seus associados.\n\nArt. 2.º - 1. O disposto no artigo 1.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, é interpretado como abrangendo as cooperativas agrícolas que exerçam actividades com fim lucrativo, entendendo-se como tais as que prosseguem objectivos económicos com vista ao aumento do património social ou à repartição de benefícios pelos associados.\n\n2. O preceituado no número anterior aplica-se a todas as quotizações liquidadas a partir da entrada em vigor do referido decreto-lei.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "6c25dcb1ab62d5d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. A acção que as cooperativas agrícolas podem desempenhar na tarefa de elevação do nível de vida da lavoura, sua associada, com reflexo no aumento de produtividade agrícola nacional, depende, em grande parte, dos meios que, sem perda das regalias que lhes são concedidas, poderão utilizar para a sua expansão e desenvolvimento.\n\nReconhece-se que essa acção será mais profícua se ás associações for facultada a possibilidade de comparticipar em sociedades, já constituídas ou a constituir, que tenham por finalidade o aproveitamento, transformação, conservação ou comercialização dos seus produtos ou dos dos seus associados, com vista a mais eficaz consecução dos objectivos que informaram a sua constituição.\n\n2. Por outro lado, o problema da sujeição das cooperativas agrícolas à quotização para o Fundo de Desemprego tem suscitado dúvidas a que despachos interpretativos não têm posto termo.\n\nSucede, aliás, que a doutrina destes despachos não é vinculativa para os tribunais nem se mostra devidamente conhecida pelos interessados.\n\nImporta, pois, dar forma legal à orientação perfilhada pela administração e generalizar esse entendimento.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "1c7e8ea4dc0dcc97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1972-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 575/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131), publicado em 1972-12-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 575/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131), publicado em 1972-12-30."
+  },
+  "01d17ca3b3565564": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O disposto no artigo 1.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, é interpretado como abrangendo as cooperativas agrícolas que exerçam actividades com fim lucrativo, entendendo-se como tais as que prosseguem objectivos económicos com vista ao aumento do património social ou à repartição de benefícios pelos associados.\n\n2. O preceituado no número anterior aplica-se a todas as quotizações liquidadas a partir da entrada em vigor do referido decreto-lei.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

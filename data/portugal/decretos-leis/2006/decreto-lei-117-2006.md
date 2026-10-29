@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-01'
+version_history:
+  file: decreto-lei-117-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: pt:dre:197511:por
+    amending_title: Lei n.º 53-A/2006
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/117/2006/06/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:52:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 53-A/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-117-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,6 +188,10 @@ A concessão das prestações nos termos do artigo anterior, bem como a determin
 2 - Os períodos pagos pela entidade empregadora a que se refere o número anterior são considerados como equivalentes à entrada de contribuições e quotizações para os efeitos previstos no artigo 5.º
 
 3 - Nas situações em que a transição de regime de protecção social ocorra durante o período em que se encontre a ser concedida protecção nos encargos familiares e nos domínios da deficiência e da dependência, o direito às correspondentes prestações é mantido nos termos regulamentados nos respectivos regimes jurídicos, passando a ser competente para a gestão o Instituto da Segurança Social, I. P., através dos centros distritais de segurança social da área da residência dos titulares do direito às prestações.
+
+4 - Os descontos correspondentes à protecção social efectuados sobre as remunerações dos trabalhadores abrangidos pelo n.º 1 do presente artigo devem ser entregues pelas entidades empregadoras nos cofres do Estado na rubrica de receita 'Outras receitas correntes - Outras'.
+
+> Alterado pelo/a Artigo 141.º do/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
 
 ###### Artigo 8.º — Encargos
 

@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-04-14'
+version_history:
+  file: decreto-lei-31-c-2026.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2026-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-04-14'
+    amending: pt:dre:1084346068:por
+    amending_title: Lei n.º 12/2026
+    changes:
+    - Altera Artigo 22.º
+    - Adita Artigo 22.º-A
+    - Adita Artigo 36.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/31-c/2026/02/05/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:31:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 12/2026. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2026/decreto-lei-31-c-2026.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -374,6 +391,18 @@ c) Critérios para seleção dos trabalhadores a abranger;
 
 d) Número e categorias profissionais dos trabalhadores a abranger.
 
+4 - Nos termos do presente artigo, a compensação retributiva a que trabalhador tem direito corresponde a 100 % da sua retribuição normal ilíquida, sendo paga pelo empregador, até ao limite de três vezes a remuneração mínima mensal garantida.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.
+
+###### Artigo 22.º-A — Pagamento da compensação retributiva
+
+1 - Durante o período de vigência do regime mencionado no artigo anterior, a compensação retributiva, nos primeiros 60 dias, é paga em 80 % do seu montante pelo serviço público competente da área da segurança social e em 20 % pelo empregador.
+
+2 - Findo o período mencionado no número anterior, a compensação retributiva é paga em 70 % do seu montante pelo serviço público competente da área da segurança social e em 30 % pelo empregador.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.
+
 ### CAPÍTULO IV — Apoios no domínio do emprego e formação profissional aos trabalhadores dependentes e independentes
 
 ###### Artigo 23.º — Âmbito de aplicação
@@ -615,6 +644,14 @@ O incentivo extraordinário previsto no presente capítulo é cumulável com out
 2 - O IEFP, I. P., elabora o guia de apoio à candidatura aplicável à medida e o formulário de candidatura e de prorrogação no prazo de 5 dias úteis a contar da data da entrada em vigor do presente decreto-lei.
 
 3 - Para efeitos de cumprimento do disposto no presente decreto-lei e demais regulamentação aplicável, podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., bem como por outras entidades com competências para o efeito.
+
+###### Artigo 36.º-A — Transparência e acompanhamento
+
+1 - O IEFP, I. P., e o Instituto da Segurança Social, I. P., publicam trimestralmente relatório síntese da execução física e financeira das medidas previstas no presente decreto-lei.
+
+2 - É assegurada a divulgação pública agregada dos montantes atribuídos por concelho e tipologia de apoio, salvaguardando a proteção de dados pessoais.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2026](https://diariodarepublica.pt/dr/detalhe/lei/12-2026-1084346068), publicado em 2026-04-14.
 
 ###### Artigo 37.º — Prioridade nas medidas ativas de emprego
 

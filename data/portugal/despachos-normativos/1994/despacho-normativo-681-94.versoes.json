@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:606505:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0b7870fe97fd0e08",
+    "36b67d595be5ecca",
+    "2f21e16c3b1a1124",
+    "2d40e2a7bb7decdf",
+    "96fbe04be3d67c3e",
+    "0606d41a0fc85440",
+    "d5201ac66ea36917",
+    "6970a16eee83c892",
+    "a3af873f04b62a19",
+    "b71e2a1c015f8984",
+    "6476de1ec5186b5b",
+    "5596da01c595237d",
+    "a625c2f881181d83",
+    "32cb7fb5d653f67b",
+    "8b1bd109addd674a",
+    "14ad70622616991c",
+    "18505a82b7f80e38",
+    "dbb3d3c866a5a849",
+    "54262a3584b70993",
+    "a08825a59532f276",
+    "fef82de7fddf72e1"
+   ]
+  },
+  {
+   "date": "1997-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:529430:por",
+     "title": "Despacho Normativo n.º 18/97",
+     "published": "1997-04-04",
+     "dre_path": "/dr/detalhe/despacho-normativo/18-1997-529430"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "0b7870fe97fd0e08",
+    "36b67d595be5ecca",
+    "2f21e16c3b1a1124",
+    "2d40e2a7bb7decdf",
+    "96fbe04be3d67c3e",
+    "8df40224c1f82dd1",
+    "d5201ac66ea36917",
+    "3afcf2764252059d",
+    "a3af873f04b62a19",
+    "b71e2a1c015f8984",
+    "6476de1ec5186b5b",
+    "5596da01c595237d",
+    "a625c2f881181d83",
+    "32cb7fb5d653f67b",
+    "8b1bd109addd674a",
+    "14ad70622616991c",
+    "18505a82b7f80e38",
+    "dbb3d3c866a5a849",
+    "54262a3584b70993",
+    "a08825a59532f276",
+    "fef82de7fddf72e1"
+   ]
+  }
+ ],
+ "fragments": {
+  "0b7870fe97fd0e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regime de apoio ao aproveitamento do potencial de recursos energéticos endógenos\n\nO [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, criou o Programa Energia, aplicável a todo o território nacional durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.\n\nA [Resolução do Conselho de Ministros n.º 68/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-1994-222627), de 11 de Agosto, definiu e caracterizou os sistemas de incentivos, os regimes de apoio e as acções de natureza voluntarista a serem posteriormente desenvolvidos.\n\nNos termos da mesma resolução, compete ao Ministro da Indústria e Energia a regulamentação do regime de apoio ao aproveitamento do potencial de recursos energéticos endógenos.\n\nAssim, determina-se o seguinte:"
+  },
+  "36b67d595be5ecca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente despacho regulamenta, nos termos do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, e da [Resolução do Conselho de Ministros n.º 68/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-1994-222627), de 11 de Agosto, o regime de apoio ao aproveitamento do potencial de recursos endógenos, adiante designado abreviadamente por regime, apoiando projectos de investimento na construção de centros produtores de energia eléctrica a partir de fontes renováveis e que sejam equiparáveis a infra-estruturas energéticas de serviço público, para o que deverão debitar toda a sua produção exclusivamente na rede pública."
+  },
+  "2f21e16c3b1a1124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente regime abrange as operações tipificadas nas alíneas seguintes:\n\na) Projectos de investimento visando a construção de centrais mini-hídricas com potência instalada até 10 MVA;\n\nb) Projectos de investimento visando a modernização, o aumento de capacidade de armazenamento da albufeira ou o aumento da capacidade instalada de centrais mini-hídricas, com o limite de potência total instalada de 10 MVA;\n\nc) Projectos de investimento visando a construção e ampliação de parques eólicos;\n\nd) Projectos de investimento visando a construção e ampliação de centrais geotérmicas;\n\ne) Projectos de investimento visando a construção, ampliação e reconversão de centrais térmicas utilizando como combustível principal a biomassa, com potência eléctrica instalada inferior a 10 MVA.\n\n2 - Em qualquer das operações tipificadas no número anterior, a electricidade produzida deverá ser fornecida à rede pública, excepto nas quantidades necessárias ao consumo próprio das centrais produtoras.\n\n3 - Anualmente, durante o mês de Setembro e para vigorar a partir do início do ano seguinte, o organismo gestor do presente regime publicará, no Diário da República e em pelo menos dois jornais de grande circulação, anúncio indicando, designadamente, quais as prioridades estabelecidas para as operações a apoiar, as quais poderão abranger apenas algumas das alíneas do n.º 1, qual a taxa interna de rentabilidade que servirá de referência para ajuizar da rentabilidade económica e financeira das operações candidatas, quais os parâmetros de referência que servirão para determinar o montante máximo das aplicações relevantes da candidatura, nos termos do n.º 4 do artigo 6.º, e quais os valores limite para a percentagem do apoio previsto no artigo 7.º"
+  },
+  "2d40e2a7bb7decdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismo gestor\n\nNos termos do disposto no artigo 7.º do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, o organismo responsável pela gestão do presente regime é a Direcção-Geral de Energia."
+  },
+  "96fbe04be3d67c3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso dos promotores\n\n1 - Os promotores das candidaturas aos apoios previstos no presente regime podem ser pessoas singulares ou colectivas, de natureza empresarial.\n\n2 - Os promotores das operações candidatas devem reunir as seguintes condições:\n\na) Ter como objecto a produção de electricidade;\n\nb) Possuir capacidade técnica e de gestão adequadas para a realização da operação em causa e para a posterior exploração da instalação;\n\nc) Demonstrar viabilidade económica e financeira, a qual, no caso de novas entidades, poderá ser feita através de dados previsionais;\n\nd) Comprovar que as suas situações contributivas perante o Estado e a segurança social se encontram regularizadas;\n\ne) No caso de já ter apresentado, em datas anteriores, alguma candidatura ao presente regime, referente a outra operação, demonstrar que se encontra a cumprir o calendário de realização previsto no respectivo contrato, nomeadamente no que se refere à data de início da realização física da operação, ou demonstrar, no caso de não estar a cumprir esse calendário, que os atrasos verificados se não devem a causas que lhe sejam imputáveis;\n\nf) Comprovar que dispõe de contabilidade adequada à apreciação e acompanhamento do projecto ou comprometer-se a organizá-la atempadamente, no caso de entidades promotoras cujo acto de constituição se tenha verificado nos 90 dias úteis anteriores à apresentação da candidatura.\n\n3 - As entidades que se candidatem conjuntamente deverão designar, de entre elas, um representante, o qual assumirá a liderança da candidatura e do projecto, sem prejuízo da comprovação, por cada uma das entidades envolvidas, do cumprimento da totalidade das condições de acesso estabelecidas no número anterior.\n\n4 - Para efeitos do disposto na alínea c) do n.º 2, considera-se não comprovada a viabilidade económica e financeira dos promotores:\n\na) Se não possuírem uma autonomia financeira, antes da realização da operação, superior a 20%, entendendo-se por autonomia financeira a relação entre fundos próprios (incluindo capitais próprios, suprimentos ou empréstimos de accionistas e subsídios a fundo perdido) e activo total;\n\nb) Se não possuírem uma relação entre os capitais permanentes e o imobilizado líquido superior ou igual à unidade;\n\nc) Tratando-se de novas empresas, se a autonomia financeira for inferior a 30%."
+  },
+  "0606d41a0fc85440": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade das operações\n\n1 - No presente regime apenas serão consideradas as operações a que correspondam montantes de investimento em capital fixo superiores a 150000000$00, excepto para operações enquadráveis na alínea b) do n.º 1 do artigo 2.º, para as quais este limite mínimo será de 15000000$00.\n\n2 - As operações candidatas devem apresentar índices de rentabilidade económica e financeira justificativos da sua realização, nomeadamente uma taxa interna de rentabilidade, calculada no período de análise, superior à que estiver fixada no anúncio referido no n.º 3 do artigo 2.º para o tipo de operação em questão.\n\n3 - O cálculo dos proveitos previsionais e dos respectivos custos de operação será baseado nos seguintes elementos, a fornecer pelo promotor e que farão parte integrante do processo de candidatura:\n\na) Estudo do recurso, que incluirá elementos que permitam apurar os valores anuais médio, máximo e mínimo previsíveis para a sua disponibilidade;\n\nb) Dados técnicos relativos aos equipamentos de conversão que permitam avaliar o seu rendimento nas condições prevalecentes no local da operação;\n\nc) Dados técnicos referentes aos custos de operação e manutenção e à vida útil dos equipamentos a utilizar na operação, incluindo garantias de fabricantes;\n\nd) Comprovação das condições económicas de venda à rede pública da energia eléctrica produzida, que será feita em conformidade com o tarifário em vigor, ou, nos casos aplicáveis, com as condições regulamentares que se encontrem estatuídas; esta comprovação deverá ser acompanhada de declaração da entidade exploradora da rede pública, consoante aplicável, indicando o ponto e as condições de ligação a essa rede;\n\ne) Tratando-se de operações incluídas na alínea e) do n.º 1 do artigo 2.º, deverão fazer parte do processo de candidatura os contratos-promessa com as entidades fornecedoras da biomassa, entendendo-se que os custos inerentes à aquisição da biomassa serão tidos em conta na análise da viabilidade das operações.\n\n4 - A rentabilidade financeira do projecto será verificada para períodos de análise iguais à vida útil das instalações não superiores a 20 anos, excepto para as operações referentes a centrais mini-hídricas, para as quais esse período máximo será de 30 anos.\n\n5 - A execução do projecto deverá ter lugar durante o período de vigência do Quadro Comunitário de Apoio."
+  },
+  "d5201ac66ea36917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes, para efeitos de cálculo do apoio a atribuir, as despesas associadas ao projecto e relativas a:\n\na) Estudos prévios;\n\nb) Projectos de engenharia;\n\nc) Aquisição de terrenos até um montante de 10% do total das aplicações relevantes;\n\nd) Construção e aquisição de edifícios especificamente destinados à operação, deduzida a parcela correspondente ao custo do terreno incorporado;\n\ne) Aquisição, transporte, seguros, montagens e manuseamento de equipamentos básicos e outras máquinas e instalações específicas da operação, incluindo a ligação à rede pública;\n\nf) Assistência técnica durante a montagem, ensaio e arranque da instalação;\n\ng) Controlo de qualidade e gestão e fiscalização do projecto;\n\nh) Constituição de servidões até um montante de 10% do total das aplicações relevantes.\n\n2 - Os limites das alíneas c) e h) do número anterior poderão excepcionalmente ser excedidos quando devidamente fundamentados e aprovados pelo Ministro da Indústria e Energia.\n\n3 - As despesas com a realização de estudos de avaliação do recurso, de viabilidade técnico-económica da operação e de impacte ambiental serão consideradas aplicações relevantes, ainda que realizadas em data anterior à da formalização da candidatura, desde que enquadráveis nos termos do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho.\n\n4 - Considera-se aquisição de equipamentos básicos e outras máquinas e instalações, conforme o previsto na alínea e) do n.º 1, a sua locação financeira, desde que o promotor se comprometa a exercer a opção de compra do respectivo contrato.\n\n5 - O montante máximo do somatório total das aplicações relevantes a considerar resultará do produto da potência eléctrica nominal da instalação pelo valor do parâmetro aplicável ao tipo de operação em causa, que, para o efeito, será publicado anualmente no anúncio referido no n.º 3 do artigo 2.º\n\n6 - Não serão consideradas aplicações relevantes:\n\na) As despesas efectuadas com a aquisição de bens em estado de uso;\n\nb) O montante das despesas relativo a aplicações relevantes que tenha correspondência no Orçamento do Estado, com excepção das contrapartidas nacionais à disponibilização de fundos do FEDER;\n\nc) As despesas financeiras e fiscais e os trabalhos para a própria empresa, ainda que correspondam a despesas incorridas com as aplicações relevantes previstas no n.º 1;\n\nd) As despesas de funcionamento que não estejam incluídas nas aplicações relevantes descritas no n.º 1.\n\n7 - Por despacho do Ministro da Indústria e Energia, que explicitará os parâmetros a observar, os trabalhos para a própria empresa referidos na alínea c) do número anterior poderão ser considerados aplicações relevantes."
+  },
+  "6970a16eee83c892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio\n\n1 - O apoio a conceder no âmbito do presente regime assumirá a forma de um subsídio reembolsável à taxa nula.\n\n2 - O montante do apoio será determinado pela aplicação de uma percentagem sobre o montante das aplicações relevantes, variável com o tipo de operação e graduada em função do seu valor energético, dos impactes regional e ambiental, da valia técnica e económica da operação e da adequação dos custos propostos ao tipo de operação a apoiar.\n\n3 - Os valores da percentagem referida no número anterior serão inferiores ou iguais a 40% e respeitarão os limites indicados no anúncio previsto no n.º 3 do artigo 2.º\n\n4 - Os valores referidos no número anterior poderão ser majorados nos termos do disposto no artigo 8.º"
+  },
+  "a3af873f04b62a19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Majoração do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Majoração do apoio\n\n1 - Os limites percentuais do apoio poderão ser majorados por despacho do Ministro da Indústria e Energia, sob proposta do organismo gestor, fundamentada na valia técnica e económica do projecto.\n\n2 - As majorações referidas neste artigo serão determinadas de forma a não ultrapassarem os limites estabelecidos pelas regras do FEDER."
+  },
+  "b71e2a1c015f8984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Prémio de realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prémio de realização\n\n1 - Haverá um prémio de realização para projectos que, de uma forma fundamentada, sejam considerados Excelentes, o qual consistirá na transformação de parte ou da totalidade do subsídio reembolsável em subsídio a fundo perdido.\n\n2 - A consideração de Excelência dos projectos fundamentar-se-á, designadamente, no seu forte potencial de disseminação, no seu grau de contribuição para a resolução de problemas ambientais e na sua contribuição para a resolução de estrangulamentos no aprovisionamento energético local ou regional.\n\n3 - A decisão sobre a concessão do prémio de realização será tomada por despacho do Ministro da Indústria e Energia, sob proposta do organismo gestor."
+  },
+  "6476de1ec5186b5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Pagamento do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento do apoio\n\n1 - O pagamento do apoio será feito nos seguintes termos:\n\na) Pagamento de um adiantamento de montante não superior a 25% do total concedido, após a assinatura do contrato referido no artigo 14.º;\n\nb) Após a realização, devidamente comprovada, de um montante do investimento que corresponda a um apoio igual ao montante do adiantamento concedido, proceder-se-á ao pagamento de parcelas do apoio concedido proporcionais ao volume de despesas realizadas com o investimento para além daquele montante e até 90% do montante total do apoio;\n\nc) A parcela do apoio correspondente às despesas com os estudos de avaliação do recurso, de viabilidade técnico-económica da operação e de impacte ambiental só será liquidada após a realização de 20% do montante total das despesas consideradas relevantes para o cálculo do apoio;\n\nd) Os últimos 10% do montante do apoio serão pagos após a conclusão da operação, incluindo o arranque da instalação, comprovada por vistoria final da entidade fiscalizadora, e a finalização do respectivo processo de licenciamento.\n\n2 - Os pagamentos referidos nas alíneas a), b) e c) do número anterior são sujeitos à prestação prévia, pelo promotor, de garantia adequada correspondente aos respectivos montantes, a qual será libertada no momento do pagamento referido na alínea d) daquele número.\n\n3 - O pagamento da parte do apoio correspondente a bens sujeitos a registo de propriedade só pode ser efectuado após apresentação do mesmo, ou de documento considerado equivalente."
+  },
+  "5596da01c595237d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Forma de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma de reembolso\n\n1 - O apoio será reembolsado, após um período de carência de três anos, ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), directamente pelo promotor ou pelas entidades financiadoras que tenham participado em protocolos com o IAPMEI, nos termos do número seguinte, em pagamentos semestrais, durante um período de nove anos.\n\n2 - No caso de haver recurso a entidades financiadoras que tenham participado em protocolos com o IAPMEI, o serviço da dívida do promotor a estas entidades deverá ser negociado directamente com elas, tendo em conta o disposto no número anterior."
+  },
+  "a625c2f881181d83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Apresentação de candidaturas e processo de concessão do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas e processo de concessão do apoio\n\n1 - A apresentação de candidaturas ao presente regime é contínua, devendo ser formalizada em duplicado junto do organismo gestor, acompanhada de uma caução equivalente a 1(por mil) do montante previsto para o investimento, a qual será depositada em conta especial na entidade financiadora que intervém na operação ou na Caixa Geral de Depósitos, se não houver intervenção da entidade financiadora.\n\n2 - Após a recepção das candidaturas, o organismo gestor pode solicitar aos promotores da operação esclarecimentos complementares e elementos em falta, os quais devem ser apresentados no prazo de 20 dias úteis após recepção do pedido.\n\n3 - A falta de apresentação dos elementos solicitados no prazo referido no número anterior, excepto quando justificada por causa não imputável ao promotor, será considerada equivalente à desistência da candidatura.\n\n4 - O organismo gestor analisará cada candidatura e proporá o montante do apoio a conceder, anexando à proposta os elementos que considerar necessários para o fundamento da decisão de concessão de apoios.\n\n5 - A decisão sobre o pedido de concessão de apoios deverá ser comunicada ao promotor no prazo de 90 dias úteis contados da data de recepção, pelo organismo gestor, de todos os dados necessários à completa instrução do processo."
+  },
+  "32cb7fb5d653f67b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Conteúdo dos processos de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo dos processos de candidatura\n\n1 - Cada candidatura deverá respeitar a um projecto individualizado.\n\n2 - No caso de instalações constituídas por grupos de equipamentos que sejam maioritariamente detidos por um único promotor e que tenham o mesmo ponto de ligação à rede eléctrica pública, considerar-se-á uma candidatura para a totalidade dessas instalações, excepto em casos devidamente justificados.\n\n3 - O processo deve conter obrigatoriamente os seguintes elementos:\n\na) Formulários de candidatura, conforme modelo a fornecer pelo organismo gestor, devidamente preenchidos;\n\nb) Memória descritiva e justificativa da solução escolhida;\n\nc) Descrição e caracterização dos principais equipamentos e materiais da instalação;\n\nd) Estimativa de custos, detalhando os preços das obras dos equipamentos e respectivos custos de montagem e transporte;\n\ne) Estudo de viabilidade económica do investimento adaptado à importância da operação;\n\nf) Elementos técnicos e económicos que permitam analisar, com suficiente detalhe, o processo de selecção de fornecedores dos principais bens e serviços a adquirir para a realização da operação;\n\ng) Informações necessárias à comprovação da viabilidade económica e financeira dos promotores da operação, sempre que aplicável de acordo com o estatuto do promotor;\n\nh) Indicação das fontes de financiamento previstas, respectivos montantes e calendários de realização;\n\ni) Todas as demais informações e cálculos necessários à comprovação das condições de acesso do promotor e da elegibilidade da operação."
+  },
+  "8b1bd109addd674a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contrato de concessão de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato de concessão de apoios\n\n1 - A concessão de apoios financeiros será formalizada através de contrato, nos termos do [Decreto-Lei n.º 195/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1994-299449), de 19 de Julho, a celebrar entre o organismo gestor, o IAPMEI e o promotor, a partir de minuta tipo previamente homologada pelo Ministro da Indústria e Energia.\n\n2 - Do contrato constarão, nomeadamente, o montante do apoio concedido e das condições de reembolso, os objectivos da operação, as condições acordadas com o promotor e as garantias prestadas por este ao abrigo do n.º 2 do artigo 10.º, quando exigidas pelo organismo gestor em função da operação em causa.\n\n3 - O contrato deve ser assinado no prazo de 40 dias úteis contados da data da comunicação referida no n.º 6 do artigo 12.º, sob pena de caducidade da candidatura, salvo se o atraso não for imputável ao promotor.\n\n4 - O contrato pode ser objecto de renegociação no caso de alterações significativas das condições de mercado ou financeiras que justifiquem uma interrupção da operação, uma alteração do calendário da sua realização ou uma modificação das condições de exploração e que tenham sido consideradas atendíveis pelo Ministro da Indústria e Energia.\n\n5 - A posição contratual do promotor no contrato pode ser objecto de transmissão, por motivos considerados justificados e após autorização do Ministro da Indústria e Energia.\n\n6 - O contrato poderá ser rescindido por despacho do Ministro da Indústria e Energia nos seguintes casos:\n\na) Não cumprimento das condições estabelecidas no contrato por facto imputável ao promotor;\n\nb) Não cumprimento atempado das obrigações fiscais relativas à operação em causa;\n\nc) Prestação de informações falsas sobre a situação do promotor ou viciação de dados fornecidos no processo de candidatura ou referentes à realização da operação.\n\n7 - A rescisão do contrato implicará a restituição dos apoios já pagos, sendo o promotor obrigado, no prazo de 30 dias úteis contados da data da notificação, a repor as importâncias recebidas, acrescidas de juros calculados à taxa indicada no contrato de concessão de apoios.\n\n8 - A medida referida no número anterior não prejudica a eventual responsabilidade civil, penal ou fiscal do promotor."
+  },
+  "14ad70622616991c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Devolução da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Devolução da caução\n\n1 - A caução a que se refere o artigo 12.º reverterá para o Estado quando a rejeição da candidatura se verificar por desistência do promotor, excepto em casos de força maior devidamente fundamentados, ou nas circunstâncias previstas no n.º 4 daquele artigo.\n\n2 - Não havendo desistência da candidatura nos termos do número anterior, a caução será devolvida ao promotor:\n\na) No momento em que se efectuar a assinatura do contrato, para as operações cuja comparticipação tenha sido aprovada;\n\nb) No momento em que for do conhecimento do organismo gestor a não concessão do apoio a que o promotor se candidatou."
+  },
+  "18505a82b7f80e38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Contabilização do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contabilização do apoio\n\nA contabilização do apoio deverá ser feita, nos termos legais aplicáveis, em conta exclusivamente dedicada ao respectivo contrato."
+  },
+  "dbb3d3c866a5a849": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização\n\n1 - Os promotores que venham a beneficiar dos apoios previstos no presente regime ficam sujeitos à verificação da sua utilização.\n\n2 - O organismo gestor fiscalizará a realização das operações, adoptando as medidas necessárias ao seu acompanhamento e velando pelo cumprimento do contrato."
+  },
+  "54262a3584b70993": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Concorrência e acumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Concorrência e acumulação de apoios\n\n1 - Os apoios previstos no presente diploma não são acumuláveis com quaisquer outros que revistam a mesma natureza ou fins, concedidos por qualquer outro regime legal nacional ou comunitário, sendo contudo permitidas acumulações quando os projectos tenham sido candidatos a programas comunitários cujo objecto seja promover a demonstração ou disseminação de tecnologias energéticas inovadoras.\n\n2 - Nos casos referidos no número anterior, o apoio concedido através do presente regime nunca pode ser tal que sejam ultrapassadas as regras próprias do FEDER ou dos programas comunitários em causa."
+  },
+  "a08825a59532f276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposição transitória\n\nNo 1.º ano de funcionamento do presente regime, o anúncio a que se refere o n.º 3 do artigo 4.º será publicado no prazo de 15 dias úteis contados da data da publicação do presente diploma."
+  },
+  "fef82de7fddf72e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da publicação no Diário da República do anúncio referido no artigo anterior.\n\nMinistério da Indústria e Energia, 16 de Setembro de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "8df40224c1f82dd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade das operações",
+   "in_force_from": "1997-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04."
+   ],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade das operações\n\n1 - No presente regime apenas serão consideradas as operações a que correspondam montantes de investimento em capital fixo superiores a 150000000$00, excepto para operações enquadráveis na alínea b) do n.º 1 do artigo 2.º, para as quais este limite mínimo será de 15000000$00.\n\n2 - As operações candidatas devem apresentar índices de rentabilidade económica e financeira justificativos da sua realização, nomeadamente uma taxa interna de rentabilidade, calculada no período de análise, superior à que estiver fixada no anúncio referido no n.º 3 do artigo 2.º para o tipo de operação em questão.\n\n3 - O cálculo dos proveitos previsionais e dos respectivos custos de operação será baseado nos seguintes elementos, a fornecer pelo promotor e que farão parte integrante do processo de candidatura:\n\na) Estudo do recurso, que incluirá elementos que permitam apurar os valores anuais médio, máximo e mínimo previsíveis para a sua disponibilidade;\n\nb) Dados técnicos relativos aos equipamentos de conversão que permitam avaliar o seu rendimento nas condições prevalecentes no local da operação;\n\nc) Dados técnicos referentes aos custos de operação e manutenção e à vida útil dos equipamentos a utilizar na operação, incluindo garantias de fabricantes;\n\nd) Comprovação das condições económicas de venda à rede pública da energia eléctrica produzida, que será feita em conformidade com o tarifário em vigor, ou, nos casos aplicáveis, com as condições regulamentares que se encontrem estatuídas; esta comprovação deverá ser acompanhada de declaração da entidade exploradora da rede pública, consoante aplicável, indicando o ponto e as condições de ligação a essa rede;\n\ne) Tratando-se de operações incluídas na alínea e) do n.º 1 do artigo 2.º, deverão fazer parte do processo de candidatura os contratos-promessa com as entidades fornecedoras da biomassa, entendendo-se que os custos inerentes à aquisição da biomassa serão tidos em conta na análise da viabilidade das operações.\n\n4 - A rentabilidade financeira do projecto será verificada para períodos de análise iguais à vida útil das instalações não superiores a 20 anos, excepto para as operações referentes a centrais mini-hídricas, para as quais esse período máximo será de 30 anos.\n\n5 - As operações candidatas deverão ter lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.\n\n> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04."
+  },
+  "3afcf2764252059d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apoio",
+   "in_force_from": "1997-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04."
+   ],
+   "markdown": "###### Artigo 7.º — Apoio\n\n1 - O apoio a conceder no âmbito do presente regime assumirá a forma de um subsídio reembolsável à taxa nula.\n\n2 - O montante do apoio será determinado pela aplicação de uma percentagem sobre o montante das aplicações relevantes, variável com o tipo de operação e graduada em função do seu valor energético, dos impactes regional e ambiental, da valia técnica e económica da operação e da adequação dos custos propostos ao tipo de operação a apoiar.\n\n3 - Os valores da percentagem referida no número anterior serão inferiores ou iguais a 60% e respeitarão os limites indicados no anúncio previsto no n.º 3 do artigo 2.º\n\n4 - Os valores referidos no número anterior poderão ser majorados nos termos do disposto no artigo 8.º\n\n> Alterado pelo/a Artigo 1.º do/a [Despacho Normativo n.º 18/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1997-529430), publicado em 1997-04-04."
+  }
+ }
+}

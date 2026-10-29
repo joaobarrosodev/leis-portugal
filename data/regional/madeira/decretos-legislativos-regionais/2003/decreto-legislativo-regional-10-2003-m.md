@@ -40,10 +40,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-08-19'
+version_history:
+  file: decreto-legislativo-regional-10-2003-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-08-19'
+    amending: pt:dre:671454:por
+    amending_title: Decreto Legislativo Regional n.º 19/2011/M
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/10/2003/06/05/m/dre/pt/html
@@ -69,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    19/2011/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2003/decreto-legislativo-regional-10-2003-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,17 +200,25 @@ b) As competências conferidas à Direcção-Geral de Viação são exercidas pe
 
 c) As competências conferidas ao director-geral de Viação e ao director de serviços de viação da área de localização do centro de inspecção são exercidas pelo director regional de Transportes Terrestres.
 
-2 - Para efeito de candidatura à obtenção de autorização para o exercício da actividade de inspecção de veículos, o âmbito e a estrutura do estudo demonstrativo de viabilidade técnica e económica, assim como os indicadores de capacidade financeira, são definidos por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
+2 - (Revogado.)
 
-3 - As tarifas de valor fixo, que incidem sobre as inspecções e as reinspecções dos veículos, são estabelecidas por portaria conjunta dos membros do Governo Regional responsáveis pelos sectores do comércio e dos transportes terrestres.
+3 - (Revogado.)
 
-4 - As normas do concurso público com vista à instalação de centros de inspecção por entidades previamente autorizadas constam de regulamento aprovado por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
+4 - (Revogado.)
 
-5 - As inspecções técnicas de veículos, quando realizadas por entidades autorizadas, só podem ser efectuadas por inspectores devidamente licenciados pela Direcção Regional de Transportes Terrestres ou por outro órgão que disponha de competência legal para os licenciar, designadamente a Direcção-Geral de Viação.
+5 - (Revogado.)
 
 6 - Os quadros relativos à classificação das deficiências encontradas nas observações e verificações dos pontos de controlo obrigatório dos veículos sujeitos a inspecção são fixados por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
 
 7 - Os termos e condições da apresentação dos documentos do veículo com vista à realização de inspecção para atribuição de nova matrícula são fixados por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
 
 ###### Artigo 3.º — Seguro de responsabilidade civil automóvel
 
@@ -208,17 +238,9 @@ Aos veículos afectos ao parque automóvel da ilha de Porto Santo, em caso de ve
 
 ###### Artigo 7.º — Tipos de centros de inspecção
 
-1 - Os centros de inspecção podem adoptar uma das seguintes estruturas de funcionamento:
+(Revogado.)
 
-a) Centro de inspecção fixo - estabelecimento constituído pelo conjunto de terreno, edifício, área de estacionamento, equipamentos, meios técnicos e direitos inerentes onde uma entidade autorizada exerce a actividade de inspecção de veículos;
-
-b) Centro de inspecção móvel - estabelecimento constituído pelo conjunto de equipamentos e meios técnicos necessários à realização de inspecção de veículos, ao qual estão adstritos os terrenos e áreas de estacionamento onde uma entidade autorizada, periodicamente, exercerá a actividade de inspecção de veículos.
-
-2 - O referido no número anterior não prejudica a classificação do centro de inspecção numa das categorias previstas no artigo 21.º do [Decreto-Lei n.º 550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de Dezembro, segundo o critério da tipologia de inspecções que realiza.
-
-3 - A definição dos requisitos a observar quanto a instalações, acessos e áreas de estacionamento, equipamentos, número de inspectores e outros aspectos técnicos, bem como os trâmites processuais conducentes à aprovação dos centros de inspecção, são estabelecidos por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
-
-4 - A mudança ou a extensão da actividade para outro local onde a entidade autorizada pretenda, periodicamente, fixar o centro de inspecção móvel depende de autorização a conceder pela Direcção Regional de Transportes Terrestres, após verificação do preenchimento dos requisitos fixados pela portaria prevista no número anterior.
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
 
 ###### Artigo 8.º — Âmbito da actividade
 
@@ -236,9 +258,13 @@ Nos terrenos onde se encontram instalados os centros de inspecção em funcionam
 
 1 - O produto resultante da cobrança de coimas aplicadas no seguimento de processos de contra-ordenação, instaurados no âmbito do presente diploma, constitui receita própria da Região Autónoma da Madeira.
 
-2 - Do montante das tarifas pagas pelas inspecções ou reinspecções, com excepção das facultativas, uma importância igual a 5% constitui receita própria da Região Autónoma da Madeira.
+2 - (Revogado.)
 
-3 - O pagamento da importância referida no número anterior deve ser efectuado mensalmente pelas entidades autorizadas nos serviços da Tesouraria do Governo Regional, sendo feita, posteriormente, prova desse pagamento junto da Direcção Regional de Transportes Terrestres.
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
 
 ###### Artigo 11.º — Contra-ordenações e coimas
 
@@ -268,11 +294,9 @@ f) De (euro) 1000 a (euro) 3700, ou de (euro) 1000 a (euro) 5000, consoante se t
 
 ###### Artigo 12.º — Normas transitórias
 
-1 - As entidades autorizadas na Região Autónoma da Madeira para o exercício da actividade de inspecção de veículos e que exerçam a actividade devem, no prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, comprovar, na Direcção Regional de Transportes Terrestres, que reúnem as condições previstas nos artigos 5.º, 7.º e 8.º do [Decreto-Lei n.º 550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de Dezembro, sob pena de revogação da autorização concedida.
+(Revogado.)
 
-2 - As pessoas singulares que, à data de entrada em vigor do presente diploma, sejam titulares de autorização para o exercício da actividade de inspecção técnica de veículos, e que a exerçam, devem requerer, no prazo máximo de um ano, a transmissão da autorização, englobando a transmissão de todos os centros a esta afectos, para pessoa colectiva que reúna as condições previstas nos artigos 5.º, 7.º e 8.º do [Decreto-Lei n.º 550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de Dezembro, sob pena de revogação da autorização concedida.
-
-3 - A transmissão da autorização é concedida por despacho do Secretário Regional do Equipamento Social e Transportes.
+> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 19/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454), publicado em 2011-08-19.
 
 ###### Artigo 13.º — Entrada em vigor
 

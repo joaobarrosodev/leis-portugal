@@ -33,10 +33,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-12-30'
+version_history:
+  file: decreto-lei-404-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-12-30'
+    amending: pt:dre:665131:por
+    amending_title: Decreto-Lei n.º 575/72
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -62,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:15:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 575/72. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-404-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,9 +131,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As regalias concedidas às cooperativas agrícolas pela legislação em vigor mantêm-se, ainda que participem em posição não inferior a 50 por cento como sócios ou accionistas em sociedades comerciais que tenham por objecto o aproveitamento, transformação, conservação ou comercialização dos seus produtos ou dos dos seus associados.
+###### Artigo 1.º
 
-Art. 2.º - 1. O disposto no artigo 1.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, é interpretado como abrangendo as cooperativas agrícolas que exerçam actividades com fim lucrativo, entendendo-se como tais as que prosseguem objectivos económicos com vista ao aumento do património social ou à repartição de benefícios pelos associados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 575/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131), publicado em 1972-12-30.
+
+###### Artigo 2.º
+
+1. O disposto no artigo 1.º do [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, é interpretado como abrangendo as cooperativas agrícolas que exerçam actividades com fim lucrativo, entendendo-se como tais as que prosseguem objectivos económicos com vista ao aumento do património social ou à repartição de benefícios pelos associados.
 
 2. O preceituado no número anterior aplica-se a todas as quotizações liquidadas a partir da entrada em vigor do referido decreto-lei.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-07-26'
+version_history:
+  file: decreto-lei-353-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-07-26'
+    amending: pt:dre:669513:por
+    amending_title: Decreto-Lei n.º 90/2011
+    changes:
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/353/1991/09/20/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:11:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-353-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,25 +156,33 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a redução, por fases, da participação do Estado no capital da sociedade Petróleos de Portugal - PETROGAL, S. A., até 10% do total, depois de aumentado em conformidade com o disposto nos artigos seguintes.
+###### Artigo 1.º
+
+1 - Nos termos e condições da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a redução, por fases, da participação do Estado no capital da sociedade Petróleos de Portugal - PETROGAL, S. A., até 10% do total, depois de aumentado em conformidade com o disposto nos artigos seguintes.
 
 2 - A redução aprovada pelo número anterior efectuar-se-á mediante aumentos de capital, em que o Estado não participará, e por alienação de acções pertencentes ao Estado.
 
 3 - A 1.ª fase é regulada pelo presente diploma e pela resolução do Conselho de Ministros prevista no artigo 11.º
 
-Art. 2.º - 1 - A 1.ª fase do processo de reprivatização da PETROGAL destina-se à reprivatização de 51% do respectivo capital social e será realizada por meio de uma operação conjunta, consistente num aumento do capital da sociedade em 19000000 de contos, através da emissão de igual número de acções, com valor nominal de 1000$00 cada uma, na alienação, pelo Estado, de 5000000 de acções e, ainda, na alienação diferida, dentro de determinado prazo, de 24960000 acções da sociedade.
+###### Artigo 2.º
+
+1 - A 1.ª fase do processo de reprivatização da PETROGAL destina-se à reprivatização de 51% do respectivo capital social e será realizada por meio de uma operação conjunta, consistente num aumento do capital da sociedade em 19000000 de contos, através da emissão de igual número de acções, com valor nominal de 1000$00 cada uma, na alienação, pelo Estado, de 5000000 de acções e, ainda, na alienação diferida, dentro de determinado prazo, de 24960000 acções da sociedade.
 
 2 - No conjunto das fases da reprivatização será reservado para aquisição por trabalhadores, pequenos subscritores e, eventualmente, emigrantes um número de acções correspondentes ao máximo de 20% do capital da sociedade, no termo do processo de reprivatização.
 
 3 - Ressalvando o disposto no número anterior, as fases subsequentes deste processo de reprivatização efectuar-se-ão nas condições que vierem a ser estabelecidas mediante diplomas próprios, em condições e segundo qualquer das modalidades admitidas pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-Art. 3.º - 1 - O disposto no n.º 1 do artigo anterior será realizado mediante concurso público, aberto a investidores nacionais ou estrangeiros que reúnam as condições necessárias para assegurar a satisfação dos fins da sociedade.
+###### Artigo 3.º
+
+1 - O disposto no n.º 1 do artigo anterior será realizado mediante concurso público, aberto a investidores nacionais ou estrangeiros que reúnam as condições necessárias para assegurar a satisfação dos fins da sociedade.
 
 2 - Os interessados deverão apresentar-se a concurso em agrupamento.
 
 3 - Os vencedores do concurso público ficarão obrigados a constituir, entre si, no prazo fixado no caderno de encargos, uma sociedade gestora de participações sociais, SGPS, para a qual serão transmitidas as acções subscritas ou adquiridas nos termos do n.º 1 do artigo 2.º
 
-Art. 4.º - 1 - A SGPS referida no n.º 3 do artigo anterior deverá obedecer aos seguintes requisitos:
+###### Artigo 4.º
+
+1 - A SGPS referida no n.º 3 do artigo anterior deverá obedecer aos seguintes requisitos:
 
 a) Ser constituída de acordo com a lei portuguesa e ter sede em Portugal;
 
@@ -175,25 +198,37 @@ e) O capital deverá estar integralmente realizado no montante e dentro do prazo
 
 3 - Enquanto a SGPS não estiver definitivamente constituída não poderão ser exercidos os direitos inerentes às acções representativas do capital reprivatizado relativos à PETROGAL.
 
-Art. 5.º - 1 - As acções a que se refere o n.º 1 do artigo 2.º serão indisponíveis durante cinco anos a contar da homologação pelo Conselho de Ministros do resultado do concurso, não podendo ser alienadas nem oneradas, sob pena de nulidade dos actos praticados.
+###### Artigo 5.º
+
+1 - As acções a que se refere o n.º 1 do artigo 2.º serão indisponíveis durante cinco anos a contar da homologação pelo Conselho de Ministros do resultado do concurso, não podendo ser alienadas nem oneradas, sob pena de nulidade dos actos praticados.
 
 2 - A partir do termo do período de indisponibilidade fixado no número anterior e enquanto o Estado for accionista, independentemente do número de acções de que seja titular, a alienação ou oneração de acções da PETROGAL fica dependente do consentimneto da sociedade, a conceder ou recusar por deliberação da assembleia geral.
 
-Art. 6.º - 1 - As acções representativas do capital social da SGPS serão também indisponíveis durante o período referido no n.º 1 do artigo anterior, não podendo ser alienadas por acto entre vivos nem oneradas, salvo como garantia prestada, a instituições de crédito nacionais por débitos assumidos para os fins desta reprivatização e desde que essa oneração seja autorizada pelo Governo por despacho conjunto dos Ministros das Finanças e da Indústria e Energia.
+###### Artigo 6.º
+
+1 - As acções representativas do capital social da SGPS serão também indisponíveis durante o período referido no n.º 1 do artigo anterior, não podendo ser alienadas por acto entre vivos nem oneradas, salvo como garantia prestada, a instituições de crédito nacionais por débitos assumidos para os fins desta reprivatização e desde que essa oneração seja autorizada pelo Governo por despacho conjunto dos Ministros das Finanças e da Indústria e Energia.
 
 2 - Para efeitos do disposto no número anterior, consideram-se instituições de crédito nacionais as que tenham sede e direcção efectiva em território nacional e cujo capital seja maioritariamente detido, directa ou indirectamente, por entidades portuguesas.
 
 3 - Por força dos interesses nacionais em causa, a partir do período de indisponibilidade fixado no n.º 1 e enquanto o Estado for accionista da PETROGAL, independentemente do número de acções de que seja titular, as acções da SGPS não podem ser alienadas por acto entre vivos nem oneradas se, no prazo de 60 dias após a data do requerimento dos interessados, o Governo não der o seu acordo, a prestar por despacho conjunto dos Ministros das Finanças e da Indústria e Energia.
 
-Art. 7.º Exceptuam-se do regime de indisponibilidade estabelecido nos artigos 5.º e 6.º as transmissões efectuadas entre os membros do agrupamento concorrente ou entre os accionistas fundadores da SGPS.
+###### Artigo 7.º
 
-Art. 8.º - 1 - São nulos os contratos-promessa, contratos de opção ou outros, quando celebrados antes de iniciado ou terminado o período de indisponibilidade neles fixado, pelos quais o titular a que se referem os artigos 5.º e 6.º fique desde logo obrigado a alienar no futuro essas acções.
+Exceptuam-se do regime de indisponibilidade estabelecido nos artigos 5.º e 6.º as transmissões efectuadas entre os membros do agrupamento concorrente ou entre os accionistas fundadores da SGPS.
+
+###### Artigo 8.º
+
+1 - São nulos os contratos-promessa, contratos de opção ou outros, quando celebrados antes de iniciado ou terminado o período de indisponibilidade neles fixado, pelos quais o titular a que se referem os artigos 5.º e 6.º fique desde logo obrigado a alienar no futuro essas acções.
 
 2 - São nulos os acordos pelos quais a SGPS se obrigue para com outros accionistas da PETROGAL, com excepção do Estado, a exercer de determinada maneira o direito de voto inerente às acções da sociedade.
 
-Art. 9.º Não são aplicáveis à SGPS os preceitos legais que exijam, em função do capital da PETROGAL por ela detido, o lançamento ou a realização de uma oferta pública de aquisição de valores mobiliários.
+###### Artigo 9.º
 
-Art. 10.º - 1 - Pelo pagamento das acções do aumento de capital serão pessoal e conjuntamente responsáveis os membros do agrupamento vencedor.
+Não são aplicáveis à SGPS os preceitos legais que exijam, em função do capital da PETROGAL por ela detido, o lançamento ou a realização de uma oferta pública de aquisição de valores mobiliários.
+
+###### Artigo 10.º
+
+1 - Pelo pagamento das acções do aumento de capital serão pessoal e conjuntamente responsáveis os membros do agrupamento vencedor.
 
 2 - Simultaneamente com a subscrição do aumento de capital, os membros do agrupamento vencedor adquirirão ao Estado 5000000 de acções da sociedade.
 
@@ -201,15 +236,21 @@ Art. 10.º - 1 - Pelo pagamento das acções do aumento de capital serão pessoa
 
 4 - O incumprimento da obrigação de compra implicará a sanção que for estabelecida no caderno de encargos e que poderá consistir na perda a favor do Estado da totalidade ou de parte das acções adquiridas nos termos dos n.os 1 e 2.
 
-Art. 11.º Compete ao Governo, em resolução do Conselho de Ministros, aprovar o caderno de encargos do concurso público e estabelecer o mais que for necessário para a execução do presente diploma, incluindo o estabelecimento de sanções contratuais para o incumprimento dos objectivos empresariais que vierem a ser consagrados e incluídos naquele caderno de encargos para a reprivatização da PETROGAL.
+###### Artigo 11.º
 
-Art. 12.º - 1 - No conjunto das fases do processo de reprivatização não podem ser adquiridas por entidades estrangeiras, nem averbadas ou inscritas a seu favor, acções representativas de mais de 40% do capital, com direito de voto da sociedade.
+Compete ao Governo, em resolução do Conselho de Ministros, aprovar o caderno de encargos do concurso público e estabelecer o mais que for necessário para a execução do presente diploma, incluindo o estabelecimento de sanções contratuais para o incumprimento dos objectivos empresariais que vierem a ser consagrados e incluídos naquele caderno de encargos para a reprivatização da PETROGAL.
+
+###### Artigo 12.º
+
+1 - No conjunto das fases do processo de reprivatização não podem ser adquiridas por entidades estrangeiras, nem averbadas ou inscritas a seu favor, acções representativas de mais de 40% do capital, com direito de voto da sociedade.
 
 2 - Para o cálculo da percentagem fixada no número anterior contar-se-ão não só as acções directamente adquiridas por entidades estrangeiras mas também as acções da PETROGAL possuídas por sociedades portuguesas em que participem entidades estrangeiras, na parte proporcional a esta participação.
 
 3 - Para efeitos dos números anteriores, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias.
 
-Art. 13.º - 1 - São nulos:
+###### Artigo 13.º
+
+1 - São nulos:
 
 a) Os acordos parassociais celebrados entre entidades portuguesas e entidades estrangeiras relativos a acções da PETROGAL, com excepção dos acordos preparatórios da constituição da SGPS;
 
@@ -221,7 +262,9 @@ c) Os acordos pelos quais entidades portuguesas adquiram acções da PETROGAL, e
 
 3 - Nas sociedades gestoras de participações sociais ou outras, em que participem entidades estrangeiras e que sejam titulares de acções da PETROGAL, nas deliberações sobre aquisição, alienação ou oneração destas acções e, bem assim, sobre o exercício do direito de voto em assembleias gerais da PETROGAL, não se aplicam as cláusulas dos contratos daquelas primeiras sociedades que subordinem a emissão ou o sentido do voto a qualquer requisito que não seja a maioria legalmente exigível para a tomada de deliberação do órgão interveniente.
 
-Art. 14.º - 1 - Para efeitos deste diploma consideram-se, nomeadamente, entidades estrangeiras:
+###### Artigo 14.º
+
+1 - Para efeitos deste diploma consideram-se, nomeadamente, entidades estrangeiras:
 
 a) As sociedades ou entidades equiparáveis, constituídas ao abrigo da lei estrangeira;
 
@@ -231,25 +274,37 @@ b) As sociedades com sede em Portugal que, nos termos do artigo 486.º, n.º 2, 
 
 3 - Cada pessoa colectiva que integre um agrupamento concorrente declarará, por escrito, se se encontra ou não em relação com outra entidade que faça também parte desse ou de outro agrupamento concorrente, tal como é definido no número anterior.
 
-Art. 15.º - 1 - Enquanto o Estado for accionista, e independentemente do número de acções de que seja titular, o Governo terá o direito de nomear, nos termos da respectiva legislação, um administrador, sem prejuízo da participação dos votos do Estado na eleição de outros administradores, nos termos gerais.
+###### Artigo 15.º
 
-2 - Por força dos interesses nacionais em causa não se consideram tomadas contra o voto expresso das acções pertencentes ao Estado as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade, contratos de grupo paritário ou de subordinação, limitação ou supressão do direito de preferência dos accionistas, consentimento para alienação ou oneração de acções e, bem assim, sobre a escolha de novo adquirente, no caso de o consentimento ser recusado, ou quaisquer decisões que directa ou indirectamente possam pôr em causa o abastecimento normal do País.
+(Revogado.)
 
-3 - O administrador nomeado nos termos do n.º 1 tem a competência, os direitos e os deveres definidos na lei para os administradores por parte do Estado.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2011-669513), publicado em 2011-07-25.
 
-Art. 16.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, escolhidas de entre as que forem pré-qualificadas por despacho do mesmo Ministro.
+###### Artigo 16.º
 
-Art. 17.º O aumento de capital previsto no artigo 2.º, n.º 1, considerar-se-á efectuado e, consequentemente, alterada a respectiva cláusula estatutária na data da resolução do Conselho de Ministros que decidir o concurso público, sem prejuízo do registo na conservatória do registo comercial, que será requerido pelo conselho de administração, sem dependência de outras formalidades, com base na mencionada resolução.
+Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, escolhidas de entre as que forem pré-qualificadas por despacho do mesmo Ministro.
 
-Art. 18.º - 1 - Nos 30 dias seguintes à resolução do Conselho de Ministros que decidir o concurso público será convocada a assembleia geral dos accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+###### Artigo 17.º
+
+O aumento de capital previsto no artigo 2.º, n.º 1, considerar-se-á efectuado e, consequentemente, alterada a respectiva cláusula estatutária na data da resolução do Conselho de Ministros que decidir o concurso público, sem prejuízo do registo na conservatória do registo comercial, que será requerido pelo conselho de administração, sem dependência de outras formalidades, com base na mencionada resolução.
+
+###### Artigo 18.º
+
+1 - Nos 30 dias seguintes à resolução do Conselho de Ministros que decidir o concurso público será convocada a assembleia geral dos accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Os mandatos dos actuais membros dos órgãos sociais caducarão na data da eleição dos novos membros.
 
-Art. 19.º Para a realização das operações de alienação e de oferta pública de subscrição de acções são delegadas no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, poderes para contratar a montagem, tomada firme e colocação e, bem assim, para determinar as demais condições que se afigurem convenientes.
+###### Artigo 19.º
 
-Art. 20.º São nulos todos os negócios jurídicos que o actual conselho de administração da PETROGAL, S. A., celebre, ou tenha já prometido celebrar pelos quais a sociedade deixe de exercer, directamente e só por si, ou a tal se comprometa, qualquer actividade abrangida pelo seu objecto social, mesmo que essa actividade passe a ser exercida por sociedades em cujo capital a PETROGAL, S. A., participe.
+Para a realização das operações de alienação e de oferta pública de subscrição de acções são delegadas no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado das Finanças, poderes para contratar a montagem, tomada firme e colocação e, bem assim, para determinar as demais condições que se afigurem convenientes.
 
-Art. 21.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+###### Artigo 20.º
+
+São nulos todos os negócios jurídicos que o actual conselho de administração da PETROGAL, S. A., celebre, ou tenha já prometido celebrar pelos quais a sociedade deixe de exercer, directamente e só por si, ou a tal se comprometa, qualquer actividade abrangida pelo seu objecto social, mesmo que essa actividade passe a ser exercida por sociedades em cujo capital a PETROGAL, S. A., participe.
+
+###### Artigo 21.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 

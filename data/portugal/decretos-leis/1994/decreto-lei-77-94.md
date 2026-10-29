@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-03-01'
+version_history:
+  file: decreto-lei-77-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-03-01'
+    amending: pt:dre:468663:por
+    amending_title: Lei n.º 12-A/2008
+    changes:
+    - Revoga Artigo 29.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/77/1994/03/09/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:35:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 12-A/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-77-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -524,7 +539,9 @@ No ano de 1994 mantém-se suspensa a aplicação da alínea b) do artigo 97.º d
 
 ###### Artigo 29.º — Transição de pessoal
 
-Para efeitos de aplicação das regras relativas à transição de pessoal, contidas nos diplomas que aprovem a reestruturação orgânica de serviços e organismos do Estado, o provimento do pessoal nos novos quadros faz-se por lista nominativa aprovada pelo membro do Governo competente.
+(Revogado.)
+
+> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), publicado em 2008-02-27.
 
 ###### Artigo 30.º — Pessoal dos registos e do notariado
 

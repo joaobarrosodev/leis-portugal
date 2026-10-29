@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-12-13'
+version_history:
+  file: portaria-23-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-01-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-13'
+    amending: pt:dre:64297586:por
+    amending_title: Portaria n.º 258/2014
+    changes:
+    - Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.::1.º
+    - Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.::5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/23/2013/01/24/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:55:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 258/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-23-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +162,9 @@ c) Departamento de Assuntos Europeus e Sistema Português da Qualidade;
 
 d) Departamento de Administração Geral.
 
-2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até três unidades orgânicas flexíveis, integradas nos departamentos a que se refere o número anterior ou hierarquicamente subordinadas ao conselho diretivo, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação em Diário da República.
+2 - Por deliberação do conselho diretivo podem ser criadas, modificadas ou extintas até cinco unidades orgânicas flexíveis, integradas nos departamentos a que se refere o número anterior ou hierarquicamente subordinadas ao conselho diretivo, sendo as respetivas competências definidas naquela deliberação, a qual é objeto de publicação em Diário da República.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12.
 
 ###### Artigo 2.º — Cargos dirigentes intermédios
 
@@ -255,6 +273,10 @@ o) Gerir os projetos de investimento apresentados no âmbito de programas comuni
 p) Realizar os procedimentos necessários à gestão do sistema de notificação prévia de regulamentos técnicos e de normas, no âmbito da União Europeia e da Organização Mundial de Comércio;
 
 q) Realizar os procedimentos necessários ao cumprimento do Principio do Reconhecimento Mútuo enquanto ponto de contacto de produto (PCP) do MEE e coordenador da rede de PCP dos diversos Ministérios.
+
+r) Realizar os procedimentos necessários ao exercício das competências em matéria de licenciamento de cisternas e de equipamentos sob pressão, promover e participar na elaboração do enquadramento legislativo e regulamentar sobre estas matérias, bem como realizar vistorias de funcionamento em instalações de produção de vapor e os exames necessários a candidatos à profissão de fogueiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 258/2014](https://diariodarepublica.pt/dr/detalhe/portaria/258-2014-64297586), publicado em 2014-12-12.
 
 ###### Artigo 6.º — Departamento de Administração Geral
 

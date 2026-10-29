@@ -30,10 +30,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-01-01'
+version_history:
+  file: decreto-lei-43024.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-01-01'
+    amending: pt:dre:237461:por
+    amending_title: Decreto-Lei n.º 44699
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +79,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44699. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43024.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,41 +146,55 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º De harmonia com as atribuições gerais conferidas ao Ministro das Finanças no artigo 13.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, competir-lhe-á, além da fixação de directivas e da adopção de previdências para a consecução dos objectivos definidos no artigo 14.º do mesmo decreto-lei:
+###### Artigo 1.º
 
-a) Propor ao Conselho de Ministros para o Comércio Externo as normas que, de acordo com as obrigações internacionais assumidas, considerar convenientes para a disciplina das transacções de invisíveis correntes e das operações de capitais;
+(Revogado.)
 
-b) Adoptar as providências atinentes à execução das deliberações tomadas pelo Conselho de Ministros para o Comércio Externo e à observância das suas resoluções, quanto às transacções de invisíveis correntes e às operações de capitais;
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
 
-c) Definir os princípios reguladores de todas e quaisquer operações cambiais a observar, para defesa da moeda nacional, pelas entidades públicas ou privadas autorizadas a exercer o comércio de câmbios.
+###### Artigo 2.º
 
-§ único. As normas referidas na alínea a) e os princípios reguladores referidos na alínea c) do presente artigo tornam-se executórios a partir da publicação no Diário do Governo da deliberação ou despacho que os aprovem.
+(Revogado.)
 
-Art. 2.º Para os fins consignados na alínea c) do artigo anterior, o Banco de Portugal proporá ao Ministro das Finanças o que tiver por conveniente, cabendo-lhe igualmente transmitir, de acordo com o Governo e por delegação deste, às entidades públicas ou privadas autorizadas a exercer o comércio de câmbios, as instruções julgadas necessárias à boa execução dos princípios referidos na mesma alínea.
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
 
-Art. 3.º As entidades públicas ou privadas autorizadas a exercer o comércio de câmbios enviarão ao Banco de Portugal, de acordo com as instruções que por este serão transmitidas, os elementos de informação necessários à elaboração dos quadros da balança geral de pagamentos internacionais e à verificação do cumprimento dos princípios reguladores e instruções respeitantes a operações cambiais constantes do artigo anterior.
+###### Artigo 3.º
 
-Art. 4.º Para efeito do disposto no presente diploma, são consideradas operações cambiais, designadamente:
+(Revogado.)
 
-a) As operações de compra e venda de ouro ou de moeda estrangeira realizadas pelas entidades públicas ou privadas autorizadas a exercer o comércio de câmbios;
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
 
-b) Os movimentos a débito ou a crédito das contas expressas em escudos que as entidades públicas ou privadas autorizadas a exercer o comércio de câmbios tenham abertas, ou venham a abrir, em nome de pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro;
+###### Artigo 4.º
 
-c) As transferências entre contas expressas em ouro ou moeda estrangeira e as transferências entre contas em escudos que as entidades públicas ou privadas autorizadas a exercer o comércio de câmbios tenham abertas, ou venham a abrir, em nome de pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro;
+(Revogado.)
 
-d) As conversões de contas de ouro ou moeda estrangeira em contas em escudos ou vive-versa.
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
 
-Art. 5.º O regime estabelecido por este decreto-lei será aplicável a todas as províncias ultramarinas mediante portaria do Ministério do Ultramar, a publicar no Diário do Governo, ressalvados, porém, os casos especiais que devam continuar subordinados ao condicionalismo legal que vigorar na respectiva província.
+###### Artigo 5.º
 
-Art. 6.º As dúvidas que suscitar a aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e, tratando-se das províncias ultramarinas, por despacho do Ministro do Ultramar, ouvido o Ministro das Finanças.
+(Revogado.)
 
-Art. 7.º As transgressões das normas, dos princípios reguladores e das instruções a que respeitam as alíneas a) e c) do artigo 1.º e o artigo 2.º do presente diploma, bem como das normas para o comércio externo, publicadas no Diário do Governo, 1.ª série, de 6 de Fevereiro de 1948, e da determinação do Conselho de Ministros para o Comércio Externo publicada no Diário do Governo n.º 143, 1.ª série, desta data, ficam sujeitas ao disposto nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
 
-§ único. Incumbe ao Banco de Portugal participar à Inspecção-Geral de Crédito e Seguros as transgressões, referidas no corpo deste artigo, de que tiver conhecimento.
+###### Artigo 6.º
 
-Art. 8.º São revogados o [Decreto n.º 27769](https://diariodarepublica.pt/dr/detalhe/decreto/27769-1937-428643), de 23 de Junho de 1937, os Decretos-Leis n.os 30610, 38561, 38659 e 38759, respectivamente de 23 de Julho de 1940, 17 de Dezembro de 1951, 26 de Fevereiro e 21 de Maio de 1952, e ainda o [Decreto-Lei n.º 28088](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28088-1937-433827), de 18 de Outubro de 1937, mas este último apenas na parte em que as suas disposições forem incompatíveis com as do presente diploma.
+(Revogado.)
 
-Art. 9.º Os processos de transgressão instaurados nos termos do artigo 5.º do [Decreto n.º 27769](https://diariodarepublica.pt/dr/detalhe/decreto/27769-1937-428643), de 23 de Junho de 1937, ainda que em execução, serão arquivados.
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
+
+###### Artigo 7.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), publicado em 1962-11-17.
+
+###### Artigo 8.º
+
+São revogados o [Decreto n.º 27769](https://diariodarepublica.pt/dr/detalhe/decreto/27769-1937-428643), de 23 de Junho de 1937, os Decretos-Leis n.os 30610, 38561, 38659 e 38759, respectivamente de 23 de Julho de 1940, 17 de Dezembro de 1951, 26 de Fevereiro e 21 de Maio de 1952, e ainda o [Decreto-Lei n.º 28088](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28088-1937-433827), de 18 de Outubro de 1937, mas este último apenas na parte em que as suas disposições forem incompatíveis com as do presente diploma.
+
+###### Artigo 9.º
+
+Os processos de transgressão instaurados nos termos do artigo 5.º do [Decreto n.º 27769](https://diariodarepublica.pt/dr/detalhe/decreto/27769-1937-428643), de 23 de Junho de 1937, ainda que em execução, serão arquivados.
 
 Publique-se e cumpra-se como nele se contém.
 

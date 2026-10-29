@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603207:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "303fa20de6684a6e",
+    "e2282f7c967aff53",
+    "b2712b5c81ecf9d4",
+    "25303459bdccba66",
+    "deac9e97c39bf0f9",
+    "0cd18946c49e146b",
+    "a4d46dff364e79be",
+    "9547a49ef31c4b73",
+    "95ef1400e5ec6fa0",
+    "2804b7a4d41d59f9",
+    "8052485c2fe15899",
+    "f4c80872f1b85951",
+    "c9ee4d00ee7571d1",
+    "48936ed6486dcf89",
+    "0f5fe1c93c62070c",
+    "99805c3c28728338",
+    "10a036c13afdfcc0"
+   ]
+  },
+  {
+   "date": "2010-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489214:por",
+     "title": "Decreto-Lei n.º 218/2009",
+     "published": "2009-09-07",
+     "dre_path": "/dr/detalhe/decreto-lei/218-2009-489214"
+    },
+    {
+     "id": "pt:dre:622293:por",
+     "title": "Decreto-Lei n.º 1-A/2010",
+     "published": "2010-01-04",
+     "dre_path": "/dr/detalhe/decreto-lei/1-a-2010-622293"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "303fa20de6684a6e",
+    "e2282f7c967aff53",
+    "b2712b5c81ecf9d4",
+    "25303459bdccba66",
+    "deac9e97c39bf0f9",
+    "e3b01ffb1dcd8a91",
+    "a4d46dff364e79be",
+    "9547a49ef31c4b73",
+    "95ef1400e5ec6fa0",
+    "d019c7d296ca7049",
+    "8052485c2fe15899",
+    "f4c80872f1b85951",
+    "c9ee4d00ee7571d1",
+    "48936ed6486dcf89",
+    "0f5fe1c93c62070c",
+    "99805c3c28728338",
+    "10a036c13afdfcc0"
+   ]
+  }
+ ],
+ "fragments": {
+  "303fa20de6684a6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Março\n\nO Governo considera que a estratégia para o desenvolvimento do sector agrícola e pecuário, do sector florestal e das agro-indústrias depende, necessariamente, da sua sustentabilidade a longo prazo e reconhece que a importância dos mesmos em Portugal ultrapassa, em muito, a sua expressão económica, nomeadamente quando se consideram as vertentes de salvaguarda do património natural e cultural, de preservação do meio ambiente, de coesão social das populações e de segurança alimentar.\n\nAs empresas dos sectores em questão, no seu conjunto, assumem-se como um empregador de relevo no contexto da economia nacional, contribuindo para a manutenção das comunidades locais que apresentam uma forte dependência daquelas actividades, pelo que o Governo reconhece que é fundamental para a estratégia de desenvolvimento dos sectores implicados a estabilidade social e a qualidade de vida dos profissionais e das suas famílias, em especial daquelas comunidades que mais dependem da vitalidade daqueles sectores.\n\nEntende o Governo adoptar, no território continental de Portugal, iniciativas de apoio que estimulem o investimento privado das empresas que desenvolvem a sua actividade no sector agrícola e pecuário, no sector florestal e nas agro-indústrias, visando a promoção do reforço da sua competitividade e o fomento das exportações, incentivando assim a manutenção e criação de emprego, fortalecendo a protecção social, criando, para o efeito, uma linha de crédito, com juros bonificados, que permita disponibilizar a custos reduzidos os meios financeiros necessários à dinamização da actividade económica destas empresas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e2282f7c967aff53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria uma linha de crédito, com juros bonificados, dirigida às empresas do sector agrícola e pecuário e do sector florestal e às agro-indústrias, que tenham domicílio profissional ou sede social em território continental."
+  },
+  "b2712b5c81ecf9d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A linha de crédito criada pelo presente decreto-lei permite disponibilizar meios para financiar operações destinadas à realização de investimento em activos fixos corpóreos ou incorpóreos e reforçar o fundo de maneio necessário ao desenvolvimento da actividade e liquidar dívidas junto de instituições de crédito, ou de fornecedores de factores de produção, incluindo bens de investimento, que tenham sido contraídas no exercício da actividade.\n\n2 - Não são elegíveis operações que se destinem à reestruturação financeira de empresas em dificuldades, ao financiamento de investimentos apoiados no âmbito do Quadro de Referência Estratégico Nacional para 2007-2013 (QREN) ou outros investimentos em curso, com financiamento nacional ou comunitário.\n\n3 - Excluem-se, também, operações que se destinem a liquidar ou a reestruturar créditos concedidos ao abrigo do Decreto-Lei n.º 190/2008, de 25 de Setembro.\n\n4 - A linha de crédito é criada em conformidade com o regime comunitário de auxílios de minimis, designadamente com as disposições constantes no Regulamento (CE) n.º [1535/2007](http://data.europa.eu/eli/reg/2007/1535/oj?locale=pt), da Comissão, de 20 de Dezembro, relativo à aplicação dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) aos auxílios de minimis no sector da produção de produtos agrícolas, e no Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro, relativo à aplicação dos artigos 87.º e 88.º do Tratado aos auxílios de minimis, que abrange as empresas de transformação e comercialização de produtos agrícolas."
+  },
+  "25303459bdccba66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nA presente linha de crédito tem como objectivo dinamizar a actividade económica das empresas do sector agrícola e pecuário e do sector florestal e das agro-indústrias, visando a promoção do reforço da sua competitividade e da sua capacidade de exportação."
+  },
+  "deac9e97c39bf0f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Beneficiários e condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários e condições de acesso\n\nSão beneficiários da presente linha de crédito as pequenas e médias empresas (PME), na acepção da Recomendação da Comissão de 6 de Maio de 2003, independentemente da sua forma jurídica, que operem no sector agrícola e pecuário, no sector florestal e nas agro-indústrias, quando satisfaçam as seguintes condições de acesso:\n\na) Tenham domicílio profissional ou sede social em território continental;\n\nb) Estejam em actividade efectiva, num dos sectores referidos;\n\nc) Estejam registadas e licenciadas para o exercício das actividades;\n\nd) Tenham a situação regularizada relativamente a impostos e a contribuições para a segurança social;\n\ne) Não tenham beneficiado de outras ajudas públicas para as despesas a financiar na presente linha de crédito."
+  },
+  "0cd18946c49e146b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Montante global de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante global de crédito\n\nA linha de crédito disponibiliza um montante máximo de crédito de (euro) 175 000 000, repartido do seguinte modo:\n\na) Sector agrícola e pecuário - (euro) 75 000 000, dirigidos às pequenas e médias empresas de produção agrícola e pecuária;\n\nb) Sector florestal e agro-indústrias - (euro) 100 000 000, dirigidos às pequenas e médias empresas do sector florestal e de transformação e comercialização de produtos agrícolas e pecuários."
+  },
+  "a4d46dff364e79be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Montante global de auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Montante global de auxílio\n\n1 - O montante máximo acumulado dos auxílios de minimis concedidos às empresas do sector da produção de produtos agrícolas, expresso em termos de equivalente subvenção bruto, não pode ultrapassar, durante qualquer período de três exercícios financeiros, o limite fixado para Portugal no regime de minimis deste sector, designadamente no Regulamento (CE) n.º [1535/2007](http://data.europa.eu/eli/reg/2007/1535/oj?locale=pt), da Comissão, de 20 de Dezembro.\n\n2 - O montante global do auxílio a conceder no âmbito do presente decreto-lei é cumulável com quaisquer outros auxílios de minimis enquadrados no regulamento comunitário referido no número anterior, não podendo exceder de forma acumulada, durante o período de três exercícios financeiros, o limite referido."
+  },
+  "9547a49ef31c4b73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Forma e montante individual de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma e montante individual de crédito\n\n1 - O crédito é concedido, sob a forma de empréstimo reembolsável, pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n2 - São estabelecidos os seguintes valores de crédito máximo por empresa:\n\na) Sector agrícola e pecuário - até (euro) 200 000, aplicável às pequenas e médias empresas de produção de produtos agrícolas e pecuários;\n\nb) Sector florestal e agro-indústrias - até (euro) 1 500 000, aplicável às pequenas e médias empresas do sector florestal e de transformação e comercialização de produtos agrícolas e pecuários.\n\n3 - Os valores de crédito máximo, estabelecidos no número anterior, são ajustados para cada empresa, em função das condições financeiras dos empréstimos, tendo em conta o limite de minimis disponível."
+  },
+  "95ef1400e5ec6fa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Forma e montante individual do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma e montante individual do auxílio\n\n1 - O auxílio é concedido sob a forma de bonificação de juros, atribuída às operações de crédito enquadradas na linha de crédito criada pelo presente decreto-lei.\n\n2 - O montante individual a atribuir a cada pequena e média empresas, expresso em termos de equivalente subvenção bruto, não pode ultrapassar, durante qualquer período de três exercícios financeiros, os limites fixados no regime de minimis em que se enquadra cada uma das empresas abrangidas, designadamente:\n\na) Empresas do sector agrícola e pecuário - (euro) 7500, de acordo com o Regulamento (CE) n.º [1535/2007](http://data.europa.eu/eli/reg/2007/1535/oj?locale=pt), da Comissão, de 20 de Dezembro;\n\nb) Empresas do sector florestal e agro-indústrias - (euro) 200 000, de acordo com o Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro.\n\n3 - O valor do auxílio a conceder, por empresa, no âmbito do presente decreto-lei é cumulável com quaisquer outros auxílios de minimis, enquadrados nos regulamentos comunitários anteriormente referidos, não podendo exceder de forma acumulada, durante qualquer período de três exercícios financeiros, os limites referidos no número anterior."
+  },
+  "2804b7a4d41d59f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos, a contar da data da celebração do contrato e amortizáveis anualmente, em prestações de capital de igual montante, vencendo-se a primeira amortização no máximo dois anos após a data prevista para a primeira utilização de crédito, permitindo um ano de carência de capital.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de 12 meses após a data de celebração do contrato, podendo ser efectuadas até quatro utilizações por contrato.\n\n3 - Os empréstimos vencem juros à taxa contratual, calculados, dia a dia, sobre o capital em dívida, e os juros são postecipados e pagos anualmente.\n\n4 - A taxa de juro nominal máxima das operações é fixada no protocolo a celebrar entre o IFAP, I. P., e as instituições de crédito e é diferenciada de acordo com a análise de risco da empresa.\n\n5 - Os critérios de análise de risco, para efeitos de determinação da taxa de juro nominal máxima a aplicar às operações enquadradas na presente linha de crédito, são fixados e divulgados em circular do IFAP, I. P., disponibilizada no sítio da Internet deste organismo.\n\n6 - Para efeitos de determinação da taxa de juro nominal, as operações de concentração empresarial são enquadradas no escalão de bonificação máximo e as empresas que não possuam contabilidade organizada são enquadradas no escalão de risco mais elevado.\n\n7 - Em cada período de contagem de juros e ao longo da duração do empréstimo, são atribuídas as seguintes bonificações da taxa de juros:\n\na) Operações de concentração - 100 % de bonificação;\n\nb) Operações de risco baixo - 90 % de bonificação;\n\nc) Operações de risco moderado - 85 % de bonificação;\n\nd) Operações de risco elevado - 80 % de bonificação.\n\n8 - As percentagens anteriormente fixadas incidem sobre a taxa de referência para cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor no início de cada período de contagem de juros, excepto se a taxa contratual da operação for inferior à taxa de referência, caso em que aquela percentagem é aplicada sobre a taxa contratual."
+  },
+  "8052485c2fe15899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Formalização das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formalização das operações\n\n1 - As candidaturas são apresentadas pelas empresas, junto das instituições de crédito que celebrem protocolo com o IFAP, I. P.\n\n2 - As empresas não podem apresentar mais de uma candidatura ao abrigo da linha de crédito criada pelo presente decreto-lei, nem fazê-lo simultaneamente em várias instituições de crédito.\n\n3 - As candidaturas são analisadas pelas instituições de crédito, que remetem ao IFAP, I. P., apenas aquelas que sejam objecto de decisão favorável, para efeitos de validação e enquadramento na linha de crédito.\n\n4 - Compete ao IFAP, I. P., segundo ordem de data de recepção, decidir o enquadramento das candidaturas na linha de crédito, sendo que as instituições de crédito contratam as operações, após enquadramento das candidaturas pelo IFAP, I. P.\n\n5 - Por razões devidamente justificadas, pode a instituição de crédito ou a empresa desistir da contratação da operação devendo este facto ser comunicado, por escrito, pela instituição de crédito ao IFAP, I. P., para efeitos de libertação do limite de crédito e do auxílio de minimis aprovado.\n\n6 - Os prazos para apresentação, análise, decisão, enquadramento das candidaturas e celebração dos contratos são fixados e divulgados através de circular do IFAP, I. P, disponibilizada no sítio da Internet deste organismo."
+  },
+  "f4c80872f1b85951": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pagamento das bonificações de juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamento das bonificações de juros\n\n1 - A bonificação de juros é processada enquanto se verificarem as condições de acesso definidas nos termos do artigo 4.º, bem como o pontual cumprimento das obrigações do mutuário.\n\n2 - As instituições de crédito devem fornecer ao IFAP, I. P., todas as informações por este solicitadas relativas aos empréstimos objecto de bonificação."
+  },
+  "c9ee4d00ee7571d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dever de informação\n\n1 - O IFAP, I. P., deve informar por escrito os beneficiários do montante do auxílio, expresso em equivalente de subvenção bruto e do seu carácter de minimis.\n\n2 - As empresas devem apresentar cópia das contas dos três últimos exercícios financeiros (relatório e contas - balanço, demonstração de resultados e respectivos anexos e declaração de rendimentos - IRS ou IRC) ou o código de acesso às respectivas certidões de contas anuais, das quais são extraídas as informações necessárias à análise de risco.\n\n3 - Os beneficiários dos auxílios devem informar o IFAP, I. P., sobre o recebimento de quaisquer outros auxílios de minimis, concedidos ao abrigo do Regulamento (CE) n.º [1535/2007](http://data.europa.eu/eli/reg/2007/1535/oj?locale=pt), da Comissão, de 20 de Dezembro, ou do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), da Comissão, de 15 de Dezembro."
+  },
+  "48936ed6486dcf89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Incumprimento pelo mutuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incumprimento pelo mutuário\n\n1 - O incumprimento de qualquer das obrigações do mutuário deve ser prontamente comunicado pela instituição de crédito ao IFAP, I. P.\n\n2 - O incumprimento previsto no número anterior determina a imediata cessação do pagamento das bonificações, bem como a recuperação das que tiverem sido indevidamente processadas, sem prejuízo da responsabilidade criminal em que possa incorrer o mutuário."
+  },
+  "0f5fe1c93c62070c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento e controlo\n\nNo âmbito da linha de crédito criada pelo presente decreto-lei, compete ao IFAP, I. P.:\n\na) Estabelecer as normas técnicas e financeiras complementares que se revelem necessárias para garantir o cumprimento do disposto no presente decreto-lei;\n\nb) Assegurar a observância do regime comunitário de auxílios de minimis;\n\nc) Articular a assinatura do protocolo com as instituições de crédito;\n\nd) Analisar as candidaturas, tendo em vista o seu enquadramento na linha de crédito criada pelo presente decreto-lei e a aferição do montante do empréstimo a conceder;\n\ne) Efectuar o processamento e pagamento das bonificações de juros;\n\nf) Acompanhar e fiscalizar as condições de acesso e permanência na linha de crédito."
+  },
+  "99805c3c28728338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Financiamento\n\nA cobertura orçamental dos encargos financeiros com a linha de crédito criada pelo presente decreto-lei é assegurada por verbas do Programa de Investimentos e Despesas de Desenvolvimento da Administração Central (PIDDAC), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sendo da responsabilidade do IFAP, I. P."
+  },
+  "10a036c13afdfcc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Jaime de Jesus Lopes Silva.\n\nPromulgado em 23 de Março de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Março de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "e3b01ffb1dcd8a91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Montante global de crédito",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 1-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2010-622293), publicado em 2010-01-04."
+   ],
+   "markdown": "###### Artigo 5.º — Montante global de crédito\n\nA linha de crédito disponibiliza um montante máximo de crédito de (euro) 150 000 000, sendo (euro) 125 000 000 destinados ao sector florestal e agro-indústrias e (euro) 25 000 000 destinados ao sector agrícola e pecuário, podendo a repartição destes montantes, entre os sectores referidos, ser alterada por despacho do membro do Governo responsável pela área da agricultura.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 1-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2010-622293), publicado em 2010-01-04."
+  },
+  "d019c7d296ca7049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Condições financeiras dos empréstimos",
+   "in_force_from": "2010-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 218/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2009-489214), publicado em 2009-09-07."
+   ],
+   "markdown": "###### Artigo 9.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos são concedidos pelo prazo máximo de quatro anos, a contar da data da celebração do contrato e amortizáveis anualmente, em prestações de capital de igual montante, vencendo-se a primeira amortização no máximo dois anos após a data prevista para a primeira utilização de crédito, permitindo um ano de carência de capital.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de 12 meses após a data de celebração do contrato, podendo ser efectuadas até quatro utilizações por contrato.\n\n3 - Os empréstimos vencem juros à taxa contratual, calculados, dia a dia, sobre o capital em dívida, e os juros são postecipados e pagos anualmente.\n\n4 - A taxa de juro nominal máxima das operações é fixada no protocolo a celebrar entre o IFAP, I. P., e as instituições de crédito e é diferenciada de acordo com a análise de risco da empresa.\n\n5 - Os critérios de análise de risco, para efeitos de determinação da taxa de juro nominal máxima a aplicar às operações enquadradas na presente linha de crédito, são fixados e divulgados em circular do IFAP, I. P., disponibilizada no sítio da Internet deste organismo.\n\n6 - Para efeitos de determinação da taxa de juro nominal, as operações de concentração empresarial são enquadradas no escalão de bonificação máximo e as empresas que não possuam contabilidade organizada são enquadradas no escalão de risco mais elevado.\n\n7 - Em cada período de contagem de juros e ao longo da duração do empréstimo, são atribuídas as seguintes bonificações da taxa de juros:\n\na) Operações de concentração - 100 % de bonificação;\n\nb) Operações de risco baixo - 90 % de bonificação;\n\nc) Operações de risco moderado - 85 % de bonificação;\n\nd) Operações de risco elevado - 80 % de bonificação.\n\n8 - As percentagens anteriormente fixadas incidem sobre a taxa de referência para cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor no início de cada período de contagem de juros, excepto se a taxa contratual da operação for inferior à taxa de referência, caso em que aquela percentagem é aplicada sobre a taxa contratual.\n\n9 - Na situação em que os empréstimos referidos no n.º 1 sejam concedidos a beneficiários que desenvolvem actividades de produção e transformação do leite, o prazo máximo do empréstimo é de seis anos, a contar da data da celebração do contrato, e amortizável anualmente, em prestações de capital de igual montante, vencendo-se a primeira amortização, no máximo, três anos após a data prevista para a primeira utilização de crédito, permitindo dois anos de carência de capital.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 218/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2009-489214), publicado em 2009-09-07."
+  }
+ }
+}

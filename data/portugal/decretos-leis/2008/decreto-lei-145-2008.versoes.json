@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454779:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ec8192a2a354622",
+    "c4ffc115259347b2",
+    "d53e13b001fdcf5c",
+    "f9cebfa34aa23581",
+    "231d14d94ed1238c"
+   ]
+  },
+  {
+   "date": "2014-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572451:por",
+     "title": "Decreto-Lei n.º 25/2014",
+     "published": "2014-02-14",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2014-572451"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "7ec8192a2a354622",
+    "c4ffc115259347b2",
+    "08707fda3571f143",
+    "f9cebfa34aa23581",
+    "231d14d94ed1238c"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ec8192a2a354622": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Julho\n\nO regime jurídico do contrato de transporte rodoviário nacional de mercadorias encontra-se estabelecido no [Decreto-Lei n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2003-483392), de 4 de Outubro, que visa regular todos os contratos de transporte celebrados entre o transportador e o expedidor em que a deslocação de mercadorias se efectue por estradas entre locais situados no território nacional, exceptuando-se apenas os envios postais, cuja natureza específica determinou um enquadramento jurídico distinto.\n\nO referido decreto-lei fixa as regras em que o contrato de transporte é realizado, designadamente a forma que assume o contrato de transporte bem como o seu conteúdo - guia de transporte - os direitos do expedidor, aceitação da mercadorias, o direito de retenção, entre outros aspectos.\n\nA recente evolução da economia internacional bem como os últimos aumentos do preço do petróleo têm vindo a colocar dificuldades financeiras aos operadores de transporte rodoviário, em geral, e aos operadores de transporte de mercadorias, em especial, tendo em conta que um dos factores que mais influencia o preço do transporte é o combustível.\n\nAssim, no âmbito da reestruturação do sector do transporte rodoviário de mercadorias, iniciada com a recente revisão do regime jurídico aplicável ao licenciamento e acesso à actividade, operada pelo [Decreto-Lei n.º 257/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2007-636181), de 16 de Julho, torna-se necessário tomar medidas que regulem o contrato de transporte de modo a introduzir mecanismos que promovam a revisão dos preços do transporte face à variação do custo do combustível.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "c4ffc115259347b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aditado o artigo 4.º-A ao [Decreto-Lei n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2003-483392), de 4 de Outubro, com a seguinte redacção:\n\n«Artigo 4.º-A\n\nRemuneração do contrato de transporte\n\n1 - O preço do transporte é calculado com base, pelo menos, nos seguintes factores:\n\na) Prestação a realizar pelo transportador;\n\nb) Tempo em que os veículos, os serviços e a mão-de-obra estão à disposição da operação de carga e descarga;\n\nc) Tempo necessário para a realização do transporte, em condições compatíveis com as regras aplicáveis em termos de segurança;\n\nd) Preço de referência do combustível e tipo de combustível necessário à realização da operação de transporte.\n\n2 - Caso o contrato de transporte revista a forma escrita, este deve mencionar expressamente o preço de referência do combustível e o tipo de combustível utilizado para estabelecer o preço final do transporte.\n\n3 - Na ausência de contrato escrito, o preço de referência do combustível é determinado com referência ao preço médio de venda do combustível ao público divulgado no sítio da Direcção-Geral de Energia e Geologia dos dias imediatamente anteriores à celebração do contrato e à realização de cada operação de transporte.\n\n4 - Na ausência de contrato escrito, a guia de transporte menciona expressamente o preço de referência do combustível, nos termos do número anterior, bem como a factura menciona expressamente o custo efectivo que o combustível representou na operação de transporte.\n\n5 - O preço do transporte é revisto sempre que se verifique uma alteração de amplitude superior a 5 % entre, consoante o caso:\n\na) O preço de referência do combustível do dia imediatamente anterior à celebração do contrato de transporte e a média dos preços de referência do combustível no período compreendido entre o dia imediatamente anterior à celebração do contrato e o dia imediatamente anterior à realização da operação de transporte, caso o objecto do contrato respeite a uma única operação de transporte;\n\nb) O preço de referência do combustível do dia imediatamente anterior a cada operação de transporte e a média dos preços de referência do combustível no período compreendido entre o dia imediatamente anterior a cada operação de transporte e o dia imediatamente anterior à operação de transporte antecedente que tenha originado uma actualização do preço do transporte ou, caso não tenha ocorrido qualquer actualização ou se trate da primeira operação de transporte, o dia imediatamente anterior à celebração do contrato, caso o objecto do contrato respeite a várias operações de transporte.\n\n6 - O disposto nos n.os 2, 3, 4 e 5 tem carácter imperativo, quer para o transportador quer para o expedidor, não podendo ser afastado por via contratual.\n\n7 - O pagamento do serviço de transporte pelo expedidor deve ser realizado no prazo máximo de 30 dias, salvo se prazo superior não resultar de disposição contratual, após a apresentação da respectiva factura pelo transportador.\n\n8 - O incumprimento do disposto nos n.os 2, 3, 4, 5 e 7 constitui contra-ordenação punível com uma coima de (euro) 1250 a (euro) 3740 e de (euro) 5000 a (euro) 15 000, consoante se trate de pessoa singular ou colectiva.\n\n9 - Ao procedimento contra-ordenacional previsto no número anterior aplicam-se as disposições constantes do capítulo iv do [Decreto-Lei n.º 257/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2007-636181), de 16 de Julho, sendo competente para o processamento das contra-ordenações o Instituto da Mobilidade e dos Transportes Terrestres, I. P., e para aplicação das coimas o presidente do respectivo conselho directivo.»"
+  },
+  "d53e13b001fdcf5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extensão\n\nO artigo 4.º-A do [Decreto-Lei n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2003-483392), de 4 de Outubro, na redacção do presente decreto-lei, aplica-se aos contratos de prestação de serviços em veículos de pronto-socorro."
+  },
+  "f9cebfa34aa23581": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nO presente decreto-lei aplica-se aos contratos de transporte em execução."
+  },
+  "231d14d94ed1238c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.\n\nPromulgado em 16 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de Julho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "08707fda3571f143": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Extensão",
+   "in_force_from": "2014-02-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), publicado em 2014-02-14."
+   ],
+   "markdown": "###### Artigo 2.º — Extensão\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 25/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2014-572451), publicado em 2014-02-14."
+  }
+ }
+}

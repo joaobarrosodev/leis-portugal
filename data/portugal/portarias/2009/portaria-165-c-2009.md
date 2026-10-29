@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-06-05'
+version_history:
+  file: portaria-165-c-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-05'
+    amending: pt:dre:622373:por
+    amending_title: Portaria n.º 331-C/2009; Portaria n.º 608/2009
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/165-c/2009/02/13/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 331-C/2009; Portaria
+    n.º 608/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-165-c-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,19 +191,25 @@ As ajudas são concedidas sob a forma de incentivo não reembolsável no valor d
 
 ###### Artigo 6.º — Apresentação das candidaturas
 
-As candidaturas serão apresentadas nas direcções regionais de agricultura e pescas (DRAP) até ao dia 31 de Março de 2009, devendo ser acompanhadas de todos os elementos indicados no formulário de candidatura.
+As candidaturas serão apresentadas nas direcções regionais de agricultura e pescas (DRAP) até ao dia 15 de Abril de 2009, devendo ser acompanhadas de todos os elementos indicados no formulário de candidatura.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-C/2009](https://diariodarepublica.pt/dr/detalhe/portaria/331-c-2009-622373), publicado em 2009-03-30.
 
 ###### Artigo 7.º — Selecção e decisão das candidaturas
 
 1 - As candidaturas são pontuadas de acordo com a percentagem de capacidade potencial de substituição da energia eléctrica consumida na exploração.
 
-2 - As candidaturas devem ser aprovadas até à data de 15 de Abril de 2009.
+2 - As candidaturas devem ser aprovadas até à data de 30 de Abril de 2009.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 331-C/2009](https://diariodarepublica.pt/dr/detalhe/portaria/331-c-2009-622373), publicado em 2009-03-30.
 
 ###### Artigo 8.º — Prazo para apresentação de pedidos de pagamento e pagamento
 
-1 - Os pedidos de pagamento das candidaturas aprovadas devem ser apresentados nas DRAPs até à data de 31 de Maio de 2009.
+1 - Os pedidos de pagamento das candidaturas aprovadas devem ser apresentados nas DRAP até à data de 12 de Junho 2009.
 
 2 - O Instituto de Financiamento da Agricultura e Pescas (IFAP) deverá proceder ao pagamento dos pedidos até 30 de Junho de 2009.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 608/2009](https://diariodarepublica.pt/dr/detalhe/portaria/608-2009-494235), publicado em 2009-06-04.
 
 ###### Artigo 9.º — Entrada em vigor
 

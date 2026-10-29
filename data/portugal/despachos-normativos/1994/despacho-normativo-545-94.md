@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-08'
+version_history:
+  file: despacho-normativo-545-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-08'
+    amending: pt:dre:209002:por
+    amending_title: Despacho Normativo n.º 24/98
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/545/1994/07/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 24/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-545-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,6 +203,8 @@ Apoio à certificação e à calibração;
 
 Apoio à implementação de sistemas de gestão pela qualidade total;
 
+Apoio à certificação no domínio do ambiente, ao registo no EMAS e à atribuição do rótulo ecológico a produtos;
+
 f) Regime de Apoio à Utilização do Sistema de Propriedade Industrial;
 
 g) Regime de Apoio à Adesão ao Mercado de Capitais;
@@ -203,6 +220,8 @@ i) Regime de Apoio à Cooperação Interempresas.
 2 - A regulamentação dos regimes de apoio referidos no número anterior será aprovada por despacho do Ministro da Indústria e Energia ou, quando aplicável, por despacho conjunto.
 
 3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial.
+
+> Alterado pelo/a [Despacho Normativo n.º 24/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-1998-209002), publicado em 1998-04-03.
 
 ###### Artigo 3.º — Entidades beneficiárias
 

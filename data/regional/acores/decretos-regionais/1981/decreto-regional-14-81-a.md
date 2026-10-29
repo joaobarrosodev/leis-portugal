@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-25'
+version_history:
+  file: decreto-regional-14-81-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-25'
+    amending: pt:dre:692433:por
+    amending_title: Decreto Legislativo Regional n.º 29/2003/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/2003/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regionais/1981/decreto-regional-14-81-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ Critérios para elevação de freguesias a vilas
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º Na Região Autónoma dos Açores, a atribuição da categoria de vila a freguesia da Região obedecerá, cumulativamente, aos seguintes requisitos:
+###### Artigo 1.º
+
+Na Região Autónoma dos Açores, a atribuição da categoria de vila a freguesia da Região obedecerá, cumulativamente, aos seguintes requisitos:
 
 a) Terem uma população não inferior a 2000 habitantes;
 
@@ -116,9 +133,15 @@ d) Possuírem desenvolvimento comercial, industrial e cultural manifestamente su
 
 e) Disporem do indispensável saneamento básico.
 
-Art. 2.º Independentemente de se verificarem os requisitos do artigo anterior, têm a categoria de vila todas as freguesias que forem sedes de concelho.
+###### Artigo 2.º
 
-Art. 3.º - 1 - Compete à Assembleia Regional atribuir, por decreto regional, a categoria de vila a freguesias da Região.
+Independentemente de se verificarem os requisitos do artigo anterior, têm a categoria de vila todas as freguesias que sejam ou tenham sido sede de concelho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 29/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-692433), publicado em 2003-06-24.
+
+###### Artigo 3.º
+
+1 - Compete à Assembleia Regional atribuir, por decreto regional, a categoria de vila a freguesias da Região.
 
 2 - Nenhum projecto ou proposta de elevação de freguesia a vila poderá ser admitido sem que seja instruído com os elementos comprovativos dos requisitos exigidos pelo artigo 1.º e sem incluir a delimitação territorial.
 

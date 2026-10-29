@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-08'
+version_history:
+  file: decreto-regulamentar-32-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-08'
+    amending: pt:dre:661915:por
+    amending_title: Decreto Regulamentar n.º 40/97
+    changes:
+    - Revoga Artigo 59.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
+    - Revoga Artigo 62.º
+    - Revoga Artigo 63.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 40/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1989/decreto-regulamentar-32-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -944,71 +963,33 @@ A AJ é dirigida por um auditor jurídico designado nos termos da Lei Orgânica 
 
 ###### Artigo 59.º — Natureza e âmbito
 
-O Conselho de Ciências e Tecnologia de Defesa (CCTD) é o órgão de natureza consultiva e coordenadora para as actividades de investigação científica e desenvolvimento tecnológico no âmbito do Ministério da Defesa Nacional.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03.
 
 ###### Artigo 60.º — Atribuições
 
-Ao CCTD compete, no âmbito da defesa nacional:
+(Revogado.)
 
-a) Apoiar o Ministro na definição da política de investigação e desenvolvimento (I & D);
-
-b) Proceder ao levantamento das capacidades nacionais em recursos humanos, técnicos e financeiros na matéria referida na alínea anterior;
-
-c) Servir de interlocutor entre os serviços do Ministério da Defesa Nacional e as forças armadas, por um lado, e os órgãos do sistema científico nacional, designadamente a Junta Nacional de Investigação Científica e Tecnológica e a respectiva Comissão Coordenadora de Investigação-Defesa, por outro;
-
-d) Elaborar a proposta de plano de I & D a submeter ao Ministro da Defesa Nacional, desenvolvendo os programas de curto e médio prazo, bem como os programas de carácter mobilizador, de médio e longo prazo;
-
-e) Propor os critérios e formas de financiamento dos projectos aprovados e apoiar os serviços competentes na preparação do orçamento anual de I & D;
-
-f) Dar parecer sobre todos os projectos a integrar no plano de I & D;
-
-g) Coordenar as actividades e apoiar os programas e projectos aprovados, bem como proceder à sua periódica avaliação;
-
-h) Propor as necessárias acções de formação do pessoal investigador;
-
-i) Apoiar a Direcção-Geral de Armamento na selecção dos recursos humanos qualificados para representação portuguesa em órgãos internacionais;
-
-j) Realizar os estudos e dar os pareceres que venham a ser solicitados pelo Ministro.
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03.
 
 ###### Artigo 61.º — Constituição
 
-1 - O CCTD é constituído por um presidente e nove vogais.
+(Revogado.)
 
-2 - O presidente é nomeado pelo Ministro da Defesa Nacional, competindo-lhe, em especial:
-
-a) Convocar e dirigir as reuniões do Conselho;
-
-b) Dirigir e acompanhar as actividades programadas;
-
-c) Assegurar a ligação do CCTD com as entidades ligadas à I & D, em particular os órgãos do sistema científico nacional e as forças armadas;
-
-d) Coordenar a preparação dos programas e relatórios anuais das actividades do Conselho;
-
-e) Representar o Conselho em todas as suas actividades.
-
-3 - Os vogais são nomeados pelo Ministro da Defesa Nacional, em representação das seguintes entidades:
-
-a) Direcção-Geral de Política de Defesa Nacional;
-
-b) Direcção-Geral de Pessoal e Infra-Estruturas (dois);
-
-c) Direcção-Geral de Armamento (dois);
-
-d) Estado-Maior-General das Forças Armadas;
-
-e) Estado-Maior da Armada;
-
-f) Estado-Maior do Exército;
-
-g) Estado-Maior da Força Aérea.
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03.
 
 ###### Artigo 62.º — Funcionamento
 
-O CCTD funciona em sessões plenárias, podendo, em função das matérias, ser constituídas comissões especializadas.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03.
 
 ###### Artigo 63.º — Apoio técnico e administrativo
 
-O apoio técnico e administrativo ao CCTD será prestado pela Secretaria-Geral do Ministério.
+(Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03.
 
 ### CAPÍTULO VII — Pessoal
 

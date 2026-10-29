@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-25'
+version_history:
+  file: decreto-presidente-republica-23-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-25'
+    amending: pt:dre:175524:por
+    amending_title: Decreto do Presidente da República n.º 151/2012
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/23/2007/02/01/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:57:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Presidente da República
+    n.º 151/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2007/decreto-presidente-republica-23-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,9 +134,9 @@ O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da 
 
 ###### Artigo 2.º
 
-Ao texto da Convenção é formulada a seguinte reserva:
+(Revogado.)
 
-A isenção estabelecida na alínea b) da secção 19 não se aplica aos nacionais portugueses e aos residentes em território português que não adquiriram essa qualidade para o efeito do exercício da actividade.
+> Revogado pelo/a Artigo 2.º do/a [Decreto do Presidente da República n.º 151/2012](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/151-2012-175524), publicado em 2012-09-25.
 
 Assinado em 18 de Janeiro de 2007.
 

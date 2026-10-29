@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-01'
+version_history:
+  file: decreto-lei-230-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-01'
+    amending: pt:dre:689420:por
+    amending_title: Lei n.º 55-B/2004
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/230/2002/10/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:33:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 55-B/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-230-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,6 +178,10 @@ O Instituto Nacional de Intervenção e Garantia Agrícola (INGA) deverá submet
 1 - As funções cometidas ao INGA, para efeito da liquidação do património dos organismos identificados no artigo 1.º do presente diploma, cessam com o julgamento das contas de gerência finais pelo Tribunal de Contas.
 
 2 - As funções cometidas ao INGA, para efeitos da liquidação do património do Fundo de Abastecimento, cessam a partir da data referida no artigo anterior.
+
+3 - Com a cessação das funções do INGA para a liquidação do património dos organismos referidos nos números anteriores, transmite-se para a Direcção-Geral do Tesouro a competência para a emissão de certidões de dívida para cobrança de créditos daqueles organismos através do processo de execução fiscal, nos termos previstos no Código de Procedimento e de Processo Tributário.
+
+> Alterado pelo/a Artigo 61.º do/a [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), publicado em 2004-12-30.
 
 ###### Artigo 4.º — Património do Fundo de Abastecimento
 

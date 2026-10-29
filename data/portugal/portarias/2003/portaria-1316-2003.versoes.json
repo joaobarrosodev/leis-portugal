@@ -1,0 +1,286 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437422:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e763c80e0988d1f0",
+    "514463f1be3e7359",
+    "65e8851356daee16",
+    "16d216ebf0bd2178",
+    "cdc2ebd7d956fc15",
+    "0e6233fca00fe722",
+    "3aac3120ab2c02ea",
+    "5ecde29d68b25fe8",
+    "544e1bacf275fe43",
+    "be0a8bc3e833f65a",
+    "e195a14a599de9e6",
+    "fe6f7d15577ca589",
+    "9e1b777f840788c7",
+    "5b213159b41deb7d",
+    "8f5fcf9eb2f63aea",
+    "22738d833fc5e791",
+    "dffa2fc8edb6c9e5",
+    "61d66c2f7caf9499",
+    "3bde7bb0a49150ad",
+    "bcf20ebac9894e3f",
+    "e05eba9b0e29856f",
+    "a8db080879b7da00",
+    "27f41642f1c1b671",
+    "c28f0d50f980925e"
+   ]
+  },
+  {
+   "date": "2004-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261293:por",
+     "title": "Portaria n.º 583/2004",
+     "published": "2004-05-28",
+     "dre_path": "/dr/detalhe/portaria/583-2004-261293"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO DO APOIO SUSTENTADO ÀS ARTES DO ESPECTÁCULO DE CARÁCTER PROFISSIONAL::7.º"
+   ],
+   "fragments": [
+    "e763c80e0988d1f0",
+    "514463f1be3e7359",
+    "65e8851356daee16",
+    "16d216ebf0bd2178",
+    "cdc2ebd7d956fc15",
+    "0e6233fca00fe722",
+    "3aac3120ab2c02ea",
+    "5ecde29d68b25fe8",
+    "73e141abff982a43",
+    "be0a8bc3e833f65a",
+    "e195a14a599de9e6",
+    "fe6f7d15577ca589",
+    "9e1b777f840788c7",
+    "5b213159b41deb7d",
+    "8f5fcf9eb2f63aea",
+    "22738d833fc5e791",
+    "dffa2fc8edb6c9e5",
+    "61d66c2f7caf9499",
+    "3bde7bb0a49150ad",
+    "bcf20ebac9894e3f",
+    "e05eba9b0e29856f",
+    "a8db080879b7da00",
+    "27f41642f1c1b671",
+    "c28f0d50f980925e"
+   ]
+  }
+ ],
+ "fragments": {
+  "e763c80e0988d1f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro\n\nO [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, veio definir o novo regime de atribuição de apoios financeiros do Estado a entidades que, com carácter profissional, exercem actividades no domínio das artes do espectáculo, prevendo programas de apoio sustentado, com a duração de dois ou quatro anos, destinados a incentivar o desenvolvimento de actividades assentes em planos plurianuais.\n\nOs referidos programas contemplam a atribuição de apoios financeiros às actividades de criação, produção, difusão, interpretação e formação nas áreas do teatro, da dança e da música, incluindo projectos transdisciplinares e pluridisciplinares, bem como apoios financeiros à programação de salas, designadamente no âmbito do acolhimento de espectáculos, residências artísticas e espaços de trabalho, de experimentação e de formação.\n\nNeste âmbito, o regime instituído pelo [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, visando permitir aos agentes culturais uma maior estabilidade no desenvolvimento das suas actividades, prevê um sistema de atribuição de apoios descentralizado e de partilha de responsabilidades com as autarquias locais, através da constituição de comissões de apreciação das candidaturas a nível regional, bem como, igualmente a nível regional, de comissões técnicas de acompanhamento e avaliação dos contratos celebrados com as entidades beneficiárias importando agora estabelecer as regras e procedimentos aplicáveis à apresentação das candidaturas e ao funcionamento daquelas comissões.\n\nDe acordo com o artigo 22.º do [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, são ainda estabelecidas as condições de renovação, em 2004, de apoios anteriormente concedidos e cujos contratos terminem no final de 2003.\n\nAssim:\n\nAo abrigo do disposto nos artigos 4.º e 22.º do [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, manda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º São aprovadas as normas que regulamentam a atribuição de apoios financeiros sustentados às entidades que exerçam actividade de carácter profissional no âmbito do teatro, da dança e da música ou da programação de recintos e salas, constantes do anexo à presente portaria e da qual faz parte integrante.\n\n2.º No prazo de 30 dias úteis a contar da publicação do presente diploma, podem solicitar a renovação do apoio por mais um ano:\n\na) As entidades beneficiárias de apoios financeiros plurianuais, mediante a celebração de protocolos cujo vínculo contratual termine em 31 de Dezembro de 2003;\n\nb) As entidades beneficiárias de apoios financeiros ao abrigo do [Despacho Normativo n.º 23/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2000-281594), de 3 de Maio, ou que tenham sido beneficiárias da prorrogação a que se refere o n.º 4.º da [Portaria n.º 1056/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1056-2002-171684), de 20 de Agosto, e cujo vínculo contratual termine em 31 de Dezembro de 2003;\n\nc) As entidades beneficiárias de apoios a programas anuais e a festivais ao abrigo dos regulamentos aprovados pela [Portaria n.º 1056/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1056-2002-171684), desde que tenham sido objecto de apoio financeiro estatal por um período mínimo de cinco anos.\n\n3.º A solicitação de renovação deve ser acompanhada do plano de actividades e do orçamento para o ano seguinte, bem como de relatório detalhado da execução da actividade desenvolvida no corrente ano até à data de entrada em vigor do presente diploma.\n\n4.º A renovação é decidida pelo director do Instituto das Artes e formalizada por protocolo, mediante a avaliação das actividades desenvolvidas e a apreciação dos planos de actividades e orçamentos para o ano de 2004, devendo para o efeito solicitar aos delegados regionais da cultura parecer relativamente aos projectos desenvolvidos e a desenvolver nas respectivas áreas de influência, podendo haver lugar a alteração do montante de financiamento em função do plano de actividades e orçamento apresentados.\n\n5.º A entidade que obtenha a renovação do apoio para o ano de 2004 pode apresentar candidatura ao concurso para apoio a projectos pontuais no ano de 2004 para um projecto de acolhimento, de co-produção ou de internacionalização.\n\n6.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro da Cultura, José Manuel Amaral Lopes, Secretário de Estado Adjunto do Ministro da Cultura, em 10 de Novembro de 2003."
+  },
+  "514463f1be3e7359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO DO APOIO SUSTENTADO ÀS ARTES DO ESPECTÁCULO DE CARÁCTER PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO DO APOIO SUSTENTADO ÀS ARTES DO ESPECTÁCULO DE CARÁCTER PROFISSIONAL"
+  },
+  "65e8851356daee16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto regulamentar os apoios financeiros a atribuir no âmbito dos programas de apoio sustentado, criados pelo [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro.\n\n2 - Os programas de apoio sustentado, que se destinam a incentivar o desenvolvimento de actividades de carácter profissional nos domínios das artes do espectáculo assentes em planos plurianuais, contemplam as seguintes medidas:\n\na) Apoios financeiros às actividades de criação, produção, difusão, interpretação e formação nas áreas do teatro, da dança e da música, incluindo áreas transdisciplinares e pluridisciplinares;\n\nb) Apoios financeiros à programação de salas, designadamente ao acolhimento de espectáculos, a residências artísticas e a espaços de trabalho, de experimentação e de formação nas áreas referidas na alínea anterior.\n\n3 - Para o desenvolvimento das actividades referidas no número anterior são ainda concedidos apoios financeiros à aquisição de equipamentos móveis."
+  },
+  "16d216ebf0bd2178": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nOs apoios financeiros a conceder têm como objectivos:\n\n1) Na área do teatro:\n\na) Promover a criação, a divulgação e o desenvolvimento de obras da dramaturgia portuguesa;\n\nb) Promover a divulgação e o conhecimento das dramaturgias estrangeiras;\n\nc) Promover a actividade ou a formação dos criadores e dos intérpretes residentes em Portugal ou que aqui exerçam actividade;\n\nd) Promover o gosto pela fruição e prática artística do teatro, em especial nas crianças e jovens, nomeadamente estimulando relações com estabelecimentos de ensino, através dos seus professores e alunos;\n\n2) Na área da dança:\n\na) Promover a criação, a divulgação e o desenvolvimento da dança e da coreografia portuguesas;\n\nb) Promover a divulgação e o conhecimento de obras coreográficas estrangeiras;\n\nc) Fomentar a experimentação, difusão e valorização da dança;\n\nd) Promover a actividade ou a formação dos criadores e dos intérpretes residentes em Portugal ou que aqui exerçam actividade;\n\ne) Promover o gosto pela fruição e práticas artísticas da dança, em especial nas crianças e jovens, nomeadamente estimulando relações com estabelecimentos de ensino, através dos seus professores e alunos;\n\n3) Na área das actividades musicais:\n\na) Fomentar a criação e difusão de obras de compositores portugueses;\n\nb) Promover a actividade dos criadores e dos intérpretes residentes em Portugal ou que aqui exerçam actividade;\n\nc) Apoiar a difusão de música erudita e do jazz, bem como a produção portuguesa de óperas e sua circulação;\n\nd) Promover o gosto pela fruição e práticas artísticas da música, em especial nas crianças e jovens, nomeadamente estimulando relações com estabelecimentos de ensino, através dos seus professores e alunos;\n\n4) Na área das actividades transdisciplinares e pluridisciplinares:\n\na) Promover a experimentação e a inovação no domínio das artes do espectáculo;\n\nb) Desenvolver a intercepção e a confluência das diferentes disciplinas artísticas, no sentido de ensaiar o aparecimento de novas linguagens;\n\nc) Promover, numa perspectiva pluridisciplinar, o desenvolvimento de actividades artísticas, com utilização das diferentes disciplinas artísticas em regime complementar;\n\nd) Promover a actividade de intérpretes portugueses ou residentes em Portugal;\n\ne) Sensibilizar novos públicos."
+  },
+  "cdc2ebd7d956fc15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - Os apoios financeiros previstos no n.º 2 do artigo 1.º podem ser objecto de contratação, pelo período de dois ou quatro anos, com pessoas colectivas de direito privado, sediadas no território de Portugal continental, que tenham desenvolvido, com carácter contínuo e regular, as respectivas actividades artísticas durante um período mínimo de 10 anos e tenham sido objecto de apoio financeiro estatal por um período mínimo de cinco anos consecutivos.\n\n2 - Os apoios financeiros previstos no n.º 2 do artigo 1.º podem ainda ser objecto de contratação, pelo período de dois ou quatro anos, com pessoas colectivas de direito privado, sediadas no território de Portugal continental, em que os respectivos directores artísticos ou responsáveis pela programação demonstrem ter desenvolvido, com carácter regular e contínuo, as respectivas actividades durante um período mínimo de cinco anos.\n\n3 - Para efeitos do disposto no presente diploma, os directores artísticos ou responsáveis pela produção ou programação das entidades a que se referem os números anteriores só podem desenvolver essa actividade no âmbito de um único candidato."
+  },
+  "0e6233fca00fe722": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação de candidaturas\n\nPara efeitos de atribuição dos apoios previstos no artigo 1.º, as entidades referidas no artigo 3.º apresentam as candidaturas no Instituto das Artes ou nas delegações regionais de cultura, nos termos estabelecidos no artigo 5.º do [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), nos prazos fixados em anúncio a publicar pelo Instituto das Artes em dois jornais de expansão nacional e na página da Internet do Ministério da Cultura ou do Instituto das Artes, do qual consta, obrigatoriamente:\n\na) A indicação das entidades que podem candidatar-se, em conformidade com o disposto no artigo anterior;\n\nb) O montante global do apoio financeiro a conceder;\n\nc) O número máximo de projectos a apoiar;\n\nd) O prazo de apresentação das candidaturas, que não deve ser inferior a 30 dias úteis a contar da data da publicação do aviso;\n\ne) O local de entrega das candidaturas;\n\nf) Os elementos que integram as comissões de apreciação dos projectos, com excepção dos representantes das câmaras municipais."
+  },
+  "3aac3120ab2c02ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Instrução das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução das candidaturas\n\n1 - Cada candidato deve apresentar numa única candidatura o conjunto das actividades passíveis de apoio, nos termos das alíneas a) e b) do n.º 2 do artigo 1.º\n\n2 - As candidaturas devem conter:\n\na) A natureza jurídica do candidato, comprovada por cópia do documento de constituição e respectivos estatutos ou, se sujeito a registo comercial, cópia da certidão do registo comercial com todos os registos em vigor;\n\nb) A identificação e os currículos do director artístico, do responsável pela programação e do responsável pela gestão administrativa e financeira;\n\nc) O historial da actividade desenvolvida pelo candidato até à data da candidatura;\n\nd) O relatório de actividades e o relatório de contas do ano anterior, ou o relatório da última actividade apoiada pelo Ministério da Cultura, com a indicação das formas de utilização do financiamento;\n\ne) A exposição do programa a realizar, nomeadamente os objectivos artísticos e profissionais a alcançar e a estratégia de desenvolvimento;\n\nf) A programação detalhada, os autores, os intérpretes e a equipa técnica, bem como as datas e locais de apresentação previstos para o primeiro ano de execução do programa;\n\ng) O plano de promoção, que deve contemplar a divulgação do projecto junto dos agentes culturais, das autarquias locais, bem como de instituições particulares;\n\nh) O plano de itinerância, quando aplicável;\n\ni) O plano das actividades a desenvolver junto de estabelecimentos dos diferentes graus de ensino, dando particular atenção, sempre que possível, às virtualidades didácticas das actividades programadas, designadamente em articulação com os conteúdos programáticos dos currículos escolares;\n\nj) A previsão orçamental, com discriminação das despesas fixas e variáveis com pessoal, espaço, equipamentos, produção e administração, e com discriminação das receitas, nomeadamente bilheteira estimada, acordos de co-produção e ou acolhimento e vendas, bem como o montante do financiamento pretendido;\n\nl) Documentos comprovativos da existência ou da intenção de apoios ou financiamento do programa por outras entidades, designadamente autarquias locais e mecenas;\n\nm) Declaração, assinada pelo director artístico ou responsável pela programação, na qual indique que exerce essa actividade no âmbito de uma única entidade candidata;\n\nn) Declaração, assinada pelo representante legal da entidade candidata, de que a sua representada tem a sua situação regularizada perante a administração fiscal e a segurança social.\n\n3 - As candidaturas à medida de apoio à programação de salas devem ainda conter:\n\na) Descrição pormenorizada das instalações de que dispõem, apresentando as respectivas plantas e indicando a que título as ocupam;\n\nb) Apresentação dos objectivos que presidem à actividade da sala, designadamente a capacidade de acolhimento em residência de criação artística, a vocação para a co-produção nacional e internacional e a disponibilidade de espaços de trabalho para a cedência a terceiros, bem como as estratégias a desenvolver para a prossecução daqueles objectivos.\n\n4 - As candidaturas que incluam o pedido de apoio à aquisição de equipamentos devem ainda conter:\n\na) Listagem dos equipamentos móveis para que é solicitado o financiamento e a justificação da sua adequação ao programa apresentado;\n\nb) Orçamento detalhado relativo à alínea anterior acompanhado das respectivas facturas pró-forma.\n\n5 - As comissões de apreciação das candidaturas podem exigir aos candidatos a apresentação de outros documentos e informações consideradas necessárias à apreciação das respectivas candidaturas.\n\n6 - As candidaturas são obrigatoriamente apresentadas através de formulário específico aprovado pelo Instituto das Artes, redigidas em língua portuguesa."
+  },
+  "5ecde29d68b25fe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Verificação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Verificação das candidaturas\n\n1 - São liminarmente excluídas as candidaturas entregues extemporaneamente e que não sejam apresentadas através de formulário redigido em português e entregues em seis exemplares.\n\n2 - Os candidatos cujas candidaturas não estejam instruídas com os documentos a que se referem as alíneas a), d), e), m) e n) do n.º 1 do artigo anterior são obrigatoriamente notificados dos elementos em falta, devendo apresentá-los no prazo máximo de cinco dias úteis, findo o qual as candidaturas serão liminarmente excluídas.\n\n3 - As candidaturas cujos candidatos não reúnam as condições de acesso definidas no artigo 3.º são igualmente excluídas.\n\n4 - As decisões de exclusão a que se referem os números anteriores são da competência do delegado regional da cultura ou do director do Instituto das Artes."
+  },
+  "544e1bacf275fe43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Número de produções ou programações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número de produções ou programações\n\n1 - Os beneficiários dos apoios plurianuais a que se refere o n.º 2 do artigo 1.º devem realizar:\n\na) Na área do teatro, um mínimo de 3 produções ou criações por ano e apresentar um mínimo de 90 representações anuais;\n\nb) Na área da dança, um mínimo de 3 produções ou criações por ano, não podendo cada criação ter menos de 10 apresentações anuais;\n\nc) Na área da música, um mínimo de 3 programações por ano e 10 apresentações públicas por cada programação ou, no caso de produções de ópera, um mínimo de 2 produções por ano;\n\nd) Nas áreas transdisciplinares e pluridisciplinares, um mínimo de 3 criações por ano, não podendo cada criação ter menos de 10 apresentações anuais.\n\n2 - O número de produções ou programações referido no número anterior pode ser alterado a requerimento dos beneficiários, quando comprovadamente demonstrem que se verificam novas oportunidades de itinerância ou quando demonstrem que a afluência do público justifica o prolongamento das apresentações públicas de uma produção ou programação em detrimento de apresentação de uma nova produção ou programação."
+  },
+  "be0a8bc3e833f65a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissões de apreciação\n\n1 - A apreciação e selecção das candidaturas é efectuada por uma comissão constituída por:\n\na) O delegado regional da cultura ou um representante do Instituto das Artes, que preside;\n\nb) Representantes das câmaras municipais que manifestem interesse;\n\nc) Uma individualidade de reconhecido mérito no desenvolvimento de projectos artísticos no meio escolar, designada, sempre que possível, de entre docentes do ensino superior;\n\nd) Uma individualidade de reconhecido mérito e competência por cada área artística, designada pelo Ministro da Cultura, sob proposta do director do Instituto das Artes ou do delegado regional da cultura competente;\n\ne) Um representante das associações constituídas com a finalidade da defesa e promoção dos interesses das entidades referidas no artigo 3.º\n\n2 - A comissão referida no número anterior pode funcionar em subcomissões especializadas para cada área artística ou por circunscrição territorial estabelecida em função dos projectos em análise.\n\n3 - Junto de cada comissão de apreciação dos projectos é constituído um conselho consultivo integrado pelos elementos previstos nas alíneas c), d) e e) do n.º 1.\n\n4 - Os membros das comissões estão sujeitos ao regime de impedimentos previsto no Código do Procedimento Administrativo."
+  },
+  "e195a14a599de9e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Processo de designação dos membros das comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processo de designação dos membros das comissões de apreciação\n\n1 - A designação dos membros das comissões de apreciação a que se refere a alínea c) do n.º 1 do artigo anterior é feita pelo director do Instituto das Artes ou, no caso das delegações regionais, sob proposta dos respectivos delegados, de entre os docentes das universidades e dos institutos politécnicos sediados nas áreas de competência das delegações regionais da cultura ou de entre individualidades com experiência no desenvolvimento de projectos junto das escolas, ou, quando as candidaturas devam ser apresentadas no Instituto das Artes, sediados fora daquelas áreas.\n\n2 - O número de nomes a propor pelos delegados regionais da cultura, nos termos do número anterior, não pode ser superior a quatro, devendo a comunicação dos mesmos, acompanhada dos respectivos currículos, ser feita ao director do Instituto das Artes no prazo de 15 dias sobre a sua solicitação.\n\n3 - A designação dos membros das comissões de apreciação a que se refere a alínea e) do n.º 1 do artigo anterior é feita pelo director do Instituto das Artes de entre os nomes propostos pelas associações.\n\n4 - Para efeito do disposto no número anterior, o director do Instituto das Artes convidará as associações a indicar os seus representantes, através da página da Internet do Ministério da Cultura ou do Instituto das Artes, devendo ser efectuada a comunicação dos mesmos, acompanhada dos respectivos currículos, no prazo de 15 dias sobre a publicitação do convite."
+  },
+  "fe6f7d15577ca589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Critérios para apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios para apreciação das candidaturas\n\n1 - As candidaturas são apreciadas de acordo com os seguintes critérios:\n\na) Adequação dos programas ou dos projectos à prossecução dos objectivos enunciados no artigo 2.º;\n\nb) Currículo artístico e profissional dos intervenientes;\n\nc) Qualidade técnica e artística dos projectos, analisada em função da experiência e reconhecimento público resultante da actividade desenvolvida nos últimos cinco anos;\n\nd) Consistência do projecto de gestão, determinada, designadamente, pela adequação da proposta orçamental às actividades a realizar;\n\ne) Capacidade de sensibilização de novos públicos.\n\n2 - Sem prejuízo dos critérios previstos no número anterior, são valorizadas as candidaturas que contemplem:\n\na) Outras fontes de financiamento ou outro tipo de apoio, nomeadamente a atribuir pelas autarquias locais ou por recurso a mecenato ou patrocínios;\n\nb) A itinerância, parcerias de produção e intercâmbio e ou acolhimento de outras entidades;\n\nc) Programas que se destinem a públicos infantis e juvenis ou que definam acções concretas junto das escolas e que sejam consideradas complementares das actividades curriculares.\n\n3 - Sem prejuízo dos critérios previstos no n.º 1, são ainda valorizados os projectos apresentados por entidades que institucionalizem a participação de, pelo menos, duas câmaras municipais e entidades previstas no artigo 3.º e que tenham por objecto a promoção e o desenvolvimento das artes do espectáculo, designadamente através da celebração de protocolos para a gestão, programação e utilização de espaços destinados à produção e apresentação pública de eventos culturais e, ainda, os projectos apresentados por entidades que institucionalizem a participação de apenas uma câmara municipal e que revelem experiência consolidada na gestão, programação e utilização de espaços destinados à produção e apresentação pública de eventos culturais.\n\n4 - Na apreciação das candidaturas à medida de apoio à programação de salas é ainda considerado o contributo da programação a realizar para o desenvolvimento da oferta artística, para a consolidação do tecido artístico e para o desenvolvimento da região onde se encontra sediada, designadamente quanto à qualificação e ao alargamento de públicos.\n\n5 - Na apreciação das candidaturas à medida de apoio financeiro a equipamentos são ainda considerados os seguintes critérios:\n\na) Adequação funcional dos equipamentos móveis ao programa;\n\nb) Carências regionais e locais de equipamentos desta natureza."
+  },
+  "9e1b777f840788c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação das candidaturas\n\n1 - Admitidas as candidaturas, são as mesmas enviadas pela delegação regional da cultura ou pelo Instituto das Artes para apreciação às câmaras municipais referidas nos projectos apresentados, acompanhadas dos elementos previstos nos n.os 2, 3 e 4 do artigo 5.º, com excepção dos referidos nas alíneas a), m) e n) do n.º 2 do mesmo artigo.\n\n2 - O disposto no número anterior não se aplica às candidaturas apresentadas por entidades que institucionalizem a participação de câmaras municipais, nos termos do disposto no n.º 3 do artigo 10.º\n\n3 - As câmaras municipais devem, no prazo de 20 dias úteis a contar da recepção das candidaturas, enviar o respectivo parecer à delegação regional da cultura ou ao Instituto das Artes, no qual manifestem o seu interesse sobre os projectos e as modalidades de apoio que pretendem atribuir-lhes, bem como o seu interesse em integrar a comissão de apreciação.\n\n4 - Findo o prazo fixado no número anterior, o conselho consultivo procede à apreciação das candidaturas face aos critérios estabelecidos no artigo anterior e aos pareceres das câmaras municipais, emitindo o seu parecer no prazo de 60 dias consecutivos.\n\n5 - Sem prejuízo do disposto nos números anteriores, pode ser proposta pelo conselho consultivo a atribuição de apoio financeiro a projectos que não tenham obtido parecer favorável das câmaras municipais, tendo em atenção os critérios estabelecidos no presente Regulamento, designadamente a experiência demonstrada pelos candidatos e o reconhecimento público das actividades por eles desenvolvidas nos cinco anos anteriores.\n\n6 - Obtido o parecer do conselho consultivo, o presidente da comissão convoca os respectivos membros e, em relação a cada candidatura, os representantes das câmaras municipais que tenham manifestado interesse em participar na respectiva apreciação, a fim de, tendo em atenção os pareceres emitidos, elaborar projecto de decisão fundamentado, indicando em relação às candidaturas aprovadas os valores mínimos e máximos para efeitos de valor base em sede de preparação do contrato, bem como a duração, de dois ou quatro anos, do contrato."
+  },
+  "5b213159b41deb7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Audiência dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Audiência dos interessados\n\n1 - Nos termos dos artigos 100.º a 105.º do Código do Procedimento Administrativo, o projecto de decisão referido no n.º 5 do artigo anterior é enviado pela comissão aos interessados para se pronunciarem no prazo de 10 dias.\n\n2 - As certidões e reproduções de documentos pedidas pelos interessados devem ser passadas no prazo máximo de três dias úteis, contado da data de entrada do requerimento."
+  },
+  "8f5fcf9eb2f63aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisão final\n\n1 - Finda a audiência dos interessados, a comissão aprecia as respectivas alegações e procede à deliberação final no prazo máximo de 30 dias consecutivos.\n\n2 - A acta contendo a deliberação final da comissão e respectiva fundamentação é homologada pelo director do Instituto das Artes.\n\n3 - A lista dos projectos é comunicada a cada um dos candidatos e publicitada na página da Internet do Ministério da Cultura, bem como através de afixação na sede da delegação regional da cultura ou do Instituto das Artes, conforme o caso."
+  },
+  "22738d833fc5e791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Preparação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Preparação do contrato\n\n1 - Concluído o processo de apreciação das candidaturas para a formalização do apoio através de contrato, as delegações regionais da cultura ou o Instituto das Artes iniciam uma fase de negociação do contrato de financiamento com as entidades cujas candidaturas tenham obtido decisão favorável para atribuição de apoio financeiro, na qual participam as câmaras municipais envolvidas.\n\n2 - As câmaras municipais que concedem qualquer forma de apoio ao mesmo intervêm nas negociações e na outorga do contrato na medida das respectivas vinculações ao projecto.\n\n3 - Concluídas as negociações, os textos finais são assinados e rubricados pelos representantes das partes, sendo a minuta de contrato submetida a homologação do director do Instituto das Artes."
+  },
+  "dffa2fc8edb6c9e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Conteúdo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conteúdo do contrato\n\n1 - Os contratos a celebrar entre os beneficiários, o Instituto das Artes, a delegação regional da cultura e as câmaras municipais envolvidas definem os direitos e obrigações das partes, o período de vigência do contrato, a quantificação da responsabilidade financeira das partes, a estrutura de acompanhamento e controlo de execução do contrato e as penalizações face às situações de incumprimento.\n\n2 - Os contratos só podem ser celebrados após apresentação pelos beneficiários dos apoios das certidões que comprovem a regularidade das situações a que se refere a alínea m) do n.º 2 do artigo 5.º, bem como documentos comprovativos das autorizações relativos à apresentação de obras que impliquem direitos de autor e direitos conexos durante a vigência do primeiro ano do contrato."
+  },
+  "61d66c2f7caf9499": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Comissão técnica de acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão técnica de acompanhamento e avaliação\n\n1 - Cada comissão técnica de acompanhamento e avaliação é designada pelo director do Instituto das Artes, mediante proposta dos respectivos delegados regionais de cultura, por períodos de quatro anos, e tem a seguinte composição:\n\na) Um representante da delegação regional de cultura ou do Instituto das Artes, que preside;\n\nb) Um representante das câmaras municipais que participaram no processo de apreciação dos projectos;\n\nc) Uma individualidade de reconhecido mérito e competência por cada área artística.\n\n2 - Compete às delegações regionais e ao Instituto das Artes assegurar o apoio logístico necessário ao funcionamento da comissão técnica de acompanhamento e avaliação."
+  },
+  "3bde7bb0a49150ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Controlo financeiro e avaliação da execução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo financeiro e avaliação da execução do contrato\n\n1 - O controlo financeiro da execução do projecto é efectuado através de relatórios a apresentar, semestralmente, pelos beneficiários à comissão de acompanhamento e avaliação, dos quais constem os documentos de despesa efectuada.\n\n2 - As entidades beneficiárias ficam igualmente obrigadas a apresentar, semestralmente, à comissão de acompanhamento e avaliação relatório detalhado da respectiva actividade, do qual constem:\n\na) As actividades desenvolvidas no período a que se reporta o relatório, designadamente o número de apresentações públicas, locais onde foram realizadas e os níveis de audiência registados;\n\nb) Os elementos caracterizadores das actividades de sensibilização cultural e de formação de públicos;\n\nc) Outros elementos que os beneficiários considerem relevantes para a apreciação da eficácia e do cumprimento dos objectivos artísticos que se obrigaram a prosseguir."
+  },
+  "bcf20ebac9894e3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos beneficiários\n\nOs beneficiários de apoios financeiros devem apresentar às entidades com as quais celebraram os contratos:\n\na) Até 31 de Janeiro de cada ano, o relatório detalhado da execução da actividade desenvolvida no ano anterior;\n\nb) Até 15 de Abril de cada ano, o relatório de contas relativo ao ano anterior;\n\nc) Até 30 de Novembro de cada ano, o plano de actividades e orçamento para o ano seguinte, em conformidade com o previsto nas alíneas f), g) e j) do n.º 2 do artigo 5.º e de acordo com os compromissos e objectivos assumidos no contrato."
+  },
+  "e05eba9b0e29856f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão\n\n1 - O não cumprimento das obrigações previstas no presente Regulamento e nos contratos celebrados confere às delegações regionais de cultura e ao Instituto das Artes o poder de suspender a execução dos referidos contratos.\n\n2 - A decisão de suspensão e respectiva fundamentação é comunicada à entidade beneficiária do apoio, sendo-lhe fixado um prazo máximo de 10 dias úteis para cumprimento das obrigações em falta ou justificação do seu incumprimento."
+  },
+  "a8db080879b7da00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rescisão\n\nFindo o prazo referido no artigo anterior sem que tenham sido cumpridas as obrigações em falta ou aceite a justificação do incumprimento, o contrato é rescindido, devendo a entidade beneficiária do apoio repor as quantias recebidas correspondentes ao período de incumprimento."
+  },
+  "27f41642f1c1b671": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Renovação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Renovação dos contratos\n\n1 - Os contratos podem ser renovados por iguais períodos mediante solicitação das entidades beneficiárias com a antecedência de seis meses do seu termo e apresentação de plano plurianual de actividades e respectivo orçamento.\n\n2 - A decisão de renovação é da competência do director do Instituto das Artes, após parecer fundamentado da comissão técnica de acompanhamento e avaliação e proposta do delegado regional de cultura.\n\n3 - No caso de comparticipação de entidades públicas, designadamente câmaras municipais, e de entidades privadas, o Instituto das Artes ou as delegações regionais de cultura solicitam, no prazo máximo de três meses, a intervenção das mesmas nos termos e para os efeitos do disposto no artigo 14.º\n\n4 - O apoio concedido consta de contrato a outorgar nos termos do disposto no artigo 15.º, podendo haver lugar a alteração do montante de financiamento em função do plano de actividades e orçamento apresentados e das disponibilidades orçamentais do Instituto das Artes."
+  },
+  "c28f0d50f980925e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Montante dos apoios\n\n1 - Por despacho do Ministro da Cultura e sob proposta do director do Instituto das Artes, são definidos os montantes máximos atribuídos a cada programa sustentado e a respectiva distribuição por cada delegação regional de cultura e pela área de influência do Instituto das Artes.\n\n2 - De acordo com parecer fundamentado do director do Instituto das Artes, os montantes afectos a cada delegação regional e ao Instituto das Artes podem ser redistribuídos por despacho do Ministro da Cultura até à realização da audiência de interessados."
+  },
+  "73e141abff982a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Número de produções ou criações",
+   "in_force_from": "2004-05-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 583/2004](https://diariodarepublica.pt/dr/detalhe/portaria/583-2004-261293), publicado em 2004-05-28."
+   ],
+   "markdown": "###### Artigo 7.º — Número de produções ou criações\n\n1 - Os candidatos aos apoios plurianuais a que se refere o n.º 2 do artigo 1.º devem propor a realização:\n\na) Na área do teatro, um mínimo de 3 produções ou criações por ano e apresentar um mínimo de 90 representações anuais;\n\nb) Na área da dança, um mínimo de três produções ou criações por ano, não podendo ter menos de 30 apresentações anuais;\n\nc) Na área da música, um mínimo de três produções ou criações por ano e 30 apresentações públicas ou, no caso de produções de ópera, um mínimo de duas produções por ano;\n\nd) Nas áreas transdisciplinares e pluridisciplinares, um mínimo de três produções ou criações por ano, não podendo ter menos de 30 apresentações anuais.\n\n2 - Os números mínimos de produções, criações ou apresentações referidos no número anterior podem ser alterados por solicitação dos interessados, quando essa alteração seja justificável em função da natureza da sua actividade, designadamente na área da formação, das circunstâncias específicas do plano de actividades apresentado ou quando surjam novas oportunidades de itinerância ou a afluência do público demonstre e justifique o prolongamento das apresentações públicas de uma criação ou produção em detrimento de apresentação de uma nova criação ou produção.\n\n> Alterado pelo/a [Portaria n.º 583/2004](https://diariodarepublica.pt/dr/detalhe/portaria/583-2004-261293), publicado em 2004-05-28."
+  }
+ }
+}

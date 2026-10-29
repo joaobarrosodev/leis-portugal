@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-12-31'
+version_history:
+  file: decreto-legislativo-regional-14-2004-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-31'
+    amending: pt:dre:72991305:por
+    amending_title: Decreto Legislativo Regional n.º 17/2015/M
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/14/2004/07/14/m/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2004/decreto-legislativo-regional-14-2004-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,27 +181,29 @@ A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea c) do
 
 O Centro de Arbitragem é de âmbito regional e tem a sua sede na cidade do Funchal.
 
-###### Artigo 3.º — Estrutura orgânica
+###### Artigo 3.º — Estrutura e funcionamento
 
-1 - O Centro de Arbitragem é constituído por um director, cujo titular é qualificado como cargo de direcção intermédia, de 1.º grau, designado como director de serviços, coadjuvado por um gabinete de apoio jurídico e uma secretaria, comportando ainda um tribunal arbitral e um conselho de parceiros.
+1 - O Centro de Arbitragem é o serviço que compreende:
 
-2 - O conselho de parceiros é um órgão com carácter consultivo constituído pelo director do Centro de Arbitragem, que o dirige, e por um representante de cada uma das associações de consumidores e cooperativas de consumo com sede na Região Autónoma da Madeira, um representante do Serviço de Defesa do Consumidor e outros parceiros sociais com competência em matéria económica e de política de consumo, propostos pelo director e aprovados pela tutela.
+a) O Tribunal Arbitral do Centro de Arbitragem;
+
+b) O Conselho de Parceiros.
+
+2 - O Tribunal Arbitral do Centro de Arbitragem rege-se pelo disposto no presente diploma e pelos seus regulamentos internos aprovados por portaria do membro do Governo da tutela.
+
+3 - O Conselho de Parceiros é um órgão consultivo do Centro de Arbitragem, que é composto pelo responsável pelo Centro de Arbitragem e por um representante de cada uma das associações de consumidores e cooperativas de consumo com sede na Região Autónoma da Madeira, um representante do Serviço de Defesa do Consumidor e outros parceiros sociais com competência em matéria económica e em política de consumo.
+
+4 - A organização interna do Centro de Arbitragem é aprovada por portaria do membro do Governo da tutela e do membro do governo responsável pela área das finanças.
+
+5 - No domínio da arbitragem, o Centro de Arbitragem rege-se ainda pelas normas e princípios gerais constantes da lei aplicável.
+
+> Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 4.º — Competências do director, conselho de parceiros, gabinete de apoio jurídico e secretaria
 
-1 - Compete ao director dirigir o serviço, bem como coordenar as respectivas actividades, aprovar os regulamentos internos, elaborar o plano anual de actividades e submetê-los à homologação da tutela, efectuar a tentativa prévia de conciliação entre as partes em conflito, exercer todos os demais poderes necessários para assegurar a gestão do Centro de Arbitragem, o seu normal funcionamento e desenvolvimento.
+(Revogado.)
 
-2 - Compete ao conselho de parceiros:
-
-a) Elaborar o regulamento do seu funcionamento, submetendo-o à tutela para aprovação;
-
-b) Elaborar propostas para dinamizar as relações com a comunidade no âmbito da política de consumo;
-
-c) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos seus membros.
-
-3 - Ao gabinete de apoio jurídico compete elaborar pareceres e informações de natureza técnico-jurídica, efectuar os procedimentos e assegurar a instrução de processos que lhe sejam submetidos a apreciação e exercer as demais competências que lhe sejam conferidas superiormente, sendo dirigido por um titular qualificado como cargo de direcção intermédia, de 2.º grau, designado como chefe de divisão.
-
-4 - À secretaria compete promover os procedimentos relacionados com o expediente geral e arquivo, bem como os relativos aos processos movimentados pelo Centro de Arbitragem no âmbito das suas competências legais, para além de outras tarefas de carácter administrativo indispensáveis ao normal funcionamento do mesmo, sendo dirigida por um chefe de secção.
+> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 5.º — Competência do Centro de Arbitragem
 
@@ -212,29 +233,17 @@ O Centro de Arbitragem pode celebrar com entidades públicas ou privadas, nacion
 
 ###### Artigo 8.º — Regime jurídico do pessoal
 
-1 - O pessoal do Centro de Arbitragem rege-se pelas normas aplicáveis aos funcionários e agentes da administração pública central e regional autónoma, salvo o disposto nos artigos seguintes.
+(Revogado.)
 
-2 - Para a realização de tarefas indiferenciadas passíveis de serem realizadas por pessoal operário ou auxiliar, o Centro de Arbitragem pode recorrer ao contrato individual de trabalho.
-
-3 - A celebração dos contratos individuais de trabalho, nos termos previstos no número anterior, fica sujeita à observância dos seguintes parâmetros:
-
-a) As categorias e carreiras profissionais são análogas às existentes no âmbito da administração central e regional autónoma, exigindo-se para ingresso e acesso as mesmas habilitações e qualificações profissionais;
-
-b) Os procedimentos de ingresso e acesso devem garantir o respeito pelos princípios da publicidade, igualdade, proporcionalidade e prossecução do interesse público;
-
-c) As remunerações são fixadas em montantes idênticos aos que vigoram na Administração Pública, atento o respectivo enquadramento profissional.
-
-4 - O quadro de pessoal do Centro de Arbitragem será aprovado por portaria conjunta das secretarias regionais que tutelam os sectores das finanças, Administração Pública e tutela.
+> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ### CAPÍTULO III — Disposições gerais
 
 ###### Artigo 9.º — Regime
 
-1 - O Centro de Arbitragem rege-se pelo disposto no presente diploma, pelos seus regulamentos internos aprovados pelo secretário regional da tutela e, subsidiariamente, pelo ordenamento jurídico da administração pública central e regional.
+(Revogado.)
 
-2 - No domínio da arbitragem, o Centro de Arbitragem reger-se-á pelas normas e princípios gerais constantes da lei aplicável, bem como pelo seu regulamento de arbitragem.
-
-3 - O regulamento de arbitragem previsto no número anterior será elaborado pelo Centro de Arbitragem e conterá os procedimentos a observar na arbitragem.
+> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 10.º — Coima
 
@@ -246,9 +255,11 @@ c) As remunerações são fixadas em montantes idênticos aos que vigoram na Adm
 
 ###### Artigo 11.º — Regra supletiva
 
-1 - Em tudo o mais será aplicável a [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, no que respeitar à arbitragem institucionalizada.
+1 - Em tudo o que não estiver previsto no presente diploma é aplicável a Lei n.º 63/2011, de 14 de dezembro, que aprova a Lei de Arbitragem Voluntária.
 
 2 - Havendo omissão, aplicam-se os princípios gerais de processo civil adaptados à natureza marcadamente abreviada e informal do procedimento arbitral.
+
+> Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 12.º — Entrada em vigor
 

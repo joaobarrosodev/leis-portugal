@@ -1,0 +1,383 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405684:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a97a286bef4b5018",
+    "bec280933ad78380",
+    "ce73e4c7df60df33",
+    "8f489716b4d026f4",
+    "7432ae2547c2de4e",
+    "8e50b197d48211df",
+    "9fbd2f78ef02a7bc",
+    "5e4611a4e892a88e",
+    "e17d947c80cc20da",
+    "8d01b4368c2a881d",
+    "312043f6d3a76119",
+    "9d5324eafe2e990f",
+    "a347f51906a711fd",
+    "f2fbf316fc6e1793",
+    "d7dac2cfc11a9709",
+    "746e5cc72d550e89",
+    "1da3c5a15e7d96ac",
+    "c5639a34c7b26e62",
+    "7185cf3938b63be2",
+    "dbd9f03771f4f777",
+    "ef474aa68d78f93e",
+    "a4d4a8c6c59088cb",
+    "260a9f4ecd4b5740",
+    "41f63aa7c785c039",
+    "9e35f559b123703f",
+    "7a1e41f526a00ccc",
+    "e0a71543f273b081"
+   ]
+  },
+  {
+   "date": "1996-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:694044:por",
+     "title": "Decreto-Lei n.º 235-A/96",
+     "published": "1996-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/235-a-1996-694044"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Adita Artigo 17.º-A"
+   ],
+   "fragments": [
+    "a97a286bef4b5018",
+    "bec280933ad78380",
+    "c488ef71d4930b16",
+    "8f489716b4d026f4",
+    "137264cbd4d96ce8",
+    "8e50b197d48211df",
+    "ce9f6f2f6afe61ee",
+    "f52e949c52d4dd9b",
+    "e17d947c80cc20da",
+    "8d01b4368c2a881d",
+    "312043f6d3a76119",
+    "9d5324eafe2e990f",
+    "a347f51906a711fd",
+    "f2fbf316fc6e1793",
+    "d7dac2cfc11a9709",
+    "746e5cc72d550e89",
+    "1da3c5a15e7d96ac",
+    "c5639a34c7b26e62",
+    "038ab5b878978894",
+    "3b3c16538444fec5",
+    "ef474aa68d78f93e",
+    "a4d4a8c6c59088cb",
+    "c911cea1a1367f0f",
+    "260a9f4ecd4b5740",
+    "41f63aa7c785c039",
+    "9e35f559b123703f",
+    "7a1e41f526a00ccc",
+    "e0a71543f273b081"
+   ]
+  }
+ ],
+ "fragments": {
+  "a97a286bef4b5018": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nA regularização das dívidas fiscais e à segurança social constitui objectivo do XIII Governo Constitucional. Este propósito resulta de situações de incumprimento acumuladas ao longo dos primeiros cinco anos da década de 90, que, a manterem-se, continuarão a produzir efeitos nocivos, quer no plano financeiro, quer no plano da concorrência.\n\nTal facto exige uma intervenção extraordinária e rigorosa do Governo, que, simultaneamente, permita recuperar parte importante dos créditos dos entes públicos e contribuir para um reenquadramento das entidades devedoras nos circuitos económicos normais, criando ao mesmo tempo condições para a viabilização económica das que evidenciem uma situação financeira desequilibrada, dificilmente reversível sem o recurso a medidas excepcionais.\n\nOs mecanismos introduzidos pelo [Decreto-Lei n.º 225/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1994-657626), de 5 de Setembro, ao permitirem a regularização em prestações da dívida anterior a 31 de Dezembro de 1993, unicamente em relação aos contribuintes que dispunham de recursos para pagar, até fins de 1994, todas as dívidas vencidas desde o início do ano, revelaram-se, para o efeito, complexos e limitados, deixando de fora muitos contribuintes que, com outro contexto normativo, poderiam ter regularizado a sua situação tributária.\n\nAproveitando a experiência de aplicação desse diploma, pretende-se agora definir um novo quadro global para a regularização das dívidas ao Estado, que constitua um regime mais simples e flexível, a que obedecerão todas as intervenções de natureza particular ou específica. Simplicidade e flexibilidade que não significam menor rigor ou exigência nas condições de acesso, consagrando-se aquelas que são necessárias para um acompanhamento e uma fiscalização permanente da situação da entidade devedora. Na adopção destas condições foram ponderados outros valores e interesses em presença, distintos dos da recuperação de créditos, e por isso se optou, mesmo neste caso, pela manutenção do sigilo bancário, não podendo obviamente confundir-se com a sua derrogação ou violação, antes decorrendo das regras vigentes, a autorização voluntária dos contribuintes beneficiários deste novo regime para disponibilizarem, quando necessário, toda a informação relevante para apuramento das dívidas e verificação da sua situação tributária.\n\nAs medidas consagradas enquadram-se em dois grandes grupos. Por um lado, é previsto, ao abrigo das competências próprias do Governo, e relativamente à generalidade dos devedores, um regime geral de pagamento em prestações mensais iguais, até um máximo de 150, com redução, nos casos normais, de juros de mora vencidos e vincendos, à taxa média de juros praticada na colocação da dívida pública interna.\n\nPor outro lado, estabelece-se, em desenvolvimento do regime jurídico estabelecido pelo artigo 59.º da [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), de 23 de Março, e concretizando também a previsão do n.º 2 do artigo 55.º da mesma lei, em relação aos casos que envolvam processos especiais de recuperação de empresas ou contratos de consolidação financeira e reestruturação empresarial, um regime extraordinário de mobilização de activos e de recuperação de créditos, admitindo-se a existência, num período inicial, de prestações mais baixas, bem como a redução de juros de mora até uma taxa que poderá ser inferior à da dívida pública, articulado, sendo caso disso, a título excepcional, com a conversão de créditos em capital ou com a sua alienação.\n\nA aplicação deste regime deverá ter em conta os princípios da transparência, da compatibilização dos interesses financeiros do Estado com as necessidades estritamente decorrentes do plano de recuperação económica da entidade devedora, da subsidiariedade, segundo o qual tais medidas só se justificam se não for possível regularizar a situação pelas formas de pagamento admitidas na lei, e da proporcionalidade, segundo o qual as medidas a aplicar não devem exceder o necessário para atingir os objectivos definidos.\n\nConsigna-se ainda a possibilidade de os contribuintes abrangidos pelo [Decreto-Lei n.º 225/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1994-657626), de 5 de Setembro, optarem pela aplicação do novo regime.\n\nAssim:\n\nNos termos das alíneas a) e c) do artigo 201.º da Constituição e no desenvolvimento do regime jurídico estabelecido pelo artigo 59.º da [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), de 23 de Março, o Governo decreta o seguinte:"
+  },
+  "bec280933ad78380": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Objecto, procedimentos e condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto, procedimentos e condições de acesso"
+  },
+  "ce73e4c7df60df33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma visa regular as condições em que, sem prejuízo dos regimes previstos no Código de Processo Tributário e nos diplomas relativos aos vários impostos e contribuições para a segurança social, os créditos por dívidas de natureza fiscal ou à segurança social cujo prazo de cobrança voluntária tenha terminado até 31 de Julho de 1996, adiante designados como créditos, podem ser objecto de medidas excepcionais de diferimento de pagamento, de redução de valor, de conversão em capital das entidades devedoras ou de alienação.\n\n2 - O presente diploma é igualmente aplicável à cobrança de créditos por:\n\na) Dívidas relativas a quotizações devidas ao extinto Fundo de Desemprego;\n\nb) Dívidas à segurança social em que tenha havido transferência de créditos para a titularidade do Tesouro.\n\n3 - Serão abrangidas todas as dívidas, com a natureza referida nos n.os 1 e 2, que sejam declaradas pelo devedor no requerimento que solicite a aplicação das medidas, ainda que desconhecidas da administração fiscal, ou das instituições de previdência e de segurança social.\n\n4 - Das dívidas referidas no número anterior serão pagas em primeiro lugar as respeitantes a impostos e contribuições retidos na fonte ou legalmente repercutidos a terceiros, seguindo-se as dívidas por capital de outros impostos e contribuições, ambas com os respectivos juros de mora vencidos, e as dívidas por juros de mora vincendos, devendo ser pagas primeiramente, de entre as dívidas da mesma natureza, as mais antigas."
+  },
+  "8f489716b4d026f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Procedimentos\n\n1 - As medidas previstas no n.º 1 do artigo anterior poderão ser adoptadas no âmbito de:\n\na) Regularização de dívidas de natureza fiscal ou à segurança social, nos termos do disposto no capítulo II deste diploma;\n\nb) Celebração de contratos de consolidação financeira e de reestruturação empresarial, nos termos da legislação aplicável e do disposto no capítulo III deste diploma;\n\nc) Processos judiciais de recuperação de empresa regulados pelo Código dos Processos Especiais de Recuperação da Empresa e de Falência, nos termos do disposto no capítulo III deste diploma.\n\n2 - As medidas consagradas no âmbito de cada uma das alíneas referidas no número anterior poderão ser conjugadas entre si, sendo também possível a sua articulação com a aceitação, nos termos da legislação aplicável, da dação de bens em pagamento."
+  },
+  "7432ae2547c2de4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - O acesso a qualquer das medidas excepcionais previstas no presente diploma depende da apresentação de requerimento, por parte do devedor, e do preenchimento das seguintes condições:\n\na) Compromisso expresso de cumprimento futuro das suas obrigações tributárias, ou das contribuições para as instituições de previdência ou de segurança social;\n\nb) Apresentação de declaração sobre o valor e a composição do património do devedor, com o conteúdo previsto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, bem como, tratando-se de pessoa colectiva, dos membros dos respectivos órgãos de administração, se necessário;\n\nc) Prestação à administração fiscal de todas as informações relevantes para apuramento da dívida, verificação e controlo da situação tributária do devedor, bem como, tratando-se de pessoa colectiva, dos membros dos respectivos órgãos de administração, se necessário;\n\nd) Autorização de publicitação anual da situação contributiva do devedor, quando pessoa colectiva, em caso de incumprimento das obrigações decorrentes do presente diploma.\n\n2 - As dívidas abrangidas pelo presente diploma tornar-se-ão exigíveis, nos termos da lei em vigor, quando:\n\na) Deixe de ser efectuado o pagamento integral e pontual das prestações nele previstas;\n\nb) Sejam revogadas as autorizações, ou deixem de ser renovadas as declarações decorrentes da lei;\n\nc) O devedor incorra em incumprimento de qualquer obrigação tributária principal, ou de contribuição para instituições de previdência ou de segurança social, não abrangida pelo presente diploma.\n\n3 - Para efeitos do disposto no número anterior, os montantes exigíveis serão determinados de acordo com o valor e com os prazos de pagamento a que o devedor estava obrigado, com os acréscimos legais, nele se imputando, a título de pagamentos por conta, as quantias que tiverem sido pagas a título de prestações, beneficiando o devedor de redução de créditos por juros de mora vencidos na parte correspondente ao capital entretanto pago.\n\n4 - No caso de conversão de créditos em capital, o incumprimento determinará a exigibilidade da importância correspondente à participação assumida.\n\n5 - Sempre que a autorização de aplicação das medidas excepcionais previstas no presente diploma tenha sido concedida no quadro de processo judicial de recuperação de empresa, o incumprimento das obrigações por parte do devedor é equiparado, para todos os efeitos legais, a incumprimento das deliberações da assembleia de credores que tiver aprovado as providências de recuperação."
+  },
+  "8e50b197d48211df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Regimes prestacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Regimes prestacionais"
+  },
+  "9fbd2f78ef02a7bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Redução do valor dos créditos por juros de mora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Redução do valor dos créditos por juros de mora\n\n1 - A redução do valor de créditos só é aplicável aos créditos relativos a juros de mora vencidos e vincendos.\n\n2 - A redução prevista no número anterior efectuar-se-á através de aplicação ao capital em dívida da taxa média de juro vencida pela dívida pública interna, colocada durante 1995, calculada nos termos do n.º 2.º da [Portaria n.º 1485-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1485-a-1995-399202), de 28 de Dezembro.\n\n3 - São devidos juros vincendos, contados anualmente, em relação à parte ainda não paga do capital da dívida, aplicando-se ao respectivo cálculo a taxa de juro referida no número anterior.\n\n4 - O pagamento, no todo ou em parte, do capital em dívida nos três meses seguintes ao do deferimento do requerimento que solicite a regularização determina, na parte correspondente, dispensa de pagamento de juros vencidos.\n\n5 - O pagamento das importâncias em dívida em período inferior a dois anos determina a dispensa de pagamento de juros vincendos."
+  },
+  "5e4611a4e892a88e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Diferimento do pagamento dos créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diferimento do pagamento dos créditos\n\n1 - O diferimento do pagamento dos créditos, incluindo os créditos por juros vencidos e vincendos, assumirá a forma de pagamento em prestações mensais iguais, no máximo de 150.\n\n2 - O número de prestações concedido para o pagamento dependerá de:\n\na) Capacidade financeira do devedor;\n\nb) Montante da dívida, não podendo cada prestação ter valor inferior a metade do salário mínimo nacional mais elevado;\n\nc) Risco financeiro envolvido;\n\nd) Circunstâncias determinantes da origem das dívidas.\n\n3 - O pagamento de cada prestação será efectuado até ao final do mês a que diga repeito.\n\n4 - Quando, por motivo não imputável ao devedor, o pagamento não tenha sido efectuado no prazo previsto no número anterior, poderá ser requerida a relevação do atraso, desde que o pagamento se efectue nos primeiros cinco dias úteis do mês seguinte.\n\n5 - O prazo de prescrição das dívidas suspende-se durante o período de pagamento em prestações."
+  },
+  "e17d947c80cc20da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Garantias\n\n1 - O deferimento dos pedidos de aplicação das medidas previstas nos artigos 4.º e 5.º não carece de prestação da garantia a que se refere o artigo 282.º do Código de Processo Tributário.\n\n2 - A administração fiscal e as instituições de previdência e de segurança social poderão, contudo, em articulação, quando estiver em causa dívida superior a 100000000$00 ou o risco financeiro envolvido o torne recomendável, constituir penhor ou hipoteca legal, a favor da Fazenda Pública ou da segurança social, de forma a, em conjunto com o valor das garantias constituídas voluntariamente pelos devedores e o das penhoras efectuadas nos termos do Código de Processo Tributário, garantir o capital em dívida.\n\n3 - A competência para a constituição das garantias previstas no número anterior pertence aos Ministros das Finanças e da Solidariedade e Segurança Social, que poderão delegar, e que regulamentarão, por despacho conjunto, as formas de articulação entre os serviços competentes.\n\n4 - As mesmas entidades poderão, a todo o tempo, efectuar nova penhora ou constituir nova hipoteca ou penhor em substituição dos que tenham recaído sobre bens desaparecidos, deteriorados ou desvalorizados, sem prejuízo de o devedor poder nomear outros bens à penhora, nos termos do artigo 297.º do Código de Processo Tributário.\n\n5 - Com excepção do pagamento das importâncias destinadas, na sua totalidade, a objectivos de acção social, poderá ser efectuada, como garantia do pagamento das prestações referidas no artigo 4.º, a retenção até 50% das importâncias que, a qualquer título, devam ser pagas ao devedor pelo Estado, pelas instituições de segurança social ou por institutos públicos."
+  },
+  "8d01b4368c2a881d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Assunção de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Assunção de dívidas\n\n1 - Poderão beneficiar do regime previsto no presente diploma os terceiros que assumam a dúvida, desde que prestem garantia pelo valor do respectivo capital, mediante requerimento fundamentado, dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, quanto a este se as dívidas se não encontrarem em fase executiva e respeitarem a créditos de instituições da segurança social.\n\n2 - O despacho de aceitação da assunção de dívida e das garantias previstas no número anterior determina a extinção das garantias que tenham sido prestadas pelo devedor e o levantamento da penhora eventualmente efectuada no mesmo processo.\n\n3 - A assunção da dívida não exonera o antigo devedor, respondendo este solidariamente com o novo devedor.\n\n4 - As consequências do não cumprimento do preceituado no presente diploma aplicam-se ao novo devedor, podendo este ser accionado no processo de execução fiscal instaurado contra o antigo devedor.\n\n5 - O novo devedor ficará sub-rogado nos direitos da Fazenda Pública ou da segurança social, após a regularização da dívida, nos termos e condições previstos no presente diploma."
+  },
+  "312043f6d3a76119": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Mobilização de activos e recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Mobilização de activos e recuperação de créditos"
+  },
+  "9d5324eafe2e990f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Medidas extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas extraordinárias\n\nNo quadro dos procedimentos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º, poderão ser autorizadas, separada ou conjugadamente, por despacho conjunto dos Ministros das Finanças e da Solidariedade e Segurança Social, sendo caso disso, desde que tal se torne indispensável à recuperação da entidade devedora, as seguintes adaptações extraordinárias às medidas previstas nos artigos 4.º e 5.º:\n\na) Redução das primeiras 24 prestações a metade do valor das restantes;\n\nb) Redução do valor nominal dos créditos por juros de mora vencidos e vincendos por aplicação de uma taxa inferior à prevista no n.º 2 do artigo 4.º"
+  },
+  "a347f51906a711fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conversão de créditos em capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conversão de créditos em capital\n\n1 - A conversão de créditos em capital só será aplicável se o devedor revestir a forma de sociedade anónima.\n\n2 - A participação resultante da conversão de créditos em capital poderá ser alienada a todo o tempo, podendo, não obstante, ser celebrado com a entidade devedora ou seus sócios contrato-promessa de compra e venda, com celebração do contrato prometido a executar dentro do prazo decorrente do plano de recuperação económica, pelo mais elevado dos valores, nominal e contabilístico, da participação.\n\n3 - Os poderes gestionários, directa ou indirectamente decorrentes da participação, poderão ser restringidos pelo decreto-lei que aprovar a conversão.\n\n4 - O decreto-lei referido no número anterior fixará o regime de alienação e o prazo máximo para a manutenção da participação, findo o qual serão iniciadas, obrigatoriamente, diligências conducentes à alienação das participações."
+  },
+  "f2fbf316fc6e1793": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Alienação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alienação de créditos\n\n1 - A alienação de créditos poderá ser feita com sub-rogação pelo adquirente das garantias e prerrogativas da Fazenda Pública e da segurança social, podendo abranger os direitos inerentes à cláusula «salvo regresso de melhor fortuna».\n\n2 - Quando efectuada pelo valor nominal dos créditos, a alienação pode ser realizada por negociação, com ou sem publicação de anúncio, ou por ajuste directo.\n\n3 - Quanto efectuada pelo valor de mercado, a medida prevista no número anterior concretizar-se-á mediante negociação, com prévia publicação de anúncio.\n\n4 - Não obstante o disposto no número anterior, poder-se-á optar por:\n\na) Negociação sem prévia publicação de anúncio, quando sejam convidadas a participar na negociação as instituições de crédito que tenham manifestado interesse em participar na operação de alienação, bem como os 10 maiores credores da entidade devedora, com excepção do Estado, da segurança social e dos institutos públicos sem natureza de empresa pública;\n\nb) Negociação sem prévia publicação de anúncio ou ajuste directo, quando esteja em causa apenas a alienação de direitos inerentes à cláusula «salvo regresso de melhor fortuna».\n\n5 - A alienação prevista no presente artigo não pode fazer-se em favor da entidade devedora, membros de órgãos de administração ou entidades com interesse patrimonial equiparável."
+  },
+  "d7dac2cfc11a9709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Condições específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições específicas de acesso\n\n1 - No âmbito dos procedimentos previstos nas alíneas b) e c) do n.º 1 do artigo 2.º, poderão ser aplicadas as medidas previstas nos artigos 4.º, 5.º, 8.º e 9.º desde que, satisfeitas as condições gerais de acesso previstas no artigo 3.º:\n\na) Não se verifique a existência das seguintes circunstâncias, devendo a própria entidade apresentar declaração nesse sentido:\n\ni) Pronúncia por prática de crimes fiscais conexos com as dívidas em causa, imputáveis aos devedores em caso de pessoas singulares ou, em caso de pessoas colectivas, a quem os represente e permaneça em funções;\n\nii) Paralisação da actividade da entidade devedora por período que faça supor a inviabilidade da sua recuperação;\n\niii) Incumprimento sistemático da função social da entidade devedora;\n\nb) Seja apresentado plano de recuperação económica considerado exequível;\n\nc) Seja demonstrada a impossibilidade de pagamento da totalidade das dívidas, nomeadamente através de venda de activos imediatamente realizáveis, que não inviabilizem a subsistência da actividade económica dos devedores;\n\nd) As condições de regularização previstas para os créditos abrangidos pelo presente diploma não sejam menos favoráveis para os credores públicos do que o que vier a ser acordado para o conjunto dos restantes credores;\n\ne) Os créditos que sejam detidos por sócios ou membros de órgãos de administração da entidade devedora, ou por pessoas com interesse patrimonial equiparável, não obtenham, para cada pessoa, tratamento mais favorável do que o previsto para os créditos detidos pelo Estado, pela segurança social ou por institutos públicos sem natureza de empresa pública;\n\nf) As medidas adoptadas fiquem sujeitas à cláusula «salvo regresso de melhor fortuna», segundo formulação que preveja mecanismos de efectivação dessa cláusula.\n\n2 - Para comprovação do requisito referido na alínea c) do número anterior, poderá ser realizada auditoria, a cargo da Inspecção-Geral de Finanças ou de outra entidade idónea, a qual será obrigatória quando esteja em causa a celebração do contrato de consolidação financeira e reestruturação empresarial, sendo neste caso confiada à entidade designada pelo órgão que tiver a seu cargo a coordenação de tal procedimento.\n\n3 - A adopção em processo especial de recuperação de empresa das medidas previstas nos artigos 4.º e 5.º e 8.º e 9.º depende de autorização expressa, considerando-se ineficazes em relação aos créditos abrangidos pelo presente diploma as deliberações de assembleias de credores que, sem autorização, determinem a redução de valor, diferimento de pagamento ou conversão em capital.\n\n4 - Para efeitos de deliberação da assembleia de credores, a ponderação dos créditos abrangidos pelo presente diploma é determinada de acordo com o montante originário das obrigações."
+  },
+  "746e5cc72d550e89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Interesse patrimonial equiparável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Interesse patrimonial equiparável\n\nPara os efeitos previstos no presente diploma, consideram-se de interesse patrimonial equiparável, designadamente:\n\na) As entidades que, em relação aos sócios ou aos membros do órgão de administração da entidade devedora, se encontrem em qualquer das situações referidas no n.º 2 do artigo 447.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro;\n\nb) As sociedades em relação de domínio ou de grupo com a entidade devedora."
+  },
+  "1da3c5a15e7d96ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Forma das decisões, trâmites dos pedidos de adesão, pagamento, custas e emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Forma das decisões, trâmites dos pedidos de adesão, pagamento, custas e emolumentos"
+  },
+  "c5639a34c7b26e62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Forma das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma das decisões\n\n1 - A conversão de créditos em capital será decidida por decreto-lei, da iniciativa dos Ministros das Finanças ou da Solidariedade e Segurança Social.\n\n2 - A adopção das restantes medidas previstas pelo presente diploma será autorizada mediante despacho dos Ministros das Finanças ou da Solidariedade e Segurança Social, que poderão delegar, com faculdade de subdelegação."
+  },
+  "7185cf3938b63be2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Trâmites dos pedidos de adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Trâmites dos pedidos de adesão\n\n1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua residência ou sede, até 31 de Dezembro de 1996, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 289/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1992-621680), de 31 de Dezembro.\n\n2 - O requerimento será dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, conforme os casos, sendo apresentado em duas vias caso estejam simultaneamente em causa dívidas ao Estado e à segurança social.\n\n3 - O modelo do requerimento e a forma que deverão revestir as declarações e autorizações que o deverão acompanhar serão objecto de portaria conjunta dos Ministros das Finanças e da Solidariedade e Segurança Social.\n\n4 - As repartições de finanças enviarão, no prazo de cinco dias, à instituição de previdência ou de segurança social competente a via do requerimento que por ela deva ser instruída.\n\n5 - Os requerimentos a apresentar por entidades devedoras que se encontrem abrangidas por processos judiciais de recuperação da empresa e de falência serão apresentados nas sedes da Direcção-Geral das Contribuições e Impostos e do Instituto de Gestão Financeira da Segurança Social.\n\n6 - Estando a decorrer, à data da apresentação do requerimento referido no número anterior, o processo judicial de recuperação de empresa, poderá o tribunal, a requerimento da empresa, ouvida a comissão de credores, prorrogar até 60 dias, por uma só vez, o prazo para realização da assembleia definitiva de credores.\n\n7 - Pretendendo a entidade devedora celebrar contrato de consolidação financeira e reestruturação empresarial, o requerimento será apresentado no órgão competente para esse procedimento.\n\n8 - Sobre os requerimentos apresentados será proferido despacho no prazo de 60 dias.\n\n9 - A apresentação de requerimento de aplicação das medidas previstas no presente diploma não suspende o normal curso dos processos de execução fiscal já instaurados, ou a instauração de novos processos, ficando todavia suspensa, até decisão do requerimento, a venda de bens.\n\n10 - O deferimento do requerimento determina, enquanto o devedor reunir as condições referidas no artigo 3.º e, sendo caso disso, no artigo 11.º do presente diploma, a suspensão dos processos de execução fiscal em curso, bem como após a instauração, de novos processos, quando não se tornem necessários para garantir o valor da dívida, nos termos dos n.os 2 e 3 do artigo 6.º"
+  },
+  "dbd9f03771f4f777": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento\n\n1 - O pagamento das dívidas abrangidas pelo presente diploma terá início a partir de Janeiro de 1997.\n\n2 - As dívidas de natureza fiscal, as dívidas a instituições de previdência e segurança social, incluindo as quotizações devidas ao extinto Fundo de Desemprego, e as dívidas ao Tesouro serão pagas separadamente, de acordo com os planos de pagamento relativos a cada uma delas.\n\n3 - O pagamento das dívidas ao Estado será efectuado na tesouraria da Fazenda Pública da sede ou residência da entidade devedora, ainda que diga respeito a processos de execução fiscal que corram os seus termos em outros concelhos ou bairros fiscais.\n\n4 - O pagamento das dívidas à segurança social será efectuado nas tesourarias das instituições de previdência e de segurança social designadas para o efeito, ainda que diga respeito a dívidas já participadas à administração fiscal.\n\n5 - Nas situações referidas nos n.os 3 e 4, os serviços em que seja efectuado o pagamento assegurarão o envio às repartições de finanças competentes da informação necessária ao encerramento dos processos de execução fiscal relativos a dívidas já regularizadas."
+  },
+  "ef474aa68d78f93e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Custas\n\nO pagamento integral do capital e dos juros de mora em dívida, efectuado, nos termos do presente diploma, num determinado processo de execução fiscal, determina a redução em metade da importância das custas devidas."
+  },
+  "a4d4a8c6c59088cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Emolumentos\n\n1 - Ficam isentos de quaisquer emolumentos os actos que visem constituir as garantias a que se referem os artigos 6.º e 7.º ou concretizar medidas expressamente previstas nos contratos de consolidação financeira e reestruturação empresarial e que exijam intervenção notarial ou qualquer acto de registo.\n\n2 - A isenção não abrange os emolumentos pessoais nem as importâncias respeitantes à participação emolumentar normalmente devida aos notários, conservadores e oficiais do registo e notariado pela sua intervenção nos actos."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "41f63aa7c785c039": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Opção\n\nSem prejuízo dos efeitos decorrentes da aplicação do [Decreto-Lei n.º 225/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1994-657626), de 5 de Setembro, as entidades devedoras que se encontrem enquadradas nos regimes prestacionais nele previstos, bem como nos autorizados em quaisquer outros regimes, poderão optar pelo acesso às medidas previstas no presente diploma."
+  },
+  "9e35f559b123703f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Revogação\n\nÉ revogado [Decreto-Lei n.º 400/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1993-551814), de 3 de Dezembro."
+  },
+  "7a1e41f526a00ccc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Informação à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Informação à Assembleia da República\n\nTrimestralmente, o Governo informará a Assembleia da República sobre a aplicação das medidas previstas nos artigos 3.º e 4.º e apresentará um relatório justificativo da realização e das condições das operações realizadas ao abrigo dos artigos 8.º a 10.º deste diploma."
+  },
+  "e0a71543f273b081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor em 15 de Setembro de 1996.\n\nVisto e aprovado em Conselho de Ministros de 25 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 1 de Agosto de 1996.\n\nPublique-se.\n\nO Presidente da República, interino, ANTÓNIO DE ALMEIDA SANTOS.\n\nReferendado em 2 de Agosto de 1996.\n\nPelo Primeiro-Ministro, António Manuel de Carvalho Ferreira Vitorino, Ministro da Presidência."
+  },
+  "c488ef71d4930b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma visa regular as condições em que, sem prejuízo dos regimes previstos no Código de Processo Tributário e nos diplomas relativos aos vários impostos e contribuições para a segurança social, os créditos por dívidas de natureza fiscal ou à segurança social cujo prazo legal de cobrança tenha terminado até 31 de Julho de 1996, adiante designados como créditos, podem ser objecto de medidas excepcionais de diferimento de pagamento, de redução de valor, de conversão em capital das entidades devedoras ou de alienação.\n\n2 - O presente diploma é igualmente aplicável à cobrança de créditos por:\n\na) Dívidas relativas a quotizações devidas ao extinto Fundo de Desemprego;\n\nb) Dívidas à segurança social em que tenha havido transferência de créditos para a titularidade do Tesouro.\n\n3 - Serão abrangidas todas as dívidas, com a natureza referida nos n.os 1 e 2, que sejam declaradas pelo devedor no requerimento que solicite a aplicação das medidas, ainda que desconhecidas da administração fiscal, ou das instituições de previdência e de segurança social.\n\n4 - Das dívidas referidas no número anterior serão pagas em primeiro lugar as respeitantes a impostos e contribuições retidos na fonte ou legalmente repercutidos a terceiros, seguindo-se as dívidas por capital de outros impostos e contribuições, ambas com os respectivos juros de mora vencidos, e as dívidas por juros de mora vincendos, devendo ser pagas primeiramente, de entre as dívidas da mesma natureza, as mais antigas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "137264cbd4d96ce8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de acesso",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 3.º — Condições de acesso\n\n1 - O acesso a qualquer das medidas excepcionais previstas no presente diploma depende da apresentação de requerimento, por parte do devedor, e, salvo no caso de pagamento imediato, do preenchimento das seguintes condições:\n\na) Compromisso expresso de cumprimento futuro das suas obrigações tributárias, ou das contribuições para as instituições de previdência ou de segurança social;\n\nb) Apresentação de declaração sobre o valor e a composição do património do devedor, com o conteúdo previsto na [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, bem como, tratando-se de pessoa colectiva, dos membros dos respectivos órgãos de administração, se necessário;\n\nc) Prestação à administração fiscal de todas as informações relevantes para apuramento da dívida, verificação e controlo da situação tributária do devedor, bem como, tratando-se de pessoa colectiva, dos membros dos respectivos órgãos de administração, se necessário;\n\nd) Autorização de publicitação anual da situação contributiva do devedor, quando pessoa colectiva, em caso de incumprimento das obrigações decorrentes do presente diploma.\n\n2 - As dívidas abrangidas pelo presente diploma tornar-se-ão exigíveis, nos termos da lei em vigor, quando:\n\na) Deixe de ser efectuado o pagamento integral e pontual das prestações nele previstas;\n\nb) Sejam revogadas as autorizações, ou deixem de ser renovadas as declarações decorrentes da lei;\n\nc) O devedor incorra em incumprimento de qualquer obrigação tributária principal, ou de contribuição para instituições de previdência ou de segurança social, não abrangida pelo presente diploma.\n\n3 - Para efeitos do disposto no número anterior, os montantes exigíveis serão determinados de acordo com o valor e com os prazos de pagamento a que o devedor estava obrigado, com os acréscimos legais, nele se imputando, a título de pagamentos por conta, as quantias que tiverem sido pagas a título de prestações, beneficiando o devedor de redução de créditos por juros de mora vencidos na parte correspondente ao capital entretanto pago.\n\n4 - No caso de conversão de créditos em capital, o incumprimento determinará a exigibilidade da importância correspondente à participação assumida.\n\n5 - Sempre que a autorização de aplicação das medidas excepcionais previstas no presente diploma tenha sido concedida no quadro de processo judicial de recuperação de empresa, o incumprimento das obrigações por parte do devedor é equiparado, para todos os efeitos legais, a incumprimento das deliberações da assembleia de credores que tiver aprovado as providências de recuperação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "ce9f6f2f6afe61ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Redução do valor dos créditos por juros de mora e juros compensatórios",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 4.º — Redução do valor dos créditos por juros de mora e juros compensatórios\n\n1 - A redução do valor dos créditos é apenas aplicável aos créditos relativos a juros de mora vencidos e vincendos e a juros compensatórios.\n\n2 - A redução aplicável aos créditos relativos a juros de mora vencidos e vincendos prevista no número anterior efectuar-se-á através de aplicação ao capital em dívida da taxa média de juro vencido pela dívida pública interna, colocada durante 1995, calculada nos termos do n.º 2.º da Portaria n.º 1485-A/95, de 28 de Dezembro.\n\n3 - São devidos juros vincendos, contados anualmente, em relação à parte ainda não paga do capital da dívida, aplicando-se ao respectivo cálculo a taxa de juro referida no número anterior.\n\n4 - O pagamento, no todo ou em parte, do capital em dívida nos três meses seguintes ao do deferimento do requerimento que solicite a regularização determina, na parte correspondente, dispensa de pagamento de juros vencidos.\n\n5 - O pagamento das importâncias em dívida em período inferior a dois anos determina a dispensa de pagamento de juros vincendos.\n\n6 - O pagamento integral do capital em dívida nos três meses seguintes ao do deferimento do requerimento que solicite a regularização determina, na parte correspondente, dispensa de pagamento de 80% dos juros compensatórios.\n\n7 - O pagamento das importâncias em dívida ao abrigo de plano prestacional determina a dispensa de 60% do pagamento dos juros compensatórios caso o pagamento seja concretizado em período inferior a dois anos e em 40% no caso de o ser em período superior, ficando esta dispensa condicionada ao integral cumprimento do referido plano prestacional.\n\n8 - A requerimento do devedor, aplicar-se-á aos juros compensatórios o disposto nos n.os 1 a 5 para os juros de mora quando se verifique uma das seguintes situações:\n\na) Respeitarem a período anterior à entrada em vigor do Decreto-Lei n.º 7/96, de 7 de Fevereiro, e serem, antes dessa data, qualificados por lei como juros de mora;\n\nb) Não ser legalmente permitida, em relação à correspondente dívida de imposto, a entrega de declaração ou guia por parte do devedor sem estar acompanhada do correspondente meio de pagamento.\n\n9 - Na liquidação dos juros de mora vencidos é aplicável o disposto no artigo 6.º do Decreto-Lei n.º 49168, de 5 de Agosto de 1969.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "f52e949c52d4dd9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Diferimento do pagamento dos créditos",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 5.º — Diferimento do pagamento dos créditos\n\n1 - O diferimento do pagamento dos créditos, incluindo os créditos por juros vencidos e vincendos, assumirá a forma de pagamento em prestações mensais iguais, no máximo de 150.\n\n2 - O número de prestações concedido para o pagamento dependerá de:\n\na) Capacidade financeira do devedor;\n\nb) Montante da dívida, não podendo cada prestação ter montante inferior a valor a fixar por despachos dos Ministros das Finanças e da Solidariedade e Segurança Social;\n\nc) Risco financeiro envolvido;\n\nd) Circunstâncias determinantes da origem das dívidas.\n\n3 - O pagamento de cada prestação será efectuado até ao final do mês a que diga repeito.\n\n4 - Quando, por motivo não imputável ao devedor, o pagamento não tenha sido efectuado no prazo previsto no número anterior, poderá ser requerida a relevação do atraso, desde que o pagamento se efectue nos primeiros cinco dias úteis do mês seguinte.\n\n5 - O prazo de prescrição das dívidas suspende-se durante o período de pagamento em prestações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "038ab5b878978894": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Trâmites dos pedidos de adesão",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 14.º — Trâmites dos pedidos de adesão\n\n1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 289/92, de 31 de Dezembro, quando exigíveis.\n\n2 - O requerimento será dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, conforme os casos, sendo apresentado em duas vias caso estejam simultaneamente em causa dívidas ao Estado e à segurança social.\n\n3 - O modelo do requerimento e a forma que deverão revestir as declarações e autorizações que o deverão acompanhar serão objecto de portaria conjunta dos Ministros das Finanças e da Solidariedade e Segurança Social.\n\n4 - As repartições de finanças enviarão, no prazo de cinco dias, à instituição de previdência ou de segurança social competente a via do requerimento que por ela deva ser instruída.\n\n5 - Os requerimentos a apresentar por entidades devedoras que se encontrem abrangidas por processos judiciais de recuperação da empresa e de falência serão apresentados nas sedes da Direcção-Geral das Contribuições e Impostos e do Instituto de Gestão Financeira da Segurança Social.\n\n6 - Estando a decorrer, à data da apresentação do requerimento referido no número anterior, processo judicial de recuperação de empresa, poderá o tribunal, a requerimento da empresa, ouvida a comissão de credores, prorrogar, até à data do despacho referido no n.º 8, o prazo para realização da assembleia definitiva de credores.\n\n7 - Pretendendo a entidade devedora celebrar contrato de consolidação financeira e reestruturação empresarial, o requerimento será apresentado no órgão competente para esse procedimento.\n\n8 - Sobre os requerimentos apresentados será proferido despacho no prazo de 60 dias.\n\n9 - A apresentação de requerimento de aplicação das medidas previstas no presente diploma não suspende o normal curso dos processos de execução fiscal já instaurados, ou a instauração de novos processos, ficando todavia suspensa, até decisão do requerimento, a venda de bens.\n\n10 - O deferimento do requerimento determina, enquanto o devedor reunir as condições referidas no artigo 3.º e, sendo caso disso, no artigo 11.º do presente diploma, a suspensão dos processos de execução fiscal em curso, bem como após a instauração, de novos processos, quando não se tornem necessários para garantir o valor da dívida, nos termos dos n.os 2 e 3 do artigo 6.º\n\n11 - No momento da entrega dos requerimentos e mostrando-se pago valor correspondente ao da primeira prestação tal como decorre do pedido formulado, os serviços competentes poderão emitir declaração de situação tributária regularizada, válida por três meses, para os efeitos previstos no Decreto-Lei n.º 236/95, de 13 de Setembro, ou outra situação de igual natureza.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "3b3c16538444fec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pagamento",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 15.º — Pagamento\n\n1 - O pagamento das dívidas abrangidas pelo presente diploma terá início a partir de Janeiro de 1997.\n\n2 - As dívidas de natureza fiscal, as dívidas a instituições de previdência e segurança social, incluindo as quotizações devidas ao extinto Fundo de Desemprego, e as dívidas ao Tesouro serão pagas separadamente, de acordo com os planos de pagamento relativos a cada uma delas.\n\n3 - O pagamento das dívidas ao Estado será efectuado na tesouraria da Fazenda Pública da sede ou residência da entidade devedora, ainda que diga respeito a processos de execução fiscal que corram os seus termos em outros concelhos ou bairros fiscais, sem prejuízo de serem levados em conta os pagamentos que o devedor realize nas tesourarias da Fazenda Pública ou nas secretarias administrativas de Lisboa e Porto onde se localizem as dívidas executivas.\n\n4 - O pagamento das dívidas à segurança social será efectuado nas tesourarias das instituições de previdência e de segurança social designadas para o efeito, ainda que diga respeito a dívidas já participadas à administração fiscal.\n\n5 - Nas situações referidas nos n.os 3 e 4, os serviços em que seja efectuado o pagamento assegurarão o envio às repartições de finanças competentes da informação necessária ao encerramento dos processos de execução fiscal relativos a dívidas já regularizadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  },
+  "c911cea1a1367f0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º-A — Multas ao ex-Fundo de Desemprego e encargos bancários",
+   "in_force_from": "1996-12-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+   ],
+   "markdown": "###### Artigo 17.º-A — Multas ao ex-Fundo de Desemprego e encargos bancários\n\n1 - O pagamento das importâncias em dívida, efectuado nos termos do presente diploma, determina a redução das multas devidas ao ex-Fundo de Desemprego a 10% do montante aplicado.\n\n2 - Os encargos bancários resultantes de anteriores acordos de pagamentos em dívida às instituições de segurança social serão equiparados a juros de mora vencidos.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 235-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-a-1996-694044), publicado em 1996-12-09."
+  }
+ }
+}

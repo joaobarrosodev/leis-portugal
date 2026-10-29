@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-02-09'
+version_history:
+  file: decreto-regulamentar-40-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-02-09'
+    amending: pt:dre:223994:por
+    amending_title: Decreto Regulamentar n.º 2/98
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:13:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 2/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-40-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,9 +194,11 @@ As pensões de reforma já atribuídas aos pescadores devem ser recalculadas de 
 
 O disposto nos artigos 6.º e 8.º é aplicável às pensões de sobrevivência atribuídas por morte de trabalhadores inscritos marítimos beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca.
 
-###### Artigo 10.º — (Proibição de acumulação de pensões com exercício de actividade)
+###### Artigo 10.º — Proibição de acumulação de pensões com exercício de actividade
 
-Os pescadores cujas pensões de reforma sejam calculadas ao abrigo do presente diploma não podem acumular as respectivas pensões de reforma com remunerações auferidas, a qualquer título, por actividade exercida nas pescas.
+Os titulares de pensões de velhice calculadas ou recalculadas por aplicação das normas do presente diploma perdem o direito às referidas prestação nos casos em que mantenham o exercício de actividade no mar a bordo de embarcações de pesca como inscritos marítimos e enquanto durar a mesma actividade.
+
+> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1998-223994), publicado em 1998-02-04.
 
 ###### Artigo 11.º — (Norma revogatória)
 

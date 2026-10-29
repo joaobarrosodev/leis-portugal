@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-07-22'
+version_history:
+  file: decreto-regulamentar-62-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-07-22'
+    amending: pt:dre:492395:por
+    amending_title: Decreto Regulamentar n.º 13/2009
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/62/2007/05/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:31:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 13/2009.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2007/decreto-regulamentar-62-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -239,11 +254,13 @@ p) Até seis representantes de organizações não governamentais na área das o
 
 q) Até seis personalidades de reconhecido prestígio e experiência em matéria de obras públicas, transportes e comunicações.
 
-3 - Os vogais referidos no número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada, com excepção dos vogais indicados na alínea p).
+3 - Os vogais referidos no número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada, com excepção dos vogais indicados na alínea q).
 
 4 - A substituição dos vogais referidos no número anterior nas reuniões do CCOPTC opera-se mediante comunicação prévia da entidade representada.
 
-5 - Os vogais indicados nas alíneas n) e o) do n.º 2 são designados pelo membro do Governo responsável das Obras Públicas Transportes e Comunicações, sob proposta da Associação Nacional de Municípios Portugueses e das organizações não governamentais na área das obras públicas, transportes e comunicações, respectivamente.
+5 - Os vogais indicados nas alíneas o) e p) do n.º 2 são designados pelo membro do Governo responsável pelas áreas das obras públicas, transportes e comunicações, sob proposta da Associação Nacional de Municípios Portugueses e das organizações não governamentais nas áreas das obras públicas, transportes e comunicações, respectivamente.
+
+> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2009-492395), publicado em 2009-07-17.
 
 ###### Artigo 4.º — Presidente
 

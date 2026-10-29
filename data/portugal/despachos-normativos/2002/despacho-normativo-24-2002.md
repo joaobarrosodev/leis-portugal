@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-12-03'
+version_history:
+  file: despacho-normativo-24-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-03'
+    amending: pt:dre:441146:por
+    amending_title: Despacho Normativo n.º 54/2002
+    changes:
+    - Altera Artigo ANEXO II::6.º
+    - Altera Artigo ANEXO II::12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/24/2002/04/18/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:38:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 54/2002. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-24-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -504,7 +520,11 @@ f) Despesas com a concepção e reprodução de documentação técnica necessá
 
 g) Outras despesas com a promoção do projecto, bem como com a organização de reuniões científicas e de divulgação do projecto.
 
+h) Aquisição e instalação de equipamentos pedagógicos em estruturas formativas públicas com actividade relevante na área do turismo.
+
 2 - Todas as despesas elegíveis são objecto de uma análise de razoabilidade e de adequação aos valores médios de mercado.
+
+> Alterado pelo/a [Despacho Normativo n.º 54/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-2002-441146), publicado em 2002-12-03.
 
 ###### Artigo 7.º — Natureza dos apoios
 
@@ -585,6 +605,10 @@ b) Projectos de investigação e desenvolvimento centrados, nomeadamente, nas te
 c) A concepção, produção e difusão de conteúdos e recursos formativos susceptíveis de serem utilizados em diversos contextos de formação profissional, designadamente em formação a distância e em formação em contexto real de trabalho;
 
 d) Acções de formação de agentes de ensino-formação, designadamente formadores, tutores, gestores e técnicos de formação.
+
+e) Projectos de remodelação, recuperação, adaptação e modernização de edifícios, bem como estudos referentes à aquisição e instalação de equipamentos em estruturas formativas públicas com actividade relevante na área do turismo.
+
+> Alterado pelo/a [Despacho Normativo n.º 54/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-2002-441146), publicado em 2002-12-03.
 
 #### SECÇÃO III — Valorização das profissões turísticas
 

@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-05-07'
+version_history:
+  file: decreto-lei-48518.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-07'
+    amending: pt:dre:152327:por
+    amending_title: Decreto-Lei n.º 133/85
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:06:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 133/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48518.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,27 +134,35 @@ Considerando a necessidade de orientar e coordenar essa assistência no domínio
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Nos países em que o número ou a importância dos núcleos de portugueses o aconselhe, a acção dos representantes diplomáticos será auxiliada por conselheiros sociais pertencentes ao quadro do pessoal especializado do Ministério dos Negócios Estrangeiros.
+###### Artigo 1.º
+
+Nos países em que o número ou a importância dos núcleos de portugueses o aconselhe, a acção dos representantes diplomáticos será auxiliada por conselheiros sociais pertencentes ao quadro do pessoal especializado do Ministério dos Negócios Estrangeiros.
 
 § 1.º Compete ao conselheiro social coadjuvar o chefe de missão diplomática e executar as suas directivas no que se refere à protecção dos legítimos interesses dos emigrantes portugueses e à assistência a prestar-lhes, nos domínios das relações e acordos de trabalho, segurança social e defesa moral.
 
 § 2.º Caberá ao conselheiro social, quando for caso disso, orientar e coordenar o trabalho dos assistentes sociais que prestem serviço no mesmo país, bem como conceder toda a colaboração que, por intermédio do chefe de missão diplomática, lhe seja solicitada pelas autoridades que superintendem nos problemas da emigração, designadamente da Junta da Emigração.
 
-Art. 2.º É criado, desde já, um lugar de conselheiro social, devendo os restantes ser criados à medida que as necessidades do serviço o justifiquem, por decreto referendado pelos Ministros do Interior, das Finanças, dos Negócios Estrangeiros e das Corporações e Previdência Social.
+###### Artigo 2.º
 
-Art. 3.º Os lugares de conselheiro social serão providos pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro das Corporações e Previdência Social, devendo a nomeação recair em indivíduos com título universitário que, pela sua formação e trabalho anteriores, tenham dado provas de competência para o desempenho do cargo.
+(Revogado.)
 
-Art. 4.º Se a escolha recair em indivíduo estranho aos quadros do funcionalismo público, a designação será feita por contrato. Tratando-se de funcionário público, o provimento revestirá a forma de requisição.
+> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02.
 
-§ 1.º O funcionário requisitado abre vaga no quadro de que provenha, mas pode a todo o tempo regressar ao mesmo quadro se assim o requerer ou por decisão ministerial. Caso não haja vaga, devem ser-lhe abonados, por conta do orçamento do Ministério dos Negócios Estrangeiros e como supranumerário, os vencimentos a que tiver direito no aludido quadro até que nele reingresse.
+###### Artigo 3.º
 
-§ 2.º O tempo de serviço prestado no Ministério dos Negócios Estrangeiros no regime de requisição é contado para todos os efeitos, incluindo promoção, aposentação ou reforma.
+Os lugares de conselheiro social serão providos pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro das Corporações e Previdência Social, devendo a nomeação recair em indivíduos com título universitário que, pela sua formação e trabalho anteriores, tenham dado provas de competência para o desempenho do cargo.
 
-Art. 5.º Ao conselheiro social será abonado o vencimento anual de 43200$00, excepto no caso de o indivíduo designado para o desempenho do cargo ser funcionário público. Neste caso, terá direito ao vencimento da categoria e exercício do lugar que lhe corresponder no quadro a que pertence.
+###### Artigo 4.º
 
-§ 1.º O conselheiro social perceberá o abono para despesas de representação inscrito no orçamento para esse fim e ser-lhe-ão aplicáveis as disposições dos §§ 2.º e 3.º do artigo 35.º e do artigo 36.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+(Revogado.)
 
-§ 2.º No corrente ano económico o abono para despesas de representação referido no parágrafo anterior será fixado por despacho do Ministro dos Negócios Estrangeiros e os encargos resultantes do presente diploma serão suportados por força das disponibilidades existentes na dotação do n.º 1.º do artigo 7.º, capítulo 2.º, do orçamento em vigor do Ministério dos Negócios Estrangeiros.
+> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02.
 
 Publique-se e cumpra-se como nele se contém.
 

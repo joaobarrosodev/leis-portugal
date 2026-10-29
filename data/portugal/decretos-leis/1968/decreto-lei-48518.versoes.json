@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:273206:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80c4df2e00852e00"
+   ]
+  },
+  {
+   "date": "1985-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152327:por",
+     "title": "Decreto-Lei n.º 133/85",
+     "published": "1985-05-02",
+     "dre_path": "/dr/detalhe/decreto-lei/133-1985-152327"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "42eca4b5ffec9504",
+    "874accb2a5906176",
+    "fb9f370c0be2907e",
+    "88e7a71d6b64dfc1",
+    "1e4a28f772b0b351",
+    "29446f28e5e8ed5f"
+   ]
+  }
+ ],
+ "fragments": {
+  "80c4df2e00852e00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que na resolução do Conselho de Ministros sobre o problema da emigração se determinou que a acção dos representantes diplomáticos fosse coadjuvada por funcionários especializados, relativamente a certos aspectos de assistência aos emigrantes portugueses, nos países em que tal se justificasse;\n\nConsiderando a necessidade de orientar e coordenar essa assistência no domínio das relações e acordos de trabalho, bem como no dos problemas de segurança social e defesa moral dos emigrantes;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Nos países em que o número ou a importância dos núcleos de portugueses o aconselhe, a acção dos representantes diplomáticos será auxiliada por conselheiros sociais pertencentes ao quadro do pessoal especializado do Ministério dos Negócios Estrangeiros.\n\n§ 1.º Compete ao conselheiro social coadjuvar o chefe de missão diplomática e executar as suas directivas no que se refere à protecção dos legítimos interesses dos emigrantes portugueses e à assistência a prestar-lhes, nos domínios das relações e acordos de trabalho, segurança social e defesa moral.\n\n§ 2.º Caberá ao conselheiro social, quando for caso disso, orientar e coordenar o trabalho dos assistentes sociais que prestem serviço no mesmo país, bem como conceder toda a colaboração que, por intermédio do chefe de missão diplomática, lhe seja solicitada pelas autoridades que superintendem nos problemas da emigração, designadamente da Junta da Emigração.\n\nArt. 2.º É criado, desde já, um lugar de conselheiro social, devendo os restantes ser criados à medida que as necessidades do serviço o justifiquem, por decreto referendado pelos Ministros do Interior, das Finanças, dos Negócios Estrangeiros e das Corporações e Previdência Social.\n\nArt. 3.º Os lugares de conselheiro social serão providos pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro das Corporações e Previdência Social, devendo a nomeação recair em indivíduos com título universitário que, pela sua formação e trabalho anteriores, tenham dado provas de competência para o desempenho do cargo.\n\nArt. 4.º Se a escolha recair em indivíduo estranho aos quadros do funcionalismo público, a designação será feita por contrato. Tratando-se de funcionário público, o provimento revestirá a forma de requisição.\n\n§ 1.º O funcionário requisitado abre vaga no quadro de que provenha, mas pode a todo o tempo regressar ao mesmo quadro se assim o requerer ou por decisão ministerial. Caso não haja vaga, devem ser-lhe abonados, por conta do orçamento do Ministério dos Negócios Estrangeiros e como supranumerário, os vencimentos a que tiver direito no aludido quadro até que nele reingresse.\n\n§ 2.º O tempo de serviço prestado no Ministério dos Negócios Estrangeiros no regime de requisição é contado para todos os efeitos, incluindo promoção, aposentação ou reforma.\n\nArt. 5.º Ao conselheiro social será abonado o vencimento anual de 43200$00, excepto no caso de o indivíduo designado para o desempenho do cargo ser funcionário público. Neste caso, terá direito ao vencimento da categoria e exercício do lugar que lhe corresponder no quadro a que pertence.\n\n§ 1.º O conselheiro social perceberá o abono para despesas de representação inscrito no orçamento para esse fim e ser-lhe-ão aplicáveis as disposições dos §§ 2.º e 3.º do artigo 35.º e do artigo 36.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.\n\n§ 2.º No corrente ano económico o abono para despesas de representação referido no parágrafo anterior será fixado por despacho do Ministro dos Negócios Estrangeiros e os encargos resultantes do presente diploma serão suportados por força das disponibilidades existentes na dotação do n.º 1.º do artigo 7.º, capítulo 2.º, do orçamento em vigor do Ministério dos Negócios Estrangeiros.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "42eca4b5ffec9504": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que na resolução do Conselho de Ministros sobre o problema da emigração se determinou que a acção dos representantes diplomáticos fosse coadjuvada por funcionários especializados, relativamente a certos aspectos de assistência aos emigrantes portugueses, nos países em que tal se justificasse;\n\nConsiderando a necessidade de orientar e coordenar essa assistência no domínio das relações e acordos de trabalho, bem como no dos problemas de segurança social e defesa moral dos emigrantes;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "874accb2a5906176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNos países em que o número ou a importância dos núcleos de portugueses o aconselhe, a acção dos representantes diplomáticos será auxiliada por conselheiros sociais pertencentes ao quadro do pessoal especializado do Ministério dos Negócios Estrangeiros.\n\n§ 1.º Compete ao conselheiro social coadjuvar o chefe de missão diplomática e executar as suas directivas no que se refere à protecção dos legítimos interesses dos emigrantes portugueses e à assistência a prestar-lhes, nos domínios das relações e acordos de trabalho, segurança social e defesa moral.\n\n§ 2.º Caberá ao conselheiro social, quando for caso disso, orientar e coordenar o trabalho dos assistentes sociais que prestem serviço no mesmo país, bem como conceder toda a colaboração que, por intermédio do chefe de missão diplomática, lhe seja solicitada pelas autoridades que superintendem nos problemas da emigração, designadamente da Junta da Emigração."
+  },
+  "fb9f370c0be2907e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-05-07",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02."
+  },
+  "88e7a71d6b64dfc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs lugares de conselheiro social serão providos pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro das Corporações e Previdência Social, devendo a nomeação recair em indivíduos com título universitário que, pela sua formação e trabalho anteriores, tenham dado provas de competência para o desempenho do cargo."
+  },
+  "1e4a28f772b0b351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1985-05-07",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02."
+  },
+  "29446f28e5e8ed5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1985-05-07",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 133/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1985-152327), publicado em 1985-05-02.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

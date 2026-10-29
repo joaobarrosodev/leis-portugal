@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516735:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19938dddf568a7ba",
+    "658eb635daf34f18",
+    "5bb9548fdd15a374",
+    "d7ce16066a5b9db6",
+    "92ea9c900dbe7bf4",
+    "c3440dcd9a314152",
+    "35866963c738f098",
+    "8a58f0c4be89cf16",
+    "256a8064dad66471",
+    "bb86bf9ca2363156",
+    "227b26e595de2f06",
+    "6eca593e1fa8184a",
+    "128eca45ed6c45cd",
+    "ae629f6b5011f8a9",
+    "f04690c2784a2517",
+    "a440b9249d5b94ed",
+    "9a9414ea9646f0bf",
+    "76763c173e3f67b5",
+    "fbbc4e92d9759a40",
+    "760477985b7cc09a",
+    "03ddf2d550a63ab1",
+    "e585ca9cbc2d0f64"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "19938dddf568a7ba",
+    "658eb635daf34f18",
+    "5bb9548fdd15a374",
+    "d7ce16066a5b9db6",
+    "92ea9c900dbe7bf4",
+    "eb3945e1f85b72e1",
+    "35866963c738f098",
+    "8a58f0c4be89cf16",
+    "5271c5328fbb98c2",
+    "fc5ff89e316b7286",
+    "227b26e595de2f06",
+    "6eca593e1fa8184a",
+    "128eca45ed6c45cd",
+    "ae629f6b5011f8a9",
+    "f04690c2784a2517",
+    "a440b9249d5b94ed",
+    "9a9414ea9646f0bf",
+    "76763c173e3f67b5",
+    "fbbc4e92d9759a40",
+    "760477985b7cc09a",
+    "03ddf2d550a63ab1",
+    "e585ca9cbc2d0f64"
+   ]
+  }
+ ],
+ "fragments": {
+  "19938dddf568a7ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio\n\nAo longo de mais de 130 km o rio Douro e o seu afluente Águeda constituem a fronteira natural entre Portugal e Espanha. Neste troço, o vale do Douro assume, devido à sua geomorfologia, uma estrutura de canhão fluvial, com declivosas vertentes, ditas «arribas», onde abundam os afloramentos rochosos. Este enclave orográfico, de características únicas em termos geológicos e climáticos, condicionou as comunidades florística e faunística e as actividades rurais. A vida selvagem, em especial a avifauna, assume clara relevância à escala nacional e em diversos aspectos à escala internacional (Programa CORINE - Biótopos, Lista Nacional de Sítios da Directiva n.º [92/43/CEE](http://data.europa.eu/eli/dir/1992/43/oj?locale=pt)).\n\nNos concelhos de Figueira de Castelo Rodrigo, Freixo de Espada à Cinta, Miranda do Douro e Mogadouro a actividade agrária ocupa o espaço natural em que o homem se assumiu como construtor da paisagem: dos amendoais aos olivais, das vinhas às searas de trigo e lameiros de feno, passando pelos rebanhos de ovinos, caprinos e pela criação de gado bovino, num quadro diverso e multicolor cheio de potencialidades. Ligadas à presença humana estão ainda as tradições, o folclore, o artesanato e até o dialecto mirandês.\n\nEstamos, pois, em presença de um património natural que, associado às actividades humanas e ao património cultural local, confere a esta região características muito próprias. A conjugação destes elementos justifica a sua classificação como parque natural, tendo em vista a adopção de medidas que permitam a valorização das suas características mais relevantes, nomeadamente dos pontos de vista natural, paisagístico, sócio-económico e cultural.\n\nConstitui reforço ao propósito inicial dessa criação o preceituado na Resolução do Conselho de Ministros n.º 102/96, de 8 de Julho, ao determinar a adopção de medidas que visem o desenvolvimento sustentável das áreas protegidas, através da vinculação de todos os departamentos do Estado, criando mecanismos de incentivo ao estabelecimento de tais medidas e desmistificando, desse modo, valorações negativas a que a criação de áreas protegidas possa ainda estar associada.\n\nForam ouvidas as Câmaras Municipais de Figueira de Castelo Rodrigo, Freixo de Espada à Cinta, Miranda do Douro e Mogadouro e foi realizado inquérito público.\n\nAssim:\n\nAo abrigo do disposto no artigo 13.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "658eb635daf34f18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado o Parque Natural do Douro Internacional, adiante designado por Parque Natural."
+  },
+  "5bb9548fdd15a374": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - Os limites do Parque Natural são os fixados no texto e na carta, que constituem os anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - As dúvidas eventualmente suscitadas pela leitura da carta que constitui o anexo II ao presente diploma são resolvidas pela consulta do original, à escala de 1:25000, arquivado na sede do Instituto da Conservação da Natureza."
+  },
+  "d7ce16066a5b9db6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos específicos\n\nSem prejuízo do disposto no artigo 3.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, constituem objectivos específicos do Parque Natural:\n\na) Valorizar e conservar o património natural e o equilíbrio ecológico, através da preservação da biodiversidade e da utilização sustentável das espécies, habitats e ecossistemas;\n\nb) Promover a melhoria da qualidade de vida das populações, em harmonia com a conservação da natureza;\n\nc) Valorizar e salvaguardar o património arquitectónico, histórico e cultural, com integral respeito pelas actividades tradicionais, designadamente a Região Demarcada do Douro, a mais antiga região demarcada do mundo;\n\nd) Ordenar e disciplinar as actividades recreativas na região, de forma a evitar a degradação dos elementos naturais, seminaturais e paisagísticos, estéticos e culturais da região."
+  },
+  "92ea9c900dbe7bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão\n\nO Parque Natural é gerido pelo Instituto da Conservação da Natureza, adiante designado por ICN."
+  },
+  "c3440dcd9a314152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "35866963c738f098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O presidente da comissão directiva é nomeado por despacho do Ministro do Ambiente, sob proposta do presidente do ICN, de quem depende hierarquicamente.\n\n3 - Um dos vogais é nomeado pelo ICN e o outro pelas Câmaras Municipais de Figueira de Castelo Rodrigo, Freixo de Espada à Cinta, Miranda do Douro e Mogadouro, as quais dispõem, para o efeito, de um prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - Na falta de nomeação do vogal pelas câmaras municipais no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área do ordenamento do território e administração local.\n\n5 - O mandato dos titulares da comissão directiva é de três anos.\n\n6 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente.\n\n7 - O presidente tem voto de qualidade.\n\n8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao Decreto-Lei n.º 193/93, de 24 de Maio, na redacção do Decreto-Lei n.º 169/96, de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 19/93, de 23 de Janeiro."
+  },
+  "8a58f0c4be89cf16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência da comissão directiva\n\n1 - Compete à comissão directiva, em geral, a administração dos interesses específicos do Parque Natural, executando as medidas contidas nos instrumentos de gestão e assegurando o cumprimento das normas legais e regulamentares em vigor.\n\n2 - Compete, em especial, ao presidente da comissão directiva:\n\na) Representar o Parque Natural;\n\nb) Dirigir os serviços e o pessoal com os quais o Parque Natural seja dotado;\n\nc) Submeter anualmente ao ICN um relatório sobre o estado do Parque Natural;\n\nd) Fiscalizar a conformidade do exercício de actividades no Parque Natural com as normas do Decreto-Lei n.º 19/93, de 23 de Janeiro, do presente diploma e do plano de ordenamento e respectivo regulamento;\n\ne) Cobrar as receitas e autorizar as despesas para que seja competente.\n\n3 - Compete, em especial, à comissão directiva:\n\na) Preparar e executar planos e programas anuais e plurianuais de gestão e investimento, submetendo-os previamente à apreciação do conselho consultivo;\n\nb) Elaborar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência, submetendo-os previamente à apreciação do conselho consultivo;\n\nc) Decidir da elaboração periódica de relatórios científicos e culturais sobre o estado do Parque Natural;\n\nd) Autorizar actos ou actividades condicionados no Parque Natural, tendo em atenção o plano de ordenamento e o regulamento aprovados;\n\ne) Tomar as medidas administrativas de reposição previstas no Decreto-Lei n.º 19/93, de 23 de Janeiro;\n\nf) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras acções realizadas em violação ao disposto no presente diploma e legislação complementar.\n\n4 - Das deliberações da comissão directiva cabe recurso para o Ministro do Ambiente."
+  },
+  "256a8064dad66471": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Direcção Regional de Agricultura de Trás-os-Montes e Direcção Regional de Agricultura da Beira Interior, consideradas em conjunto;\n\nb) Instituto Politécnico de Bragança, Instituto Politécnico da Guarda, Universidade da Beira Interior e Universidade de Trás-os-Montes e Alto Douro, consideradas em conjunto;\n\nc) Comissão de Coordenação da Região do Norte e Comissão de Coordenação da Região do Centro, consideradas em conjunto;\n\nd) Região de Turismo do Nordeste Transmontano;\n\ne) Câmara Municipal de Figueira de Castelo Rodrigo;\n\nf) Câmara Municipal de Freixo de Espada à Cinta;\n\ng) Câmara Municipal de Miranda do Douro;\n\nh) Câmara Municipal de Mogadouro;\n\ni) Juntas de freguesia incluídas no Parque Natural do concelho de Figueira de Castelo Rodrigo, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nj) Juntas de freguesia incluídas no Parque Natural do concelho de Freixo de Espada à Cinta, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nl) Juntas de freguesia incluídas no Parque Natural do concelho de Miranda do Douro, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nm) Juntas de freguesia incluídas no Parque Natural do concelho de Mogadouro, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\nn) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo pelo período de um ano;\n\no) Associações representativas dos diferentes sectores económicos, nomeadamente do sector primário, consideradas em conjunto e em sistema rotativo pelo período de um ano.\n\n2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.\n\n3 - O Instituto Português do Património Arqueológico e Arquitectónico (IPPAR) será ouvido pelo conselho, participando nas suas reuniões com estatuto de observador, nos termos do regulamento interno a aprovar pelo conselho.\n\n4 - Sempre que seja discutida matéria de interesse do IPPAR, este participará nas reuniões do conselho consultivo em substituição do representante da Região de Turismo do Nordeste Transmontano, sendo para o efeito convocado pelo presidente do conselho consultivo."
+  },
+  "bb86bf9ca2363156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;\n\ne) Dar parecer sobre assuntos com interesse para o Parque Natural."
+  },
+  "227b26e595de2f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Interdições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interdições\n\nNa área do Parque Natural, sem prejuízo dos restantes condicionalismos legais, são interditos os seguintes actos e actividades:\n\na) A alteração à morfologia do solo pela instalação ou ampliação de depósitos de ferro-velho, de sucata, de veículos, de inertes ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;\n\nb) O lançamento de águas residuais industriais ou de uso doméstico na água, no solo ou no subsolo, susceptíveis de causarem poluição;\n\nc) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitas a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;\n\nd) A prática de campismo ou caravanismo fora dos locais para tal destinados."
+  },
+  "6eca593e1fa8184a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos e actividades sujeitos a autorização\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia do Parque Natural os seguintes actos e actividades:\n\na) A realização de obras de construção civil fora dos perímetros urbanos ou predominantemente urbanos, designados como tal nos planos municipais de ordenamento do território (PMOT), nomeadamente para edificações, instalação de parques de campismo e caravanismo, equipamentos turísticos de lazer e recreio, explorações agro-pecuárias e agro-industriais, barragens, açudes ou tratamento de águas residuais, estaleiros temporários ou permanentes, à excepção das obras de conservação, restauro e limpeza;\n\nb) A alteração do uso actual dos terrenos para a implantação de unidades industriais em superfícies não contempladas nos PMOT;\n\nc) A alteração do uso actual dos terrenos pelo estabelecimento de novas explorações de extracção de minerais e de inertes, incluindo a transmissão de licenças de exploração;\n\nd) A alteração do uso actual dos terrenos ou da morfologia do solo pela instalação de novas culturas agrícolas numa área superior a 5 ha;\n\ne) A alteração do uso actual dos terrenos ou da morfologia do solo pela instalação de novos povoamentos florestais ou sua reconversão numa área superior a 5 ha;\n\nf) As alterações do coberto vegetal através da realização de cortes rasos de povoamentos florestais ou de corte de vegetação arbórea ripícola (linhas de água), com excepção das decorrentes da normal actividade agrícola e florestal;\n\ng) A abertura de novas estradas, caminhos ou acessos, bem como o alargamento de vias existentes, quando implique a destruição do coberto vegetal;\n\nh) A instalação de infra-estruturas eléctricas e telefónicas aéreas e subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;\n\ni) A prática de actividades desportivas e ou turísticas susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área;\n\nj) O sobrevoo de aeronaves com motor abaixo de 1000 pés, incluindo a utilização de locais de descolagem para actividades desportivas que têm como suporte o ar, excepto por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural;\n\nl) A realização de fogos controlados, efectuados ao abrigo da alínea d) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e a realização de queimadas ao abrigo do Decreto-Lei n.º 316/95, de 28 de Novembro;\n\nm) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção que, pela sua natureza, não decorram da normal actividade agrícola;\n\nn) A introdução no estado selvagem de espécies zoológicas e botânicas exóticas;\n\no) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica decorrente de normas legais em vigor;\n\np) A utilização de aparelhagem de amplificação sonora, excepto dentro dos perímetros urbanos, locais de festividade religiosa e recintos de feira;\n\nq) A venda ambulante de produtos de qualquer natureza, excepto dentro dos perímetros urbanos, locais de festividade religiosa e recintos de feira, não carecendo de autorização os produtos extraídos ou manufacturados na área geográfica do Parque Natural."
+  },
+  "128eca45ed6c45cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º ou, sem as autorizações necessárias, no artigo 11.º\n\n2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os artigos 22.º e seguintes do Decreto-Lei n.º 19/93, de 23 de Janeiro."
+  },
+  "ae629f6b5011f8a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reposição da situação anterior à infracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reposição da situação anterior à infracção\n\nA comissão directiva do Parque Natural pode ordenar que se proceda à reposição da situação anterior à infracção, nos termos do disposto no artigo 25.º do Decreto-Lei n.º 19/93, de 23 de Janeiro."
+  },
+  "f04690c2784a2517": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nAs funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável no Parque Natural, competem ao ICN, em colaboração com as autarquias locais e demais entidades competentes, nos termos da legislação em vigor."
+  },
+  "a440b9249d5b94ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Plano de ordenamento e regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Plano de ordenamento e regulamento\n\nO Parque Natural é dotado de um plano de ordenamento e respectivo regulamento, nos termos dos artigos 14.º e 15.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, a elaborar no prazo máximo de três anos."
+  },
+  "9a9414ea9646f0bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autorizações\n\n1 - Salvo disposição em contrário, as autorizações emitidas pela comissão directiva do Parque Natural são sempre vinculativas e não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n2 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações pela comissão directiva do Parque Natural é de 45 dias.\n\n3 - A falta de decisão final no prazo fixado no número anterior produz deferimento tácito.\n\n4 - As autorizações emitidas pela comissão directiva do Parque Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.\n\n5 - São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste diploma."
+  },
+  "76763c173e3f67b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadro de pessoal\n\nO Parque Natural do Douro Internacional é dotado de um quadro de pessoal do ICN, de acordo com a tabela apresentada no anexo III."
+  },
+  "fbbc4e92d9759a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros, 30 de Dezembro de 1997.\n\nAntónio Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Guilherme d'Oliveira Martins - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 9 de Abril de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Abril de 1998.\n\nPelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional."
+  },
+  "760477985b7cc09a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Limites do Parque Natural do Douro Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Limites do Parque Natural do Douro Internacional\n\nA sul pelo limite do concelho de Figueira de Castelo Rodrigo-Almeida, desde a ribeira de Toirões, no lugar de Pisão, seguindo para oeste até encontrar a estrada municipal n.º 604, no lugar de Gateira. Daí por essa estrada municipal em direcção norte até interceptar a ribeira das Alvercas, na Ponte da Gateira. Pela margem esquerda da ribeira das Alvercas e posteriormente rio Seco, para jusante, até à confluência de uma linha de água no lugar de Loição. Seguindo essa linha de água para montante até encontrar o caminho vicinal Cabeços-Vermiosa. Desde o lugar de Cabeços seguindo para norte pelo caminho vicinal que passa por Naves até encontrar a estrada municipal n.º 607. Daí por essa estrada municipal em direcção norte até ao cruzamento com a estrada municipal n.º 604-2. Seguindo por essa estrada municipal n.º 604-2 em direcção este até interceptar a ribeira de Aguiar, na Ponte Nova. Daí seguindo pela margem esquerda da ribeira de Aguiar, para jusante, até encontrar o limite do concelho de Vila Nova de Foz Côa-Figueira de Castelo Rodrigo, no lugar de Poio do Grilo. Seguindo esse limite de concelho em direcção noroeste até à margem do rio Douro, na Quinta de São Cibrão. Desde a margem oposta à Quinta de São Cibrão seguindo o rio Douro no seu percurso para jusante até encontrar o limite do concelho de Freixo de Espada à Cinta-Torre de Moncorvo, no lugar de Moinhos de Almendra. Seguindo esse limite de concelho em direcção norte até ao lugar de Tritana, onde se intercepta uma linha de água afluente da ribeira de Candedo. Descendo por essa linha de água até à ribeira de Candedo, descendo a ribeira de Candedo até à confluência de uma linha de água que se situa na sua margem esquerda, no lugar de Malhadais. Subindo essa linha de água até cruzar com a estrada municipal n.º 325, junto ao caminho vicinal que segue para a Quinta dos Centeeiros. Seguindo esse caminho vicinal para norte até encontrar o limite do concelho com Torre de Moncorvo. Seguindo esse limite de concelho em direcção nordeste até cruzar com a estrada nacional n.º 221, no lugar de Pala do Carvoeiro. Daí para norte pela estrada nacional n.º 221 até ao cruzamento com a estrada nacional n.º 220. Seguindo pela estrada nacional n.º 220 até à antiga estação ferroviária de Freixo de Espada à Cinta. Circundando essa estação e seguindo pela linha de caminho de ferro em direcção este até ao marco do quilómetro 45 (K 45). Do quilómetro 45 em direcção norte até interceptar a primeira linha eléctrica de alta tensão. Seguindo em direcção oeste pela linha de alta tensão até encontrar o limite do concelho de Freixo de Espada à Cinta-Mogadouro. Seguindo esse limite de concelho em direcção norte até cruzar com a linha de média tensão no lugar das minas da Fonte Santa. Seguindo essa linha em direcção norte até cruzar a estrada nacional n.º 221. Daí por essa estrada nacional para norte, passando por Castelo Branco e incluindo o seu perímetro urbano e seguindo até ao cruzamento com a estrada municipal n.º 594. Seguindo pela estrada n.º 594 até Vilar de Rei, passando por Vale do Porco, incluindo ambos os perímetros urbanos. De Vilar de Rei pelo caminho vicinal de Granja até Paço. Incluindo o perímetro urbano de Paço e seguindo até Vila de Ala pelo caminho municipal n.º 1167 e pelas estradas municipais n.os 595 e 595-1. Incluindo o perímetro urbano de Vila de Ala e seguindo pelo caminho vicinal de Cabeço das Pretas até Tó. Incluindo o perímetro urbano de Tó e seguindo o caminho vicinal pelo lugar de Malhado até Brunhozinho. Incluindo o perímetro urbano de Brunhozinho e seguindo pela estrada municipal n.º 597 e pela estrada nacional n.º 221 em direcção este até à estação ferroviária de Urrós. Incluindo a estação ferroviária de Urrós e seguindo a linha de caminho de ferro em direcção a Duas Igrejas. De Duas Igrejas, incluindo o seu perímetro urbano, pela estrada municipal n.º 1208 até à Ponte Pau. Daí até Malhadas pelo caminho vicinal que passa por Malhadiças, Vale Morgado (M. G.), Assenteira e Fonte de Maria. De Malhadas, incluindo o seu perímetro urbano, até Póvoa, pela estrada municipal n.º 543. De Póvoa, incluindo o seu perímetro urbano, até Constantim pelo caminho vicinal que passa em proximidade de Marral. De Constantim, incluindo o seu perímetro urbano, seguindo pela estrada municipal n.º 542 e desta pela estrada municipal até cruzar com a linha fronteiriça com Espanha em proximidade da Capela de Nossa Senhora da Luz. Daí para este e posteriormente para sul pela linha de fronteira com Espanha até encontrar o primeiro ponto determinado."
+  },
+  "03ddf2d550a63ab1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mapa com os limites do Parque Natural do Douro Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Mapa com os limites do Parque Natural do Douro Internacional\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/05/108b00/21642169.pdf)"
+  },
+  "e585ca9cbc2d0f64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Quadro de pessoal do Parque Natural do Douro Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Quadro de pessoal do Parque Natural do Douro Internacional\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/05/108b00/21642169.pdf)"
+  },
+  "eb3945e1f85b72e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "5271c5328fbb98c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "fc5ff89e316b7286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 9.º — Competência do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  }
+ }
+}

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-28-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/28/1995/11/18/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:23:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1995/decreto-regulamentar-28-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,7 +172,9 @@ São órgãos do Parque Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 5.º — Comissão directiva
 
@@ -174,31 +192,9 @@ b) O conselho consultivo.
 
 ###### Artigo 6.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva constituído pelo presidente da comissão directiva, que preside, e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Ministério do Planeamento e da Administração do Território;
-
-b) Ministério da Agricultura;
-
-c) Ministério da Indústria e Energia;
-
-d) Ministério das Obras Públicas, Transportes e Comunicações;
-
-e) Ministério do Comércio e Turismo;
-
-f) Ministério do Ambiente e Recursos Naturais;
-
-g) Câmara Municipal de Mértola;
-
-h) Câmara Municipal de Serpa;
-
-i) Associações de defesa do ambiente, consideradas em conjunto;
-
-j) Associações representativas dos agricultores da região.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho conjunto dos Ministros respectivos e do Ambiente e Recursos Naturais.
-
-3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou por solicitação de, pelo menos, dois terços dos seus membros.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 7.º — Condicionamentos
 

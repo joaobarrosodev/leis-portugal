@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:164400:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2635236667bbd4ba"
+   ]
+  },
+  {
+   "date": "1963-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:432795:por",
+     "title": "Decreto-Lei n.º 45398",
+     "published": "1963-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/45398-1963-432795"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "4ba4d17cfd9d02f3",
+    "a2c717313a5e9ca8",
+    "0bd0647c5e04321a",
+    "df7005e215e1f92f",
+    "a7d1a1b8bcf9ba47",
+    "cf278ced10295da7",
+    "784c341712f6a436",
+    "3185402f7070aedb"
+   ]
+  }
+ ],
+ "fragments": {
+  "2635236667bbd4ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Para financiar os numerosos empreendimentos incluídos no II Plano de Fomento foi conferida ao Governo, nos termos do n.º 13.º do artigo 91.º da Constituição, a autorização legislativa destinada à obtenção dos meios indispensáveis para esses financiamentos, através da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958.\n\nSegundo o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da referida lei, compete ao Governo realizar as operações de crédito necessárias, entre as quais figuram operações de crédito externo.\n\nCom esse objectivo entabularam-se negociações com determinado grupo de bancos americanos que se propõem fazer um empréstimo em dólares, no montante de 20000000.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º De harmonia com o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958, é autorizado o Ministro das Finanças a negociar com um grupo de bancos americanos um empréstimo externo, amortizável, até ao montante de 20000000 de dólares.\n\nArt. 2.º Este empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por 27 promissórias de valores nominais variáveis, conforme for fixado no respectivo contrato, ficando desde já autorizada a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente.\n\nArt. 3.º O juro das promissórias será de 5 1/2 por cento ao ano, pagável aos semestres, vencendo-se o primeiro juro seis meses após a data da entrega das promissórias aos mutuantes.\n\nArt. 4.º As 27 promissórias serão amortizadas ao par pela forma abaixo indicada, a partir da data da sua entrega aos mutuantes:\n\n$ 6660000, dois anos depois.\n\n$ 6670000, três anos depois.\n\n$ 6670000, quatro anos depois.\n\n§ único. O Ministro das Finanças, se o julgar conveniente, pode proceder à amortização antecipada, total ou parcial, dos montantes em dívida.\n\nArt. 5.º As promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, salvo o da sua colocação no mercado interno de capitais.\n\nEstarão também isentas do imposto sobre as sucessões e doações.\n\nArt. 6.º Fica o Ministro das Finanças autorizado a realizar com os bancos americanos o contrato de empréstimo a que alude este diploma e a emitir as promissórias representativas do mesmo, prestando as entidades competentes as necessárias garantias de conformidade.\n\nAs promissórias conterão as assinaturas das entidades indicadas no contrato.\n\nArt. 7.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 5 3/4 por cento.\n\n§ único. As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e forem autorizados, serão pagas por força das dotações orçamentais do Ministério das Finanças para o corrente ano económico inscritas no capítulo 1.º, artigo 11.º, n.º 1).\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 23 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ. - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "4ba4d17cfd9d02f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Para financiar os numerosos empreendimentos incluídos no II Plano de Fomento foi conferida ao Governo, nos termos do n.º 13.º do artigo 91.º da Constituição, a autorização legislativa destinada à obtenção dos meios indispensáveis para esses financiamentos, através da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958.\n\nSegundo o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da referida lei, compete ao Governo realizar as operações de crédito necessárias, entre as quais figuram operações de crédito externo.\n\nCom esse objectivo entabularam-se negociações com determinado grupo de bancos americanos que se propõem fazer um empréstimo em dólares, no montante de 20000000.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "a2c717313a5e9ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nDe harmonia com o disposto na alínea h) do n.º 4.º da base III e no n.º 2.º da base IV da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958, é autorizado o Ministro das Finanças a negociar com um grupo de bancos americanos um empréstimo externo, amortizável, até ao montante de 20000000 de dólares."
+  },
+  "0bd0647c5e04321a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEste empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, será representado por 27 promissórias de valores nominais variáveis, conforme for fixado no respectivo contrato, ficando desde já autorizada a Direcção-Geral da Fazenda Pública a emitir a obrigação geral correspondente."
+  },
+  "df7005e215e1f92f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO juro das promissórias será de 5 1/2 por cento ao ano, pagável aos semestres, vencendo-se o primeiro juro seis meses após a data da entrega das promissórias aos mutuantes."
+  },
+  "a7d1a1b8bcf9ba47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1963-11-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 45398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45398-1963-432795), publicado em 1963-11-30."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 45398](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45398-1963-432795), publicado em 1963-11-30."
+  },
+  "cf278ced10295da7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs promissórias em que vier a representar-se este empréstimo gozarão dos direitos, isenções e garantias consignados no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, salvo o da sua colocação no mercado interno de capitais.\n\nEstarão também isentas do imposto sobre as sucessões e doações."
+  },
+  "784c341712f6a436": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nFica o Ministro das Finanças autorizado a realizar com os bancos americanos o contrato de empréstimo a que alude este diploma e a emitir as promissórias representativas do mesmo, prestando as entidades competentes as necessárias garantias de conformidade.\n\nAs promissórias conterão as assinaturas das entidades indicadas no contrato."
+  },
+  "3185402f7070aedb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere o presente diploma, não devendo, porém, o encargo efectivo, excluídas as despesas da sua representação, exceder 5 3/4 por cento.\n\n§ único. As despesas com a emissão, incluindo os trabalhos extraordinários que a sua organização justificar e forem autorizados, serão pagas por força das dotações orçamentais do Ministério das Finanças para o corrente ano económico inscritas no capítulo 1.º, artigo 11.º, n.º 1).\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 23 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ. - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

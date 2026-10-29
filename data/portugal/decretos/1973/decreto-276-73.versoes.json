@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:422255:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2f3fbef408c66916"
+   ]
+  },
+  {
+   "date": "1980-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:474171:por",
+     "title": "Decreto Regulamentar n.º 16/80",
+     "published": "1980-05-22",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/16-1980-474171"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "1e6b14ff03ea40c1",
+    "40a3e02e58d76156",
+    "1cab51e2b150a26f",
+    "f80bd1536a12aed2",
+    "b24a1805ec53f6f0",
+    "c849a9a6866357c7",
+    "babd53c1f2b53882",
+    "794f74baa519652b",
+    "61b27c7f54cbfc46",
+    "e03824e2d08913bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "2f3fbef408c66916": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio\n\nO n.º 2 do artigo 1.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, faz depender da publicação de decretos regulamentares específicos a aplicação do regime nele definido ao trabalho prestado às empresas concessionárias de serviço público.\n\nO presente diploma aplica o novo regime de duração do trabalho à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações consideradas indispensáveis.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º O regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações constantes do presente diploma.\n\nArt. 2.º - 1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a Companhia é concessionária, a menos que sejam dispensados por motivos atendíveis.\n\n2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado pelos seus trabalhadores que ultrapassem os limites fixados no n.º 1 do artigo 19.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), bem assim como o número de horas de trabalho prestado em dias de descanso semanal.\n\nArt. 3.º O trabalho extraordinário e o trabalho prestado em dias de descanso semanal, feriados obrigatórios e descansos semanais complementares concedidos pela empresa são remunerados nos termos da lei geral.\n\nArt. 4.º - 1. Os menores de 18 anos podem prestar trabalho extraordinário quando executem o serviço de distribuição e recolha de telegramas.\n\n2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado por menores de 18 anos.\n\nArt. 5.º A empresa é autorizada a laborar continuamente.\n\nArt. 6.º O disposto no artigo 14.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735) não se aplica aos trabalhadores que exerçam na empresa cargos de direcção e chefia.\n\nArt. 7.º 1. A retribuição do trabalho nocturno será superior em 50% à retribuição a que dá direito o trabalho equivalente prestado durante o dia, sendo este aumento cumulável com o acréscimo da retribuição devida pelo trabalho extraordinário ou pelo trabalho prestado em dias de descanso semanal, feriados obrigatórios ou descansos complementares concedidos pela empresa.\n\n2. Considera-se nocturno o trabalho prestado no período que decorre entre as O horas e as 8 horas (entre as 24 horas de um dia e as 8 horas do dia seguinte).\n\nArt. 8.º Poderão também prestar trabalho nocturno as mulheres quando executem o serviço de operadores de telefone, telex e P. B. X., de teletipistas ou de aceitação de telegramas do público.\n\nArt. 9.º - 1. Em tudo o que não for contrário às disposições do presente diploma mantém-se em vigor para a empresa o Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações, publicado no Diário do Governo, 2.ª série, n.º 259, de 6 de Novembro de 1947.\n\n2. O Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações poderá ser substituído por normas constantes de instrumentos de regulamentação colectiva do trabalho.\n\nMarcello Caetano - João Maria Leitão de Oliveira Martins - Joaquim Dias da Silva Pinto.\n\nPromulgado em 19 de Maio de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "1e6b14ff03ea40c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio\n\nO n.º 2 do artigo 1.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, faz depender da publicação de decretos regulamentares específicos a aplicação do regime nele definido ao trabalho prestado às empresas concessionárias de serviço público.\n\nO presente diploma aplica o novo regime de duração do trabalho à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações consideradas indispensáveis.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "40a3e02e58d76156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO regime definido no [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), de 27 de Setembro, é aplicado ao trabalho prestado à Companhia Portuguesa Rádio Marconi, S. A. R. L., com as adaptações constantes do presente diploma."
+  },
+  "1cab51e2b150a26f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os trabalhadores são obrigados a prestar fora do período normal de trabalho e em dias de descanso semanal o trabalho que for imposto pelas necessidades do serviço público de que a Companhia é concessionária, a menos que sejam dispensados por motivos atendíveis.\n\n2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado pelos seus trabalhadores que ultrapassem os limites fixados no n.º 1 do artigo 19.º do [Decreto-Lei n.º 409/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1971-632735), bem assim como o número de horas de trabalho prestado em dias de descanso semanal."
+  },
+  "f80bd1536a12aed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO trabalho extraordinário e o trabalho prestado em dias de descanso semanal, feriados obrigatórios e descansos semanais complementares concedidos pela empresa são remunerados nos termos da lei geral."
+  },
+  "b24a1805ec53f6f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os menores de 18 anos podem prestar trabalho extraordinário quando executem o serviço de distribuição e recolha de telegramas.\n\n2. A empresa é obrigada a comunicar semestralmente ao Instituto Nacional do Trabalho e Previdência o número de horas de trabalho extraordinário prestado por menores de 18 anos."
+  },
+  "c849a9a6866357c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA empresa é autorizada a laborar continuamente."
+  },
+  "babd53c1f2b53882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1980-05-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1980-474171), publicado em 1980-05-22."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1980-474171), publicado em 1980-05-22."
+  },
+  "794f74baa519652b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A retribuição do trabalho nocturno será superior em 50% à retribuição a que dá direito o trabalho equivalente prestado durante o dia, sendo este aumento cumulável com o acréscimo da retribuição devida pelo trabalho extraordinário ou pelo trabalho prestado em dias de descanso semanal, feriados obrigatórios ou descansos complementares concedidos pela empresa.\n\n2. Considera-se nocturno o trabalho prestado no período que decorre entre as O horas e as 8 horas (entre as 24 horas de um dia e as 8 horas do dia seguinte)."
+  },
+  "61b27c7f54cbfc46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPoderão também prestar trabalho nocturno as mulheres quando executem o serviço de operadores de telefone, telex e P. B. X., de teletipistas ou de aceitação de telegramas do público."
+  },
+  "e03824e2d08913bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Em tudo o que não for contrário às disposições do presente diploma mantém-se em vigor para a empresa o Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações, publicado no Diário do Governo, 2.ª série, n.º 259, de 6 de Novembro de 1947.\n\n2. O Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações poderá ser substituído por normas constantes de instrumentos de regulamentação colectiva do trabalho.\n\nMarcello Caetano - João Maria Leitão de Oliveira Martins - Joaquim Dias da Silva Pinto.\n\nPromulgado em 19 de Maio de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

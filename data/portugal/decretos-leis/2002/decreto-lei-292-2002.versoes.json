@@ -1,0 +1,547 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438186:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7576cc42fbfd5fed",
+    "0cf790bde25e0de1",
+    "83f146249bec5336",
+    "eb39e128334d8ee5",
+    "d85dfc3976562c97",
+    "d5c91827b96e775e",
+    "50f4620a45676ee9",
+    "e54e6efbf140efd7",
+    "f5c5919cbdb70e2d",
+    "c1aaf436c351f0bd",
+    "2e1693dc3f3ea21a",
+    "a5207e9645a9c1a0",
+    "1e0bc593208dcbab",
+    "c5d3effc69ecd1e0",
+    "aa72d78c767fce57",
+    "5fd51cb619f94008",
+    "e6c473a9789ee405",
+    "a68cc002385e53db",
+    "2cb67c9c00bb857c",
+    "56133176934efba5",
+    "d2d5cca619aff57c",
+    "0ee3a6929b51e1a3",
+    "e250405d9147f2e6",
+    "ed835797024d4479",
+    "547b9425586b8bec",
+    "344faf1a02c2ed68",
+    "aac52662c113cb15",
+    "3542ffb9d1ff5a2f",
+    "a44b54e0c5a5388c",
+    "515019ff99b29f6b",
+    "f47c4f4898fbbb0c",
+    "ef5631d9fbbd1c65",
+    "5fee2be1cd92cfda",
+    "a53e0344ab696a84",
+    "a32585e6961f5b39",
+    "febbc3e81d02b661",
+    "0b45f1ed7a0a3afd",
+    "4284a4977d8a0ec3",
+    "244175b9bc87e017",
+    "d9eb4dd95e322996",
+    "1a1883e6d0bd4e5d",
+    "21ac4d88e6a065ee",
+    "c0e424601593c6a3",
+    "abf05f6c46cd1eaa",
+    "d45efe43ce05467c",
+    "5bec794a97009b84",
+    "1956e6bb7dd48307",
+    "baf96b816e50b00b",
+    "3287c56a1a9de0bd"
+   ]
+  },
+  {
+   "date": "2003-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:692434:por",
+     "title": "Decreto-Lei n.º 126/2003",
+     "published": "2003-06-24",
+     "dre_path": "/dr/detalhe/decreto-lei/126-2003-692434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo ANEXO — ESTATUTOS::4.º"
+   ],
+   "fragments": [
+    "7576cc42fbfd5fed",
+    "0cf790bde25e0de1",
+    "83f146249bec5336",
+    "eb39e128334d8ee5",
+    "d85dfc3976562c97",
+    "d5c91827b96e775e",
+    "50f4620a45676ee9",
+    "bb818fc584d0c5dc",
+    "f5c5919cbdb70e2d",
+    "c1aaf436c351f0bd",
+    "2e1693dc3f3ea21a",
+    "a5207e9645a9c1a0",
+    "1e0bc593208dcbab",
+    "c5d3effc69ecd1e0",
+    "aa72d78c767fce57",
+    "5fd51cb619f94008",
+    "e6c473a9789ee405",
+    "a68cc002385e53db",
+    "2cb67c9c00bb857c",
+    "56133176934efba5",
+    "d2d5cca619aff57c",
+    "0ee3a6929b51e1a3",
+    "e250405d9147f2e6",
+    "ed835797024d4479",
+    "547b9425586b8bec",
+    "344faf1a02c2ed68",
+    "fa200df100031eaf",
+    "3542ffb9d1ff5a2f",
+    "a44b54e0c5a5388c",
+    "515019ff99b29f6b",
+    "f47c4f4898fbbb0c",
+    "ef5631d9fbbd1c65",
+    "5fee2be1cd92cfda",
+    "a53e0344ab696a84",
+    "a32585e6961f5b39",
+    "febbc3e81d02b661",
+    "0b45f1ed7a0a3afd",
+    "4284a4977d8a0ec3",
+    "244175b9bc87e017",
+    "d9eb4dd95e322996",
+    "1a1883e6d0bd4e5d",
+    "21ac4d88e6a065ee",
+    "c0e424601593c6a3",
+    "abf05f6c46cd1eaa",
+    "d45efe43ce05467c",
+    "5bec794a97009b84",
+    "1956e6bb7dd48307",
+    "baf96b816e50b00b",
+    "3287c56a1a9de0bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "7576cc42fbfd5fed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Dezembro\n\nA reforma do sector da saúde constitui um vector prioritário de actuação governamental, estando em curso uma profunda reestruturação do Serviço Nacional de Saúde por forma a transformar o actual sistema público num sistema de saúde moderno e renovado, mais justo e eficiente, e fundamentalmente orientado para as necessidades dos utentes.\n\nNesta linha, o Governo propôs-se lançar um amplo e ambicioso programa de reforma da gestão hospitalar, apostando no aprofundamento das formas de gestão de natureza empresarial.\n\nCom o presente diploma pretende-se consagrar a autonomia de gestão das unidades hospitalares em moldes empresariais, estabelecendo ao mesmo tempo a separação funcional entre o financiador/comprador de prestações de saúde e o prestador de cuidados de saúde, assegurando sempre o carácter unitário e universal do Serviço Nacional de Saúde, de acordo com a matriz constitucional.\n\nNeste sentido, a Lei de Bases da Saúde prevê expressamente que, na medida do possível, a gestão das unidades de saúde deve obedecer a regras de gestão empresarial.\n\nContudo, passada mais de uma década de vigência da Lei de Bases da Saúde constata-se que a gestão de natureza empresarial foi introduzida de forma hesitante, esparsa e mitigada no âmbito de um reduzido número de experiências de gestão, não representando estas sequer uma base comparável e suficiente de avaliação e não tendo até agora conseguido gerar efeitos regeneradores e difusores para todo o sistema.\n\nEntretanto, é amplamente reconhecido que o desempenho global do Serviço Nacional de Saúde apresenta crónicas falhas de eficácia, eficiência, economia e adaptabilidade, muito embora a sua gradual cobertura e expansão seja responsável por importantes ganhos de saúde ao longo das duas últimas décadas.\n\nOs responsáveis do sector, os diferentes agentes profissionais e económicos, a comunidade académica e a opinião pública, em geral, sentem que o modelo burocrático-administrativo de gestão hospitalar está ultrapassado e praticamente esgotado, reclamando profundas mudanças do actual panorama.\n\nNeste contexto, tendo em vista o desiderato final da modernização e renovação do actual Serviço Nacional de Saúde, importa adoptar de forma inequívoca um genuíno modelo de gestão hospitalar de natureza empresarial, que permita prosseguir um conjunto articulado de objectivos, mobilizando os profissionais de saúde e a sociedade em torno desta iniciativa, que visa a modernização e a revitalização do Serviço Nacional de Saúde. Pretende-se, designadamente, a obtenção de ganhos acrescidos de saúde, a melhoria do desempenho, da eficiência e da performance económico-financeira do Serviço Nacional de Saúde e a consagração da autonomia de gestão e de responsabilidade económico-financeira ao nível da gestão hospitalar, assente na responsabilidade descentralizada por resultados económicos e níveis de desempenho de serviço, bem como na avaliação regular da sua performance específica e comparativa. Por último, pretende-se ainda operar a separação da função de prestador de cuidados de saúde da função de financiador público do Serviço Nacional de Saúde.\n\nO processo de «empresarialização» hospitalar envolve, assim, a adopção de um novo estatuto jurídico, bem como de um novo modelo de gestão e de um novo modelo de contratação e financiamento das prestações de saúde, implicando ainda um conjunto complementar, coerente e convergente de medidas e acções institucionais de reforma, no sentido de estabelecer um enquadramento jurídico-económico e administrativo adequado e favorável ao funcionamento do novo modelo empresarial de gestão hospitalar.\n\nO que se pretende alterar é apenas e tão-só o modelo de gestão, mantendo-se intacta a responsabilidade do Estado pela prestação dos cuidados de saúde. Esta responsabilidade é uma imposição constitucional. Trata-se de uma responsabilidade pública de que o Estado não pode alhear-se.\n\nPor isso, não deve confundir-se a empresarialização da gestão dos serviços públicos, que é o escopo deste diploma no âmbito do serviço público de saúde, com a privatização dos mesmos serviços. Sintoma disso é, desde logo, o facto de o diploma garantir que o capital social dos hospitais agora empresarializados seja exclusivamente assumido por entidades de capitais públicos.\n\nO presente diploma pretende, em síntese, acolher esta nova filosofia e este novo modelo de gestão hospitalar.\n\nForam observados os procedimentos decorrentes das Leis n.os [16/79](https://diariodarepublica.pt/dr/detalhe/lei/16-1979-383648), de 26 de Maio, e [23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nForam ouvidas a Ordem dos Médicos e a Ordem dos Enfermeiros.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na base XXXVI da [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0cf790bde25e0de1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Transformação\n\nO Hospital de Santa Marta é transformado em sociedade anónima de capitais exclusivamente públicos, com a designação de Hospital de Santa Marta, S. A., adiante abreviadamente designado como Hospital, titular do número de identificação de pessoa colectiva P 506361500."
+  },
+  "83f146249bec5336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Hospital tem por objecto a prestação de serviços de saúde, nos termos dos seus Estatutos e no respeito pelas normas que o regem.\n\n2 - O Hospital está integrado no Serviço Nacional de Saúde.\n\n3 - O Hospital pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação."
+  },
+  "eb39e128334d8ee5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sucessão\n\nO Hospital sucede em todos os direitos e obrigações ao Hospital de Santa Marta."
+  },
+  "d85dfc3976562c97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime jurídico\n\nO Hospital rege-se pelo presente diploma, pelos seus Estatutos, pelo regime jurídico do sector empresarial do Estado e pela lei reguladora das sociedades anónimas, bem como pelas normas especiais cuja aplicação decorra do seu objecto social e do seu regulamento."
+  },
+  "d5c91827b96e775e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatutos\n\n1 - Os Estatutos anexos ao presente diploma são por ele aprovados e dele fazem parte integrante, sendo a respectiva publicação no Diário da República título bastante para efeitos de registo.\n\n2 - As alterações aos referidos Estatutos efectuar-se-ão nos termos da lei comercial."
+  },
+  "50f4620a45676ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Titularidade e função accionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Titularidade e função accionista\n\n1 - As acções pertencem apenas ao Estado e a empresas de capitais exclusivamente públicos.\n\n2 - As acções são nominativas e revestem a forma escritural.\n\n3 - O exercício da função accionista do Estado é assegurado, conjuntamente, pelos Ministros das Finanças e da Saúde."
+  },
+  "e54e6efbf140efd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capital\n\n1 - O capital social inicial é de (euro) 29928000 e encontra-se integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente diploma.\n\n2 - Os bens, direitos e obrigações que transitam para o Hospital nos termos do artigo 3.º são incluídos no capital próprio como reservas pelo seu valor contabilístico.\n\n3 - Até ao final de 2003 será realizada a avaliação dos bens, reportada à data da transformação, sendo o valor do capital social alterado de acordo com o necessário, em função do resultado da avaliação, sem qualquer outra formalidade para além do registo de alteração."
+  },
+  "f5c5919cbdb70e2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Património\n\nO Hospital deve manter em dia o inventário dos bens do domínio público cuja administração lhe incumba, bem como de outros bens que não sejam de sua propriedade mas cujo uso lhe esteja afecto."
+  },
+  "c1aaf436c351f0bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Poderes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Poderes especiais\n\n1 - Pode o Hospital:\n\na) Requerer a expropriação por utilidade pública;\n\nb) Utilizar, proteger e gerir as infra-estruturas afectas ao serviço público;\n\nc) Concessionar, nos termos da legislação aplicável à utilização do domínio público, a ocupação ou o exercício de actividades relacionadas com o seu objecto social nos terrenos, edificações e outras infra-estruturas que lhe sejam afectas;\n\nd) Celebrar contratos ou acordos que tenham como objecto a gestão de partes funcionalmente autónomas do Hospital.\n\n2 - Poderá, ainda, o Hospital exercer poderes e prerrogativas especiais que lhe forem atribuídos por diploma legal e em situações excepcionais."
+  },
+  "2e1693dc3f3ea21a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Execução da política nacional de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Execução da política nacional de saúde\n\nCabe às autoridades de saúde avaliar e acompanhar o cumprimento, pelo Hospital, das orientações relativas à execução da política nacional de saúde, podendo o Ministro da Saúde determinar, por despacho, especiais deveres de informação, periódica ou não."
+  },
+  "a5207e9645a9c1a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlo financeiro\n\n1 - Sem prejuízo de outras obrigações que legalmente incumbam ao Hospital em relação a outras entidades no âmbito da sua gestão patrimonial e financeira e do respectivo controlo, bem como do disposto no artigo 13.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, deve o conselho de administração submeter aos Ministros das Finanças e da Saúde, com pelo menos duas semanas de antecedência relativamente à data da realização da assembleia geral, o relatório de gestão, contas de cada exercício e os demais documentos de prestação de contas previstos na lei.\n\n2 - O Hospital está, ainda, obrigado a prestar informações mensais sobre a execução orçamental."
+  },
+  "1e0bc593208dcbab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Endividamento\n\n1 - O endividamento do Hospital não pode ser superior a 30% do seu capital social.\n\n2 - O endividamento superior a 10% do capital social carece de autorização da assembleia geral."
+  },
+  "c5d3effc69ecd1e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Primeira reunião da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Primeira reunião da assembleia geral\n\nA primeira assembleia geral do Hospital reunirá no prazo de cinco dias após a data da entrada em vigor do presente diploma ou nos termos do artigo 54.º do Código das Sociedades Comerciais para eleição dos titulares dos órgãos sociais."
+  },
+  "aa72d78c767fce57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recursos humanos\n\n1 - Sem prejuízo do disposto nos artigos 15.º e seguintes, os trabalhadores do Hospital estão sujeitos às normas do regime jurídico do contrato individual de trabalho.\n\n2 - O Hospital pode celebrar convenções colectivas de trabalho, nos termos da lei geral.\n\n3 - As habilitações e qualificações para admissão no Hospital correspondem às do Serviço Nacional de Saúde."
+  },
+  "5fd51cb619f94008": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regime laboral público e transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime laboral público e transição\n\n1 - O pessoal com relação jurídica de emprego público que se encontre a exercer funções no Hospital de Santa Marta transita para o Hospital, sendo garantida a manutenção integral do seu estatuto jurídico, sem prejuízo do disposto nos números seguintes.\n\n2 - O pessoal a que se refere o número anterior pode optar pelo regime de contrato individual de trabalho, no prazo de um ano a contar da data da entrada em vigor do presente diploma, implicando a celebração do contrato de trabalho a exoneração do lugar de origem e a cessação do vínculo à função pública.\n\n3 - A opção a que se refere o número anterior é exercida mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho de administração.\n\n4 - Os funcionários que não optem pela aplicação do regime do contrato individual de trabalho mantêm-se integrados nos lugares do quadro de pessoal existente à data da entrada em vigor do presente diploma, vigorando o referido quadro exclusivamente para esse efeito, incluindo a promoção e a progressão nas respectivas carreiras, através de concursos limitados aos funcionários do Hospital.\n\n5 - Mantêm-se válidos os concursos de pessoal pendentes e os estágios e cursos de especialização em curso à data da entrada em vigor do presente diploma."
+  },
+  "e6c473a9789ee405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regimes especiais\n\n1 - Os funcionários e agentes das instituições do Serviço Nacional de Saúde inseridos em corpos especiais podem ser contratados pelo Hospital, nos termos do disposto nos artigos 21.º e 22.º dos respectivos Estatutos.\n\n2 - O disposto no número anterior não é aplicável aos agentes cuja situação jurídico-funcional não seja compatível com o regime nele previsto.\n\n3 - Aos funcionários e agentes a que se refere o n.º 1 contratados pelo Hospital é assegurada durante a licença sem vencimento:\n\na) A contagem, na categoria de origem, do tempo de serviço prestado no Hospital;\n\nb) A opção pelo regime de protecção social da função pública, incidindo os descontos para a Caixa Geral de Aposentações e Assistência na Doença aos Servidores do Estado sobre o montante da remuneração auferida no lugar de origem e sobre o montante de remuneração efectivamente auferida, respectivamente.\n\n4 - Finda a licença sem vencimento, é ainda assegurada aos mencionados profissionais, consoante os casos:\n\na) Tratando-se de funcionários, a integração no quadro de origem, se necessário em lugar a extinguir quando vagar ou em lugar vago do quadro de outro serviço mais carenciado na mesma sub-região de saúde ou, se não existir, da região de saúde;\n\nb) Tratando-se de agentes, a cessação da suspensão da vigência do contrato administrativo de provimento, podendo ser colocado, no caso de o respectivo serviço não carecer de pessoal, noutro da mesma sub-região de saúde ou, se não for possível, da mesma região de saúde.\n\n5 - Podem ainda exercer funções de carácter específico no Hospital, em comissão de serviço com a duração máxima de três anos, nos termos gerais, os funcionários do Estado e das autarquias locais, bem como os funcionários ou trabalhadores de institutos e de empresas públicas.\n\n6 - Os profissionais ao serviço do Hospital que sejam designados como titulares dos seus órgãos ou que sejam requisitados para exercer funções em empresas ou serviços públicos mantêm todos os direitos inerentes ao seu estatuto de origem.\n\n7 - O Hospital entrega mensalmente à Caixa Geral de Aposentações montante igual ao das quotas deduzidas nas remunerações do pessoal a que se refere o n.º 1 do artigo 15.º, bem como dos que, nos termos da alínea b) do n.º 3, optem por manter o regime de protecção social da função pública, simultaneamente com a remessa daquelas quotizações.\n\n8 - O Hospital observa, relativamente ao pessoal referido no número anterior, o mesmo regime que o [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro, prevê para os organismos dotados de autonomia administrativa e financeira."
+  },
+  "a68cc002385e53db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação de funções\n\n1 - Com a entrada em vigor do presente diploma, os mandatos e comissões dos membros do órgão de administração do Hospital agora transformado cessam automaticamente, mantendo-se os mesmos em gestão corrente até à eleição dos titulares dos órgãos sociais do Hospital.\n\n2 - Cessam na mesma data as comissões de serviço do pessoal dirigente do Hospital agora transformado, bem como as do restante pessoal provido, independentemente do respectivo título, em cargos de direcção das carreiras respectivas inseridas em corpos especiais, mantendo-se em gestão corrente até à data da nomeação dos titulares da nova estrutura orgânica.\n\n3 - O disposto no número anterior aplica-se, com as necessárias adaptações, aos titulares dos restantes órgãos, independentemente da sua natureza."
+  },
+  "2cb67c9c00bb857c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Investigação, ensino e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Investigação, ensino e formação\n\nA transformação do Hospital não prejudica as actividades de investigação, ensino e formação que actualmente desenvolva ou venha a desenvolver."
+  },
+  "56133176934efba5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Participação na formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Participação na formação\n\n1 - Sempre que lhe seja reconhecida capacidade formativa, o Hospital participa na formação de profissionais de saúde em termos a definir em contrato-programa.\n\n2 - Os estágios e cursos de profissionais de saúde realizados no Hospital ao abrigo do disposto no número anterior têm a mesma validade dos realizados nos estabelecimentos hospitalares do sector público administrativo."
+  },
+  "d2d5cca619aff57c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regulamento interno\n\nO primeiro regulamento interno do Hospital deve ser submetido à assembleia geral para aprovação no prazo de 90 dias a contar da data da eleição dos titulares do conselho de administração."
+  },
+  "0ee3a6929b51e1a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - Isaltino Afonso de Morais.\n\nPromulgado em 22 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Novembro de 2002.\n\nPelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite, Ministra de Estado e das Finanças."
+  },
+  "e250405d9147f2e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS"
+  },
+  "ed835797024d4479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Forma e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Forma e denominação\n\nA sociedade adopta a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de Hospital de Santa Marta, S. A., adiante abreviadamente designado por Hospital."
+  },
+  "547b9425586b8bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede social é na Rua de Santa Marta, em Lisboa.\n\n2 - Poderá a assembleia geral deliberar a deslocação da sede para outro lugar, assim como a criação de delegações, centros e similares extensões da sede noutros lugares."
+  },
+  "344faf1a02c2ed68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objecto e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto e duração\n\n1 - O Hospital tem por objecto a prestação de serviços de saúde, integrado no Serviço Nacional de Saúde, com respeito pelas normas que o regulam e em cumprimento da lei e dos presentes Estatutos.\n\n2 - O Hospital pode, acessoriamente, explorar os serviços e efectuar as operações civis e comerciais relacionadas, directa ou indirectamente, no todo ou em parte, com o seu objecto ou que sejam susceptíveis de facilitar ou favorecer a sua realização, bem como participar em agrupamentos complementares de empresas e outras formas de associação.\n\n3 - O Hospital é constituído por tempo ilimitado."
+  },
+  "aac52662c113cb15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social inicial é de (euro) 29928000 e encontra-se integralmente subscrito e realizado.\n\n2 - O capital é representado por 2993 acções, com o valor nominal de (euro) 10000 cada uma.\n\n3 - As acções são nominativas e revestem a forma escritural.\n\n4 - As acções pertencem apenas ao Estado e a empresas de capitais exclusivamente públicos.\n\n5 - A cada 100 acções corresponde um voto.\n\n6 - Os accionistas têm direito de preferência na alienação de acções em função das respectivas participações no capital social e pelo seu valor nominal.\n\n7 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.\n\n8 - A falta de exercício do direito de preferência no prazo fixado confere ao accionista alienante o direito de transmitir livremente as acções, sem prejuízo do disposto no n.º 4 do presente artigo."
+  },
+  "3542ffb9d1ff5a2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\n1 - São órgãos sociais do Hospital:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O fiscal único.\n\n2 - Compõem, ainda, a estrutura organizativa do Hospital os seguintes órgãos:\n\na) O conselho consultivo;\n\nb) Os órgãos de apoio técnico;\n\nc) Outros órgãos que estejam previstos na lei ou no regulamento interno do Hospital."
+  },
+  "a44b54e0c5a5388c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Assembleia geral\n\n1 - A assembleia geral do Hospital é constituída pelos accionistas com direito de voto.\n\n2 - Participam nas reuniões da assembleia geral o conselho de administração e o fiscal único.\n\n3 - O accionista Estado é representado por mandatário designado para o efeito por despacho conjunto dos Ministros das Finanças e da Saúde."
+  },
+  "515019ff99b29f6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência da assembleia geral\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes Estatutos lhe atribuam competência.\n\n2 - Compete, especialmente, à assembleia geral:\n\na) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do fiscal único e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger a mesa da assembleia geral, os administradores e o fiscal único;\n\nc) Aprovar a aquisição, a alienação ou a oneração de participações no capital de outras sociedades, bem como obrigações e outros títulos semelhantes;\n\nd) Deliberar sobre quaisquer alterações dos Estatutos;\n\ne) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, para o efeito, designar uma comissão de vencimentos;\n\nf) Autorizar, com prévio parecer do fiscal único, a aquisição, a alienação e a oneração de imóveis e, bem assim, de investimentos, uns e outros quando de valor superior a 2% do capital social;\n\ng) Deliberar sobre o endividamento do Hospital, com prévio parecer do fiscal único, até ao limite de 30% do capital social e nos termos do decreto-lei que aprova os presentes Estatutos;\n\nh) Deliberar sobre a definição dos sistemas de controlo interno;\n\ni) Aprovar o regulamento interno;\n\nj) Deliberar sobre qualquer outro assunto para o qual tenha sido convocada."
+  },
+  "f47c4f4898fbbb0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e um secretário, eleitos pela assembleia geral por um período de três anos.\n\n2 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que venham a substituí-los."
+  },
+  "ef5631d9fbbd1c65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Reuniões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões da assembleia geral\n\n1 - A assembleia geral reunir-se-á pelo menos uma vez por ano e sempre que for convocada, nos termos da lei ou a requerimento do conselho de administração, do fiscal único ou dos accionistas.\n\n2 - A convocação da assembleia geral faz-se, nos termos da lei, com uma antecedência mínima de 30 dias, por carta registada, com a indicação expressa dos assuntos a tratar."
+  },
+  "5fee2be1cd92cfda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Conselho de administração - Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho de administração - Composição e funcionamento\n\n1 - O conselho de administração é constituído no máximo por cinco membros, tendo o presidente, em qualquer caso, voto de qualidade.\n\n2 - Do conselho de administração fazem parte, por inerência, os membros da direcção técnica.\n\n3 - Para os efeitos do disposto no número anterior, os membros da direcção técnica são considerados membros não executivos do conselho de administração, tendo direito a voto.\n\n4 - A duração do mandato dos administradores é de três anos, cessando em qualquer caso com o termo do mandato do presidente, mantendo-se estes em efectividade de funções até à posse dos membros que venham a substituí-los.\n\n5 - Cabe à assembleia geral destituir livremente os administradores, presumindo-se haver justa causa quando a destituição se fundamentar em inobservância de lei ou regulamento, na violação grave dos deveres de gestão, incluindo o não cumprimento de contratos-programa.\n\n6 - Na falta de justa causa, a destituição determina para o Hospital a obrigação de indemnizar em valor correspondente às remunerações periódicas vincendas até ao final do mandato, com o limite de 12 meses, e deduzindo-se o montante das remunerações nesse período auferidas por trabalho subordinado ou por funções de gestão, quer no sector público quer no sector privado."
+  },
+  "a53e0344ab696a84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração assegurar a gestão das actividades do Hospital, sendo-lhe atribuídos os poderes de, designadamente:\n\na) Outorgar o contrato-programa previsto no artigo 24.º;\n\nb) Aprovar os planos de actividades anual e plurianual, elaborados em obediência ao contrato-programa;\n\nc) Aprovar o orçamento e acompanhar a sua execução;\n\nd) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência de outro órgão do Hospital;\n\ne) Adquirir, alienar ou onerar participações no capital de outras sociedades, bem como obrigações e outros títulos semelhantes, mediante aprovação da assembleia geral;\n\nf) Representar o Hospital, em juízo e fora dele, activa e passivamente, propor e acompanhar acções e confessar, desistir, transigir e aceitar compromissos arbitrais;\n\ng) Adquirir, alienar ou onerar bens imóveis cujo valor não exceda 2% do capital social;\n\nh) Deliberar sobre o endividamento do Hospital, após prévio parecer do fiscal único, com o limite de 10% do capital social;\n\ni) Elaborar o regulamento interno a submeter à assembleia geral do Hospital;\n\nj) Decidir sobre a administração de pessoal e sua remuneração;\n\nl) Exercer o poder disciplinar, nos termos da legislação aplicável;\n\nm) Constituir procuradores e mandatários do Hospital, nos termos que julgue convenientes;\n\nn) Adoptar procedimentos de controlo interno no Hospital, nos termos previstos no artigo 12.º, n.º 3, do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro;\n\no) Exercer as demais competências que lhe cabem por lei.\n\n2 - O conselho de administração poderá delegar em algum ou alguns dos seus membros ou na comissão executiva alguns dos seus poderes, definindo em acta os limites e condições de tal delegação, atentas as limitações previstas na lei.\n\n3 - Incumbe especialmente ao presidente do conselho de administração:\n\na) Representar o conselho de administração em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "a32585e6961f5b39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reuniões e deliberações\n\n1 - O conselho de administração reúne semanalmente e, ainda, sempre que convocado pelo presidente, a solicitação de dois administradores ou do fiscal único.\n\n2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros.\n\n3 - Não é permitida a representação de mais de um administrador em cada reunião.\n\n4 - Os membros do conselho de administração que não possam estar presentes na reunião poderão, em casos de deliberações consideradas urgentes pelo presidente, expressar o seu voto por correspondência, a este dirigida.\n\n5 - Todos os membros do conselho de administração têm direito de voto, tendo o presidente voto de qualidade em caso de empate.\n\n6 - Os administradores não podem participar na discussão de assuntos em relação aos quais possa haver conflito de interesses pessoais, directos ou indirectos, com os do Hospital."
+  },
+  "febbc3e81d02b661": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vinculação\n\nO Hospital obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem estiver legitimado nos termos da alínea m) do n.º 1 e do n.º 2 do artigo 11.º dos presentes Estatutos."
+  },
+  "0b45f1ed7a0a3afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção técnica\n\nA direcção técnica é composta pelos director clínico e enfermeiro-director."
+  },
+  "4284a4977d8a0ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Nomeação e competências do director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Nomeação e competências do director clínico\n\n1 - O director clínico é nomeado pelo Ministro da Saúde, sob proposta do presidente do conselho de administração, de entre médicos que trabalhem no Serviço Nacional de Saúde.\n\n2 - Compete ao director clínico do Hospital coordenar toda a assistência prestada aos doentes, assegurar o funcionamento harmónico dos serviços de assistência, garantir a correcção e prontidão dos cuidados de saúde prestados pelo Hospital e, sem prejuízo do disposto em sede de regulamento interno, nomeadamente:\n\na) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços de acção médica a integrar no plano de acção global do Hospital;\n\nb) Assegurar uma integração adequada da actividade médica dos departamentos e serviços, designadamente através de uma utilização não compartimentada da capacidade instalada;\n\nc) Propor as medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de acção médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;\n\nd) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;\n\ne) Decidir sobre conflitos de natureza técnica entre serviços de acção médica;\n\nf) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, da comissão de ética;\n\ng) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna;\n\nh) Velar pela constante actualização do pessoal médico;\n\ni) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.\n\n3 - No exercício das suas funções, o director clínico é coadjuvado por um a três adjuntos, consoante o que for fixado no regulamento interno do Hospital, por si livremente escolhidos.\n\n4 - O director clínico responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos."
+  },
+  "244175b9bc87e017": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Nomeação e competências do enfermeiro-director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Nomeação e competências do enfermeiro-director\n\n1 - O enfermeiro-director é nomeado pelo Ministro da Saúde de entre enfermeiros que trabalhem no Serviço Nacional de Saúde, sob proposta do presidente do conselho de administração.\n\n2 - Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem do Hospital, velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, nomeadamente:\n\na) Coordenar a elaboração dos planos de acção de enfermagem apresentados pelos vários serviços a integrar no plano de acção global do Hospital;\n\nb) Compatibilizar os objectivos do Hospital com a filosofia e os objectivos da profissão de enfermagem;\n\nc) Contribuir para a definição das políticas ou directivas de formação e investigação em enfermagem;\n\nd) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;\n\ne) Elaborar propostas referentes à gestão do pessoal de enfermagem, designadamente colaborar na avaliação do pessoal de enfermagem;\n\nf) Propor a criação de um sistema efectivo de classificação de utentes/doentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção;\n\ng) Elaborar estudos para a determinação de custos/benefícios no âmbito dos cuidados de enfermagem;\n\nh) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da actividade de enfermagem e com a formação dos enfermeiros.\n\n3 - No exercício das suas funções, o enfermeiro-director é coadjuvado por um a três adjuntos, consoante o que for fixado no regulamento interno do Hospital, por si livremente escolhidos.\n\n4 - O enfermeiro-director responde perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e da melhor gestão de recursos."
+  },
+  "d9eb4dd95e322996": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscal único\n\n1 - A fiscalização do Hospital compete a um fiscal único, que será revisor oficial de contas ou uma sociedade de revisores oficiais de contas.\n\n2 - O fiscal único terá sempre um suplente, que será igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n3 - O fiscal único é eleito por um período de três anos, apenas renovável uma vez.\n\n4 - Cessando o mandato, o fiscal único mantém-se em efectividade de funções até à posse do que venha a substituí-lo."
+  },
+  "1a1883e6d0bd4e5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências do fiscal único\n\n1 - O fiscal único tem a competência, os poderes e os deveres estabelecidos na lei e nestes Estatutos.\n\n2 - Ao fiscal único compete, especialmente:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração do Hospital;\n\nb) Assistir às reuniões do conselho de administração sempre que este o entenda conveniente;\n\nc) Pedir a convocação extraordinária do conselho de administração e da assembleia geral sempre que o entenda conveniente;\n\nd) Fiscalizar e emitir parecer sobre a fiabilidade e a eficácia dos procedimentos de controlo interno;\n\ne) Emitir parecer prévio relativamente às deliberações da assembleia geral sobre a aquisição, alienação ou oneração de bens imóveis realizadas por qualquer modo ou de investimento quando de montante superior a 2% do capital social;\n\nf) Emitir parecer prévio relativamente às deliberações sobre endividamento do Hospital;\n\ng) Exercer os poderes-deveres de verificação e inspecção previstos na lei, devendo levar ao imediato conhecimento dos presidentes da assembleia geral e do conselho de administração quaisquer irregularidades ou inexactidões detectadas;\n\nh) Efectuar a revisão e a certificação legal de contas do Hospital."
+  },
+  "21ac4d88e6a065ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão que estabelece a ligação entre o Hospital e a comunidade que ele serve, competindo-lhe pronunciar-se e formular recomendações ao conselho de administração sobre a prestação do serviço de saúde à população.\n\n2 - O conselho consultivo é composto por:\n\na) Pessoa de reconhecido mérito nomeada pelo Ministro da Saúde, que preside;\n\nb) Um representante da Assembleia Municipal do concelho em que está sediado o Hospital;\n\nc) Um membro da Administração Regional de Saúde de Lisboa e Vale do Tejo;\n\nd) Um representante dos utentes designado pela respectiva associação ou por equivalente estrutura de representação;\n\ne) Um representante dos trabalhadores;\n\nf) Um representante dos prestadores de trabalho voluntário na instituição de entre estes eleito, quando existam;\n\ng) Dois representantes escolhidos pelos membros do conselho anteriormente referidos que sejam profissionais da saúde sem vínculo à sociedade e exerçam a sua actividade na área de intervenção preferencial do Hospital.\n\n3 - O conselho consultivo reúne trimestralmente de forma ordinária e extraordinariamente sempre que convocado pelo seu presidente, por iniciativa própria ou a pedido de, pelo menos, quatro dos seus membros, devendo ser sempre indicada a agenda da reunião.\n\n4 - O conselho de administração participa nas reuniões, sendo representado pelo seu presidente ou por um dos administradores do Hospital.\n\n5 - O mandato dos membros do conselho não é remunerado e tem a duração de três anos, sem prejuízo de serem substituídos a todo o tempo, para completar o mandato, pelas entidades que os designaram."
+  },
+  "c0e424601593c6a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Órgãos de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Órgãos de apoio técnico\n\n1 - Os órgãos de apoio técnico têm por função colaborar com o órgão de administração, a pedido deste ou por iniciativa própria, nas matérias da sua competência.\n\n2 - São órgãos de apoio técnico:\n\na) A comissão de ética;\n\nb) A comissão de humanização e qualidade dos serviços;\n\nc) A comissão de controlo e infecção hospitalar;\n\nd) A comissão de farmácia e terapêutica.\n\n3 - A composição, a competência e o funcionamento das comissões referidas constarão do regulamento interno."
+  },
+  "abf05f6c46cd1eaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Outros órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Outros órgãos\n\nPoderão existir outros órgãos, previstos na lei ou no regulamento interno."
+  },
+  "d45efe43ce05467c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recursos humanos\n\n1 - Incumbe ao conselho de administração definir a política de pessoal, após audição dos representantes ou estruturas representativas dos profissionais do Hospital, com respeito pelo disposto na lei geral sobre negociação colectiva.\n\n2 - Em execução da política de pessoal, será dada prioridade a:\n\na) Incentivos, pecuniários ou de outra natureza, ao bom desempenho de funções, dependentes de prévia avaliação individual efectuada segundo procedimentos transparentes predefinidos pelo conselho de administração, que deles dará conhecimento tempestivo aos destinatários;\n\nb) Medidas de segurança física e sanitária;\n\nc) Apoio e incentivo à investigação científica e à formação contínua ou em exercício de todos os profissionais, incluindo a autoformação."
+  },
+  "5bec794a97009b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Incentivos ao desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Incentivos ao desempenho\n\n1 - As modalidades de incentivos ao bom desempenho de funções e os procedimentos de avaliação individual de que dependerá a sua atribuição devem ser definidos pelo conselho de administração, com observância das normas legais ou regulamentares aplicáveis, e comunicados tempestivamente aos profissionais do Hospital.\n\n2 - Para o efeito da atribuição de incentivos ao desempenho, serão inscritas verbas específicas no orçamento anual do Hospital."
+  },
+  "1956e6bb7dd48307": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contratos-programa\n\n1 - A execução do plano de actividades do Hospital pautar-se-á, designadamente, por contrato-programa plurianual a celebrar com o Ministério da Saúde, no qual se estabelecerão os objectivos e as metas qualitativas e quantitativas, a sua calendarização, os meios e instrumentos para os prosseguir, designadamente de investimento, os indicadores para a avaliação do desempenho e do nível de satisfação das necessidades relevantes e as demais obrigações assumidas pelas partes.\n\n2 - Da componente financeira de cada contrato será dado conhecimento prévio ao Ministério das Finanças."
+  },
+  "baf96b816e50b00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Receitas do Hospital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Receitas do Hospital\n\nConstituem receitas do Hospital as provenientes da prossecução do seu objecto social, designadamente:\n\na) O pagamento dos serviços prestados a terceiros nos termos da legislação em vigor e dos acordos e tabelas aprovados, bem como as taxas moderadoras;\n\nb) Outras dotações, comparticipações e outras verbas provenientes de contratualizações;\n\nc) O rendimento de bens próprios, bem como o produto da sua alienação e da constituição de direitos sobre os mesmos;\n\nd) As doações, heranças ou legados;\n\ne) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, devam pertencer-lhe."
+  },
+  "3287c56a1a9de0bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Reservas e fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reservas e fundos\n\n1 - Além da reserva legal a que em geral se encontra adstrito, deve o Hospital constituir reservas para investimentos a partir dos resultados apurados em cada exercício e das receitas afectas ou destinadas a esse fim.\n\n2 - Serão ainda retirados dos resultados de cada exercício os fundos adequados para ocorrer a previsíveis necessidades de:\n\na) Benfeitorias úteis ou necessárias nas respectivas instalações;\n\nb) Incremento da eficácia técnica e social, tanto do acesso como da qualidade do atendimento e dos cuidados prestados."
+  },
+  "bb818fc584d0c5dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Capital",
+   "in_force_from": "2003-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24."
+   ],
+   "markdown": "###### Artigo 7.º — Capital\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado pelo Estado à data de entrada em vigor do presente diploma.\n\n2 - Os bens, direitos e obrigações que transitam para o Hospital nos termos do artigo 3.º são incluídos no capital próprio como reservas pelo seu valor contabilístico.\n\n3 - Até ao final de 2003 será realizada a avaliação dos bens, reportada à data da transformação, sendo o valor do capital social alterado de acordo com o necessário, em função do resultado da avaliação, sem qualquer outra formalidade para além do registo de alteração.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24."
+  },
+  "fa200df100031eaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital social e acções",
+   "in_force_from": "2003-06-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24."
+   ],
+   "markdown": "###### Artigo 4.º — Capital social e acções\n\n1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado.\n\n2 - O capital é representado por 2993 acções, com o valor nominal de (euro) 10000 cada uma.\n\n3 - As acções são nominativas e revestem a forma escritural.\n\n4 - As acções pertencem apenas ao Estado e a empresas de capitais exclusivamente públicos.\n\n5 - A cada 100 acções corresponde um voto.\n\n6 - Os accionistas têm direito de preferência na alienação de acções em função das respectivas participações no capital social e pelo seu valor nominal.\n\n7 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.\n\n8 - A falta de exercício do direito de preferência no prazo fixado confere ao accionista alienante o direito de transmitir livremente as acções, sem prejuízo do disposto no n.º 4 do presente artigo.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24."
+  }
+ }
+}

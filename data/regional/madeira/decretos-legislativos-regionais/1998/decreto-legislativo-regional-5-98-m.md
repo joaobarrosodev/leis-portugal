@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-12-31'
+version_history:
+  file: decreto-legislativo-regional-5-98-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-31'
+    amending: pt:dre:72991305:por
+    amending_title: Decreto Legislativo Regional n.º 17/2015/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/5/1998/04/27/m/dre/pt/html
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2015/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1998/decreto-legislativo-regional-5-98-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +148,15 @@ O presente diploma define o regime jurídico dos coordenadores regionais, coorde
 
 ###### Artigo 2.º
 
-1 - Cada conjunto de 20 professores do 1.º ciclo do ensino básico é orientado por um professor de apoio à área disciplinar de expressão musical e dramática.
+1 - A estrutura, composição e número de coordenadores regionais, coordenadores concelhios, professores de apoio e animadores da área de expressão musical e dramática é regulada por despacho do Secretário Regional da Educação.
 
-2 - Os professores de apoio à expressão musical e dramática têm a sua acção dinamizada e orientada por coordenadores concelhios, os quais são coordenados por dois coordenadores regionais, um para a área de expressão musical e outro para a área de expressão dramática.
+2 - [Revogado].
 
-3 - A área de expressão musical e dramática na educação pré-escolar é assegurada por nove animadores, orientados por um coordenador.
+3 - [Revogado].
 
 4 - Os cargos de professor de apoio à expressão musical e dramática, coordenador concelhio e coordenador regional devem ser desempenhados por professores habilitados para a leccionação da disciplina de Educação Musical, podendo também ser desempenhados por professores do 1.º ciclo ou educadores de infância devidamente habilitados.
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 3.º
 
@@ -199,15 +218,19 @@ e) Participar em iniciativas e actividades propostas pelo Gabinete de Apoio à E
 
 1 - No exercício das suas funções, os animadores e os professores de apoio à expressão musical e dramática têm direito a uma gratificação mensal equivalente a 15% do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.
 
-2 - Os coordenadores concelhios auferem no exercício da suas funções uma gratificação mensal correspondente a 20% do vencimento a que tiverem direito, a abonar durante os 12 meses do ano.
+2 - Os coordenadores concelhios auferem no exercício das suas funções uma gratificação mensal correspondente a 20 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.
 
-3 - Os coordenadores regionais auferem no exercício das suas funções uma gratificação mensal correspondente a 25% do vencimento a que tiverem direito, a abonar durante os 12 meses do ano.
+3 - Os coordenadores regionais auferem no exercício das suas funções uma gratificação mensal correspondente a 25 % do índice 100 da escala indiciária para a carreira docente da educação pré-escolar e do ensino básico, a abonar durante os 12 meses do ano.
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 8.º
 
-1 - Os coordenadores regionais e concelhios e os professores e animadores da área de expressão musical e dramática são nomeados pelo Secretário Regional de Educação, precedido de um processo de recrutamento e selecção assente na avaliação curricular e entrevista profissional com requisitos previamente publicados.
+1 - Os coordenadores regionais e concelhios e os professores e animadores da área de expressão musical e dramática são designados por despacho do Secretário Regional da Educação.
 
-2 - O exercício de funções dos coordenadores regionais e concelhios, professores e animadores é fixado por um prazo de dois anos, podendo ser sucessivamente prorrogado por idêntico período, cessando em qualquer momento por decisão superior ou a pedido do interessado no período compreendido entre 1 e 15 de Maio de cada ano.
+2 - O despacho referido no número anterior fixa a duração da designação, podendo a mesma cessar em qualquer momento por decisão daquele membro do Governo ou a pedido do interessado.
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ###### Artigo 9.º
 

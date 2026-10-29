@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-01-29'
+version_history:
+  file: decreto-legislativo-regional-34-2010-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-29'
+    amending: pt:dre:570685:por
+    amending_title: Decreto Legislativo Regional n.º 2/2014/A
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/34/2010/12/29/a/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    2/2014/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2010/decreto-legislativo-regional-34-2010-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -268,6 +283,10 @@ A admissão, a qualquer título, de pessoal para os serviços e organismos da ad
 2 - Aos trabalhadores da administração regional e dos hospitais E. P. E., cuja remuneração ilíquida se situe acima dos (euro) 2000 e que, por força da aplicação da redução remuneratória efectuada por via do Orçamento do Estado, resulte uma remuneração total ilíquida inferior a (euro) 2000, o Governo Regional tomará, também, as medidas necessárias que garantam uma remuneração compensatória tendente a assegurar a percepção daquele valor, em termos totais ilíquidos.
 
 3 - Os encargos decorrentes da implementação da remuneração compensatória serão suportados pela dotação provisional.
+
+4 - O disposto no n.º 1, bem como as disposições regulamentares associadas, mantêm-se em vigor até à data do início da produção de efeitos do diploma que aprova o Orçamento da Região Autónoma dos Açores para o ano de 2014.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.
 
 ### CAPÍTULO IV — Transferências e financiamento
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-05-08'
+version_history:
+  file: decreto-lei-189-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-08'
+    amending: pt:dre:553057:por
+    amending_title: Lei n.º 18/2012
+    changes:
+    - Revoga Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/189/1998/07/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:58:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 18/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-189-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -286,7 +301,9 @@ As embarcações abrangidas pela Convenção devem observar o disposto no anexo 
 
 ###### Artigo 21.º — Inquéritos a acidentes
 
-A DGPNTM tem competência para efectuar relatórios relativos a acidentes de embarcações abrangidas pela Convenção e, se assim o entender, deles dar conhecimento à IMO.
+(Revogado.)
+
+> Revogado pelo/a Artigo 26.º do/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07.
 
 ###### Artigo 22.º — Competência sancionatória
 

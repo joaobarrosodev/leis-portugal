@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:541444:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5e7caab8360b8b05",
+    "8f58813eda919d2d",
+    "15a25b3bd89d7a21",
+    "c804935eae19c8a3",
+    "8379cfd96c36576f",
+    "fd9f47dc9f2355bb",
+    "13e0af3f92f9e17f",
+    "33a798b45b7cec33",
+    "6fecea2590a751e7",
+    "c308f4383b781425",
+    "d7e3afc76eff3e21",
+    "a759c9b21a09fd17"
+   ]
+  },
+  {
+   "date": "1997-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667764:por",
+     "title": "Decreto-Lei n.º 280/97",
+     "published": "1997-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/280-1997-667764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "5e7caab8360b8b05",
+    "8f58813eda919d2d",
+    "15a25b3bd89d7a21",
+    "c804935eae19c8a3",
+    "8379cfd96c36576f",
+    "fd9f47dc9f2355bb",
+    "13e0af3f92f9e17f",
+    "33a798b45b7cec33",
+    "6fecea2590a751e7",
+    "1afc4333de236b05",
+    "d7e3afc76eff3e21",
+    "a759c9b21a09fd17"
+   ]
+  }
+ ],
+ "fragments": {
+  "5e7caab8360b8b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Dezembro\n\nAo desenvolvimento e evolução das tecnologias da saúde, atenta a necessidade de melhorar os padrões de qualidade das prestações de saúde, têm-se associado modelos compatíveis de formação de profissionais de saúde.\n\nProcurou-se, através dessa formação, corresponder às crescentes exigências de qualidade sentidas neste âmbito, de modo a proporcionar à comunidade cuidados de saúde do mais elevado nível.\n\nDaí que venham sendo elaborados planos de estudos e programas adequados a tal objectivo, tendo em vista permitir uma qualificada prestação de serviços especializados de pesquisa, investigação, concepção e aplicação de métodos e técnicas científicos à educação para a saúde e à prevenção da doença e ao tratamento, reabilitação e reinserção dos utentes dos serviços de saúde na comunidade.\n\nA evolução verificada neste âmbito, quer a nível nacional, quer a nível internacional, nomeadamente no âmbito da Comunidade Europeia, justifica plenamente a integração da formação na área das tecnologias da saúde no sistema educativo nacional ao nível do ensino superior politécnico, o que se caracteriza através deste diploma.\n\nTendo em consideração o disposto na Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro);\n\nTendo em consideração o disposto na Lei do Estatuto e Autonomia dos Estabelecimentos de Ensino Superior Politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro):\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "8f58813eda919d2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - As Escolas Técnicas dos Serviços de Saúde de Coimbra, de Lisboa e do Porto são integradas no sistema educativo nacional, ao nível do ensino superior politécnico, passando a designar-se, respectivamente, por Escola Superior de Tecnologia da Saúde de Coimbra, de Lisboa e do Porto.\n\n2 - As escolas superiores de tecnologia da saúde, adiante designadas por ESTES, são dotadas de personalidade jurídica e gozam de autonomia científica, pedagógica, administrativa e financeira."
+  },
+  "15a25b3bd89d7a21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tutela\n\n1 - O ensino ministrado nas ESTES fica sob a tutela dos Ministros da Educação e da Saúde.\n\n2 - A gestão administrativa das ESTES fica sob a tutela do Ministro da Saúde."
+  },
+  "c804935eae19c8a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cursos\n\nOs cursos a ministrar nas ESTES, bem como os respectivos planos de estudo, são aprovados por portaria conjunta dos Ministros da Educação e da Saúde."
+  },
+  "8379cfd96c36576f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Admissão\n\nA admissão aos cursos de bacharelato ministrados nas ESTES regula-se pelas regras gerais de acesso ao ensino superior politécnico."
+  },
+  "fd9f47dc9f2355bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vagas\n\nAs vagas para a matrícula e inscrição nos cursos ministrados nas ESTES são fixadas por despacho conjunto dos Ministros da Educação e da Saúde."
+  },
+  "13e0af3f92f9e17f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Corpo docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Corpo docente\n\nAo corpo docente das ESTES aplica-se o estatuto do pessoal docente do ensino superior politécnico."
+  },
+  "33a798b45b7cec33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de instalação\n\n1 - As ESTES funcionam em regime de instalação até à aprovação dos respectivos estatutos, de acordo com o disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro.\n\n2 - O regime de instalação a aplicar nos termos do número anterior é o que vigorar para o ensino superior politécnico."
+  },
+  "6fecea2590a751e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Quadros\n\nOs quadros de pessoal das ESTES são aprovados por portaria conjunta dos Ministros das Finanças, da Educação e da Saúde."
+  },
+  "c308f4383b781425": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Cursos actualmente ministrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cursos actualmente ministrados\n\n1 - Relativamente aos alunos que já iniciaram o seu curso, os planos de estudos dos cursos ministrados nas Escolas referidas no n.º 1 do artigo 1.º manter-se-ão durante o ano lectivo de 1993-1994.\n\n2 - Por portaria conjunta dos Ministros da Educação e da Saúde serão fixadas as unidades curriculares de transição dos actuais planos de estudos para os cursos que conferem o grau de bacharelato.\n\n3 - Os cursos já ministrados e cujos planos de estudos correspondam substancialmente aos que forem aprovados nos termos do artigo 3.º conferem o grau de bacharelato."
+  },
+  "d7e3afc76eff3e21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Transição do pessoal docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transição do pessoal docente\n\n1 - O pessoal da carreira técnica de diagnóstico e terapêutica actualmente a exercer funções docentes ao abrigo do artigo 7.º do [Decreto-Lei n.º 402/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1987-406113), de 31 de Dezembro, pode continuar no exercício dessas funções até ao fim do regime de instalação.\n\n2 - O pessoal referido no número anterior pode transitar para a carreira do pessoal docente do ensino superior politécnico desde que possua as habilitações necessárias.\n\n3 - A transição referida no número anterior faz-se para a categoria da carreira docente do ensino superior politécnico a que corresponde o respectivo grau académico."
+  },
+  "a759c9b21a09fd17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados:\n\na) Os capítulos I, III, IV e V do [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro;\n\nb) O n.º 2 do artigo 6.º do [Decreto-Lei n.º 384-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1985-168598), de 30 de Setembro;\n\nc) O [Decreto-Lei n.º 402/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1987-406113), de 31 de Dezembro;\n\nd) A [Portaria n.º 80/89](https://diariodarepublica.pt/dr/detalhe/portaria/80-1989-610443), de 2 de Fevereiro;\n\ne) A [Portaria n.º 549/86](https://diariodarepublica.pt/dr/detalhe/portaria/549-1986-221561), de 24 de Setembro;\n\nf) A [Portaria n.º 439/88](https://diariodarepublica.pt/dr/detalhe/portaria/439-1988-373378), de 6 de Julho;\n\ng) A [Portaria n.º 474/92](https://diariodarepublica.pt/dr/detalhe/portaria/474-1992-300656), de 5 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 14 de Outubro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho.\n\nPromulgado em 9 de Dezembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Dezembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1afc4333de236b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Cursos actualmente ministrados",
+   "in_force_from": "1997-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), publicado em 1997-10-15."
+   ],
+   "markdown": "###### Artigo 9.º — Cursos actualmente ministrados\n\n1 - Relativamente aos alunos que já iniciaram o seu curso, os planos de estudos dos cursos ministrados nas Escolas referidas no n.º 1 do artigo 1.º manter-se-ão durante o ano lectivo de 1993-1994.\n\n2 - Por portaria conjunta dos Ministros da Educação e da Saúde serão fixadas as unidades curriculares de transição dos actuais planos de estudos para os cursos que conferem o grau de bacharelato.\n\n3 - Os cursos das escolas técnicas dos serviços de saúde cujos planos de estudos correspondam substancialmente aos dos cursos de bacharelato criados ao abrigo do artigo 3.º são equiparados ao grau de bacharel nos termos dos números seguintes.\n\n4 - A produção de efeitos da equiparação a que se refere o número anterior está condicionada ao prévio registo da mesma na escola superior que sucedeu àquela que concedeu o diploma.\n\n5 - Por portaria conjunta dos Ministros da Educação e da Saúde:\n\na) É fixado, sobre proposta fundamentada dos conselhos científicos das escolas superiores de tecnologia da saúde, o elenco de cursos abrangidos pelo n.º 3;\n\nb) São aprovadas as regras a que deve obedecer o registo a que se refere o n.º 4.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), publicado em 1997-10-15."
+  }
+ }
+}

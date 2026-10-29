@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-20'
+version_history:
+  file: despacho-normativo-622-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-20'
+    amending: pt:dre:423618:por
+    amending_title: Despacho Normativo n.º 51/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/622/1994/08/23/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:23:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 51/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-622-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,6 +220,8 @@ Acção B - Formação e especialização de quadros;
 
 Acção C - Inserção de técnicos na indústria;
 
+Acção D - Desenvolvimento de metodologias de formação.
+
 2 - Têm igualmente carácter voluntarista iniciativas de promoção de acções no âmbito de:
 
 a) Redes de cooperação (medida 4.2, acção B);
@@ -213,6 +231,8 @@ b) Missões de produtividade e projectos de demonstração (medida 4.6);
 c) Estratégias de especialização e de mutação da estrutura produtiva (medida 4.8);
 
 3 - Poderão ser objecto de tratamento específico, nos termos a definir por despacho do Ministro da Indústria e Energia, os projectos desenvolvidos no âmbito de agregados industriais abrangidos por programas estratégicos integrados no quadro da política industrial.
+
+> Alterado pelo/a [Despacho Normativo n.º 51/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1998-423618), publicado em 1998-07-15.
 
 ###### Artigo 3.º — Estrutura institucional
 
@@ -226,11 +246,13 @@ c) O Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPME
 
 d) A Direcção-Geral da Indústria (DGI), no caso das alíneas d) e f) do n.º 1 e da alínea b) do n.º 2 do artigo 2.º;
 
-e) O Instituto Nacional de Engenharia e Tecnologia Industrial (INETI) no caso das alíneas e) e i) do n.º 1 do artigo 2.º;
+e) O Instituto Nacional de Engenharia e Tecnologia Industrial (INETI), no caso da alínea e) do n.º 1 do artigo 2.º;
 
 f) A Direcção-Geral da Energia (DGE), no caso da alínea h) do n.º 1 do artigo 2.º;
 
 g) O gestor do PEDIP II (gestor), no caso da alínea c) do n.º 2 do artigo 2.º, para a concepção administrativa da metodologia de ajustamento e tratamento específico das acções do Programa relativamente a acções industriais cobertas por programas estratégicos definidos pelo Ministro da Indústria e Energia, sob iniciativa dos organismos do Ministério.
+
+h) O Gabinete de Dinamização e Acompanhamento de Formação Profissional (GDA-FP), no caso da alínea i) do n.º 1 do artigo 2.º
 
 2 - Para efeitos do presente despacho entende-se por:
 
@@ -239,6 +261,8 @@ a) Equipas de projecto - estruturas criadas no âmbito dos organismos responsáv
 b) Gabinete técnico - conjunto de recursos humanos e materiais que, numa base anual, constituem o reforço pontual e temporário de competências complementares às da equipa de projecto, numa base de consultoria e de recurso à tarefa concreta sempre que possível.
 
 3 - O gestor poderá propor, em casos excepcionais e devidamente justificados, a criação de gabinetes específicos cujo funcionamento e forma de financiamento serão definidos por despacho do Ministro da Indústria e Energia.
+
+> Alterado pelo/a [Despacho Normativo n.º 51/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1998-423618), publicado em 1998-07-15.
 
 ###### Artigo 4.º — Planos de actividades
 

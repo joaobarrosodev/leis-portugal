@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:638540:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f4a67041183620f9",
+    "74f7a77f54f0197c",
+    "291ccfc8935690df",
+    "7f58a976c15f6c81",
+    "f763fc575daaa7c1",
+    "32b3e3fdcfde0dbc",
+    "e1dd506a84534126",
+    "4690a2f91300cd89",
+    "63d88766ff8aa3f5",
+    "c2340723ea075dd3",
+    "932afbaae482ac43",
+    "77fa94a08b4da99d",
+    "bf85488e40f5a005",
+    "39457d1c8165b7f1",
+    "a0ade29c70a92df8"
+   ]
+  },
+  {
+   "date": "2009-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492395:por",
+     "title": "Decreto Regulamentar n.º 13/2009",
+     "published": "2009-07-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/13-2009-492395"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "f4a67041183620f9",
+    "74f7a77f54f0197c",
+    "291ccfc8935690df",
+    "fb64d86dbe00889c",
+    "f763fc575daaa7c1",
+    "32b3e3fdcfde0dbc",
+    "e1dd506a84534126",
+    "4690a2f91300cd89",
+    "63d88766ff8aa3f5",
+    "c2340723ea075dd3",
+    "932afbaae482ac43",
+    "77fa94a08b4da99d",
+    "bf85488e40f5a005",
+    "39457d1c8165b7f1",
+    "a0ade29c70a92df8"
+   ]
+  }
+ ],
+ "fragments": {
+  "f4a67041183620f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio\n\nNo quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 210/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2006-545646), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério das Obras Públicas, Transportes e Comunicações, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.\n\nNo caso do Ministério das Obras Públicas, Transportes e Comunicações, a Lei Orgânica do Ministério prevê como órgão consultivo do Ministério o Conselho Consultivo de Obras Públicas, Transportes e Comunicações (CCOPTC). O presente decreto regulamentar define a estrutura, competência e funcionamento do CCOPTC, que coadjuva o Governo na resolução das questões relativas a obras públicas, transportes e comunicações, e em que estão representadas a Administração Pública e as organizações profissionais, científicas e económicas de âmbito nacional mais representativas dos respectivos sectores.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 7.º da [Lei n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/lei/4-2006-677060), de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "74f7a77f54f0197c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Conselho Consultivo de Obras Públicas, Transportes e Comunicações, abreviadamente designado por CCOPTC, é o órgão consultivo do Ministério das Obras Públicas, Transportes e Comunicações."
+  },
+  "291ccfc8935690df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - O CCOPTC tem por missão coadjuvar o Governo na resolução das questões relativas a obras públicas, transportes e comunicações, cabendo-lhe emitir pareceres de carácter técnico, económico e financeiro sobre os projectos ou assuntos que sejam submetidos à sua apreciação pelo membro do Governo responsável pela área das obras públicas, transportes e comunicações.\n\n2 - Compete ao CCOPTC emitir os pareceres de carácter técnico-económico que lhe forem solicitados pelo Ministro das Obras Públicas, Transportes e Comunicações, designadamente sobre:\n\na) Planos gerais, anteprojectos e projectos de obras públicas;\n\nb) Planos de construção, exploração, transformação e conservação das infra-estruturas aeroportuárias e de navegação aérea, rodoviárias, ferroviárias e portuárias;\n\nc) Actividades de serviços públicos de transportes aéreos, marítimos, fluviais e terrestres;\n\nd) Projectos de leis ou regulamentos de ordem técnica relativos à actividade desenvolvida pelo Ministério;\n\ne) Todos os restantes assuntos para os quais as leis e regulamentos exijam o seu parecer."
+  },
+  "7f58a976c15f6c81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O CCOPTC tem a seguinte composição:\n\na) O ministro responsável pelas obras públicas, transportes e comunicações, que preside;\n\nb) O secretário;\n\nc) Os vogais.\n\n2 - São vogais do CCOPTC:\n\na) O presidente do Instituto da Construção e do Imobiliário, I. P.;\n\nb) O presidente do Instituto Nacional de Aviação Civil, I. P.;\n\nc) O presidente do Instituto Portuário e dos Transportes Marítimos, I. P.;\n\nd) O presidente do Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\ne) O presidente do Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nf) O presidente do ICP - Autoridade Nacional de Comunicações;\n\ng) O director do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves;\n\nh) O director do Gabinete de Investigação de Segurança e Acidentes Ferroviários;\n\ni) O director do Comissão Técnica do Registo Internacional de Navios da Madeira;\n\nj) O presidente do Laboratório Nacional de Engenharia Civil, I. P.;\n\nl) Os presidentes das comissões de coordenação e desenvolvimento regional;\n\nm) Um representante do Governo Regional dos Açores;\n\nn) Um representante do Governo Regional da Madeira;\n\no) Até seis representantes da Associação Nacional de Municípios Portugueses;\n\np) Até seis representantes de organizações não governamentais na área das obras públicas, transportes e comunicações;\n\nq) Até seis personalidades de reconhecido prestígio e experiência em matéria de obras públicas, transportes e comunicações.\n\n3 - Os vogais referidos no número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada, com excepção dos vogais indicados na alínea p).\n\n4 - A substituição dos vogais referidos no número anterior nas reuniões do CCOPTC opera-se mediante comunicação prévia da entidade representada.\n\n5 - Os vogais indicados nas alíneas n) e o) do n.º 2 são designados pelo membro do Governo responsável das Obras Públicas Transportes e Comunicações, sob proposta da Associação Nacional de Municípios Portugueses e das organizações não governamentais na área das obras públicas, transportes e comunicações, respectivamente."
+  },
+  "f763fc575daaa7c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Presidente\n\nCompete ao presidente do CCOPTC:\n\na) Orientar as acções do CCOPTC;\n\nb) Nomear o secretário do CCOPTC;\n\nc) Estabelecer a ordem de trabalhos e convocar e presidir a todas as reuniões do CCOPTC;\n\nd) Determinar, nos termos do regulamento interno do CCOPTC, a constituição de secções;\n\ne) Dar a conhecer e ou submeter à aprovação do plenário as conclusões dos trabalhos produzidos no âmbito das secções referidas na alínea anterior;\n\nf) Apresentar ao CCOPTC, para aprovação, o programa anual de actividades acompanhado da correspondente estimativa orçamental."
+  },
+  "32b3e3fdcfde0dbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretário\n\n1 - Compete ao secretário do CCOPTC:\n\na) Organizar e coordenar as actividades do CCOPTC entre as sessões plenárias;\n\nb) Assegurar o envio de convocatórias, ordens de trabalho e actas das reuniões do CCOPTC;\n\nc) Enviar aos membros do CCOPTC os documentos que devam ser dados a conhecer ou sobre os quais seja solicitado parecer ao CCOPTC;\n\nd) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;\n\ne) Acompanhar e orientar as actividades dos grupos de trabalho e dos serviços de apoio;\n\nf) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;\n\ng) Propor estudos e ou outras medidas que repute importantes para o prosseguimento das actividades do CCOPTC;\n\nh) Elaborar, até ao final de cada ano, o programa de actividades para o ano seguinte e a estimativa orçamental da sua cobertura;\n\ni) Representar o CCOPTC, quando tal lhe for determinado.\n\n2 - O secretário do CCOPTC é designado de entre licenciados, dotados de competência técnica, aptidão e experiência profissional adequada ao exercício das respectivas funções.\n\n3 - O secretário do CCOPTC pode auferir pelo desempenho das suas funções uma remuneração a fixar em despacho conjunto dos membros do Governo responsáveis pelas áreas das obras públicas, transportes e comunicações, das finanças e da administração pública."
+  },
+  "e1dd506a84534126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Funcionamento em secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento em secção\n\n1 - O CCOPTC pode funcionar em secções especializadas nos termos previstos no respectivo regulamento interno.\n\n2 - As secções devem, de acordo com a natureza do respectivo mandato, congregar os representantes das entidades participantes no Conselho, bem como associar os especialistas mais adequados à prossecução dos seus objectivos."
+  },
+  "4690a2f91300cd89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O CCOPTC reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo Presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - O CCOPTC elabora o seu regulamento interno de funcionamento, a submeter à homologação do Ministro das Obras Públicas Transportes e Comunicações, no prazo de seis meses após a entrada em vigor do presente decreto regulamentar.\n\n3 - O regulamento interno, bem como as respectivas alterações, é aprovado por uma maioria qualificada de dois terços dos membros do Conselho presentes em reunião plenária."
+  },
+  "63d88766ff8aa3f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Participação de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Participação de outras entidades\n\nPodem participar nas reuniões do CCOPTC, sem direito a voto e em número não superior a um terço dos vogais do Conselho, representantes de entidades públicas ou privadas, bem como personalidades de reconhecido mérito, convidadas pelo presidente."
+  },
+  "c2340723ea075dd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio técnico\n\nO apoio técnico ao CCOPTC é prestado pelo Gabinete de Planeamento, Estratégia e Relações Internacionais do Ministério das Obras Públicas, Transportes e Comunicações."
+  },
+  "932afbaae482ac43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoio administrativo\n\nO apoio administrativo ao CCOPTC é prestado pela Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações."
+  },
+  "77fa94a08b4da99d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Encargos\n\nOs encargos financeiros resultantes do funcionamento do CCOPTC são suportados pela Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações."
+  },
+  "bf85488e40f5a005": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Quadro transitório de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Quadro transitório de pessoal\n\n1 - Os funcionários do quadro de pessoal do extinto Conselho Superior das Obras Públicas, Transportes e Comunicações, que detêm categorias de conselheiro, integram um quadro transitório de pessoal afecto ao CCOPTC.\n\n2 - A integração no quadro transitório de pessoal faz-se na categoria e escalão que os funcionários possuam na data da transição.\n\n3 - Os lugares do quadro transitório de pessoal são em número correspondente ao dos funcionários a integrar e extinguem-se quando vagarem."
+  },
+  "39457d1c8165b7f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Efeitos revogatórios\n\n1 - Nos termos do artigo 5.º do [Decreto-Lei n.º 201/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644), de 27 de Outubro, consideram-se revogados na data de entrada em vigor do presente decreto regulamentar:\n\na) O [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro;\n\nb) O [Decreto-Lei n.º 246/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1973-422209), de 17 de Maio;\n\nc) O [Decreto-Lei n.º 572-E/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/572-e-1980-568107), de 26 de Dezembro;\n\nd) O [Decreto-Lei n.º 45/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1999-170310), de 12 de Fevereiro.\n\n2 - São revogadas:\n\na) A [Portaria n.º 256/88](https://diariodarepublica.pt/dr/detalhe/portaria/256-1988-285365), de 27 de Abril;\n\nb) A [Portaria n.º 534/89](https://diariodarepublica.pt/dr/detalhe/portaria/534-1989-619569), de 12 de Julho;\n\nc) A [Portaria n.º 561/96](https://diariodarepublica.pt/dr/detalhe/portaria/561-1996-233101), de 9 de Outubro."
+  },
+  "a0ade29c70a92df8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.\n\nPromulgado em 3 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 5 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "fb64d86dbe00889c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2009-07-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2009-492395), publicado em 2009-07-17."
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O CCOPTC tem a seguinte composição:\n\na) O ministro responsável pelas obras públicas, transportes e comunicações, que preside;\n\nb) O secretário;\n\nc) Os vogais.\n\n2 - São vogais do CCOPTC:\n\na) O presidente do Instituto da Construção e do Imobiliário, I. P.;\n\nb) O presidente do Instituto Nacional de Aviação Civil, I. P.;\n\nc) O presidente do Instituto Portuário e dos Transportes Marítimos, I. P.;\n\nd) O presidente do Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\ne) O presidente do Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nf) O presidente do ICP - Autoridade Nacional de Comunicações;\n\ng) O director do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves;\n\nh) O director do Gabinete de Investigação de Segurança e Acidentes Ferroviários;\n\ni) O director do Comissão Técnica do Registo Internacional de Navios da Madeira;\n\nj) O presidente do Laboratório Nacional de Engenharia Civil, I. P.;\n\nl) Os presidentes das comissões de coordenação e desenvolvimento regional;\n\nm) Um representante do Governo Regional dos Açores;\n\nn) Um representante do Governo Regional da Madeira;\n\no) Até seis representantes da Associação Nacional de Municípios Portugueses;\n\np) Até seis representantes de organizações não governamentais na área das obras públicas, transportes e comunicações;\n\nq) Até seis personalidades de reconhecido prestígio e experiência em matéria de obras públicas, transportes e comunicações.\n\n3 - Os vogais referidos no número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada, com excepção dos vogais indicados na alínea q).\n\n4 - A substituição dos vogais referidos no número anterior nas reuniões do CCOPTC opera-se mediante comunicação prévia da entidade representada.\n\n5 - Os vogais indicados nas alíneas o) e p) do n.º 2 são designados pelo membro do Governo responsável pelas áreas das obras públicas, transportes e comunicações, sob proposta da Associação Nacional de Municípios Portugueses e das organizações não governamentais nas áreas das obras públicas, transportes e comunicações, respectivamente.\n\n> Alterado pelo/a Artigo único do/a [Decreto Regulamentar n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2009-492395), publicado em 2009-07-17."
+  }
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469044:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-04-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3e149b856de5fa0d",
+    "6078f86701c7d1a9",
+    "d0f8327c9103929d",
+    "29dda2b415251a9c"
+   ]
+  },
+  {
+   "date": "1997-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:305441:por",
+     "title": "Declaração de Rectificação n.º 21-C/97",
+     "published": "1997-11-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/21-c-1997-305441"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "3e149b856de5fa0d",
+    "8dc45f7b699e5f1e",
+    "d0f8327c9103929d",
+    "29dda2b415251a9c"
+   ]
+  }
+ ],
+ "fragments": {
+  "3e149b856de5fa0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Abril\n\nNos termos da alínea c) do n.º 1 do artigo 200.º da Constituição da República Portuguesa, o Governo decreta o seguinte:"
+  },
+  "6078f86701c7d1a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nSão aprovadas, para ratificação, as alterações ao artigo XVII do Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (INTELSAT), aprovado pelo [Decreto-Lei n.º 124/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1992-291849), de 19 de Abril, adoptadas nas 19.ª e 20.ª Assembleias de Partes, que tiveram lugar, respectivamente, na Venezuela, de 25 a 28 de Outubro de 1994, e na Dinamarca, de 29 de Agosto a 1 de Setembro de 1995, bem como as alterações aos artigos 6 e 22 do correspondente Acordo de Exploração, aprovado pelo [Decreto-Lei n.º 169/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1972-681391), de 16 de Maio, adoptadas na 25.ª Sessão da Reunião de Signatários efectuada em Singapura de 4 a 7 de Abril de 1995, cujo texto original em inglês e respectiva tradução em português seguem em anexo ao presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.\n\nRatificado em 14 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nAMENDMENT TO THE AGREEMENT RELATING TO THE INTERNATIONAL TELECOMMUNICATIONS SATELLITE ORGANIZATION (INTELSAT).\n\nArticle XVII (f), as amended\n\n(f) Notwithstanding the provisions of paragraphs (d) and (e) of this article, an amendment shall not enter into force less than eight months after the date it has been approved by the Assembly of Parties.\n\nPROPOSED REVISION TO ARTICLE 6 OF THE OPERATING AGREEMENT TO MAKE THE PROVISIONS RELATING TO INVESTMENT MORE FLEXIBLE.\n\nAmend paragraph (d) (i) and paragraph (h);\n\nArticle 6\n\n(Investment shares)\n\n(d) (i) Any signatory may request that it be allocated a lesser investment share. Such requests shall be deposited with INTELSAT and shall indicate the reduced investment shared desired. INTELSAT shall give prompt notification of such requests to all signatories, and such requests shall be honored to the extent that other signatories accept greater investment shares.\n\n(h) Notwithstanding any provision of this article, no signatory shall have an investment share of less than 0.05 per cent of the total investment shares or greater than 150 per cent of its percentage of all utilization of the INTELSAT space segment by all signatories determined pursuant to the provisions of paragraph (b) of this article.\n\nALTERAÇÃO DO ACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT)\n\nArtigo XVII (f), emendado\n\n(f) Não obstante o disposto nas alíneas d) e e) do presente artigo, nenhuma emenda entrará em vigor antes de oito meses após a data da respectiva aprovação pela Assembleia de Partes.\n\nALTERAÇÃO AO ACORDO DE EXPLORAÇÃO DA ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT)."
+  },
+  "d0f8327c9103929d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6 — (Quotas de investimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6 — (Quotas de investimento)\n\n[As alíneas d), i), e h) passam a ter a seguinte redacção:]\n\nd) - i) Qualquer signatário pode pedir que lhe seja atribuída uma quota de investimento menor. Os pedidos dessa natureza deverão ser endereçados à INTELSAT com indicação de quota reduzida de investimento pretendida. A INTELSAT dará pronto conhecimento de tais pedidos a todos os signatários, sendo os mesmos satisfeitos na medida em que outros signatários aceitem aumentar as respectivas quotas de investimento.\n\nh) Não obstante o disposto neste artigo, nenhum signatário terá uma quota de investimento inferior a 0,05% do total das quotas de investimento ou superior a 150% da correspondente percentagem de utilização do total do segmento espacial da INTELSAT por todos os signatários, determinado de harmonia com o disposto na alínea b) deste artigo."
+  },
+  "29dda2b415251a9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22 — (Emendas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22 — (Emendas)\n\n[É eliminada a alínea f).]"
+  },
+  "8dc45f7b699e5f1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "1997-11-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 21-C/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-c-1997-305441), publicado em 1997-11-29."
+   ],
+   "markdown": "###### Artigo único\n\nSão aprovadas, para ratificação, as alterações ao artigo XVII do Acordo Relativo à Organização Internacional de Telecomunicações por Satélites (INTELSAT), aprovado pelo Decreto-Lei n.º 124/72, de 19 de Abril, adoptadas nas 19.ª e 20.ª Assembleias de Partes, que tiveram lugar, respectivamente, na Venezuela, de 25 a 28 de Outubro de 1994, e na Dinamarca, de 29 de Agosto a 1 de Setembro de 1995, bem como as alterações aos artigos 6 e 22 do correspondente Acordo de Exploração, aprovado pelo Decreto-Lei n.º 169/72, de 16 de Maio, adoptadas na 25.ª Sessão da Reunião de Signatários efectuada em Singapura de 4 a 7 de Abril de 1995, cujo texto original em inglês e respectiva tradução em português seguem em anexo ao presente diploma.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 21-C/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-c-1997-305441), publicado em 1997-11-29.\n\nVisto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - João Cardona Gomes Cravinho.\n\nRatificado em 14 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nAMENDMENT TO THE AGREEMENT RELATING TO THE INTERNATIONAL TELECOMMUNICATIONS SATELLITE ORGANIZATION (INTELSAT).\n\nArticle XVII (f), as amended\n\n(f) Notwithstanding the provisions of paragraphs (d) and (e) of this article, an amendment shall not enter into force less than eight months after the date it has been approved by the Assembly of Parties.\n\nPROPOSED REVISION TO ARTICLE 6 OF THE OPERATING AGREEMENT TO MAKE THE PROVISIONS RELATING TO INVESTMENT MORE FLEXIBLE.\n\nAmend paragraph (d) (i) and paragraph (h);\n\nArticle 6\n\n(Investment shares)\n\n(d) (i) Any signatory may request that it be allocated a lesser investment share. Such requests shall be deposited with INTELSAT and shall indicate the reduced investment shared desired. INTELSAT shall give prompt notification of such requests to all signatories, and such requests shall be honored to the extent that other signatories accept greater investment shares.\n\n(h) Notwithstanding any provision of this article, no signatory shall have an investment share of less than 0.05 per cent of the total investment shares or greater than 150 per cent of its percentage of all utilization of the INTELSAT space segment by all signatories determined pursuant to the provisions of paragraph (b) of this article.\n\nALTERAÇÃO DO ACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT)\n\nArtigo XVII (f), emendado\n\n(f) Não obstante o disposto nas alíneas d) e e) do presente artigo, nenhuma emenda entrará em vigor antes de oito meses após a data da respectiva aprovação pela Assembleia de Partes.\n\nALTERAÇÃO AO ACORDO DE EXPLORAÇÃO DA ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT)."
+  }
+ }
+}

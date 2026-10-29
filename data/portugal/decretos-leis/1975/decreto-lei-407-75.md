@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-05-28'
+version_history:
+  file: decreto-lei-407-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-05-28'
+    amending: pt:dre:391981:por
+    amending_title: Decreto-Lei n.º 209/82
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:43:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 209/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-407-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,31 +125,49 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O grau de licenciado em Medicina é conferido pelas Universidades portuguesas àqueles que obtiverem aprovação em todas as disciplinas do curso médico-cirúrgico.
+###### Artigo 1.º
+
+1. O grau de licenciado em Medicina é conferido pelas Universidades portuguesas àqueles que obtiverem aprovação em todas as disciplinas do curso médico-cirúrgico.
 
 2. O regime estabelecido no número anterior aplica-se igualmente aos que concluíram o referido curso no ano lectivo de 1973-1974, sem prejuízo do disposto no artigo 5.º
 
-Art. 2.º Fica assegurada, mediante requerimento, a todos os licenciados em Medicina a admissão ao internato de policlínica, que terá a duração de vinte e quatro meses.
+###### Artigo 2.º
 
-Art. 3.º Aos que obtenham a licenciatura em Medicina a partir da data da publicação deste diploma não é permitido o exercício de actos médicos, fora do âmbito do internato de policlínica, antes da conclusão, com aproveitamento, do mesmo internato.
+(Revogado.)
 
-Art. 4.º O vencimento dos internos de policlínica é o correspondente à letra K da escala geral do funcionalismo durante os doze primeiros meses de internato e o correspondente à letra J nos restantes, independentemente dos estágios que os internos se achem a frequentar.
+> Revogado pelo/a [Decreto-Lei n.º 209/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1982-391981), publicado em 1982-05-28.
 
-Art. 5.º - 1. A título transitório, é mantido o estágio de prática clínica nas Faculdades de Medicina, para frequência dos que hajam concluído o curso médico-cirúrgico durante o ano lectivo de 1973-1974 e optem pelo regime em vigor até à data da publicação deste diploma.
+###### Artigo 3.º
+
+Aos que obtenham a licenciatura em Medicina a partir da data da publicação deste diploma não é permitido o exercício de actos médicos, fora do âmbito do internato de policlínica, antes da conclusão, com aproveitamento, do mesmo internato.
+
+###### Artigo 4.º
+
+O vencimento dos internos de policlínica é o correspondente à letra K da escala geral do funcionalismo durante os doze primeiros meses de internato e o correspondente à letra J nos restantes, independentemente dos estágios que os internos se achem a frequentar.
+
+###### Artigo 5.º
+
+1. A título transitório, é mantido o estágio de prática clínica nas Faculdades de Medicina, para frequência dos que hajam concluído o curso médico-cirúrgico durante o ano lectivo de 1973-1974 e optem pelo regime em vigor até à data da publicação deste diploma.
 
 2. Aos licenciados nos termos do número anterior não é permitido o exercício de actos médicos fora do âmbito do internato de policlínica antes da sua conclusão, com aproveitamento.
 
 3. Para os mesmos licenciados, o internato de policlínica terá a duração de doze meses, com a remuneração correspondente à letra J.
 
-Art. 6.º - 1. Os licenciados que terminaram o estágio de prática clínica no ano de 1974 não são abrangidos pela disposição do artigo 3.º do presente diploma.
+###### Artigo 6.º
+
+1. Os licenciados que terminaram o estágio de prática clínica no ano de 1974 não são abrangidos pela disposição do artigo 3.º do presente diploma.
 
 2. Para os mesmos licenciados, o internato de policlínica terá a duração de doze meses, com a remuneração correspondente à letra J.
 
-Art. 7.º - 1. Aos licenciados nos termos do n.º 2 do artigo 1.º será atribuído o respectivo diploma de licenciatura com a data de 30 de Novembro de 1974, desde que tenham concluído até essa data o curso médico-cirúrgico.
+###### Artigo 7.º
+
+1. Aos licenciados nos termos do n.º 2 do artigo 1.º será atribuído o respectivo diploma de licenciatura com a data de 30 de Novembro de 1974, desde que tenham concluído até essa data o curso médico-cirúrgico.
 
 2. A todos aqueles que não satisfaçam à condição expressa na parte final do número anterior a data do respectivo diploma será a da aprovação na última disciplina do mencionado curso.
 
-Art. 8.º Este diploma entra imediatamente em vigor.
+###### Artigo 8.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Francisco José Cruz Pereira de Moura - Joaquim Jorge Magalhães Mota - Mário Luís da Silva Murteira - José Joaquim Fragoso - José Emílio da Silva - José de Carvalho Sá Borges.
 

@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231879:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c6b57bbb9e56d8e",
+    "c617f3a5d46ed84b",
+    "54844b3e24b2720f",
+    "c39a7aea59ba746e",
+    "243ce75fc6c7a083",
+    "7081a5e837048ee1",
+    "fe1bb4d84de7e381",
+    "92f0b70055291497",
+    "7c2c5c5dbe45c018",
+    "c99d1fb3bcb404b8",
+    "cc07d8df4648ca46",
+    "33dfb180a7b1ea42"
+   ]
+  },
+  {
+   "date": "1997-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:673668:por",
+     "title": "Despacho Normativo n.º 65/97",
+     "published": "1997-10-25",
+     "dre_path": "/dr/detalhe/despacho-normativo/65-1997-673668"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "2c6b57bbb9e56d8e",
+    "d370e582e518696b",
+    "203690cda413f092",
+    "c39a7aea59ba746e",
+    "243ce75fc6c7a083",
+    "9051a25f5407ba2c",
+    "fe1bb4d84de7e381",
+    "92f0b70055291497",
+    "7c2c5c5dbe45c018",
+    "c99d1fb3bcb404b8",
+    "cc07d8df4648ca46",
+    "33dfb180a7b1ea42"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c6b57bbb9e56d8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIDE0107)\n\nRegime de Apoio à Adesão ao Mercado de Capitais\n\nO [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.\n\nNo âmbito do PEDIP II insere-se o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP), o qual se prevê, nos termos do disposto no n.º I, n.º 1, da [Resolução do Conselho de Ministros n.º 50/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1994-291631), de 1 de Julho, vir a ser desenvolvido em regimes de apoio específicos.\n\nDeste modo, é, pelo presente despacho, regulamentado o Regime de Apoio à Adesão ao Mercado de Capitais.\n\nAssim, determina-se:"
+  },
+  "c617f3a5d46ed84b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente despacho regulamenta o Regime de Apoio à Adesão ao Mercado de Capitais, previsto na alínea g) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (IIDG01), o qual regula o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP).\n\n2 - O presente despacho destina-se a promover uma adequada aproximação de pequenas e médias empresas ao Segundo Mercado das Bolsas de Valores, contribuindo para que este, na prática, induza oportunidades tendentes a assegurar a diversificação das fontes de financiamento e a redução do custo de capital das empresas."
+  },
+  "54844b3e24b2720f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regime:\n\na) Trabalhos de qualificação do risco;\n\nb) Processos internos desencadeados pelas empresas visando a melhoria das condições organizativas, práticas de gestão e desenvolvimento de sistemas de informação necessários para a sua regular manutenção em bolsa;\n\nc) Processos de admissão de títulos à cotação e estabelecimento de contratos de liquidez;\n\nd) Realização de auditorias contabilístico-financeiras com o objectivo de preparar as PME para a aproximação ao Segundo Mercado de Capitais;\n\ne) Realização de iniciativas no âmbito da formação profissional."
+  },
+  "c39a7aea59ba746e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismo gestor\n\nO organismo responsável pela gestão do presente Regime é o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI)."
+  },
+  "243ce75fc6c7a083": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades beneficiárias\n\nSão beneficiários do presente Regime:\n\na) As empresas industriais, incluídas nas CAE 10 a 37 do [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio, que promovam iniciativas consentâneas com os objectivos definidos para este Regime;\n\nb) Conjuntos de empresas industriais que pretendam efectuar emissões grupadas de títulos de dívida."
+  },
+  "7081a5e837048ee1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso do promotor\n\nOs promotores deverão cumprir as seguintes condições:\n\na) Encontrar-se legalmente constituídos à data da apresentação da candidatura;\n\nb) Possuir a estrutura organizacional e os recursos humanos qualificados, adequados às exigências da sua actividade e às necessidades de realização do projecto;\n\nc) Reunir as condições que permitam satisfazer os requisitos de admissão ao Segundo Mercado das Bolsas de Valores, regulados nos artigos 361.º e seguintes do Código do Mercado de Valores Mobiliários, bem como no regulamento n.º 91/14 da Comissão do Mercado de Valores Mobiliários e nos demais regulamentos aplicáveis emitidos pelas bolsas de valores;\n\nd) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao IAPMEI;\n\ne) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerer o registo no prazo de 20 dias úteis;\n\nf) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;\n\ng) Submeter-se a um processo de auditoria financeira e qualificação de risco, em termos a definir por despacho do Ministro da Indústria e Energia;\n\nh) Demonstrar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto."
+  },
+  "fe1bb4d84de7e381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso do projecto\n\n1 - Os projectos a apoiar no âmbito do presente Regime deverão cumprir as seguintes condições:\n\na) Não ter sido iniciada a sua realização antes da data da apresentação da candidatura, com excepção das situações previstas no n.º 2 deste artigo;\n\nb) Quando exista investimento em formação profissional, cumprir o disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (SINDEPEDIP) (IIDG01);\n\nc) Respeitar a estrutura constante do anexo ao projecto de despacho e que dele faz parte integrante;\n\n2 - Constituem excepções ao previsto na alínea a) do n.º 1:\n\na) O disposto nos artigos 21.º e 22.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho;\n\nb) As auditorias contabilístico-financeiras concluídas há menos de 120 dias úteis relativamente à data da apresentação da candidatura;\n\nc) Os estudos no âmbito do presente Regime que se hajam efectuado nos 60 dias úteis que antecederam a data de apresentação da candidatura;\n\nd) As despesas no âmbito da formação profissional realizadas nos 60 dias úteis que antecederam a data de apresentação da candidatura."
+  },
+  "92f0b70055291497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicações relevantes\n\nConsideram-se aplicações relevantes os seguintes custos necessários à execução do projecto:\n\na) Alteração da estrutura jurídica e estatutária do promotor;\n\nb) Trabalhos de auditoria, desde que não apoiados no âmbito do Regime de Apoio à Avaliação Empresarial regulamentado pelo [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (IIDG01);\n\nc) Aquisição de software e de hardware inerentes ao processo de adesão ao mercado de capitais;\n\nd) Assistência técnica, nomeadamente no âmbito da instrução do processo de admissão, trabalhos de qualificação do risco, elaboração e divulgação do prospecto de emissão e os encargos com os contratos de liquidez;\n\ne) Custos relativos à formação profissional, de acordo com o disposto em despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social."
+  },
+  "7c2c5c5dbe45c018": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Incentivo\n\n1 - O incentivo a conceder assumirá a forma de subsídio a fundo perdido correspondente a 70% das aplicações relevantes que cada projecto envolve, com excepção das despesas no âmbito da formação profissional, para as quais a percentagem é de 50% no que se refere a custos relativos à produção de material pedagógico e de 90% nos restantes casos.\n\n2 - O montante máximo do incentivo não poderá exceder 10000 contos, não incluindo o incentivo relativo à formação profissional.\n\n3 - O montante total do incentivo a conceder, com excepção do que se referir a incentivos no âmbito do Fundo Social Europeu, não poderá exceder dois terços do custo total do investimento."
+  },
+  "c99d1fb3bcb404b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação de candidaturas\n\nA apresentação das candidaturas ao presente Regime é contínua, devendo ser formalizada de acordo com o disposto no artigo 9.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (SINDEPEDIP) (IIDG01)."
+  },
+  "cc07d8df4648ca46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência e prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência e prazo de apreciação\n\nCompete ao IAPMEI a análise dos processos de candidatura, emitindo parecer fundamentado no prazo de 30 dias úteis, contados a partir da data da sua apresentação.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "33dfb180a7b1ea42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estrutura a que deverá presidir a elaboração do projecto de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estrutura a que deverá presidir a elaboração do projecto de investimento\n\nI - Apresentação sumária da empresa.\n\nII - Caracterização genérica da situação da empresa.\n\nIII - Análise das determinantes do investimento.\n\nIV - Opção de desenvolvimento.\n\nV - Plano de investimento.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia."
+  },
+  "d370e582e518696b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1997-10-30",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente despacho regulamenta o Regime de Apoio à Adesão ao Mercado de Capitais, previsto na alínea g) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 545/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/545-1994-231890) (IIDG01), o qual regula o Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP).\n\n2 - O presente despacho destina-se a promover uma adequada aproximação de pequenas e médias empresas aos mercados de capitais para elas explicitamente vocacionados, contribuindo para que estes, na prática, induzam oportunidades tendentes a assegurar a diversificação das fontes de financiamento e a redução do custo de capital das empresas.\n\n> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+  },
+  "203690cda413f092": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1997-10-30",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regime:\n\na) Trabalhos de qualificação do risco;\n\nb) Processos internos desencadeados pelas empresas visando a melhoria das condições organizativas, práticas de gestão e desenvolvimento de sistemas de informação necessários para a sua regular manutenção nos mercados de capitais;\n\nc) Processos de admissão de títulos à cotação e estabelecimento de contratos de liquidez;\n\nd) Realização de auditorias contabilístico-financeiras com o objectivo de preparar as PME para a aproximação aos mercados de capitais;\n\ne) Realização de iniciativas no âmbito da formação profissional.\n\n> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+  },
+  "9051a25f5407ba2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso dos promotores",
+   "in_force_from": "1997-10-30",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso dos promotores\n\nOs promotores deverão cumprir as seguintes condições:\n\na) Encontrar-se legalmente constituídos à data da apresentação da candidatura;\n\nb) Possuir a estrutura organizacional e os recursos humanos qualificados, adequados às exigências da sua actividade e às necessidades de realização do projecto;\n\nc) Reunir as condições que permitam satisfazer os requisitos de admissão aos mercados a que pretende aderir;\n\nd) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao IAPMEI;\n\ne) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerer o registo no prazo de 20 dias úteis;\n\nf) Ter licenciadas todas as unidades industriais pertencentes à empresa ou comprometer-se a regularizá-las, devendo apresentar comprovativo de licenciamento à data de realização do contrato;\n\ng) Submeter-se a um processo de auditoria financeira e qualificação de risco, em termos a definir por despacho do Ministro da Indústria e Energia;\n\nh) Demonstrar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto.\n\n> Alterado pelo/a [Despacho Normativo n.º 65/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/65-1997-673668), publicado em 1997-10-25."
+  }
+ }
+}

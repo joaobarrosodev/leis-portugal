@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-127-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345606:por
+    amending_title: Decreto-Lei n.º 104/2014
+    changes:
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/127/2002/05/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:31:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 104/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-127-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +149,9 @@ O sistema multimunicipal de valorização e tratamento de resíduos sólidos urb
 
 ###### Artigo 2.º
 
-1 - O sistema poderá ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
+(Revogado.)
 
-2 - O interesse público referido no número anterior é reconhecido por despacho do Ministro do Ambiente e do Ordenamento do Território, sob proposta da sociedade concessionária do sistema e uma vez ouvidos os municípios integrantes do mesmo.
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 104/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2014-25345606), publicado em 2014-07-02.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.
 

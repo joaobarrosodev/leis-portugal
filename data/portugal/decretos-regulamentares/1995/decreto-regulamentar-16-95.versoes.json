@@ -1,0 +1,102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:528069:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b594dc2d4dd06ef",
+    "f8dc6cfda9e8c9d4"
+   ]
+  },
+  {
+   "date": "2007-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:636749:por",
+     "title": "Decreto-Lei n.º 267/2007",
+     "published": "2007-07-24",
+     "dre_path": "/dr/detalhe/decreto-lei/267-2007-636749"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "1eca424bf5b4141c",
+    "1b96c976e181b938",
+    "d47cd781f7570672",
+    "6c81d908a1f0c4d4",
+    "62f09222f47c1605",
+    "f8dc6cfda9e8c9d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b594dc2d4dd06ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio\n\nA evolução técnica e científica no campo da medicina levou a um maior e mais específico recurso à transfusão de sangue e seus componentes, de tal modo que a transfusão é hoje considerada como uma pedra angular da terapêutica moderna, contribuindo para uma diminuição da mortalidade e para o prolongamento da vida.\n\nApesar dos avanços terapêuticos, o sangue, dada a sua origem biológica, é por vezes um veículo de transmissão de doenças, embora se tenha verificado um significativo progresso na minimização dos riscos.\n\nAs inúmeras actividades que ocorrem desde o momento em que uma pessoa se oferece para dar sangue ou plasma e a administração daquele produto ou de um seu componente ao doente constituem a cadeia da transfusão de sangue.\n\nEsta cadeia tem por primeiro elo o dador, passa pela análise da dádiva, conclui-se pela administração correcta do produto sanguíneo ao receptor.\n\nFace à experiência entretanto desenvolvida na área da transfusão de sangue, considera-se conveniente aprovar um regulamento de arquivo da documentação relativa a esta área, de modo que seja possível reconstituir o trajecto de qualquer unidade de sangue do dador ao receptor, e vice-versa, garantindo assim, de forma acrescida, a segurança e a qualidade transfusional.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.\n\n2 - Para efeitos do disposto no número anterior, deve ser registada e conservada pelo prazo mínimo de 50 anos a partir da data da última actualização a documentação, referida no anexo a este diploma e que dele faz parte integrante, relativa à recolha e à administração de sangue em estabelecimentos de saúde públicos ou privados.\n\nArt. 2.º - 1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.\n\n2 - A violação do disposto no número anterior constitui ilícito disciplinar e civil.\n\nArt. 3.º A fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional.\n\nArt. 4.º - 1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º\n\n2 - No acto da eliminação será lavrado um auto, no qual deverá constar uma relação dos documentos objecto de destruição, devidamente identificados.\n\n3 - O auto de eliminação constitui prova jurídica do abate da documentação efectuado.\n\nPresidência do Conselho de Ministros, 6 de Março de 1995. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo.\n\nPromulgado em 4 de Maio de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Maio de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "f8dc6cfda9e8c9d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nI - Do dador e da unidade de sangue e ou componente colhida:\n\n1.1 - Identificação do dador, incluindo o número de dador.\n\n1.2 - Conclusão da história clínica com apto/suspenso/reprovado. Justificação dos motivos de reprovação ou suspensão. Período de duração da suspensão.\n\n1.3 - Impossibilidade de colheita em dador apto e respectivas causas.\n\n1.4 - Identificação da unidade colhida através do número de colheita e do número de dador que lhe deu origem.\n\n1.5 - Identificação de todos os componentes provenientes de unidade(s) de sangue identificada(s) nos termos do número anterior.\n\n1.6 - Identificação de componente obtido por aférese, com especificação do processo de obtenção.\n\n1.7 - Resultados das análises efectuadas a cada unidade de sangue ou componente de aférese, nos termos dos n.os 7 a 10 do Regulamento sobre a Transfusão de Sangue, aprovado pelo Despacho n.º 19/91, do Ministro da Saúde, publicado no Diário da República, 2.ª série, de 12 de Setembro de 1991.\n\n1.8 - Identificação, através da designação do nome do componente, número de dador e número de colheita, das unidades a inutilizar, respectivas causas e seu destino.\n\n1.9 - Identificação, por instituição e através da designação do nome do componente, número de dador e número de colheita, das unidades enviadas a outras instituições.\n\n1.10 - Identificação, por instituição e através da designação do nome do componente, número de dador e número de colheita, das unidades recebidas de outras instituições.\n\nII - Do receptor e da unidade de sangue e ou componente transfundida:\n\n1.11 - Pedido de transfusão com identificação do receptor e discriminação do nome do componente e número de unidades a transfundir.\n\n1.12 - Conformidade da identificação da amostra de sangue com a identificação do receptor no pedido de transfusão.\n\n1.13 - Resultado das provas pré-transfusionais, nos termos dos n.os 13 e 14 do Regulamento sobre a Transfusão de Sangue, aprovado pelo Despacho n.º 19/91, do Ministro da Saúde, publicado no Diário da República, 2.ª série, de 12 de Setembro de 1991.\n\n1.14 - Identificação do(s) componente(s) seleccionado(s) de acordo com o número anterior e enviado(s) para satisfação do pedido de transfusão.\n\n1.15 - Identificação, no processo clínico do receptor, da(s) unidade(s) aplicada(s).\n\n1.16 - Identificação da(s) unidade(s) devolvida(s)."
+  },
+  "1eca424bf5b4141c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Maio\n\nA evolução técnica e científica no campo da medicina levou a um maior e mais específico recurso à transfusão de sangue e seus componentes, de tal modo que a transfusão é hoje considerada como uma pedra angular da terapêutica moderna, contribuindo para uma diminuição da mortalidade e para o prolongamento da vida.\n\nApesar dos avanços terapêuticos, o sangue, dada a sua origem biológica, é por vezes um veículo de transmissão de doenças, embora se tenha verificado um significativo progresso na minimização dos riscos.\n\nAs inúmeras actividades que ocorrem desde o momento em que uma pessoa se oferece para dar sangue ou plasma e a administração daquele produto ou de um seu componente ao doente constituem a cadeia da transfusão de sangue.\n\nEsta cadeia tem por primeiro elo o dador, passa pela análise da dádiva, conclui-se pela administração correcta do produto sanguíneo ao receptor.\n\nFace à experiência entretanto desenvolvida na área da transfusão de sangue, considera-se conveniente aprovar um regulamento de arquivo da documentação relativa a esta área, de modo que seja possível reconstituir o trajecto de qualquer unidade de sangue do dador ao receptor, e vice-versa, garantindo assim, de forma acrescida, a segurança e a qualidade transfusional.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1b96c976e181b938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2007-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 267/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2007-636749), publicado em 2007-07-24."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O presente diploma aprova o regulamento arquivístico dos documentos relativos à transfusão de sangue.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 267/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2007-636749), publicado em 2007-07-24."
+  },
+  "d47cd781f7570672": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Toda a informação relativa à transfusão de sangue está sujeita a sigilo profissional.\n\n2 - A violação do disposto no número anterior constitui ilícito disciplinar e civil."
+  },
+  "6c81d908a1f0c4d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA fim de garantir a confidencialidade da identidade do dador e do receptor, a documentação referida no anexo só deve ser acessível a pessoal médico relacionado com a actividade transfusional."
+  },
+  "62f09222f47c1605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A eliminação dos documentos só pode ser feita por incineração ou maceração, após a prescrição dos respectivos prazos de conservação, nos termos do disposto no n.º 2 do artigo 1.º\n\n2 - No acto da eliminação será lavrado um auto, no qual deverá constar uma relação dos documentos objecto de destruição, devidamente identificados.\n\n3 - O auto de eliminação constitui prova jurídica do abate da documentação efectuado.\n\nPresidência do Conselho de Ministros, 6 de Março de 1995. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo.\n\nPromulgado em 4 de Maio de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Maio de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

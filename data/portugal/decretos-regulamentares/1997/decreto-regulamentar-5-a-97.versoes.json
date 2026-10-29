@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479666:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b6e4e8a403a0a1ef",
+    "fbbb0747939c07ea",
+    "b7929d0b9eb4310e",
+    "85104d9cc73d5eb4",
+    "92ea9c900dbe7bf4",
+    "c3440dcd9a314152",
+    "537a0c1434201e3b",
+    "5412fe223052bf12",
+    "4176f446c0e1a408",
+    "18c40706e6a581e6",
+    "a768577344f80d63",
+    "64ab0256c4c67762",
+    "230edffdc2db5fd6",
+    "1098c1cc6b1fc1b1",
+    "f04690c2784a2517",
+    "410ba035f5107827",
+    "15ede6a3592b9a7a",
+    "722c0d2f0667671e",
+    "7df7554c3ba6dce3",
+    "80a26c3b6d8af187",
+    "46344e19b3a11f90",
+    "9d5ab2fda4a59327"
+   ]
+  },
+  {
+   "date": "2015-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67198365:por",
+     "title": "Decreto-Lei n.º 78/2015",
+     "published": "2015-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2015-67198365"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "b6e4e8a403a0a1ef",
+    "fbbb0747939c07ea",
+    "b7929d0b9eb4310e",
+    "85104d9cc73d5eb4",
+    "92ea9c900dbe7bf4",
+    "eb3945e1f85b72e1",
+    "537a0c1434201e3b",
+    "5412fe223052bf12",
+    "5271c5328fbb98c2",
+    "3dfb39bfa01d35c3",
+    "a768577344f80d63",
+    "64ab0256c4c67762",
+    "230edffdc2db5fd6",
+    "1098c1cc6b1fc1b1",
+    "f04690c2784a2517",
+    "410ba035f5107827",
+    "15ede6a3592b9a7a",
+    "722c0d2f0667671e",
+    "7df7554c3ba6dce3",
+    "80a26c3b6d8af187",
+    "46344e19b3a11f90",
+    "9d5ab2fda4a59327"
+   ]
+  }
+ ],
+ "fragments": {
+  "b6e4e8a403a0a1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Abril\n\nA criação do Parque Natural de Montezinho pelo [Decreto-Lei n.º 355/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045), de 30 de Agosto, pretendeu salvaguardar valores únicos encontrados no seu território, resultantes quer da alternância de áreas relativamente humanizadas com espaços de elevada naturalidade e complexidade, quer do padrão de utilização do solo, que, associados às variações geomorfológicas, às variações climáticas e ao seu posicionamento geográfico, criaram condições para que possua, a nível nacional, um dos mais elevados índices de diversidade biológica.\n\nNo Parque Natural de Montezinho encontram-se populações e comunidades animais representativas da fauna ibérica e europeia ainda em relativa abundância e estabilidade, incluindo muitas das espécies ameaçadas da fauna portuguesa, bem como uma vegetação natural de grande importância a nível nacional e mesmo mundial. A reduzida pressão humana verificada em quase todo o seu território permite que grande parte dos processos ecológicos evoluam em padrões muito próximos dos naturais. Todos estes valores, exemplares em termos de conservação da Natureza, justificam a aplicação de medidas de protecção adequadas a uma zona que constitui património nacional e europeu.\n\nCom a publicação do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, que cria o novo quadro de classificação das áreas protegidas nacionais, impõe-se a reclassificação do Parque Natural de Montezinho segundo os critérios aí estabelecidos.\n\nForam ouvidas as Câmaras Municipais de Bragança e de Vinhais.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 13.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "fbbb0747939c07ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Reclassificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Reclassificação\n\nÉ reclassificado o Parque Natural de Montezinho, adiante denominado por Parque Natural."
+  },
+  "b7929d0b9eb4310e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - Os limites do Parque Natural são fixados no texto e na carta que constituem os anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - As dúvidas de interpretação suscitadas pela leitura da carta que constitui o anexo II ao presente diploma poderão ser resolvidas pela consulta do respectivo original, à escala de 1:25000, arquivado para o efeito na sede do Parque Natural."
+  },
+  "85104d9cc73d5eb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos específicos\n\nSem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, são objectivos específicos do Parque Natural:\n\na) Preservar as espécies animais e vegetais e os habitats naturais que apresentem características peculiares, quer pela sua raridade e valor científico, quer por se encontrarem em vias de extinção;\n\nb) Preservar os biótopos e as formações geológicas, geomorfológicas e espeleológicas notáveis;\n\nc) Preservar ou recuperar os habitats da fauna migratória;\n\nd) Preservar os locais que apresentem um interesse especial e relevante para a evolução natural dos processos ecológicos;\n\ne) Preservar e conservar o património natural e paisagístico de todos os impactes negativos que possam resultar directa ou indirectamente de actividades humanas;\n\nf) Promover um modelo de desenvolvimento sustentado, demonstrativo de uma estreita articulação entre a gestão e preservação do património natural e a valorização das manifestações humanas locais;\n\ng) Instituir a participação e o envolvimento activo da população local na prossecução dos objectivos do Parque Natural;\n\nh) Valorizar todas as manifestações peculiares da cultura local;\n\ni) Criar condições que propiciem o lazer e o recreio, numa perspectiva de sensibilização e educação ambiental."
+  },
+  "92ea9c900dbe7bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão\n\nO Parque Natural é gerido pelo Instituto da Conservação da Natureza, adiante designado por ICN."
+  },
+  "c3440dcd9a314152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) O conselho consultivo."
+  },
+  "537a0c1434201e3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissão directiva\n\n1 - A comissão directiva, composta por um presidente e dois vogais, é o órgão executivo do Parque Natural.\n\n2 - O presidente da comissão directiva é nomeado através de despacho do Ministro do Ambiente, sob proposta do presidente do ICN, do qual depende hierarquicamente.\n\n3 - Um dos vogais é nomeado pelo ICN e o outro pelas Câmaras Municipais de Bragança e Vinhais, as quais dispõem, para o efeito, de um prazo de 60 dias após a entrada em vigor do presente diploma.\n\n4 - Na falta de nomeação do vogal pelas Câmaras Municipais no prazo estipulado no número anterior, o mesmo é nomeado pelo membro do Governo responsável pela área do ordenamento do território e administração local.\n\n5 - O mandato dos titulares da comissão directiva é de três anos, renovável por igual período de tempo.\n\n6 - A comissão directiva reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente.\n\n7 - O presidente tem voto de qualidade.\n\n8 - É aditado ao quadro de pessoal dirigente do ICN, constante do anexo ao [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), de 24 de Maio, na redacção do [Decreto-Lei n.º 169/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1996-219475), de 18 de Setembro, um lugar de presidente da comissão directiva, equiparado a director de serviços, nos termos do n.º 1 do artigo 17.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "5412fe223052bf12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência da comissão directiva\n\n1 - Compete à comissão directiva, em geral, a administração dos interesses específicos do Parque Natural, executando as medidas contidas nos instrumentos de gestão e assegurando o cumprimento das normas legais e regulamentares em vigor.\n\n2 - Compete, em especial, ao presidente da comissão directiva:\n\na) Representar o Parque Natural;\n\nb) Dirigir os serviços e o pessoal com os quais o Parque Natural seja dotado;\n\nc) Submeter anualmente ao ICN um relatório sobre o estado do Parque Natural;\n\nd) Fiscalizar a conformidade do exercício de actividades no Parque Natural com as normas do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, do presente diploma e do plano de ordenamento e respectivo regulamento;\n\ne) Cobrar as receitas e autorizar as despesas para que seja competente.\n\n3 - Compete, em especial, à comissão directiva:\n\na) Preparar e executar planos e programas anuais e plurianuais de gestão e investimento, submetendo-os previamente a apreciação do conselho consultivo;\n\nb) Elaborar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência, submetendo-os previamente à apreciação do conselho consultivo;\n\nc) Decidir da elaboração periódica de relatórios científicos e culturais sobre o estado do Parque Natural;\n\nd) Autorizar actos ou actividades condicionados no Parque Natural, tendo em atenção o plano de ordenamento e o regulamento superior aprovados;\n\ne) Tomar as medidas administrativas de reposição previstas no [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro;\n\nf) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras acções realizadas em violação ao disposto no presente diploma e legislação complementar.\n\n4 - Das deliberações da comissão directiva cabe recurso hierárquico, nos termos gerais.\n\n5 - Da decisão decorrente do recurso referido no número anterior cabe recurso tutelar facultativo, com fundamento em ilegalidade ou inconveniência, para o Ministro do Ambiente, nos termos do artigo 177.º do Código do Procedimento Administrativo."
+  },
+  "4176f446c0e1a408": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:\n\na) Universidade de Trás-os-Montes e Alto Douro;\n\nb) Instituto Politécnico de Bragança;\n\nc) Direcção-Geral do Turismo;\n\nd) Director-geral de Hidráulica, Engenharia Rural e Ambiente;\n\ne) Instituto Português do Património Arquitectónico e Arqueológico;\n\nf) Comissão de Coordenação da Região do Norte;\n\ng) Direcção Regional de Agricultura de Trás-os-Montes;\n\nh) Direcção Regional do Ambiente e Recursos Naturais do Norte;\n\ni) Câmara Municipal de Bragança;\n\nj) Câmara Municipal de Vinhais;\n\nl) Juntas de freguesia da área do Parque Natural consideradas em conjunto e em sistema rotativo, com mandato de um ano;\n\nm) Associação de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural.\n\n2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.\n\n3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos membros."
+  },
+  "18c40706e6a581e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do conselho consultivo\n\nCompete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:\n\na) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;\n\nb) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;\n\nc) Apreciar os relatórios anuais e plurianuais de actividade, bem como o relatório anual de contas de gerência;\n\nd) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;\n\ne) Dar parecer sobre qualquer assunto com interesse para o Parque Natural."
+  },
+  "a768577344f80d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Interdições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interdições\n\nNa área do Parque Natural são interditos os seguintes actos e actividades:\n\na) A alteração à morfologia do solo pela modificação do coberto vegetal ripícola através do corte de vegetação arbórea e arbustiva, excepto para acções de limpeza;\n\nb) A alteração à morfologia do solo pela instalação ou ampliação de depósitos de ferro-velho, de sucata, de veículos, de areia ou de outros resíduos sólidos que causem impacte visual negativo ou poluam o solo, o ar ou a água, bem como pelo vazamento de lixos, detritos, entulhos ou sucatas fora dos locais para tal destinados;\n\nc) O lançamento de águas residuais ou de uso doméstico na água, no solo ou no subsolo, susceptíveis de causarem poluição;\n\nd) A colheita, captura, abate ou detenção de exemplares de quaisquer espécies vegetais ou animais sujeitos a medidas de protecção, incluindo a destruição de ninhos e a apanha de ovos, a perturbação ou a destruição dos seus habitats, com excepção das acções levadas a efeito pelo Parque Natural e das acções de âmbito científico devidamente autorizadas pelo mesmo;\n\ne) A introdução de espécies zoológicas e botânicas exóticas ou estranhas ao ambiente;\n\nf) A prática de actividades desportivas motorizadas fora das estradas, caminhos municipais, arrifes ou aceiros, susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, nomeadamente passeios e raids organizados de veículos todo o terreno;\n\ng) A realização de competições desportivas motorizadas susceptíveis de provocarem poluição ou ruído ou de deteriorarem os factores naturais da área, nomeadamente raids de veículos todo o terreno, motocross, motonáutica e motos de água e similares;\n\nh) O sobrevoo de aeronaves com motor abaixo de 1000 pés, salvo por razões de vigilância e combate a incêndios, operações de salvamento e trabalhos científicos autorizados pelo Parque Natural e ainda na área de servidão militar e aeronáutica do aeródromo de Bragança;\n\ni) A destruição ou delapidação dos bens culturais;\n\nj) A prática de campismo ou caravanismo fora dos locais para tal destinados;\n\nl) A realização de queimadas e a prática de foguear, durante a época oficial de incêndios, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos)."
+  },
+  "64ab0256c4c67762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Actos e actividades sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos e actividades sujeitos a autorização\n\nSem prejuízo dos restantes condicionalismos legais, ficam sujeitos a autorização prévia do Parque Natural os seguintes actos e actividades:\n\na) A realização de obras de construção civil, alteração do uso actual ou da morfologia do solo designadamente para edificações, instalações/ampliação de parques de campismo e caravanismo, equipamentos turísticos de lazer e recreio, explorações agro-pecuárias e agro-industriais, barragens, açudes, projectos de irrigação ou tratamento de águas residuais, estaleiros temporários ou permanentes, fora dos perímetros urbanos/espaços predominantemente urbanos, como tal definidos nos planos directores municipais;\n\nb) A alteração do uso actual dos terrenos para a implantação de unidades industriais em superfícies não contempladas nos planos directores municipais;\n\nc) A alteração do uso actual dos terrenos ou da morfologia do solo pela alteração de culturas ou pela afectação de novas áreas a actividades agro-silvo-pastoris e novos povoamentos florestais ou sua reconversão;\n\nd) A alteração do uso actual dos terrenos pelo estabelecimento de novas explorações de extracção de minerais e de inertes, incluindo a transmissão de licenças de exploração;\n\ne) A alteração à morfologia do solo, incluindo o enxugo ou a drenagem dos terrenos e a alteração da rede de drenagem natural;\n\nf) A alteração à morfologia do solo pela modificação do coberto vegetal através da realização de cortes rasos de povoamentos florestais ou pelo corte de vegetação arbórea ou arbustiva ripícola destinado a acções de limpeza e destruição das compartimentações existentes de sebes vivas, exceptuando-se as acções decorrentes do combate a incêndios;\n\ng) A alteração à morfologia do solo pelo depósito de entulho e de detritos em pedreiras desactivadas;\n\nh) A abertura de novas estradas, caminhos ou acessos, bem como o alargamento ou qualquer modificação das vias existentes, e obras de manutenção e conservação que impliquem a destruição significativa do coberto vegetal, salvo para as estradas nacionais, às quais se aplica o disposto no n.º 2 do artigo 15.º;\n\ni) A instalação de infra-estruturas eléctricas e telefónicas aéreas e subterrâneas, de telecomunicações, de gás natural, de saneamento básico e de aproveitamento de energias renováveis fora dos perímetros urbanos;\n\nj) A realização de queimadas e de fogos controlados e a prática de foguear, excepto nas áreas com infra-estruturas a isso destinadas ou para prevenção de fogos (contrafogos);\n\nl) A recolha de amostras geológicas e de espécies zoológicas e botânicas sujeitas a medidas de protecção, que, pela sua natureza, não decorrem da normal actividade agrícola;\n\nm) A prática de actividades desportivas susceptíveis de deteriorarem os factores naturais da área, nomeadamente alpinismo, escalada, montanhismo, rappel e slide;\n\nn) A prática de actividades desportivas motorizadas, incluindo a realização de passeios organizados;\n\no) A instalação, afixação, inscrição ou pintura mural de mensagens de publicidade ou propaganda, temporárias ou permanentes, de cariz comercial ou não, incluindo a colocação de meios amovíveis, fora do perímetro dos aglomerados urbanos, com excepção da sinalização específica do Parque Natural ou da respectiva câmara municipal;\n\np) A utilização de aparelhagem de amplificação sonora, excepto dentro dos limites urbanos, locais de festividade religiosa e recintos de feira;\n\nq) A venda ambulante de produtos de qualquer natureza, excepto dentro dos perímetros urbanos, locais de festividade religiosa e recintos de feira."
+  },
+  "230edffdc2db5fd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades previstos no artigo 10.º ou, sem as autorizações necessárias, no artigo 11.º\n\n2 - A punição e o processamento das contra-ordenações previstas no número anterior são feitos de acordo com os artigos 22.º e seguintes do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro."
+  },
+  "1098c1cc6b1fc1b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caça\n\nA prática de actividades venatórias no Parque Natural encontra-se regulamentada pela [Portaria n.º 1199/95](https://diariodarepublica.pt/dr/detalhe/portaria/1199-1995-574884), de 2 de Outubro."
+  },
+  "f04690c2784a2517": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\nAs funções de fiscalização, para efeitos do disposto no presente diploma e legislação complementar aplicável no Parque Natural, competem ao ICN, em colaboração com as autarquias locais e demais entidades competentes, nos termos da legislação em vigor."
+  },
+  "410ba035f5107827": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Plano de ordenamento e regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Plano de ordenamento e regulamento\n\n1 - O Parque Natural é dotado de um plano de ordenamento e respectivo regulamento, nos termos dos artigos 14.º e 15.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, a elaborar no prazo máximo de cinco anos.\n\n2 - Os instrumentos referidos no número anterior articularão com o plano rodoviário nacional a abertura, conservação e beneficiação de estradas nacionais."
+  },
+  "15ede6a3592b9a7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Autorização e pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Autorização e pareceres\n\n1 - Salvo disposição em contrário, as autorizações e pareceres emitidos pela comissão directiva do Parque Natural são sempre vinculativos e não dispensam outros pareceres, autorizações ou licenças que legalmente forem devidos.\n\n2 - Na falta de disposição especial aplicável, o prazo para a emissão das autorizações e pareceres pela comissão directiva do Parque Natural é de 60 dias.\n\n3 - As autorizações e pareceres emitidos pela comissão directiva do Parque Natural ao abrigo do presente diploma caducam decorridos dois anos sobre a data da sua emissão, salvo se nesse prazo as entidades competentes tiverem procedido ao respectivo licenciamento.\n\n4 - São nulas e de nenhum efeito as licenças municipais ou outras concedidas com violação do regime instituído neste diploma."
+  },
+  "722c0d2f0667671e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito de preferência\n\n1 - O ICN goza do direito de preferência nas alienações, a título oneroso, de quaisquer bens imóveis que se situem na área do Parque Natural.\n\n2 - O direito de preferência referido no número anterior tem o conteúdo e o alcance previstos no artigo 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e regula-se pelas normas do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro.\n\n3 - Os transmitentes devem efectuar a comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), podendo o titular do direito exercê-lo a todo o tempo, nos termos previstos no mesmo diploma."
+  },
+  "7df7554c3ba6dce3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nNos termos e por efeito do n.º 1 do artigo 32.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, deve considerar-se revogado o [Decreto-Lei n.º 355/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1979-370045), de 30 de Agosto."
+  },
+  "80a26c3b6d8af187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros, 6 de Fevereiro de 1997.\n\nAntónio Manuel de Carvalho Ferreira Vitorino - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 14 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "46344e19b3a11f90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Limites do Parque Natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Limites do Parque Natural\n\nO Parque Natural tem os seguintes limites:\n\nA norte: pela fronteira de Portugal-Espanha;\n\nA nascente: pela fronteira de Portugal-Espanha;\n\nA sul: da confluência do rio Maçãs com a ribeira de Caravela até à aldeia de Réfega, pela margem esquerda da ribeira de Caravela; daqui, pela margem esquerda da ribeira de Escuredo, para montante, até encontrar a estrada nacional n.º 308; pela estrada nacional n.º 308 até Gimonde; pela margem esquerda do rio Igrejas, até encontrar o caminho vicinal de Vale de Lamas-Gimonde; pelo caminho vicinal de Vale de Lamas-Gimonde, até Vale de Lamas; de Vale de Lamas, pelo caminho municipal n.º 1033, até ao cruzamento com a estrada nacional n.º 501; deste cruzamento, em linha recta, até ao vértice geodésico denominado «Atalaia», à cota de 710 m; do vértice geodésico Atalaia, em linha recta, em direcção ao moinho de água de Oleirinhos no rio Sabor; pela estrada nacional n.º 103-7 até encontrar a ribeira de Guilhade; pela margem esquerda da ribeira de Guilhade até Marnotos, seguindo depois pelo caminho vicinal para Vila Nova, até encontrar a estrada nacional n.º 308-3; daqui segue o caminho vicinal Vila Nova-Donai até Donai; de Donai, pela estrada municipal n.º 503, até ao cruzamento com o caminho municipal n.º 1054, seguindo este até Lagomar; de Lagomar a Grandais, pelo caminho vicinal; de Grandais, pela estrada nacional n.º 103, até entroncar no ribeiro do Cancelo, junto a Vinhais; segue depois ao longo do ribeiro do Cancelo para montante até à cota de 800 m, acompanhando esta cota na direcção de poente, até chegar à confluência com a ribeira de Ladrões; ao longo da margem direita da ribeira de Ladrões em direcção a jusante, até ao entroncamento com a estrada nacional n.º 103; ao longo da estrada nacional n.º 103 até Sobreiró de Cima, seguindo depois pela estrada nacional n.º 103-6 até Sandim; de Sandim pelo caminho que conduz às águas de Sandim, no leito do rio Mente;\n\nA ocidente: pelas águas do ribeiro de Sandim e para norte, pelo limite do distrito de Bragança-Vila Real, até encontrar a fronteira de Portugal-Espanha."
+  },
+  "9d5ab2fda4a59327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/079b01/00020007.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/079b01/00020007.pdf)"
+  },
+  "eb3945e1f85b72e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "5271c5328fbb98c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 8.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  },
+  "3dfb39bfa01d35c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências do conselho consultivo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+   ],
+   "markdown": "###### Artigo 9.º — Competências do conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13."
+  }
+ }
+}

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-10-17'
+version_history:
+  file: portaria-118-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-17'
+    amending: pt:dre:70508974:por
+    amending_title: Portaria n.º 346/2015
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/118/2014/06/03/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:35:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 346/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2014/portaria-118-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,9 +264,11 @@ Sem prejuízo de outras disposições legais aplicáveis, todas as pessoas singu
 
 5 - A menção «Superior» pode ser usada, como designativo de qualidade nos vinhos DO «Setúbal», quando os mesmos se destaquem pela sua qualidade em prova efetuada e com a idade mínima de 5 anos de campanha vitivinícola.
 
-6 - São permitidas, mediante controlo da entidade certificadora, as indicações «10 anos», «20 anos», «30 anos» e «40 anos», desde que os vinhos em causa tenham, no mínimo, as idades indicadas.
+6 - São permitidas, mediante controlo da entidade certificadora, as indicações '5 anos', '10 anos', '15 anos', '20 anos', '25 anos', '30 anos', '35 anos' e '40 anos', desde que os vinhos em causa tenham, no mínimo, as idades indicadas.
 
 7 - A comercialização dos vinhos com direito à DO «Setúbal» só pode ser efetuada após a sua certificação pela entidade certificadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346/2015](https://diariodarepublica.pt/dr/detalhe/portaria/346-2015-70508974), publicado em 2015-10-12.
 
 ###### Artigo 13.º — Circulação e documentação de acompanhamento
 

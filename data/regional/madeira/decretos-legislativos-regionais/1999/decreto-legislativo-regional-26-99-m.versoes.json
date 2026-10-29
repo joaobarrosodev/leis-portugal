@@ -1,0 +1,239 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:533784:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "381fee88fbdccff9",
+    "3d4be7b270649d63",
+    "bb10449fa8b58ea2",
+    "b7b1a5fc7aa82615",
+    "798df2fe8e5a1858",
+    "877d76058cd353d9",
+    "ee20d7f765eeccc4",
+    "0733cbd5f68fbbc9",
+    "bacc3fd3689100d1",
+    "affe46eca8e8e47e",
+    "2f1d5dd563fa42e7",
+    "56cc839ed73ac28b",
+    "f8fcc3c1c3372bea",
+    "8dfba3e99a4216a6",
+    "c59591708c68b70f",
+    "501b878322df7999",
+    "7fbe05a614e012e7"
+   ]
+  },
+  {
+   "date": "2004-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:526854:por",
+     "title": "Decreto Legislativo Regional n.º 15/2004/M",
+     "published": "2004-07-14",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2004-526854"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "381fee88fbdccff9",
+    "3d4be7b270649d63",
+    "bb10449fa8b58ea2",
+    "b7b1a5fc7aa82615",
+    "ccab34de8015d7cb",
+    "798df2fe8e5a1858",
+    "877d76058cd353d9",
+    "ee20d7f765eeccc4",
+    "0733cbd5f68fbbc9",
+    "bacc3fd3689100d1",
+    "976c7793ee22bcaa",
+    "484f8b1c59d588d8",
+    "56cc839ed73ac28b",
+    "f8fcc3c1c3372bea",
+    "8dfba3e99a4216a6",
+    "c59591708c68b70f",
+    "501b878322df7999",
+    "7fbe05a614e012e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "381fee88fbdccff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamenta a gestão de documentos na posse dos serviços dos órgãos de governo da Região Autónoma da Madeira e organismos sob sua tutela.\n\nA inexistência de um regime que permita a gestão da documentação existente e produzida a nível dos serviços dos órgãos de governo da Região Autónoma da Madeira tem vindo a gerar situações de difícil sustentação, quer por razões de excessiva acumulação de documentos nos arquivos, já sobrelotados, quer ainda, vista a inexistência de critérios definidores da selecção dos mesmos, pela manutenção, em situação de paridade, de documentação com muito diverso nível de interesse; de resto, sem a existência de um regime que o permita e preveja não é efectuada a eliminação de documentos; o resultado: arquivos que abarrotam em espaços que, por força do vazio regulamentar, não têm hipóteses de ser libertados para dispor da documentação que de facto é necessário conservar.\n\nProsseguindo na necessidade de criar normativos sobre a gestão de arquivos, tem o legislador a nível nacional aprovado regimes que procuram responder a estas questões, embora restem por aprovar os regulamentos que nesses diplomas se referem. Por essa razão, muitos serviços da administração central, directa e indirecta, continuam a manter as portarias que eram possibilitadas pelo [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro.\n\nOutros diplomas surgiram, preconizando, em vão, até ao presente, a aprovação de regulamentação sobre, designadamente, prazos de conservação de documentos, o último dos quais é o [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, diploma que fixa o regime geral dos arquivos e do património arquivístico. De acordo com o dito diploma legal, estabelece-se que venham a ser regulamentados os critérios de avaliação e de selecção, bem como os prazos de conservação e a forma de eliminação de documentos, regulamentação ainda inexistente.\n\nA recente constituição do Arquivo Regional da Madeira como órgão de gestão dos arquivos da Região Autónoma da Madeira, através do [Decreto Legislativo Regional n.º 9/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1998-524042), de 22 de Maio, contribui para tornar oportuna a aprovação de critérios para a gestão da documentação dos serviços que compõem esta administração regional autónoma.\n\nUrge, portanto, regulamentar o regime geral dos arquivos e do património arquivístico, na parte relativa ao sistema de gestão de documentos na posse dos serviços dos órgãos de governo da Região Autónoma da Madeira, assim como as formas de incorporação no arquivo definitivo público regional.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 227.º da Constituição da República, da alínea l) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e do n.º 2 do artigo 15.º e do artigo 16.º, ambos do [Decreto-Lei n.º 16/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1993-584777), de 23 de Janeiro, o seguinte:"
+  },
+  "3d4be7b270649d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma regulamenta os critérios para a gestão de documentos produzidos e recebidos pelos serviços que compõem os órgãos de governo da Região Autónoma da Madeira, no âmbito das suas atribuições e competências.\n\n2 - O regime que pelo presente diploma é aprovado aplica-se a todos os serviços referidos no número anterior, incluindo institutos públicos e fundos públicos personalizados."
+  },
+  "bb10449fa8b58ea2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Critérios para a gestão de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Critérios para a gestão de documentos\n\nA gestão de documentos far-se-á em obediência a critérios de avaliação e selecção dos mesmos, de acordo com os quais se estabelecerão prazos de conservação, formas de eliminação, bem como a indicação dos documentos a conservar permanentemente."
+  },
+  "b7b1a5fc7aa82615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Avaliação e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação e selecção\n\n1 - A avaliação dos documentos de arquivo respeita à determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os prazos de conservação em fase activa e semiactiva, a estabelecer nos termos dos artigos 5.º e 6.º do presente diploma.\n\n2 - Os prazos de conservação dos documentos são contados a partir da data em que os mesmos foram mandados arquivar e, na sua falta, da data final dos processos ou dos documentos integrados em colecção, dos registos ou da constituição dos dossiers.\n\n3 - Cabe ao Arquivo Regional da Madeira, adiante designado por órgão de gestão dos arquivos da Região, a determinação do destino final da documentação na posse de qualquer dos serviços referidos nas alíneas a) e c), ambas do n.º 1 do artigo 6.º do presente diploma, sob proposta do dirigente máximo desses mesmos serviços.\n\n4 - Compete aos dirigentes máximos dos serviços referidos nas alíneas a) e c), ambas do n.º 1 do artigo 6.º do presente diploma, definir, internamente, os prazos de conservação dos documentos em fase activa e semiactiva."
+  },
+  "798df2fe8e5a1858": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Documentos de conservação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Documentos de conservação permanente\n\nSão considerados de conservação permanente as séries ou subséries documentais que:\n\na) Contenham documentos relativos à criação e constituição, organização e regulamentação do organismo produtor, bem como à sua extinção;\n\nb) Reflictam o funcionamento do organismo, bem como a evolução das suas políticas e estratégias;\n\nc) Retractem as funções específicas do organismo;\n\nd) Retractem sumariamente os meios de que o organismo dispõe no cumprimento das suas funções;\n\ne) Permitam medir o impacte e eficácia das actividades desenvolvidas;\n\nf) Integrem documentos que garantam a protecção de direitos do organismo produtor, de outras entidades ou indivíduos;\n\ng) Incluam documentação relativa a casos de contencioso ou firmem jurisprudência;\n\nh) Sirvam ao controlo arquivístico;\n\ni) Contenham documentos referentes a factos particularmente relevantes da vida do organismo produtor;\n\nj) Contenham documentos de divulgação ou promoção do organismo;\n\nl) Veiculem informações relevantes sobre acontecimentos, movimentos ou tendências em história política, económica, social, cultural, religiosa ou científica."
+  },
+  "877d76058cd353d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de avaliação\n\n1 - O processo a que se refere o presente artigo inicia-se com a constituição de uma equipa de avaliação, a criar no âmbito do serviço interessado, a qual procederá:\n\na) Ao levantamento de toda a documentação existente no respectivo serviço, fazendo constar os dados recolhidos em documento apropriado, a fornecer pelo órgão de gestão dos arquivos da Região;\n\nb) À elaboração de projecto de regulamento que contenha a tabela de selecção de documentos, da qual conste, designadamente, a classificação da documentação, designação da série e subsérie documental, prazo de conservação em fase activa e semiactiva e indicação do destino final.\n\n2 - A equipa de avaliação referida no número anterior será constituída por despacho do membro do Governo Regional que superintende no serviço em causa, o qual deverá designar o coordenador da mesma.\n\n3 - A competência para emitir o despacho de constituição da equipa de avaliação referido no número anterior é exercida pelo Presidente da Assembleia Legislativa Regional no caso da documentação na posse deste órgão.\n\n4 - A equipa de avaliação poderá solicitar os elementos e esclarecimentos que entender necessários, designadamente ao órgão de gestão dos arquivos da Região, sendo-lhe garantido o acesso aos arquivos do serviço em causa."
+  },
+  "ee20d7f765eeccc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Tabelas de selecção de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tabelas de selecção de documentos\n\n1 - A avaliação, selecção e eliminação de documentos é realizada nos termos de tabelas a aprovar após parecer do órgão de gestão dos arquivos da Região, de acordo com o seguinte:\n\na) Por despacho do Presidente da Assembleia Legislativa Regional, sob proposta do respectivo secretário-geral, e de acordo com o projecto de regulamento elaborado pela equipa de avaliação, no caso da documentação na posse da Assembleia Legislativa Regional;\n\nb) Por portaria conjunta do membro do Governo Regional que superintende nos serviços e entidades envolvidos e do que tiver competência na área da cultura, sem prejuízo do disposto nas alíneas seguintes;\n\nc) As portarias conjuntas a que se refere o presente artigo serão relativas, designadamente, à documentação de cada gabinete de membros do Governo Regional, direcção regional, instituto público, fundo público ou serviço dotado de alguma forma de autonomia, qualquer que seja a sua denominação;\n\nd) Os dirigentes máximos dos serviços referidos na alínea anterior deverão propor ao respectivo membro do Governo Regional competente a tabela de selecção de documentos para os serviços que dirigem, de acordo com o projecto de regulamento elaborado pela equipa de avaliação, para efeitos de aprovação da portaria conjunta a que se refere a alínea b) do n.º 1 do presente artigo;\n\ne) No caso dos gabinetes de membros do Governo Regional, a tabela de selecção de documentos é aprovada nos termos definidos na alínea b) do n.º 1 do presente artigo, sob proposta do respectivo chefe de gabinete.\n\n2 - O parecer do órgão de gestão dos arquivos da Região referido neste artigo deverá ser emitido no prazo de 60 dias úteis a contar da recepção do respectivo pedido de parecer.\n\n3 - O parecer a que se refere este artigo tem carácter vinculativo quando se fundamente em exigências legais ou regulamentares aplicáveis e considerará, designadamente, os documentos de recolha de dados, bem como o projecto de tabela de selecção de documentos, elaborados pela equipa de avaliação, que para o efeito acompanharão o pedido de parecer.\n\n4 - A alteração dos regulamentos que contêm as tabelas de selecção de documentos está sujeita ao regime previsto no presente diploma para a aprovação dos mesmos, podendo, no entanto, prescindir-se da constituição da equipa de avaliação desde que a alteração respeite a simples ajustamentos de pormenor que não conflituem com o regime constante da tabela em vigor."
+  },
+  "0733cbd5f68fbbc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Arquivo intermédio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Arquivo intermédio\n\n1 - Por despacho do membro do Governo Regional de que dependam os serviços interessados ou do Presidente da Assembleia Legislativa Regional, no caso da documentação na posse deste organismo, e ouvido o órgão de gestão dos arquivos da Região, podem ser criados arquivos públicos intermédios, para onde serão remetidos os documentos que tenham reduzidas taxas de utilização nos serviços que os produziram ou receberam.\n\n2 - As remessas dos documentos do arquivo corrente para arquivo intermédio devem ser efectuadas de acordo com o estabelecido na respectiva tabela de selecção, findos os prazos de conservação em fase activa, ou de acordo com a periodicidade determinada pelo dirigente máximo dos serviços referidos nas alíneas a) e c), ambas do n.º 1 do artigo 6.º do presente diploma."
+  },
+  "bacc3fd3689100d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Arquivo definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Arquivo definitivo\n\n1 - Junto do órgão de gestão dos arquivos da Região funciona o arquivo definitivo público.\n\n2 - Os documentos cujo valor arquivístico justifique a sua conservação permanente, de acordo com a tabela de selecção que lhes seja aplicável, deverão ser remetidos para o arquivo definitivo após o cumprimento dos respectivos prazos de conservação.\n\n3 - As remessas referidas no número anterior não podem pôr em causa a integridade dos conjuntos documentais e deverão ser acompanhadas, sempre que possível, dos respectivos registos, índices e outros elementos de referência."
+  },
+  "affe46eca8e8e47e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Formalidades das remessas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formalidades das remessas\n\n1 - As remessas dos documentos mencionadas nos artigos 7.º e 8.º devem obedecer às seguintes formalidades:\n\na) Serem acompanhadas de um auto de entrega a título de prova;\n\nb) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;\n\nc) A guia de remessa será feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;\n\nd) O triplicado será provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.\n\n2 - Os documentos a que se referem as alíneas a) e b) do presente artigo serão de modelo a aprovar por portaria conjunta dos membros do Governo Regional com competência nas áreas da cultura e da Administração Pública."
+  },
+  "2f1d5dd563fa42e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Eliminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Eliminação\n\n1 - A eliminação dos documentos aos quais não seja reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.\n\n2 - A eliminação dos documentos que não estejam mencionados na respectiva tabela de selecção carece de autorização expressa do órgão de gestão dos arquivos da Região.\n\n3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos."
+  },
+  "56cc839ed73ac28b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Formalidades da eliminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formalidades da eliminação\n\n1 - A eliminação dos documentos mencionados no artigo 10.º deve obedecer às seguintes formalidades:\n\na) Ser acompanhada de um auto de eliminação, que fará prova do abate patrimonial;\n\nb) O auto de eliminação deve ser assinado pelo dirigente máximo do serviço em causa, bem como pelo responsável do arquivo;\n\nc) O referido auto será feito em duplicado, ficando o original no serviço que procede à eliminação, sendo o duplicado remetido para o órgão de gestão dos arquivos da Região.\n\n2 - O auto de eliminação referido no presente artigo obedecerá a modelo a aprovar por portaria conjunta dos membros do Governo Regional com competência nas áreas da cultura e da Administração Pública."
+  },
+  "f8fcc3c1c3372bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Substituição do suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Substituição do suporte\n\n1 - A substituição do suporte dos documentos obedece a critérios que garantam a sua preservação, segurança, autenticidade, durabilidade e consulta, de acordo com as normas técnicas e recomendações consagradas a nível internacional, designadamente pela International Standard Organization, abreviadamente designada por ISO.\n\n2 - Os documentos de conservação permanente devem ser mantidos no seu suporte original, excepto nos casos cuja substituição seja prévia e expressamente autorizada pelo órgão de gestão dos arquivos da Região, a quem competirá a definição dos seus pressupostos técnicos."
+  },
+  "8dfba3e99a4216a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Microfilmagem de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Microfilmagem de documentos\n\n1 - Os serviços abrangidos pelo presente diploma podem recorrer à microfilmagem dos seus documentos como forma de conservação da informação, a realizar em serviço da entidade interessada ou mediante recurso a entidade para tal habilitada, com observância dos critérios estabelecidos no artigo anterior.\n\n2 - O suporte fílmico a que alude o número anterior não poderá apresentar cortes, emendas ou quaisquer outras alterações que ponham em causa a sua integridade e reproduzirá os respectivos termos de abertura e de encerramento referidos no número seguinte.\n\n3 - Do termo de abertura constará obrigatoriamente a identificação dos responsáveis pela transferência da informação, local, data de execução da transferência e a natureza dos documentos microfilmados.\n\n4 - Do termo de encerramento constará a declaração de que as imagens constantes do microfilme são reproduções totais e exactas dos documentos originais, a assinatura do responsável pelo serviço de microfilmagem e o carimbo respectivo.\n\n5 - Deverá ser elaborado um registo e fichas de controlo de qualidade do suporte fílmico produzido.\n\n6 - As cópias obtidas a partir de microcópia autenticada têm a força probatória do original, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro."
+  },
+  "c59591708c68b70f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Outros mecanismos de substituição do suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Outros mecanismos de substituição do suporte\n\nO uso de outros meios técnicos de substituição do suporte de documentos para além da microfilmagem só poderá fazer-se desde que seja obtida para o efeito a autorização expressa do órgão de gestão dos arquivos da Região, fundamentada, designadamente, na capacidade do meio a empregar para cumprir com os requisitos estabelecidos no artigo 12.º do presente diploma."
+  },
+  "501b878322df7999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\nA fiscalização do cumprimento das normas constantes do presente diploma compete ao órgão de gestão dos arquivos da Região."
+  },
+  "7fbe05a614e012e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 21 de Julho de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 11 de Agosto de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "ccab34de8015d7cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º-A — Avaliação de documentação acumulada",
+   "in_force_from": "2004-07-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+   ],
+   "markdown": "###### Artigo 3.º-A — Avaliação de documentação acumulada\n\nCompete ao órgão de gestão dos arquivos da Região emitir parecer e definir os procedimentos e formalidades relativos a processos de avaliação de massas documentais acumuladas:\n\na) Produzidas por um organismo extinto;\n\nb) Provenientes de funções extintas em organismos e serviços que tenham sido sujeitos a uma ou sucessivas reestruturações;\n\nc) Cuja custódia seja transferida para um organismo não responsável pela produção das mesmas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+  },
+  "976c7793ee22bcaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Formalidades das remessas",
+   "in_force_from": "2004-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+   ],
+   "markdown": "###### Artigo 9.º — Formalidades das remessas\n\n1 - As remessas dos documentos mencionadas nos artigos 7.º e 8.º devem obedecer às seguintes formalidades:\n\na) Serem acompanhadas de um auto de entrega a título de prova;\n\nb) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;\n\nc) A guia de remessa será feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;\n\nd) O triplicado será provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.\n\n2 - Os documentos a que se referem as alíneas a) e b) do presente artigo serão de modelo a aprovar por portaria conjunta dos membros do Governo Regional com competência nas áreas da cultura e da Administração Pública.\n\n3 - A documentação a incorporar no arquivo definitivo público (Arquivo Regional da Madeira) deve cumprir ainda os requisitos de inventariação, desinfestação, higienização e acondicionamento estabelecidos pelo órgão de gestão regional de arquivos.\n\n4 - Os encargos de inventariação, higienização e transporte da documentação a incorporar no arquivo definitivo público serão da responsabilidade da instituição remetente, ficando os encargos relativos à desinfestação dos mesmos sob responsabilidade da referida entidade receptora.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+  },
+  "484f8b1c59d588d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Eliminação",
+   "in_force_from": "2004-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+   ],
+   "markdown": "###### Artigo 10.º — Eliminação\n\n1 - A eliminação dos documentos aos quais não seja reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.\n\n2 - A eliminação de documentos que não constem da respectiva tabela de selecção ou que não tenham sido abrangidos por processo de avaliação de documentação acumulada carece de parecer favorável do órgão de gestão dos arquivos da Região, desde que proposta pelas administrações produtoras.\n\n3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-526854), publicado em 2004-07-14."
+  }
+ }
+}

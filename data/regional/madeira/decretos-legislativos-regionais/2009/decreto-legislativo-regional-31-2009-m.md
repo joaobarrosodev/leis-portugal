@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-03-06'
+version_history:
+  file: decreto-legislativo-regional-31-2009-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-06'
+    amending: pt:dre:259270:por
+    amending_title: Decreto Legislativo Regional n.º 10/2013/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/31/2009/12/30/m/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    10/2013/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2009/decreto-legislativo-regional-31-2009-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,6 +228,18 @@ d) Definição do funcionamento dos mecanismos de monitorização e de auditoria
 
 2 - A elaboração do PRDAE é da responsabilidade do SRPC, IP-RAM, através do SEMER, sendo posteriormente submetido a aprovação do membro do Governo competente com a tutela da área da protecção civil, após ouvidas as entidades regionais que este entenda ser adequado consultar.
 
+3 - É obrigatória a instalação de equipamentos de DAE nos seguintes locais de acesso ao público:
+
+a) Estabelecimentos de comércio e conjuntos comerciais abrangidos pelas alíneas a) e c) do nº 1 do artigo 2º do Decreto-Lei nº 21/2009, de 19 de janeiro;
+
+b) Aeroportos e portos comerciais;
+
+c) Estações de camionagem com fluxo médio diário superior a 1500 passageiros;
+
+d) Recintos desportivos, de lazer e de recreio com lotação superior a 1000 pessoas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2013-259270), publicado em 2013-03-05.
+
 ### CAPÍTULO II — Meios humanos
 
 #### SECÇÃO I — Responsável médico
@@ -253,9 +282,11 @@ f) Avaliar cada acto de DAE mediante a verificação da documentação relativa 
 
 ###### Artigo 10.º — Vigência e revogação do certificado
 
-1 - O certificado vigora por três anos, dependendo a sua renovação de um curso de verificação do cumprimento dos requisitos de que depende a obtenção do certificado.
+1 - O certificado vigora por cinco anos, dependendo a sua renovação de um curso de verificação do cumprimento dos requisitos necessários à sua obtenção, nos termos do nº 2 do artigo 9º.
 
 2 - O certificado pode ser revogado pelo SRPC, IP-RAM em caso de incumprimento, pelo seu titular, das normas definidas no presente decreto legislativo regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2013-259270), publicado em 2013-03-05.
 
 ###### Artigo 11.º — Âmbito da prática de actos de desfibrilhação automática externa
 
@@ -425,7 +456,7 @@ A entidade licenciada deve afixar, em lugar visível aos frequentadores ou utili
 
 ### CAPÍTULO V — Regime sancionatório
 
-###### Artigo 24.º — Contra-ordenações
+###### Artigo 24.º — Contraordenações
 
 1 - Sem prejuízo de eventual responsabilidade criminal, nos termos gerais, constitui contra-ordenação punível com coima de (euro) 500 a (euro) 3740 ou de (euro) 5000 a (euro) 44 500, consoante se trate de pessoa singular ou colectiva, a prática dos seguintes actos:
 
@@ -441,7 +472,11 @@ e) Falta de envio dos documentos e registos referidos nos artigos 22.º e 23.º;
 
 f) Recusa de colaboração com acções de fiscalização ou prática de actos que ilegitimamente impeçam ou dificultem a sua realização.
 
+g) Incumprimento da obrigação de instalação de equipamentos de DAE nos locais referidos no nº 3 do artigo 5º.
+
 2 - A tentativa e a negligência são puníveis, sendo os limites mínimos e máximos da coima reduzidos a metade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2013-259270), publicado em 2013-03-05.
 
 ###### Artigo 25.º — Sanções acessórias
 

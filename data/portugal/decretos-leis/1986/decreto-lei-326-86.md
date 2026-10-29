@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-03-05'
+version_history:
+  file: decreto-lei-326-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-05'
+    amending: pt:dre:518864:por
+    amending_title: Decreto-Lei n.º 50/2007
+    changes:
+    - Altera Artigo 3.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:14:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 50/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-326-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +150,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os exames médico-legais do foro psiquiátrico a que houver de proceder-se nos termos da lei do processo penal deverão ser solicitados ao instituto de medicina legal da circunscrição médico-legal respectiva, que os distribuirá pelos diversos serviços, aos quais cabe, de acordo com a legislação em vigor, a realização destes exames.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Sem prejuízo do disposto na legislação em vigor, as entidades requisitantes de exames periciais de psiquiatria forense deverão:
+Os exames médico-legais do foro psiquiátrico a que houver de proceder-se nos termos da lei do processo penal deverão ser solicitados ao instituto de medicina legal da circunscrição médico-legal respectiva, que os distribuirá pelos diversos serviços, aos quais cabe, de acordo com a legislação em vigor, a realização destes exames.
+
+###### Artigo 2.º
+
+1 - Sem prejuízo do disposto na legislação em vigor, as entidades requisitantes de exames periciais de psiquiatria forense deverão:
 
 a) Fazer constar do pedido dirigido ao instituto de medicina legal competente a requisição formal da realização do exame pericial;
 
@@ -150,7 +170,9 @@ e) Remeter à instituição psiquiátrica à qual foi distribuído o pedido do e
 
 2 - As autoridades requisitantes e os institutos de medicina legal poderão, quando o julguem conveniente, contactar directamente o perito ou peritos designados, bem como a respectiva instituição psiquiátrica a cujo quadro aquele ou aqueles pertençam.
 
-Art. 3.º - 1 - Aos institutos de medicina legal cabe, no âmbito da competência prevista no presente decreto-lei:
+###### Artigo 3.º
+
+1 - Aos institutos de medicina legal cabe, no âmbito da competência prevista no presente decreto-lei:
 
 a) Manter actualizado o mapa dos efectivos relativamente aos especialistas de psiquiatria das instituições psiquiátricas da respectiva circunscrição médico-legal;
 
@@ -160,11 +182,17 @@ c) Receber e arquivar cópia dos relatórios periciais com a identificação pes
 
 d) Elaborar a estatística anual dos exames realizados pelas instituições psiquiátricas da respectiva circunscrição.
 
-2 - O critério distributivo dos exames periciais a ponderar no que se refere à alínea b) do número anterior é o de seis exames por perito/ano.
+2 - Sem prejuízo da distribuição equitativa dos exames prevista na alínea b) do número anterior, devem ser consideradas prioritárias as perícias que envolvem cidadãos internados em cumprimento de medidas de segurança ou de outras medidas privativas da liberdade.
 
-3 - O critério constante do número anterior deve entender-se sem prejuízo do consignado na lei relativamente ao dever geral de colaboração com a justiça e salvaguarda, igualmente, da autonomia interna de cada instituição psiquiátrica.
+3 - (Revogado.)
 
-Art. 4.º - 1 - Compete às instituições psiquiátricas:
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 50/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2007-518864), publicado em 2007-02-28.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2007-518864), publicado em 2007-02-28.
+
+###### Artigo 4.º
+
+1 - Compete às instituições psiquiátricas:
 
 a) Remeter ao instituto de medicina legal da respectiva circunscrição, até 15 de Novembro de cada ano, o quadro ou mapa actualizado dos psiquiatras que nelas prestam serviço para vigorar no ano imediato, sem prejuízo de um eventual ajustamento ulterior, caso se venha a verificar, entretanto, alteração dos mesmos;
 
@@ -180,9 +208,13 @@ d) Remeter o relatório do exame pericial, dentro dos prazos fixados na lei, à 
 
 4 - O perito ou peritos a quem o exame se encontrar distribuído providenciarão no sentido de informar no prazo previsto a entidade requisitante de qualquer dificuldade relacionada com a realização dos exames solicitados.
 
-Art. 5.º A repartição dos custos decorrentes da realização dos exames periciais a que se refere o presente decreto-lei deverá ser objecto de regulamentação conjunta entre os Ministérios da Justiça, da Educação e Cultura e da Saúde, visando a sua distribuição equitativa.
+###### Artigo 5.º
 
-Art. 6.º Durante o corrente ano caberá à Direcção dos Serviços de Saúde Mental, da Direcção-Geral dos Cuidados de Saúde Primários, do Ministério da Saúde, facultar aos institutos de medicina legal o quadro ou mapa dos psiquiatras afectos às instituições psiquiátricas da respectiva circunscrição médico-legal e demais elementos indispensáveis ao cabal desempenho das funções de coordenação decorrentes do presente decreto-lei.
+A repartição dos custos decorrentes da realização dos exames periciais a que se refere o presente decreto-lei deverá ser objecto de regulamentação conjunta entre os Ministérios da Justiça, da Educação e Cultura e da Saúde, visando a sua distribuição equitativa.
+
+###### Artigo 6.º
+
+Durante o corrente ano caberá à Direcção dos Serviços de Saúde Mental, da Direcção-Geral dos Cuidados de Saúde Primários, do Ministério da Saúde, facultar aos institutos de medicina legal o quadro ou mapa dos psiquiatras afectos às instituições psiquiátricas da respectiva circunscrição médico-legal e demais elementos indispensáveis ao cabal desempenho das funções de coordenação decorrentes do presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo - João de Deus Rogado Salvador Pinheiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 

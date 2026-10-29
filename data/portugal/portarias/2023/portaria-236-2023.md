@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-08-26'
+version_history:
+  file: portaria-236-2023.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2023-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-08-26'
+    amending: pt:dre:1161801441:por
+    amending_title: Portaria n.º 384/2026/1
+    changes:
+    - Altera Artigo 13.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/236/2023/07/27/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:59:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 384/2026/1. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2023/portaria-236-2023.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -228,7 +244,9 @@ Os beneficiários do apoio previsto na presente portaria devem cumprir as seguin
 
 a) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;
 
-b) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, bem como todos os originais dos documentos comprovativos da realização das operações em causa, durante cinco anos após a execução da candidatura aprovada, exceto se outro prazo se encontrar fixado em lei especial.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25.
 
 ###### Artigo 6.º — Entidades competentes
 
@@ -312,15 +330,19 @@ b) Álcool bruto obtido de vinho e de borras de vinho: (euro) 0,5/% vol./hl.
 
 ###### Artigo 13.º — Reduções e exclusões
 
-1 - O incumprimento de qualquer obrigação prevista na presente portaria determina o não pagamento do apoio ou a recuperação do montante pago no âmbito da correspondente intervenção.
+1 - Em caso de incumprimento ou de qualquer irregularidade detetada são aplicáveis as disposições nacionais em conjugação com o previsto no título iv do Regulamento (UE) 2021/2116.
 
-2 - Quando o IFAP, I. P., após análise dos pedidos de pagamento e estabelecimento dos montantes elegíveis para apoio, verifique um desvio entre o apoio pedido e o apoio apurado, é aplicável o seguinte:
+2 - Para efeitos de aplicação do número anterior, e sem prejuízo das regras estabelecidas no regulamento anexo à Portaria n.º 54-L/2023, de 27 de fevereiro, o incumprimento das obrigações previstas nas alíneas a) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, determina a exclusão dos pagamentos do apoio realizados ou a realizar, das ações relativamente às quais se verificou o incumprimento.
 
-a) Caso o desvio seja inferior a 5 %, o pagamento é efetuado na totalidade do apoio apurado;
+3 - Quando o IFAP, I. P., após análise do pedido de pagamento, verifique um desvio entre o montante do apoio solicitado e o montante do apoio apurado, é aplicável o seguinte:
 
-b) Caso o desvio se situe entre 5 % e 30 %, inclusivamente, é aplicada uma redução no apoio apurado de valor igual à diferença detetada;
+a) Caso o desvio seja inferior a 10 % o pagamento é efetuado na totalidade do montante do apoio apurado;
 
-c) Caso o desvio seja superior a 30 %, não há lugar a qualquer pagamento.
+b) Caso o desvio seja igual ou superior a 10 % e até 50 % inclusivamente, é aplicada uma redução no montante do apoio apurado, de valor igual à diferença detetada;
+
+c) Caso o desvio seja superior a 50 % não há lugar a qualquer pagamento.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 384/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), publicado em 2026-08-25.
 
 ###### Artigo 14.º — Contributo para o desempenho do PEPAC Portugal
 

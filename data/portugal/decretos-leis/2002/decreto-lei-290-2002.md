@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-25'
+version_history:
+  file: decreto-lei-290-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-25'
+    amending: pt:dre:692434:por
+    amending_title: Decreto-Lei n.º 126/2003
+    changes:
+    - Altera Artigo ANEXO — ESTATUTOS::4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/290/2002/12/10/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-290-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -348,7 +363,7 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 
 ###### Artigo 4.º — Capital social e acções
 
-1 - O capital social inicial é de (euro) 9980000 e encontra-se integralmente subscrito e realizado.
+1 - O capital social inicial é de (euro) 29930000 e encontra-se integralmente subscrito e realizado.
 
 2 - O capital é representado por 2993 acções, com o valor nominal de (euro) 10000 cada uma.
 
@@ -363,6 +378,8 @@ A sociedade adopta a forma de sociedade anónima de capitais exclusivamente púb
 7 - O direito de preferência referido no número anterior deve ser exercido no prazo de 15 dias úteis a contar da notificação, por carta registada com aviso de recepção, que para o efeito deve ser enviada pelo accionista alienante.
 
 8 - A falta de exercício do direito de preferência no prazo fixado confere ao accionista alienante o direito de transmitir livremente as acções, sem prejuízo do disposto no n.º 4 do presente artigo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434), publicado em 2003-06-24.
 
 ###### Artigo 5.º — Órgãos
 

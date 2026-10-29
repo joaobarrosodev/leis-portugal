@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-05'
+version_history:
+  file: decreto-legislativo-regional-2-2014-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-05'
+    amending: pt:dre:25345659:por
+    amending_title: Decreto Legislativo Regional n.º 11/2014/A
+    changes:
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/2/2014/01/29/a/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    11/2014/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2014/decreto-legislativo-regional-2-2014-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -518,11 +533,13 @@ Fica o Governo Regional autorizado a alienar as participações sociais que a Re
 
 ###### Artigo 15.º — Limite máximo para a concessão de garantias pela Região
 
-1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 135 000 000.
+1 - O limite máximo para a autorização da concessão de garantias pela Região em 2014 é fixado em (euro) 220 000 000.
 
 2 - Acresce ao número anterior o montante de (euro) 50 000 000, que se destina a um contrato de financiamento do Banco Europeu de Investimento à EDA - Empresa de Eletricidade dos Açores, S.A., operação da qual a Região Autónoma dos Açores será co-garante com o Governo da República.
 
 3 - O aval da Região Autónoma dos Açores poderá ser concedido para garantir operações de refinanciamento desde que não impliquem um aumento do endividamento líquido, com observância do limite fixado no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2014-25345659), publicado em 2014-07-04.
 
 ###### Artigo 16.º — Garantias de empréstimos
 

@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-17'
+version_history:
+  file: decreto-lei-49319.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-17'
+    amending: pt:dre:356559:por
+    amending_title: Decreto-Lei n.º 271/99
+    changes:
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:11:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 271/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49319.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,25 +151,31 @@ Outras mais auto-estradas ou troços de auto-estradas se impõem ou virão a imp
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da construção, conservação e exploração de auto-estradas ou seus troços, para cumprimento dos programas de auto-estradas aprovadas pelo Conselho de Ministros.
+###### Artigo 1.º
 
-Art. 2.º Cabe ao Conselho de Ministros adjudicar em cada caso a concessão, cuja outorga será feita por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e das Comunicações, tendo anexo o respectivo caderno de encargos.
+Fica autorizado o Ministério das Obras Públicas a abrir concurso público para a concessão da construção, conservação e exploração de auto-estradas ou seus troços, para cumprimento dos programas de auto-estradas aprovadas pelo Conselho de Ministros.
 
-Art. 3.º As concessões darão às entidades concessionárias o direito de perceber dos utentes das auto-estradas ou dos troços das auto-estradas a que se refiram a taxa de portagem fixada no decreto de ourtoga da concessão.
+###### Artigo 2.º
 
-Art. 4.º O Estado poderá, quando as circunstâncias o aconselhem, participar no capital das entidades concessionárias directamente ou por intermédio das suas instituições de crédito.
+Cabe ao Conselho de Ministros adjudicar em cada caso a concessão, cuja outorga será feita por decreto referendado pelos Ministros da Justiça, das Finanças, das Obras Públicas e das Comunicações, tendo anexo o respectivo caderno de encargos.
 
-Art. 5.º - 1. O Estado garantirá às entidades concessionárias, pelo exercício da concessão, os seguintes benefícios:
+###### Artigo 3.º
 
-a) Insenção das taxas de licença;
+As concessões darão às entidades concessionárias o direito de perceber dos utentes das auto-estradas ou dos troços das auto-estradas a que se refiram a taxa de portagem fixada no decreto de ourtoga da concessão.
 
-b) Insenção de impostos, de contribuições e de outros encargos fiscais;
+###### Artigo 4.º
 
-c) Insenção de direitos de importação para as máquinas a utilizar na construção e na conservação das auto-estradas, mediante informação favorável da Junta Autónoma de Estradas, nos termos do artigo 169.º do Estatuto das Estradas Nacionais, aprovado pela lei n.º 2037, de 19 de Agosto de 1949.
+O Estado poderá, quando as circunstâncias o aconselhem, participar no capital das entidades concessionárias directamente ou por intermédio das suas instituições de crédito.
 
-2. A insenção a que se refere a alínea c) do número anterior será também concedida aos empreiteiros dos concessionários, que como tais forem reconhecidos pelo Ministério das Obras Públicas.
+###### Artigo 5.º
 
-Art. 6.º - 1. Serão consideradas de utilidade pública as expropriações necessárias à construção das auto-estradas a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Obras Públicas.
+(Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1999-356559), publicado em 1999-07-16.
+
+###### Artigo 6.º
+
+1. Serão consideradas de utilidade pública as expropriações necessárias à construção das auto-estradas a que se refere o presente diploma, em conformidade com os planos gerais e as plantas parcelares aprovados pelo Ministro das Obras Públicas.
 
 2. É aplicável às expropriações para os fins previstos no presente diploma o regime definido na [Lei n.º 2142](https://diariodarepublica.pt/dr/detalhe/lei/2142-1969-201462), de 14 de Maio de 1969.
 

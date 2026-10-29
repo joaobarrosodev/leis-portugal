@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-10-18'
+version_history:
+  file: portaria-130-a-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-10-18'
+    amending: pt:dre:644163:por
+    amending_title: Portaria n.º 1111-A/2006
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À MODERNIZAÇÃO EMPRESARIAL (SIME)::12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/130-a/2006/02/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:11:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1111-A/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-130-a-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -429,7 +444,7 @@ c) Inclusão do empréstimo bancário afecto ao financiamento do projecto numa o
 
 2 - Para além do cumprimento das condições de elegibilidade e de selecção do SIME estabelecidas no presente diploma, os projectos do regime especial deverão observar adicionalmente as seguintes condições:
 
-a) Corresponder à definição de grandes projectos de investimento constante da alínea a) do n.º 2 do artigo 1.º do Decreto-Lei n.º 203/2003, de 10 de Setembro;
+a) Corresponder à definição de grandes projectos de investimento constante das alíneas a) e b) do n.º 2 do artigo 1.º do Decreto-Lei n.º 203/2003, de 10 de Setembro;
 
 b) Serem positivamente avaliados pelos seguintes critérios de selecção adicionais: contributo do projecto para a inovação tecnológica ou protecção do ambiente, efeito de arrastamento em actividades a montante e a jusante, principalmente nas PME, interacção com entidades do sistema científico e tecnológico nacional, criação e qualificação de emprego, impacte no desenvolvimento da região de implantação e interesse estratégico para a economia portuguesa.
 
@@ -438,6 +453,8 @@ b) Serem positivamente avaliados pelos seguintes critérios de selecção adicio
 4 - Para efeitos do referido no n.º 2 do artigo 4.º do referido Decreto-Lei n.º 203/2003, de 10 de Setembro, deverá ser obtida a pré-vinculação do gestor do PRIME quanto ao incentivo a conceder ao projecto.
 
 5 - Por despacho do Ministro da Economia e da Inovação, pode o processo geral de decisão do SIME no âmbito do regime especial ser adaptado, casuisticamente, por forma a contemplar as respectivas especificidades.
+
+> Alterado pelo/a [Portaria n.º 1111-A/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1111-a-2006-644163), publicado em 2006-10-17.
 
 ###### Artigo 13.º — Limites do incentivo
 

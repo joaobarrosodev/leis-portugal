@@ -1,0 +1,866 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:315915:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "285a8b22e81916d7",
+    "53d937bff63db4d2",
+    "2fc91b95e62ba225",
+    "da93dd76a3a2757d",
+    "286f278b5b5ef528",
+    "7df37cb3ede5a48d",
+    "fa1a4d41f4682c28",
+    "e872a25c0d8a7ea8",
+    "481bba2b4c651e8f",
+    "44de1eabeb38e16b",
+    "f60894555d63dd75",
+    "538c069e5528504e",
+    "8c49ade728bf52a6",
+    "32a1f15832ffc3b2",
+    "ca95854c34c2d159",
+    "4cc3a26d715e0636",
+    "1663674fa71a649b",
+    "daded16c73eb3baa",
+    "2f5ff33269f5ab50",
+    "b5330ac954bd74a2",
+    "e2239e9eea2476b3",
+    "af984b8831873c1a",
+    "3a79291b681d6743",
+    "cfd019724a8e537c",
+    "146027882b10e74d",
+    "e86c838a0863835b",
+    "d73d0919ef8ea602",
+    "33510c1a250825ba",
+    "c590f8b45f16c622",
+    "99232f561a990ca0",
+    "bf4a3edfa2b5a65d",
+    "dc32eb009f3d2d22",
+    "2e91b9372d24ebb0",
+    "a74933b443046a94",
+    "7ecea977af977906",
+    "fdf621707e3249ea",
+    "686a50de8257b2d1",
+    "9c513186e12c0528",
+    "d7425c03f81b6e60",
+    "b4c5c6d9b3acddbc",
+    "07a6ba045f44f478",
+    "7f3dc500dc369525",
+    "d20e5ebe835ca857",
+    "ca780fb4a2d16cdf",
+    "2240679378053cc5",
+    "311977eec9fde8ad",
+    "520e964046bbdd05",
+    "208920b88a09c767",
+    "45bca5943f3dcda2",
+    "dfe632e2d268c6e8",
+    "fbcfbc523e14c1ce",
+    "ecece375654741d6",
+    "36558c8f6ccc8ffe",
+    "40ea68f3d55c3760",
+    "e26ffe9386ed7a40",
+    "b8c1d954091a5544",
+    "5dc8769acaf59ab5",
+    "4ab40d1be8e5b9d8",
+    "54e9df274388851d",
+    "e53ffac3e39c86fd",
+    "692c6e277d733aae",
+    "60120179d6c28dac",
+    "98dbd9489d0b75c0",
+    "560a1bf194a00531",
+    "97393adff7bc54de",
+    "aa1b4b94d2ae9cac",
+    "e67574452383511e",
+    "0f87452c9c38ae11",
+    "0e6ee403e4d444cd",
+    "f4646a0716a9fab8",
+    "78021d77b9ecbdc3",
+    "2e14fcb259e9fd3f",
+    "672bca4f664985d1",
+    "376c1db38e1e72ed",
+    "8032bce203543aad",
+    "96b4e8eaccfe08f8",
+    "51769c018d2b9892",
+    "1fb13855e509320c",
+    "5b6151a22bdd0d59",
+    "21e84fcd34d882b0",
+    "0b346a2ec2b2d31a",
+    "430fe975f32a3e92"
+   ]
+  },
+  {
+   "date": "2006-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286682:por",
+     "title": "Portaria n.º 478/2006",
+     "published": "2006-05-26",
+     "dre_path": "/dr/detalhe/portaria/478-2006-286682"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::11.º"
+   ],
+   "fragments": [
+    "285a8b22e81916d7",
+    "53d937bff63db4d2",
+    "2fc91b95e62ba225",
+    "da93dd76a3a2757d",
+    "286f278b5b5ef528",
+    "7df37cb3ede5a48d",
+    "fa1a4d41f4682c28",
+    "e872a25c0d8a7ea8",
+    "481bba2b4c651e8f",
+    "44de1eabeb38e16b",
+    "f60894555d63dd75",
+    "538c069e5528504e",
+    "8c49ade728bf52a6",
+    "32a1f15832ffc3b2",
+    "ca95854c34c2d159",
+    "4cc3a26d715e0636",
+    "1663674fa71a649b",
+    "c5504e9da13a3214",
+    "2f5ff33269f5ab50",
+    "b5330ac954bd74a2",
+    "e2239e9eea2476b3",
+    "af984b8831873c1a",
+    "3a79291b681d6743",
+    "cfd019724a8e537c",
+    "146027882b10e74d",
+    "e86c838a0863835b",
+    "d73d0919ef8ea602",
+    "33510c1a250825ba",
+    "c590f8b45f16c622",
+    "99232f561a990ca0",
+    "bf4a3edfa2b5a65d",
+    "dc32eb009f3d2d22",
+    "2e91b9372d24ebb0",
+    "a74933b443046a94",
+    "7ecea977af977906",
+    "fdf621707e3249ea",
+    "686a50de8257b2d1",
+    "9c513186e12c0528",
+    "d7425c03f81b6e60",
+    "b4c5c6d9b3acddbc",
+    "07a6ba045f44f478",
+    "7f3dc500dc369525",
+    "d20e5ebe835ca857",
+    "ca780fb4a2d16cdf",
+    "2240679378053cc5",
+    "311977eec9fde8ad",
+    "520e964046bbdd05",
+    "208920b88a09c767",
+    "45bca5943f3dcda2",
+    "dfe632e2d268c6e8",
+    "fbcfbc523e14c1ce",
+    "ecece375654741d6",
+    "36558c8f6ccc8ffe",
+    "40ea68f3d55c3760",
+    "e26ffe9386ed7a40",
+    "b8c1d954091a5544",
+    "5dc8769acaf59ab5",
+    "4ab40d1be8e5b9d8",
+    "54e9df274388851d",
+    "e53ffac3e39c86fd",
+    "692c6e277d733aae",
+    "60120179d6c28dac",
+    "98dbd9489d0b75c0",
+    "560a1bf194a00531",
+    "97393adff7bc54de",
+    "aa1b4b94d2ae9cac",
+    "e67574452383511e",
+    "0f87452c9c38ae11",
+    "0e6ee403e4d444cd",
+    "f4646a0716a9fab8",
+    "78021d77b9ecbdc3",
+    "2e14fcb259e9fd3f",
+    "672bca4f664985d1",
+    "376c1db38e1e72ed",
+    "8032bce203543aad",
+    "96b4e8eaccfe08f8",
+    "51769c018d2b9892",
+    "1fb13855e509320c",
+    "5b6151a22bdd0d59",
+    "21e84fcd34d882b0",
+    "0b346a2ec2b2d31a",
+    "430fe975f32a3e92"
+   ]
+  }
+ ],
+ "fragments": {
+  "285a8b22e81916d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Maio\n\nO Decreto-Lei n.º 70-B/2000, de 5 de Maio, aprovou o enquadramento para a criação de um conjunto de medidas de política de acção económica a médio prazo com vista ao desenvolvimento estratégico para os diversos sectores de actividade da economia portuguesa, através de apoios directos e indirectos às empresas e demais agentes económicos, para o período de 2000 a 2006.\n\nDe entre os eixos de actuação definidos no citado diploma inscreve-se o referente à promoção de áreas estratégicas para o desenvolvimento económico no qual, e no âmbito do fomento de novos espaços de desenvolvimento, se insere, entre outros, o fomento de projectos integrados turísticos de natureza estruturante de base regional.\n\nImporta, pois, proceder à regulamentação específica do sistema de incentivos que terá por objectivo enquadrar a qualificação de programas integrados turísticos de natureza estruturante e base regional, bem como regulamentar o acesso aos apoios financeiros aos projectos integrados naqueles programas.\n\nAssim, ao abrigo do artigo 20.º e nos termos da alínea d) do artigo 6.º, ambos do Decreto-Lei n.º 70-B/2000, de 5 de Maio:\n\nManda o Governo, pelos Ministros das Finanças, da Economia e do Planeamento, que seja criado o regime dos programas integrados turísticos de natureza estruturante e base regional, abreviadamente designado PITER, bem como o sistema de incentivos associado ao PITER, cujo Regulamento, que igualmente é aprovado, consta do anexo ao presente diploma, de que é parte integrante.\n\nEm 2 de Abril de 2001.\n\nO Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira."
+  },
+  "53d937bff63db4d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE EXECUÇÃO DA MEDIDA DE APOIO AOS PROGRAMAS INTEGRADOS TURÍSTICOS DE NATUREZA ESTRUTURANTE E BASE REGIONAL E DO RESPECTIVO SISTEMA DE INCENTIVOS."
+  },
+  "2fc91b95e62ba225": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto"
+  },
+  "da93dd76a3a2757d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto a definição das regras de candidatura aos programas integrados turísticos de natureza estruturante e base regional, bem como as de concessão de apoios financeiros a projectos integrados naqueles programas."
+  },
+  "286f278b5b5ef528": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do regime dos programas integrados turísticos de natureza estruturante e base regional (PITER)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do regime dos programas integrados turísticos de natureza estruturante e base regional (PITER)"
+  },
+  "7df37cb3ede5a48d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conceito e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conceito e âmbito"
+  },
+  "fa1a4d41f4682c28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\n1 - Para efeitos do presente diploma, consideram-se programas integrados turísticos de natureza estruturante e base regional conjuntos coerentes de projectos de investimento complementares entre si e implementados num horizonte temporal limitado, que prosseguem os mesmos objectivos estratégicos, com vista a alcançar alterações estruturais na oferta turística local ou regional e impacte económico-social significativo na área territorial em que se inserem.\n\n2 - Os programas integrados turísticos de natureza estruturante e base regional são compostos por diferentes projectos de vocação turística, como tal legalmente tipificados, que reúnam as condições referidas nos artigos seguintes, ou suas componentes, bem como actividades, serviços autónomos directamente associados àqueles e projectos de natureza pública, que concorram para os objectivos desta medida que se consubstanciam na criação de núcleos de elementos funcionalmente interdependentes de oferta turística ou de aproveitamento de nichos de mercado turístico, ou, nas áreas de forte intensidade turística, para a valorização e reabilitação desses destinos, incluindo a modernização da oferta existente e a sua integração urbanística."
+  },
+  "e872a25c0d8a7ea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Projectos\n\n1 - Os projectos a que se refere o n.º 2 do artigo anterior, para integrarem um PITER, devem reunir as seguintes condições:\n\na) Contribuírem para a prossecução da estratégia do PITER onde se integram;\n\nb) No que respeita aos respectivos projectos de arquitectura, ou às memórias descritivas, encontrarem-se previamente aprovados, quando aplicável;\n\nc) Encontrar-se a respectiva actividade devidamente licenciada, quando tal for legalmente exigido;\n\nd) Encontrarem-se devidamente asseguradas as fontes do financiamento do projecto;\n\ne) Sem prejuízo do disposto na alínea d) do n.º 1 e na alínea a) do n.º 3, ambos do artigo 21.º do presente Regulamento, no que respeita à susceptibilidade de acesso ao regime de incentivos associado ao PITER, não se terem iniciado há mais de 6 meses, com excepção dos estudos realizados há menos de 18 meses, e não se encontrarem realizados, no que respeita aos projectos privados, em mais de 25%, e, no que respeita aos projectos públicos, em mais de 50%.\n\n2 - As condições referidas nas alíneas b) a d) do número anterior podem verificar-se até à apresentação da candidatura a que se refere o artigo 10.º do presente Regulamento."
+  },
+  "481bba2b4c651e8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Promotores\n\nPodem ser entidades promotoras do PITER as entidades de qualquer natureza e sob qualquer forma jurídica, nomeadamente empresas devidamente licenciadas, câmaras municipais, regiões de turismo ou ainda agrupamentos de algumas daquelas entidades."
+  },
+  "44de1eabeb38e16b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Fase da pré-candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Fase da pré-candidatura"
+  },
+  "f60894555d63dd75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Pré-candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pré-candidatura\n\n1 - O promotor do programa candidato, designado «promotor», em representação de todos os promotores, apresenta, a todo o tempo, a pré-candidatura, em formulário próprio, na direcção regional de economia territorialmente competente na área onde o programa se localiza.\n\n2 - Na pré-candidatura, devem os respectivos promotores explicitar os objectivos do programa, definir a estratégia do mesmo e indicar os projectos âncora nele integrados."
+  },
+  "538c069e5528504e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de selecção\n\n1 - O programa candidato é seleccionado em função dos seguintes critérios:\n\na) Adequação do programa e da sua estratégia aos objectivos da presente medida;\n\nb) Estado de desenvolvimento e preparação dos projectos âncora integrados no programa;\n\nc) Qualificação do risco associado ao desenvolvimento do programa.\n\n2 - A ponderação dos critérios referidos no número anterior, bem como a selecção do programa, é elaborada nos termos fixados no n.º 1.º do anexo A ao presente Regulamento."
+  },
+  "8c49ade728bf52a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências na fase de pré-candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências na fase de pré-candidatura\n\n1 - Compete à direcção regional de economia territorialmente competente a recepção e validação da pré-candidatura, bem como a emissão de parecer quanto, nomeadamente, à compatibilização do programa com os programas de desenvolvimento regional, ao seu impacte regional, bem como quanto a outros aspectos relevantes para a boa execução do programa.\n\n2 - Compete ao Instituto de Financiamento e Apoio ao Turismo a análise dos objectivos e estratégia global do programa, do preenchimento por este dos critérios referidos no artigo anterior, bem como a emissão do parecer final a que se refere o n.º 3 do artigo seguinte.\n\n3 - Compete à Direcção-Geral do Turismo a emissão de parecer quanto, nomeadamente, à oferta e procura turística abrangida na área do programa, bem como quanto aos constrangimentos e oportunidades de desenvolvimento turístico no quadro dos instrumentos de ordenamento vigentes naquela área."
+  },
+  "32a1f15832ffc3b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo de decisão\n\n1 - No prazo máximo de cinco dias úteis a contar da recepção da pré-candidatura, a direcção regional de economia territorialmente competente verifica se aquela se encontra devidamente instruída nos termos do artigo 5.º do presente Regulamento, e remete-a ao Instituto de Financiamento e Apoio ao Turismo e à Direcção-Geral do Turismo.\n\n2 - A direcção regional de economia referida no número anterior e a Direcção-Geral do Turismo emitem, no prazo máximo de 35 dias úteis a contar da recepção da pré-candidatura, parecer quanto ao programa candidato, nos termos dos n.os 1 e 3 do artigo anterior.\n\n3 - Sob os pareceres referidos no número anterior e atento o disposto no n.º 2 do artigo anterior, o Instituto de Financiamento e Apoio ao Turismo formula, no prazo máximo de 20 dias úteis, parecer final.\n\n4 - Após a recepção da pré-candidatura e até à formulação do parecer final, podem ser solicitados ao promotor, pela direcção regional de economia, em articulação com o Instituto de Financiamento e Apoio ao Turismo e a Direcção-Geral do Turismo, esclarecimentos complementares a prestar no prazo máximo de 15 dias úteis, decorridos os quais a ausência de resposta significa a desistência da pré-candidatura.\n\n5 - O prazo estabelecido no número anterior suspende os prazos fixados nos n.os 2 e 3 do presente artigo.\n\n6 - Compete ao Ministro da Economia, sob parecer a que se refere o n.º 3 do presente artigo, a decisão final quanto à pré-candidatura.\n\n7 - No prazo de seis dias úteis a contar da recepção da decisão a que se refere o número anterior, a respectiva direcção regional de economia notifica o promotor do programa."
+  },
+  "ca95854c34c2d159": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Unidade operativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Unidade operativa\n\n1 - No caso de ser qualificada a pré-candidatura, o promotor do programa pode criar uma unidade operativa, com vista ao desenvolvimento, preparação e apresentação da candidatura ao PITER.\n\n2 - Constituída a unidade operativa, é conferida ao promotor a faculdade de apresentar ao sistema de incentivos associado ao PITER, nos termos e condições previstas no presente diploma, um projecto no âmbito da alínea a) do artigo 17.º do presente Regulamento.\n\n3 - Compete à respectiva direcção regional de economia, em articulação com o Instituto de Financiamento e Apoio ao Turismo e a Direcção-Geral do Turismo, prestar à unidade operativa referida no n.º 1 do presente artigo os esclarecimentos que a mesma solicite no âmbito do desenvolvimento, preparação e apresentação da candidatura ao PITER."
+  },
+  "4cc3a26d715e0636": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Fase da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Fase da candidatura"
+  },
+  "1663674fa71a649b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidatura\n\n1 - Qualificada a pré-candidatura, a apresentação do programa à fase da candidatura é feita, em formulário próprio, na respectiva direcção regional de economia e deve ocorrer no prazo máximo de um ano a contar da recepção da notificação a que se refere o n.º 7 do artigo 8.º do presente Regulamento.\n\n2 - O prazo previsto no número anterior pode ser objecto de uma prorrogação até seis meses, a conceder pelo membro do Governo a que se refere o n.º 6 do artigo 8.º do presente diploma, desde que devidamente justificada.\n\n3 - Até à apresentação da candidatura, podem ser integrados no programa projectos não previstos na fase da pré-candidatura, devendo o promotor enunciá-los no formulário a que se refere o n.º 1 do presente artigo.\n\n4 - Na candidatura, os promotores dos projectos que integram o programa devem comprometer-se a prossegui-lo concertadamente.\n\n5 - A não apresentação da candidatura nos prazos referidos no n.º 1 e, quando aplicável, no n.º 2 do presente artigo determina a caducidade da decisão de qualificação da pré-candidatura, bem como a impossibilidade de ser apresentada uma nova no prazo de dois anos a contar do termo final do prazo referido no n.º 1 do presente artigo."
+  },
+  "daded16c73eb3baa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Requisitos da declaração PITER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos da declaração PITER\n\n1 - A declaração do programa como PITER depende do preenchimento, pelo mesmo, dos seguintes requisitos:\n\na) Possuir uma estratégia clara e adequada às potencialidades da região onde se vai implementar;\n\nb) Envolver, no seu conjunto, e desde a sua configuração inicial, um investimento mínimo em capital fixo de 15 milhões de euros, não podendo o investimento público ser superior a 50% daquele montante, ou 10 milhões de euros no caso de investimento exclusivamente privado;\n\nc) A sua execução não ultrapassar o prazo máximo de quatro anos, salvo em casos devidamente justificados;\n\nd) Apresentar sinergias e complementaridades claras entre as diversas componentes;\n\ne) Demonstrar a existência de cadeias de valor de modo a potenciar os diversos sectores de actividade a montante e a jusante;\n\nf) Produzir efeitos no desenvolvimento e modernização da oferta turística da região em que se localizam, através do aumento da competitividade e reordenamento ou diversificação da oferta, e nas regiões menos desenvolvidas turisticamente, através da criação de oferta turística viável que permita potenciar o desenvolvimento económico regional;\n\ng) Produzir um impacte significativo, ao nível da região, na criação de emprego ou na sua requalificação;\n\nh) Demonstrar um nível de organização interna para a sua execução compatível com os objectivos que pretende alcançar e com os projectos a desenvolver;\n\ni) Destinar-se preponderantemente à captação e utilização por turistas, sem prejuízo do acesso por parte dos residentes;\n\nj) Não se implantar na proximidade de estruturas urbanas ou ambientais degradadas, a não ser que esteja concertada com programas de requalificação urbana ou ambiental em curso;\n\nl) Ser demonstrado o grau de concretização relativo à implementação dos diversos projectos integrantes do PITER.\n\n2 - No momento da apresentação do programa à fase da candidatura PITER, e para além dos requisitos enunciados no número anterior, caso seja intenção dos respectivos promotores candidatar os projectos âncora que integram o programa candidato a qualquer dos sistemas de apoio de natureza nacional ou comunitário vigentes, deve ser apresentada prova da apresentação daqueles projectos a um daqueles sistemas ou, quando não seja aquela a intenção dos promotores, devem encontrar-se as respectivas obras já iniciadas, sem prejuízo do disposto na alínea e) do n.º 1 do artigo 3.º do presente Regulamento.\n\n3 - Sempre que os promotores, para efeitos do disposto no número anterior, optem pela apresentação dos respectivos projectos âncora ao sistema de incentivos associado ao PITER, observar-se-á o seguinte:\n\na) A apresentação da respectiva candidatura deve ocorrer no momento da apresentação do programa à fase da candidatura PITER, podendo aquela preceder esta última por um período não superior a 30 dias;\n\nb) O não cumprimento do prazo de 30 dias referido na alínea anterior determina a caducidade da candidatura ao sistema de incentivos associado ao PITER;\n\nc) As obras relativas aos projectos âncora que, nos termos da alínea a) do presente número, sejam candidatados ao sistema de incentivos associado ao PITER apenas poderão ter início após a apresentação do programa à fase da candidatura PITER;\n\nd) O prosseguimento para análise da candidatura ao sistema de incentivos é condicionado à declaração do programa onde os mesmos se inserem como PITER, nos termos do n.º 1 do artigo 14.º do presente Regulamento.\n\n4 - No caso de não declaração do programa em causa como PITER, as candidaturas a que se refere o número anterior podem transitar, com as necessárias adaptações, para o sistema de apoio que, atenta a natureza dos projectos, seja aplicável, considerando-se como data de candidatura, para efeitos de início de obra, a da candidatura ao sistema de incentivos associado ao PITER.\n\n5 - Excepcionalmente e em casos devidamente justificados, os limites mínimos de investimento em capital fixo referidos na alínea b) do n.º 1 do presente artigo podem, verificada a conformidade do programa com os objectivos referidos no n.º 1 do artigo 2.º do presente Regulamento, ser ajustados, por despacho do Ministro da Economia, sob proposta do Instituto de Financiamento e Apoio ao Turismo, nomeadamente em função de factores de localização, desenvolvimento regional, natureza e tipologia de projectos, bem como da existência de outras acções integradas já implantadas na mesma área geográfica."
+  },
+  "2f5ff33269f5ab50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\nNa fase da candidatura, compete:\n\na) À direcção regional de economia emitir o parecer a que se refere a alínea b) do n.º 1 do artigo seguinte, nomeadamente quanto ao preenchimento pelo programa das condições a que se referem as alíneas a), e) a h) e j) do n.º 1 do artigo anterior;\n\nb) Ao Instituto de Financiamento e Apoio ao Turismo emitir o parecer a que se refere a alínea a) do n.º 1 do artigo seguinte, nomeadamente quanto ao preenchimento pelo programa das condições a que se referem as alíneas a) a e), g), h) e l) do n.º 1 e o n.º 2, ambos do artigo anterior;\n\nc) À Direcção-Geral do Turismo emitir o parecer a que se refere a alínea a) do n.º 1 do artigo seguinte, nomeadamente quanto ao preenchimento, pelo programa, das condições a que se referem as alíneas a), d) a f), i) e j) do n.º 1 do artigo anterior."
+  },
+  "b5330ac954bd74a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo de decisão\n\n1 - A apresentação da candidatura é feita na direcção regional de economia territorialmente competente, que, depois de verificar, no prazo máximo de 15 dias úteis, se a mesma contém os documentos necessários à sua análise:\n\na) Remete cópia da mesma ao Instituto de Financiamento e Apoio ao Turismo e à Direcção-Geral do Turismo, para emissão de pareceres no prazo máximo de 30 dias úteis, de cujo teor é dado conhecimento, no mesmo prazo, àquela direcção regional de economia;\n\nb) Elabora, também no prazo de 30 dias úteis, o respectivo parecer, de cujo teor, e no mesmo prazo, dá conhecimento ao Instituto de Financiamento e Apoio ao Turismo e à Direcção-Geral do Turismo.\n\n2 - Emitidos os pareceres a que se refere o número anterior, compete a uma comissão de avaliação, constituída pelo Instituto de Financiamento e Apoio ao Turismo, que a preside, pela respectiva direcção regional de economia e pela Direcção-Geral do Turismo emitir, no prazo máximo de 20 dias úteis, parecer final.\n\n3 - Após a recepção da candidatura e até à formulação do parecer final, podem ser solicitados ao promotor pela direcção regional de economia, em articulação com o Instituto de Financiamento e Apoio ao Turismo e a Direcção-Geral do Turismo, esclarecimentos complementares a prestar no prazo máximo de 15 dias úteis, decorridos os quais a ausência de resposta significa a desistência da candidatura.\n\n4 - O prazo estabelecido no número anterior suspende o prazo estabelecido nos n.os 1 e 2 do presente artigo.\n\n5 - Compete ao membro do Governo responsável pelo sector do turismo, sob o parecer a que se refere o n.º 2 do presente artigo, a decisão final quanto à candidatura.\n\n6 - No prazo de seis dias úteis a contar da recepção da decisão a que se refere o número anterior, a respectiva direcção regional de economia notifica o promotor do programa."
+  },
+  "e2239e9eea2476b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Efeitos da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Efeitos da decisão\n\n1 - A declaração do programa como PITER, nos termos dos artigos anteriores, traduz-se na atribuição de natureza estruturante ao conjunto de projectos que o integram, sendo tal natureza ponderada no âmbito da análise do preenchimento pelos mesmos dos critérios de selecção previstos no quadro dos sistemas de incentivos do Programa Operacional de Economia.\n\n2 - Declarado o programa como PITER, é conferida aos promotores dos projectos que o integram a faculdade de, sem prejuízo do disposto nos n.os 2 e 3 do artigo 11.º, apresentá-los ao sistema de incentivos associado ao PITER, nos termos das alíneas b) a d) do artigo 17.º e seguintes do presente Regulamento.\n\n3 - A não declaração do programa como PITER determina a impossibilidade de apresentação de uma nova pré-candidatura no prazo de dois anos a contar da data da apresentação da candidatura não aprovada."
+  },
+  "af984b8831873c1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Acompanhamento e controlo"
+  },
+  "3a79291b681d6743": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e controlo\n\n1 - O acto que, nos termos do n.º 5 do artigo 13.º do presente Regulamento, declarar PITER o programa candidato estabelece, em função da dimensão e natureza deste, o mecanismo de controlo para a verificação do cumprimento dos objectivos e estratégia do PITER, podendo ser criada, se tal se justificar, uma comissão de acompanhamento, constituída pelo Instituto de Financiamento e Apoio ao Turismo, que a preside, pela Direcção-Geral do Turismo, pela direcção regional de economia territorialmente competente, pelo promotor, bem como por um representante do programa operacional regional territorialmente competente em caso de existência de projectos integrantes do PITER apoiados por outras medidas ou acções desse programa.\n\n2 - O não cumprimento, por parte de qualquer dos promotores do PITER, do compromisso a que se refere o n.º 4 do artigo 10.º do presente Regulamento determina para aquele a impossibilidade de integrar qualquer novo programa candidato a PITER durante o período de três anos, sem prejuízo do disposto no número seguinte.\n\n3 - Caso o não cumprimento do compromisso assumido nos termos do n.º 4 da artigo 10.º do presente Regulamento se deva à prestação de informações falsas sobre a sua situação ou à viciação de dados fornecidos na apresentação, apreciação e acompanhamento do Programa, o promotor não pode apresentar candidaturas a quaisquer apoios concedidos no quadro do programa Operacional de Economia durante o período de cinco anos."
+  },
+  "cfd019724a8e537c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Novos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Novos projectos\n\n1 - Durante a fase de execução do programa PITER, podem aderir ao mesmo, aceites que sejam pela maioria dos promotores dos projectos que o integram, novos projectos de natureza pública ou privada, desde que:\n\na) Na sequência daquela aceitação, sejam propostos, mediante formulário próprio, pelo promotor do PITER;\n\nb) Se adeqúem aos objectivos e estratégia do PITER;\n\nc) O respectivo prazo de realização não exceda o prazo definido para a concretização do PITER;\n\nd) Preencham as condições referidas no n.º 2 do artigo 3.º do presente Regulamento.\n\n2 - O processo de análise e decisão quanto à integração dos novos projectos no PITER obedece, com as necessárias adaptações, ao preceituado nos artigos 10.º a 13.º do presente Regulamento."
+  },
+  "146027882b10e74d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do sistema de incentivos associado ao PITER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do sistema de incentivos associado ao PITER"
+  },
+  "e86c838a0863835b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Âmbito do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Âmbito do sistema"
+  },
+  "d73d0919ef8ea602": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Âmbito\n\nSão susceptíveis de apoio no âmbito do presente Regulamento os seguintes projectos de natureza estruturante, como tal classificados em função do disposto no n.º 1 do artigo 14.º do presente Regulamento:\n\na) Projectos necessários à preparação e coordenação da candidatura PITER, nomeadamente os associados à unidade operativa que desenvolve o processo após a aceitação da pré-candidatura e até à fase de apresentação da candidatura;\n\nb) Projectos promovidos em comum por todos ou uma parte significativa dos intervenientes no PITER e que se revelem importantes para o prosseguimento da estratégia do programa;\n\nc) Projectos, de natureza privada, que não se possam candidatar às medidas a que se refere o artigo 5.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio;\n\nd) Projectos âncora, de natureza privada."
+  },
+  "33510c1a250825ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entidades beneficiárias\n\n1 - São entidades beneficiárias do sistema de incentivos associado ao PITER, no âmbito dos projectos referidos nas alíneas a) a c) do artigo anterior, entidades de qualquer natureza e sob qualquer forma jurídica, nomeadamente empresas, câmaras municipais, regiões de turismo ou outros organismos regionais e locais de turismo, ou ainda agrupamentos de algumas daquelas entidades.\n\n2 - No âmbito da alínea d) do artigo anterior, são entidades beneficiárias do sistema de incentivos associado ao PITER todas as empresas de qualquer natureza e sob qualquer forma jurídica."
+  },
+  "c590f8b45f16c622": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exclusões\n\n1 - Não são susceptíveis de apoio no quadro do presente Regulamento os projectos que tenham por objecto a construção ou instalação de empreendimentos a explorar, em parte ou na sua totalidade, em regime de direito de habitação periódica, de natureza real ou obrigacional, bem como a remodelação ou ampliação de empreendimentos explorados, na sua totalidade, naquele regime.\n\n2 - Os projectos relativos a empreendimentos anteriormente apoiados no quadro do Programa Operacional de Economia, em medidas da mesma natureza e para tipologias de investimento similares, apenas são susceptíveis de acesso ao presente sistema de incentivos se, cumulativamente:\n\na) Tiver decorrido um ano desde a data da apresentação da candidatura anterior;\n\nb) O projecto anteriormente apoiado se encontrar concluído."
+  },
+  "99232f561a990ca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Condições de elegibilidade dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de elegibilidade dos promotores\n\n1 - Sem prejuízo das necessárias adaptações quando tenham natureza pública, os promotores dos projectos referidos na alínea b), bem como os promotores dos projectos a que se referem as alíneas c) e d), todas do artigo 17.º do presente Regulamento, devem preencher, cumulativamente, as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Gozarem da capacidade jurídica necessária para a prossecução da actividade turística;\n\nc) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente encontrarem-se licenciados para o exercício da respectiva actividade, quando tal for legalmente exigível;\n\nd) Disporem de contabilidade actualizada e regularmente organizada;\n\ne) Possuírem situação regularizada perante a administração fiscal, a segurança social e a entidade pagadora do incentivo;\n\nf) Possuírem capacidade técnica e de gestão que garanta a concretização dos respectivos investimentos;\n\ng) Possuírem situação económico-financeira equilibrada no ano anterior ao da candidatura, nos termos do n.º 2.º do anexo A ao presente Regulamento;\n\nh) Comprometerem-se a afectar o empreendimento à actividade turística, bem como a manterem a localização geográfica do empreendimento, até ao termo final do prazo de reembolso dos incentivos reembolsáveis, ou, não sendo reembolsável o incentivo, pelo período mínimo de cinco anos a contar da data da celebração do contrato de concessão de incentivos;\n\ni) Terem concluído ou não se encontrarem em situação de incumprimento das obrigações assumidas no âmbito dos projectos anteriormente apoiados no quadro do Programa Operacional de Economia, sem prejuízo do disposto no n.º 2 do artigo anterior;\n\nj) Cumprirem, quando existam investimentos em formação profissional, todas as regras estabelecidas na legislação enquadradora dos apoios do Fundo Social Europeu.\n\n2 - Sem prejuízo do disposto no número seguinte, as condições de elegibilidade referidas nas alíneas a) a e) do número anterior podem ser cumpridas pelo promotor até à data da celebração do contrato de concessão de incentivos.\n\n3 - Na candidatura, os promotores devem declarar se preenchem ou se irão preencher as condições de acesso referidas no número anterior até à data a que se refere o mesmo número.\n\n4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da candidatura apenas estarão obrigadas, para efeitos da alínea a) do n.º 1 do presente artigo, a comprovar que já requereram a inscrição na conservatória do registo comercial competente.\n\n5 - Os promotores dos projectos a que se refere a alínea a) do artigo 17.º do presente Regulamento devem preencher, cumulativamente, as condições de elegibilidade enunciadas nas alíneas a), c) a g) e i) do n.º 1 do presente artigo, com as necessárias adaptações quando se tratar de uma entidade de natureza pública."
+  },
+  "bf4a3edfa2b5a65d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Condições de elegibilidade dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condições de elegibilidade dos projectos\n\n1 - Os projectos referidos nas alíneas b) a d) do artigo 17.º do presente Regulamento devem preencher, cumulativamente, as seguintes condições:\n\na) Encontrarem-se inseridos e contribuírem para o desenvolvimento da estratégia do PITER, bem como para a melhoria económico-financeira ou da competitividade da empresa promotora, quando aplicável;\n\nb) No caso de terem por objecto os estabelecimentos e actividades de animação a que se refere o artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho, encontrarem-se os mesmos declarados de interesse para o turismo pela Direcção-Geral do Turismo, salvo no que respeita a estabelecimentos de restauração e bebidas;\n\nc) Encontrarem-se devidamente fundamentados através de análises adequadas, bem como sustentados por um diagnóstico das necessidades da empresa, cuja profundidade variará em função da dimensão do projecto e das especificidades do sector;\n\nd) Serem apresentados antes do início da sua execução, não sendo consideradas como integrantes do projecto as despesas efectuadas, total ou parcialmente, antes da data da candidatura, com a excepção dos adiantamentos para sinalização até 50% do custo de cada aquisição, e dos estudos realizados há menos de um ano ou, em casos devidamente justificados, de dois anos, sem prejuízo do disposto na alínea c) do n.º 3 do artigo 11.º do presente Regulamento;\n\ne) Sem prejuízo do cumprimento do prazo de execução global do PITER onde se inserem, a sua execução não ultrapassar o prazo de dois anos, salvo em casos devidamente justificados e autorizados;\n\nf) Encontrarem-se devidamente asseguradas as respectivas fontes de financiamento;\n\ng) Demonstrarem, quando integrarem acções de formação profissional, que o plano de formação se revela coerente e consonante com os objectivos do projecto e que cumprem os normativos aplicáveis aos apoios do Fundo Social Europeu.\n\n2 - Para além das condições de elegibilidade referidas no número anterior, os projectos referidos nas alíneas c) e d) do artigo 17.º do presente Regulamento devem preencher, cumulativamente, os seguintes critérios:\n\na) Envolverem um montante global de investimento mínimo superior a (euro) 150000;\n\nb) Possuírem viabilidade económica, avaliada na perspectiva de integração no PITER;\n\nc) Serem adequadamente financiados com capitais próprios, nos termos a que se refere o n.º 3.º do anexo A ao presente Regulamento;\n\nd) Respeitarem, no que se refere aos grandes projectos de investimento como tal definidos no «Enquadramento multissectorial dos auxílios com finalidade regional», os procedimentos previstos nesse enquadramento.\n\n3 - Os projectos referidos na alínea a) do artigo 17.º devem preencher, cumulativamente, as seguintes condições:\n\na) Serem apresentados antes do início da sua execução, não sendo consideradas como integrantes do projecto as despesas efectuadas, total ou parcialmente, antes da data da candidatura, com a excepção dos adiantamentos para sinalização até 50% do custo de cada aquisição, e dos estudos realizados há menos de um ano;\n\nb) Indicar a entidade responsável pela unidade operativa, bem como a respectiva composição;\n\nc) Definir os objectivos, as metodologias, os recursos necessários e a calendarização da preparação e coordenação da candidatura ao PITER;\n\nd) Explicitar os custos associados à preparação e coordenação da candidatura ao PITER, de forma a ser possível a avaliação da sua razoabilidade."
+  },
+  "dc32eb009f3d2d22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de selecção\n\n1 - Aos projectos enquadráveis nas alíneas c) e d) do artigo 17.º do presente Regulamento é atribuída uma valia económica calculada de acordo com os critérios seguintes:\n\na) Adequação do projecto aos objectivos do PITER;\n\nb) Qualificação do risco.\n\n2 - O cálculo da valia económica, bem como a selecção dos projectos, resulta da ponderação dos critérios referidos no número anterior, nos termos do n.º 4.º do anexo A ao presente Regulamento.\n\n3 - Não são susceptíveis de apoio no quadro do presente Regulamento os projectos de investimentos que, da aplicação dos critérios referidos no n.º 1 do presente artigo, nos termos do número anterior, obtenham uma pontuação inferior a 50 ou uma pontuação nula no critério referido na alínea a) do n.º 1 do presente artigo."
+  },
+  "2e91b9372d24ebb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Despesas elegíveis"
+  },
+  "a74933b443046a94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis\n\n1 - Para efeitos de cálculo do incentivo a conceder, em qualquer das suas formas, apenas são consideradas as despesas efectuadas com:\n\n1.1 - No que respeita aos projectos referidos na alínea a) do artigo 17.º:\n\na) Estudos, diagnósticos e auditorias de fundamentação do programa e dos projectos, incluindo a preparação da candidatura;\n\nb) Assistência técnica necessária à execução dos projectos e da candidatura, incluindo os custos associados ao funcionamento da unidade operativa;\n\n1.2 - No que respeita aos projectos referidos na alínea b) do artigo 17.º, são elegíveis as despesas relacionadas com acções comuns a vários promotores, nomeadamente equipamentos, assistência técnica e outras relacionadas com actividades de promoção ou sensibilização que envolvam a globalidade do programa ou do território de intervenção, sem prejuízo do disposto no n.º 2 do presente artigo;\n\n1.3 - No que respeita aos projectos referidos nas alíneas c) e d) do artigo 17.º:\n\na) Aquisição de terrenos para campos de golfe, até ao limite máximo de 30% do custo total do projecto ou de 50% do valor do terreno;\n\nb) Construção de infra-estruturas e de edifícios directamente relacionados com o processo produtivo e às actividades essenciais de gestão, bem como, excepcionalmente, a aquisição de edifícios devolutos ou inacabados, nomeadamente em resultado de processos de reestruturação ou falência, cuja presença no meio envolvente se traduza numa degradação do mesmo;\n\nc) Outras construções e obras de adaptação e remodelação de instalações, directamente relacionadas com o exercício da actividade ou destinadas a melhorar as condições de segurança, higiene e saúde;\n\nd) Aquisição de equipamentos de protecção ambiental, designadamente os de tratamentos residuais, emissões para a atmosfera, resíduos, redução de ruído e de introdução de tecnologias eco-eficientes para a utilização sustentável de recursos naturais;\n\ne) Aquisição e montagem de materiais e equipamentos de segurança, eficiência e racionalização energética, incluindo custos com a adaptação de instalações relacionadas com o projecto;\n\nf) Aquisição de equipamentos directamente relacionados com o processo produtivo, sendo que, no que respeita a mobiliário antigo, apenas é elegível 50% do respectivo valor, avaliado por uma entidade credível e externa ao promotor, e desde que as características do empreendimento determinem a utilização daquele tipo de mobiliário;\n\ng) Estudos, projectos de arquitectura e de engenharia, diagnósticos, auditorias de fundamentação de projectos e assistência técnica necessária à execução do projecto e da candidatura;\n\nh) Assistência técnica para implementação do projecto em matéria de gestão, incluindo as vertentes qualidade, ambiente e segurança, organização e gestão, modernização tecnológica e melhores técnicas disponíveis;\n\ni) Intervenções relativas à instrução do processo de certificação, qualificação ou de registo, nas áreas da qualidade, ambiente e segurança, no âmbito do Sistema Português da Qualidade, bem como despesas complementares, incluindo, se for caso disso, as inerentes a acções de divulgação;\n\nj) Informatização (hardware/software) relativa à gestão, bem como à introdução de tecnologias de informação e comunicação, modernização da logística, comercialização e marketing;\n\nl) Aquisição e registo de marcas e alvarás;\n\nm) Aquisição e registo de patentes e licenças, sendo que, no caso de empresas não PME, as despesas com investimento incorpóreo de aquisição de patentes, licenças de exploração e conhecimento técnicos não podem exceder 25% das despesas elegíveis em capital fixo corpóreo;\n\nn) Formação profissional, cujo âmbito de elegibilidade é definido em regulamento específico no quadro do Programa Operacional de Economia, tendo em consideração as normas enquadradoras do Fundo Social Europeu;\n\no) Promoção e marketing;\n\np) Transportes, seguros, montagens e desmontagens de equipamentos;\n\nq) Garantias bancárias exigidas aos promotores nos termos a fixar no contrato de concessão de incentivos;\n\nr) Intervenção dos revisores oficiais de contas, para efeitos do disposto na alínea a) do n.º 1 do artigo 49.º do presente Regulamento.\n\n2 - A comparticipação das despesas referidas no n.º 1.2 do presente artigo apenas pode ocorrer se as acções em causa se revelarem determinantes para a prossecução dos objectivos do PITER e se não se traduzirem em apoio directo a uma entidade empresarial em particular, ainda que os beneficiários finais sejam as empresas incluídas no PITER.\n\n3 - Não são susceptíveis de comparticipação nomeadamente as despesas realizadas com:\n\na) Aquisição de edifícios, sem prejuízo do disposto na alínea b) do n.º 1.3 do presente artigo;\n\nb) Aquisição de terrenos, para além dos previstos na alínea a) do n.º 1.3 do presente artigo;\n\nc) No âmbito dos projectos enquadráveis na alínea a) do artigo 17.º do presente Regulamento, estudos, diagnósticos, auditorias de fundamentação do programa e dos projectos, e a respectiva assistência técnica, incluindo a preparação da candidatura, realizadas no prazo suplementar de seis meses a que se refere o n.º 2 do artigo 10.º do mesmo Regulamento;\n\nd) Trepasses e direitos de utilização de espaços;\n\ne) Aquisição de veículos automóveis e outro material circulante, excepto, no âmbito da animação turística, a aquisição de outro material circulante que seja declarado de interesse para o turismo, nos termos do artigo 57.º do Decreto-Lei n.º 167/97, de 4 de Julho;\n\nf) Mobiliário e outros equipamentos não directamente ligados às actividades essenciais e à gestão;\n\ng) Aeronaves e outro material aeronáutico;\n\nh) Aquisição de bens em estado de uso, sem prejuízo do disposto na alínea f) do n.º 1.3 do presente artigo;\n\ni) Custos internos da empresa, sem prejuízo, no que respeita à formação profissional, do estipulado nas normas enquadradoras do Fundo Social Europeu;\n\nj) Juros durante a construção;\n\nl) Fundo de maneio.\n\n4 - Nos projectos que tenham por objecto a remodelação ou ampliação de hotéis-apartamentos, apartamentos turísticos e aldeamentos turísticos, bem como empreendimentos turísticos explorados, em parte, em regime de direito de habitação periódica, só são comparticipáveis as despesas de investimento correspondentes às unidades de alojamento afectas à exploração turística e, sendo o caso, não exploradas segundo aquele regime, bem como, na proporção dessa afectação, as despesas de investimento relativas às partes comuns dos empreendimentos.\n\n5 - Para efeito do disposto no presente artigo, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo o organismo coordenador, caso não se verifique essa correspondência, proceder à respectiva adequação, assim como se procederá a uma análise de adequabilidade da proporção da natureza das despesas face ao investimento global e à natureza e objectivos do mesmo, podendo de igual modo proceder-se à respectiva adequação."
+  },
+  "7ecea977af977906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Incentivo"
+  },
+  "fdf621707e3249ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Natureza e cumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Natureza e cumulação\n\n1 - O incentivo a conceder, no quadro do presente Regulamento, pode assumir, em função da natureza dos projectos e das despesas elegíveis, as formas de incentivo reembolsável, que pode ser substituído pelo pagamento de juros e encargos de empréstimo bancário de igual valor, incentivo não reembolsável e prémio de realização.\n\n2 - Complementarmente aos incentivos identificados no número anterior, os projectos aprovados no quadro do presente Regulamento podem beneficiar de uma co-intervenção do capital de risco, nos termos enunciados nos artigos 38.º e 39.º do presente Regulamento.\n\n3 - O incentivo reembolsável é concedido à taxa de juro zero.\n\n4 - Os apoios a conceder no âmbito do presente Regulamento, sob qualquer das formas enunciadas no n.º 1 do presente artigo, não são cumuláveis, para as mesmas despesas elegíveis, com quaisquer outros da mesma natureza."
+  },
+  "686a50de8257b2d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cálculo do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cálculo do incentivo\n\nO valor dos incentivos a conceder é determinado pela aplicação das percentagens referidas no n.º 1 do artigo seguinte, no n.º 1 do artigo 29.º e no n.º 1 do artigo 34.º, todos do presente Regulamento, sobre o valor das respectivas despesas elegíveis, nos termos dos artigos seguintes."
+  },
+  "9c513186e12c0528": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º"
+  },
+  "d7425c03f81b6e60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Taxas e composição do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Taxas e composição do incentivo\n\n1 - O incentivo a conceder aos projectos referidos nas alíneas a) e b) do artigo 17.º do presente Regulamento corresponde a 75% do valor das respectivas despesas elegíveis.\n\n2 - O incentivo a que se refere o número anterior tem a natureza de incentivo não reembolsável."
+  },
+  "b4c5c6d9b3acddbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Limites\n\nO incentivo a conceder aos projectos referidos no n.º 1 do artigo anterior não pode exceder, no que respeita aos da alínea a) do artigo 17.º, (euro) 100000 e no que respeita aos da alínea b) do mesmo preceito, considerados no conjunto de todos os projectos desta tipologia integrados no PITER, (euro) 500000 ou 5% do montante global do PITER."
+  },
+  "07a6ba045f44f478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º"
+  },
+  "7f3dc500dc369525": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Agrupamento de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Agrupamento de despesas\n\n1 - Para efeitos de cálculo do incentivo a conceder aos projectos referidos nas alíneas c) e d) do artigo 17.º do presente Regulamento, as despesas elegíveis são agrupadas da seguinte forma:\n\n1.1 - Grupo I:\n\na) Terrenos, edifícios e equipamentos, a que se referem as alíneas a), b), c), d), e), f) e j) no que respeita ao hardware e p) do n.º 1.3 do artigo 23.º do presente Regulamento;\n\nb) Transferência de tecnologias (patentes, licenças de exploração e aquisição de conhecimentos técnicos), a que se refere a alínea m) do n.º 1.3 do artigo 23.º do presente Regulamento;\n\n1.2 - Grupo II:\n\na) Formação profissional, a que se refere a alínea n) do n.º 1.3 do artigo 23.º do presente Regulamento;\n\nb) Outros investimentos incorpóreos, a que se referem as alíneas g), h), i) e j) no que respeita ao software e l), o), q) e r) do n.º 1.3 do artigo 23.º do presente Regulamento.\n\nDo incentivo relativo ao grupo I"
+  },
+  "d20e5ebe835ca857": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Taxas e composição do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Taxas e composição do incentivo\n\n1 - Sem prejuízo do disposto no artigo seguinte, o montante de incentivo a conceder, para comparticipação das despesas incluídas no grupo I, corresponde:\n\na) No caso dos projectos referidos na alínea c) do artigo 17.º do presente Regulamento, a 25% daquelas despesas, sob a forma de incentivo reembolsável;\n\nb) No caso dos projectos referidos na alínea d) do artigo 17.º do presente Regulamento, a 40% daquelas despesas, sendo 25% do incentivo sob a forma de incentivo não reembolsável e o remanescente sob a forma de incentivo reembolsável, sem prejuízo do disposto no número seguinte.\n\n2 - No âmbito dos projectos enquadráveis na alínea d) do artigo 17.º do presente Regulamento e localizados na zona da Grande Lisboa, o incentivo a conceder nos termos da alínea b) do n.º 1 do presente artigo é integralmente reembolsável caso os mesmos sejam promovidos por não PME e o respectivo prazo de reembolso do incentivo seja superior a cinco anos."
+  },
+  "ca780fb4a2d16cdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Majorações e ajustamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Majorações e ajustamentos\n\n1 - As percentagens referidas no n.º 1 do artigo anterior são acrescidas cumulativamente:\n\na) A título de majoração regional, em 10%, no caso de os respectivos projectos se localizarem na zona II identificada no anexo C ao presente Regulamento;\n\nb) A título de majoração pelo tipo de empresa, em 10%, no caso dos projectos promovidos por pequenas ou médias empresas (PME), como tal definidas na Recomendação da Comissão Europeia n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), de 3 de Abril, publicada no JOCE, n.º L107, de 30 de Abril de 1996, com excepção dos projectos localizados na zona da Grande Lisboa.\n\n2 - No âmbito dos projectos enquadráveis na alínea d) do artigo 17.º do presente Regulamento, que, localizando-se na zona da Grande Lisboa, sejam promovidos por não PME, a percentagem referida na alínea b) do n.º 1 do artigo anterior é reduzida para 30%."
+  },
+  "2240679378053cc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Prémio de realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Prémio de realização\n\n1 - O cumprimento, pelo promotor, dos objectivos fixados no respectivo contrato de concessão de incentivos, nos termos do n.º 3 do presente artigo, determina, a título de prémio de realização, o não reembolso de parte do incentivo reembolsável concedido, sem prejuízo do disposto no número seguinte.\n\n2 - O prémio de realização referido no número anterior não pode exceder as seguintes percentagens, calculadas sobre o respectivo incentivo, reembolsável:\n\na) Tratando-se de projectos de investimento de montante inferior a (euro) 600000, promovidos por PME:\n\nLocalizados na zona da Grande Lisboa: 10%;\n\nLocalizados fora da zona da Grande Lisboa: 60%;\n\nb) Tratando-se de projectos de investimento não incluídos na alínea anterior:\n\nLocalizados na zona da Grande Lisboa: 10%;\n\nLocalizados fora da zona da Grande Lisboa: 45%.\n\n3 - A determinação concreta do prémio de realização a que se referem os números anteriores é efectuada em função do grau de cumprimento do contrato de concessão de incentivos, calculado nos termos do n.º 5.º do anexo A ao presente Regulamento, bem como dos limites máximos de incentivo a conceder referidos no n.º 2 do artigo seguinte."
+  },
+  "311977eec9fde8ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Limites\n\n1 - O incentivo a conceder nos termos do n.º 1 do artigo 29.º do presente Regulamento não pode exceder, em função da natureza do projecto, os seguintes montantes ou percentagens:\n\na) Projectos enquadráveis na alínea c) do artigo 17.º do presente Regulamento: (euro) 1500000 ou 15% do montante das respectivas despesas elegíveis;\n\nb) Projectos enquadráveis na alínea d) do preceito regulamentar referido na alínea anterior: (euro) 3750000 ou 30% do montante das respectivas despesas elegíveis.\n\n2 - Para além dos limites a que se refere o número anterior, o incentivo a conceder, ponderado o prémio de realização a que se refere o artigo anterior, não pode exceder as percentagens fixadas no mapa de auxílios regionais definido pela Comissão Europeia para Portugal, expressas em equivalente de subvenção bruta e fixadas em função da localização dos mesmos."
+  },
+  "520e964046bbdd05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reembolso\n\n1 - Os incentivos reembolsáveis são reembolsados nos seguintes prazos, máximos, de reembolso e de carência:\n\na) 12 anos, contados a partir da primeira utilização, para projectos de construção ou de instalação de estabelecimentos hoteleiros, os quais incluem um período de carência até 4 anos e um período de amortização até 8 anos;\n\nb) 8 anos, contados a partir da primeira utilização, para os projectos de remodelação e ampliação de estabelecimentos hoteleiros, construção, remodelação e ampliação de parques de campismo, meios complementares de alojamento e empreendimentos de turismo em espaço rural, bem como de determinadas actividades de animação turística declaradas de interesse para o turismo pela Direcção-Geral do Turismo, designadamente construção e remodelação de campos de golfe, parques temáticos, centros de congressos, marinas, portos ou docas de recreio, os quais incluem um período de carência até 3 anos e um período de amortização até 5 anos;\n\nc) 6 anos, contados a partir da primeira utilização, para os restantes projectos, os quais incluem um período de carência até 2 anos e um período de amortização até 4 anos.\n\n2 - Em casos devidamente autorizados, por despacho do Ministro da Economia, designadamente no âmbito dos projectos de investimento enquadrados no regime contratual, os prazos totais previstos para os planos de reembolso referidos no número anterior podem ser aumentados por mais um ano.\n\n3 - Dentro dos prazos máximos indicados, a definição dos prazos aplicáveis a cada projecto terá em consideração a tipologia e dimensão dos mesmos, a capacidade de libertação de fundos da empresa reflectida nas demonstrações financeiras previsionais apresentadas na candidatura, bem como os prazos de eventuais empréstimos bancários contraídos para financiamento dos projectos.\n\n4 - Os reembolsos são efectuados em semestralidades, vencendo-se a primeira prestação seis meses após o termo do período de carência.\n\n5 - Sem prejuízo do disposto no n.º 2 do artigo 56.º do presente Regulamento, o reembolso dos incentivos reembolsáveis é garantido nos termos a fixar por despacho do Ministro da Economia.\n\nDo incentivo relativo ao grupo II"
+  },
+  "208920b88a09c767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Taxa e composição do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Taxa e composição do incentivo\n\n1 - O montante de incentivo a conceder, para comparticipação das despesas incluídas no grupo II, corresponde a 30% daquelas, sem prejuízo do disposto no n.º 3 do presente artigo e no artigo seguinte.\n\n2 - O incentivo a conceder nos termos do número anterior assume a natureza de incentivo não reembolsável.\n\n3 - Sempre que nos projectos candidatos promovidos por entidades públicas ou entidades privadas sem fim lucrativo se encontre previsto investimento em formação profissional e o mesmo se afigure elegível nos termos do presente Regulamento, observar-se-ão, para efeitos de financiamento dessa componente, as normas definidas em regulamento específico, bem como a legislação nacional enquadradora dos apoios do Fundo Social Europeu."
+  },
+  "45bca5943f3dcda2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Majorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Majorações\n\n1 - A percentagem referida no n.º 1 do artigo anterior é acrescida em 5% no caso de os respectivos projectos de investimento se localizarem fora da zona de Lisboa e Vale do Tejo.\n\n2 - Para além da majoração prevista no número anterior, a percentagem referida no n.º 1 do artigo anterior é acrescida, no caso de projectos de investimento promovidos por PME:\n\na) Na parte referente à formação profissional:\n\nFormação geral: 20%;\n\nFormação específica: 10%;\n\nb) Na parte referente aos outros investimentos incorpóreos: 15%.\n\n3 - Sem prejuízo do disposto nos números anteriores, a percentagem referida no n.º 1 do artigo anterior, relativamente às despesas referentes à formação profissional, é acrescida, cumulativamente:\n\na) Em 25%, no caso de projectos que visem o ensino não vocacionado, exclusiva ou principalmente, para a posição, actual ou futura, do trabalhador do promotor;\n\nb) Em 10%, no caso de projectos que visem trabalhadores desfavorecidos."
+  },
+  "dfe632e2d268c6e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Limites\n\n1 - O incentivo a conceder nos termos do n.º 1 do artigo 34.º do presente Regulamento não pode exceder, ainda que com as majorações referidas no artigo anterior, os seguintes limites:\n\na) Formação profissional: as percentagens fixadas no anexo B ao presente Regulamento;\n\nb) Outros investimentos incorpóreos: 50% das respectivas despesas elegíveis.\n\n2 - Os incentivos, para comparticipação das despesas de investimento a que se refere a alínea b) do número anterior, quando relativas a projectos de investimento promovidos por não PME, são concedidos segundo o regime de minimis, definido pela Comissão Europeia."
+  },
+  "fbcfbc523e14c1ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Limites globais de incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Limites globais de incentivo"
+  },
+  "ecece375654741d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Limites globais do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Limites globais do incentivo\n\nEm cada projecto de investimento enquadrável na alínea b), quando a respectiva entidade promotora tenha natureza privada, bem como nas alíneas c) e d) do artigo 17.º do presente Regulamento, a soma dos incentivos, expressos em equivalente de subvenção bruta, relativos a todas as despesas elegíveis, não pode exceder 50% das mesmas no caso de projectos promovidos por PME, ou 45% nos restantes casos."
+  },
+  "36558c8f6ccc8ffe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Capital de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Capital de risco"
+  },
+  "40ea68f3d55c3760": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Capital de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Capital de risco\n\n1 - Para além dos incentivos referidos nos artigos anteriores, os projectos de investimento enquadráveis e aprovados no quadro da alínea d) do artigo 17.º do presente Regulamento podem beneficiar de uma co-intervenção de capital de risco nas condições constantes do artigo seguinte.\n\n2 - O apoio referido no número anterior consiste no desconto da operação de capital de risco até 40% do seu valor, no limite de (euro) 500000 por operação."
+  },
+  "e26ffe9386ed7a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Condições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições específicas\n\n1 - Para efeitos do disposto no artigo anterior, e no âmbito da candidatura ao presente Regulamento de projectos de investimento enquadráveis na alínea d) do artigo 17.º do presente Regulamento, o respectivo promotor deve apresentar uma decisão favorável de intervenção de capital de risco por um operador legal de mercado.\n\n2 - Os apoios a que se refere o n.º 2 do artigo anterior concretizam-se através de um fundo de desconto a criar para o efeito no âmbito do Programa Operacional de Economia."
+  },
+  "b8c1d954091a5544": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das candidaturas e do processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das candidaturas e do processo de decisão"
+  },
+  "5dc8769acaf59ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º"
+  },
+  "4ab40d1be8e5b9d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Apresentação e tramitação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Apresentação e tramitação da candidatura\n\n1 - Os projectos enquadráveis nas alíneas a) e b) do artigo 17.º do presente Regulamento são entregues na direcção regional de economia territorialmente competente:\n\na) Pelo promotor e após a aprovação da pré-candidatura, a que se refere o n.º 6 do artigo 8.º do presente Regulamento, no caso dos da alínea a);\n\nb) Pelo promotor, por si e em representação dos restantes, e após a aprovação da candidatura, a que se refere o n.º 5 do artigo 13.º do presente Regulamento, no caso dos da alínea b).\n\n2 - A direcção regional referida no número anterior procede à validação da candidatura no prazo máximo de 5 dias úteis, enviando cópia da mesma para os organismos especializados, quando aplicável, que emitem parecer a remeter à direcção regional de economia no prazo máximo de 20 dias úteis.\n\n3 - Atento o n.º 2 do presente artigo, a direcção regional procede à sua análise, no que respeita às condições de elegibilidade e cálculo de incentivo, no prazo máximo de 30 dias úteis.\n\n4 - Concluída a análise a que se refere o número anterior, a direcção regional de economia territorialmente competente remete, no prazo de 5 dias úteis, cópia do processo de candidatura ao Instituto de Financiamento e Apoio ao Turismo para parecer no prazo de 15 dias úteis.\n\n5 - Recolhido o parecer a que se refere o número anterior, a direcção regional de economia submete a proposta de decisão quanto à concessão do incentivo à unidade de gestão territorialmente competente.\n\n6 - Cabe ao presidente da unidade de gestão territorialmente competente submeter a proposta de decisão final ao Ministro da Economia.\n\n7 - O acto que, nos termos do número anterior, decidir do pedido de concessão do incentivo é notificado ao promotor pela respectiva direcção regional de economia no prazo máximo de seis dias úteis a contar da recepção da decisão referida no mesmo número, sendo o Instituto de Financiamento e Apoio ao Turismo informado, por aquela direcção regional e no mesmo prazo, do teor daquele acto.\n\n8 - Quando a decisão quanto ao pedido de concessão for favorável, o organismo coordenador envia ao promotor, no prazo de seis dias úteis após a recepção da informação a que se refere o número anterior, a minuta do contrato de concessão de incentivos a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, e procede ao pedido dos documentos necessários para a celebração do contrato."
+  },
+  "54e9df274388851d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º"
+  },
+  "e53ffac3e39c86fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Organismos gestores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Organismos gestores\n\n1 - No âmbito dos projectos referidos nas alíneas c) e d) do artigo 17.º do presente Regulamento, são organismos gestores:\n\na) Organismo coordenador, o que assegura a interlocução com o promotor e a coordenação global da gestão do projecto;\n\nb) Organismos especializados, os que suportam, sob o ponto de vista técnico, as competências específicas necessárias à avaliação do projecto nos termos definidos no n.º 2 do artigo seguinte.\n\n2 - Os organismos coordenadores, para efeitos do disposto na alínea a) do número anterior, são:\n\na) ICEP - Investimento, Comércio e Turismo de Portugal em articulação com a direcção regional de economia territorialmente competente, para os projectos de investimento estrangeiro de primeira instalação no País, ou do regime contratual;\n\nb) IFT - Instituto de Financiamento e Apoio ao Turismo em articulação com a direcção regional de economia territorialmente competente, para os restantes projectos.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1 do presente artigo, e sem prejuízo de outros que venham a ser designados pelo Ministro da Economia, os organismos especializados são:\n\na) O ICEP - Investimento, Comércio e Turismo de Portugal, para a área de promoção e marketing;\n\nb) O IPQ - Instituto Português da Qualidade, para as áreas da gestão, qualidade, ambiente e segurança;\n\nc) DGE - Direcção-Geral da Energia, para a área de investimento em eficiência energética;\n\nd) DGA - Direcção-Geral do Ambiente, para as questões ambientais.\n\n4 - As funções de organismos especializados para as componentes de investimento de inovação e tecnologia e qualificação de recursos humanos são exercidas pelas estruturas e organismos a designar pelo Ministro da Economia."
+  },
+  "692c6e277d733aae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competências\n\n1 - Compete ao organismo coordenador, em articulação com a direcção regional de economia territorialmente competente, de acordo com as respectivas atribuições, nomeadamente:\n\na) A análise das condições de elegibilidade do promotor e do projecto;\n\nb) O cálculo da valia económica do projecto;\n\nc) O cálculo do montante do incentivo a atribuir;\n\nd) A elaboração de proposta de decisão quanto ao pedido de concessão;\n\ne) A coordenação dos contactos dos diversos organismos com o promotor e a comunicação da decisão ao promotor;\n\nf) A celebração, com os respectivos promotores, dos contratos de concessão de incentivos;\n\ng) O acompanhamento global dos projectos, em articulação com os organismos intervenientes, o acompanhamento técnico e físico e a verificação da execução dos projectos;\n\nh) O pagamento dos incentivos;\n\ni) A avaliação da atribuição do prémio de realização a submeter à unidade de gestão territorialmente competente;\n\nj) A realização de auditorias às declarações de despesas de investimento;\n\nl) A elaboração de proposta de encerramento dos projectos.\n\n2 - Compete aos organismos especializados a emissão de parecer quanto à consistência técnica dos projectos de investimento e a intervenção articulada com o organismo coordenador no acompanhamento dos projectos, no âmbito das respectivas áreas, sempre que, em face da natureza e tipologia do investimento, tal se justifique."
+  },
+  "60120179d6c28dac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Apresentação de candidaturas\n\n1 - As candidaturas são enviadas pela Internet, através de formulário electrónico, nos termos do disposto na Resolução do Conselho de Ministros n.º 60/98, de 6 de Maio, ou apresentadas, em formato de formulário electrónico, nas direcções regionais de economia territorialmente competentes.\n\n2 - As direcções regionais referidas no número anterior recepcionam as candidaturas, verificam se contêm as informações, declarações e documentos regulamentarmente exigidos, encaminhando-as, de seguida, para o organismo coordenador."
+  },
+  "98dbd9489d0b75c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Documentos\n\n1 - Com a candidatura ou, no caso de envio da mesma pela Internet, no prazo máximo de três dias úteis a contar da data daquele envio, o promotor deve juntar àquela a cópia do projecto de arquitectura e respectivo parecer, ou da memória descritiva, se for o caso, aprovado pela entidade legalmente competente.\n\n2 - Sem prejuízo do disposto no número seguinte, o promotor deve possuir nas suas instalações, devidamente organizado e actualizado, em dossier, os seguintes documentos:\n\na) Parecer do Serviço Nacional de Bombeiros, quanto à memória descritiva dos projectos que não careçam de aprovação, bem como, sendo o caso, averbamento no respectivo alvará de alteração da titularidade da entidade proprietária/exploradora;\n\nb) Declaração de interesse para o turismo, emitida pela Direcção-Geral do Turismo, no caso dos projectos a que se refere a alínea b) do n.º 1 do artigo 21.º do presente Regulamento;\n\nc) Licença de actividade relativamente ao promotor, quando exigível, bem como a licença de utilização do empreendimento a apoiar, relativamente a empreendimentos já existentes;\n\nd) Cópia do contrato de sociedade ou estatutos e certidão actualizada com todas as inscrições em vigor, emitida pela conservatória do registo comercial competente, quando o promotor for uma pessoa colectiva;\n\ne) Modelos IRC ou IRS do promotor relativos aos três anos anteriores à data da candidatura;\n\nf) Documentos comprovativos do preenchimento das condições de acesso previstas na alínea e) do n.º 1 do artigo 20.º;\n\ng) Declaração de intenção de financiamento por parte da entidade financiadora, quando haja recurso a capitais alheios;\n\nh) Acta da assembleia geral do promotor, quando se tratar de pessoas colectivas, deliberativa:\n\nDa realização de suprimentos, ou o respectivo contrato de suprimentos;\n\nDa realização, se previstas no contrato de sociedade, de prestações suplementares;\n\nDo aumento de capital social, no caso de projectos em cuja cobertura financeira se encontre prevista qualquer dessas formas de financiamento;\n\ni) Orçamentos comprovativos dos montantes de investimento do projecto;\n\nj) Documentos necessários à comprovação da qualidade de PME, quer no que respeita às entidades participantes, quer no que respeita às entidades participadas;\n\nl) Proposta da garantia a constituir para garantia do reembolso do incentivo reembolsável, ou da parcela reembolsável do incentivo;\n\nm) Declaração do promotor assumindo o compromisso de afectação do empreendimento à actividade turística por um período não inferior ao prazo a que se refere a alínea h) do n.º 1 do artigo 20.º do presente Regulamento.\n\n3 - A inserção dos documentos no dossier referido no número anterior pode ocorrer, no caso daqueles que visam comprovar as condições de elegibilidade referidas no n.º 2 do artigo 20.º do presente Regulamento, bem como os enunciados nas alíneas a) e h) do número anterior, até à data da celebração do contrato de concessão de incentivos."
+  },
+  "560a1bf194a00531": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Esclarecimentos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Esclarecimentos complementares\n\n1 - No decorrer da avaliação da candidatura, o organismo coordenador pode solicitar ao promotor do projecto os esclarecimentos complementares, incluindo os documentos a que se refere o n.º 2 do artigo anterior, a prestar no prazo máximo de 15 dias úteis, decorridos os quais a ausência de resposta significa a desistência da candidatura.\n\n2 - O prazo previsto no n.º 1 do artigo seguinte suspende-se sempre que, nos termos do número anterior, sejam solicitados esclarecimentos complementares ao promotor."
+  },
+  "97393adff7bc54de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Processo de decisão\n\n1 - No prazo de 60 dias úteis a contar da data da candidatura, ou, no caso dos projectos âncora, da data da declaração do respectivo programa como PITER, o organismo coordenador em articulação com a direcção regional de economia territorialmente competente elabora, atenta a sua análise da candidatura e o teor dos pareceres a que se refere o n.º 2 do artigo 42.º do presente Regulamento, proposta única de decisão quanto ao pedido de concessão do incentivo.\n\n2 - Para os efeitos do disposto no número anterior, os organismos especializados remetem ao organismo coordenador os respectivos pareceres no prazo de 30 dias úteis a contar da recepção por aqueles dos elementos essenciais à emissão dos mesmos.\n\n3 - Concluída a análise, a direcção regional de economia apresenta a proposta única de decisão referida no n.º 1 do presente artigo junto da unidade gestão territorialmente competente.\n\n4 - Cabe à unidade de gestão referida no número anterior, no prazo de 15 dias úteis a contar da recepção da proposta referida no n.º 1 do presente artigo, emitir proposta de decisão quanto ao pedido de concessão do incentivo, a submeter pelo gestor ao Ministro da Economia.\n\n5 - O acto que, nos termos do número anterior, decidir do pedido de concessão do incentivo é notificado ao promotor pela respectiva direcção regional de economia no prazo máximo de seis dias úteis a contar da recepção da decisão referida no mesmo número, sendo o organismo coordenador informado, por aquela direcção regional e no mesmo prazo, do teor daquele acto.\n\n6 - Quando a decisão quanto ao pedido de concessão for favorável, o organismo coordenador envia ao promotor, no prazo de seis dias úteis após a recepção da informação a que se refere o número anterior, a minuta do contrato de concessão de incentivos a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, e procede ao pedido dos documentos necessários para a celebração do contrato."
+  },
+  "aa1b4b94d2ae9cac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do contrato de concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do contrato de concessão de incentivos"
+  },
+  "e67574452383511e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Contrato de concessão de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contrato de concessão de incentivos\n\n1 - Sem prejuízo do disposto no número seguinte, a concessão do incentivo, sob qualquer das formas previstas no presente Regulamento, é objecto de um contrato a celebrar entre o organismo coordenador e o promotor do projecto, nos termos da minuta referida no n.º 6 do artigo anterior e no n.º 8 do artigo 40.º do presente Regulamento.\n\n2 - No caso dos projectos enquadráveis na alínea b) do artigo 17.º do presente diploma, o contrato referido no número anterior é celebrado entre o Instituto de Financiamento e Apoio ao Turismo e todos os promotores daqueles projectos, incluindo o promotor, em regime de solidariedade.\n\n3 - Sem prejuízo do disposto no número seguinte, a não celebração do contrato, por razões imputáveis às entidades beneficiárias, no prazo de 20 dias úteis contados da data da notificação a que se refere o n.º 6 do artigo anterior, determina a caducidade da decisão de concessão do incentivo.\n\n4 - O prazo referido no número anterior pode ser prorrogado por igual período, pelo organismo coordenador, sempre que se verifiquem motivos atendíveis."
+  },
+  "0f87452c9c38ae11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Obrigações dos promotores\n\nConstituem obrigações dos promotores:\n\na) Executar o projecto de investimento nos termos e prazos fixados no contrato de concessão de incentivos;\n\nb) Afectar o empreendimento à actividade turística pelo período a que se refere a alínea h) do n.º 1 do artigo 20.º do presente Regulamento;\n\nc) Reembolsar o incentivo reembolsável ou a parcela reembolsável do incentivo nos termos a que se refere o n.º 1 do artigo 33.º do presente Regulamento;\n\nd) Manter a situação regularizada perante a administração fiscal, a segurança social e a entidade pagadora do incentivo;\n\ne) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade;\n\nf) Comunicar ao organismo coordenador qualquer alteração ou ocorrência que ponha em causa os pressupostos que determinaram a concessão do incentivo;\n\ng) Constituir conta ou contas bancárias específicas por onde são movimentados, em exclusivo, todos os recebimentos e pagamentos respeitantes à execução do projecto de investimento;\n\nh) Cumprir as disposições reguladoras da instalação e exploração do empreendimento comparticipado, nomeadamente no que diz respeito à manutenção ou obtenção, até ao termo final da execução do projecto, das licenças ambientais legalmente exigidas, bem como, sendo o caso, assegurar a manutenção dos pressupostos que determinaram a concessão da declaração de interesse para o turismo;\n\ni) Não dar de exploração, locar, alienar ou onerar, sem consentimento prévio do organismo coordenador, o empreendimento comparticipado e os bens de equipamento adquiridos para realização do projecto;\n\nj) Fornecer nos prazos estabelecidos, em qualquer fase do procedimento, todos os elementos, nomeadamente os constantes do dossier referido no n.º 2 do artigo 44.º do presente Regulamento, que forem solicitados pelo organismo coordenador, ou por entidades por este mandatadas, para efeitos de fiscalização e acompanhamento do projecto."
+  },
+  "0e6ee403e4d444cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Acompanhamento e controlo\n\n1 - Sem prejuízo de outros mecanismos que venham a ser adoptados, o acompanhamento e controlo da execução do projecto são efectuados, em qualquer altura do processo, com base nos seguintes documentos:\n\na) Sem prejuízo do disposto nos n.os 2 e 3 do presente artigo, a verificação financeira do projecto tem por base a declaração de despesa de investimento, subscrita por um revisor oficial de contas, na qual este confirma a realização e o pagamento das despesas de investimento, a existência do fluxo financeiro associado, o correcto lançamento e contabilização das mesmas na contabilidade do promotor, bem como a inexistência de qualquer nota de crédito relativa àquelas despesas ou a anteriores;\n\nb) A verificação física do projecto tem por base um relatório de execução do projecto, a elaborar pelo organismo coordenador, o qual confirma o estado de realização material do projecto.\n\n2 - Sem prejuízo do disposto na alínea a) do número anterior, o organismo coordenador pode, sempre que o entenda necessário, solicitar ao promotor o envio dos documentos justificativos do pagamento de despesas relativos a cada uma das declarações referidas naquela alínea, nomeadamente para efeitos de auditoria.\n\n3 - Em casos devidamente justificados, a declaração de despesa de investimento a que se refere a alínea a) do n.º 1 do presente artigo pode ser substituída pelo envio ao organismo coordenador dos documentos justificativos do pagamento das despesas relativas ao investimento, devendo o promotor declarar, nesse momento, a existência dos fluxos financeiros associados ao pagamento daqueles documentos, bem como a inexistência de qualquer nota de crédito relativa às despesas apresentadas ou a anteriores.\n\n4 - Sem prejuízo do disposto nos números anteriores e no n.º 3 do artigo 9.º do presente diploma, o acompanhamento e controlo da execução dos projectos do presente diploma é realizado pelo organismo coordenador em articulação com a direcção regional de economia."
+  },
+  "f4646a0716a9fab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Apoio do IFT aos projectos de natureza pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Apoio do IFT aos projectos de natureza pública"
+  },
+  "78021d77b9ecbdc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Âmbito do apoio do IFT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Âmbito do apoio do IFT\n\nNo caso de o investimento de natureza pública constante do PITER relativo a projectos de natureza estruturante como tal classificados nos termos do n.º 1 do artigo 14.º do presente Regulamento, ainda que não enquadrável nos projectos referidos no artigo 17.º do mesmo Regulamento, ter por objecto a realização de infra-estruturas ou outras iniciativas públicas de relevância para o turismo, é o mesmo analisado pelo IFT e, no decurso da apreciação da candidatura referida no artigo 10.º, é susceptível de ser financiado, em parte, pelo IFT, nos termos do n.º 6.º do anexo A ao presente Regulamento e, em parte, do Regulamento de Crédito do IFT."
+  },
+  "2e14fcb259e9fd3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entidades beneficiárias\n\n1 - No caso de o apoio financeiro referido no artigo anterior ter por destinatário uma autarquia local, é o mesmo objecto de um acordo de colaboração ou contrato-programa, a celebrar, nos termos da legislação aplicável, entre o Instituto de Financiamento e Apoio ao Turismo, a câmara municipal respectiva e qualquer outra entidade relacionada com o projecto.\n\n2 - No caso de o apoio financeiro referido no artigo anterior ter por destinatários outras entidades que não as previstas no número anterior, é o apoio objecto de um contrato a celebrar nos termos da legislação em vigor entre o IFT, o promotor e qualquer outra entidade relacionada com o projecto.\n\n3 - Caso não sejam adoptados outros mecanismos para o efeito, o acompanhamento e controlo dos projectos a que se refere o presente artigo são efectuados nos termos do artigo 49.º do presente Regulamento, com as necessárias adaptações."
+  },
+  "672bca4f664985d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Regiões Autónomas"
+  },
+  "376c1db38e1e72ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Fases de pré-candidatura PITER e candidatura PITER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Fases de pré-candidatura PITER e candidatura PITER\n\n1 - Na fase de pré-candidatura, são exercidas pelo Instituto de Financiamento e Apoio ao Turismo as competência que estão cometidas às direcções regionais de economia nos artigos 5.º, 7.º e 8.º do presente Regulamento, que são aplicados com as necessárias adaptações.\n\n2 - Na fase de candidatura, são exercidas pelo Instituto de Financiamento e Apoio ao Turismo as competências que estão cometidas às direcções regionais de economia nos artigos 10.º, 12.º, e 13.º do presente Regulamento, que são aplicados com as necessárias adaptações.\n\n3 - A tramitação e o processo de decisão são aplicados com as necessárias adaptações em função do exposto nos n.os 1 e 2 do presente artigo."
+  },
+  "8032bce203543aad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Candidaturas ao sistema de incentivos associado ao PITER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Candidaturas ao sistema de incentivos associado ao PITER\n\n1 - No âmbito das candidaturas ao sistema de incentivos associado ao PITER, são exercidas pelos organismos coordenadores as competências que estão cometidas às direcções regionais de economia no artigo 40.º do presente diploma, que é aplicado com as necessárias adaptações.\n\n2 - Compete à unidade de gestão do Programa Operacional de Economia, no quadro das candidaturas ao sistema de incentivos associado ao PITER relativas às Regiões Autónomas, submeter a proposta de decisão final ao Ministro da Economia."
+  },
+  "96b4e8eaccfe08f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Serviços regionais de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Serviços regionais de turismo\n\nAs competências cometidas à Direcção-Geral do Turismo no presente Regulamento são exercidas nas Regiões Autónomas pelos respectivos serviços regionais de turismo."
+  },
+  "51769c018d2b9892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias"
+  },
+  "1fb13855e509320c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Conceitos\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Projectos de construção» e «Projectos de instalação» os que envolvem o início da exploração de um empreendimento turístico;\n\nb) «Projectos de remodelação e ampliação» os que tenham por objecto unidades já afectas à exploração turística;\n\nc) «Regime de minimis» o incentivo a conceder não pode ultrapassar o montante de (euro) 100000, contabilizando-se nesse valor os incentivos concedidos à mesma empresa, de acordo com a mesma regra, no período de três anos;\n\nd) «Equivalente de subvenção bruta» o correspondente à soma do incentivo não reembolsável com os juros e outros encargos actualizados de acordo com metodologia definida pela Comissão Europeia;\n\ne) «Zona da Grande Lisboa» e «zona de Lisboa e Vale do Tejo» tal como delimitada no anexo C ao presente Regulamento;\n\nf) «Projecto âncora» um projecto de natureza pública ou privada que se afigura indispensável para a materialização da estratégia do PITER e sem o qual os respectivos objectivos não se alcançam;\n\ng) «Trabalhadores desfavorecidos» os enunciados na alínea g) do artigo 2.º do Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001."
+  },
+  "5b6151a22bdd0d59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Disposições transitórias\n\n1 - São susceptíveis de acesso ao presente Regulamento os programas candidatos a PITER no quadro do Despacho Normativo n.º 35/98, de 28 de Maio, que não tenham sido objecto de decisão definitiva.\n\n2 - São ainda susceptíveis de acesso ao presente Regulamento os PITER aprovados no quadro do despacho normativo referido no número anterior, cuja decisão de aprovação tenha caducado por incumprimento do prazo de execução dos mesmos, desde que, cumulativamente:\n\na) Se mantenham os pressupostos que determinaram a aprovação do programa;\n\nb) Seja apresentada a candidatura ao presente Regulamento até 60 dias úteis após a data de publicação do presente Regulamento, sem prejuízo do disposto na regulamentação específica do Fundo Social Europeu.\n\n3 - Os programas referidos nos números anteriores ficam sujeitos ao integral cumprimento das condições previstas no presente Regulamento, à excepção da referida na alínea e) do n.º 1 do seu artigo 3.º\n\n4 - Os projectos âncora de natureza privada integrados num PITER aprovado ao abrigo do Despacho Normativo n.º 35/98, de 28 de Maio, considerados fundamentais para a definição da estratégia do PITER em que se incluem são susceptíveis de apoio no quadro da alínea d) do artigo 17.º do presente Regulamento, desde que, cumulativamente:\n\na) Cumpram integralmente as condições de elegibilidade constantes do presente Regulamento, à excepção da prevista na alínea d) do n.º 1 do artigo 21.º, desde que a candidatura seja apresentada até 60 dias úteis após a entrada em vigor do presente Regulamento, e as respectivas obras tenham tido início depois de 1 de Julho de 1999;\n\nb) O montante de investimento inerente à execução do projecto não afecte os limites a que se refere a alínea b) do n.º 1 do artigo 11.º do presente Regulamento;\n\nc) O prazo de execução do projecto se enquadre no prazo de execução do PITER onde o mesmo se inclui."
+  },
+  "21e84fcd34d882b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A — 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — 1.º\n\nPara efeitos do disposto no n.º 1 do artigo 6.º do presente Regulamento, são seleccionáveis os programas que, de acordo com a notação de Muito forte, Forte, Médio e Fraco, preencham com, pelo menos, Forte o critério referido na alínea a) daquele preceito regulamentar e Médio os critérios previstos nas restantes alíneas.\n\n2.º\n\n1 - Para efeitos do disposto na alínea g) do n.º 1 do artigo 20.º do presente Regulamento, considera-se que as pessoas colectivas promotoras de projectos de investimento possuem um situação económico-financeira equilibrada quando apresentem um rácio de autonomia financeira pré-projecto de, no mínimo, 25%.\n\n2 - A autonomia financeira referida no número anterior é calculada através da seguinte fórmula:\n\nAF = (Cpe x 100)/Ale\n\nem que:\n\nCpe = capitais próprios da empresa no exercício anterior ao da apresentação da candidatura, incluindo os suprimentos que não excedam um terço daqueles, desde que venham a ser incorporados em capital próprio até à data da celebração do contrato de concessão de incentivos;\n\nAle = activo líquido da empresa no exercício anterior ao da apresentação da candidatura.\n\n3 - No caso de as empresas não cumprirem no ano anterior ao da candidatura os parâmetros definidos no número anterior, podem apresentar um balanço intercalar legalmente certificado por um revisor oficial de contas com vista à análise da sua situação financeira à data da candidatura.\n\n4 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro da Economia ajustar os requisitos enunciados no presente número.\n\n3.º\n\n1 - Para efeitos do disposto na alínea c) do n.º 2 do artigo 21.º do presente Regulamento, consideram-se adequadamente financiados com capitais próprios os projectos de investimento cujo investimento elegível seja coberto por um mínimo de 25% de capitais próprios, calculado nos termos de uma das fórmulas seguintes:\n\n[(CPe + CPp) x 100]/(Ale + Ip)\n\nou\n\n(CPp x 100)/p\n\nem que:\n\nCPe = capitais próprios da empresa no exercício anterior ao da apresentação da candidatura, incluindo os suprimentos que não excedam um terço daqueles, desde que venham ser incorporados em capital próprio até à data de celebração do contrato de concessão de incentivos;\n\nCPp = capitais próprios do projecto, incluindo suprimentos que não excedam um terço daqueles, desde que venham a ser incorporados em capital próprio até à conclusão material e financeira do projecto;\n\nAle = activo líquido da empresa no exercício anterior ao da apresentação da candidatura;\n\nIp = montante do investimento elegível do projecto.\n\n2 - Para efeitos de determinação dos capitais próprios da empresa, é aplicável o disposto no n.º 3 do número anterior.\n\n4.º\n\n1 - A valia económica dos projectos de investimento, para efeitos do disposto no n.º 2 do artigo 22.º do presente Regulamento, é calculada através da soma das pontuações obtidas para cada um dos critérios, ponderadas com base nos seguintes coeficientes:\n\na) Tratando-se de projectos promovidos por novas empresas:\n\nAdequação do projecto aos objectivos do PITER: 0,80;\n\nQualificação do risco: 0,20;\n\nde acordo com a fórmula: VE = 0,80 A + 0,20 B;\n\nb) Tratando-se de projectos promovidos por empresas já existentes:\n\nAdequação do projecto aos objectivos do PITER: 0,65;\n\nQualificação do risco: 0,35;\n\nde acordo com a fórmula: VE = 0,65 A + 0,35 B;\n\nem que:\n\nVE = valia económica;\n\nA = pontuação obtida no critério «Adequação» do projecto aos objectivos do PITER;\n\nB = pontuação obtida no critério «Qualificação do risco».\n\n2 - A pontuação do critério «Adequação» do projecto aos objectivos do PITER é obtida pelo grau de intensidade do projecto, de acordo com o disposto no número seguinte, no preenchimento dos seguintes subcritérios:\n\nA1 - Adequação do projecto aos objectivos do PITER;\n\nA2 - Contribuição do projecto para a implementação da estratégia do PITER;\n\nA3 - Inserção em cadeias de valor com potencial de crescimento e grau de inovação dos produtos ou serviços e dos processos de organização e gestão, observando-se os seguintes factores de valorização:\n\nNovas tecnologias;\n\nFormas avançadas de organização do trabalho ou de gestão global;\n\nRedimensionamento empresarial;\n\nNovas formas de comercialização e ligação a centrais de reservas;\n\nA4 - Contributo do projecto para o cumprimento dos requisitos de política de qualidade, para a certificação ambiental ou para a promoção da eficiência energética;\n\nA5 - Criação e qualificação do emprego, observando-se os seguintes factores de valorização:\n\nNível de qualificação dos recursos humanos existentes e a criar;\n\nAdequação do quadro de pessoal à estrutura do empreendimento.\n\n3 - A pontuação a atribuir ao critério «Adequação» do projecto aos objectivos do PITER, de acordo com a notação de Muito forte, Forte, Médio ou Fraco, considerando as três melhores notações dos seus cinco subcritérios, é de:\n\na) 100, quando o subcritério A1 ou A2 com Muito forte e, pelo menos, outro subcritério com Muito forte ou outros dois com Forte;\n\nb) 70, quando o subcritério A1 ou A2 com Muito forte e, pelo menos, outro subcritério com Forte, ou o subcritério A1 ou A2 com Forte e, pelo menos, outro subcritério com Muito forte ou outros dois com Forte;\n\nc) 40, quando, pelo menos, o subcritério A1 ou A2 com Forte;\n\nd) 0, noutras situações.\n\n4 - No critério «Qualificação do risco», que tem por objectivo a avaliação do risco do projecto na óptica da entidade coordenadora e da aplicação dos meios orçamentais do Programa Operacional de Economia, são considerados os seguintes indicadores quantitativos e qualitativos:\n\na) Tratando-se de empresas já existentes:\n\nB1 - Capacidade técnica e de gestão do promotor, avaliada, nomeadamente, em função da concretização de projectos anteriormente aprovados por programas públicos, do domínio dos mercados e tecnologias, bem como do curriculum da equipa de gestão;\n\nB2 - Notação externa do risco da empresa e envolvimento de agentes externos no financiamento do projecto:\n\nNível de capitais próprios;\n\nIntervenção de instituições financeiras no financiamento do projecto e nível da taxa de juro do empréstimo bancário associado ao projecto;\n\nQualificações do risco efectuadas por entidades com credibilidade reconhecida, tais como PME-Excelência, Excelência-SPQ, PEX-PME e Rating;\n\nB3 - Certificação legal de contas, avaliada em função da existência de certificação legal de contas por um revisor oficial de contas e do tipo de reservas, ênfases ou anotações que contenha;\n\nb) Tratando-se de empresas novas, são aplicáveis apenas os subcritérios B1 e B2 referidos na alínea anterior.\n\n5 - No caso de empresas já existentes, a pontuação do critério «Qualificação do risco», obtida em função do grau de preenchimento dos respectivos subcritérios de acordo com a notação a que se refere o n.º 3 do presente número, é de:\n\na) 100, quando, pelo menos, um subcritério com Muito forte e outros dois com Forte;\n\nb) 70, quando, pelo menos, um subcritério com Forte e outros dois com Médio;\n\nc) 40, quando, pelo menos, três critérios com Médio;\n\nd) 20, quando, pelo menos, dois critérios com Médio;\n\ne) 0, em outras situações.\n\n6 - No caso de empresas novas, a pontuação do critério «Qualificação do risco», obtida em função do grau de preenchimento dos respectivos subcritérios de acordo com a notação a que se refere o n.º 3 do presente número, é de:\n\na) 100, quando, pelo menos, um subcritério com Muito forte e o outro com Forte;\n\nb) 70, quando, pelo menos, um subcritério com Forte e o outro com Médio;\n\nc) 40, quando, pelo menos, os dois subcritérios com Médio;\n\nd) 0, em outras situações.\n\n5.º\n\n1 - Para efeitos do disposto no n.º 3 do artigo 31.º do presente Regulamento, o grau de cumprimento do contrato é calculado em função do cumprimento, por parte do promotor, dos seguintes objectivos, tal como propostos no dossier de candidatura e aceites pelo organismo coordenador:\n\nX1 - Prazo de execução do projecto;\n\nX2 - Autonomia financeira pós-projecto;\n\nX3 - Meios libertos operacionais/volume de vendas.\n\n2 - O grau de cumprimento do contrato é determinado pela seguinte fórmula:\n\nFórmula de comprovação\n\nGcc = [0,40(X(índice 1)/X'(índice 1)) + 0,30 (X'(índice 2)/X(índice 2)) + 0,30 (X'(índice 3)/X(índice 3))] x 100\n\nem que:\n\nX(índice 1) é o valor do indicador proposto;\n\nX'(índice 1) é o valor efectivo do objectivo relativo ao projecto.\n\n3 - O prémio de realização a que se refere o artigo 31.º do presente Regulamento, calculado em função do grau de cumprimento do contrato, é de:\n\na) 100% das percentagens máximas referidas no n.º 2 daquele preceito regulamentar, no caso de o grau de cumprimento do contrato ser igual ou superior a 90%;\n\nb) 50% das percentagens máximas referidas no n.º 2 daquele preceito regulamentar, no caso de o grau de cumprimento do contrato ser igual ou superior a 80% e inferior a 90%.\n\n4 - A verificação do cumprimento dos objectivos enunciados no n.º 1 do presente número é efectuada na data da conclusão do projecto, no caso do objectivo X1, no final do exercício da confusão, no caso do objectivo X2, e no final do ano civil que corresponda, no máximo, ao final do 3.º ano após a exploração, no caso do objectivo X3, sem prejuízo dos reembolsos eventualmente já realizados por força do disposto no n.º 1 do artigo 33.º do presente Regulamento.\n\n6.º\n\n1 - O apoio do Instituto de Financiamento e Apoio ao Turismo previsto no artigo 50.º do presente Regulamento, consiste na concessão de um incentivo, sob a forma reembolsável, não reembolsável ou mista, até ao limite de 25% do investimento elegível de cada projecto de natureza pública, através de verbas nacionais do orçamento do IFT.\n\n2 - Entende-se por projecto de natureza pública, para efeitos do disposto no número anterior, aquele que, independentemente da natureza do promotor, tem por objecto a realização de uma obra, de relevância turística, que vise a satisfação de necessidades colectivas e favoreça as extermalidades do conjunto dos projectos constituintes de um PITER, reforçando a concretização da estratégia preconizada naquele.\n\n3 - Para efeitos do disposto no presente número, privilegiam-se projectos que sejam co-financiados por outros sistemas, nomeadamente comunitários, desde que tal seja compatível com os respectivos regulamentos.\n\n4 - São despesas elegíveis todas as que tenham o carácter de investimento em capital fixo.\n\n5 - A intensidade do apoio, atento o limite previsto no n.º 1 do presente número, é graduada, em termos indicativos, em função da valia turística dos projectos, ponderada de acordo com os graus de atractibilidade do projecto, da utilização preponderante por turistas e da operacionalização turística que o projecto confere aos restantes, nos termos do seguinte quadro:\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)"
+  },
+  "0b346a2ec2b2d31a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B\n\nTaxas máximas relativas à formação profissional em equivalente de subvenção bruta [Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001]\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)"
+  },
+  "430fe975f32a3e92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO C — Zonas de modulação regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — Zonas de modulação regional\n\n[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)"
+  },
+  "c5504e9da13a3214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Requisitos da declaração PITER",
+   "in_force_from": "2006-05-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 478/2006](https://diariodarepublica.pt/dr/detalhe/portaria/478-2006-286682), publicado em 2006-05-26."
+   ],
+   "markdown": "###### Artigo 11.º — Requisitos da declaração PITER\n\n1 - A declaração do programa como PITER depende do preenchimento, pelo mesmo, dos seguintes requisitos:\n\na) Possuir uma estratégia clara e adequada às potencialidades da região onde se vai implementar;\n\nb) Envolver, no seu conjunto, e desde a sua configuração inicial, um investimento mínimo em capital fixo de 15 milhões de euros, não podendo o investimento público ser superior a 50% daquele montante, ou 10 milhões de euros no caso de investimento exclusivamente privado;\n\nc) A sua execução não ultrapassar o prazo máximo de quatro anos, salvo em casos devidamente justificados;\n\nd) Apresentar sinergias e complementaridades claras entre as diversas componentes;\n\ne) Demonstrar a existência de cadeias de valor de modo a potenciar os diversos sectores de actividade a montante e a jusante;\n\nf) Produzir efeitos no desenvolvimento e modernização da oferta turística da região em que se localizam, através do aumento da competitividade e reordenamento ou diversificação da oferta, e nas regiões menos desenvolvidas turisticamente, através da criação de oferta turística viável que permita potenciar o desenvolvimento económico regional;\n\ng) Produzir um impacte significativo, ao nível da região, na criação de emprego ou na sua requalificação;\n\nh) Demonstrar um nível de organização interna para a sua execução compatível com os objectivos que pretende alcançar e com os projectos a desenvolver;\n\ni) Destinar-se preponderantemente à captação e utilização por turistas, sem prejuízo do acesso por parte dos residentes;\n\nj) Não se implantar na proximidade de estruturas urbanas ou ambientais degradadas, a não ser que esteja concertada com programas de requalificação urbana ou ambiental em curso;\n\nl) Ser demonstrado o grau de concretização relativo à implementação dos diversos projectos integrantes do PITER.\n\n2 - No momento da apresentação do programa à fase da candidatura PITER, e para além dos requisitos enunciados no número anterior, caso seja intenção dos respectivos promotores candidatar os projectos âncora que integram o programa candidato a qualquer dos sistemas de apoio de natureza nacional ou comunitário vigentes, deve ser apresentada prova da apresentação daqueles projectos a um daqueles sistemas ou, quando não seja aquela a intenção dos promotores, devem encontrar-se as respectivas obras já iniciadas, sem prejuízo do disposto na alínea e) do n.º 1 do artigo 3.º do presente Regulamento.\n\n3 - Sempre que os promotores, para efeitos do disposto no número anterior, optem pela apresentação dos respectivos projectos âncora ao sistema de incentivos associado ao PITER, observar-se-á o seguinte:\n\na) Salvo em casos devidamente justificados e autorizados pelo membro do Governo responsável pelo sector do turismo, a apresentação da respectiva candidatura deve ocorrer no momento da apresentação do programa à fase da candidatura PITER, podendo aquele preceder esta última por período não superior a 30 dias;\n\nb) O não cumprimento do prazo de 30 dias referido na alínea anterior determina a caducidade da candidatura ao sistema de incentivos associado ao PITER;\n\nc) As obras relativas aos projectos âncora que, nos termos da alínea a) do presente número, sejam candidatados ao sistema de incentivos associado ao PITER apenas poderão ter início após a apresentação do programa à fase da candidatura PITER;\n\nd) O prosseguimento para análise da candidatura ao sistema de incentivos é condicionado à declaração do programa onde os mesmos se inserem como PITER, nos termos do n.º 1 do artigo 14.º do presente Regulamento.\n\n4 - No caso de não declaração do programa em causa como PITER, as candidaturas a que se refere o número anterior podem transitar, com as necessárias adaptações, para o sistema de apoio que, atenta a natureza dos projectos, seja aplicável, considerando-se como data de candidatura, para efeitos de início de obra, a da candidatura ao sistema de incentivos associado ao PITER.\n\n5 - Excepcionalmente e em casos devidamente justificados, os limites mínimos de investimento em capital fixo referidos na alínea b) do n.º 1 do presente artigo podem, verificada a conformidade do programa com os objectivos referidos no n.º 1 do artigo 2.º do presente Regulamento, ser ajustados, por despacho do Ministro da Economia, sob proposta do Instituto de Financiamento e Apoio ao Turismo, nomeadamente em função de factores de localização, desenvolvimento regional, natureza e tipologia de projectos, bem como da existência de outras acções integradas já implantadas na mesma área geográfica.\n\n> Alterado pelo/a [Portaria n.º 478/2006](https://diariodarepublica.pt/dr/detalhe/portaria/478-2006-286682), publicado em 2006-05-26."
+  }
+ }
+}

@@ -42,10 +42,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-09'
+version_history:
+  file: decreto-lei-25-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-09'
+    amending: pt:dre:212015:por
+    amending_title: Lei n.º 30-G/2000; Lei n.º 85/2001
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/25/1998/02/10/p/dre/pt/html
@@ -71,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:59:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30-G/2000; Lei n.º 85/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-25-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -561,7 +577,11 @@ b) Fracção da colecta do IRS, calculada antes da dedução, correspondente aos
 
 ###### Artigo 2.º
 
-As prestações que, não sendo consideradas rendimentos do trabalho dependente, sejam devidas a título de pré-reforma, estabelecida de acordo com o [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, são consideradas pensões, nos termos do artigo 11.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro.
+(Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 30-G/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-g-2000-212015), publicado em 2000-12-29.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 85/2001](https://diariodarepublica.pt/dr/detalhe/lei/85-2001-522865), publicado em 2001-08-04.
 
 ###### Artigo 3.º
 

@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522983:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f274cfabd7cb9afb",
+    "9c5b08515fd9ccf1",
+    "4f515ee4996ef854",
+    "8fd2ebd7cc3cf528",
+    "a05953620256409c",
+    "deb2195cbbacf8cc",
+    "8a6e7df1f03e6bf6",
+    "86f39ecf5c400642"
+   ]
+  },
+  {
+   "date": "2001-11-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:603513:por",
+     "title": "Portaria n.º 1273/2001",
+     "published": "2001-11-13",
+     "dre_path": "/dr/detalhe/portaria/1273-2001-603513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "f274cfabd7cb9afb",
+    "9c5b08515fd9ccf1",
+    "4f515ee4996ef854",
+    "4fbd93b38d7c53db",
+    "93cb013086d7f167",
+    "deb2195cbbacf8cc",
+    "8a6e7df1f03e6bf6",
+    "86f39ecf5c400642"
+   ]
+  }
+ ],
+ "fragments": {
+  "f274cfabd7cb9afb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Agosto\n\nO Acordo de Cooperação em Matéria de Pesca com Marrocos terminou no dia 30 de Novembro de 1999.\n\nDesde então, a frota que operava ao abrigo do citado Acordo permaneceu imobilizada, tendo sido adoptada, ao abrigo da alínea b) do artigo 16.º do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), uma medida de apoio a seu favor, por um período inicial de seis meses, cujo Regulamento foi aprovado pela Portaria n.º 5-C/2000, de 5 de Janeiro, face à necessidade de se evitar rupturas de carácter social no decurso da negociação de um novo acordo com Marrocos. A morosidade do processo levou a que, após apresentação e aprovação pela Comissão Europeia do plano de reconversão da frota envolvida, a medida de apoio então em vigor fosse prorrogada por idêntico período, tendo sido publicada a Portaria n.º 393-B/2000, de 12 de Junho.\n\nDe acordo com o Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), de 17 de Dezembro, o período máximo de concessão de indemnizações a título de uma paragem temporária motivada pela não renovação de um acordo de pesca é de um ano, pelo que a continuidade do regime de apoio em vigor, por forma a permitir a execução do plano de reconversão da frota envolvida, determinou a criação da necessária base jurídica, que se encontra consubstanciada no Regulamento (CE) n.º [1227/2001](http://data.europa.eu/eli/reg/2001/1227/oj?locale=pt), de 18 de Junho, aplicável a partir de 1 de Janeiro do corrente ano.\n\nAssim:\n\nAo abrigo do artigo 1.º do citado Regulamento (CE) n.º [1227/2001](http://data.europa.eu/eli/reg/2001/1227/oj?locale=pt), manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento do Regime de Apoio à Cessação Temporária da Actividade das Embarcações e Tripulantes Que Operavam ao Abrigo do Acordo de Cooperação em Matéria de Pesca entre a Comunidade Europeia e Marrocos, que faz parte integrante da presente portaria.\n\n2.º A presente portaria produz efeitos desde 1 de Janeiro de 2001 e cessa a sua vigência em 31 de Dezembro do mesmo ano.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 13 de Julho de 2001.\n\nREGULAMENTO DO REGIME DE APOIO À CESSAÇÃO TEMPORÁRIA DA ACTIVIDADE DAS EMBARCAÇÕES E TRIPULANTES QUE OPERAVAM AO ABRIGO DO ACORDO DE COOPERAÇÃO EM MATÉRIA DE PESCA ENTRE A COMUNIDADE EUROPEIA E MARROCOS."
+  },
+  "9c5b08515fd9ccf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento estabelece o regime de apoio à cessação temporária da actividade das embarcações que operavam ao abrigo do Acordo de Cooperação em Matéria de Pesca entre a Comunidade Europeia e o Reino de Marrocos, doravante designado por Acordo."
+  },
+  "4f515ee4996ef854": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\n1 - Constituem objectivos deste Regulamento:\n\na) A concessão de prémios mensais de imobilização temporária aos armadores que, estando licenciados para operar ao abrigo do Acordo, se viram impossibilitados de manter a sua actividade normal devido à sua não renegociação; e\n\nb) O pagamento de uma compensação salarial mensal aos respectivos tripulantes e trabalhadores em terra.\n\n2 - O tempo de imobilização temporária considera-se para todos os efeitos como actividade efectiva."
+  },
+  "8fd2ebd7cc3cf528": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Os prémios de imobilização temporária são atribuídos aos armadores que deles beneficiaram durante o ano 2000, ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, e cujas embarcações se mantinham imobilizadas em 1 de Janeiro de 2001.\n\n2 - As compensações salariais são atribuídas:\n\na) Aos tripulantes que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, e que se encontravam matriculados nas embarcações imobilizadas em 1 de Janeiro de 2001;\n\nb) Aos trabalhadores que exerciam em terra uma actividade directamente ligada às citadas embarcações e que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, mantendo-se ao seu serviço em 1 de Janeiro de 2001.\n\n3 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações naufragadas que, à data do naufrágio, estavam licenciadas ao abrigo do Acordo podem ser beneficiários desta medida de apoio a partir da data em que a nova unidade esteja em condições para iniciar a sua actividade.\n\n4 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações imobilizadas ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, mantêm-se beneficiários desta medida a partir do registo na pesca da nova unidade."
+  },
+  "a05953620256409c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Impedimentos\n\n1 - Os armadores e os tripulantes beneficiários de apoio ao abrigo do presente Regulamento não podem exercer qualquer actividade remunerada durante todo o período de tempo abrangido por aquele nem podem os últimos cumular a compensação salarial com qualquer outra prestação de protecção de desemprego.\n\n2 - Retomando uma embarcação a actividade, cessa o pagamento do prémio de imobilização temporária atribuído ao armador e as compensações salariais aos respectivos tripulantes e trabalhadores de terra.\n\n3 - Caso os beneficiários do apoio retomem a actividade, devem proceder à devolução do prémio e compensação salarial relativos ao mês em causa, indevidamente recebidos pro rata temporis, ficando impedidos de apresentar nova candidatura."
+  },
+  "deb2195cbbacf8cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante dos apoios\n\n1 - Os prémios de imobilização são pagos de acordo com a tabela constante do anexo do presente Regulamento.\n\n2 - A compensação salarial a atribuir aos tripulantes e aos trabalhadores em terra é de (euro) 670 por tripulante ou trabalhador e por mês."
+  },
+  "8a6e7df1f03e6bf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Candidaturas e pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas e pagamento dos apoios\n\n1 - As candidaturas apresentadas e aprovadas ao abrigo da Portaria n.º 5-C/2000, de 5 de Janeiro, mantêm-se no âmbito do presente Regulamento, competindo à Direcção-Geral das Pescas e Aquicultura a verificação do cumprimento das condições de atribuição dos apoios.\n\n2 - A concessão dos apoios é objecto de despacho do Secretário de Estado das Pescas.\n\n3 - O pagamento dos apoios previstos neste Regulamento é feito pelo Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas."
+  },
+  "86f39ecf5c400642": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Tabela n.º 1 Cálculo do prémio de imobilização temporária para embarcações com comprimento entre perpendiculares (CPP) até 24 m",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela n.º 1 Cálculo do prémio de imobilização temporária para embarcações com comprimento entre perpendiculares (CPP) até 24 m\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48494850.pdf)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48494850.pdf)\n\nTabela n.º 2\n\nCálculo do prémio de imobilização temporária para embarcações com comprimento entre perpendiculares (CPP) maior que 24 m\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48494850.pdf)](https://files.diariodarepublica.pt/1s/2001/08/181b00/48494850.pdf)"
+  },
+  "4fbd93b38d7c53db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": "2001-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13."
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Os prémios de imobilização temporária são atribuídos aos armadores que deles beneficiaram durante o ano 2000, ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, e cujas embarcações se mantinham imobilizadas em 1 de Janeiro de 2001 ou que, tendo entretanto retomado a actividade, requeiram a sua integração no presente regime.\n\n2 - As competências salariais são atribuídas:\n\na) Aos tripulantes que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, e que se encontravam matriculados nas embarcações imobilizadas em 1 de Janeiro de 2001 ou que se encontravam matriculados nas embarcações à data da cessação do primeiro período de imobilização, mantendo essa situação à data do reinício do novo período de imobilização;\n\nb) Aos trabalhadores que exerciam em terra uma actividade directamente ligada às citadas embarcações e que delas beneficiaram durante o ano 2000, ao abrigo das portarias referidas no n.º 1, mantendo-se ao seu serviço em 1 de Janeiro de 2001, ou que se encontravam directamente ligados às embarcações à data da cessação do primeiro período de imobilização, mantendo essa situação à data do reinício do novo período de imobilização.\n\n3 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações naufragadas que, à data do naufrágio, estavam licenciadas ao abrigo do Acordo podem ser beneficiários desta medida de apoio a partir da data em que a nova unidade esteja em condições para iniciar a sua actividade.\n\n4 - Os proprietários de embarcações de pesca com projectos de construção aprovados que se destinem a substituir embarcações imobilizadas ao abrigo das Portarias n.os 5-C/2000, de 5 de Janeiro, e 393-B/2000, de 12 de Junho, mantêm-se beneficiários desta medida a partir do registo na pesca da nova unidade.\n\n> Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13."
+  },
+  "93cb013086d7f167": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Impedimentos",
+   "in_force_from": "2001-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13."
+   ],
+   "markdown": "###### Artigo 4.º — Impedimentos\n\n1 - Os armadores e os tripulantes beneficiários de apoio ao abrigo do presente Regulamento não podem exercer qualquer actividade remunerada durante todo o período de tempo abrangido por aquele nem podem os últimos cumular a compensação salarial com qualquer outra prestação de protecção de desemprego.\n\n2 - Retomando uma embarcação a actividade, cessa o pagamento do prémio de imobilização temporária atribuído ao armador e as compensações salariais aos respectivos tripulantes e trabalhadores de terra.\n\n3 - Caso os beneficiários do apoio retomem a actividade, devem proceder à devolução do prémio e compensação salarial relativos ao mês em causa, indevidamente recebidos pro rata temporis.\n\n> Alterado pelo/a [Portaria n.º 1273/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1273-2001-603513), publicado em 2001-11-13."
+  }
+ }
+}

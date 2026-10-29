@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-07-19'
+version_history:
+  file: decreto-301-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-07-19'
+    amending: pt:dre:639289:por
+    amending_title: Decreto-Lei n.º 239/2007
+    changes:
+    - Revoga Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:23:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 239/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-301-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,21 +136,35 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. O concurso de provas para o recrutamento de professores extraordinários a catedráticos é aberto para uma disciplina ou um grupo de disciplinas.
+###### Artigo 1.º
+
+1. O concurso de provas para o recrutamento de professores extraordinários a catedráticos é aberto para uma disciplina ou um grupo de disciplinas.
 
 2. O Ministro da Educação Nacional fixará para cada escola, sob proposta do Senado ou Conselho Universitário, as matérias afins à disciplina ou grupo de disciplinas a que são admitidos os candidatos ao concurso de provas públicas para professor extraordinário e catedrático.
 
-Art. 2.º O concurso de provas públicas para recrutamento de professores extraordinários e catedráticos destina-se a averiguar o mérito da obra científica do candidato, a sua capacidade de investigação, as suas qualidades pedagógicas e, quando for caso disso, a prática do exercício profissional.
+###### Artigo 2.º
 
-Art. 3.º As Universidades deverão propor, nos termos do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, a abertura do concurso para as vagas que se verifiquem nos quadros das respectivas escolas.
+O concurso de provas públicas para recrutamento de professores extraordinários e catedráticos destina-se a averiguar o mérito da obra científica do candidato, a sua capacidade de investigação, as suas qualidades pedagógicas e, quando for caso disso, a prática do exercício profissional.
 
-Art. 4.º No caso de ficar deserto o concurso para o recrutamento de professor catedrático ou de não haver candidato aprovado, abrir-se-á novo concurso ao qual poderão apresentar-se os doutores ou equiparados, devendo as respectivas provas ser as dos concursos para professores extraordinários e para professores catedráticos.
+###### Artigo 3.º
 
-Art. 5.º A abertura do concurso para as vagas de professor extraordinário e catedrático é feita por edital, publicado no Diário do Governo.
+As Universidades deverão propor, nos termos do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, a abertura do concurso para as vagas que se verifiquem nos quadros das respectivas escolas.
 
-Art. 6.º Aos concursos para professor extraordinário e para professor catedrático serão admitidos, respectivamente, os candidatos referidos nos artigos 23.º e 27.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+###### Artigo 4.º
 
-Art. 7.º - 1. Os concursos serão abertos perante a reitoria e pelo período de trinta dias.
+No caso de ficar deserto o concurso para o recrutamento de professor catedrático ou de não haver candidato aprovado, abrir-se-á novo concurso ao qual poderão apresentar-se os doutores ou equiparados, devendo as respectivas provas ser as dos concursos para professores extraordinários e para professores catedráticos.
+
+###### Artigo 5.º
+
+A abertura do concurso para as vagas de professor extraordinário e catedrático é feita por edital, publicado no Diário do Governo.
+
+###### Artigo 6.º
+
+Aos concursos para professor extraordinário e para professor catedrático serão admitidos, respectivamente, os candidatos referidos nos artigos 23.º e 27.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+
+###### Artigo 7.º
+
+1. Os concursos serão abertos perante a reitoria e pelo período de trinta dias.
 
 2. O requerimento de admissão será instruído com os seguintes elementos:
 
@@ -143,9 +172,13 @@ a) Documentos comprovativos do preenchimento das condições constantes do edita
 
 b) Trinta exemplares, impressos ou policopiados, do curriculum vitae científico e também profissional do candidato, quando for caso disso, com a indicação das obras e trabalhos efectuados, donde constem, ainda, as actividades pedagógicas exercidas.
 
-Art. 8.º A reitoria deverá comunicar aos candidatos, no prazo de três dias, o despacho ministerial de admissão ou não admissão ao concurso.
+###### Artigo 8.º
 
-Art. 9.º - 1. Após a admissão dos candidatos a concurso para professor extraordinário, deverão estes entregar no prazo de quarenta dias, contados desde a data da recepção daquela comunicação, o seguinte:
+A reitoria deverá comunicar aos candidatos, no prazo de três dias, o despacho ministerial de admissão ou não admissão ao concurso.
+
+###### Artigo 9.º
+
+1. Após a admissão dos candidatos a concurso para professor extraordinário, deverão estes entregar no prazo de quarenta dias, contados desde a data da recepção daquela comunicação, o seguinte:
 
 a) Quinze exemplares, impressos ou policopiados, de um relatório que inclua o programa, os conteúdos e os métodos do ensino teórico e prático das matérias da disciplina ou de uma das do grupo de disciplinas referidas no n.º 2 do artigo 1.º deste diploma;
 
@@ -157,7 +190,9 @@ d) Dois exemplares de cada um dos trabalhos mencionados no curriculum.
 
 2. Após a admissão dos candidatos ao concurso para professor catedrático, deverão estes entregar, no prazo de quarenta dias, contados desde a data da recepção daquela comunicação, quinze exemplares de um sumário pormenorizado de uma exposição sobre um assunto ligado ao domínio do conhecimento da disciplina ou do grupo de disciplinas para que foi aberto o concurso.
 
-Art. 10.º - 1. Obtido o despacho de admissão dos candidatos ao concurso, será incumbida a Universidade de propor à Direcção-Geral do Ensino Superior, no prazo de trinta dias, o júri do concurso para professor extraordinário, dentro das seguintes normas:
+###### Artigo 10.º
+
+1. Obtido o despacho de admissão dos candidatos ao concurso, será incumbida a Universidade de propor à Direcção-Geral do Ensino Superior, no prazo de trinta dias, o júri do concurso para professor extraordinário, dentro das seguintes normas:
 
 a) Todos os professores catedráticos da disciplina ou grupo de disciplinas da Universidade referidas no n.º 2 do artigo 1.º;
 
@@ -171,7 +206,9 @@ e) Professores extraordinários da disciplina ou grupo de disciplinas dessa ou d
 
 2. Do júri farão parte, obrigatòriamente, cinco professores.
 
-Art. 11.º - 1. A constituição do júri do concurso para professor catedrático, observados os trâmites referidos no n.º 1 do artigo anterior, obedecerá às seguintes normas:
+###### Artigo 11.º
+
+1. A constituição do júri do concurso para professor catedrático, observados os trâmites referidos no n.º 1 do artigo anterior, obedecerá às seguintes normas:
 
 a) Todos os professores catedráticos de disciplina ou grupo de disciplinas da Universidade referidas no n.º 2 do artigo 1.º;
 
@@ -183,19 +220,27 @@ d) Professores estrangeiros de reconhecido mérito nessas matérias.
 
 2. Do júri farão parte, obrigatòriamente, cinco professores.
 
-Art. 12.º Logo que publicada a constituição do júri no Diário do Governo, será enviado pela Universidade a cada um dos membros do júri um exemplar do curriculum vitae de cada um dos candidatos.
+###### Artigo 12.º
 
-Art. 13.º - 1. Na primeira reunião do júri, que terá lugar no prazo de trinta dias após a publicação mencionada no artigo anterior, tratar-se-á da admissão dos candidatos às provas, da distribuição de serviços a dia marcação da data das mesmas.
+Logo que publicada a constituição do júri no Diário do Governo, será enviado pela Universidade a cada um dos membros do júri um exemplar do curriculum vitae de cada um dos candidatos.
+
+###### Artigo 13.º
+
+1. Na primeira reunião do júri, que terá lugar no prazo de trinta dias após a publicação mencionada no artigo anterior, tratar-se-á da admissão dos candidatos às provas, da distribuição de serviços a dia marcação da data das mesmas.
 
 2. Nesta reunião serão excluídos os candidatos cujos trabalhos não tenham o nível necessário ou versem assuntos diferentes das matérias da disciplina ou grupo de disciplinas para que foi aberto o concurso.
 
 3. Sempre que um candidato seja excluído, deverá o júri elaborar um parecer justificativo, de que lhe será dado conhecimento.
 
-Art. 14.º - 1. O concurso terá lugar até aos sessenta dias seguintes à primeira reunião do júri.
+###### Artigo 14.º
+
+1. O concurso terá lugar até aos sessenta dias seguintes à primeira reunião do júri.
 
 2. Se o termo deste prazo coincidir com o período de férias grandes, o concurso poderá ter lugar nos trinta dias que se seguirão àquele período de férias.
 
-Art. 15.º O concurso para recrutamento de professores extraordinários constará das seguintes provas públicas:
+###### Artigo 15.º
+
+O concurso para recrutamento de professores extraordinários constará das seguintes provas públicas:
 
 a) Apreciação feita por dois membros do júri, em separado, do curriculum científico e do relatório referido na alínea a) do n.º 1.º do artigo 9.º, os quais elaborarão, de per si, pareceres fundamentados sobre que se basearão as discussões;
 
@@ -203,41 +248,65 @@ b) Lição de síntese referida na alínea b) do n.º 1 do artigo 9.º;
 
 c) Discussão da dissertação apresentada pelos candidatos, mencionada na alínea c) do n.º 1.º do artigo 9.º
 
-Art. 16.º O concurso para recrutamento de professores catedráticos constará das seguintes provas:
+###### Artigo 16.º
+
+O concurso para recrutamento de professores catedráticos constará das seguintes provas:
 
 a) Apreciação do curriculum científico do candidato por dois membros do júri, que elaborarão um parecer fundamentado sobre o qual se baseará a discussão;
 
 b) Exposição, indicada no n.º 2 do artigo 9.º, sobre um problema à escolha do candidato.
 
-Art. 17.º - 1. Tanto a lição de síntese como a exposição referidas nos artigos 15.º a 16.º terão a duração de sessenta minutos, podendo a sua discussão demorar, no máximo, o mesmo tempo.
+###### Artigo 17.º
+
+1. Tanto a lição de síntese como a exposição referidas nos artigos 15.º a 16.º terão a duração de sessenta minutos, podendo a sua discussão demorar, no máximo, o mesmo tempo.
 
 2. Cada uma das provas terá a duração máxima de duas horas.
 
-Art. 18.º As provas públicas destes concursos serão separadas por intervalos mínimos de vinte e quatro horas.
+###### Artigo 18.º
 
-Art. 19.º - 1. A presidência do júri caberá ao reitor, que poderá delegar num vice-reitor da Universidade ou no director da Faculdade ou escola em que foi aberto concurso.
+As provas públicas destes concursos serão separadas por intervalos mínimos de vinte e quatro horas.
+
+###### Artigo 19.º
+
+1. A presidência do júri caberá ao reitor, que poderá delegar num vice-reitor da Universidade ou no director da Faculdade ou escola em que foi aberto concurso.
 
 2. O presidente do júri só vota em caso de empate, salvo se for professor da disciplina ou do grupo de disciplinas.
 
 3. Só pode votar o membro do júri que tenha assistido integralmente a todas as provas do concurso.
 
-Art. 20.º - 1. Concluídas as provas, o júri reúne para decisão final, sendo a classificação do candidato feita por votação em escrutínio secreto.
+###### Artigo 20.º
+
+1. Concluídas as provas, o júri reúne para decisão final, sendo a classificação do candidato feita por votação em escrutínio secreto.
 
 2. A decisão é transcrita para as actas do concurso e os pareceres do júri são arquivados no respectivo processo.
 
-Art. 21.º No caso de haver mais de um candidato para a mesma vaga, o júri votará primeiramente o mérito absoluto de cada candidato e, em seguida, classificá-los-á em mérito relativo.
+###### Artigo 21.º
 
-Art. 22.º De harmonia com o disposto no artigo único do [Decreto n.º 39251](https://diariodarepublica.pt/dr/detalhe/decreto/39251-1953-641393), de 22 de Junho de 1953, podem os conselhos escolares das Faculdades ou escolas propor o provimento em lugares de professor extraordinário, independentemente do concurso, de indivíduos aprovados em mérito absoluto em concurso para professor catedrático da disciplina ou grupo de disciplinas.
+No caso de haver mais de um candidato para a mesma vaga, o júri votará primeiramente o mérito absoluto de cada candidato e, em seguida, classificá-los-á em mérito relativo.
 
-Art. 23.º Quando, em concurso para professor extraordinário ou professor catedrático de qualquer escola universitária, houver um só candidato e este for professor agregado do grupo, poderá o conselho escolar propor ao Ministro da Educação Nacional a nomeação com dispensa de prestação de provas, mediante justificação a ser publicada no Diário do Governo.
+###### Artigo 22.º
 
-Art. 24.º As provas para obtenção do título de agregado, bem como as condições de admissão às mesmas, são iguais às regulamentadas neste diploma para o concurso para professor extraordinário.
+De harmonia com o disposto no artigo único do [Decreto n.º 39251](https://diariodarepublica.pt/dr/detalhe/decreto/39251-1953-641393), de 22 de Junho de 1953, podem os conselhos escolares das Faculdades ou escolas propor o provimento em lugares de professor extraordinário, independentemente do concurso, de indivíduos aprovados em mérito absoluto em concurso para professor catedrático da disciplina ou grupo de disciplinas.
 
-Art. 25.º - 1. Durante dois anos a contar da entrada em vigor deste diploma, os candidatos aos concursos para professor extraordinário e catedrático poderão optar pelo regime ora instituído ou pelo anteriormente vigente.
+###### Artigo 23.º
+
+Quando, em concurso para professor extraordinário ou professor catedrático de qualquer escola universitária, houver um só candidato e este for professor agregado do grupo, poderá o conselho escolar propor ao Ministro da Educação Nacional a nomeação com dispensa de prestação de provas, mediante justificação a ser publicada no Diário do Governo.
+
+###### Artigo 24.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 239/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2007-639289), publicado em 2007-06-19.
+
+###### Artigo 25.º
+
+1. Durante dois anos a contar da entrada em vigor deste diploma, os candidatos aos concursos para professor extraordinário e catedrático poderão optar pelo regime ora instituído ou pelo anteriormente vigente.
 
 2. Se houver mais que um candidato e qualquer deles optar por regime diferente do escolhido por outro ou outros, prevalecerá o regime estabelecido neste diploma.
 
-Art. 26.º As dúvidas sobre a interpretação e aplicação deste diploma se o resolvidas por despacho do Ministro da Educação Nacional, ouvido o Senado ou Conselho Universitário.
+###### Artigo 26.º
+
+As dúvidas sobre a interpretação e aplicação deste diploma se o resolvidas por despacho do Ministro da Educação Nacional, ouvido o Senado ou Conselho Universitário.
 
 Marcello Caetano - José Veiga Simão.
 

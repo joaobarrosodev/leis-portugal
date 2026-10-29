@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-01-01'
+version_history:
+  file: lei-organica-2-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010; Lei Orgânica n.º 2/2013
+    changes:
+    - Adita Artigo 20.º-A
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 55-A/2010; Lei Orgânica n.º
+    2/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/leis-organicas/2010/lei-organica-2-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -348,13 +364,15 @@ São abrangidas pelo regime excepcional de contratação pública previsto nos a
 
 ###### Artigo 20.º — Suspensão e reposição de vigência
 
-1 - É suspensa, durante o período em que vigora a presente lei:
+(Revogado.)
 
-a) A vigência dos artigos 18.º, 22.º, 26.º, 29.º, 30.º, 35.º, 41.º, 42.º, 43.º, 44.º, 49.º, 51.º, 56.º, 58.º, 62.º, 66.º, 68.º e 74.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro, na redacção e renumeração conferida pela Lei Orgânica n.º 1/2010, de 29 de Março;
+> Revogado pelo/a Artigo 73.º do/a [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), publicado em 2013-09-02.
 
-b) A vigência do artigo 4.º da Lei Orgânica n.º 1/2010, de 29 de Março.
+###### Artigo 20.º-A — Execução
 
-2 - São repostos em vigor, durante o período em que vigora a presente lei, os artigos 15.º, 19.º, 25.º, 30.º, 32.º, 37.º, 38.º, 39.º, 44.º, 49.º, 51.º, 55.º e 59.º da Lei Orgânica n.º 1/2007, de 19 de Fevereiro, na redacção e numeração originárias.
+Na aplicação e execução da presente lei, e nomeadamente no respeitante aos limites estabelecidos pelo artigo 10.º, cabe à Administração Pública regional usar a necessária flexibilização que operacionalize e garanta o integral aproveitamento dos fundos disponibilizados, nas diversas rubricas orçamentadas, salvaguardando-se a programação anual definida e a execução dos projectos de reconstrução e recuperação decorrentes da intempérie que atingiu a Região Autónoma da Madeira em 20 de Fevereiro de 2010.
+
+> Aditado pelo/a Artigo 94.º do/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
 
 ###### Artigo 21.º — Entrada em vigor e produção de efeitos
 

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-01-08'
+version_history:
+  file: decreto-legislativo-regional-7-2012-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-01-08'
+    amending: pt:dre:73070297:por
+    amending_title: Decreto Legislativo Regional n.º 1/2016/A
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 53.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/7/2012/03/01/a/dre/pt/html
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    1/2016/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2012/decreto-legislativo-regional-7-2012-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -228,11 +244,13 @@ Os serviços de alojamento turístico só podem ser prestados em empreendimentos
 
 ###### Artigo 4.º — Alojamento local
 
-1 - Os estabelecimentos de alojamento local devem respeitar os requisitos mínimos de segurança e higiene definidos por portaria do membro do Governo Regional responsável pela área do turismo.
+1 - As tipologias dos estabelecimentos de alojamento local, os requisitos mínimos de segurança, higiene, instalações, equipamentos e serviços prestados aos hóspedes, as capacidades máximas dos estabelecimentos e respetivas unidades de alojamento, os bens e serviços incluídos no preço do alojamento e as regras atinentes ao registo, publicidade, identificação dos estabelecimentos e à disponibilização de informação para fins estatísticos são definidos por portaria do membro do Governo Regional responsável pela área do turismo.
 
 2 - Apenas o alojamento local registado na direção regional competente em matéria de turismo pode ser comercializado para fins de alojamento turístico, diretamente por quem o explore ou através de agências de viagens e turismo.
 
 3 - Os meios de alojamento a que se refere este artigo devem identificar-se como alojamento local, não podendo, em caso algum, utilizar para o efeito expressões como «turismo», «turístico», «rural» e ou «natureza», nem outras que sejam próprias de um sistema de classificação ou qualificação oficiais ou com estas facilmente confundíveis.
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), publicado em 2016-01-08.
 
 ### CAPÍTULO II — Empreendimentos turísticos
 
@@ -784,7 +802,7 @@ As unidades de alojamento dos empreendimentos turísticos podem constituir-se co
 
 a) A oferta de serviços de alojamento turístico sem título válido;
 
-b) O incumprimento, pelo alojamento local, dos requisitos mínimos previstos no n.º 1, do registo previsto no n.º 2 e das regras de identificação estabelecidas pelo n.º 3, todos do artigo 4.º;
+b) O incumprimento dos requisitos mínimos de segurança e higiene previstos no n.º 1, do registo previsto no n.º 2 e das regras de identificação estabelecidas no n.º 3, todos do artigo 4.º;
 
 c) O incumprimento da ocupação máxima dos quartos, prevista no n.º 3 do artigo 7.º, bem como das normas, a estabelecer na portaria referida no n.º 2 do artigo 5.º, em matéria de identificação, segurança no acesso, insonorização e vãos para o exterior das unidades de alojamento;
 
@@ -837,6 +855,8 @@ x) As faltas grosseiras ou reiteradas no atendimento dos clientes ou na apresent
 4 - As contraordenações previstas nas alíneas b), c), e), f), h), j), l), s) e t) do n.º 1 são punidas com coima de (euro) 500 a (euro) 2500, no caso de pessoa singular, e de (euro) 5000 a (euro) 25 000, no caso de pessoa coletiva.
 
 5 - As contraordenações previstas nas alíneas a), d), g), o), p) e r) do n.º 1 são punidas com coima de (euro) 2500 a (euro) 3700, no caso de pessoa singular, e de (euro) 25 000 a (euro) 44 500, no caso de pessoa coletiva.
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), publicado em 2016-01-08.
 
 ###### Artigo 54.º — Sanções acessórias
 

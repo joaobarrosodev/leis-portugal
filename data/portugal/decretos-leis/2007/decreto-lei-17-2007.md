@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-08-22'
+version_history:
+  file: decreto-lei-17-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-08-22'
+    amending: pt:dre:636974:por
+    amending_title: Decreto-Lei n.º 286/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/17/2007/01/22/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:57:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 286/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-17-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,11 +162,11 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º — Regime excepcional
 
-1 - Ficam autorizadas a proceder, até 30 de Junho de 2007, ao ajuste directo dos contratos referidos no artigo anterior cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratos públicos as seguintes entidades:
+1 - Ficam autorizadas a proceder, até 31 de Dezembro de 2007, ao ajuste directo dos contratos referidos no artigo anterior, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratos públicos, as seguintes entidades:
 
-a) Instituto da Água;
+a) Instituto da Água, I. P.;
 
-b) Serviço Nacional de Bombeiros e Protecção Civil;
+b) Autoridade Nacional de Protecção Civil;
 
 c) Comissão de Coordenação e Desenvolvimento Regional do Norte;
 
@@ -162,15 +178,19 @@ f) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;
 
 g) Comissão de Coordenação e Desenvolvimento Regional do Algarve; e
 
-h) Instituto de Desenvolvimento Rural e Hidráulica.
+h) Direcção-Geral de Agricultura e Desenvolvimento Rural.
 
 2 - O regime referido no número anterior aplica-se igualmente aos municípios que constem de lista a publicar por despacho do Ministro de Estado e da Administração Interna.
 
-3 - As adjudicações de contratos feitas ao abrigo do presente regime excepcional devem ser comunicadas aos ministérios que tutelam as entidades que a ele recorram, bem como ao Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, nos termos do artigo 276.º do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, por forma a garantir o cumprimento dos princípios da publicidade e transparência dos contratos.
+3 - As adjudicações de contratos feitas ao abrigo do presente regime excepcional devem ser comunicadas aos ministérios que tutelam as entidades que a ele recorram, bem como ao Instituto da Construção e do Imobiliário, nos termos do artigo 276.º do Decreto-Lei n.º 59/99, de 2 de Março, por forma a garantir o cumprimento dos princípios da publicidade e transparência dos contratos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17.
 
 ###### Artigo 3.º — Estudos e projectos
 
-A elaboração dos estudos e projectos necessários à execução dos trabalhos objecto da contratação prevista no artigo 1.º pode ser adjudicada por ajuste directo pelas entidades referidas no artigo anterior desde que o seu valor, não considerando o IVA, seja inferior aos limiares a que se refere o n.º 1 do mesmo artigo.
+A elaboração dos estudos e projectos necessários à execução dos trabalhos objecto da contratação prevista no artigo 1.º pode ser adjudicada por ajuste directo pelas entidades referidas no artigo anterior desde que o seu valor, não considerando o IVA, seja inferior aos limiares a que se refere o n.º 1 do artigo 2.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 286/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2007-636974), publicado em 2007-08-17.
 
 ###### Artigo 4.º — Entrada em vigor
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-01'
+version_history:
+  file: decreto-legislativo-regional-20-2010-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-01'
+    amending: pt:dre:58661943:por
+    amending_title: Decreto Legislativo Regional n.º 18/2014/A
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/20/2010/05/31/a/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:21:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    18/2014/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2010/decreto-legislativo-regional-20-2010-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +149,17 @@ Assim, nos termos do disposto nos artigos 227.º, n.º 1, alínea a), e 112.º, 
 
 ###### Artigo 1.º — Objecto
 
-O presente diploma estabelece as regras e princípios gerais aplicáveis à aquisição de espaços informativos e de publicidade em órgãos de comunicação social pelos serviços da administração regional e local, na Região Autónoma dos Açores.
+O presente diploma estabelece as regras e princípios gerais aplicáveis à aquisição de espaços informativos e de publicidade em órgãos de comunicação social pelas seguintes entidades:
+
+a) Região Autónoma dos Açores;
+
+b) Autarquias locais dos Açores;
+
+c) Institutos públicos regionais;
+
+d) Empresas do setor empresarial regional e local, concessionárias de serviços públicos, no âmbito das respetivas obrigações de serviço público.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30.
 
 ###### Artigo 2.º — Publicidade institucional
 
@@ -155,7 +181,19 @@ c) Haja que reforçar a incidência da mensagem junto de determinado público ou
 
 ###### Artigo 4.º — Relatório anual
 
-O departamento do Governo Regional com competência em matéria de comunicação social envia, anualmente, à Assembleia Legislativa um relatório sobre a aplicação do presente diploma no ano anterior.
+O departamento do Governo Regional com competência em matéria de comunicação social tornará público, anualmente, nomeadamente através de disponibilização eletrónica no portal do Governo Regional, bem como do envio à Assembleia Legislativa, de um relatório detalhado sobre a aplicação do presente diploma no ano anterior, do qual constará obrigatoriamente:
+
+a) Identificação da entidade pública adquirente;
+
+b) Órgão de comunicação social a quem foi adquirido;
+
+c) Entidade proprietária do órgão de comunicação social;
+
+d) Preço da aquisição;
+
+e) Data da publicação, difusão ou transmissão da mensagem.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30.
 
 ###### Artigo 5.º — Dever de colaboração
 

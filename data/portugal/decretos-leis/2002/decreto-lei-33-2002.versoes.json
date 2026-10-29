@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:278031:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-02-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205de7679d7316ee",
+    "b44de840b9fb567c",
+    "c02e3024ed9c3776",
+    "718f46d1d7c59cca",
+    "040bae3349fed078"
+   ]
+  },
+  {
+   "date": "2004-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480522:por",
+     "title": "Decreto-Lei n.º 206/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/206-2004-480522"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "205de7679d7316ee",
+    "b44de840b9fb567c",
+    "c02e3024ed9c3776",
+    "6adcc21027c49515",
+    "040bae3349fed078"
+   ]
+  }
+ ],
+ "fragments": {
+  "205de7679d7316ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Fevereiro\n\nO ciclo clínico dos planos de estudos dos cursos de licenciatura em Medicina inclui unidades curriculares ou parte delas, cuja duração é variável, entre um mínimo de 2 e um máximo de 16 semanas, leccionadas de forma, por vezes, descontínua.\n\nEstá-se perante o que, através do presente diploma, se designa por ensino ministrado em regime de blocos ou módulos.\n\nPelas suas características, o regime de blocos ou módulos não acarreta a constituição de qualquer vínculo laboral entre os estabelecimentos de ensino que ministram o curso de licenciatura em Medicina e os médicos participantes no ensino daquelas unidades curriculares, se bem que não deixe de consubstanciar uma alternativa ao recrutamento previsto nos artigos 10.º e 11.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, que, no entanto, permanece obrigatoriamente aplicável sempre que se trate de prover à docência de matérias insusceptíveis de submissão ao regime consagrado pelo presente diploma.\n\nFica, assim, claro que não se pretende instituir um novo regime de contratação específico de pessoal docente, mas, tão-somente, criar um instrumento que permita envolver a participação efectiva e comprometida, em determinadas unidades curriculares do chamado ciclo clínico, dos médicos das instituições prestadoras de cuidados de saúde onde o correspondente ensino é ministrado.\n\nFoi ouvido o Conselho de Reitores das Universidades Portuguesas.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "b44de840b9fb567c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente diploma regula a participação dos médicos das instituições prestadoras de cuidados de saúde no ensino, ministrado em regime de blocos ou módulos, de unidades curriculares ou parte delas compreendidas na componente clínica dos planos de estudos dos cursos de licenciatura em Medicina."
+  },
+  "c02e3024ed9c3776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime de blocos ou módulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de blocos ou módulos\n\n1 - O ensino referido no artigo anterior caracteriza-se por:\n\na) Ter uma duração variável entre um mínimo de 2 e um máximo de 16 semanas;\n\nb) Ser assegurado por médicos da instituição prestadora de cuidados de saúde onde o mesmo tem lugar, dentro do horário a que o referido pessoal se encontra obrigado perante a respectiva instituição e sem que daí resulte prejuízo para o normal desenvolvimento das actividades docentes e assistenciais.\n\n2 - A instituição prestadora de cuidados de saúde pode ser um estabelecimento hospitalar, um centro de saúde ou outro tipo de estabelecimento.\n\n3 - Os elementos do pessoal médico envolvido neste ensino têm direito a uma gratificação, calculada em percentagem da remuneração de base fixada para a respectiva categoria da carreira médica, a abonar pela instituição prestadora de cuidados de saúde.\n\n4 - Os estabelecimentos de ensino ficam obrigados a compensar a instituição prestadora de cuidados de saúde, através do pagamento mensal a esta do quantitativo correspondente ao total das gratificações liquidadas com referência ao mesmo período, em função do número de semanas de funcionamento de blocos ou módulos em cujo ensino haja participado."
+  },
+  "718f46d1d7c59cca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Protocolo de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Protocolo de colaboração\n\n1 - Para os efeitos do artigo anterior, é celebrado um protocolo, pelo prazo de um ano, renovável, entre um estabelecimento de ensino onde se ministre o curso de licenciatura em Medicina e uma instituição prestadora de cuidados de saúde, o qual apenas adquire eficácia após homologação dos Ministros da Educação e da Saúde.\n\n2 - O acompanhamento da execução do protocolo é assegurado por uma comissão mista.\n\n3 - Do protocolo consta, obrigatoriamente:\n\na) A unidade ou unidades curriculares ou parte delas abrangidas pelo protocolo, sua duração e conteúdo;\n\nb) O departamento ou serviço da instituição prestadora de cuidados de saúde onde o ensino irá ser ministrado, com indicação do seu director e responsabilização deste pela concretização do ensino prosseguido, com a qualidade e nas condições expressamente clausuladas;\n\nc) A fixação, em percentagem, da gratificação prevista no n.º 3 do artigo anterior, bem como dos procedimentos adequados ao seu processamento e da compensação prevista no n.º 4 do mesmo artigo;\n\nd) A composição da comissão mista;\n\ne) Mecanismos de renovação e cessação."
+  },
+  "040bae3349fed078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Júlio Domingos Pedrosa da Luz de Jesus - António Fernando Correia de Campos - Alberto de Sousa Martins.\n\nPromulgado em 31 de Janeiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 7 de Fevereiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "6adcc21027c49515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Protocolo de colaboração",
+   "in_force_from": "2004-09-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+   ],
+   "markdown": "###### Artigo 3.º — Protocolo de colaboração\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19."
+  }
+ }
+}

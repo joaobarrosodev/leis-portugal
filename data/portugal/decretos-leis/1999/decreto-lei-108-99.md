@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-04-21'
+version_history:
+  file: decreto-lei-108-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-21'
+    amending: pt:dre:239591:por
+    amending_title: Decreto-Lei n.º 73/2003
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/108/1999/03/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:05:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 73/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-108-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,9 +170,9 @@ b) À preparação de vinho espumante e de vinho espumoso gaseificado.
 
 ###### Artigo 4.º — Comunicação prévia
 
-1 - O preparador de vinho espumante deve comunicar ao Instituto da Vinha e do Vinho (IVV), com a antecedência mínima de 10 dias, o início do engarrafamento, quando obtido pelo método de fermentação em garrafa, bem como o período previsível de laboração, nos restantes casos.
+(Revogado.)
 
-2 - Exceptuam-se do disposto no número anterior os vinhos espumantes de qualidade produzidos em região determinada e os vinhos espumantes de qualidade aos quais são aplicáveis as disposições sobre a matéria fixadas na respectiva regulamentação.
+> Revogado pelo/a Artigo único do/a [Decreto-Lei n.º 73/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2003-239591), publicado em 2003-04-16.
 
 ###### Artigo 5.º — Revogações
 

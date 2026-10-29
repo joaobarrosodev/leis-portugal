@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-05-30'
+version_history:
+  file: decreto-22-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-05-30'
+    amending: pt:dre:469186:por
+    amending_title: Declaração de Rectificação n.º 64/92
+    changes:
+    - Retifica Artigo 5.º
+    - Retifica Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/22/1992/04/13/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:04:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 64/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1992/decreto-22-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,11 +171,13 @@ Com o fim de facilitar as missões de vistoria e o processo evolutivo de potenci
 
 ###### Artigo 5.º — Aprovação e evolução de potenciais de motores, hélices e componentes notáveis
 
-A DGAC da República da Guiné-Bissau aceita que a definição e aprovação dos valores iniciais do potencial de motores, hélices e componentes notáveis e sua posterior evolução seja efectuada pela DGAC de Portugal.
+A DGAC da República da Guiné-Bissau aceita que a definição e aprovação dos valores iniciais do potencial de motores, hélices e componentes rotáveis e sua posterior evolução seja efectuada pela DGAC de Portugal.
 
 Os processos de aprovação e de evolução de potenciais decorrerão sempre através da DGAC da República da Guiné-Bissau.
 
 Tratando-se de assuntos de carácter opcional que a DGAC de Portugal tenha decidido tornar mandatórios, será devidamente explicada a razão do facto, cabendo à DGAC da República da Guiné-Bissau a decisão de os manter opcionais ou tornar igualmente mandatórios. Dessa decisão será dado conhecimento à DGAC de Portugal, para acção posterior.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 64/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1992-469186), publicado em 1992-05-30.
 
 ###### Artigo 6.º — Licenciamento de pessoal aeronáutico
 
@@ -189,7 +207,9 @@ A emissão, revalidação e caducidade dos certificados de navegabilidade dos av
 
 No que respeita à sua revalidação periódica semestral, todo o processo técnico de controlo do estado de navegabilidade será conduzido por técnicos da DGAC de Portugal, que, após conclusão da inspecção e no caso de esta ter sido favoravelmente superada, emitirão documento recomendando a revalidação do certificado.
 
-No caso de ocorrer qualquer acidente ou incidente, o respectivo inquérito ou averiguação será conduzido por pessoal técnico da DGAC de Portugal, com acompanhamento da DGAC da República da Guiné-Bissau. Após a reparação dos estragos materiais, quando for caso disso, e propostas as condições de navegabilidade, será igualmente emitido pela DGAC de Portugal um documento recomendando a revalidação do certificado.
+No caso de ocorrer qualquer acidente ou incidente, o respectivo inquérito ou averiguação será conduzido por pessoal técnico da DGAC de Portugal, com acompanhamento da DGAC da República da Guiné-Bissau. Após a reparação dos estragos materiais, quando for caso disso, e repostas as condições de navegabilidade, será igualmente emitido pela DGAC de Portugal um documento recomendando a revalidação do certificado.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 64/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1992-469186), publicado em 1992-05-30.
 
 ###### Artigo 11.º — Formação profissional
 

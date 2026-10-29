@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-12-24'
+version_history:
+  file: portaria-903-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-24'
+    amending: pt:dre:467271:por
+    amending_title: Portaria n.º 1295/2005
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS::9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/903/2003/08/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:51:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1295/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-903-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -338,11 +353,13 @@ g) Custos referentes à implementação de sistemas de garantia da qualidade da 
 
 4 - Sempre que o valor do incentivo seja inferior a (euro) 390000, os valores dos limites máximos por rubrica, definidos no número anterior, serão ajustados proporcionalmente.
 
-5 - Os limites referidos no número anterior poderão ser excedidos por despacho do Ministro da Economia e sob proposta do gestor do Programa, em situações devidamente justificadas.
+5 - Os limites referidos no n.º 3 do presente artigo podem ser excedidos por despacho do Ministro da Economia e da Inovação e sob proposta do gestor do Programa, em situações devidamente justificadas.
 
 6 - Os limites absolutos para os incentivos e correspondentes limites máximos por rubrica estão definidos para um período de execução de dois anos, sendo ajustados proporcionalmente à duração do projecto, nos casos em que a duração seja inferior a esse período temporal.
 
 7 - O investimento elegível pode ser ajustado no sentido de redução face ao comprovadamente realizado no ano anterior, não podendo ser efectuadas quaisquer transferências de verbas entre anos em montante superior a 15% do valor das despesas elegíveis do ano anterior.
+
+> Alterado pelo/a [Portaria n.º 1295/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1295-2005-467271), publicado em 2005-12-19.
 
 ###### Artigo 10.º — Cumulação de apoios
 

@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641463:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8e82a5cfcdbafa5",
+    "87c949ac71d28cc6",
+    "9fd92bb768b41c1f",
+    "0ed6f0b255420005",
+    "699968f498cbf8ae",
+    "a2d93be832df1515",
+    "2e7a5c93c5f43e60",
+    "616457e0f036a74f",
+    "1addecb11fc5bdac"
+   ]
+  },
+  {
+   "date": "2010-11-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:308728:por",
+     "title": "Portaria n.º 1177/2010",
+     "published": "2010-11-16",
+     "dre_path": "/dr/detalhe/portaria/1177-2010-308728"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b8e82a5cfcdbafa5",
+    "87c949ac71d28cc6",
+    "87822d42304a1026",
+    "0ed6f0b255420005",
+    "699968f498cbf8ae",
+    "a2d93be832df1515",
+    "2e7a5c93c5f43e60",
+    "616457e0f036a74f",
+    "1addecb11fc5bdac"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8e82a5cfcdbafa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Outubro\n\nA possibilidade de personalizar o selo, incorporando-lhe imagens ou criações definidas pelo utilizador, corresponde a um interesse significativo das instituições, empresas e particulares, que o desenvolvimento das novas tecnologias de tratamento de imagens e da sociedade de informação veio propiciar.\n\nO selo personalizado contribui para a divulgação e aumento da sua circulação, promove a actividade económica e cria novas formas de comunicação.\n\nO selo personalizado é uma forma de estampilha que permite, mediante solicitação e aceitação das condições legais e contratuais gerais do serviço e prévia validação do seu conteúdo, adquirir um número determinado de selos com uma imagem personalizada inserida num espaço disponível predefinido para o efeito.\n\nNestes termos:\n\nManda o Governo, pelo Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, ao abrigo da disposição do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355), de 3 de Setembro, que seja criado e posto em circulação o selo personalizado com as seguintes características:"
+  },
+  "87c949ac71d28cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Emissão de selo personalizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Emissão de selo personalizado\n\n1 - A emissão e colocação em circulação do selo personalizado compreende todos os selos que se coloquem em circulação de acordo com o previsto na presente portaria, qualquer que seja a imagem personalizada impressa, sem limitação do número de imagens diferentes que venham, caso a caso, a ser incorporadas para a sua personalização.\n\n2 - O selo personalizado poderá ser apresentado em dois tipos de selo com a mesma dimensão, mas que diferem na sua orientação, vertical ou horizontal.\n\n3 - O selo personalizado incorporará numa das suas margens as menções «Portugal ctt», o ano de impressão e a franquia correspondente ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretenda utilizá-lo. No espaço central do selo reservado para a personalização será impressa a imagem, sem a qual o selo não será válido."
+  },
+  "9fd92bb768b41c1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Características do selo personalizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Características do selo personalizado\n\nA emissão dos selos personalizados tem as seguintes características:\n\nDimensão - 40 mm x 30,6 mm ou 30,6 mm x40 mm;\n\nPicotado - 13 3/4;\n\nImpressor - CTT - Correios de Portugal, S. A.;\n\nEspaço central - livre para imagem personalizada;\n\nPapel - autocolante;\n\nFranquia - a que corresponder ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretende utilizar o selo;\n\nTiragem - ilimitada."
+  },
+  "0ed6f0b255420005": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Colocação em circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Colocação em circulação\n\n1 - Os CTT - Correios de Portugal, S. A., poderão colocar em circulação a partir da entrada em vigor da presente portaria os diferentes modelos de selo personalizado, após o processo de personalização e impressão de cada pedido efectuado pelo utilizador.\n\n2 - O selo personalizado será remetido para a morada indicada pelo cliente utilizador através de correio registado.\n\n3 - Os selos personalizados poderão ser utilizados para efeitos de franquia até ao final do ano civil seguinte ao da sua impressão, pelo valor deles constante."
+  },
+  "699968f498cbf8ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Personalização do selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Personalização do selo\n\n1 - Os CTT - Correios de Portugal, S. A., são autorizados a personalizar os selos incorporando as imagens que forem fornecidas pelos utilizadores do serviço.\n\n2 - Aquele que pretender adquirir selos personalizados com uma imagem relativamente à qual detenha os respectivos direitos de utilização e disposição de acordo com a ordem jurídica portuguesa, poderá solicitá-lo aos CTT, mediante prévia aceitação das condições legais e contratuais gerais que regulam o serviço.\n\n3 - Os CTT - Correios de Portugal, S. A., receberão e farão a gestão dos pedidos através de um sistema online, utilizando os meios electrónicos e telemáticos que garantam a recepção e conservação da informação de acordo com a legislação em vigor.\n\n4 - Fica na disponibilidade dos CTT - Correios de Portugal, S. A., estabelecer um número mínimo de selos personalizados para cada pedido e um número máximo de exemplares a serem impressos com a mesma imagem."
+  },
+  "a2d93be832df1515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Aprovação e selecção das imagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aprovação e selecção das imagens\n\n1 - Os CTT - Correios de Portugal, S. A., ficam expressamente autorizados a aprovar e seleccionar as imagens a serem utilizadas nos selos personalizados de acordo com a lei, a moral e os bons costumes.\n\n2 - São proibidas imagens cujos conteúdos sejam contrários à lei, à moral, aos bons costumes, à ordem pública, que atentem contra direitos fundamentais, que induzam ou instiguem à perpetração de crimes, condutas discriminatórias em razão do sexo, da raça, religião, crenças, idade ou qualquer outra condição social ou pessoal, que constituam publicidade ilícita, enganosa ou desleal, ou que em geral violem direitos de propriedade intelectual ou industrial ou que de qualquer modo violem os direitos dos CTT - Correios de Portugal, S. A., dos seus clientes ou de terceiros.\n\n3 - Em caso de rejeição de imagem, os CTT - Correios de Portugal, S. A., deverão notificar por escrito o utilizador do serviço.\n\n4 - O utilizador do serviço fica obrigado a declarar expressamente que possui todos os direitos necessários para a utilização das imagens, logótipos, marcas, nomes comerciais, ou quaisquer outros elementos cuja reprodução solicita e que se responsabiliza pessoal e directamente por todos os danos e prejuízos causados aos CTT - Correios de Portugal, S. A., ou a terceiros pela utilização indevida ou ilegítima destes elementos."
+  },
+  "2e7a5c93c5f43e60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preço da franquia e preço de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preço da franquia e preço de venda\n\n1 - Os CTT - Correios de Portugal, S. A., ficam expressamente autorizados a comercializar os selos personalizados por um preço superior ao valor da franquia, considerando os custos da actividade da personalização.\n\n2 - Os CTT - Correios de Portugal, S. A., poderão atribuir descontos por razões técnicas, operativas ou comerciais, não sendo permitido vender os selos por montante inferior ao da franquia postal."
+  },
+  "616457e0f036a74f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Regulamentação do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação do serviço\n\nDentro dos limites da presente portaria, compete aos CTT - Correios de Portugal, S. A., definir a regulamentação necessária ao processo de produção e comercialização do selo personalizado.\n\nO Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 13 de Setembro de 2007."
+  },
+  "1addecb11fc5bdac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Maquetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Maquetes\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19500/0723707238.pdf)\n\nNotas\n\nA área central do selo é destinada à inserção da imagem seleccionada pelo utilizador.\n\nA designação «franquia» é destinada à inserção numérica do valor da franquia seleccionado pelo utilizador.\n\nA designação «ano» é destinada à inserção do ano de impressão."
+  },
+  "87822d42304a1026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Características do selo personalizado",
+   "in_force_from": "2010-11-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1177-2010-308728), publicado em 2010-11-16."
+   ],
+   "markdown": "###### Artigo 2.º — Características do selo personalizado\n\nA emissão dos selos personalizados tem as seguintes características:\n\nDimensão - 40 mm x 30,6 mm ou 30,6 mm x 40 mm;\n\nPicotado - 13 3/4 ou 11 3/4;\n\nImpressor - CTT - Correios de Portugal, S. A.;\n\nEspaço central - livre para imagem personalizada;\n\nPapel - autocolante ou gomado;\n\nFranquia - a que corresponder ao solicitado pelo utilizador consoante o tipo de produto, âmbito e escalão de peso em que pretende utilizar o selo;\n\nTiragem - ilimitada.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1177/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1177-2010-308728), publicado em 2010-11-16."
+  }
+ }
+}

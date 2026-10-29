@@ -1,0 +1,594 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608072:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-02-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872de108dd3531d2",
+    "a9ada1e1f6e2b35c",
+    "912649665a9afbd9",
+    "1a3b60033ef10897",
+    "f21c8d266df155df",
+    "240fd000707217e7",
+    "1b9f103e6e20c17e",
+    "d1952c51941047ec",
+    "54431253d21aaae8",
+    "00effb44539b3514",
+    "60e25c89ef1eaa49",
+    "e424dcde74411668",
+    "f5323cde0e79d606",
+    "0726e985efc4fa2d",
+    "894eaa0330c9bd41",
+    "6c48876a7a8a18dc",
+    "cadb24c0326bf1da",
+    "b1170d14d9423f44",
+    "4249b985366e6391",
+    "b7c10283f7652ea6",
+    "e2fc7d8e9663b9e9",
+    "72f6d836fc1da396",
+    "8b84380892c4f099",
+    "1d83be1416962e96",
+    "4ed29b00c76fc2e4",
+    "6e59b531b2e71237",
+    "dad6bb7cc83ada09",
+    "0ead6785391d5980",
+    "302d78505eb64be1",
+    "ee384e7e3e79a05f",
+    "fbaf2110fffe30f5",
+    "7de9bf675545615b",
+    "4eef86667fde7d43",
+    "d832e3eedfce7747",
+    "b557449047ca80a4",
+    "9f4d46b745e81ead",
+    "7b7168b866db1203",
+    "9a906ead8c27f7e7",
+    "4e73aba7bd0a1c68",
+    "2b50e2f2d6aef75a",
+    "f75432f9d493094f",
+    "3968c5159574e588",
+    "4354cb4f8ea49094",
+    "ab2352d433708a34",
+    "6ca522390246bac8",
+    "9c2987e04d1ef270",
+    "b5b0e8a1b079559b",
+    "26b407e5bf19fec0",
+    "218023fe0bd42750",
+    "167733fbbfe49050",
+    "3d24fdd523c5c8c7",
+    "5b6a8e90a72ff4eb",
+    "fdab9af271fef0c9",
+    "f49213af8be1cee4"
+   ]
+  },
+  {
+   "date": "2017-09-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    },
+    {
+     "id": "pt:dre:108113698:por",
+     "title": "Decreto-Lei n.º 113/2017",
+     "published": "2017-09-07",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2017-108113698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "872de108dd3531d2",
+    "a9ada1e1f6e2b35c",
+    "912649665a9afbd9",
+    "1a3b60033ef10897",
+    "f21c8d266df155df",
+    "240fd000707217e7",
+    "1b9f103e6e20c17e",
+    "d1952c51941047ec",
+    "54431253d21aaae8",
+    "00effb44539b3514",
+    "60e25c89ef1eaa49",
+    "e424dcde74411668",
+    "f5323cde0e79d606",
+    "0726e985efc4fa2d",
+    "894eaa0330c9bd41",
+    "6c48876a7a8a18dc",
+    "cadb24c0326bf1da",
+    "b1170d14d9423f44",
+    "4249b985366e6391",
+    "b7c10283f7652ea6",
+    "e2fc7d8e9663b9e9",
+    "72f6d836fc1da396",
+    "8b84380892c4f099",
+    "1d83be1416962e96",
+    "4ed29b00c76fc2e4",
+    "6e59b531b2e71237",
+    "dad6bb7cc83ada09",
+    "0ead6785391d5980",
+    "3aebeaff71646d9b",
+    "ee384e7e3e79a05f",
+    "fbaf2110fffe30f5",
+    "7de9bf675545615b",
+    "4eef86667fde7d43",
+    "d832e3eedfce7747",
+    "b557449047ca80a4",
+    "9f4d46b745e81ead",
+    "7b7168b866db1203",
+    "9a906ead8c27f7e7",
+    "4e73aba7bd0a1c68",
+    "2b50e2f2d6aef75a",
+    "f75432f9d493094f",
+    "3968c5159574e588",
+    "4354cb4f8ea49094",
+    "ab2352d433708a34",
+    "6ca522390246bac8",
+    "9c2987e04d1ef270",
+    "b5b0e8a1b079559b",
+    "26b407e5bf19fec0",
+    "218023fe0bd42750",
+    "167733fbbfe49050",
+    "3d24fdd523c5c8c7",
+    "5b6a8e90a72ff4eb",
+    "fdab9af271fef0c9",
+    "f49213af8be1cee4"
+   ]
+  }
+ ],
+ "fragments": {
+  "872de108dd3531d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Fevereiro\n\nA Lei Orgânica do XVI Governo Constitucional, aprovada pelo [Decreto-Lei n.º 215-A/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2004-551625), de 3 de Setembro, procedeu à extinção do Ministério das Finanças e criou em seu lugar o Ministério das Finanças e da Administração Pública, que congrega as atribuições da definição e condução da política financeira do Estado, bem como da política referente à Administração Pública.\n\nO presente diploma vem consagrar as alterações necessárias e decorrentes da entrada em vigor da nova estrutura orgânica do Governo, devendo ser oportunamente revisto à luz dos regimes contidos nos diplomas legais aprovados no âmbito da reforma da Administração Pública.\n\nDeste modo, introduzem-se alguns aperfeiçoamentos no modelo organizativo do Ministério das Finanças e da Administração Pública, nomeadamente é atribuída à Secretaria-Geral a prestação centralizada de serviços a vários organismos nas áreas dos sistemas de informação, comunicação e relações públicas, modernização, organização e qualidade pública, o que vem permitir uma melhor utilização dos recursos no âmbito do Ministério das Finanças e da Administração Pública.\n\nA organização adoptada traduz-se simultaneamente numa diminuição dos cargos dirigentes de nível superior nos vários serviços deste Ministério.\n\nEstando definida como uma prioridade deste Governo o reforço ao combate à fraude e à evasão fiscal é criado o conselho de administração das Contribuições e Impostos, ao qual incumbe o exercício das competências dos directores-gerais dos Impostos, das Alfândegas e dos Impostos Especiais sobre o Consumo e da Informática e Apoio aos Serviços Tributários e Aduaneiros e que terá uma plena articulação de cooperação com o Instituto de Gestão Financeira da Segurança Social, nomeadamente na constituição dos ficheiros dos contribuintes, acções de cobrança, controlo, fiscalização e investigação por forma a assegurar intervenções integradas na recuperação dos créditos do Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "a9ada1e1f6e2b35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, missão e atribuições"
+  },
+  "912649665a9afbd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\n1 - O Ministério das Finanças e da Administração Pública, adiante designado por MFAP, é o departamento governamental responsável pela definição e condução da política financeira do Estado, designadamente nos domínios orçamental e fiscal, pela coordenação das políticas financeiras dos diversos subsectores do sector público administrativo, nomeadamente no quadro das obrigações decorrentes do artigo 104.º do Tratado que institui a Comunidade Europeia, bem como das relações financeiras do Estado com a União Europeia e outros Estados e organizações internacionais, e bem como pela concepção, execução e avaliação da política referente à Administração Pública.\n\n2 - O MFAP, no âmbito das suas atribuições, assegura as relações do Governo com o Tribunal de Contas, os tribunais tributários e o Banco de Portugal, com respeito pela independência dessas instituições."
+  },
+  "1a3b60033ef10897": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do MFAP:\n\na) A definição e controlo da execução da política financeira do Estado, nomeadamente nos domínios orçamental e fiscal, tendo especialmente em atenção a prossecução de objectivos de estabilização conjuntural e de desenvolvimento económico, no quadro da política económica definida pelos órgãos de soberania, designadamente a Assembleia da República e o Governo, e pelos órgãos competentes da União Europeia;\n\nb) A concepção e execução da política fiscal;\n\nc) A gestão directa dos instrumentos financeiros do Estado, designadamente o Orçamento, o Tesouro e o património;\n\nd) A tutela das empresas públicas, isoladamente ou em conjunto com o membro ou membros do Governo responsáveis pelo respectivo sector de actividade;\n\ne) O exercício da função de accionista do Estado;\n\nf) A coordenação e controlo da actividade financeira dos diversos subsectores do sector público administrativo, designadamente no quadro das obrigações decorrentes do artigo 104.º do Tratado que institui a Comunidade Europeia e do Pacto de Estabilidade e Crescimento;\n\ng) A tutela financeira das autarquias locais;\n\nh) A coordenação das relações financeiras entre o Estado e as Regiões Autónomas;\n\ni) A coordenação das relações financeiras do Estado com a União Europeia, os outros Estados e as organizações internacionais;\n\nj) O controlo da fronteira externa comunitária para fins fiscais e económicos;\n\nl) O controlo do território aduaneiro nacional para os fins referidos na alínea anterior;\n\nm) A definição, coordenação e avaliação das políticas de recursos humanos na Administração Pública, nomeadamente no que se refere aos regimes de emprego público e ao desenvolvimento e qualificação profissional;\n\nn) A definição, coordenação e aplicação das políticas relativas à Administração Pública, designadamente nas áreas referentes à organização e funcionamento dos serviços, à simplificação de estruturas e de procedimentos, visando o aumento da eficácia e eficiência dos serviços, à racionalização da actividade administrativa e à promoção da qualidade dos serviços públicos."
+  },
+  "f21c8d266df155df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica"
+  },
+  "240fd000707217e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Serviços e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Serviços e órgãos"
+  },
+  "1b9f103e6e20c17e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MFAP prossegue as suas atribuições através de serviços integrados na administração directa do Estado, através de organismos integrados na administração indirecta do Estado e de órgãos consultivos."
+  },
+  "d1952c51941047ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nOs serviços centrais do MFAP integrados na administração directa do Estado são os seguintes:\n\n1) Executivos:\n\na) Secretaria-Geral (SGMFAP);\n\nb) Direcção-Geral de Estudos e Previsão (DGEP);\n\nc) Direcção-Geral do Orçamento (DGO);\n\nd) Direcção-Geral dos Impostos (DGCI);\n\ne) Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC);\n\nf) Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA);\n\ng) Direcção-Geral do Tesouro (DGT);\n\nh) Direcção-Geral do Património (DGP);\n\ni) Direcção-Geral da Administração Pública (DGAP);\n\nj) Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE);\n\nl) Direcção-Geral de Assuntos Europeus e Relações Internacionais (DGAERI);\n\n2) De controlo, auditoria e fiscalização:\n\na) Inspecção-Geral de Finanças (IGF);\n\nb) Inspecção-Geral da Administração Pública (IGAP)."
+  },
+  "54431253d21aaae8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Fundos autónomos não personalizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fundos autónomos não personalizados\n\nConstituem fundos autónomos não personalizados do MFAP:\n\na) O Fundo de Estabilização Aduaneiro (FEA);\n\nb) O Fundo de Estabilização Tributário (FET);\n\nc) O Fundo de Regularização da Dívida Pública (FRDP)."
+  },
+  "00effb44539b3514": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Administração indirecta do Estado\n\n1 - Prosseguem as atribuições cometidas ao MFAP, sob a superintendência e ou tutela do respectivo Ministro, os seguintes organismos:\n\na) Caixa Geral de Aposentações, I. P. (CGA);\n\nb) Instituto de Informática, I. P. (II);\n\nc) Serviços Sociais do Ministério das Finanças e da Administração Pública, I. P. (SOFE);\n\nd) Instituto Nacional de Administração, I. P. (INA);\n\ne) Instituto para a Gestão das Lojas do Cidadão, I. P. (IGLC);\n\nf) Instituto de Gestão do Crédito Público, I. P. (IGCP).\n\n2 - O Instituto de Seguros de Portugal, I. P. (ISP) e a Comissão do Mercado de Valores Mobiliários, I. P. (CMVM), entidades de regulação e supervisão que se regem por estatutos próprios, prosseguem as atribuições cometidas ao MFAP sob tutela do respectivo Ministro.\n\n3 - O Ministro das Finanças e da Administração Pública detém ainda a tutela conjunta com o membro do Governo responsável pelo respectivo sector de actividade, nos termos estabelecidos em diploma próprio."
+  },
+  "60e25c89ef1eaa49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgão consultivo\n\nÉ órgão consultivo o Conselho Superior de Finanças."
+  },
+  "e424dcde74411668": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Serviços, organismos, entidades e órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Serviços, organismos, entidades e órgãos consultivos"
+  },
+  "f5323cde0e79d606": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Serviços de administração directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Serviços de administração directa"
+  },
+  "0726e985efc4fa2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria-Geral\n\n1 - A SGMFAP é o serviço de apoio técnico e administrativo aos gabinetes dos membros do Governo, e ao órgão consultivo referido no artigo 7.º, ao qual incumbe assegurar o contencioso e consulta jurídica aos membros do Governo, a coordenação e gestão partilhada dos recursos comuns aos diversos serviços do MFAP e ainda processar, financiar e pagar as despesas resultantes de reconstituição de bens, acidentes em serviço, indemnizações, tratamentos e outras despesas com sinistrados dos serviços da Administração Pública com autonomia administrativa e sem receitas próprias.\n\n2 - A SGMFAP é dirigida por um secretário-geral, coadjuvado por dois adjuntos."
+  },
+  "894eaa0330c9bd41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção-Geral de Estudos e Previsão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção-Geral de Estudos e Previsão\n\n1 - A DGEP é o serviço de apoio técnico do Ministro das Finanças e da Administração Pública em matéria de política macroeconómica, tendo por base a investigação científica teórica e aplicada no domínio da economia, bem como o acompanhamento da conjuntura económica numa perspectiva de antecipação da evolução dos principais agregados macroeconómicos, permitindo a definição das políticas adequadas à prossecução dos objectivos de estabilização conjuntural e de desenvolvimento económico.\n\n2 - A DGEP é dirigida por um director-geral, coadjuvado por um subdirector-geral."
+  },
+  "6c48876a7a8a18dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção-Geral do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção-Geral do Orçamento\n\n1 - A DGO é o serviço que superintende na elaboração e execução do Orçamento do Estado, na contabilidade do Estado e no controlo da legalidade, regularidade e economia da administração financeira do Estado.\n\n2 - A DGO é dirigida por um director-geral, coadjuvado por três subdirectores-gerais."
+  },
+  "cadb24c0326bf1da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção-Geral dos Impostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção-Geral dos Impostos\n\n1 - A DGCI é o serviço ao qual incumbe administrar os impostos sobre o rendimento e sobre o património e os impostos gerais sobre o consumo, de acordo com as políticas definidas pelo Governo em matéria tributária.\n\n2 - A DGCI é dirigida por um director-geral, coadjuvado por nove subdirectores-gerais\n\n3 - O director-geral é nomeado nos termos do disposto nos n.os 2 e 3 do artigo 14.º"
+  },
+  "b1170d14d9423f44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo\n\n1 - A DGAIEC é o serviço ao qual incumbe, de acordo com as políticas definidas pelo Governo e nos termos do disposto na legislação comunitária:\n\na) Exercer o controlo da fronteira externa comunitária e do território aduaneiro nacional para fins fiscais, económicos e de protecção da sociedade, designadamente no âmbito da cultura e da segurança e saúde públicas;\n\nb) Administrar os impostos especiais sobre o consumo.\n\n2 - A DGAIEC é dirigida por um director-geral, coadjuvado por cinco subdirectores-gerais.\n\n3 - O director-geral é nomeado nos termos do disposto nos n.os 2 e 3 do artigo 14.º"
+  },
+  "4249b985366e6391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros\n\n1 - A DGITA é o serviço ao qual incumbe apoiar as Direcções-Gerais dos Impostos e das Alfândegas e dos Impostos Especiais sobre o Consumo no domínio dos sistemas e tecnologias de informação.\n\n2 - A DGITA é dirigida por um director-geral, coadjuvado por cinco subdirectores-gerais.\n\n3 - O director-geral é nomeado nos termos do disposto nos n.os 2 e 3 do artigo 14.º"
+  },
+  "b7c10283f7652ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Conselho de administração das Contribuições e Impostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho de administração das Contribuições e Impostos\n\n1 - É constituído o conselho de administração das Contribuições e Impostos (CACI), ao qual incumbe o exercício das competências dos directores-gerais dos Impostos, das Alfândegas e dos Impostos Especiais sobre o Consumo e da Informática e Apoio aos Serviços Tributários e Aduaneiros.\n\n2 - O CACI é constituído por um presidente e quatro a seis vogais, nomeados por despacho do Primeiro-Ministro e do Ministro das Finanças e da Administração Pública por um período de três anos, renovável por iguais períodos.\n\n3 - As regras de funcionamento do CACI, bem como as áreas de actuação de cada um dos seus membros, são definidas por despacho do Ministro das Finanças e da Administração Pública, sob proposta do presidente.\n\n4 - Sem prejuízo do disposto nos n.os 2 e 3, um dos vogais do CACI é por inerência um dos membros do conselho directivo do Instituto de Gestão Financeira da Segurança Social (IGFSS), sendo que um dos membros do conselho directivo deste Instituto é por inerência um dos vogais do CACI.\n\n5 - As normas de articulação entre o CACI e o IGFSS, que devem estabelecer uma intervenção integrada na recuperação dos créditos do Estado, são definidas por diploma próprio.\n\n6 - O estatuto dos membros do CACI, nomeadamente o remuneratório, será fixado por despacho do Primeiro-Ministro e do Ministro das Finanças e da Administração Pública."
+  },
+  "e2fc7d8e9663b9e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção-Geral do Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção-Geral do Tesouro\n\n1 - A DGT é o serviço que assegura a administração da tesouraria central do Estado e a prestação de serviços conexos a entidades do sector público administrativo, a efectivação das operações de intervenção financeira do Estado, o estudo, a preparação e o acompanhamento das matérias respeitantes ao exercício da tutela financeira do sector público administrativo e empresarial e da função accionista.\n\n2 - A DGT é dirigida por um director-geral, coadjuvado por quatro subdirectores-gerais."
+  },
+  "72f6d836fc1da396": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção-Geral do Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção-Geral do Património\n\n1 - A DGP é o serviço ao qual incumbe a gestão integrada do património do Estado, a preparação e a actualização do inventário do património do Estado, bem como a coordenação e o controlo da actividade gestionária patrimonial do sector público estadual.\n\n2 - A DGP é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais."
+  },
+  "8b84380892c4f099": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direcção-Geral da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção-Geral da Administração Pública\n\n1 - A DGAP é o serviço ao qual incumbe a realização de estudos, bem como o apoio técnico e legislativo no âmbito da definição de medida de política de pessoal e de emprego público.\n\n2 - A DGAP é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais."
+  },
+  "1d83be1416962e96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública\n\n1 - A ADSE é o serviço que assegura a protecção dos seus beneficiários no domínio da saúde e procede à verificação do direito aos encargos familiares.\n\n2 - A ADSE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais."
+  },
+  "4ed29b00c76fc2e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Direcção-Geral de Assuntos Europeus e Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção-Geral de Assuntos Europeus e Relações Internacionais\n\n1 - A DGAERI é o serviço ao qual incumbe a coordenação das relações externas, a centralização da informação nos domínios da União Europeia e internacional e ainda assegurar a participação do Ministério nos organismos comunitários e internacionais, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros.\n\n2 - A DGAERI é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais."
+  },
+  "6e59b531b2e71237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Inspecção-Geral de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Inspecção-Geral de Finanças\n\n1 - A IGF é o serviço de controlo financeiro de auditoria e apoio técnico cuja actuação abrange os serviços da administração directa do Estado, das entidades do sector público administrativo e empresarial, bem como dos sectores privado e cooperativo, no âmbito das relações financeiras com o Estado.\n\n2 - A IGF é dirigida por um inspector-geral, coadjuvado por quatro subinspectores-gerais."
+  },
+  "dad6bb7cc83ada09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Inspecção-Geral da Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Inspecção-Geral da Administração Pública\n\n1 - A IGAP é o serviço responsável pelo controlo da legalidade e auditoria de gestão de todos os serviços da Administração Pública, nomeadamente nos domínios da organização, gestão e funcionamento dos serviços, das medidas de gestão, qualificação e desenvolvimento de recursos humanos, bem como nas áreas de modernização e racionalização administrativa da qualidade dos serviços públicos.\n\n2 - A IGAP é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais."
+  },
+  "0ead6785391d5980": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Fundos autónomos não personalizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Fundos autónomos não personalizados"
+  },
+  "302d78505eb64be1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Fundo de Estabilização Aduaneiro e Fundo de Estabilização Tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fundo de Estabilização Aduaneiro e Fundo de Estabilização Tributário\n\n1 - O FEA é um fundo autónomo não personalizado, gerido pela DGAIEC, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro.\n\n2 - O FET é um fundo autónomo não personalizado, gerido em conjunto pela DGCI e pela DGITA e regulado pelo [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, sendo o rendimento do património afecto a obras sociais e ao pagamento dos suplementos atribuídos em função de particularidades específicas da prestação de trabalho dos funcionários e agentes da DGCI e da DGITA.\n\n3 - São receitas do FET, nos termos da lei em vigor, um montante até 5% das cobranças coercivas derivadas de processos instaurados nos serviços da DGCI e das receitas de natureza fiscal arrecadadas no âmbito da aplicação do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, montante que será definido, anualmente, mediante portaria do MFAP, bem como as receitas previstas no artigo 5.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, e no artigo 4.º do [Decreto-Lei n.º 303/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2003-429629), de 5 de Dezembro."
+  },
+  "ee384e7e3e79a05f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Fundo de Regularização da Dívida Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fundo de Regularização da Dívida Pública\n\nO FRDP é um fundo autónomo não personalizado cuja função genérica consiste em promover a amortização da dívida pública e em regular a procura e a oferta dos títulos da dívida pública no mercado secundário, de acordo com as orientações de política monetária e de gestão da dívida pública definidas pelo Ministro das Finanças e da Administração Pública."
+  },
+  "fbaf2110fffe30f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Dos serviços de administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Dos serviços de administração indirecta do Estado"
+  },
+  "7de9bf675545615b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Caixa Geral de Aposentações, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Caixa Geral de Aposentações, I. P.\n\n1 - A CGA é uma pessoa colectiva de direito público que tem por objectivo a gestão do regime de segurança social público em matéria de pensões.\n\n2 - A CGA é dirigida por um conselho de administração dirigido por um presidente e dois vogais."
+  },
+  "4eef86667fde7d43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Instituto de Informática, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instituto de Informática, I. P.\n\n1 - O II é o serviço que tem por objectivo contribuir para a eficácia do aparelho administrativo do Estado, através da promoção, do desenvolvimento e da exploração de sistemas e tecnologias de informação, no quadro de uma perspectiva global de economia de recursos e de protecção ao investimento na Administração Pública.\n\n2 - O II é dirigido por um conselho de administração composto por um presidente e dois vogais."
+  },
+  "d832e3eedfce7747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Serviços Sociais do Ministério das Finanças e da Administração Pública, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Serviços Sociais do Ministério das Finanças e da Administração Pública, I. P.\n\n1 - Os SOFE têm por objectivo contribuir para a melhoria do nível de vida dos seus beneficiários, assegurando-lhes o acesso às prestações do sistema de acção social complementar.\n\n2 - Os SOFE são dirigidos por um conselho de administração dirigido por um presidente, que é por inerência o secretário-geral do MFAP, e dois vogais."
+  },
+  "b557449047ca80a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Instituto Nacional de Administração, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instituto Nacional de Administração, I. P.\n\n1 - O INA tem por objectivo contribuir, através da formação, da investigação científica e da assessoria técnica, para a modernização da Administração Pública e para a qualificação e actualização dos seus recursos humanos.\n\n2 - O INA é dirigido por um conselho de administração composto por um presidente e dois vogais."
+  },
+  "9f4d46b745e81ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Instituto para a Gestão das Lojas do Cidadão, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Instituto para a Gestão das Lojas do Cidadão, I. P.\n\n1 - O IGLC tem por objectivo o desenvolvimento e a gestão de serviços de informação, atendimento e prestação de serviços ao cidadão, designadamente através das lojas do cidadão e da rede complementar de postos de atendimento ao cidadão.\n\n2 - O IGLC é dirigido por um conselho de administração composto por um presidente e dois vogais."
+  },
+  "7b7168b866db1203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Instituto de Seguros de Portugal, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Instituto de Seguros de Portugal, I. P.\n\n1 - O ISP tem por objectivo a regulação e supervisão da actividade seguradora e resseguradora, dos fundos de pensões e da actividade de mediação de seguros.\n\n2 - O ISP é dirigido por um conselho de administração composto por um presidente e dois a quatro vogais."
+  },
+  "9a906ead8c27f7e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Instituto de Gestão do Crédito Público, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instituto de Gestão do Crédito Público, I. P.\n\n1 - O IGCP tem por objectivo a gestão da dívida pública directa e do financiamento do Estado.\n\n2 - O IGCP é dirigido por um conselho de administração composto por um presidente e dois vogais."
+  },
+  "4e73aba7bd0a1c68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Comissão do Mercado de Valores Mobiliários, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Comissão do Mercado de Valores Mobiliários, I. P.\n\n1 - A CMVM tem por objectivo a supervisão e a regulação das entidades que intervêm na emissão, gestão e negociação de valores mobiliários e outros instrumentos financeiros, bem como dos respectivos mercados e entidades que os gerem.\n\n2 - A CMVM é dirigida por um conselho de administração composto por um presidente e dois a quatro vogais."
+  },
+  "2b50e2f2d6aef75a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Órgão consultivo"
+  },
+  "f75432f9d493094f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Conselho Superior de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Conselho Superior de Finanças\n\n1 - O Conselho Superior de Finanças tem por objectivo coadjuvar o Ministro das Finanças e da Administração Pública na definição e execução das diversas políticas a prosseguir no âmbito do respectivo Ministério.\n\n2 - A composição, a competências e o modo de funcionamento do órgão referido no número anterior são os definidos por despacho do Ministro das Finanças e da Administração Pública."
+  },
+  "3968c5159574e588": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Tutela sobre as empresas públicas e exercício da função de accionista do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Tutela sobre as empresas públicas e exercício da função de accionista do Estado"
+  },
+  "4354cb4f8ea49094": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Tutela sobre as empresas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Tutela sobre as empresas públicas\n\n1 - Compete ao Ministro das Finanças e da Administração Pública, com a faculdade de delegação e subdelegação, o exercício dos poderes de tutela previstos na lei em relação às empresas públicas do sector financeiro.\n\n2 - Compete ao Ministro das Finanças e da Administração Pública, isoladamente ou em conjunto com o membro ou membros do Governo responsáveis pelo respectivo sector de actividade, com a faculdade de delegação, o exercício dos poderes de tutela previstos na lei em relação às empresas públicas do sector não financeiro."
+  },
+  "ab2352d433708a34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Exercício da função de accionista do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exercício da função de accionista do Estado\n\n1 - Compete ao Ministro das Finanças e da Administração Pública, com a faculdade de delegação e subdelegação, o exercício exclusivo da função de accionista do Estado em relação às empresas do sector financeiro.\n\n2 - Compete ao Ministro das Finanças e da Administração Pública, isoladamente ou em conjunto com o membro ou membros do Governo responsáveis pelo respectivo sector de actividade, com a faculdade de delegação, o exercício da função de accionista do Estado em relação às sociedades de capitais públicos e sociedades de economia mista do sector não financeiro."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "9c2987e04d1ef270": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Regulamentação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Regulamentação de serviços"
+  },
+  "b5b0e8a1b079559b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Legislação decorrente deste decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação decorrente deste decreto-lei\n\nOs serviços continuam a reger-se pelas disposições normativas que lhes são aplicáveis, enquanto não entrarem em vigor os diplomas que aprovem as respectivas estruturas orgânicas."
+  },
+  "26b407e5bf19fec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Transição de pessoal"
+  },
+  "218023fe0bd42750": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Situações especiais\n\n1 - O pessoal que se encontra na situação de licença sem vencimento mantém os direitos que detinha à data de início da referida licença, com aplicação do regime previsto no [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro.\n\n2 - O pessoal que se encontre em regime de destacamento, requisição, interinidade, comissão de serviço ou outras situações precárias previstas na lei manter-se-á em idêntico regime.\n\n3 - O pessoal que à data da entrada em vigor deste decreto-lei se encontre em regime de estágio mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elemento do júri, o qual fará a respectiva avaliação e classificação final.\n\n4 - Mantêm-se os concursos a decorrer à data da entrada em vigor do presente diploma."
+  },
+  "167733fbbfe49050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Quadro de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Quadro de pessoal dirigente\n\nO pessoal dirigente dos serviços e organismos previstos no presente diploma consta do mapa anexo, que dele faz parte integrante, considerando-se desde já criados os respectivos lugares."
+  },
+  "3d24fdd523c5c8c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Disposições finais"
+  },
+  "5b6a8e90a72ff4eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Referências legais\n\n1 - As referências legais feitas na legislação em vigor ao Ministro das Finanças ou ao Ministro da Reforma do Estado e da Administração Pública em matérias que se insiram nas atribuições e competências do MFAP entendem-se reportadas ao Ministro das Finanças e da Administração Pública.\n\n2 - As referências legais feitas na legislação em vigor ao Ministério das Finanças entendem-se reportadas ao MFAP."
+  },
+  "fdab9af271fef0c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Norma revogatória\n\nSão revogados:\n\na) O [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), de 3 de Setembro, com a redacção dada pelo [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), de 8 de Maio, pelo [Decreto-Lei n.º 207/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1997-202778), de 13 de Agosto, pelo artigo 3.º do [Decreto-Lei n.º 28/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1998-229486), de 11 de Fevereiro, pelo [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), de 28 de Janeiro, pelo artigo 2.º do [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), de 13 de Novembro, e pelo artigo 2.º do [Decreto-Lei n.º 315/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), de 10 de Dezembro;\n\nb) O [Decreto-Lei n.º 321/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1997-406530), de 26 de Novembro;\n\nc) O [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 Novembro, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), de 26 de Março;\n\nd) O n.º 2 do artigo 3.º e os artigos 6.º, 7.º, 9.º e 10.º do [Decreto-Lei n.º 151/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2000-321283), de 20 de Julho.\n\nVisto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.\n\nPromulgado em 4 de Fevereiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Fevereiro de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "f49213af8be1cee4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa a que se refere o artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa a que se refere o artigo 37.º\n\nSecretário-geral - 1.\n\nSecretários-gerais-adjuntos - 2.\n\nDirectores-gerais - 10.\n\nSubdirectores-gerais - 34.\n\nInspectores-gerais - 2.\n\nSubinspectores-gerais - 6.\n\nPresidentes - 8.\n\nVogais - 20."
+  },
+  "3aebeaff71646d9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Fundo de Estabilização Aduaneiro e Fundo de Estabilização Tributário",
+   "in_force_from": "2017-09-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 202.º do/a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), publicado em 2016-03-30.",
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 113/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), publicado em 2017-09-07."
+   ],
+   "markdown": "###### Artigo 22.º — Fundo de Estabilização Aduaneiro e Fundo de Estabilização Tributário\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 202.º do/a [Lei n.º 7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), publicado em 2016-03-30.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 113/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698), publicado em 2017-09-07."
+  }
+ }
+}

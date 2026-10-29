@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-08-10'
+version_history:
+  file: decreto-lei-343-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-08-10'
+    amending: pt:dre:537249:por
+    amending_title: Lei n.º 30/2006
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:42:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-343-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:
+###### Artigo 1.º
+
+1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:
 
 a) Abrigos fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;
 
@@ -135,17 +152,25 @@ e) Parques para caravanas.
 
 2. O regime poderá ser aplicado a outras situações, mediante portaria conjunta dos Ministros da Administração Interna e do Equipamento Social e do Ambiente.
 
-Art. 2.º Enquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma.
+###### Artigo 2.º
 
-Art. 3.º As câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º
+Enquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma.
 
-Art. 4.º - 1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.
+###### Artigo 3.º
+
+As câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º
+
+###### Artigo 4.º
+
+1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.
 
 2. A licença pode ser condicionada, nomeadamente através da imposição de medidas de integração na paisagem e de protecção aos sítios.
 
 3. A licença é concedida a título precário, por prazo não superior a três anos, renovável a requerimento dos interessados.
 
-Art. 5.º - 1. O presidente da câmara deverá determinar a apreensão do título da licença:
+###### Artigo 5.º
+
+1. O presidente da câmara deverá determinar a apreensão do título da licença:
 
 a) Se não for dado cumprimento às condições fixadas;
 
@@ -157,15 +182,25 @@ b) Se, em momento posterior à concessão, se verificar qualquer dos efeitos pre
 
 4. Na falta de pagamento voluntário, proceder-se-á à cobrança coerciva, servindo de título executivo certidão, passada pelos serviços, donde conste o quantitativo global das despesas.
 
-Art. 6.º São punidos com multa de 10000$00 a 100000$00, a pagar na tesouraria da câmara municipal:
+###### Artigo 6.º
 
-a) A violação do n.º 1 do artigo 1.º;
+1 - Constitui contra-ordenação punida com coima de (euro) 50 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 40000, no caso de pessoa colectiva:
+
+a) A violação do disposto no n.º 1 do artigo 1.º;
 
 b) O não acatamento das condições impostas nos termos do n.º 2 do artigo 4.º;
 
 c) A falta de cumprimento da ordem a que se refere o n.º 2 do artigo 5.º
 
-Art. 7.º As instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º
+2 - É competente para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas o presidente da câmara municipal do local da prática da infracção, podendo delegá-la em qualquer dos seus membros.
+
+3 - O produto das coimas reverte para o Estado e para a câmara municipal referida no número anterior nas percentagens de 60% e 40%, respectivamente.
+
+> Alterado pelo/a Artigo 25.º do/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11.
+
+###### Artigo 7.º
+
+As instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.
 

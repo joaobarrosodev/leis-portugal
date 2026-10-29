@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540003:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "700f3cc49bfa1ed5",
+    "4f8654acb706a2a5",
+    "2c866e92390584a5",
+    "a9ec84d9cf0632f5",
+    "c995d6527b78c652",
+    "df3b00596bbbcdca",
+    "b43eb6631f29bee6",
+    "0ec41f9dc16d2378",
+    "cbf04896505cad03",
+    "10f1634f5f2df8cd",
+    "6c4b35360c4f18b7",
+    "0a1a21bf1863cb52",
+    "1d0d0eee4e75d263",
+    "77c047662c2e2f43"
+   ]
+  },
+  {
+   "date": "2007-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:627824:por",
+     "title": "Portaria n.º 1611/2007",
+     "published": "2007-12-20",
+     "dre_path": "/dr/detalhe/portaria/1611-2007-627824"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "700f3cc49bfa1ed5",
+    "4f8654acb706a2a5",
+    "2c866e92390584a5",
+    "b00a35a8d521f2b1",
+    "c995d6527b78c652",
+    "df3b00596bbbcdca",
+    "b43eb6631f29bee6",
+    "0ec41f9dc16d2378",
+    "cbf04896505cad03",
+    "10f1634f5f2df8cd",
+    "6c4b35360c4f18b7",
+    "0a1a21bf1863cb52",
+    "63e3e42ba15b3db1",
+    "77c047662c2e2f43"
+   ]
+  }
+ ],
+ "fragments": {
+  "700f3cc49bfa1ed5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Setembro\n\nO Decreto-Lei n.º 160/2005, de 21 de Setembro, veio regular o cultivo de variedades geneticamente modificadas, visando assegurar a sua coexistência com culturas convencionais e com o modo de produção biológico.\n\nCom efeito, face à disponibilidade no mercado comunitário de sementes de variedades geneticamente modificadas, tornou-se necessário estabelecer um quadro regulamentar que discipline aquele cultivo, visando a sua compatibilização entre as diferentes formas de produção agrícola e tendo, ainda, em conta o princípio de que os agricultores devem poder optar livremente pelo modo de produção agrícola a praticar.\n\nTendo por base aquele princípio, reconheceu-se que, uma vez verificadas certas condições, os agricultores teriam à sua disposição a possibilidade de, por um lado, recorrerem ao estabelecimento de zonas de produção de variedades geneticamente modificadas e, por outro, ao estabelecimento de zonas livres de cultivo de variedades geneticamente modificadas, tendo, quanto às zonas livres, o citado decreto-lei remetido a sua regulamentação para portaria.\n\nConfere-se, ainda, aos municípios a iniciativa de requererem o estabelecimento de zonas livres, mediante a observação de determinadas condições e no respeito pela vontade dos agricultores de uma dada zona.\n\nProcede-se, deste modo, à publicação da portaria, tendo, particularmente, em conta, por um lado, que só se justifica tal estabelecimento para áreas agrícolas nas quais os agricultores se dedicam ao cultivo de uma espécie referida no anexo I do Decreto-Lei n.º 160/2005, de 21 de Setembro, e que o modo de produção que praticam não contempla, em caso algum, o cultivo de variedades geneticamente modificadas e, por outro, que a reduzida dimensão média da propriedade agrícola prevalecente em algumas zonas do país leva, necessariamente, a que a única forma viável de se proceder ao estabelecimento de zonas livres passa pela definição de uma unidade mínima de referência que possa ser objecto desse estabelecimento e que resulte de uma decisão voluntária dos agricultores cujas explorações agrícolas sejam contíguas.\n\nTendo por base o interesse de conferir às zonas livres uma identidade própria com representatividade em termos agrícolas, a unidade mínima de referência é definida em 3000 ha para o conjunto das explorações agrícolas que as integrem, permitindo, assim, compatibilizar os objectivos a atingir pelos seus titulares, através de uma clarificação do tipo de produção que assumem praticar, com a operacionalização do estabelecimento dessas zonas no território nacional.\n\nConfere-se, assim, aos agricultores a possibilidade de obterem, por parte de um organismo oficial, a divulgação pública de que por sua decisão voluntária nas suas explorações agrícolas não são cultivadas variedades geneticamente modificadas, designando-se as direcções regionais de agricultura como entidades competentes para procederem à recepção e à avaliação dos pedidos de estabelecimento de zonas livres do cultivo de variedades geneticamente modificadas e, em consequência, procederem à sua publicitação.\n\nDeste modo, faz-se, essencialmente, depender a manutenção do estabelecimento de uma zona livre do cumprimento do acordo que os agricultores entre si celebram e declaram.\n\nForam observados os procedimentos previstos no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpôs a Directiva n.º [98/34/CE](http://data.europa.eu/eli/dir/1998/34/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º [98/48/CE](http://data.europa.eu/eli/dir/1998/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Julho, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas.\n\nAssim, ao abrigo do disposto no artigo 13.º do Decreto-Lei n.º 160/2005, de 21 de Setembro:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  },
+  "4f8654acb706a2a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente portaria estabelece as condições e o procedimento para o estabelecimento de zonas livres de cultivo de variedades geneticamente modificadas, a seguir designadas por zonas livres."
+  },
+  "2c866e92390584a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos da presente portaria, consideram-se:\n\na) «Zonas livres» as áreas agrícolas nas quais não são cultivadas variedades geneticamente modificadas de uma determinada espécie vegetal por decisão voluntária e expressa de todos os agricultores que cultivam essa espécie vegetal nessa zona;\n\nb) «Estabelecimento de zona livre» o acto pelo qual as direcções regionais de agricultura (DRA), com base em decisão voluntária e expressa de todos os agricultores abrangidos ou por iniciativa do município e com o acordo daqueles, publicitam que numa dada exploração, num conjunto de explorações agrícolas ou numa dada área de um município não se cultivam variedades geneticamente modificadas."
+  },
+  "a9ec84d9cf0632f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Procedimento para o estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento para o estabelecimento\n\nOs agricultores ou as suas organizações e as empresas agrícolas que pretendam estabelecer-se em zonas livres ou o município, no caso de o estabelecimento ser de iniciativa municipal, devem apresentar o pedido à DRA da área de localização das explorações agrícolas, atento o disposto no n.º 2 do artigo 4.º, acompanhado dos seguintes documentos:\n\na) Declaração escrita conjunta de que nas suas explorações agrícolas se dedicam ao cultivo de uma espécie referida no anexo I do Decreto-Lei n.º 160/2005, de 21 de Setembro, e de que o modo de produção que praticam não contempla, em caso algum, o cultivo de variedades geneticamente modificadas nessa zona;\n\nb) Relação e identificação de todos os agricultores interessados, incluindo a denominação das suas explorações, respectivas áreas e localização, bem como o comprovativo de que a área total do conjunto das explorações tem a área mínima referida no artigo seguinte;\n\nc) No caso em que os agricultores referidos nas alíneas anteriores não sejam os proprietários das explorações agrícolas, declaração escrita de consentimento destes de que o modo de produção agrícola a praticar não contempla o cultivo de variedades geneticamente modificadas nessa zona."
+  },
+  "c995d6527b78c652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Área",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Área\n\n1 - A área mínima total do conjunto das explorações agrícolas deve perfazer 3000 ha contíguos.\n\n2 - Quando a área total das explorações agrícolas abranger diferentes DRA, a entidade competente para a recepção do pedido é aquela onde se situar a maior parte da área proposta, sem prejuízo da emissão de parecer das outras DRA a considerar na avaliação e na decisão do processo, a qual deve ser proferida no prazo de 30 dias úteis contados a partir da data da apresentação do pedido."
+  },
+  "df3b00596bbbcdca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Publicações\n\nAs decisões de estabelecimento de zonas livres previstas na presente portaria são objecto de publicação na 2.ª série do Diário da República."
+  },
+  "b43eb6631f29bee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Conteúdo da decisão de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo da decisão de estabelecimento\n\nDa decisão de estabelecimento deve constar a indicação expressa dos seguintes elementos:\n\na) Espécie vegetal visada;\n\nb) Denominação das explorações agrícolas;\n\nc) Área total;\n\nd) Localidades;\n\ne) Freguesias em que se integram e respectivos concelhos."
+  },
+  "0ec41f9dc16d2378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Duração do estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Duração do estabelecimento\n\n1 - O estabelecimento de zona livre é válido por um período máximo de cinco anos, contados a partir da data da sua publicação, podendo ser renovado ou cancelado.\n\n2 - Não ocorrendo nenhuma alteração de circunstância, considera-se que o estabelecimento de zona livre é automaticamente renovado por igual período."
+  },
+  "cbf04896505cad03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de comunicação\n\nOs subscritores de uma zona livre estabelecida ficam obrigados a comunicar à respectiva DRA qualquer violação que se verifique aos termos do acordo declarado, a que se refere o artigo 3.º"
+  },
+  "10f1634f5f2df8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alterações\n\nNão são permitidas modificações à relação prevista na alínea b) do artigo 3.º, salvo o disposto no artigo 10.º, estando os signatários vinculados ao seu integral cumprimento durante a duração da vigência do estabelecimento de uma zona livre."
+  },
+  "6c4b35360c4f18b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Renovação\n\n1 - Decorrido o prazo fixado no n.º 1 do artigo 7.º e caso ocorra alguma alteração de circunstância, terá de ser feito um pedido de renovação do estabelecimento da zona livre, que é submetido à DRA respectiva com a antecedência de 30 dias relativamente ao fim do prazo estabelecido e subscrito por todos os agricultores que o requererem.\n\n2 - O requerido pode incluir um pedido de alteração à relação de agricultores subscritores ou à área da zona livre estabelecida, sem prejuízo da apresentação da documentação necessária, nomeadamente da nova área proposta, bem como de declaração escrita dos agricultores renunciantes ou novos aderentes."
+  },
+  "0a1a21bf1863cb52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Caducidade do estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Caducidade do estabelecimento\n\nA caducidade do estabelecimento da zona livre pode ocorrer, nomeadamente, quando:\n\na) Não ocorra renovação automática e o prazo do estabelecimento tenha expirado;\n\nb) Seja formulado o respectivo pedido de cancelamento por todos os requerentes;\n\nc) Haja violação às declarações escritas previstas no artigo 3.º, nomeadamente pela existência de cultivo de variedades geneticamente modificadas em qualquer exploração agrícola da zona livre."
+  },
+  "1d0d0eee4e75d263": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Iniciativa municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Iniciativa municipal\n\n1 - O estabelecimento de uma zona livre pode ser requerido pelo município à DRA competente.\n\n2 - A assembleia municipal, após parecer positivo das estruturas representativas de agricultores, que devem informar os seus representados, delibera o pedido de estabelecimento de zona livre.\n\n3 - A deliberação sobre o pedido de estabelecimento de zona livre é aprovada por maioria qualificada de dois terços de todos os membros da assembleia municipal.\n\n4 - Caso algum agricultor da área proposta para zona livre declare por escrito a vontade de não participar na mesma, a assembleia municipal fica impedida de prosseguir com o pedido de estabelecimento.\n\n5 - Após a deliberação referida nos n.os 2 e 3, compete à câmara municipal assegurar o cumprimento do procedimento previsto no artigo 3.º\n\n6 - Compete igualmente ao município, nos termos previstos para o estabelecimento, a iniciativa tendente à cessação da zona livre ou renovação do pedido de estabelecimento, nos casos em que a mesma não ocorra automaticamente."
+  },
+  "77c047662c2e2f43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nCompete às DRA, em articulação com a Direcção-Geral de Protecção das Culturas, executar as acções de controlo e fiscalização necessárias para o cumprimento das disposições do presente diploma.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 21 de Agosto de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Agosto de 2006."
+  },
+  "b00a35a8d521f2b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Procedimento para o estabelecimento",
+   "in_force_from": "2007-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20."
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento para o estabelecimento\n\nOs agricultores ou as suas organizações e as empresas agrícolas que pretendam estabelecer-se em zonas livres ou o município, no caso de o estabelecimento ser de iniciativa municipal, devem apresentar o pedido à DRA da área de localização das explorações agrícolas, atento o disposto no n.º 2 do artigo 4.º, acompanhado dos seguintes documentos:\n\na) Declaração escrita e identificação de todos os agricultores interessados, incluindo a denominação das suas explorações, respectivas áreas e localização, bem como o comprovativo de que a área total do conjunto das explorações tem a área mínima referida no artigo seguinte;\n\nb) No caso em que os agricultores referidos na alínea anterior não sejam os proprietários das explorações agrícolas, declaração escrita de consentimento destes de que o modo de produção agrícola a praticar não contempla o cultivo de variedades geneticamente modificadas nessa zona;\n\nc) No caso de uma zona livre de iniciativa municipal que abranja toda a área do município, não é necessária a apresentação dos documentos referidos nas anteriores alíneas a) e b).\n\n> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20."
+  },
+  "63e3e42ba15b3db1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Iniciativa municipal",
+   "in_force_from": "2007-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20."
+   ],
+   "markdown": "###### Artigo 12.º — Iniciativa municipal\n\n1 - O estabelecimento de uma zona livre pode ser requerido pelo órgão executivo do município à DRA competente.\n\n2 - O órgão executivo do município, após parecer positivo das estruturas representativas dos agricultores, que devem informar os seus representados, apresenta o pedido de estabelecimento de zona livre para deliberação da assembleia municipal.\n\n3 - A deliberação sobre o pedido de estabelecimento de zona livre é aprovada por maioria absoluta dos votos dos membros presentes na reunião da assembleia municipal.\n\n4 - Caso algum agricultor da área proposta para zona livre declare por escrito a vontade de não participar na mesma, a assembleia municipal fica impedida de prosseguir com o pedido de estabelecimento.\n\n5 - Após a deliberação referida nos n.os 2 e 3, compete ao órgão executivo do município assegurar o cumprimento do procedimento previsto no artigo 3.º, devendo assegurar a publicitação da intenção de criação da zona livre através de edital, a afixar em todas as juntas de freguesia da área objecto de zona livre, bem como em jornal de maior tiragem na região e na página da Internet do município.\n\n6 - Compete igualmente ao órgão executivo do município, nos termos previstos para o estabelecimento, a iniciativa tendente à cessação da zona livre ou renovação do pedido de estabelecimento, nos casos em que a mesma não ocorra automaticamente.\n\n> Alterado pelo/a [Portaria n.º 1611/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1611-2007-627824), publicado em 2007-12-20."
+  }
+ }
+}

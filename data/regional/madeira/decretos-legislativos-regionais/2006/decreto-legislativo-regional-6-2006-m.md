@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-06'
+version_history:
+  file: decreto-legislativo-regional-6-2006-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-06'
+    amending: pt:dre:333363:por
+    amending_title: Decreto Legislativo Regional n.º 14/2010/M
+    changes:
+    - Adita Artigo 14.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/6/2006/03/14/m/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    14/2010/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2006/decreto-legislativo-regional-6-2006-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -295,6 +310,12 @@ iv) Os demais actos que, nos termos da legislação aplicável, necessitem de au
 5 - Os trabalhadores requisitados ou em comissão de serviço podem optar pela remuneração do seu lugar de origem ou a correspondente às funções que vão desempenhar.
 
 6 - A responsabilidade pela remuneração e demais encargos dos trabalhadores requisitados ou em comissão de serviço cabe à entidade onde se encontrem a exercer funções.
+
+###### Artigo 14.º-A — Execução fiscal das dívidas
+
+Os créditos devidos ao CARAM, E. P. E., ficam sujeitos ao regime do processo de execução fiscal.
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 14/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2010-333363), publicado em 2010-08-05.
 
 ###### Artigo 15.º — Transição do pessoal
 

@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667766:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f5cc345b37074de2",
+    "e0de0b573fa63a6a",
+    "1303f92413bdb158",
+    "c2849e0b9239f449",
+    "f4d2d8699abb05bc",
+    "b4dadc6427ffc6de",
+    "85fd3c806a656282",
+    "2824db972361662e",
+    "113d63963d8facbd",
+    "81481723443f08bd",
+    "34f6640ab764652a"
+   ]
+  },
+  {
+   "date": "1998-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522844:por",
+     "title": "Decreto-Lei n.º 130/98",
+     "published": "1998-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/130-1998-522844"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "f5cc345b37074de2",
+    "e0de0b573fa63a6a",
+    "1303f92413bdb158",
+    "c2849e0b9239f449",
+    "f4d2d8699abb05bc",
+    "c07fb2c35b3e2de5",
+    "85fd3c806a656282",
+    "2824db972361662e",
+    "113d63963d8facbd",
+    "81481723443f08bd",
+    "34f6640ab764652a"
+   ]
+  }
+ ],
+ "fragments": {
+  "f5cc345b37074de2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Outubro\n\nAtravés do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, procedeu-se à integração do ensino das tecnologias da saúde no sistema educativo nacional, no quadro do ensino superior politécnico.\n\nNo artigo 9.º deste diploma foi prevista a possibilidade de os cursos já ministrados nas escolas técnicas dos serviços de saúde conferirem o grau de bacharel desde que os respectivos planos de estudos correspondessem substancialmente aos planos de estudos dos bacharelatos então criados nas escolas superiores de tecnologia da saúde.\n\nOutras situações curriculares, porém, existem neste quadro de transição entre o ensino médio e o ensino superior que não foram contempladas por aquele diploma e que poderão conduzir ao reconhecimento do grau de bacharel ou do diploma de estudos superiores especializados aos seus titulares.\n\nNeste sentido, e através do presente diploma, faculta-se aos titulares de diplomas na área das tecnologias da saúde não abrangidos pelo artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444) a possibilidade de requererem o reconhecimento do grau de bacharel ou do diploma de estudos superiores especializados através de um processo de apreciação curricular, a realizar por um júri de reconhecida idoneidade e competência.\n\nForam ouvidas as organizações representativas dos técnicos de saúde.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e0de0b573fa63a6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma aplica-se aos cursos não superiores da área das tecnologias da saúde ministrados pelas escolas técnicas dos serviços de saúde e da Escola de Reabilitação do Alcoitão que não satisfaçam aos requisitos do n.º 3 do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro.\n\n2 - O disposto no presente diploma é ainda extensivo a outros cursos não superiores da área das tecnologias da saúde, legalmente criados e ministrados antes da entrada em vigor do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), que não satisfaçam aos requisitos do n.º 3 do seu artigo 9.º"
+  },
+  "1303f92413bdb158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - Aos titulares dos diplomas dos cursos a que se refere o artigo 1.º pode ser reconhecida a titularidade do grau de bacharel.\n\n2 - Aos titulares do diploma do curso complementar de Ensino e Administração, criado pela [Portaria n.º 549/86](https://diariodarepublica.pt/dr/detalhe/portaria/549-1986-221561), de 24 de Setembro, que sejam igualmente titulares do grau de bacharel, pode ser reconhecida a titularidade do diploma de estudos superiores especializados."
+  },
+  "c2849e0b9239f449": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Júri\n\nO reconhecimento a que se refere o artigo 2.º é da competência de um júri designado por deliberação do Conselho Coordenador dos Institutos Superiores Politécnicos."
+  },
+  "f4d2d8699abb05bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Constituição e funcionamento do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição e funcionamento do júri\n\n1 - O júri é constituído por:\n\na) Um presidente;\n\nb) Um docente de cada uma das escolas superiores de tecnologia da saúde, designado pelo respectivo conselho científico;\n\nc) Três personalidades de reconhecida competência.\n\n2 - Compete ao júri fixar as suas regras de funcionamento."
+  },
+  "b4dadc6427ffc6de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias sobre a entrada em vigor do presente diploma, ao júri a que se refere o artigo 3.º\n\n2 - Os requerimentos são entregues no Departamento dos Recursos Humanos da Saúde.\n\n3 - Compete ao Departamento dos Recursos Humanos da Saúde verificar a adequada instrução dos pedidos de acordo com os critérios fixados pelo júri."
+  },
+  "85fd3c806a656282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios\n\n1 - Compete ao júri fixar os critérios a satisfazer para a concessão do reconhecimento.\n\n2 - Na fixação dos critérios o júri tem em consideração, nomeadamente:\n\na) As habilitações escolares exigidas para o ingresso no curso;\n\nb) A duração, nível e conteúdo do curso;\n\nc) Outras habilitações escolares do requerente;\n\nd) A experiência profissional do requerente na área do curso de que requer reconhecimento.\n\n3 - Na apreciação dos requerimentos não é considerada qualquer equiparação, equivalência ou reconhecimento de natureza profissional ou académica que hajam sido anteriormente concedidas aos cursos a que se refere o artigo 1.º e ao curso complementar a que se refere o n.º 2 do artigo 2.º"
+  },
+  "2824db972361662e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma\n\n1 - O reconhecimento ao grau de bacharel expressa-se através da fórmula: «A ... (nome do requerente), diplomado com o curso de ... (curso que serve de base ao requerimento de reconhecimento), é reconhecida a titularidade do grau de bacharel.»\n\n2 - O reconhecimento ao diploma de estudos superiores especializados expressa-se através da fórmula: «A ... (nome do requerente), diplomado com o curso de ... (curso que serve de base ao requerimento de reconhecimento), é reconhecida a titularidade do diploma de estudos superiores especializados.»"
+  },
+  "113d63963d8facbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Efeitos\n\nO reconhecimento confere ao seu titular todos os efeitos inerentes à titularidade do grau ou diploma a que o mesmo foi concedido."
+  },
+  "81481723443f08bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio logístico\n\nO apoio logístico ao júri é prestado pelo Departamento de Recursos Humanos da Saúde."
+  },
+  "34f6640ab764652a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nOs Ministros da Educação e da Saúde, ouvido o júri, fixam, por portaria conjunta, as regras a que ficam sujeitos a divulgação dos critérios a que se refere o n.º 1 do artigo 6.º, o requerimento, a tramitação dos processos e o registo e certificação das deliberações do júri.\n\nVisto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Eduardo Arcos Gomes dos Reis.\n\nPromulgado em 26 de Setembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Outubro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "c07fb2c35b3e2de5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1998-522844), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O reconhecimento é solicitado através de requerimento dirigido, no prazo de 120 dias a contar da data da entrada em vigor da portaria prevista no artigo 10.º, ao júri a que se refere o artigo 3.º\n\n2 - Os requerimentos são entregues no Departamento dos Recursos Humanos da Saúde.\n\n3 - Compete ao Departamento dos Recursos Humanos da Saúde verificar a adequada instrução dos pedidos de acordo com os critérios fixados pelo júri.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 130/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1998-522844), publicado em 1998-05-13."
+  }
+ }
+}

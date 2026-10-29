@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-20'
+version_history:
+  file: portaria-1109-i-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-20'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001
+    changes:
+    - Altera Artigo ANEXO::5.º
+    - Altera Artigo ANEXO::6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-i/2000/11/27/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-i-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,19 +196,25 @@ b) Caminhos rurais: autarquias locais.
 
 ###### Artigo 5.º — Forma e valor das ajudas
 
-As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis, no caso dos caminhos agrícolas, e de 50%, no caso dos caminhos rurais.
+1 - As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis.
+
+2 - Quando se trate de caminhos rurais, a contrapartida nacional do financiamento é suportada pela autarquia local.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 6.º — Despesas elegíveis
 
 São elegíveis as despesas com:
 
-a) Elaboração de estudos e projectos;
+a) Elaboração de estudos e projectos até ao limite de 5% do custo da obra;
 
 b) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;
 
 c) Acompanhamento e fiscalização das obras;
 
 d) Controlo de qualidade em ensaios.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 7.º — Apresentação das candidaturas
 

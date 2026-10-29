@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-09-25'
+version_history:
+  file: decreto-lei-188-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-09-25'
+    amending: pt:dre:355494:por
+    amending_title: Lei n.º 108/88
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 108/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-188-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,13 +128,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - As universidades e institutos universitários poderão ser dotados de autonomia administrativa e financeira, nos termos do presente diploma.
+###### Artigo 1.º
+
+1 - As universidades e institutos universitários poderão ser dotados de autonomia administrativa e financeira, nos termos do presente diploma.
 
 2 - O Ministro da Educação e das Universidades, a pedido fundamentado das universidades e institutos universitários fixará, por portaria, a data a partir da qual passam ao regime de autonomia financeira.
 
 3 - Cada pedido deverá ser acompanhado dos instrumentos de previsão referidos no n.º 1 do artigo 6.º do presente diploma.
 
-Art. 2.º No uso da autonomia administrativa e financeira conferida pelo presente diploma, as universidades e os institutos universitários poderão:
+###### Artigo 2.º
+
+No uso da autonomia administrativa e financeira conferida pelo presente diploma, as universidades e os institutos universitários poderão:
 
 a) Autorizar e efectuar directamente o pagamento das suas despesas mediante fundos requisitados em conta das dotações atribuídas no Orçamento Geral do Estado, de cuja aplicação têm de prestar contas no termo de cada ano económico;
 
@@ -127,11 +146,15 @@ b) Dispor de receitas próprias provenientes do exercício das suas actividades 
 
 c) Arrendar directamente os edifícios indispensáveis à prossecução das suas actividades.
 
-Art. 3.º - 1 - Cada universidade e instituto universitário disporá de um conselho administrativo, constituído pelo reitor, que preside, pelo administrador e pelo director ou responsável dos serviços administrativos da universidade ou instituto universitário.
+###### Artigo 3.º
+
+1 - Cada universidade e instituto universitário disporá de um conselho administrativo, constituído pelo reitor, que preside, pelo administrador e pelo director ou responsável dos serviços administrativos da universidade ou instituto universitário.
 
 2 - Em matéria de autorização de despesas e celebração de contratos os conselhos administrativos das universidades ou institutos universitários têm a competência atribuída na lei geral aos responsáveis dos serviços com autonomia administrativa e financeira.
 
-Art. 4.º Compete aos conselhos administrativos das universidades e institutos universitários:
+###### Artigo 4.º
+
+Compete aos conselhos administrativos das universidades e institutos universitários:
 
 a) Promover a elaboração dos planos financeiros, anuais e plurianuais;
 
@@ -147,7 +170,7 @@ f) Verificar a legalidade das despesas e autorizar o seu pagamento;
 
 g) Promover a elaboração das contas de gerência e remetê-las ao Tribunal de Contas dentro do prazo legal;
 
-h) Promover a reposição nos cofres do Tesouro dos saldos das dotações atribuídas no Orçamento Geral do Estado;
+h) (Revogada.)
 
 i) Proceder periodicamente à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade e da tesouraria;
 
@@ -165,9 +188,15 @@ p) Promover a organização e permanente actualização do inventário e do cada
 
 q) Deliberar sobre todos os assuntos que, nos termos da legislação aplicável, se mostrem relevantes à prossecução das suas atribuições.
 
-Art. 5.º Na gestão administrativa e financeira as universidades e institutos universitários terão em consideração os princípios da gestão por objectivos e aplicarão as normas legais em vigor.
+> Revogado pelo/a Artigo 34.º do/a [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), publicado em 1988-09-24.
 
-Art. 6.º - 1 - A gestão económica e financeira das universidades e institutos universitários orientar-se-á pelos seguintes instrumentos de previsão:
+###### Artigo 5.º
+
+Na gestão administrativa e financeira as universidades e institutos universitários terão em consideração os princípios da gestão por objectivos e aplicarão as normas legais em vigor.
+
+###### Artigo 6.º
+
+1 - A gestão económica e financeira das universidades e institutos universitários orientar-se-á pelos seguintes instrumentos de previsão:
 
 a) Planos de actividades e planos financeiros, anuais e plurianuais;
 
@@ -177,15 +206,21 @@ c) Orçamentos privativos.
 
 2 - Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, tendo em consideração o planeamento geral do ensino superior, da investigação científica e das acções de extensão universitária.
 
-Art. 7.º A elaboração, apresentação e execução dos orçamentos constantes do Orçamento Geral do Estado reger-se-á pela lei geral em vigor.
+###### Artigo 7.º
 
-Art. 8.º - 1 - Sem prejuízo da elaboração dos orçamentos dos encargos a suportar por conta do Estado, os conselhos administrativos das universidades e institutos universitários promoverão, com base nos programas de actividades para cada ano económico, a elaboração dos respectivos orçamentos privativos anuais para aplicação das receitas próprias.
+A elaboração, apresentação e execução dos orçamentos constantes do Orçamento Geral do Estado reger-se-á pela lei geral em vigor.
+
+###### Artigo 8.º
+
+1 - Sem prejuízo da elaboração dos orçamentos dos encargos a suportar por conta do Estado, os conselhos administrativos das universidades e institutos universitários promoverão, com base nos programas de actividades para cada ano económico, a elaboração dos respectivos orçamentos privativos anuais para aplicação das receitas próprias.
 
 2 - Os orçamentos privativos serão aprovados pelo conselho administrativo e submetidos à homologação e visto do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades, nos termos e prazos legais.
 
 3 - As universidades e institutos universitários poderão submeter à homologação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo quer a ocorrer a despesas nele não previstas, desde que apresentem as necessárias contrapartidas, ou ainda a alterar rubricas orçamentais.
 
-Art. 9.º - 1 - As universidades e institutos universitários arrecadarão e administrarão as suas receitas próprias e satisfarão, por meio delas, despesas inerentes à prossecução dos seus fins.
+###### Artigo 9.º
+
+1 - As universidades e institutos universitários arrecadarão e administrarão as suas receitas próprias e satisfarão, por meio delas, despesas inerentes à prossecução dos seus fins.
 
 2 - Constituem receitas próprias das universidades e institutos universitários:
 
@@ -201,17 +236,25 @@ e) Os subsídios, subvenções, comparticipações, doações, heranças e legad
 
 f) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam atribuídas.
 
-Art. 10.º - 1 - As disponibilidades orçamentais das universidades e institutos universitários serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser feitas em dinheiro.
+###### Artigo 10.º
+
+1 - As disponibilidades orçamentais das universidades e institutos universitários serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão feitos, em regra, por meio de cheques e estes entregues em troca dos correspondentes recibos, devidamente legalizados.
 
-Art. 11.º - 1 - Os valores e títulos representativos de valores, ainda que pertencentes ou averbados a determinada unidade orgânica ou serviço, entram na posse e administração do conselho administrativo, sem prejuízo da respectiva afectação.
+###### Artigo 11.º
+
+1 - Os valores e títulos representativos de valores, ainda que pertencentes ou averbados a determinada unidade orgânica ou serviço, entram na posse e administração do conselho administrativo, sem prejuízo da respectiva afectação.
 
 2 - A afectação das receitas próprias de cada universidade ou instituto universitário far-se-á em função dos interesses gerais da instituição e de acordo com o seu regulamento próprio.
 
-Art. 12.º Os preços dos serviços prestados pelas universidades ou institutos universitários serão fixados tendo em atenção os meios humanos e materiais mobilizados, a qualidade do serviço prestado e os respectivos custos indirectos, mediante proposta do respectivo reitor, homologada por despacho do Ministro da Educação e das Universidades.
+###### Artigo 12.º
 
-Art. 13.º - 1 - As universidades e institutos universitários, dentro dos prazos legais, apresentarão à apreciação e homologação do Ministério da Educação e das Universidades os respectivos planos de investimento, orçamentos a incluir na parte substancial do Orçamento Geral do Estado e orçamentos privativos, acompanhados dos planos de actividades.
+Os preços dos serviços prestados pelas universidades ou institutos universitários serão fixados tendo em atenção os meios humanos e materiais mobilizados, a qualidade do serviço prestado e os respectivos custos indirectos, mediante proposta do respectivo reitor, homologada por despacho do Ministro da Educação e das Universidades.
+
+###### Artigo 13.º
+
+1 - As universidades e institutos universitários, dentro dos prazos legais, apresentarão à apreciação e homologação do Ministério da Educação e das Universidades os respectivos planos de investimento, orçamentos a incluir na parte substancial do Orçamento Geral do Estado e orçamentos privativos, acompanhados dos planos de actividades.
 
 2 - Até 15 de Março de cada ano, as universidades e institutos universitários deverão apresentar ao Ministério da Educação e das Universidades um relatório e balanço finais de execução dos planos de investimentos e de actividades.
 
@@ -219,13 +262,17 @@ Art. 13.º - 1 - As universidades e institutos universitários, dentro dos prazo
 
 4 - O levantamento das verbas mensalmente requisitadas para ocorrer ao pagamento das despesas realizadas no âmbito do plano de investimentos (PIDDAC) de cada universidade ou instituto universitário fica dependente da aprovação pela Direcção-Geral do Ensino Superior do balancete referido no número anterior relativo ao penúltimo mês.
 
-Art. 14.º - 1 - Até 15 de Julho de cada ano, as universidades e institutos universitários deverão apresentar ao Ministério da Educação e das Universidades o relatório e balancete intercalar de execução financeira e material do seu plano de investimentos (PIDDAC) referido ao 1.º semestre do ano em curso.
+###### Artigo 14.º
+
+1 - Até 15 de Julho de cada ano, as universidades e institutos universitários deverão apresentar ao Ministério da Educação e das Universidades o relatório e balancete intercalar de execução financeira e material do seu plano de investimentos (PIDDAC) referido ao 1.º semestre do ano em curso.
 
 2 - No caso de se verificarem atrasos na execução do plano de investimentos, as universidades e institutos universitários poderão apresentar, até à data referida no número anterior, novo calendário de planos financeiros, a executar até ao fim do ano, e proceder às necessárias transferências de verbas, embora com salvaguarda das afectações por rubricas.
 
 3 - Existindo verbas insusceptíveis de aproveitamento útil até ao fim do ano, o Ministério da Educação e das Universidades poderá propor ao conselho de reitores um novo plano de reafectação de verbas pelas diferentes universidades e institutos universitários para o 2.º semestre.
 
-Art. 15.º As dúvidas resultantes da aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades, de acordo com as respectivas competências.
+###### Artigo 15.º
+
+As dúvidas resultantes da aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e do Ministro da Educação e das Universidades, de acordo com as respectivas competências.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
 

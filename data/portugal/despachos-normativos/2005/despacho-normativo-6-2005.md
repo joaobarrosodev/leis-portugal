@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-16'
+version_history:
+  file: despacho-normativo-6-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-16'
+    amending: pt:dre:651681:por
+    amending_title: Despacho Normativo n.º 23/2006
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/6/2005/01/18/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2005/despacho-normativo-6-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -246,6 +261,12 @@ b) Atribuição de 5 ha, sempre que a área requerida seja superior.
 3 - As DRA verificam no local a conclusão da plantação dos olivais e comunicam ao INGA a identificação do olivicultor e respectiva exploração, com vista à liberação da caução, caso a totalidade da plantação esteja terminada ou a área subutilizada, em caso contrário.
 
 4 - No prazo máximo de 30 dias contados da verificação da conclusão da plantação dos olivais o INGA promove a liberação da caução prestada.
+
+5 - A comunicação prevista no n.º 2 deste artigo deve incluir, no que respeita à área efectivamente plantada, a indicação da alteração de parcelas, bem como a alteração do compasso de plantação se a tal tiver havido lugar aquando da plantação definitiva do olival.
+
+6 - São admitidas correcções à comunicação prevista no n.º 2, caso já tenha sido apresentada dentro dos 20 dias seguintes à entrada em vigor deste despacho.
+
+> Alterado pelo/a Artigo único do/a [Despacho Normativo n.º 23/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2006-651681), publicado em 2006-04-11.
 
 ###### Artigo 9.º — Formulários
 

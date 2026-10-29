@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-02-24'
+version_history:
+  file: decreto-lei-158-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-02-24'
+    amending: pt:dre:144991:por
+    amending_title: Decreto-Lei n.º 79/99; Decreto-Lei n.º 212/99; Decreto-Lei n.º 60/2001
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/158/1991/04/26/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:07:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 79/99; Decreto-Lei
+    n.º 212/99; Decreto-Lei n.º 60/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-158-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,6 +242,18 @@ c) Viabilidade económica e financeira.
 
 2 - Caso a área do prédio ou de parte do prédio, por si só ou conjuntamente com outras, não atinja os limites mínimos fixados no número anterior deverá a mesma ser preferencialmente destinada ao redimensionamento de explorações minifundiárias vizinhas ou da sua proximidade, nos termos previstos nos n.os 2 e 3 do artigo 4.º
 
+3 - Exceptua-se do disposto nos números anteriores as seguintes situações:
+
+a) O prédio ou parte do prédio cuja exploração constitua relevante complemento da economia do agregado familiar do agricultor, ou contribua preponderantemente para a sua integração e fixação no meio sócio-rural em que se insere;
+
+b) O prédio ou parte do prédio que, apesar de não respeitar os limites da área constantes da tabela anexa ao presente diploma, tenha vindo a ser racionalmente explorado.
+
+4 - Caberá ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas autorizar, caso a caso, sob proposta dos serviços regionais, a celebração de contratos de arrendamento rural com os agricultores que se encontrem nas situações descritas nas alíneas do número anterior, sendo requisito da autorização a ocorrência de posse de boa fé, pacífica e pública, da parcela objecto do contrato.
+
+5 - Os contratos de arrendamento já celebrados à data da entrada em vigor deste diploma são reconhecidos como válidos nos termos do disposto nos números anteriores.
+
+> Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19.
+
 ###### Artigo 7.º — Processo preliminar
 
 1 - A direcção regional de agricultura em cuja área se encontre o prédio efectuará os estudos necessários para efeitos de definição da área dos prédios que será afecta a cada estabelecimento agrícola, em obediência ao disposto no artigo anterior.
@@ -260,7 +288,23 @@ Os benficiários não podem adquirir direitos por prescrição ou acessão imobi
 
 ###### Artigo 11.º — Transmissão e oneração
 
-Os direitos que, por meio de contrato, referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º, se adquiram sobre prédios expropriados ou nacionalizados são insusceptíveis de transmissão ou oneração.
+1 - Os direitos que, por meio de contrato, referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º, se adquiram sobre os prédios expropriados ou nacionalizados são insusceptíveis de transmissão ou oneração.
+
+2 - O Estado pode, porém, autorizar a transmissão para o cônjuge do arrendatário, quando não separado judicialmente ou de facto, para parentes ou afins, na linha recta, que com o mesmo vivam habitualmente em comunhão de mesa e habitação ou economia comum há mais de um ano consecutivamente e para quem viva com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.
+
+3 - Os contratos referidos no n.º 1 transmitem-se também por morte do arrendatário nos mesmos termos do número anterior, contudo sem necessidade de autorização prévia.
+
+4 - As transmissões referidas nos números anteriores deferem-se pela seguinte ordem:
+
+a) Ao cônjuge;
+
+b) Aos parentes ou afins em linha recta, preferindo os primeiros aos segundos, os descendentes aos ascendentes e os de grau mais próximo aos de grau mais remoto;
+
+c) À pessoa que viva, ou vivesse, com o arrendatário há mais de cinco anos em condições análogas às dos cônjuges.
+
+5 - A transmissão por morte a favor dos parentes ou afins do primitivo arrendatário, segundo a ordem constante do número anterior, também se verifica por morte do cônjuge sobrevivo quando, nos termos do número anterior, lhe tenha sido transmitido direito ao arrendamento
+
+> Alterado pelo/a [Decreto-Lei n.º 79/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1999-144991) e [Decreto-Lei n.º 212/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1999-309370) e [Decreto-Lei n.º 60/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2001-319733), publicado em 2001-02-19.
 
 ###### Artigo 12.º — Gestão pública
 

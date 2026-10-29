@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-28'
+version_history:
+  file: decreto-lei-137-a-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-28'
+    amending: pt:dre:508585:por
+    amending_title: Decreto-Lei n.º 277-A/99
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo ANEXO — ESTATUTOS DA GALP - PETRÓLEOS E GÁS DE PORTUGAL, SGPS, S. A.::4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/137-a/1999/04/22/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:06:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 277-A/99. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-137-a-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,17 +167,19 @@ Nos termos da alínea a) do artigo 198.º da Constituição, o Governo decreta o
 
 ###### Artigo 3.º
 
-1 - O capital social da Sociedade é de 411346155 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.
+1 - O capital social da Sociedade é de 411383565 euros, sendo as acções representativas do mesmo, no valor de 5 euros cada uma, pertencentes ao Estado, na sua totalidade, e detidas pela Direcção-Geral do Tesouro.
 
 2 - Enquanto as acções da Sociedade forem detidas pela Direcção-Geral do Tesouro, os direitos do Estado como accionista serão exercidos por representante designado por despacho conjunto do Ministro das Finanças e do Ministro da Economia.
 
 3 - No caso previsto no número anterior, e sempre que a lei ou os estatutos da Sociedade exijam a deliberação da assembleia geral, ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no respectivo livro de actas.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.
+
 ###### Artigo 4.º
 
 1 - O capital social da Sociedade é realizado pela transmissão, para a Sociedade, das seguintes participações do Estado, que representam a totalidade das suas participações directas nas sociedades em causa:
 
-a) 56842500 acções, no valor nominal global de 56842500000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;
+a) 56850000 acções, no valor nominal global de 56850000000$00, no capital social da Petróleos de Portugal - PETROGAL, S. A.;
 
 b) 25000000 de acções, no valor nominal global de 25000000000$00, no capital social da GDP - Gás de Portugal, SGPS, S. A.;
 
@@ -169,6 +188,8 @@ c) 625000 acções, no valor nominal global de 625000000$00, no capital social d
 2 - O valor a atribuir às acções, transmitidas nos termos deste artigo, será fixado por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, ficando a diferença entre o valor do capital social e o valor atribuído às acções a constituir uma reserva da Sociedade.
 
 3 - As transmissões a que se refere o n.º 1 deste artigo operam-se por mero efeito da aplicação do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.
 
 ###### Artigo 5.º
 
@@ -218,7 +239,9 @@ A sociedade tem por objecto a gestão de participações sociais de outras socie
 
 ###### Artigo 4.º
 
-O capital social é de 411346155 euros, encontrando-se integralmente realizado, e é representado por 82269231 acções, com o valor nominal de 5 euros cada uma.
+O capital social é de 411383565 euros, encontrando-se integralmente realizado, e é representado por 82276713 acções, com o valor nominal de 5 euros cada uma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 277-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-a-1999-508585), publicado em 1999-07-23.
 
 ###### Artigo 5.º
 

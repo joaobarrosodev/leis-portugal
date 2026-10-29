@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-08-08'
+version_history:
+  file: decreto-lei-208-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-08-08'
+    amending: pt:dre:67442930:por
+    amending_title: Lei n.º 52/2015
+    changes:
+    - Revoga Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/208/1992/10/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:18:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 52/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-208-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,11 +137,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º O Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto.
+###### Artigo 1.º
 
-Art. 2.º A subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros.
+O Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto.
 
-Art. 3.º - 1 - Cabe ao STCP a elaboração do programa de concurso.
+###### Artigo 2.º
+
+A subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros.
+
+###### Artigo 3.º
+
+1 - Cabe ao STCP a elaboração do programa de concurso.
 
 2 - O programa de concurso e o respectivo caderno de encargos são aprovados pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
 
@@ -140,7 +161,9 @@ b) Titulares de carreiras nos concelhos servidos pelas carreiras a subconcession
 
 c) Titulares de carreiras num dos concelhos servidos pelas carreiras a subconcessionar.
 
-Art. 4.º Do caderno de encargos deve constar, obrigatoriamente:
+###### Artigo 4.º
+
+Do caderno de encargos deve constar, obrigatoriamente:
 
 a) Indicação da carreira a explorar;
 
@@ -154,17 +177,27 @@ e) Montante da caução, sob a forma de garantia bancária ou seguro-caução, a
 
 f) Consequências do incumprimento do clausulado do contrato de subconcessão.
 
-Art. 5.º - 1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
+###### Artigo 5.º
+
+1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.
 
 2 - O STCP remeterá à Direcção-Geral de Transportes Terrestres cópia do contrato de subconcessão logo após a sua outorga.
 
-Art. 6.º - 1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.
+###### Artigo 6.º
+
+1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.
 
 2 - O STCP e os subconcessionários ficam obrigados a criar e manter passes intermodais, por forma a assegurar a ligação entre as respectivas carreiras.
 
-Art. 7.º No prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário.
+###### Artigo 7.º
 
-Art. 8.º A concessão de exploração da carreira, findo o prazo em curso, transfere-se automaticamente para o subconcessionário, na parte subconcessionada.
+No prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário.
+
+###### Artigo 8.º
+
+(Revogado.)
+
+> Revogado pelo/a Artigo 16.º do/a [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), publicado em 2015-06-09.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 

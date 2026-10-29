@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-09-18'
+version_history:
+  file: decreto-lei-33-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-09-18'
+    amending: pt:dre:480522:por
+    amending_title: Decreto-Lei n.º 206/2004
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33/2002/02/19/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:35:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 206/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-33-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,21 +177,9 @@ b) Ser assegurado por médicos da instituição prestadora de cuidados de saúde
 
 ###### Artigo 3.º — Protocolo de colaboração
 
-1 - Para os efeitos do artigo anterior, é celebrado um protocolo, pelo prazo de um ano, renovável, entre um estabelecimento de ensino onde se ministre o curso de licenciatura em Medicina e uma instituição prestadora de cuidados de saúde, o qual apenas adquire eficácia após homologação dos Ministros da Educação e da Saúde.
+(Revogado.)
 
-2 - O acompanhamento da execução do protocolo é assegurado por uma comissão mista.
-
-3 - Do protocolo consta, obrigatoriamente:
-
-a) A unidade ou unidades curriculares ou parte delas abrangidas pelo protocolo, sua duração e conteúdo;
-
-b) O departamento ou serviço da instituição prestadora de cuidados de saúde onde o ensino irá ser ministrado, com indicação do seu director e responsabilização deste pela concretização do ensino prosseguido, com a qualidade e nas condições expressamente clausuladas;
-
-c) A fixação, em percentagem, da gratificação prevista no n.º 3 do artigo anterior, bem como dos procedimentos adequados ao seu processamento e da compensação prevista no n.º 4 do mesmo artigo;
-
-d) A composição da comissão mista;
-
-e) Mecanismos de renovação e cessação.
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), publicado em 2004-08-19.
 
 ###### Artigo 4.º — Entrada em vigor
 

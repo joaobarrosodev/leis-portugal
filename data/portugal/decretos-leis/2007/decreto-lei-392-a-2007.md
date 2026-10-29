@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-07-26'
+version_history:
+  file: decreto-lei-392-a-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-07-26'
+    amending: pt:dre:67085601:por
+    amending_title: Lei n.º 34/2015
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/392-a/2007/12/27/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 34/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-392-a-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,15 +172,9 @@ Ficam os Ministros de Estado e das Finanças e das Obras Públicas, Transportes 
 
 ###### Artigo 4.º — Zonas non aedificandi
 
-1 - Em relação aos lanços de auto-estrada e conjuntos viários associados constantes da base 2 do anexo ao presente decreto-lei, são fixadas as seguintes zonas de servidão non aedificandi:
+(Revogado.)
 
-a) Desde a aprovação do estudo prévio até a aprovação da planta parcelar do projecto de execução, 200 m para cada lado do eixo da estrada e, centrado em cada nó de ligação, um círculo com 1300 m de diâmetro;
-
-b) A partir da aprovação da planta parcelar do projecto de execução, passam a vigorar as zonas de servidão non edificandi fixadas no Decreto-Lei n.º 13/94, de 15 de Janeiro, e, na ausência de regulamentação no referido decreto-lei, as fixadas pelo Decreto-Lei n.º 13/71, de 23 de Janeiro, sendo que as concretamente fixadas na alínea e) do n.º 1 do artigo 8.º deste último diploma passam a ser as seguintes:
-
-i) São proibidas instalações de carácter industrial, nomeadamente fábricas, garagens, armazéns, restaurantes, hotéis e congéneres e, bem assim, igrejas, recintos de espectáculos, matadouros e quartéis de bombeiros, a menos de 70 m a contar dos limites da plataforma da estrada ou a menos de 50 m da zona da auto-estrada.
-
-2 - As disposições do número anterior ficam, respectivamente, condicionadas à publicação no Diário da República da aprovação pelo Ministro das Obras Públicas, Transportes e Comunicações, ou entidades a quem este tenha delegado, dos estudos prévios e das plantas parcelares dos projectos de execução.
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), publicado em 2015-04-27.
 
 ###### Artigo 5.º — Entrada em vigor
 

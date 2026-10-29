@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:402729:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-12-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e21b21af22e36724",
+    "336434c2edb4c1fe",
+    "a1b57cfb314f79c9",
+    "9299ede441506195",
+    "994f95ec0f7396de",
+    "6f1b0ec582b1d2c1",
+    "1345e25f6a753609",
+    "07441e7459d4b185"
+   ]
+  },
+  {
+   "date": "1998-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197525:por",
+     "title": "Decreto-Lei n.º 63/98",
+     "published": "1998-03-17",
+     "dre_path": "/dr/detalhe/decreto-lei/63-1998-197525"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "e21b21af22e36724",
+    "336434c2edb4c1fe",
+    "8d3c77e5e1e955f9",
+    "9299ede441506195",
+    "994f95ec0f7396de",
+    "6f1b0ec582b1d2c1",
+    "1345e25f6a753609",
+    "07441e7459d4b185"
+   ]
+  }
+ ],
+ "fragments": {
+  "e21b21af22e36724": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Dezembro\n\nAs severas condições climatéricas verificadas nos meses de Outubro e Novembro de 1997, nomeadamente temporais e pluviosidade de excepcional intensidade, que atingiram algumas regiões do País, afectaram gravemente o exercício da actividade agrícola. Considera o Governo necessária a criação de medidas de apoio destinadas a minorar os prejuízos sofridos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "336434c2edb4c1fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ estabelecida uma linha de crédito destinada a disponibilizar os meios financeiros necessários à reparação ou reposição de infra-estruturas e equipamentos agrícolas, bem como plantações danificadas ou destruídas pelos temporais ocorridos nos meses de Outubro e Novembro de 1997."
+  },
+  "a1b57cfb314f79c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à linha de crédito as entidades que exerçam a actividade agrícola e que hajam sofrido prejuízos em infra-estruturas e equipamentos agrícolas ou plantações nos concelhos afectados, a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - O valor dos prejuízos deve ser confirmado pelas direcções regionais de agricultura competentes.\n\n3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF, caso a entidade recorra a estas ajudas para recuperação dos danos ocorridos."
+  },
+  "9299ede441506195": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma\n\nO crédito é concedido sob a forma de empréstimo reembolsável pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP)."
+  },
+  "994f95ec0f7396de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Utilização, prazo e condições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilização, prazo e condições financeiras\n\n1 - Os empréstimos são concedidos pelo prazo máximo de oito anos e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização, no máximo, dois anos após a data prevista para a primeira utilização.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de oito meses após a data do contrato, podendo efectuar-se até quatro utilizações por operação.\n\n3 - Os empréstimos vencem juros, contados dia a dia sobre o capital efectivamente utilizado, à taxa de juro anual contratada. Os juros são calculados e pagos anual e postecipadamente.\n\n4 - São atribuídas as seguintes bonificações de juros:\n\n1.º ano - 100% da taxa de referência a que alude o número seguinte;\n\n2.º ano - 75% da taxa de referência a que alude o número seguinte;\n\n3.º ano - 50% da taxa de referência a que alude o número seguinte;\n\n4.º ano - 50% da taxa de referência a que alude o número seguinte;\n\n5.º ano - 35% da taxa de referência a que alude o número seguinte.\n\n5 - As percentagens referidas no número anterior são aplicadas sobre a taxa de referência criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, em vigor no início do período de contagem de juros, salvo se aquela for superior à taxa activa praticada pela instituição de crédito, caso em que aquelas percentagens são aplicadas sobre esta última."
+  },
+  "6f1b0ec582b1d2c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de bonificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de bonificação\n\n1 - A bonificação dos juros é processada enquanto se verificar o pontual cumprimento das obrigações contratualmente assumidas pelos mutuários.\n\n2 - O incumprimento de qualquer destas obrigações deve ser prontamente comunicado pelas instituições de crédito ao IFADAP e acarreta a cessação das bonificações.\n\n3 - A cessação das bonificações importa, para o mutuário, o pagamento dos juros à taxa contratual desde a data da última contagem de responsabilidades anterior à data do incumprimento."
+  },
+  "1345e25f6a753609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Outras condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Outras condições\n\n1 - Compete ao IFADAP adoptar as normas técnicas, financeiras e de funcionamento da linha de crédito necessárias à execução deste diploma.\n\n2 - As instituições de crédito fornecem pontualmente ao IFADAP todas as informações por este solicitadas relativamente à aplicação do disposto no presente diploma."
+  },
+  "07441e7459d4b185": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento\n\nOs encargos financeiros referentes à bonificação da taxa de juro dos empréstimos são suportados pelo Orçamento do Estado, através do PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas para os anos de 1998 e seguintes.\n\nVisto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Luís Filipe Marques Amado - Luís Manuel Capoulas Santos.\n\nPromulgado em 19 de Novembro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Novembro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8d3c77e5e1e955f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": "1998-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 63/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1998-197525), publicado em 1998-03-17."
+   ],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso à linha de crédito as entidades que exerçam a actividade agrícola e que hajam sofrido prejuízos em infra-estruturas e equipamentos agrícolas ou plantações nos concelhos afectados, a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n2 - O valor dos prejuízos deve ser confirmado pelas direcções regionais de agricultura competentes.\n\n3 - O montante máximo de crédito a conceder a cada entidade corresponde à totalidade dos prejuízos confirmados nos termos do número anterior ou ao diferencial entre o valor daqueles prejuízos e o valor do subsídio concedido no âmbito de um projecto do PAMAF ou do Plano Operacional Intempéries Novembro 97, caso a entidade recorra a uma destas ajudas para recuperação dos danos ocorridos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 63/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1998-197525), publicado em 1998-03-17."
+  }
+ }
+}

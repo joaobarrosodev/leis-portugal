@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:680412:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80e7d32c4456a257"
+   ]
+  },
+  {
+   "date": "1966-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:507871:por",
+     "title": "Decreto-Lei n.º 46697",
+     "published": "1965-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/46697-1965-507871"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "420e04b09672d303",
+    "317e7c5acc250762",
+    "fa7a033b2cec3729",
+    "e1b5ee7ddac46608",
+    "8f90d61f3c69cd90"
+   ]
+  }
+ ],
+ "fragments": {
+  "80e7d32c4456a257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.\n\n§ único. O pessoal eventualmente empregado em trabalhos de campo pode ser assalariado pelos directores dos estabelecimentos que executarem os trabalhos, de harmonia com as necessidades prèviamente reconhecidas pelo conselho administrativo.\n\nArt. 2.º O actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.\n\n§ único. O provimento será automático, sendo dispensadas todas as formalidades, incluindo o visto do Tribunal de Contas.\n\nArt. 3.º O artigo 4.º do [Decreto-Lei n.º 38153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38153-1951-323485), de 18 de Janeiro de 1951, passa a ter a seguinte redacção:\n\nArt. 4.º As quantias arrecadadas nos termos do artigo anterior e seu parágrafo darão entrada nos cofres do Tesouro e serão escrituradas em receita do Estado, no capítulo das «Consignações de receita», devendo ser aplicadas através da dotação de «Participações em cobranças ou receitas» atribuída à Direcção-Geral dos Serviços Agrícolas.\n\nArt. 4.º As despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.\n\n§ único. Exceptuam-se as despesas que forem consideradas, por despacho do Ministro da Economia, como devendo ser satisfeitas por verba atribuída a determinado serviço do Ministério em virtude do seu restrito ou específico interesse.\n\nArt. 5.º Este diploma entra em vigor no início do ano económico de 1964.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 23 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "420e04b09672d303": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Serviço de Campanha de Fomento Pecuário pode contratar e assalariar pessoal mediante autorização do Secretário de Estado da Agricultura e, no primeiro caso, com o acordo do Ministro das Finanças.\n\n§ único. O pessoal eventualmente empregado em trabalhos de campo pode ser assalariado pelos directores dos estabelecimentos que executarem os trabalhos, de harmonia com as necessidades prèviamente reconhecidas pelo conselho administrativo."
+  },
+  "317e7c5acc250762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO actual servente da Direcção-Geral dos Serviços Agrícolas, de nomeação vitalícia além do quadro, nos termos do [Decreto-Lei n.º 35344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35344-1945-463399), de 19 de Dezembro de 1945, é colocado em vaga de igual categoria do quadro do pessoal menor da mesma Direcção-Geral.\n\n§ único. O provimento será automático, sendo dispensadas todas as formalidades, incluindo o visto do Tribunal de Contas."
+  },
+  "fa7a033b2cec3729": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1966-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 46697](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871), publicado em 1965-12-04."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46697](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46697-1965-507871), publicado em 1965-12-04."
+  },
+  "e1b5ee7ddac46608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs despesas com estudos e trabalhos do Ministério da Economia poderão ser satisfeitas, mediante despacho do Ministro, de conta de verba adequada consignada à Secretaria-Geral.\n\n§ único. Exceptuam-se as despesas que forem consideradas, por despacho do Ministro da Economia, como devendo ser satisfeitas por verba atribuída a determinado serviço do Ministério em virtude do seu restrito ou específico interesse."
+  },
+  "8f90d61f3c69cd90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEste diploma entra em vigor no início do ano económico de 1964.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 23 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Luís Le Cocq de Albuquerque de Azevedo Coutinho - Armando Ramos de Paula Coelho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

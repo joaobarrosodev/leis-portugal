@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-11-15'
+version_history:
+  file: decreto-lei-122-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-15'
+    amending: pt:dre:584640:por
+    amending_title: Decreto-Lei n.º 199/2005
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/122/2005/07/29/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:47:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 199/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-122-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -384,7 +399,9 @@ Resolução de contrato de seguro obrigatório do ramo automóvel
 
 1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2005, com excepção dos n.os 3 e 4 do novo artigo 9.º-A do [Decreto-Lei n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2000-320086), de 15 de Julho, que entram em vigor no dia seguinte ao da publicação.
 
-2 - O presente diploma aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que passem a ser devidos em momento a ela posterior.
+2 - O presente decreto-lei aplica-se aos contratos que venham a ser celebrados após 1 de Dezembro de 2005 e aos contratos já existentes nessa data, no que respeita aos prémios ou fracções subsequentes que se vençam a partir de 1 de Março de 2006.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 199/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2005-584640), publicado em 2005-11-10.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 

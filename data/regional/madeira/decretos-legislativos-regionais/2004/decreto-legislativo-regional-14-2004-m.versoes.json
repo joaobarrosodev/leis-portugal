@@ -1,0 +1,250 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:526855:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "db9715dc27ed9534",
+    "f53d219cb225be65",
+    "8b2c6e4edf8e56cd",
+    "08491dfb73005f41",
+    "2f493e6d10b706c9",
+    "cd68be2a1fce621f",
+    "fd42288728277357",
+    "a2fa537e1906c0e9",
+    "5ce9ac865fe3b9d2",
+    "836cdb8d81b1c5d5",
+    "d87cf10486b4a561",
+    "cd60f692ad909baa",
+    "ee6c3c5590c7dab8",
+    "b17eae63bddffa1c",
+    "2c1c617dcff029e2",
+    "38f3797c7d2670d8"
+   ]
+  },
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72991305:por",
+     "title": "Decreto Legislativo Regional n.º 17/2015/M",
+     "published": "2015-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2015-72991305"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "db9715dc27ed9534",
+    "f53d219cb225be65",
+    "8b2c6e4edf8e56cd",
+    "08491dfb73005f41",
+    "a26bd573beb38d93",
+    "16a276e66b431351",
+    "fd42288728277357",
+    "a2fa537e1906c0e9",
+    "5ce9ac865fe3b9d2",
+    "836cdb8d81b1c5d5",
+    "3278e5d6af146667",
+    "cd60f692ad909baa",
+    "825f96e4df675abd",
+    "b17eae63bddffa1c",
+    "7cac903e3dec1bcb",
+    "38f3797c7d2670d8"
+   ]
+  }
+ ],
+ "fragments": {
+  "db9715dc27ed9534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria o Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira\n\nIncumbe aos órgãos da administração pública regional, nos termos da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de Julho, promover a criação e apoiar os centros de arbitragem com o objectivo de dirimir conflitos de consumo.\n\nConsagra o artigo 14.º do citado diploma o direito do consumidor à protecção jurídica e a uma justiça acessível e pronta, absorvendo muito do que antes estava imputado à justiça judicial.\n\nCom a criação do Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira pretende o Governo Regional assegurar a todos os cidadãos que o objecto de decisão seja obtido em tempo útil, tal como estipula o n.º 5 do artigo 20.º da Constituição da República Portuguesa.\n\nEste meio alternativo da justiça judicial possui virtualidades de realização de uma justiça igualmente certa e dignificada.\n\nForam observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea c) do n.º 1 do artigo 227.º e da alínea o) do artigo 228.º da Constituição da República Portuguesa, da alínea e) do n.º 1 do artigo 37.º e da alínea vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:"
+  },
+  "f53d219cb225be65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Centro de Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Centro de Arbitragem"
+  },
+  "8b2c6e4edf8e56cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criado o Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira, a seguir designado, abreviadamente, por Centro de Arbitragem, que tem por objecto promover a resolução extrajudicial de conflitos de consumo, de natureza civil, que ocorram na Região Autónoma da Madeira, através da conciliação e arbitragem, sob a tutela da secretaria regional com competências na matéria."
+  },
+  "08491dfb73005f41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\nO Centro de Arbitragem é de âmbito regional e tem a sua sede na cidade do Funchal."
+  },
+  "2f493e6d10b706c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura orgânica\n\n1 - O Centro de Arbitragem é constituído por um director, cujo titular é qualificado como cargo de direcção intermédia, de 1.º grau, designado como director de serviços, coadjuvado por um gabinete de apoio jurídico e uma secretaria, comportando ainda um tribunal arbitral e um conselho de parceiros.\n\n2 - O conselho de parceiros é um órgão com carácter consultivo constituído pelo director do Centro de Arbitragem, que o dirige, e por um representante de cada uma das associações de consumidores e cooperativas de consumo com sede na Região Autónoma da Madeira, um representante do Serviço de Defesa do Consumidor e outros parceiros sociais com competência em matéria económica e de política de consumo, propostos pelo director e aprovados pela tutela."
+  },
+  "cd68be2a1fce621f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do director, conselho de parceiros, gabinete de apoio jurídico e secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do director, conselho de parceiros, gabinete de apoio jurídico e secretaria\n\n1 - Compete ao director dirigir o serviço, bem como coordenar as respectivas actividades, aprovar os regulamentos internos, elaborar o plano anual de actividades e submetê-los à homologação da tutela, efectuar a tentativa prévia de conciliação entre as partes em conflito, exercer todos os demais poderes necessários para assegurar a gestão do Centro de Arbitragem, o seu normal funcionamento e desenvolvimento.\n\n2 - Compete ao conselho de parceiros:\n\na) Elaborar o regulamento do seu funcionamento, submetendo-o à tutela para aprovação;\n\nb) Elaborar propostas para dinamizar as relações com a comunidade no âmbito da política de consumo;\n\nc) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos seus membros.\n\n3 - Ao gabinete de apoio jurídico compete elaborar pareceres e informações de natureza técnico-jurídica, efectuar os procedimentos e assegurar a instrução de processos que lhe sejam submetidos a apreciação e exercer as demais competências que lhe sejam conferidas superiormente, sendo dirigido por um titular qualificado como cargo de direcção intermédia, de 2.º grau, designado como chefe de divisão.\n\n4 - À secretaria compete promover os procedimentos relacionados com o expediente geral e arquivo, bem como os relativos aos processos movimentados pelo Centro de Arbitragem no âmbito das suas competências legais, para além de outras tarefas de carácter administrativo indispensáveis ao normal funcionamento do mesmo, sendo dirigida por um chefe de secção."
+  },
+  "fd42288728277357": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do Centro de Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Centro de Arbitragem\n\n1 - A competência do Centro de Arbitragem abrange os litígios de consumo cujo valor não ultrapasse o legalmente fixado para a alçada do tribunal da Relação.\n\n2 - São considerados litígios de consumo os que decorram do fornecimento de bens, prestação de serviços ou transmissão de quaisquer direitos, destinados a uso não profissional, por pessoa que exerça com carácter profissional uma actividade económica que vise a obtenção de benefícios, de acordo com o n.º 1 do artigo 2.º da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de Julho.\n\n3 - Consideram-se, igualmente, litígios de consumo os que decorram do fornecimento, prestação ou transmissão de bens, serviços e direitos pelos organismos da Administração Pública, por pessoas colectivas públicas, por empresas de capitais públicos ou detidas maioritariamente pelo Estado, pelas Regiões Autónomas ou pelas autarquias locais e por empresas concessionárias de serviços públicos, de acordo com o n.º 2 do artigo 2.º do diploma citado no número anterior.\n\n4 - Os litígios de consumo decorrentes de contratos à distância, vendas ao domicílio ou equiparados poderão ser apreciados no tribunal arbitral desde que o consumidor tenha domicílio na Região Autónoma da Madeira e, ainda, quando o bem, serviço ou direito deva ser fornecido, prestado ou transmitido nesta Região.\n\n5 - Excluem-se do âmbito desta competência os litígios que resultem de débitos ocasionados no exercício de profissão liberal e os relativos à responsabilidade civil por lesões físicas e morais ou morte conexa com a criminal.\n\n6 - O valor do litígio é o que resultar da aplicação ao caso das regras do processo civil sobre o valor da acção."
+  },
+  "a2fa537e1906c0e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções\n\n1 - O Centro de Arbitragem canaliza, para serem dirimidos pelo tribunal arbitral, nos termos subsequentes, os processos remetidos pelo Serviço de Defesa do Consumidor e pelas associações de consumidores ou outros com competência específica nesta área.\n\n2 - O Centro de Arbitragem deve promover a tentativa prévia de conciliação entre as partes em conflito, procurando, quando for caso disso, obter um acordo, sujeito a homologação do juiz."
+  },
+  "5ce9ac865fe3b9d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acordos de cooperação\n\nO Centro de Arbitragem pode celebrar com entidades públicas ou privadas, nacionais ou estrangeiras, acordos de cooperação, protocolos, contratos de adesão, parcerias e contratos de prestação de serviços para a prossecução das tarefas julgadas indispensáveis ao seu funcionamento."
+  },
+  "836cdb8d81b1c5d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Pessoal"
+  },
+  "d87cf10486b4a561": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime jurídico do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime jurídico do pessoal\n\n1 - O pessoal do Centro de Arbitragem rege-se pelas normas aplicáveis aos funcionários e agentes da administração pública central e regional autónoma, salvo o disposto nos artigos seguintes.\n\n2 - Para a realização de tarefas indiferenciadas passíveis de serem realizadas por pessoal operário ou auxiliar, o Centro de Arbitragem pode recorrer ao contrato individual de trabalho.\n\n3 - A celebração dos contratos individuais de trabalho, nos termos previstos no número anterior, fica sujeita à observância dos seguintes parâmetros:\n\na) As categorias e carreiras profissionais são análogas às existentes no âmbito da administração central e regional autónoma, exigindo-se para ingresso e acesso as mesmas habilitações e qualificações profissionais;\n\nb) Os procedimentos de ingresso e acesso devem garantir o respeito pelos princípios da publicidade, igualdade, proporcionalidade e prossecução do interesse público;\n\nc) As remunerações são fixadas em montantes idênticos aos que vigoram na Administração Pública, atento o respectivo enquadramento profissional.\n\n4 - O quadro de pessoal do Centro de Arbitragem será aprovado por portaria conjunta das secretarias regionais que tutelam os sectores das finanças, Administração Pública e tutela."
+  },
+  "cd60f692ad909baa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições gerais"
+  },
+  "ee6c3c5590c7dab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime\n\n1 - O Centro de Arbitragem rege-se pelo disposto no presente diploma, pelos seus regulamentos internos aprovados pelo secretário regional da tutela e, subsidiariamente, pelo ordenamento jurídico da administração pública central e regional.\n\n2 - No domínio da arbitragem, o Centro de Arbitragem reger-se-á pelas normas e princípios gerais constantes da lei aplicável, bem como pelo seu regulamento de arbitragem.\n\n3 - O regulamento de arbitragem previsto no número anterior será elaborado pelo Centro de Arbitragem e conterá os procedimentos a observar na arbitragem."
+  },
+  "b17eae63bddffa1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coima\n\n1 - A falta de comparência de qualquer dos interessados à diligência de conciliação, não justificada, dará origem à aplicação de uma coima de (euro) 25 a (euro) 100, limites que serão elevados para o dobro em caso de reincidência.\n\n2 - Compete ao Centro de Arbitragem a instrução do processo para aplicação da coima prevista no número anterior.\n\n3 - O produto de aplicação das coimas previstas neste artigo constitui receita da Região Autónoma da Madeira."
+  },
+  "2c1c617dcff029e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Regra supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regra supletiva\n\n1 - Em tudo o mais será aplicável a [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto, no que respeitar à arbitragem institucionalizada.\n\n2 - Havendo omissão, aplicam-se os princípios gerais de processo civil adaptados à natureza marcadamente abreviada e informal do procedimento arbitral."
+  },
+  "38f3797c7d2670d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da respectiva publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 15 de Junho de 2004.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 1 de Julho de 2004.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "a26bd573beb38d93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura e funcionamento",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura e funcionamento\n\n1 - O Centro de Arbitragem é o serviço que compreende:\n\na) O Tribunal Arbitral do Centro de Arbitragem;\n\nb) O Conselho de Parceiros.\n\n2 - O Tribunal Arbitral do Centro de Arbitragem rege-se pelo disposto no presente diploma e pelos seus regulamentos internos aprovados por portaria do membro do Governo da tutela.\n\n3 - O Conselho de Parceiros é um órgão consultivo do Centro de Arbitragem, que é composto pelo responsável pelo Centro de Arbitragem e por um representante de cada uma das associações de consumidores e cooperativas de consumo com sede na Região Autónoma da Madeira, um representante do Serviço de Defesa do Consumidor e outros parceiros sociais com competência em matéria económica e em política de consumo.\n\n4 - A organização interna do Centro de Arbitragem é aprovada por portaria do membro do Governo da tutela e do membro do governo responsável pela área das finanças.\n\n5 - No domínio da arbitragem, o Centro de Arbitragem rege-se ainda pelas normas e princípios gerais constantes da lei aplicável.\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "16a276e66b431351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do director, conselho de parceiros, gabinete de apoio jurídico e secretaria",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 4.º — Competências do director, conselho de parceiros, gabinete de apoio jurídico e secretaria\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "3278e5d6af146667": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime jurídico do pessoal",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 8.º — Regime jurídico do pessoal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "825f96e4df675abd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 9.º — Regime\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  },
+  "7cac903e3dec1bcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Regra supletiva",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+   ],
+   "markdown": "###### Artigo 11.º — Regra supletiva\n\n1 - Em tudo o que não estiver previsto no presente diploma é aplicável a Lei n.º 63/2011, de 14 de dezembro, que aprova a Lei de Arbitragem Voluntária.\n\n2 - Havendo omissão, aplicam-se os princípios gerais de processo civil adaptados à natureza marcadamente abreviada e informal do procedimento arbitral.\n\n> Alterado pelo/a Artigo 58.º do/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30."
+  }
+ }
+}

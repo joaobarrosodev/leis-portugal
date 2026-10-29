@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-09-30'
+version_history:
+  file: despacho-normativo-558-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-09-30'
+    amending: pt:dre:354291:por
+    amending_title: Declaração de Rectificação n.º 156/94
+    changes:
+    - Retifica Artigo 8.º
+    - Retifica Artigo 16.º
+    - Retifica Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/558/1994/07/29/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 156/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-558-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -200,7 +217,9 @@ c) Viaturas e material de transporte.
 
 ###### Artigo 8.º — Formação profissional
 
-As candidaturas ao SINAIPEDIP poderão envolver investimentos em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em despacho conjunto dos Ministros da Indústrias e Energia e do Emprego e da Segurança Social.
+As candidaturas ao SINAIPEDIP poderão envolver investimentos em formação profissional, financiados pelo Fundo Social Europeu, nos termos previstos em despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30.
 
 ###### Artigo 9.º — Apresentação de candidaturas
 
@@ -254,9 +273,11 @@ Para efeitos dos regimes de apoio do SINAIPEDIP, considera-se pós-projecto, no 
 
 ###### Artigo 16.º — Formalização da concessão do incentivo
 
-1 - Para os casos previstos n.º 2 do artigo 3.º poderá ser celebrado quer um único contrato entre o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e o representante do conjunto de entidades, quer vários contratos entre o IAPMEI e os co-promotores.
+1 - Para os casos previstos n.º 2 do artigo 3.º poderão ser celebrados quer um único contrato entre o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e o representante do conjunto de entidades, quer vários contratos entre o IAPMEI e os co-promotores.
 
 2 - Para os efeitos do disposto no número anterior, deverão ser definidas com rigor as responsabilidades de cada um dos co-promotores na execução do projecto, nomeadamente no que se refere a financiamento, aplicações relevantes e calendarização.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30.
 
 ###### Artigo 17.º — Pagamento
 
@@ -296,6 +317,8 @@ O incentivo concedido será contabilizado de acordo com o Plano Oficial de Conta
 
 ###### Artigo 21.º — Actualização monetária
 
-Para efeitos de actualização monetária poderão ser revistos por despachos do Ministro da Indústria e Energia os limites máximos dos incentivos referidos na regulamentação específica dos regimes de apoio abrangidos pelo SINAIPEDIP.
+Para efeitos de actualização monetária poderão ser revistos por despacho do Ministro da Indústria e Energia os limites máximos dos incentivos referidos na regulamentação específica dos regimes de apoio abrangidos pelo SINAIPEDIP.
 
 Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 156/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1994-354291), publicado em 1994-09-30.

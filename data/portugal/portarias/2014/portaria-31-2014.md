@@ -37,10 +37,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2019-07-16'
+version_history:
+  file: portaria-31-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-16'
+    amending: pt:dre:105263935:por
+    amending_title: Portaria n.º 295/2016; Portaria n.º 218-C/2019
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/31/2014/02/05/p/dre/pt/html
@@ -66,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:56:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 295/2016; Portaria n.º
+    218-C/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2014/portaria-31-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +152,9 @@ Ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 165-A/2013](https://d
 
 ###### Artigo 1.º — Objeto
 
-A presente portaria estabelece os termos de operacionalização do funcionamento do Fundo de Reestruturação do Setor Social (FRSS), bem como a respetiva política de investimento, e define as condições de acesso ao FRSS, os termos e as condições da concessão do apoio financeiro e a forma de reembolso.
+A presente portaria estabelece os termos de operacionalização do funcionamento do Fundo de Reestruturação do Setor Solidário (FRSS), bem como a respetiva política de investimento, e define as condições de acesso ao FRSS, os termos e as condições da concessão do apoio financeiro e a forma de reembolso.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
 ###### Artigo 2.º — Condições de acesso ao FRSS
 
@@ -147,7 +172,11 @@ e) Estarem devidamente autorizadas para o exercício das atividades que desenvol
 
 f) Terem, pelo menos, 55% das atividades desenvolvidas no âmbito da ação social abrangidas por acordo de cooperação.
 
+g) Não terem plano de reestruturação com financiamento em curso nem terem sido beneficiárias, em candidatura imediatamente anterior, a este Fundo.
+
 2- O não cumprimento do disposto no número anterior determina a não aceitação da candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
 ###### Artigo 3.º — Formalização e instrução da candidatura
 
@@ -155,7 +184,7 @@ f) Terem, pelo menos, 55% das atividades desenvolvidas no âmbito da ação soci
 
 2- A candidatura é instruída com documentos comprovativos do preenchimento das condições de acesso constantes do artigo 2.º, com o relatório de diagnóstico e proposta de plano de reestruturação aprovados pelo órgão de administração da entidade candidata.
 
-3- Para a elaboração do relatório de diagnóstico e do plano de reestruturação, o conselho de gestão, sob proposta da respetiva entidade representativa, nomeia um gestor de processo ao qual compete apoiar as entidades candidatas na sua preparação bem como acompanhar a aplicação do referido plano de reestruturação e do acordo de apoio financeiro, nas diversas fases e até conclusão dos mesmos.
+3 - (Revogado.)
 
 4- O relatório de diagnóstico, referido no n.º 2, integra, obrigatoriamente, os seguintes elementos:
 
@@ -195,23 +224,31 @@ e) A definição de medidas complementares de controlo da execução orçamental
 
 7- O relatório de diagnóstico e o plano de reestruturação, previstos nos números anteriores, devem ser aprovados pelo órgão de administração da entidade candidata e, quando exigível, pela Assembleia Geral.
 
-###### Artigo 4.º — Parecer
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
-1- Devidamente instruída a candidatura, a entidade representativa do setor solidário, indicada pelo conselho de gestão, emite parecer fundamentado sobre a mesma, descriminando, necessariamente, os seguintes elementos:
+###### Artigo 4.º — Seleção de candidaturas
 
-a) Quadro síntese das necessidades de financiamento e sua distribuição ao longo do período de apoio financeiro pretendido.
+1 - Em cada período de candidaturas é contratada, pelo FRSS, uma única entidade externa para proceder à avaliação e seriação das candidaturas apresentadas, de acordo com os critérios previamente acordados pelo conselho de gestão, devendo aquela entidade submeter a este conselho proposta das entidades a financiar.
+
+2 - Na avaliação das candidaturas, a entidade externa, a que se refere o número anterior, emite parecer fundamentado sobre as mesmas, discriminando, necessariamente, os seguintes elementos:
+
+a) Quadro síntese das necessidades de financiamento e sua distribuição ao longo do período de apoio financeiro pretendido;
 
 b) Explicitação das medidas corretivas de gestão que a instituição deverá adotar ao longo do período de apoio financeiro.
 
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
+
 ###### Artigo 5.º — Decisão
 
-1- Tendo em conta o parecer referido no artigo anterior, o conselho de gestão do FRSS profere decisão, devidamente fundamentada, sobre a candidatura apresentada.
+1 - Tendo em conta a proposta referida no n.º 1 do artigo anterior, o conselho de gestão do FRSS profere decisão, devidamente fundamentada, sobre as candidaturas apresentadas.
 
 2- A decisão do conselho de gestão é tomada por maioria dos membros que o compõem.
 
 3- Da decisão do conselho de gestão não cabe qualquer reclamação.
 
 4- A decisão de deferimento da candidatura implica a aprovação do plano de reestruturação com indicação do prazo de execução e respetivo apoio financeiro a atribuir.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
 ###### Artigo 6.º — Apoio financeiro
 
@@ -221,7 +258,7 @@ b) Explicitação das medidas corretivas de gestão que a instituição deverá 
 
 a) Não exceder 45% do valor global das necessidades de financiamento de médio e longo prazo da entidade beneficiária.
 
-b) Ter o limite máximo de (euro) 500.000,00 por entidade beneficiária.
+b) Ter o limite máximo de (euro) 350.000,00 por entidade beneficiária;
 
 c) Ser compatível com as obrigações orçamentais a que a entidade beneficiária esteja sujeita;
 
@@ -231,6 +268,8 @@ e) Ser atribuído fracionadamente, por parcelas, em função do grau de execuç�
 
 f) Prestação de garantias adequadas do cumprimento das obrigações decorrentes do financiamento reembolsável.
 
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
+
 ###### Artigo 7.º — Acordo de apoio financeiro
 
 1- O acordo de apoio financeiro contém, designadamente:
@@ -239,11 +278,17 @@ a) A indicação expressa do montante e do prazo de execução do apoio financei
 
 b) A forma de execução do plano de reestruturação;
 
-c) A forma e prazos do reembolso do apoio de financeiro;
+c) A forma e prazos do reembolso do apoio financeiro;
 
 d) A explicitação das condições a cumprir pela entidade beneficiária em matéria de acompanhamento e avaliação da execução do plano.
 
-2- O reembolso do apoio financeiro é realizado no prazo máximo de 4 anos, e sujeito a uma taxa de juro de 0%, a contar da data de assinatura do acordo de apoio financeiro, podendo esse prazo ser alargado por mais 2 anos, mediante requerimento devidamente justificado apresentado pela entidade beneficiária ao conselho de gestão.
+2 - O reembolso do apoio financeiro é realizado no prazo máximo de 4 anos, a contar da data de assinatura do acordo de apoio financeiro, e sujeito a uma taxa de juro de 0 %, sem prejuízo do disposto no número seguinte.
+
+3 - Mediante requerimento, devidamente justificado, apresentado ao conselho de gestão, a entidade beneficiária pode solicitar o alargamento excecional do prazo referido no número anterior, até mais 4 anos, ficando os primeiros 2 anos sujeitos a uma taxa de juro de 0 % e os restantes 2 anos sujeitos a uma taxa de juro de 4 % ao ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295/2016](https://diariodarepublica.pt/dr/detalhe/portaria/295-2016-105263935), publicado em 2016-11-28.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
 ###### Artigo 8.º — Incumprimento do acordo de apoio financeiro
 
@@ -253,9 +298,15 @@ d) A explicitação das condições a cumprir pela entidade beneficiária em mat
 
 ###### Artigo 9.º — Acompanhamento do plano de reestruturação
 
-1- No âmbito da execução do acordo de apoio financeiro, o plano de reestruturação é acompanhado pelo conselho de gestão, devendo a entidade beneficiária manter organizado um arquivo permanente de todos os documentos comprovativos do cumprimento das obrigações decorrentes do plano de reestruturação e submeter trimestralmente, ao conselho de gestão, um sumário executivo.
+1 - No âmbito da execução do acordo de apoio financeiro, o plano de reestruturação é acompanhado pelo conselho de gestão, devendo a entidade beneficiária manter organizado um arquivo permanente de todos os documentos comprovativos do cumprimento das obrigações decorrentes do plano de reestruturação.
 
-2- No caso de se verificarem desvios e alterações à execução do plano de reestruturação, as mesmas devem ser reportadas e submetidas à consideração do conselho de gestão.
+2 - Para efeitos do acompanhamento a efetuar pelo conselho de gestão previsto no número anterior, o FRSS contrata uma única entidade externa, gestor de processo, que efetua o acompanhamento e a monitorização da respetiva reestruturação, submetendo ao conselho de gestão, trimestralmente, um sumário executivo.
+
+3 - No caso de se verificarem desvios e alterações à execução do plano de reestruturação, as mesmas devem ser reportadas e submetidas à consideração do conselho de gestão.
+
+4 - O plano de reestruturação é executado no prazo máximo de 4 anos podendo este prazo, em situações excecionais, ser alargado por período idêntico à prorrogação do reembolso do apoio financeiro a que se refere o n.º 3 do artigo 7.º, mediante requerimento, devidamente justificado, apresentado pela entidade beneficiária ao conselho de gestão, cabendo à entidade beneficiária a assunção do pagamento inerente ao acompanhamento no período excecional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218-C/2019](https://diariodarepublica.pt/dr/detalhe/portaria/218-c-2019-123183031), publicado em 2019-07-15.
 
 ###### Artigo 10.º — Política de investimento
 

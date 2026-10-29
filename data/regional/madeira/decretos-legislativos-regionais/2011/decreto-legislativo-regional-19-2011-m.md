@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-06-17'
+version_history:
+  file: decreto-legislativo-regional-19-2011-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2011-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-06-17'
+    amending: pt:dre:496765:por
+    amending_title: Decreto Legislativo Regional n.º 19/2013/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/19/2011/08/19/m/dre/pt/html
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    19/2013/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2011/decreto-legislativo-regional-19-2011-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -176,17 +193,19 @@ A [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123)
 
 ###### Artigo 2.º — Adaptação de competências
 
-1 - As competências cometidas ao Instituto da Mobilidade e dos Transportes Terrestres, I. P., e ao seu conselho directivo são exercidas, na Região Autónoma da Madeira, respectivamente, pela Direcção Regional de Transportes Terrestres e pelo director regional de Transportes Terrestres.
+1 - As competências cometidas ao Instituto da Mobilidade e dos Transportes, I. P., e ao seu conselho diretivo são exercidas, na Região Autónoma da Madeira, respetivamente, pela Direção Regional de Transportes Terrestres e pelo diretor regional de Transportes Terrestres.
 
-2 - As obrigações legais a que os centros de inspecção e respectivas entidades gestoras estão vinculados, por aplicação da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de Abril, perante o Instituto da Mobilidade e dos Transportes Terrestres, I. P., na Região Autónoma da Madeira, são cumpridas perante a Direcção Regional de Transportes Terrestres.
+2 - As obrigações legais a que os centros de inspeção e respetivas entidades gestoras estão vinculados, por aplicação da Lei n.º 11/2011, de 26 de abril, perante o Instituto da Mobilidade e dos Transportes, I. P., na Região Autónoma da Madeira, são cumpridas perante a Direção Regional de Transportes Terrestres.
 
-3 - As inspecções só podem ser efectuadas por técnicos habilitados para o exercício da actividade profissional de inspecção técnica de veículos a motor e seus reboques licenciados pela Direcção Regional de Transportes Terrestres ou por outro órgão que disponha de competência legal para o efeito, designadamente o Instituto da Mobilidade e dos Transportes Terrestres, I. P.
+3 - As inspeções só podem ser efetuadas por técnicos habilitados para o exercício da atividade profissional de inspeção técnica de veículos a motor e seus reboques licenciados pela Direção Regional de Transportes Terrestres ou por outro órgão que disponha de competência legal para o efeito, designadamente o Instituto da Mobilidade e dos Transportes, I. P.
 
 4 - Os recursos tecnológicos e equipamentos de que a entidade gestora de centro de inspecção deverá estar dotada com vista ao reconhecimento de capacidade técnica, assim como a definição do número máximo de inspecções a realizar diariamente por cada inspector, no seu período normal de trabalho, são estabelecidos por portaria do membro do Governo Regional responsável pelo sector dos transportes terrestres.
 
 5 - As tarifas, de valor fixo, que incidem sobre as inspecções e as reinspecções, determinadas em função do tipo de inspecção e da categoria do veículo, são estabelecidas e actualizadas por portaria conjunta dos membros do Governo Regional responsáveis pelos sectores do comércio e dos transportes terrestres.
 
 6 - Os montantes das taxas a cobrar são fixados e actualizados por portaria conjunta dos membros do Governo Regional com a tutela dos transportes terrestres e das finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2013-496765), publicado em 2013-06-17.
 
 ###### Artigo 3.º — Centros de inspecção
 
@@ -214,19 +233,29 @@ As inspecções e reinspecções aos veículos identificados no artigo 23.º da 
 
 1 - O produto resultante da cobrança de taxas e o resultante de coimas aplicadas no seguimento de processos de contra-ordenação, no âmbito do exercício da actividade de inspecção técnica de veículos a motor e seus reboques, constituem receitas próprias da Região Autónoma da Madeira.
 
-2 - Do montante das tarifas pagas pelas inspecções ou reinspecções, uma importância igual a 5 % constitui receita própria da Região Autónoma da Madeira.
+2 - Pelo exercício por privados da atividade de inspeção de veículos na Região Autónoma da Madeira é devida uma contrapartida financeira, em valor correspondente a uma percentagem da tarifa de cada inspeção realizada, nos termos seguintes:
+
+a) 10% no ano de 2013;
+
+b) 12,5% no ano de 2014;
+
+c) 15% no ano de 2015 e subsequentes.
 
 3 - O pagamento da importância referida no número anterior deve ser efectuado mensalmente pelas entidades gestoras nos serviços da Tesouraria do Governo Regional, sendo feita, posteriormente, prova desse pagamento junto da Direcção Regional de Transportes Terrestres.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2013-496765), publicado em 2013-06-17.
+
 ###### Artigo 7.º — Disposições transitórias
 
-1 - Até à implementação na Região Autónoma da Madeira de plataforma electrónica de informação nos termos previstos nos artigos 32.º e 33.º da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de Abril, todos os pedidos, comunicações e notificações são efectuados nos termos gerais previstos no Código do Procedimento Administrativo.
+1 - Até à implementação na Região Autónoma da Madeira da tramitação eletrónica dos procedimentos prévios à celebração dos contratos de gestão e da plataforma eletrónica de informação nos termos previstos nos artigos 6.º, 32.º e 33.º da Lei n.º 11/2011, de 26 de abril, na sua atual redação, todos os procedimentos, pedidos, comunicações e notificações são efetuados nos termos gerais previstos no Código do Procedimento Administrativo.
 
 2 - Até à entrada em vigor da portaria prevista no n.º 4 do artigo 2.º, os centros de inspecção do tipo fixo deverão, sem prejuízo do disposto no n.º 6 do artigo 34.º da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de Abril, preencher os requisitos de capacidade técnica previstos na referida lei e respectiva regulamentação.
 
 3 - Até à entrada em vigor da portaria prevista no n.º 4 do artigo 2.º, aos centros de inspecção do tipo móvel aplicam-se as normas previstas na [Portaria n.º 66/96](https://diariodarepublica.pt/dr/detalhe/portaria/66-1996-621504), de 7 de Junho, da Secretaria Regional de Economia e Cooperação Externa.
 
 4 - Até à entrada em vigor da portaria prevista no n.º 5 do artigo 2.º, mantêm-se em vigor as tarifas fixadas pela Portaria n.º 167/2009, de 10 de Dezembro, da Vice-Presidência do Governo Regional e da Secretaria Regional do Turismo e Transportes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2013-496765), publicado em 2013-06-17.
 
 ###### Artigo 8.º — Norma revogatória
 

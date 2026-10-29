@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-09-30'
+version_history:
+  file: despacho-normativo-560-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-09-30'
+    amending: pt:dre:354314:por
+    amending_title: Declaração de Rectificação n.º 154/94
+    changes:
+    - Retifica Artigo 5.º
+    - Retifica Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/560/1994/07/29/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 154/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-560-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -186,7 +202,7 @@ e) Possuir os meios financeiros adequados ao desenvolvimento da sua actividade e
 
 Cobertura do activo líquido pelos capitais próprios, acrescidos, quando necessário, de suprimentos ou de empréstimos de accionistas, superior a 25%.
 
-Caso a candidatura venha a ser aprovada, o montante dos suprimentos ou dos empréstimos de accionistas, que contribua para garantir os referidos 25% deverá ser integrado em capitais próprios antes da assinatura do contrato;
+Caso a candidatura venha a ser aprovada, o montante dos suprimentos ou dos empréstimos de accionistas, que contribua para garantir os referidos 25%, deverá ser integrado em capitais próprios antes da assinatura do contrato;
 
 f) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento;
 
@@ -210,13 +226,15 @@ c) Dispor de um mínimo de quatro técnicos especializados em regime permanente 
 
 3 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data de apresentação da candidatura apenas estão obrigadas ao cumprimento das condições previstas nas alíneas a) das condições de pré-projecto e b) das condições de pós-projecto, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 154/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/154-1994-354314), publicado em 1994-09-30.
+
 ###### Artigo 6.º — Condições de acesso do projecto
 
 1 - Constituem condições de acesso do projecto:
 
 a) Não ter sido iniciada a sua realização antes da data de apresentação da candidatura, com excepção das situações previstas no n.º 3 deste artigo;
 
-b) Inserir-se na estratégia a médio prazo da entidade promotora, fundamentada através de um diagnóstico de investimento e plano de acção, fazendo o levantamento e análise de necessidades e da configuração do investimento relativamente a todas as áreas funcionais, tendo em conta as perspectivas de evolução do mercado em que se insere e dando resposta às preocupações sugeridas no anexo A ao presente despacho e que dele faz parte integrante;
+b) Inserir-se na estratégia a médio prazo da entidade promotora, fundamentada através de um diagnóstico de investimento e plano de acção fazendo o levantamento e análise de necessidades e da configuração do investimento relativamente a todas as áreas funcionais, tendo em conta as perspectivas de evolução do mercado em que se insere e dando resposta às preocupações sugeridas no anexo A ao presente despacho e que dele faz parte integrante;
 
 c) Envolver um montante mínimo de investimento de 5000 contos, incluindo o custo de contratação de técnicos especializados durante um período de dois anos;
 
@@ -237,6 +255,8 @@ b) Os estudos, diagnósticos e auditorias concluídos há menos de 60 dias útei
 c) As despesas no âmbito da formação profissional efectuadas há menos de 60 dias úteis relativamente à data de apresentação da candidatura;
 
 d) O adiantamento para sinalização até 50% do custo de cada equipamento, não podendo ultrapassar 25% do custo global dos equipamentos, sempre que os documentos justificativos desse adiantamento se refiram aos 60 dias úteis que antecederam a data de apresentação da candidatura.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 154/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/154-1994-354314), publicado em 1994-09-30.
 
 ###### Artigo 7.º — Critérios de selecção
 

@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:501222:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1960-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b07f872c0466b92"
+   ]
+  },
+  {
+   "date": "1982-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:397908:por",
+     "title": "Decreto-Lei n.º 322/82",
+     "published": "1982-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/322-1982-397908"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "04f60b614f26e6a1",
+    "12d6bfec857672a4",
+    "b19cc7cf329127f4",
+    "de3ef51725aa4c12",
+    "1aa3a0120369fa24",
+    "dbf8d9683cd68026"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b07f872c0466b92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Na Conservatória dos Registos Centrais serão cobrados pelos serviços de registo de nacionalidade os seguintes emolumentos:\n\na) Por cada declaração para a aquisição, perda ou reaquisição da nacionalidade, ou para a sua manutenção ou não aquisição, em caso de casamento ... 100$00\n\nb) Por cada registo de nacionalidade, em caso de naturalização e, quando requerido, nos casos das alíneas a), b) e c) da base XLI da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959 ... 100$00\n\nc) Por cada processo de contencioso da nacionalidade ... 150$00\n\nd) Por cada certificado de nacionalidade ... 25$00\n\nArt. 2.º É aplicável às certidões extraídas de registos de nacionalidade o disposto nos artigos 29.º e 31.º da tabela anexa ao Código do Registo Civil.\n\nArt. 3.º Pelas fotocópias extraídas dos livros de registo civil e de nacionalidade ou de documentos arquivados que lhes respeitem são devidos os emolumentos previstos no artigo 23.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, acrescidos da importância a que se refere o n.º 3 do artigo 35.º da mesma tabela.\n\nArt. 4.º 1. Os registos de nacionalidade respeitantes a indivíduos nas condições previstas no artigo 256.º do Código Administrativo, bem como os documentos e declarações para eles necessários, são gratuitos.\n\n2. São igualmente gratuitas as transcrições oficiosas, realizadas na Conservatória dos Registos Centrais, de actos de registo civil ou de nacionalidade lavrados pelos órgãos especiais do registo civil.\n\nArt. 5.º 1. Os emolumentos previstos nas alíneas c) dos artigos 3.os das tabelas anexas aos Decretos-Leis n.os 42565, de 8 de Outubro de 1959, e 42644, de 14 de Novembro do mesmo ano, e na alínea d) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $60.\n\n2. Os emolumentos previstos na alínea d) do artigo 3.º da tabela anexa ao [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, e na alínea e) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $20.\n\nArt. 6.º O prazo a que se refere o n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, é prorrogado até 1 de Julho de 1961.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "04f60b614f26e6a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1982-08-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+  },
+  "12d6bfec857672a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1982-08-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+  },
+  "b19cc7cf329127f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPelas fotocópias extraídas dos livros de registo civil e de nacionalidade ou de documentos arquivados que lhes respeitem são devidos os emolumentos previstos no artigo 23.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, acrescidos da importância a que se refere o n.º 3 do artigo 35.º da mesma tabela."
+  },
+  "de3ef51725aa4c12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1982-08-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 322/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908), publicado em 1982-08-12."
+  },
+  "1aa3a0120369fa24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os emolumentos previstos nas alíneas c) dos artigos 3.os das tabelas anexas aos Decretos-Leis n.os 42565, de 8 de Outubro de 1959, e 42644, de 14 de Novembro do mesmo ano, e na alínea d) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $60.\n\n2. Os emolumentos previstos na alínea d) do artigo 3.º da tabela anexa ao [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, e na alínea e) do artigo 7.º da tabela anexa ao [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, são reduzidos para $20."
+  },
+  "dbf8d9683cd68026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO prazo a que se refere o n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, é prorrogado até 1 de Julho de 1961.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

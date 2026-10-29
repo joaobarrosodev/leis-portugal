@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336742:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dc01011952d7c78f"
+   ]
+  },
+  {
+   "date": "2006-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537249:por",
+     "title": "Lei n.º 30/2006",
+     "published": "2006-07-11",
+     "dre_path": "/dr/detalhe/lei/30-2006-537249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "8164538a51d2f213",
+    "228f0fbf75224219",
+    "cf42a0993c2c4147",
+    "9c84ba39b4ff243e",
+    "e8059dd1453f05b6",
+    "0a7ad780d319048c",
+    "39ec9ad6aae99401",
+    "9a6aed17a6fa34d2"
+   ]
+  }
+ ],
+ "fragments": {
+  "dc01011952d7c78f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Julho\n\nDeterminadas actuações comprometem não só a melhor utilização do solo, como afectam a paisagem. Estas actuações são, por um lado, extremamente prejudiciais, alterando o equilíbrio biológico, compactando o solo, prejudicando e destruindo arvoredo e acabando por formar áreas de aspecto desprezível e por vezes insalubre, por outro lado são um autêntico atentado à paisagem e às panorâmicas, comprometendo a cultura e os valores turísticos das regiões.\n\nEstão neste aspecto incluídos os parques de sucata, abundantes ao longo das mais importantes rodovias, os «cemitérios» de carcaças de veículos, os parques de máquinas, etc.\n\nAs medidas agora promulgadas pretendem disciplinar e obviar à continuação de um processo que já afecta gravemente muitas regiões do País.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:\n\na) Abrigos fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;\n\nb) Depósitos de ferro-velho, de lixos ou entulhos, de combustíveis sólidos, líquidos ou gasosos e de veículos;\n\nc) Jogos ou desportos públicos;\n\nd) Áreas permanentes de estacionamento público de veículos automóveis;\n\ne) Parques para caravanas.\n\n2. O regime poderá ser aplicado a outras situações, mediante portaria conjunta dos Ministros da Administração Interna e do Equipamento Social e do Ambiente.\n\nArt. 2.º Enquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma.\n\nArt. 3.º As câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º\n\nArt. 4.º - 1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.\n\n2. A licença pode ser condicionada, nomeadamente através da imposição de medidas de integração na paisagem e de protecção aos sítios.\n\n3. A licença é concedida a título precário, por prazo não superior a três anos, renovável a requerimento dos interessados.\n\nArt. 5.º - 1. O presidente da câmara deverá determinar a apreensão do título da licença:\n\na) Se não for dado cumprimento às condições fixadas;\n\nb) Se, em momento posterior à concessão, se verificar qualquer dos efeitos previstos no n.º 1 do artigo 4.º\n\n2. Terminado o prazo da licença ou apreendido o respectivo alvará, o seu titular poderá ser obrigado a repor as coisas no estado anterior, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.\n\n3. Na falta de observância do disposto no número anterior, o município poderá substituir-se ao particular.\n\n4. Na falta de pagamento voluntário, proceder-se-á à cobrança coerciva, servindo de título executivo certidão, passada pelos serviços, donde conste o quantitativo global das despesas.\n\nArt. 6.º São punidos com multa de 10000$00 a 100000$00, a pagar na tesouraria da câmara municipal:\n\na) A violação do n.º 1 do artigo 1.º;\n\nb) O não acatamento das condições impostas nos termos do n.º 2 do artigo 4.º;\n\nc) A falta de cumprimento da ordem a que se refere o n.º 2 do artigo 5.º\n\nArt. 7.º As instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.\n\nPromulgado em 24 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "8164538a51d2f213": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Julho\n\nDeterminadas actuações comprometem não só a melhor utilização do solo, como afectam a paisagem. Estas actuações são, por um lado, extremamente prejudiciais, alterando o equilíbrio biológico, compactando o solo, prejudicando e destruindo arvoredo e acabando por formar áreas de aspecto desprezível e por vezes insalubre, por outro lado são um autêntico atentado à paisagem e às panorâmicas, comprometendo a cultura e os valores turísticos das regiões.\n\nEstão neste aspecto incluídos os parques de sucata, abundantes ao longo das mais importantes rodovias, os «cemitérios» de carcaças de veículos, os parques de máquinas, etc.\n\nAs medidas agora promulgadas pretendem disciplinar e obviar à continuação de um processo que já afecta gravemente muitas regiões do País.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "228f0fbf75224219": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Sem prejuízo de outros condicionamentos legalmente exigidos, fica dependente de licença municipal a localização ou a ampliação das seguintes instalações, equipamentos ou actividades fora das áreas a que se refere o artigo 3.º ou das zonas previstas para o efeito em planos de urbanização aprovados:\n\na) Abrigos fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;\n\nb) Depósitos de ferro-velho, de lixos ou entulhos, de combustíveis sólidos, líquidos ou gasosos e de veículos;\n\nc) Jogos ou desportos públicos;\n\nd) Áreas permanentes de estacionamento público de veículos automóveis;\n\ne) Parques para caravanas.\n\n2. O regime poderá ser aplicado a outras situações, mediante portaria conjunta dos Ministros da Administração Interna e do Equipamento Social e do Ambiente."
+  },
+  "cf42a0993c2c4147": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEnquanto não for revista a legislação vigente sobre o licenciamento das edificações urbanas, tal licenciamento levará sempre em conta a protecção do ambiente nos termos definidos nos n.os 1 e 2 do artigo 4.º do presente diploma."
+  },
+  "9c84ba39b4ff243e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs câmaras municipais podem destinar determinados polígonos do território para a localização das instalações, equipamentos e actividades a que se refere o artigo 1.º"
+  },
+  "e8059dd1453f05b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A licença será sempre recusada se a localização, pela natureza ou aspecto do empreendimento, comprometer a estabilidade ecológica, ocupar solos de alta potencialidade ou capacidade de uso agrícola, prejudicar a salubridade, segurança, tranquilidade e ambiente públicos, o carácter ou interesse público dos próprios lugares ou das proximidades, as paisagens e sítios panorâmicos ou, ainda, se implicar a realização de novos equipamentos não previstos pelo Estado ou pelo município.\n\n2. A licença pode ser condicionada, nomeadamente através da imposição de medidas de integração na paisagem e de protecção aos sítios.\n\n3. A licença é concedida a título precário, por prazo não superior a três anos, renovável a requerimento dos interessados."
+  },
+  "0a7ad780d319048c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O presidente da câmara deverá determinar a apreensão do título da licença:\n\na) Se não for dado cumprimento às condições fixadas;\n\nb) Se, em momento posterior à concessão, se verificar qualquer dos efeitos previstos no n.º 1 do artigo 4.º\n\n2. Terminado o prazo da licença ou apreendido o respectivo alvará, o seu titular poderá ser obrigado a repor as coisas no estado anterior, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.\n\n3. Na falta de observância do disposto no número anterior, o município poderá substituir-se ao particular.\n\n4. Na falta de pagamento voluntário, proceder-se-á à cobrança coerciva, servindo de título executivo certidão, passada pelos serviços, donde conste o quantitativo global das despesas."
+  },
+  "39ec9ad6aae99401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Constitui contra-ordenação punida com coima de (euro) 50 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 40000, no caso de pessoa colectiva:\n\na) A violação do disposto no n.º 1 do artigo 1.º;\n\nb) O não acatamento das condições impostas nos termos do n.º 2 do artigo 4.º;\n\nc) A falta de cumprimento da ordem a que se refere o n.º 2 do artigo 5.º\n\n2 - É competente para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas o presidente da câmara municipal do local da prática da infracção, podendo delegá-la em qualquer dos seus membros.\n\n3 - O produto das coimas reverte para o Estado e para a câmara municipal referida no número anterior nas percentagens de 60% e 40%, respectivamente.\n\n> Alterado pelo/a Artigo 25.º do/a [Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), publicado em 2006-07-11."
+  },
+  "9a6aed17a6fa34d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs instalações, equipamentos ou actividades actualmente localizados nos vários concelhos poderão manter-se, a título precário, pelo prazo de três anos, sendo aplicável o disposto no final do n.º 3 do artigo 4.º\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - José Augusto Fernandes.\n\nPromulgado em 24 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

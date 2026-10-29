@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-07-30'
+version_history:
+  file: decreto-lei-119-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-07-30'
+    amending: pt:dre:667960:por
+    amending_title: Declaração de Rectificação n.º 103/94
+    changes:
+    - Retifica Artigo 146.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/119/1994/05/07/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:30:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 103/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-119-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 29.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo único. Os artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
+###### Artigo único
+
+Os artigos 3.º, 12.º, 20.º, 40.º, 92.º, 146.º e 180.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações passam a ter a seguinte redacção:
 
 Art. 3.º ...
 
@@ -145,7 +162,9 @@ Art. 3.º ...
 
 6.º Os donativos que, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares e do Código do Imposto sobre o Rendimento das Pessoas Colectivas, sejam considerados de interesse público ou destinados a fins culturais.
 
-Art. 12.º ...
+###### Artigo 12.º
+
+..
 
 1.º As transmissões de bens de valor igual ou inferior a 70000$00 para cada adquirente;
 
@@ -177,7 +196,9 @@ Art. 12.º ...
 
 § 3.º ...
 
-Art. 20.º ...
+###### Artigo 20.º
+
+..
 
 § 1.º ...
 
@@ -231,13 +252,17 @@ b) ...
 
 8.ª ...
 
-Art. 40.º As taxas do imposto sobre as sucessões e doações são as seguintes:
+###### Artigo 40.º
+
+As taxas do imposto sobre as sucessões e doações são as seguintes:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)
 
 § único. ...
 
-Art. 92.º Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.
+###### Artigo 92.º
+
+Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.
 
 § 1.º (Revogado.)
 
@@ -245,11 +270,17 @@ Art. 92.º Só poderá ser liquidado imposto municipal de sisa ou imposto sobre 
 
 § 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado.
 
-Art. 146.º ...
+###### Artigo 146.º
 
-§ único. Só se considera assegurado o pagamento mediante qualquer das garantias no § 1.º do artigo 136.º
+..
 
-Art. 180.º O imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.
+§ único. Só se considera assegurado o pagamento mediante qualquer das garantias referidas no § 1.º do artigo 136.º
+
+> Retificado pelo/a [Declaração de Rectificação n.º 103/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/103-1994-667960), publicado em 1994-07-30.
+
+###### Artigo 180.º
+
+O imposto municipal da sisa e o imposto sobre sucessões e doações prescrevem nos termos do artigo 34.º do Código de Processo Tributário.
 
 § 1.º ...
 

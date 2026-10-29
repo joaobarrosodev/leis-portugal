@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-28'
+version_history:
+  file: decreto-lei-401-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-28'
+    amending: pt:dre:490431:por
+    amending_title: Decreto-Lei n.º 250/2009
+    changes:
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/401/1999/10/14/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:11:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 250/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-401-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -224,75 +243,27 @@ d) O lucro tributável dos promotores seja determinado por métodos indiciários
 
 ###### Artigo 4.º — Benefícios fiscais
 
-1 - Os benefícios fiscais a conceder consistem num crédito de imposto correspondente a 10% das aplicações relevantes relacionadas com:
+(Revogado.)
 
-a) Criação de sucursais ou estabelecimentos estáveis no estrangeiro;
-
-b) Aquisição de participações de sociedades não residentes ou a criação de sociedades no estrangeiro, desde que a participação directa seja, pelo menos, de 25% do capital social;
-
-c) Campanhas de projecção plurianual para lançamento e promoção de produtos, prospecção e consolidação de mercados no estrangeiro, incluindo as realizadas com feiras, exposições e outras manifestações análogas com carácter internacional.
-
-2 - O crédito de imposto a que se refere o número anterior traduz-se na dedução ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas (CIRC), não podendo ultrapassar 25% daquele montante, com limite de 200000 contos, em cada exercício.
-
-3 - Aplicando-se o regime de tributação pelo lucro consolidado nos termos dos artigos 59.º e seguintes do Código do IRC, a dedução a que se refere o n.º 1 é feita de acordo com as seguintes regras:
-
-a) A dedução efectua-se ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC com base na matéria colectável consolidada;
-
-b) A dedução é feita até 25% do montante mencionado na alínea a) e não pode ultrapassar, em relação a cada sociedade, o limite estabelecido no n.º 2 da colecta correspondente à sociedade que realizou as despesas de investimento depois de eliminadas as operações entre sociedades do grupo.
-
-4 - A dedução é feita na liquidação do IRC respeitante ao exercício em que forem realizadas as despesas relevantes ou em que seja atingida a participação de 25%, consoante o caso, ou, quando o não possa ser integralmente, a importância ainda não deduzida poderá sê-lo, nas mesmas condições, na liquidação dos cinco exercícios seguintes.
-
-5 - A contabilidade das empresas dará expressão ao imposto que deixe de ser pago em resultado da dedução a que se referem os números anteriores, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativos ao exercício em que se efectua a dedução.
-
-6 - Os benefícios fiscais a conceder não são cumuláveis com outros benefícios da mesma natureza para o mesmo projecto de investimento.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.
 
 ###### Artigo 5.º — Eliminação da dupla tributação económica dos lucros distribuídos
 
-1 - A dedução prevista no n.º 1 do artigo 45.º do Código do IRC é aplicável, durante o período contratual, nos termos e condições aí referidos, relativamente aos lucros distribuídos por sociedades afiliadas não residentes em território português ou em Estado membro da Comunidade Europeia, sujeitas e não isentas de imposto sobre os lucros da mesma natureza do IRC, desde que os lucros distribuídos sejam provenientes de resultados obtidos no ano ou anos seguintes ao da realização do investimento.
+(Revogado.)
 
-2 - Para efeitos de aplicação do disposto no número anterior, o sujeito passivo de IRC titular da participação deve dispor de prova da verificação das condições de que depende a dedução, designadamente declaração confirmada e autenticada pelas autoridades fiscais do Estado de residência da sociedade afiliada e demonstração do ano a que se referem os resultados donde provêm os lucros distribuídos.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.
 
 ###### Artigo 6.º — Critérios de determinação do crédito fiscal
 
-1 - A percentagem estabelecida no n.º 1 do artigo 4.º do presente diploma pode ser majorada da seguinte forma:
+(Revogado.)
 
-a) Em 5%, caso o projecto de investimento se realize num dos países referidos no anexo I ao presente diploma;
-
-b) Em 5%, caso o promotor do projecto seja uma PME, tal como definida pela Comunidade Europeia.
-
-2 - As percentagens de majoração previstas no n.º 1 deste artigo podem ser atribuídas cumulativamente.
-
-3 - No caso de reconhecida relevância excepcional do projecto para a economia nacional, pode ser atribuída pelo Conselho de Ministros uma majoração até 5%, com o limite total de 20% das aplicações relevantes.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.
 
 ###### Artigo 7.º — Aplicações relevantes
 
-1 - Consideram-se aplicações relevantes para efeito do cálculo dos benefícios as despesas associadas aos projectos e relativas a:
+(Revogado.)
 
-a) Aquisição de equipamento afecto à actividade de sucursal ou estabelecimento estável no exterior, directamente relacionado e relevante para a actividade desenvolvida;
-
-b) Valor de aquisição de participações em sociedades não residentes;
-
-c) Montante de capital social realizado em sociedades no estrangeiro;
-
-d) Custos com a realização de campanhas plurianuais com as características definidas na alínea c) do n.º 1 do artigo 4.º;
-
-e) Custos corporizados em activo fixo incorpóreo, designadamente relacionados com:
-
-i) Despesas com assistência técnica e elaboração de estudos;
-
-ii) Despesas com patentes, licenças e alvarás.
-
-2 - Excepciona-se da alínea a) do n.º 1 investimento em:
-
-a) Terrenos;
-
-b) Edifícios e outras construções não directamente ligados ao processo produtivo ou às actividades administrativas essenciais;
-
-c) Viaturas ligeiras ou mistas e outro material de transporte no valor que ultrapasse 20% do total das aplicações relevantes;
-
-d) Mobiliário e artigos de conforto ou decoração;
-
-e) Equipamentos sociais, com excepção daqueles que a empresa seja obrigada a possuir por determinação da lei.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.
 
 ###### Artigo 8.º — Candidatura e apreciação dos processos
 
@@ -360,9 +331,9 @@ c) Prestação de informações falsas sobre a situação da empresa ou viciaç�
 
 ###### Artigo 14.º — Produção de efeitos
 
-1 - O presente diploma produz efeitos a partir 1 de Janeiro de 1999.
+(Revogado.)
 
-2 - Aos projectos que se tenham iniciado anteriormente a 1 de Janeiro de 1999 é aplicável o regime de benefícios fiscais instituídos na redacção dada ao artigo 49.º-A do Estatuto dos Benefícios Fiscais pela [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), de 27 de Dezembro.
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 250/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2009-490431), publicado em 2009-09-23.
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - José Augusto de Carvalho - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - António Ricardo Rocha de Magalhães - José Mariano Rebelo Pires Gago.
 

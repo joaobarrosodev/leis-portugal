@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-07'
+version_history:
+  file: resolucao-conselho-ministros-28-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-07'
+    amending: pt:dre:351701:por
+    amending_title: Resolução do Conselho de Ministros n.º 85/97
+    changes:
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/28/1995/04/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:10:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 85/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-28-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -894,7 +909,7 @@ As zonas de ocupação turística regem-se pelo [Decreto Regulamentar n.º 11/91
 
 1 - Os estabelecimentos hoteleiros classificados nos grupos 1 (hotéis), 4 (estalagens) e 6 (hotéis-apartamentos) do artigo 12.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 149/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1988-285370), de 27 de Abril, devem respeitar os seguintes requisitos:
 
-a) Densidade populacional: < habitantes/ha;
+a) Densidade populacional: < 100 habitantes/ha;
 
 b) Coeficiente de ocupação do solo (COS):
 
@@ -973,6 +988,8 @@ Um carro por apartamento;
 Um carro por cada 50 m2 de área total de construção relativamente a empreendimentos para comércio ou serviços;
 
 Dois carros por fogo relativamente a moradias unifamiliares.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 85/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/85-1997-351701), publicado em 1997-06-02.
 
 ##### SUBSECÇÃO II — Áreas de aptidão turística
 

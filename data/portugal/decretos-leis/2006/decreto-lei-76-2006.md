@@ -42,10 +42,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-02-17'
+version_history:
+  file: decreto-lei-76-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-02-17'
+    amending: pt:dre:517866:por
+    amending_title: Decreto-Lei n.º 36/2007
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/76/2006/03/27/p/dre/pt/html
@@ -71,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:55:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 36/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-76-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,7 +224,9 @@ No desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 d
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos implantáveis activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.
+O presente decreto-lei transfere para o Instituto Nacional da Farmácia e do Medicamento (INFARMED) as atribuições de autoridade competente no domínio dos dispositivos médicos activos e visa harmonizar a legislação que regula a matéria relativa aos dispositivos médicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2007-517866), publicado em 2007-02-16.
 
 ###### Artigo 2.º — Alteração ao Decreto-Lei n.º 495/99, de 18 de Novembro
 
@@ -538,7 +556,9 @@ c) Em 60% para o Estado.»
 
 1 - O presente decreto-lei entra em vigor 60 dias após a sua publicação, sem prejuízo do disposto no número seguinte.
 
-2 - O disposto nos artigos 2.º, 5.º, 7.º, 8.º e 10.º, na medida em que se refira a dispositivos médicos implantáveis activos, e 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º
+2 - O disposto no artigo 2.º, no artigo 3.º, na parte que altera o artigo 12.º do Decreto-Lei n.º 273/95, de 23 de Outubro, nos artigos 5.º e 7.º, no artigo 8.º, na medida em que se refira a dispositivos médicos implantáveis activos, e no artigo 11.º apenas entra em vigor no 1.º dia do 2.º mês seguinte ao da publicação da portaria prevista no n.º 2 do artigo 9.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 36/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2007-517866), publicado em 2007-02-16.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António Fernando Correia de Campos.
 

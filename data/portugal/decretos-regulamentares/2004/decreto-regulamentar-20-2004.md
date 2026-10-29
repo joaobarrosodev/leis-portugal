@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-20-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/20/2004/05/20/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:28:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2004/decreto-regulamentar-20-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -215,7 +232,9 @@ São órgãos do Parque Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Composição e funcionamento da comissão directiva
 
@@ -237,43 +256,15 @@ A comissão directiva e o seu presidente dispõem das competências atribuídas 
 
 ###### Artigo 8.º — Composição e funcionamento do conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Ministério da Agricultura, Desenvolvimento Rural e Pescas;
-
-b) Ministério da Cultura;
-
-c) Comissão de Coordenação e Desenvolvimento Regional do Alentejo;
-
-d) Direcção-Geral do Turismo;
-
-e) Câmara Municipal de Arronches;
-
-f) Câmara Municipal de Castelo de Vide;
-
-g) Câmara Municipal de Marvão;
-
-h) Câmara Municipal de Portalegre;
-
-i) Associação de Agricultores do Distrito de Portalegre;
-
-j) Juntas de freguesia da área do Parque Natural incluídas no município de Arronches, consideradas em conjunto e em sistema rotativo, pelo período de um ano;
-
-l) Juntas de freguesia da área do Parque Natural incluídas no município de Castelo de Vide, consideradas em conjunto e em sistema rotativo, pelo período de um ano;
-
-m) Juntas de freguesia da área do Parque Natural incluídas no município de Marvão, consideradas em conjunto e em sistema rotativo, pelo período de um ano;
-
-n) Juntas de freguesia da área do Parque Natural incluídas no município de Portalegre, consideradas em conjunto e em sistema rotativo, pelo período de um ano;
-
-o) Organizações não governamentais de ambiente (ONGA), de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo, pelo período de um ano;
-
-p) Instituições representativas dos interesses sócio-económicos, com intervenção na área do Parque Natural, consideradas em conjunto e em sistema rotativo, pelo período de um ano.
-
-2 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa, ou a solicitação de, pelo menos, um terço dos seus membros.
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-O conselho consultivo dispõe das competências atribuídas pelo artigo 20.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, com a redacção conferida pelo [Decreto-Lei n.º 221/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2002-432178), de 22 de Outubro.
+(Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

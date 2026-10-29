@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209198:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-02-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "290cf6995f39f429",
+    "33372344a7fb36b5",
+    "a972ca7816e7237e",
+    "3a96e97466e2759c",
+    "7dd4ecd5b48518ab",
+    "072fd1403a7a51ae",
+    "95f9ebd3ac7d50ad",
+    "9705b6d4c13d6842",
+    "0d8f891ecc52ecdd",
+    "514b79454718cede"
+   ]
+  },
+  {
+   "date": "2008-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456797:por",
+     "title": "Decreto-Lei n.º 130/2008",
+     "published": "2008-07-21",
+     "dre_path": "/dr/detalhe/decreto-lei/130-2008-456797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "290cf6995f39f429",
+    "33372344a7fb36b5",
+    "a972ca7816e7237e",
+    "9bdc48bd5d2883cf",
+    "7dd4ecd5b48518ab",
+    "072fd1403a7a51ae",
+    "95f9ebd3ac7d50ad",
+    "9705b6d4c13d6842",
+    "0d8f891ecc52ecdd",
+    "514b79454718cede"
+   ]
+  }
+ ],
+ "fragments": {
+  "290cf6995f39f429": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Fevereiro\n\nEm períodos com condições climatéricas mais rigorosas ocorre, com alguma frequência, que uma ou mais regiões do País sejam atingidas por temporais ou outros fenómenos de grande intensidade, os quais provocam sérios danos na actividade económica, nos sectores do comércio, indústria e serviços.\n\nPretende assim o Governo proceder à criação de linhas de crédito bonificado como forma de apoio aos agentes económicos atingidos por intempéries, definindo o respectivo enquadramento geral de modo a tornar mais célere a disponibilização deste tipo de apoios e, consequentemente, a minorar os danos por aqueles sofridos na sua actividade económica.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "33372344a7fb36b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - São criadas pelo presente diploma linhas de crédito especiais com o objectivo de minimizar os danos que, por efeito de condições climatéricas excepcionais, sejam sofridos na actividade comercial, industrial e de serviços.\n\n2 - As linhas de crédito referidas no número anterior são disponibilizadas pelas instituições de crédito que celebrarem, para o efeito, protocolo com o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI).\n\n3 - Os empréstimos incluídos nas linhas de crédito referidas beneficiarão de uma bonificação que consiste no pagamento pelo IAPMEI da totalidade dos encargos de juros, nos moldes referidos no artigo 6.º, bem como dos encargos correspondentes ao imposto do selo."
+  },
+  "a972ca7816e7237e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Têm acesso às linhas de crédito referidas no artigo 1.º as pequenas e médias empresas localizadas em regiões atingidas por condições climatéricas excepcionais que, por efeito de tais condições, tenham sofrido danos significativos na sua actividade comercial, industrial ou de serviços.\n\n2 - Para efeitos do disposto no número anterior, consideram-se regiões atingidas por condições climatéricas excepcionais aquelas que, em cada caso, venham como tal a ser definidas por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Economia.\n\n3 - O preenchimento das condições de acesso a estas linhas de crédito deve ser comprovado pelo IAPMEI, em colaboração com as correspondentes direcções regionais do Ministério da Economia."
+  },
+  "3a96e97466e2759c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante\n\n1 - O crédito, sob a forma de empréstimo, a bonificar, com o limite de 20 milhões de escudos por operação, é concedido pelas instituições referidas no n.º 2 do artigo 1.º\n\n2 - O montante global da linha de crédito a conceder em cada caso será definido por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Economia."
+  },
+  "7dd4ecd5b48518ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Prazo de apresentação das propostas e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazo de apresentação das propostas e decisão\n\n1 - Os pedidos de empréstimo deverão ser apresentados às instituições a que se refere o artigo 1.º no prazo máximo de 30 dias a contar da entrada em vigor do despacho conjunto referido no n.º 2 do artigo 2.º\n\n2 - O prazo para contratação dos empréstimos termina três meses após a entrada em vigor do referido despacho conjunto.\n\n3 - Para efeitos da atribuição da bonificação, as instituições de crédito devem, de imediato, comunicar ao IAPMEI a autorização de cada empréstimo, bem como o respectivo montante.\n\n4 - A decisão sobre a concessão da bonificação compete ao conselho de administração do IAPMEI, no prazo máximo de 15 dias após a recepção da comunicação a que se refere o número anterior."
+  },
+  "072fd1403a7a51ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Utilização, prazo e condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização, prazo e condições financeiras dos empréstimos\n\n1 - Os empréstimos beneficiam de um período de diferimento até dois anos e o seu reembolso, em função de cada caso, não pode exceder seis anos a contar do conhecimento pelo beneficiário da sua aprovação.\n\n2 - A utilização dos empréstimos deve concretizar-se no prazo de seis meses após a data do contrato.\n\n3 - Os empréstimos vencem juros, contabilizados dia a dia, sobre o capital em dívida, à taxa contratual.\n\n4 - Os reembolsos e o pagamento de juros são efectuados em prestações trimestrais iguais e sucessivas."
+  },
+  "95f9ebd3ac7d50ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Bonificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Bonificações\n\n1 - Os juros a suportar pelo IAPMEI serão calculados com base na menor das seguintes taxas:\n\na) Taxa de juro contratual do financiamento bancário;\n\nb) Taxa de referência para o cálculo da bonificação (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, revista pela [Portaria n.º 1039/97](https://diariodarepublica.pt/dr/detalhe/portaria/1039-1997-661917), de 3 de Outubro.\n\n2 - O montante da bonificação de juros enquadra-se nos apoios ao abrigo dos auxílios de minimis nas condições definidas pela Comissão Europeia.\n\n3 - A bonificação de juros é processada apenas enquanto se verificar o cumprimento pontual de todas as obrigações contratualmente assumidas pelos mutuários.\n\n4 - O incumprimento pelos mutuários de qualquer das obrigações referidas no número anterior deverá ser comunicado ao IAPMEI pelas instituições financiadoras, implicando a suspensão das bonificações.\n\n5 - A suspensão das bonificações implica ainda o pagamento pelos mutuários dos juros contabilizados, à taxa contratual, desde a data do vencimento anterior à data do incumprimento."
+  },
+  "9705b6d4c13d6842": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Reembolso às instituições de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reembolso às instituições de crédito\n\nO pagamento das bonificações previstas neste diploma será efectuado de acordo com as instruções que forem dirigidas às instituições de crédito pelo IAPMEI."
+  },
+  "0d8f891ecc52ecdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Outras condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras condições\n\nO IAPMEI adoptará os procedimentos adequados à aplicação do presente diploma, designadamente no que se refere à afectação, por regiões, do montante global do crédito disponível."
+  },
+  "514b79454718cede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\nA cobertura dos encargos resultantes da bonificação dos empréstimos é suportada por transferência do Orçamento do Estado para o IAPMEI.\n\nVisto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa.\n\nPromulgado em 2 de Fevereiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "9bdc48bd5d2883cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Montante",
+   "in_force_from": "2008-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 130/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2008-456797), publicado em 2008-07-21."
+   ],
+   "markdown": "###### Artigo 3.º — Montante\n\n1 - O crédito, sob a forma de empréstimo, a bonificar, com o limite de (euro) 500 000 por operação, é concedido pelas instituições referidas no n.º 2 do artigo 1.º\n\n2 - O montante global da linha de crédito a conceder em cada caso será definido por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Economia.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 130/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2008-456797), publicado em 2008-07-21."
+  }
+ }
+}

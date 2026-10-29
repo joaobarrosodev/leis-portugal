@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:233311:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6be5a4bcae3a3d8d"
+   ]
+  },
+  {
+   "date": "2015-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67442930:por",
+     "title": "Lei n.º 52/2015",
+     "published": "2015-06-09",
+     "dre_path": "/dr/detalhe/lei/52-2015-67442930"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "33a3723dade4f219",
+    "0abd3a5325f7860d",
+    "b813929386e4e666",
+    "e0ec0b713b2399b8",
+    "15a114f9c7485fbb",
+    "5b1591ed634229fa",
+    "3db03e6b57d31d71",
+    "4a647f9f59ef8649",
+    "5fe07e6d49faf65c"
+   ]
+  }
+ ],
+ "fragments": {
+  "6be5a4bcae3a3d8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Outubro\n\nO transporte público rodoviário de passageiros na região interurbana do Porto é garantido por cerca de 140 carreiras, das quais apenas 20% são detidas pelo Serviço de Transportes Colectivos do Porto (STCP).\n\nO STCP explora, em regime de exclusivo, o transporte urbano rodoviário na cidade do Porto, pelo que todo o esforço de modernização e melhoria da qualidade do serviço naquela cidade constitui prioridade, uma vez que neste segmento não se colocam alternativas.\n\nÉ possível, pois, aproveitando em simultâneo a capacidade e o dinamismo da iniciativa privada que explora tradicionalmente o transporte interurbano em todo o país, e maioritariamente na zona envolvente da cidade do Porto, aumentar a sua actuação nesse perímetro interurbano, permitindo que o STCP, ao retira dessa zona, reforce e melhore a qualidade do serviço na sua área de exclusivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º O Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto.\n\nArt. 2.º A subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros.\n\nArt. 3.º - 1 - Cabe ao STCP a elaboração do programa de concurso.\n\n2 - O programa de concurso e o respectivo caderno de encargos são aprovados pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n3 - A classificação dos concorrentes para efeitos de atribuição da subconcessão far-se-á de acordo com os montantes oferecidos pela subconcessão.\n\n4 - Em caso de igualdade entre propostas, respeitar-se-á a seguinte ordem de preferências:\n\na) Titulares de carreiras com percurso total ou parcialmente comum ao das carreiras a subconcessionar;\n\nb) Titulares de carreiras nos concelhos servidos pelas carreiras a subconcessionar;\n\nc) Titulares de carreiras num dos concelhos servidos pelas carreiras a subconcessionar.\n\nArt. 4.º Do caderno de encargos deve constar, obrigatoriamente:\n\na) Indicação da carreira a explorar;\n\nb) Condições de exploração;\n\nc) Conteúdo mínimo do contrato de subconcessão a celebrar;\n\nd) Duração da subconcessão;\n\ne) Montante da caução, sob a forma de garantia bancária ou seguro-caução, a prestar pelos concorrentes;\n\nf) Consequências do incumprimento do clausulado do contrato de subconcessão.\n\nArt. 5.º - 1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.\n\n2 - O STCP remeterá à Direcção-Geral de Transportes Terrestres cópia do contrato de subconcessão logo após a sua outorga.\n\nArt. 6.º - 1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.\n\n2 - O STCP e os subconcessionários ficam obrigados a criar e manter passes intermodais, por forma a assegurar a ligação entre as respectivas carreiras.\n\nArt. 7.º No prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário.\n\nArt. 8.º A concessão de exploração da carreira, findo o prazo em curso, transfere-se automaticamente para o subconcessionário, na parte subconcessionada.\n\nVisto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 16 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "33a3723dade4f219": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Outubro\n\nO transporte público rodoviário de passageiros na região interurbana do Porto é garantido por cerca de 140 carreiras, das quais apenas 20% são detidas pelo Serviço de Transportes Colectivos do Porto (STCP).\n\nO STCP explora, em regime de exclusivo, o transporte urbano rodoviário na cidade do Porto, pelo que todo o esforço de modernização e melhoria da qualidade do serviço naquela cidade constitui prioridade, uma vez que neste segmento não se colocam alternativas.\n\nÉ possível, pois, aproveitando em simultâneo a capacidade e o dinamismo da iniciativa privada que explora tradicionalmente o transporte interurbano em todo o país, e maioritariamente na zona envolvente da cidade do Porto, aumentar a sua actuação nesse perímetro interurbano, permitindo que o STCP, ao retira dessa zona, reforce e melhore a qualidade do serviço na sua área de exclusivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0abd3a5325f7860d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Serviço de Transportes Colectivos do Porto (STCP) poderá subconcessionar a exploração, total ou parcial, das carreiras de transporte público rodoviário de passageiros de que é titular que ultrapassem o limite urbano da cidade do Porto."
+  },
+  "b813929386e4e666": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA subconcessão prevista no artigo anterior é feita por concurso público, aberto a empresas concessionárias de transporte público interno rodoviário de passageiros."
+  },
+  "e0ec0b713b2399b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Cabe ao STCP a elaboração do programa de concurso.\n\n2 - O programa de concurso e o respectivo caderno de encargos são aprovados pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.\n\n3 - A classificação dos concorrentes para efeitos de atribuição da subconcessão far-se-á de acordo com os montantes oferecidos pela subconcessão.\n\n4 - Em caso de igualdade entre propostas, respeitar-se-á a seguinte ordem de preferências:\n\na) Titulares de carreiras com percurso total ou parcialmente comum ao das carreiras a subconcessionar;\n\nb) Titulares de carreiras nos concelhos servidos pelas carreiras a subconcessionar;\n\nc) Titulares de carreiras num dos concelhos servidos pelas carreiras a subconcessionar."
+  },
+  "15a114f9c7485fbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDo caderno de encargos deve constar, obrigatoriamente:\n\na) Indicação da carreira a explorar;\n\nb) Condições de exploração;\n\nc) Conteúdo mínimo do contrato de subconcessão a celebrar;\n\nd) Duração da subconcessão;\n\ne) Montante da caução, sob a forma de garantia bancária ou seguro-caução, a prestar pelos concorrentes;\n\nf) Consequências do incumprimento do clausulado do contrato de subconcessão."
+  },
+  "5b1591ed634229fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A adjudicação das subconcessões é feita pelo STCP, sujeita a autorização prévia dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sendo formalidade essencial a outorga do contrato de subconcessão por escritura pública.\n\n2 - O STCP remeterá à Direcção-Geral de Transportes Terrestres cópia do contrato de subconcessão logo após a sua outorga."
+  },
+  "3db03e6b57d31d71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os subconcessionários ficam sujeitos ao mesmo regime de preços aplicável ao concessionário.\n\n2 - O STCP e os subconcessionários ficam obrigados a criar e manter passes intermodais, por forma a assegurar a ligação entre as respectivas carreiras."
+  },
+  "4a647f9f59ef8649": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo prazo de duração da subconcessão, o subconcessionário substitui, para todos os efeitos legais, e designadamente perante as entidades competentes, o concessionário."
+  },
+  "5fe07e6d49faf65c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2015-08-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), publicado em 2015-06-09."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 16.º do/a [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), publicado em 2015-06-09.\n\nVisto e aprovado em Conselho de Ministros de 13 de Agosto de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 16 de Setembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

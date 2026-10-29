@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668899:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-10-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "98574c1b8c0a3d2f",
+    "13b3c93ecd20873b",
+    "4a75348a9347aa05",
+    "7f2ae7e7e3a2c552",
+    "d3cf2c4ffe07805f",
+    "46b01e0d176ba890",
+    "e211b6889dcb8b98",
+    "99f3714871200c01",
+    "f4fae754ded0b614",
+    "aeaddec5064f99ce",
+    "09859cc2427b7f62",
+    "9661984e8ee1c3cf",
+    "8b675f1819448727",
+    "c1bc671c471b8474",
+    "d098e28781458d4a",
+    "d4e4c5b5ae969ae1",
+    "6f6ea89945f6466c",
+    "e744f652f38b8c41",
+    "9d515412e7e5e00e"
+   ]
+  },
+  {
+   "date": "1997-06-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:361886:por",
+     "title": "Decreto-Lei n.º 141/97",
+     "published": "1997-06-06",
+     "dre_path": "/dr/detalhe/decreto-lei/141-1997-361886"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "98574c1b8c0a3d2f",
+    "f377a5ec178975cb",
+    "4a75348a9347aa05",
+    "7f2ae7e7e3a2c552",
+    "d3cf2c4ffe07805f",
+    "46b01e0d176ba890",
+    "e211b6889dcb8b98",
+    "99f3714871200c01",
+    "f4fae754ded0b614",
+    "aeaddec5064f99ce",
+    "90e8e503b28881d8",
+    "fcfb4d3711239127",
+    "8b675f1819448727",
+    "c1bc671c471b8474",
+    "d098e28781458d4a",
+    "d4e4c5b5ae969ae1",
+    "6f6ea89945f6466c",
+    "e744f652f38b8c41",
+    "9d515412e7e5e00e"
+   ]
+  }
+ ],
+ "fragments": {
+  "98574c1b8c0a3d2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Outubro\n\nRemonta a 1978 a última reestruturação orgânica da Junta Autónoma de Estradas. Essa reformulação dos serviços da entidade pública à qual compete a construção e exploração do património rodoviário nacional ocorreu em momento em que era, do ponto de vista quantitativo e qualitativo, muito diferente o conjunto de infra-estruturas rodoviárias nacionais.\n\nAs características actuais das redes fundamental e complementar e a reconhecida essencialidade da estrada no processo de modernização do País e de diminuição das assimetrias regionais obrigam a reconhecer que a estrutura de serviços da Junta Autónoma de Estradas não se encontra moldada para uma gestão eficaz das vias de comunicação que estão a seu cargo.\n\nO Governo reconhece que a necessidade de reestruturação da Junta Autónoma de Estradas passa não só pela reformulação da estrutura dos serviços centrais e regionais, mas também pela alteração do seu estatuto jurídico e do modelo superior de gestão, o que pressupõe um estudo profundo de soluções a adoptar.\n\nA circunstância de a Junta Autónoma de Estradas representar um instrumento fundamental das políticas de desenvolvimento e modernização estrutural no quadro definido pelo Quadro Comunitário de Apoio II obriga, porém, a proceder a uma reestruturação imediata, de forma a dotar este organismo dos meios mínimos de actuação e a garantir os avultados investimentos no sector sem o risco de constrangimentos ou bloqueios funcionais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "13b3c93ecd20873b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação de serviços\n\nSão criados, no âmbito da orgânica da Junta Autónoma de Estradas (JAE), aprovada pelo [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 395/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1991-289060), de 16 de Outubro, os seguintes serviços:\n\na) A Direcção de Serviços de Projectos;\n\nb) A Direcção de Serviços de Apoio Técnico;\n\nc) A Divisão de Programação do Gabinete de Planeamento e Programação;\n\nd) A Divisão de Expropriações da Direcção de Serviços de Construção;\n\ne) As direcções de exploração;\n\nf) As direcções de estradas no âmbito das direcções de exploração;\n\ng) As divisões de estudo e planeamento e as de projecto, acompanhamento e apoio das direcções regionais de estradas."
+  },
+  "4a75348a9347aa05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Direcção de Serviços de Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direcção de Serviços de Projectos\n\nCabe à Direcção de Serviços de Projectos:\n\na) Acompanhar e coordenar os estudos e projectos a cargo dos serviços regionais, promovendo directamente a elaboração de estudos e projectos que, pelas suas especiais características, não possam ser assegurados por aqueles;\n\nb) Proceder à revisão de projectos e à elaboração de pareceres, coordenando a acção de outros sectores especializados, em todos os casos em que tais funções não possam, pela sua natureza, ser realizadas pelos serviços regionais;\n\nc) Promover, coordenar ou acompanhar os estudos de impacte ambiental legalmente exigidos ou cuja elaboração tenha sido superiormente decidida;\n\nd) Assegurar a aquisição ou actualização de conhecimentos e técnicas destinados a promover a harmonização das infra-estruturas rodoviárias com o ambiente em que se insiram, estudando as medidas mitigadoras de eventuais impactes negativos;\n\ne) Elaborar ou coordenar estudos de paisagismo rodoviário, assim como prestar assistência técnica e emitir informação ou pareceres na área da protecção do ambiente a outros serviços da JAE."
+  },
+  "7f2ae7e7e3a2c552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Divisões da Direcção de Serviços de Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Divisões da Direcção de Serviços de Projectos\n\nSão transferidas para a dependência da Direcção de Serviços de Projectos a Divisão de Ambiente e a Divisão de Projectos, com as competências definidas, respectivamente, pelo artigo 6.º do [Decreto-Lei n.º 395/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1991-289060), de 16 de Outubro, e pelo artigo 37.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho."
+  },
+  "d3cf2c4ffe07805f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção de Serviços de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção de Serviços de Apoio Técnico\n\n1 - À Direcção de Serviços de Apoio Técnico compete:\n\na) Definir normas de actuação dos serviços da JAE nos domínios da geologia e geotecnia, de controlo laboratorial e de ensaio de materiais das obras;\n\nb) Promover a formação e actualização de conhecimentos profissionais dos quadros técnicos no âmbito da construção e conservação de estradas, incluindo a realização de obras piloto;\n\nc) Investigar, desenvolver e divulgar novas técnicas construtivas;\n\nd) Apoiar tecnicamente outros serviços quando para tal for solicitada.\n\n2 - Na dependência da Direcção de Serviços de Apoio Técnico funciona a Divisão de Geotecnia, com as competências definidas no artigo 28.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho."
+  },
+  "46b01e0d176ba890": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Coordenador de empreendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenador de empreendimento\n\n1 - Quando, pela sua complexidade, dimensão ou inserção regional, haja conveniência em submeter um conjunto de obras a uma coordenação desconcentrada, pode o ministro responsável pelo sector das obras públicas, mediante proposta do presidente da JAE, designar coordenadores de empreendimento, num máximo de oito.\n\n2 - Cabe aos coordenadores de empreendimento acompanhar a elaboração dos projectos de execução e participar nos procedimentos que visem a adjudicação de empreitadas de novos lanços da rede rodoviária nacional ou obras de grande reparação.\n\n3 - Compete ainda aos coordenadores de empreendimento a gestão técnica, administrativa e financeira das empreitadas referidas no número anterior, nos termos que vierem a ser definidos por despacho do presidente da JAE, o qual fixará igualmente as equipas de pessoal por eles coordenadas.\n\n4 - O acto de designação fixa a duração das funções, que não poderá exceder três anos.\n\n5 - Os coordenadores de empreendimento são equiparados, para efeitos remuneratórios, a directores de serviços.\n\n6 - Os coordenadores de empreendimento são coadjuvados por um adjunto a designar de entre técnicos superiores, por despacho do presidente da JAE mediante proposta dos directores de empreendimento, pelo período que no acto de nomeação for fixado, sendo equiparado a chefe de divisão para efeitos remuneratórios.\n\n7 - Os adjuntos dos coordenadores de empreendimento poderão ser exonerados e substituídos livremente por despacho do presidente da JAE."
+  },
+  "e211b6889dcb8b98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º"
+  },
+  "99f3714871200c01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Programação do Gabinete de Planeamento e Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Programação do Gabinete de Planeamento e Programação\n\nÀ Divisão de Programação do Gabinete de Planeamento e Programação compete:\n\na) Elaborar, em colaboração com a Divisão de Planeamento, os programas anuais de investimentos, sendo-lhe atribuída a função de controlo global da respectiva execução física e financeira;\n\nb) Promover e manter actualizada uma estrutura eficaz de informação que permita a realização dos trabalhos de acordo com os objectivos definidos em termos de qualidade, orçamento e prazo;\n\nc) Elaborar, acompanhar e avaliar os programas específicos de financiamento comunitário de obras integradas nos programas anuais de investimento."
+  },
+  "f4fae754ded0b614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º"
+  },
+  "aeaddec5064f99ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Expropriações\n\nNo âmbito da Direcção de Serviços de Construção funciona a Divisão de Expropriações, à qual compete:\n\na) Preparar para aprovação o plano anual de expropriações;\n\nb) Analisar e propor para aprovação superior os mapas de expropriações e correspondentes plantas parcelares;\n\nc) Administrar o sistema informático de controlo dos processos de expropriação;\n\nd) Acompanhar a instrução dos pedidos de declaração de utilidade pública e os procedimentos tendentes à posse administrativa e adjudicação definitiva de bens expropriados;\n\ne) Propor a constituição de equipas destinadas a proceder à correcta identificação, caracterização e avaliação dos bens e direitos objecto de expropriação;\n\nf) Acompanhar, em colaboração com o Gabinete de Contencioso e Apoio Jurídico, os processos de expropriação litigiosa."
+  },
+  "09859cc2427b7f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcções de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcções de exploração\n\n1 - São criadas as Direcções de Exploração do Norte, das Beiras, do Centro, de Lisboa e do Sul, com sede, respectivamente, no Porto, em Viseu, em Santarém, em Lisboa e em Faro.\n\n2 - Todas as competências legalmente atribuídas às actuais direcções de estradas são transferidas para as direcções de exploração.\n\n3 - As direcções de exploração são chefiadas por directores de serviços, nomeados, nos termos da lei geral, em comissão de serviço."
+  },
+  "9661984e8ee1c3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcções de estradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcções de estradas\n\n1 - As direcções de exploração compreendem subunidades orgânicas, designadas direcções de estradas, com as seguintes áreas de intervenção geográfica:\n\nNo âmbito da Direcção de Exploração do Norte/Porto:\n\nAs Direcções de Estradas dos Distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto;\n\nNo âmbito da Direcção de Exploração das Beiras:\n\nA Direcção de Estradas dos Distritos de Aveiro, Viseu, Guarda, Coimbra e Castelo Branco;\n\nNo âmbito da Direcção de Exploração do Centro:\n\nAs Direcções de Estradas dos Distritos de Leiria, Santarém, Portalegre e Évora;\n\nNo âmbito da Direcção de Exploração de Lisboa:\n\nAs Direcções de Estradas dos Distritos de Lisboa e Setúbal;\n\nNo âmbito da Direcção de Exploração do Sul:\n\nAs Direcções de Estradas dos Distritos de Beja e Faro.\n\n2 - Cada direcção de estradas é chefiada por um director com categoria correspondente a chefe de divisão, nomeado, nos termos da lei geral, em comissão de serviço.\n\n3 - Os directores de estradas exercem as competências que lhe forem delegadas ou subdelegadas pelo respectivo director de exploração, essencialmente nos domínios da exploração, polícia e segurança das estradas."
+  },
+  "8b675f1819448727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "c1bc671c471b8474": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de estudo e planeamento das direcções de serviços regionais de estradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de estudo e planeamento das direcções de serviços regionais de estradas\n\nCada direcção de serviços regionais de estradas compreende uma divisão de estudo e planeamento, à qual compete:\n\na) Promover e manter actualizados, em colaboração com os serviços centrais da JAE, o inventário e caracterização da rede rodoviária nacional existente na região e respectivas procura e evolução do tráfego;\n\nb) Avaliar os custos do transporte por estrada na rede sob jurisdição da respectiva direcção de serviços regionais;\n\nc) Recolher, analisar e processar a informação de base necessária à elaboração de propostas de planeamento e programação da rede rodoviária nacional existente na região, designadamente através de contagens especiais e inquéritos sobre tráfego, rede e custos;\n\nd) Propor os programas de investimento para a rede sob sua jurisdição, fundamentando-se na identificação das respectivas deficiências e na análise da sua viabilidade técnica e económica, segundo os critérios e normas determinados pelo presidente da JAE;\n\ne) Controlar a execução financeira e física dos programas anuais de investimento na rede rodoviária nacional existente na área de actuação da respectiva direcção de serviços regionais, bem como propor os ajustamentos na programação que se mostrem necessários;\n\nf) Organizar e manter em suporte informático toda a informação estatística relativa à actividade da JAE na área geográfica de actuação da direcção de serviços regionais, nomeadamente parâmetros e custos unitários respeitantes a programas anuais de investimento."
+  },
+  "d098e28781458d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Divisão de projecto, acompanhamento e apoio das direcções de serviços regionais de estradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão de projecto, acompanhamento e apoio das direcções de serviços regionais de estradas\n\nCada direcção de serviços regionais de estradas compreende uma divisão de projecto, acompanhamento e apoio, à qual compete:\n\na) Manter o director de serviços regionais informado sobre a concretização dos projectos que estão afectos à direcção de serviços regionais;\n\nb) Elaborar o programa base e especificações dos projectos incluídos no plano de actividades para a respectiva direcção de serviços regionais;\n\nc) Elaborar, acompanhar, fiscalizar e proceder à análise de projectos de construção e modernização das estradas que sejam incluídas nos planos anuais de estudos;\n\nd) Apoiar a fiscalização das obras em curso na área de intervenção da direcção de serviços regionais, analisando e resolvendo tecnicamente os problemas e dúvidas em relação ao projecto aprovado;\n\ne) Colaborar na elaboração e fiscalização de projectos a cargo das direcções de exploração;\n\nf) Proceder à análise e revisão dos projectos de beneficiação de estradas elaborados pelas direcções de exploração ou por autarquias locais no que respeita à rede a desclassificar, emitindo parecer."
+  },
+  "d4e4c5b5ae969ae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contratação a termo certo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contratação a termo certo\n\n1 - Para garantia de acompanhamento de empreendimentos de grande complexidade, dimensão ou inserção regional no âmbito da gestão de programas do Quadro Comunitário de Apoio II, fica a JAE autorizada a celebrar, ao abrigo do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, contratos de trabalho a termo certo, nos termos da lei geral do trabalho.\n\n2 - Os contratos referidos no número anterior são celebrados por urgente conveniência de serviço."
+  },
+  "6f6ea89945f6466c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Alteração do quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração do quadro de pessoal\n\nSão acrescidos ao quadro de pessoal da JAE os lugares de direcção e chefia constantes do mapa anexo."
+  },
+  "e744f652f38b8c41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Cessação de comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cessação de comissões de serviço\n\nNa data de entrada em vigor do presente diploma cessam as comissões de serviço dos directores de estradas providos ao abrigo do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho.\n\nVisto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 3 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "9d515412e7e5e00e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/241a00/64566459.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/241a00/64566459.pdf)"
+  },
+  "f377a5ec178975cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação de serviços",
+   "in_force_from": "1997-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+   ],
+   "markdown": "###### Artigo 1.º — Criação de serviços\n\nSão criados, no âmbito da orgânica da Junta Autónoma de Estradas (JAE), aprovada pelo [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 395/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1991-289060), de 16 de Outubro, os seguintes serviços:\n\na) A Direcção de Serviços de Projectos;\n\nb) A Direcção de Serviços de Apoio Técnico;\n\nc) A Divisão de Programação do Gabinete de Planeamento e Programação;\n\nd) A Divisão de Expropriações da Direcção de Serviços de Construção;\n\ne) As direcções de exploração;\n\nf) As direcções de estradas no âmbito da Direcção de Serviços de Conservação;\n\ng) As divisões de estudo e planeamento e as de projecto, acompanhamento e apoio das direcções regionais de estradas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+  },
+  "90e8e503b28881d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcções de exploração",
+   "in_force_from": "1997-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+   ],
+   "markdown": "###### Artigo 8.º — Direcções de exploração\n\n1 - São criadas as direcções de exploração com a seguinte área de intervenção geográfica:\n\na) Direcção de Exploração do Norte, com sede no Porto e abrangendo os distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto;\n\nb) Direcção de Exploração das Beiras, com sede em Viseu e abrangendo os distritos de Aveiro, Viseu, Guarda, Coimbra e Castelo Branco;\n\nc) Direcção de Exploração do Centro, com sede em Santarém e abrangendo os distritos de Leiria, Santarém, Portalegre e Évora;\n\nd) Direcção de Exploração de Lisboa, com sede em Lisboa e abrangendo os distritos de Lisboa e Setúbal;\n\ne) Direcção de Exploração do Sul, com sede em Faro e abrangendo os distritos de Beja e Faro.\n\n2 - As direcções de exploração prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere aos itinerários principais e complementares constituídos, bem como às estradas nacionais que, provisoriamente, asseguram essa função.\n\n3 - As direcções de exploração são chefiadas por directores de serviços, nomeados, nos termos da lei geral, em comissão de serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+  },
+  "fcfb4d3711239127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcções de estradas",
+   "in_force_from": "1997-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+   ],
+   "markdown": "###### Artigo 9.º — Direcções de estradas\n\n1 - As direcções de estradas têm âmbito distrital, sendo as seguintes: Direcção de Estradas do Distrito de Viana do Castelo, Braga, Bragança, Vila Real, Porto, Aveiro, Viseu, Guarda, Coimbra, Castelo Branco, Leiria, Santarém, Portalegre, Évora, Lisboa, Setúbal, Beja e Faro.\n\n2 - Cada direcção de estradas é chefiada por um director com categoria correspondente a chefe de divisão, nomeado, nos termos da lei geral, em comissão de serviço.\n\n3 - As direcções de estradas prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º, bem como as previstas no artigo 63.º do Decreto-Lei n.º 184/78, de 18 de Julho, no que se refere às estradas nacionais e às estradas regionais, quando criadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886), publicado em 1997-06-06."
+  }
+ }
+}

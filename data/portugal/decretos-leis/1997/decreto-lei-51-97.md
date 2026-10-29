@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-12'
+version_history:
+  file: decreto-lei-51-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-12'
+    amending: pt:dre:301783:por
+    amending_title: Decreto-Lei n.º 103/2004
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/51/1997/03/01/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:55:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 103/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-51-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,11 +225,23 @@ d) Não prestem quaisquer serviços, em regime de trabalho autónomo ou subordin
 
 ###### Artigo 7.º — Tipos de agulhas magnéticas e equipamentos complementares
 
-As embarcações nacionais de arqueação bruta inferior a 150 devem possuir agulha de governo e estar equipadas com dispositivos que permitam efectuar marcações azimutais.
+1 - Sem prejuízo do disposto nos números seguintes, as embarcações nacionais de arqueação bruta inferior a 150 devem possuir agulhas de governo e estar equipadas com dispositivos que permitam efectuar marcações azimutais.
+
+2 - Podem ser dispensadas de cumprir o disposto no número anterior:
+
+a) As embarcações de arqueação bruta inferior a 15, desde que operem exclusivamente dentro dos portos, rios ou rias;
+
+b) As embarcações de arqueação bruta igual ou superior a 15, desde que operem exclusivamente dentro dos portos, rios ou rias e não se afastem mais de um quarto de milha de qualquer das suas margens.
+
+3 - As dispensas devem ser requeridas pelos interessados ao Instituto Portuário e dos Transportes Marítimos e averbadas no certificado de navegabilidade das embarcações.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 103/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2004-301783), publicado em 2004-05-07.
 
 ###### Artigo 8.º — Compensação das agulhas magnéticas
 
-As agulhas magnéticas instaladas nas embarcações referidas no artigo anterior devem ser compensadas antes de a embarcação entrar em actividade e durante a realização de uma vistoria para efeitos de certificação de segurança, quando se detectar um desvio que exceda (mais ou menos)5º.
+As agulhas magnéticas instaladas nas embarcações a que se refere o n.º 1 do artigo anterior devem ser compensadas antes de a embarcação entrar em actividade e durante a realização de uma vistoria para efeitos de certificação de segurança, quando se detectar um desvio que exceda (mais ou menos) 5º.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 103/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2004-301783), publicado em 2004-05-07.
 
 ### CAPÍTULO III — Agulhas magnéticas das embarcações abrangidas pelo n.º 2 do artigo 2.º
 
@@ -223,6 +252,12 @@ As agulhas magnéticas instaladas nas embarcações referidas no artigo anterior
 2 - A DGPNTM pode autorizar que uma agulha magnética padrão seja substituída por uma agulha magnética de governo, sempre que as embarcações se limitem a navegar à vista de terra ou não exista espaço disponível para a sua instalação, dadas as características das embarcações.
 
 3 - A agulha magnética de governo é dispensável sempre que as embarcações possuam condições que permitam uma leitura fácil da agulha padrão pelo homem do leme, a partir do seu posto de governo.
+
+4 - Podem ser dispensadas de cumprir o disposto no n.º 1 as embarcações nele referidas desde que operem exclusivamente dentro dos portos, rios ou rias e não se afastem mais de um quarto de milha de qualquer das suas margens.
+
+5 - As dispensas a que se refere o número anterior devem ser requeridas pelos interessados ao Instituto Portuário e dos Transportes Marítimos e averbadas no certificado de navegabilidade das embarcações.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 103/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2004-301783), publicado em 2004-05-07.
 
 ###### Artigo 10.º — Agulha magnética de reserva
 

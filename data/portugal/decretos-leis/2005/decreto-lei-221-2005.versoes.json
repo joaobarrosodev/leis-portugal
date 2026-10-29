@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:464777:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "82c79d315d88ec49",
+    "957d286b83729f1b",
+    "b12ce3ab28279955",
+    "d445495417f4ef7c",
+    "519cb8821394a4f4",
+    "6e7135d8f586b546",
+    "cede91d0a2dfc912"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "82c79d315d88ec49",
+    "957d286b83729f1b",
+    "b12ce3ab28279955",
+    "36553324b8bd8402",
+    "519cb8821394a4f4",
+    "6e7135d8f586b546",
+    "cede91d0a2dfc912"
+   ]
+  }
+ ],
+ "fragments": {
+  "82c79d315d88ec49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Dezembro\n\nA progressiva uniformização dos diversos regimes especiais de reforma e de aposentação que estabelecem idades de aposentação, tempos mínimos de serviço ou regimes de contagem do tempo de serviço diferentes do regime geral aplicável aos servidores do Estado constitui um objectivo do programa do XVII Governo Constitucional, anunciado na [Resolução do Conselho de Ministros n.º 110/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2005-233731), de 2 de Junho.\n\nAo pessoal do quadro de pessoal militarizado do Exército é aplicável um regime específico no que concerne à bonificação do tempo de serviço, estabelecida em 25%, e à consagração do limite de idade de 56 anos para a passagem à situação de reforma, pelo que se impõe proceder às alterações ditadas por esse imperativo, sem perder de vista que se trata de um quadro em extinção, nos termos do disposto no artigo 2.º do [Decreto-Lei n.º 550-R/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-r-1976-181660), de 12 de Julho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "957d286b83729f1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Passagem à reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Passagem à reforma\n\n1 - A reforma do pessoal do quadro de pessoal militarizado do Exército, adiante designado por QPME, rege-se pela legislação aplicável aos funcionários e agentes da Administração Pública, com as especificidades constantes do presente decreto-lei.\n\n2 - Transita para a situação de reforma o pessoal do QPME que conte pelo menos 60 anos de idade, sem prejuízo do disposto no n.º 2 do artigo 3.º"
+  },
+  "b12ce3ab28279955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Bonificação do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Bonificação do tempo de serviço\n\nO pessoal do QPME beneficia de um acréscimo de 15% sobre o tempo de serviço efectivo prestado como militarizado."
+  },
+  "d445495417f4ef7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições transitórias\n\n1 - O pessoal do QPME que até 31 de Dezembro de 2005 reúna as condições vigentes nessa data para requerer a passagem à situação de reforma pode fazê-lo a todo o tempo, sendo o pedido decidido nos termos em vigor até àquela data.\n\n2 - Até 31 de Dezembro de 2013, pode ainda requerer a passagem à situação de reforma o pessoal que complete a idade prevista na tabela anexa ao presente decreto-lei, que dele faz parte integrante.\n\n3 - O disposto no artigo anterior aplica-se apenas ao tempo de serviço prestado a partir da sua entrada em vigor."
+  },
+  "519cb8821394a4f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 106/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1989-615474), de 12 de Abril."
+  },
+  "6e7135d8f586b546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor em 1 de Janeiro de 2006.\n\n2 - Sem prejuízo do disposto no número anterior, o n.º 2 do artigo 1.º entra em vigor em 1 de Janeiro de 2007.\n\nVisto e aprovado em Conselho de Ministros de 26 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado.\n\nPromulgado em 9 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "cede91d0a2dfc912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Tabela anexa a que se refere o n.º 2 do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela anexa a que se refere o n.º 2 do artigo 3.º\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/12/245a00/72177217.pdf)"
+  },
+  "36553324b8bd8402": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Disposições transitórias",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31."
+   ],
+   "markdown": "###### Artigo 3.º — Disposições transitórias\n\n1 - O pessoal do QPME que até 31 de Dezembro de 2005 reúna as condições vigentes nessa data para requerer a passagem à situação de reforma pode fazê-lo a todo o tempo, sendo o pedido decidido nos termos em vigor até àquela data.\n\n2 - (Revogado.)\n\n3 - O disposto no artigo anterior aplica-se apenas ao tempo de serviço prestado a partir da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31."
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:198916:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "893a1768383ff9d1"
+   ]
+  },
+  {
+   "date": "1977-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277303:por",
+     "title": "Decreto-Lei n.º 447/77",
+     "published": "1977-10-26",
+     "dre_path": "/dr/detalhe/decreto-lei/447-1977-277303"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "fd1032d2606e71bb",
+    "ad17f35aca4ffbc8",
+    "586b980dc1e5ea48"
+   ]
+  }
+ ],
+ "fragments": {
+  "893a1768383ff9d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo surgido dificuldades na aplicação do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968, à Casa Pia de Lisboa, em virtude de as designações dos professores e mestres do ensino técnico constantes da [Portaria n.º 16787](https://diariodarepublica.pt/dr/detalhe/portaria/16787-1958-351691), de 29 de Julho de 1958, que aprovou os respectivos quadros, não corresponderem às estabelecidas para os professores e mestres do Ministério da Educação Nacional;\n\nConvindo uniformizar tanto as categorias como as remunerações e condições de trabalho dos professores e mestres do ensino técnico nos dois Ministérios;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º São equiparados aos professores e mestres do ensino das escolas técnicas do Ministério da Educação Nacional, quanto a remunerações, diuturnidades e tempo de serviço obrigatório, os professores do ensino técnico, os de Educação Física, os de Música e Canto Coral e os mestres do ensino comercial e industrial da Casa Pia de Lisboa.\n\nArt. 2.º Os professores e mestres, do mesmo ensino com mais de cinco anos de efectivo serviço consideram-se com categoria equivalente à dos professores efectivos e mestres das escolas técnicas do Ministério da Educação Nacional, sem dependência de quaisquer outras formalidades além da simples comunicação ao Tribunal de Contas.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Lopo de Carvalho Cancella de Abreu.\n\nPromulgado em 24 de Julho de 1969.\n\nPublique-se.\n\nPresidência da República, 5 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "fd1032d2606e71bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo surgido dificuldades na aplicação do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968, à Casa Pia de Lisboa, em virtude de as designações dos professores e mestres do ensino técnico constantes da [Portaria n.º 16787](https://diariodarepublica.pt/dr/detalhe/portaria/16787-1958-351691), de 29 de Julho de 1958, que aprovou os respectivos quadros, não corresponderem às estabelecidas para os professores e mestres do Ministério da Educação Nacional;\n\nConvindo uniformizar tanto as categorias como as remunerações e condições de trabalho dos professores e mestres do ensino técnico nos dois Ministérios;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ad17f35aca4ffbc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão equiparados aos professores e mestres do ensino das escolas técnicas do Ministério da Educação Nacional, quanto a remunerações, diuturnidades e tempo de serviço obrigatório, os professores do ensino técnico, os de Educação Física, os de Música e Canto Coral e os mestres do ensino comercial e industrial da Casa Pia de Lisboa."
+  },
+  "586b980dc1e5ea48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1977-10-26",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 447/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1977-277303), publicado em 1977-10-26."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 447/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1977-277303), publicado em 1977-10-26.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Lopo de Carvalho Cancella de Abreu.\n\nPromulgado em 24 de Julho de 1969.\n\nPublique-se.\n\nPresidência da República, 5 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

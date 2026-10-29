@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-23'
+version_history:
+  file: decreto-lei-1-a-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-23'
+    amending: pt:dre:278761:por
+    amending_title: Decreto-Lei n.º 41/2011
+    changes:
+    - Adita Artigo 14.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/1-a/2010/01/04/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:11:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 41/2011. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2010/decreto-lei-1-a-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,6 +302,20 @@ f) Acompanhar e fiscalizar as condições de acesso e permanência na linha de c
 ###### Artigo 14.º — Financiamento
 
 A cobertura orçamental dos encargos financeiros com a medida é assegurada por verbas do capítulo 50 do orçamento do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, da responsabilidade do IFAP, I. P.
+
+###### Artigo 14.º-A — Reforço da linha de crédito
+
+1 - A linha de crédito prevista no presente decreto-lei é reforçada em (euro) 50 000 000, podendo ser aumentada, até ao limite de (euro) 50 000 000, por resolução do Conselho de Ministros.
+
+2 - O montante individual a atribuir a cada pequena e média empresa, em termos de equivalente subvenção bruto, durante qualquer período de três exercícios, não pode ultrapassar o limite de:
+
+a) (euro) 15 000, nos termos do n.º 2.2 da Comunicação da Comissão n.º 2011/C 6/05, se as candidaturas forem apresentadas até 31 de Março de 2011;
+
+b) (euro) 7500, nos termos do Regulamento (CE) n.º 1535/2007, da Comissão, de 20 de Dezembro de 2007, se as candidaturas forem apresentadas após 31 de Março de 2011.
+
+3 - Os prazos estabelecidos nas alíneas do número anterior podem ser alterados por circular do IFAP, I. P., disponibilizada no respectivo sítio da Internet, desde que previamente autorizado pela Comissão Europeia.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2011-278761), publicado em 2011-03-22.
 
 ###### Artigo 15.º — Inelegibilidade no âmbito do Decreto-Lei n.º 74/2009, de 31 de Março
 

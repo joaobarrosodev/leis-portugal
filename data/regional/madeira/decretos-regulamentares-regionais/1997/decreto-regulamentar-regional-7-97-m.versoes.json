@@ -1,0 +1,97 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517575:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bb4c31980b70993a",
+    "bf4cf4469f407fac",
+    "6663e46c68b1177d",
+    "1912aaa18c63d4a6"
+   ]
+  },
+  {
+   "date": "1998-09-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241444:por",
+     "title": "Decreto Legislativo Regional n.º 23/98/M",
+     "published": "1998-09-18",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-1998-241444"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "bb4c31980b70993a",
+    "cc37cae3ce88f2a7",
+    "ecd6e5808f170d89",
+    "1912aaa18c63d4a6"
+   ]
+  }
+ ],
+ "fragments": {
+  "bb4c31980b70993a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estrutura orgânica dos serviços da Secretaria Regional do Turismo e Cultura\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que estabelece as novas bases da orgânica do Governo Regional da Madeira, mantém a Secretaria Regional do Turismo e Cultura com as mesmas competências da antecedente Secretaria Regional com a mesma designação.\n\nCom o presente diploma visa-se fundamentalmente alterar algumas disposições da vigente estrutura orgânica da Escola de Hotelaria e Turismo da Madeira.\n\nAssim, nos termos do artigo 49.º, alínea c), da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugado com os artigos 1.º, alínea f), e 6.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "bf4cf4469f407fac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Secretaria Regional do Turismo e Cultura compreende os seguintes serviços:\n\na) Gabinete do Secretário Regional e serviços de apoio;\n\nb) Direcção Regional de Turismo;\n\nc) Direcção Regional dos Assuntos Culturais;\n\nd) Escola de Hotelaria e Turismo da Madeira;\n\ne) Centro de Estudos de História do Atlântico.\n\n2 - As orgânicas dos serviços referidos nas alíneas a) a d) do número anterior constam do [Decreto Regulamentar Regional n.º 24/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1993-354342), de 12 de Agosto, alterado pelo [Decreto Regulamentar Regional n.º 7/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1996-436640), de 12 de Junho, com as novas alterações introduzidas pelo artigo seguinte do presente diploma.\n\n3 - A orgânica do serviço mencionado na alínea e) do n.º 1 consta do Decreto Regulamento Regional n.º 33/93/M, de 8 de Outubro."
+  },
+  "6663e46c68b1177d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Escola de Hotelaria e Turismo da Madeira (EHTM) passa a ser dirigida por um director-coordenador, que é equiparado, para todos os efeitos, a director regional.\n\n2 - O director-coordenador da EHTM é coadjuvado por três directores sectoriais, que são equiparados, para todos os efeitos, a director de serviços, com as seguintes designações:\n\na) Director de ensino;\n\nb) Director do hotel de aplicação;\n\nc) Director financeiro.\n\n3 - A EHTM compreende os seguintes órgãos:\n\na) Director-coordenador;\n\nb) Conselho pedagógico;\n\nc) Conselho disciplinar;\n\nd) Conselho administrativo.\n\n4 - A composição e competência de cada um dos órgãos referidos no número anterior constarão de diploma legal próprio."
+  },
+  "1912aaa18c63d4a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 6 de Fevereiro de 1997.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 25 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "cc37cae3ce88f2a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Secretaria Regional do Turismo e Cultura compreende os seguintes serviços:\n\na) Gabinete do Secretário Regional e serviços de apoio;\n\nb) Direcção Regional de Turismo;\n\nc) Direcção Regional dos Assuntos Culturais;\n\nd) (Revogada.)\n\ne) Centro de Estudos de História do Atlântico.\n\n2 - As orgânicas dos serviços referidos nas alíneas a) a d) do número anterior constam do [Decreto Regulamentar Regional n.º 24/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1993-354342), de 12 de Agosto, alterado pelo [Decreto Regulamentar Regional n.º 7/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1996-436640), de 12 de Junho, com as novas alterações introduzidas pelo artigo seguinte do presente diploma.\n\n3 - A orgânica do serviço mencionado na alínea e) do n.º 1 consta do Decreto Regulamento Regional n.º 33/93/M, de 8 de Outubro.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18."
+  },
+  "ecd6e5808f170d89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1998-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 23/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444), publicado em 1998-09-18."
+  }
+ }
+}

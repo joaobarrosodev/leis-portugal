@@ -38,10 +38,24 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-11-08'
+version_history:
+  file: decreto-legislativo-regional-26-2004-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-08'
+    amending: pt:dre:629167:por
+    amending_title: Decreto Legislativo Regional n.º 16/2007/M
+    changes:
+    - Altera Artigo ANEXO — REGIME E ORGÂNICA DO CENTRO DE SEGURANÇA SOCIAL DA MADEIRA::6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/26/2004/08/20/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16/2007/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2004/decreto-legislativo-regional-26-2004-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -406,11 +421,13 @@ g) Estabelecimento Santa Teresinha.
 
 ###### Artigo 6.º — Composição e mandato
 
-1 - O conselho directivo é composto por um presidente e por três vogais, nomeados por despacho conjunto do Presidente do Governo e do secretário regional da tutela, sob proposta deste.
+1 - O conselho directivo é composto por um presidente e por dois vogais, nomeados por despacho conjunto do Presidente do Governo Regional e do secretário regional da tutela, sob proposta deste.
 
 2 - O mandato dos membros do conselho directivo tem a duração de três anos, podendo o mesmo ser renovado por iguais períodos.
 
-3 - O mandato do presidente do conselho directivo terá como limite máximo três renovações, não podendo este ser provido no mesmo cargo do respectivo instituto antes de decorridos três anos.
+3 - O mandato dos membros do conselho directivo tem como limite máximo três renovações, não podendo ser providos nos mesmos cargos do CSSM antes de decorridos três anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2007-629167), publicado em 2007-11-07.
 
 ###### Artigo 7.º — Regime jurídico
 

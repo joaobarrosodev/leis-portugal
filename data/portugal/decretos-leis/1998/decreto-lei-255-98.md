@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-02-02'
+version_history:
+  file: decreto-lei-255-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-02-02'
+    amending: pt:dre:180474:por
+    amending_title: Decreto-Lei n.º 25/99
+    changes:
+    - Adita Artigo 21.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:59:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 25/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-255-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -341,6 +356,12 @@ Os coeficientes de ponderação para o cálculo de CFC são fixados pelo órgão
 2 - Os cursos a que se refere a alínea a) do artigo 3.º são aditados ao despacho a que se refere o n.º 2 do artigo 55.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
 
 3 - Os cursos a que se refere a alínea b) do artigo 3.º são aditados ao despacho a que se refere o n.º 4 do artigo 56.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+
+###### Artigo 21.º-A — Remissão
+
+Aos cursos de formação complementar organizados nos termos do presente diploma é extensivo, com as necessárias adaptações, o disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 234-C/98, de 28 de Julho.
+
+> Aditado pelo/a Artigo único do/a [Decreto-Lei n.º 25/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1999-180474), publicado em 1999-01-28.
 
 ###### Artigo 22.º — Entrada em vigor
 

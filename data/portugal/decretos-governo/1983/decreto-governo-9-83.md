@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-31'
+version_history:
+  file: decreto-governo-9-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-31'
+    amending: pt:dre:354484:por
+    amending_title: Decreto n.º 39/88
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:27:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 39/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-governo/1983/decreto-governo-9-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,13 +132,23 @@ Considerando o interesse de a sua exploração continuar a ser feita pelo Estado
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição o seguinte:
 
-Artigo 1.º Passa a ter a seguinte redacção o artigo 4.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960:
+###### Artigo 1.º
 
-Art. 4.º A renda a pagar anualmente passará, a ser de 155000$00, a partir de 1982, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos.
+(Revogado.)
 
-Art. 2.º São revogados o artigo 3.º, o artigo 5.º e seu § único e o artigo 8.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960.
+> Revogado pelo/a [Decreto n.º 39/88](https://diariodarepublica.pt/dr/detalhe/decreto/39-1988-354484), publicado em 1988-10-26.
 
-Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 4.º
+
+A renda a pagar anualmente passará, a ser de 155000$00, a partir de 1982, inclusive, podendo esta renda ser revista decorridos que sejam 6 anos.
+
+###### Artigo 2.º
+
+São revogados o artigo 3.º, o artigo 5.º e seu § único e o artigo 8.º do decreto de 29 de Junho de 1960, publicado no Diário do Governo, 2.ª série, n.º 150, de 29 de Junho de 1960.
+
+###### Artigo 3.º
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1982. - Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca.
 

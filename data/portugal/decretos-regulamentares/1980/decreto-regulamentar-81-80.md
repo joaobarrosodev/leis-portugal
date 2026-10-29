@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-09'
+version_history:
+  file: decreto-regulamentar-81-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-09'
+    amending: pt:dre:657062:por
+    amending_title: Decreto Regulamentar n.º 42/2002
+    changes:
+    - Revoga Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:03:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 42/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1980/decreto-regulamentar-81-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Permite-se, deste modo, antecipar, do referido período de oito anos, o planeame
 
 Nestas circunstâncias, tendo em vista o disposto no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º O exclusivo da exploração de jogos de fortuna ou azar na zona de jogo permanente da Figueira da Foz poderá ser concedido, até 31 de Dezembro do ano 2005, sem dependência de concurso público, nos termos do § 2.º do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, à Sociedade Figueira-Praia, S. A. R. L., desde que esta, além da sujeição às demais disposições do mesmo diploma e outra legislação aplicável à generalidade das zonas de jogo, assuma as seguintes obrigações:
+###### Artigo 1.º
+
+O exclusivo da exploração de jogos de fortuna ou azar na zona de jogo permanente da Figueira da Foz poderá ser concedido, até 31 de Dezembro do ano 2005, sem dependência de concurso público, nos termos do § 2.º do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, à Sociedade Figueira-Praia, S. A. R. L., desde que esta, além da sujeição às demais disposições do mesmo diploma e outra legislação aplicável à generalidade das zonas de jogo, assuma as seguintes obrigações:
 
 a) Construir, no prazo de três anos sobre a data da aprovação do projecto definitivo, um complexo polivalente para realização de espectáculos de teatro, ballet, ópera, concertos e cinema, reuniões e seminários, contendo, ainda, um recinto para a prática de natação e outras actividades desportivas, com sala para clube de saúde destinado, em especial, à terceira idade, e que reúna os seguintes requisitos:
 
@@ -171,11 +188,15 @@ j) Afectar ao cumprimento das obrigações referidas nos n.os 4 e 5 do artigo 14
 
 l) Pagar anualmente pela utilização do material de jogo, propriedade do Estado, a importância de 10000$00;
 
-m) Assegurar a exploração, por si ou subconcessionária, nos termos da legislação em vigor, desde a sua conclusão e por todo o período que dure a concessão, das instalações que se obriga a executar e das que o foram por força de contratos de concessão anteriores;
+m) (Revogada.)
 
 n) Pagar, para efeitos do disposto no n.º 1 do artigo 49.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), uma quota-parte correspondente ao triplo do capital social mínimo exigido pelo artigo 7.º do mesmo diploma legal.
 
-Art. 2.º - 1 - Para elaboração dos programas relativos aos empreendimentos referidos nas alíneas a) a d) do artigo anterior é fixado o prazo de seis meses, contado da data da assinatura do contrato de concessão, sendo de nove meses, a contar da data da aprovação dos programas, o prazo para elaboração dos anteprojectos e de dez meses, após a aprovação destes, o prazo para apresentação dos projectos definitivos.
+> Revogado pelo/a Artigo único do/a [Decreto Regulamentar n.º 42/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-2002-657062), publicado em 2002-10-04.
+
+###### Artigo 2.º
+
+1 - Para elaboração dos programas relativos aos empreendimentos referidos nas alíneas a) a d) do artigo anterior é fixado o prazo de seis meses, contado da data da assinatura do contrato de concessão, sendo de nove meses, a contar da data da aprovação dos programas, o prazo para elaboração dos anteprojectos e de dez meses, após a aprovação destes, o prazo para apresentação dos projectos definitivos.
 
 2 - A apresentação do programa respeitante às obras a efectuar no Casino deverá verificar-se no prazo de três meses, a contar da data da assinatura do contrato de concessão, fixando-se em seis meses, a contar da data da aprovação do programa, o prazo para elaboração do projecto definitivo.
 
@@ -183,7 +204,9 @@ Art. 2.º - 1 - Para elaboração dos programas relativos aos empreendimentos re
 
 4 - O prazo a que se refere, o número anterior poderá ser prorrogado, desde que o concessionário demonstre não ter contribuído com qualquer parcela de culpa para que o projecto definitivo não esteja aprovado.
 
-Art. 3.º - 1 - As importâncias a que alude a alínea h) do artigo 1.º serão pagas, até ao dia 15 de cada mês, em relação ao mês anterior, na Tesouraria da Fazenda Pública da Figueira da Foz, mediante guia, em quadruplicado, emitida pelo Conselho de Inspecção de Jogos, a enviar à Repartição de Finanças do mesmo concelho.
+###### Artigo 3.º
+
+1 - As importâncias a que alude a alínea h) do artigo 1.º serão pagas, até ao dia 15 de cada mês, em relação ao mês anterior, na Tesouraria da Fazenda Pública da Figueira da Foz, mediante guia, em quadruplicado, emitida pelo Conselho de Inspecção de Jogos, a enviar à Repartição de Finanças do mesmo concelho.
 
 2 - O pagamento das importâncias a que se refere a alínea l) processar-se-á até ao dia 15 de Janeiro de cada ano, nas condições indicadas no número anterior.
 
@@ -191,9 +214,13 @@ Art. 3.º - 1 - As importâncias a que alude a alínea h) do artigo 1.º serão 
 
 4 - Não sendo efectuados os pagamentos das importâncias a que aludem os números anteriores, seguir-se-á, conforme os casos, o processo de cobrança coerciva previsto no artigo 42.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, ou o estabelecido para as dívidas às autarquias locais.
 
-Art. 4.º A empresa concessionária poderá beneficiar, para efeitos de financiamento da execução dos empreendimentos a que se obriga, das linhas de crédito destinadas a realizações de carácter turístico.
+###### Artigo 4.º
 
-Art. 5.º Para os efeitos previstos no artigo 1.º, a Sociedade Figueira-Praia, S. A. R. L., apresentará no Conselho de Inspecção de Jogos, no prazo de trinta dias, contados da data da publicação deste diploma, os seguintes elementos:
+A empresa concessionária poderá beneficiar, para efeitos de financiamento da execução dos empreendimentos a que se obriga, das linhas de crédito destinadas a realizações de carácter turístico.
+
+###### Artigo 5.º
+
+Para os efeitos previstos no artigo 1.º, a Sociedade Figueira-Praia, S. A. R. L., apresentará no Conselho de Inspecção de Jogos, no prazo de trinta dias, contados da data da publicação deste diploma, os seguintes elementos:
 
 a) Declaração de compromisso de aceitação das condições fixadas no presente diploma;
 
@@ -201,11 +228,15 @@ b) Declaração de que se compromete a aceitar as modificações que o Governo e
 
 c) Declaração respeitante ao planeamento anual dos valores dos investimentos que, por força deste diploma, se obriga a executar, com vista ao disposto no artigo 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840).
 
-Art. 6.º - 1 - Sem prejuízo do disposto no n.º 4 do artigo 3.º, o contrato de concessão pode ser rescindido no caso de o concessionário não cumprir, ou cumprir defeituosamente, as obrigações assumidas, por facto que lhe seja imputável.
+###### Artigo 6.º
+
+1 - Sem prejuízo do disposto no n.º 4 do artigo 3.º, o contrato de concessão pode ser rescindido no caso de o concessionário não cumprir, ou cumprir defeituosamente, as obrigações assumidas, por facto que lhe seja imputável.
 
 2 - Para além da rescisão, o concessionário responderá sempre pelos danos causados ao interesse público pela inexecução ou execução imperfeita.
 
-Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 7.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Eurico de Melo - Aníbal António Cavaco Silva - Basílio Adolfo Mendonça Horta da Franca.
 

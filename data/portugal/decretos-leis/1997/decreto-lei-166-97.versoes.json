@@ -1,0 +1,294 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:157639:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d6cb9cd5d2a10a09",
+    "54692f3d36a82fdb",
+    "2fafa4c68d2b097f",
+    "ae367e4adf9c3652",
+    "85ef752e844b4ced",
+    "a1a6d04423672007",
+    "f89fe6e0ee0494ce",
+    "a38f16bdfa947e4f",
+    "e0ba271241a1039a",
+    "035f3c593604e050",
+    "fde07d9fb462c23e",
+    "2f3472f164758cd6",
+    "aa6ef466e966141b",
+    "505f7ea5abb1c21d",
+    "7c5cc702e9e3ebc2",
+    "2df59e0f2f7736dd"
+   ]
+  },
+  {
+   "date": "2004-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220754:por",
+     "title": "Decreto-Lei n.º 84/2004",
+     "published": "2004-04-14",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2004-220754"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "d6cb9cd5d2a10a09",
+    "e086735c2f8a42d7",
+    "5f186969e2a244e0",
+    "ae367e4adf9c3652",
+    "e1d20d80785c4fe5",
+    "34c08e21b9bd1d15",
+    "c27239e9bfbf527f",
+    "788e457fa6ec6b2d",
+    "e0ba271241a1039a",
+    "80ad94323694dd2b",
+    "fde07d9fb462c23e",
+    "dfe65b08630872cd",
+    "aa6ef466e966141b",
+    "fdb3ef4759c1dfe8",
+    "7c5cc702e9e3ebc2",
+    "2df59e0f2f7736dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "d6cb9cd5d2a10a09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Julho\n\nO artigo 9.º do [Decreto-Lei n.º 45/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1994-515808), de 22 de Fevereiro, criou o Conselho Nacional da Água (CNA), como órgão consultivo de planeamento nacional no domínio dos recursos hídricos, presidido pelo Ministro do Ambiente, no qual estão representadas a Administração Pública e as organizações profissionais e económicas de âmbito nacional mais representativas do sector.\n\nPorém, o decurso do tempo e a experiência prática adquirida pelo CNA no trabalho desenvolvido desde a sua criação até ao presente vieram demonstrar que o Conselho carecia de aperfeiçoamento no que concerne à definição da respectiva estrutura, competência e regime de funcionamento, tendo em vista dotar aquele órgão consultivo do Governo dos meios adequados à melhor prossecução dos objectivos para que foi criado.\n\nFoi, pois, no sentido de introduzir aperfeiçoamentos, que a reflexão e a experiência em torno das questões da água acrescentaram à original formulação, que o Governo decidiu rever o regime inicialmente criado para o Conselho Nacional da Água, atentos os desafios entretanto colocados em matéria de gestão de um tão importante recurso natural.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "54692f3d36a82fdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - O presente diploma define a estrutura, competência e funcionamento do Conselho Nacional da Água (CNA), órgão consultivo de planeamento nacional no domínio da água, em que estão representadas a Administração Pública e as organizações profissionais, científicas e económicas de âmbito nacional mais representativas dos diversos usos da água.\n\n2 - O CNA tem como finalidade essencial pronunciar-se sobre a elaboração de planos e de projectos com especial relevância nos usos da água e nos sistemas hídricos e sobre as medidas que permitam o mais eficaz desenvolvimento e articulação das acções deles decorrentes, constituindo um fórum de discussão alargada da política de gestão sustentável dos recursos hídricos nacionais, numa perspectiva ecossistémica e de integração dos interesses sectoriais e territoriais.\n\n3 - O CNA visa, correlativamente, contribuir para o estabelecimento de opções estratégicas da gestão e controlo dos sistemas hídricos, harmonizar procedimentos metodológicos e apreciar etapas determinantes do processo de planeamento, relativamente ao Plano Nacional da Água (PNA) e aos planos de bacia hidrográfica (PBH), nomeadamente os respeitantes aos rios internacionais - Minho, Douro, Tejo e Guadiana."
+  },
+  "2fafa4c68d2b097f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O CNA, presidido pelo Ministro do Ambiente, integra ainda 1 secretário-geral e 50 vogais.\n\n2 - São vogais do CNA:\n\na) O presidente do Instituto da Água;\n\nb) O director-geral do Ambiente;\n\nc) O director-geral do Desenvolvimento Regional;\n\nd) O director-geral do Ordenamento do Território e Desenvolvimento Urbano;\n\ne) O director-geral de Portos, Navegação e Transportes Marítimos;\n\nf) O director-geral da Energia;\n\ng) O director-geral da Indústria;\n\nh) O presidente do Instituto de Hidráulica, Engenharia Rural e Ambiente;\n\ni) O director-geral da Saúde;\n\nj) O director-geral do Turismo;\n\nl) O presidente do Instituto de Investigação das Pescas e do Mar;\n\nm) O director-geral das Florestas;\n\nn) O presidente do Instituto da Conservação da Natureza;\n\no) Os directores regionais do ambiente e recursos naturais;\n\np) Um representante do Ministério da Defesa Nacional;\n\nq) Um representante do Ministério dos Negócios Estrangeiros;\n\nr) Doze representantes da Associação Nacional de Municípios Portugueses;\n\ns) Seis representantes de organizações não governamentais na área do ambiente e recursos naturais;\n\nt) Seis representantes de entidades científicas e de investigação;\n\nu) O presidente da Associação de Médicos de Saúde Pública;\n\nv) Seis representantes de empresas ou associações económicas relacionadas com os usos da água.\n\n3 - Os vogais referidos nas alíneas a) a o) do número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada.\n\n4 - Os vogais indicados nas alíneas p) a v) do n.º 2 são sempre nomeados pela entidade representada, com carácter de permanência, sendo aquelas entidades designadas pelo Ministro do Ambiente, no caso das alíneas t) e v).\n\n5 - A substituição dos vogais referidos no número anterior nas reuniões do CNA opera-se mediante comunicação prévia da entidade representada."
+  },
+  "ae367e4adf9c3652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Grupos de trabalho e técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Grupos de trabalho e técnicos\n\n1 - O presidente do CNA pode constituir grupos de trabalho, no âmbito da composição do CNA, para apoiar o funcionamento do Conselho em missões específicas, pontuais e delimitadas no tempo.\n\n2 - O presidente do CNA pode ainda designar, com carácter de permanência, técnicos para coadjuvar o secretário-geral, em número não superior a três, de entre funcionários ou agentes da Administração Pública ou de entre outras personalidades de reconhecido prestígio e experiência em matéria de águas.\n\n3 - Para os efeitos do número anterior, as funções serão exercidas em regime de requisição ou destacamento, quando estejam em causa funcionários ou agentes da Administração Pública, e em regime de comissão de serviço por períodos de um ano, renováveis, nas situações restantes.\n\n4 - O serviço prestado pelos técnicos mencionados no n.º 2 deste artigo é considerado, para todos os efeitos, como exercício efectivo de funções no serviço de origem."
+  },
+  "85ef752e844b4ced": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do Conselho Nacional da Água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do Conselho Nacional da Água\n\n1 - Ao CNA compete, genericamente, acompanhar e apreciar a elaboração de planos e de projectos com especial relevância nos meios hídricos, propor medidas que permitam o melhor desenvolvimento e articulação das acções deles decorrentes e formular ou apreciar opções estratégicas para a gestão sustentável dos recursos hídricos nacionais.\n\n2 - Em especial, compete ao CNA:\n\na) Acompanhar a elaboração do PNA e informar a proposta do Plano antes da sua aprovação pelo Ministro do Ambiente;\n\nb) Informar os planos e projectos de interesse geral que afectem substancialmente o planeamento dos recursos hídricos ou os usos da água;\n\nc) Informar as questões comuns a duas ou mais direcções regionais do ambiente e recursos naturais em relação ao aproveitamento dos recursos hídricos;\n\nd) Emitir parecer sobre todas as questões relacionadas com os recursos hídricos que lhe sejam submetidas pelo Ministro do Ambiente;\n\ne) Propor linhas de estudo e investigação para o desenvolvimento de inovações técnicas no que se refere à disponibilização, utilização, conservação, recuperação, tratamento integral e economia da água;\n\nf) Propor outras acções que entenda necessárias para a elaboração e implementação dos planos e projectos referidos nas alíneas anteriores.\n\n3 - Para efeitos da alínea b) do número anterior, entende-se que os planos e projectos de interesse geral afectam substancialmente os usos da água caso a sua execução implique a revisão dos PBH.\n\n4 - Compete ao Ministro do Ambiente, por sua iniciativa ou a solicitação do departamento governamental competente, remeter ao CNA os planos e projectos referidos no número anterior."
+  },
+  "a1a6d04423672007": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do presidente\n\nCompete ao presidente do CNA:\n\na) Orientar as acções do Conselho;\n\nb) Nomear o secretário-geral do Conselho;\n\nc) Estabelecer a ordem de trabalhos e convocar e presidir a todas as reuniões do Conselho;\n\nd) Solicitar parecer ao CNE sobre matérias da sua competência;\n\ne) Constituir grupos de trabalho e determinar o respectivo mandato;\n\nf) Dar a conhecer e ou submeter à aprovação do plenário as conclusões dos trabalhos produzidos no âmbito dos grupos referidos na alínea anterior;\n\ng) Apresentar ao Conselho, para aprovação, o programa anual de actividades acompanhado da correspondente estimativa orçamental."
+  },
+  "f89fe6e0ee0494ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do secretário-geral\n\nCompete ao secretário-geral do CNA:\n\na) Organizar e coordenar as actividades do Conselho entre as sessões plenárias;\n\nb) Assegurar o envio de convocatórias, ordens de trabalho e actas das reuniões do Conselho;\n\nc) Enviar aos membros do Conselho os documentos que devam ser dados a conhecer ou sobre os quais seja solicitado parecer ao CNA;\n\nd) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;\n\ne) Acompanhar e orientar as actividades dos grupos de trabalho e dos serviços de apoio;\n\nf) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;\n\ng) Propor estudos e ou outras medidas que repute importantes para o prosseguimento das actividades do Conselho;\n\nh) Elaborar, até ao final de cada ano, o programa de actividades para o ano seguinte e a estimativa orçamental da sua cobertura;\n\ni) Representar o CNA, quando tal lhe for determinado."
+  },
+  "a38f16bdfa947e4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O CNA reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - As reuniões plenárias têm lugar nas instalações do Ministério do Ambiente ou em outras por determinação do presidente.\n\n3 - A ordem de trabalhos de cada reunião será estabelecida pelo presidente do CNA, tendo em atenção o disposto no artigo 4.º\n\n4 - Os vogais, em número que perfaça pelo menos um quinto, podem fazer propostas de inclusão de assuntos na ordem de trabalhos.\n\n5 - A convocação das reuniões do Conselho é feita por escrito, com uma antecedência mínima de 15 dias.\n\n6 - O Conselho só poderá deliberar, em primeira convocação, desde que estejam presentes, no mínimo, metade dos seus membros com direito a voto.\n\n7 - Qualquer membro do Conselho presente numa reunião pode apresentar e submeter à apreciação do plenário propostas no âmbito das competências do CNA, desde que contempladas na respectiva ordem de trabalhos.\n\n8 - As deliberações do CNA serão tomadas por consenso ou, sempre que o consenso não se revele possível, à pluralidade de votos, tendo o presidente voto de qualidade.\n\n9 - De cada reunião será lavrada a respectiva acta, a qual será submetida à aprovação do Conselho na reunião seguinte.\n\n10 - Entre as reuniões plenárias, o Conselho funciona, de modo restrito para a realização de trabalhos preparatórios e complementares da sua actividade, recorrendo para o efeito às estruturas e meios logísticos previstos no presente diploma."
+  },
+  "e0ba271241a1039a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Grupos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Grupos de trabalho\n\n1 - O modo de funcionamento interno dos grupos de trabalho constituídos nos termos do n.º 1 do artigo 3.º será estabelecido em função do respectivo mandato.\n\n2 - Os grupos de trabalho devem, de acordo com a natureza do respectivo mandato, congregar os representantes das entidades participantes no Conselho, bem como associar os especialistas mais adequados à prossecução dos seus objectivos.\n\n3 - Os grupos de trabalho podem, por despacho do presidente, constituir-se em comissões especializadas caso a natureza das missões que lhes forem conferidas implique uma maior continuidade no seu desempenho."
+  },
+  "035f3c593604e050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Participação de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Participação de outras entidades\n\nPodem participar nas reuniões do CNA, sem direito a voto e em número não superior a um terço dos vogais do Conselho, representantes de entidades públicas ou privadas, bem como personalidades de reconhecido mérito, convidadas pelo presidente."
+  },
+  "fde07d9fb462c23e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamento interno\n\n1 - O Conselho elaborará o seu regulamento interno de funcionamento, a submeter à homologação do Ministro do Ambiente, no prazo de seis meses após a entrada em vigor do presente diploma.\n\n2 - O regulamento interno, bem como as respectivas alterações, é aprovado por uma maioria qualificada de dois terços dos membros do Conselho presentes em reunião plenária."
+  },
+  "2f3472f164758cd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio logístico\n\nO apoio logístico ao Conselho e aos respectivos grupos de trabalho será prestado pela Secretaria-Geral do Ministério do Ambiente, com excepção das situações em que haja necessidade de realização de acções periféricas, caso em que aquele apoio será prestado pela entidade ou entidades nelas envolvidas."
+  },
+  "aa6ef466e966141b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remunerações\n\n1 - O secretário-geral é remunerado pelo índice 610 da escala salarial do regime geral.\n\n2 - As personalidades de reconhecido mérito a designar nos termos da parte final do n.º 2 do artigo 3.º são remuneradas pelo índice 380 da escala salarial do regime geral.\n\n3 - Os membros dos grupos de trabalho, constituídos nos termos do n.º 1 do artigo 3.º, têm direito à atribuição de um suplemento ou de uma gratificação no montante de 25% do índice 100 da escala salarial do regime geral, por participação em reunião do respectivo grupo, consoante sejam ou não vinculados à função pública e na medida em que a lei permita a sua percepção."
+  },
+  "505f7ea5abb1c21d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encargos\n\nOs encargos financeiros resultantes do funcionamento do CNA são suportados pela Secretaria-Geral do Ministério do Ambiente, designadamente mediante a transferência de verbas provenientes da receita prevista no n.º 2 do artigo 15.º do [Decreto-Lei n.º 47/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807), de 22 de Fevereiro."
+  },
+  "7c5cc702e9e3ebc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições finais\n\n1 - Em tudo o que não dispuser o presente diploma, no que concerne ao funcionamento do Conselho, vigora o respectivo regulamento interno.\n\n2 - As dúvidas que se suscitarem na aplicação do regulamento interno, bem como a integração das respectivas lacunas, serão resolvidas pelo Conselho, de harmonia com o preceituado na legislação aplicável e com o espírito do próprio regulamento."
+  },
+  "2df59e0f2f7736dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nSão revogados os artigos 9.º e 10.º do [Decreto-Lei n.º 45/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1994-515808), de 22 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 17 de Abril de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jaime Serrão Andrez - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 6 de Junho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 18 de Junho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "e086735c2f8a42d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - O presente diploma define a estrutura, competência e funcionamento do Conselho Nacional da Água (CNA), órgão independente de consulta do Governo nos domínios do planeamento e da gestão sustentável da água, em que estão representadas a administração central e local e as organizações científicas, económicas, profissionais e não governamentais, de âmbito nacional, mais representativas dos diversos usos da água.\n\n2 - O CNA tem como finalidade essencial pronunciar-se sobre a elaboração de planos e de projectos com especial relevância nos usos da água e nos sistemas hídricos e sobre as medidas que permitam o mais eficaz desenvolvimento e articulação das acções deles decorrentes, constituindo um fórum de discussão alargada da política de gestão sustentável dos recursos hídricos nacionais, numa perspectiva ecossistémica e de integração dos interesses sectoriais e territoriais.\n\n3 - O CNA visa, correlativamente, contribuir para o estabelecimento de opções estratégicas da gestão e controlo dos sistemas hídricos, harmonizar procedimentos metodológicos e apreciar etapas determinantes do processo de planeamento, relativamente ao Plano Nacional da Água (PNA) e aos planos de bacia hidrográfica (PBH), nomeadamente os respeitantes aos rios internacionais - Minho, Douro, Tejo e Guadiana.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "5f186969e2a244e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O CNA, presidido pelo Ministro das Cidades, Ordenamento do Território e Ambiente, integra ainda um secretário-geral e os vogais indicados no número seguinte.\n\n2 - São vogais do CNA:\n\na) O presidente do Instituto da Água;\n\nb) O presidente do Instituto do Ambiente;\n\nc) O director-geral do Desenvolvimento Regional;\n\nd) O director-geral do Ordenamento do Território e Desenvolvimento Urbano;\n\ne) O presidente do Instituto Portuário e dos Transportes Marítimos;\n\nf) O director-geral de Geologia e Energia;\n\ng) O director-geral da Empresa;\n\nh) O presidente do Instituto de Desenvolvimento Rural e Hidráulica;\n\ni) O director-geral da Saúde;\n\nj) O director-geral do Turismo;\n\nl) O director-geral das Florestas;\n\nm) O presidente do Instituto da Conservação da Natureza;\n\nn) O presidente do Instituto Regulador de Águas e Resíduos;\n\no) Os representantes dos organismos a quem competir a administração dos recursos hídricos a nível regional;\n\np) Um representante do Ministério da Defesa Nacional;\n\nq) Um representante do Ministério dos Negócios Estrangeiros;\n\nr) Um representante do Governo Regional dos Açores competente em matéria de ambiente;\n\ns) Um representante do Governo Regional da Madeira competente em matéria de ambiente;\n\nt) Oito representantes da Associação Nacional de Municípios Portugueses;\n\nu) Seis representantes de organizações não governamentais na área do ambiente e recursos naturais;\n\nv) Seis representantes de entidades científicas e de investigação;\n\nx) Seis representantes de empresas ou associações económicas relacionadas com os usos da água.\n\n3 - Os vogais referidos nas alíneas a) a o) do número anterior podem designar um substituto, no caso de impossibilidade de presença devidamente justificada.\n\n4 - Os vogais indicados nas alíneas p) a t) do n.º 2 são designados, com carácter de permanência, pela entidade representada.\n\n5 - Os vogais indicados nas alíneas u) a x) do n.º 2 são designados pelo Ministro das Cidades, Ordenamento do Território e Ambiente.\n\n6 - Para efeitos da designação prevista no número anterior, no caso da alínea v) são ouvidos previamente o Ministro da Agricultura, Desenvolvimento Rural e Pescas, o Ministro da Ciência e do Ensino Superior e o Ministro das Obras Públicas, Transportes e Habitação em relação às entidades científicas e de investigação por si tuteladas.\n\n7 - A substituição dos vogais referidos nos n.os 4 e 5 nas reuniões do CNA opera-se mediante comunicação prévia da entidade representada.\n\n8 - O mandato do secretário-geral e dos vogais previstos nas alíneas p) a x) do n.º 2 é de cinco anos, renovável por iguais períodos, mediante acto expresso do Ministro das Cidades, Ordenamento do Território e Ambiente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "e1d20d80785c4fe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do Conselho Nacional da Água",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 4.º — Competências do Conselho Nacional da Água\n\n1 - Ao CNA compete, genericamente, acompanhar e apreciar a elaboração de planos e de projectos com especial relevância nos meios hídricos, propor medidas que permitam o melhor desenvolvimento e articulação das acções deles decorrentes e formular ou apreciar opções estratégicas para a gestão sustentável dos recursos hídricos nacionais.\n\n2 - Em especial, compete ao CNA:\n\na) Acompanhar a elaboração e a execução do PNA e emitir parecer sobre a proposta do Plano antes da sua aprovação pelo Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nb) Informar os planos e projectos de interesse geral que afectem substancialmente o planeamento dos recursos hídricos ou os usos da água;\n\nc) Informar as questões comuns a duas ou mais regiões hidrográficas em relação à administração e ao aproveitamento dos recursos hídricos;\n\nd) Emitir parecer sobre todas as questões relacionadas com os recursos hídricos que lhe sejam submetidas pelo Ministro das Cidades, Ordenamento do Território e Ambiente;\n\ne) Propor linhas de estudo e investigação para o desenvolvimento de inovações técnicas no que se refere à disponibilização, utilização, conservação, recuperação, tratamento integral e economia da água;\n\nf) Propor outras acções que entenda necessárias para a elaboração e implementação dos planos e projectos referidos nas alíneas anteriores.\n\n3 - Para efeitos da alínea b) do número anterior, entende-se que os planos e projectos de interesse geral afectam substancialmente os usos da água caso a sua execução implique a revisão dos PBH.\n\n4 - Compete ao Ministro das Cidades, Ordenamento do Território e Ambiente, por sua iniciativa ou a solicitação do departamento governamental competente, remeter ao CNA os planos e projectos referidos no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "34c08e21b9bd1d15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências do presidente",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 5.º — Competências do presidente\n\nCompete ao presidente do CNA:\n\na) Orientar as acções do Conselho;\n\nb) Nomear o secretário-geral de entre personalidades com reconhecido mérito e prestígio no domínio da água;\n\nc) Estabelecer a ordem de trabalhos e convocar e presidir a todas as reuniões do Conselho;\n\nd) Solicitar parecer ao CNA sobre matérias da sua competência;\n\ne) Constituir grupos de trabalho e determinar o respectivo mandato;\n\nf) Dar a conhecer e ou submeter à aprovação do plenário as conclusões dos trabalhos produzidos no âmbito dos grupos referidos na alínea anterior;\n\ng) Apresentar ao Conselho, para aprovação, o programa anual de actividades acompanhado da correspondente estimativa orçamental.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "c27239e9bfbf527f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do secretário-geral",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 6.º — Competências do secretário-geral\n\nCompete ao secretário-geral do CNA:\n\na) Organizar e coordenar as actividades do Conselho entre as sessões plenárias;\n\nb) Assegurar o envio de convocatórias, ordens de trabalho e actas das reuniões do Conselho;\n\nc) Enviar aos membros do Conselho os documentos que devam ser dados a conhecer ou sobre os quais seja solicitado parecer ao CNA;\n\nd) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;\n\ne) Propor a constituição de grupos de trabalho e acompanhar e orientar as actividades desses grupos de trabalho e dos serviços de apoio;\n\nf) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;\n\ng) Propor estudos e ou outras medidas que repute importantes para o prosseguimento das actividades do Conselho;\n\nh) Elaborar, até ao final de cada ano, o programa de actividades para o ano seguinte e a estimativa orçamental da sua cobertura, juntamente com um relatório das actividades desenvolvidas no ano findo;\n\ni) Representar o CNA, quando tal lhe for determinado, e substituir o presidente nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "788e457fa6ec6b2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 7.º — Funcionamento\n\n1 - O CNA reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - As reuniões plenárias têm lugar nas instalações do Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n3 - A ordem de trabalhos de cada reunião será estabelecida pelo presidente do CNA, tendo em atenção o disposto no artigo 4.º\n\n4 - Os vogais, em número que perfaça pelo menos um quinto, podem fazer propostas de inclusão de assuntos na ordem de trabalhos.\n\n5 - A convocação das reuniões do Conselho é feita por escrito com uma antecedência mínima de 15 dias, salvo razão excepcional que determine a redução deste prazo para 5 dias.\n\n6 - O Conselho só poderá deliberar, em primeira convocação, desde que estejam presentes, no mínimo, metade dos seus membros com direito a voto.\n\n7 - Qualquer membro do Conselho presente numa reunião pode apresentar e submeter à apreciação do plenário propostas no âmbito das competências do CNA, desde que contempladas na respectiva ordem de trabalhos.\n\n8 - As deliberações do CNA serão tomadas por consenso ou, sempre que o consenso não se revele possível, à pluralidade de votos, tendo o presidente voto de qualidade.\n\n9 - De cada reunião será lavrada a respectiva acta, a qual será submetida à aprovação do Conselho na reunião seguinte.\n\n10 - Entre as reuniões plenárias, o Conselho funciona, de modo restrito para a realização de trabalhos preparatórios e complementares da sua actividade, recorrendo para o efeito às estruturas e meios logísticos previstos no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "80ad94323694dd2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Participação de outras entidades",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 9.º — Participação de outras entidades\n\nPodem participar nas reuniões do CNA, sem direito a voto e em número não superior a um terço dos vogais do Conselho, representantes de entidades públicas ou privadas, bem como personalidades de reconhecido mérito, convidadas pelo presidente, por um período de cinco anos, renovável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "dfe65b08630872cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apoio logístico",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 11.º — Apoio logístico\n\nO apoio logístico ao Conselho e aos respectivos grupos de trabalho será prestado pela Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente, com excepção das situações em que haja necessidade de realização de acções periféricas, caso em que aquele apoio será prestado pela entidade ou entidades nelas envolvidas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  },
+  "fdb3ef4759c1dfe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Encargos",
+   "in_force_from": "2004-04-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+   ],
+   "markdown": "###### Artigo 13.º — Encargos\n\nOs encargos financeiros resultantes do funcionamento do CNA são suportados por orçamento afecto ao Conselho e por transferência de verbas provenientes da receita prevista no n.º 2 do artigo 15.º do Decreto-Lei n.º 47/94, de 22 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754), publicado em 2004-04-14."
+  }
+ }
+}

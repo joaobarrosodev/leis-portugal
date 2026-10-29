@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332468:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a8a6bc30ebb89bb4",
+    "714d544d1f61c0da",
+    "ee4b32d9739e1ec3",
+    "045fa2f651b26dbf",
+    "03b6728d4bd07208",
+    "8fa7cdf4563c76dc",
+    "bcb9a6095ed5f6d8",
+    "9e354ed26b89d214"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58661943:por",
+     "title": "Decreto Legislativo Regional n.º 18/2014/A",
+     "published": "2014-10-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2014-58661943"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "a8a6bc30ebb89bb4",
+    "20d0c8fade920294",
+    "ee4b32d9739e1ec3",
+    "045fa2f651b26dbf",
+    "71ccb302819e68b1",
+    "8fa7cdf4563c76dc",
+    "bcb9a6095ed5f6d8",
+    "9e354ed26b89d214"
+   ]
+  }
+ ],
+ "fragments": {
+  "a8a6bc30ebb89bb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Introduz regras de transparência na aquisição de publicidade pelos serviços da administração regional e local\n\nO princípio da independência dos órgãos de comunicação social em relação ao poder político e económico é um dos pilares do sistema democrático, consagrado no artigo 38.º da Constituição da República Portuguesa.\n\nAssim, o relacionamento das instituições públicas com os órgãos de comunicação social deve ser pautado por critérios de transparência, rigor e isenção, por forma a assegurar a possibilidade de expressão e confronto das diversas correntes de opinião, desta maneira acrescentando à riqueza do debate democrático.\n\nA crescente importância dos média, bem como o volume de investimento em comunicação por parte das entidades públicas, tornam importante que a atribuição de publicidade institucional seja transparente e possa ser sujeita ao útil e necessário controlo e fiscalização democráticas.\n\nNa nossa sociedade democrática contemporânea, assume especial importância um novo modelo de relacionamento com os cidadãos, fundado já não apenas no escrutínio periódico dos representantes perante os representados, mas também na prestação constante de elementos que permitam ao comum dos cidadãos um acompanhamento adequado da gestão da coisa pública. Considera-se, de resto, que reside aqui o gérmen de uma nova legitimidade democrática, cuja essência, não se esgotando nos tradicionais actos eleitorais, se expande para os vários sectores da sociedade civil, contribuindo para a boa governança e avançando no aprofundamento da democracia participativa, tal como resulta do disposto no artigo 2.º da Constituição da República Portuguesa.\n\nA actual natureza heterogénea do Estado, caracterizado pela emergência de novas entidades com regimes jurídicos diversos, que, não obstante a respectiva forma jurídica, na substância gerem e aplicam recursos públicos, justifica um novo e crescente impulso legislativo, orientado para a tutela dos direitos fundamentais dos cidadãos enquanto contribuintes da coisa pública e na qualidade de destinatários da informação que flui intensamente e que, no contexto de uma sociedade verdadeiramente democrática, lhes diz sempre respeito.\n\nNa configuração institucional estabelecida entre o poder público, independentemente da sua forma jurídica, e os vários meios de comunicação social, compete ao órgão legislativo a criação de instrumentos que possibilitem aquilatar da legalidade, economia, eficiência e eficácia da gestão, bem como da fiabilidade dos sistemas de controlo interno, que respeitem directa ou indirectamente à despesa pública neste domínio.\n\nA Região Autónoma dos Açores possui um número e diversidade de órgãos de comunicação social que, para além de desempenharem um substantivo e relevante papel social nas comunidades onde se inserem, são um factor potenciador e divulgador da cultura e tradições açorianas, que importa preservar.\n\nA dimensão do mercado publicitário em muitas ilhas faz com que a comunicação adquirida pelas entidades públicas assuma um peso extremamente relevante para a sua sustentabilidade económica, o que mais acentua a necessidade de isenção e clareza nessa relação.\n\nNum momento em que se debatem na nossa sociedade diversos problemas envolvendo o relacionamento entre a comunicação social e os poderes públicos, é importante reforçar a transparência das regras que regem esse relacionamento nos Açores, desta forma também acrescentando credibilidade às próprias instituições.\n\nAssim, nos termos do disposto nos artigos 227.º, n.º 1, alínea a), e 112.º, n.º 4, da Constituição da República Portuguesa e nos artigos 37.º, n.os 1 e 2, e 67.º, alínea o), do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:"
+  },
+  "714d544d1f61c0da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece as regras e princípios gerais aplicáveis à aquisição de espaços informativos e de publicidade em órgãos de comunicação social pelos serviços da administração regional e local, na Região Autónoma dos Açores."
+  },
+  "ee4b32d9739e1ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Publicidade institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Publicidade institucional\n\nPara efeitos do presente diploma, consideram-se como publicidade institucional as comunicações e anúncios realizados directamente pelas entidades referidas no artigo anterior em órgãos de comunicação social escrita, de radiodifusão e de radiotelevisão, financiados integralmente por recursos públicos e destinados a publicitar uma política, medida ou actividade por elas desenvolvidas."
+  },
+  "045fa2f651b26dbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - Sem prejuízo das respectivas estratégias de comunicação, a aquisição de publicidade institucional em órgãos de comunicação social pelas entidades referidas no artigo 1.º deve obedecer a princípios de equidade, isenção, eficácia e adequação dos meios à finalidade de interesse público da mensagem.\n\n2 - A publicidade institucional adquirida nas circunstâncias referidas no número anterior deve obedecer a uma equilibrada distribuição pelos diversos suportes e espaços existentes, sempre que a natureza e conteúdo da mensagem o permita.\n\n3 - A publicidade institucional deve ser objecto de uma abrangência proporcional e equilibrada pelas diversas ilhas, excepto se:\n\na) O espaço físico operacional da entidade anunciante se revista de interesse meramente local;\n\nb) A mensagem se dirija exclusivamente a determinado público ou espaço geográfico;\n\nc) Haja que reforçar a incidência da mensagem junto de determinado público ou espaço geográfico."
+  },
+  "03b6728d4bd07208": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Relatório anual\n\nO departamento do Governo Regional com competência em matéria de comunicação social envia, anualmente, à Assembleia Legislativa um relatório sobre a aplicação do presente diploma no ano anterior."
+  },
+  "8fa7cdf4563c76dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de colaboração\n\nPara efeitos da elaboração do relatório referido no artigo anterior, as entidades públicas mencionadas no artigo 1.º, bem como os órgãos de comunicação social, através das respectivas entidades proprietárias, estão obrigados ao dever de colaboração, fornecendo todas as informações, documentos e demais dados que lhes sejam solicitados."
+  },
+  "bcb9a6095ed5f6d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nA regulamentação necessária à correcta execução das normas contidas no presente diploma será aprovada pelo membro do Governo Regional com competência em matéria de comunicação social num prazo de 60 dias."
+  },
+  "9e354ed26b89d214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de Abril de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 17 de Maio de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "20d0c8fade920294": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece as regras e princípios gerais aplicáveis à aquisição de espaços informativos e de publicidade em órgãos de comunicação social pelas seguintes entidades:\n\na) Região Autónoma dos Açores;\n\nb) Autarquias locais dos Açores;\n\nc) Institutos públicos regionais;\n\nd) Empresas do setor empresarial regional e local, concessionárias de serviços públicos, no âmbito das respetivas obrigações de serviço público.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30."
+  },
+  "71ccb302819e68b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Relatório anual",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30."
+   ],
+   "markdown": "###### Artigo 4.º — Relatório anual\n\nO departamento do Governo Regional com competência em matéria de comunicação social tornará público, anualmente, nomeadamente através de disponibilização eletrónica no portal do Governo Regional, bem como do envio à Assembleia Legislativa, de um relatório detalhado sobre a aplicação do presente diploma no ano anterior, do qual constará obrigatoriamente:\n\na) Identificação da entidade pública adquirente;\n\nb) Órgão de comunicação social a quem foi adquirido;\n\nc) Entidade proprietária do órgão de comunicação social;\n\nd) Preço da aquisição;\n\ne) Data da publicação, difusão ou transmissão da mensagem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 18/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-58661943), publicado em 2014-10-30."
+  }
+ }
+}

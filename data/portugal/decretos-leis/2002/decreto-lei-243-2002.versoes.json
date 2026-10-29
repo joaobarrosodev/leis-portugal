@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424731:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c43e86b70edcab3",
+    "ce730f7e5c838a84",
+    "23c42912857f5971",
+    "68ee98c0721a8988",
+    "4aac5389f12a2570",
+    "52d7eb3d6dfa8e04",
+    "cd6e36317c31db39",
+    "17dd8f61d562ec39",
+    "e45f0567df47eea3",
+    "2baffc98da2c1281",
+    "26ac8c1da303f124",
+    "103179e245fae868",
+    "a9281999818fad02",
+    "004f5f6faa963c3a",
+    "784b93538c127a58",
+    "37f3f12a54151125",
+    "547e56516269bcf6",
+    "22c6a922298b99bf",
+    "c794e74cbf41e2aa",
+    "67073b3b353ec9b4",
+    "4edf8dde6774fddb",
+    "323afbf5916e7bdd",
+    "a7c0b076986847af",
+    "55dd4166f84bba49",
+    "844b14fb910e1be6",
+    "f5fa5f33d17f10cb",
+    "16b0a7526df7a2e2",
+    "61cc63baaed3d0f5",
+    "826b7acb0dbe1b75",
+    "8c8e5c3915690ce8",
+    "25eb62aba05c1a86",
+    "99fec765d66111d7",
+    "8f298dc819029008",
+    "41fb9441121b0201",
+    "86f3353bbabca0da",
+    "2a00a9a255d3cab3",
+    "a427f64ebd9e8552",
+    "a4eb7d3dd2701911",
+    "0bee7f5bf4049a17",
+    "f207e92140714a45",
+    "d1c882b0dfa3e640",
+    "f294b793dccd368d",
+    "93d55350a1c14021",
+    "2d40f0f3f7ea5d9e",
+    "195a1a42cb87d34e",
+    "c1482823473ebf70",
+    "3b1408375b9b5883",
+    "acf452117e038d57",
+    "0966bd15af56ca47",
+    "c9bca5e4163b0c87",
+    "ed3393211e6d8f3e",
+    "1071f6f4d8eab124",
+    "9484ea1f0cdef52e",
+    "808b4c37f3f2ce13"
+   ]
+  },
+  {
+   "date": "2004-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480916:por",
+     "title": "Decreto-Lei n.º 188/2004",
+     "published": "2004-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/188-2004-480916"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "7c43e86b70edcab3",
+    "ce730f7e5c838a84",
+    "23c42912857f5971",
+    "fffb372a35eda2b8",
+    "4aac5389f12a2570",
+    "52d7eb3d6dfa8e04",
+    "cd6e36317c31db39",
+    "17dd8f61d562ec39",
+    "e45f0567df47eea3",
+    "2baffc98da2c1281",
+    "26ac8c1da303f124",
+    "103179e245fae868",
+    "a9281999818fad02",
+    "004f5f6faa963c3a",
+    "784b93538c127a58",
+    "37f3f12a54151125",
+    "547e56516269bcf6",
+    "22c6a922298b99bf",
+    "c794e74cbf41e2aa",
+    "67073b3b353ec9b4",
+    "4edf8dde6774fddb",
+    "323afbf5916e7bdd",
+    "a7c0b076986847af",
+    "55dd4166f84bba49",
+    "844b14fb910e1be6",
+    "f5fa5f33d17f10cb",
+    "16b0a7526df7a2e2",
+    "61cc63baaed3d0f5",
+    "826b7acb0dbe1b75",
+    "8c8e5c3915690ce8",
+    "25eb62aba05c1a86",
+    "99fec765d66111d7",
+    "8f298dc819029008",
+    "41fb9441121b0201",
+    "86f3353bbabca0da",
+    "2a00a9a255d3cab3",
+    "a427f64ebd9e8552",
+    "a4eb7d3dd2701911",
+    "0bee7f5bf4049a17",
+    "f207e92140714a45",
+    "d1c882b0dfa3e640",
+    "f294b793dccd368d",
+    "93d55350a1c14021",
+    "2d40f0f3f7ea5d9e",
+    "195a1a42cb87d34e",
+    "c1482823473ebf70",
+    "3b1408375b9b5883",
+    "acf452117e038d57",
+    "0966bd15af56ca47",
+    "c9bca5e4163b0c87",
+    "ed3393211e6d8f3e",
+    "1071f6f4d8eab124",
+    "9484ea1f0cdef52e",
+    "808b4c37f3f2ce13"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c43e86b70edcab3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Novembro\n\nDe acordo com o Programa do XV Governo Constitucional, torna-se imperioso redimensionar as estruturas existentes na Administração Pública por forma a reconduzi-la a uma dimensão compatível com as exigências da sociedade moderna, simultaneamente melhorando a qualidade, a eficácia e a eficiência dos serviços na prossecução das suas atribuições e competências.\n\nEste objectivo já teve tradução nas determinações constantes do artigo 2.º da [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, o qual estipula, relativamente à presença do Estado no sector da habitação, a fusão num só dos dois institutos públicos actualmente existentes.\n\nAssim e em execução do disposto na alínea b) do n.º 2 e no n.º 3 do artigo 2.º da referida lei, o presente diploma define e regula a fusão e consequente extinção do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) com o Instituto Nacional de Habitação (INH).\n\nA solução encontrada para esta fusão é a que, no caso concreto, permitindo uma racionalização de actividades e meios e uma maior eficiência de actuação na política de habitação, melhor respeita as necessidades de economia e a celeridade na reestruturação do quadro institucional da administração central nesta área.\n\nNesta conformidade, procede-se à transferência para o INH da quase totalidade das atribuições, competências e património do IGAPHE, salvaguardando-se, todavia, a continuidade deste, embora com atribuições reduzidas e serviços extintos, de modo que possa proceder à regularização dos seus activo e passivo, bem como a transmissão, por qualquer forma, nos termos da lei, do seu parque habitacional edificado e equipamentos que o integram.\n\nTransitam igualmente para o INH os funcionários do IGAPHE afectos aos serviços cujas competências são transferidas e ainda todos aqueles que sejam considerados necessários à cabal prossecução das mesmas.\n\nEsta transição efectua-se com plena salvaguarda dos direitos e estatuto dos funcionários, sem prejuízo de lhes ser colocada a opção de celebrarem com o INH um contrato individual de trabalho.\n\nPor outro lado, o presente diploma altera o [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho (Lei Orgânica do INH), não só para adequá-lo à transferência de competências e património e à transição de pessoal acima referidas mas também para, obedecendo às novas linhas de orientação política em matéria de habitação, atribuir ao INH competências acrescidas nos domínios, entre outros, da reconstrução e reabilitação do parque habitacional de interesse social, do desenvolvimento do mercado de arrendamento, em especial do relativo a habitações destinadas aos jovens e à população mais carenciada, e da intervenção no mercado de solos.\n\nPor último, aproveita-se o ensejo para republicar o mencionado [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, com as necessárias correcções materiais resultantes das alterações ao mesmo decorrentes dos Decretos-Leis n.os [460/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), de 14 de Dezembro, e [305/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), de 16 de Agosto, e do presente diploma.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nForam observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ce730f7e5c838a84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma, em execução do disposto na alínea b) do n.º 2 do artigo 2.º da [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, define e regula a fusão e consequente extinção do Instituto de Gestão e Alienação do Património Habitacional do Estado, designado abreviadamente por IGAPHE, com o Instituto Nacional de Habitação, designado abreviadamente por INH, bem como a respectiva transferência de atribuições, competências e património."
+  },
+  "23c42912857f5971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Extinção e liquidação do Instituto de Gestão e Alienação do Património Habitacional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extinção e liquidação do Instituto de Gestão e Alienação do Património Habitacional do Estado\n\nO IGAPHE, criado pelo [Decreto-Lei n.º 88/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1987-662714), de 26 de Fevereiro, é extinto quando se verificar a transmissão, a qualquer título, para outras entidades de uma parte considerável do património imobiliário que, à data da entrada em vigor do presente diploma, gere no âmbito das suas competências."
+  },
+  "68ee98c0721a8988": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transferência de atribuições, competências e património para o Instituto Nacional de Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transferência de atribuições, competências e património para o Instituto Nacional de Habitação\n\n1 - São transferidas para o INH as atribuições e competências que, por lei ou regulamento, estejam cometidas ao IGAPHE, à excepção das referentes à gestão, conservação e alienação do seu parque habitacional edificado e equipamentos que o integram, as quais continuam a ser exercidas por este último até à sua efectiva extinção.\n\n2 - É também transferido para o INH todo o património imobiliário não edificado próprio do IGAPHE, constante de lista a elaborar para o efeito pelo IGAPHE, aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação até à data de entrada em vigor do presente diploma.\n\n3 - As referências feitas ao IGAPHE na legislação ou regulamentação em vigor relativas às atribuições e competências transferidas entendem-se feitas ao INH.\n\n4 - A transferência de património, prevista no n.º 2, efectua-se com dispensa de quaisquer formalidades, salvo de registo, quando necessário.\n\n5 - Exceptuam-se do disposto no n.º 2 do presente artigo os terrenos cujos processos de concurso para alienação hajam já sido iniciados e que continuem a ser desenvolvidos pelo IGAPHE até ao seu termo."
+  },
+  "4aac5389f12a2570": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Extinção de serviços do Instituto de Gestão e Alienação do Património Habitacional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Extinção de serviços do Instituto de Gestão e Alienação do Património Habitacional do Estado\n\nSão extintos, na data de entrada em vigor do presente diploma, os serviços do IGAPHE seguidamente discriminados, cessando automaticamente, nos termos da alínea b) do n.º 1 do artigo 20.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, as comissões de serviço do respectivo pessoal dirigente:\n\na) Direcção de Serviços de Gestão de Solos (DSGS);\n\nb) Gabinete de Estudos Técnicos e Análise de Projectos da Direcção de Serviços de Apoio Técnico (DSAT)."
+  },
+  "52d7eb3d6dfa8e04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências do conselho directivo do Instituto de Gestão e Alienação do Património Habitacional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do conselho directivo do Instituto de Gestão e Alienação do Património Habitacional do Estado\n\nAté à efectiva extinção do IGAPHE, ao conselho directivo compete:\n\na) Assegurar a conservação do seu património habitacional e respectivos equipamentos e proceder à sua alienação nos termos legais, praticando todos os actos necessários para o efeito;\n\nb) Proceder à transmissão, por qualquer forma, nos termos da lei, do seu património habitacional edificado e equipamentos que o integram e praticar todos os actos necessários para o efeito;\n\nc) Praticar todos os actos de administração e outros necessários à defesa dos interesses do IGAPHE;\n\nd) Pagar as dívidas e respectivos encargos perante o Estado, instituições de crédito e demais credores;\n\ne) Praticar todos os actos necessários à consolidação da transferência de atribuições, competências e património, prevista no artigo 3.º deste diploma;\n\nf) Praticar todos os actos necessários à transição do pessoal, prevista nos artigos 6.º a 8.º deste diploma;\n\ng) Assegurar a transferência de dotações orçamentais para o INH que lhe sejam determinadas superiormente;\n\nh) Praticar todos os actos de gestão, de arrecadação de receitas e de satisfação das despesas necessárias ao pontual cumprimento das suas competências;\n\ni) Intentar e prosseguir, activa e passivamente, as acções e outros processos necessários à defesa dos interesses e direitos do IGAPHE emergentes de actos ou contratos que não hajam sido transferidos para o INH;\n\nj) Elaborar e submeter à apreciação da tutela os planos de actividade e os orçamentos anuais;\n\nl) Aprovar e submeter à tutela, até efectiva extinção do IGAPHE, os relatórios e contas de gerência anuais;\n\nm) Exercer as demais competências que, por lei ou regulamento, lhe sejam atribuídas."
+  },
+  "cd6e36317c31db39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transição de pessoal\n\nOs funcionários do IGAPHE afectos aos serviços extintos nos termos do artigo 4.º e cujas competências são transferidas para o INH, bem como os funcionários do IGAPHE que assegurem o apoio necessário à prossecução das competências transferidas por força do presente diploma, transitam, nos termos da lei aplicável, para os lugares do quadro de pessoal do INH abrangido pelo regime jurídico da função pública, a criar para o efeito."
+  },
+  "17dd8f61d562ec39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Opção pelo contrato individual de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Opção pelo contrato individual de trabalho\n\n1 - Os funcionários referidos no artigo anterior podem optar pela celebração de um contrato individual de trabalho com o INH, passando a integrar o quadro de pessoal a que se refere o n.º 1 do artigo 22.º do [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho.\n\n2 - O direito de opção é exercido no prazo contínuo de 60 dias, a contar da data de publicação da lista de transição do pessoal, mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho directivo do INH.\n\n3 - No caso de opção pela celebração de contrato individual de trabalho, é contada a totalidade do tempo de serviço prestado na função pública para efeitos de antiguidade e reforma, nos termos da legislação aplicável.\n\n4 - No caso previsto no número anterior, os contratos individuais de trabalho a celebrar devem necessariamente, na definição da categoria profissional e funções a exercer, ter em atenção as habilitações literárias, a carreira, a categoria e o escalão do funcionário.\n\n5 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública.\n\n6 - A cessação do vínculo à função pública a que se refere o número anterior torna-se efectiva na data da publicação do correspondente aviso na 2.ª série do Diário da República."
+  },
+  "e45f0567df47eea3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Manutenção do vínculo à função pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Manutenção do vínculo à função pública\n\n1 - Os funcionários abrangidos pelo disposto no artigo 6.º do presente diploma que não optem pela celebração de um contrato individual de trabalho continuam sujeitos ao regime jurídico da função pública, sem perda de direitos, incluindo os de promoção na carreira e progressão na categoria, ficando vinculados ao quadro de pessoal, cujos lugares são extintos à medida que vagarem.\n\n2 - Na dinâmica da carreira dos funcionários integrados no quadro de pessoal abrangido pelo regime da função pública, os concursos seguem o regime do artigo 49.º do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho.\n\n3 - O presidente do conselho directivo do INH exerce, relativamente ao pessoal na situação dos números anteriores, as competências previstas na lei para os directores-gerais."
+  },
+  "2baffc98da2c1281": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Providências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Providências orçamentais\n\n1 - As dotações inscritas nos projectos e programas do PIDDAC da responsabilidade do IGAPHE relativos às atribuições e competências cuja transferência é objecto do presente diploma são transferidas para o INH, observadas as necessárias formalidades legais.\n\n2 - Por contrapartida do património transferido, nos termos do n.º 3 do artigo 3.º, pode o INH, excepcionalmente e mediante prévia aprovação do Ministro das Finanças, transferir para o IGAPHE as verbas estritamente indispensáveis à satisfação das despesas necessárias ao seu regular funcionamento."
+  },
+  "26ac8c1da303f124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funcionários do Instituto de Gestão e Alienação do Património Habitacional do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funcionários do Instituto de Gestão e Alienação do Património Habitacional do Estado\n\nA colocação dos funcionários do IGAPHE, no momento da sua efectiva extinção, efectua-se nos termos e condições da legislação em vigor nessa data."
+  },
+  "103179e245fae868": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Cessão da posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cessão da posição contratual\n\n1 - Em todos os acordos e contratos celebrados pelo IGAPHE nos termos das atribuições e competências ora transferidas e ainda em execução à data de entrada em vigor do presente diploma, a posição contratual daquele Instituto é cedida ao INH, com a consequente transmissão da totalidade dos direitos e obrigações a ela inerentes, operando-se a cessão automaticamente, sem necessidade de quaisquer formalidades.\n\n2 - Para efeitos do disposto no número anterior, o IGAPHE remeterá ao INH cópia de todos os acordos ou contratos e documentação conexa, bem como a relação das responsabilidades financeiras deles decorrentes."
+  },
+  "a9281999818fad02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Transmissão de capacidade expropriativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transmissão de capacidade expropriativa\n\nÉ transmitida ao INH a capacidade para prosseguir ou proceder a expropriações onde já exista declaração de expropriação sistemática ou declaração de utilidade pública e de que era beneficiário o IGAPHE."
+  },
+  "004f5f6faa963c3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Património residual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Património residual\n\n1 - O património mobiliário e imobiliário do IGAPHE que, à data da sua extinção, seja excedentário ou se encontre subutilizado, bem como os veículos afectos, reverte para a Direcção-Geral do Património, para posterior reafectação.\n\n2 - Os saldos apurados do orçamento do IGAPHE, à mesma data, que não sejam eventualmente afectos ao INH revertem para a dotação provisional do Ministério das Finanças."
+  },
+  "784b93538c127a58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Alterações ao [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alterações ao [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho\n\nOs artigos 2.º, 3.º, 4.º, 8.º, 9.º, 13.º, 14.º, 18.º, 19.º, 20.º, 21.º e 22.º do [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, alterado pelos Decretos-Leis n.os [460/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), de 14 de Dezembro, e [305/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), de 16 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\nAtribuições\n\nSão atribuições do INH assegurar a gestão e a administração habitacional e as intervenções de natureza financeira no sector de habitação da competência do Estado, incumbindo-lhe, em especial:\n\na) [Anterior alínea b).]\n\nb) Estudar a situação habitacional com vista à formulação de propostas de medidas de política, legislativas e regulamentares, apoiando o Governo na definição das políticas de arrendamento;\n\nc) Coordenar e preparar as medidas de política financeira do sector e contribuir para o financiamento de programas habitacionais de interesse social, promovidos pelos sectores público, cooperativo e privado, através da concessão de comparticipações a fundo perdido, empréstimos e bonificação de juros;\n\nd) ...\n\ne) Desenvolver acções conducentes à conservação e reabilitação do património habitacional, visando o desenvolvimento do mercado do arrendamento urbano, através da sua intervenção directa ou da participação em sociedades, fundos de investimento imobiliário ou outras formas de associação;\n\nf) Promover, directamente ou em associação com outras entidades, projectos habitacionais de interesse social dirigidos, designadamente, à população jovem;\n\ng) Gerir programas específicos de apoio à população mais carenciada, em especial a população jovem, na obtenção de habitação no mercado de arrendamento;\n\nh) Intervir no mercado de solos, como instrumento da política do Governo, com vista à regulação da oferta de terrenos urbanizados para a construção de habitação;\n\ni) Conceder apoio técnico a autarquias locais e a outras instituições promotoras de habitação social no domínio da gestão e conservação do parque habitacional;\n\nj) Gerir, conservar e alienar o parque habitacional, equipamentos e solos que constituem o seu património, no cumprimento da política definida para a habitação de interesse social.\n\nArtigo 3.º\n\nCompetências\n\n1 - Compete ao INH no domínio da administração habitacional e apoio técnico:\n\na) A promoção de inquéritos e estudos, por si ou em colaboração com outras entidades, destinados a manter actualizado o conhecimento dos problemas habitacionais;\n\nb) O estudo das soluções e normas técnico-económicas mais adequadas à prossecução da política de habitação, tomando em consideração os tipos de carências existentes, as condições sócio-económicas das populações e o equilíbrio entre conforto, custo e durabilidade das habitações;\n\nc) ...\n\nd) Acompanhar a execução dos projectos habitacionais de interesse social por ele financiados ou subsidiados;\n\ne) Apoiar a investigação no domínio da habitação de interesse social e propor normas e regulamentos relativos aos edifícios habitacionais, em articulação com organismos de investigação;\n\nf) ...\n\ng) Sem prejuízo das competências atribuídas a outras entidades, verificar a conformidade com os objectivos da habitação de interesse social dos planos de utilização dos terrenos objecto de alienação, nos termos da alínea a) do n.º 3;\n\nh) Promover a recolha, tratamento e difusão da informação técnica no domínio da gestão e conservação dos parques habitacionais;\n\ni) Proceder à certificação legal de projectos e habitações de interesse social, designadamente as de custos controlados ou relacionadas com este conceito;\n\nj) [Anterior alínea g).]\n\n2 - ...\n\na) Conceder empréstimos e comparticipações destinados ao financiamento de programas de interesse social de construção, reconstrução e reabilitação de habitações;\n\nb) Conceder bonificações de juros a pessoas colectivas e particulares e prestar garantias, quando necessário, às instituições de crédito que pratiquem operações de financiamento à construção, reconstrução e reabilitação de habitações;\n\nc) ...\n\nd) ...\n\ne) Participar em sociedades, fundos de investimento imobiliário, consórcios ou outras formas de associação que tenham como objecto a promoção habitacional, a construção, reconstrução e reabilitação habitacional ou a urbanização ou ainda a gestão de património habitacional de interesse social;\n\nf) Gerir programas específicos, particularmente no domínio do apoio ao arrendamento, que lhe sejam cometidos;\n\ng) [Anterior alínea f).]\n\n3 - Compete ao INH no domínio da gestão habitacional:\n\na) Adquirir, urbanizar e alienar, nos termos legais, terrenos para a promoção de habitações de interesse social ou instalações de interesse público;\n\nb) Alienar habitações ou outros edifícios, bem como a propriedade ou o mero direito de superfície de lotes de terreno destinados a habitação de interesse social ou instalações de interesse público;\n\nc) Atribuir as suas habitações em propriedade ou arrendamento, segundo os regimes legalmente fixados;\n\nd) Decidir da utilização dos equipamentos integrados no seu património;\n\ne) Assegurar a conservação do seu património habitacional e respectivos equipamentos;\n\nf) Propor medidas com vista à uniformização da gestão do parque habitacional do Estado;\n\ng) Desempenhar outras funções atribuídas por lei.\n\nArtigo 4.º\n\nTutela\n\n1 - ...\n\na) Autorizar a participação no capital de sociedades ou em fundos de investimento imobiliário e a sua alienação, bem como a intervenção em consórcios ou em outras formas de associação;\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\na) ...\n\nb) Autorizar a contracção de empréstimos, em moeda nacional ou estrangeira, bem como a emissão de obrigações ou outros títulos.\n\n3 - ...\n\nArtigo 8.º\n\nRegime de exercício de funções\n\n1 - ...\n\n2 - ...\n\n3 - Os membros do conselho directivo exercem as suas funções em regime de tempo inteiro, sendo que, excepcionalmente, por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, podem ser nomeados vogais com funções não executivas.\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - Os membros que não exerçam funções em regime de requisição ou comissão de serviço ficam sujeitos ao regime geral da segurança social.\n\nArtigo 9.º\n\nCompetência\n\n1 - ...\n\na) Assegurar a gestão e o desenvolvimento das actividades do INH, incluindo a aquisição e a alienação de imóveis;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\n2 - O conselho directivo pode delegar o exercício de parte da sua competência em qualquer dos seus membros ou noutro pessoal dirigente do INH.\n\n3 - ...\n\nArtigo 13.º\n\nComposição\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Por um representante da Associação Nacional de Municípios Portugueses;\n\ne) ...\n\nf) ...\n\ng) Por um representante de cada uma das entidades que detêm títulos de participação.\n\n2 - Os membros do conselho consultivo referidos nas alíneas d), e) e f) serão designados por despacho do Ministro das Obras Públicas, Transportes e Habitação.\n\n3 - Os membros do conselho consultivo referidos na alínea g) são designados por despacho do Ministro das Obras Públicas, Transportes e Habitação, por proposta das entidades cujos interesses representam.\n\n4 - (Anterior n.º 3.)\n\nArtigo 14.º\n\nCompetências\n\n...\n\na) ...\n\nb) As medidas de política no domínio da habitação de interesse social;\n\nc) ...\n\nArtigo 18.º\n\nCapital\n\n1 - O INH dispõe de um capital inicial (euro) 75503037,68.\n\n2 - Em representação do seu capital, o INH emitiu títulos de participação de valor nominal de (euro) 0,01 cada.\n\n3 - Os títulos de participação no capital do INH são sempre nominativos e apenas podem ser subscritos pela Direcção-Geral do Tesouro, instituições financeiras, públicas ou privadas, ou outras entidades que venham a ser autorizadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.\n\n4 - ...\n\n5 - ...\n\n6 - O capital do INH pode ser aumentado a qualquer momento mediante a emissão de novos títulos de participação.\n\n7 - (Anterior n.º 8.)\n\n8 - (Anterior n.º 9.)\n\n9 - (Anterior n.º 10.)\n\nArtigo 19.º\n\nOutras receitas\n\n...\n\na) ...\n\nb) As receitas resultantes da alienação do seu património;\n\nc) As receitas resultantes da cobrança de rendas;\n\nd) As receitas resultantes da cobrança de taxas e comissões por serviços prestados;\n\ne) Os recursos obtidos pela contracção de empréstimos internos ou externos, incluindo a emissão de obrigações hipotecárias ou outros títulos, previamente autorizados pelo Ministro das Finanças;\n\nf) [Anterior alínea c).]\n\ng) [Anterior alínea d).]\n\nh) [Anterior alínea e).]\n\ni) [Anterior alínea f).]\n\nj) [Anterior alínea g).]\n\nArtigo 20.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O INH procede à contabilização das suas operações com base no Plano Oficial de Contabilidade Pública.\n\n7 - ...\n\nArtigo 21.º\n\nQuadros de pessoal\n\n1 - O quadro de pessoal do INH é aprovado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.\n\n2 - O INH dispõe ainda de um quadro transitório de pessoal abrangido pelo regime jurídico da função pública, aprovado por portaria conjunta dos membros do Governo referidos no número anterior, para os funcionários que hajam transitado do IGAPHE ou que sejam colocados nos termos do artigo 6.º do diploma que opera a fusão e que não tenham optado pela celebração de contrato individual de trabalho, cujos lugares serão extintos à medida que vagarem.\n\nArtigo 22.º\n\nEstatuto do pessoal\n\n1 - ...\n\n2 - ...\n\n3 - O pessoal referido no n.º 2 do artigo 21.º rege-se pelo regime jurídico da função pública.\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)»"
+  },
+  "37f3f12a54151125": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Aditamento ao [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aditamento ao [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho\n\nÉ aditado ao [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, o artigo 18.º-A, com a seguinte redacção:\n\n«Artigo 18.º-A\n\nPatrimónio\n\nConstitui património do INH a universalidade dos bens, direitos e obrigações que lhe estão ou venham a ser atribuídos e os que adquira ou contraia no exercício das suas competências.»"
+  },
+  "547e56516269bcf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\n1 - São revogados as alíneas b) e c) do artigo 2.º, as alíneas e) e f) do n.º 1 e b), c) e d) do n.º 2 do artigo 3.º, o n.º 1 do artigo 8.º, a alínea b) do n.º 1 do artigo 12.º, o artigo 14.º, a alínea a) do n.º 2 do artigo 15.º e o artigo 34.º do [Decreto-Lei n.º 88/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1987-662714), de 26 de Fevereiro.\n\n2 - São revogados os artigos 23.º e 26.º do [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, alterando-se a numeração dos artigos seguintes em conformidade."
+  },
+  "22c6a922298b99bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor 90 dias após a data da sua publicação."
+  },
+  "c794e74cbf41e2aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Republicação\n\nO [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, com as alterações decorrentes dos Decretos-Leis n.os [460/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), de 14 de Dezembro, e [305/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), de 16 de Agosto, e do presente diploma, é republicado em anexo, com as necessárias correcções materiais, designadamente as resultantes da modificação da designação das entidades tutelares do INH.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira.\n\nPromulgado em 14 de Outubro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Outubro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "67073b3b353ec9b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "4edf8dde6774fddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nNatureza e atribuições"
+  },
+  "323afbf5916e7bdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto Nacional de Habitação, criado pelo [Decreto-Lei n.º 177/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1984-384471), de 25 de Maio, e designado abreviadamente por INH, é um instituto público, com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio."
+  },
+  "a7c0b076986847af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições do INH assegurar a gestão e administração habitacional e as intervenções de natureza financeira no sector de habitação da competência do Estado, incumbindo-lhe, em especial:\n\na) Preparar o Plano Nacional de Habitação e os planos anuais e plurianuais de investimento no sector;\n\nb) Estudar a situação habitacional com vista à formulação de propostas de medidas de política, legislativas e regulamentares, apoiando o Governo na definição das políticas de arrendamento;\n\nc) Coordenar e preparar as medidas de política financeira do sector e contribuir para o financiamento de programas habitacionais de interesse social, promovidos pelos sectores público, cooperativo e privado, através da concessão de comparticipações a fundo perdido, empréstimos e bonificação de juros;\n\nd) Acompanhar a execução das medidas de política e os programas de promoção habitacional, de acordo com os planos e normativos aprovados, e prestar apoio técnico aos promotores antes referidos;\n\ne) Desenvolver acções conducentes à conservação e reabilitação do património habitacional, visando o desenvolvimento do mercado do arrendamento urbano, através da sua intervenção directa ou da participação em sociedades, fundos de investimento imobiliário ou outras formas de associação;\n\nf) Promover, directamente ou em associação com outras entidades, projectos habitacionais de interesse social dirigidos, designadamente, à população jovem;\n\ng) Gerir programas específicos de apoio à população mais carenciada, em especial a população jovem, na obtenção de habitação no mercado de arrendamento;\n\nh) Intervir no mercado de solos, como instrumento da política do Governo, com vista à regulação da oferta de terrenos urbanizados para a construção de habitação;\n\ni) Conceder apoio técnico a autarquias locais e a outras instituições promotoras de habitação social no domínio da gestão e conservação do parque habitacional;\n\nj) Gerir, conservar e alienar o parque habitacional, equipamentos e solos que constituem o seu património, no cumprimento da política definida para a habitação de interesse social."
+  },
+  "55dd4166f84bba49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Compete ao INH no domínio da administração habitacional e apoio técnico:\n\na) A promoção de inquéritos e estudos, por si ou em colaboração com outras entidades, destinados a manter actualizado o conhecimento dos problemas habitacionais;\n\nb) O estudo das soluções e normas técnico-económicas mais adequadas à prossecução da política de habitação, tomando em consideração os tipos de carências existentes, as condições sócio-económicas das populações e o equilíbrio entre conforto, custo e durabilidade das habitações;\n\nc) Avaliar os custos do Estado e do sector público na execução da política geral da habitação;\n\nd) Acompanhar a execução dos projectos habitacionais de interesse social por ele financiados ou subsidiados;\n\ne) Apoiar a investigação no domínio da habitação de interesse social e propor normas e regulamentos relativos aos edifícios habitacionais, em articulação com organismos de investigação;\n\nf) Dinamizar a execução dos planos de habitação promovidos e apoiados pelo sector público;\n\ng) Sem prejuízo das competências atribuídas a outras entidades, verificar a conformidade com os objectivos da habitação de interesse social dos planos de utilização dos terrenos objecto de alienação, nos termos da alínea a) do n.º 3;\n\nh) Promover a recolha, tratamento e difusão da informação técnica no domínio da gestão e conservação dos parques habitacionais;\n\ni) Proceder à certificação legal de projectos e habitações de interesse social, designadamente as de custos controlados ou relacionadas com este conceito;\n\nj) Desenvolver acções formativas e de informação e apoiar tecnicamente os promotores.\n\n2 - Compete ao INH no domínio do financiamento:\n\na) Conceder empréstimos e comparticipações destinados ao financiamento de programas de interesse social de construção, reconstrução e reabilitação de habitações;\n\nb) Conceder bonificações de juros a pessoas colectivas e particulares e prestar garantias, quando necessário, às instituições de crédito que pratiquem operações de financiamento à construção, reconstrução e reabilitação de habitações;\n\nc) Contrair empréstimos em moeda nacional ou estrangeira, emitir obrigações e realizar outras operações no domínio dos mercados monetário e financeiro directamente relacionadas com a sua actividade;\n\nd) Celebrar contratos de desenvolvimento ou contratos-programa no domínio habitacional;\n\ne) Participar em sociedades, fundos de investimento imobiliário, consórcios ou outras formas de associação que tenham como objecto a promoção habitacional, a construção, reconstrução e reabilitação habitacional ou a urbanização, ou ainda a gestão de património habitacional de interesse social;\n\nf) Gerir programas específicos, particularmente no domínio do apoio ao arrendamento, que lhe sejam cometidos;\n\ng) Desempenhar outras funções que lhe sejam atribuídas por lei.\n\n3 - Compete ao INH no domínio da gestão habitacional:\n\na) Adquirir, urbanizar e alienar, nos termos legais, terrenos para a promoção de habitações de interesse social ou instalações de interesse público;\n\nb) Alienar habitações ou outros edifícios, bem como a propriedade ou o mero direito de superfície de lotes de terreno destinados a habitação de interesse social ou instalações de interesse público;\n\nc) Atribuir as suas habitações em propriedade ou arrendamento, segundo os regimes legalmente fixados;\n\nd) Decidir da utilização dos equipamentos integrados no seu património;\n\ne) Assegurar a conservação do seu património habitacional e respectivos equipamentos;\n\nf) Propor medidas com vista à uniformização da gestão do parque habitacional do Estado;\n\ng) Desempenhar outras funções atribuídas por lei."
+  },
+  "844b14fb910e1be6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tutela\n\n1 - Compete conjuntamente aos Ministros das Finanças e das Obras Públicas, Transportes e Habitação:\n\na) Autorizar a participação no capital de sociedades ou em fundos de investimento imobiliário e a sua alienação, bem como a intervenção em consórcios ou em outras formas de associação;\n\nb) Aprovar planos de actividade e financeiros, orçamentos anuais, relatórios e contas de gerência;\n\nc) Fixar os limites de competência do conselho directivo para a contracção de encargos de assistência financeira, para a realização de despesas e prestação de garantias e para autorizar a realização de operações financeiras acima dos limites fixados;\n\nd) Criar dependências para além da delegação no Porto.\n\n2 - Compete exclusivamente ao Ministro das Finanças:\n\na) Dar directivas e instruções genéricas de natureza financeira ao conselho directivo;\n\nb) Autorizar a contracção de empréstimos, em moeda nacional ou estrangeira, bem como a emissão de obrigações ou outros títulos.\n\n3 - Compete exclusivamente ao Ministro das Obras Públicas, Transportes e Habitação:\n\na) Dar directivas e instruções genéricas de natureza técnica ao conselho directivo;\n\nb) Acompanhar a execução das medidas de política e os programas de promoção habitacional, de acordo com os planos e normativos aprovados."
+  },
+  "f5fa5f33d17f10cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sede\n\n1 - O INH terá a sua sede em Lisboa e uma delegação no Porto.\n\n2 - Por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, sob proposta do conselho directivo do INH, poderão vir a ser criadas outras dependências."
+  },
+  "16b0a7526df7a2e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e suas competências"
+  },
+  "61cc63baaed3d0f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nSão órgãos do INH:\n\na) O conselho directivo;\n\nb) O conselho consultivo;\n\nc) A comissão de fiscalização."
+  },
+  "826b7acb0dbe1b75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho directivo"
+  },
+  "8c8e5c3915690ce8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição\n\nO conselho directivo é composto por um presidente e dois a quatro vogais, nomeados por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, sob proposta da assembleia comum dos participantes referida no artigo 18.º, e exonerados por despacho dos mesmos membros de governo."
+  },
+  "25eb62aba05c1a86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime de exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de exercício de funções\n\n1 - Os membros do conselho directivo exercerão as suas funções por períodos de três anos, renováveis.\n\n2 - Os membros do conselho directivo, quando funcionários e agentes do Estado, de institutos públicos e das autarquias locais, bem como trabalhadores de empresas públicas, exercerão as suas funções em regime de requisição ou de comissão de serviço, com a faculdade de optarem pelos vencimentos correspondentes aos lugares de origem ou aos que lhes competirem nos termos do n.º 4.\n\n3 - Os membros do conselho directivo exercem as suas funções em regime de tempo inteiro, sendo que, excepcionalmente, por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, podem ser nomeados vogais com funções não executivas.\n\n4 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, devendo, para este efeito, o INH ser equiparado a uma empresa do tipo A.\n\n5 - Os ministros da tutela fixarão, por despacho, o regime de exercício de funções dos membros do conselho directivo, na parte em que não lhes seja aplicável o Estatuto referido no número anterior.\n\n6 - Em matéria de segurança social, os membros do conselho directivo, quando em regime de requisição ou de comissão de serviço, nos termos do n.º 2, beneficiarão do sistema de protecção social, incluindo os benefícios de aposentação ou reforma e sobrevivência inerentes ao respectivo quadro de origem.\n\n7 - Os membros que não exerçam funções em regime de requisição ou comissão de serviço ficam sujeitos ao regime geral da segurança social."
+  },
+  "99fec765d66111d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - Compete ao conselho directivo:\n\na) Assegurar a gestão e desenvolvimento das actividades do INH, incluindo a aquisição e alienação de imóveis;\n\nb) Elaborar e submeter à apreciação da tutela os planos de actividade e financeiros plurianuais, os projectos de orçamento anuais e os relatórios de actividade;\n\nc) Elaborar e submeter à apreciação da tutela as contas de gerência anuais;\n\nd) Superintender na execução dos planos, programas e orçamento;\n\ne) Arrecadar as receitas do INH, autorizar a realização de despesas e a contracção de encargos de assistência financeira, dentro da competência fixada pela tutela;\n\nf) Assegurar a fiscalização de empreendimentos financiados, total ou parcialmente, pelo INH;\n\ng) Assinar contratos de desenvolvimento ou contratos-programa, depois de autorizados nos termos da lei;\n\nh) Deliberar sobre a propositura de acções judiciais e conceder autorização para confissão, desistência ou transacção judicial;\n\ni) Aprovar a conta de gerência e dar balanço, mensalmente, às disponibilidades do INH;\n\nj) Elaborar os regulamentos internos necessários ao bom funcionamento dos serviços e deliberar sobre todas as situações relativas ao pessoal, nomeadamente à sua contratação, nomeação, colocação, promoção, transferência e cessação do contrato;\n\nl) Exercer os demais actos da competência do INH nos termos do presente diploma.\n\n2 - O conselho directivo pode delegar o exercício de parte da sua competência em qualquer dos seus membros ou noutro pessoal dirigente do INH.\n\n3 - A delegação e distribuição de pelouros não afectam a colegialidade e a solidariedade dos membros do conselho directivo."
+  },
+  "8f298dc819029008": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do presidente\n\n1 - Compete, em especial, ao presidente ou a quem o substituir:\n\na) Presidir às reuniões dos conselhos directivo e consultivo;\n\nb) Superintender a coordenação e dinamização da actividade do conselho directivo e promover a convocação das respectivas reuniões;\n\nc) Representar o INH em juízo ou fora dele e assinar em seu nome todos os contratos, nomeadamente os de concessão de empréstimos, garantias ou outros financiamentos contratados.\n\n2 - O presidente do conselho directivo poderá delegar noutro membro deste órgão o exercício parcial das suas funções."
+  },
+  "41fb9441121b0201": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento\n\n1 - O conselho directivo reunirá ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - As deliberações do conselho directivo serão tomadas por maioria simples de votos, tendo o presidente, ou quem o substituir, voto de qualidade.\n\n3 - Lavrar-se-á acta de todas as reuniões, subscrita por todos os presentes, sendo admitidas declarações de voto devidamente fundamentadas."
+  },
+  "86f3353bbabca0da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vinculação\n\n1 - O INH obriga-se pela assinatura conjunta de dois dos seus membros, ou de um membro e um mandatário ou procurador com poderes especiais para o acto em causa.\n\n2 - Nos actos de mero expediente basta a intervenção de um membro do conselho directivo ou de um mandatário com poderes especiais para o efeito."
+  },
+  "2a00a9a255d3cab3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho consultivo"
+  },
+  "a427f64ebd9e8552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - O INH dispõe de um conselho consultivo, constituído:\n\na) Pelo presidente do conselho directivo do INH, que presidirá;\n\nb) Por um representante do Ministério das Finanças;\n\nc) Por um representante do Ministério das Obras Públicas, Transportes e Habitação;\n\nd) Por um representante da Associação Nacional de Municípios Portugueses;\n\ne) Por um representante das cooperativas de habitação;\n\nf) Por um representante do sector da construção civil;\n\ng) Por um representante de cada uma das entidades que detêm títulos de participação.\n\n2 - Os membros do conselho consultivo referidos nas alíneas d), e) e f) serão designados por despacho do Ministro das Obras Públicas, Transportes e Habitação.\n\n3 - Os membros do conselho consultivo referidos na alínea g) são designados por despacho do Ministro das Obras Públicas, Transportes e Habitação, por proposta das entidades cujos interesses representam.\n\n4 - O mandato dos membros nomeados é de três anos, renovável."
+  },
+  "a4eb7d3dd2701911": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nO conselho consultivo é um órgão destinado a apreciar e emitir parecer sobre a actividade do INH, nomeadamente sobre:\n\na) As propostas de planos de programas do INH;\n\nb) As medidas de política no domínio da habitação de interesse social;\n\nc) Os relatórios de actividade."
+  },
+  "0bee7f5bf4049a17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O conselho reunirá, ordinariamente, uma vez em cada trimestre, por convocação do seu presidente, e, extraordinariamente, quando para isso for convocado por iniciativa do presidente ou da maioria dos seus membros.\n\n2 - Lavrar-se-á acta das reuniões, subscrita por todos os presentes."
+  },
+  "f207e92140714a45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Comissão de fiscalização"
+  },
+  "d1c882b0dfa3e640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição e funcionamento\n\n1 - A comissão de fiscalização do INH é composta por três membros, nomeados por despacho do Ministro das Finanças, sendo um presidente e dois vogais, um dos quais será obrigatoriamente um revisor oficial de contas designado pela assembleia comum de participantes.\n\n2 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocada por um dos seus membros.\n\n3 - Os membros da comissão de fiscalização têm direito a uma remuneração idêntica à que estiver fixada para as comissões de fiscalização das empresas públicas.\n\n4 - Constitui dever dos membros da comissão de fiscalização:\n\na) Exercer uma fiscalização conscienciosa e imparcial;\n\nb) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas funções ou por causa delas."
+  },
+  "f294b793dccd368d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências da comissão de fiscalização\n\nCompete à comissão de fiscalização:\n\na) Acompanhar o funcionamento do INH e velar pelo cumprimento das leis e regulamentos aplicáveis;\n\nb) Acompanhar a execução dos planos de actividades e orçamentos anuais e ainda efectuar o controlo mensal de execução dos mesmos;\n\nc) Emitir parecer sobre o orçamento, relatório e contas anuais do INH;\n\nd) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte, examinar periodicamente a situação financeira e económica do INH e proceder à verificação dos valores patrimoniais;\n\ne) Emitir parecer sobre qualquer assunto que seja submetido à sua apreciação pelo conselho directivo ou pelo conselho consultivo, ou sobre o qual entenda dever pronunciar-se;\n\nf) Informar o conselho directivo das irregularidades que detecte."
+  },
+  "93d55350a1c14021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão"
+  },
+  "2d40f0f3f7ea5d9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Capital\n\n1 - O INH dispõe de um capital inicial de (euro) 75503037,68.\n\n2 - Em representação do seu capital, o INH emitiu títulos de participação de valor nominal de (euro) 0,01 cada.\n\n3 - Os títulos de participação no capital do INH serão sempre nominativos e apenas poderão ser subscritos pela Direcção-Geral do Tesouro, instituições financeiras, públicas ou privadas, ou outras entidades que venham a ser autorizadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.\n\n4 - Os títulos de participação são transmissíveis por todas as formas admissíveis em direito entre as entidades referidas no número anterior, mas a transmissão só produzirá efeitos relativamente ao INH e a terceiros desde a data do respectivo averbamento.\n\n5 - A maioria dos títulos de participação do INH deve, a cada momento, estar na posse de entidades públicas.\n\n6 - O capital do INH pode ser aumentado, a qualquer momento, mediante a emissão de novos títulos de participação.\n\n7 - As condições de remuneração dos títulos de participação de cada emissão, incluindo a definição da remuneração mínima, serão estabelecidas por despacho do Ministro das Finanças.\n\n8 - Os resultados líquidos apurados anualmente pelo INH, na parte em que excedam as verbas a atribuir como remuneração dos títulos de participação, serão transferidos para um fundo de reserva, o qual se destina, designadamente, a assegurar a remuneração mínima referida no número anterior.\n\n9 - Outras aplicações do fundo de reserva, para além da estabelecida no número anterior, carecem de autorização mediante despacho do Ministro das Finanças, sob proposta da assembleia comum dos participantes."
+  },
+  "195a1a42cb87d34e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-A — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Património\n\nConstitui património do INH a universalidade dos bens, direitos e obrigações que lhe estão ou venham a ser atribuídos e os que adquira ou contraia no exercício das suas competências."
+  },
+  "c1482823473ebf70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Outras receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Outras receitas\n\nConstituem receitas do INH:\n\na) As receitas resultantes da sua actividade;\n\nb) As receitas resultantes da alienação do seu património;\n\nc) As receitas resultantes da cobrança de rendas;\n\nd) As receitas resultantes da cobrança de taxas e comissões por serviços prestados;\n\ne) Os recursos obtidos pela contracção de empréstimos internos ou externos, incluindo a emissão de obrigações hipotecárias ou outros títulos, previamente autorizados pelo Ministro das Finanças;\n\nf) O reembolso das bonificações concedidas;\n\ng) As receitas provenientes de acções de formação ou apoio técnico;\n\nh) As dotações atribuídas pelo Orçamento do Estado;\n\ni) As heranças, legados ou doações de que venha a ser beneficiário;\n\nj) Outras receitas que lhe venham a ser atribuídas por lei."
+  },
+  "3b1408375b9b5883": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Instrumentos de previsão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instrumentos de previsão e controlo\n\n1 - A actividade do INH será disciplinada pelos seguintes instrumentos de previsão e controlo:\n\na) Planos de actividade plurianuais;\n\nb) Planos financeiros plurianuais;\n\nc) Programas anuais de actividade;\n\nd) Orçamentos anuais;\n\ne) Relatórios de actividade anuais;\n\nf) Contas e relatórios financeiros;\n\ng) Contas de gerência anuais.\n\n2 - Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no plano de actividades que for definido para o sector.\n\n3 - Os planos financeiros plurianuais deverão discriminar os recursos e as correspondentes utilizações previstas.\n\n4 - O programa anual de actividade deverá concretizar os projectos a realizar no decurso do ano pelos diferentes serviços, definindo prioridades e áreas de actuação.\n\n5 - O orçamento será elaborado com base no programa anual de actividade, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado controlo de gestão.\n\n6 - O INH procede à contabilização das suas operações com base no Plano Oficial de Contabilidade Pública.\n\n7 - Os actos e contratos realizados pelo INH não estão sujeitos a visto prévio do Tribunal de Contas."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "0966bd15af56ca47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Quadros de pessoal\n\n1 - O quadro de pessoal do INH é aprovado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.\n\n2 - O INH dispõe ainda de um quadro transitório de pessoal, abrangido pelo regime jurídico da função pública, aprovado por portaria dos membros do Governo referidos no número anterior, para os funcionários que hajam transitado do IGAPHE ou que sejam colocados nos termos do artigo 6.º do diploma que opera a fusão e que, por opção, continuem sujeitos ao regime jurídico da função pública, cujos lugares serão extintos à medida que vagarem."
+  },
+  "c9bca5e4163b0c87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatuto\n\n1 - O pessoal do INH rege-se, na generalidade, pelas normas aplicáveis ao contrato individual de trabalho e, na especialidade, pelo disposto em regulamento interno, aprovado pelo conselho directivo e homologado por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.\n\n2 - No regulamento interno a que se refere o número anterior ter-se-ão em conta as modificações exigidas pela natureza específica do INH e das suas actividades e pelas características da composição do quadro próprio e os condicionalismos da regulamentação colectiva de trabalho do seu ramo de actividade principal.\n\n3 - O pessoal referido no n.º 2 do artigo 21.º rege-se pelo regime jurídico da função pública.\n\n4 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores das empresas públicas, poderão ser chamados a desempenhar funções no INH em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.\n\n5 - Os trabalhadores do quadro do INH poderão ser chamados a desempenhar funções no Estado, em institutos públicos ou em autarquias locais, bem como em empresas públicas, em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "1071f6f4d8eab124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Cobrança de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cobrança de dívidas\n\nAs certidões passadas pelo INH de que constem as importâncias de rendas, empréstimos ou outras prestações em dívida, bem como os respectivos encargos, têm força de título executivo e a sua cobrança coerciva é da competência dos tribunais tributários."
+  },
+  "9484ea1f0cdef52e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Titulação dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Titulação dos contratos\n\n1 - Os actos e contratos realizados pelo INH ou que importem a respectiva ratificação, rectificação, alteração ou revogação podem ser titulados por documento particular ou simples troca de correspondência, independentemente do respectivo valor e natureza.\n\n2 - Quando, porém, se trate de actos ou contratos sujeitos a registo e se não adopte a forma de escritura pública ou de instrumento público avulso, só poderão revestir a forma de documento particular contendo termo de autenticação.\n\n3 - Os documentos particulares e a correspondência trocada com relevância contratual poderão ser selados por estampilha."
+  },
+  "808b4c37f3f2ce13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Legislação revogada\n\nÉ revogado o [Decreto-Lei n.º 177/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1984-384471), de 25 de Maio."
+  },
+  "fffb372a35eda2b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transferência de atribuições, competências e património para o Instituto Nacional de Habitação",
+   "in_force_from": "2004-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2004-480916), publicado em 2004-08-17."
+   ],
+   "markdown": "###### Artigo 3.º — Transferência de atribuições, competências e património para o Instituto Nacional de Habitação\n\n1 - São transferidas para o INH as atribuições e competências que, por lei ou regulamento, estejam cometidas ao IGAPHE, à excepção das referentes à gestão, conservação e alienação do seu parque habitacional edificado e equipamentos que o integram, as quais continuam a ser exercidas por este último até à sua efectiva extinção.\n\n2 - É também transferido para o INH todo o património imobiliário não edificado próprio do IGAPHE, constante de lista a elaborar para o efeito pelo IGAPHE, aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação até à data de entrada em vigor do presente diploma.\n\n3 - As referências feitas ao IGAPHE na legislação ou regulamentação em vigor relativas às atribuições e competências transferidas entendem-se feitas ao INH.\n\n4 - A transferência de património, prevista no n.º 2, efectua-se com dispensa de quaisquer formalidades, salvo de registo, quando necessário.\n\n5 - Exceptuam-se do disposto no n.º 2 do presente artigo os terrenos cujos processos de concurso para alienação hajam já sido iniciados e que continuem a ser desenvolvidos pelo IGAPHE até ao seu termo.\n\n6 - Sem prejuízo do disposto no n.º 1 do presente artigo, reverte ainda para o domínio privado do Estado o património imobiliário edificado próprio do IGAPHE constante de lista a elaborar para o efeito pelo IGAPHE e aprovada por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, na data indicada no referido despacho.\n\n7 - O património a que se refere o número anterior é alienado ao INH, por ajuste directo, nos termos referidos no n.º 4, de acordo com o n.º 6 do artigo 3.º da Lei n.º 107-B/2003, de 31 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 188/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2004-480916), publicado em 2004-08-17."
+  }
+ }
+}
