@@ -1,0 +1,33 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "coloquial": {
+   "n": 281,
+   "respondidas": 32,
+   "certas_brando": 23,
+   "certas": 30,
+   "incompletas": 2,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 2,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "col-326",
+    "col-350"
+   ]
+  },
+  "total": {
+   "n": 281,
+   "respondidas": 32,
+   "certas_brando": 23,
+   "certas": 30,
+   "fiabilidade": 0.938,
+   "limite_inferior_95": 0.799
+  }
+ }
+}

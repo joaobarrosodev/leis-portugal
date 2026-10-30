@@ -178,6 +178,18 @@ O que isto diz, sem arredondar a favor:
 - **O juiz sem referência é demasiado brando** (deu 99% de corretas onde os outros apanharam erros); só vale como controlo, e o veredicto exige que os quatro concordem.
 - Os juízes são todos o mesmo modelo: falta a revisão de um jurista numa amostra.
 
+**Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
+
+| Medida | Reais bem escritas | Mesmas, coloquiais |
+|---|--:|--:|
+| Artigo certo em 1.º | 42% | **21%** |
+| Artigo certo nos 10 primeiros | 77% | **40%** |
+| "Não sei" | 36% | **89%** |
+| Respostas dadas certas (juízes) | 95% (171/180) | 94% (30/32), limite inferior 80% |
+| Perguntas com resposta certa | 61% (171/281) | **11% (30/281)** |
+
+A qualidade da resposta, quando a há, mantém-se; o que cai é quantas perguntas chegam a ter resposta. A pesquisa deixa de encontrar o artigo e o reranker dá ao melhor uma pontuação à volta de 0 (mediana −0,1; o limiar é 3), por isso o sistema recusa quase tudo. Para um utilizador normal isto é o número que conta: só cerca de 1 em 9 perguntas recebe uma resposta certa. Melhorar a pesquisa para perguntas vagas é a prioridade.
+
 **Segundo travão** (`travao.py`): um segundo modelo julga, às cegas, se cada resposta escrita se aguenta nos artigos dados e responde à pergunta. Nas 99 respostas dadas (98 reais e 1 sem resposta) aprovou todas, por isso apanhou 0 das 11 erradas e não perdeu nenhuma certa. Dos 10 erros das reais, 6 têm o artigo certo em 1.º lugar (a resposta escrita difere da de referência no critério de 80% das palavras: o erro pode estar na métrica) e 4 são de pesquisa (diploma ou artigo errado). Ou seja, o erro não é o LLM inventar, e um travão que só confere a resposta contra os artigos não o apanha. Os 6 ficam para revisão às cegas por pessoa ou outro modelo antes de se chamar erro.
 
 ## Principais tipos de erro (com reranker)
