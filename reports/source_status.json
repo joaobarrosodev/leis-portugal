@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "sources": [
     {
       "id": "eurlex-cellar",
@@ -9,7 +9,7 @@
       "last_verified_at": "2026-10-26",
       "verified_scope": "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos.",
       "reuse_status": "permitted_with_conditions",
-      "documents_in_repository": 35609
+      "documents_in_repository": 35624
     },
     {
       "id": "dre",
@@ -19,7 +19,7 @@
       "last_verified_at": "2026-10-26",
       "verified_scope": "1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data).",
       "reuse_status": "permitted",
-      "documents_in_repository": 304809
+      "documents_in_repository": 304815
     },
     {
       "id": "parlamento",
