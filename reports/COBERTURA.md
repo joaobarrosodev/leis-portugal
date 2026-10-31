@@ -1,14 +1,14 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-10-30 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-10-31 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 340439
-- Documentos validados: 340439
+- Documentos recolhidos: 340462
+- Documentos validados: 340462
 - Fontes registadas: 4
 - Fontes operacionais: 2
 
@@ -16,8 +16,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 35624 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 304815 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
+| eurlex-cellar | operational | permitted_with_conditions | 35639 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 304823 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
 | parlamento | planned | unresolved | 0 | — |
 | cnpd | planned | unresolved | 0 | — |
 
@@ -25,8 +25,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 35624 |
-| portugal | 274269 |
+| european_union | 35639 |
+| portugal | 274277 |
 | regional | 30546 |
 
 ## Por região
@@ -35,27 +35,27 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | acores | 26995 |
 | madeira | 3551 |
-| nacional | 309893 |
+| nacional | 309916 |
 
 ## Por tipo de diploma
 
 | Tipo | Documentos |
 |---|---:|
-| portaria | 114564 |
+| portaria | 114565 |
 | decreto | 47478 |
 | decreto-lei | 31715 |
-| regulation | 22759 |
+| regulation | 22767 |
 | declaracao-retificacao | 17441 |
 | resolucao | 15239 |
 | despacho-normativo | 13623 |
 | aviso | 12775 |
-| decision | 8733 |
+| decision | 8739 |
 | declaracao | 8417 |
-| resolucao-conselho-ministros | 6901 |
+| resolucao-conselho-ministros | 6902 |
 | lei | 6715 |
-| decreto-presidente-republica | 6063 |
-| resolucao-assembleia-republica | 4901 |
-| directive | 4132 |
+| decreto-presidente-republica | 6067 |
+| resolucao-assembleia-republica | 4903 |
+| directive | 4133 |
 | despacho | 3273 |
 | decreto-regulamentar-regional | 2602 |
 | decreto-legislativo-regional | 2434 |
@@ -157,14 +157,14 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | Versão | Documentos |
 |---|---:|
 | consolidated | 11154 |
-| original | 329285 |
+| original | 329308 |
 
 ## Origem do texto
 
 | Origem | Documentos |
 |---|---:|
 | importacao_inicial | 1 |
-| recolha_direta | 340438 |
+| recolha_direta | 340461 |
 
 ## Qualidade do texto (texto pesquisável, só PDF oficial ou só metadados)
 
@@ -172,27 +172,27 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 |---|---:|
 | metadados | 24028 |
 | pdf | 69851 |
-| texto | 246560 |
+| texto | 246583 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 172748 |
+| in_force | 172753 |
 | not_in_force | 38048 |
 | partially_in_force | 777 |
 | repealed | 14656 |
-| unknown | 114210 |
+| unknown | 114228 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
 | amended_by | 167417 |
-| amends | 33562 |
-| based_on | 47989 |
+| amends | 33569 |
+| based_on | 48008 |
 | cited_by | 26684 |
-| cites | 655649 |
+| cites | 655721 |
 | corrected_by | 24987 |
 | corrects | 816 |
 | implicitly_repeals | 7872 |
@@ -365,7 +365,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 2023 | 6295 |
 | 2024 | 6280 |
 | 2025 | 6232 |
-| 2026 | 6039 |
+| 2026 | 6062 |
 
 ## Falhas de recolha registadas
 

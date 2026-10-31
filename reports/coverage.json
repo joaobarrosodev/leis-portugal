@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30",
+  "generated_at": "2026-10-31",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 340439,
+    "documents": 340462,
     "sources_registered": 4,
     "sources_operational": 2,
-    "validated_documents": 340439
+    "validated_documents": 340462
   },
   "by_jurisdiction": {
-    "european_union": 35624,
-    "portugal": 274269,
+    "european_union": 35639,
+    "portugal": 274277,
     "regional": 30546
   },
   "by_document_type": {
@@ -39,7 +39,7 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 8733,
+    "decision": 8739,
     "declaracao": 8417,
     "declaracao-extrato": 20,
     "declaracao-retificacao": 17441,
@@ -50,7 +50,7 @@
     "decreto-legislativo-regional": 2434,
     "decreto-lei": 31715,
     "decreto-ministro-republica": 49,
-    "decreto-presidente-republica": 6063,
+    "decreto-presidente-republica": 6067,
     "decreto-regional": 280,
     "decreto-regulamentar": 1933,
     "decreto-regulamentar-regional": 2602,
@@ -71,7 +71,7 @@
     "despacho-regional": 1,
     "despacho-reitoral": 1,
     "diploma-legislativo-colonial": 3,
-    "directive": 4132,
+    "directive": 4133,
     "diretiva": 51,
     "edital": 508,
     "edital-extrato": 2,
@@ -100,7 +100,7 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114564,
+    "portaria": 114565,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
@@ -111,13 +111,13 @@
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 22759,
+    "regulation": 22767,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1868,
     "resolucao-assembleia-nacional": 91,
-    "resolucao-assembleia-republica": 4901,
-    "resolucao-conselho-ministros": 6901,
+    "resolucao-assembleia-republica": 4903,
+    "resolucao-conselho-ministros": 6902,
     "resolucao-conselho-ministros-assuntos-economicos": 1,
     "resolucao-conselho-revolucao": 2,
     "resolucao-extrato": 11,
@@ -125,8 +125,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 304815,
-    "eurlex-cellar": 35624
+    "dre": 304823,
+    "eurlex-cellar": 35639
   },
   "by_year": {
     "1833": 2,
@@ -286,40 +286,40 @@
     "2023": 6295,
     "2024": 6280,
     "2025": 6232,
-    "2026": 6039
+    "2026": 6062
   },
   "by_territory": {
     "acores": 26995,
     "madeira": 3551,
-    "nacional": 309893
+    "nacional": 309916
   },
   "by_version_kind": {
     "consolidated": 11154,
-    "original": 329285
+    "original": 329308
   },
   "by_legal_status": {
-    "in_force": 172748,
+    "in_force": 172753,
     "not_in_force": 38048,
     "partially_in_force": 777,
     "repealed": 14656,
-    "unknown": 114210
+    "unknown": 114228
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 340438
+    "recolha_direta": 340461
   },
   "by_text_quality": {
     "metadados": 24028,
     "pdf": 69851,
-    "texto": 246560
+    "texto": 246583
   },
   "with_version_history": 8469,
   "relationships_by_type": {
     "amended_by": 167417,
-    "amends": 33562,
-    "based_on": 47989,
+    "amends": 33569,
+    "based_on": 48008,
     "cited_by": 26684,
-    "cites": 655649,
+    "cites": 655721,
     "corrected_by": 24987,
     "corrects": 816,
     "implicitly_repeals": 7872,
@@ -332,7 +332,7 @@
     "transposes": 2104
   },
   "by_validation_status": {
-    "validated": 340439
+    "validated": 340462
   },
   "documents_listed": false,
   "documents": []
