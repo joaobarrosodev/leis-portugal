@@ -1,6 +1,6 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-11-01 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-11-02 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
@@ -156,8 +156,8 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Versão | Documentos |
 |---|---:|
-| consolidated | 11154 |
-| original | 329308 |
+| consolidated | 11249 |
+| original | 329213 |
 
 ## Origem do texto
 

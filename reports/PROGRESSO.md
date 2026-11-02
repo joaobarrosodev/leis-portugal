@@ -1,6 +1,6 @@
 # Progresso do projeto
 
-Relatório gerado em 2026-11-01.
+Relatório gerado em 2026-11-02.
 
 ## Estado real
 
@@ -18,7 +18,7 @@ Relatório gerado em 2026-11-01.
 | Índice de relações e exportação | Implementado | `leis-portugal export` (JSONL, SQLite, Parquet em `exports/`) |
 | Relatórios derivados dos dados | Implementado | `reports/` |
 | Atualização diária automática | Implementado | `.github/workflows/atualizacao-diaria.yml` (DRE + EUR-Lex do dia anterior) |
-| Histórico de versões consolidadas | Implementado | 8469 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
+| Histórico de versões consolidadas | Implementado | 8564 registo(s) com `<registo>.versoes.json` (DRE: `collect dre-consolidated`; UE: `collect eurlex-consolidated`) |
 
 ## Estado das fontes
 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01",
+  "generated_at": "2026-11-02",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
     "documents": 340462,
@@ -294,8 +294,8 @@
     "nacional": 309916
   },
   "by_version_kind": {
-    "consolidated": 11154,
-    "original": 329308
+    "consolidated": 11249,
+    "original": 329213
   },
   "by_legal_status": {
     "in_force": 172753,
@@ -313,7 +313,7 @@
     "pdf": 69851,
     "texto": 246583
   },
-  "with_version_history": 8469,
+  "with_version_history": 8564,
   "relationships_by_type": {
     "amended_by": 167417,
     "amends": 33569,
