@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-01'
+version_history:
+  file: decreto-lei-47838.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-01'
+    amending: pt:dre:372853:por
+    amending_title: Decreto-Lei n.º 206/2001
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:02:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 206/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47838.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,29 +126,43 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. É proibido aos agentes directos e indirectos das agências funerárias a permanência nos recintos hospitalares fora das condições determinadas em cada estabelecimento.
+###### Artigo 1.º
 
-2. É igualmente proibido aos mesmos agentes comunicar às famílias dos doentes os óbitos ocorridos nos estabelecimentos hospitalares que por qualquer via cheguem ao seu conhecimento.
+1 - (Revogado.)
+
+2 - (Revogado.)
 
 3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais.
 
-Art. 2.º - 1. A violação do disposto nos n.os 1 e 2 do artigo anterior será punida com multa de 2000$00 a 20000$00 e proibição de as agências efectuarem funerais de qualquer pessoa falecida nos hospitais por períodos de um a cinco anos.
+> Alterado pelo/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
 
-2. Ficam solidàriamente responsáveis pelo pagamento das multas previstas no número anterior os autores da infracção e as respectivas agências.
+###### Artigo 2.º
+
+1 - (Revogado.)
+
+2 - (Revogado.)
 
 3. Os funcionários e empregados que infrinjam o estabelecido no n.º 3 do artigo 1.º serão punidos nos termos do Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-Art. 3.º - 1. Os funcionários hospitalares devem participar superiormente as infracções referidas no artigo 1.º que no exercício das suas funções presenceiem ou de que tenham conhecimento, indicando todos os elementos de prova de que disponham.
+> Alterado pelo/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
+
+###### Artigo 3.º
+
+1. Os funcionários hospitalares devem participar superiormente as infracções referidas no artigo 1.º que no exercício das suas funções presenceiem ou de que tenham conhecimento, indicando todos os elementos de prova de que disponham.
 
 2. Podem participar as infracções ao preceituado no artigo 1.º quaisquer pessoas que delas tenham conhecimento e, designadamente, os familiares das pessoas falecidas nos hospitais a quem a comunicação do óbito haja sido feita com violação do n.º 2 do mesmo artigo.
 
-Art. 4.º - 1. As participações referidas no artigo anterior serão imediatamente apresentadas ao respectivo director ou administrador do hospital, o qual nomeará logo o instrutor do processo. Este ordenará as diligências que julgue necessárias e mandará notificar o arguido para apresentar a defesa por escrito, no prazo de dez dias, podendo juntar documentos e oferecer testemunhas em número não superior a três.
+###### Artigo 4.º
+
+1. As participações referidas no artigo anterior serão imediatamente apresentadas ao respectivo director ou administrador do hospital, o qual nomeará logo o instrutor do processo. Este ordenará as diligências que julgue necessárias e mandará notificar o arguido para apresentar a defesa por escrito, no prazo de dez dias, podendo juntar documentos e oferecer testemunhas em número não superior a três.
 
 2. Realizadas todas as diligências e ouvidas as testemunhas a que se refere o n.º 1 deste artigo, o instrutor do processo elaborará, no prazo de oito dias, o seu relatório, devidamente fundamentado, propondo o que se lhe afigurar mais ajustado.
 
 3. O processo, com o parecer do director ou administrador do hospital, será em seguida submetido a despacho do Ministro da Saúde e Assistência, que decidirá, podendo ordenar, prèviamente, as diligências complementares que julgar necessárias.
 
-Art. 5.º - 1. As multas serão pagas no Banco de Portugal ou suas agências ou, não as havendo, nas tesourarias da Fazenda Pública, por meio de guia passada pela Direcção-Geral dos Hospitais.
+###### Artigo 5.º
+
+1. As multas serão pagas no Banco de Portugal ou suas agências ou, não as havendo, nas tesourarias da Fazenda Pública, por meio de guia passada pela Direcção-Geral dos Hospitais.
 
 2. O pagamento deve efectuar-se no prazo de quinze dias, a contar do recebimento da notificação e das guias apresentadas por funcionário do Ministério da Saúde e Assistência ou enviadas pelo correio, sob registo e com aviso de recepção.
 

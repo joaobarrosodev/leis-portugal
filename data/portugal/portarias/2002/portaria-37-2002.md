@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-04-15'
+version_history:
+  file: portaria-37-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-04-15'
+    amending: pt:dre:633169:por
+    amending_title: Portaria n.º 901/2003; Portaria n.º 403/2007
+    changes:
+    - Altera Artigo ANEXO::2.º
+    - Altera Artigo ANEXO::3.º
+    - Altera Artigo ANEXO::5.º
+    - Altera Artigo ANEXO::8.º
+    - Altera Artigo ANEXO::9.º
+    - Altera Artigo ANEXO::11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/37/2002/01/10/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:40:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 901/2003; Portaria n.º
+    403/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-37-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,21 +172,21 @@ Pelo presente Regulamento são definidas as regras de execução da medida «Ino
 
 1 - A presente medida abrange as seguintes acções:
 
-a) Acção A, «Criação de veículos para a capitalização de PME»;
+a) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';
 
 b) Acção B, «Constituição e reforço dos mecanismos de garantia».
 
 2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento.
 
+> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.
+
 ###### Artigo 3.º — Acção A
 
 1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.
 
-2 - Para a prossecução deste objectivo, serão criados os seguintes instrumentos:
+2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.
 
-a) Linha de financiamento a veículos de investimento mobiliário e imobiliário, com vista à subscrição de títulos emitidos por entidades especializadas naquele domínio, para a realização de investimentos que concorram para o reforço dos capitais próprios das PME ou para a disponibilização de activos fixos essenciais ao exercício da actividade empresarial, adiante designada por acção A1;
-
-b) Fundo de Sindicação e Desconto de Participações (FSDP), que terá por objecto a realização de operações combinadas na área do capital de risco, através do investimento e da concessão de financiamentos a entidades especializadas naquele domínio, tendo em vista o reforço dos capitais próprios de PME que desenvolvam actividade nos sectores abrangidos no âmbito do POE, adiante designado por acção A2.
+> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.
 
 ###### Artigo 4.º — Acção B
 
@@ -184,15 +204,15 @@ c) A constituição do Fundo de Garantia para Titularização de Créditos (FGTC
 
 Serão apoiadas as seguintes entidades beneficiárias:
 
-a) Acção A1 - entidades especializadas no âmbito de actuação previsto nesta acção;
+a) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';
 
-b) Acção A2 - Fundo de Sindicação e Desconto de Participações;
+b) Acção B1 - Fundo de Contragarantia Mútuo;
 
-c) Acção B1 - Fundo de Contragarantia Mútuo;
+c) Acção B2 - sociedades de garantia mútua;
 
-d) Acção B2 - sociedades de garantia mútua;
+d) Acção B3 - Fundo de Garantia para Titularização de Créditos.
 
-e) Acção B3 - Fundo de Garantia para Titularização de Créditos.
+> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.
 
 ###### Artigo 6.º — Condições de elegibilidade
 
@@ -230,27 +250,23 @@ f) O grau de implementação dos projectos à data da candidatura.
 
 ###### Artigo 8.º — Despesas elegíveis
 
-1 - No âmbito da acção A1 constituem despesas elegíveis as contribuições financeiras necessárias à subscrição de títulos emitidos por entidades especializadas em investimentos mobiliários ou imobiliários e na acção A2 a dotação inicial necessária para a constituição do Fundo, a subscrever em ambas as acções pelo IAPMEI, ICEP e IFT, adiante designados por organismos coordenadores.
+1 - No Âmbito da acção A, constitui despesa elegível a dotação inicial necessária para a constituição do Fundo, bem como o reforço que se revele necessário para o cumprimento da medida, a subscrever pelos IAPMEI, API e IFT, adiante designados por organismos coordenadores.
 
 2 - No âmbito da acção B constituem despesas elegíveis as contribuições necessárias ao reforço do Fundo da acção B1 e à constituição do Fundo previsto na acção B3, bem como a participação no capital de sociedades de garantia mútua da acção B2, a subscrever em todas as acções pelo IAPMEI, ICEP e IFT.
 
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
+
 ###### Artigo 9.º — Comparticipação financeira na acção A
 
-1 - As comparticipações financeiras previstas na acção A1 respeitarão os seguintes parâmetros:
-
-a) No caso de investimentos mobiliários, por entidades vocacionadas para a realização de operações de capital semente, arranque de empresas - start-up, projectos de forte base tecnológica, pequenas empresas ou iniciativas de pequena dimensão ou de âmbito regional, a comparticipação financeira terá como limite 70% das despesas elegíveis e, relativamente às demais entidades, 50%, tendo em qualquer dos casos o limite de (euro) 12500000;
-
-b) No caso de participação em fundos de investimento imobiliário especializados e em fundos de gestão de património imobiliário, a contribuição financeira, que se traduzirá na subscrição de unidades de participação, deverá ser concretizada por forma a assegurar tendencialmente uma relação paritária público-privada tendo por referência o valor das operações concretizadas, não podendo, no final da intervenção, ultrapassar 70% das despesas elegíveis;
-
-c) O prazo máximo para o pagamento da comparticipação é de três anos, salvo em casos devidamente justificados e mediante autorização do Ministro da Economia.
-
-2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.
-
-3 - Será fixada no regulamento do Fundo previsto na acção A2 uma graduação da percentagem de sindicação e desconto para as participações de capital, tendo presentes os seguintes parâmetros:
+1 - Será fixada no regulamento do Fundo previsto na acção A uma graduação da percentagem de sindicação para as participações de capital, tendo presentes os seguintes parâmetros:
 
 a) Até 70% para projectos de micro e pequenas empresas, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número;
 
 b) Até 50% para projectos de empresas de média dimensão, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número.
+
+2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.
+
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
 
 ###### Artigo 10.º — Comparticipação financeira na acção B
 
@@ -260,11 +276,13 @@ b) Até 50% para projectos de empresas de média dimensão, com o limite máximo
 
 ###### Artigo 11.º — Apresentação de propostas
 
-1 - As propostas de instrumentos a comparticipar pelos mecanismos previstos nas acções A1 e B2 devem ser apresentadas ao IAPMEI, ao ICEP ou ao IFT, no âmbito da respectiva competência.
+1 - As propostas de instrumentos a comparticipar devem ser apresentadas ao IAPMEI, à API ou ao IFT, no âmbito da respectiva competência.
 
 2 - Com a apresentação das propostas, deverá ser entregue uma declaração do cumprimento das condições referidas no artigo 6.º
 
 3 - Após a comunicação da decisão de aprovação das propostas, correrá um prazo de 20 dias úteis, prorrogáveis uma só vez por igual período se justificável para apresentação dos respectivos comprovantes.
+
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
 
 ###### Artigo 12.º — Competências
 

@@ -28,10 +28,45 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-04'
+version_history:
+  file: decreto-lei-49-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-04'
+    amending: pt:dre:310268:por
+    amending_title: Decreto-Lei n.º 641/75; Decreto-Lei n.º 318/78
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:20:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 641/75; Decreto-Lei
+    n.º 318/78. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-49-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,123 +184,115 @@ I
 
 Da Escola Superior da Força Aérea e suas finalidades
 
-Artigo 1.º - 1. É constituída a Escola Superior da Força Aérea, que funcionará sob a orientação do chefe do Estado-Maior da Força Aérea, com as finalidades essenciais de:
+###### Artigo 1.º
 
-a) Preparar oficiais da Força Aérea para o exercício de funções como oficiais superiores, no comando de unidades e chefia de serviços da Força Aérea, e para o desempenho de funções de estado-maior, designadamente em estados-maiores de comandos aéreos, estados-maiores conjuntos e interaliados;
+(Revogado.)
 
-b) Aumentar a cultura dos oficiais nos domínios das doutrinas e técnicas militares e dos conhecimentos que se liguem ao condicionalismo social que integra as instituições militares.
-
-2. A Escola pode ser chamada a colaborar com o Estado-Maior da Força Aérea em estudos de organização, regulamentação e doutrina de emprego.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
 II
 
 Da organização do ensino e equivalências de cursos
 
-Art. 2.º - 1. Para consecução das finalidades essenciais constantes do artigo anterior, funcionam na Escola Superior da Força Aérea o curso geral de guerra aérea, para oficiais pilotos aviadores, o curso de chefia de serviços, para oficiais engenheiros, médicos e de intendência e contabilidade, e o curso de aperfeiçoamento, para oficiais pilotos navegadores, técnicos e do serviço geral.
+###### Artigo 2.º
 
-2. Na Escola podem também funcionar estágios e cursos de actualização e outros que a experiência venha a aconselhar para oficiais habilitados com os cursos referidos no n.º 1 deste artigo.
+(Revogado.)
 
-Art. 3.º - 1. As matérias que constituem os cursos referidos no artigo 2.º incluem-se nas seguintes rubricas gerais:
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-a) Organização e emprego da Força Aérea;
+###### Artigo 3.º
 
-b) Forças terrestres e navais;
+(Revogado.)
 
-c) Estratégia;
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-d) História militar;
+###### Artigo 4.º
 
-e) Técnica do serviço de estado-maior;
+(Revogado.)
 
-f) Gestão de organizações militares;
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-g) Lógica aplicada e expressão de pensamento;
+###### Artigo 5.º
 
-h) Noções de política, sociologia, economia e direito;
+(Revogado.)
 
-i) Línguas estrangeiras.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-2. Outras matérias serão introduzidas nos cursos sempre que seja reconhecida a sua necessidade.
+###### Artigo 6.º
 
-3. O ensino será ministrado no sentido de conseguir, entre os oficiais da Força Aérea, unidade de doutrina e flexibilidade intelectual para a preparação, apoio e execução das acções militares nas suas diversas modalidades.
+(Revogado.)
 
-4. O ensino será ministrado através de lições, conferências, trabalhos de aplicação individuais e colectivos, viagens e visitas de estudo.
-
-Art. 4.º - 1. A duração do curso geral de guerra aérea, do curso de chefia de serviços e do curso de aperfeiçoamento não deverá exceder doze, oito e seis meses, respectivamente, e será fixada por despacho do Secretário de Estado da Aeronáutica.
-
-2. Sem prejuízo das durações estabelecidas, os cursos poderão ser precedidos de uma fase preparatória.
-
-Art. 5.º A habilitação com o curso geral de guerra aérea é condição bastante para o desempenho das funções de estado-maior, que, por legislação anterior, expressamente exigiam qualificação especial.
-
-Art. 6.º Os oficiais que tenham concluído ou venham a concluir com aproveitamento outros cursos, nacionais ou estrangeiros, cuja finalidade, reconhecida em despacho do Secretário de Estado da Aeronáutica, inclua a preparação para funções de estado-maior, são considerados como tendo o curso geral de guerra aérea.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
 III
 
 Do corpo docente
 
-Art. 7.º - 1. A direcção da Escola Superior da Força Aérea é exercida por um coronel piloto aviador, que orienta e superintende nas actividades da Escola e dirige superiormente os cursos que nela funcionam.
+###### Artigo 7.º
 
-2. O corpo docente é constituído pelo director da Escola e por todos os professores das matérias nela ministradas, designadamente:
+(Revogado.)
 
-a) Oito professores efectivos, tenentes-coronéis ou majores da Força Aérea, sendo cinco pilotos aviadores, um engenheiro, um médico e um de intendência e contabilidade;
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-b) Um professor efectivo do Exército, tenente-coronel ou major habilitado com o curso complementar de Estado-Maior;
+###### Artigo 8.º
 
-c) Um professor efectivo da Armada, capitão-de-fragata ou capitão-tenente da classe de marinha;
+(Revogado.)
 
-d) Professores adjuntos, até ao máximo de quatro, majores ou capitães da Força Aérea;
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-e) Professores eventuais, tenentes-coronéis ou majores da Força Aérea;
+###### Artigo 9.º
 
-f) Professores civis contratados, até ao máximo de três.
+(Revogado.)
 
-3. O comandante e os professores efectivos, eventuais e adjuntos oficiais pilotos aviadores serão habilitados com o curso geral de guerra aérea ou outro equivalente, nos termos do artigo 6.º
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-4. Os professores civis contratados serão individualidades de reconhecida competência e idoneidade para ministrar as matérias que pela sua natureza o aconselhem.
+###### Artigo 10.º
 
-Art. 8.º - 1. As nomeações dos professores efectivos da Força Aérea e dos professores adjuntos e eventuais são feitas pelo Secretário de Estado da Aeronáutica.
+(Revogado.)
 
-2. As nomeações dos professores efectivos oficiais do Exército e da Armada são feitas, respectivamente, pelo Ministro do Exército e pelo Ministro da Marinha, conjuntamente com o Secretário de Estado da Aeronáutica.
-
-3. Os professores civis são contratados pelo Secretário de Estado da Aeronáutica. Quando os professores civis dependam do Ministério da Educação Nacional, os contratos estabelecerão o regime de acumulação acordado com o respectivo Ministro.
-
-4. As nomeações são feitas mediante proposta do chefe do Estado-Maior da Força Aérea, em regra originária do director da Escola, ouvido o respectivo conselho escolar.
-
-5. Os professores eventuais só poderão ser nomeados quando necessidades especiais de ensino o justificarem e por período que não excederá o ano lectivo para que a nomeação se verificar.
-
-Art. 9.º O director e os professores efectivos da Força Aérea são considerados adidos aos quadros respectivos.
-
-Art. 10.º - 1. Para a orientação pedagógica dos cursos existe um conselho escolar, presidido pelo director e constituído pelos professores efectivos da Escola, ao qual compete a organização do plano de estudos, a programação do ensino e a avaliação e classificação de aproveitamento dos alunos.
-
-2. Os professores adjuntos e eventuais assistem às reuniões do conselho escolar, quando convocados.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
 IV
 
 Do regime de frequência
 
-Art. 11.º A frequência dos cursos da Escola Superior da Força Aérea não é acumulável com outros serviços.
+###### Artigo 11.º
 
-Art. 12.º O aproveitamento escolar será avaliado por meio de provas, nomeadamente exposições orais, trabalhos escritos, exames de frequência e exames finais, e outros aspectos significativos do comportamento escolar, sendo a classificação a atribuir a cada aluno no final do curso expressa da seguinte forma: com aproveitamento de Muito bom, de Bom ou de Suficiente e sem aproveitamento. Consideram-se habilitados com os cursos os oficiais classificados com aproveitamento.
+(Revogado.)
 
-Art. 13.º Não se consideram com aproveitamento os alunos que faltem a mais de um quinto dos dias úteis de trabalhos escolares.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-Art. 14.º O conselho escolar pode, antes do fim de cada curso, apreciar casos especiais de falta de aproveitamento e, em consequência, propor eliminações imediatas.
+###### Artigo 12.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 13.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 14.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
 V
 
 Da administração e diversas
 
-Art. 15.º - 1. O director e os oficiais professores em exercício na Escola têm direito à gratificação mensal prevista na alínea b) do n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, actualizada pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+###### Artigo 15.º
 
-2. Os professores oficiais do Exército e da Armada passam a vencer pelo orçamento da Secretaria de Estado da Aeronáutica, se os respectivos departamentos não preferirem o regime de acumulação.
+(Revogado.)
 
-3. As remunerações a atribuir aos professores civis contratados serão fixadas por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Aeronáutica.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-4. A realização de conferências na Escola por oficiais ou entidades civis estranhas ao respectivo corpo docente é normalmente remunerada
+###### Artigo 16.º
 
-5. A quantia a perceber por cada conferência será fixada anualmente por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Aeronáutica.
-
-Art. 16.º 1. Os oficiais pilotos aviadores habilitados com o curso geral de guerra aérea ou curso equivalente, nos termos do artigo 6.º, quando no desempenho de funções de estado-maior, têm direito ao abono mensal de uma gratificação de serviço de estado-maior no valor de 600$00, que se considera integrada no n.º 3.º do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, alterado pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
+1. Os oficiais habilitados com o curso geral de guerra aérea ou curso equivalente, nos termos do artigo 6.º, quando no desempenho de funções de estado-maior, têm direito ao abono mensal de uma gratificação de serviço de estado-maior no valor de 600$00, que se considera integrada no n.º 3 do artigo 2.º do [Decreto-Lei n.º 39184](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39184-1953-528254), de 22 de Abril de 1953, alterado pelo [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614), de 23 de Novembro de 1956.
 
 2. A gratificação pelo serviço de estado-maior é acumulável com quaisquer outras gratificações e subsídios.
 
@@ -276,17 +304,43 @@ Art. 16.º 1. Os oficiais pilotos aviadores habilitados com o curso geral de gue
 
 6. A gratificação mensal referida no n.º 1 é indivisível e é abonada nos meses em que o oficial exerça as funções de estado-maior por período de tempo superior a quinze dias consecutivos.
 
-Art. 17.º A competência disciplinar do director da Escola Superior da Força Aérea é a designada na coluna V do quadro anexo ao Regulamento de Disciplina Militar.
+> Alterado pelo/a [Decreto-Lei n.º 641/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/641-1975-310268), publicado em 1975-11-15.
 
-Art. 18.º A Escola Superior da Força Aérea poderá funcionar adstrita a uma unidade da Força Aérea, que deverá fornecer-lhe apoio logístico e administrativo através dos seus órgãos de execução dos serviços.
+###### Artigo 17.º
 
-Art. 19.º Os encargos resultantes da organização da Escola Superior da Força Aérea e do seu regular funcionamento serão inscritos em divisão respeitante àquela Escola no orçamento ordinário de Encargos Gerais da Nação, como despesa ordinária da Secretaria de Estado da Aeronáutica.
+(Revogado.)
 
-Art. 20.º Para fazer face no corrente ano aos encargos resultantes do presente diploma serão inscritos no orçamento em vigor as indispensáveis dotações, a compensar pela anulação de igual importância noutras dotações da Secretaria de Estado da Aeronáutica.
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
-Art. 21.º Os oficiais com o curso geral de guerra aérea designados em cada ano para a instrução complementar de estados-maiores conjuntos e interaliados, frequentarão os cursos para o efeito organizados pelo departamento da Defesa Nacional, conjuntamente com oficiais de estado-maior do Exército e oficiais da Armada habilitados com o curso geral naval de guerra.
+###### Artigo 18.º
 
-Art. 22.º As dúvidas que possam surgir quanto à aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado da Aeronáutica.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 19.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 20.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 21.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
+
+###### Artigo 22.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 318/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1978-327312), publicado em 1978-11-04.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas.
 

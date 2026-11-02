@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-31'
+version_history:
+  file: decreto-lei-479-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-31'
+    amending: pt:dre:283369:por
+    amending_title: Decreto-Lei n.º 11/88; Decreto-Lei n.º 200/2009
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:07:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 11/88; Decreto-Lei
+    n.º 200/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-479-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,25 +150,49 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional.
+###### Artigo 1.º
 
-Art. 2.º A importância destinada a prémios em cada lotaria não pode ser inferior a 54% nem superior a 65% do capital emitido.
+O preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional.
 
-Art. 3.º Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.
+###### Artigo 2.º
 
-Art. 4.º - 1 - Os agentes oficiais têm direito a uma comissão não inferior a 12,5% nem superior a 13,5% sobre o preço referido no artigo 1.º, a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.
+A importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.
 
-2 - As condições de admissão, suspensão e eliminação, bem assim os direitos e deveres dos agentes oficiais, constarão de regulamento a aprovar pela Mesa.
+> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
 
-Art. 5.º Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República.
+###### Artigo 3.º
 
-Art. 6.º Ficam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.
+Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.
 
-Art. 7.º Mantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional.
+###### Artigo 4.º
 
-Art. 8.º É reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926.
+1 - (Revogado.)
 
-Art. 9.º Este diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.
+2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.
+
+> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
+
+###### Artigo 5.º
+
+Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República.
+
+###### Artigo 6.º
+
+O direito aos prémios dos bilhetes da lotaria nacional e suas fracções caduca no prazo de três meses contados desde o dia da extracção, findo o qual reverte a favor da Misericórdia de Lisboa o valor dos prémios não reclamados.
+
+> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369), publicado em 1988-01-15.
+
+###### Artigo 7.º
+
+Mantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional.
+
+###### Artigo 8.º
+
+É reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926.
+
+###### Artigo 9.º
+
+Este diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 

@@ -1,0 +1,349 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:610412:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7021e65489e37ba5",
+    "0c2b28601ac938f1",
+    "e396c74a50fa9006",
+    "3b2135e45418d534",
+    "874807405974883c",
+    "d89c06cb3f7bd35c",
+    "bd04c3401b1752f6",
+    "7a57d15fee2e8020",
+    "320c2ea9ef3bdc9d",
+    "eadbba8660c60a3e",
+    "af02adbb7cbf2913",
+    "0f47d0db012dbfba",
+    "05e89257981fcacb",
+    "53fc1db99938528b",
+    "22bdb6a87825015a",
+    "42e6157275175b59"
+   ]
+  },
+  {
+   "date": "1993-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:274243:por",
+     "title": "Decreto-Lei n.º 165/93",
+     "published": "1993-05-07",
+     "dre_path": "/dr/detalhe/decreto-lei/165-1993-274243"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "7021e65489e37ba5",
+    "430a884d08b71d76",
+    "5f743b97a2d6af8a",
+    "7b5a56b26f3ff699",
+    "e87a9aadbd6ad827",
+    "5778eca730c35b1d",
+    "c504e4b89f0c508e",
+    "951824301a4a6c05",
+    "7c0f60e53e9335a4",
+    "b668abe01f9d7d65",
+    "e299b8cfcf1c8004",
+    "c3390d223a8badc6",
+    "49d4eb9c1281b993",
+    "9caf329515f793ed",
+    "71fa2426b3df1096",
+    "42e6157275175b59"
+   ]
+  }
+ ],
+ "fragments": {
+  "7021e65489e37ba5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Fevereiro\n\nCom o [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, procurou-se criar condições especiais de financiamento que incentivassem a iniciativa privada à promoção de habitação a custos controlados, como uma das formas de combater a grave crise que então afectava o sector habitacional, nomeadamente no que se referia à aquisição de casa própria pela população de menores recursos.\n\nÉ hoje notória a insuficiência daquela medida legislativa na prossecução dos fins que se propunha atingir. Torna-se evidente a necessidade de flexibilizar e desburocratizar o sistema em vigor para a promoção privada de habitação a custos controlados, no sentido de o dotar de um enquadramento legislativo como o que tem vigorado para a promoção cooperativa e que, comparativa e inequivocamente, se tem revelado bem mais dinâmico e eficaz.\n\nEssa aproximação traduz-se sobretudo numa simplificação de processos, que se reflectirá, entre outras, numa redução da intervenção da administração central e local, sem que isso, contudo, venha pôr em causa as respectivas atribuições e competências na atribuição, controlo e fiscalização de projectos de urbanização e construção.\n\nImpõe-se, pois, proporcionar à iniciativa privada os meios e as condições necessários para uma participação indispensável no projecto nacional de habitação a custos controlados, reconhecendo-se, assim, a imperatividade da assunção do seu vero papel nessa área.\n\nNesses termos, torna-se essencial a revisão da legislação em vigor para a promoção privada de habitação a custos controlados no âmbito de contratos de desenvolvimento para habitação, salvaguardando o que nela emerge de positivo e avançando tendo em vista os objectivos fundamentais a atingir no âmbito da política de habitação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0c2b28601ac938f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula a concessão de financiamentos ao abrigo de contratos de desenvolvimento para habitação (CDH), no que respeita a:\n\na) Aquisição e ou infra-estruturação de solos;\n\nb) Construção;\n\nc) Equipamento complementar, desde que devidamente justificada a sua afectação ao empreendimento a que se destina."
+  },
+  "e396c74a50fa9006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito\n\nO CDH é um contrato celebrado entre as instituições financiadoras, por si só ou em associação, e as empresas privadas que se dediquem à construção civil, com vista à construção de habitação a custos controlados para venda."
+  },
+  "3b2135e45418d534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Instituições financiadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instituições financiadoras\n\nOs empréstimos podem ser concedidos pelas seguintes instituições:\n\na) Caixa Geral de Depósitos;\n\nb) Crédito Predial Português;\n\nc) Caixa Económica de Lisboa-Montepio Geral;\n\nd) Instituto Nacional de Habitação (INH)."
+  },
+  "874807405974883c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\nAs condições de acesso a respeitar pelos promotores são, nomeadamente:\n\na) Disporem de um alvará adequado ao valor do contrato e à natureza da obra;\n\nb) Terem os respectivos projectos sido aprovados pelo município competente e, a partir de 1992, estarem integrados no Plano Director Municipal (PDM) e no Plano Regional de Ordenamento do Território (PROT) aprovados para a área da situação do empreendimento;\n\nc) Apresentarem uma estrutura financeira equilibrada e demonstrarem a viabilidade de comercialização das habitações;\n\nd) Informação de que anteriores contratos de natureza idêntica foram ou estão a ser regularmente cumpridos;\n\ne) Apresentarem certidões comprovativas da não existência de dívidas fiscais e de dívidas à Segurança Social;\n\nf) Integração dos projectos nos parâmetros e valores definidos para a habitação a custos controlados, nomeadamente no que respeita a tipologias, limites máximos de área bruta e de custo médio de construção por metro quadrado e valores máximos de venda;\n\ng) Quando de CDH a celebrar com grupos de empresas, definirem a responsabilidade de cada uma pela qualidade técnica da construção e pelo conjunto das obrigações contratuais, designadamente quanto à pontual consecução dos objectivos parciais e globais estabelecidos."
+  },
+  "d89c06cb3f7bd35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Valores\n\nOs custos de construção por metro quadrado e os valores de venda das habitações são determinados em função dos limites fixados para a habitação a custos controlados por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, a publicar anualmente durante o mês de Janeiro."
+  },
+  "bd04c3401b1752f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições dos empréstimos\n\nOs empréstimos a conceder para os efeitos previstos no artigo 1.º ficam sujeitos aos seguintes termos e condições:\n\n1) No caso do financiamento à aquisição e ou infra-estruturação de terrenos, de acordo com o disposto na [Portaria n.º 367/87](https://diariodarepublica.pt/dr/detalhe/portaria/367-1987-421226), de 4 de Maio;\n\n2) No caso do financiamento à construção:\n\na) O montante máximo é fixado pelas instituições financiadoras até 80% do valor global do empreendimento, determinado de acordo com os preços de venda em vigor em cada momento para a habitação a custos controlados;\n\nb) O prazo máximo é de três anos, eventualmente prorrogável por mais dois anos;\n\nc) A taxa de juro é a fixada em cada momento pela instituição financiadora para operações de prazo idêntico;\n\nd) Os empréstimos beneficiam de uma bonificação, a suportar pelo Estado, de um terço da taxa de juro contratual, a inscrever no orçamento da Direcção-Geral do Tesouro a favor do INH, que reembolsará, quando for caso disso, as instituições financiadoras;\n\ne) 50% da bonificação determinada de acordo com o disposto na alínea anterior serão suportados pelos municípios, que reembolsam o INH das quantias pagas a esse título, se razões de política municipal de habitação justificarem que o processo de comercialização dos fogos seja conduzido e orientado pela respectiva câmara municipal;\n\nf) A amortização dos empréstimos é efectuada por contrapartida da comercialização das habitações e ou no termo do prazo que seja definido de acordo com a alínea b);\n\n3) No caso do financiamento ao equipamento complementar, nos termos a regulamentar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações."
+  },
+  "7a57d15fee2e8020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apreciação das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação das propostas\n\n1 - Os pedidos de financiamento são apresentados ao INH, devidamente fundamentados, a quem cabe a apreciação das propostas, tendo em conta, nomeadamente, o disposto no artigo 4.º, e a orientação, quando necessária, para a instituição ou instituições de crédito disponíveis.\n\n2 - Face a cada proposta e, designadamente, à dimensão do empreendimento projectado e ao volume de financiamento previsto, o INH decide da eventual necessidade de celebração de mais de um CDH entre as mesmas partes e temporalmente sucessivos.\n\n3 - No caso de aceitação das propostas, compete ao INH coordenar e canalizar para a Direcção-Geral das Contribuições e Impostos as solicitações relativas às isenções fiscais aplicáveis aos CDH previstas no [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho."
+  },
+  "320c2ea9ef3bdc9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlo da execução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo da execução do contrato\n\n1 - Cabe à entidade financiadora acompanhar o desenvolvimento da execução dos projectos e programas objecto do contrato, bem como fiscalizar a execução das obras.\n\n2 - As empresas promotoras devem facultar àquelas entidades todos os elementos necessários à averiguação do efectivo cumprimento do contrato e da aplicação dos créditos."
+  },
+  "eadbba8660c60a3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alienação das casas de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alienação das casas de habitação\n\nAs casas de habitação construídas no âmbito de CDH só podem ser alienadas, em primeira transmissão, para habitação própria permanente dos adquirentes e de acordo com as seguintes regras:\n\na) Com excepção do disposto nas alíneas b) e d), os fogos só podem ser vendidos às pessoas que constem de listas organizadas pelos serviços do INH, mediante avisos publicados nos locais de estilo e nos órgãos de comunicação social mais lidos no município;\n\nb) Os fogos financiados com empréstimos bonificados de acordo com o disposto na alínea e) do n.º 2 do artigo 6.º podem ser vendidos às pessoas que constem de listas organizadas pelos serviços municipais da situação do empreendimento, mediante avisos publicados nos locais de estilo e nos órgãos de comunicação social mais lidos no município;\n\nc) Cabe à empresa contratante ou ainda à empresa mediadora de compra e venda de propriedades, quando devidamente autorizada, promover a comercialização das habitações, devendo para o efeito comunicá-lo ao INH ou ao município, conforme o caso, com a antecedência mínima de 120 dias em relação à data do início da comercialização;\n\nd) O não envio, pelos serviços do INH ou do município, das listas referidas nas alíneas a) e b) até 15 dias após a data marcada para o início da comercialização determina a cessação da limitação aí prevista;\n\ne) Em qualquer dos casos, pode ser dada preferência aos funcionários e agentes da Administração Pública que, em virtude da natureza das suas funções, tenham de fixar residência no município da situação do empreendimento."
+  },
+  "af02adbb7cbf2913": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Segundas transmissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Segundas transmissões\n\n1 - Os fogos vendidos ao abrigo do disposto neste diploma só podem ser objecto de segunda transmissão decorridos dez anos sobre a aquisição, sem prejuízo de execução de dívidas relacionadas com esta e das quais sejam garantia.\n\n2 - O ónus de inalienabilidade cessa com a morte ou a invalidez permanente e absoluta do adquirente ou do respectivo cônjuge."
+  },
+  "0f47d0db012dbfba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Garantia\n\n1 - Os empréstimos são garantidos preferencialmente por hipoteca dos terrenos e edificações financiados nos termos do presente diploma, sem prejuízo de outras garantias que as instituições financiadoras, por força das suas regras de gestão e, designadamente, as de segurança, entendam exigir.\n\n2 - Em caso de execução da garantia hipotecária prevista no número anterior, cessa a sujeição aos valores de venda previstos no presente diploma."
+  },
+  "05e89257981fcacb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sanções\n\n1 - A aplicação do empréstimo a fim diverso daquele para o qual tenha sido contratado ou a não utilização dos terrenos ou edificações para os fins para que tenham sido financiados determina o reembolso ao Estado, através da instituição financiadora, do montante das bonificações entretanto usufruídas, acrescido de 20% e sem prejuízo de outras sanções legais igualmente aplicáveis.\n\n2 - Quando a situação prevista no número anterior se der com financiamentos do INH para a aquisição de terrenos, aquele pode optar pela cedência obrigatória do terreno a seu favor, pelo valor de aquisição.\n\n3 - Os beneficiários ou adquirentes dos imóveis construídos ao abrigo do presente diploma não podem em caso algum explorar ou dar à exploração as casas ou parte delas para fins de utilização turística, ficando sujeitos, em caso de incumprimento, às sanções previstas no n.º 1 deste artigo, bem como às previstas no artigo 18.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro."
+  },
+  "53fc1db99938528b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Registos\n\nO regime das habitações construídas ao abrigo do CDH está sujeito a registo predial."
+  },
+  "22bdb6a87825015a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\nOs custos máximos de construção por metro quadrado de área bruta e os valores máximos de venda das habitações por tipologias dos contratos de desenvolvimento para habitação celebrados e em curso à data da entrada em vigor do presente diploma e ao abrigo do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, são fixados por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações."
+  },
+  "42e6157275175b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogadas todas as disposições do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, à excepção dos artigos 8.º, n.º 1, e 17.º, n.os 3, 4 e 5.\n\nVisto e aprovado em Conselho de Ministros de 7 de Dezembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 19 de Janeiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Janeiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "430a884d08b71d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "5f743b97a2d6af8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conceito",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 2.º — Conceito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "7b5a56b26f3ff699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Instituições financiadoras",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 3.º — Instituições financiadoras\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "e87a9aadbd6ad827": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "5778eca730c35b1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Valores",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 5.º — Valores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "c504e4b89f0c508e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições dos empréstimos",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 6.º — Condições dos empréstimos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "951824301a4a6c05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Apreciação das propostas",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 7.º — Apreciação das propostas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "7c0f60e53e9335a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Controlo da execução do contrato",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 8.º — Controlo da execução do contrato\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "b668abe01f9d7d65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alienação das casas de habitação",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 9.º — Alienação das casas de habitação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "e299b8cfcf1c8004": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Segundas transmissões",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 10.º — Segundas transmissões\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "c3390d223a8badc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Garantia",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 11.º — Garantia\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "49d4eb9c1281b993": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Sanções",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 12.º — Sanções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "9caf329515f793ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Registos",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 13.º — Registos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  },
+  "71fa2426b3df1096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma transitória",
+   "in_force_from": "1993-05-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+   ],
+   "markdown": "###### Artigo 14.º — Norma transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07."
+  }
+ }
+}

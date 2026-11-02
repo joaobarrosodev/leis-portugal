@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280738:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2986768f862a6aab"
+   ]
+  },
+  {
+   "date": "2009-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283369:por",
+     "title": "Decreto-Lei n.º 11/88",
+     "published": "1988-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/11-1988-283369"
+    },
+    {
+     "id": "pt:dre:488827:por",
+     "title": "Decreto-Lei n.º 200/2009",
+     "published": "2009-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/200-2009-488827"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "ec84e2662c5d5244",
+    "cd25562ecea877c0",
+    "b9764b6cfdcfbf91",
+    "19d11173e203ca12",
+    "fdbe1d9ea48d6d7a",
+    "f67e20dc0909a074",
+    "794525c7da53729b",
+    "9c6c62fad2e82e2e",
+    "df305017d5d6a6b9",
+    "92987c47980f6f6d"
+   ]
+  }
+ ],
+ "fragments": {
+  "2986768f862a6aab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nO valor facial que actualmente consta dos bilhetes e fracções da Lotaria Nacional está referido ao preço de venda aos agentes oficiais.\n\nSendo, porém, o público comprador o destinatário final daqueles títulos, considera-se mais correcto e factor de clarificação do mercado que o valor facial corresponda ao preço de venda ao público. A referida correcção, consignada no artigo 1.º, altera o montante do capital emitido, o qual, obtido que é a partir do valor facial, passa a incluir a parcela atribuída aos agentes. Esta circunstância requer que sejam ajustadas as percentagens para prémios, comissões e outros encargos obrigatórios, que incidem sobre o valor do capital emitido. Trata-se, porém, de ajustamentos destinados a manter os resultados a nível idêntico ao correspondente às percentagens anteriores, dos quais não resulta, portanto, prejuízo para nenhuma das partes: o público, os agentes oficiais, os revendedores e as entidades públicas interessadas na Lotaria Nacional.\n\nSão também introduzidas algumas medidas correctivas em aspectos pontuais, cujas vantagens práticas recomendam que sejam tomadas desde já, sem embargo de uma revisão mais geral da legislação respeitante à Lotaria Nacional.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º O preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional.\n\nArt. 2.º A importância destinada a prémios em cada lotaria não pode ser inferior a 54% nem superior a 65% do capital emitido.\n\nArt. 3.º Em cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido.\n\nArt. 4.º - 1 - Os agentes oficiais têm direito a uma comissão não inferior a 12,5% nem superior a 13,5% sobre o preço referido no artigo 1.º, a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.\n\n2 - As condições de admissão, suspensão e eliminação, bem assim os direitos e deveres dos agentes oficiais, constarão de regulamento a aprovar pela Mesa.\n\nArt. 5.º Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República.\n\nArt. 6.º Ficam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.\n\nArt. 7.º Mantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional.\n\nArt. 8.º É reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926.\n\nArt. 9.º Este diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.\n\nPromulgado em 2 de Novembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "ec84e2662c5d5244": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nO valor facial que actualmente consta dos bilhetes e fracções da Lotaria Nacional está referido ao preço de venda aos agentes oficiais.\n\nSendo, porém, o público comprador o destinatário final daqueles títulos, considera-se mais correcto e factor de clarificação do mercado que o valor facial corresponda ao preço de venda ao público. A referida correcção, consignada no artigo 1.º, altera o montante do capital emitido, o qual, obtido que é a partir do valor facial, passa a incluir a parcela atribuída aos agentes. Esta circunstância requer que sejam ajustadas as percentagens para prémios, comissões e outros encargos obrigatórios, que incidem sobre o valor do capital emitido. Trata-se, porém, de ajustamentos destinados a manter os resultados a nível idêntico ao correspondente às percentagens anteriores, dos quais não resulta, portanto, prejuízo para nenhuma das partes: o público, os agentes oficiais, os revendedores e as entidades públicas interessadas na Lotaria Nacional.\n\nSão também introduzidas algumas medidas correctivas em aspectos pontuais, cujas vantagens práticas recomendam que sejam tomadas desde já, sem embargo de uma revisão mais geral da legislação respeitante à Lotaria Nacional.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "cd25562ecea877c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO preço de venda ao público constará obrigatoriamente dos bilhetes e fracções da Lotaria Nacional."
+  },
+  "b9764b6cfdcfbf91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2009-08-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27."
+   ],
+   "markdown": "###### Artigo 2.º\n\nA importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27."
+  },
+  "19d11173e203ca12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEm cada lotaria continuará a constituir receita extraordinária da Caixa de Previdência dos Empregados da Assistência a percentagem de 0,225 do capital emitido."
+  },
+  "fdbe1d9ea48d6d7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2009-08-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - (Revogado.)\n\n2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27."
+  },
+  "f67e20dc0909a074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs planos da lotaria e a lista oficial dos resultados dos sorteios serão tornados públicos pela Lotaria Nacional, devendo os primeiros ser reproduzidos no Diário da República."
+  },
+  "794525c7da53729b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2009-08-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369), publicado em 1988-01-15."
+   ],
+   "markdown": "###### Artigo 6.º\n\nO direito aos prémios dos bilhetes da lotaria nacional e suas fracções caduca no prazo de três meses contados desde o dia da extracção, findo o qual reverte a favor da Misericórdia de Lisboa o valor dos prémios não reclamados.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369), publicado em 1988-01-15."
+  },
+  "9c6c62fad2e82e2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nMantêm-se em vigor a isenção de taxas e impostos estabelecidos no artigo 11.º do [Decreto-Lei n.º 24902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24902-1935-467647), de 10 de Janeiro de 1935, que contudo deixa de ser aplicada aos vendedores ambulantes que forem agentes oficiais da Lotaria Nacional."
+  },
+  "df305017d5d6a6b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ reduzida para cinco minutos a tolerância referida no artigo 32.º do [Decreto n.º 12790](https://diariodarepublica.pt/dr/detalhe/decreto/12790-1926-143157), de 30 de Novembro de 1926."
+  },
+  "92987c47980f6f6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEste diploma, com excepção do disposto no artigo 8.º, não se aplica às lotarias cujos planos tenham sido aprovados pela Mesa da Santa Casa da Misericórdia de Lisboa, para a gerência da Lotaria Nacional, em data anterior à da sua entrada em vigor.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.\n\nPromulgado em 2 de Novembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

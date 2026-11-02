@@ -1,0 +1,395 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:431874:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f08c7d04172bc08",
+    "0b14f51dcc07645b",
+    "d4b6621eb9e33d49",
+    "9ec68fb286bd8cd0",
+    "3ac57f7e0da7f73b",
+    "43079007cba69c11",
+    "57418a30e1c8924d",
+    "c71868128e56184c",
+    "0c591b2762c649c3",
+    "9ddcb52c3674802d"
+   ]
+  },
+  {
+   "date": "1996-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:591503:por",
+     "title": "Resolução do Conselho de Ministros n.º 6/96",
+     "published": "1996-01-19",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/6-1996-591503"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995::4.º",
+    "Altera Artigo ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995::11.º"
+   ],
+   "fragments": [
+    "4f08c7d04172bc08",
+    "0b14f51dcc07645b",
+    "0e1fd8c61b196b96",
+    "7c806fa7818c1fcf",
+    "5f46c160246ec739",
+    "2c419243062df3cd",
+    "26d1db05bef9e328",
+    "c8ff3660f02a530b",
+    "57e299e705ddecf0",
+    "e510893b1e968ba5",
+    "1607be0ad3dab4e7",
+    "39bf714da40b7af4",
+    "b4b51be9a2a7d32c",
+    "b9a727719fb1eb3a",
+    "6660fa761b8a0721",
+    "8be9ea57bed68935",
+    "d110756f8dd8c02d",
+    "9e06b8fb28ee0cf8",
+    "c8ff3660f02a530b",
+    "1fab0b2f230a5001",
+    "875beabb7b4ea619",
+    "b4a76da7d0c18d35",
+    "d3b6edc9ca0d90ba",
+    "bad9cf988b96274f",
+    "0ee4f3c80cbe27ac",
+    "f3575e92298ed9f4",
+    "77b8c344f21f5e4e",
+    "204dfb16069f2d51",
+    "3929e3704fc93879",
+    "e73d3959f47535ab",
+    "f206658d71366eb8",
+    "1f6f9c2ae91a9836"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f08c7d04172bc08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "As condições climatéricas adversas que se fizeram sentir no presente ano, com a ocorrência de fortes geadas em algumas regiões, provocaram reduções significativas na produtividade de várias culturas;\n\nA esta situação acresce, por outro lado, a prolongada seca que se tem vindo a sentir e que tem posto em causa a subsistência da estrutura económica de algumas regiões, dependentes quase exclusivamente da actividade agrícola;\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\nAprovar o Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995, anexo à presente resolução e da qual faz parte integrante.\n\nPresidência do Conselho de Ministros, 27 de Julho de 1995. - Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna."
+  },
+  "0b14f51dcc07645b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995"
+  },
+  "d4b6621eb9e33d49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições iniciais\n\nArtigo 1.º O presente Regulamento estabelece o regime de aplicação das medidas de apoio às explorações agrícolas afectadas pela seca e geada ocorridas em 1995.\n\nArt. 2.º No âmbito do presente Regulamento podem ser concedidas ajudas às seguintes medidas:\n\na) Apoio à captação, armazenamento e transporte de água para abeberamento;\n\nb) Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas;\n\nc) Apoio às associações de beneficiários."
+  },
+  "9ec68fb286bd8cd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Captação, armazenamento e transporte de água para abeberamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Captação, armazenamento e transporte de água para abeberamento\n\nArt. 3.º As ajudas respeitantes à captação, armazenamento e transporte de água para abeberamento têm por objectivo apoiar obras de hidráulica agrícola que tenham por finalidade o abeberamento dos animais e o reforço das estruturas de captação de água já existentes nas explorações afectadas pela seca."
+  },
+  "3ac57f7e0da7f73b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\nArt. 4.º As ajudas previstas no artigo anterior aplicam-se nas áreas geográficas de intervenção das direcções regionais de agricultura (DRA):\n\na) DRA do Alentejo: municípios de Campo Maior, Elvas, Alandroal, Reguengos de Monsaraz, Mourão, Moura, Barrancos, Serpa, Beja, Mértola, Aljustrel, Castro Verde, Almodôvar, Portel, Vidigueira, Ourique, Santiago do Cacém (freguesia de Alvalade), Ferreira do Alentejo, Cuba, Alvito, Viana do Alentejo, Évora, Redondo, Vila Viçosa, Monforte e Arronches;\n\nb) DRA do Algarve.\n\nArt. 5.º Podem beneficiar das ajudas previstas no artigo 3.º os agricultores em nome individual ou colectivo, as organizações de produtores e as autarquias locais.\n\nArt. 6.º - 1 - As ajudas são concedidas sob forma de subvenção financeira a fundo perdido no valor de:\n\na) Organizações de produtores e autarquias - 100% das despesas elegíveis;\n\nb) Restantes agricultores - 55% das despesas elegíveis.\n\n2 - O valor da ajuda referido na alínea b) do número anterior poderá ser de 100%, desde que após a realização do investimento nas estruturas de captação de água se verifiquem cumulativamente as seguintes condições:\n\na) Disponham de caudal suficiente;\n\nb) Tenham sido credenciadas pela respectiva DRA;\n\nc) Os beneficiários celebrem com outros agricultores contratos de fornecimento de água.\n\nArt. 7.º Os valores das ajudas referidos no artigo anterior podem incidir sobre as seguintes despesas:\n\na) Abertura de furos e aquisição do respectivo equipamento de bombagem;\n\nb) Aquisição de cisternas para transporte e armazenamento de água;\n\nc) Aquisição de sistemas de produção de energia para bombear a água;\n\nd) Serviços relacionados com o transporte de água."
+  },
+  "43079007cba69c11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\nArt. 8.º - 1 - O processo de candidatura às ajudas previstas no presente capítulo inicia-se com a apresentação junto do serviço regional de agricultura competente de um formulário de candidatura, de acordo com o modelo a distribuir por esses serviços.\n\n2 - O formulário de candidatura deve ser acompanhado de todos os documentos indicados nas respectivas instruções.\n\nArt. 9.º Compete às DRA:\n\na) Emitir parecer sobre os processos de candidatura;\n\nb) Assegurar o acompanhamento e controlo da execução da medida;\n\nc) Elaborar relatórios de execução física e material da medida.\n\nArt. 10.º Compete ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP):\n\na) Aprovar as candidaturas apresentadas;\n\nb) Celebrar com os beneficiários os contratos de concessão das ajudas;\n\nc) Proceder ao pagamento das ajudas nos termos dos contratos referidos na alínea anterior."
+  },
+  "57418a30e1c8924d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas\n\nArt. 11.º As ajudas à manutenção do potencial produtivo e ao rendimento das explorações agrícolas têm por objectivo apoiar os agricultores cujas explorações foram afectadas pela geada ou seca e aplicam-se nas regiões desfavorecidas do território do continente."
+  },
+  "c71868128e56184c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\nArt. 12.º Podem beneficiar das ajudas a que se refere o número anterior os agricultores em nome individual ou colectivo que explorem, pelo menos, 1 ha da superfície agrícola útil, não podendo a área de pomar, vinha ou olival ser inferior a 0,1 ha, e cujas explorações tenham sido afectadas pela geada ou seca.\n\nArt. 13.º - 1 - As ajudas previstas no artigo 11.º são atribuídas em função do efectivo pecuário e da superfície cultivada com pomares, vinha ou olival.\n\n2 - Para efeitos de atribuição de ajuda, os prejuízos causados na vinha, nos pomares ou no olival devem ser superiores a 35% da produção esperada.\n\nArt. 14.º O montante da ajuda a conceder no âmbito do presente capítulo é determinado em função do grau de incidência dos efeitos da seca no caso da actividade pecuária e em função da quebra de produtividade e das culturas abrangidas no caso das superfícies cultivadas com pomares, vinha ou olival, sendo fixado por portaria do Ministro da Agricultura."
+  },
+  "0c591b2762c649c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Normas processuais\n\nArt. 15.º O processo de candidatura às ajudas previstas no artigo 11.º inicia-se com o preenchimento de uma ficha de inscrição a distribuir pelas DRA da área das explorações ou de outras entidades que venham a ser reconhecidas para o efeito e apresentadas junto das mesmas.\n\nArt. 16.º A apresentação de candidaturas às ajudas previstas no presente capítulo decorre até 15 de Agosto.\n\nArt. 17.º No âmbito das ajudas previstas no presente capítulo compete às DRA:\n\na) Receber as candidaturas, verificando o preenchimento das condições de acesso;\n\nb) Proceder aos registos informáticos necessários à execução e controlo das ajudas;\n\nc) Remeter ao Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) no prazo máximo de 15 dias a contar do termo do prazo referido no artigo anterior os registos magnéticos relativos às candidaturas apresentadas.\n\nArt. 18.º As candidaturas apresentadas são objecto de deliberação pela unidade nacional de gestão sectorial da medida de apoio à modernização prevista no ponto II do n.º 5 do despacho do Ministro da Agricultura de 15 de Julho de 1994, no prazo máximo de cinco dias a contar do termo do prazo referido na alínea c) do artigo anterior.\n\nArt. 19.º - 1 - A unidade nacional de gestão sectorial deve enviar ao IFADAP no prazo máximo de 10 dias a contar do termo do prazo referido no artigo anterior as candidaturas aprovadas.\n\n2 - Compete ao IFADAP proceder ao pagamento das ajudas, o qual deve ter lugar até 30 de Setembro."
+  },
+  "9ddcb52c3674802d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Medida de apoio às associações de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Medida de apoio às associações de beneficiários\n\nArt. 20.º A medida de apoio às associações de beneficiários tem por objectivo apoiar as referidas associações carenciadas de receitas devido à não distribuição de água aos seus associados.\n\nArt. 21.º Podem beneficiar desta medida as associações de beneficiários a que se refere o [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro.\n\nArt. 22.º As ajudas são concedidas sob a forma de subvenção financeira a fundo perdido, nos termos a definir por portaria do Ministro da Agricultura."
+  },
+  "0e1fd8c61b196b96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições iniciais"
+  },
+  "7c806fa7818c1fcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente Regulamento estabelece o regime de aplicação das medidas de apoio às explorações agrícolas afectadas pela seca e geada ocorridas em 1995."
+  },
+  "5f46c160246ec739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo âmbito do presente Regulamento podem ser concedidas ajudas às seguintes medidas:\n\na) Apoio à captação, armazenamento e transporte de água para abeberamento;\n\nb) Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas;\n\nc) Apoio às associações de beneficiários."
+  },
+  "2c419243062df3cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Captação, armazenamento e transporte de água para abeberamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Captação, armazenamento e transporte de água para abeberamento"
+  },
+  "26d1db05bef9e328": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs ajudas respeitantes à captação, armazenamento e transporte de água para abeberamento têm por objectivo apoiar obras de hidráulica agrícola que tenham por finalidade o abeberamento dos animais e o reforço das estruturas de captação de água já existentes nas explorações afectadas pela seca."
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "57e299e705ddecf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1996-01-24",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 6/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1996-591503), publicado em 1996-01-19."
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs ajudas previstas no artigo anterior aplicam-se nas áreas geográficas de intervenção das direcções regionais de agricultura (DRA):\n\na) DRA do Alentejo;\n\nb) DRA do Algarve.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 6/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1996-591503), publicado em 1996-01-19."
+  },
+  "e510893b1e968ba5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPodem beneficiar das ajudas previstas no artigo 3.º os agricultores em nome individual ou colectivo, as organizações de produtores e as autarquias locais."
+  },
+  "1607be0ad3dab4e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - As ajudas são concedidas sob forma de subvenção financeira a fundo perdido no valor de:\n\na) Organizações de produtores e autarquias - 100% das despesas elegíveis;\n\nb) Restantes agricultores - 55% das despesas elegíveis.\n\n2 - O valor da ajuda referido na alínea b) do número anterior poderá ser de 100%, desde que após a realização do investimento nas estruturas de captação de água se verifiquem cumulativamente as seguintes condições:\n\na) Disponham de caudal suficiente;\n\nb) Tenham sido credenciadas pela respectiva DRA;\n\nc) Os beneficiários celebrem com outros agricultores contratos de fornecimento de água."
+  },
+  "39bf714da40b7af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs valores das ajudas referidos no artigo anterior podem incidir sobre as seguintes despesas:\n\na) Abertura de furos e aquisição do respectivo equipamento de bombagem;\n\nb) Aquisição de cisternas para transporte e armazenamento de água;\n\nc) Aquisição de sistemas de produção de energia para bombear a água;\n\nd) Serviços relacionados com o transporte de água."
+  },
+  "b4b51be9a2a7d32c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II"
+  },
+  "b9a727719fb1eb3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - O processo de candidatura às ajudas previstas no presente capítulo inicia-se com a apresentação junto do serviço regional de agricultura competente de um formulário de candidatura, de acordo com o modelo a distribuir por esses serviços.\n\n2 - O formulário de candidatura deve ser acompanhado de todos os documentos indicados nas respectivas instruções."
+  },
+  "6660fa761b8a0721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete às DRA:\n\na) Emitir parecer sobre os processos de candidatura;\n\nb) Assegurar o acompanhamento e controlo da execução da medida;\n\nc) Elaborar relatórios de execução física e material da medida."
+  },
+  "8be9ea57bed68935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCompete ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP):\n\na) Aprovar as candidaturas apresentadas;\n\nb) Celebrar com os beneficiários os contratos de concessão das ajudas;\n\nc) Proceder ao pagamento das ajudas nos termos dos contratos referidos na alínea anterior."
+  },
+  "d110756f8dd8c02d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Apoio à manutenção do potencial produtivo e ao rendimento das explorações agrícolas"
+  },
+  "9e06b8fb28ee0cf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1996-01-24",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 6/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1996-591503), publicado em 1996-01-19."
+   ],
+   "markdown": "###### Artigo 11.º\n\nAs ajudas à manutenção do potencial produtivo e ao rendimento das explorações agrícolas têm por objectivo apoiar os agricultores cujas explorações foram afectadas pela seca ou geada e aplicam-se:\n\na) Nas regiões desfavorecidas do território do continente;\n\nb) Nos municípios de Barcelos, Braga, Guimarães, Felgueiras, Gondomar, Lousada, Maia, Matosinhos, Paços de Ferreira, Penafiel e Vila Nova de Gaia.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 6/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1996-591503), publicado em 1996-01-19."
+  },
+  "1fab0b2f230a5001": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPodem beneficiar das ajudas a que se refere o número anterior os agricultores em nome individual ou colectivo que explorem, pelo menos, 1 ha da superfície agrícola útil, não podendo a área de pomar, vinha ou olival ser inferior a 0,1 ha, e cujas explorações tenham sido afectadas pela geada ou seca."
+  },
+  "875beabb7b4ea619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - As ajudas previstas no artigo 11.º são atribuídas em função do efectivo pecuário e da superfície cultivada com pomares, vinha ou olival.\n\n2 - Para efeitos de atribuição de ajuda, os prejuízos causados na vinha, nos pomares ou no olival devem ser superiores a 35% da produção esperada."
+  },
+  "b4a76da7d0c18d35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO montante da ajuda a conceder no âmbito do presente capítulo é determinado em função do grau de incidência dos efeitos da seca no caso da actividade pecuária e em função da quebra de produtividade e das culturas abrangidas no caso das superfícies cultivadas com pomares, vinha ou olival, sendo fixado por portaria do Ministro da Agricultura."
+  },
+  "d3b6edc9ca0d90ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Normas processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Normas processuais"
+  },
+  "bad9cf988b96274f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO processo de candidatura às ajudas previstas no artigo 11.º inicia-se com o preenchimento de uma ficha de inscrição a distribuir pelas DRA da área das explorações ou de outras entidades que venham a ser reconhecidas para o efeito e apresentadas junto das mesmas."
+  },
+  "0ee4f3c80cbe27ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA apresentação de candidaturas às ajudas previstas no presente capítulo decorre até 15 de Agosto."
+  },
+  "f3575e92298ed9f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nNo âmbito das ajudas previstas no presente capítulo compete às DRA:\n\na) Receber as candidaturas, verificando o preenchimento das condições de acesso;\n\nb) Proceder aos registos informáticos necessários à execução e controlo das ajudas;\n\nc) Remeter ao Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) no prazo máximo de 15 dias a contar do termo do prazo referido no artigo anterior os registos magnéticos relativos às candidaturas apresentadas."
+  },
+  "77b8c344f21f5e4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs candidaturas apresentadas são objecto de deliberação pela unidade nacional de gestão sectorial da medida de apoio à modernização prevista no ponto II do n.º 5 do despacho do Ministro da Agricultura de 15 de Julho de 1994, no prazo máximo de cinco dias a contar do termo do prazo referido na alínea c) do artigo anterior."
+  },
+  "204dfb16069f2d51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - A unidade nacional de gestão sectorial deve enviar ao IFADAP no prazo máximo de 10 dias a contar do termo do prazo referido no artigo anterior as candidaturas aprovadas.\n\n2 - Compete ao IFADAP proceder ao pagamento das ajudas, o qual deve ter lugar até 30 de Setembro."
+  },
+  "3929e3704fc93879": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Medida de apoio às associações de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Medida de apoio às associações de beneficiários"
+  },
+  "e73d3959f47535ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nA medida de apoio às associações de beneficiários tem por objectivo apoiar as referidas associações carenciadas de receitas devido à não distribuição de água aos seus associados."
+  },
+  "f206658d71366eb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPodem beneficiar desta medida as associações de beneficiários a que se refere o [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro."
+  },
+  "1f6f9c2ae91a9836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nAs ajudas são concedidas sob a forma de subvenção financeira a fundo perdido, nos termos a definir por portaria do Ministro da Agricultura."
+  }
+ }
+}

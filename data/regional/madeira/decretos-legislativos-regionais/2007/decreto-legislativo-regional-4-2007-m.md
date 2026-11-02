@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-11-22'
+version_history:
+  file: decreto-legislativo-regional-4-2007-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-22'
+    amending: pt:dre:455661:por
+    amending_title: Decreto Legislativo Regional n.º 29/2008/M; Decreto Legislativo Regional n.º 14/2014/M
+    changes:
+    - Altera Artigo 63.º
+    - Altera Artigo 56.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/4/2007/01/11/m/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/2008/M; Decreto Legislativo Regional n.º 14/2014/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2007/decreto-legislativo-regional-4-2007-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -589,6 +605,10 @@ i) Funcionamento das entidades desportivas operantes no sistema desportivo regio
 
 2 - Para efeitos do número anterior, são objecto de financiamento público as actividades desportivas e respectivos agentes, individuais e colectivos, independentemente da natureza profissional ou não dessas actividades.
 
+3 - Os apoios previstos no presente artigo encontram-se exclusivamente afetos às finalidades para as quais foram atribuídos, sendo insuscetíveis de apreensão judicial ou oneração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-58986482), publicado em 2014-11-21.
+
 ###### Artigo 57.º — Contratos-programa
 
 1 - O financiamento público do desporto na Região Autónoma da Madeira concretiza-se através de contratos-programa de desenvolvimento desportivo celebrados entre a administração pública desportiva e as entidades operantes no sistema desportivo regional.
@@ -645,71 +665,29 @@ c) Treinadores e árbitros ou juízes envolvidos em actividades desportivas de a
 
 Os artigos 3.º, 4.º e 10.º do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:
 
-«Artigo 3.º
+'Artigo 3.º
 
 [...]
 
 1 - ...
 
-a) ...
+a)...
 
-b) ...
+b)...
 
-c) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais;
+c) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais.
 
-d) ...
+d)...
 
-e) ...
+e)...
 
-f) ...
+f)...
 
-2 - ...
+g)...
 
-Artigo 4.º
+2 - ...'»
 
-[...]
-
-1 - ...
-
-a) As associações desportivas e as associações multidesportivas;
-
-b) ...
-
-c) ...
-
-d) As entidades não desportivas que promovam actividade desportiva.
-
-2 - ...
-
-3 - ...
-
-Artigo 10.º
-
-[...]
-
-1 - ...
-
-2 - ...
-
-a) ...
-
-b) ...
-
-c) ...
-
-d) ...
-
-e) ...
-
-f) ...
-
-g) ...
-
-h) Garantias de afectação futura dos bens referidos na alínea anterior aos fins do contrato;
-
-i) ...
-
-j) ...»
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2008-455661), publicado em 2008-08-12.
 
 ###### Artigo 64.º — Norma revogatória
 

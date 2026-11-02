@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-03-18'
+version_history:
+  file: decreto-lei-148-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-18'
+    amending: pt:dre:258994:por
+    amending_title: Decreto-Lei n.º 87/94; Decreto-Lei n.º 87/2001
+    changes:
+    - Altera Artigo 5.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/148/1993/05/03/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:22:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 87/94; Decreto-Lei
+    n.º 87/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-148-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,39 +194,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - É extinto o Centro de Identificação Civil e Criminal (CICC).
+###### Artigo 1.º
+
+1 - É extinto o Centro de Identificação Civil e Criminal (CICC).
 
 2 - A identificação civil passa a constituir competência da Direcção-Geral dos Registos e do Notariado.
 
 3 - A identificação criminal e a identificação dos contumazes e dos objectores de consciência passam a constituir competências da Direcção-Geral dos Serviços Judiciários.
 
-Art. 2.º - 1 - É criada na Direcção-Geral dos Registos e do Notariado a Direcção de Serviços de Identificação Civil.
+###### Artigo 2.º
 
-2 - Compete à Direcção de Serviços de Identificação Civil:
+(Revogado.)
 
-a) Recolher, tratar e conservar os elementos identificadores de cada cidadão com o fim de estabelecer a sua identificação civil, nos termos da lei;
+> Revogado pelo/a [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), publicado em 2001-03-17.
 
-b) Organizar e manter actualizado o ficheiro central de identificação civil;
+###### Artigo 3.º
 
-c) Emitir bilhetes de identidade, enquanto não se encontrar descentralizada a sua emissão pelas conservatórias do registo civil;
-
-d) Prestar todo o apoio necessário às conservatórias do registo civil no exercício das suas competências, na área da identificação;
-
-e) Prestar informações sobre identificação civil;
-
-f) Analisar e dar parecer técnico-jurídico sobre as questões relacionadas com a identificação civil que lhe sejam colocadas.
-
-3 - A Direcção de Serviços de Identificação Civil compreende:
-
-a) A Divisão de Identificação Civil, a quem cabe exercer as competências previstas nas alíneas a) a e) do número anterior;
-
-b) O Gabinete de Apoio Jurídico, a quem cabe exercer a competência prevista na alínea f) do número anterior.
-
-4 - O Gabinete de Apoio Jurídico é dirigido por um chefe de divisão.
-
-5 - O funcionamento da Direcção de Serviços de Identificação Civil é apoiado pelos serviços administrativos da Direcção-Geral dos Registos e do Notariado no que respeita à gestão do pessoal, à administração financeira e patrimonial e às actividades inerentes ao expediente, arquivo e impressos.
-
-Art. 3.º - 1 - É criada na Direcção-Geral dos Serviços Judiciários a Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência.
+1 - É criada na Direcção-Geral dos Serviços Judiciários a Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência.
 
 2 - Compete à Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência:
 
@@ -234,19 +234,27 @@ b) A Divisão de Contumazes e Objectores de Consciência, a quem cabe exercer as
 
 4 - O funcionamento da Direcção de Serviços de Identificação Criminal, de Contumazes e Objectores de Consciência é apoiado pelos serviços administrativos da Direcção-Geral dos Serviços Judiciários no que respeita à gestão do pessoal, à administração financeira e patrimonial e às actividades inerentes ao expediente, arquivo e impressos.
 
-Art. 4.º - 1 - São garantidos na identificação civil os princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificadores.
+###### Artigo 4.º
+
+1 - São garantidos na identificação civil os princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificadores.
 
 2 - O disposto no número anterior é também aplicável à identificação criminal, de contumazes e de objectores de consciência, com as necessárias adaptações.
 
-Art. 5.º - Para efeitos de emissão de bilhetes de identidade e de certificados de registo criminal, articulam-se com as Direcções de Serviços previstas no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, respectivamente, os seguintes serviços:
+###### Artigo 5.º
 
-a) As conservatórias do registo civil, para os pedidos de bilhete de identidade, podendo, ainda, as sediadas nas capitais de distrito proceder à sua emissão;
+Para efeitos de emissão de bilhetes de identidade e de certificados de registo criminal, articulam-se com as Direcções de Serviços previstas no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, respectivamente, os seguintes serviços:
+
+a) As conservatórias do registo civil, para os pedidos de bilhete de identidade, podendo ainda as sediadas nas capitais de distrito, ou no Funchal, em Angra do Heroísmo e em Ponta Delgada, proceder à sua emissão para os residentes nos concelhos do distrito ou das Regiões Autónomas, respectivamente;
 
 b) As secretarias judiciais ou as secretarias das câmaras municipais nas autarquias que não sejam sede de comarca, para os pedidos de certificado de registo criminal, podendo, ainda, as primeiras emitir os referidos certificados negativos;
 
 c) As representações diplomáticas e consulares portuguesas, para os pedidos referidos nas alíneas anteriores, quando os interessados residam no estrangeiro.
 
-Art. 6.º - 1 - O pessoal que se encontra provido em lugares do quadro de serviço extinto pelo presente diploma transita para os quadros de pessoal da Direcção-Geral dos Registos e do Notariado e da Direcção-Geral dos Serviços Judiciários nos termos seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 87/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1994-258994), publicado em 1994-03-30.
+
+###### Artigo 6.º
+
+1 - O pessoal que se encontra provido em lugares do quadro de serviço extinto pelo presente diploma transita para os quadros de pessoal da Direcção-Geral dos Registos e do Notariado e da Direcção-Geral dos Serviços Judiciários nos termos seguintes:
 
 a) Os funcionários actualmente afectos aos serviços de identificação civil transitam para os correspondentes serviços da Direcção-Geral dos Registos e do Notariado;
 
@@ -260,9 +268,13 @@ a) No âmbito das delegações do extinto CICC, que passam a considerar-se deleg
 
 b) No âmbito das delegações da Direcção-Geral dos Serviços Judiciários naquelas cidades.
 
-Art. 7.º O pessoal que exerce funções, na situação de requisitado ou destacado, no serviço extinto pelo presente diploma mantém-se na mesma situação e, sem prejuízo dos prazos previstos na lei geral, no exercício de funções na Direcção-Geral dos Registos e do Notariado ou na Direcção-Geral dos Serviços Judiciários, de acordo com as regras de afectação constantes do n.º 1 do artigo anterior.
+###### Artigo 7.º
 
-Art. 8.º - 1 - A transição de pessoal prevista no artigo 6.º far-se-á, observadas as formalidades legais, de acordo com as seguintes regras:
+O pessoal que exerce funções, na situação de requisitado ou destacado, no serviço extinto pelo presente diploma mantém-se na mesma situação e, sem prejuízo dos prazos previstos na lei geral, no exercício de funções na Direcção-Geral dos Registos e do Notariado ou na Direcção-Geral dos Serviços Judiciários, de acordo com as regras de afectação constantes do n.º 1 do artigo anterior.
+
+###### Artigo 8.º
+
+1 - A transição de pessoal prevista no artigo 6.º far-se-á, observadas as formalidades legais, de acordo com as seguintes regras:
 
 a) Para a mesma carreira, categoria e escalão;
 
@@ -274,9 +286,13 @@ b) Sem prejuízo das habilitações legais, para a carreira e categoriaa que int
 
 4 - O tempo de serviço prestado na categoria actual conta, para todos os efeitos legais, como prestado na nova categoria desde que no exercício de idênticas funções.
 
-Art. 9.º Os quadros de pessoal da Direcção-Geral dos Registos e do Notariado e da Direcção-Geral dos Serviços Judiciários serão alargados em função do quadro de pessoal do serviço agora extinto e da reestruturação estabelecida pelo presente diploma, por portaria conjunta dos Ministros das Finanças e da Justiça.
+###### Artigo 9.º
 
-Art. 10.º - 1 - Aos funcionários do extinto CICC que vierem a ser integrados na Direcção de Serviços de Identificação Civil, bem como aos restantes funcionários do quadro de pessoal da Direcção-Geral dos Registos e do Notariado, é permitido habilitarem-se a concurso de ingresso na carreira de oficial dos registos e do notariado, ficando dispensados de estágio, desde que reúnam os seguintes requisitos:
+Os quadros de pessoal da Direcção-Geral dos Registos e do Notariado e da Direcção-Geral dos Serviços Judiciários serão alargados em função do quadro de pessoal do serviço agora extinto e da reestruturação estabelecida pelo presente diploma, por portaria conjunta dos Ministros das Finanças e da Justiça.
+
+###### Artigo 10.º
+
+1 - Aos funcionários do extinto CICC que vierem a ser integrados na Direcção de Serviços de Identificação Civil, bem como aos restantes funcionários do quadro de pessoal da Direcção-Geral dos Registos e do Notariado, é permitido habilitarem-se a concurso de ingresso na carreira de oficial dos registos e do notariado, ficando dispensados de estágio, desde que reúnam os seguintes requisitos:
 
 a) Curso complementar do ensino secundário ou equiparado como habilitação literária mínima;
 
@@ -294,13 +310,21 @@ c) Aprovação nas provas públicas a que se refere o artigo 43.º do [Decreto-L
 
 6 - Em caso de nomeação, o tempo de serviço referido no número anterior será contado para efeitos de graduação na 3.ª classe pessoal do quadro em que ingressarem.
 
-Art. 11.º Os concursos que se encontrem abertos à data da entrada em vigor do presente diploma mantêm-se válidos para os correspondentes lugares dos quadros de pessoal a que se refere o artigo 9.º
+###### Artigo 11.º
 
-Art. 12.º O património do extinto CICC é transferido para a Direcção-Geral dos Registos e do Notariado e para a Direcção-Geral dos Serviços Judiciários, nos termos a fixar por despacho do Ministro da Justiça.
+Os concursos que se encontrem abertos à data da entrada em vigor do presente diploma mantêm-se válidos para os correspondentes lugares dos quadros de pessoal a que se refere o artigo 9.º
 
-Art. 13.º Todas as referências ao CICC e aos seus serviços constantes da legislação em vigor consideram-se feitas aos serviços de identificação civil da Direcção-Geral dos Registos e do Notariado e aos serviços de identificação criminal, de contumazes e de objectores de consciência da Direcção-Geral dos Serviços Judiciários, conforme os casos.
+###### Artigo 12.º
 
-Art. 14.º São revogados pelo presente diploma:
+O património do extinto CICC é transferido para a Direcção-Geral dos Registos e do Notariado e para a Direcção-Geral dos Serviços Judiciários, nos termos a fixar por despacho do Ministro da Justiça.
+
+###### Artigo 13.º
+
+Todas as referências ao CICC e aos seus serviços constantes da legislação em vigor consideram-se feitas aos serviços de identificação civil da Direcção-Geral dos Registos e do Notariado e aos serviços de identificação criminal, de contumazes e de objectores de consciência da Direcção-Geral dos Serviços Judiciários, conforme os casos.
+
+###### Artigo 14.º
+
+São revogados pelo presente diploma:
 
 a) Os artigos 1.º a 12.º do [Decreto-Lei n.º 63/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1976-506821), de 24 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 384/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1990-565375), de 10 de Dezembro;
 
@@ -308,7 +332,9 @@ b) Os artigos 64.º, 65.º e 66.º do [Decreto-Lei n.º 64/76](https://diariodar
 
 c) Os artigos 1.º e 2.º do [Decreto-Lei n.º 426/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1991-321919), de 31 de Outubro.
 
-Art. 15.º O presente diploma entra em vigor no 1.º dia do mês imediato ao da sua publicação.
+###### Artigo 15.º
+
+O presente diploma entra em vigor no 1.º dia do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 

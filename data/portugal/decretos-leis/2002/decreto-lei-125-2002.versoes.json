@@ -1,0 +1,492 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:368661:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f11fa35d9e312b7a",
+    "4d2870ae4b649abb",
+    "8304c7d215fe9364",
+    "2be4a42ae3886d92",
+    "d7d520179a28be01",
+    "f1f0b350647bd46b",
+    "f6f290c9bcc6e3fb",
+    "434c539ba7e38a41",
+    "4f2c77d76015e15a",
+    "62312040a28c18a3",
+    "8dac9122a4aa9fb6",
+    "7fb191b020fdb38a",
+    "2a68c240ca541032",
+    "1191478c29da4357",
+    "b85b4d512fd6a707",
+    "c9b37e0f895063f7",
+    "17ba4497970a8abc",
+    "5a3205a8d5addd5b",
+    "f5d50d2cfd2c9e4e",
+    "1c3cffc3b3828ea7",
+    "ff53040559c9e227",
+    "2afc6ff3c7b0202e",
+    "05c3d9367115043a",
+    "d371269118851910",
+    "14d31c42abff1361"
+   ]
+  },
+  {
+   "date": "2009-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522639:por",
+     "title": "Decreto-Lei n.º 12/2007",
+     "published": "2007-01-19",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2007-522639"
+    },
+    {
+     "id": "pt:dre:607757:por",
+     "title": "Decreto-Lei n.º 94/2009",
+     "published": "2009-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2009-607757"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Adita Artigo 9.º-B",
+    "Altera Artigo 10.º",
+    "Adita Artigo 10.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Adita Artigo 9.º-A"
+   ],
+   "fragments": [
+    "f11fa35d9e312b7a",
+    "ae6cb644a8924311",
+    "8304c7d215fe9364",
+    "e226217b2d6c6eed",
+    "4bbeb64f0c1144bf",
+    "7a21c63f8eeaebba",
+    "7acbd45219048d7a",
+    "4f43d36104b3c57e",
+    "2d3c551be7de10d6",
+    "06de335d5b80060b",
+    "83269bf3775df652",
+    "01264589b8da22b8",
+    "e3a9b69b2ba931d2",
+    "253bc877479ff6d3",
+    "7fb191b020fdb38a",
+    "bf16cdbb28836e40",
+    "321a421543c48ec5",
+    "638706447b7fb22d",
+    "7edb2374c2a8bad1",
+    "17ba4497970a8abc",
+    "5a3205a8d5addd5b",
+    "f5d50d2cfd2c9e4e",
+    "1c3cffc3b3828ea7",
+    "ff53040559c9e227",
+    "2afc6ff3c7b0202e",
+    "e651da36eb98b0eb",
+    "4b005742772323e3",
+    "14d31c42abff1361"
+   ]
+  }
+ ],
+ "fragments": {
+  "f11fa35d9e312b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Maio\n\nO Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro, prevê, quer no procedimento relativo à declaração de utilidade pública, quer no procedimento relativo à efectivação da posse administrativa, quer no processo de expropriação litigiosa, na fase da arbitragem e em recurso desta, a intervenção de peritos da lista oficial.\n\nAs avaliações e exame, a que os referidos peritos procedem, exigem elevados conhecimentos técnicos, sendo as suas funções de grande responsabilidade, uma vez que, do seu exercício, resulta a fixação do montante destinado a garantir o pagamento da justa indemnização aos expropriados, a fixação de elementos de facto indispensáveis ao cálculo daquela, a sua determinação e a realização de diligências instrutórias indispensáveis à decisão em recursos interpostos do acórdão arbitral.\n\nA matéria da organização das listas de peritos encontra-se regulada pelo [Decreto-Lei n.º 44/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1994-516033), de 19 de Fevereiro, e pelo [Decreto Regulamentar n.º 15/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1998-485444), de 9 de Julho. A matéria do exercício das funções de perito avaliador encontra-se regulada por este último diploma.\n\nTornando-se necessário, em face do disposto no n.º 3 do artigo 62.º do Código das Expropriações, rever o regime deles constante, entendeu-se reunir no presente decreto-lei toda a matéria respeitante à organização das listas de peritos e ao exercício das suas funções.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "4d2870ae4b649abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula as condições de exercício das funções de perito e árbitro no âmbito dos procedimentos para a declaração de utilidade pública e para a posse administrativa dos processos de expropriação previstos no Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro."
+  },
+  "8304c7d215fe9364": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Listas de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Listas de peritos\n\n1 - As funções de perito avaliador, previstas nos artigos 10.º, n.º 4, 20.º, n.º 6, 45.º e 62.º do Código das Expropriações, só podem ser exercidas por peritos integrados nas listas oficiais, a que se refere o número seguinte.\n\n2 - São organizadas listas de peritos avaliadores, por distritos judiciais.\n\n3 - No distrito judicial de Lisboa são organizadas três listas, uma para a área continental, outra para os círculos judiciais dos Açores e outra para o círculo judicial do Funchal.\n\n4 - Cada lista é composta pelo seguinte número de peritos avaliadores:\n\na) 120 no distrito judicial de Lisboa;\n\nb) 120 no distrito judicial do Porto;\n\nc) 100 no distrito judicial de Coimbra;\n\nd) 80 no distrito judicial de Évora;\n\ne) 16 nos círculos judiciais dos Açores;\n\nf) 10 no círculo judicial do Funchal.\n\n5 - Cada perito não pode integrar mais de uma lista.\n\n6 - Das listas, para além da identificação dos peritos avaliadores e sua morada, deverão constar, no mínimo, os seguintes elementos:\n\na) Habilitações e eventual especialidade;\n\nb) Entidade empregadora ou equiparada, quando aplicável.\n\n7 - A Direcção-Geral da Administração da Justiça fará publicar no Diário da República, até 31 de Janeiro de cada ano, as listas actualizadas dos peritos avaliadores."
+  },
+  "2be4a42ae3886d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Recrutamento dos peritos avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recrutamento dos peritos avaliadores\n\nO recrutamento de peritos avaliadores para integrarem as listas a que se refere o artigo 2.º é efectuado mediante concurso, ou através de um procedimento simplificado, nos termos dos artigos seguintes."
+  },
+  "d7d520179a28be01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nCompete à Direcção-Geral da Administração da Justiça promover os procedimentos de recrutamento e selecção referidos no artigo 3.º"
+  },
+  "f1f0b350647bd46b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos de habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de habilitação\n\n1 - Podem candidatar-se a peritos avaliadores os indivíduos que sejam possuidores de curso superior adequado e não estejam inibidos do exercício de funções públicas ou interditos para o exercício das respectivas funções.\n\n2 - Os cursos superiores que habilitam ao exercício das funções de perito avaliador serão os que vierem a constar de portaria conjunta dos Ministros do Equipamento Social, da Justiça e da Educação."
+  },
+  "f6f290c9bcc6e3fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concurso\n\n1 - Os candidatos são recrutados e seleccionados mediante concurso que integra a frequência, com aproveitamento, de curso de formação.\n\n2 - O curso a que se refere o número anterior é organizado pelo Centro de Estudos Judiciários, sendo o respectivo plano aprovado por portaria do Ministro da Justiça."
+  },
+  "434c539ba7e38a41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aviso de abertura do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aviso de abertura do concurso\n\n1 - O processo de recrutamento para peritos avaliadores inicia-se com a publicação do respectivo aviso de abertura do concurso no Diário da República, 2.ª série, e em dois jornais de expansão nacional, sem prejuízo de outras formas de publicidade que se considerem adequadas.\n\n2 - Do aviso de abertura devem constar:\n\na) A declaração de abertura do concurso, respectivo prazo de validade e indicação das listas a constituir ou a completar;\n\nb) O número de lugares abertos a concurso;\n\nc) A composição do júri;\n\nd) A descrição sumária das funções a exercer pelos peritos avaliadores e os requisitos de candidatura;\n\ne) A forma e o prazo da apresentação das candidaturas e os elementos que as deverão instruir, entre os quais se deverão incluir os referidos nas alíneas b) a d) do n.º 2 do artigo 10.º;\n\nf) A entidade à qual deve ser apresentada a candidatura e respectivo endereço;\n\ng) A especificação dos métodos de selecção a utilizar;\n\nh) A indicação do local ou locais onde serão afixadas as listas dos candidatos admitidos e excluídos e a data em que a afixação será feita."
+  },
+  "4f2c77d76015e15a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Selecção e sorteio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Selecção e sorteio\n\n1 - Findo o prazo de apresentação das candidaturas, o júri elabora, no prazo de 22 dias, a lista dos candidatos admitidos e excluídos do concurso, em função dos requisitos de habilitação exigidos, com indicação sucinta dos motivos de exclusão, promovendo a sua afixação nos tribunais da relação, nos tribunais judiciais dos círculos judiciais dos Açores e do Funchal e a sua publicação no Diário da República, 2.ª série.\n\n2 - São igualmente afixados, no mesmo prazo e local, o horário e locais de inscrição e frequência do curso de formação a que se refere o artigo 6.º e as condições de inscrição.\n\n3 - São admitidos os candidatos aprovados no referido curso de formação, sendo a sua graduação, para preenchimento das vagas da lista a que concorreram, feita através da nota final obtida no mesmo.\n\n4 - Quando o número de candidatos admitidos for superior ao número de vagas, proceder-se-á a sorteio entre os candidatos que, face à nota final obtida no curso de formação, estejam em igualdade de circunstâncias quanto ao seu preenchimento.\n\n5 - Os candidatos sujeitos ao sorteio a que se refere o número anterior serão avisados da data e do local da sua realização, por carta registada enviada para a morada por eles indicada no seu processo de candidatura ou outra que tenham indicado posteriormente, não constituindo a eventual não recepção de tais cartas fundamento para a impugnação do mesmo."
+  },
+  "62312040a28c18a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Homologação e publicação da lista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Homologação e publicação da lista\n\n1 - Finda a aplicação dos métodos de selecção, o júri submete à homologação do Ministro da Justiça a acta final contendo a indicação dos candidatos admitidos e dos que irão preencher as vagas.\n\n2 - Homologada a acta nos termos do número anterior, procede-se a publicação no Diário da República, 2.ª série."
+  },
+  "8dac9122a4aa9fb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Integração nas listas dos actuais peritos avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Integração nas listas dos actuais peritos avaliadores\n\n1 - Os peritos avaliadores que constam das listas em vigor à data da entrada em vigor do presente diploma integrarão as novas listas, sem concurso, mediante o procedimento simplificado regulado neste artigo, não lhes sendo aplicável o disposto no artigo 5.º, quanto à sua habilitação com cursos superiores.\n\n2 - Os peritos avaliadores referidos no número anterior poderão candidatar-se, no prazo estabelecido em aviso publicado no Diário da República, 2.ª série, e em dois jornais de expansão nacional, sem prejuízo de outras formas de publicidade que se considerem adequadas, mediante requerimento dirigido ao director-geral da Administração da Justiça, instruído com os seguintes documentos:\n\na) Documento subscrito pelo candidato em que declare que integra a lista oficial à data da publicação do presente diploma, indicando o respectivo distrito judicial ou círculo judicial, no caso das Regiões Autónomas da Madeira e dos Açores;\n\nb) Declaração, sob compromisso de honra, de que não está inibido do exercício de funções públicas ou interdito para o exercício de funções de perito avaliador;\n\nc) Declaração sobre a sua situação profissional, eventual vínculo de emprego ou equiparado e indicação da entidade empregadora;\n\nd) Certificado de habilitações.\n\n3 - Os peritos avaliadores referidos no n.º 1, caso pretendam beneficiar do procedimento simplificado regulado neste artigo, têm preferência sobre os restantes candidatos no preenchimento das respectivas vagas.\n\n4 - A análise e a selecção das candidaturas são efectuadas por um júri designado pelo director-geral da Administração da Justiça, que preside, cuja composição deverá constar do aviso a que se refere o n.º 2.\n\n5 - Apreciadas as candidaturas, o júri submeterá à homologação do Ministro da Justiça a acta final contendo a indicação dos candidatos admitidos.\n\n6 - A lista dos candidatos admitidos e excluídos será publicada no Diário da República, 2.ª série.\n\n7 - O procedimento previsto neste artigo é prévio à abertura do concurso a que se referem os artigos anteriores."
+  },
+  "7fb191b020fdb38a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Juramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Juramento\n\n1 - Os peritos avaliadores que integrem as listas serão ajuramentados perante o presidente do tribunal da relação do respectivo distrito judicial ou perante juiz da comarca da sua residência, nas Regiões Autónomas da Madeira e dos Açores.\n\n2 - No caso de o perito avaliador faltar mais de três vezes ao juramento, deixará de integrar a lista, abrindo-se imediatamente a respectiva vaga.\n\n3 - As listas definitivas de peritos oficiais serão publicadas no Diário da República, 2.ª série, após o juramento a que se refere este artigo."
+  },
+  "2a68c240ca541032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Exclusão das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exclusão das listas\n\n1 - São excluídos da lista de peritos avaliadores os peritos que deixem de cumprir os seus deveres funcionais, designadamente:\n\na) Deixem de observar os critérios de avaliação decorrentes da lei;\n\nb) No decurso do ano judicial, deixem de comparecer mais de três vezes, sem justificação, a diligências para que tenham sido regularmente convocados;\n\nc) Não entreguem os relatórios ou os acórdãos nos prazos fixados, sem motivo justificado;\n\nd) Não compareçam injustificadamente às acções de formação a que se refere o artigo seguinte ou faltem a mais de uma acção de formação, ainda que por motivo justificado;\n\ne) Não façam prova de aptidão física nos termos do n.º 4.\n\n2 - A exclusão é da competência do director-geral da Administração da Justiça, após audiência prévia escrita do interessado, cabendo aos tribunais ou às entidades expropriantes comunicar àquela Direcção-Geral as faltas ou omissões referidas nas alíneas do número anterior, bem como as vagas que por outros motivos ocorram e de que tenham conhecimento.\n\n3 - A exclusão de um perito avaliador é comunicada, pela Direcção-Geral da Administração da Justiça, a todos os tribunais do respectivo distrito judicial, produzindo efeitos a partir da recepção da comunicação.\n\n4 - Para o efeito do disposto na alínea e) do n.º 1, os peritos avaliadores que tenham completado 70 anos de idade devem fazer prova, através de atestado médico a enviar ao director-geral da Administração da Justiça, de que possuem aptidão física para o exercício de funções.\n\n5 - O atestado a que se refere o número anterior será apresentado de dois em dois anos, durante o mês de Janeiro."
+  },
+  "1191478c29da4357": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Formação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formação permanente\n\n1 - Por iniciativa do director-geral da Administração da Justiça, o Centro de Estudos Judiciários realizará acções de formação visando a actualização de conhecimentos dos peritos avaliadores que integrem as respectivas listas.\n\n2 - As acções de formação são efectuadas periodicamente, devendo sê-lo sempre que ocorram alterações significativas no regime jurídico em que se enquadrem as funções dos peritos avaliadores.\n\n3 - A frequência das acções de formação é obrigatória.\n\n4 - Os peritos avaliadores que não compareçam a acções de formação devem justificar a falta, no prazo de cinco dias, perante o director-geral da Administração da Justiça.\n\n5 - Os peritos avaliadores que tenham faltado justificadamente a todas as sessões de acção de formação ou a parte considerada relevante desta devem frequentar a acção de formação subsequente, sem prejuízo do disposto na parte final da alínea d) do n.º 1 do artigo anterior.\n\n6 - O programa das acções de formação é definido pela Direcção-Geral da Administração da Justiça, em colaboração com o Centro de Estudos Judiciários.\n\n7 - A convocatória para a frequência de acções de formação efectua-se por carta registada, para a residência indicada no respectivo processo pelos notificandos, com antecedência não inferior a 30 dias."
+  },
+  "b85b4d512fd6a707": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Renovação das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Renovação das listas\n\n1 - Sempre que ocorram vagas numa determinada lista e existam candidatos admitidos a essa mesma lista e que não preencheram vaga, as mesmas deverão ser preenchidas, no prazo de três anos contados da publicação a que se refere o n.º 2 do artigo 9.º, por inclusão desses candidatos.\n\n2 - Para abertura do concurso é necessária a verificação cumulativa dos seguintes requisitos:\n\na) O número de vagas a preencher corresponda a metade dos lugares da lista;\n\nb) Não existam candidatos admitidos, e não colocados, a essa lista."
+  },
+  "c9b37e0f895063f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Inibição de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inibição de funções\n\nOs peritos avaliadores não podem intervir, como peritos indicados pelas partes, em processos de expropriação que corram em tribunal do distrito judicial ou círculo judicial a que respeite a lista em que se integram."
+  },
+  "17ba4497970a8abc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Impedimentos\n\nPara além dos impedimentos genericamente aplicáveis aos peritos previstos no Código de Processo Civil, os peritos avaliadores, integrem ou não as listas referidas no artigo 2.º, não podem intervir em processos de expropriação litigiosa como árbitros ou peritos nos seguintes casos:\n\na) Quando tenham intervindo anteriormente no processo em litígio como árbitros, avaliadores, mandatários ou tenham dado parecer sobre a questão a resolver;\n\nb) Quando sejam parte no processo por si, como representantes de outra pessoa ou quando nele tenham um interesse que lhes permitisse ser parte principal;\n\nc) Quando, por si ou como representantes de outra pessoa, sejam parte no processo o seu cônjuge, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem vivam em economia comum ou quando alguma destas pessoas tenha, no processo, um interesse que lhe permita figurar nele como parte principal;\n\nd) Quando tenham intervindo no processo como perito o seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem vivam em economia comum;\n\ne) Quando contra eles, seu cônjuge ou parente em linha recta esteja intentada acção judicial proposta pelo expropriado ou pelo respectivo cônjuge;\n\nf) Quando se trate de recurso de decisão proferida com a sua intervenção como perito ou com a intervenção de qualquer das pessoas referidas na alínea d);\n\ng) Quando seja parte a sua entidade empregadora ou equiparada."
+  },
+  "5a3205a8d5addd5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Fundamentos de suspeição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fundamentos de suspeição\n\n1 - Os peritos avaliadores podem pedir que sejam dispensados de intervir no processo como árbitros ou peritos quando ocorra circunstância pela qual possa razoavelmente suspeitar-se da sua isenção e, designadamente:\n\na) Se existir parentesco ou afinidade, não compreendidos no artigo 16.º, em linha recta ou até ao 4.º grau da linha colateral, entre o perito ou o seu cônjuge e alguma das partes ou pessoa que tenha, em relação ao objecto do processo, interesse que lhe permitisse ser nele parte principal;\n\nb) Se houver processo em que seja parte o perito ou seu cônjuge ou algum parente ou afim de qualquer deles em linha recta e alguma das partes for perito nesse processo;\n\nc) Se o perito ou o seu cônjuge, ou algum parente ou afim de qualquer deles em linha recta, for credor ou devedor de alguma das partes;\n\nd) Se o perito tiver recebido dádivas antes ou depois de instaurado o processo e por causa dele ou se tiver fornecido meios para as despesas do processo;\n\ne) Se houver inimizade grave ou grande intimidade entre o perito e alguma das partes.\n\n2 - Com qualquer dos fundamentos enunciados no número anterior podem também as partes interpor um requerimento de recusa do perito."
+  },
+  "f5d50d2cfd2c9e4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Arguição e declaração do impedimento e da suspeição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Arguição e declaração do impedimento e da suspeição\n\n1 - Quando se verifique causa de impedimento em relação a árbitros ou peritos, devem os mesmos comunicar desde logo o facto, respectivamente à entidade expropriante ou ao tribunal.\n\n2 - Até ao dia de realização da diligência podem as partes e os peritos requerer a declaração do impedimento ou da suspeição, especificando as circunstâncias de facto que constituam a sua causa.\n\n3 - Compete ao presidente do tribunal da relação, no caso dos árbitros, ou ao tribunal da comarca, no caso dos peritos, conhecer da existência do impedimento e da suspeição e declará-los, ouvindo, se considerar necessário, os mesmos.\n\n4 - No caso de ser o árbitro a declarar-se impedido, a entidade expropriante requererá a sua substituição ao presidente do tribunal da relação, indicando o fundamento do pedido, sem necessidade de qualquer outra formalidade."
+  },
+  "1c3cffc3b3828ea7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Comunicação da sentença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicação da sentença\n\nO tribunal deve dar conhecimento aos árbitros e peritos por si designados das sentenças proferidas nos processos em que intervieram."
+  },
+  "ff53040559c9e227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Honorários\n\nO pagamento dos honorários apresentados pelos peritos não aguarda o termo do processo."
+  },
+  "2afc6ff3c7b0202e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Laudos periciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Laudos periciais\n\nOs laudos periciais são elaborados de acordo com as normas legais e regulamentares aplicáveis e devem fundamentar claramente o cálculo de valor atribuído."
+  },
+  "05c3d9367115043a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\nEnquanto não se proceder à publicação a que se refere o n.º 3 do artigo 11.º, manter-se-ão em vigor as actuais listas."
+  },
+  "d371269118851910": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime subsidiário\n\nAo concurso a que se refere o artigo 3.º é subsidiariamente aplicável o [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho."
+  },
+  "14d31c42abff1361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Legislação revogada\n\nSão revogados o [Decreto Regulamentar n.º 15/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1998-485444), de 9 de Julho, e o [Decreto-Lei n.º 44/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1994-516033), de 19 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Diogo Campos Barradas de Lacerda Machado - Júlio Domingos Pedrosa da Luz de Jesus.\n\nPromulgado em 23 de Abril de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Abril de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "ae6cb644a8924311": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula as condições de exercício das funções de perito e árbitro no âmbito dos procedimentos anteriores à declaração de utilidade pública e no âmbito do processo de expropriação previsto no Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "e226217b2d6c6eed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Recrutamento dos peritos avaliadores",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 3.º — Recrutamento dos peritos avaliadores\n\n1 - O recrutamento de peritos avaliadores que integram as listas a que se refere o artigo anterior é efectuado mediante concurso ou através de procedimento simplificado, nos termos dos artigos seguintes.\n\n2 - O concurso referido no número anterior é aberto por despacho do director-geral da Administração da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "4bbeb64f0c1144bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Júri do concurso",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 4.º — Júri do concurso\n\n1 - O júri tem a seguinte composição:\n\na) Três personalidades indicadas conjuntamente pelo director do Centro de Estudos Judiciários e pelo director-geral da Administração da Justiça, designando este o presidente;\n\nb) Um arquitecto indicado pela Ordem dos Arquitectos;\n\nc) Um engenheiro indicado pela Ordem dos Engenheiros.\n\n2 - Por despacho do director-geral da Administração da Justiça, sob proposta do director do Centro de Estudos Judiciários, podem ser constituídos júris suplementares sempre que as circunstâncias o exijam.\n\n3 - Os membros do júri têm direito a uma gratificação em função do número de candidatos admitidos, a definir por despacho conjunto dos ministros responsáveis pelas áreas das finanças e da justiça, sob proposta do presidente do júri.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "7a21c63f8eeaebba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos habilitacionais",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos habilitacionais\n\n1 - Podem candidatar-se a peritos avaliadores os indivíduos que sejam possuidores de curso superior adequado e não estejam inibidos do exercício de funções públicas ou interditos para o exercício das respectivas funções.\n\n2 - Os cursos superiores que habilitam ao exercício das funções de perito avaliador são os que constem de portaria conjunta dos ministros responsáveis pelas áreas da justiça, das obras públicas e do ensino superior.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "7acbd45219048d7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Concurso",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 6.º — Concurso\n\nO concurso integra uma prova escrita de conhecimentos e a frequência, com aproveitamento, de um curso de formação, o qual está sujeito a numerus clausus.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "4f43d36104b3c57e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Aviso de abertura do concurso",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 7.º — Aviso de abertura do concurso\n\n1 - O concurso inicia-se com a publicação do respectivo aviso de abertura no Diário da República e de um anúncio do aviso publicado em dois jornais de expansão nacional, sem prejuízo de outras formas de publicidade que se considerem adequadas.\n\n2 - Do aviso de abertura devem constar:\n\na) A declaração de abertura do concurso, o seu prazo de validade, a indicação das listas a constituir ou completar e o número de vagas a preencher;\n\nb) A descrição sumária das funções a exercer pelos peritos avaliadores e os requisitos de admissão ao concurso;\n\nc) A forma e o prazo de apresentação das candidaturas e a indicação dos elementos que as devem instruir, designadamente os mencionados nas alíneas b) a d) do n.º 2 do artigo 10.º;\n\nd) A designação e o endereço da entidade à qual devem ser dirigidas as candidaturas;\n\ne) Os métodos de selecção a utilizar no concurso, a sua avaliação e carácter eliminatório, incluindo a referência à publicação do programa da prova escrita de conhecimentos e do plano do curso;\n\nf) Os critérios de correcção da prova escrita de conhecimentos e a indicação de que as pontuações específicas constam das actas das reuniões do júri do concurso;\n\ng) A indicação do local onde será afixada a lista de candidatos admitidos e não admitidos ao concurso;\n\nh) A composição do júri do concurso, a designação do seu presidente e a indicação das circunstâncias em que podem ser constituídos júris suplementares;\n\ni) O número de candidatos admitidos ao curso de formação;\n\nj) O sistema de classificação final do concurso;\n\nl) A indicação de que o concurso se rege pelo presente diploma e, subsidiariamente, pelas normas aplicáveis do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "2d3c551be7de10d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Prazo de candidatura e lista de candidatos",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 8.º — Prazo de candidatura e lista de candidatos\n\n1 - O prazo para apresentação de candidaturas é de 10 dias úteis a contar da data da publicação do aviso de abertura.\n\n2 - Findo o prazo de apresentação das candidaturas, o júri elabora, no prazo de 15 dias úteis, o projecto de lista dos candidatos admitidos e não admitidos ao concurso, com indicação sucinta dos motivos da não admissão, promovendo, após a audiência prévia dos candidatos, a publicação no Diário da República e a sua afixação nos tribunais da relação, com a indicação da data, local, horário e duração da prova escrita e da composição dos júris suplementares, sempre que for exercida a faculdade a que se refere o n.º 2 do artigo 4.º\n\n3 - Da não admissão cabe recurso para o ministro responsável pela área da justiça, no prazo de cinco dias úteis a contar da data da publicação da lista no Diário da República, devendo o recurso ser decidido em igual período.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "06de335d5b80060b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Métodos de selecção",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 9.º — Métodos de selecção\n\n1 - No concurso são utilizados sucessivamente os seguintes métodos de selecção de candidatos:\n\na) Prova escrita de conhecimentos;\n\nb) Curso de formação.\n\n2 - O programa da prova escrita de conhecimentos e a legislação e a bibliografia recomendadas são aprovados por portaria do ministro responsável pela área da justiça.\n\n3 - A prova efectua-se perante o júri do concurso.\n\n4 - O enunciado da prova é elaborado pelo júri do concurso, contém perguntas e problemas relativos às matérias constantes do programa da prova e inclui a respectiva cotação e os critérios de correcção.\n\n5 - A duração da prova não deve exceder as três horas.\n\n6 - É permitida a consulta de legislação em suporte de papel.\n\n7 - A prova é classificada numa escala valorimétrica de 0 a 20, sendo os candidatos graduados em função dessa classificação e tendo a classificação inferior a 10 valores carácter eliminatório.\n\n8 - Os resultados da prova são afixados nos tribunais da relação e deles cabe reclamação para o júri do concurso, no prazo de cinco dias úteis a partir da afixação, com fundamento em manifesto lapso na classificação, não havendo reapreciação da prova.\n\n9 - As reclamações são decididas em prazo idêntico ao referido no número anterior.\n\n10 - A acta com a classificação e graduação, por ordem decrescente, dos candidatos é submetida a homologação do ministro responsável pela área da justiça e publicada no Diário da República.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "83269bf3775df652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º-A — Curso de formação",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 94/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2009-607757), publicado em 2009-04-27."
+   ],
+   "markdown": "###### Artigo 9.º-A — Curso de formação\n\n1 - O curso a que se refere o artigo anterior é organizado pelo Centro de Estudos Judiciários, que elabora o respectivo plano e regulamento, a aprovar por portaria do membro do Governo responsável pela área da justiça.\n\n2 - São admitidos à frequência do curso os candidatos aprovados na prova escrita de conhecimentos e graduados nos lugares correspondentes ao dobro do número das vagas postas a concurso.\n\n3 - O corpo docente do curso é constituído por indicação conjunta da Direcção-Geral da Administração da Justiça e do Centro de Estudos Judiciários.\n\n4 - No final do curso, os candidatos submetem-se a uma prova de avaliação de conhecimentos perante um júri composto por dois docentes do curso, designados em conjunto pelas entidades referidas no número anterior, e por um presidente, designado pelo director do Centro de Estudos Judiciários.\n\n5 - A prova é classificada numa escala numérica de 0 a 20, tendo carácter eliminatório a classificação inferior a 10 valores.\n\n6 - O resultado da prova é afixado no Centro de Estudos Judiciários e dele cabe reclamação para o júri do curso, no prazo de cinco dias úteis a partir da afixação, com fundamento em manifesto lapso, não havendo reapreciação da prova.\n\n7 - As reclamações são decididas em prazo idêntico ao referido no número anterior.\n\n8 - A classificação do curso é o resultado da prova a que se refere o n.º 4.\n\n> Aditado pelo/a [Decreto-Lei n.º 94/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2009-607757), publicado em 2009-04-27."
+  },
+  "01264589b8da22b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º-B — Classificação final e homologação",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 9.º-B — Classificação final e homologação\n\n1 - A classificação final do concurso, expressa na escala valorimétrica de 0 a 20, resulta da média aritmética simples da nota na prova escrita de conhecimentos e da classificação no curso de formação.\n\n2 - O desempate faz-se, sucessivamente, pela média do curso superior de habilitação, preferindo a mais alta, e pela idade dos candidatos, preferindo os mais velhos.\n\n3 - A acta do júri do concurso com a classificação final e a graduação dos candidatos, por ordem decrescente, é submetida, após audiência prévia dos interessados, a homologação do ministro responsável pela área da justiça e publicada no Diário da República, com indicação dos candidatos que preenchem as vagas.\n\n> Aditado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "e3a9b69b2ba931d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Procedimento simplificado",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 10.º — Procedimento simplificado\n\n1 - Os peritos avaliadores que, à data da entrada em vigor do presente diploma, constem das listas oficiais integram as novas listas, sem submissão a concurso, mediante sujeição ao procedimento simplificado regulado neste artigo, independentemente dos requisitos habilitacionais.\n\n2 - Os peritos avaliadores referidos no número anterior poderão candidatar-se, no prazo estabelecido em aviso publicado no Diário da República, 2.ª série, e em dois jornais de expansão nacional, sem prejuízo de outras formas de publicidade que se considerem adequadas, mediante requerimento dirigido ao director-geral da Administração da Justiça, instruído com os seguintes documentos:\n\na) Documento subscrito pelo candidato em que declare que integra a lista oficial à data da publicação do presente diploma, indicando o respectivo distrito judicial ou círculo judicial, no caso das Regiões Autónomas da Madeira e dos Açores;\n\nb) Declaração, sob compromisso de honra, de que não está inibido do exercício de funções públicas ou interdito para o exercício de funções de perito avaliador;\n\nc) Declaração sobre a sua situação profissional, eventual vínculo de emprego ou equiparado e indicação da entidade empregadora;\n\nd) Certificado de habilitações.\n\n3 - Os peritos avaliadores referidos no n.º 1, caso pretendam beneficiar do procedimento simplificado regulado neste artigo, têm preferência sobre os restantes candidatos no preenchimento das respectivas vagas.\n\n4 - A análise e a selecção das candidaturas são efectuadas por um júri designado pelo director-geral da Administração da Justiça, que preside, cuja composição deverá constar do aviso a que se refere o n.º 2.\n\n5 - Apreciadas as candidaturas, o júri submeterá à homologação do Ministro da Justiça a acta final contendo a indicação dos candidatos admitidos.\n\n6 - A lista dos candidatos admitidos e excluídos será publicada no Diário da República, 2.ª série.\n\n7 - O procedimento previsto neste artigo é prévio à abertura do concurso a que se referem os artigos anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "253bc877479ff6d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º-A — Acção de formação específica",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 10.º-A — Acção de formação específica\n\nA integração nas listas nos termos do artigo 10.º do presente diploma depende da frequência de uma acção de formação a ser organizada pelo Centro de Estudos Judiciários.\n\n> Aditado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "bf16cdbb28836e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Exclusão das listas",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 12.º — Exclusão das listas\n\n1 - São excluídos da lista de peritos avaliadores os peritos que deixem de cumprir os seus deveres funcionais, designadamente:\n\na) Deixem de observar os critérios de avaliação decorrentes da lei;\n\nb) No decurso do ano judicial, deixem de comparecer mais de três vezes, sem justificação, a diligências para que tenham sido regularmente convocados;\n\nc) Não entreguem os relatórios ou os acórdãos nos prazos fixados, sem motivo justificado;\n\nd) Não frequentem o número anual mínimo de acções de formação permanente previstas no artigo seguinte;\n\ne) Não façam prova de aptidão física nos termos do n.º 4.\n\n2 - A exclusão é da competência do director-geral da Administração da Justiça, após audiência prévia escrita do interessado, cabendo aos tribunais ou às entidades expropriantes comunicar àquela Direcção-Geral as faltas ou omissões referidas nas alíneas do número anterior, bem como as vagas que por outros motivos ocorram e de que tenham conhecimento.\n\n3 - A exclusão pelos motivos constantes das alíneas a) e c) do n.º 1 depende de comunicação do presidente da relação do respectivo distrito judicial, na qual devem ser explicitados os motivos susceptíveis de fundamentar a exclusão.\n\n4 - A exclusão de um perito avaliador é comunicada, pela Direcção-Geral da Administração da Justiça, a todos os tribunais do respectivo distrito judicial, produzindo efeitos a partir da recepção da comunicação.\n\n5 - Para o efeito do disposto na alínea e) do n.º 1, os peritos avaliadores que tenham completado 70 anos de idade devem fazer prova, através de atestado médico a enviar ao director-geral da Administração da Justiça, de que possuem aptidão física para o exercício de funções.\n\n6 - O atestado a que se refere o número anterior será apresentado de dois em dois anos, durante o mês de Janeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "321a421543c48ec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Formação permanente",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 13.º — Formação permanente\n\n1 - Por iniciativa do director-geral da Administração da Justiça, o Centro de Estudos Judiciários realizará acções de formação visando a actualização de conhecimentos dos peritos avaliadores que integrem as respectivas listas.\n\n2 - É obrigatória a frequência anual de duas acções constantes do plano de formação trienal elaborado para o efeito pela Direcção-Geral da Administração da Justiça e pelo Centro de Estudos Judiciários.\n\n3 - O plano referido no número anterior é divulgado no sítio da Internet dos organismos aí referidos e afixado nos tribunais da relação.\n\n4 - Os peritos avaliadores que não compareçam a acções de formação devem justificar a falta, no prazo de cinco dias, perante o director-geral da Administração da Justiça.\n\n5 - Os peritos avaliadores que tenham faltado justificadamente a todas as sessões de acção de formação ou a parte considerada relevante desta devem frequentar a acção de formação subsequente, sem prejuízo do disposto na parte final da alínea d) do n.º 1 do artigo anterior.\n\n6 - A convocatória para a frequência de acções de formação efectua-se por carta registada, para a residência indicada no respectivo processo pelos notificandos, com antecedência não inferior a 30 dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "638706447b7fb22d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Renovação das listas",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 14.º — Renovação das listas\n\n1 - Sempre que ocorram vagas numa determinada lista e existam candidatos aprovados no concurso que ainda não tenham preenchido as vagas, aquelas são preenchidas, no prazo de três anos a contar da publicação a que se refere o n.º 3 do artigo 9.º-B, através da inclusão destes candidatos.\n\n2 - Para abertura do concurso é necessária a verificação cumulativa dos seguintes requisitos:\n\na) O número de vagas a preencher corresponda a metade dos lugares da lista;\n\nb) Não existam candidatos admitidos, e não colocados, a essa lista.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "7edb2374c2a8bad1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Inibição de funções",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 15.º — Inibição de funções\n\nOs peritos avaliadores constantes da lista oficial não podem intervir como peritos indicados pelas partes em processos de expropriação que corram em tribunal.\n\n> Alterado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "e651da36eb98b0eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Disposição transitória",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 22.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  },
+  "4b005742772323e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regime subsidiário",
+   "in_force_from": "2009-05-02",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+   ],
+   "markdown": "###### Artigo 23.º — Regime subsidiário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), publicado em 2007-01-19."
+  }
+ }
+}

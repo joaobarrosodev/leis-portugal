@@ -39,10 +39,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-05-12'
+version_history:
+  file: decreto-lei-39-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-05-12'
+    amending: pt:dre:274243:por
+    amending_title: Decreto-Lei n.º 165/93
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:54:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 165/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-39-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,129 +180,87 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Âmbito
 
-O presente diploma regula a concessão de financiamentos ao abrigo de contratos de desenvolvimento para habitação (CDH), no que respeita a:
+(Revogado.)
 
-a) Aquisição e ou infra-estruturação de solos;
-
-b) Construção;
-
-c) Equipamento complementar, desde que devidamente justificada a sua afectação ao empreendimento a que se destina.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 2.º — Conceito
 
-O CDH é um contrato celebrado entre as instituições financiadoras, por si só ou em associação, e as empresas privadas que se dediquem à construção civil, com vista à construção de habitação a custos controlados para venda.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 3.º — Instituições financiadoras
 
-Os empréstimos podem ser concedidos pelas seguintes instituições:
+(Revogado.)
 
-a) Caixa Geral de Depósitos;
-
-b) Crédito Predial Português;
-
-c) Caixa Económica de Lisboa-Montepio Geral;
-
-d) Instituto Nacional de Habitação (INH).
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 4.º — Condições de acesso
 
-As condições de acesso a respeitar pelos promotores são, nomeadamente:
+(Revogado.)
 
-a) Disporem de um alvará adequado ao valor do contrato e à natureza da obra;
-
-b) Terem os respectivos projectos sido aprovados pelo município competente e, a partir de 1992, estarem integrados no Plano Director Municipal (PDM) e no Plano Regional de Ordenamento do Território (PROT) aprovados para a área da situação do empreendimento;
-
-c) Apresentarem uma estrutura financeira equilibrada e demonstrarem a viabilidade de comercialização das habitações;
-
-d) Informação de que anteriores contratos de natureza idêntica foram ou estão a ser regularmente cumpridos;
-
-e) Apresentarem certidões comprovativas da não existência de dívidas fiscais e de dívidas à Segurança Social;
-
-f) Integração dos projectos nos parâmetros e valores definidos para a habitação a custos controlados, nomeadamente no que respeita a tipologias, limites máximos de área bruta e de custo médio de construção por metro quadrado e valores máximos de venda;
-
-g) Quando de CDH a celebrar com grupos de empresas, definirem a responsabilidade de cada uma pela qualidade técnica da construção e pelo conjunto das obrigações contratuais, designadamente quanto à pontual consecução dos objectivos parciais e globais estabelecidos.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 5.º — Valores
 
-Os custos de construção por metro quadrado e os valores de venda das habitações são determinados em função dos limites fixados para a habitação a custos controlados por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, a publicar anualmente durante o mês de Janeiro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 6.º — Condições dos empréstimos
 
-Os empréstimos a conceder para os efeitos previstos no artigo 1.º ficam sujeitos aos seguintes termos e condições:
+(Revogado.)
 
-1) No caso do financiamento à aquisição e ou infra-estruturação de terrenos, de acordo com o disposto na [Portaria n.º 367/87](https://diariodarepublica.pt/dr/detalhe/portaria/367-1987-421226), de 4 de Maio;
-
-2) No caso do financiamento à construção:
-
-a) O montante máximo é fixado pelas instituições financiadoras até 80% do valor global do empreendimento, determinado de acordo com os preços de venda em vigor em cada momento para a habitação a custos controlados;
-
-b) O prazo máximo é de três anos, eventualmente prorrogável por mais dois anos;
-
-c) A taxa de juro é a fixada em cada momento pela instituição financiadora para operações de prazo idêntico;
-
-d) Os empréstimos beneficiam de uma bonificação, a suportar pelo Estado, de um terço da taxa de juro contratual, a inscrever no orçamento da Direcção-Geral do Tesouro a favor do INH, que reembolsará, quando for caso disso, as instituições financiadoras;
-
-e) 50% da bonificação determinada de acordo com o disposto na alínea anterior serão suportados pelos municípios, que reembolsam o INH das quantias pagas a esse título, se razões de política municipal de habitação justificarem que o processo de comercialização dos fogos seja conduzido e orientado pela respectiva câmara municipal;
-
-f) A amortização dos empréstimos é efectuada por contrapartida da comercialização das habitações e ou no termo do prazo que seja definido de acordo com a alínea b);
-
-3) No caso do financiamento ao equipamento complementar, nos termos a regulamentar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 7.º — Apreciação das propostas
 
-1 - Os pedidos de financiamento são apresentados ao INH, devidamente fundamentados, a quem cabe a apreciação das propostas, tendo em conta, nomeadamente, o disposto no artigo 4.º, e a orientação, quando necessária, para a instituição ou instituições de crédito disponíveis.
+(Revogado.)
 
-2 - Face a cada proposta e, designadamente, à dimensão do empreendimento projectado e ao volume de financiamento previsto, o INH decide da eventual necessidade de celebração de mais de um CDH entre as mesmas partes e temporalmente sucessivos.
-
-3 - No caso de aceitação das propostas, compete ao INH coordenar e canalizar para a Direcção-Geral das Contribuições e Impostos as solicitações relativas às isenções fiscais aplicáveis aos CDH previstas no [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 8.º — Controlo da execução do contrato
 
-1 - Cabe à entidade financiadora acompanhar o desenvolvimento da execução dos projectos e programas objecto do contrato, bem como fiscalizar a execução das obras.
+(Revogado.)
 
-2 - As empresas promotoras devem facultar àquelas entidades todos os elementos necessários à averiguação do efectivo cumprimento do contrato e da aplicação dos créditos.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 9.º — Alienação das casas de habitação
 
-As casas de habitação construídas no âmbito de CDH só podem ser alienadas, em primeira transmissão, para habitação própria permanente dos adquirentes e de acordo com as seguintes regras:
+(Revogado.)
 
-a) Com excepção do disposto nas alíneas b) e d), os fogos só podem ser vendidos às pessoas que constem de listas organizadas pelos serviços do INH, mediante avisos publicados nos locais de estilo e nos órgãos de comunicação social mais lidos no município;
-
-b) Os fogos financiados com empréstimos bonificados de acordo com o disposto na alínea e) do n.º 2 do artigo 6.º podem ser vendidos às pessoas que constem de listas organizadas pelos serviços municipais da situação do empreendimento, mediante avisos publicados nos locais de estilo e nos órgãos de comunicação social mais lidos no município;
-
-c) Cabe à empresa contratante ou ainda à empresa mediadora de compra e venda de propriedades, quando devidamente autorizada, promover a comercialização das habitações, devendo para o efeito comunicá-lo ao INH ou ao município, conforme o caso, com a antecedência mínima de 120 dias em relação à data do início da comercialização;
-
-d) O não envio, pelos serviços do INH ou do município, das listas referidas nas alíneas a) e b) até 15 dias após a data marcada para o início da comercialização determina a cessação da limitação aí prevista;
-
-e) Em qualquer dos casos, pode ser dada preferência aos funcionários e agentes da Administração Pública que, em virtude da natureza das suas funções, tenham de fixar residência no município da situação do empreendimento.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 10.º — Segundas transmissões
 
-1 - Os fogos vendidos ao abrigo do disposto neste diploma só podem ser objecto de segunda transmissão decorridos dez anos sobre a aquisição, sem prejuízo de execução de dívidas relacionadas com esta e das quais sejam garantia.
+(Revogado.)
 
-2 - O ónus de inalienabilidade cessa com a morte ou a invalidez permanente e absoluta do adquirente ou do respectivo cônjuge.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 11.º — Garantia
 
-1 - Os empréstimos são garantidos preferencialmente por hipoteca dos terrenos e edificações financiados nos termos do presente diploma, sem prejuízo de outras garantias que as instituições financiadoras, por força das suas regras de gestão e, designadamente, as de segurança, entendam exigir.
+(Revogado.)
 
-2 - Em caso de execução da garantia hipotecária prevista no número anterior, cessa a sujeição aos valores de venda previstos no presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 12.º — Sanções
 
-1 - A aplicação do empréstimo a fim diverso daquele para o qual tenha sido contratado ou a não utilização dos terrenos ou edificações para os fins para que tenham sido financiados determina o reembolso ao Estado, através da instituição financiadora, do montante das bonificações entretanto usufruídas, acrescido de 20% e sem prejuízo de outras sanções legais igualmente aplicáveis.
+(Revogado.)
 
-2 - Quando a situação prevista no número anterior se der com financiamentos do INH para a aquisição de terrenos, aquele pode optar pela cedência obrigatória do terreno a seu favor, pelo valor de aquisição.
-
-3 - Os beneficiários ou adquirentes dos imóveis construídos ao abrigo do presente diploma não podem em caso algum explorar ou dar à exploração as casas ou parte delas para fins de utilização turística, ficando sujeitos, em caso de incumprimento, às sanções previstas no n.º 1 deste artigo, bem como às previstas no artigo 18.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro.
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 13.º — Registos
 
-O regime das habitações construídas ao abrigo do CDH está sujeito a registo predial.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 14.º — Norma transitória
 
-Os custos máximos de construção por metro quadrado de área bruta e os valores máximos de venda das habitações por tipologias dos contratos de desenvolvimento para habitação celebrados e em curso à data da entrada em vigor do presente diploma e ao abrigo do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, são fixados por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 165/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1993-274243), publicado em 1993-05-07.
 
 ###### Artigo 15.º — Norma revogatória
 

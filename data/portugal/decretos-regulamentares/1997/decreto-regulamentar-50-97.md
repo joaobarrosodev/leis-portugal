@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-18'
+version_history:
+  file: decreto-regulamentar-50-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67198365:por
+    amending_title: Decreto-Lei n.º 78/2015
+    changes:
+    - Altera Artigo 5.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/50/1997/11/20/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-50-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,7 +242,9 @@ São órgãos do Parque Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
@@ -279,53 +298,15 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 ###### Artigo 8.º — Conselho consultivo
 
-1 - O conselho consultivo é um órgão de natureza consultiva, constituído pelo presidente da comissão directiva e por um representante de cada uma das seguintes entidades:
+(Revogado.)
 
-a) Universidade de Coimbra:
-
-b) Universidade da Beira Interior;
-
-c) Junta Autónoma de Estradas;
-
-d) Comissão de Coordenação da Região do Centro;
-
-e) Direcção Regional de Agricultura;
-
-f) Região de Turismo da Serra da Estrela;
-
-g) Câmara Municipal de Celorico da Beira;
-
-h) Câmara Municipal da Covilhã;
-
-i) Câmara Municipal de Gouveia;
-
-j) Câmara Municipal da Guarda;
-
-l) Câmara Municipal de Manteigas;
-
-m) Câmara Municipal de Seia;
-
-n) Juntas de freguesia da área do Parque Natural, consideradas em conjunto e em sistema rotativo, com mandato de um ano;
-
-o) Associações de defesa do ambiente, de âmbito regional ou de âmbito nacional, com intervenção na área do Parque Natural.
-
-2 - Os representantes das entidades referidas no número anterior são nomeados por despacho do Ministro do Ambiente, sob proposta das entidades representadas.
-
-3 - O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, dois terços dos membros.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

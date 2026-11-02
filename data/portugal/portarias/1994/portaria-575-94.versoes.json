@@ -1,0 +1,307 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:294696:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9f86962fae2cc081",
+    "35ab71be75405cda",
+    "1ee4ac5ecfe3b3d1",
+    "48c42bf8a89c2d84",
+    "96b373f894a6f96c",
+    "dadd4f693da5f297",
+    "936802b2e44eaa24",
+    "4331ba04e1f89dc9",
+    "1cb0022b1707ac48",
+    "c16d4be31717d9d4",
+    "bfbd935aa6269b8d",
+    "b641140e2d272d54",
+    "e4516a06529449a4",
+    "aea80254cf48f620"
+   ]
+  },
+  {
+   "date": "1998-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:429208:por",
+     "title": "Portaria n.º 446/98",
+     "published": "1998-07-28",
+     "dre_path": "/dr/detalhe/portaria/446-1998-429208"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "9f86962fae2cc081",
+    "35ab71be75405cda",
+    "bb49ef7ece0293fb",
+    "c457fa2490245be8",
+    "1fd237c66b1a966f",
+    "62736c9a7e5b727d",
+    "90a86d002a7eadfc",
+    "a1ecb424c6a2d687",
+    "9d8daf7e74e07041",
+    "3514ad2ae73a3357",
+    "8f5d7cfa77f20620",
+    "69aafa3e41c2c42b",
+    "a8ffad7984b96f7d",
+    "3195e6348b94ac25"
+   ]
+  }
+ ],
+ "fragments": {
+  "9f86962fae2cc081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Julho\n\nO [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, que define o enquadramento do Programa para o Desenvolvimento Económico do Sector das Pescas - PROPESCA, do Quadro Comunitário de Apoio para o período de 1994 a 1999, estipula no seu artigo 2.º que os regimes de apoio nele previstos sejam definidos por portaria.\n\nAssim, manda o Governo, pelo Ministro do Mar, o seguinte:\n\n1.º É aprovado o Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura, no âmbito do Programa para o Desenvolvimento Económico do Sector das Pescas - PROPESCA, que faz parte integrante da presente portaria.\n\n2.º A presente portaria entra imediatamente em vigor.\n\nMinistério do Mar.\n\nAssinada em 28 de Junho de 1994.\n\nO Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.\n\nRegulamento do Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura"
+  },
+  "35ab71be75405cda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - O presente Regulamento estabelece o Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura, previsto no [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, que cria o Programa para o Desenvolvimento Económico do Sector das Pescas - PROPESCA.\n\n2 - Este Regime tem como objectivo:\n\na) Apoiar a melhoria da capacidade concorrencial e aumentar o valor acrescentado dos produtos da pesca e da aquicultura;\n\nb) Apoiar a modernização e reestruturação das unidades fabris, adequando-as à regulamentação em vigor nas áreas hígio-sanitárias, técnico-funcionais e ambientais;\n\nc) Apoiar o desenvolvimento e modernização dos circuitos de comercialização de pescado;\n\nd) Apoiar a cooperação empresarial e o reforço da capacidade técnica das empresas."
+  },
+  "1ee4ac5ecfe3b3d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Podem apresentar candidaturas ao apoio para a transformação e comercialização dos produtos da pesca e da aquicultura as pessoas individuais ou colectivas que estejam legalmente constituídas à data de apresentação da candidatura.\n\n2 - As candidaturas devem incluir projecto técnico demonstrativo do cumprimento das normas nacionais e comunitárias relativamente a condições hígio-sanitárias, técnico-funcionais e ambientais bem como estudo de viabilidade económica e financeira."
+  },
+  "48c42bf8a89c2d84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Projectos não admissíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Projectos não admissíveis\n\nSão excluídos os projectos que:\n\na) Não se enquadrem nas necessidades e objectivos da política de pescas;\n\nb) Se destinem ao aumento de produção ou de oferta em áreas em que já exista excesso de capacidade instalada;\n\nc) Sejam destinados à transformação de pescado com finalidade que não seja o consumo humano, excepto quando se tratar de projectos destinados exclusivamente ao tratamento e transformação dos resíduos de unidades processadoras de pescado;\n\nd) Impliquem um investimento global inferior a 20000 contos;\n\ne) Sejam financiados por crédito-locação, com ou sem opção de compra (leasing)."
+  },
+  "96b373f894a6f96c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critérios de selecção\n\nPara efeitos de concessão de apoio aos projectos de transformação e comercialização, será dada prioridade às candidaturas que satisfaçam as seguintes condições:\n\na) Sejam apresentadas colectivamente por várias empresas ou organizações de produtores;\n\nb) Promovam alianças estratégicas ou outras formas de cooperação empresarial com vista ao aumento da capacidade concorrencial;\n\nc) Visem a modernização e reestruturação de unidades existentes, adequando-as às exigências legais nas áreas hígio-sanitárias, técnico-funcionais, ambientais e dos mercados;\n\nd) Introduzam novos equipamentos e tecnologias aos níveis fabril, de gestão e do produto;\n\ne) Melhorem as redes de distribuição e comercialização do pescado, em especial no interior do País;\n\nf) Sejam apresentadas por organizações de produtores ou por empresas industriais visando uma maior integração vertical dos circuitos e um maior envolvimento na área comercial;\n\ng) Aumentem o valor acrescentado dos produtos da pesca e da aquicultura e melhorem a sua qualidade;\n\nh) Reduzam a necessidade de utilização de consumo energético ou optem pela utilização de energias alternativas."
+  },
+  "dadd4f693da5f297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\nPara efeitos de concessão de apoio, são elegíveis as seguintes despesas:\n\na) Construção e aquisição de edifícios e instalações directamente relacionados com o projecto;\n\nb) Aquisição de novos equipamentos necessários ao processo de transformação e comercialização de produtos da pesca e da aquicultura, incluindo, nomeadamente, equipamento informático e telemático;\n\nc) Implementação e utilização de novas tecnologias com vista a aumentar a competitividade industrial e comercial, o valor acrescentado dos produtos da pesca e da aquicultura e a diminuição do consumo energético;\n\nd) Entrepostos frigoríficos vocacionados para a melhoria das redes de distribuição e comercialização dos produtos da pesca e da aquicultura, em particular nas regiões mais carenciadas;\n\ne) Veículos de transporte de produtos da pesca e da aquicultura em regime de temperatura dirigida;\n\nf) Iniciativas de investigação ou de formação directamente relacionadas com o projecto."
+  },
+  "936802b2e44eaa24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas não elegíveis\n\nNão são elegíveis para efeitos de concessão de apoio as seguintes despesas:\n\na) Aquisição de terrenos;\n\nb) Aquisição de material de escritório, excepto equipamento informático e telemático;\n\nc) Obras de embelezamento e equipamentos de recreio;\n\nd) Despesas de funcionamento;\n\ne) Aquisição de equipamentos dispensáveis à exequibilidade do projecto;\n\nf) Material cuja duração, em média, seja inferior a três anos;\n\ng) Investimentos não materiais, nomeadamente despesas de pré-financiamento, de constituição de processo de empréstimo e de constituição de fundos de maneio;\n\nh) Investimentos não comprovados documentalmente e insusceptíveis de verificação;\n\ni) Trabalhos iniciados antes da apresentação do projecto;\n\nj) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário."
+  },
+  "4331ba04e1f89dc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Montante dos apoios\n\n1 - O Estado Português comparticipa nos montantes de investimento elegível em 15% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 50%.\n\n2 - A comparticipação do Estado Português pode assumir as modalidades constantes do artigo 4.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, bonificação de juros, ajudas financeiras a fundo perdido ou subsídios reembolsáveis."
+  },
+  "1cb0022b1707ac48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - Os interessados na obtenção dos apoios previstos no presente Regulamento apresentarão na Direcção-Geral das Pescas (DGP) os processos de candidatura até aos dias 31 de Março e 31 de Agosto de cada ano.\n\n2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos da verificação das condições previstas neste Regulamento.\n\n3 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.\n\n4 - A apreciação técnica e administrativa dos processos compete à DGP."
+  },
+  "c16d4be31717d9d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Indeferimento das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Indeferimento das candidaturas\n\n1 - São indeferidos os processos de candidatura que:\n\na) Não sejam objecto de despacho favorável do Ministro do Mar;\n\nb) Não supram as deficiências notificadas pela DGP ou pelo IFADAP no prazo de 15 dias, se prazo maior não for expressamente concedido.\n\n2 - Podem igualmente ser indeferidos os processos de candidatura apresentados por proponentes que, tendo projectos aprovados anteriormente, não hajam celebrado contrato por causa que lhes seja imputável, não tenham iniciado a execução dos projectos nos prazos fixados ou não tenham executado os mesmos de acordo com o contratualmente assumido."
+  },
+  "bfbd935aa6269b8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Atribuição do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atribuição do apoio\n\n1 - O contrato de atribuição de apoio é celebrado entre o candidato e o IFADAP no prazo de 60 dias após comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.\n\n3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante a segurança social."
+  },
+  "b641140e2d272d54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nPara os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data de notificação para início de execução;\n\nb) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;\n\nc) Fornecer todos os elementos que forem solicitados pela DGP, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos."
+  },
+  "e4516a06529449a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Alterações ao projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alterações ao projecto\n\nPodem ser propostas alterações aos projectos aprovados, desde que se trate de alterações técnicas que não alterem a concepção estrutural e económica do projecto inicial."
+  },
+  "aea80254cf48f620": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - No ano de 1994 os processos de candidatura serão apresentados até 15 de Setembro.\n\n2 - Os processos de candidatura apresentados a partir de 1 de Janeiro de 1994 são enquadrados no presente Regime de Apoio.\n\n3 - Os trabalhos iniciados antes da apresentação da candidatura mas após 1 de Janeiro de 1994 são elegíveis durante este ano civil."
+  },
+  "bb49ef7ece0293fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\n1 - Podem apresentar candidaturas ao apoio para a transformação e comercialização dos produtos da pesca e da aquicultura as pessoas individuais e colectivas, públicas ou privadas, que:\n\na) Estejam legalmente constituídas à data da apresentação da candidatura;\n\nb) Estejam devidamente licenciadas para o exercício da actividade.\n\n2 - As candidaturas devem incluir projecto técnico demonstrativo do cumprimento das normas nacionais e comunitárias relativamente a condições hígio-sanitárias, técnico-funcionais e ambientais bem como estudo de viabilidade económica e financeira.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "c457fa2490245be8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Projectos não admissíveis",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 3.º — Projectos não admissíveis\n\nSão excluídos os projectos que:\n\na) Não se enquadrem nos objectivos previstos no artigo 1.º;\n\nb) Se destinem ao aumento de produção ou de oferta em áreas em que já exista excesso de capacidade instalada;\n\nc) Sejam destinados à transformação de pescado com finalidade que não seja o consumo humano, excepto quando se tratar de projectos destinados exclusivamente ao tratamento e transformação dos resíduos de unidades processadoras de pescado;\n\nd) Impliquem investimento global inferior a 20000 contos, salvo no caso de projectos relativos a centros de depuração, em que o mínimo será de 5000 contos;\n\ne) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "1fd237c66b1a966f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Critérios de prioridade",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 4.º — Critérios de prioridade\n\nPara efeitos de concessão de apoio aos projectos de transformação e comercialização, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:\n\na) Sejam apresentadas colectivamente por várias empresas ou organizações de produtores;\n\nb) Promovam alianças estratégicas ou outras formas de cooperação empresarial com vista ao aumento da capacidade concorrencial;\n\nc) Visem a modernização e reestruturação de unidades existentes, adequando-as às exigências legais nas áreas hígio-sanitárias, técnico-funcionais, ambientais e dos mercados;\n\nd) Introduzam novos equipamentos e tecnologias aos níveis fabril, de gestão e do produto;\n\ne) Melhorem as redes de distribuição e comercialização do pescado, em especial no interior do País;\n\nf) Sejam apresentadas por organizações de produtores ou por empresas industriais visando uma maior integração vertical dos circuitos e um maior envolvimento na área comercial;\n\ng) Aumentem o valor acrescentado dos produtos da pesca e da aquicultura e melhorem a sua qualidade;\n\nh) Reduzam a necessidade de utilização de consumo energético ou optem pela utilização de energias alternativas.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "62736c9a7e5b727d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\nPara efeitos de concessão de apoio, são elegíveis as seguintes despesas:\n\na) Construção e aquisição de edifícios e instalações directamente relacionados com o projecto;\n\nb) Aquisição de novos equipamentos necessários ao processo de transformação e comercialização de produtos da pesca e da aquicultura, incluindo, nomeadamente, equipamento informático e telemático;\n\nc) Implementação e utilização de novas tecnologias com vista a aumentar a competitividade industrial e comercial, o valor acrescentado dos produtos da pesca e da aquicultura e a diminuição do consumo energético;\n\nd) Entrepostos frigoríficos vocacionados para a melhoria das redes de distribuição e comercialização dos produtos da pesca e da aquicultura, em particular nas regiões mais carenciadas;\n\ne) Veículos de transporte de produtos da pesca e da aquicultura em regime de temperatura dirigida;\n\nf) Iniciativas de investigação ou de formação directamente relacionadas com o projecto.\n\ng) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "90a86d002a7eadfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas não elegíveis",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 6.º — Despesas não elegíveis\n\nNão são elegíveis para efeitos de concessão de apoio as seguintes despesas:\n\na) Aquisição de terrenos;\n\nb) Aquisição de material de escritório, excepto equipamento informático e telemático;\n\nc) Obras de embelezamento e equipamentos de recreio;\n\nd) Despesas de funcionamento;\n\ne) Aquisição de equipamentos dispensáveis à exequibilidade do projecto;\n\nf) Material cuja duração, em média, seja inferior a três anos;\n\ng) Investimentos não materiais, nomeadamente despesas de pré-financiamento, de constituição de processo de empréstimo e de constituição de fundos de maneio;\n\nh) Investimentos não comprovados documentalmente e insusceptíveis de verificação;\n\ni) Trabalhos iniciados antes da apresentação do projecto;\n\nj) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário.\n\nl) Aquisição de material em segunda mão.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "a1ecb424c6a2d687": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Montante dos apoios",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 7.º — Montante dos apoios\n\n1 - O Estado Português comparticipa nos montantes de investimento elegível em 15% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 50%.\n\n2 - Os investimentos promovidos por entidades públicas são comparticipados pelo Estado Português em 25% das despesas elegíveis e pelo IFOP em 75% das mesmas despesas.\n\n3 - A comparticipação do Estado Português pode assumir as modalidades constantes do artigo 4.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, bonificação de juros, ajudas financeiras a fundo perdido ou subsídios reembolsáveis.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "9d8daf7e74e07041": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou respectiva direcção regional.\n\n2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos de que a situação contributiva perante o Estado e a segurança social se encontra regularizada, bem como de todos os demais comprovativos da verificação das condições previstas neste Regulamento.\n\n3 - O não suprimento de deficiências de instrução do processo, devidamente notificadas aos candidatos, determina o indeferimento do processo respectivo.\n\n4 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.\n\n5 - A apreciação técnica e administrativa dos processos compete à DGP.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "3514ad2ae73a3357": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Indeferimento das candidaturas",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 9.º — Indeferimento das candidaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "8f5d7cfa77f20620": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Atribuição do apoio",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 10.º — Atribuição do apoio\n\n1 - O contrato de atribuição de apoio é celebrado entre o candidato e o IFADAP no prazo de 60 dias após comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.\n\n3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "69aafa3e41c2c42b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nPara os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão do contrato de atribuição do apoio, nomeadamente, as seguintes obrigações:\n\na) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior;\n\nb) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;\n\nc) Fornecer todos os elementos que forem solicitados pela DGP, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos.\n\nd) Constituir um seguro pelo montante mínimo correspondente ao valor das ajudas concedidas, sempre que esteja em causa a construção ou aquisição de edifícios ou instalações.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "a8ffad7984b96f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Alterações ao projecto",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 12.º — Alterações ao projecto\n\n1 - Podem ser propostas alterações aos projectos aprovados, desde que se trate de alterações técnicas que não alterem a concepção estrutural e económica do projecto inicial.\n\n2 - Qualquer alteração aos projectos aprovados carece de autorização prévia a ser solicitada à Direcção-Geral das Pescas e Aquicultura.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  },
+  "3195e6348b94ac25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Data limite para apresentação de candidaturas",
+   "in_force_from": "1998-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+   ],
+   "markdown": "###### Artigo 13.º — Data limite para apresentação de candidaturas\n\nA data limite para apresentação de candidaturas é 30 de Junho de 1999.\n\n> Alterado pelo/a [Portaria n.º 446/98](https://diariodarepublica.pt/dr/detalhe/portaria/446-1998-429208), publicado em 1998-07-28."
+  }
+ }
+}

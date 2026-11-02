@@ -28,10 +28,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-18'
+version_history:
+  file: decreto-lei-41-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-18'
+    amending: pt:dre:685043:por
+    amending_title: Decreto Regulamentar n.º 46/97
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º-A
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:22:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 46/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-41-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,19 +150,21 @@ De referir ainda o potencial recreativo que a mata representa, numa zona com uma
 
 O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - É criada, ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural das Dunas de S. Jacinto.
+###### Artigo 1.º
 
-Art. 2.º - A área da Reserva Natural das Dunas de S. Jacinto tem os seguintes limites (anexo A):
+(Revogado.)
 
-a) A norte, o limite das freguesias de S. Jacinto e Torreira, que é também limite dos concelhos de Aveiro e Murtosa;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-b) A sul, a denominada Estrada da Areia e o aceiro I e seu alinhamento até ao mar;
+###### Artigo 2.º-A
 
-c) A leste, a estrada nacional n.º 327;
+(Revogado.)
 
-d) A oeste, o oceano Atlântico.
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-Art. 3.º - 1 - Na área da Reserva ficam definidas as seguintes zonas com utilização específica, de acordo com o mapa anexo ao presente diploma (anexo B):
+###### Artigo 3.º
+
+1 - Na área da Reserva ficam definidas as seguintes zonas com utilização específica, de acordo com o mapa anexo ao presente diploma (anexo B):
 
 a) Reserva de recreio, que inclui as seguintes áreas:
 
@@ -158,15 +186,15 @@ Estas três áreas devem ser defendidas de toda a acção humana.
 
 2 - A Reserva será sinalizada no terreno por placas de modelos aprovados pelo Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
 
-Art. 4.º - 1 - Na reserva de recreio é permitido:
+###### Artigo 4.º
 
-a) O livre desembarque e acesso de pessoas, em lugares próprios;
+(Revogado.)
 
-b) Acampar nos locais para o efeito designados.
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-2 - Nas áreas destinadas a campismo aplicar-se-á a legislação geral dos parques de campismo.
+###### Artigo 5.º
 
-Art. 5.º - 1 - Na reserva natural integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
+1 - Na reserva natural integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
 
 2 - A proibição de acesso constante do número anterior não abrange:
 
@@ -176,89 +204,59 @@ b) Os agentes das autoridades com jurisdição na área, em missão de serviço;
 
 c) Os visitantes com fins científicos ou outros de interesse relevante, devidamente credenciados pelo director da Reserva.
 
-Art. 6.º Em casos excepcionais, devidamente reconhecidos pelo director, ouvidos o conselho geral e a comissão científica da Reserva, será permitida a captura de animais, plantas ou material geológico, exclusivamente com fins científicos, em qualquer área da Reserva.
+###### Artigo 6.º
 
-Art. 7.º É proibido em toda a área da Reserva Natural das Dunas de S. Jacinto, constituindo contravenção:
+(Revogado.)
 
-a) O sobrevoo por aeronaves que circulem com o tecto de voo inferior a 200 m;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-b) A utilização de aparelhos de amplificação sonora e de radiodifusão, excepto quando usados no interior de edifícios, desde que não audíveis no exterior;
+###### Artigo 7.º
 
-c) Construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação sem autorização prévia do director, ouvido o conselho geral em casos devidamente fundamentados.
+(Revogado.)
 
-Art. 8.º Na reserva de recreio e na reserva natural parcial é interdito, constituindo contravenção:
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-a) Transitar fora dos caminhos, arrifes e aceiros a estabelecer no plano de ordenamento;
+###### Artigo 8.º
 
-b) Qualquer forma de caça ou captura de espécies animais, fora dos casos especiais que o director, ouvidos o conselho geral e a comissão científica da Reserva, venha a ressalvar especificadamente por motivos ponderosos;
+(Revogado.)
 
-c) Destruir ou danificar luras e ninhos e apanhar ovos;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-d) Colher plantas ou partes de plantas, salvo nas operações de limpeza de espécies vegetais ou abate de árvores incluídas nos planos de exploração florestal;
+###### Artigo 9.º
 
-e) Introduzir espécies animais ou vegetais exóticas;
+(Revogado.)
 
-f) Fazer lume fora dos locais para o efeito estabelecidos;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-g) Abandonar detritos ou quaisquer formas de lixo fora dos recipientes destinados a esse fim;
+###### Artigo 10.º
 
-h) Proceder a qualquer alteração do relevo natural, excepto as que se destinem aos fins da própria Reserva, desde que autorizadas pelo seu director, ouvidos o conselho geral e a comissão científica;
+(Revogado.)
 
-i) Instalar barracas, tendas de campismo ou caravanas fora das zonas para o efeito indicadas;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-j) A utilização de qualquer tipo de veículo terrestre e motores, excepto os adstritos à Câmara Municipal de Aveiro, Junta da Freguesia de S. Jacinto, Direcção-Geral de Ordenamento e Gestão Florestal, Direcção-Geral dos Serviços de Fomento Marítimo, Junta Autónoma do Porto de Aveiro (Direcção-Geral de Portos), Núcleo Português de Estudo e Protecção da Vida Selvagem e Serviço Nacional de Parques, Reservas e Património Paisagístico, quando em missão de serviço para a Reserva ou por motivos fortemente imperativos.
+###### Artigo 11.º
 
-Art. 9.º - 1 - As contravenções previstas nos artigos anteriores, sem prejuízo de outras sanções aplicáveis de acordo com a legislação geral em vigor, são punidas pelo director da Reserva com as seguintes multas, dentro dos montantes que se indicam:
+(Revogado.)
 
-a) 1000$00 a 10000$00, no que se refere ao artigo 8.º e alínea b) do artigo 7.º;
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-b) 5000$00 a 25000$00, no que se refere ao n.º 1 do artigo 5.º;
+###### Artigo 12.º
 
-c) 5000$00 a 50000$00, no que se refere às alíneas a) e c) do artigo 7.º
+(Revogado.)
 
-2 - Por proposta do director da Reserva, ouvido o conselho geral, a actualização das multas efectuar-se-á, se necessário, durante o mês de Janeiro dos anos pares, mediante despacho do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente.
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-3 - A aplicação da multa prevista na alínea c) do artigo 7.º não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados.
+###### Artigo 13.º
 
-4 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado, o director da Reserva mandará proceder à demolição coerciva e às obras necessárias para reposição do estado anterior ou, não havendo lugar a demolição, à reposição do estado anterior, tudo à custa do infractor. Quando este não pague voluntariamente tais despesas no prazo de trinta dias, contados da notificação por carta registada, a cobrança será efectuada por via judicial, servindo o auto e nota de despesas de título executivo.
+(Revogado.)
 
-Art. 10.º - 1 - A fiscalização compete:
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
-a) Aos vigilantes do Serviço Nacional de Parques, Reservas e Património Paisagístico;
+###### Artigo 14.º
 
-b) Aos guardas florestais da Direcção-Geral do Ordenamento e Gestão Florestal;
+(Revogado.)
 
-c) E a todas as entidades representadas no conselho geral da Reserva Natural das Dunas de S. Jacinto.
-
-2 - O policiamento é da competência da Capitania do Porto de Aveiro, da Comissão Venatória Regional, da GNR, da Guarda Fiscal e dos guardas florestais.
-
-3 - A administração do domínio público hídrico na área da Reserva será exercida pelas autoridades a que estiver atribuída, sem prejuízo nem interferência de competências.
-
-4 - As infracções ao disposto neste diploma serão participadas pelos agentes aos seus superiores hierárquicos, que os encaminharão, para decisão, ao director da Reserva.
-
-Art. 11.º - 1 - A Reserva Natural das Dunas de S. Jacinto, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, disporá dos seguintes órgãos e serviços:
-
-a) Director;
-
-b) Conselho geral;
-
-c) Comissão científica;
-
-d) Serviços técnicos.
-
-2 - Do conselho geral farão parte, além do director, um representante indicado por cada uma das seguintes entidades: Câmara Municipal de Aveiro, Direcção-Geral do Ordenamento e Gestão Florestal, Junta Autónoma do Porto de Aveiro (Direcção-Geral de Portos), Direcção-Geral dos Serviços de Fomento Marítimo, Instituto de Gestão e Estruturação Fundiária, Junta de Freguesia de S. Jacinto e um vogal da comissão científica.
-
-3 - Da comissão científica farão parte, além do director da Reserva, os representantes indicados pela Universidade de Aveiro e pelo Núcleo Português de Estudo e Protecção da Vida Selvagem.
-
-4 - Os serviços administrativos da Reserva ficarão a cargo dos serviços centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.
-
-Art. 12.º - 1 - As despesas resultantes da execução do presente diploma, e bem assim as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada, serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
-
-2 - Exceptuam-se as despesas com a exploração florestal da mata, bem como as relativas a obras nos edifícios da Direcção-Geral do Ordenamento e Gestão Florestal.
-
-Art. 13.º Por portaria do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente, poderá ser criada uma zona de protecção à Reserva, na qual serão aplicadas, no todo ou em parte, as medidas restritivas e punitivas previstas neste diploma.
-
-Art. 14.º As dúvidas que se suscitarem na execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente e dos titulares de outros departamentos do Estado interessados.
+> Revogado pelo/a [Decreto Regulamentar n.º 46/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1997-685043), publicado em 1997-11-17.
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal - João Orlindo Almeida Pina.
 

@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-20'
+version_history:
+  file: decreto-lei-179-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-20'
+    amending: pt:dre:393232:por
+    amending_title: Decreto-Lei n.º 320-D/2000
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/179/2000/08/09/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 320-D/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-179-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,9 +180,15 @@ Os requerimentos dos interessados deverão ser apresentados no Conselho Superior
 
 ###### Artigo 5.º — Provas públicas
 
-1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará um júri composto por cinco membros, dos quais quatro serão membros do Conselho Superior da Magistratura e um será psicólogo, presidido pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.
+1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará uma comissão de avaliação composta por cinco elementos, todos membros do Conselho Superior da Magistratura, e presidida pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.
 
-2 - Para a avaliação das provas escritas, o júri poderá cooptar outros elementos de entre docentes universitários dos cursos de Direito ou juízes conselheiros ou desembargadores.
+2 - Para a realização e avaliação das provas escritas e orais, a comissão de avaliação cooptará outros elementos de entre docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos.
+
+3 - A comissão de avaliação constituirá com os docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos cooptados para o efeito, júris compostos por cinco membros, de entre os quais um será, obrigatoriamente, nomeado presidente de júri e outro será psicólogo, com vista à realização e avaliação simultânea das provas públicas orais, podendo fazer parte desses júris os elementos da referida comissão de avaliação.
+
+4 - O perfil psicológico e emocional do candidato que se revele inadequado ao exercício temporário das funções de juiz será impeditivo desse exercício, mediante parecer técnico do psicólogo, que não terá carácter vinculativo, e deliberação favorável e devidamente fundamentada do júri respectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 320-D/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-d-2000-393232), publicado em 2000-12-15.
 
 ###### Artigo 6.º — Provas escritas e orais
 
@@ -204,9 +226,11 @@ e) Os candidatos que nas provas de ingresso ao Centro de Estudos Judiciários te
 
 2 - Na graduação dos candidatos são ponderadas as classificações obtidas nas provas prestadas e o currículo do candidato, passível de uma pontuação mínima de 10 valores.
 
-3 - A graduação é decidida pelo júri, à pluralidade de votos, tendo o presidente voto de desempate.
+3 - A graduação final dos candidatos é decidida pela comissão de avaliação, à pluralidade de votos, tendo o presidente voto de desempate, podendo ser convidados a participar nas reuniões para o efeito realizadas, a título meramente consultivo, os presidentes dos júris, bem como os psicólogos intervenientes nos mesmos.
 
 4 - O voto do psicólogo poderá ser eliminatório, mediante deliberação devidamente fundamentada do júri.
+
+> Alterado pelo/a [Decreto-Lei n.º 320-D/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-d-2000-393232), publicado em 2000-12-15.
 
 ###### Artigo 9.º — Matérias
 

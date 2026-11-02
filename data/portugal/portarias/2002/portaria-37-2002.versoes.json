@@ -1,0 +1,297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:585182:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75708426df90a14d",
+    "34329b4a04af02ea",
+    "c2fc40495dd8580d",
+    "67616ba9c2422648",
+    "ccdaf0bb2ab86e9a",
+    "82ddfb2ee959ba9a",
+    "1de40fb1045b325e",
+    "e80165ec17e5532e",
+    "1354aac808d02eaa",
+    "8b4cb2a3c2b404d1",
+    "28a31d51d98fd23d",
+    "1db094f86da4efa4",
+    "73785fc180ac3ae9",
+    "46411de9af3f9292",
+    "8922bb69b863e10c",
+    "21c92a087a2efcf9",
+    "484a2bb1d0ab823a",
+    "565883b8c2136079",
+    "aa5508b5f92b30d4"
+   ]
+  },
+  {
+   "date": "2007-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:633169:por",
+     "title": "Portaria n.º 901/2003",
+     "published": "2003-08-28",
+     "dre_path": "/dr/detalhe/portaria/901-2003-633169"
+    },
+    {
+     "id": "pt:dre:519978:por",
+     "title": "Portaria n.º 403/2007",
+     "published": "2007-04-10",
+     "dre_path": "/dr/detalhe/portaria/403-2007-519978"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::2.º",
+    "Altera Artigo ANEXO::3.º",
+    "Altera Artigo ANEXO::5.º",
+    "Altera Artigo ANEXO::8.º",
+    "Altera Artigo ANEXO::9.º",
+    "Altera Artigo ANEXO::11.º"
+   ],
+   "fragments": [
+    "75708426df90a14d",
+    "34329b4a04af02ea",
+    "c2fc40495dd8580d",
+    "20ef44a0df1f2824",
+    "a7bb1064ebbef084",
+    "82ddfb2ee959ba9a",
+    "842376afec8bed08",
+    "e80165ec17e5532e",
+    "1354aac808d02eaa",
+    "acbe967b60cab654",
+    "f1e751e83e7fdf8d",
+    "1db094f86da4efa4",
+    "3c948eb755e0a27f",
+    "46411de9af3f9292",
+    "8922bb69b863e10c",
+    "21c92a087a2efcf9",
+    "484a2bb1d0ab823a",
+    "565883b8c2136079",
+    "aa5508b5f92b30d4"
+   ]
+  }
+ ],
+ "fragments": {
+  "75708426df90a14d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Janeiro\n\nO [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio, aprovou o enquadramento das medidas de política económica para o desenvolvimento estratégico dos diversos sectores da actividade económica através de apoios aos agentes económicos e à envolvente empresarial para o período de 2000 a 2006.\n\nO presente diploma vem regular a medida «Inovação financeira», no âmbito da consolidação e alargamento das formas de financiamento das empresas, como medida de actuação sobre a envolvente empresarial.\n\nEsta medida pretende contribuir para a criação de um ambiente de inovação financeira propício ao alargamento da oferta de produtos e serviços financeiros e à consequente dinamização da procura, suscitando a adopção de novas práticas e instrumentos por PME - micro, pequenas e médias empresas na gestão do financiamento.\n\nAssim, ao abrigo do disposto na alínea d) do artigo 7.º e no artigo 20.º do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio, manda o Governo, pelos Ministros das Finanças e da Economia, que seja criada a medida «Inovação financeira», regulamentada nos termos do anexo à presente portaria, da qual faz parte integrante.\n\nEm 30 de Novembro de 2001.\n\nO Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Economia, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Indústria, Comércio e Serviços."
+  },
+  "34329b4a04af02ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE EXECUÇÃO DA MEDIDA «INOVAÇÃO FINANCEIRA»"
+  },
+  "c2fc40495dd8580d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nPelo presente Regulamento são definidas as regras de execução da medida «Inovação financeira»."
+  },
+  "67616ba9c2422648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente medida abrange as seguintes acções:\n\na) Acção A, «Criação de veículos para a capitalização de PME»;\n\nb) Acção B, «Constituição e reforço dos mecanismos de garantia».\n\n2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento."
+  },
+  "ccdaf0bb2ab86e9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Acção A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acção A\n\n1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.\n\n2 - Para a prossecução deste objectivo, serão criados os seguintes instrumentos:\n\na) Linha de financiamento a veículos de investimento mobiliário e imobiliário, com vista à subscrição de títulos emitidos por entidades especializadas naquele domínio, para a realização de investimentos que concorram para o reforço dos capitais próprios das PME ou para a disponibilização de activos fixos essenciais ao exercício da actividade empresarial, adiante designada por acção A1;\n\nb) Fundo de Sindicação e Desconto de Participações (FSDP), que terá por objecto a realização de operações combinadas na área do capital de risco, através do investimento e da concessão de financiamentos a entidades especializadas naquele domínio, tendo em vista o reforço dos capitais próprios de PME que desenvolvam actividade nos sectores abrangidos no âmbito do POE, adiante designado por acção A2."
+  },
+  "82ddfb2ee959ba9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Acção B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acção B\n\n1 - A acção B visa proporcionar o reforço da capacidade de acesso das PME ao crédito e a sua contratação em condições mais ajustadas, nomeadamente para acorrer a necessidades de investimento e de reforço dos capitais permanentes.\n\n2 - Para prosseguir os objectivos desta acção, promover-se-á:\n\na) O reforço do Fundo de Contragarantia Mútuo (FCGM), criado pelo [Decreto-Lei n.º 229/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1998-425290), de 22 de Julho, dimensionando-o por forma a assegurar níveis adequados de capitalização e solvência, adiante designado por acção B1;\n\nb) A constituição ou o reforço do capital social de sociedades de garantia mútua (SGM), com o intuito de assegurar a necessária abrangência regional e sectorial na disponibilização deste instrumento, permitindo aumentar significativamente o universo das empresas aderentes, adiante designado por acção B2;\n\nc) A constituição do Fundo de Garantia para Titularização de Créditos (FGTC), que terá por objecto a partilha do risco assumido por investidores na aquisição de títulos representativos de direitos de crédito relativos a PME, adiante designado por acção B3."
+  },
+  "1de40fb1045b325e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\nSerão apoiadas as seguintes entidades beneficiárias:\n\na) Acção A1 - entidades especializadas no âmbito de actuação previsto nesta acção;\n\nb) Acção A2 - Fundo de Sindicação e Desconto de Participações;\n\nc) Acção B1 - Fundo de Contragarantia Mútuo;\n\nd) Acção B2 - sociedades de garantia mútua;\n\ne) Acção B3 - Fundo de Garantia para Titularização de Créditos."
+  },
+  "e80165ec17e5532e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade\n\nAs entidades beneficiárias deverão cumprir as seguintes condições:\n\na) Encontrarem-se legalmente constituídas;\n\nb) Serem promovidas por entidades com particular vocação e experiência na gestão e desenvolvimento de veículos financeiros especialmente dirigidos às PME ou que estejam directamente relacionadas com as linhas de actuação em que se inserem os projectos a realizar;\n\nc) Demonstrarem, nomeadamente pelas actividades anteriormente desenvolvidas, adequada vocação e experiência, bem como organização, capacidade financeira e recursos humanos qualificados para a prossecução dos objectivos e dos padrões de qualidade a atingir com os projectos;\n\nd) Terem por objectivo apoiar empresas que sejam potencialmente viáveis em termos económicos;\n\ne) Disporem de contabilidade organizada de acordo com a legislação aplicável;\n\nf) Terem a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras das comparticipações;\n\ng) Corresponderem ao disposto na regulamentação específica aplicável, nomeadamente a referente à elegibilidade das despesas no âmbito das operações co-financiadas pelos fundos estruturais."
+  },
+  "1354aac808d02eaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\nConstituem critérios de selecção dos projectos:\n\na) O grau de prossecução dos objectivos fixados pelo POE;\n\nb) A orientação para a cobertura de insuficiências de mercado e melhoria da competitividade empresarial;\n\nc) O fomento do alargamento da oferta de produtos e serviços financeiros vocacionados para o segmento das PME;\n\nd) A orientação para abordagens inovadoras, consubstanciando uma natureza sistémica na perspectiva do acesso e melhoria das condições de financiamento das empresas, nas suas diferentes fases de implantação;\n\ne) A maior afectação de recursos financeiros para as empresas;\n\nf) O grau de implementação dos projectos à data da candidatura."
+  },
+  "8b4cb2a3c2b404d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\n1 - No âmbito da acção A1 constituem despesas elegíveis as contribuições financeiras necessárias à subscrição de títulos emitidos por entidades especializadas em investimentos mobiliários ou imobiliários e na acção A2 a dotação inicial necessária para a constituição do Fundo, a subscrever em ambas as acções pelo IAPMEI, ICEP e IFT, adiante designados por organismos coordenadores.\n\n2 - No âmbito da acção B constituem despesas elegíveis as contribuições necessárias ao reforço do Fundo da acção B1 e à constituição do Fundo previsto na acção B3, bem como a participação no capital de sociedades de garantia mútua da acção B2, a subscrever em todas as acções pelo IAPMEI, ICEP e IFT."
+  },
+  "28a31d51d98fd23d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Comparticipação financeira na acção A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comparticipação financeira na acção A\n\n1 - As comparticipações financeiras previstas na acção A1 respeitarão os seguintes parâmetros:\n\na) No caso de investimentos mobiliários, por entidades vocacionadas para a realização de operações de capital semente, arranque de empresas - start-up, projectos de forte base tecnológica, pequenas empresas ou iniciativas de pequena dimensão ou de âmbito regional, a comparticipação financeira terá como limite 70% das despesas elegíveis e, relativamente às demais entidades, 50%, tendo em qualquer dos casos o limite de (euro) 12500000;\n\nb) No caso de participação em fundos de investimento imobiliário especializados e em fundos de gestão de património imobiliário, a contribuição financeira, que se traduzirá na subscrição de unidades de participação, deverá ser concretizada por forma a assegurar tendencialmente uma relação paritária público-privada tendo por referência o valor das operações concretizadas, não podendo, no final da intervenção, ultrapassar 70% das despesas elegíveis;\n\nc) O prazo máximo para o pagamento da comparticipação é de três anos, salvo em casos devidamente justificados e mediante autorização do Ministro da Economia.\n\n2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.\n\n3 - Será fixada no regulamento do Fundo previsto na acção A2 uma graduação da percentagem de sindicação e desconto para as participações de capital, tendo presentes os seguintes parâmetros:\n\na) Até 70% para projectos de micro e pequenas empresas, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número;\n\nb) Até 50% para projectos de empresas de média dimensão, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número."
+  },
+  "1db094f86da4efa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Comparticipação financeira na acção B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comparticipação financeira na acção B\n\n1 - As taxas de cobertura das garantias prestadas pelos fundos previstos nas acções B1 e B3 não poderão exceder 80% das operações a garantir, sendo a graduação das garantias e correspondentes comissões fixadas em função da tipologia dos projectos e de acordo com os respectivos regulamentos de gestão.\n\n2 - No âmbito da acção B2, as participações de capital, prevendo opções de compra por parte das empresas aderentes, terão um limite de (euro) 1250000 por operação, não podendo exceder 50% do capital social das entidades a apoiar."
+  },
+  "73785fc180ac3ae9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação de propostas\n\n1 - As propostas de instrumentos a comparticipar pelos mecanismos previstos nas acções A1 e B2 devem ser apresentadas ao IAPMEI, ao ICEP ou ao IFT, no âmbito da respectiva competência.\n\n2 - Com a apresentação das propostas, deverá ser entregue uma declaração do cumprimento das condições referidas no artigo 6.º\n\n3 - Após a comunicação da decisão de aprovação das propostas, correrá um prazo de 20 dias úteis, prorrogáveis uma só vez por igual período se justificável para apresentação dos respectivos comprovantes."
+  },
+  "46411de9af3f9292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\n1 - Compete ao IAPMEI, ao ICEP ou ao IFT a análise das propostas apresentadas no âmbito do presente programa.\n\n2 - Cabe à unidade de gestão do POE emitir proposta de decisão, a submeter pelo gestor do POE ao Ministro da Economia."
+  },
+  "8922bb69b863e10c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contrato de concessão de comparticipações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de concessão de comparticipações\n\n1 - A concessão das comparticipações é formalizada por contrato a celebrar entre o IAPMEI, o ICEP ou o IFT, no âmbito da respectiva competência, e as entidades beneficiárias.\n\n2 - A não celebração do contrato por razões imputáveis às entidades beneficiárias, no prazo de 40 dias úteis contados da data da notificação da decisão de aprovação, determina a caducidade da decisão de concessão do incentivo."
+  },
+  "21c92a087a2efcf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamento\n\n1 - O pagamento das comparticipações compete ao IAPMEI, ao ICEP ou ao IFT, sendo efectuado por tranches em termos a definir por despacho do Ministro da Economia.\n\n2 - Sem prejuízo do previsto no número anterior, o pagamento das comparticipações respeitantes à acção B2 deverá ser feito integralmente no acto da constituição ou do aumento do capital social das sociedades de garantia mútua."
+  },
+  "484a2bb1d0ab823a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento e verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e verificação\n\nOs mecanismos de acompanhamento e de verificação dos projectos serão definidos por contrato a celebrar entre as entidades beneficiárias e o IAPMEI, o ICEP ou o IFT, no âmbito da respectiva competência, devendo os promotores apresentar relatórios semestrais onde fique contemplada, nomeadamente, a caracterização das operações."
+  },
+  "565883b8c2136079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Termo dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Termo dos projectos\n\nA conclusão dos projectos ocorre com a correcta aplicação do investimento aprovado, devendo, para o efeito, as entidades beneficiárias apresentar os relatórios finais de execução."
+  },
+  "aa5508b5f92b30d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo e fiscalização\n\nSem prejuízo de outros mecanismos que venham a ser adoptados, o controlo e a fiscalização serão assegurados através de auditorias promovidas pelo Gabinete de Gestão do POE e por outros instrumentos de auditoria específicos aplicáveis a cada instrumento."
+  },
+  "20ef44a0df1f2824": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente medida abrange as seguintes acções:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção B, «Constituição e reforço dos mecanismos de garantia».\n\n2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+  },
+  "a7bb1064ebbef084": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Acção A",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+   ],
+   "markdown": "###### Artigo 3.º — Acção A\n\n1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.\n\n2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+  },
+  "842376afec8bed08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+   ],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\nSerão apoiadas as seguintes entidades beneficiárias:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção B1 - Fundo de Contragarantia Mútuo;\n\nc) Acção B2 - sociedades de garantia mútua;\n\nd) Acção B3 - Fundo de Garantia para Titularização de Créditos.\n\n> Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10."
+  },
+  "acbe967b60cab654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+   ],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\n1 - No Âmbito da acção A, constitui despesa elegível a dotação inicial necessária para a constituição do Fundo, bem como o reforço que se revele necessário para o cumprimento da medida, a subscrever pelos IAPMEI, API e IFT, adiante designados por organismos coordenadores.\n\n2 - No âmbito da acção B constituem despesas elegíveis as contribuições necessárias ao reforço do Fundo da acção B1 e à constituição do Fundo previsto na acção B3, bem como a participação no capital de sociedades de garantia mútua da acção B2, a subscrever em todas as acções pelo IAPMEI, ICEP e IFT.\n\n> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+  },
+  "f1e751e83e7fdf8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Comparticipação financeira na acção A",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+   ],
+   "markdown": "###### Artigo 9.º — Comparticipação financeira na acção A\n\n1 - Será fixada no regulamento do Fundo previsto na acção A uma graduação da percentagem de sindicação para as participações de capital, tendo presentes os seguintes parâmetros:\n\na) Até 70% para projectos de micro e pequenas empresas, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número;\n\nb) Até 50% para projectos de empresas de média dimensão, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número.\n\n2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.\n\n> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+  },
+  "3c948eb755e0a27f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apresentação de propostas",
+   "in_force_from": "2007-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+   ],
+   "markdown": "###### Artigo 11.º — Apresentação de propostas\n\n1 - As propostas de instrumentos a comparticipar devem ser apresentadas ao IAPMEI, à API ou ao IFT, no âmbito da respectiva competência.\n\n2 - Com a apresentação das propostas, deverá ser entregue uma declaração do cumprimento das condições referidas no artigo 6.º\n\n3 - Após a comunicação da decisão de aprovação das propostas, correrá um prazo de 20 dias úteis, prorrogáveis uma só vez por igual período se justificável para apresentação dos respectivos comprovantes.\n\n> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28."
+  }
+ }
+}
