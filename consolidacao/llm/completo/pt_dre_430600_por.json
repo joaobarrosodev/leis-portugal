@@ -1,0 +1,71 @@
+{
+  "id": "pt:dre:430600:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. A área da Reserva tem os seguintes limites:\n\nExtremo norte do sapal do mouchão de Alhandra, Vala do Tejinho, Terras de Baixo, Murraceira, Vala da Rabicha, Malhada de Mar, Vala do Mosqueiro, Monte de Pancas, Monte de Vale de Frades, Marinha da Bela Vista, extremo sul do Mouchão da Póvoa, margem do Mouchão da Póvoa e extremo sul do Mouchão de Alhandra.\n\n2. Os limites da área descrita no número anterior vão demarcados na carta corográfica militar anexa ao presente decreto e que dele faz parte integrante.\n\n3 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 5.º; depois revogado pelo alterador 2, fica (Revogado.).",
+    "Alterador 1, art. 2.º: aditados o n.º 3 ao art. 6.º e o n.º 4 ao art. 8.º; ambos os artigos depois revogados pelo alterador 2.",
+    "Alterador 1, art. 3.º: aditado o art. 11.º; depois revogado pelo alterador 2, fica 11.º com (Revogado.).",
+    "Alterador 2, art. 53.º, n.º 1, b): revogados o n.º 3 do art. 2.º e os arts. 3.º a 9.º e 11.º do original (na redação do DL 487/77); aplicado. Nota: o n.º 2 do art. 53.º difere os efeitos para a entrada em vigor do plano de ordenamento da área protegida, data que o pedido não indica; aplicado como revogação.",
+    "Alterador 2, restantes alíneas: dizem respeito a outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

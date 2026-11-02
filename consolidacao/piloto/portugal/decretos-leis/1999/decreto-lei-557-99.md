@@ -7,24 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:218365:por
-    title: Decreto-Lei n.º 237/2004
-    publication_date: '2004-12-18'
-  - id: pt:dre:247426:por
-    title: Decreto-Lei n.º 36/2008
-    publication_date: '2008-02-29'
-  - id: pt:dre:439170:por
-    title: Decreto-Lei n.º 212/2008
-    publication_date: '2008-11-07'
-  - id: pt:dre:243769:por
-    title: Lei n.º 64-B/2011
-    publication_date: '2011-12-30'
-  - id: pt:dre:106434233:por
-    title: Decreto-Lei n.º 17/2017
-    publication_date: '2017-02-10'
   - id: pt:dre:124324704:por
     title: Decreto-Lei n.º 132/2019
     publication_date: '2019-08-30'
+  - id: pt:dre:106434233:por
+    title: Decreto-Lei n.º 17/2017
+    publication_date: '2017-02-10'
+  - id: pt:dre:243769:por
+    title: Lei n.º 64-B/2011
+    publication_date: '2011-12-30'
+  - id: pt:dre:218365:por
+    title: Decreto-Lei n.º 237/2004
+    publication_date: '2004-12-18'
 ---
 
 # Decreto-Lei n.º 557/99
@@ -75,13 +69,13 @@ Os cargos, carreiras e categorias dos grupos de pessoal referidos no número ant
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 4.º — Equiparação de cargos
 
-1 - Os cargos de director de finanças de Lisboa e do Porto são equiparados a subdirector-geral.
+(Revogado.)
 
-2 - Os cargos de director de finanças e de director de finanças-adjunto são equiparados a director de serviços.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO II — Recrutamento
 
@@ -89,101 +83,65 @@ Os cargos, carreiras e categorias dos grupos de pessoal referidos no número ant
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 6.º — Subdirector-geral
 
-O recrutamento para os cargos de subdirector-geral ou equiparados é feito de entre funcionários que possuam a categoria de gestor tributário ou nos termos previstos no estatuto do pessoal dirigente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 7.º — Director de serviços
 
-1 - O recrutamento para os cargos de director de serviços da área de administração tributária é feito de entre funcionários aprovados em concurso, com provas de conhecimentos, ao qual poderão ser opositores os funcionários do GAT de qualquer das categorias do grau 5 ou de grau superior, independentemente do tempo de serviço e os demais funcionários que possuam os requisitos previstos na lei geral.
+(Revogado.)
 
-2 - O concurso a que se refere o número anterior visa o preenchimento do conjunto dos lugares vagos à data do despacho de autorização da respectiva abertura.
-
-3 - Os candidatos aprovados no concurso referido no n.º 1 são, após a sua nomeação, afectos aos correspondentes lugares do quadro de pessoal da DGCI, por despacho do director-geral, ouvido o Conselho de Administração Fiscal, adquirindo a categoria de gestor tributário.
-
-4 - O elenco dos cargos referidos no n.º 1 é definido em despacho do Ministro das Finanças.
-
-5 - O recrutamento para os cargos de director de serviços não mencionados no n.º 1 do presente artigo é feito, mediante concurso, nos termos previstos no estatuto do pessoal dirigente, ao qual poderão candidatar-se, também, os funcionários do GAT indicados na mesma disposição.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 8.º — Director de finanças e director de finanças-adjunto
 
-O recrutamento para os cargos de director de finanças e de director de finanças-adjunto é feito nos termos previstos no n.º 1 do artigo anterior, aplicando-se-lhes o disposto nos n.os 2 e 3 da mencionada norma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 9.º — Chefe de divisão
 
-1 - O recrutamento para os cargos de chefe de divisão da área de administração tributária é feito mediante concurso, com provas de conhecimentos, ao qual poderão ser opositores os funcionários do GAT de qualquer das categorias do grau 4, posicionados no nível 2, ou de graus superiores e os demais funcionários que possuam os requisitos previstos na lei geral.
+(Revogado.)
 
-2 - Aplica-se ao concurso o disposto no n.º 2 do artigo 7.º, sendo os candidatos aprovados, e após a sua nomeação, afectos aos correspondentes lugares do quadro de pessoal da DGCI, por despacho do director-geral, ouvido o Conselho de Administração Fiscal.
-
-3 - O elenco dos cargos referidos no n.º 1 do presente artigo é definido nos termos previstos no n.º 4 do artigo 7.º
-
-4 - O recrutamento para os cargos de chefe de divisão não mencionados no número anterior é feito, mediante concurso, nos termos do estatuto do pessoal dirigente, ao qual poderão candidatar-se, também, os funcionários pertencentes ao GAT indicados no n.º 1 do presente artigo.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO III — Provimento
 
 ###### Artigo 10.º — Comissão de serviço
 
-1 - O pessoal dirigente é provido em comissão de serviço por um período de três anos, o qual poderá ser renovado por iguais períodos.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no número anterior, o exercício de funções no âmbito do mesmo cargo não pode ultrapassar nove anos.
-
-3 - No caso de cessação da comissão de serviço, os funcionários pertencentes ao grupo do pessoal dirigente serão colocados:
-
-a) Em lugares da categoria de gestor tributário, no caso de terem sido nomeados na sequência de aprovação no concurso previsto no n.º 1 do artigo 7.º do presente diploma, sendo criados, automaticamente, nos serviços centrais ou regionais, os lugares necessários para o efeito, que serão extintos à medida que vagarem;
-
-b) Em lugares da categoria a que tenham direito, na respectiva carreira, conforme o disposto no estatuto do pessoal dirigente, a criar nos quadros de contingentação dos serviços centrais ou regionais, os quais serão extintos à medida que vagarem.
-
-4 - O disposto na alínea a) do número anterior não impede que os funcionários optem pela solução indicada na alínea b).
-
-5 - Os lugares de origem dos funcionários da DGCI que sejam nomeados para cargos dirigentes podem ser providos.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 11.º — Entidades competentes para o provimento
 
-1 - O provimento dos cargos dirigentes é feito:
+(Revogado.)
 
-a) O de director-geral, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças;
-
-b) Os de subdirector-geral, director de serviços e chefe de divisão, por despacho do Ministro das Finanças;
-
-c) Os de subdirector-geral, quando a escolha se efectue de entre indivíduos não vinculados à função pública, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.
-
-2 - A afectação dos subdirectores-gerais aos departamentos previstos na lei orgânica da DGCI é feita pelo director-geral.
-
-3 - O provimento do pessoal dirigente entende-se sempre feito por urgente conveniência de serviço, salvo se o contrário for expressamente declarado no despacho de nomeação.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO IV — Substituição
 
 ###### Artigo 12.º — Condicionalismos
 
-1 - Os cargos dirigentes serão exercidos em regime de substituição enquanto durar a vacatura do lugar ou a ausência ou impedimento do respectivo titular.
+(Revogado.)
 
-2 - A substituição só poderá ser autorizada quando se preveja que os condicionalismos previstos no número anterior persistam por mais de 60 dias, sem prejuízo de, em todos os casos, serem asseguradas as funções correspondentes aos referidos cargos pelo substituto legal.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 13.º — Início e cessação
 
-1 - A substituição tem início antes da publicação do extracto de nomeação no Diário da República, se essa intenção for expressamente declarada no competente despacho.
+(Revogado.)
 
-2 - O substituto terá direito à remuneração correspondente ao cargo do substituído, bem como aos demais abonos e regalias atribuídos pelo exercício do referido cargo, independentemente da libertação das respectivas verbas, sendo os encargos suportados pelas correspondentes dotações orçamentais.
-
-3 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo ou categoria de origem do substituto, quando ocorra de acordo com o previsto no n.º 2 do artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 14.º — Substitutos legais
 
-1 - Nos casos previstos no n.º 1 do artigo 12.º do presente diploma, os titulares de cargos dirigentes são substituídos nos seguintes termos:
+(Revogado.)
 
-a) O director-geral pelo subdirector-geral por ele designado;
-
-b) Os directores de departamento pelo director de serviços dos respectivos departamentos mais antigo no cargo;
-
-c) Os directores de serviços pelo chefe de divisão mais antigo das respectivas direcções de serviços;
-
-d) Os directores de finanças pelo director de finanças-adjunto ou, quando houver mais de um, pelo que for mais antigo no cargo;
-
-e) Os chefes de divisão pelo funcionário com categoria mais elevada das respectivas divisões ou, havendo mais de um com a mesma categoria, pelo que for mais antigo.
-
-2 - Quando ocorrerem circunstâncias que não permitam a substituição nos termos definidos no número anterior ou quando se reconheça ser conveniente adoptar procedimento diferente, o substituto será designado pelo Ministro das Finanças, mediante proposta do director-geral.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO III — Pessoal de chefia tributária
 
@@ -193,115 +151,67 @@ e) Os chefes de divisão pelo funcionário com categoria mais elevada das respec
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 16.º — Nomeação
 
-1 - O procedimento destinado à nomeação para lugares correspondentes aos cargos de chefia tributária inicia-se mediante despacho do director-geral, em que constarão as vagas existentes e o prazo para a apresentação das candidaturas.
+(Revogado.)
 
-2 - O disposto no número anterior não impede que os interessados sejam nomeados para lugares que fiquem vagos em resultado dos movimentos de transferência e de promoções.
-
-3 - Para efeito de nomeação, os candidatos serão ordenados mediante ponderação da antiguidade na categoria (Ant), expressa em anos completos de serviço, da avaliação do desempenho (Ad), expressa pela média da classificação de serviço no último triénio, e pela experiência em funções de chefia tributária nos últimos 10 anos (Fe), expressa nos termos previstos para a antiguidade, de acordo com a seguinte fórmula:
-
-[Ant + Ad + 2(Fc)]/4
-
-4 - No caso de igualdade de condições decorrentes da aplicação da fórmula prevista no número anterior, serão considerados, sucessivamente, os seguintes critérios:
-
-a) Maior antiguidade na categoria;
-
-b) Maior antiguidade no GAT;
-
-c) Maior antiguidade na DGCI;
-
-d) Maior antiguidade na função pública.
-
-5 - O processo de nomeação a que se refere o presente artigo não se aplica aos funcionários que já estejam providos em cargos de chefia tributária, os quais poderão solicitar transferência para lugares de cargos idênticos aos que possuem ou que correspondam à seguinte equiparação:
-
-a) Chefe de finanças de nível II/adjunto de chefe de finanças de nível I;
-
-b) Tesoureiro de finanças de nível II/adjunto de tesoureiro de finanças de nível I.
-
-6 - Os directores de finanças poderão pronunciar-se desfavoravelmente sobre a nomeação de funcionários para cargos de chefia tributária, relativamente aos quais entendam, de forma objectiva e fundamentada, que não dão garantias de adequado desempenho do cargo ou que põem em causa o prestígio da função, cabendo ao Conselho de Administração Fiscal a decisão final.
-
-7 - Os funcionários providos em cargos de chefia tributária podem iniciar as respectivas funções antes da publicação do despacho de nomeação no Diário da República, desde que essa intenção seja expressamente declarada no referido despacho.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO II — Provimento
 
 ###### Artigo 17.º — Comissão de serviço
 
-1 - O pessoal de chefia tributária é provido em comissão de serviço, por um período de três anos, considerando-se automaticamente prorrogada por iguais períodos caso não seja comunicado aos interessados a sua cessação até 30 dias antes do seu termo, com fundamento num dos motivos referidos no n.º 2 do artigo 20.º do presente diploma.
+(Revogado.)
 
-2 - A prorrogação da comissão de serviço para além do limite de nove anos implica obrigatoriamente a transferência do funcionário para outro serviço local.
-
-3 - Os lugares de origem dos funcionários que sejam nomeados para cargos de chefia tributária podem ser providos, com excepção dos que tenham por titulares os funcionários referidos no n.º 4 do artigo 15.º do presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 18.º — Entidade competente para o provimento
 
-O provimento dos cargos de chefia tributária é feito pelo director-geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO III — Suspensão e cessação da comissão de serviço
 
 ###### Artigo 19.º — Suspensão da comissão de serviço
 
-Aplica-se à suspensão da comissão de serviço do pessoal de chefia tributária o disposto sobre esta matéria no estatuto do pessoal dirigente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 20.º — Cessação da comissão de serviço
 
-1 - A comissão de serviço do pessoal de chefia tributária cessa automaticamente:
+(Revogado.)
 
-a) Pela tomada de posse, seguida de exercício noutro cargo ou função, a qualquer título, salvo nos casos em que houver lugar a suspensão ou for permitida a acumulação de funções;
-
-b) Pelo acesso a categoria diferente das que constituem a base do recrutamento;
-
-c) Por extinção ou mudança de nível dos respectivos serviços.
-
-2 - A comissão pode ser dada por finda, a todo o tempo, por despacho fundamentado do director-geral, com base num dos seguintes motivos:
-
-a) Não comprovação superveniente de capacidades adequadas a garantir a execução das orientações superiormente definidas quanto ao funcionamento dos serviços e à aplicação das leis tributárias e instruções administrativas;
-
-b) Não realização, injustificada e reiteradamente, dos objectivos fixados nos planos de actividades;
-
-c) Na sequência de procedimento disciplinar de que resulte pena superior a repreensão escrita.
-
-3 - A comissão de serviço pode, ainda, ser dada por finda a requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias a contar da data do respectivo termo, o qual será considerado deferido se, no prazo de 30 dias a contar da data da entrada do requerimento, o funcionário não for notificado do despacho de indeferimento, sem prejuízo do disposto no n.º 2 do artigo seguinte.
-
-4 - Em caso de cessação da comissão de serviço pelos motivos indicados no n.º 2 do presente artigo, o funcionário não poderá candidatar-se a cargos de chefia tributária antes de decorridos três anos após a cessação.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 21.º — Situação dos funcionários a quem seja dada por finda a comissão de serviço
 
-1 - Os funcionários a quem for dada por finda a comissão de serviço por iniciativa da Administração regressam à carreira e categoria de origem, passando a prestar actividade na direcção de finanças de que dependiam enquanto no desempenho de funções de chefia, a menos que expressem outra pretensão que o director-geral entenda dever atender, até serem colocados num dos lugares dos quadros de contingentação, no âmbito do movimento de transferências que se seguir ao termo da comissão.
+(Revogado.)
 
-2 - A cessação da comissão de serviço a requerimento dos funcionários efectiva-se após a colocação dos mesmos em lugar da carreira e categoria de origem, no âmbito dos movimentos de transferência, sem prejuízo de, em casos especiais, nomeadamente de doença limitativa das capacidades de chefia ou da proximidade da reforma por limite de idade, ser adoptado o procedimento indicado no número anterior.
-
-3 - Os funcionários que solicitarem o fim da comissão de serviço têm preferência na colocação, por transferência, em lugar da carreira e categoria de origem, desde que tenham desempenhado o cargo durante, pelo menos, três anos.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 #### SECÇÃO IV — Substituição
 
 ###### Artigo 22.º — Condicionalismos, início e cessação da substituição
 
-Aplica-se à substituição dos cargos de chefia tributária o disposto no artigo 12.º e nos n.os 1 e 3 do artigo 13.º do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 23.º — Remuneração dos substitutos
 
-O substituto terá direito à remuneração a que teria se fosse provido no cargo por nomeação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 24.º — Substitutos legais
 
-1 - Os titulares dos cargos de chefia tributária são substituídos nos seguintes termos:
+(Revogado.)
 
-a) Os chefes de finanças, por um adjunto de chefe de finanças ou, no caso de não haver adjuntos, pelo funcionário com categoria mais elevada;
-
-b) Os tesoureiros de finanças, por um adjunto de tesoureiro de finanças ou, no caso de não haver adjuntos, pelo funcionário com categoria mais elevada;
-
-c) Os adjuntos de chefe de finanças, pelo funcionário de categoria mais elevada das respectivas secções;
-
-d) Os adjuntos de tesoureiro de finanças, pelo funcionário de categoria mais elevada das respectivas tesourarias de finanças.
-
-2 - Quando, para efeitos do disposto no número anterior, houver mais de um adjunto, o substituto será o de maior categoria ou, no caso de possuírem a mesma categoria, o que for mais antigo.
-
-3 - Quando a substituição se efectuar de entre os funcionários com a categoria mais elevada, o substituto será o que for mais antigo, em caso de igualdade de categoria.
-
-4 - No caso de ocorrerem circunstâncias que não permitam a substituição nos termos indicados nos números anteriores ou quando se reconheça ser conveniente adoptar procedimento diferente, o substituto será designado pelo director-geral, mediante indicação dos directores de finanças, sob proposta dos chefes de finanças ou dos tesoureiros de finanças, quando se trate da substituição de adjuntos.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO IV — Pessoal de administração tributária
 
@@ -331,29 +241,17 @@ O recrutamento para as categorias de ingresso das carreiras do GAT faz-se de ent
 
 ###### Artigo 28.º — Categorias de acesso
 
-1 - O recrutamento para as categorias de acesso das carreiras do GAT faz-se mediante concurso interno de acesso limitado.
+(Revogado.)
 
-2 - Não podem ser admitidos ao concurso para as categorias de técnico de administração tributária assessor e de inspector tributário assessor os funcionários que não possuam os cursos superiores fixados no despacho a que se refere o n.º 5 do artigo seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ##### SUBSECÇÃO II — Estágios
 
 ###### Artigo 29.º — Admissão aos estágios
 
-1 - A admissão ao estágio para ingresso na categoria do grau 2 faz-se, mediante concurso, de entre indivíduos habilitados com o 12.º ano ou com curso adequado, de entre os indicados na alínea d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, que forem indicados no aviso de abertura.
+(Revogado.)
 
-2 - Serão admitidos ao estágio o número de candidatos correspondente às vagas existentes e às que se preveja que ocorram durante o período de validade do concurso realizado para o efeito, acrescido até 30%, descontada a quota mencionada no n.º 4 do presente artigo.
-
-3 - Ao concurso referido no n.º 1 podem, ainda, ser admitidos funcionários da DGCI pertencentes à carreira de assistente administrativo com as categorias de principal e de especialista e à carreira técnico-profissional, com as categorias de 1.ª classe e superiores, que possuam o 11.º ano de escolaridade ou habilitação equiparada, em número equivalente à quota referida no número seguinte, acrescida de 30%.
-
-4 - Os funcionários indicados no número anterior que obtenham aprovação no concurso preencherão os lugares da categoria de técnico de administração tributária-adjunto que lhes forem reservados, de acordo com a quota que for definida no aviso de abertura, por deliberação do Conselho de Administração Fiscal, tendo em conta os indicadores de gestão previsional de pessoal e a política definida em matéria de gestão de carreiras.
-
-5 - A admissão ao estágio para ingresso nas categorias do grau 4 faz-se, mediante concurso, de entre indivíduos habilitados com curso superior em áreas de formação adequadas ao conteúdo funcional das carreiras, conforme o que for definido em despacho do director-geral, podendo ser definidas quotas de admissão por cursos.
-
-6 - Serão admitidos ao estágio o número de candidatos correspondente às vagas existentes e às que se preveja que ocorram durante o período de validade do concurso realizado para o efeito, acrescido até 30%, descontada a quota mencionada no número seguinte.
-
-7 - Ao concurso referido no n.º 5 do presente artigo podem, ainda, ser admitidos funcionários com a categoria de técnico de administração tributária-adjunto, posicionados nos níveis 2 ou 3, sem prejuízo do disposto no n.º 2 do artigo anterior, em número equivalente à quota referida no número seguinte, acrescida de 30%.
-
-8 - Os funcionários indicados no número anterior que obtenham aprovação no concurso preencherão os lugares das categoria de técnico de administração tributária e de inspector tributário que lhes forem reservados, de acordo com a quota que for definida no aviso de abertura, por deliberação do Conselho de Administração Fiscal, tendo em conta os indicadores de gestão previsional e a política definida em matéria de gestão de carreiras.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 30.º — Desenvolvimento dos estágios
 
@@ -375,7 +273,7 @@ c) Classificação obtida na prova final a realizar após o período de estágio
 
 6 - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Alterado pelo/a [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233), publicado em 2017-02-10.
 
 ###### Artigo 31.º — Efeitos da aprovação em estágio
 
@@ -393,7 +291,7 @@ c) Classificação obtida na prova final a realizar após o período de estágio
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 33.º — Mudança de nível
 
@@ -439,75 +337,43 @@ c) Permitir maior objectividade na avaliação do mérito dos funcionários, com
 
 ###### Artigo 37.º — Política de formação
 
-1 - A DGCI promoverá a aplicação de um sistema de formação permanente, visando dotar os seus funcionários e agentes com a competência adequada às exigências técnico-profissionais, éticas e humanas relacionadas com os cargos e funções que desempenhem ou venham a assumir no âmbito do desenvolvimento das respectivas carreiras.
+(Revogado.)
 
-2 - No âmbito do sistema de formação serão ministradas as seguintes acções formativas:
-
-a) Cursos inseridos nos estágios para ingresso nas carreiras do GAT;
-
-b) Módulos de formação destinados aos funcionários que sejam potenciais candidatos aos concursos de acesso;
-
-c) Cursos destinados à preparação para o desempenho de cargos dirigentes e de chefia tributária.
-
-3 - Sem prejuízo do disposto no número anterior serão igualmente ministradas acções formativas que visem a reciclagem, o aperfeiçoamento profissional e a especialização dos funcionários.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 38.º — Curso de chefia tributária
 
-1 - O curso de chefia tributária reveste a natureza de concurso de habilitação, com vista à nomeação para os cargos de chefia tributária.
+(Revogado.)
 
-2 - Podem candidatar-se ao curso referido no número anterior os funcionários pertencentes ao GAT que reúnam os seguintes requisitos:
-
-a) Possuam as categorias indicadas nas alíneas a) a c) do n.º 1 do artigo 15.º;
-
-b) Tenham classificação de serviço não inferior a Bom durante três anos na categoria de origem;
-
-c) Não estejam inibidos do exercício de cargos de chefia pelo motivo mencionado no n.º 3 do citado artigo 15.º
-
-3 - Não são admitidos ao curso os funcionários que, pretendendo candidatar-se aos cargos de chefe de finanças de nível I e de tesoureiro de finanças de nível I, não possuam o período de serviço a que se refere o n.º 2 do artigo 15.º
-
-4 - Aplica-se à admissão ao curso e à realização das provas finais o disposto no [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho, quanto aos princípios e garantias, procedimentos, composição, designação e funcionamento do júri e classificação dos métodos de selecção.
-
-5 - Os métodos de selecção a utilizar para a admissão ao curso, a sua duração e conteúdo, bem como a avaliação dos formandos, são definidos por despacho do Ministro das Finanças.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO VI — Transferências e deslocações
 
 ###### Artigo 39.º — Transferências
 
-1 - Os funcionários e agentes da DGCI, com excepção do pessoal dirigente, podem ser transferidos, a seu pedido ou por conveniência de serviço, para serviço a que corresponda quadro de contingentação diferente daquele em que se encontrem colocados, desde que exista lugar vago da respectiva categoria.
+(Revogado.)
 
-2 - As regras e critérios a que obedecerá a transferência a pedido dos funcionários serão definidos em regulamento a aprovar por despacho do Ministro das Finanças.
-
-3 - A transferência por conveniência de serviço será sempre fundamentada e carece da anuência do funcionário, caso se faça para serviço fora da sua área de residência.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 40.º — Deslocação
 
-1 - Os funcionários e agentes da DGCI podem ser deslocados, a seu pedido ou por conveniência de serviço, para o exercício de funções, a título transitório, em serviço diferente daquele em que se encontrem colocados.
+(Revogado.)
 
-2 - A deslocação por conveniência de serviço terá a duração máxima de um ano e confere o direito a ajudas de custo, nos termos da lei geral.
-
-3 - A deslocação a pedido dos funcionários e agentes não confere o direito a ajudas de custo.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO VII — Quadros de pessoal
 
 ###### Artigo 41.º — Quadro geral
 
-1 - O quadro geral do pessoal da DGCI será aprovado por portaria do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.
+(Revogado.)
 
-2 - As dotações de técnico de administração tributária principal, técnico de administração tributária assessor e técnico de administração tributária assessor principal, bem como de inspector tributário principal, inspector tributário assessor e inspector tributário assessor principal, são globais.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 42.º — Quadros de contingentação
 
-1 - Os lugares do quadro geral são distribuídos, por despacho do director-geral, pelos seguintes quadros de contingentação:
+(Revogado.)
 
-a) Dos serviços centrais;
-
-b) De cada um dos tribunais tributários de 1.ª instância;
-
-c) De cada uma das direcções de finanças, incluindo os respectivos serviços locais.
-
-2 - Os lugares dos quadros de cada uma das direcções de finanças, incluindo os respectivos serviços locais, são distribuídos, por despacho do director-geral, ouvidos os directores de finanças, por quadros internos das direcções de finanças e de cada um dos respectivos serviços locais, ouvidos, quanto a estes, os chefes de finanças e os tesoureiros de finanças.
-
-3 - Os quadros de pessoal dos serviços locais serão revistos anualmente, mediante proposta dos directores de finanças, a efectuar até 31 de Dezembro do ano anterior, ouvidos os chefes de finanças e os tesoureiros de finanças.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO VIII — Remunerações
 
@@ -535,21 +401,15 @@ b) Para o escalão a que na estrutura remuneratória do grau a que pertence a ca
 
 ###### Artigo 45.º — Integração nas escalas salariais dos cargos de chefia tributária
 
-1 - Os funcionários que sejam nomeados para cargos de chefia tributária integram-se na escala indiciária própria dos referidos cargos, em escalão idêntico ao que possuem na escala indiciária da categoria de origem.
+(Revogado.)
 
-2 - Os funcionários providos em lugares correspondentes a cargos de chefia tributária e que sejam promovidos no âmbito das carreiras do GAT são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas nos n.os 1 e 2 do artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 46.º — Suplementos
 
-Sem prejuízo do disposto no [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, e de outros suplementos previstos na lei geral, o pessoal da DGCI beneficiará, em função das particularidades das respectivas actividades, dos seguintes suplementos:
+(Revogado.)
 
-a) Suplemento de risco;
-
-b) Subsídio de residência;
-
-c) Suplemento especial para os funcionários das Regiões Autónomas;
-
-d) Abonos para falhas.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ### CAPÍTULO IX — Disposições gerais e transitórias
 
@@ -561,35 +421,27 @@ Os regulamentos dos concursos e dos cursos, neste caso dos que constituam requis
 
 ###### Artigo 48.º — Funções de consulta e apoio jurídico
 
-1 - O recrutamento de juristas para o desempenho de funções de consulta e apoio jurídico aos Serviços de Consultadoria Jurídica e do Contencioso faz-se, por escolha do director-geral, de entre funcionários pertencentes às categorias do grau 4 ou superiores do GAT, licenciados em Direito, que possuam currículo profissional adequado, sendo desde já afectos àqueles serviços os actuais técnicos juristas que actualmente pertençam à Direcção de Serviços Jurídicos e do Contencioso.
+(Revogado.)
 
-2 - A escolha a que se refere a primeira parte do número anterior será fundamentada com base na avaliação curricular dos candidatos, sendo ponderados os seguintes factores:
-
-a) Formação académica complementar;
-
-b) Formação profissional com interesse para o desempenho das funções;
-
-c) Experiência profissional nos domínios da magistratura, advocacia ou ensino universitário de Direito.
-
-3 - Os juristas que exerçam funções no âmbito dos Serviços de Consultadoria Jurídica e do Contencioso adquirem a designação de consultores jurídicos enquanto se mantiverem no exercício daquelas funções, sendo-lhes vedado o exercício da advocacia em matérias fiscais quando não ao serviço da administração tributária.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 49.º — Manutenção de carreiras
 
-1 - Mantêm-se as actuais carreiras de técnicos economistas e de técnicos juristas enquanto nelas permanecerem os funcionários que não usarem da possibilidade prevista nos n.os 2 dos artigos 54.º e 55.º, sendo considerados em comissão de serviço por tempo indeterminado nas categorias pelas quais poderiam ter optado.
+(Revogado.)
 
-2 - Mantêm-se as carreiras de engenheiros agrónomos e de engenheiros técnicos agrários enquanto nelas permanecerem os funcionários que não usarem da possibilidade prevista no n.º 2 do artigo 57.º
-
-3 - As categorias das carreiras a que se referem os números anteriores serão extintas, da base para o topo, à medida que vagarem todos os respectivos lugares previstos no actual quadro de pessoal da DGCI.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 50.º — Equiparação a carreiras técnicas superiores
 
-Os funcionários pertencentes a categorias do GAT integradas no grau 4 ou superiores que possuam curso superior que confira o grau de licenciatura consideram-se como pertencendo a carreiras técnicas superiores de regime geral para efeitos de intercomunicabilidade e de nomeação para cargos dirigentes de outros departamentos da Administração.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 51.º — Afectação de receitas próprias da DGCI
 
 É fixada em 10 % a percentagem prevista na alínea d) do artigo 5.º do Decreto-Lei n.º 335/97, de 2 de Dezembro, sendo de excluir as receitas provenientes da alienação de imóveis afectos à DGCI.
 
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Alterado pelo/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.
 
 #### SECÇÃO II — Disposições transitórias
 
@@ -785,7 +637,7 @@ b) Os tesoureiros de finanças de nível I transitam para o grau 4, com a catego
 
 13 - O tempo de serviço prestado na categoria de tesoureiro conta como prestado na categoria do GAT para efeitos de promoção.
 
-> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365) e [Decreto-Lei n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2008-247426) e [Decreto-Lei n.º 212/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2008-439170) e [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769) e [Decreto-Lei n.º 17/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ##### SUBSECÇÃO V
 
@@ -859,35 +711,27 @@ c) Pertençam às actuais carreiras do pessoal técnico de administração fisca
 
 ###### Artigo 67.º — Integração nas categorias do GAT
 
-1 - A integração nas novas categorias do GAT resultante das regras de transição previstas no presente diploma faz-se para o escalão da nova categoria a que corresponda o índice salarial igual ao que os funcionários detêm na categoria de origem ou para o que corresponder ao índice imediatamente superior, no caso de não haver coincidência de índice.
+(Revogado.)
 
-2 - Nos casos em que da aplicação da regra constante do número anterior resulte um impulso salarial igual ou inferior a 10 pontos, conta para efeitos de progressão o tempo de permanência no escalão de origem.
-
-3 - Aos funcionários que em 2000 adquirissem por progressão na anterior escala salarial o direito a remuneração superior à que lhes é atribuída pela transição do presente diploma é garantida, a partir do momento em que se verificasse aquela progressão, a remuneração correspondente ao índice para o qual progrediriam naquela escala salarial.
-
-4 - Os funcionários cuja primeira e segunda progressões após a transição para a escala salarial correspondente à nova categoria se faça para índice inferior ao que lhe teria sido atribuído na escala actualmente em vigor serão pagos pelo índice que lhes caberia na escala anterior até perfazerem o tempo legalmente previsto para a nova progressão.
-
-5 - Das transições decorrentes do presente diploma não podem resultar durante o período de um ano após a sua entrada em vigor impulsos salariais superiores a 20 pontos indiciários.
-
-6 - Nos casos em que se verificam impulsos salariais superiores aos referidos no número anterior, o direito à totalidade da remuneração só se adquire após ter decorrido o período de um ano sobre aquela transição.
-
-7 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.
-
-8 - Os funcionários e agentes que se aposentem durante o ano da entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que foram posicionados.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 68.º — Transição para as carreiras de regime geral
 
-1 - Os funcionários abrangidos pelo artigo 64.º do presente diploma integram-se no escalão 1 da categoria para a qual se faz a transição ou para o escalão a que na estrutura remuneratória da referida categoria corresponda o índice superior mais aproximado, se o funcionário vier já auferindo remuneração igual ou superior à do escalão 1.
+(Revogado.)
 
-2 - Os assistentes administrativos que na categoria de origem tenham índice superior ao da categoria de transição mantêm o respectivo índice.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 69.º — Integração dos chefes e adjuntos dos chefes de finanças
 
-A integração dos chefes e adjuntos dos chefes de finanças nas respectivas escalas salariais faz-se de acordo com a regra prevista no artigo 67.º do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 70.º — Integração dos tesoureiros da Fazenda Pública
 
-A integração dos tesoureiros da Fazenda Pública de 1.ª e 2.ª classes faz-se para escalão a que corresponda o índice que detêm ou para o escalão imediatamente superior, se não houver coincidência de índice, sem prejuízo no disposto no n.º 4 do artigo 67.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ##### SUBSECÇÃO IX — Centro de Estudos Fiscais
 
@@ -899,23 +743,33 @@ Enquanto não for regulamentada a prevista integração do Centro de Estudos Fis
 
 ###### Artigo 72.º — Concursos pendentes
 
-Os concursos cuja abertura se efectuou antes da entrada em vigor do presente diploma mantêm-se válidos para a promoção às categorias para que transitam os funcionários pertencentes àquelas para cujo provimento os mesmos foram abertos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 73.º — Admissão aos concursos para dirigentes
 
-Os actuais funcionários que transitam para as categorias do grau 4, bem como os tesoureiros da Fazenda Pública de nível I, podem ser opositores aos concursos mencionados nos artigos 7.º e 8.º, desde que possuam, pelo menos, dois anos de serviço no nível 2 do referido grau ou na categoria de tesoureiro da Fazenda Pública do nível I e avaliação do desempenho não inferior a Bom no último triénio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 74.º — Contagem do tempo nas novas carreiras e categorias
 
-O tempo de serviço prestado nas carreiras, categorias e cargos antes da entrada em vigor do presente diploma é considerado para efeitos de promoção e antiguidade na carreira.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 75.º — Subsídios
 
-Enquanto não for regulamentado o subsídio de residência e o suplemento especial para os funcionários das Regiões Autónomas, mantêm-se as disposições vigentes sobre o referido subsídio e os subsídios de residência e de isolamento atribuídos aos funcionários das Regiões Autónomas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 76.º — Promoção
 
-Enquanto não for implementado o sistema de avaliação para efeitos de promoção do pessoal do GAT, os correspondentes concursos serão realizados com aplicação de regulamento provisório a aprovar pelo Ministro das Finanças.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 77.º — Entrada em vigor
 

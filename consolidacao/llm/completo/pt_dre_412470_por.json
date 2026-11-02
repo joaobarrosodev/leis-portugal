@@ -1,0 +1,87 @@
+{
+  "id": "pt:dre:412470:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas",
+      "texto": "O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas",
+      "texto": "O ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conteúdo do registo individual de pessoas colectivas e entidades equiparadas",
+      "texto": "1 - O registo de cada pessoa colectiva deve conter informação sobre:\n\na) O número de identificação;\n\nb) A designação;\n\nc) A localização da sede e o endereço postal;\n\nd) A natureza jurídica;\n\ne) A actividade principal;\n\nf) A data da constituição e, quando aplicável, da publicação no Diário da República do instrumento de constituição.\n\n2 - Podem ser incluídos no registo elementos sobre alterações ao instrumento de constituição, datas de emissão e validade do cartão de identificação e outros dados que tenham carácter público e ofereçam interesse estatístico ou de planeamento económico, bem como a referência às fontes em que os diversos elementos foram colhidos.\n\n3 - As indicações referentes às datas de constituição e de publicação são substituídas, no caso dos empresários em nome individual, pela indicação do número do bilhete de identidade e da data do nascimento, e, no caso de sociedades irregulares, pela indicação do nome e número do bilhete de identidade dos sócios.\n\n4 - Em favor de cada titular de registo pode ser emitido um cartão de identificação com a indicação do número de identificação, da designação, da sede, da natureza jurídica, da actividade principal e das datas de constituição e de publicação no Diário da República.\n\n5 - O modelo de cartão de identificação, que constitui exclusivo do Gabinete do Registo Nacional, deve ser diferente para as pessoas colectivas e para as entidades equiparadas.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Número nacional de pessoa colectiva ou entidade equiparada",
+      "texto": "1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.\n\n2 - Podem ser usadas sequências numéricas diferentes correspondentes à área de localização geográfica da sede do titular do registo.\n\n3 - O significado dos dígitos correspondentes a pessoas colectivas e a entidades equiparadas, bem como as sequências correspondentes a áreas geográficas distintas, devem ser objecto de divulgação em portaria do Ministro da Justiça.",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades",
+      "texto": "1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.\n\n2 - A mesma obrigação incumbe aos empresários em nome individual, no prazo de trinta dias, a contar do início da sua actividade.\n\n3 - As sociedades comerciais já constituídas bem como os empresários em nome individual em actividade são obrigados à posse de cartão de identificação válido a partir de 1 de Janeiro de 1980.\n\n4 - Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de empresários em nome individual, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo",
+      "texto": "1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.\n\n2 - A mesma obrigação incumbe aos serviços públicos por onde corre o expediente relativo à aprovação dos estatutos das fundações ou a quem incumbe receber a participação escrita da constituição de pessoas colectivas religiosas.\n\n3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio, exclusivo do Gabinete do Registo Nacional.",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Condições gerais de fornecimento de informações",
+      "texto": "O fornecimento de informações em suporte manual ou informático, fora dos casos previstos nos artigos anteriores, será efectuado nas condições aprovadas por despacho do Ministro da Justiça, sob proposta do Gabinete do Registo Nacional.",
+      "alterador": 1
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Provimento interino de lugares",
+      "texto": "1 - Para prestar serviço no Gabinete poderá ser requisitado a quaisquer serviços públicos, empresas públicas ou nacionalizadas o pessoal indispensável ao seu funcionamento, mediante despacho do Ministro da Justiça e acordo do Ministro a que estão sujeitos o serviço ou a empresa, bem como do interessado.\n\n2 - A requisição prevista no número anterior não dará lugar a abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.\n\n3 - O pessoal requisitado não poderá ser prejudicado nos seus direitos e regalias, designadamente em matéria de promoções e de segurança social.",
+      "alterador": 2
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "É criado no Ministério da Justiça, na directa dependência do Ministro, o Gabinete do Registo Nacional de Identificação, abreviadamente designado por Gabinete do Registo Nacional, com as seguintes atribuições:\n\na) Estudar, planear, coordenar e acompanhar a execução das tarefas necessárias à implantação do Registo Nacional;\n\nb) Velar pela realização do empreendimento nos precisos termos legais e pela sua permanente actualização;\n\nc) Assegurar a guarda e segurança da confidencialidade dos elementos constantes do Registo Nacional;\n\nd) Assegurar ao Ministério da Justiça o apoio técnico-administrativo necessário em matéria de planeamento e estatística.",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Competência",
+      "texto": "1. Para o exercício das suas atribuições compete, em especial, ao Gabinete:\n\na) Elaborar e submeter à aprovação do Governo o plano geral e os planos parciais de implantação do Registo Nacional;\n\nb) Definir os princípios de carácter técnico que convenha estabelecer na organização e funcionamento do Registo Nacional;\n\nc) Propor a distribuição dos estudos e dos empreendimentos que se tornem necessários, pelo próprio Gabinete, pelo Centro de Informática do Ministério da Justiça ou por outras entidades cujo concurso se mostre conveniente;\n\nd) Efectuar os estudos e as tarefas que lhe tenham sido distribuídos e designadamente os relativos à análise de concepção e às especificações do emprendimento;\n\ne) Coordenar as actividades dos diversos serviços envolvidos nos estudos preliminares, na implantação e na manutenção do Registo Nacional;\n\nf) Promover a sensibilização, formação e aperfeiçoamento do pessoal relacionado com a execução das tarefas que couberem a cada serviço envolvido no empreendimento;\n\ng) Definir os procedimentos de comunicação ao Registo Nacional dos elementos que nele devam figurar nos termos da lei;\n\nh) Velar pela correcta e oportuna comunicação ao Registo Nacional dos elementos necessários à sua permanente actualização;\n\ni) Assegurar que do Registo Nacional apenas constem os elementos permitidos pela lei;\n\nj) Definir os procedimentos necessários a assegurar a guarda e segurança da confidencialidade dos elementos sujeitos a registo, vedando o seu uso ou comunicação para além dos limites estabelecidos na lei;\n\nl) Promover a aplicação das sanções previstas no presente diploma;\n\nm) Criar delegações ou subdelegações, permanentes ou temporárias, em território nacional ou em país estrangeiro;\n\nn) Assegurar e coordenar a actuação do Ministério na preparação e execução dos planos económicos, estabelecer as ligações com os outros órgãos de planeamento e desempenhar as funções legalmente cometidas aos departamentos sectoriais de planeamento;\n\no) Prestar à Comissão Consultiva de Estatística o apoio técnico-administrativo necessário, assegurar as ligações entre os órgãos do Sistema Estatístico Nacional e os serviços do Ministério e tomar ou propor as providências necessárias ao aperfeiçoamento da informação estatística sectorial.\n\np) Assegurar a ligação com serviços estrangeiros similares, tendo em vista o conhecimento das medidas adoptadas relativamente ao aperfeiçoamento dos registos nacionais de população e das bases e bancos de dados relativos a pessoas singulares ou colectivas;\n\nq) Organizar, de acordo com as entidades competentes, a participação portuguesa em congressos ou outras reuniões internacionais sobre temas relativos à organização e manutenção de bases e bancos de dados de pessoas singulares ou colectivas ou colaborar na mesma organização;\n\nr) Promover a realização de missões e visitas, no País ou no estrangeiro, para o estudo dos assuntos referidos nas alíneas anteriores ou para a frequência de cursos a eles respeitantes, e bem assim recorrer à colaboração de técnicos, nacionais ou estrangeiros, a fim de participarem em estudos, cursos, colóquios, seminários e iniciativas semelhantes;\n\ns) Propor as providências que considere convenientes para assegurar o melhor rendimento da actividade do Gabinete e o mais perfeito desempenho das suas atribuições, incluindo as que respeitem à conveniência da sua evolução institucional.\n\n2. Em vista do disposto da alínea o), o director do Gabinete do Registo Nacional será o representante do Ministério da Justiça no Conselho Nacional de Estatística.",
+      "alterador": 3
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Impressos exclusivos",
+      "texto": "(Revogado.)",
+      "alterador": 8
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As Portarias n.º 726/79, 1064/80, 17/81 (n.º 1.º) e 252/82 alteram os quadros de pessoal (mapas I e II anexos e quadros aprovados pelo diploma), que só vêm em imagem ('ver documento original'); não aplicadas ao texto.",
+  "instrucoes": [
+    "DL 326/78 art. 1.º: nova redação dos arts. 4.º, 5.º, 8.º, 10.º, 19.º, 20.º, 30.º (aplicadas, corpo inteiro substituído) e 85.º (aditado n.º 4, mas o artigo é depois revogado pelo DL 103/2001)",
+    "DL 326/78 arts. 2.º e 3.º: normas autónomas sobre cartões de identificação; não alteram o original",
+    "DL 346/78: nova redação do art. 64.º (corpo inteiro substituído pelos 3 números; epígrafe atual mantida)",
+    "DL 311/79: nova redação da alínea d) do art. 46.º e das alíneas n) e o) do n.º 1 do art. 47.º; aplicadas, resto copiado do texto atual",
+    "Portaria 726/79: aumenta o quadro do Gabinete do Registo Nacional (quadro III em imagem); não aplicável",
+    "Portaria 1064/80 n.º 1.º, 6: aumenta o quadro do Centro de Informática (mapa VI em imagem); não aplicável; restantes números visam outros diplomas",
+    "Portaria 17/81 n.º 1.º: altera o mapa II (quadro em imagem); não aplicável; n.os 2.º a 9.º são normas autónomas",
+    "Portaria 252/82: aumenta o quadro do Centro de Informática (mapa em imagem); não aplicável",
+    "DL 103/2001 art. 10.º: revoga o art. 85.º; aplicado ((Revogado.)); o resto do diploma e os Estatutos anexos não alteram o original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

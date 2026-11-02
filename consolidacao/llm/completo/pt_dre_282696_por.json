@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:282696:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Carreira de secretário aduaneiro",
+      "texto": "1 - O recrutamento para as categorias da carreira de secretário aduaneiro do quadro de pessoal da Direcção-Geral das Alfândegas obedece às seguintes regras:\n\na) Secretário aduaneiro especialista de 1.ª classe e secretário aduaneiro especialista, de entre, respectivamente, as categorias de secretário aduaneiro especialista e principal, possuidores do curso complementar do ensino secundário, com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;\n\nb) Secretário aduaneiro principal e secretário aduaneiro de 1.ª classe, de entre, respectivamente, as categorias de secretário aduaneiro de 1.ª classe e de 2.ª classe com um mínimo, de três anos na respectiva categoria classificados de Bom;\n\nc) Secretário aduaneiro de 2.ª classe, de entre secretários aduaneiros estagiários que obtiverem aproveitamento no respectivo estágio e aprovação nas provas especialmente realizadas para o efeito;\n\nd) Secretário aduaneiro estagiário, de entre indivíduos habilitados com o curso complementar do ensino secundário ou equiparado, mediante concurso, que incluirá provas de selecção adequadas.\n\n2 - Os actuais secretários aduaneiros não possuidores da habilitação académica referida na alínea a) do número anterior poderão apresentar-se aos concursos de acesso às categorias de secretário aduaneiro especialista de 1.ª classe e secretário aduaneiro especialista após a frequência, com aproveitamento, de um curso de formação.\n\n3 - A duração, o conteúdo programático, os sistemas de funcionamento e a avaliação do curso previsto no número anterior serão aprovados por portaria do membro do Governo competente e do que tiver a seu cargo a função pública.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Formação profissional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Alteração ao quadro de pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DR 34/91), artigo único: nova redação do artigo 1.º, n.º 1 e alíneas a) a d) mantidos ('...'), aditados os n.os 2 e 3; aplicado.",
+    "Alterador 2 (DL 132/2019), art. 50.º, alínea j): revoga os artigos 2.º e 3.º; ambos ficam '(Revogado.)'. As restantes alíneas do art. 50.º visam outros diplomas e foram ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -10,15 +10,12 @@ consolidacao:
   - id: pt:dre:684205:por
     title: Decreto-Lei n.º 119/2003
     publication_date: '2003-06-17'
-  - id: pt:dre:684205:por
-    title: Decreto-Lei n.º 119/2003
-    publication_date: '2003-06-17'
-  - id: pt:dre:608182:por
-    title: Decreto-Lei n.º 20/2004
-    publication_date: '2004-01-22'
   - id: pt:dre:507641:por
     title: Decreto-Lei n.º 176/2004
     publication_date: '2004-07-23'
+  - id: pt:dre:608182:por
+    title: Decreto-Lei n.º 20/2004
+    publication_date: '2004-01-22'
 ---
 
 # Decreto-Lei n.º 120/2002
@@ -139,25 +136,21 @@ c) Secretário de Estado Adjunto do Ministro da Presidência;
 
 d) Secretário de Estado da Juventude e Desportos.
 
-3 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
-
-4 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.
-
-> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 6.º-A
 
 1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Primeiro-Ministro.
 
-2 - (Anterior n.º 3 do artigo 6.º)
+2 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.
 
-3 - (Anterior n.º 4 do artigo 6.º)
+3 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.
 
 > Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
-###### Artigo 7.º
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
+###### Artigo 7.º
 
 ###### Artigo 8.º
 
@@ -183,7 +176,7 @@ d) (Revogada.)
 
 5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.
 
-> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
+> Alterado pelo/a [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
 
 ###### Artigo 10.º
 
@@ -213,7 +206,9 @@ d) (Revogada.)
 
 1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
-2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Ministro da Presidência.
+2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Presidência.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 15.º
 
@@ -235,7 +230,9 @@ d) (Revogada.)
 
 3 - Transitam do extinto Ministério do Equipamento Social para o Ministério da Economia os serviços e organismos com atribuições e competências no domínio das telecomunicações.
 
-4 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, compete ao Ministro da Economia a definição da orientação estratégica relativamente às entidades do sector empresarial do Estado no domínio dos correios e telecomunicações.
+4 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro da Economia as entidades do sector empresarial do Estado no domínio dos correios e das telecomunicações.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 18.º
 
@@ -243,7 +240,7 @@ d) (Revogada.)
 
 2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.
 
-> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
+> Alterado pelo/a [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182), publicado em 2004-01-22.
 
 ###### Artigo 19.º
 
@@ -255,7 +252,7 @@ d) (Revogada.)
 
 1 - É criado o Ministério da Ciência e do Ensino Superior.
 
-2 - O Ministro da Ciência e do Ensino Superior é coadjuvado no exercício das suas funções pelo Secretário de Estado da Ciência e Tecnologia.
+2 - O Ministro da Ciência e do Ensino Superior é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Ciência e do Ensino Superior.
 
 3 - Transitam do extinto Ministério da Ciência e da Tecnologia para o Ministério da Ciência e do Ensino Superior os serviços e organismos naquele compreendidos, à excepção do Gabinete de Gestão e Intervenção Operacional para a Sociedade da Informação, que transita para a Presidência do Conselho de Ministros.
 
@@ -276,6 +273,8 @@ f) Conselho Coordenador dos Institutos Superiores Politécnicos;
 g) Conselho Nacional da Avaliação do Ensino Superior;
 
 h) Conselho Nacional da Acção Social do Ensino Superior.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 21.º
 
@@ -303,7 +302,7 @@ h) Conselho Nacional da Acção Social do Ensino Superior.
 
 1 - É criado o Ministério das Obras Públicas, Transportes e Habitação.
 
-2 - O Ministro das Obras Públicas, Transportes e Habitação é coadjuvado pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado dos Transportes e pelo Secretário de Estado da Habitação.
+2 - O Ministro das Obras Públicas, Transportes e Habitação é coadjuvado no exercício das suas funções pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado dos Transportes e pelo Secretário de Estado da Habitação.
 
 3 - Transitam do extinto Ministério do Equipamento Social para o Ministério das Obras Públicas, Transportes e Habitação os serviços e organismos naquele compreendidos, sem prejuízo dos serviços e organismos que transitam para o Ministério da Economia.
 
@@ -311,11 +310,13 @@ h) Conselho Nacional da Acção Social do Ensino Superior.
 
 5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro das Obras Públicas, Transportes e Habitação as entidades do sector empresarial do Estado nos domínios dos transportes e respectivas infra-estruturas, portos, aeroportos e navegação aérea, marítima e fluvial.
 
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
+
 ###### Artigo 25.º
 
 1 - É criado o Ministério das Cidades, Ordenamento do Território e Ambiente.
 
-2 - O Ministro das Cidades, Ordenamento do Território e Ambiente é coadjuvado pelo Secretário de Estado Adjunto e do Ordenamento do Território, pelo Secretário de Estado do Ambiente e pelo Secretário de Estado da Administração Local.
+2 - O Ministro das Cidades, Ordenamento do Território e Ambiente é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado da Administração Local e pelo Secretário de Estado do Ambiente e Ordenamento do Território.
 
 3 - Transitam do extinto Ministério do Ambiente e do Ordenamento do Território para o Ministério das Cidades, Ordenamento do Território e Ambiente os serviços e organismos nele compreendidos.
 
@@ -333,59 +334,65 @@ e) Comissão de Coordenação da Região do Algarve.
 
 5 - Sem prejuízo do disposto no número anterior, participa na definição das linhas de orientação daqueles serviços a Ministra de Estado e das Finanças.
 
-6 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Cidades, Ordenamento do Território e Ambiente as entidades do sector empresarial do Estado nos domínios das águas, resíduos e reabilitação urbana, bem como as seguintes entidades:
+6 - Transita do Ministério das Finanças para o Ministério das Cidades, Ordenamento do Território e Ambiente a Direcção-Geral do Desenvolvimento Regional.
+
+7 - Sem prejuízo do disposto no número anterior, o Ministro de Estado e das Finanças participa na definição das linhas de orientação estratégica e na coordenação e controlo de gestão dos fundos estruturais comunitários e do Fundo de Coesão que incumbem àquela Direcção-Geral.
+
+8 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Cidades, Ordenamento do Território e Ambiente as entidades do sector empresarial do Estado nos domínios das águas, resíduos e reabilitação urbana, bem como as seguintes entidades:
 
 a) Parque Expo, S. A.;
 
 b) COSTAGEST, S. A.;
 
-c) EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, neste caso ouvindo o Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+c) EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., neste caso, ouvindo o Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+> Alterado pelo/a [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
 
 ###### Artigo 26.º
 
-1 - Ficam sujeitos a superintendência conjunta:
+Ficam sujeitos a superintendência conjunta, nomeadamente:
 
 a) O Instituto Hidrográfico, cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa Nacional e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-b) A Agência de Inovação, cabendo a tutela funcional e patrimonial ao Ministro Adjunto do Primeiro-Ministro e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+b) O Instituto Nacional de Engenharia, Tecnologia e Inovação, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-c) A Agência Portuguesa de Apoio ao Desenvolvimento, cabendo a tutela funcional e patrimonial ao Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com a Ministra de Estado e das Finanças;
+c) O Instituto Nacional da Propriedade Industrial, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro Adjunto do Primeiro-Ministro;
 
-d) O Instituto Geológico e Mineiro, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+d) O Instituto Nacional de Investigação Agrária e das Pescas, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-e) O Instituto Nacional de Engenharia e Tecnologia Industrial, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+e) O Laboratório Nacional de Investigação Veterinária, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-f) O Instituto Nacional da Propriedade Industrial, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro Adjunto do Primeiro-Ministro;
+f) A Agência Nacional para os Programas Comunitários Sócrates e Leonardo da Vinci, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho, e, quanto ao programa ERASMUS, com o Ministro da Ciência e do Ensino Superior;
 
-g) O Instituto de Investigação das Pescas e do Mar, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+g) O Conselho Nacional de Educação, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-h) O Instituto Nacional de Investigação Agrária, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+h) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência e do Ensino Superior e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Economia;
 
-i) A Agência Nacional de Educação e Formação de Adultos, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho;
+i) O Instituto de Genética Médica Doutor Jacinto de Magalhães, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-j) A Agência Nacional para os Programas Comunitários Sócrates e Leonardo da Vinci, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho, e, quanto ao programa ERASMUS, com o Ministro da Ciência e do Ensino Superior;
+j) O Instituto Nacional de Saúde Dr. Ricardo Jorge, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
 
-l) O Conselho Nacional de Educação, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+l) A Comissão para a Igualdade no Trabalho e Emprego, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Presidência;
 
-m) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência e do Ensino Superior e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Economia;
+m) A Comissão Nacional de Protecção das Crianças e Jovens em Risco, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com a Ministra da Justiça;
 
-n) O Instituto Nacional de Saúde Dr. Ricardo Jorge, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;
+n) O Instituto do Emprego e Formação Profissional, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
 
-o) A Comissão para a Igualdade no Trabalho e no Emprego, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Presidência;
+o) O Instituto para a Inovação na Formação, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
 
-p) A Comissão Nacional de Protecção das Crianças e Jovens em Risco, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com a Ministra da Justiça;
+p) A Santa Casa da Misericórdia de Lisboa, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Saúde;
 
-q) O Instituto do Emprego e Formação Profissional, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
+q) O Laboratório Nacional de Engenharia Civil, cabendo a tutela funcional e patrimonial ao Ministro das Obras Públicas, Transportes e Habitação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior.
 
-r) O Instituto para a Inovação na Formação, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
-
-s) A Santa Casa da Misericórdia de Lisboa, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Saúde;
-
-t) O Laboratório Nacional de Engenharia Civil, cabendo a tutela funcional e patrimonial ao Ministro das Obras Públicas, Transportes e Habitação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior.
+> Alterado pelo/a [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182), publicado em 2004-01-22.
 
 ###### Artigo 27.º
 
-A definição da orientação estratégica das sociedades PARPÚBLICA - Participações Públicas (SGPS), S. A., e IPE - Investimentos e Participações Empresariais, S. A., compete à Ministra de Estado e das Finanças e ao Ministro da Economia.
+1 - A definição da orientação estratégica da sociedade PARPÚBLICA - Participações Públicas (SGPS), S. A., compete ao Ministro de Estado e das Finanças e ao Ministro da Economia.
+
+2 - A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete ao Ministro Adjunto do Primeiro-Ministro, ao Ministro da Economia e ao Ministro da Ciência e do Ensino Superior.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 28.º
 
@@ -397,15 +404,17 @@ O Conselho Superior de Obras Públicas e Transportes mantém a competência para
 
 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, participa nas reuniões do Conselho de Ministros, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
 3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 30.º
 
 1 - É criado o Conselho de Ministros para os Assuntos Europeus, de que fazem parte o Primeiro-Ministro, que preside, e todos os ministros.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado dos Assuntos Europeus.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.
 
 3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Europeus, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
@@ -420,6 +429,8 @@ c) Acompanhar, de um modo geral, a evolução da União e, bem assim, da integra
 d) Aprovar o relatório anual relativo à participação de Portugal na União;
 
 e) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ###### Artigo 31.º
 
@@ -447,7 +458,7 @@ j) Ministro das Cidades, Ordenamento do Território e Ambiente;
 
 l) Outros ministros que, para cada reunião, sejam convocados por indicação do Primeiro-Ministro.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
 3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Económicos, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
@@ -464,6 +475,8 @@ d) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos 
 e) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do Conselho de Ministros;
 
 f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.
+
+> Alterado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205), publicado em 2003-06-17.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
@@ -493,7 +506,7 @@ f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 Até à entrada em vigor do Orçamento do Estado do ano de 2005 mantém-se a expressão orçamental da estrutura governativa anterior relativa à Direcção-Geral do Desenvolvimento Regional.
 
-> Aditado pelo/a [Decreto-Lei n.º 119/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205) e [Decreto-Lei n.º 20/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2004-608182) e [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
+> Aditado pelo/a [Decreto-Lei n.º 176/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2004-507641), publicado em 2004-07-23.
 
 ###### Artigo 33.º
 
@@ -522,3 +535,5 @@ O Presidente da República, JORGE SAMPAIO.
 Referendado em 26 de Abril de 2002.
 
 O Primeiro-Ministro, José Manuel Durão Barroso.
+
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.

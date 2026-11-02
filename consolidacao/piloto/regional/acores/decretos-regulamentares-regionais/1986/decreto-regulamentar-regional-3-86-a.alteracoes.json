@@ -1,16 +1,72 @@
 [
   {
-    "artigo": "60.º",
-    "operacao": "revogar",
+    "artigo": "18.º",
+    "operacao": "substituir",
     "regra": "llm",
-    "antes": "###### Artigo 60.º — (Regime de alerta)\n\nA Direcção Regional de Saúde definirá, em conjunto com os conselhos de administração dos centros de saúde, as situações em que se recorrerá ao regime de alerta.",
-    "depois": "###### Artigo 60.º — Regime de alerta\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945) e [Decreto Regulamentar Regional n.º 9/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1997-383448) e [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27.",
+    "antes": "###### Artigo 18.º — (Composição)\n\n1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional dos Assuntos Sociais, por um período de três anos, renovável.\n\n2 - A presidência do conselho de administração é confiada a um médico, a quem é conferida a designação de director do centro de saúde.\n\n3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre profissionais de preferência com a categoria de chefe de secção, de repartição ou das carreiras de pessoal técnico, técnico superior ou ainda de gerente de centro de saúde dos quadros da administração regional, e um vogal enfermeiro dos mesmos quadros.",
+    "depois": "###### Artigo 18.º — (Composição)\n\n1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional da Saúde e Segurança Social, sob proposta do director regional de Saúde.\n\n2 - A presidência do conselho de administração é confiada a um médico, a quem é conferida a designação de director do centro de saúde.\n\n3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre indivíduos vinculados ou não à Administração Pública, de preferência com licenciatura adequada, designadamente na área da gestão, e um vogal enfermeiro, nomeado de entre profissionais integrados na carreira de enfermagem.\n\n4 - A duração e a cessação da comissão de serviço obedecem ao disposto nos artigo 5.º e 7.º, nomeadamente no seu n.º 2, alínea a), do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:194799:por",
-    "alterador": "pt:dre:332945:por;pt:dre:383448:por;pt:dre:176359:por"
+    "alterador": "pt:dre:176359:por;pt:dre:332945:por"
+  },
+  {
+    "artigo": "37.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 37.º — (Caracterização e competências)\n\n1 - O sector de atendimento permanente destina-se a corresponder às solicitações dos utentes em situação de urgência que ali acorram, por iniciativa própria ou por recomendação médica, e a caracterizar as situações que tenham de ser encaminhadas para estabelecimentos prestadores de cuidados hospitalares.\n\n2 - O atendimento permanente poderá ser garantido no regime de presença física ou no regime de alerta, de acordo com o número de utentes abrangidos pelo centro de saúde e os meios humanos disponíveis.\n\n3 - Os profissionais do centro de saúde, quando em actividade de atendimento permanente, assegurarão a resposta à urgência interna, dando o indispensável apoio à unidade de internamento.\n\n4 - Quando o atendimento permanente é assegurado na modalidade de presença física, os profissionais de serviço, nomeadamente o pessoal médico, desenvolverão outras actividades a nível do ambulatório ou do internamento.",
+    "depois": "###### Artigo 37.º — Caracterização e competência\n\n1 - O sector de atendimento permanente destina-se a corresponder às solicitações dos utentes em situação de urgência que ali acorram, por iniciativa própria ou por recomendação médica, e a caracterizar as situações que tenham de ser encaminhadas para estabelecimentos prestadores de cuidados hospitalares.\n\n2 - O atendimento permanente poderá ser garantido no regime de presença física ou no regime de prevenção previsto no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, de acordo com o número de utentes abrangidos pelo centro de saúde e os meios humanos disponíveis.\n\n3 - Os profissionais do centro de saúde, quando em actividade de atendimento permanente, assegurarão a resposta à urgência interna, dando o indispensável apoio à unidade de internamento.\n\n4 - Quando o atendimento permanente é assegurado na modalidade de presença física, os profissionais de serviço, nomeadamente o pessoal médico, desenvolverão outras actividades a nível do ambulatório ou do internamento.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:176359:por;pt:dre:332945:por"
+  },
+  {
+    "artigo": "60.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 60.º — (Regime de alerta)\n\nA Direcção Regional de Saúde definirá, em conjunto com os conselhos de administração dos centros de saúde, as situações em que se recorrerá ao regime de alerta.",
+    "depois": "###### Artigo 60.º — (Regime de alerta)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:176359:por;pt:dre:332945:por"
+  },
+  {
+    "artigo": "62.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 62.º — (Remuneração de cargos)\n\nAs remunerações dos membros dos conselhos de administração são as estabelecidas no decreto regulamentar regional a que se refere o n.º 1 do artigo 52.º",
+    "depois": "###### Artigo 62.º — Remuneração dos cargos\n\nAs condições de trabalho e as remunerações dos membros dos conselhos de administração serão estabelecidas por despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e Planeamento e da Saúde e Segurança Social.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:176359:por;pt:dre:332945:por"
+  },
+  {
+    "artigo": "67.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 67.º — (Remuneração do regime de alerta)\n\n1 - Ao pessoal em serviço de atendimento permanente, em regime de alerta, é atribuído um acréscimo sobre o respectivo vencimento base calculado de acordo com a seguinte fórmula:\n\nAcréscimo = (VB x 60%)/30 x n + (Z x 175R)\n\nVB - Vencimento base.\n\nn - Número de dias em regime de alerta.\n\nZ - Número de chamadas com deslocação.\n\n100R - Custo da hora normal de trabalho.\n\n2 - Se, na sequência da chamada, o profissional vier a desenvolver actividade por período superior a 2 horas, será remunerado pelo trabalho extraordinário realizado nos termos das disposições deste diploma.\n\n3 - A remuneração prevista nos números anteriores não pode ultrapassar o valor do vencimento base.\n\n4 - Ao pessoal em regime de alerta não é devida qualquer compensação pela utilização de transportes quando chamado ao centro de saúde.",
+    "depois": "###### Artigo 67.º — (Remuneração do regime de alerta)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194799:por",
+    "alterador": "pt:dre:176359:por;pt:dre:332945:por"
   }
 ]

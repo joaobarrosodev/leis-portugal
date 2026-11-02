@@ -1,0 +1,238 @@
+{
+  "id": "pt:dre:545650:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Missão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Estrutura geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Administração directa do Estado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Administração indirecta do Estado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Entidades administrativas independentes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Órgão consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Outras estruturas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Sector empresarial do Estado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Controlador financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Inspecção-Geral de Finanças",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Secretaria-Geral",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Direcção-Geral do Orçamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Direcção-Geral do Tesouro e Finanças",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Direcção-Geral dos Impostos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Direcção-Geral da Administração e do Emprego Público",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Instituto de Informática",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Serviços Sociais da Administração Pública",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Caixa Geral de Aposentações, I. P.",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Instituto Nacional de Administração, I. P.",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Instituto de Gestão do Crédito Público, I. P.",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Banco de Portugal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Instituto de Seguros de Portugal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Comissão do Mercado de Valores Mobiliários",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Conselho Superior de Finanças",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Comissão de Acompanhamento das Reprivatizações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Conselho de Garantias Financeiras à Exportação e ao Investimento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Quadro de pessoal dirigente",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Criação, fusão e reestruturação de serviços e organismos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Referências legais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Produção de efeitos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Legislação orgânica complementar",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - Até à revisão dos diplomas que regulam os fundos autónomos, integrando as matérias relativas à afectação de receitas e respectiva gestão, mantêm-se em vigor os artigos 22.º e 23.º do [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), de 24 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 19 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 23 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "A revogação do diploma pelo DL 117/2011 abrange também os anexos I e II (mapas de dirigentes), que não constam do texto atual por artigos; não há chave para os assinalar.",
+  "instrucoes": [
+    "Alterador 1 (DL 69-A/2009, art. 73.º): altera a alínea i) do n.º 2 do artigo 14.º; já refletida no texto atual (artigo já alterado), sem mudança adicional; o artigo fica depois revogado pelo alterador 3.",
+    "Alterador 2 (DL 86-A/2011, Lei Orgânica do XIX Governo): não contém instrução dirigida ao original; nada aplicado.",
+    "Alterador 3 (DL 117/2011, art. 33.º, al. b)): revoga o DL 205/2006 com exceção do n.º 4 do artigo 37.º; artigos 1.º a 36.º passam a (Revogado.) e no artigo 37.º os n.os 1 a 3 passam a (Revogado.), mantendo-se o n.º 4.",
+    "Alterador 4 (Lei 7-A/2016, art. 202.º): altera o artigo 22.º do DL 47/2005; outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

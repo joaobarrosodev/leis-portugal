@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:520187:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: fixa o valor da taxa do art. 1.º em 2$00/kg sem dar nova redação ao artigo (não é textual); fica sem efeito no texto porque o art. 1.º é depois revogado pelo alterador 2.",
+    "Alt. 1, art. 2.º: permite alterar a taxa por despacho - não textual, sem efeito no texto.",
+    "Alt. 2, art. 20.º: revoga os arts. 1.º a 6.º - aplicado, um elemento '(Revogado.)' por artigo; o resto do artigo dirige-se a outros diplomas - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

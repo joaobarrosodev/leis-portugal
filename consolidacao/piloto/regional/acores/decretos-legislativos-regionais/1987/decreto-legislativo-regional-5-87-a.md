@@ -31,11 +31,43 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do ar
 
 O regime do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, à excepção do artigo 18.º, alínea l) do artigo 20.º, n.º 4 do artigo 23.º, artigo 31.º, n.º 1 do artigo 32.º, n.º 4 do artigo 33.º, n.º 2 do artigo 34.º, alínea d) do n.º 4 do artigo 37.º, artigo 39.º, artigo 40.º, artigo 41.º e alíneas b), e), f) e g) do artigo 42.º, aplica-se a todos os serviços da administração regional autónoma dos Açores e institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, de acordo com as seguintes adaptações:
 
-###### Artigo 2.º — Contratos de trabalho
+###### Artigo 2.º — Fundamentação e apreciação
 
-(Revogado.)
+Depende de parecer da Secretaria Regional das Finanças (SRF) e da Secretaria Regional da Administração Pública (SRAP) a aprovação dos projectos de diploma que visem:
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 21/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1988-373581) e [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
+a) ...
+
+b) ...
+
+c) ...
+
+2 - ...
+
+a) ...
+
+b) Mapas dos modelos I, II e III anexos, com as adaptações necessárias, sempre que dos diplomas resulte a criação ou alteração de quadros ou mapas de pessoal;
+
+c) Parecer técnico dos serviços, quando os houver, que nos respectivos departamentos governamentais têm competência em matéria de organização de gestão de pessoal, o qual, em caso de criação ou reorganização de serviços ou de aumento de quadros, analisará, designadamente, soluções alternativas de concentração, de absorção de serviços ou de mobilidade, respectivamente.
+
+3 - Os estudos preliminares e a preparação dos referidos projectos podem ser assessorados pelos serviços da SRF e da SRAP.
+
+4 - A reorganização de serviços não deve determinar acréscimo dos encargos globais do respectivo departamento governamental.
+
+5 - ...
+
+6 - Os pareceres a que se refere o n.º 1 deverão ser prévios à circulação para aprovação em Conselho do Governo Regional e devem ser emitidos no prazo de 30 dias a contar da data da sua entrada nos respectivos departamentos, prazo que será interrompido sempre que se solicitem elementos adicionais ou se proceda a uma auditoria de gestão nos termos do artigo 3.º
+
+7 - O parecer da SRF deve pronunciar-se expressamente sobre o custo dos projectos, sua cobertura e adequação à política orçamental.
+
+8 - O parecer da SRAP deve pronunciar-se expressamente sobre:
+
+a) A eventual existência de serviços que prossigam objectivos complementares, paralelos ou sobrepostos;
+
+b) A adequação da estrutura proposta aos objectivos;
+
+c) A adequação dos efectivos à estrutura proposta e aos objectivos a prosseguir, bem como à política de recursos humanos, designadamente mobilidade e contenção de pessoal;
+
+d) A necessidade das soluções preconizadas, do ponto de vista da eficiência e da eficácia dos serviços e da sua compatibilização com o regime geral da função pública.
 
 ###### Artigo 3.º — Auditoria de gestão
 
@@ -95,31 +127,9 @@ c) ...
 
 ###### Artigo 10.º — Estrutura do projecto
 
-1 - Quando a realização de determinada missão, dado o seu carácter interdepartamental e interdisciplinar, não possa ser eficazmente prosseguida através de estruturas orgânicas formais e seja aconselhável o seu desenvolvimento integrado, poderá ser criada uma estrutura de projecto.
+(Revogado.)
 
-2 - A estrutura de projecto deve ser constituída através de despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública e dos membros do Governo Regional dos quais dependa a realização do projecto.
-
-3 - ...
-
-a) ...
-
-b) ...
-
-c) ...
-
-d) ...
-
-e) ...
-
-f) ...
-
-g) ...
-
-h) ...
-
-i) ...
-
-4 - ...
+> Revogado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 ###### Artigo 11.º — Congelamento e admissões
 
@@ -179,7 +189,7 @@ c) ...
 
 1 - ...
 
-a) Quando a única forma de provimento prevista seja o contrato e se destine ao preenchimento de lugares do quadro;
+a) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.
 
 b) ...
 
@@ -198,6 +208,8 @@ b) Redução a escrito e visto da Secção Regional do Tribunal de Contas.
 3 - Os diplomas de descongelamento estabelecerão quais as carreiras e ou categorias de pessoal que se encontrem nas condições previstas na alínea e) do n.º 1.
 
 4 - Os contratos referidos na alínea e) do n.º 1 não poderão manter-se por período superior a um ano, sendo vedada a celebração de novo contrato pelo mesmo serviço e para a mesma categoria sem que tenham decorridos pelo menos seis meses após o termo do último contrato, salvo nos casos em que o agente foi admitido a concurso, situação em que o contrato poderá ser mantido até à caducidade do prazo do respectivo concurso.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 21/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1988-373581), publicado em 1988-05-03.
 
 ###### Artigo 15.º — Rescisão, denúncia e caducidade dos contratos
 

@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:569757:por
-    title: Decreto-Lei n.º 72-A/2010
-    publication_date: '2010-06-18'
   - id: pt:dre:114425586:por
     title: Lei n.º 114/2017
     publication_date: '2017-12-29'
@@ -135,7 +132,7 @@ Os membros do Governo podem recorrer ao destacamento ou à requisição de funci
 
 Aos motoristas do mapa de pessoal dos gabinetes dos Representantes da República é aplicável o regime constante da parte final dos n.os 2 e 3, a alínea d) do n.º 4 e o n.º 7 do artigo 13.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, que estabelece a natureza, a composição, a orgânica e o regime jurídico a que estão sujeitos os gabinetes dos membros do Governo.
 
-> Aditado pelo/a [Decreto-Lei n.º 72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757) e [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), publicado em 2017-12-29.
+> Aditado pelo/a [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), publicado em 2017-12-29.
 
 ###### Artigo 13.º — Revogação
 

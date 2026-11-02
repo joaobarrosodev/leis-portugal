@@ -83,7 +83,7 @@ REGULAMENTO DAS TABELAS DE PREÇOS A PRATICAR PARA A PRODUÇÃO ADICIONAL REALIZ
 
 3 - Fica o órgão máximo de gestão da instituição do SNS obrigado a remeter trimestralmente ao membro do Governo responsável pela área da saúde um relatório com a identificação e fundamentação das ocorrências a que se referem os números anteriores e, bem assim, a apresentar propostas concretas tendentes a reduzir as situações potenciadoras de recurso ao previsto no presente artigo exceto quando se tratam de urgências regionais estabelecidas superiormente.
 
-> Aditado pelo/a [Portaria n.º 260-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/260-b-2015-70095680) e [Portaria n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/portaria/18-2016-73462826), publicado em 2016-02-08.
+> Aditado pelo/a [Portaria n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/portaria/18-2016-73462826), publicado em 2016-02-08.
 
 ###### Artigo 3.º — Definições
 
@@ -101,7 +101,11 @@ REGULAMENTO DAS TABELAS DE PREÇOS A PRATICAR PARA A PRODUÇÃO ADICIONAL REALIZ
 
 3 - O preço a pagar pela atividade referida no n.º 1 tem como valor base de referência (euro) 1326,49, que é multiplicado para cada GDH, por um fator que reflete a complexidade da situação e que se designa por peso relativo, conforme o disposto na col. D do anexo ii, e por um fator que adapta o preço à disponibilidade da oferta e que se designa por fator de equilíbrio, conforme o disposto na col. E do anexo ii do presente Regulamento.
 
-4 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório.
+4 - O valor referido no número anterior pode ser parcialmente atribuído a médicos especialistas que integram equipas no âmbito da atividade normal e depende da autorização do membro do Governo responsável pela área da saúde, mediante proposta fundamentada do órgão máximo de gestão da instituição ou serviço do SNS, na qual se demonstra que a carência de tais profissionais inviabiliza a constituição das tais equipas, devem, ainda, fixar a percentagem de valor a atribuir aos profissionais em causa, tendo em conta as regras de repartição previstas no Despacho n.º 24036/2004, de 22 de novembro.
+
+5 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório.
+
+> Alterado pelo/a [Portaria n.º 260-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/260-b-2015-70095680), publicado em 2015-08-24.
 
 ###### Artigo 5.º — Âmbito dos serviços
 

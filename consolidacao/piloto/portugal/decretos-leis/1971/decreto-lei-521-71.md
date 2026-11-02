@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:521445:por
-    title: Decreto-Lei n.º 35/94
-    publication_date: '1994-02-08'
   - id: pt:dre:307662:por
     title: Decreto-Lei n.º 119/2010
     publication_date: '2010-10-27'
@@ -285,7 +282,7 @@ c) Enviar ao Comando-Geral da Polícia de Segurança Pública um relatório sobr
 
 5 - É ainda dispensada a presença de escolta ou o uso do sistema de geolocalização referidos nos n.os 1 e 3 se na fábrica, oficina, paiol ou depósito existir licença permanente para transporte de explosivos para os pontos de embarque ou desembarque, a uma distância não superior a 5 km, e houver um responsável por cada viatura.
 
-> Alterado pelo/a [Decreto-Lei n.º 35/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1994-521445) e [Decreto-Lei n.º 119/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2010-307662), publicado em 2010-10-27.
+> Alterado pelo/a [Decreto-Lei n.º 119/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2010-307662), publicado em 2010-10-27.
 
 ###### Artigo 30.º
 

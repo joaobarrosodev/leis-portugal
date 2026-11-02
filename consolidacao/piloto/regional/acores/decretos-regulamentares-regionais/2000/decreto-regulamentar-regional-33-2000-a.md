@@ -7,15 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:604213:por
-    title: Decreto Regulamentar Regional n.º 15/2001/A
-    publication_date: '2001-11-14'
   - id: pt:dre:437619:por
     title: Decreto Regulamentar Regional n.º 33/2002/A
     publication_date: '2002-12-05'
-  - id: pt:dre:233763:por
-    title: Decreto Regulamentar Regional n.º 38-A/2004/A
-    publication_date: '2004-12-11'
 ---
 
 # Decreto Regulamentar Regional n.º 33/2000/A
@@ -252,7 +246,7 @@ g) Assuntos da imigração.
 
 3 - O Serviço Regional de Estatística dos Açores transita para a dependência do Secretário Regional Adjunto da Presidência.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 15/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2001-604213) e [Decreto Regulamentar Regional n.º 33/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2002-437619) e [Decreto Regulamentar Regional n.º 38-A/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-a-2004-233763), publicado em 2004-12-11.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 33/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2002-437619), publicado em 2002-12-05.
 
 ###### Artigo 16.º — Criação de direcções regionais
 

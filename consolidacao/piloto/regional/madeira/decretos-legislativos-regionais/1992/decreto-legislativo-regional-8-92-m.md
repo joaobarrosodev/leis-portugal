@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:426537:por
-    title: Decreto Legislativo Regional n.º 7-A/2000/M
-    publication_date: '2000-03-15'
-  - id: pt:dre:613422:por
-    title: Decreto Legislativo Regional n.º 4/2010/M
-    publication_date: '2010-04-19'
   - id: pt:dre:292691:por
     title: Decreto Legislativo Regional n.º 25-A/2013/M
     publication_date: '2013-07-26'
+  - id: pt:dre:613422:por
+    title: Decreto Legislativo Regional n.º 4/2010/M
+    publication_date: '2010-04-19'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -48,7 +45,7 @@ A Assembleia Legislativa Regional da Madeira, nos termos da alínea c) do n.º 1
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 7-A/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-a-2000-426537) e [Decreto Legislativo Regional n.º 4/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2010-613422) e [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 3.º
 
@@ -56,9 +53,9 @@ A concessão considera-se realizada em regime de serviço público, sendo confer
 
 ###### Artigo 4.º
 
-1 - Fica o Governo Regional da Madeira autorizada a proceder à formalização do contrato de concessão, cuja minuta deverá ser aprovada pelo Conselho do Governo Regional.
+(Revogado.)
 
-2 - O Governo Regional da Madeira fica obrigado a exarar o contrato de concessão, nas condições dos artigos seguintes.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 5.º
 
@@ -66,61 +63,25 @@ A exploração do serviço público de apoio à aviação civil é feita em regi
 
 ###### Artigo 6.º
 
-As obras, de ampliação e de desenvolvimento, dos aeroportos da Região Autónoma da Madeira, objecto da concessão, referidas no artigo 1.º do presente diploma, cuja execução deverá ser iniciada de imediato, de forma continuada e sem prejuízo de outras que venham a revelar-se necessárias ao seu bom funcionamento, compreendem, nomeadamente:
+(Revogado.)
 
-a) A construção das obras de ampliação da segunda fase do Aeroporto de Santa Catarina;
-
-b) A construção da nova aerogare do Aeroporto do Porto Santo;
-
-c) O reforço e reperfilamento da parte antiga da pista, na extensão de 2290 m, e reformulação da sinalização luminosa da pista do Aeroporto do Porto Santo.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 7.º
 
-1 - Carecem de autorização do Conselho do Governo Regional as deliberações da concessionária que tenham por fim, designadamente:
+(Revogado.)
 
-a) A subconcessão, por qualquer título ou prazo, da exploração das áreas concessionadas, a terceiros;
-
-b) A alienação ou operação, por qualquer forma, dos direitos emergentes da concessão ou dos bens móveis e imóveis utilizados para o exercício da respectiva actividade.
-
-2 - Carecem de autorização do membro do Governo Regional responsável pelo sector dos transportes aéreos:
-
-a) O encerramento dos aeroportos da Região Autónoma da Madeira, salvo urgência fundada em motivo de força maior, caso em que deverá o mesmo ser comunicado e justificado de imediato ao membro do Governo Regional responsável pelo sector dos transportes aéreos;
-
-b) O plano anual de admissões de pessoal;
-
-c) A realização de obras e remodelações nas instalações e infra-estruturas aeroportuárias não constantes dos projectos já aprovados e que impliquem alteração na sua estrutura.
-
-3 - A concessionária obriga-se:
-
-a) A cumprir todas as disposições previstas na legislação nacional e regional para o exercício das actividades, objecto da concessão, não lhe sendo permitido explorar outras actividades, salvo se autorizadas pela Região Autónoma da Madeira;
-
-b) A assegurar o bom funcionamento e desenvolvimento dos aeroportos da Região Autónoma da Madeira, por forma a garantir uma maior eficácia e eficiência dos mesmos;
-
-c) A assumir as posições contratuais da Região Autónoma da Madeira, correspondentes aos investimentos e benfeitorias em curso, sobre os bens afectos à actividade, objecto da concessão;
-
-d) A construir, de imediato, as infra-estruturas aeroportuárias dos aeroportos da Região Autónoma da Madeira constantes do artigo 6.º do presente diploma, bem como a executar as obras que venham a tornar-se necessárias ao seu funcionamento e desenvolvimento e a dotá-las com os equipamentos adequados e necessários ao seu bom funcionamento;
-
-e) A manter em permanente estado de bom funcionamento, conservação e segurança as infra-estruturas e equipamentos e a substituir, sem direito a indemnização, os que se destruírem ou mostrarem inadequados por desgaste físico, avaria ou deterioração;
-
-f) A proceder, de acordo com a legislação em vigor, ao licenciamento do uso privativo dos bens e equipamentos do domínio público da Região nos espaços aeroportuários concessionados, bem como do exercício de quaisquer actividades neles desenvolvidas, assim como praticar todos os actos respeitantes à execução, modificação e extinção das mesmas, o qual nunca poderá exceder o prazo da concessão;
-
-g) Assegurar a prestação dos serviços da navegação aérea.
-
-4 - A concessionária, no âmbito do exercício das actividades concessionadas, poderá:
-
-a) Propor às entidades competentes a criação e definição de servidões ligadas à actividade aeroportuária e às instalações de apoio à aviação civil;
-
-b) Proceder, quando necessário, a expropriações para a realização das obras concessionadas, sendo-lhe, para esse efeito, conferida a qualidade de entidade expropriante, cabendo-lhe ainda, sempre que for caso disso, o realojamento das famílias expropriadas, a reinstalação dos estabelecimentos para comércio, indústria ou exercício de profissão liberal e, quanto a estes últimos, ainda suportar as despesas relativas à nova instalação dos mesmos, bem como dos prejuízos resultantes da paralisação das respectivas actividades, necessária à sua transferência;
-
-c) Solicitar às entidades competentes a emissão de autorizações de embarque.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 8.º
 
 1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.
 
-2 - Os montantes das taxas referidas ao número anterior serão os aprovados pelo membro do Governo Regional responsável pelo sector dos transportes aéreos, por sua iniciativa ou mediante proposta da concessionária, não podendo a concessionária cobrar taxas diversas das que forem aprovadas.
+2 - (Revogado.)
 
 3 - A concessionária promoverá a cobrança das taxas e demais rendimentos provenientes da prestação do serviço público, bem como a utilização e ocupação de espaços na área dos aeroportos da Região Autónoma da Madeira.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 9.º
 
@@ -140,15 +101,13 @@ A concessionária obriga-se a assumir todos os direitos e obrigações da Regiã
 
 6 - Cumprido o disposto no número anterior, será exarado despacho de exoneração com data de produção de efeitos reportada à da apresentação do respectivo requerimento.
 
-> Aditado pelo/a [Decreto Legislativo Regional n.º 7-A/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-a-2000-426537) e [Decreto Legislativo Regional n.º 4/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2010-613422) e [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
+> Aditado pelo/a [Decreto Legislativo Regional n.º 4/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2010-613422), publicado em 2010-04-19.
 
 ###### Artigo 10.º
 
-1 - As infra-estruturas aeroportuárias integram o domínio público regional, à semelhança dos instrumentos, instalações e equipamento utilizados pela concessionária, e reverterão para a Região Autónoma da Madeira, finda a concessão pelo decurso do prazo, pela rescisão ou pelo resgate, sem direito a qualquer indemnização, salvo a devida em caso de resgate, e não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
+(Revogado.)
 
-2 - Finda a concessão, a concessionária obriga-se a entregar todos os bens referidos no número anterior, sem dependência de qualquer formalidade e livres de quaisquer ónus ou encargos e em bom estado de funcionamento e conservação.
-
-3 - Finda a concessão, a Região Autónoma da Madeira assumirá todos os deveres contraídos pela concessionária, relativos ao pessoal contratado e desde que constante do plano anual aprovado nos termos da alínea b) do n.º 2 do artigo 7.º do presente diploma.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 11.º
 
@@ -156,7 +115,9 @@ O Governo Regional da Madeira procederá à adaptação do estatuto dos funcion�
 
 ###### Artigo 12.º
 
-Constituirá, nomeadamente, fundamento para a rescisão do contrato de concessão, com dispensa de pré-aviso, o não cumprimento do disposto no artigo 6.º do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
 ###### Artigo 13.º
 

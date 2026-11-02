@@ -200,7 +200,7 @@ c) O relatório final de análise circunstanciada da execução do QCA III.
 
 3 - Os relatórios enunciados no n.º 1 deverão ser remetidos à Assembleia da República, através das Comissões Parlamentares de Assuntos Europeus e de Economia, Finanças e Plano, no prazo máximo de 30 dias após o seu envio à Comissão Europeia ou, nos casos previstos na alínea a) do n.º 1, no prazo de 30 dias após a sua elaboração.
 
-> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845) e [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205) e [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), publicado em 2005-08-30.
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 #### SECÇÃO III — Acompanhamento global do QCA III
 
@@ -242,15 +242,19 @@ n) O presidente de cada conselho da região;
 
 o) Um representante de cada Governo Regional;
 
-p) Um representante da Associação Nacional de Municípios Portugueses;
+p) Dois representantes da Associação Nacional de Municípios Portugueses;
 
-q) Nove representantes dos parceiros económicos e sociais, designados pelo Conselho Económico e Social (CES), que assegurem a representatividade da respectiva Comissão Permanente de Concertação Social, bem como da área da defesa do ambiente e da promoção da igualdade entre homens e mulheres.
+q) Um representante da Associação Nacional de Freguesias;
+
+r) Nove representantes dos parceiros económicos e sociais, designados pelo Conselho Económico e Social (CES), que assegurem a representatividade da respectiva Comissão Permanente de Concertação Social, bem como da área da defesa do ambiente e da promoção da igualdade entre homens e mulheres.
 
 2 - A comissão de acompanhamento do QCA III integra ainda representantes da Comissão Europeia e do Banco Europeu de Investimento, nos termos do Regulamento (CE) n.º [1260/99](https://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), os quais serão designados por estas entidades.
 
 3 - Um representante da IGF pode participar nas reuniões da comissão de acompanhamento do QCA III na qualidade de observador.
 
 4 - Quando a especificidade das matérias o justificar, a comissão de acompanhamento do QCA III poderá reunir com um número restrito de membros, nos termos previstos no respectivo regulamento interno de funcionamento.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 ###### Artigo 13.º — Competências da comissão de acompanhamento do QCA III
 
@@ -280,9 +284,11 @@ h) Elaborar e aprovar, com o acordo da comissão de gestão do QCA III, o respec
 
 ###### Artigo 15.º — Funcionamento da comissão de acompanhamento do QCA III
 
-1 - A comissão de acompanhamento do QCA III reúne-se em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, a pedido da comissão de gestão do QCA III ou dos representantes da Comissão Europeia.
+1 - A comissão de companhamento do QCA III reúne-se em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, a pedido da comissão de gestão do QCA III, dos representantes da Comissão Europeia ou a pedido de um terço dos seus membros.
 
 2 - A comissão de acompanhamento do QCA III pode reunir-se nos termos do disposto no n.º 4 do artigo 12.º, sempre que necessário, mediante convocação do seu presidente.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 ###### Artigo 16.º — Apoio técnico
 
@@ -298,7 +304,9 @@ A comissão de acompanhamento do QCA III é assistida pela estrutura de apoio t�
 
 4 - Aos gestores das intervenções operacionais incluídas no QCA III incumbirá fornecer os dados ao sistema de informação, de acordo com as normas e instruções emitidas pela comissão de gestão do QCA III.
 
-5 - O sistema de informação do QCA III integra, nos termos dos números anteriores, um subsistema de informação para a gestão, acompanhamento e controlo da execução do QCA III e ainda um subsistema de informação para divulgação, que permita disponibilizar, através de suportes diversos, a informação pertinente para os diferentes destinatários.
+5 - O sistema de informação do QCA III integra, nos termos dos números anteriores, um subsistema de informação para a gestão, acompanhamento e controlo da execução do QCA III e ainda um subsistema de informação para divulgação, que permita disponibilizar, através de suportes diversos, designadamente mediante um endereço na Internet, a informação pertinente para os diferentes destinatários.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 #### SECÇÃO IV — Avaliação do QCA III e das intervenções operacionais
 
@@ -312,11 +320,19 @@ A avaliação do QCA III implica a análise dos efeitos financeiros, económicos
 
 2 - A avaliação intercalar será apresentada à comissão de acompanhamento competente e será transmitida à Comissão Europeia até 31 de Dezembro de 2003, devendo prolongar-se e ser objecto de actualização até 31 de Dezembro de 2005.
 
+3 - A avaliação intercalar deverá ser remetida à Assembleia da República, através das Comissões Parlamentares de Assuntos Europeus e de Economia, Finanças e Plano, no prazo máximo de 30 dias após o seu envio à Comissão Europeia.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
+
 ###### Artigo 20.º — Avaliação final
 
 1 - A avaliação final do QCA III e de cada uma das intervenções operacionais é da responsabilidade da Comissão Europeia, sendo realizada por avaliadores independentes, em colaboração com a comissão de gestão do QCA III e as autoridades de gestão competentes.
 
 2 - A avaliação final deverá estar concluída, o mais tardar, três anos após a conclusão do período de programação.
+
+3 - A avaliação final deverá ser remetida à Assembleia da República, através das Comissões Parlamentares de Assuntos Europeus e de Economia, Finanças e Plano, no prazo máximo de 30 dias após a data da sua conclusão.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 ###### Artigo 21.º — Observatório do QCA III
 
@@ -384,7 +400,7 @@ Qualificam-se como intervenções operacionais todos os conjuntos coerentes de a
 
 2 - A gestão do Programa Operacional Plurifundos da Madeira (POPRAM) incumbe a um gestor, com a competência definida no artigo 29.º, nomeado pelo Conselho do Governo Regional e assistido por uma unidade de gestão.
 
-> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845) e [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205) e [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), publicado em 2005-08-30.
+> Alterado pelo/a [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205), publicado em 2001-04-17.
 
 ###### Artigo 28.º — Intervenções estruturais de iniciativa comunitária
 
@@ -524,7 +540,7 @@ c) Dar parecer sobre os projectos de relatório de execução das intervenções
 
 ###### Artigo 33.º — Estatuto dos gestores e dos coordenadores
 
-1 - Aos gestores aplica-se o regime previsto no n.º 2 do artigo 24.º e na alínea h) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro.
+1 - Aos gestores aplica-se o regime previsto no n.º 2 do artigo 24.º e na alínea h) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro.
 
 2 - No caso das intervenções operacionais no âmbito das Regiões Autónomas da Madeira e dos Açores, os respectivos gestores têm o estatuto que for definido no correspondente acto de nomeação.
 
@@ -544,7 +560,7 @@ c) Dar parecer sobre os projectos de relatório de execução das intervenções
 
 10 - Em casos devidamente fundamentados, por proposta do membro do Governo sectorialmente competente, as funções de coordenação referidas nos n.os 8 e 9 podem ser desempenhadas por um encarregado de missão, aplicando-se-lhe o regime previsto no artigo 37.º da Lei n.º 49/99, de 22 de Junho.
 
-> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845) e [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205) e [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), publicado em 2005-08-30.
+> Alterado pelo/a [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), publicado em 2005-08-30.
 
 ###### Artigo 34.º — Apoio técnico à gestão
 
@@ -563,6 +579,10 @@ b) Os relatórios anuais de execução das intervenções operacionais;
 c) O relatório final de execução das intervenções operacionais.
 
 2 - Os relatórios anuais e final de execução, previstos nas alíneas b) e c) do número anterior, devem ser elaborados nos termos do Regulamento (CE) n.º [1260/99](https://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), do Conselho, de 21 de Junho.
+
+3 - Os relatórios enunciados no n.º 1 deverão ser remetidos à Assembleia da República, através das Comissões Parlamentares de Assuntos Europeus e de Economia, Finanças e Plano, no prazo máximo de 30 dias após o seu envio à Comissão Europeia ou, no casos previstos na alínea a) do n.º 1, no prazo máximo de 30 dias após a sua elaboração.
+
+> Alterado pelo/a [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), publicado em 2000-08-10.
 
 ###### Artigo 36.º — Contratualização
 

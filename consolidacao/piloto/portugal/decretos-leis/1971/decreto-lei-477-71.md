@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:676625:por
-    title: Decreto-Lei n.º 330/72
-    publication_date: '1972-08-22'
   - id: pt:dre:161130:por
     title: Decreto-Lei n.º 136/75
     publication_date: '1975-03-17'
@@ -118,13 +115,17 @@ I - Disposições gerais
 
 1. O regime do presente diploma aplicar-se-á apenas:
 
-a) Aos transportes de passageiros efectuados em veículos especialmente adaptados ao deslocamento de pessoas e que comportem, além do lugar do condutor, um mínimo de oito lugares sentados;
+a) Aos transportes de passageiros efectuados em veículos especialmente adaptados ao deslocamento de pessoas e que comportem, além do lugar do condutor, um mínimo de nove lugares sentados;
 
-b) Aos transportes de mercadorias efectuados em veículos especialmente adaptados ao deslocamento de quaisquer espécies físicas, com exclusão das pessoas, e cujo peso máximo autorizado exceda 3500 kg;
+b) Aos transportes de mercadorias efectuados em veículos especialmente adaptados ao deslocamento de quaisquer espécies físicas, com exclusão das pessoas, ou mistos e cujo peso máximo autorizado exceda 3500 kg;
 
 c) Aos deslocamentos em vazio dos veículos referidos nas alíneas anteriores que, implicando atravessamento de fronteiras, sejam efectuados com vista à realização de um dos transportes definidos no artigo anterior ou dele resultem.
 
-2. Aplicar-se-á supletivamente aos transportes referidos no número anterior a regulamentação dos transportes internos em tudo o que se harmonize com o disposto no presente diploma e seus regulamentos.
+2. Exceptuam-se do disposto no número anterior as disposições sobre matéria fiscal que se aplicam a todos os veículos de matrícula estrangeira com as características nele indicadas, importados temporariamente para circularem no País, qualquer que seja o motivo dessa deslocação.
+
+3. Aplicar-se-á supletivamente aos transportes referidos no n.º 1 a regulamentação dos transportes internos em tudo o que se harmonize com o disposto no presente diploma e seus regulamentos.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 3.º
 
@@ -176,7 +177,7 @@ Exceptuam-se do disposto no n.º 4 do artigo anterior os transportes regulares f
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 330/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1972-676625) e [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130) e [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), publicado em 1994-05-03.
+> Revogado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 8.º
 
@@ -246,55 +247,71 @@ II - Impostos
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 330/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1972-676625) e [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130) e [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), publicado em 1994-05-03.
+> Revogado pelo/a [Decreto-Lei n.º 116/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1994-250664), publicado em 1994-05-03.
 
 ###### Artigo 15.º
 
-Os transportadores não residentes de passageiros ficam sujeitos a um imposto diário sobre o veículo, com o montante previsto na tabela seguinte:
+1. Os veículos de passageiros pertencentes a transportadores não residentes, matriculados em países em que os transportadores portugueses estejam submetidos ao pagamento de quaisquer encargos de idêntica natureza, ficarão sujeitos a um imposto diário sobre o veículo, no montante previsto na tabela seguinte:
 
-Lotação superior a oito e inferior ou igual a vinte lugares ... 50$00
+Lotação superior a 9 e inferior ou igual a 20 lugares (incluindo o condutor) ... 50$00
 
-Lotação superior a vinte e inferior ou igual a quarenta lugares ... 75$00
+Lotação superior a 20 e inferior ou igual a 40 lugares (incluindo o condutor) ... 75$00
 
-Lotação superior a quarenta lugares ... 100$00
+Lotação superior a 40 lugares (incluindo o condutor) ... 100$00
+
+2. A Direcção-Geral de Transportes Terrestres mandará publicar e manterá actualizada a relação dos países cujos transportadores não estão sujeitos ao pagamento do imposto previsto no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 16.º
 
-Os transportadores não residentes que efectuem transportes regulares de passageiros não turísticos, além do imposto sobre o veículo previsto no artigo anterior, pagarão um imposto calculado pelas fórmulas seguintes:
+1. Pela exploração de transportes regulares não turísticos de passageiros por transportadores residentes ou não residentes será devido um imposto calculado do seguinte modo:
 
 a) Concorrentes:
 
-I = 4,4 x Tm x (p x n)
+I = 4,4 x T(p x n)
 
 b) Não concorrentes:
 
-I = 1,52 x Tm x (p x n)
+I = 1,52 x T(p x n)
 
-sendo:
+Sendo:
 
 I = imposto mensal;
 
-Tm = limite mínimo da tarifa, em escudos, por passageiro-quilómetro;
+T = tarifa, em escudos, por passageiro-quilómetro;
 
 p = percurso, em quilómetros, da viagem simples efectuada em território português;
 
 n = número total de viagens simples por mês.
 
+2. Apenas se consideram viagens simples, para efeitos do número anterior, aquelas em que os veículos sejam utilizados em carga. Quando o número de veículos utilizados em cada viagem for superior a um, considera-se n igual ao número de veículos utilizados.
+
+3. Quando uma mesma linha seja explorada conjuntamente por diversos transportadores, residentes ou não, os impostos poderão ser liquidados globalmente, sendo todas as empresas que participam na exploração solidariamente responsáveis pelo seu pagamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
+
 ###### Artigo 17.º
 
-Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
+1. Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
 
 I = p x 22$50
 
-sendo:
+Sendo:
 
 I = imposto diário;
 
-p = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas.
+p = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas para o múltiplo de cinco mais próximo.
+
+2. No caso de conjuntos de veículos de nacionalidades diferentes, este imposto será liquidado separadamente para o veículo tractor e para o reboque, de acordo com o regime fiscal aplicável aos veículos de cada um dos países, sendo, no entanto, o proprietário do veículo tractor responsável pelo pagamento do imposto relativo ao reboque.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 18.º
 
-Pelos transportes em automóveis funerários sujeitos ao presente diploma será devido um imposto único sobre o veículo no montante de 120$00.
+Excepcionalmente, o Secretário de Estado dos Transportes e Comunicações poderá conceder reduções ou isenções do imposto estabelecido no artigo anterior quando ocorram fortes razões de interesse público na realização de determinados transportes.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 19.º
 
@@ -302,25 +319,77 @@ Pelos transportes em automóveis funerários sujeitos ao presente diploma será 
 
 a) Automóveis de passageiros:
 
-Lotação superior a oito e inferior ou igual a vinte lugares ... 60$00
+Lotação superior a nove e inferior ou igual a vinte lugares ... 60$00
 
 Lotação superior a vinte lugares ... 100$00
 
-b) Automóveis de mercadorias:
+b) Automóveis de mercadorias ou mistos:
 
 De 3500 kg a 7000 kg de peso máximo autorizado ... 100$00
 
-Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada até às décimas, acrescem ... 7$00
+Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada até às décimas para o múltiplo de cinco mais próximo, acrescem ... 7$00
 
 2. No caso de veículos articulados e de conjuntos de veículos, o peso a considerar para o cálculo deste imposto compreenderá, além do peso máximo autorizado do veículo tractor, o peso máximo do reboque.
 
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
+
 ###### Artigo 20.º
 
-Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.
+1. Os transportadores não residentes poderão pagar os impostos previstos nos artigos 17.º e 19.º por períodos de três meses, caso em que as respectivas importâncias serão as seguintes:
+
+I) Imposto sobre o veículo (artigo 17.º):
+
+I = 562$50 x p
+
+Sendo p = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas para o múltiplo de cinco mais próximo.
+
+II) Imposto de compensação (artigo 19.º):
+
+a) Veículos de passageiros:
+
+Lotação superior a 9 e inferior ou igual a 20 lugares (incluindo o condutor) ... 1495$00
+
+Lotação superior a 20 lugares (incluindo o condutor) ... 2460$00
+
+b) Veículos de mercadorias mistos:
+
+De 3500 kg a 7000 kg de peso máximo autorizado ... 2460$00
+
+Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada até às décimas para o múltiplo de cinco mais próximo, acrescem ... 165$00
+
+2. No caso de opção pela modalidade de cobrança indicada no número anterior, o pagamento será efectuado no momento de entrada do veículo em território português pela importância total correspondente a um período de três meses.
+
+3. Poderão os interessados, antes de terminado o trimestre respectivo, renovar o pagamento relativo ao trimestre seguinte em qualquer delegação aduaneira.
+
+4. Quando um veículo pertencente a um transportador não residente exceder, no momento da saída, o limite do período de cobrança, o pagamento dos impostos relativos aos dias em excesso será efectuado com base nas taxas diárias estabelecidas neste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 21.º
 
-Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas condições de concorrência entre transportadores residentes e não residentes, poderão prever-se, em acordos bilaterais, isenções ou reduções dos impostos estabelecidos neste diploma.
+1. Os transportadores não residentes são isentos do pagamento dos impostos previstos nos artigos 15.º, 17.º e 19.º, nos seguintes casos:
+
+a) Pelo período, além de dois dias completos, em que os veículos estejam ininterruptamente imobilizados para efeitos de desembaraço aduaneiro;
+
+b) Pelo período em que os veículos tiverem os seus documentos depositados à ordem da autoridade policial competente, nos casos previstos no número seguinte, desde que esse depósito tenha durado por um período ininterrupto superior a três dias completos;
+
+c) Pelo período em que o veículo esteja apreendido.
+
+2. Será admitido o depósito de documentos à ordem da autoridade policial competente, para efeitos do disposto na alínea b) do número anterior, nos seguintes casos:
+
+a) Em caso de avaria ou acidente;
+
+b) Quando os veículos, pela própria finalidade da sua circulação no País, devam ficar imobilizados por largos períodos, designadamente no caso de se destinarem a exposições, feiras, espectáculos, demonstrações ou manifestações semelhantes;
+
+c) Em outros casos, mediante autorização da Direcção-Geral de Transportes Terrestres.
+
+3. Para beneficiarem do disposto no n.º 1 deste artigo deverão os interessados apresentar documentos comprovativos das circunstâncias justificativas da isenção.
+
+4. Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas condições de concorrência entre transportadores residentes e não residentes, poderá prever-se, em acordos bilaterais, a redução ou isenção dos impostos estabelecidos nos artigos 15.º e 17.º deste diploma.
+
+5. A eventual concessão de reduções de impostos ao abrigo do disposto no número anterior não abrangerá os casos em que os interessados optem pelo seu pagamento nos termos do disposto no artigo 20.º
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 22.º
 
@@ -330,9 +399,11 @@ Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas cond
 
 ###### Artigo 23.º
 
-O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
+1. O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
 
-III - Disposições finais
+2. Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.
+
+> Alterado pelo/a [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), publicado em 1975-03-17.
 
 ###### Artigo 24.º
 

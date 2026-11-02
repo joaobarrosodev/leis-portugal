@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:686619:por
-    title: Decreto-Lei n.º 314/97
-    publication_date: '1997-11-15'
   - id: pt:dre:640666:por
     title: Decreto-Lei n.º 299/2007
     publication_date: '2007-08-22'
@@ -39,7 +36,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 O presente decreto-lei define as normas aplicáveis à denominação dos estabelecimentos de educação ou de ensino públicos não superiores.
 
-> Alterado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 2.º — Denominação dos estabelecimentos de educação ou de ensino públicos
 
@@ -57,7 +54,7 @@ d) No caso das escolas profissionais e das escolas artísticas a denominação d
 
 3 - A inclusão na denominação do estabelecimento de ensino de um nome de um patrono ou outro nome alusivo à região onde a escola se insere, nos termos da alínea b) do n.º 1, é facultativa, excepto nas localidades onde exista mais de um estabelecimento de ensino ou mais de um estabelecimento do mesmo nível ou modalidade de ensino, ou da mesma área de formação, neste último caso quando se trate de escolas profissionais ou artísticas.
 
-> Alterado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 3.º — Processo de denominação
 
@@ -75,21 +72,21 @@ b) A câmara municipal respectiva.
 
 5 - Nos casos em que a proposta de denominação seja apresentada apenas por uma das entidades referidas no n.º 2, deve ser acompanhada do parecer da outra entidade referida na mesma disposição.
 
-6 - As pessoas singulares e colectivas, públicas ou privadas, podem escolher nome de patrono ou denominação do estabelecimento de educação ou de ensino, nos termos da alínea b) do artigo 3.º do Decreto-Lei n.º 388/88, de 25 de Outubro, devendo ser observados os critérios definidos nos artigos 2.º e 8.º
+6 - As pessoas singulares e colectivas, públicas ou privadas, podem escolher nome de patrono ou denominação do estabelecimento de educação ou de ensino, nos termos da alínea b) do artigo 3.º do [Decreto-Lei n.º 388/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1988-354116), de 25 de Outubro, devendo ser observados os critérios definidos nos artigos 2.º e 8.º
 
-> Alterado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 4.º — Escolha de denominação
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Revogado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
-###### Artigo 5.º — Símbolos representativos da escola
+###### Artigo 5.º — Símbolos representativos
 
-1 - Os estabelecimentos de ensino dos 2.º e 3.º ciclos do ensino básico e do ensino secundário podem usar estandarte, brasão de armas ou logotipo adequado, desde que para tanto obtenham autorização do Ministro da Educação.
+(Revogado.)
 
-2 - Por portaria do Ministro da Educação são fixados os princípios orientadores do uso dos símbolos referidos no número anterior, bem como de símbolos representativos do Estado.
+> Revogado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 6.º — Instrução do processo
 
@@ -105,11 +102,13 @@ a) Analisar as propostas de denominação dos estabelecimentos de educação ou 
 
 b) Preparar e submeter a proposta de despacho a que se refere o n.º 1 do artigo 3.º ao membro do Governo competente.
 
-> Alterado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 7.º — Denominação dos actuais estabelecimentos de ensino
 
-O patrono ou a denominação dos estabelecimentos de educação ou de ensino atribuído no respectivo diploma de criação ou em diploma posterior é mantido, devendo tais designações ser compatibilizadas com os princípios definidos no artigo 2.º do presente diploma.
+A denominação dos estabelecimentos de educação ou de ensino atribuída no respectivo diploma de criação ou em diploma posterior é mantida, sem prejuízo das necessárias alterações que decorram da compatibilização com os princípios definidos nos artigos 2.º e 8.º
+
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 8.º — Tipologia de estabelecimentos
 
@@ -125,13 +124,13 @@ O patrono ou a denominação dos estabelecimentos de educação ou de ensino atr
 
 6 - A alteração da denominação atribuída a um estabelecimento de educação ou de ensino ou a um agrupamento de escolas é feita por despacho do Ministro da Educação.
 
-> Alterado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Alterado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 8.º-A — Registo
 
-O serviço central a que se refere o artigo 6.º assegura o registo das denominações dos estabelecimentos de educação ou de ensino públicos e a respectiva atribuição de um número de código, a utilizar pelos serviços do Ministério da Educação.»
+O serviço central a que se refere o artigo 6.º assegura o registo das denominações dos estabelecimentos de educação ou de ensino públicos e a respectiva atribuição de um número de código, a utilizar pelos serviços do Ministério da Educação.
 
-> Aditado pelo/a [Decreto-Lei n.º 314/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619) e [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
+> Aditado pelo/a [Decreto-Lei n.º 299/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666), publicado em 2007-08-22.
 
 ###### Artigo 9.º — Legislação revogada
 

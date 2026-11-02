@@ -7,18 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:476113:por
-    title: Portaria n.º 662/95
-    publication_date: '1995-06-26'
-  - id: pt:dre:534409:por
-    title: Portaria n.º 569-A/96
-    publication_date: '1996-10-10'
   - id: pt:dre:197728:por
     title: Portaria n.º 200/98
     publication_date: '1998-03-25'
+  - id: pt:dre:476113:por
+    title: Portaria n.º 662/95
+    publication_date: '1995-06-26'
   - id: pt:dre:621316:por
     title: Portaria n.º 1172/2001
     publication_date: '2001-10-09'
+  - id: pt:dre:534409:por
+    title: Portaria n.º 569-A/96
+    publication_date: '1996-10-10'
+  - id: pt:dre:144614:por
+    title: Portaria n.º 560/97
+    publication_date: '1997-07-25'
 ---
 
 # Portaria n.º 809-E/94
@@ -83,9 +86,11 @@ b) Experimentação com vista à adaptação de metodologias, instrumentos e mat
 
 c) Demonstração de metodologias, instrumentos e materiais fundamentada em resultados da investigação aplicada e ou do desenvolvimento experimental.
 
-2 - Excepcionalmente, quando a sua natureza o justifique, podem ser aceites projectos com uma duração superior a três anos, desde que a sua conclusão ocorra até 1999.
+2 - Excepcionalmente, quando a sua natureza o justifique, podem ser aceites projectos com uma duração superior a três anos.
 
 3 - São, ainda, objecto de ajuda a construção e equipamento do Laboratório Nacional de Veterinária (LNV) e da Estado Florestal Nacional (EFN).
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 5.º
 
@@ -189,51 +194,65 @@ As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido
 
 O valor das ajudas previsto no artigo anterior pode incidir sobre despesas com:
 
-a) Elaboração de estudos e projectos de execução;
+a) Elaboração de projectos de execução, estudos, trabalhos preliminares e aquisição de serviços específicos;
 
-b) Beneficiação e ampliação de infra-estruturas de formação;
+b) Beneficiação, recuperação e ampliação de infra-estruturas de formação;
 
-c) Aquisição de equipamento necessário ao funcionamento dos centros de formação.
+c) Aquisição de equipamento necessário ao funcionamento dos centros de formação;
+
+d) Fiscalização e acompanhamento.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 #### SECÇÃO II — Normas processuais
 
 ###### Artigo 18.º
 
-1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Janeiro, Julho e Novembro, junto da direcção regional de agricultura competente, ou do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), consoante se trate de candidaturas de âmbito regional ou nacional, de uma ficha de inscrição, de acordo com o modelo a distribuir por esses serviços.
+1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Janeiro, Junho e Novembro, junto da direcção regional de agricultura competente ou da Direcção-Geral do Desenvolvimento Rural (DGDR), consoante se trate de candidaturas de âmbito regional ou nacional, de um projecto, de acordo com modelo a distribuir por esses serviços.
 
-2 - A ficha de inscrição deve ser acompanhada de todos os documentos indicados nas respectivas instruções.
+2 - Os projectos referidos no número anterior devem ser acompanhados de todos os elementos indicados nas respectivas instruções.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 19.º
 
-1 - As inscrições apresentadas, quando respeitem a candidaturas que envolvam a execução de construções, são objecto de análise e selecção no prazo de 22 dias a contar do termo do prazo de candidatura pela:
+1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão no prazo de 40 dias a contar do termo dos prazos de apresentação das candidaturas.
 
-a) Unidade regional de gestão sectorial, quando se trate de candidaturas de âmbito regional;
+2 - As candidaturas relativas à aquisição de equipamento são objecto de análise e deliberação, no prazo de 30 dias a contar do termo dos prazos de apresentação das candidaturas, nos termos do número anterior.
 
-b) Unidade nacional de gestão sectorial, no caso de candidaturas de âmbito nacional.
-
-2 - As candidaturas relativas à aquisição de equipamento são objecto de análise e deliberação, no prazo de 22 dias a contar do termo do prazo de candidatura, nos termos referidos nas alíneas do número anterior.
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 20.º
 
-Na selecção das inscrições apresentadas é dada prioridade aos centros de formação profissional em funcionamento.
+Na selecção das candidaturas apresentadas é dada prioridade aos centros de formação profissional em funcionamento.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 21.º
 
-Os candidatos cujas inscrições tenham sido seleccionadas devem proceder à entrega dos respectivos projectos, nos termos referidos no n.º 1 do artigo 18.º no prazo de 22 dias a contar do termo do prazo referido no n.º 1 do artigo 19.º
+1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo máximo de 30 dias a contar do termo dos prazos referidos no artigo 19.º
+
+2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 22.º
 
-Os projectos apresentados são objecto de análise e deliberação, nos termos referidos nas alíneas do n.º 1 do artigo 19.º, no prazo de 22 dias a contar do termo do prazo referido no número anterior.
+O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou da convenção de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 23.º
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113) e [Portaria n.º 569-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-a-1996-534409) e [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728) e [Portaria n.º 1172/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1172-2001-621316), publicado em 2001-10-09.
+> Revogado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 24.º
 
-O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, ou da convenção de financiamento, consoante o caso, podendo haver lugar à concessão adiantamentos.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ### CAPÍTULO IV — Organização e divulgação
 
@@ -251,9 +270,13 @@ a) Cooperativas agrícolas das diversas modalidades e níveis;
 
 b) Cooperativas de interesse público cujo objecto seja do âmbito agrícola e os agricultores sejam os principais utilizadores e ou beneficiários;
 
-c) Associações de agricultores e outras associações, designadamente de carácter interprofissional dos diversos tipos e níveis, em que os agricultores sejam os principais utilizadores e ou beneficiários.
+c) Associações de agricultores e organizações, designadamente de carácter interprofissional dos diversos tipos e níveis, em que os agricultores sejam os principais utilizadores e ou beneficiários.
 
-2 - As OA que reúnam as condições de elegibilidade previstas nos Regulamentos (CEE) n.os [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360/80](http://data.europa.eu/eli/reg/1980/1360/oj?locale=pt) só podem beneficiar das presentes ajudas no caso de despesas não elegíveis naqueles diplomas e que respeitem ao desempenho de acções inerentes ao respectivo objecto social.
+2 - As OA que reúnam as condições de elegibilidade previstas nos Regulamentos (CE) n.os [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), do Conselho, de 28 de Outubro, e [952/97](http://data.europa.eu/eli/reg/1997/952/oj?locale=pt), do Conselho, de 20 de Maio, só podem beneficiar das presentes ajudas no caso das despesas referidas na alínea e) do artigo 30.º e que respeitem ao desempenho das acções inerentes ao respectivo objecto social.
+
+3 - As OA que já tenham beneficiado de ajudas que incidam sobre o mesmo tipo de despesas que são abrangidas pela presente secção não poderão beneficiar das ajudas previstas neste artigo, excepto nos casos em que se verificar um alargamento substancial de tarefas.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 27.º
 
@@ -267,15 +290,19 @@ c) Terem o capital social efectivamente realizado em valor não inferior a 50% d
 
 ###### Artigo 28.º
 
-Podem ser concedidas ajudas a projectos, com duração, no máximo, até 31 de Dezembro de 1999, que visem o reforço da capacidade técnica e de gestão das OA, incluindo a melhoria da intervenção nas áreas funcionais de prestação de serviços de assistência técnica aos agricultores associados.
+1 - Podem ser concedidas ajudas a projectos que visem o reforço da capacidade técnica e de gestão das OA, incluindo a melhoria da intervenção nas áreas funcionais de prestação de serviços de assistência técnica aos agricultores associados.
+
+2 - As ajudas são atribuídas por um período máximo de cinco anos.
+
+3 - As despesas relativas a projectos aprovados até 31 de Dezembro de 1999 podem ser consideradas até 15 de Dezembro de 2001.
+
+> Alterado pelo/a [Portaria n.º 1172/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1172-2001-621316), publicado em 2001-10-09.
 
 ###### Artigo 29.º
 
-1 - As ajudas referidas no artigo anterior são concedidos sob a forma de subvenção financeira a fundo perdido, de acordo com os valores fixados no anexo I a este Regulamento, sem prejuízo do disposto no número seguinte.
+As ajudas referidas no artigo anterior são concedidas sob a forma de subvenção financeira a fundo perdido, de acordo com os valores fixados no anexo I a este Regulamento.
 
-2 - No caso de candidaturas de beneficiários do PROAGRI do anterior QCA, as ajudas à aquisição de bens materiais, quando estes sejam imputáveis aos recursos humanos objecto de ajudas ao abrigo daquele programa, são atribuídas no valor de 40% das despesas elegíveis.
-
-3 - As ajudas a conceder à aquisição de bens materiais não podem exceder 30% das ajudas a conceder aos recursos humanos.
+> Alterado pelo/a [Portaria n.º 569-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-a-1996-534409), publicado em 1996-10-10.
 
 ###### Artigo 30.º
 
@@ -285,7 +312,7 @@ a) Contratação de recursos humanos;
 
 b) Aquisição de serviços;
 
-c) Instalações, equipamentos e meios de transporte para os recursos humanos a contratar;
+c) Instalações, equipamentos e meios de transporte para os recursos humanos a contratar no quadro da presente secção ou já contratados no âmbito de outros programas de ajudas, neste último caso desde que se revelem essenciais ou complementares aos objectivos da presente secção;
 
 d) Constituição das organizações de agricultores;
 
@@ -293,33 +320,33 @@ e) Instalações, equipamentos e mãos de transporte de apoio à aquisição de 
 
 f) Funcionamento de associações de criadores de raças autóctones decorrentes da execução do plano de melhoramento animal aprovado pelo IEADR.
 
-2 - Os montantes máximos elegíveis das despesas referidas no número anterior constam do anexo I a este Regulamento.
+2 - Os montantes máximos elegíveis das despesas referidas nas alíneas a) a e) do número anterior constam do anexo I a este Regulamento.
+
+3 - As despesas previstas na alínea c) do n.º 1 poderão também ser elegíveis no caso de aquisições de serviços técnicos, desde que estes tenham duração igual ou superior ao período da atribuição das ajudas e no respectivo contrato as referidas despesas fiquem a cargo da OA.
+
+4 - As despesas referidas na alínea e) do n.º 1 só são elegíveis no caso das organizações que desenvolvam actividade no âmbito da comercialização e ou transformação de produtos agrícolas.
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 31.º
 
-1 - O processo de candidatura às ajudas previstas nesta secção inicia-se com a apresentação, até 30 de Setembro, junto da direcção regional de agricultura competente ou do IEADR, consoante se trate de candidaturas de entidades de âmbito regional ou nacional, do respectivo projecto, de acordo com o modelo a distribuir por esses serviços.
+1 - O processo de candidatura às ajudas previstas nesta secção inicia-se com a apresentação, até 31 de Agosto, junto da direcção regional de agricultura ou da DGDR, consoante se trate de candidaturas de entidades de âmbito regional ou nacional, do respectivo projecto, de acordo com modelo a distribuir por esses serviços.
 
 2 - Os projectos referidos no número anterior deverão ser acompanhados de todos os elementos indicados nas respectivas instruções.
 
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
+
 ###### Artigo 32.º
 
-As candidaturas apresentadas são objecto de análise e deliberação, até 30 de Novembro, pela:
+As candidaturas apresentadas são objecto de deliberação pela unidade nacional de gestão sectorial, até 30 de Novembro.
 
-a) Unidade regional de gestão sectorial, quando se trate de candidaturas apresentadas por entidades de âmbito regional e cujo montante de ajuda não ultrapasse 100000 contos;
-
-b) Unidade nacional de gestão sectorial, nos restantes casos.
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 33.º
 
-A selecção das candidaturas faz-se de acordo com os seguintes critérios prioritários:
+A selecção das candidaturas será feita de acordo com os critérios definidos em despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-a) Capacidade de conduzir os serviços a criar e ou a desenvolver junto dos agricultores;
-
-b) Coerência interna e carácter integrador das candidaturas;
-
-c) Incidência na profissionalização e especialização dos quadros e funções da OA;
-
-d) Impacte nos serviços e no apoio técnico aos agricultores associados.
+> Alterado pelo/a [Portaria n.º 569-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-a-1996-534409), publicado em 1996-10-10.
 
 ###### Artigo 34.º
 
@@ -361,9 +388,11 @@ iv) Introdução de sistemas de informação de gestão.
 
 ###### Artigo 38.º
 
-1 - Podem beneficiar das ajudas referidas no artigo anterior as empresas agrícolas cuja dimensão seja superior a 16 unidades de dimensão europeia (UDE) e as empresas agro-alimentares que desenvolvam actividade nos sectores contemplados pelo Regulamento (CEE) n.º [866/90](http://data.europa.eu/eli/reg/1990/866/oj?locale=pt), do Conselho, de 22 de Dezembro.
+1 - Podem beneficar das ajudas referidas no artigo anterior as empresas agrícolas cuja dimensão seja superior a 16 unidades de dimensão europeia (UDE) e as empresas agro-alimentares, incluindo agrupamentos e organizações de produtores, de comercialização por grosso de produtos agrícolas abrangidos pelo Regulamento (CEE) n.º [866/90](http://data.europa.eu/eli/reg/1990/866/oj?locale=pt), do Conselho, de 22 de Dezembro.
 
 2 - Considera-se UDE o disposto no artigo 8.º da Decisão de Comissão n.º [85/377/CEE](http://data.europa.eu/eli/dec/1985/377/oj?locale=pt), de 7 de Junho.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 39.º
 
@@ -405,9 +434,11 @@ b) Auditorias;
 
 c) Aquisição de serviços técnicos;
 
-d) Aquisição de programas informáticos na área da gestão.
+d) Aquisição de serviços informáticos.
 
 2 - Os montantes máximos elegíveis do conjunto das despesas referidas no número anterior constam do anexo II a este Regulamento.
+
+> Alterado pelo/a [Portaria n.º 569-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/569-a-1996-534409), publicado em 1996-10-10.
 
 ###### Artigo 42.º
 
@@ -417,7 +448,13 @@ d) Aquisição de programas informáticos na área da gestão.
 
 ###### Artigo 43.º
 
-Os projectos apresentados serão objecto de análise e deliberação no prazo de 45 dias a contar do termo do prazo de candidatura, pela unidade regional de gestão sectorial competente, quando prevejam investimentos de valor inferior a 20000 contos ou pela unidade nacional de gestão sectorial, nos restantes casos.
+Os projectos apresentados serão objecto de deliberação no prazo de 45 dias a contar do termo do prazo de candidatura pela:
+
+a) Unidade regional de gestão sectorial, quando se trate de projectos apresentados por empresas agrícolas e prevejam investimentos de valor inferior a 20000 contos;
+
+b) Unidade nacional de gestão sectorial, nos restantes casos.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 44.º
 
@@ -439,7 +476,9 @@ ii) Candidaturas que integram a totalidade das ajudas previstas no artigo 37.º
 
 ###### Artigo 45.º
 
-A atribuição de ajudas faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, no prazo máximo de 22 dias a contar do termo do prazo referido no artigo anterior.
+A atribuição de ajudas faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, no prazo máximo de 22 dias a contar do termo do prazo referido no artigo 43.º
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 46.º
 
@@ -495,11 +534,13 @@ b) Estudos e ensaios;
 
 c) Auditorias ao sistema de qualidade e ou ao produto;
 
-d) Aquisição e calibragem de equipamentos de medição e ensaio;
+d) Aquisição e calibração de equipamentos de medição e ensaio;
 
 e) Elaboração de manuais de qualidade e de procedimentos.
 
 2 - Os montantes máximos elegíveis para o conjunto das despesas referidas no número anterior constam do anexo III a este Regulamento.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 53.º — Normas processuais
 
@@ -545,9 +586,11 @@ a) Associações de produtores do sector agrário;
 
 b) Associações profissionais e empresariais do sector da transformação e comercialização de produtos agrícolas;
 
-c) Entidades privadas ligadas ao desenvolvimento agrícola;
+c) Entidades privadas sem fins lucrativos que tenham por objecto o desenvolvimento agrícola;
 
 d) Organismos da Administração Pública.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 61.º
 
@@ -583,9 +626,11 @@ b) Ligação com a aplicação da política agrícola decorrente da regulamenta�
 
 ###### Artigo 66.º
 
-1 - Sem prejuízo do disposto no número seguinte, a atribuição das ajudas previstas neste capítulo faz-se ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo máximo de 22 dias a contar do termo dos prazos referidos no artigo anterior.
+1 - Sem prejuízo do disposto no número seguinte, a atribuição das ajudas previstas neste capítulo faz-se ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo máximo de 22 dias a contar do termo dos prazos referidos no artigo 64.º
 
 2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 67.º
 
@@ -617,71 +662,45 @@ a) Execução de programas sanitários;
 
 b) Constituição e alargamento de ADS.
 
-2 - As ajudas são concebidas sob a forma de subvenção financeira a fundo perdido, durante o período máximo de seis anos, até às seguintes percentagens de despesa elegível:
+2 - As ajudas são concedidas sob a forma de subvenção financeira a fundo perdido durante o período máximo de cinco anos.
 
-a) Despesas de funcionamento:
-
-i) 1994 e 1995: 80%;
-
-ii) 1996 e 1997: 75%;
-
-iii) 1998: 70%;
-
-iv) 1999: 65%;
-
-b) Despesas de investimento com a constituição de novos ADS ou com alargamento de ADS já existentes: 80%, se ocorrer em 1994 ou 1995, e 75%, se ocorrer em 1996.
+> Alterado pelo/a [Portaria n.º 560/97](https://diariodarepublica.pt/dr/detalhe/portaria/560-1997-144614), publicado em 1997-07-25.
 
 ###### Artigo 73.º
 
-1 - Os valores das ajudas referidas no n.º 2 do artigo anterior podem incidir sobre despesas com:
+1 - Os segundo e terceiro adiantamentos das ajudas aos projectos aprovados para o ano de 1997 obedecem às seguintes regras:
 
-a) Funcionamento de ADS inerentes à execução do programa sanitário, nomeadamente:
+a) Os valores das ajudas podem incidir sobre as despesas suportadas pelos ADS com a realização de acções sanitárias;
 
-i) Encargos administrativos com a sede;
+b) Os montantes máximos a pagar por cada acção sanitária são os constantes do anexo IV ao presente Regulamento;
 
-ii) Material e equipamento;
+c) Os ADS devem comprovar perante as direcções regionais de agricultura as acções sanitárias realizadas, as quais devem ser confirmadas por aquele serviço;
 
-iii) Produtos biológicos e outros fármacos;
+d) O pagamento dos segundo e terceiro adiantamentos das ajudas, de montante igual ao primeiro, depende da comprovação pelos ADS da aplicação de, pelo menos, 60% do adiantamento anterior.
 
-iv) Encargos com pessoal;
-
-b) Constituição e alargamento de ADS:
-
-i) Instalações, equipamentos e meios de transporte para os recursos humanos;
-
-ii) Constituição ou alargamento de ADS;
-
-iii) Equipamento específico necessário à execução do programa sanitário.
-
-2 - Os montantes máximos elegíveis das despesas referidas no número anterior são os seguintes:
-
-a) Despesas de investimento com a constituição de ADS:
-
-i) 1300$00 por bovino reprodutor;
-
-ii) 500$00 por pequeno ruminante reprodutor;
-
-b) Despesas de investimento com alargamento de ADS:
-
-i) Alargamento de âmbito geográfico: 500$00 por bovino reprodutor e 150$00 por pequeno ruminante reprodutor;
-
-ii) Alargamento a outra espécie: 1000$00 por bovino reprodutor e 300$00 por pequeno ruminante reprodutor;
-
-c) Despesas de funcionamento: os respectivos montantes máximos constam do anexo IV a este Regulamento, tendo em conta o efectivo pecuário elegível.
-
-3 - Para efeitos da alínea b) do número anterior, só se considera o efectivo pecuário relativo aos sócios a que o alargamento respeita.
-
-4 - Para efeitos da alínea c) do n.º 2, considera-se efectivo pecuário elegível o efectivo reprodutor acrescido de 20% do efectivo de substituição e 10% dos restantes animais existentes na exploração.
+> Alterado pelo/a [Portaria n.º 560/97](https://diariodarepublica.pt/dr/detalhe/portaria/560-1997-144614), publicado em 1997-07-25.
 
 ###### Artigo 74.º
 
-1 - O processo de candidatura às ajudas inicia-se com a apresentação de projectos referentes a cada ano civil, até 15 de Outubro, junto dos serviços regionais de agricultura, de acordo com modelo a distribuir por esses serviços.
+1 - O processo de candidatura às ajudas inicia-se com a apresentação de projectos referentes a cada ano civil, até 30 de Novembro, junto dos serviços regionais de agricultura, de acordo com modelo a distribuir por esses serviços.
 
-2 - Os projectos referidos no número anterior devem ser acompanhados do respectivo programa sanitário e de outros elementos indicados nas respectivas instruções.
+2 - Os projectos referidos no número anterior devem ser acompanhados do respectivo programa sanitário homologado e de outros elementos indicados nas respectivas instruções.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
+
+###### Artigo 74.º-A
+
+1 - Para efeitos de candidatura às ajudas previstas na presente secção os ADS devem apresentar o programa sanitário junto das direcções regionais de agricultura até 15 de Setembro.
+
+2 - O programa sanitário deve ser aprovado e homologado nos termos da Portaria n.º 809-G/94, de 12 de Setembro, até 31 de Outubro.
+
+> Aditado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 75.º
 
-Aprovado e homologado o programa sanitário nos termos da Portaria n.º 809-G/94, de 12 de Setembro, até 30 de Novembro, os projectos são objecto de análise e deliberação pela unidade regional de gestão sectorial competente, até 15 de Dezembro.
+Os projectos apresentados são objecto de análise e deliberação pela unidade regional de gestão sectorial competente, até 15 de Dezembro.
+
+> Alterado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 76.º
 
@@ -711,15 +730,15 @@ c) Cartografia para o sector agrícola, nomeadamente cartas de solos de Entre Te
 
 ###### Artigo 80.º
 
-1 - Podem beneficiar das ajudas referidas no artigo anterior:
+Podem beneficiar das ajudas referidas no artigo anterior:
 
-a) Empresas, organizações de agricultores, associações agrícolas e empresariais, desde que representativas da oferta nacional ou regional de um produto, no caso da alínea a);
+a) Empresas, organizações de agricultores, associações agrícolas e empresariais, desde que ligadas e com uma posição significativa regional ou nacional com o produto em estudo, no caso da alínea a);
 
-b) Organizações de agricultores de 1.º e 2.º grau e organismos da administração central, no caso da alínea b);
+b) Organismos da administração central, associações empresariais, confederações de agricultores, associações profissionais representativas dos jovens agricultores e cooperativas de grau superior, no caso da alínea b);
 
-c) Organismos da administração central e entidades ligadas a programas de desenvolvimento agrário regional, no caso da alínea c).
+c) Organismos da administração central, no caso da alínea c).
 
-2 - Podem beneficiar das ajudas referidas nas alíneas b) e c) do artigo anterior os organismos da administração central e entidades associadas a programas de desenvolvimento agrário regional.
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ###### Artigo 81.º
 
@@ -782,6 +801,14 @@ O pagamento das ajudas é efectuado pela IFADAP nos termos do contrato ou da con
 2 - Às candidaturas entregues nos serviços do Ministério da Agricultura no âmbito do PROAGRI e ainda não apreciadas e ou aprovadas aplica-se o disposto neste Regulamento, com excepção, quando se trate de segundas candidaturas àquele Programa, do disposto no n.º 3 do artigo 29.º
 
 3 - As despesas relativas às candidaturas referidas no número anterior são elegíveis a partir da data de apresentação da candidatura.
+
+###### Artigo 87.º-A
+
+1 - O n.º 2 do artigo 26.º não se aplica às candidaturas apresentadas até 31 de Dezembro de 1993 ao abrigo da Portaria n.º 1110/92, quando se trate das OA que reúnam condições de elegibilidade previstas nos Regulamentos (CEE) n.os [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt) e [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt).
+
+2 - As deliberações das unidades de gestão das candidaturas referidas no número anterior são objecto de homologação pelo Ministro da Agricultura.
+
+> Aditado pelo/a [Portaria n.º 662/95](https://diariodarepublica.pt/dr/detalhe/portaria/662-1995-476113), publicado em 1995-06-26.
 
 ###### Artigo 88.º
 

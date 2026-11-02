@@ -99,9 +99,11 @@ Se em dois anos escolares consecutivos não forem preenchidos nalguma escola os 
 
 ###### Artigo 10.º
 
-1. São extintos nos quadros de todos os liceus os lugares de professor, contratado, de Canto Coral e de Educação Física e substituídos por lugares de professor efectivo da mesma disciplina, considerando-se providos nos novos lugares de cada liceu, com dispensa de todas as formalidades, a partir de 1 de Janeiro de 1969, os titulares dos lugares extintos.
+1. São extintos nos quadros das escolas de regentes agrícolas e dos liceus os lugares de professor contratado de Educação Física e de Canto Coral e substituídos por lugares de professor efectivo da mesma disciplina, considerando-se providos nos novos lugares de cada escola e de cada liceu, a partir de 1 de Janeiro de 1969, com dispensa de todas as formalidades, os titulares dos lugares extintos.
 
 2. Aos professores a que se refere o número anterior é contado, para todos os efeitos legais, na nova categoria o tempo de serviço prestado nos quadros.
+
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
 
 ###### Artigo 11.º
 
@@ -113,7 +115,9 @@ Se em dois anos escolares consecutivos não forem preenchidos nalguma escola os 
 
 4. As remunerações dos professores a que se refere o artigo 216.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) serão fixadas por despacho ministerial de entre as legalmente estabelecidas para os professores provisórios, tomando em consideração o nível das habilitações dos candidatos.
 
-5. Os vencimentos e remunerações estabelecidos nos números anteriores serão abonados a partir de 1 de Janeiro de 1969, salvo quanto aos professores de serviço eventual dos liceus, que manterão os vencimentos actuais até ao termo do ano escolar de 1968-1969.
+5. Os vencimentos e remunerações estabelecidos nos números anteriores serão abonados a partir de 1 de Janeiro de 1969, salvo quanto aos professores de serviço eventual do 1.º ao 9.º grupos e de Religião e Moral dos liceus e aos de igual categoria do ensino secundário agrícola, que manterão os vencimentos actuais até ao termo do ano escolar de 1968-1969.
+
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
 
 ###### Artigo 12.º
 
@@ -123,17 +127,19 @@ a) Doze horas para os professores ordinários dos institutos técnicos médios, 
 
 b) Dezoito horas para os professores das escolas de regentes agrícolas, com a redução de três horas após a concessão da 2.ª diuturnidade;
 
-c) Vinte e duas horas para os professores de todas as categorias dos liceus, com excepção das professoras, contratadas, de Lavores Femininos, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade;
+c) Vinte e duas horas para os professores de todas as categorias dos liceus, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
 
 d) Vinte e duas horas para os professores auxiliares dos institutos e para os professores de todas as categorias das escolas técnicas profissionais e práticas de agricultura, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade;
 
-e) Trinta e duas horas para as professoras de Lavores Femininos dos liceus e para os regentes de trabalhos, mestres e técnicos auxiliares do ensino técnico profissional, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
+e) Trinta e duas horas para os regentes de trabalhos, mestres e técnicos auxiliares do ensino técnico profissional, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
 
 2. Quando as necessidades do ensino o justifiquem, pode o pessoal docente de todas as categorias mencionadas no número anterior prestar semanalmente até dez horas de serviço de regências além daquele a que é legalmente obrigado, o qual será considerado extraordinário e remunerado nos termos da tabela n.º 2 anexa a este diploma.
 
 3. As reduções ou equiparações de serviço docente previstas na lei consideram-se incluídas no serviço obrigatório.
 
 4. A remuneração do serviço extraordinário será abonada em cada ano escolar, quando devida, de 1 de Outubro a 31 de Julho.
+
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
 
 ###### Artigo 13.º
 
@@ -145,7 +151,7 @@ e) Trinta e duas horas para as professoras de Lavores Femininos dos liceus e par
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143) e [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), publicado em 1975-05-26.
+> Revogado pelo/a [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), publicado em 1975-05-26.
 
 ###### Artigo 15.º
 
@@ -173,7 +179,9 @@ b) São adicionados aos quadros das escolas que figuram no mapa n.º 2 anexo a e
 
 2. Os titulares dos lugares de segundo e terceiro-oficial em exercício nas escolas a cujo quadro é adicionado um lugar de primeiro ou de segundo-oficial consideram-se providos, a partir de 1 de Janeiro de 1969, com dispensa de todas as formalidades, nos lugares de categoria imediata à daquele que actualmente ocupam.
 
-3. O primeiro concurso de provimento realizado após a publicação do presente diploma para os lugares de segundo-oficial que não forem ocupados nos termos do número anterior terá carácter extraordinário e a ele poderão ser admitidos os terceiros-oficiais em exercício que obtiverem boa informação do respectivo director, confirmada pela inspecção, graduando-se os candidatos pela ordem decrescente do tempo de serviço prestado na dependência da Direcção-Geral.
+3. O primeiro concurso de provimento realizado após a publicação do presente diploma para os lugares de segundo-oficial que não forem ocupados nos termos do número anterior terá carácter extraordinário e a ele poderão ser admitidos os terceiros-oficiais em exercício que obtiverem boa informação do respectivo director, confirmada pela inspecção, graduando-se os candidatos pela ordem decrescente do tempo de serviço prestado na dependência da Direcção-Geral nessa categoria e, em caso de igualdade, nas categorias inferiores.
+
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
 
 ###### Artigo 19.º
 

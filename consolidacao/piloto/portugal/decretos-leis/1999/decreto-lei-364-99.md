@@ -88,25 +88,9 @@ b) A redução da percentagem das acções que ficam sujeitas ao regime de indis
 
 2 - A requerimento fundamentado do interessado, os Ministros das Finanças e da Economia, mediante despacho conjunto, podem dispensar o cumprimento da obrigação prevista no número anterior.
 
-###### Artigo 6.º — Preço e condições de pagamento
+###### Artigo 6.º — Obrigações dos cessionários
 
-1 - O preço por acção é o que for indicado pelos concorrentes.
-
-2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º
-
-3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.
-
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)
-
-7 - (Revogado.)
-
-8 - (Revogado.)
-
-> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
+Transmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento.
 
 ###### Artigo 7.º — 2.ª fase
 
@@ -197,20 +181,6 @@ No prazo de 15 dias contados do termo de cada uma das fases de privatização, a
 ###### Artigo 19.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
-
-Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.
-
-Promulgado em 30 de Agosto de 1999.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 2 de Setembro de 1999.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-CADERNO DE ENCARGOS
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -632,9 +602,9 @@ c) Rejeitar uma ou mais das propostas apresentadas, por considerar que não sati
 
 ###### Artigo 27.º — Início da actividade da nova unidade fabril
 
-1 - A unidade fabril a que se refere o artigo anterior deve iniciar a sua actividade até Março de 2001.
+(Revogado.)
 
-2 - Para efeitos do disposto no presente artigo, considera-se que a nova unidade fabril inicia a sua actividade quando tiverem sido efectuados os testes com pastas, se tenha verificado o arranque da máquina em produção e funcione o papel no enrolador.
+> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ###### Artigo 28.º — Manutenção dos contratos de trabalho
 
@@ -752,15 +722,9 @@ As acções representativas de 51% do capital social da GESCARTÃO, bem como 51%
 
 ###### Artigo 44.º — Garantia
 
-1 - O concorrente adquirente, para garantir o cumprimento das obrigações fixadas no n.º 3 do artigo 25.º e nos artigos 26.º e 27.º, deve prestar, no prazo fixado no n.º 1 do artigo 25.º para o pagamento das acções, uma garantia bancária ou um seguro-caução no valor de 6000000000$00, emitidos de acordo com o anexo IV deste caderno de encargos.
+(Revogado.)
 
-2 - O Ministro das Finanças, a pedido fundamentado do interessado, pode autorizar que a garantia bancária ou o seguro-caução referidos no número anterior sejam substituídos por uma dação em penhor de acções representativas do capital social da GESCARTÃO ou por outra forma, devendo as respectivas condições ser definidas no despacho de autorização.
-
-3 - Sem prejuízo do cumprimento do prazo a que se refere o n.º 1, o pedido de substituição da garantia pode ser solicitado e concedido antes de o respectivo concorrente proceder ao pagamento de acções adquiridas no âmbito deste concurso.
-
-4 - O cumprimento das obrigações a que se referem o n.º 3 do artigo 25.º e os artigos 26.º e 27.º deve ser reconhecido por despacho conjunto dos Ministros das Finanças e da Economia.
-
-5 - A garantia a que se refere este artigo é levantada nos cinco dias úteis subsequentes à data do despacho a que se refere o número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ### CAPÍTULO V — Disposições finais
 
@@ -785,6 +749,20 @@ Os concorrentes excluídos e preteridos no concurso não têm direito, por esse 
 ###### Artigo 50.º — Suspensão ou anulação do concurso
 
 O Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem.
+
+Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.
+
+Promulgado em 30 de Agosto de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 2 de Setembro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+CADERNO DE ENCARGOS
 
 ## ANEXO I — Modelo de carta para oferta de compra de acções
 

@@ -7,15 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:401758:por
+    title: Decreto-Lei n.º 498/88
+    publication_date: '1988-12-30'
   - id: pt:dre:160093:por
     title: Decreto-Lei n.º 88/75
     publication_date: '1975-02-27'
   - id: pt:dre:179870:por
     title: Decreto-Lei n.º 309/85
     publication_date: '1985-07-30'
-  - id: pt:dre:401758:por
-    title: Decreto-Lei n.º 498/88
-    publication_date: '1988-12-30'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -70,7 +70,7 @@ O tempo de serviço efectivo prestado pelos interinos será contado para todos o
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093) e [Decreto-Lei n.º 309/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1985-179870) e [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), publicado em 1988-12-30.
+> Revogado pelo/a [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), publicado em 1988-12-30.
 
 ###### Artigo 5.º
 
@@ -116,6 +116,10 @@ c) Os períodos de ausência por doença, anteriores ou posteriores ao de licen�
 
 4. O regresso ao serviço dos funcionários que tenham passado à situação de licença ilimitada nos termos do n.º 2 não está sujeito ao decurso do prazo de um ano fixado no § 1.º do artigo 14.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
 
+5.º O prazo de doze meses previsto nos n.os 1 e 2 deste artigo pode, excepcionalmente, ser prorrogado, mês a mês, por mais seis meses, precedendo despacho ministerial de autorização, se, mediante parecer da junta médica competente, for declarado como provável o regresso do funcionário ao serviço até ao termo do prazo máximo de prorrogação.
+
+> Alterado pelo/a [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093), publicado em 1975-02-27.
+
 ###### Artigo 8.º
 
 1. Aos funcionários contratados, findo o prazo fixado no n.º 1 do artigo anterior, se não puderem regressar ao serviço e não tiverem ainda direito a aposentação ou se assim preferirem, será rescindido o contrato.
@@ -123,6 +127,20 @@ c) Os períodos de ausência por doença, anteriores ou posteriores ao de licen�
 2. Se, porém, o funcionário tiver prestado mais de três anos de serviço efectivo, terá direito, desde que o requeira no triénio posterior à rescisão, a ocupar, mediante novo contrato e com dispensa do limite de idade, a vaga da sua categoria e classe que se verifique no quadro a que pertencer, depois de requerida a readmissão ao serviço.
 
 3. O direito de readmissão depende de parecer favorável da competente junta médica.
+
+###### Artigo 8.º-A
+
+1 - Os funcionários que, nos termos dos artigos anteriores, desejarem passar à aposentação deverão, no prazo de 30 dias a contar do termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º, requerer, através dos respectivos serviços, a sua apresentação à junta médica da Caixa Geral de Aposentações, sob pena de, automaticamente, passarem à situação de licença ilimitada ou de lhes serem rescindidos os respectivos contratos, conforme os casos.
+
+2 - Os funcionários a que se refere o número anterior continuarão na situação de licença por doença, com todos os direitos e deveres inerentes a essa situação, nomeadamente o direito ao vencimento da categoria, até à data em que forem julgados absoluta e permanentemente incapazes ou até àquela em que devam retomar o exercício de funções, quando pela Caixa Geral de Aposentações não lhes for reconhecido o direito à aposentação.
+
+3 - Os funcionários aos quais não for reconhecido o direito à aposentação deverão ser notificados pelos respectivos serviços para, no dia imediato ao da notificação, retomarem o exercício de funções, sob pena de ficarem abrangidos pelo disposto na parte final do n.º 1 deste artigo.
+
+4 - Os processos de aposentação relativos ao pessoal a que se refere este artigo têm prioridade absoluta sobre quaisquer outros, devendo tal prioridade ser invocada pelos serviços aquando da remessa à Caixa Geral de Aposentações do respectivo processo.
+
+5 - O disposto nos n.os 2, 3 e 4 é também aplicável aos casos em que o pedido de apresentação à junta médica da Caixa Geral de Aposentações seja anterior ao termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º
+
+> Aditado pelo/a [Decreto-Lei n.º 309/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1985-179870), publicado em 1985-07-30.
 
 ###### Artigo 9.º
 

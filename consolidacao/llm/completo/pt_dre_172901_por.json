@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:172901:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 43791: sujeita a cerveja importada ao imposto do art. 4.º e define incidência do imposto sobre refrigerantes; regras autónomas, não alteram o texto do original.",
+    "DL 183-H/80 art. 2.º: revoga os arts. 2.º e 3.º do DL 43763; aplicado como (Revogado.). As restantes instruções alteram o Código da Sisa (outro diploma) e foram ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

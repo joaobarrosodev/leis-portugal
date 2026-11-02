@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:621551:por
-    title: Decreto-Lei n.º 1/96
-    publication_date: '1996-01-04'
   - id: pt:dre:423674:por
     title: Decreto-Lei n.º 208/98
     publication_date: '1998-07-14'
+  - id: pt:dre:621551:por
+    title: Decreto-Lei n.º 1/96
+    publication_date: '1996-01-04'
 ---
 
 # Decreto-Lei n.º 99/94
@@ -59,9 +59,9 @@ O presente diploma define a estrutura orgânica relativa à gestão, acompanhame
 
 A definição da estrutura orgânica relativa à execução do QCA subordina-se aos seguintes princípios:
 
-a) Rigorosa delimitação e coordenação de competências exercidas aos níveis nacional, regional e local;
+a) Coordenação global da execução do QCA a nível governamental;
 
-b) Respeito pelas competências nacionais e comunitárias em matéria de fundos estruturais;
+b) Articulação da acção dos organismos envolvidos na gestão, acompanhamento, controlo e avaliação do QCA, na rigorosa delimitação das respectivas competências;
 
 c) Descentralização e participação social;
 
@@ -69,7 +69,33 @@ d) Transparência, rigor e eficácia da gestão dos recursos financeiros;
 
 e) Reforço dos mecanismos de controlo e avaliação.
 
-###### Artigo 3.º
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 3.º — Divisão da estrutura orgânica
+
+1 - A estrutura orgânica relativa à execução do QCA divide-se nos três seguintes níveis:
+
+a) Nível de execução global do QCA;
+
+b) Nível de execução de cada um dos fundos estruturais;
+
+c) Nível de execução individual das intervenções operacionais incluídas no QCA.
+
+2 - Sem prejuízo do disposto no número seguinte, em cada um dos níveis de organização referidos no número anterior especializam-se os órgãos criados em razão das funções que exercem, prevendo-se a existência das seguintes categorias:
+
+a) Órgãos de coordenação e de gestão;
+
+b) Órgãos de acompanhamento;
+
+c) Órgãos de avaliação; e
+
+d) Órgãos de controlo.
+
+3 - A execução individual das intervenções operacionais fica sujeita à coordenação dos órgãos de execução global do QCA, sendo-lhes facultada toda a informação necessária ao cumprimento das suas funções.
+
+4 - É assegurada a participação social institucionalizada em cada um dos níveis em que se divide a estrutura orgânica relativa à execução do QCA.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ##### Divisão da estrutura orgânica
 
@@ -103,7 +129,7 @@ d) Órgãos de controlo.
 
 2 - A comissão governamental referida no número anterior é composta pelo Ministro do Planeamento e da Administração do Território, que preside, e por membros do Governo dos ministérios que tutelam as entidades responsáveis pela gestão das intervenções operacionais incluídas no QCA, e ainda do Ministério dos Negócios Estrangeiros e do Ministério das Finanças.
 
-> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551) e [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551), publicado em 1996-01-04.
 
 #### SECÇÃO II — Gestão global do QCA
 
@@ -117,6 +143,10 @@ A gestão global da execução do QCA incumbe a uma comissão de gestão.
 
 2 - A comissão de gestão pode reunir, em comissão alargada, com todos ou alguns dos gestores das intervenções operacionais e com a comissão de coordenação da vertente do Fundo Social Europeu, quanto às matérias das alíneas e), g) e h) do artigo seguinte.
 
+3 - O supervisor do QCA pode participar nas reuniões referidas no número anterior na qualidade de observador.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
 ###### Artigo 7.º — Competências da comissão de gestão
 
 Compete à comissão de gestão:
@@ -129,13 +159,15 @@ c) Estabelecer os contactos com os serviços da comissão europeia responsáveis
 
 d) Apresentar ao Governo as propostas de modificação relativas ao funcionamento dos mecanismos institucionais e à programação das intervenções operacionais incluídas no QCA que sejam consideradas necessárias a uma gestão mais eficiente;
 
-e) Promover as acções necessárias à avaliação do QCA e das intervenções operacionais que o compõem;
+e) Promover, em articulação com o supervisor do QCA, as acções de avaliação consideradas necessárias à fundamentação das correcções a propor ao Governo;
 
 f) Promover as acções necessárias ao controlo das diferentes intervenções operacionais incluídas no QCA;
 
-g) Articular as acções incluídas nas diversas intervenções operacionais;
+g) Promover a articulação das acções e financiamentos e as necessárias sinergias entre as diferentes intervenções operacionais;
 
-h) Promover as necessárias sinergias e integração de acções e financiamentos entre as diferentes intervenções operacionais.
+h) Apoiar a preparação das reuniões da comissão governamental.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ###### Artigo 8.º — Secretariado
 
@@ -163,11 +195,21 @@ A comissão de gestão reúne-se periodicamente, sempre que necessário, a convo
 
 1 - A coordenação da vertente do Fundo Social Europeu do QCA é cometida a uma comissão.
 
-2 - A comissão de coordenação é composta por um presidente, designado pelo Ministro do Emprego e da Segurança Social, e por dirigentes da Direcção-Geral do Emprego e Formação Profissional, do Departamento para os Assuntos do Fundo Social Europeu, do Instituto do Emprego e Formação Profissional e da Direcção-Geral do Desenvolvimento Regional.
+2 - A comissão de coordenação da vertente do FSE é composta por um presidente, designado pelo Ministro do Trabalho e da Solidariedade, e por dirigentes da Direcção-Geral do Emprego e Formação Profissional, do Departamento para os Assuntos do Fundo Social Europeu, do Instituto do Emprego e Formação Profissional, do Instituto para a Inovação na Formação e da Direcção-Geral do Desenvolvimento Regional.
 
-3 - Compete à comissão definir as linhas gerais de orientação, execução, gestão, informação, acompanhamento e avaliação das formas de intervenção apoiadas pelo Fundo Social Europeu, bem como da componente FEDER no âmbito das intervenções operacionais da responsabilidade directa do Ministério do Emprego e da Segurança Social.
+3 - Incumbe à comissão de coordenação da vertente do FSE, a funcionar na directa dependência do Ministro do Trabalho e da Solidariedade:
+
+a) Coordenar as intervenções no âmbito do FSE nas vertentes técnica e financeira;
+
+b) Garantir, na óptica de um quadro integrado do FSE, a supervisão dos programas que integram o QCA;
+
+c) Propor normas gerais da gestão da vertente FSE;
+
+d) Exercer as competências previstas nas alíneas anteriores relativamente à componente FEDER no âmbito das intervenções operacionais da responsabilidade directa do Ministro do Trabalho e da Solidariedade.
 
 4 - O funcionamento interno e a forma de articulação da comissão de coordenação com os parceiros sociais e com outras entidades envolvidas no acompanhamento, controlo e avaliação das intervenções operacionais do Fundo Social Europeu do QCA são objecto de portaria conjunta dos Ministros do Planeamento e da Administração do Território e do Emprego e da Segurança Social.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ###### Artigo 12.º — Secretariado
 
@@ -189,23 +231,29 @@ b) Gestores das intervenções operacionais;
 
 c) O director-geral do Tesouro;
 
-d) O director-geral das Comunidades Europeias;
+d) O director-geral de Assuntos Europeus e Relações Internacionais;
 
-e) O director-geral do Departamento Central de Planeamento;
+e) O director-geral dos Assuntos Comunitários;
 
-f) O director-geral do Ambiente;
+f) O director-geral do Departamento Central de Planeamento;
 
-g) Outros dirigentes de departamentos da Administração, sempre que a natureza da matéria a tratar o exija;
+g) O director-geral do Ambiente;
 
-h) O presidente de cada comissão de coordenação regional;
+h) Outros dirigentes de departamentos da Administração, sempre que a natureza da matéria a tratar o exija;
 
-i) O presidente de cada conselho da região;
+i) O presidente de cada comissão de coordenação regional;
 
-j) Um representante de cada Governo Regional.
+j) O presidente de cada conselho da região;
+
+k) Um representante de cada Governo Regional.
 
 2 - A comissão de acompanhamento, quando reunida para efeitos do disposto na Decisão da Comissão Europeia n.º C(94) 376, integra representantes da Comissão Europeia e do Banco Europeu de Investimento, que serão designados por estas entidades.
 
 3 - Quando a especificidade das matérias inscritas na ordem do dia o justificar, a comissão de acompanhamento, nos termos previstos no respectivo regulamento interno de funcionamento, poderá reunir com um número restrito de membros.
+
+4 - O supervisor do QCA e a Inspecção-Geral de Finanças (IGF) podem participar nas reuniões referidas nos números anteriores na qualidade de observadores.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ###### Artigo 15.º — Competências da comissão de acompanhamento
 
@@ -219,7 +267,11 @@ b) Analisar as propostas de alteração do QCA apresentadas pela comissão de ge
 
 ###### Artigo 16.º — Funcionamento da comissão de acompanhamento
 
-A comissão de acompanhamento reúne-se, em plenário, ordinariamente duas vezes por ano e, exclusivamente, a pedido dos representantes da CE ou das autoridades portuguesas.
+1 - A comissão de acompanhamento do QCA reúne-se em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, a pedido das autoridades portuguesas ou dos representantes da Comissão Europeia.
+
+2 - A comissão de acompanhamento pode reunir-se nos termos do disposto no n.º 3 do artigo 14.º, sempre que necessário, mediante convocação do seu presidente.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ###### Artigo 17.º — Secretariado
 
@@ -237,9 +289,11 @@ O secretariado da comissão de acompanhamento funciona junto da Direcção-Geral
 
 ###### Artigo 19.º — Instrumentos de avaliação
 
-1 - A avaliação dos efeitos económicos e sociais da execução do QCA será realizada através do Observatório do QCA e mediante a elaboração, por consultores, de pareceres e estudos de avaliação, assegurando-se a colaboração dos gestores e unidades de gestão das diversas intervenções operacionais incluídas no QCA.
+1 - A avaliação do impacte dos efeitos económicos e sociais da execução global do QCA incumbe a um Observatório do QCA, coordenado pelo supervisor do QCA.
 
 2 - No que se refere especificamente às acções financiadas pelo Fundo Social Europeu, estas serão ainda objecto de avaliação pela comissão de coordenação da vertente do Fundo Social Europeu em articulação com o Observatório do Emprego e Formação Profissional.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ###### Artigo 20.º — Observatório do QCA
 
@@ -257,17 +311,65 @@ c) Orientar metodologicamente os trabalhos de base da avaliação, especialmente
 
 #### SECÇÃO V — Participação social no processo da execução global do QCA
 
-###### Artigo 21.º — Participação do Conselho Económico e Social
+###### Artigo 21.º — Natureza e modo de designação do supervisor
 
-1 - A participação social no processo da execução global do QCA é assegurada pelo Conselho Económico e Social, que, para além das atribuições e competências que lhe são cometidas em termos de apreciação do Plano de Desenvolvimento Regional e do QCA, apreciará os relatórios anuais e final de execução global do QCA previstos nas alíneas b) e c) do n.º 1 do artigo 9.º
+1 - O supervisor do QCA é um órgão de avaliação permanente da execução global do QCA.
 
-2 - O Conselho poderá ainda pronunciar-se sobre os relatórios anuais e final de execução de cada uma das grandes áreas de intervenção correspondentes às decisões comunitárias.
+2 - O supervisor do QCA é nomeado pelo Conselho de Ministros, mediante proposta conjunta dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.
+
+3 - O supervisor do QCA funciona junto do Ministro do Equipamento, do Planeamento e da Administração do Território, com estatuto de encarregado de missão, nos termos do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 ### CAPÍTULO III — Estrutura orgânica de execução das intervenções operacionais incluídas no QCA
 
 #### SECÇÃO I — Definição e classificação das intervenções operacionais
 
-###### Artigo 22.º — Definição e classificação das intervenções operacionais
+###### Artigo 22.º — Competências do supervisor do QCA
+
+1 - Ao supervisor do QCA compete:
+
+a) Coordenar o Observatório do QCA;
+
+b) Coordenar a recolha e sistematização de informação sobre a execução do QCA e propor à comissão governamental de coordenação do QCA as medidas necessárias para uma execução mais eficiente do QCA;
+
+c) Coordenar a elaboração de relatórios e pareceres sobre a execução do QCA;
+
+d) Propor a realização de auditorias à gestão das intervenções operacionais incluídas no QCA e iniciativas comunitárias;
+
+e) Solicitar a intervenção dos organismos de controlo do Sistema Nacional de Controlo do QCA.
+
+2 - O supervisor do QCA exerce as competências que lhe são atribuídas nas alíneas d) e e), sem prejuízo das competências dos órgãos de controlo previstos no artigo 41.º do presente diploma, no quadro do sistema nacional de controlo do QCA.
+
+3 - As competências atribuídas ao supervisor do QCA pelas alíneas b) e c) do n.º 1 deverão ser exercidas em articulação com a comissão de gestão dos fundos comunitários e com a comissão de acompanhamento do QCA.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+#### SECÇÃO II — Gestão das intervenções operacionais
+
+###### Artigo 23.º — Dever de colaboração e informação
+
+1 - O supervisor do QCA e a comissão de gestão do QCA, sem prejuízo do desenvolvimento das suas competências específicas, têm um dever de colaboração recíproco.
+
+2 - O supervisor pode solicitar qualquer informação relevante para o exercício das suas funções aos organismos e entidades com funções de gestão, de acompanhamento e de controlo do QCA.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 24.º — Secretariado
+
+O supervisor do QCA é apoiado por um secretariado de apoio técnico com funções técnico-administrativas necessárias ao funcionamento do mesmo.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 25.º — Participação do Conselho Económico e Social
+
+1 - A participação social no processo da execução global do QCA é assegurada pelo Conselho Económico e Social, que, para além das atribuições e competências que lhe são cometidas em termos de apreciação do Plano de Desenvolvimento Regional e do QCA, apreciará os relatórios anuais e final de execução global do QCA previstos nas alíneas b) e c) do n.º 1 do artigo 9.º
+
+2 - O Conselho poderá ainda pronunciar-se sobre os relatórios anuais e final de execução de cada uma das grandes áreas de intervenção correspondentes às decisões comunitárias.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 26.º — Definição e classificação das intervenções operacionais
 
 1 - Qualificam-se como intervenções operacionais todos os conjuntos coerentes de acções plurianuais incluídos no QCA a desenvolver em território nacional.
 
@@ -285,9 +387,9 @@ c) De âmbito regional.
 
 5 - Consideram-se intervenções operacionais de âmbito regional as que incidam exclusivamente nas Regiões Autónomas dos Açores e da Madeira ou as que abranjam apenas parte do território do continente e maioritariamente acções de investimento de iniciativa municipal.
 
-#### SECÇÃO II — Gestão das intervenções operacionais
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-###### Artigo 23.º — Órgãos de gestão
+###### Artigo 27.º — Órgãos de gestão
 
 1 - A gestão técnica, administrativa e financeira de cada uma das intervenções operacionais incluídas no QCA incumbe a um gestor apoiado por uma unidade de gestão, sem prejuízo do disposto nos números seguintes.
 
@@ -301,15 +403,17 @@ c) De âmbito regional.
 
 6 - Quando as circunstâncias o aconselharem, qualquer excepção ao disposto no n.º 1 será objecto de despacho conjunto do Primeiro-Ministro e do Ministro do Planeamento e da Administração do Território, salvo quando a matéria exija diploma hierarquicamente superior.
 
-> Alterado pelo/a [Decreto-Lei n.º 1/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1996-621551) e [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-###### Artigo 24.º — Intervenções operacionais de iniciativa comunitária
+###### Artigo 28.º — Intervenções operacionais de iniciativa comunitária
 
 1 - As intervenções operacionais de iniciativa comunitária são geridas sob a responsabilidade do membro do Governo responsável pela gestão nacional do fundo comunitário que contribuir mais significativamente para o seu financiamento.
 
 2 - A gestão de componentes das intervenções operacionais referidas no número anterior poderá ser objecto de contratualização com ministérios que tutelem áreas ou sectores abrangidos.
 
-###### Artigo 25.º — Estatuto dos gestores
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 29.º — Estatuto dos gestores
 
 1 - Os gestores têm o estatuto de encarregados de missão, aplicando-se-lhes o regime previsto no artigo 23.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
@@ -319,7 +423,9 @@ c) De âmbito regional.
 
 4 - No caso das intervenções operacionais de âmbito regional do continente, os gestores exercem funções junto do Ministro do Planeamento e da Administração do Território, devendo todas as propostas relativas à gestão e execução ser canalizadas através dos presidentes das comissões de coordenação regional.
 
-###### Artigo 26.º — Competência do gestor
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 30.º — Competência do gestor
 
 1 - Aos gestores compete:
 
@@ -339,9 +445,11 @@ g) Elaborar o relatório de execução da intervenção operacional;
 
 h) Praticar ou propor ao Governo os demais actos necessários à regular e plena execução da intervenção operacional.
 
-2 - As competências dos gestores são exercidas sem prejuízo das competências que cabem aos diferentes serviços e organismos de cada ministério e em estreita colaboração com estes.
+2 - Sem prejuízo das competências previstas no número anterior, no âmbito das intervenções operacionais financiadas pelo Fundo Social Europeu, as competências do gestor são definidas pelas normas que procedem à regulamentação da respectiva gestão e financiamento.
 
-###### Artigo 27.º — Composição das unidades de gestão
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 31.º — Composição das unidades de gestão
 
 1 - Os gestores são apoiados no exercício das suas competências por unidades de gestão.
 
@@ -353,47 +461,65 @@ h) Praticar ou propor ao Governo os demais actos necessários à regular e plena
 
 5 - As unidades de gestão relativas a intervenções operacionais com incidência directa em matéria de ambiente são integradas por um representante da Direcção-Geral do Ambiente, sempre que a natureza dos projectos o justifique, e, quando se tratar de intervenções operacionais com incidência estruturante no ordenamento do território, são integradas por um representante da Direcção-Geral do Ordenamento do Território.
 
-###### Artigo 28.º — Competências das unidades de gestão
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 32.º — Competências das unidades de gestão
 
 Sem prejuízo dos poderes que lhe sejam conferidos no despacho da sua constituição, compete às unidades de gestão:
 
-a) Popor aos membros do Governo com responsabilidades nos fundos comunitários envolvidos e responsáveis pelos respectivos sectores a aprovação do seu regulamento interno;
+a) Elaborar e aprovar o respectivo regulamento interno;
 
 b) Dar parecer sobre os projectos de decisão dos gestores relativos a candidaturas de projectos ao financiamento pela intervenção operacional respectiva;
 
 c) Dar parecer sobre os projectos de relatório de execução das intervenções operacionais elaborados pelos gestores.
 
-###### Artigo 29.º — Apoio técnico
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+#### SECÇÃO III — Acompanhamento das intervenções operacionais
+
+###### Artigo 33.º — Apoio técnico
 
 1 - Os gestores e as unidades de gestão, incluindo as referidas no n.º 3 do artigo 23.º, serão assistidos no exercício das suas funções por uma estrutura de apoio técnico, a qual poderá contar com técnicos pertencentes aos organismos dos respectivos ministérios ou com elementos recrutados externamente.
 
 2 - A estrutura de apoio técnico aos gestores e unidades de gestão relativos a intervenções operacionais de âmbito regional do continente beneficiará do apoio logístico e administrativo da competente comissão de coordenação regional.
 
-###### Artigo 30.º — Relatórios de execução das intervenções operacionais
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 34.º — Relatórios de execução das intervenções operacionais
 
 1 - Os relatórios de execução de cada intervenção operacional são semestrais, anuais e final.
 
 2 - Os relatórios anuais e final de execução de cada intervenção operacional são acompanhados de relatórios de avaliação de impactes sócio-económicos.
 
-###### Artigo 31.º — Contratos-programas
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 35.º — Contratos-programas
 
 1 - A gestão técnica, administrativa e financeira de componentes das intervenções operacionais de âmbito nacional ou regional pode ser atribuída a entidades públicas ou privadas, mediante a celebração de contratos-programas.
 
 2 - A celebração dos contratos-programas com associações de municípios depende da apresentação e discussão com o Governo de programas de investimento fechados plurianuais para as zonas de actuação previstas nas intervenções operacionais.
 
-###### Artigo 32.º — Gestão financeira externa
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+#### SECÇÃO IV — Controlo da execução das intervenções operacionais
+
+###### Artigo 36.º — Gestão financeira externa
 
 As tarefas relativas à gestão financeira na vertente externa de cada uma das intervenções operacionais decorrentes dos actos dos respectivos gestores com a Comissão das Comunidades Europeias, incluindo a tramitação da assunção de compromissos e da transferência de pagamentos, são executadas pelas entidades responsáveis pela gestão financeira dos fundos comunitários, às quais incumbirá especialmente assegurar o funcionamento do circuito de transferência das contribuições dos fundos comunitários respectivos para as entidades pagadoras, em colaboração com a Direcção-Geral do Tesouro e a Direcção-Geral da Contabilidade Pública.
 
-#### SECÇÃO III — Acompanhamento das intervenções operacionais
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-###### Artigo 33.º — Órgão de acompanhamento
+###### Artigo 37.º — Órgão de acompanhamento
 
 1 - O acompanhamento da execução de cada uma das intervenções operacionais e a avaliação dos seus impactes sócio-económicos incumbem a uma unidade de acompanhamento.
 
 2 - Sempre que a decisão de financiamento da Comissão Europeia englobar várias intervenções operacionais, será também constituída para todas estas uma unidade de acompanhamento conjunta.
 
-###### Artigo 34.º — Composição da unidade de acompanhamento
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+#### SECÇÃO V — Participação social no processo de execução das intervenções operacionais
+
+###### Artigo 38.º — Composição da unidade de acompanhamento
 
 1 - A unidade de acompanhamento de cada intervenção operacional é presidida pelo respectivo gestor, sendo ainda integrada pelas seguintes entidades:
 
@@ -417,57 +543,95 @@ c) Outros membros de unidades de gestão relativas às intervenções operaciona
 
 5 - As unidades de acompanhamento relativas a intervenções operacionais de âmbito nacional com incidência nos sectores dos transportes, da agricultura, da indústria e da energia, bem como as relativas a intervenções operacionais de âmbito regional ou que se refiram a acções com incidência significativa sobre o ambiente, integram ainda um representante da Direcção-Geral do Ambiente.
 
-###### Artigo 35.º — Competência das unidades de acompanhamento
+6 - O supervisor do QCA e a IGF podem participar nas reuniões das unidades de acompanhamento referidas nos números anteriores, na qualidade de observadores.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 39.º — Competência das unidades de acompanhamento
 
 Compete às unidades de acompanhamento, para além do previsto na Decisão (CEE) n.º C(94) 376, acompanhar a realização das respectivas intervenções operacionais.
 
-#### SECÇÃO IV — Controlo da execução das intervenções operacionais
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-###### Artigo 36.º — Objectivos de controlo
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 40.º — Objectivos de controlo
 
 Constituem objectivos do controlo a exercer relativamente à execução das intervenções operacionais verificar se as acções financiadas foram empreendidas de forma correcta, prevenir e combater as irregularidades e recuperar os fundos perdidos na sequência de abuso ou negligência.
 
-###### Artigo 37.º — Órgãos de controlo
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 41.º — Órgãos de controlo
 
 1 - É instituído um sistema nacional de controlo do QCA, constituído por órgãos que exercerão de forma articulada os controlos de alto nível, de segundo nível e de primeiro nível.
 
-2 - O controlo financeiro de alto nível é assegurado pela Inspecção-Geral de Finanças e compreende, designadamente, a avaliação dos sistemas de controlo existentes aos diferentes níveis das diversas intervenções operacionais e a promoção de acções de articulação entre as diferentes entidades com responsabilidades no sistema de controlo.
+2 - O controlo financeiro de alto nível é assegurado pela IGF e compreende, designadamente, a avaliação dos sistemas de gestão e de controlo existentes aos diferentes níveis das intervenções operacionais, da gestão, acompanhamento e avaliação global e da estrutura orgânica das intervenções operacionais, e a promoção de acções de articulação entre as diferentes entidades com responsabilidades no sistema de controlo.
 
-3 - O controlo de segundo nível abrange a análise e avaliação do sistema de controlo de primeiro nível e, sempre que tal se mostre necessário para testar a eficácia deste, o controlo sobre os beneficiários finais.
+3 - O controlo de segundo nível abrange a análise e avaliação do sistema de controlo de primeiro nível e, sempre que tal se mostre necessário para testar a eficácia deste, o controlo sobre os beneficiários finais, bem como o controlo cruzado, junto de outras entidades envolvidas, a fim de ter acesso às informações consideradas necessárias ao esclarecimento dos factos objecto de controlo.
 
 4 - O controlo de segundo nível é assegurado pelas seguintes entidades:
 
 a) Nas acções financiadas pelo FEDER, pela Direcção-Geral do Desenvolvimento Regional e pela Inspecção-Geral da Administração do Território;
 
-b) Nas acções financiadas pelo Fundo Social Europeu, pelo Departamento para os Assuntos do Fundo Social Europeu, na componente factual, financeira e contabilística, e pelo Instituto do Emprego e Formação Profissional, na vertente técnico-pedagógica das intervenções operacionais de emprego e formação profissional, fazendo-se este controlo em articulação com outros departamentos ministeriais, sempre que respeite a áreas específicas de actuação directa destes e sem prejuízo das competências próprias dos mesmos;
+b) Nas acções financiadas pelo Fundo Social Europeu, pelo Departamento para os Assuntos do Fundo Social Europeu, em articulação com outros departamentos ministeriais, designadamente através das respectivas inspecções, sempre que respeite a áreas específicas de actuação destes e sem prejuízo das competências próprias dos mesmos, quer na componente factual, contabilística e financeira, quer na vertente técnico-pedagógica;
 
-c) Nas acções financiadas pelo FEOGA (Orientação), pela Inspecção-Geral e Auditoria de Gestão do Ministério da Agricultura, enquanto órgão de controlo sectorial, e pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, nas intervenções operacionais em que não lhe incumbe a responsabilidade de assegurar o controlo de primeiro nível;
+c) Nas acções financiadas pelo FEOGA (Orientação) e pelo Instrumento Financeiro de Orientação das Pescas (IFOP), pela Inspecção-Geral e Auditoria de Gestão, do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-d) Nas acções financiadas pelo IFOP, pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas e pela Direcção-Geral das Pescas.
+5 - O controlo de primeiro nível abrange:
 
-5 - O controlo de primeiro nível abrange o controlo prévio e concomitante das decisões tomadas pelos órgãos de gestão e o controlo sobre os beneficiários finais.
+a) O controlo prévio e concomitante das decisões tomadas pelos órgãos de gestão;
+
+b) O controlo prévio, concomitante e a posteriori sobre os beneficiários finais.
 
 6 - O controlo de primeiro nível é assegurado:
 
 a) Nas acções financiadas pelo FEDER, pelos órgãos de gestão das intervenções operacionais e, quando necessário, por outros organismos a designar por despacho dos respectivos membros do Governo;
 
-b) Nas acções financiadas pelo Fundo Social Europeu, pelas entidades gestoras;
+b) Nas acções financiadas pelo Fundo Social Europeu, pelas entidades gestoras, devendo estas, sempre que as situações se revestirem de maior complexidade, solicitar o apoio do Departamento para os Assuntos do Fundo Social Europeu;
 
-c) Nas acções financiadas pelo FEOGA (Orientação), pelas unidades de gestão, quer a nível nacional, quer a nível regional;
-
-d) Nas acções financiadas pelo IFOP, pelo órgão de gestão da respectiva intervenção operacional.
+c) Nas acções financiadas pelo FEOGA (Orientação) e pelo IFOP, pelos serviços que asseguram a gestão das respectivas intervenções operacionais.
 
 7 - O controlo das acções financiadas pelo Fundo de Coesão é assegurado pela Direcção-Geral do Desenvolvimento Regional, de acordo com o estabelecido no artigo 9.º do [Decreto-Lei n.º 81/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1994-275451), de 10 de Março.
 
 8 - As acções financiadas pelos fundos comunitários nas Regiões Autónomas são controladas por organismos a designar por deliberação do respectivo Governo Regional, no prazo de 30 dias a contar da data da publicação do presente diploma, sem prejuízo das competências atribuídas a organismos de âmbito nacional.
 
-9 - O controlo das acções financiadas pelos fundos comunitários será ainda completado através de um sistema de auditorias externas a promover pelas entidades responsáveis pela gestão nacional dos Fundos.
+9 - O controlo das acções financiadas pelos fundos comunitários poderá ainda ser completado através da aquisição de serviços de auditoria externa a promover pelas entidades responsáveis pela gestão nacional dos fundos comunitários.
 
-10 - Os ministros responsáveis pela gestão das intervenções operacionais podem instituir outros mecanismos de controlo e fiscalização além dos definidos nos números anteriores.
+10 - A aquisição dos serviços referidos no número anterior poderá ser efectuada com recurso aos procedimentos de concurso público ou de concurso limitado por prévia qualificação, de acordo com regras especiais, designadamente em matéria de adjudicação, a definir em legislação específica.
 
-#### SECÇÃO V — Participação social no processo de execução das intervenções operacionais
+11 - Os ministros responsáveis pela gestão das intervenções operacionais podem instituir outros mecanismos de controlo e fiscalização além dos definidos nos números anteriores.
 
-###### Artigo 38.º — Órgãos consultivos
+12 - A realização de verificações cruzadas é uma prerrogativa intransmissível dos organismos públicos, não podendo em caso algum ser transferida para entidades diferentes daquelas a que a mesma está legalmente atribuída.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 42.º — Direitos e prerrogativas de controlo
+
+Os técnicos que representam as entidades que exercem o controlo financeiro de alto nível e de segundo nível, quando em serviço, e sempre que seja necessário ao desempenho das suas funções, para além de outros previstos na lei, gozam dos direitos e prerrogativas seguintes:
+
+a) Aceder aos serviços e instalações das entidades objecto de controlo;
+
+b) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia e obter a colaboração de funcionários que se mostre indispensável;
+
+c) Corresponder-se com quaisquer entidades públicas ou privadas sobre assuntos de interesse para o exercício das suas funções ou para obtenção dos elementos que se mostrem indispensáveis;
+
+d) Proceder ao exame de quaisquer elementos em poder de serviços públicos, empresas públicas ou privadas, ou obter aí o seu fornecimento, quando se mostrem indispensáveis à realização das respectivas tarefas.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 43.º — Modalidades de articulação
+
+1 - As entidades responsáveis pela gestão, acompanhamento e avaliação globais do QCA, os interlocutores financeiros da Comissão Europeia e as entidades responsáveis pelo controlo de segundo nível e de primeiro nível devem remeter à IGF a informação relevante para o exercício do controlo financeiro de alto nível, nas condições a definir por portaria conjunta dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e Pescas e do Trabalho e da Solidariedade.
+
+2 - Para os efeitos previstos no número anterior, a IGF pode aceder aos elementos de informação armazenados em suporte informático das entidades acima referidas.
+
+3 - A IGF deve remeter às entidades responsáveis pelo controlo de segundo nível a informação recolhida nas reuniões da comissão de acompanhamento e da unidade de acompanhamento que seja relevante para o exercício daquele tipo de controlo.
+
+4 - No âmbito e para os fins visados no presente diploma, as entidades que, directa ou indirectamente, intervêm no processo de gestão e controlo das despesas financiadas pelos fundos comunitários têm o dever de colaborar com a IGF e com os organismos de controlo de segundo nível.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 44.º — Órgãos consultivos
 
 1 - A participação social no processo de execução das diversas intervenções operacionais de âmbito regional incluídas no QCA pode ser assegurada por órgãos consultivos, sendo a sua composição determinada por despacho do Ministro do Planeamento e da Administração do Território ou, no caso das Regiões Autónomas, por deliberação do Governo Regional, tendo em consideração as especificidades das intervenções operacionais respectivas.
 
@@ -475,27 +639,57 @@ d) Nas acções financiadas pelo IFOP, pelo órgão de gestão da respectiva int
 
 3 - No caso das intervenções operacionais dirigidas ao apoio à actividade produtiva, são criados órgãos consultivos com a participação dos respresentantes das actividades económicas, nomeados por despacho conjunto dos membros do Governo com atribuições relativamente aos sectores envolvidos e do Ministro do Planeamento e da Administração do Território.
 
-###### Artigo 39.º — Âmbito da participação consultiva
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 45.º — Âmbito da participação consultiva
 
 Aos órgãos consultivos previstos no artigo anterior compete apreciar os relatórios anuais e final das intervenções operacionais respectivas e ser ouvidos sobre outros assuntos que os gestores entendam submeter à sua apreciação.
 
-### CAPÍTULO IV — Disposições finais
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-###### Artigo 40.º — Sistemas de incentivos
+###### Artigo 46.º — Sistemas de incentivos
 
 Os sistemas de incentivos que estejam previstos nas intervenções operacionais incluídas no QCA serão objecto de regulamentação específica.
 
-###### Artigo 41.º — Projectos do Fundo de Coesão
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 47.º — Projectos do Fundo de Coesão
 
 Aos projectos a candidatar ao Fundo de Coesão não se aplica o disposto nas secções II e III do capítulo III do presente diploma.
 
-###### Artigo 42.º — Estruturas de projecto
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
-Os secretariados da comissão de gestão, da comissão de acompanhamento e da comissão de coordenação da vertente do Fundo Social Europeu, bem como a estrutura de apoio técnico aos gestores e unidades de gestão, têm a natureza de estruturas de projecto, sendo-lhes aplicável o disposto no artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, sendo que a modalidade do contrato a utilizar será a de trabalho a termo certo, nos termos da lei geral do trabalho.
+###### Artigo 48.º — Estruturas de projecto
 
-###### Artigo 43.º — Publicidade
+1 - Os secretariados da comissão de gestão, da comissão de acompanhamento, da comissão de coordenação da vertente do Fundo Social Europeu e do supervisor do QCA, bem como a estrutura de apoio técnico aos gestores e unidades de gestão, têm a natureza de estruturas de projecto, sendo-lhes aplicável o disposto no artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, sem prejuízo do disposto no n.º 3.
+
+2 - O provimento do pessoal das estruturas de apoio técnico poderá fazer-se nas seguintes modalidades:
+
+a) Comissão de serviço, destacamento ou requisição para os casos de vínculo à função pública, a institutos públicos, a empresas públicas ou a outros organismos do sector público ou privado;
+
+b) Contrato de trabalho a termo certo ou incerto, nos termos da lei geral do trabalho, sendo que estes últimos caducarão automaticamente com a extinção da estrutura de projecto.
+
+3 - A estrutura de apoio técnico aos serviços gestores das intervenções operacionais no âmbito do IFOP e do FEOGA (Orientação) é integrada pelas suas estruturas originais, a determinar de acordo com as respectivas competências legais.
+
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 49.º — Publicidade
 
 As acções que beneficiem da contribuição financeira das Comunidades Europeias serão objecto de medidas de informação e publicidade, cuja concretização é determinada por despacho dos membros do Governo responsáveis pelos fundos comunitários envolvidos.
+
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 50.º — Estatuto do presidente da comissão de gestão
+
+Ao presidente da comissão de gestão referida no artigo 6.º é aplicável o disposto no n.º 1 do artigo 29.º
+
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
+
+###### Artigo 51.º — Relacionamento com o Tribunal de Contas
+
+A IGF remeterá ao Tribunal de Contas a informação atinente à organização e funcionamento do sistema nacional de controlo do QCA, designadamente o plano anual de controlos e o relatório anual de controlo.
+
+> Aditado pelo/a [Decreto-Lei n.º 208/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674), publicado em 1998-07-14.
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 

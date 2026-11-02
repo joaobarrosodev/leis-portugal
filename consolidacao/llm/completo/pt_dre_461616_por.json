@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:461616:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - Sem prejuízo do que vier a ser concretizado através do n.º 1 e dado o estado de conservação da vegetação natural de certas formações dunares, assim como o interesse tanto do ponto de vista florístico como de comunidades biológicas, fica desde já definida, dentro dos limites da Reserva Natural do Estuário do Sado, a Reserva Botânica das Dunas de Tróia, cujos limites vão demarcados na carta anexa ao presente decreto e são em linhas gerais os seguintes:\n\nUma linha nordeste-sudoeste no extremo do eucaliptal plantado na Ponta de Pêra que se estende do estuário até à linha limite da preia-mar na zona da costa oceânica, continua esta linha para sudeste e inflecte, no início das dunas fixadas artificialmente, até ao estuário, por onde se prolonga na direcção noroeste, englobando uma parte dos sapais do Esteiro Novo e Canal da Malha, até voltar a ligar com a estrema nordeste-sudoeste.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 142/2008, art. 53.º, n.º 1, al. d): revoga os artigos 3.º, 5.º, 6.º n.os 1 e 2, 7.º, 8.º, 9.º, 10.º e 12.º do DL 430/80 — aplicado: artigos 3.º, 5.º, 7.º, 8.º, 9.º, 10.º e 12.º com '(Revogado.)'; no 6.º os n.os 1 e 2 '(Revogado.)', n.º 3 mantido.",
+    "Nota: o n.º 2 do art. 53.º difere os efeitos desta revogação para a entrada em vigor do plano de ordenamento da área protegida (não é revogação 'na parte em que contrariem'); aplicada como revogação expressa.",
+    "Restantes alíneas do art. 53.º e n.º 3 dirigem-se a outros diplomas: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

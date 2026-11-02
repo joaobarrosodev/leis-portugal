@@ -7,27 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:602686:por
-    title: Portaria n.º 43/2009
-    publication_date: '2009-01-19'
-  - id: pt:dre:609337:por
-    title: Portaria n.º 106/2010
-    publication_date: '2010-02-19'
-  - id: pt:dre:613233:por
-    title: Portaria n.º 226/2010
-    publication_date: '2010-04-21'
   - id: pt:dre:309073:por
     title: Portaria n.º 1151/2010
     publication_date: '2010-11-04'
-  - id: pt:dre:671040:por
-    title: Portaria n.º 271/2011
-    publication_date: '2011-09-22'
-  - id: pt:dre:257662:por
-    title: Portaria n.º 60/2013
-    publication_date: '2013-02-11'
   - id: pt:dre:502865:por
     title: Portaria n.º 315/2013
     publication_date: '2013-10-22'
+  - id: pt:dre:671040:por
+    title: Portaria n.º 271/2011
+    publication_date: '2011-09-22'
   - id: pt:dre:25345880:por
     title: Portaria n.º 109/2014
     publication_date: '2014-05-22'
@@ -97,7 +85,7 @@ f) Demonstrar o cumprimento das disposições legais em matéria de contratos p�
 
 g) Enquadrar-se nos programas operacionais, a que se refere o artigo 9.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro 1999, sempre que o projecto seja apresentado por uma organização de produtores.
 
-> Alterado pelo/a [Portaria n.º 43/2009](https://diariodarepublica.pt/dr/detalhe/portaria/43-2009-602686) e [Portaria n.º 106/2010](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337) e [Portaria n.º 226/2010](https://diariodarepublica.pt/dr/detalhe/portaria/226-2010-613233) e [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073) e [Portaria n.º 271/2011](https://diariodarepublica.pt/dr/detalhe/portaria/271-2011-671040) e [Portaria n.º 60/2013](https://diariodarepublica.pt/dr/detalhe/portaria/60-2013-257662) e [Portaria n.º 315/2013](https://diariodarepublica.pt/dr/detalhe/portaria/315-2013-502865) e [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
 ###### Artigo 5.º — Tipologia dos projectos
 
@@ -109,7 +97,7 @@ b) O aumento da eficiência das organizações de produtores reconhecidas, em fu
 
 c) A execução de planos de melhoria da qualidade dos produtos da pesca e da aquicultura, nos termos do artigo 12.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999;
 
-d) Investimentos ou outras acções de interesse colectivo, cuja execução não ultrapasse três anos, e que sejam de um dos seguintes tipos:
+d) Investimentos ou outras ações de interesse coletivo, com exceção das relativas à melhoria das condições de segurança a bordo das embarcações de pesca cujas condições de apoio estão previstas no Regulamento aprovado pela Portaria n.º 219/2012, de 19 de julho, que sejam de um dos seguintes tipos:
 
 i) Contributo sustentável para uma melhor gestão ou conservação dos recursos;
 
@@ -136,6 +124,8 @@ xi) Desenvolvimento da constituição de redes e do intercâmbio de experiência
 xii) Melhoria da gestão e do controlo das condições de acesso às zonas de pesca, através da elaboração de planos de gestão locais aprovados pela Direcção-Geral das Pescas e Aquicultura (DGPA);
 
 xiii) Realização de estudos de viabilidade relacionados com a promoção de parcerias com outras regiões da Comunidade e países terceiros no sector das pescas.
+
+> Alterado pelo/a [Portaria n.º 315/2013](https://diariodarepublica.pt/dr/detalhe/portaria/315-2013-502865), publicado em 2013-10-22.
 
 ###### Artigo 6.º — Despesas elegíveis
 
@@ -175,7 +165,7 @@ vi) Estabelecimento e aplicação de um sistema de controlo do respeito das medi
 
 c) Para os projectos da alínea d) do artigo 5.º, são consideradas elegíveis as despesas respeitantes a:
 
-i) Pessoal contratado externo ao promotor;
+i) Pessoal contratado externo ao promotor e a bolsas de investigação, desde que o objecto das mesmas se revista de utilidade para a consecução dos objectivos subjacentes ao projecto;
 
 ii) Arrendamento de instalações específicas;
 
@@ -198,6 +188,10 @@ x) Meios de acondicionamento e embalagem reutilizáveis e materiais de rotulagem
 xi) Custos com garantias exigidas no âmbito da execução do projecto, até ao limite máximo de 4 % das restantes despesas elegíveis;
 
 xii) Custos com a elaboração de planos de gestão locais no âmbito de projectos previstos na subalínea xii) da alínea d) do artigo 5.º
+
+xiii) Funcionamento do promotor, incluindo as inerentes ao uso de embarcações e equipamentos, desde que imprescindíveis ao desenvolvimento das acções.
+
+> Alterado pelo/a [Portaria n.º 271/2011](https://diariodarepublica.pt/dr/detalhe/portaria/271-2011-671040), publicado em 2011-09-22.
 
 ###### Artigo 7.º — Despesas não elegíveis
 
@@ -235,7 +229,7 @@ ii) (euro) 100 000, para os projectos da alínea b) do artigo 5.º
 
 3 - Para os projectos previstos na alínea c) do artigo 5.º o apoio público é concedido nos três anos seguintes ao reconhecimento específico das organizações de produtores, não podendo exceder 60 %, 50 % e 40 %, respectivamente, das despesas elegíveis efectuadas nesses anos pelas organizações de produtores, para a execução dos planos de melhoria da qualidade, até ao limite de (euro) 180 000.
 
-4 - Para os projectos previstos nas subalíneas i), ii), iii), iv) e ix) da alínea d) do artigo 5.º, é concedido um apoio público:
+4 - Para os projectos previstos nas subalíneas i), ii), iii), iv), vi) e ix) da alínea d) do artigo 5.º é concedido um apoio público:
 
 a) Até 100 % das despesas elegíveis para as entidades previstas na alínea b) do artigo 2.º;
 
@@ -249,17 +243,27 @@ b) 80 % das despesas elegíveis para os projectos localizados nas regiões do No
 
 6 - Ao apoio público previsto nos n.os 4 e 5 é efectuada uma dedução proporcional à receita líquida gerada pelo projecto durante cinco anos, a calcular de acordo com orientações a emitir pela Autoridade de Gestão.
 
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
+
 ###### Artigo 9.º — Candidaturas
 
-1 - As candidaturas ao presente regime são apresentadas nas direcções regionais de agricultura e pescas, doravante designadas por DRAP, durante os meses de Fevereiro, Maio, Agosto e Novembro, de cada ano, excepto quanto:
+1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).
 
-a) Às candidaturas previstas no artigo 17.º do Decreto-Lei n.º 81/2008, de 16 de Maio, as quais são apresentadas nos prazos indicados naquele diploma;
+2 - Os projectos previstos nas alíneas a), b) e c) do artigo 5.º são apresentados no prazo de um ano, a contar da data da respectiva decisão de reconhecimento, de modificação ou do reconhecimento específico da organização de produtores.
 
-b) Aos projectos previstos nas alíneas a), b) e c) do artigo 5.º, as quais são apresentadas no prazo de um ano, a contar da data da respectiva decisão de reconhecimento, de modificação ou do reconhecimento específico da organização de produtores.
+3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
-2 - Após a recepção das candidaturas, podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.
+4 - Ao estabelecer novo período de apresentação de candidaturas ao abrigo do disposto no número anterior, o Gestor pode igualmente determinar:
 
-3 - O encerramento das candidaturas ocorre em 31 de Agosto de 2013, se data anterior não for fixada pelo gestor.
+a) A tipologia de projetos suscetíveis de apoio, no contexto dessa reabertura do período de apresentação de candidaturas;
+
+b) A dotação disponível para novas aprovações, da qual dependerá a análise das candidaturas em carteira, face à dimensão dos investimentos nelas previstos;
+
+c) As regras de seleção das candidaturas, sem prejuízo dos critérios de seleção estabelecidos segundo o disposto no artigo 8.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio;
+
+d) Os prazos de execução dos projetos, tendo em conta o período de elegibilidade temporal das despesas previsto no artigo 55.º, n.º 1, do Regulamento n.º 1198/2006, do Conselho, de 27 de julho de 2006.
+
+> Alterado pelo/a [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
 
 ###### Artigo 10.º — Selecção das candidaturas
 
@@ -291,45 +295,61 @@ a) Do gestor para as candidaturas relativas a projectos de investimento com uma 
 
 b) Do membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.
 
-2 - As candidaturas são decididas no prazo máximo de 50 dias, a contar do último dia de cada período para a sua apresentação, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
+2 - As candidaturas são decididas no prazo máximo de 50 dias, a contar da data da respectiva entrada, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
 3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após ter tido conhecimento da decisão final do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.
+
+4 - O IFAP, após a recepção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e remeter um exemplar ao promotor.
+
+> Alterado pelo/a [Portaria n.º 271/2011](https://diariodarepublica.pt/dr/detalhe/portaria/271-2011-671040), publicado em 2011-09-22.
 
 ###### Artigo 12.º — Pagamento dos apoios
 
 1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.
 
-2 - A primeira prestação dos apoios só é paga após a realização de 20 % do investimento elegível.
+2 - No caso de projectos que envolvam acções de formação, o pagamento do apoio apenas é efectuado pelo IFAP após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, dos documentos comprovativos da obtenção, em momento anterior ao início da execução do projecto, das autorizações e licenciamentos legalmente exigidos para o efeito.
 
-3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar pelo menos 20 % desse apoio.
+3 - A primeira prestação do apoio só é paga após a realização de 5% do investimento elegível.
 
-4 - O disposto nos n.os 1 a 3 só se aplica aos projectos previstos na alínea d) do artigo 5.º
+4 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10% desse apoio.
 
-5 - Os pagamentos dos apoios aos projectos previstos nas alíneas a), b) e c) do artigo 5.º são efectuados no ano seguinte àquele a que o apoio se reporta.
+5 - O disposto nos n.os 1 a 3 só se aplica aos projectos previstos na alínea d) do artigo 5.º
+
+6 - Os pagamentos dos apoios aos projectos previstos nas alíneas a), b) e c) do artigo 5.º são efectuados no ano seguinte àquele a que o apoio se reporta.
+
+> Alterado pelo/a [Portaria n.º 315/2013](https://diariodarepublica.pt/dr/detalhe/portaria/315-2013-502865), publicado em 2013-10-22.
 
 ###### Artigo 13.º — Adiantamento dos apoios da alínea d) do artigo 5.º
 
 1 - São susceptíveis de adiantamento os apoios previstos na alínea d) do artigo 5.º
 
-2 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses, após a data da celebração do contrato, a concessão de um adiantamento até 30 % do valor dos apoios.
+2 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
-3 - Após a justificação da despesa paga correspondente a 35 % do investimento elegível, o promotor poderá solicitar um adiantamento até 30 % do valor dos apoios, desde que o solicite até 12 meses após a data da celebração do contrato.
+3 - Os beneficiários que se enquadrem na tipologia de promotores prevista na alínea b) do artigo 2.º estão dispensados da apresentação de despesa paga como requisito da concessão de adiantamentos.
 
-4 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a sua aplicação e apresentar os comprovativos da despesa correspondente a esse valor.
+4 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a realização de 50% do investimento elegível, mediante a apresentação dos correspondentes comprovativos de despesa. No caso dos promotores a que se refere a alínea b) do artigo 2º do Regulamento do Regime de Apoio às Ações Coletivas esse período é de nove meses.
 
-5 - Em caso de atraso na justificação dos adiantamentos será aplicada uma penalização correspondente ao valor dos juros de mora à taxa legal, contados sobre o valor do adiantamento não justificado.
+5 - Em caso de incumprimento da obrigação prevista no número 4:
 
-6 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP, à excepção dos beneficiários que sejam entidades públicas, nos termos da alínea b) do artigo 2.º
+a) É aplicada ao promotor uma penalização correspondente ao valor dos juros de mora à taxa legal, calculados sobre o valor do adiantamento;
+
+b) Decorridos 30 dias após o termo do prazo a que alude o número 4 sem que o promotor tenha ainda cumprido a obrigação aí prevista, poderá ser-lhe exigida a devolução do adiantamento, acrescido de juros de mora à taxa legal.
+
+6 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP, à excepção dos beneficiários que se enquadrem nas tipologias de promotores previstas nas alíneas b) e d) do artigo 2.º
 
 7 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR.
 
+8 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 12º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
+
+> Alterado pelo/a [Portaria n.º 315/2013](https://diariodarepublica.pt/dr/detalhe/portaria/315-2013-502865), publicado em 2013-10-22.
+
 ###### Artigo 14.º — Obrigações dos beneficiários
 
-Sem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicáveis, constituem obrigações do beneficiário:
+1 - Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, quando aplicáveis, constituem obrigações do beneficiário:
 
 a) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação do projecto;
 
-b) Iniciar a execução do projecto até 90 dias a contar da data da outorga do contrato com o IFAP e completar essa execução até três anos a contar da mesma data;
+b) Iniciar a execução do projecto até 180 dias, a contar da data da recepção de um exemplar do contrato de atribuição do apoio outorgado pelo IFAP, e concluir essa execução até três anos a contar da mesma data;
 
 c) Cumprir as disposições legais aplicáveis relativas aos procedimentos em matéria de contratos públicos;
 
@@ -339,11 +359,17 @@ e) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as
 
 f) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor do PROMAR;
 
-g) Constituir, quando ocorram investimentos em equipamentos ou instalações, até à data da conclusão material do projecto, contado da data da última factura, e mantê-lo válido por um período de cinco anos, um seguro pelo montante mínimo correspondente ao valor dos apoios concedidos àqueles investimentos, excepto no caso de o beneficiário ser uma entidade pública referida na alínea b) do artigo 2.º
+g) Obter, previamente ao início dos projectos que envolvam acções de formação, as autorizações ou licenciamentos legalmente exigidos para a sua execução e mantê-los válidos durante todo o período durante o qual decorra a formação.
+
+2 - Excepcionalmente, pode ser aceite a prorrogação dos prazos de início e de conclusão da execução do projecto, previstos na alínea b) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
+
+> Alterado pelo/a [Portaria n.º 271/2011](https://diariodarepublica.pt/dr/detalhe/portaria/271-2011-671040), publicado em 2011-09-22.
 
 ###### Artigo 15.º — Alterações aos projectos aprovados
 
-Podem ser admitidas até duas alterações técnicas ao projecto, desde que se mantenha a concepção económica e estrutural do projecto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de Maio, delas não podendo resultar o aumento do apoio público.
+Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos números 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, delas não podendo resultar o aumento do apoio público.
+
+> Alterado pelo/a [Portaria n.º 315/2013](https://diariodarepublica.pt/dr/detalhe/portaria/315-2013-502865), publicado em 2013-10-22.
 
 ###### Artigo 16.º — Cobertura orçamental
 

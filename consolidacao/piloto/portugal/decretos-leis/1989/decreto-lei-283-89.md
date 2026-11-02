@@ -13,9 +13,9 @@ consolidacao:
   - id: pt:dre:175780:por
     title: Decreto-Lei n.º 100/98
     publication_date: '1998-04-21'
-  - id: pt:dre:66761449:por
-    title: Decreto-Lei n.º 39/2015
-    publication_date: '2015-03-16'
+  - id: pt:dre:565255:por
+    title: Decreto-Lei n.º 379/90
+    publication_date: '1990-12-07'
 ---
 
 # Decreto-Lei n.º 283/89
@@ -46,13 +46,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constitutição, o Govern
 
 2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.
 
-> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780) e [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16.
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 2.º — Regime
 
-1 - A gestão do ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico das empresas públicas.
+1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
 
 2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 3.º — Sede e delegações
 
@@ -310,9 +312,15 @@ g) Qualquer outro assunto que o conselho de administração, por iniciativa pró
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Artigo 20.º — Normas aplicáveis
+###### Artigo 20.º — Gestão patrimonial e financeira
 
-A gestão patrimonial e financeira do ICP, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às empresas públicas.
+1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
+
+2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.
+
+3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 21.º — Património
 
@@ -367,6 +375,10 @@ a) Podem identificar, para posterior actuação, todos os indivíduos que infrin
 b) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;
 
 c) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.
+
+3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.
+
+> Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07.
 
 ###### Artigo 25.º — Segurança Social
 

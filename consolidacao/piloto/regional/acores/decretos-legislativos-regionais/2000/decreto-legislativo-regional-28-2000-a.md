@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:522871:por
     title: Decreto Legislativo Regional n.º 12/2001/A
     publication_date: '2001-08-04'
-  - id: pt:dre:694251:por
-    title: Decreto Legislativo Regional n.º 32/2003/A
-    publication_date: '2003-07-01'
   - id: pt:dre:546019:por
     title: Decreto Legislativo Regional n.º 41/2006/A
     publication_date: '2006-10-31'
@@ -67,9 +64,9 @@ a) Aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor ec
 
 b) Aquelas que, tendo as características definidas na alínea anterior, permitem a apreensão de objectos cujo valor económico não exceda 10 vezes a importância despendida pelo utilizador.
 
-2 - As máquinas que, não pagando directamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte são reguladas pelo Decreto-Lei n.º 422/89, de 2 de Dezembro, e diplomas regulamentares, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 20.º do presente diploma.
+2 - As máquinas que, não pagando directamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte são reguladas pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, e diplomas regulamentares, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 20.º do presente diploma.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871), publicado em 2001-08-04.
 
 ### CAPÍTULO II — Registo
 
@@ -83,7 +80,7 @@ Nenhuma máquina submetida ao regime deste diploma pode ser posta em exploraçã
 
 2 - O requerimento do registo é formulado em relação a cada máquina, do qual constará a identificação completa do requerente, bem como a identificação da máquina pela respectiva marca, número de fabrico e descrição do funcionamento.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 5.º — Instrução do pedido
 
@@ -111,11 +108,17 @@ b) Factura ou documento equivalente que contenha os elementos identificativos da
 
 ###### Artigo 6.º — Temas dos jogos
 
-A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 22.º do Decreto-Lei n.º 310/2002, de 18 de Dezembro.
+A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
-###### Artigo 7.º
+###### Artigo 7.º — Título de registo
+
+1 - Preenchidos os requisitos exigidos no artigo 5.º, o membro do Governo Regional com competência na área de polícia administrativa mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
+
+2 - O título de registo deverá conter os elementos identificativos referidos no n.º 2 do artigo 4.º
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ## Título de registo
 
@@ -129,7 +132,7 @@ A importação, fabrico, montagem, substituição de temas de jogos e venda de m
 
 2 - O requerimento de averbamento conterá a identificação completa do adquirente e será acompanhado do título de registo da máquina e da documentação de venda ou cedência, com a assinatura do transmitente reconhecida pelos meios consentidos por lei.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ### CAPÍTULO III — Exploração
 
@@ -145,17 +148,19 @@ A máquina só pode ser posta em exploração desde que disponha da corresponden
 
 A licença de exploração tem a duração de dois anos, contados a partir da data do despacho da concessão da licença de exploração.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 12.º — Requerimento
 
-1 - A licença de exploração é requerida pelo interessado ao Secretário Regional Adjunto da Presidência.
+1 - A licença de exploração é requerida pelo interessado ao membro do Governo Regional com competência na área de polícia administrativa.
 
 2 - O requerimento deverá conter a identificação completa do interessado, o número de máquinas e a localização do recinto onde se fará a exploração.
 
-3 - O detentor da licença de exploração que pretenda continuar a actividade no ano seguinte deverá requerer nova licença.
+3 - O detentor da licença de exploração que pretenda continuar a actividade após o período a que se refere o artigo anterior deverá requerer nova licença até 30 dias antes de terminar aquele período de validade.
 
 4 - Se durante o período de validade da licença de exploração o interessado pretender explorar mais máquinas no recinto a que ela respeita, deverá requerer nova licença para o número total de máquinas que pretende explorar.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 13.º — Instrução do pedido
 
@@ -171,19 +176,19 @@ d) Licença de utilização, a emitir pela câmara municipal.
 
 ###### Artigo 14.º — Consulta
 
-1 - O membro do Governo Regional com competência na área de polícia administrativa solicitará à câmara municipal da área da situação do recinto a emissão de parecer quanto à conveniência da concessão da licença de exploração, tendo em conta, designadamente, a adequada distância relativamente a estabelecimentos de ensino, nos termos a que se reporta o Decreto Legislativo Regional n.º 27/2005/A, de 10 de Novembro.
+1 - O membro do Governo Regional com competência na área de polícia administrativa solicitará à câmara municipal da área da situação do recinto a emissão de parecer quanto à conveniência da concessão da licença de exploração, tendo em conta, designadamente, a adequada distância relativamente a estabelecimentos de ensino, nos termos a que se reporta o [Decreto Legislativo Regional n.º 27/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2005-584639), de 10 de Novembro.
 
 2 - A câmara municipal dispõe do prazo de 10 dias consecutivos para se pronunciar quanto ao pedido de licenciamento, considerando-se o parecer favorável uma vez decorrido aquele prazo.
 
 3 - O despacho do membro do Governo Regional com competência na área de polícia administrativa será fundamentado quando não for concordante com o parecer referido no n.º 1 do presente artigo.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 15.º — Recusa
 
 O membro do Governo Regional com competência na área de polícia administrativa pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 16.º — Título de licenciamento
 
@@ -191,7 +196,7 @@ O membro do Governo Regional com competência na área de polícia administrativ
 
 2 - As máquinas a que se refere o número anterior podem ser transferidas para outro recinto, na sua totalidade ou em parte, desde que se efectue dentro da mesma ilha, mediante requerimento do interessado, após a consulta a que se refere o artigo 14.º, e obtido o despacho favorável do membro do Governo Regional com competência na área de polícia administrativa, que será averbado ao respectivo alvará sem necessidade de novo licenciamento.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ## Título de licenciamento
 
@@ -225,7 +230,7 @@ g) Tipo de máquina;
 
 h) Número de fábrica.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
 
 ###### Artigo 18.º — Interdição
 
@@ -237,7 +242,7 @@ A prática de jogos em máquinas reguladas pelo presente diploma é interdita a 
 
 O deferimento dos actos requeridos nos termos deste diploma obriga ao pagamento das taxas fixadas por portaria conjunta dos membros do Governo Regional com competência nas áreas das finanças e de polícia administrativa, as quais constituem receita da Região.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ### CAPÍTULO V — Contra-ordenações
 
@@ -245,13 +250,13 @@ O deferimento dos actos requeridos nos termos deste diploma obriga ao pagamento 
 
 1 - As infracções ao presente diploma constituem contra-ordenação punida nos termos seguintes:
 
-a) Exploração de máquinas que desenvolvam temas próprios dos jogos de fortuna ou azar, ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte, reguladas pelo Decreto-Lei n.º 422/89, de 2 de Dezembro, em coima de (euro) 1250 a (euro) 2500 por cada máquina, e acessoriamente, atenta a gravidade e frequência da infracção, apreensão e perda das mesmas a favor da Região;
+a) Exploração de máquinas que desenvolvam temas próprios dos jogos de fortuna ou azar, ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte, reguladas pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, em coima de (euro) 1250 a (euro) 2500 por cada máquina, e acessoriamente, atenta a gravidade e frequência da infracção, apreensão e perda das mesmas a favor da Região;
 
 b) Exploração de máquinas sem registo, com coimas de (euro) 1250 a (euro) 2500 por cada máquina;
 
 c) Falsificação do título do registo ou do título de licenciamento, com coima de (euro) 1250 a (euro) 2500;
 
-d) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título do registo, do título de licenciamento ou dos documentos previstos nos n.os 4 e 6 do artigo 22.º do Decreto-Lei n.º 310/2002, de 18 de Dezembro, com coima de (euro) 100 a (euro) 500 por cada máquina;
+d) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título do registo, do título de licenciamento ou dos documentos previstos nos n.os 4 e 6 do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro, com coima de (euro) 100 a (euro) 500 por cada máquina;
 
 e) Desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário, com coima de (euro) 100 a (euro) 500 por cada máquina;
 
@@ -271,7 +276,7 @@ k) Falta ou afixação indevida da inscrição ou dístico referido no n.º 5 do
 
 3 - A negligência e a tentativa são punidas.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 21.º — Responsabilidade
 
@@ -287,7 +292,7 @@ b) O proprietário ou explorador do recinto, nas demais situações.
 
 A aplicação das coimas compete ao membro do Governo Regional com competência na área de polícia administrativa, e o produto das mesmas constitui receita para a Região.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 23.º — Medidas de polícia
 
@@ -297,7 +302,7 @@ A aplicação das coimas compete ao membro do Governo Regional com competência 
 
 3 - A licença concedida nos termos do presente diploma pode ser revogada a qualquer momento com fundamento na violação do presente regime, na inaptidão do seu titular para o exercício, bem como sempre que tal medida de polícia se justifique para manutenção ou reposição da ordem, da segurança ou da tranquilidade públicas.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ### CAPÍTULO VI — Disposições finais
 
@@ -305,13 +310,13 @@ A aplicação das coimas compete ao membro do Governo Regional com competência 
 
 A fiscalização da observância do disposto no presente diploma, bem como a instrução dos respectivos processos contra-ordenacionais, compete às forças de segurança, sendo a Inspecção-Geral de Jogos o serviço técnico consultivo e pericial.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871), publicado em 2001-08-04.
 
 ###### Artigo 25.º — Modelos
 
 Os impressos próprios referidos no presente diploma serão aprovados por portaria do membro do Governo Regional com competência na área de polícia administrativa.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-522871) e [Decreto Legislativo Regional n.º 32/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2003-694251) e [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019) e [Decreto Legislativo Regional n.º 12/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954), publicado em 2012-03-27.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 41/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019), publicado em 2006-10-31.
 
 ###### Artigo 26.º — Revogação
 

@@ -28,7 +28,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 2.º
 
-Para efeito de cobrança da taxa a que se refere o artigo anterior, a Direcção-Geral dos Serviços Pecuários remeterá as respectivas guias, directamente ou por intermédio dos seus serviços regionais, às secções de finanças dos concelhos da residência do proprietário ou importador, com o nome e domicílio dos devedores, para pagamento das laxas devidas, aguardando-se por 30 dias o pagamento voluntário mediante aviso das referidas secções de finanças.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.
 
 ###### Artigo 3.º
 
@@ -38,23 +40,21 @@ Para efeito de cobrança da taxa a que se refere o artigo anterior, a Direcção
 
 ###### Artigo 4.º
 
-Na falta de pagamento da taxa estabelecida por este diploma dentro do prazo a que se refere o artigo 2.º, proceder-se-á à sua cobrança coerciva por intermédio dos tribunais das execuções fiscais, para o que se converterão as dívidas em receita virtual, debitando-se por elas o respectivo tesoureiro para os efeitos da alínea a) do § único do artigo 34.º do Código das Execuções Fiscais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.
 
 ###### Artigo 5.º
 
-O produto da taxa a que se refere o artigo 1.º será escriturado em conta de depósito em operações de tesouraria, transitando para receita do Estado, em rubrica adequada, na medida das necessidades, para cobertura dos encargos com a luta contra a peste suína atípica vírus L (peste suína africana), incluindo indemnizações pelo abate e destruição dos animais.
+(Revogado.)
 
-§ único. Mediante despacho do Ministro das Finanças, poderá ser concedido à Direcção-Geral dos Serviços Pecuários um crédito permanente até à importância de dois duodécimos da correspondente dotação orçamental, devendo atender-se a que no fim do ano económico não poderá estar despendida quantia excedente à arrecadada.
+> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.
 
 ###### Artigo 6.º
 
-A luta contra a peste suína africana, que engloba os encargos com indemnizações, despesas com o pessoal, material e pagamento de serviços e diversos encargos, compreende:
+(Revogado.)
 
-a) A execução de medidas profilácticas e de polícia sanitária;
-
-b) A investigação e a produção de meios de luta e prevenção;
-
-c) A educação sanitária, incluindo a assistência técnica e a vulgarização.
+> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22.
 
 ###### Artigo 7.º
 

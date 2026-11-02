@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:618499:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza e tutela",
+      "texto": "1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Regime",
+      "texto": "1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Gestão patrimonial e financeira",
+      "texto": "1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.\n\n3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Estatuto do pessoal",
+      "texto": "1 - O pessoal do ICP está sujeito ao Regime Jurídico do Contrato Individual de Trabalho, constando de regulamento interno, aprovado pelos Ministros da tutela das comunicações e das Finanças, a definição das suas condições de trabalho, com observância das normas imperativas daquele Regime.\n\n2 - Os trabalhadores do ICP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados aos agentes de autoridade e têm as seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, todos os indivíduos que infrinjam os regulamentos cuja observância devem fazer respeitar;\n\nb) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.\n\n3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 379/90, artigo único: nova redação do art. 24.º com n.ºs 1 e 2 '...' (mantidos) e novo n.º 3 aditado.",
+    "DL 95/96: nova redação dos arts. 14.º e 15.º; o texto atual já coincide com ela, sem mudança.",
+    "DL 100/98, art. 1.º: nova redação do art. 1.º (epígrafe 'Natureza e tutela', novo n.º 1, n.º 2 '...' mantido; a nova redação só tem n.ºs 1 e 2, pelo que o antigo n.º 3 deixa de constar).",
+    "DL 100/98, art. 1.º: nova redação do art. 2.º (novo n.º 1, n.º 2 '...' mantido; epígrafe '[Regime]' igual).",
+    "DL 100/98, art. 1.º: nova redação integral do art. 20.º (epígrafe 'Gestão patrimonial e financeira', n.ºs 1 a 3).",
+    "DL 39/2015, art. 6.º: revoga o DL 309/2001, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

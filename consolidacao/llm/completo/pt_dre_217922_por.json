@@ -1,0 +1,63 @@
+{
+  "id": "pt:dre:217922:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.\n\n2 - (Revogado.)\n\n3 - A concessionária promoverá a cobrança das taxas e demais rendimentos provenientes da prestação do serviço público, bem como a utilização e ocupação de espaços na área dos aeroportos da Região Autónoma da Madeira.",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º-A",
+      "epigrafe": "",
+      "texto": "1 - Sem prejuízo do disposto no artigo anterior, fica a concessionária autorizada a integrar no seu quadro de efectivos, mediante celebração de contrato de trabalho, os trabalhadores que nesta empresa exercem funções em regime de requisição à Direcção Regional dos Aeroportos da Madeira.\n\n2 - Os funcionários nas condições previstas no número anterior que pretendam efectuar a sua integração no quadro de efectivos da concessionária mediante celebração de contrato de trabalho deverão requerer a sua exoneração à Direcção dos Aeroportos da Madeira, no prazo de 30 dias úteis a contar da entrada em vigor da presente disposição.\n\n3 - O requerimento de exoneração a apresentar pelos trabalhadores requisitados deverá ser apresentado na Direcção dos Aeroportos da Madeira, que, posteriormente, irá remetê-lo à Secretaria Regional do Turismo e Transportes.\n\n4 - Após a recepção do requerimento de exoneração dos trabalhadores requisitados, a concessionária obriga-se a celebrar contrato de trabalho com os requerentes, remetendo cópia do contrato de trabalho juntamente com o pedido de exoneração à Secretaria Regional do Turismo e Transportes.\n\n5 - O contrato de trabalho celebrado entre a concessionária e os requerentes, nos termos dos números anteriores, produzirá efeitos à data da apresentação do pedido de exoneração da Direcção Regional de Aeroportos da Madeira, salvaguardando a respectiva antiguidade.\n\n6 - Cumprido o disposto no número anterior, será exarado despacho de exoneração com data de produção de efeitos reportada à da apresentação do respectivo requerimento.",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DLR 7-A/2000/M), art. 1.º: nova redação do art. 2.º (n.º 1 = texto atual, novos n.os 2 e 3); ficou sem efeito no texto final porque o alterador 3 revoga o art. 2.º. O art. 2.º do alterador (cláusula 20.ª do contrato de concessão) não é do original: ignorado.",
+    "Alterador 2 (DLR 4/2010/M), art. 1.º: adita o art. 9.º-A (6 números, sem epígrafe); aplicado.",
+    "Alterador 3 (DLR 25-A/2013/M), art. 9.º, a): revoga os arts. 2.º, 4.º, 6.º, 7.º, 8.º n.º 2, 10.º e 12.º; aplicado (artigos com (Revogado.) e n.º 2 do art. 8.º com 2 - (Revogado.)). Nota: segundo o seu art. 10.º, n.º 2, a revogação só produz efeitos após o aviso de outorga do contrato administrativo; aplicada no texto. A alínea b) revoga outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

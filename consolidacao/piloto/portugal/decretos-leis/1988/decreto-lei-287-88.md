@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:301017:por
     title: Decreto-Lei n.º 127/2000
     publication_date: '2000-07-06'
+  - id: pt:dre:548825:por
+    title: Decreto-Lei n.º 345/89
+    publication_date: '1989-10-11'
 ---
 
 # Decreto-Lei n.º 287/88
@@ -49,9 +52,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Âmbito do diploma
 
-O presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no Decreto-Lei n.º 18/88, de 21 de Janeiro, e no Decreto-Lei n.º 384/93, de 18 de Novembro, com a redacção dada pelo Decreto-Lei n.º 16/96, de 8 de Março.
+O presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e no [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
-> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ### CAPÍTULO II — Do acesso à profissionalização em serviço
 
@@ -71,9 +74,11 @@ b) Capacidade do sistema de formação.
 
 ###### Artigo 3.º — Actualização das listas
 
-1 - As listas por grupo, subgrupo, disciplina ou especialidade, organizadas de acordo com o estabelecido no artigo anterior, serão anualmente actualizadas em resultado das colocações de professores do quadro com nomeação provisória, operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+1 - As listas por grupo, subgrupo, disciplina ou especialidade, organizadas de acordo com o estabelecido no artigo anterior, serão anualmente actualizadas em resultado das colocações de professores do quadro com nomeação provisória, operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
 2 - Os docentes referidos no número anterior entrarão na lista imediatamente a seguir ao último dela constante, ordenados, eles próprios, nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, salvo nos casos em que já sejam professores dos quadros com nomeação provisória, sendo então integrados na lista do novo distrito, de acordo com a sua graduação na docência.
+
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ### CAPÍTULO III — Da duração
 
@@ -197,7 +202,7 @@ em que CP corresponde à classificação profissional, CA à classificação aca
 
 3 - A classificação profissional será publicada no Diário da República, 2.ª série, pela Direcção-Geral da Administração Educativa.
 
-> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.
+> Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.
 
 ###### Artigo 15.º — Repetição dos anos de formação
 
@@ -215,9 +220,17 @@ em que CP corresponde à classificação profissional, CA à classificação aca
 
 2 - Nos 60 dias referidos no número anterior não se incluem os abrangidos por licença de parto.
 
-3 - Sempre que seja ultrapassado o limite referido nos números anteriores, considera-se, para todos os efeitos, que o docente em profissionalização não obteve aproveitamento no respectivo ano de formação.
+3 - Sempre que seja ultrapassado o limite referido nos números anteriores, considera-se, para todos os efeitos, que o docente em profissionalização não obteve aproveitamento no respectivo ano de formação, sem prejuízo do disposto nos n.os 5 e seguintes.
 
 4 - O não aproveitamento referido no número anterior é considerado para efeitos de aplicação do disposto no artigo 15.º deste decreto-lei.
+
+5 - Durante o tempo em que durar a incapacidade para o exercício de funções, motivada por gravidez de risco clínico ou doença protegida ou prolongada nos termos do artigo 48.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, considera-se suspensa a convocação para a profissionalização, bem como a própria realização desta.
+
+6 - Finda a situação que determinou a suspensão prevista no número anterior, o respectivo docente será convocado para realizar a profissionalização em serviço, ou retomará o exercício da mesma no caso da sua interrupção.
+
+7 - Para efeitos do disposto nos números anteriores, no final de cada ano escolar, os estabelecimentos de educação e ensino devem comunicar ao departamento central com competência na gestão dos recursos educativos, acompanhadas dos necessários comprovativos médicos, as referidas situações de incapacidade de que tenham sofrido docentes de nomeação provisória, bem como a data do respectivo início e termo.
+
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ###### Artigo 17.º — Desistências
 
@@ -257,7 +270,7 @@ j) Escolas dos ensinos preparatório e secundário.
 
 2 - Para além das entidades referidas no número anterior, poderão ainda ser constituídos círculos de formação de acordo com os princípios definidos no presente diploma.
 
-3 - A rede de formação resulta do plano de afectação de docentes em profissionalização e pode sofrer, anualmente, alterações resultantes das colocações operadas pela primeira parte do concurso a que se refere o [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+3 - A rede de formação resulta dos planos de afectação de docentes em profissionalização e pode sofrer, anualmente, alterações resultantes das colocações operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
 4 - A afectação dos docentes em profissionalização é feita com base num plano anualmente elaborado, o qual será definido, fundamentalmente, de acordo com os critérios abaixo mencionados:
 
@@ -269,6 +282,8 @@ b) Características das escolas onde os docentes realizam a profissionalização
 
 6 - Para efeitos do disposto no número anterior, a Universidade Aberta celebrará protocolos com a instituição de ensino superior em cuja área de influência se situa a escola onde o docente em profissionalização se encontre colocado.
 
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
+
 ###### Artigo 20.º — Associações de escolas
 
 1 - Nos termos definidos no artigo anterior, as escolas preparatórias e secundárias podem associar-se em círculos de formação.
@@ -279,9 +294,11 @@ b) Características das escolas onde os docentes realizam a profissionalização
 
 1 - A rede dos círculos de formação será anualmente objecto de despacho do Ministro da Educação.
 
-2 - O despacho referido no número anterior será fundamentado em proposta conjunta da DGEBS, da Direcção-Geral de Administração e Pessoal (DGAP) e das direcções regionais de educação, que tomarão em consideração as colocações de professores em profissionalização em serviço como resultado da primeira parte do concurso previsto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e as necessidades em termos de rede de formação.
+2 - O despacho a que se refere o número anterior será fundamentado em proposta conjunta dos departamentos centrais com competência pedagógica em relação aos 2.º e 3.º ciclos do ensino básico e ao ensino secundário, bem como na gestão dos recursos educativos, e das direcções regionais de educação, que tomarão em consideração as colocações de professores em profissionalização em serviço, em resultado do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.
 
-3 - A DGEBS, a DGAP e as direcções regionais de educação deverão ouvir, para efeitos de cumprimento do estipulado no número anterior, as escolas do ensino preparatório e secundário e as instituições de ensino superior em cuja área de influência as escolas se situam.
+3 - Para efeitos do número anterior, os serviços aí referidos deverão ouvir as escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e as instituições de ensino superior em cuja área de influência as escolas se situam.
+
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ### CAPÍTULO VII — Dos intervenientes no processo de profissionalização e suas competências
 
@@ -413,7 +430,7 @@ Nos casos em que por carência dos meios existentes, nomeadamente por impossibil
 
 ###### Artigo 36.º — Dos direitos e deveres
 
-1 - O docente em profissionalização tem direito, no 1.º ano de formação, a uma redução de seis horas lectivas semanais, devendo participar nas sessões promovidas pela instituição de ensino superior.
+1 - O docente em profissionalização tem direito, no 1.º ano de formação, quando em regime presencial, a uma redução de seis horas lectivas semanais e, quando em regime de formação à distância, a uma redução de quatro horas lectivas semanais, devendo, em qualquer dos casos, participar nas sessões promovidas pela instituição de ensino superior.
 
 2 - No 1.º ano de formação, ao docente em profissionalização não será distribuído serviço lectivo em dia de semana fixado pela instituição de ensino superior.
 
@@ -424,6 +441,8 @@ Nos casos em que por carência dos meios existentes, nomeadamente por impossibil
 5 - O docente em profissionalização tem direito a ser abonado das ajudas de custo legais e das despesas de transporte pelas deslocações decorrentes nas sessões previstas no n.º 1.
 
 6 - As deslocações referidas no número anterior serão sancionadas pelo conselho directivo e os abonos serão processados pela escola onde o docente realiza a sua profissionalização.
+
+> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11.
 
 ### CAPÍTULO X — Do estatuto do delegado de grupo, subgrupo, disciplina ou especialidade, ou do seu substituto, acompanhante do docente em profissionalização
 
@@ -465,7 +484,7 @@ O desempenho de funções de acompanhamento e orientação de docentes em profis
 
 1 - O presente diploma é aplicável aos professores do ensino particular e cooperativo que reúnam os requisitos de habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e as demais condições de ingresso no quadro com nomeação provisória estabelecidas naquele decreto-lei.
 
-2 - Para efeito do disposto no número anterior, os docentes pelo mesmo abrangidos são integrados em listas de âmbito distrital por grupo, subgrupo, disciplina ou especialidade, a elaborar pela DGEBS, que, para o efeito, os ordenará de acordo com os princípios definidos no artigo 2.º deste decreto-lei.
+2 - Para efeito do disposto no número anterior, os docentes pelo mesmo abrangidos são integrados em listas de âmbito distrital, por grupo, subgrupo, disciplina ou especialidade, a elaborar pela Direcção-Geral da Administração Educativa, que, para o efeito, os ordenará de acordo com os princípios definidos no artigo 2.º deste diploma.
 
 3 - Serão chamados para a profissionalização em serviço os docentes que, de acordo com a sua graduação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, o seriam também caso constassem da lista a que se refere o artigo 2.º do presente diploma.
 
@@ -479,19 +498,23 @@ O desempenho de funções de acompanhamento e orientação de docentes em profis
 
 8 - O não cumprimento do disposto no número anterior, excepto no caso de acordo entre as partes, determina a impossibilidade de os professores exercerem funções docentes em qualquer escola particular e cooperativa ou oficial durante o período de tempo em que deveria vigorar o contrato de prestação de serviço nos termos do número anterior.
 
-9 - Sempre que não se verifique o cumprimento do contrato, mesmo no caso da sua rescisão por mútuo acordo, a escola comunicará o facto, por escrito e no prazo de quinze dias, à DGEBS.
+9 - Sempre que se verifique o não cumprimento do contrato, mesmo no caso da sua rescisão por mútuo acordo, a escola comunicará o facto, por escrito e no prazo de 15 dias, à Direcção-Geral da Administração Educativa.
 
 10 - Em tudo o mais aplica-se à profissionalização em serviço no ensino particular e cooperativo o disposto neste diploma relativamente à profissionalização em serviço no ensino oficial.
 
+> Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06.
+
 ###### Artigo 43.º — Profissionalização em serviço dos professores com seis anos de serviço
 
-1 - Os professores dos quadros com nomeação provisória dos ensinos preparatório e secundário estão dispensados da realização da componente projecto de formação e acção pedagógica quando possuam seis anos de bom e efectivo serviço docente prestado como portadores de habilitação própria para a situação de docência em que se encontravam ou encontrem colocados até 30 de Setembro do ano em que realizaram o 1.º ano de profissionalização em serviço.
+1 - Os professores dos quadros com nomeação provisória dos ensinos preparatório e secundário estão dispensados da realização da componente projecto de formação e acção pedagógica quando, até 30 de Setembro do ano em que realizaram o primeiro ano de profissionalização em serviço, possuam seis anos de bom e efectivo serviço docente, prestado no ensino oficial ou no ensino particular e cooperativo.
 
 2 - Os professores referidos no número anterior serão considerados em prioridade nas acções de formação contínua.
 
 3 - A classificação profissional dos professores dispensados da realização da componente projecto de formação e acção pedagógica resultará da seguinte adaptação da fórmula referida no n.º 2 do artigo 14.º:
 
 CP = (CA + CCE)/2
+
+> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11.
 
 ###### Artigo 44.º — Integração dos docentes abrangidos pela formação em serviço prevista nos Decretos-Leis n.os [150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e [405/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304), de 5 de Dezembro
 
@@ -541,11 +564,15 @@ a) Os Decretos-Leis n.os [405/86](https://diariodarepublica.pt/dr/detalhe/decret
 
 b) O [Decreto-Lei n.º 381-D/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-d-1985-476746), de 28 de Setembro, no que respeita aos acompanhantes da prática pedagógica dos docentes dos ensinos preparatório e secundário ao abrigo do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, na redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril.
 
-###### Artigo 50.º — Aplicação aos estabelecimentos de ensino dependentes do Ministério do Emprego e da Segurança Social
+###### Artigo 50.º — A aplicação aos estabelecimentos de ensino dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional
 
-1 - O presente diploma é aplicável aos professores dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes do Ministério do Emprego e da Segurança Social que reúnam os requisitos, habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+1 - O presente diploma é aplicável aos professores dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional que reúnam os requisitos, habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
 
-2 - Para efeitos do disposto no número anterior, para além dos docentes anualmente chamados e afectados para a profissionalização em serviço nos termos do artigo 2.º e do n.º 4 do artigo 19.º do presente diploma, serão ainda anualmente chamados vinte docentes dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes do Ministério do Emprego e da Segurança Social, que serão os que possuírem melhor ordenação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+2 - Para efeitos do disposto no número anterior, para além dos docentes anualmente chamados e afectados para a profissionalização em serviço nos termos do artigo 2.º e do n.º 4 do artigo 19.º do presente diploma, serão ainda anualmente chamados 25 docentes dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional, que serão os que possuírem melhor ordenação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.
+
+3 - Dos 25 docentes anualmente chamados por força do disposto no número anterior, 20 serão docentes dos estabelecimentos oficiais dependentes do Ministério do Emprego e da Segurança Social e 5 dos estabelecimentos oficiais dependentes do Ministério da Defesa Nacional.
+
+> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11.
 
 ###### Artigo 51.º — Aplicação às Regiões Autónomas dos Açores e da Madeira
 

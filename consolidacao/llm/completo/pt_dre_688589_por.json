@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:688589:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alt. 1 (Portaria 1016/91), n.º 8.º: revoga a secção III e a subsecção III da secção V do capítulo IV e os anexos B a J do Regulamento; o texto atual não traz as divisões em capítulos/secções nem os anexos, por isso não se sabe que artigos abrange. N.º 6.º (extinção dos cursos do art. 28.º) não é alteração textual. Alt. 2 (DL 322/93), art. 13.º, al. a): revoga o diploma por inteiro (chamado 'Decreto-Lei n.º 345/72, de 30 de Agosto', quando o original é Decreto), sem prejuízo do n.º 2 do art. 3.º; revogação global, não aplicada artigo a artigo.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1016/91), n.os 1.º a 5.º e 7.º: criam cursos e regras próprias, não alteram o texto do original; ignorados.",
+    "Alt. 1, n.º 6.º: declara extintos os cursos do art. 28.º; não textual; não aplicado.",
+    "Alt. 1, n.º 8.º: revoga secção III e subsecção III da secção V do cap. IV e anexos B a J; alvo não identificável no texto atual; não aplicado.",
+    "Alt. 2 (DL 322/93), art. 13.º, al. a): revogação global do diploma (designação 'Decreto-Lei' divergente); não aplicada artigo a artigo; restante diploma (criação da EMCP, extinção da EMM) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

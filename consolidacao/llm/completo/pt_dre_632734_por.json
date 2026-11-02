@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:632734:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. São órgãos de concepção, coordenação e apoio:\n\na) A Junta Nacional da Educação;\n\nb) O Gabinete de Estudos e Planeamento;\n\nc) O Conselho dos Directores-Gerais;\n\nd) A Secretaria-Geral.\n\n2. São serviços executivos:\n\nI) No sector da ciência e da cultura:\n\na) O Instituto de Alta Cultura;\n\nb) A Direcção-Geral dos Assuntos Culturais.\n\nII) No sector do ensino:\n\na) A Direcção-Geral do Ensino Superior;\n\nb) A Direcção-Geral do Ensino Secundário;\n\nc) A Direcção-Geral do Ensino Básico;\n\nd) A Inspecção-Geral do Ensino Particular;\n\ne) A Direcção-Geral da Administração Escolar;\n\nf) (Revogada.)\n\ng) O Instituto de Tecnologia Educativa.\n\nIII) No sector da juventude e desportos:\n\na) O Secretariado para a Juventude;\n\nb) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do Desporto;\n\nc) O Instituto de Acção Social Escolar.\n\nA) Órgãos de concepção, coordenação e apoio",
+      "alterador": 8
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 8
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "DL 146/73 art. 1.º e Portaria 748/77 acrescentam lugares ao mapa do art. 26.º, n.º 1, e Decreto 69/78 art. 1.º substitui esse mapa pelo seu mapa I: o mapa só vem em imagem, não aplicado. DL 694/74 art. 1.º (Direcção-Geral da Educação Física e Desportos passa a Direcção-Geral dos Desportos), DL 489/75 art. 1.º (extinção da Direcção-Geral da Administração Escolar), Decreto 89/76 art. 1.º (extinção da Direcção-Geral dos Assuntos Culturais) e Decreto 69/78 art. 3.º e 5.º (especialista passa a técnico principal; extinta a categoria de técnico de 3.ª classe) não são alterações textuais do original.",
+  "instrucoes": [
+    "DL 534/79 art. 37.º, a): revoga a alínea f) do n.º II) do n.º 2 do art. 4.º -> alínea f) passa a '(Revogada.)'",
+    "DL 534/79 art. 37.º, a): revoga o art. 17.º -> '(Revogado.)'",
+    "DL 146/73 art. 1.º, Portaria 748/77, Decreto 69/78 art. 1.º: alteram o mapa anexo (imagem) -> não aplicado",
+    "DL 694/74, DL 489/75, Decreto 89/76, Decreto 69/78 arts. 2.º, 3.º, 5.º: mudanças de designação, extinções e criação de quadros sem instrução textual -> não aplicado",
+    "DL 71/73 e DL 143/93: não contêm instruções dirigidas ao texto do original -> nada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

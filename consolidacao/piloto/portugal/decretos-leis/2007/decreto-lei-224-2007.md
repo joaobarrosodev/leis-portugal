@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:287820:por
     title: Decreto-Lei n.º 65/2011
     publication_date: '2011-05-16'
-  - id: pt:dre:287820:por
-    title: Decreto-Lei n.º 65/2011
-    publication_date: '2011-05-16'
 ---
 
 # Decreto-Lei n.º 224/2007

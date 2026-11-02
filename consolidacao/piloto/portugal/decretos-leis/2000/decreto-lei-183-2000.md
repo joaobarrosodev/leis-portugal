@@ -7,12 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:315337:por
-    title: Lei n.º 30-D/2000
-    publication_date: '2000-12-20'
-  - id: pt:dre:306916:por
-    title: Decreto-Lei n.º 320-B/2002
-    publication_date: '2002-12-30'
   - id: pt:dre:424101:por
     title: Decreto-Lei n.º 324/2003
     publication_date: '2003-12-27'
@@ -690,7 +684,7 @@ Até ao dia 30 de Novembro de 2000, as entidades prestadoras de serviços vincul
 
 9 - A lei nova é imediatamente aplicável às causas de adiamentos das audiências.
 
-> Alterado pelo/a [Lei n.º 30-D/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-d-2000-315337) e [Decreto-Lei n.º 320-B/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2002-306916) e [Decreto-Lei n.º 324/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101), publicado em 2003-12-27.
+> Alterado pelo/a [Decreto-Lei n.º 324/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101), publicado em 2003-12-27.
 
 ###### Artigo 8.º — Entrada em vigor
 

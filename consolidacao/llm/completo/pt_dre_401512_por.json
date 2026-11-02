@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:401512:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "1. As remunerações dos profissionais de enfermagem das carreiras hospitalares, de saúde pública e de ensino são as que constam do mapa anexo a este diploma e serão pagas através das verbas de pessoal que, nos termos do artigo 17.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965, lhes sejam atribuídas, ou por outras verbas do Ministério da Saúde e Assistência.\n\n2. Em relação aos mesmos profissionais dos Institutos de Assistência Psiquiátrica, de Assistência aos Leprosos e Nacional de Sangue, e na medida em que não for possível proceder nos termos estabelecidos no n.º 1 deste artigo, as remunerações serão suportadas pelos subsídios inscritos no orçamento ordinário do Ministério da Saúde e Assistência.\n\n3. A remuneração do pessoal de enfermagem que, além dos respectivos cursos de enfermagem geral ou de auxiliares de enfermagem, esteja habilitado com algumas das especialidades legalmente reconhecidas que exijam como habilitação prévia aqueles cursos é acrescida de 20 por cento quando colocado em exercício efectivo dessa especialidade. O disposto neste número não prejudica os profissionais aos quais esteja a ser abonado o acréscimo de remuneração acima referido.\n\n4. As remunerações previstas neste decreto-lei só serão consideradas para efeito de cálculo de pensão de aposentação decorridos três anos de entrada em vigor do mesmo diploma, excepto quanto ao pessoal que, entretanto, for obrigatòriamente aposentado.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1. Os profissionais de enfermagem ficam sujeitos ao regime vigente nos serviços em que trabalham pelo que respeita a faltas, licenças, disciplina, responsabilidade profissional, previdência e abono de família. Pode, no entanto, o Ministro da Saúde e Assistência estabelecer, em portaria, regimes especiais de faltas e licenças, quanto à forma de concessão e verificação e ainda quanto à duração, de modo a adaptá-los às exigências particulares do exercício da enfermagem e à necessidade de garantir a continuidade do serviço.\n\n2 - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º: revoga a nota 1 do mapa anexo (a que se refere o n.º 1 do art. 12.º); o mapa e as notas não são artigo (vêm no fim do bloco do art. 20.º) e não se alteraram. Alterador 2: altera colunas do mapa anexo, que só vem em imagem.",
+  "instrucoes": [
+    "Alt. 1 (DL 49434) art. 1.º: nova redacção do n.º 3 do art. 12.º; aplicado.",
+    "Alt. 1 art. 2.º: revoga a nota 1 do mapa anexo; não aplicado (fora dos artigos).",
+    "Alt. 2 (DL 676/70): altera o mapa anexo (imagem); sem texto.",
+    "Alt. 3 (DL 331/72): altera o art. 97.º do DL 413/71 (alínea o) revoga o DL 48166 com excepções) e o art. 29.º do DL 414/71; instruções dirigidas a outros diplomas, ignoradas.",
+    "Alt. 4 (DL 305/81) art. 20.º, a): revoga o art. 5.º e o n.º 2 do art. 14.º; aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:570108:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "Nova unidade fabril",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Início da actividade da nova unidade fabril",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Garantia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 10.º do DL 19/2003 revoga os n.os 4 a 8 do artigo 6.º do caderno de encargos: a chave '6.º' recebida é ambígua (coincide com o artigo 6.º do decreto-lei, 'Obrigações dos cessionários'), por isso não foi aplicada para não sobrescrever o artigo errado. Nova redação pretendida do 6.º do caderno: n.os 1 a 3 iguais e '4 - (Revogado.)' a '8 - (Revogado.)'.",
+  "instrucoes": [
+    "Art. 10.º: revoga os artigos 26.º, 27.º e 44.º do caderno de encargos -> corpo '(Revogado.)' em cada um",
+    "Art. 10.º: revoga os n.os 4 a 8 do artigo 6.º do caderno -> não aplicado (chave 6.º ambígua com o art. 6.º do decreto-lei); ver nao_aplicavel",
+    "Arts. 1.º a 9.º e 11.º: normas autónomas (novas obrigações, garantia, indisponibilidade, redução do investimento, vigência), sem alteração textual do original -> ignoradas"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

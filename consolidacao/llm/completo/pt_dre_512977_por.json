@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:512977:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Os professores referidos nos artigos 3.º e 4.º são nomeados por um período de dois anos, renovável por mais outro período de dois anos, mediante simples despacho ministerial, sobre proposta fundamentada do director da escola e parecer favorável dos serviços de inspecção. A nomeação considera-se de carácter temporário para os efeitos do disposto no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, e a sua renovação faz-se independentemente de nova nomeação, visto e posse.\n\n§ 1.º Quando o primeiro período de dois anos terminar no decurso de um ano lectivo, considerar-se-á sempre prorrogado até ao fim desse ano lectivo, iniciando-se em 1 de Agosto imediato o período de renovação.\n\n§ 2.º Depois de dois anos de efectivo serviço classificado de Bom pela inspecção, pode a nomeação destes professores tornar-se definitiva, mediante aprovação em concurso de provas escritas e orais sobre as matérias dos programas das respectivas disciplinas.\n\n§ 3.º O júri destes concursos será constituído pelo director-geral do Ensino Primário, ou por um seu delegado, como presidente, e por dois vogais a nomear de entre professores de qualquer ramo e grau de ensino, inspectores do ensino normal primário ou inspectores-orientadores.\n\n§ 4.º Os professores que não requererem admissão ao concurso no primeiro mês do segundo período de dois anos ou não obtiverem aprovação no concurso serão imediatamente exonerados.\n\n§ 5.º O preenchimento de qualquer lugar de cuja vacatura a Direcção-Geral do Ensino Primário publique aviso no Diário do Governo far-se-á, por transferência, mediante concurso documental entre professores providos definitivamente noutras escolas ao abrigo do disposto no § 2.º ou, no caso de não haver concorrentes, nos termos do corpo e do § 1.º deste artigo.",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "Quando o número total de alunos de cada escola obrigue à constituição de mais de quatro turmas, poderá o Ministro da Educação Nacional nomear, a título eventual, um professor por cada turma que funcione além daquelas quatro.\n\n§ 1.º A nomeação far-se-á em comissão, se recair em funcionário público de provimento definitivo, e por contrato anual, renovável, se o nomeado não tiver essa qualidade.\n\n§ 2.º Os professores eventuais terão, durante os dez meses do ano escolar, direito à remuneração que corresponder aos professores efectivos, sem diuturnidades, das disciplinas cuja regência lhes for atribuída no diploma de nomeação ou, por opção, a do lugar a que pertencem.\n\n§ 3.º Quaisquer que sejam as disciplinas a leccionar, o recrutamento dos professores eventuais poderá fazer-se de entre professores do quadro geral do ensino primário, com, pelo menos, 15 valores de diploma de Exame de Estado, e de reconhecida competência na respectiva matéria.\n\n§ 4.º Sempre que as necessidades do ensino imponham a recondução dos professores eventuais em anos consecutivos, esta operar-se-á tàcitamente, enquanto convier ao serviço, e os professores que devam ser reconduzidos serão abonados também, nos meses de Agosto e Setembro, dos vencimentos que lhes competirem.",
+      "alterador": 5
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 7
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "Poderão ser admitidos à frequência das escolas do magistério primário, com dispensa de exame de admissão e com isenção do pagamento de propinas, os regentes escolares que o requeiram até 10 de Setembro, provem ter prestado pelo menos cinco anos de serviço docente qualificado de Suficiente e possuam as habilitações legais exigidas aos candidatos que prestam provas de exame de admissão às referidas escolas.\n\n§ único. Os regentes de postos escolares admitidos nas condições fixadas neste artigo manterão, dentro dos limites estabelecidos no § único do artigo 16.º, as suas gratificações de regência, mas esta regalia não é aplicável ao regente-aluno que no ano lectivo anterior não tiver obtido aprovação.",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "O júri único é constituído pelo director-geral do Ensino Primário, ou um seu delgado, e pelos directores das escolas do magistério do continente, como vogais, e terá delegações em cada escola, constituídas pelo director, por professores de Didáctica e de Psicologia, por inspectores-orientadores, directores de distrito escolar ou professores de ensino primário.\n\n§ único. Os membros do júri terão direito a gratificação nos seguintes termos:\n\na) Cada um dos membros das delegações do júri único, em número de quatro, perceberá 20$00 por cada candidato examinado pela delegação respectiva;\n\nb) Cada um dos membros do júri único, funcionando como júri central, perceberá 4$00 por cada candidato cujas provas sejam por esse mesmo júri apreciadas.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 6 (DL 309-B/75), art. 3.º: diz que os seus artigos 'substituem, para todos os efeitos legais, o estabelecido' nos artigos 18.º, 19.º e 21.º, § único, do original, sem dar nova redação nem revogar expressamente; não é alteração textual, por isso esses artigos ficam como estão.",
+  "instrucoes": [
+    "Alt. 1 (DL 44560), art. 1.º: nova redação do art. 15.º (corpo e § único) - aplicada.",
+    "Alt. 2 (DL 45249), art. 4.º: nova redação do art. 5.º (corpo e §§ 1.º a 5.º) - aplicada; art. 10.º é norma transitória, sem efeito no texto.",
+    "Alt. 3 (DL 45654), art. 1.º: aditado § único ao art. 22.º (corpo '...' mantido) - aplicado.",
+    "Alt. 4 (DL 49406): nova redação do art. 13.º - substituída depois pela do Alt. 5.",
+    "Alt. 5 (DL 437/71), art. 1.º: nova redação do art. 13.º (corpo e §§ 1.º a 4.º) - aplicada; art. 6.º revoga o DL 49406 (não é instrução ao texto do original).",
+    "Alt. 6 (DL 309-B/75), art. 3.º: substituição material dos arts. 18.º, 19.º e 21.º § único - não textual, não aplicada (ver nao_aplicavel).",
+    "Alt. 7 (DL 66/77), art. 2.º, b): revoga o art. 14.º - aplicado como (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

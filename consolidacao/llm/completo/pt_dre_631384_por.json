@@ -1,0 +1,82 @@
+{
+  "id": "pt:dre:631384:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. O regime do presente diploma aplicar-se-á apenas:\n\na) Aos transportes de passageiros efectuados em veículos especialmente adaptados ao deslocamento de pessoas e que comportem, além do lugar do condutor, um mínimo de nove lugares sentados;\n\nb) Aos transportes de mercadorias efectuados em veículos especialmente adaptados ao deslocamento de quaisquer espécies físicas, com exclusão das pessoas, ou mistos e cujo peso máximo autorizado exceda 3500 kg;\n\nc) Aos deslocamentos em vazio dos veículos referidos nas alíneas anteriores que, implicando atravessamento de fronteiras, sejam efectuados com vista à realização de um dos transportes definidos no artigo anterior ou dele resultem.\n\n2. Exceptuam-se do disposto no número anterior as disposições sobre matéria fiscal que se aplicam a todos os veículos de matrícula estrangeira com as características nele indicadas, importados temporariamente para circularem no País, qualquer que seja o motivo dessa deslocação.\n\n3. Aplicar-se-á supletivamente aos transportes referidos no n.º 1 a regulamentação dos transportes internos em tudo o que se harmonize com o disposto no presente diploma e seus regulamentos.",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "1. Os veículos de passageiros pertencentes a transportadores não residentes, matriculados em países em que os transportadores portugueses estejam submetidos ao pagamento de quaisquer encargos de idêntica natureza, ficarão sujeitos a um imposto diário sobre o veículo, no montante previsto na tabela seguinte:\n\nLotação superior a 9 e inferior ou igual a 20 lugares (incluindo o condutor) ... 50$00\n\nLotação superior a 20 e inferior ou igual a 40 lugares (incluindo o condutor) ... 75$00\n\nLotação superior a 40 lugares (incluindo o condutor) ... 100$00\n\n2. A Direcção-Geral de Transportes Terrestres mandará publicar e manterá actualizada a relação dos países cujos transportadores não estão sujeitos ao pagamento do imposto previsto no número anterior.",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "1. Pela exploração de transportes regulares não turísticos de passageiros por transportadores residentes ou não residentes será devido um imposto calculado do seguinte modo:\n\na) Concorrentes:\n\nI = 4,4 x T(p x n)\n\nb) Não concorrentes:\n\nI = 1,52 x T(p x n)\n\nSendo:\n\nI = imposto mensal;\n\nT = tarifa, em escudos, por passageiro-quilómetro;\n\np = percurso, em quilómetros, da viagem simples efectuada em território português;\n\nn = número total de viagens simples por mês.\n\n2. Apenas se consideram viagens simples, para efeitos do número anterior, aquelas em que os veículos sejam utilizados em carga. Quando o número de veículos utilizados em cada viagem for superior a um, considera-se n igual ao número de veículos utilizados.\n\n3. Quando uma mesma linha seja explorada conjuntamente por diversos transportadores, residentes ou não, os impostos poderão ser liquidados globalmente, sendo todas as empresas que participam na exploração solidariamente responsáveis pelo seu pagamento.",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "1. Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:\n\nI = p x 22$50\n\nSendo:\n\nI = imposto diário;\n\np = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas para o múltiplo de cinco mais próximo.\n\n2. No caso de conjuntos de veículos de nacionalidades diferentes, este imposto será liquidado separadamente para o veículo tractor e para o reboque, de acordo com o regime fiscal aplicável aos veículos de cada um dos países, sendo, no entanto, o proprietário do veículo tractor responsável pelo pagamento do imposto relativo ao reboque.",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "Excepcionalmente, o Secretário de Estado dos Transportes e Comunicações poderá conceder reduções ou isenções do imposto estabelecido no artigo anterior quando ocorram fortes razões de interesse público na realização de determinados transportes.",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "1. Os transportadores não residentes, pelos automóveis que utilizem carburantes ou combustíveis normais ou de substituição definidos pelo [Decreto-Lei n.º 32440](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32440-1942-342462), de 24 de Novembro de 1942, não sujeitos aos mesmos impostos que oneram a gasolina, pagarão, por dia de permanência em território português, um imposto de compensação com o montante previsto na tabela seguinte:\n\na) Automóveis de passageiros:\n\nLotação superior a nove e inferior ou igual a vinte lugares ... 60$00\n\nLotação superior a vinte lugares ... 100$00\n\nb) Automóveis de mercadorias ou mistos:\n\nDe 3500 kg a 7000 kg de peso máximo autorizado ... 100$00\n\nSuperior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada até às décimas para o múltiplo de cinco mais próximo, acrescem ... 7$00\n\n2. No caso de veículos articulados e de conjuntos de veículos, o peso a considerar para o cálculo deste imposto compreenderá, além do peso máximo autorizado do veículo tractor, o peso máximo do reboque.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "1. Os transportadores não residentes poderão pagar os impostos previstos nos artigos 17.º e 19.º por períodos de três meses, caso em que as respectivas importâncias serão as seguintes:\n\nI) Imposto sobre o veículo (artigo 17.º):\n\nI = 562$50 x p\n\nSendo p = peso máximo autorizado do veículo, em toneladas, arredondado até às décimas para o múltiplo de cinco mais próximo.\n\nII) Imposto de compensação (artigo 19.º):\n\na) Veículos de passageiros:\n\nLotação superior a 9 e inferior ou igual a 20 lugares (incluindo o condutor) ... 1495$00\n\nLotação superior a 20 lugares (incluindo o condutor) ... 2460$00\n\nb) Veículos de mercadorias mistos:\n\nDe 3500 kg a 7000 kg de peso máximo autorizado ... 2460$00\n\nSuperior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada até às décimas para o múltiplo de cinco mais próximo, acrescem ... 165$00\n\n2. No caso de opção pela modalidade de cobrança indicada no número anterior, o pagamento será efectuado no momento de entrada do veículo em território português pela importância total correspondente a um período de três meses.\n\n3. Poderão os interessados, antes de terminado o trimestre respectivo, renovar o pagamento relativo ao trimestre seguinte em qualquer delegação aduaneira.\n\n4. Quando um veículo pertencente a um transportador não residente exceder, no momento da saída, o limite do período de cobrança, o pagamento dos impostos relativos aos dias em excesso será efectuado com base nas taxas diárias estabelecidas neste diploma.",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "1. Os transportadores não residentes são isentos do pagamento dos impostos previstos nos artigos 15.º, 17.º e 19.º, nos seguintes casos:\n\na) Pelo período, além de dois dias completos, em que os veículos estejam ininterruptamente imobilizados para efeitos de desembaraço aduaneiro;\n\nb) Pelo período em que os veículos tiverem os seus documentos depositados à ordem da autoridade policial competente, nos casos previstos no número seguinte, desde que esse depósito tenha durado por um período ininterrupto superior a três dias completos;\n\nc) Pelo período em que o veículo esteja apreendido.\n\n2. Será admitido o depósito de documentos à ordem da autoridade policial competente, para efeitos do disposto na alínea b) do número anterior, nos seguintes casos:\n\na) Em caso de avaria ou acidente;\n\nb) Quando os veículos, pela própria finalidade da sua circulação no País, devam ficar imobilizados por largos períodos, designadamente no caso de se destinarem a exposições, feiras, espectáculos, demonstrações ou manifestações semelhantes;\n\nc) Em outros casos, mediante autorização da Direcção-Geral de Transportes Terrestres.\n\n3. Para beneficiarem do disposto no n.º 1 deste artigo deverão os interessados apresentar documentos comprovativos das circunstâncias justificativas da isenção.\n\n4. Com vista ao estabelecimento de igualdade, sob o ponto de vista fiscal, nas condições de concorrência entre transportadores residentes e não residentes, poderá prever-se, em acordos bilaterais, a redução ou isenção dos impostos estabelecidos nos artigos 15.º e 17.º deste diploma.\n\n5. A eventual concessão de reduções de impostos ao abrigo do disposto no número anterior não abrangerá os casos em que os interessados optem pelo seu pagamento nos termos do disposto no artigo 20.º",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "1. O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.\n\n2. Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 330/72): nova redação da alínea a) do n.º 1 do art. 2.º, do art. 15.º e da alínea a) do n.º 1 do art. 19.º; aplicadas (art. 15.º depois substituído pelo alt. 2).",
+    "Alt. 2 (DL 136/75), art. 1.º: nova redação dos arts. 2.º (b) nova, novo n.º 2, antigo n.º 2 passa a n.º 3 com nova redação; a) e c) mantidas), 14.º, 15.º, 16.º, 17.º, 18.º, 19.º (só a alínea b) do n.º 1; resto mantido), 20.º, 21.º e 23.º; aplicadas.",
+    "Alt. 2, art. 2.º: revoga o art. 7.º; corpo '(Revogado.)'.",
+    "Alt. 3 (DL 116/94), art. 5.º, d): revoga o art. 14.º; corpo '(Revogado.)'. O resto do DL 116/94 (Regulamento e outras revogações) não se dirige ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

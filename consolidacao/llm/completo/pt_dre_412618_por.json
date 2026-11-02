@@ -1,0 +1,59 @@
+{
+  "id": "pt:dre:412618:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), sem prejuízo do disposto nas alíneas seguintes:\n\na) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) de entre diplomados com curso superior adequado e de reconhecida competência ou de entre inspectores-gerais da Junta Nacional da Educação;\n\nb) Os lugares de inspector superior, de inspector-chefe e de inspector-orientador de 1.ª classe serão providos de entre funcionários de categoria imediatamente inferior ou de entre diplomados com curso superior adequado de reconhecida competência;\n\nc) Os lugares de director de serviços e de adjunto do director-geral serão providos por escolha do Ministro da Educação Nacional de entre diplomados com curso superior adequado;\n\nd) O lugar de documentalista de 1.ª classe será provido de entre diplomados com curso superior e habilitados com o curso de bibliotecário-arquivista ou com o estágio de preparação técnica de bibliotecários, arquivistas e documentalistas.\n\n2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.\n\n3. O provimento nos lugares referidos nas alíneas b) e c) do n.º 1 deste artigo poderá ainda recair, quando tal se mostre mais conveniente, em pessoas de reconhecida competência e de mérito revelados pela sua obra científica, literária ou artística.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2, artigo 29.º, n.º 2: determina que as referências à Direcção-Geral dos Assuntos Culturais nos artigos 11.º, 13.º e 17.º se consideram feitas a outras entidades; é uma regra de remissão, não uma alteração textual, por isso não foi aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, artigo único: aditado o n.º 3 ao artigo 17.º; aplicado.",
+    "Alterador 2, artigo 29.º, n.º 2: remissão de referências (não textual); não aplicada, ver nao_aplicavel.",
+    "Alterador 2, artigo 29.º, n.º 3: nova redação das alíneas f) e g) do n.º 1 do artigo 13.º; superada pela revogação do artigo 13.º pelo alterador 3.",
+    "Alterador 2, restantes artigos (22.º, 33.º, 38.º, etc.): não alteram o texto do original ou visam outro diploma; ignorados.",
+    "Alterador 3, artigo 14.º: revogados os artigos 10.º a 15.º; um elemento '(Revogado.)' por artigo. A revogação da Portaria n.º 332/74 não é do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

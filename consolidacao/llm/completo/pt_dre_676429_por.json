@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:676429:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Candidatos",
+      "texto": "1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:\n\na) Serem titulares de habilitação profissional ou própria;\n\nb) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;\n\nc) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;\n\nd) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.\n\n2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Ordenação dos candidatos",
+      "texto": "1 - Os candidatos são ordenados de acordo com as seguintes prioridades:\n\na) Professores profissionalizados já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nb) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;\n\nc) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitação profissional;\n\nd) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitações próprias.\n\n2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos são ordenados nos termos previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho.\n\n3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.\n\n4 - Os candidatos incluídos na alíneas c) e d) do n.º 1 podem concorrer, no máximo, a dois grupos de docência.",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Vínculo e remuneração",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Afectação",
+      "texto": "1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados entre a quinta e a sexta prioridades definidas no artigo 42.º daquele diploma.\n\n2 - Para efeitos do número anterior, os professores nele referidos indicam as suas preferências, através do preenchimento de um boletim a editar pela Imprensa Nacional-Casa da Moeda, ordenando até 100 escolas da área do CAE a cujos quadros de zona pedagógica se acham vinculados e todos os municípios daquela área.\n\n3 - Quando a candidatura não esgote as escolas existentes nos municípios que integram o CAE, considera-se que o candidato manifesta igual preferência por todas as restantes.\n\n4 - Não sendo possível proceder à afectação nas vagas referidas no n.º 1, será posteriormente afectado nas vagas que forem surgindo, com observância das preferências por ele indicadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (DL 20/2006), art. 70.º, n.º 2, alínea b): diz apenas que se mantêm em vigor os artigos 1.º e 14.º do original; não é uma instrução textual sobre o original (a revogação dos restantes artigos não consta do texto recebido), pelo que não se aplicou nada.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 5.º (depois substituída pelo alterador 2), das alíneas c) e d) do n.º 1 do art. 6.º e do n.º 1 do art. 15.º; aplicado, mantendo o resto do texto atual.",
+    "Alterador 2, art. 1.º: nova redação do art. 5.º (n.º 1 com alíneas b) e c) novas, a) e d) da redação de 1996, e n.º 2 novo) e aditamento do n.º 3 ao art. 14.º; art. 5.º aplicado; o n.º 3 do art. 14.º fica sem efeito porque o artigo é revogado pelo alterador 4.",
+    "Alterador 2, arts. 2.º e 3.º: alteram o DL 287/88 ou são normas próprias; ignorados.",
+    "Alterador 3, art. 70.º, n.º 2, b): manutenção em vigor dos arts. 1.º e 14.º; não textual, nada aplicado (ver nao_aplicavel).",
+    "Alterador 4, art. 25.º, d): revoga o art. 14.º; art. 14.º fica (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

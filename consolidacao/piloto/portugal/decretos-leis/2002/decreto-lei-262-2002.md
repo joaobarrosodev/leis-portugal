@@ -120,7 +120,7 @@ j) Apoio social.
 
 6 - O Gabinete de Auditoria Interna e o Centro de Formação são dirigidos por directores de serviços.»
 
-2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do Decreto-Lei n.º 366/99, de 18 de Setembro, são repristinados os artigos 17.º, 18.º, 25.º e 26.º do Decreto-Lei n.º 408/93, de 14 de Dezembro, revogados pelo n.º 1 do artigo 28.º do Decreto-Lei n.º 366/99.
+2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, são repristinados os artigos 17.º, 18.º, 25.º e 26.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, revogados pelo n.º 1 do artigo 28.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887).
 
 > Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 

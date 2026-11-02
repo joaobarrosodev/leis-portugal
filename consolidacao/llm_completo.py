@@ -33,7 +33,7 @@ import re
 from dataclasses import asdict
 from pathlib import Path
 
-from aplicar import Registo
+from aplicar import _NOMES, Registo
 from cegas import VERIFICACAO, _texto_alterador
 from consolidar import PILOTO, _markdown, processar
 from juntar import METODO, _aplicar_resposta
@@ -69,6 +69,10 @@ Regras:
   artigo novo leva a chave que a instrução lhe dá), a epígrafe, o corpo inteiro do artigo
   (parágrafos separados por uma linha em branco, sem o título "Artigo N.º") e "alterador", o
   número (1, 2, …) do diploma que altera de que vem a mudança.
+- Um artigo que a instrução elimina por completo (por exemplo, "é eliminado o artigo 12.º" e os
+  seguintes são renumerados) ou que deixa de existir com a chave que tinha depois de uma
+  renumeração (o antigo 14.º que passou a 13.º) vai em "removidos", a lista das chaves, e não em
+  "artigos". Um artigo apenas revogado ("(Revogado.)") continua em "artigos".
 - Se uma instrução não se puder aplicar com segurança (alvo ambíguo, texto que não existe no
   texto atual, anexo ou quadro que só vem em imagem, alteração que não é textual), não a
   inventes: diz em "nao_aplicavel" qual é e porquê. Se tudo ficou aplicado, "nao_aplicavel" é null.
@@ -79,6 +83,13 @@ SISTEMA_RESPOSTA = ESQUEMA | {
         "artigos": {"type": "array", "items": {"type": "object", "required": ["chave", "epigrafe", "texto", "alterador"]}},
     }
 }
+
+FORMATO = """
+## Formato da resposta
+Escreve (com a ferramenta Write) um ficheiro JSON com uma lista, um objeto por diploma do pedido (todos), assim:
+`{"id": "<id>", "artigos": [{"chave": "...", "epigrafe": "...", "texto": "...", "alterador": 1}], "removidos": ["chave", ...], "nao_aplicavel": null ou "texto", "instrucoes": ["resumo curto de cada instrução do original e o que fizeste"]}`
+Só usas o pedido; não leias mais nada. O "texto" de cada artigo é o corpo inteiro (sem o título "Artigo N.º"), parágrafos separados por uma linha em branco, copiado letra a letra do alterador ou do texto atual. "removidos" é [] quando nenhum artigo desaparece. Confirma no fim que o JSON é válido e que respondeste a todos os "<<<DIPLOMA id=...>>>".
+"""
 
 _NUMERACAO = re.compile(r"^(?:\d+[-–.\s]*|[a-z]\))\s*")
 _NOTA = re.compile(r"^> (?:Alterado|Aditado|Revogado|Retificado) pelo/a .*$", re.M)
@@ -149,6 +160,36 @@ def _falhados() -> list[str]:
     return falhados
 
 
+def _aprovados() -> set[str]:
+    """Os diplomas que passaram a verificação às cegas em alguma ronda (6 em diante)."""
+    bons: set[str] = set()
+    for f in sorted(VERIFICACAO.glob("saida-piloto-*-lote-*.jsonl")):
+        artigos: dict[str, list[str]] = {}
+        for linha in f.read_text(encoding="utf-8").splitlines():
+            d = json.loads(linha)
+            if "veredicto" in d:
+                artigos.setdefault(d["id"], []).append(d["veredicto"])
+            elif (all(v == "certo" for v in artigos.get(d["id"], [])) and not d["instrucoes_em_falta"] and not d["artigos_em_falta"]
+                  and not d["artigos_a_mais"] and str(d["fora_dos_artigos"]).lower().startswith("sem alter")):
+                bons.add(d["id"])
+    return bons
+
+
+def pendentes_do_pedido(max_chars: int) -> list[str]:
+    """Os diplomas de `pendentes-escala.jsonl` com artigos identificados que ainda não passaram às
+    cegas nem foram ao pedido completo e cujo pedido cabe em `max_chars`, por ordem de citações."""
+    selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+    estados = {r["id"]: r for r in map(json.loads, (PASTA / "resultados-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+    feitos = {f.stem.replace("_", ":") for f in COMPLETO.glob("pt_*.json")} if COMPLETO.exists() else set()
+    bons = _aprovados()
+    vistos = {json.loads(l)["id"] for f in VERIFICACAO.glob("saida-piloto-*-lote-*.jsonl") for l in f.read_text(encoding="utf-8").splitlines()}
+    ids = [r["id"] for r in map(json.loads, (PASTA / "pendentes-escala.jsonl").read_text(encoding="utf-8").splitlines())]
+    candidatos = [i for i in ids if i not in bons and i not in feitos and not str(estados[i].get("motivo") or "").startswith("original sem artigos")]
+    # primeiro os recusados às cegas, depois os outros
+    candidatos.sort(key=lambda i: (i not in vistos, -selecao[i].get("citacoes", 0), i))
+    return candidatos
+
+
 def amostra(n: int, semente: int, max_chars: int) -> list[str]:
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
     ids = sorted(set(_falhados()))
@@ -178,7 +219,7 @@ def pedidos(ids: list[str], por_ficheiro: int, pasta: Path) -> None:
             texto, _ = pedido(selecao[i], _estado(selecao[i]))
             blocos.append(f"<<<DIPLOMA id={i}>>>\n{texto}\n<<<FIM DO DIPLOMA id={i}>>>")
         destino.write_text("\n\n".join(blocos), encoding="utf-8")
-    (pasta / "REGRAS.md").write_text(SISTEMA, encoding="utf-8")
+    (pasta / "REGRAS.md").write_text(SISTEMA + FORMATO, encoding="utf-8")
     print(f"{len(ids)} diplomas em {(len(ids) + por_ficheiro - 1) // por_ficheiro} pedidos em {pasta}")
 
 
@@ -225,6 +266,16 @@ def _junto(resposta: dict, registo: dict) -> dict:
         if erro:
             return linha | {"estado": "não junto", "motivo": erro}
         registos_llm += feitos
+    for chave in resposta.get("removidos") or []:
+        parte, _, numero = chave.rpartition("::")
+        artigo = consolidado.artigo(parte, numero)
+        if artigo is None:
+            return linha | {"estado": "não junto", "motivo": f"artigo a remover {chave} não existe"}
+        consolidado.segmentos.remove(artigo)
+        registos_llm.append(Registo(artigo.chave, "revogar", "llm", "\n".join(artigo.linhas).strip(), "", "", "", metodo="llm"))
+    _recolocar_assinaturas(consolidado)
+    if resposta.get("removidos") and not citados:
+        citados.update({a["id"]: a for a in alteradores})
     if not registos_llm:
         return linha | {"estado": "não junto", "motivo": "a resposta não muda nenhum artigo em relação ao texto das regras"}
 
@@ -246,6 +297,33 @@ def _junto(resposta: dict, registo: dict) -> dict:
     return linha
 
 
+def _recolocar_assinaturas(consolidado) -> None:
+    """As fórmulas finais ("Visto e aprovado…", assinaturas) ficam no último artigo da parte: se
+    um artigo aditado depois do último as deixou a meio, passam para o fim."""
+    from leis_portugal.domain.articles import _signature
+
+    por_parte: dict[str, list] = {}
+    for a in consolidado.artigos:
+        por_parte.setdefault(a.parte, []).append(a)
+    for artigos in por_parte.values():
+        ultimo = artigos[-1]
+        for a in artigos[:-1]:
+            cheias = [i for i in range(1, len(a.linhas)) if a.linhas[i].strip()]
+            inicio = next((i for i in cheias if _signature(a.linhas[i].strip())), None)
+            if inicio is None:
+                continue
+            antes = [i for i in cheias if i < inicio]
+            if antes and _NOMES.match(a.linhas[antes[-1]].strip()):
+                inicio = antes[-1]
+            formulas = a.linhas[inicio:]
+            a.linhas = a.linhas[:inicio]
+            if a.linhas and a.linhas[-1].strip():
+                a.linhas.append("")
+            if ultimo.linhas and ultimo.linhas[-1].strip():
+                ultimo.linhas.append("")
+            ultimo.linhas += formulas
+
+
 def _muda(consolidado, novo: dict) -> bool:
     """O artigo da resposta difere do texto atual (um artigo igual não se reescreve)."""
     parte, _, numero = novo["chave"].rpartition("::")
@@ -264,7 +342,7 @@ def juntar() -> None:
         resposta = json.loads(f.read_text(encoding="utf-8"))
         if resposta["problemas"]:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
-        elif not resposta["artigos"]:
+        elif not resposta["artigos"] and not resposta.get("removidos"):
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não tem artigos: " + str(resposta.get("nao_aplicavel"))[:200]})
         else:
             linhas.append(_junto(resposta, selecao[resposta["id"]]))
@@ -284,6 +362,10 @@ def main() -> int:
     a.add_argument("--semente", type=int, default=1)
     a.add_argument("--max-chars", type=int, default=150_000)
     a.add_argument("--saida", type=Path)
+    q = sub.add_parser("proximos")
+    q.add_argument("n", type=int)
+    q.add_argument("--max-chars", type=int, default=150_000)
+    q.add_argument("--saida", type=Path, required=True)
     p = sub.add_parser("pedidos")
     p.add_argument("ids", type=Path)
     p.add_argument("pasta", type=Path)
@@ -296,6 +378,22 @@ def main() -> int:
         ids = amostra(args.n, args.semente, args.max_chars)
         if args.saida:
             args.saida.write_text("\n".join(ids) + "\n", encoding="utf-8")
+    elif args.comando == "proximos":
+        selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
+        escolhidos, grandes, restantes = [], 0, 0
+        for i in pendentes_do_pedido(args.max_chars):
+            if len(escolhidos) >= args.n:
+                restantes += 1
+                continue
+            extra = _estado(selecao[i])
+            if extra.get("consolidado") is None or not extra["consolidado"].artigos:
+                continue
+            if pedido(selecao[i], extra)[1] > args.max_chars:
+                grandes += 1
+                continue
+            escolhidos.append(i)
+        args.saida.write_text("\n".join(escolhidos) + "\n", encoding="utf-8")
+        print(f"{len(escolhidos)} escolhidos; {grandes} saltados por tamanho (> {args.max_chars}); ainda por ver (depois destes): {restantes}")
     elif args.comando == "pedidos":
         pedidos(args.ids.read_text(encoding="utf-8").split(), args.por_ficheiro, args.pasta)
     elif args.comando == "importar":

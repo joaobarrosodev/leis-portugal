@@ -47,7 +47,9 @@ def blocos(texto: str) -> list[tuple[str, str]]:
         bloco = texto[a:b].strip()
         if not bloco:
             continue
-        chave = bloco.splitlines()[0].lstrip("#").strip() if _TITULO.match(bloco) else "(preâmbulo)"
+        # A chave é o título sem a epígrafe ("Artigo 12.º — Epígrafe"): uma epígrafe nova não faz
+        # do artigo outro artigo.
+        chave = bloco.splitlines()[0].lstrip("#").strip().split(" — ")[0].strip() if _TITULO.match(bloco) else "(preâmbulo)"
         vistos[chave] = vistos.get(chave, 0) + 1
         resultado.append((chave if vistos[chave] == 1 else f"{chave} #{vistos[chave]}", bloco))
     return resultado

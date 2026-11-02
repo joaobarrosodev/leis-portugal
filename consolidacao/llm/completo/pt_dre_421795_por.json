@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:421795:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "Contratos de pessoal",
+      "texto": "1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Quando se trate de pessoal carenciado na Região e de difícil recrutamento.\n\n2 - ...\n\na) Existência prévia de descongelamento, nos termos do artigo 12.º;\n\nb) Redução a escrito e visto da Secção Regional do Tribunal de Contas.\n\n3 - Os diplomas de descongelamento estabelecerão quais as carreiras e ou categorias de pessoal que se encontrem nas condições previstas na alínea e) do n.º 1.\n\n4 - Os contratos referidos na alínea e) do n.º 1 não poderão manter-se por período superior a um ano, sendo vedada a celebração de novo contrato pelo mesmo serviço e para a mesma categoria sem que tenham decorridos pelo menos seis meses após o termo do último contrato, salvo nos casos em que o agente foi admitido a concurso, situação em que o contrato poderá ser mantido até à caducidade do prazo do respectivo concurso.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Estrutura do projecto",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 2 (DLR 1/2005/A), art. 36.º, b): revoga 'os artigos 2.º a 4.º' do DLR 5/87/A, mas o texto atual tem duas unidades com cada uma das chaves 2.º, 3.º e 4.º (as do DL 41/84 adaptadas no art. 1.º: Fundamentação e apreciação, Auditoria de gestão, Extinção ou fusão de serviços; e as do próprio decreto: Contratos de trabalho, Destacamentos e requisições anteriores, Entrada em vigor do sistema de descongelamento de admissões). Alvo ambíguo (a leitura provável são as adaptadas, por a matéria ser a organização de serviços e por o 10.º revogado ser também o adaptado), não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação da alínea a) do n.º 1 do artigo 14.º do DL 41/84 como adaptado pelo original; o texto adaptado só existe no original (artigo 14.º, Contratos de pessoal), aplicada.",
+    "Alterador 1, n.º 2: adita n.º 4 ao artigo 2.º (Contratos de trabalho); não aplicado porque o alterador 2, art. 36.º, c), revoga esse n.º 2 do artigo único do DLR 21/88/A, ficando sem efeito no texto (e a chave 2.º é ambígua).",
+    "Alterador 2, art. 36.º, b): revoga o artigo 10.º (Estrutura do projecto, único com essa chave) -> (Revogado.); a revogação dos artigos 2.º a 4.º fica em nao_aplicavel por chaves duplicadas.",
+    "Alterador 2, art. 36.º, a), c) e d): dirigem-se a outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

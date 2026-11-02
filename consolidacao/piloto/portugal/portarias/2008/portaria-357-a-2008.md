@@ -7,27 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:315340:por
-    title: Portaria n.º 496-A/2008
-    publication_date: '2008-06-23'
-  - id: pt:dre:198293:por
-    title: Portaria n.º 1229-A/2008
-    publication_date: '2008-10-27'
-  - id: pt:dre:494776:por
-    title: Portaria n.º 666/2009
-    publication_date: '2009-06-18'
-  - id: pt:dre:491192:por
-    title: Portaria n.º 1162/2009
-    publication_date: '2009-10-02'
-  - id: pt:dre:343948:por
-    title: Portaria n.º 814/2010
-    publication_date: '2010-08-27'
   - id: pt:dre:287108:por
     title: Portaria n.º 184/2011
     publication_date: '2011-05-05'
-  - id: pt:dre:498497:por
-    title: Portaria n.º 253/2013
-    publication_date: '2013-08-07'
+  - id: pt:dre:343948:por
+    title: Portaria n.º 814/2010
+    publication_date: '2010-08-27'
 ---
 
 # Portaria n.º 357-A/2008
@@ -84,17 +69,19 @@ a) Prémio à instalação;
 
 b) Apoio aos investimentos realizados na exploração, incluindo pequenos investimentos de transformação e comercialização de produtos agrícolas provenientes da própria exploração.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 2.º — Objectivos
 
-O apoio previsto no presente Regulamento, designado «prémio à primeira instalação», prossegue os seguintes objectivos:
+O apoio previsto no presente Regulamento prossegue os seguintes objectivos:
 
 a) Fomentar a renovação e o rejuvenescimento das empresas agrícolas;
 
-b) Promover o processo de instalação de jovens agricultores;
+b) Promover o processo de instalação de jovens agricultores e o desenvolvimento e adaptação das suas explorações agrícolas;
 
 c) Contribuir para uma adequada formação e qualificação profissional dos jovens agricultores.
+
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 3.º — Definições
 
@@ -104,21 +91,21 @@ b) «Exploração agrícola», o conjunto de unidades de produção submetidas a
 
 c) «Jovem agricultor», o agricultor que, à data da apresentação do pedido, tem mais de 18 e menos de 40 anos de idade.
 
-d) 'Primeira instalação', a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio a esta acção, nos casos em que este pedido venha a ser aprovado.
+d) «Primeira instalação», a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio a esta acção, nos casos em que este pedido venha a ser aprovado.
 
-e) 'Titular de uma exploração agrícola', o gestor do aparelho produtivo e detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas.
+e) «Titular de uma exploração agrícola», o gestor do aparelho produtivo e detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas.
 
 f) «Unidade de produção», o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.
 
-g) 'Produtos agrícolas', os produtos abrangidos pelo anexo i do Tratado de Amesterdão, com excepção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º 104/2000, do Conselho, de 17 de Dezembro de 1999.
+g) «Produtos agrícolas», os produtos abrangidos pelo anexo i do Tratado de Amesterdão, com excepção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999.
 
-h) 'Termo da operação', o ano de conclusão da operação, determinado no contrato de financiamento.
+h) «Termo da operação», o ano de conclusão da operação, determinado no contrato de financiamento.
 
-i) 'Valor do investimento do plano empresarial (VIPE)', o valor considerado para efeito do cálculo do prémio à instalação.
+i) «Valor do investimento do plano empresarial (VIPE)», o valor considerado para efeito do cálculo do prémio à instalação.
 
-j) 'Valor do investimento elegível', o valor considerado para efeito do cálculo do apoio ao investimento.
+j) «Valor do investimento elegível», o valor considerado para efeito do cálculo do apoio ao investimento.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 4.º — Beneficiários
 
@@ -128,7 +115,7 @@ a) Os jovens agricultores que se instalem pela primeira vez numa exploração ag
 
 b) As pessoas colectivas que revistam a forma de sociedade por quotas com a actividade agrícola como objecto social, desde que os sócios gerentes que sejam detentores da maioria do capital social tenham mais de 18 e menos de 40 anos à data de apresentação do pedido, e se instalem pela primeira vez como tal.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 5.º — Critérios de elegibilidade dos beneficiários
 
@@ -160,7 +147,7 @@ d) Descrição detalhada dos investimentos, designadamente os necessários para 
 
 3 - Os candidatos devem ainda apresentar um plano de formação, com a identificação da formação necessária para adquirir a aptidão e competência profissional adequada quando, à data da apresentação do pedido de apoio, não a possuírem, bem como da formação complementar de interesse relevante para o exercício das actividades da exploração agrícola.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 6.º — Critérios de elegibilidade das operações
 
@@ -168,7 +155,7 @@ d) Descrição detalhada dos investimentos, designadamente os necessários para 
 
 a) Cujo valor elegível do investimento, apurado na análise da respectiva candidatura, seja igual ou superior a (euro) 5000;
 
-b) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas ('OCM única') e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
+b) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas («OCM única») e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
 
 c) Cujo investimento não seja incompatível com compromissos ou obrigações a que as parcelas, objecto do investimento, estejam sujeitas;
 
@@ -180,7 +167,7 @@ f) Cumpram as disposições legais aplicáveis aos investimentos propostos, desi
 
 2 - São elegíveis as despesas de investimento realizadas após a apresentação do pedido de apoio, excepto as despesas referidas nos n.os 7 e 10 do anexo ii, desde que realizadas até três meses antes da apresentação do pedido de apoio.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 7.º — Obrigações dos beneficiários
 
@@ -212,15 +199,15 @@ m) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de cel
 
 2 - Os beneficiários dos apoios devem possuir o registo da exploração no Sistema de Identificação Parcelar (SIP).
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 8.º — Forma, nível e limites do apoio
 
 1 - O apoio previsto no presente Regulamento é atribuído sob a forma de subsídio não reembolsável.
 
-2 - Os níveis e limites do apoio são fixados no aviso de abertura ou anúncio, não podendo ultrapassar os níveis máximos estabelecidos no Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+2 - Os níveis e limites do apoio são fixados no aviso de abertura ou anúncio, não podendo ultrapassar os níveis máximos estabelecidos no Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ### CAPÍTULO II — Procedimento
 
@@ -230,7 +217,7 @@ m) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de cel
 
 2 - Para a determinação do valor do investimento do plano empresarial (VIPE), as despesas elegíveis são, designadamente, as constantes dos anexos ii e iii.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 10.º — Critérios de selecção dos pedidos de apoio
 
@@ -238,7 +225,7 @@ m) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de cel
 
 2 - A alteração dos critérios de selecção referidos no n.º 1, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 11.º — Apresentação dos pedidos de apoio
 
@@ -246,7 +233,7 @@ m) Se aplicável, adquirir, no prazo máximo de 24 meses a contar da data de cel
 
 2 - A apresentação dos pedidos efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 12.º — Avisos de abertura e anúncios
 
@@ -268,7 +255,7 @@ g) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 2 - Os avisos de abertura ou os anúncios dos períodos de apresentação são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 13.º — Análise e decisão dos pedidos de apoio
 
@@ -282,13 +269,13 @@ g) Os critérios de selecção e respectivos factores e fórmulas, em função d
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer previsto no n.º 3.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 14.º — Readmissão de pedidos de apoio
 
 Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 15.º — Contrato de financiamento
 
@@ -296,7 +283,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
 
-> Alterado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ### CAPÍTULO III — Disposição transitória
 
@@ -304,7 +291,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 17.º — Execução das operações
 
@@ -312,7 +299,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no n.º 1.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 18.º — Apresentação dos pedidos de pagamento
 
@@ -332,7 +319,7 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 8 - Nas operações sujeitas a licenciamento, o último pagamento do apoio só pode ser efectuado quando o beneficiário demonstrar ser detentor de alvará de licença de utilização actualizado, nos termos da legislação aplicável.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 19.º — Análise dos pedidos de pagamento
 
@@ -342,39 +329,39 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 20.º — Pagamentos
 
 Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea i) do n.º 1 do artigo 7.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 21.º — Controlo
 
-1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 22.º — Reduções e exclusões
 
-1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
+1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 2 - Em caso de incumprimento do plano empresarial, o prémio à instalação pode ser recuperado, de forma proporcional ao grau de incumprimento detectado, quando este seja superior a 5 %.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ###### Artigo 23.º — Disposição transitória
 
 Nos pedidos de apoio apresentados até 31 de Agosto de 2011, são elegíveis as despesas das operações anteriores à respectiva apresentação, desde que efectuadas a partir de 1 de Julho de 2010.
 
-> Aditado pelo/a [Portaria n.º 496-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/496-a-2008-315340) e [Portaria n.º 1229-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293) e [Portaria n.º 666/2009](https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776) e [Portaria n.º 1162/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2009-491192) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Aditado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
 ## ANEXO I — Requisitos mínimos de aptidão e competência profissional adequada
 

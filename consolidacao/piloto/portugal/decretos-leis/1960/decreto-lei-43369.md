@@ -7,18 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:159703:por
-    title: Decreto-Lei n.º 44560
-    publication_date: '1962-09-08'
-  - id: pt:dre:471774:por
-    title: Decreto-Lei n.º 45654
-    publication_date: '1964-04-11'
+  - id: pt:dre:686233:por
+    title: Decreto-Lei n.º 45249
+    publication_date: '1963-09-16'
   - id: pt:dre:633317:por
     title: Decreto-Lei n.º 437/71
     publication_date: '1971-10-21'
   - id: pt:dre:141648:por
     title: Decreto-Lei n.º 66/77
     publication_date: '1977-02-24'
+  - id: pt:dre:159703:por
+    title: Decreto-Lei n.º 44560
+    publication_date: '1962-09-08'
+  - id: pt:dre:471774:por
+    title: Decreto-Lei n.º 45654
+    publication_date: '1964-04-11'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -71,9 +74,19 @@ As matérias de Didáctica Especial serão ministradas por dois professores: um 
 
 ###### Artigo 5.º
 
-Os professores referidos nos artigos 3.º e 4.º poderão ser nomeados definitivamente, depois de dois anos de bom e efectivo serviço, precedendo concurso de provas escritas e orais sobre as matérias do programa das respectivas disciplinas.
+Os professores referidos nos artigos 3.º e 4.º são nomeados por um período de dois anos, renovável por mais outro período de dois anos, mediante simples despacho ministerial, sobre proposta fundamentada do director da escola e parecer favorável dos serviços de inspecção. A nomeação considera-se de carácter temporário para os efeitos do disposto no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, e a sua renovação faz-se independentemente de nova nomeação, visto e posse.
 
-§ único. O júri destes concursos será constituído pelo director-geral do Ensino Primário, como presidente, e por dois vogais, a nomear pelo Ministro da Educação Nacional, de entre os inspectores-orientadores e professores de qualquer grau de ensino.
+§ 1.º Quando o primeiro período de dois anos terminar no decurso de um ano lectivo, considerar-se-á sempre prorrogado até ao fim desse ano lectivo, iniciando-se em 1 de Agosto imediato o período de renovação.
+
+§ 2.º Depois de dois anos de efectivo serviço classificado de Bom pela inspecção, pode a nomeação destes professores tornar-se definitiva, mediante aprovação em concurso de provas escritas e orais sobre as matérias dos programas das respectivas disciplinas.
+
+§ 3.º O júri destes concursos será constituído pelo director-geral do Ensino Primário, ou por um seu delegado, como presidente, e por dois vogais a nomear de entre professores de qualquer ramo e grau de ensino, inspectores do ensino normal primário ou inspectores-orientadores.
+
+§ 4.º Os professores que não requererem admissão ao concurso no primeiro mês do segundo período de dois anos ou não obtiverem aprovação no concurso serão imediatamente exonerados.
+
+§ 5.º O preenchimento de qualquer lugar de cuja vacatura a Direcção-Geral do Ensino Primário publique aviso no Diário do Governo far-se-á, por transferência, mediante concurso documental entre professores providos definitivamente noutras escolas ao abrigo do disposto no § 2.º ou, no caso de não haver concorrentes, nos termos do corpo e do § 1.º deste artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 45249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45249-1963-686233), publicado em 1963-09-16.
 
 ###### Artigo 6.º
 
@@ -121,19 +134,31 @@ A admissão à frequência das escolas do magistério primário será feita medi
 
 ###### Artigo 13.º
 
-Quando o número de alunos admitidos em cada ano, nos termos no artigo anterior, o justifique, poderá o Ministro da Educação Nacional nomear, eventualmente, mais dois professores: um para a regência das disciplinas de Psicologia Aplicada à Educação e de Organização Política e Administrativa da Nação e outro para as de Didáctica Especial e de Legislação e Administração Escolares.
+Quando o número total de alunos de cada escola obrigue à constituição de mais de quatro turmas, poderá o Ministro da Educação Nacional nomear, a título eventual, um professor por cada turma que funcione além daquelas quatro.
+
+§ 1.º A nomeação far-se-á em comissão, se recair em funcionário público de provimento definitivo, e por contrato anual, renovável, se o nomeado não tiver essa qualidade.
+
+§ 2.º Os professores eventuais terão, durante os dez meses do ano escolar, direito à remuneração que corresponder aos professores efectivos, sem diuturnidades, das disciplinas cuja regência lhes for atribuída no diploma de nomeação ou, por opção, a do lugar a que pertencem.
+
+§ 3.º Quaisquer que sejam as disciplinas a leccionar, o recrutamento dos professores eventuais poderá fazer-se de entre professores do quadro geral do ensino primário, com, pelo menos, 15 valores de diploma de Exame de Estado, e de reconhecida competência na respectiva matéria.
+
+§ 4.º Sempre que as necessidades do ensino imponham a recondução dos professores eventuais em anos consecutivos, esta operar-se-á tàcitamente, enquanto convier ao serviço, e os professores que devam ser reconduzidos serão abonados também, nos meses de Agosto e Setembro, dos vencimentos que lhes competirem.
+
+> Alterado pelo/a [Decreto-Lei n.º 437/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1971-633317), publicado em 1971-10-21.
 
 ###### Artigo 14.º
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 44560](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44560-1962-159703) e [Decreto-Lei n.º 45654](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45654-1964-471774) e [Decreto-Lei n.º 437/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1971-633317) e [Decreto-Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1977-141648), publicado em 1977-02-24.
+> Revogado pelo/a [Decreto-Lei n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1977-141648), publicado em 1977-02-24.
 
 ###### Artigo 15.º
 
-Poderão ser admitidos à frequência das escolas do magistério primário, com dispensa de exame de admissão e com isenção do pagamento de propinas, os regentes escolares com, pelo menos, 5 anos de serviço bem qualificado, idade inferior a 35 anos e que provem ter as habilitações legais exigidas aos candidatos que prestam provas de exame de admissão.
+Poderão ser admitidos à frequência das escolas do magistério primário, com dispensa de exame de admissão e com isenção do pagamento de propinas, os regentes escolares que o requeiram até 10 de Setembro, provem ter prestado pelo menos cinco anos de serviço docente qualificado de Suficiente e possuam as habilitações legais exigidas aos candidatos que prestam provas de exame de admissão às referidas escolas.
 
-§ único. Aos regentes escolares admitidos nas condições fixadas neste artigo serão mantidas as suas gratificações de regência, mas esta regalia não é aplicável ao regente-aluno que no ano lectivo anterior não tiver obtido aprovação.
+§ único. Os regentes de postos escolares admitidos nas condições fixadas neste artigo manterão, dentro dos limites estabelecidos no § único do artigo 16.º, as suas gratificações de regência, mas esta regalia não é aplicável ao regente-aluno que no ano lectivo anterior não tiver obtido aprovação.
+
+> Alterado pelo/a [Decreto-Lei n.º 44560](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44560-1962-159703), publicado em 1962-09-08.
 
 ###### Artigo 16.º
 
@@ -172,6 +197,14 @@ As provas são prestadas em cada escola do magistério perante as delegações d
 ###### Artigo 22.º
 
 O júri único é constituído pelo director-geral do Ensino Primário, ou um seu delgado, e pelos directores das escolas do magistério do continente, como vogais, e terá delegações em cada escola, constituídas pelo director, por professores de Didáctica e de Psicologia, por inspectores-orientadores, directores de distrito escolar ou professores de ensino primário.
+
+§ único. Os membros do júri terão direito a gratificação nos seguintes termos:
+
+a) Cada um dos membros das delegações do júri único, em número de quatro, perceberá 20$00 por cada candidato examinado pela delegação respectiva;
+
+b) Cada um dos membros do júri único, funcionando como júri central, perceberá 4$00 por cada candidato cujas provas sejam por esse mesmo júri apreciadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 45654](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45654-1964-471774), publicado em 1964-04-11.
 
 ###### Artigo 23.º
 

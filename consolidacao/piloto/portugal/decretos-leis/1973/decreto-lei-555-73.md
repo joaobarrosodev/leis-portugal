@@ -105,13 +105,15 @@ d) Ascendentes ou descendentes de portugueses.
 
 ###### Artigo 4.º — Âmbito obrigatório do ficheiro central de pessoas colectivas e entidades equiparadas
 
-O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações ou sociedades que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
+O ficheiro central de pessoas colectivas e entidades equiparadas abrange as associações, fundações, sociedades, agrupamentos complementares de empresas e empresas públicas que em Portugal tenham a sua sede, estabelecimento, agência, sucursal, filial ou outra representação.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 ###### Artigo 5.º — Âmbito facultativo do ficheiro central de pessoas colectivas e entidades equiparadas
 
-1. O ficheiro central de pessoas colectivas e entidades equiparadas pode também abranger os comerciantes em nome individual, os empresários agrícolas e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.
+O ficheiro central de pessoas colectivas e entidades equiparadas abrange também os empresários em nome individual e outras entidades, organismos ou serviços cuja inclusão se mostre de interesse, designadamente para efeitos de planeamento económico e social.
 
-2. O Ministro da Justiça pode autorizar, por despacho, a inclusão no ficheiro de outras entidades ou organismos cujas relações de conexão com a ordem jurídica portuguesa o justifiquem.
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 ### CAPÍTULO II — Organização do Registo Nacional
 
@@ -177,21 +179,29 @@ m) Referência ao assento de nascimento e a quaisquer outros documentos ou fonte
 
 ###### Artigo 8.º — Conteúdo do registo individual de pessoas colectivas e entidades equiparadas
 
-1. Cada registo individual constante do ficheiro de pessoas colectivas e entidades equiparadas deve incluir:
+1 - O registo de cada pessoa colectiva deve conter informação sobre:
 
-a) O número nacional de identificação;
+a) O número de identificação;
 
-b) A natureza do titular do registo;
+b) A designação;
 
-c) A designação;
+c) A localização da sede e o endereço postal;
 
-d) A localização;
+d) A natureza jurídica;
 
-e) A actividade a que se dedica;
+e) A actividade principal;
 
-f) A data da constituição ou alteração de natureza ou tipo.
+f) A data da constituição e, quando aplicável, da publicação no Diário da República do instrumento de constituição.
 
-2. Podem ser incluídos no registo outros dados que tenham carácter público e ofereçam interesse para o planeamento económico ou social, bem como a referência às fontes em que os diversos elementos foram colhidos.
+2 - Podem ser incluídos no registo elementos sobre alterações ao instrumento de constituição, datas de emissão e validade do cartão de identificação e outros dados que tenham carácter público e ofereçam interesse estatístico ou de planeamento económico, bem como a referência às fontes em que os diversos elementos foram colhidos.
+
+3 - As indicações referentes às datas de constituição e de publicação são substituídas, no caso dos empresários em nome individual, pela indicação do número do bilhete de identidade e da data do nascimento, e, no caso de sociedades irregulares, pela indicação do nome e número do bilhete de identidade dos sócios.
+
+4 - Em favor de cada titular de registo pode ser emitido um cartão de identificação com a indicação do número de identificação, da designação, da sede, da natureza jurídica, da actividade principal e das datas de constituição e de publicação no Diário da República.
+
+5 - O modelo de cartão de identificação, que constitui exclusivo do Gabinete do Registo Nacional, deve ser diferente para as pessoas colectivas e para as entidades equiparadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 #### SECÇÃO II — Composição dos códigos de identificação pessoal
 
@@ -209,17 +219,13 @@ c) Dígito ou dígitos de contrôle.
 
 ###### Artigo 10.º — Número nacional de pessoa colectiva ou entidade equiparada
 
-1. O número nacional das pessoas colectivas e entidades equiparadas incluirá:
+1 - O número de identificação das pessoas colectivas e entidades equiparadas é um número sequencial cujo primeiro dígito deve ser diferente para as pessoas colectivas e para as entidades equiparadas, e o último um dígito de contrôle da exactidão do número.
 
-a) Data de constituição ou de alteração de natureza ou tipo, em forma corrente ou codificada;
+2 - Podem ser usadas sequências numéricas diferentes correspondentes à área de localização geográfica da sede do titular do registo.
 
-b) Natureza;
+3 - O significado dos dígitos correspondentes a pessoas colectivas e a entidades equiparadas, bem como as sequências correspondentes a áreas geográficas distintas, devem ser objecto de divulgação em portaria do Ministro da Justiça.
 
-c) Número sequencial de ordem de introdução no registo nacional;
-
-d) Dígito ou dígitos de contrôle.
-
-2. O primeiro dígito do número sequencial poderá indicar a área de localização geográfica do titular do registo.
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 #### SECÇÃO III — Órgãos do Registo Nacional
 
@@ -279,19 +285,25 @@ Ao Conselho Coordenador do Registo Nacional incumbe especialmente assegurar ao G
 
 ###### Artigo 19.º — Comunicação de constituição, alteração ou extinção de associações, fundações e sociedades
 
-1. As associações, fundações ou sociedades que se constituírem a partir de 1 de Janeiro de 1975 ou que a partir dessa data criarem em Portugal estabelecimento, agência, sucursal, filial ou outra representação ficam obrigadas a comunicar ao Centro de Informática do Ministério da Justiça a sua constituição, alteração de natureza e tipo ou extinção.
+1 - As associações, fundações, sociedades e agrupamentos complementares de empresas que se constituírem a partir da data do presente diploma ficam obrigadas à posse de cartão de identificação, que devem requerer no prazo de noventa dias, a contar da data da sua constituição.
 
-2. A mesma obrigação incumbe, a partir da data que vier a ser determinada em portaria do Ministro da Justiça, às associações, fundações ou sociedades que se tenham constituído até 31 de Dezembro de 1974 ou que até essa data tenham criado em Portugal estabelecimento, agência, sucursal, filial ou outra representação.
+2 - A mesma obrigação incumbe aos empresários em nome individual, no prazo de trinta dias, a contar do início da sua actividade.
 
-3. A comunicação da extinção ou encerramento constitui responsabilidade individual e solidária dos últimos corpos gerentes ou dos responsáveis pela representação extinta ou encerrada.
+3 - As sociedades comerciais já constituídas bem como os empresários em nome individual em actividade são obrigados à posse de cartão de identificação válido a partir de 1 de Janeiro de 1980.
 
-4. As comunicações a que se referem os números precedentes devem ser efectuadas nos termos prescritos no n.º 3 do artigo 18.º, no prazo de trinta dias a contar do acto ou facto sujeito a registo.
+4 - Não podem ser recebidos em organismos da Administração Pública declarações ou requerimentos de pessoas colectivas e de empresários em nome individual, designadamente para efeitos fiscais, estatísticos ou obtenção de quaisquer licenças ou autorizações, sem que deles conste o respectivo número de identificação.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 ###### Artigo 20.º — Comunicação por serviços públicos de constituições, alterações ou extinções sujeitas a registo
 
-1. Os serviços públicos por onde corra o expediente relativo à aprovação dos estatutos de associações, fundações ou sociedades, bem como as conservatórias do registo comercial e os cartórios e secretarias notariais ficam obrigados a comunicar ao Centro de Informática do Ministério da Justiça, a partir de 1 de Janeiro de 1975 ou da data prevista no n.º 2 do artigo anterior, no prazo de oito dias, a aprovação de estatutos, bem como os actos ou registos respeitantes à constituição, alteração de natureza e tipo ou extinção de associações, fundações ou sociedades, contempladas, respectivamente, nos n.os 1 e 2 daquele artigo.
+1 - Os notários são obrigados a comunicar ao Centro de Informática do Ministério da Justiça, no prazo de oito dias, os actos respeitantes à constituição, transformação ou extinção de associações, fundações, sociedades ou agrupamentos complementares de empresas.
 
-2. É aplicável a estas comunicações o disposto no n.º 3 do artigo 18.º e, na medida do possível, no n.º 2 do artigo 17.º
+2 - A mesma obrigação incumbe aos serviços públicos por onde corre o expediente relativo à aprovação dos estatutos das fundações ou a quem incumbe receber a participação escrita da constituição de pessoas colectivas religiosas.
+
+3 - As comunicações referidas nos números anteriores são efectuadas em impresso próprio, exclusivo do Gabinete do Registo Nacional.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 ### CAPÍTULO III — Funcionamento e utilização do Registo Nacional
 
@@ -367,7 +379,9 @@ b) Aos serviços do Estado não autónomos, salvo se o fornecimento das informa�
 
 ###### Artigo 30.º — Condições gerais de fornecimento de informações
 
-O fornecimento de informações, fora dos casos previstos nos artigos anteriores, está sujeito ao pagamento das despesas que ocasione, nos termos definidos em despacho do Ministro da Justiça, sob proposta do Centro de Informática.
+O fornecimento de informações em suporte manual ou informático, fora dos casos previstos nos artigos anteriores, será efectuado nas condições aprovadas por despacho do Ministro da Justiça, sob proposta do Gabinete do Registo Nacional.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299), publicado em 1978-11-09.
 
 #### SECÇÃO II — Valor jurídico da informação
 
@@ -499,7 +513,9 @@ b) Velar pela realização do empreendimento nos precisos termos legais e pela s
 
 c) Assegurar a guarda e segurança da confidencialidade dos elementos constantes do Registo Nacional;
 
-d) Promover a coordenação entre ficheiros ou bancos de dados referentes a pessoas singulares ou colectivas a cargo dos vários Ministérios e organismos do sector público.
+d) Assegurar ao Ministério da Justiça o apoio técnico-administrativo necessário em matéria de planeamento e estatística.
+
+> Alterado pelo/a [Decreto-Lei n.º 311/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1979-378949), publicado em 1979-08-20.
 
 ###### Artigo 47.º — Competência
 
@@ -529,9 +545,9 @@ l) Promover a aplicação das sanções previstas no presente diploma;
 
 m) Criar delegações ou subdelegações, permanentes ou temporárias, em território nacional ou em país estrangeiro;
 
-n) Promover uma boa comunicação entre os ficheiros, bases e bancos de dados da administração pública, organizados em suporte magnético, e propor as providências conducentes a evitar duplicações desnecessárias;
+n) Assegurar e coordenar a actuação do Ministério na preparação e execução dos planos económicos, estabelecer as ligações com os outros órgãos de planeamento e desempenhar as funções legalmente cometidas aos departamentos sectoriais de planeamento;
 
-o) Assegurar as relações com o Secretariado Técnico da Presidência do Conselho, com o Instituto Nacional de Estatística, com os gabinetes de planeamento e com os organismos públicos ou privados que mantenham ficheiros relativos a pessoas singulares ou colectivas, representar o Ministério da Justiça em organismos, comissões ou grupos de trabalho que tratem de problemas ligados ao planeamento social ou económico, e orientar o funcionamento da Comissão Consultiva de Estatística do mesmo Ministério;
+o) Prestar à Comissão Consultiva de Estatística o apoio técnico-administrativo necessário, assegurar as ligações entre os órgãos do Sistema Estatístico Nacional e os serviços do Ministério e tomar ou propor as providências necessárias ao aperfeiçoamento da informação estatística sectorial.
 
 p) Assegurar a ligação com serviços estrangeiros similares, tendo em vista o conhecimento das medidas adoptadas relativamente ao aperfeiçoamento dos registos nacionais de população e das bases e bancos de dados relativos a pessoas singulares ou colectivas;
 
@@ -542,6 +558,8 @@ r) Promover a realização de missões e visitas, no País ou no estrangeiro, pa
 s) Propor as providências que considere convenientes para assegurar o melhor rendimento da actividade do Gabinete e o mais perfeito desempenho das suas atribuições, incluindo as que respeitem à conveniência da sua evolução institucional.
 
 2. Em vista do disposto da alínea o), o director do Gabinete do Registo Nacional será o representante do Ministério da Justiça no Conselho Nacional de Estatística.
+
+> Alterado pelo/a [Decreto-Lei n.º 311/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1979-378949), publicado em 1979-08-20.
 
 #### SECÇÃO II — Direcção
 
@@ -685,13 +703,13 @@ Por despacho conjunto dos Ministros da Justiça e das Finanças poderão ser atr
 
 ###### Artigo 64.º — Provimento interino de lugares
 
-1. Sempre que não seja possível, por falta de candidatos aprovados, preencher vagas de lugares cujo provimento dependa de concurso, poderá, para assegurar o exercício das respectivas funções, ser nomeado interinamente pessoal por despacho do director.
+1 - Para prestar serviço no Gabinete poderá ser requisitado a quaisquer serviços públicos, empresas públicas ou nacionalizadas o pessoal indispensável ao seu funcionamento, mediante despacho do Ministro da Justiça e acordo do Ministro a que estão sujeitos o serviço ou a empresa, bem como do interessado.
 
-2. O pessoal a nomear deverá possuir as habilitações literárias exigidas para o cargo e receberá a remuneração a ele correspondente.
+2 - A requisição prevista no número anterior não dará lugar a abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.
 
-3. O pessoal nomeado nas condições dos números anteriores deverá apresentar-se ao primeiro concurso que for aberto posteriormente às nomeações, caducando a nomeação se o não fizer.
+3 - O pessoal requisitado não poderá ser prejudicado nos seus direitos e regalias, designadamente em matéria de promoções e de segurança social.
 
-4. Os encargos com o pessoal admitido ao abrigo do n.º 1 serão satisfeitos por força das verbas inscritas para remunerações dos respectivos lugares do quadro.
+> Alterado pelo/a [Decreto-Lei n.º 346/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1978-325764), publicado em 1978-11-17.
 
 ###### Artigo 65.º — Pessoal e trabalhos de carácter eventual
 
@@ -925,7 +943,7 @@ Os requisitos do provimento e os processos de recrutamento do pessoal do quadro 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 326/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1978-327299) e [Decreto-Lei n.º 346/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1978-325764) e [Decreto-Lei n.º 311/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1979-378949) e [Decreto-Lei n.º 103/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2001-345151), publicado em 2001-03-29.
+> Revogado pelo/a [Decreto-Lei n.º 103/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2001-345151), publicado em 2001-03-29.
 
 ###### Artigo 86.º — Pagamento de encargos de pessoal
 

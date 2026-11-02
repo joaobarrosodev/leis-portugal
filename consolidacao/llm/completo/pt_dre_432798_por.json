@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:432798:por",
+  "artigos": [
+    {
+      "chave": "31.º",
+      "epigrafe": "(Receitas dos organismos de coordenação económica)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Lei 43/79), art. 3.º: 'é fixado em 121013 milhões de escudos o montante referido no n.º 1 do artigo 5.º' - não dá nova redação ao n.º 1 (que fala em '101 milhões de contos'), por isso não se reescreveu o texto; art. 1.º e anexos I a III: alterações aos anexos I a III, que só existem em imagem (ver documento original) - não aplicadas.",
+  "instrucoes": [
+    "Alt. 1 (Lei 43/79), arts. 1.º e 2.º: alterações às verbas dos anexos I a III (só em imagem) - não aplicadas.",
+    "Alt. 1, art. 3.º: novo montante do n.º 1 do art. 5.º sem nova redação - não aplicado ao texto (ver nao_aplicavel).",
+    "Alt. 1, art. 4.º: renova autorizações dos arts. 18.º e) e f) e 26.º c) e h) - não altera o texto.",
+    "Alt. 1, art. 6.º: revoga a autorização legislativa do art. 31.º, que é o conteúdo inteiro do artigo - art. 31.º marcado (Revogado.).",
+    "Alt. 2 (DL 519-H1/79): usa a autorização do art. 24.º e); não tem instruções dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
