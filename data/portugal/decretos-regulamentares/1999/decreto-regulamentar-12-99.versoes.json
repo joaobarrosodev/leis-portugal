@@ -1,0 +1,661 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:346481:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cdb6ef9bffdbcd1d",
+    "23836370ae405d04",
+    "94a0c6fc76700f87",
+    "6fb61f64a3f267af",
+    "360918bfe1086c22",
+    "c0e483efa0958af4",
+    "50b338044110fb00",
+    "a62bcc249aeeba55",
+    "880eb7cbfffbb13c",
+    "00c7b03d206ac1ec",
+    "4d71db87b79669ae",
+    "5631292ef9fab020",
+    "7879981220050297",
+    "803a21ba8c52a330",
+    "9c748172e3b93281",
+    "dd1bd9bee4e20f7a",
+    "5580e526f5df985a",
+    "e4655af9a6c4bfad",
+    "2d42971fb61801cf",
+    "805124d02468ed42",
+    "7f1488d832ede2af",
+    "12f9290f7b44dc16",
+    "214d9881a030aedb",
+    "b4416fe8b67e42a9",
+    "7b32604302e4504a",
+    "7f6516c70d2de1d8",
+    "15affe65ace54bd5",
+    "5a3bb1676dbcebaa",
+    "5cd2c0c61642527a",
+    "3c800e8045e4511b",
+    "3a8618ec79872eb5",
+    "41bcefa74f85312f",
+    "cd3f393d33669dd8",
+    "263c72cea00348a9"
+   ]
+  },
+  {
+   "date": "2009-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489500:por",
+     "title": "Decreto Regulamentar n.º 24/2009",
+     "published": "2009-09-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/24-2009-489500"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º"
+   ],
+   "fragments": [
+    "cdb6ef9bffdbcd1d",
+    "23836370ae405d04",
+    "8f9f027fee72722c",
+    "ce5f353bf054a349",
+    "454698a92379f1f8",
+    "c0e483efa0958af4",
+    "b4f076915f01f643",
+    "a62bcc249aeeba55",
+    "ac0358f96df11251",
+    "c2d37351c04afca7",
+    "ad45799d6ee51971",
+    "fea70d0b8390e226",
+    "7879981220050297",
+    "4b78249615186ac0",
+    "7448474c71ea5e2e",
+    "b78494b5f560df31",
+    "5580e526f5df985a",
+    "60ab7740326f186a",
+    "2d42971fb61801cf",
+    "ad90ac291d9f741a",
+    "df1bb2fc06546210",
+    "3f0c46e4a3633ff9",
+    "c9cf28c83572f4ee",
+    "e3411ba6fed6300f",
+    "e6ffa817d19c8a9a",
+    "6521e064d3caeb2e",
+    "a5487143fe37a557",
+    "3a35703c7c7b2cf7",
+    "86082859b060cdb9",
+    "bc87f924f3a718c0",
+    "3a8618ec79872eb5",
+    "6c985354b977a9a0",
+    "08c811f29953e7f5",
+    "fff541d86371c09e"
+   ]
+  }
+ ],
+ "fragments": {
+  "cdb6ef9bffdbcd1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Julho\n\nO Decreto-Lei n.º 102/90, de 21 de Março, disciplinou o regime do licenciamento do uso privativo dos bens do domínio público do Estado e das actividades desenvolvidas nos aeroportos e aeródromos, enquanto as taxas exigíveis foram estabelecidas pelo Decreto Regulamentar n.º 38/91, de 29 de Julho.\n\nO elenco das taxas e os regimes da respectiva fixação foram reformulados através de uma alteração ao supracitado Decreto-Lei n.º 102/90, adaptando-o à liberalização do acesso à actividade de assistência em escala (handling) prestada nos aeródromos e aeroportos nacionais abertos ao tráfego comercial, entretanto operada com a transposição para o direito interno da Directiva n.º [96/67/CE](https://data.europa.eu/eli/dir/1996/67/oj?locale=pt), do Conselho, de 15 de Outubro.\n\nEste novo enquadramento implica a adequação do Decreto Regulamentar n.º 38/91, mediante a supressão de taxas até agora previstas e a inclusão das taxas próprias da actividade de assistência em escala (handling), aproveitando-se também para nele introduzir algumas alterações ditadas pela experiência adquirida quanto a outras actividades e taxas que abarca.\n\nEm resultado desta adequação, aprova-se um novo regulamento e revoga-se o Decreto Regulamentar n.º 38/91, de 29 de Julho.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nAo abrigo do disposto no artigo 30.º do Decreto-Lei n.º 102/90, de 21 de Março, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "94a0c6fc76700f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define as taxas devidas pela ocupação de terrenos, edificações e outras instalações, bem como pelo exercício de quaisquer actividades, na área dos aeroportos e aeródromos públicos ou pela sua utilização ou dos seus respectivos serviços e equipamentos."
+  },
+  "6fb61f64a3f267af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente diploma, considera-se:\n\n1) Carga aérea e bagagem:\n\na) Carga aérea, os bens transportados a bordo das aeronaves, com excepção do equipamento necessário à realização do voo, dos aprovisionamentos, do correio e das bagagens;\n\nb) Bagagens, os objectos de uso ou consumo pessoal dos passageiros e tripulantes, quer os acompanhem ou não, cujo transporte é gratuito ou apenas onerado por tarifas de excesso de bagagem ou de bagagem não acompanhada;\n\n2) Classificação de áreas:\n\na) Áreas de tráfego, porções de área de movimento onde se processam operações de assistência às aeronaves, isto é, de descarregamento e carregamento das aeronaves, embarque ou desembarque de passageiros e outras inerentes a estas;\n\nb) Áreas de manutenção, porções de área de movimento onde se processam operações de manutenção das aeronaves;\n\n3) Passageiros em transferência, os que chegam ao aeroporto ou aeródromo considerado numa aeronave com um determinado número de voo e partem num lapso de tempo determinado, nessa mesma aeronave ou noutra, mas com diferente número de voo;\n\n4) Passageiros em trânsito directo, os que permanecem temporariamente no aeroporto ou aeródromo, continuando a sua viagem na mesma aeronave ou noutra, mas conservando o mesmo número de voo;\n\n5) Escala técnica, a utilização de um aeroporto por uma aeronave para fins que não sejam o embarque ou desembarque de passageiros, carga ou correio;\n\n6) Prestador de serviços de assistência em escala, entidade que preste a terceiros uma ou mais categorias de serviço ou modalidades de assistência em escala;\n\n7) Utilizador de um aeroporto ou aeródromo, em regime de auto-assistência, pessoa singular ou colectiva que exerça nesse aeródromo ou aeroporto uma actividade de transporte aéreo de passageiros, carga ou correio e que preste a si próprio directamente, sem recurso a colaboração de terceiros, designadamente por subcontratação, um ou mais serviços ou categorias de assistência em escala. Para efeitos desta definição, não se consideram terceiros entre si os utilizadores dos quais um detém uma participação maioritária sobre o outro, ou cuja participação em cada um deles seja maioritariamente detida pela mesma entidade;\n\n8) Unidade de tráfego, unidade de referência da actividade aeroportuária que indiferenciadamente significa qualquer uma das seguintes realidades: um passageiro embarcado ou um passageiro desembarcado ou 100 kg de carga embarcada ou 100 kg de carga desembarcada. Os passageiros em trânsito directo não relevam para efeitos desta unidade de referência."
+  },
+  "360918bfe1086c22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação\n\nNos termos do artigo 17.º do Decreto-Lei n.º 102/90, de 21 de Março, e para os efeitos do artigo 18.º do mesmo diploma, as taxas nele previstas agrupam-se, em função da natureza dos serviços e actividades desenvolvidas, em:\n\na) Taxas de tráfego;\n\nb) Taxas de assistência em escala (handling);\n\nc) Taxas de ocupação;\n\nd) Outras taxas de natureza comercial."
+  },
+  "c0e483efa0958af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Taxas de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Taxas de tráfego"
+  },
+  "50b338044110fb00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Taxa de aterragem e descolagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Taxa de aterragem e descolagem\n\n1 - A taxa de aterragem e descolagem é devida por cada operação de aterragem e descolagem e é definida por unidade de tonelagem métrica do peso máximo de descolagem indicado no certificado de navegabilidade de cada aeronave, ou em documento para o efeito considerado equivalente, podendo ser diferenciada por -origem e destino de voo, ou modulada por forma a incentivar uma utilização mais intensiva, contribuir para diversificar os períodos de utilização dos aeroportos e aeródromos e por razões de protecção ambiental.\n\n2 - O peso máximo de descolagem de cada aeronave deve ser arredondado por excesso para a tonelada, correspondendo 1 libra a 0,4536 kg.\n\n3 - A taxa de aterragem e descolagem constitui contrapartida da utilização das infra-estruturas inerentes à circulação de aeronaves no solo, da utilização das ajudas visuais inerentes à aterragem e descolagem, circulação no solo e ainda do estacionamento da aeronave até ao limite de períodos de tempo a definir, imediatamente depois da aterragem e imediatamente antes da descolagem.\n\n4 - Estão isentas de pagamento de taxa de aterragem e descolagem:\n\na) As aeronaves utilizadas em serviço exclusivo de transporte, em deslocação oficial de monarcas reinantes e sua família directa, de chefes de Estado e de governo, bem como de ministros, sempre que, em qualquer destes casos, seja indicado no plano de voo o respectivo estatuto, ou as aeronaves que se encontrem ao abrigo de acordos de reciprocidade de tratamento, confirmados pelos serviços do Ministério dos Negócios Estrangeiros;\n\nb) As aeronaves militares, em missão oficial não remunerada ou ao abrigo de acordos especiais que vinculem o Estado Português, confirmados pelas competentes entidades diplomáticas ou militares;\n\nc) As aeronaves em missões de busca e salvamento, bem como em missões humanitárias, como tal consideradas pela entidade exploradora do aeroporto ou aeródromo;\n\nd) As aeronaves que efectuem aterragens por motivos de retorno forçado ao aeroporto, justificado por deficiências técnicas das mesmas, razões meteorológicas ou outras de força maior, devidamente comprovadas, quando não hajam utilizado outro aeroporto ou aeródromo.\n\n5 - Sem prejuízo do disposto no n.º 1 sobre diferenciação ou modulação da taxa, beneficiam:\n\na) De uma redução de 50%, as aeronaves que realizem voos locais de experiência e de ensaio de material, instrução, treino ou exame do seu pessoal;\n\nb) De uma redução, diferenciada por aeroporto, até 50% da taxa em vigor, as aeronaves que utilizem um aeroporto ou aeródromo em situação de escala técnica.\n\n6 - Às aeronaves, com excepção das referidas nos n.os 4 e 5, que, sem aterrar, efectuem operações com utilização da balizagem luminosa será aplicada a taxa especificada no n.º 1 do artigo 14.º\n\n7 - Os serviços competentes dos aeroportos ou aeródromos poderão exigir prova das condições justificativas do direito às isenções ou reduções referidas no presente artigo."
+  },
+  "a62bcc249aeeba55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Taxa de controlo terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxa de controlo terminal\n\n1 - A taxa de controlo terminal é devida por cada operação de aterragem e é definida por unidade de tonelada métrica do peso máximo de descolagem indicado no certificado de navegabilidade de cada aeronave, ou em documento para o efeito considerado equivalente, podendo ser diferenciada por origem e destino do voo, ou modulada por forma a incentivar uma utilização mais intensiva, contribuir para diversificar os períodos de utilização dos serviços e por razões de protecção ambiental.\n\n2 - O peso máximo de descolagem de cada aeronave deve ser arredondado por excesso para a tonelada, correspondendo 1 libra a 0,4536 kg.\n\n3 - A taxa de controlo terminal respeita às operações de controlo de tráfego aéreo de aproximação e aeródromo, incluindo a utilização das ajudas rádio inerentes à aterragem e descolagem.\n\n4 - Estão isentas de pagamento da taxa de controlo terminal todas as aeronaves referidas no artigo 4.º, n.º 4, alíneas a) a d), sendo competente para considerar uma missão como humanitária os serviços da Empresa Pública Navegação Aérea de Portugal - NAV, E. P.\n\n5 - Sem prejuízo do disposto no n.º 1 sobre diferenciação ou modulação da taxa, beneficiam de uma redução de 50% até 100% as aeronaves que realizem voos locais de experiência e de ensaio de material, instrução, treino ou exame do seu pessoal.\n\n6 - Os serviços competentes de controlo de tráfego aéreo poderão exigir prova das condições justificativas do direito às isenções ou reduções referidas no presente artigo."
+  },
+  "880eb7cbfffbb13c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Taxa de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Taxa de estacionamento\n\n1 - A taxa de estacionamento é devida por cada aeronave estacionada e definida por períodos de tempo, em função do peso referido nos n.os 1 e 2 do artigo 4.º, podendo ser diferenciada por aeroporto ou aeródromo, em função do período de utilização, sem prejuízo da fixação de valores mínimos.\n\n2 - A taxa de estacionamento variará ainda conforme as aeronaves estacionem em áreas de tráfego e em áreas de manutenção ou outras.\n\n3 - A taxa de estacionamento não se aplica ao período incluído na taxa de aterragem e descolagem referido no n.º 3 do artigo 4.º\n\n4 - As aeronaves estacionarão nos locais designados pelos serviços competentes do aeroporto ou aeródromo, estando a cargo dos seus proprietários representantes ou utilizadores a sua remoção para esses locais.\n\n5 - A taxa de estacionamento não dá direito à prestação de qualquer serviço, nem envolve, por parte dos aeroportos ou aeródromos, qualquer responsabilidade quanto à segurança das aeronaves estacionadas.\n\n6 - A presente taxa será acrescida de uma sobretaxa por cada período ou fracção de quinze minutos, cuja contagem se iniciará dez minutos após a hora marcada para a remoção da aeronave pelo serviço de operações aeroportuárias. A ordem de remoção será dada com uma antecedência não inferior a vinte minutos.\n\n7 - Estão isentas do pagamento de taxa de estacionamento as aeronaves mencionadas nas alíneas a), b) e c) do n.º 4 do artigo 4.º nas primeiras quarenta e oito horas após a aterragem, desde que o aeroporto ou aeródromo não seja a sua base."
+  },
+  "00c7b03d206ac1ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Taxa de abrigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Taxa de abrigo\n\n1 - A taxa de abrigo é devida por cada aeronave estacionada em locais abrigados e é definida por períodos de vinte e quatro horas ou fracção, em função do peso referido nos n.os 1 e 2 do artigo 4.º\n\n2 - A taxa de abrigo apenas dá direito à iluminação necessária às operações de entrada e saída no abrigo, devendo qualquer outra iluminação suplementar ser fornecida mediante preço a fixar pelo aeroporto ou aeródromo.\n\n3 - A presente taxa não dá direito à prestação de qualquer serviço, nem envolve, por parte dos aeroportos ou aeródromos, qualquer responsabilidade quanto à segurança das aeronaves."
+  },
+  "4d71db87b79669ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Taxa de serviço a passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxa de serviço a passageiros\n\n1 - A taxa de serviço a passageiros é devida por cada passageiro embarcado e pode ser diferenciada segundo o destino do passageiro.\n\n2 - A taxa de serviço a passageiros é debitada aos transportadores, não podendo a respectiva importância ser cobrada em separado do acto de emissão do bilhete ou da cobrança do preço deste.\n\n3 - Estão isentos do pagamento da taxa de serviço a passageiros:\n\na) As crianças com menos de 2 anos;\n\nb) Os passageiros em trânsito directo;\n\nc) Os passageiros de aeronaves que, por motivo de ordem técnica, meteorológica ou contingência similar, sejam forçados a regressar ao aeroporto ou aeródromo;\n\nd) Os passageiros que embarquem nas aeronaves a que se refere o artigo 4.º, n.º 4, alíneas a) e b), do presente diploma.\n\n4 - Os serviços competentes dos aeroportos ou aeródromos poderão exigir prova das condições justificativas do direito às isenções referidas no número anterior.\n\n5 - Sem prejuízo do disposto no n.º 1 sobre diferenciação ou modulação da taxa, podem beneficiar de reduções os passageiros em transferência."
+  },
+  "5631292ef9fab020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Taxa de abertura de aeródromo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxa de abertura de aeródromo\n\n1 - Sempre que, excepcionalmente, seja requerida a abertura de um aeroporto ou aeródromo fora do período de funcionamento, ou a prorrogação do seu funcionamento para além do período estabelecido para uma operação de aterragem ou descolagem de qualquer aeronave, civil ou militar, será devida uma taxa a determinar por tipo de operação, período horário e tipo de aeronave.\n\n2 - A solicitação para a abertura do aeródromo, referida no n.º 1 deste artigo, deve ser efectuada com uma antecedência não inferior a três horas.\n\n3 - A taxa prevista neste artigo não confere direito a quaisquer serviços adicionais, mas tão-só à abertura ou prorrogação do período de funcionamento do aeroporto ou aeródromo, para uma pontual operação de qualquer aeronave.\n\n4 - Finda a operação, o director do aeroporto ou aeródromo decidirá, consoante as circunstâncias, se o mantém aberto ou se cumpre o período de funcionamento estabelecido.\n\n5 - Estão isentas do pagamento da taxa de abertura de aeródromo as aeronaves em missões de busca, salvamento ou em missões humanitárias urgentes e inadiáveis, como tal consideradas pela entidade exploradora do aeroporto ou aeródromo."
+  },
+  "7879981220050297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Taxas de assistência em escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Taxas de assistência em escala"
+  },
+  "803a21ba8c52a330": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Assistência administrativa em terra e supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Assistência administrativa em terra e supervisão\n\nSão devidas taxas de assistência em escala pelo exercício de quaisquer das modalidades que integram os serviços referenciados na lista constante do anexo I do Decreto-Lei n.º 275/99, de 23 de Julho, nos termos seguintes:\n\n1) A taxa de assistência administrativa em terra e supervisão é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n2) A taxa de assistência a passageiros é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto-assistência, sendo definida por períodos de horas ou fracção de dias ou mês, e por balcão de admissão e registo de passageiros (check-in);\n\n3) A taxa de assistência a bagagem é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto-assistência, sendo definida por períodos de horas ou fracção de dias ou mês, e por balcão de admissão e registo de passageiros (check-in), ou por unidade de bagagem processada;\n\n4) A taxa de assistência a carga e correio é devida:\n\na) Pelos utilizadores de um aeroporto ou aeródromo em regime de auto-assistência, sendo definida por unidade de tráfego;\n\nb) Pelos prestadores de serviços, sendo definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n5) A taxa de assistência de operações em pista é devida:\n\na) Pelos utilizadores de um aeroporto ou aeródromo em regime de auto-assistência, sendo definida por unidade de tráfego;\n\nb) Pelos prestadores de serviços, sendo definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n6) A taxa de assistência de limpeza e serviço do avião é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n7) A taxa de assistência a combustível e óleo é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual ou por hectolitro de combustível, e por litro de óleo fornecidos, sendo, neste caso, as suas fracções arredondadas por excesso para a unidade superior;\n\n8) A taxa de assistência de manutenção em linha é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n9) A taxa de assistência de operações aéreas e gestão das tripulações é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n10) A taxa de assistência de transporte em terra é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual;\n\n11) A taxa de assistência de restauração (catering) é devida pelos prestadores de serviços e será definida em função do volume de negócios realizado, por aplicação de um valor percentual."
+  },
+  "9c748172e3b93281": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Infra-estruturas centralizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Infra-estruturas centralizadas\n\nPode ser cobrada aos utentes de quaisquer infra-estruturas de aeroportos ou aeródromos declaradas centralizadas para o exercício de actividades de assistência em escala uma taxa diferenciada por período de utilização, unidade de serviço ou unidade física processada."
+  },
+  "dd1bd9bee4e20f7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Liquidação das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Liquidação das taxas\n\n1 - Sempre que a liquidação e cobrança das taxas seja determinada em função do volume de negócios, os prestadores de serviços deverão enviar aos aeroportos ou aeródromos, relativamente ao conjunto de operações efectuadas no mês imediatamente anterior, cópias dos documentos comprovativos das receitas cobradas ou dos aprovisionamentos e serviços efectuados, assinadas pelo assistido ou seu representante, de que constem os elementos necessários à liquidação das taxas exigíveis.\n\n2 - Competirá aos aeroportos e aeródromos fixar a periodicidade do envio dos documentos referidos no número antecedente, que não será, no entanto, inferior a uma semana no caso de facturação regular por serviço continuado.\n\n3 - A omissão e a inobservância destas obrigações e, bem assim, a falsidade de quaisquer declarações ou documentos apresentados constitui fundamento para resolução da licença, nos termos da lei.\n\n4 - O montante de taxas pagas pela utilização de infra-estruturas centralizadas, bem como o valor devidamente comprovado referente à subcontratação de serviços por uma entidade prestadora a outra, devidamente licenciada, não serão considerados para efeito de determinação do volume de negócios.\n\n5 - Salvo o disposto no número seguinte, um prestador que esteja licenciado para a execução de serviços próprios de mais de uma categoria de serviços de assistência em escala deverá, em relação a cada assistido, diferenciar os valores próprios de cada categoria e serviços prestados, emitindo facturação detalhada e autonomizada.\n\n6 - Nos contratos de prestação de serviços de assistência em escala que englobem conjuntamente várias categorias de serviços, o prestador de serviços poderá apresentar a facturação global pelo conjunto de serviços prestados, cuja taxa seja calculada em função da mesma percentagem sobre o volume de negócios."
+  },
+  "5580e526f5df985a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Ocupação de espaços e áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Ocupação de espaços e áreas"
+  },
+  "e4655af9a6c4bfad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Taxa de ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxa de ocupação\n\n1 - A taxa de ocupação é devida pela utilização privativa para qualquer fim de espaços, edifícios, gabinetes, hangares e outras áreas dos aeroportos ou aeródromos, sendo definida por unidade métrica, zona, finalidade, localização e períodos horário, diário ou mensal de utilização, podendo ser diferenciada em função do prazo da ocupação e ou sujeita a valores máximos por tipo de ocupação ou utilização.\n\n2 - Estão isentos de taxa de ocupação, em relação às áreas mínimas necessárias para o exercício das suas atribuições, o Instituto Nacional de Aviação Civil (INAC), em relação aos serviços que hajam de ser instalados na área de jurisdição dos aeroportos e aeródromos, a ANA - Aeroportos de Portugal, S. A., e a Empresa Pública Navegação Aérea de Portugal - NAV, E. P., em relação com o serviço público que lhes esteja cometido, e as autoridades responsáveis pela segurança aeroportuária e pelo controlo de fronteira, bem como as entidades oficiais de informação turística."
+  },
+  "2d42971fb61801cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Outras taxas de natureza comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Outras taxas de natureza comercial"
+  },
+  "805124d02468ed42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Taxa de equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxa de equipamento\n\n1 - A taxa de equipamento é devida pela utilização de quaisquer equipamentos dos aeroportos ou aeródromos, em serviços distintos dos que constituem contrapartida da cobrança de taxas de tráfego ou de infra-estrutura centralizada, e é definida por unidade e tempo de operação, podendo fixar-se períodos mínimos de utilização.\n\n2 - Estão isentas do pagamento de taxa de equipamento as aeronaves referenciadas nas alíneas a), b) e c) do n.º 4 do artigo 4.º do presente diploma."
+  },
+  "7f1488d832ede2af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Taxa de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Taxa de prestação de serviços\n\n1 - A taxa de prestação de serviços é devida pelos serviços prestados pelo pessoal dos aeroportos ou aeródromos, quando pedidos por quaisquer utentes em geral, e é definida por período de tempo ou tipo de serviço.\n\n2 - Estão isentas do pagamento de taxa as aeronaves referenciadas nas alíneas a), b) e c) do n.º 4 do artigo 4.º do presente diploma."
+  },
+  "12f9290f7b44dc16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Taxa de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Taxa de consumo\n\n1 - A taxa de consumo é devida pelo fornecimento de quaisquer produtos ou bens, tais como água, telefones, energia, solicitados aos aeródromos e aeroportos por quaisquer entidades.\n\n2 - A taxa de consumo consistirá numa percentagem, que pode variar conforme os produtos ou bens, sobre o respectivo custo suportado pelos aeroportos e aeródromos e será cobrada em conjunto com o valor deste."
+  },
+  "214d9881a030aedb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Taxa de manuseamento de carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxa de manuseamento de carga\n\nA taxa de manuseamento de carga é devida em contrapartida das operações de carga e descarga, conferência e utilização de equipamento elevatório necessárias à entrada e saída das mercadorias, efectuadas no interior dos terminais de carga aeroportuários.\n\nEsta taxa é estabelecida com base no peso e pode compreender valores mínimos e máximos por consignamento."
+  },
+  "b4416fe8b67e42a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Taxa de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Taxa de armazenagem\n\nA taxa de armazenagem é devida pelo depósito de carga aérea ou de outros bens em locais destinados a esse fim nos aeroportos ou aeródromos, incluindo em armazéns aduaneiros, e será definida, conforme as circunstâncias, por unidade de tempo e por volume, peso, valor ou unidade, considerando-se sempre um período mínimo de franquia não inferior a dois dias úteis, a partir das 0 horas do dia útil seguinte ao do início da recepção no armazém.\n\nEstão isentas do pagamento da taxa de armazenagem as cargas destinadas a embaixadas e outras representações diplomáticas, desde que transportadas em regime de correio diplomático."
+  },
+  "7b32604302e4504a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Taxa de depósito de bagagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Taxa de depósito de bagagem\n\n1 - A taxa de depósito de bagagem é devida pelo depósito de bagagem ou volumes nos locais para esse fim existentes.\n\n2 - A taxa de depósito de bagagem será definida por cada compartimento, área ou unidade depositada, por unidade de tempo."
+  },
+  "7f6516c70d2de1d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Taxa de fotografia e filmagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Taxa de fotografia e filmagem\n\nPela utilização dos aeroportos ou aeródromos para fotografia ou filmagem de natureza comercial é devida uma taxa definida diferenciadamente conforme os locais ou equipamentos para o efeito utilizados, calculada por tempo de operação."
+  },
+  "15affe65ace54bd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Taxa de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Taxa de acesso\n\nA taxa de acesso é devida pelo acesso de público a varandas, terraços, salas ou outras dependências de acesso não condicionado dos aeroportos ou aeródromos e é definida mediante um valor unitário, que poderá variar consoante os locais."
+  },
+  "5a3bb1676dbcebaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Taxa de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Taxa de exploração\n\n1 - A taxa de exploração é devida pelo exercício de quaisquer actividades de natureza comercial ou industrial que não dêem lugar à cobrança de taxas de tráfego ou de assistência em escala (handling) e será definida em função do volume de negócios realizado, por aplicação de um valor percentual.\n\n2 - Aplica-se à liquidação desta taxa o disposto nos n.os 1 a 3 do artigo 12.º"
+  },
+  "5cd2c0c61642527a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Taxa de estacionamento de viaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Taxa de estacionamento de viaturas\n\n1 - Pelo estacionamento de viaturas nas áreas dos aeroportos e aeródromos é devida uma taxa específica definida diferenciadamente por localização, tipo de parques, duração do estacionamento, dia da semana e tipo de viaturas.\n\n2 - Sempre que as circunstâncias o justifiquem, poderão estabelecer-se regimes específicos de estacionamento que possibilitem uma utilização ordenada e vantajosa das áreas de estacionamento dos aeroportos ou aeródromos, sendo que neste caso a taxa a que se refere o presente artigo será fixada através de regimes de avença ou similar, com preços máximos por viatura, dia, semana ou mês."
+  },
+  "3c800e8045e4511b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Taxa de publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Taxa de publicidade\n\nA taxa de publicidade é devida pelas empresas que explorem actividades publicitárias na área de jurisdição dos aeroportos e aeródromos e será definida em função do volume de negócios realizado, por aplicação de um valor percentual."
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "41bcefa74f85312f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Facturação\n\nO valor das taxas previstas neste diploma não poderá ser facturado nem cobrado separadamente aos clientes das entidades sujeitas ao seu pagamento aos aeroportos ou aeródromos."
+  },
+  "cd3f393d33669dd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\nSão revogados o Decreto Regulamentar n.º 24/95, de 12 de Setembro, e o Decreto Regulamentar n.º 38/91, de 29 de Julho."
+  },
+  "263c72cea00348a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposição transitória\n\nOs quantitativos das taxas actualmente praticadas mantêm-se em vigor até à sua substituição, nos termos previstos nas disposições aplicáveis.\n\nVisto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8f9f027fee72722c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "ce5f353bf054a349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "454698a92379f1f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Classificação",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 3.º — Classificação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "b4f076915f01f643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Taxa de aterragem e descolagem",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 4.º — Taxa de aterragem e descolagem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "ac0358f96df11251": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Taxa de estacionamento",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 6.º — Taxa de estacionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "c2d37351c04afca7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Taxa de abrigo",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 7.º — Taxa de abrigo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "ad45799d6ee51971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Taxa de serviço a passageiros",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 8.º — Taxa de serviço a passageiros\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "fea70d0b8390e226": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Taxa de abertura de aeródromo",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 9.º — Taxa de abertura de aeródromo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "4b78249615186ac0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Assistência administrativa em terra e supervisão",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 10.º — Assistência administrativa em terra e supervisão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "7448474c71ea5e2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Infra-estruturas centralizadas",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 11.º — Infra-estruturas centralizadas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "b78494b5f560df31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Liquidação das taxas",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 12.º — Liquidação das taxas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "60ab7740326f186a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Taxa de ocupação",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 13.º — Taxa de ocupação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "ad90ac291d9f741a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Taxa de equipamento",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 14.º — Taxa de equipamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "df1bb2fc06546210": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Taxa de prestação de serviços",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 15.º — Taxa de prestação de serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "3f0c46e4a3633ff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Taxa de consumo",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 16.º — Taxa de consumo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "c9cf28c83572f4ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Taxa de manuseamento de carga",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 17.º — Taxa de manuseamento de carga\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "e3411ba6fed6300f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Taxa de armazenagem",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 18.º — Taxa de armazenagem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "e6ffa817d19c8a9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Taxa de depósito de bagagem",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 19.º — Taxa de depósito de bagagem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "6521e064d3caeb2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Taxa de fotografia e filmagem",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 20.º — Taxa de fotografia e filmagem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "a5487143fe37a557": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Taxa de acesso",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 21.º — Taxa de acesso\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "3a35703c7c7b2cf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Taxa de exploração",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 22.º — Taxa de exploração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "86082859b060cdb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Taxa de estacionamento de viaturas",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 23.º — Taxa de estacionamento de viaturas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "bc87f924f3a718c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Taxa de publicidade",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 24.º — Taxa de publicidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "6c985354b977a9a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Facturação",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 25.º — Facturação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "08c811f29953e7f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 26.º — Revogação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+  },
+  "fff541d86371c09e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Disposição transitória",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04."
+   ],
+   "markdown": "###### Artigo 27.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 24/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2009-489500), publicado em 2009-09-04.\n\nVisto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

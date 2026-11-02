@@ -31,10 +31,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-07-27'
+version_history:
+  file: decreto-legislativo-regional-8-92-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-27'
+    amending: pt:dre:613422:por
+    amending_title: Decreto Legislativo Regional n.º 4/2010/M; Decreto Legislativo Regional n.º 25-A/2013/M
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 12.º
+    - Adita Artigo 9.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/8/1992/04/21/m/dre/pt/html
@@ -60,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    4/2010/M; Decreto Legislativo Regional n.º 25-A/2013/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1992/decreto-legislativo-regional-8-92-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,87 +157,95 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea c) do n.º 1 do artigo 29.º, das alíneas d) e e) do artigo 30.º e do n.º 1 do artigo 31.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, aprova, para valer como lei, o seguinte:
 
-Artigo 1.º - 1 - É adjudicado à sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A., criada pelo [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, em regime de concessão com dispensa da realização de concurso, o direito de promover e executar as obras de ampliação do Aeroporto de Santa Catarina e de desenvolvimento das infra-estruturas aeroportuárias, bem como o planeamento e a exploração do serviço público de apoio à aviação civil, na Região Autónoma da Madeira.
+###### Artigo 1.º
+
+1 - É adjudicado à sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A., criada pelo [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, em regime de concessão com dispensa da realização de concurso, o direito de promover e executar as obras de ampliação do Aeroporto de Santa Catarina e de desenvolvimento das infra-estruturas aeroportuárias, bem como o planeamento e a exploração do serviço público de apoio à aviação civil, na Região Autónoma da Madeira.
 
 2 - A concessão efectua-se sem prejuízo das atribuições reservadas por lei, ou pelo contrato de concessão, às entidades competentes em razão da matéria.
 
 3 - O Governo da Região Autónoma da Madeira transferirá para a concessionária a administração dos bens dominiais e patrimoniais afectos aos serviços concessionados, que deverão constar de anexo ao contrato de concessão e dele fazer parte integrante.
 
-Art. 2.º A concessão referida no artigo anterior efectua-se pelo período de 25 anos.
+###### Artigo 2.º
 
-Art. 3.º A concessão considera-se realizada em regime de serviço público, sendo conferida à ANAM, S. A., a faculdade de subconcessionar, no todo ou em parte, desde que previamente autorizada pela entidade concedente.
+(Revogado.)
 
-Art. 4.º - 1 - Fica o Governo Regional da Madeira autorizada a proceder à formalização do contrato de concessão, cuja minuta deverá ser aprovada pelo Conselho do Governo Regional.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
-2 - O Governo Regional da Madeira fica obrigado a exarar o contrato de concessão, nas condições dos artigos seguintes.
+###### Artigo 3.º
 
-Art. 5.º A exploração do serviço público de apoio à aviação civil é feita em regime de serviço público, através de prestações de serviços aos utentes e utilizadores dos aeroportos da Região Autónoma da Madeira.
+A concessão considera-se realizada em regime de serviço público, sendo conferida à ANAM, S. A., a faculdade de subconcessionar, no todo ou em parte, desde que previamente autorizada pela entidade concedente.
 
-Art. 6.º As obras, de ampliação e de desenvolvimento, dos aeroportos da Região Autónoma da Madeira, objecto da concessão, referidas no artigo 1.º do presente diploma, cuja execução deverá ser iniciada de imediato, de forma continuada e sem prejuízo de outras que venham a revelar-se necessárias ao seu bom funcionamento, compreendem, nomeadamente:
+###### Artigo 4.º
 
-a) A construção das obras de ampliação da segunda fase do Aeroporto de Santa Catarina;
+(Revogado.)
 
-b) A construção da nova aerogare do Aeroporto do Porto Santo;
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
-c) O reforço e reperfilamento da parte antiga da pista, na extensão de 2290 m, e reformulação da sinalização luminosa da pista do Aeroporto do Porto Santo.
+###### Artigo 5.º
 
-Art. 7.º - 1 - Carecem de autorização do Conselho do Governo Regional as deliberações da concessionária que tenham por fim, designadamente:
+A exploração do serviço público de apoio à aviação civil é feita em regime de serviço público, através de prestações de serviços aos utentes e utilizadores dos aeroportos da Região Autónoma da Madeira.
 
-a) A subconcessão, por qualquer título ou prazo, da exploração das áreas concessionadas, a terceiros;
+###### Artigo 6.º
 
-b) A alienação ou operação, por qualquer forma, dos direitos emergentes da concessão ou dos bens móveis e imóveis utilizados para o exercício da respectiva actividade.
+(Revogado.)
 
-2 - Carecem de autorização do membro do Governo Regional responsável pelo sector dos transportes aéreos:
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
-a) O encerramento dos aeroportos da Região Autónoma da Madeira, salvo urgência fundada em motivo de força maior, caso em que deverá o mesmo ser comunicado e justificado de imediato ao membro do Governo Regional responsável pelo sector dos transportes aéreos;
+###### Artigo 7.º
 
-b) O plano anual de admissões de pessoal;
+(Revogado.)
 
-c) A realização de obras e remodelações nas instalações e infra-estruturas aeroportuárias não constantes dos projectos já aprovados e que impliquem alteração na sua estrutura.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
-3 - A concessionária obriga-se:
+###### Artigo 8.º
 
-a) A cumprir todas as disposições previstas na legislação nacional e regional para o exercício das actividades, objecto da concessão, não lhe sendo permitido explorar outras actividades, salvo se autorizadas pela Região Autónoma da Madeira;
+1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.
 
-b) A assegurar o bom funcionamento e desenvolvimento dos aeroportos da Região Autónoma da Madeira, por forma a garantir uma maior eficácia e eficiência dos mesmos;
-
-c) A assumir as posições contratuais da Região Autónoma da Madeira, correspondentes aos investimentos e benfeitorias em curso, sobre os bens afectos à actividade, objecto da concessão;
-
-d) A construir, de imediato, as infra-estruturas aeroportuárias dos aeroportos da Região Autónoma da Madeira constantes do artigo 6.º do presente diploma, bem como a executar as obras que venham a tornar-se necessárias ao seu funcionamento e desenvolvimento e a dotá-las com os equipamentos adequados e necessários ao seu bom funcionamento;
-
-e) A manter em permanente estado de bom funcionamento, conservação e segurança as infra-estruturas e equipamentos e a substituir, sem direito a indemnização, os que se destruírem ou mostrarem inadequados por desgaste físico, avaria ou deterioração;
-
-f) A proceder, de acordo com a legislação em vigor, ao licenciamento do uso privativo dos bens e equipamentos do domínio público da Região nos espaços aeroportuários concessionados, bem como do exercício de quaisquer actividades neles desenvolvidas, assim como praticar todos os actos respeitantes à execução, modificação e extinção das mesmas, o qual nunca poderá exceder o prazo da concessão;
-
-g) Assegurar a prestação dos serviços da navegação aérea.
-
-4 - A concessionária, no âmbito do exercício das actividades concessionadas, poderá:
-
-a) Propor às entidades competentes a criação e definição de servidões ligadas à actividade aeroportuária e às instalações de apoio à aviação civil;
-
-b) Proceder, quando necessário, a expropriações para a realização das obras concessionadas, sendo-lhe, para esse efeito, conferida a qualidade de entidade expropriante, cabendo-lhe ainda, sempre que for caso disso, o realojamento das famílias expropriadas, a reinstalação dos estabelecimentos para comércio, indústria ou exercício de profissão liberal e, quanto a estes últimos, ainda suportar as despesas relativas à nova instalação dos mesmos, bem como dos prejuízos resultantes da paralisação das respectivas actividades, necessária à sua transferência;
-
-c) Solicitar às entidades competentes a emissão de autorizações de embarque.
-
-Art. 8.º - 1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.
-
-2 - Os montantes das taxas referidas ao número anterior serão os aprovados pelo membro do Governo Regional responsável pelo sector dos transportes aéreos, por sua iniciativa ou mediante proposta da concessionária, não podendo a concessionária cobrar taxas diversas das que forem aprovadas.
+2 - (Revogado.)
 
 3 - A concessionária promoverá a cobrança das taxas e demais rendimentos provenientes da prestação do serviço público, bem como a utilização e ocupação de espaços na área dos aeroportos da Região Autónoma da Madeira.
 
-Art. 9.º A concessionária obriga-se a assumir todos os direitos e obrigações da Região Autónoma da Madeira tomados com o pessoal afecto aos serviços concessionados.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
 
-Art. 10.º - 1 - As infra-estruturas aeroportuárias integram o domínio público regional, à semelhança dos instrumentos, instalações e equipamento utilizados pela concessionária, e reverterão para a Região Autónoma da Madeira, finda a concessão pelo decurso do prazo, pela rescisão ou pelo resgate, sem direito a qualquer indemnização, salvo a devida em caso de resgate, e não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
+###### Artigo 9.º
 
-2 - Finda a concessão, a concessionária obriga-se a entregar todos os bens referidos no número anterior, sem dependência de qualquer formalidade e livres de quaisquer ónus ou encargos e em bom estado de funcionamento e conservação.
+A concessionária obriga-se a assumir todos os direitos e obrigações da Região Autónoma da Madeira tomados com o pessoal afecto aos serviços concessionados.
 
-3 - Finda a concessão, a Região Autónoma da Madeira assumirá todos os deveres contraídos pela concessionária, relativos ao pessoal contratado e desde que constante do plano anual aprovado nos termos da alínea b) do n.º 2 do artigo 7.º do presente diploma.
+###### Artigo 9.º-A
 
-Art. 11.º O Governo Regional da Madeira procederá à adaptação do estatuto dos funcionários do quadro de pessoal da Direcção Regional de Aeroportos, de molde a assegurar o bom funcionamento da concessão.
+1 - Sem prejuízo do disposto no artigo anterior, fica a concessionária autorizada a integrar no seu quadro de efectivos, mediante celebração de contrato de trabalho, os trabalhadores que nesta empresa exercem funções em regime de requisição à Direcção Regional dos Aeroportos da Madeira.
 
-Art. 12.º Constituirá, nomeadamente, fundamento para a rescisão do contrato de concessão, com dispensa de pré-aviso, o não cumprimento do disposto no artigo 6.º do presente diploma.
+2 - Os funcionários nas condições previstas no número anterior que pretendam efectuar a sua integração no quadro de efectivos da concessionária mediante celebração de contrato de trabalho deverão requerer a sua exoneração à Direcção dos Aeroportos da Madeira, no prazo de 30 dias úteis a contar da entrada em vigor da presente disposição.
 
-Art. 13.º O presente diploma entra imediatamente em vigor.
+3 - O requerimento de exoneração a apresentar pelos trabalhadores requisitados deverá ser apresentado na Direcção dos Aeroportos da Madeira, que, posteriormente, irá remetê-lo à Secretaria Regional do Turismo e Transportes.
+
+4 - Após a recepção do requerimento de exoneração dos trabalhadores requisitados, a concessionária obriga-se a celebrar contrato de trabalho com os requerentes, remetendo cópia do contrato de trabalho juntamente com o pedido de exoneração à Secretaria Regional do Turismo e Transportes.
+
+5 - O contrato de trabalho celebrado entre a concessionária e os requerentes, nos termos dos números anteriores, produzirá efeitos à data da apresentação do pedido de exoneração da Direcção Regional de Aeroportos da Madeira, salvaguardando a respectiva antiguidade.
+
+6 - Cumprido o disposto no número anterior, será exarado despacho de exoneração com data de produção de efeitos reportada à da apresentação do respectivo requerimento.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 4/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2010-613422), publicado em 2010-04-19.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
+
+###### Artigo 11.º
+
+O Governo Regional da Madeira procederá à adaptação do estatuto dos funcionários do quadro de pessoal da Direcção Regional de Aeroportos, de molde a assegurar o bom funcionamento da concessão.
+
+###### Artigo 12.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 25-A/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691), publicado em 2013-07-26.
+
+###### Artigo 13.º
+
+O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 18 de Março de 1992.
 

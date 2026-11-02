@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-20'
+version_history:
+  file: decreto-lei-384-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-20'
+    amending: pt:dre:621296:por
+    amending_title: Decreto-Lei n.º 16/96; Decreto-Lei n.º 15-A/99; Decreto-Lei n.º 15/2007
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:27:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 16/96; Decreto-Lei
+    n.º 15-A/99; Decreto-Lei n.º 15/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-384-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -232,11 +250,19 @@ O provimento nos quadros de zona pedagógica faz-se por concurso anual, a abrir,
 
 ###### Artigo 5.º — Candidatos
 
-Podem ser opositores ao concurso referido no artigo anterior os candidatos que se encontrem numa das situações a seguir indicadas:
+1 - Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores do ensino público, básico ou secundário, que reúnam, cumulativamente, as seguintes condições:
 
-a) Serem professores já pertencentes a um dos quadros de zona pedagógica;
+a) Serem titulares de habilitação profissional ou própria;
 
-b) Serem docentes contratados dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, colocados nos últimos quatro anos lectivos e que perfaçam, até 31 de Agosto do ano anterior ao da abertura do concurso, quatro ou mais anos completos de serviço docente prestado em anos lectivos consecutivos nos 2.º e 3.º ciclos do ensino básico e do ensino secundário, em grupos de docência ou áreas disciplinares para as quais fossem titulares de habilitação profissional ou própria, e que tenham prestado serviço no ano lectivo anterior, no mínimo de 180 dias, em horários não inferiores a doze horas semanais.
+b) Terem obtido colocação e celebrado contrato administrativo, em estabelecimentos dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, nos últimos dois anos lectivos;
+
+c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;
+
+d) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.
+
+2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.
+
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ###### Artigo 6.º — Ordenação dos candidatos
 
@@ -246,15 +272,17 @@ a) Professores profissionalizados já pertencentes a um dos quadros de zona peda
 
 b) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
 
-c) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação profissional;
+c) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitação profissional;
 
-d) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação própria.
+d) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitações próprias.
 
 2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos são ordenados nos termos previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho.
 
 3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.
 
 4 - Os candidatos incluídos na alíneas c) e d) do n.º 1 podem concorrer, no máximo, a dois grupos de docência.
+
+> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), publicado em 1996-03-08.
 
 ###### Artigo 7.º — Apresentação a concurso
 
@@ -332,23 +360,21 @@ b) No caso de incumprimento da alínea b), a exoneração do quadro de zona peda
 
 ###### Artigo 14.º — Vínculo e remuneração
 
-1 - Os docentes que tenham obtido provimento num lugar do quadro de zona pedagógica ficam vinculados a esse quadro em 1 de Setembro do ano em que nele ingressam, nos termos do disposto no artigo 30.º e na alínea b) do artigo 31.º do ECD, e sem prejuízo do disposto no artigo 12.º do presente diploma, revestindo tal vinculação as seguintes formas:
+(Revogado.)
 
-a) Nomeação definitiva, se forem profissionalizados e titulares das habilitações profissionais definidas para os grupos de docência que vão integrar, sem prejuízo de permanecerem um ano em situação de provimento provisório;
-
-b) Nomeação provisória, se tiverem habilitação própria, convertendo-se em definitiva no início do ano escolar subsequente à conclusão da profissionalização em exercício.
-
-2 - Os docentes a que se refere a alínea a) durante o período em que se encontram em situação de provimento provisório e os docentes a que se refere a alínea b) até à conclusão da profissionalização em exercício são remunerados pelos índices correspondentes à pré-carreira.
+> Revogado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
 ###### Artigo 15.º — Afectação
 
-1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados imediatamente após a 4.ª prioridade.
+1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados entre a quinta e a sexta prioridades definidas no artigo 42.º daquele diploma.
 
 2 - Para efeitos do número anterior, os professores nele referidos indicam as suas preferências, através do preenchimento de um boletim a editar pela Imprensa Nacional-Casa da Moeda, ordenando até 100 escolas da área do CAE a cujos quadros de zona pedagógica se acham vinculados e todos os municípios daquela área.
 
 3 - Quando a candidatura não esgote as escolas existentes nos municípios que integram o CAE, considera-se que o candidato manifesta igual preferência por todas as restantes.
 
 4 - Não sendo possível proceder à afectação nas vagas referidas no n.º 1, será posteriormente afectado nas vagas que forem surgindo, com observância das preferências por ele indicadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), publicado em 1996-03-08.
 
 ###### Artigo 16.º — Apresentação ao serviço
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-12-23'
+version_history:
+  file: decreto-lei-262-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-23'
+    amending: pt:dre:218365:por
+    amending_title: Decreto-Lei n.º 237/2004
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/262/2002/11/25/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:34:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-262-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -275,7 +290,9 @@ j) Apoio social.
 
 6 - O Gabinete de Auditoria Interna e o Centro de Formação são dirigidos por directores de serviços.»
 
-2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, são represtinados os artigos 17.º, 18.º e 25.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, revogados pelo artigo 28.º, n.º 1, do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887).
+2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, são repristinados os artigos 17.º, 18.º, 25.º e 26.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, revogados pelo n.º 1 do artigo 28.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887).
+
+> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 3.º — Alterações ao [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), de 18 de Novembro
 

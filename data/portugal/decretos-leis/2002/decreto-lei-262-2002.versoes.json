@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448153:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-11-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c2786536e17f222",
+    "dead350384db345e",
+    "1c2c55fe07dff7d3",
+    "a457651a428b023f",
+    "f03f81951aa6639c",
+    "4fa0eeee4d05ee51",
+    "2e9fb45070033193",
+    "1804e69978223ab5",
+    "b448ba9b234563c6",
+    "da87fa1a9dd33fe2",
+    "7591bf7eb2b42587",
+    "c51b350303ecc1cd",
+    "3f3654fd384b82d0",
+    "5884ce7adee44d43",
+    "02b8eac1fadf6d2b",
+    "8ebeccdef99ca64f",
+    "a993d9c0d7d1bbcf",
+    "9e43db5e892ee5a5",
+    "bc8a181c6d2e41ce",
+    "1c61c10b4270d8e2"
+   ]
+  },
+  {
+   "date": "2004-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:218365:por",
+     "title": "Decreto-Lei n.º 237/2004",
+     "published": "2004-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/237-2004-218365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "0c2786536e17f222",
+    "dead350384db345e",
+    "7be5f376b7f3c314",
+    "a457651a428b023f",
+    "f03f81951aa6639c",
+    "4fa0eeee4d05ee51",
+    "2e9fb45070033193",
+    "1804e69978223ab5",
+    "b448ba9b234563c6",
+    "da87fa1a9dd33fe2",
+    "7591bf7eb2b42587",
+    "c51b350303ecc1cd",
+    "3f3654fd384b82d0",
+    "5884ce7adee44d43",
+    "02b8eac1fadf6d2b",
+    "8ebeccdef99ca64f",
+    "a993d9c0d7d1bbcf",
+    "9e43db5e892ee5a5",
+    "bc8a181c6d2e41ce",
+    "1c61c10b4270d8e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c2786536e17f222": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Novembro\n\nO [Decreto-Lei n.º 120/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035), de 3 de Maio, que aprovou a Lei Orgânica do XV Governo Constitucional, determinou a extinção de organismos cuja utilidade não se justificasse, reconduzindo as respectivas tarefas a outros serviços da Administração que prosseguissem fins idênticos.\n\nO [Decreto-Lei n.º 376/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1999-558205), de 21 de Setembro, criou a Administração-Geral Tributária no âmbito do Ministério das Finanças. O referido diploma legal atribuiu àquela entidade funções de coordenação, controlo e planeamento estratégico, bem como a gestão das tarefas de interesse comum a três direcções-gerais: a Direcção-Geral dos Impostos, a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e, ainda, a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros.\n\nApresentava-se, pois, como uma organização de cúpula daqueles serviços, tendo ficado directamente responsável por quatro estruturas comuns da administração tributária, concretamente, o Serviço de Auditoria Interna, o Centro de Estudos e Apoio às Políticas Tributárias, o Instituto de Formação Tributária e o Serviço de Planeamento Estratégico de Sistemas de Informação, que, antes, constituíam departamentos próprios das referidas Direcções-Gerais.\n\nTodavia, a experiência do funcionamento da Administração-Geral Tributária não correspondeu aos objectivos que presidiram à sua criação, nomeadamente nas funções de coordenação e planeamento das direcções-gerais tributárias.\n\nA [Lei n.º 16-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), de 31 de Maio, que aprovou a primeira alteração ao Orçamento do Estado para 2002, determinou a extinção da Administração-Geral Tributária, a qual se concretiza com o presente diploma, pelo que os departamentos que tinham ficado sob a sua égide voltam a ser reposicionados na esfera das direcções-gerais a que anteriormente pertenciam.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "dead350384db345e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o processo de extinção da Administração-Geral Tributária (AGT), criada pelo [Decreto-Lei n.º 376/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1999-558205), de 21 de Setembro, bem como a transferência das respectivas competências e recursos para outros serviços ou organismos públicos."
+  },
+  "1c2c55fe07dff7d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alterações ao [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações ao [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro\n\n1 - Os artigos 6.º e 9.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - O CAF é constituído pelo director-geral, que será o seu presidente, pelos subdirectores-gerais e equiparados e tem competências decisórias e consultivas.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n4 - ...\n\n5 - Pelo exercício de funções como membros deste Conselho, será atribuída ao dirigente máximo da DGCI e aos subdirectores-gerais, respectivamente, uma remuneração mensal de 45% e de 25% do valor padrão fixado para o cargo de director-geral.\n\n6 - (Anterior n.º 5.)\n\nArtigo 9.º\n\n[...]\n\n1 - Os serviços centrais integram direcções de serviços nas seguintes áreas:\n\na) Gestão tributária, para o desempenho das actividades respeitantes à concepção do quadro normativo e aos procedimentos técnicos relacionados com os diferentes impostos e outros tributos administrados pela DGCI, com a liquidação dos mesmos e com a informação e apoio aos contribuintes;\n\nb) Cobrança, para o desempenho das actividades relacionadas com a coordenação, controlo e arrecadação dos impostos e outros tributos administrados pela DGCI, bem como os respectivos reembolsos, com a contabilidade das receitas, com as ligações com a tesouraria central do Estado, entidades intervenientes na cobrança e outras cujas receitas próprias sejam por aquela cobradas, incumbindo-lhe ainda gerir o registo de contribuintes;\n\nc) Inspecção tributária, para o desempenho das actividades que têm por objectivo a investigação das irregularidades fiscais e a prevenção e combate à fraude e evasão fiscais;\n\nd) Justiça tributária, para o desempenho das actividades relacionadas com a conflitualidade fiscal, quer seja suscitada pelos contribuintes, quer consubstancie reacção ao cumprimento das obrigações tributárias.\n\n2 - Os serviços centrais compreendem, ainda, unidades de apoio para as seguintes áreas:\n\na) Investigação tributária;\n\nb) Consultadoria jurídica e contencioso;\n\nc) Gestão dos recursos humanos;\n\nd) Gestão dos recursos financeiros;\n\ne) Planeamento;\n\nf) Auditoria interna;\n\ng) Relações internacionais;\n\nh) Relações públicas;\n\ni) Qualificação dos recursos humanos;\n\nj) Apoio social.\n\n3 - As unidades de apoio referidas nas alíneas b) a i) do número anterior podem possuir o nível de direcção de serviços e a prevista na alínea j) constitui um núcleo.\n\n4 - As áreas a que se referem as alíneas a), f) e i) do n.º 2 são prosseguidas, respectivamente, pelo Centro de Estudos Fiscais, pelo Gabinete de Auditoria Interna e pelo Centro de Formação.\n\n5 - O Centro de Estudos Fiscais é dirigido por um director, equiparado, para efeitos de regime de provimento e remuneratório, a subdirector-geral, sendo nomeado de entre investigadores tributários da DGCI ou, na sua falta, de entre assessores da mesma carreira.\n\n6 - O Gabinete de Auditoria Interna e o Centro de Formação são dirigidos por directores de serviços.»\n\n2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, são represtinados os artigos 17.º, 18.º e 25.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, revogados pelo artigo 28.º, n.º 1, do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887)."
+  },
+  "a457651a428b023f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Alterações ao [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), de 18 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações ao [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), de 18 de Novembro\n\nOs artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 357/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1998-229310), de 18 de Novembro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nDirecção de Finanças de Lisboa\n\n1 - É criada a Direcção de Finanças de Lisboa, cuja competência territorial abrange o respectivo distrito.\n\n2 - Os funcionários e agentes colocados nas 1.ª e 2.ª Direcções de Finanças de Lisboa, que não pertençam ao grupo de pessoal dirigente, transitam para lugares do quadro da direcção de finanças criada pelo presente diploma.\n\n3 - São extintas a 1.ª e a 2.ª Direcções de Finanças de Lisboa, cessando as comissões de serviço dos respectivos directores e demais pessoal dirigente, sem prejuízo de se manterem as comissões de serviço dos directores-adjuntos, directores de serviço e chefes de divisão para os efeitos previstos na alínea b) do n.º 1 do artigo 20.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.\n\nArtigo 2.º\n\n[...]\n\nAs competências da Direcção de Finanças de Lisboa são as fixadas no n.º 1 do artigo 32.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro.\n\nArtigo 4.º\n\nEstrutura orgânica\n\n1 - A Direcção de Finanças de Lisboa e a Direcção de Finanças do Porto dispõem de serviços operativos e de serviços de apoio técnico e administrativo.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n3 - ...\n\na) ...\n\nb) ...»"
+  },
+  "f03f81951aa6639c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Alteração ao [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), de 16 de Setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), de 16 de Setembro\n\n1 - O artigo 10.º do [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), de 16 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 10.º\n\n[...]\n\n1 - Os serviços centrais integram direcções de serviços nas seguintes áreas:\n\na) Gestão aduaneira, para o desempenho de actividades relacionadas com o quadro normativo e os procedimentos técnicos relativos às trocas externas de mercadorias e à aplicação de medidas de carácter pautal e outras medidas de política comercial da União Europeia, bem como relacionadas com o licenciamento do comércio externo a que se refere a alínea l) do n.º 1 do artigo 2.º;\n\nb) Gestão dos impostos especiais sobre o consumo, para o desempenho das actividades relacionadas com a concepção do quadro normativo e dos procedimentos técnicos relativos aos impostos especiais sobre o consumo e outros impostos indirectos cometidos à DGAIEC;\n\nc) Inspecção e fiscalização aduaneira, para o desempenho das actividades que têm por objectivo a investigação das irregularidades aduaneiras e fiscais, a prevenção e repressão da fraude aduaneira e fiscal e o combate contra o tráfico de estupefacientes e das substâncias psicotrópicas.\n\n2 - Os serviços centrais compreendem, ainda, unidades de apoio para as seguintes áreas:\n\na) Gestão e formação de recursos humanos;\n\nb) Gestão de recursos financeiros e materiais;\n\nc) Consultadoria jurídica e do contencioso;\n\nd) Planeamento e organização;\n\ne) Relações internacionais;\n\nf) Documentação e relações públicas;\n\ng) Laboratório;\n\nh) Auditoria interna;\n\ni) Estudos aduaneiros.\n\n3 - As unidades de apoio referidas nas alíneas a) a g) do n.º 2 podem possuir o nível de direcção de serviços e as previstas nas alíneas h) e i) do mesmo número constituem núcleos.\n\n4 - Os núcleos previstos no número anterior dependem directamente do director-geral e são coordenados por técnicos superiores aduaneiros, no mínimo com a categoria de reverificador assessor, designados por despacho do director-geral pelo período de um ano, renovável, tendo direito à remuneração prevista no n.º 2 do artigo 22.º do presente diploma.»\n\n2 - As alterações a introduzir à estrutura orgânica da DGAIEC e às respectivas competências, resultantes do presente artigo, são definidas por portaria do Ministro das Finanças."
+  },
+  "4fa0eeee4d05ee51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Alteração ao [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), de 11 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), de 11 de Março\n\n1 - O artigo 6.º do [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), de 11 de Março, passa a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\n3 - ...\n\na) ...\n\nb) A Divisão de Qualidade e Auditoria (DQA);\n\nc) ...\n\n4 - ...\n\na) ...\n\nb) ...\n\nc) A Divisão de Formação e Documentação (DFD);\n\nd) ...»\n\n2 - São represtinados os artigos 10.º e 13.º do [Decreto-Lei n.º 51/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1998-218950), de 11 de Março."
+  },
+  "2e9fb45070033193": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transição de pessoal\n\n1 - Os funcionários a exercerem funções na AGT à data da sua extinção regressam aos respectivos serviços de origem na categoria, escalão e índice a que têm direito.\n\n2 - O pessoal que se encontre a prestar serviço no Centro de Estudos Fiscais e Apoio às Políticas Tributárias e no Serviço de Auditoria interna é afecto, respectivamente, ao Centro de Estudos Fiscais e ao Gabinete de Auditoria Interna da DGCI, na situação jurídica que actualmente detém, sendo candidato obrigatório ao primeiro concurso externo que venha a realizar-se para ingresso na carreira que integre as funções que desempenha.\n\n3 - A situação transitória do pessoal a que se refere o número anterior cessa com a nomeação dos candidatos aprovados para os quadros de pessoal do Centro de Estudos Fiscais ou do Gabinete de Auditoria Interna da DGCI, ou com a sua exclusão ou não candidatura ao referido concurso.\n\n4 - Caduca o contrato individual de trabalho do restante pessoal contratado com este vínculo jurídico."
+  },
+  "1804e69978223ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Património da AGT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Património da AGT\n\n1 - Os imóveis e veículos automóveis que integram o património autónomo da AGT revertem para o domínio privado do Estado, para posterior afectação pelo Ministério das Finanças, através da Direcção-Geral do Património.\n\n2 - Os bens imóveis e veículos automóveis afectos à AGT são devolvidos ao Ministério das Finanças para posterior reafectação pela Direcção-Geral do Património.\n\n3 - Os equipamentos que transitaram das direcções-gerais para a AGT por força do artigo 30.º do [Decreto-Lei n.º 376/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1999-558205), de 21 de Setembro, e os que, adquiridos pela AGT, visaram substituir aqueles, transitam para as direcções-gerais de onde precederam.\n\n4 - O presente diploma constitui título bastante para efeitos de registo na conservatória de registo de automóveis."
+  },
+  "b448ba9b234563c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Contratos e compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contratos e compromissos\n\n1 - Os contratos de manutenção, assistência, limpeza e arrendamento, bem como outras despesas inerentes à utilização das instalações, são assumidos pelas direcções-gerais a que sejam afectos os bens ou instalações, ainda que provisoriamente utilizados pela AGT, até à data da sua extinção.\n\n2 - O presidente do conselho directivo da AGT remeterá aos respectivos serviços, no primeiro dia do mês seguinte ao da publicação do presente diploma, os contratos inerentes às situações referidas no número anterior.\n\n3 - O acompanhamento do processo de candidatura ao Programa Operacional de Emprego, Formação e Desenvolvimento Social do QCA III, apresentado pela AGT, bem como as responsabilidades e direitos daí decorrentes serão assumidos pela DGCI."
+  },
+  "da87fa1a9dd33fe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Encargos\n\nOs encargos que não possam ser pagos no prazo de 45 dias após a publicação do presente diploma são assumidos pela Direcção-Geral dos Impostos."
+  },
+  "7591bf7eb2b42587": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Ajustamentos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ajustamentos orçamentais\n\nOs saldos apurados à data da extinção revertem para a dotação provisional do Ministério das Finanças."
+  },
+  "c51b350303ecc1cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho directivo\n\n1 - Os membros do conselho directivo que não exercem funções por inerência continuam a assegurar o funcionamento da AGT até à sua extinção, ficando em regime de gestão corrente a partir da data da entrada em vigor do presente diploma até à data da efectiva extinção.\n\n2 - Os membros do conselho directivo que exercem funções por inerência cessam funções a partir da data da entrada em vigor do presente diploma."
+  },
+  "3f3654fd384b82d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autorização de despesas\n\nO presidente do conselho directivo pode autorizar as despesas que se revelem necessárias durante o processo de extinção da AGT."
+  },
+  "5884ce7adee44d43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Arquivo da AGT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Arquivo da AGT\n\n1 - Os arquivos da AGT que digam respeito aos serviços cujos objectivos e competências são assumidos por outros serviços e organismos são transferidos para estes.\n\n2 - Os restantes arquivos da AGT ficam à guarda do arquivo da Direcção-Geral dos Impostos."
+  },
+  "02b8eac1fadf6d2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Apresentação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação de contas\n\n1 - As contas referentes à extinção da AGT são remetidas ao Ministro das Finanças e ao Tribunal de Contas no prazo de 90 dias a contar da publicação do presente diploma.\n\n2 - O encerramento das contas a que se refere o número anterior deve reportar-se ao 45.º dia posterior à publicação do presente diploma.\n\n3 - O pessoal estritamente necessário ao processo de extinção da AGT continua a exercer funções neste organismo até à sua efectiva extinção."
+  },
+  "8ebeccdef99ca64f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Quadros de pessoal\n\nConsideram-se automaticamente criados nos quadros de pessoal da DGCI, da DGAIEC e da DGITA os lugares de pessoal dirigente decorrentes das alterações introduzidas pelo presente diploma à orgânica daquelas direcções-gerais, mantendo-se as actuais comissões de serviço do pessoal dirigente nomeado para as unidades orgânicas que as antecederam."
+  },
+  "a993d9c0d7d1bbcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Extinção da AGT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção da AGT\n\nA AGT extingue-se no dia subsequente ao da entrega das contas a que se refere o n.º 1 do artigo 14.º, devendo ser publicado o respectivo anúncio no Diário da República, 2.ª série."
+  },
+  "9e43db5e892ee5a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cessação das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação das comissões de serviço\n\nSão dadas por findas as comissões de serviço dos subdirectores-gerais da DGCI, da DGAIEC e da DGITA, mantendo-se os actuais titulares no exercício de funções em regime de gestão corrente enquanto não se proceder a novas nomeações."
+  },
+  "bc8a181c6d2e41ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados o artigo 11.º do [Decreto-Lei n.º 360/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1999-570293), de 16 de Setembro, na redacção dada pelo [Decreto-Lei n.º 315/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), de 10 de Dezembro, o artigo 10.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, e o [Decreto-Lei n.º 376/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1999-558205), de 21 de Setembro."
+  },
+  "1c61c10b4270d8e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.\n\nPromulgado em 13 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Novembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "7be5f376b7f3c314": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alterações ao [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro",
+   "in_force_from": "2004-12-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
+   ],
+   "markdown": "###### Artigo 2.º — Alterações ao [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro\n\n1 - Os artigos 6.º e 9.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 6.º\n\n[...]\n\n1 - O CAF é constituído pelo director-geral, que será o seu presidente, pelos subdirectores-gerais e equiparados e tem competências decisórias e consultivas.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n4 - ...\n\n5 - Pelo exercício de funções como membros deste Conselho, será atribuída ao dirigente máximo da DGCI e aos subdirectores-gerais, respectivamente, uma remuneração mensal de 45% e de 25% do valor padrão fixado para o cargo de director-geral.\n\n6 - (Anterior n.º 5.)\n\nArtigo 9.º\n\n[...]\n\n1 - Os serviços centrais integram direcções de serviços nas seguintes áreas:\n\na) Gestão tributária, para o desempenho das actividades respeitantes à concepção do quadro normativo e aos procedimentos técnicos relacionados com os diferentes impostos e outros tributos administrados pela DGCI, com a liquidação dos mesmos e com a informação e apoio aos contribuintes;\n\nb) Cobrança, para o desempenho das actividades relacionadas com a coordenação, controlo e arrecadação dos impostos e outros tributos administrados pela DGCI, bem como os respectivos reembolsos, com a contabilidade das receitas, com as ligações com a tesouraria central do Estado, entidades intervenientes na cobrança e outras cujas receitas próprias sejam por aquela cobradas, incumbindo-lhe ainda gerir o registo de contribuintes;\n\nc) Inspecção tributária, para o desempenho das actividades que têm por objectivo a investigação das irregularidades fiscais e a prevenção e combate à fraude e evasão fiscais;\n\nd) Justiça tributária, para o desempenho das actividades relacionadas com a conflitualidade fiscal, quer seja suscitada pelos contribuintes, quer consubstancie reacção ao cumprimento das obrigações tributárias.\n\n2 - Os serviços centrais compreendem, ainda, unidades de apoio para as seguintes áreas:\n\na) Investigação tributária;\n\nb) Consultadoria jurídica e contencioso;\n\nc) Gestão dos recursos humanos;\n\nd) Gestão dos recursos financeiros;\n\ne) Planeamento;\n\nf) Auditoria interna;\n\ng) Relações internacionais;\n\nh) Relações públicas;\n\ni) Qualificação dos recursos humanos;\n\nj) Apoio social.\n\n3 - As unidades de apoio referidas nas alíneas b) a i) do número anterior podem possuir o nível de direcção de serviços e a prevista na alínea j) constitui um núcleo.\n\n4 - As áreas a que se referem as alíneas a), f) e i) do n.º 2 são prosseguidas, respectivamente, pelo Centro de Estudos Fiscais, pelo Gabinete de Auditoria Interna e pelo Centro de Formação.\n\n5 - O Centro de Estudos Fiscais é dirigido por um director, equiparado, para efeitos de regime de provimento e remuneratório, a subdirector-geral, sendo nomeado de entre investigadores tributários da DGCI ou, na sua falta, de entre assessores da mesma carreira.\n\n6 - O Gabinete de Auditoria Interna e o Centro de Formação são dirigidos por directores de serviços.»\n\n2 - Enquanto não for publicada a portaria a que se refere o artigo 24.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887), de 18 de Setembro, são repristinados os artigos 17.º, 18.º, 25.º e 26.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro, revogados pelo n.º 1 do artigo 28.º do [Decreto-Lei n.º 366/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1999-569887).\n\n> Alterado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
+  }
+ }
+}

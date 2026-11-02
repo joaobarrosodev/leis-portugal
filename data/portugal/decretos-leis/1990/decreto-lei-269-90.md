@@ -28,10 +28,34 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-04-06'
+version_history:
+  file: decreto-lei-269-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-06'
+    amending: pt:dre:304772:por
+    amending_title: Decreto-Lei n.º 328/91; Decreto-Lei n.º 160/94; Decreto-Lei n.º 76/2009
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Adita Artigo 17.º-A
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:01:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 328/91; Decreto-Lei
+    n.º 160/94; Decreto-Lei n.º 76/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-269-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,9 +177,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 1 - É criado o Fundo de Pensões dos Militares das Forças Armadas, adiante designado abreviadamente por Fundo.
 
-2 - O fundo tem como finalidades:
+2 - O Fundo tem como finalidades:
 
-a) Assegurar o pagamento dos complementos de pensão a que se refere o artigo 13.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro;
+a) Assegurar o pagamento do complemento de pensão a que se refere o artigo 13.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, o qual é de montante equivalente à diferença entre a pensão de reforma a que um militar abrangido por aquele diploma teria direito aos 70 anos de idade, líquida do desconto obrigatório para a Caixa Geral de Aposentações, com a limitação de aumento por esta efectuada e a pensão de reforma ilíquida que aufere;
 
 b) Assegurar o pagamento de complementos de pensões de reforma aos reformados militares dos quadros permanentes.
 
@@ -163,6 +188,8 @@ b) Assegurar o pagamento de complementos de pensões de reforma aos reformados m
 4 - O património do Fundo responde exclusivamente pelo cumprimento do plano de pagamentos dos complementos de pensão, e nunca por quaisquer outras obrigações, sendo a satisfação do referido plano exclusivamente garantida pelo mesmo património.
 
 5 - O Fundo tem duração ilimitada.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 2.º — Associado
 
@@ -174,9 +201,17 @@ O Fundo tem como único associado o Ministério da Defesa Nacional, sendo a cont
 
 2 - Os militares que pretendam não ser participantes do Fundo deverão declará-lo expressamente.
 
-3 - A declaração prevista no final do número anterior deverá ser entregue até 30 de Setembro de 1990 no ramo respectivo, no caso dos militares no activo ou reserva, e na Caixa Geral de Aposentações, no caso dos reformados militares.
+3 - A declaração prevista no final do número anterior, assim como a declaração de readesão ao Fundo de Pensões, no caso dos militares no activo ou na reserva, deverão ser entregues no ramo até 30 dias após a data de publicação do presente diploma ou 30 dias após o ingresso nos quadros permanentes.
 
-4 - Em casos fundamentados e devidamente autorizados pelo chefe do estado-maior do ramo, a declaração poderá ser entregue dentro dos 60 dias subsequentes à data prevista no número anterior.
+4 - Após o termo do prazo fixado no número anterior, um militar dos quadros permanentes só poderá desvincular-se do Fundo até aos 50 anos de idade.
+
+5 - O militar dos quadros permanentes que se tenha desvinculado só poderá readerir ao Fundo até aos 50 anos de idade.
+
+6 - O abate aos quadros permanentes das Forças Armadas implica a desvinculação e o competente resgate, respectivamente, nos termos do Estatuto dos Militares das Forças Armadas e do presente diploma.
+
+7 - Se a situação referida no número anterior ocorrer após os 50 anos de idade, poderá efectuar-se o resgate das contribuições mediante a aquisição, pela entidade gestora, a favor e em nome do participante, de unidades de participação de fundos de poupança PPR ou seguros de vida PPR.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 4.º — Beneficiários
 
@@ -198,13 +233,21 @@ b) Em 1993 e anos seguintes, subida, em Janeiro de cada ano, da percentagem mín
 
 3 - Para efeitos dos cálculos previstos nos n.os 1 e 2, o valor de referência é o da pensão calculada em cada momento pela Caixa Geral de Aposentações, integrando o tempo de serviço militar do beneficiário, até ao limite de 36 anos, a remuneração base do respectivo posto e escalão, bem como todos os suplementos que a lei determine, que, para efeitos de reforma, assumem a característica de remuneração principal, nos termos da alínea a) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Novembro.
 
-4 - Para efeitos de determinação do escalão dos reformados militares na situação de reforma à data de 30 de Junho de 1990, será considerado o tempo de permanência no activo no último posto, desde a promoção até à passagem à reserva.
+4 - Exceptuam-se do valor de referência todas as gratificações, suplementos ou outros abonos que, embora ao abrigo da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação, sejam auferidos por desempenho de cargos não integrados na estrutura das Forças Armadas ou funções não previstas no Estatuto dos Militares das Forças Armadas.
+
+5 - Para efeitos de determinação do escalão dos reformados militares na situação de reforma à data de 30 de Junho de 1990, será considerado o tempo de permanência no activo no último posto, desde a promoção até à passagem à reserva.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 6.º — Património inicial
 
-1 - O valor inicial do Fundo será constituído por receita originada da alienação de património do Estado afecto ao Ministério da Defesa Nacional.
+1 - O valor inicial do Fundo será constituído principalmente por receita originada da alienação do património do Estado afecto ao Ministério da Defesa Nacional, podendo ainda integrar outras receitas, desde que não provenham de transferências directas do Orçamento do Estado, excepto as previstas na alínea e) do artigo seguinte.
 
-2 - Os Ministros da Defesa Nacional e das Finanças aprovarão, em portaria a publicar até 30 de Setembro de 1990, o plano financeiro, técnico e actuarial, o valor inicial do Fundo e a forma da sua realização, bem como os respectivos parâmetros de enquadramento, sendo a aprovação daquele plano precedida de parecer do Instituto de Seguros de Portugal.
+2 - Os Ministros da Defesa Nacional e das Finanças aprovarão, em portaria a publicar no prazo de 30 dias a partir da data da publicação do presente diploma, o plano financeiro, técnico e actuarial, o valor inicial do Fundo e a forma da sua realização, bem como os respectivos parâmetros de enquadramento, sendo a aprovação daquele plano precedida de parecer do Instituto de Seguros de Portugal.
+
+3 - Atentas as características deste Fundo, não se aplicam à forma de realização do seu valor inicial os princípios consignados no [Decreto-Lei n.º 415/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1991-341582), de 25 de Outubro.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 7.º — Receitas
 
@@ -218,7 +261,11 @@ c) Os rendimentos das aplicações que integram o património do Fundo;
 
 d) O produto da alienação e reembolso de valores do património do Fundo;
 
-e) Outras receitas.
+e) As transferências do Orçamento do Estado, até ao limite de 75% do montante correspondente ao valor que vier a ser atribuído aos bens imóveis afectos ao Ministério da Defesa Nacional e que, com a prévia concordância deste, sejam reafectados a outros departamentos do Estado;
+
+f) Outras receitas.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 8.º — Contribuição mensal
 
@@ -298,9 +345,9 @@ e) Receber dos ramos, por conta e ordem da entidade gestora, as contribuições 
 
 1 - As aplicações dos bens que integram o património do Fundo serão efectuadas pela entidade gestora segundo uma política de segurança, maior rendibilidade, diversificação e liquidez.
 
-2 - O activo do Fundo será aplicado nos termos do [Decreto-Lei n.º 396/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1986-221483) e da legislação subsequente, com as excepções a seguir indicadas.
+2 - O activo do Fundo será aplicado nos termos do [Decreto-Lei n.º 415/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1991-341582), de 25 de Outubro, e da legislação subsequente, com as excepções a seguir indicadas.
 
-3 - O activo do Fundo poderá ainda ser aplicado, até ao máximo de 20%, em empréstimos aos contribuintes exclusivamente para financiamento de aquisição ou construção de habitação própria, com garantia da primeira hipoteca do imóvel objecto do crédito, devendo a taxa de juro aplicável ser 85% da taxa média de operações activas indicadas pela Associação Portuguesa de Bancos no semestre imediatamente anterior e sendo a receita desta aplicação exclusivamente afecta ao património do Fundo.
+3 - O activo do Fundo poderá ainda ser aplicado, até ao máximo de 20%, em empréstimos aos contribuintes exclusivamente para financiamento de aquisição, construção ou beneficiação de habitação própria, com garantia da primeira hipoteca do imóvel objecto do crédito, devendo a taxa de juro aplicável ser igual à taxa do regime geral que a Caixa Geral de Depósitos aplicar no momento menos 0,25%, sendo a receita desta aplicação exclusivamente afecta ao património do Fundo.
 
 4 - A aplicação em títulos emitidos por uma mesma sociedade não poderá ultrapassar 20% do seu capital e reservas.
 
@@ -316,9 +363,11 @@ d) Títulos emitidos ou detidos por empresas de cujos órgãos de fiscalização
 
 e) Imóveis utilizados pelo associado ou por participantes, ou por sociedades por estes dominadas.
 
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
+
 ###### Artigo 15.º — Acompanhamento
 
-1 - A ligação entre o Ministro da Defesa Nacional e a entidade gestora competirá a uma comissão de acompanhamento constituída por três membros a nomear por despacho do Ministro da Defesa Nacional.
+1 - A ligação entre o Ministério da Defesa Nacional e a entidade gestora compete a uma comissão de acompanhamento constituída por cinco membros a nomear por despacho do Ministro da Defesa Nacional, sendo dois propostos pelo Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior.
 
 2 - À comissão compete informar e dar parecer ao Ministério da Defesa Nacional sobre:
 
@@ -332,21 +381,49 @@ d) O plano de complementos de pensões a pagar anualmente aos beneficiários;
 
 e) A orientação da política de aplicações do Fundo.
 
+3 - Pelo exercício das funções referidas no n.º 2 não é devida qualquer remuneração.
+
+> Alterado pelo/a [Decreto-Lei n.º 76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), publicado em 2009-04-01.
+
 ###### Artigo 16.º — Data de referência de inscrição
 
 1 - A data de referência de inscrição dos participantes do Fundo é 1 de Outubro de 1990 para os actuais militares dos quadros permanentes subscritores da Caixa Geral de Aposentações e reformados militares.
 
 2 - Para os militares que venham a ingressar nos quadros permanentes posteriormente à data mencionada no n.º 1 a data de referência é a da inscrição na Caixa Geral de Aposentações.
 
-3 - A posterior inscrição de militares que, tendo inicialmente declarado não querer participar no Fundo, tenham mais tarde revisto a sua posição terá sempre como referência as datas previstas nos n.os 1 ou 2, consoante o caso.
+3 - Para os militares referidos no número anterior cuja data de ingresso nos quadros permanentes seja posterior à data de inscrição na Caixa Geral de Aposentações, a data de referência a considerar é a data de ingresso nos quadros permanentes.
+
+4 - Os militares dos quadros permanentes referidos no número anterior podem requerer que a data de referência seja a data de inscrição na Caixa Geral de Aposentações na condição de as contribuições correspondentes ao período entre a data de inscrição naquela Caixa e a data de ingresso nos quadros permanentes serem pagas nos termos do disposto no artigo seguinte, cabendo à entidade gestora calcular o capital em dívida e estabelecer o respectivo plano de amortização.
+
+5 - A posterior inscrição de militares que, tendo inicialmente declarado não querer participar no Fundo, tenham mais tarde revisto a sua posição terá sempre como referência as datas previstas nos números anteriores, consoante o caso.
+
+> Alterado pelo/a [Decreto-Lei n.º 328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), publicado em 1991-09-05.
 
 ###### Artigo 17.º — Contribuições em atraso
 
-Para o cálculo das contribuições em dívida decorrentes da situação prevista no n.º 3 do artigo anterior, proceder-se-á à sua actualização pela taxa média de operações activas indicada pela Associação Portuguesa de Bancos, multiplicada pelo factor 1,15.
+O cálculo das contribuições em atraso tem como base o último vencimento, acrescido de suplemento da condição militar, processado ao militar que se encontre em dívida para com o Fundo.
+
+> Alterado pelo/a [Decreto-Lei n.º 328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), publicado em 1991-09-05.
+
+###### Artigo 17.º-A — Resgate
+
+1 - Os militares participantes no Fundo de Pensões dos Militares das Forças Armadas que pretendam desvincular-se do Fundo têm direito a resgatar as suas contribuições nas condições fixadas nos números seguintes.
+
+2 - Os militares referidos no número anterior podem resgatar as contribuições efectuadas nas seguintes condições, até um ano após a verificação destas:
+
+a) Abandono da carreira militar;
+
+b) Desistência de participação no Fundo de Pensões dos Militares das Forças Armadas.
+
+3 - O valor de resgate será igual ao valor das contribuições actualizadas, para cada ano, pela taxa de variação percentual do índice 100 da grelha salarial do corpo especial dos militares, multiplicado pelo factor 0,85.
+
+> Aditado pelo/a [Decreto-Lei n.º 328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), publicado em 1991-09-05.
 
 ###### Artigo 18.º — Legislação subsidiária
 
-Em tudo o que não contrarie o presente diploma aplica-se o [Decreto-Lei n.º 396/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1986-221483) e legislação subsequente que regule a mesma matéria.
+Em tudo o que não contrarie o presente diploma, aplica-se o [Decreto-Lei n.º 415/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1991-341582), de 25 de Outubro, e legislação subsequente que regule a mesma matéria.
+
+> Alterado pelo/a [Decreto-Lei n.º 160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), publicado em 1994-06-04.
 
 ###### Artigo 19.º
 

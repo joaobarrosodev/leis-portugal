@@ -1,0 +1,1247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:549019:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f3b199bb0a443965",
+    "7f6fda6e4e4c0804",
+    "8335cdae2d365419",
+    "44a7c43f5bdf4a70",
+    "d5be5806a10c303c",
+    "396cfe66f6d1ddf2",
+    "ed4b613e0a4630a2",
+    "db4888e3508a42fb",
+    "c20c6015bada86d0",
+    "a10d35323b062931",
+    "d5990ae49e44f2a5",
+    "8d2286f57a9c015f",
+    "89bf828f06e24a78",
+    "fc467748a8ccc8b2",
+    "6d61e60e25b0b325",
+    "8637384b34c721f4",
+    "0a74dd7c7dee7ce0",
+    "9c591c73bc81cb81",
+    "d7bb94e023f0ce4a",
+    "35d2f1e6aed1288d",
+    "b04e6a8bcbedafbe",
+    "2b425bd24fc5055c",
+    "a97f82428e95ce39",
+    "a9b1c690bdd2a589",
+    "a07ce3993a0a272b",
+    "44d0474fcaabd9ec",
+    "3f3e4a49f7e94632",
+    "36c58813f6d42c00",
+    "0a19eb8c2e22ae15",
+    "85e57184f72ef7e1",
+    "0ee6092e66af2ba3",
+    "37280fca963ac5b6",
+    "9ee9aecab94357b3",
+    "921ea92412a26ad1",
+    "b94b09930cdfcbd6",
+    "4a89843500ff5b35",
+    "d57cd63f486ed886",
+    "afe081aa3e2ce99b",
+    "db20de9858bd9979",
+    "958af6d8540493b4",
+    "033e50c31f8db0f4",
+    "d19f6c848783ab9a",
+    "e93633d0801a1e08",
+    "260a9f4ecd4b5740",
+    "2ce73d85a3aa74a8",
+    "7bbafe2175b03ec6",
+    "e72631fc77641d8b",
+    "c73e0e0f62778e83",
+    "5ec1ebe48dcffafc",
+    "22debb1095fabf20",
+    "b93774541bc67f92",
+    "f03fc252a0f74060",
+    "d9b7952c08894cb7",
+    "3f63effa4eda86d5",
+    "d3ab2dabffa5de22",
+    "cedd9ed082858603",
+    "f943b519d1ca0b16",
+    "da4d62f9871f1406",
+    "cfa6de1a95a504d2",
+    "9d14a6cd40b07e77"
+   ]
+  },
+  {
+   "date": "1998-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468801:por",
+     "title": "Decreto-Lei n.º 82/97",
+     "published": "1997-04-09",
+     "dre_path": "/dr/detalhe/decreto-lei/82-1997-468801"
+    },
+    {
+     "id": "pt:dre:438072:por",
+     "title": "Decreto-Lei n.º 249/98",
+     "published": "1998-08-11",
+     "dre_path": "/dr/detalhe/decreto-lei/249-1998-438072"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Adita Artigo 35.º-A"
+   ],
+   "fragments": [
+    "f3b199bb0a443965",
+    "7f6fda6e4e4c0804",
+    "bf0aabd390413b58",
+    "1967240b3d5f7e45",
+    "b75316e4533c5446",
+    "396cfe66f6d1ddf2",
+    "e5acc3572e638eec",
+    "e4cac0766fd0f8a1",
+    "4decb6c9e1e47fc7",
+    "f7d18861bd80ed0a",
+    "c2c397faeb4b4550",
+    "01980787f7b1a096",
+    "629f6b162cd47258",
+    "be7de31f9d6dbc71",
+    "750fdaa72219e0b3",
+    "06b7588a9bdfc540",
+    "9f6cdae7ac3d5f12",
+    "e02f3e49549e79af",
+    "d803a049af5514b2",
+    "a1002559f14bb333",
+    "39f95dfe77e0724d",
+    "0f29439db4fcc290",
+    "19d216b5391e10a5",
+    "c6e0c477f4c670c4",
+    "1717b0b2175e98e3",
+    "44d0474fcaabd9ec",
+    "3b83aa292bed8e85",
+    "43caae61602dfec8",
+    "f8e0ac32e6c7c9eb",
+    "07a24ed89c203af4",
+    "0ee6092e66af2ba3",
+    "634a28489345976a",
+    "e977e8c13631a761",
+    "4217806e29763f9c",
+    "af3e4d62047f6cbb",
+    "9596dde33b4334fb",
+    "e4b412c7f1aee1bc",
+    "14221fcd365e8b63",
+    "acffb0174fc8bf03",
+    "93aaa9c89f40bb27",
+    "016cd9bc76fd45fb",
+    "db38d7a63351dec0",
+    "e0f7bb7df7a970ea",
+    "99f5c589b1d8327a",
+    "260a9f4ecd4b5740",
+    "0b3ba55ff04dc521",
+    "62b6edce7b59529c",
+    "c9189de29992676a",
+    "6503aec17d780393",
+    "95b2287d86c3d6aa",
+    "96462add863e0355",
+    "b93e40ce39d2d1ea",
+    "048eb72b33fac37c",
+    "f672373085b1fa07",
+    "cb360b0d9a86e090",
+    "a2707996568c9c40",
+    "a3abc7ab6ace5e05",
+    "f5b49f7035aa4965",
+    "c5c1c492cceeebfa",
+    "67ef869d86efcb2d",
+    "63c47e83dd6c3bdf"
+   ]
+  }
+ ],
+ "fragments": {
+  "f3b199bb0a443965": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Outubro\n\nO incremento das funções de controlo por parte do Estado e a imperiosa necessidade de corresponder às solicitações que, por via deste facto, foram sendo postas à Inspecção-Geral de Finanças (IGF), enquanto órgão superior de controlo financeiro, estiveram na origem do processo de renovação e adaptação das suas estruturas, que se iniciou com o [Decreto-Lei n.º 539/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1973-412262), de 23 de Outubro, e foi continuado pelo [Decreto n.º 125/77](https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224), de 24 de Setembro, e pelo [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro.\n\nO modelo instituído por este último diploma, sem embargo de se reconhecer a decisiva importância que assumiu no passado, mostra-se, no entanto, já desajustado da realidade presente do organismo, cuja evolução posterior a 1983 foi especialmente marcada pela ampliação do controlo do sector público administrativo, pelas novas atribuições cometidas em áreas financeiras de incidência comunitária, pela progressiva especialização do controlo da administração local autárquica e pela concomitante adaptação das estruturas internas às multiformes situações que foram surgindo. Recentemente foi ainda cometida à IGF a instrução de processos de constituição de sociedades de gestão e investimento imobiliário e o controlo destas e de outras empresas que têm por objecto actividades financeiras ou parafinanceiras.\n\nFace a este condicionalismo, tornando-se urgente verter em texto legal toda a evolução verificada e aprestar a IGF para enfrentar o futuro, vem o presente diploma:\n\nActualizar e reunir as atribuições do organismo, cuja competência é também alargada ao controlo do Serviço de Administração do Imposto sobre o Valor Acrescentado e dos Impostos Especiais sobre o Consumo e à auditoria às sociedades em que o Estado detenha uma participação no capital igual ou superior a 50%;\n\nInstitucionalizar soluções em matéria de estruturação dos serviços que a experiência de quase uma década já fizera adoptar na prática, criando ao mesmo tempo os correspondentes cargos de direcção;\n\nAutonomizar funções de chefia, na linha de orientação firmada na Administração Pública, e ajustar a estrutura das carreiras profissionais específicas da IGF, tendo em conta, nomeadamente, as alterações introduzidas nas carreiras de regime geral do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho;\n\nConsagrar um regime remuneratório dos inspectores de finanças, incluindo os que exerçam funções dirigentes, consentâneo com a elevada qualificação profissional que lhes é exigida, retributivo do ónus que impende sobre as suas funções, exercidas em condições ambientais estruturalmente adversas, e que tenha em conta a forte competitividade externa a que se encontram sujeitos.\n\nAtravés do presente diploma, a IGF é, pois, dotada de um quadro legal bem definido e de um conjunto de meios e atribuições que lhe permitem o cabal desempenho das elevadas tarefas que lhe estão cometidas.\n\nTarefas que, abrangendo as áreas do sector público administrativo e empresarial, bem como dos sectores privado e cooperativo, se confinam a uma análise e julgamento de carácter exclusivamente técnico-jurídico ou técnico-financeiro acerca das questões ou situações que lhe caibam em apreciação.\n\nÉ que só nesses planos, e não em qualquer outro, incumbe à IGF actuar, devendo, pois, as suas atribuições ser rigorosamente delimitadas e definidas, para que dúvidas de interpretação, sempre perniciosas e negativas, não permitam desvirtuar a essência da sua acção e retirar-lhe, consequentemente, credibilidade e eficácia.\n\nTambém nessa perspectiva, o presente diploma constitui um instrumento positivo, que realça e valoriza, com o rigor, a precisão e a transparência exigíveis, a acção de um serviço que é fundamental para o correcto desempenho das elevadas funções que ao Estado são cometidas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7f6fda6e4e4c0804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, âmbito e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, âmbito e atribuições"
+  },
+  "8335cdae2d365419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Inspecção-Geral de Finanças (IGF) é um serviço de controlo financeiro e de apoio técnico do Ministério das Finanças e funciona na directa dependência do Ministro das Finanças.\n\n2 - A actuação da IGF abrange entidades do sector público administrativo e empresarial, bem como dos sectores privado e cooperativo."
+  },
+  "44a7c43f5bdf4a70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA IGF tem sede em Lisboa e desenvolve a sua acção em todo o território nacional."
+  },
+  "d5be5806a10c303c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Enquanto serviço de controlo financeiro de alto nível, compete à IGF:\n\na) Realizar, por determinação superior, inspecções a quaisquer serviços públicos ou pessoas colectivas de direito público;\n\nb) Efectuar a auditoria de organismos públicos, nos casos legalmente previstos;\n\nc) Inspeccionar os serviços de administração e cobrança fiscais;\n\nd) Fiscalizar a indústria do tabaco e administrar o respectivo imposto de consumo;\n\ne) Fiscalizar a gestão financeira e patrimonial das autarquias locais, incluindo os serviços municipalizados, das associações e das federações de municípios, nos termos da lei;\n\nf) Efectuar, nos casos legalmente previstos ou determinados superiormente, auditoria às empresas públicas, às sociedades de capitais públicos e às sociedades de economia mista em que o Estado detenha, de forma directa, uma participação no capital igual ou superior a 50%, com excepção das instituições de crédito, parabancárias e seguradoras;\n\ng) Inspeccionar empresas e entidades privadas ou cooperativas, nos termos previstos no artigo 12.º, com excepção das instituições de crédito, parabancárias e seguradoras;\n\nh) Coordenar as acções nacionais de controlo dos recursos próprios comunitários;\n\ni) Inspeccionar as entidades que intervêm na execução e controlo das despesas financiadas pelo FEOGA - Garantia e pelos fundos estruturais comunitários, bem como os respectivos beneficiários;\n\nj) Acompanhar as missões comunitárias de controlo a efectuar em Portugal em matéria de recursos próprios comunitários, bem como no âmbito do FEOGA - Garantia e dos fundos estruturais;\n\nl) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas superiormente.\n\n2 - Enquanto serviço de apoio técnico do Ministério das Finanças, compete, designadamente, à IGF:\n\na) Propor medidas visando a melhoria do funcionamento das entidades do sector público objecto da sua intervenção, tendo em vista, nomeadamente, o aproveitamento mais adequado dos respectivos recursos;\n\nb) Promover a adopção de medidas para aperfeiçoamento do sistema de controlo financeiro;\n\nc) Participar, por determinação superior, na elaboração de projectos de diplomas legais sobre matérias das suas atribuições;\n\nd) Efectuar estudos e elaborar pareceres respeitantes às mesmas matérias."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "ed4b613e0a4630a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção\n\n1 - A IGF é dirigida por um inspector-geral.\n\n2 - O inspector-geral é substituído nas suas faltas e impedimentos pelo subinspector-geral que designar para o efeito.\n\n3 - O inspector-geral pode delegar nos subinspectores-gerais a prática de actos da sua competência própria."
+  },
+  "db4888e3508a42fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de inspecção\n\n1 - O inspector-geral é apoiado no exercício das suas funções por um órgão colegial, de natureza consultiva, denominado conselho de inspecção (CI).\n\n2 - O CI é constituído pelo inspector-geral, que presidirá, e pelos subinspectores-gerais.\n\n3 - Quando o conselho o considerar conveniente, podem tomar parte nas suas reuniões, sem direito a voto, outros funcionários competentes nas matérias a tratar.\n\n4 - Compete especialmente ao CI a emissão obrigatória de parecer em matéria de gestão de pessoal, nomeadamente nos casos indicados nos artigos 29.º, n.º 1, alíneas c), d) e e), 30.º, n.º 2, 34.º, n.º 2, 38.º, n.º 2, e 42.º"
+  },
+  "c20c6015bada86d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços\n\n1 - Para a prossecução das suas atribuições a IGF dispõe dos seguintes serviços:\n\na) Inspecção de Serviços Públicos (ISP);\n\nb) Inspecção de Serviços Tributários (IST);\n\nc) Inspecção Patrimonial e Financeira das Autarquias Locais (IAL);\n\nd) Inspecção do Sector Empresarial do Estado (ISEE);\n\ne) Inspecção de Empresas (IE);\n\nf) Serviço Jurídico (SJ);\n\ng) Serviço de Coordenação dos Controlos Comunitários (SCCC);\n\nh) Gabinete de Estudos (GE);\n\ni) Centros de apoio regional (CAR);\n\nj) Serviços Administrativos (SA).\n\n2 - Cada um dos serviços operativos a que se referem as alíneas a) a e) do número anterior integra um núcleo de apoio técnico (NAT).\n\n3 - A IST compreende ainda o Núcleo de Fiscalização de Tabacos (NUFT), que disporá de delegações nas fábricas de tabaco.\n\n4 - A IE compreende ainda o Núcleo de Inspecção às Entidades Parafinanceiras (NIP).\n\n5 - Cada CAR será criado por portaria do Ministro das Finanças, considerando-se desde já constituído o Centro de Apoio Regional do Norte, com sede no porto."
+  },
+  "a10d35323b062931": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Inspecção de Serviços Públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inspecção de Serviços Públicos\n\nÀ ISP compete especialmente:\n\na) Proceder, por determinação superior, a inspecções respeitantes à gestão e à situação económico-financeira de quaisquer serviços públicos ou pessoas colectivas de direito público, exceptuados os referidos nos artigos 8.º e 10.º;\n\nb) Efectuar a auditoria de organismos públicos, emitindo parecer sobre os documentos de prestação de contas, nos casos legalmente previstos ou determinados superiormente."
+  },
+  "d5990ae49e44f2a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Inspecção de Serviços Tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inspecção de Serviços Tributários\n\nÀ IST compete especialmente:\n\na) Inspeccionar os serviços regionais e locais da Direcção-Geral das Contribuições e Impostos, bem como o Serviço de Administração do Imposto sobre o Valor Acrescentado e dos Impostos Especiais sobre o Consumo;\n\nb) Inspeccionar e dar balanço aos cofres públicos dependentes da Direcção-Geral do Tesouro;\n\nc) Inspeccionar, por determinação superior, outros serviços da Direcção-Geral das Contribuições e Impostos, da Direcção-Geral do Tesouro e os serviços dependentes da Direcção-Geral das Alfândegas;\n\nd) Realizar inquéritos e sindicâncias aos serviços referidos nas alíneas a) e b), bem como instaurar e instruir processos disciplinares ao respectivo pessoal, em relação a infracções verificadas no decurso das suas acções;\n\ne) Fiscalizar a indústria do tabaco e administrar o respectivo imposto de consumo, nos termos legalmente estabelecidos."
+  },
+  "8d2286f57a9c015f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Núcleo de Fiscalização dos Tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Núcleo de Fiscalização dos Tabacos\n\nAo NUFT, no âmbito da competência prevista na alínea e) do artigo anterior, incumbe, em especial:\n\na) Assegurar a administração do imposto de consumo sobre o tabaco e acompanhar a respectiva execução orçamental;\n\nb) Fiscalizar a indústria do tabaco, através das delegações nas fábricas de tabaco;\n\nc) Propor a adopção de medidas para o aperfeiçoamento do regime fiscal do tabaco, nos termos da lei."
+  },
+  "89bf828f06e24a78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Inspecção Patrimonial e Financeira das Autarquias Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inspecção Patrimonial e Financeira das Autarquias Locais\n\nCompete especialmente à IAL fiscalizar a gestão patrimonial e financeira das autarquias locais, incluindo os serviços municipalizados, e das associações e federações de municípios, nos termos da lei."
+  },
+  "fc467748a8ccc8b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Inspecção do Sector Empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inspecção do Sector Empresarial do Estado\n\nÀ ISEE compete especialmente:\n\na) Efectuar a auditoria das empresas previstas na alínea f) do n.º 1 do artigo 3.º, tendo em vista a emissão de parecer sobre os documentos de prestação de contas, nos casos legalmente previstos ou determinados superiormente, e o disposto no n.º 3 do artigo 22.º;\n\nb) Realizar, mediante despacho do Ministro das Finanças, quaisquer outros trabalhos da sua especialidade relativos a empresas públicas, a sociedades de capitais públicos e a empresas participadas pelo Estado."
+  },
+  "6d61e60e25b0b325": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Inspecção de Empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inspecção de Empresas\n\nÀ IE compete especialmente, por determinação superior, inspeccionar empresas e entidades privadas ou cooperativas quando sejam sujeitos de quaisquer relações financeiras com o Estado ou quando se mostre indispensável ao controlo indirecto de quaisquer entidades objecto da intervenção da IGF."
+  },
+  "8637384b34c721f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Núcleo de Inspecção às Entidades Parafinanceiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Núcleo de Inspecção às Entidades Parafinanceiras\n\nAo NIP, no âmbito da competência prevista no artigo anterior, e sem prejuízo do disposto na alínea g) do n.º 1 do artigo 3.º e da competência atribuída a outros serviços públicos ou autoridades monetárias, incumbe especialmente:\n\na) Inspeccionar entidades que prosseguem actividades de natureza financeira ou parafinanceira, nomeadamente as sociedades de gestão e investimento imobiliário, as sociedades de gestão de participações sociais, as sociedades de capital de risco, as sociedades de desenvolvimento regional e as sociedades de fomento empresarial;\n\nb) Instruir os processos de constituição de sociedades de gestão e investimento imobiliário."
+  },
+  "0a74dd7c7dee7ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Serviço Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Serviço Jurídico\n\nAo SJ compete especialmente:\n\na) Realizar acções de natureza inspectiva, nomeadamente em colaboração com outros serviços da IGF;\n\nb) Instruir processos disciplinares que decorram das acções previstas na alínea anterior ou que lhe sejam determinados superiormente;\n\nc) Instaurar e instruir processos de transgressão relativos, designadamente, a entidades previstas na alínea a) do artigo anterior, nos termos legalmente previstos;\n\nd) Elaborar estudos e pareceres de natureza jurídica sobre matérias da competência da IGF."
+  },
+  "9c591c73bc81cb81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Serviço de Coordenação dos Controlos Comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviço de Coordenação dos Controlos Comunitários\n\nAo SCCC compete especialmente:\n\na) Coordenar as acções a desenvolver pela IGF no âmbito das atribuições previstas nas alíneas h) a j) do n.º 1 do artigo 3.º;\n\nb) Organizar e assegurar o acompanhamento das missões comunitárias de controlo em matéria de recursos próprios ou no âmbito do FEOGA - Garantia e dos fundos estruturais;\n\nc) Assegurar o relacionamento externo da IGF em matérias de natureza comunitária e promover a sua participação em comités e grupos de trabalho constituídos no âmbito de instituições nacionais ou comunitárias;\n\nd) Proceder à recolha e tratamento da informação relativa à intervenção da IGF em matérias de incidência comunitária."
+  },
+  "d7bb94e023f0ce4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Gabinete de Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Gabinete de Estudos\n\nAo GE compete especialmente:\n\na) Efectuar estudos sobre matérias da competência da IGF e promover a realização de projectos de interesse para o organismo;\n\nb) Coordenar a utilização dos meios informáticos da IGF e apoiar o desenvolvimento de aplicações informáticas;\n\nc) Promover a realização de acções de formação e aperfeiçoamento profissional do pessoal, em articulação com os diferentes serviços;\n\nd) Assegurar a gestão da biblioteca da IGF e proceder à recolha, tratamento e divulgação interna de documentação científica e técnica de interesse para o organismo;\n\ne) Elaborar o plano e relatório anuais de actividades e outras publicações da IGF;\n\nf) Promover, em articulação com os restantes serviços da IGF, a cooperação com entidades nacionais ou estrangeiras, bem como a realização de acções de formação solicitadas pelas mesmas entidades."
+  },
+  "35d2f1e6aed1288d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Centros de apoio regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Centros de apoio regional\n\nAos CAR compete especialmente:\n\na) Apoiar o desenvolvimento das acções promovidas pelos serviços a que se referem as alíneas a) a h) do n.º 1 do artigo 6.º;\n\nb) Executar, em articulação com os Serviços Administrativos, as tarefas de carácter administrativo inerentes ao seu funcionamento."
+  },
+  "b04e6a8bcbedafbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Núcleos de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Núcleos de apoio técnico\n\nAos NAT, a que se refere o n.º 2 do artigo 6.º, compete especialmente:\n\na) Assegurar as tarefas necessárias ao planeamento e controlo da actividade do serviço, cabendo-lhe, nomeadamente, a elaboração do plano e relatório a que se refere o artigo 26.º;\n\nb) Organizar manuais, guias, programas de trabalho e outros instrumentos de apoio técnico às actividades de inspecção;\n\nc) Proceder ao tratamento da legislação e outra documentação de interesse para o serviço e promover a sua divulgação pelos inspectores;\n\nd) Elaborar estudos, pareceres e informações sobre matérias da competência do respectivo serviço;\n\ne) Desenvolver e gerir aplicações informáticas, nomeadamente bases de dados sobre matérias de interesse para o serviço."
+  },
+  "2b425bd24fc5055c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviços Administrativos\n\n1 - Aos SA compete, em geral, a execução de todas as tarefas de carácter administrativo, com exclusão daquelas que, respeitando especificamente ao funcionamento de cada um dos outros serviços referidos no artigo 6.º, sejam asseguradas pelos secretariados ou unidades de apoio indicados no artigo 20.º\n\n2 - Os SA compreendem:\n\na) Repartição de Pessoal e de Administração Geral, que dispõe das Secções de Administração de Pessoal e de Administração Geral;\n\nb) Repartição de Contabilidade, Aprovisionamento e Reprografia, que dispõe das Secções de Contabilidade e de Aprovisionamento e Reprografia.\n\n3 - Compete especialmente à Repartição de Pessoal e Administração Geral, através das respectivas secções:\n\na) Realizar as operações de administração do pessoal;\n\nb) Proceder à recepção, registo, classificação, distribuição e expedição da correspondência;\n\nc) Garantir a organização do arquivo inactivo da IGF, mantendo-o em condições de fácil e rápida consulta;\n\nd) Assegurar a gestão dos edifícios em que a IGF se encontre instalada e velar pela sua segurança e manutenção.\n\n4 - Compete especialmente à Repartição de Contabilidade, Aprovisionamento e Reprografia, através das respectivas secções:\n\na) Elaborar a proposta de orçamento e processar todas as despesas da IGF;\n\nb) Promover as aquisições necessárias e manter actualizado o inventário;\n\nc) Compor, imprimir e reproduzir a documentação necessária às actividades da IGF."
+  },
+  "a97f82428e95ce39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Secretariados de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Secretariados de apoio\n\n1 - Os serviços a que se referem os n.os 1, alíneas a) a g), 3, 4 e 5 do artigo 6.º incluem secretariados de apoio, aos quais compete a realização das tarefas de carácter administrativo específicas ao funcionamento de cada um daqueles serviços.\n\n2 - Sem prejuízo do disposto no número anterior, poderão existir, quando se mostre conveniente, outras unidades de apoio administrativo, nomeadamente no Gabinete de Estudos, sob a orientação de funcionários designados pelo inspector-geral."
+  },
+  "a9b1c690bdd2a589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competência comum aos diversos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência comum aos diversos serviços\n\n1 - Constitui competência comum aos diversos serviços da IGF, no tocante a entidades ou matérias que respeitem ao domínio da sua intervenção:\n\na) Exercer as atribuições em matéria de controlos comunitários previstas nas alíneas h) a j) do n.º 1 do artigo 3.º;\n\nb) Realizar, por determinação superior, inquéritos ou outras averiguações, sem prejuízo do disposto na alínea d) do artigo 8.º;\n\nc) Efectuar estudos e pareceres, bem como participar na elaboração de projectos de diplomas.\n\n2 - Quando solicitados por outras entidades do sector público, os diferentes serviços poderão realizar trabalhos da sua especialidade, mediante contrato de prestação de serviços superiormente autorizado."
+  },
+  "a07ce3993a0a272b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Âmbito e objectivos das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito e objectivos das acções\n\n1 - As acções a realizar pela IGF incidem sobre entidades expressamente determinadas e visam objectivos previamente fixados, podendo, quando se mostre necessário, estender-se, por determinação superior, a outras entidades em ligação funcional com aquelas.\n\n2 - Os serviços manterão estreita relação entre si no exercício das respectivas atribuições, actuando conjuntamente na realização de objectivos comuns, designadamente através do destacamento temporário de inspectores de um para outro serviço, por despacho do inspector-geral, ouvido o conselho de inspecção.\n\n3 - A intervenção da IAL, no âmbito das competências previstas no artigo 10.º, tem apenas por objectivo verificar a acção desenvolvida pelos órgãos e serviços das entidades mencionadas naquela disposição legal e estende-se a todo o território nacional, sem prejuízo dos poderes reconhecidos às regiões autónomas."
+  },
+  "44d0474fcaabd9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento dos serviços"
+  },
+  "3f3e4a49f7e94632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direcção dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção dos serviços\n\n1 - Os serviços da IGF são dirigidos:\n\na) A ISP, a IST, a IAL, a ISEE e a IE, por subinspectores-gerais;\n\nb) O SJ, o SCCC, o GE, os NAT, o NUFT e o NIP, por inspectores de finanças directores;\n\nc) Os CAR, por inspectores de finanças chefes, exceptuando o do Norte, que será dirigido por um inspector de finanças director;\n\nd) Os SA, por um director de serviços.\n\n2 - Os serviços referidos na alínea a) do número anterior, bem como o SJ e o NIP, compreendem grupos de inspecção orientados por inspectores de finanças chefes.\n\n3 - As delegações nas fábricas de tabaco são chefiadas por chefes de delegação.\n\n4 - As repartições dos SA são chefiadas por chefes de repartição.\n\n5 - As secções dos SA e os secretariados de apoio dos serviços são chefiados por secretários de finanças coordenadores."
+  },
+  "36c58813f6d42c00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Orientação e execução de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Orientação e execução de acções\n\n1 - As acções de natureza inspectiva são executadas por inspectores, que, quando integrados em grupos de inspecção, actuarão sob a dependência hierárquica de inspectores de finanças chefes.\n\n2 - Para a realização de acções específicas em que estejam em causa, nomeadamente, objectivos de natureza multidisciplinar e temporária poderão ser constituídas equipas de projecto, coordenadas por funcionários designados para o efeito, mediante despacho do inspector-geral.\n\n3 - Sempre que razões pertinentes o justifiquem, o inspector-geral e os dirigentes dos serviços referidos nas alíneas a) a g) do n.º 1 do artigo 6.º poderão designar, respectivamente, inspectores de finanças directores e inspectores de finanças chefes para orientar ou realizar inquéritos, sindicâncias, processos disciplinares e determinadas acções de inspecção ou outras."
+  },
+  "0a19eb8c2e22ae15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Funcionamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Funcionamento interno\n\n1 - Para efeitos de inspecção, o território nacional poderá ser dividido em áreas, cujo número, delimitação geográfica e afectação de pessoal serão estabelecidos em despacho do Ministro das Finanças.\n\n2 - O número e a composição dos grupos de inspecção são definidos por despacho do inspector-geral, sob proposta dos dirigentes dos serviços.\n\n3 - O GE é composto por um corpo de inspectores dos serviços temporariamente destacados por despacho do inspector-geral.\n\n4 - A afectação de inspectores aos NAT, ao NUFT e ao NIP é efectuada por despacho do respectivo subinspector-geral."
+  },
+  "85e57184f72ef7e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Plano e relatório anual de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Plano e relatório anual de actividades\n\n1 - A IGF procederá à elaboração do plano de actividades e do relatório anual, a submeter a despacho do Ministro das Finanças.\n\n2 - Para efeitos do referido no número anterior, os diferentes serviços elaborarão anualmente o seu plano de actividades e o relatório referente à acção desenvolvida no ano anterior, que submeterão à apreciação do inspector-geral."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "37280fca963ac5b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Quadro do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Quadro do pessoal\n\nO quadro do pessoal da IGF é o constante do mapa anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "9ee9aecab94357b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Classificação anual de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Classificação anual de serviço\n\n1 - Os funcionários da IGF serão objecto de classificação anual de serviço, nas condições definidas por despacho ministerial, com observância dos princípios previstos na lei geral, nomeadamente:\n\na) Conhecimento aos interessados;\n\nb) Garantia de recurso.\n\n2 - O pessoal dirigente, bem como os inspectores superiores de finanças principais, estão dispensados da classificação de serviço a que se refere o número anterior."
+  },
+  "921ea92412a26ad1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Provimento do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Provimento do pessoal dirigente\n\n1 - Os lugares do pessoal dirigente da IGF são providos:\n\na) O de inspector-geral, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, de entre indivíduos de reconhecida competência licenciados com curso superior adequado ao exercício da respectiva função;\n\nb) Os de subinspector-geral, por despacho do Ministro das Finanças, sob proposta do inspector-geral, de entre licenciados com curso superior adequado que possuam experiência, qualificação e competência adequadas ao exercício da função;\n\nc) Os de inspector de finanças director, por despacho do Ministro das Finanças, sob proposta do inspector-geral, ouvido o conselho de inspecção, de entre inspectores com categoria igual ou superior a inspector de finanças principal que possuam qualidades de direcção e experiência adequadas ao exercício da função;\n\nd) Os de inspector de finanças chefe, por despacho do Ministro das Finanças, sob proposta do inspector-geral, ouvido o conselho de inspecção, de entre inspectores do respectivo quadro com categoria igual ou superior a inspector de finanças que possuam qualidades de chefia e experiência adequadas ao exercício da função;\n\ne) O de director dos SA, por despacho do Ministro das Finanças, sob proposta do inspector-geral, ouvido o conselho de inspecção, de entre chefes de repartição que possuam experiência, qualificação e competência adequadas ou outros indivíduos de reconhecida competência, em ambos os casos licenciados com curso superior adequado;\n\nf) Os de chefe de repartição, por despacho do inspector-geral, de entre secretários de finanças coordenadores, chefes de delegação providos nos termos da alínea a) do n.º 1 do artigo 32.º e chefes de secção com três anos de serviço na respectiva categoria e classificação superior a Bom ou de entre diplomados com curso superior adequado e que, em todos os casos, possuam qualidades de chefia adequadas ao exercício da função.\n\n2 - O provimento dos lugares de inspector-geral, subinspector-geral, inspector de finanças director e director dos Serviços Administrativos, bem como de inspector de finanças chefe, equiparados, respectivamente, a director-geral, subdirector-geral, director de serviços e chefe de divisão, é efectuado em comissão de serviço, nos termos da lei geral aplicável ao pessoal dirigente, sem prejuízo do disposto nas alíneas a) a e) do número anterior."
+  },
+  "b94b09930cdfcbd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Provimento do pessoal da carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Provimento do pessoal da carreira de inspecção\n\n1 - Os lugares da carreira de inspecção do quadro de cada serviço são providos:\n\na) Os de inspector de finanças superior principal, de entre inspectores de finanças superiores com três anos de serviço nessa categoria, classificação superior a Bom e que apresentem trabalho especializado e de reconhecido mérito de interesse para o organismo;\n\nb) Os de inspector de finanças superior, de entre inspectores de finanças principais com três anos de serviço nessa categoria, classificação superior a Bom e que obtenham aproveitamento em curso de formação adequado;\n\nc) Os de inspector de finanças principal e de inspector de finanças, de entre, respectivamente, inspectores de finanças com três anos de serviço na categoria e classificação não inferior a Bom e inspectores de finanças estagiários que tenham concluído com aproveitamento o respectivo estágio e obtido aprovação em curso especial de provimento;\n\nd) Os de inspector de finanças estagiário, de entre licenciados com curso superior adequado, recrutados mediante provas de selecção a realizar para o efeito.\n\n2 - Até dois lugares de inspector de finanças superior principal em cada quadro poderão ser providos de entre licenciados com curso superior adequado, de reconhecida competência, confirmada através de apreciação curricular, constante de parecer a emitir pelo conselho de inspecção e a publicar no Diário da República.\n\n3 - O provimento de lugares nos termos do número anterior, quando recair em indivíduo estranho ao organismo, será provisório, pelo período de um ano, findo o qual se tornará ou não definitivo.\n\n4 - O estágio a que se refere a alínea c) do n.º 1 tem a duração de um ano de efectivo serviço, podendo em qualquer momento cessar por exoneração dos estagiários que revelem uma notória inadequação para o exercício da função.\n\n5 - As provas de selecção previstas na alínea d) do n.º 1 incluirão a apreciação do currículo escolar dos interessados, da sua experiência profissional e dos conhecimentos e aptidões específicos revelados em provas escritas e orais, das quais poderão ser dispensados os candidatos com média de curso não inferior a 16 valores ou Bom com distinção, caso em que aqueles conhecimentos e aptidões serão avaliados através de entrevista."
+  },
+  "4a89843500ff5b35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Provimento do pessoal técnico de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Provimento do pessoal técnico de finanças\n\n1 - Os lugares da carreira de técnico de finanças são providos:\n\na) Os de secretário de finanças coordenador, de entre secretários de finanças especialistas com três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função;\n\nb) Os de secretário de finanças especialista, principal e de 1.ª classe, de entre funcionários da categoria imediatamente inferior aprovados em curso de formação adequado, com três anos de serviço na categoria e classificação não inferior a Bom;\n\nc) Os de secretário de finanças de 2.ª classe, de entre secretários de finanças estagiários aprovados no respectivo estágio, com a duração de um ano;\n\nd) Os de secretário de finanças estagiário, de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente, recrutados mediante provas de selecção a realizar para o efeito."
+  },
+  "d57cd63f486ed886": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Provimento do pessoal de fiscalização dos tabacos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Provimento do pessoal de fiscalização dos tabacos\n\n1 - Os lugares de chefe de delegação são providos de entre:\n\na) Funcionários com categoria não inferior a secretário de finanças principal, com classificação superior a Bom e qualidades de chefia adequadas ao exercício da função;\n\nb) Agentes fiscais especialistas com três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função, habilitados com o curso geral do ensino secundário ou equivalente.\n\n2 - Os restantes lugares da carreira são providos:\n\na) Os de agente fiscal especialista e principal, de entre, respectivamente, agentes fiscais principais e de 1.ª classe com classificação não inferior a Bom, logo que completem três anos de serviço na categoria;\n\nb) Os de agente fiscal de 1.ª classe, de entre agentes fiscais de 2.ª classe com classificação não inferior a Bom, logo que completem cinco anos de serviço nessa categoria;\n\nc) Os de agente fiscal de 2.ª classe, de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente, mediante provas de selecção adequadas.\n\n3 - Os lugares de chefe de delegação providos nos termos da alínea a) do n.º 1 serão exercidos em comissão de serviço por tempo indeterminado."
+  },
+  "afe081aa3e2ce99b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Provimento de outro pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Provimento de outro pessoal\n\nO provimento dos lugares das restantes carreiras previstas no quadro do pessoal da IGF será feito nos termos da lei geral."
+  },
+  "db20de9858bd9979": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de provimento e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime de provimento e selecção\n\n1 - As nomeações para lugares de chefe de repartição, secretário de finanças coordenador e chefe de delegação nomeado nos termos da alínea b) do n.º 1 do artigo 32.º, bem como para os lugares de ingresso em carreiras em que o recrutamento não seja precedido de estágio, far-se-ão mediante concurso e têm carácter provisório durante um ano, findo o qual o provimento se tornará definitivo, se o funcionário revelar aptidão para o cargo, regressando, em caso contrário, à situação anterior.\n\n2 - O provimento dos lugares referidos no número anterior, bem como dos lugares de acesso nas diferentes carreiras, é efectuado por despacho do inspector-geral, ouvido o conselho de inspecção, e atenderá, em igualdade de condições e pela ordem indicada:\n\na) Às melhores qualidades de direcção ou chefia adequadas ao exercício do cargo, quando exigidas;\n\nb) Às classificações de serviço dos últimos três anos;\n\nc) Ao aproveitamento no último curso de formação ou à classificação em trabalho especializado, quando exigidos;\n\nd) À antiguidade na categoria.\n\n3 - No provimento dos lugares de ingresso em carreiras em que o recrutamento é precedido de estágio atender-se-á, pela ordem indicada:\n\na) À informação do estágio;\n\nb) Ao aproveitamento no curso especial de provimento, quando aplicável;\n\nc) À graduação para ingresso no estágio."
+  },
+  "958af6d8540493b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Remunerações\n\n1 - O pessoal da IGF é remunerado nos termos do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O pessoal da carreira de inspecção, incluindo o pessoal dirigente, enquanto corpo especial, nos termos do n.º 3 do artigo 16.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, é remunerado de acordo com escalas indiciárias próprias."
+  },
+  "033e50c31f8db0f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Direitos e prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Direitos e prerrogativas\n\n1 - Os inspectores, quando em serviço, e sempre que necessário ao desempenho das suas funções, para além de outros previstos na lei geral, gozam dos direitos e prerrogativas seguintes:\n\na) Acesso aos serviços e dependências das entidades objecto da intervenção da IGF;\n\nb) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia e obter a colaboração de funcionários que se mostre indispensável;\n\nc) Corresponder-se com quaisquer entidades públicas ou privadas sobre assuntos de interesse para o exercício das suas funções ou para obtenção dos elementos que se mostrem indispensáveis;\n\nd) Proceder ao exame de quaisquer elementos em poder de entidades objecto da intervenção da IGF, quando se mostrem indispensáveis à realização das respectivas tarefas;\n\ne) Ingressar ou transitar livremente nas gares dos caminhos de ferro, estações e cais de embarque, docas, aeródromos, aeroportos e quaisquer outros lugares públicos, mediante a simples exibição do respectivo cartão de identificação profissional;\n\nf) Isenção do pagamento de portagem nas auto-estradas e pontes do País;\n\ng) Requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das suas funções, designadamente em casos de resistência a esse exercício;\n\nh) Proceder à selagem de quaisquer instalações, dependências, cofres ou móveis, bem como à requisição ou reprodução de documentos em poder de entidades objecto de intervenção da IGF, quando se mostre indispensável à realização de quaisquer diligências, para o que será levantado o correspondente auto, dispensável no caso de simples reprodução de documentos;\n\ni) Possuir e usar arma de defesa, com dispensa da respectiva licença, nos termos da lei geral;\n\nj) Deter em flagrante delito os indivíduos que os ofendam ou agridam no exercício ou por motivo das suas funções e entregá-los à autoridade mais próxima juntamente com o auto de notícia, que terá o valor juridicamente atribuído aos autos levantados por autoridade policial;\n\nl) Proceder, por si, através de autoridade administrativa ou policial ou dos serviços fiscais locais, a notificação a que haja lugar em processos de inquérito, sindicâncias ou disciplinares, nos termos legalmente previstos.\n\n2 - Os direitos e prerrogativas referidos nas alíneas e), i) e j) do número anterior são aplicáveis ao pessoal de fiscalização dos tabacos, que usará, no exercício das suas funções, emblema identificativo da respectiva qualificação profissional."
+  },
+  "d19f6c848783ab9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Dever de sigilo\n\nAlém da sujeição aos deveres gerais inerentes ao exercício da função pública, os funcionários da IGF estão especialmente obrigados a guardar rigoroso sigilo em todos os assuntos de que tiverem conhecimento no exercício ou por causa do exercício das suas funções."
+  },
+  "e93633d0801a1e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Incompatibilidades\n\n1 - É vedado aos funcionários da IGF:\n\na) Executar quaisquer acções de natureza inspectiva ou disciplinar em que sejam visados parentes ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Exercer qualquer ramo de comércio ou indústria;\n\nc) Exercer actividades alheias ao serviço que respeitem a entidades relativamente às quais o funcionário tenha realizado nos últimos três anos quaisquer acções de natureza inspectiva ou disciplinar;\n\nd) Exercer quaisquer outras actividades, públicas ou privadas, alheias ao serviço, salvo as que decorrem do exercício do seu direito de participação na vida pública.\n\n2 - O exercício de actividades mencionadas nas alíneas c) e d), desde que identificada a entidade a que respeita, poderá, no entanto, ser autorizado casuisticamente pelo Ministro das Finanças, sob parecer do inspector-geral, ouvido o conselho de inspecção, quando não afecte o prestígio da função, não contribua para enfraquecer a respectiva autoridade e não ponha em causa a isenção profissional do funcionário.\n\n3 - O despacho de autorização fixará, para cada caso, as condições em que se permite o exercício de actividade estranha à IGF, podendo a todo o tempo ser revogado quando se considere que aquelas condições não se encontram devidamente salvaguardadas."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "2ce73d85a3aa74a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Fiscalização de mediadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Fiscalização de mediadores\n\nEnquanto o controlo da actividade dos mediadores na compra e venda de bens imóveis couber ao Ministério das Finanças, a IGF, através da IE e do SJ, mantém a competência para fiscalizar a sua actividade, para instruir os respectivos pedidos de autorização e para instaurar e instruir processos de transgressão por infracções à legislação que lhes é aplicável."
+  },
+  "7bbafe2175b03ec6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Fiscalização do resultado das acções da IGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Fiscalização do resultado das acções da IGF\n\nCom vista ao acompanhamento pela IGF da execução das medidas preconizadas na sequência da sua intervenção, os órgãos ou serviços que superintendem nas entidades inspeccionadas deverão dar conhecimento das providências e decisões finais entretanto adoptadas."
+  },
+  "e72631fc77641d8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Fornecimento à IGF de instruções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Fornecimento à IGF de instruções administrativas\n\nSerão fornecidos à IGF exemplares de todas as instruções administrativas emanadas de entidades públicas que tenham por destinatário entidades objecto da intervenção da IGF e que respeitem a matérias da sua competência."
+  },
+  "c73e0e0f62778e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Transferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transferências\n\n1 - Em circunstâncias excepcionais, e se isso for de interesse do serviço, os inspectores de qualquer categoria poderão ser transferidos entre os diversos serviços, por despacho do inspector-geral, ouvido o conselho de inspecção.\n\n2 - Aos inspectores transferidos serão considerados, para todos os efeitos legais, nomeadamente para o de promoção, o tempo de serviço e as classificações obtidas no quadro de origem, bem como o aproveitamento no último curso de formação ou classificação no trabalho especializado, quando exigidos."
+  },
+  "5ec1ebe48dcffafc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Remunerações\n\n1 - Enquanto não for estabelecido o novo sistema remuneratório da função pública, o pessoal da carreira de inspecção é remunerado pelas letras de vencimento das categorias constantes do mapa anexo ao [Decreto-Lei n.º 402/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1988-358759), de 9 de Novembro, mantendo o direito à gratificação de inspecção e prémio de cobrança a que se refere o artigo 53.º do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, aplicando-se-lhe, a partir da entrada em vigor daquele sistema, o regime previsto no n.º 2 do artigo 35.º\n\n2 - O sistema de remuneração para os inspectores do quadro dirigente, enquanto não entrar em vigor o previsto no n.º 2 do artigo 35.º, será transitoriamente, sem prejuízo do disposto no artigo 3.º do [Decreto-Lei n.º 273/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1982-394763), de 13 de Junho, e do [Decreto-Lei n.º 107/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1985-325527), de 12 de Abril, o seguinte:\n\na) Para o inspector-geral e para os subinspectores-gerais, as remunerações a que actualmente têm direito;\n\nb) Para os inspectores de finanças directores e para os inspectores de finanças chefes, as remunerações das categorias de origem dos respectivos titulares.\n\n3 - Enquanto não entrar em vigor o novo sistema retributivo da função pública, o restante pessoal é remunerado pelas letras de vencimento correspondentes às categorias constantes do mapa anexo, mantendo o direito à participação emolumentar atribuída aos funcionários do Ministério das Finanças.\n\n4 - Durante o período a que se refere o número anterior o pessoal de fiscalização de tabacos não beneficia da participação emolumentar referida no número anterior, mantendo o direito a um prémio mensal de cobrança do imposto de consumo sobre o tabaco, correspondente a 25% da sua remuneração certa e permanente."
+  },
+  "22debb1095fabf20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Trabalhos e cursos para ingresso e acesso em carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Trabalhos e cursos para ingresso e acesso em carreiras\n\n1 - A IGF promoverá a apresentação dos trabalhos especializados a que se refere a alínea a) do n.º 1 do artigo 30.º e organizará os cursos de formação e aperfeiçoamento profissional que condicionam o acesso nas carreiras de inspecção e do pessoal técnico de finanças, bem como o curso especial de provimento na categoria de inspector de finanças.\n\n2 - A natureza dos trabalhos e o programa dos cursos referidos no número anterior, bem como as condições da sua realização, critérios de avaliação, prazos de validade e, em geral, as condições do seu funcionamento, constam de normas aprovadas por despacho do inspector-geral, ouvido o conselho de inspecção, publicadas no Diário da República.\n\n3 - Ocorrendo circunstâncias que dificultem ou desaconselhem a realização dos cursos previstos no n.º 1, poderão os mesmos ser substituídos, mediante despacho do Ministro das Finanças, por provas práticas escritas ou orais ou trabalhos expressamente realizados para o efeito."
+  },
+  "b93774541bc67f92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Inspectores de finanças chefes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Inspectores de finanças chefes\n\nEnquanto não forem preenchidos todos os lugares de inspector de finanças chefe, poderá o inspector-geral, sob proposta do respectivo dirigente, designar temporariamente inspectores com categoria igual ou superior a inspector de finanças para orientar grupos de inspecção."
+  },
+  "f03fc252a0f74060": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Transição\n\n1 - Os actuais inspectores superiores de finanças e inspectores de finanças coordenadores transitam, respectivamente, para as categorias de inspector de finanças superior principal e inspector de finanças superior, contando-se, para todos os efeitos legais, como prestado nas novas categorias o tempo de serviço prestado nas categorias anteriores.\n\n2 - Os actuais inspectores superiores de finanças interinos mantêm as interinidades reportadas à nova designação prevista no número anterior, não sendo exigidos para a sua posterior nomeação definitiva os requisitos previstos na alínea a) do n.º 1 do artigo 30.º desde que à data da nomeação interina reunissem as condições então exigíveis para nomeação definitiva.\n\n3 - Os inspectores que, nos termos dos números anteriores, transitam para a categoria de inspector de finanças superior principal são integrados no quadro dos diferentes serviços por despacho do inspector-geral."
+  },
+  "d9b7952c08894cb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Reclassificação de escriturários-dactilógrafos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Reclassificação de escriturários-dactilógrafos\n\nOs escriturários-dactilógrafos que à data da publicação do presente diploma se encontrem há mais de um ano a prestar serviço na IGF no exercício de funções análogas às definidas no artigo 15.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, são reclassificados na categoria de operador de registo de dados, nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, desde que tenham obtido classificação superior a Bom e aprovação em provas a realizar para o efeito."
+  },
+  "3f63effa4eda86d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Reclassificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Reclassificação profissional\n\n1 - São reclassificados na categoria de técnico auxiliar de manutenção de 1.ª classe, nos termos do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, os electricistas principais que à data da publicação do presente diploma se encontrem a prestar serviço na IGF e que reúnam os requisitos legalmente exigidos para o provimento na nova categoria.\n\n2 - O tempo de serviço prestado na categoria de electricista principal conta-se, para todos os efeitos legais, como prestado na categoria de técnico auxiliar de manutenção de 1.ª classe."
+  },
+  "d3ab2dabffa5de22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Preenchimento de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Preenchimento de lugares\n\nQuando, por força da aplicação do presente diploma, os lugares providos em qualquer categoria excedam a respectiva dotação, consideram-se os mesmos preenchidos por conta das vagas existentes nas categorias superiores."
+  },
+  "cedd9ed082858603": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Dispensa transitória de condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Dispensa transitória de condições\n\nDurante três anos, contados da data da entrada em vigor do presente diploma, os lugares de secretário de finanças coordenador poderão ser providos por secretários de finanças especialistas com qualidades de chefia adequadas ao exercício da função ou por secretários de finanças principais com classificação superior a Bom e as mencionadas qualidades de chefia."
+  },
+  "f943b519d1ca0b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Provimento de lugares do quadro da IAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Provimento de lugares do quadro da IAL\n\nDurante três anos, contados da data da entrada em vigor do presente diploma, até dois lugares de inspector de finanças chefe do quadro da IAL poderão ser providos de entre indivíduos licenciados com curso superior adequado, de reconhecida competência, confirmada através de apreciação curricular, constante de parecer a emitir pelo conselho de inspecção e a publicar no Diário da República."
+  },
+  "da4d62f9871f1406": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Provimento de lugar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Provimento de lugar\n\nUm lugar de inspector de finanças superior principal do quadro da ISP é preenchido nos termos do artigo 25.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro."
+  },
+  "cfa6de1a95a504d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Regulamentação da Lei Orgânica da IGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regulamentação da Lei Orgânica da IGF\n\nO presente diploma será regulamentado mediante decreto regulamentar."
+  },
+  "9d14a6cd40b07e77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Revogação do direito anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Revogação do direito anterior\n\n1 - São revogados:\n\na) O [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, com excepção do artigo 53.º, que se mantém até à entrada em vigor do novo regime remuneratório a que se refere o n.º 2 do artigo 35.º;\n\nb) O [Decreto-Lei n.º 94/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1987-662500), de 2 de Março, exceptuando o disposto no n.º 4 do artigo 3.º e no n.º 2 do artigo 9.º\n\n2 - Quando disposições legais ou regulamentares remeterem para preceitos do [Decreto-Lei n.º 513-Z/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-z-1979-147386), de 27 de Dezembro, entende-se que a remissão valerá para as correspondentes disposições do presente diploma, salvo se a interpretação daquelas impuser solução diferente.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nQuadro do pessoal\n\nMapa a que se refere o n.º 1 do artigo 27.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)"
+  },
+  "bf0aabd390413b58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "1967240b3d5f7e45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "b75316e4533c5446": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e5acc3572e638eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 4.º — Direcção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e4cac0766fd0f8a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho de inspecção",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 5.º — Conselho de inspecção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "4decb6c9e1e47fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 6.º — Serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "f7d18861bd80ed0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Inspecção de Serviços Públicos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 7.º — Inspecção de Serviços Públicos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "c2c397faeb4b4550": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Inspecção de Serviços Tributários",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 8.º — Inspecção de Serviços Tributários\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "01980787f7b1a096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Núcleo de Fiscalização dos Tabacos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 9.º — Núcleo de Fiscalização dos Tabacos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "629f6b162cd47258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Inspecção Patrimonial e Financeira das Autarquias Locais",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 10.º — Inspecção Patrimonial e Financeira das Autarquias Locais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "be7de31f9d6dbc71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Inspecção do Sector Empresarial do Estado",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 11.º — Inspecção do Sector Empresarial do Estado\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "750fdaa72219e0b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Inspecção de Empresas",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 12.º — Inspecção de Empresas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "06b7588a9bdfc540": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Núcleo de Inspecção às Entidades Parafinanceiras",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 13.º — Núcleo de Inspecção às Entidades Parafinanceiras\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "9f6cdae7ac3d5f12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Serviço Jurídico",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 14.º — Serviço Jurídico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e02f3e49549e79af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Serviço de Coordenação dos Controlos Comunitários",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 15.º — Serviço de Coordenação dos Controlos Comunitários\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "d803a049af5514b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Gabinete de Estudos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 16.º — Gabinete de Estudos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "a1002559f14bb333": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Centros de apoio regional",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 17.º — Centros de apoio regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "39f95dfe77e0724d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Núcleos de apoio técnico",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 18.º — Núcleos de apoio técnico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "0f29439db4fcc290": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Serviços Administrativos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 19.º — Serviços Administrativos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "19d216b5391e10a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Secretariados de apoio",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 20.º — Secretariados de apoio\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "c6e0c477f4c670c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competência comum aos diversos serviços",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 21.º — Competência comum aos diversos serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "1717b0b2175e98e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Âmbito e objectivos das acções",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 22.º — Âmbito e objectivos das acções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "3b83aa292bed8e85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direcção dos serviços",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 23.º — Direcção dos serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "43caae61602dfec8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Orientação e execução de acções",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 24.º — Orientação e execução de acções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "f8e0ac32e6c7c9eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Funcionamento interno",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 25.º — Funcionamento interno\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "07a24ed89c203af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Plano e relatório anual de actividades",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 26.º — Plano e relatório anual de actividades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "634a28489345976a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Quadro do pessoal",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 27.º — Quadro do pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e977e8c13631a761": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Classificação anual de serviço",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 28.º — Classificação anual de serviço\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "4217806e29763f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Provimento do pessoal dirigente",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 29.º — Provimento do pessoal dirigente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "af3e4d62047f6cbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Provimento do pessoal da carreira de inspecção",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 30.º — Provimento do pessoal da carreira de inspecção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "9596dde33b4334fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Provimento do pessoal técnico de finanças",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 31.º — Provimento do pessoal técnico de finanças\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e4b412c7f1aee1bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Provimento do pessoal de fiscalização dos tabacos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 32.º — Provimento do pessoal de fiscalização dos tabacos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "14221fcd365e8b63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Provimento de outro pessoal",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 33.º — Provimento de outro pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "acffb0174fc8bf03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regime de provimento e selecção",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 34.º — Regime de provimento e selecção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "93aaa9c89f40bb27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Remunerações",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 35.º — Remunerações\n\n1 - (Revogado.)\n\n2 - O pessoal da carreira de inspecção, incluindo o pessoal dirigente, enquanto corpo especial, nos termos do n.º 3 do artigo 16.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, é remunerado de acordo com escalas indiciárias próprias.\n\n> Alterado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "016cd9bc76fd45fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º-A — Remunerações dos dirigentes",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 82/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1997-468801), publicado em 1997-04-09."
+   ],
+   "markdown": "###### Artigo 35.º-A — Remunerações dos dirigentes\n\n1 - Para os efeitos do disposto no n.º 2 do artigo anterior, a escala indiciária aplicável aos dirigentes da carreira de inspecção é a seguinte:\n\nInspector-geral de finanças - 100;\n\nSubinspector-geral de finanças - 90%;\n\nInspector de finanças - director - 80%;\n\nInspector de finanças - chefe - 75%.\n\n2 - O valor do índice 100 da remuneração base do inspector-geral de finanças é de 730800$00.\n\n> Aditado pelo/a [Decreto-Lei n.º 82/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1997-468801), publicado em 1997-04-09."
+  },
+  "db38d7a63351dec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Direitos e prerrogativas",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 36.º — Direitos e prerrogativas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "e0f7bb7df7a970ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Dever de sigilo",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 37.º — Dever de sigilo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "99f5c589b1d8327a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Incompatibilidades",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 38.º — Incompatibilidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "0b3ba55ff04dc521": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Fiscalização de mediadores",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 39.º — Fiscalização de mediadores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "62b6edce7b59529c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Fiscalização do resultado das acções da IGF",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 40.º — Fiscalização do resultado das acções da IGF\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "c9189de29992676a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Fornecimento à IGF de instruções administrativas",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 41.º — Fornecimento à IGF de instruções administrativas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "6503aec17d780393": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Transferências",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 42.º — Transferências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "95b2287d86c3d6aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Remunerações",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 43.º — Remunerações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "96462add863e0355": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Trabalhos e cursos para ingresso e acesso em carreiras",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 44.º — Trabalhos e cursos para ingresso e acesso em carreiras\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "b93e40ce39d2d1ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Inspectores de finanças chefes",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 45.º — Inspectores de finanças chefes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "048eb72b33fac37c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Transição",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 46.º — Transição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "f672373085b1fa07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Reclassificação de escriturários-dactilógrafos",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 47.º — Reclassificação de escriturários-dactilógrafos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "cb360b0d9a86e090": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Reclassificação profissional",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 48.º — Reclassificação profissional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "a2707996568c9c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Preenchimento de lugares",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 49.º — Preenchimento de lugares\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "a3abc7ab6ace5e05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Dispensa transitória de condições",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 50.º — Dispensa transitória de condições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "f5b49f7035aa4965": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Provimento de lugares do quadro da IAL",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 51.º — Provimento de lugares do quadro da IAL\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "c5c1c492cceeebfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Provimento de lugar",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 52.º — Provimento de lugar\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "67ef869d86efcb2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Regulamentação da Lei Orgânica da IGF",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 53.º — Regulamentação da Lei Orgânica da IGF\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+  },
+  "63c47e83dd6c3bdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Revogação do direito anterior",
+   "in_force_from": "1998-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+   ],
+   "markdown": "###### Artigo 54.º — Revogação do direito anterior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nQuadro do pessoal\n\nMapa a que se refere o n.º 1 do artigo 27.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)"
+  }
+ }
+}

@@ -1,0 +1,1162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240823:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9fa069b3736527d",
+    "23836370ae405d04",
+    "82aab6dd080352d8",
+    "2bd26c46e73bd691",
+    "5f473de530a64bdc",
+    "e5438a59089e60b2",
+    "32f224e1b211fa04",
+    "dca851b203913b56",
+    "4e7c86568a1bd652",
+    "b4c7bd93bf1a3ce2",
+    "b8bf88f5396d05cd",
+    "9dc096cfe5a28d3d",
+    "cca416991ec834ce",
+    "2b7ac8d848b4f19b",
+    "58304dd74450fe69",
+    "b7ebd7f1cac9431f",
+    "350ac2245f35be46",
+    "f6c7fa56a623e40c",
+    "2c5184c597802b50",
+    "de8d63c6d581ae8e",
+    "3fb784d1c4902e5c",
+    "4796266b7b5f0c9f",
+    "ab6f993517a1f200",
+    "5b6b6e77ad0b5f4f",
+    "e2c9afec43e675c4",
+    "9566a8f9066c97ce",
+    "2581ba81fc9fd2eb",
+    "7faf9c4fa6d709ed",
+    "bd7e27e2cf636d0b",
+    "643057dbb3b26a7a",
+    "37c2b098b3fb8b84",
+    "d539710b50733e5e",
+    "3177c7450e2cf8d7",
+    "84261ebd26deb2ab",
+    "83cdb97d502a68d8",
+    "86b674cf823698d6",
+    "d038888b2516fcb6",
+    "a0b24f7f2f265676",
+    "36190bf744e60d77",
+    "d030ddc61d000452",
+    "fe46fb66aa12ba2a",
+    "60eb5957fd036cfc",
+    "047c40853e1c0aa4",
+    "00ecc137c8208518",
+    "b1b9c7aa3f310741",
+    "ec39d7cfac625389",
+    "88a407a4d05d454b",
+    "afbda2dadcb99846",
+    "d171acb9f7bbc4f3",
+    "294b364ce60f843d",
+    "96c59dbf2189f1e6",
+    "41b5c7a33d4e06e1",
+    "cf5e6d7c3a62ab31",
+    "b6b3993260bf13ac",
+    "031f77808d0ba012",
+    "f1498c81236866cd",
+    "a82e0fd9e0509dbd",
+    "61ef91e19a498b1e",
+    "f8c4425f6dd5621b",
+    "d36011d6b3d4016a",
+    "aeb887a5a2f0685a"
+   ]
+  },
+  {
+   "date": "1996-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314396:por",
+     "title": "Decreto-Lei n.º 28-B/96",
+     "published": "1996-04-04",
+     "dre_path": "/dr/detalhe/decreto-lei/28-b-1996-314396"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º"
+   ],
+   "fragments": [
+    "d9fa069b3736527d",
+    "23836370ae405d04",
+    "80c4c2049cd3f43b",
+    "3506c141fc367549",
+    "1de2b5d84c3536e1",
+    "a37c9744b5687e86",
+    "32f224e1b211fa04",
+    "8872733da2d754c8",
+    "7011c19f5e5a99bd",
+    "b4c7bd93bf1a3ce2",
+    "b8bf88f5396d05cd",
+    "95f1d0513995509a",
+    "8d64836ff7c54c5d",
+    "2b7ac8d848b4f19b",
+    "f8668ad969d49c21",
+    "64e85846ace25b03",
+    "eff12cc5076d507c",
+    "4192993ffd3ccda8",
+    "4afef8b8315cd800",
+    "4c94fa901e653a96",
+    "4799a1b8eed935a9",
+    "ce8028351b0461c9",
+    "fcc7e35015068706",
+    "7aa9bbf592768f7b",
+    "d9c4613d8a6733f8",
+    "9566a8f9066c97ce",
+    "559300532bac5bcf",
+    "394990a7095f750b",
+    "225825c245ef689a",
+    "6078f9d5fab977c2",
+    "37c2b098b3fb8b84",
+    "d539710b50733e5e",
+    "c53254fb9291e2c3",
+    "84261ebd26deb2ab",
+    "fbd57ca37120b103",
+    "e9eff5f95a087608",
+    "40ec0ecf3429e57c",
+    "952b1065f83e75e5",
+    "e5852704c677ddfe",
+    "9d060de4a4c23025",
+    "9d9f68266ff04694",
+    "c1ebbb55779470ce",
+    "07e276c0232ec673",
+    "ef587fbec815f53f",
+    "a992777bf288c7ee",
+    "cd5877dffa677385",
+    "8d248f03245049ed",
+    "34b1691442695cd4",
+    "d171acb9f7bbc4f3",
+    "298bba5352d79d31",
+    "17b94386a0d55fa0",
+    "41b5c7a33d4e06e1",
+    "09f4f007fe0989e9",
+    "b6b3993260bf13ac",
+    "db597ebe5c58eecb",
+    "f1498c81236866cd",
+    "2e08521de438bd7b",
+    "5a74589744414b37",
+    "a3bfb65c827138b7",
+    "814c39840a5a4a77",
+    "c202dbd50e4175ba"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9fa069b3736527d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Setembro\n\nSurgindo como concretização dos princípios gerais consagrados na Lei de Bases do Sistema Educativo, com a aprovação do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, foi introduzido no sistema educativo português um novo regime de acesso ao ensino superior.\n\nConsiderando a novidade que caracterizou esse sistema, logo no [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707) se instituiu uma comissão de acompanhamento e avaliação do sistema, com o objectivo fundamental de promover a monitorização do funcionamento do novo regime e propor a introdução dos melhoramentos sugeridos pela experiência. Para além disso, previa-se ainda que, decorrido certo lapso de tempo, se procedesse a uma revisão do sistema, à luz da informação colhida a partir do seu funcionamento e dos resultados da sua aplicação (artigo 44.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707)).\n\nEsgotado o período então estabelecido, é agora tempo de proceder a essa revisão.\n\nO sistema constante do presente diploma assenta em dois pilares fundamentais: o trabalho desenvolvido pelo estudante ao longo do ensino secundário, medido através das classificações finais obtidas, e a avaliação das suas capacidades para a frequência do curso do ensino superior em que pretende ingressar, operada através das provas específicas.\n\nNo sentido de assegurar a justiça relativa e a coerência interna do sistema, as classificações do ensino secundário serão objecto de aferição, através de um exame nacional (aliás, exigido pela Lei de Bases do Sistema Educativo) a realizar por todos aqueles que queiram ingressar no sistema.\n\nPara além destes aspectos gerais, que revelam a traça do novo sistema de acesso, importa sublinhar dois outros aspectos.\n\nEm primeiro lugar, as regras que agora se aprovam garantem, por inteiro, a autonomia das instituições de ensino superior, públicas e não públicas. Com efeito, reconhece-se que as instituições de ensino tem um papel insubstituível na selecção dos seus próprios alunos.\n\nDe outra parte, considerando que se encontra em curso uma reforma curricular que introduz alterações estruturais no sistema do ensino secundário, esta revisão do sistema de acesso adoptou uma metodologia susceptível de assegurar uma transição sem sobressaltos para a nova estrutura curricular.\n\nForam ouvidos o Conselho Nacional de Educação, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, as associações de estudantes, as estruturas representativas das associações de pais e a comissão de avaliação e consulta do sistema de acesso ao ensino superior, a que se refere o artigo 44.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "82aab6dd080352d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime de acesso ao ensino superior."
+  },
+  "2bd26c46e73bd691": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - O regime constante do presente diploma aplica-se ao ingresso nos estabelecimentos de ensino superior público, particular e cooperativo.\n\n2 - As regras de acesso à Universidade Católica Portuguesa são as previstas no n.º 3 do artigo 3.º do [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), de 17 de Abril."
+  },
+  "5f473de530a64bdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Ingresso em estabelecimento e curso superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ingresso em estabelecimento e curso superior\n\n1 - O ingresso em cada estabelecimento e curso do ensino superior está sujeito às restrições decorrentes do número máximo de vagas fixado anualmente pela entidade competente.\n\n2 - O preenchimento das vagas em cada estabelecimento e curso do ensino superior é feito por concurso."
+  },
+  "e5438a59089e60b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de candidatura\n\n1 - Podem candidatar-se à frequência de um estabelecimento e curso de ensino superior os estudantes que sejam titulares do 12.º ano de escolaridade do ensino secundário ou de habilitação legalmente equivalente e tenham realizado tanto a prova de aferição como as provas específicas previstas no presente diploma.\n\n2 - Para além das condições referidas no número anterior, é necessário o preenchimento dos pré-requisitos fixados para o curso em causa."
+  },
+  "32f224e1b211fa04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Vagas"
+  },
+  "dca851b203913b56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência para a fixação de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência para a fixação de vagas\n\n1 - Nas instituições de ensino superior público tuteladas exclusivamente pelo Ministério da Educação, as vagas são fixadas anualmente pelos respectivos órgãos de governo, nos termos da lei e dos estatutos.\n\n2 - Quando tal seja exigido por imperativos de adequação à política educativa, pode o Ministro da Educação fixar, sob proposta dos órgãos de governo competentes das instituições, o número máximo de matrículas anuais.\n\n3 - Nos estabelecimentos de ensino superior público sujeitos a dupla tutela, a competência para a fixação das vagas é dos ministros da tutela, sob proposta do órgão previsto no respectivo diploma orgânico.\n\n4 - No ensino superior particular ou cooperativo, a competência para a fixação das vagas cabe ao Ministro da Educação, sob proposta das instituições de ensino superior.\n\n5 - A fixação das vagas nos casos a que se referem os n.os 2, 3 e 4 é objecto de portaria."
+  },
+  "4e7c86568a1bd652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Comunicação das vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação das vagas\n\n1 - Até 15 de Abril de cada ano, deve ser comunicado ao Ministro da Educação o número de vagas fixado ou proposto, consoante os casos, pelas instituições de ensino superior.\n\n2 - Nos casos a que se referem os n.os 2, 3 e 4 do artigo anterior, as propostas apresentadas pelas instituições de ensino superior devem ser acompanhadas da necessária fundamentação."
+  },
+  "b4c7bd93bf1a3ce2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Condições de acesso"
+  },
+  "b8bf88f5396d05cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Prova de aferição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Prova de aferição"
+  },
+  "9dc096cfe5a28d3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definição\n\n1 - A prova de aferição visa assegurar a homogeneidade das classificações atribuídas no ensino secundário e consiste na realização de um exame nacional, escrito e não eliminatório, sobre matéria do curso do ensino secundário.\n\n2 - Até 30 de Setembro do ano anterior ao da candidatura, o Ministro da Educação fixa, por portaria, para cada curso do ensino secundário, o objecto e o programa da prova de aferição."
+  },
+  "cca416991ec834ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização\n\nAs provas de aferição são organizadas conjuntamente pela Direcção-Geral dos Ensinos Básico e Secundário e pelo Gabinete de Educação Tecnológica, Artística e Profissional e terão lugar após o final das actividades lectivas do 12.º ano de escolaridade."
+  },
+  "2b7ac8d848b4f19b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Provas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Provas específicas"
+  },
+  "58304dd74450fe69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza\n\n1 - As provas específicas destinam-se a avaliar a capacidade dos candidatos para a frequência de um curso superior, assegurando, conjuntamente com as classificações do ensino secundário, a sua seriação.\n\n2 - As provas específicas são nacionais, escritas e não eliminatórias."
+  },
+  "b7ebd7f1cac9431f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Provas específicas a realizar para o acesso a cada curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Provas específicas a realizar para o acesso a cada curso\n\n1 - A candidatura a cada par estabelecimento/curso está condicionada à realização de uma ou duas provas específicas.\n\n2 - As provas específicas são escolhidas pelas instituições do ensino superior de entre elenco constante de portaria do Ministro da Educação.\n\n3 - A instituição de ensino pode facultar ao candidato a possibilidade de escolha da prova ou provas específicas a realizar de entre um conjunto de provas estabelecido.\n\n4 - As provas específicas tem lugar após a realização das provas de aferição."
+  },
+  "350ac2245f35be46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Elenco das provas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elenco das provas específicas\n\nO elenco das provas específicas é estabelecido de entre as matérias leccionadas no ensino secundário devendo a portaria que o contém ser publicada até 30 de Abril de cada ano."
+  },
+  "f6c7fa56a623e40c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Escolha das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Escolha das provas\n\n1 - Cabe às instituições do ensino superior a escolha das provas específicas para cada um dos cursos nelas ministrados.\n\n2 - A escolha a que se refere o número anterior deve ser comunicada ao Ministro da Educação até 15 de Maio de cada ano, ficando essa comunicação a cargo:\n\na) Nas instituições de ensino superior universitário públicas, do reitor ou do órgão estatutariamente equivalente;\n\nb) Nas instituições de ensino superior politécnico público, do presidente, ou do presidente da comissão instaladora, ou do director ou do presidente do conselho directivo;\n\nc) Nas instituições de ensino superior sujeitas a dupla tutela, dos órgãos máximos de gestão;\n\nd) Nas instituições de ensino superior particular e cooperativo, do respectivo reitor ou presidente."
+  },
+  "2c5184c597802b50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Determinação das provas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Determinação das provas específicas\n\n1 - A escolha das provas deve estar concluída e publicada:\n\na) Relativamente às provas que incidam sobre disciplinas do 10.º/11.º anos, até três anos lectivos antes do ano a que se destina a candidatura, salvo se forem indicadas em alternativa às já solicitadas ou se tratar de disciplinas da componente de formação geral;\n\nb) Relativamente às provas que incidam sobre disciplinas do 12.º ano, até um ano lectivo antes do ano a que se destina a candidatura, salvo se forem indicadas em alternativa às já solicitadas.\n\n2 - A determinação das provas específicas para acesso a cursos novos não está sujeita às restrições constantes do número anterior."
+  },
+  "de8d63c6d581ae8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Organização, realização e classificação das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Organização, realização e classificação das provas\n\n1 - A organização, realização e classificação das provas específicas são da responsabilidade das instituições de ensino superior.\n\n2 - Para efeito do disposto no número anterior, as instituições de ensino superior beneficiarão de apoio logístico do Ministério da Educação."
+  },
+  "3fb784d1c4902e5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regras técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regras técnicas\n\n1 - As regras técnicas de organização, realização e classificação das provas específicas são definidas anualmente por uma comissão constituída por:\n\na) Um representante do Conselho de Reitores das Universidades Portuguesas, que coordenará;\n\nb) Um representante do Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nc) Um representante das instituições de ensino superior público não integradas nos órgãos referidos nas alíneas a) e b);\n\nd) Um representante das instituições de ensino superior particular e cooperativo.\n\n2 - A designação do representante referido na alínea d) do número anterior é feita por despacho do Ministro da Educação."
+  },
+  "4796266b7b5f0c9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Princípios de organização, realização e classificação das provas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípios de organização, realização e classificação das provas específicas\n\n1 - A organização, a realização e a classificação das provas específicas obedecem aos seguintes princípios:\n\na) A elaboração de cada prova e a direcção e homologação da sua classificação são da competência de um júri constituído por docentes do ensino superior e integrando, pelo menos, um professor profissionalizado do ensino secundário;\n\nb) O processo de elaboração e de classificação das provas deve garantir objectividade na avaliação e homogeneidade na atribuição das classificações;\n\nc) O programa de cada prova não pode exceder o programa oficialmente em vigor para a disciplina do ensino secundário identificada na portaria a que se refere o n.º 2 do artigo 10.º;\n\nd) A inscrição para cada prova e a sua realização devem ter lugar em, pelo menos, uma localidade por cada distrito e Região Autónoma;\n\ne) As provas devem ser classificadas na escala inteira de 0 a 100;\n\nf) Os estudantes podem reclamar das classificações das provas para o respectivo júri.\n\n2 - Os júris a que se refere a alínea a) do n.º 1 são nomeados pela comissão, sendo os docentes do ensino secundário designados pelo director-geral dos Ensinos Básico e Secundário."
+  },
+  "ab6f993517a1f200": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Colaboração das instituições de ensino básico e secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Colaboração das instituições de ensino básico e secundário\n\n1 - Sempre que razões operacionais o justifiquem, a inscrição para as provas e a sua realização podem, sob proposta das instituições de ensino superior e por despacho do Ministro da Educação, realizar-se em estabelecimentos de ensino preparatório ou secundário.\n\n2 - Os estabelecimentos de ensino preparatório ou secundário solicitados a participar, nos termos do número anterior, nas operações relacionadas com as provas prestarão aos estabelecimentos de ensino superior todo o apoio necessário à sua concretização."
+  },
+  "5b6b6e77ad0b5f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Comunicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comunicação dos resultados\n\nOs resultados finais de cada prova serão comunicados pelo respectivo júri ao Gabinete Coordenador do Ingresso no Ensino Superior, de acordo com as normas técnicas estabelecidas por este, nos 30 dias subsequentes à realização da 1.ª prova da 1.ª chamada."
+  },
+  "e2c9afec43e675c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Não realização de provas e não comunicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Não realização de provas e não comunicação dos resultados\n\nSempre que, por motivos alheios à vontade dos estudantes, não sejam comunicados, no prazo respectivo, ao Gabinete Coordenador do Ingresso no Ensino Superior os resultados, totais ou parciais, de uma ou mais provas específicas, quer por não se terem realizado quer por não haverem sido classificadas, as respectivas classificações serão substituídas pelas médias gerais do 10.º, 11.º e 12.º anos de escolaridade, com igual ponderação."
+  },
+  "9566a8f9066c97ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Pré-requisitos"
+  },
+  "2581ba81fc9fd2eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Caracterização\n\nPara acesso aos cursos em que as aptidões físicas, funcionais ou vocacionais assumem particular relevância, podem as instituições de ensino superior estabelecê-las como pré-requisitos."
+  },
+  "7faf9c4fa6d709ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Fixação dos pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fixação dos pré-requisitos\n\nÀ fixação dos pré-requisitos é aplicável o disposto no artigo 12.º"
+  },
+  "bd7e27e2cf636d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Avaliação dos pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação dos pré-requisitos\n\n1 - A avaliação dos pré-requisitos deve ser feita de forma objectiva e tecnicamente rigorosa, de acordo com regulamento a elaborar pelas instituições do ensino superior.\n\n2 - Os pré-requisitos que se destinem a avaliar aptidões funcionais e ou físicas serão eliminatórios e têm o seu resultado expresso em Apto e Não apto.\n\n3 - Os pré-requisitos vocacionais não são eliminatórios e têm o seu resultado erxpresso num valor numérico, que será utilizado para ponderar o resultado das provas específicas."
+  },
+  "643057dbb3b26a7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Organização\n\n1 - A divulgação da regulamentação de cada pré-requisito deve ser feita até 30 de Abril do ano lectivo anterior ao da candidatura.\n\n2 - A avaliação dos pré-requisitos tem lugar no de curso do ano lectivo que antecede a candidatura, com a antecedência mínima de 60 dias relativamente à realização das respectivas provas específicas.\n\n3 - As instituições que exijam pré-requisitos similares devem coordenar-se para a regulamentação e avaliação conjunta dos mesmos.\n\n4 - No ano lectivo de 1992-1993 mantêm-se em vigor as regras referentes à exigência de pré-requisitos."
+  },
+  "37c2b098b3fb8b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Concursos"
+  },
+  "d539710b50733e5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Normas gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Normas gerais"
+  },
+  "3177c7450e2cf8d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Concursos\n\n1 - Estão sujeitas a concurso nacional as vagas fixadas para:\n\na) Os cursos ministrados nos estabelecimentos de ensino superior público tutelados exclusivamente pelo Ministério da Educação;\n\nb) Os cursos ministrados pelos estabelecimentos de ensino superior público sujeitos a dupla tutela.\n\n2 - São objecto de concurso local as vagas fixadas para:\n\na) Os cursos ministrados em estabelecimentos de ensino superior particular ou cooperativo;\n\nb) Os cursos de formação militar ou policial ministrados pelos estabelecimentos de ensino superior público sujeitos a dupla tutela;\n\nc) Cursos ministrados em estabelecimentos de ensino superior público para cujo acesso se exijam aptidões vocacionais específicas, a aferir mediante processo de selecção próprio."
+  },
+  "84261ebd26deb2ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Concurso nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Concurso nacional"
+  },
+  "83cdb97d502a68d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Candidatura\n\nA candidatura consiste na indicação, por ordem decrescente de preferência, de até seis pares estabelecimento/curso de ensino superior que o estudante pretende frequentar."
+  },
+  "86b674cf823698d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Execução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Execução do processo de candidatura\n\nCompete ao Gabinete Coordenador do Ingresso no Ensino Superior a execução de todo o processo de candidatura."
+  },
+  "d038888b2516fcb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Declaração de intenção de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Declaração de intenção de candidatura\n\nOs estudantes que pretendam candidatar-se ao ensino superior num determinado ano lectivo através do concurso nacional de acesso deverão declarar obrigatoriamente a sua intenção de candidatura no Gabinete Coordenador do Ingresso no Ensino Superior até 31 de Março desse ano."
+  },
+  "a0b24f7f2f265676": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Incompatibilidades\n\n1 - Cada estudante apenas se pode apresentar a concurso no mesmo ano lectivo através de um regime de candidatura.\n\n2 - A apresentação a concurso através de um dos regimes de candidatura previstos no presente diploma é igualmente incompatível com o requerimento, no mesmo ano lectivo, de reingresso, mudança de curso ou transferência."
+  },
+  "36190bf744e60d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Seriação dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Seriação dos candidatos\n\n1 - A seriação dos candidatos a cada curso em cada estabelecimento faz-se através da nota de candidatura.\n\n2 - A nota de candidatura é uma classificação na escala de 0 a 100, calculada através da aplicação de uma fórmula que contempla:\n\na) As classificações do ensino secundário convertidas para a escala de 0 a 100, com o peso de 50%;\n\nb) As classificações das provas específicas, com o peso de 50%.\n\n3 - Para efeito do disposto na alínea a) do número anterior, consideram-se classificações do ensino secundário:\n\na) A classificação final do 10.º/11.º anos de escolaridade, com o peso de 60%;\n\nb) A classificação final do 12.º ano de escolaridade, com o peso de 20%;\n\nc) O resultado da prova de aferição, com o peso de 20%.\n\n4 - Para os cursos de ensino secundário com a duração de três anos, as classificações a que se referem as alíneas a) e b) do número anterior são substituídas pela classificação final do curso.\n\n5 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria de classificação não são aplicáveis quando tais melhorias tiverem como objectivo o acesso ao ensino superior.\n\n6 - Da aplicação do disposto no número anterior não poderá resultar a realização de mais de um exame da mesma disciplina no mesmo ano lectivo.\n\n7 - Quando a componente a que se refere a alínea b) do n.º 2 integrar duas provas, a distribuição do peso por cada uma será feita pelas entidades a que se refere o artigo 12.º e comunicada à Direcção-Geral do Ensino Superior aquando da escolha das mesmas provas.\n\n8 - Quando para um determinado par estabelecimento/curso for solicitada a avaliação de pré-requisitos, a classificação das provas específicas será a que resultar do seu produto pelo factor de ponderação atribuído.\n\n9 - As instituições de ensino superior que exijam provas específicas em alternativa podem adoptar os mecanismos de ajustamento das classificações das provas específicas que considerem necessários à comparabilidade das classificações das diferentes provas."
+  },
+  "d030ddc61d000452": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Correcção estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Correcção estatística\n\nAs classificações do ensino secundário a que se referem as alíneas a) e b) do n.º 3 do artigo anterior serão, sempre que possível e necessário, corrigidas estatisticamente através de utilização de informações fornecidas acerca dos valores médios e desvios."
+  },
+  "fe46fb66aa12ba2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Preferências regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Preferências regionais\n\n1 - Têm preferência no acesso aos cursos ministrados nas instituições do ensino superior politécnico até 50% das respectivas vagas os candidatos oriundos da área de influência fixada para cada curso de cada estabelecimento daquele subsistema de ensino.\n\n2 - O disposto no número anterior é aplicável à candidatura aos preparatórios de cursos superiores universitários, bem como à candidatura aos cursos ministrados em universidades nos termos da alínea b) do n.º 1 do artigo 31.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.\n\n3 - O disposto no n.º 1 é aplicável aos cursos ministrados em instituições universitárias que, sob proposta destas, sejam reconhecidas pelo Ministro da Educação, por portaria, como de interesse regional.\n\n4 - As preferências regionais só se aplicam aos pares estabelecimento/curso que sejam indicados na lista resultante da seriação dos candidatos no primeiro lugar e seguintes, sem interrupção.\n\n5 - A percentagem das vagas a que se aplica o disposto no presente artigo, bem como a área de influência a que se refere o n.º 1, são fixadas anualmente para cada estabelecimento e curso de ensino superior pelos órgãos a que se refere o artigo 12.º, devendo esses elementos ser comunicados ao Gabinete Coordenador do Ingresso ao Ensino Superior até 19 de Abril."
+  },
+  "60eb5957fd036cfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Acessos preferenciais ao ensino superior politécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acessos preferenciais ao ensino superior politécnico\n\n1 - Os candidatos oriundos dos cursos técnico-profissionais do ensino secundário, dos cursos da via profissionalizante do 12.º ano, dos cursos de aprendizagem previstos no [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, e dos cursos das escolas profissionais previstos pelo [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, com equivalência ao 12.º ano podeão beneficiar de preferência no acesso a pares estabelecimento/curso de ensino superior politécnico até um máximo de 30% das respectivas vagas.\n\n2 - Os pares estabelecimento/curso a que se aplica o presente artigo, os cursos do ensino secundário a considerar, bem como a percentagem efectiva das vagas a afectar, são fixados anualmente por cada instituição de ensino superior politécnico."
+  },
+  "047c40853e1c0aa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Seriação dos candidatos a cada par estabelecimento/curso do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Seriação dos candidatos a cada par estabelecimento/curso do ensino superior\n\n1 - A seriação dos candidatos a cada par estabelecimento/curso é feita pela ordem decrescente das respectivas notas de candidatura.\n\n2 - Em relação aos pares estabelecimento/curso para os quais hajam sido estabelecidas preferências regionais e até ao limite de vagas aí estabelecido, a seriação considerará em primeiro lugar os candidatos que beneficiem dessa preferência e só depois os restantes.\n\n3 - Em relação aos pares estabelecimento/curso a que se refere o artigo anterior e até ao limite de vagas aí estabelecido, a seriação considerará em primeiro lugar os candidatos que beneficiem da preferência especial e só depois os restantes.\n\n4 - Em caso de empate, aplicam-se, sucessivamente, os seguintes critérios:\n\na) Classificação das provas específicas;\n\nb) Classificação da prova de aferição;\n\nc) Classificação final do 12.º ano de escolaridade;\n\nd) Classificação final do 10.º/11.º ano de escolaridade.\n\n5 - Para os cursos do ensino secundário com a duração de três anos, as classificações a que se referem as alíneas c) e d) do número anterior são substituídas pela classificação final do curso.\n\n6 - A consulta das listas ordenadas por par estabelecimento/curso resultantes do processo a que se refere o presente artigo será facultada a todos os interessados nos respectivos estabelecimentos."
+  },
+  "00ecc137c8208518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Contingentes de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contingentes de vagas\n\n1 - As vagas fixadas para cada curso em cada estabelecimento de ensino superior público são distribuídas por um contingente geral e por contingentes especiais.\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - As vagas dos contingentes especiais que não hajam sido preenchidas revertem para o contingente geral."
+  },
+  "b1b9c7aa3f310741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Colocação\n\nA colocação dos candidatos é feita tendo em consideração a ordem de preferência que manifestaram na candidatura e a posição que ocupam em cada uma das listas ordenadas referentes aos pares estabelecimento/curso a que se candidatam."
+  },
+  "ec39d7cfac625389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Divulgação dos resultados da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Divulgação dos resultados da candidatura\n\n1 - Findo o processo de colocação de qualquer das fases da candidatura, o Gabinete Coordenador do Ingresso ao Ensino Superior torna público o resultado da candidatura, o qual se exprime em:\n\na) Colocado, com indicação do par estabelecimento/curso;\n\nb) Não colocado;\n\nc) Excluído da candidatura, com indicação do fundamento legal.\n\n2 - A divulgação dos resultados da candidatura abrange, nomeadamente:\n\na) As notas de candidatura de cada opção de cada candidato;\n\nb) As notas de candidatura dos candidatos colocados em último lugar em cada par estabelecimento/curso."
+  },
+  "88a407a4d05d454b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Matrícula e inscrição\n\n1 - Os candidatos colocados num determinado estabelecimento e curso, numa determinada fase, devem aí proceder à respectiva matrícula e inscrição no ano lectivo em que foram colocados nos 10 dias subsequentes à divulgação dos resultados, sob pena de caducidade do direito emergente do resultado obtido no concurso.\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere.\n\n3 - Os estudantes colocados que não procedam à matrícula e inscrição sem motivo de força maior devidamente justificado não poderão candidatar-se em fase subsequente do concurso no próprio ano lectivo nem à matrícula e inscrição no ano lectivo imediato.\n\n4 - O estudante apenas se pode matricular no mesmo ano lectivo numa instituição de ensino superior.\n\n5 - Quando não seja observado o disposto no número anterior, apenas se considera válida a primeira matrícula.\n\n6 - O disposto no n.º 4 não se aplica às inscrições em cursos do ensino artístico."
+  },
+  "afbda2dadcb99846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Fases da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Fases da candidatura\n\nAs fases em que se desdobra a candidatura e as respectivas regras técnicas de execução são objecto de portaria do Ministro da Educação."
+  },
+  "d171acb9f7bbc4f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Concursos locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Concursos locais"
+  },
+  "294b364ce60f843d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Regras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regras\n\n1 - O disposto no artigo 29.º e nos n.os 1, 4 e 5 do artigo 33.º aplica-se aos concursos locais.\n\n2 - Os cursos objecto de concurso local a que se refere a alínea c) do n.º 2 do artigo 24.º, bem como as regras a que devem obedecer os concursos de candidatura à matrícula e inscrição nos mesmos, constam de diploma próprio."
+  },
+  "96c59dbf2189f1e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regimes especiais\n\nConsta de diploma próprio o regime de acesso ao ensino superior dos estudantes que se encontrem numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares que os acompanhem;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares que os acompanhem;\n\nc) Oficiais do quadro permanente das Forças Armadas Portuguesas, no âmbito da satisfação de necessidades específicas de formação das Forças Armadas;\n\nd) Estudantes bolseiros nacionais de países africanos de expressão portuguesa, no quadro dos acordos de cooperação firmados pelo Estado Português;\n\ne) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares aqui residentes, em regime de reciprocidade;\n\nf) Atletas de alta competição."
+  },
+  "41b5c7a33d4e06e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Outros regimes de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Outros regimes de candidatura"
+  },
+  "cf5e6d7c3a62ab31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Concursos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Concursos especiais\n\n1 - Para além dos concursos a que se referem os artigos anteriores, existem concursos especiais, regulados por diploma próprio, destinados a candidatos em situações habilitacionais específicas.\n\n2 - Serão organizados concursos especiais para:\n\na) Os titulares do exame especial de avaliação de capacidade para acesso ao ensino superior de maiores de 25 anos;\n\nb) Os titulares de cursos superiores e os titulares de cursos médios expressamente enunciados no diploma a que refere o n.º 1;\n\nc) Os estudantes que já hajam estado matriculados em curso de ensino superior nacional, em estabelecimento de ensino público nacional não tutelado exclusivamente pelo Ministério da Educação, em estabelecimento de ensino particular e cooperativo ou em curso de ensino superior estrangeiro.\n\n3 - As vagas eventualmente sobrantes dos concursos especiais acrescem às estabelecidas para o concurso geral."
+  },
+  "b6b3993260bf13ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Estudantes a frequentar os novos currículos de ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Estudantes a frequentar os novos currículos de ensino secundário"
+  },
+  "031f77808d0ba012": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Regras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regras\n\n1 - Aos estudantes que frequentem, em regime experimental, os novos currículos do ensino secundário aprovados pelo [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 9 de Agosto, será aplicado o regime fixado pelo presente diploma, com as adaptações decorrentes dos números seguintes.\n\n2 - O elenco de provas específicas será adaptado em função dos planos curriculares aplicados.\n\n3 - Os programas das provas específicas para estes estudantes não poderão exceder os programas efectivamente ministrados nas disciplinas correspondentes."
+  },
+  "f1498c81236866cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais"
+  },
+  "a82e0fd9e0509dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Comunicação e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Comunicação e divulgação\n\n1 - As instituições de ensino superior devem comunicar ao Ministério da Educação, através dos órgãos a que se refere o artigo 12.º, nos prazos constantes do presente diploma, as provas específicas, pré-requisitos, critérios de seriação, acessos preferenciais e vagas que proponham ou hajam aprovado nos termos do presente diploma, tendo em vista a sua divulgação.\n\n2 - Quando não se verifique, por motivo imputável à instituição de ensino superior, a comunicação das provas específicas e, quando for o caso, da respectiva ponderação ou dos critérios de seriação e das vagas que devam propor ou aprovar, nos termos do presente diploma, a sua fixação será feita, após audição prévia dos órgãos competentes da instituição em causa, pelo Ministro da Educação."
+  },
+  "61ef91e19a498b1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Guias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Guias\n\n1 - A Direcção-Geral do Ensino Superior promoverá a edição anual de um guia do ensino superior, contendo toda a informação relevante para os candidatos ao ensino superior acerca dos estabelecimentos e cursos existentes.\n\n2 - As instituições de ensino superior fornecerão à Direcção-Geral do Ensino Superior todos os elementos necessários à elaboração do guia do ensino superior.\n\n3 - As instituições de ensino superior fornecerão à Direcção-Geral do Ensino Superior a indicação das disciplinas do ensino secundário cuja inscrição recomendam, tendo em vista a frequência de cada um dos seus cursos.\n\n4 - A Direcção-Geral do Ensino Superior, com base nas informações que lhe forem fornecidas pelas instituições de ensino superior, promoverá a edição anual das publicações necessárias à adequada divulgação das recomendações de inscrição, provas específicas, pré-requisitos, critérios de seriação e vagas para a candidatura a cada par estabelecimento/curso."
+  },
+  "f8c4425f6dd5621b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Avaliação e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Avaliação e revisão\n\n1 - A avaliação deste regime será realizada por uma comissão de avaliação e consulta, nomeada por despacho do Ministro da Educação e constituída por:\n\na) O director-geral do Ensino Superior, que presidirá;\n\nb) Um representante do Conselho de Reitores das Universidades Portuguesas;\n\nc) Um representante do Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nd) Um representante dos estabelecimentos de ensino superior particular e cooperativo;\n\ne) Um representante das associações de pais;\n\nf) Dois representantes das associações de estudantes do ensino superior;\n\ng) Dois representantes das associações de estudantes do ensino secundário;\n\nh) Um representante do sector agrícola;\n\ni) Um representante do sector industrial;\n\nj) Um representante do sector comercial;\n\nl) Um representante da Direcção-Geral dos Ensinos Básico e Secundário;\n\nm) Um representante do Gabinete de Educação Tecnológica, Artística e Profissional.\n\n2 - A comissão poderá solicitar ao Ministro da Educação a colaboração de especialistas quando tal seja considerado necessário para o bom andamento dos seus trabalhos."
+  },
+  "d36011d6b3d4016a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Aplicação temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Aplicação temporal\n\n1 - Os presente diploma aplica-se à candidatura à matrícula e inscrição no ensino superior para os anos lectivos de 1993-1994, 1994-1995 e 1995-1996.\n\n2 - A partir do ano lectivo de 1996-1997, na sequência da generalização da aplicação da reestruturação curricular aprovada pelo [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 9 de Agosto, o sistema será objecto das adaptações que se revelem necessárias, ouvida a comissão a que se refere o artigo anterior.\n\n3 - Mantêm-se em vigor para o ano de 1992-1993 as regras vigentes quanto à exigência de pré-requisitos."
+  },
+  "aeb887a5a2f0685a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Revogação\n\nÉ revogado o [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, alterado pelos Decretos-Leis n.os [140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril, [33/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1990-335245), de 24 de Janeiro, [276/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1990-556416), de 10 de Setembro, e [379/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1991-288236), de 9 de Outubro, bem como as normas regulamentares aprovadas ao seu abrigo.\n\nVisto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos.\n\nPromulgado em 25 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Agosto de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "80c4c2049cd3f43b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "3506c141fc367549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "1de2b5d84c3536e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Ingresso em estabelecimento e curso superior",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 3.º — Ingresso em estabelecimento e curso superior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "a37c9744b5687e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 4.º — Condições de candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "8872733da2d754c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência para a fixação de vagas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 5.º — Competência para a fixação de vagas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "7011c19f5e5a99bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Comunicação das vagas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação das vagas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "95f1d0513995509a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definição",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 7.º — Definição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "8d64836ff7c54c5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Organização",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 8.º — Organização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "f8668ad969d49c21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Natureza",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 9.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "64e85846ace25b03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Provas específicas a realizar para o acesso a cada curso",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 10.º — Provas específicas a realizar para o acesso a cada curso\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "eff12cc5076d507c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Elenco das provas específicas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 11.º — Elenco das provas específicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "4192993ffd3ccda8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Escolha das provas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 12.º — Escolha das provas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "4afef8b8315cd800": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Determinação das provas específicas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 13.º — Determinação das provas específicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "4c94fa901e653a96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Organização, realização e classificação das provas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 14.º — Organização, realização e classificação das provas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "4799a1b8eed935a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regras técnicas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 15.º — Regras técnicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "ce8028351b0461c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Princípios de organização, realização e classificação das provas específicas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 16.º — Princípios de organização, realização e classificação das provas específicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "fcc7e35015068706": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Colaboração das instituições de ensino básico e secundário",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 17.º — Colaboração das instituições de ensino básico e secundário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "7aa9bbf592768f7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Comunicação dos resultados",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 18.º — Comunicação dos resultados\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "d9c4613d8a6733f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Não realização de provas e não comunicação dos resultados",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 19.º — Não realização de provas e não comunicação dos resultados\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "559300532bac5bcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Caracterização",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 20.º — Caracterização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "394990a7095f750b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Fixação dos pré-requisitos",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 21.º — Fixação dos pré-requisitos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "225825c245ef689a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Avaliação dos pré-requisitos",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação dos pré-requisitos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "6078f9d5fab977c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Organização",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 23.º — Organização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "c53254fb9291e2c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Concursos",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 24.º — Concursos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "fbd57ca37120b103": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 25.º — Candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "e9eff5f95a087608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Execução do processo de candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 26.º — Execução do processo de candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "40ec0ecf3429e57c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Declaração de intenção de candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 27.º — Declaração de intenção de candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "952b1065f83e75e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Incompatibilidades",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 28.º — Incompatibilidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "e5852704c677ddfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Seriação dos candidatos",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 29.º — Seriação dos candidatos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "9d060de4a4c23025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Correcção estatística",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 30.º — Correcção estatística\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "9d9f68266ff04694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Preferências regionais",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 31.º — Preferências regionais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "c1ebbb55779470ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Acessos preferenciais ao ensino superior politécnico",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 32.º — Acessos preferenciais ao ensino superior politécnico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "07e276c0232ec673": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Seriação dos candidatos a cada par estabelecimento/curso do ensino superior",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 33.º — Seriação dos candidatos a cada par estabelecimento/curso do ensino superior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "ef587fbec815f53f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Contingentes de vagas",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 34.º — Contingentes de vagas\n\n1 - (Revogado.)\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "a992777bf288c7ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Colocação",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 35.º — Colocação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "cd5877dffa677385": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Divulgação dos resultados da candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 36.º — Divulgação dos resultados da candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "8d248f03245049ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Matrícula e inscrição",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 37.º — Matrícula e inscrição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "34b1691442695cd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Fases da candidatura",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 38.º — Fases da candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "298bba5352d79d31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Regras",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 39.º — Regras\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "17b94386a0d55fa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Regimes especiais",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 40.º — Regimes especiais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "09f4f007fe0989e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Concursos especiais",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 41.º — Concursos especiais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "db597ebe5c58eecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Regras",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 42.º — Regras\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "2e08521de438bd7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Comunicação e divulgação",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 43.º — Comunicação e divulgação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "5a74589744414b37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Guias",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 44.º — Guias\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "a3bfb65c827138b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Avaliação e revisão",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 45.º — Avaliação e revisão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "814c39840a5a4a77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Aplicação temporal",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 46.º — Aplicação temporal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+  },
+  "c202dbd50e4175ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Revogação",
+   "in_force_from": "1996-04-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04."
+   ],
+   "markdown": "###### Artigo 47.º — Revogação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 28-B/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-1996-314396), publicado em 1996-04-04.\n\nVisto e aprovado em Conselho de Ministros de 2 de Julho de 1992. - Aníbal António Cavaco Silva - António Fernando Couto dos Santos.\n\nPromulgado em 25 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Agosto de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

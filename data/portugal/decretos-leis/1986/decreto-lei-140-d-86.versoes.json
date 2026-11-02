@@ -1,0 +1,377 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:569905:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ca14f59b2806ec86"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222021:por",
+     "title": "Decreto-Lei n.º 295/86",
+     "published": "1986-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/295-1986-222021"
+    },
+    {
+     "id": "pt:dre:490249:por",
+     "title": "Lei n.º 110/2009",
+     "published": "2009-09-16",
+     "dre_path": "/dr/detalhe/lei/110-2009-490249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 13.º",
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 18.º",
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 18.º-B",
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 21.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "5e79b7d4fbf17839",
+    "6e0456c2faf515e9",
+    "87cd8150c70b3df1",
+    "0b7077a4cc164eab",
+    "a125c1dacc769fa0",
+    "4a2d602c252772ed",
+    "2c2b26bdb2a8547c",
+    "f5996956abde0ce6",
+    "013c48f51295ef65",
+    "5e26cf40ad88e618",
+    "e3a3311c6d760071",
+    "f6f74be70e44b61a",
+    "8af255cbeb0ac484",
+    "3e56e91bc6480be5",
+    "e6d286c68b0d4bd6",
+    "e6859af0e5d2db99",
+    "4e2bc15a816b7439",
+    "6c7223e39f4446fb",
+    "92cff6d17066719f",
+    "f7499aa04e75ac17",
+    "3a122a7985cffe39",
+    "4a5636b99679a6f3",
+    "61466c826653ab4a",
+    "67e3322b36a3eb86",
+    "5d3ee224262a06aa",
+    "079755ed371da2cb",
+    "7b22d7e438cd4e62",
+    "33e9e224eacd64d1",
+    "4bdd419f645efb8d",
+    "8225ea2e5169f8f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "ca14f59b2806ec86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\n1 - O Programa do X Governo Constitucional, a par de outras medidas relacionadas com o financiamento do sistema de segurança social, prevê expressamente a «criação da taxa social única, com unificação dos descontos para a Segurança Social e o Fundo de Desemprego».\n\n2 - Com o presente diploma, ao mesmo tempo que se dá execução a um imperativo daquele Programa, criam-se as condições legais para a concretização de um vasto conjunto de objectivos, comportando uns incidências positivas de ordem mais vasta, sendo outros destinados a produzir efeitos cuja relevância se projecta mais especificamente em relação ao sistema de segurança social e seus beneficiários e contribuintes.\n\n3 - De entre as incidências positivas de ordem geral, são de destacar:\n\na) A racionalização e a simplificação de procedimentos no relacionamento recíproco entre a Administração e o público em geral;\n\nb) A redução de custos unitários nas empresas contribuintes da Segurança Social, combinando-se, assim, as vantagens que de tal facto resultam directamente para as empresas com as que indirectamente decorrem de mais este factor de ataque à inflação;\n\nc) O contributo compensatório que a redução de custos administrativos proporciona aos contribuintes face ao esforço adicional que possa resultar da entrada em vigor do imposto sobre o valor acrescentado;\n\nd) A criação de condições favorecedoras de um aumento de rendimento disponível por parte dos trabalhadores em geral, devido às medidas de desagravamento contributivo ora instituídas e a articular com outras medidas de desagravamento fiscal a implantar.\n\n4 - De entre os efeitos mais relevantes a colher da execução do presente diploma no que se refere ao sistema de segurança social e respectivos beneficiários e contribuintes, são de realçar:\n\na) O facto de se ter adoptado como base de incidência da taxa única a que é aplicável à Segurança Social, decorrendo esta opção da circunstância de ser aquela base que serve de cálculo das prestações pecuniárias substitutivas de salários;\n\nb) A unificação, no âmbito do sistema de segurança social, dos mecanismos de cobrança, liquidação e gestão das contribuições, evitando paralelamente os inconvenientes que resultam de diferentes comandos normativos e procedimentos operativos aplicáveis à arrecadação de contribuições para a Segurança Social, por um lado, e à liquidação de quotizações para o Fundo de Desemprego, por outro;\n\nc) A significativa economia e melhoria do aproveitamento de recursos do sector da Segurança Social;\n\nd) A apreciável redução de custos nas empresas contribuintes, as quais passam a beneficiar ainda de efeitos de simplificação administrativa, incluindo os que se referem à possibilidade de pagamento das contribuições devidas à Segurança Social com base em suporte informático;\n\ne) A redução de 1% (respeitando 0,5% aos trabalhadores e 0,5% às entidades patronais) na taxa de quotizações devidas para o Fundo de Desemprego que eram vigentes até à entrada em vigor do presente diploma;\n\nf) Deixem de se considerar remunerações, para os efeitos previstos no presente diploma, os abonos para falhas e bem assim as quantias pagas aos trabalhadores em cumprimento de acordos de cessação de contratos de trabalho, bem como as prestações relativas a alimentação;\n\ng) A redução global de encargos para os trabalhadores não subordinados e respectivas empresas que, em certas situações, estavam sujeitos ao pagamento de quotizações para o Fundo de Desemprego;\n\nh) Estabelece-se uma redução global nas contribuições devidas pela actividade da pesca artesanal e pelas atribuições pecuniárias qualificadas de pré-reforma, correspondente à eliminação da anterior incidência de quotizações para o Fundo de Desemprego;\n\ni) Passam a ser abrangidos pelos esquemas de prestação social no desemprego certos grupos de trabalhadores que, pelo respectivo estatuto, são abrangidos pelo regime de segurança social da função pública e que, embora sujeitos ao pagamento de quotizações para o Fundo de Desemprego, não beneficiavam daquela protecção.\n\n5 - A lógica subjacente à medida ora tomada, combinada com a que norteia as finalidades básicas de qualquer sistema de segurança social, conduz a que se reconheça carácter desajustado à manutenção de certo tipo de isenções que têm vigorado nas contribuições para o Fundo de Desemprego. Entendeu-se, por isso, não fazer recair sobre o sistema de segurança social as incidências decorrentes de condicionalismos específicos que têm rodeado certas empresas.\n\n6 - Contudo, e porque se entendeu que a eliminação imediata da totalidade das isenções em vigor seria susceptível de determinar efeitos particularmente gravosos em determinados casos, optou-se por manter algumas delas, observadas que sejam certas condições, limitando-se o seu âmbito a situações cujo controle se tem por satisfatório.\n\n7 - Por último, refere-se que as soluções encontradas, nos termos do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março, para o financiamento do Instituto do Emprego e Formação Profissional são as que melhor se ajustam à economia do presente diploma, mas principalmente ao objectivo de fundo que com ele se pretende concretizar.\n\n8 - No uso da autorização concedida pela [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - As taxas de contribuições a pagar pelos trabalhadores e pelas entidades patronais, a que se refere o artigo 1.º do [Decreto-Lei n.º 29/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1977-138162), de 20 de Janeiro, são fixadas, respectivamente, em 11% e 24% das remunerações por trabalho prestado.\n\n2 - O disposto no número anterior abrange todos os regimes ou esquemas de segurança social em que sejam aplicáveis as taxas de contribuições do regime geral de segurança social aos trabalhadores por conta de outrem.\n\nArt. 2.º Mantém-se em vigor, nos termos da legislação aplicável, a taxa de 0,5% prevista no artigo 2.º do [Decreto-Lei n.º 200/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1981-580296), de 9 de Julho, destinada ao financiamento do risco de doença profissional, que acresce, nos termos da legislação aplicável, às taxas previstas neste diploma.\n\nArt. 3.º - 1 - Não são devidas as quotizações ou contribuições para o Fundo de Desemprego previstas no [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, a partir da entrada em vigor deste diploma, salvo as respeitantes a período anterior, já liquidadas ou por liquidar.\n\n2 - Mantêm-se as quotizações para o Fundo de Desemprego já liquidadas, ou que o venham a ser, e as multas e os juros de mora pela falta de cumprimento das obrigações relativas a tais quotizações que se reportem às remunerações por trabalho ou serviços prestados até à entrada em vigor do presente diploma.\n\nArt. 4.º Mantêm-se em 8% e 20,5% das remunerações consideradas as taxas de contribuição de pessoal de serviço doméstico a que se refere o artigo 12.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho.\n\nArt. 5.º Mantêm-se em 4% e 8% das remunerações consideradas as taxas de contribuições dos membros do clero e associações religiosas a que se refere o artigo 7.º do [Decreto Regulamentar n.º 5/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1983-308561), de 31 de Janeiro.\n\nArt. 6.º São fixadas em 11% e 19% das remunerações as taxas de contribuições a que se refere o n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 57/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1983-452480), de 24 de Junho.\n\nArt. 7.º Mantêm-se em 7% e 14,6% das atribuições pecuniárias, qualificadas de pré-reformas, pagas a partir da entrada em vigor do presente diploma, as taxas das contribuições a que se refere o n.º 2 do [Despacho Normativo n.º 103/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1985-171343), de 23 de Setembro.\n\nArt. 8.º São fixadas em 3% e 10,5% das remunerações as taxas das contribuições devidas, respectivamente, pelos trabalhadores e pelas entidades patronais abrangidos pela Caixa de Abono de Família dos Empregados Bancários.\n\nArt. 9.º - 1 - São acrescidas em 3% e 3,5% das remunerações as taxas das contribuições devidas, respectivamente, pelos trabalhadores e pela entidade patronal abrangidos pela Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi.\n\n2 - O pagamento do valor resultante do acréscimo de contribuições, a que se refere o número anterior, será efectuado por depósito na Caixa Geral de Depósitos a favor do Instituto de Gestão Financeira da Segurança Social.\n\nArt. 10.º As taxas de contribuições fixadas neste diploma incidem sobre as remunerações pagas por trabalho prestado a partir da entrada em vigor do presente diploma.\n\nArt. 11.º Os trabalhadores a que se referem os artigos 8.º e 9.º têm direito às prestações de desemprego do regime geral de segurança social nos termos a regulamentar, tendo em atenção o seu enquadramento específico.\n\nArt. 12.º - 1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo poderão beneficiar da redução da taxa de contribuições sobre as remunerações por trabalho que lhes seja prestado a partir da entrada em vigor do presente diploma, nos termos a regulamentar por portaria do Ministro do Trabalho e Segurança Social.\n\n2 - Beneficiará da redução da taxa de contribuições para 8% o pessoal docente dos estabelecimentos de ensino enquadrados no sistema nacional de educação.\n\nArt. 13.º As entidades que beneficiarem de redução de taxa ou tiverem ao seu serviço trabalhadores em relação aos quais, por efeitos de redução, fiquem a praticar taxas diferentes deverão apresentar folhas de remunerações autonomizadas, contendo em cada uma delas apenas os trabalhadores em relação aos quais pratiquem a mesma taxa, sob pena de serem devidas contribuições pela mais elevada.\n\nArt. 14.º Deixam de ser considerados base de incidência contributiva:\n\na) Os abonos para falhas;\n\nb) As quantias pagas aos trabalhadores em cumprimento de acordos de cessação de contrato de trabalho;\n\nc) Os valores dos subsídios das refeições tomadas em refeitórios e o das senhas de almoço nos casos em que os trabalhadores não disponham de refeitórios.\n\nArt. 15.º - 1 - As folhas de remunerações que as entidades patronais contribuintes estão obrigadas a enviar mensalmente às instituições de segurança social podem ser substituídas por suporte informático, nos termos de acordo a celebrar para o efeito.\n\n2 - Os contribuintes que optarem pelo sistema previsto no número anterior entregarão, em duplicado e juntamente com o suporte magnético, uma folha resumo de totais.\n\n3 - O documento aludido no número anterior será autenticado por ambas as entidades intervenientes, sendo o respectivo duplicado devolvido à entidade patronal contribuinte.\n\nArt. 16.º - 1 - Para execução do regime previsto no artigo anterior será facultada uma microficha, listagem ou documento análogo, correspondente, na íntegra, ao suporte informático entregue.\n\n2 - Cada entidade patronal fica obrigada a promover e facultar a consulta da microficha, listagem ou documento análogo por parte dos trabalhadores, durante um período de 180 dias, a fim de os interessados deduzirem reclamações contra eventuais erros ou inexactidões.\n\nArt. 17.º - 1 - Findo o prazo mencionado no artigo anterior, presume-se que o conteúdo da microficha, listagem ou documento análogo utilizado corresponde, na íntegra, ao do suporte magnético a que respeita.\n\n2 - A presunção prevista neste preceito não pode ser ilidida mediante prova em contrário.\n\n3 - A adopção do regime previsto nos artigos 15.º e 16.º do presente diploma impede a possibilidade de deduzir impugnações ao abrigo do estatuído na parte final do artigo 368.º do Código Civil.\n\nArt. 18.º As contribuições pervistas neste decreto-lei serão pagas até ao dia 15 do mês seguinte àquele em que são devidas.\n\nArt. 19.º Das contribuições arrecadadas por força do presente diploma constituirão receitas próprias do Instituto do Emprego e Formação Profissional pelo menos 5% das mesmas.\n\nArt. 20.º O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as adaptações que se vierem a revelar necessárias.\n\nArt. 21.º As taxas contributivas previstas neste diploma não englobam as contribuições destinadas a fundos especiais de instituições de segurança social.\n\nArt. 22.º O presente diploma entra em vigor no dia 1 de Outubro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "5e79b7d4fbf17839": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\n1 - O Programa do X Governo Constitucional, a par de outras medidas relacionadas com o financiamento do sistema de segurança social, prevê expressamente a «criação da taxa social única, com unificação dos descontos para a Segurança Social e o Fundo de Desemprego».\n\n2 - Com o presente diploma, ao mesmo tempo que se dá execução a um imperativo daquele Programa, criam-se as condições legais para a concretização de um vasto conjunto de objectivos, comportando uns incidências positivas de ordem mais vasta, sendo outros destinados a produzir efeitos cuja relevância se projecta mais especificamente em relação ao sistema de segurança social e seus beneficiários e contribuintes.\n\n3 - De entre as incidências positivas de ordem geral, são de destacar:\n\na) A racionalização e a simplificação de procedimentos no relacionamento recíproco entre a Administração e o público em geral;\n\nb) A redução de custos unitários nas empresas contribuintes da Segurança Social, combinando-se, assim, as vantagens que de tal facto resultam directamente para as empresas com as que indirectamente decorrem de mais este factor de ataque à inflação;\n\nc) O contributo compensatório que a redução de custos administrativos proporciona aos contribuintes face ao esforço adicional que possa resultar da entrada em vigor do imposto sobre o valor acrescentado;\n\nd) A criação de condições favorecedoras de um aumento de rendimento disponível por parte dos trabalhadores em geral, devido às medidas de desagravamento contributivo ora instituídas e a articular com outras medidas de desagravamento fiscal a implantar.\n\n4 - De entre os efeitos mais relevantes a colher da execução do presente diploma no que se refere ao sistema de segurança social e respectivos beneficiários e contribuintes, são de realçar:\n\na) O facto de se ter adoptado como base de incidência da taxa única a que é aplicável à Segurança Social, decorrendo esta opção da circunstância de ser aquela base que serve de cálculo das prestações pecuniárias substitutivas de salários;\n\nb) A unificação, no âmbito do sistema de segurança social, dos mecanismos de cobrança, liquidação e gestão das contribuições, evitando paralelamente os inconvenientes que resultam de diferentes comandos normativos e procedimentos operativos aplicáveis à arrecadação de contribuições para a Segurança Social, por um lado, e à liquidação de quotizações para o Fundo de Desemprego, por outro;\n\nc) A significativa economia e melhoria do aproveitamento de recursos do sector da Segurança Social;\n\nd) A apreciável redução de custos nas empresas contribuintes, as quais passam a beneficiar ainda de efeitos de simplificação administrativa, incluindo os que se referem à possibilidade de pagamento das contribuições devidas à Segurança Social com base em suporte informático;\n\ne) A redução de 1% (respeitando 0,5% aos trabalhadores e 0,5% às entidades patronais) na taxa de quotizações devidas para o Fundo de Desemprego que eram vigentes até à entrada em vigor do presente diploma;\n\nf) Deixem de se considerar remunerações, para os efeitos previstos no presente diploma, os abonos para falhas e bem assim as quantias pagas aos trabalhadores em cumprimento de acordos de cessação de contratos de trabalho, bem como as prestações relativas a alimentação;\n\ng) A redução global de encargos para os trabalhadores não subordinados e respectivas empresas que, em certas situações, estavam sujeitos ao pagamento de quotizações para o Fundo de Desemprego;\n\nh) Estabelece-se uma redução global nas contribuições devidas pela actividade da pesca artesanal e pelas atribuições pecuniárias qualificadas de pré-reforma, correspondente à eliminação da anterior incidência de quotizações para o Fundo de Desemprego;\n\ni) Passam a ser abrangidos pelos esquemas de prestação social no desemprego certos grupos de trabalhadores que, pelo respectivo estatuto, são abrangidos pelo regime de segurança social da função pública e que, embora sujeitos ao pagamento de quotizações para o Fundo de Desemprego, não beneficiavam daquela protecção.\n\n5 - A lógica subjacente à medida ora tomada, combinada com a que norteia as finalidades básicas de qualquer sistema de segurança social, conduz a que se reconheça carácter desajustado à manutenção de certo tipo de isenções que têm vigorado nas contribuições para o Fundo de Desemprego. Entendeu-se, por isso, não fazer recair sobre o sistema de segurança social as incidências decorrentes de condicionalismos específicos que têm rodeado certas empresas.\n\n6 - Contudo, e porque se entendeu que a eliminação imediata da totalidade das isenções em vigor seria susceptível de determinar efeitos particularmente gravosos em determinados casos, optou-se por manter algumas delas, observadas que sejam certas condições, limitando-se o seu âmbito a situações cujo controle se tem por satisfatório.\n\n7 - Por último, refere-se que as soluções encontradas, nos termos do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março, para o financiamento do Instituto do Emprego e Formação Profissional são as que melhor se ajustam à economia do presente diploma, mas principalmente ao objectivo de fundo que com ele se pretende concretizar.\n\n8 - No uso da autorização concedida pela [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "6e0456c2faf515e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As taxas de contribuições a pagar pelos trabalhadores e pelas entidades patronais, a que se refere o artigo 1.º do [Decreto-Lei n.º 29/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1977-138162), de 20 de Janeiro, são fixadas, respectivamente, em 11% e 24% das remunerações por trabalho prestado.\n\n2 - O disposto no número anterior abrange todos os regimes ou esquemas de segurança social em que sejam aplicáveis as taxas de contribuições do regime geral de segurança social dos trabalhadores por conta de outrem.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "87cd8150c70b3df1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nMantém-se em vigor, nos termos da legislação aplicável, a taxa de 0,5% prevista no artigo 2.º do [Decreto-Lei n.º 200/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1981-580296), de 9 de Julho, destinada ao financiamento do risco de doença profissional, que acresce, nos termos da legislação aplicável, às taxas previstas neste diploma."
+  },
+  "0b7077a4cc164eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Não são devidas as quotizações ou contribuições para o Fundo de Desemprego previstas no [Decreto-Lei n.º 45080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45080-1963-627272), de 20 de Junho de 1963, a partir da entrada em vigor deste diploma, salvo as respeitantes a período anterior, já liquidadas ou por liquidar.\n\n2 - Mantêm-se as quotizações para o Fundo de Desemprego já liquidadas, ou que o venham a ser, e as multas e os juros de mora pela falta de cumprimento das obrigações relativas a tais quotizações que se reportem às remunerações por trabalho ou serviços prestados até à entrada em vigor do presente diploma.\n\n3 - Nos casos em que não tenha sido ainda efectuada a liquidação das quotizações a que se refere o número anterior deve a mesma ser efectuada nos termos da legislação vigente à data a que se reportam aquelas remunerações.\n\n4 - O pagamento das quotizações referidas no n.º 2 deve ser efectuado nos termos do artigo 4.º do [Decreto-Lei n.º 40/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1986-193626), de 4 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "a125c1dacc769fa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nMantêm-se em 8% e 20,5% das remunerações consideradas as taxas de contribuição de pessoal de serviço doméstico a que se refere o artigo 12.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho."
+  },
+  "4a2d602c252772ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Mantêm-se em 4% e 8% das remunerações consideradas as taxas de contribuições dos membros do clero e associações religiosas a que se refere o artigo 7.º do [Decreto Regulamentar n.º 5/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1983-308561), de 31 de Janeiro.\n\n2 - A taxa de 8% referida no número anterior integra já a taxa de 0,5% para financiamento do risco de doença profissional.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "2c2b26bdb2a8547c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão fixadas em 11% e 19% das remunerações as taxas de contribuições a que se refere o n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 57/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1983-452480), de 24 de Junho."
+  },
+  "f5996956abde0ce6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Mantêm-se em 7% e 14,6% das atribuições pecuniárias, qualificadas de pré-reformas, pagas a partir da entrada em vigor do presente diploma, as taxas das contribuições a que se refere o n.º 2 do [Despacho Normativo n.º 103/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/103-1985-171343), de 23 de Setembro.\n\n2 - São fixadas em 8% e 20,5% as taxas aplicáveis às atribuições pecuniárias qualificadas de pré-reforma quando estejam em causa trabalhadores com idade igual ou inferior a 55 anos.\n\n3 - Não há lugar, nas situações referidas nos números anteriores, à aplicação da taxa de 0,5% para financiamento do risco de doença profissional.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "013c48f51295ef65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 7.º-A\n\n1 - São fixadas em 9,5% e 22,5% das remunerações as taxas de contribuições devidas, respectivamente, pelos trabalhadores agrícolas permanentes e suas entidades patronais.\n\n2 - Mantêm-se em 8% e 20,5% das remunerações as taxas de contribuições devidas, respectivamente, pelos trabalhadores agrícolas não permanentes e suas entidades patronais abrangidas pelo regime geral.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "5e26cf40ad88e618": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º-B",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 7.º-B\n\nÉ fixada em 10% a taxa de contribuições dos pescadores da pesca artesanal.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "e3a3311c6d760071": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - São fixadas em 3% e 10,5% das remunerações as taxas das contribuições devidas, respectivamente, pelos trabalhadores e pelas entidades patronais abrangidos pela Caixa de Abono de Família dos Empregados Bancários.\n\n2 - Deixa de ser devida a quota mensal actualmente prevista para os trabalhadores abrangidos pela Caixa de Abono de Família dos Empregados Bancários.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "f6f74be70e44b61a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - São acrescidas em 3% e 3,5% das remunerações as taxas das contribuições devidas, respectivamente, pelos trabalhadores e pela entidade patronal abrangidos pela Caixa de Previdência do Pessoal da Companhia Portuguesa Rádio Marconi.\n\n2 - O pagamento do valor resultante do acréscimo de contribuições, a que se refere o número anterior, será efectuado por depósito na Caixa Geral de Depósitos a favor do Instituto de Gestão Financeira da Segurança Social."
+  },
+  "8af255cbeb0ac484": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs taxas de contribuições fixadas neste diploma incidem sobre as remunerações pagas por trabalho prestado a partir da entrada em vigor do presente diploma."
+  },
+  "3e56e91bc6480be5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 11.º\n\nOs trabalhadores a que se referem os artigos 8.º e 9.º têm direito às prestações de desemprego do regime geral de segurança social nos termos a regulamentar, devendo o Centro Nacional de Pensões proceder à sua inclusão no banco de dados, atribuindo-lhes o respectivo número nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "e6d286c68b0d4bd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Os contribuintes do regime geral de segurança social cuja actividade não tenha fim lucrativo podem beneficiar da redução de 3,5% na taxa de contribuições sobre as remunerações por trabalho que lhos seja prestado a partir da entrada em vigor do presente diploma.\n\n2 - Para efeitos do disposto no número anterior consideram-se como não tendo fim lucrativo, sem prejuízo de prova em contrário, nomeadamente as seguintes entidades:\n\na) Instituições de previdência;\n\nb) Instituições particulares de solidariedade social;\n\nc) Instituições personalizadas do Estado;\n\nd) Instituições de utilidade pública do Estado;\n\ne) Associações;\n\nf) Fundações;\n\ng) Cooperativas;\n\nh) Sindicatos;\n\ni) Uniões, federações e confederações;\n\nj) Ordens profissionais;\n\nl) Partidos políticos;\n\nm) Casas do povo;\n\nn) Caixas de crédito agrícola mútuo.\n\n3 - As entidades a que se referem os n.os 1 e 2 só podem beneficiar da redução da taxa contributiva desde que tenham a sua situação contributiva regularizada perante a Segurança Social.\n\n4 - Da aplicação de redução da taxa contributiva prevista no n.º 1 não pode resultar a fixação de taxa inferior à que, nas mesmas situações, era aplicável para o regime geral de segurança social dos trabalhadores por conta de outrem, anteriormente à entrada em vigor do presente diploma.\n\n5 - Não podem também ser aplicadas taxas inferiores às que sejam determinadas em legislação especial desde que estas sejam menores do que a taxa resultante da aplicação da redução de 3,5% à taxa prevista para as entidades patronais no n.º 1 do artigo 1.º\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "e6859af0e5d2db99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º-A",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 12.º-A\n\n1 - Para beneficiarem da redução da taxa referida no artigo anterior, as entidades contribuintes devem apresentar na instituição de segurança social que as abranja requerimento acompanhado de cópia autenticada do instrumento jurídico da sua constituição, dos estatutos ou de outro documento que, inequivocamente, comprove os fins não lucrativos que prosseguem.\n\n2 - A apresentação do requerimento a que se refere o número anterior determina a aplicação da taxa reduzida a partir do mês seguinte ao do requerimento, sem prejuízo do pagamento do valor da diferença entre aquela taxa e a taxa normal se se verificar o indeferimento do pedido.\n\n3 - Não são exigíveis juros de mora pelo valor da diferença das contribuições determinada pela aplicação da taxa normal, nos casos referidos na parte final do número anterior.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "4e2bc15a816b7439": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - As entidades que beneficiarem de redução de taxa ou tiverem ao seu serviço trabalhadores em relação aos quais, por efeitos de redução, fiquem a praticar taxas diferentes deverão apresentar folhas de remunerações autonomizadas, contendo em cada uma delas apenas os trabalhadores em relação aos quais pratiquem a mesma taxa, sob pena de serem devidas contribuições pela mais elevada.\n\n2 - Sempre que se verificarem as situações previstas no número anterior devem as entidades contribuintes apresentar também guias de pagamento autónomas.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "6c7223e39f4446fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-A",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 13.º-A\n\n1 - O pessoal docente dos estabelecimentos de ensino particular ou cooperativo integrado no sistema nacional de educação fica sujeito à taxa de 8%.\n\n2 - Para efeitos de aplicação do disposto no número anterior devem os estabelecimentos de ensino entregar conjuntamente com a primeira folha de remunerações, a apresentar ao abrigo do presente diploma, a prova de que se enquadram no sistema nacional de educação.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "92cff6d17066719f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "f7499aa04e75ac17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - As folhas de remunerações que as entidades patronais contribuintes estão obrigadas a enviar mensalmente às instituições de segurança social podem ser substituídas por suporte informático, nos termos de acordo a celebrar para o efeito.\n\n2 - Os contribuintes que optarem pelo sistema previsto no número anterior entregarão, em duplicado e juntamente com o suporte magnético, uma folha resumo de totais.\n\n3 - O documento aludido no número anterior será autenticado por ambas as entidades intervenientes, sendo o respectivo duplicado devolvido à entidade patronal contribuinte."
+  },
+  "3a122a7985cffe39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Para execução do regime previsto no artigo anterior será facultada uma microficha, listagem ou documento análogo, correspondente, na íntegra, ao suporte informático entregue.\n\n2 - Cada entidade patronal fica obrigada a promover e facultar a consulta da microficha, listagem ou documento análogo por parte dos trabalhadores, durante um período de 180 dias, a fim de os interessados deduzirem reclamações contra eventuais erros ou inexactidões."
+  },
+  "4a5636b99679a6f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Findo o prazo mencionado no artigo anterior, presume-se que o conteúdo da microficha, listagem ou documento análogo utilizado corresponde, na íntegra, ao do suporte magnético a que respeita.\n\n2 - A presunção prevista neste preceito não pode ser ilidida mediante prova em contrário.\n\n3 - A adopção do regime previsto nos artigos 15.º e 16.º do presente diploma impede a possibilidade de deduzir impugnações ao abrigo do estatuído na parte final do artigo 368.º do Código Civil."
+  },
+  "61466c826653ab4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 18.º\n\nAs contribuições previstas neste decreto-lei devem ser pagas até ao dia 15 do mês seguinte àquele a que disserem respeito.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "67e3322b36a3eb86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-A",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 18.º-A\n\n1 - As verbas relativas às contribuições sobre trabalho suplementar previstas no artigo 8.º do [Decreto-Lei n.º 421/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1983-443078), de 2 de Dezembro, passam a constituir receitas do orçamento da Segurança Social.\n\n2 - A prova da prestação de trabalho suplementar deve ser feita pelas entidades patronais através de relação dos trabalhadores a quem foram pagas horas extraordinárias, da qual constem o montante ilíquido pago por trabalho suplementar, o valor da hora normal de trabalho e o número de horas extraordinárias efectuadas.\n\n3 - A relação prevista no número anterior pode consistir em cópia assinada e autenticada pelas entidades patronais das folhas de processamento utilizadas internamente pelas mesmas.\n\n4 - Para todos os efeitos, a relação a que se referem os números anteriores é equiparada a folha de remunerações, devendo a mesma ser entregue mensalmente e no prazo referido no artigo 18.º deste diploma.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "5d3ee224262a06aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-B",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 18.º-B\n\nO pagamento das contribuições a que se refere o artigo anterior deve ser feito mensalmente pelas entidades patronais no prazo fixado no artigo 18.º e através das guias em uso para a Segurança Social, nas quais deve ser aposta a menção «Contribuições provenientes de trabalho suplementar».\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "079755ed371da2cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), publicado em 2009-09-16."
+  },
+  "7b22d7e438cd4e62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º-A",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 19.º-A\n\nA regulamentação das normas do presente diploma que se revelar necessária será feita por decreto regulamentar.\n\n> Aditado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "33e9e224eacd64d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as adaptações que se vierem a revelar necessárias."
+  },
+  "4bdd419f645efb8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 21.º\n\nÀs taxas contributivas previstas neste diploma acrescem as taxas de contribuição destinadas a fundos especiais de instituições de segurança social.\n\n> Alterado pelo/a [Decreto-Lei n.º 295/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1986-222021), publicado em 1986-09-19."
+  },
+  "8225ea2e5169f8f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO presente diploma entra em vigor no dia 1 de Outubro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 24 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Junho de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Junho de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

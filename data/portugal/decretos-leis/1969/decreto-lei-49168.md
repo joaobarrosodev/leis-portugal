@@ -28,10 +28,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-01'
+version_history:
+  file: decreto-lei-49168.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-01'
+    amending: pt:dre:144994:por
+    amending_title: Decreto-Lei n.º 73/99
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:10:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 73/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49168.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,43 +181,25 @@ Tal revisão apresenta-se com um acentuado interesse prático, como processo ade
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º — (Incidência)
+###### Artigo 1.º — (Incidência)
 
-1. São sujeitas a juros de mora as dívidas ao Estado, aos seus serviços ou organismos autónomos e às autarquias locais, seja qual for a forma da sua liquidação e cobrança, provenientes de:
+(Revogado.)
 
-a) Contribuições, impostos, taxas e outros rendimentos quando pagos depois do prazo da cobrança à boca do cofre;
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-b) Desvios de dinheiros ou outros valores;
+###### Artigo 2.º — (Isenções)
 
-c) Quantias autorizadas e despendidas fora das disposições legais;
+(Revogado.)
 
-d) Custas e selos contados em processos de qualquer natureza, incluindo os de quaisquer tribunais, repartições ou outros serviços do Estado, quando não pagos nos prazos estabelecidos para o seu pagamento.
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-2. Para os efeitos da alínea a) do número anterior, considera-se prazo de cobrança à boca do cofre o que estiver fixado por lei ou despacho ministerial que reconhecer a dívida nos termos do § único do artigo 144.º do Código de Processo das Contribuições e Impostos.
+###### Artigo 3.º — (Determinação da matéria colectável)
 
-3. Nos casos em que as dívidas referidas na alínea a) do n.º 1 estão sujeitas ao juro da taxa de 4 por cento ao ano, ou tratando-se de prestações a que se refere o [Decreto-Lei n.º 25547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25547-1935-582237), de 27 de Junho de 1935, os juros de mora incidirão sobre o montante da prestação a pagar, acrescida do referido juro de 4 por cento.
+(Revogado.)
 
-###### ARTIGO 2.º — (Isenções)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-Estão isentos de juros de mora:
-
-1.º O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os órgãos de coordenação da assistência;
-
-2.º As dívidas provenientes de taxa militar, nos termos dos artigos 20.º e 21.º do regulamento aprovado pelo [Decreto n.º 39146](https://diariodarepublica.pt/dr/detalhe/decreto/39146-1953-527229), de 24 de Março de 1953;
-
-3.º As dívidas resultantes de empréstimos efectuados por serviços do Estado, regulados por cláusulas especiais constantes dos respectivos contratos;
-
-4.º As dívidas provenientes de foros, quando haja mora no cumprimento, nos termos da alínea a) do artigo 1499.º do Código Civil;
-
-5.º As dívidas que sejam pagas pelas pessoas subsidiàriamente responsáveis, nos termos do § 1.º do artigo 150.º do Código de Processo das Contribuições e Impostos;
-
-6.º As dívidas abrangidas por legislação especial em que se faça expressa referência, quer à não incidência de juros de mora, quer a outro procedimento relativo à falta de pagamento nos prazos estabelecidos.
-
-###### ARTIGO 3.º — (Determinação da matéria colectável)
-
-Os juros de mora incidem sobre o montante da dívida, líquida de quaisquer descontos concedidos pelo pronto pagamento ou de compensações efectuadas por anulações.
-
-###### ARTIGO 4.º — (juros devidos pelos exactores em alcance)
+###### Artigo 4.º — (juros devidos pelos exactores em alcance)
 
 1. Quando os exactores sejam encontrados em alcance de dinheiros ou outros valores à sua guarda, a liquidação dos respectivos juros de mora será efectuada com a observância das seguintes regras:
 
@@ -205,49 +213,59 @@ Os juros de mora incidem sobre o montante da dívida, líquida de quaisquer desc
 
 2. Para habilitar à liquidação exacta dos juros de mora, nas hipóteses previstas neste artigo, deverão constar do termo do balanço de que resultou o apuramento do alcance os dados indispensáveis, inclusive a data real ou presumível do desvio de valores.
 
-###### ARTIGO 5.º — (Taxa)
+###### Artigo 5.º — (Taxa)
 
-1. A taxa dos juros de mora é de 1 por cento, se o pagamento se fizer dentro do mês de calendário em que se verificou a sujeição aos mesmos juros, aumentando-se uma unidade por cada mês do calendário ou fracção, se o pagamento se fizer posteriormente.
+(Revogado.)
 
-2. Sobre os juros de mora não recaem quaisquer adicionais, quer para o Estado, quer para quaisquer outras entidades.
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-###### ARTIGO 6.º — (Prazo de liquidação)
+###### Artigo 6.º — (Prazo de liquidação)
 
-A liquidação de juros de mora não poderá ultrapassar os últimos cinco anos anteriores à data do pagamento da dívida sobre que incidem.
+(Revogado.)
 
-###### ARTIGO 7.º — (Anulação oficiosa de juros indevidos)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-1. Quando, por motivos imputáveis aos serviços, tenham sido liquidados juros superiores aos devidos, proceder-se-á a anulação oficiosa, se ainda não tiverem decorrido cinco anos sobre o pagamento.
+###### Artigo 7.º — (Anulação oficiosa de juros indevidos)
 
-2. Não se procederá a anulação quando o seu quantitativo seja inferior a 10$00.
+(Revogado.)
 
-###### ARTIGO 8.º — (Reclamações e impugnações dos contribuintes)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-1. Poderão os contribuintes reclamar contra a liquidação de juros ou impugná-la com os fundamentos e nos termos do Código de Processo das Contribuições e Impostos.
+###### Artigo 8.º — (Reclamações e impugnações dos contribuintes)
 
-2. Não poderá haver reclamação nem impugnação, se a quantia em causa for inferior a 10$00.
+(Revogado.)
 
-###### ARTIGO 9.º — (Reparação de erros ou omissões prejudiciais à entidade credora)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-1. Quando se verificar que na liquidação dos juros de mora se cometeram erros ou omissões de que resultou prejuízo para a entidade credora, o funcionário competente deverá repará-los mediante liquidação adicional.
+###### Artigo 9.º — (Reparação de erros ou omissões prejudiciais à entidade credora)
 
-2. Não poderá efectuar-se liquidação adicional, se dela resultar importância inferior a 10$00.
+(Revogado.)
 
-###### ARTIGO 10.º — (Privilégio)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-As dívidas provenientes de juros de mora gozam dos mesmos privilégios que por lei sejam atribuídos às dívidas sobre que recaírem.
+###### Artigo 10.º — (Privilégio)
 
-###### ARTIGO 11.º — (Arredondamento por excesso)
+(Revogado.)
 
-Quando a importância total de juros de mora em dívida termina em fracção de escudo, deverá fazer-se o arredondamento por excesso, não podendo, em qualquer caso, liquidar-se menos de 1$00.
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-###### ARTIGO 12.º — (Impossibilidade de pagamento nos prazos normais de cobrança)
+###### Artigo 11.º — (Arredondamento por excesso)
 
-Quando o devedor de contribuições, impostos e demais rendimentos do Estado, que já tenham sido liquidados, não possa efectuar o respectivo pagamento dentro dos prazos normais de cobrança por motivo de extravio ou troca do respectivo conhecimento ou guia, poderá depositar a importância da dívida, acrescida dos correspondentes juros de mora, quando devidos, em conta de «Operações de tesouraria - Operações a liquidar» e à ordem do tesoureiro da Fazenda Pública do respectivo concelho ou bairro fiscal.
+(Revogado.)
 
-###### ARTIGO 13.º — (Resolução de dúvidas)
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
-O Ministro das Finanças resolverá, por despacho, todas as dúvidas que se suscitem na aplicação deste diploma.
+###### Artigo 12.º — (Impossibilidade de pagamento nos prazos normais de cobrança)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
+
+###### Artigo 13.º — (Resolução de dúvidas)
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 73/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1999-144994), publicado em 1999-03-16.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 

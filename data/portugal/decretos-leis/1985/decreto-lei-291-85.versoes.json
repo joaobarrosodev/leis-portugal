@@ -1,0 +1,349 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183251:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-07-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6a92ff6f15a8ce13",
+    "6f118d31ff033594",
+    "a5b47e7a55960328",
+    "1114eebcbda266eb",
+    "50dce36a34108d76",
+    "9c93304d59be18d4",
+    "16ae6ca9e469109f",
+    "5186e526dcac9642",
+    "29a298c5fefa2a37",
+    "e7830abfff909f20",
+    "bd2871ad725fa345",
+    "83b4982f2a9d6616",
+    "b8a9cc5b17cddf0b",
+    "a32e52545a064ff4",
+    "4b101b2b6322464e",
+    "8d19b552bef745a8",
+    "2713ebeecfe89e58"
+   ]
+  },
+  {
+   "date": "1990-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301037:por",
+     "title": "Decreto-Lei n.º 211-A/86",
+     "published": "1986-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/211-a-1986-301037"
+    },
+    {
+     "id": "pt:dre:419178:por",
+     "title": "Decreto-Lei n.º 237/87",
+     "published": "1987-06-12",
+     "dre_path": "/dr/detalhe/decreto-lei/237-1987-419178"
+    },
+    {
+     "id": "pt:dre:313831:por",
+     "title": "Decreto-Lei n.º 2/90",
+     "published": "1990-01-03",
+     "dre_path": "/dr/detalhe/decreto-lei/2-1990-313831"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "6a92ff6f15a8ce13",
+    "5f280509f56b5acd",
+    "affbac9443da4be3",
+    "c577dce505aebbf9",
+    "50dce36a34108d76",
+    "9c93304d59be18d4",
+    "1abcf822d0e2663c",
+    "663ff6b68839be86",
+    "41d4f0df42321176",
+    "e7830abfff909f20",
+    "af84841ce186dfb8",
+    "83b4982f2a9d6616",
+    "e21ea91d9af25803",
+    "921869eed788c7d1",
+    "a9ed2967eab4da76",
+    "d74d70069d6d5aeb",
+    "ff9ba51a44af0e43"
+   ]
+  }
+ ],
+ "fragments": {
+  "6a92ff6f15a8ce13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Julho\n\nDentro da preocupação de ajudar a solucionar os problemas que o sector imobiliário atravessa, visa regular-se, com o presente diploma, a criação de sociedades de gestão e investimento imobiliário (SGII), de modo a obter-se um novo instrumento legal de dinamização daquele mercado.\n\nAs referidas sociedades terão como objecto essencial o arrendamento de imóveis por si construídos ou adquiridos.\n\nConferindo-lhes a natureza de instituições parabancárias e condicionando-se a sua constituição a autorização do Ministro das Finanças e do Plano, tendo em vista a contribuição que as SGII venham a dar ao fomento do investimento imobiliário e desenvolvimento económico, considerou-se que as novas sociedades deveriam ficar sujeitas a regras específicas que as tornassem particularmente sólidas e merecedoras da confiança do público.\n\nTem-se consciência de que o presente decreto-lei não é, por si só, a chave do relançamento do mercado imobiliário, mas que, acompanhado de outras medidas que venham a ser lançadas, designadamente no domínio do arrendamento para habitação, poderá constituir um meio útil de superação das dificuldades do sector.\n\nNestes termos:\n\nNo uso da autorização conferida na alínea c) do artigo 41.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "6f118d31ff033594": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Noção e objecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Noção e objecto)\n\n1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, têm por objecto a gestão de imóveis próprios por estas adquiridos ou construídos, constituindo a sua actividade principal o arrendamento para habitação e a prestação de serviços conexos.\n\n2 - As sociedades referidas no número anterior são instituições parabancárias."
+  },
+  "a5b47e7a55960328": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Forma, capital social e outros requisitos das SGII)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Forma, capital social e outros requisitos das SGII)\n\n1 - As SGII constituem-se como sociedades comerciais, sob a forma de sociedade anónima de responsabilidade limitada, e deverão ainda satisfazer, em especial, os seguintes requisitos:\n\na) Serem de nacionalidade portuguesa, nos termos da legislação aplicável;\n\nb) Terem sede em território nacional;\n\nc) O capital social ser representado por acções nominativas;\n\nd) Terem um capital social não inferior a 400000 contos.\n\n2 - O capital social poderá, até ao limite de 75% do respectivo valor, ser realizado em espécie, através de bens imóveis a integrar no património das SGII.\n\n3 - As SGII só podem constituir-se depois de os accionistas fundadores fazerem prova de que uma fracção do capital social não inferior a 25% do respectivo valor foi realizada e se encontra depositada na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da respectiva administração, com indicação do valor subscrito por cada accionista.\n\n4 - Nenhum accionista pode, directamente ou por interposta pessoa, deter participações superiores a 25% no capital social das SGII, salvo autorização do Ministro das Finanças e do Plano."
+  },
+  "1114eebcbda266eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Processo de constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Processo de constituição)\n\n1 - A constituição das SGII depende da autorização do Ministro das Finanças e do Plano.\n\n2 - O requerimento para a autorização de constituição deve ser acompanhado dos seguintes elementos:\n\na) Indicação do montante do capital social e modo da sua realização;\n\nb) Identificação dos accionistas fundadores e respectivas participações;\n\nc) Projecto de pacto social;\n\nd) Exposição dos objectivos essenciais e das necessidades de ordem económico-financeira que visam satisfazer;\n\ne) Estudo de viabilidade económico-financeira.\n\n3 - Verificada a existência dos pressupostos legais e atenta a sua contribuição para o fomento do investimento imobiliário e desenvolvimento económico, o Ministro das Finanças e do Plano, ouvido o Banco de Portugal, poderá conceder, por portaria, a autorização de constituição, aprovando os respectivos estatutos.\n\n4 - Quando se trate de sociedades com sede nas regiões autónomas, as autorizações serão ainda precedidas de parecer do respectivo governo regional."
+  },
+  "50dce36a34108d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Exclusividade de designação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Exclusividade de designação)\n\nApenas poderão usar a designação de sociedades de gestão e investimento imobiliário e respectiva sigla de SGII as sociedades constituídas nos termos do presente diploma."
+  },
+  "9c93304d59be18d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Composição patrimonial e gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Composição patrimonial e gestão)\n\nO valor do património não directamente afecto ao objecto das SGII, conforme o n.º 1 do artigo 1.º, não poderá exceder 15% da soma do capital social realizado e reservas."
+  },
+  "16ae6ca9e469109f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Terrenos para construção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Terrenos para construção)\n\n1 - As SGII apenas poderão adquirir terrenos que se destinem directamente à execução de programas de construção, não podendo o valor total dos terrenos detidos, em cada momento, ultrapassar 10% do valor global do respectivo património imobiliário.\n\n2 - As SGII ficam obrigadas a alienar os terrenos próprios destinados à execução de programas de construção caso os mesmos não tenham início dentro do prazo de 2 anos contados a partir da data da respectiva aquisição."
+  },
+  "5186e526dcac9642": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Aquisições vedadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Aquisições vedadas)\n\nNão podem ser adquiridos pela sociedade:\n\na) Imóveis da propriedade de entidades que sejam membros dos órgãos sociais da sociedade ou que possuam mais de 20% do capital social desta;\n\nb) Imóveis da propriedade de empresa cujo capital social seja pertencente em percentagem superior a 20% a um ou mais administradores da sociedade, em nome próprio ou em representação de outrem, e aos seus cônjuges e parentes ou afins no 1.º grau;\n\nc) Imóveis da propriedade de empresas de cujos órgãos façam parte um ou mais administradores da sociedade, em nome próprio ou em representação de outrem, seus cônjuges e parentes ou afins no 1.º grau."
+  },
+  "29a298c5fefa2a37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Limites de endividamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Limites de endividamento)\n\nA importância das responsabilidades efectivas das SGII perante terceiros, em moeda nacional ou estrangeira, não pode, em caso algum, exceder o décuplo do montante do respectivo capital social realizado e reservas."
+  },
+  "e7830abfff909f20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Aumentos de capital)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Aumentos de capital)\n\nAs SGII, mediante autorização do Ministro das Finanças e do Plano, podem proceder ao aumento do respectivo capital social quando este se encontre integralmente subscrito e realizado."
+  },
+  "bd2871ad725fa345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Reavaliação do património)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Reavaliação do património)\n\n1 - As SGII poderão proceder anualmente à reavaliação do seu património imobiliário, nos termos a definir em cada exercício, por portaria do Ministro das Finanças e do Plano.\n\n2 - As SGII deverão explicitar anualmente o montante da reavaliação efectuada, nos termos do número anterior, criando a respectiva reserva.\n\n3 - Não é permitida a distribuição de reservas de reavaliação e de mais-valias potenciais."
+  },
+  "83b4982f2a9d6616": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Relatório e contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Relatório e contas)\n\n1 - As contas das SGII serão encerradas anualmente, com referência a 31 de Dezembro, e submetidas ao exame a que se refere o artigo 1.º, n.º 1, alínea a) do [Decreto-Lei n.º 519-L2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-l2-1979-157029), de 29 de Dezembro, por revisor oficial de contas, nomeado com a concordância do Banco de Portugal.\n\n2 - Nos 3 meses seguintes à data de encerramento, as SGII publicarão as contas acompanhadas de um relatório anual e do parecer da entidade fiscalizadora das mesmas."
+  },
+  "b8a9cc5b17cddf0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Fiscalização pelo Banco de Portugal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Fiscalização pelo Banco de Portugal)\n\nAs SGII ficam sujeitas às fiscalização do Banco de Portugal."
+  },
+  "a32e52545a064ff4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Organização da contabilidade e prestação de informações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Organização da contabilidade e prestação de informações)\n\n1 - A contabilidade das SGII será organizada de harmonia com normas e instruções do Banco de Portugal.\n\n2 - As SGII são obrigadas a enviar ao Banco de Portugal todos os elementos indicados no artigo 11.º deste diploma e ainda, em conformidade com as instruções por este transmitidas, os balancetes mensais e quaisquer outros elementos de informação relativos à sua situação e às operações realizadas."
+  },
+  "4b101b2b6322464e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Imóveis em compropriedade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Imóveis em compropriedade)\n\nAs SGII não podem adquirir nem deter imóveis em regime de compropriedade."
+  },
+  "8d19b552bef745a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Benefícios fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Benefícios fiscais)\n\n1 - As SGII que se venham a constituir, nos termos do presente diploma, no prazo de 5 anos a contar da data da sua entrada em vigor, e, bem assim, os respectivos sócios poderão beneficiar dos seguintes incentivos fiscais:\n\na) Isenção de sisa para as aquisições de bens imóveis pelas SGII;\n\nb) Isenção de sisa para as entradas dos sócios com bens imóveis para a realização do capital social das SGII;\n\nc) Redução de 50% da taxa da contribuição industrial para as SGII;\n\nd) Isenção do imposto de mais-valias devido pelos sócios, nos termos do n.º 2.º do artigo 1.º do respectivo Código, relativamente a bens imóveis transmitidos para as sociedades para realização do capital social;\n\ne) Isenção do imposto de mais-valias devido pelos ganhos realizados através do aumento de capital das SGII mediante a incorporação de reservas ou a emissão de acções;\n\nf) Isenção do imposto do selo devido pelos aumentos de capital social das SGII;\n\ng) Redução de 50% da taxa do imposto de capitais, secção B, incidente sobre os dividendos atribuídos aos sócios;\n\nh) Dedução ao rendimento global líquido, para efeitos do imposto complementar, secção A, até ao limite anual máximo de 50000$00 por agregado familiar, dos dividendos atribuídos aos sócios;\n\ni) Isenção do imposto sobre as sucessões e doações para as transmissões de acções por morte dos sócios, até ao limite de 200000$00 por cada adquirente.\n\n2 - Os incentivos fiscais estabelecidos neste artigo são concedidos por um período de 20, 19, 18, 11 e 10 anos, consoante as sociedades beneficiárias se venham a constituir, respectivamente, no 1.º, 2.º, 3.º, 4.º ou 5.º anos a partir da data da entrada em vigor deste diploma."
+  },
+  "2713ebeecfe89e58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Legislação especialmente aplicável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Legislação especialmente aplicável)\n\nAs SGII regem-se ainda pela legislação aplicável ao conjunto das instituições parabancárias.\n\nVisto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 15 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "5f280509f56b5acd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Objecto)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 1.º — (Objecto)\n\n1 - As sociedades de gestão e investimento imobiliário, abreviadamente designadas por SGII, têm por objecto principal o arrendamento de imóveis próprios, por elas adquiridos ou construídos, e a prestação de serviços conexos.\n\n2 - Constitui actividade acessória das SGII a venda dos imóveis mencionados no número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "affbac9443da4be3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Forma, capital social e outros requisitos das SGII)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 2.º — (Forma, capital social e outros requisitos das SGII)\n\n1 - As SGII constituem-se sob a forma de sociedade anónima, devendo ainda satisfazer os seguintes requisitos:\n\na) Terem sede em território nacional;\n\nb) Possuírem um capital social mínimo, a fixar mediante portaria do Ministro das Finanças, em montante não inferior a 600000 contos, valendo desde já este limite enquanto não for publicada a referida portaria.\n\n2 - O capital social poderá, até ao limite de 85% do respectivo valor, ser realizado em espécie, através de bens imóveis a integrar no património das SGII.\n\n3 - As SGII só podem constituir-se depois de os accionistas fundadores fazerem prova de que uma fracção do capital social, não inferior a 15% do respectivo valor, foi realizada e se encontra depositada numa instituição de crédito à ordem da respectiva administração, com a indicação do valor subscrito por cada accionista.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "c577dce505aebbf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Processo de constituição)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 3.º — (Processo de constituição)\n\n1 - A constituição das SGII depende de autorização do Ministro das Finanças, a conceder mediante portaria.\n\n2 - O requerimento para a autorização de constituição deve ser acompanhado dos seguintes elementos:\n\na) Indicação do montante do capital social e modo da sua realização;\n\nb) Identificação dos accionistas fundadores e respectivas participações;\n\nc) Projecto de contrato de sociedade;\n\nd) Exposição dos objectivos essenciais e das necessidades de ordem económico-financeira que visam satisfazer;\n\ne) Estudo da viabilidade económico-financeira.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "1abcf822d0e2663c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Terrenos para construção)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831), publicado em 1990-01-03."
+   ],
+   "markdown": "###### Artigo 6.º — (Terrenos para construção)\n\n1 - As SGII apenas poderão adquirir terrenos que se destinem directamente à execução de programas de construção, não podendo o valor total dos terrenos detidos, após os três primeiros anos de actividade, ultrapassar 10% do valor global do respectivo património imobiliário.\n\n2 - As SGII ficam obrigadas a alienar os terrenos próprios destinados à execução de programas de construção caso os mesmos não tenham início dentro do prazo de 2 anos contados a partir da data da respectiva aquisição.\n\n> Alterado pelo/a [Decreto-Lei n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831), publicado em 1990-01-03."
+  },
+  "663ff6b68839be86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Aquisições vedadas)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 7.º — (Aquisições vedadas)\n\n1 - Não podem ser adquiridos pela sociedade imóveis da propriedade de empresas de cujos órgãos façam parte um ou mais administradores da sociedade, em nome próprio ou em representação de outrem, seus cônjuges e parentes ou afins no 1.º grau.\n\n2 - A disposição constante do número anterior não é aplicável à transmissão de propriedade de imóveis para efeitos de realização do capital social inicial.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "41d4f0df42321176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Contratos de arrendamento com opção de compra)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 8.º — (Contratos de arrendamento com opção de compra)\n\n1 - As SGII poderão celebrar contratos de arrendamento com opção de aquisição futura dos imóveis ou fracções arrendadas, em condições previamente definidas.\n\n2 - Os contratos referidos no número anterior podem revestir a forma de contratos-tipo e carecem de homologação, por despacho, do Ministro das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "af84841ce186dfb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Reavaliação do património)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 10.º — (Reavaliação do património)\n\n1 - As SGII procederão à reavaliação do seu património imobiliário nos seguintes termos:\n\na) Com periodicidade de dois anos, pelo recurso a dois peritos independentes, nomeados com a concordância dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações;\n\nb) No ano que medeia entre duas avaliações consecutivas, pela aplicação de um coeficiente de correcção idêntico ao índice do custo da construção correspondente ao período de doze meses terminado em Setembro do ano a que respeita a reavaliação.\n\n2 - A reavaliação do património imobiliário dará lugar à criação da respectiva reserva, cuja contabilização se processará nos termos a definir por portaria do Ministro das Finanças.\n\n3 - Não é permitida a distribuição de reservas de reavaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "e21ea91d9af25803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Fiscalização pelo Banco de Portugal)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 12.º — (Fiscalização pelo Banco de Portugal)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "921869eed788c7d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Organização da contabilidade e prestação de informações)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 13.º — (Organização da contabilidade e prestação de informações)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "a9ed2967eab4da76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Imóveis em compropriedade)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 14.º — (Imóveis em compropriedade)\n\nAs SGII não podem adquirir nem deter imóveis em regime de compropriedade, excepto no que respeita às situações decorrentes do regime de propriedade horizontal.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+  },
+  "d74d70069d6d5aeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Benefícios fiscais)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 211-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037), publicado em 1986-07-31."
+   ],
+   "markdown": "###### Artigo 15.º — (Benefícios fiscais)\n\n1 - As SGII que se venham a constituir, nos termos do presente diploma, no prazo de 5 anos a contar da data da sua entrada em vigor, e, bem assim, os respectivos sócios poderão beneficiar dos seguintes incentivos fiscais:\n\na) Isenção de sisa para as aquisições de bens imóveis pelas SGII;\n\nb) Isenção de sisa para as entradas dos sócios com bens imóveis para a realização do capital social das SGII;\n\nc) Redução de 50% da taxa da contribuição industrial para as SGII;\n\nd) Isenção do imposto de mais-valias devido pelos sócios, nos termos do n.º 2.º do artigo 1.º do respectivo Código, relativamente a bens imóveis transmitidos para as sociedades para realização do capital social;\n\ne) Isenção do imposto de mais-valias devido pelos ganhos realizados através do aumento de capital das SGII mediante a incorporação de reservas ou a emissão de acções;\n\nf) Isenção do imposto do selo devido pelos aumentos de capital social das SGII;\n\ng) Redução de 50% da taxa do imposto de capitais, secção B, incidente sobre os dividendos atribuídos aos sócios;\n\nh) Dedução ao rendimento global líquido, para efeitos do imposto complementar, secção A, até ao limite anual máximo de 50000$00 por agregado familiar, dos dividendos atribuídos aos sócios;\n\ni) Isenção do imposto sobre as sucessões e doações para as transmissões de acções por morte dos sócios, até ao limite de 200000$00 por cada adquirente.\n\nj) Não incidência de contribuição predial sobre o valor das rendas de prédios urbanos que façam parte dos elementos activos das SGII.\n\n2 - Os incentivos fiscais estabelecidos neste artigo são concedidos por um período de 20, 19, 18, 11 e 10 anos, consoante as sociedades beneficiárias se venham a constituir, respectivamente, no 1.º, 2.º, 3.º, 4.º ou 5.º anos a partir da data da entrada em vigor deste diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 211-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-a-1986-301037), publicado em 1986-07-31."
+  },
+  "ff9ba51a44af0e43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Legislação especialmente aplicável)",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12."
+   ],
+   "markdown": "###### Artigo 16.º — (Legislação especialmente aplicável)\n\nAs SGII regem-se ainda pela legislação aplicável às sociedades comerciais.\n\n> Alterado pelo/a [Decreto-Lei n.º 237/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1987-419178), publicado em 1987-06-12.\n\nVisto e aprovado em Conselho de Ministros de 4 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Carlos Montez Melancia.\n\nPromulgado em 15 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

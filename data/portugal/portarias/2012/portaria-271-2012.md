@@ -40,10 +40,25 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-02-13'
+version_history:
+  file: portaria-271-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-02-13'
+    amending: pt:dre:70095680:por
+    amending_title: Portaria n.º 260-B/2015; Portaria n.º 18/2016
+    changes:
+    - Altera Artigo ANEXO I::4.º
+    - Adita Artigo ANEXO I::2.º-B
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/271/2012/09/04/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:53:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 260-B/2015; Portaria
+    n.º 18/2016. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2012/portaria-271-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -199,6 +215,16 @@ REGULAMENTO DAS TABELAS DE PREÇOS A PRATICAR PARA A PRODUÇÃO ADICIONAL REALIZ
 
 2 - A presente portaria aplica-se à produção cirúrgica adicional realizada nestas entidades, independentemente da entidade financeira responsável.
 
+###### Artigo 2.º-B — Situações excecionais e de comprovada urgência médico-cirúrgica
+
+1 - Sem prejuízo do previsto no artigo anterior, e mediante autorização prévia do membro do Governo responsável pela área da saúde, é igualmente aplicável o disposto no Anexo II às equipas que intervêm em situações de comprovada necessidade de assegurar o acesso dos utentes do SNS a cuidados de saúde prestados em tempo útil e de forma adequada, nomeadamente em situações de urgência médico-cirúrgica.
+
+2 - A autorização para que determinada instituição do SNS aplique o referido no número anterior é precedida de proposta fundamentada do seu órgão máximo de gestão, devendo para tal demonstrar a comprovada necessidade de intervenção, evidenciar que a ausência dos profissionais inviabiliza a constituição das equipas necessárias para intervir na situação em causa, esgotadas as possibilidades técnicas e clinicamente possíveis de articulação com outras instituições de saúde e privilegiando a sua efetivação no âmbito de urgências regionais.
+
+3 - Fica o órgão máximo de gestão da instituição do SNS obrigado a remeter trimestralmente ao membro do Governo responsável pela área da saúde um relatório com a identificação e fundamentação das ocorrências a que se referem os números anteriores e, bem assim, a apresentar propostas concretas tendentes a reduzir as situações potenciadoras de recurso ao previsto no presente artigo exceto quando se tratam de urgências regionais estabelecidas superiormente.
+
+> Aditado pelo/a [Portaria n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/portaria/18-2016-73462826), publicado em 2016-02-08.
+
 ###### Artigo 3.º — Definições
 
 1 - Conforme consta no Manual de Gestão de Inscritos para Cirurgia e para efeitos do presente Regulamento, entende-se por «procedimentos independentes» os procedimentos que, sendo realizados no mesmo ato cirúrgico, se destinam à resolução de patologias não relacionadas e que, de acordo com o estado da arte, podem ser efetuados em episódios diferidos ou distintos.
@@ -215,7 +241,11 @@ REGULAMENTO DAS TABELAS DE PREÇOS A PRATICAR PARA A PRODUÇÃO ADICIONAL REALIZ
 
 3 - O preço a pagar pela atividade referida no n.º 1 tem como valor base de referência (euro) 1326,49, que é multiplicado para cada GDH, por um fator que reflete a complexidade da situação e que se designa por peso relativo, conforme o disposto na col. D do anexo ii, e por um fator que adapta o preço à disponibilidade da oferta e que se designa por fator de equilíbrio, conforme o disposto na col. E do anexo ii do presente Regulamento.
 
-4 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório.
+4 - O valor referido no número anterior pode ser parcialmente atribuído a médicos especialistas que integram equipas no âmbito da atividade normal e depende da autorização do membro do Governo responsável pela área da saúde, mediante proposta fundamentada do órgão máximo de gestão da instituição ou serviço do SNS, na qual se demonstra que a carência de tais profissionais inviabiliza a constituição das tais equipas, devem, ainda, fixar a percentagem de valor a atribuir aos profissionais em causa, tendo em conta as regras de repartição previstas no Despacho n.º 24036/2004, de 22 de novembro.
+
+5 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório.
+
+> Alterado pelo/a [Portaria n.º 260-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/260-b-2015-70095680), publicado em 2015-08-24.
 
 ###### Artigo 5.º — Âmbito dos serviços
 

@@ -30,10 +30,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-05-09'
+version_history:
+  file: decreto-lei-45684.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-05-09'
+    amending: pt:dre:535420:por
+    amending_title: Decreto-Lei n.º 46046; Decreto-Lei n.º 210/73
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46046; Decreto-Lei
+    n.º 210/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45684.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +190,9 @@ Considerando a necessidade de assegurar aos que se inferiorizam ao serviço da P
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Têm direito à reforma extraordinária os militares que nesta qualidade são subscritores da Caixa Geral de Aposentações e que se tornem inábeis para o serviço por algumas das causas seguintes:
+###### Artigo 1.º
+
+Têm direito à reforma extraordinária os militares que nesta qualidade são subscritores da Caixa Geral de Aposentações e que se tornem inábeis para o serviço por algumas das causas seguintes:
 
 a) Moléstia, ferimento ou mutilação contraída no exercício das suas funções e por motivo do seu desempenho;
 
@@ -184,7 +206,9 @@ c) Moléstia, ferimento ou mutilação resultante da prática de algum acto huma
 
 § 3.º Nos casos das alíneas b) e c), a pensão de reforma é devida por inteiro e, nos restantes casos, é calculada em função dos anos de serviço e do grau de incapacidade, conforme o estabelecido no artigo 3.º
 
-Art. 2.º O pessoal miliciano, o pessoal das reservas da marinha, os primeiros e segundos-cabos, os soldados e os grumetes, não abrangidos pelo artigo anterior, quando, no desempenho dos seus deveres militares e por qualquer das causas referidas no mesmo artigo, venham a sofrer de impotência funcional a que corresponda a incapacidade profissional superior a 15 por cento, segundo a tabela nacional de incapacidade, aprovada pelo [Decreto n.º 43189](https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848), de 23 de Setembro de 1960, têm direito ao abono de uma pensão de invalidez, que será fixada nos mesmos termos em que, segundo as disposições do presente diploma, o é a pensão de reforma extraordinária dos militares subscritores da Caixa Geral de Aposentações.
+###### Artigo 2.º
+
+O pessoal miliciano, o pessoal das reservas da marinha, os primeiros e segundos-cabos, os soldados e os grumetes, não abrangidos pelo artigo anterior, quando, no desempenho dos seus deveres militares e por qualquer das causas referidas no mesmo artigo, venham a sofrer de impotência funcional a que corresponda a incapacidade profissional igual ou superior a 15 por cento, segundo a tabela nacional de incapacidade, aprovada pelo [Decreto n.º 43189](https://diariodarepublica.pt/dr/detalhe/decreto/43189-1960-514848), de 23 de Setembro de 1960, têm direito ao abono de uma pensão de invalidez, que será fixada nos mesmos termos em que, segundo as disposições do presente diploma, o é a pensão de reforma extraordinária dos militares subscritores da Caixa Geral de Aposentações.
 
 § 1.º O processo a observar para a concessão e pagamento das pensões de invalidez de que trata este artigo é em tudo o estabelecido para as pensões de reforma e corre pela Caixa Geral de Aposentações, que para tal fim é abonada pelo Estado das importâncias necessárias à satisfação das pensões concedidas.
 
@@ -194,7 +218,11 @@ Art. 2.º O pessoal miliciano, o pessoal das reservas da marinha, os primeiros e
 
 § 4.º Os beneficiários das pensões de invalidez concedidas nos termos do corpo deste artigo ficam abrangidos pelas disposições aplicáveis aos militares reformados extraordinàriamente.
 
-Art. 3.º A pensão de reforma extraordinária dos militares, quando devida por inteiro, é igual ao vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, quando outro valor não seja de considerar nos termos dos parágrafos seguintes. Nos casos em que o número de anos de serviço e o grau de incapacidade sejam elementos a considerar, a pensão é calculada pela seguinte fórmula:
+> Alterado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), publicado em 1964-11-27.
+
+###### Artigo 3.º
+
+A pensão de reforma extraordinária dos militares, quando devida por inteiro, é igual ao vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, quando outro valor não seja de considerar nos termos dos parágrafos seguintes. Nos casos em que o número de anos de serviço e o grau de incapacidade sejam elementos a considerar, a pensão é calculada pela seguinte fórmula:
 
 P = [(Vn/40) + g (V - (Vn/40))]
 
@@ -204,37 +232,63 @@ em que V representa o vencimento anual correspondente ao posto no activo, líqui
 
 § 2.º Desde que o militar comprove que a média dos vencimentos percebidos durante os últimos dez anos que precederam a passagem à reforma, sobre os quais incidiu o desconto para a Caixa Geral de Aposentações, é supeperior ao vencimento anual correspondente ao posto do activo, será essa média que servirá para a determinação da pensão, a qual, no entanto, não poderá exceder o limite previsto no artigo 19.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, na escala geral dos vencimentos, sendo o máximo admitido o correspondente à letra A da mesma escala. São exceptuados da média referida os abonos mencionados no § 3.º do artigo 3.º do [Decreto-Lei n.º 39843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39843-1954-678604), de 7 de Outubro de 1954, e no artigo 2.º do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
 
-§ 3.º Para o pessoal especializado que tenha servido na Aeronáutica Naval ou na Força Aérea ou tenha feito parte das guarnições dos submersíveis, ao valor da pensão, calculada nos termos do corpo deste artigo, adicionar-se-ão os seguintes quantitativos:
+§ 3.º Para o pessoal especializado que tenha servido na Aeronáutica Naval ou na Força Aérea, tenha feito parte das guarnições dos submersíveis ou tenha sido mergulhador militar (sapador ou normal), ao valor da pensão calculada nos termos do corpo deste artigo adicionar-se-ão os seguintes quantitativos:
 
-(6/15000) n' . G - g ((6/10) - (6/15000) n') . G para os primeiros
+(6/15000)n' . G + g ((6/10) - (6/15000)n') . G
 
-(6/4500) n' . G - g ((6/10) - (6/4500) n') . G para os segundos
+para o pessoal que tenha servido na aeronáutica naval ou na Força Aérea;
 
-em que g representa o grau de incapacidade, G a gratificação anual que o militar recebia no último posto em que efectuou voos ou em que realizou imersões em submersíveis de cuja guarnição fizesse parte, conforme os casos, e n' o número de horas de voo ou de imersão que tiver efectuado, porém, com limites de 1500 e 450 horas, respectivamente. Nos casos em que a pensão seja devida por inteiro, o quantitativo a adicionar à pensão será igual a 0,60 G.
+(6/4500)n' . G + g ((6/10) - (6/4500)n') . G
 
-§ 4.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo ou de imersão intervirá para a formação da mesma média, não sendo de adicionar à pensão nos termos referidos no parágrafo anterior.
+para o pessoal que tenha servido nos submersíveis;
 
-Art. 4.º Os beneficiários das pensões de reforma extraordinária ou de invalidez concedidas ao abrigo deste diploma poderão, mediante autorização do Conselho de Ministros e sob proposta fundamentada dos serviços, voltar à actividade no Estado, corpos administrativos e organismos de coordenação económica ou prestar-lhes serviço remunerado, fora das hipóteses abrangidas pelo artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, combinado com os artigos 5.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, e 2.º do [Decreto-Lei n.º 43285](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43285-1960-514426), de 3 de Novembro de 1960.
+(6/15000)n' . G + g ((6/10) - (6/15000 n') . G
 
-§ 1.º Quando, porém, as funções sejam remuneradas deverá observar-se o disposto no artigo 38.º do [Decreto n.º 16669](https://diariodarepublica.pt/dr/detalhe/decreto/16669-1929-624997), de 27 de Março de 1929.
+para o pessoal que tenha sido mergulhador sapador;
 
-§ 2.º A apreciação da capacidade física para o exercício do cargo de que se trate será feita tendo em conta as naturais limitações dos requerentes.
+(6/2000)n' . G + g ((6/10) - (6/2000)n') . G
 
-Art. 5.º Aos beneficiários de pensões de reforma extraordinária ou de invalidez é dada preferência, em igualdade de condições na colocação permitida nos termos do corpo do artigo precedente.
+para o pessoal que tenha sido mergulhador normal, em que g representa o grau de incapacidade, G a gratificação anual que o militar recebia no último posto em que efectuou voos ou em que realizou imersões (pessoal dos submersíveis e mergulhador), conforme os casos, e n' o número de horas de voo ou de imersão que tiver efectuado, porém, com limites de 1500, 450, 150 e 200 horas, respectivamente. Nos casos em que a pensão seja devida por inteiro, o quantitativo a adicionar à pensão será igual a 0,60 G.
 
-§ único. Quando se trate de beneficiários de pensões de reforma extraordinária ou de pensões de invalidez concedidas nas condições referidas nas alíneas b) e c) do artigo 1.º ser-lhes-á dada preferência absoluta na mesma colocação, sempre que esta não esteja sujeita por lei a apreciação relativa de méritos.
+§ 4.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo, de imersão ou de serviços de mergulhador intervirá para a formação da mesma média, não sendo de adicionar à pensão nos termos referidos no parágrafo anterior.
 
-Art. 6.º Os militares que por virtude de qualquer dos motivos referidos no artigo 1.º sofram de impotência funcional, total ou parcial, superior a 60 por cento, são considerados inválidos militares, e poderão ser recolhidos pelo Estado em estabelecimento apropriado.
+> Alterado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), publicado em 1964-11-27.
 
-Art. 7.º Ficam revogados o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, sem prejuízo do disposto no artigo 1.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943, o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1939, o artigo 2.º e seus parágrafos do [Decreto-Lei n.º 30913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30913-1940-167394), de 22 de Novembro de 1940, e o artigo 11.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943.
+###### Artigo 4.º
 
-Art. 8.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por portaria dos Ministros da Defesa Nacional e das Finanças e do titular ou titulares dos departamentos militares interessados.
+(Revogado.)
 
-Art. 9.º As disposições do presente diploma são aplicáveis aos militares que, por facto ou razão do serviço posterior a 31 de Dezembro de 1960, hajam sofrido ou venham a sofrer qualquer das causas de incapacidade referidas no artigo 1.º
+> Revogado pelo/a [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), publicado em 1973-05-09.
 
-§ 1.º A retroactividade referida no corpo deste artigo só poderá, porém, importar revisão da situação em que tiver sido colocado o militar ou das pensões já concedidas se essa revisão for requerida no prazo de 90 dias, contados do início de vigência deste diploma.
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), publicado em 1973-05-09.
+
+###### Artigo 6.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), publicado em 1973-05-09.
+
+###### Artigo 7.º
+
+Ficam revogados o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, sem prejuízo do disposto no artigo 1.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943, o artigo 8.º e seus parágrafos do [Decreto-Lei n.º 30250](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30250-1939-534615), de 30 de Dezembro de 1939, o artigo 2.º e seus parágrafos do [Decreto-Lei n.º 30913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30913-1940-167394), de 22 de Novembro de 1940, e o artigo 11.º do [Decreto-Lei n.º 32691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32691-1943-301396), de 20 de Fevereiro de 1943.
+
+###### Artigo 8.º
+
+As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por portaria dos Ministros da Defesa Nacional e das Finanças e do titular ou titulares dos departamentos militares interessados.
+
+###### Artigo 9.º
+
+As disposições do presente diploma são aplicáveis aos militares que, por facto ou razão do serviço posterior a 31 de Dezembro de 1960, hajam sofrido ou venham a sofrer qualquer das causas de incapacidade referidas no artigo 1.º
+
+§ 1.º A retroactividade referida no corpo deste artigo só poderá, porém, importar revisão da situação em que tiver sido colocado o militar ou das pensões já concedidas se essa revisão for requerida no prazo de 240 dias, contados do início da vigência deste diploma.
 
 § 2.º Os quantitativos das pensões revistos só serão, porém, devidos a partir da data em que for requerida a revisão.
+
+> Alterado pelo/a [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), publicado em 1964-11-27.
 
 Publique-se e cumpra-se como nele se contém.
 

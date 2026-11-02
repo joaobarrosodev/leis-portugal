@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-10-24'
+version_history:
+  file: decreto-lei-316-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-24'
+    amending: pt:dre:70095691:por
+    amending_title: Lei n.º 105/2015
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo ANEXO::1.º
+    - Revoga Artigo ANEXO::2.º
+    - Revoga Artigo ANEXO::3.º
+    - Revoga Artigo ANEXO::4.º
+    - Revoga Artigo ANEXO::5.º
+    - Revoga Artigo ANEXO::6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 105/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-316-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,7 +210,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 É aprovado, em anexo ao presente diploma, que dele faz parte integrante, o regime jurídico do licenciamento do exercício das seguintes actividades:
 
-a) Guarda-nocturno;
+a) (Revogada.)
 
 b) Venda ambulante de lotarias;
 
@@ -206,6 +227,8 @@ g) Venda de bilhetes para espectáculos ou divertimentos públicos em agências 
 h) Realização de fogueiras e queimadas;
 
 i) Realização de leilões.
+
+> Alterado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 2.º — Estatuto dos governadores civis
 
@@ -307,51 +330,39 @@ Licenciamento do exercício de actividades
 
 ###### Artigo 1.º — Criação e extinção
 
-A criação e a extinção do serviço de guardas-nocturnos em cada localidade e a fixação e modificação das áreas de actuação de cada guarda são feitas por despacho do governador civil, ouvida a câmara municipal respectiva e os comandantes de brigada da GNR ou de polícia da PSP, conforme a localização da área a vigiar.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 2.º — Licença
 
-1 - É da competência do governador civil a atribuição da licença para o exercício da actividade de guarda-nocturno.
+(Revogado.)
 
-2 - A licença é intransmissível e tem validade anual.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 3.º — Pedido de licenciamento
 
-1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao governador civil e nele devem constar o nome e o domicílio do requerente.
+(Revogado.)
 
-2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por portaria do Ministro da Administração Interna.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 4.º — Indeferimento
 
-O pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 5.º — Deveres
 
-O guarda-nocturno deve:
+(Revogado.)
 
-a) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;
-
-b) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;
-
-c) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e protecção civil;
-
-d) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;
-
-e) Usar, em serviço, o uniforme e o distintivo próprios;
-
-f) Usar de urbanidade e aprumo no exercício das suas funções;
-
-g) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;
-
-h) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;
-
-i) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 6.º — Regime
 
-1 - O regime da actividade de guarda-nocturno é objecto de portaria do Ministro da Administração Interna.
+(Revogado.)
 
-2 - Fica a cargo dos governos civis a atribuição de um subsídio mensal de fardamento equivalente ao atribuído às forças de segurança.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 #### SECÇÃO II — Vendedor ambulante de lotarias
 

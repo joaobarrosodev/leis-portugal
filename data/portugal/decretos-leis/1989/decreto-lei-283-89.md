@@ -39,10 +39,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-22'
+version_history:
+  file: decreto-lei-283-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-22'
+    amending: pt:dre:565255:por
+    amending_title: Decreto-Lei n.º 379/90; Decreto-Lei n.º 95/96; Decreto-Lei n.º 100/98
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 20.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:52:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 379/90; Decreto-Lei
+    n.º 95/96; Decreto-Lei n.º 100/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-283-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,19 +194,21 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constitutição, o Govern
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º — Natureza
+###### Artigo 1.º — Natureza e tutela
 
-1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, criado pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, é um instituto público dotado de personalidade jurídica, com autonomia administrativa, financeira e património próprio, e exerce a sua acção na tutela do Ministro das Obras Públicas, Transportes e Comunicações.
+1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.
 
 2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.
 
-3 - O Instituto passará a deter apenas autonomia administrativa, cessando o regime de autonomia financeira, se, decorrido período de três anos após a data de entrada em vigor do presente diploma, deixar de dispor de receitas próprias suficientes para cobrirem, pelo menos, dois terços das respectivas despesas.
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 2.º — Regime
 
-1 - A gestão do ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico das empresas públicas.
+1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
 
 2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 3.º — Sede e delegações
 
@@ -344,13 +366,13 @@ O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente s
 
 a) Um representante do Ministro da Defesa Nacional;
 
-b) Um representante do Ministro do Planeamento e da Administração do Território;
+b) Um representante do Ministro do Equipamento, do Planeamento e da Administração do Território;
 
 c) Um representante do Ministro da Administração Interna;
 
-d) Um representante do Ministro da Indústria e Energia;
+d) Um representante do Ministro da Economia;
 
-e) Um representante do Ministro das Obras Públicas, Transportes e Comunicações;
+e) Um representante do Ministro da Ciência e da Tecnologia;
 
 f) Um representante do ministro responsável pela área da comunicação social;
 
@@ -358,15 +380,37 @@ g) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira
 
 h) O presidente do conselho de administração do ICP;
 
-i) Um representante de cada operador de comunicações de uso público;
+i) Um representante do operador de serviço público de correios, um representante da concessionária do serviço público de telecomunicações e outro da respectiva subconcessionária;
 
-j) Um representante dos utentes dos serviços de comunicações, a designar pelo conselho geral do Instituto Nacional de Defesa do Consumidor.
+j) Um representante dos operadores de cada um dos serviços de telecomunicações complementares móveis, a designar entre si;
 
-2 - O conselho consultivo será presidido pelo representante do ministro que tutele as comunicações.
+l) Um representante dos operadores dos serviços de telecomunicações complementares fixas, a designar entre si;
 
-3 - Os restantes membros do conselho de administração e os do conselho fiscal poderão assistir às reuniões do conselho consultivo, podendo participar nos trabalhos sem direito de voto.
+m) Um representante dos prestadores de serviços de telecomunicações de valor acrescentado, a designar entre si;
 
-4 - As despesas de viagem e ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP.
+n) Um representante dos operadores de redes de distribuição de televisão por cabo, a designar entre si;
+
+o) Um representante dos utentes dos serviços de comunicações, a designar pelo conselho geral do Instituto do Consumidor;
+
+p) Um representante das associações privadas de consumidores, a designar entre si;
+
+q) Um representante da Associação Nacional de Municípios Portugueses;
+
+r) Três personalidades de reconhecido mérito, a designar pelo ministro com competência na área das comunicações.
+
+2 - A escolha dos representantes referidos nas alíneas j), l), m) e n) só pode recair sobre operadores que não disponham de participação directa ou indirecta no seu capital dos operadores de serviço público de correios e de telecomunicações.
+
+3 - Sempre que um determinado serviço seja prestado apenas por operadores com participação directa ou indirecta no seu capital dos operadores de serviço público de correios e telecomunicações, tais operadores não participarão no conselho consultivo.
+
+4 - A composição do conselho consultivo será alargada a representantes de operadores e de prestadores de novas categorias de serviços de telecomunicações de uso público que venham a ser licenciados ou autorizados, a designar entre si, nos termos do n.º 2.
+
+5 - O conselho consultivo será presidido pelo representante do ministro que tutele as comunicações.
+
+6 - Os restantes membros do conselho de administração e os do conselho fiscal poderão assistir às reuniões do conselho consultivo, podendo participar nos trabalhos, sem direito de voto.
+
+7 - As despesas de viagem e as ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17.
 
 ###### Artigo 15.º — Competência
 
@@ -378,9 +422,15 @@ b) O relatório anual de actividades e as contas de gerência do ICP;
 
 c) A fixação das participações a pagar pelos operadores de telecomunicações de uso público que constituem receita do ICP;
 
-d) A coordenação entre as comunicações civis, militares e paramilitares, bem como entre os operadores de comunicações de uso público e os operadores da comunicação social;
+d) A coordenação entre as comunicações civis, militares e das forças e serviços de segurança, bem como entre os operadores de comunicações de uso público e os operadores da comunicação social;
 
-e) Qualquer assunto que o conselho de administração submeta à sua apreciação.
+e) Os padrões da qualidade dos serviços prestados pelos diferentes operadores da área das comunicações;
+
+f) A estratégia global de desenvolvimento das telecomunicações e as suas relações com a participação nacional na sociedade global de informação;
+
+g) Qualquer outro assunto que o conselho de administração, por iniciativa própria ou por iniciativa do Governo, submeter à sua apreciação.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 95/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411), publicado em 1996-07-17.
 
 ###### Artigo 16.º — Funcionamento
 
@@ -416,9 +466,15 @@ e) Qualquer assunto que o conselho de administração submeta à sua apreciaçã
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Artigo 20.º — Normas aplicáveis
+###### Artigo 20.º — Gestão patrimonial e financeira
 
-A gestão patrimonial e financeira do ICP, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às empresas públicas.
+1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.
+
+2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.
+
+3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.
 
 ###### Artigo 21.º — Património
 
@@ -473,6 +529,10 @@ a) Podem identificar, para posterior actuação, todos os indivíduos que infrin
 b) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;
 
 c) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.
+
+3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.
+
+> Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07.
 
 ###### Artigo 25.º — Segurança Social
 

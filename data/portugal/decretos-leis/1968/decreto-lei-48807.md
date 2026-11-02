@@ -31,10 +31,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-26'
+version_history:
+  file: decreto-lei-48807.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-26'
+    amending: pt:dre:199143:por
+    amending_title: Decreto-Lei n.º 49153; Decreto-Lei n.º 260-A/75
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 18.º
+    - Revoga Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:08:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49153; Decreto-Lei
+    n.º 260-A/75. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48807.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,9 +179,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É suprimido no ensino profissional o magistério do 1.º grau e são extintos nos quadros de pessoal docente os correspondentes lugares.
+###### Artigo 1.º
 
-Art. 2.º - 1. As secções das Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Évora, Ovar, Silves, Tomar e Torres Novas, instaladas, respectivamente, no Seixal, em Reguengos de Monsaraz, Estarreja, Portimão, Entroncamento e Alcanena, serão convertidas, em 1 de Agosto de 1969, em escolas técnicas profissionais com as seguintes denominações:
+É suprimido no ensino profissional o magistério do 1.º grau e são extintos nos quadros de pessoal docente os correspondentes lugares.
+
+###### Artigo 2.º
+
+1. As secções das Escolas Industriais e Comerciais de Emídio Navarro, em Almada, de Évora, Ovar, Silves, Tomar e Torres Novas, instaladas, respectivamente, no Seixal, em Reguengos de Monsaraz, Estarreja, Portimão, Entroncamento e Alcanena, serão convertidas, em 1 de Agosto de 1969, em escolas técnicas profissionais com as seguintes denominações:
 
 Escola Industrial e Comercial do Seixal;
 
@@ -178,19 +201,29 @@ Escola Industrial de Alcanena.
 
 2. Os planos de estudos das novas escolas serão fixados por despacho do Ministro da Educação Nacional e os seus quadros de pessoal estabelecidos em portaria conjunta dos Ministros das Finanças e da Educação Nacional.
 
-Art. 3.º Os subdirectores das escolas técnicas profissionais e os directores de curso são nomeados pelo Ministro, mediante proposta do director da escola, de entre professores do ensino técnico profissional, podendo ainda o provimento desses lugares fazer-se nos termos do artigo 100.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+###### Artigo 3.º
 
-Art. 4.º O artigo 23.º do [Decreto-Lei n.º 37028](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37028-1948-384413), de 25 de Agosto de 1948, passa a ter a seguinte redacção:
+Os subdirectores das escolas técnicas profissionais e os directores de curso são nomeados pelo Ministro, mediante proposta do director da escola, de entre professores do ensino técnico profissional, podendo ainda o provimento desses lugares fazer-se nos termos do artigo 100.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+
+###### Artigo 4.º
+
+O artigo 23.º do [Decreto-Lei n.º 37028](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37028-1948-384413), de 25 de Agosto de 1948, passa a ter a seguinte redacção:
 
 Art. 23.º O ano escolar começa em 1 de Outubro e termina em 30 de Setembro seguinte. O ano lectivo começa em 1 de Outubro e termina em 30 de Junho.
 
-Art. 5.º - 1. As oficinas escolares e os cursos gráficos do ensino comercial são regidos por um mestre principal e pelos mestres que a frequência de cada estabelecimento justificar.
+###### Artigo 5.º
+
+1. As oficinas escolares e os cursos gráficos do ensino comercial são regidos por um mestre principal e pelos mestres que a frequência de cada estabelecimento justificar.
 
 2. O disposto no número anterior é aplicável ao ensino da disciplina de Economia Doméstica.
 
-Art. 6.º O provimento dos lugares de mestre principal dos quadros é feito mediante concurso documental, a que podem apresentar-se os mestres da respectiva oficina ou curso prático com, pelo menos, cinco anos de serviço na categoria classificado de Bom e informação de suficiente aproveitamento nos cursos de preparação ou actualização para que tenham sido convocados, nos termos do [Decreto n.º 47662](https://diariodarepublica.pt/dr/detalhe/decreto/47662-1967-310209), de 29 de Abril de 1967.
+###### Artigo 6.º
 
-Art. 7.º - 1. O quadro de pessoal docente de cada escola técnica profissional é o que consta do mapa n.º 1 anexo a este diploma.
+O provimento dos lugares de mestre principal dos quadros é feito mediante concurso documental, a que podem apresentar-se os mestres da respectiva oficina ou curso prático com, pelo menos, cinco anos de serviço na categoria classificado de Bom e informação de suficiente aproveitamento nos cursos de preparação ou actualização para que tenham sido convocados, nos termos do [Decreto n.º 47662](https://diariodarepublica.pt/dr/detalhe/decreto/47662-1967-310209), de 29 de Abril de 1967.
+
+###### Artigo 7.º
+
+1. O quadro de pessoal docente de cada escola técnica profissional é o que consta do mapa n.º 1 anexo a este diploma.
 
 2. Os actuais professores adjuntos e os professores, contratados, de Educação Física dos quadros das escolas a que se refere o número anterior passam a professores efectivos, respectivamente, do mesmo grupo e da mesma disciplina e são providos, com dispensa de todas as formalidades, em lugares vagos do respectivo quadro.
 
@@ -204,15 +237,25 @@ Art. 7.º - 1. O quadro de pessoal docente de cada escola técnica profissional 
 
 7. No prazo de sessenta dias, a contar da data da publicação deste diploma, a Direcção-Geral do Ensino Técnico Profissional fará publicar no Diário do Governo um mapa de que conste a situação de todo o pessoal docente dos quadros.
 
-Art. 8.º Se em dois anos escolares consecutivos não forem preenchidos nalguma escola os lugares de professor extraordinário que lhe vão atribuídos nos diversos grupos, podem os lugares vagos, no todo ou em parte e dentro da mesma escola, ser transitória ou definitivamente transferidos, por despacho ministerial publicado no Diário do Governo, para outro grupo.
+###### Artigo 8.º
 
-Art. 9.º É extinto o quadro de professores auxiliares do ensino técnico profissional, mas os actuais titulares de lugares desse quadro mantêm todos os deveres e direitos inerentes à categoria, ocupando nas escolas onde se encontram ou forem colocados lugares do quadro de professor extraordinário.
+Se em dois anos escolares consecutivos não forem preenchidos nalguma escola os lugares de professor extraordinário que lhe vão atribuídos nos diversos grupos, podem os lugares vagos, no todo ou em parte e dentro da mesma escola, ser transitória ou definitivamente transferidos, por despacho ministerial publicado no Diário do Governo, para outro grupo.
 
-Art. 10.º - 1. São extintos nos quadros de todos os liceus os lugares de professor, contratado, de Canto Coral e de Educação Física e substituídos por lugares de professor efectivo da mesma disciplina, considerando-se providos nos novos lugares de cada liceu, com dispensa de todas as formalidades, a partir de 1 de Janeiro de 1969, os titulares dos lugares extintos.
+###### Artigo 9.º
+
+É extinto o quadro de professores auxiliares do ensino técnico profissional, mas os actuais titulares de lugares desse quadro mantêm todos os deveres e direitos inerentes à categoria, ocupando nas escolas onde se encontram ou forem colocados lugares do quadro de professor extraordinário.
+
+###### Artigo 10.º
+
+1. São extintos nos quadros das escolas de regentes agrícolas e dos liceus os lugares de professor contratado de Educação Física e de Canto Coral e substituídos por lugares de professor efectivo da mesma disciplina, considerando-se providos nos novos lugares de cada escola e de cada liceu, a partir de 1 de Janeiro de 1969, com dispensa de todas as formalidades, os titulares dos lugares extintos.
 
 2. Aos professores a que se refere o número anterior é contado, para todos os efeitos legais, na nova categoria o tempo de serviço prestado nos quadros.
 
-Art. 11.º - 1. Os vencimentos de pessoal docente dos ensinos liceal e técnico profissional nas categorias que figuram na tabela n.º 1 anexa a este diploma são os estabelecidos nessa tabela.
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
+
+###### Artigo 11.º
+
+1. Os vencimentos de pessoal docente dos ensinos liceal e técnico profissional nas categorias que figuram na tabela n.º 1 anexa a este diploma são os estabelecidos nessa tabela.
 
 2. Os professores agregados do ensino liceal e os professores extraordinários dos quadros do ensino técnico profissional têm direito aos vencimentos durante os doze meses do ano. Os demais professores extraordinários vencem como provisórios durante os meses em que prestarem serviço; mas nos anos em que exercerem desde 6 de Outubro até ao termo das actividades escolares serão também abonados em Agosto e Setembro.
 
@@ -220,19 +263,23 @@ Art. 11.º - 1. Os vencimentos de pessoal docente dos ensinos liceal e técnico 
 
 4. As remunerações dos professores a que se refere o artigo 216.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) serão fixadas por despacho ministerial de entre as legalmente estabelecidas para os professores provisórios, tomando em consideração o nível das habilitações dos candidatos.
 
-5. Os vencimentos e remunerações estabelecidos nos números anteriores serão abonados a partir de 1 de Janeiro de 1969, salvo quanto aos professores de serviço eventual dos liceus, que manterão os vencimentos actuais até ao termo do ano escolar de 1968-1969.
+5. Os vencimentos e remunerações estabelecidos nos números anteriores serão abonados a partir de 1 de Janeiro de 1969, salvo quanto aos professores de serviço eventual do 1.º ao 9.º grupos e de Religião e Moral dos liceus e aos de igual categoria do ensino secundário agrícola, que manterão os vencimentos actuais até ao termo do ano escolar de 1968-1969.
 
-Art. 12.º - 1. O serviço docente obrigatório para as diferentes categorias de pessoal dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional e dos liceus é o seguinte:
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
+
+###### Artigo 12.º
+
+1. O serviço docente obrigatório para as diferentes categorias de pessoal dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional e dos liceus é o seguinte:
 
 a) Doze horas para os professores ordinários dos institutos técnicos médios, com a redução de três horas após a concessão da 2.ª diuturnidade;
 
 b) Dezoito horas para os professores das escolas de regentes agrícolas, com a redução de três horas após a concessão da 2.ª diuturnidade;
 
-c) Vinte e duas horas para os professores de todas as categorias dos liceus, com excepção das professoras, contratadas, de Lavores Femininos, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade;
+c) Vinte e duas horas para os professores de todas as categorias dos liceus, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
 
 d) Vinte e duas horas para os professores auxiliares dos institutos e para os professores de todas as categorias das escolas técnicas profissionais e práticas de agricultura, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade;
 
-e) Trinta e duas horas para as professoras de Lavores Femininos dos liceus e para os regentes de trabalhos, mestres e técnicos auxiliares do ensino técnico profissional, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
+e) Trinta e duas horas para os regentes de trabalhos, mestres e técnicos auxiliares do ensino técnico profissional, com a redução de duas e de quatro horas após a concessão, respectivamente, da 1.ª e da 2.ª diuturnidade.
 
 2. Quando as necessidades do ensino o justifiquem, pode o pessoal docente de todas as categorias mencionadas no número anterior prestar semanalmente até dez horas de serviço de regências além daquele a que é legalmente obrigado, o qual será considerado extraordinário e remunerado nos termos da tabela n.º 2 anexa a este diploma.
 
@@ -240,23 +287,39 @@ e) Trinta e duas horas para as professoras de Lavores Femininos dos liceus e par
 
 4. A remuneração do serviço extraordinário será abonada em cada ano escolar, quando devida, de 1 de Outubro a 31 de Julho.
 
-Art. 13.º - 1. Os professores a que se refere o n.º 5 do artigo 9.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, podem ser transferidos, a requerimento seu, para vagas existentes em escolas técnicas profissionais da localidade daquela a cujo quadro pertencem ou, na falta de vaga, serem colocados temporàriamente nessas escolas como supranumerários, com direito a preencherem vaga do seu grupo que nelas ocorra.
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
+
+###### Artigo 13.º
+
+1. Os professores a que se refere o n.º 5 do artigo 9.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, podem ser transferidos, a requerimento seu, para vagas existentes em escolas técnicas profissionais da localidade daquela a cujo quadro pertencem ou, na falta de vaga, serem colocados temporàriamente nessas escolas como supranumerários, com direito a preencherem vaga do seu grupo que nelas ocorra.
 
 2. Enquanto se mantiverem na situação prevista na parte final do número anterior os professores conservarão o direito ao abono dos vencimentos do lugar do quadro.
 
-Art. 14.º Os professores dos quadros do ensino preparatório que possuam a habilitação académica exigida pelo artigo 228.º do estatuto promulgado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414) aos candidatos a professores efectivos do ensino técnico profissional podem requerer o provimento nos lugares desta categoria dentro do grupo correspondente àquela habilitação, sendo-lhes contado, para todos os efeitos legais, o serviço prestado no quadro donde provêm.
+###### Artigo 14.º
 
-Art. 15.º As pessoas habilitadas com o Exame de Estado para o extinto magistério do 1.º grau nos grupos 2.º, 3.º, 4.º e 6.º do ensino técnico profissional podem requerer o provimento dos lugares de professor extraordinário e de professor efectivo do respectivo grupo, sendo graduados, para tal efeito, nos termos do n.º 6 do artigo 7.º
+(Revogado.)
 
-Art. 16.º O disposto no artigo 3.º do [Decreto-Lei n.º 42583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42583-1959-430269), de 15 de Outubro de 1959, é aplicável aos lugares de professor efectivo do ensino técnico profissional.
+> Revogado pelo/a [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), publicado em 1975-05-26.
 
-Art. 17.º - 1. Os professores extraordinários do ensino técnico profissional que, após a obtenção da categoria, tenham prestado nesse ensino o mínimo de dois anos de serviço docente classificado de Bom e possuam a habilitação da secção de Ciências Pedagógicas das Faculdades de Letras podem requerer o Exame de Estado do grupo a que pertencem.
+###### Artigo 15.º
+
+As pessoas habilitadas com o Exame de Estado para o extinto magistério do 1.º grau nos grupos 2.º, 3.º, 4.º e 6.º do ensino técnico profissional podem requerer o provimento dos lugares de professor extraordinário e de professor efectivo do respectivo grupo, sendo graduados, para tal efeito, nos termos do n.º 6 do artigo 7.º
+
+###### Artigo 16.º
+
+O disposto no artigo 3.º do [Decreto-Lei n.º 42583](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42583-1959-430269), de 15 de Outubro de 1959, é aplicável aos lugares de professor efectivo do ensino técnico profissional.
+
+###### Artigo 17.º
+
+1. Os professores extraordinários do ensino técnico profissional que, após a obtenção da categoria, tenham prestado nesse ensino o mínimo de dois anos de serviço docente classificado de Bom e possuam a habilitação da secção de Ciências Pedagógicas das Faculdades de Letras podem requerer o Exame de Estado do grupo a que pertencem.
 
 2. Será fixado por despacho ministerial o prazo para requerer o exame, bem como, se tal vier a reconhecer-se como necessário, o número de candidatos a admitir às provas em cada ano.
 
 3. Se em qualquer ano o número de requerentes exceder o número de candidatos a admitir às provas, serão eles convocados pela ordem decrescente da graduação estabelecida nos termos da parte final do n.º 2 do artigo 3.º do [Decreto n.º 41177](https://diariodarepublica.pt/dr/detalhe/decreto/41177-1957-279195), de 8 de Julho de 1957.
 
-Art. 18.º - 1. Nos quadros de pessoal administrativo dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional são introduzidas as seguintes alterações:
+###### Artigo 18.º
+
+1. Nos quadros de pessoal administrativo dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional são introduzidas as seguintes alterações:
 
 a) Os lugares de aspirante são extintos e substituídos por lugares de terceiro-oficial, considerando-se providos nos novos lugares de cada escola, com dispensa de todas as formalidades, a partir de 1 de Janeiro de 1969, os titulares dos lugares extintos;
 
@@ -264,15 +327,25 @@ b) São adicionados aos quadros das escolas que figuram no mapa n.º 2 anexo a e
 
 2. Os titulares dos lugares de segundo e terceiro-oficial em exercício nas escolas a cujo quadro é adicionado um lugar de primeiro ou de segundo-oficial consideram-se providos, a partir de 1 de Janeiro de 1969, com dispensa de todas as formalidades, nos lugares de categoria imediata à daquele que actualmente ocupam.
 
-3. O primeiro concurso de provimento realizado após a publicação do presente diploma para os lugares de segundo-oficial que não forem ocupados nos termos do número anterior terá carácter extraordinário e a ele poderão ser admitidos os terceiros-oficiais em exercício que obtiverem boa informação do respectivo director, confirmada pela inspecção, graduando-se os candidatos pela ordem decrescente do tempo de serviço prestado na dependência da Direcção-Geral.
+3. O primeiro concurso de provimento realizado após a publicação do presente diploma para os lugares de segundo-oficial que não forem ocupados nos termos do número anterior terá carácter extraordinário e a ele poderão ser admitidos os terceiros-oficiais em exercício que obtiverem boa informação do respectivo director, confirmada pela inspecção, graduando-se os candidatos pela ordem decrescente do tempo de serviço prestado na dependência da Direcção-Geral nessa categoria e, em caso de igualdade, nas categorias inferiores.
 
-Art. 19.º O recrutamento dos terceiros-oficiais passa a ser feito nos termos da legislação actualmente aplicável aos lugares de aspirante e os candidatos aprovados em concurso de habilitação para esta categoria podem requerer o provimento nesses lugares.
+> Alterado pelo/a [Decreto-Lei n.º 49153](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49153-1969-199143), publicado em 1969-07-26.
 
-Art. 20.º O provimento dos lugares de primeiro, segundo e terceiro-oficial dos quadros a que se refere o n.º 1 do artigo 18.º é feito por nomeação vitalícia.
+###### Artigo 19.º
 
-Art. 21.º Os escriturários eventuais, admitidos nos termos do artigo 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Janeiro de 1958, que se encontrem a prestar serviço no mesmo estabelecimento há mais de dois anos podem ser providos em lugares do quadro com dispensa do limite de idade fixado no n.º 2 do artigo 149.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414).
+O recrutamento dos terceiros-oficiais passa a ser feito nos termos da legislação actualmente aplicável aos lugares de aspirante e os candidatos aprovados em concurso de habilitação para esta categoria podem requerer o provimento nesses lugares.
 
-Art. 22.º Nos institutos e escolas cuja frequência em, pelo menos, três anos consecutivos exceda mil e quinhentos alunos, o chefe da secretaria terá direito à gratificação mensal de 800$00, se for primeiro-oficial, ou de 600$00, se for segundo-oficial.
+###### Artigo 20.º
+
+O provimento dos lugares de primeiro, segundo e terceiro-oficial dos quadros a que se refere o n.º 1 do artigo 18.º é feito por nomeação vitalícia.
+
+###### Artigo 21.º
+
+Os escriturários eventuais, admitidos nos termos do artigo 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Janeiro de 1958, que se encontrem a prestar serviço no mesmo estabelecimento há mais de dois anos podem ser providos em lugares do quadro com dispensa do limite de idade fixado no n.º 2 do artigo 149.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414).
+
+###### Artigo 22.º
+
+Nos institutos e escolas cuja frequência em, pelo menos, três anos consecutivos exceda mil e quinhentos alunos, o chefe da secretaria terá direito à gratificação mensal de 800$00, se for primeiro-oficial, ou de 600$00, se for segundo-oficial.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.
 

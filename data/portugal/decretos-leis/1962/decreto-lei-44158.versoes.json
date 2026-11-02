@@ -1,0 +1,161 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520187:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-01-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0842402159ed1839"
+   ]
+  },
+  {
+   "date": "1993-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666744:por",
+     "title": "Decreto-Lei n.º 365/93",
+     "published": "1993-10-22",
+     "dre_path": "/dr/detalhe/decreto-lei/365-1993-666744"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "88b442eaef52221c",
+    "6e5fba6c07307055",
+    "2f0f3875f305a065",
+    "7642c30cd6a7a81f",
+    "2cca2fc01992317f",
+    "fe023bc92e511395",
+    "de53ecb973c45bb6",
+    "2805a2de4a745cc1",
+    "6cbdf963303b4103",
+    "2a7117907f3eb736",
+    "74bb663232194fba"
+   ]
+  }
+ ],
+ "fragments": {
+  "0842402159ed1839": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que é do maior interesse para a economia nacional prosseguir por todos os meios na luta contra a grave epizootia conhecida por peste suína africana;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criada, com carácter temporário, a taxa de $30 por quilograma de carne de porco abatida e importada para, consumo no território metropolitano.\n\nArt. 2.º Para efeito de cobrança da taxa a que se refere o artigo anterior, a Direcção-Geral dos Serviços Pecuários remeterá as respectivas guias, directamente ou por intermédio dos seus serviços regionais, às secções de finanças dos concelhos da residência do proprietário ou importador, com o nome e domicílio dos devedores, para pagamento das laxas devidas, aguardando-se por 30 dias o pagamento voluntário mediante aviso das referidas secções de finanças.\n\nArt. 3.º A Junta Nacional dos Produtos Pecuários fornecerá à Direcção-Geral dos Serviços Pecuários, no mês seguinte ao do abate ou importação, relação das importações ou abates donde constem os nomes das entidades a cargo de quem aquelas ou estes foram efectuados, o número de animais e de quilogramas de carne abatida ou importada e os demais elementos indispensáveis para o cálculo da taxa e identificações do responsável pelo seu pagamento.\n\nArt. 4.º Na falta de pagamento da taxa estabelecida por este diploma dentro do prazo a que se refere o artigo 2.º, proceder-se-á à sua cobrança coerciva por intermédio dos tribunais das execuções fiscais, para o que se converterão as dívidas em receita virtual, debitando-se por elas o respectivo tesoureiro para os efeitos da alínea a) do § único do artigo 34.º do Código das Execuções Fiscais.\n\nArt. 5.º O produto da taxa a que se refere o artigo 1.º será escriturado em conta de depósito em operações de tesouraria, transitando para receita do Estado, em rubrica adequada, na medida das necessidades, para cobertura dos encargos com a luta contra a peste suína atípica vírus L (peste suína africana), incluindo indemnizações pelo abate e destruição dos animais.\n\n§ único. Mediante despacho do Ministro das Finanças, poderá ser concedido à Direcção-Geral dos Serviços Pecuários um crédito permanente até à importância de dois duodécimos da correspondente dotação orçamental, devendo atender-se a que no fim do ano económico não poderá estar despendida quantia excedente à arrecadada.\n\nArt. 6.º A luta contra a peste suína africana, que engloba os encargos com indemnizações, despesas com o pessoal, material e pagamento de serviços e diversos encargos, compreende:\n\na) A execução de medidas profilácticas e de polícia sanitária;\n\nb) A investigação e a produção de meios de luta e prevenção;\n\nc) A educação sanitária, incluindo a assistência técnica e a vulgarização.\n\nArt. 7.º A indemnização a que se refere o artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e o Decreto-lei n.º 41178, de 8 de Julho de 1957, passa a abranger os suínos vitimados pela peste suína africana, a partir da data da declaração dos focos, no caso de ulterior confirmação da doença e desde que os mesmos animais sejam observados pelos serviços técnicos da Direcção-Geral dos Serviços Pecuários.\n\nArt. 8.º A restrição respeitante à utilização de restos de comidas na alimentação de animais, a que se referem as Portarias n.os 16387 e 18073 respectivamente de 19 de Agosto de 1957 e 19 de Novembro de 1960, será graduada até à proibição da sua utilização, por despacho do director-geral dos Serviços Pecuários, em função da situação epizootológica da peste suína africana.\n\nArt. 9.º As alterações orçamentais que no corrente ano económico se mostrem necessárias para a execução deste diploma poderão ter lugar por simples decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Agricultura.\n\nArt. 10.º Este diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos - João Augusto Dias Rosas.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "88b442eaef52221c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que é do maior interesse para a economia nacional prosseguir por todos os meios na luta contra a grave epizootia conhecida por peste suína africana;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "6e5fba6c07307055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "2f0f3875f305a065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "7642c30cd6a7a81f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "2cca2fc01992317f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "fe023bc92e511395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "de53ecb973c45bb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1993-12-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 365/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1993-666744), publicado em 1993-10-22."
+  },
+  "2805a2de4a745cc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA indemnização a que se refere o artigo 8.º do [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, e o Decreto-lei n.º 41178, de 8 de Julho de 1957, passa a abranger os suínos vitimados pela peste suína africana, a partir da data da declaração dos focos, no caso de ulterior confirmação da doença e desde que os mesmos animais sejam observados pelos serviços técnicos da Direcção-Geral dos Serviços Pecuários."
+  },
+  "6cbdf963303b4103": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA restrição respeitante à utilização de restos de comidas na alimentação de animais, a que se referem as Portarias n.os 16387 e 18073 respectivamente de 19 de Agosto de 1957 e 19 de Novembro de 1960, será graduada até à proibição da sua utilização, por despacho do director-geral dos Serviços Pecuários, em função da situação epizootológica da peste suína africana."
+  },
+  "2a7117907f3eb736": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs alterações orçamentais que no corrente ano económico se mostrem necessárias para a execução deste diploma poderão ter lugar por simples decreto referendado pelo Ministro das Finanças e pelo Secretário de Estado da Agricultura."
+  },
+  "74bb663232194fba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEste diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos - João Augusto Dias Rosas.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

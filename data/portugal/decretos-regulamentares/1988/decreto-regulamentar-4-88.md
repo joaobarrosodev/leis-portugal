@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-01'
+version_history:
+  file: decreto-regulamentar-4-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: pt:dre:659558:por
+    amending_title: Decreto Regulamentar n.º 34/91; Decreto-Lei n.º 132/2019
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:16:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 34/91; Decreto-Lei
+    n.º 132/2019. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1988/decreto-regulamentar-4-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,13 +164,23 @@ c) Secretário aduaneiro de 2.ª classe, de entre secretários aduaneiros estagi
 
 d) Secretário aduaneiro estagiário, de entre indivíduos habilitados com o curso complementar do ensino secundário ou equiparado, mediante concurso, que incluirá provas de selecção adequadas.
 
+2 - Os actuais secretários aduaneiros não possuidores da habilitação académica referida na alínea a) do número anterior poderão apresentar-se aos concursos de acesso às categorias de secretário aduaneiro especialista de 1.ª classe e secretário aduaneiro especialista após a frequência, com aproveitamento, de um curso de formação.
+
+3 - A duração, o conteúdo programático, os sistemas de funcionamento e a avaliação do curso previsto no número anterior serão aprovados por portaria do membro do Governo competente e do que tiver a seu cargo a função pública.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 34/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1991-659558), publicado em 1991-06-20.
+
 ###### Artigo 2.º — Formação profissional
 
-O estágio previsto no n.º 1 do artigo 74.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, é reconhecido como formação profissional adequada ao provimento na carreira referida no artigo anterior, como do grupo de pessoal técnico-profissional do nível 4.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 3.º — Alteração ao quadro de pessoal
 
-O quadro de pessoal da Direcção-Geral das Alfândegas é alterado, no que respeita à carreira de secretário aduaneiro, de acordo com o mapa constante do anexo n.º 1 ao presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 

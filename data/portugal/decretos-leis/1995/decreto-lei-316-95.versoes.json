@@ -1,0 +1,852 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:626589:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae6e82e2bef0c24d",
+    "972493011ce89b16",
+    "d0fba5c2633e44ef",
+    "6e0f619e8ac8c2df",
+    "18e875ebbf6ad6c0",
+    "bbbeedc7fdcc828e",
+    "fd37f8a989921560",
+    "9444ad86186327bc",
+    "bc01e267ef972836",
+    "4deaddbb8ef57eec",
+    "67073b3b353ec9b4",
+    "dbda01e6eff78ae6",
+    "983c0cacbce4a9b8",
+    "0e782318eef7c903",
+    "f0bfca893e3e8164",
+    "486a16bdbe691e0d",
+    "b691ffb677b6de0b",
+    "7ba2f7ecd66cea9b",
+    "198673d62c850245",
+    "47f319255c1a2774",
+    "6d7708394bf8d4d0",
+    "b865cb1321474047",
+    "d70b7be98756cc7c",
+    "e9964f0ff1b07619",
+    "1a12bc15ea80649c",
+    "ac68b97c4f0d5045",
+    "29fcca9a15436757",
+    "a36433e05212cd95",
+    "554311d2bdea4e2d",
+    "f8b091a8542a5187",
+    "c646562c7426446e",
+    "3a42b2b63ec4e6bb",
+    "5789146f56965f65",
+    "af68a889295e1f87",
+    "2345c79cd970d517",
+    "bb22b8c195048158",
+    "f43a0e2bab80bf48",
+    "ba230af9a4706673",
+    "679335d9dc5f3916",
+    "43b91c9296e4ec8d",
+    "2d3f6fbbbf1a4509",
+    "a35a0ccfedd9a2a5",
+    "affd6b0e2a04a120",
+    "1e8ad909691183af",
+    "bcf884a05bbf0c92",
+    "467ebe6eb9ad81f3",
+    "7ee5031e9235efc0",
+    "c88b14a4b0c76ed5",
+    "0196dd3b6f013d0d",
+    "faa75ad77260c7f0",
+    "424eebdd655c8198",
+    "fc4fff5e98020a36",
+    "7bdcc428c9e67c5f",
+    "33b8ff0ebd19e1f9",
+    "71c6ae1d4548da92",
+    "2bcf4808931b70b2",
+    "d27ec05e4538cd9e",
+    "0fb8f597c96affcd",
+    "ccce07a62e8b3803",
+    "be5adc5a0daed21f",
+    "d66b55d317ff4b45",
+    "6dfa3ec3e625a39c",
+    "73bf8c7cfa1fe563",
+    "9954d95a13e5f88b",
+    "087f9ae89d2aacc3",
+    "f90e06d2446ed274",
+    "7da14c7e4ee92b36",
+    "5d84da827f1d9f2e",
+    "c433ecb77f0f8c8f",
+    "9dc1939542da0ee6",
+    "2a1d733b39782ca9",
+    "6ca522390246bac8",
+    "7a4efdb76475c164",
+    "aac5fdecf1faaac0"
+   ]
+  },
+  {
+   "date": "2015-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095691:por",
+     "title": "Lei n.º 105/2015",
+     "published": "2015-08-25",
+     "dre_path": "/dr/detalhe/lei/105-2015-70095691"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo ANEXO::1.º",
+    "Revoga Artigo ANEXO::2.º",
+    "Revoga Artigo ANEXO::3.º",
+    "Revoga Artigo ANEXO::4.º",
+    "Revoga Artigo ANEXO::5.º",
+    "Revoga Artigo ANEXO::6.º"
+   ],
+   "fragments": [
+    "ae6e82e2bef0c24d",
+    "f0cb7c8a058d8ae9",
+    "d0fba5c2633e44ef",
+    "6e0f619e8ac8c2df",
+    "18e875ebbf6ad6c0",
+    "bbbeedc7fdcc828e",
+    "fd37f8a989921560",
+    "9444ad86186327bc",
+    "bc01e267ef972836",
+    "4deaddbb8ef57eec",
+    "67073b3b353ec9b4",
+    "dbda01e6eff78ae6",
+    "983c0cacbce4a9b8",
+    "b55d6988958175b2",
+    "1645d5b2486b204c",
+    "d57312e6f4f475ce",
+    "cd41e849a471139f",
+    "d0c61221a824326f",
+    "5e6f57a2750ed20f",
+    "47f319255c1a2774",
+    "6d7708394bf8d4d0",
+    "b865cb1321474047",
+    "d70b7be98756cc7c",
+    "e9964f0ff1b07619",
+    "1a12bc15ea80649c",
+    "ac68b97c4f0d5045",
+    "29fcca9a15436757",
+    "a36433e05212cd95",
+    "554311d2bdea4e2d",
+    "f8b091a8542a5187",
+    "c646562c7426446e",
+    "3a42b2b63ec4e6bb",
+    "5789146f56965f65",
+    "af68a889295e1f87",
+    "2345c79cd970d517",
+    "bb22b8c195048158",
+    "f43a0e2bab80bf48",
+    "ba230af9a4706673",
+    "679335d9dc5f3916",
+    "43b91c9296e4ec8d",
+    "2d3f6fbbbf1a4509",
+    "a35a0ccfedd9a2a5",
+    "affd6b0e2a04a120",
+    "1e8ad909691183af",
+    "bcf884a05bbf0c92",
+    "467ebe6eb9ad81f3",
+    "7ee5031e9235efc0",
+    "c88b14a4b0c76ed5",
+    "0196dd3b6f013d0d",
+    "faa75ad77260c7f0",
+    "424eebdd655c8198",
+    "fc4fff5e98020a36",
+    "7bdcc428c9e67c5f",
+    "33b8ff0ebd19e1f9",
+    "71c6ae1d4548da92",
+    "2bcf4808931b70b2",
+    "d27ec05e4538cd9e",
+    "0fb8f597c96affcd",
+    "ccce07a62e8b3803",
+    "be5adc5a0daed21f",
+    "d66b55d317ff4b45",
+    "6dfa3ec3e625a39c",
+    "73bf8c7cfa1fe563",
+    "9954d95a13e5f88b",
+    "087f9ae89d2aacc3",
+    "f90e06d2446ed274",
+    "7da14c7e4ee92b36",
+    "5d84da827f1d9f2e",
+    "c433ecb77f0f8c8f",
+    "9dc1939542da0ee6",
+    "2a1d733b39782ca9",
+    "6ca522390246bac8",
+    "7a4efdb76475c164",
+    "aac5fdecf1faaac0"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae6e82e2bef0c24d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Novembro\n\nO desenvolvimento desregulado de actividades marginais à economia legal tem gerado um ambiente de reprovação pública e, em alguns casos, um sentimento de insegurança que se fica a dever não só ao desvalor absoluto de algumas dessas actividades como à circunstância de a sua prática estar associada à proliferação de comportamentos desviantes, agravando situações já delicadas.\n\nAdmitir-se a manutenção daquelas práticas significaria permitir a sua impunidade.\n\nOra, quanto a órgãos tradicionalmente competentes para a tomada de medidas administrativas em matéria de polícia, torna-se necessário dotar os governadores civis dos instrumentos legais que lhes permitam condicionar o acesso àquelas actividades, bem como reprimir os excessos ou a sua prática ilegal, reforçando assim o seu poder de intervenção.\n\nDeste modo, entre as práticas que, por interferirem com a ordem pública e a tranquilidade social, passam a ficar sujeitas a licenciamento do governador civil do distrito inclui-se a actividade de arrumador de automóveis e a de guarda-nocturno.\n\nO regime do licenciamento e de exploração de máquinas de diversão já existia, sendo agora actualizado, mantendo-se o regime do registo das máquinas e os condicionamentos à sua exploração, designadamente no que diz respeito às restrições ao número de máquinas e à interdição da prática de jogos a menores de 16 anos quando não acompanhados por quem exercer o poder paternal.\n\nCom as alterações operadas, os governadores civis ficam com o exercício das suas competências sujeito a um diploma com força de lei, como acontece com todos os órgãos administrativos, retirando-se-lhes competências regulamentares em matérias não suficientemente densificadas por lei, obstando com o ensejo à subsistência de regulamentos independentes.\n\nProcede-se, concomitantemente, à habilitação legal do poder de delegação da competência de licenciamento nos comandantes da Polícia de Segurança Pública ou da Guarda Nacional Republicana e, no que concerne às denominadas «medidas de polícia», a que subjazem razões de ordem pública, a sua previsão no presente diploma cumpre não só a mera precedência legislativa mas ainda o princípio da sua tipicidade, em estrita obediência à lei fundamental.\n\nO presente diploma realça assim as competências do governador civil como órgão administrativo que, na área do distrito, intervém como representante do Governo para fins de manutenção da ordem, tranquilidade e segurança públicas.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "972493011ce89b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado, em anexo ao presente diploma, que dele faz parte integrante, o regime jurídico do licenciamento do exercício das seguintes actividades:\n\na) Guarda-nocturno;\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) Realização de leilões."
+  },
+  "d0fba5c2633e44ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Estatuto dos governadores civis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto dos governadores civis\n\nOs artigos 2.º, 4.º, 7.º e 24.º do [Decreto-Lei n.º 252/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1992-584790), de 19 de Novembro, passam a ter a seguinte redacção:"
+  },
+  "6e0f619e8ac8c2df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — [...]\n\nO governador civil é o órgão que representa o Governo na área do distrito e que, nesse âmbito geográfico, exerce as competências que a lei lhe confere."
+  },
+  "18e875ebbf6ad6c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — [...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\na) Tomar as providências necessárias para manter ou repor a ordem, a segurança e a tranquilidade públicas, requisitando, quando necessária, a intervenção das forças de segurança, aos comandantes da PSP e da GNR, instaladas no distrito;\n\nb) Conceder as autorizações ou licenças previstas na lei para o exercício de actividades, tendo sempre em conta a segurança dos cidadãos, a prevenção de riscos ou de perigos vários que àquelas sejam inerentes;\n\nc) Assegurar a observância das leis e regulamentos e garantir a execução dos actos administrativos e das decisões judiciais;\n\nd) Propor ao Ministro da Administração Interna a elaboração dos regulamentos necessários à execução das leis que estabelecem o modo de exercício das suas competências;\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Aplicar as medidas de polícia e as sanções contra-ordenacionais previstas na lei.\n\n6 - O governador civil pode delegar no todo ou em parte a competência prevista na alínea b) do n.º 1 nos comandantes do comando de polícia, de divisão, de secção ou de esquadra da PSP ou de brigada, de grupo, de destacamento territorial ou de posto da GNR."
+  },
+  "bbbeedc7fdcc828e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Desobediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Desobediência\n\nA desobediência às ordens e aos actos praticados pelo governador civil constitui crime punido nos termos do Código Penal."
+  },
+  "fd37f8a989921560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — [...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) 40% do produto das coimas aplicadas, revertendo os restantes 60% para o Estado;\n\nd) ...\n\n2 - ..."
+  },
+  "9444ad86186327bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogados:\n\na) O [Decreto-Lei n.º 103/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1984-661737), de 30 de Março;\n\nb) O [Decreto-Lei n.º 21/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1985-328845), de 17 de Janeiro."
+  },
+  "bc01e267ef972836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira compete aos Ministros da República tomar, em articulação com o Ministro da Administração Interna, as providências necessárias para manter ou repor a ordem e a segurança públicas, bem como exercer as competências estabelecidas na secção I do capítulo I do regime anexo ao presente diploma.\n\n2 - Salvo o disposto no número anterior, e sem prejuízo da competência da Inspecção-Geral de Jogos, a aplicação nas Regiões Autónomas do regime anexo ao presente diploma compete às respectivas administrações regionais."
+  },
+  "4deaddbb8ef57eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor a 1 de Outubro de 1995.\n\nVisto e aprovado em Conselho de Ministros de 6 de Julho de 1995. - Manuel Dias Loureiro - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consulado - Manuel Dias Loureiro - Walter Valdemar Pêgo Marques - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.\n\nPromulgado em 13 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "67073b3b353ec9b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "dbda01e6eff78ae6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nLicenciamento do exercício de actividades"
+  },
+  "983c0cacbce4a9b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Guardas-nocturnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Guardas-nocturnos"
+  },
+  "0e782318eef7c903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação e extinção\n\nA criação e a extinção do serviço de guardas-nocturnos em cada localidade e a fixação e modificação das áreas de actuação de cada guarda são feitas por despacho do governador civil, ouvida a câmara municipal respectiva e os comandantes de brigada da GNR ou de polícia da PSP, conforme a localização da área a vigiar."
+  },
+  "f0bfca893e3e8164": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Licença\n\n1 - É da competência do governador civil a atribuição da licença para o exercício da actividade de guarda-nocturno.\n\n2 - A licença é intransmissível e tem validade anual."
+  },
+  "486a16bdbe691e0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de licenciamento\n\n1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao governador civil e nele devem constar o nome e o domicílio do requerente.\n\n2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por portaria do Ministro da Administração Interna."
+  },
+  "b691ffb677b6de0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Indeferimento\n\nO pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno."
+  },
+  "7ba2f7ecd66cea9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres\n\nO guarda-nocturno deve:\n\na) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;\n\nb) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;\n\nc) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e protecção civil;\n\nd) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;\n\ne) Usar, em serviço, o uniforme e o distintivo próprios;\n\nf) Usar de urbanidade e aprumo no exercício das suas funções;\n\ng) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;\n\nh) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;\n\ni) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência."
+  },
+  "198673d62c850245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime\n\n1 - O regime da actividade de guarda-nocturno é objecto de portaria do Ministro da Administração Interna.\n\n2 - Fica a cargo dos governos civis a atribuição de um subsídio mensal de fardamento equivalente ao atribuído às forças de segurança."
+  },
+  "47f319255c1a2774": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Vendedor ambulante de lotarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Vendedor ambulante de lotarias"
+  },
+  "6d7708394bf8d4d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Licenciamento\n\nA actividade de venda ambulante de lotaria da Santa Casa da Misericórdia de Lisboa está sujeita a licença gratuita, a emitir pelo governador civil do distrito."
+  },
+  "b865cb1321474047": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Identificação do vendedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação do vendedor\n\n1 - Cada vendedor ambulante será portador de um cartão de identificação, com a fotografia actualizada do seu titular e válido por cinco anos, de modelo a aprovar por despacho do Ministro da Administração Interna.\n\n2 - As licenças são registadas em livro especial, com termos de abertura e encerramento, por ordem cronológica e sob o número de ordem em que são transcritos os elementos de identificação constantes do requerimento, tendo anexada uma fotografia do vendedor.\n\n3 - O exercício da actividade de vendedor ambulante de lotaria em município diferente daquele para que haja sido passada a licença depende da apresentação do cartão de identidade ao visto da respectiva autoridade policial."
+  },
+  "d70b7be98756cc7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Validade das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Validade das licenças\n\nAs licenças são válidas até 31 de Dezembro de cada ano e a sua renovação será feita durante o mês de Janeiro, por simples averbamento requerido pelo interessado, a efectuar no livro de registo e no cartão de identidade."
+  },
+  "e9964f0ff1b07619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regras de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regras de conduta\n\n1 - Os vendedores ambulantes de lotaria são obrigados:\n\na) A exibir o cartão de identificação referido no artigo 26.º, usando-o no lado direito do peito;\n\nb) A restituir o cartão de identificação, quando a licença tiver caducado.\n\n2 - É proibido aos referidos vendedores:\n\na) Vender jogo depois da hora fixada para o início da extracção da lotaria;\n\nb) Anunciar jogo por forma contrária às restrições legais em matéria de publicidade."
+  },
+  "1a12bc15ea80649c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Arrumador de automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Arrumador de automóveis"
+  },
+  "ac68b97c4f0d5045": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Sujeição a licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sujeição a licenciamento\n\nA actividade de arrumador de automóveis está sujeita a licença gratuita, a emitir pelo governador civil do distrito."
+  },
+  "29fcca9a15436757": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Licenciamento\n\n1 - A concessão da licença, de validade anual, será acompanhada da emissão de um cartão identificativo, de modelo a aprovar por despacho do Ministro da Administração Interna, plastificado e com dispositivo de fixação que permita a sua exibição permanente, que será obrigatória durante o exercício da actividade.\n\n2 - As licenças apenas podem ser concedidas a maiores de 18 anos."
+  },
+  "a36433e05212cd95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Regras de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regras de actividade\n\n1 - A actividade de arrumador é licenciada para as zonas indicadas para o efeito pela autarquia local.\n\n2 - Na área atribuída a cada arrumador, que constará da licença e do cartão de identificação do respectivo titular, deverá este zelar pela integridade das viaturas estacionadas e alertar as autoridades em caso de ocorrência que a ponha em risco.\n\n3 - É expressamente proibido solicitar qualquer pagamento como contrapartida pela actividade, apenas podendo ser aceites as contribuições voluntárias com que os automobilistas, espontaneamente, desejem gratificar o arrumador.\n\n4 - É também proibido ao arrumador importunar os automobilistas, designadamente oferecendo artigos para venda ou procedendo à prestação de serviços não solicitados, como a lavagem dos automóveis estacionados."
+  },
+  "554311d2bdea4e2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Normas subsidiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Normas subsidiárias\n\nÀ actividade de arrumador de automóveis são ainda aplicáveis, com as necessárias adaptações, as regras previstas para a actividade dos vendedores ambulantes de lotaria."
+  },
+  "f8b091a8542a5187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Acampamentos ocasionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Acampamentos ocasionais"
+  },
+  "c646562c7426446e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licença\n\n1 - A realização de acampamentos ocasionais fora dos locais adequados à prática do campismo e caravanismo fica sujeita à obtenção de licença gratuita emitida pelo governador civil, devendo ser requerida pelo responsável do acampamento e dependendo a sua concessão da autorização expressa do proprietário do prédio.\n\n2 - A realização de qualquer acampamento ocasional fica sujeita à emissão de parecer favorável das seguintes entidades:\n\na) Delegado de saúde;\n\nb) Câmara municipal;\n\nc) Comandante da PSP ou da GNR, consoante os casos.\n\n3 - A licença é concedida por um período de tempo determinado, nunca superior ao período de tempo autorizado expressamente pelo proprietário do prédio, podendo ser revogada a qualquer momento, quando ocorram situações de alteração da ordem e tranquilidade públicas."
+  },
+  "3a42b2b63ec4e6bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Exploração de máquinas de diversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Exploração de máquinas de diversão"
+  },
+  "5789146f56965f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Âmbito\n\n1 - Para efeitos da presente secção, consideram-se máquinas de diversão:\n\na) Aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador, sendo permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida;\n\nb) Aquelas que, tendo as características definidas na alínea anterior, permitem a preensão de objectos cujo valor económico não exceda três vezes a importância despendida pelo utilizador.\n\n2 - As máquinas que, não pagando directamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte são reguladas pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, e diplomas regulamentares."
+  },
+  "af68a889295e1f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registo\n\n1 - Nenhuma máquina submetida ao regime desta secção pode ser posta em exploração sem que se encontre registada e licenciada nos termos do artigo 20.º\n\n2 - O registo é requerido pelo proprietário da máquina ao governador civil do distrito onde se encontra ou em que se presume irá ser colocada em exploração.\n\n3 - O requerimento do registo é formulado, em relação a cada máquina, através de impresso próprio.\n\n4 - O registo é titulado por documento próprio, assinado e autenticado, que acompanhará obrigatoriamente a máquina a que respeitar.\n\n5 - As alterações de propriedade da máquina obrigam o adquirente a efectuar o averbamento respectivo, a requerer com base no título de registo e em documentação de venda ou cedência, com assinatura do transmitente reconhecida pelos meios consentidos por lei."
+  },
+  "2345c79cd970d517": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Instrução do pedido de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instrução do pedido de registo\n\nO requerimento para o registo de cada máquina é instruído com os seguintes documentos:\n\n1) Máquinas importadas:\n\na) Documento comprovativo da apresentação da declaração de rendimentos do requerente, respeitante ao ano anterior, ou de que não está sujeito ao cumprimento dessa obrigação, em conformidade com o Código do Imposto sobre o Rendimento das Pessoas Singulares ou com o Código do Imposto sobre o Rendimento das Pessoas Colectivas, conforme o caso;\n\nb) Documento comprovativo de que o adquirente é sujeito passivo do imposto sobre o valor acrescentado;\n\nc) No caso de importação de países exteriores à União Europeia, cópia autenticada dos documentos que fazem parte integrante do despacho de importação, contendo dados identificativos da máquina que se pretende registar, com indicação das referências relativas ao mesmo despacho e BRI respectivo;\n\nd) Factura ou documento equivalente, emitida de acordo com os requisitos previstos no Código do Imposto sobre o Valor Acrescentado;\n\ne) Documento emitido pela Inspecção-Geral de Jogos comprovativo de que o jogo que a máquina possa desenvolver está abrangido pela disciplina da presente subsecção.\n\n2) Máquinas produzidas ou montadas no País:\n\na) Os documentos referidos nas alíneas a), b) e e) do número anterior;\n\nb) Factura ou documento equivalente que contenha os elementos identificativos da máquina, nomeadamente número de fábrica, modelo e fabricante."
+  },
+  "bb22b8c195048158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Temas dos jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Temas dos jogos\n\n1 - A importação, fabrico, montagem e venda de máquinas de diversão obrigam à classificação dos respectivos temas de jogo.\n\n2 - A classificação dos temas de jogo é requerida pelo interessado à Inspecção-Geral de Jogos, devendo o requerimento ser acompanhando da memória descritiva do respectivo jogo em duplicado.\n\n3 - A Inspecção-Geral de Jogos pode solicitar aos interessados a apresentação de outros elementos que considere necessários para apreciação do requerimento ou fazer depender a sua classificação de exame directo à máquina.\n\n4 - O documento que classifica os temas de jogo e a cópia autenticada da memória descritiva do jogo devem acompanhar a máquina respectiva.\n\n5 - O proprietário de qualquer máquina pode substituir o tema ou temas de jogo autorizados por qualquer outro, desde que previamente classificado pela Inspecção-Geral de Jogos.\n\n6 - O documento que classifica o novo tema de jogo autorizado e a respectiva memória descritiva devem acompanhar a máquina de diversão.\n\n7 - A substituição referida no n.º 5 deve ser precedida de comunicação ao governo civil respectivo."
+  },
+  "f43a0e2bab80bf48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Licença de exploração\n\n1 - A máquina só pode ser posta em exploração desde que disponha da correspondente licença de exploração emitida pelo governador civil do distrito onde se encontra colocada e seja acompanhada desse documento.\n\n2 - A licença de exploração é requerida por períodos anuais ou semestrais pelo proprietário da máquina, devendo o pedido ser instruído com os seguintes documentos:\n\na) Título de registo da máquina, que será devolvido;\n\nb) Documento comprovativo do pagamento do imposto sobre o rendimento respeitante ao ano anterior;\n\nc) Documento comprovativo do pagamento dos encargos devidos a instituições de segurança social;\n\nd) Licença de recinto, emitida pela Direcção-Geral dos Espectáculos, quando devida.\n\n3 - O governador civil pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.\n\n4 - A transferência de máquinas para outro distrito deve ser comunicada pelo governo civil respectivo àquele onde a máquina se encontrava em exploração.\n\n5 - A transferência de máquinas de diversão, dentro do distrito, para local diferente do constante da licença de exploração deve ser precedida de comunicação ao governo civil respectivo."
+  },
+  "ba230af9a4706673": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Condições de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condições de exploração\n\n1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento, quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.\n\n2 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a prática de jogos lícitos com máquinas de diversão, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n3 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas, nas condições do n.º 2 do artigo 162.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro."
+  },
+  "679335d9dc5f3916": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condicionamentos\n\n1 - A prática de jogos em máquinas reguladas pela presente secção é interdita a menores de 16 anos, salvo quando, tendo mais de 12 anos, sejam acompanhados por quem exerce o poder paternal.\n\n2 - É obrigatória a afixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registo;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Tema de jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica."
+  },
+  "43b91c9296e4ec8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Taxas\n\n1 - O deferimento dos actos requeridos nos termos da presente secção obriga ao pagamento das taxas fixadas por portaria conjunta dos Ministros da Administração Interna e do Comércio e Turismo, as quais revertem:\n\na) Em 40% para a Inspecção-Geral de Jogos;\n\nb) Em 60% para o governo civil do distrito onde a máquina está ou se presume que venha a estar em exploração, sem prejuízo do disposto no número seguinte.\n\n2 - Das taxas cobradas pela concessão de licenças de exploração, 5% constituem receita dos Serviços Sociais da GNR e 5% constituem receita dos Serviços Sociais da PSP."
+  },
+  "2d3f6fbbbf1a4509": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidade contra-ordenacional\n\n1 - Para efeitos da presente secção consideram-se responsáveis, relativamente às contra-ordenações verificadas:\n\na) O proprietário da máquina, nos casos punidos pelas alíneas a) e d) do n.º 1 do artigo 46.º;\n\nb) O proprietário ou explorador do estabelecimento, nas demais situações.\n\n2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas em exploração, considera-se responsável pelas contra-ordenações o proprietário ou explorador do estabelecimento onde as mesmas se encontrem."
+  },
+  "a35a0ccfedd9a2a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fiscalização\n\nA fiscalização da observância do disposto na presente secção, bem como a instrução dos respectivos processos contra-ordenacionais, compete às autoridades policiais, sendo a Inspecção-Geral de Jogos o serviço técnico consultivo e pericial dos governadores civis e daquelas autoridades nesta matéria."
+  },
+  "affd6b0e2a04a120": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Modelos\n\nOs impressos próprios referidos na presente secção são aprovados por portaria do Ministro da Administração Interna."
+  },
+  "1e8ad909691183af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Realização de espectáculos de natureza desportiva e de divertimentos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Realização de espectáculos de natureza desportiva e de divertimentos públicos"
+  },
+  "bcf884a05bbf0c92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Festividades e outros divertimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Festividades e outros divertimentos\n\n1 - Os arraiais, romarias, bailes, provas desportivas e outros divertimentos públicos organizados nas vias, jardins e demais lugares públicos ao ar livre dependem de licença do governador civil, salvo quando tais actividades decorram em recintos já licenciados pela Direcção-Geral dos Espectáculos ou pela câmara municipal para a realização de espectáculos e divertimentos públicos.\n\n2 - As festas promovidas por entidades oficiais, civis ou militares não carecem da licença prevista no número anterior, mas das mesmas deve ser feita uma participação prévia ao governador civil."
+  },
+  "467ebe6eb9ad81f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Espectáculos e actividades ruidosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Espectáculos e actividades ruidosas\n\n1 - As bandas de música, grupos filarmónicos, tunas e outros agrupamentos musicais não podem actuar nas vias e demais lugares públicos dos aglomerados urbanos desde as 0 horas até às 9 horas, salvo quando tal seja autorizado nos termos do artigo 30.º\n\n2 - O funcionamento de emissores, amplificadores e outros aparelhos sonoros que projectem sons para as vias e demais lugares públicos, incluindo sinais horários, só poderá ocorrer entre as 9 e as 22 horas e mediante a autorização referida no artigo 30.º\n\n3 - O funcionamento a que se refere o número anterior, e sem prejuízo do disposto nos respectivos regulamentos camarários, fica sujeito às seguintes restrições:\n\na) Só pode ser consentido por ocasião de festas tradicionais, espectáculos ao ar livre ou em outros casos análogos devidamente justificados;\n\nb) São proibidas as emissões desproporcionalmente ruidosas, atenta a audiência efectiva ou previsível, e aquelas que sejam susceptíveis de ofender a moral pública."
+  },
+  "7ee5031e9235efc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Tramitação\n\n1 - As licenças devem ser requeridas com a antecedência mínima de 15 dias úteis ao governador civil.\n\n2 - Os pedidos são instruídos com os documentos necessários.\n\n3 - A autorização para a realização de provas desportivas na via pública deve ser requerida com antecedência nunca inferior a 30 dias ou 60 dias, conforme se desenrole num ou em mais distritos, e está sujeita ao parecer favorável das entidades legalmente competentes, de acordo com o artigo 4.º do [Decreto-Lei n.º 190/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1994-298975), de 18 de Julho."
+  },
+  "c88b14a4b0c76ed5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Condicionamentos\n\n1 - A realização de festividades, de divertimentos públicos e de espectáculos ruidosos nas vias e demais lugares públicos só pode ser permitida nas proximidades de edifícios de habitação, escolares e hospitalares ou similares, bem como de estabelecimentos hoteleiros e meios complementares de alojamento, desde que, respeitando os limites fixados no regime aplicável ao ruído, se verifique a sua suspensão entre as 22 e as 8 horas, de domingo a quinta-feira, e entre as 24 e as 8 horas, à sexta-feira e ao sábado, bem como nas vésperas dos dias feriados, se outros mais restritivos não resultarem da lei.\n\n2 - Quando circunstâncias excepcionais o justifiquem, pode o governador civil permitir o funcionamento ou o exercício contínuo dos espectáculos ou actividades ruidosas proibidas nesta secção, salvo na proximidade de edifícios hospitalares ou similares.\n\n3 - Das licenças emitidas nos termos da presente secção deve constar a referência ao seu objecto, a fixação dos respectivos limites horários e as demais condições julgadas necessárias para preservar a tranquilidade das populações."
+  },
+  "0196dd3b6f013d0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Festas tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Festas tradicionais\n\n1 - Por ocasião dos festejos tradicionais das localidades pode, excepcionalmente, ser permitido o funcionamento ou o exercício contínuo dos espectáculos ou actividades referidos nos artigos anteriores, salvo nas proximidades de edifícios hospitalares ou similares.\n\n2 - Os espectáculos ou actividades que não estejam licenciados ou se não contenham nos limites da respectiva licença podem ser imediatamente suspensos pela autoridade policial, oficiosamente ou a pedido de qualquer interessado."
+  },
+  "faa75ad77260c7f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Diversões carnavalescas proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Diversões carnavalescas proibidas\n\n1 - Nas diversões carnavalescas é proibido:\n\na) O uso de quaisquer objectos de arremesso susceptíveis de pôr em perigo a integridade física de terceiros;\n\nb) A apresentação da bandeira nacional ou imitação;\n\nc) A utilização de gases, líquidos ou de outros produtos inebriantes, anestesiantes, esternutatórios ou que possam inflamar-se, seja qual for o seu acondicionamento.\n\n2 - A venda ou exposição para venda de produtos de uso proibido pelo número anterior é punida como tentativa de comparticipação na infracção."
+  },
+  "424eebdd655c8198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Agências de venda de bilhetes para espectáculos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Agências de venda de bilhetes para espectáculos públicos"
+  },
+  "fc4fff5e98020a36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Licenciamento\n\n1 - A venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda está sujeita à obtenção de licença a emitir pelo governador civil do distrito.\n\n2 - Para obtenção da licença devem os interessados apresentar requerimento em que indiquem o nome, a idade, o estado civil, a residência, o número de identificação fiscal e a localização da agência ou posto, juntando cópia do bilhete de identidade."
+  },
+  "7bdcc428c9e67c5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Requisitos\n\n1 - As licenças só podem ser concedidas quando a instalação da agência ou posto de venda tenha lugar em estabelecimento privativo, com boas condições de apresentação e de higiene e ao qual o público tenha acesso, ou em secções de estabelecimentos de qualquer ramo de comércio que satisfaçam aqueles requisitos.\n\n2 - Não podem funcionar agências ou postos de venda a menos de 100 m das bilheteiras de qualquer casa ou recinto de espectáculos ou divertimentos públicos.\n\n3 - É obrigatória a afixação nas agências ou postos de venda, em lugar bem visível, das tabelas de preços de cada casa ou recinto cujos bilhetes comercializem, autenticadas com o carimbo das respectivas empresas."
+  },
+  "33b8ff0ebd19e1f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Requerimentos\n\n1 - Os requerimentos das licenças são entregues acompanhados de:\n\na) Certificado do registo criminal, quando se trate do primeiro requerimento e, posteriormente, sempre que for exigido;\n\nb) Documento comprovativo da autorização concedida pelo respectivo proprietário, no caso de a instalação ter lugar em estabelecimento de outro ramo de actividade não pertencente ao requerente.\n\n2 - Tratando-se de pedido de licenciamento a favor de sociedades comerciais, os elementos de identificação mencionados no n.º 2 do artigo 33.º devem respeitar aos titulares da gerência ou administração das mesmas.\n\n3 - A licença para instalar postos de venda só pode ser concedida às agências.\n\n4 - A licença é intransmissível e tem validade anual, não sendo devida qualquer taxa pela respectiva concessão.\n\n5 - A apresentação do requerimento e o seu deferimento obedecem ao disposto no artigo 29.º"
+  },
+  "71c6ae1d4548da92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Proibições\n\nNas agências e postos de venda é proibido:\n\na) Cobrar quantia superior em 10% à do preço de venda ao público dos bilhetes;\n\nb) Cobrar importância superior em 20% à do preço de venda ao público dos bilhetes, no caso de entrega ao domicílio;\n\nc) Fazer propaganda em viva voz em qualquer lugar e, por qualquer meio, dentro de um raio de 100 m em torno das bilheteiras;\n\nd) Recusar a venda de qualquer bilhete em seu poder."
+  },
+  "2bcf4808931b70b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Fogueiras e queimadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Fogueiras e queimadas"
+  },
+  "d27ec05e4538cd9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Fogueiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Fogueiras\n\n1 - É proibido acender fogueiras nas ruas, praças e mais lugares públicos das povoações, bem como a menos de 30 m de quaisquer construções e a menos de 300 m de bosques, matas, lenhas, searas, palhas, depósitos de substâncias susceptíveis de arder e, independentemente da distância, sempre que deva prever-se risco de incêndio.\n\n2 - Pode o governador civil licenciar as tradicionais fogueiras de Natal e dos santos populares, estabelecendo as condições para a sua efectivação e tendo em conta as precauções necessárias à segurança das pessoas e bens.\n\n3 - São permitidos os lumes que os trabalhadores acendam para fazerem os seus cozinhados e se aquecerem, desde que sejam tomadas as convenientes precauções contra a propagação do fogo."
+  },
+  "0fb8f597c96affcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Queimadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Queimadas\n\n1 - É proibido fazer queimadas que de algum modo possam originar danos em quaisquer culturas ou bens pertencentes a outrem.\n\n2 - O governador civil pode autorizar a realização de queimadas, mediante audição prévia dos bombeiros da área, que determinarão as datas e os condicionamentos a observar na sua realização."
+  },
+  "ccce07a62e8b3803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Realização de leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Realização de leilões"
+  },
+  "be5adc5a0daed21f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Licenciamento\n\n1 - A realização de leilões em lugares públicos carece de licença a emitir pelo governador civil.\n\n2 - Para os efeitos previstos no número anterior, são considerados lugares públicos os estabelecimentos comerciais e quaisquer recintos a que o público tenha acesso livre e gratuito.\n\n3 - Estão isentos de licença os leilões realizados directamente pelos serviços da Caixa Geral de Depósitos, dos tribunais e serviços da Administração Pública, em conformidade com a legislação aplicável.\n\n4 - A realização de leilões sem licença será imediatamente suspensa pelas autoridades policiais, sem prejuízo da instauração do processo de contra-ordenação."
+  },
+  "d66b55d317ff4b45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Protecção de pessoas e bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Protecção de pessoas e bens"
+  },
+  "6dfa3ec3e625a39c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Protecção contra quedas em resguardos, coberturas de poços, fossas, fendas e outras irregularidades no solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Protecção contra quedas em resguardos, coberturas de poços, fossas, fendas e outras irregularidades no solo\n\n1 - É obrigatório o resguardo ou a cobertura eficaz de poços, fendas e outras irregularidades existentes em quaisquer terrenos e susceptíveis de originar quedas desastrosas a pessoas e animais.\n\n2 - A obrigação prevista no número anterior mantém-se durante a realização de obras e reparações de poços, fossas, fendas e outras irregularidades, salvo no momento em que, em virtude daqueles trabalhos, seja feita prevenção contra quedas."
+  },
+  "73bf8c7cfa1fe563": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Máquinas e engrenagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Máquinas e engrenagens\n\nÉ igualmente obrigatório o resguardo eficaz dos maquinismos e engrenagens quando colocados à borda de poços, fendas e outras irregularidades no solo ou de fácil acesso."
+  },
+  "9954d95a13e5f88b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Eficácia da cobertura ou resguardo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Eficácia da cobertura ou resguardo\n\n1 - Considera-se cobertura ou resguardo eficaz, para efeitos do presente diploma, qualquer placa que, obstruindo completamente a escavação, ofereça resistência a uma sobrecarga de 100 kg/m2.\n\n2 - O resguardo deve ser constituído pelo levantamento das paredes do poço ou cavidade até à altura mínima de 80 cm de superfície do solo ou por outra construção que, circundando a escavação, obedeça àquele requisito, contanto que, em qualquer caso, suporte uma força de 100 kg.\n\n3 - Se o sistema de escavação exigir na cobertura ou resguardo qualquer abertura, esta será tapada com tampa ou cancela que dê a devida protecção e só permanecerá aberta pelo tempo estritamente indispensável."
+  },
+  "087f9ae89d2aacc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Notificação para execução da cobertura ou resguardo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Notificação para execução da cobertura ou resguardo\n\n1 - Detectada qualquer infracção pela qual se considere responsável aquele que explora ou utiliza, seja a que título for, o prédio onde se encontra o poço, fosso, fenda ou irregularidade no solo, devem as autoridades policiais, independentemente da aplicação da respectiva coima, notificar o responsável para cumprir o disposto na presente secção, fixando o prazo máximo de vinte e quatro horas para a conclusão dos trabalhos de cobertura e resguardo.\n\n2 - O montante da coima estabelecida nos termos da alínea a) do n.º 1 do artigo 45.º é elevado ao triplo sempre que os notificados não executarem as obras no prazo concedido, sendo o responsável notificado para o cumprimento dentro do novo prazo fixado para o efeito, não superior a doze horas."
+  },
+  "f90e06d2446ed274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Propriedades muradas ou vedadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Propriedades muradas ou vedadas\n\nO disposto na presente secção não abrange as propriedades muradas ou eficazmente vedadas."
+  },
+  "7da14c7e4ee92b36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Sanções"
+  },
+  "5d84da827f1d9f2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A violação dos deveres a que se referem as alíneas b), c), d), e) e i) do artigo 5.º, punida com coima de 5000$00 a 30000$00;\n\nb) A violação dos deveres a que se referem as alíneas a), f) e g) do artigo 5.º, punida com coima de 2500$00 a 20000$00;\n\nc) O não cumprimento do disposto na alínea h) do artigo 5.º, punida com coima de 5000$00 a 20000$00;\n\nd) A venda ambulante de lotaria sem licença, punida com coima de 10000$00 a 30000$00;\n\ne) A falta de cumprimento dos deveres de vendedor ambulante de lotaria, punida com coima de 10000$00 a 50000$00;\n\nf) O exercício da actividade de arrumador de automóveis sem licença ou fora do local nela indicado, bem como a falta de cumprimento das regras da actividade, punidos com coima de 10000$00 a 50000$00;\n\ng) A realização de acampamentos ocasionais sem licença, punida com coima de 30000$00 a 100000$00;\n\nh) A realização, sem licença, das actividades referidas no artigo 27.º, punida com coima de 25000$00 a 100000$00;\n\ni) A realização, sem licença, das actividades previstas no artigo 28.º, punida com coima de 30000$00 a 115000$00;\n\nj) A venda de bilhetes para espectáculos públicos sem licença, punida com coima de 20000$00 a 50000$00;\n\nl) A venda de bilhetes por preço superior ao permitido ou fora dos locais autorizados, punida com coima de 10000$00 a 50000$00;\n\nm) A realização, sem licença, das actividades previstas nos artigos 37.º e 38.º, punida com coima de 50000$00 a 200000$00, quando da actividade proibida resulta o perigo de incêndio, e de 10000$00 a 50000$00, nos demais casos;\n\nn) A realização de leilões sem licença, punida com coima de 30000$00 a 100000$00;\n\no) O não cumprimento dos deveres resultantes do capítulo II, punida com coima de 10000$00 a 50000$00.\n\n2 - A coima aplicada nos termos da alínea f) do número anterior pode ser substituída, a requerimento do condenado, pela prestação de trabalho a favor da comunidade, nos termos previstos no regime geral sobre ilícito de mera ordenação social.\n\n3 - A falta de exibição das licenças às entidades fiscalizadoras constitui contra-ordenação punida com coima de 10000$00 a 30000$00, salvo se estiverem temporariamente indisponíveis, por motivo atendível, e vierem a ser apresentadas ou for justificada a impossibilidade de apresentação no prazo de quarenta e oito horas.\n\n4 - A negligência e a tentativa são punidas."
+  },
+  "c433ecb77f0f8c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Máquinas de diversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Máquinas de diversão\n\n1 - As infracções à secção V do capítulo I do presente diploma constituem contra-ordenação punida nos termos seguintes:\n\na) Exploração de máquinas sem registo, com coima de 250000$00 a 500000$00, por cada máquina;\n\nb) Falsificação do título de registo ou do título de licenciamento, com coima de 250000$00 a 500000$00;\n\nc) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título de registo, do título de licenciamento ou dos documentos previstos nos n.os 4 e 6 do artigo 19.º, com coima de 20000$00 a 100000$00 por cada máquina;\n\nd) Desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário, com coima de 20000$00 a 100000$00 por cada máquina;\n\ne) Exploração de máquinas sem que o respectivo tema ou circuito de jogo tenha sido classificado pela Inspecção-Geral de Jogos, com coima de 100000$00 a 250000$00 por cada máquina;\n\nf) Exploração de máquinas sem licença ou com licença de exploração caducada, com coima de 250000$00 a 500000$00 por cada máquina;\n\ng) Exploração de máquinas de diversão em recinto ou estabelecimento diferente daquele para que foram licenciadas ou fora dos locais autorizados, com coima de 50000$00 a 200000$00 por cada máquina;\n\nh) Exploração de máquinas em número superior ao permitido, com coima de 50000$00 a 200000$00 por cada máquina, e acessoriamente, atenta a gravidade e frequência da infracção, apreensão e perda das mesmas a favor do Estado;\n\ni) Falta da comunicação prevista no n.º 5 do artigo 20.º, com coima de 50000$00 a 200000$00 por cada máquina;\n\nj) Utilização de máquinas de diversão por pessoas com idade inferior à estabelecida, com coima de 100000$00 a 500000$00;\n\nl) Falta ou afixação indevida da inscrição ou dístico referido no n.º 2 do artigo 22.º, bem como a omissão de qualquer dos seus elementos, com coima de 50000$00 a 200000$00 por cada máquina.\n\n2 - A negligência e a tentativa são punidas.\n\n3 - O produto das coimas aplicadas nos termos do n.º 1 é distribuído:\n\na) Em 60% para o governo civil;\n\nb) Em 40% para a Inspecção-Geral de Jogos."
+  },
+  "9dc1939542da0ee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Sanções acessórias\n\nNos processos de contra-ordenação podem ser aplicadas as sanções acessórias previstas na lei geral."
+  },
+  "2a1d733b39782ca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Medidas de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Medidas de polícia\n\n1 - O governador civil pode aplicar a medida de polícia de encerramento de salas de dança e estabelecimentos de bebidas, bem como a de redução do seu horário de funcionamento, quando esse funcionamento se revele susceptível de violar a ordem, a segurança ou a tranquilidade públicas.\n\n2 - O despacho que ordenar o encerramento deve conter, para além da sua fundamentação concreta, a indicação dos condicionamentos a satisfazer para que a reabertura seja permitida.\n\n3 - As licenças concedidas nos termos do presente diploma podem ser revogadas a qualquer momento com fundamento na infracção das regras estabelecidas para a respectiva actividade, na inaptidão do seu titular para o respectivo exercício, bem como sempre que tal medida de polícia se justifique para manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.\n\n4 - O governador civil pode delegar no todo ou em parte a competência para aplicar as medidas de polícia previstas nos números anteriores nos comandantes do comando de polícia, de divisão, de secção ou de esquadra da PSP ou de brigada, de grupo, de destacamento territorial ou de posto da GNR."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "7a4efdb76475c164": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Taxas\n\nAs taxas devidas pelas licenças não gratuitas concedidas pelo governador civil são fixadas por portaria do Ministro da Administração Interna."
+  },
+  "aac5fdecf1faaac0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Fiscalização\n\nA fiscalização das disposições do presente diploma compete às autoridades administrativas, à Polícia de Segurança Pública e à Guarda Nacional Republicana."
+  },
+  "f0cb7c8a058d8ae9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado, em anexo ao presente diploma, que dele faz parte integrante, o regime jurídico do licenciamento do exercício das seguintes actividades:\n\na) (Revogada.)\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) Realização de leilões.\n\n> Alterado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "b55d6988958175b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação e extinção",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 1.º — Criação e extinção\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "1645d5b2486b204c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Licença",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 2.º — Licença\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "d57312e6f4f475ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pedido de licenciamento",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 3.º — Pedido de licenciamento\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "cd41e849a471139f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Indeferimento",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 4.º — Indeferimento\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "d0c61221a824326f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Deveres",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 5.º — Deveres\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  },
+  "5e6f57a2750ed20f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+   ],
+   "markdown": "###### Artigo 6.º — Regime\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25."
+  }
+ }
+}

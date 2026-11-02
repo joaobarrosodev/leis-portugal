@@ -1,0 +1,1006 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374995:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cf39149ddd1f6c8a",
+    "35d9cf9d338770e4",
+    "03069793c4d514d5",
+    "51b414fb04b012d0",
+    "0f81030fd7fbf93e",
+    "3ba572c9070ce6a2",
+    "bf6db1c93889e971",
+    "d7744c8467df2a7b",
+    "137e5c8bb1dda6a8",
+    "dd43fc6a2c3fff2e",
+    "d14504708a18e21a",
+    "8e08b9860169b774",
+    "fc8702219fac3e50",
+    "7c845c30662f6a3d",
+    "a09f60b5583346db",
+    "d8df2b8b3cd5c082",
+    "93fea3069319f035",
+    "b6eb21fc5db79bc3",
+    "4ea395852b78ce3c",
+    "390d5dc346c471cd",
+    "46ec28cccab2d4c1",
+    "e3c1a33ecfe9e26e",
+    "b4a24d09e8132b76",
+    "8969d5708d266f24",
+    "993c8f9df57eb492",
+    "0e3b6c9d15ec093d",
+    "8d339ec0f5560d4d",
+    "0cf7ed4eafb38751",
+    "238a37153202ae86",
+    "1aa4a53888fe3ad8",
+    "9a5fe1ea4fa1d708",
+    "2f2d9abca4c5b54a",
+    "89e32f6bbea99b81",
+    "eab93c8a1bc7fb0f",
+    "5b8923c75d6475f0",
+    "9f9ca306e79e5174",
+    "e9ed91d31918c737",
+    "0ee6092e66af2ba3",
+    "c41eaf126198fb98",
+    "61315b4685fbae53",
+    "075b1dc21a9e0d8c",
+    "69089bc8bfd7b036",
+    "b2e483d4dc68cf4a",
+    "173e69e7f6de4180",
+    "2773a87d77179675",
+    "bcf017eb236554fd",
+    "a0ab93b3b7885c03",
+    "a3d4792e8f0f74aa",
+    "567b2330ec3c31b2",
+    "8be4b920ef29afff",
+    "72a7f0d9a4d89e72",
+    "9801c2f03242bbed",
+    "8e4c0d5f4d206dd4",
+    "e1f9f1f2c8dc67ef",
+    "b871d2fe0e000e62",
+    "a0fd5d008d1b1b10",
+    "c3a262054ed0e131",
+    "d3a456428b41752e",
+    "f413398e7bca4b9d",
+    "4da0b6e12f33bfdc",
+    "da6064288e03f36f",
+    "f5075e52f16b4018",
+    "421525d8359c2d5b",
+    "629f4bd9a744a9e2",
+    "d32140a95a90ed80",
+    "048c745fe16badcc",
+    "375c6ebd1a0687a1",
+    "d39ed46b22ca5f7a",
+    "520ed0c277268dd7",
+    "c2292edb2b93e0ea",
+    "52af0f4ce80af1b3",
+    "d0d6ce9606b6db85",
+    "dbf901766195626d",
+    "6f617e769d6fb6fd",
+    "60edec3e9cb44e11",
+    "af7c8491f66127b1",
+    "a5ee66b17b9230e8",
+    "792072f1636f40af",
+    "340afb1fa614084d",
+    "0a00686f2b75ee22",
+    "c8c2939b6c800565",
+    "ebc5f898eb11e77d",
+    "d4c0e06092de17d2",
+    "f4a88afa07ebf128",
+    "fc51c01b9e1fbb71",
+    "cf6c8e443d35fcc3",
+    "96b47dfcff434e93",
+    "0914c836925c4509",
+    "0784e6b5bb7feec5",
+    "923c04bf5e555538",
+    "7793e8d8c597ea03"
+   ]
+  },
+  {
+   "date": "2010-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522812:por",
+     "title": "Decreto-Lei n.º 7/2007",
+     "published": "2007-01-17",
+     "dre_path": "/dr/detalhe/decreto-lei/7-2007-522812"
+    },
+    {
+     "id": "pt:dre:612207:por",
+     "title": "Decreto-Lei n.º 31/2010",
+     "published": "2010-04-09",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2010-612207"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::26.º",
+    "Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::6.º",
+    "Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::13.º",
+    "Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::14.º",
+    "Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::15.º"
+   ],
+   "fragments": [
+    "cf39149ddd1f6c8a",
+    "35d9cf9d338770e4",
+    "03069793c4d514d5",
+    "51b414fb04b012d0",
+    "0f81030fd7fbf93e",
+    "3ba572c9070ce6a2",
+    "bf6db1c93889e971",
+    "d7744c8467df2a7b",
+    "137e5c8bb1dda6a8",
+    "dd43fc6a2c3fff2e",
+    "d14504708a18e21a",
+    "8e08b9860169b774",
+    "fc8702219fac3e50",
+    "7c845c30662f6a3d",
+    "9485e220a2bcf7eb",
+    "d8df2b8b3cd5c082",
+    "93fea3069319f035",
+    "b6eb21fc5db79bc3",
+    "4ea395852b78ce3c",
+    "390d5dc346c471cd",
+    "46ec28cccab2d4c1",
+    "e3c1a33ecfe9e26e",
+    "3e1946b8cb013d76",
+    "d10136fd7520b416",
+    "411103720d621b13",
+    "0e3b6c9d15ec093d",
+    "8d339ec0f5560d4d",
+    "0cf7ed4eafb38751",
+    "238a37153202ae86",
+    "1aa4a53888fe3ad8",
+    "9a5fe1ea4fa1d708",
+    "2f2d9abca4c5b54a",
+    "89e32f6bbea99b81",
+    "eab93c8a1bc7fb0f",
+    "5b8923c75d6475f0",
+    "9f9ca306e79e5174",
+    "e9ed91d31918c737",
+    "0ee6092e66af2ba3",
+    "4f5dcfc477a55e9b",
+    "61315b4685fbae53",
+    "075b1dc21a9e0d8c",
+    "69089bc8bfd7b036",
+    "b2e483d4dc68cf4a",
+    "173e69e7f6de4180",
+    "2773a87d77179675",
+    "bcf017eb236554fd",
+    "a0ab93b3b7885c03",
+    "a3d4792e8f0f74aa",
+    "567b2330ec3c31b2",
+    "8be4b920ef29afff",
+    "72a7f0d9a4d89e72",
+    "9801c2f03242bbed",
+    "8e4c0d5f4d206dd4",
+    "e1f9f1f2c8dc67ef",
+    "b871d2fe0e000e62",
+    "a0fd5d008d1b1b10",
+    "c3a262054ed0e131",
+    "d3a456428b41752e",
+    "f413398e7bca4b9d",
+    "4da0b6e12f33bfdc",
+    "da6064288e03f36f",
+    "f5075e52f16b4018",
+    "421525d8359c2d5b",
+    "629f4bd9a744a9e2",
+    "d32140a95a90ed80",
+    "048c745fe16badcc",
+    "375c6ebd1a0687a1",
+    "d39ed46b22ca5f7a",
+    "520ed0c277268dd7",
+    "c2292edb2b93e0ea",
+    "52af0f4ce80af1b3",
+    "d0d6ce9606b6db85",
+    "dbf901766195626d",
+    "6f617e769d6fb6fd",
+    "60edec3e9cb44e11",
+    "af7c8491f66127b1",
+    "a5ee66b17b9230e8",
+    "792072f1636f40af",
+    "340afb1fa614084d",
+    "0a00686f2b75ee22",
+    "c8c2939b6c800565",
+    "ebc5f898eb11e77d",
+    "d4c0e06092de17d2",
+    "f4a88afa07ebf128",
+    "fc51c01b9e1fbb71",
+    "cf6c8e443d35fcc3",
+    "96b47dfcff434e93",
+    "0914c836925c4509",
+    "0784e6b5bb7feec5",
+    "923c04bf5e555538",
+    "7793e8d8c597ea03"
+   ]
+  }
+ ],
+ "fragments": {
+  "cf39149ddd1f6c8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Julho\n\nO quadro legal dos Serviços Sociais da Guarda Nacional Republicana, adiante designados por SSGNR, está, ainda, essencialmente definido no [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 30 de Dezembro de 1959, que se encontra naturalmente desajustado das realidades sociais resultantes da evolução entretanto operada, designadamente, no âmbito da acção social complementar.\n\nPor outro lado, os beneficiários dos Serviços Sociais da extinta Guarda Fiscal foram, por força do artigo 42.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, integrados nos SSGNR, pelo que o acréscimo de dimensão daí resultante justifica uma revisão profunda do correspondente Estatuto.\n\nTorna-se, pois, necessário e imperioso dotar os SSGNR de uma regulamentação estatutária mais eficaz e adequada às necessidades de apoio social aos militares e funcionários da Guarda e respectivos familiares, nos vários sectores em que se desenvolvem essas actividades.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "35d9cf9d338770e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Estatuto dos Serviços Sociais da Guarda Nacional Republicana, publicado em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "03069793c4d514d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão salvaguardados os direitos adquiridos na vigência da lei anterior."
+  },
+  "51b414fb04b012d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 22 de Junho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Junho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "0f81030fd7fbf93e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana"
+  },
+  "3ba572c9070ce6a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, objecto e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, objecto e atribuições"
+  },
+  "bf6db1c93889e971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nOs Serviços Sociais da Guarda Nacional Republicana, doravante designados por SSGNR, constituem uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira."
+  },
+  "d7744c8467df2a7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nOs SSGNR têm por objecto contribuir para a melhoria do nível de vida dos respectivos beneficiários, assegurando-lhes o acesso a um leque diversificado de prestações no âmbito da protecção social."
+  },
+  "137e5c8bb1dda6a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Constituem atribuições dos SSGNR:\n\na) A realização de estudos conducentes à definição e permanente adequação da política de acção social complementar e a elaboração dos instrumentos regulamentares que estatutariamente sejam da sua competência;\n\nb) A resolução de carências decorrentes quer das situações específicas de serviço, quer de ordem pessoal e familiar dos beneficiários abrangidos.\n\n2 - No exercício das suas atribuições, os SSGNR actuam designadamente nas seguintes áreas:\n\na) Fornecimento de refeições e serviço de cafetaria/bar;\n\nb) Apoio a crianças, jovens, idosos e deficientes;\n\nc) Apoio nas despesas respeitantes ao ensino;\n\nd) Apoio sócio-económico em situações socialmente gravosas e urgentes;\n\ne) Apoio na eventualidade de doença, através de auxílio nas despesas com a saúde, em complementaridade com as comparticipações da assistência na doença aos militares da Guarda;\n\nf) Apoio a actividades de animação sócio-cultural;\n\ng) Apoio a actividades de ocupação de tempos livres;\n\nh) Apoio a acções de promoção e vigilância do estado de saúde dos beneficiários, de iniciativa médica;\n\ni) Apoio na resolução de problemas de habitação, designadamente na sua aquisição, reparação e beneficiação.\n\n3 - As modalidades de protecção social desenvolvidas nessas áreas pelos SSGNR são as descritas no capítulo VII do presente Estatuto."
+  },
+  "dd43fc6a2c3fff2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — órgãos e serviços"
+  },
+  "d14504708a18e21a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Órgãos"
+  },
+  "8e08b9860169b774": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos dos SSGNR:\n\na) O conselho de direcção;\n\nb) O conselho consultivo;\n\nc) A comissão de fiscalização."
+  },
+  "fc8702219fac3e50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de direcção"
+  },
+  "7c845c30662f6a3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza\n\nO conselho de direcção é o órgão responsável pela definição, orientação e execução das linhas gerais de actuação dos SSGNR."
+  },
+  "a09f60b5583346db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência\n\n1 - Compete ao conselho de direcção, no âmbito da orientação e gestão dos serviços:\n\na) Dirigir a actividade dos SSGNR;\n\nb) Identificar as necessidades a satisfazer;\n\nc) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações a desenvolver;\n\nd) Elaborar e apresentar à aprovação do Ministro da Administração Interna o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;\n\ne) Elaborar e submeter à aprovação do Ministro da Administração Interna o relatório de actividades;\n\nf) Assegurar a gestão do pessoal dos SSGNR;\n\ng) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;\n\nh) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.\n\n2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:\n\na) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;\n\nb) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;\n\nc) Promover a elaboração da conta de gerência."
+  },
+  "d8df2b8b3cd5c082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição\n\n1 - O conselho de direcção é composto por um presidente, um vice-presidente e dois vogais.\n\n2 - O presidente é, por inerência, o comandante-geral da Guarda Nacional Republicana.\n\n3 - O vice-presidente é um coronel do QP/GNR nomeado pelo Ministro da Administração Interna, sob proposta do comandante-geral da GNR.\n\n4 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente.\n\n5 - Os vogais são os chefes das repartições administrativa e financeira e de prestações sociais."
+  },
+  "93fea3069319f035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - O conselho de direcção reúne mensalmente e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação de dois dos seus membros.\n\n2 - As deliberações são tomadas por maioria dos votos dos presentes, tendo o presidente voto de qualidade.\n\n3 - Das reuniões será lavrada acta, a qual deverá ser aprovada e assinada por todos os membros presentes."
+  },
+  "b6eb21fc5db79bc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do presidente\n\n1 - Compete, em especial, ao presidente do conselho de direcção:\n\na) Presidir às reuniões do conselho de direcção e orientar os seus trabalhos;\n\nb) Representar os SSGNR em juízo e fora dele;\n\nc) Apresentar a despacho os assuntos que careçam de decisão superior;\n\nd) Exercer as demais competências que lhe sejam delegadas.\n\n2 - O presidente pode delegar as suas competências no vice-presidente."
+  },
+  "4ea395852b78ce3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do vice-presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do vice-presidente\n\nCompete ao vice-presidente do conselho de direcção:\n\na) Praticar os actos de gestão corrente que lhe sejam delegados pelo conselho de direcção;\n\nb) Exercer as competências que lhe forem delegadas ou subdelegadas pelo presidente."
+  },
+  "390d5dc346c471cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Responsabilidade dos membros do conselho de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Responsabilidade dos membros do conselho de direcção\n\n1 - Os membros do conselho de direcção são solidariamente responsáveis pelas faltas ou irregularidades cometidas no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração que será anexada à respectiva acta, bem como os membros ausentes, desde que, expressamente, venham a declarar por escrito o seu desacordo, que igualmente será anexado à acta."
+  },
+  "46ec28cccab2d4c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho consultivo"
+  },
+  "e3c1a33ecfe9e26e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza\n\nO conselho consultivo é o órgão de apoio ao conselho de direcção na definição das linhas gerais de actuação dos SSGNR."
+  },
+  "b4a24d09e8132b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\nCompete ao conselho consultivo:\n\na) Emitir parecer sobre o plano de actividades, bem como sobre o relatório de actividades;\n\nb) Pronunciar-se sobre o relatório e conta de gerência e sobre o relatório anual da comissão de fiscalização;\n\nc) Apreciar e dar parecer sobre o orçamento;\n\nd) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;\n\ne) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR."
+  },
+  "8969d5708d266f24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - O conselho consultivo é composto pelos membros do conselho de direcção e por representações dos oficiais, sargentos e praças de cada uma das unidades da Guarda Nacional Republicana, tal como são definidas na respectiva lei orgânica, e presidido pelo militar mais graduado ou antigo dos seus membros.\n\n2 - Cada representação é composta por um oficial, um sargento e uma praça do quadro da Guarda Nacional Republicana no activo, eleitos pelos beneficiários titulares militares, dos SSGNR, adstritos a cada delegação.\n\n3 - A eleição é feita por categorias hierárquicas para mandatos de três anos e é organizada pelas delegações em conformidade com o regulamento a aprovar para o efeito pelo conselho de direcção dos SSGNR.\n\n4 - Em cada delegação, os militares mais votados em cada uma das categorias hierárquicas são designados representantes titulares das respectivas categorias, sendo os que lhes sigam na votação designados suplentes.\n\n5 - Os representantes executam o mandato em regime de acumulação com as funções que exercem nas respectivas unidades, sendo substituídos pelos respectivos suplentes sempre que se verifiquem casos de indisponibilidade.\n\n6 - O exercício dos cargos do conselho consultivo não é remunerado."
+  },
+  "993c8f9df57eb492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O conselho consultivo reúne ordinariamente duas vezes por ano, em dias a designar, durante a 1.ª quinzena dos meses de Maio e Outubro e extraordinariamente sempre que convocado a pedido de um terço dos seus membros ou a solicitação do conselho de direcção.\n\n2 - A convocação, bem como a agenda de cada reunião, é enviada aos membros com uma antecedência mínima de 15 dias.\n\n3 - As deliberações são tomadas por maioria dos votos dos membros presentes, tendo o militar que preside voto de qualidade.\n\n4 - As reuniões do conselho consultivo são secretariadas pelo membro para o efeito designado pelo respectivo presidente.\n\n5 - Podem participar nas reuniões, sem direito a voto, por convocação do respectivo presidente, quaisquer pessoas ou entidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação.\n\n6 - De todas as reuniões será lavrada acta."
+  },
+  "0e3b6c9d15ec093d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Comissão de fiscalização"
+  },
+  "8d339ec0f5560d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza\n\nA comissão de fiscalização é o órgão responsável pela fiscalização da legalidade da gestão financeira e patrimonial dos SSGNR e de consulta do conselho de direcção nesse domínio."
+  },
+  "0cf7ed4eafb38751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\n1 - Compete à comissão de fiscalização:\n\na) Emitir parecer sobre os projectos de orçamento e sobre as revisões e alterações do mesmo;\n\nb) Acompanhar a execução orçamental e analisar a contabilidade dos SSGNR;\n\nc) Emitir parecer sobre o relatório e conta de gerência;\n\nd) Manter o conselho de direcção informado sobre os resultados das verificações e exames a que proceda;\n\ne) Elaborar o relatório anual da sua acção fiscalizadora;\n\nf) Emitir parecer sobre a aceitação de doações, heranças ou legados, bem como sobre os assuntos que lhe sejam submetidos pelo conselho de direcção.\n\n2 - Os prazos para elaboração dos pareceres a se referem as alíneas a) e c) do número precedente são, respectivamente, de 10 e 15 dias úteis a contar da recepção dos documentos a que respeitam."
+  },
+  "238a37153202ae86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Composição\n\n1 - A comissão de fiscalização é composta por um presidente e dois vogais, nomeados por despacho conjunto dos Ministros das Finanças e da Administração Interna.\n\n2 - Um dos vogais da comissão de fiscalização será nomeado de entre revisores oficiais de contas.\n\n3 - Sem prejuízo do regime em vigor sobre acumulações e incompatibilidades, os membros da comissão de fiscalização têm direito a uma remuneração mensal fixada por despacho conjunto dos Ministros das Finanças e da Administração Interna."
+  },
+  "1aa4a53888fe3ad8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, extraordinariamente sempre que for convocada pelo seu presidente, por iniciativa própria ou a solicitação de qualquer vogal e ainda a pedido do conselho de direcção.\n\n2 - As deliberações são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - Para a comissão de fiscalização deliberar validamente é necessária a presença da maioria dos membros em exercício.\n\n4 - A comissão de fiscalização tem livre acesso a todos os serviços e documentação dos SSGNR, devendo, porém, para o efeito requisitar a presença dos respectivos responsáveis, a quem poderá solicitar os esclarecimentos que considere necessários.\n\n5 - A comissão de fiscalização é secretariada por funcionário dos SSGNR, designado pelo conselho de direcção dos mesmos serviços, e apoiado logisticamente pela Secretaria-Geral.\n\n6 - Das respectivas reuniões é lavrada acta, a qual deve ser aprovada e assinada por todos os membros presentes."
+  },
+  "9a5fe1ea4fa1d708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estrutura dos SSGNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estrutura dos SSGNR"
+  },
+  "2f2d9abca4c5b54a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Serviços\n\nA estrutura dos SSGNR engloba os seguintes serviços:\n\na) A Repartição de Prestações Sociais;\n\nb) A Repartição Administrativa e Financeira;\n\nc) O Gabinete Técnico;\n\nd) A Secretaria-Geral;\n\ne) As delegações."
+  },
+  "89e32f6bbea99b81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Repartição de Prestações Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Repartição de Prestações Sociais\n\n1 - A Repartição de Prestações Sociais é o serviço responsável pelo estudo das medidas conducentes à melhoria do apoio social prestado pelos SSGNR e pelo desenvolvimento das acções necessárias ao acesso dos beneficiários às diversas prestações sociais complementares.\n\n2 - A Repartição de Prestações Sociais integra as seguintes secções:\n\na) Secção de Prestações não Pecuniárias (1.ª Secção), à qual compete desenvolver acções com vista ao acesso dos beneficiários às prestações sociais de natureza não pecuniária, designadamente nas áreas da habitação social, acção cultural, turismo social, lazer e apoio à infância, aos estudantes e idosos;\n\nb) Secção de Prestações Pecuniárias (2.ª Secção), à qual compete desenvolver as acções necessárias ao controlo do acesso dos beneficiários às prestações sociais de natureza pecuniária, designadamente subsídios e prémios e respectivo processamento;\n\nc) Secção do Cofre de Previdência e Mutualidade (3.ª Secção), à qual compete desenvolver as acções necessárias ao controlo e gestão do cofre de previdência e das actividades de mutualidade.\n\n3 - As secções a que alude o número precedente devem apresentar propostas de actualização permanente das normas pelas quais se rege a atribuição das prestações e actividades referentes à respectiva área de intervenção."
+  },
+  "eab93c8a1bc7fb0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Repartição Administrativa e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Repartição Administrativa e Financeira\n\n1 - A Repartição Administrativa e Financeira é o serviço de apoio técnico-administrativo ao qual incumbe promover e assegurar a eficácia das acções inerentes à gestão e administração dos recursos humanos, financeiros e patrimoniais dos SSGNR.\n\n2 - A Repartição Administrativa e Financeira integra:\n\na) A Secção de Contabilidade e Orçamento, à qual compete para além do controlo da Tesouraria as operações gerais de contabilidade, gestão orçamental e administração financeira dos bares, cantinas, refeitórios, lares, residenciais, parques de campismo, postos de socorros e dos respectivos depósitos de bens consumíveis, bem como de quaisquer actividades comerciais exercidas nas instalações dos SSGNR;\n\nb) A Secção de Aprovisionamento, Logística e Património, à qual compete proceder às operações de aprovisionamento, no cumprimento das disposições legais aplicáveis, dar apoio logístico aos demais serviços e manter actualizados os cadastros do património mobiliário e imobiliário dos SSGNR;\n\nc) A Secção de Recursos Humanos e de Beneficiários, à qual compete manter actualizado o cadastro do pessoal em serviço nos SSGNR e dos beneficiários;\n\nd) A Tesouraria, à qual compete as operações de tesouraria depois de devidamente autorizadas pela Secção de Contabilidade e Orçamento;\n\ne) A Secção de Expediente e Arquivo, à qual compete assegurar as tarefas gerais de expediente e arquivo da Repartição."
+  },
+  "5b8923c75d6475f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Gabinete Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Gabinete Técnico\n\n1 - O Gabinete Técnico é o serviço de assessoria e execução técnica, ao qual compete elaborar estudos, pareceres, relatórios e propostas e dirigir a execução dos projectos respeitantes às áreas de intervenção dos respectivos serviços.\n\n2 - Integram o Gabinete Técnico:\n\na) O Serviço de Planeamento de Gestão, ao qual incumbe elaborar os estudos e planos financeiros, bem como acompanhar a execução orçamental;\n\nb) O Serviço Jurídico, ao qual compete assegurar o apoio jurídico e acompanhar o contencioso em que os SSGNR sejam parte e a execução das operações de cadastro do património imobiliário;\n\nc) O Serviço de Informática, ao qual compete fazer o planeamento e gestão dos meios informáticos, garantir a respectiva assistência e elaborar os programas e projectos informáticos adequados às necessidades dos SSGNR;\n\nd) O Serviço de Assistência Social, ao qual compete o estudo das medidas conducentes à melhoria do apoio social prestado pelos SSGNR, estudar e analisar os casos concretos e, em conexão com a Repartição de Prestações Sociais, propor a tomada das medidas consideradas adequadas;\n\ne) O Serviço de Obras, ao qual incumbe a assessoria nas áreas do planeamento e adequação do património imobiliário aos seus fins e, bem assim, dirigir os respectivos trabalhos de execução;\n\nf) O Serviço Oficinal, ao qual compete executar as obras e reparações no património imobiliário dos SSGNR;\n\ng) O Serviço de Expediente e Arquivo, ao qual compete assegurar as tarefas gerais de expediente e arquivo do Gabinete Técnico."
+  },
+  "9f9ca306e79e5174": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Secretaria-Geral\n\nÀ Secretaria-Geral competem as tarefas de recepção e encaminhamento de todo o expediente, apoio geral e arquivo."
+  },
+  "e9ed91d31918c737": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Delegações\n\n1 - As delegações são extensões dos SSGNR junto das unidades da Guarda Nacional Republicana, tal como são definidas na respectiva lei orgânica.\n\n2 - Cada delegação é dirigida por um presidente, que é, por inerência de funções, o comandante da unidade a que a mesma está adstrita, sendo as delegações das brigadas territoriais providas de um adjunto que exerce funções em regime de exclusividade.\n\n3 - Ao presidente da delegação compete assegurar a gestão do pessoal da respectiva unidade empenhado nas tarefas da delegação e assegurar-lhe o respectivo apoio logístico.\n\n4 - Os beneficiários dos SSGNR estão adstritos à delegação da unidade em que estejam colocados, através da qual se processam as suas relações com os SSGNR."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "c41eaf126198fb98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Quadros de pessoal\n\n1 - Os SSGNR dispõem do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os quadros de pessoal militar dos SSGNR, a preencher por pessoal destacado da GNR, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna."
+  },
+  "61315b4685fbae53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime de pessoal\n\n1 - As necessidades inerentes ao funcionamento dos SSGNR são asseguradas pelo pessoal dos respectivos quadros de pessoal.\n\n2 - O provimento dos lugares do quadro a que alude o n.º 1 do artigo 26.º faz-se nos termos do regime geral da função pública.\n\n3 - O restante pessoal a recrutar para o exercício de actividades nos equipamentos sociais fica sujeito ao regime de contrato individual de trabalho."
+  },
+  "075b1dc21a9e0d8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Titularidade dos cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Titularidade dos cargos\n\n1 - Aos cargos de direcção e chefia das diversas unidades orgânicas que integram a estrutura dos SSGNR correspondem as seguintes patentes:\n\na) Aos chefes de repartição, a de tenente-coronel, sendo o chefe da Repartição Administrativa e Financeira, do quadro da administração militar;\n\nb) Ao chefe do Gabinete Técnico e aos chefes de secção, a de major ou de capitão;\n\nc) Ao chefe da Secretaria-Geral e ao tesoureiro, a de sargento-chefe ou de oficial subalterno.\n\n2 - As funções de chefia dos diversos serviços integrantes do Gabinete Técnico são exercidos por técnicos militares ou por pessoal técnico superior ou técnico, de harmonia com a área de actividade de cada um daqueles serviços."
+  },
+  "69089bc8bfd7b036": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Gestão económico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Gestão económico-financeira"
+  },
+  "b2e483d4dc68cf4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Instrumentos de gestão económico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Instrumentos de gestão económico-financeira\n\n1 - Constituem instrumentos de gestão económico-financeira:\n\na) O plano anual de actividades;\n\nb) O orçamento anual;\n\nc) O relatório e a conta de gerência.\n\n2 - O orçamento a que alude a alínea b) do número anterior deve ser elaborado de acordo com o esquema de classificação económica das receitas e despesas públicas.\n\n3 - A conta de gerência será submetida a julgamento do Tribunal de Contas.\n\n4 - Independentemente do disposto no n.º 1, poderão, sempre que necessário, ser elaborados planos plurianuais de actividades e de meios financeiros."
+  },
+  "173e69e7f6de4180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Património dos SSGNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Património dos SSGNR\n\nOs bens móveis e imóveis, direitos, quotizações e recursos de qualquer origem pertencentes aos SSGNR constituem património afecto à prossecução dos objectivos estabelecidos no presente Estatuto."
+  },
+  "2773a87d77179675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Receitas\n\nConstituem receitas dos SSGNR:\n\na) O produto das quotizações e outras importâncias pagas pelos beneficiários;\n\nb) Os subsídios e comparticipações de entidades públicas e privadas;\n\nc) Os produtos de doações, heranças e legados;\n\nd) As dotações atribuídas através do Orçamento do Estado;\n\ne) As importâncias cobradas pelos serviços que prestam;\n\nf) As importâncias correspondentes ao desconto percentual a favor dos SSGNR, a fixar por despacho do Ministro da Administração Interna, sob proposta do comandante-geral da GNR, sobre as receitas cobradas pelos serviços remunerados executados pela GNR;\n\ng) O produto de alienação de bens móveis e imóveis;\n\nh) O rendimento de capitais próprios;\n\ni) Os saldos das contas de gerência verificados em cada ano económico e que transitam para as contas dos anos económicos seguintes;\n\nj) Quaisquer outras receitas previstas por lei."
+  },
+  "bcf017eb236554fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Despesas\n\n1 - Constituem despesas dos SSGNR as que resultem de encargos e responsabilidades decorrentes da prossecução das respectivas atribuições.\n\n2 - A realização de despesas decorre da execução do orçamento e dos planos de actividade aprovados superiormente, sem prejuízo da observância das leis e regulamentos aplicáveis.\n\n3 - Em matéria de autorizações de despesas, a direcção terá a competência atribuída na lei aos responsáveis dos serviços dotados de autonomia administrativa e financeira e a que lhe for atribuída por delegação do Ministro da Administração Interna."
+  },
+  "a0ab93b3b7885c03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Organização da contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Organização da contabilidade\n\n1 - A contabilidade dos SSGNR deve adequar-se às necessidades da respectiva gestão, permitindo um controlo orçamental permanente e, bem assim, a determinação de resultados por actividade.\n\n2 - De acordo com o estabelecido no número anterior, os SSGNR aplicarão o Plano Oficial de Contabilidade (POC) em vigor para as empresas, adaptado às suas realidades específicas e complementado pela contabilidade analítica, a fim de se proceder ao apuramento de resultados por actividades.\n\n3 - O sistema de contabilidade centrado no POC deve ser articulado com as classificações adoptadas no Orçamento do Estado e respectiva Conta, por classificações paralelas e simultâneas."
+  },
+  "a3d4792e8f0f74aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Documentos de prestação de contas\n\nOs SSGNR devem elaborar anualmente, com referência a 31 de Dezembro do ano anterior, os seguintes documentos de prestação de contas:\n\na) Relatório de actividades e conta de gerência;\n\nb) Conta de fluxos de tesouraria;\n\nc) Balanço analítico;\n\nd) Demonstração de resultados líquidos;\n\ne) Anexos ao balanço e à demonstração de resultados."
+  },
+  "567b2330ec3c31b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Isenções\n\n1 - Os SSGNR beneficiarão do regime de isenção de custas em todos os processos em que forem parte ou interessados, bem como de quaisquer emolumentos ou taxas e, ainda, das isenções de contribuições e impostos previstas na lei.\n\n2 - A isenção emolumentar prevista no número anterior não abrange os emolumentos pessoais, nem as importâncias correspondentes devidas aos notários, conservadores e oficiais do registo e do notariado, pela sua intervenção nos actos."
+  },
+  "8be4b920ef29afff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Beneficiários"
+  },
+  "72a7f0d9a4d89e72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Categorias de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Categorias de beneficiários"
+  },
+  "9801c2f03242bbed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Categorias de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Categorias de beneficiários\n\nOs beneficiários dos SSGNR incluem-se numa das seguintes categorias:\n\na) Beneficiários titulares;\n\nb) Beneficiários extraordinários;\n\nc) Beneficiários familiares."
+  },
+  "8e4c0d5f4d206dd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Beneficiários titulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Beneficiários titulares\n\n1 - A categoria do beneficiário titular adquire-se:\n\na) Por imposição legal;\n\nb) Por subscrição voluntária.\n\n2 - São beneficiários titulares por imposição legal:\n\na) Os oficiais, sargentos e praças do quadro da Guarda Nacional Republicana nas situações de activo, reserva e reforma, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 41.º, bem como os candidatos àquele quadro durante os respectivos cursos de formação;\n\nb) Pessoal civil dos quadros, quer da Guarda Nacional Republicana, quer dos SSGNR, no activo ou na aposentação, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 41.º\n\n3 - São beneficiários titulares, por subscrição voluntária:\n\na) Os cônjuges sobrevivos dos beneficiários titulares falecidos, enquanto não contraírem novo casamento e desde que requeiram manter-se como beneficiários, no prazo de seis meses contados da data da morte daqueles;\n\nb) Os menores filhos dos beneficiários que fiquem órfãos de ambos os progenitores, até à maioridade, desde que o requeiram pelo respectivo representante legal, no prazo de seis meses contado da data da morte do último dos progenitores."
+  },
+  "e1f9f1f2c8dc67ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Beneficiários extraordinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Beneficiários extraordinários\n\n1 - São beneficiários extraordinários os oficiais dos quadros permanentes das Forças Armadas que prestam serviço na Guarda Nacional Republicana.\n\n2 - Os beneficiários extraordinários não gozam das regalias contempladas nas actividades sociais a que se referem as alíneas a), b), e), f) e g) do n.º 1 do artigo 44.º deste Estatuto.\n\n3 - Os beneficiários extraordinários previstos no n.º 1 perdem a titularidade quando deixarem de prestar serviço na Guarda Nacional Republicana, salvo se naquela data requererem e lhes venha a ser deferida a manutenção dessa qualidade."
+  },
+  "b871d2fe0e000e62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Beneficiários familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Beneficiários familiares\n\n1 - São beneficiários familiares dos SSGNR:\n\na) Os cônjuges dos beneficiários titulares, bem como as pessoas que vivam com os beneficiários titulares não casados, em situação análoga à dos cônjuges, há mais de dois anos;\n\nb) Os filhos menores, quer dos beneficiários titulares, quer dos respectivos cônjuges que coabitem com os mesmos;\n\nc) Os filhos maiores e os ascendentes dos beneficiários titulares a seu exclusivo cargo ou por quem possa, nos termos da legislação em vigor, ser conferido direito a abono de família, pensão de preço de sangue, pensão de sobrevivência, subsídio mensal vitalício, pensão social de invalidez ou assistência na doença pela assistência na doença dos militares da Guarda;\n\nd) Os filhos maiores dos beneficiários titulares enquanto estudantes, até à conclusão de curso superior, desde que solteiros e vivendo a exclusivo cargo dos beneficiários titulares;\n\ne) Os menores, órfãos de pai e mãe, netos dos beneficiários titulares, ou cuja representação legal recaia sobre qualquer beneficiário titular, desde que o requeiram por representante legal, no prazo de dois anos contados da data da morte do último dos progenitores sobrevivo.\n\n2 - Os beneficiários previstos nas alíneas a) a d) do número anterior perdem aquela qualidade na data em que, nos termos do artigo 41.º, o beneficiário titular perca essa titularidade.\n\n3 - Não será deferida a constituição de beneficiários nos termos da alínea e) do n.º 1 do presente artigo, caso o beneficiário titular tenha, antes do falecimento, perdido aquela titularidade, nos termos do artigo 41.º"
+  },
+  "a0fd5d008d1b1b10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Aquisição e perda da qualidade de beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Aquisição e perda da qualidade de beneficiário"
+  },
+  "c3a262054ed0e131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Aquisição da qualidade de beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Aquisição da qualidade de beneficiário\n\n1 - O momento da admissão como beneficiário titular ou extraordinário é, para todos os efeitos consignados no presente Estatuto, a data de admissão na Guarda Nacional Republicana ou nos SSGNR, quer se trate de militar ou funcionário civil, sem prejuízo do disposto no n.º 2 do artigo 62.º\n\n2 - Nos casos de subscrição voluntária, a data é fixada no despacho que deferir o requerimento de admissão.\n\n3 - Os beneficiários familiares têm como data de admissão a que for reconhecida aos respectivos beneficiários titulares, ainda que a manutenção da situação de beneficiário esteja dependente do deferimento do requerimento."
+  },
+  "d3a456428b41752e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Perda da condição de beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Perda da condição de beneficiário\n\n1 - Perdem a titularidade de beneficiários:\n\na) Os beneficiários a que se refere o n.º 2 do artigo 37.º, na data em que deixem de prestar serviço na Guarda Nacional Republicana ou nos SSGNR, dispensado a seu pedido ou compulsivamente;\n\nb) Os beneficiários familiares a que se refere o n.º 1 do artigo 39.º, logo que deixem de estar reunidos os pressupostos em que assente o direito de ser beneficiário;\n\nc) Os candidatos ao ingresso no quadro permanente da GNR que não terminem, por qualquer motivo, os respectivos cursos de formação, na data em que se verifique a exclusão;\n\nd) Os beneficiários titulares na reforma, que o requeiram, não podendo posteriormente ser readmitidos;\n\ne) Os beneficiários titulares por subscrição voluntária, logo que o requeiram, não podendo posteriormente ser readmitidos.\n\n2 - Os requerimentos a que se referem as alíneas d) e e) do número anterior devem ser feitos em impresso normalizado de modelo a aprovar pelo conselho de direcção, dele constando a declaração do conhecimento de que a exclusão é irreversível, e só sendo deferidos se forem assinados pelo beneficiário titular e pelos beneficiários a que se refere a alínea a) do n.º 1 do artigo 39.º"
+  },
+  "f413398e7bca4b9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Quotização e cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Quotização e cartão de identificação"
+  },
+  "4da0b6e12f33bfdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Quotização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Quotização\n\n1 - Os beneficiários titulares e extraordinários obrigam-se ao pagamento de uma quota mensal a fixar por despacho do Ministro da Administração Interna, sob proposta do conselho de direcção dos SSGNR, com base numa percentagem do vencimento mensal ou da pensão, gratificações e demais remunerações.\n\n2 - Os beneficiários familiares não estão sujeitos a quotização.\n\n3 - Os beneficiários que tenham vencimentos ou pensões processadas pelos competentes serviços da Guarda Nacional Republicana terão as quotizações deduzidas no boletim de vencimento, as quais serão enviadas pelo serviço processador à Tesouraria dos SSGNR.\n\n4 - Todos os demais beneficiários estão vinculados à obrigação de pagar as quotizações na data do seu vencimento, ficando, em caso de não cumprimento, suspensos quanto à titularidade da sua posição, o que acarreta a suspensão imediata de todo o tipo de prestações atribuídas pelo SSGNR.\n\n5 - Os beneficiários que devam liquidar as quotizações directamente nos SSGNR ou nas suas delegações e que deixem de o fazer só podem requerer a sua readmissão, sem prejuízo do disposto no n.º 4, se procederem ao pagamento das quotas em atraso e se estas não excederem seis meses."
+  },
+  "da6064288e03f36f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Cartão de identificação\n\n1 - Será conferido aos beneficiários titulares que não sejam militares ou funcionários civis no activo e aos beneficiários extraordinários que já não prestem serviço na Guarda Nacional Republicana um cartão de identificação de modelo a aprovar pelo conselho de direcção dos SSGNR.\n\n2 - Enquanto não for implementada a emissão do cartão de identificação, considera-se para todos os efeitos o cartão de beneficiário da assistência na doença aos militares da Guarda durante o respectivo prazo de validade como substituto daquele."
+  },
+  "f5075e52f16b4018": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Protecção social desenvolvida pelos SSGNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Protecção social desenvolvida pelos SSGNR"
+  },
+  "421525d8359c2d5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Acções de protecção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Acções de protecção social"
+  },
+  "629f4bd9a744a9e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Modalidades\n\n1 - Os SSGNR desenvolvem as seguintes modalidades de protecção social:\n\na) Esquemas sociais complementares;\n\nb) Acção social;\n\nc) Acção cultural;\n\nd) Fomento do desporto e recreio;\n\ne) Mutualidade;\n\nf) Fomento e apoio da habitação;\n\ng) Outras actividades que tenham natureza de apoio e acção social.\n\n2 - As normas referentes às actividades a que aludem as alíneas a), b), e) e f) do número precedente são aprovadas pelo Ministro da Administração Interna, sob proposta do conselho de direcção dos SSGNR.\n\n3 - O Cofre de Previdência dos Militares da GNR pode, sem prejuízo do disposto no artigo 45.º e nos limites estabelecidos pelo respectivo plano anual, afectar fundos às actividades a que aludem as alíneas e) e f) do n.º 1"
+  },
+  "d32140a95a90ed80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Esquemas sociais complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Esquemas sociais complementares"
+  },
+  "048c745fe16badcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Objecto\n\nOs esquemas sociais complementares previstos no presente diploma visam fundamentalmente assegurar uma prestação pecuniária única a pagar de uma só vez, por morte do beneficiário, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos da lei civil e do respectivo regulamento, sendo exercida pelo Cofre de Previdência dos Militares da GNR, integrado na Repartição de Prestações Sociais."
+  },
+  "375c6ebd1a0687a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Acção social"
+  },
+  "d39ed46b22ca5f7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Modalidades\n\nA acção social a prestar pelos SSGNR desenvolver-se-á nomeadamente nas modalidades seguintes:\n\na) Assistência sanitária;\n\nb) Assistência materno-infantil;\n\nc) Assistência escolar;\n\nd) Assistência na invalidez, desamparo e velhice;\n\ne) Assistência a órfãos;\n\nf) Assistência à habitação."
+  },
+  "520ed0c277268dd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Assistência sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Assistência sanitária\n\nA assistência sanitária é prestada através de participação total ou parcial no remanescente das despesas com a saúde, suportadas pelo Estado através da assistência na doença aos militares da Guarda."
+  },
+  "c2292edb2b93e0ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Assistência materno-infantil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Assistência materno-infantil\n\nA assistência materno-infantil é prestada durante a gestação, nascimento e primeira infância, através de prestações pecuniárias que participem total ou parcialmente nas despesas inerentes, não cobertas totalmente pela assistência na doença aos militares da Guarda ou pelas prestações complementares do Estado, nomeadamente para aquisição de enxoval, alimentos, pagamentos de serviços de creches e jardins infantis."
+  },
+  "52af0f4ce80af1b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Assistência escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Assistência escolar\n\nA assistência escolar é materializada em prestações que visam quer a participação total ou parcial nas despesas com o internamento em lares académicos, pertençam ou não aos SSGNR, quer a participação nos custos inerentes à frequência da escolaridade obrigatória, ensino secundário e cursos superiores, designadamente os resultantes da aquisição de livros, material escolar e despesas com transportes."
+  },
+  "d0d6ce9606b6db85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Assistência na invalidez, desamparo e velhice",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Assistência na invalidez, desamparo e velhice\n\n1 - A assistência na invalidez, desamparo e velhice materializa-se no apoio a viúvas e filhos órfãos, na situação de desamparo, e aos beneficiários que requeiram cuidados especiais, através da participação total ou parcial nas despesas de recolhimento ou internamento em orfanatos, casas de repouso e lares de terceira idade, quer sejam próprios dos SSGNR ou não.\n\n2 - Esta modalidade de assistência pode também materializar-se através da participação em despesas com a reabilitação de deficientes."
+  },
+  "dbf901766195626d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Assistência a órfãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Assistência a órfãos\n\nAos órfãos de ambos os progenitores que hajam adquirido a qualidade de beneficiários familiares dos SSGNR é assegurada, enquanto estudantes e até à maioridade, ou sendo maiores, até à conclusão de curso superior, um subsídio especial cujo montante e condições constam das respectivas normas de atribuição."
+  },
+  "6f617e769d6fb6fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Assistência à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Assistência à habitação\n\nAos beneficiários que não disponham de casa arrendada aos SSGNR ou ao Estado pode ser atribuído, se o requererem, um subsídio mensal destinado a comparticipar parcialmente as rendas efectivamente pagas ou as amortizações de mútuos obtidos para compra de habitação própria, em instituições privadas, se aquelas forem susceptíveis de afectar gravemente o orçamento do agregado familiar."
+  },
+  "60edec3e9cb44e11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Acção cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Acção cultural"
+  },
+  "af7c8491f66127b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Acção cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Acção cultural\n\n1 - A acção cultural dos SSGNR propiciará aos seus beneficiários a aquisição de meios e instrumentos de desenvolvimento cultural.\n\n2 - Esta acção materializa-se pela constituição de bibliotecas, patrocínio de publicações e promoção de espectáculos de teatro, cinema e outros.\n\n3 - Podem os SSGNR, para os fins visados no número anterior, promover a instalação de meios audiovisuais de comunicação social e afins nas salas de convívio e outros locais adequados.\n\n4 - Podem igualmente os SSGNR, no âmbito desta actividade cultural, fomentar e patrocinar visitas de estudo e a constituição de grupos cénicos, corais e ou musicais."
+  },
+  "a5ee66b17b9230e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Fomento do desporto e recreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Fomento do desporto e recreio"
+  },
+  "792072f1636f40af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Fomento do desporto e recreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Fomento do desporto e recreio\n\n1 - O fomento das actividades desportivas materializa-se na constituição e manutenção de instalações desportivas e na organização ou apoio de competições.\n\n2 - O fomento de recreio, convívio e repouso é materializado quer pela constituição e manutenção de parques de campismo e casas de veraneio ou repouso, quer pela organização e patrocínio de excursões.\n\n3 - Podem os SSGNR estabelecer acordos com outras entidades, públicas ou privadas, que visem a prossecução destas actividades."
+  },
+  "340afb1fa614084d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Mutualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Mutualidade"
+  },
+  "0a00686f2b75ee22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Contratos de mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Contratos de mútuo\n\n1 - Os SSGNR podem conceder empréstimos de emergência.\n\n2 - Os SSGNR podem também conceder empréstimos extraordinários quando as condições financeiras dos beneficiários, afectados por eventos de carácter excepcional, o justifiquem.\n\n3 - Os SSGNR podem conceder empréstimos para habitação, destinados a financiar, designadamente:\n\na) Encargos com compromissos assumidos na aquisição ou construção de habitação própria, incluindo despesas com escrituras, registos e impostos;\n\nb) Encargos resultantes de trabalhos de conservação e beneficiação em habitação, propriedade dos beneficiários;\n\nc) Encargos resultantes de compromissos assumidos em assembleias de condóminos e relacionados com obras de beneficiação das partes comuns dos prédios em que se integrem as fracções propriedade dos beneficiários.\n\n4 - Estes empréstimos são remunerados e garantidos por um seguro de risco, cujas taxas, prestações e demais condições constam do respectivo regulamento.\n\n5 - No plano anual e em conformidade com as disponibilidades orçamentais, o conselho de direcção fixará os montantes afectados a cada uma destas categorias de empréstimo."
+  },
+  "c8c2939b6c800565": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Fomento e apoio à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Fomento e apoio à habitação"
+  },
+  "ebc5f898eb11e77d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Fomento e apoio à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Fomento e apoio à habitação\n\n1 - Os SSGNR podem promover, no quadro das formalidades legais vigentes, a aquisição e construção de casas económicas, destinadas a serem arrendadas ou adquiridas pelos beneficiários mediante regulamentação própria.\n\n2 - Poderão os SSGNR utilizar os mecanismos legais de fomento de habitação em vigor para aquisição de habitação para os seus beneficiários."
+  },
+  "d4c0e06092de17d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Relações dos beneficiários com os SSGNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Relações dos beneficiários com os SSGNR"
+  },
+  "f4a88afa07ebf128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Princípios\n\nAs relações dos beneficiários com os SSGNR devem pautar-se pela correcção, verdade e boa fé."
+  },
+  "fc51c01b9e1fbb71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Não acumulação de benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Não acumulação de benefícios\n\nÉ interdita a acumulação de subsídios ou prestações atribuídos pelos SSGNR com outros de igual natureza e pelos mesmos motivos, prestados ou a prestar por outras instituições afins."
+  },
+  "cf6c8e443d35fcc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Sanções\n\n1 - Os ilícitos detectados nos processos, designadamente as falsas declarações, falsificações ou adulteração de documentos, são sancionados nos termos da lei e constituem infracção disciplinar.\n\n2 - A ocorrência destes ilícitos será participada às entidades a quem couber a iniciativa processual respectiva."
+  },
+  "96b47dfcff434e93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Reclamações\n\n1 - Das decisões do conselho de direcção dos SSGNR cabe reclamação nos 15 dias subsequentes ao da sua notificação aos interessados.\n\n2 - Das decisões proferidas sobre reclamações cabe recurso contencioso nos 45 dias subsequentes ao da sua notificação aos interessados."
+  },
+  "0914c836925c4509": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições finais e transitórias"
+  },
+  "0784e6b5bb7feec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Legislação subsidiária\n\nAplica-se subsidiariamente aos SSGNR a lei quadro do sistema de acção social complementar, aprovada pelo [Decreto-Lei n.º 194/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1991-631203), de 25 de Maio, e alterada pelo [Decreto-Lei n.º 212/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1996-168055), de 20 de Novembro."
+  },
+  "923c04bf5e555538": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Transição de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Transição de beneficiários\n\n1 - Os beneficiários dos extintos serviços sociais da Guarda Fiscal que foram incorporados na Guarda Nacional Republicana adquiriram o estatuto de beneficiários dos SSGNR na data em que se operou a transição, com salvaguarda da respectiva antiguidade.\n\n2 - Nos termos do artigo 43.º do [Decreto-Lei n.º 230/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1993-267036), de 26 de Junho, aos beneficiários dos extintos Serviços Sociais da Guarda Fiscal que tenham optado pela integração no Serviço de Estrangeiros e Fronteiras ou na Direcção-Geral dos Serviços Prisionais é preservada a sua condição de beneficiários, agora dos SSGNR, desde que o requeiram nos 90 dias subsequentes ao da publicação deste Estatuto, procedendo à liquidação nos termos do artigo 42.º das respectivas quotas, que incidirão sobre o vencimento mensal, gratificações e demais remunerações efectivamente recebidas pelos serviços prestados nos organismos onde foram integrados.\n\n3 - Aos subscritores dos extintos Serviços Sociais da Guarda Fiscal, previstos no número anterior, que por imposição legal ou voluntariamente se constituíram ou se constituam beneficiários de outros serviços sociais ou instituições afins não é conferido o direito previsto no número anterior."
+  },
+  "7793e8d8c597ea03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Eleição dos representantes dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Eleição dos representantes dos beneficiários\n\nA primeira eleição dos representantes dos beneficiários dos SSGNR no conselho consultivo a que aludem os artigos 12.º a 15.º deste diploma será feita no prazo de 60 dias contado da data da entrada em vigor do presente Estatuto.\n\nMAPA ANEXO\n\nQuadro de pessoal técnico dos Serviços Sociais da GNR\n\n(a que se refere o artigo 26.º, n.º 1)\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/07/157a00/42384248.pdf)"
+  },
+  "9485e220a2bcf7eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": "2010-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+   ],
+   "markdown": "###### Artigo 6.º — Competência\n\n1 - Compete ao conselho de direcção, no âmbito da orientação e gestão dos serviços:\n\na) Dirigir a actividade dos SSGNR;\n\nb) Identificar as necessidades a satisfazer;\n\nc) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações a desenvolver;\n\nd) Elaborar e apresentar à aprovação do Ministro da Administração Interna o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;\n\ne) Elaborar e submeter à aprovação do Ministro da Administração Interna o relatório de actividades;\n\nf) Assegurar a gestão do pessoal dos SSGNR;\n\ng) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;\n\nh) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.\n\ni) Aprovar o regulamento de eleição dos membros do conselho consultivo previsto no artigo 14.º\n\n2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:\n\na) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;\n\nb) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;\n\nc) Promover a elaboração da conta de gerência.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+  },
+  "3e1946b8cb013d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": "2010-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+   ],
+   "markdown": "###### Artigo 13.º — Competência\n\nCompete ao conselho consultivo:\n\na) Pronunciar-se sobre o plano de actividades, o relatório de actividades, o orçamento e a conta de gerência;\n\nb) Pronunciar-se sobre o relatório anual da comissão de fiscalização;\n\nc) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;\n\nd) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR.\n\ne) Aprovar o seu regimento.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+  },
+  "d10136fd7520b416": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": "2010-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+   ],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - Integram o conselho consultivo:\n\na) Os membros do conselho de direcção;\n\nb) Sete representantes eleitos de cada uma das categorias profissionais dos militares da Guarda Nacional Republicana, no activo;\n\nc) Dois representantes eleitos de entre os funcionários civis beneficiários dos serviços sociais, no activo, sendo um representante da carreira de guarda-florestal e outro dos restantes civis do mapa geral de pessoal aprovado;\n\nd) Um representante de cada uma das associações profissionais de militares da Guarda Nacional Republicana, legalmente constituídas.\n\n2 - A eleição dos membros do conselho consultivo referidos nas alíneas b) e c) do número anterior processa-se nos termos do regulamento aprovado pelo conselho de direcção.\n\n3 - O regulamento referido no número anterior:\n\na) Define os requisitos relativos à capacidade eleitoral;\n\nb) Consagra a eleição de suplentes que substituem os membros efectivos nas suas faltas e impedimentos.\n\n4 - Os membros do conselho consultivo referidos nas alíneas b) e c) do n.º 1 são eleitos para um mandato de três anos desempenhado em regime de acumulação com as funções que exercem nos locais onde prestam serviço.\n\n5 - O conselho consultivo é presidido pelo militar mais graduado ou mais antigo de entre os seus membros.\n\n6 - A participação no conselho consultivo não é remunerada.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+  },
+  "411103720d621b13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": "2010-05-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+   ],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O conselho consultivo reúne ordinariamente para se pronunciar sobre o plano de actividades, o relatório de actividades, o orçamento, a conta de gerência e o relatório da comissão de fiscalização.\n\n2 - O conselho consultivo reúne extraordinariamente sempre que convocado pelo respectivo presidente, por iniciativa do conselho de direcção ou a pedido de pelo menos um terço dos seus membros.\n\n3 - A convocatória das reuniões é feita com uma antecedência de 15 dias e é instruída com a respectiva ordem de trabalhos.\n\n4 - O secretário é designado, para cada reunião, pelo presidente.\n\n5 - Podem participar nas reuniões, sem direito de voto, quaisquer pessoas ou entidades cuja presença seja considerada necessária para o esclarecimento dos assuntos em apreciação e que para tanto sejam convocadas pelo presidente.\n\n> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09."
+  },
+  "4f5dcfc477a55e9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Quadros de pessoal",
+   "in_force_from": "2010-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2007-522812), publicado em 2007-01-17."
+   ],
+   "markdown": "###### Artigo 26.º — Quadros de pessoal\n\n1 - Os SSGNR dispõem do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os quadros de pessoal militar dos Serviços Sociais da GNR são preenchidos, transitoriamente, por pessoal requisitado à GNR, obedecendo a critérios de racionalização de efectivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2007-522812), publicado em 2007-01-17."
+  }
+ }
+}

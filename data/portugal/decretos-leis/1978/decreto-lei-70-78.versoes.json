@@ -1,0 +1,389 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:656378:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9775ab341591e37e"
+   ]
+  },
+  {
+   "date": "1986-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:392010:por",
+     "title": "Decreto-Lei n.º 213/82",
+     "published": "1982-05-29",
+     "dre_path": "/dr/detalhe/decreto-lei/213-1982-392010"
+    },
+    {
+     "id": "pt:dre:352316:por",
+     "title": "Decreto-Lei n.º 415-A/86",
+     "published": "1986-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/415-a-1986-352316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "9734903968b13c51",
+    "2f3633a226d08b9a",
+    "f036800a3a15b4ba",
+    "261b470765f3f0f7",
+    "ddc5bd1b0bdcd4a7",
+    "e980da35dd9d81bc",
+    "23ab387c84ed5780",
+    "af77146c4e44de30",
+    "8278cd93ef204bca",
+    "4f4acc55d2604414",
+    "49e6ac4ec9c49844",
+    "8c1f67b90edf1d98",
+    "7780a1b7caa01ff0",
+    "316a0702749e392d",
+    "555bb55cbadc685b",
+    "6ba6ec4ee6fd0066",
+    "e51d22403fb5d95f",
+    "7305d180c417cd59",
+    "777acd6994f8107c",
+    "bec4af89e98442c7",
+    "0efc2c4b719821ef",
+    "05234ada5cd08925",
+    "3961c28d934dfc43",
+    "3f5ffcef6477e319",
+    "a9bfe8518f1bef98",
+    "4751fc3e205f2b50",
+    "608f96fe3fd7ac20",
+    "4fedfd32909615bb",
+    "6d06e7215181f663",
+    "96f477ac68e34b50",
+    "8900bb9e727c26c3",
+    "90f49923e9b82cc6",
+    "9840e7c4018ccbeb",
+    "686a650a4b7357da",
+    "ce8a49cac27b99b7",
+    "f08e7d27b11ef56b",
+    "54a7f7328bed8035"
+   ]
+  }
+ ],
+ "fragments": {
+  "9775ab341591e37e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Abril\n\nUsando da autorização conferida pela [Lei n.º 17/78](https://diariodarepublica.pt/dr/detalhe/lei/17-1978-409707), de 28 de Março, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nI\n\nDos cereais\n\nArtigo 1.º - 1 - A Empresa Pública de Abastecimento de Cereais (EPAC) adquirirá em exclusivo todo o trigo de produção nacional e, em regime de intervenção, as quantidades de quaisquer outros cereais de produção nacional que lhe sejam entregues, para aquisição, pelos produtores.\n\n2 - Por despacho dos Ministros da Agricultura e Pescas e do Comércio e Turismo serão estabelecidos:\n\na) Os preços de compra e venda pela EPAC do trigo de produção nacional e os preços de venda do trigo importado que se não destine a fins especiais ou a ser transformado para exportação;\n\nb) Os preços mínimos de compra, as margens da sua variação e os preços de venda dos restantes cereais de produção nacional;\n\nc) Os preços de venda dos restantes cereais importados, quando não destinados a fins especiais ou a transformação para exportação;\n\nd) Os preços e condições de aquisição e de venda à lavoura de sementes seleccionadas de cereais e sementes forrageiras.\n\nArt. 2.º - 1 - Os preços de venda dos cereais destinados a fins especiais ou a transformação para exportação serão negociados pela EPAC com a indústria utilizadora em função dos preços de custo reais, mediante autorização prévia dos Ministros da Agricultura e Pescas e do Comércio e Turismo.\n\n2 - Relativamente aos cereais de produção nacional adquiridos em regime de concorrência, poderá a EPAC praticar preços de compra superiores aos preços mínimos de garantia, dentro das margens de variação definidas nos termos da alínea b) do n.º 2 do artigo anterior.\n\nArt. 3.º - 1 - O Ministro da Agricultura e Pescas fica autorizado a actualizar, por despacho, as regras a aplicar na depreciação e valorização dos trigos e, bem assim, uniformizar os métodos de determinação do peso do hectolitro, sob proposta da EPAC, depois de ouvidos os representantes da produção e das indústrias utilizadoras.\n\n2 - Os trigos de produção nacional que em determinada colheita vierem a revelar-se com características ou defeitos que possam prejudicar a qualidade das farinhas para consumo humano poderão ser destinados à alimentação animal ou a qualquer outra utilização, nos termos e nas condições a fixar por despacho do Ministro da Agricultura e Pescas, mediante proposta da EPAC.\n\nArt. 4.º - 1 - Os produtores de trigo, cevada vulgar e aveia ficam obrigados a manifestar na EPAC o cereal utilizado na sementeira e o produzido.\n\n2 - A EPAC avisará os interessados, em tempo útil, do prazo limite para entrega dos manifestos referidos no número anterior, bem como das datas de abertura e encerramento dos seus silos, celeiros e armazéns.\n\nArt. 5.º Os trigos manifestados para consumo das casas agrícolas só podem ser trocados por farinhas nas fábricas de moagem e seus depósitos.\n\nArt. 6.º As regras a observar na distribuição de cereais às indústrias transformadoras serão definidas pela EPAC, ouvidos os respectivos utilizadores, e submetidas ao acordo prévio do Ministro da Agricultura e Pescas.\n\nII\n\nDas farinhas\n\nArt. 7.º - 1 - As farinhas espoadas de trigo e sêmolas do mesmo cereal, a produzir pela respectiva indústria, terão as seguintes características como limites máximos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00140018.pdf)\n\n2 - As farinhas e as sêmolas deverão ter um mínimo de 7% e 8% de glúten seco, respectivamente.\n\n3 - Em qualquer das farinhas e sêmolas, o resíduo insolúvel no ácido clorídrico não pode exceder 0,02%.\n\n4 - A acidez é expressa em ácido sulfúrico e determinada no extracto alcoólico.\n\n5 - Nos limites indicados admite-se uma tolerância analítica de 0,05% em relação aos teores de humidade e cinza e 0,005% em relação ao teores de acidez.\n\n6 - Na indústria de confeitaria e pastelaria poderá ser utilizada a farinha de 1.ª qualidade referida na alínea a).\n\n7 - A farinha de 2.ª qualidade só pode ser vendida à indústria de panificação, destinando-se exclusivamente ao fabrico de pão de 2.ª qualidade.\n\n8 - As farinhas de consumo corrente (M(índice 2)) só podem ser vendidas à indústria de massas alimentícias e utilizadas exclusivamente no fabrico de massas alimentícias de consumo corrente.\n\nArt. 8.º Os preços máximos por tonelada das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:\n\nFarinha de 1.ª qualidade - 8310$00.\n\nFarinha de 2.ª qualidade - 7998$60.\n\nArt. 9.º - 1 - As farinhas deverão ser obrigatoriamente acompanhadas por guia de remessa ou factura, identificando o vendedor e o comprador e as quantidades fornecidas.\n\n2 - A farinha de trigo espoada destinada ao consumo humana não pode ser entregue pelas moagens produtoras antes de dez dias após o seu fabrico.\n\nArt. 10.º As moagens poderão beneficiar, conforme as condições a estabelecer em despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo, de um subsídio por quilograma de sêmolas (M(índice 1)) e de farinha (M(índice 2)) destinada ao fabrico de massas alimentícias, respectivamente de qualidade superior e de consumo corrente, entregues a esta indústria.\n\nArt. 11.º Ficam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\na) Fixar ou alterar os preços e características das farinhas, sêmolas e seus subprodutos;\n\nb) Estabelecer os requisitos e características a que devem obedecer as embalagens das farinhas e sêmolas, sem prejuízo do preceituado no [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e disposições complementares.\n\nIII\n\nDo pão e produtos afins\n\nArt. 12.º - 1 - O pão de 1.ª qualidade é fabricado com farinha de 1.ª qualidade\n\n2 - O pão de 1.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:\n\nDe 50 g - $90 (18$00 por quilograma);\n\nDe 250 g - 4$50 (18$00 por quilograma;\n\nDe 500 g - 8$40 (16$80 por quilograma);\n\nMúltiplos de 500 g - ao preço correspondente a 16$80 por quilograma.\n\n3 - Os preços indicados no número anterior referem-se à venda nos locais mencionados no artigo 1.º do Regulamento do Comércio do Pão, aprovado pelo [Decreto-Lei n.º 302/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807), de 14 de Agosto, com exclusão da alínea c).\n\n4 - Ficam livres os preços de venda de pão fabricado em unidades de 30 g e de pão de forma.\n\nArt. 13.º - 1 - O pão de 2.ª qualidade é fabricado com farinha de 2.ª qualidade.\n\n2 - O pão de 2.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:\n\nDe 500 g - 6$60 (13$20 por quilograma);\n\nMúltiplos de 500 g - ao preço correspondente a 13$20 por quilograma.\n\n3 - Aplica-se ao pão de 2.ª qualidade o disposto no n.º 3 do artigo anterior.\n\nArt. 14.º - 1 - O pão de mistura é fabricado com farinhas espoadas de 1.ª qualidade, de centeio e de milho, ou apenas duas destas.\n\n2 - Nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.\n\nArt. 15.º - 1 - O pão de farinha de trigo em rama e o pão de mistura só podem ser fabricados em unidades de 100 g, 400 g e múltiplos de 400 g e serão vendidos, respectivamente, aos preços máximos correspondentes a 14$00 e 17$00 por quilograma.\n\n2 - Aplica-se a estes tipos de pão o disposto no n.º 3 do artigo 12.º\n\nArt. 16.º Na venda ao domicílio poderão acrescer aos preços máximos fixados nos artigos 12.º e 13.º as seguintes importâncias:\n\nI - Pão de 1.ª qualidade:\n\na) Por cada unidade de 50 g ... $15\n\nb) Por cada unidade de 250 g ... $40\n\nc) Por cada unidade de 500 g ... $60\n\nd) Múltiplos de 500 g ... $60\n\nII - Pão de 2.ª qualidade:\n\na) Por cada unidade de 500 g ... $40\n\nb) Múltiplos de 500 g ... $60\n\nArt. 17.º São livres os preços de venda de pão de milho, pão de centeio, pão alvo regional, pão enriquecido e dietético, tosta e outros produtos afins do pão.\n\nArt. 18.º Por portaria dos Ministros da Agricultura e Pescas e do Comércio e Turismo serão fixadas as tolerâncias de peso no fabrico de pão e regulada a forma da respectiva verificação.\n\nArt. 19.º Ficam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\n1) Alterar, fixar ou libertar os preços do pão e dos produtos afins;\n\n2) Alterar ou fixar os pesos e formatos dos diversos tipos de pão e produtos afins;\n\n3) Alterar as margens permitidas na venda de pão ao domicílio.\n\nArt. 20.º - 1 - Os tipos de pão referidos no n.º 2 dos artigos 12.º e 13.º e no n.º 1 do artigo 15.º deverão ter, por peso nominal de cada unidade expresso em gramas (M), o correspondente resíduo seco total mínimo a seguir indicado:\n\na) No pão de 1.ª qualidade e no de mistura - 0,70 M para valores de M iguais ou inferiores a 333 g e 0,67 M para valores de M superiores a 333 g;\n\nb) No pão de 2.ª qualidade e no de farinha de trigo em rama - 0,67 M para valores de M iguais ou inferiores a 333 g e 0,62 M para valores de M superiores a 333 g.\n\n2 - As tolerâncias que vierem a ser admitidas para cada unidade de pão, de acordo com o disposto no artigo 18.º, serão tomadas em consideração no valor nominal do seu peso.\n\n3 - As regras de colheita das amostras e os processos de análise a adoptar para verificação do cumprimento do determinado neste artigo serão os constantes do Regulamento Interno da Comissão Técnica dos Métodos Químico-Analíticos, aprovado pela [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950.\n\nArt. 21.º Os produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas, arómatas naturais e outras substâncias legalmente autorizadas em que a percentagem de açúcar, expressa em sacarose, não seja inferior a 3% nem superior a 22%.\n\nArt. 22.º - 1 - No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além da água, sal, fermento ou levedura, são as seguintes:\n\na) Farinha de glúten, com riqueza mínima de 60%;\n\nb) Extracto de malte, em conformidade com o estabelecido no [Decreto n.º 37338](https://diariodarepublica.pt/dr/detalhe/decreto/37338-1949-387298), de 17 de Março de 1949, e poder diastásico igual ou superior a 90º Mendisch-Kolbach;\n\nc) Leite inteiro, desnatado ou magro, pasteurizado, esterilizado ou, pelo menos, fervido, e que obedeça ao estabelecido nas respectivas normas portuguesas;\n\nd) Leite em pó, inteiro, desnatado ou magro, que obedeça ao estabelecido nas respectivas normas portuguesas;\n\ne) Açúcar, em conformidade com a legislação em vigor;\n\nf) Gorduras e óleos naturais comestíveis, margarinas e shortenings que obedeçam ao estabelecido nas respectivas normas portuguesas;\n\ng) Manteiga, em conformidade com o disposto na [Portaria n.º 13699](https://diariodarepublica.pt/dr/detalhe/portaria/13699-1951-591539), de 10 de Outubro de 1951;\n\nh) Ovos ou ovo em pó, que obedeçam às condições prescritas pela Inspecção-Geral dos Produtos Agrícolas e Industriais, nos termos do n.º 7 da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950;\n\ni) Arómatas naturais, excluídas as essências, quer naturais, quer sintéticas;\n\nj) Ácido ascórbico, com pureza mínima de 99% (no produto seco);\n\nk) Vinagre, em conformidade com o disposto no Decreto-Lei n.º 35486, de 2 de Setembro de 1946;\n\nl) Produtos constituídos por misturas de aditivos indicados nas alíneas a) a j), contendo ou não outros produtos, desde que fabricados mediante autorização da Inspecção-Geral dos Produtos Agrícolas e Industriais, com pareceres favoráveis da Direcção-Geral de Saúde e da EPAC, e sob condição de ser viável a verificação do respectivo fabrico, com fiscalização analítica individual de todos os seus componentes.\n\n2 - É proibido o uso na indústria de panificação de levedantes químicos, branqueadores, conservantes e corantes, inclusive riboflavina e lactoflavina.\n\nArt. 23.º Ficam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\n1) Proceder à classificação de produtos afins do pão, estabelecer ou modificar as respectivas características e regular o seu fabrico e venda;\n\n2) Autorizar a adição ao pão e produtos afins de quaisquer substâncias não previstas.\n\nIV\n\nDisposições gerais e transitórias\n\nArt. 24.º - 1 - Nos preços de venda dos cereais e sementes adquiridos no território nacional ou importados pela EPAC será incluída uma importância, a fixar pelo Ministro da Agricultura e Pescas, destinada à cobertura dos encargos de exploração e uma parte do autofinanciamento daquela empresa pública.\n\n2 - Os cereais e sementes importados pela EPAC beneficiam de isenção de direitos alfandegários.\n\nArt. 25.º - 1 - Os diferenciais de preços, relativamente a sementes, cereais e farinhas, que possam resultar da aplicação do presente diploma e legislação complementar constituirão encargo ou receita do Fundo de Abastecimento.\n\n2 - Reverterão para a EPAC os diferenciais de preços determinados nos termos do n.º 1 do artigo 2.º do presente diploma.\n\nArt. 26.º Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo ou receita para o Fundo de Abastecimento terá de ser obtido o visto prévio do Ministro das Finanças e do Plano.\n\nArt. 27.º - 1 - As fábricas de farinhas de trigo e milho e as fábricas de alimentos compostos para animais liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços fixados no despacho a publicar ao abrigo do disposto no n.º 2 do artigo 1.º deste decreto-lei.\n\n2 - As fábricas de farinhas espoadas de trigo liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, o diferencial entre os actuais preços de venda das farinhas espoadas de trigo de 1.ª e 2.ª qualidades e os novos preços fixados no artigo 7.º deste decreto-lei para as quantidades, em seu poder à data da entrada em vigor do presente diploma.\n\nArt. 28.º O transporte ferroviário dos cereais e das farinhas destinados às indústrias utilizadoras será objecto de regulamentação, através de portaria emitida pelos Ministérios dos Transportes e Comunicações, Comércio e Turismo e Agricultura e Pescas, devendo, no entanto, as respectivas tarifas ser uniformes para cereais e farinhas, independentemente da distância e do utilizador.\n\nArt. 29.º - 1 - As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis às infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.\n\n2 - A compra e venda de trigo, com violação das disposições legais aplicáveis, sujeita os seus intervenientes a prisão de três dias a dois anos e multa correspondente ao valor do cereal objecto da infracção.\n\n3 - A infracção do disposto no artigo 5.º deste diploma é punida nos termos do número anterior.\n\n4 - A aplicação pelos agricultores de sementes certificadas de trigo e de reservas de celeiro deste cereal, adquiridas à EPAC, a outro fim que não a utilização nas respectivas sementeiras é punida com multa igual ao valor das aquisições do cereal desviado.\n\n5 - A utilização de farinha de trigo de 2.ª qualidade e farinhas de consumo corrente (M(índice 2)) com infracção do disposto nos n.os 7 e 8 do artigo 7.º será punida nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.\n\n6 - A entrega da farinha de trigo espoada com infracção do disposto no n.º 2 do artigo 9.º será punida com a pena prevista no artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.\n\n7 - A utilização no fabrico do pão e nos produtos afins de substâncias não autorizadas constitui crime de falsificação punível nos termos da legislação aplicável.\n\n8 - A infracção ao disposto no n.º 1 do artigo 9.º será punida ao abrigo do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.\n\nArt. 30.º Ficam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a decidir, consoante a matéria da sua competência, por despacho e para um período máximo de noventa dias, a contar da data da publicação do presente diploma, sobre os ajustamentos a que seja necessário proceder em virtude da transição para o regime criado por este decreto-lei.\n\nArt. 31.º Fica o Ministro da Agricultura e Pescas autorizado a fixar em despacho o início e o termo de cada ano cerealífero.\n\nArt. 32.º Os Ministros da Agricultura e Pescas e do Comércio e Turismo poderão delegar, total ou parcialmente, respectivamente no Secretário de Estado do Comércio e Indústrias Agrícolas e no Secretário de Estado do Comércio Interno as competências previstas neste diploma.\n\nArt. 33.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas e do Comércio e Turismo, consoante as matérias em causa.\n\nArt. 34.º Ficam revogados:\n\na) O artigo 3.º do [Decreto-Lei n.º 26423](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26423-1936-690403), de 17 de Março de 1936;\n\nb) O § 1.º do artigo 18.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965;\n\nc) O [Decreto-Lei n.º 75-P/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-p-1977-509025), de 28 de Fevereiro;\n\nd) Os Despachos Normativos n.os [50-H/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-h-1977-315535) e [50-I/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-i-1977-315536), publicados no Diário da República, 1.ª série, n.º 50, 2.º suplemento, de 1 de Março.\n\nArt. 35.º Mantém-se em vigor a [Portaria n.º 189/77](https://diariodarepublica.pt/dr/detalhe/portaria/189-1977-139434), de 5 de Abril.\n\nArt. 36.º Este diploma entra em vigor na data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Luís Silvério Gonçalves Saias - Basílio Adolfo Mendonça Horta da Franca.\n\nPromulgado em 7 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "9734903968b13c51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Abril\n\nUsando da autorização conferida pela [Lei n.º 17/78](https://diariodarepublica.pt/dr/detalhe/lei/17-1978-409707), de 28 de Março, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nI\n\nDos cereais"
+  },
+  "2f3633a226d08b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Empresa Pública de Abastecimento de Cereais (EPAC) adquirirá em exclusivo todo o trigo de produção nacional e, em regime de intervenção, as quantidades de quaisquer outros cereais de produção nacional que lhe sejam entregues, para aquisição, pelos produtores.\n\n2 - Por despacho dos Ministros da Agricultura e Pescas e do Comércio e Turismo serão estabelecidos:\n\na) Os preços de compra e venda pela EPAC do trigo de produção nacional e os preços de venda do trigo importado que se não destine a fins especiais ou a ser transformado para exportação;\n\nb) Os preços mínimos de compra, as margens da sua variação e os preços de venda dos restantes cereais de produção nacional;\n\nc) Os preços de venda dos restantes cereais importados, quando não destinados a fins especiais ou a transformação para exportação;\n\nd) Os preços e condições de aquisição e de venda à lavoura de sementes seleccionadas de cereais e sementes forrageiras."
+  },
+  "f036800a3a15b4ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os preços de venda dos cereais destinados a fins especiais ou a transformação para exportação serão negociados pela EPAC com a indústria utilizadora em função dos preços de custo reais, mediante autorização prévia dos Ministros da Agricultura e Pescas e do Comércio e Turismo.\n\n2 - Relativamente aos cereais de produção nacional adquiridos em regime de concorrência, poderá a EPAC praticar preços de compra superiores aos preços mínimos de garantia, dentro das margens de variação definidas nos termos da alínea b) do n.º 2 do artigo anterior."
+  },
+  "261b470765f3f0f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O Ministro da Agricultura e Pescas fica autorizado a actualizar, por despacho, as regras a aplicar na depreciação e valorização dos trigos e, bem assim, uniformizar os métodos de determinação do peso do hectolitro, sob proposta da EPAC, depois de ouvidos os representantes da produção e das indústrias utilizadoras.\n\n2 - Os trigos de produção nacional que em determinada colheita vierem a revelar-se com características ou defeitos que possam prejudicar a qualidade das farinhas para consumo humano poderão ser destinados à alimentação animal ou a qualquer outra utilização, nos termos e nas condições a fixar por despacho do Ministro da Agricultura e Pescas, mediante proposta da EPAC."
+  },
+  "ddc5bd1b0bdcd4a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os produtores de trigo, cevada vulgar e aveia ficam obrigados a manifestar na EPAC o cereal utilizado na sementeira e o produzido.\n\n2 - A EPAC avisará os interessados, em tempo útil, do prazo limite para entrega dos manifestos referidos no número anterior, bem como das datas de abertura e encerramento dos seus silos, celeiros e armazéns."
+  },
+  "e980da35dd9d81bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs trigos manifestados para consumo das casas agrícolas só podem ser trocados por farinhas nas fábricas de moagem e seus depósitos."
+  },
+  "23ab387c84ed5780": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs regras a observar na distribuição de cereais às indústrias transformadoras serão definidas pela EPAC, ouvidos os respectivos utilizadores, e submetidas ao acordo prévio do Ministro da Agricultura e Pescas.\n\nII\n\nDas farinhas"
+  },
+  "af77146c4e44de30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - As farinhas espoadas de trigo e sêmolas do mesmo cereal, a produzir pela respectiva indústria, terão as seguintes características como limites máximos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00140018.pdf)\n\n2 - As farinhas e as sêmolas deverão ter um mínimo de 7% e 8% de glúten seco, respectivamente.\n\n3 - Em qualquer das farinhas e sêmolas, o resíduo insolúvel no ácido clorídrico não pode exceder 0,02%.\n\n4 - A acidez é expressa em ácido sulfúrico e determinada no extracto alcoólico.\n\n5 - Nos limites indicados admite-se uma tolerância analítica de 0,05% em relação aos teores de humidade e cinza e 0,005% em relação ao teores de acidez.\n\n6 - Na indústria de confeitaria e pastelaria poderá ser utilizada a farinha de 1.ª qualidade referida na alínea a).\n\n7 - A farinha de 2.ª qualidade só pode ser vendida à indústria de panificação, destinando-se exclusivamente ao fabrico de pão de 2.ª qualidade.\n\n8 - As farinhas de consumo corrente (M(índice 2)) só podem ser vendidas à indústria de massas alimentícias e utilizadas exclusivamente no fabrico de massas alimentícias de consumo corrente."
+  },
+  "8278cd93ef204bca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs preços máximos por tonelada das farinhas espoadas de trigo nas fábricas de moagem ou sobre vagão são os seguintes:\n\nFarinha de 1.ª qualidade - 8310$00.\n\nFarinha de 2.ª qualidade - 7998$60."
+  },
+  "4f4acc55d2604414": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - As farinhas deverão ser obrigatoriamente acompanhadas por guia de remessa ou factura, identificando o vendedor e o comprador e as quantidades fornecidas.\n\n2 - A farinha de trigo espoada destinada ao consumo humana não pode ser entregue pelas moagens produtoras antes de dez dias após o seu fabrico."
+  },
+  "49e6ac4ec9c49844": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs moagens poderão beneficiar, conforme as condições a estabelecer em despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo, de um subsídio por quilograma de sêmolas (M(índice 1)) e de farinha (M(índice 2)) destinada ao fabrico de massas alimentícias, respectivamente de qualidade superior e de consumo corrente, entregues a esta indústria."
+  },
+  "8c1f67b90edf1d98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nFicam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\na) Fixar ou alterar os preços e características das farinhas, sêmolas e seus subprodutos;\n\nb) Estabelecer os requisitos e características a que devem obedecer as embalagens das farinhas e sêmolas, sem prejuízo do preceituado no [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e disposições complementares.\n\nIII\n\nDo pão e produtos afins"
+  },
+  "7780a1b7caa01ff0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O pão de 1.ª qualidade é fabricado com farinha de 1.ª qualidade\n\n2 - O pão de 1.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:\n\nDe 50 g - $90 (18$00 por quilograma);\n\nDe 250 g - 4$50 (18$00 por quilograma;\n\nDe 500 g - 8$40 (16$80 por quilograma);\n\nMúltiplos de 500 g - ao preço correspondente a 16$80 por quilograma.\n\n3 - Os preços indicados no número anterior referem-se à venda nos locais mencionados no artigo 1.º do Regulamento do Comércio do Pão, aprovado pelo [Decreto-Lei n.º 302/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807), de 14 de Agosto, com exclusão da alínea c).\n\n4 - Ficam livres os preços de venda de pão fabricado em unidades de 30 g e de pão de forma."
+  },
+  "316a0702749e392d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O pão de 2.ª qualidade é fabricado com farinha de 2.ª qualidade.\n\n2 - O pão de 2.ª qualidade será vendido aos seguintes preços máximos, por unidade ou por quilograma:\n\nDe 500 g - 6$60 (13$20 por quilograma);\n\nMúltiplos de 500 g - ao preço correspondente a 13$20 por quilograma.\n\n3 - Aplica-se ao pão de 2.ª qualidade o disposto no n.º 3 do artigo anterior."
+  },
+  "555bb55cbadc685b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1986-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010), publicado em 1982-05-29."
+   ],
+   "markdown": "###### Artigo 14.º\n\nNo pão de mistura de farinha de trigo, centeio e milho, ou apenas de 2 destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.\n\n> Alterado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010), publicado em 1982-05-29."
+  },
+  "6ba6ec4ee6fd0066": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O pão de farinha de trigo em rama e o pão de mistura só podem ser fabricados em unidades de 100 g, 400 g e múltiplos de 400 g e serão vendidos, respectivamente, aos preços máximos correspondentes a 14$00 e 17$00 por quilograma.\n\n2 - Aplica-se a estes tipos de pão o disposto no n.º 3 do artigo 12.º"
+  },
+  "e51d22403fb5d95f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nNa venda ao domicílio poderão acrescer aos preços máximos fixados nos artigos 12.º e 13.º as seguintes importâncias:\n\nI - Pão de 1.ª qualidade:\n\na) Por cada unidade de 50 g ... $15\n\nb) Por cada unidade de 250 g ... $40\n\nc) Por cada unidade de 500 g ... $60\n\nd) Múltiplos de 500 g ... $60\n\nII - Pão de 2.ª qualidade:\n\na) Por cada unidade de 500 g ... $40\n\nb) Múltiplos de 500 g ... $60"
+  },
+  "7305d180c417cd59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSão livres os preços de venda de pão de milho, pão de centeio, pão alvo regional, pão enriquecido e dietético, tosta e outros produtos afins do pão."
+  },
+  "777acd6994f8107c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nPor portaria dos Ministros da Agricultura e Pescas e do Comércio e Turismo serão fixadas as tolerâncias de peso no fabrico de pão e regulada a forma da respectiva verificação."
+  },
+  "bec4af89e98442c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nFicam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\n1) Alterar, fixar ou libertar os preços do pão e dos produtos afins;\n\n2) Alterar ou fixar os pesos e formatos dos diversos tipos de pão e produtos afins;\n\n3) Alterar as margens permitidas na venda de pão ao domicílio."
+  },
+  "0efc2c4b719821ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os tipos de pão referidos no n.º 2 dos artigos 12.º e 13.º e no n.º 1 do artigo 15.º deverão ter, por peso nominal de cada unidade expresso em gramas (M), o correspondente resíduo seco total mínimo a seguir indicado:\n\na) No pão de 1.ª qualidade e no de mistura - 0,70 M para valores de M iguais ou inferiores a 333 g e 0,67 M para valores de M superiores a 333 g;\n\nb) No pão de 2.ª qualidade e no de farinha de trigo em rama - 0,67 M para valores de M iguais ou inferiores a 333 g e 0,62 M para valores de M superiores a 333 g.\n\n2 - As tolerâncias que vierem a ser admitidas para cada unidade de pão, de acordo com o disposto no artigo 18.º, serão tomadas em consideração no valor nominal do seu peso.\n\n3 - As regras de colheita das amostras e os processos de análise a adoptar para verificação do cumprimento do determinado neste artigo serão os constantes do Regulamento Interno da Comissão Técnica dos Métodos Químico-Analíticos, aprovado pela [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950."
+  },
+  "05234ada5cd08925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs produtos afins do pão só podem ser fabricados em formatos que se não confundam com os adoptados para o pão e a partir de massas sovadas e levedadas de tipo panar, com adição de leite, açúcar, gordura, ovos, frutas, arómatas naturais e outras substâncias legalmente autorizadas em que a percentagem de açúcar, expressa em sacarose, não seja inferior a 3% nem superior a 22%."
+  },
+  "3961c28d934dfc43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - No fabrico do pão e dos produtos afins, as substâncias autorizadas como aditivos, além da água, sal, fermento ou levedura, são as seguintes:\n\na) Farinha de glúten, com riqueza mínima de 60%;\n\nb) Extracto de malte, em conformidade com o estabelecido no [Decreto n.º 37338](https://diariodarepublica.pt/dr/detalhe/decreto/37338-1949-387298), de 17 de Março de 1949, e poder diastásico igual ou superior a 90º Mendisch-Kolbach;\n\nc) Leite inteiro, desnatado ou magro, pasteurizado, esterilizado ou, pelo menos, fervido, e que obedeça ao estabelecido nas respectivas normas portuguesas;\n\nd) Leite em pó, inteiro, desnatado ou magro, que obedeça ao estabelecido nas respectivas normas portuguesas;\n\ne) Açúcar, em conformidade com a legislação em vigor;\n\nf) Gorduras e óleos naturais comestíveis, margarinas e shortenings que obedeçam ao estabelecido nas respectivas normas portuguesas;\n\ng) Manteiga, em conformidade com o disposto na [Portaria n.º 13699](https://diariodarepublica.pt/dr/detalhe/portaria/13699-1951-591539), de 10 de Outubro de 1951;\n\nh) Ovos ou ovo em pó, que obedeçam às condições prescritas pela Inspecção-Geral dos Produtos Agrícolas e Industriais, nos termos do n.º 7 da [Portaria n.º 13201](https://diariodarepublica.pt/dr/detalhe/portaria/13201-1950-480124), de 19 de Junho de 1950;\n\ni) Arómatas naturais, excluídas as essências, quer naturais, quer sintéticas;\n\nj) Ácido ascórbico, com pureza mínima de 99% (no produto seco);\n\nk) Vinagre, em conformidade com o disposto no Decreto-Lei n.º 35486, de 2 de Setembro de 1946;\n\nl) Produtos constituídos por misturas de aditivos indicados nas alíneas a) a j), contendo ou não outros produtos, desde que fabricados mediante autorização da Inspecção-Geral dos Produtos Agrícolas e Industriais, com pareceres favoráveis da Direcção-Geral de Saúde e da EPAC, e sob condição de ser viável a verificação do respectivo fabrico, com fiscalização analítica individual de todos os seus componentes.\n\n2 - É proibido o uso na indústria de panificação de levedantes químicos, branqueadores, conservantes e corantes, inclusive riboflavina e lactoflavina."
+  },
+  "3f5ffcef6477e319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nFicam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a, por despacho conjunto:\n\n1) Proceder à classificação de produtos afins do pão, estabelecer ou modificar as respectivas características e regular o seu fabrico e venda;\n\n2) Autorizar a adição ao pão e produtos afins de quaisquer substâncias não previstas.\n\nIV\n\nDisposições gerais e transitórias"
+  },
+  "a9bfe8518f1bef98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Nos preços de venda dos cereais e sementes adquiridos no território nacional ou importados pela EPAC será incluída uma importância, a fixar pelo Ministro da Agricultura e Pescas, destinada à cobertura dos encargos de exploração e uma parte do autofinanciamento daquela empresa pública.\n\n2 - Os cereais e sementes importados pela EPAC beneficiam de isenção de direitos alfandegários."
+  },
+  "4751fc3e205f2b50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - Os diferenciais de preços, relativamente a sementes, cereais e farinhas, que possam resultar da aplicação do presente diploma e legislação complementar constituirão encargo ou receita do Fundo de Abastecimento.\n\n2 - Reverterão para a EPAC os diferenciais de preços determinados nos termos do n.º 1 do artigo 2.º do presente diploma."
+  },
+  "608f96fe3fd7ac20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo ou receita para o Fundo de Abastecimento terá de ser obtido o visto prévio do Ministro das Finanças e do Plano."
+  },
+  "4fedfd32909615bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - As fábricas de farinhas de trigo e milho e as fábricas de alimentos compostos para animais liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços fixados no despacho a publicar ao abrigo do disposto no n.º 2 do artigo 1.º deste decreto-lei.\n\n2 - As fábricas de farinhas espoadas de trigo liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, o diferencial entre os actuais preços de venda das farinhas espoadas de trigo de 1.ª e 2.ª qualidades e os novos preços fixados no artigo 7.º deste decreto-lei para as quantidades, em seu poder à data da entrada em vigor do presente diploma."
+  },
+  "6d06e7215181f663": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1986-12-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17."
+   ],
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17."
+  },
+  "96f477ac68e34b50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, são aplicáveis às infracções cometidas no âmbito de aplicação deste diploma e seus regulamentos, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos, sem prejuízo do disposto nos números seguintes.\n\n2 - A compra e venda de trigo, com violação das disposições legais aplicáveis, sujeita os seus intervenientes a prisão de três dias a dois anos e multa correspondente ao valor do cereal objecto da infracção.\n\n3 - A infracção do disposto no artigo 5.º deste diploma é punida nos termos do número anterior.\n\n4 - A aplicação pelos agricultores de sementes certificadas de trigo e de reservas de celeiro deste cereal, adquiridas à EPAC, a outro fim que não a utilização nas respectivas sementeiras é punida com multa igual ao valor das aquisições do cereal desviado.\n\n5 - A utilização de farinha de trigo de 2.ª qualidade e farinhas de consumo corrente (M(índice 2)) com infracção do disposto nos n.os 7 e 8 do artigo 7.º será punida nos termos do artigo 21.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.\n\n6 - A entrega da farinha de trigo espoada com infracção do disposto no n.º 2 do artigo 9.º será punida com a pena prevista no artigo 29.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.\n\n7 - A utilização no fabrico do pão e nos produtos afins de substâncias não autorizadas constitui crime de falsificação punível nos termos da legislação aplicável.\n\n8 - A infracção ao disposto no n.º 1 do artigo 9.º será punida ao abrigo do artigo 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957."
+  },
+  "8900bb9e727c26c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nFicam os Ministros da Agricultura e Pescas e do Comércio e Turismo autorizados a decidir, consoante a matéria da sua competência, por despacho e para um período máximo de noventa dias, a contar da data da publicação do presente diploma, sobre os ajustamentos a que seja necessário proceder em virtude da transição para o regime criado por este decreto-lei."
+  },
+  "90f49923e9b82cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nFica o Ministro da Agricultura e Pescas autorizado a fixar em despacho o início e o termo de cada ano cerealífero."
+  },
+  "9840e7c4018ccbeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nOs Ministros da Agricultura e Pescas e do Comércio e Turismo poderão delegar, total ou parcialmente, respectivamente no Secretário de Estado do Comércio e Indústrias Agrícolas e no Secretário de Estado do Comércio Interno as competências previstas neste diploma."
+  },
+  "686a650a4b7357da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAs dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros da Agricultura e Pescas e do Comércio e Turismo, consoante as matérias em causa."
+  },
+  "ce8a49cac27b99b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nFicam revogados:\n\na) O artigo 3.º do [Decreto-Lei n.º 26423](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26423-1936-690403), de 17 de Março de 1936;\n\nb) O § 1.º do artigo 18.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965;\n\nc) O [Decreto-Lei n.º 75-P/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-p-1977-509025), de 28 de Fevereiro;\n\nd) Os Despachos Normativos n.os [50-H/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-h-1977-315535) e [50-I/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-i-1977-315536), publicados no Diário da República, 1.ª série, n.º 50, 2.º suplemento, de 1 de Março."
+  },
+  "f08e7d27b11ef56b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nMantém-se em vigor a [Portaria n.º 189/77](https://diariodarepublica.pt/dr/detalhe/portaria/189-1977-139434), de 5 de Abril."
+  },
+  "54a7f7328bed8035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nEste diploma entra em vigor na data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Luís Silvério Gonçalves Saias - Basílio Adolfo Mendonça Horta da Franca.\n\nPromulgado em 7 de Abril de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

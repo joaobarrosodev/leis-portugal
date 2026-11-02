@@ -1,0 +1,294 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174853:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32e91895d331a0f5",
+    "14d3f5a9f4a17f16",
+    "55cba3f4c5b3e035",
+    "657ed1042f860cbb",
+    "83a554a19c171771",
+    "4d7b6998ec9cdced",
+    "60b542a93489ab11",
+    "23836370ae405d04",
+    "c1d9cb9df5300fad",
+    "5d4d9f55a5e10842",
+    "8133e7d82fff65f8",
+    "1ac84c9816ead691",
+    "d0794347d65ed0bf",
+    "e7c17ac06c88e50d",
+    "ca89d9b64b54748e",
+    "8cda4d983fb485ff",
+    "52cf7d84b0408797",
+    "75b9bfe5b916ccee",
+    "6c81492e071e8ae6",
+    "770b0a6ba9989380",
+    "1fa805c22cce9fda",
+    "69f36bda42786851",
+    "55a20d246df9b8bc"
+   ]
+  },
+  {
+   "date": "2016-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095680:por",
+     "title": "Portaria n.º 260-B/2015",
+     "published": "2015-08-24",
+     "dre_path": "/dr/detalhe/portaria/260-b-2015-70095680"
+    },
+    {
+     "id": "pt:dre:73462826:por",
+     "title": "Portaria n.º 18/2016",
+     "published": "2016-02-08",
+     "dre_path": "/dr/detalhe/portaria/18-2016-73462826"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO I::4.º",
+    "Adita Artigo ANEXO I::2.º-B"
+   ],
+   "fragments": [
+    "32e91895d331a0f5",
+    "14d3f5a9f4a17f16",
+    "55cba3f4c5b3e035",
+    "657ed1042f860cbb",
+    "83a554a19c171771",
+    "4d7b6998ec9cdced",
+    "60b542a93489ab11",
+    "23836370ae405d04",
+    "c1d9cb9df5300fad",
+    "5d4d9f55a5e10842",
+    "27dc62cab8993bca",
+    "8133e7d82fff65f8",
+    "1ac84c9816ead691",
+    "1a1545fffd899442",
+    "e7c17ac06c88e50d",
+    "ca89d9b64b54748e",
+    "8cda4d983fb485ff",
+    "52cf7d84b0408797",
+    "75b9bfe5b916ccee",
+    "6c81492e071e8ae6",
+    "770b0a6ba9989380",
+    "1fa805c22cce9fda",
+    "69f36bda42786851",
+    "55a20d246df9b8bc"
+   ]
+  }
+ ],
+ "fragments": {
+  "32e91895d331a0f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de setembro\n\nO atual contexto normativo e de forte restrição orçamental, bem como os compromissos assumidos no âmbito do Memorando de Entendimento celebrado entre a República Portuguesa, o Fundo Monetário Internacional, a Comissão Europeia e o Banco Central Europeu, determina que se adotem para o Serviço Nacional de Saúde medidas excecionais que garantam a sua sustentabilidade económico-financeira, sem perda de qualidade, salvaguardando os atuais níveis de acesso e eficiência e a resposta às necessidades de cuidados de saúde dos cidadãos.\n\nNão obstante, o acesso à cirurgia continua a ser uma prioridade, assegurando o respeito pelos tempos máximos de resposta garantidos, através do programa de acesso Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC).\n\nComo incentivo ao cumprimento dos tempos máximos de resposta garantidos (TMRG), com a publicação da presente portaria, o hospital de origem passa a ter a responsabilidade financeira pela realização atempada de toda a atividade cirúrgica inscrita nas listas de inscritos para cirurgia da respetiva instituição hospitalar.\n\nProcede-se ainda à alteração de algumas regras de faturação e à revisão da tabela de preços, verificando-se uma diminuição global dos preços.\n\nPor força destas alterações e da necessária revisão de preços, a Portaria n.º 852/2009, de 7 de agosto, que aprovou o Regulamento das Tabelas de Preços a praticar para a produção adicional realizada no âmbito do SIGIC pelas unidades prestadoras de cuidados de saúde públicas e entidades privadas e sociais convencionadas, encontra-se desajustada, tornando-se, pois, necessário proceder à sua atualização.\n\nAssim:\n\nNos termos do disposto no artigo 23.º e no n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de janeiro, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "14d3f5a9f4a17f16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado como anexo i à presente portaria, da qual faz parte integrante, o Regulamento das Tabelas de Preços a praticar para a produção adicional realizada no âmbito do SIGIC pelas unidades prestadoras de cuidados de saúde públicas e entidades privadas e sociais convencionadas."
+  },
+  "55cba3f4c5b3e035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ aprovada como anexo ii à presente portaria, da qual faz parte integrante, a tabela de preços a praticar para a produção adicional realizada no âmbito do SIGIC pelas unidades prestadoras de cuidados de saúde públicas e entidades privadas e sociais convencionadas."
+  },
+  "657ed1042f860cbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão aprovados como anexo iii à presente portaria, da qual fazem parte integrante, os procedimentos que permitem o acréscimo relativamente aos preços previstos no anexo ii."
+  },
+  "83a554a19c171771": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ revogada a Portaria n.º 852/2009, de 7 de agosto."
+  },
+  "4d7b6998ec9cdced": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente portaria produz efeitos cinco dias após a sua publicação.\n\nO Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 22 de agosto de 2012."
+  },
+  "60b542a93489ab11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nREGULAMENTO DAS TABELAS DE PREÇOS A PRATICAR PARA A PRODUÇÃO ADICIONAL REALIZADA NO ÂMBITO DO SISTEMA INTEGRADO DE GESTÃO DE INSCRITOS PARA CIRURGIA (SIGIC)."
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "c1d9cb9df5300fad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação objetivo\n\n1 - O presente Regulamento consagra o valor da produção cirúrgica adicional realizada por unidades prestadoras de cuidados de saúde públicas e entidades privadas ou sociais em sede de convenções estabelecidas no âmbito do SIGIC.\n\n2 - O presente Regulamento consagra as regras relativas aos encargos com as transferências efetuadas no que respeita à produção adicional no âmbito do SIGIC e com a prática de consultas e meios complementares de diagnóstico sem realização da intervenção cirúrgica programada por motivo não imputável à unidade prestadora.\n\n3 - A faturação da prestação de serviços fica dependente da existência do correspondente registo no Sistema Informático de Gestão de Lista de Inscritos (SIGLIC)."
+  },
+  "5d4d9f55a5e10842": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação subjetivo\n\n1 - São abrangidas pela presente portaria as entidades privadas ou sociais com convenções estabelecidas no âmbito do SIGIC e as entidades públicas prestadoras de cuidados de saúde quanto à produção cirúrgica programada adicional, sem prejuízo das regras constantes dos contratos-programa.\n\n2 - A presente portaria aplica-se à produção cirúrgica adicional realizada nestas entidades, independentemente da entidade financeira responsável."
+  },
+  "8133e7d82fff65f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Conforme consta no Manual de Gestão de Inscritos para Cirurgia e para efeitos do presente Regulamento, entende-se por «procedimentos independentes» os procedimentos que, sendo realizados no mesmo ato cirúrgico, se destinam à resolução de patologias não relacionadas e que, de acordo com o estado da arte, podem ser efetuados em episódios diferidos ou distintos.\n\n2 - Nos restantes conceitos subjacentes ao presente diploma, aplica-se o disposto nos n.os 6 a 43 da parte ii do Regulamento do SIGIC, aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro, e no artigo 3.º da Portaria n.º 132/2009, de 30 de janeiro."
+  },
+  "1ac84c9816ead691": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Valor da produção cirúrgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Valor da produção cirúrgica"
+  },
+  "d0794347d65ed0bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preço\n\n1 - O preço das prestações de saúde realizadas em produção adicional no âmbito do SIGIC, em hospitais convencionados, protocolados ou extra contrato-programa dos hospitais do SNS, quer em regime de ambulatório quer em internamento, é calculado nos termos do presente Regulamento mediante o sistema de classificação de doentes em GDH previsto na tabela de preços do SNS e consta do anexo ii do presente diploma.\n\n2 - As prestações de saúde de cirurgia programada adicional prevista realizadas pelo hospital do SNS no âmbito do SIGIC são valorizadas de acordo com os critérios definidos em sede de contrato-programa, sendo o preço médio unitário determinado tendo por referência a tabela patente no anexo ii.\n\n3 - O preço a pagar pela atividade referida no n.º 1 tem como valor base de referência (euro) 1326,49, que é multiplicado para cada GDH, por um fator que reflete a complexidade da situação e que se designa por peso relativo, conforme o disposto na col. D do anexo ii, e por um fator que adapta o preço à disponibilidade da oferta e que se designa por fator de equilíbrio, conforme o disposto na col. E do anexo ii do presente Regulamento.\n\n4 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório."
+  },
+  "e7c17ac06c88e50d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Âmbito dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito dos serviços\n\n1 - O valor da produção cirúrgica prevista no n.º 1 do artigo 1.º inclui, em caso de internamento, todos os serviços prestados ao utente no âmbito do tratamento prescrito, incluindo consulta de avaliação, os meios complementares de diagnóstico e terapêutica necessários de entre os constantes no anexo iii aprovado em anexo à Portaria n.º 132/2009, de 30 de janeiro, excetuando-se os MCDT previstos no n.º 5 do artigo 10.º necessários à caracterização da doença e que são da responsabilidade do hospital de origem, internamento, terapêutica dispensada durante o internamento, a cirurgia, cuidados pós-cirúrgicos durante e após o internamento durante um período máximo de dois meses, cedência, quando necessário de ajudas técnicas por um período até 15 dias após alta hospitalar, dos transportes do utente quando necessário após a cirurgia, tratamento das intercorrências durante o período do internamento e das complicações detetadas durante um período de dois meses após alta hospitalar.\n\n2 - O valor da produção cirúrgica prevista no n.º 1 do artigo 1.º inclui, em caso de cirurgia de ambulatório, todos os serviços prestados ao utente no âmbito do tratamento prescrito, incluindo consulta de avaliação, os meios complementares de diagnóstico e terapêutica necessários, terapêutica dispensada e requerida por um período mínimo de cinco dias, a cirurgia, cuidados pós-cirúrgicos durante um período máximo de dois meses, cedência, quando necessário de ajudas técnicas por um período até 15 dias após alta hospitalar, dos transportes do utente quando necessário após a cirurgia, tratamento das complicações detetadas durante um período de dois meses após a cirurgia."
+  },
+  "ca89d9b64b54748e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Faturação de episódios classificados em GDH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Faturação de episódios classificados em GDH\n\n1 - Os preços a aplicar à produção cirúrgica programada adicional são os constantes na tabela de preços que integra o anexo ii, devendo observar-se na sua aplicação o disposto nos números seguintes.\n\n2 - A faturação dos episódios correspondentes a cada GDH em produção adicional no âmbito do SIGIC deve ser feita de acordo com as seguintes regras:\n\na) O valor a faturar é o em vigor na data da alta do doente;\n\nb) O cálculo do valor a pagar por cada episódio de internamento cirúrgico ou de cirurgia de ambulatório é feito por doente saído, com recurso ao apuramento de todos os GDH, considerando-se principal aquele a que corresponda o preço mais elevado;\n\nc) A tabela de preços constante do anexo ii aplica-se apenas a intervenções cirúrgicas programadas."
+  },
+  "8cda4d983fb485ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Critérios específicos de cálculo de preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios específicos de cálculo de preço\n\n1 - Nos doentes traqueostomizados, nos GDH previstos na tabela iii do anexo ii aprovado em anexo à Portaria n.º 132/2009, de 30 de janeiro, sempre que submetidos a ventilação mecânica por 96 ou mais horas, a que corresponde o código de procedimento da CID 9 MC 96.72 - ventilação mecânica continua por 96 ou mais horas consecutivas, os preços a aplicar são os o do GDH 483 - oxigenação por membrana extracorporal, traqueostomia com ventilação mecânica superior a 96 horas ou traqueostomia com outro diagnóstico principal, exceto da face, boca ou pescoço.\n\n2 - Os episódios de internamento classificados nos GDH 755, 756, 806 ou 807, e em que os procedimentos efetuados correspondam aos códigos da CID 9 MC 81.63 - fusão ou refusão 4-8 vértebras, ou 81.64 - fusão ou refusão de nove ou mais vértebras, com fixação da coluna em quatro ou mais vértebras, devem ser faturados por dia de internamento, sendo o valor da diária de enfermaria de (euro) 247 e o da unidade de cuidados intensivos de (euro) 588.\n\n3 - Ao valor referido no número anterior acrescem os custos do material de fixação utilizado, não podendo estes ser superiores ao preço do mesmo material no catálogo de aprovisionamento público da saúde.\n\n4 - No GDH 261, respeitante a procedimentos na mama, por doença não maligna, exceto biopsia/excisão local, quando os procedimentos efetuados corresponderem aos códigos 85.53 - implante mamário unilateral, ou 85.6 - mastopexia, ou 85.70 - reconstrução total da mama não especificada de outro modo, ou 85.71 - retalho miocutâneo de grande dorsal (para reconstrução da mama), ou 85.72 - retalho miocutâneo transversal de reto abdominal, pediculado, ou 85.73 - retalho miocutâneo transversal de reto abdominal, livre, ou 85.74 - retalho de artéria epigástrica inferior profunda perfurante, livre, ou 85.75 - retalho de artéria epigástrica inferior superficial livre, ou 85.76 - retalho de artéria glútea perfurante, livre, ou 85.79 - reconstrução total da mama, NCOP, ou 85.87 - reparação ou reconstrução do mamilo NCOP, ou 85.95 - inserção de expansor tecidular na mama, da CID 9 MC, e forem decorrentes de doença maligna, o preço a faturar é de (euro) 2270.\n\n5 - Nas situações que envolvam colocação de próteses cujo valor exceda os (euro) 200 (sem IVA incluído), ao valor previsto no n.º 3 do artigo 4.º acresce o valor da prótese.\n\n6 - A faturação das situações previstas no número anterior carecem de documento, apenso ao episódio realizado, validado pelo diretor clínico, comprovativo da prótese utilizada com indicação da designação, modelo, preço e fornecedor.\n\n7 - As situações previstas no n.º 3, quando não constem do catálogo de aprovisionamento público da saúde e no n.º 5, carecem de autorização prévia da respetiva unidade regional de gestão de inscritos para cirurgia (URGIC).\n\n8 - Excecionam-se do previsto no n.º 5:\n\na) As situações em que o GDH gerado corresponda ao valor 115, 116, 118, 209, 210, 211, 212, 548, 755, 756, 758, 806, 807, 817, 818, 849, 850, 851, 852, 853 ou 854, vigorando o valor previsto nos n.os 4 do artigo 4.º e 2 do presente artigo;\n\nb) O GDH 261, aplicando-se, de acordo com os procedimentos realizados, o valor previsto nos n.os 4 do artigo 4.º e 4 do presente artigo.\n\n9 - Os montantes anuais globais que condicionam a autorização prevista no n.º 7 são fixados em (euro) 150 000 para a Administração Regional de Saúde do Norte, I. P., a Administração Regional de Saúde do Centro, I. P., e a Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., e de (euro) 25 000 para a Administração Regional de Saúde do Alentejo, I. P., e a Administração Regional de Saúde do Algarve, I. P.\n\n10 - A responsabilidade financeira pelo internamento em unidades de cuidados intensivos cabe à entidade convencionada, independentemente da entidade prestadora dos referidos cuidados de saúde, podendo o utente, caso aquela o entenda, após os primeiros três dias de internamento, ser tratado num hospital público, sem qualquer encargo para a entidade convencionada.\n\n11 - O pagamento da produção cirúrgica adicional realizada no âmbito do SIGIC, quando se tenha verificado a realização de intervenções com múltiplos procedimentos independentes, ou múltiplas intervenções, é acrescido de um valor correspondente ao somatório de 45 % dos GDH que lhes correspondam, até ao máximo acumulado de 45 % do GDH considerado principal.\n\n12 - O valor referido no n.º 4 do artigo 4.º é acrescido de 30 % quando os procedimentos realizados correspondam a patologia neoplásica maligna devidamente documentada por exames de anatomia patológica, não podendo por força deste acréscimo ser ultrapassado o valor estabelecido através da Portaria n.º 132/2009, de 30 de janeiro, para o referido GDH.\n\n13 - Pela especial complexidade envolvida, o valor referido no n.º 4 do artigo 4.º é acrescido de 20 % quando o procedimento realizado seja algum dos constantes no anexo iii, não podendo por força deste acréscimo ser ultrapassado o valor estabelecido através da Portaria n.º 132/2009, de 30 de janeiro, para o referido GDH.\n\n14 - Relativamente ao número anterior, não há lugar à cumulação de acréscimos, prevalecendo o valor referido no n.º 12 quando se verifique que o procedimento realizado está previsto no anexo iii e que há patologia neoplásica maligna.\n\n15 - No GDH 288, para produção realizada em hospitais públicos respeitante a procedimentos para obesidade em bloco operatório, no tratamento cirúrgico da obesidade, o preço a faturar é de (euro) 3669,44."
+  },
+  "52cf7d84b0408797": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Faturação de GDH médicos em produção adicional no âmbito do SIGIC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Faturação de GDH médicos em produção adicional no âmbito do SIGIC\n\n1 - Só há lugar à faturação do GDH 351 - esterilização masculina nas situações onde se verifique a realização de procedimentos correspondentes aos códigos 63.70 - procedimentos para esterilização masculina SOE, ou 63.71 - laqueação de canal deferente, ou 63.72 - laqueação do cordão espermático, ou 63.73 - vasectomia, da CID 9 MC.\n\n2 - Só há lugar à faturação do GDH 73 - outros diagnósticos do ouvido, nariz, boca e garganta, idade superior a 17 anos, nas situações onde se verifique, em internamento, a realização de procedimentos correspondentes ao código 18.29 - excisão ou destruição de lesões NCOP do ouvido externo, da CID 9 MC.\n\n3 - Nas situações em que o GDH gerado seja de natureza médica, não constando do anexo ii, o valor do GDH apurado corresponde a 53,63 % do preço estabelecido na Portaria n.º 132/2009, de 30 de janeiro, desde que tenha sido realizado um dos seguintes procedimentos da CID 9 MC:\n\na) 43.19 - gastrostomia NCOP;\n\nb) 44.62 - encerramento de gastrotomia;\n\nc) 46.14 - abertura diferida de colostomia;\n\nd) 46.39 - enterostomia;\n\ne) 69.59 - curetagem aspirativa do útero NCOP.\n\n4 - Os demais episódios que resultem num agrupamento em GDH médico não integram o regime geral de faturação de produção adicional no âmbito do SIGIC.\n\n5 - No caso de os episódios mencionados no número anterior terem sido realizados numa entidade convencionada, o preço em média corresponderá a 53,63 % do valor da tabela de preços aprovada em anexo à Portaria n.º 132/2009, de 30 de janeiro."
+  },
+  "75b9bfe5b916ccee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais"
+  },
+  "6c81492e071e8ae6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Faturação\n\n1 - A faturação das prestações de saúde realizadas a doentes internados deve ser efetuada após a data da alta, e até dois meses.\n\n2 - A faturação das prestações de saúde realizadas a doentes em regime ambulatório deve ser efetuada após a realização dos cuidados, e até dois meses.\n\n3 - As entidades prestadoras de cuidados de saúde convencionadas ou com acordos no âmbito do SIGIC faturam à ARS do hospital de origem, sem prejuízo das competências das URGIC nos termos do Regulamento aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro, a preços definidos no anexo i, que por sua vez fatura ao hospital de origem.\n\n4 - As entidades prestadoras de cuidados de saúde públicas faturam aos hospitais de origem as prestações decorrentes de transferência de utentes, sem prejuízo das competências das URGIC nos termos do Regulamento aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro.\n\n5 - O referido no número anterior não se aplica à faturação relativa a utentes transferidos de entidades em parceria público-privada ou de entidades privadas com acordo no âmbito do SIGIC, casos em que faturam à ARS do hospital de origem, que por sua vez fatura ao hospital de origem.\n\n6 - A faturação da produção adicional pelo hospital do SNS é efetuada de acordo com o previsto no respetivo contrato-programa.\n\n7 - A produção cirúrgica a realizar num hospital convencionado, no âmbito do SIGIC, só poderá dar origem a faturação se a equipa médica cirúrgica que a efetuar não apresentar relação contratual com o hospital de origem do utente intervencionado.\n\n8 - O incumprimento do previsto no número anterior por parte das entidades convencionadas implica a suspensão da emissão de vales-cirurgia para estas entidades por um período de 6 a 24 meses, determinada pela ACSS, I. P."
+  },
+  "770b0a6ba9989380": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Transferência de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transferência de doentes\n\n1 - Os encargos com as transferências, nomeadamente os transportes do utente e respetivo envio ou devolução do processo clínico que ocorram no âmbito do SIGIC, até à realização da cirurgia, são da responsabilidade do hospital de origem.\n\n2 - Nos casos de devolução do doente ao hospital de origem que a administração regional de saúde respetiva venha a considerar injustificada, os encargos com a transferência, nomeadamente os transportes do utente e respetivo envio ou devolução do processo clínico, são da obrigação de quem for responsável pela devolução do mesmo.\n\n3 - Se o responsável referido no número anterior for o utente, ao retornar ao seu hospital de origem, a sua inscrição será cancelada e será realizada nova inscrição com data de inclusão igual à data de devolução, sem mais prejuízos para o utente.\n\n4 - Nos casos em que o utente opte por uma entidade convencionada, privada ou social, que não conste do diretório apresentado no vale-cirurgia ou opte por hospital privado fora da sua região existindo oferta regional adequada, os encargos com a transferência são da responsabilidade do utente.\n\n5 - Se o hospital de destino não puder realizar a cirurgia inscrita no vale-cirurgia por entender que a proposta cirúrgica deve ser reformulada ou que o processo clínico do utente não contém informação suficiente, nomeadamente no que se refere a meios complementares de diagnóstico, deve, justificando a sua pretensão, solicitar esta alteração ou informação ao hospital de origem ou pedir parecer à URGIC para providenciar a execução dos meios complementares de diagnóstico, nos termos do n.º 104 do Regulamento aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro.\n\n6 - O hospital de origem dispõe de 15 dias úteis após a solicitação para juntar ao processo a informação solicitada ou para contestar a pretensão.\n\n7 - No caso da contestação prevista no número anterior, o hospital de destino pode:\n\na) Efetuar os exames que considere necessários, sem encargos para o hospital de origem; ou\n\nb) Devolver o processo e o utente.\n\n8 - Ultrapassado o prazo a que se refere o n.º 6 e na ausência de resposta por parte do hospital de origem, o hospital de destino solicita autorização à URGIC para reformular a proposta ou realiza os meios complementares de diagnóstico e consultas necessárias à correta avaliação da proposta, assim como os necessários à realização da cirurgia com segurança.\n\n9 - Se o prazo referido no n.º 6 não puder ser respeitado por facto imputável ao utente, nomeadamente pela não comparência à realização dos meios complementares de diagnóstico ou consultas agendadas para o efeito, suspende-se a sua contagem até que o utente compareça à realização dos atos agendados.\n\n10 - Para efeitos do n.º 8, o hospital de destino deve faturar os atos praticados ao hospital de origem em 65 % do valor respetivo constante da tabela de preços aprovada em anexo à Portaria n.º 132/2009, de 30 de janeiro, sem prejuízo da obtenção da prévia autorização das URGIC, de acordo com o estabelecido na alínea i) do n.º 52 do Regulamento do SIGIC, aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro, no caso de se tratar de uma entidade convencionada.\n\n11 - Para efeitos do disposto no n.º 5, não são considerados os meios complementares inerentes à rotina pré-operatória.\n\n12 - Para efeitos do disposto no número anterior, são considerados os seguintes meios complementares inerentes à rotina pré-operatória:\n\na) Radiografia convencional do tórax;\n\nb) Hemograma;\n\nc) Glicemia;\n\nd) Uremia;\n\ne) Creatininémia;\n\nf) Tempo de protrombina; tempo parcial de tromboplastina (ativado);\n\ng) Ionograma;\n\nh) Proteinograma;\n\ni) TGO (ASAT - aspartato aminotransférase);\n\nj) TGP (ALAT - alanina aminotransférase);\n\nk) Gama glutamil transpeptidase;\n\nl) Urina tipo ii;\n\nm) Eletrocardiograma."
+  },
+  "1fa805c22cce9fda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Faturação de consultas e meios complementares de diagnóstico sem intervenção cirúrgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Faturação de consultas e meios complementares de diagnóstico sem intervenção cirúrgica\n\n1 - As consultas e meios complementares de diagnóstico realizados sem que se tenha verificado a intervenção cirúrgica programada, por motivo não imputável à unidade prestadora, são faturados à ARS respetiva, em 65 % do respetivo valor constante nas tabelas de preços aprovadas em anexo à Portaria n.º 132/2009, de 30 de janeiro.\n\n2 - São considerados motivos não imputáveis à unidade prestadora, para efeitos do número anterior, a desistência e recusa do utente, previstas nos termos do Regulamento do SIGIC, aprovado em anexo à Portaria n.º 45/2008, de 15 de janeiro."
+  },
+  "69f36bda42786851": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Tabela de preços a praticar para a produção adicional realizada no âmbito do SIGIC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Tabela de preços a praticar para a produção adicional realizada no âmbito do SIGIC\n\nPreço base - (euro) 1326,49\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)"
+  },
+  "55a20d246df9b8bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Procedimentos que permitem o acréscimo relativamente aos preços previstos no anexo ii",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Procedimentos que permitem o acréscimo relativamente aos preços previstos no anexo ii\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17100/0507605092.pdf)"
+  },
+  "27dc62cab8993bca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º-B — Situações excecionais e de comprovada urgência médico-cirúrgica",
+   "in_force_from": "2016-02-13",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/portaria/18-2016-73462826), publicado em 2016-02-08."
+   ],
+   "markdown": "###### Artigo 2.º-B — Situações excecionais e de comprovada urgência médico-cirúrgica\n\n1 - Sem prejuízo do previsto no artigo anterior, e mediante autorização prévia do membro do Governo responsável pela área da saúde, é igualmente aplicável o disposto no Anexo II às equipas que intervêm em situações de comprovada necessidade de assegurar o acesso dos utentes do SNS a cuidados de saúde prestados em tempo útil e de forma adequada, nomeadamente em situações de urgência médico-cirúrgica.\n\n2 - A autorização para que determinada instituição do SNS aplique o referido no número anterior é precedida de proposta fundamentada do seu órgão máximo de gestão, devendo para tal demonstrar a comprovada necessidade de intervenção, evidenciar que a ausência dos profissionais inviabiliza a constituição das equipas necessárias para intervir na situação em causa, esgotadas as possibilidades técnicas e clinicamente possíveis de articulação com outras instituições de saúde e privilegiando a sua efetivação no âmbito de urgências regionais.\n\n3 - Fica o órgão máximo de gestão da instituição do SNS obrigado a remeter trimestralmente ao membro do Governo responsável pela área da saúde um relatório com a identificação e fundamentação das ocorrências a que se referem os números anteriores e, bem assim, a apresentar propostas concretas tendentes a reduzir as situações potenciadoras de recurso ao previsto no presente artigo exceto quando se tratam de urgências regionais estabelecidas superiormente.\n\n> Aditado pelo/a [Portaria n.º 18/2016](https://diariodarepublica.pt/dr/detalhe/portaria/18-2016-73462826), publicado em 2016-02-08."
+  },
+  "1a1545fffd899442": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Preço",
+   "in_force_from": "2016-02-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 260-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/260-b-2015-70095680), publicado em 2015-08-24."
+   ],
+   "markdown": "###### Artigo 4.º — Preço\n\n1 - O preço das prestações de saúde realizadas em produção adicional no âmbito do SIGIC, em hospitais convencionados, protocolados ou extra contrato-programa dos hospitais do SNS, quer em regime de ambulatório quer em internamento, é calculado nos termos do presente Regulamento mediante o sistema de classificação de doentes em GDH previsto na tabela de preços do SNS e consta do anexo ii do presente diploma.\n\n2 - As prestações de saúde de cirurgia programada adicional prevista realizadas pelo hospital do SNS no âmbito do SIGIC são valorizadas de acordo com os critérios definidos em sede de contrato-programa, sendo o preço médio unitário determinado tendo por referência a tabela patente no anexo ii.\n\n3 - O preço a pagar pela atividade referida no n.º 1 tem como valor base de referência (euro) 1326,49, que é multiplicado para cada GDH, por um fator que reflete a complexidade da situação e que se designa por peso relativo, conforme o disposto na col. D do anexo ii, e por um fator que adapta o preço à disponibilidade da oferta e que se designa por fator de equilíbrio, conforme o disposto na col. E do anexo ii do presente Regulamento.\n\n4 - O valor referido no número anterior pode ser parcialmente atribuído a médicos especialistas que integram equipas no âmbito da atividade normal e depende da autorização do membro do Governo responsável pela área da saúde, mediante proposta fundamentada do órgão máximo de gestão da instituição ou serviço do SNS, na qual se demonstra que a carência de tais profissionais inviabiliza a constituição das tais equipas, devem, ainda, fixar a percentagem de valor a atribuir aos profissionais em causa, tendo em conta as regras de repartição previstas no Despacho n.º 24036/2004, de 22 de novembro.\n\n5 - O preço final a pagar por cada GDH é o constante da tabela patente no anexo ii, cols. F e I, consoante se trate de atividade adicional desenvolvida em internamento ou em ambulatório.\n\n> Alterado pelo/a [Portaria n.º 260-B/2015](https://diariodarepublica.pt/dr/detalhe/portaria/260-b-2015-70095680), publicado em 2015-08-24."
+  }
+ }
+}

@@ -1,0 +1,753 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:631400:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a1c3c43824a35df2",
+    "8f3033e43c7eed79",
+    "df81bbfa79e19a58",
+    "0215d5e217ba50a1",
+    "040463b83af0028d",
+    "34f174418561c906",
+    "36ad91070668102e",
+    "7605f0cb611bf7ce",
+    "5992bd0682c4f35a",
+    "3c7714a2a1db4493",
+    "29c4136d85243ca4",
+    "0a61532c9e9058b7",
+    "75379d30f0a88feb",
+    "2cf865658f5d6cbb",
+    "0695a80a851da00c",
+    "ca3469f64c9812d2",
+    "4737cd97f93f937b",
+    "2fa0eb6b2dbc49c9",
+    "3c22ea9526df4502",
+    "1c259298d2dd6f91",
+    "9e5dbdb236f91488",
+    "3497a555115b73e9",
+    "7b736d78bfecbfe5",
+    "0c6c9e83cacd1a05",
+    "7ec01533b125df67",
+    "f965fe3779eacd39",
+    "9db19442affbbba1",
+    "43b7d8facf0a9b16",
+    "c0e75cd5de087667",
+    "3daf8d1e014b9bc8",
+    "46fe9402d045107c",
+    "ba55eaeed12086a6",
+    "f53c0044b347b3b7",
+    "384b4d81dd68d939",
+    "ceb79ddd2ba69445"
+   ]
+  },
+  {
+   "date": "2003-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:407488:por",
+     "title": "Decreto-Lei n.º 53/74",
+     "published": "1974-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/53-1974-407488"
+    },
+    {
+     "id": "pt:dre:407488:por",
+     "title": "Decreto-Lei n.º 53/74",
+     "published": "1974-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/53-1974-407488"
+    },
+    {
+     "id": "pt:dre:662721:por",
+     "title": "Decreto-Lei n.º 89/87",
+     "published": "1987-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/89-1987-662721"
+    },
+    {
+     "id": "pt:dre:553431:por",
+     "title": "Lei n.º 16/2003",
+     "published": "2003-06-04",
+     "dre_path": "/dr/detalhe/lei/16-2003-553431"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 13.º",
+    "Adita Artigo 36.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Adita Artigo 35.º",
+    "Adita Artigo 37.º",
+    "Adita Artigo 38.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "a1c3c43824a35df2",
+    "0b61b3446f4d8c62",
+    "26a3ea27462460b5",
+    "fa95735073135869",
+    "e609b3643f9e7cf3",
+    "cec4e1282f072c70",
+    "2a3dd1ab6b2f2067",
+    "2e4029f41e2ec2f5",
+    "1c7777794f8ad4cc",
+    "e65297df12c7aaca",
+    "52454ea872451cf2",
+    "19fa8fb6cb6d4b19",
+    "77d8c324f8f93962",
+    "578955a5686fc221",
+    "b1263c880a586b92",
+    "dd584496ff9dfe1a",
+    "14267dbe0a2122a0",
+    "37683c0557bd9714",
+    "93b9495adca41699",
+    "85f1ed0546b24e7d",
+    "8c28a69766751f3f",
+    "f09f86f05b858c7b",
+    "d8b98cd40e0147f2",
+    "088d621d7da54503",
+    "7767607a9b4ad448",
+    "177042c6fe992142",
+    "ab8b3a5140f3c72d",
+    "3086b1ad3c62cfa5",
+    "a7f92caa7b8e85a1",
+    "5ed2c19c67970a26",
+    "560cac6109ad1ee8",
+    "7cfafcc887cc2b59",
+    "9a4e0f5d29ffaca8",
+    "76254ea766665aaa",
+    "516f6b87ace0fc18",
+    "0efe55925ab8839d",
+    "175f426ab1c8fb64",
+    "797ef136d67b69ee",
+    "adfd87640b175943"
+   ]
+  }
+ ],
+ "fragments": {
+  "a1c3c43824a35df2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Novembro\n\n1. Com o presente diploma pretende o Governo rever, actualizar e unificar o regime jurídico dos terrenos incluídos no que se convencionou chamar o domínio público hídrico.\n\nImpunha-se, com efeito, proceder a tal revisão, pois o direito aplicável a uma matéria tão vasta e complexa como esta encontrava-se muito antiquado e muito disperso, não satisfazendo por isso as necessidades actuais.\n\nMuito antiquado: na verdade, grande parte das disposições até agora vigentes datavam de 1892, ano em que foi publicado o Regulamento dos Serviços Hidráulicos, que regulou o assunto segundo as concepções da época, e vários outros preceitos agora substituídos, embora mais recentes, vinham já dos regulamentos marítimos de 1919 ou das reformas de 1926.\n\nE muito disperso: realmente, o regime aplicável aos terrenos do domínio público hídrico constituía, nos últimos tempos, uma autêntica manta de retalhos, daí advindo todas as indesejáveis consequências que se verificam em circunstâncias semelhantes e, nomeadamente, a perturbação da certeza do direito e a incoerência das soluções adoptadas nos diferentes diplomas e nas várias épocas.\n\n2. Refere-se o presente diploma ao domínio público hídrico do continente e das ilhas adjacentes, mas não visa regular o regime das águas públicas que o compõem, antes pretende estabelecer apenas o regime dos terrenos públicos conexos com tais águas, ou sejam, na terminologia adoptada, os leitos, as margens e as zonas adjacentes.\n\nHouve a preocupação de definir, com o possível rigor, esses conceitos, de traçar, com maior precisão, a extensão territorial das três realidades que se reportam e, enfim, de fixar por forma expressa o estatuto jurídico dos terrenos incluídos em cada uma dessas categorias.\n\nQuanto aos leitos e às margens, foram acolhidas as noções tradicionais, embora se tenha aproveitado a ocasião para resolver alguns problemas suscitados perante fórmulas menos explícitas, para eliminar certas lacunas de regulamentação em pontos relativamente importantes e, ainda, para aumentar de 5 m para 10 m, por motivos imperiosos de interesse púbico e também para defesa dos proprietários confinantes, a largura da margem das águas não navegáveis nem flutuáveis.\n\nMas o que mais importa sublinhar é a fixação em 50 m da largura da margem das águas do mar e das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias. Resolveu-se, assim, eliminar as dúvidas de interpretação que as disposições até agora vigentes consentiam, acolhendo a solução que melhor salvaguarda os interesses do Estado e que corresponde, aliás, ao entendimento que sempre tem sido sustentado pela nossa administração dominial.\n\nQuanto às zonas adjacentes, trata-se de uma figura nova, caracterizada pela sujeição a determinadas restrições de utilidade pública dos terrenos situados para além das margens, mas em posição tal que tenham de ser considerados como terrenos ameaçados pelo mar ou como terrenos ameaçados pelas cheias (dos rios). Pensa-se que, assim, pelo contrôle das edificações a erguer em tais zonas, confiado aos serviços hidráulicos, tècnicamente apetrechados para o efeito, será possível actuar de modo mais eficaz na prevenção de graves acidentes como os que têm vitimado, por motivo do avanço das águas do mar ou de cheias extraordinárias dos rios, os habitantes de zonas ameaçadas que aí construíram as suas casas sem que o Estado pudesse legalmente intervir para os defender contra a sua própria imprevidência.\n\n3. Os preceitos que definem o estatuto público ou privado dos terrenos que integram os leitos, margens e zonas adjacentes das águas públicas não alteram, no essencial, o regime vigente. Mas entendeu-se que havia vantagem em adoptar critérios explícitos que permitam resolver as questões suscitadas pelo recuo e pelo avanço das águas.\n\nJá quanto ao reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos se tocou num aspecto mais relevante, que, sem envolver modificação profunda do direito vigente, beneficia contudo num ponto importante, aliás com inteira justiça, os proprietários particulares: quando se mostre terem ficado destruídos por causas naturais os documentos anteriores a 1864 ou a 1868 existentes em arquivos ou registos públicos, presumir-se-ão particulares os terrenos em relação aos quais se prove que, antes de 1 de Dezembro de 1892, eram objecto de propriedade ou posse privadas. Aliviando deste modo o peso do ónus da prova imposto aos interessados, vai-se ao encontro da opinião que se tem generalizado no seio da Comissão do Domínio Público Marítimo, dada a grande dificuldade, em certos casos, de encontrar documentos que inequìvocamente fundamentem as pretensões formuladas à administração dominial.\n\nNão pode, no entanto, esquecer-se que esta orientação, baseada em princípios gerais firmemente assentes na nossa ordem jurídica - o princípio da não retroactividade das leis e o princípio do respeito dos direitos adquiridos -, não deverá prejudicar, na prática, os interesses gerais da colectividade, em razão dos quais, precisamente, se foi criando e se mantém na titularidade do Estado o domínio público hídrico. É por isso que se institui, pela primeira vez em termos genéricos, um conjunto de providências tendentes a permitir ao Estado fazer ingressar no seu domínio público as parcelas privadas dos leitos ou margens públicos.\n\nTambém se dispõe, por forma mais completa e mais clara, acerca das operações de delimitação e do julgamento das questões de propriedade ou posse.\n\n4. No que diz respeito à matéria das servidões administrativas a que estão sujeitos os leitos e as margens, ou suas parcelas, quando sejam objecto da propriedade privada, o presente diploma limita-se a reafirmar ou, quando muito, a alargar determinações já contidas noutros preceitos que se não afigurou oportuno revogar ou desmembrar. Ainda assim, sempre se esclareceram vários pontos duvidosos e se preencheram algumas lacunas, sobretudo em matéria de expropriações.\n\nQuanto às restrições de utilidade pública impostas aos proprietários confinantes com as margens das águas do mar ou dos rios, importa salientar a já mencionada inovação das zonas adjacentes.\n\nO respectivo regime consiste fundamentalmente em assegurar, aí, a intervenção dos serviços hidráulicos no planeamento urbanístico ou no licenciamento da edificação, de modo que possam ser tomados em conta os perigos emergentes da proximidade das águas e da probabilidade da sua acção devastadora. Este regime só é aplicável, todavia, nas zonas que sejam classificadas como ameaçadas pelo mar ou pelas cheias por decreto do Ministro das Obras Públicas, depois de ouvidas, conforme os casos, as demais entidades interessadas, designadamente o Ministério da Marinha e a Secretaria de Estado da Informação e Turismo.\n\n5. A última parte do presente diploma compendia e sistematiza os traços essenciais do regime jurídico dos usos privativos do domínio público, de acordo com os princípios, com a nossa tradição legislativa e com as necessidades do momento, e à luz das mais recentes concepções formuladas no direito comparado, na doutrina e na jurisprudência.\n\nRevestem-se de especial importância os preceitos que estabelecem em novos moldes a distinção entre licenças e concessões de uso privativo, o elenco dos poderes e deveres dos respectivos titulares, os termos em que são possíveis as utilizações provisórias, o regime das taxas aplicáveis, as regras sobre transmissões e hipotecas, os sistemas de cessação do uso privativo e os meios de defesa da Administração e dos utentes privativos contra ocupações abusivas e outras atitudes ilícitas.\n\nNão deve, contudo, deixar de salientar-se em especial, de entre todos estes aspectos, aquele que se afigura mais relevante e de maior alcance - a substituição de um regime de estabilidade ao regime puramente precário em que os particulares efectuavam, até aqui, os seus investimentos em iniciativas de utilidade pública nos terrenos do domínio público hídrico.\n\nSe realmente certo uso privativo é requerido para um fim de utilidade pública - aproveitamento de águas públicas para abastecimento de povoações, ou edificação de um hotel com interesse para o turismo, por exemplo -, não faz sentido, nem é justo, submetê-lo ao regime da licença precária, revogável a todo o tempo e sem que o interessado tenha direito a qualquer indemnização, como vinha sucedendo até hoje.\n\nDeterminou-se, portanto, que se adoptará antes o regime da concessão - o que acarreta, nomeadamente, em caso de rescisão, o dever de indemnizar o custo das obras e das instalações fixas que ainda não possa estar amortizado - sempre que se trate de usos privativos que exijam a realização de investimentos em instalações indesmontáveis e sejam considerados de utilidade pública.\n\nCrê-se poder, com isto, instaurar uma nova fase na exploração das riquezas contidas no domínio hídrico nacional, atraindo mais intensamente os capitais e impondo critérios mais justos nas suas relações com o Estado.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nI\n\nPrincípios gerais"
+  },
+  "8f3033e43c7eed79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Âmbito de aplicação)\n\nOs leitos das águas do mar, correntes de água, lagos e lagoas, bem como as respectivas margens e zonas adjacentes, ficam sujeitos ao preceituado no presente diploma em tudo quanto não seja regulado por leis especiais ou convenções internacionais."
+  },
+  "df81bbfa79e19a58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Noção de leito; seus limites)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Noção de leito; seus limites)\n\n1. Entende-se por leito o terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. No leito compreendem-se os mouchões, lodeiros e areais nele formados por deposição aluvial.\n\n2. O leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais. Essa linha é definida, para cada local, em função do espraiamento das vagas em condições médias de agitação do mar, no primeiro caso, e em condições de cheias médias, no segundo.\n\n3. O leito das restantes águas é limitado pela linha que corresponder à estrema dos terrenos que as águas cobrem em condições de cheias médias, sem transbordar para o solo natural, habitualmente enxuto. Essa linha é definida, conforme os casos, pela aresta ou crista superior do taludo marginal ou pelo alinhamento da aresta ou crista do taludo molhado das motas, cômoros, valados, tapadas ou muros marginais."
+  },
+  "0215d5e217ba50a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Noção de margem; sua largura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Noção de margem; sua largura)\n\n1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.\n\n2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.\n\n3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.\n\n4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\n5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.\n\n6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil."
+  },
+  "040463b83af0028d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Noção de zona adjacente; sua largura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Noção de zona adjacente; sua largura)\n\n1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.\n\n2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma"
+  },
+  "34f174418561c906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Condição jurídica dos leitos, margens e zonas adjacentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Condição jurídica dos leitos, margens e zonas adjacentes)\n\n1. Consideram-se do domínio público do Estado os leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis, sempre que tais leitos e margens lhe pertençam, e bem assim os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos públicos do Estado.\n\n2. Consideram-se objecto de propriedade privada, sujeitos a servidões administrativas, os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos particulares, bem como as parcelas dos leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis que forem objecto de desafectação ou reconhecidas como privadas nos termos deste diploma.\n\n3. Consideram-se objecto de propriedade privada, sujeitas a restrições de utilidade pública, as zonas adjacentes.\n\n4. Consideram-se objecto de propriedade privada, nos arquipélagos da Madeira e dos Açores, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas."
+  },
+  "36ad91070668102e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Recuo das águas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Recuo das águas)\n\nOs leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistados, não acrescem às parcelas privadas da margem que porventura lhes sejam contíguas, continuando integrados no domínio público, se não excederem as larguras fixadas no artigo 3.º, e entrando automàticamente no domínio privado do Estado, no caso contrário."
+  },
+  "7605f0cb611bf7ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Avanço das águas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Avanço das águas)\n\n1. Quando haja parcelas privadas contíguas a leitos dominiais, as porções de terreno corroídas lenta e sucessivamente pelas águas consideram-se automàticamente integradas no domínio público, sem que por isso haja lugar a qualquer indemnização.\n\n2. Se as parcelas privadas contíguas a leitos dominiais forem invadidas pelas águas que nelas permaneçam sem que haja corrosão dos terrenos, os respectivos proprietários conservam o seu direito de propriedade, mas o Estado pode expropriar essas parcelas."
+  },
+  "5992bd0682c4f35a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos)\n\n1. As pessoas que pretendam obter o reconhecimento da sua propriedade sobre parcelas de leitos ou margens das águas do mar ou de quaisquer águas navegáveis ou flutuáveis devem provar documentalmente que tais terrenos eram, por título legítimo, objecto de propriedade particular ou comum antes de 31 de Dezembro de 1864 ou, se se tratar de arribas alcantiladas, antes de 22 de Março de 1868\n\n2. Na falta de documentos susceptíveis de comprovar a propriedade dos terrenos nos termos do n.º 1 deste artigo, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, naquelas datas, estavam na posse em nome próprio de particulares ou na fruição conjunta de indivíduos compreendidos em certa circunscrição administrativa.\n\n3. Quando se mostre que os documentos anteriores a 1864 ou a 1868, conforme os casos, se tornaram ilegíveis ou foram destruídos por incêndio ou facto semelhante ocorrido na conservatória ou registo competente, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, antes de 1 de Dezembro de 1892, eram objecto de propriedade ou posse privadas.\n\n4. Não ficam sujeitos ao regime de prova estabelecido nos números anteriores os terrenos que, nos termos da lei, hajam sido objecto de um acto de desafectação."
+  },
+  "3c7714a2a1db4493": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Constituição da propriedade pública sobre parcelas privadas de leitos ou margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Constituição da propriedade pública sobre parcelas privadas de leitos ou margens públicos)\n\n1. Em caso de alienação, voluntária ou forçada, por acto entre vivos, de quaisquer parcelas privadas de leitos ou margens públicos, o Estado goza do direito de preferência, nos termos dos artigos 416.º a 418.º e 1410.º do Código Civil, podendo a preferência exercer-se, sendo caso disso, apenas sobre a fracção do prédio que, nos termos dos artigos 2.º e 3.º deste diploma, se integre no leito ou na margem.\n\n2. O Estado pode proceder, nos termos da lei geral, a expropriação por utilidade pública de quaisquer parcelas privadas de leitos ou margens públicos sempre que isso se mostre necessário para submeter ao regime da dominialidade pública todas as parcelas privadas existentes em certa zona.\n\n3. Os terrenos adquiridos pelo Estado de harmonia com o disposto neste artigo ficam automàticamente integrados no seu domínio público."
+  },
+  "29c4136d85243ca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Delimitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Delimitações)\n\n1. A delimitação dos leitos e margens dominiais confinantes com terrenos de outra natureza compete ao Estado, que a ela procederá oficiosamente, quando necessário, ou a requerimento dos interessados.\n\n2. Das comissões de delimitação farão sempre parte representantes dos proprietários dos terrenos confinantes com os leitos ou margens dominiais a delimitar.\n\n3. Sempre que às comissões de delimitação se depararem questões de índole jurídica que elas não estejam em condições de decidir por si, poderão os respectivos presidentes requerer a colaboração ou solicitar o parecer do delegado do procurador da República da comarca onde se situem os terrenos a delimitar.\n\n4. A delimitação, uma vez homologada pelos Ministros da Justiça e da Marinha, será publicada no Diário do Governo."
+  },
+  "0a61532c9e9058b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Questões de propriedade ou posse)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Questões de propriedade ou posse)\n\n1. A delimitação a que se proceder por via administrativa não preclude a competência dos tribunais comuns para decidir da propriedade ou posse dos leitos e margens, ou suas parcelas.\n\n2. Se, porém, o interessado pretender seguir o acto de delimitação de quaisquer vícios próprios desta que se não traduzam numa questão de propriedade ou posse, deve interpor o respectivo recurso contencioso de anulação.\n\nII\n\nServidões administrativas e restrições de utilidade pública"
+  },
+  "75379d30f0a88feb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)\n\n1. Todas as parcelas privadas de leitos ou margens públicos estão sujeitas às servidões estabelecidas por lei e, nomeadamente, a uma servidão de uso público no interesse geral do acesso às águas e da passagem ao longo das águas, da pesca, da navegação ou flutuação, quando se trate de águas navegáveis ou flutuáveis, e ainda da fiscalização e polícia das águas pelas autoridades competentes.\n\n2. Nas parcelas privadas de leitos ou margens públicos, bem como no respectivo subsolo e no espaço aéreo correspondente, não é permitida a execução de quaisquer obras, permanentes ou temporárias, sem licença do Ministério das Obras Públicas, pela Direcção-Geral dos Serviços Hidráulicos.\n\n3. Os proprietários de parcelas privadas de leitos ou margens públicos estão sujeitos a todas as obrigações que a lei estabelece no que respeita à execução de obras hidráulicas, nomeadamente de correcção, regularização, conservação, desobstrução e limpeza.\n\n4. Se da execução pelo Estado de qualquer das obras referidas no n.º 3 deste artigo resultarem prejuízos que excedam os encargos resultantes das obrigações legais dos proprietários, o Estado indemnizá-los-á. Se se tornar necessária, para a execução dessas obras, qualquer porção de terreno particular, ainda que situada para além das margens, o Estado poderá expropriá-la."
+  },
+  "2cf865658f5d6cbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Zonas ameaçadas pelo mar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Zonas ameaçadas pelo mar)\n\n1. Sempre que se preveja tècnicamente o avanço das águas do mar sobre terrenos particulares situados para além da margem, pode o Estado classificar a área em causa como zona ameaçada pelo mar.\n\n2. A classificação de uma área como zona ameaçada pelo mar será feita por decreto emanado do Ministério das Obras Públicas, ouvido o Ministério da Marinha e, tratando-se de zonas com interesse turístico, a Secretaria de Estado da Informação e Turismo.\n\n3. Uma vez classificada certa área como zona ameaçada pelo mar, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º"
+  },
+  "0695a80a851da00c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Zonas ameaçadas pelas cheias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Zonas ameaçadas pelas cheias)\n\n1. O Estado pode classificar como zona ameaçada pelas cheias a área contígua à margem de um rio que se estenda até à linha alcançada pela maior cheia que se produza no período de um século.\n\n2. A classificação de uma área como zona ameaçada pelas cheias será feita por decreto emanado do Ministério das Obras Públicas, ouvido o Ministério da Marinha, nas áreas sujeitas à jurisdição das autoridades marítimas.\n\n3. Uma vez classificada certa área como zona ameaçada pelas cheias, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º"
+  },
+  "ca3469f64c9812d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Regime das zonas adjacentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Regime das zonas adjacentes)\n\n1. A aprovação de planos e anteplanos de urbanização e expansão, bem como a celebração de contratos de urbanização, relativos a áreas abrangidas, no todo ou em parte, numa zona adjacente, depende de parecer da Direcção-Geral dos Serviços Hidráulicos.\n\n2. O licenciamento municipal de quaisquer operações de loteamento urbano relativas às áreas referidas no n.º 1 deste artigo depende de parecer favorável da Direcção-Geral dos Serviços Hidráulicos, cabendo ao Ministro das Obras Públicas o poder de decidir no caso de a câmara municipal competente não se conformar com aquele parecer.\n\n3. Nas zonas adjacentes em que não haja planos ou anteplanos de urbanização e expansão, nem contratos de urbanização, nem planos de loteamento urbano, a realização de quaisquer obras ou edificações só pode ter início mediante licença da Direcção-Geral dos Serviços Hidráulicos e desde que se executem as obras hidráulicas que ela eventualmente imponha."
+  },
+  "4737cd97f93f937b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Disposições complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Disposições complementares)\n\n1. Quando o Estado efectuar expropriações nos termos deste diploma ou pagar indemnizações aos proprietários prejudicados por obras hidráulicas de qualquer natureza, o auto de expropriação ou indemnização será enviado à repartição de finanças competente, para que se proceda, se for caso disso, à correcção do valor matricial do prédio afectado.\n\n2. A competência conferida ao Ministério das Obras Públicas no tocante às obras de correcção, regularização, conservação, desobstrução e limpeza de leitos e margens é transferível para as câmaras municipais ou para as administrações portuárias e pode ser exercida por aquele ou por estas em colaboração com quaisquer entidades, públicas ou privadas, nas condições técnicas e financeiras que forem definidas pelo Governo.\n\nIII\n\nUsos privativos"
+  },
+  "2fa0eb6b2dbc49c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Permissão de usos privativos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Permissão de usos privativos)\n\nCom o consentimento das entidades competentes, podem parcelas determinadas dos terrenos públicos referidos neste diploma ser destinadas a usos privativos."
+  },
+  "3c22ea9526df4502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Licenças e concessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Licenças e concessões)\n\n1. O direito de uso privativo de qualquer parcela dominial só pode ser atribuído mediante licença ou concessão.\n\n2. Serão objecto de contrato administrativo de concessão os usos privativos que exijam a realização de investimentos em instalações fixas e indesmontáveis e sejam consideradas de utilidade pública; serão objecto de licença, outorgada a título precário, todos os restantes usos privativos.\n\n3. Não se consideram precárias as licenças conferidas para a construção ou para obras em terrenos ou prédios particulares situados na área de jurisdição das autoridades marítimas, hidráulicas ou portuárias."
+  },
+  "1c259298d2dd6f91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Usos de utilidade pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Usos de utilidade pública)\n\nSão de utilidade pública, além dos que como tal forem declarados pelo Conselho de Ministros, os usos privativos realizados para algum dos seguintes fins:\n\na) Aproveitamento de águas públicas por pessoas colectivas de direito público ou de utilidade pública administrativa e por empresas de interesse colectivo;\n\nb) Instalação de serviços de apoio à navegação marítima ou fluvial;\n\nc) Instalação de postos para venda de combustíveis ou de estações de serviço para apoio à circulação rodoviária;\n\nd) Aproveitamento de salinas, sapais e terrenos semelhantes para explorações agrícolas, salineiras ou outras actividades económicas análogas;\n\ne) Edificação de estabelecimentos hoteleiros ou similares declarados de interesse para o turismo e de conjuntos turísticos como tais qualificados nos termos da legislação aplicável."
+  },
+  "9e5dbdb236f91488": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Prazos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Prazos)\n\nAs licenças e concessões podem ser outorgadas pelos prazos máximos de, respectivamente, cinco e trinta anos."
+  },
+  "3497a555115b73e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Conteúdo do direito de uso privativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Conteúdo do direito de uso privativo)\n\n1. As licenças e concessões de uso privativo, enquanto se mantiverem, conferem aos seus titulares o direito de utilização exclusiva, para os fins e com os limites consignados no respectivo título constitutivo, das parcelas dominiais a que respeitam.\n\n2. Se a utilização permitida envolver a realização de obras ou alterações, o direito do uso privativo abrange poderes de construção, transformação ou extracção, conforme os casos, entendendo-se que tanto as construções efectuadas como as instalações desmontáveis se mantêm na propriedade do titular da licença ou da concessão até expirar o respectivo prazo. Uma vez expirado o prazo, aplica-se o disposto no artigo 26.º\n\n3. Cabe à autoridade administrativa competente entregar ao titular do direito de uso privativo o terreno dominial, facultando-lhe o início da utilização consentida."
+  },
+  "7b736d78bfecbfe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Realização de obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Realização de obras)\n\n1. Sempre que o uso privativo implique a realização do obras pelo interessado, cabe a este submeter o respectivo projecto à aprovação da entidade competente, devendo executar as obras dentro dos prazos que lhe forem fixados e de harmonia com o projecto aprovado e com as leis e regulamentos em vigor.\n\n2. A execução das obras fica sujeita à fiscalização das entidades competentes, cujos agentes terão livre acesso ao local dos trabalhos.\n\n3. Terminadas as obras deve o interessado remover todo o entulho e materiais daquelas provenientes para local onde não causem prejuízos de qualquer espécie.\n\n4. Sem prejuízo da aplicação das outras sanções que no caso couberem, a inobservância das disposições deste artigo será punida com a multa estipulada no contrato ou dará lugar, se forem realizadas obras sem projecto aprovado ou com desrespeito do projecto aprovado, à sua demolição compulsiva, total ou parcial, por conta do contraventor.\n\n5. Cabe ao interessado a responsabilidade por todos os prejuízos que causar com a execução das obras."
+  },
+  "0c6c9e83cacd1a05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Uso dos bens e sua fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Uso dos bens e sua fiscalização)\n\n1. Os terrenos dominiais que tenham sido objecto de licença ou concessão de uso privativo, e bem assim as obras neles executadas, não podem, sem autorização da entidade competente, ser utilizados para fim diferente do que expressamente estiver fixado no título constitutivo.\n\n2. Nas concessões, o respectivo titular tem o dever de proceder à utilização intensiva dos terrenos concedidos e das obras executadas, sem o que a autoridade competente pode aplicar-lhe as multas estipuladas no contrato ou, se for caso disso, rescindir a concessão.\n\n3. Os titulares de licenças e concessões de uso privativo estão sujeitos à fiscalização que as entidades com jurisdição no local entendam dever realizar para vigiar a utilização dada aos bens dominiais e para velar pelo cumprimento das normas aplicáveis e das cláusulas estipuladas."
+  },
+  "7ec01533b125df67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Taxas)\n\n1. Pelo uso privativo de terrenos dominiais é devida uma taxa, a pagar anualmente, salvo estipulação em contrário, calculada de harmonia com as tarifas aprovadas ou, na falta delas, conforme o que em cada caso for fixado pela entidade competente.\n\n2. Quando o direito de uso privativo for atribuído a uma pessoa colectiva de direito público ou a um particular para fins de beneficência ou semelhantes, pode ser concedida a isenção do pagamento da taxa ou a redução desta.\n\n3. Sempre que forem consentidos, a título provisório, usos privativos em terrenos a respeito dos quais esteja em curso um processo de delimitação, as taxas devidas não são imediatamente exigíveis, mas o interessado deve caucionar logo de início o pagamento das respectivas importâncias.\n\n4. Reconhecida a dominialidade de tais terrenos, torna-se exigível, após a publicação do respectivo acto de delimitação, o pagamento das quantias devidas por todo o período de utilização já decorrido. Se não for reconhecida a dominialidade, nada é devido, podendo o interessado proceder ao levantamento da caução."
+  },
+  "f965fe3779eacd39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Transmissão das licenças e concessões; hipoteca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Transmissão das licenças e concessões; hipoteca)\n\n1. Aqueles a quem for consentido o uso privativo de terrenos dominiais não podem, sem autorização da entidade que conferiu a licença ou a concessão, transmitir para outrem os direitos conferidos, nem por qualquer forma fazer-se substituir no seu exercício.\n\n2. O disposto no número anterior é aplicável à transmissão de propriedade das obras efectuadas e das instalações montadas pelo titular da licença ou concessão em terrenos dominiais.\n\n3. Nos casos de sucessão legítima ou legitimária, as licenças e as concessões transmitem-se aos herdeiros, mas a entidade competente pode revogá-las ou rescindi-las se isso lhe convier.\n\n4. As obras e os edifícios construídos em terrenos dominiais não podem ser hipotecados sem autorização da entidade competente.\n\n5. A violação do disposto nos n.os 1, 2 e 4 deste artigo importa a nulidade do acto de transmissão, substituição ou constituição de hipoteca, sem prejuízo das outras sanções que no caso couberem."
+  },
+  "9db19442affbbba1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — (Decurso do prazo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — (Decurso do prazo)\n\n1. Decorrido o prazo da licença ou concessão de uso privativo, as instalações desmontáveis deverão ser removidas do local pelo respectivo proprietário, no prazo que lhe for marcado.\n\n2. Em caso de concessão, as obras executadas e as instalações fixas revertem gratuitamente para o Estado; em caso de licença, devem ser demolidas pelo respectivo titular, salvo se o Estado optar pela reversão ou prorrogar a licença.\n\n3. A entidade competente pode consentir ao titular da concessão a continuação da exploração nos termos que em novo contrato forem estipulados, mediante o arrendamento dos bens que hajam revertido para o Estado."
+  },
+  "43b7d8facf0a9b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — (Não cumprimento das obrigações do utente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — (Não cumprimento das obrigações do utente)\n\n1. A entidade competente pode revogar as licenças a rescindir as concessões de uso privativo, ouvido o interessado, sempre que a este seja imputável o não cumprimento das cláusulas estipuladas no título constitutivo ou das obrigações legais e regulamentos aplicáveis.\n\n2. Quando o não cumprimento não for exclusivamente imputável ao utente privativo, a entidade competente deve, conforme os casos, prorrogar os prazos excedidos ou diminuir ou excluir as multas aplicáveis.\n\n3. Em caso de revogação ou de rescisão determinadas como sanção, é aplicável o disposto nos n.os 1 e 2 do artigo 26.º"
+  },
+  "c0e75cd5de087667": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º — (Extinção de uso privativo por conveniência de interesse público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º — (Extinção de uso privativo por conveniência de interesse público)\n\n1. A entidade competente pode extinguir em qualquer momento, por acto fundamentado, os direitos de uso privativo constituídos mediante licença ou concessão, se os terrenos dominiais forem necessários à utilização pelo público sob a forma de uso comum ou se outro motivo de interesse público assim o exigir.\n\n2. A revogação das licenças não confere ao interessado direito a qualquer indemnização.\n\n3. A rescisão das concessões confere ao interessado direito a uma indemnização equivalente ao custo das obras realizadas e das instalações fixas que ainda não possa estar amortizado, calculada em função do tempo que faltar para terminar o prazo da concessão. A indemnização não poderá, porém, exceder o valor das obras e instalações fixas no momento da rescisão."
+  },
+  "3daf8d1e014b9bc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — (Redução de área)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º — (Redução de área)\n\n1. Quando a área afectada ao uso privativo for reduzida em consequência de quaisquer causas naturais ou por conveniência de interesse público, o particular optará pela redução proporcional da taxa a pagar ou pela renúncia ao seu direito de uso privativo.\n\n2. Se, na segunda das hipóteses previstas no número anterior, o particular optar pela renúncia à concessão, terá direito a uma indemnização calculada nos termos do n.º 3 do artigo 28.º"
+  },
+  "46fe9402d045107c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º — (Utilização abusiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º — (Utilização abusiva)\n\n1. Se for abusivamente ocupada qualquer parcela dominial, ou nela se executarem indevidamente quaisquer obras, a entidade competente intimará o contraventor a desocupar o domínio ou a demolir as obras feitas no prazo que lhe for marcado.\n\n2. Decorrido o prazo fixado sem que a intimação se mostre cumprida, e sem prejuízo da aplicação das penas que no caso couberem ou da efectivação da responsabilidade civil do contraventor pelos danos que causar, a entidade competente assegurará o destino normal da parcela ocupada, designadamente pelo recurso à força pública, ou mandará demolir as obras por conta do contraventor, sendo as despesas cobradas pelo processo de execução fiscal, servindo de título executivo certidão passada pela entidade competente para ordenar a demolição, extraída de livros ou documentos donde conste a importância da despesa e com os demais requisitos exigidos no artigo 156.º do Código de Processo das Contribuições e Impostos.\n\n3. Se, porém, o interessado sustentar que o terreno ocupado lhe pertence, deverá requerer a respectiva delimitação, podendo a entidade competente autorizar provisòriamente a continuidade da utilização privativa, nos termos do n.º 3 do artigo 24.º"
+  },
+  "ba55eaeed12086a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º — (Defesa dos direitos do utente privativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º — (Defesa dos direitos do utente privativo)\n\n1. Sempre que alguma parcela dominial se encontrar afectada a um uso privativo e este for perturbado por ocupação abusiva ou outro meio, pode o titular da respectiva licença ou concessão requerer à entidade competente que tome as providências referidas no artigo 30.º, ou outras que se revelem mais eficazes, para garantia dos direitos que lhe pertencem.\n\n2. O Estado e as demais entidades competentes, ou os respectivos órgãos e agentes, respondem civilmente perante o interessado, nos termos gerais, por todos os danos que para este advierem da falta, insuficiência ou inoportunidade das providências adequadas à garantia dos seus direitos.\n\nIV\n\nDisposições finais e transitórias"
+  },
+  "f53c0044b347b3b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 32.º — (Entidades competentes nos arquipélagos da Madeira e dos Açores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 32.º — (Entidades competentes nos arquipélagos da Madeira e dos Açores)\n\nNas zonas de jurisdição das administrações portuárias e nos distritos autónomos dos arquipélagos da Madeira e dos Açores, em que a Direcção-Geral dos Serviços Hidráulicos não exerça jurisdição, os poderes que neste diploma lhe são conferidos serão exercidos pelas entidades que em cada caso aí a substituam."
+  },
+  "384b4d81dd68d939": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 33.º — (Disposições expressamente revogadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 33.º — (Disposições expressamente revogadas)\n\nFicam expressamente revogados o artigo 261.º do Regulamento dos Serviços Hidráulicos, o artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, o artigo 5.º do [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, e o artigo 1.º do [Decreto-Lei n.º 49215](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49215-1969-214774), de 30 de Agosto de 1969."
+  },
+  "ceb79ddd2ba69445": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 34.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 34.º — (Entrada em vigor)\n\nO presente diploma entra em vigor noventa dias após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo - Rui Alves da Silva Sanches.\n\nPromulgado em 27 de Outubro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "0b61b3446f4d8c62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito de aplicação)\n\nOs leitos das águas do mar, correntes de água, lagos e lagoas, bem como as respectivas margens e zonas adjacentes, ficam sujeitos ao preceituado no presente diploma em tudo quanto não seja regulado por leis especiais ou convenções internacionais."
+  },
+  "26a3ea27462460b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Noção de leito; seus limites)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Noção de leito; seus limites)\n\n1. Entende-se por leito o terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. No leito compreendem-se os mouchões, lodeiros e areais nele formados por deposição aluvial.\n\n2. O leito das águas do mar, bem como das demais águas sujeitas à influência das marés, é limitado pela linha da máxima preia-mar de águas vivas equinociais. Essa linha é definida, para cada local, em função do espraiamento das vagas em condições médias de agitação do mar, no primeiro caso, e em condições de cheias médias, no segundo.\n\n3. O leito das restantes águas é limitado pela linha que corresponder à estrema dos terrenos que as águas cobrem em condições de cheias médias, sem transbordar para o solo natural, habitualmente enxuto. Essa linha é definida, conforme os casos, pela aresta ou crista superior do taludo marginal ou pelo alinhamento da aresta ou crista do taludo molhado das motas, cômoros, valados, tapadas ou muros marginais."
+  },
+  "fa95735073135869": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Noção de margem; sua largura",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+   ],
+   "markdown": "###### Artigo 3.º — Noção de margem; sua largura\n\n1. Entende-se por margem uma faixa de terreno contígua ou sobranceira à linha que limita o leito das águas.\n\n2. A margem das águas do mar, bem como a das águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias, tem a largura de 50 m.\n\n3. A margem das restantes águas navegáveis ou flutuáveis tem a largura de 30 m.\n\n4. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\n5. Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza.\n\n6. A largura da margem conta-se a partir da linha limite do leito. Se, porém, esta linha atingir arribas alcantiladas, a largura da margem será contada a partir da crista do alcantil.\n\n7 - Nas Regiões Autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estenderá até essa via.\n\n> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+  },
+  "e609b3643f9e7cf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Noção de zona adjacente; sua largura",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+   ],
+   "markdown": "###### Artigo 4.º — Noção de zona adjacente; sua largura\n\n1. Entende-se por zona adjacente toda a área contígua à margem que como tal seja classificada por decreto, por se encontrar ameaçada pelo mar ou pelas cheias.\n\n2. As zonas adjacentes estendem-se deste o limite da margem até uma linha convencional definida, para cada caso, no decreto de classificação, nos termos e para os efeitos do presente diploma\n\n3 - Nas Regiões Autónomas, se a linha limite do leito atingir uma estrada regional ou municipal, a zona adjacente estende-se desde o limite do leito até à linha convencional definida nos termos do número anterior.\n\n> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+  },
+  "cec4e1282f072c70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condição jurídica dos leitos, margens e zonas adjacentes",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+   ],
+   "markdown": "###### Artigo 5.º — Condição jurídica dos leitos, margens e zonas adjacentes\n\n1. Consideram-se do domínio público do Estado os leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis, sempre que tais leitos e margens lhe pertençam, e bem assim os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos públicos do Estado.\n\n2. Consideram-se objecto de propriedade privada, sujeitos a servidões administrativas, os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos particulares, bem como as parcelas dos leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis que forem objecto de desafectação ou reconhecidas como privadas nos termos deste diploma.\n\n3. Consideram-se objecto de propriedade privada, sujeitas a restrições de utilidade pública, as zonas adjacentes.\n\n4 - Nas Regiões Autónomas, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas constituem propriedade privada.\n\n> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+  },
+  "2a3dd1ab6b2f2067": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Recuo das águas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Recuo das águas)\n\nOs leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistados, não acrescem às parcelas privadas da margem que porventura lhes sejam contíguas, continuando integrados no domínio público, se não excederem as larguras fixadas no artigo 3.º, e entrando automàticamente no domínio privado do Estado, no caso contrário."
+  },
+  "2e4029f41e2ec2f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Avanço das águas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Avanço das águas)\n\n1. Quando haja parcelas privadas contíguas a leitos dominiais, as porções de terreno corroídas lenta e sucessivamente pelas águas consideram-se automàticamente integradas no domínio público, sem que por isso haja lugar a qualquer indemnização.\n\n2. Se as parcelas privadas contíguas a leitos dominiais forem invadidas pelas águas que nelas permaneçam sem que haja corrosão dos terrenos, os respectivos proprietários conservam o seu direito de propriedade, mas o Estado pode expropriar essas parcelas."
+  },
+  "1c7777794f8ad4cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Reconhecimento da propriedade privada sobre parcelas de leitos ou margens públicos)\n\n1. As pessoas que pretendam obter o reconhecimento da sua propriedade sobre parcelas de leitos ou margens das águas do mar ou de quaisquer águas navegáveis ou flutuáveis devem provar documentalmente que tais terrenos eram, por título legítimo, objecto de propriedade particular ou comum antes de 31 de Dezembro de 1864 ou, se se tratar de arribas alcantiladas, antes de 22 de Março de 1868\n\n2. Na falta de documentos susceptíveis de comprovar a propriedade dos terrenos nos termos do n.º 1 deste artigo, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, naquelas datas, estavam na posse em nome próprio de particulares ou na fruição conjunta de indivíduos compreendidos em certa circunscrição administrativa.\n\n3. Quando se mostre que os documentos anteriores a 1864 ou a 1868, conforme os casos, se tornaram ilegíveis ou foram destruídos por incêndio ou facto semelhante ocorrido na conservatória ou registo competente, presumir-se-ão particulares, sem prejuízo dos direitos de terceiros, os terrenos em relação aos quais se prove que, antes de 1 de Dezembro de 1892, eram objecto de propriedade ou posse privadas.\n\n4. Não ficam sujeitos ao regime de prova estabelecido nos números anteriores os terrenos que, nos termos da lei, hajam sido objecto de um acto de desafectação."
+  },
+  "e65297df12c7aaca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Constituição da propriedade pública sobre parcelas privadas de leitos ou margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Constituição da propriedade pública sobre parcelas privadas de leitos ou margens públicos)\n\n1. Em caso de alienação, voluntária ou forçada, por acto entre vivos, de quaisquer parcelas privadas de leitos ou margens públicos, o Estado goza do direito de preferência, nos termos dos artigos 416.º a 418.º e 1410.º do Código Civil, podendo a preferência exercer-se, sendo caso disso, apenas sobre a fracção do prédio que, nos termos dos artigos 2.º e 3.º deste diploma, se integre no leito ou na margem.\n\n2. O Estado pode proceder, nos termos da lei geral, a expropriação por utilidade pública de quaisquer parcelas privadas de leitos ou margens públicos sempre que isso se mostre necessário para submeter ao regime da dominialidade pública todas as parcelas privadas existentes em certa zona.\n\n3. Os terrenos adquiridos pelo Estado de harmonia com o disposto neste artigo ficam automàticamente integrados no seu domínio público."
+  },
+  "52454ea872451cf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Delimitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Delimitações)\n\n1. A delimitação dos leitos e margens dominiais confinantes com terrenos de outra natureza compete ao Estado, que a ela procederá oficiosamente, quando necessário, ou a requerimento dos interessados.\n\n2. Das comissões de delimitação farão sempre parte representantes dos proprietários dos terrenos confinantes com os leitos ou margens dominiais a delimitar.\n\n3. Sempre que às comissões de delimitação se depararem questões de índole jurídica que elas não estejam em condições de decidir por si, poderão os respectivos presidentes requerer a colaboração ou solicitar o parecer do delegado do procurador da República da comarca onde se situem os terrenos a delimitar.\n\n4. A delimitação, uma vez homologada pelos Ministros da Justiça e da Marinha, será publicada no Diário do Governo."
+  },
+  "19fa8fb6cb6d4b19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Questões de propriedade ou posse)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Questões de propriedade ou posse)\n\n1. A delimitação a que se proceder por via administrativa não preclude a competência dos tribunais comuns para decidir da propriedade ou posse dos leitos e margens, ou suas parcelas.\n\n2. Se, porém, o interessado pretender seguir o acto de delimitação de quaisquer vícios próprios desta que se não traduzam numa questão de propriedade ou posse, deve interpor o respectivo recurso contencioso de anulação.\n\nII\n\nServidões administrativas e restrições de utilidade pública"
+  },
+  "77d8c324f8f93962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)\n\n1. Todas as parcelas privadas de leitos ou margens públicos estão sujeitas às servidões estabelecidas por lei e, nomeadamente, a uma servidão de uso público no interesse geral do acesso às águas e da passagem ao longo das águas, da pesca, da navegação ou flutuação, quando se trate de águas navegáveis ou flutuáveis, e ainda da fiscalização e polícia das águas pelas autoridades competentes.\n\n2. Nas parcelas privadas de leitos ou margens públicos, bem como no respectivo subsolo e no espaço aéreo correspondente, não é permitida a execução de quaisquer obras, permanentes ou temporárias, sem licença do Ministério das Obras Públicas, pela Direcção-Geral dos Serviços Hidráulicos.\n\n3. Os proprietários de parcelas privadas de leitos ou margens públicos estão sujeitos a todas as obrigações que a lei estabelece no que respeita à execução de obras hidráulicas, nomeadamente de correcção, regularização, conservação, desobstrução e limpeza.\n\n4. Se da execução pelo Estado de qualquer das obras referidas no n.º 3 deste artigo resultarem prejuízos que excedam os encargos resultantes das obrigações legais dos proprietários, o Estado indemnizá-los-á. Se se tornar necessária, para a execução dessas obras, qualquer porção de terreno particular, ainda que situada para além das margens, o Estado poderá expropriá-la."
+  },
+  "578955a5686fc221": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Zonas ameaçadas pelo mar",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+   ],
+   "markdown": "###### Artigo 13.º — Zonas ameaçadas pelo mar\n\n1. Sempre que se preveja tècnicamente o avanço das águas do mar sobre terrenos particulares situados para além da margem, pode o Estado classificar a área em causa como zona ameaçada pelo mar.\n\n2. A classificação de uma área como zona ameaçada pelo mar será feita por decreto emanado do Ministério das Obras Públicas, ouvido o Ministério da Marinha e, tratando-se de zonas com interesse turístico, a Secretaria de Estado da Informação e Turismo.\n\n3. Uma vez classificada certa área como zona ameaçada pelo mar, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º\n\n4 - Nas Regiões Autónomas podem ser classificadas como zonas ameaçadas pelo mar as áreas contíguas ao leito, nos termos do n.º 3 do artigo 4.º\n\n> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+  },
+  "b1263c880a586b92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Zonas ameaçadas pelas cheias",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 14.º — Zonas ameaçadas pelas cheias\n\n1 - O Governo pode classificar como zona ameaçada pelas cheias, adiante designada por zona adjacente, a área contígua à margem de um curso de água, que se estende até à linha alcançada pela maior cheia com probabilidade de ocorrência no período de um século (cheia dos 100 anos).\n\n2 - A classificação de uma área como zona adjacente será feita por portaria do Ministro do Plano e da Administração do Território, ouvidas as autoridades marítimas, em relação aos trechos sujeitos à sua jurisdição.\n\n3 - A portaria referida no número anterior conterá em anexo uma planta delimitando a área classificada e definindo dentro desta as áreas de ocupação edificada proibida e ou áreas de ocupação edificada condicionada.\n\n4 - Uma vez classificada certa área como zona adjacente, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º\n\n5 - Poderão ser sujeitas a medidas preventivas, nos termos do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, as áreas que, de acordo com os estudos elaborados, se presumam venham a ser classificadas ao abrigo do presente artigo.\n\n6 - A iniciativa para a criação de zona adjacente poderá pertencer ao Ministro do Plano e da Administração do Território, ouvida a câmara municipal da área respectiva, ou decorrer de proposta desta última.\n\n7 - As acções de fiscalização e a execução de obras de conservação e regularização, a realizar nas zonas adjacentes, podem ser exercidas no regime de colaboração a que se refere o artigo 12.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.\n\n8 - A aprovação de planos ou ante planos de urbanização e de contratos de urbanização, bem como o licenciamento de operações de loteamento urbano ou de quaisquer obras ou edificações, relativos a áreas contíguas a cursos de água que não estejam ainda classificadas como zonas adjacentes, carecem de parecer vinculativo da Direcção-Geral dos Recursos Naturais, quando estejam dentro do limite da maior cheia conhecida ou de uma faixa de 100 m, para cada lado da linha de margem do curso de água, quando se desconheça aquele limite.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "dd584496ff9dfe1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regime das zonas adjacentes",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 15.º — Regime das zonas adjacentes\n\n1 - Nas áreas delimitadas, ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, como zonas de ocupação edificada proibida é interdito:\n\na) Destruir o revestimento vegetal ou alterar o relevo natural, com excepção da prática de culturas tradicionalmente integradas em explorações agrícolas;\n\nb) Instalar vazadouros, lixeiras, parques de sucata ou quaisquer outros depósitos de materiais;\n\nc) Implantar edifícios ou realizar obras susceptíveis de constituir obstrução à livre passagem das águas;\n\nd) Dividir a propriedade rústica em áreas inferiores à unidade mínima de cultura.\n\n2 - Nas áreas referidas no número anterior, a implantação de infra-estruturas indispensáveis ou a realização de obras de correcção hidráulica depende de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.\n\n3 - Podem as áreas classificadas referidas no n.º 1 ser utilizadas para instalação de equipamentos de lazer, desde que não impliquem a construção de edifícios, dependendo de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.\n\n4 - Nas áreas delimitadas como zonas de ocupação edificada condicionada, classificadas ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, só é permitida, mediante parecer favorável da Direcção-Geral dos Recursos Naturais, a instalação de edifícios que constituam complemento indispensável de outros já existentes e devidamente licenciados ou, então, que se encontrem inseridos em planos já aprovados à data da entrada em vigor deste diploma.\n\n5 - As cotas dos pisos inferiores dos edifícios a construir nas áreas referidas no número anterior deverão ser sempre superiores às cotas previstas para a cheia dos 100 anos, devendo este requisito ser expressamente referido no respectivo processo de licenciamento.\n\n6 - São nulos e de nenhum efeito todos os actos ou licenciamentos que desrespeitem o regime referido nos números anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "14267dbe0a2122a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Disposições complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Disposições complementares)\n\n1. Quando o Estado efectuar expropriações nos termos deste diploma ou pagar indemnizações aos proprietários prejudicados por obras hidráulicas de qualquer natureza, o auto de expropriação ou indemnização será enviado à repartição de finanças competente, para que se proceda, se for caso disso, à correcção do valor matricial do prédio afectado.\n\n2. A competência conferida ao Ministério das Obras Públicas no tocante às obras de correcção, regularização, conservação, desobstrução e limpeza de leitos e margens é transferível para as câmaras municipais ou para as administrações portuárias e pode ser exercida por aquele ou por estas em colaboração com quaisquer entidades, públicas ou privadas, nas condições técnicas e financeiras que forem definidas pelo Governo.\n\nIII\n\nUsos privativos"
+  },
+  "37683c0557bd9714": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Permissão de usos privativos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Permissão de usos privativos)\n\nCom o consentimento das entidades competentes, podem parcelas determinadas dos terrenos públicos referidos neste diploma ser destinadas a usos privativos."
+  },
+  "93b9495adca41699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Licenças e concessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Licenças e concessões)\n\n1. O direito de uso privativo de qualquer parcela dominial só pode ser atribuído mediante licença ou concessão.\n\n2. Serão objecto de contrato administrativo de concessão os usos privativos que exijam a realização de investimentos em instalações fixas e indesmontáveis e sejam consideradas de utilidade pública; serão objecto de licença, outorgada a título precário, todos os restantes usos privativos.\n\n3. Não se consideram precárias as licenças conferidas para a construção ou para obras em terrenos ou prédios particulares situados na área de jurisdição das autoridades marítimas, hidráulicas ou portuárias."
+  },
+  "85f1ed0546b24e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Usos de utilidade pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Usos de utilidade pública)\n\nSão de utilidade pública, além dos que como tal forem declarados pelo Conselho de Ministros, os usos privativos realizados para algum dos seguintes fins:\n\na) Aproveitamento de águas públicas por pessoas colectivas de direito público ou de utilidade pública administrativa e por empresas de interesse colectivo;\n\nb) Instalação de serviços de apoio à navegação marítima ou fluvial;\n\nc) Instalação de postos para venda de combustíveis ou de estações de serviço para apoio à circulação rodoviária;\n\nd) Aproveitamento de salinas, sapais e terrenos semelhantes para explorações agrícolas, salineiras ou outras actividades económicas análogas;\n\ne) Edificação de estabelecimentos hoteleiros ou similares declarados de interesse para o turismo e de conjuntos turísticos como tais qualificados nos termos da legislação aplicável."
+  },
+  "8c28a69766751f3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Prazos",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488), publicado em 1974-02-15."
+   ],
+   "markdown": "###### Artigo 20.º — Prazos\n\n1. As licenças e concessões podem ser outorgadas pelos prazos máximos de, respectivamente, cinco e trinta anos.\n\n2. Em casos especiais, devidamente justificados, o Conselho de Ministros pode autorizar a outorga de concessões por prazo superior a trinta anos ou por tempo indeterminado.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488), publicado em 1974-02-15."
+  },
+  "f09f86f05b858c7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Conteúdo do direito de uso privativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Conteúdo do direito de uso privativo)\n\n1. As licenças e concessões de uso privativo, enquanto se mantiverem, conferem aos seus titulares o direito de utilização exclusiva, para os fins e com os limites consignados no respectivo título constitutivo, das parcelas dominiais a que respeitam.\n\n2. Se a utilização permitida envolver a realização de obras ou alterações, o direito do uso privativo abrange poderes de construção, transformação ou extracção, conforme os casos, entendendo-se que tanto as construções efectuadas como as instalações desmontáveis se mantêm na propriedade do titular da licença ou da concessão até expirar o respectivo prazo. Uma vez expirado o prazo, aplica-se o disposto no artigo 26.º\n\n3. Cabe à autoridade administrativa competente entregar ao titular do direito de uso privativo o terreno dominial, facultando-lhe o início da utilização consentida."
+  },
+  "d8b98cd40e0147f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Realização de obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Realização de obras)\n\n1. Sempre que o uso privativo implique a realização do obras pelo interessado, cabe a este submeter o respectivo projecto à aprovação da entidade competente, devendo executar as obras dentro dos prazos que lhe forem fixados e de harmonia com o projecto aprovado e com as leis e regulamentos em vigor.\n\n2. A execução das obras fica sujeita à fiscalização das entidades competentes, cujos agentes terão livre acesso ao local dos trabalhos.\n\n3. Terminadas as obras deve o interessado remover todo o entulho e materiais daquelas provenientes para local onde não causem prejuízos de qualquer espécie.\n\n4. Sem prejuízo da aplicação das outras sanções que no caso couberem, a inobservância das disposições deste artigo será punida com a multa estipulada no contrato ou dará lugar, se forem realizadas obras sem projecto aprovado ou com desrespeito do projecto aprovado, à sua demolição compulsiva, total ou parcial, por conta do contraventor.\n\n5. Cabe ao interessado a responsabilidade por todos os prejuízos que causar com a execução das obras."
+  },
+  "088d621d7da54503": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Uso dos bens e sua fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Uso dos bens e sua fiscalização)\n\n1. Os terrenos dominiais que tenham sido objecto de licença ou concessão de uso privativo, e bem assim as obras neles executadas, não podem, sem autorização da entidade competente, ser utilizados para fim diferente do que expressamente estiver fixado no título constitutivo.\n\n2. Nas concessões, o respectivo titular tem o dever de proceder à utilização intensiva dos terrenos concedidos e das obras executadas, sem o que a autoridade competente pode aplicar-lhe as multas estipuladas no contrato ou, se for caso disso, rescindir a concessão.\n\n3. Os titulares de licenças e concessões de uso privativo estão sujeitos à fiscalização que as entidades com jurisdição no local entendam dever realizar para vigiar a utilização dada aos bens dominiais e para velar pelo cumprimento das normas aplicáveis e das cláusulas estipuladas."
+  },
+  "7767607a9b4ad448": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Taxas)\n\n1. Pelo uso privativo de terrenos dominiais é devida uma taxa, a pagar anualmente, salvo estipulação em contrário, calculada de harmonia com as tarifas aprovadas ou, na falta delas, conforme o que em cada caso for fixado pela entidade competente.\n\n2. Quando o direito de uso privativo for atribuído a uma pessoa colectiva de direito público ou a um particular para fins de beneficência ou semelhantes, pode ser concedida a isenção do pagamento da taxa ou a redução desta.\n\n3. Sempre que forem consentidos, a título provisório, usos privativos em terrenos a respeito dos quais esteja em curso um processo de delimitação, as taxas devidas não são imediatamente exigíveis, mas o interessado deve caucionar logo de início o pagamento das respectivas importâncias.\n\n4. Reconhecida a dominialidade de tais terrenos, torna-se exigível, após a publicação do respectivo acto de delimitação, o pagamento das quantias devidas por todo o período de utilização já decorrido. Se não for reconhecida a dominialidade, nada é devido, podendo o interessado proceder ao levantamento da caução."
+  },
+  "177042c6fe992142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Transmissão das licenças e concessões; hipoteca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Transmissão das licenças e concessões; hipoteca)\n\n1. Aqueles a quem for consentido o uso privativo de terrenos dominiais não podem, sem autorização da entidade que conferiu a licença ou a concessão, transmitir para outrem os direitos conferidos, nem por qualquer forma fazer-se substituir no seu exercício.\n\n2. O disposto no número anterior é aplicável à transmissão de propriedade das obras efectuadas e das instalações montadas pelo titular da licença ou concessão em terrenos dominiais.\n\n3. Nos casos de sucessão legítima ou legitimária, as licenças e as concessões transmitem-se aos herdeiros, mas a entidade competente pode revogá-las ou rescindi-las se isso lhe convier.\n\n4. As obras e os edifícios construídos em terrenos dominiais não podem ser hipotecados sem autorização da entidade competente.\n\n5. A violação do disposto nos n.os 1, 2 e 4 deste artigo importa a nulidade do acto de transmissão, substituição ou constituição de hipoteca, sem prejuízo das outras sanções que no caso couberem."
+  },
+  "ab8b3a5140f3c72d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Decurso do prazo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Decurso do prazo)\n\n1. Decorrido o prazo da licença ou concessão de uso privativo, as instalações desmontáveis deverão ser removidas do local pelo respectivo proprietário, no prazo que lhe for marcado.\n\n2. Em caso de concessão, as obras executadas e as instalações fixas revertem gratuitamente para o Estado; em caso de licença, devem ser demolidas pelo respectivo titular, salvo se o Estado optar pela reversão ou prorrogar a licença.\n\n3. A entidade competente pode consentir ao titular da concessão a continuação da exploração nos termos que em novo contrato forem estipulados, mediante o arrendamento dos bens que hajam revertido para o Estado."
+  },
+  "3086b1ad3c62cfa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Não cumprimento das obrigações do utente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Não cumprimento das obrigações do utente)\n\n1. A entidade competente pode revogar as licenças a rescindir as concessões de uso privativo, ouvido o interessado, sempre que a este seja imputável o não cumprimento das cláusulas estipuladas no título constitutivo ou das obrigações legais e regulamentos aplicáveis.\n\n2. Quando o não cumprimento não for exclusivamente imputável ao utente privativo, a entidade competente deve, conforme os casos, prorrogar os prazos excedidos ou diminuir ou excluir as multas aplicáveis.\n\n3. Em caso de revogação ou de rescisão determinadas como sanção, é aplicável o disposto nos n.os 1 e 2 do artigo 26.º"
+  },
+  "a7f92caa7b8e85a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Extinção de uso privativo por conveniência de interesse público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Extinção de uso privativo por conveniência de interesse público)\n\n1. A entidade competente pode extinguir em qualquer momento, por acto fundamentado, os direitos de uso privativo constituídos mediante licença ou concessão, se os terrenos dominiais forem necessários à utilização pelo público sob a forma de uso comum ou se outro motivo de interesse público assim o exigir.\n\n2. A revogação das licenças não confere ao interessado direito a qualquer indemnização.\n\n3. A rescisão das concessões confere ao interessado direito a uma indemnização equivalente ao custo das obras realizadas e das instalações fixas que ainda não possa estar amortizado, calculada em função do tempo que faltar para terminar o prazo da concessão. A indemnização não poderá, porém, exceder o valor das obras e instalações fixas no momento da rescisão."
+  },
+  "5ed2c19c67970a26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Redução de área)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Redução de área)\n\n1. Quando a área afectada ao uso privativo for reduzida em consequência de quaisquer causas naturais ou por conveniência de interesse público, o particular optará pela redução proporcional da taxa a pagar ou pela renúncia ao seu direito de uso privativo.\n\n2. Se, na segunda das hipóteses previstas no número anterior, o particular optar pela renúncia à concessão, terá direito a uma indemnização calculada nos termos do n.º 3 do artigo 28.º"
+  },
+  "560cac6109ad1ee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Utilização abusiva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Utilização abusiva)\n\n1. Se for abusivamente ocupada qualquer parcela dominial, ou nela se executarem indevidamente quaisquer obras, a entidade competente intimará o contraventor a desocupar o domínio ou a demolir as obras feitas no prazo que lhe for marcado.\n\n2. Decorrido o prazo fixado sem que a intimação se mostre cumprida, e sem prejuízo da aplicação das penas que no caso couberem ou da efectivação da responsabilidade civil do contraventor pelos danos que causar, a entidade competente assegurará o destino normal da parcela ocupada, designadamente pelo recurso à força pública, ou mandará demolir as obras por conta do contraventor, sendo as despesas cobradas pelo processo de execução fiscal, servindo de título executivo certidão passada pela entidade competente para ordenar a demolição, extraída de livros ou documentos donde conste a importância da despesa e com os demais requisitos exigidos no artigo 156.º do Código de Processo das Contribuições e Impostos.\n\n3. Se, porém, o interessado sustentar que o terreno ocupado lhe pertence, deverá requerer a respectiva delimitação, podendo a entidade competente autorizar provisòriamente a continuidade da utilização privativa, nos termos do n.º 3 do artigo 24.º"
+  },
+  "7cfafcc887cc2b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Defesa dos direitos do utente privativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Defesa dos direitos do utente privativo)\n\n1. Sempre que alguma parcela dominial se encontrar afectada a um uso privativo e este for perturbado por ocupação abusiva ou outro meio, pode o titular da respectiva licença ou concessão requerer à entidade competente que tome as providências referidas no artigo 30.º, ou outras que se revelem mais eficazes, para garantia dos direitos que lhe pertencem.\n\n2. O Estado e as demais entidades competentes, ou os respectivos órgãos e agentes, respondem civilmente perante o interessado, nos termos gerais, por todos os danos que para este advierem da falta, insuficiência ou inoportunidade das providências adequadas à garantia dos seus direitos.\n\nIV\n\nDisposições finais e transitórias"
+  },
+  "9a4e0f5d29ffaca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Sujeição a registo",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 32.º — Sujeição a registo\n\nO ónus real resultante da classificação de uma área como zona adjacente, nos termos do artigo 14.º e da alínea c) do n.º 1 do artigo 15.º, é acto sujeito a registo, nos termos e para os efeitos da alínea u) do n.º 1 do artigo 2.º do Código de Registo Predial.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "76254ea766665aaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Embargo e demolição",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 33.º — Embargo e demolição\n\n1 - Tanto a Direcção-Geral do Ordenamento do Território como a Direcção-Geral dos Recursos Naturais são competentes para promover directamente o embargo e demolição de obras ou de outras acções realizadas em violação do disposto nos artigos 4.º, 14.º e 15.º\n\n2 - A entidade embargante intimará o proprietário a demolir as obras feitas ou a repor o terreno no estado anterior à intervenção no prazo que lhe for marcado. Decorrido o prazo sem que a intimação se mostre cumprida, proceder-se-á à demolição ou reposição nos termos do n.º 1, por conta do proprietário, sendo as despesas cobradas pelo processo de execução fiscal, servindo de título executivo certidão passada pela entidade competente para ordenar a demolição, extraída de livros ou documentos donde conste a importância, bem como os demais requisitos exigidos no artigo 156.º do Código de Processo das Contribuições e Impostos.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "516f6b87ace0fc18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Desobediência aos embargos",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 34.º — Desobediência aos embargos\n\n1 - Qualquer empresa ou empresas que prossigam obras ou acções que estejam embargadas, nos termos do artigo anterior, podem, sem prejuízo de outros procedimentos legais, ser impedidas de participar em concursos públicos para fornecimento de bens e serviços ao Estado, por prazo não superior a dois anos, ou ser determinada a perda de benefícios fiscais e financeiros, em termos a definir por despacho conjunto dos Ministros das Finanças e do Plano e da Administração do Território.\n\n2 - As sanções previstas no número anterior serão comunicadas à Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e Industriais de Construção Civil, a qual pode deliberar aplicar acessoriamente a pena de suspensão ou cassação do alvará prevista no [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, e na [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "0efe55925ab8839d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - A violação do disposto nos artigos 14.º e 15.º por parte dos proprietários ou titulares de direitos reais sobre os prédios, seus comissários ou mandatários é punível como contra-ordenação, nos termos do [Decreto-Lei n.º 438/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1982-378313), de 27 de Outubro, cabendo à entidade competente para proceder ao embargo a instrução do processo, o levantamento dos autos e a aplicação das coimas.\n\n2 - O montante das coimas será graduado entre o mínimo de 50000$00 e o máximo de 5000000$00, ou 10000000$00, se houver dolo.\n\n3 - A tentativa e a negligência são sempre puníveis.\n\n> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "175f426ab1c8fb64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Entidades competentes nas Regiões Autónomas",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+   ],
+   "markdown": "###### Artigo 36.º — Entidades competentes nas Regiões Autónomas\n\nNas áreas sob jurisdição portuária e nas Regiões Autónomas as competências conferidas pelo presente diploma são exercidas, respectivamente, pelos departamentos, organismos ou serviços a que legalmente estão atribuídas e pelos departamentos, organismos ou serviços das respectivas administrações regionais autónomas com atribuições correspondentes.\n\n> Aditado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04."
+  },
+  "797ef136d67b69ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Disposições expressamente revogadas",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 37.º — Disposições expressamente revogadas\n\nFicam expressamente revogados o artigo 261.º do Regulamento dos Serviços Hidráulicos, o artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, o artigo 5.º do [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, e o artigo 1.º do [Decreto-Lei n.º 49215](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49215-1969-214774), de 30 de Agosto de 1969.\n\n> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+  },
+  "adfd87640b175943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": "2003-06-09",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26."
+   ],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente diploma entra em vigor noventa dias após a sua publicação.\n\n> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo - Rui Alves da Silva Sanches.\n\nPromulgado em 27 de Outubro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

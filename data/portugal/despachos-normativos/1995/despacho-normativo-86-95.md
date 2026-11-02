@@ -29,10 +29,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-27'
+version_history:
+  file: despacho-normativo-86-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-27'
+    amending: pt:dre:321948:por
+    amending_title: Despacho Normativo n.º 25/99; Despacho Normativo n.º 47/99
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo ANEXO IV::6.º
+    - Altera Artigo ANEXO IV::10.º
+    - Altera Artigo ANEXO III::4.º
+    - Altera Artigo ANEXO III::6.º
+    - Altera Artigo ANEXO III::8.º
+    - Adita Artigo ANEXO III::9.º
+    - Adita Artigo ANEXO III::12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre/pt/html
@@ -58,7 +79,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 25/99; Despacho
+    Normativo n.º 47/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1995/despacho-normativo-86-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,6 +192,10 @@ Pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Me
 b) Regime de Apoio a Entidades de Assistência Técnica, do Sistema de Incentivos a Serviços de Apoio à Indústria;
 
 c) Projectos mobilizadores para o desenvolvimento tecnológico.
+
+4 - São susceptíveis de apoio no âmbito do PRODIBETA os pequenos projectos de modernização empresarial, do Regime de Apoio a PME de Menor Dimensão, localizados nas regiões abrangidas pelo Sistema de Incentivos Regionais (SIR), criado pelo [Decreto-Lei n.º 193/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1994-299446), de 19 de Julho, e pelo Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), criado pelo [Decreto Legislativo Regional n.º 2/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1996-620079), de 13 de Fevereiro.
+
+> Alterado pelo/a [Despacho Normativo n.º 25/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1999-321948), publicado em 1999-05-12.
 
 ###### Artigo 2.º — Entidades beneficiárias
 
@@ -469,7 +495,7 @@ Para efeitos do PRODIBETA, deverá ser observada a seguinte disciplina específi
 
 1 - ...
 
-a) Entidades a que se referem as alíneas a) e e) do artigo 2.º do diploma que aprova o PRODIBETA;
+a) Entidades a que se referem as alíneas a), b) e e) do artigo 2.º do diploma que aprova o PRODIBETA;
 
 b) ...
 
@@ -479,13 +505,15 @@ c) ...
 
 3 - ...
 
+> Alterado pelo/a [Despacho Normativo n.º 47/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748), publicado em 1999-10-22.
+
 ###### Artigo 6.º — [...]
 
 1 - ...
 
 a) ...
 
-b) Enquadrar-se nos objectivos do PEDIP II, em geral, do presente Regime de Apoio, em particular, e no âmbito do PRODIBETA, de acordo com os critérios constantes do anexo A;
+b) Enquadrar-se nos objectivos do PEDIP II em geral, do presente regime de apoio em particular, e no âmbito do PRODIBETA, de acordo com os critérios constantes do anexo G;
 
 c) ...
 
@@ -502,6 +530,8 @@ h) ...
 2 - ...
 
 3 - ...
+
+> Alterado pelo/a [Despacho Normativo n.º 47/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748), publicado em 1999-10-22.
 
 ###### Artigo 8.º — [...]
 
@@ -527,6 +557,8 @@ i) ...
 
 j) ...
 
+k) ...
+
 l) ...
 
 m) ...
@@ -537,8 +569,6 @@ o) ...
 
 p) ...
 
-q) ...
-
 r) ...
 
 2 - Constitui ainda aplicação relevante o fundo de maneio associado ao projecto, limitado a 30% do investimento em activo fixo corpóreo, em projectos inseridos no âmbito da alínea a) do n.º 1 do artigo 2.º
@@ -546,6 +576,58 @@ r) ...
 3 - O activo fixo incorpóreo referente à soma das alíneas m) a p) do n.º 1 não poderá exceder 25% do investimento em capital fixo.
 
 4 - ...
+
+> Alterado pelo/a [Despacho Normativo n.º 47/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748), publicado em 1999-10-22.
+
+###### Artigo 9.º — Incentivos
+
+...
+
+1 - ...
+
+2 - ...
+
+3 - Nos projectos inseridos no âmbito da alínea a) do n.º 1 do artigo 2.º poderá ainda ser objecto de subsídio reembolsável o valor excedente a que se refere a alínea c) do n.º 2 do artigo 12.º
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+> Aditado pelo/a [Despacho Normativo n.º 47/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748), publicado em 1999-10-22.
+
+###### Artigo 12.º — Limites do incentivo
+
+1 - ...
+
+2 - Os limites máximos de incentivo a conceder por empresa, no âmbito e na vigência do Regime de Apoio à Realização de Estratégias Empresariais Integradas, no que respeita a projectos de inovação e internacionalização das estruturas empresariais, são os seguintes:
+
+a) Para empresas com projectos já aprovados no seu âmbito:
+
+400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do subsídio relativo à formação profissional e ao ambiente externo;
+
+800000 contos por empresa, quando o incentivo revista a forma de subsídio reembolsável, salvo o disposto na alínea c) seguinte;
+
+b) Para outras empresas:
+
+250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do subsídio relativo à formação profissional e ao ambiente externo;
+
+500000 contos por empresa, quando o incentivo revista a forma de subsídio reembolsável, salvo o disposto na alínea seguinte;
+
+c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser financiado através de subsídio reembolsável cujos montantes máximos são de, respectivamente, 900000 contos ou 600000 contos por empresa;
+
+d) Para empresas com projectos com investimentos superiores a 1,5 milhões de contos em capital fixo do Regime de Apoio à Realização de Estratégias Empresariais Integradas já aprovados, o incentivo a atribuir não poderá exceder os limites máximos referidos nas alíneas a) e c) e para o seu cálculo deverão ser tidos em consideração os montantes que já lhe foram concedidos, até aos limites previstos na alínea b).
+
+3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.
+
+4 - O montante total do incentivo a conceder, com excepção do que se referir a incentivos no âmbito do Fundo Social Europeu, não poderá exceder dois terços do custo do investimento.
+
+5 - Em projectos de investimento superior a 1,5 milhões de contos em capital fixo poderá ser instituído um processo administrativo negocial similar ao utilizado nos projectos estratégicos de regime contratual, a que se refere a alínea b) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 548/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893).
+
+> Aditado pelo/a [Despacho Normativo n.º 47/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-1999-667748), publicado em 1999-10-22.
 
 ## ANEXO A — Metodologia para determinação da valia industrial
 
@@ -789,7 +871,9 @@ d) ...
 
 a) ...
 
-b) ...
+b) (Não aplicável.)
+
+> Alterado pelo/a [Despacho Normativo n.º 25/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1999-321948), publicado em 1999-05-12.
 
 ###### Artigo 9.º — [...]
 
@@ -813,7 +897,11 @@ c) ...
 
 ###### Artigo 10.º — [...]
 
-Poderão ser majorados em 15% os projectos situados em concelhos profundamente afectados por transformações industriais definidos em despacho conjunto dos Ministros da Indústria e Energia e do Planeamento e da Administração do Território.
+1 - Poderão ser majorados em 15% os projectos situados em concelhos reconhecidos por despacho conjunto dos ministros competentes como profundamente afectados por transformações industriais e ou com taxas de desemprego acima da média nacional durante o período de 1995 a 1997.
+
+2 - Os restantes projectos poderão ser majorados em 5%.
+
+> Alterado pelo/a [Despacho Normativo n.º 25/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1999-321948), publicado em 1999-05-12.
 
 ## ANEXO B — Metodologia para a determinação da valia industrial
 

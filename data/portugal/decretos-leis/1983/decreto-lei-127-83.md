@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-25'
+version_history:
+  file: decreto-lei-127-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-25'
+    amending: pt:dre:416073:por
+    amending_title: Decreto-Lei n.º 261-A/91
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:49:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 261-A/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-127-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,17 +127,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º É criada uma taxa sobre mercadoria pela utilização do porto de Sines, incidindo sobre as ramas de petróleo bruto entradas no porto.
+###### Artigo 1.º
 
-Art. 2.º - 1 - As ramas de petróleo bruto entradas no porto de Sines e destinadas à refinação ficam sujeitas ao pagamento de uma taxa por tonelada métrica, que será fixada através da portaria a que alude o artigo 4.º do presente diploma.
+(Revogado.)
 
-2 - O transhipment de ramas de petróleo bruto ou produtos refinados especiais fica igualmente sujeito ao pagamento de uma taxa sobre mercadoria, a estabelecer pela portaria a que se refere o número anterior, distinguindo entre a operação que utilize as instalações do porto daquela que se efectue ao largo.
+> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.
 
-Art. 3.º - 1 - O produto da cobrança das taxas referidas no artigo 2.º deste diploma constitui receita da Administração do Porto de Sines, que esta entregará, até ao dia 10 do mês seguinte ao da respectiva cobrança, nos cofres do Tesouro, mediante guia de operações de tesouraria e escriturada em conta especial, criada para o efeito.
+###### Artigo 2.º
 
-2 - Através de despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, será fixada a parte do produto da cobrança, depositado em operações de tesouraria, a que se refere o n.º 1 do presente artigo, a entregar ao Gabinete da Área de Sines a fim de habilitar este organismo, no âmbito do seu orçamento privativo, a fazer face aos encargos resultantes dos investimentos portuários, bem como será estabelecida a aplicação da quantia remanescente.
+(Revogado.)
 
-Art. 4.º - 1 - A criação de taxas, bem como as alterações e excepções a considerar e a regulamentação do tarifário da administração do porto de Sines serão objecto de portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Indústria, Energia e Exportação e da Habitação, Obras Públicas e Transportes.
+> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.
+
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.
+
+###### Artigo 4.º
+
+1 - A criação de taxas, bem como as alterações e excepções a considerar e a regulamentação do tarifário da administração do porto de Sines serão objecto de portaria conjunta do Ministro de Estado e das Finanças e do Plano e dos Ministros da Indústria, Energia e Exportação e da Habitação, Obras Públicas e Transportes.
 
 2 - Enquanto não for publicada a portaria referida no número anterior, continuam a ser aplicadas as taxas que têm vigorado no porto de Sines.
 

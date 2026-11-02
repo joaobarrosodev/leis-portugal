@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-05-01'
+version_history:
+  file: decreto-lei-262-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-01'
+    amending: pt:dre:522812:por
+    amending_title: Decreto-Lei n.º 7/2007; Decreto-Lei n.º 31/2010
+    changes:
+    - Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::26.º
+    - Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::6.º
+    - Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::13.º
+    - Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::14.º
+    - Altera Artigo ANEXO — Estatuto dos Serviços Sociais da Guarda Nacional Republicana::15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/262/1999/07/08/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:09:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 7/2007; Decreto-Lei
+    n.º 31/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-262-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -302,6 +321,8 @@ g) Autorizar a admissão de beneficiários e, bem assim, suspender o direito a b
 
 h) Praticar os demais actos de gestão decorrentes da aplicação deste Estatuto e necessários ao bom funcionamento dos serviços.
 
+i) Aprovar o regulamento de eleição dos membros do conselho consultivo previsto no artigo 14.º
+
 2 - Compete ao mesmo conselho, no domínio da gestão financeira e patrimonial:
 
 a) Elaborar e submeter à aprovação do Ministro da Administração Interna o projecto de orçamento anual e as alterações que se revelem necessárias;
@@ -309,6 +330,8 @@ a) Elaborar e submeter à aprovação do Ministro da Administração Interna o p
 b) Arrecadar as receitas e autorizar as despesas, nos termos da lei e dos regulamentos aplicáveis, até aos limites estabelecidos para os órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira;
 
 c) Promover a elaboração da conta de gerência.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 ###### Artigo 7.º — Composição
 
@@ -368,43 +391,59 @@ O conselho consultivo é o órgão de apoio ao conselho de direcção na defini�
 
 Compete ao conselho consultivo:
 
-a) Emitir parecer sobre o plano de actividades, bem como sobre o relatório de actividades;
+a) Pronunciar-se sobre o plano de actividades, o relatório de actividades, o orçamento e a conta de gerência;
 
-b) Pronunciar-se sobre o relatório e conta de gerência e sobre o relatório anual da comissão de fiscalização;
+b) Pronunciar-se sobre o relatório anual da comissão de fiscalização;
 
-c) Apreciar e dar parecer sobre o orçamento;
+c) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;
 
-d) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;
+d) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR.
 
-e) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR.
+e) Aprovar o seu regimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 ###### Artigo 14.º — Composição
 
-1 - O conselho consultivo é composto pelos membros do conselho de direcção e por representações dos oficiais, sargentos e praças de cada uma das unidades da Guarda Nacional Republicana, tal como são definidas na respectiva lei orgânica, e presidido pelo militar mais graduado ou antigo dos seus membros.
+1 - Integram o conselho consultivo:
 
-2 - Cada representação é composta por um oficial, um sargento e uma praça do quadro da Guarda Nacional Republicana no activo, eleitos pelos beneficiários titulares militares, dos SSGNR, adstritos a cada delegação.
+a) Os membros do conselho de direcção;
 
-3 - A eleição é feita por categorias hierárquicas para mandatos de três anos e é organizada pelas delegações em conformidade com o regulamento a aprovar para o efeito pelo conselho de direcção dos SSGNR.
+b) Sete representantes eleitos de cada uma das categorias profissionais dos militares da Guarda Nacional Republicana, no activo;
 
-4 - Em cada delegação, os militares mais votados em cada uma das categorias hierárquicas são designados representantes titulares das respectivas categorias, sendo os que lhes sigam na votação designados suplentes.
+c) Dois representantes eleitos de entre os funcionários civis beneficiários dos serviços sociais, no activo, sendo um representante da carreira de guarda-florestal e outro dos restantes civis do mapa geral de pessoal aprovado;
 
-5 - Os representantes executam o mandato em regime de acumulação com as funções que exercem nas respectivas unidades, sendo substituídos pelos respectivos suplentes sempre que se verifiquem casos de indisponibilidade.
+d) Um representante de cada uma das associações profissionais de militares da Guarda Nacional Republicana, legalmente constituídas.
 
-6 - O exercício dos cargos do conselho consultivo não é remunerado.
+2 - A eleição dos membros do conselho consultivo referidos nas alíneas b) e c) do número anterior processa-se nos termos do regulamento aprovado pelo conselho de direcção.
+
+3 - O regulamento referido no número anterior:
+
+a) Define os requisitos relativos à capacidade eleitoral;
+
+b) Consagra a eleição de suplentes que substituem os membros efectivos nas suas faltas e impedimentos.
+
+4 - Os membros do conselho consultivo referidos nas alíneas b) e c) do n.º 1 são eleitos para um mandato de três anos desempenhado em regime de acumulação com as funções que exercem nos locais onde prestam serviço.
+
+5 - O conselho consultivo é presidido pelo militar mais graduado ou mais antigo de entre os seus membros.
+
+6 - A participação no conselho consultivo não é remunerada.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 ###### Artigo 15.º — Funcionamento
 
-1 - O conselho consultivo reúne ordinariamente duas vezes por ano, em dias a designar, durante a 1.ª quinzena dos meses de Maio e Outubro e extraordinariamente sempre que convocado a pedido de um terço dos seus membros ou a solicitação do conselho de direcção.
+1 - O conselho consultivo reúne ordinariamente para se pronunciar sobre o plano de actividades, o relatório de actividades, o orçamento, a conta de gerência e o relatório da comissão de fiscalização.
 
-2 - A convocação, bem como a agenda de cada reunião, é enviada aos membros com uma antecedência mínima de 15 dias.
+2 - O conselho consultivo reúne extraordinariamente sempre que convocado pelo respectivo presidente, por iniciativa do conselho de direcção ou a pedido de pelo menos um terço dos seus membros.
 
-3 - As deliberações são tomadas por maioria dos votos dos membros presentes, tendo o militar que preside voto de qualidade.
+3 - A convocatória das reuniões é feita com uma antecedência de 15 dias e é instruída com a respectiva ordem de trabalhos.
 
-4 - As reuniões do conselho consultivo são secretariadas pelo membro para o efeito designado pelo respectivo presidente.
+4 - O secretário é designado, para cada reunião, pelo presidente.
 
-5 - Podem participar nas reuniões, sem direito a voto, por convocação do respectivo presidente, quaisquer pessoas ou entidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação.
+5 - Podem participar nas reuniões, sem direito de voto, quaisquer pessoas ou entidades cuja presença seja considerada necessária para o esclarecimento dos assuntos em apreciação e que para tanto sejam convocadas pelo presidente.
 
-6 - De todas as reuniões será lavrada acta.
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 #### SECÇÃO IV — Comissão de fiscalização
 
@@ -538,7 +577,9 @@ g) O Serviço de Expediente e Arquivo, ao qual compete assegurar as tarefas gera
 
 1 - Os SSGNR dispõem do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-2 - Os quadros de pessoal militar dos SSGNR, a preencher por pessoal destacado da GNR, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna.
+2 - Os quadros de pessoal militar dos Serviços Sociais da GNR são preenchidos, transitoriamente, por pessoal requisitado à GNR, obedecendo a critérios de racionalização de efectivos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2007-522812), publicado em 2007-01-17.
 
 ###### Artigo 27.º — Regime de pessoal
 

@@ -42,10 +42,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-29'
+version_history:
+  file: decreto-lei-49031.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-29'
+    amending: pt:dre:160093:por
+    amending_title: Decreto-Lei n.º 88/75; Decreto-Lei n.º 309/85; Decreto-Lei n.º 498/88
+    changes:
+    - Revoga Artigo 4.º
+    - Altera Artigo 7.º
+    - Adita Artigo 8.º-A
 identifiers:
   celex: null
   eli: null
@@ -71,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:09:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 88/75; Decreto-Lei
+    n.º 309/85; Decreto-Lei n.º 498/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49031.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -202,21 +219,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O limite para o provimento em cargos públicos, fixado no artigo 4.º do [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 2 de Março de 1929, e em disposições de conteúdo semelhante, não é aplicável aos que antes de excederem a idade correspondente a esse limite sejam colocados provisóriamente, interinamente ou em comissão em lugares permanentes ou admitidos em lugares além dos quadros, desde que em qualquer dos casos se mantenham ao serviço sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis.
+###### Artigo 1.º
+
+1. O limite para o provimento em cargos públicos, fixado no artigo 4.º do [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 2 de Março de 1929, e em disposições de conteúdo semelhante, não é aplicável aos que antes de excederem a idade correspondente a esse limite sejam colocados provisóriamente, interinamente ou em comissão em lugares permanentes ou admitidos em lugares além dos quadros, desde que em qualquer dos casos se mantenham ao serviço sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis.
 
 2. Para os efeitos do disposto no número anterior, será considerado todo o serviço prestado ao Estado, na metrópole ou nas províncias ultramarinas, aos seus serviços autónomos e às autarquias locais, ainda que em situações e lugares diversos e quaisquer que sejam a forma e a natureza do provimento.
 
-Art. 2.º - 1. Os limites de idade especialmente fixados na lei para o primeiro provimento em determinados cargos não são aplicáveis aos que antes de excederem a idade correspondente ao limite iniciarem o exercício das respectivas funções em qualquer das situações a que se refere o n.º 1 do artigo anterior, desde que se verifique a condição prevista na parte final do mesmo preceito.
+###### Artigo 2.º
+
+1. Os limites de idade especialmente fixados na lei para o primeiro provimento em determinados cargos não são aplicáveis aos que antes de excederem a idade correspondente ao limite iniciarem o exercício das respectivas funções em qualquer das situações a que se refere o n.º 1 do artigo anterior, desde que se verifique a condição prevista na parte final do mesmo preceito.
 
 2. Para os efeitos do disposto no número anterior, será considerado todo o serviço prestado a qualquer das entidades a que se refere o n.º 2 do artigo antecedente na função a que respeita o limite de idade especial, ainda que em situações diversas e quaisquer que sejam a forma e a natureza do provimento.
 
-Art. 3.º O tempo de serviço efectivo prestado pelos interinos será contado para todos os efeitos, designadamente conversão de nomeação provisória em definitiva, antiguidade e promoção, desde que, sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis, venham a ser providos a titulo normal em cargo da mesma categoria e classe do mesmo quadro.
+###### Artigo 3.º
 
-Art. 4.º Não caduca o prazo de validade dos concursos relativamente aos candidatos que, atendendo à ordem da respectiva classificação ou graduação, forem nomeados interinamente durante o mesmo prazo para o cargo da categoria ou classe correspondente, desde que, sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis, venham a ser nele providos a título normal, ainda que por nomeação provisória.
+O tempo de serviço efectivo prestado pelos interinos será contado para todos os efeitos, designadamente conversão de nomeação provisória em definitiva, antiguidade e promoção, desde que, sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis, venham a ser providos a titulo normal em cargo da mesma categoria e classe do mesmo quadro.
 
-Art. 5.º No provimento interino de lugares dos quadros terão preferência os indivíduos considerados aptos em concurso para o provimento definitivo, segundo a ordem da classificação ou graduação.
+###### Artigo 4.º
 
-Art. 6.º - 1. Os funcionários com mais de um ano de serviço efectivo, ainda que prestado em diversos quadros ou organismos da administração pública e mesmo que não tenham servido todo o ano civil anterior, têm direito a gozar trinta dias de licença para férias em cada ano, salvo os efeitos impeditivos das penas disciplinares e o desconto regulado nos números seguintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), publicado em 1988-12-30.
+
+###### Artigo 5.º
+
+No provimento interino de lugares dos quadros terão preferência os indivíduos considerados aptos em concurso para o provimento definitivo, segundo a ordem da classificação ou graduação.
+
+###### Artigo 6.º
+
+1. Os funcionários com mais de um ano de serviço efectivo, ainda que prestado em diversos quadros ou organismos da administração pública e mesmo que não tenham servido todo o ano civil anterior, têm direito a gozar trinta dias de licença para férias em cada ano, salvo os efeitos impeditivos das penas disciplinares e o desconto regulado nos números seguintes.
 
 2. Na licença para férias serão descontadas as faltas do ano civil anterior, com excepção das seguintes:
 
@@ -238,7 +269,9 @@ g) Faltas a que outras disposições legais atribuam o mesmo regime.
 
 4. A licença para férias substitui a licença graciosa, adaptando-se-lhe o regime desta em tudo quanto não seja incompatível com a sua natureza.
 
-Art. 7.º - 1. A licença por doença dos funcionários poderá ser prorrogada, mês a mês, até ao limite de doze meses.
+###### Artigo 7.º
+
+1. A licença por doença dos funcionários poderá ser prorrogada, mês a mês, até ao limite de doze meses.
 
 2. Se o funcionário, findo esse prazo, não puder ainda apresentar-se ao serviço, passará, conforme desejar, à situação de aposentado, se a ela tiver direito, ou à situação de licença ilimitada.
 
@@ -252,37 +285,71 @@ c) Os períodos de ausência por doença, anteriores ou posteriores ao de licen�
 
 4. O regresso ao serviço dos funcionários que tenham passado à situação de licença ilimitada nos termos do n.º 2 não está sujeito ao decurso do prazo de um ano fixado no § 1.º do artigo 14.º do [Decreto n.º 19478](https://diariodarepublica.pt/dr/detalhe/decreto/19478-1931-211983), de 18 de Março de 1931.
 
-Art. 8.º - 1. Aos funcionários contratados, findo o prazo fixado no n.º 1 do artigo anterior, se não puderem regressar ao serviço e não tiverem ainda direito a aposentação ou se assim preferirem, será rescindido o contrato.
+5.º O prazo de doze meses previsto nos n.os 1 e 2 deste artigo pode, excepcionalmente, ser prorrogado, mês a mês, por mais seis meses, precedendo despacho ministerial de autorização, se, mediante parecer da junta médica competente, for declarado como provável o regresso do funcionário ao serviço até ao termo do prazo máximo de prorrogação.
+
+> Alterado pelo/a [Decreto-Lei n.º 88/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1975-160093), publicado em 1975-02-27.
+
+###### Artigo 8.º
+
+1. Aos funcionários contratados, findo o prazo fixado no n.º 1 do artigo anterior, se não puderem regressar ao serviço e não tiverem ainda direito a aposentação ou se assim preferirem, será rescindido o contrato.
 
 2. Se, porém, o funcionário tiver prestado mais de três anos de serviço efectivo, terá direito, desde que o requeira no triénio posterior à rescisão, a ocupar, mediante novo contrato e com dispensa do limite de idade, a vaga da sua categoria e classe que se verifique no quadro a que pertencer, depois de requerida a readmissão ao serviço.
 
 3. O direito de readmissão depende de parecer favorável da competente junta médica.
 
-Art. 9.º Os funcionários têm direito de faltar até quatro dias seguidos por motivo de falecimento de cônjuge ou de parente ou afim no 1.º grau da linha recta e até dois dias em caso de falecimento de parente ou afim em qualquer outro grau da linha recta e no 2.º e 3.º grau da linha colateral, devendo justificar as faltas logo que se apresente ao serviço.
+###### Artigo 8.º-A
 
-Art. 10.º Os funcionários têm o direito de faltar até seis dias úteis seguidos por motivo do seu casamento, devendo comunicar o facto ao dirigente dos serviços com uma antecedência mínima de trinta dias.
+1 - Os funcionários que, nos termos dos artigos anteriores, desejarem passar à aposentação deverão, no prazo de 30 dias a contar do termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º, requerer, através dos respectivos serviços, a sua apresentação à junta médica da Caixa Geral de Aposentações, sob pena de, automaticamente, passarem à situação de licença ilimitada ou de lhes serem rescindidos os respectivos contratos, conforme os casos.
 
-Art. 11.º As faltas justificadas nos termos dos artigos 9.º e 10.º não dão lugar a perda de quaisquer direitos ou regalias.
+2 - Os funcionários a que se refere o número anterior continuarão na situação de licença por doença, com todos os direitos e deveres inerentes a essa situação, nomeadamente o direito ao vencimento da categoria, até à data em que forem julgados absoluta e permanentemente incapazes ou até àquela em que devam retomar o exercício de funções, quando pela Caixa Geral de Aposentações não lhes for reconhecido o direito à aposentação.
 
-Art. 12.º Aos contratados por tempo indeterminado ou pelo prazo de um ano, prorrogável, não pertencentes aos quadros permanentes e desde que hajam prestado serviço pelo período mínimo de um ano, é aplicável o disposto no artigo 6.º, nos n.os 1 e 3 do artigo 7.º, conjugados com o n.º 1 do artigo 8.º, e nos artigos 9.º a 11.º, com as limitações impostas pelas cláusulas contratuais e as alterações seguintes:
+3 - Os funcionários aos quais não for reconhecido o direito à aposentação deverão ser notificados pelos respectivos serviços para, no dia imediato ao da notificação, retomarem o exercício de funções, sob pena de ficarem abrangidos pelo disposto na parte final do n.º 1 deste artigo.
+
+4 - Os processos de aposentação relativos ao pessoal a que se refere este artigo têm prioridade absoluta sobre quaisquer outros, devendo tal prioridade ser invocada pelos serviços aquando da remessa à Caixa Geral de Aposentações do respectivo processo.
+
+5 - O disposto nos n.os 2, 3 e 4 é também aplicável aos casos em que o pedido de apresentação à junta médica da Caixa Geral de Aposentações seja anterior ao termo da licença por doença previsto nos n.os 1 e 5 do artigo 7.º
+
+> Aditado pelo/a [Decreto-Lei n.º 309/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1985-179870), publicado em 1985-07-30.
+
+###### Artigo 9.º
+
+Os funcionários têm direito de faltar até quatro dias seguidos por motivo de falecimento de cônjuge ou de parente ou afim no 1.º grau da linha recta e até dois dias em caso de falecimento de parente ou afim em qualquer outro grau da linha recta e no 2.º e 3.º grau da linha colateral, devendo justificar as faltas logo que se apresente ao serviço.
+
+###### Artigo 10.º
+
+Os funcionários têm o direito de faltar até seis dias úteis seguidos por motivo do seu casamento, devendo comunicar o facto ao dirigente dos serviços com uma antecedência mínima de trinta dias.
+
+###### Artigo 11.º
+
+As faltas justificadas nos termos dos artigos 9.º e 10.º não dão lugar a perda de quaisquer direitos ou regalias.
+
+###### Artigo 12.º
+
+Aos contratados por tempo indeterminado ou pelo prazo de um ano, prorrogável, não pertencentes aos quadros permanentes e desde que hajam prestado serviço pelo período mínimo de um ano, é aplicável o disposto no artigo 6.º, nos n.os 1 e 3 do artigo 7.º, conjugados com o n.º 1 do artigo 8.º, e nos artigos 9.º a 11.º, com as limitações impostas pelas cláusulas contratuais e as alterações seguintes:
 
 a) A aplicação dos referidos preceitos não prejudica o direito de rescisão do contrato, conforme os seus próprios termos, não podendo, portanto, produzir efeitos para além dessa rescisão;
 
 b) A licença por doença sòmente poderá ser prorrogada até ao limite de seis meses.
 
-Art. 13.º - 1. Os assalariados terão direito em cada ano civil a doze, dezoito ou vinte e quatro dias úteis de licença para férias sem perda de salário, conforme hajam prestado, respectivamente, o mínimo de um, cinco ou dez anos de efectivo serviço.
+###### Artigo 13.º
+
+1. Os assalariados terão direito em cada ano civil a doze, dezoito ou vinte e quatro dias úteis de licença para férias sem perda de salário, conforme hajam prestado, respectivamente, o mínimo de um, cinco ou dez anos de efectivo serviço.
 
 2. Para a contagem do prazo a que se refere a parte final do número anterior considera-se todo o serviço prestado ao Estado, na metrópole ou nas províncias ultramarinas, aos seus serviços autónomos e às autarquias locais, desde que não tenha havido interrupção de funções por períodos superiores a sessenta dias ou por motivos imputáveis ao assalariado.
 
 3. À licença para férias dos assalariados é aplicável, com a necessária adaptação, o disposto no artigo 6.º
 
-Art. 14.º - 1. Aos assalariados dos quadros permanentes são aplicáveis, com as devidas adaptações, os regimes estabelecidos para os funcionários quanto a faltas por doença e licença pelo mesmo motivo.
+###### Artigo 14.º
+
+1. Aos assalariados dos quadros permanentes são aplicáveis, com as devidas adaptações, os regimes estabelecidos para os funcionários quanto a faltas por doença e licença pelo mesmo motivo.
 
 2. Os respectivos salários serão sujeitos a desconto nas proporções e nos termos estabelecidos naqueles regimes.
 
 3. Findo o prazo limite da licença por doença, é aplicável, com a necessária adaptação, o disposto no artigo 8.º
 
-Art. 15.º - 1. Os assalariados que não façam parte dos quadros permanentes e faltem ao serviço em consequência de doença terão direito em cada ano civil aos seguintes abonos:
+###### Artigo 15.º
+
+1. Os assalariados que não façam parte dos quadros permanentes e faltem ao serviço em consequência de doença terão direito em cada ano civil aos seguintes abonos:
 
 a) Assalariados com mais de um ano de bom e efectivo serviço: o salário completo nos primeiros quinze dias de doença e 2/3 do salário do 16.º até ao 60.º dia;
 
@@ -290,19 +357,31 @@ b) Assalariados com mais de três anos de bom e efectivo serviço: o salário co
 
 2. Findos os prazos fixados no número anterior, os assalariados serão aposentados ou dispensados do serviço.
 
-Art. 16.º É aplicável aos assalariados com mais de um ano de efectivo serviço o regime estabelecido para os funcionários quanto a faltas por motivo de maternidade e casamento e por falecimento de cônjuge, parente ou afim.
+###### Artigo 16.º
 
-Art. 17.º São isentos de quaisquer emolumentos e de imposto do selo os requerimentos e a concessão de licenças para férias e por doença.
+É aplicável aos assalariados com mais de um ano de efectivo serviço o regime estabelecido para os funcionários quanto a faltas por motivo de maternidade e casamento e por falecimento de cônjuge, parente ou afim.
 
-Art. 18.º - 1. As praças das forças armadas, da Guarda Nacional Republicana ou da Guarda Fiscal e os agentes da Polícia de Segurança Pública ou da Polícia de Viação e Trânsito em actividade, mas com idade superior a 50 anos, terão preferência no provimento de lugares de contínuo, porteiro ou guardas dos serviços do Estado, seus serviços autónomos e das autarquias locais desde que satisfaçam aos requisitos exigidos por lei.
+###### Artigo 17.º
+
+São isentos de quaisquer emolumentos e de imposto do selo os requerimentos e a concessão de licenças para férias e por doença.
+
+###### Artigo 18.º
+
+1. As praças das forças armadas, da Guarda Nacional Republicana ou da Guarda Fiscal e os agentes da Polícia de Segurança Pública ou da Polícia de Viação e Trânsito em actividade, mas com idade superior a 50 anos, terão preferência no provimento de lugares de contínuo, porteiro ou guardas dos serviços do Estado, seus serviços autónomos e das autarquias locais desde que satisfaçam aos requisitos exigidos por lei.
 
 2. O disposto no número anterior pode ser tornado extensivo, por despacho do Presidente do Conselho, aos agentes de outros serviços ou organismos.
 
-Art. 19.º O subsídio por morte de servidores do Estado, concedido pelo artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), de 19 de Dezembro de 1959, e pelo [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, é elevado para o montante correspondente ao vencimento de seis meses.
+###### Artigo 19.º
 
-Art. 20.º O processamento do subsidio, no que respeita ao montante correspondente aos cinco meses seguintes àquele em que se der a morte, será regulamentado por decreto referendado pelo Ministro das Finanças.
+O subsídio por morte de servidores do Estado, concedido pelo artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), de 19 de Dezembro de 1959, e pelo [Decreto-Lei n.º 42947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448), de 27 de Abril de 1960, é elevado para o montante correspondente ao vencimento de seis meses.
 
-Art. 21.º - 1. Ao pessoal do Estado e dos seus serviços autónomos inscrito na Caixa Geral de Aposentações será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado, aos seus serviços autónomos e às autarquias locais anteriormente à sua inscrição na mesma Caixa, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
+###### Artigo 20.º
+
+O processamento do subsidio, no que respeita ao montante correspondente aos cinco meses seguintes àquele em que se der a morte, será regulamentado por decreto referendado pelo Ministro das Finanças.
+
+###### Artigo 21.º
+
+1. Ao pessoal do Estado e dos seus serviços autónomos inscrito na Caixa Geral de Aposentações será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado, aos seus serviços autónomos e às autarquias locais anteriormente à sua inscrição na mesma Caixa, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
 
 2. O disposto no n.º 1 abrange o tempo de serviço prestado em qualquer situação, incluindo a de serviço militar.
 
@@ -310,15 +389,21 @@ Art. 21.º - 1. Ao pessoal do Estado e dos seus serviços autónomos inscrito na
 
 4. Os pedidos serão dirigidos à Caixa Geral de Aposentações, instruídos com os documentos comprovativos, podendo ser concedida prorrogação do prazo para a junção dos documentos se se provar a impossibilidade, sem culpa dos interessados, de os obter dentro do prazo legal.
 
-Art. 22.º O regime estabelecido no presente diploma, com excepção do disposto no artigo 12.º, é extensivo ao pessoal que presta serviço aos governos civis, administrações de bairro e autarquias locais, bem como aos agentes do Ministério Público junto das auditorias administrativas, com as seguintes adaptações:
+###### Artigo 22.º
+
+O regime estabelecido no presente diploma, com excepção do disposto no artigo 12.º, é extensivo ao pessoal que presta serviço aos governos civis, administrações de bairro e autarquias locais, bem como aos agentes do Ministério Público junto das auditorias administrativas, com as seguintes adaptações:
 
 a) O parecer a que alude o n.º 3 do artigo 8.º competirá à autoridade sanitária concelhia, salvo nas Câmaras Municipais de Lisboa e Porto, em que incumbirá à junta médica prevista no artigo 29.º do [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963;
 
 b) No que respeita às autarquias locais e administrações de bairro, o subsídio por morte previsto no artigo 19.º constitui mera faculdade, conforme o preceituado no artigo 1.º do [Decreto-Lei n.º 43003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43003-1960-503794), de 3 de Junho de 1960.
 
-Art. 23.º As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Presidente do Conselho, ouvido o Secretariado da Reforma Administrativa.
+###### Artigo 23.º
 
-Art. 24.º Este decreto-lei entra em vigor no dia 1 de Julho de 1969.
+As dúvidas que se suscitem na execução deste decreto-lei serão esclarecidas por despacho do Presidente do Conselho, ouvido o Secretariado da Reforma Administrativa.
+
+###### Artigo 24.º
+
+Este decreto-lei entra em vigor no dia 1 de Julho de 1969.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
