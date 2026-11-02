@@ -128,16 +128,6 @@ O apoio administrativo do CJM será prestado pelo gabinete do seu presidente.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
-Aprovado em sessão plenária de 25 de Julho de 1989.
-
-O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
-
-Assinado em 17 de Agosto de 1989.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
-
 ###### Artigo 7.º — Direitos dos membros do CJM
 
 Os membros do CJM têm direito a:
@@ -171,3 +161,13 @@ c) Assegurar a articulação entre as entidades que representam e o CJM.
 3 - O estatuto de observador pode ser retirado a qualquer momento, por decisão do Presidente do CJM.
 
 > Aditado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+
+Aprovado em sessão plenária de 25 de Julho de 1989.
+
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
+
+Assinado em 17 de Agosto de 1989.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

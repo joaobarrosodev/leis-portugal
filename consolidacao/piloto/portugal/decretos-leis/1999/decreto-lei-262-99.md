@@ -205,15 +205,17 @@ O conselho consultivo é o órgão de apoio ao conselho de direcção na defini�
 
 Compete ao conselho consultivo:
 
-a) Emitir parecer sobre o plano de actividades, bem como sobre o relatório de actividades;
+a) Pronunciar-se sobre o plano de actividades, o relatório de actividades, o orçamento e a conta de gerência;
 
-b) Pronunciar-se sobre o relatório e conta de gerência e sobre o relatório anual da comissão de fiscalização;
+b) Pronunciar-se sobre o relatório anual da comissão de fiscalização;
 
-c) Apreciar e dar parecer sobre o orçamento;
+c) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;
 
-d) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;
+d) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR.
 
-e) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos SSGNR.
+e) Aprovar o seu regimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 ###### Artigo 14.º — Composição
 
@@ -245,17 +247,17 @@ b) Consagra a eleição de suplentes que substituem os membros efectivos nas sua
 
 ###### Artigo 15.º — Funcionamento
 
-1 - O conselho consultivo reúne ordinariamente duas vezes por ano, em dias a designar, durante a 1.ª quinzena dos meses de Maio e Outubro e extraordinariamente sempre que convocado a pedido de um terço dos seus membros ou a solicitação do conselho de direcção.
+1 - O conselho consultivo reúne ordinariamente para se pronunciar sobre o plano de actividades, o relatório de actividades, o orçamento, a conta de gerência e o relatório da comissão de fiscalização.
 
-2 - A convocação, bem como a agenda de cada reunião, é enviada aos membros com uma antecedência mínima de 15 dias.
+2 - O conselho consultivo reúne extraordinariamente sempre que convocado pelo respectivo presidente, por iniciativa do conselho de direcção ou a pedido de pelo menos um terço dos seus membros.
 
-3 - As deliberações são tomadas por maioria dos votos dos membros presentes, tendo o militar que preside voto de qualidade.
+3 - A convocatória das reuniões é feita com uma antecedência de 15 dias e é instruída com a respectiva ordem de trabalhos.
 
-4 - As reuniões do conselho consultivo são secretariadas pelo membro para o efeito designado pelo respectivo presidente.
+4 - O secretário é designado, para cada reunião, pelo presidente.
 
-5 - Podem participar nas reuniões, sem direito a voto, por convocação do respectivo presidente, quaisquer pessoas ou entidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação.
+5 - Podem participar nas reuniões, sem direito de voto, quaisquer pessoas ou entidades cuja presença seja considerada necessária para o esclarecimento dos assuntos em apreciação e que para tanto sejam convocadas pelo presidente.
 
-6 - De todas as reuniões será lavrada acta.
+> Alterado pelo/a [Decreto-Lei n.º 31/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2010-612207), publicado em 2010-04-09.
 
 #### SECÇÃO IV — Comissão de fiscalização
 

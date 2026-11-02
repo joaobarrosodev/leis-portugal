@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:383606:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "Sem prejuízo da revisão a fazer dentro do prazo reajustado nos termos do artigo anterior, são desde já extintas as seguintes remunerações acessórias, mesmo quando o serviço é prestado em regime de acumulação:\n\na) As gratificações previstas no n.º 3 da [Portaria n.º 778/76](https://diariodarepublica.pt/dr/detalhe/portaria/778-1976-416441), de 31 de Dezembro, para o pessoal técnico e administrativo;\n\nb) As gratificações previstas no § único do artigo 4.º do [Decreto-Lei n.º 48227](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48227-1968-233504), de 27 de Janeiro de 1968;\n\nc) As gratificações atribuídas ao director e ao encarregado da Casa do Militar da Armada;\n\nd) As gratificações previstas no § único do artigo 1.º do [Decreto-Lei n.º 45932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45932-1964-537860), de 18 de Setembro de 1964;\n\ne) As gratificações previstas no § único do artigo 8.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657), de 20 de Setembro de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 455/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1970-147978), de 2 de Outubro;\n\nf) As gratificações previstas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 36/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1976-506034), de 19 de Janeiro.\n\ng) As gratificações a que se refere o artigo 15.º do [Decreto-Lei n.º 40950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40950-1956-293547), de 28 de Dezembro de 1956;\n\nh) As gratificações a que se refere o artigo 8.º do [Decreto-Lei n.º 42792](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42792-1959-437047), de 31 de Dezembro de 1959, com a redacção que lhe foi dada pelo Decreto-Lei n: 44726, de 24 de Novembro de 1962;\n\ni) Os subsídios a que se refere a alínea a) do n.º 2 da [Portaria n.º 252/76](https://diariodarepublica.pt/dr/detalhe/portaria/252-1976-502213), de 29 de Março;\n\nj) Os subsídios a que se referem as alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 577-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-a-1975-451630), de 8 de Outubro.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 8/80, art. 1.º: nova redação da alínea f) do art. 2.º; aplicada, resto do artigo mantido.",
+    "DL 47/89, art. 1.º: altera o art. 2.º do DL 45256 (na redação dada pelo art. 11.º do original); é instrução dirigida a outro diploma, ignorada.",
+    "DL 180/94, art. 8.º: revoga os arts. 9.º e 10.º do original; ambos ficam (Revogado.). A revogação do DL 276/81 e a alteração ao DL 498/72 não são do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

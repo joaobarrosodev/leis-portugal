@@ -1,0 +1,69 @@
+{
+  "id": "pt:dre:408485:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "O Governo compreende os seguintes ministros:\n\na) Ministro de Estado;\n\nb) Ministro da Defesa Nacional;\n\nc) Ministro da Administração Interna;\n\nd) Ministro dos Negócios Estrangeiros;\n\ne) Ministro da Justiça;\n\nf) Ministro das Finanças e do Plano;\n\ng) Ministro da Educação;\n\nh) Ministro do Trabalho e Segurança Social;\n\ni) Ministro da Saúde;\n\nj) Ministro da Agricultura;\n\nl) Ministro da Indústria e Energia;\n\nm) Ministro do Comércio e Turismo;\n\nn) Ministro da Cultura;\n\no) Ministro do Equipamento Social;\n\np) Ministro dos Assuntos Parlamentares;\n\nq) Ministro do Mar.",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "Integram-se na Presidência do Conselho de Ministros todos os serviços dependentes do Primeiro-Ministro, do Vice-Primeiro-Ministro e do Ministro de Estado, bem como dos seguintes secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Vice-Primeiro-Ministro;\n\nd) Secretário de Estado dos Desportos;\n\ne) Secretário de Estado do Ambiente;\n\nf) Secretário de Estado Adjunto do Ministro de Estado;\n\ng) Secretário de Estado da Administração Pública;\n\nh) Secretário de Estado do Fomento Cooperativo.",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - O Vice-Primeiro-Ministro é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Vice-Primeiro-Ministro.\n\n2 - As Secretarias de Estado dos Desportos e do Ambiente são colocadas na directa dependência do Vice-Primeiro-Ministro.\n\n3 - As competências atribuídas por lei ao Ministro da Qualidade Vida passam a ser exercidas pelo Vice-Primeiro-Ministro.",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "O Ministério da Agricultura compreende as seguintes secretarias de Estado:\n\na) Secretaria de Estado da Produção Agrícola;\n\nb) Secretaria de Estado do Comércio e Indústrias Agrícolas.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro, que preside, pelo Vice-Primeiro-Ministro e pelos ministros.\n\n2 - Os ministros da República para as regiões autónomas têm assento no Conselho de Ministros nas reuniões que tratem de assuntos de interesse para as respectivas regiões.\n\n3 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjundo do Primeiro-Ministro, o Secretário de Estado Adjunto do Vice-Primeiro-Ministro e o Secretário de Estado da Administração Pública.\n\n4 - Podem ser especialmente convocados pelo Primeiro-Ministro, por sua iniciativa ou a solicitação do respectivo ministro, para participarem, sem direito de voto, nas reuniões do Conselho de Ministros os restantes secretários de Estado e o Subsecretário de Estado do Orçamento, bem como o presidente da Comissão para a Integração Europeia.",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "1 - Haverá um Conselho de Ministros especializado para os assuntos económicos, presidido pelo Primeiro-Ministro, do qual fazem parte:\n\na) O Vice-Primeiro-Ministro;\n\nb) O Ministro de Estado;\n\nc) O Ministro das Finanças e do Plano;\n\nd) O Ministro do Trabalho e Segurança Social;\n\ne) O Ministro da Agricultura;\n\nf) O Ministro da Indústria e Energia;\n\ng) O Ministro do Comércio e Turismo;\n\nh) O Ministro do Equipamento Social;\n\ni) O Ministro do Mar.\n\n2 - Salvo determinação especial em contrário do Primeiro-Ministro, participarão também nas reuniões, sem direito de voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado Adjunto do Vice-Primeiro-Ministro.\n\n3 - Por decisão do Primeiro-Ministro, podem ser convocados para tomar parte nas reuniões do Conselho de Ministros para os Assuntos Económicos outros ministros e secretários de Estado, o presidente da Comissão para a Integração Europeia ou o Subsecretário de Estado do Orçamento, quando os assuntos a tratar se relacionem com os respectivos departamentos.",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "É criado o Ministério da Agricultura, o qual integra os serviços anteriormente integrados no extinto Ministério da Agricultura, Florestas e Alimentação.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 451/83: mantém em vigor o DL 293/82 no MAFA; não altera o texto do original. Nada aplicado.",
+    "DL 388/84 art. 1.º: nova alínea j) do art. 2.º (Ministro da Agricultura), novo art. 16.º, novo n.º 3 do art. 23.º (copiado com a gralha 'Adjundo'), nova alínea e) do n.º 1 do art. 24.º e novo art. 33.º. Aplicado. Na alínea e) o alterador traz 'O Ministro da Agricultura [...]'; o '[...]' foi lido como o fim da unidade e ficou 'e) O Ministro da Agricultura;' (o ';' vem do texto atual).",
+    "DL 388/84 arts. 2.º a 5.º: extinção de ministério e secretarias, art. 3.º altera o DL 23/84, normas orçamentais; não alteram o texto do original.",
+    "DL 279-A/85 art. 2.º: novo art. 2.º (sai a alínea p) Ministro da Qualidade de Vida; p) Assuntos Parlamentares, q) Mar; a j) mantém a redação do DL 388/84), novo art. 6.º (alíneas c) a h) novas, intróito e a), b) ficam), novo art. 8.º com três números (copiado 'Qualidade Vida'). Aplicado.",
+    "DL 279-A/85 art. 7.º: revoga o art. 20.º. Aplicado como '(Revogado.)'. Restantes artigos não são textuais.",
+    "DL 319/88: cria lugar no quadro da Secretaria-Geral do Ministério da Saúde; não altera o original.",
+    "DL 296-A/95: nova Lei Orgânica do Governo; substitui a estrutura do DL 451/91 e não traz nenhuma instrução textual dirigida ao DL 344-A/83. Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "24.º: parágrafo que não está no alterador nem no original: e) O Ministro da Agricultura;"
+  ]
+}

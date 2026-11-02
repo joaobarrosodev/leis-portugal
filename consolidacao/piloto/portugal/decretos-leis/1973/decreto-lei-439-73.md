@@ -7,21 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:466818:por
-    title: Decreto-Lei n.º 696/74
-    publication_date: '1974-12-06'
-  - id: pt:dre:407158:por
-    title: Decreto-Lei n.º 826/76
-    publication_date: '1976-11-16'
   - id: pt:dre:406916:por
     title: Decreto-Lei n.º 829/76
     publication_date: '1976-11-20'
-  - id: pt:dre:296833:por
-    title: Decreto-Lei n.º 217/78
-    publication_date: '1978-08-02'
   - id: pt:dre:471933:por
     title: Decreto-Lei n.º 220/80
     publication_date: '1980-07-11'
+  - id: pt:dre:407158:por
+    title: Decreto-Lei n.º 826/76
+    publication_date: '1976-11-16'
+  - id: pt:dre:296833:por
+    title: Decreto-Lei n.º 217/78
+    publication_date: '1978-08-02'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -63,6 +60,10 @@ Oficiais subalternos ... 90
 1. Os oficiais de complemento são admitidos na G. N. R. e na G. F. a título provisório mediante concurso.
 
 2. A admissão definitiva dos oficiais de que trata o n.º 1 realiza-se depois de concluído o estágio de admissão.
+
+3. Exceptuam-se do disposto nos números anteriores os oficiais que já tenham prestado serviço na Guarda Nacional Republicana ou Guarda Fiscal, que poderão ser readmitidos na respectiva corporação a título definitivo, com dispensa de concurso e de estágio, por despacho do Ministro da Administração Interna ou das Finanças, conforme os casos, ouvido o comandante-geral respectivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 829/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/829-1976-406916), publicado em 1976-11-20.
 
 ###### Artigo 3.º
 
@@ -142,13 +143,15 @@ Só os oficiais que terminem com aproveitamento o estágio poderão ser admitido
 
 ###### Artigo 10.º
 
-Os oficiais admitidos nos termos dos artigos 7.º e 9.º podem requerer dispensa do serviço da G. N. R. ou da O. F. nos casos seguintes:
+1. Os oficiais admitidos nos termos dos artigos 7.º e 9.º bem como os readmitidos nos termos do n.º 3 do artigo 2.º, podem requerer dispensa do serviço da Guarda Nacional Republicana ou da Guarda Fiscal nos casos seguintes:
 
 a) Após terem completado cinco anos de serviço;
 
 b) Antes de terem completado o prazo referido na alínea anterior, desde que indemnizem a Fazenda Nacional de 20% dos vencimentos auferidos durante o estágio, por cada ano que lhes falte para completar aquele prazo.
 
-Obrigações e direitos
+2. As dispensas do serviço referidas no número anterior, bem como as dos oficiais readmitidos nos termos do artigo 2.º, n.º 3, são da competência do Ministro da Administração Interna ou das Finanças, sob parecer do respectivo comandante-geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 829/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/829-1976-406916), publicado em 1976-11-20.
 
 ###### Artigo 11.º
 
@@ -206,9 +209,15 @@ Consideram-se na situação de activo os oficiais que não tenham tido passagem 
 
 ###### Artigo 16.º
 
-1. Transitam para a situação de reserva os oficiais na situação de activo que sejam abrangidos por qualquer das seguintes condições:
+1 - Transitam para a situação de reserva os oficiais abrangidos por qualquer das condições indicadas nas alíneas seguintes:
 
-a) Tendo prestado ao Estado um mínimo de quinze anos de serviço:
+a) Tendo prestado menos de cinco anos de serviço, sejam julgados fisicamente incapazes para o serviço no activo pela Junta Superior de Saúde da Guarda Nacional Republicana ou da Guarda Fiscal, que comprove ser a incapacidade resultante de :
+
+1.º Acidente ocorrido no serviço ou por motivo do mesmo;
+
+2.º Doença adquirida em serviço ou por motivo do mesmo;
+
+b) Tendo prestado cinco ou mais anos de serviço:
 
 1.º Atinjam as idades a seguir indicadas:
 
@@ -222,39 +231,59 @@ Capitães ... 60
 
 Subalternos ... 58
 
-2.º Sejam julgados fisicamente incapazes para o serviço activo pela junta superior de saúde da O. N. R. ou da O. F.;
+2.º Sejam julgados fisicamente incapazes para o serviço no activo pela respectiva junta superior de saúde;
 
-b) Tendo prestado menos de quinze anos de serviço, sejam julgados fisicamente incapazes para o serviço activo pela junta superior de saúde da G. N. R. ou da G. F. que comprove ser a incapacidade resultante de:
+3.º Sejam colocados nesta situação, nos termos do Regulamento de Disciplina Militar;
 
-1.º Acidente ocorrido em serviço ou por motivo do mesmo;
+4.º Optem pela sua colocação nessa situação quando completados doze meses de impedimento por doença ou por licença da junta, ou de um adicionado ao outro, não se achando a junta, por razões devidamente justificadas, habilitada a pronunciar-se sobre a sua capacidade ou incapacidade definitiva;
 
-2.º Doença adquirida no serviço ou por motivo do mesmo;
+c) Tendo prestado quinze ou mais anos de serviço:
 
-c) Tendo completado 40 anos de serviço e 60 anos de idade, o requeiram e lhes seja deferido.
+1.º Desistam de tirocínios, cursos ou provas exigidos como condições de promoção ao posto imediato;
 
-2. A passagem à situação de reserva de um oficial que atinja o limite de idade fixado no n.º 1.º da alínea a) do artigo 16.º para o respectivo posto é sustada quando se verifique a existência de vacatura em data anterior àquela em que atingiu o limite de idade e de cujo preenchimento possa vir a resultar a sua promoção.
+2.º Não tenham tido aproveitamento nos cursos ou provas exigidos para promoção;
 
-3. Os encargos com a liquidação das pensões de reserva são suportados pelo Ministério do Interior ou das Finanças, através dos Comandos-Gerais da G. N. R. e da G. F., mediante verba para tal fim inscrita no respectivo orçamento.
+3.º Revelem não possuir capacidade para o desempenho das funções que competem ao posto imediato;
+
+4.º Requeiram a passagem à reserva e esta lhes seja concedida;
+
+d) Requeiram a passagem à reserva depois de completarem trinta e seis anos de serviço.
+
+2 - A passagem à situação de reserva de um oficial que atinja o limite de idade fixado no n.º 1.º da alínea b) do número anterior para o respectivo posto é sustada quando se verifique a existência de vacatura em data anterior àquela em que atingiu o limite de idade e de cujo preenchimento possa vir a resultar a sua promoção.
+
+3 - A passagem à reserva ao abrigo do disposto nos n.os 1.º, 2.º e 3.º da alínea c) do n.º 1 do presente artigo só deverá, porém, verificar-se nas condições que forem estabelecidas no respectivo estatuto e noutra legislação aplicável.
+
+4 - A data da passagem à reserva é a data em que, nos termos legais, o militar for considerado abrangido pela condição que a motivou.
+
+> Alterado pelo/a [Decreto-Lei n.º 220/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933), publicado em 1980-07-11.
 
 ###### Artigo 17.º
 
-1. Transitam para a situação de reforma os oficiais na situação de activo ou de reserva que sejam abrangidos por qualquer das seguintes condições:
+1 - Transitam para a situação de reforma os oficiais que deixem de estar no activo ou na reserva por serem abrangidos por qualquer das seguintes condições:
 
-a) Tendo prestado ao Estado um mínimo de 15 anos de serviço, atinjam 70 anos de idade;
+a) Tendo prestado cinco ou mais anos de serviço:
 
-b) Tendo completado 15 anos de serviço e 40 anos de idade:
+1.º Sejam julgados incapazes de todo o serviço pela Junta Superior de Saúde da Guarda Nacional Republicana ou da Guarda Fiscal, consoante os casos;
 
-1.º Sejam julgados incapazes de todo o serviço pela junta superior de saúde da G.N.R. ou da G.F.;
+2.º Revelem incapacidade para o desempenho das funções que pertencem ao seu posto;
 
-2.º Revelem incapacidade para o desempenho das funções que pertençam ao seu posto na G. N. R. ou na G. F.;
+3.º Sejam colocados nessa situação nos termos do Regulamento de Disciplina Militar;
 
-3.º Sejam colocados nessa situação por motivo disciplinar;
+4.º Optem pela sua colocação nessa situação quando completados doze meses de impedimento por doença ou licença da junta, ou de um adicionado ao outro, não se achando a junta, por razões devidamente justificadas, habilitada a pronunciar-se sobre a sua capacidade ou incapacidade definitiva;
 
-c) Reúnam as condições legais estabelecidas para a reforma extraordinária.
+5.º Atinjam os 70 anos de idade;
 
-2. A passagem dos oficiais à situação de reforma ao abrigo do n.º 2.º da alínea b) do n.º 1 só poderá ter lugar se a incapacidade se manifestar durante o exercício das funções para que estejam nomeados ou nos cursos e estágios que forem obrigados a frequentar.
+b) Requeiram a passagem à reforma depois de completados 60 anos de idade e trinta e seis de serviço;
 
-3. A passagem dos oficiais à situação de reforma nos termos dos n.os 2.º e 3.º da alínea b) do n.º 1 é da competência do Ministro do Interior ou das Finanças, sob proposta nominal do respectivo comandante-geral.
+c) Reúnam as condições estabelecidas na lei para reforma extraordinária.
+
+2 - A passagem dos oficiais à situação de reforma ao abrigo do n.º 2.º da alínea a) do número anterior só poderá ter lugar se a incapacidade se manifestar durante o exercício das funções para que estejam nomeados ou nos cursos e estágios que forem obrigados a frequentar.
+
+3 - A data da passagem à situação de reforma é a data em que, nos termos legais, o militar for considerado abrangido pela condição que a motivou.
+
+4 - A passagem dos oficiais à situação de reforma nos termos dos n.os 2.º e 3.º da alínea a) do n.º 1 do presente artigo é da competência dos Ministros da Administração Interna ou das Finanças e do Plano, sob proposta nominal do respectivo comandante-geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 220/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933), publicado em 1980-07-11.
 
 ###### Artigo 18.º
 
@@ -269,6 +298,10 @@ a) Quando tenham menos de 70 anos de idade e sejam autorizados nos termos da lei
 b) Quando em caso de guerra ou de emergência.
 
 2. Os oficiais prestando serviço nas condições do número anterior mantêm o direito à pensão de reserva ou de reforma e são abonados da diferença daquela para o vencimento do respectivo posto no activo e das gratificações inerentes.
+
+3. Os oficiais prestando serviço nas condições do n.º 1 ficam na situação de supranumerários permanentes, não ocupando vaga nos quadros.
+
+> Alterado pelo/a [Decreto-Lei n.º 826/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-1976-407158), publicado em 1976-11-16.
 
 ###### Artigo 20.º
 
@@ -392,7 +425,7 @@ c) Por distinção, a qualquer daqueles postos.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 696/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/696-1974-466818) e [Decreto-Lei n.º 826/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-1976-407158) e [Decreto-Lei n.º 829/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/829-1976-406916) e [Decreto-Lei n.º 217/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1978-296833) e [Decreto-Lei n.º 220/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933), publicado em 1980-07-11.
+> Alterado pelo/a [Decreto-Lei n.º 217/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1978-296833), publicado em 1978-08-02.
 
 ###### Artigo 33.º
 
@@ -402,9 +435,9 @@ c) Por distinção, a qualquer daqueles postos.
 
 ###### Artigo 34.º
 
-1. As condições de promoção dos oficiais dos quadros de complemento das forças armadas em serviço na G. N. R. ou na G. F. são as estabelecidas no Estatuto dos Oficiais do respectivo ramo das forças armadas nos artigos referentes à promoção de oficiais milicianos, ou no que, sobre a promoção dos mesmos oficiais, estiver regulado, considerando-se porém as modalidades estabelecidas no artigo 32.º
+As condições de promoção dos oficiais dos quadros de complemento em serviço na GNR e GF são idênticas às que vigorem para os oficiais dos quadros permanentes do Exército.
 
-2. As escolas de recrutas, ciclos de instrução e outras condições de promoção serão preferentemente realizadas na G. N. R. e na G. F., considerando-se que as escolas de recrutas poderão ser substituídas por escolas de alistados.
+> Alterado pelo/a [Decreto-Lei n.º 217/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1978-296833), publicado em 1978-08-02.
 
 ###### Artigo 35.º
 

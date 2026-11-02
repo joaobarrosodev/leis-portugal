@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:574923:por
-    title: Decreto Legislativo Regional n.º 16/90/M
-    publication_date: '1990-06-06'
   - id: pt:dre:469583:por
     title: Decreto Legislativo Regional n.º 3/97/M
     publication_date: '1997-04-18'
@@ -31,11 +28,11 @@ A Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da C
 
 ###### Artigo 1.º
 
-Na Região Autónoma da Madeira, compete à Inspecção Regional das Actividades Económicas e à Comissão Regional de Aplicação de Coimas em Matéria Económica o processamento e aplicação, respectivamente, das coimas e sanções acessórias previstas no Decreto-Lei n.º 28/84, de 20 de Janeiro.»
+Na Região Autónoma da Madeira, compete à Inspecção Regional das Actividades Económicas e à Comissão Regional de Aplicação de Coimas em Matéria Económica o processamento e aplicação, respectivamente, das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 § único. Todas as restantes competências e atribuições previstas no referido diploma à Direcção-Geral de Inspecção Económica cabem nesta Região à Direcção Regional do Comércio e Indústria.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 16/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1990-574923) e [Decreto Legislativo Regional n.º 3/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1997-469583), publicado em 1997-04-18.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 3/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1997-469583), publicado em 1997-04-18.
 
 ###### Artigo 2.º
 

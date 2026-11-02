@@ -276,18 +276,6 @@ Os membros dos conselhos coordenador e consultivo têm direito a transporte e aj
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
-O Presidente do Governo Regional, João Bosco Mota Amaral.
-
-Assinado em Angra do Heroísmo em 4 de Fevereiro de 1980.
-
-Publique-se.
-
-O Ministro da República, Henrique Afonso da Silva Horta.
-
-Quadro do pessoal do Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS)
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf)
-
 ###### Artigo 25.º — Pessoal a tempo parcial
 
 Os cargos de fiel de armazém e de fiel auxiliar de armazém podem ser exercidos a tempo parcial.
@@ -359,3 +347,15 @@ As dúvidas que se suscitarem da aplicação do presente diploma serão resolvid
 3 - O escriturário-dactilógrafo, posicionado no escalão 4, índice 150, que possui o 9.º ano de escolaridade e que vem desempenhando funções de oficial administrativo na delegação de Ponta Delgada, ilha de São Miguel, há mais de seis anos transita para a categoria de terceiro-oficial, sendo posicionado no escalão 1, índice 180.
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 4 de Fevereiro de 1980.
+
+Publique-se.
+
+O Ministro da República, Henrique Afonso da Silva Horta.
+
+Quadro do pessoal do Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf)

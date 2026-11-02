@@ -10,12 +10,6 @@ consolidacao:
   - id: pt:dre:472089:por
     title: Lei n.º 29/80
     publication_date: '1980-07-28'
-  - id: pt:dre:355513:por
-    title: Decreto-Lei n.º 333/88
-    publication_date: '1988-09-27'
-  - id: pt:dre:217698:por
-    title: Decreto-Lei n.º 241/92
-    publication_date: '1992-10-29'
   - id: pt:dre:505637:por
     title: Decreto-Lei n.º 175/2004
     publication_date: '2004-07-21'
@@ -203,13 +197,15 @@ b) Escola Superior Agrária.
 
 a) Escola Superior de Educação;
 
-b) Escola Superior de Gestão e Contabilidade;
+b) (Revogada.)
 
-c) Escola Superior de Tecnologia;
+c) (Revogada.)
 
 d) Escola Superior Agrária.
 
-2 - As Escolas Superiores Técnicas a que se referem as alíneas b), c) e d) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração, Instituto Superior de Engenharia e Escola de Regentes Agrícolas, todos de Coimbra.
+2 - A Escola Superior Agrária a que se refere o número anterior resultará da reconversão da Escola de Regentes Agrícolas de Coimbra.
+
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
 
 ###### Artigo 10.º
 
@@ -221,19 +217,21 @@ b) Escola Superior de Tecnologia e Gestão.
 
 ###### Artigo 11.º
 
-O Instituto Politécnico de Lisboa agrupa os seguintes estabelecimentos de ensino:
+O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
-b) Escola Superior de Gestão e Contabilidade;
+b) (Revogada.)
 
-c) Escola Superior de Tecnologia;
+c) (Revogada.)
 
-d) Escola Superior de Saúde;
+d) (Revogada.)
 
-e) Escola Superior de Jornalismo.
+e) Escola Superior de Comunicação Social.
 
-2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos de Lisboa.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 12.º
 
@@ -249,7 +247,7 @@ d) (Revogada.)
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
+> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 13.º
 
@@ -293,7 +291,7 @@ b) A Escola Superior de Tecnologia de Tomar.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
 
 ###### Artigo 18.º
 
@@ -319,7 +317,9 @@ e) Vila Real.
 
 ###### Artigo 20.º
 
-A concretização de cada uma das reconversões previstas neste diploma far-se-á por decreto-lei.
+A concretização da reconversão das escolas de regentes agrícolas prevista neste diploma far-se-á por decreto-lei.
+
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
 
 ###### Artigo 21.º
 
@@ -341,7 +341,7 @@ c) (Revogada.)
 
 d) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.
 
-> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089) e [Decreto-Lei n.º 333/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1988-355513) e [Decreto-Lei n.º 241/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1992-217698) e [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
 
 ###### Artigo 24.º
 

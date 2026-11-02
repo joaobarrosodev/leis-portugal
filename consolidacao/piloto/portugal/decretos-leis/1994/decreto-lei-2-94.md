@@ -58,43 +58,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 4.º
 
-1 - Os termos da concessão do serviço público de radiodifusão, no qual sucede agora a RDP, S. A., serão definidos no contrato de concessão a celebrar com o Estado.
+(Revogado.)
 
-2 - O contrato de concessão é outorgado pelos membros do Governo responsáveis pela área das finanças e da comunicação social, em representação do Estado.
-
-3 - No desempenho da sua actividade de concessionária do serviço público, deve a RDP, S. A., respeitar os fins genéricos e específicos da actividade de radiodifusão sonora, designadamente:
-
-a) Promover a defesa e a difusão da língua e cultura portuguesas;
-
-b) Assegurar a independência, o pluralismo, o rigor e a objectividade da informação e da programação;
-
-c) Contribuir para a informação, a recreação e a promoção cultural do público em geral, atendendo à sua diversidade em idades, ocupações, interesses, espaços e origens;
-
-d) Promover a difusão de programas educativos ou formativos especialmente dirigidos a crianças, jovens e idosos, a grupos sócio-profissionais e a minorias culturais;
-
-e) Favorecer um melhor conhecimento mútuo, bem como a aproximação, entre cidadãos portugueses e estrangeiros;
-
-f) Contribuir para o esclarecimento, a formação e a participação cívica e política da população.
-
-4 - Constituem obrigações da concessionária do serviço público de radiodifusão sonora:
-
-a) Produzir e emitir, pelo menos, dois programas de âmbito nacional em ondas médias e ou frequência modulada, sendo um deles de índole predominantemente cultural;
-
-b) Conferir prioridade à expansão e consolidação da cobertura radiofónica;
-
-c) Produzir e emitir programas dirigidos às comunidades portuguesas residentes no estrangeiro e aos países de língua oficial portuguesa, podendo ainda emitir programas em língua estrangeira sobre Portugal;
-
-d) Assegurar a transmissão das mensagens e comunicados cuja divulgação seja legalmente obrigatória;
-
-e) Assegurar o exercício do direito de antena, bem como do direito de resposta dos partidos de oposição, nos termos da legislação em vigor;
-
-f) Manter e actualizar os arquivos sonoros;
-
-g) Manter o Museu da Rádio;
-
-h) Desenvolver a cooperação com os países de língua oficial portuguesa;
-
-i) Manter, dentro do quadro da política externa do Governo, relações de cooperação e intercâmbio com a UER e outras organizações internacionais, bem como com as entidades estrangeiras ligadas à radiodifusão, negociando os necessários acordos e privilegiando, sempre que possível, as dos países de língua oficial portuguesa.
+> Revogado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 5.º
 
@@ -102,11 +68,9 @@ O cumprimento das obrigações de serviço público referidas no artigo anterior
 
 ###### Artigo 6.º
 
-1 - A RDP, S. A., tem um capital social inicial de 5410910000$00, que se encontra integralmente realizado pelo Estado à data de entrada em vigor do presente decreto-lei.
+(Revogado.)
 
-2 - As acções representativas do capital de que o Estado é titular são detidas pela Direcção-Geral do Tesouro, podendo a sua gestão ser cometida a uma outra pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
-
-3 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da comunicação social, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.
+> Revogado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 7.º
 
@@ -198,7 +162,7 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ###### Artigo 3.º
 
-1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da Lei n.º 4/2001, de 23 de Fevereiro, da Lei da Televisão e do Decreto-Lei n.º 2/94, de 10 de Janeiro.
+1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da [Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/lei/4-2001-386239), de 23 de Fevereiro, da Lei da Televisão e do [Decreto-Lei n.º 2/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1994-531791), de 10 de Janeiro.
 
 2 - A sociedade pode prosseguir quaisquer outras actividades relacionadas com o serviço de radiodifusão, designadamente as seguintes:
 
@@ -216,21 +180,25 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 ###### Artigo 4.º
 
-1 - A sociedade, sem prejuízo da sua total independência na definição da programação, deve, em virtude do exercício do serviço público de radiodifusão, observar, designadamente, os princípios definidos no artigo 4.º do Decreto-Lei n.º 2/94, de 10 de Janeiro.
+1 - A sociedade, sem prejuízo da sua total independência na definição da programação, deve observar os princípios definidos para o serviço público de radiodifusão.
 
 2 - O conteúdo da programação e da informação da RDP, S. A., é da exclusiva responsabilidade dos directores que chefiam aquelas áreas.
 
 3 - A RDP, S. A., deve assegurar a contribuição dos centros regionais para a programação e informação.
 
+> Alterado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
+
 ### CAPÍTULO II — Capital social e acções
 
 ###### Artigo 5.º
 
-1 - O capital social é de 5410910000$00, está integralmente realizado pelo Estado e é dividido em acções com o valor nominal de 1000$00 cada uma, podendo haver títulos de 1, 10, 15 e 100 acções e de múltiplos de 100 até 10000.
+1 - O capital social é de (euro) 31544500, está integralmente realizado e encontra-se dividido em acções com o valor nominal de (euro) 5 cada uma, podendo ser representado por títulos de 1, 10, 15 e 100 acções e de múltiplos de 100 até 10000.
 
 2 - As acções são nominativas, não podendo ser convertidas em acções ao portador, ficando desde já autorizada, nos termos da legislação aplicável, a emissão ou conversão de acções escriturais, as quais seguem o regime das acções nominativas.
 
 3 - As acções representativas do capital social devem pertencer exclusivamente ao Estado, a pessoas colectivas de direito público, a empresas públicas ou a sociedades de capitais exclusivamente públicos.
+
+> Alterado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 6.º
 
@@ -246,9 +214,11 @@ d) Prestação de serviços de consultadoria técnica e de formação profission
 
 1 - São órgãos sociais da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
-2 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.
+2 - Os membros dos órgãos sociais exercem as suas funções por períodos de quatro anos, renováveis.
 
 3 - Os membros dos órgãos sociais consideram-se empossados no momento em que tenham sido eleitos e permanecem no exercício de funções até à eleição dos respectivos substitutos.
+
+> Alterado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 #### SECÇÃO II — Assembleia geral
 
@@ -302,9 +272,13 @@ j) Pronunciar-se sobre qualquer outro assunto para que tenha sido convocada.
 
 ###### Artigo 12.º
 
-1 - O conselho de administração é composto por um presidente, um vice-presidente e um ou três vogais.
+1 - O conselho de administração é composto por três a cinco membros, sendo um presidente e um vice-presidente.
 
 2 - Os administradores são dispensados da prestação de caução.
+
+3 - O conselho de administração poderá designar um secretário da sociedade e um suplente para exercer as funções previstas na lei.
+
+> Alterado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 13.º
 
@@ -398,65 +372,21 @@ e) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de
 
 ###### Artigo 20.º
 
-1 - O conselho de opinião é constituído por:
+(Revogado.)
 
-a) Cinco representantes eleitos pela Assembleia da República segundo o sistema proporcional;
-
-b) Três representantes designados pelo Governo;
-
-c) Um representante designado pela Assembleia Legislativa Regional de cada uma das Regiões Autónomas;
-
-d) Dois representantes designados pelos trabalhadores da RDP, S. A., um dos quais jornalista;
-
-e) Um representante designado pela confissão religiosa mais representativa;
-
-f) Dois representantes designados pelas associações patronais e dois designados pelas associações sindicais;
-
-g) Um representante designado pelas associações de pais;
-
-h) Um representante designado pelas associações de defesa da família;
-
-i) Um representante da Associação Nacional dos Municípios Portugueses;
-
-j) Um representante designado pelas associações de juventude;
-
-l) Dois representantes designados pelas associações de defesa dos consumidores, nos termos do n.º 2 do artigo 12.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto;
-
-m) Um representante designado pelas associações de defesa dos autores portugueses;
-
-n) Três representantes designados pelas colectividades de cultura, desporto e recreio;
-
-o) Um representante designado pelo Conselho de Reitores das Universidades Portuguesas;
-
-p) Um representante designado pelo movimento cooperativo;
-
-q) Dois representantes da assembleia geral da sociedade;
-
-r) Seis personalidades de reconhecido mérito, cooptadas pelos restantes membros do conselho.
-
-2 - Os membros do conselho de opinião exercem as suas funções por períodos de três anos, renováveis.
-
-3 - Os presidentes da assembleia geral, do conselho de administração e do conselho fiscal podem assistir às reuniões do conselho de opinião e participar nos trabalhos, sem direito de voto.
+> Revogado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 21.º
 
-1 - Compete ao conselho de opinião:
+(Revogado.)
 
-a) Apreciar os planos de actividades e orçamento relativos ao ano seguinte, bem como os planos plurianuais da sociedade;
-
-b) Apreciar o relatório e contas;
-
-c) Pronunciar-se sobre a actividade da empresa relativamente às bases gerais de programação e aos planos de investimento;
-
-d) Apreciar a actividade da empresa no âmbito da cooperação com os países de expressão portuguesa e do apoio às comunidades portuguesas no estrangeiro;
-
-e) Pronunciar-se sobre quaisquer assuntos que os órgãos sociais entendam submeter-lhe a parecer.
-
-2 - O conselho de opinião elege, de entre os seus membros, o presidente.
+> Revogado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ###### Artigo 22.º
 
-O conselho de opinião reúne ordinariamente uma vez por semestre e extraordinariamente mediante solicitação de dois terços dos seus membros.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 33/2003](https://diariodarepublica.pt/dr/detalhe/lei/33-2003-656091), publicado em 2003-08-22.
 
 ### CAPÍTULO IV — Dos exercícios sociais e aplicação de resultados
 

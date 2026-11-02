@@ -54,61 +54,45 @@ A Reserva Natural visa fundamentalmente assegurar, dentro dos limites da sua ár
 
 ###### Artigo 5.º
 
-Até à entrada em vigor da portaria que vier a estabelecer a orgânica e a regulamentar o funcionamento das estruturas definitivas da Reserva Natural, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, esta será administrada por uma comissão instaladora, a criar por despacho do membro do Governo responsável pelo ordenamento e ambiente, presidida pelo representante do Serviço Nacional de Parques, Reservas e Património Paisagístico, da qual farão parte representantes das seguintes entidades:
+(Revogado.)
 
-Direcção-Geral do Planeamento Urbanístico, Direcção-Geral dos Serviços de Fomento Marítimo, Direcção-Geral de Portos, Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, Direcção-Geral de Hidráulica e Engenharia Agrícola, Direcção-Geral de Administração das Pescas, Instituto Nacional de Investigação das Pescas, Direcção-Geral de Turismo, Direcção-Geral da Qualidade, Direcção-Geral do Ordenamento e Gestão Florestal, Junta Autónoma do Porto de Setúbal, Câmaras Municipais de Setúbal, Palmela, Alcácer do Sal e Grândola, Museu de Arqueologia e Etnografia de Setúbal e Liga para a Protecção da Natureza.
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 ###### Artigo 6.º
 
-1 - O ordenamento preliminar e o regulamento da Reserva Natural do Estuário do Sado serão elaborados pelo Serviço Nacional de Parques, Reservas e Património Paisagístico, no prazo de um ano a partir da publicação do presente diploma, sendo acompanhados, durante a sua execução, pela comissão instaladora, que os aprovará quando concluídos e antes de serem submetidos a aprovação superior.
+1 - (Revogado.)
 
-2 - O prazo referido no número anterior poderá ser prorrogado, se necessário, pelo período máximo de um ano, por simples despacho do membro do Governo responsável pelo ordenamento e ambiente.
+2 - (Revogado.)
 
 3 - Sem prejuízo do que vier a ser concretizado através do n.º 1 e dado o estado de conservação da vegetação natural de certas formações dunares, assim como o interesse tanto do ponto de vista florístico como de comunidades biológicas, fica desde já definida, dentro dos limites da Reserva Natural do Estuário do Sado, a Reserva Botânica das Dunas de Tróia, cujos limites vão demarcados na carta anexa ao presente decreto e são em linhas gerais os seguintes:
 
 Uma linha nordeste-sudoeste no extremo do eucaliptal plantado na Ponta de Pêra que se estende do estuário até à linha limite da preia-mar na zona da costa oceânica, continua esta linha para sudeste e inflecte, no início das dunas fixadas artificialmente, até ao estuário, por onde se prolonga na direcção noroeste, englobando uma parte dos sapais do Esteiro Novo e Canal da Malha, até voltar a ligar com a estrema nordeste-sudoeste.
 
+> Alterado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+
 ###### Artigo 7.º
 
-1 - Dentro dos limites da Reserva Natural (excluídos os perímetros urbanos dos aglomerados) ficam sujeitos a parecer favorável da comissão instaladora:
+(Revogado.)
 
-a) Criação de novos núcleos populacionais;
-
-b) Construção, reconstrução, ampliação de edifícios ou outras construções de qualquer natureza;
-
-c) Instalação de explorações agrícolas e piscícolas e ampliação das já existentes;
-
-d) Aterros, escavações, extracção de areias, ou qualquer alteração à configuração do relevo natural, excepto dragagens em canais de acesso às instalações portuárias existentes;
-
-e) Captação e desvio de águas;
-
-f) Abertura de novas vias de comunicação e passagem de linhas eléctricas ou telefónicas;
-
-g) Derrube de árvores em maciço;
-
-h) Abertura de fossas, depósitos de lixo ou materiais;
-
-i) Introdução de animais e de espécies vegetais não indígenas.
-
-2 - Mesmo que integrados nos perímetros urbanos dos aglomerados, a instalação ou ampliação de explorações industriais susceptíveis de produzirem uma acção poluidora que afecte o estuário carece igualmente de parecer favorável da comissão instaladora.
-
-3 - O parecer a que se referem os números anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 ###### Artigo 8.º
 
-O exercício da caça será regulamentado pelo Serviço de Caça da Direcção-Geral do Ordenamento e Gestão Florestal, em colaboração com o Serviço Nacional de Parques, Reservas e Património Paisagístico.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 ###### Artigo 9.º
 
-1 - As obras e trabalhos efectuados com inobservância do preceituado neste diploma estão sujeitos ao disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+(Revogado.)
 
-2 - São nulas e de nenhum efeito as licenças que vierem a ser concedidas com violação do regime instituído neste decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 ###### Artigo 10.º
 
-1 - As acções de policiamento e de fiscalização competem aos funcionários do Serviço Nacional de Parques, Reservas e Património Paisagístico, designadamente ao Corpo de Vigilantes da Natureza, à Direcção-Geral do Ordenamento e Gestão Florestal, à Direcção-Geral de Hidráulica e Engenharia Agrícola, à Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, à Capitania do Porto de Setúbal, às câmaras municipais da área, à Guarda Nacional Republicana, à Guarda Fiscal e, de uma maneira geral, a todos os outros serviços com jurisdição na área.
+(Revogado.)
 
-2 - Os autos de notícia por infracção ao disposto no presente decreto-lei são levantados e processados nos termos dos artigos 166.º e 167.º do Código do Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 ###### Artigo 11.º
 
@@ -116,7 +100,9 @@ As despesas emergentes da execução do presente diploma serão suportadas pelas
 
 ###### Artigo 12.º
 
-As dúvidas resultantes da interpretação do presente diploma serão resolvidas por despacho do membro do Governo responsável pelo ordenamento e ambiente.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
 

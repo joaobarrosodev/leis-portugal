@@ -1,0 +1,348 @@
+{
+  "id": "pt:dre:549019:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Direcção",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Conselho de inspecção",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Serviços",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Inspecção de Serviços Públicos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Inspecção de Serviços Tributários",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Núcleo de Fiscalização dos Tabacos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Inspecção Patrimonial e Financeira das Autarquias Locais",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Inspecção do Sector Empresarial do Estado",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Inspecção de Empresas",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Núcleo de Inspecção às Entidades Parafinanceiras",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Serviço Jurídico",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Serviço de Coordenação dos Controlos Comunitários",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Gabinete de Estudos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Centros de apoio regional",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Núcleos de apoio técnico",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Serviços Administrativos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Secretariados de apoio",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Competência comum aos diversos serviços",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Âmbito e objectivos das acções",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Direcção dos serviços",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Orientação e execução de acções",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Funcionamento interno",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Plano e relatório anual de actividades",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Quadro do pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Classificação anual de serviço",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Provimento do pessoal dirigente",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Provimento do pessoal da carreira de inspecção",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Provimento do pessoal técnico de finanças",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Provimento do pessoal de fiscalização dos tabacos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Provimento de outro pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Regime de provimento e selecção",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Remunerações",
+      "texto": "1 - (Revogado.)\n\n2 - O pessoal da carreira de inspecção, incluindo o pessoal dirigente, enquanto corpo especial, nos termos do n.º 3 do artigo 16.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, é remunerado de acordo com escalas indiciárias próprias.",
+      "alterador": 12
+    },
+    {
+      "chave": "35.º-A",
+      "epigrafe": "Remunerações dos dirigentes",
+      "texto": "1 - Para os efeitos do disposto no n.º 2 do artigo anterior, a escala indiciária aplicável aos dirigentes da carreira de inspecção é a seguinte:\n\nInspector-geral de finanças - 100;\n\nSubinspector-geral de finanças - 90%;\n\nInspector de finanças - director - 80%;\n\nInspector de finanças - chefe - 75%.\n\n2 - O valor do índice 100 da remuneração base do inspector-geral de finanças é de 730800$00.",
+      "alterador": 11
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Direitos e prerrogativas",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Dever de sigilo",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Incompatibilidades",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Fiscalização de mediadores",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Fiscalização do resultado das acções da IGF",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Fornecimento à IGF de instruções administrativas",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Transferências",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Remunerações",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Trabalhos e cursos para ingresso e acesso em carreiras",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Inspectores de finanças chefes",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Transição",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Reclassificação de escriturários-dactilógrafos",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Reclassificação profissional",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Preenchimento de lugares",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Dispensa transitória de condições",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Provimento de lugares do quadro da IAL",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Provimento de lugar",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Regulamentação da Lei Orgânica da IGF",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Revogação do direito anterior",
+      "texto": "(Revogado.)",
+      "alterador": 12
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterações ao mapa anexo (quadro de pessoal) feitas pelas Portarias 154/91, 266/91, 992/91, 360/92, 1173/92, pelo Despacho Normativo 716/94 e pelos arts. 64.º-65.º do DL 324/93: os mapas só vêm em imagem e não são artigos; não aplicadas (o mapa é de resto revogado com o diploma pelo DL 249/98).",
+  "instrucoes": [
+    "Portarias 154/91, 266/91, 992/91, 360/92, 1173/92 e Despacho Normativo 716/94: alteram o mapa anexo (imagem): não aplicadas.",
+    "DL 324/93 arts. 64.º e 65.º (duas vezes): transição de pessoal e abate de lugares no mapa, sem alteração de artigos: nada aplicado.",
+    "DL 325/93 art. 65.º: revoga al. d) do n.º 1 do art. 3.º, n.º 3 do art. 6.º, arts. 9.º e 32.º, n.º 3 do art. 23.º e n.º 2 do art. 36.º e elimina referências ao NUFT; absorvido pela revogação total posterior.",
+    "DL 162/95: nova redação dos arts. 29.º (n.º 3) e 42.º (n.os 1 e 3); absorvido pela revogação total posterior.",
+    "DL 82/97 art. 1.º: adita o art. 35.º-A; aplicado.",
+    "DL 249/98 art. 37.º, n.º 1: revoga o DL 353/89 exceto o n.º 2 do art. 35.º e o art. 35.º-A; todos os outros artigos (Revogado.), art. 35.º com n.º 1 revogado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

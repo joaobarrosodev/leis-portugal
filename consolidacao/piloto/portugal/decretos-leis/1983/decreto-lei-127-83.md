@@ -40,15 +40,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 2.º
 
-1 - As ramas de petróleo bruto entradas no porto de Sines e destinadas à refinação ficam sujeitas ao pagamento de uma taxa por tonelada métrica, que será fixada através da portaria a que alude o artigo 4.º do presente diploma.
+(Revogado.)
 
-2 - O transhipment de ramas de petróleo bruto ou produtos refinados especiais fica igualmente sujeito ao pagamento de uma taxa sobre mercadoria, a estabelecer pela portaria a que se refere o número anterior, distinguindo entre a operação que utilize as instalações do porto daquela que se efectue ao largo.
+> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.
 
 ###### Artigo 3.º
 
-1 - O produto da cobrança das taxas referidas no artigo 2.º deste diploma constitui receita da Administração do Porto de Sines, que esta entregará, até ao dia 10 do mês seguinte ao da respectiva cobrança, nos cofres do Tesouro, mediante guia de operações de tesouraria e escriturada em conta especial, criada para o efeito.
+(Revogado.)
 
-2 - Através de despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, será fixada a parte do produto da cobrança, depositado em operações de tesouraria, a que se refere o n.º 1 do presente artigo, a entregar ao Gabinete da Área de Sines a fim de habilitar este organismo, no âmbito do seu orçamento privativo, a fazer face aos encargos resultantes dos investimentos portuários, bem como será estabelecida a aplicação da quantia remanescente.
+> Revogado pelo/a [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), publicado em 1991-07-25.
 
 ###### Artigo 4.º
 

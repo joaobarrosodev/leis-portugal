@@ -7,15 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:407488:por
-    title: Decreto-Lei n.º 53/74
-    publication_date: '1974-02-15'
-  - id: pt:dre:662721:por
-    title: Decreto-Lei n.º 89/87
-    publication_date: '1987-02-26'
   - id: pt:dre:553431:por
     title: Lei n.º 16/2003
     publication_date: '2003-06-04'
+  - id: pt:dre:662721:por
+    title: Decreto-Lei n.º 89/87
+    publication_date: '1987-02-26'
+  - id: pt:dre:407488:por
+    title: Decreto-Lei n.º 53/74
+    publication_date: '1974-02-15'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -104,7 +104,7 @@ Os leitos das águas do mar, correntes de água, lagos e lagoas, bem como as res
 
 7 - Nas Regiões Autónomas, se a margem atingir uma estrada regional ou municipal existente, a sua largura só se estenderá até essa via.
 
-> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488) e [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721) e [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
+> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 4.º — Noção de zona adjacente; sua largura
 
@@ -114,9 +114,9 @@ Os leitos das águas do mar, correntes de água, lagos e lagoas, bem como as res
 
 3 - Nas Regiões Autónomas, se a linha limite do leito atingir uma estrada regional ou municipal, a zona adjacente estende-se desde o limite do leito até à linha convencional definida nos termos do número anterior.
 
-> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488) e [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721) e [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
+> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
-###### Artigo 5.º — (Condição jurídica dos leitos, margens e zonas adjacentes)
+###### Artigo 5.º — Condição jurídica dos leitos, margens e zonas adjacentes
 
 1. Consideram-se do domínio público do Estado os leitos e margens das águas do mar e de quaisquer águas navegáveis ou flutuáveis, sempre que tais leitos e margens lhe pertençam, e bem assim os leitos e margens das águas não navegáveis nem flutuáveis que atravessem terrenos públicos do Estado.
 
@@ -124,7 +124,9 @@ Os leitos das águas do mar, correntes de água, lagos e lagoas, bem como as res
 
 3. Consideram-se objecto de propriedade privada, sujeitas a restrições de utilidade pública, as zonas adjacentes.
 
-4. Consideram-se objecto de propriedade privada, nos arquipélagos da Madeira e dos Açores, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas.
+4 - Nas Regiões Autónomas, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas constituem propriedade privada.
+
+> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
 ###### Artigo 6.º — (Recuo das águas)
 
@@ -184,7 +186,7 @@ Servidões administrativas e restrições de utilidade pública
 
 4. Se da execução pelo Estado de qualquer das obras referidas no n.º 3 deste artigo resultarem prejuízos que excedam os encargos resultantes das obrigações legais dos proprietários, o Estado indemnizá-los-á. Se se tornar necessária, para a execução dessas obras, qualquer porção de terreno particular, ainda que situada para além das margens, o Estado poderá expropriá-la.
 
-###### Artigo 13.º — (Zonas ameaçadas pelo mar)
+###### Artigo 13.º — Zonas ameaçadas pelo mar
 
 1. Sempre que se preveja tècnicamente o avanço das águas do mar sobre terrenos particulares situados para além da margem, pode o Estado classificar a área em causa como zona ameaçada pelo mar.
 
@@ -192,21 +194,53 @@ Servidões administrativas e restrições de utilidade pública
 
 3. Uma vez classificada certa área como zona ameaçada pelo mar, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º
 
-###### Artigo 14.º — (Zonas ameaçadas pelas cheias)
+4 - Nas Regiões Autónomas podem ser classificadas como zonas ameaçadas pelo mar as áreas contíguas ao leito, nos termos do n.º 3 do artigo 4.º
 
-1. O Estado pode classificar como zona ameaçada pelas cheias a área contígua à margem de um rio que se estenda até à linha alcançada pela maior cheia que se produza no período de um século.
+> Alterado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
 
-2. A classificação de uma área como zona ameaçada pelas cheias será feita por decreto emanado do Ministério das Obras Públicas, ouvido o Ministério da Marinha, nas áreas sujeitas à jurisdição das autoridades marítimas.
+###### Artigo 14.º — Zonas ameaçadas pelas cheias
 
-3. Uma vez classificada certa área como zona ameaçada pelas cheias, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º
+1 - O Governo pode classificar como zona ameaçada pelas cheias, adiante designada por zona adjacente, a área contígua à margem de um curso de água, que se estende até à linha alcançada pela maior cheia com probabilidade de ocorrência no período de um século (cheia dos 100 anos).
 
-###### Artigo 15.º — (Regime das zonas adjacentes)
+2 - A classificação de uma área como zona adjacente será feita por portaria do Ministro do Plano e da Administração do Território, ouvidas as autoridades marítimas, em relação aos trechos sujeitos à sua jurisdição.
 
-1. A aprovação de planos e anteplanos de urbanização e expansão, bem como a celebração de contratos de urbanização, relativos a áreas abrangidas, no todo ou em parte, numa zona adjacente, depende de parecer da Direcção-Geral dos Serviços Hidráulicos.
+3 - A portaria referida no número anterior conterá em anexo uma planta delimitando a área classificada e definindo dentro desta as áreas de ocupação edificada proibida e ou áreas de ocupação edificada condicionada.
 
-2. O licenciamento municipal de quaisquer operações de loteamento urbano relativas às áreas referidas no n.º 1 deste artigo depende de parecer favorável da Direcção-Geral dos Serviços Hidráulicos, cabendo ao Ministro das Obras Públicas o poder de decidir no caso de a câmara municipal competente não se conformar com aquele parecer.
+4 - Uma vez classificada certa área como zona adjacente, os terrenos nela abrangidos ficam sujeitos ao regime estabelecido no artigo 15.º
 
-3. Nas zonas adjacentes em que não haja planos ou anteplanos de urbanização e expansão, nem contratos de urbanização, nem planos de loteamento urbano, a realização de quaisquer obras ou edificações só pode ter início mediante licença da Direcção-Geral dos Serviços Hidráulicos e desde que se executem as obras hidráulicas que ela eventualmente imponha.
+5 - Poderão ser sujeitas a medidas preventivas, nos termos do capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, as áreas que, de acordo com os estudos elaborados, se presumam venham a ser classificadas ao abrigo do presente artigo.
+
+6 - A iniciativa para a criação de zona adjacente poderá pertencer ao Ministro do Plano e da Administração do Território, ouvida a câmara municipal da área respectiva, ou decorrer de proposta desta última.
+
+7 - As acções de fiscalização e a execução de obras de conservação e regularização, a realizar nas zonas adjacentes, podem ser exercidas no regime de colaboração a que se refere o artigo 12.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.
+
+8 - A aprovação de planos ou ante planos de urbanização e de contratos de urbanização, bem como o licenciamento de operações de loteamento urbano ou de quaisquer obras ou edificações, relativos a áreas contíguas a cursos de água que não estejam ainda classificadas como zonas adjacentes, carecem de parecer vinculativo da Direcção-Geral dos Recursos Naturais, quando estejam dentro do limite da maior cheia conhecida ou de uma faixa de 100 m, para cada lado da linha de margem do curso de água, quando se desconheça aquele limite.
+
+> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 15.º — Regime das zonas adjacentes
+
+1 - Nas áreas delimitadas, ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, como zonas de ocupação edificada proibida é interdito:
+
+a) Destruir o revestimento vegetal ou alterar o relevo natural, com excepção da prática de culturas tradicionalmente integradas em explorações agrícolas;
+
+b) Instalar vazadouros, lixeiras, parques de sucata ou quaisquer outros depósitos de materiais;
+
+c) Implantar edifícios ou realizar obras susceptíveis de constituir obstrução à livre passagem das águas;
+
+d) Dividir a propriedade rústica em áreas inferiores à unidade mínima de cultura.
+
+2 - Nas áreas referidas no número anterior, a implantação de infra-estruturas indispensáveis ou a realização de obras de correcção hidráulica depende de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.
+
+3 - Podem as áreas classificadas referidas no n.º 1 ser utilizadas para instalação de equipamentos de lazer, desde que não impliquem a construção de edifícios, dependendo de parecer vinculativo da Direcção-Geral do Ordenamento do Território e da Direcção-Geral dos Recursos Naturais, emitido no prazo de 60 dias, findo o qual se interpreta a ausência de parecer como consentimento.
+
+4 - Nas áreas delimitadas como zonas de ocupação edificada condicionada, classificadas ao abrigo do artigo 4.º ou do n.º 3 do artigo 14.º, só é permitida, mediante parecer favorável da Direcção-Geral dos Recursos Naturais, a instalação de edifícios que constituam complemento indispensável de outros já existentes e devidamente licenciados ou, então, que se encontrem inseridos em planos já aprovados à data da entrada em vigor deste diploma.
+
+5 - As cotas dos pisos inferiores dos edifícios a construir nas áreas referidas no número anterior deverão ser sempre superiores às cotas previstas para a cheia dos 100 anos, devendo este requisito ser expressamente referido no respectivo processo de licenciamento.
+
+6 - São nulos e de nenhum efeito todos os actos ou licenciamentos que desrespeitem o regime referido nos números anteriores.
+
+> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
 
 ###### Artigo 16.º — (Disposições complementares)
 
@@ -244,9 +278,13 @@ d) Aproveitamento de salinas, sapais e terrenos semelhantes para explorações a
 
 e) Edificação de estabelecimentos hoteleiros ou similares declarados de interesse para o turismo e de conjuntos turísticos como tais qualificados nos termos da legislação aplicável.
 
-###### Artigo 20.º — (Prazos)
+###### Artigo 20.º — Prazos
 
-As licenças e concessões podem ser outorgadas pelos prazos máximos de, respectivamente, cinco e trinta anos.
+1. As licenças e concessões podem ser outorgadas pelos prazos máximos de, respectivamente, cinco e trinta anos.
+
+2. Em casos especiais, devidamente justificados, o Conselho de Ministros pode autorizar a outorga de concessões por prazo superior a trinta anos ou por tempo indeterminado.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1974-407488), publicado em 1974-02-15.
 
 ###### Artigo 21.º — (Conteúdo do direito de uso privativo)
 
@@ -346,17 +384,55 @@ IV
 
 Disposições finais e transitórias
 
-###### Artigo 32.º — (Entidades competentes nos arquipélagos da Madeira e dos Açores)
+###### Artigo 32.º — Sujeição a registo
 
-Nas zonas de jurisdição das administrações portuárias e nos distritos autónomos dos arquipélagos da Madeira e dos Açores, em que a Direcção-Geral dos Serviços Hidráulicos não exerça jurisdição, os poderes que neste diploma lhe são conferidos serão exercidos pelas entidades que em cada caso aí a substituam.
+O ónus real resultante da classificação de uma área como zona adjacente, nos termos do artigo 14.º e da alínea c) do n.º 1 do artigo 15.º, é acto sujeito a registo, nos termos e para os efeitos da alínea u) do n.º 1 do artigo 2.º do Código de Registo Predial.
 
-###### Artigo 33.º — (Disposições expressamente revogadas)
+> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 33.º — Embargo e demolição
+
+1 - Tanto a Direcção-Geral do Ordenamento do Território como a Direcção-Geral dos Recursos Naturais são competentes para promover directamente o embargo e demolição de obras ou de outras acções realizadas em violação do disposto nos artigos 4.º, 14.º e 15.º
+
+2 - A entidade embargante intimará o proprietário a demolir as obras feitas ou a repor o terreno no estado anterior à intervenção no prazo que lhe for marcado. Decorrido o prazo sem que a intimação se mostre cumprida, proceder-se-á à demolição ou reposição nos termos do n.º 1, por conta do proprietário, sendo as despesas cobradas pelo processo de execução fiscal, servindo de título executivo certidão passada pela entidade competente para ordenar a demolição, extraída de livros ou documentos donde conste a importância, bem como os demais requisitos exigidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
+
+> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 34.º — Desobediência aos embargos
+
+1 - Qualquer empresa ou empresas que prossigam obras ou acções que estejam embargadas, nos termos do artigo anterior, podem, sem prejuízo de outros procedimentos legais, ser impedidas de participar em concursos públicos para fornecimento de bens e serviços ao Estado, por prazo não superior a dois anos, ou ser determinada a perda de benefícios fiscais e financeiros, em termos a definir por despacho conjunto dos Ministros das Finanças e do Plano e da Administração do Território.
+
+2 - As sanções previstas no número anterior serão comunicadas à Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e Industriais de Construção Civil, a qual pode deliberar aplicar acessoriamente a pena de suspensão ou cassação do alvará prevista no [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734), de 24 de Novembro, e na [Portaria n.º 351/71](https://diariodarepublica.pt/dr/detalhe/portaria/351-1971-217374), de 30 de Junho.
+
+> Alterado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 35.º — Contra-ordenações
+
+1 - A violação do disposto nos artigos 14.º e 15.º por parte dos proprietários ou titulares de direitos reais sobre os prédios, seus comissários ou mandatários é punível como contra-ordenação, nos termos do [Decreto-Lei n.º 438/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1982-378313), de 27 de Outubro, cabendo à entidade competente para proceder ao embargo a instrução do processo, o levantamento dos autos e a aplicação das coimas.
+
+2 - O montante das coimas será graduado entre o mínimo de 50000$00 e o máximo de 5000000$00, ou 10000000$00, se houver dolo.
+
+3 - A tentativa e a negligência são sempre puníveis.
+
+> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 36.º — Entidades competentes nas Regiões Autónomas
+
+Nas áreas sob jurisdição portuária e nas Regiões Autónomas as competências conferidas pelo presente diploma são exercidas, respectivamente, pelos departamentos, organismos ou serviços a que legalmente estão atribuídas e pelos departamentos, organismos ou serviços das respectivas administrações regionais autónomas com atribuições correspondentes.
+
+> Aditado pelo/a [Lei n.º 16/2003](https://diariodarepublica.pt/dr/detalhe/lei/16-2003-553431), publicado em 2003-06-04.
+
+###### Artigo 37.º — Disposições expressamente revogadas
 
 Ficam expressamente revogados o artigo 261.º do Regulamento dos Serviços Hidráulicos, o artigo 14.º do [Decreto n.º 12445](https://diariodarepublica.pt/dr/detalhe/decreto/12445-1926-159281), de 29 de Setembro de 1926, o artigo 5.º do [Decreto-Lei n.º 23925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23925-1934-464419), de 29 de Maio de 1934, e o artigo 1.º do [Decreto-Lei n.º 49215](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49215-1969-214774), de 30 de Agosto de 1969.
 
-###### Artigo 34.º — (Entrada em vigor)
+> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
+
+###### Artigo 38.º — Entrada em vigor
 
 O presente diploma entra em vigor noventa dias após a sua publicação.
+
+> Aditado pelo/a [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), publicado em 1987-02-26.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 

@@ -7,12 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:457470:por
-    title: Decreto Regulamentar n.º 69/80
-    publication_date: '1980-11-05'
   - id: pt:dre:450847:por
     title: Decreto Regulamentar n.º 40/83
     publication_date: '1983-05-10'
+  - id: pt:dre:453254:por
+    title: Declaração de Rectificação n.º 49/2008
+    publication_date: '2008-08-27'
+  - id: pt:dre:457470:por
+    title: Decreto Regulamentar n.º 69/80
+    publication_date: '1980-11-05'
 ---
 
 # Decreto Regulamentar n.º 44/80
@@ -59,13 +62,27 @@ Direcção de Serviços de Gestão Patrimonial;
 
 Direcção de Serviços Especiais e de Inspecção Patrimonial;
 
-Direcção de Serviços de Gestão de Veículos do Estado.
+Direcção de Serviços de Gestão de Veículos do Estado;
 
-###### Artigo 3.º — Estrutura dos serviços centrais operativos
+Direcção de Serviços do Aprovisionamento Público.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+
+###### Artigo 3.º — Estrutura dos serviços operativos
 
 1 - Os serviços centrais operativos da DGPE têm a seguinte estrutura:
 
 a) Direcção de Serviços de Cadastro e Inventário:
+
+e) Direcção de Serviços do Aprovisionamento Público:
+
+Divisão de Racionalização de Consumos;
+
+Divisão de Coordenação de Aquisições;
+
+Divisão de Divulgação e Controle.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
 
 ##### Divisão de Móveis;
 
@@ -158,6 +175,48 @@ b) Assegurar o processamento dos actos relacionados com um aproveitamento racion
 7 - À Direcção de Serviços de Gestão de Veículos do Estado incumbem as atribuições conferidas pelo [Decreto-Lei n.º 49/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1978-447689), de 23 de Março, e pelo [Decreto Regulamentar n.º 69/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1979-365762), de 28 de Dezembro.
 
 8 - A Direcção de Serviços referida no número anterior será efectivamente implementada no âmbito da DGPE, nos termos e condições do artigo 17.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro.
+
+9 - À Divisão de Racionalização de Consumos compete:
+
+a) Estudar e propor as exigências técnicas a que deverão obedecer as aquisições públicas nos aspectos de concepção/construção e utilização/conservação, numa perspectiva de equilíbrio do custo com a eficácia;
+
+b) Seleccionar os métodos de verificação da qualidade dos produtos;
+
+c) Preparar os elementos de carácter técnico a integrar nos contratos e assegurar a análise técnica das propostas;
+
+d) Estudar os dossiers de fabrico compatíveis com as exigências técnicas das especificações dos produtos;
+
+e) Promover, em colaboração com as entidades especializadas, os testes necessários à verificação do cumprimento das cláusulas técnicas;
+
+f) Estabelecer regras de apoio técnico à recepção dos produtos e acompanhar os serviços na sua execução.
+
+10 - À Divisão de Coordenação de Aquisições compete:
+
+a) Estudar e propor as exigências económicas que deverão integrar os contratos e proceder à análise económica das propostas;
+
+b) Desenvolver estudos e assegurar a revisão e actualização dos preços dos bens e serviços integrados nos contratos e elaborar as fórmulas de revisão tipo quando esteja prevista a sua aplicação;
+
+c) Proceder à determinação global das necessidades de aquisição com base nos elementos fornecidos pelas entidades públicas em ordem à programação das aquisições;
+
+d) Desenvolver estudos económicos de prospecção e evolução dos mercados;
+
+e) Orientar os agrupamentos de ecomenda;
+
+f) Promover junto dos fornecedores a recolha de dados quanto à utilização dos contratos na modalidade de compra directa.
+
+11 - À Divisão de Divulgação e Controle compete:
+
+a) Elaborar e difundir pelos serviços públicos toda a informação com interesse para a melhoria dos aprovisionamentos;
+
+b) Assegurar a divulgação aos serviços públicos dos contratos celebrados com os fornecedores;
+
+c) Promover a elaboração de estatísticas dos contratos de aprovisionamento celebrados pelos serviços públicos;
+
+d) Proceder ao lançamento de inquéritos e ao tratamento e recolha de dados sobre consumos e preferências dos serviços;
+
+e) Apoiar os serviços ou comissões de aprovisionamento específico.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
 
 #### SECÇÃO II — Serviços de apoio técnico
 
@@ -285,9 +344,19 @@ e) Colaborar nos trabalhos de aperfeiçoamento da organização dos processos.
 
 As categorias, letras de vencimento e número de funcionários da DGPE, de harmonia com o disposto no artigo 15.º do [Decreto-Lei n.º 518/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1979-365748), de 28 de Dezembro, constam do mapa anexo ao presente decreto, que pode ser alterado, quer em efectivos, quer em categorias, sempre que os mesmos constem da lei geral, por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, com observância das normas constantes do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), de 14 de Março, e da [Portaria n.º 133/80](https://diariodarepublica.pt/dr/detalhe/portaria/133-1980-677466), de 26 de Março.
 
+###### Artigo 10.º-A
+
+1 - Os lugares previstos no mapa anexo ao presente diploma para a carreira de auxiliar de gestão patrimonial abrangem também a categoria de auxiliar de gestão patrimonial estagiário, a que corresponde o vencimento da letra M.
+
+2 - Um dos lugares de subdirector-geral previstos no mapa anexo ao presente diploma será extinto quando vagar.
+
+> Aditado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+
 ###### Artigo 11.º — Recrutamento para lugares de ingresso
 
-O recrutamento para lugares de ingresso no quadro de pessoal da DGPE far-se-á sempre por técnicas e métodos de selecção objectiva, designadamente para o quadro de pessoal técnico de gestão patrimonial, através da frequência de cursos adequados à preparação profissional dos candidatos ou a prévio estágio.
+(Revogado.)
+
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 12.º — Grupos profissionais
 
@@ -309,9 +378,11 @@ g) Pessoal operário semiqualificado e auxiliar.
 
 2 - O grupo do pessoal técnico superior abrangerá os conservadores dos palácios e monumentos nacionais, os bibliotecários-arquivistas do Arquivo Histórico do Ministério das Finanças e da biblioteca do Palácio Nacional de Mafra, cujo estatuto se rege essencialmente pelo disposto no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e os técnicos superiores licenciados em Direito, Economia, Finanças, Gestão de Empresas ou Engenharia.
 
-3 - A carreira técnica de gestão patrimonial gradua-se pelas categorias de auxiliar, perito, técnico e subdirector de gestão patrimonial.
+3 - (Revogado.)
 
 4 - O grupo do pessoal de informática integra as carreiras de controlador de trabalho, operador de registo de dados, operador, programador e analista.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ##### SUBSECÇÃO II — Provimento e nomeação do pessoal dirigente
 
@@ -329,7 +400,7 @@ O provimento e nomeação do pessoal dirigente, cujos níveis são os constantes
 
 3 - (Revogado.)
 
-> Alterado pelo/a [Decreto Regulamentar n.º 69/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1980-457470) e [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
+> Alterado pelo/a [Decreto Regulamentar n.º 40/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1983-450847), publicado em 1983-05-10.
 
 #### SECÇÃO II — Dinâmica das carreiras
 
@@ -337,45 +408,21 @@ O provimento e nomeação do pessoal dirigente, cujos níveis são os constantes
 
 ###### Artigo 15.º — Recrutamento do pessoal técnico de gestão patrimonial
 
-O recrutamento do pessoal técnico de gestão patrimonial será feito nos seguintes termos:
+(Revogado.)
 
-a) Auxiliares de gestão patrimonial de 2.ª classe, de entre os auxiliares de gestão patrimonial estagiários que tenham concluído com aproveitamento o respectivo estágio;
-
-b) Auxiliares de gestão patrimonial de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
-
-c) Técnicos de gestão patrimonial de 2.ª classe, de entre os auxiliares de gestão patrimonial de 1.ª classe com, pelo menos, três anos de serviço na categoria e aprovação no curso II indicado no mapa III anexo ao presente diploma, sendo as nomeações efectuadas segundo graduação estabelecida nos termos dos n.os 1 a 3 do artigo 24.º;
-
-d) Técnicos de gestão patrimonial de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
-
-e) Peritos de gestão patrimonial de 2.ª classe, de entre técnicos de gestão patrimonial de 1.ª classe com, pelo menos, três anos de serviço na categoria e aprovação no curso III mencionado no mapa III anexo ao presente decreto, sendo as nomeações efectuadas segundo graduação estabelecida nos termos dos n.os 1 a 3 do artigo 24.º;
-
-f) Peritos de gestão patrimonial de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
-
-g) Subdirector de gestão patrimonial, de entre os peritos de gestão patrimonial de 1.ª classe com, pelo menos, três anos na categoria e aprovação no curso IV mencionado no mapa III.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 16.º — Admissão de auxiliares de gestão patrimonial estagiários
 
-1 - A admissão de auxiliares de gestão patrimonial estagiários far-se-à mediante provas de selecção, às quais poderão candidatar-se indivíduos que tenham, pelo menos, 18 anos de idade e possuam o curso complementar do ensino secundário ou habilitação equivalente.
+(Revogado.)
 
-2 - Na admissão a que se refere o número anterior terão preferência, em igualdade de circunstâncias, os funcionários da DGPE.
-
-3 - Não serão admitidos ao estágio mais candidatos do que as vagas existentes na categoria de ingresso.
-
-4 - O estágio a que se refere o presente artigo terá a duração de um ano.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 17.º — Graduação dos candidatos para efeitos de nomeação para a categoria de auxiliar de gestão patrimonial de 2.ª classe
 
-1 - As nomeações para a categoria de auxiliar de gestão patrimonial de 2.ª classe serão efectuadas segundo graduação estabelecida em função dos seguintes factores:
+(Revogado.)
 
-a) Nota da prova final a realizar após o curso I indicado no mapa III anexo ao presente diploma;
-
-b) Informação referente ao estágio propriamente dito.
-
-2 - A classificação final para efeitos da graduação a que se refere o número anterior será a média aritmética dos factores a) e b), sendo excluídos os candidatos com média geral inferior a 10 no exame final, independentemente da média geral.
-
-SUBSEÇÇÃO II
-
-Pessoal técnico superior
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ###### Artigo 18.º — Provimento
 
@@ -539,9 +586,7 @@ Incompatibilidades
 
 ### CAPÍTULO III
 
-###### Artigo 34.º
-
-Prémio de gestão patrimonial
+###### Artigo 34.º — Prémio de gestão patrimonial
 
 O direito à percepção de remunerações até ao limite fixado no artigo 46.º do [Decreto-Lei n.º 506/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1973-413054), de 9 de Outubro, além dos respectivos vencimentos, em conformidade com o mapa anexo ao presente diploma, tornar-se-á efectivo pela seguinte forma:
 
@@ -557,7 +602,7 @@ c) O pessoal auxiliar;
 
 d) O pessoal que tiver apenas a categoria de estagiário.
 
-3 - O prémio de gestão patrimonial será distribuído pelos funcionários não excluídos nos termos do n.º 2 do presente artigo na proporção dos respectivos vencimentos, com o limite máximo anual de um terço dos mesmos.
+3 - O prémio de gestão patrimonial será distribuído pelos funcionários não excluídos nos termos do n.º 2 do presente artigo na proporção dos respectivos vencimentos, com o limite máximo anual de 30% dos mesmos.
 
 4 - A distribuição referida no número anterior será feita trimestralmente, sendo as correspondentes folhas de despesa processadas pela Direcção dos Serviços Administrativos da DGPE em conta de verba apropriada inscrita no orçamento do Ministério das Finanças e do Plano.
 
@@ -566,6 +611,8 @@ d) O pessoal que tiver apenas a categoria de estagiário.
 6 - O prémio de gestão patrimonial fica sujeito aos descontos e imposições legais que incidem sobre os vencimentos e só será devido quando haja lugar ao abono do correspondente vencimento de exercício.
 
 7 - O valor ilíquido do prémio de gestão patrimonial a distribuir por cada funcionário é arredondado trimestralmente para a centena de escudos imediatamente superior, independentemente do disposto na parte final do n.º 3.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 69/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1980-457470), publicado em 1980-11-05.
 
 ### CAPÍTULO IV — Contrato de mera prestação de serviços
 

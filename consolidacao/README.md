@@ -450,3 +450,16 @@ Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027
 - Rendimento: 19/40 = 48% sobre a amostra inteira, 19/39 = 49% sobre os juntados, 61% sobre os que mudaram. Antes, 8 a 34% (e 0% nesta amostra, que são todos recusados). A amostra é de diplomas já recusados, por isso o número mede o resgate, não o rendimento num lote novo.
 
 **O que continua a travar:** quadros e anexos só em imagem (o verificador e o LLM não os veem), renumerações de artigos (o formato de resposta não apaga uma chave), e o verificador não vê o texto dos artigos iguais ao original, por isso hesita nas "instruções em falta" sobre eles.
+
+### Blocos do pedido completo (rondas 12 a 15)
+
+`llm_completo.py proximos N --saida F` escolhe os diplomas que ainda não passaram às cegas nem foram ao pedido completo (primeiro os já recusados, depois por citações; salta os de pedido acima de 150 mil caracteres); `pedidos` escreve os pedidos (2 diplomas cada), `importar` e `juntar` fazem o resto. A resposta pode ter `removidos` (chaves que desaparecem numa renumeração); as fórmulas finais que um artigo aditado deixa a meio passam para o último artigo da parte. Em `cegas_vista.py` a chave do artigo passou a ser o título sem a epígrafe, para uma epígrafe nova não parecer um artigo a mais e um a menos.
+
+| Bloco | Ronda | Diplomas | Sem reparos às cegas | Sobre o bloco |
+|---|---|---|---|---|
+| Amostra dos recusados (8 e 9) | 11 | 40 | 19 | 48% |
+| 1 (recusados por citações) | 12, 13 | 40 | 15 | 38% |
+| 2 (só 14 novos; 26 repetidos por um erro, ver abaixo) | 14 | 14 | 6 | 43% |
+| 3 | 15 | 40 | 14 | 35% |
+
+Total do pedido completo: 54 diplomas sem reparos em 134 respostas. **Erro corrigido a meio:** `proximos` não excluía os diplomas já feitos (o nome do ficheiro tem `_` onde o id tem `:`); o bloco 2 repetiu 26 do bloco 1. As respostas repetidas não foram importadas. A causa dos que ficam por passar: anexos e quadros só em imagem (`fora_dos_artigos`), revogação de diplomas inteiros que deixa os anexos, instruções ambíguas ("[Anterior alínea b)]" desfasadas), e o verificador sem o texto dos artigos iguais ao original. Faltam cerca de 1.400 diplomas na fila (`proximos`), e 107 foram saltados por tamanho.

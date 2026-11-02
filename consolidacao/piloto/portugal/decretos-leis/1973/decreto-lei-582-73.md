@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:197079:por
-    title: Decreto-Lei n.º 498-C/79
-    publication_date: '1979-12-21'
   - id: pt:dre:442304:por
     title: Decreto-Lei n.º 102/80
     publication_date: '1980-05-09'
+  - id: pt:dre:161105:por
+    title: Decreto-Lei n.º 132/75
+    publication_date: '1975-03-14'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -201,39 +201,37 @@ c) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079) e [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 11.º
 
-O Fundo de Fomento Cultural tem por órgão o Conselho Administrativo, presidido pelo director-geral dos Assuntos Culturais e constituído pelo chefe da Repartição Administrativa, por um representante da Direcção-Geral da Contabilidade Pública, por três vogais designados pelo Ministro da Educação Nacional e por um secretário, igualmente escolhido pelo Ministro de entre os funcionários superiores da Direcção-Geral dos Assuntos Culturais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 12.º
 
-Ao Conselho Administrativo compete:
+(Revogado.)
 
-a) Dar parecer sobre o plano de fomento cultural e elaborar o projecto de orçamento;
-
-b) Organizar a contabilidade e fiscalizar a sua escrituração;
-
-c) Proceder à cobrança das receitas e pagamento das despesas;
-
-d) Apresentar superiormente as contas do exercício findo.
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 13.º
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 498-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-c-1979-197079) e [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 14.º
 
-Aos membros do Conselho Administrativo do Fundo de Fomento Cultural poderão ser atribuídas gratificações de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, tendo ainda direito a ajudas de custo, bem como a senhas de presença.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 15.º
 
-As normas de funcionamento do Fundo de Fomento Cultural serão definidas por portaria do Ministro da Educação Nacional.
+(Revogado.)
 
-III - Do pessoal
+> Revogado pelo/a [Decreto-Lei n.º 102/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1980-442304), publicado em 1980-05-09.
 
 ###### Artigo 16.º
 
@@ -258,6 +256,10 @@ c) Os lugares de director de serviços e de adjunto do director-geral serão pro
 d) O lugar de documentalista de 1.ª classe será provido de entre diplomados com curso superior e habilitados com o curso de bibliotecário-arquivista ou com o estágio de preparação técnica de bibliotecários, arquivistas e documentalistas.
 
 2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
+
+3. O provimento nos lugares referidos nas alíneas b) e c) do n.º 1 deste artigo poderá ainda recair, quando tal se mostre mais conveniente, em pessoas de reconhecida competência e de mérito revelados pela sua obra científica, literária ou artística.
+
+> Alterado pelo/a [Decreto-Lei n.º 132/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1975-161105), publicado em 1975-03-14.
 
 ###### Artigo 18.º
 

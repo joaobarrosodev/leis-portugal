@@ -7,24 +7,21 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:2123972:por
-    title: Despacho Normativo n.º 12/2009
-    publication_date: '2009-03-17'
-  - id: pt:dre:2088047:por
-    title: Despacho Normativo n.º 12/2010
-    publication_date: '2010-05-21'
-  - id: pt:dre:1332327:por
-    title: Despacho Normativo n.º 2/2011
-    publication_date: '2011-02-11'
   - id: pt:dre:2055562:por
     title: Despacho Normativo n.º 12/2012
     publication_date: '2012-05-21'
-  - id: pt:dre:2877021:por
-    title: Despacho Normativo n.º 16/2012
-    publication_date: '2012-08-02'
   - id: pt:dre:1173337:por
     title: Despacho Normativo n.º 6/2013
     publication_date: '2013-05-24'
+  - id: pt:dre:1332327:por
+    title: Despacho Normativo n.º 2/2011
+    publication_date: '2011-02-11'
+  - id: pt:dre:2877021:por
+    title: Despacho Normativo n.º 16/2012
+    publication_date: '2012-08-02'
+  - id: pt:dre:2123972:por
+    title: Despacho Normativo n.º 12/2009
+    publication_date: '2009-03-17'
 ---
 
 # Despacho normativo n.º 4-A/2008
@@ -45,9 +42,9 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 4º do [Decreto Regulamentar n.
 
 3 - Os apoios concedidos no âmbito de operações financiadas pelo FSE abrangidas pelo âmbito de aplicação do artigo 3º do Regulamento (CE) n.º 1080/2006, do Parlamento Europeu e do Conselho, de 5 de Julho, relativo ao FEDER, bem como a natureza e limites de elegibilidade, nomeadamente dos apoios à inserção no mercado de trabalho e ao emprego, incluindo os apoios à transição para a vida activa, e das bolsas e programas para estudantes do ensino superior, são objecto de regulamentação específica.
 
-4 - As regras de cálculo de custos elegíveis previstos nas alíneas a), b) e c) do n.º 2 do artigo 35.º do Decreto Regulamentar n.º 84-A/2007, de 10 de Dezembro, com as alterações introduzidas pelas Declarações de Rectificação n.os 3/2008 e 5-A/2008, respectivamente de 30 de Janeiro e de 8 de Fevereiro, e pelos Decretos Regulamentares n.os 13/2008 e 4/2010, respectivamente de 18 de Junho e de 15 de Outubro, são definidas em sede dos regulamentos específicos que disciplinam as tipologias de intervenção dos programas operacionais que adoptem essas modalidades.
+4 - As regras de cálculo de custos elegíveis previstos nas alíneas a), b) e c) do n.º 2 do artigo 35.º do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de Dezembro, com as alterações introduzidas pelas Declarações de Rectificação n.os [3/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-2008-248183) e [5-A/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566), respectivamente de 30 de Janeiro e de 8 de Fevereiro, e pelos Decretos Regulamentares n.os [13/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2008-449458) e [4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), respectivamente de 18 de Junho e de 15 de Outubro, são definidas em sede dos regulamentos específicos que disciplinam as tipologias de intervenção dos programas operacionais que adoptem essas modalidades.
 
-> Alterado pelo/a [Despacho Normativo n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972) e [Despacho Normativo n.º 12/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047) e [Despacho Normativo n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327) e [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562) e [Despacho Normativo n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2012-2877021) e [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ### CAPÍTULO II — Disposições Gerais
 
@@ -69,7 +66,7 @@ e) Receitas - conjunto de recursos gerado no âmbito do projecto durante o perí
 
 1 - Para efeitos de determinação do custo total elegível de cada projecto, no âmbito de uma candidatura são elegíveis os seguintes encargos:
 
-a) Encargos com formandos - despesas com remunerações dos activos em formação, bolsas, alimentação, transportes e alojamento, bem como outras despesas com formandos, nomeadamente seguros e despesas com acolhimento de dependentes a cargo destes;
+a) Encargos com formandos - despesas com remunerações dos ativos em formação, bolsas, alimentação, transporte e alojamento, bem como outras despesas com formandos, nomeadamente, seguros e despesas com acolhimento de dependentes a cargo destes e ainda, no caso de formandos que frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, as despesas com os apoios sociais de que esses formandos beneficiem, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção;
 
 b) Encargos com formadores - despesas com remunerações dos formadores internos permanentes ou eventuais e dos formadores externos, bem como os encargos com formadores debitados por entidades no âmbito de um contrato de prestação de serviços com o beneficiário, e ainda as despesas com alojamento, alimentação e transporte dos formadores, quando a elas houver lugar;
 
@@ -77,7 +74,7 @@ c) Encargos com outro pessoal afecto ao projecto - as despesas com remuneraçõe
 
 d) Rendas, alugueres e amortizações - as despesas com o aluguer ou amortização de equipamentos directamente relacionados com o projecto, e as despesas com a renda ou a amortização das instalações onde o projecto decorre, assim como os alugueres ou amortizações das viaturas para o transporte dos formandos e outros participantes do projecto, conforme as regras de elegibilidade do Anexo 1 ao presente despacho, que dele faz parte integrante;
 
-e) Encargos directos com a preparação, desenvolvimento, acompanhamento e avaliação dos projectos - as despesas com a elaboração de diagnósticos de necessidades, divulgação do projecto, selecção dos formandos e outros participantes, aquisição, elaboração e reprodução de recursos didácticos, aquisição de livros e de documentação, despesas com materiais pedagógicos, com deslocações realizadas pelo grupo no âmbito do respectivo projecto e ainda as decorrentes da aquisição de serviços técnicos especializados relacionados com a avaliação dos projectos e dos seus resultados globais, com excepção das previstas na alínea anterior;
+e) Encargos directos com a preparação, desenvolvimento, acompanhamento e avaliação dos projectos - as despesas com a elaboração de diagnósticos de necessidades, divulgação do projecto, selecção dos formandos e outros participantes, aquisição, elaboração e reprodução de recursos didácticos, aquisição de livros e de documentação, despesas com materiais pedagógicos, com deslocações realizadas pelo grupo no âmbito do respectivo projecto e ainda as decorrentes da aquisição de serviços técnicos especializados relacionados com a avaliação dos projectos e dos seus resultados globais, com excepção das previstas na alínea c);
 
 f) Encargos gerais do projecto - outras despesas necessárias à concepção, desenvolvimento e gestão dos projectos, nomeadamente as despesas correntes com energia, água, comunicações, materiais consumíveis e bens não duradouros, as despesas gerais de manutenção de equipamentos e instalações, as despesas com consultas jurídicas e emolumentos notariais e com peritagens técnicas e financeiras;
 
@@ -85,13 +82,17 @@ g) Encargos com a promoção de encontros e seminários temáticos - as despesas
 
 h) Encargos com a Promoção e Coordenação da Candidatura Integrada de Formação - as despesas comprovadamente relacionadas com a promoção e coordenação da Candidatura Integrada de Formação, nomeadamente as despesas com as remunerações, alojamento, alimentação e transporte do pessoal dirigente, técnico, administrativo e outro vinculado ou em regime de prestação de serviços do Parceiro Social.
 
-2 - Quando se trate de projectos de carácter não formativo, de especial complexidade ou especificidade, pode ser fixado um ordenamento mais adequado para os encargos definidos no número anterior, assim como uma natureza de despesas mais específica, adequada a esses projectos, através de despacho do Ministro do Trabalho e da Solidariedade Social.
+2 - Quando se trate de projetos de especial complexidade ou especificidade, pode ser fixado um ordenamento mais adequado para os encargos definidos no número anterior, assim como uma natureza de despesas mais específica, adequada a esses projetos, através de despacho do Ministro da Economia e do Emprego.
+
+> Alterado pelo/a [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
 
 ###### Artigo 4.º — Decisão de Aprovação
 
-1 - A decisão de aprovação das candidaturas discrimina os valores aprovados para cada um dos conjuntos de encargos identificados no número 1 do artigo anterior.
+1 - A decisão de aprovação das candidaturas discrimina os valores aprovados segundo a estrutura de custos aplicável em cada uma das modalidades de custos elegíveis.
 
 2 - A decisão deve prever ainda os termos da gestão flexível dos valores aprovados para cada um dos conjuntos de encargos referidos no número anterior, de acordo com o definido no presente despacho, nomeadamente no n.º 5 do artigo 23º.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 5.º — Análise e avaliação das despesas
 
@@ -99,51 +100,63 @@ A autoridade de gestão analisa e avalia de acordo com as regras estabelecidas n
 
 ### CAPÍTULO III — Formandos
 
-###### Artigo 6º — Conceitos
+###### Artigo 6.º — Conceitos
 
-Para efeitos do presente diploma, entende-se por:
+Para efeitos do presente despacho normativo e nos termos nele consagrados, entende-se por:
 
 a) Bolsas para material de estudo - apoios com finalidade social atribuídos aos jovens que frequentam ofertas formativas de qualificação inicial de dupla certificação, para comparticipar a aquisição de material pedagógico e livros;
 
-b) Bolsas de profissionalização - apoios com finalidade social atribuídos aos jovens que frequentam ofertas formativas de qualificação inicial de dupla certificação desenvolvidas em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam a formação em contexto real de trabalho;
+b) Bolsas de profissionalização - apoios atribuídos aos jovens que frequentam ofertas formativas de qualificação inicial de dupla certificação desenvolvidas em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam a formação em contexto real de trabalho;
 
-c) Bolsas de formação - apoio atribuído a desempregados, a pessoas em risco de exclusão social, a pessoas em risco de desemprego, a pessoas em risco de inserção precoce no mercado de trabalho ou a pessoas com deficiências e incapacidades, que frequentem acções de formação;
+c) Bolsas de formação - apoio atribuído a desempregados, a pessoas em risco de exclusão social, a pessoas em risco de desemprego ou a pessoas portadoras de deficiências ou incapacidades, que frequentem acções de formação;
 
 d) Bolsas de formação avançada - apoios concedidos para a realização de doutoramentos e pós doutoramentos a realizar em instituições científicas nacionais ou estrangeiras.
 
+> Alterado pelo/a [Despacho Normativo n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327), publicado em 2011-02-11.
+
 ###### Artigo 7.º — Encargos com formandos
 
-Para efeitos do presente despacho, podem ser elegíveis os encargos com formandos, cuja natureza e limites se situem dentro do disposto nas alíneas seguintes:
+1 - Para efeitos do presente despacho normativo, podem ser elegíveis os encargos com formandos cuja natureza e limites se enquadrem no âmbito do previsto nas alíneas seguintes:
 
 a) As bolsas para material de estudo, bolsas de profissionalização, bolsas de formação e bolsas de formação avançada concedidas nos termos do disposto nos artigos 8.º, 9.º e 10.º;
 
 b) Os encargos com as remunerações dos activos em formação, nos termos do disposto no artigo 11.º;
 
-c) Os encargos com deslocações, alojamento, alimentação e outros apoios, nos termos do disposto no artigo 12.º
+c) Os encargos com deslocações, alimentação e outros apoios, nos termos do disposto no artigo 12.º
+
+2 - Podem ainda ser elegíveis, a título excecional e a autorizar pela autoridade de gestão, caso a caso, os encargos com formandos referentes a alojamento ou os decorrentes da atribuição de um segundo subsídio de refeição, considerando o disposto nos n.os 18, 19, 20, 21 e 22 do artigo 12.º
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 8.º — Bolsas para material de estudo e bolsas de profissionalização
 
-1 - As bolsas para material de estudo e as bolsas de profissionalização são atribuídas a jovens que frequentem acções de qualificação inicial de dupla certificação, em função do grau de carência económica do formando, aferido pelo escalão de abono de família.
+1 - As bolsas para material de estudo são atribuídas a jovens que frequentem ações de qualificação inicial de dupla certificação, em função do grau de carência económica do formando, aferido pelo escalão de rendimento fixado para efeitos de atribuição de abono de família, regulamentado nos termos do [Decreto-Lei n.º 176/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2003-652702), de 2 de agosto, retificado pela Declaração de Retificação n.º 11-G/2003, de 30 de setembro, alterado pelos Decretos-Leis n.os [41/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2006-677047), de 21 de fevereiro, [308-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-2007-406171), de 5 de setembro, [87/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2008-449178), de 28 de maio, [245/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2008-443898), de 18 de dezembro, [201/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2009-488852), de 28 de agosto, [70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, [116/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2010-308078), de 22 de outubro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro.
 
-2 - Para as acções realizadas por instituições inseridas no sistema educativo, as bolsas referidas no número anterior são elegíveis apenas quando aquelas não estejam abrangidas pelas medidas de Acção Social Escolar.
+2 - (Revogado.)
 
-3 - O valor anual elegível da bolsa para material de estudo é igual ao somatório dos valores aplicáveis para o 3.º ciclo do ensino básico, na modalidade de auxílios económicos nas componentes de apoio a livros e apoio a material escolar, das medidas de acção social escolar da responsabilidade do Ministério da Educação, definidos anualmente por despacho da Ministra da Educação.
+3 - O valor anual elegível da bolsa para material de estudo é o correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, definido anualmente por despacho do respetivo membro do Governo, na modalidade de auxílios económicos nas componentes de apoio a livros e apoio a material escolar, sem prejuízo do disposto no número seguinte.
 
-4 - O valor máximo mensal elegível da bolsa de profissionalização está indexado ao Indexante dos Apoios Sociais (IAS), instituído pela [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de Dezembro, e não pode ultrapassar os limites definidos no quadro II do Anexo 1 ao presente despacho, que dele faz parte integrante.
+4 - A atualização dos montantes da bolsa de material de estudo para efeitos da respetiva comparticipação pelo FSE é efetuada anualmente mediante despacho do Ministro da Economia e do Emprego e do Ministro da Solidariedade e da Segurança Social.
 
-5 - A atribuição das bolsas para material de estudo e das bolsas de profissionalização só pode ser feita da primeira vez que o formando frequente acção do mesmo nível de qualificação, sem prejuízo de poder ser feita no caso de primeira mudança de curso, se o formando tiver concluído no máximo o equivalente a um ano de formação.
+5 - O valor máximo mensal elegível da bolsa de profissionalização corresponde a 10 % do indexante dos apoios sociais (IAS), instituído pela [Lei n.º 53-B/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-b-2006-197489), de 29 de dezembro, alterada pela [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril.
 
-6 - O disposto no número anterior não é aplicável quando a desistência ocorra por motivo de licença de maternidade ou paternidade, bem como por outros motivos atendíveis autorizados, caso a caso, pela autoridade de gestão.
+6 - Não têm direito às bolsas previstas no presente artigo os formandos que já sejam detentores de um determinado nível de qualificação quando ingressam numa ação do mesmo nível ou de nível inferior.
 
-7 - As bolsas para material de estudo são atribuídas por ano curricular e pagas no início do respectivo ano.
+7 - O disposto no número anterior não é aplicável quando o ingresso numa ação do mesmo nível ou de nível inferior ocorra na sequência de desistência de ação anterior por motivo de licença de maternidade ou paternidade, bem como por outros motivos atendíveis autorizados, caso a caso, pela autoridade de gestão.
 
-8 - Os formandos que frequentem ofertas formativas que não se desenvolvam em regime de alternância adquirem o direito à atribuição das bolsas de profissionalização, em função do período efectivo de frequência de formação em contexto de trabalho e em montante proporcional à sua duração.
+8 - As bolsas para material de estudo são atribuídas por ano curricular e pagas no início do respectivo ano.
 
-9 - O pagamento das bolsas referidas no número anterior deve ocorrer sempre que o somatório de horas de formação em contexto de trabalho perfaça cento e vinte horas.
+9 - Os formandos que frequentem ofertas formativas que não se desenvolvam em regime de alternância adquirem o direito à atribuição das bolsas de profissionalização, em função do período efectivo de frequência de formação em contexto de trabalho e em montante proporcional à sua duração.
 
-10 - No caso de ofertas formativas em regime de alternância, as bolsas de profissionalização são pagas mensalmente durante todo o período de realização da acção, sendo ainda elegível o pagamento de bolsa no período de férias no máximo de 22 dias úteis, por cada ano completo de formação, entendendo-se como tal uma duração mínima de mil e duzentas horas.
+10 - O pagamento das bolsas referidas no número anterior deve ocorrer sempre que o somatório de horas de formação em contexto de trabalho perfaça cento e vinte horas.
 
-11 - Em situações de especial desfavorecimento dos jovens que frequentem acções de qualificação inicial de dupla certificação e quando não seja exercido o direito ao abono de família, pode a autoridade de gestão, caso a caso, autorizar a atribuição destas bolsas pelo valor equivalente ao atribuído aos jovens do 1º e 2º escalão do abono de família.
+11 - Nas situações de ofertas formativas em regime de alternância, as bolsas de profissionalização são pagas mensalmente durante todo o período de realização da acção, excepto durante o gozo do período de férias.
+
+12 - No caso de jovens que, à data de início da formação, não tenham direito ao abono de família por não reunirem as condições, pode a autoridade de gestão, caso a caso e em situações de especial desfavorecimento, autorizar a atribuição da bolsa para material de estudo pelo valor equivalente ao atribuído aos jovens abrangidos pelo 1.º escalão do abono de família.
+
+13 - As bolsas previstas no presente artigo são cumuláveis com as pensões por invalidez, de sobrevivência, de viuvez e de orfandade atribuídas pela Segurança Social, sem prejuízo do definido na legislação em vigor para a Pensão Social de Invalidez.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 9.º — Bolsas de Formação
 
@@ -173,7 +186,19 @@ Nhf = número de horas de formação frequentadas pelo formando.
 
 8 - A bolsa prevista no presente artigo é cumulável com as pensões por invalidez, de sobrevivência, de viuvez e de orfandade atribuídas pela Segurança Social, sem prejuízo do definido na legislação em vigor para a Pensão Social de Invalidez.
 
-> Alterado pelo/a [Despacho Normativo n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972) e [Despacho Normativo n.º 12/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047) e [Despacho Normativo n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327) e [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562) e [Despacho Normativo n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2012-2877021) e [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
+
+###### Artigo 9.º-A — Formandos beneficiários de apoios sociais
+
+1 -Os apoios previstos na parte final da alínea a) do nº 1 do artigo 3º são elegíveis no âmbito das ofertas formativas promovidas pelos centros de formação do IEFP, I.P, na proporção da duração da formação frequentada pelos formandos beneficiários de subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção.
+
+2 - O período de tempo em que os formandos referidos no número anterior se encontrem em formação não interrompe a concessão da respetiva prestação social.
+
+3 - Nas situações abrangidas pelo disposto nos números anteriores não há lugar ao pagamento de bolsas de formação previstas no artigo 9º, sendo integralmente considerado como elegível o subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção dos formandos, até se executar o valor disponível de FSE, sem prejuízo dos ajustamentos decorrentes da sua afetação temporal e da atribuição de outros apoios previstos no artigo 12º.
+
+4 - Nas situações em que os formandos, durante a frequência da formação, deixem de beneficiar dos apoios sociais referidos no n.º 1, pode ser-lhes atribuída, a partir dessa data e até à conclusão da formação, a bolsa de formação prevista no art.º 9.º, nos termos aí previstos.
+
+> Aditado pelo/a [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
 
 ###### Artigo 10.º — Bolsas de Formação Avançada
 
@@ -185,11 +210,13 @@ Nas acções de formação avançada podem ser atribuídas bolsas aos formandos,
 
 2 - Os encargos referidos no número anterior são calculados de acordo com a seguinte fórmula:
 
-(Rbmx14 (meses))/(48 (semanas)xn)
+(Rbm x m)/(48 (semanas) x n)
 
 em que:
 
-Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação colectiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e reflectidas na contabilidade da entidade patronal que integrem a remuneração;
+Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;
+
+m = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;
 
 n = número de horas semanais do período normal de trabalho.
 
@@ -199,43 +226,59 @@ n = número de horas semanais do período normal de trabalho.
 
 5 - No caso de entidades privadas, os encargos referidos no número 1, aferidos de acordo com as regras definidas nos números 2, 3 e 4, são elegíveis apenas a título de contribuição privada.
 
-6 - Nas acções de formação realizadas durante o período normal de trabalho são elegíveis, apenas a título de contribuição pública nacional, os encargos com as remunerações dos trabalhadores da Administração Pública em formação, aferidos de acordo com as regras definidas nos números 2, 3 e 4, independentemente da qualidade em que intervenha a entidade candidata a financiamento, desde que esta seja uma entidade da Administração Pública ou equiparada, através de despacho do Ministro do Trabalho e da Solidariedade Social.
+6 - Nas ações de formação realizadas durante o período normal de trabalho são elegíveis, apenas a título de contribuição pública nacional, os encargos com as remunerações dos trabalhadores da Administração Pública em formação, aferidos de acordo com as regras definidas nos n.os 2, 3 e 4, independentemente da qualidade em que intervenha a entidade candidata a financiamento, desde que esta seja uma entidade da Administração Pública ou equiparada, através de despacho do Ministro da Economia e do Emprego.
 
-7 - Para as empresas em processos de recuperação judicial ou administrativa, empresas de sectores de actividade em reestruturação, empresas abrangidas por legislação enquadradora da formação de reconversão ou em situações análogas poderão, ainda, em situações excepcionais e devidamente fundamentadas, ser fixadas condições diversas das previstas no presente artigo, por despacho do Ministro do Trabalho e da Solidariedade Social.
+7 - Para as empresas em processos de recuperação judicial ou administrativa, empresas de setores de atividade em reestruturação, empresas abrangidas por legislação enquadradora da formação de reconversão ou em situações análogas poderão, ainda, em situações excecionais e devidamente fundamentadas, ser fixadas condições diversas das previstas no presente artigo, por despacho do Ministro da Economia e do Emprego.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 12.º — Outros Encargos com formandos
 
-1 - É elegível o subsídio de refeição de montante igual ao atribuído aos funcionários e agentes da Administração Pública, nos dias em que o período de formação seja igual ou superior a duas horas.
+1 - É elegível o subsídio de refeição de montante igual ao atribuído aos trabalhadores que exercem funções públicas nos dias em que o período de formação seja igual ou superior a três horas e, no caso dos formandos ativos empregados, quando esse período de formação, de duração igual ou superior a três horas, decorra fora do seu período normal de trabalho.
 
-2 - Para os formandos que beneficiem das bolsas definidas no artigo 8º do presente despacho e que se encontrem a usufruir de subsídio de alojamento, é ainda elegível um segundo subsídio de refeição de valor igual ao definido no número anterior.
+2 - (Revogado.)
 
-3 - Em substituição do subsídio referido nos números anteriores, pode ser atribuído um subsídio de refeição em espécie de acordo com as regras definidas em regulamento específico.
+3 - São elegíveis as despesas de transporte por motivo de frequência das acções de formação, em montante equivalente ao custo das viagens realizadas em transporte colectivo.
 
-4 - São elegíveis as despesas de transporte de montante equivalente ao custo das viagens realizadas em transporte colectivo por motivo de frequência das acções de formação, quando o formando não aufira subsídio de alojamento.
+4 - Nas situações de impossibilidade da utilização do transporte colectivo, é elegível um subsídio de transporte até ao limite máximo mensal de 10 % do valor do IAS, podendo, em casos excepcionais devidamente fundamentados e mediante autorização prévia da autoridade de gestão, ser autorizada a elegibilidade de um subsídio de transporte até ao limite máximo de 12.5 % do valor do IAS.
 
-5 - No caso de não ser possível a utilização do transporte colectivo, é elegível um subsídio de transporte até ao limite máximo mensal de 12,5 % do indexante dos apoios sociais e sempre que o formando não aufira subsídio de alojamento.
+5 - (Revogado.)
 
-6 - Quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte colectivo compatível com o horário da formação, pode ser atribuído àquele um subsídio de alojamento até ao limite máximo mensal de 30 % do indexante dos apoios sociais, podendo ainda ser pagas as viagens em transporte colectivo no início e no fim de cada período de formação.
+6 - (Revogado.)
 
-7 - Para efeitos do disposto no número anterior os regulamentos específicos podem definir qual o período a considerar como de início e fim de cada período de formação.
+7 - Os subsídios referidos nos n.os 1, 4, 20 e 21 podem ser atribuídos em espécie, não podendo o seu montante ultrapassar os limites neles previstos.
 
-8 - Para as acções realizadas por instituições inseridas no sistema educativo, os encargos referidos nos números 1, 2, 3 e 6 do presente artigo só são elegíveis quando aquelas não estejam abrangidas pelas medidas da Acção Social Escolar ou quando abrangidas pelas medidas da Acção Social Escolar, apenas durante o período de formação em contexto de trabalho.
+8 - No caso das ofertas de formação inicial de dupla certificação desenvolvidas pelas escolas públicas do ensino básico e secundário, que ofereçam serviços de refeitório ou bufete escolar, os encargos com a alimentação apenas são considerados elegíveis desde que atribuídos em espécie nos termos referidos no n.º 7.
 
-9 - São elegíveis as despesas com o acolhimento de filhos, menores e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do indexante dos apoios sociais, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação.
+9 - (Revogado.)
 
-10 - Em situações de particular dificuldade de acesso dos formandos à formação ou em projectos de particular especificidade, pode a autoridade de gestão autorizar, caso a caso, critérios de acumulação e valores diferentes dos definidos nos números anteriores, a fim de assegurar esse acesso.
+10 - São elegíveis as despesas com o acolhimento de filhos, menores e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do indexante dos apoios sociais, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação.
 
-11 - São também elegíveis as despesas com viagens ao estrangeiro, no início e no fim da formação, e as ajudas de custo, quando a formação ali decorra.
+11 - (Revogado.)
 
-12 - A concessão de ajudas de custo, nos termos do disposto no número anterior, é fixada, para os formandos que frequentem acções dos níveis 1, 2 e 3, de acordo com as regras e montantes correspondentes ao escalão mais baixo fixado para os funcionários e agentes da Administração Pública, e para os que frequentem acções de nível 4 e 5, de acordo com o atribuído aos funcionários e agentes com remuneração superior ao índice 405 da escala indiciária do regime geral.
+12 - Quando a formação decorra fora do território nacional são elegíveis as despesas com viagens ao estrangeiro, no início e no fim da formação, bem como as respetivas ajudas de custo, durante o período em que aquela decorra.
 
-13 - Quando a formação se realizar em regime residencial, não há lugar ao pagamento de subsídios de alimentação e alojamento aos formandos, sendo elegíveis os encargos desta natureza facturados pela unidade hoteleira ou centro de formação até ao limite correspondente ao escalão mais baixo das ajudas de custo fixadas para os funcionários e agentes da Administração Pública, quando a formação desenvolvida corresponda aos níveis 1, 2 e 3, ou de acordo com as ajudas de custo fixadas para os funcionários e agentes com remuneração superior ao índice 405 da escala indiciária do regime geral, quando a formação desenvolvida corresponda aos níveis 4 e 5.
+13 - A concessão de ajudas de custo, nos termos do disposto no número anterior, relativamente aos formandos que frequentem ações dos níveis de qualificação 1, 2, 3 e 4, definidos nos termos da Portaria n.º 782/2009, de 23 de julho, é fixada de acordo com as regras e montantes correspondentes ao escalão mais baixo estabelecido para os trabalhadores que exercem funções públicas e para os que frequentem ações dos níveis 5 e 6, definidos nos termos da mesma portaria, de acordo com o valor praticado para os trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.
 
-14 - As despesas de alimentação, deslocação e alojamento dos trabalhadores da Administração Pública quando em formação, por conta da respectiva entidade patronal, são elegíveis de acordo com o regime jurídico aplicável às ajudas de custo da função pública, quando a elas houver direito.
+14 - Quando a formação se realize em regime residencial, não há lugar ao pagamento de subsídios de alimentação e alojamento aos formandos, sendo contudo elegíveis os encargos dessa natureza facturados pela unidade hoteleira ou centro de formação até ao valor correspondente ao valor das ajudas de custo calculado de acordo com as regras e montantes fixados no número anterior.
 
-15 - No sector da pesca, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação pode ser atribuído um apoio mensal equivalente ao IAS, para a frequência de acções de formação realizadas nos termos do disposto nos números 2 e 3 do artigo 9.º do presente despacho, desde que a formação confira progressão na carreira profissional, requalificação técnica ou respeite a projectos de reconversão sectorial.
+15 - As despesas de alimentação, deslocação e alojamento dos trabalhadores da Administração Pública quando em formação, por conta da respectiva entidade patronal, são elegíveis de acordo com o regime jurídico aplicável às ajudas de custo da função pública, quando a elas houver direito.
 
-16 - No sector da agricultura, aos agricultores não empresários, à mão-de-obra agrícola familiar e aos trabalhadores eventuais, quando em formação, pode ser atribuído um apoio mensal máximo de montante equivalente ao IAS para a frequência de acções de formação realizadas nos termos do disposto nos números 2 e 3 do artigo 9.º do presente despacho.
+16 - No setor da pesca, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.
+
+17 - No setor da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do setor agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.
+
+18 - O somatório dos apoios previstos no artigo 9.º com os constantes dos n.os 1, 3, 4 e 10 do presente artigo não pode ultrapassar o valor de 70 % do IAS.
+
+19 - O somatório dos apoios previstos nos n.os 16 e 17 com os constantes dos n.os 1, 3, 4 e 10, não pode ultrapassar o valor de 100 % do IAS.
+
+20 - Quando a insuficiente procura de algumas formações ou a inexistência de ofertas formativas específicas em determinada região ou a prioridade a conceder a alguns setores, regiões, grupos socioprofissionais ou pessoas em risco de exclusão justifiquem a atribuição de outros apoios aos formandos, pode a autoridade de gestão, caso a caso, autorizar que essa atribuição se possa traduzir em valores superiores aos fixados nos n.os 1, 3, 4, 7, 8, 10, 16 e 17 e aos estabelecidos para as bolsas previstas no artigo 9.º
+
+21 - Quando se verifique alguma das condições previstas no número anterior, a autoridade de gestão pode igualmente autorizar, caso a caso, a concessão de um subsídio de alojamento, até ao limite máximo mensal de 30 % do IAS, e a atribuição de um segundo subsídio de refeição de valor igual ao estabelecido no n.º 1, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação.
+
+22 - Nas situações previstas nos dois números anteriores, o somatório dos apoios pode, excecionalmente, atingir a totalidade do valor corresponde ao IAS.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2012-2877021), publicado em 2012-08-02.
 
 ###### Artigo 13.º — Assiduidade e aproveitamento nos projectos formativos
 
@@ -249,11 +292,33 @@ n = número de horas semanais do período normal de trabalho.
 
 ###### Artigo 14.º — Pagamentos a formandos
 
-1 - Os pagamentos relativos aos formandos do projecto devem ser efectuados mensalmente, sem prejuízo do número seguinte e do disposto no número 7 e 9 do artigo 8º.
+1 - Os pagamentos relativos aos formandos do projecto devem ser efectuados mensalmente, sem prejuízo do número seguinte e do disposto nos n.os 8 e 10 do artigo 8.º
 
 2 - No caso de acções de formação de duração total igual ou inferior a cento e vinte horas, os pagamentos relativos aos apoios a formandos podem ser efectuados no final da acção.
 
-3 - Os pagamentos a formandos são realizados por transferência bancária, não sendo permitida, em caso algum, a existência de dívidas a estes.
+3 - Os pagamentos a formandos são realizados por transferência bancária, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.
+
+4 - No caso de formandos menores de idade inactivos, a transferência bancária poderá ser efectuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode o gestor, caso a caso, autorizar outra forma de pagamento.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972), publicado em 2009-03-17.
+
+###### Artigo 14.º-A — Obrigações das entidades beneficiárias relativas a formandos desempregados
+
+1 - As entidades beneficiárias que tenham candidaturas aprovadas no âmbito de cursos de educação e formação de adultos, formações modulares certificadas e de formações para a inclusão ficam sujeitas ao cumprimento das seguintes obrigações:
+
+a) Comunicação prévia ao Centro de Emprego da área em que as ações de formação se vão realizar, da respetiva oferta formativa;
+
+b) Integração prioritária dos formandos desempregados nas ações promovidas pela entidade beneficiária, sempre que esses formandos tenham sido encaminhados pelo Centro de Emprego;
+
+c) Garantir que, no mínimo, 75% dos participantes em formação, ou sejam beneficiários de subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção, ou estejam sem qualquer proteção social;
+
+d) Os comprovativos das obrigações mencionadas nas alíneas a) e b) devem integrar o processo técnico-pedagógico nos termos do artigo 32.º do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de dezembro, na sua atual redação;
+
+2 - As obrigações referidas no número anterior são objeto de verificação no âmbito de processos de acompanhamento, controlo e auditoria, nos termos do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de dezembro, na sua atual redação.
+
+3 - Verificando-se o incumprimento das obrigações previstas no n.º 1 pode ser aplicada uma redução financeira, em sede de saldo final, entre 2% a 5% do montante aprovado, em função do seu grau de gravidade.
+
+> Aditado pelo/a [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
 
 ### CAPÍTULO IV — Pessoal afecto aos projectos
 
@@ -285,51 +350,65 @@ T1 = total das remunerações pagas a formadores externos numa candidatura;
 
 T2 = total das horas de formação ministradas numa candidatura por esses formadores.
 
-3 - Os valores padrão para o custo horário dos formadores externos considerados elegíveis para efeitos de financiamento têm por referência os níveis de formação e são os seguintes:
+3 - Os valores padrão considerados elegíveis para efeitos de financiamento do custo horário dos formadores externos têm por referência os níveis de qualificação e são os seguintes:
 
-a) Para acções de formação dos níveis 4 e 5, o valor hora/formador é de (euro) 43,5;
+a) Para ações de formação dos níveis de qualificação 5 e 6, o valor por hora/formador é de (euro) 30;
 
-b) Para acções de formação dos níveis 1, 2 e 3, o valor hora/formador é de (euro) 30.
+b) Para ações de formação dos níveis de qualificação 1, 2, 3 e 4, o valor por hora/formador é de (euro) 20.
 
 4 - Para efeitos de elegibilidade, o valor hora a considerar para cada formador não pode exceder em mais de 50 % os valores definidos nas alíneas a) e b) do número anterior.
 
-5 - Os valores referidos no n.º 3 são aferidos à estrutura dos níveis de formação estabelecidos na Decisão n.º 85/368/CEE, do Conselho das Comunidades, publicada no Jornal Oficial das Comunidades, de 31 de Julho de 1985, e reproduzido no Anexo 2 ao presente despacho, que dele faz parte integrante.
+5 - Os valores referidos no n.º 3 são aferidos à estrutura de oito níveis do Quadro Nacional de Qualificações, regulado pela Portaria n.º 782/2009, de 23 de Julho.
 
 6 - Aos custos com formadores externos acresce IVA sempre que este seja devido e não dedutível, constituindo assim um custo efectivo da formação.
 
 7 - No caso da rede de estabelecimentos públicos de ensino básico e secundário, o número de horas de monitoragem ministradas por formadores externos, não pode ultrapassar um terço do total do número de horas de monitoragem ministradas pela totalidade dos formadores, incluindo as dos formadores externos, em cada candidatura.
 
+8 - No caso das acções realizadas por instituições inseridas no sistema educativo, são elegíveis as horas de formação efectivamente ministradas (hora do plano curricular e desdobramentos autorizados), bem como as que resultam do exercício de funções docentes não lectivas (designadamente coordenação de curso, delegado de grupo, responsável pela área artística e director de turma).
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
+
 ###### Artigo 17.º — Formadores internos
 
 1 - O valor máximo elegível da remuneração dos formadores internos permanentes não pode exceder a remuneração a que esses formadores tenham direito por força da sua relação laboral com a entidade beneficiária ou com os centros e estruturas de formação das mesmas, calculado de acordo com a seguinte fórmula:
 
-(Rbmx14 (meses))/11 (meses)
+(Rbm x m)/11 (meses)
 
 em que:
 
-Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação colectiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e reflectidas na contabilidade da entidade patronal que integrem a remuneração.
+Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;
+
+m = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar.
 
 2 - O valor do custo horário das horas de formação ministradas pelos formadores internos é calculado com base na seguinte fórmula:
 
-(Rbmx14)/(48xn)
+(Rbm x m)/(48 (semanas) x n)
 
 em que:
 
-Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação colectiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e reflectidas na contabilidade da entidade patronal que integrem a remuneração;
+Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;
+
+m = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;
 
 n = número de horas semanais do período normal de trabalho, no caso dos formadores internos eventuais;
 
-n = número máximo de horas semanais de formação efectiva, compreendidas no período normal de trabalho semanal, definidas pela entidade empregadora, no caso dos formadores internos permanentes.
+n = número máximo de horas semanais de formação efetiva compreendidas no período normal de trabalho semanal, definidas pela entidade empregadora, no caso dos formadores internos permanentes.
 
-3 - O valor do custo horário das horas de formação ministradas por formadores internos, tal como definido nos números anteriores, não pode, em caso algum, ultrapassar os valores padrão estabelecidos nas alíneas a) e b) do n.º 3 do artigo 16º.
+3 - O valor elegível do custo horário das horas de formação ministradas por formadores internos, tal como definido nos números anteriores, não pode, em média, ultrapassar os valores estabelecidos nas alíneas a) e b) do n.º 3 do artigo 16.º, sem prejuízo da aplicação do seu n.º 4.
 
-4 - Os valores máximos do custo horário respeitantes a formadores internos eventuais não podem exceder, para além da remuneração base a que esses formadores tenham direito por força da sua relação laboral com a entidade empregadora, acrescida dos encargos obrigatórios da entidade patronal, 50 % dos valores fixados nas alíneas a) e b) do n.º 3 do artigo 16.º, para níveis de formação idênticos, desde que esse adicional lhes seja efectivamente pago.
+4 - Nas situações em que se mostre ultrapassado o valor elegível do custo horário das horas de formação, calculado nos termos previstos no número anterior, será esse o valor considerado para efeitos de elegibilidade, desde que tais situações se reportem a formadores internos cuja remuneração base mensal se encontre fixada por lei, por instrumento de regulamentação colectiva de trabalho ou por referência a este instrumento, e desde que esses formadores não se encontrem na situação de aposentados.
 
-5 - Os valores máximos do custo horário respeitantes a formadores internos eventuais que acompanham a formação prática em contexto de trabalho não podem exceder, para além da remuneração base a que esses formadores tenham direito por força da sua relação laboral com a entidade empregadora, acrescida dos encargos obrigatórios da entidade patronal, 20 % dos valores fixados nas alíneas a) e b) do n.º 3 do artigo 16.º, para níveis de formação idênticos, desde que esse adicional lhes seja efectivamente pago.
+5 - Os valores máximos do custo horário respeitantes a formadores internos eventuais não podem exceder, para além da remuneração base a que esses formadores tenham direito por força da sua relação laboral com a entidade empregadora, acrescida dos encargos obrigatórios da entidade patronal, 50 % dos valores fixados nas alíneas a) e b) do n.º 3 do artigo 16.º, para níveis de formação idênticos, desde que esse adicional lhes seja efectivamente pago.
 
-6 - É fixado em quinhentas horas por ano civil o número máximo de horas de formação teórica, prática simulada e prática em contexto de trabalho, que pode ser financiado relativamente a cada formador interno eventual.
+6 - Os valores máximos do custo horário respeitantes a formadores internos eventuais que acompanham a formação prática em contexto de trabalho não podem exceder, para além da remuneração base a que esses formadores tenham direito por força da sua relação laboral com a entidade empregadora, acrescida dos encargos obrigatórios da entidade patronal, 20 % dos valores fixados nas alíneas a) e b) do n.º 3 do artigo 16.º, para níveis de formação idênticos, desde que esse adicional lhes seja efectivamente pago.
 
-7 - No caso das escolas públicas de ensino básico ou secundário, os encargos com formadores internos são elegíveis apenas a título de contrapartida pública nacional.
+7 - É fixado em quinhentas horas por ano civil o número máximo de horas de formação teórica, prática simulada e prática em contexto de trabalho, que pode ser financiado relativamente a cada formador interno eventual.
+
+8 - No caso das acções realizadas por instituições inseridas no sistema educativo, são elegíveis as horas de formação efectivamente ministradas (hora do plano curricular e desdobramentos autorizados), bem como as que resultam do exercício de funções docentes não lectivas (designadamente coordenação de curso, delegado de grupo, responsável pela área artística e director de turma).
+
+9 - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 18.º — Formação de formadores, animadores e outros agentes
 
@@ -337,43 +416,65 @@ Os valores padrão para o custo horário dos formadores de acções de formaçã
 
 ###### Artigo 19.º — Das sessões de formação
 
-1 - Nos custos máximos co-financiáveis respeitantes a formadores estão abrangidos os encargos com a preparação das sessões de formação e com a preparação, a correcção e a análise dos instrumentos de avaliação dos formandos, considerando-se estas actividades incluídas nos valores previstos nos artigos 16º, 17.º e 18.º do presente despacho, sem prejuízo do número 3.
+1 - Nos custos máximos co-financiáveis respeitantes a formadores estão abrangidos os encargos com a preparação das sessões de formação e com a preparação, a correcção e a análise dos instrumentos de avaliação dos formandos, considerando-se estas actividades incluídas nos valores previstos nos artigos 16.º, 17.º e 18.º do presente despacho.
 
-2 - Em cada candidatura são elegíveis encargos com formadores, externos e internos, até ao limite das horas de formação efectivamente ministradas, sem prejuízo do número seguinte.
+2 - Em cada candidatura são elegíveis encargos com formadores, externos e internos, até ao limite das horas de formação efectivamente ministradas, sem prejuízo do disposto no n.º 8 do artigo 16.º e do n.º 7 do artigo 17.º
 
-3 - Para as ofertas de qualificação inicial de dupla certificação para jovens, desenvolvidas por instituições inseridas no sistema educativo, são elegíveis os encargos com formadores, até ao limite de 15 % de horas não lectivas sobre as horas de formação efectivamente ministradas, por formador, nomeadamente para o desenvolvimento das actividades previstas no número 1 do presente artigo, desde que não sejam ultrapassadas 3 horas por semana.
+> Alterado pelo/a [Despacho Normativo n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972), publicado em 2009-03-17.
 
 ###### Artigo 20.º — Valor máximo do custo com consultores
 
-1 - O valor máximo elegível dos custos com consultores é determinado em função de valores padrão, nos termos definidos nas alíneas seguintes:
+1 - O valor máximo elegível dos custos com consultores externos é determinado em função de valores padrão, nos termos definidos nas alíneas seguintes:
 
-a) O valor determinado numa base horária é de (euro)65;
+a) O valor determinado numa base horária é de (euro) 45/consultor;
 
-b) O valor determinado numa base diária é de (euro)250;
+b) O valor determinado numa base diária é de (euro) 170/consultor;
 
-c) O valor determinado numa base mensal é de (euro)4.000.
+c) O valor determinado numa base mensal é de (euro) 2750/consultor.
 
 2 - Sempre que um consultor desenvolva actividade no âmbito do projecto financiado, por mais do que um dia por semana ou uma semana por mês, a sua contratação deve ser feita na base diária ou mensal, respectivamente, sendo-lhes aplicável, em cada um destes casos, os valores padrão definidos nas alíneas b) e c) do número anterior.
 
 3 - Para efeitos de elegibilidade, o valor padrão a considerar para cada consultor, não pode exceder em mais de 50 % os valores definidos no número um.
 
-4 - Quando se verifique a intervenção de consultores estrangeiros, os valores referidos nas alíneas a) e b) do número um podem assumir o valor de (euro)150 e (euro)400, respectivamente.
+4 - (Revogado.)
 
 5 - Aos custos com consultores, acresce IVA sempre que este seja devido e não dedutível, constituindo assim um custo efectivo do projecto.
 
-###### Artigo 21.º — Pessoal técnico, dirigente, administrativo, mediador sócio-cultural e outro pessoal
+6 - O valor máximo elegível dos custos com os consultores internos não pode exceder a remuneração a que esses consultores tenham direito por força da sua relação laboral com a entidade beneficiária, calculado de acordo com a seguinte fórmula:
 
-1 - O custo horário máximo elegível do pessoal técnico, dirigente, administrativo, mediador sócio-cultural e outro pessoal, não pode exceder o custo obtido a partir da remuneração a que esse pessoal tenha direito por força da sua relação laboral com a entidade empregadora, calculado de acordo com a fórmula constante do n.º 1 do artigo 17º.
+(Rbm x m)/(48 (semanas) x n)
 
-2 - Para efeitos de financiamento, não é permitida a acumulação das funções definidas neste artigo no âmbito do mesmo projecto, salvo quando autorizadas pela autoridade de gestão.
+em que:
+
+Rbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;
+
+m = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;
+
+n = número máximo de horas semanais de consultoria compreendidas no período normal de trabalho semanal, definidas pela entidade empregadora.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
+
+###### Artigo 21.º — Pessoal dirigente, técnico, administrativo, mediador sociocultural e outro pessoal
+
+1 - O custo horário máximo elegível do pessoal dirigente, técnico, administrativo, mediador sociocultural e outro pessoal, quando vinculado, não pode exceder o custo obtido a partir da remuneração a que esse pessoal tenha direito por força da sua relação laboral com a entidade empregadora, calculado de acordo com a fórmula constante do n.º 1 do artigo 17.º
+
+2 - O valor elegível da remuneração base mensal, prevista no n.º 1 do artigo 17.º, tem como limite, no que diz respeito ao dirigente máximo da organização beneficiária, o valor previsto para a remuneração base dos cargos de direção superior de 1.º grau da Administração Pública, não acrescendo ao mesmo quaisquer valores a título de despesas de representação.
+
+3 - Para além da remuneração prevista no n.º 1, são ainda elegíveis as despesas com remunerações relativas a horas de trabalho prestadas fora do período normal de trabalho, nomeadamente a título de trabalho extraordinário, desde que seja observado o regime jurídico para o efeito aplicável, no que respeita à sua autorização e limites de duração e remuneratórios, bem como o limite previsto no número anterior.
+
+4 - Para efeitos de financiamento, quando se verifique acumulação das funções definidas neste artigo no âmbito de um projecto ou acumulação de uma mesma função reportada a diferentes projectos, destas não pode resultar, no conjunto das respectivas imputações às operações co-financiadas, um valor elegível superior ao limite definido no n.º 2.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 22.º — Outros custos com pessoal afecto ao projecto
 
 1 - Para além dos custos referidos nos artigos anteriores, são ainda elegíveis as despesas com o alojamento, a alimentação e o transporte dos formadores, do pessoal dirigente, técnico, administrativo, mediador sócio-cultural e outro pessoal, quando a elas houver lugar.
 
-2 - O financiamento dos encargos com o alojamento e a alimentação obedece às regras e aos montantes fixados para a atribuição de ajudas de custo a funcionários e agentes da Administração Pública com remuneração superior ao índice 405 da escala indiciária do regime geral.
+2 - O financiamento dos encargos com o alojamento e a alimentação obedece às regras e aos montantes fixados para a atribuição de ajudas de custo aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.
 
-3 - O financiamento dos encargos com transporte obedece às regras e montantes estabelecidos para idênticas despesas dos funcionários e agentes da Administração Pública.
+3 - O financiamento dos encargos com transporte obedece às regras e montantes estabelecidos para idênticas despesas dos trabalhadores que exercem funções públicas.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ### CAPÍTULO V — Custos máximos dos projectos
 
@@ -381,11 +482,11 @@ c) O valor determinado numa base mensal é de (euro)4.000.
 
 1 - Os custos máximos elegíveis dos projectos formativos são aferidos em função do indicador custo por hora e por formando, excluindo os encargos com formandos e os encargos com formadores.
 
-2 - No modelo de declaração dos custos de base real, previsto na alínea a) do n.º 1 do artigo 36º do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de Dezembro, o indicador custo por hora e por formando é calculado com base no somatório dos encargos com outro pessoal afecto ao projecto, dos encargos com rendas, alugueres e amortizações, dos encargos directos com a preparação, acompanhamento, desenvolvimento e avaliação, e dos encargos gerais do projecto.
+2 - No modelo de declaração dos custos de base real, previsto na alínea a) do n.º 1 do artigo 36.º do [Decreto Regulamentar n.º 84-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-a-2007-426483), de 10 de dezembro, com as alterações introduzidas pelas Declarações de Retificação n.os 3/2008, de 30 de janeiro, e 5-A/2008, de 8 de fevereiro, e pelos Decretos Regulamentares n.os [13/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2008-449458), de 18 de junho, e [4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), de 15 de outubro, o indicador custo por hora e por formando é calculado com base no somatório dos encargos com outro pessoal afeto ao projeto, dos encargos com rendas, alugueres e amortizações, dos encargos diretos com a preparação, acompanhamento, desenvolvimento e avaliação e dos encargos gerais do projeto.
 
-3 - De acordo com o número anterior, os valores máximos do indicador custo por hora e por formando são os constantes do quadro II do Anexo 1 ao presente despacho que dele faz parte integrante.
+3 - De acordo com o número anterior, os valores máximos do indicador custo por hora e por formando são os constantes do quadro i do anexo i do presente despacho, que dele faz parte integrante.
 
-4 - No caso das ofertas de qualificação inicial de dupla certificação para jovens nas áreas de formação específicas de produção agrícola e animal, artes do espectáculo, hotelaria e restauração, turismo e lazer, podem ser fixados valores máximos distintos dos definidos no número anterior através de despacho do Ministro do Trabalho e da Solidariedade Social.
+4 - No caso das ofertas de qualificação inicial de dupla certificação para jovens nas áreas de formação específicas de produção agrícola e animal, artes do espetáculo, hotelaria e restauração, turismo e lazer, podem ser fixados valores máximos distintos dos definidos no número anterior através de despacho do Ministro da Economia e do Emprego.
 
 5 - As entidades beneficiárias podem gerir com flexibilidade a dotação aprovada para o conjunto dos encargos referidos no número 2, respeitando sempre o custo total aprovado.
 
@@ -393,23 +494,27 @@ c) O valor determinado numa base mensal é de (euro)4.000.
 
 7 - Em sede de pedido de pagamento de saldo, sempre que se verifique uma quebra no volume de formação medido em horas assistidas, por razões não imputáveis à entidade beneficiária, os valores máximos a que se refere o número 3 podem ser incrementados até 10 %, salvo situações excepcionais em formações com duração igual ou superior a 1200 horas, em que esses valores podem ser incrementados até 15 %, desde que respeitado o custo total aprovado para a candidatura.
 
-8 - Em sede de pedido de pagamento de saldo final, para as formações de educação e formação de adultos, quando a formação seja desenvolvida em horário pós-laboral, os valores máximos do indicador custo por hora e por formando, previstos no quadro II do Anexo 1, são afectados de um majorante de 5 %.
+8 - Em sede de pedido de pagamento de saldo final, para as formações de educação e formação de adultos, quando a formação seja desenvolvida em horário pós-laboral, os valores máximos do indicador custo por hora e por formando, previstos no quadro i do anexo i, são afetados de um majorante de 5 %.
 
-9 - Em sede de pedido de pagamento de saldo os valores máximos do indicador custo por hora e por formando para as formações de educação e formação de adultos e formações modulares certificadas, previstos no quadro II do Anexo 1, são afectados de um majorante de 10 % no caso de formandos oriundos dos Centros Novas Oportunidades, na sequência de processo de reconhecimento, validação e certificação de competências ou de encaminhamento para percursos de formação incompletos.
+9 - Em sede de pedido de pagamento de saldo, os valores máximos do indicador custo por hora e por formando para as formações de educação e formação de adultos e formações modulares certificadas, previstos no quadro i do anexo i, são afetados de um majorante de 10 % no caso de formandos oriundos dos centros novas oportunidades, na sequência de processo de reconhecimento, validação e certificação de competências ou de encaminhamento para percursos de formação incompletos.
 
 10 - A majoração do custo por hora e por formando prevista nos números 8 e 9 é aplicável de forma proporcional ao número de formandos naquela situação por relação à totalidade dos formandos que integram a respectiva candidatura.
 
 11 - Nos casos definidos nos números 8 e 9 é também aplicável o número 7 do presente artigo, nos termos e condições aí estabelecidas.
 
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
+
 ###### Artigo 24.º — Custos máximos dos projectos formativos na base forfetária
 
 (Revogado.)
 
-> Revogado pelo/a [Despacho Normativo n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2009-2123972) e [Despacho Normativo n.º 12/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2010-2088047) e [Despacho Normativo n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327) e [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562) e [Despacho Normativo n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2012-2877021) e [Despacho Normativo n.º 6/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2013-1173337), publicado em 2013-05-24.
+> Revogado pelo/a [Despacho Normativo n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2011-1332327), publicado em 2011-02-11.
 
 ###### Artigo 25.º — Custos máximos de projectos não formativos
 
-Os custos máximos de projectos não formativos são definidos através de despacho do Ministro do Trabalho e da Solidariedade Social, ou por despacho do Ministro da Agricultura, Desenvolvimento Rural e das Pescas, quando financiados pelo FEADER.
+Os custos máximos de projetos não formativos são definidos através de despacho do Ministro da Economia e do Emprego, ou por despacho da Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território quando financiados pelo FEADER.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ###### Artigo 26.º — Encargos com a promoção e coordenação da Candidatura Integrada de Formação
 
@@ -417,13 +522,15 @@ O limite máximo a considerar para efeitos de financiamento das actividades come
 
 ###### Artigo 27.º — Fixação de condições diversas e de montantes superiores
 
-Podem ser fixadas condições diversas ou autorizado o financiamento de montantes distintos dos previstos no presente diploma, por despacho do Ministro do Trabalho e da Solidariedade Social, ou por despacho conjunto do Ministro do Trabalho e da Solidariedade Social e do Ministro da Agricultura, Desenvolvimento Rural e das Pescas, quando estejam em causa projectos financiados pelo FEADER, nos seguintes casos:
+Podem ser fixadas condições diversas ou autorizado o financiamento de montantes distintos dos previstos no presente diploma, por despacho do Ministro da Economia e do Emprego ou, quando estejam em causa projetos financiados pelo FEADER, por despacho do Ministro da Economia e do Emprego e da Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, nas seguintes situações:
 
 a) Quando a insuficiente procura de algumas formações ou a prioridade a atribuir a alguns sectores, regiões ou grupos sócio-profissionais justifiquem a atribuição de outros apoios aos formandos;
 
-b) Quando haja dificuldade em recrutar formadores em áreas de formação muito específicas ou que exijam especiais qualificações;
+b) Quando haja dificuldade em recrutar formadores em áreas de formação muito específicas ou que exijam especiais qualificações, nomeadamente quando seja necessário recorrer à intervenção de formadores não residentes em território nacional;
 
 c) Quando a especificidade ou complexidade do projecto o justifiquem.
+
+> Alterado pelo/a [Despacho Normativo n.º 12/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2012-2055562), publicado em 2012-05-21.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 

@@ -7,18 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:474688:por
-    title: Decreto-Lei n.º 174/80
-    publication_date: '1980-05-29'
-  - id: pt:dre:472507:por
-    title: Decreto-Lei n.º 251/80
-    publication_date: '1980-07-24'
-  - id: pt:dre:376392:por
-    title: Decreto-Lei n.º 430/82
-    publication_date: '1982-10-23'
-  - id: pt:dre:220096:por
-    title: Decreto-Lei n.º 267/86
-    publication_date: '1986-09-03'
   - id: pt:dre:58509399:por
     title: Decreto-Lei n.º 156/2014
     publication_date: '2014-10-21'
@@ -42,7 +30,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 É da competência do membro do Governo responsável pelas áreas da agricultura, do agroalimentar, das florestal e do mar a autorização para a utilização e distribuição de verbas inscritas no orçamento do respetivo Ministério destinadas à concessão de subsídios às entidades ligadas aos sectores agrário, alimentar, florestal e do mar em relação aos quais não haja legislação especial.
 
-> Alterado pelo/a [Decreto-Lei n.º 174/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1980-474688) e [Decreto-Lei n.º 251/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1980-472507) e [Decreto-Lei n.º 430/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1982-376392) e [Decreto-Lei n.º 267/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1986-220096) e [Decreto-Lei n.º 156/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2014-58509399), publicado em 2014-10-21.
+> Alterado pelo/a [Decreto-Lei n.º 156/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2014-58509399), publicado em 2014-10-21.
 
 ###### Artigo 2.º
 
@@ -58,9 +46,19 @@ d) A comissões organizadoras de congressos, simpósios, colóquios ou outras re
 
 e) A comissões organizadoras de exposições, feiras e concursos agrícolas considerados de interesse para o desenvolvimento da agricultura e propaganda dos respectivos produtos, com o objectivo de contribuir para despesas de instalação e de funcionamento dos certames.
 
+f) A mútuas de gados, quer para casos de epizootias e em relação a necessidades não previstas, quer para recurso a serviços técnicos que ultrapassem as suas possibilidades imediatas, ponderadas as circunstâncias de cada caso e sob proposta dos serviços competentes do Ministério da Agricultura e Pescas.
+
+g) As cooperativas agrícolas e outras empresas do sector agrícola intervencionadas pelo Estado, para viabilização financeira indispensável à respectiva reestruturação ou reconversão.
+
+h) As entidades inseridas nas áreas da agricultura, comércio e pescas, quer se encontrem em regime de intervenção por parte do Estado, quer não, desde que, em despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Agricultura, Comércio e Pescas, seja considerada procedente a sua atribuição no quadro da viabilização ou produtividade económica das suas actividades.
+
+i) As entidades e associações sem fins lucrativos ligadas ao sector do mar, da silvicultura, da caça ou da pesca nas águas interiores, com a finalidade de contribuir para o pagamento de despesas inerentes à participação ou organização de exposições, feiras e outros eventos ou de reuniões e outras iniciativas de carácter técnico-científico.
+
 2. O pedido dos subsídios será sempre devidamente fundamentado pela entidade peticionária e sobre o mesmo incidirá um parecer dos serviços das direcções-gerais competentes quanto à conformidade da concessão com os termos do presente decreto-lei, fundamentalmente no respeitante à natureza da entidade peticionária, objectivos que persegue e razões, utilidade e urgência do pedido.
 
 3. Em face do parecer favorável dos serviços da direcção-geral competente, será feita proposta para a concessão do subsídio pelo director-geral respectivo, a qual, uma vez obtida a concordância do Secretário de Estado, será submetida a despacho do Ministro da Agricultura e Pescas.
+
+> Alterado pelo/a [Decreto-Lei n.º 156/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2014-58509399), publicado em 2014-10-21.
 
 ###### Artigo 3.º
 

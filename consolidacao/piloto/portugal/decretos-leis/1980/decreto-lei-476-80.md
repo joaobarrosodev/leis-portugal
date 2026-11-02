@@ -68,9 +68,9 @@ As formas de protecção facultadas ao abrigo deste decreto-lei poderão compree
 
 À Direcção-Geral de Protecção Social compete:
 
-a) Organizar, implementar, orientar e controlar todas as formas de protecção social referidas nos artigos anteriores, em estreita colaboração com a Direcção-Geral da Função Pública e com os serviços e instituições dependentes do Ministério dos Assuntos Sociais e outros organismos estatais ou particulares congéneres;
+a) Organizar, implementar, orientar e controlar todas as formas de protecção social referidas nos artigos anteriores, em estreita colaboração com a Direcção-Geral da Administração e da Função Pública e com os serviços e instituições dependentes do Ministério dos Assuntos Sociais e outros organismos estatais ou particulares congéneres;
 
-b) Elaborar programas de acção e executá-los uma vez aprovados;
+b) Elaborar programas de acção e executá-los, uma vez aprovados;
 
 c) Propor as providências convenientes à utilização dos meios que lhe sejam atribuídos, por forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;
 
@@ -88,7 +88,11 @@ i) Propor ou participar na elaboração, quando lhe for determinado superiorment
 
 j) Promover a apresentação anual do relatório de actividades da Direcção-Geral donde se possa inferir a eficiência e regularidade do seu funcionamento;
 
-l) Propor a aplicação de sanções aos utentes quando se detectem infracções às normas e regulamentos da Direcção-Geral.
+l) Propor a aplicação de sanções aos utentes quando se detectem infracções às normas e regulamentos da Direcção-Geral;
+
+m) Proceder à recolha e tratamento sistemáticos dos elementos económico-financeiros e estatísticos da segurança social da função pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -142,15 +146,15 @@ A Direcção-Geral compreende os seguintes serviços:
 
 4) Inspecção Médica;
 
-5) Serviços Jurídicos e de Contencioso;
+5) Centro de Documentação;
 
-6) Centro de Documentação;
+6) Centro de Informática;
 
-7) Centro de Informática;
+7) Serviços de Informação e Relações Públicas;
 
-8) Serviços de Informação e Relações Públicas.
+8) Centro de Apuramento de Custos e Estatísticas.
 
-Departamento dos Serviços Administrativos
+> Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.
 
 ###### Artigo 7.º
 

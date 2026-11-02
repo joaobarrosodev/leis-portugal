@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:613426:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "Competência do Secretário Regional Adjunto da Presidência",
+      "texto": "1 - O Secretário Regional Adjunto da Presidência exerce a sua competência nas seguintes matérias:\n\na) Assuntos parlamentares;\n\nb) Administração pública regional e local;\n\nc) Inspecção administrativa regional;\n\nd) Assuntos eleitorais;\n\ne) Estatística;\n\nf) Polícia administrativa;\n\ng) Assuntos da imigração.\n\n2 - Ao Secretário Regional Adjunto da Presidência compete assegurar as relações com a Assembleia Legislativa Regional e com os partidos políticos.\n\n3 - O Serviço Regional de Estatística dos Açores transita para a dependência do Secretário Regional Adjunto da Presidência.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 3 (Decreto Regulamentar Regional n.º 38-A/2004/A), art. 18.º, n.º 1: a estrutura orgânica do Decreto Regulamentar Regional n.º 33/2000/A 'é substituída pela estabelecida no presente diploma' — substituição global (revogação tácita) sem instrução textual sobre artigos concretos; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DRR 15/2001/A): artigo 15.º, n.º 1, adita alínea e) 'Polícia administrativa' e a anterior e) passa a f). Ultrapassado pelo alterador 2.",
+    "Alterador 2 (DRR 33/2002/A): nova redação do n.º 1 do artigo 15.º, alíneas a) a g); n.os 2 e 3 mantidos ('...') do texto atual. Aplicado.",
+    "Alterador 3 (DRR 38-A/2004/A): novo diploma orgânico que substitui a estrutura do original (art. 18.º, n.º 1); não é alteração textual; ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

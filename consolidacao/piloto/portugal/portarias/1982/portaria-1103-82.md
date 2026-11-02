@@ -74,13 +74,15 @@ A validade do referido diploma será extensiva aos países com os quais Portugal
 
 ###### Artigo 10.º
 
-Podem concorrer aos concursos referidos no artigo 9.º:
+Podem concorrer ao concurso referido no artigo 9.º:
 
 a) Os médicos habilitados com o grau de assistente hospitalar;
 
 b) Os médicos que, ocupando já um lugar de assistente hospitalar, o queiram fazer para fins curriculares;
 
-c) Os médicos cujo currículo seja considerado idóneo pelo Ministro dos Assuntos Sociais.
+c) Os médicos cujo currículo seja considerado equiparável ao grau de assistente hospitalar por despacho do Ministro dos Assuntos Sociais, sob parecer favorável de uma comissão técnica.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 11.º
 
@@ -101,8 +103,6 @@ c) Os médicos cujo currículo seja considerado idóneo pelo Ministro dos Assunt
 ###### Artigo 12.º
 
 1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.
-
-2 - (Revogado.)
 
 > Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
@@ -134,9 +134,13 @@ b) Um director de serviço desse estabelecimento da área profissional em causa 
 
 c) Um assistente ou chefe de serviço hospitalar nomeado pela comissão inter-hospitalar da zona.
 
-2 - As decisões são tomadas por maioria, tendo no entanto direito de veto o médico de mais elevado grau de carreira que for indicado pela comissão inter-hospitalar da zona.
+2 - As decisões são tomadas por maioria.
 
 3 - A homologação do júri competirá à comissão inter-hospitalar da zona.
+
+4 - No caso de impossibilidade da constituição dos júris segundo o estipulado no n.º 1, a comissão inter-hospitalar da zona nomeará elementos estranhos ao estabelecimento sob proposta do seu director, obedecendo aos mesmos critérios.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 15.º
 
@@ -154,9 +158,11 @@ c) Um assistente ou chefe de serviço hospitalar nomeado pela comissão inter-ho
 
 3 - As classificações finais serão dadas mediante lista dos candidatos aprovados em mérito absoluto e ordenados por ordem decrescente dos respectivos méritos relativos.
 
-4 - Aplica-se a este concurso exclusivamente curricular o disposto no n.º 8 do artigo 17.º e no artigo 18.º deste Regulamento.
+4 - Aplica-se a este concurso curricular o disposto no artigo 18.º deste Regulamento.
 
 5 - No caso de o concurso incluir provas práticas, a apreciação é feita segundo o critério que se refere nos artigos 17.º, 18.º e 19.º do presente Regulamento, devendo estar concluído no prazo de 30 dias a contar da afixação da lista definitiva dos candidatos admitidos.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 17.º
 
@@ -182,7 +188,9 @@ b) Melhor classificação na prova curricular.
 
 7 - Caso se mantenha a igualdade, a ordenação será feita por votações sucessivas para cada um dos lugares em causa.
 
-8 - O direito de veto mencionado no n.º 2 do artigo 14.º só poderá ser exercido quanto a decisões de classificações de candidatos e o membro do júri que o exerça deverá expor ao júri o seu critério de decisão.
+8 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 18.º
 
@@ -374,11 +382,13 @@ Os concursos de habilitação para chefe de serviço hospitalar realizam-se uma 
 
 Podem concorrer ao concurso referido no artigo anterior:
 
-a) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em pelo menos 2 concursos públicos com provas práticas eliminatórias;
+a) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias;
 
-b) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ocupem lugares de carreira como especialista há pelo menos 3 anos, desde que tenham sido aprovados em pelo menos 2 concursos públicos com provas práticas eliminatórias;
+b) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ocupem lugares da carreira como especialistas há, pelo menos, 3 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias.
 
-c) Os médicos cujo currículo seja considerado suficiente pelo Ministro dos Assuntos Sociais.
+c) Os médicos cujo currículo seja considerado equiparável ao nível definido na alínea a) do presente artigo, por despacho do Ministro dos Assuntos Sociais, sob parecer favorável da direcção médica de um hospital central e da Direcção-Geral dos Hospitais.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 31.º
 
@@ -480,9 +490,11 @@ b) 3 chefes de serviço na mesma área profissional ou afim pertencentes ao quad
 
 c) 1 chefe de serviço da mesma área profissional indicado pela comissão inter-hospitalar.
 
-2 - As decisões são tomadas por maioria, tendo no entanto direito de veto o médico de mais elevado grau de carreira que for indicado pela comissão inter-hospitalar da zona, entendendo-se este direito de veto do modo previsto no artigo 17.º, n.º 8.
+2 - As decisões são tomadas por maioria.
 
 3 - A homologação do júri competirá à comissão inter-hospitalar da zona.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 47.º
 
@@ -518,9 +530,11 @@ As competências atribuídas neste diploma às comissões inter-hospitalares per
 
 ###### Artigo 54.º
 
-1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a contar a partir da data de entrada em vigor do presente diploma.
+1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a partir da data de abertura dos primeiros concursos assistentes hospitalares a realizar ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.
 
 2 - Os concursos que decorrem à data da publicação do presente diploma deverão concluir-se dentro do prazo indicado no número anterior, já que a ele ficam também sujeitos os candidatos desses mesmos concursos.
+
+> Alterado pelo/a [Portaria n.º 58/83](https://diariodarepublica.pt/dr/detalhe/portaria/58-1983-308350), publicado em 1983-01-25.
 
 ###### Artigo 55.º
 

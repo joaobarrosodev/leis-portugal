@@ -1,0 +1,88 @@
+{
+  "id": "pt:dre:531791:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - A RDP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos respectivos estatutos.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::3.º",
+      "epigrafe": "",
+      "texto": "1 - A sociedade tem por objecto o exercício da actividade de radiodifusão sonora nos domínios da produção e emissão de programas, bem como a prestação do serviço público de radiodifusão sonora, nos termos da [Lei n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/lei/4-2001-386239), de 23 de Fevereiro, da Lei da Televisão e do [Decreto-Lei n.º 2/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1994-531791), de 10 de Janeiro.\n\n2 - A sociedade pode prosseguir quaisquer outras actividades relacionadas com o serviço de radiodifusão, designadamente as seguintes:\n\na) Transmissão de referências publicitárias de interesse geral ou de natureza cultural ou sob a forma de patrocínio;\n\nb) Comercialização dos seus programas e dos seus meios técnico-operacionais, com excepção, quanto a estes, das frequências associadas;\n\nc) Exploração dos produtos secundários respeitantes à radiodifusão sonora;\n\nd) Prestação de serviços de consultadoria técnica e de formação profissional e cooperação com outras entidades, nacionais ou estrangeiras, especialmente com entidades congéneres dos países de língua oficial portuguesa.\n\n3 - A sociedade, para exercício do seu objecto social e por deliberação do conselho de administração, ouvido o conselho fiscal, pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico, bem como no capital social de outras sociedades, por qualquer das formas previstas na legislação comercial.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::4.º",
+      "epigrafe": "",
+      "texto": "1 - A sociedade, sem prejuízo da sua total independência na definição da programação, deve observar os princípios definidos para o serviço público de radiodifusão.\n\n2 - O conteúdo da programação e da informação da RDP, S. A., é da exclusiva responsabilidade dos directores que chefiam aquelas áreas.\n\n3 - A RDP, S. A., deve assegurar a contribuição dos centros regionais para a programação e informação.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::5.º",
+      "epigrafe": "",
+      "texto": "1 - O capital social é de (euro) 31544500, está integralmente realizado e encontra-se dividido em acções com o valor nominal de (euro) 5 cada uma, podendo ser representado por títulos de 1, 10, 15 e 100 acções e de múltiplos de 100 até 10000.\n\n2 - As acções são nominativas, não podendo ser convertidas em acções ao portador, ficando desde já autorizada, nos termos da legislação aplicável, a emissão ou conversão de acções escriturais, as quais seguem o regime das acções nominativas.\n\n3 - As acções representativas do capital social devem pertencer exclusivamente ao Estado, a pessoas colectivas de direito público, a empresas públicas ou a sociedades de capitais exclusivamente públicos.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::7.º",
+      "epigrafe": "",
+      "texto": "1 - São órgãos sociais da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.\n\n2 - Os membros dos órgãos sociais exercem as suas funções por períodos de quatro anos, renováveis.\n\n3 - Os membros dos órgãos sociais consideram-se empossados no momento em que tenham sido eleitos e permanecem no exercício de funções até à eleição dos respectivos substitutos.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::12.º",
+      "epigrafe": "",
+      "texto": "1 - O conselho de administração é composto por três a cinco membros, sendo um presidente e um vice-presidente.\n\n2 - Os administradores são dispensados da prestação de caução.\n\n3 - O conselho de administração poderá designar um secretário da sociedade e um suplente para exercer as funções previstas na lei.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Estatutos da RDP, S. A.::22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 33/2003 art. 19.º n.º 1 b): revogados os arts. 3.º, 4.º e 6.º e o n.º 2 do art. 8.º do DL 2/94 -> '(Revogado.)' / '2 - (Revogado.)'.",
+    "Art. 19.º n.º 2: revogados os arts. 20.º a 22.º dos Estatutos -> um elemento '(Revogado.)' por artigo.",
+    "Art. 20.º n.º 3: Estatutos arts. 3.º n.º 1, 4.º n.º 1, 5.º n.º 1, 7.º n.º 2, 12.º n.os 1 e 3 (n.º 3 novo): aplicados; restantes números mantidos do texto atual.",
+    "Arts. 1.º-18.º e 21.º da Lei, art. 19.º n.º 1 a), c), d) e art. 20.º n.os 1 e 2: dizem respeito a outros diplomas ou são normas autónomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

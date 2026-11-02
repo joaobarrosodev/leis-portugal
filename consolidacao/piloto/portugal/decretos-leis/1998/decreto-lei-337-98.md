@@ -13,12 +13,12 @@ consolidacao:
   - id: pt:dre:333868:por
     title: Decreto-Lei n.º 95/2010
     publication_date: '2010-07-29'
-  - id: pt:dre:333868:por
-    title: Decreto-Lei n.º 95/2010
-    publication_date: '2010-07-29'
   - id: pt:dre:571959:por
     title: Decreto-Lei n.º 44/2014
     publication_date: '2014-03-20'
+  - id: pt:dre:251873:por
+    title: Decreto-Lei n.º 46/2002
+    publication_date: '2002-03-02'
 ---
 
 # Decreto-Lei n.º 337/98
@@ -81,6 +81,8 @@ e) Protecção das suas instalações e do seu pessoal;
 
 f) Uso público dos serviços inerentes à actividade portuária e sua fiscalização.
 
+g) Assunção da responsabilidade em matéria de segurança marítima e portuária na sua área de jurisdição, definindo as condições de segurança de funcionamento do porto, em todas as suas vertentes, tendo em atenção a necessidade de garantir, de forma adequada, a sua exploração comercial.
+
 3 - No exercício das competências referidas no número anterior, o pessoal da APS, S. A., pode:
 
 a) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;
@@ -89,7 +91,7 @@ b) Usar armas para defesa própria, dos objectos de serviço e das instalações
 
 4 - A livre entrada a bordo dos navios fundeados nos portos de Sines, de Faro ou de Portimão, ou atracados aos respetivos cais, é sempre facultada aos funcionários da APS, S.A., encarregados da superintendência ou fiscalização de serviços portuários que disso tenham necessidade mediante a apresentação de documento de identificação emitido pela APS, S.A., acreditando-os para aquela missão.
 
-> Alterado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868) e [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 4.º
 
@@ -187,9 +189,13 @@ cc) Linha de costa desde o ponto anterior até ao ponto definido na alínea a), 
 
 5 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade dentro da área de jurisdição da APS, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Alentejo.
 
+6 - A APS, S.A., prossegue o seu objeto e as suas atribuições, igualmente, nas áreas de jurisdição identificadas no artigo 6.º do Decreto-Lei n.º 44/2014.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
 
 > Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 8.º
 
@@ -221,13 +227,11 @@ A APS, S. A., só pode participar na constituição e adquirir participações e
 
 1 - A APS, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.
 
-2 - Como órgão consultivo do conselho de administração, a APS, S. A., tem uma comissão de coordenação portuária, à qual compete a formulação de pareceres e recomendações em matérias relacionadas com:
+2 - (Revogado.)
 
-a) A segurança da navegação e a definição dos condicionamentos necessários para garantir e assegurar as ajudas à navegação e sinalização marítimas na área de jurisdição da APS, S. A.;
+3 - (Revogado.)
 
-b) A garantia de um integrado desempenho do serviço de pilotagem.
-
-3 - A comissão de coordenação portuária é composta por três membros, um dos quais representante do conselho de administração, que preside, outro em representação da capitania do porto da área de jurisdição da APS, S. A., e um terceiro a designar pelo Ministro do Equipamento, do Planeamento e da Administração do Território.
+> Alterado pelo/a [Decreto-Lei n.º 46/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), publicado em 2002-03-02.
 
 ###### Artigo 13.º
 
@@ -333,7 +337,7 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 2 - A sociedade tem duração ilimitada.
 
-> Alterado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868) e [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 2.º — Sede
 
@@ -345,7 +349,7 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 A APS, S.A., tem por objeto a administração dos portos de Sines, de Faro e de Portimão, visando a sua exploração económica, conservação e desenvolvimento, abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
 
-> Alterado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868) e [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
@@ -457,7 +461,7 @@ i) Deliberar sobre a realização de empréstimos ou outras operações financei
 
 j) Autorizar a concessão de subsídios a organismos oficiais ou privados cujas actividades interessam directa ou indirectamente à acção da APS, S. A., bem como a obras de carácter social e cultural;
 
-l) Deliberar sobre a criação de zonas francas ou de armazéns gerais francos na área do porto de Sines e apresentar as respectivas propostas aos ministérios competentes;
+l) Deliberar sobre a criação de zonas francas ou de armazéns gerais francos nas áreas dos portos de Sines, de Faro e de Portimão e apresentar as respetivas propostas aos ministérios competentes;
 
 m) Administrar o domínio público na sua área de jurisdição, atribuir licenças e concessões para a sua utilização e definir o interesse público do respectivo uso privativo para efeitos de concessão;
 
@@ -482,6 +486,8 @@ v) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo
 x) Constituir mandatários da sociedade com os poderes que julgue convenientes;
 
 z) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 11.º — Delegação de competências
 

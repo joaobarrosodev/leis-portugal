@@ -1,10 +1,24 @@
 [
   {
+    "artigo": "14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º\n\n1 - O pão de mistura é fabricado com farinhas espoadas de 1.ª qualidade, de centeio e de milho, ou apenas duas destas.\n\n2 - Nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.",
+    "depois": "###### Artigo 14.º\n\nNo pão de mistura de farinha de trigo, centeio e milho, ou apenas de 2 destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.\n\n> Alterado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010), publicado em 1982-05-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:656378:por",
+    "alterador": "pt:dre:392010:por;pt:dre:352316:por"
+  },
+  {
     "artigo": "28.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 28.º\n\nO transporte ferroviário dos cereais e das farinhas destinados às indústrias utilizadoras será objecto de regulamentação, através de portaria emitida pelos Ministérios dos Transportes e Comunicações, Comércio e Turismo e Agricultura e Pescas, devendo, no entanto, as respectivas tarifas ser uniformes para cereais e farinhas, independentemente da distância e do utilizador.",
-    "depois": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010) e [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17.",
+    "depois": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

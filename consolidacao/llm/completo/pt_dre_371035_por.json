@@ -1,0 +1,108 @@
+{
+  "id": "pt:dre:371035:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:\n\na) Ministros de Estado;\n\nb) Ministro da Presidência;\n\nc) Ministro dos Assuntos Parlamentares;\n\nd) Ministro Adjunto do Primeiro-Ministro.\n\n2 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Ministro da Presidência;\n\nd) Secretário de Estado da Juventude e Desportos.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º-A",
+      "epigrafe": "",
+      "texto": "1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Primeiro-Ministro.\n\n2 - A Presidência do Conselho de Ministros compreende todos os serviços e organismos nela integrados em diplomas anteriores, bem como os que não tenham sido expressamente integrados noutros departamentos.\n\n3 - Incumbe ao Primeiro-Ministro a responsabilidade pelas entidades do sector empresarial do Estado no domínio da comunicação social, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e à Ministra de Estado e das Finanças.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado da Administração Pública.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.\n\n3 - Transitam do extinto Ministério da Reforma do Estado e da Administração Pública para o Ministério das Finanças os serviços e organismos naquele compreendidos.\n\n4 - Transitam do extinto Ministério do Planeamento para o Ministério das Finanças os seguintes serviços e organismos:\n\na) Secretaria-Geral;\n\nb) Auditoria Jurídica (Planeamento e Administração do Território);\n\nc) Departamento de Prospectiva e Planeamento;\n\nd) (Revogada.)\n\n5 - Ficam sob responsabilidade da Ministra de Estado e das Finanças as entidades do sector empresarial do Estado no domínio do sistema financeiro.",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Presidência.",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro da Economia é coadjuvado no exercício das suas funções pela Secretária de Estado Adjunta do Ministro da Economia, pela Secretária de Estado da Indústria, Comércio e Serviços e pelo Secretário de Estado do Turismo.\n\n2 - O Ministério da Economia integra os serviços e organismos até aqui compreendidos no ministério com essa designação.\n\n3 - Transitam do extinto Ministério do Equipamento Social para o Ministério da Economia os serviços e organismos com atribuições e competências no domínio das telecomunicações.\n\n4 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro da Economia as entidades do sector empresarial do Estado no domínio dos correios e das telecomunicações.",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "1 - O Ministro da Agricultura, Desenvolvimento Rural e Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e das Pescas, pelo Secretário de Estado do Desenvolvimento Rural e pelo Secretário de Estado das Florestas.\n\n2 - O Ministério da Agricultura, Desenvolvimento Rural e Pescas integra os serviços e organismos até aqui compreendidos no ministério com a mesma designação.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Ministério da Ciência e do Ensino Superior.\n\n2 - O Ministro da Ciência e do Ensino Superior é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Ciência e do Ensino Superior.\n\n3 - Transitam do extinto Ministério da Ciência e da Tecnologia para o Ministério da Ciência e do Ensino Superior os serviços e organismos naquele compreendidos, à excepção do Gabinete de Gestão e Intervenção Operacional para a Sociedade da Informação, que transita para a Presidência do Conselho de Ministros.\n\n4 - Transitam do Ministério da Educação para o Ministério da Ciência e do Ensino Superior os seguintes serviços e organismos:\n\na) Direcção-Geral do Ensino Superior;\n\nb) Instituto Nacional de Acreditação da Formação de Professores;\n\nc) Estádio Universitário de Lisboa;\n\nd) Fundo de Apoio ao Estudante;\n\ne) Conselho de Reitores das Universidades Portuguesas;\n\nf) Conselho Coordenador dos Institutos Superiores Politécnicos;\n\ng) Conselho Nacional da Avaliação do Ensino Superior;\n\nh) Conselho Nacional da Acção Social do Ensino Superior.",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Ministério das Obras Públicas, Transportes e Habitação.\n\n2 - O Ministro das Obras Públicas, Transportes e Habitação é coadjuvado no exercício das suas funções pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado dos Transportes e pelo Secretário de Estado da Habitação.\n\n3 - Transitam do extinto Ministério do Equipamento Social para o Ministério das Obras Públicas, Transportes e Habitação os serviços e organismos naquele compreendidos, sem prejuízo dos serviços e organismos que transitam para o Ministério da Economia.\n\n4 - Transita do extinto Ministério do Planeamento para o Ministério das Obras Públicas, Transportes e Habitação o Gabinete de Assuntos Europeus e Relações Externas.\n\n5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro das Obras Públicas, Transportes e Habitação as entidades do sector empresarial do Estado nos domínios dos transportes e respectivas infra-estruturas, portos, aeroportos e navegação aérea, marítima e fluvial.",
+      "alterador": 1
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n2 - O Ministro das Cidades, Ordenamento do Território e Ambiente é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Desenvolvimento Regional, pelo Secretário de Estado da Administração Local e pelo Secretário de Estado do Ambiente e Ordenamento do Território.\n\n3 - Transitam do extinto Ministério do Ambiente e do Ordenamento do Território para o Ministério das Cidades, Ordenamento do Território e Ambiente os serviços e organismos nele compreendidos.\n\n4 - Transitam do extinto Ministério do Planeamento para o Ministério das Cidades, Ordenamento do Território e Ambiente os seguintes serviços:\n\na) Comissão de Coordenação da Região do Norte;\n\nb) Comissão de Coordenação da Região do Centro;\n\nc) Comissão de Coordenação da Região de Lisboa e Vale do Tejo;\n\nd) Comissão de Coordenação da Região do Alentejo;\n\ne) Comissão de Coordenação da Região do Algarve.\n\n5 - Sem prejuízo do disposto no número anterior, participa na definição das linhas de orientação daqueles serviços a Ministra de Estado e das Finanças.\n\n6 - Transita do Ministério das Finanças para o Ministério das Cidades, Ordenamento do Território e Ambiente a Direcção-Geral do Desenvolvimento Regional.\n\n7 - Sem prejuízo do disposto no número anterior, o Ministro de Estado e das Finanças participa na definição das linhas de orientação estratégica e na coordenação e controlo de gestão dos fundos estruturais comunitários e do Fundo de Coesão que incumbem àquela Direcção-Geral.\n\n8 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Cidades, Ordenamento do Território e Ambiente as entidades do sector empresarial do Estado nos domínios das águas, resíduos e reabilitação urbana, bem como as seguintes entidades:\n\na) Parque Expo, S. A.;\n\nb) COSTAGEST, S. A.;\n\nc) EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., neste caso, ouvindo o Ministro da Agricultura, Desenvolvimento Rural e Pescas.",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "Ficam sujeitos a superintendência conjunta, nomeadamente:\n\na) O Instituto Hidrográfico, cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa Nacional e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nb) O Instituto Nacional de Engenharia, Tecnologia e Inovação, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nc) O Instituto Nacional da Propriedade Industrial, cabendo a tutela funcional e patrimonial ao Ministro da Economia e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro Adjunto do Primeiro-Ministro;\n\nd) O Instituto Nacional de Investigação Agrária e das Pescas, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\ne) O Laboratório Nacional de Investigação Veterinária, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Desenvolvimento Rural e Pescas e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nf) A Agência Nacional para os Programas Comunitários Sócrates e Leonardo da Vinci, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Segurança Social e do Trabalho, e, quanto ao programa ERASMUS, com o Ministro da Ciência e do Ensino Superior;\n\ng) O Conselho Nacional de Educação, cabendo a tutela funcional e patrimonial ao Ministro da Educação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nh) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência e do Ensino Superior e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Economia;\n\ni) O Instituto de Genética Médica Doutor Jacinto de Magalhães, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nj) O Instituto Nacional de Saúde Dr. Ricardo Jorge, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior;\n\nl) A Comissão para a Igualdade no Trabalho e Emprego, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Presidência;\n\nm) A Comissão Nacional de Protecção das Crianças e Jovens em Risco, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com a Ministra da Justiça;\n\nn) O Instituto do Emprego e Formação Profissional, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;\n\no) O Instituto para a Inovação na Formação, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;\n\np) A Santa Casa da Misericórdia de Lisboa, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Saúde;\n\nq) O Laboratório Nacional de Engenharia Civil, cabendo a tutela funcional e patrimonial ao Ministro das Obras Públicas, Transportes e Habitação e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior.",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "1 - A definição da orientação estratégica da sociedade PARPÚBLICA - Participações Públicas (SGPS), S. A., compete ao Ministro de Estado e das Finanças e ao Ministro da Economia.\n\n2 - A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete ao Ministro Adjunto do Primeiro-Ministro, ao Ministro da Economia e ao Ministro da Ciência e do Ensino Superior.",
+      "alterador": 1
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Conselho de Ministros para os Assuntos Europeus, de que fazem parte o Primeiro-Ministro, que preside, e todos os ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.\n\n3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Europeus, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - O Conselho de Ministros para os Assuntos Europeus realiza a coordenação política global, nas vertentes interna e externa, no quadro da participação de Portugal na União Europeia, competindo-lhe:\n\na) Estabelecer as grandes linhas de orientação política para a respectiva área;\n\nb) Assegurar a coordenação, a nível político, das matérias de maior relevância no domínio da participação portuguesa na União Europeia;\n\nc) Acompanhar, de um modo geral, a evolução da União e, bem assim, da integração europeia;\n\nd) Aprovar o relatório anual relativo à participação de Portugal na União;\n\ne) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.",
+      "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "",
+      "texto": "1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, e os seguintes Ministros:\n\na) Ministra de Estado e das Finanças;\n\nb) Ministro de Estado e da Defesa Nacional;\n\nc) Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;\n\nd) Ministro da Presidência;\n\ne) Ministro dos Assuntos Parlamentares;\n\nf) Ministro da Economia;\n\ng) Ministro da Agricultura, Desenvolvimento Rural e Pescas;\n\nh) Ministro da Segurança Social e do Trabalho;\n\ni) Ministro das Obras Públicas, Transportes e Habitação;\n\nj) Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nl) Outros ministros que, para cada reunião, sejam convocados por indicação do Primeiro-Ministro.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões do Conselho de Ministros para os Assuntos Económicos, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - Ao Conselho de Ministros para os Assuntos Económicos compete:\n\na) Definir as linhas da política económica e financeira do Governo;\n\nb) Definir as linhas da política de desenvolvimento territorial;\n\nc) Acompanhar e coordenar a execução das medidas aprovadas;\n\nd) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos respectivos ministros;\n\ne) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do Conselho de Ministros;\n\nf) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º-A",
+      "epigrafe": "",
+      "texto": "Até à entrada em vigor do Orçamento do Estado do ano de 2005 mantém-se a expressão orçamental da estrutura governativa anterior relativa à Direcção-Geral do Desenvolvimento Regional.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 26.º na redacção do DL 119/2003: as remissões '[Anterior alínea c).]' a '[Anterior alínea s).]' não batem com o texto atual (lidas à letra repetiriam o INETI depois do DL 20/2004 e perderiam o INPI e o LNEC); apliquei-as desfasadas de uma letra (b)=antiga d), c)=antiga e), d)=antiga f), g)=antiga j), ... r)=antiga t)), como mostra a republicação anexa ao próprio DL 119/2003, com o texto das alíneas antigas copiado do texto atual. Divergências de redacção que só aparecem nas republicações (p. ex. 'Ministra'->'Ministro de Estado e das Finanças' noutros artigos, art. 9.º, n.º 4, b), art. 17.º, n.º 3) não vêm em nenhuma instrução e não foram aplicadas.",
+  "instrucoes": [
+    "DL 119/2003 art. 1.º: nova redacção dos arts. 6.º (n.º 2, b) nova, c) e d) = antigas b) e c); n.os 3 e 4 saem para o 6.º-A), 9.º n.º 1, 14.º n.º 2, 17.º n.º 4, 20.º n.º 2, 24.º n.º 2, 25.º n.º 2 e n.º 6 c), 26.º (reordenado, ver nao_aplicavel), 27.º (todo), 29.º n.º 2, 30.º n.º 2, 31.º n.º 2: aplicados.",
+    "DL 119/2003 art. 2.º: aditado 6.º-A; os n.os 2 e 3 '(Anterior n.º 3/4 do artigo 6.º)' foram preenchidos com o texto dos antigos n.os 3 e 4 do art. 6.º.",
+    "DL 20/2004 art. 1.º: art. 18.º n.º 1 novo; art. 26.º b) e l) novas, restantes alíneas renumeradas (sai a do Instituto Geológico e Mineiro): aplicados.",
+    "DL 176/2004 art. 1.º: art. 9.º n.º 4 d) revogada; art. 25.º n.º 2 novo, n.os 6 e 7 novos, n.º 8 = anterior n.º 6: aplicados.",
+    "DL 176/2004 art. 2.º: aditado art. 32.º-A.",
+    "Normas de produção de efeitos e republicação dos alteradores: não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

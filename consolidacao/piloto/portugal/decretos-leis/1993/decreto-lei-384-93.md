@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:621296:por
-    title: Decreto-Lei n.º 16/96
-    publication_date: '1996-03-08'
   - id: pt:dre:352900:por
     title: Decreto-Lei n.º 15-A/99
     publication_date: '1999-01-19'
+  - id: pt:dre:621296:por
+    title: Decreto-Lei n.º 16/96
+    publication_date: '1996-03-08'
   - id: pt:dre:522638:por
     title: Decreto-Lei n.º 15/2007
     publication_date: '2007-01-19'
@@ -90,7 +90,7 @@ d) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em 
 
 2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico, que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de destacamento, no referido nível e grau de ensino.
 
-> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296) e [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
+> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19.
 
 ###### Artigo 6.º — Ordenação dos candidatos
 
@@ -100,15 +100,17 @@ a) Professores profissionalizados já pertencentes a um dos quadros de zona peda
 
 b) Outros professores já pertencentes a um dos quadros de zona pedagógica, no grupo em que estão colocados;
 
-c) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação profissional;
+c) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitação profissional;
 
-d) Candidatos incluídos na alínea b) do artigo anterior em grupos para os quais possuem habilitação própria.
+d) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitações próprias.
 
 2 - Dentro de cada uma das prioridades referidas no número anterior, os candidatos são ordenados nos termos previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho.
 
 3 - Nenhum candidato pode ser incluído em mais de uma das alíneas do n.º 1.
 
 4 - Os candidatos incluídos na alíneas c) e d) do n.º 1 podem concorrer, no máximo, a dois grupos de docência.
+
+> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), publicado em 1996-03-08.
 
 ###### Artigo 7.º — Apresentação a concurso
 
@@ -188,17 +190,19 @@ b) No caso de incumprimento da alínea b), a exoneração do quadro de zona peda
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296) e [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
+> Revogado pelo/a [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), publicado em 2007-01-19.
 
 ###### Artigo 15.º — Afectação
 
-1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados imediatamente após a 4.ª prioridade.
+1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados entre a quinta e a sexta prioridades definidas no artigo 42.º daquele diploma.
 
 2 - Para efeitos do número anterior, os professores nele referidos indicam as suas preferências, através do preenchimento de um boletim a editar pela Imprensa Nacional-Casa da Moeda, ordenando até 100 escolas da área do CAE a cujos quadros de zona pedagógica se acham vinculados e todos os municípios daquela área.
 
 3 - Quando a candidatura não esgote as escolas existentes nos municípios que integram o CAE, considera-se que o candidato manifesta igual preferência por todas as restantes.
 
 4 - Não sendo possível proceder à afectação nas vagas referidas no n.º 1, será posteriormente afectado nas vagas que forem surgindo, com observância das preferências por ele indicadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), publicado em 1996-03-08.
 
 ###### Artigo 16.º — Apresentação ao serviço
 

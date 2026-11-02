@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:176301:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "alterador": 9,
+      "texto": "1. Os servidores do Estado não podem receber:\n\na) Pelo exercício de cargos públicos, pagos pelo Orçamento Geral do Estado, ainda que em regime de acumulação, importância total superior ao ordenado correspondente à letra A, acrescido de 25 por cento;\n\nb) Pelo exercício do respectivo cargo, mais de 95% da totalidade das remunerações atribuídas à categoria imediatamente superior do mesmo quadro.\n\n2 - Para efeitos dos limites estabelecidos no número anterior, não serão considerados a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.\n\n3. A inobservância dos limites fixados neste artigo obriga à reposição das quantias indevidamente recebidas.\n\n4. Ficam revogadas as disposições especiais que permitam a percepção, pelo Orçamento Geral do Estado, de ordenados ou gratificações superiores aos limites máximos fixados neste artigo.\n\n5 - Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao vencimento de director-geral ou equiparado."
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "alterador": 10,
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "alterador": 10,
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "alterador": 10,
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "alterador": 6,
+      "texto": "1. O recrutamento de terceiros-oficiais será feito por concurso de prestação de provas, a que serão admitidos:\n\na) Indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado;\n\nb) Escriturários-dactilógrafos do respectivo quadro que possuam a escolaridade obrigatória, desde que tenham, pelo menos, 3 anos de bom e efectivo serviço nessa categoria.\n\n2. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação exigida pela alínea a) do número anterior não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem a mesma habilitação."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As alterações aos mapas anexos (pessoal civil dos Ministérios civis e dos departamentos militares) não puderam ser aplicadas, porque os mapas só existem em imagem: DL 514/70, art. 1.º; DL 96/76, arts. 1.º e 2.º (categorias Q e L); DL 191/76, art. 1.º (fim das classes de telefonista). DL 142/75, art. 2.º: adita um lugar ao quadro do Ministério da Comunicação Social com referência à letra B do mapa; não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1 (DL 30/70): vem sem texto; nada a aplicar.",
+    "Alterador 2 (DL 514/70): art. 1.º altera os mapas anexos, que só vêm em imagem (ver nao_aplicavel); os arts. 2.º a 6.º são normas avulsas e não alteram o texto.",
+    "Alterador 3 (DL 27/74): nova redação da al. b) do n.º 1 e do n.º 2 do art. 8.º; aplicada. O n.º 2 foi depois substituído pelo alterador 9.",
+    "Alterador 4 (DL 142/75): altera outro diploma (DL 48686) e adita um lugar a um quadro; não altera o texto do original.",
+    "Alterador 5 (DL 96/76): altera o mapa dos departamentos militares, que só vem em imagem; não aplicado.",
+    "Alterador 6 (DL 103/76): nova redação do n.º 1 do art. 27.º; aplicada, com o n.º 2 atual mantido.",
+    "Alterador 7 (DL 191/76): altera a categoria de telefonista no mapa anexo; não é textual, não aplicado.",
+    "Alterador 8 (DL 183-F/80, art. 3.º): nova redação do n.º 5 do art. 8.º; aplicada. Os arts. 1.º e 2.º alteram o Código do Imposto Complementar, outro diploma, e foram ignorados.",
+    "Alterador 9 (DL 192/84, art. 3.º): nova redação do n.º 2 do art. 8.º; aplicada. O art. 8.º junta mudanças dos alteradores 3, 8 e 9, e 'alterador' indica o último. O resto do diploma altera o Código do Imposto Complementar e foi ignorado.",
+    "Alterador 10 (DL 19/89, art. 2.º): revogados os arts. 16.º, 17.º e 18.º; cada um fica com '(Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

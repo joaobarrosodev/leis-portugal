@@ -41,15 +41,23 @@ c) Secretário aduaneiro de 2.ª classe, de entre secretários aduaneiros estagi
 
 d) Secretário aduaneiro estagiário, de entre indivíduos habilitados com o curso complementar do ensino secundário ou equiparado, mediante concurso, que incluirá provas de selecção adequadas.
 
+2 - Os actuais secretários aduaneiros não possuidores da habilitação académica referida na alínea a) do número anterior poderão apresentar-se aos concursos de acesso às categorias de secretário aduaneiro especialista de 1.ª classe e secretário aduaneiro especialista após a frequência, com aproveitamento, de um curso de formação.
+
+3 - A duração, o conteúdo programático, os sistemas de funcionamento e a avaliação do curso previsto no número anterior serão aprovados por portaria do membro do Governo competente e do que tiver a seu cargo a função pública.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 34/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1991-659558), publicado em 1991-06-20.
+
 ###### Artigo 2.º — Formação profissional
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar n.º 34/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1991-659558) e [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 ###### Artigo 3.º — Alteração ao quadro de pessoal
 
-O quadro de pessoal da Direcção-Geral das Alfândegas é alterado, no que respeita à carreira de secretário aduaneiro, de acordo com o mapa constante do anexo n.º 1 ao presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 

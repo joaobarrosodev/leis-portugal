@@ -10,15 +10,15 @@ consolidacao:
   - id: pt:dre:303385:por
     title: Portaria n.º 388/2002
     publication_date: '2002-04-11'
-  - id: pt:dre:190589:por
-    title: Portaria n.º 161/2003
-    publication_date: '2003-02-19'
+  - id: pt:dre:631650:por
+    title: Portaria n.º 456/2006
+    publication_date: '2006-05-16'
   - id: pt:dre:445744:por
     title: Portaria n.º 1291/2003
     publication_date: '2003-11-18'
-  - id: pt:dre:540024:por
-    title: Portaria n.º 953/2006
-    publication_date: '2006-09-12'
+  - id: pt:dre:261879:por
+    title: Portaria n.º 590/2004
+    publication_date: '2004-06-02'
   - id: pt:dre:592170:por
     title: Portaria n.º 609-A/2009
     publication_date: '2009-06-05'
@@ -74,19 +74,17 @@ f) Promover a reposição do potencial produtivo silvícola.
 
 Para efeitos deste Regulamento, consideram-se as seguintes definições:
 
-a) «Espaços florestais» - terrenos ocupados com arvoredos florestais, com uso silvo-pastoril, ou os incultos há mais de seis anos;
+a) «Espaços florestais» - terrenos ocupados com arvoredos florestais, com uso silvipastoril, ou os incultos há mais de seis anos;
 
-b) «Superfície florestal» - espaço florestal que satisfaça a uma das seguintes condições:
+b) «Superfície florestal» - espaço florestal que satisfaça uma das seguintes condições:
 
 i) Apresente povoamentos com altura média entre 1,5 m e 5 m, no caso das resinosas, e entre 2 m e 5 m, no caso das folhosas, com as densidades mínimas constantes do anexo I;
 
 ii) Apresente uma projecção horizontal das copas superior a 15% da área total, quando de altura média superior a 5 m;
 
-iii) Tenha sido objecto de financiamento no âmbito de anteriores programas de apoio à arborização ou beneficiação florestal, incluindo florestação de terrenos agrícolas;
+c) «Áreas contínuas» - prédios, ou partes de prédios, confinantes ou que se encontrem separados por caminhos, estradas ou linhas de água;
 
-c) «Áreas contínuas» - os prédios, ou partes de prédios, confinantes ou que se encontrem separados por caminhos, estradas ou linhas de água;
-
-d) «Agricultor» - a pessoa singular que dedique mais de 25% do seu tempo total de trabalho à actividade agro-florestal e dela obtenha, pelo menos, 25% do seu rendimento e a pessoa colectiva que, nos termos do respectivo estatuto, tem exclusivamente por objecto a actividade agro-florestal e cujos administradores ou gerentes, pessoas singulares e sócios detentores de, pelo menos, 10% do capital social, reúnam as condições anteriormente estabelecidas para as pessoas singulares;
+d) «Agricultor» - pessoa singular que dedique mais de 25% do seu tempo total de trabalho à actividade agro-florestal e dela obtenha, pelo menos, 25% do seu rendimento e pessoa colectiva que, nos termos do respectivo estatuto, tem exclusivamente por objecto a actividade agro-florestal e cujos administradores ou gerentes, pessoas singulares e sócios detentores de, pelo menos, 10% do capital social reúnam as condições anteriormente estabelecidas para as pessoas singulares;
 
 e) «Instalação do povoamento» - período que decorre desde o início dos trabalhos de mobilização do terreno até à retancha ou, quando esta não seja necessária, até um ano após o início da plantação;
 
@@ -100,11 +98,13 @@ ii) Tenha uma área mínima de 10 ha;
 
 iii) Nenhum dos titulares detenha mais de 75% da superfície total;
 
-h) «Livro de obra» - livro no qual são inscritos todos os dados relativos à execução do investimento, etapa a etapa, até ao final da consolidação do investimento, devendo ser subscrito pelo beneficiário, pelo técnico responsável pelo acompanhamento da execução do projecto e pelo prestador de serviços;
+h) «Livro de obra» - livro no qual são inscritos todos os dados relativos à execução do investimento, etapa a etapa, até ao fim da consolidação do investimento, devendo ser subscrito pelo beneficiário, pelo técnico responsável pelo acompanhamento da execução do projecto e pelo prestador de serviços;
 
 i) «Auto de fecho do projecto» - comprovação da efectiva realização material do investimento verificada através da apreciação técnica da obra realizada, avaliada em termos qualitativos (viabilidade do povoamento) e quantitativos (auto de medição do projecto);
 
 j) «Auto de avaliação do projecto» - aferição do cumprimento do plano de gestão (PG) do projecto, no termo do período de estabelecimento do povoamento, com vista a avaliar a eficácia da aplicação das ajudas atribuídas.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 4.º — Investimentos elegíveis
 
@@ -112,31 +112,41 @@ j) «Auto de avaliação do projecto» - aferição do cumprimento do plano de g
 
 a) Arborização de espaços florestais;
 
-b) Rearborização de espaços florestais percorridos por incêndios, ou afectados por causas naturais, tais como intempéries, pragas e doenças, declaradas como tal nos termos da lei;
+b) Rearborização de espaços florestais e beneficiação de superfícies florestais percorridos por incêndios ou afectados por causas naturais, tais como intempéries, pragas e doenças, declaradas como tal nos termos da lei;
 
 c) Beneficiação de superfícies florestais;
 
 d) Construção e beneficiação de infra-estruturas adequadas aos espaços florestais, quando complementares dos investimentos referidos nas alíneas a) a c);
 
-e) Actividades de uso múltiplo em espaços florestais, designadamente actividade cinegética, silvo-pastorícia, produção de cogumelos, pesca desportiva, apicultura e utilização pública.
+e) Construção e beneficiação de infra-estruturas da rede considerada no plano de defesa da floresta das ZIF, a que se refere o artigo 20.º do Decreto-Lei n.º 127/2005, de 5 de Agosto, quando os beneficiários sejam as suas entidades gestoras;
+
+f) Actividades de uso múltiplo em espaços florestais, designadamente actividade cinegética, silvipastorícia, produção de cogumelos, pesca desportiva, apicultura e utilização pública.
 
 2 - Para efeitos das alíneas a) e b) do número anterior, são elegíveis as espécies constantes do anexo II.
 
-3 - Para efeitos da alínea c) do n.º 1, são consideradas superfícies florestais as que tenham sido arborizadas ao abrigo do PAF, independentemente da densidade apresentada pelos povoamentos.
+3 - Os investimentos relativos às actividades de silvipastorícia, produção de cogumelos e apicultura apenas são elegíveis quando complementares dos investimentos referidos nas alíneas a) a c) do n.º 1.
 
-4 - Os investimentos relativos às actividades de silvo-pastorícia, produção de cogumelos e apicultura apenas são elegíveis quando complementares dos investimentos referidos nas alíneas a) a c) do n.º 1.
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 5.º — Investimentos excluídos
 
 Não são concedidas ajudas aos seguintes investimentos:
 
-a) Arborização e rearborização com espécies de rápido crescimento, a explorar em rotações inferiores a 20 anos, para beneficiários não agricultores, bem como, em qualquer caso, a consolidação e beneficiação desses povoamentos, à excepção dos investimentos relativos à substituição total ou parcial de povoamentos ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo;
+a) Arborização e rearborização com espécies de rápido crescimento, a explorar em rotações inferiores a 20 anos, para beneficiários não agricultores, incluindo, para todo o tipo de beneficiário, a consolidação desses povoamentos;
 
-b) Beneficiação de povoamentos objecto de financiamento público para o mesmo fim há menos de 5 anos;
+b) Beneficiação de povoamentos das espécies referidas na alínea anterior, à excepção dos investimentos relativos à substituição por outras espécies quando esses povoamentos estejam ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo;
 
-c) Arborização após realização de corte final;
+c) Beneficiação de povoamentos objecto de financiamento público para o mesmo fim há menos de cinco anos;
 
-d) A realizar em áreas florestais pertencentes ao património do Estado, de outras pessoas colectivas públicas ou de empresas públicas participadas pelo Estado em 50% ou mais.
+d) Arborização após realização de corte final;
+
+e) A realizar em áreas florestais pertencentes ao património do Estado, de outras pessoas colectivas públicas ou de empresas públicas participadas pelo Estado em, pelo menos, 50%, à excepção dos investimentos relativos a:
+
+i) Restabelecimento do potencial de produção silvícola afectado por desastres naturais e por incêndios;
+
+ii) Melhoramento significativo do valor ecológico e social das florestas.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 6.º — Beneficiários
 
@@ -148,7 +158,7 @@ b) Cooperativas que tenham por objecto a produção florestal;
 
 c) Órgãos de administração de baldios;
 
-d) Organismos da administração central nos termos da Lei dos Baldios;
+d) Organismos da administração central, quanto a projectos referentes a áreas sob a sua gestão, nos termos da Lei dos Baldios ou quando estejam em causa espaços ou superfícies florestais pertencentes às autarquias locais;
 
 e) Organismos da administração local;
 
@@ -156,11 +166,15 @@ f) Entidades gestoras de fundos imobiliários florestais;
 
 g) Empresas participadas pelo Estado em menos de 50%;
 
-h) Outras pessoas singulares ou colectivas de direito privado.
+h) Entidades gestoras de ZIF;
 
-2 - Quando se trate de acções de restabelecimento do potencial de produção silvícola afectado por desastres naturais e por incêndios, podem beneficiar das ajudas todas as pessoas singulares e colectivas de direito público ou privado.
+i) Outras pessoas singulares ou colectivas de direito privado.
+
+2 - Nas situações previstas nas subalíneas i) e ii) da alínea e) do artigo anterior, podem beneficiar das ajudas todas as pessoas singulares e colectivas, de direito público ou privado.
 
 3 - Apenas podem beneficiar de ajudas à arborização e rearborização, com espécies de crescimento rápido a explorar em rotações/revoluções inferiores a 20 anos, os beneficiários que sejam agricultores.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 7.º — Condições de acesso
 
@@ -168,79 +182,101 @@ h) Outras pessoas singulares ou colectivas de direito privado.
 
 a) Incidirem sobre uma área mínima de 0,50 ha;
 
-b) Serem elaborados por um técnico em ciências silvícolas de grau igual ou superior a bacharel, caso incidam sobre uma área superior a 20 ha;
+b) Caso incidam sobre uma área superior a 20 ha, serem elaborados e acompanhados por um técnico em ciências silvícolas de grau igual ou superior a bacharel, ou com experiência profissional reconhecida de acordo com procedimento aprovado pela Direcção-Geral dos Recursos Florestais;
 
-c) Terem início após a apresentação da candidatura, devendo esse facto ser previamente comunicado ao IFADAP.
+c) Quando se trate de arborização e rearborização, respeitarem as densidades mínimas definidas no anexo VI;
+
+d) Caso incidam sobre áreas inseridas numa ZIF, cumprirem o respectivo plano de gestão florestal e plano de defesa da floresta, a que se refere o artigo 22.º do Decreto-Lei n.º 127/2005, de 5 de Agosto, ou cumprirem o plano de gestão florestal aprovado pela Direcção-Geral dos Recursos Florestais, nos termos do n.º 2 do artigo 11.º do mesmo decreto-lei;
+
+e) Terem início após a apresentação da candidatura, devendo esse facto ser previamente comunicado ao IFADAP.
 
 2 - Quando se trate de arborização e rearborização com espécies de rápido crescimento a explorar em rotações/revoluções inferiores a 20 anos, previstas no n.º 3 do artigo anterior, as áreas máximas contínuas destas espécies são as que constam do anexo III.
 
-3 - Os projectos de uso múltiplo na área da actividade cinegética devem ainda observar as seguintes condições:
+3 - Os projectos de uso múltiplo na área da actividade cinegética devem, ainda, observar as seguintes condições:
 
 a) Os investimentos têm de incidir em áreas incluídas em zona de caça de interesse associativo ou municipal já constituídas;
 
 b) Ter sido aprovado pelos organismos competentes um plano de gestão ou de ordenamento cinegético para a área em causa.
 
-> Alterado pelo/a [Portaria n.º 161/2003](https://diariodarepublica.pt/dr/detalhe/portaria/161-2003-190589) e [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744) e [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024) e [Portaria n.º 609-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-2009-592170), publicado em 2009-06-05.
+4 - Em caso de calamidade declarada como tal nos termos da lei, podem ser admitidas excepcionalmente no âmbito da acção n.º 3.2 despesas realizadas anteriormente à entrega da candidatura desde que sejam passíveis de ser comprovadas no terreno e se trate de intervenções urgentes do ponto de vista florestal.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 8.º — Despesas elegíveis
 
-1 - As despesas elegíveis constam do anexo IV a este Regulamento.
+1 - As despesas elegíveis constam do anexo IV deste Regulamento.
 
-2 - Os valores máximos das despesas elegíveis são estabelecidos por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+2 - Os valores máximos das despesas elegíveis são estabelecidos por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 9.º — Forma e valores das ajudas
 
 1 - As ajudas previstas neste Regulamento são atribuídas sob a forma de incentivo não reembolsável nos seguintes casos e com os valores a seguir indicados:
 
-a) 30% das despesas elegíveis, quando se trate de arborização ou rearborização com espécies de rápido crescimento a explorar em rotações/revoluções inferiores a 20 anos;
+a) 30% das despesas elegíveis quando se trate de arborização ou rearborização com espécies de rápido crescimento ou da beneficiação de povoamentos dessas espécies, a explorar em rotações/revoluções inferiores a 20 anos;
 
-b) 50% das despesas elegíveis, quando se trate de substituição, por outras espécies, de povoamentos de espécies de rápido crescimento mal adaptadas ou cuja produção se encontre significativamente abaixo do seu potencial produtivo;
+b) 80% das despesas elegíveis quando se trate de substituição, por outras espécies, de povoamentos de espécies de rápido crescimento mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo;
 
-c) 40% ou 50% das despesas elegíveis em acções de uso múltiplo relativas à cinegética e silvo-pastorícia, consoante se trate, respectivamente, de investimentos em zonas não desfavorecidas ou desfavorecidas;
+c) 40% ou 50% das despesas elegíveis em acções de uso múltiplo relativas à cinegética e silvipastorícia, consoante se trate, respectivamente, de investimentos em zonas não desfavorecidas ou desfavorecidas;
 
-d) 100% das despesas elegíveis, quando se trate de projectos apresentados por organismos da administração central ou local ou por órgãos de administração de baldios;
+d) 100% das despesas elegíveis quando se trate de projectos apresentados por organismos da administração central ou local ou por órgãos de administração de baldios;
 
-e) 80%, nos restantes casos.
+e) 100% das despesas elegíveis quando se trate de projectos inseridos em ZIF e que respeitem o respectivo plano de gestão florestal e plano de defesa da floresta relativas a:
 
-2 - Os valores das ajudas previstos na alínea e) do número anterior são majorados nas seguintes situações e nos valores a seguir indicados:
+i) Investimentos de rearborização de espaços florestais e beneficiação de superfícies florestais percorridas por incêndios;
 
-a) Projectos relativos a áreas sujeitas ao regime florestal parcial: 20%;
+ii) Investimentos descritos na alínea e) do n.º 1 do artigo 4.º;
 
-b) Projectos apresentados, executados e com compromisso de gestão por parte de associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos: 15%;
+f) 80% nos restantes casos.
 
-c) Projectos apresentados, executados e com compromisso de gestão por parte de associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos e projectos incidentes em freguesias com alta susceptibilidade à desertificação ou que se insiram em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas especiais de conservação (ZEC) e zonas de protecção especial (ZPE), com planos de ordenamento aprovados: 10%;
+2 - Os valores das ajudas previstos na alínea f) do número anterior são majorados nas seguintes situações e nos valores a seguir indicados:
 
-d) Projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos: 5%.
+a) Projectos relativos a áreas sujeitas ao regime florestal parcial - 20%;
 
-e) Projectos apresentados por empresárias florestais respeitantes a actividades de uso múltiplo.
+b) Projectos apresentados, executados e com compromisso de gestão por parte de associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos - 15%;
 
-3 - As majorações referidas no número anterior não são cumuláveis.
+c) Projectos apresentados, executados e com compromisso de gestão por parte de associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos e projectos incidentes em freguesias com alta susceptibilidade à desertificação ou que se insiram em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas especiais de conservação (ZEC) e zonas de protecção especial (ZPE), com planos de ordenamento aprovados - 10%;
 
-4 - As ajudas aos investimentos de beneficiação de povoamentos de espécies de crescimento rápido são concedidas sob a forma de incentivo reembolsável no valor de 30% das despesas elegíveis.
+d) Projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos - 5%;
 
-5 - As ajudas à construção e beneficiação de infra-estruturas previstas na alínea d) do n.º 1 do artigo 4.º são concedidas segundo a forma e o nível aplicáveis aos investimentos a que se encontrem associados.
+e) Projectos apresentados por empresárias florestais respeitantes a actividades de uso múltiplo - 10%.
 
-6 - Com excepção das situações previstas no n.º 4, os beneficiários podem optar pela concessão da ajuda totalmente sob a forma de bonificação de juros.
+3 - As majorações referidas no número anterior não são cumuláveis entre si, com excepção da prevista na alínea e) e tendo como limite o valor das despesas elegíveis.
 
-7 - A bonificação de juros a que se refere o número anterior é concedida nos termos de linha de crédito a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+4 - As ajudas à construção e beneficiação das infra-estruturas previstas na alínea d) do n.º 1 do artigo 4.º são concedidas segundo a forma e o nível aplicáveis aos investimentos a que se encontrem associadas.
+
+5 - Os beneficiários podem optar pela concessão da ajuda sob a forma de bonificação de juros para a totalidade do investimento.
+
+6 - A bonificação de juros a que se refere o número anterior é concedida nos termos de linha de crédito a definir por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
 > Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.
 
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
+
 ###### Artigo 10.º — Limites das ajudas
 
-1 - Sem prejuízo do disposto no número seguinte, as ajudas previstas neste Regulamento incidem sobre um montante máximo de (euro) 450000 de investimento elegível por beneficiário, excepto no caso de áreas agrupadas, órgãos de administração de baldios, incluindo Administração Pública no quadro da Lei dos Baldios, órgãos da administração central e local e fundos imobiliários florestais, para os quais o investimento máximo elegível é de (euro) 1500000.
+1 - Sem prejuízo do disposto no número seguinte, as ajudas previstas neste Regulamento para a acção n.º 3.1 incidem sobre um montante máximo de (euro) 600000 de investimento elegível por beneficiário, excepto nos seguintes casos:
 
-2 - Quando os beneficiários optem pela concessão da ajuda, sob a forma de bonificação de juros, nos termos do n.º 6 do artigo anterior, o limite do investimento elegível é de (euro) 1000000 ou, no caso das áreas agrupadas e dos órgãos de administração dos baldios, incluindo órgãos da Administração Pública no quadro da Lei dos Baldios, órgãos da administração local e fundos imobiliários florestais, de (euro) 3000000.
+a) Áreas agrupadas, independentemente da forma de gestão, órgãos de administração de baldios e órgãos da administração local, para os quais o investimento máximo elegível é de (euro) 1500000;
 
-3 - Com excepção da situação a que se refere o número anterior, os beneficiários podem apresentar mais de um projecto de investimento para um mesmo espaço florestal até ao limite referido no n.º 1, não podendo o segundo ou projectos subsequentes ser aprovados sem que a fase de instalação do povoamento esteja concluída.
+b) Órgãos da Administração Pública, para os quais o investimento máximo elegível é de (euro) 7500000;
 
-4 - Sem prejuízo do disposto nos n.os 1 e 2, podem ser fixados outros limites de ajudas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+c) Sociedades gestoras de fundos de investimento florestais e entidades gestoras de ZIF, para as quais o investimento máximo elegível é de (euro) 10000000.
+
+2 - Quando os beneficiários optem pela concessão da ajuda sob a forma prevista no n.º 5 do artigo anterior, o limite do investimento elegível é de (euro) 1000000 ou, no caso das áreas agrupadas e dos órgãos de administração dos baldios, incluindo órgãos da Administração Pública, no quadro da Lei dos Baldios, órgãos da administração local, fundos imobiliários e entidades gestoras de ZIF, de (euro) 3000000.
+
+3 - Com excepção da situação a que se refere o número anterior, os beneficiários podem apresentar mais de um projecto de investimento para o mesmo espaço florestal até ao limite referido no n.º 1, não podendo o segundo ou projectos subsequentes ser aprovados sem que a fase de instalação do povoamento esteja concluída.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 11.º — Apresentação das candidaturas
 
 1 - As candidaturas são formalizadas através da apresentação junto do IFADAP do formulário próprio.
 
-2 - Os projectos de investimento que incidam em área igual ou inferior a 10 ha podem revestir a forma de projecto simplificado de investimento.
+2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento.
+
+> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.
 
 ###### Artigo 12.º — Análise das candidaturas
 
@@ -266,15 +302,17 @@ As propostas de decisão são submetidas a parecer da unidade de gestão.
 
 ###### Artigo 14.º — Decisão das candidaturas
 
-1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e de subdelegação dessa competência, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
 
-2 - As candidaturas são decididas no prazo máximo de 60 dias ou 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.
+2 - As candidaturas são decididas no prazo máximo de 60 ou de 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.
 
 3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.
 
-4 - Os projectos que reúnam as condições de aprovação são hierarquizados, tendo em conta os critérios e pontuações definidos no anexo V.
+4 - Os projectos que reúnam as condições de aprovação são hierarquizados tendo em conta os critérios e pontuações definidos no anexo V.
 
-5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 15.º — Contrato de atribuição das ajudas
 
@@ -288,23 +326,31 @@ Constituem, nomeadamente, obrigações dos beneficiários:
 
 a) Respeitar os objectivos do projecto;
 
-b) Manter as densidades mínimas definidas no anexo VI durante o período de estabelecimento do povoamento;
+b) Manter as densidades mínimas definidas no anexo VI, durante o período de estabelecimento do povoamento;
 
-c) Cumprir as boas práticas florestais previstas no anexo VII, sem prejuízo do cumprimento de outras obrigações de natureza ambiental impostas por lei;
+c) Cumprir as boas práticas florestais previstas no anexo VII, sem prejuízo do cumprimento de outras obrigações de natureza ambiental, de protecção da floresta contra incêndios ou prevista nos planos regionais de ordenamento florestal, impostas por lei;
 
-d) Cumprir o plano de gestão;
+d) Nos projectos de (re)arborização e beneficiação, cumprir o plano de gestão durante, pelo menos, 10 anos;
 
 e) Iniciar e concluir a execução do projecto nos prazos propostos;
 
-f) Em projectos de uso múltiplo com investimento na área da cinegética, cumprir o plano de gestão ou de ordenamento cinegético da área de intervenção;
+f) Em projectos de uso múltiplo com investimento na área da cinegética ou da pesca desportiva, manter a concessão ou a transferência de gestão durante, pelo menos, três anos;
 
-g) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos.
+g) Nos restantes projectos de uso múltiplo, manter a utilização dos investimentos financiados para os fins previstos no projecto durante cinco anos;
+
+h) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 17.º — Execução do projecto
 
-1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluído no prazo estabelecido naquele.
+1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluída no prazo estabelecido naquele.
 
-2 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no número anterior.
+2 - O início da execução do projecto deve ser comunicado ao IFADAP, através do envio do termo de abertura do livro de obra, com uma antecedência mínima de 15 dias.
+
+3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1.
+
+> Alterado pelo/a [Portaria n.º 590/2004](https://diariodarepublica.pt/dr/detalhe/portaria/590-2004-261879), publicado em 2004-06-02.
 
 ###### Artigo 18.º — Pagamentos
 
@@ -314,19 +360,23 @@ g) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 3 - (Revogado.)
 
-> Alterado pelo/a [Portaria n.º 161/2003](https://diariodarepublica.pt/dr/detalhe/portaria/161-2003-190589) e [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744) e [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024) e [Portaria n.º 609-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-2009-592170), publicado em 2009-06-05.
+> Alterado pelo/a [Portaria n.º 609-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-2009-592170), publicado em 2009-06-05.
 
 ###### Artigo 19.º — Avaliação da execução do projecto
 
-1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho de projecto e auto de avaliação do projecto.
+1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho do projecto e auto de avaliação do projecto.
 
-2 - A cartografia digital é objecto de validação no âmbito do auto de fecho.
+2 - A cartografia digital, quando exista, é objecto de validação no âmbito do auto de fecho.
+
+> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.
 
 ###### Artigo 20.º — Norma transitória
 
-1 - (Actual corpo do artigo.)
+1 - O disposto neste Regulamento aplica-se às candidaturas apresentadas ao abrigo da Portaria n.º 533-D/2000, de 1 de Agosto, mas ainda não decididas.
 
-2 - São elegíveis no âmbito deste regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.
+2 - São elegíveis no âmbito deste Regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.
+
+> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.
 
 > Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.
 

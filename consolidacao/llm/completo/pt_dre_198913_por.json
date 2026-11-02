@@ -1,0 +1,89 @@
+{
+  "id": "pt:dre:198913:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Incidência)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Isenções)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Determinação da matéria colectável)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Taxa)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Prazo de liquidação)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Anulação oficiosa de juros indevidos)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Reclamações e impugnações dos contribuintes)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Reparação de erros ou omissões prejudiciais à entidade credora)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Privilégio)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Arredondamento por excesso)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Impossibilidade de pagamento nos prazos normais de cobrança)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Resolução de dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 9
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 e 2 (DL 452/75, repetido): nova redação do n.º 1 do art. 5.º; superada pelas seguintes.",
+    "Alteradores 3 e 4 (DL 353-L/77, repetido): nova redação do n.º 1 do art. 5.º; superada.",
+    "Alteradores 5 e 6 (DL 429/78, repetido): nova redação do n.º 1 do art. 5.º; superada. Arts. 2.º e 3.º alteram outros códigos: ignorados.",
+    "Alteradores 7 e 8 (DL 318/80, repetido): nova redação do art. 5.º; superada pela revogação.",
+    "Alterador 9 (DL 73/99), art. 11.º: revoga o DL 49168 exceto o art. 4.º; arts. 1.º-3.º e 5.º-13.º ficam (Revogado.); art. 4.º inalterado. O resto do DL 73/99 é regime novo próprio, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

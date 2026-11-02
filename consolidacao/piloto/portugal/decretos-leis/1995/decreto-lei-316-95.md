@@ -168,47 +168,33 @@ Licenciamento do exercício de actividades
 
 ###### Artigo 2.º — Licença
 
-1 - É da competência do governador civil a atribuição da licença para o exercício da actividade de guarda-nocturno.
+(Revogado.)
 
-2 - A licença é intransmissível e tem validade anual.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 3.º — Pedido de licenciamento
 
-1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao governador civil e nele devem constar o nome e o domicílio do requerente.
+(Revogado.)
 
-2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por portaria do Ministro da Administração Interna.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 4.º — Indeferimento
 
-O pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 5.º — Deveres
 
-O guarda-nocturno deve:
+(Revogado.)
 
-a) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;
-
-b) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;
-
-c) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e protecção civil;
-
-d) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;
-
-e) Usar, em serviço, o uniforme e o distintivo próprios;
-
-f) Usar de urbanidade e aprumo no exercício das suas funções;
-
-g) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;
-
-h) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;
-
-i) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 ###### Artigo 6.º — Regime
 
-1 - O regime da actividade de guarda-nocturno é objecto de portaria do Ministro da Administração Interna.
+(Revogado.)
 
-2 - Fica a cargo dos governos civis a atribuição de um subsídio mensal de fardamento equivalente ao atribuído às forças de segurança.
+> Revogado pelo/a [Lei n.º 105/2015](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), publicado em 2015-08-25.
 
 #### SECÇÃO II — Vendedor ambulante de lotarias
 

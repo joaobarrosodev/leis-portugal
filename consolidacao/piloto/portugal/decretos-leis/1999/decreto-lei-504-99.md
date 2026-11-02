@@ -7,18 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:339393:por
-    title: Decreto-Lei n.º 174/2000
-    publication_date: '2000-08-09'
-  - id: pt:dre:276036:por
-    title: Decreto-Lei n.º 15/2002
-    publication_date: '2002-01-29'
-  - id: pt:dre:584865:por
-    title: Decreto-Lei n.º 181/2005
-    publication_date: '2005-11-03'
   - id: pt:dre:491436:por
     title: Decreto-Lei n.º 298/2009
     publication_date: '2009-10-14'
+  - id: pt:dre:584865:por
+    title: Decreto-Lei n.º 181/2005
+    publication_date: '2005-11-03'
+  - id: pt:dre:339393:por
+    title: Decreto-Lei n.º 174/2000
+    publication_date: '2000-08-09'
 ---
 
 # Decreto-Lei n.º 504/99
@@ -43,123 +40,77 @@ No desenvolvimento do regime jurídico estabelecido no [Decreto-Lei n.º 184/89]
 
 ###### Artigo 1.º — Âmbito e objecto
 
-1 - O presente diploma estabelece o regime remuneratório aplicável aos oficiais, sargentos e praças da Guarda Nacional Republicana e a estrutura das remunerações base dos postos que integram as respectivas carreiras.
+(Revogado.)
 
-2 - O disposto no presente diploma aplica-se também aos oficiais das Forças Armadas em serviço na Guarda Nacional Republicana, bem como aos aspirantes a oficial tirocinante e cadetes dos estabelecimentos militares de ensino superior e aos soldados provisórios, durante o curso de formação de praças.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 2.º — Direito à remuneração
 
-1 - A remuneração base é um abono mensal, divisível, devido aos militares da Guarda, na efectividade de serviço, salvo nas situações que dêem lugar a perda de vencimento, nos termos das disposições legais e estatutárias em vigor.
+(Revogado.)
 
-2 - O direito à remuneração reporta-se:
-
-a) A data do ingresso no primeiro posto do respectivo quadro;
-
-b) À data de ingresso nos estabelecimentos militares de ensino superior e nos estabelecimentos de ensino da Guarda Nacional Republicana.
-
-3 - A remuneração é paga em 14 mensalidades, uma das quais corresponde ao subsídio de Natal e outra ao subsidio de férias, nos termos da lei.
-
-4 - O direito à remuneração extingue-se com a verificação de qualquer das causas que legalmente determinam a cessação do vínculo à Guarda Nacional Republicana.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 3.º — Estrutura indiciária
 
-1 - Para efeitos do disposto no presente diploma consideram-se escalões as posições remuneratórias criadas no âmbito de cada posto.
+(Revogado.)
 
-2 - A remuneração base mensal correspondente a cada posto e escalão é determinada através de uma escala remuneratória, com um índice de referência igual a 100.
-
-3 - A fixação da remuneração base mensal correspondente ao índice 100 e a sua actualização anual realizam-se nos termos do artigo 4.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 4.º — Opção de remuneração
 
-Os militares da Guarda Nacional Republicana que, nos termos estatutários aplicáveis, passem a desempenhar cargos ou a exercer funções em comissão especial ou a desempenhar cargos militares fora do âmbito da Guarda Nacional Republicana podem, a todo o tempo, optar pela manutenção da remuneração a que teriam direito caso tal modificação não se tivesse verificado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 #### SECÇÃO II — Prestações familiares, alimentação e fardamento
 
 ###### Artigo 5.º — Prestações familiares e outras prestações sociais
 
-Os regimes das prestações familiares e de outras de natureza social, atribuídas no âmbito da acção social complementar, e do subsídio por morte constam da lei geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 6.º — Alimentação e fardamento
 
-Os militares da Guarda, quando na efectividade de serviço, têm direito a abonos de alimentação e fardamento, por conta do Estado, cujos regimes constam de legislação própria.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 #### SECÇÃO III — Suplementos
 
 ###### Artigo 7.º — Suplementos
 
-1 - Consideram-se suplementos os acréscimos remuneratório decorrentes das funções, militares e de segurança, da Guarda Nacional Republicana e da forma de prestação de serviço em que aquelas se materializam cujos fundamentos obedeçam ao estabelecido nos n.os 1 e 2 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.
+(Revogado.)
 
-2 - Nos termos da alínea a) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, e com fundamento no regime especial da prestação de serviço, designadamente no ónus e restrições específicas da função militar e de segurança, é atribuído aos oficiais, sargentos e praças um suplemento por serviço nas forças de segurança.
-
-3 - O suplemento por serviço nas forças de segurança é remunerado por inteiro a todos os militares da Guarda, após o ingresso nos quadros permanentes, nos termos previstos no número seguinte e composto da seguinte forma:
-
-a) Uma componente fixa, no valor de 5150$00, actualizável na mesma percentagem em que o sejam os vencimentos dos militares da Guarda Nacional Republicana;
-
-b) Uma componente variável fixada em 14,5% sobre a remuneração base mensal auferida por cada militar, com arredondamento para a centena de escudos imediatamente superior.
-
-4 - O suplemento referido no número anterior é abonado aos militares dos quadros permanentes da Guarda Nacional Republicana em efectividade de serviço.
-
-5 - O suplemento a que se refere o número anterior é abonado aos oficiais das Forças Armadas em serviço na Guarda Nacional Republicana, não sendo acumulável com qualquer suplemento atribuído em função da condição militar.
-
-6 - O suplemento por serviço nas forças de segurança é considerado para efeitos do cálculo dos subsídios de férias e de Natal.
-
-7 - Para efeitos de remuneração na reserva e pensões de reforma, o suplemento por serviço nas forças de segurança tem características de remuneração principal, nos termos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
-
-8 - Aos titulares dos cargos de comando, direcção ou chefia que, nos termos dos respectivos quadros orgânicos, sejam desempenhados por oficiais generais ou por oficiais superiores podem ser abonadas despesas de representação em montante a fixar por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e da Administração Interna.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 #### SECÇÃO IV — Descontos
 
 ###### Artigo 8.º — Descontos
 
-1 - Sobre as remunerações dos oficiais, sargentos e praças da Guarda Nacional Republicana incidem:
+(Revogado.)
 
-a) Descontos obrigatórios;
-
-b) Descontos facultativos.
-
-2 - São descontos obrigatórios os que resultam de imposição legal.
-
-3 - São descontos facultativos os que, sendo permitidos por lei, careçam de autorização expressa do titular do direito à remuneração.
-
-4 - Os descontos são efectuados, em regra, através de retenção na fonte.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 9.º — Descontos obrigatórios
 
-1 - São descontos obrigatórios os seguintes:
+(Revogado.)
 
-a) Imposto sobre o rendimento das pessoas singulares (IRS);
-
-b) Quotas para pensões de reforma e de sobrevivência;
-
-c) Descontos para os Serviços Sociais da Guarda Nacional Republicana;
-
-d) Penhoras e pensões resultantes de sentença judicial.
-
-2 - Os descontos obrigatórios para a Caixa Geral de Aposentações incidem igualmente sobre os subsídios de férias e de Natal.
-
-3 - O regime dos descontos obrigatórios consta de legislação própria.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 10.º — Descontos facultativos
 
-São descontos facultativos, designadamente, os seguintes:
+(Revogado.)
 
-a) Quotização para os cofres de previdência ou outras instituições afins;
-
-b) Prémios de seguro de vida, doença, acidentes pessoais, complementos de reforma e planos de poupança-reforma.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ### CAPÍTULO II — Remuneração do pessoal na situação de activo
 
 ###### Artigo 11.º — Estrutura remuneratória
 
-1 - A estrutura remuneratória dos militares do quadro permanente da Guarda Nacional Republicana consta do anexo I ao presente diploma, do qual faz parte integrante.
+(Revogado.)
 
-2 - A remuneração base mensal é determinada pelo índice correspondente ao posto e escalão em que o militar está posicionado.
-
-3 - O índice correspondente à remuneração base mensal do comandante-geral da Guarda Nacional Republicana é igual ao índice do último escalão do posto de tenente-general.
-
-4 - As remunerações dos aspirantes a oficial tirocinante, dos cadetes dos estabelecimentos militares de ensino superior e dos soldados provisórios constam do anexo II ao presente diploma, do qual faz parte integrante.
-
-5 - São atribuídos ao posto de furriel os escalões e os correspondentes índices do posto de cabo.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 12.º — Da promoção e da graduação
 
@@ -197,7 +148,7 @@ c) O diferencial previsto na alínea anterior manter-se-á nas progressões ou p
 
 d) A remuneração atribuída nos termos das alíneas anteriores não é considerada para efeitos do n.º 6 do presente artigo.
 
-> Alterado pelo/a [Decreto-Lei n.º 174/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2000-339393) e [Decreto-Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036) e [Decreto-Lei n.º 181/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2005-584865) e [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
+> Alterado pelo/a [Decreto-Lei n.º 181/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2005-584865), publicado em 2005-11-03.
 
 ###### Artigo 13.º — Progressão
 
@@ -211,11 +162,13 @@ b) Três anos, nos restantes.
 
 3 - Para efeitos de progressão, a contagem do tempo de serviço é suspensa quando existam razões fundamentadas nas normas estatutárias em vigor.
 
-4 - Aos militares graduados nos termos do n.º 7 do artigo 12.º aplica-se o disposto nos números anteriores, não sendo contado para efeitos de progressão o período de frequência dos cursos para ingresso nos quadros.
+4 - Aos militares graduados nos termos do n.º 3 do artigo 12.º aplica-se o disposto nos números anteriores.
 
-5 - O tempo da graduação a que se refere o n.º 6 do artigo 12.º não é levado em conta para efeitos de progressão no posto de graduação.
+5 - O tempo da graduação a que se refere o n.º 2 do artigo 12.º não é levado em conta para efeitos de progressão no posto de graduação.
 
 6 - O disposto nos n.os 1, 2 e 3 é aplicável aos militares na reserva que, nos termos estatutários e regulamentares, sejam chamados à efectividade de serviço, enquanto se mantiverem nesta situação.
+
+> Alterado pelo/a [Decreto-Lei n.º 174/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2000-339393), publicado em 2000-08-09.
 
 ###### Artigo 14.º — Formalidades para a progressão
 
@@ -231,87 +184,69 @@ b) Três anos, nos restantes.
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 174/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2000-339393) e [Decreto-Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036) e [Decreto-Lei n.º 181/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2005-584865) e [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 16.º — Contagem de tempo
 
-1 - Todo o tempo de serviço prestado na situação de reserva na efectividade de serviço será, no fim de cada ano, levado em conta para efeito de melhoria da remuneração, até ao limite de 36 anos.
+(Revogado.)
 
-2 - Não será contado, para efeitos de remuneração na reserva, o tempo em que o pessoal tiver permanecido nas situações de licença sem vencimento ou outras pelas quais não tenha direito, de acordo com o Estatuto dos Militares da Guarda, ao abono de remuneração base.
-
-3 - Nas situações em que, nos termos estatutários, não haja lugar a contagem de tempo de serviço, este não será, igualmente, levado em conta para os efeitos do número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 17.º — Actualização
 
-1 - As remunerações dos militares na situação de reserva abrangidos pelo previsto no n.º 2 do artigo 15.º são actualizadas, com dispensa de quaisquer formalidades, sempre que se verifiquem alterações das remunerações dos militares do mesmo posto e escalão do activo, em percentagem igual e com efeitos reportados à data da entrada em vigor das referidas alterações.
+(Revogado.)
 
-2 - As remunerações dos restantes militares na situação de reserva são actualizadas em igual proporção da actualização do índice 100 da escala indiciária com efeitos reportados à data de entrada em vigor desta actualização.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
 ###### Artigo 18.º — Regime de transição
 
-1 - Os militares abrangidos por este diploma devem ser posicionados no escalão que lhes competir em função do número de anos no posto, de acordo com as regras gerais do sistema retributivo, sem prejuízo de eventuais diferenciais.
+(Revogado.)
 
-2 - A transição para a nova estrutura indiciária faz-se sempre para o mesmo posto e escalão, de acordo com as seguintes regras:
-
-a) Para o escalão da nova estrutura a que corresponda o escalão equivalente da estrutura anterior;
-
-b) Para o novo escalão da nova estrutura, de índice imediatamente superior, se não existir correspondência directa ao escalão em que o militar se situa na estrutura anterior.
-
-3 - A transição a que se refere o número anterior produz os seguintes efeitos:
-
-a) Aos militares abrangidos pela alínea a) do n.º 2 será contado, para efeitos de progressão, todo o tempo que detenham no escalão da estrutura indiciária anterior;
-
-b) Aos restantes militares será contado o tempo de permanência que detenham no escalão da estrutura indiciária anterior.
-
-4 - Todos os militares que já tenham progredido para escalões eliminados na nova estrutura indiciária são posicionados no escalão mais próximo do mesmo posto, mantendo o direito ao abono de um diferencial correspondente ao excesso entre eles, o qual é absorvido e considerado nos termos previstos dos n.os 4 e 5 do artigo 12.º
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 19.º — Formalidades da transição
 
-1 - A integração dos oficiais, sargentos e praças nos escalões dos respectivos postos não depende de quaisquer formalidades.
+(Revogado.)
 
-2 - Pelos competentes serviços da Guarda Nacional Republicana serão publicadas listas de transição para a nova estrutura remuneratória, para conhecimento dos interessados.
-
-3 - Da integração cabe reclamação e recurso hierárquico nos termos estatutários em vigor, sem prejuízo de recurso contencioso nos termos gerais.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 20.º — Regime dos suplementos
 
-Os subsídios, suplementos, gratificações ou abonos anteriormente praticados mantêm-se nos seus regimes e são sujeitos a actualização, nos termos definidos na lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 21.º — Salvaguarda de direitos
 
-Da aplicação do presente diploma não pode resultar redução das remunerações actualmente auferidas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 22.º — Regime de actualização das ajudas de custo
 
-Por portaria conjunta dos Ministros da Administração Interna e das Finanças e do membro do Governo responsável pela Administração Pública, serão fixados os montantes das ajudas de custo por deslocação no território nacional ou em missão oficial ao estrangeiro, sujeitos ao princípio da actualização anual, de harmonia com os critérios adoptados pelo Governo para a generalidade da Administração Pública.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 23.º — Produção de efeitos
 
-1 - O suplemento por serviço nas forças de segurança previsto no artigo 7.º do presente diploma é aplicado a partir de 1 de Julho de 1999.
+(Revogado.)
 
-2 - Ao cálculo da remuneração base mensal concretizada em função das escalas indiciárias respectivas são aplicáveis os mapas e anexos do presente diploma, conforme a seguir se indica:
-
-a) A partir de 1 de Julho de 1999, os mapas A, constantes dos anexos I e II;
-
-b) A partir de 1 de Janeiro de 2000, os mapas B, constantes dos anexos I e II;
-
-c) A partir de 1 de Julho de 2000, os mapas C, constantes dos anexos I e II.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 24.º — Disposições finais e transitórias
 
-1 - O n.º 3) da alínea c) do artigo 266.º do Estatuto dos Militares da Guarda, aprovado pelo [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho, passa a ter a seguinte redacção:
+(Revogado.)
 
-«3) Estar a menos de 30 dias de passagem à situação de reserva, nos termos das alíneas a) e c) do n.º 1 do artigo 77.º do Estatuto dos Militares da Guarda, ter sido julgado incapaz pela Junta Superior de Saúde, por motivo de doença ou acidente resultante de serviço, após ter prestado 15 anos de serviço efectivo, ter falecido por motivo de doença ou acidente resultante do serviço.»
-
-2 - Transitoriamente, aos cargos de comandante de brigada e de comandante da Escola Prática, enquanto não forem exercidos por oficiais com o posto de major-general, será atribuído um complemento remuneratório, que será pago aos oficiais que desempenhem efectivamente aqueles cargos, de valor correspondente à diferença entre a remuneração base do escalão 1 do posto de major-general e a remuneração base respectiva.
-
-3 - O complemento referido no número anterior não é considerado para cálculo dos subsídios de férias e de Natal e influi no cálculo da pensão da reforma nos termos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação, estando sujeito aos descontos legais obrigatórios.
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ###### Artigo 25.º — Revogações
 
-São revogados o [Decreto-Lei n.º 59/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1990-334626), de 14 de Fevereiro, o [Decreto-Lei n.º 85/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1991-485446), de 23 de Fevereiro, o [Decreto-Lei n.º 299/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1991-674064), de 16 de Agosto, o [Decreto-Lei n.º 261/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1992-598154), de 24 de Novembro, e o n.º 3 do artigo 10.º do [Decreto-Lei n.º 265/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1993-345093), de 31 de Julho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
 

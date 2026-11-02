@@ -40,7 +40,9 @@ b) Nas colectas a liquidar segundo as taxas estabelecidas nas alíneas b), d) e 
 
 ###### Artigo 3.º
 
-Relativamente aos prédios urbanos cuja construção seja iniciada depois da publicação do presente decreto-lei, é elevado a 40 por cento o adicional a que se refere o artigo anterior se neles existirem habitações cuja renda ou valor locativo excedam 2500$00 mensais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 183-H/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-h-1980-324953), publicado em 1980-06-09.
 
 ###### Artigo 4.º
 

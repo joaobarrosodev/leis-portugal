@@ -1,0 +1,297 @@
+{
+  "id": "pt:dre:240823:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito e aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Ingresso em estabelecimento e curso superior",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições de candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Competência para a fixação de vagas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Comunicação das vagas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Organização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Provas específicas a realizar para o acesso a cada curso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Elenco das provas específicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Escolha das provas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Determinação das provas específicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Organização, realização e classificação das provas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Regras técnicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Princípios de organização, realização e classificação das provas específicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Colaboração das instituições de ensino básico e secundário",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Comunicação dos resultados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Não realização de provas e não comunicação dos resultados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Fixação dos pré-requisitos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Avaliação dos pré-requisitos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Organização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Concursos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Execução do processo de candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Declaração de intenção de candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Incompatibilidades",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Seriação dos candidatos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Correcção estatística",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Preferências regionais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Acessos preferenciais ao ensino superior politécnico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Seriação dos candidatos a cada par estabelecimento/curso do ensino superior",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Contingentes de vagas",
+      "texto": "1 - (Revogado.)\n\n2 - Existem contingentes especiais de vagas para:\n\na) Candidatos oriundos da Região Autónoma dos Açores;\n\nb) Candidatos oriundos da Região Autónoma da Madeira;\n\nc) Candidatos oriundos do território de Macau;\n\nd) Candidatos emigrantes portugueses e seus familiares com eles residentes;\n\ne) Candidatos que se encontrem a prestar o serviço militar efectivo nos regimes de voluntariado ou de contrato;\n\nf) Candidatos portadores de deficiência física ou sensorial.\n\n3 - (Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Colocação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Divulgação dos resultados da candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Matrícula e inscrição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Fases da candidatura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Regras",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Regimes especiais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Concursos especiais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Regras",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Comunicação e divulgação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Guias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Avaliação e revisão",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Aplicação temporal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Revogação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 53/95 (alterador 1): nova redação dos artigos 6.º, 32.º e 39.º (aditado n.º 3); ultrapassada pela revogação do alterador 3, por isso a redação final destes artigos é \"(Revogado.)\".",
+    "DL 318/95 (alterador 2), art. 1.º: nova redação do artigo 7.º (n.os 2 e 3); igualmente ultrapassada pela revogação do alterador 3. O art. 2.º é norma autónoma, não altera o texto.",
+    "DL 28-B/96 (alterador 3), art. 72.º: revoga o DL 189/92 com excepção do n.º 2 do artigo 34.º. Apliquei: artigos 1.º a 47.º com corpo \"(Revogado.)\" (os parágrafos finais de assinatura, presos ao 47.º, saem com ele); no 34.º os n.os 1 e 3 ficam \"(Revogado.)\" e o n.º 2 fica com o texto atual. O resto do DL 28-B/96 é regime novo e autónomo; o art. 68.º só remete para o 34.º, n.º 2, sem o alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

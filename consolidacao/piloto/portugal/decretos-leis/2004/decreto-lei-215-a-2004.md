@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:624975:por
-    title: Decreto-Lei n.º 17/2005
-    publication_date: '2005-01-18'
   - id: pt:dre:619766:por
     title: Decreto-Lei n.º 26/2005
     publication_date: '2005-02-02'
+  - id: pt:dre:624975:por
+    title: Decreto-Lei n.º 17/2005
+    publication_date: '2005-01-18'
 ---
 
 # Decreto-Lei n.º 215-A/2004
@@ -95,7 +95,7 @@ s) Ministro Adjunto do Primeiro-Ministro;
 
 t) (Revogada.)
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 3.º
 
@@ -129,7 +129,7 @@ b) Ministro da Presidência;
 
 c) Ministro Adjunto do Primeiro-Ministro;
 
-d) Ministro dos Assuntos Parlamentares.
+d) (Revogada.)
 
 2 - A Presidência do Conselho de Ministros compreende os seguintes secretários de Estado:
 
@@ -137,11 +137,15 @@ a) Secretário de Estado da Presidência do Conselho de Ministros;
 
 b) Secretário de Estado para os Assuntos do Mar;
 
-c) Secretário de Estado Adjunto do Ministro da Presidência;
+c) Secretário de Estado dos Assuntos Parlamentares;
 
-d) Secretário de Estado da Juventude;
+d) Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro;
 
-e) Secretário de Estado do Desporto.
+e) Secretário de Estado da Juventude;
+
+f) Secretário de Estado do Desporto e Reabilitação.
+
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 8.º
 
@@ -152,8 +156,6 @@ e) Secretário de Estado do Desporto.
 3 - Transita do extinto Ministério das Obras Públicas, Transportes e Habitação para a Presidência do Conselho de Ministros a Escola Náutica Infante D. Henrique.
 
 ###### Artigo 9.º
-
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 10.º
 
@@ -201,7 +203,7 @@ j) Observatório do Emprego e Formação Profissional.
 
 ###### Artigo 12.º
 
-1 - O Ministro de Estado e da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Presidência.
+1 - O Ministro de Estado e da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Parlamentares.
 
 2 - Sem prejuízo do disposto no n.º 4 do artigo 3.º, o Secretário de Estado da Presidência do Conselho de Ministros coadjuva ainda o Ministro de Estado e da Presidência no exercício das suas competências próprias e nas que lhe forem delegadas pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
@@ -210,6 +212,8 @@ j) Observatório do Emprego e Formação Profissional.
 4 - O Ministro das Finanças e da Administração Pública participa com o Ministro de Estado e da Presidência na definição dos domínios prioritários de actuação da unidade de missão Inovação e Conhecimento e do Gabinete de Gestão e Intervenção Operacional para a Sociedade de Informação, bem como no acompanhamento da sua execução.
 
 5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro de Estado e da Presidência as entidades do sector empresarial do Estado no domínio da comunicação social.
+
+> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975), publicado em 2005-01-18.
 
 ###### Artigo 13.º
 
@@ -407,7 +411,7 @@ f) Regiões de turismo.
 
 O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro, pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto e Reabilitação.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 28.º
 
@@ -447,13 +451,13 @@ q) O Instituto de Mercados e Obras Públicas e Particulares e do Imobiliário, c
 
 2 - A tutela sobre a Escola Náutica Infante D. Henrique é exercida pelo Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar e, em matéria de ensino, em conjunto pelos Ministros de Estado e da Defesa Nacional e dos Assuntos do Mar e da Ciência, Inovação e Ensino Superior, nos termos do [Decreto-Lei n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032), de 29 de Janeiro.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 29.º
 
 A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete aos Ministros de Estado e das Actividades Económicas e do Trabalho, de Estado e da Presidência e da Ciência, Inovação e Ensino Superior.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 30.º
 
@@ -463,7 +467,7 @@ A definição da orientação estratégica da Agência de Inovação - Inovaçã
 
 3 - Podem também participar nas reuniões do Conselho de Ministros, sem direito de voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ### CAPÍTULO II — Do Conselho de Ministros
 
@@ -487,7 +491,7 @@ d) Aprovar o relatório anual relativo à participação de Portugal na União;
 
 e) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 32.º
 
@@ -535,7 +539,7 @@ e) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do
 
 f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetidas pelo Primeiro-Ministro.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 33.º
 
@@ -555,7 +559,7 @@ f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 8 - O Ministro das Finanças e da Administração Pública providenciará a efectiva transferência ou reforço das verbas necessárias ao funcionamento dos novos gabinetes dos membros do Governo dos correspondentes gabinetes extintos ou integrados noutros departamentos.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
@@ -563,25 +567,25 @@ f) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro das Finanças e da Administração Pública.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 35.º
 
 O Gabinete do Secretário de Estado da Presidência do Conselho de Ministros é equiparado, para efeitos da legislação sobre gabinetes, a gabinete ministerial.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 36.º
 
 O Governo da República, através do competente membro, procede à audição dos órgãos de governo próprio das Regiões Autónomas.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 37.º
 
 Com a entrada em vigor do presente diploma é revogado o [Decreto-Lei n.º 120/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035), de 3 de Maio, com a redacção que lhe foi conferida pelas suas alterações.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 38.º
 
@@ -603,26 +607,12 @@ f) Instituto de Gestão do Fundo Social Europeu.
 
 3 - Até à data da entrada em vigor do [Decreto-Lei n.º 171/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2004-527834), de 17 de Julho, transitam do extinto Ministério da Segurança Social e do Trabalho para a Presidência do Conselho de Ministros o Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência e o Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 39.º
 
 Até à entrada em vigor dos decretos-leis que aprovem as orgânicas dos ministérios criados pelo presente diploma, os respectivos ministros poderão, estando em causa atribuições cuja prossecução seja da sua responsabilidade, exercer poderes de direcção, superintendência ou tutela sobre serviços e organismos integrados noutros ministérios e aos quais estejam actualmente cometidas essas atribuições.
 
-> Alterado pelo/a [Decreto-Lei n.º 17/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975) e [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
+> Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
-###### Artigo 40.º
-
-Até à entrada em vigor dos decretos-leis que aprovem as orgânicas dos ministérios criados pelo presente diploma, os respectivos ministros poderão, estando em causa atribuições cuja prossecução seja da sua responsabilidade, exercer poderes de direcção, superintendência ou tutela sobre serviços e organismos integrados noutros ministérios e aos quais estejam actualmente cometidas essas atribuições.
-
-Visto e aprovado em Conselho de Ministros de 30 de Julho de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro de Estado e das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar, Paulo Sacadura Cabral Portas. - O Ministro de Estado e da Presidência, Nuno Albuquerque Morais Sarmento. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro. - O Ministro da Administração Interna, Daniel Viegas Sanches. - O Ministro da Justiça, José Pedro Correia de Aguiar Branco. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão. - O Ministro das Obras Públicas, Transportes e Comunicações, António Luís Guerra Nunes Mexia. - A Ministra da Cultura, Maria João Espírito Santo Bustorff Silva. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia. - O Ministro Adjunto do Primeiro-Ministro, Henrique José Monteiro Chaves. - O Ministro dos Assuntos Parlamentares, Rui Manuel Lobo Gomes da Silva.
-
-Promulgado em 30 de Agosto de 2004.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 31 de Agosto de 2004.
-
-O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.

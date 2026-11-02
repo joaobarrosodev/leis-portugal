@@ -153,9 +153,9 @@ Múltiplos de 500 g - ao preço correspondente a 13$20 por quilograma.
 
 ###### Artigo 14.º
 
-1 - O pão de mistura é fabricado com farinhas espoadas de 1.ª qualidade, de centeio e de milho, ou apenas duas destas.
+No pão de mistura de farinha de trigo, centeio e milho, ou apenas de 2 destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.
 
-2 - Nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.
+> Alterado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010), publicado em 1982-05-29.
 
 ###### Artigo 15.º
 
@@ -285,7 +285,7 @@ Sempre que os despachos emitidos ao abrigo do presente diploma impliquem encargo
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 213/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1982-392010) e [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17.
+> Revogado pelo/a [Decreto-Lei n.º 415-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-a-1986-352316), publicado em 1986-12-17.
 
 ###### Artigo 29.º
 

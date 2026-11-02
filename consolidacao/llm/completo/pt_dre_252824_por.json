@@ -1,0 +1,90 @@
+{
+  "id": "pt:dre:252824:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Conceito de desalojado)",
+      "texto": "1. São considerados desalojados:\n\na) Os portugueses vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976, que, numa delas, tivessem residêncial habitual;\n\nb) Os portugueses que satisfaçam os requisitos do número anterior e tenham vindo, ou venham, para Portugal até 31 de Julho de 1977, desde que tenham sido forçados a abandonar o território por motivos independentes e estranhos à sua vontade;\n\nc) Os portugueses que, em 1 de Setembro de 1974, tivessem residência habitual numa das ex-colónias, mas que, por virtude de doença ou férias, se encontrassem em Portugal a partir de data não anterior a 1 de Março do mesmo ano;\n\nd) Os portugueses vindos das ex-colónias antes de 1 de Setembro de 1974 que tenham mais de 50 anos de idade e vinte de residência em qualquer delas, que, àquela data, viviam exclusivamente dos rendimentos de bens que lá possuíam e se encontrem agora em situação de carência, nos termos do artigo 3.º\n\n2. A prova da condição de desalojado será apreciada casuisticamente pelo Alto-Comissário.\n\n3. O disposto no número anterior não se aplica aos funcionários e agentes do Estado ou demais entidades públicas, nem aos cooperantes, quer sejam ou não funcionários.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Direito a apoio por parte do Estado)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Situação de carência)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Âmbito quanto às prestações específicas)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Alojamento individual)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Alojamentos colectivos)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Orientações gerais)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Ajuda à integração profissional)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Protecção complementar na saúde)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Normas regulamentares)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Interpretação e integração)",
+      "texto": "1. (Revogado.)\n\n2. (Revogado.)\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Revisão)",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 73/77, artigo único: nova redação dos artigos 1.º (n.ºs 1 e 2 novos, n.º 3 '...' mantém o atual) e 2.º (n.ºs 1-3 '...', n.º 4 aditado); aplicado ao 1.º; o 2.º fica revogado pelo alterador 2.",
+    "DL 401/78, art. 8.º: revoga o DL 209/77 salvo o artigo 1.º (redação da Lei 73/77) e o n.º 3 do artigo 11.º; revogados os artigos 2.º a 10.º e 12.º e os n.ºs 1 e 2 do 11.º.",
+    "Restantes artigos do DL 401/78 não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "11.º: parágrafo que não está no alterador nem no original: 1. (Revogado.)",
+    "11.º: parágrafo que não está no alterador nem no original: 2. (Revogado.)"
+  ]
+}

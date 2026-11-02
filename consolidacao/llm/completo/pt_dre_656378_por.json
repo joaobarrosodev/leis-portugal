@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:656378:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "No pão de mistura de farinha de trigo, centeio e milho, ou apenas de 2 destas, nenhuma das farinhas incorporadas poderá participar em proporção inferior a 20%.",
+      "alterador": 1
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Despacho Normativo n.º 103/83 (alterador 2): esclarecimento interpretativo (farinhas para usos culinários excluídas do âmbito do decreto-lei), sem alteração textual de nenhum artigo.",
+  "instrucoes": [
+    "Alterador 1 (DL 213/82), art. 1.º: nova redação do art. 14.º (corpo único, sem números) — aplicado.",
+    "Alterador 2 (Despacho Normativo 103/83): interpretação, não textual — não aplicado.",
+    "Alterador 3 (DL 415-A/86), art. 8.º, n.º 2: revoga o art. 28.º — aplicado como (Revogado.); n.º 1 revoga outro diploma — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

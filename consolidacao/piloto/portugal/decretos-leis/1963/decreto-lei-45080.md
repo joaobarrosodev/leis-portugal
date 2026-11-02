@@ -10,18 +10,15 @@ consolidacao:
   - id: pt:dre:573958:por
     title: Decreto-Lei n.º 169-C/75
     publication_date: '1975-03-31'
-  - id: pt:dre:430776:por
-    title: Decreto-Lei n.º 612/76
-    publication_date: '1976-07-26'
   - id: pt:dre:682057:por
     title: Decreto-Lei n.º 67/80
     publication_date: '1980-04-09'
-  - id: pt:dre:451840:por
-    title: Decreto-Lei n.º 240/83
-    publication_date: '1983-06-09'
   - id: pt:dre:385977:por
     title: Decreto-Lei n.º 233/84
     publication_date: '1984-07-12'
+  - id: pt:dre:451840:por
+    title: Decreto-Lei n.º 240/83
+    publication_date: '1983-06-09'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -98,7 +95,7 @@ i) As pensões do pessoal aposentado ou reformado;
 
 j) As remunerações isentas por lei especial.
 
-> Alterado pelo/a [Decreto-Lei n.º 169-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-c-1975-573958) e [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776) e [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057) e [Decreto-Lei n.º 240/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1983-451840) e [Decreto-Lei n.º 233/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1984-385977), publicado em 1984-07-12.
+> Alterado pelo/a [Decreto-Lei n.º 169-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-c-1975-573958), publicado em 1975-03-31.
 
 ###### Artigo 5.º
 
@@ -130,53 +127,63 @@ l) As remunerações isentas por lei especial.
 
 § 2.º As dúvidas relativas à classificação dos trabalhadores serão esclarecidas pelo Ministério das Corporações e Previdência Social.
 
-> Alterado pelo/a [Decreto-Lei n.º 169-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-c-1975-573958) e [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776) e [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057) e [Decreto-Lei n.º 240/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1983-451840) e [Decreto-Lei n.º 233/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1984-385977), publicado em 1984-07-12.
+> Alterado pelo/a [Decreto-Lei n.º 169-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-c-1975-573958), publicado em 1975-03-31.
 
 ###### Artigo 6.º
 
 É da exclusiva responsabilidade das entidades pagadoras de remunerações passíveis de imposto para o Fundo de Desemprego a liquidação, a cobrança e o posterior pagamento das quotizações impostas nos termos dos artigos 1.º e 2.º do presente decreto-lei. A quotização a que se refere o artigo 2.º deverá ser descontada no acto do pagamento das respectivas remunerações e depositada pela entidade pagadora, juntamente com a quotização a que se refere o artigo 1.º, nos termos do artigo 7.º
 
-§ único. As entidades responsáveis pela liquidação e cobrança das quotizações nos termos deste artigo que não tenham efectuado o pagamento para o Fundo de Desemprego das importâncias das quotizações obrigatòriamente impostas nos termos do presente decreto-lei ou que tenham pago importância inferior à efectivamente devida incorrerão numa multa igual a duas vezes o valor das quotizações em dívida, mas nunca inferior a 200$00, multa que será elevada ao dobro em caso de reincidência.
+§ único. As entidades responsáveis pela liquidação e cobrança das quotizações que não tenham efectuado o pagamento para o Fundo de Desemprego das importâncias das quotizações obrigatoriamente impostas nos termos do presente decreto-lei ou que tenham pago importância inferior à efectivamente devida incorrerão numa multa igual a duas vezes o valor das quotizações em dívida, mas nunca inferior a 400$00, multa que será elevada ao dobro em caso de reincidência.
+
+> Alterado pelo/a [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057), publicado em 1980-04-09.
 
 ###### Artigo 7.º
 
-A liquidação e a cobrança das quotizações para o Fundo de Desemprego devem ser efectuadas mensalmente, e o seu pagamento será também feito mensalmente e pela forma seguinte:
+A liquidação das quotizações para o Fundo de Desemprego e a dedução dos respectivos montantes nas remunerações dos trabalhadores serão efectuadas mensalmente, devendo o seu pagamento ser feito em dinheiro, em vales de correio ou com cheque, mediante guia de modelo único, exclusivo da Imprensa Nacional-Casa da Moeda, aprovado em anexo ao [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776), de 26 de Julho, nos prazos seguintes:
 
-a) Até à importância de 500$00, por meio de estampilhas fiscais com a sobrecarga «Desemprego», apostas num dos exemplares da guia conforme modelo A anexo a este decreto-lei e devidamente inutilizadas pela entidade responsável com rubrica ou carimbo e data;
+a) Durante o mês de Janeiro, as importâncias correspondentes ao mês de Dezembro do ano anterior;
 
-b) Além de 500$00, em dinheiro, mediante guias conforme modelo B anexo a este decreto-lei devidamente assinadas e datadas.
+b) Durante os meses de Abril, Julho e Outubro, as importâncias correspondentes ao trimestre imediatamente anterior;
 
-§ 1.º Transitòriamente, até à sua extinção, poderão ser utilizados os modelos de guia aprovados pelo [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), actualmente em uso.
+c) Durante o mês de Dezembro, as importâncias correspondentes aos meses de Outubro e Novembro do próprio ano.
 
-§ 2.º As guias modelo A serão processadas em duplicado pelas respectivas entidades responsáveis, tendo uma delas coladas as estampilhas fiscais com a sobrecarga «Desemprego», e serão entregues na secção de finanças do concelho ou bairro competente, que devolverá aos interessados o exemplar não selado depois de nele apor o competente recibo e inutilizará as estampilhas coladas no original por meio de máquina perfuradora.
+§ 1.º As guias de pagamento serão processadas em triplicado pelas respectivas entidades responsáveis, ficando o original na repartição de finanças competente, que o remeterá no mês seguinte ao Gabinete de Gestão do Fundo de Desemprego, o duplicado na posse da tesouraria da Fazenda Pública do concelho ou bairro onde se efectuar o pagamento e sendo o terceiro devolvido aos interessados.
 
-§ 3.º As guias do modelo B serão processadas em triplicado pelas respectivas entidades responsáveis, ficando um dos exemplares na tesouraria da Fazenda Pública do concelho ou bairro onde se efectuar o pagamento, outro na competente secção de finanças e o terceiro será devolvido aos interessados.
+§ 2.º Com exclusão das empresas concessionárias de serviço público, que poderão efectuar o pagamento das quotizações em conjunto no concelho ou bairro da sua sede, as empresas que possuam estabelecimentos em concelhos ou bairros diferentes deverão efectuar o pagamento das quotizações relativas a cada um deles na repartição de finanças ou tesouraria da Fazenda Pública respectiva. Podem, no entanto, estas empresas efectuar o pagamento no concelho ou bairro da sua sede, desde que discriminem no verso das guias, com referência a cada concelho ou bairro, as respectivas quotizações e o número de empregados e operários a que dizem respeito.
 
-§ 4.º Com exclusão das empresas concessionárias de serviços públicos, que poderão efectuar o pagamento das quotizações em conjunto no concelho ou bairro da sua sede, as empresas possuindo estabelecimentos em concelhos ou bairros diferentes deverão efectuar o pagamento das quotizações relativas a cada um deles na secção de finanças ou tesouraria da Fazenda Pública respectiva. Podem, no entanto, estas empresas efectuar o pagamento no concelho ou bairro da sua sede, desde que discriminem no verso das guias, com referência a cada concelho ou bairro, as respectivas quotizações e o número de empregados e operários a que dizem respeito.
+§ 3.º O pagamento das quotizações para o Fundo de Desemprego em contravenção do que fica estabelecido faz incorrer os responsáveis na multa de 500$00 a 5000$00, a fixar pelo director do Gabinete de Gestão do Fundo de Desemprego, segundo a importância das respectivas quotizações, elevada ao dobro no caso de reincidência.
 
-§ 5.º A entrega das guias de pagamento das quotizações consignadas ao Fundo de Desemprego será feita até ao dia 10 do mês seguinte àquele a que respeitem.
+§ 4.º O pagamento da multa a que se refere o parágrafo anterior poderá ser efectuado voluntariamente, na repartição de finanças competente, no prazo de 10 dias a contar da recepção do aviso a enviar pelos serviços do Gabinete de Gestão do Fundo de Desemprego.
 
-§ 6.º O pagamento das quotizações para o Fundo de Desemprego por forma diferente do que fica estabelecido faz incorrer os responsáveis na multa de 200$00 a 1000$00, segundo a importância das respectivas quotizações, elevada ao dobro em caso de reincidência.
+> Alterado pelo/a [Decreto-Lei n.º 233/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1984-385977), publicado em 1984-07-12.
 
 ###### Artigo 8.º
 
-As importâncias em dinheiro arrecadadas nas tesourarias da Fazenda Pública por meio de guia modelo B, bem como as resultantes do produto da venda das estampilhas fiscais com a sobrecarga «Desemprego» e do adicional à contribuição predial a que se refere o artigo 3.º, serão escrituradas como «Operações de tesouraria» e transferidas mensalmente para a Caixa Geral de Depósitos, Crédito e Previdência, à ordem do Comissariado do Desemprego.
+1 - As direcções de finanças providenciarão para que as receitas administradas pelo Gabinete de Gestão do Fundo de Desemprego dêem entrada nos cofres do Estado em «Contas de ordem», a favor daquele Gabinete, processadas nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
-§ único. As estampilhas fiscais com a sobrecarga «Desemprego» são fornecidas pela Casa da Moeda às tesourarias da Fazenda Pública e pela sua venda ou revenda não serão abonadas quaisquer percentagens aos tesoureiros da Fazenda Pública nem aos revendedores de valores selados.
+2 - Mensalmente, as direcções de finanças comunicarão ao Gabinete de Gestão do Fundo de Desemprego e à 13.ª Delegação da Direcção-Geral da Contabilidade Pública o total cobrado em cada mês no respectivo distrito.
+
+3 - O regime estabelecido neste artigo entra em vigor no dia 1 do mês seguinte àquele em que o presente diploma for publicado.
+
+> Alterado pelo/a [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057), publicado em 1980-04-09.
 
 ###### Artigo 9.º
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 169-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-c-1975-573958) e [Decreto-Lei n.º 612/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/612-1976-430776) e [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057) e [Decreto-Lei n.º 240/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1983-451840) e [Decreto-Lei n.º 233/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1984-385977), publicado em 1984-07-12.
+> Revogado pelo/a [Decreto-Lei n.º 67/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1980-682057), publicado em 1980-04-09.
 
 ###### Artigo 10.º
 
-Para efeitos da fiscalização da liquidação, cobrança e pagamento das quotizações destinadas ao Fundo de Desemprego, os administradores, directores, gerentes, chefes de serviço ou encarregados da contabilidade de qualquer entidade pagadora de remunerações são obrigados a facultar ao Comissariado do Desemprego, ou seus agentes munidos de credencial bastante, os elementos de escrituração comercial indispensáveis àquela fiscalização.
+Para efeitos de fiscalização da liquidação, cobrança e pagamento das quotizações destinadas ao Fundo de Desemprego, os administradores, directores, gerentes, chefes de serviço ou encarregados de contabilidade de qualquer entidade, pública ou privada, pagadora de remunerações são obrigados a facultar ao Gabinete de Gestão do Fundo de Desemprego ou aos seus agentes fiscalizadores os elementos de escrituração comercial e todos os documentos com ela relacionados indispensáveis àquela fiscalização.
 
-§ 1.º Independentemente do disposto no corpo deste artigo, todas as repartições ou estabelecimentos do Estado e dos corpos administrativos deverão facultar ao Comissariado do Desemprego os elementos que por este lhes forem solicitados para efeito da fiscalização ali referida.
+§ 1.º Se, por motivo de ausência ou impedimento do contribuinte, não forem facultados os elementos de escrituração comercial e todos os documentos com ela relacionados, os agentes fiscalizadores notificá-lo-ão, na pessoa do seu representante ou na de qualquer empregado ou familiar, no dia e hora em que deve assegurar a efectivação da diligência, a qual, porém, se considera como tendo sido iniciada na data da notificação acima aludida.
 
-§ 2.º Todos aqueles que se recusem ou por qualquer forma se eximam ao cumprimento da obrigação imposta no corpo deste artigo incorrem na multa de 500$00 a 5000$00, a fixar pelo comissário do Desemprego. No caso de reincidência, os infractores incorrerão, além da multa em dobro, na pena de crime de desobediência do artigo 188.º do Código Penal. A falsidade das declarações será punida nos termos da lei penal.
+§ 2.º Todos os serviços da administração directa e indirecta do Estado e da administração autónoma deverão facultar ao Gabinete de Gestão do Fundo de Desemprego e aos seus agentes fiscalizadores os elementos que por estes lhes forem solicitados, em ordem a um mais completo e correcto resultado da fiscalização referida no corpo deste artigo.
+
+§ 3.º Todos aqueles que se recusem ou por qualquer forma se eximam ao cumprimento da obrigação imposta no corpo deste artigo incorrem na multa de 2000$00 a 50000$00, a fixar pelo director do Gabinete de Gestão do Fundo de Desemprego.
+
+> Alterado pelo/a [Decreto-Lei n.º 240/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1983-451840), publicado em 1983-06-09.
 
 ###### Artigo 11.º
 
@@ -186,11 +193,13 @@ Quando não for possível determinar o valor das importâncias sobre que devem i
 
 ###### Artigo 12.º
 
-Quando os agentes do Comissariado do Desemprego verificarem alguma infracção ao disposto no § 2.º do artigo 10.º, elaborarão relatório circunstanciado onde identificarão o infractor pelo nome, estado, profissão, residência e naturalidade, o qual será submetido à apreciação e despacho do comissário, que promoverá as diligências convenientes para inteiro esclarecimento da ocorrência e definição das responsabilidades do seu autor.
+Quando os agentes fiscalizadores do Gabinete de Gestão do Fundo de Desemprego verificarem alguma infracção ao disposto no artigo 10.º, levantarão de imediato o competente auto de transgressão, onde o infractor deverá ser identificado pelo nome, estado, profissão, residência e naturalidade.
 
-§ 1.º Quando se trate de contravenções previstas no corpo deste artigo e a que corresponda sòmente pena de multa, o comissário mandará levantar auto de transgressão, fixando a multa correspondente, o qual será remetido ao tribunal judicial competente depois de ter aguardado na secção de finanças respectiva, durante o prazo de dez dias, o pagamento voluntário da multa.
+§ 1.º Quando se trate de contravenções previstas no artigo 10.º, o director do Gabinete de Gestão do Fundo de Desemprego fixará a multa correspondente de harmonia com a gravidade da falta, a importância das quotizações a pagar e as demais circunstâncias do caso.
 
-§ 2.º No caso de à infracção corresponder outra pena além da multa, o comissário mandará remeter directamente ao tribunal judicial competente a respectiva participação, acompanhada dos elementos probatórios de que dispuser.
+§ 2.º O auto de transgressão será remetido ao tribunal judicial competente depois de ter aguardado na repartição de finanças respectiva, durante o prazo de 10 dias, o pagamento voluntário da multa.
+
+> Alterado pelo/a [Decreto-Lei n.º 240/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1983-451840), publicado em 1983-06-09.
 
 ###### Artigo 13.º
 

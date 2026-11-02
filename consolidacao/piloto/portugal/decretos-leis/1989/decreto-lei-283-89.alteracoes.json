@@ -32,13 +32,55 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 1.º — Natureza\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, criado pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, é um instituto público dotado de personalidade jurídica, com autonomia administrativa, financeira e património próprio, e exerce a sua acção na tutela do Ministro das Obras Públicas, Transportes e Comunicações.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n3 - O Instituto passará a deter apenas autonomia administrativa, cessando o regime de autonomia financeira, se, decorrido período de três anos após a data de entrada em vigor do presente diploma, deixar de dispor de receitas próprias suficientes para cobrirem, pelo menos, dois terços das respectivas despesas.",
-    "depois": "###### Artigo 1.º — Natureza e tutela\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780) e [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16.",
+    "depois": "###### Artigo 1.º — Natureza e tutela\n\n1 - O Instituto das Comunicações de Portugal, abreviadamente designado por ICP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio, e fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n2 - O ICP tem por finalidade o apoio ao Governo na coordenação, tutela e planeamento do sector das comunicações de uso público, bem como a representação desse sector e a gestão do espectro radioeléctrico.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:618499:por",
-    "alterador": "pt:dre:175780:por;pt:dre:66761449:por"
+    "alterador": "pt:dre:175780:por;pt:dre:565255:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Regime\n\n1 - A gestão do ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico das empresas públicas.\n\n2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.",
+    "depois": "###### Artigo 2.º — Regime\n\n1 - O ICP rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - Os actos e contratos do ICP não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação do relatório e contas de gerência para efeitos de julgamento.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618499:por",
+    "alterador": "pt:dre:175780:por;pt:dre:565255:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º — Normas aplicáveis\n\nA gestão patrimonial e financeira do ICP, incluindo a organização da sua contabilidade, rege-se pelas normas aplicáveis às empresas públicas.",
+    "depois": "###### Artigo 20.º — Gestão patrimonial e financeira\n\n1 - A gestão patrimonial e financeira do ICP rege-se pelo disposto no presente diploma e, subsidiariamente, pelo regime jurídico aplicável às entidades que revistam natureza, forma e designação de empresa pública.\n\n2 - O orçamento do ICP deve constar do Orçamento de Estado, sendo para tal efeito elaborado de acordo com o regime da contabilidade pública.\n\n3 - A contabilidade do ICP é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1998-175780), publicado em 1998-04-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618499:por",
+    "alterador": "pt:dre:175780:por;pt:dre:565255:por"
+  },
+  {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Estatuto do pessoal\n\n1 - O pessoal do ICP está sujeito ao Regime Jurídico do Contrato Individual de Trabalho, constando de regulamento interno, aprovado pelos Ministros da tutela das comunicações e das Finanças, a definição das suas condições de trabalho, com observância das normas imperativas daquele Regime.\n\n2 - Os trabalhadores do ICP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados aos agentes de autoridade e têm as seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, todos os indivíduos que infrinjam os regulamentos cuja observância devem fazer respeitar;\n\nb) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.",
+    "depois": "###### Artigo 24.º — Estatuto do pessoal\n\n1 - O pessoal do ICP está sujeito ao Regime Jurídico do Contrato Individual de Trabalho, constando de regulamento interno, aprovado pelos Ministros da tutela das comunicações e das Finanças, a definição das suas condições de trabalho, com observância das normas imperativas daquele Regime.\n\n2 - Os trabalhadores do ICP que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados aos agentes de autoridade e têm as seguintes prerrogativas:\n\na) Podem identificar, para posterior actuação, todos os indivíduos que infrinjam os regulamentos cuja observância devem fazer respeitar;\n\nb) Podem reclamar o auxílio das autoridades administrativas e judiciais, quando o julguem necessário ao desempenho das suas funções;\n\nc) Podem usar armas para defesa própria, dos objectos de serviço e das instalações e valores à sua guarda, quando devidamente autorizados.\n\n3 - Aos trabalhadores do ICP que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão serão objecto de portaria do membro do Governo com competências na área das comunicações.\n\n> Alterado pelo/a [Decreto-Lei n.º 379/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1990-565255), publicado em 1990-12-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618499:por",
+    "alterador": "pt:dre:175780:por;pt:dre:565255:por"
   }
 ]

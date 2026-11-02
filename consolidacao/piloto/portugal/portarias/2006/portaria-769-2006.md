@@ -144,7 +144,7 @@ Artigo 2.º
 
 Norma revogatória
 
-São revogados o n.º 2 do artigo 13.º e o n.º 2 do artigo 20.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, e o n.º 6.º da Portaria n.º 1142/2004, de 13 de Setembro.
+São revogados o n.º 2 do artigo 13.º e o n.º 2 do artigo 20.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro.
 
 Artigo 3.º
 
@@ -522,8 +522,4 @@ Classes de malhagens, espécies alvo e percentagens de captura exigidas
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/15100/56215628.pdf)
 
-###### Artigo 2.º — Norma revogatória
-
-São revogados o n.º 2 do artigo 13.º e o n.º 2 do artigo 20.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro.
-
-> Aditado pelo/a [Portaria n.º 1067/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1067-2006-541607), publicado em 2006-09-28.
+> Alterado pelo/a [Portaria n.º 1067/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1067-2006-541607), publicado em 2006-09-28.

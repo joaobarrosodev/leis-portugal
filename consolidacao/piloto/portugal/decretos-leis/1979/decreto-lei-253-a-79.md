@@ -53,7 +53,7 @@ d) As gratificações previstas no § único do artigo 1.º do [Decreto-Lei n.º
 
 e) As gratificações previstas no § único do artigo 8.º do [Decreto-Lei n.º 41279](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41279-1957-254657), de 20 de Setembro de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 455/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1970-147978), de 2 de Outubro;
 
-f) As gratificações previstas no n.º 2 do artigo 12.º do regulamento aprovado pelo Decreto-Lei n.º 135/71, de 9 de Abril;
+f) As gratificações previstas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 36/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1976-506034), de 19 de Janeiro.
 
 g) As gratificações a que se refere o artigo 15.º do [Decreto-Lei n.º 40950](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40950-1956-293547), de 28 de Dezembro de 1956;
 
@@ -62,6 +62,8 @@ h) As gratificações a que se refere o artigo 8.º do [Decreto-Lei n.º 42792](
 i) Os subsídios a que se refere a alínea a) do n.º 2 da [Portaria n.º 252/76](https://diariodarepublica.pt/dr/detalhe/portaria/252-1976-502213), de 29 de Março;
 
 j) Os subsídios a que se referem as alíneas a) e b) do artigo 4.º do [Decreto-Lei n.º 577-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-a-1975-451630), de 8 de Outubro.
+
+> Alterado pelo/a [Decreto-Lei n.º 8/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1980-692831), publicado em 1980-02-11.
 
 ###### Artigo 3.º
 
@@ -117,13 +119,13 @@ C) Gratificação de serviço pára-quedista
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 8/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1980-692831) e [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
+> Revogado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
 
 ###### Artigo 10.º
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 8/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1980-692831) e [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
+> Revogado pelo/a [Decreto-Lei n.º 180/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1994-290001), publicado em 1994-06-29.
 
 ###### Artigo 11.º
 

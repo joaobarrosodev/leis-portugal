@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:533376:por
-    title: Decreto-Lei n.º 408/93
-    publication_date: '1993-12-14'
   - id: pt:dre:559038:por
     title: Decreto-Lei n.º 42/97
     publication_date: '1997-02-07'
@@ -76,9 +73,7 @@ h) Pessoal técnico judicial.
 
 3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.
 
-4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.
-
-> Alterado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 5.º — Administradores tributários
 
@@ -116,13 +111,17 @@ Os funcionários nomeados supranumerários, ao abrigo do disposto no n.º 2 do a
 
 ###### Artigo 9.º — Progressão
 
-A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.
+1 - A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.
+
+2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 10.º — Funções de coordenação
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376) e [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038) e [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 11.º — Suplemento de risco
 

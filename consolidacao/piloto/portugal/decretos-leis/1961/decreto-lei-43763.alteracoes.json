@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:172901:por",
     "alterador": "pt:dre:324953:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nRelativamente aos prédios urbanos cuja construção seja iniciada depois da publicação do presente decreto-lei, é elevado a 40 por cento o adicional a que se refere o artigo anterior se neles existirem habitações cuja renda ou valor locativo excedam 2500$00 mensais.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 183-H/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-h-1980-324953), publicado em 1980-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:172901:por",
+    "alterador": "pt:dre:324953:por"
   }
 ]

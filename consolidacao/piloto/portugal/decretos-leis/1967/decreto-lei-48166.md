@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:217350:por
-    title: Decreto-Lei n.º 49434
-    publication_date: '1969-12-09'
-  - id: pt:dre:154456:por
-    title: Decreto-Lei n.º 676/70
-    publication_date: '1970-12-31'
   - id: pt:dre:568308:por
     title: Decreto-Lei n.º 305/81
     publication_date: '1981-11-12'
+  - id: pt:dre:217350:por
+    title: Decreto-Lei n.º 49434
+    publication_date: '1969-12-09'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -82,13 +79,9 @@ c) Carreira de ensino: director de escola, monitor-chefe, enfermeiro-professor, 
 
 ###### Artigo 5.º
 
-1. Os auxiliares de monitor são escolhidos entre enfermeiros habilitados com o 3.º ciclo liceal e que tenham, pelo menos, um ano de exercício de enfermagem.
+(Revogado.)
 
-2. Os monitores são recrutados, por concursos de provas, entre os auxiliares de monitores com, pelo menos, dois anos de categoria e a habilitação do curso de enfermagem complementar, da secção de ensino. Podem também concorrer os enfermeiros habilitados com o mesmo curso de enfermagem complementar, se tiverem cinco anos de exercício.
-
-3. Os enfermeiros-professores e monitores-chefes são recrutados, por concursos de provas, entre os monitores com, pelo menos, três anos de exercício na categoria.
-
-4. Os directores de escola são escolhidos entre enfermeiros-professores e monitores-chefes, desde que aprovados em concursos nacionais de habilitação.
+> Revogado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 ###### Artigo 6.º
 
@@ -140,9 +133,11 @@ Dentro de cada carreira, poderá haver transferência de pessoal de enfermagem e
 
 2. Em relação aos mesmos profissionais dos Institutos de Assistência Psiquiátrica, de Assistência aos Leprosos e Nacional de Sangue, e na medida em que não for possível proceder nos termos estabelecidos no n.º 1 deste artigo, as remunerações serão suportadas pelos subsídios inscritos no orçamento ordinário do Ministério da Saúde e Assistência.
 
-3. A remuneração dos enfermeiros e auxiliares de enfermagem habilitados com alguma das especialidades legalmente reconhecidas é acrescida de 20 por cento quando colocados em exercício efectivo dessa especialidade.
+3. A remuneração do pessoal de enfermagem que, além dos respectivos cursos de enfermagem geral ou de auxiliares de enfermagem, esteja habilitado com algumas das especialidades legalmente reconhecidas que exijam como habilitação prévia aqueles cursos é acrescida de 20 por cento quando colocado em exercício efectivo dessa especialidade. O disposto neste número não prejudica os profissionais aos quais esteja a ser abonado o acréscimo de remuneração acima referido.
 
 4. As remunerações previstas neste decreto-lei só serão consideradas para efeito de cálculo de pensão de aposentação decorridos três anos de entrada em vigor do mesmo diploma, excepto quanto ao pessoal que, entretanto, for obrigatòriamente aposentado.
+
+> Alterado pelo/a [Decreto-Lei n.º 49434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49434-1969-217350), publicado em 1969-12-09.
 
 ###### Artigo 13.º
 
@@ -160,7 +155,7 @@ c) De 6 horas diárias ou 36 horas semanais, nos serviços de ensino.
 
 2 - (Revogado.)
 
-> Alterado pelo/a [Decreto-Lei n.º 49434](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49434-1969-217350) e [Decreto-Lei n.º 676/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1970-154456) e [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
+> Alterado pelo/a [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), publicado em 1981-11-12.
 
 ###### Artigo 15.º
 

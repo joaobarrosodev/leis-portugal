@@ -1,5 +1,33 @@
 [
   {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nÀ Direcção-Geral de Protecção Social compete:\n\na) Organizar, implementar, orientar e controlar todas as formas de protecção social referidas nos artigos anteriores, em estreita colaboração com a Direcção-Geral da Função Pública e com os serviços e instituições dependentes do Ministério dos Assuntos Sociais e outros organismos estatais ou particulares congéneres;\n\nb) Elaborar programas de acção e executá-los uma vez aprovados;\n\nc) Propor as providências convenientes à utilização dos meios que lhe sejam atribuídos, por forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;\n\nd) Celebrar os acordos necessários à obtenção pronta e regular das prestações de serviço que interessem ao desempenho da sua missão;\n\ne) Tomar as providências indispensáveis à verificação do rigoroso cumprimento dos acordos mencionados nas alíneas anteriores;\n\nf) Dar parecer sobre todas as acções desenvolvidas por entidades públicas na área da sua especificidade;\n\ng) Exercer as funções de órgão de consulta, esclarecendo as dúvidas apresentadas pelos serviços públicos sobre assuntos que constituam matéria da sua competência;\n\nh) Informar e emitir pareceres sobre os processos que, no exercício das suas atribuições, deva submeter a apreciação ou decisão ministerial;\n\ni) Propor ou participar na elaboração, quando lhe for determinado superiormente, dos projectos de diploma relativos a matérias contidas na área das suas atribuições;\n\nj) Promover a apresentação anual do relatório de actividades da Direcção-Geral donde se possa inferir a eficiência e regularidade do seu funcionamento;\n\nl) Propor a aplicação de sanções aos utentes quando se detectem infracções às normas e regulamentos da Direcção-Geral.",
+    "depois": "###### Artigo 3.º\n\nÀ Direcção-Geral de Protecção Social compete:\n\na) Organizar, implementar, orientar e controlar todas as formas de protecção social referidas nos artigos anteriores, em estreita colaboração com a Direcção-Geral da Administração e da Função Pública e com os serviços e instituições dependentes do Ministério dos Assuntos Sociais e outros organismos estatais ou particulares congéneres;\n\nb) Elaborar programas de acção e executá-los, uma vez aprovados;\n\nc) Propor as providências convenientes à utilização dos meios que lhe sejam atribuídos, por forma a prosseguir os seus fins dentro dos princípios de uma gestão por objectivos;\n\nd) Celebrar os acordos necessários à obtenção pronta e regular das prestações de serviço que interessem ao desempenho da sua missão;\n\ne) Tomar as providências indispensáveis à verificação do rigoroso cumprimento dos acordos mencionados nas alíneas anteriores;\n\nf) Dar parecer sobre todas as acções desenvolvidas por entidades públicas na área da sua especificidade;\n\ng) Exercer as funções de órgão de consulta, esclarecendo as dúvidas apresentadas pelos serviços públicos sobre assuntos que constituam matéria da sua competência;\n\nh) Informar e emitir pareceres sobre os processos que, no exercício das suas atribuições, deva submeter a apreciação ou decisão ministerial;\n\ni) Propor ou participar na elaboração, quando lhe for determinado superiormente, dos projectos de diploma relativos a matérias contidas na área das suas atribuições;\n\nj) Promover a apresentação anual do relatório de actividades da Direcção-Geral donde se possa inferir a eficiência e regularidade do seu funcionamento;\n\nl) Propor a aplicação de sanções aos utentes quando se detectem infracções às normas e regulamentos da Direcção-Geral;\n\nm) Proceder à recolha e tratamento sistemáticos dos elementos económico-financeiros e estatísticos da segurança social da função pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:462061:por",
+    "alterador": "pt:dre:311413:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nA Direcção-Geral compreende os seguintes serviços:\n\n1) Departamento dos Serviços Administrativos;\n\n2) Departamento de Inscrição e Apoio a Beneficiários e Serviços;\n\n3) Departamento de Encargos com Cuidados de Saúde;\n\n4) Inspecção Médica;\n\n5) Serviços Jurídicos e de Contencioso;\n\n6) Centro de Documentação;\n\n7) Centro de Informática;\n\n8) Serviços de Informação e Relações Públicas.\n\nDepartamento dos Serviços Administrativos",
+    "depois": "###### Artigo 6.º\n\nA Direcção-Geral compreende os seguintes serviços:\n\n1) Departamento dos Serviços Administrativos;\n\n2) Departamento de Inscrição e Apoio a Beneficiários e Serviços;\n\n3) Departamento de Encargos com Cuidados de Saúde;\n\n4) Inspecção Médica;\n\n5) Centro de Documentação;\n\n6) Centro de Informática;\n\n7) Serviços de Informação e Relações Públicas;\n\n8) Centro de Apuramento de Custos e Estatísticas.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:462061:por",
+    "alterador": "pt:dre:311413:por"
+  },
+  {
     "artigo": "8.º",
     "operacao": "substituir",
     "regra": "llm",

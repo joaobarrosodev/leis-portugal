@@ -7,36 +7,15 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:227236:por
-    title: Decreto-Lei n.º 30/70
-    publication_date: '1970-01-16'
-  - id: pt:dre:147790:por
-    title: Decreto-Lei n.º 514/70
-    publication_date: '1970-10-31'
-  - id: pt:dre:173159:por
-    title: Decreto-Lei n.º 27/74
-    publication_date: '1974-01-31'
-  - id: pt:dre:161149:por
-    title: Decreto-Lei n.º 142/75
-    publication_date: '1975-03-20'
-  - id: pt:dre:507050:por
-    title: Decreto-Lei n.º 96/76
-    publication_date: '1976-01-31'
-  - id: pt:dre:507194:por
-    title: Decreto-Lei n.º 103/76
-    publication_date: '1976-02-04'
-  - id: pt:dre:501630:por
-    title: Decreto-Lei n.º 191/76
-    publication_date: '1976-03-16'
-  - id: pt:dre:324951:por
-    title: Decreto-Lei n.º 183-F/80
-    publication_date: '1980-06-09'
   - id: pt:dre:143302:por
     title: Decreto-Lei n.º 192/84
     publication_date: '1984-06-11'
   - id: pt:dre:609331:por
     title: Decreto-Lei n.º 19/89
     publication_date: '1989-01-19'
+  - id: pt:dre:507194:por
+    title: Decreto-Lei n.º 103/76
+    publication_date: '1976-02-04'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -205,15 +184,17 @@ b) Se forem inferiores, o ajustamento far-se-á para o mais próximo múltiplo d
 
 a) Pelo exercício de cargos públicos, pagos pelo Orçamento Geral do Estado, ainda que em regime de acumulação, importância total superior ao ordenado correspondente à letra A, acrescido de 25 por cento;
 
-b) Pelo exercício do respectivo cargo, mais de 95 por cento do ordenado correspondente à categoria imediatamente superior do mesmo quadro.
+b) Pelo exercício do respectivo cargo, mais de 95% da totalidade das remunerações atribuídas à categoria imediatamente superior do mesmo quadro.
 
-2. Para efeitos dos limites estabelecidos no número anterior, não serão considerados a remuneração por trabalho extraordinário, a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.
+2 - Para efeitos dos limites estabelecidos no número anterior, não serão considerados a participação em multas, as ajudas de custo, os subsídios de campo, viagem e residência, os abonos para falhas, os prémios por sugestões, o abono de família, as despesas de representação e outras que constituam simples compensação de despesas feitas por motivo de serviço.
 
 3. A inobservância dos limites fixados neste artigo obriga à reposição das quantias indevidamente recebidas.
 
 4. Ficam revogadas as disposições especiais que permitam a percepção, pelo Orçamento Geral do Estado, de ordenados ou gratificações superiores aos limites máximos fixados neste artigo.
 
-5. Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao ordenado fixado para a letra A, ainda que as mesmas não sejam pagas pelo Orçamento Geral do Estado.
+5 - Com excepção dos abonos previstos no n.º 2 do presente artigo, não beneficiam do regime estabelecido pelo artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, as importâncias que os servidores do Estado recebam pelo exercício de funções públicas, além do quantitativo correspondente ao vencimento de director-geral ou equiparado.
+
+> Alterado pelo/a [Decreto-Lei n.º 192/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1984-143302), publicado em 1984-06-11.
 
 ###### Artigo 9.º
 
@@ -269,35 +250,19 @@ Prémios por sugestões
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 30/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1970-227236) e [Decreto-Lei n.º 514/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1970-147790) e [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159) e [Decreto-Lei n.º 142/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1975-161149) e [Decreto-Lei n.º 96/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1976-507050) e [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194) e [Decreto-Lei n.º 191/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1976-501630) e [Decreto-Lei n.º 183-F/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-f-1980-324951) e [Decreto-Lei n.º 192/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1984-143302) e [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
 ###### Artigo 17.º
 
-1. Os estudos ou sugestões deverão ser apresentados ao Secretariado da Reforma Administrativa, sob anonimato, e acompanhados de sobrescrito lacrado donde conste a identificação do seu autor.
+(Revogado.)
 
-2. Os estudos ou sugestões serão apreciados por uma comissão constituída nos seguintes termos:
-
-a) Um representante do Secretariado da Reforma Administrativa, que presidirá, com voto de qualidade;
-
-b) Um representante do Conselho Coordenador para a Reforma Administrativa;
-
-c) Um representante da Direcção-Geral da Contabilidade Pública;
-
-d) Um representante do Instituto Nacional de Investigação Industrial;
-
-e) O dirigente do serviço a que especialmente respeite o estudo ou sugestão, ou um seu representante.
-
-3. Quando o julgue conveniente, a comissão poderá agregar peritos para que se pronunciem sobre o mérito da sugestão.
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
 ###### Artigo 18.º
 
-1. O parecer da comissão a que se refere o artigo anterior será directamente enviado, para decisão final, ao Presidente do Conselho ou ao Ministro competente, consoante o estudo ou sugestão interesse a mais do que um Ministério ou a um só.
+(Revogado.)
 
-2. O sobrescrito apenas poderá ser aberto para identificação do autor do estudo ou sugestão, se tiver sido concedido qualquer dos prémios previstos no artigo 16.º
-
-3. A fixação da importância do prémio depende de aprovação do Ministro das Finanças.
-
-Serviços sociais
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
 ###### Artigo 19.º
 
@@ -371,11 +336,13 @@ O provimento dos lugares de categoria igual ou inferior à letra S será feito p
 
 1. O recrutamento de terceiros-oficiais será feito por concurso de prestação de provas, a que serão admitidos:
 
-a) Indivíduos que possuam a habilitação do 2.º ciclo do ensino liceal ou equiparada;
+a) Indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado;
 
-b) Escriturários-dactilógrafos de 1.ª classe, do respectivo quadro, que possuam a habilitação do ciclo preparatório do ensino secundário ou equiparada, desde que tenham, pelo menos, seis anos de bom e efectivo serviço nessa categoria.
+b) Escriturários-dactilógrafos do respectivo quadro que possuam a escolaridade obrigatória, desde que tenham, pelo menos, 3 anos de bom e efectivo serviço nessa categoria.
 
 2. Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação exigida pela alínea a) do número anterior não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem a mesma habilitação.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1976-507194), publicado em 1976-02-04.
 
 ###### Artigo 28.º
 

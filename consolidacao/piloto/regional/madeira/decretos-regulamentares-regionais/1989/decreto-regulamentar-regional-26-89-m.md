@@ -465,7 +465,7 @@ A DREE superintende na gestão dos estabelecimentos e serviços afectos à sua �
 
 ###### Artigo 31.º
 
-A DREE compreende os seguintes órgãos e serviços:
+1 - A DREE compreende os seguintes órgãos e serviços:
 
 a) Conselho Administrativo (CA);
 
@@ -481,9 +481,13 @@ f) Centro de Documentação, Estudo e Divulgação (CDED);
 
 g) Serviços gerais.
 
+2 - Na dependência do director regional da Educação Especial funciona a Inspecção Pedagógica (IP), como serviço de controlo e fiscalização pedagógica em relação à educação especial.
+
 SUBDIVISÃO I
 
 Conselho Administrativo
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
 
 ###### Artigo 32.º
 
@@ -642,6 +646,14 @@ a) Sector de cozinha;
 b) Sector de lavandaria;
 
 c) Sector de equipamento e manutenção.
+
+###### Artigo 45.º-A
+
+1 - A IP da Educação Especial, que será orientada por um inspector-coordenador-chefe, tem as competências idênticas às previstas no artigo 25.º do presente diploma, com as necessárias adaptações.
+
+2 - O provimento e recrutamento de pessoal para a IP da Educação Especial será feito, de acordo com o regime previsto para a IP da Direcção Regional do Ensino e Inspecção Administrativa e Financeira da Direcção Regional de Finanças, Administração e Pessoal.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
 
 ##### DIVISÃO V — Direcção Regional de Estudos e Planeamento da Educação
 
@@ -1183,123 +1195,45 @@ f) Elaborar o regulamento de funcionamento das pousadas de juventude.
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886) e [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 72.º
 
-No âmbito da competência genérica definida no artigo anterior, à DREM compete, especialmente:
+(Revogado.)
 
-a) Contribuir para a definição da política de emprego e elaboração da respectiva legislação;
-
-b) Recolher, analisar e fornecer informações sobre os problemas de emprego e promover a sua discussão com vista à definição das prioridades de intervenção no mercado de emprego;
-
-c) Promover a organização e funcionamento do mercado de emprego, com vista à colocação dos trabalhadores em postos de trabalho produtivos e remuneradores no âmbito das perspectivas de desenvolvimento sócio-económico da Região;
-
-d) Assegurar a prestação de serviços de colocação, de informação e orientação profissional e de informação sobre o mercado do emprego;
-
-e) Actuar junto dos desempregados, no plano sócio-económico, promovendo a sua inserção no mercado de trabalho e colaborando na gestão, aplicação e aperfeiçoamento do sistema de protecção social de desemprego;
-
-f) Assegurar a prestação de apoio técnico ou financeiro a iniciativas geradoras de emprego e desenvolver acções a nível regional, local ou sectorial, visando a criação ou manutenção de postos de trabalho;
-
-g) Garantir a gestão dos assuntos do Fundo Social Europeu no âmbito das competências atribuídas à Região nesta matéria e assegurar a articulação com o competente departamento do Governo da República;
-
-h) Fomentar a expansão qualitativa e quantitativa do sector cooperativo, zelar pela observância dos princípios cooperativos e contribuir para a coordenação das actividades da Administração Pública com incidência naquele sector;
-
-i) Credenciar as cooperativas e suas organizações de grau superior para os efeitos previstos na legislação cooperativa;
-
-j) Colaborar com outros serviços ou entidades na realização de estudos desenvolvidos nas áreas da sua competência;
-
-k) Apoiar tecnicamente as relações com entidades nacionais e internacionais em matérias da sua especialidade;
-
-l) Elaborar pareceres e prestar apoio técnico sobre assuntos da sua área de intervenção.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 73.º
 
-A DREM é dotada de autonomia administrativa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 74.º
 
-1 - A DREM compreende os seguintes órgãos e serviços:
+(Revogado.)
 
-a) Conselho Administrativo (CA);
-
-b) Direcção de Serviços de Emprego e do Sector Cooperativo (DSESC);
-
-c) Direcção de Serviços de Promoção do Emprego (DSPE).
-
-2 - Na dependência directa do director regional, funciona a Divisão de Estudos, Planeamento e Administração (DEPA).
-
-SUBDIVISÃO I
-
-Conselho Administrativo
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 75.º
 
-1 - O CA é constituído pelo director regional, que preside, pelo director de Serviços de Promoção de Emprego, pelo chefe da Divisão de Estudos, Planeamento e Administração e pelo chefe da Repartição de Serviços Administrativos.
+(Revogado.)
 
-2 - Enquanto o cargo de chefe da Repartição de Serviços Administrativos não se encontrar provido, as respectivas funções no CA serão asseguradas pelo chefe de secção responsável pelos serviços de contabilidade da DREM.
-
-3 - São atribuições do CA:
-
-a) Apreciar os projectos de orçamento e os planos de actividades da DREM;
-
-b) Proceder à avaliação económica das despesas;
-
-c) Apreciar as contas de gerência;
-
-d) Pronunciar-se sobre os demais aspectos administrativos que interessam ao bom funcionamento da DREM.
-
-SUBDIVISÃO II
-
-Direcção de Serviços de Emprego e do Sector Cooperativo
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 76.º
 
-1 - À DSESC compete:
+(Revogado.)
 
-a) Promover o ajustamento entre a procura e a oferta de emprego, nomeadamente através de acções de colocação e de mobilidade geográfica e profissional dos trabalhadores;
-
-b) Organizar e manter em funcionamento serviços públicos de colocação e de informação e orientação profissional;
-
-c) Estudar e propor medidas e acções visando a colocação de categorias especiais de candidatos a emprego que exijam tratamento específico não enquadrável nos esquemas gerais de actuação;
-
-d) Participar na administração dos sistemas de protecção social no desemprego, em articulação com os serviços de segurança social, e promover a colocação ou ocupação dos seus beneficiários;
-
-e) Colaborar com os serviços competentes dos Governos Regional e da República na orientação e apoio aos trabalhadores emigrantes;
-
-f) Desenvolver programas de informação e orientação profissional ou escolar, tendo em conta a necessária articulação com outros serviços da Secretaria Regional da Educação, Juventude e Emprego;
-
-g) Estudar, propor e aplicar técnicas e métodos de organização e funcionamento dos seus serviços, nomeadamente dos de colocação e de informação e orientação profissional;
-
-h) Recolher informações sobre a situação e perspectivas de evolução do mercado do emprego;
-
-i) Efectuar levantamentos e manter actualizadas informações sobre currículos e carreiras profissionais e escolares com interesse na Região, em articulação com a DEPA;
-
-j) Coordenar todas as questões referentes ao sector cooperativo, nomeadamente aquelas com incidência nos domínios legislativo, fiscal, de formação e assistência técnica, de financiamento e crédito.
-
-2 - Na dependência da DSESC funcionam o Centro de Emprego do Funchal (CEF) e a Divisão do Sector Cooperativo (DSC).
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO I — Centro de Emprego do Funchal
 
 ###### Artigo 77.º
 
-1 - Ao CEF compete, especialmente:
+(Revogado.)
 
-a) Colaborar na aplicação de medidas e programas que visem fomentar o emprego, em especial de grupos de desempregados de difícil colocação;
-
-b) Proceder à colocação dos trabalhadores, implementando mecanismos de recolha de ofertas de emprego junto das entidades empregadoras e desenvolvendo as acções adequadas à sua satisfação;
-
-c) Participar no sistema de compensação de pedidos e ofertas de emprego a nível nacional e comunitário;
-
-d) Participar na aplicação do sistema de protecção social no desemprego, providenciando pelo cumprimento dos seus objectivos;
-
-e) Prestar serviços de informação e orientação escolar e profissional;
-
-f) Colaborar com outras entidades públicas e privadas na integração no mercado de trabalho de pessoas que beneficiem de acções de formação profissional;
-
-g) Elaborar informações e proceder ao tratamento estatístico do movimento dos respectivos serviços.
-
-2 - O CEF é dirigido por um director, equiparado a chefe de divisão.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO II
 
@@ -1307,51 +1241,15 @@ g) Elaborar informações e proceder ao tratamento estatístico do movimento dos
 
 ###### Artigo 78.º
 
-À DSC compete:
+(Revogado.)
 
-a) Realizar ou promover estudos sobre temas cooperativos, designadamente os que possibilitem o planeamento e desenvolvimento de acções globais ou sectoriais de acordo com as necessidades do sector;
-
-b) Promover um sistema de recolha e tratamento de dados sobre o sector cooperativo, com vista a permitir um melhor cumprimento das atribuições que lhe são cometidas;
-
-c) Informar sobre os princípios cooperativos e demais matérias da sua competência;
-
-d) Apoiar a colaboração, análise, avaliação e acompanhamento de projectos de investimento de cooperativas, nomeadamente inseridos no âmbito de iniciativas de desenvolvimento local;
-
-e) Prestar apoio às cooperativas de 1.º grau ou de grau superior, designadamente:
-
-1) Apoiar a realização de estudos necessários ao planeamento ou reestruturação de cooperativas;
-
-2) Promover a realização de acções de formação profissional no âmbito do sector cooperativo, nomeadamente nas áreas da organização e gestão cooperativa;
-
-3) Estudar e propor esquemas de apoio técnico ou financeiro às cooperativas;
-
-f) Acompanhar a aplicação dos meios financeiros concedidos por organismos públicos, de modo a garantir a sua correcta utilização e reembolso;
-
-g) Exercer funções consultivas sobre matérias da sua competência, a solicitação de departamentos do Governo Regional ou de organizações do sector cooperativo.
-
-SUBDIVISÃO III
-
-Direcção de Serviços de Promoção do Emprego
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 79.º
 
-1 - À DSPE incumbe:
+(Revogado.)
 
-a) Recolher e organizar informações sobre oportunidades de criação de postos de trabalho e proceder à sua divulgação;
-
-b) Actuar junto de entidades públicas e privadas no sentido de dinamizar o estudo de projectos e a realização de empreendimentos com especial relevância na criação de empregos;
-
-c) Estudar e desenvolver medidas que enquadrem as necessidades de colocação de grupos de desempregados especialmente desfavorecidos no acesso ao emprego;
-
-d) Promover medidas de apoio ao desenvolvimento do emprego, nomeadamente incentivando o espírito empresarial e promovendo o auto-emprego e a criação de empregos a nível local;
-
-e) Apreciar e propor a concessão de apoios técnicos ou incentivos financeiros, de natureza selectiva ou suplectiva, destinados à criação ou manutenção de postos de trabalho;
-
-f) Intervir em situações de risco iminente de desemprego, propondo a adopção das medidas mais adequadas a cada caso;
-
-g) Promover o estudo e divulgação de matérias relativas ao Fundo Social Europeu, participar na preparação dos meios necessários ao acesso aos apoios daquele Fundo e colaborar na gestão, acompanhamento, controlo e avaliação das acções apoiadas.
-
-2 - Na dependência da DSPE funcionam as Divisões de Programas de Emprego (DPE) e do Fundo Social Europeu (DFSE).
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO I
 
@@ -1359,23 +1257,9 @@ g) Promover o estudo e divulgação de matérias relativas ao Fundo Social Europ
 
 ###### Artigo 80.º
 
-À DPE compete:
+(Revogado.)
 
-a) Recolher e organizar a informação necessária à análise das possibilidades de criação de postos de trabalho;
-
-b) Colaborar na preparação de medidas de fomento do emprego e assegurar a sua execução, acompanhamento e avaliação de resultados;
-
-c) Desenvolver programas de emprego de âmbito regional em benefício de jovens, mulheres, desempregados de longa duração e outros grupos ou situações sócio-profissionais, em articulação com outras entidades, sempre que tal se justifique;
-
-d) Apoiar o desenvolvimento de iniciativas locais de emprego e a criação de actividades de independentes;
-
-e) Colaborar na aplicação de medidas de apoio ao desenvolvimento de iniciativas empresariais, em especial por parte de jovens e de mulheres;
-
-f) Participar na apreciação de processos de despedimento colectivo, sugerindo, sempre que necessário, formas de intervenção tendentes à minimização dos seus efeitos;
-
-g) Analisar os pedidos de apoio técnico ou financeiro que sejam formulados na sua área de intervenção e propor a adopção das medidas mais adequadas a cada situação;
-
-h) Acompanhar as entidades apoiadas, providenciando pela correcta aplicação dos apoios concedidos.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO II
 
@@ -1383,81 +1267,33 @@ h) Acompanhar as entidades apoiadas, providenciando pela correcta aplicação do
 
 ###### Artigo 81.º
 
-À DFSE compete:
+(Revogado.)
 
-a) Participar na elaboração dos instrumentos necessários de acesso aos apoios do Fundo Social Europeu, nos termos das correspondentes regras regionais, nacionais e comunitárias;
-
-b) Colaborar na divulgação das possibilidades de intervenção do Fundo Social Europeu junto das entidades potencialmente interessadas nos seus apoios;
-
-c) Receber os pedidos de contribuição, de adiantamento e de pagamento de saldo das acções apoiadas pelo Fundo Social Europeu e promover o seu encaminhamento para o competente departamento do Governo da República;
-
-d) Participar na gestão, acompanhamento, controlo e avaliação das acções apoiadas;
-
-e) Promover a realização de estudos tendentes a avaliar os resultados dos apoios recebidos e prestar assistência técnica sobre matérias relativas ao Fundo Social Europeu às entidades que o solicitem;
-
-f) Propor a adopção das medidas necessárias a uma boa gestão das acções apoiadas e a correcta aplicação dos apoios recebidos.
-
-SUBDIVISÃO IV
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ##### Divisão de Estudos, Planeamento e Administração
 
 ###### Artigo 82.º
 
-1 - À DEPA compete, nomeadamente:
+(Revogado.)
 
-a) Elaborar estudos visando a adopção de medidas na área de intervenção da DREM e colaborar na elaboração da respectiva legislação;
-
-b) Recolher elementos sobre a situação do mercado de emprego regional e promover o seu tratamento e divulgação, no sentido de estruturar o respectivo conhecimento e o das suas tendências evolutivas;
-
-c) Promover a elaboração de estudos prospectivos visando a detecção de problemas de emprego e futuras necessidades de mão-de-obra qualificada, tendo em conta, designadamente, as tendências de evolução do mercado de emprego;
-
-d) Desenvolver o estudo e análise de profissões, especialmente as de maior interesse e actualidade no mercado de emprego da Região;
-
-e) Apoiar tecnicamente os restantes serviços da DREM na elaboração de estudos nas respectivas áreas de intervenção;
-
-f) Elaborar planos e relatórios de actividades da DREM e asseguar a articulação, na área do emprego, com o departamento de planeamento da SREJE;
-
-g) Promover a elaboração dos orçamentos e contas de gerência e coordenar o funcionamento administrativo da DREM.
-
-2 - Na dependência da DEPA funcionam uma Repartição de Serviços Administrativos (RSA) e o Núcleo de Informação e Documentação (NID).
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO I — Repartição de Serviços Administrativos
 
 ###### Artigo 83.º
 
-1 - À RSA compete, nomeadamente:
+(Revogado.)
 
-a) Coordenar e orientar as secções referidas no número seguinte;
-
-b) Assegurar o expediente da DREM;
-
-c) Proceder à divulgação de circulares, instruções ou outras normas de carácter genérico destinadas aos serviços da DREM;
-
-d) Receber a correspondência, requerimentos, exposições e demais elementos dirigidos à DREM, bem como proceder ao respectivo registo de entrada;
-
-e) Elaborar os orçamentos e as contas de gerência da DREM;
-
-f) Desempenhar outras funções de natureza administrativa de que seja superiormente incumbida.
-
-2 - A RSA integra os seguintes serviços:
-
-a) Secção de Expediente e Pessoal;
-
-b) Secção de Contabilidade e Aprovisionamento;
-
-c) Tesouraria.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO II — Núcleo de informação e Documentação
 
 ###### Artigo 84.º
 
-Ao NID compete:
+(Revogado.)
 
-a) Propor a aquisição de livros, revistas e demais publicações ou documentação de carácter técnico, administrativo ou cultural de interesse para a DREM;
-
-b) Coligir, seleccionar e difundir informações sobre livros, revistas, documentos de trabalho, doutrina e jurisprudência;
-
-c) Manter organizados os arquivos e ficheiros e todos o material documentalístico.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ##### DIVISÃO IX — Direcção Regional de Finanças, Administração e Pessoal
 
@@ -1563,7 +1399,9 @@ b) Elaborar estudos de previsão de pessoal docente e executar as operações re
 
 c) Elaborar o cadastro das escolas, no que respeita ao número de lugares criados, ocupados e vagos, de todo o pessoal docente, em colaboração com o DREPE.
 
-2 - Na dependência da DPD funciona a Secção de Pessoal Docente.
+2 - Na dependência da DPD funcionam as Secções de Pessoal Docente da Educação Pré-Escolar e do Ensino Básico (1.º ciclo) e a de Pessoal Docente do 2.º e 3.º ciclos do Ensino Básico e Secundário.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
 
 #### SECÇÃO III
 
@@ -1591,7 +1429,7 @@ e) Proceder à recolha de dados estatísticos relativos a esta Divisão.
 
 ###### Artigo 93.º
 
-À RA compete:
+1 - À RA compete:
 
 a) Assegurar o expediente dos vários serviços da Secretaria Regional;
 
@@ -1607,9 +1445,13 @@ f) Prestar apoio administrativo aos grupos de trabalho que forem constituídos n
 
 g) Desempenhar outras funções de natureza administrativa de que seja superiormente incumbido.
 
+2 - Na dependência desta Repartição funciona a Secção de Expediente Geral e Economato.
+
 SUBDIVISÃO II
 
 Direcção de Serviços da Acção Social Escolar
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
 
 ###### Artigo 94.º
 
@@ -1681,51 +1523,17 @@ Centro Regional de Formação Profissional
 
 ###### Artigo 97.º
 
-1 - Ao CRFP, que é dotado de autonomia administrativa, compete, nomeadamente:
+(Revogado.)
 
-a) Recolher e tratar as informações relativas à determinação das necessidades regionais de formação e reabilitação profissionais, de colaboração com a Direcção Regional de Emprego;
-
-b) A elaboração dos planos, programas, relatórios de actividade e propostas de orçamento;
-
-c) Elaborar e actualizar programas de ensino destinados a diversos tipos de formação profissional;
-
-d) Providenciar os meios humanos, técnicos e pedagógicos necessários à realização das acções de formação;
-
-e) Realizar as acções de formação profissional programadas;
-
-f) Dinamizar o recurso a apoios, no âmbito da CEE;
-
-g) Incrementar a formação nos locais de trabalho e apoiar as unidades produtivas no diagnóstico das suas necessidades, na escolha dos sistemas formativos mais adequados e na organização, execução e avaliação das respectivas acções;
-
-h) Apoiar iniciativas de formação e reabilitação profissionais;
-
-i) Cooperar com os serviços competentes no âmbito da formação em regime de aprendizagem.
-
-2 - O CRFP é dirigido por um director, que é equiparado a director de serviços, e compreende os seguintes serviços:
-
-a) Conselho Administrativo (CA);
-
-b) Divisão Administrativa (DA);
-
-c) Divisão de Formação Profissional (DFP);
-
-d) Gabinete de Informação e Orientação Profissional (GIOP);
-
-e) Gabinete Técnico (GT).
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO I — Conselho Administrativo
 
 ###### Artigo 98.º
 
-1 - O CA é constituído pelo director do Centro, que preside, pelo chefe da Divisão Administrativa e pelo chefe da Secção de Contabilidade e Tesouraria.
+(Revogado.)
 
-2 - Ao CA compete:
-
-a) Apreciar e aprovar os projectos de orçamento e as contas de gerência do CRFP;
-
-b) Proceder à avaliação económica das despesas;
-
-c) Fiscalizar a cobrança das receitas.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO II
 
@@ -1733,17 +1541,9 @@ c) Fiscalizar a cobrança das receitas.
 
 ###### Artigo 99.º
 
-1 - À DA compete, designadamente:
+(Revogado.)
 
-a) Proceder à elaboração do orçamento do Centro;
-
-b) Acompanhar e controlar a execução do orçamento e o funcionamento administrativo do Centro;
-
-c) Coordenar as acções a desenvolver em matéria de gestão, aquisição, preparação e montagem de equipamento e materiais necessários ao funcionamento do Centro, bem como da manutenção, conservação e recuperação dos mesmos;
-
-d) Proporcionar serviços de apoio aos estagiários, nomeadamente no plano administrativo e social.
-
-2 - Na dependência desta Divisão funcionam as Secções Administrativa e de Contabilidade e Tesouraria.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO III
 
@@ -1751,39 +1551,25 @@ d) Proporcionar serviços de apoio aos estagiários, nomeadamente no plano admin
 
 ###### Artigo 100.º
 
-À DFP compete, designadamente:
+(Revogado.)
 
-a) Providenciar todos os requisitos necessários à intervenção dos fundos estruturais da CEE, nomeadamente o Fundo Social Europeu;
-
-b) Formar pessoal especializado e organizar os meios técnicos e pedagógicos necessários à realização das acções de formação;
-
-c) Analisar os pedidos de apoio técnico e ou financeiro, no âmbito da formação em cooperação;
-
-d) Desenvolver a cooperação, com os serviços competentes no âmbito da formação, reabilitação e integração profissional de deficientes e do ensino técnico profissional.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO IV — Gabinete de Informação e Orientação Profissional
 
 ###### Artigo 101.º
 
-Ao GIOP, que é dirigido por um director, equiparado a chefe de divisão, incumbe, especialmente:
+(Revogado.)
 
-a) Promover a organização e coordenar o movimento de candidaturas a acções de formação profissional desenvolvidas no quadro do Centro;
-
-b) Conceber e preparar os instrumentos técnicos de tratamento a utilizar pelos serviços nos domínios da informação, orientação e formação profissional.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 #### SECÇÃO V — Gabinete Técnico
 
 ###### Artigo 102.º
 
-Ao GT incumbe, nomeadamente:
+(Revogado.)
 
-a) Preparar no plano pedagógico as acções programadas e acompanhar a aplicação prática das metodologias adoptadas;
-
-b) Providenciar todas as acções necessárias à manutenção do Centro, nomeadamente instalações e equipamentos.
-
-SUBDIVISÃO V
-
-Centro de Informática
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), publicado em 1993-06-17.
 
 ###### Artigo 103.º
 
@@ -1936,6 +1722,26 @@ b) A rescisão do contrato e a dispensa dos estagiários, sem direito a qualquer
 1 - As categorias de capataz, auxiliar técnico administrativo e encarregado de armazém, previstas no actual quadro de pessoal da SREJE, são extintas à medida que vagarem.
 
 2 - As transições para as novas categorias das carreiras de monitor de formação profissional e de técnico de emprego, decorrentes da aplicação do presente diploma, processam-se nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+
+###### Artigo 109.º-A
+
+1 - O provimento do pessoal docente no quadro da Direcção Regional de Educação Especial (DREE) obedece ao regime geral de recrutamento e selecção de pessoal vigente para os quadros da Administração Pública, com excepção do disposto sobre requisitos habilitacionais, que são os que vierem a serem fixados no aviso de abertura do respectivo concurso de acordo com a legislação definidora da habilitação para a docência no respectivo grupo, subgrupo ou disciplina e, quando for o caso, cursos especializados em educação especial.
+
+2 - Tendo em vista a satisfação de necessidades transitórias, o desempenho de funções docentes na DREE pode ser assegurado em regime de contrato administrativo de provimento, aplicando-se a estes casos o regime previsto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, para aquele contrato, com excepção do disposto sobre requisitos habilitacionais e qualificações profissionais, que dada à sua especificidade serão fixados aquando da publicitação da oferta de emprego.
+
+3 - A progressão e promoção dos docentes providos na DREE obedece ao regime legal em vigor para a carreira docente.
+
+4 - Aos docentes providos na DREE é facultado o acesso ao quadro de pessoal docente dos estabelecimentos de ensino da Região Autónoma da Madeira, no respectivo grau de ensino na categoria em que à data forem detentores.
+
+5 - O serviço prestado pelos professores na DREE é equiparado a serviço docente para todos os efeitos legais, designadamente para graduação em concursos, progressão e promoção, de acordo com a legislação vigente.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
+
+###### Artigo 109.º-B
+
+Os educadores de infância, professores do 1.º, 2.º e 3.º ciclos do ensino básico e professores do ensino secundário do quadro titulares do curso de Formação de Professores do Ensino Especial poderão ser transferidos para o quadro da DREE, independentemente de quaisquer formalidades legais.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 6/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1991-596886), publicado em 1991-04-30.
 
 ###### Artigo 110.º
 

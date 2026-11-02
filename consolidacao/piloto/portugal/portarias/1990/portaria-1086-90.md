@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:288646:por
-    title: Portaria n.º 1052/91
-    publication_date: '1991-10-15'
   - id: pt:dre:485956:por
     title: Portaria n.º 388/98
     publication_date: '1998-07-06'
+  - id: pt:dre:288646:por
+    title: Portaria n.º 1052/91
+    publication_date: '1991-10-15'
   - id: pt:dre:424112:por
     title: Portaria n.º 417/98
     publication_date: '1998-07-21'
@@ -52,7 +52,7 @@ a) Para o escalão dos oficiais:
 
 3) Cursos de qualificação;
 
-4) Cursos de especialização;
+4) (Revogado.)
 
 b) Para o escalão de mestrança:
 
@@ -78,55 +78,49 @@ a) Cursos de reciclagem e de aperfeiçoamento;
 
 b) Outros cursos que as circunstâncias justifiquem.
 
-3 - Os cursos de chefias a que se refere o presente artigo correspondem aos cursos de actualização previstos na [Portaria n.º 251/89](https://diariodarepublica.pt/dr/detalhe/portaria/251-1989-615194), de 6 de Abril.
+3 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
 
 ###### Artigo 2.º — Cursos de oficial da marinha mercante
 
 1 - Os cursos de oficial da marinha mercante são os seguintes:
 
-a) Bacharelato do curso superior de Pilotagem;
+a) Bacharelato em Pilotagem;
 
-b) Bacharelato do curso superior de Máquinas Marítimas;
+b) Bacharelato em Engenharia de Máquinas Marítimas;
 
-c) Bacharelato do curso superior de Comissariado;
+c) Curso superior de Comissariado (parte escolar);
 
-d) Bacharelato do curso superior de Radiotécnica.
+d) Bacharelato em Engenharia de Sistemas Marítimos de Electrónica e Telecomunicações.
 
 2 - O aproveitamento nos cursos referidos no número anterior, sem prejuízo de outros requisitos legais, confere o direito à inscrição, respectivamente, nas categorias de:
 
-a) Piloto de 3.ª classe;
+a) Praticante de piloto;
 
-b) Maquinista de 3.ª classe;
+b) Praticante de maquinista;
 
-c) Comissário de 3.ª classe;
+c) Praticante de comissário;
 
-d) Radiotécnico de 3.ª classe.
+d) Praticante de radiotécnico.
 
 3 - Os cursos de oficial da marinha mercante são ministrados na Escola Náutica Infante D. Henrique (ENIDH).
 
-###### Artigo 3.º — Cursos de chefias
+> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), publicado em 1991-10-15.
 
-1 - Os cursos de chefias são os seguintes:
+###### Artigo 3.º — Cursos de chefia
 
-a) Pilotagem;
+1 - Os cursos de chefia são os seguintes:
 
-b) Máquinas Marítimas;
+a) Curso de estudos superiores especializados em Gestão e Tecnologias Marítimas;
 
-c) Comissariado;
+b) Curso de estudos superiores especializados em Engenharia de Máquinas Marítimas;
 
-d) Radiotecnia.
+c) Curso complementar de Comissariado;
 
-2 - Os cursos referidos no número anterior apenas podem ser frequentados por:
+d) Curso de estudos superiores especializados em Engenharia de Sistemas Marítimos de Electrotecnia e Telecomunicações.
 
-a) Pilotos de 2.ª classe;
-
-b) Maquinistas de 2.ª classe;
-
-c) Comissários de 2.ª classe;
-
-d) Radiotécnicos de 2.ª classe.
-
-3 - O aproveitamento nos cursos referidos no n.º 1, sem prejuízo de outros requisitos legais confere o direito à inscrição, respectivamente, nas categorias de:
+2 - O aproveitamento nos cursos referidos no número anterior, sem prejuízo de outros requisitos legais, confere direito à inscrição, respectivamente, nas categorias de:
 
 a) Piloto de 1.ª classe;
 
@@ -136,7 +130,11 @@ c) Comissário de 1.ª classe;
 
 d) Radiotécnico de 1.ª classe.
 
-4 - Os cursos de chefias são ministrados na ENIDH.
+3 - Para os efeitos do disposto no número anterior, os cursos apenas podem ser frequentados, respectivamente, por pilotos, maquinistas, comissários e radiotécnicos de 2.ª classe.
+
+4 - Os cursos de chefia são ministrados na ENIDH.
+
+> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), publicado em 1991-10-15.
 
 ###### Artigo 4.º — Curso de qualificação para oficiais
 
@@ -148,17 +146,9 @@ d) Radiotécnico de 1.ª classe.
 
 ###### Artigo 5.º — Cursos de especialização da marinha do comércio
 
-1 - Os cursos de especialização específicos da marinha do comércio são os seguintes:
+(Revogado.)
 
-a) Navios-tanques (petroleiros);
-
-b) Navios-tanques (gás liquefeito);
-
-c) Navios-tanques (químicos).
-
-2 - O aproveitamento nos cursos referidos no número anterior, sem prejuízo de outros requisitos legais, habilita os marítimos que os possuam ao exercício das correspondentes funções em navios-tanques.
-
-3 - Os cursos de especialização referidos são ministrados na ENIDH.
+> Revogado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
 
 ###### Artigo 6.º — Curso de especialização da marinha da pesca
 
@@ -316,9 +306,9 @@ c) Por despacho do Ministro da Agricultura, Pescas e Alimentação, mediante pro
 
 a) Para todos os cursos, salvo os de reciclagem e aperfeiçoamento, a inscrição ou ingresso na categoria a que o curso dá direito, sem prejuízo de outros requisitos legais;
 
-b) Para os cursos de especialização da marinha do comércio, o exercício das correspondentes funções a bordo dos navios para os quais os cursos são exigidos, sem prejuízo de outros requisitos legais;
+b) Para os cursos de reciclagem, a cessação da suspensão do exercício da actividade nos termos da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 104/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1989-615193), de 6 de Abril.
 
-c) Para os cursos de reciclagem, a cessação da suspensão do exercício da actividade nos termos da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 104/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1989-615193), de 6 de Abril.
+> Alterado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
 
 #### SECÇÃO II — Exames
 
@@ -328,7 +318,7 @@ c) Para os cursos de reciclagem, a cessação da suspensão do exercício da act
 
 a) Para condução de motores de potência igual ou inferior a 150 kW;
 
-b) Para condução de embarcações salva-vidas;
+b) (Revogada.)
 
 c) Para operador radiotelefonista;
 
@@ -354,19 +344,23 @@ l) Para obtenção do certificado de operador de rádio no GMDSS, na área marí
 
 4 - Aos exames que constituem requisito de habilitação para obtenção das categorias de motorista prático de 1.ª classe, motorista prático de 2.ª classe, ajudante de motorista e radiotelegrafista prático da classe A aplica-se igualmente o disposto nos artigos da presente secção.
 
-> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646) e [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956) e [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 19.º — Requisitos para admissão a exame
 
 1 - Para admissão aos exames referidos no artigo anterior, o candidato necessita satisfazer:
 
-a) Para os exames das alíneas a), b) e c) do n.º 1, a condição de marítimo;
+a) Para os exames das alíneas a), b), c), e), g), h), i), j) e l) do n.º 1, a condição de marítimo;
 
 b) Para o exame da alínea d) do n.º 1, os demais requisitos para a inscrição marítima;
 
 c) Para os exames dos n.os 3 e 4, os requisitos estabelecidos para ingresso na correspondente categoria e aptidão física para o exercício das funções inerentes à categoria a que se destina, face à tabela em vigor de doenças, lesões e deformidades que incapacitam para o exercício da profissão, o que será com provado mediante atestado médico.
 
+d) Para os exames da alínea f) do n.º 1, a condição de marítimo, sendo que quando do escalão da mestrança, desempenhem funções de quarto à navegação em embarcações mercantes ou de pesca equipadas com GMDSS e que naveguem em qualquer das áreas marítimas previstas.
+
 2 - A realização de exames sem satisfação do disposto no número anterior determina a nulidade dos mesmos.
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 20.º — Pedido, épocas e locais dos exames
 
@@ -382,6 +376,12 @@ d) Ao director-geral das Pescas ou ao director da EMM, no caso do n.º 3, confor
 
 e) Ao director da EMM, nos casos do n.º 4.
 
+f) Ao director da Escola Náutica Infante D. Henrique (ENIDH), nos casos das alíneas e) e g) do n.º 1;
+
+g) Ao director da Escola de Pesca e de Marinha de Comércio (EPMC), nos casos das alíneas j) e l) do n.º 1;
+
+h) Ao director da ENIDH ou ao director da EPMC, nos casos das alíneas f), h) e i) do n.º 1, consoante se tratem, respectivamente, dos escalões de oficiais ou da mestrança e marinhagem.
+
 2 - Os exames referidos no artigo 18.º são realizados em qualquer época do ano e nos seguintes locais:
 
 a) Para o exame da alínea a), na EPP ou em qualquer capitania de porto, consoante a entidade à qual tiver sido requerido;
@@ -394,9 +394,17 @@ d) Para os exames do n.º 3, na EPP ou na EMM, consoante a categoria do marítim
 
 e) Para os exames do n.º 4, na EMM.
 
+f) Para os exames das alíneas e) e g) do n.º 1, na ENIDH;
+
+g) Para os exames das alíneas j) e l) do n.º 1, na EPMC;
+
+h) Para os exames das alíneas f), h) e i) do n.º 1, na ENIDH ou na EPMC, consoante a entidade à qual for requerido.
+
 3 - Os requerimentos referidos no n.º 1 serão entregues em qualquer capitania de porto, dirigidos à entidade competente para a realização do exame.
 
 4 - Quando os exames não sejam realizados na capitania de porto de inscrição do marítimo, o resultado deverá ser de imediato comunicado a esta capitania para efeitos de averbamento no registo e na cédula.
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 21.º — Programas dos exames
 
@@ -407,6 +415,14 @@ a) Para os exames das alíneas a) e d) do n.º 1 e os do n.º 3, por despacho do
 b) Para os exames da alínea b) do n.º 1 e para os de radiotelegrafistas práticos da classe A previstos no n.º 4, por despacho do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta da EMM;
 
 c) Para os exames da alínea c) do n.º 1, por despacho do Ministro das Obras Públicas, Transportes e Comunicações, mediante proposta da Direcção-Geral da Navegação e dos Transportes Marítimos (DGNTM).
+
+d) Para os exames das alíneas e) e g) do n.º 1, por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território, mediante proposta da ENIDH;
+
+e) Para os exames das alíneas j) e l) do n.º 1, por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território, mediante proposta da EPMC;
+
+f) Para os exames das alíneas f), h) e i) do n.º 1, por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território, mediante proposta conjunta da ENIDH e da EPMC.
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 22.º — Provas de exame
 
@@ -426,7 +442,15 @@ d) Para os exames do n.º 3, pela EPP ou pela EMM, em função da categoria do m
 
 e) Para os exames do n.º 4, pela EMM.
 
+f) Para os exames das alíneas e) e g) do n.º 1, pela ENIDH;
+
+g) Para os exames das alíneas j) e l) do n.º 1, pela EPMC;
+
+h) Para os exames das alíneas f), h) e i) do n.º 1, pela ENIDH ou pela EPMC, consoante a entidade onde o exame foi requerido.
+
 4 - A prova prática, na medida do aplicável, deverá ser efectuada numa embarcação, de preferência do mesmo tipo daquela em que o marítimo irá exercer a sua actividade.
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 23.º — Júris dos exames
 
@@ -445,6 +469,14 @@ c) Ao director-geral da Navegação e dos Transportes Marítimos, para os exames
 d) Ao director da EMM ou ao director da EPP, para os exames do n.º 3, consoante a categoria do marítimo;
 
 e) Ao director da EMM, para os exames do n.º 4.
+
+f) Ao director da ENIDH, sob proposta do conselho científico, para os exames das alíneas e) e g) do n.º 1;
+
+g) Ao director da EPMC, para os exames das alíneas j) e l) do n.º 1;
+
+h) Ao director da ENIDH, sob proposta do conselho científico, ou ao director da EPMC, para os exames das alíneas f), h) e i) do n.º 1.
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 24.º
 
@@ -494,17 +526,19 @@ b) Das embarcações de pesca, à Direcção-Geral das Pescas (DGP), com conheci
 
 4 - Como tempo de navegação apenas é contado o que for realizado no mar e aquele que, efectuado dentro de barras, rios e rias ou portos fechados, corresponda a navegação preliminar ou complementar da navegação do mar.
 
-###### Artigo 29.º — Contagem dos tirocínios
+###### Artigo 29.º — Contagem de tirocínios
 
 1 - Os tirocínios, sem prejuízo de outros requisitos legais estabelecidos para o efeito, tem por fim permitir o ingresso em categoria superior e só são contados desde que o marítimo os realize incluído no rol de tripulação ou no rol de matrícula de uma embarcação no desempenho de funções correspondentes à categoria que possui ou a categoria superior.
 
 2 - Os tirocínios para ingresso numa dada categoria esgotam-se, em quantidade e qualidade, com o acesso a esta categoria.
 
-3 - Os tirocínios realizados por marítimos nacionais em embarcações estrangeiras pertencentes a armadores nacionais ou por eles afretadas são considerados como efectuados em embarcações nacionais, desde que:
+3 - Os tirocínios realizados por marítimos nacionais em embarcações estrangeiras são considerados como efectuados em embarcações nacionais, desde que:
 
 a) O embarque tenha sido autorizado nos termos da legislação em vigor;
 
 b) O preenchimento e encaminhamento dos documentos comprovativos dos tirocínios se processe em conformidade com o disposto no presente anexo.
+
+> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), publicado em 1991-10-15.
 
 ###### Artigo 30.º — Documentos que comprovam os tirocínios
 
@@ -548,9 +582,7 @@ c) Cédula de inscrição marítima ou certidão de embarques, para as restantes
 
 1 - Os certificados que devem ser concedidos aos marítimos agrupam-se nos seguintes tipos:
 
-a) Certificados emitidos nos termos e para os efeitos da Convenção
-
-Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos (STCW);
+a) Certificados emitidos nos termos e para os efeitos da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos (STCW);
 
 b) Certificados passados nos termos do Regulamento das Radiocomunicações, anexo à Convenção Internacional de Telecomunicações (RR/CIT);
 
@@ -562,7 +594,7 @@ e) Certificados de operação e manutenção do equipamento de rádio no GMDSS.
 
 2 - A concessão dos certificados referidos no número anterior não implica a mudança de categoria.
 
-> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646) e [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956) e [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 34.º — Certificados nos termos e para os efeitos da Convenção STCW
 
@@ -576,7 +608,7 @@ c) Certificados de qualificação;
 
 d) Outros certificados.
 
-> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646) e [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956) e [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+> Alterado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
 
 ###### Artigo 35.º — Certificados de competência
 
@@ -588,23 +620,351 @@ d) Outros certificados.
 
 Os certificados de dispensa são conferidos aos marítimos que se destinem a navios abrangidos pelas normas da Convenção STCW, permitindo exercer, com carácter precário e por um período inferior a seis meses, funções superiores às correspondentes à sua categoria, desde que a sua qualificação seja considerada suficiente para garantir a segurança da navegação.
 
-###### Artigo 37.º — Certificados para a condução de embarcações salva-vidas
+###### Artigo 37.º — Certificados de qualificação
 
-1 - Os certificados para a condução de embarcações salva-vidas são concedidos aos marítimos que obtenham a aprovação no exame referido na alínea b) do n.º 1 do artigo 18.º do presente anexo.
+Os certificados de qualificação referidos na alínea c) do artigo 34.º compreendem:
 
-2 - Aos marítimos cuja formação, pela frequência de cursos das escolas da marinha de comércio, inclua os conhecimentos respeitantes ao programa do exame para a condução de embarcações salva-vidas assiste o direito a requerer o respectivo certificado com dispensa do referido exame, desde que provem possuir, pelo menos, nove meses de embarque.
+a) Certificado de qualificação para o serviço de quartos de navegação;
 
-3 - A posse do certificado referido no n.º 1, desde que satisfeitos os requisitos previstos no presente artigo, é facultada a qualquer marítimo, sendo, porém, obrigatória para todo aquele que, com mais de dois anos de embarque e de idade inferior a 40 anos, exerça a sua actividade em embarcações de comércio, rebocadores e embarcações auxiliares, com excepção das embarcações do TL, rebocadores locais e embarcações auxiliares locais, a partir de 1 de Janeiro de 1991.
+b) Certificado de qualificação para o serviço de quartos de máquinas;
 
-###### Artigo 38.º — Outros documentos oficiais
+c) Certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e de gás liquefeito);
 
-1 - Os outros documentos oficiais referidos no artigo 34.º que devem ser emitidos nos termos e para efeitos da Convenção STCW são conferidos:
+d) Certificado de qualificação para o exercício de funções de responsabilidade nos navios-tanques petroleiros, químicos ou de gás liquefeito;
 
-a) Aos marinheiros de 1.ª e 2.ª classes para o exercício das funções como marítimos da marinhagem habilitados para o serviço de quartos de navegação;
+e) Certificado de qualificação para a condução de embarcações de salvamento;
 
-b) Aos marítimos que se destinem ao exercício de funções específicas em navios-tanques petroleiros, químicos e de gás liquefeito, observados os requisitos estabelecidos.
+f) Certificado de qualificação para a condução de embarcações de salvamento rápidas;
 
-2 - Para a passagem dos documentos oficiais, as embarcações indicadas para o exercício de funções pelos marítimos referidos no número anterior são, salvo referência expressa em contrário, as embarcações de comércio, com excepção das do TL.
+g) Certificado de qualificação para o controlo das operações de combate a incêndios;
+
+h) Certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações;
+
+i) Certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações.
+
+> Alterado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-A — Certificado de qualificação para o serviço de quartos de navegação
+
+1 - O certificado de qualificação para o serviço de quartos de navegação será conferido ao marítimo que obtenha aprovação em exame.
+
+2 - Para admissão ao exame referido no número anterior o candidato deverá comprovar:
+
+a) Ter idade não inferior a 16 anos; e
+
+b) Possuir o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A; e
+
+c) Ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a seis meses; ou
+
+d) Ter obtido aprovação num curso apropriado para marinheiro e ter efectuado, nos últimos cinco anos, serviço de mar de duração não inferior a dois meses.
+
+3 - Os serviços de mar referidos no número anterior deverão ser efectuados no desempenho de funções relacionadas com o serviço de quartos de navegação, sob a supervisão do comandante, de um oficial ou de um marítimo da mestrança e marinhagem qualificado, e ser devidamente atestados, em declaração, pelo comandante da embarcação.
+
+4 - O exame referido no n.º 1 incidirá, pelo menos, sobre as matérias indicadas na tabela A-II/4 do Código STCW, segundo os métodos e critérios nela previstos.
+
+5 - Poderão ainda ser admitidos ao exame referido no n.º 1 os candidatos que não fazendo prova de ter obtido as qualificações previstas na alínea b) do n.º 2 satisfaçam as restantes condições.
+
+6 - Nos casos referidos no número anterior, o exame respectivo incidirá, para além do disposto no n.º 4, sobre as matérias indicadas nas tabelas A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4 do Código STCW, segundo os métodos e critérios nelas previstos.
+
+7 - Até 1 de Fevereiro de 2002, os certificados de marinheiro de quarto de navegação poderão ser substituídos pelos certificados previstos no presente artigo, devendo os seus titulares fazer prova de possuir:
+
+a) O certificado de aptidão física, válido; e
+
+b) A experiência ou a formação que inclua, pelo menos, as matérias exigidas para a emissão do certificado de segurança básica, indicadas no artigo 38.º-A.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-B — Certificado de qualificação para o serviço de quartos de máquinas
+
+1 - O certificado de qualificação para o serviço de quartos de máquinas será conferido ao marítimo que obtenha aprovação em exame.
+
+2 - Para admissão ao exame referido no número anterior o candidato deverá comprovar:
+
+a) Ter idade não inferior a 16 anos; e
+
+b) Possuir o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A; e
+
+c) Ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a seis meses; ou
+
+d) Ter obtido aprovação num curso apropriado para motorista e ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a dois meses.
+
+3 - Os serviços de mar referidos no número anterior deverão ser efectuados no desempenho de funções relacionadas com o serviço de quartos de máquinas, sob a supervisão de um oficial ou de um marítimo da mestrança e marinhagem qualificado, e ser devidamente atestados, em declaração, pelo comandante.
+
+4 - O exame referido no n.º 1 incidirá, pelo menos, sobre as matérias indicadas na tabela A-III/4 do Código STCW, segundo os métodos e critérios nela previstos.
+
+5 - Poderão ainda ser admitidos ao exame referido no n.º 1 os candidatos que não fazendo prova de ter obtido as qualificações previstas na alínea b) do n.º 2 satisfaçam as restantes condições.
+
+6 - Nos casos referidos no número anterior o exame respectivo incidirá, para além do disposto no n.º 4, sobre as matérias indicadas nas tabelas A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4 do Código STCW, segundo os métodos e critérios nelas previstos.
+
+7 - O certificado referido no n.º 1 poderá ser emitido até 1 de Agosto de 1998, com dispensa do exame respectivo, aos marítimos que em substituição do previsto na alínea b) do n.º 2 comprovem possuir um curso de combate a incêndios e satisfaçam as restantes condições.
+
+8 - A partir de 1 de Fevereiro de 2002, os certificados emitidos nos termos do número anterior mantêm a sua validade se o respectivo titular comprovar possuir as restantes qualificações previstas na alínea b) do n.º 2.
+
+9 - O disposto no n.º 7 não se aplica aos marítimos que iniciarem, após 1 de Agosto de 1998, os seus serviços de mar ou os seus cursos de formação.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-C — Certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e de gás liquefeito)
+
+1 - O certificado de qualificação para o exercício de funções específicas relacionadas com a carga ou o seu equipamento nos navios-tanques (petroleiros, químicos e de gás liquefeito) será conferido ao marítimo que comprove:
+
+a) Possuir um dos certificados de competência válido; ou
+
+b) Possuir o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A; e
+
+c) Ter obtido aprovação num curso de combate a incêndios; e
+
+d) Ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a três meses; ou
+
+e) Ter obtido aprovação num curso de familiarização apropriado.
+
+2 - Os serviços de mar referidos no número anterior deverão ser efectuados no desempenho de funções adequadas à aquisição dos conhecimentos das práticas operacionais seguras nos navios-tanques e ser devidamente atestados em declaração pelo comandante da embarcação.
+
+3 - O curso de familiarização referido na alínea e) do n.º 1 incluirá as matérias indicadas nos parágrafos 2 a 7 da secção A-V/1 do Código STCW.
+
+4 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para os efeitos da Convenção STCW.
+
+5 - Os certificados de qualificação para tripulantes de navios-tanques emitidos de acordo com o parágrafo 1 das regras V/1, V/2 e V/3 da Convenção STCW, na sua versão de 1978, poderão ser substituídos, até 1 de Fevereiro de 2002, pelos certificados previstos no presente artigo, devendo os seus titulares fazer prova de:
+
+a) Possuírem o certificado de aptidão física válido; e
+
+b) Terem efectuado, pelo menos, três meses de serviços de mar nos últimos cinco anos, no exercício de funções para que o certificado habilita; e
+
+c) Possuírem a experiência ou a formação que cubra, pelo menos, as matérias exigidas para a emissão do certificado de segurança básica indicadas no artigo 38.º-A.
+
+6 - Os certificados emitidos com base nas condições previstas na alínea a) do n.º 1 serão válidos por um período de cinco anos.
+
+7 - Para a renovação dos certificados os titulares devem fazer prova de:
+
+a) Possuírem o certificado de aptidão física válido; e
+
+b) Terem efectuado, pelo menos, 12 meses de serviços de mar nos últimos cinco anos, no exercício de funções para que os certificados habilitam; ou
+
+c) Terem obtido aprovação num exame ou curso aprovado; ou
+
+d) Terem efectuado, imediatamente antes de assumirem as funções para que os seus certificados habilitam, serviços de mar devidamente autorizados pela Direcção-Geral de Portos, Navegação e Transportes Marítimos e de duração não inferior a três meses, no exercício daquelas funções e na qualidade de extralotação, ou funções de oficial inferiores ao previsto nos seus certificados.
+
+8 - Os marítimos que iniciarem, até 1 de Agosto de 1998, os seus serviços de mar ou um curso que habilite à emissão do certificado referido no n.º 1 poderão ser dispensados das condições previstas na alínea b) do mesmo número.
+
+9 - A partir de 1 de Fevereiro de 2002, os certificados emitidos nos termos do número anterior mantêm a sua validade se o respectivo titular comprovar possuir as restantes qualificações previstas na alínea b) do n.º 1.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-D — Certificado de qualificação para o exercício de funções de responsabilidade nos navios-tanques petroleiros, químicos ou de gás liquefeito.
+
+1 - O certificado de qualificação para o exercício de funções de responsabilidade relacionadas com a carga nos navios-tanques petroleiros, químicos ou de gás liquefeito será conferido ao marítimo que comprove:
+
+a) Possuir o certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e de gás liquefeito), previsto no artigo 37.º-C; e
+
+b) Ter efectuado, nos últimos cinco anos, serviços de mar, de duração não inferior a 12 meses, no desempenho de funções adequadas às práticas operacionais em segurança no tipo de navio-tanque em causa; e
+
+c) Ter obtido aprovação no curso de especialização para o tipo de navio-tanque em causa.
+
+2 - O curso de especialização em navios-tanques petroleiros incluirá as matérias indicadas nos parágrafos 9 a 14 da secção A-V/1 do Código STCW.
+
+3 - O curso de especialização em navios-tanques químicos incluirá as matérias indicadas nos parágrafos 16 a 21 da secção A-V/1 do Código STCW.
+
+4 - O curso de especialização em navios-tanques de gás liquefeito incluirá as matérias indicadas nos parágrafos 23 a 34 da secção A-V/1 do Código STCW.
+
+5 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para efeitos da Convenção STCW.
+
+6 - Os certificados de qualificação para tripulantes de navios-tanques, emitidos de acordo com o parágrafo 2 das regras V/1, V/2 e V/3 da Convenção STCW, na sua versão de 1978, poderão ser substituídos, até 1 de Fevereiro de 2002, pelos certificados respectivos previstos no presente artigo, devendo os seus titulares fazer prova de:
+
+a) Possuírem o certificado de aptidão física, válido; e
+
+b) Terem efectuado, pelo menos, 12 meses de serviços de mar, nos últimos cinco anos, no exercício de funções para que o certificado habilita.
+
+7 - Os certificados referidos no n.º 1, quando sejam concedidos aos titulares de certificados de competência, serão considerados como válidos por um período de cinco anos.
+
+8 - À renovação dos certificados emitidos nos termos do número anterior aplica-se o disposto no n.º 7 do artigo 37.º-C.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-E — Certificado de qualificação para a condução de embarcações de salvamento
+
+1 - O certificado de qualificação para a condução de embarcações de salvamento será conferido ao marítimo que obtenha aprovação em exame.
+
+2 - Para admissão ao exame referido no número anterior o candidato deverá comprovar:
+
+a) Ter idade não inferior a 18 anos; e
+
+b) Possuir o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A; e
+
+c) Ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a 12 meses; ou
+
+d) Ter obtido aprovação em curso que inclua os conhecimentos respeitantes às matérias do exame e ter efectuado, nos últimos cinco anos, serviços de mar de duração não inferior a seis meses.
+
+3 - O exame incidirá, pelo menos, sobre as matérias indicadas na tabela A-VI/2-1 do Código STCW, segundo os métodos e critérios nela previstos.
+
+4 - Poderão ainda ser admitidos ao exame os candidatos que, não fazendo prova de ter obtido as qualificações previstas na alínea b) do n.º 2, satisfaçam as restantes condições.
+
+5 - Nos casos referidos no número anterior o exame respectivo incidirá, para além do disposto no n.º 3, sobre as matérias indicadas nas tabelas A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4 do Código STCW, segundo os métodos e critérios nelas previstos.
+
+6 - Não haverá lugar à emissão do certificado previsto no n.º 1 sempre que o mesmo constitua uma das condições para a emissão de outro certificado nos termos e para os efeitos da Convenção STCW.
+
+7 - Até 1 de Fevereiro de 2002, os certificados para a condução de embarcações salva-vidas poderão ser substituídos pelos certificados previstos no presente artigo, devendo os seus titulares fazer prova de:
+
+a) Possuírem o certificado de aptidão física, válido; e
+
+b) Terem efectuado, pelo menos, 12 meses de serviços de mar nos últimos cinco anos; e
+
+c) Possuírem as qualificações previstas na alínea b) do n.º 2.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-F — Certificado de qualificação para a condução de embarcações de salvamento rápidas
+
+1 - O certificado de qualificação para a condução de embarcações de salvamento rápidas será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar possuir o certificado de qualificação para a condução de embarcações de salvamento.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas na tabela A-VI/2-2 do Código STCW e uma avaliação segundo os métodos e critérios nela previstos.
+
+4 - Não haverá lugar à emissão do certificado desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para efeitos da Convenção STCW.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-G — Certificado de qualificação para o controlo das operações de combate a incêndios
+
+1 - O certificado de qualificação para o controlo das operações de combate a incêndios será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar que possui o certificado de segurança básica ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas na tabela A-VI/3 do Código STCW e uma avaliação segundo os métodos e critérios nela previstos.
+
+4 - Não haverá lugar à emissão do certificado referido no n.º 1 sempre que o mesmo constitua uma das condições para a emissão de outro certificado nos termos e para os efeitos da Convenção STCW.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-H — Certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações
+
+1 - O certificado de qualificação para ministrar os primeiros socorros a bordo das embarcações será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar que possui o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas na tabela A-VI/4-1 do Código STCW e uma avaliação segundo os métodos e critérios nela previstos.
+
+4 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo constitua uma das condições para a emissão de outro certificado nos termos e para os efeitos da Convenção STCW.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 37.º-I — Certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações
+
+1 - O certificado de qualificação para os responsáveis pelos cuidados de saúde a bordo das embarcações será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar que possui o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas na tabela A-VI/4-2 do Código STCW e uma avaliação segundo os métodos e critérios nela previstos.
+
+4 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado passado nos termos e para efeitos da Convenção STCW.
+
+5 - Até 1 de Fevereiro de 2002, os certificados em cuidados de saúde a bordo, nível III, poderão ser substituídos pelos certificados previstos no presente artigo, devendo os seus titulares fazer prova de ter efectuado, pelo menos, 12 meses de serviços de mar nos últimos cinco anos.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 38.º — Outros certificados
+
+Os outros certificados referidos na alínea d) do artigo 34.º que podem ser emitidos nos termos e para os efeitos da Convenção STCW compreendem:
+
+a) Certificado de segurança básica;
+
+b) Certificado de familiarização em navios ro-ro de passageiros;
+
+c) Certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros;
+
+d) Certificado de gestão de crises e comportamento humano.
+
+> Alterado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 38.º-A — Certificado de segurança básica
+
+1 - O certificado de segurança básica será conferido ao marítimo que obtenha aprovação no exame respectivo.
+
+2 - Para admissão ao exame referido no número anterior o candidato deverá comprovar a condição de marítimo.
+
+3 - O exame referido no n.º 1 incidirá sobre as matérias indicadas nas tabelas A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4 do Código STCW, segundo os métodos e critérios nelas previstos.
+
+4 - Aos marítimos cuja formação pela frequência de cursos inclua os conhecimentos respeitantes às matérias indicadas no número anterior assiste o direito a requerer o respectivo certificado com dispensa do referido exame.
+
+5 - O certificado referido no n.º 1 poderá ser emitido com dispensa do exame respectivo, desde que o marítimo faça prova documental de ter obtido, nos últimos cinco anos, as qualificações previstas no n.º 3.
+
+6 - Não haverá lugar à emissão do certificado referido no n.º 1 sempre que o mesmo constitua uma das condições para a emissão de um outro certificado nos termos e para os efeitos da Convenção STCW.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 38.º-B — Certificado de familiarização em navios ro-ro de passageiros
+
+1 - O certificado de familiarização em navios ro-ro de passageiros será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar:
+
+a) Possuir um dos certificados de competência, válido; ou
+
+b) Possuir o certificado de segurança básica, ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas no parágrafo 2 da secção A-V/2 do Código STCW.
+
+4 - O certificado referido no n.º 1 poderá ser emitido ao marítimo que, satisfazendo as condições previstas no n.º 2, comprove documentalmente ter obtido nos últimos cinco anos as qualificações indicadas no número anterior.
+
+5 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para os efeitos da Convenção STCW.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 38.º-C — Certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros
+
+1 - O certificado de segurança de passageiros, carga e integridade do casco em navios ro-ro de passageiros será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar:
+
+a) Possuir um dos certificados de competência, válido; ou
+
+b) Possuir o certificado de segurança básico ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas no parágrafo 4 da secção A-V/2 do Código STCW.
+
+4 - O certificado referido no n.º 1 poderá ser emitido ao marítimo que, satisfazendo as condições previstas no n.º 2, comprove documentalmente ter btido nos últimos cinco anos as qualificações indicadas no número anterior.
+
+5 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para os efeitos da Convenção STCW.
+
+6 - Os certificados referidos no n.º 1 são válidos por um período de cinco anos.
+
+7 - Para a renovação dos certificados os titulares devem fazer prova de:
+
+a) Possuírem o certificado de aptidão física, válido; e
+
+b) Terem efectuado, pelo menos, três meses de serviços de mar, no período de validade do certificado, no exercício de funções para que o mesmo habilita; ou
+
+c) Terem obtido aprovação num curso de actualização apropriado.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
+
+###### Artigo 38.º-D — Certificado de gestão de crises e comportamento humano
+
+1 - O certificado de gestão de crises e comportamento humano será conferido ao marítimo que obtenha aprovação num curso apropriado.
+
+2 - Para admissão ao curso referido no número anterior o candidato deverá comprovar:
+
+a) Possuir um dos certificados de competência, válido; ou
+
+b) Possuir o certificado de segurança básica ou equivalente, ou prova documental de ter obtido, nos últimos cinco anos, as qualificações indicadas no artigo 38.º-A.
+
+3 - O curso referido no n.º 1 incluirá as matérias indicadas no parágrafo 5 da secção A-V/2 do Código STCW.
+
+4 - O certificado referido no n.º 1 poderá ser emitido ao marítimo que, satisfazendo as condições previstas no n.º 2, comprove documentalmente ter obtido, nos últimos cinco anos, as qualificações indicadas no número anterior.
+
+5 - Não haverá lugar à emissão do certificado referido no n.º 1 desde que o mesmo seja incluído, por referência, num outro certificado emitido nos termos e para os efeitos da Convenção STCW.
+
+6 - Os certificados referidos no n.º 1 são válidos por um período de cinco anos.
+
+7 - Para a renovação dos certificados os titulares devem fazer prova de:
+
+a) Possuírem o certificado de aptidão física, válido; e
+
+b) Terem efectuado, pelo menos, três meses de serviços de mar, no período de validade do certificado, no exercício de funções para que o mesmo habilita; ou
+
+c) Terem obtido aprovação num curso de actualização apropriado.
+
+> Aditado pelo/a [Portaria n.º 388/98](https://diariodarepublica.pt/dr/detalhe/portaria/388-1998-485956), publicado em 1998-07-06.
 
 ###### Artigo 39.º — Certificados nos termos do RR/CIT
 
@@ -678,17 +1038,87 @@ a) Certificados para a condução de motores de potência inferior a 150 kW;
 
 b) Certificados de segurança e sobrevivência no mar.
 
-###### Artigo 46.º — Certificados para a condução de motores de potência igual ou inferior a 150 kW
+###### Artigo 46.º — Certificados para condução de motores de potência igual ou inferior a 150 kW
 
-1 - Sem prejuízo do disposto no n.º 3.º da [Portaria n.º 397/90](https://diariodarepublica.pt/dr/detalhe/portaria/397-1990-574920), de 26 de Maio, a condução de motores de potência igual ou inferior a 150 kW instalados em embarcações do TL ou de pesca local poderá ser cometida ao marítimo que prove, por exame, nos termos da alínea a) do n.º 1 do artigo 18.º, estar habilitado para o exercício das correspondentes funções, o qual receberá para o efeito um certificado, nos termos do n.º 3 do artigo 26.º
+1 - Sem prejuízo do disposto no n.º 3 do artigo 31.º da [Portaria n.º 251/89](https://diariodarepublica.pt/dr/detalhe/portaria/251-1989-615194), de 6 de Abril, a condução de motores de potência igual ou inferior a 150 kW instalados em embarcações de TL, de pesca local ou de pesca costeira com tonelagem de arqueação bruta até 35 tAB poderá ser cometida ao marítimo que prove, por exame, nos termos da alínea a) do n.º 1 do artigo 18.º, estar habilitado para o exercício das correspondentes funções, o qual receberá para o efeito um certificado, nos termos do n.º 3 do artigo 26.º
 
 2 - O certificado para a condução de motores de potência igual ou inferior a 150 kW deverá indicar expressamente qual o motor que o marítimo fica autorizado a conduzir.
+
+> Alterado pelo/a [Portaria n.º 1052/91](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), publicado em 1991-10-15.
 
 ###### Artigo 47.º — Certificados de segurança e sobrevivência no mar
 
 1 - O certificado de segurança e sobrevivência no mar é conferido ao indíviduo que pretenda efectuar a inscrição marítima e demonstre possuir conhecimentos das referidas matérias, mediante exame a realizar para o efeito nos termos da secção II.
 
 2 - Aos indivíduos cuja formação, pela frequência de cursos das escolas das marinhas do comércio e da pesca, inclua os conhecimentos respeitantes ao programa do exame para obtenção do certificado de segurança e sobrevivência no mar assiste o direito a requerer a passagem do certificado respectivo, com dispensa do referido exame.
+
+###### Artigo 47.º-A — Certificados de operação e manutenção do equipamento de rádio no GMDSS
+
+1 - Os certificados de operação e manutenção do equipamento de rádio no GMDSS, referidos na alínea e) do artigo 33.º, compreendem:
+
+a) Certificados de radioelectrónico de 2.ª classe no GMDSS;
+
+b) Certificados gerais de operador no GMDSS;
+
+c) Certificados de manutenção a bordo do equipamento no GMDSS;
+
+d) Certificados restritos de operador no GMDSS;
+
+e) Certificados de manutenção elementar a bordo do equipamento no GMDSS;
+
+f) Certificados de operador de rádio no GMDSS, nas áreas marítimas A1 e A2 nacionais;
+
+g) Certificados de operador de rádio no GMDSS, na área marítima A1 nacional.
+
+2 - Os certificados referidos no número anterior são conferidos aos marítimos que obtenham aprovação em exame, nos termos das alíneas respectivas do n.º 1 do artigo 18.º, ou reúnam condições para dispensa de tal exame, nos termos do número seguinte.
+
+3 - Aos marítimos cuja formação, pela frequência de cursos da ENIDH ou da EPMC, inclua os conhecimentos respeitantes ao programa dos exames para obtenção dos certificados referidos no n.º 1 assiste o direito a requererem a passagem do certificado respectivo com dispensa do referido exame.
+
+4 - Os certificados referidos no n.º 1 são válidos por cinco anos, podendo ser revalidados pela realização de novo exame, salvo se o marítimo fizer prova de ter embarcado durante, pelo menos, o total de 12 meses durante a validade do certificado, caso em que será dispensado do referido exame.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-B — Certificados de radioelectrónico de 2.ª classe no GMDSS
+
+O certificado de radioelectrónico de 2.ª classe no GMDSS confere ao marítimo que o possua direito a operar e a fazer a manutenção a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-C — Certificados gerais de operador no GMDSS
+
+O certificado geral de operador no GMDSS confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-D — Certificados de manutenção a bordo do equipamento no GMDSS
+
+O certificado de manutenção a bordo do equipamento no GMDSS confere ao marítimo que o possua direito a fazer a manutenção a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem em qualquer área marítima.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-E — Certificados restritos de operador no GMDSS
+
+O certificado restrito de operador no GMDSS confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente nas áreas marítimas A1.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-F — Certificados de manutenção elementar a bordo do equipamento no GMDSS
+
+O certificado de manutenção elementar a bordo do equipamento no GMDSS confere ao marítimo que o possua direito a fazer a manutenção elementar a bordo do equipamento de rádio das embarcações mercantes equipadas com o GMDSS, nas condições previstas no artigo 23.º do [Decreto-Lei n.º 174/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1994-305593), de 25 de Junho.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-G — Certificados de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais
+
+O certificado de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente nas áreas marítimas A1 e A2 nacionais, e desde que comuniquem apenas com estações costeiras nacionais.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
+
+###### Artigo 47.º-H — Certificados de operador de rádio no GMDSS na área marítima A1 nacional
+
+O certificado de operador de rádio no GMDSS na área marítima A1 nacional confere ao marítimo que o possua direito a operar o equipamento de rádio das embarcações mercantes equipadas com o GMDSS e que naveguem exclusivamente na área A1 nacional, e desde que comuniquem apenas com estações costeiras nacionais.
+
+> Aditado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 48.º — Modelos de certificados
 
@@ -700,11 +1130,13 @@ Os certificados e outros documentos oficiais referidos nos artigos anteriores da
 
 A emissão de certificados e outros documentos oficiais referidos na presente secção é da competência:
 
-a) Da DGNTM, no caso dos certificados previstos nas alíneas a), b) e c) do n.º 1 do artigo 33.º;
+a) Da DGPNTM, no caso dos certificados previstos nas alíneas a), b), c) e e) do n.º 1 do artigo 33.º;
 
 b) Da EPP ou das capitanias de porto onde se realize o exame, no caso dos certificados diversos referidos na alínea d) do n.º 1 do artigo 33.º;
 
 c) Das escolas das marinhas do comércio ou da pesca, no caso do certificado de segurança e sobrevivência no mar conferido com base na dispensa prevista no n.º 2 do artigo 47.º
+
+> Alterado pelo/a [Portaria n.º 417/98](https://diariodarepublica.pt/dr/detalhe/portaria/417-1998-424112), publicado em 1998-07-21.
 
 ###### Artigo 50.º — Validade dos certificados
 

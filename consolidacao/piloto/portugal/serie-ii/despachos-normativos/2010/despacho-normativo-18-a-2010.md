@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:65987220:por
     title: Despacho Normativo n.º 17/2014
     publication_date: '2014-12-26'
-  - id: pt:dre:107963533:por
-    title: Despacho Normativo n.º 7/2017
-    publication_date: '2017-08-08'
   - id: pt:dre:122132155:por
     title: Despacho Normativo n.º 12/2019
     publication_date: '2019-04-18'
@@ -58,7 +55,7 @@ c) (Revogada.)
 
 4 - Havendo crédito de imposto reportado de período anterior de valor superior a 25 % do reembolso pedido e sendo o imposto dedutível do período inferior ao reembolso pedido, devem ser submetidas, quando ainda não apresentadas, as relações referidas no n.º 1 correspondentes aos períodos, no máximo de três, cujos reportes estão a influenciar o reembolso.
 
-> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220) e [Despacho Normativo n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2017-107963533) e [Despacho Normativo n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2019-122132155), publicado em 2019-04-18.
+> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220), publicado em 2014-12-26.
 
 ###### Artigo 3.º — Requisitos de concessão do reembolso
 
@@ -76,17 +73,29 @@ e) Não constar do Anexo - Regularizações do campo 40, parte integrante da dec
 
 f) (Revogada.)
 
-> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220) e [Despacho Normativo n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2017-107963533) e [Despacho Normativo n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2019-122132155), publicado em 2019-04-18.
+> Alterado pelo/a [Despacho Normativo n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2019-122132155), publicado em 2019-04-18.
 
 ###### Artigo 4.º — Prestação de garantia
 
-A garantia prevista no n.º 7 do artigo 22.º do CIVA deve:
+1 - A garantia prevista no n.º 7 do artigo 22.º do CIVA deve:
 
-a) Ser constituída a favor da Direcção-Geral dos Impostos - Direcção de Serviços de Reembolsos - mediante fiança bancária, seguro-caução ou depósito bancário, devendo, neste último caso, o depósito ser feito em qualquer instituição legalmente autorizada, à ordem do director de serviços de Reembolsos;
+a) Ser constituída a favor da Autoridade Tributária e Aduaneira - Direção de Serviços de Reembolsos - mediante fiança bancária, seguro-caução, depósito bancário ou garantia bancária autónoma à primeira solicitação;
 
-b) Conter a identificação do autor do pedido de reembolso e a cláusula através da qual o fiador se obriga como principal pagador e renuncia ao benefício da excussão;
+b) Conter o valor e o período do reembolso a que respeita, bem como o número de identificação fiscal do requerente;
 
-c) Ser remetida, no prazo de 20 dias a contar do pedido de reembolso, à Direcção de Serviços de Reembolsos, Avenida de João XXI, apartado 8220, 76, 1802-001 Lisboa.
+c) Ser submetida pelo sujeito passivo por transmissão eletrónica de dados, através do portal das finanças da Autoridade Tributária e Aduaneira na Internet (www.portaldasfinancas.gov.pt);
+
+d) Ser confirmada eletronicamente pela entidade garante.
+
+2 - Na fiança bancária, a entidade garante obriga-se como principal pagador, renunciando ao benefício da excussão.
+
+3 - No seguro-caução, a entidade garante compromete-se a pagar a quantia garantida logo que lhe seja solicitada pela Autoridade Tributária e Aduaneira, não podendo opor quaisquer meios de defesa de que o requerente possa prevalecer-se.
+
+4 - O depósito bancário referido na alínea a) do n.º 1 deve ser efetuado em qualquer instituição de crédito legalmente autorizada, à ordem do Diretor de Serviços de Reembolsos.
+
+5 - No caso se tratar de primeiro reembolso nos termos da alínea a) do n.º 1 do artigo 9.º, deve a garantia espontânea ser prestada dentro do prazo de 20 dias a contar do pedido.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220), publicado em 2014-12-26.
 
 ###### Artigo 5.º — Suspensão do prazo de reembolso
 
@@ -100,7 +109,7 @@ b) Sempre que existem indícios de crime tributário, para cuja comprovação e 
 
 3 - Se passados quatro meses não for cumprida a obrigação a que se refere a alínea a) do número anterior, a suspensão converte-se em indeferimento do reembolso nos termos do n.º 11 do artigo 22.º do CIVA, após notificação ao sujeito passivo.
 
-> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220) e [Despacho Normativo n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2017-107963533) e [Despacho Normativo n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2019-122132155), publicado em 2019-04-18.
+> Alterado pelo/a [Despacho Normativo n.º 12/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-2019-122132155), publicado em 2019-04-18.
 
 ### CAPÍTULO II — Regime de reembolso mensal
 
@@ -110,19 +119,23 @@ Podem solicitar a inscrição no regime de reembolso mensal do IVA a que se refe
 
 ###### Artigo 7.º — Admissibilidade e renúncia ao regime
 
-1 - Após a verificação das condições de admissibilidade a que se refere o artigo 6.º, a Direcção-Geral dos Impostos notifica o sujeito passivo da decisão sobre a aceitação da inscrição no regime de reembolso mensal.
+1 - Após a verificação das condições de admissibilidade a que se refere o artigo 6.º, a Autoridade Tributária e Aduaneira notifica o sujeito passivo da decisão sobre a aceitação da inscrição no regime de reembolso mensal.
 
 2 - Sem prejuízo do disposto no n.º 15 do artigo 22.º do Código do IVA, os sujeitos passivos podem solicitar a renúncia ao regime de reembolso mensal, com produção de efeitos a partir do primeiro período de imposto seguinte à renúncia.
 
-3 - A renúncia a que se refere o número anterior é efectuada por transmissão electrónica de dados, a qual deve ser efectuada através do sítio electrónico da Direcção-Geral dos Impostos na Internet (www.portaldasfinancas.gov.pt).
+3 - A renúncia a que se refere o número anterior é efetuada por transmissão eletrónica de dados, a qual deve ser efetuada através do portal das finanças da Autoridade Tributária e Aduaneira na Internet (www.portaldasfinancas.gov.pt).
 
 4 - A renúncia ao regime de reembolso mensal determina a não admissibilidade de nova inscrição durante os três anos seguintes.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220), publicado em 2014-12-26.
 
 ###### Artigo 8.º — Reenquadramento
 
 1 - Os sujeitos passivos do regime normal de periodicidade trimestral que se inscrevam no regime de reembolso mensal ficam, à data de produção de efeitos da inscrição, enquadrados no regime de periodicidade mensal previsto na alínea a) do n.º 1 do artigo 41.º do CIVA.
 
-2 - No caso de exclusão ou renúncia ao regime de reembolso mensal, o eventual reenquadramento do sujeito passivo no regime de periodicidade trimestral previsto na alínea b) do n.º 1 do artigo 41.º do CIVA só se verifica após notificação da Direcção-Geral dos Impostos.
+2 - No caso de exclusão ou renúncia ao regime de reembolso mensal, o eventual reenquadramento do sujeito passivo no regime de periodicidade trimestral previsto na alínea b) do n.º 1 do artigo 41.º do CIVA só se verifica após notificação da Autoridade Tributária e Aduaneira.
+
+> Alterado pelo/a [Despacho Normativo n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-2014-65987220), publicado em 2014-12-26.
 
 ###### Artigo 9.º — Regime especial de reembolso mensal
 

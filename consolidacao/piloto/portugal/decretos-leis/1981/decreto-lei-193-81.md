@@ -88,6 +88,12 @@ As unidades auxiliares poderão entrar e sair livremente dos portos e fundear ou
 
 A regulamentação da matéria contida neste diploma será feita por portaria do Chefe do Estado-Maior da Armada.
 
+###### Artigo 12.º
+
+Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.
+
+> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.
+
 Visto e aprovado em Conselho da Revolução em 12 de Junho de 1981.
 
 Promulgado em 23 de Junho de 1981.
@@ -95,9 +101,3 @@ Promulgado em 23 de Junho de 1981.
 Publique-se.
 
 O Presidente da República, ANTÓNIO RAMALHO EANES.
-
-###### Artigo 12.º
-
-Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.
-
-> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.

@@ -1,0 +1,55 @@
+{
+  "id": "pt:dre:430025:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": null,
+      "texto": "1 - O Instituto Politécnico de Coimbra agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Escola Superior Agrária.\n\n2 - A Escola Superior Agrária a que se refere o número anterior resultará da reconversão da Escola de Regentes Agrícolas de Coimbra.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": null,
+      "texto": "O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.\n\n2 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": null,
+      "texto": "1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": null,
+      "texto": "1 - São criadas:\n\na) (Revogada.)\n\nb) A Escola Superior de Tecnologia de Tomar.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": null,
+      "texto": "A concretização da reconversão das escolas de regentes agrícolas prevista neste diploma far-se-á por decreto-lei.",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": null,
+      "texto": "É revogada toda a legislação em contrário, nomeadamente:\n\na) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Decreto-Lei n.º 241/92 (alterador 4), art. 1.º: extingue o Instituto Politécnico de Faro, mas não altera nem revoga expressamente os arts. 5.º, alínea e), e 10.º; é uma revogação tácita e não textual, por isso não se aplicou. Decretos-Leis n.os 373/88 e 304/94 (alteradores 3 e 5): reorganizam escolas e institutos por normas autónomas, sem instrução textual dirigida ao original.",
+  "instrucoes": [
+    "Alt. 1 (Lei 29/80) art. 1.º: nova redação do n.º 2 do art. 9.º e do art. 20.º; aplicadas.",
+    "Alt. 1 art. 2.º: revoga as alíneas b) e c) do n.º 1 do art. 9.º; as alíneas b) e c) do n.º 1 e o n.º 2 dos arts. 11.º e 12.º; a alínea a) do n.º 1 e o n.º 2 do art. 17.º; e as alíneas b) e c) do art. 23.º; assinaladas como revogadas.",
+    "Alt. 2 (DL 333/88): nova redação do corpo do art. 11.º ('é composto') e da alínea e) (Escola Superior de Comunicação Social); nas alíneas a) a d), o '...' mantém o texto atual, com b) e c) já revogadas.",
+    "Alt. 3 (DL 373/88): normas autónomas sobre a Universidade do Algarve e o IP de Faro; sem alteração textual.",
+    "Alt. 4 (DL 241/92): extinção do IP de Faro; não textual (ver nao_aplicavel).",
+    "Alt. 5 (DL 304/94): cria institutos e escolas; sem alteração textual do original.",
+    "Alt. 6 (DL 175/2004) art. 13.º, n.º 1: revoga a alínea d) do n.º 1 dos arts. 11.º e 12.º; aplicado. As outras revogações (DL 46/85, DL 99/2001) não são do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

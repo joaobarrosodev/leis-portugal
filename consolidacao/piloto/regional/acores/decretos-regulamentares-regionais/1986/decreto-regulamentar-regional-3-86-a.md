@@ -7,15 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:332945:por
-    title: Decreto Regulamentar Regional n.º 6/90/A
-    publication_date: '1990-02-24'
-  - id: pt:dre:383448:por
-    title: Decreto Regulamentar Regional n.º 9/97/A
-    publication_date: '1997-05-08'
   - id: pt:dre:176359:por
     title: Decreto Regulamentar Regional n.º 8/98/A
     publication_date: '1998-04-27'
+  - id: pt:dre:332945:por
+    title: Decreto Regulamentar Regional n.º 6/90/A
+    publication_date: '1990-02-24'
 ---
 
 # Decreto Regulamentar Regional n.º 3/86/A
@@ -214,11 +211,15 @@ Serviço de prestação de cuidados de saúde.
 
 ###### Artigo 18.º — (Composição)
 
-1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional dos Assuntos Sociais, por um período de três anos, renovável.
+1 - O conselho de administração é composto por três elementos, nomeados, em comissão de serviço, por despacho do Secretário Regional da Saúde e Segurança Social, sob proposta do director regional de Saúde.
 
 2 - A presidência do conselho de administração é confiada a um médico, a quem é conferida a designação de director do centro de saúde.
 
-3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre profissionais de preferência com a categoria de chefe de secção, de repartição ou das carreiras de pessoal técnico, técnico superior ou ainda de gerente de centro de saúde dos quadros da administração regional, e um vogal enfermeiro dos mesmos quadros.
+3 - Os restantes membros do conselho de administração são um vogal administrativo, nomeado de entre indivíduos vinculados ou não à Administração Pública, de preferência com licenciatura adequada, designadamente na área da gestão, e um vogal enfermeiro, nomeado de entre profissionais integrados na carreira de enfermagem.
+
+4 - A duração e a cessação da comissão de serviço obedecem ao disposto nos artigo 5.º e 7.º, nomeadamente no seu n.º 2, alínea a), do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27.
 
 ###### Artigo 19.º — (Atribuições)
 
@@ -616,15 +617,17 @@ d) Assegurar o internamento pré e pós-intervenção hospitalar, de modo a libe
 
 ##### SUBSECÇÃO III — Atendimento permanente
 
-###### Artigo 37.º — (Caracterização e competências)
+###### Artigo 37.º — Caracterização e competência
 
 1 - O sector de atendimento permanente destina-se a corresponder às solicitações dos utentes em situação de urgência que ali acorram, por iniciativa própria ou por recomendação médica, e a caracterizar as situações que tenham de ser encaminhadas para estabelecimentos prestadores de cuidados hospitalares.
 
-2 - O atendimento permanente poderá ser garantido no regime de presença física ou no regime de alerta, de acordo com o número de utentes abrangidos pelo centro de saúde e os meios humanos disponíveis.
+2 - O atendimento permanente poderá ser garantido no regime de presença física ou no regime de prevenção previsto no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, de acordo com o número de utentes abrangidos pelo centro de saúde e os meios humanos disponíveis.
 
 3 - Os profissionais do centro de saúde, quando em actividade de atendimento permanente, assegurarão a resposta à urgência interna, dando o indispensável apoio à unidade de internamento.
 
 4 - Quando o atendimento permanente é assegurado na modalidade de presença física, os profissionais de serviço, nomeadamente o pessoal médico, desenvolverão outras actividades a nível do ambulatório ou do internamento.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.
 
 ##### SUBSECÇÃO IV — Acção social
 
@@ -862,11 +865,11 @@ Sempre que a dimensão do centro de saúde e as necessidades de serviço o justi
 
 3 - Verificada a situação referida no número anterior, a realização de trabalho extraordinário reveste carácter de obrigatoriedade para os profissionais envolvidos.
 
-###### Artigo 60.º — Regime de alerta
+###### Artigo 60.º — (Regime de alerta)
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945) e [Decreto Regulamentar Regional n.º 9/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1997-383448) e [Decreto Regulamentar Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1998-176359), publicado em 1998-04-27.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.
 
 ###### Artigo 61.º — (Descanso semanal)
 
@@ -874,9 +877,11 @@ A prestação de trabalho por profissionais do centro de saúde nos dias do resp
 
 #### SECÇÃO III — Condições especiais de remuneração
 
-###### Artigo 62.º — (Remuneração de cargos)
+###### Artigo 62.º — Remuneração dos cargos
 
-As remunerações dos membros dos conselhos de administração são as estabelecidas no decreto regulamentar regional a que se refere o n.º 1 do artigo 52.º
+As condições de trabalho e as remunerações dos membros dos conselhos de administração serão estabelecidas por despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e Planeamento e da Saúde e Segurança Social.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.
 
 ###### Artigo 63.º — (Remuneração de trabalho nocturno)
 
@@ -908,23 +913,9 @@ O domicílio necessário dos funcionários e agentes em actividade nos centros d
 
 ###### Artigo 67.º — (Remuneração do regime de alerta)
 
-1 - Ao pessoal em serviço de atendimento permanente, em regime de alerta, é atribuído um acréscimo sobre o respectivo vencimento base calculado de acordo com a seguinte fórmula:
+(Revogado.)
 
-Acréscimo = (VB x 60%)/30 x n + (Z x 175R)
-
-VB - Vencimento base.
-
-n - Número de dias em regime de alerta.
-
-Z - Número de chamadas com deslocação.
-
-100R - Custo da hora normal de trabalho.
-
-2 - Se, na sequência da chamada, o profissional vier a desenvolver actividade por período superior a 2 horas, será remunerado pelo trabalho extraordinário realizado nos termos das disposições deste diploma.
-
-3 - A remuneração prevista nos números anteriores não pode ultrapassar o valor do vencimento base.
-
-4 - Ao pessoal em regime de alerta não é devida qualquer compensação pela utilização de transportes quando chamado ao centro de saúde.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24.
 
 ###### Artigo 68.º — (Remuneração do regime de tarefa)
 

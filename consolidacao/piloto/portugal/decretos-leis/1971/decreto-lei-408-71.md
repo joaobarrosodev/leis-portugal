@@ -7,15 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:675654:por
-    title: Decreto-Lei n.º 146/73
-    publication_date: '1973-04-04'
-  - id: pt:dre:307602:por
-    title: Decreto-Lei n.º 489/75
-    publication_date: '1975-09-05'
-  - id: pt:dre:434579:por
-    title: Decreto n.º 69/78
-    publication_date: '1978-07-15'
   - id: pt:dre:231305:por
     title: Decreto-Lei n.º 534/79
     publication_date: '1979-12-31'
@@ -309,7 +300,9 @@ b) A Direcção-Geral da Educação Física e Desportos e o Fundo de Fomento do 
 
 c) O Instituto de Acção Social Escolar.
 
-> Alterado pelo/a [Decreto-Lei n.º 146/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1973-675654) e [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602) e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579) e [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.
+A) Órgãos de concepção, coordenação e apoio
+
+> Alterado pelo/a [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.
 
 ###### Artigo 5.º
 
@@ -443,7 +436,7 @@ c) Proceder à orientação pedagógica do ensino básico e da educação pré-e
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 146/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1973-675654) e [Decreto-Lei n.º 489/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1975-307602) e [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579) e [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.
+> Revogado pelo/a [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), publicado em 1979-12-31.
 
 ###### Artigo 18.º
 
