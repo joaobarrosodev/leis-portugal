@@ -440,7 +440,7 @@ Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027
 
 ## Pedido completo ao LLM (`llm_completo.py`)
 
-**Problema.** Nas rondas 7 a 9 só 8 a 34% dos diplomas juntados com o LLM passaram às cegas (8/99, 16/73, 21/61). A causa mais comum em 87 recusados das rondas 8 e 9: 62 só por "instruções em falta", 12 por isso e por artigos errados. As instruções em falta visavam artigos que ficaram iguais ao original porque o pedido de `llm.py` só leva os artigos que as instruções por aplicar nomeiam. Quase sempre são diplomas com vários alteradores em que um (ou mais) nunca foi lido por inteiro.
+**Problema.** Nas rondas 7 a 9 só 8 a 34% dos diplomas juntados com o LLM passaram às cegas (8/99, 16/73, 21/61). A causa mais comum em 97 recusados das rondas 8 e 9: 62 só por "instruções em falta", 12 por isso e por artigos errados. As instruções em falta visavam artigos que ficaram iguais ao original porque o pedido de `llm.py` só leva os artigos que as instruções por aplicar nomeiam. Quase sempre são diplomas com vários alteradores em que um (ou mais) nunca foi lido por inteiro.
 
 **Pedido novo.** Para cada diploma: o texto atual do original, artigo a artigo (com o que as regras aplicaram, assinalado), o texto de todos os alteradores por ordem de aplicação, e a ordem de ler todas as instruções dirigidas ao original e devolver os artigos que ainda faltam mudar, com o alterador de cada um. A verificação letra a letra aceita agora um parágrafo renumerado ("1 - …"). A resposta junta-se sobre o consolidado das regras sem recusar os artigos que elas já tinham tocado (o LLM viu a redação delas).
 
