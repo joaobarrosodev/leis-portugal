@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:686226:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8b98f3cf374f22bb",
+    "adc6e9684dfa9f64"
+   ]
+  },
+  {
+   "date": "1975-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:336682:por",
+     "title": "Decreto-Lei n.º 384/75",
+     "published": "1975-07-22",
+     "dre_path": "/dr/detalhe/decreto-lei/384-1975-336682"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "022ef3bb5c8f81c4",
+    "6634659347048b74",
+    "e91e3aefbac9dc19",
+    "adc6e9684dfa9f64"
+   ]
+  }
+ ],
+ "fragments": {
+  "8b98f3cf374f22bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.º 162/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1972-681217), de 15 de Maio, tem direito aos vencimentos das categorias do mapa I anexo ao presente diploma.\n\n2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.\n\n3. O pessoal colocado na ilha de Santa Maria terá ainda direito a um subsídio de residência de um terço das respectivas remunerações certas e a um subsídio diário para alimentação a fixar anualmente por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\nArt. 2.º - 1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.\n\n2. As habilitações mínimas podem ser substituídas por habilitações adequadas aos cargos adquiridas nos estabelecimentos militares de ensino, conforme constar das referidas condições de admissão.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 3 de Novembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "adc6e9684dfa9f64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — MAPA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — MAPA I\n\n(A que se refere o artigo 1.º do presente decreto-lei)\n\nQuadro do pessoal da Comissão Executiva do Polígono de Acústica Submarina dos Açores\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/26200/16211622.pdf)\n\nO Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias."
+  },
+  "022ef3bb5c8f81c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Novembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "6634659347048b74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 384/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1975-336682), publicado em 1975-07-22."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - (Revogado.)\n\n2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.\n\n3. O pessoal colocado na ilha de Santa Maria terá ainda direito a um subsídio de residência de um terço das respectivas remunerações certas e a um subsídio diário para alimentação a fixar anualmente por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 384/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1975-336682), publicado em 1975-07-22."
+  },
+  "e91e3aefbac9dc19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.\n\n2. As habilitações mínimas podem ser substituídas por habilitações adequadas aos cargos adquiridas nos estabelecimentos militares de ensino, conforme constar das referidas condições de admissão.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 3 de Novembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

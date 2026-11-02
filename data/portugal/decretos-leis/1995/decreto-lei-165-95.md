@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-03'
+version_history:
+  file: decreto-lei-165-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-03'
+    amending: pt:dre:626376:por
+    amending_title: Lei n.º 4/96
+    changes:
+    - Revoga Artigo 106.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/165/1995/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:37:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 4/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-165-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,11 +148,9 @@ Artigo 1.º É aditado ao Código de Processo Tributário, aprovado pelo [Decret
 
 ###### Artigo 106.º-A — Celebração do contrato de sociedade
 
-1 - O notário que celebrar a escritura de contrato de constituição de sociedade exigirá, como condição prévia, a apresentação de uma declaração assinada pelos sócios da sociedade a constituir, da qual conste que não exerceram anteriormente funções de administração ou gerência em sociedades que tenham dívidas fiscais por cumprir não reclamadas nem impugnadas.
+(Revogado.)
 
-2 - Se tiver havido exercício anterior de funções de administração ou gerência, o sócio identificará a sociedade que pretende constituir e as sociedades em que anteriormente desempenhou essas funções.
-
-Art. 2.º O artigo 121.º do Código de Processo Tributário passa a ter a seguinte redacção:
+> Revogado pelo/a [Lei n.º 4/96](https://diariodarepublica.pt/dr/detalhe/lei/4-1996-626376), publicado em 1996-02-27.
 
 ###### Artigo 121.º — Dúvida sobre o facto tributário
 

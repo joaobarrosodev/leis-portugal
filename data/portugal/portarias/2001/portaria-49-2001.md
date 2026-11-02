@@ -40,10 +40,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-08'
+version_history:
+  file: portaria-49-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-08'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001; Portaria n.º 978/2004
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::16.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::19.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::20.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::22.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::23.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::24.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::26.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::29.º
+    - Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::32.º
+    - Revoga Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::25.º
+    - Adita Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::33.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/49/2001/01/26/p/dre/pt/html
@@ -69,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:32:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001; Portaria
+    n.º 978/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-49-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,7 +299,9 @@ Os beneficiários ficam obrigados, nomeadamente, a cumprir o plano de acção ap
 
 1 - A execução material dos projectos deve iniciar-se no prazo máximo de seis meses a contar da data da celebração do contrato de atribuição de ajuda e estar concluída no prazo máximo nele indicado.
 
-2 - O IFADAP poderá, em casos excepcionais e devidamente justificados, conceder a prorrogação dos prazos estabelecidos no número anterior.
+2 - O coordenador da medida AGRIS pode, em casos excepcionais e devidamente justificados, conceder a prorrogação dos prazos estabelecidos no número anterior.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 17.º — Pagamento das ajudas
 
@@ -294,7 +321,7 @@ O regime de apoios previsto neste capítulo tem por objectivo promover e apoiar 
 
 ###### Artigo 19.º — Beneficiários
 
-1 - Podem beneficiar das ajudas previstas neste capítulo as seguintes entidades:
+1 - Podem beneficiar das ajudas previstas neste capítulo, individualmente ou em parceria, as entidades com sede ou actividade no território abrangido pelo Programa Operacional Regional a seguir indicadas:
 
 a) Cooperativas e associações de agricultores de 1.º grau;
 
@@ -308,15 +335,21 @@ e) Pequenas empresas de serviços agrícolas de âmbito local.
 
 2 - O processo de reconhecimento referido na alínea d) do número anterior é estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
+3 - No caso da apresentação de candidaturas em parceria, deverá ser designada a entidade administrativa e financeiramente responsável pela execução do projecto.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
+
 ###### Artigo 20.º — Serviços apoiados
 
-Podem ser concedidas ajudas a projectos que visem a prestação de serviços especializados que se enquadrem nos seguintes domínios:
+Podem ser apoiados os serviços especializados prestados no quadro de um contrato de prestação de serviços que se enquadrem nos seguintes domínios:
 
-a) Aconselhamento e acompanhamento técnico na área agrícola e da diversificação de actividades na exploração agrícola;
+a) Aconselhamento e acompanhamento técnico especializado, designadamente nas áreas agrícola e pecuária, do bem-estar animal, da diversificação de actividades na exploração agrícola e da protecção ambiental;
 
-b) Assistência e apoio técnico no âmbito da qualidade e respectiva certificação e do emparcelamento e estruturação fundiária;
+b) Assistência e apoio técnico no âmbito da qualidade e respectiva certificação, da saúde pública, do emparcelamento e da estruturação fundiária;
 
-c) Difusão de informação técnica e divulgação de novas tecnologias, de âmbito e aplicabilidade local ou regional.
+c) Difusão de informação técnica, designadamente no âmbito da divulgação de novas tecnologias, de âmbito e aplicabilidade local ou regional, da diversificação de actividades, da protecção ambiental e paisagística, da organização e segurança no trabalho e das normas do bem-estar animal.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 21.º — Serviços não apoiados
 
@@ -324,7 +357,7 @@ São excluídos do presente regime de ajudas os serviços directamente associado
 
 ###### Artigo 22.º — Condições de acesso
 
-1 - Os beneficiários têm de, para além de outras condições particulares estabelecidas no convite público à apresentação de candidatura, reunir as seguintes condições:
+1 - Os beneficiários devem reunir as seguintes condições:
 
 a) Estar legalmente constituídos;
 
@@ -334,11 +367,21 @@ c) Utilizar um sistema de contabilidade adequada, com centros de custo para a ac
 
 d) Comprometer-se a prestar serviços a todos os interessados, atentos os objectivos estabelecidos.
 
-2 - As candidaturas devem reunir as seguintes condições:
+2 - As candidaturas devem apresentar um programa de acção com a duração máxima de dois anos, do qual deverão constar:
 
-a) Obedecer às especificações constantes do convite público para apresentação de candidatura, integrando, nomeadamente, um programa de trabalhos fundamentado, detalhado e reportado ao período de duração do projecto;
+a) Descrição detalhada das acções a desenvolver e respectivos objectivos a atingir;
 
-b) Integrar um orçamento previsional e respectiva justificação.
+b) Público-alvo, com identificação e quantificação dos potenciais utilizadores dos serviços, explicitando os pressupostos que estão na base da quantificação;
+
+c) Área geográfica de intervenção, identificando as unidades territoriais destinatárias das acções;
+
+d) Meios a utilizar, identificando as formas e metodologias de intervenção a utilizar;
+
+e) Custo estimado por acção e por rubrica de despesa e, se for caso disso, montante a cobrar aos utilizadores individuais e outras receitas associadas à prestação de serviços;
+
+f) Cronograma com a sequência e calendarização das acções a executar, considerando o período temporal da prestação de serviços.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 23.º — Despesas elegíveis
 
@@ -346,7 +389,13 @@ b) Integrar um orçamento previsional e respectiva justificação.
 
 2 - Consideram-se despesas imputáveis directamente à prestação de serviços aquelas que estão directamente associadas à prestação de serviços e que não ocorreriam para o beneficiário se os serviços não fossem prestados.
 
-3 - A elegibilidade das despesas é reportada à data da sua efectiva concretização e não às datas de referência contabilística.
+3 - São elegíveis as despesas com a adjudicação de serviços a outras entidades, não podendo, no entanto, este valor ser superior a 50% do montante total envolvido na candidatura, e não sendo admitida a subcontratação pela outra entidade.
+
+4 - Nos casos referidos no número anterior, a responsabilidade dos trabalhos será sempre do beneficiário.
+
+5 - A elegibilidade das despesas é reportada à data da sua efectiva concretização e não às datas de referência contabilística.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 24.º — Forma, valor e limite das ajudas
 
@@ -354,67 +403,23 @@ b) Integrar um orçamento previsional e respectiva justificação.
 
 2 - No caso de serviços prestados por cooperativas e associações de agricultores, a taxa será majorada em 10 pontos percentuais.
 
-3 - O montante máximo elegível, para efeitos de ajuda por entidade prestadora de serviços, será definido no convite público, sem prejuízo do número seguinte.
+3 - Sem prejuízo do disposto no número seguinte, o limite das ajudas é de (euro) 50000 e (euro) 100000 por ano e por candidatura, respectivamente no caso das candidaturas individuais e das candidaturas apresentadas em regime de parceria.
 
 4 - As ajudas concedidas ao abrigo deste regime de ajudas não podem exceder o limite de 250000 euros por beneficiário.
 
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
+
 ###### Artigo 25.º — Processo de candidatura
 
-1 - O processo de candidatura inicia-se com a divulgação de convite público para apresentação de candidaturas.
+(Revogado.)
 
-2 - Anualmente, e por proposta das direcções regionais de agricultura, após audição da Direcção-Geral de Desenvolvimento Rural, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas aprovará, através de despacho, um plano anual regionalizado de convites públicos enquadráveis neste regime de apoios, tendo em consideração as dotações orçamentais.
-
-3 - Cada convite público definirá o período, anual ou plurianual, sobre o qual deverão incidir as propostas.
-
-4 - O convite público será divulgado através do Diário da República, das páginas Internet do MADRP e publicado em órgãos da imprensa nacional e regional.
-
-5 - O convite público incluirá as seguintes informações:
-
-a) Entidade responsável e respectivo endereço;
-
-b) Enquadramento legislativo;
-
-c) Objecto do convite e descrição dos serviços a prestar;
-
-d) Âmbito temporal e geográfico para a prestação dos serviços;
-
-e) Identificação do local de consulta do caderno de encargos e de aquisição dos formulários;
-
-f) Identificação do local de entrega das candidaturas e prazos;
-
-g) Forma de obtenção de esclarecimentos ao convite e ao caderno de encargos.
-
-6 - Do formulário de candidatura faz parte integrante o caderno de encargos, do qual constam, nomeadamente:
-
-a) Requisitos de admissão das candidaturas;
-
-b) Elementos das candidaturas e documentos que as acompanham;
-
-c) Modo de apresentação das candidaturas;
-
-d) Local e data limite para apresentação das candidaturas;
-
-e) Especificação dos critérios a utilizar para efeitos de classificação e hierarquização das candidaturas e para decisão;
-
-f) Acesso à informação e à propriedade dos produtos produzidos;
-
-g) Condições respeitantes à elaboração do orçamento previsional e respectiva justificação, à prestação de contas a às modalidades de pagamento;
-
-h) Detalhes técnicos do serviço a prestar e das condições da sua prestação;
-
-i) Período em que devem ser prestados os serviços;
-
-j) Montante total de custos elegíveis relativos à prestação dos serviços e percentagem de comparticipação pública;
-
-k) Quantidade de acções a realizar e ou do número de agricultores a atingir;
-
-l) As despesas elegíveis, respectivos custos máximos e estrutura de custos de cada acção a realizar.
-
-7 - A minuta do caderno de encargos é objecto de homologação pelo Ministro da Agricultura, do Desenvolvimento Rural a das Pescas.
+> Revogado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 26.º — Apresentação das candidaturas
 
-As candidaturas são apresentadas nos prazos e locais definidos em cada convite público.
+As candidaturas são entregues nas direcções regionais de agricultura ao longo de todo o ano, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 27.º — Análise das candidaturas
 
@@ -428,13 +433,11 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do artigo 29.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
 
-2 - As candidaturas devem ser objecto de análise e decisão nos prazos fixados pelo convite público.
+2 - São recusadas as candidaturas que não reúnam as condições estabelecidas no capítulo III deste Regulamento.
 
-3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e no convite público.
+3 - As candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no número seguinte e aprovadas conforme a dotação orçamental.
 
-4 - As demais candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no caderno de encargos.
-
-5 - Para efeitos de fixação dos critérios referidos no número anterior, serão considerados, entre outros, os seguintes aspectos:
+4 - Para efeitos de fixação dos critérios referidos no número anterior, serão considerados os seguintes aspectos:
 
 a) A natureza do promotor, discriminando positivamente as organizações de agricultores;
 
@@ -442,7 +445,15 @@ b) Qualidade e sustentabilidade do programa de trabalhos, nomeadamente no âmbit
 
 c) Grau de cobertura da área geográfica de actuação;
 
-d) Articulação com outras medidas e instrumentos de política.
+d) Articulação com outras medidas e instrumentos de política;
+
+e) Domínios considerados prioritários regionalmente.
+
+5 - A ponderação dos critérios de prioridade será estabelecida pelo coordenador regional da medida AGRIS.
+
+6 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ###### Artigo 30.º — Contrato de atribuição de ajudas
 
@@ -456,13 +467,29 @@ Os beneficiários ficam obrigados a prestar os serviços a todos os interessados
 
 ###### Artigo 32.º — Pagamento das ajudas
 
-1 - Sem prejuízo do disposto nos números seguintes, os pagamentos serão efectuados em, no máximo, seis prestações anuais, de acordo com as modalidades especificadas no caderno de encargos, com base nas acções efectivamente realizadas, havendo consequentemente lugar à identificação e comprovação do serviço prestado e dos respectivos custos.
+1 - Sem prejuízo do disposto nos números seguintes, os pagamentos serão efectuados em até seis prestações anuais, com base nas acções efectivamente realizadas, mediante a identificação e comprovação do serviço prestado e dos respectivos custos.
 
-2 - O pagamento da última prestação será efectuado no prazo de 60 dias após a recepção e a aprovação de um relatório final de execução e de contas, conforme especificado no caderno de encargos.
+2 - O pagamento da última prestação será efectuado no prazo de 60 dias após a recepção e a aprovação de um relatório final de execução e de contas.
 
-3 - Poderá haver lugar ao pagamento de um adiantamento em conformidade com o disposto no caderno de encargos, mas que em caso algum poderá ser superior a 25% da ajuda aprovada.
+3 - Nenhum adiantamento pode ser superior a 25% da ajuda aprovada.
 
 4 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos do contrato.
+
+> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
+
+###### Artigo 33.º — Execução do projecto
+
+1 - A execução do projecto deverá iniciar-se no prazo máximo de três meses a contar da data de assinatura do contrato de atribuição das ajudas, ou mediante apresentação de novo cronograma de actividades, caso o inicial tenha sido alterado.
+
+2 - A data de início de execução do projecto deve ser comunicada à respectiva DRA.
+
+3 - A execução financeira do projecto de prestação de serviços no seu 1.º ano de implemenação não poderá ser inferior a 30% do custo total aprovado para esse ano.
+
+4 - Sem prejuízo das demais cláusulas contratuais, quando a execução se situe abaixo deste limite, o custo total aprovado para a candidatura será reduzido no montante equivalente ao não executado.
+
+5 - No final do 1.º ano de execução deverá ser apresentado um relatório geral de progresso, sujeito a ratificação pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, da qual depende a concessão de apoios à conclusão do projecto.
+
+> Aditado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.
 
 ## ANEXO — Tabela a que se refere o n.º 1 do artigo 24.º
 

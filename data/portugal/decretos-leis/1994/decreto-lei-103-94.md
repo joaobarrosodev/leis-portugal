@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-23'
+version_history:
+  file: decreto-lei-103-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-23'
+    amending: pt:dre:477288:por
+    amending_title: Lei n.º 10-B/96
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/103/1994/04/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:30:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 10-B/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-103-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +182,9 @@ A base de incidência das contribuições relativas aos membros dos órgãos est
 
 ###### Artigo 5.º — Taxa contributiva
 
-O cálculo das contribuições devidas em função das pessoas abrangidas por este diploma e pelo [Decreto-Lei n.º 327/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1993-653123), de 25 de Setembro, e tendo em atenção os princípios estabelecidos no [Decreto-Lei n.º 326/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1993-653121), de 25 de Setembro, é efectuado pela aplicação, à base de incidência estabelecida, da taxa de 32%, correspondendo 22% às entidades contribuintes e 10% aos beneficiários.
+O cálculo das contribuições devidas em função das pessoas abrangidas por este diploma e pelo Decreto-Lei n.º 327/93, de 25 de Setembro, é efectuado pela aplicação, à base de incidência estabelecida, da taxa de 31,25%, correspondendo 21,25% às entidades contribuintes e 10% aos beneficiários.
+
+> Alterado pelo/a [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), publicado em 1996-03-23.
 
 ###### Artigo 6.º — Nova redacção
 

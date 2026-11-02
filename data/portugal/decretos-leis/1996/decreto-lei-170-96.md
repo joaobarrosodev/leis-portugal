@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-22'
+version_history:
+  file: decreto-lei-170-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-22'
+    amending: pt:dre:656107:por
+    amending_title: Lei n.º 37/2003
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/170/1996/09/19/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:44:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 37/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-170-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,9 +182,11 @@ Compete a cada universidade, pelo órgão e nos demais termos constantes dos res
 
 a) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;
 
-b) Definir o regime de prescrições a praticar relativamente ao direito à matrícula e inscrição nos cursos nela ministrados;
+b) (Revogada.)
 
 c) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício.
+
+> Alterado pelo/a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), publicado em 2003-08-22.
 
 ###### Artigo 2.º — Normas revogatórias
 

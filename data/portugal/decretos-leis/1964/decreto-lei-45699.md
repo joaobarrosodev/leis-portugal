@@ -31,10 +31,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-06-19'
+version_history:
+  file: decreto-lei-45699.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-06-19'
+    amending: pt:dre:335736:por
+    amending_title: Decreto-Lei n.º 298/75
+    changes:
+    - Revoga Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:49:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 298/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45699.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,15 +121,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É fixado em 30000$00, para todos os tribunais do trabalho, o valor previsto no corpo dos artigos 7.º e 23.º do estatuto aprovado pelo [Decreto-Lei n.º 41745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41745-1958-352516), de 21 de Julho de 1958.
+###### Artigo 1.º
 
-Art. 2.º - 1. Os juízes dos tribunais de Angra do Heroísmo e da Horta só têm competência para julgar as acções cíveis de valor até 10000$00, observando-se, nas de valor superior, o disposto no n.º 2 do artigo 16.º do Código de Processo do Trabalho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 298/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1975-335736), publicado em 1975-06-19.
+
+###### Artigo 2.º
+
+1 - (Revogado.)
 
 2. O conhecimento dos processos de natureza penal é da competência do Tribunal do Trabalho de Ponta Delgada.
 
 3. Nas acções cíveis da competência destes tribunais não se observará o disposto no artigo 179.º daquele código.
 
-Art. 3.º É revogado o § único do artigo 6.º do referido estatuto.
+> Alterado pelo/a [Decreto-Lei n.º 298/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1975-335736), publicado em 1975-06-19.
+
+###### Artigo 3.º
+
+É revogado o § único do artigo 6.º do referido estatuto.
 
 Publique-se e cumpra-se como nele se contém.
 

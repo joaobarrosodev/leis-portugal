@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-30'
+version_history:
+  file: decreto-lei-380-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-30'
+    amending: pt:dre:370049:por
+    amending_title: Decreto-Lei n.º 353/79
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:27:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 353/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-380-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,9 +127,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados.
+###### Artigo 1.º
 
-Art. 2.º - 1. Compete às assessorias jurídicas das Universidades:
+É criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados.
+
+###### Artigo 2.º
+
+1. Compete às assessorias jurídicas das Universidades:
 
 a) A elaboração dos estudos e pareceres de natureza jurídica relativos à gestão das respectivas instituições;
 
@@ -124,19 +143,27 @@ c) O desempenho de outras funções de natureza jurídica de interesse geral da 
 
 2. A realização por cada assessoria jurídica de qualquer das actividades referidas no número anterior depende de determinação do reitor da Universidade ou do seu substituto legal.
 
-Art. 3.º - 1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.
+###### Artigo 3.º
+
+1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.
 
 2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.
 
 3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.
 
-4. Ao assessor encarregado de dirigir e coordenar, sob a orientação do reitor, a actividade da assessoria de cada Universidade será atribuída a gratificação mensal de 1500$00.
+4 - (Revogado.)
 
-Art. 4.º - 1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.
+> Alterado pelo/a [Decreto-Lei n.º 353/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1979-370049), publicado em 1979-08-30.
+
+###### Artigo 4.º
+
+1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.
 
 2. Os encargos resultantes da promulgação deste diploma serão, no ano corrente, satisfeitos pelas disponibilidades das verbas inscritas para pessoal nos orçamentos das Universidades.
 
-Art. 5.º O Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.
+###### Artigo 5.º
+
+O Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 

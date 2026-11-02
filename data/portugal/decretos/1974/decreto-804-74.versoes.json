@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:235946:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1974-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53b35a2bd9ed17c3"
+   ]
+  },
+  {
+   "date": "1976-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408542:por",
+     "title": "Decreto n.º 686/76",
+     "published": "1976-09-16",
+     "dre_path": "/dr/detalhe/decreto/686-1976-408542"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "c872f41d86cae1ca",
+    "b0fcb56e97d36317",
+    "0a1c93b944be3b46",
+    "7c5e4648a43c1a8e",
+    "639874d5a1277b20",
+    "5d9b5db9e4032a01",
+    "d30e215da2c421a2"
+   ]
+  }
+ ],
+ "fragments": {
+  "53b35a2bd9ed17c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando necessário e urgente proceder à liquidação do Grémio dos Industriais de Transportes em Automóveis (GITA), dentro da linha de orientação do Governo Provisório;\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º - 1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.\n\n2. A extinção efectiva processar-se-á em 31 de Dezembro de 1974, podendo excepcionalmente fixar-se uma data posterior mediante despacho do Secretário de Estado dos Transportes e Comunicações.\n\nArt. 2.º - 1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.\n\n2. A esta comissão compete:\n\na) Assegurar a gestão do organismo até à sua efectiva extinção, cabendo-lhe os poderes que o regulamento do Grémio dos Industriais de Transportes em Automóveis atribuía aos respectivos corpos gerentes;\n\nb) Proceder ao inventário dos valores activos e passivos, mantendo-o actualizado até à efectiva extinção do organismo;\n\nc) Propor as providências concretas adequadas à efectivação da extinção do organismo à Secretaria de Estado dos Transportes e Comunicações;\n\nd) Propor, sempre que necessário, a criação de subcomissões para a realização de objectivos específicos com vista à execução do presente diploma;\n\ne) Dar parecer sobre todas as matérias que superiormente sejam submetidas à sua apreciação dentro dos fins deste diploma.\n\n3. Ao presidente da comissão cabem as atribuições cometidas ao delegado do Governo no Grémio dos Industriais de Transportes em Automóveis pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267).\n\nArt. 3.º - 1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:\n\na) Das funções que devam subsistir;\n\nb) Do seu activo e passivo, bem como de quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento;\n\nc) Dos saldos de fundos existentes.\n\n2. A transferência de imóveis e veículos, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força do disposto nos números anteriores, que constituem título suficiente para os efeitos legais, incluindo os de registo, sem prejuízo, quanto aos veículos automóveis, do disposto na [Portaria n.º 16797](https://diariodarepublica.pt/dr/detalhe/portaria/16797-1958-351731), de 2 de Agosto de 1958.\n\n3. De todos os contratos de imóveis arrendados, que forem objecto de transferência e que hajam sido celebrados na vigência dos organismos agora extintos, serão enviados duplicados à Direcção-Geral da Fazenda Pública.\n\n4. A transferência do património dos organismos extintos está isenta de quaisquer contribuições e impostos.\n\nArt. 4.º - 1 O pessoal do organismo extinto deverá ficar ao serviço das entidades privadas, às quais venham a ser atribuídas as funções que àquele competiam e a totalidade ou parte do seu património.\n\n2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.\n\n3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.\n\nArt. 5.º As dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações.\n\nArt. 6.º Este diploma entra imediatamente em vigor.\n\nVasco dos Santos Gonçalves - José Augusto Fernandes.\n\nPromulgado em 31 de Dezembro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "c872f41d86cae1ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando necessário e urgente proceder à liquidação do Grémio dos Industriais de Transportes em Automóveis (GITA), dentro da linha de orientação do Governo Provisório;\n\nUsando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "b0fcb56e97d36317": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.\n\n2. A extinção efectiva processar-se-á em 31 de Dezembro de 1974, podendo excepcionalmente fixar-se uma data posterior mediante despacho do Secretário de Estado dos Transportes e Comunicações."
+  },
+  "0a1c93b944be3b46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.\n\n2. A esta comissão compete:\n\na) Assegurar a gestão do organismo até à sua efectiva extinção, cabendo-lhe os poderes que o regulamento do Grémio dos Industriais de Transportes em Automóveis atribuía aos respectivos corpos gerentes;\n\nb) Proceder ao inventário dos valores activos e passivos, mantendo-o actualizado até à efectiva extinção do organismo;\n\nc) Propor as providências concretas adequadas à efectivação da extinção do organismo à Secretaria de Estado dos Transportes e Comunicações;\n\nd) Propor, sempre que necessário, a criação de subcomissões para a realização de objectivos específicos com vista à execução do presente diploma;\n\ne) Dar parecer sobre todas as matérias que superiormente sejam submetidas à sua apreciação dentro dos fins deste diploma.\n\n3. Ao presidente da comissão cabem as atribuições cometidas ao delegado do Governo no Grémio dos Industriais de Transportes em Automóveis pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267)."
+  },
+  "7c5e4648a43c1a8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:\n\na) Das funções que devam subsistir;\n\nb) Do seu activo e passivo, bem como de quaisquer valores e direitos, incluindo os emergentes de contratos de arrendamento;\n\nc) Dos saldos de fundos existentes.\n\n2. A transferência de imóveis e veículos, qualquer que seja a modalidade de inscrição nos correspondentes registos, operar-se-á por força do disposto nos números anteriores, que constituem título suficiente para os efeitos legais, incluindo os de registo, sem prejuízo, quanto aos veículos automóveis, do disposto na [Portaria n.º 16797](https://diariodarepublica.pt/dr/detalhe/portaria/16797-1958-351731), de 2 de Agosto de 1958.\n\n3. De todos os contratos de imóveis arrendados, que forem objecto de transferência e que hajam sido celebrados na vigência dos organismos agora extintos, serão enviados duplicados à Direcção-Geral da Fazenda Pública.\n\n4. A transferência do património dos organismos extintos está isenta de quaisquer contribuições e impostos."
+  },
+  "639874d5a1277b20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1976-09-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 686/76](https://diariodarepublica.pt/dr/detalhe/decreto/686-1976-408542), publicado em 1976-09-16."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - (Revogado.)\n\n2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.\n\n3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.\n\n> Alterado pelo/a [Decreto n.º 686/76](https://diariodarepublica.pt/dr/detalhe/decreto/686-1976-408542), publicado em 1976-09-16."
+  },
+  "5d9b5db9e4032a01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações."
+  },
+  "d30e215da2c421a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEste diploma entra imediatamente em vigor.\n\nVasco dos Santos Gonçalves - José Augusto Fernandes.\n\nPromulgado em 31 de Dezembro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

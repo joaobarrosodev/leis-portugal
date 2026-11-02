@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454825:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c236dc8da8c282c",
+    "9fd00c032efc090c",
+    "102088e2cecc04d9",
+    "4216c7ed89826d0e",
+    "03e8a9d87e6869e2",
+    "d06703379b00485f",
+    "b3e69d593763fa1f",
+    "ce861aef94ea6982",
+    "1ad908181aa78ebf",
+    "a6c03b9c18259cf5",
+    "6683f00a91541c7e",
+    "033f0757c1f24f7d",
+    "ae860b876ddc909a",
+    "fa705de472b25083",
+    "936535153a4466ce",
+    "eb5c218c6c25a2a6",
+    "2ec4791147b0e3e1",
+    "5842403847a89d44",
+    "a34fd7a6034856df"
+   ]
+  },
+  {
+   "date": "2010-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611962:por",
+     "title": "Decreto-Lei n.º 16/2010",
+     "published": "2010-03-12",
+     "dre_path": "/dr/detalhe/decreto-lei/16-2010-611962"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::5.º"
+   ],
+   "fragments": [
+    "0c236dc8da8c282c",
+    "9fd00c032efc090c",
+    "102088e2cecc04d9",
+    "4216c7ed89826d0e",
+    "03e8a9d87e6869e2",
+    "d06703379b00485f",
+    "b3e69d593763fa1f",
+    "ce861aef94ea6982",
+    "1ad908181aa78ebf",
+    "a6c03b9c18259cf5",
+    "6683f00a91541c7e",
+    "033f0757c1f24f7d",
+    "ae860b876ddc909a",
+    "fa705de472b25083",
+    "a7f72f69e5e7efff",
+    "eb5c218c6c25a2a6",
+    "2ec4791147b0e3e1",
+    "5842403847a89d44",
+    "a34fd7a6034856df"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c236dc8da8c282c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nO presente decreto-lei transpõe parcialmente para a ordem jurídica interna, na parte que se refere à reutilização, reciclagem e valorização, a Directiva n.º [2005/64/CE](https://data.europa.eu/eli/dir/2005/64/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de Outubro, e aprova o Regulamento Que Estabelece as Disposições Administrativas e Técnicas para a Homologação dos Veículos das Categorias M(índice 1) e N(índice 1) Referentes à Reutilização, Reciclagem e Valorização dos Seus Componentes e Materiais.\n\nA Directiva n.º [2005/64/CE](https://data.europa.eu/eli/dir/2005/64/oj?locale=pt) é uma das directivas específicas do procedimento de homologação CE mencionado Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção que lhe foi conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio.\n\nO referido sistema de homologação de veículos completos é actualmente obrigatório para veículos pertencentes à categoria M(índice 1) e será alargado, no futuro próximo, a todas as categorias de veículos, sendo, por isso, necessário incluir no sistema de homologação de veículos completos as medidas em questão, relativas à reutilização, reciclagem e valorização potenciais de veículos.\n\nEm conformidade com o disposto na Directiva n.º [2000/53/CE](https://data.europa.eu/eli/dir/2000/53/oj?locale=pt), transposta para o direito interno pelo Decreto-Lei n.º 196/2003, de 23 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril, devem ser estabelecidas disposições apropriadas para garantir que os veículos homologados pertencentes à categoria M(índice 1), e os pertencentes à categoria N(índice 1), apenas possam ser comercializados se forem reutilizáveis e ou recicláveis a um nível mínimo de 85 % em massa e reutilizáveis e ou valorizáveis a um nível mínimo de 95 % em massa.\n\nA possibilidade de reutilizar os componentes e de reciclar e valorizar os materiais constitui uma parte importante da estratégia comunitária de gestão de resíduos, devendo, portanto, ser solicitada aos fabricantes de veículos e seus fornecedores a inclusão desses aspectos nas fases mais precoces do desenvolvimento de veículos novos, de modo a facilitar o respectivo tratamento quando atinjam o fim de vida.\n\nÉ necessário estabelecer disposições que tomem em consideração o facto de os veículos da categoria N(índice 1) não serem ainda abrangidos pelo sistema de homologação de veículos completos.\n\nO fabricante deve colocar à disposição do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), todas as informações técnicas relevantes no que diz respeito aos materiais utilizados e respectivas massas, a fim de possibilitar a verificação dos seus cálculos em conformidade com a norma ISO 22628: 2002.\n\nOs cálculos do fabricante só podem ser correctamente validados no momento da homologação do veículo se o fabricante tiver estabelecido disposições e procedimentos satisfatórios para gerir toda a informação que recebe dos seus fornecedores, devendo o IMTT, I. P., antes de conceder qualquer homologação, realizar uma avaliação preliminar dos referidos procedimentos e disposições e emitir um certificado indicando que estes são satisfatórios.\n\nA importância das diferentes variáveis que entram no cálculo das taxas de reciclagem e de valorização deve ser avaliada em conformidade com os processos de tratamento dos veículos em fim de vida, pelo que o fabricante deve recomendar uma estratégia para o tratamento dos veículos em fim de vida e comunicar os respectivos pormenores ao organismo competente, devendo essa estratégia basear-se em tecnologias comprovadas, disponíveis ou em desenvolvimento no momento da solicitação da homologação do veículo.\n\nEm conformidade com o disposto no Decreto-Lei n.º 196/2003, de 23 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril, devem ser adoptadas medidas apropriadas, no interesse da segurança rodoviária e da protecção do ambiente, para impedir que certos componentes, que foram retirados de veículos em fim de vida, sejam reutilizados no fabrico de veículos novos.\n\nFoi ouvida a Associação Nacional do Ramo Automóvel (ARAN).\n\nPelo presente diploma pretende-se, também, proceder à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com a última redacção que lhe foi conferida pelo Decreto-Lei n.º 44/2005, de 23 de Fevereiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9fd00c032efc090c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei transpõe parcialmente para a ordem jurídica interna, no que se refere à reutilização, reciclagem e valorização, a Directiva n.º [2005/64/CE](https://data.europa.eu/eli/dir/2005/64/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de Outubro, e aprova o Regulamento Que Estabelece as Disposições Administrativas e Técnicas para a Homologação dos Veículos das Categorias M(índice 1) e N(índice 1), Referentes à Reutilização, Reciclagem e Valorização dos Seus Componentes e Materiais, cujo texto se publica em anexo ao presente decreto-lei e dele faz parte integrante.\n\n2 - Os anexos do Regulamento ora aprovado fazem parte integrante do mesmo."
+  },
+  "102088e2cecc04d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Avaliação preliminar do fabricante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação preliminar do fabricante\n\n1 - O IMTT, I. P., não deve conceder qualquer homologação sem, antes, garantir que o fabricante tenha estabelecido disposições e procedimentos satisfatórios, em conformidade com o disposto no n.º 3 do artigo 5.º do Regulamento ora aprovado, para gerir correctamente os aspectos relativos à reutilização, reciclagem e valorização potenciais.\n\n2 - Uma vez realizada a referida avaliação preliminar, deve ser concedido ao fabricante um certificado de conformidade de acordo com o modelo constante do anexo iii do Regulamento ora aprovado.\n\n3 - No âmbito da avaliação preliminar do fabricante, o organismo competente acreditado deve garantir que os materiais utilizados no fabrico de um modelo de veículo cumprem o disposto no n.º 2 do artigo 6.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril.\n\n4 - Para efeitos do disposto nos n.os 1 e 2, o fabricante deve recomendar uma estratégia para garantir o desmantelamento e a reutilização dos componentes, bem como a reciclagem e a valorização dos materiais, devendo essa estratégia tomar em consideração as tecnologias comprovadas, disponíveis ou em desenvolvimento, no momento do pedido de homologação de um veículo.\n\n5 - O organismo competente acreditado, de acordo com o disposto no n.º 2 do artigo 5.º do Regulamento ora aprovado, deve realizar a avaliação preliminar do fabricante e emitir o certificado de conformidade.\n\n6 - O certificado de conformidade referido no número anterior deve incluir a documentação apropriada e descrever a estratégia recomendada pelo fabricante, utilizando o organismo competente acreditado o modelo apresentado no anexo iii do Regulamento ora aprovado.\n\n7 - O certificado de conformidade é válido durante um período mínimo de dois anos a contar da data de entrega do certificado, antes de se realizarem novas verificações.\n\n8 - O fabricante deve informar o organismo competente acreditado de qualquer alteração significativa, passível de afectar a pertinência do certificado de conformidade, decidindo este após consulta com o fabricante se são necessárias novas verificações.\n\n9 - No final do período de validade do certificado de conformidade, o organismo competente acreditado emite, se for caso disso, um novo certificado de conformidade ou prolonga a sua validade por um período adicional de dois anos.\n\n10 - O organismo competente acreditado deve emitir um novo certificado nos casos em que lhe tenham sido comunicadas alterações significativas."
+  },
+  "4216c7ed89826d0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Reutilização de componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reutilização de componentes\n\nOs componentes referidos no artigo 6.º do Regulamento ora aprovado:\n\na) São considerados não reutilizáveis para efeitos do cálculo das taxas de reciclagem e de valorização potenciais;\n\nb) Não são reutilizados no fabrico de veículos abrangidos pelo Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "03e8a9d87e6869e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\n1 - No que se refere a um modelo de veículo que cumpra o disposto no Regulamento ora aprovado, o IMTT, I. P., não pode:\n\na) Recusar a homologação CE ou a homologação de âmbito nacional;\n\nb) Proibir a matrícula, a venda ou a entrada em serviço de veículos novos.\n\n2 - A partir de 15 de Dezembro de 2008, no que diz respeito a um modelo de veículo que não cumpra os requisitos constantes do Regulamento ora aprovado, o IMTT, I. P., deve:\n\na) Recusar a homologação CE;\n\nb) Recusar a homologação nacional.\n\n3 - A partir de 15 de Junho de 2010, se as exigências constantes do Regulamento ora aprovado não forem cumpridas, o IMTT, I. P., deve:\n\na) Considerar que os certificados de conformidade que acompanham os veículos novos já não são válidos, para efeitos do disposto no Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas;\n\nb) Recusar a matrícula, a venda ou a entrada em serviço dos veículos novos, excepto nos casos em que for aplicável o disposto no artigo 23.º do Regulamento referido na alínea anterior."
+  },
+  "d06703379b00485f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 23 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.\n\nPromulgado em 2 de Julho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de Julho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "b3e69d593763fa1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO QUE ESTABELECE AS DISPOSIÇÕES ADMINISTRATIVAS E TÉCNICAS PARA A HOMOLOGAÇÃO DOS VEÍCULOS DAS CATEGORIAS M(índice 1) E N(índice 1), REFERENTES À REUTILIZAÇÃO, RECICLAGEM E VALORIZAÇÃO DOS SEUS COMPONENTES E MATERIAIS."
+  },
+  "ce861aef94ea6982": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito e definições"
+  },
+  "1ad908181aa78ebf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento aplica-se aos veículos pertencentes às categorias M(índice 1) e N(índice 1), conforme definidas na parte A do anexo ii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio, e a componentes novos ou reutilizados desses veículos.\n\n2 - Sem prejuízo da aplicação do disposto para a reutilização de componentes, o presente Regulamento não é aplicável a:\n\na) Veículos para fins especiais, conforme definidos na parte A, n.º 5, do anexo ii do Regulamento referido no n.º 1;\n\nb) Veículos fabricados em várias fases pertencentes à categoria N(índice 1), desde que o veículo de base seja conforme ao disposto no presente Regulamento;\n\nc) Veículos produzidos em pequenas séries, conforme referidos no artigo 24.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "a6c03b9c18259cf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) «Veículo» um veículo a motor;\n\nb) «Componente» qualquer parte ou conjunto de partes incluídas num veículo no momento da sua produção, abrangendo igualmente componentes e unidades técnicas separadas, conforme definidas no artigo 2.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas;\n\nc) «Modelo de veículo» modelo de um veículo conforme definido na parte B, n.os 1 e 3, do anexo ii do Regulamento referido na alínea anterior;\n\nd) «Veículo em fim de vida» um veículo conforme definido na alínea q) do artigo 2.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, na redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril;\n\ne) «Veículo de referência» versão de um modelo de veículo que é identificada pelo IMTT, I. P., em consulta com o fabricante e em conformidade com os critérios estabelecidos no artigo seguinte, como sendo a mais problemática em termos da sua potencial reutilização, reciclagem e valorização;\n\nf) «Veículo fabricado em várias fases» veículo que resulta de um processo de fabrico em várias fases;\n\ng) «Veículo de base» um veículo conforme definido na alínea e) do artigo 2.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, utilizado na fase inicial de um fabrico em várias fases;\n\nh) «Fabrico em várias fases» processo através do qual um veículo é fabricado em diversas fases, acrescentando componentes a um veículo de base ou alterando esses componentes;\n\ni) «Reutilização» a reutilização conforme definida na alínea h) do artigo 2.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, na redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril;\n\nj) «Reciclagem» a reciclagem conforme definida na alínea g) do artigo 2.º do decreto-lei referido na alínea anterior;\n\nl) «Valorização energética» a valorização energética conforme definida na alínea n) do artigo 2.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, na redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril;\n\nm) «Valorização» a valorização conforme definida na alínea o) do artigo 2.º do decreto-lei referido na alínea anterior;\n\nn) «Reutilização potencial» potencial de reutilização de componentes retirados de um veículo em fim de vida;\n\no) «Reciclagem potencial» potencial de reciclagem de componentes ou materiais retirados de um veículo em fim de vida;\n\np) «Valorização potencial» potencial de valorização de componentes ou materiais retirados de um veículo em fim de vida;\n\nq) «Taxa de reciclagem potencial de um veículo (R(índice cyc))» percentagem em massa de um veículo novo potencialmente passível de ser reutilizada e reciclada;\n\nr) «Taxa de valorização potencial de um veículo (R(índice cov))» percentagem em massa de um veículo novo potencialmente passível de ser reutilizada e valorizada;\n\ns) «Estratégia» plano em grande escala constituído por acções coordenadas e medidas técnicas a adoptar no âmbito do desmantelamento, do retalhamento ou de processos similares, da reciclagem e da valorização de materiais, a fim de garantir que as taxas de reciclagem e de valorização potenciais previstas sejam alcançáveis durante a fase de desenvolvimento do veículo;\n\nt) «Massa» a massa do veículo em ordem de marcha conforme definida no n.º 2.6 do anexo i do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, mas com exclusão do condutor, cuja massa é avaliada em 75 kg;\n\nu) «Organismo competente» entidade, por exemplo, serviço técnico ou outro organismo existente, notificada por um Estado membro para efectuar a avaliação preliminar do fabricante e emitir um certificado de conformidade, de acordo com o previsto no presente Regulamento, podendo o organismo competente ser o IMTT, I. P., desde que a sua competência nesse domínio se encontre devidamente documentada."
+  },
+  "6683f00a91541c7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disposições relativas à homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disposições relativas à homologação"
+  },
+  "033f0757c1f24f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Homologação CE\n\n1 - O IMTT, I. P., deve conceder, conforme apropriado, a homologação CE ou a homologação de âmbito nacional, no que se refere à reutilização, reciclagem e valorização potenciais, apenas aos modelos de veículos que satisfaçam os requisitos constantes do presente Regulamento.\n\n2 - Para efeitos de aplicação do disposto no número anterior, o fabricante deve colocar à disposição do IMTT, I. P., a informação técnica pormenorizada necessária para proceder aos cálculos e verificações referidos no artigo seguinte, relacionados com a natureza dos materiais utilizados no fabrico do veículo e dos seus componentes.\n\n3 - Nos casos em que a informação referida no número anterior se mostre abrangida por direitos de propriedade intelectual ou constituir um saber-fazer específico do fabricante ou dos seus fornecedores, o fabricante ou os seus fornecedores devem prestar informações suficientes para permitir a realização correcta dos referidos cálculos.\n\n4 - No que diz respeito à reutilização, reciclagem e valorização potenciais, o fabricante deve utilizar o modelo de ficha de informações definido no anexo i, ao apresentar um pedido de homologação CE do veículo, nos termos do disposto no Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio.\n\n5 - Ao conceder uma homologação CE nos termos do Regulamento referido no número anterior, o IMTT, I. P., deve utilizar o modelo de certificado de homologação CE apresentado no anexo ii."
+  },
+  "ae860b876ddc909a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Requisitos, avaliação preliminar do fabricante e componentes considerados não reutilizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Requisitos, avaliação preliminar do fabricante e componentes considerados não reutilizáveis"
+  },
+  "fa705de472b25083": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos\n\n1 - Os veículos pertencentes à categoria M(índice 1) e os veículos pertencentes à categoria N(índice 1) devem ser fabricados de modo a serem:\n\na) Reutilizáveis e ou recicláveis num mínimo de 85 % em massa, e;\n\nb) Reutilizáveis e ou valorizáveis num mínimo de 95 % em massa.\n\n2 - O disposto no número anterior é determinado pelos procedimentos estabelecidos no presente artigo, fixados de acordo com a Decisão, da Comissão, n.º [2005/293/CE](https://data.europa.eu/eli/dec/2005/293/oj?locale=pt).\n\n3 - Para efeitos de homologação, o fabricante deve entregar um formulário de apresentação de dados devidamente preenchido, estabelecido em conformidade com o disposto no anexo A da norma ISO 22628: 2002, o qual inclui a lista dos materiais.\n\n4 - O formulário referido no número anterior deve ser acompanhado de uma lista dos componentes desmontados, a declarar pelo fabricante relativamente à fase de desmantelamento, e do processo que este recomenda para o respectivo tratamento.\n\n5 - Para efeitos da aplicação do disposto nos números anteriores, o fabricante deve demonstrar a contento do IMTT, I. P., que os veículos de referência cumprem os requisitos, aplicando-se, para o efeito, o método de cálculo previsto no anexo B da norma ISO 22628: 2002.\n\n6 - O fabricante deve poder demonstrar que todas as versões do modelo de veículo cumprem os requisitos constantes do presente Regulamento.\n\n7 - Para efeitos da selecção dos veículos de referência, devem ser tidos em conta os seguintes critérios:\n\na) O tipo de carroçaria;\n\nb) Os níveis de acabamento disponíveis, relativamente aos estofos, equipamento de rádio, ar condicionado, jantes de alumínio, entre outros;\n\nc) O equipamento opcional disponível que pode ser instalado sob responsabilidade do fabricante, nomeadamente o referido na alínea anterior.\n\n8 - No caso de o IMTT, I. P., e o fabricante não terem, de comum acordo, identificado a versão considerada mais problemática de um modelo de veículo, em termos da sua potencial reutilização, reciclagem e valorização, deve ser seleccionado um veículo de referência para:\n\na) Cada «tipo de carroçaria», conforme definido no n.º 1 da parte C do anexo ii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, no caso dos veículos da categoria M(índice 1);\n\nb) Cada «tipo de carroçaria», isto é, ligeiro de mercadorias com caixa fechada, quadro-cabina, pick-up, entre outros, no caso dos veículos da categoria N(índice 1).\n\n9 - Para efeitos de cálculo, os pneus consideram-se recicláveis.\n\n10 - A massa deve ser expressa em kg, aproximada às décimas, e as taxas calculadas em percentagem, aproximada às décimas, e arredondadas da seguinte forma:\n\na) Se o número à direita da vírgula se situar entre 0 e 4, o total é arredondado por defeito;\n\nb) Se o número à direita da vírgula se situar entre 5 e 9, o total é arredondado por excesso.\n\n11 - Para efeitos da verificação dos cálculos referidos no presente artigo, o IMTT, I. P., deve assegurar que o formulário de apresentação de dados referido nos n.os 3 e 4 seja coerente com a estratégia recomendada, anexada ao certificado de conformidade mencionado no anexo iii do presente Regulamento.\n\n12 - Para efeitos das verificações dos materiais e das massas dos componentes, o fabricante deve colocar à disposição os veículos e os componentes que o IMTT, I. P., considerar necessários."
+  },
+  "936535153a4466ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Avaliação preliminar do fabricante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação preliminar do fabricante\n\n1 - O presente artigo descreve a avaliação preliminar que deve ser realizada pelo organismo competente a fim de assegurar que o fabricante estabeleceu as disposições e os procedimentos necessários.\n\n2 - O organismo competente conformar-se-á à norma EN ISO/IEC 17021 sobre os critérios gerais dos organismos de certificação que efectuam certificações de sistemas de qualidade, no âmbito dos sistemas de gestão aplicados pelo fabricante.\n\n3 - O organismo competente deve assegurar que o fabricante adoptou as medidas necessárias para:\n\na) Recolher os dados apropriados em toda a cadeia de abastecimento, em particular sobre a natureza e a massa de todos os materiais utilizados no fabrico dos veículos, a fim de proceder aos cálculos exigidos ao abrigo do disposto no presente Regulamento;\n\nb) Manter à sua disposição todos os demais dados apropriados sobre o veículo, exigidos pelo processo de cálculo, nomeadamente o volume dos fluidos, etc.;\n\nc) Verificar adequadamente a informação recebida dos fornecedores;\n\nd) Gerir a lista dos materiais;\n\ne) Poder proceder ao cálculo das taxas de reciclagem e valorização potenciais em conformidade com a norma ISO 22628: 2002;\n\nf) Marcar os componentes feitos de polímeros ou elastómeros de acordo com a Decisão n.º [2003/138/CE](https://data.europa.eu/eli/dec/2003/138/oj?locale=pt), da Comissão, de 27 de Fevereiro, que estabelece normas de codificação de componentes e materiais para veículos em conformidade com o disposto no Decreto-Lei n.º 196/2003, de 23 de Agosto, na redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril;\n\ng) Verificar que nenhum componente descrito no artigo seguinte é reutilizado no fabrico de novos veículos.\n\n4 - O fabricante deve fornecer ao organismo competente todas as informações pertinentes, sob forma documental, sendo em particular correctamente documentadas a reciclagem e a valorização dos materiais."
+  },
+  "eb5c218c6c25a2a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Componentes considerados não reutilizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Componentes considerados não reutilizáveis\n\nO presente artigo identifica os componentes de veículos pertencentes à categoria M(índice 1) e à categoria N(índice 1) que não podem ser reutilizados no fabrico de veículos novos, nomeadamente:\n\na) Todos os airbags, incluindo as almofadas, os accionadores pirotécnicos, as unidades electrónicas de controlo, os sensores e o volante quando o airbag esteja inserido no próprio volante;\n\nb) Conjuntos de cintos de segurança automáticos ou não automáticos, incluindo a precinta, os fechos, os retractores e os accionadores pirotécnicos;\n\nc) Bancos, nos casos em que as fixações dos cintos de segurança e ou os airbags estejam incorporados no banco;\n\nd) Dispositivos de bloqueio da direcção que actuam sobre a coluna de direcção;\n\ne) Imobilizadores, incluindo transpondedores e unidades de controlo electrónico;\n\nf) Sistemas de pós-tratamento de emissões, nomeadamente catalisadores e filtros de partículas;\n\ng) Silenciadores de escape."
+  },
+  "2ec4791147b0e3e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se refere o n.º 4 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se refere o n.º 4 do artigo 3.º)\n\nFicha de informação para efeitos da homologação CE de um veículo\n\n[em conformidade com o anexo i da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (1), relativa à homologação CE de um veículo, no que diz respeito à sua potencial reutilização, reciclagem e valorização]\n\nAs informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas deverão ser suficientemente pormenorizadas.\n\n0 - Observações gerais\n\n0.1 - Marca (firma do fabricante):...\n\n0.2 - Modelo:...\n\n0.2.0.1 - Quadro:...\n\n0.2.1 - Nome(s) comercial(is) [se existir(em)]:...\n\n0.3 - Meios de identificação do modelo, se marcados no veículo (b):...\n\n0.3.1 - Localização dessa marcação:...\n\n0.4 - Categoria do veículo (c):...\n\n0.5 - Nome e endereço do fabricante:...\n\n0.8 - Endereço(s) da(s) instalação(ões) de montagem:...\n\n1 - Constituição geral do veículo\n\n1.1 - Fotografias e ou desenhos de um veículo representativo:...\n\n1.2 - Desenho cotado do veículo completo:...\n\n1.3 - Número de eixos e rodas:...\n\n1.3.1 - Número e posição dos eixos com rodado duplo:...\n\n1.3.3 - Eixos motores (número, posição, interligação):...\n\n1.7 - Cabina (avançada ou normal) (z):...\n\n3 - Motor (q) [no caso de um veículo que possa ser alimentado quer a gasolina quer a gasóleo, etc., ou, também, em caso de combinação com outro combustível, repetir-se-ão os pontos (+)]\n\n3.1 - Fabricante:...\n\n3.2 - Motor de combustão interna\n\n3.2.1 - Características específicas do motor\n\n3.2.1.1 - Princípio de funcionamento: ignição comandada/ignição por compressão, quatro tempos/dois tempos (1)\n\n3.2.1.2 - Número e disposição dos cilindros:...\n\n3.2.1.3 - Cilindrada(s):... cm3\n\n3.2.2 - Combustível: gasóleo/gasolina/gás de petróleo liquefeito/gás natural/etanol (1)\n\n4 - Transmissão (v)\n\n4.2 - Tipo (mecânica, hidráulica, eléctrica, etc.):...\n\n4.5 - Caixa de velocidades\n\n4.5.1 - Tipo [manual/automática/CVT (transmissão continuamente variável)] (1)\n\n4.9 - Bloqueio do diferencial: sim/não/opcional (1)\n\n9 - Carroçaria\n\n9.1 - Tipo de carroçaria:...\n\n9.3.1 - Configuração e número de portas:...\n\n9.10.3 - Bancos\n\n9.10.3.1 - Número:...\n\n15 - Reutilização, reciclagem e valorização potenciais\n\n15.1 - Versão a que pertence o veículo de referência:...\n\n15.2 - Massa do veículo de referência com carroçaria ou massa do quadro com cabina, sem carroçaria e ou dispositivo de engate, se o fabricante não montar a carroçaria e ou o dispositivo de engate (incluindo os líquidos, as ferramentas, a roda sobressalente, se instalada) sem condutor:\n\n15.3 - Massas dos materiais do veículo de referência\n\n15.3.1 - Massa dos materiais tidos em conta na fase de pré-tratamento (# #):...\n\n15.3.2 - Massa dos materiais tidos em conta na fase de desmantelamento (# #):...\n\n15.3.3 - Massa dos materiais tidos em conta na fase de tratamento dos resíduos não metálicos considerados como recicláveis (# #):...\n\n15.3.4 - Massa dos materiais tidos em conta na fase de tratamento dos resíduos não metálicos considerados passíveis de valorização energética (# #):...\n\n15.3.5 - Lista dos materiais (# #):...\n\n15.3.6 - Massa total dos materiais reutilizáveis e ou recicláveis:...\n\n15.3.7 - Massa total dos materiais reutilizáveis e ou valorizáveis:...\n\n15.4 - Taxas\n\n15.4.1 - Taxa de reciclagem potencial «R(índice cyc) ( %)»:...\n\n15.4.2 - Taxa de valorização potencial «R(índice cov) ( %)»:...\n\nNota. - As referências às alíneas (b) (c) (q) (v) e (z), bem como as restantes referências, designadamente (*) e (1), consideram-se feitas às notas de rodapé utilizadas no anexo i do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última redacção conferida pelo Decreto-Lei n.º 198/2007, de 16 de Maio."
+  },
+  "5842403847a89d44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — (a que se refere o n.º 5 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — (a que se refere o n.º 5 do artigo 3.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0510005105.pdf)"
+  },
+  "a34fd7a6034856df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — (a que se refere o n.º 11 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — (a que se refere o n.º 11 do artigo 4.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0510005105.pdf)"
+  },
+  "a7f72f69e5e7efff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Avaliação preliminar do fabricante",
+   "in_force_from": "2010-03-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2010-611962), publicado em 2010-03-12."
+   ],
+   "markdown": "###### Artigo 5.º — Avaliação preliminar do fabricante\n\n1 - O presente artigo descreve a avaliação preliminar que deve ser realizada pelo organismo competente a fim de assegurar que o fabricante estabeleceu as disposições e os procedimentos necessários.\n\n2 - O organismo competente conformar-se-á à norma EN ISO/IEC 17021 sobre os critérios gerais dos organismos de certificação que efectuam certificações de sistemas de qualidade, no âmbito dos sistemas de gestão aplicados pelo fabricante.\n\n3 - O organismo competente deve assegurar que o fabricante adoptou as medidas necessárias para:\n\na) Recolher os dados apropriados em toda a cadeia de abastecimento, em particular sobre a natureza e a massa de todos os materiais utilizados no fabrico dos veículos, a fim de proceder aos cálculos exigidos ao abrigo do disposto no presente Regulamento;\n\nb) Manter à sua disposição todos os demais dados apropriados sobre o veículo, exigidos pelo processo de cálculo, nomeadamente o volume dos fluidos, etc.;\n\nc) Verificar adequadamente a informação recebida dos fornecedores;\n\nd) Gerir a lista dos materiais;\n\ne) Poder proceder ao cálculo das taxas de reciclagem e valorização potenciais em conformidade com a norma ISO 22628: 2002;\n\nf) Marcar os componentes feitos de polímeros ou elastómeros de acordo com a Decisão n.º [2003/138/CE](https://data.europa.eu/eli/dec/2003/138/oj?locale=pt), da Comissão, de 27 de Fevereiro, que estabelece normas de codificação de componentes e materiais para veículos em conformidade com o disposto no Decreto-Lei n.º 196/2003, de 23 de Agosto, na redacção que lhe foi conferida pelo Decreto-Lei n.º 64/2008, de 8 de Abril;\n\ng) Verificar que nenhum componente descrito no artigo seguinte é reutilizado no fabrico de novos veículos.\n\n4 - O fabricante deve fornecer ao organismo competente todas as informações pertinentes, sob forma documental, sendo em particular correctamente documentadas a reciclagem e a valorização dos materiais.\n\n5 - Para efeitos da avaliação preliminar a que se refere o presente Regulamento, o fabricante de veículos deve demonstrar que assegura o cumprimento do disposto nos n.os 1 e 2 do artigo 6.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, na sua última redacção, através de disposições contratuais com os seus fornecedores.\n\n6 - Para efeitos da referida avaliação preliminar, o fabricante de veículos deve adoptar procedimentos com vista a:\n\na) Informar o pessoal e todos os fornecedores dos requisitos aplicáveis;\n\nb) Assegurar que os fornecedores cumprem os requisitos referidos na alínea anterior, exercendo a vigilância necessária para esse efeito;\n\nc) Recolher as informações adequadas ao longo de toda a cadeia de abastecimento;\n\nd) Verificar a informação recebida por parte dos fornecedores;\n\ne) Reagir adequadamente sempre que as informações recebidas dos fornecedores apontem para o incumprimento dos requisitos previstos no n.º 2 do artigo 6.º do decreto-lei referido no número anterior.\n\n7 - Para efeitos do disposto nos n.os 5 e 6 anteriores, o fabricante de veículos deve aplicar, com o acordo do organismo competente, a norma ISO 9000/14000 ou outro programa de garantia da qualidade normalizado.»\n\n> Alterado pelo/a [Decreto-Lei n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2010-611962), publicado em 2010-03-12."
+  }
+ }
+}

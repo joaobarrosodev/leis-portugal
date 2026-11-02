@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-01'
+version_history:
+  file: decreto-lei-288-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-01'
+    amending: pt:dre:212013:por
+    amending_title: Lei n.º 30-C/2000; Lei n.º 109-B/2001
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/288/1997/10/22/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:52:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30-C/2000; Lei n.º 109-B/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-288-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,9 +155,11 @@ No uso da autorização legislativa concedida pela [Lei n.º 16/97](https://diar
 
 1 - São isentas de imposto do selo quaisquer aquisições de bens que se destinem a integrar o património da Rede Ferroviária Nacional - REFER, E. P., constituída pelo [Decreto-Lei n.º 104/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1997-476739), de 29 de Abril.
 
-2 - São isentos de imposto do selo, até 31 de Dezembro de 1999, quaisquer actos, contratos e operações de que seja sujeito passivo ou destinatário a REFER, E. P., incluindo, designadamente, o imposto incidente sobre aberturas de crédito, confissões ou constituições de dívidas, fianças, hipotecas e operações financeiras.
+2 - A REFER, E. P., é isenta do imposto do selo, quando este constitua seu encargo, até 31 de Dezembro de 2002.
 
 3 - Os benefícios fiscais estatuídos nos números anteriores têm efeitos retroactivos à data de constituição da REFER, E. P.
+
+> Alterado pelo/a [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013) e [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), publicado em 2001-12-27.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 

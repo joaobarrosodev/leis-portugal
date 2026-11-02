@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-15'
+version_history:
+  file: decreto-regulamentar-regional-11-89-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-15'
+    amending: pt:dre:534396:por
+    amending_title: Decreto Regulamentar Regional n.º 4/96/M
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:45:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    4/96/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1989/decreto-regulamentar-regional-11-89-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,11 +138,17 @@ Considerando que se mostra oportuna e conveniente a aplicação do mencionado di
 
 Nestes termos, em conformidade com o disposto nas alíneas b) e d) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, conjugado com as alíneas b) e d) do artigo 229.º da Constituição, o Governo da Região Autónoma da Madeira decreta o seguinte:
 
-Artigo 1.º É aplicável aos funcionários e agentes da Administração Regional Autónoma da Madeira, bem como aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, o disposto no [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, com as adaptações constantes do artigo seguinte.
+###### Artigo 1.º
 
-Art. 2.º O disposto nos artigos 13.º, 14.º e 15.º do [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, é aplicado na Região Autónoma da Madeira com as seguintes adaptações:
+É aplicável aos funcionários e agentes da Administração Regional Autónoma da Madeira, bem como aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, o disposto no [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, com as adaptações constantes do artigo seguinte.
 
-Art. 13.º - 1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego promover a execução das disposições constantes do presente diploma, bem como recomendar ao Secretário Regional da Administração Pública a adopção de medidas legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma.
+###### Artigo 2.º
+
+O disposto nos artigos 13.º, 14.º e 15.º do [Decreto-Lei n.º 426/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728), de 18 de Novembro, é aplicado na Região Autónoma da Madeira com as seguintes adaptações:
+
+###### Artigo 13.º
+
+1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego promover a execução das disposições constantes do presente diploma, bem como recomendar ao Secretário Regional da Administração Pública a adopção de medidas legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma.
 
 2 - À Comissão competirá ainda emitir parecer em matéria de igualdade no trabalho e no emprego na função pública, sempre que solicitada pela Secretaria Regional da Administração Pública ou por qualquer outro departamento regional ou ainda pelas associações sindicais representativas dos trabalhadores.
 
@@ -135,27 +156,33 @@ Art. 13.º - 1 - Compete à Comissão Regional para a Igualdade no Trabalho e no
 
 4 - Quando as entidades referidas no artigo 2.º tiverem fundadas dúvidas quanto à eventual existência de uma situação ou prática discriminatória, bem como em todos os casos de reclamação recurso ou acção previstos no artigo 12.º, será obrigatoriamente ouvida a Comissão Regional para a Igualdade no Trabalho e no Emprego, que sobre a matéria emitirá parecer.
 
-Art. 14.º - 1 - A Comissão Regional para a Igualdade no Trabalho e no Emprego terá a seguinte constituição:
+###### Artigo 14.º
 
-a) Dois representantes da Secretaria Regional da Administração Pública, um dos quais presidirá;
+1 - A Comissão Regional para Igualdade no Trabalho e no Emprego terá a seguinte constituição:
 
-b) Um representante da Secretaria Regional da Educação, Juventude e Emprego;
+a) Dois representantes da secretaria regional com competência na área do trabalho, um dos quais presidirá;
 
-c) Um representante da Comissão da Condição Feminina ou, não existindo, um representante da Presidência do Governo Regional;
+b) Dois representantes das secretarias regionais com competência nos sectores da administração pública e do emprego;
 
-d) Um representante das associações patronais;
+c) Um representante da Comissão para a Igualdade e para os Direitos das Mulheres ou, não existindo, um representante da Presidência da do Governo Regional;
 
-e) Um representante das associações sindicais.
+d) Dois representantes das associações patronais;
+
+e) Dois representantes das associações Sindicais.
 
 2 - ...
 
-3 - O apoio administrativo é facultado à Comissão pela Secretaria Regional da Administração Pública.
+3 - O apoio administrativo é facultado à Comissão pelas secretarias regionais com competência nos sectores da administração pública do trabalho.
 
-4 - Os encargos com o pessoal e o funcionamento da Comissão são suportados pelo orçamento da Secretaria Regional da Administração Pública.
+4 - Os encargos com o pessoal e o funcionamento da Comissão são suportados pelos orçamentos das secretarias regionais com a competência nos sectores da administração pública e do trabalho.
 
-5 - É da competência conjunta do Secretário Regional da Administração Pública e do Secretário Regional da Educação, Juventude e Emprego regulamentar o funcionamento da Comissão.
+5 - É da competência conjunta dos secretários regionais com competência nas áreas da administração pública, trabalho e emprego regulamentar o funcionamento da Comissão.
 
-Art. 15.º - 1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego:
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 4/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1996-534396), publicado em 1996-03-15.
+
+###### Artigo 15.º
+
+1 - Compete à Comissão Regional para a Igualdade no Trabalho e no Emprego:
 
 a) Recomendar ao Secretário Regional da Administração Pública a adopção de providências legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma;
 
@@ -177,7 +204,9 @@ h) ...
 
 3 - ...
 
-Art. 3.º São revogados os n.os 2.º a 5.º da Resolução n.º 1041/85/M, de 29 de Agosto, do Governo Regional da Madeira.
+###### Artigo 3.º
+
+São revogados os n.os 2.º a 5.º da Resolução n.º 1041/85/M, de 29 de Agosto, do Governo Regional da Madeira.
 
 Aprovado em Conselho do Governo Regional em 6 de Abril de 1989.
 

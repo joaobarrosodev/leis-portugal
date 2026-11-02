@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-16'
+version_history:
+  file: decreto-28-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-16'
+    amending: pt:dre:628790:por
+    amending_title: Decreto n.º 32/2007
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/28/2003/06/11/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:15:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 32/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/2003/decreto-28-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o
 
 ###### Artigo 2.º — Acções de recuperação e reconversão urbanística
 
-Compete à Câmara Municipal de Viseu promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior.
+Compete à Câmara Municipal de Viseu e à Viseu Novo, SRU - Sociedade de Reabilitação Urbana de Viseu, S. A., promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior.
+
+> Alterado pelo/a [Decreto n.º 32/2007](https://diariodarepublica.pt/dr/detalhe/decreto/32-2007-628790), publicado em 2007-12-11.
 
 ###### Artigo 3.º — Direito de preferência
 

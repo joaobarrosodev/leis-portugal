@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-02-26'
+version_history:
+  file: despacho-normativo-21-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-02-26'
+    amending: pt:dre:1805340:por
+    amending_title: Despacho Normativo n.º 13/2008
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/21/2005/04/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:42:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 13/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2005/despacho-normativo-21-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,11 @@ i) Para os produtores sediados na Região Autónoma dos Açores, uma quantidade 
 
 ii) Para os produtores sediados no continente, uma quantidade não superior a 10% da quantidade total detida pelo cedente.
 
+d) Na campanha leiteira de 2007-2008 e seguintes, para os produtores sediados no Continente e na Região Autónoma dos Açores, uma quantidade máxima não superior a 30% da quantidade total detida pelo cedente.
+
 2 - O disposto no n.º 1 não se aplica às situações de excepção previstas no artigo 18.º do Decreto-Lei n.º 240/2002, de 5 de Novembro.
+
+> Alterado pelo/a [Despacho Normativo n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2008-1805340), publicado em 2008-02-26.
 
 ###### Artigo 2.º
 

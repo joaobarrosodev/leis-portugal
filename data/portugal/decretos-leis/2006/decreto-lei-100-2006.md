@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-13'
+version_history:
+  file: decreto-lei-100-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-13'
+    amending: pt:dre:262091:por
+    amending_title: Decreto-Lei n.º 5/2007
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/100/2006/06/06/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:51:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 5/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-100-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,7 +171,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo único — Regime excepcional e transitório
 
-A contratação de empreitadas de obras públicas e a aquisição ou locação, sob qualquer regime, de bens e serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, criada pelo despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, que funciona junto do Alto Comissariado para a Saúde, criado pelo [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), de 10 de Agosto, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública podem realizar-se, durante o presente ano económico, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo.
+A contratação de empreitadas de obras públicas e a aquisição ou locação, sob qualquer regime, de bens e serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, criada pelo despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, que funciona junto do Alto Comissariado para a Saúde, criado pelo Decreto Regulamentar n.º 7/2005, de 10 de Agosto, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública, podem realizar-se, até 31 de Dezembro de 2007, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2007-262091), publicado em 2007-01-08.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 

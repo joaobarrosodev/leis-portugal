@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-29'
+version_history:
+  file: decreto-lei-523-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-29'
+    amending: pt:dre:643681:por
+    amending_title: Decreto-Lei n.º 91/93
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:09:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 91/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-523-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,11 +174,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo único. A Casa do Douro, nos termos do disposto no n.º 1 do artigo 3.º da [Lei n.º 43/80](https://diariodarepublica.pt/dr/detalhe/lei/43-1980-471130), de 20 de Agosto, em conformidade com a incumbência definida no n.º 5 do artigo 6.º do [Decreto-Lei n.º 30248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30248-1939-175124), de 30 de Dezembro de 1939, e com as atribuições e competências que lhe são cometidas pela alínea d) do artigo 3.º do [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, deverá conceder o direito a benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, e às vinhas legalizadas ao abrigo da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, desde que preencham as condições constantes dos números seguintes:
+###### Artigo único
+
+A Casa do Douro, nos termos do disposto no n.º 1 do artigo 3.º da [Lei n.º 43/80](https://diariodarepublica.pt/dr/detalhe/lei/43-1980-471130), de 20 de Agosto, em conformidade com a incumbência definida no n.º 5 do artigo 6.º do [Decreto-Lei n.º 30248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30248-1939-175124), de 30 de Dezembro de 1939, e com as atribuições e competências que lhe são cometidas pela alínea d) do artigo 3.º do [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, deverá conceder o direito a benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, e às vinhas legalizadas ao abrigo da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, desde que preencham as condições constantes dos números seguintes:
 
 1 - A partir da campanha de 1985-1986, atribuição de benefício às vinhas plantadas ou legalizadas ao abrigo do [Decreto-Lei n.º 41066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41066-1957-651511), de 11 de Abril de 1957, desde que cumpram o estipulado no artigo 2.º do [Decreto-Lei n.º 464/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1979-367235), de 3 de Dezembro, de acordo com critério de distribuição idêntico ao aplicado às vinhas que já anteriormente detinham esse direito.
 
-2 - A partir da campanha de 1986-1987, atribuição de benefício às vinhas legalizadas ao abrigo do artigo 1.º da [Lei n.º 48/79](https://diariodarepublica.pt/dr/detalhe/lei/48-1979-369996), de 14 de Setembro, quando seja requerida à Casa do Douro vistoria dos serviços técnicos para efeitos de cadastro até 28 de Fevereiro de 1986, sendo o quantitativo do mosto com direito a benefício o correspondente à diferença entre o quantitativo de vinho a beneficiar, estabelecido anualmente pelo Instituto do Vinho do Porto (expresso em pipas), e 90000 pipas, o qual será rateado com base no critério geral.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 91/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1993-643681), publicado em 1993-03-24.
 
 Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 

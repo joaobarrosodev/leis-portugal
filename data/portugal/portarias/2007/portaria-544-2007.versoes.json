@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521071:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "247789ba91e7c815",
+    "428833db7c3fcbcf",
+    "29bbad2507c19cce",
+    "390eb26854ecbd02",
+    "20d897d827ebf9ac",
+    "8103aa39d16e2aa2",
+    "0d5ceb03aa815135",
+    "dc102945e35a2bd4",
+    "56425b59774eabac",
+    "3f1b7576e2e54ac6",
+    "623e98685f76094d",
+    "dae2d1b05eb9ec75",
+    "226ded145314457b",
+    "bf4b2f0c8680974c",
+    "764a3543d5cae129",
+    "d2c0fa1173b8de16",
+    "d3b12c3291e66776"
+   ]
+  },
+  {
+   "date": "2012-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553057:por",
+     "title": "Lei n.º 18/2012",
+     "published": "2012-05-07",
+     "dre_path": "/dr/detalhe/lei/18-2012-553057"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P.::6.º"
+   ],
+   "fragments": [
+    "247789ba91e7c815",
+    "428833db7c3fcbcf",
+    "29bbad2507c19cce",
+    "390eb26854ecbd02",
+    "20d897d827ebf9ac",
+    "8103aa39d16e2aa2",
+    "0d5ceb03aa815135",
+    "dc102945e35a2bd4",
+    "56425b59774eabac",
+    "efa8e98cd8e641f8",
+    "623e98685f76094d",
+    "dae2d1b05eb9ec75",
+    "226ded145314457b",
+    "bf4b2f0c8680974c",
+    "764a3543d5cae129",
+    "d2c0fa1173b8de16",
+    "d3b12c3291e66776"
+   ]
+  }
+ ],
+ "fragments": {
+  "247789ba91e7c815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Abril\n\nO Decreto-Lei n.º 146/2007, de 27 de Abril, definiu a missão e as atribuições do Instituto Portuário e dos Transporte Marítimos, I. P. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua estrutura e organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "428833db7c3fcbcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados os Estatutos do Instituto Portuário e dos Transporte Marítimos, I. P., abreviadamente designado por IPTM, I. P., publicados em anexo à presente portaria e que dela fazem parte integrante."
+  },
+  "29bbad2507c19cce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nPelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento, em 26 de Abril de 2007. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 27 de Abril de 2007."
+  },
+  "390eb26854ecbd02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P."
+  },
+  "20d897d827ebf9ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura orgânica\n\n1 - A estrutura orgânica do IPTM, I. P. é composta por unidades orgânicas de nível I, de nível II, nos seguintes termos:\n\na) As Delegações Regionais e as Direcções de Serviços são unidades de nível I, cujos dirigentes dependem directamente do conselho directivo ou do Director Regional, quando assim for determinado pelo conselho directivo;\n\nb) Os Departamentos são unidades de nível II, cujos responsáveis dependem directamente dos dirigentes de unidades de nível I ou do conselho directivo, quando assim for determinado.\n\n2 - O exercício das funções dirigentes previstas no número anterior é o da comissão de serviço prevista no Código do Trabalho."
+  },
+  "8103aa39d16e2aa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Unidades orgânicas\n\n1 - Para prossecução das suas atribuições, o IPTM, I. P., dispõe das delegações previstas no Decreto-Lei n.º 146/2007, de 27 de Abril, e organiza-se em seis direcções de serviços nos serviços centrais.\n\n2 - Cada uma das delegações do IPTM, I. P., referidas no número anterior é coordenada por um director-delegado, designado nos termos do Decreto-Lei n.º 146/2007, de 27 de Abril.\n\n3 - São unidades orgânicas de nível I:\n\na) Direcção de Serviços de Regulação;\n\nb) Direcção de Serviços de Infra-Estruturas e Ambiente;\n\nc) Direcção de Serviços de Segurança Marítima;\n\nd) Direcção de Serviços de Actividades Sectoriais;\n\ne) Direcção de Serviços de Administração;\n\nf) Direcção de Serviços de Assessoria Jurídica e Contencioso.\n\n4 - São unidades orgânicas de nível II:\n\na) Departamento de Regulação Dominial e de Serviços;\n\nb) Departamento de Ambiente, Ordenamento e Projecto;\n\nc) Departamento de Infra-Estruturas;\n\nd) Departamento do Pessoal do Mar;\n\ne) Departamento da Náutica de Recreio;\n\nf) Departamento de Navios em Serviço;\n\ng) Departamento de Inspecção a Navios Estrangeiros;\n\nh) Departamento de Novas Construções;\n\ni) Departamento de Padrões Técnicos de Segurança;\n\nj) Departamento de Transportes Marítimos;\n\nl) Departamento de Actividades Portuárias;\n\nm) Departamento de Planeamento e Controlo de Gestão;\n\nn) Departamento de Gestão Financeira e Patrimonial;\n\no) Departamento de Recursos Humanos;\n\np) Departamento de Relações Públicas e Documentação;\n\nq) Departamento de Informática."
+  },
+  "0d5ceb03aa815135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direcção\n\n1 - Cada direcção de serviços é dirigida por um director.\n\n2 - As subunidades orgânicas em que se podem organizar as direcções de serviços e as delegações regionais são dirigidas por um chefe."
+  },
+  "dc102945e35a2bd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção de Serviços de Regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção de Serviços de Regulação\n\n1 - A Direcção de Serviços de Regulação tem as seguintes competências:\n\na) Propor e assessorar a tutela na elaboração de diplomas legais e regulamentares do sector marítimo-portuário;\n\nb) Emitir parecer sobre os principais diplomas relativos à regulamentação dos instrumentos internacionais do sector marítimo-portuário;\n\nc) Analisar e apreciar anualmente as propostas de regulamentos de tarifas de cada uma das administrações portuárias;\n\nd) Promover a avaliação dos níveis de serviço das administrações portuárias, designadamente em matéria tarifária;\n\ne) Emitir instruções vinculativas de simplificação e harmonização tarifária e determinar a correcção das irregularidades na actividade tarifária das administrações portuárias;\n\nf) Propor medidas que conduzam à definição de critérios e à harmonização de procedimentos, indicadores e instrumentos do sector marítimo-portuário;\n\ng) Aprovar medidas e boas práticas que conduzam à aplicação harmonizada do sistema tarifário;\n\nh) Emitir parecer sobre a criação de zonas francas ou de armazéns gerais francos na área de cada porto;\n\ni) Definir requisitos gerais para o acesso, o exercício e a manutenção nas actividades e na prestação de serviços portuários;\n\nj) Definir os requisitos gerais para o acesso, o exercício e a manutenção nas actividades marítimas, relativas ao transporte marítimo e conexas;\n\nl) Aprofundar as questões de acesso ao mercado, de concorrência entre portos, das relações financeiras entre Estados membros da União Europeia e os portos;\n\nm) Enquadrar, através de orientações e regulamentos, os auxílios do Estado;\n\nn) Emitir parecer sobre os programas dos concursos e cadernos de encargos das concessões dos serviços e operações portuárias propostos pelas administrações Portuárias, sempre que a lei preveja a intervenção da tutela;\n\no) Emitir parecer sobre a renovação das concessões dos serviços e operações portuárias, sempre que a lei preveja a intervenção da tutela;\n\np) Emitir parecer vinculativo sobre os regulamentos de exploração e de utilização dos portos, a serem submetidos pelas administrações portuárias;\n\nq) Assegurar a criação e a gestão de uma base de dados com informação actualizada sobre os serviços portuários;\n\nr) Definir os requisitos gerais relativos a áreas específicas de actividade, nomeadamente a formação sectorial, a marítimo-turística e o recreio náutico.\n\n2 - A Direcção de Serviços de Regulação integra o Departamento de Regulação Dominial e de Serviços."
+  },
+  "56425b59774eabac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direcção de Infra-Estruturas e Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção de Infra-Estruturas e Ambiente\n\n1 - A Direcção de Infra-Estruturas e Ambiente tem as seguintes competências:\n\na) Manter actualizado o cadastro geral das infra-estruturas portuárias;\n\nb) Analisar os planos anuais e plurianuais de investimentos elaborados pelas administrações Portuárias;\n\nc) Promover estudos, planos, projectos e obras quanto à gestão dos portos secundários, portos de pesca e náutica de recreio sob sua jurisdição;\n\nd) Promover, realizar e acompanhar os projectos de investigação, desenvolvimento e inovação;\n\ne) Promover e realizar estudos e projectos de desenvolvimento e ordenamento das infra-estruturas portuárias e das operações de dragagem e imersão de resíduos e inertes;\n\nf) Acompanhar a monitorização e os planos de manutenção das infra-estruturas portuárias;\n\ng) Acompanhar a política ambiental quanto às infra-estruturas portuárias.\n\n2 - A Direcção de Serviços de Infra-Estruturas e Ambiente integra os seguintes departamentos:\n\na) Departamento de Ambiente, Ordenamento e Projecto;\n\nb) Departamento de Infra-Estruturas."
+  },
+  "3f1b7576e2e54ac6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção de Serviços de Segurança Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Segurança Marítima\n\n1 - A Direcção de Serviços de Segurança Marítima tem as seguintes competências:\n\na) Assegurar e garantir a eficiência do controlo do tráfego marítimo a nível nacional, sem prejuízo da operação dos sistemas sob a responsabilidade das Autoridades Portuárias;\n\nb) Promover as acções relativas à investigação técnica dos acidentes marítimos que ocorram nos navios ou por eles provocados, sem prejuízo das competências de outras entidades;\n\nc) Vistoriar as embarcações e outros equipamentos flutuantes e proceder à sua certificação, bem como efectuar as inspecções necessárias visando verificar e assegurar o cumprimento das normas nacionais e internacionais aplicáveis e exercer os actos de fiscalização nelas previstos;\n\nd) Exercer as atribuições de aprovação, homologação, inspecção e certificação das construções de novas embarcações, modificações e legalização das embarcações de pavilhão estrangeiro que pretendam arvorar a Bandeira Nacional;\n\ne) Fixar, quando aplicável, as lotações de passageiros e tripulantes das embarcações e emitir os respectivos certificados;\n\nf) Verificar as condições legais e técnicas da actividade do pessoal do mar, nomeadamente no que se refere à inscrição marítima, carreiras e certificações, bem como as condições de segurança, higiene e bem-estar a bordo;\n\ng) Coordenar e executar as inspecções relativas ao controlo dos navios estrangeiros;\n\nh) Exercer os poderes que nos termos da lei lhe são atribuídos no domínio da náutica de recreio;\n\ni) Avaliar e fiscalizar a actividade das organizações reconhecidas que tenham estabelecido acordos de delegação de tarefas com o Estado Português, no âmbito da segurança marítima, prevenção da poluição e da protecção do transporte marítimo;\n\nj) Desenvolver as acções necessárias ao acompanhamento de formação na área marítima, nomeadamente pela credenciação de centros de formação ou outras entidades, pela elaboração de pareceres sobre os conteúdos programáticos, a duração e o processo de avaliação dos cursos a ministrar, pelo estabelecimento de acordos com entidades competentes em matéria de formação e qualificação e demais aspectos relacionados com o processo formativo;\n\nl) Exercer os poderes previstos na lei, nos domínios da salvaguarda da vida humana no mar, da prevenção da poluição e da protecção do transporte marítimo;\n\nm) Exercer actividades da função de autoridade nacional de controlo do tráfego marítimo, assegurando, designadamente, o cumprimento das normas nacionais e internacionais sobre o controlo e segurança marítima;\n\nn) Assegurar o acompanhamento e a participação do IPTM, I. P., nas actividades dos diversos organismos internacionais nas áreas de atribuição desta direcção;\n\no) Exercer as actividades da função de autoridade nacional de controlo de tráfego marítimo, assegurando, designadamente, o cumprimento das normas nacionais e internacionais sobre o controlo e segurança marítima;\n\np) Assegurar a gestão dos programas e projectos de apoio à formação e estágios a bordo dos marítimos;\n\nq) Acompanhar e fiscalizar o cumprimento das normas internacionais a que Portugal se encontra obrigado, por parte dos estabelecimentos de ensino náutico;\n\nr) Proceder à consignação de identificações e licenciamento das estações de radiocomunicações das embarcações;\n\ns) Aprovar e certificar as estações de serviço destinadas a efectuar revisões periódicas de jangadas pneumáticas;\n\nt) Coordenar os assuntos relacionados com as vistorias e emissão dos certificados dos navios tendo em vista o seu registo temporário;\n\nu) Exercer as funções de administração nacional competente no âmbito das vistorias obrigatórias às embarcações ferry ro-ro e de passageiros de alta velocidade exploradas em serviços regulares;\n\nv) Exercer as funções atribuídas à entidade competente no âmbito da regulamentação das normas aplicáveis aos equipamentos marítimos para instalação em embarcações sujeitas a certificação de segurança por força das convenções internacionais;\n\nx) Exercer a função de entidade competente no âmbito do sistema de registo de dados de passageiros dos navios de passageiros que escalam portos nacionais;\n\nz) Assegurar a aplicação e fiscalização dos diplomas que integram as normas de construção, manutenção e certificação das embarcações de passageiros que efectuam viagens domésticas, no âmbito da Directiva n.º [98/18/CE](http://data.europa.eu/eli/dir/1998/18/oj?locale=pt);\n\naa) Assegurar a aplicação e fiscalização dos diplomas que integram as normas de construção, manutenção e certificação das embarcações de pesca de comprimento igual ou superior a 24 m, no âmbito da Directiva n.º [97/70/CE](http://data.europa.eu/eli/dir/1997/70/oj?locale=pt);\n\nab) Assegurar o cumprimento do Regulamento (CEE) n.º [1381/87](http://data.europa.eu/eli/reg/1987/1381/oj?locale=pt), relativo à marcação e à documentação dos navios de pesca;\n\nac) Assegurar o cumprimento do Regulamento (CE) n.º [417/2002](http://data.europa.eu/eli/reg/2002/417/oj?locale=pt), relativo à introdução acelerada dos requisitos de construção em casco duplo para os navios petroleiros;\n\nad) Assegurar o cumprimento do Regulamento (CE) n.º [782/2003](http://data.europa.eu/eli/reg/2003/782/oj?locale=pt), relativo à proibição dos compostos organo-estânicos nos navios.\n\n2 - A Direcção de Serviços de Segurança Marítima integra os seguintes departamentos:\n\na) Departamento de Pessoal do Mar;\n\nb) Departamento da Náutica de Recreio;\n\nc) Departamento de Navios em Serviço;\n\nd) Departamento de Inspecção a Navios Estrangeiros;\n\ne) Departamento de Novas Construções;\n\nf) Departamento de Padrões Técnicos de Segurança."
+  },
+  "623e98685f76094d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Actividades Sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Actividades Sectoriais\n\n1 - A Direcção de Serviços de Actividades Sectoriais tem as seguintes competências:\n\na) Desenvolver as acções necessárias ao acompanhamento de formação na área portuária, nomeadamente pela credenciação de centros de formação ou outras entidades, pela elaboração de pareceres sobre os conteúdos programáticos, a duração e o processo de avaliação dos cursos a ministrar, pelo estabelecimento de acordos com entidades competentes em matéria de formação e qualificação e demais aspectos relacionados com o processo formativo;\n\nb) Promover, quando necessário, e sem prejuízo de outras entidades competentes, acções de formação profissional;\n\nc) Manter actualizado um registo sobre centros de formação e cursos aprovados;\n\nd) Licenciar as empresas de trabalho portuário, ouvidas as competentes administrações Portuárias, e fiscalizar o preenchimento e manutenção dos requisitos do licenciamento;\n\ne) Desenvolver as acções necessárias à correcta aplicação do normativo sobre saúde, higiene, prevenção e segurança no trabalho portuário;\n\nf) Apoiar a elaboração de projectos legais e regulamentares na área do trabalho portuário e relativamente ao licenciamento das empresas de estiva;\n\ng) Acompanhar o cumprimento das disposições que regulam o trabalho portuário, sem prejuízo das competências de outras entidades;\n\nh) Acompanhar a actividade das administrações portuárias sempre que a lei obrigue à intervenção da tutela;\n\ni) Assegurar a gestão das medidas de apoio ao desenvolvimento da marinha de comércio;\n\nj) Inscrever e licenciar para o exercício de actividades no domínio do transporte marítimo, da marítimo-turística, dos agentes de navegação e conexas;\n\nl) Promover e acompanhar as actividades do transporte marítimo e conexas;\n\nm) Acompanhar e fiscalizar o cumprimento dos contratos de concessão dos serviços portuários, sem prejuízo das competências das administrações portuárias;\n\nn) Promover a elaboração, a avaliação e a revisão do Plano Nacional Marítimo-Portuário e assegurar a sua articulação com os demais instrumentos de gestão territorial;\n\no) Promover a execução do Plano Nacional Marítimo-Portuário, bem como proceder à avaliação dos seus impactos espaciais e sócio-económicos;\n\np) Acompanhar a elaboração dos Planos de Estratégia e Exploração dos Portos;\n\nq) Promover a consolidação da informação a nível nacional, através da elaboração de parecer sobre os principais instrumentos de reporte de resultados do sistema portuário nacional;\n\nr) Desenvolver as acções necessárias à concretização do novo modelo de gestão dos portos comerciais nacionais, portos de pesca e de náutica de recreio, sem prejuízo das competências das administrações portuárias;\n\ns) Acompanhar a prestação dos serviços portuários, sem prejuízo das competências das administrações portuárias;\n\nt) Acompanhar os processos de elaboração, alteração e revisão dos planos municipais de ordenamento do território e dos planos especiais de ordenamento do território, bem como de outros instrumentos de planeamento com incidência territorial nas áreas sob jurisdição portuária e suas envolventes;\n\nu) Coordenar e integrar a definição dos objectivos plurianuais e anuais para o sector marítimo-portuário a submeter à aprovação do ministro da tutela;\n\nv) Proceder ao registo geral das empresas prestadoras de serviços portuários;\n\nx) Organizar e manter actualizado o registo nacional dos títulos por si emitidos, bem como dos trabalhadores do efectivo dos portos, das empresas de trabalho portuário, das empresas de estiva;\n\nz) Tratar os elementos contabilísticos e outra informação a fornecer pelas administrações portuárias e outras entidades licenciadas que operam no sector portuário respeitantes à sua organização e actuação no sector;\n\naa) Exercer os poderes determinados na lei nos domínios da protecção do transporte marítimo e dos portos e da carga e descarga de granéis;\n\nab) Acompanhar e exercer as competências da lei nas matérias de ambiente e de protecção do meio marinho, na relação dos transportes marítimos e portos;\n\nac) Assegurar o acompanhamento e a participação do IPTM, I. P., nas actividades dos diversos organismos internacionais nas áreas de atribuição desta direcção;\n\nad) Assegurar a cooperação no plano comunitário e internacional.\n\n2 - A Direcção de Serviços de Actividades Sectoriais integra os seguintes departamentos:\n\na) Departamento de Transportes Marítimos;\n\nb) Departamento de Actividades Portuárias;\n\nc) Departamento de Planeamento e Controle de Gestão."
+  },
+  "dae2d1b05eb9ec75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Administração\n\n1 - A Direcção de Serviços de Administração tem as seguintes competências:\n\na) Apoiar o conselho directivo na definição de estratégias, políticas e objectivos no âmbito da sua actuação;\n\nb) Garantir a optimização da gestão dos meios financeiros;\n\nc) Preparar os projectos de orçamento de funcionamento e de investimento e assegurar o controlo da execução orçamental, bem como acompanhar e avaliar a execução financeira dos programas de investimento;\n\nd) Organizar a contabilidade do IPTM, I. P., e assegurar todos os procedimentos relacionados com as receitas e as despesas, coordenando os procedimentos relativos à requisição de fundos e alterações orçamentais;\n\ne) Organizar e manter actualizado o inventário dos bens móveis e imóveis;\n\nf) Assegurar as aquisições e gestão dos bens e serviços;\n\ng) Assegurar a funcionalidade das instalações e dos equipamentos;\n\nh) Assegurar a gestão racional dos recursos humanos;\n\ni) Preparar os elementos necessários à definição das políticas de selecção e de recrutamento;\n\nj) Diagnosticar as necessidades de formação e promover, acompanhar e avaliar a sua execução;\n\nl) Efectuar os procedimentos relativos à admissão e progressão do pessoal nas carreiras profissionais, bem como fazer o processamento das remunerações, encargos sociais e outras obrigações legais;\n\nm) Superintender e assegurar a segurança, higiene e saúde no trabalho;\n\nn) Coordenar as acções de produção e divulgação de imagem do IPTM, I. P.;\n\no) Assegurar os serviços de atendimento e de expediente e organizar o fluxo informativo;\n\np) Promover a divulgação das actividades do IPTM, I. P., bem como da informação de interesse para o sector marítimo-portuário e coordenar as actividades de edição e reprodução de documentos;\n\nq) Organizar e assegurar o protocolo de reuniões, conferências e actos solenes promovidos pelo IPTM, I. P., e coordenar a sua participação em actos da mesma natureza;\n\nr) Preparar a informação noticiosa e os contactos com os meios de comunicação social;\n\ns) Organizar e gerir o acervo documental do IPTM, I. P.\n\n2 - A Direcção de Serviços de administração integra os seguintes departamentos:\n\na) Departamento de Gestão Financeira e Patrimonial;\n\nb) Departamento de Recursos Humanos;\n\nc) Departamento de Relações Públicas e Documentação;\n\nd) Departamento de Informática."
+  },
+  "226ded145314457b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Assessoria Jurídica e Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Assessoria Jurídica e Contencioso\n\nA Direcção de Serviços de Assessoria Jurídica e Contencioso é responsável pela prestação de apoio jurídico especializado, bem como pela coordenação do desenvolvimento e enquadramento legal e da regulamentação do sector marítimo-portuário, competindo-lhe:\n\na) Colaborar na preparação e elaborar projectos de diplomas legais, de regulamentos, de contratos ou de quaisquer outros actos jurídicos;\n\nb) Elaborar informações e pareceres de natureza jurídica que lhe forem solicitados pelo conselho directivo;\n\nc) Proceder à identificação e análise de questões legais relacionadas com os transportes marítimos, cujo esclarecimento se revele conveniente;\n\nd) Proceder à organização e promover a instrução de processos disciplinares, de inquérito ou similares de que seja incumbida;\n\ne) Acompanhar os processos de contencioso administrativo, judicial e comunitário, no âmbito da actividade do IPTM, I. P.;\n\nf) Garantir a permanente actualização dos normativos jurídicos e proceder à preparação da transposição de normativos comunitários;\n\ng) Proceder à identificação e recolha da legislação nacional e comunitária e de jurisprudência com interesse para as actividades prosseguidas pelo IPTM, I. P., e elaborar e manter actualizado o respectivo sistema de base documental;\n\nh) Acompanhar os sistemas de gestão e cumprimento dos tratados, convenções e protocolos internacionais nas áreas de intervenção do IPTM, I. P., e analisar as condicionantes que impõem sobre as políticas e medidas nacionais."
+  },
+  "bf4b2f0c8680974c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Delegações regionais\n\nO IPTM, I. P., tem três delegações regionais:\n\na) Delegação do Norte e Douro;\n\nb) Delegação do Centro;\n\nc) Delegação do Sul."
+  },
+  "764a3543d5cae129": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Unidades das Delegações Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Unidades das Delegações Regionais\n\n1 - A Delegação Regional do Norte e Douro é constituída pelas seguintes unidades orgânicas:\n\na) Direcção de Serviços de Exploração, Segurança e Pilotagem;\n\nb) Departamento Administrativo e Financeiro;\n\nc) Departamento de Infra-Estruturas e Património;\n\nd) Departamento de Exploração e Comercial.\n\n2 - A Delegação Regional do Centro é constituída pelas seguintes unidades orgânicas:\n\na) Departamento de Exploração, Segurança e Pilotagem;\n\nb) Departamento de Exploração do Porto de Peniche e de Exploração do Porto da Nazaré;\n\nc) Departamento Administrativo e Financeiro.\n\n3 - A Delegação Regional do Sul é constituída pelas seguintes unidades orgânicas:\n\na) Direcção de Serviços de Infra-Estruturas e Exploração;\n\nb) Departamento de Exploração e Gestão Dominial;\n\nc) Departamento Administrativo e Financeiro;\n\nd) Departamento de Pilotagem."
+  },
+  "d2c0fa1173b8de16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências das Delegações Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências das Delegações Regionais\n\n1 - Às Delegações Regionais do Norte e Douro, Centro e Sul, de acordo com as respectivas áreas de jurisdição, compete assegurar a administração dos portos que permanecem sob jurisdição do IPTM, I. P., assim como com promover a navegabilidade do rio Douro, apoiando o desenvolvimento das acções necessárias à concretização do novo modelo de gestão dos portos comerciais, portos de pesca e de náutica de recreio, desempenhando as funções de administração marítima que lhes sejam cometidas.\n\n2 - A remuneração do director delegado é fixada em regulamento interno."
+  },
+  "d3b12c3291e66776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência dos directores delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência dos directores delegados\n\n1 - Compete ao director delegado, em nome e representação do conselho directivo:\n\na) Exercer funções de autoridade portuária relativamente à actividade dos portos integrados na respectiva delegação regional, nos termos do Decreto-Lei n.º 46/2002, de 2 de Março;\n\nb) Coordenar a acção de todos os serviços da delegação;\n\nc) Elaborar os regulamentos necessários à exploração dos portos e submetê-los à aprovação do conselho directivo;\n\nd) Exercer ou autorizar as actividades portuárias, ou as com estas directamente relacionadas, respeitantes a movimento de navios e de mercadorias, a armazenagem e outras prestações de serviços, como fornecimento de água, energia eléctrica, combustíveis e aluguer de equipamentos, bem como aplicar sanções previstas na lei, sem prejuízo da competência conferida a outras entidades;\n\ne) Atribuir licenças para a utilização de bens do domínio público do Estado integrados na respectiva área de jurisdição;\n\nf) Propor as medidas necessárias ao garante da segurança das instalações portuárias, promovendo a regulamentação necessária e utilizando os meios e dispositivos adequados;\n\ng) Cobrar e arrecadar as receitas provenientes da exploração dos portos e todas as outras que legalmente lhe pertençam e autorizar a restituição de verbas indevidamente cobradas;\n\nh) Representar o IPTM, I. P., em todos os actos que se relacionem com a actividade da delegação.\n\n2 - O director delegado para a gestão da navegabilidade do Douro assegura a gestão e o funcionamento da respectiva delegação do IPTM, I. P., competindo-lhe:\n\na) Coordenar a acção dos serviços da delegação;\n\nb) Decidir sobre os actos relativos à navegação em toda a via navegável, sem prejuízo das competências atribuídas a outras entidades em matéria de segurança e disciplina da navegação;\n\nc) Dar parecer sobre as acções que, incidindo na sua área de jurisdição ou fora dela, possam interferir com a navegação;\n\nd) Efectuar ou licenciar a extracção de inertes na sua área de jurisdição de acordo com o plano específico para esta actividade, garantindo a sua fiscalização;\n\ne) Assegurar o sistema de sinalização e balizagem;\n\nf) Assegurar a rede das comunicações radiotelefónicas necessárias à exploração da via navegável;\n\ng) Cobrar as taxas de circulação na via navegável que venham a ser aprovadas pelo Governo, bem como quaisquer outras taxas e tarifas que por lei ou regulamento lhe sejam afectas, propondo as alterações que considere necessárias;\n\nh) Definir e estabelecer com as entidades públicas que detêm funções de fiscalização formas de actuação articuladas tendo em vista o cumprimento das regras de utilização e manutenção da via navegável;\n\ni) Decidir sobre as condições de navegabilidade na via navegável;\n\nj) Instruir os processos de contra-ordenação ou confiar a sua instrução a serviços ou agentes com funções de fiscalização, bem como aplicar as coimas ou as sanções legalmente previstas;\n\nl) Promover a utilização da via navegável;\n\nm) Promover a elaboração e actualização permanente de um roteiro da via navegável;\n\nn) Coordenar a divulgação da informação hidrológica necessária à navegação;\n\no) Licenciar as utilizações privativas do domínio hídrico relacionadas com a navegação;\n\np) Representar o IPTM, I. P., em todos os actos que se relacionem com a actividade da delegação."
+  },
+  "efa8e98cd8e641f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção de Serviços de Segurança Marítima",
+   "in_force_from": "2012-05-08",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+   ],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Segurança Marítima\n\n1 - A Direcção de Serviços de Segurança Marítima tem as seguintes competências:\n\na) Assegurar e garantir a eficiência do controlo do tráfego marítimo a nível nacional, sem prejuízo da operação dos sistemas sob a responsabilidade das Autoridades Portuárias;\n\nb) (Revogada.)\n\nc) Vistoriar as embarcações e outros equipamentos flutuantes e proceder à sua certificação, bem como efectuar as inspecções necessárias visando verificar e assegurar o cumprimento das normas nacionais e internacionais aplicáveis e exercer os actos de fiscalização nelas previstos;\n\nd) Exercer as atribuições de aprovação, homologação, inspecção e certificação das construções de novas embarcações, modificações e legalização das embarcações de pavilhão estrangeiro que pretendam arvorar a Bandeira Nacional;\n\ne) Fixar, quando aplicável, as lotações de passageiros e tripulantes das embarcações e emitir os respectivos certificados;\n\nf) Verificar as condições legais e técnicas da actividade do pessoal do mar, nomeadamente no que se refere à inscrição marítima, carreiras e certificações, bem como as condições de segurança, higiene e bem-estar a bordo;\n\ng) Coordenar e executar as inspecções relativas ao controlo dos navios estrangeiros;\n\nh) Exercer os poderes que nos termos da lei lhe são atribuídos no domínio da náutica de recreio;\n\ni) Avaliar e fiscalizar a actividade das organizações reconhecidas que tenham estabelecido acordos de delegação de tarefas com o Estado Português, no âmbito da segurança marítima, prevenção da poluição e da protecção do transporte marítimo;\n\nj) Desenvolver as acções necessárias ao acompanhamento de formação na área marítima, nomeadamente pela credenciação de centros de formação ou outras entidades, pela elaboração de pareceres sobre os conteúdos programáticos, a duração e o processo de avaliação dos cursos a ministrar, pelo estabelecimento de acordos com entidades competentes em matéria de formação e qualificação e demais aspectos relacionados com o processo formativo;\n\nl) Exercer os poderes previstos na lei, nos domínios da salvaguarda da vida humana no mar, da prevenção da poluição e da protecção do transporte marítimo;\n\nm) Exercer actividades da função de autoridade nacional de controlo do tráfego marítimo, assegurando, designadamente, o cumprimento das normas nacionais e internacionais sobre o controlo e segurança marítima;\n\nn) Assegurar o acompanhamento e a participação do IPTM, I. P., nas actividades dos diversos organismos internacionais nas áreas de atribuição desta direcção;\n\no) Exercer as actividades da função de autoridade nacional de controlo de tráfego marítimo, assegurando, designadamente, o cumprimento das normas nacionais e internacionais sobre o controlo e segurança marítima;\n\np) Assegurar a gestão dos programas e projectos de apoio à formação e estágios a bordo dos marítimos;\n\nq) Acompanhar e fiscalizar o cumprimento das normas internacionais a que Portugal se encontra obrigado, por parte dos estabelecimentos de ensino náutico;\n\nr) Proceder à consignação de identificações e licenciamento das estações de radiocomunicações das embarcações;\n\ns) Aprovar e certificar as estações de serviço destinadas a efectuar revisões periódicas de jangadas pneumáticas;\n\nt) Coordenar os assuntos relacionados com as vistorias e emissão dos certificados dos navios tendo em vista o seu registo temporário;\n\nu) Exercer as funções de administração nacional competente no âmbito das vistorias obrigatórias às embarcações ferry ro-ro e de passageiros de alta velocidade exploradas em serviços regulares;\n\nv) Exercer as funções atribuídas à entidade competente no âmbito da regulamentação das normas aplicáveis aos equipamentos marítimos para instalação em embarcações sujeitas a certificação de segurança por força das convenções internacionais;\n\nx) Exercer a função de entidade competente no âmbito do sistema de registo de dados de passageiros dos navios de passageiros que escalam portos nacionais;\n\nz) Assegurar a aplicação e fiscalização dos diplomas que integram as normas de construção, manutenção e certificação das embarcações de passageiros que efectuam viagens domésticas, no âmbito da Directiva n.º [98/18/CE](http://data.europa.eu/eli/dir/1998/18/oj?locale=pt);\n\naa) Assegurar a aplicação e fiscalização dos diplomas que integram as normas de construção, manutenção e certificação das embarcações de pesca de comprimento igual ou superior a 24 m, no âmbito da Directiva n.º [97/70/CE](http://data.europa.eu/eli/dir/1997/70/oj?locale=pt);\n\nab) Assegurar o cumprimento do Regulamento (CEE) n.º [1381/87](http://data.europa.eu/eli/reg/1987/1381/oj?locale=pt), relativo à marcação e à documentação dos navios de pesca;\n\nac) Assegurar o cumprimento do Regulamento (CE) n.º [417/2002](http://data.europa.eu/eli/reg/2002/417/oj?locale=pt), relativo à introdução acelerada dos requisitos de construção em casco duplo para os navios petroleiros;\n\nad) Assegurar o cumprimento do Regulamento (CE) n.º [782/2003](http://data.europa.eu/eli/reg/2003/782/oj?locale=pt), relativo à proibição dos compostos organo-estânicos nos navios.\n\n2 - A Direcção de Serviços de Segurança Marítima integra os seguintes departamentos:\n\na) Departamento de Pessoal do Mar;\n\nb) Departamento da Náutica de Recreio;\n\nc) Departamento de Navios em Serviço;\n\nd) Departamento de Inspecção a Navios Estrangeiros;\n\ne) Departamento de Novas Construções;\n\nf) Departamento de Padrões Técnicos de Segurança.\n\n> Alterado pelo/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07."
+  }
+ }
+}

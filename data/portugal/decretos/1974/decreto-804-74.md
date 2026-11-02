@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-09-16'
+version_history:
+  file: decreto-804-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-09-16'
+    amending: pt:dre:408542:por
+    amending_title: Decreto n.º 686/76
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:36:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 686/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1974/decreto-804-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,11 +120,15 @@ Considerando necessário e urgente proceder à liquidação do Grémio dos Indus
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.
+###### Artigo 1.º
+
+1. É extinto o Grémio dos Industriais de Transportes em Automóveis, criado pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267), de 5 de Fevereiro de 1935.
 
 2. A extinção efectiva processar-se-á em 31 de Dezembro de 1974, podendo excepcionalmente fixar-se uma data posterior mediante despacho do Secretário de Estado dos Transportes e Comunicações.
 
-Art. 2.º - 1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.
+###### Artigo 2.º
+
+1. Por despacho do Secretário de Estado dos Transportes e Comunicações será nomeada uma comissão liquidatária, a fim de assegurar o funcionamento dos serviços e a gestão do pessoal.
 
 2. A esta comissão compete:
 
@@ -125,7 +144,9 @@ e) Dar parecer sobre todas as matérias que superiormente sejam submetidas à su
 
 3. Ao presidente da comissão cabem as atribuições cometidas ao delegado do Governo no Grémio dos Industriais de Transportes em Automóveis pelo [Decreto n.º 25004](https://diariodarepublica.pt/dr/detalhe/decreto/25004-1935-376267).
 
-Art. 3.º - 1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:
+###### Artigo 3.º
+
+1. A extinção efectiva do Grémio dos Industriais de Transportes em Automóveis implica a transferência para as entidades que venham a substituí-lo, mediante despacho do Secretário de Estado dos Transportes e Comunicações:
 
 a) Das funções que devam subsistir;
 
@@ -139,15 +160,23 @@ c) Dos saldos de fundos existentes.
 
 4. A transferência do património dos organismos extintos está isenta de quaisquer contribuições e impostos.
 
-Art. 4.º - 1 O pessoal do organismo extinto deverá ficar ao serviço das entidades privadas, às quais venham a ser atribuídas as funções que àquele competiam e a totalidade ou parte do seu património.
+###### Artigo 4.º
+
+1 - (Revogado.)
 
 2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.
 
 3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.
 
-Art. 5.º As dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações.
+> Alterado pelo/a [Decreto n.º 686/76](https://diariodarepublica.pt/dr/detalhe/decreto/686-1976-408542), publicado em 1976-09-16.
 
-Art. 6.º Este diploma entra imediatamente em vigor.
+###### Artigo 5.º
+
+As dúvidas suscitadas na aplicação deste diploma serão esclarecidas por despacho do Secretário de Estado dos Transportes e Comunicações.
+
+###### Artigo 6.º
+
+Este diploma entra imediatamente em vigor.
 
 Vasco dos Santos Gonçalves - José Augusto Fernandes.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-11'
+version_history:
+  file: portaria-769-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-11'
+    amending: pt:dre:640120:por
+    amending_title: Portaria n.º 1088/2007
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/769/2007/07/09/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:25:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1088/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-769-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,6 +137,6 @@ Ao abrigo do disposto no n.º 1 do artigo 86.º do [Decreto-Lei n.º 129/98](htt
 
 ###### Artigo único — Alteração do quadro de pessoal do Registo Nacional de Pessoas Colectivas
 
-O quadro de pessoal do Registo Nacional de Pessoas Colectivas é acrescido de 10 lugares de primeiro-ajudante, a extinguir quando vagarem.
+O quadro de pessoal do Registo Nacional de Pessoas Colectivas é acrescido de 10 lugares de ajudante principal, a extinguir quando vagarem.
 
-Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 21 de Junho de 2007.
+> Alterado pelo/a [Portaria n.º 1088/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1088-2007-640120), publicado em 2007-09-06.

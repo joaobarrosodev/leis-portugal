@@ -39,10 +39,42 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-113-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345605:por
+    amending_title: Decreto-Lei n.º 103/2014
+    changes:
+    - Altera Artigo 3.º
+    - Revoga Artigo 4.º
+    - Altera Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Altera Artigo ANEXO::2.º
+    - Altera Artigo ANEXO::3.º
+    - Altera Artigo ANEXO::4.º
+    - Altera Artigo ANEXO::5.º
+    - Revoga Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::8.º
+    - Altera Artigo ANEXO::9.º
+    - Altera Artigo ANEXO::10.º
+    - Altera Artigo ANEXO::12.º
+    - Altera Artigo ANEXO::25.º
+    - Adita Artigo ANEXO::25.º-A
+    - Revoga Artigo ANEXO::27.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/113/1996/08/05/p/dre/pt/html
@@ -68,7 +100,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:43:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 103/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-113-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,19 +201,19 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 3.º
 
-1 - A exploração e gestão do sistema multimunicipal do Vale do Minho é adjudicada, em regime de concessão exclusiva, à VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.
+1 - A exploração e gestão do sistema multimunicipal do Vale do Minho é atribuída em regime de concessão exclusiva à VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., até 31 de dezembro de 2034.
 
-2 - A atribuição da concessão opera-se mediante contrato administrativo a celebrar entre o Estado, representado pelo Ministro do Ambiente, e a sociedade referida no número anterior.
+2 - (Revogado.)
 
-3 - Na data da celebração do contrato de concessão será prestada a caução referente à exploração.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
-1 - Os municípios utilizadores devem articular os seus sistemas de recolha e transporte de resíduos sólidos urbanos com o sistema multimunicipal.
+(Revogado.)
 
-2 - A articulação entre os sistemas municipais de recolha e transporte de resíduos sólidos urbanos e o correspondente sistema multimunicipal será assegurada através dos contratos referidos no número seguinte.
-
-3 - Em simultâneo com o contrato de concessão, serão celebrados entre os municípios referidos no artigo 1.º e a sociedade contratos de entrega, de recepção e de recolha selectiva de resíduos sólidos urbanos.
+> Revogado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 5.º
 
@@ -188,53 +221,21 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - Os estatutos referidos no número anterior não carecem de redução a escritura pública, devendo o registo comercial ser feito oficiosamente, sem taxas ou emolumentos, com base na publicação no Diário da República.
 
-3 - As alterações aos estatutos regem-se pelas suas disposições e pela lei comercial.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 
-1 - São titulares originários das acções da sociedade os municípios de Caminha, Melgaço, Monção, Paredes de Coura, Valença, Vila Nova de Cerveira e a Empresa Geral do Fomento, S. A.
+(Revogado.)
 
-2 - O capital social, no montante de 90000000$00, é representado por 90000 acções, com o valor nominal unitário de 1000$00, repartidas da seguinte forma:
-
-a) Município de Caminha, 8550 acções da classe A;
-
-b) Município de Melgaço, 5850 acções da classe A;
-
-c) Município de Monção, 11520 acções da classe A;
-
-d) Município de Paredes de Coura, 5580 acções da classe A;
-
-e) Município de Valença, 7740 acções da classe A;
-
-f) Município de Vila Nova de Cerveira, 4860 acções da classe A;
-
-g) Empresa Geral do Fomento, S. A., 45900 acções da classe A.
-
-3 - As acções da classe A deverão representar, no mínimo, 51% do capital social com direito a voto e delas apenas poderão ser titulares pessoas colectivas de direito público ou outros entes públicos, nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
-
-4 - A transmissão de acções em violação do disposto no número anterior é nula.
-
-5 - Sem prejuízo do disposto no n.º 3, as acções da classe A poderão ser convertidas em acções da classe B a pedido do seu titular e mediante prévia deliberação da assembleia geral.
-
-6 - A transmissão ou oneração, por qualquer forma, das acções da sociedade efectuada até 1 de Janeiro de 1999 carece de autorização do concedente ou de quem o represente.
+> Revogado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 7.º
 
-1 - A sociedade instalará os seguintes equipamentos e executará as seguintes actividades e obras, com as adaptações técnicas resultantes do desenvolvimento do projecto, nos termos do contrato de concessão:
+(Revogado.)
 
-a) Implementação e desenvolvimento do sistema de recolha selectiva;
-
-b) Construção de centros de triagem e valorização de resíduos sólidos urbanos;
-
-c) Construção de uma estação de transferência;
-
-d) Construção de um aterro sanitário para resíduos sólidos urbanos e unidades de tratamento complementar;
-
-e) Selagem das lixeiras existentes;
-
-f) Outros equipamentos que se revelem necessários.
-
-2 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, deverão ser previamente aprovados pelo Ministro do Ambiente, com dispensa de quaisquer outros licenciamentos.
+> Revogado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
@@ -248,6 +249,24 @@ Referendado em 22 de Julho de 1996.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
+###### Artigo 8.º
+
+1 - É criado um conselho consultivo, ao qual compete o acompanhamento da atividade geral da sociedade, nomeadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
+
+2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., bem como os membros do respetivo conselho de administração e o fiscal único desta.
+
+> Aditado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
+
+###### Artigo 9.º
+
+1 - A VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
+
+2 - O valor da caução é de 5% do volume de negócios da empresa no ano anterior ao da data da sua prestação.
+
+3 - A prestação da caução referida no número anterior deve ocorrer no prazo prazo máximo de 90 dias após a VALORMINHO - Valorização e Tratamento de Resíduos Sólidos, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Aditado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
+
 ## ANEXO
 
 ### CAPÍTULO I
@@ -260,49 +279,51 @@ A sociedade adopta a denominação de VALORMINHO - Valorização e Tratamento de
 
 ###### Artigo 2.º
 
-1 - A sede social é na Praça da República, concelho de Valença, Câmara Municipal de Valença.
+1 - A sede social é no Lugar de Arraial, São Pedro da Torre, 4930-514 Valença.
 
 2 - Por deliberação do conselho de administração, a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.
 
 3 - Por deliberação do conselho de administração, poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação.
 
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
+
 ### CAPÍTULO II — Objecto
 
 ###### Artigo 3.º
 
-1 - A sociedade tem por objecto social principal as actividades de recolha selectiva, triagem, tratamento e valorização de resíduos sólidos, nomeadamente através de:
+1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Vale do Minho.
 
-a) Promoção directa ou indirecta da concepção, construção e exploração de unidades integrantes dos sistemas de transporte, valorização, tratamento e destino final de resíduos sólidos;
+2 - A exploração e a gestão referidas no número anterior compreendem:
 
-b) Prestação de serviços de gestão, fiscalização e assessoria técnica e administrativa a entidades públicas ou privadas que prossigam total ou parcialmente actividade do mesmo ramo.
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
 
-2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pela concedente.
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
-No exercício da sua actividade a sociedade pode participar, originária ou derivadamente, no capital de outras sociedades, ainda que com objecto social diferente, ou ser parte em agrupamentos complementares de empresas, associações em participação ou consórcios, desde que devidamente autorizada pela concedente e a actividade possa ser considerada como acessória ou complementar do seu objecto social.
+No exercício da sua atividade a sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que devidamente autorizada pela concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 5.º
 
-1 - O capital social é de 90000000$00, encontrando-se realizado em 27000000$00, devendo o remanescente, na importância de 63000000$00, ser realizado em dinheiro, por uma ou mais vezes, até três anos, contados da constituição da sociedade, de acordo com as chamadas do conselho de administração, feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
+1 - O capital social é de (euro) 900 000,00, encontrando-se integralmente realizado.
 
-2 - O capital social é representado por 90000 acções da classe A, com o valor nominal de 1000$00 cada uma.
+2 - O capital social é representado por 180 000 ações com o valor nominal de (euro) 5,00 cada uma.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 
-1 - O conselho de administração poderá, por uma ou mais vezes, deliberar o aumento de capital até ao montante global de 180000000$00.
+(Revogado.)
 
-2 - Os aumentos de capital social serão realizados através da emissão de acções da classe A ou da classe B, ou das classes A e B, devendo as acções da classe A representar sempre pelo menos 51% do capital social com direito a voto.
-
-3 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.
-
-4 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.
-
-5 - Apenas poderão ser titulares das acções pertencentes à classe A os municípios utilizadores do sistema multimunicipal de tratamento de resíduos sólidos urbanos do Vale do Minho e os entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
-
-6 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 2, a sociedade deverá proceder previamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquele rácio.
-
-7 - Desde que não seja ultrapassado o limite fixado no n.º 2, as acções da classe A poderão ser convertidas em acções da classe B a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral.
+> Revogado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 7.º
 
@@ -312,37 +333,55 @@ No exercício da sua actividade a sociedade pode participar, originária ou deri
 
 ###### Artigo 8.º
 
-1 - As acções da classe A serão sempre nominativas; as acções da classe B serão nominativas, podendo, no entanto, ser convertidas ao portador a pedido do accionista e mediante deliberação da assembleia geral.
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
-3 - Os títulos representativos das acções deverão mencionar a classe de acções que incorporam.
+3 - (Revogado.)
 
 4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
 
 5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
 
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
+
 ###### Artigo 9.º
 
-1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 5 do artigo 6.º e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
+1 - (Revogado.)
 
-2 - A transmissão de acções em violação do disposto no número anterior é nula.
+2 - (Revogado.)
 
-3 - Existe direito de preferência na transmissão de acções da classe A, primeiro, a favor da sociedade e, depois, a favor dos accionistas titulares da mesma classe de acções, devendo o alienante informar, por escrito, a sociedade desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
+3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
 
-4 - A sociedade, caso não pretenda exercer o direito de venda, o que deverá decidir no prazo de 60 dias contados da data de recepção daquela comunicação, comunicará a todos os accionistas titulares da mesma classe de acções a informação recebida, tendo estes um prazo de 30 dias a contar da sua recepção para declararem se exercem o direito de preferência na aquisição das acções.
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
 
-5 - Querendo vários accionistas preferir, as acções alienadas serão distribuídas a cada um, incluindo o respectivo adquirente, se já for accionista, na proporção das respectivas participações sociais.
+5 - Querendo o acionista transmitir ações, deve pedir o consentimento, por escrito, à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.
 
-6 - A sociedade, primeiro, e, depois, todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às mesmas condições estabelecidas no número anterior.
+6 - A sociedade, deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.
+
+7 - Se a sociedade, não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo, é livre a transmissão das ações.
+
+8 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devendo indicar-se sempre na deliberação o motivo da recusa.
+
+9 - No caso de recusar licitamente o consentimento, a sociedade, fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+
+10 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade, que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
+
+11 - A sociedade, caso aceite o pedido de consentimento ou caso não se pronuncie sobre o mesmo dentro do prazo referido no n.º 6, comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa, a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição de ações.
+
+12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 10.º
 
-1 - Mediante deliberação dos sócios, a sociedade poderá amortizar as acções detidas com infracção do disposto no n.º 6 do artigo 9.º, ou quaisquer acções da classe A que forem penhoradas, arrestadas, arroladas, incluídas em massa falida ou, em geral, apreendidas no âmbito de qualquer acção judicial ou estiverem em condições de ser transmitidas judicialmente.
+1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
-3 - A assembleia geral que deliberar a amortização nos termos dos números anteriores deliberará também o aumento do capital social por emissão de acções da classe A, de modo a restabelecer a percentagem, para esta classe de acções, prevista no n.º 2 do artigo 6.º
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 11.º
 
@@ -356,9 +395,11 @@ No exercício da sua actividade a sociedade pode participar, originária ou deri
 
 ###### Artigo 12.º
 
-1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o revisor oficial de contas.
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração, e o fiscal único que pode ser substituído por um fiscal único suplente.
 
-2 - Os membros da mesa da assembleia geral e do conselho de administração e o revisor oficial de contas são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+2 - Os membros da mesa da assembleia geral e do conselho de administração, o fiscal único e o fiscal único suplente são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ###### Artigo 13.º
 
@@ -456,7 +497,23 @@ A sociedade obriga-se perante terceiros pela assinatura conjunta de dois adminis
 
 ###### Artigo 25.º
 
-A fiscalização da sociedade compete a um revisor oficial de contas, eleito em assembleia geral.
+A fiscalização da sociedade compete a um fiscal único e a um suplente, ambos revisores oficiais de contas ou sociedade de revisores oficiais de contas, eleitos em assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
+
+###### Artigo 25.º-A
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o fiscal único.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+> Aditado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.
 
 ### CAPÍTULO IV — Disposições finais
 
@@ -468,4 +525,6 @@ A fiscalização da sociedade compete a um revisor oficial de contas, eleito em 
 
 ###### Artigo 27.º
 
-A assembleia geral da sociedade fica convocada para se reunir, na sede social, pelas 15 horas do 22.º dia útil após a publicação do presente diploma, para eleição dos titulares dos cargos sociais e aprovação do respectivo estatuto remuneratório.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 103/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2014-25345605), publicado em 2014-07-02.

@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-30'
+version_history:
+  file: resolucao-assembleia-legislativa-regional-7-91-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-30'
+    amending: pt:dre:682196:por
+    amending_title: Declaração de Rectificação n.º 218/91
+    changes:
+    - Retifica Artigo 27.º
+    - Retifica Artigo 111.º
+    - Altera Artigo 93.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolalr/7/1991/08/21/a/dre/pt/html
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:32:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 218/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/resolucoes-assembleia-legislativa/1991/resolucao-assembleia-legislativa-regional-7-91-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -269,7 +286,9 @@ f) Tomar as demais deliberações previstas na lei e neste Regimento.
 
 5 - Fora do funcionamento efectivo do Plenário, cada um dos prazos referidos nos números anteriores é de quarenta e oito horas, e a efectividade da renúncia será comunicada ao interessado, aos representantes dos grupos parlamentares ou ao órgão competente dos partidos.
 
-Para efeitos de contagem dos prazos referidos nos n.os 2 a 5 do presente artigo, observar-se-á o disposto no Código de Processo Civil.
+6 - Para efeitos de contagem dos prazos referidos nos n.os 2 a 5 do presente artigo, observar-se-á o disposto no Código de Processo Civil.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30.
 
 ###### Artigo 28.º — Morte ou incapacidade permanente
 
@@ -1017,7 +1036,9 @@ b) À emissão de votos de congratulação, saudação, protesto ou pesar propos
 
 c) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.
 
-2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora, podendo, uma só vez em cada período legislativo, ser prorrogado por mais uma hora, desde que tal seja requerido por qualquer grupo ou representação parlamentar.
+2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora e meia, podendo ser prorrogado por mais uma hora, em cada reunião, desde que tal seja requerido por qualquer grupo ou representação parlamentar
+
+> Alterado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30.
 
 ###### Artigo 94.º — Expediente e informação
 
@@ -1209,9 +1230,11 @@ O deputado que pedir a palavra para reclamações, recursos, protestos e contrap
 
 2 - No período da ordem do dia, e durante a discussão na generalidade, o tempo do uso da palavra de cada deputado ou membro do Governo Regional não pode exceder vinte minutos na primeira vez e dez na segunda, mas o autor ou um dos autores do projecto ou proposta tem o direito de usar da palavra pela primeira vez antes dos demais oradores inscritos e por um período de trinta minutos.
 
-Durante a discussão na especialidade o tempo máximo do uso da palavra por cada orador será de quinze minutos na primeira vez e cinco na segunda.
+3 - Durante a discussão na especialidade o tempo máximo do uso da palavra por cada orador será de quinze minutos na primeira vez e cinco na segunda.
 
 4 - Aproximando-se o termo do tempo regimental, o deputado ou o membro do Governo Regional será advertido pelo Presidente para resumir as suas considerações.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30.
 
 #### SECÇÃO IV — Deliberações e votações
 

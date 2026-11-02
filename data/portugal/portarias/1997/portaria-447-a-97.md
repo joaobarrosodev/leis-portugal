@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-09-22'
+version_history:
+  file: portaria-447-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-09-22'
+    amending: pt:dre:570552:por
+    amending_title: Portaria n.º 800/2000
+    changes:
+    - Altera Artigo ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de
+      Telecomunicações Complementar Móvel - Serviço Móvel Terrestre::15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/447-a/1997/07/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:02:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 800/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-447-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -323,9 +339,11 @@ f) Melhor qualidade do plano económico-financeiro.
 
 3 - O ICP procede à análise técnica das candidaturas, bem como às demais actividades que lhe sejam solicitadas pela comissão.
 
-4 - A sociedade a que for atribuída a licença não pode alterar a composição e titularidade do seu capital social durante o prazo de 12 anos, salvo autorização do membro do Governo responsável pela área das comunicações, precedida de parecer do ICP.
+4 - (Revogado.)
 
-5 - A alteração da composição e da titularidade do capital social referida no número anterior consubstancia uma alteração à licença e implica o correspondente averbamento no respectivo título, mediante pagamento da taxa aplicável, a qual constitui receita do Estado.
+5 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 800/2000](https://diariodarepublica.pt/dr/detalhe/portaria/800-2000-570552), publicado em 2000-09-21.
 
 ###### Artigo 16.º — Prestação de esclarecimentos pelos concorrentes
 

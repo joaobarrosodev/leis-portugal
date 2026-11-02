@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-06-07'
+version_history:
+  file: decreto-regulamentar-regional-7-2001-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-07'
+    amending: pt:dre:277121:por
+    amending_title: Decreto Regulamentar Regional n.º 17/2004/A
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/7/2001/06/26/a/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:29:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    17/2004/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2001/decreto-regulamentar-regional-7-2001-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,13 +154,19 @@ Assim, ao abrigo do disposto no artigo 2.º do [Decreto Legislativo Regional n.�
 
 a) Pessoal de matadouros;
 
-b) Técnicos profissionais de controlo;
+b) Pessoal operário;
 
-c) Técnicos superiores.
+c) Técnicos profissionais de controlo;
 
-2 - Na carreira de técnico profissional de controlo são abrangidos os funcionários que exercem funções de classificação de carcaças.
+d) Técnicos;
 
-3 - Na carreira de técnico superior são abrangidos os engenheiros mecânicos responsáveis pela manutenção dos equipamentos.
+e) Técnicos superiores.
+
+2 - Na carreira de técnico profissional de controlo e técnica são abrangidos os funcionários que exercem funções de classificação de carcaças.
+
+3 - Na carreira de técnico superior são abrangidos os funcionários cujas funções estejam directamente relacionadas com as actividades do matadouro, nomeadamente recepção, abate, manipulação de carnes, acondicionamento, embalagem, armazenagem e transporte.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 17/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2004-277121), publicado em 2004-06-07.
 
 ###### Artigo 2.º — Suplemento remuneratório
 

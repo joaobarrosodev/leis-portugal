@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-10-21'
+version_history:
+  file: decreto-lei-227-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-10-21'
+    amending: pt:dre:642009:por
+    amending_title: Decreto-Lei n.º 345/2007
+    changes:
+    - Altera Artigo ANEXO::10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227/2003/09/26/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:39:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 345/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-227-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -280,6 +295,10 @@ b) A velocidade da componente axial do vento não deve exceder 1 m/s.
 1 - A velocidade máxima do veículo deve ser expressa em quilómetros/hora, utilizando-se o valor correspondente ao número inteiro mais próximo da média aritmética dos valores das velocidades medidas em dois ensaios consecutivos, que não devem diferir entre si mais de 3%.
 
 2 - Se a média aritmética referida no número anterior se situar exactamente a meio do intervalo entre dois números inteiros, deve ser arredondada para o número superior.
+
+3 - No caso de veículos em que a velocidade máxima não seja limitada pela definição aplicável constante do artigo 2.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, na sua última redacção, não é necessário qualquer ensaio de homologação e a velocidade máxima deve ser aceite como a que foi declarada pelo fabricante do veículo na ficha de informações do anexo ii do referido Regulamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 345/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-2007-642009), publicado em 2007-10-16.
 
 ###### Artigo 11.º — Tolerâncias para a medição da velocidade máxima
 

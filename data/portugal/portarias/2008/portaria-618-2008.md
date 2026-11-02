@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-14'
+version_history:
+  file: portaria-618-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-14'
+    amending: pt:dre:439401:por
+    amending_title: Portaria n.º 1305/2008; Portaria n.º 1049/2010; Portaria n.º 228/2011
+    changes:
+    - Altera Artigo ANEXO::21.º
+    - Adita Artigo ANEXO::13.º-A
+    - Adita Artigo ANEXO::14.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/618/2008/07/14/p/dre/pt/html
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:33:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1305/2008; Portaria
+    n.º 1049/2010; Portaria n.º 228/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-618-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -313,6 +330,24 @@ b) Raças exóticas e raça bovina Frísia.
 
 2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, no prazo máximo de três dias, considerando-se a data da confirmação como data de apresentação do pedido de apoio.
 
+###### Artigo 13.º-A — Avisos de abertura e anúncios
+
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
+
+a) O prazo para apresentação dos pedidos de apoio;
+
+b) O número máximo de pedidos de apoio admitidos por beneficiário;
+
+c) A dotação orçamental a atribuir;
+
+d) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.
+
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
+
+3 - Dentro dos limites da elegibilidade temporal do programa, o aviso define o período de elegibilidade da realização das acções.
+
+> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+
 ###### Artigo 14.º — Análise e decisão sobre os pedidos de apoio
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação.
@@ -320,6 +355,12 @@ b) Raças exóticas e raça bovina Frísia.
 2 - O parecer referido no número anterior é emitido num prazo máximo de 30 dias úteis a contar do termo de apresentação dos pedidos de apoio.
 
 3 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da autoridade de gestão, sendo a mesma comunicada aos candidatos pela DRAP no prazo máximo de 10 dias úteis a contar da data de emissão do parecer.
+
+###### Artigo 14.º-A — Readmissão de pedidos de apoio
+
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.»
+
+> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 15.º — Execução e avaliação dos Programas
 
@@ -355,9 +396,11 @@ Os Programas de Conservação Genética Animal ou de Melhoramento Genético Anim
 
 ###### Artigo 21.º — Reduções e exclusões
 
-1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis às entidades promotoras as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
 
 2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio.
+
+> Alterado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 22.º — Disposições transitórias
 

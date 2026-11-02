@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-05-08'
+version_history:
+  file: portaria-544-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-08'
+    amending: pt:dre:553057:por
+    amending_title: Lei n.º 18/2012
+    changes:
+    - Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO PORTUÁRIO E DOS TRANSPORTES MARÍTIMOS, I. P.::6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/544/2007/04/30/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 18/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-544-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,7 +305,7 @@ b) Departamento de Infra-Estruturas.
 
 a) Assegurar e garantir a eficiência do controlo do tráfego marítimo a nível nacional, sem prejuízo da operação dos sistemas sob a responsabilidade das Autoridades Portuárias;
 
-b) Promover as acções relativas à investigação técnica dos acidentes marítimos que ocorram nos navios ou por eles provocados, sem prejuízo das competências de outras entidades;
+b) (Revogada.)
 
 c) Vistoriar as embarcações e outros equipamentos flutuantes e proceder à sua certificação, bem como efectuar as inspecções necessárias visando verificar e assegurar o cumprimento das normas nacionais e internacionais aplicáveis e exercer os actos de fiscalização nelas previstos;
 
@@ -355,6 +370,8 @@ d) Departamento de Inspecção a Navios Estrangeiros;
 e) Departamento de Novas Construções;
 
 f) Departamento de Padrões Técnicos de Segurança.
+
+> Alterado pelo/a [Lei n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/lei/18-2012-553057), publicado em 2012-05-07.
 
 ###### Artigo 7.º — Direcção de Serviços de Actividades Sectoriais
 

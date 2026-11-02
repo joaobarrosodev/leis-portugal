@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-01-05'
+version_history:
+  file: decreto-lei-47827.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-01-05'
+    amending: pt:dre:492675:por
+    amending_title: Decreto-Lei n.º 7/77
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:01:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 7/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47827.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,11 +121,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos serviços pertencentes ou dependentes do Ministério da Saúde e Assistência é fixado em 55 anos.
+###### Artigo 1.º
 
-2. Para pessoal de enfermagem e técnico auxiliar este limite é fixado em 40 anos.
+1 - (Revogado.)
 
-Art. 2.º - 1. Podem ser admitidos nos referidos serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05.
+
+###### Artigo 2.º
+
+1. Podem ser admitidos nos referidos serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos.
 
 2. Este limite baixa para 16 anos em relação às categorias de aprendizes.
 

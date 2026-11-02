@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-11-01'
+version_history:
+  file: decreto-lei-266-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-11-01'
+    amending: pt:dre:239781:por
+    amending_title: Decreto-Lei n.º 321/98
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/266/1997/10/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:52:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 321/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-266-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ a) Tenham sido previamente declaradas em situação económica difícil, nos ter
 
 b) As alterações do capital social sejam consequência da respectiva reestruturação financeira.
 
-2 - A isenção concedida no n.º 1 é válida para as alterações ocorridas nos 12 meses posteriores à publicação do presente decreto-lei.
+2 - A isenção concedida no n.º 1 é válida para as alterações ocorridas nos 18 meses posteriores à publicação do presente decreto-lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 321/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1998-239781), publicado em 1998-10-27.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - João Cardona Gomes Cravinho.
 

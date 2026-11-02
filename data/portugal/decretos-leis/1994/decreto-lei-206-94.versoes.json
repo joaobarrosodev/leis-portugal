@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223061:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51c36f0fc7e76893",
+    "df2dd31308694a50",
+    "a0b36eb68b7022cd",
+    "84355f77694e25b5",
+    "5078be6f56d46942"
+   ]
+  },
+  {
+   "date": "1999-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321688:por",
+     "title": "Decreto-Lei n.º 182/99",
+     "published": "1999-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/182-1999-321688"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "51c36f0fc7e76893",
+    "df2dd31308694a50",
+    "f3ed259269c94afc",
+    "84355f77694e25b5",
+    "5078be6f56d46942"
+   ]
+  }
+ ],
+ "fragments": {
+  "51c36f0fc7e76893": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Agosto\n\nO Decreto-Lei n.º 442/89, de 27 de Dezembro, transpôs para a ordem jurídica interna a Directiva n.º [74/63/CEE](https://data.europa.eu/eli/dir/1974/63/oj?locale=pt), do Conselho, de 26 de Outubro, relativa às substâncias e produtos indesejáveis na alimentação de animais e aprovou o Regulamento Relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos Destinados à Alimentação Animal.\n\nA experiência entretanto adquirida relativamente às substâncias e produtos indesejáveis em alimentação animal aconselhou a alteração de determinadas disposições da referida directiva, que foi alterada pela Directiva n.º [92/88/CEE](https://data.europa.eu/eli/dir/1992/88/oj?locale=pt), do Conselho, de 26 de Outubro.\n\nCom as alterações introduzidas pretendeu-se abranger na definição de «animais» as espécies que vivem em liberdade na natureza, a fim de garantir níveis admissíveis de substâncias e produtos indesejáveis nos alimentos distribuídos a estas espécies animais e aplicar as disposições legais a todas as fases de comercialização das matérias-primas.\n\nEntendeu-se, também, estabelecer o princípio da qualidade adequada das matérias-primas, de modo a proibir a utilização ou a entrada em circulação de matérias-primas que, devido ao seu teor demasiado elevado de substâncias ou produtos indesejáveis, conduzem à ultrapassagem dos teores máximos previstos para os alimentos compostos.\n\nImporta, deste modo, transpor para a ordem jurídica interna a Directiva n.º [92/88/CEE](https://data.europa.eu/eli/dir/1992/88/oj?locale=pt), de 26 de Outubro.\n\nFoi ouvido o Conselho Consultivo de Alimentação Animal, nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º Os artigos 2.º, 3.º e 10.º do Regulamento Relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos Destinados à Alimentação Animal, aprovado pelo Decreto-Lei n.º 442/89, de 27 de Dezembro, passam a ter a seguinte redacção:"
+  },
+  "df2dd31308694a50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — [...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Animais - os animais pertencentes a espécies normalmente alimentadas e detidas ou consumidas pelo homem, bem como os animais que vivem em liberdade na natureza, no caso de serem alimentados com alimentos para animais;\n\ni) ..."
+  },
+  "a0b36eb68b7022cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — [...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - As matérias-primas só podem ser colocadas em circulação desde que apresentem qualidade adequada à sua utilização.\n\n6 - Sem prejuízo do disposto no anexo II da Portaria n.º 1107/89, de 27 de Dezembro, não podem ser consideradas de qualidade adequada as matérias-primas cujo teor em substâncias ou produtos indesejáveis seja tão elevado que torne impossível respeitar os teores máximos fixados no anexo I para os alimentos compostos para animais.\n\n7 - As matérias-primas incluídas no anexo II da Portaria n.º 1107/89, de 27 de Dezembro, contendo teores em substâncias ou produtos indesejáveis superiores aos fixados no anexo I para os alimentos simples, só podem ser colocadas em circulação desde que observem as seguintes disposições:\n\na) Os teores em substâncias ou produtos indesejáveis não ultrapassem os teores máximos fixados no anexo II;\n\nb) Se destinem a fabricantes de alimentos compostos que destinam a sua produção ao mercado consumidor, incluídos na lista de fabricantes autorizados de alimentos compostos para animais, a que se refere o artigo 7.º do Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 440/89, de 27 de Dezembro;\n\nc) Constem da guia de remessa que as acompanha as seguintes indicações, expressas em língua portuguesa:\n\ni) Matéria-prima destinada exclusivamente a fabricantes autorizados de alimentos compostos para animais;\n\nii) Interdita a utilização tal qual em alimentação animal;\n\niii) Teor em substância ou produto indesejável presente."
+  },
+  "84355f77694e25b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — [...]\n\n1 - Os alimentos para animais destinados a países terceiros estão sujeitos às disposições do presente Regulamento.\n\n2 - O presente Regulamento não se aplica às matérias-primas para o fabrico de alimentos para animais que se destinem aos países referidos no número anterior, caso em que deve ser apresentada prova documental.\n\n3 - Pode ser autorizada a reexportação para o país terceiro exportador dos lotes de alimentos para animais que não obedeçam às condições do presente Regulamento.\n\nArt. 2.º É aditado ao Regulamento Relativo às Substâncias e Produtos Indesejáveis nos Alimentos Simples, Matérias-Primas e Alimentos Compostos Destinados à Alimentação Animal, aprovado pelo Decreto-Lei n.º 442/89, de 27 de Dezembro, o artigo 3.º-A, com a seguinte redacção:"
+  },
+  "5078be6f56d46942": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º-A — Matérias-primas contaminadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Matérias-primas contaminadas\n\n1 - Um lote de uma das matérias-primas enumeradas no anexo II da Portaria n.º 1107/89, de 27 de Dezembro, contendo um teor em substância ou produtos indesejáveis superior ao teor máximo fixado na coluna 3 do citado anexo, não pode ser misturado com outros lotes da(s) matéria(s)-prima(s) ou com lotes de alimentos.\n\n2 - Todo aquele que, através da sua actividade profissional, possua ou tenha tido contacto directo com um lote de matérias-primas ou de alimentos para animais deve informar o Instituto de Protecção da Produção Agro-Alimentar (IPPAA), ainda que esteja prevista a destruição do lote em causa, sempre que:\n\na) Esse lote de matérias-primas seja impróprio para ser utilizado na alimentação animal por estar contaminado por uma das substâncias ou produtos indesejáveis, previsto no presente Regulamento e não conformes como n.º 5 do artigo 3.º, representando por isso um grave perigo para a saúde pública ou para a saúde animal;\n\nb) Esse lote de alimentos para animais não obedeça ao disposto no anexo I da Portaria n.º 1107/89, de 27 de Dezembro, representando um grave perigo para a saúde pública ou para a saúde animal.\n\nArt. 3.º O presente diploma entra em vigor 90 dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 23 de Junho de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.\n\nPromulgado em 12 de Julho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Julho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "f3ed259269c94afc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — [...]",
+   "in_force_from": "1999-05-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 182/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1999-321688), publicado em 1999-05-22."
+   ],
+   "markdown": "###### Artigo 3.º — [...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - As matérias-primas só podem ser colocadas em circulação desde que apresentem qualidade adequada à sua utilização.\n\n6 - Sem prejuízo do disposto no anexo II da Portaria n.º 1107/89, de 27 de Dezembro, não podem ser consideradas de qualidade adequada as matérias-primas cujo teor em substâncias ou produtos indesejáveis seja tão elevado que torne impossível respeitar os teores máximos fixados no anexo I para os alimentos compostos para animais.\n\n7 - As matérias-primas incluídas no anexo II da Portaria n.º 1107/89, de 27 de Dezembro, contendo teores em substâncias ou produtos indesejáveis superiores aos fixados no anexo I para os alimentos simples, só podem ser colocadas em circulação desde que observem as seguintes disposições:\n\na) Os teores em substâncias ou produtos indesejáveis não ultrapassem os teores máximos fixados no anexo II;\n\nb) Se destinem a fabricantes de alimentos compostos que destinam a sua produção ao mercado consumidor, incluídos na lista de fabricantes autorizados de alimentos compostos para animais, a que se refere o artigo 7.º do Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, aprovado pelo Decreto-Lei n.º 440/89, de 27 de Dezembro;\n\nc) Constem da guia de remessa que as acompanha as seguintes indicações, expressas em língua portuguesa:\n\ni) Matéria-prima destinada exclusivamente a fabricantes autorizados de alimentos compostos para animais;\n\nii) Interdita a utilização tal qual em alimentação animal;\n\niii) Teor em substância ou produto indesejável presente.\n\n8 - As disposições previstas no número anterior são também aplicáveis às matérias-primas para alimentação animal e às substâncias ou produtos indesejáveis referidos no anexo II, parte B, cujo teor máximo não é fixado na parte A, se o teor da substância ou do produto indesejável presente na matéria-prima para alimentação animal for superior na coluna 3 do anexo I.\n\n> Alterado pelo/a [Decreto-Lei n.º 182/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1999-321688), publicado em 1999-05-22."
+  }
+ }
+}

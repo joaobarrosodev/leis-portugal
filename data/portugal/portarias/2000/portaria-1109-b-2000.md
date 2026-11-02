@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-16'
+version_history:
+  file: portaria-1109-b-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-16'
+    amending: pt:dre:315520:por
+    amending_title: Portaria n.º 68/2001; Portaria n.º 45/2002
+    changes:
+    - Altera Artigo ANEXO::12.º
+    - Altera Artigo ANEXO::9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-b/2000/11/27/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 68/2001; Portaria n.º
+    45/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-b-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,11 +269,13 @@ c) A não existência de serviços similares na área geográfica de actuação 
 
 ###### Artigo 9.º — Forma e nível das ajudas
 
-1 - As ajudas são concedidas na forma de pagamento por serviços prestados que se enquadrem nas despesas elegíveis previstas no presente Regulamento.
+1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.
 
-2 - Os montantes das ajudas correspondem a 70% das despesas elegíveis, cabendo aos beneficiários dos serviços prestados pelas entidades suportar os restantes 30%.
+2 - Os montantes das ajudas correspondem a 70% das despesas elegíveis.
 
 3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a [Portaria n.º 45/2002](https://diariodarepublica.pt/dr/detalhe/portaria/45-2002-583007), publicado em 2002-01-11.
 
 ###### Artigo 10.º — Contrato de concessão e pagamento das ajudas
 
@@ -271,10 +289,14 @@ As normas técnicas que regulam a organização e articulação entre as várias
 
 ###### Artigo 12.º — Disposições transitórias
 
-A título excepcional, no ano 2000:
+A título excepcional, nos anos 2000 e 2001:
 
 a) Considera-se efectuado o convite a que se refere o artigo 4.º, através da publicação do presente Regulamento;
 
 b) As candidaturas deverão ser entregues nas respectivas DRA até 10 dias úteis após a data da publicação deste diploma e devem contemplar a realização das acções elegíveis a que se refere o n.º 2 do artigo 3.º, durante todo o ano;
 
-c) Consideram-se elegíveis para efeitos de contratação e pagamento pelo IFADAP, após a aprovação das candidaturas, todas as acções a que se refere o n.º 2 do artigo 3.º, constantes de programas anuais já homologados pela DGV e que tenham sido realizadas desde 1 de Janeiro de 2000.
+c) As candidaturas deverão ser entregues na respectiva DRA, relativamente ao ano 2001, até 28 de Fevereiro de 2001, e devem contemplar a realização de acções elegíveis a que se refere o n.º 2 do artigo 3.º, durante todo o ano;
+
+d) Consideram-se elegíveis para efeitos de contratação e pagamento pelo IFADAP, após a aprovação das candidaturas, todas as acções a que se refere o n.º 2 do artigo 3.º, constantes dos programas anuais já homologados pela DGV e que tenham sido realizadas desde 1 de Janeiro de 2000 e 1 de Janeiro de 2001.
+
+> Alterado pelo/a [Portaria n.º 68/2001](https://diariodarepublica.pt/dr/detalhe/portaria/68-2001-315520), publicado em 2001-02-02.

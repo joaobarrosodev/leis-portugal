@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-17'
+version_history:
+  file: decreto-lei-149-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-17'
+    amending: pt:dre:611962:por
+    amending_title: Decreto-Lei n.º 16/2010
+    changes:
+    - Altera Artigo ANEXO::5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/149/2008/07/29/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:03:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 16/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-149-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,6 +395,24 @@ f) Marcar os componentes feitos de polímeros ou elastómeros de acordo com a De
 g) Verificar que nenhum componente descrito no artigo seguinte é reutilizado no fabrico de novos veículos.
 
 4 - O fabricante deve fornecer ao organismo competente todas as informações pertinentes, sob forma documental, sendo em particular correctamente documentadas a reciclagem e a valorização dos materiais.
+
+5 - Para efeitos da avaliação preliminar a que se refere o presente Regulamento, o fabricante de veículos deve demonstrar que assegura o cumprimento do disposto nos n.os 1 e 2 do artigo 6.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, na sua última redacção, através de disposições contratuais com os seus fornecedores.
+
+6 - Para efeitos da referida avaliação preliminar, o fabricante de veículos deve adoptar procedimentos com vista a:
+
+a) Informar o pessoal e todos os fornecedores dos requisitos aplicáveis;
+
+b) Assegurar que os fornecedores cumprem os requisitos referidos na alínea anterior, exercendo a vigilância necessária para esse efeito;
+
+c) Recolher as informações adequadas ao longo de toda a cadeia de abastecimento;
+
+d) Verificar a informação recebida por parte dos fornecedores;
+
+e) Reagir adequadamente sempre que as informações recebidas dos fornecedores apontem para o incumprimento dos requisitos previstos no n.º 2 do artigo 6.º do decreto-lei referido no número anterior.
+
+7 - Para efeitos do disposto nos n.os 5 e 6 anteriores, o fabricante de veículos deve aplicar, com o acordo do organismo competente, a norma ISO 9000/14000 ou outro programa de garantia da qualidade normalizado.»
+
+> Alterado pelo/a [Decreto-Lei n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2010-611962), publicado em 2010-03-12.
 
 ###### Artigo 6.º — Componentes considerados não reutilizáveis
 

@@ -1,0 +1,446 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216968:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-11-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5036df516e5b5ce0",
+    "7342f7b1dcac3873",
+    "b1ab0d1b11b402a6",
+    "bf3bf56ea07ebac5",
+    "9c94c88e051eb88b",
+    "762c6423e85ee6d4",
+    "20b135e3b13c2117",
+    "ce0aeeac7012cc57",
+    "7f947e2625b0f479",
+    "45298b4649cc79a3",
+    "8bd398a98772ed10",
+    "b67b65c3c4067865",
+    "e8d3890c297618ee",
+    "d03886a23ee594db",
+    "0faac50cfa650598",
+    "4d681787c260996d",
+    "e23f839131ad8808",
+    "a62b1bbce002d398",
+    "40bb7de2f42af3ef",
+    "5d999966fcb1221e",
+    "c3859d109eb77502",
+    "dfd516fc5630e041",
+    "060d42c0e81ef7df",
+    "610cafe45560d83c",
+    "d55f0b5b15103b0d",
+    "154f8fe5a685d6ac",
+    "b05c1b3657f44a92",
+    "0ee6092e66af2ba3",
+    "cbcb4c58a67c0887",
+    "bad686d9260bfb05",
+    "00bec9d5b842f985",
+    "e3742720b7405c64",
+    "63d4dc27d0905151",
+    "2178c0f9b24833fd",
+    "2563e6ed06eb9960",
+    "b1c784eddf3cb917",
+    "ed3393211e6d8f3e",
+    "cb4d9e3b88ea7b1a",
+    "4458e9806496ef51",
+    "a4bb3e5e21da3fc5"
+   ]
+  },
+  {
+   "date": "2004-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570303:por",
+     "title": "Decreto-Lei n.º 34/2004",
+     "published": "2004-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/34-2004-570303"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "5036df516e5b5ce0",
+    "7342f7b1dcac3873",
+    "b1ab0d1b11b402a6",
+    "996a3cd7e1497b53",
+    "9c94c88e051eb88b",
+    "762c6423e85ee6d4",
+    "20b135e3b13c2117",
+    "ce0aeeac7012cc57",
+    "7f947e2625b0f479",
+    "45298b4649cc79a3",
+    "8bd398a98772ed10",
+    "b67b65c3c4067865",
+    "e8d3890c297618ee",
+    "d03886a23ee594db",
+    "0faac50cfa650598",
+    "4d681787c260996d",
+    "e23f839131ad8808",
+    "a62b1bbce002d398",
+    "40bb7de2f42af3ef",
+    "5d999966fcb1221e",
+    "c3859d109eb77502",
+    "dfd516fc5630e041",
+    "060d42c0e81ef7df",
+    "610cafe45560d83c",
+    "d55f0b5b15103b0d",
+    "154f8fe5a685d6ac",
+    "b05c1b3657f44a92",
+    "0ee6092e66af2ba3",
+    "cbcb4c58a67c0887",
+    "bad686d9260bfb05",
+    "00bec9d5b842f985",
+    "e3742720b7405c64",
+    "63d4dc27d0905151",
+    "2178c0f9b24833fd",
+    "2563e6ed06eb9960",
+    "b1c784eddf3cb917",
+    "ed3393211e6d8f3e",
+    "cb4d9e3b88ea7b1a",
+    "4458e9806496ef51",
+    "a4bb3e5e21da3fc5"
+   ]
+  }
+ ],
+ "fragments": {
+  "5036df516e5b5ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Novembro\n\nCriada pelo Decreto-Lei n.º 222/96, de 25 de Novembro, o qual aprovou a Lei Orgânica do Ministério da Economia, a Direcção-Geral do Comércio e da Concorrência (DGCC) absorveu a Direcção-Geral da Concorrência e Preços (DGCP) e as atribuições relativas à vertente do comércio interno da Direcção-Geral do Comércio (DGC), organismos entretanto extintos, sendo-lhe cometidas atribuições no âmbito da política de concorrência, bem como das políticas sectoriais para o comércio e a distribuição.\n\nNum contexto de crescente interpenetração das economias e integração dos mercados nacionais, assumem importância primordial a defesa e promoção da concorrência e a modernização das estruturas comerciais e de distribuição.\n\nPor outro lado, as profundas alterações ocorridas na economia portuguesa em consequência do processo de liberalização, desregulamentação e privatização de importantes áreas da actividade económica e o surgimento de novas formas de organização dos mercados, quer a nível das estruturas produtivas quer a nível das estruturas comerciais, tornam cada vez mais premente um acompanhamento atento e uma análise sistemática dos indicadores relativos aos mercados, por forma a adoptarem-se as medidas correctivas que se mostrem necessárias ao funcionamento eficaz dos mesmos.\n\nEm termos comunitários, a DGCC tem atribuições específicas, que determinam uma intervenção activa na elaboração e execução das políticas de concorrência e das políticas sectoriais para o comércio e a distribuição no quadro da União Europeia.\n\nFora do âmbito comunitário, competirá ainda à DGCC participar na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência, funções anteriormente asseguradas pela DGCP.\n\nA nova DGCC, para além de ser um dos órgãos responsáveis pela aplicação da legislação de concorrência (Decreto-Lei n.º 371/93, de 29 de Outubro), assume um papel essencial como regulador dos mercados e da articulação das políticas do comércio e da concorrência.\n\nForam ouvidas as estruturas representativas das organizações dos trabalhadores.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 49.º do Decreto-Lei n.º 222/96, de 25 de Novembro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "b1ab0d1b11b402a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral do Comércio e da Concorrência, adiante designada abreviadamente por DGCC, é um serviço do Ministério da Economia, dotado de autonomia administrativa, responsável pela concepção, execução e avaliação da política de concorrência e das políticas sectoriais para o comércio e distribuição."
+  },
+  "bf3bf56ea07ebac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - São atribuições da DGCC:\n\na) Contribuir para a definição e execução da política de concorrência, enquanto mecanismo de regulação do desenvolvimento económico e empresarial, e acompanhar e avaliar a execução das medidas dela decorrentes;\n\nb) Promover o funcionamento eficiente dos mercados, agindo nos domínios das estratégias e comportamentos dos agentes económicos, das estruturas dos mercados, dos mecanismos de regulação e das políticas sectoriais e do direito da concorrência;\n\nc) Contribuir para a definição e execução das políticas sectoriais para o comércio e a distribuição, promovendo a modernização das estruturas e a competitividade sustentada das empresas, atendendo à sua diversidade, especialização e defesa dos interesses dos consumidores;\n\nd) Acompanhar as actividades comerciais e de distribuição, mantendo um conhecimento actualizado das tendências das respectivas condições gerais de funcionamento, por forma a permitir a avaliação dos efeitos das medidas de política sectorial;\n\ne) Dar cumprimento às missões que, no âmbito do direito interno e comunitário de concorrência, são atribuídas à autoridade administrativa nacional de concorrência;\n\nf) Acompanhar a evolução dos preços dos bens e serviços e apreciar os procedimentos relativos aos diferentes regimes de preços e negociar e celebrar, em representação da Administração, as convenções de preços;\n\ng) Contribuir para a elaboração das propostas legislativas e regulamentares necessárias à prossecução dos objectivos das políticas acima referidas e assegurar o cumprimento da legislação aplicável nas suas áreas de intervenção, nos termos definidos na lei;\n\nh) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo as políticas de concorrência e as políticas sectoriais para o comércio e a distribuição, em particular no quadro da União Europeia, com vista à sua adequação aos interesses fundamentais da política económica nacional.\n\n2 - No âmbito das atribuições previstas no número anterior, caberá, nomeadamente, à DGCC:\n\na) Assegurar um conhecimento actualizado do funcionamento dos mercados nacionais dos vários bens e serviços, a fim de criar ou reforçar as condições necessárias ao funcionamento concorrencial dos mesmos;\n\nb) Participar, sem prejuízo das competências atribuídas a outras entidades, na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência;\n\nc) Promover a divulgação pelos agentes económicos de informação útil para a definição e formulação das respectivas estratégias empresariais."
+  },
+  "9c94c88e051eb88b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços e suas competências"
+  },
+  "762c6423e85ee6d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos órgãos"
+  },
+  "20b135e3b13c2117": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos da DGCC:\n\na) O director-geral;\n\nb) O conselho administrativo."
+  },
+  "ce0aeeac7012cc57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é o órgão que dirige a DGCC, incumbindo-lhe o exercício das competências próprias e delegadas, nos termos previstos na lei.\n\n2 - O director-geral é coadjuvado, no exercício das suas funções, por três subdirectores-gerais.\n\n3 - O director-geral é substituído, nas suas ausências e impedimentos, pelo subdirector-geral que para o efeito for designado pelo Ministro da Economia, sob proposta daquele.\n\n4 - O director-geral pode delegar o exercício, permanente ou temporário, de parte das suas competências nos subdirectores-gerais ou, quanto a assuntos de natureza corrente dos serviços, nos respectivos dirigentes."
+  },
+  "7f947e2625b0f479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho administrativo\n\nO conselho administrativo é o órgão deliberativo da DGCC em matéria de gestão financeira e patrimonial, com a seguinte composição:\n\na) Director-geral, que preside, sendo substituído nas suas ausências e impedimentos pelo subdirector-geral substituto;\n\nb) Subdirector-geral que para o efeito for designado por despacho do director-geral;\n\nc) Director de Serviços Administrativos e Financeiros."
+  },
+  "45298b4649cc79a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do conselho administrativo\n\n1 - Compete ao conselho administrativo:\n\na) Aprovar o orçamento da DGCC e propor eventuais alterações ao mesmo, bem como acompanhar a respectiva execução;\n\nb) Apreciar os planos e programas anuais de actividades, na óptica da sua cobertura orçamental;\n\nc) Administrar as dotações inscritas no orçamento e autorizar a realização de despesas, nos termos legais;\n\nd) Zelar pela cobrança das receitas e promover o seu depósito nos prazos legais,\n\ne) Fiscalizar os procedimentos contabilísticos e verificar regularmente os valores em cofre ou em depósito;\n\nf) Autorizar a adjudicação e contratação de estudos, obras, serviços e fornecimentos e acompanhar a sua execução;\n\ng) Aprovar as contas de gerência e promover o seu envio ao Tribunal de Contas;\n\nh) Pronunciar-se sobre quaisquer assuntos de gestão financeira e patrimonial que lhe sejam submetidos.\n\n2 - O conselho administrativo poderá delegar em qualquer dos seus membros a competência para a prática de actos de administração ordinária."
+  },
+  "8bd398a98772ed10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funcionamento do conselho administrativo\n\n1 - O conselho administrativo reúne ordinariamente uma vez por quinzena e extraordinariamente sempre que convocado pelo seu presidente, só podendo deliberar quando se encontre presente a maioria dos seus membros e um destes for o presidente ou o seu substituto, o qual terá voto de qualidade.\n\n2 - O conselho administrativo obriga-se pela assinatura de dois dos seus membros, sendo um deles o presidente ou o seu substituto.\n\n3 - O conselho administrativo é secretariado pelo chefe da Repartição de Gestão Patrimonial e Financeira."
+  },
+  "b67b65c3c4067865": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Dos serviços"
+  },
+  "e8d3890c297618ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços\n\nA DGCC dispõe dos seguintes serviços:\n\na) Direcção de Serviços de Estudos e de Política Nacional do Comércio e da Concorrência;\n\nb) Direcção de Serviços de Política do Comércio e da Concorrência Comunitária e Relações Externas;\n\nc) Direcção de Serviços de Mercados de Produtos Agrícolas e Alimentares;\n\nd) Direcção de Serviços de Mercados de Produtos Industriais não Alimentares;\n\ne) Direcção de Serviços de Mercados de Serviço Público e Outros Serviços;\n\nf) Direcção de Serviços de Comércio e Distribuição;\n\ng) Direcção de Serviços de Investimento e Inovação no Comércio;\n\nh) Direcção de Serviços de Estatística e Sistemas de Informação;\n\ni) Direcção de Serviços Administrativos e Financeiros;\n\nj) Centro de Documentação;\n\nl) Gabinete de Informação Empresarial."
+  },
+  "d03886a23ee594db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Estudos e de Política Nacional do Comércio e da Concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Estudos e de Política Nacional do Comércio e da Concorrência\n\n1 - À Direcção de Serviços de Estudos e de Política Nacional do Comércio e da Concorrência cabe contribuir para a definição e execução da política do comércio e da concorrência, quer na sua vertente jurídica quer na sua vertente económica, competindo-lhe, nomeadamente:\n\na) Propor linhas de orientação e enquadramento da actividade da DGCC em matéria do comércio e da concorrência;\n\nb) Elaborar pareceres e estudos sobre questões gerais de natureza jurídica ou económica suscitadas no âmbito da actividade da DGCC;\n\nc) Elaborar ou colaborar na redacção de projectos de legislação no domínio das competências da DGCC;\n\nd) Proceder ao estudo e análise de actos normativos e directrizes comunitárias em matéria de concorrência e do comércio tendo em vista ponderar a sua adaptação às metodologias de análise adoptadas pelos serviços da DGCC;\n\ne) Prestar apoio técnico-jurídico aos serviços operativos em matéria de transposição de directivas e à aplicação de outros actos normativos comunitários;\n\nf) Organizar e instruir os processos de contra-ordenação do domínio das competências da DGCC;\n\ng) Elaborar, com base nos contributos dos demais serviços, o plano e o relatório anual de actividades da DGCC.\n\n2 - A Direcção de Serviços de Estudos e de Política Nacional do Comércio e da Concorrência compreende a Divisão de Práticas Anticoncorrenciais.\n\n3 - À Divisão de Práticas Anticoncorrenciais compete:\n\na) Organizar e instruir os processos de contra-ordenação por práticas anticoncorrenciais;\n\nb) Proceder, a pedido da Comissão Europeia, às diligências de instrução em território nacional que esta considere necessárias no âmbito de processos comunitários por infracção aos artigos 85.º e 86.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado);\n\nc) Organizar e instruir, por sua iniciativa, os processos de contra-ordenação por infracção aos artigos 85.º e 86.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), no âmbito das competências cometidas às autoridades dos Estados membros pelos regulamentos fundados no artigo 87.º do mesmo Tratado;\n\nd) Acompanhar as decisões do Conselho da Concorrência e de eventuais recursos e proceder à sua análise, bem como à elaboração de sínteses das mesmas para divulgação;\n\ne) Assegurar a representação da DGCC nos tribunais em processos decorrentes de recursos das decisões do Conselho da Concorrência."
+  },
+  "0faac50cfa650598": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Política do Comércio e da Concorrência Comunitária e Relações Externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Política do Comércio e da Concorrência Comunitária e Relações Externas\n\n1 - À Direcção de Serviços de Política do Comércio e da Concorrência Comunitária e Relações Externas cabe assegurar as funções da DGCC no domínio da política do comércio e da concorrência comunitária, bem como no domínio das relações de cooperação com organismos congéneres de outros países e com organizações internacionais em matéria de comércio e concorrência, competindo-lhe, nomeadamente:\n\na) Assegurar o exercício pela DGCC das competências cometidas às autoridades dos Estados membros pelos regulamentos comunitários no que respeita às regras de concorrência aplicáveis às empresas;\n\nb) Assegurar a participação da DGCC na actividade desenvolvida em matéria de política de concorrência aplicável aos Estados membros, tendo em vista o disposto nos artigos 92.º a 94.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), designadamente o exame e acompanhamento dos regimes de auxílios, bem como a colaboração na análise e elaboração de parecer, a pedido de instâncias comunitárias, sobre ajudas concedidas por outros Estados membros;\n\nc) Colaborar nas negociações e decisões nas instâncias internacionais envolvendo a política do comércio e da concorrência, com vista à sua adequação aos interesses fundamentais da política económica nacional;\n\nd) Participar na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência;\n\ne) Promover o relacionamento e cooperação da DGCC com organismos do comércio e da concorrência congéneres, dentro e fora do espaço europeu;\n\nf) Organizar e manter informação actualizada sobre as legislações de concorrência aplicáveis pelos vários países e espaços económicos, promovendo estudos de direito comparado e divulgando informação sobre a matéria;\n\ng) Colaborar no estabelecimento das posições oficiais portuguesas nas instâncias comunitárias relativamente a negociações e a outras questões que se levantem no âmbito do relacionamento comercial entre a União Europeia e os países da EFTA.\n\n2 - A Direcção de Serviços de Política do Comércio e da Concorrência Comunitária e Relações Externas compreende a Divisão de Concorrência Comunitária.\n\n3 - À Divisão de Concorrência Comunitária compete:\n\na) Assegurar e coordenar a representação da DGCC nas reuniões dos comités consultivos previstos nos regulamentos fundados no artigo 87.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), bem como no Regulamento n.º [4064/89](http://data.europa.eu/eli/reg/1989/4064/oj?locale=pt), do Conselho, de 21 de Dezembro, alterado pelo Regulamento n.º [1310/97](http://data.europa.eu/eli/reg/1997/1310/oj?locale=pt), do Conselho, de 30 de Junho de 1997, sem prejuízo das que caibam a outras entidades;\n\nb) Assegurar a representação da DGCC na discussão, a nível comunitário, de todas as questões relativas às regras de concorrência aplicáveis às empresas;\n\nc) Assegurar a participação da DGCC na discussão, a nível comunitário, de matérias que se prendam com a política de concorrência aplicável aos Estados membros por força dos artigos 92.º a 94.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado);\n\nd) Prestar assistência aos agentes da Comissão que se desloquem a Portugal em diligências de instrução referentes a processos comunitários previstas nos regulamentos fundados no artigo 87.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), bem como no Regulamento n.º [4064/89](http://data.europa.eu/eli/reg/1989/4064/oj?locale=pt), do Conselho, de 21 de Dezembro, alterado pelo Regulamento n.º [1310/97](http://data.europa.eu/eli/reg/1997/1310/oj?locale=pt), do Conselho, de 30 de Junho de 1997;\n\ne) Acompanhar a prática decisória das instâncias comunitárias, nomeadamente a relativa a processos por infracção aos artigos 85.º e 86.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado)."
+  },
+  "4d681787c260996d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços de Mercados de Produtos Agrícolas e Alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços de Mercados de Produtos Agrícolas e Alimentares\n\n1 - À Direcção de Serviços de Mercados de Produtos Agrícolas e Alimentares compete acompanhar os respectivos sectores de actividade económica assegurando as condições necessárias ao bom funcionamento dos mercados através da articulação dos instrumentos disponíveis no âmbito das políticas de concorrência e preços, cabendo-lhe, nomeadamente:\n\na) Executar a política de concorrência nos sectores agro-alimentar e da pesca, nomeadamente ao nível do controlo das operações de concentração de empresas e da identificação de práticas anticoncorrenciais;\n\nb) Acompanhar a evolução do funcionamento dos mercados dos produtos agrícolas, da pesca e respectivos transformados;\n\nc) Proceder ao acompanhamento e análise da regulamentação comunitária e nacional respeitante aos sectores agrícola, da pesca e respectivos transformados;\n\nd) Assegurar a execução dos regimes legais de preços aplicáveis aos produtos agrícolas, da pesca e respectivos transformados.\n\n2 - A Direcção de Serviços de Mercados de Produtos Agrícolas e Alimentares compreende a Divisão da Indústria Alimentar.\n\n3 - À Divisão da Indústria Alimentar compete:\n\na) Proceder à análise sistemática dos mercados de produtos da indústria alimentar, por forma a manter um conhecimento actualizado das estruturas da oferta e da procura, bem como dos canais de distribuição utilizados ou de quaisquer outros factores susceptíveis de entravar o acesso ao mercado de novas empresas;\n\nb) Identificar as práticas susceptíveis de restringir a concorrência e propor superiormente as medidas que se afigurem apropriadas ao funcionamento eficiente dos mercados em causa;\n\nc) Organizar e instruir os processos referentes a pedidos de apreciação prévia da legalidade de acordos e práticas concertadas entre empresas e de decisões de associações de empresas que operem no sector da indústria alimentar;\n\nd) Proceder ao controlo de operações de concentração de empresas do sector da indústria alimentar sujeitas a notificação prévia, de acordo com o estipulado na legislação em vigor sobre a matéria;\n\ne) Realizar, a solicitação do Conselho da Concorrência, os estudos sobre o sector da indústria alimentar necessários à fundamentação dos pareceres daquele órgão, bem como zelar pelo cumprimento das suas decisões;\n\nf) Apreciar, na óptica da defesa da concorrência, os auxílios a empresas do sector da indústria alimentar concedidos pelo Estado ou qualquer outro ente público;\n\ng) Acompanhar a formação e evolução dos preços dos produtos alimentares, bem como assegurar a execução dos regimes legais de preços aplicáveis a estes produtos;\n\nh) Proceder ao acompanhamento e análise da regulamentação comunitária respeitante ao sector da indústria alimentar que tenha impacte no funcionamento concorrencial do mercado nacional."
+  },
+  "e23f839131ad8808": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços de Mercados de Produtos Industriais não Alimentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Mercados de Produtos Industriais não Alimentares\n\n1 - À Direcção de Serviços de Mercados de Produtos Industriais não Alimentares compete acompanhar os respectivos sectores de actividade económica assegurando as condições necessárias ao bom funcionamento dos mercados através da articulação dos instrumentos disponíveis no âmbito das políticas de concorrência e preços.\n\n2 - A Direcção de Serviços de Mercados de Produtos Industriais não Alimentares compreende:\n\na) A Divisão de Produtos das Indústrias Extractiva e Transformadora;\n\nb) A Divisão de Produtos Farmacêuticos.\n\n3 - À Divisão de Produtos das Indústrias Extractiva e Transformadora compete:\n\na) Proceder à análise sistemática dos mercados de produtos das indústrias extractiva e transformadora, por forma a manter um conhecimento actualizado das estruturas da oferta e da procura, bem como dos canais de distribuição utilizados ou de quaisquer outros factores susceptíveis de entravar o acesso ao mercado de novas empresas;\n\nb) Identificar as práticas susceptíveis de restringir a concorrência e propor superiormente as medidas que se afigurem apropriadas ao funcionamento eficiente dos mercados em causa;\n\nc) Organizar e instruir os processos referentes a pedidos de apreciação prévia da legalidade de acordos e práticas concertadas entre empresas e de decisões de associações de empresas que operem nos sectores das indústrias extractiva e transformadora;\n\nd) Proceder ao controlo de operações de concentração de empresas do sector das indústrias extractiva e transformadora sujeitas a notificação prévia, de acordo com o estipulado na legislação em vigor sobre a matéria;\n\ne) Realizar, a solicitação do Conselho da Concorrência, os estudos sobre o sector das indústrias extractiva e transformadora necessários à fundamentação dos pareceres daquele órgão, bem como zelar pelo cumprimento das suas decisões;\n\nf) Apreciar, na óptica da defesa da concorrência, os auxílios a empresas do sector das indústrias extractiva e transformadora concedidos pelo Estado ou qualquer outro ente público;\n\ng) Acompanhar a formação e evolução dos preços dos produtos das indústrias extractiva e transformadora, bem como assegurar a execução dos regimes legais de preços aplicáveis a estes produtos;\n\nh) Proceder ao acompanhamento e análise da regulamentação comunitária respeitante ao sector das indústrias extractiva e transformadora que tenha impacte no funcionamento concorrencial do mercado nacional.\n\n4 - À Divisão de Produtos Farmacêuticos, para além do exercício das funções enumeradas no número anterior no que respeita especificamente ao sector farmacêutico, compete ainda:\n\na) Analisar os pedidos de aprovação e revisão de preços de especialidades farmacêuticas e de medicamentos genéricos, de acordo com a legislação em vigor;\n\nb) Acompanhar a evolução dos preços dos produtos farmacêuticos não sujeitos a regimes de preços, apresentando propostas de sujeição dos mesmos a regimes de preços;\n\nc) Proceder ao acompanhamento da evolução dos preços das especialidades farmacêuticas de uso veterinário;\n\nd) Elaborar estudos conducentes a propostas de alterações de preços a considerar nos respectivos processos de revisão de preços;\n\ne) Elaborar estudos conducentes a propostas de alteração das metodologias e regimes de preços;\n\nf) Assegurar a representação da DGCC em comités e grupos de trabalho de carácter nacional, comunitário e internacional, no âmbito das suas atribuições;\n\ng) Assegurar a transposição das directivas comunitárias na ordem jurídica nacional, particularmente no que respeita às disposições relativas a preços."
+  },
+  "a62b1bbce002d398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Mercados de Serviço Público e Outros Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Mercados de Serviço Público e Outros Serviços\n\n1 - À Direcção de Serviços de Mercados de Serviço Público e Outros Serviços compete acompanhar os respectivos sectores de actividade económica assegurando as condições necessárias ao bom funcionamento dos mercados através da articulação dos instrumentos disponíveis no âmbito das políticas de concorrência e preços.\n\n2 - A Direcção de Serviços de Mercados de Serviço Público e Outros Serviços compreende:\n\na) A Divisão de Serviços Financeiros, Pessoais e às Empresas;\n\nb) A Divisão de Serviço Público.\n\n3 - À Divisão de Serviços Financeiros, Pessoais e às Empresas compete:\n\na) Proceder à análise sistemática dos mercados de serviços financeiros, pessoais e às empresas, por forma a manter um conhecimento actualizado das estruturas da oferta e da procura, bem como de quaisquer outros factores susceptíveis de entravar o acesso ao mercado de novas empresas;\n\nb) Identificar as práticas susceptíveis de restringir a concorrência e propor superiormente as medidas que se afigurem apropriadas ao funcionamento eficiente dos mercados em causa;\n\nc) Organizar e instruir os processos referentes a pedidos de apreciação prévia da legalidade de acordos e práticas concertadas entre empresas e de decisões de associações de empresas que operem nos sectores dos serviços financeiros, pessoais e às empresas;\n\nd) Proceder ao controlo de operações de concentração de empresas do sector dos serviços financeiros, pessoais e às empresas sujeitas a notificação prévia de acordo com o estipulado na legislação em vigor sobre a matéria;\n\ne) Realizar, a solicitação do Conselho da Concorrência, os estudos sobre o sector dos serviços financeiros, pessoais e às empresas necessários à fundamentação dos pareceres daquele órgão, bem como zelar pelo cumprimento das suas decisões;\n\nf) Apreciar, na óptica da defesa da concorrência, os auxílios a empresas do sector dos serviços financeiros, pessoais e às empresas concedidos pelo Estado ou qualquer outro ente público;\n\ng) Acompanhar a formação e evolução dos preços dos serviços financeiros, pessoais e às empresas, bem como assegurar a execução dos regimes legais de preços aplicáveis a estes serviços;\n\nh) Proceder ao acompanhamento e análise da regulamentação comunitária respeitante ao sector dos serviços financeiros, pessoais e às empresas que tenha impacte no funcionamento concorrencial do mercado nacional.\n\n4 - À Divisão de Serviço Público, para além do exercício das funções enumeradas no número anterior no que respeita aos mercados de serviço público, compete:\n\na) O estudo e acompanhamento dos mercados de serviço público, tanto na vertente das alterações regulamentares a ocorrer num quadro de liberalização como na detecção de distorções da concorrência, com o objectivo de contribuir para estimular e assegurar a existência de condições de acesso ao mercado em termos concorrenciais equitativos;\n\nb) O estudo das tendências e evolução da problemática de mercado de serviço público, numa perspectiva de direito da concorrência;\n\nc) Acompanhar a formação e evolução dos preços dos serviços públicos e apresentar propostas conducentes à definição de uma política de preços ajustada a um funcionamento adequado do mercado, tendo em conta a salvaguarda dos interesses dos consumidores;\n\nd) Assegurar a execução das competências da Administração em matéria de regimes legais de preços, nomeadamente nos estudos preparatórios para a celebração de convenções de preços."
+  },
+  "40bb7de2f42af3ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Comércio e Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Comércio e Distribuição\n\n1 - À Direcção de Serviços de Comércio e Distribuição cabe promover um adequado enquadramento para as empresas comerciais, assegurando um funcionamento equilibrado dos mercados em condições de concorrência efectiva, num contexto induzido pelo processo de globalização e de construção europeia, competindo-lhe para tal:\n\na) Contribuir para a concepção e execução das políticas sectoriais para o comércio e distribuição e acompanhar a aplicação de medidas delas decorrentes, de forma a avaliar os seus efeitos;\n\nb) Propor as adaptações legislativas que se revelem necessárias à prossecução dos objectivos das políticas sectoriais e ao desenvolvimento da competitividade sustentada das empresas comerciais;\n\nc) Acompanhar o desenvolvimento das estruturas do comércio e dos sistemas de distribuição e formular propostas que visem a eficácia do desenvolvimento equilibrado das diferentes formas de comércio e o melhoramento dos circuitos de distribuição;\n\nd) Executar a política de concorrência no sector comercial, nomeadamente ao nível do controlo das operações de concentração, das práticas comerciais restritivas e do controlo da instalação ou expansão de unidades comerciais de dimensão relevante.\n\n2 - A Direcção de Serviços de Comércio e Distribuição compreende:\n\na) A Divisão de Enquadramento da Actividade Comercial;\n\nb) A Divisão de Instalação e Concentração de Unidades Comerciais.\n\n3 - À Divisão de Enquadramento da Actividade Comercial compete, em especial:\n\na) Acompanhar a aplicação das medidas de política relativas ao sector do comércio e distribuição, procedendo à sua avaliação e formulando propostas visando optimizar a sua eficácia;\n\nb) Identificar as práticas susceptíveis de restringir a concorrência no âmbito do exercício da actividade comercial e propor superiormente as medidas que se afigurem adequadas ao funcionamento eficiente do mercado;\n\nc) Organizar e instruir os processos referentes a pedidos de apreciação prévia sobre a legalidade de acordos ou práticas concertadas entre empresas ou decisões de associações de empresas comerciais;\n\nd) Realizar, a solicitação do Conselho da Concorrência, os estudos sobre o sector do comércio necessários à fundamentação dos pareceres daquele órgão, bem como zelar pelo cumprimento das suas decisões;\n\ne) Emitir parecer sobre os pedidos de falências e recuperação de empresas;\n\nf) Participar na elaboração de projectos legislativos relevantes para a actividade comercial;\n\ng) Analisar as estruturas comerciais e as tendências da distribuição comercial no mercado nacional e nos mercados de outros países, em particular nos outros Estados membros da União Europeia;\n\nh) Manter um conhecimento actualizado e disponibilizar informação sobre o enquadramento legal, medidas de apoio ao comércio e outros aspectos de importância relevante para a actividade comercial definidos por cada um dos países da União Europeia, nomeadamente através do intercâmbio com organismos que tutelam o sector nesses Estados;\n\ni) Estudar e manter actualizada a informação sobre o relacionamento comercial bilateral com os países pertencentes à União Europeia e à EFTA e formular propostas visando reforçar o seu desenvolvimento.\n\n4 - À Divisão de Instalação e Concentração de Unidades Comerciais compete, em especial:\n\na) Acompanhar o desenvolvimento das estruturas do comércio e distribuição, na perspectiva da aplicação da legislação que regula a instalação e alterações de unidades comerciais, bem como das concentrações, avaliando o impacte da mesma;\n\nb) Instruir os procedimentos relativos aos pedidos sujeitos a autorização prévia de instalação ou alteração de unidades comerciais de dimensão relevante;\n\nc) Organizar e manter actualizado o registo relativo às unidades comerciais de dimensão relevante, bem como recolher toda a informação pertinente, tendo em vista avaliar o impacte da instalação, expansão ou concentração das empresas abrangidas por legislação correspondente;\n\nd) Instruir os procedimentos relativos a operações de concentração de empresas comerciais sujeitas a notificação prévia."
+  },
+  "5d999966fcb1221e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Investimento e Inovação no Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Investimento e Inovação no Comércio\n\n1 - À Direcção de Serviços de Investimento e Inovação no Comércio compete assegurar as condições para a modernização das estruturas comerciais e para a competitividade sustentada das empresas, articulando os mecanismos e instrumentos disponíveis, nomeadamente:\n\na) Assegurar o funcionamento de sistemas de incentivos dirigidos ao sector do comércio e serviços cuja competência seja atribuída à DGCC e propor a introdução de acções e instrumentos de apoio que se revelem necessários para o desenvolvimento do sector;\n\nb) Promover a criação de condições necessárias à dinamização de iniciativas de investimentos que visem a modernização das estruturas empresariais, criando, em especial, condições para a sua consolidação e fortalecimento;\n\nc) Propiciar o suporte técnico necessário à melhoria do desempenho da actividade comercial através da indução de estratégias empresariais abertas à inovação e pela introdução nas empresas de novas tecnologias ou novos modelos e formas de comercialização;\n\nd) Dinamizar as iniciativas de cooperação ao nível empresarial e ao nível das associações, bem como no seu relacionamento com entidades públicas e privadas;\n\ne) Contribuir, em colaboração com as entidades com competência própria na matéria, particularmente as administrações autárquicas, para uma política de ordenamento do comércio urbano e rural;\n\nf) Contribuir para a definição de uma política de formação para o comércio, colaborando com as entidades com intervenção neste domínio.\n\n2 - A Direcção de Serviços de Investimento e Inovação no Comércio compreende:\n\na) A Divisão de Incentivos e Urbanismo Comercial;\n\nb) A Divisão de Novas Técnicas e Tecnologias e Formação Profissional.\n\n3 - Compete a Divisão de Incentivos e Urbanismo Comercial:\n\na) Intervir na concepção, divulgação, acompanhamento e avaliação dos programas de incentivos dirigidos ao comércio;\n\nb) Prestar apoio técnico às empresas e às associações do sector ao nível da concepção de projectos;\n\nc) Dinamizar acções de sensibilização, diagnóstico e acompanhamento, nomeadamente em relação a projectos de cooperação e de urbanismo comercial, através da constituição de equipas de projecto que para o efeito venham a ser criadas;\n\nd) Promover a melhoria do ambiente financeiro das empresas através do diálogo com as entidades com intervenção relevante ao nível do seu financiamento;\n\ne) Promover a articulação com as entidades intervenientes na concepção das políticas de urbanismo comercial.\n\n4 - Compete à Divisão de Novas Técnicas e Tecnologias e Formação Profissional:\n\na) Dinamizar a divulgação de novas técnicas e tecnologias aplicáveis ao comércio, nomeadamente em cooperação com as estruturas associativas do sector, através de acções de demonstração e apresentação de experiências piloto;\n\nb) Propor medidas para facilitar a aplicação e o acesso das empresas do comércio a novas técnicas de gestão e a novas tecnologias;\n\nc) Promover as vantagens competitivas das pequenas e médias empresas (PME), designadamente através de apoio à concepção e divulgação de soluções de ordem organizacional, nomeadamente em colaboração com organismos públicos com intervenção nesta área;\n\nd) Participar na concepção e acompanhamento dos diferentes tipos de formação profissional para o sector."
+  },
+  "c3859d109eb77502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção de Serviços de Estatística e Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços de Estatística e Sistemas de Informação\n\n1 - À Direcção de Serviços de Estatística e Sistemas de Informação cabe assegurar um conhecimento actualizado da evolução da actividade comercial e dos indicadores relevantes para a aferição das políticas de preços e concorrência e organizar e gerir os recursos informáticos da DGCC, competindo-lhe, nomeadamente:\n\na) Organizar e promover a observação directa e permanente dos bens e serviços mais relevantes em termos de despesas familiares, disponibilizando a informação necessária para a formulação e acompanhamento das políticas do comércio e distribuição, concorrência e preços;\n\nb) Proceder à recolha periódica e tratamento de informação sobre a conjuntura económica nacional relevante para as atribuições da DGCC, produzida por diversas entidades, e promover a sua disponibilização;\n\nc) Proceder à realização e permanente actualização do cadastro da actividade comercial e sua exploração técnica;\n\nd) Programar, dinamizar e coordenar a aquisição, implantação, gestão e manutenção dos meios informáticos necessários ao funcionamento da DGCC;\n\ne) Assegurar a colaboração da DGCC junto das entidades nacionais e comunitárias que nos domínios da estatística e da informática desenvolvam actividades de interesse para o desempenho das atribuições da DGCC.\n\n2 - A Direcção de Serviços de Estatística e Sistemas de Informação compreende:\n\na) A Divisão de Estatística;\n\nb) A Divisão de Sistemas de Informação.\n\n3 - À Divisão de Estatística compete:\n\na) Proceder à recolha de dados, bem como executar os apuramentos estatistícos necessários à formulação e acompanhamento das políticas de comércio e distribuição, concorrência e preços;\n\nb) Acompanhar e avaliar a evolução geral de preços em Portugal, tendo em vista uma aferição periódica dos objectivos da política económica, permitindo a tomada de medidas correctivas adequadas em tempo oportuno;\n\nc) Realizar estudos comparativos sobre a evolução dos preços e do poder de compra em Portugal e noutros países da União Europeia;\n\nd) Realizar estudos comparativos sobre a evolução dos preços em diferentes formas de comércio e regiões do País;\n\ne) Realizar os estudos que a nível global se revelem necessários para a aferição da política de preços e proceder à sua divulgação;\n\nf) Realizar e manter actualizado o cadastro da actividade comercial e proceder aos apuramentos estatistícos indispensáveis ao aprofundamento do conhecimento da realidade desta actividade;\n\ng) Compilar, interpretar e disponibilizar informação periódica sobre a conjuntura económica nacional com relevância para os aspectos que se prendam com as atribuições da DGCC;\n\nh) Assegurar os contactos e a colaboração com as entidades nacionais e comunitárias responsáveis pela produção de estatísticas com interesse para o desempenho das atribuições da DGCC.\n\n4 - À Divisão de Sistemas de Informação compete:\n\na) Organizar e promover a aquisição de equipamentos e produtos de informática destinados ao tratamento e racionalização da informação nas suas diversas formas, de acordo com as necessidades de desenvolvimento do sistema de informação da DGCC, em articulação com a Repartição de Gestão Patrimonial e Financeira da Direcção de Serviços Administrativos e Financeiros;\n\nb) Organizar e gerir a distribuição e implantação dos recursos informáticos, em conformidade com as necessidades dos serviços, apoiando os utilizadores e assegurando a correcta operação e manutenção dos equipamentos;\n\nc) Executar ou promover a execução dos trabalhos de índole técnica relacionados com as aplicações informáticas que lhe sejam solicitados pelos demais serviços;\n\nd) Promover a utilização de normas e procedimentos comuns relativos a códigos, linguagens, documentação, segurança, confidencialidade e gestão da informação;\n\ne) Propor e promover a realização das acções de formação na área informática que se revelem necessárias para um mais racional aproveitamento dos meios informáticos;\n\nf) Assegurar os contactos e a colaboração com as entidades nacionais e comunitárias que, no domínio da informática, desenvolvam actividades com interesse para o desempenho das atribuições da DGCC."
+  },
+  "dfd516fc5630e041": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À Direcção de Serviços Administrativos e Financeiros compete o exercício das funções relacionadas com a gestão dos recursos humanos, financeiros e patrimoniais da DGCC e com as acções de aperfeiçoamento e formação profissionais dos seus funcionários.\n\n2 - A Direcção de Serviços Administrativos e Financeiros compreende:\n\na) A Repartição de Gestão Patrimonial e Financeira;\n\nb) A Repartição de Gestão dos Recursos Humanos, de Expediente, Arquivo e Comunicações.\n\n3 - Compete à Repartição de Gestão Patrimonial e Financeira:\n\na) Preparar os elementos necessários à elaboração dos orçamentos e apresentar os respectivos projectos;\n\nb) Assegurar o controlo orçamental e financeiro e a escrituração das receitas e despesas;\n\nc) Promover a organização da conta anual de gerência e preparar os elementos necessários à elaboração do respectivo relatório;\n\nd) Controlar o movimento de tesouraria, analisando mensalmente o respectivo balanço;\n\ne) Assegurar a eficiente execução das funções de aprovisionamento, economato e gestão patrimonial dos bens afectos à DGCC;\n\nf) Assegurar a análise e processamento de elementos relativos aos vencimentos e demais abonos de pessoal;\n\ng) Zelar pela limpeza e segurança das instalações da DGCC.\n\n4 - Na Repartição de Gestão Patrimonial e Financeira funciona uma tesouraria, coordenada por um tesoureiro, à qual incumbe:\n\na) Arrecadar todas as receitas próprias da DGCC;\n\nb) Efectuar o pagamento de todas as despesas devidamente autorizadas;\n\nc) Manter devidamente escriturados todos os livros e registos de tesouraria.\n\n5 - Compete à Repartição de Gestão dos Recursos Humanos, de Expediente, Arquivo e Comunicações:\n\na) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego do pessoal da DGCC;\n\nb) Organizar e manter actualizado o cadastro de todo o pessoal, bem como o registo e controlo da assiduidade;\n\nc) Assegurar a execução das acções relativas à notação de pessoal e à elaboração das listas de antiguidade;\n\nd) Superintender no pessoal auxiliar, assegurando a organização do respectivo trabalho;\n\ne) Divulgar e apoiar acções de formação e aperfeiçoamento profissional dos funcionários da DGCC;\n\nf) Promover a recepção, registo, classificação e distribuição e a expedição de toda a correspondência chegada ou emanada da DGCC;\n\ng) Zelar pela eficiência das redes de comunicação interna e externa;\n\nh) Organizar o arquivo geral, mantê-lo em condições de fácil consulta, dar execução às disposições legais relativas a destruição de documentos e recorrer à respectiva microfilmagem, nos termos legais;\n\ni) Executar os trabalhos de impressão, reprodução e encadernação de documentos em suporte de papel."
+  },
+  "060d42c0e81ef7df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Centro de Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Centro de Documentação\n\n1 - Ao Centro de Documentação compete:\n\na) Assegurar o funcionamento da biblioteca, procedendo a um permanente enriquecimento do seu património através de um adequado trabalho de pesquisa bibliográfica e tornando a sua consulta acessível quer a utilizadores internos quer externos;\n\nb) Fazer o tratamento técnico das espécies bibliográficas e das publicações recebidas, permitindo uma eficiente divulgação das mesmas, nomeadamente através da edição regular de um boletim bibliográfico referenciando as obras existentes e os respectivos conteúdos temáticos;\n\nc) Recolher, seleccionar e sistematizar documentação e legislação nacional e internacional com interesse para as áreas de intervenção da DGCC, promovendo o intercâmbio com organismos congéneres de outros Estados;\n\nd) Organizar, actualizar e conservar o património documental;\n\ne) Assegurar o tratamento selectivo da imprensa periódica nacional e internacional, garantindo a difusão interna da mesma;\n\nf) Preparar e organizar cadernos temáticos que divulguem trabalhos com incidência nas áreas de intervenção da DGCC.\n\n2 - O Centro de Documentação é dirigido por um director, equiparado a chefe de divisão para todos os efeitos legais."
+  },
+  "610cafe45560d83c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Gabinete de Informação Empresarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gabinete de Informação Empresarial\n\n1 - Ao Gabinete de Informação Empresarial compete:\n\na) Organizar e coordenar um sistema de informação permanente dirigido aos agentes económicos;\n\nb) Coordenar e gerir a actividade editorial da DGCC, bem como o serviço de distribuição e venda de publicações;\n\nc) Realizar a publicidade institucional e assegurar a ligação com os meios de comunicação social, bem como contribuir para um diálogo permanente com as empresas e as entidades associativas que as representam.\n\n2 - Compete ainda ao Gabinete de Informação Empresarial:\n\na) A constituição e manutenção de uma base de dados informatizada sobre comércio e concorrência;\n\nb) Assegurar o funcionamento de um serviço personalizado de informação e atendimento incidindo, em especial, nos procedimentos legais exigidos nos domínios da concorrência e da actividade comercial, nos apoios às empresas comerciais e na informação estatística;\n\nc) Apoiar ou organizar conferências, seminários e sessões de informação e promoção da participação em feiras e exposições;\n\nd) Preparar material informativo, tendo em vista a divulgação de informação relevante para as empresas.\n\n3 - O Gabinete de Informação Empresarial é dirigido por um director, equiparado a chefe de divisão para todos os efeitos legais."
+  },
+  "d55f0b5b15103b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento"
+  },
+  "154f8fe5a685d6ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento\n\nO funcionamento da DGCC assenta na estrutura definida no presente diploma e na articulação entre os seus serviços, com vista à realização dos objectivos comuns."
+  },
+  "b05c1b3657f44a92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Colaboração com outras entidades\n\n1 - A DGCC deverá manter uma estreita colaboração com os demais serviços e organismos do Ministério da Economia, bem como com outras entidades nacionais e internacionais, tendo em vista o desempenho cabal das suas atribuições.\n\n2 - A DGCC pode ser autorizada a participar em associações ou outras entidades nacionais e internacionais cujo objectivo seja de interesse para o exercício das suas funções, mediante despacho conjunto dos Ministros das Finanças e da Economia, o qual definirá as condições de tal participação."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "cbcb4c58a67c0887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Quadro de pessoal\n\n1 - A DGCC dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro do restante pessoal da DGCC será aprovado por portaria conjunta dos Ministros das Finanças e da Economia e do membro do Governo responsável pela Administração Pública, a aprovar nos 30 dias subsequentes à entrada em vigor do presente diploma."
+  },
+  "bad686d9260bfb05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transição de pessoal\n\n1 - Transita para o quadro da DGCC:\n\na) O pessoal provido no quadro da ex-Direcção-Geral de Concorrência e Preços;\n\nb) O pessoal provido no quadro da ex-Direcção-Geral do Comércio constante da lista nominativa a publicar no Diário da República.\n\n2 - A transição do pessoal para o quadro da DGCC é feita, nos termos definidos pelo artigo 45.º do Decreto-Lei n.º 222/96, de 25 de Novembro, de acordo com as seguintes regras:\n\na) Para a mesma carreira, categoria e escalão que o funcionário já possui;\n\nb) Com a observância das habilitações legais, para a carreira e categoria que integra as funções que efectivamente o funcionário desempenha, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na categoria para que se processa a transição.\n\n3 - As correspondências de categoria determinadas na alínea b) do n.º 2 fazem-se em função do índice remuneratório correspondente ao escalão I da categoria em que o funcionário se encontra e no escalão I da categoria da nova carreira.\n\n4 - Para efeitos de promoção e antiguidade na carreira, ao pessoal da DGCC abrangido pelo disposto na alínea b) do n.º 2 será contado na nova categoria para que transite o tempo de serviço prestado na anterior, desde que haja comprovadamente exercido idênticas funções."
+  },
+  "00bec9d5b842f985": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Situações especiais\n\n1 - Mantêm-se válidos até ao respectivo termo, salvo despacho em contrário a emitir pela entidade competente no prazo de 30 dias após a transição para o novo quadro de pessoal, as requisições, destacamentos e comissões de serviço de pessoal da DGCC noutros serviços.\n\n2 - O pessoal que se encontre na situação de licença sem vencimento mantém os direitos que detinha à data de início da referida licença, com aplicação do regime previsto no Decreto-Lei n.º 497/88, de 30 de Dezembro.\n\n3 - O pessoal que actualmente, nos termos da lei, se encontre em regime de estágio na ex-Direcção-Geral do Comércio, em áreas integradas na DGCC, prossegue o estágio neste organismo, devendo, se necessário, ser nomeado novo júri, ou elementos do júri, o qual fará a respectiva avaliação e classificação final.\n\n4 - Os candidatos aprovados em concursos abertos, ao abrigo do disposto no n.º 4 do artigo 46.º do Decreto-Lei n.º 222/96, de 25 de Novembro, para os quadros da ex-Direcção-Geral da Concorrência e Preços e da ex-Direcção-Geral do Comércio serão providos no quadro da DGCC sempre que estejam em causa áreas funcionais integradas nas atribuições deste serviço."
+  },
+  "e3742720b7405c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pessoal dirigente\n\nEnquanto não forem providos, nos termos da legislação em vigor, os cargos de director de serviços e chefe de divisão constantes do mapa anexo ao presente diploma, poderão estes ser exercidos em regime de substituição, nos termos do artigo 8.º do Decreto-Lei n.º 323/89, de 26 de Setembro."
+  },
+  "63d4dc27d0905151": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Património e dotações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Património e dotações"
+  },
+  "2178c0f9b24833fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Transferência de património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Transferência de património\n\nA DGCC sucede na titularidade de todos os bens móveis, bem como de viaturas e de todos os direitos e obrigações, contratuais ou não, nomeadamente de contratos de arrendamento urbano, de contratos de locação financeira de bens móveis e de outros contratos de manutenção e assistência técnica, anteriormente na titularidade da ex-Direcção-Geral da Concorrência e Preços, e da ex-Direcção-Geral do Comércio, sempre que, quanto a esta última, se insiram no âmbito das atribuições que transitaram para a DGCC, mediante inventário a aprovar pelo Ministro da Economia, sob proposta do director-geral."
+  },
+  "2563e6ed06eb9960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Venda de publicações e prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Venda de publicações e prestação de serviços\n\nA DGCC pode vender publicações e prestar serviços ou informações remunerados, em qualquer suporte, no âmbito das suas atribuições."
+  },
+  "b1c784eddf3cb917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\nPara além das dotações atribuídas no Orçamento do Estado, constituem receita da DGCC:\n\na) O produto da venda de serviços e publicações;\n\nb) O produto das coimas ou outros valores de natureza pecuniária que lhe sejam consignados por lei, contrato ou a qualquer outro título."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "cb4d9e3b88ea7b1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Referências legais e contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Referências legais e contratuais\n\n1 - As referências legais e contratuais feitas à ex-Direcção-Geral da Concorrência e Preços consideram-se feitas à DGCC.\n\n2 - Consideram-se igualmente feitas à DGCC as referências legais à ex-Direcção-Geral do Comércio ou a organismos que a antecederam, contidas, nomeadamente, nos seguintes diplomas: Decretos-Leis n.os 647/76, de 31 de Julho, 122/79, de 8 de Maio, alterado pelo Decreto-Lei n.º 252/93, de 14 de Julho, 252/86, de 25 de Agosto, alterado pelo Decreto-Lei n.º 251/93, de 14 de Julho, 253/86, de 25 de Agosto, 277/86, de 4 de Setembro, 283/86, de 5 de Setembro, 272/87, de 3 de Julho, alterado pelo Decreto-Lei n.º 243/95, de 13 de Setembro, 61/90, de 15 de Fevereiro, 184/94, de 1 de Julho, e respectivos diplomas regulamentares, 258/95, de 30 de Setembro, e 259/95, de 30 de Setembro."
+  },
+  "4458e9806496ef51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa a que se refere o n.º 1 do artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa a que se refere o n.º 1 do artigo 22.º\n\nQuadro de pessoal dirigente\n\n[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/274b00/65586569.pdf)\n\n3 - As referências contratuais feitas à ex-Direcção-Geral do Comércio consideram-se feitas à DGCC sempre que se insiram no âmbito das atribuições que transitaram para a DGCC."
+  },
+  "a4bb3e5e21da3fc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nPresidência do Conselho de Ministros, 17 de Setembro de 1998.\n\nJosé Veiga Simão - Luís Filipe Marques Amado - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 29 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Novembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "996a3cd7e1497b53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2004-02-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - São atribuições da DGCC:\n\na) Contribuir para a definição e execução da política de concorrência, enquanto mecanismo de regulação do desenvolvimento económico e empresarial, e acompanhar e avaliar a execução das medidas dela decorrentes;\n\nb) Promover o funcionamento eficiente dos mercados, agindo nos domínios das estratégias e comportamentos dos agentes económicos, das estruturas dos mercados, dos mecanismos de regulação e das políticas sectoriais e do direito da concorrência;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Dar cumprimento às missões que, no âmbito do direito interno e comunitário de concorrência, são atribuídas à autoridade administrativa nacional de concorrência;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\n2 - No âmbito das atribuições previstas no número anterior, caberá, nomeadamente, à DGCC:\n\na) Assegurar um conhecimento actualizado do funcionamento dos mercados nacionais dos vários bens e serviços, a fim de criar ou reforçar as condições necessárias ao funcionamento concorrencial dos mesmos;\n\nb) Participar, sem prejuízo das competências atribuídas a outras entidades, na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência;\n\nc) Promover a divulgação pelos agentes económicos de informação útil para a definição e formulação das respectivas estratégias empresariais.\n\n> Alterado pelo/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19."
+  }
+ }
+}

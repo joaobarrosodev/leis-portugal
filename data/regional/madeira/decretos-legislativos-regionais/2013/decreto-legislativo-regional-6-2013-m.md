@@ -40,10 +40,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-09-14'
+version_history:
+  file: decreto-legislativo-regional-6-2013-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-09-14'
+    amending: pt:dre:108139586:por
+    amending_title: Decreto Legislativo Regional n.º 31/2017/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Adita Artigo 4.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/6/2013/02/05/m/dre/pt/html
@@ -69,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    31/2017/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2013/decreto-legislativo-regional-6-2013-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,13 +178,17 @@ A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da 
 
 2 - As referências legais à CRACME, consagradas na legislação regional, consideram-se, para todos os efeitos, reportadas aos serviços mencionados no número anterior, no âmbito das respetivas competências.
 
-###### Artigo 2º — Aplicação do Decreto-Lei nº 112/2001, de 6 de abril às carreiras de inspeção dos inspetores da Inspeção Regional das Atividades Económicas
+###### Artigo 2.º — Regime jurídico aplicável à carreira inspetiva
 
-Até à revisão das carreiras de inspeção, enquanto carreiras de regime especial, previstas no artigo 101º da Lei nº 12-A/2008 de 27 de fevereiro, aplica-se às carreiras de inspeção dos inspetores da Inspeção Regional das Atividades Económicas, o regime instituído no Decreto-Lei nº 112/2001, de 6 de abril, que estabelece o enquadramento e define a estrutura das carreiras de inspeção da Administração Pública, com as especificidades constantes neste diploma.
+Até a revisão das carreiras de inspeção, enquanto carreiras de regime especial, previstas no artigo 101.º da Lei n.º 12-A/2008, de 27 de fevereiro, aplica-se às carreiras de inspeção dos inspetores da Autoridade Regional das Atividades Económicas, o regime instituído no Decreto-Lei n.º 112/2001, de 6 de abril, que estabelece o enquadramento e define a estrutura das carreiras de inspeção da Administração Pública, com as especificidades constantes neste diploma.
 
-###### Artigo 3º — Carreiras de regime especial
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
-As carreiras de inspeção da IRAE são, para todos os efeitos legais, reconhecidas como carreiras de regime especial.
+###### Artigo 3.º — Carreiras de regime especial
+
+As carreiras de inspeção da Autoridade Regional das Atividades Económicas são, para todos os efeitos legais, reconhecidas como carreiras de regime especial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
 ###### Artigo 4º — Carreira de inspetor superior
 
@@ -169,11 +196,45 @@ As carreiras de inspeção da IRAE são, para todos os efeitos legais, reconheci
 
 2 - O ingresso na carreira de inspetor superior faz -se, em regra, para a categoria de inspetor, de entre indivíduos habilitados com licenciatura adequada, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
 
-###### Artigo 5º — Carreira de inspetor técnico
+###### Artigo 4.º-A — Habilitações de base adequadas
+
+1 - Consideram-se, para efeitos do disposto no artigo anterior, habilitações académicas de base adequadas as seguintes:
+
+a) Licenciatura em Direito;
+
+b) Licenciatura nas áreas da Criminologia e Justiça Criminal;
+
+c) Licenciatura nas áreas de Economia ou Gestão, designadamente, Economia, Gestão, Gestão e Administração Pública, Contabilidade ou Contabilidade e Finanças;
+
+d) Licenciatura em Medicina Veterinária;
+
+e) Licenciatura nas áreas da Farmácia ou Ciências Farmacêuticas;
+
+f) Licenciatura nas áreas da Química;
+
+g) Licenciatura nas áreas da Biologia;
+
+h) Licenciatura nas áreas da Ciência e Tecnologia Alimentar, e da Tecnologia e Segurança Alimentar;
+
+i) Licenciatura na área de Produção Alimentar em Restauração, e na área de Qualidade Alimentar e Nutrição;
+
+j) Licenciatura nas áreas da Engenharia Civil, Engenharia Mecânica, Engenharia Informática, Engenharia Eletrotécnica e Engenharia Eletrónica.
+
+2 - Excecionalmente, podem ingressar na carreira de inspetor superior os inspetores técnicos ou inspetores adjuntos, com grau de licenciatura e com 10 anos de carreira inspetiva, ainda que não possuam licenciatura numa das áreas mencionadas no número anterior.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
+
+###### Artigo 5.º — Carreira de inspetor técnico
 
 1 - Integram a carreira de inspetor técnico as categorias de inspetor técnico especialista principal, inspetor técnico especialista, inspetor técnico principal e inspetor técnico.
 
 2 - O ingresso na carreira de inspetor técnico faz-se, em regra, para a categoria de inspetor técnico, de entre indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
+
+3 - Para efeitos do disposto no número anterior, são consideradas habilitações académicas de base adequadas, os cursos superiores em áreas de entre as indicadas no artigo 4.º-A que não confiram o grau de licenciatura.
+
+4 - Excecionalmente, podem ingressar na carreira de inspetor técnico, os inspetores adjuntos, com curso superior que não confira grau de licenciatura e com 10 anos de carreira inspetiva, ainda que a referida habilitação académica não seja em áreas de entre as indicadas no artigo 4.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
 ###### Artigo 6º — Carreira de inspetor-adjunto
 
@@ -181,7 +242,7 @@ As carreiras de inspeção da IRAE são, para todos os efeitos legais, reconheci
 
 2 - O ingresso na carreira de inspetor-adjunto faz-se para a categoria de inspetor-adjunto de entre indivíduos habilitados com 12º ano de escolaridade ou equivalente, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra o curso de formação elementar.
 
-###### Artigo 7º — Estágios
+###### Artigo 7.º — Estágios
 
 1 - A frequência dos estágios é feita na modalidade de nomeação nos termos da alínea f) do artigo 10º da Lei nº 12-A/2008, de 27 de fevereiro, no caso de indivíduos não vinculados à função pública e na modalidade de nomeação em regime de comissão de serviço, nos termos da alínea b) do nº 4 do artigo 9º da Lei nº 12-A/2008, de 27 de fevereiro, se o estagiário já estiver uma relação jurídica de emprego público por tempo indeterminado já constituída.
 
@@ -195,21 +256,25 @@ As carreiras de inspeção da IRAE são, para todos os efeitos legais, reconheci
 
 6 - O tempo de serviço legalmente considerado como estágio para ingresso nas carreiras de inspetor superior, inspetor técnico e inspetor-adjunto conta para efeitos de progressão e promoção na categoria de ingresso da respetiva carreira.
 
-7 - Os regulamentos dos estágios são aprovados por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais.
+7 - Os regulamentos de estágio são aprovados por despacho conjunto dos membros do Governo Regional responsáveis pelos departamentos governamentais com atribuições em matéria de, respetivamente, Inspeção das Atividades Económicas e Administração Pública.
 
-###### Artigo 8º — Formação
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
-1 - Os cursos que integram os estágios das carreiras de inspetor superior, inspetor técnico e inspetor-adjunto, bem como os que integram a formação prevista na alínea b) do nº 1 e na alínea b) do nº 3 do artigo 9º do Decreto-Lei nº 112/2001, de 6 de abril, são objeto de regulamento a aprovar por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais.
+###### Artigo 8.º — Formação
+
+1 - Os cursos que integram os estágios das carreiras de inspetor, inspetor técnico e inspetor-adjunto são objeto de regulamento a aprovar por despacho conjunto dos membros do Governo Regional responsáveis pelos departamentos governamentais com atribuições em matéria de, respetivamente, Inspeção das Atividades Económicas e Administração Pública.
 
 2 - Para os efeitos constantes da alínea b) do nº 3 do artigo 9º do Decreto-Lei nº 112/2001, de 6 de abril, considera-se válida e suficiente a formação adquirida nos cursos de formação e de aperfeiçoamento das carreiras de inspeção.
 
-###### Artigo 9º — Conteúdo funcional
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
+
+###### Artigo 9.º — Conteúdo funcional
 
 1 - Compete ao pessoal das carreiras de inspetor superior, inspetor técnico e inspetor-adjunto:
 
 a) Exercer funções de autoridade de polícia criminal no âmbito das infrações antieconómicas e contra a saúde pública;
 
-b) Coordenar ou executar as ações de inspeção ou de investigação que lhe forem cometidas no domínio das competências específicas atribuídas à IRAE;
+b) Coordenar ou executar as ações de inspeção ou de investigação que lhe forem cometidas no domínio das competências específicas atribuídas à Autoridade Regional das Atividades Económicas;
 
 c) Efetuar as ações de instrução nos processos por crimes ou por contraordenações que lhe forem distribuídos;
 
@@ -223,13 +288,13 @@ g) Coadjuvar os responsáveis pelas ações de inspeção ou de investigação e
 
 h) Proceder ao levantamento dos autos de notícia respeitantes às infrações antieconómicas e contra a saúde pública que constatarem;
 
-i) Exercer as demais funções de natureza inspetiva que lhe forem determinadas, efetuando quaisquer diligências necessárias à prossecução das atribuições da IRAE;
+i) Exercer as demais funções de natureza inspetiva que lhe forem determinadas, efetuando quaisquer diligências necessárias à prossecução das atribuições da Autoridade Regional das Atividades Económicas;
 
 j) Conduzir, sempre que necessário, viaturas de serviço no desempenho de funções inspetivas.
 
-2 - Competem especificamente ao pessoal da carreira de inspetor superior, de entre outras, as seguintes funções:
+2 - Compete especificamente ao pessoal da carreira de inspetor superior, de entre outras, as seguintes funções:
 
-a) Conceber programas de ações de inspeção no âmbito das competências atribuídas à IRAE;
+a) Conceber programas de ações de inspeção no âmbito das competências atribuídas à Autoridade Regional das Atividades Económicas;
 
 b) Efetuar estudos e elaborar relatórios visando o aperfeiçoamento constante do sistema de inspeção, controlo e vigilância das atividades antieconómicas e contra a saúde pública;
 
@@ -237,7 +302,7 @@ c) Propor, na área da respetiva especialização, ações de colaboração com 
 
 d) Orientar os serviços cuja coordenação lhe for atribuída, assegurando a coordenação dos recursos humanos e materiais afetos aos mesmos, sempre que tal lhe for determinado;
 
-e) Estudar, conceber, adotar ou implementar métodos e processos científico-técnicos de âmbito geral ou especializado com vista à tomada de decisão superior sobre matérias que interessem à IRAE;
+e) Estudar, conceber, adotar ou implementar métodos e processos científico-técnicos de âmbito geral especializado com vista à tomada de decisão superior sobre matérias que interessem à Autoridade Regional das Atividades Económicas;
 
 f) Proceder regularmente à auditoria, análise e avaliação das atividades dos serviços, nos termos que lhe forem determinados;
 
@@ -251,7 +316,7 @@ b) Orientar a instrução dos processos por crimes ou por contraordenações que
 
 c) Assegurar a legalidade dos atos em processos por crimes ou por contraordenações que corram os seus termos nos serviços a seu cargo;
 
-d) Representar, sempre que necessário, os serviços a seu cargo em reuniões, comissões e grupos de trabalho tendo em vista preparar a tomada de decisão superior sobre medidas de prevenção e de investigação que interessem à organização e ao funcionamento da IRAE;
+d) Representar, sempre que necessário, os serviços a seu cargo em reuniões, comissões e grupos de trabalho tendo em vista preparar a tomada de decisão sobre medidas de prevenção e de investigação que interessem à organização e funcionamento da Autoridade Regional das Atividades Económicas;
 
 e) Elaborar despachos e relatórios tendo em vista preparar a tomada de decisão superior sobre medidas de prevenção e de investigação.
 
@@ -271,15 +336,21 @@ f) Praticar atos processuais em inquéritos e em processos de contraordenação;
 
 g) Utilizar os meios técnicos e os instrumentos necessários postos à sua disposição para a execução das tarefas e zelar pela respetiva segurança e conservação.
 
-###### Artigo 10º — Remunerações
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
-As estruturas indiciárias das carreiras do pessoal de inspeção da IRAE constam do mapa I em anexo ao Decreto-Lei nº 112/2001, de 6 de abril.
+###### Artigo 10.º — Remunerações
 
-###### Artigo 11º — Suplemento de função inspetiva
+As estruturas indiciárias das carreiras do pessoal de inspeção da Autoridade Regional das Atividades Económicas constam do mapa I em anexo ao Decreto-Lei n.º 112/2001, de 6 de abril.
 
-1 - O pessoal dirigente e o pessoal das carreiras de inspeção da IRAE têm direito ao suplemento de função inspetiva estabelecido no artigo 12º do Decreto-Lei nº 112/2001, de 6 de abril, no montante de 22,5 % da respetiva remuneração de base.
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
+
+###### Artigo 11.º — Suplemento de função inspetiva
+
+1 - O pessoal dirigente e o pessoal das carreiras de inspeção da Autoridade Regional das Atividades Económicas têm direito ao suplemento de função inspetiva estabelecido nos artigos 12.º e 13.º do Decreto-Lei n.º 112/2001, de 6 de abril, no montante de 22,5 % da respetiva remuneração de base.
 
 2 - O suplemento de função inspetiva é abonado em 12 mensalidades e releva para os efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do nº 1 do artigo 47º do Estatuto da Aposentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 31/2017/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2017-108139586), publicado em 2017-09-13.
 
 ###### Artigo 12º — Norma revogatória
 

@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:154399:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32fa355755feeb65",
+    "c8faff05c50ca52a",
+    "bfa1eae716fa9559",
+    "bbe2a03a373dec86",
+    "1e54b53f7d807730",
+    "0c4a53e6a2316101",
+    "81fade4241c023c0",
+    "8bb6e3c215c06fa7",
+    "9e6066ab39f2511d",
+    "524ee28983bd9f65",
+    "220c4c3fcb9b33e0",
+    "e0ead5072dfa89bb",
+    "37a573f26871feba",
+    "855f4feed7c75192",
+    "62e69ddecbbf7d35",
+    "e735d9351d41a1c0",
+    "39e36956823e89dd",
+    "63f3d8340efa63ed",
+    "e8072e1887d9601e",
+    "37bfc52287b62253",
+    "8845f7c0d7ea1999",
+    "483ed5a69d91f871",
+    "dde47c6e2d40e04e",
+    "c1300ba0984e9d94",
+    "cf8ba3d13bd924c5"
+   ]
+  },
+  {
+   "date": "2000-09-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570552:por",
+     "title": "Portaria n.º 800/2000",
+     "published": "2000-09-21",
+     "dre_path": "/dr/detalhe/portaria/800-2000-570552"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre::15.º"
+   ],
+   "fragments": [
+    "32fa355755feeb65",
+    "c8faff05c50ca52a",
+    "bfa1eae716fa9559",
+    "bbe2a03a373dec86",
+    "1e54b53f7d807730",
+    "0c4a53e6a2316101",
+    "81fade4241c023c0",
+    "8bb6e3c215c06fa7",
+    "9e6066ab39f2511d",
+    "524ee28983bd9f65",
+    "220c4c3fcb9b33e0",
+    "e0ead5072dfa89bb",
+    "37a573f26871feba",
+    "855f4feed7c75192",
+    "62e69ddecbbf7d35",
+    "e735d9351d41a1c0",
+    "39e36956823e89dd",
+    "fed254ac930d7b21",
+    "e8072e1887d9601e",
+    "37bfc52287b62253",
+    "8845f7c0d7ea1999",
+    "483ed5a69d91f871",
+    "dde47c6e2d40e04e",
+    "c1300ba0984e9d94",
+    "cf8ba3d13bd924c5"
+   ]
+  }
+ ],
+ "fragments": {
+  "32fa355755feeb65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nO [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, que define o regime do estabelecimento, gestão e exploração das infra-estruturas e da prestação de serviços de telecomunicações complementares, sujeitou a atribuição de licenças para a prestação de serviços de telecomunicações complementares móveis ao princípio da acessibilidade condicionada às limitações do espectro radioeléctrico.\n\nNos termos do mesmo diploma, a atribuição da licença é precedida de concurso público, sendo o respectivo regulamento aprovado por portaria do membro do Governo com competência na área das comunicações.\n\nProsseguindo o percurso iniciado em princípios da década de 90, importa agora criar as condições que viabilizem o acesso de mais operadores ao mercado dos serviços de telecomunicações móveis, acolhendo o sistema DCS 1800 - Digital Communications System, entretanto disponibilizado, o qual deve poder ser utilizado por todos os operadores licenciados ou a licenciar em termos de igualdade.\n\nÉ com este objectivo que se procede ao enquadramento do concurso público para atribuição de uma licença para a prestação do serviço móvel terrestre.\n\nNestes termos:\n\nManda o Governo, pelo Ministro do Equipamento, do Planeamento e da Administração do Território, nos termos e para os efeitos do disposto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, o seguinte:\n\n1.º É aprovado o Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre, funcionando nas faixas de 900 MHz e de 1800 MHz, publicado em anexo à presente portaria e que desta faz parte integrante.\n\n2.º A atribuição da licença para a prestação do serviço móvel terrestre rege-se pelo disposto no [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, e no Regulamento do Concurso e pelas cláusulas do respectivo caderno de encargos.\n\nMinistério do Equipamento, do Planeamento e da Administração do Território.\n\nAssinada em 7 de Julho de 1997.\n\nO Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  },
+  "c8faff05c50ca52a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento do Concurso Público para a Atribuição de Uma Licença para a Prestação do Serviço de Telecomunicações Complementar Móvel - Serviço Móvel Terrestre"
+  },
+  "bfa1eae716fa9559": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO concurso público tem por objecto a atribuição de uma licença de âmbito nacional para a prestação do serviço de telecomunicações complementar móvel - serviço móvel terrestre (SMT), funcionando nas faixas de 900 MHz e de 1800 MHz."
+  },
+  "bbe2a03a373dec86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Legislação aplicável\n\n1 - O concurso público rege-se pelas disposições constantes do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, do presente Regulamento e do caderno de encargos, a elaborar pelo Instituto das Comunicações de Portugal (ICP) e sujeito à aprovação do membro do Governo responsável pela área das comunicações.\n\n2 - A licença atribuída rege-se pelas disposições constantes do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro, do respectivo regulamento de exploração, do presente Regulamento e do caderno de encargos, bem como ainda pela demais legislação do sector das comunicações.\n\n3 - O licenciado é obrigado a cumprir as leis nacionais vigentes, na parte em que lhe forem aplicáveis, bem como os mandatos ou injunções que, nos termos da lei, lhe sejam dirigidos pelas autoridades competentes.\n\n4 - O operador licenciado obriga-se também a cumprir os normativos que no futuro venham a ser publicados, ainda que estes prescrevam disposições resultantes de necessidades ou exigências de uso público do serviço que prestam não previstas à data da atribuição da licença."
+  },
+  "1e54b53f7d807730": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Abertura do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Abertura do concurso\n\nO concurso público é aberto por despacho do membro do Governo responsável pela área das comunicações, a publicar por aviso na 2.ª série do Diário da República, que contém:\n\na) Indicação do serviço a licenciar;\n\nb) Indicação da entidade que promove a realização do concurso;\n\nc) Indicação da faixa de frequências e dos canais a utilizar;\n\nd) Indicação das disposições que regem a atribuição da licença;\n\ne) Explicitação dos instrumentos que enformam o concurso."
+  },
+  "0c4a53e6a2316101": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concorrentes\n\n1 - Podem concorrer sociedades comerciais, constituídas ou a constituir, que preencham os requisitos e condições fixados nos artigos 5.º e 6.º do [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro.\n\n2 - As sociedades a constituir podem concorrer desde que disponham de um cartão provisório de identificação, só sendo, porém, emitida a licença, em caso de atribuição, após apresentação de certidão comprovativa da efectivação do registo do contrato de sociedade na competente conservatória do registo comercial."
+  },
+  "81fade4241c023c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Preparação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Preparação das candidaturas\n\nOs cadernos de encargos são adquiridos na sede do ICP, na Avenida de José Malhoa, 12, em Lisboa, entre as 9 e as 16 horas, até à data do fim do prazo para entrega das candidaturas."
+  },
+  "8bb6e3c215c06fa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Caução provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Caução provisória\n\n1 - Para garantia do vínculo assumido com a apresentação das propostas e das obrigações inerentes ao concurso, os concorrentes devem prestar uma caução no valor de 70000000$00.\n\n2 - A caução é prestada através de depósito, em dinheiro ou em títulos emitidos ou garantidos pelo Estado, efectuado na Caixa Geral de Depósitos, à ordem do ICP.\n\n3 - O depósito referido no número anterior pode ser substituído por garantia bancária ou seguro-caução que ofereça garantias equivalentes àquele, à ordem do ICP, em qualquer dos casos devidamente documentados.\n\n4 - Quando o depósito for efectuado em títulos, estes são avaliados pelo respectivo valor nominal, salvo se nos últimos três meses a média da cotação na Bolsa de Lisboa fixar abaixo do par, caso em que a avaliação será feita por 90% dessa média.\n\n5 - A caução poderá ser levantada pelos concorrentes logo após o termo do prazo da entrega das propostas, caso não tenha sido apresentada proposta ou esta não tenha sido admitida, ou ainda em caso de não atribuição da licença.\n\n6 - Para os efeitos do disposto no número anterior, o ICP deve promover, nos 10 dias úteis subsequentes, as necessárias diligências para o efeito."
+  },
+  "9e6066ab39f2511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Pedidos de esclarecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos de esclarecimento\n\n1 - Os concorrentes podem solicitar, no decurso do prazo de entrega das propostas e até 15 dias úteis antes do prazo ter terminado, o esclarecimento de quaisquer dúvidas que se lhes suscitem na interpretação de quaisquer instrumentos do processo do concurso.\n\n2 - Os pedidos de esclarecimento devem ser apresentados na sede do ICP, por escrito, contra recibo comprovativo da entrega, ou enviados por carta registada com aviso de recepção, dirigidos ao presidente do conselho de administração do ICP.\n\n3 - Os esclarecimentos são prestados pelo ICP por carta registada com aviso de recepção, expedida até 10 dias úteis após as datas de recepção referidas no número anterior, promovendo o ICP a sua imediata inclusão no livro de consulta, a que se refere o artigo 8.º\n\n4 - Os operadores de serviços de telecomunicações de uso público estão obrigados, pelo presente Regulamento e para efeitos deste concurso, a prestar todos os esclarecimentos que o ICP lhes solicite, a fornecer no prazo que lhes for fixado, nomeadamente de modo a permitir o cumprimento do disposto no número anterior."
+  },
+  "524ee28983bd9f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º"
+  },
+  "220c4c3fcb9b33e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Livro de consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Livro de consulta\n\n1 - O ICP deve manter aberto um livro contendo todos as peças integrantes do processo do concurso, os pedidos de esclarecimento solicitados, bem como as respostas aos mesmos, para livre consulta, entre as 9 e as 16 horas, por qualquer concorrente.\n\n2 - Os concorrentes podem solicitar fotocópias, autenticadas pelo ICP, do livro de consulta.\n\n3 - O livro de consulta é encerrado e arquivado no ICP no dia da realização do acto público do concurso."
+  },
+  "e0ead5072dfa89bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Modo e prazo de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modo e prazo de apresentação de candidaturas\n\n1 - As candidaturas para obtenção da licença devem ser formalizadas mediante pedido escrito, dirigido ao membro do Governo responsável pela área das comunicações, em triplicado, do qual conste a identificação do concorrente, a referência ao aviso de abertura do concurso e a data e assinatura do concorrente.\n\n2 - O pedido deve ser redigido em língua portuguesa, sem rasuras, emendas, entrelinhas ou palavras riscadas, sempre com o mesmo tipo de letra.\n\n3 - Os pedidos de candidatura devem ser entregues na sede do ICP, contra recibo comprovativo da entrega, entre as 9 e as 16 horas.\n\n4 - O prazo para entrega dos pedidos termina 45 dias úteis após a data da publicação do aviso de abertura do concurso no Diário da República."
+  },
+  "37a573f26871feba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Atrasos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atrasos\n\nNa situação prevista no artigo 7.º, havendo utilização dos serviços de correio, o concorrente é o único responsável pelos atrasos que se verifiquem, não podendo apresentar qualquer reclamação no caso de a entrega do pedido de esclarecimento se verificar já depois de esgotado o prazo aplicável."
+  },
+  "855f4feed7c75192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instrução do pedido\n\n1 - Os concorrentes devem apresentar, com o respectivo pedido de candidatura e em triplicado, os seguintes documentos:\n\na) Declaração da entidade com poderes para vincular a sociedade, nessa qualidade reconhecida notarialmente, donde conste expressamente a aceitação das condições do concurso público e sujeição às obrigações decorrentes do acto da candidatura e das respectivas propostas, em caso de atribuição de licença;\n\nb) Documento comprovativo da prestação de caução provisória nos termos fixados no artigo 6.º;\n\nc) Fotocópia autenticada dos respectivos estatutos;\n\nd) Documento que retira a composição do capital social e demonstração de participação, directa ou indirecta, de capital estrangeiro;\n\ne) Documento comprovativo de regularização da situação contributiva perante a segurança social e perante as contribuições e impostos;\n\nf) Declaração de conformidade de contabilidade organizada nos termos do Plano Oficial de Contas;\n\ng) Documento que reflicta a estrutura organizativa da sociedade, com identificação dos principais responsáveis e resumo dos respectivos curricula;\n\nh) Proposta detalhada relativa à exploração do serviço, corporizada num plano técnico a desenvolver de acordo com a estrutura do caderno de encargos, donde conste, nomeadamente, a caracterização dos sistemas tecnológicos a constituir e respectiva concordância com as especificações do Global System for Mobile Communications (GSM) e do Digital Communications System (DCS 1800), o planeamento do desenvolvimento dos sistemas e consequente plano de cobertura, a gestão e operação dos sistemas e níveis de qualidade do serviço a oferecer;\n\ni) Plano económico-financeiro, elaborado de acordo com a estrutura do caderno de encargos, do qual constem as previsões de mercado, a estratégia de actuação, relevando a gama de serviços, sistema de preços e canais de comercialização, bem como os documentos económico-financeiros que traduzam a implementação do projecto e a operação do serviço, evidenciando as fontes de financiamento;\n\nj) Quaisquer outros elementos que o concorrente considere relevantes para a apreciação da sua candidatura.\n\n2 - Para efeitos da alínea d) do número anterior, os concorrentes devem indicar, especificadamente, quem são, e em que montante, os titulares, pessoas individuais ou colectivas, do capital social da sociedade constituída ou a constituir, bem como, caso algum ou alguns dos sócios sejam pessoa colectiva, proceder, quanto a estes, à mesma indicação especificada.\n\n3 - As entidades referidas no n.º 2 do artigo 4.º estão dispensadas da entrega dos documentos previstos nas alíneas a), e) e f) do n.º 1 e devem apresentar:\n\na) Protocolo vinculativo dos constituintes entre si donde conste expressa declaração de aceitação das condições do concurso público e sujeição às obrigações decorrentes do acto de candidatura e das respectivas propostas, em caso de atribuição de licença;\n\nb) Projecto de estatutos, a cujo teor os constituintes se vinculam;\n\nc) Cartão provisório de identificação.\n\n4 - As sociedades cujo acto de constituição se tenha verificado nos 90 dias anteriores à data da entrega do pedido de candidatura estão dispensadas da exigência referida na alínea f) do n.º 1.\n\n5 - Os documentos apresentados pelos concorrentes com sede social fora do território nacional devem ser emitidos e autenticados pelas autoridades competentes do país de origem ou, não existindo documento idêntico ao requerido, pode o mesmo ser substituído por declaração, sob compromisso de honra, feita pelo concorrente perante uma autoridade judiciária ou administrativa, notário ou outra autoridade competente do país de origem.\n\n6 - Todos os documentos que instruem o pedido de candidatura devem ser redigidos em língua portuguesa ou, no caso de não o serem, devem ser acompanhados da tradução devidamente legalizada e em relação à qual o concorrente declara aceitar a prevalência, para todos os efeitos, sobre os respectivos originais.\n\n7 - Todos os documentos apresentados pelos concorrentes e que instruam o pedido de candidatura não são devolvidos, ficando na posse do ICP."
+  },
+  "62e69ddecbbf7d35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Distribuição das peças do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Distribuição das peças do concurso\n\n1 - O pedido de candidatura deve ser apresentado em envelope fechado, autónomo e identificado.\n\n2 - Os documentos que instruem o pedido de candidatura devem ser apresentados em três volumes fechados, identificados e separados de acordo com a estrutura exigida no caderno de encargos, distinguindo-se o da identificação do candidato, o do plano técnico e o do plano económico-financeiro, contendo cada um os documentos em triplicado."
+  },
+  "e735d9351d41a1c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Acto público do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acto público do concurso\n\n1 - O acto público do concurso para abertura dos pedidos de candidatura tem lugar no ICP, às 10 horas do 5.º dia útil posterior à data referida no n.º 4 do artigo 9.º, conforme constar de aviso a publicar pelo ICP na imprensa.\n\n2 - Só podem intervir no acto público do concurso os representantes dos concorrentes, até ao máximo de três elementos por concorrente, desde que devidamente credenciados para os representarem no acto.\n\n3 - O acto público do concurso é realizado por uma comissão constituída por três membros, adiante designada por comissão, nomeada por despacho do membro do Governo responsável pela área das comunicações, à qual compete:\n\na) Confirmar a recepção do envelope contendo o pedido de candidatura, bem como dos volumes que contêm os documentos e os elementos que o instruem;\n\nb) Proceder à abertura do envelope que contém o pedido de candidatura, bem como dos volumes que contêm os documentos e elementos correspondentes à identificação do concorrente, plano técnico e plano económico-financeiro;\n\nc) Rubricar os originais dos documentos referidos na alínea anterior, promovendo, em simultâneo, a chancela e carimbo dos restantes documentos, e fixar um prazo para consulta dos mesmos pelos concorrentes;\n\nd) Verificar a qualidade dos intervenientes no acto, sempre que necessário;\n\ne) Aceitar e decidir sobre as reclamações que lhe sejam apresentadas no decurso do acto público pelos representantes dos concorrentes, suspendendo o mesmo acto sempre que necessário.\n\n4 - Das decisões referidas na alínea e) do número anterior cabe recurso, com efeito meramente devolutivo, para o membro do Governo responsável pela área das comunicações."
+  },
+  "39e36956823e89dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Rejeição de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rejeição de candidaturas\n\nAs candidaturas são rejeitadas em qualquer fase do processo de concurso sempre que se verifique qualquer das seguintes situações:\n\na) Não cumprimento do disposto nos artigos 9.º, 11.º e 16.º;\n\nb) Não cumprimento dos requisitos e condições do concurso ou desconformidade, quanto à apresentação dos elementos que instruem o pedido de candidatura, com a organização exigida no caderno de encargos."
+  },
+  "63f3d8340efa63ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Apreciação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apreciação de candidaturas\n\n1 - Compete à comissão apreciar as candidaturas.\n\n2 - A apreciação das candidaturas tem por base, prioritária e sucessivamente, os seguintes critérios de selecção:\n\na) Ausência ou menor presença, no capital social do concorrente, de participações, directas ou indirectas, da concessionária do serviço público de telecomunicações, entendida esta nos termos da alínea b) do artigo 1.º das bases da concessão do serviço público de telecomunicações, aprovadas pelo [Decreto-Lei n.º 40/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1995-202419), de 15 de Fevereiro, bem como dos operadores já licenciados para a prestação do SMT e, em qualquer dos casos, dos respectivos accionistas privados que, individual ou conjuntamente, detenham participações iguais ou superiores a 3% no capital social das referidas sociedades;\n\nb) Melhores condições oferecidas, nomeadamente gama e qualidade dos serviços e plano de cobertura;\n\nc) Melhor qualidade do plano técnico;\n\nd) Melhores factores de inovação e de desenvolvimento;\n\ne) Melhores qualificações técnicas;\n\nf) Melhor qualidade do plano económico-financeiro.\n\n3 - O ICP procede à análise técnica das candidaturas, bem como às demais actividades que lhe sejam solicitadas pela comissão.\n\n4 - A sociedade a que for atribuída a licença não pode alterar a composição e titularidade do seu capital social durante o prazo de 12 anos, salvo autorização do membro do Governo responsável pela área das comunicações, precedida de parecer do ICP.\n\n5 - A alteração da composição e da titularidade do capital social referida no número anterior consubstancia uma alteração à licença e implica o correspondente averbamento no respectivo título, mediante pagamento da taxa aplicável, a qual constitui receita do Estado."
+  },
+  "e8072e1887d9601e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prestação de esclarecimentos pelos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prestação de esclarecimentos pelos concorrentes\n\n1 - Os concorrentes, através de delegados qualificados para o efeito, obrigam-se a prestar, perante a comissão, todos os esclarecimentos que lhes forem solicitados para completa apreciação das mesmas.\n\n2 - O não cumprimento do disposto no número anterior determina a exclusão do concurso, salvo casos devidamente justificados e aceites pela comissão."
+  },
+  "37bfc52287b62253": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisão final\n\n1 - A comissão deve elaborar lista classificativa dos concorrentes, devidamente fundamentada, bem como propor, no prazo de 35 dias úteis a contar da data do acto público do concurso, a atribuição da licença ao concorrente que, satisfazendo as condições do concurso e os critérios de selecção, tenha obtido a melhor classificação, podendo o prazo indicado ser excepcionalmente prorrogado, sob proposta da comissão, por despacho do membro do Governo responsável pela área das comunicações.\n\n2 - Compete ao membro do Governo responsável pela área das comunicações a homologação da proposta de atribuição da licença, a qual lhe deve ser submetida pelo presidente da comissão.\n\n3 - A decisão sobre a atribuição da licença é comunicada pelo ICP a todos os concorrentes, por carta registada com aviso de recepção.\n\n4 - Quando a decisão sobre a atribuição da licença recaia sobre sociedade a constituir, deve a mesma, para os efeitos do disposto na parte final do n.º 2 do artigo 4.º, constituir-se definitivamente no prazo de 30 dias úteis a contar da recepção da comunicação referida no número anterior.\n\n5 - É reservado o direito de não homologação caso se verifique que a proposta não satisfaz as exigências de uso público inerentes ao serviço posto a concurso."
+  },
+  "8845f7c0d7ea1999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Caução definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Caução definitiva\n\n1 - A entidade a quem for atribuída a licença fica obrigada, no prazo de 10 dias úteis a contar da recepção da comunicação referida no n.º 3 do artigo anterior ou, tratando-se de sociedade a constituir, do cumprimento do disposto no n.º 4 do mesmo artigo, a proceder ao reforço da caução para o valor de 350000000$00.\n\n2 - A caução referida no número anterior vigora por um período de cinco anos, sendo anual e progressivamente libertada até um limite de um quinto do seu valor, na medida em que se verificar o cumprimento anual do plano de cobertura constante da licença."
+  },
+  "483ed5a69d91f871": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Emissão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Emissão da licença\n\n1 - A licença será emitida pelo ICP após o cumprimento do disposto no artigo anterior, nos termos e com as menções definidos pelo [Decreto-Lei n.º 346/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1990-566193), de 3 de Novembro.\n\n2 - Sempre que, sem motivo justificado, o concorrente a quem for atribuída a licença não cumpra o disposto no n.º 1 do artigo anterior, por proposta do ICP, o membro do Governo responsável pela área das comunicações devolve à comissão a lista classificativa, determinando que lhe seja submetida, no prazo de 15 dias úteis, nova proposta de atribuição da licença, nos termos do n.º 1 do artigo 17.º\n\n3 - A homologação da nova proposta determina a revogação do anterior acto de atribuição da licença."
+  },
+  "dde47c6e2d40e04e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Obrigações do licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigações do licenciado\n\n1 - As obrigações emergentes dos termos do concurso e da proposta vencedora, bem como as condições de preferência determinantes da atribuição da licença, constituem, para todos os efeitos, parte integrante da licença.\n\n2 - A atribuição da licença não confere ao operador licenciado quaisquer outros direitos que não sejam os que resultam dos exactos termos constantes do título de licenciamento, não sendo invocáveis quaisquer factos decorrentes da atribuição, por qualquer forma, de novos serviços ou licenças ou modificação superveniente de circunstâncias.\n\n3 - O interfuncionamento do serviço fixo de telefone com o SMT rege-se pela legislação em vigor, sendo aplicável, no máximo até 16 de Março de 2007, o regime constante do despacho SEH de 27 de Fevereiro de 1991, publicado na 2.ª série do Diário da República, de 23 de Março de 1991."
+  },
+  "c1300ba0984e9d94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Prazo de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prazo de licença\n\nA licença terá um prazo de duração de 15 anos"
+  },
+  "cf8ba3d13bd924c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Contagem de prazos\n\nÀ contagem dos prazos previstos no presente Regulamento aplica-se as regras do artigo 72.º Do Código do Procedimento Administrativo."
+  },
+  "fed254ac930d7b21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Apreciação de candidaturas",
+   "in_force_from": "2000-09-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 800/2000](https://diariodarepublica.pt/dr/detalhe/portaria/800-2000-570552), publicado em 2000-09-21."
+   ],
+   "markdown": "###### Artigo 15.º — Apreciação de candidaturas\n\n1 - Compete à comissão apreciar as candidaturas.\n\n2 - A apreciação das candidaturas tem por base, prioritária e sucessivamente, os seguintes critérios de selecção:\n\na) Ausência ou menor presença, no capital social do concorrente, de participações, directas ou indirectas, da concessionária do serviço público de telecomunicações, entendida esta nos termos da alínea b) do artigo 1.º das bases da concessão do serviço público de telecomunicações, aprovadas pelo [Decreto-Lei n.º 40/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1995-202419), de 15 de Fevereiro, bem como dos operadores já licenciados para a prestação do SMT e, em qualquer dos casos, dos respectivos accionistas privados que, individual ou conjuntamente, detenham participações iguais ou superiores a 3% no capital social das referidas sociedades;\n\nb) Melhores condições oferecidas, nomeadamente gama e qualidade dos serviços e plano de cobertura;\n\nc) Melhor qualidade do plano técnico;\n\nd) Melhores factores de inovação e de desenvolvimento;\n\ne) Melhores qualificações técnicas;\n\nf) Melhor qualidade do plano económico-financeiro.\n\n3 - O ICP procede à análise técnica das candidaturas, bem como às demais actividades que lhe sejam solicitadas pela comissão.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 800/2000](https://diariodarepublica.pt/dr/detalhe/portaria/800-2000-570552), publicado em 2000-09-21."
+  }
+ }
+}

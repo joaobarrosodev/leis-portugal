@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-01'
+version_history:
+  file: decreto-lei-23-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-01'
+    amending: pt:dre:516030:por
+    amending_title: Decreto-Lei n.º 114/98; Decreto-Lei n.º 323/2001
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/23/1998/02/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:59:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 114/98; Decreto-Lei
+    n.º 323/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-23-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,9 +173,9 @@ No uso da autorização legislativa concedida pelo artigo 54.º da [Lei n.º 52-
 
 ###### Artigo único
 
-O artigo 71.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, passa a ter a seguinte redacção:
+O artigo 71.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passa a ter a seguinte redacção:
 
-«Artigo 71.º
+'Artigo 71.º
 
 1 - ...
 
@@ -176,17 +191,27 @@ O artigo 71.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [
 
 7 - ...
 
-8 - ...
+8 - Os sujeitos passivos poderão deduzir ainda o imposto respeitante a créditos considerados incobráveis em processo de execução, processo ou medida especial de recuperação de empresas ou a créditos de falidos ou insolventes, quando for decretada a falência ou insolvência.
 
-9 - Os sujeitos passivos poderão ainda deduzir o imposto respeitante a créditos de valor igual ou inferior a 70000$00, com IVA incluído, por cliente particular ou sujeito passivo que realize exclusivamente operações isentas que não dêem direito a dedução, logo que a mora do pagamento se prolongue para além de 12 meses, sendo emitida a certificação a que se refere o número seguinte.
+9 - Os sujeitos passivos poderão igualmente deduzir o imposto respeitante a outros créditos desde que se verifique qualquer das seguintes condições:
 
-10 - O valor global dos créditos referidos no número anterior, o valor global do imposto a deduzir, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências deverão obrigatoriamente constar de relatório especialmente elaborado por um revisor oficial de contas.
+a) O valor do crédito não seja superior a (euro) 349,16, IVA incluído, a mora do pagamento se prolongue para além de seis meses e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução;
 
-11 - O relatório referido no número anterior será entregue, juntamente com a fotocópia da declaração e no mesmo período em que foi feita a regularização, na direcção distrital de finanças da área da sua residência ou sede, direcção efectiva ou estabelecimento estável, ou nas unidades orgânicas dos serviços centrais da Direcção-Geral dos Impostos, consoante as competências atribuídas a cada um destes serviços em matéria de fiscalização tributária.
+b) Os créditos sejam superiores a (euro) 349,16 e inferiores a (euro) 4987,98, IVA incluído, tenha havido aposição de fórmula executória em processo de injunção ou reconhecimento em acção de condenação e o devedor seja particular ou sujeito passivo que realize exclusivamente operações isentas que não confiram direito a dedução;
 
-12 - No caso previsto na primeira parte do n.º 8, será comunicado ao adquirente do bem ou serviço que seja um sujeito passivo do imposto a anulação, total ou parcial, do imposto, para efeitos de rectificação da dedução inicialmente efectuada.
+c) Os créditos sejam inferiores a (euro) 4987,98, IVA incluído, deles sendo devedor sujeito passivo com direito à dedução e tenham sido reconhecidos em acção de condenação ou reclamados em processo de execução e o devedor tenha sido citado editalmente.
 
-13 - (Anterior n.º 10).»
+10 - O valor global dos créditos referidos no número anterior, o valor global do imposto a deduzir, a realização de diligências de cobrança por parte do credor e o insucesso, total ou parcial, de tais diligências deverão ser certificados por revisor oficial de contas.
+
+11 - A certificação referida no número anterior será entregue juntamente com a fotocópia da declaração, e no mesmo período em que foi feita a regularização, na direcção distrital de finanças da área da sua residência ou sede, direcção efectiva ou estabelecimento estável.
+
+12 - No caso previsto na primeira parte do n.º 8 e na alínea c) do n.º 9 será comunicada ao adquirente do bem ou serviço que seja um sujeito passivo do imposto a anulação, total ou parcial, do imposto, para efeitos de rectificação da dedução inicialmente efectuada.
+
+13 - Nos casos em que se verificar a recuperação dos créditos, total ou parcialmente, os sujeitos passivos são obrigados a proceder à entrega do imposto, no período em que se verificar o seu recebimento, sem observância, neste caso, do prazo previsto no n.º 1 do artigo 88.º
+
+14 - (Anterior n.º 10.)'»
+
+> Alterado pelo/a [Decreto-Lei n.º 114/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1998-516030) e [Decreto-Lei n.º 323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), publicado em 2001-12-17.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 

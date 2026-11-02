@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-01-05'
+version_history:
+  file: decreto-governo-31-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-05'
+    amending: pt:dre:321683:por
+    amending_title: Decreto n.º 67/97
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:26:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 67/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-governo/1983/decreto-governo-31-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,7 +135,9 @@ Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º São classificados como de interesse público os seguintes imóveis:
+###### Artigo 1.º
+
+São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Bragança:
 
@@ -172,9 +189,13 @@ Ponte antiga de Santo Adrião sobre o rio Tedo.
 
 Concelho de Mangualde:
 
-Igreja matriz de Mangualde.
+Igreja de São Julião, matriz de Mangualde, incluindo o adro e a Via-Sacra (as 10 cruzes ainda existentes), 4 cruzes no adro da Igreja de São Julião, 4 cruzes a caminho da Misericórdia, dentro do prolongamento do adro e a nascente da referida Igreja, e as 2 últimas, uma na Misericórdia e outra na Avenida de Salazar, integrada na parede norte da cerca do Palácio do Conde de Anadia, Mangualde, freguesia de Mangualde, município de Mangualde, distrito de Viseu.
 
-Art. 2.º São classificados como valores concelhios os seguintes imóveis:
+> Alterado pelo/a [Decreto n.º 67/97](https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683), publicado em 1997-12-31.
+
+###### Artigo 2.º
+
+São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Beja:
 

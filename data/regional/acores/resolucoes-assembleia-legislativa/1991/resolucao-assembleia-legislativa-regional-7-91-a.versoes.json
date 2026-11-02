@@ -1,0 +1,2838 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:402745:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3289b565d13bd2c5",
+    "ca389aff0743967e",
+    "df5b6d6152e7b4e2",
+    "e4da19919ca383d4",
+    "a8a8566c1f12ce6f",
+    "bfa13af92d419d71",
+    "1bfb4b46c2c3e4e5",
+    "f38391e1c45f3b77",
+    "6c4816b7987884e6",
+    "193dd166aa5d7491",
+    "795d18046fb07f50",
+    "5dbdd121641f2cff",
+    "d4beab20871d3058",
+    "34daa093bad4c7d5",
+    "26f6f54d34a019ed",
+    "a8ad18c4a2a48473",
+    "2db78fa2dbb6237d",
+    "8a80ef6c907f7cb2",
+    "e57481afb541699b",
+    "e246a85701d8d6d3",
+    "18cd758491278566",
+    "561412758de65596",
+    "db6a06e82fcdf08d",
+    "1e596deda8094feb",
+    "cdceb1e4ae0351d4",
+    "56220bba2d63e0c2",
+    "587577fc345893c1",
+    "de1b9be2f7b0190b",
+    "6e6fbb0109edf6e4",
+    "618f74e0294e17ad",
+    "2f6007eafc7707fd",
+    "ac89c3c8b906bc92",
+    "be62f34838f051ba",
+    "91fc5cce1aae8bb7",
+    "3634b0c1ccfc4d6d",
+    "b4218a55ee26723d",
+    "e36ea8f029bcea29",
+    "10daa3f878973608",
+    "9be1537ed2d1f39f",
+    "0789122f60761e33",
+    "f7d7d61ba77b8890",
+    "0bd81cc001701204",
+    "7f2312c4d5b09262",
+    "20da85b342be0abd",
+    "9fefd5f5b6418787",
+    "32e8c12cbc80bab2",
+    "2fbf22e92f11008b",
+    "b015a367148ed511",
+    "78b2776f8e048dec",
+    "4f40a07acb7efbb7",
+    "ef0622c2109d5b09",
+    "76f5ca9d52f5cb84",
+    "8cfb833efc7b3b19",
+    "a5ca88ad435eae72",
+    "7dea2d2ddd2017a5",
+    "9db0f3c508d8180b",
+    "0832538aeff99586",
+    "73ce5aa2efebcbed",
+    "8b56cec61db12d2b",
+    "72bca167924ec645",
+    "df59ea207e9dcdd2",
+    "d0f451503fb1b45a",
+    "a32bb75e78e79bf3",
+    "5cf2c4c392cd6b33",
+    "887a032ffb9fad1f",
+    "e9fe672ddde1d8b6",
+    "ab5c5be47c1038d8",
+    "d8b920c85629f88b",
+    "ad491b8c9a2eed55",
+    "202dbe2e023e956e",
+    "73992cabe20ab84a",
+    "fc325d6839cd08f0",
+    "ed37637e4f5da1a4",
+    "135ed8e8b0636add",
+    "7dc85778c0613791",
+    "91af89be3fcf09ca",
+    "1634cbd2ba6f900d",
+    "9039dbc413a7f3be",
+    "8818b1b61b988fdc",
+    "7512bfa162b1e1ca",
+    "305209f9aca78c51",
+    "373ea2acefac754c",
+    "06394b7b640df873",
+    "46cdc3f003ca16c2",
+    "53413d2a094fa91f",
+    "9d52bf650bde6689",
+    "2fe2e96b2bb20c9c",
+    "4e3340e1fc92f6b0",
+    "5eb96dd068ee4a13",
+    "89ac9cc90f13184e",
+    "23836370ae405d04",
+    "f48fe95c9ef4b735",
+    "5df6d2418fac52e8",
+    "3b25dfa50ec8d432",
+    "04dc4b42f228dabd",
+    "1df1d282192e4023",
+    "91f4bf7ab2fc7e90",
+    "5def1873cbd009fe",
+    "d7ed8e2ad3ccaa45",
+    "c2c7b72bffa8f191",
+    "4785a0691ab0e835",
+    "b90670e36cce1f9e",
+    "de4cca4ba769c0ee",
+    "ad0cde722c5dc00a",
+    "d2e62bef05ff25e0",
+    "32e8b44d59cd25d6",
+    "7f202f73562c52a2",
+    "5658bae616f07ff8",
+    "8addcc117ff6c660",
+    "02fbd1b5d373d6fe",
+    "b713d368cde8c68a",
+    "c7660605831673e4",
+    "173014da463b2ace",
+    "152e815a6d947cd7",
+    "e29f4eab0e7e8233",
+    "c679beea8338b817",
+    "fed4323070f48ce1",
+    "d656cd39584bf5c8",
+    "dc6763641da2aa86",
+    "05d6ca5dd6ce2d23",
+    "a85d4a5ce3d26b2f",
+    "4a8f8be6c275b6e1",
+    "8c32f80347296679",
+    "ea6531dd1e99dbf3",
+    "ed5a101445b23f42",
+    "35edf3793e9a3418",
+    "db2a672805b40baa",
+    "e0fe027b69285ca0",
+    "84191e94b10a5c78",
+    "055ea190670739ec",
+    "6eb756a2bea5e647",
+    "1958f0506d8598a1",
+    "959a04c5a0d8f84b",
+    "328f24b5fbba1397",
+    "9a675fb413200e72",
+    "15d876937d7976d7",
+    "9d2c40ae0e9ae05d",
+    "8de8bef2dc20a6e4",
+    "fe03768c29892806",
+    "b5e14a980ef5eb40",
+    "a3bb6b36858bb0f2",
+    "edeeffb8ce9ef778",
+    "e6785b5147664a8b",
+    "cf91e96030859599",
+    "18a12b3c5d5cedc8",
+    "3264d67f91e16986",
+    "d5ae25dc3fd1ed27",
+    "12b46ba2b72a7970",
+    "5a70e1dea7e4af75",
+    "505834bae90456f6",
+    "249b2455d4c3f857",
+    "d1c72d103d6c2535",
+    "90fda3deca7fa4e7",
+    "307df3712d81d98e",
+    "f7ab64cff87f5187",
+    "bbe7ecf9dd70c338",
+    "ea05f7d3b116ba15",
+    "efc5c45e6359d37a",
+    "68e5bba6f6cb1e5f",
+    "5c474c72fe84782a",
+    "8bfb72f31192dea6",
+    "f8538198545b59e3",
+    "6e58e4bc5c2c7cb2",
+    "c6291d6805d9b6d5",
+    "6161fcd3323cbdfe",
+    "46ed76d34ef3a721",
+    "100aef227e613b70",
+    "5ab8f45e9b44112d",
+    "4c7d6a54b0e71631",
+    "888a525e3feaf65c",
+    "5ea7a3c891fb1725",
+    "bb38a977638ec177",
+    "b9d94cf9651dd6b1",
+    "182ca1968b482dc4",
+    "f6ca340e61a8b9c5",
+    "1de8a9330fdcb30b",
+    "dab05f20b15f5a8e",
+    "1e02886e3c59057c",
+    "4e83a1f254a9d3ea",
+    "2c1d14e0124264b0",
+    "37d0b3e1fde67654",
+    "ca5f62557c7e4f05",
+    "c0e2a8550cb9133e",
+    "8e273ae6b95073ee",
+    "0b4d05b9b5540198",
+    "8f23673ffdf4683c",
+    "e0482e21a77354ce",
+    "bd7842ad755c4597",
+    "13954d004db7fc0b",
+    "2e2099d2b9016961",
+    "14b727f7707cd2ab",
+    "c87f90e898f86a4f",
+    "1f2626cbd78fb448",
+    "387c617e7c55ffcc",
+    "3280bac882d2eb40",
+    "a0c90afa43ff4870",
+    "04250c133b15d24e",
+    "cd6f3bded4450398",
+    "cc58e2e117a673fe",
+    "2ef31c7b1a11bb7f",
+    "cb1c05f4174bff56",
+    "09645149bd36528f",
+    "c69848a3d7e10108",
+    "6526c08c8e2851b6",
+    "d7913ddbc1a3af56",
+    "b4ccb8e1bacef3ee",
+    "4682769f4a170f14",
+    "8848cdea6affb3f5",
+    "651113539e23c653",
+    "f5d2973a9254cd19",
+    "980de0d05eddd0cd",
+    "69cd6553ffe429ee",
+    "7761fc976623d2d4",
+    "d5b952a056a10381",
+    "afc01aafc0d5315a",
+    "8156f150b15b8839",
+    "93b3735b36f9ad38",
+    "912f303fe50e4c6e",
+    "90d65f46eb50e70a",
+    "5e40debb76a15a1d",
+    "3b197f3bb3fd0986",
+    "67aec04401b93751",
+    "23494bc7495cf984",
+    "29ec8e046557d945",
+    "94116ec7bb4b2b5f",
+    "3f5392bc7882135e",
+    "5d72fbb712f6a3f6",
+    "b80e409a955f5ae1",
+    "d1af161c61d7c5a5",
+    "c8f365a6ae94df2b",
+    "52c87dd78e67ef4a",
+    "d37948b4f9e94ee0",
+    "99996342f67b77b6",
+    "4c9c4b15c49e05e8",
+    "6fb208161fadcf3f",
+    "0aff0b298492351a",
+    "729618b20e29112a",
+    "80129dea48c89a95",
+    "f327b03dcb3fc1b1",
+    "bc0fa331a5afe68b",
+    "6ac5345fb9429767",
+    "8156dc0c075fd9af",
+    "850a5700152659bf",
+    "13b823613b98c5a1",
+    "2b4b2c3c78c2d02d",
+    "fa382adfba249f2d",
+    "d40cb3bcc24e8758",
+    "c9727df5aaaa077c",
+    "e4d4a509f08e7a1c",
+    "7fc98486f2ce1191",
+    "24b1e91f1cab780a",
+    "4c0c5269def8287f",
+    "e20566a2d2532cfc",
+    "3b7238d5af655b5b",
+    "0e809234fbf33615",
+    "bc78d26ca481776a",
+    "a98b3445cb5cecf2",
+    "ec9fb895b99ef165",
+    "a0d290430dc508ed",
+    "f63506a57265c47e",
+    "dab07c9409cea530",
+    "4140f37ee275c078",
+    "855239ae398762e0",
+    "aad1a1914103ddee",
+    "eaa62f80a6e6cda6",
+    "855c349f0a5bd4b8",
+    "b15e7ce68b1a0354",
+    "7bcda3f95b709f17",
+    "17abf985748dea76",
+    "e0484ebc0c52f12d",
+    "aca2c7cb445b595d",
+    "72de6a6677b0aaa7",
+    "775166c80440af86",
+    "a1893133e4acabb2",
+    "cd24b71e94a8a5bd",
+    "4acfa8342bf4685e",
+    "6c730fd70a939751"
+   ]
+  },
+  {
+   "date": "1991-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:682196:por",
+     "title": "Declaração de Rectificação n.º 218/91",
+     "published": "1991-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/218-1991-682196"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 27.º",
+    "Retifica Artigo 111.º",
+    "Altera Artigo 93.º"
+   ],
+   "fragments": [
+    "3289b565d13bd2c5",
+    "ca389aff0743967e",
+    "df5b6d6152e7b4e2",
+    "e4da19919ca383d4",
+    "a8a8566c1f12ce6f",
+    "bfa13af92d419d71",
+    "1bfb4b46c2c3e4e5",
+    "f38391e1c45f3b77",
+    "6c4816b7987884e6",
+    "193dd166aa5d7491",
+    "795d18046fb07f50",
+    "5dbdd121641f2cff",
+    "d4beab20871d3058",
+    "34daa093bad4c7d5",
+    "26f6f54d34a019ed",
+    "a8ad18c4a2a48473",
+    "2db78fa2dbb6237d",
+    "8a80ef6c907f7cb2",
+    "e57481afb541699b",
+    "e246a85701d8d6d3",
+    "18cd758491278566",
+    "561412758de65596",
+    "db6a06e82fcdf08d",
+    "1e596deda8094feb",
+    "cdceb1e4ae0351d4",
+    "56220bba2d63e0c2",
+    "587577fc345893c1",
+    "de1b9be2f7b0190b",
+    "6e6fbb0109edf6e4",
+    "618f74e0294e17ad",
+    "2f6007eafc7707fd",
+    "ea9ba0935190f7f4",
+    "be62f34838f051ba",
+    "91fc5cce1aae8bb7",
+    "3634b0c1ccfc4d6d",
+    "b4218a55ee26723d",
+    "e36ea8f029bcea29",
+    "10daa3f878973608",
+    "9be1537ed2d1f39f",
+    "0789122f60761e33",
+    "f7d7d61ba77b8890",
+    "0bd81cc001701204",
+    "7f2312c4d5b09262",
+    "20da85b342be0abd",
+    "9fefd5f5b6418787",
+    "32e8c12cbc80bab2",
+    "2fbf22e92f11008b",
+    "b015a367148ed511",
+    "78b2776f8e048dec",
+    "4f40a07acb7efbb7",
+    "ef0622c2109d5b09",
+    "76f5ca9d52f5cb84",
+    "8cfb833efc7b3b19",
+    "a5ca88ad435eae72",
+    "7dea2d2ddd2017a5",
+    "9db0f3c508d8180b",
+    "0832538aeff99586",
+    "73ce5aa2efebcbed",
+    "8b56cec61db12d2b",
+    "72bca167924ec645",
+    "df59ea207e9dcdd2",
+    "d0f451503fb1b45a",
+    "a32bb75e78e79bf3",
+    "5cf2c4c392cd6b33",
+    "887a032ffb9fad1f",
+    "e9fe672ddde1d8b6",
+    "ab5c5be47c1038d8",
+    "d8b920c85629f88b",
+    "ad491b8c9a2eed55",
+    "202dbe2e023e956e",
+    "73992cabe20ab84a",
+    "fc325d6839cd08f0",
+    "ed37637e4f5da1a4",
+    "135ed8e8b0636add",
+    "7dc85778c0613791",
+    "91af89be3fcf09ca",
+    "1634cbd2ba6f900d",
+    "9039dbc413a7f3be",
+    "8818b1b61b988fdc",
+    "7512bfa162b1e1ca",
+    "305209f9aca78c51",
+    "373ea2acefac754c",
+    "06394b7b640df873",
+    "46cdc3f003ca16c2",
+    "53413d2a094fa91f",
+    "9d52bf650bde6689",
+    "2fe2e96b2bb20c9c",
+    "4e3340e1fc92f6b0",
+    "5eb96dd068ee4a13",
+    "89ac9cc90f13184e",
+    "23836370ae405d04",
+    "f48fe95c9ef4b735",
+    "5df6d2418fac52e8",
+    "3b25dfa50ec8d432",
+    "04dc4b42f228dabd",
+    "1df1d282192e4023",
+    "91f4bf7ab2fc7e90",
+    "5def1873cbd009fe",
+    "d7ed8e2ad3ccaa45",
+    "c2c7b72bffa8f191",
+    "4785a0691ab0e835",
+    "b90670e36cce1f9e",
+    "de4cca4ba769c0ee",
+    "ad0cde722c5dc00a",
+    "d2e62bef05ff25e0",
+    "32e8b44d59cd25d6",
+    "7f202f73562c52a2",
+    "5658bae616f07ff8",
+    "8addcc117ff6c660",
+    "02fbd1b5d373d6fe",
+    "b713d368cde8c68a",
+    "c7660605831673e4",
+    "173014da463b2ace",
+    "152e815a6d947cd7",
+    "e29f4eab0e7e8233",
+    "c679beea8338b817",
+    "fed4323070f48ce1",
+    "2680fa1e9b8c62ac",
+    "dc6763641da2aa86",
+    "05d6ca5dd6ce2d23",
+    "a85d4a5ce3d26b2f",
+    "4a8f8be6c275b6e1",
+    "8c32f80347296679",
+    "ea6531dd1e99dbf3",
+    "ed5a101445b23f42",
+    "35edf3793e9a3418",
+    "db2a672805b40baa",
+    "e0fe027b69285ca0",
+    "84191e94b10a5c78",
+    "055ea190670739ec",
+    "6eb756a2bea5e647",
+    "1958f0506d8598a1",
+    "959a04c5a0d8f84b",
+    "328f24b5fbba1397",
+    "9a675fb413200e72",
+    "15d876937d7976d7",
+    "9d2c40ae0e9ae05d",
+    "52abeed386291372",
+    "fe03768c29892806",
+    "b5e14a980ef5eb40",
+    "a3bb6b36858bb0f2",
+    "edeeffb8ce9ef778",
+    "e6785b5147664a8b",
+    "cf91e96030859599",
+    "18a12b3c5d5cedc8",
+    "3264d67f91e16986",
+    "d5ae25dc3fd1ed27",
+    "12b46ba2b72a7970",
+    "5a70e1dea7e4af75",
+    "505834bae90456f6",
+    "249b2455d4c3f857",
+    "d1c72d103d6c2535",
+    "90fda3deca7fa4e7",
+    "307df3712d81d98e",
+    "f7ab64cff87f5187",
+    "bbe7ecf9dd70c338",
+    "ea05f7d3b116ba15",
+    "efc5c45e6359d37a",
+    "68e5bba6f6cb1e5f",
+    "5c474c72fe84782a",
+    "8bfb72f31192dea6",
+    "f8538198545b59e3",
+    "6e58e4bc5c2c7cb2",
+    "c6291d6805d9b6d5",
+    "6161fcd3323cbdfe",
+    "46ed76d34ef3a721",
+    "100aef227e613b70",
+    "5ab8f45e9b44112d",
+    "4c7d6a54b0e71631",
+    "888a525e3feaf65c",
+    "5ea7a3c891fb1725",
+    "bb38a977638ec177",
+    "b9d94cf9651dd6b1",
+    "182ca1968b482dc4",
+    "f6ca340e61a8b9c5",
+    "1de8a9330fdcb30b",
+    "dab05f20b15f5a8e",
+    "1e02886e3c59057c",
+    "4e83a1f254a9d3ea",
+    "2c1d14e0124264b0",
+    "37d0b3e1fde67654",
+    "ca5f62557c7e4f05",
+    "c0e2a8550cb9133e",
+    "8e273ae6b95073ee",
+    "0b4d05b9b5540198",
+    "8f23673ffdf4683c",
+    "e0482e21a77354ce",
+    "bd7842ad755c4597",
+    "13954d004db7fc0b",
+    "2e2099d2b9016961",
+    "14b727f7707cd2ab",
+    "c87f90e898f86a4f",
+    "1f2626cbd78fb448",
+    "387c617e7c55ffcc",
+    "3280bac882d2eb40",
+    "a0c90afa43ff4870",
+    "04250c133b15d24e",
+    "cd6f3bded4450398",
+    "cc58e2e117a673fe",
+    "2ef31c7b1a11bb7f",
+    "cb1c05f4174bff56",
+    "09645149bd36528f",
+    "c69848a3d7e10108",
+    "6526c08c8e2851b6",
+    "d7913ddbc1a3af56",
+    "b4ccb8e1bacef3ee",
+    "4682769f4a170f14",
+    "8848cdea6affb3f5",
+    "651113539e23c653",
+    "f5d2973a9254cd19",
+    "980de0d05eddd0cd",
+    "69cd6553ffe429ee",
+    "7761fc976623d2d4",
+    "d5b952a056a10381",
+    "afc01aafc0d5315a",
+    "8156f150b15b8839",
+    "93b3735b36f9ad38",
+    "912f303fe50e4c6e",
+    "90d65f46eb50e70a",
+    "5e40debb76a15a1d",
+    "3b197f3bb3fd0986",
+    "67aec04401b93751",
+    "23494bc7495cf984",
+    "29ec8e046557d945",
+    "94116ec7bb4b2b5f",
+    "3f5392bc7882135e",
+    "5d72fbb712f6a3f6",
+    "b80e409a955f5ae1",
+    "d1af161c61d7c5a5",
+    "c8f365a6ae94df2b",
+    "52c87dd78e67ef4a",
+    "d37948b4f9e94ee0",
+    "99996342f67b77b6",
+    "4c9c4b15c49e05e8",
+    "6fb208161fadcf3f",
+    "0aff0b298492351a",
+    "729618b20e29112a",
+    "80129dea48c89a95",
+    "f327b03dcb3fc1b1",
+    "bc0fa331a5afe68b",
+    "6ac5345fb9429767",
+    "8156dc0c075fd9af",
+    "850a5700152659bf",
+    "13b823613b98c5a1",
+    "2b4b2c3c78c2d02d",
+    "fa382adfba249f2d",
+    "d40cb3bcc24e8758",
+    "c9727df5aaaa077c",
+    "e4d4a509f08e7a1c",
+    "7fc98486f2ce1191",
+    "24b1e91f1cab780a",
+    "4c0c5269def8287f",
+    "e20566a2d2532cfc",
+    "3b7238d5af655b5b",
+    "0e809234fbf33615",
+    "bc78d26ca481776a",
+    "a98b3445cb5cecf2",
+    "ec9fb895b99ef165",
+    "a0d290430dc508ed",
+    "f63506a57265c47e",
+    "dab07c9409cea530",
+    "4140f37ee275c078",
+    "855239ae398762e0",
+    "aad1a1914103ddee",
+    "eaa62f80a6e6cda6",
+    "855c349f0a5bd4b8",
+    "b15e7ce68b1a0354",
+    "7bcda3f95b709f17",
+    "17abf985748dea76",
+    "e0484ebc0c52f12d",
+    "aca2c7cb445b595d",
+    "72de6a6677b0aaa7",
+    "775166c80440af86",
+    "a1893133e4acabb2",
+    "cd24b71e94a8a5bd",
+    "4acfa8342bf4685e",
+    "6c730fd70a939751"
+   ]
+  }
+ ],
+ "fragments": {
+  "3289b565d13bd2c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o Regimento da Assembleia Legislativa Regional deve ser um instrumento vivo, actualizado e eficaz ao serviço da dignidade do órgão máximo de governo próprio da Região Autónoma dos Açores;\n\nConsiderando que a experiência parlamentar vivida à sombra do actual Regimento vem aconselhando alterações ao seu articulado, que possibilitem a melhoria da participação das várias forças políticas nos debates parlamentares;\n\nConsiderando que a Assembleia Legislativa Regional deve assumir, sem equívocos nem tergiversações, a dignidade político-constitucional que lhe é cometida pelo Estatuto Político-Administrativo da Região Autónoma dos Açores;\n\nConsiderando a necessidade de reforçar a componente fiscalizadora da acção governativa que, constituindo uma das mais importantes competências deste órgão, obriga a que se faça o esforço de aperfeiçoamento da condição do seu exercício:\n\nA Assembleia Legislativa Regional resolve, nos termos do n.º 2 do artigo 234.º da Constituição e da alínea x) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, aprovar o seguinte Regimento:"
+  },
+  "ca389aff0743967e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO PRELIMINAR — Sessão constitutiva da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO PRELIMINAR — Sessão constitutiva da Assembleia"
+  },
+  "df5b6d6152e7b4e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Hora e local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Hora e local\n\nOs deputados eleitos reúnem, por direito próprio, no 15.º dia após o apuramento dos resultados eleitorais, pelas 15 horas, na cidade da Horta, na sede da Assembleia Legislativa Regional."
+  },
+  "e4da19919ca383d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Mesa provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mesa provisória\n\nAssume a direcção dos trabalhos uma Mesa provisória, formada por um presidente e um secretário, designados ambos pelos deputados do partido mais votado nas eleições, e um outro secretário, designado pelo partido que àquele se seguiu no número de votos."
+  },
+  "a8a8566c1f12ce6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Chamada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Chamada\n\n1 - Após a Mesa ocupar o seu lugar, o presidente manda fazer a chamada, a fim de se verificar a presença dos deputados eleitos.\n\n2 - A chamada é feita pela lista dos deputados eleitos, contida na acta de apuramento geral, elaborada nos termos da Lei Eleitoral, ordenada por círculos eleitorais, tendo em conta os substitutos oportunamente indicados pelos diversos partidos representados na Assembleia, de acordo com as listas definitivamente admitidas, conforme o disposto no Estatuto Político-Administrativo.\n\n3 - Um dos secretários da Mesa provisória faz a chamada. Verificando-se faltas, far-se-á a segunda chamada apenas dos nomes dos deputados que não responderam à primeira."
+  },
+  "bfa13af92d419d71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Abertura da sessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Abertura da sessão\n\nConcluída a chamada, o presidente anuncia o número de deputados eleitos presentes e declara aberta a sessão, dando instruções no sentido de ser franqueada entrada ao público no local a ele reservado."
+  },
+  "1bfb4b46c2c3e4e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ordem do dia\n\nO presidente indica seguidamente a ordem do dia da sessão preliminar, que é a seguinte:\n\na) Verificação dos poderes dos deputados eleitos, sua proclamação e constituição da Assembleia Legislativa Regional dos Açores;\n\nb) Eleição do Presidente e da Mesa."
+  },
+  "f38391e1c45f3b77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Uso da palavra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Uso da palavra\n\nO presidente dá então a palavra a quem a pedir para o efeito de apresentação de propostas sobre a verificação de poderes, as quais indicam, para além da constituição da comissão, o prazo em que esta realizará o seu trabalho."
+  },
+  "6c4816b7987884e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Discussão e votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Discussão e votação\n\nO presidente põe à discussão e depois à votação as propostas apresentadas nos termos do artigo anterior."
+  },
+  "193dd166aa5d7491": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Indicação de deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Indicação de deputados\n\nAprovada a proposta, o presidente solicita aos diversos partidos representados na Assembleia que enviem para a Mesa o nome dos deputados que constituirão a Comissão de Verificação de Poderes."
+  },
+  "795d18046fb07f50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Composição da Comissão de Verificação de Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição da Comissão de Verificação de Poderes\n\nRecebidos na Mesa os nomes indicados nos termos do artigo anterior, o presidente anuncia a composição da Comissão de Verificação de Poderes, após o que solicita à mesma que reúna imediatamente para escolher entre si o presidente e o relator e realizar o trabalho que lhe foi incumbido."
+  },
+  "5dbdd121641f2cff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Suspensão da sessão preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão da sessão preliminar\n\nO presidente marca então a hora para continuação dos trabalhos do Plenário e suspende a sessão preliminar."
+  },
+  "d4beab20871d3058": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Continuação da sessão preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Continuação da sessão preliminar\n\nNa hora marcada para continuação da sessão preliminar, reassume a direcção dos trabalhos a Mesa a que se refere o artigo 2.º"
+  },
+  "34daa093bad4c7d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Relato da verificação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relato da verificação de poderes\n\n1 - O presidente dá a palavra ao presidente da Comissão de Verificação de Poderes para este informar sobre a conclusão dos trabalhos a ela confiados.\n\n2 - Seguidamente, o presidente dá a palavra ao relator da Comissão para efeito de ser lido o relatório."
+  },
+  "26f6f54d34a019ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contestação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contestação do mandato\n\n1 - No caso de a Comissão de Verificação de Poderes contestar o mandato de algum deputado eleito, o presidente dá conhecimento do facto ao Plenário e o interessado tem direito de se defender perante ele.\n\n2 - A questão é resolvida pela Assembleia, por escrutínio secreto."
+  },
+  "a8ad18c4a2a48473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Discussão e votação do relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Discussão e votação do relatório\n\n1 - O presidente põe o relatório à discussão e votação do Plenário.\n\n2 - Aprovado o relatório, o presidente solicita a um dos secretários a leitura, pela ordem fixada no artigo 3.º, n.º 2, dos nomes dos deputados eleitos cujos poderes foram verificados."
+  },
+  "2db78fa2dbb6237d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Constituição da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Constituição da Assembleia\n\nFeita a leitura perante o presidente, este, de pé, proclama os deputados e declara constituída a Assembleia Legislativa Regional dos Açores."
+  },
+  "8a80ef6c907f7cb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Intervalo da sessão preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Intervalo da sessão preliminar\n\nO presidente anuncia a passagem ao segundo ponto da ordem do dia da sessão preliminar, interrompendo imediatamente a sessão a fim de serem apresentadas e distribuídas as listas."
+  },
+  "e57481afb541699b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reabertura da sessão preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reabertura da sessão preliminar\n\nDeclarada reaberta a sessão, é lida na Mesa a lista ou listas apresentadas à eleição."
+  },
+  "e246a85701d8d6d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Eleição do Presidente e da Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Eleição do Presidente e da Mesa\n\n1 - Procede-se seguidamente às eleições, por escrutínio secreto, sendo os deputados chamados a votar por ordem alfabética, cabendo o primeiro lugar ao partido mais votado na eleição para a Assembleia Legislativa Regional, e assim sucessivamente.\n\n2 - Sendo necessário, far-se-á segunda chamada."
+  },
+  "18cd758491278566": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contagem de votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contagem de votos\n\nPara realizar a contagem dos votos, o presidente convida um deputado de cada um dos partidos representados na Assembleia."
+  },
+  "561412758de65596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Anúncio da constituição da Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Anúncio da constituição da Mesa\n\nConcluídos os escrutínios, o resultado é anunciado na Mesa, procedendo então o presidente, de pé, à proclamação dos deputados eleitos para formar a Mesa."
+  },
+  "db6a06e82fcdf08d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Saudação do Presidente eleito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Saudação do Presidente eleito\n\n1 - O presidente da Mesa provisória saúda o Presidente da Assembleia e convida-o a ocupar o seu lugar.\n\n2 - O Presidente, uma vez no seu lugar, convida os secretários a ocuparem os respectivos lugares."
+  },
+  "1e596deda8094feb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Encerramento da sessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Encerramento da sessão\n\nO Presidente anuncia os trabalhos subsequentes da Assembleia e encerra a sessão."
+  },
+  "cdceb1e4ae0351d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "56220bba2d63e0c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência\n\nDe acordo com as competências consignadas na Constituição e no Estatuto Político-Administrativo da Região Autónoma dos Açores, compete à Assembleia Legislativa Regional, para o correcto exercício das suas funções:\n\na) Elaborar e aprovar o seu Regimento e bem assim introduzir-lhe quaisquer alterações;\n\nb) Eleger o Presidente e os demais membros da Mesa;\n\nc) Designar representações e deputações e constituir comissões, fixando os prazos em que essas devem realizar os seus trabalhos;\n\nd) Tomar deliberações relativas a incapacidades, incompatibilidades, imunidades, regalias e direitos dos membros dos órgãos de governo próprio da Região previstos na Constituição, no Estatuto, na lei e no presente Regimento;\n\ne) Deliberar sobre a admissibilidade ou rejeição dos projectos e propostas de alteração que lhe sejam apresentadas e sobre os relatórios das comissões;\n\nf) Tomar as demais deliberações previstas na lei e neste Regimento."
+  },
+  "587577fc345893c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Entidades com assento especial na Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entidades com assento especial na Assembleia\n\n1 - O Presidente da República, quando de visita à Região, se assim o desejar, toma lugar na Assembleia Legislativa Regional e usa da palavra.\n\n2 - Podem também tomar lugar na Assembleia Legislativa Regional e dirigir-lhe a palavra o Presidente ou deputações especiais da Assembleia da República e da Assembleia Legislativa Regional da Madeira.\n\n3 - Ouvida a Conferência, o Presidente da Assembleia Legislativa Regional pode convidar, de acordo com os usos e costumes, a tomar lugar na Assembleia e a dirigir-lhe uma mensagem o presidente ou deputações especiais de assembleias congéneres de países estrangeiros."
+  },
+  "de1b9be2f7b0190b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Deputados e grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Deputados e grupos parlamentares"
+  },
+  "6e6fbb0109edf6e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Deputados"
+  },
+  "618f74e0294e17ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Justificação das faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Justificação das faltas\n\n1 - A justificação de faltas a qualquer reunião da Assembleia deve ser apresentada no prazo de 10 dias a contar do termo do facto justificativo.\n\n2 - Tratando-se de faltas seguidas, por motivo de doença, a justificação deve ser apresentada no prazo e nos termos do número anterior, instruída com atestado médico comprovativo da doença, certificado pelo delegado de saúde e que terá os efeitos previstos na lei.\n\n3 - Tratando-se de faltas consecutivas, por motivo relevante, nomeadamente por razões de ordem profissional, a sua justificação pode ser feita previamente ou dentro do prazo referido no n.º 1, dela constando o período máximo previsível do impedimento."
+  },
+  "2f6007eafc7707fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Declaração da perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Declaração da perda de mandato\n\n1 - A perda de mandato é declarada pelo Presidente da Assembleia, ouvida a Mesa, em face do conhecimento comprovado de qualquer dos factos enunciados no Estatuto Político-Administrativo da Região Autónoma dos Açores.\n\n2 - A declaração de perda do mandato é notificada ao interessado e publicada no Diário.\n\n3 - O deputado posto em causa tem o direito de ser ouvido e de recorrer da declaração de perda do mandato para o Plenário nos 10 dias subsequentes, mantendo-se em funções até deliberação definitiva desta, por escrutínio secreto."
+  },
+  "ac89c3c8b906bc92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Renúncia do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Renúncia do mandato\n\n1 - A declaração de renúncia do mandato é escrita e apresentada pelo deputado ao Presidente da Assembleia.\n\n2 - Não é dado andamento ao pedido de renúncia sem prévia comunicação no prazo de vinte e quatro horas a contar do recebimento daquela declaração, ao presidente do respectivo grupo parlamentar ou ao órgão competente do respectivo partido na Região.\n\n3 - Dentro de igual prazo pode o interessado, após o cumprimento do preceituado no número anterior, retirar o seu pedido de renúncia, mediante declaração apresentada nos termos do n.º 1.\n\n4 - Findo o prazo referido no número anterior e mantendo-se o pedido de renuncia, o Presidente da Assembleia declara, perante o Plenário, que a mesma se tornou efectiva.\n\n5 - Fora do funcionamento efectivo do Plenário, cada um dos prazos referidos nos números anteriores é de quarenta e oito horas, e a efectividade da renúncia será comunicada ao interessado, aos representantes dos grupos parlamentares ou ao órgão competente dos partidos.\n\nPara efeitos de contagem dos prazos referidos nos n.os 2 a 5 do presente artigo, observar-se-á o disposto no Código de Processo Civil."
+  },
+  "be62f34838f051ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Morte ou incapacidade permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Morte ou incapacidade permanente\n\n1 - Em caso de morte de um deputado, o presidente do respectivo grupo parlamentar, ou o órgão competente do respectivo partido, apresenta certidão de óbito ao Presidente da Assembleia que, em face da mesma, declara aberta a vaga.\n\n2 - No caso de impossibilidade física ou psíquica permanente de qualquer deputado, o presidente do grupo parlamentar a que o mesmo pertencer, ou o órgão competente do respectivo partido, apresenta ao Presidente da Assembleia atestado médico comprovativo, confirmado pelo delegado de saúde, seguindo-se o procedimento referido no número anterior."
+  },
+  "91fc5cce1aae8bb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Verificação de poderes dos deputados substitutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Verificação de poderes dos deputados substitutos\n\n1 - Os poderes dos deputados chamados para preenchimento das vagas ocorridas na Assembleia são verificados pelo Plenário, mediante parecer prévio da Comissão de Organização e Legislação.\n\n2 - O deputado cujo mandato for impugnado tem o direito de se defender perante o Plenário, o qual decide sobre a sua legitimidade, por escrutínio secreto."
+  },
+  "3634b0c1ccfc4d6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Grupos parlamentares"
+  },
+  "b4218a55ee26723d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Constituição\n\n1 - Os deputados eleitos por cada partido ou coligação de partidos podem constituir-se em grupo parlamentar.\n\n2 - A constituição de cada grupo parlamentar efectua-se mediante comunicação dirigida ao Presidente da Assembleia, assinada pelos deputados que o compõem, indicando a designação do grupo, bem como o nome do respectivo presidente e os dos vice-presidentes, se os houver.\n\n3 - Qualquer alteração na composição ou presidência do grupo parlamentar é igualmente comunicada ao Presidente da Assembleia.\n\n4 - Os deputados dos partidos que não constituam grupo parlamentar formam uma representação parlamentar e devem indicar ao Presidente da Assembleia o deputado que os representa perante a Assembleia."
+  },
+  "e36ea8f029bcea29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Deputados independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Deputados independentes\n\n1 - Os deputados que não integrem qualquer grupo ou representação parlamentar designam-se deputados independentes.\n\n2 - As condições do exercício do respectivo mandato serão definidas por resolução da Assembleia."
+  },
+  "10daa3f878973608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Organização\n\nCada grupo parlamentar estabelece livremente a sua organização."
+  },
+  "9be1537ed2d1f39f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direitos\n\n1 - Constituem direitos de cada grupo ou representação parlamentar:\n\na) Participar nas comissões da Assembleia em função do número dos seus membros, indicando os seus representantes nelas;\n\nb) Provocar, por meio de interpelação ao Governo Regional, a abertura de dois debates em cada sessão legislativa sobre assunto de política geral ou sectorial;\n\nc) Solicitar à Comissão Permanente que promova a convocação da Assembleia;\n\nd) Requerer a constituição de comissões parlamentares de inquérito;\n\ne) Exercer iniciativa legislativa;\n\nf) Apresentar moções de rejeição do programa do Governo Regional;\n\ng) Apresentar moções de censura ao Governo Regional;\n\nh) Ser informado, regular e directamente, pelo Governo Regional, sobre o andamento dos principais assuntos de interesse público;\n\ni) Ser ouvido na fixação da ordem do dia e interpor recurso para o Plenário da ordem do dia fixada.\n\n2 - Cada grupo ou representação parlamentar tem direito a dispor de locais de trabalho na sede e restantes instalações da Assembleia, bem como de pessoaltécnico e administrativo da sua confiança, nos termos que a lei determinar.\n\n3 - Cada grupo ou representação parlamentar pode reunir os seus deputados afectos, na sede da Assembleia Legislativa Regional, nos meses em que não houver sessões ordinárias do Plenário."
+  },
+  "0789122f60761e33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Organização da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Organização da Assembleia"
+  },
+  "f7d7d61ba77b8890": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Presidente e Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Presidente e Mesa"
+  },
+  "0bd81cc001701204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Presidente\n\nDIVISÃOI\n\nEstatuto e eleição"
+  },
+  "7f2312c4d5b09262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Presidente da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Presidente da Assembleia Legislativa Regional\n\n1 - O Presidente representa a Assembleia Legislativa Regional, dirige e coordena os seus trabalhos e exerce autoridade sobre todos os funcionários e agentes e forças de segurança ao serviço da Assembleia.\n\n2 - O Presidente da Assembleia substitui interinamente o Ministro da República, nos termos da Constituição e do Estatuto Político-Administrativo.\n\n3 - O Presidente da Assembleia substitui o Presidente do Governo Regional nos termos do Estatuto Político-Administrativo.\n\n4 - O Presidente da Assembleia tem precedência sobre todas as autoridades regionais."
+  },
+  "20da85b342be0abd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Eleição\n\n1 - As candidaturas para Presidente da Assembleia devem ser subscritas por um mínimo de 5 e por um máximo de 10 deputados.\n\n2 - As candidaturas são apresentadas ao Presidente em exercício e devem ser acompanhadas de declaração de aceitação.\n\n3 - É eleito Presidente da Assembleia o candidato que obtiver a maioria absoluta dos votos dos deputados em efectividade de funções.\n\n4 - Se nenhum dos candidatos obtiver esse número de votos, procede-se imediatamente a segundo sufrágio, ao qual concorrem apenas os dois candidatos mais votados que não tenham retirado a candidatura.\n\n5 - Se nenhum candidato for eleito, será reaberto o processo."
+  },
+  "9fefd5f5b6418787": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Mandato\n\n1 - O Presidente é eleito por legislatura.\n\n2 - O Presidente pode solicitar à Assembleia Legislativa Regional a aprovação de um voto de confiança no caso de se terem alterado os pressupostos políticos existentes à data da respectiva eleição, ou sobre a apreciação da sua actuação global, o qual não sendo aprovado implica a destituição das respectivas funções.\n\n2 - O Presidente pode ser destituído mediante a aprovação de uma moção de censura proposta por um mínimo de um quarto dos deputados em efectividade de funções.\n\n4 - Os deputados proponentes de uma moção de censura ao Presidente que não tenha sido aprovada não podem apresentar outra com a mesma finalidade durante a mesma legislatura.\n\n5 - O Presidente pode renunciar ao cargo mediante comunicação à Assembleia, tornando-se a renúncia efectiva imediatamente, sem prejuízo da sua ulterior publicação no Diário.\n\n6 - No caso de destituição, renúncia ao cargo, de cessação ou suspensão do mandato de deputado, procede-se a nova eleição no prazo de 15 dias em sessão especialmente convocada para o efeito.\n\n7 - A eleição do novo presidente é válida pelo período restante da legislatura."
+  },
+  "32e8c12cbc80bab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Tramitação do voto de confiança e da moção de censura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Tramitação do voto de confiança e da moção de censura\n\n1 - Apresentado um voto de confiança ou uma moção de censura, o Presidente da Assembleia, respectivamente nos termos dos n.os 2 e 3 do artigo anterior, deverá providenciar imediatamente no sentido da distribuição do respectivo texto pelos deputados.\n\n2 - O debate e votação, que terão início até uma semana após a apresentação, serão organizados, conforme o caso, de acordo com os artigos 202.º e 203.º ou 205.º e 206.º do Regimento, com as adaptações fixadas em Conferência.\n\n3 - Os membros do Governo Regional não podem intervir no debate."
+  },
+  "2fbf22e92f11008b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Substituição\n\n1 - O Presidente é substituído, nas suas faltas ou impedimentos, por cada um dos Vice-Presidentes.\n\n2 - A cada Vice-Presidente cabe assegurar as substituições do Presidente por um período de 10 dias não interpolados.\n\n3 - Para efeitos do número anterior, os Vice-Presidentes iniciam o exercício das suas funções por ordem decrescente do número de deputados do partido pelo qual tenham sido eleitos.\n\n4 - No caso do Presidente se achar a substituir o Ministro da República ou o Presidente do Governo Regional ou ainda se se verificar algum dos casos previstos no n.º 6 do artigo 36.º, a substituição far-se-á sempre pelo Vice-Presidente do partido com representação maioritária na Assembleia.\n\n5 - Nas faltas ou impedimentos simultâneos do Presidente e dos Vice-Presidentes, presidirá o deputado que for indicado pelo partido com representação maioritária na Assembleia."
+  },
+  "b015a367148ed511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Substituição nas reuniões plenárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Substituição nas reuniões plenárias\n\nNa falta do Presidente, a presidência das reuniões plenárias é ocupada rotativamente pelos Vice-Presidentes ou, na sua falta, pelo deputado que for indicado pelo partido com representação maioritária na Assembleia."
+  },
+  "78b2776f8e048dec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão II — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão II — Competência"
+  },
+  "4f40a07acb7efbb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Competência quanto aos trabalhos da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competência quanto aos trabalhos da Assembleia\n\nCompete ao Presidente, quanto aos trabalhos da Assembleia:\n\na) Representar a Assembleia e presidir à Mesa;\n\nb) Marcar as reuniões plenárias e fixar, ouvidos os representantes dos grupos e representações parlamentares, a ordem do dia;\n\nc) Convocar extraordinariamente a Assembleia nos termos do Estatuto Político-Administrativo;\n\nd) Admitir ou rejeitar os projectos e as propostas de decreto regional ou de resolução, as reclamações e os requerimentos, sem prejuízo do direito de recurso para a Assembleia dos proponentes ou requerentes, em caso de rejeição;\n\ne) Submeter às comissões competentes, para efeito de apreciação, os textos dos projectos ou propostas;\n\nf) Coordenar os trabalhos das comissões, procurando que estas dêem cumprimento aos prazos que lhes são fixados;\n\ng) Receber e encaminhar para as comissões competentes as representações ou petições dirigidas à Assembleia;\n\nh) Presidir à Conferência;\n\ni) Mandar publicar no Diário da República as moções de confiança ou de censura ao Governo Regional, bem como as resoluções da Assembleia que tenham incidência externa à mesma;\n\nj) Manter a ordem e a disciplina, bem como a segurança da Assembleia, podendo para isso requisitar e usar os meios necessários, tomando as medidas que entender convenientes;\n\nl) Ordenar as rectificações ao Diário;\n\nm) Apreciar a regularidade das candidaturas apresentadas por deputados para cargos electivos, bem como anunciar os resultados da eleição e proclamar os candidatos eleitos;\n\nn) Superintender no pessoal ao serviço da Assembleia;\n\no) Em geral, assegurar o cumprimento do Regimento e das deliberações da Assembleia."
+  },
+  "ef0622c2109d5b09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Competência quanto às reuniões plenárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competência quanto às reuniões plenárias\n\n1 - Compete ao Presidente quanto às reuniões plenárias:\n\na) Presidir às reuniões plenárias, declarar a sua abertura, suspensão e encerramento e dirigir os respectivos trabalhos;\n\nb) Conceder a palavra aos deputados e aos membros do Governo Regional e assegurar a ordem dos debates;\n\nd) Dar oportuno conhecimento à Assembleia das mensagens, informações, explicações e convites que lhe sejam dirigidos;\n\nd) Pôr à votação as propostas e os requerimentos admitidos.\n\n2 - Das decisões do Presidente tomadas em reunião plenária cabe sempre reclamação e recurso para o Plenário."
+  },
+  "76f5ca9d52f5cb84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Competência quanto aos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competência quanto aos deputados\n\nCompete ao Presidente, quanto aos deputados:\n\na) Julgar a justificação de faltas dos deputados às reuniões plenárias;\n\nb) Deferir os pedidos de substituição temporária de mandato;\n\nc) Receber e mandar publicar as declarações de renúncia ao mandato;\n\nd) Declarar a perda de mandato dos deputados nos termos do artigo 26.º;\n\ne) Dar seguimento, com a maior brevidade possível, aos requerimentos apresentados pelos deputados ao abrigo do disposto no Estatuto Político-Administrativo."
+  },
+  "8cfb833efc7b3b19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Competência relativamente a outros órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Competência relativamente a outros órgãos\n\nCompete ao Presidente relativamente a outros órgãos:\n\na) Enviar ao Ministro da República, para efeito de assinatura e publicação, os decretos legislativos regionais;\n\nb) Comunicar ao Ministro da República e ao Presidente do Governo Regional os resultados das votações sobre o programa do Governo e moções de confiança ou de censura ao Governo Regional;\n\nc) Assinar os documentos expedidos em nome da Assembleia;\n\nd) Chefiar as deputações da Assembleia de que faça parte."
+  },
+  "a5ca88ad435eae72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO III — Conferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO III — Conferência"
+  },
+  "7dea2d2ddd2017a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Conferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Conferência\n\n1 - O Presidente reúne-se com os representantes dos grupos e representações parlamentares, para apreciar os assuntos previstos na alínea b) do artigo 40.º e outros previstos no Regimento, e sempre que o entender necessário para o regular funcionamento da Assembleia.\n\n2 - Os representantes dos grupos e representações parlamentares têm na Conferência um número igual de votos ao número dos deputados que representam.\n\n3 - As decisões da Conferência, na falta de consenso, são tomadas por maioria e das mesmas pode ser lavrada acta."
+  },
+  "9db0f3c508d8180b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Mesa"
+  },
+  "0832538aeff99586": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Composição\n\n1 - A Mesa da Assembleia é composta pelo Presidente, por dois Vice-Presidentes e dois Secretários.\n\n2 - Nas reuniões plenárias, a Mesa é constituída pelo Presidente e pelos Secretários."
+  },
+  "73ce5aa2efebcbed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Eleição\n\n1 - Os Vice-Presidentes e os Secretários são eleitos por sufrágio de lista completa e nominativa, proposta por um mínimo de 5 e por um máximo de 10 deputados.\n\n2 - Consideram-se eleitos os candidatos que obtiverem a maioria absoluta dos votos dos deputados em efectividade de funções.\n\n3 - Se algum dos candidatos não tiver sido eleito, procede-se de imediato, na mesma reunião, a novo sufrágio para o lugar por ele ocupado na lista.\n\n4 - Para efeitos do sufrágio referido no número anterior, são apresentadas listas uninominais, nos termos do n.º 1 deste artigo, considerando-se eleito o candidato que obtiver maior número de votos, desde que tenha mais votos favoráveis.\n\n5 - Caso não se verifique o pressuposto consignado na segunda parte do número anterior, procede-se a nova eleição apenas entre os dois candidatos mais votados, considerando-se eleito o que tiver maior número de votos."
+  },
+  "8b56cec61db12d2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Mandato\n\n1 - Os Vice-Presidentes e os Secretários são eleitos por sessão legislativa.\n\n2 - Os Vice-Presidentes e os Secretários podem renunciar ao cargo mediante comunicação à Assembleia, tornando-se a renúncia efectiva imediatamente, sem prejuízo da sua ulterior publicação no Diário.\n\n3 - No caso de renúncia ao cargo, de cessação ou de suspensão do mandato de deputado, procede-se, até à quinta reunião imediata, à eleição do novo titular, segundo o regime do n.º 4 do artigo anterior."
+  },
+  "72bca167924ec645": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Competência geral da Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Competência geral da Mesa\n\n1 - Compete à Mesa:\n\na) Preservar a liberdade e a segurança indispensáveis aos trabalhos da Assembleia;\n\nb) Assegurar o eficaz desempenho dos serviços técnicos e administrativos;\n\nc) Deliberar sobre a gestão do pessoal da Assembleia, incluindo o descongelamento de admissões;\n\nd) Acompanhar a gestão financeira da Assembleia, assegurada pelo Conselho Administrativo;\n\ne) Estabelecer o regulamento de entrada e frequência dos recintos destinados ao público;\n\nf) Em geral coadjuvar o Presidente no exercício das suas funções.\n\n2 - A Mesa pode delegar em algum ou alguns dos seus membros a superintendência dos serviços técnicos e administrativos."
+  },
+  "df59ea207e9dcdd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Competência quanto às reuniões plenárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Competência quanto às reuniões plenárias\n\n1 - Compete à Mesa quanto às reuniões plenárias:\n\na) Integrar nas diversas espécies de intervenção previstas neste Regimento as iniciativas orais e escritas dos deputados e dos membros do Governo Regional;\n\nb) Decidir sobre as questões de interpretação e integração de lacunas do Regimento.\n\n2 - Das deliberações da Mesa cabe reclamação e recurso para o Plenário."
+  },
+  "d0f451503fb1b45a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Vice-Presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Vice-Presidentes\n\nCompete aos Vice-Presidentes:\n\na) Substituir o presidente no exercício das competências previstas no artigo 41.º;\n\nb) Exercer, em caso de delegação, os poderes previstos nas alíneas b), c) e e) do artigo 40.º, a), b) e e) do artigo 42.º e c) do artigo 43.º, com excepção da assinatura de documentos a serem presentes aos órgãos de soberania, ao Ministro da República e ao Presidente do Governo Regional;\n\nc) Desempenhar as funções de representação da Assembleia de que sejam incumbidos pelo Presidente, devendo tal representação, em princípio, operar-se em regime de rotatividade."
+  },
+  "a32bb75e78e79bf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Secretários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Secretários\n\n1 - Compete aos Secretários assegurar o expediente da Mesa, nomeadamente:\n\na) Proceder à chamada e registar as votações;\n\nb) Ordenar a matéria a submeter à votação;\n\nc) Organizar as inscrições dos deputados e dos membros do Governo Regional;\n\nd) Fazer as leituras indispensáveis durante as reuniões;\n\ne) Promover a publicação do Diário.\n\n2 - A falta temporária de qualquer Secretário é suprida pelo deputado que o Presidente designar, ouvido o grupo parlamentar do deputado impedido."
+  },
+  "5cf2c4c392cd6b33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Subsistência da Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Subsistência da Mesa\n\n1 - A Mesa mantém-se em funções até à conclusão do novo processo de eleição na sessão legislativa seguinte.\n\n2 - No termo da legislatura, ou em caso de dissolução da Assembleia, a Mesa mantém-se em funções até à abertura da primeira reunião da nova Assembleia eleita."
+  },
+  "887a032ffb9fad1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Comissões"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "ab5c5be47c1038d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Composição das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Composição das comissões\n\n1 - As comissões não podem contar menos de três deputados nem mais de nove, devendo a sua composição corresponder à representatividade que os grupos, representações parlamentares e deputados independentes possuam na Assembleia.\n\n2 - O número de membros de cada comissão e a sua distribuição pelos diversos grupos, representações parlamentares e deputados independentes são fixados por deliberação da Assembleia, sob proposta do Presidente, ouvida a Conferência.\n\n3 - Os diferentes grupos e representações parlamentares indicam ao Presidente da Assembleia, no prazo de vinte e quatro horas, ou naquele que este fixar, os seus representantes nas comissões e têm a faculdade de os substituir ocasionalmente.\n\n4 - Se algum grupo ou representação parlamentar não puder, ou não quiser, indicar representantes seus para qualquer comissão, não há lugar à respectiva substituição por deputados de outro partido."
+  },
+  "d8b920c85629f88b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Participação dos deputados nas comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Participação dos deputados nas comissões\n\n1 - Nenhum deputado pode pertencer simultaneamente a mais de três comissões, qualquer que seja a sua natureza.\n\n2 - Os membros das comissões especializadas permanentes são deputados em regime de afectação.\n\n3 - Perde a qualidade de membro da comissão o deputado que deixe de pertencer ao grupo ou representação parlamentar pelo qual foi indicado, se este o requerer, ou que exceda o número regimental de faltas às respectivas reuniões.\n\n4 - Compete aos presidentes das comissões julgar a justificação das faltas dos seus membros.\n\n5 - O grupo ou representação parlamentar a que o deputado pertencer pode promover a sua substituição temporária ou definitiva na comissão.\n\n6 - Quando para apreciação de qualquer assunto for necessária a colaboração de outros deputados, podem os mesmos ser eventualmente agregados à comissão, por decisão desta, sem direito a voto."
+  },
+  "ad491b8c9a2eed55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Mesa da comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Mesa da comissões\n\n1 - Na primeira reunião sob a presidência do deputado mais idoso e secretariada pelo mais jovem, cada uma das comissões elege um presidente, um relator e um secretário.\n\n2 - As eleições fazem-se por sufrágio uninominal.\n\n3 - Os cargos da mesa são no conjunto distribuídos por cada partido em proporção com o número dos seus deputados."
+  },
+  "202dbe2e023e956e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Comissões especializadas permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Comissões especializadas permanentes"
+  },
+  "73992cabe20ab84a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Elenco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Elenco\n\nA Assembleia dispõe das seguintes comissões especializadas permanentes:\n\na) Organização e Legislação;\n\nb) Política Geral;\n\nc) Juventude e Formação;\n\nd) Finanças e Planeamento;\n\ne) Assuntos Económicos;\n\nf) Assuntos Sociais;\n\ng) Assuntos Internacionais."
+  },
+  "fc325d6839cd08f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Comissão de Organização e Legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Comissão de Organização e Legislação\n\nCompete à Comissão de Organização e Legislação:\n\na) Relatar e dar parecer sobre a verificação de poderes dos deputados;\n\nb) Pronunciar-se sobre o levantamento de imunidades;\n\nc) Pronunciar-se sobre a perda de mandato, sempre que haja recurso para o Plenário;\n\nd) Proceder a inquéritos a factos ocorridos no âmbito da Assembleia que comprometam a honra ou dignidade de qualquer deputado, a pedido deste e mediante determinação do Presidente;\n\ne) Dar parecer sobre as questões de interpretação e integração de lacunas do Regimento, que lhe sejam submetidas pelo Presidente, pela Mesa ou pela Assembleia;\n\nf) Dar parecer sobre as propostas de alteração ao Regimento;\n\ng) Fiscalizar o funcionamento dos serviços técnicos e administrativos da Assembleia;\n\nh) Informar o Presidente, a Mesa e o Plenário sobre os serviços de apoio e instalações a que se refere o n.º 2 do artigo 33.º;\n\ni) Dar parecer ou pronunciar-se sobre todas as questões relativas à cobertura informativa dos trabalhos da Assembleia pelos órgãos de comunicação social;\n\nj) Dar parecer sobre os projectos e propostas que não respeitem a matérias da competência específica de outras comissões;\n\nl) Dar parecer sobre a reapreciação de diplomas relativamente aos quais haja sido exercido o direito de veto previsto na Constituição e no Estatuto Político-Administrativo;\n\nm) Dar parecer sobre a pronúncia da Assembleia Legislativa Regional relativamente a processos de declaração de inconstitucionalidade ou de ilegalidade por parte do Tribunal Constitucional;\n\nn) Dar parecer ou pronunciar-se sobre todas as questões de organização ou de interpretação da lei que lhe sejam submetidas pelo Presidente, pela Mesa ou pela Assembleia."
+  },
+  "ed37637e4f5da1a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Comissão de Política Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Comissão de Política Geral\n\nCompete à Comissão de Política Geral:\n\na) Tomar conhecimento da condução da Política da Região pelo Governo Regional;\n\nb) Pronunciar-se, a pedido do Presidente da Assembleia, sobre as relações da Assembleia Legislativa Regional com os órgãos de soberania ou quaisquer outras entidades;\n\nc) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da administração regional, nomeadamente quanto à execução material do Plano, nas seguintes áreas:\n\nAdministração regional e autárquica;\n\nFunção pública;\n\nAmbiente;\n\nTurismo;\n\nCooperativismo;\n\nOrdem pública e protecção civil;\n\nd) Dar parecer sobre os projectos e propostas de diploma nas áreas indicadas na alínea anterior."
+  },
+  "135ed8e8b0636add": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Comissão de Juventude e Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Comissão de Juventude e Formação\n\nCompete à Comissão de Juventude e Formação:\n\na) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da Administração Regional, nomeadamente quanto à execução material do Plano, nas seguintes áreas:\n\nJuventude;\n\nEducação;\n\nCultura;\n\nEmprego e formação profissional;\n\nTrabalho;\n\nDesportos;\n\nb) Dar parecer sobre os projectos e propostas de diploma nas áreas indicadas na alínea anterior."
+  },
+  "7dc85778c0613791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Comissão de Finanças e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Comissão de Finanças e Planeamento\n\nCompete à Comissão de Finanças e Planeamento:\n\na) Dar parecer sobre as propostas de Plano, Orçamento e contas da Região;\n\nb) Dar parecer sobre a execução financeira do Plano;\n\nc) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da Administração Regional, nomeadamente quanto à execução material do Plano, nas seguintes áreas:\n\nEstatística;\n\nPlaneamento;\n\nContribuições e impostos;\n\nTesouro;\n\nOrçamento e contabilidade pública;\n\nPromoção de investimento;\n\nPrivatizações;\n\nd) Dar parecer sobre os projectos e propostas de diploma nas áreas indicadas na alínea anterior."
+  },
+  "91af89be3fcf09ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Comissão de Assuntos Económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Comissão de Assuntos Económicos\n\nCompete à Comissão de Assuntos Económicos:\n\na) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da Administração Regional, nomeadamente quanto à execução material do Plano, nas seguintes áreas:\n\nTransportes;\n\nComunicações;\n\nEnergia;\n\nAgricultura;\n\nPecuária;\n\nPescas;\n\nSilvicultura;\n\nIndústria;\n\nComércio;\n\nb) Dar parecer sobre os projectos e propostas de diploma nas áreas indicadas na alínea anterior."
+  },
+  "1634cbd2ba6f900d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Comissão de Assuntos Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Comissão de Assuntos Sociais\n\nCompete à Comissão de Assuntos Sociais:\n\na) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da Administração Regional, nomeadamente quanto à execução material do Plano, nas seguintes áreas:\n\nSaúde;\n\nSegurança Social;\n\nHabitação;\n\nUrbanismo;\n\nObras públicas;\n\nComunicação Social;\n\nb) Dar parecer sobre os projectos e propostas de diploma nas áreas indicadas na alínea anterior."
+  },
+  "9039dbc413a7f3be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Comissão de Assuntos Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Comissão de Assuntos Internacionais\n\nCompete à Comissão de Assuntos Internacionais:\n\na) Dar parecer ou pronunciar-se sobre as relações da Assembleia com as assembleias de outras regiões autónomas ou entidades congéneres estrangeiras;\n\nb) Habilitar o Plenário com os elementos que lhe permitam apreciar os actos do Governo e da administração regional nas seguintes áreas:\n\nEmigração e relação com as comunidades açorianas;\n\nTratados e acordos internacionais que digam directamente respeito à Região;\n\nIntegração Europeia, sem prejuízo da competência, em razão da matéria, de outras comissões especializadas permanentes;\n\nRelações com outras regiões autónomas e entidades análogas;\n\nRelações com organismos vocacionados para o diálogo e cooperação inter-regional;\n\nElaboração de protocolos entre o Governo da República e o Governo Regional relativos à colaboração permanente em matéria de carácter internacional com interesse especial para a Região;\n\nc) Manter dossiers actualizados sobre as relações internacionais em curso, com incidência na Região;\n\nd) Dar parecer ou pronunciar-se sobre os projectos e propostas ou medidas respeitantes às áreas referidas na alínea b)."
+  },
+  "8818b1b61b988fdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Composição das comissões especializadas permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Composição das comissões especializadas permanentes\n\n1 - A composição das comissões especializadas permanentes é deliberada pelo Plenário, de acordo com os princípios do artigo 53.º\n\n2 - Cada uma das comissões pode subdividir-se, permanente ou eventualmente, em subcomissões."
+  },
+  "7512bfa162b1e1ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Competência\n\n1 - As competências definidas nos artigos desta secção entendem-se sem prejuízo da sua atribuição específica a comissões eventuais.\n\n2 - As petições dirigidas à Assembleia são apreciadas pelas comissões especializadas permanentes em razão da matéria ou por comissões eventuais especialmente criadas para o efeito."
+  },
+  "305209f9aca78c51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Comissões eventuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Comissões eventuais"
+  },
+  "373ea2acefac754c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Constituição\n\n1 - A Assembleia pode constituir comissões eventuais, de inquérito ou para qualquer outro fim determinado.\n\n2 - A iniciativa de constituição das comissões referidas no número anterior pode ser exercida por um mínimo de cinco deputados ou pela totalidade dos deputados de qualquer representação parlamentar.\n\n3 - As comissões de inquérito são obrigatoriamente constituídas, sempre que tal seja requerido, por um quinto dos deputados em efectividade de funções, até ao limite de uma por deputado e por sessão legislativa."
+  },
+  "06394b7b640df873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Competência\n\nCompete às comissões eventuais apreciar os assuntos objecto da sua constituição, apresentando os respectivos relatórios nos prazos fixados pela Assembleia."
+  },
+  "46cdc3f003ca16c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Comissão Permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Comissão Permanente"
+  },
+  "53413d2a094fa91f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Funcionamento\n\nFora do período de funcionamento efectivo da Assembleia Legislativa Regional, durante o período em que ela se encontrar dissolvida e nos restantes casos previstos no Estatuto Político-Administrativo, funciona a Comissão Permanente."
+  },
+  "9d52bf650bde6689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Composição\n\n1 - A Comissão Permanente é presidida pelo Presidente da Assembleia e composta pelos Vice-Presidentes e por deputados indicados por todos os grupos e representações parlamentares, de acordo com a respectiva representatividade na Assembleia.\n\n2 - Aplicam-se à Comissão Permanente os preceitos do artigo 53.º, n.os 2 a 6, do artigo 54.º e n.º 3 do artigo 55.º"
+  },
+  "2fe2e96b2bb20c9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Competência\n\nCompete à Comissão Permanente:\n\na) Acompanhar a actividade do Governo e da Administração Regional;\n\nb) Exercer os poderes da Assembleia relativamente ao mandato dos deputados, sem prejuízo da competência própria do Presidente;\n\nc) Promover a convocação da Assembleia sempre que tal seja necessário;\n\nd) Preparar a abertura da sessão legislativa."
+  },
+  "4e3340e1fc92f6b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Representações e deputações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Representações e deputações"
+  },
+  "5eb96dd068ee4a13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Representações e deputações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Representações e deputações\n\n1 - As representações e deputações da Assembleia devem respeitar os princípios estabelecidos no artigo 53.º e são constituídas por deliberação da Conferência.\n\n2 - Finda a sua missão, as representações e deputações elaboram um relatório com as informações necessárias à avaliação da realização das suas finalidades."
+  },
+  "89ac9cc90f13184e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Funcionamento"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "f48fe95c9ef4b735": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Sede da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Sede da Assembleia\n\n1 - A Assembleia Regional tem sede na cidade da Horta e os seus serviços instalados em edifício próprio.\n\n2 - Nas restantes ilhas da Região existirão instalações apropriadas onde funcionam as delegações da Assembleia.\n\n3 - Os trabalhos da Assembleia decorrem na sua sede, podendo decorrer nas suas delegações ou noutro local, quando assim for decidido pelo Plenário, ou pelas comissões, no que respeita a cada uma delas."
+  },
+  "5df6d2418fac52e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Reuniões plenárias e em comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Reuniões plenárias e em comissões\n\nA Assembleia funciona em reuniões plenárias e em comissões."
+  },
+  "3b25dfa50ec8d432": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Reuniões ordinárias do Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Reuniões ordinárias do Plenário\n\n1 - O Plenário da Assembleia reúne cada ano em sessão ordinária, a qual compreende o mínimo de cinco períodos legislativos, sendo o primeiro em Novembro e os restantes estabelecidos pela Mesa, ouvida a Conferência.\n\n2 - A Assembleia pode, sob proposta do Presidente, suspender o período legislativo pelos prazos julgados convenientes."
+  },
+  "04dc4b42f228dabd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Reuniões extraordinárias do Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Reuniões extraordinárias do Plenário\n\n1 - A Assembleia pode ser convocada extraordinariamente a pedido do Governo Regional ou a requerimento de, pelo menos, um quarto dos deputados, para deliberar sobre assuntos indicados na respectiva convocatória.\n\n2 - A reunião extraordinária pode vir a abranger outros assuntos, se o Plenário assim o deliberar."
+  },
+  "1df1d282192e4023": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Convocação das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Convocação das reuniões\n\n1 - As reuniões do Plenário e das comissões são convocadas pelos respectivos presidentes, com a antecedência mínima de oito dias.\n\n2 - Em casos excepcionais e devidamente justificados, pode o prazo previsto no número anterior ser reduzido para três dias.\n\n3 - A convocação é feita por qualquer meio de comunicação que assegure o seu efectivo conhecimento e publicidade."
+  },
+  "91f4bf7ab2fc7e90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Convocação para os meses de Julho e Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Convocação para os meses de Julho e Agosto\n\nAs reuniões do Plenário e das comissões não podem ser convocadas para os meses de Julho e Agosto, salvo para tratar de assuntos de natureza absolutamente inadiável."
+  },
+  "5def1873cbd009fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Coadjuvação por funcionários e técnicos contratados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Coadjuvação por funcionários e técnicos contratados\n\n1 - Os trabalhos da Assembleia e os das comissões podem ser coadjuvados por funcionários requisitados e por técnicos contratados, no número que for considerado indispensável.\n\n2 - Relativamente à coadjuvação das comissões, as diligências previstas no n.º 1 são efectuadas através do Presidente da Assembleia."
+  },
+  "d7ed8e2ad3ccaa45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Reuniões plenárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Reuniões plenárias"
+  },
+  "c2c7b72bffa8f191": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Organização dos trabalhos e fixação da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Organização dos trabalhos e fixação da ordem do dia"
+  },
+  "4785a0691ab0e835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Programação dos trabalhos da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Programação dos trabalhos da Assembleia\n\nNa Conferência é estabelecida, com carácter indicativo, a programação dos trabalhos do Plenário para as reuniões subsequentes."
+  },
+  "b90670e36cce1f9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Fixação da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Fixação da ordem do dia\n\nA matéria da ordem do dia é fixada na reunião anterior ou, quando tal não se tenha verificado, com antecedência de, pelo menos, vinte e quatro horas."
+  },
+  "de4cca4ba769c0ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Estabilidade da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Estabilidade da ordem do dia\n\n1 - A ordem do dia não pode ser preterida nem interrompida, a não ser nos casos expressamente previstos no Regimento, ou por deliberação da Assembleia, sem votos contra.\n\n2 - A sequência das matérias fixadas para cada reunião pode ser modificada por deliberação da Assembleia."
+  },
+  "ad0cde722c5dc00a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Processos prioritários e urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Processos prioritários e urgentes\n\nA apreciação dos projectos ou propostas de decreto legislativo regional relativos à estrutura e áreas de competência do Governo Regional tem prioridade sobre quaisquer outras actividades do Plenário e segue o processo de urgência."
+  },
+  "d2e62bef05ff25e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Outras matérias prioritárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Outras matérias prioritárias\n\nNa fixação da ordem do dia das reuniões plenárias, o Presidente dá prioridade às matérias segundo a precedência seguinte:\n\na) Apreciação do Programa do Governo;\n\nb) Pronúncia sobre consulta dos órgãos de soberania relativamente às questões da competência destes que respeitarem à Região;\n\nc) Deliberação sobre o pedido de apreciação, pelo Tribunal Constitucional, previsto na alínea g) do n.º 2 do artigo 281.º da Constituição;\n\nd) Apreciação das propostas do Plano e Orçamento e das contas da Região;\n\ne) Apreciação de moções de confiança ou de censura ao Governo Regional;\n\nf) Deliberação sobre inquéritos parlamentares e poderes de instrução das comissões;\n\ng) Deliberação sobre a contracção de empréstimos e limite máximo da concessão de avales;\n\nh) Designação dos representantes da Região cuja eleição caiba à Assembleia."
+  },
+  "32e8b44d59cd25d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Prioridade a solicitação do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Prioridade a solicitação do Governo\n\n1 - O Governo Regional pode solicitar prioridade para assuntos de resolução urgente.\n\n2 - A concessão de prioridade é decidida pelo Presidente da Assembleia, ouvidos o Presidente do Governo Regional e a Conferência, podendo haver recurso dessa decisão para o Plenário."
+  },
+  "7f202f73562c52a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Realização das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Realização das reuniões"
+  },
+  "5658bae616f07ff8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão I — Disposições gerais"
+  },
+  "8addcc117ff6c660": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Dias e horas das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Dias e horas das reuniões\n\n1 - A Assembleia funciona, em regra, todos os dias que não forem sábados, domingos, feriados e dias de luto oficial, desde as 10 horas às 20 horas, salvo quando a Assembleia deliberar diversamente.\n\n2 - À falta de marcação de outras horas, as reuniões plenárias iniciam-se às 15 horas e terminam às 20 horas."
+  },
+  "02fbd1b5d373d6fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Lugar na sala de reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Lugar na sala de reuniões\n\n1 - Os deputados tomam lugar dentro da sala pela forma decidida na Conferência.\n\n2 - Na sala das reuniões há ainda lugares reservados para os membros do Governo Regional."
+  },
+  "b713d368cde8c68a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Proibição da presença de pessoas estranhas à Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Proibição da presença de pessoas estranhas à Assembleia\n\n1 - Durante o funcionamento do Plenário não é permitida no recinto reservado às reuniões a presença de pessoas que não tenham assento na Assembleia ou não estejam em serviço.\n\n2 - O disposto no número anterior entende-se sem prejuízo da regra do artigo 128.º"
+  },
+  "c7660605831673e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Chamada dos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Chamada dos deputados\n\nProcede-se à chamada dos deputados no início da reunião e em qualquer momento que o Presidente achar conveniente."
+  },
+  "173014da463b2ace": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Quórum\n\n1 - A Assembleia considera-se constituída em Plenário achando-se presente a maioria do número legal dos seus membros.\n\n2 - Antes de qualquer votação pode verificar-se o quórum por meio de contagem."
+  },
+  "152e815a6d947cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Continuidade das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Continuidade das reuniões\n\nAs reuniões não podem ser interrompidas, salvo por decisão do Presidente, para os seguintes efeitos:\n\na) Intervalos;\n\nb) Restabelecimento da ordem na sala;\n\nc) Falta de quórum, procedendo-se a nova contagem quando o Presidente assim o determinar;\n\nd) Exercício do direito de interrupção pelos grupos ou representações parlamentares."
+  },
+  "e29f4eab0e7e8233": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Interrupção da reunião",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Interrupção da reunião\n\nQualquer grupo ou representação parlamentar pode requerer a interrupção das reuniões plenárias por um período não superior a trinta minutos, a qual não pode ser recusada pelo Presidente se esse direito ainda não tiver sido exercido durante a mesma reunião."
+  },
+  "c679beea8338b817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Períodos das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Períodos das reuniões\n\nEm cada reunião plenária haverá um período designado por «antes da ordem do dia» e outro designado por «ordem do dia»."
+  },
+  "fed4323070f48ce1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO II — Período de antes da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO II — Período de antes da ordem do dia"
+  },
+  "d656cd39584bf5c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Período de antes da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Período de antes da ordem do dia\n\n1 - O período de antes da ordem do dia é destinado:\n\na) À leitura, pela Mesa, do expediente, bem como dos anúncios que o Regimento impuser;\n\nb) À emissão de votos de congratulação, saudação, protesto ou pesar propostos pela Mesa ou por algum deputado;\n\nc) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.\n\n2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora, podendo, uma só vez em cada período legislativo, ser prorrogado por mais uma hora, desde que tal seja requerido por qualquer grupo ou representação parlamentar."
+  },
+  "dc6763641da2aa86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Expediente e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Expediente e informação\n\n1 - Aberta a reunião, a Mesa procede:\n\na) Ao resumo ou leitura da correspondência de interesse para a Assembleia;\n\nb) À leitura de representações ou petições dirigidas à Assembleia sobre matéria da competência da mesma;\n\nc) À leitura de qualquer reclamação sobre omissões ou inexactidões no Diário apresentadas por qualquer deputado ou membro do Governo Regional interessado;\n\nd) À leitura de qualquer pedido de informação dirigida pelos deputados ao Governo, bem como da resposta deste;\n\ne) À leitura de qualquer pergunta dirigida por escrito pelos deputados ao Governo Regional para os efeitos previstos no artigo 207.º;\n\nf) Ao anúncio de qualquer projecto ou proposta de diploma, de resolução, ou de moção, apresentada à Mesa;\n\ng) À comunicação de qualquer decisão do Presidente ou deliberação da Mesa, bem como de qualquer facto ou situação cujo anúncio o Regimento imponha ou que interesse à Assembleia.\n\n2 - A Mesa pode substituir a leitura de documentos excepcionalmente longos pelo seu resumo e pela sua distribuição aos deputados que o solicitem."
+  },
+  "05d6ca5dd6ce2d23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Emissão de votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Emissão de votos\n\n1 - Os votos referidos na alínea b) do artigo 93.º podem ser propostos pela Mesa ou por deputado ou deputados em número não superior a cinco, devendo o deputado ou deputados comunicar à Mesa a sua intenção até ao início da reunião.\n\n2 - Apresentado à Assembleia o texto da proposta de voto pela Mesa, ou por um dos deputados subscritores, pode usar da palavra para discussão um deputado de cada grupo ou representante parlamentar, pelo período máximo de cinco minutos, procedendo-se seguidamente à votação."
+  },
+  "a85d4a5ce3d26b2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Tratamento de assuntos de interesse político relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Tratamento de assuntos de interesse político relevante\n\n1 - Para efeitos de tratamento pelos deputados de assuntos de interesse político relevante para a Região, deve ser aberta uma ordem de inscrição especial, que cessa com o termo de cada período legislativo.\n\n2 - O tempo referido no n.º 2 do artigo 93.º é distribuído proporcionalmente ao número de deputados de cada grupo ou representação parlamentar, assegurando-se um tempo mínimo a cada um.\n\n3 - O tempo mínimo assegurado a cada grupo ou representação parlamentar com um númro igual ou inferior a três deputados é de dez minutos por cada reunião ou por cada prorrogação a que se refere o n.º 2 do artigo 93.º Este tempo pode, porém, ser acumulado por período legislativo, sendo, neste caso, utilizado por uma ou mais vezes após prévia comunicação à Mesa no início de cada reunião.\n\n4 - Os tempos utilizados na formulação de protestos, contraprotestos, pedidos de esclarecimento e respectivas respostas são levados em conta no tempo global atribuído a cada grupo ou representação parlamentar.\n\n5 - Nenhum deputado pode estar inscrito duas vezes.\n\n6 - Fala em primeiro lugar, em cada reunião, o deputado do grupo ou representação parlamentar que tiver mais oradores inscritos.\n\n7 - Durante cada reunião plenária não podem usar da palavra seguidamente dois deputados do mesmo grupo ou representação parlamentar, salvo se não houver deputados inscritos de outro."
+  },
+  "4a8f8be6c275b6e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO III — Período da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO III — Período da ordem do dia"
+  },
+  "8c32f80347296679": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Período da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Período da ordem do dia\n\nO período da ordem do dia destina-se:\n\na) Às eleições que tiverem de realizar-se;\n\nb) Em geral, ao exercício das competências estatutárias específicas da Assembleia Legislativa Regional."
+  },
+  "ea6531dd1e99dbf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Direitos dos partidos à fixação da ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Direitos dos partidos à fixação da ordem do dia\n\n1 - Cada grupo parlamentar tem direito à fixação da ordem do dia de duas reuniões plenárias durante a sessão legislativa ou de três, tratando-se de grupos parlamentares não representados no Governo Regional.\n\n2 - Cada representação parlamentar tem direito à fixação da ordem do dia de uma reunião plenária na sessão legislativa.\n\n3 - O exercício do direito previsto neste artigo é anunciado ao Presidente da Assembleia Legislativa Regional em Conferência, com três dias de antecedência.\n\n4 - Se o requerimento de fixação da ordem do dia for para apreciação de projecto de decreto legislativo regional ou de resolução, não pode interromper, para além do número de reuniões que fixou, a discussão e votação de qualquer projecto ou proposta de decreto legislativo regional que esteja a decorrer, mas o grupo ou representação parlamentar têm o direito de requerer, no termo da última reunião fixada, a respectiva votação.\n\n5 - No caso previsto no número anterior, se o projecto for aprovado na generalidade, o grupo ou representação parlamentar tem direito a obter a votação na especialidade, não contando as reuniões plenárias para efeito da limitação constante do n.º 1."
+  },
+  "ed5a101445b23f42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Uso da palavra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Uso da palavra"
+  },
+  "35edf3793e9a3418": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 99.º — Uso da palavra pelos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Uso da palavra pelos deputados\n\n1 - A palavra é concedida aos deputados para:\n\na) Tratar de assuntos no período de antes da ordem do dia;\n\nb) Apresentar projectos ou propostas;\n\nc) Exercer o direito de defesa nos casos previstos nos artigos 26.º e 29.º do Regimento;\n\nd) Participar nos debates;\n\ne) Fazer perguntas ao Governo Regional sobre quaisquer actos deste ou da Administração Pública Regional;\n\nf) Invocar o Regimento ou interrogar a Mesa;\n\ng) Fazer requerimentos;\n\nh) Apresentar reclamações, recursos, protestos ou contraprotestos;\n\ni) Pedir ou dar explicações ou esclarecimentos;\n\nj) Formular declarações de voto.\n\n2 - É autorizada, a todo o tempo, a troca entre quaisquer oradores inscritos, desde que obtida a anuência destes."
+  },
+  "db2a672805b40baa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 100.º — Uso da palavra pelos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Uso da palavra pelos membros do Governo Regional\n\n1 - A palavra é concedida aos membros do Governo Regional para:\n\na) Fazer comunicações à Assembleia sobre qualquer assunto de interesse regional, no período da ordem do dia;\n\nb) Apresentar o Programa do Governo, as propostas do Plano e Orçamento, as Contas da Região e pedidos para realização de operações de crédito;\n\nc) Apresentar propostas de decreto legislativo regional, de resolução, de moção e propostas de alteração;\n\nd) Participar nos debates;\n\ne) Responder a perguntas dos deputados sobre quaisquer actos do Governo ou da Administração Regional;\n\nf) Invocar o Regimento ou interpelar a Mesa;\n\ng) Pedir ou dar explicações ou esclarecimentos;\n\nh) Apresentar reclamações, protestos ou contraprotestos.\n\n2 - As faculdades referidas nas alíneas e), f), g) e h) do número anterior também podem ser exercidas antes da ordem do dia.\n\n3 - Para os efeitos previstos nas alíneas e), f), g) e h) do n.º 1, no decurso do período de antes da ordem do dia, dispõe o Governo Regional de um tempo máximo de vinte minutos no período normal e de dez minutos por prorrogação, não sendo os mesmos deduzidos do tempo máximo fixado para os grupos e representações parlamentares."
+  },
+  "e0fe027b69285ca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 101.º — Fins do uso da palavra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Fins do uso da palavra\n\n1 - Quem solicitar a palavra deve declarar para que fim a pretende, não podendo usá-la para fim diverso daquele para que foi concedida.\n\n2 - Caso o orador se afaste da finalidade para que lhe foi concedida a palavra, é advertido pelo Presidente, que pode retirar-lha se o orador persistir na sua atitude."
+  },
+  "84191e94b10a5c78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 102.º — Uso da palavra para apresentação de projectos ou propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Uso da palavra para apresentação de projectos ou propostas\n\n1 - O uso da palavra para apresentação de projectos ou propostas, pelo autor ou por um dos autores, não pode exceder dez minutos, limita-se à indicação do seu objecto e tem lugar, por ordem da respectiva entrada, no início do período da ordem do dia da reunião em que tiverem sido anunciados.\n\n2 - Feita a apresentação, há um período de dez minutos para pedidos de esclarecimento, sendo dada a preferência a deputados que não pertençam ao partido do apresentante.\n\n3 - As respostas aos pedidos de esclarecimento não podem exceder quinze minutos."
+  },
+  "055ea190670739ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 103.º — Reacção contra ofensas à honra ou consideração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Reacção contra ofensas à honra ou consideração\n\n1 - Sempre que um deputado ou membros do Governo entender que foram proferidas expressões ofensivas da sua honra ou consideração, pode, para se defender, usar da palavra por tempo não superior a três minutos.\n\n2 - O autor das expressões consideradas pode dar explicações por tempo não superior a três minutos."
+  },
+  "6eb756a2bea5e647": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 104.º — Uso da palavra para esclarecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Uso da palavra para esclarecimentos\n\n1 - A palavra para esclarecimentos limita-se à formulação sintética da pergunta e da respectiva resposta sobre a matéria em dúvida enunciada pelo orador que tiver acabado de intervir.\n\n2 - Os deputados que queiram formular pedidos de esclarecimento devem inscrever-se logo que finda a intervenção que os suscitou, sendo formulados e respondidos pela ordem de inscrição.\n\n3 - O orador interrogante e o orador respondente, bem como aquele que usar da palavra para espontaneamente prestar esclarecimentos, dispõem de três minutos por cada intervenção.\n\n4 - Os pedidos de esclarecimento não poderão exceder globalmente dez minutos, o mesmo se aplicando aos esclarecimentos."
+  },
+  "1958f0506d8598a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 105.º — Invocação do Regimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Invocação do Regimento\n\nO deputado que pedir a palavra para invocar o Regimento indica a norma infringida, com as considerações estritamente indispensáveis para o efeito, não podendo exceder dois minutos."
+  },
+  "959a04c5a0d8f84b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 106.º — Requerimentos e perguntas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Requerimentos e perguntas\n\n1 - São considerados requerimentos apenas os pedidos dirigidas à Mesa respeitantes ao processo de apresentação, discussão e votação de qualquer assunto ou ao funcionamento da reunião.\n\n2 - Admitido o requerimento nos termos da alínea d) do artigo 40.º, é imediatamente votado, sem discussão.\n\n3 - Não há justificação nem discussão de perguntas dirigidas à Mesa."
+  },
+  "328f24b5fbba1397": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 107.º — Reclamações, recursos, protestos e contraprotestos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Reclamações, recursos, protestos e contraprotestos\n\nO deputado que pedir a palavra para reclamações, recursos, protestos e contraprotestos limita-se a indicar sucintamente o seu objectivo e fundamento não podendo exceder, em qualquer caso, três minutos."
+  },
+  "9a675fb413200e72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 108.º — Uso da palavra pelos membros da Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Uso da palavra pelos membros da Mesa\n\n1 - Se os membros da Mesa em funções na reunião plenária quiserem usar da palavra, não podem reassumi-las até ao termo da mesma reunião.\n\n2 - O Presidente ou Vice-Presidente em exercício não pode reassumir as suas funções até ao termo do debate ou da votação, se a estes houver lugar, no caso de o debate ou a votação exceder a reunião."
+  },
+  "15d876937d7976d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 109.º — Modo de usar da palavra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Modo de usar da palavra\n\n1 - No uso da palavra, os oradores dirigem-se ao Presidente e à Assembleia e devem manter-se de pé.\n\n2 - O orador não pode ser interrompido sem o seu consentimento, não sendo, porém, consideradas interrupções as vozes de concordância e discordância ou análogas.\n\n3 - O orador é advertido pelo Presidente quando se desvie do assunto em discussão ou quando o discurso se torne injurioso ou ofensivo, podendo o Presidente retirar-lhe a palavra se persistir na sua atitude."
+  },
+  "9d2c40ae0e9ae05d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 110.º — Organização dos debates",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Organização dos debates\n\n1 - A Conferência delibera, nos termos do artigo 149.º, sobre o tempo global de cada debate, bem como sobre a sua distribuição.\n\n2 - Sempre que tiver sido fixado tempo global para a discussão, o tempo gasto com pedidos de esclarecimento e respostas, protestos e contraprotestos é considerado no tempo atribuído ao grupo ou representação parlamentar a que pertence o deputado.\n\n3 - Na falta de deliberação da Conferência, aplica-se supletivamente o artigo seguinte e as demais disposições relativas ao uso da palavra."
+  },
+  "8de8bef2dc20a6e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 111.º — Uso da palavra nos debates",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Uso da palavra nos debates\n\n1 - Para participar nos debates sobre a matéria da ordem do dia, quer na generalidade, quer na especialidade, cada deputado ou membro do Governo pode usar da palavra duas vezes.\n\n2 - No período da ordem do dia, e durante a discussão na generalidade, o tempo do uso da palavra de cada deputado ou membro do Governo Regional não pode exceder vinte minutos na primeira vez e dez na segunda, mas o autor ou um dos autores do projecto ou proposta tem o direito de usar da palavra pela primeira vez antes dos demais oradores inscritos e por um período de trinta minutos.\n\nDurante a discussão na especialidade o tempo máximo do uso da palavra por cada orador será de quinze minutos na primeira vez e cinco na segunda.\n\n4 - Aproximando-se o termo do tempo regimental, o deputado ou o membro do Governo Regional será advertido pelo Presidente para resumir as suas considerações."
+  },
+  "fe03768c29892806": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Deliberações e votações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Deliberações e votações"
+  },
+  "b5e14a980ef5eb40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 112.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Deliberações\n\nNão podem ser tomadas deliberações durante o período de antes da ordem do dia, salvo para os seguintes efeitos:\n\na) Cumprimento do disposto no artigo 29.º;\n\nb) Votação das propostas referidas na alínea b) do n.º 1 do artigo 93.º;\n\nc) Votação dos recursos previstos no Regimento sobre as deliberações tomadas neste período."
+  },
+  "a3bb6b36858bb0f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 113.º — Maioria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Maioria\n\n1 - Salvo nos casos previstos no Estatuto ou no Regimento, as deliberações serão tomadas à pluralidade de votos, estando presente a maioria do número legal de deputados.\n\n2 - As abstenções não contam para o apuramento da maioria."
+  },
+  "edeeffb8ce9ef778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 114.º — Voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Voto\n\n1 - Cada deputado tem um voto.\n\n2 - Nenhum deputado presente pode deixar de votar, sem prejuízo do direito de abstenção.\n\n3 - Não é admitido o voto por procuração ou por correspondência.\n\n4 - O Presidente só exerce o direito de voto quando assim o entender."
+  },
+  "e6785b5147664a8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 115.º — Formas de votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Formas de votação\n\n1 - As votações podem realizar-se por uma das seguintes formas:\n\na) Por escrutínio secreto;\n\nb) Por votação nominal;\n\nc) Por levantados e sentados, o que constitui a forma normal de votar.\n\n2 - Não são admitidas votações em alternativa.\n\n3 - Nas votações por levantados e sentados a Mesa anuncia a distribuição partidária dos votos."
+  },
+  "cf91e96030859599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 116.º — Escrutínio secreto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Escrutínio secreto\n\nFazem-se obrigatoriamente por escrutínio secreto:\n\na) As eleições;\n\nb) As deliberações que, segundo o Regimento ou a lei, devam observar essa forma."
+  },
+  "18a12b3c5d5cedc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 117.º — Votação nominal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Votação nominal\n\nHá votação nominal quando a Assembleia assim o deliberar, a requerimento de cinco deputados."
+  },
+  "3264d67f91e16986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 118.º — Empate na votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Empate na votação\n\n1 - Quando a votação produza empate, a matéria sobre a qual ela tiver recaído entra de novo em discussão.\n\n2 - Se o empate se tiver dado em votação não precedida de discussão, por ninguém ter pedido a palavra, repete-se a votação na reunião imediata, com a possibilidade de discussão.\n\n3 - O empate na segunda votação equivale a rejeição."
+  },
+  "d5ae25dc3fd1ed27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Reuniões das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Reuniões das comissões"
+  },
+  "12b46ba2b72a7970": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 119.º — Convocação e ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º — Convocação e ordem do dia\n\n1 - As reuniões de cada comissão são marcadas pela própria comissão, ou pelo seu presidente, ouvida a respectiva mesa.\n\n2 - A ordem do dia é fixada por cada comissão, ou pelo seu presidente, ouvidos os representantes dos grupos e representações parlamentares."
+  },
+  "5a70e1dea7e4af75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 120.º — Quórum das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120.º — Quórum das comissões\n\nAs comissões funcionam estando presentes mais de metade dos seus membros."
+  },
+  "505834bae90456f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 121.º — Colaboração ou presença de outros deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Colaboração ou presença de outros deputados\n\n1 - Nas reuniões das comissões pode participar, sem voto, um dos deputados autores do projecto de decreto legislativo regional ou resolução em estudo.\n\n2 - Qualquer outro deputado pode assistir às reuniões, ou nelas participar sem voto, se a comissão o autorizar.\n\n3 - Qualquer deputado pode enviar às comissões observações escritas sobre matéria da sua competência."
+  },
+  "249b2455d4c3f857": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 122.º — Participação de membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Participação de membros do Governo Regional\n\n1 - Os membros do Governo Regional podem participar nos trabalhos das comissões, desde que para tal tenham sido solicitados por estas.\n\n2 - As comissões podem solicitar ou admitir a participação nos seus trabalhos de funcionários de departamentos regionais ou de dirigentes e técnicos de entidades públicas, desde que autorizados pelos respectivos superiores hierárquicos.\n\n3 - As diligências previstas neste artigo serão efectuadas através do Presidente da Assembleia."
+  },
+  "d1c72d103d6c2535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 123.º — Deveres gerais das comissões especializadas permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Deveres gerais das comissões especializadas permanentes\n\n1 - As comissões especializadas permanentes devem apresentar relatório da sua actividade, para conhecimento do Plenário, até ao início de cada período legislativo.\n\n2 - O Plenário toma conhecimento do relatório, que será lido no período da ordem do dia, podendo as comissões prestar esclarecimentos complementares, por sua iniciativa ou a solicitação de qualquer deputado.\n\n3 - As comissões enviam à Comissão de Finanças e Planeamento até oito dias antes do termo do prazo que a esta tenha sido fixado para emissão de parecer, relatório e parecer fundamentado sobre as propostas de Plano e Orçamento da Região."
+  },
+  "90fda3deca7fa4e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 124.º — Poderes das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 124.º — Poderes das comissões\n\n1 - As comissões podem requerer ou praticar quaisquer diligências necessárias ao bom exercício das suas funções, nomeadamente:\n\na) Requerer informações ou pareceres;\n\nb) Solicitar depoimentos de quaisquer cidadãos;\n\nc) Requisitar ou propor a contratação de especialistas para as coadjuvar nos seus trabalhos;\n\nd) Efectivar missões de informação ou de estudo;\n\ne) Propor que qualquer dos seus membros participe em reuniões de informação ou estudo, no âmbito das atribuições da respectiva comissão.\n\n2 - As diligências previstas neste artigo são efectuadas através do Presidente da Assembleia."
+  },
+  "307df3712d81d98e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 125.º — Colaboração entre comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125.º — Colaboração entre comissões\n\n1 - Duas ou mais comissões podem reunir em conjunto para o estudo de assuntos de interesse comum, não podendo, porém, tomar deliberações.\n\n2 - Uma comissão especializada permanente ou eventual pode ouvir quaisquer outras comissões desde que haja interesse em razão da matéria."
+  },
+  "f7ab64cff87f5187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 126.º — Regimentos das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 126.º — Regimentos das comissões\n\n1 - Cada comissão elabora o seu regimento.\n\n2 - Na falta ou insuficiência do regimento da comissão aplica-se, por analogia, o presente Regimento."
+  },
+  "bbe7ecf9dd70c338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 127.º — Registo dos trabalhos das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 127.º — Registo dos trabalhos das comissões\n\n1 - Cada comissão dispõe de um livro de actas com termo de abertura e de encerramento e rubricado pelo respectivo presidente.\n\n2 - De cada reunião das comissões é lavrada uma acta, da qual devem constar a indicação das presenças e faltas, o sumário dos assuntos tratados e o resultado das votações, seguindo-se-lhes a rubrica de todos os presentes à reunião.\n\n3 - O livro de actas pode ser consultado, a todo o tempo, por qualquer deputado."
+  },
+  "ea05f7d3b116ba15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Publicidade dos trabalhos da assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Publicidade dos trabalhos da assembleia"
+  },
+  "efc5c45e6359d37a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 128.º — Carácter público das reuniões plenárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 128.º — Carácter público das reuniões plenárias\n\n1 - As reuniões plenárias da Assembleia são públicas.\n\n2 - Não há lugares reservados, salvo os destinados a entidades representativas e aos representantes dos meios de comunicação social."
+  },
+  "68e5bba6f6cb1e5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 129.º — Reuniões públicas das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 129.º — Reuniões públicas das comissões\n\nAs reuniões das comissões são públicas, se estas assim o deliberarem."
+  },
+  "5c474c72fe84782a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 130.º — Diário da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 130.º — Diário da Assembleia Legislativa Regional\n\n1 - Do Diário da Assembleia Legislativa Regional dos Açores, neste Regimento designado por Diário, deve constar o relato fiel e completo de tudo o que ocorrer nas reuniões plenárias, nomeadamente:\n\na) Horas de abertura e de encerramento, nomes do Presidente, dos Secretários e dos deputados presentes à chamada e dos que entraram durante a reunião ou a ela faltaram;\n\nb) Menção de ter havido ou não reclamações sobre o Diário e das rectificações ou aditamentos admitidos;\n\nc) Menção de todo o expediente e menção ou transcrição das representações dirigidas à Assembleia, quando o Presidente assim o entender;\n\nd) Inserção na íntegra de todos os projectos ou propostas de diploma, propostas de alteração, textos provenientes das comissões, últimas redacções e informações ou explicações provenientes de qualquer departamento do Governo Regional;\n\ne) Inserção das declarações de renúncia ao mandato de quaisquer deputados e das deliberações sobre perda de mandato;\n\nf) Inserção de requerimentos enviados ao Presidente;\n\ng) Reprodução integral das discussões e intervenções produzidas na reunião;\n\nh) Resultado de quaisquer eleições ou votações e inserção das declarações de voto;\n\ni) Menção ou relato de quaisquer outros trabalhos, comunicações ou incidentes;\n\nj) Designação da matéria para a ordem do dia da reunião seguinte.\n\n2 - Podem ser publicados suplementos ao Diário."
+  },
+  "8bfb72f31192dea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 131.º — Original e aprovação do Diário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 131.º — Original e aprovação do Diário\n\n1 - O original Diário é elaborado pelos serviços competentes e para todos os efeitos serve de acta da reunião.\n\n2 - Na quarta reunião plenária subsequente à distribuição do Diário, satisfeitas as reclamações apresentadas, ou não as tendo havido, será o mesmo considerado aprovado e expressão autêntica do ocorrido na reunião a que respeitar."
+  },
+  "f8538198545b59e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 132.º — Elaboração e distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 132.º — Elaboração e distribuição\n\nIncumbe ao serviço competente da Assembleia, sob a direcção dos Secretários da Mesa, providenciar pela impressão e distribuição do Diário."
+  },
+  "6e58e4bc5c2c7cb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO V — Processo legislativo comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Processo legislativo comum"
+  },
+  "c6291d6805d9b6d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Iniciativa"
+  },
+  "6161fcd3323cbdfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 133.º — Poder de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 133.º — Poder de iniciativa\n\nA iniciativa de decreto legislativo regional compete aos deputados e ao Governo Regional."
+  },
+  "46ed76d34ef3a721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 134.º — Formas de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 134.º — Formas de iniciativa\n\n1 - A iniciativa originária de decreto legislativo regional toma a forma de projecto quando exercida pelos deputados e de proposta quando exercida pelo Governo Regional.\n\n2 - A iniciativa superveniente toma a forma de proposta de alteração."
+  },
+  "100aef227e613b70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 135.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 135.º — Limites\n\n1 - Não são admitidos projectos e propostas de decreto legislativo regional ou propostas de alteração que:\n\na) Infrinjam a Constituição, o Estatuto ou os princípios neles consignados;\n\nb) Não definam concretamente o sentido das modificações a introduzir na ordem legislativa.\n\n2 - Os projectos e as propostas de decreto legislativo regional definitivamente rejeitados não podem ser renovados na mesma sessão legislativa, salvo nova eleição da Assembleia."
+  },
+  "5ab8f45e9b44112d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 136.º — Renovação da iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 136.º — Renovação da iniciativa\n\n1 - Os projectos e as propostas de decreto legislativo regional não votados na sessão legislativa em que foram apresentados não carecem de ser renovados nas sessões legislativas seguintes.\n\n2 - O disposto no número anterior não se aplica nos seguintes casos:\n\na) Termo de legislatura ou dissolução da Assembleia;\n\nb) As propostas de decreto legislativo regional quando exonerado o Governo Regional."
+  },
+  "4c7d6a54b0e71631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 137.º — Cancelamento da iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 137.º — Cancelamento da iniciativa\n\n1 - Admitido qualquer projecto ou proposta de decreto legislativo regional, ou qualquer proposta de alteração, o seu ou os seus autores podem retirá-lo até ao termo da discussão.\n\n2 - Se outro deputado ou o Governo Regional adoptar como seu o projecto ou proposta que se pretende retirar, a iniciativa seguirá os termos do Regimento, como projecto ou proposta do adoptante."
+  },
+  "888a525e3feaf65c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 138.º — Requisitos formais dos projectos e propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 138.º — Requisitos formais dos projectos e propostas\n\n1 - Os projectos e propostas de decreto legislativo regional devem:\n\na) Ser apresentados por escrito;\n\nb) Ser redigidos sob a forma de artigos, eventualmente divididos em números e alíneas;\n\nc) Ter uma designação que traduza sinteticamente o seu objecto principal;\n\nd) Ser precedidos de uma breve justificação ou exposição de motivos.\n\n2 - Não são admitidos os projectos e propostas com preterição do prescrito nas alíneas a) e b).\n\n3 - A falta dos requisitos das alíneas c) e d) do n.º 1 implica a necessidade de suprimento no prazo de cinco dias."
+  },
+  "5ea7a3c891fb1725": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 139.º — Trâmites processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 139.º — Trâmites processuais\n\n1 - Os projectos e propostas de decreto legislativo regional são entregues na Mesa para efeitos de admissão pelo Presidente e publicação no Diário, nos termos do Regimento.\n\n2 - Encontrando-se a Assembleia em período legislativo, o Presidente deve comunicar ao autor ou ao primeiro signatário a decisão de admissão ou rejeição no prazo de quarenta e oito horas; fora deste caso, o prazo é de oito dias.\n\n3 - Os projectos e propostas de decreto legislativo regional e as propostas de alteração são registados e numerados pela ordem da sua apresentação."
+  },
+  "bb38a977638ec177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 140.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 140.º — Recurso\n\n1 - Admitido um projecto ou proposta de decreto legislativo regional e distribuído à comissão competente, o Presidente comunica o facto à Assembleia.\n\n2 - Até ao termo da segunda reunião subsequente, qualquer deputado pode recorrer para o Plenário, através de requerimento escrito e fundamentado:\n\na) Quanto à admissibilidade formal e material do projecto;\n\nb) Quanto à comissão competente.\n\n3 - Findo o prazo previsto no número anterior e havendo recurso, o Presidente inclui a apreciação do mesmo na primeira parte da ordem do dia da reunião seguinte."
+  },
+  "b9d94cf9651dd6b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 141.º — Natureza das propostas de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 141.º — Natureza das propostas de alteração\n\n1 - As propostas de alteração podem ter a natureza de propostas de emenda, substituição, aditamento ou eliminação.\n\n2 - Consideram-se propostas de emenda as que, conservando todo ou parte do texto em discussão, restrinjam, ampliem ou modifiquem o seu sentido.\n\n3 - Consideram-se propostas de substituição as que contenham disposição diversa daquela que tenha sido apresentada.\n\n4 - Consideram-se propostas de aditamento as que, conservando o texto primitivo e o seu sentido, contenham a adição de matéria nova.\n\n5 - Consideram-se propostas de eliminação as que se destinem a suprir a disposição em discussão."
+  },
+  "182ca1968b482dc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Exame em comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Exame em comissões"
+  },
+  "f6ca340e61a8b9c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 142.º — Envio de projectos e propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 142.º — Envio de projectos e propostas\n\n1 - Admitido qualquer projecto ou proposta de decreto legislativo regional, o Presidente envia o seu texto à comissão competente, para apreciação, salvo se em Conferência tal for julgado desnecessário.\n\n2 - O Presidente pode também enviar à comissão que se tenha pronunciado sobre o projecto ou proposta de decreto legislativo regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere."
+  },
+  "1de8a9330fdcb30b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 143.º — Apreciação de projectos ou propostas sobre legislação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 143.º — Apreciação de projectos ou propostas sobre legislação de trabalho\n\n1 - Tratando-se de legislação de trabalho a comissão competente promove, através do Presidente da Assembleia, a apreciação do projecto ou proposta pelas comissões de trabalhadores e associações sindicais, nos termos da Constituição.\n\n2 - No prazo que o Presidente fixar, as comissões de trabalhadores e associações sindicais podem enviar-lhe sugestões que entenderem convenientes e solicitar a audição de representantes seus pela comissão parlamentar que estiver a apreciar o assunto."
+  },
+  "dab05f20b15f5a8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 144.º — Parecer das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 144.º — Parecer das comissões\n\n1 - O parecer das comissões deve ser devidamente fundamentado e procurará habilitar o Plenário em extensão e profundidade com o máximo de elementos que permitam uma criteriosa apreciação do problema.\n\n2 - O parecer deve abordar especificamente as finalidades do diploma, pondo em relevo as necessidades a que visa ocorrer e bem assim as consequências directas que ele previsivelmente provocará.\n\n3 - O parecer deve igualmente pronunciar-se sobre o enquadramento jurídico do diploma, estudando-o no que respeita à sua conformidade com a Constituição e com o Estatuto e bem assim no contexto da ordem jurídica nacional e regional.\n\n4 - Os membros da comissão que votarem vencidos devem exprimir as suas razões de discordância em conformidade com a disciplina dos n.os 1, 2 e 3 deste artigo."
+  },
+  "1e02886e3c59057c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 145.º — Prazo de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 145.º — Prazo de apreciação\n\n1 - A comissão pronuncia-se no prazo estabelecido pelo Presidente da Assembleia, com o direito de recurso do autor ou dos autores para o Plenário, relativamente ao prazo.\n\n2 - Se nenhum prazo tiver sido estabelecido o parecer deve ser apresentado ao Presidente, em caso de projecto ou proposta de decreto legislativo regional, até ao 30.º dia, e, em caso de proposta de alteração, até ao 3.º dia posterior ao envio do texto à comissão.\n\n3 - A comissão pode pedir ao Presidente, em requerimento fundamentado, a prorrogação do prazo.\n\n4 - No caso de a comissão não apresentar o parecer no prazo inicial, ou no da prorrogação, o projecto ou proposta de decreto legislativo regional são submetidos, independentemente dele, à discussão do Plenário."
+  },
+  "4e83a1f254a9d3ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 146.º — Apreciação de projectos ou propostas sobre matéria idêntica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 146.º — Apreciação de projectos ou propostas sobre matéria idêntica\n\n1 - Se até metade do prazo estabelecido à comissão para emitir parecer forem enviados outro ou outros projectos ou propostas sobre a mesma matéria, a comissão deve fazer a sua apreciação conjunta, sem prejuízo da emissão de parecer em separado.\n\n2 - Não se verificando o condicionalismo previsto no número anterior, tem precedência na emissão de parecer o texto ou os textos que tiverem sido primeiramente recebidos."
+  },
+  "2c1d14e0124264b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 147.º — Sugestões de textos de substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 147.º — Sugestões de textos de substituição\n\n1 - A comissão pode sugerir ao Plenário a substituição por outro do texto do projecto ou da proposta, tanto na generalidade como na especialidade.\n\n2 - O texto de substituição é discutido na generalidade em conjunto com o texto do projecto ou proposta e, finda a discussão, procede-se à votação sucessiva dos textos pela ordem da sua apresentação."
+  },
+  "37d0b3e1fde67654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Discussão e votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Discussão e votação"
+  },
+  "ca5f62557c7e4f05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 148.º — Conhecimento prévio dos textos submetidos à discussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 148.º — Conhecimento prévio dos textos submetidos à discussão\n\nNenhum projecto ou proposta de decreto legislativo regional, proposta de resolução, ou parecer da comissão, pode ser discutido em reunião plenária sem ter sido publicado no Diário ou distribuído em folhas avulsas aos deputados, com a antecedência de, pelo menos, três dias, salvo se, quanto a este prazo, a Assembleia deliberar de modo diferente."
+  },
+  "c0e2a8550cb9133e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 149.º — Tempo de debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 149.º — Tempo de debate\n\n1 - Para discussão de cada projecto ou proposta e para reapreciação de diplomas ou recursos pode ser fixado na Conferência um tempo global, tendo em conta a sua natureza e importância.\n\n2 - Este tempo é distribuído proporcionalmente entre os grupos e representações parlamentares, em função do respectivo número de deputados.\n\n3 - A cada grupo e representação parlamentar é garantido um tempo mínimo de intervenção, em face de natureza e importância do assunto a discutir, que nunca pode ser inferior a dez minutos.\n\n4 - No início da discussão na generalidade o autor ou um dos autores dos projectos ou das propostas tem o direito de usar da palavra antes dos demais oradores inscritos.\n\n5 - O Governo e o autor da iniciativa em debate tem um tempo de intervenção igual ao do maior grupo parlamentar.\n\n6 - O uso da palavra para invocação do Regimento, perguntas à Mesa, requerimentos e recursos não é considerado nos tempos atribuídos.\n\n7 - Na falta de fixação do tempo global referido no n.º 1 observa-se o disposto no artigo 111.º e demais disposições reguladoras do uso da palavra e da discussão."
+  },
+  "8e273ae6b95073ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 150.º — Termo do debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 150.º — Termo do debate\n\n1 - Se o debate se efectuar nos termos do artigo 111.º, acaba quando não houver mais oradores inscritos, ou quando for aprovado, pela maioria dos deputados presentes, requerimento para que a matéria seja dada por discutida.\n\n2 - O Presidente declara encerrado o debate e anuncia imediatamente que vai proceder-se à votação relativa à matéria discutida."
+  },
+  "0b4d05b9b5540198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 151.º — Requisitos do requerimento para termo do debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 151.º — Requisitos do requerimento para termo do debate\n\nNão é admitido o requerimento previsto no artigo anterior enquanto não tiverem usado da palavra, pelo menos, no debate na generalidade três e no debate na especialidade dois dos oradores dos grupos ou representações parlamentares com deputados inscritos ou que queiram pronunciar-se."
+  },
+  "8f23673ffdf4683c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 152.º — Requerimentos de baixa à comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 152.º — Requerimentos de baixa à comissão\n\nAté ao anúncio da votação podem cinco deputados, pelo menos, requerer a baixa do texto a qualquer comissão para o efeito de nova apreciação no prazo que for designado."
+  },
+  "e0482e21a77354ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 153.º — Proibição do uso da palavra no período da votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 153.º — Proibição do uso da palavra no período da votação\n\nAnunciado o início da votação, nenhum deputado pode usar da palavra até à proclamação do resultado, excepto para apresentar requerimentos respeitantes ao processo da votação."
+  },
+  "bd7842ad755c4597": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 154.º — Discussão e votação na generalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 154.º — Discussão e votação na generalidade\n\n1 - A discussão na generalidade versa sobre os princípios e o sistema de cada projecto ou proposta de decreto legislativo regional.\n\n2 - A votação na generalidade versa sobre cada projecto ou proposta de decreto legislativo regional.\n\n3 - A Assembleia pode deliberar que a discussão e a votação incidam sobre partes de um projecto ou proposta cuja autonomia o justifique."
+  },
+  "13954d004db7fc0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 155.º — Pluralidade dos projectos ou propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 155.º — Pluralidade dos projectos ou propostas\n\nÉ admissível a aprovação, na generalidade, de vários projectos ou propostas com o mesmo objecto. Neste caso a Assembleia delibera também sobre aquele que serve de base à discussão e votação na especialidade."
+  },
+  "2e2099d2b9016961": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 156.º — Discussão e votação na especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 156.º — Discussão e votação na especialidade\n\n1 - A discussão na especialidade versa sobre cada artigo, podendo a Assembleia deliberar que se faça sobre mais de um artigo simultaneamente ou, com fundamento na complexidade da matéria ou das propostas de alteração apresentadas, que se faça por números.\n\n2 - A votação na especialidade versa sobre cada artigo, número ou alínea."
+  },
+  "14b727f7707cd2ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 157.º — Ordem de votação na especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 157.º — Ordem de votação na especialidade\n\n1 - A ordem de votação é a seguinte:\n\na) Proposta de eliminação;\n\nb) Proposta de substituição;\n\nc) Proposta de emenda;\n\nd) Texto discutido com as alterações eventualmente já aprovadas;\n\ne) Propostas de aditamento ao texto votado.\n\n2 - Quando houver duas ou mais propostas de alteração da mesma natureza, são submetidas à votação pela ordem da sua apresentação."
+  },
+  "c87f90e898f86a4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 158.º — Requerimento de adiamento da votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 158.º — Requerimento de adiamento da votação\n\nA requerimento de cinco deputados, a votação na especialidade de um ou mais artigos será adiada para a reunião plenária imediata, sem prejuízo da discussão e votação das disposições seguintes."
+  },
+  "1f2626cbd78fb448": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 159.º — Votação final global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 159.º — Votação final global\n\n1 - Finda a discussão e votação na especialidade, procede-se à votação final global.\n\n2 - A votação final global não é precedida de discussão, podendo cada grupo ou representação parlamentar produzir uma declaração de voto por tempo não superior a três minutos."
+  },
+  "387c617e7c55ffcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Redacção final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Redacção final"
+  },
+  "3280bac882d2eb40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 160.º — Competência, prazo e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 160.º — Competência, prazo e publicidade\n\n1 - A redacção final dos projectos e propostas aprovados incumbe à comissão competente, mas, no caso de nenhuma comissão se ter pronunciado sobre os mesmos, o Presidente da Assembleia pode designar uma para aquele efeito.\n\n2 - A comissão não pode modificar o pensamento legislativo, devendo limitar-se a aperfeiçoar a sistematização do texto e o seu estilo mediante deliberação sem votos contra.\n\n3 - A redacção final faz-se no prazo que a Assembleia ou o seu Presidente estabelecer ou, na falta de fixação, no prazo de cinco dias.\n\n4 - Concluída a elaboração do texto, este é publicado no Diário."
+  },
+  "a0c90afa43ff4870": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Segunda deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Segunda deliberação"
+  },
+  "04250c133b15d24e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 161.º — Reapreciação em comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 161.º — Reapreciação em comissão\n\n1 - Se o Ministro da República exercer o direito de veto, o diploma baixa à Comissão de Organização e Legislação.\n\n2 - Com o diploma baixam a mensagem do Ministro da República e quaisquer outros elementos que eventualmente sejam do conhecimento da Mesa.\n\n3 - O parecer a emitir pela Comissão abordará os pontos controvertidos e poderá recomendar a confirmação do diploma, alterações a introduzir-lhe ou a sua rejeição."
+  },
+  "cd6f3bded4450398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 162.º — Segunda deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 162.º — Segunda deliberação\n\n1 - A nova apreciação efectuar-se-á a contar do 10.º dia posterior à elaboração do parecer da Comissão, em reunião marcada pelo Presidente da Assembleia, por sua iniciativa ou a requerimento de, pelo menos, cinco deputados.\n\n2 - Na discussão na generalidade apenas intervém e um só vez o autor ou um dos autores do projecto ou proposta e um deputado por cada grupo ou representação parlamentar.\n\n3 - A votação na generalidade versa sobre a confirmação do decreto da Assembleia Legislativa Regional; a confirmação não exclui a possibilidade de alterações na especialidade.\n\n4 - Só haverá discussão na especialidade se até ao termo do debate na generalidade forem apresentadas propostas de alteração; neste caso, a votação incidirá apenas sobre os artigos objecto de propostas.\n\n5 - Não carece de voltar à Comissão, para efeito de redacção final, o texto que, na segunda deliberação, não sofrer alterações."
+  },
+  "cc58e2e117a673fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 163.º — Antepropostas de lei e resoluções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 163.º — Antepropostas de lei e resoluções\n\n1 - As disposições deste Regimento relativas ao processo legislativo são aplicáveis, com as indispensáveis adaptações, às antepropostas de lei.\n\n2 - As disposições referidas no n.º 1 aplicam-se igualmente à apreciação dos projectos e propostas de resolução que o Regimento e a Conferência não excluam daquela disciplina."
+  },
+  "2ef31c7b1a11bb7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO VI — Processos legislativos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Processos legislativos especiais"
+  },
+  "cb1c05f4174bff56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Processo de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Processo de urgência"
+  },
+  "09645149bd36528f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 164.º — Deliberação da urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 164.º — Deliberação da urgência\n\n1 - A requerimento de qualquer deputado ou a solicitação do Governo Regional, pode a Assembleia declarar a urgência de qualquer projecto ou proposta de decreto legislativo regional.\n\n2 - O pedido de urgência deve ser fundamentado.\n\n3 - A Assembleia delibera após debate, em que tem o direito de intervir apenas um dos requerentes e um representante de cada grupo ou representação parlamentar por período não superior a quinze minutos cada um."
+  },
+  "c69848a3d7e10108": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 165.º — Faculdades da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 165.º — Faculdades da Assembleia\n\nA Assembleia pode deliberar:\n\na) A dispensa de exame em comissão ou a redução do respectivo prazo;\n\nb) A redução do número de intervenções e da duração do uso da palavra dos deputados e do Governo Regional;\n\nc) A dispensa do envio à comissão para redacção final ou a redução do respectivo prazo."
+  },
+  "6526c08c8e2851b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 166.º — Regra supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 166.º — Regra supletiva\n\nSe a Assembleia nada determinar, o processo de urgência tem a tramitação seguinte:\n\na) O prazo para exame em comissão é de cinco dias;\n\nb) O número de intervenções e de duração do uso da palavra pelos deputados e pelo Governo é organizado pela Conferência nos termos do artigo 149.º;\n\nc) As propostas de alteração devem ser apresentadas até ao início da discussão na especialidade;\n\nd) Não haverá discussão na especialidade sobre os artigos relativamente aos quais não tenha havido propostas de alteração;\n\ne) O prazo para a redacção final será de dois dias."
+  },
+  "d7913ddbc1a3af56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Elaboração de propostas de alteração do Estatuto Político-Administrativo da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Elaboração de propostas de alteração do Estatuto Político-Administrativo da Região"
+  },
+  "b4ccb8e1bacef3ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 167.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 167.º — Iniciativa\n\n1 - A iniciativa para a introdução de alterações ao Estatuto Político-Administrativo da Região compete aos deputados.\n\n2 - Apresentada uma anteproposta, é a mesma publicada no Diário e distribuída em folhas avulsas pelos deputados."
+  },
+  "4682769f4a170f14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 168.º — Início do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 168.º — Início do processo\n\nNum prazo não inferior a cinco nem superior a 10 dias de funcionamento do Plenário após a tramitação referida no n.º 2 do artigo anterior, é marcada uma reunião da Assembleia, de cuja ordem do dia conste a discussão e votação sobre a oportunidade de se iniciar o processo de alteração do Estatuto."
+  },
+  "8848cdea6affb3f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 169.º — Aviso da abertura do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 169.º — Aviso da abertura do processo\n\n1 - Quando deliberado iniciar-se o processo de alteração do Estatuto, o Presidente anuncia que o mesmo está aberto e que podem ser apresentadas antepropostas durante o prazo de 60 dias a contar daquela deliberação.\n\n2 - Findo aquele prazo não pode ser recebida nenhuma outra anteproposta."
+  },
+  "651113539e23c653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 170.º — Comissão especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 170.º — Comissão especial\n\nDecorrido o prazo do n.º 1 do artigo anterior, é constituída pelo Plenário uma comissão especial, que, no prazo que lhe for fixado, emite o seu parecer devidamente fundamentado, sobre cada uma das antepropostas, devendo ainda sugerir ao Plenário a respectiva substituição por outro texto, tanto na generalidade como na especialidade."
+  },
+  "f5d2973a9254cd19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 171.º — Discussão das antepropostas e da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 171.º — Discussão das antepropostas e da proposta\n\n1 - A discussão das antepropostas e da proposta de substituição eventualmente apresentada só pode ter início decorridos 30 dias após a distribuição em folhas avulsas pelos deputados, dos trabalhos da comissão.\n\n2 - Durante a discussão na generalidade o tempo de uso da palavra de cada deputado ou membro do Governo não poderá exceder trinta minutos da primeira vez, vinte minutos da segunda e dez minutos nas restantes, mas o autor ou o conjunto de autores de cada anteproposta ou da proposta de substituição pode usar da palavra por uma hora, a primeira vez.\n\n3 - Durante a discussão na especialidade, o tempo máximo do uso da palavra por cada orador será de vinte minutos a primeira vez, de dez minutos a segunda e de cinco nas seguintes.\n\n4 - Na Conferência poderá, porém, decidir-se que se sigam as normas fixadas nos termos do artigo 148.º"
+  },
+  "980de0d05eddd0cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 172.º — Assinatura e envio da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 172.º — Assinatura e envio da proposta\n\nA proposta de alteração do Estatuto elaborada pela Assembleia Legislativa Regional é assinada pelo Presidente e enviada como proposta de lei ao Presidente da Assembleia da República."
+  },
+  "69cd6553ffe429ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 173.º — Apreciação da rejeição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 173.º — Apreciação da rejeição\n\nNo caso de a Assembleia da República rejeitar a proposta ou lhe introduzir alterações, é marcada pelo Presidente da Assembleia Legislativa Regional, por sua iniciativa, ou a requerimento de, pelo menos, cinco deputados, uma reunião plenária para apreciação e emissão de parecer."
+  },
+  "7761fc976623d2d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 174.º — Discussão das alterações sugeridas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 174.º — Discussão das alterações sugeridas\n\n1 - No início da reunião plenária referida no artigo anterior o Presidente apresenta à Assembleia os textos recebidos da Assembleia da República e declara aberta a discussão na generalidade.\n\n2 - Têm direito ao uso da palavra, por período não superior a quinze minutos, dois deputados de cada um dos partidos com assento na Assembleia, após o que se procede à votação sobre se o assunto deve baixar à comissão especial referida no artigo 170.º ou se a discussão deve continuar até à votação."
+  },
+  "d5b952a056a10381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 175.º — Intervenção da comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 175.º — Intervenção da comissão\n\nSe a Assembleia deliberar que o assunto baixe à comissão, indica o prazo em que esta se deve pronunciar, podendo também marcar a data da reunião plenária destinada ao início da discussão.\n\nNa discussão seguem-se as normas fixadas nos termos do artigo 171.º e na votação os termos gerais do processo legislativo."
+  },
+  "afc01aafc0d5315a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 176.º — Parecer da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 176.º — Parecer da Assembleia Legislativa Regional\n\n1 - O parecer que a Assembleia Legislativa Regional aprovar, em resolução, é assinado pelo Presidente e por ele enviado à Assembleia da República.\n\n2 - Esse parecer e acompanhado pelos números do Diário onde constem todos os elementos respeitantes ao assunto."
+  },
+  "8156f150b15b8839": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Iniciativa legislativa perante a Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Iniciativa legislativa perante a Assembleia da República"
+  },
+  "93b3735b36f9ad38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 177.º — Normas a seguir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 177.º — Normas a seguir\n\nPara o exercício da sua competência de iniciativa legislativa, a Assembleia Legislativa Regional, na elaboração da proposta a apresentar à Assembleia da República, segue as normas do processo legislativo comum."
+  },
+  "912f303fe50e4c6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 178.º — Remessa à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 178.º — Remessa à Assembleia da República\n\n1 - O texto aprovado na Assembleia Legislativa Regional é remetido, como proposta de lei, à Assembleia da República, acompanhado dos elementos resultantes da sua apreciação em comissão e do seu debate e votação em Plenário.\n\n2 - No caso de proposta de lei de autorização legislativa, deve ainda o texto aprovado ser acompanhado do anteprojecto de decreto legislativo regional a autorizar."
+  },
+  "90d65f46eb50e70a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 179.º — Acompanhamento da proposta de lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 179.º — Acompanhamento da proposta de lei\n\nA Assembleia pode deliberar enviar representantes à comissão que na Assembleia da República apreciar a proposta de lei."
+  },
+  "5e40debb76a15a1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO VII — Outros processos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — Outros processos especiais"
+  },
+  "3b197f3bb3fd0986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Apreciação do Programa do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Apreciação do Programa do Governo"
+  },
+  "67aec04401b93751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 180.º — Reunião da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 180.º — Reunião da Assembleia\n\n1 - A reunião da Assembleia para apresentação do Programa do Governo, nos termos do Estatuto Político-Administrativo, é fixada pelo Presidente da Assembleia, de acordo com o Presidente do Governo Regional.\n\n2 - Se o Plenário da Assembleia não se encontrar em funcionamento é obrigatoriamente convocado para o efeito pelo seu Presidente.\n\n3 - O debate não pode exceder cinco dias."
+  },
+  "23494bc7495cf984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 181.º — Apresentação do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 181.º — Apresentação do Programa\n\n1 - A apresentação do Programa do Governo é feita pelo Presidente do Governo Regional.\n\n2 - Finda a apresentação, há um período para pedidos de esclarecimento sobre a matéria da declaração de apresentação por deputados dos grupos e representações parlamentares."
+  },
+  "29ec8e046557d945": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 182.º — Debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 182.º — Debate\n\n1 - O debate sobre o Programa do Governo inicia-se finda a prestação dos esclarecimentos previstos no artigo anterior ou, a solicitação de qualquer deputado, no prazo máximo de quarenta e oito horas após a distribuição do texto do Programa.\n\n2 - O debate é organizado pela Conferência nos termos do artigo 149.º\n\n3 - O Presidente ordena as inscrições de modo a não usarem da palavra, na medida do possível, dois oradores seguidos de cada grupo ou representação parlamentar ou do Governo.\n\n4 - Durante o debate sobre o Programa do Governo as reuniões da Assembleia não têm período de antes da ordem do dia.\n\n5 - O debate termina com as intervenções de um deputado de cada grupo ou representação parlamentar e do Presidente do Governo, que o encerra."
+  },
+  "94116ec7bb4b2b5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 183.º — Votação do Programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 183.º — Votação do Programa\n\n1 - Até ao encerramento do debate, e sem prejuízo deste, pode qualquer grupo parlamentar apresentar uma moção de rejeição do Programa do Governo.\n\n2 - Encerrado o debate, procede-se, na mesma reunião e após o intervalo de uma hora, à votação das moções de rejeição que eventualmente tenham sido apresentadas e do Programa do Governo.\n\n3 - Até à votação as moções de rejeição podem ser retiradas.\n\n4 - Se for apresentada mais de uma moção de rejeição do Programa, a votação realiza-se pela ordem da sua apresentação, sem prejuízo da eventual não aprovação de qualquer delas.\n\n5 - A rejeição do Programa do Governo exige maioria absoluta dos deputados em efectividade de funções.\n\n6 - A aprovação do Programa do Governo é comunicada pelo Presidente da Assembleia ao Ministro da República e ao Presidente do Governo Regional.\n\n7 - No caso de ter sido aprovada alguma moção de rejeição, o Presidente da Assembleia comunica-o ao Ministro da República para os efeitos previstos no Estatuto Político-Administrativo, e bem assim ao Presidente do Governo Regional."
+  },
+  "3f5392bc7882135e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Apreciação dos planos de médio prazo e anual e do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Apreciação dos planos de médio prazo e anual e do Orçamento"
+  },
+  "5d72fbb712f6a3f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 184.º — Envio às comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 184.º — Envio às comissões\n\n1 - Recebidas na Assembleia as propostas de plano ou planos e a de orçamento, o Presidente envia-as à Comissão de Finanças e Planeamento, marcando prazo para apresentação do respectivo parecer fundamentado.\n\n2 - As propostas são igualmente remetidas a todas as outras comissões especializadas permanentes para efeitos de elaboração de parecer."
+  },
+  "b80e409a955f5ae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 185.º — Conhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 185.º — Conhecimento\n\n1 - O Presidente providencia no sentido de, imediatamente após a recepção, ser distribuído a cada um dos deputados um exemplar dos documentos referidos no artigo anterior.\n\n2 - Não é obrigatória a publicação desses documentos no Diário."
+  },
+  "d1af161c61d7c5a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 186.º — Exame pelas comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 186.º — Exame pelas comissões\n\n1 - As comissões enviam à Comissão de Finanças e Planeamento até oito dias antes do termo do prazo que a esta tenha sido fixado para emissão de parecer, relatório e parecer fundamentado sobre as propostas, nas áreas da respectiva competência, cabendo à Comissão de Organização e Legislação pronunciar-se sobre o enquadramento legal.\n\n2 - A Comissão de Finanças e Planeamento elabora o parecer final sobre as propostas, anexando os pareceres recebidos das outras comissões."
+  },
+  "c8f365a6ae94df2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 187.º — Início da discussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 187.º — Início da discussão\n\n1 - A apreciação e discussão em Plenário só poderá ter lugar cinco dias depois da publicação do parecer da comissão ou da distribuição aos deputados em folhas avulsas.\n\n2 - Em qualquer caso o parecer será publicado no Diário."
+  },
+  "52c87dd78e67ef4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 188.º — Discussão e votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 188.º — Discussão e votação\n\n1 - O debate inicia-se com uma intervenção do Governo e tem a duração máxima de três dias.\n\n2 - O debate é organizado pela Conferência nos termos do artigo 149.º\n\n3 - O Presidente ordena as inscrições de modo a não usarem da palavra, na medida do possível, dois oradores seguidos de cada grupo ou representação parlamentar ou do Governo.\n\n4 - Antes do encerramento do debate com uma intervenção do Presidente do Governo, cada grupo e representação parlamentar tem o direito de produzir uma intervenção sobre as propostas.\n\n5 - Durante o debate as reuniões não têm período de antes da ordem do dia."
+  },
+  "d37948b4f9e94ee0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Apreciação das contas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Apreciação das contas regionais"
+  },
+  "99996342f67b77b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 189.º — Exame em comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 189.º — Exame em comissão\n\nRecebidas as contas regionais na Assembleia, o Presidente envia-as à Comissão de Finanças e Planeamento para elaboração de parecer fundamentado no prazo que lhe é fixado."
+  },
+  "4c9c4b15c49e05e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 190.º — Conhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 190.º — Conhecimento\n\n1 - O Presidente providencia no sentido de, com a maior brevidade, ser distribuído a cada um dos deputados um exemplar das contas regionais.\n\n2 - Não é obrigatória a publicação do documento no Diário."
+  },
+  "6fb208161fadcf3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 191.º — Debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 191.º — Debate\n\n1 - O debate, observando-se o disposto no artigo 149.º, só poderá ter lugar cinco dias depois da publicação do parecer da comissão ou da distribuição aos deputados em folhas avulsas.\n\n2 - Em qualquer caso o parecer será publicado no Diário."
+  },
+  "0aff0b298492351a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 192.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 192.º — Votação\n\nFindo o debate proceder-se-á à votação das contas."
+  },
+  "729618b20e29112a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV"
+  },
+  "80129dea48c89a95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\nPedido de declaração de inconstitucionalidade ou ilegalidade"
+  },
+  "f327b03dcb3fc1b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 193.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 193.º — Iniciativa\n\nQualquer deputado pode apresentar um projecto de resolução solicitando ao Tribunal Constitucional declaração de inconstitucionalidade ou de ilegalidade nos termos previstos na Constituição e no Estatuto."
+  },
+  "bc0fa331a5afe68b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 194.º — Exame pela comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 194.º — Exame pela comissão\n\nRecebido o projecto de resolução, o Presidente da Assembleia envia o seu texto à Comissão de Organização e Legislação, marcando-lhe um prazo para entrega do seu parecer devidamente fundamentado."
+  },
+  "6ac5345fb9429767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 195.º — Discussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 195.º — Discussão\n\n1 - Só após decorridos cinco dias da publicação do parecer da comissão no Diário ou da sua distribuição em folhas avulsas aos deputados pode ter lugar a reunião do Plenário para discussão da resolução.\n\n2 - Na discussão observa-se o disposto no artigo 149.º"
+  },
+  "8156dc0c075fd9af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 196.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 196.º — Votação\n\nApós a discussão, pode proceder-se à votação ou deliberar-se que a votação se faça numa das três reuniões seguintes."
+  },
+  "850a5700152659bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 197.º — Remessa ao Tribunal Constitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 197.º — Remessa ao Tribunal Constitucional\n\nAprovada a resolução, o Presidente envia-a ao Tribunal Constitucional assinada e acompanhada dos elementos a ela relativos."
+  },
+  "13b823613b98c5a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Designação de titulares de cargos exteriores à Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Designação de titulares de cargos exteriores à Assembleia"
+  },
+  "2b4b2c3c78c2d02d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 198.º — Sistema de eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 198.º — Sistema de eleição\n\nOs titulares de cargos exteriores à Assembleia, por esta designados, são eleitos mediante a apresentação de listas uninominais."
+  },
+  "fa382adfba249f2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 199.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 199.º — Apresentação de candidaturas\n\n1 - Podem apresentar candidaturas deputados em número não inferior a 5 e não superior a 10.\n\n2 - A apresentação é feita perante o Presidente e é acompanhada de declaração de aceitação do candidato."
+  },
+  "d40cb3bcc24e8758": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 200.º — Sistema eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 200.º — Sistema eleitoral\n\n1 - É eleito o candidato que obtiver mais de metade dos votos validamente expressos.\n\n2 - Se nenhum dos candidatos obtiver esse número de votos, procede-se a segundo sufrágio, ao qual concorrem apenas os dois candidatos mais votados cuja candidatura não tenha sido retirada."
+  },
+  "c9727df5aaaa077c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Processo de orientação e fiscalização política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Processo de orientação e fiscalização política"
+  },
+  "e4d4a509f08e7a1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Voto de confiança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Voto de confiança"
+  },
+  "7fc98486f2ce1191": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 201.º — Reunião da Assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 201.º — Reunião da Assembleia\n\n1 - Se o Governo Regional, nos termos do Estatuto Político-Administrativo, solicitar à Assembleia Legislativa Regional a aprovação de um voto de confiança sobre qualquer assunto de relevante interesse para a Região ou sobre a sua actuação, a discussão inicia-se no terceiro dia parlamentar subsequente à apresentação do requerimento do voto de confiança ao Presidente da Assembleia.\n\n2 - O texto do requerimento do voto de confiança é distribuído aos deputados no dia da apresentação; se assim não for, a discussão faz-se no terceiro dia a contar dessa distribuição.\n\n3 - Fora do funcionamento efectivo do Plenário, o requerimento do Governo só determina a convocação extraordinária mediante prévia deliberação da Mesa."
+  },
+  "24b1e91f1cab780a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 202.º — Debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 202.º — Debate\n\n1 - O debate inicia-se por uma intervenção do Governo e tem a duração máxima de dois dias.\n\n2 - O debate é organizado pela Conferência nos termos do artigo 149.º\n\n3 - O Presidente ordena as inscrições de modo a não usarem da palavra, na medida do possível, dois oradores seguidos de cada grupo ou representação parlamentar ou do Governo.\n\n4 - O pedido de voto de confiança pode ser retirado, no todo ou em parte, pelo Governo Regional, até ao fim do debate.\n\n5 - Antes do encerramento do debate com uma intervenção do Presidente do Governo, cada grupo ou representação parlamentar tem o direito de produzir uma intervenção.\n\n6 - Durante o debate sobre o voto de confiança, as reuniões da Assembleia não têm período de antes da ordem do dia."
+  },
+  "4c0c5269def8287f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 203.º — Voto de confiança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 203.º — Voto de confiança\n\n1 - Encerrado o debate, procede-se, na mesma reunião e após o intervalo de uma hora, se requerido por qualquer grupo ou representação parlamentar, à votação da resolução sobre o pedido.\n\n2 - Se o voto não for aprovado, o facto será comunicado ao Ministro da República para efeitos do disposto no Estatuto Político-Administrativo, e bem assim ao Presidente do Governo Regional."
+  },
+  "e20566a2d2532cfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Moção de censura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Moção de censura"
+  },
+  "3b7238d5af655b5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 204.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 204.º — Iniciativa\n\n1 - Pode apresentar moção de censura ao Governo sobre a execução do seu Programa ou assunto relevante de interesse regional, nos termos do Estatuto Político-Administrativo, um quarto dos deputados em efecticidade de funções.\n\n2 - Recebida a moção de censura, o Presidente notifica imediatamente o Presidente do Governo Regional e providencia pela distribuição aos deputados do respectivo texto no dia da apresentação."
+  },
+  "0e809234fbf33615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 205.º — Debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 205.º — Debate\n\n1 - O debate inicia-se decorrida uma semana sobre a apresentação da moção de censura e não pode exceder dois dias.\n\n2 - O debate será aberto e encerrado pelo primeiro dos signatários da moção.\n\n3 - O Presidente do Governo Regional tem o direito de intervir imediatamente após e antes das intervenções previstas no número anterior.\n\n4 - O debate é organizado pela Conferência, nos termos do artigo 149.º\n\n5 - O Presidente ordena as inscrições de modo a não usarem da palavra, na medida do possível, dois oradores seguidos de cada grupo ou representação parlamentar ou do Governo.\n\n6 - A moção de censura pode ser retirada até ao termo do debate.\n\n7 - Durante o debate sobre a moção de censura, as reuniões da Assembleia não têm período de antes da ordem do dia."
+  },
+  "bc78d26ca481776a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 206.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 206.º — Votação\n\n1 - Encerrado o debate, procede-se, na mesma reunião e após uma hora de intervalo, se sugerida por qualquer grupo ou representação parlamentar, à votação.\n\n2 - Se a moção de censura não for aprovada, os seus signatários não podem apresentar outra durante a mesma sessão legislativa.\n\n3 - No caso da aprovação da moção de censura por maioria absoluta dos deputados em efectividade de funções, o Presidente da Assembleia comunica o facto ao Ministro da República para efeitos do disposto no Estatuto Político-Administrativo, e bem assim ao Presidente do Governo Regional."
+  },
+  "a98b3445cb5cecf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Perguntas ao Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Perguntas ao Governo"
+  },
+  "ec9fb895b99ef165": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 207.º — Reuniões para respostas do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 207.º — Reuniões para respostas do Governo Regional\n\n1 - A requerimento de cinco deputados, dirigido à Mesa, poderá haver duas reuniões plenárias no decurso de cada período legislativo para resposta, pelos membros do Governo Regional, às perguntas ou aos pedidos de esclarecimento formulados.\n\n2 - A iniciativa prevista no número anterior tem de ser exercida de forma a ser notificada aos grupos e representações parlamentares, para que possam exercer o direito previsto no artigo seguinte.\n\n3 - As diligências previstas neste artigo são efectuadas através do Presidente da Assembleia."
+  },
+  "a0d290430dc508ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 208.º — Formulação de perguntas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 208.º — Formulação de perguntas\n\n1 - Para os efeitos previstos no artigo anterior, as perguntas serão feitas por escrito e apresentadas na Mesa até 10 dias antes da reunião plenária a que o Governo Regional deve comparecer.\n\n2 - Cada pergunta deverá definir com rigor o seu objecto.\n\n3 - O Presidente da Assembleia manda publicar as perguntas no Diário e distribuir cópias a todos os grupos e representações parlamentares e delas dá imediato conhecimento ao Presidente do Governo Regional."
+  },
+  "f63506a57265c47e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 209.º — Respostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 209.º — Respostas\n\n1 - O Presidente da Assembleia dá conhecimento ao Plenário das diligências havidas junto do Presidente do Governo Regional até à reunião anterior àquela na qual estarão presentes os membros do Governo Regional.\n\n2 - As respostas do Governo Regional distribuem-se de acordo com os seguintes critérios:\n\na) Deputado de grupo ou representação parlamentar não representado no Governo, cinco perguntas;\n\nb) Deputado de grupo representado no Governo, três perguntas."
+  },
+  "dab07c9409cea530": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 210.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 210.º — Tramitação\n\n1 - Na reunião plenária da Assembleia o deputado interrogante procede à leitura da pergunta por tempo não superior a dois minutos.\n\n2 - O membro do Governo responde por tempo não superior a cinco minutos.\n\n3 - O deputado interrogante tem o direito de, imediatamente, pedir esclarecimento sobre a resposta, por tempo não superior a três minutos.\n\n4 - Querendo, o membro do Governo responde ao pedido de esclarecimento, por tempo não superior a três minutos.\n\n5 - Pode ser estabelecido o regime de tempo global previsto no artigo 149.º, com as necessárias adaptações."
+  },
+  "4140f37ee275c078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Debates sobre assuntos de interesse relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Debates sobre assuntos de interesse relevante"
+  },
+  "855239ae398762e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 211.º — Interpelação ao Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 211.º — Interpelação ao Governo\n\n1 - Um mínimo de cinco deputados pode provocar, por meio de interpelação ao Governo, a abertura de dois debates em cada sessão legislativa sobre assuntos de política geral.\n\n2 - O debate referido no número anterior inicia-se na primeira reunião plenária posterior ao período de oito dias contados desde a apresentação da interpelação ao Presidente da Assembleia."
+  },
+  "aad1a1914103ddee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 212.º — Debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 212.º — Debate\n\n1 - O debate e aberto com as intervenções de um dos deputados interpelantes e de um membro do Governo.\n\n2 - O debate não pode exceder duas reuniões plenárias e nele têm direito a intervir deputados de todos os grupos e representações parlamentares e membros do Governo, observando-se o disposto no artigo 149.º\n\n3 - O Presidente ordena as inscrições de modo a não usarem da palavra, na medida do possível, dois oradores seguidos de cada grupo ou representação parlamentar ou do Governo.\n\n4 - O debate é encerrado com as intevenções do Presidente do Governo Regional e de um dos deputados interpelantes.\n\n5 - Durante o debate, as reuniões da Assembleia não têm período de antes da ordem do dia."
+  },
+  "eaa62f80a6e6cda6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 213.º — Debate por iniciativa do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 213.º — Debate por iniciativa do Governo Regional\n\n1 - O Governo Regional pode tomar a iniciativa de promover um debate parlamentar sobre assunto de relevante interesse regional.\n\n2 - O debate é aberto com uma comunicação do Governo Regional, aplicando-se com as devidas adaptações o disposto nos artigos 211.º e 212.º"
+  },
+  "855c349f0a5bd4b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Parecer sobre consulta dos órgão de soberania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Parecer sobre consulta dos órgão de soberania"
+  },
+  "b15e7ce68b1a0354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 214.º — Audiência sobre a nomeação do Ministro da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 214.º — Audiência sobre a nomeação do Ministro da República\n\n1 - A Assembleia pronuncia-se sobre a nomeação do Ministro da República em reunião da Conferência, para o efeito convocada com uma antecedência mínima de três dias.\n\n2 - Da reunião é lavrada acta, na qual sucintamente se expressem as posições de todos os grupos e representações parlamentares."
+  },
+  "7bcda3f95b709f17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 215.º — Outras consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 215.º — Outras consultas\n\n1 - Recebida qualquer outra consulta nos termos do Estatuto Político-Administrativo, o Plenário da Assembleia delibera após prévia parecer da comissão competente em função da matéria.\n\n2 - São aplicáveis ao debate as regras do artigo 149.º\n\n3 - No caso de a deliberação do Plenário não poder ser tomada em tempo útil, a comissão competente exerce tais poderes por solicitação do Presidente da Assembleia e ao abrigo do disposto no Estatuto Político-Administrativo, providenciado para que aos grupos ou representações parlamentares que não tenham assento na comissão seja garantido o direito de se fazerem representar."
+  },
+  "17abf985748dea76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VIII — Disposições finais e transitórias"
+  },
+  "e0484ebc0c52f12d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Divulgação da actividade da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Divulgação da actividade da Assembleia Legislativa Regional"
+  },
+  "aca2c7cb445b595d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 216.º — Relatório da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 216.º — Relatório da actividade\n\n1 - No início de cada sessão legislativa, é editado, sob responsabilidade da Mesa, o relatório da actividade da Assembleia Legislativa Regional na sessão legislativa anterior.\n\n2 - Do relatório consta, designadamente, a descrição das iniciativas legislativas e de fiscalização apresentadas e respectivas tramitações, bem como a indicação dos demais actos praticados no exercício da competência da Assembleia.\n\n3 - A Conferência aprova, no início de cada sessão legislativa, sob proposta do Presidente, o plano que orientará a edição dos relatórios, não só quanto ao conteúdo como à forma."
+  },
+  "72de6a6677b0aaa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 217.º — Divulgação pública das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 217.º — Divulgação pública das actividades\n\n1 - Regularmente, sob responsabilidade da Mesa, serão tomadas iniciativas destinadas a promover a divulgação pública dos trabalhos realizados pela Assembleia, em Plenário e em comissão, de modo a torná-los conhecidos da população.\n\n2 - A Conferência aprova, sob proposta do Presidente, no início de cada sessão legislativa, o plano das diversas iniciativas de divulgação, e bem assim a respectiva periodicidade."
+  },
+  "775166c80440af86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disposições relativas ao Regimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disposições relativas ao Regimento"
+  },
+  "a1893133e4acabb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 218.º — Interpretação e integração de lacunas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 218.º — Interpretação e integração de lacunas\n\n1 - Compete à Mesa, com recurso para o Plenário interpretar o presente Regimento e integrar as lacunas.\n\n2 - A Comissão de Organização e Legislação é ouvida sempre que a Mesa julgue necessário.\n\n3 - As decisões da Mesa sobre interpretação e integração de lacunas do Regimento, quando escritas, são publicadas no Diário."
+  },
+  "cd24b71e94a8a5bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 219.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 219.º — Alterações\n\n1 - O presente Regimento pode ser alterado pela Assembleia Legislativa Regional por iniciativa de, pelo menos, cinco deputados.\n\n2 - As propostas de alteração devem observar as regras do n.º 1 do artigo 135.º e dos artigos 138.º e seguintes.\n\n3 - O Regimento, com as alterações inscritas no lugar próprio, é objecto de nova publicação, salvo se o Plenário resolver diversamente."
+  },
+  "4acfa8342bf4685e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 220.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 220.º — Disposições transitórias\n\n1 - Na sua primeira reunião após a entrada em vigor deste Regimento, o Plenário tomará a deliberação exigida pelo n.º 2 do artigo 53.º, após o que os grupos e representações parlamentares cumprirão com o disposto no n.º 3 do referido artigo 53.º; posteriormente, todas as comissões darão execução ao artigo 55.º do Regimento da Assembleia Legislativa Regional.\n\n2 - A Mesa providenciará para que, no decurso da IV Legislatura, sejam editados os relatórios mencionados no artigo 216.º, relativamente às legislaturas anteriores."
+  },
+  "6c730fd70a939751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 221.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 221.º — Entrada em vigor\n\nAs alterações ao Regimento entrarão em vigor imediamente após a sua publicação.\n\nAprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 26 de Junho de 1991.\n\nO Presidente da Assembleia Legislativa Regional dos Açores, José Guilherme Reis Leite."
+  },
+  "ea9ba0935190f7f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Renúncia do mandato",
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+   ],
+   "markdown": "###### Artigo 27.º — Renúncia do mandato\n\n1 - A declaração de renúncia do mandato é escrita e apresentada pelo deputado ao Presidente da Assembleia.\n\n2 - Não é dado andamento ao pedido de renúncia sem prévia comunicação no prazo de vinte e quatro horas a contar do recebimento daquela declaração, ao presidente do respectivo grupo parlamentar ou ao órgão competente do respectivo partido na Região.\n\n3 - Dentro de igual prazo pode o interessado, após o cumprimento do preceituado no número anterior, retirar o seu pedido de renúncia, mediante declaração apresentada nos termos do n.º 1.\n\n4 - Findo o prazo referido no número anterior e mantendo-se o pedido de renuncia, o Presidente da Assembleia declara, perante o Plenário, que a mesma se tornou efectiva.\n\n5 - Fora do funcionamento efectivo do Plenário, cada um dos prazos referidos nos números anteriores é de quarenta e oito horas, e a efectividade da renúncia será comunicada ao interessado, aos representantes dos grupos parlamentares ou ao órgão competente dos partidos.\n\n6 - Para efeitos de contagem dos prazos referidos nos n.os 2 a 5 do presente artigo, observar-se-á o disposto no Código de Processo Civil.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+  },
+  "2680fa1e9b8c62ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Período de antes da ordem do dia",
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+   ],
+   "markdown": "###### Artigo 93.º — Período de antes da ordem do dia\n\n1 - O período de antes da ordem do dia é destinado:\n\na) À leitura, pela Mesa, do expediente, bem como dos anúncios que o Regimento impuser;\n\nb) À emissão de votos de congratulação, saudação, protesto ou pesar propostos pela Mesa ou por algum deputado;\n\nc) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.\n\n2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora e meia, podendo ser prorrogado por mais uma hora, em cada reunião, desde que tal seja requerido por qualquer grupo ou representação parlamentar\n\n> Alterado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+  },
+  "52abeed386291372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 111.º — Uso da palavra nos debates",
+   "in_force_from": "1991-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+   ],
+   "markdown": "###### Artigo 111.º — Uso da palavra nos debates\n\n1 - Para participar nos debates sobre a matéria da ordem do dia, quer na generalidade, quer na especialidade, cada deputado ou membro do Governo pode usar da palavra duas vezes.\n\n2 - No período da ordem do dia, e durante a discussão na generalidade, o tempo do uso da palavra de cada deputado ou membro do Governo Regional não pode exceder vinte minutos na primeira vez e dez na segunda, mas o autor ou um dos autores do projecto ou proposta tem o direito de usar da palavra pela primeira vez antes dos demais oradores inscritos e por um período de trinta minutos.\n\n3 - Durante a discussão na especialidade o tempo máximo do uso da palavra por cada orador será de quinze minutos na primeira vez e cinco na segunda.\n\n4 - Aproximando-se o termo do tempo regimental, o deputado ou o membro do Governo Regional será advertido pelo Presidente para resumir as suas considerações.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30."
+  }
+ }
+}

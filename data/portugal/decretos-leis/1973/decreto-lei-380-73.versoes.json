@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:421824:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cbe184e4778096f5"
+   ]
+  },
+  {
+   "date": "1979-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:370049:por",
+     "title": "Decreto-Lei n.º 353/79",
+     "published": "1979-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/353-1979-370049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "0cc8abeafe2b294a",
+    "e90f6be3e55afa48",
+    "9d35d4eb22025130",
+    "7a3dbf02bbdf9acb",
+    "a671d9eb99370d3b",
+    "ce8c53a1ac89cc12"
+   ]
+  }
+ ],
+ "fragments": {
+  "cbe184e4778096f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nOs órgãos dirigentes das Universidades têm com frequência representado ao Governo no sentido de serem dotados de assessores jurídicos, cuja colaboração julgam indispensável para adequada resolução de numerosos problemas da gestão universitária.\n\nNa verdade, quer a elaboração de estudos e pareceres de natureza jurídica relativos a esta gestão, quer a instrução de inquéritos e outros procedimentos disciplinares exigem que um corpo de juristas apoie permanentemente os órgãos universitários, desenvolvendo actuações juridicamente correctas, a fim de que, nos estudos e nas questões surgidas, se encontrem as soluções mais justas e mais expeditas.\n\nAssim, sem prejuízo da sua futura integração no conjunto dos órgãos técnicos de apoio aos órgãos centrais das Universidades, são desde já criados serviços de assessoria jurídica para garantir a necessária especialização e sensibilidade aos problemas, permitindo ainda aliviar os docentes e os demais serviços de tarefas extraordinárias a que têm estado sujeitos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados.\n\nArt. 2.º - 1. Compete às assessorias jurídicas das Universidades:\n\na) A elaboração dos estudos e pareceres de natureza jurídica relativos à gestão das respectivas instituições;\n\nb) A instrução de inquéritos ou processos disciplinares ordenados pelos órgãos legalmente competentes;\n\nc) O desempenho de outras funções de natureza jurídica de interesse geral da Universidade ou específico de qualquer das respectivas faculdades, escolas ou institutos.\n\n2. A realização por cada assessoria jurídica de qualquer das actividades referidas no número anterior depende de determinação do reitor da Universidade ou do seu substituto legal.\n\nArt. 3.º - 1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.\n\n2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.\n\n3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.\n\n4. Ao assessor encarregado de dirigir e coordenar, sob a orientação do reitor, a actividade da assessoria de cada Universidade será atribuída a gratificação mensal de 1500$00.\n\nArt. 4.º - 1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.\n\n2. Os encargos resultantes da promulgação deste diploma serão, no ano corrente, satisfeitos pelas disponibilidades das verbas inscritas para pessoal nos orçamentos das Universidades.\n\nArt. 5.º O Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 11 de Julho de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "0cc8abeafe2b294a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nOs órgãos dirigentes das Universidades têm com frequência representado ao Governo no sentido de serem dotados de assessores jurídicos, cuja colaboração julgam indispensável para adequada resolução de numerosos problemas da gestão universitária.\n\nNa verdade, quer a elaboração de estudos e pareceres de natureza jurídica relativos a esta gestão, quer a instrução de inquéritos e outros procedimentos disciplinares exigem que um corpo de juristas apoie permanentemente os órgãos universitários, desenvolvendo actuações juridicamente correctas, a fim de que, nos estudos e nas questões surgidas, se encontrem as soluções mais justas e mais expeditas.\n\nAssim, sem prejuízo da sua futura integração no conjunto dos órgãos técnicos de apoio aos órgãos centrais das Universidades, são desde já criados serviços de assessoria jurídica para garantir a necessária especialização e sensibilidade aos problemas, permitindo ainda aliviar os docentes e os demais serviços de tarefas extraordinárias a que têm estado sujeitos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "e90f6be3e55afa48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada em cada Universidade uma assessoria jurídica destinada a prestar apoio aos respectivos órgãos de governo, bem como aos órgãos das faculdades, escolas ou institutos nela integrados."
+  },
+  "9d35d4eb22025130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Compete às assessorias jurídicas das Universidades:\n\na) A elaboração dos estudos e pareceres de natureza jurídica relativos à gestão das respectivas instituições;\n\nb) A instrução de inquéritos ou processos disciplinares ordenados pelos órgãos legalmente competentes;\n\nc) O desempenho de outras funções de natureza jurídica de interesse geral da Universidade ou específico de qualquer das respectivas faculdades, escolas ou institutos.\n\n2. A realização por cada assessoria jurídica de qualquer das actividades referidas no número anterior depende de determinação do reitor da Universidade ou do seu substituto legal."
+  },
+  "7a3dbf02bbdf9acb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1979-08-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 353/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1979-370049), publicado em 1979-08-30."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.\n\n2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.\n\n3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 353/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1979-370049), publicado em 1979-08-30."
+  },
+  "a671d9eb99370d3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Serão inscritas nos orçamentos das Universidades as verbas necessárias à cobertura dos encargos decorrentes da execução do presente diploma.\n\n2. Os encargos resultantes da promulgação deste diploma serão, no ano corrente, satisfeitos pelas disponibilidades das verbas inscritas para pessoal nos orçamentos das Universidades."
+  },
+  "ce8c53a1ac89cc12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Ministro da Educação Nacional expedirá, ouvidos os reitores das Universidades, as instruções necessárias para o funcionamento dos serviços de assessoria criados pelo presente diploma.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 11 de Julho de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

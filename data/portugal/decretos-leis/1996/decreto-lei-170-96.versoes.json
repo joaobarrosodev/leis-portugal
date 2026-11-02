@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219367:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4d7ca0ef0a01dac3",
+    "eb6028c8611ab6dd",
+    "a9787417df162ed0"
+   ]
+  },
+  {
+   "date": "2003-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:656107:por",
+     "title": "Lei n.º 37/2003",
+     "published": "2003-08-22",
+     "dre_path": "/dr/detalhe/lei/37-2003-656107"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "4d7ca0ef0a01dac3",
+    "a40854dec61d993e",
+    "a9787417df162ed0"
+   ]
+  }
+ ],
+ "fragments": {
+  "4d7ca0ef0a01dac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro\n\nCom o presente diploma transferem-se para as universidades poderes cuja permanência na esfera de competência do Governo se tem revelado desconforme com os parâmetros balizadores da autonomia consagrada na Lei de Autonomia das Universidades ([Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro).\n\nAproveita-se ainda o ensejo para, em simultâneo com as revogações consequentes de tal transferência, e com vista, sobretudo, à eliminação de dúvidas suscitadas pela fórmula genérica utilizada no corpo do artigo 34.º daquela lei, também se proceder à revogação expressa de outras normas legais, nomeadamente daquelas cuja vigência na ordem jurídica se entende prejudicada pela entrada em vigor da mesma lei.\n\nFoi ouvido o Conselho de Reitores das Universidades Portuguesas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "eb6028c8611ab6dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Poderes transferidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Poderes transferidos\n\nCompete a cada universidade, pelo órgão e nos demais termos constantes dos respectivos estatutos:\n\na) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;\n\nb) Definir o regime de prescrições a praticar relativamente ao direito à matrícula e inscrição nos cursos nela ministrados;\n\nc) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício."
+  },
+  "a9787417df162ed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Normas revogatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Normas revogatórias\n\n1 - São revogados:\n\na) Os artigos 76.º a 86.º do Estatuto da Instrução Universitária, aprovado pelo [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 2 de Agosto de 1930, sem prejuízo do disposto no n.º 2 deste artigo;\n\nb) O [Decreto-Lei n.º 46481](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46481-1965-292546), de 11 de Agosto de 1965;\n\nc) O [Decreto-Lei n.º 51/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1977-141402), de 16 de Fevereiro;\n\nd) O [Decreto-Lei n.º 289/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1986-220127), de 8 de Setembro;\n\ne) O [Decreto-Lei n.º 384/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1986-220897), de 15 de Novembro;\n\nf) O [Decreto-Lei n.º 44/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1987-663288), de 28 de Janeiro;\n\ng) O [Decreto-Lei n.º 105/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1987-662358), de 6 de Março;\n\nh) O [Decreto-Lei n.º 293/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1990-557439), de 21 de Setembro.\n\n2 - Os artigos referidos na alínea a) do n.º 1 cessarão a sua vigência, relativamente a cada universidade, logo que se mostre regulada, por cada uma, a matéria a que se refere a alínea a) do n.º 1 do artigo 1.º\n\nVisto e aprovado em Conselho de Ministros de 14 de Agosto de 1996. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.\n\nPromulgado em 10 de Setembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Setembro de 1996.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "a40854dec61d993e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Poderes transferidos",
+   "in_force_from": "2003-08-22",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), publicado em 2003-08-22."
+   ],
+   "markdown": "###### Artigo 1.º — Poderes transferidos\n\nCompete a cada universidade, pelo órgão e nos demais termos constantes dos respectivos estatutos:\n\na) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;\n\nb) (Revogada.)\n\nc) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício.\n\n> Alterado pelo/a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), publicado em 2003-08-22."
+  }
+ }
+}

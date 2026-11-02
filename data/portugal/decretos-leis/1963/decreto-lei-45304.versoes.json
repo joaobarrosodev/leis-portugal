@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:687620:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e7a199ddf54e52e6"
+   ]
+  },
+  {
+   "date": "1981-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:566998:por",
+     "title": "Decreto-Lei n.º 354/81",
+     "published": "1981-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/354-1981-566998"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "a52c9d6235621b54",
+    "cb4c7dcda6e248cd",
+    "47c08b87167be6e7",
+    "de451863b90e2dbd",
+    "fc9ed7a04aee47bf",
+    "1395a3c5d94a3468",
+    "90cc9cb29c64441f",
+    "e2e0044aa76b15da",
+    "b0802123729819ca",
+    "78d52137c4206ff0",
+    "3554c351ee19f6cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "e7a199ddf54e52e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelos Decretos-Leis n.os 42881, de 22 de Março de 1960, e 43833, de 29 de Julho de 1961, foram completadas as disposições do [Decreto-Lei n.º 41881](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41881-1958-338249), de 26 de Setembro de 1958, que estabeleceu as bases para a reforma do ensino da Escola Naval, relativamente à admissão de professores civis para a regência de cadeiras e aulas práticas de carácter académico;\n\nTendo a experiência, desde então colhida, levado a reconhecer a necessidade de se reajustar o sistema estabelecido de modo a tornar possível a nomeação definitiva dos professores civis após um curto tempo de nomeação provisória, à semelhança do que se encontra já estabelecido para a Academia Militar pelo [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959;\n\nConsiderando a conveniência de reunir num só diploma as disposições relativas aos professores civis da Escola Naval;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:\n\nArtigo 1.º A admissão de professores civis para a regência de cadeiras e aulas práticas de carácter académico da Escola Naval, com excepção dos casos previstos no artigo 7.º, é feita, com carácter provisório, por contrato com a duração de dois anos, prorrogável por igual período de tempo mediante despacho do Ministro da Marinha sob proposta do director e 1.º comandante, ouvido o conselho escolar. Findo o segundo período do contrato, é a nomeação convertida em definitiva, se assim for proposto pelo director e 1.º comandante, com base em voto favorável de pelo menos dois terços dos professores efectivos reunidos em conselho escolar.\n\nArt. 2.º A regência das cadeiras e aulas práticas de que trata o artigo anterior é atribuída de preferência ao pessoal docente que tiver a seu cargo a regência das disciplinas equivalentes nas Universidades de Lisboa, mediante autorização do Ministro da Educação Nacional.\n\nArt. 3.º Para efeitos de vencimentos, os professores civis que não acumulem as suas funções na Escola Naval com outras funções públicas estranhas à mesma são equiparados a capitão-de-mar-e-guerra da classe de marinha e têm, além disso, direito à gratificação escolar estabelecida para os professores militares da mesma Escola.\n\n§ 1.º Quando os professores civis ministrem apenas aulas práticas, a equiparação, para os efeitos constantes do corpo deste artigo, é a de capitão-de-fragata da classe de marinha, sendo a gratificação escolar a da alínea d) do n.º 5 do artigo 2.º do [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939.\n\n§ 2.º As acumulações do ensino das cadeiras de diferentes grupos ou os desdobramentos em turmas que impliquem excesso do número de horas de lição fixado dão direito, tanto para as aulas teóricas como para as aulas práticas, ao abono das importâncias atribuídas a título de acumulação de regências, não podendo, contudo, ser abonado a cada professor mais do que a regência de duas cadeiras ou desdobramentos.\n\nArt. 4.º Aos professores civis que, cumulativamente, desempenhem outras funções públicas estranhas ao serviço da Escola Naval é atribuída uma gratificação igual à estabelecida para a acumulação de regências nas Faculdades, acrescida de 50 por cento do seu valor pela regência de cada cadeira ou aula prática, até ao limite de duas regências.\n\nArt. 5.º Os professores civis de que tratam os artigos anteriores são exonerados:\n\na) A seu pedido;\n\nb) Quando, terminado o primeiro período de nomeação provisória, não seja prorrogado o respectivo contrato ou, terminado o segundo, não seja convertida em definitiva a sua nomeação;\n\nc) Quando, por motivos disciplinares ou morais, seja proposta a sua exoneração pelo director e 1.º comandante, ouvido o conselho escolar.\n\nArt. 6.º Em cada período de dois anos e no termo do exercício das respectivas funções é elaborada pelo director e 1.º comandante, ouvido o director da instrução, uma apreciação de cada professor civil, que será enviada ao Ministério da Educação Nacional.\n\nArt. 7.º Os professores de línguas estrangeiras são contratados anualmente pelo director e 1.º comandante da Escola Naval, com a aprovação do Ministro da Marinha, devendo a respectiva remuneração ser fixada por despacho daquele Ministro, com o acordo do Ministro das Finanças, consoante o número de horas semanais de lições.\n\nArt. 8.º Aos professores civis da Escola Naval pode ser autorizado, pelo Ministro da Marinha, o abono de um subsídio para alimentação, em condições idênticas às fixadas para os professores militares.\n\nArt. 9.º Aos actuais professores civis dos 1.º e 2.º grupos de cadeiras da Escola Naval é-lhes contado todo o tempo de serviço prestado na mesma Escola para efeitos de aplicação do disposto neste diploma.\n\nArt. 10.º São revogados os Decretos-Leis n.os 42881, de 22 de Março de 1960, e 43833, de 29 de Julho de 1961.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez."
+  },
+  "a52c9d6235621b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelos Decretos-Leis n.os 42881, de 22 de Março de 1960, e 43833, de 29 de Julho de 1961, foram completadas as disposições do [Decreto-Lei n.º 41881](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41881-1958-338249), de 26 de Setembro de 1958, que estabeleceu as bases para a reforma do ensino da Escola Naval, relativamente à admissão de professores civis para a regência de cadeiras e aulas práticas de carácter académico;\n\nTendo a experiência, desde então colhida, levado a reconhecer a necessidade de se reajustar o sistema estabelecido de modo a tornar possível a nomeação definitiva dos professores civis após um curto tempo de nomeação provisória, à semelhança do que se encontra já estabelecido para a Academia Militar pelo [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959;\n\nConsiderando a conveniência de reunir num só diploma as disposições relativas aos professores civis da Escola Naval;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:"
+  },
+  "cb4c7dcda6e248cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA admissão de professores civis para a regência de cadeiras e aulas práticas de carácter académico da Escola Naval, com excepção dos casos previstos no artigo 7.º, é feita, com carácter provisório, por contrato com a duração de dois anos, prorrogável por igual período de tempo mediante despacho do Ministro da Marinha sob proposta do director e 1.º comandante, ouvido o conselho escolar. Findo o segundo período do contrato, é a nomeação convertida em definitiva, se assim for proposto pelo director e 1.º comandante, com base em voto favorável de pelo menos dois terços dos professores efectivos reunidos em conselho escolar."
+  },
+  "47c08b87167be6e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA regência das cadeiras e aulas práticas de que trata o artigo anterior é atribuída de preferência ao pessoal docente que tiver a seu cargo a regência das disciplinas equivalentes nas Universidades de Lisboa, mediante autorização do Ministro da Educação Nacional."
+  },
+  "de451863b90e2dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara efeitos de vencimentos, os professores civis que não acumulem as suas funções na Escola Naval com outras funções públicas estranhas à mesma são equiparados a capitão-de-mar-e-guerra da classe de marinha e têm, além disso, direito à gratificação escolar estabelecida para os professores militares da mesma Escola.\n\n§ 1.º Quando os professores civis ministrem apenas aulas práticas, a equiparação, para os efeitos constantes do corpo deste artigo, é a de capitão-de-fragata da classe de marinha, sendo a gratificação escolar a da alínea d) do n.º 5 do artigo 2.º do [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939.\n\n§ 2.º As acumulações do ensino das cadeiras de diferentes grupos ou os desdobramentos em turmas que impliquem excesso do número de horas de lição fixado dão direito, tanto para as aulas teóricas como para as aulas práticas, ao abono das importâncias atribuídas a título de acumulação de regências, não podendo, contudo, ser abonado a cada professor mais do que a regência de duas cadeiras ou desdobramentos."
+  },
+  "fc9ed7a04aee47bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1981-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 354/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1981-566998), publicado em 1981-12-30."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 354/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1981-566998), publicado em 1981-12-30."
+  },
+  "1395a3c5d94a3468": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs professores civis de que tratam os artigos anteriores são exonerados:\n\na) A seu pedido;\n\nb) Quando, terminado o primeiro período de nomeação provisória, não seja prorrogado o respectivo contrato ou, terminado o segundo, não seja convertida em definitiva a sua nomeação;\n\nc) Quando, por motivos disciplinares ou morais, seja proposta a sua exoneração pelo director e 1.º comandante, ouvido o conselho escolar."
+  },
+  "90cc9cb29c64441f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm cada período de dois anos e no termo do exercício das respectivas funções é elaborada pelo director e 1.º comandante, ouvido o director da instrução, uma apreciação de cada professor civil, que será enviada ao Ministério da Educação Nacional."
+  },
+  "e2e0044aa76b15da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs professores de línguas estrangeiras são contratados anualmente pelo director e 1.º comandante da Escola Naval, com a aprovação do Ministro da Marinha, devendo a respectiva remuneração ser fixada por despacho daquele Ministro, com o acordo do Ministro das Finanças, consoante o número de horas semanais de lições."
+  },
+  "b0802123729819ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAos professores civis da Escola Naval pode ser autorizado, pelo Ministro da Marinha, o abono de um subsídio para alimentação, em condições idênticas às fixadas para os professores militares."
+  },
+  "78d52137c4206ff0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAos actuais professores civis dos 1.º e 2.º grupos de cadeiras da Escola Naval é-lhes contado todo o tempo de serviço prestado na mesma Escola para efeitos de aplicação do disposto neste diploma."
+  },
+  "3554c351ee19f6cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSão revogados os Decretos-Leis n.os 42881, de 22 de Março de 1960, e 43833, de 29 de Julho de 1961.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez."
+  }
+ }
+}

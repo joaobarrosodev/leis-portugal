@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-03-22'
+version_history:
+  file: decreto-regulamentar-regional-10-94-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-03-22'
+    amending: pt:dre:144860:por
+    amending_title: Decreto Regulamentar Regional n.º 2/95/M; Decreto Regulamentar Regional n.º 4/98/M
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/10/1994/10/03/m/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:45:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    2/95/M; Decreto Regulamentar Regional n.º 4/98/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1994/decreto-regulamentar-regional-10-94-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,13 +142,21 @@ Nestes termos:
 
 O Governo Regional da Madeira decreta, ao abrigo da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), 5 de Junho, o seguinte:
 
-Artigo 1.º A execução do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, nos termos do respectivo artigo 41.º, compete na Região Autónoma de Madeira aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido nos artigos seguintes deste diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI), da Secretaria Regional da Economia e Cooperação Externa.
+A execução do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, nos termos do respectivo artigo 41.º, compete na Região Autónoma de Madeira aos diversos órgãos e serviços do Governo Regional, de acordo com o estabelecido nos artigos seguintes deste diploma.
 
-2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do citado [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641) a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do capítulo I do mencionado diploma.
+###### Artigo 2.º
 
-Art. 3.º No âmbito do presente diploma, compete ainda ao SAPMEI:
+1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do Decreto-Lei n.º 184/94, de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI) e às entidades que, por despacho do Secretário Regional de Economia e Cooperação Externa, venham a ser designadas para o efeito.
+
+2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do Decreto-Lei n.º 184/94, de 1 de Julho, a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do mesmo diploma.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 2/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1995-144860) e [Decreto Regulamentar Regional n.º 4/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1998-197115), publicado em 1998-03-21.
+
+###### Artigo 3.º
+
+No âmbito do presente diploma, compete ainda ao SAPMEI:
 
 a) Avaliar a relevância comercial dos projectos, bem como a sua adequação aos objectivos do PROCOM;
 
@@ -141,7 +164,9 @@ b) Determinar o valor do apoio financeiro a conceder;
 
 c) Submeter à comissão de avaliação a proposta relativa a cada processo de candidatura para os projectos a que se referem os subcapítulos I, II, III e IV do aludido [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641).
 
-Art. 4.º Incumbe às instituições de crédito remeter ao SAPMEI:
+###### Artigo 4.º
+
+Incumbe às instituições de crédito remeter ao SAPMEI:
 
 a) Os resultados da instrução técnica efectuada nos termos do n.º 2 do artigo 2.º;
 
@@ -149,17 +174,29 @@ b) Mensalmente a lista dos pagamentos efectuados e dos respectivos documentos ju
 
 c) Os relatórios finais dos investimentos concluídos.
 
-Art. 5.º É da competência da Secretaria Regional das Finanças a realização dos pagamentos de incentivos a que se refere o presente diploma.
+###### Artigo 5.º
 
-Art. 6.º Após a instrução dos processos de candidatura, ao nível regional, deverão estes ser submetidos ao gestor da intervenção operacional comércio e serviços para apreciação no âmbito da comissão de avaliação.
+É da competência da Secretaria Regional das Finanças a realização dos pagamentos de incentivos a que se refere o presente diploma.
 
-Art. 7.º A fiscalização e acompanhamento das operações efectuadas na Região Autónoma da Madeira são exercidas pelo SAPMEI e pelas instituições de crédito no âmbito das respectivas competências, a quem incumbe efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados, sem prejuízo das competências próprias das demais entidades envolvidas no sistema.
+###### Artigo 6.º
 
-Art. 8.º Da regulamentação regional para as operações de controlo será dado pelos organismos competentes da Região Autónoma da Madeira prévio conhecimento ao gestor da intervenção operacional comércio e serviços.
+Após a instrução dos processos de candidatura, ao nível regional, deverão estes ser submetidos ao gestor da intervenção operacional comércio e serviços para apreciação no âmbito da comissão de avaliação.
 
-Art. 9.º No final de cada semestre deverá o SAPMEI apresentar ao gestor da intervenção operacional comércio e serviços um relatório circunstanciado sobre as acções de controlo levadas a cabo nesta Região Autónoma.
+###### Artigo 7.º
 
-Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+A fiscalização e acompanhamento das operações efectuadas na Região Autónoma da Madeira são exercidas pelo SAPMEI e pelas instituições de crédito no âmbito das respectivas competências, a quem incumbe efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados, sem prejuízo das competências próprias das demais entidades envolvidas no sistema.
+
+###### Artigo 8.º
+
+Da regulamentação regional para as operações de controlo será dado pelos organismos competentes da Região Autónoma da Madeira prévio conhecimento ao gestor da intervenção operacional comércio e serviços.
+
+###### Artigo 9.º
+
+No final de cada semestre deverá o SAPMEI apresentar ao gestor da intervenção operacional comércio e serviços um relatório circunstanciado sobre as acções de controlo levadas a cabo nesta Região Autónoma.
+
+###### Artigo 10.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de Setembro de 1994.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-17'
+version_history:
+  file: decreto-legislativo-regional-22-96-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-17'
+    amending: pt:dre:417403:por
+    amending_title: Decreto Legislativo Regional n.º 25/97/A
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/22/1996/08/09/a/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:18:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    25/97/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1996/decreto-legislativo-regional-22-96-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,11 +148,17 @@ O presente diploma visa estabelecer o sistema de apoio excepcional a conceder a 
 
 ###### Artigo 3.º — Natureza e valor do apoio financeiro
 
-1 - O apoio a conceder no âmbito deste diploma consiste no pagamento de 90% dos juros devidos por crédito bancário, até ao limite de 40000 contos.
+1 - O apoio a conceder no âmbito deste diploma consiste no:
 
-2 - O prazo máximo do apoio previsto não poderá exceder o período de 10 anos, devendo o clube proceder à amortização integral do capital em dívida durante esse período.
+a) Pagamento à banca de 40% do capital em dívida, tendo esta como limite 40000 contos;
+
+b) Pagamento de 90% dos juros do restante capital.
+
+2 - O apoio previsto na alínea b) do número anterior não poderá exceder o período de seis anos, prazo dentro do qual o clube deverá proceder à amortização integral à banca do capital em dívida.
 
 3 - As condições do apoio previsto nos números anteriores serão objecto de protocolo a celebrar entre a Secretaria Regional das Finanças, Planeamento e Administração Pública, a Secretaria Regional da Educação e Cultura, as instituições de crédito e o clube desportivo beneficiário.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1997-417403), publicado em 1997-12-17.
 
 ###### Artigo 4.º — Condições de acesso
 

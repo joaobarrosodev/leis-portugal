@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-319-a-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345600:por
+    amending_title: Decreto-Lei n.º 98/2014
+    changes:
+    - Revoga Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/319-a/2001/12/10/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:28:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 98/2014. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-319-a-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,35 +202,39 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º
 
-1 - O sistema poderá ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
+(Revogado.)
 
-2 - O interesse público referido no número anterior é reconhecido por despacho do Ministro do Ambiente e do Ordenamento do Território, sob proposta da sociedade concessionária do sistema e ouvidos os municípios referidos no artigo anterior.
+> Revogado pelo/a [Decreto-Lei n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600), publicado em 2014-07-02.
 
 ###### Artigo 3.º
 
-1 - O exclusivo da exploração e gestão do sistema é adjudicado, em regime de concessão, por um prazo de 25 anos, à Águas do Zêzere e Côa, S. A., constituída pelo [Decreto-Lei n.º 121/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2000-300836), de 4 de Julho.
+1 - A exploração e gestão do sistema multimunicipal da Cova da Beira é atribuída em regime de concessão exclusiva à RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S.A., até 31 de dezembro de 2034.
 
-2 - A atribuição opera-se mediante celebração do contrato de concessão referido no artigo 5.º
+2 - (Revogado.)
 
-3 - A exploração e a gestão referidas no n.º 1 abrangem a concepção e a construção das obras e equipamentos, bem como a sua exploração, reparação, renovação e manutenção.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
-1 - A concessionária instalará os equipamentos e implementará os processos que se revelem necessários para o bom funcionamento do sistema e que decorram do contrato de concessão.
+1 - (Revogado.)
 
-2 - O sistema terá a configuração constante do projecto global previsto no contrato de concessão e poderá ser desenvolvido por fases, com as adaptações técnicas que o seu desenvolvimento aconselhar.
+2 - (Revogado.)
 
-3 - As tarifas a cobrar aos utilizadores serão aprovadas pelo concedente, após emissão de parecer do Instituto Regulador de Águas e Resíduos.
+3 - (Revogado.)
 
-4 - O investimento a cargo da concessionária será objecto de remuneração adequada, nos termos a fixar no contrato de concessão, ponderando a sua repercussão nas tarifas.
+4 - (Revogado.)
 
-5 - A concessão a que o presente diploma se refere rege-se por este, pela [Lei n.º 88-A/97](https://diariodarepublica.pt/dr/detalhe/lei/88-a-1997-243731), de 25 de Julho, pelas disposições aplicáveis dos Decretos-Leis n.os [379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, e [294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, pelo respectivo contrato e, de um modo geral, pelas disposições legais e regulamentares respeitantes às actividades compreendidas no seu objecto.
+5 - A concessão referida no n.º 1 do artigo anterior rege-se pelo presente decreto-lei, pela Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 de abril, e 35/2013, de 11 de junho, pelas disposições aplicáveis do Decreto-Lei n.º 92/2013, de 11 de julho, pelas bases que a regem e demais legislação aplicável à atividade concessionada e pelo respetivo contrato.
+
+> Alterado pelo/a [Decreto-Lei n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600), publicado em 2014-07-02.
 
 ###### Artigo 5.º
 
-1 - No contrato de concessão outorga, em representação do Estado, o Ministro do Ambiente e do Ordenamento do Território.
+(Revogado.)
 
-2 - À data da celebração do contrato de concessão deve encontrar-se constituída a caução para garantia do cumprimento dos deveres contratuais emergentes da concessão, no valor de 50000000$00.
+> Revogado pelo/a [Decreto-Lei n.º 98/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 

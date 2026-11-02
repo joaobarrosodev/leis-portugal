@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-01-26'
+version_history:
+  file: decreto-lei-19-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-02-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-26'
+    amending: pt:dre:248501:por
+    amending_title: Decreto-Lei n.º 14/2008
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/19/2003/02/03/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:38:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 14/2008. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-19-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,13 +177,17 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 O presente decreto-lei tem por objecto a alteração parcial do [Decreto-Lei n.º 364/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1999-570108), de 17 de Setembro, estabelecendo outras obrigações à IMOCAPITAL, SGPS, S. A., em substituição das previstas nos artigos 26.º e 27.º do caderno de encargos aprovado em anexo ao referido decreto-lei.
 
-###### Artigo 2.º — Nova unidade fabril
+###### Artigo 2.º — Novo investimento industrial
 
-1 - A IMOCAPITAL, SGPS, S. A., fica obrigada a cumprir, através de sociedade que com ela se encontre em relação de domínio, a obrigação de construir e instalar, com todos os equipamentos necessários, uma nova unidade fabril destinada à indústria de papel reciclado para a indústria de embalagem, com uma capacidade de produção mínima de 150000 t por ano, realizando para o efeito um investimento global de (euro) 125000000.
+1 - A IMOCAPITAL, SGPS, S. A., fica obrigada a cumprir, através de sociedade que com ela se encontre em relação de domínio, a obrigação de realizar um investimento industrial em capital fixo corpóreo no sector do papel, com incorporação de papel reciclado, que contribua com um acréscimo mínimo de 150 000 t por ano para a produção de papel do complexo da Portucel Viana, realizando para o efeito um investimento global mínimo de (euro) 125 000 000, em que se incluem os investimentos que melhorem a competitividade e eficiência do complexo industrial da Portucel Viana.
 
-2 - A unidade fabril a que se refere o n.º 1 deve iniciar a sua actividade no prazo de 24 meses após o licenciamento da sua construção e laboração, devendo o respectivo pedido inicial de licenciamento ser apresentado completa e regularmente instruído no prazo máximo de dois meses contados da data de entrada em vigor do presente diploma.
+2 - A verificação de que o projecto de investimento contribui com um acréscimo de 150 000 t por ano para a capacidade instalada no complexo da Portucel Viana, é realizada por uma empresa de engenharia de reconhecido prestígio no sector papeleiro, aceite pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E., adiante designada AICEP, E. P. E., através de uma prova de funcionamento.
 
-3 - Para efeitos do disposto no número anterior, considera-se que a nova unidade fabril inicia a sua actividade quando tiverem sido efectuados os testes com pastas, se tenha verificado o arranque da máquina em produção e funcione o papel no enrolador.
+3 - O custo associado ao trabalho da entidade independente referida no número anterior é suportado pela IMOCAPITAL, SGPS, S. A.
+
+4 - A demonstração do cumprimento da obrigação estabelecida no n.º 1 cabe à IMOCAPITAL, SGPS, S. A., que, para o efeito, deve, no termo do prazo fixado, apresentar à AICEP, E. P. E., os comprovativos da realização dos investimentos.
+
+> Alterado pelo/a [Decreto-Lei n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2008-248501), publicado em 2008-01-21.
 
 ###### Artigo 3.º — Investimento industrial e regional
 

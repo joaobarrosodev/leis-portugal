@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313433:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7bad2e6250300714"
+   ]
+  },
+  {
+   "date": "1977-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492675:por",
+     "title": "Decreto-Lei n.º 7/77",
+     "published": "1977-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/7-1977-492675"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "0f7608bc3ddaec64",
+    "dc4adb30e252bddb",
+    "ae08c942661399b3"
+   ]
+  }
+ ],
+ "fragments": {
+  "7bad2e6250300714": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "As carências existentes de pessoal médico, de enfermagem e técnico auxiliar levaram já à publicação do Decreto-Lei n.º 46501, de 28 de Novembro de 1964, pelo qual se permitiu, em termos amplos, a reintegração nos quadros dos funcionários daquelas categorias que tivessem sido exonerados a seu pedido.\n\nEssa mesma razão leva a que se facilite a entrada nos serviços de pessoal dessa natureza, a fim de minorar as dificuldades que continuam a verificar-se.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. O limite máximo de idade para admissão de pessoal médico, mesmo em lugares de acesso, nos serviços pertencentes ou dependentes do Ministério da Saúde e Assistência é fixado em 55 anos.\n\n2. Para pessoal de enfermagem e técnico auxiliar este limite é fixado em 40 anos.\n\nArt. 2.º - 1. Podem ser admitidos nos referidos serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos.\n\n2. Este limite baixa para 16 anos em relação às categorias de aprendizes.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira- José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "0f7608bc3ddaec64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "As carências existentes de pessoal médico, de enfermagem e técnico auxiliar levaram já à publicação do Decreto-Lei n.º 46501, de 28 de Novembro de 1964, pelo qual se permitiu, em termos amplos, a reintegração nos quadros dos funcionários daquelas categorias que tivessem sido exonerados a seu pedido.\n\nEssa mesma razão leva a que se facilite a entrada nos serviços de pessoal dessa natureza, a fim de minorar as dificuldades que continuam a verificar-se.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "dc4adb30e252bddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1977-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 7/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1977-492675), publicado em 1977-01-05."
+  },
+  "ae08c942661399b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Podem ser admitidos nos referidos serviços, nas categorias de pessoal oficinal, indivíduos com 18 anos completos.\n\n2. Este limite baixa para 16 anos em relação às categorias de aprendizes.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira- José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

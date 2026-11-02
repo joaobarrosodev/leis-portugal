@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:460645:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2cd820689c1a71d7",
+    "a117b688e8a0a1d1",
+    "70efcc1318a3b54a"
+   ]
+  },
+  {
+   "date": "1996-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626376:por",
+     "title": "Lei n.º 4/96",
+     "published": "1996-02-27",
+     "dre_path": "/dr/detalhe/lei/4-1996-626376"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 106.º-A"
+   ],
+   "fragments": [
+    "2cd820689c1a71d7",
+    "1d0b78959b202e7d",
+    "70efcc1318a3b54a"
+   ]
+  }
+ ],
+ "fragments": {
+  "2cd820689c1a71d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nAs alíneas a) e b) do n.º 1 do artigo 57.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, que aprovou o Orçamento do Estado para 1995, autorizaram o Governo a alterar o Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril.\n\nEsta intervenção legislativa justifica-se, por um lado, pelo grande número de sociedades inactivas que, apesar de apresentarem um volume de negócios nulo ou irrelevante, ainda não foram liquidadas pelos sócios, deixando revelar que a constituição de novas sociedades constitui um expediente para fuga às obrigações fiscais.\n\nImpõe-se pôr cobro a esta situação, fazendo depender a constituição de novas sociedades da declaração pelos sócios da inexistência de dívidas fiscais, não reclamadas nem impugnadas, das sociedades em que anteriormente aqueles tenham desempenhado funções de administração ou gerência, ou a declaração de que essas mesmas funções nunca foram exercidas.\n\nPor outro lado, também a regra geral de ónus de prova do artigo 121.º do Código de Processo Tributário reclama clarificação no caso de o fundamento da aplicação dos métodos indiciários ter sido a inexistência da contabilidade e demais documentos legalmente relevantes, a recusa de exibição ou a sua falsificação, ocultação ou destruição, ainda que se invoquem razões acidentais. Tendo sido estas, ou o próprio contribuinte, a causar incerteza sobre a quantificação da matéria tributável, não se justifica que ainda assim deva ser a administração fiscal a ter de provar que a quantificação efectuada corresponde à realidade.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelas alíneas a) e b) do n.º 1 do artigo 57.º da [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º É aditado ao Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, um artigo 106.º-A, com a seguinte redacção:"
+  },
+  "a117b688e8a0a1d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 106.º-A — Celebração do contrato de sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º-A — Celebração do contrato de sociedade\n\n1 - O notário que celebrar a escritura de contrato de constituição de sociedade exigirá, como condição prévia, a apresentação de uma declaração assinada pelos sócios da sociedade a constituir, da qual conste que não exerceram anteriormente funções de administração ou gerência em sociedades que tenham dívidas fiscais por cumprir não reclamadas nem impugnadas.\n\n2 - Se tiver havido exercício anterior de funções de administração ou gerência, o sócio identificará a sociedade que pretende constituir e as sociedades em que anteriormente desempenhou essas funções.\n\nArt. 2.º O artigo 121.º do Código de Processo Tributário passa a ter a seguinte redacção:"
+  },
+  "70efcc1318a3b54a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 121.º — Dúvida sobre o facto tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Dúvida sobre o facto tributário\n\nUtilização de métodos indiciários\n\n1 - Sempre que da prova produzida resulte a fundada dúvida sobre a existência e quantificação do facto tributário, deverá o acto impugnado ser anulado.\n\n2 - Em caso de quantificação da matéria tributável por métodos indiciários, não se considera existir dúvida fundada se o fundamento da aplicação daqueles consistir na inexistência ou desconhecimento, por recusa de exibição, da contabilidade ou escrita e demais documentos legalmente exigidos ou a sua falsificação, ocultação ou destruição, ainda que os contribuintes invoquem razões acidentais.\n\n3 - O disposto no número anterior não prejudica a possibilidade de na impugnação judicial o impugnante demonstrar erro ou manifesto excesso na matéria tributável quantificada.\n\nVisto e aprovado em Conselho de Ministros de 18 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 27 de Junho de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Junho de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1d0b78959b202e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 106.º-A — Celebração do contrato de sociedade",
+   "in_force_from": "1996-03-03",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 4/96](https://diariodarepublica.pt/dr/detalhe/lei/4-1996-626376), publicado em 1996-02-27."
+   ],
+   "markdown": "###### Artigo 106.º-A — Celebração do contrato de sociedade\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 4/96](https://diariodarepublica.pt/dr/detalhe/lei/4-1996-626376), publicado em 1996-02-27."
+  }
+ }
+}

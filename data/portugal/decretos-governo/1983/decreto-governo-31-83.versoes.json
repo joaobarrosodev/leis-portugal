@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:450824:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79fdef4afbc4a365"
+   ]
+  },
+  {
+   "date": "1998-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321683:por",
+     "title": "Decreto n.º 67/97",
+     "published": "1997-12-31",
+     "dre_path": "/dr/detalhe/decreto/67-1997-321683"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "07523578bc4b0b90",
+    "aff1bde954d7636c",
+    "b4d8ba432d2e0e23"
+   ]
+  }
+ ],
+ "fragments": {
+  "79fdef4afbc4a365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Maio\n\nEm conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, do n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, do n.º 1 do artigo 1.º e n.º 1 do artigo 2.º, do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, da alínea a) do artigo 2.º, e alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e do artigo 3.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º São classificados como de interesse público os seguintes imóveis:\n\nDistrito de Bragança:\n\nConcelho de Freixo de Espada à Cinta:\n\nEstação com gravuras rupestres em Mazouco, no local de o «Carneiro» - Cabeço da Vigia.\n\nDistrito de Évora:\n\nConcelho de Évora:\n\nIgreja da Misericórdia de Évora.\n\nDistrito de Lisboa:\n\nConcelho da Azambuja:\n\nIgreja e edifício da Misericórdia da Azambuja.\n\nConcelho de Lisboa:\n\nConvento de Santos-o-Novo, incluindo a igreja, o claustro e as respectivas dependências.\n\nEdifício na Avenida de Berna, n.os 1 e 1-A, em Lisboa.\n\nEdifício na Rua de São Lázaro, n.os 150 a 154, em Lisboa.\n\nEdifício e estabelecimento da Panificação Mecânica, Lda., na Rua de Silva Carvalho, n.os 209 a 225, esquina com a Rua de Campo de Ourique, n.os 2 a 16, em Lisboa.\n\nConcelho de Loures:\n\nCasa da Quinta da Francelha de Cima, freguesia de Sacavém.\n\nConcelho de Mafra:\n\nErmida de Nossa Senhora do Codeçal, freguesia de Sobral da Abelheira.\n\nDistrito de Santarém:\n\nConcelho de Constância:\n\nCasa dos Arcos, ou Casa de Camões, em Constância.\n\nDistrito de Viseu:\n\nConcelho de Armamar:\n\nPonte antiga de Santo Adrião sobre o rio Tedo.\n\nConcelho de Mangualde:\n\nIgreja matriz de Mangualde.\n\nArt. 2.º São classificados como valores concelhios os seguintes imóveis:\n\nDistrito de Beja:\n\nConcelho de Ferreira do Alentejo:\n\nCapela do Calvário, ou de Santa Maria Madalena, em Ferreira do Alentejo.\n\nDistrito de Braga:\n\nConcelho de Guimarães:\n\nCapela do Bom Despacho, freguesia de Gominhães.\n\nDistrito da Guarda:\n\nConcelho do Sabugal:\n\nCruzeiro de Aldeia da Ponte.\n\nFrancisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.\n\nAssinado em 22 de Abril de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 27 de Abril de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "07523578bc4b0b90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Maio\n\nEm conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, do n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, do n.º 1 do artigo 1.º e n.º 1 do artigo 2.º, do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, da alínea a) do artigo 2.º, e alínea a) do artigo 9.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, e do artigo 3.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "aff1bde954d7636c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 67/97](https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683), publicado em 1997-12-31."
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão classificados como de interesse público os seguintes imóveis:\n\nDistrito de Bragança:\n\nConcelho de Freixo de Espada à Cinta:\n\nEstação com gravuras rupestres em Mazouco, no local de o «Carneiro» - Cabeço da Vigia.\n\nDistrito de Évora:\n\nConcelho de Évora:\n\nIgreja da Misericórdia de Évora.\n\nDistrito de Lisboa:\n\nConcelho da Azambuja:\n\nIgreja e edifício da Misericórdia da Azambuja.\n\nConcelho de Lisboa:\n\nConvento de Santos-o-Novo, incluindo a igreja, o claustro e as respectivas dependências.\n\nEdifício na Avenida de Berna, n.os 1 e 1-A, em Lisboa.\n\nEdifício na Rua de São Lázaro, n.os 150 a 154, em Lisboa.\n\nEdifício e estabelecimento da Panificação Mecânica, Lda., na Rua de Silva Carvalho, n.os 209 a 225, esquina com a Rua de Campo de Ourique, n.os 2 a 16, em Lisboa.\n\nConcelho de Loures:\n\nCasa da Quinta da Francelha de Cima, freguesia de Sacavém.\n\nConcelho de Mafra:\n\nErmida de Nossa Senhora do Codeçal, freguesia de Sobral da Abelheira.\n\nDistrito de Santarém:\n\nConcelho de Constância:\n\nCasa dos Arcos, ou Casa de Camões, em Constância.\n\nDistrito de Viseu:\n\nConcelho de Armamar:\n\nPonte antiga de Santo Adrião sobre o rio Tedo.\n\nConcelho de Mangualde:\n\nIgreja de São Julião, matriz de Mangualde, incluindo o adro e a Via-Sacra (as 10 cruzes ainda existentes), 4 cruzes no adro da Igreja de São Julião, 4 cruzes a caminho da Misericórdia, dentro do prolongamento do adro e a nascente da referida Igreja, e as 2 últimas, uma na Misericórdia e outra na Avenida de Salazar, integrada na parede norte da cerca do Palácio do Conde de Anadia, Mangualde, freguesia de Mangualde, município de Mangualde, distrito de Viseu.\n\n> Alterado pelo/a [Decreto n.º 67/97](https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683), publicado em 1997-12-31."
+  },
+  "b4d8ba432d2e0e23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão classificados como valores concelhios os seguintes imóveis:\n\nDistrito de Beja:\n\nConcelho de Ferreira do Alentejo:\n\nCapela do Calvário, ou de Santa Maria Madalena, em Ferreira do Alentejo.\n\nDistrito de Braga:\n\nConcelho de Guimarães:\n\nCapela do Bom Despacho, freguesia de Gominhães.\n\nDistrito da Guarda:\n\nConcelho do Sabugal:\n\nCruzeiro de Aldeia da Ponte.\n\nFrancisco José Pereira Pinto Balsemão - Francisco António Lucas Pires.\n\nAssinado em 22 de Abril de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 27 de Abril de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  }
+ }
+}

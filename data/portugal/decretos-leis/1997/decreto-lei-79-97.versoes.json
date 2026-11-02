@@ -1,0 +1,426 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:457030:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-04-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "08a9b333e337d6f7",
+    "d3f5147bade52fad",
+    "933224165cf1558c",
+    "e41099edb42f963b",
+    "4d1fd16d5a0a65a1",
+    "f9749142035702f2",
+    "78dd24633efc7560",
+    "7faf000e392e9890",
+    "2d06ec74a541bc86",
+    "d01d6148f77db9f7",
+    "a65b4ab3c5c899e1",
+    "c79676787bc4c202",
+    "9a0d294f099867f5",
+    "fbb97ed28e40ea9f",
+    "5bc6313cca490292",
+    "5fdbb5fa1b35feff",
+    "93f7006a701394d1",
+    "01caadc31c05734c",
+    "750d40eeafa43313",
+    "4257587f2118f5e1",
+    "f5ae5c852e5aac21",
+    "3c47acc514f597a8",
+    "fd4dc574acf89e16",
+    "7260906fb6447ff5",
+    "0a65074d3a2940de",
+    "6990188ca7f3823b",
+    "08beb94730f7fd43",
+    "18de0d24e4886fc7",
+    "19bb6a8d6909eaf7",
+    "2ccb4ccd6cf940d2",
+    "20597c055242bb8f",
+    "21661226ad965a86",
+    "d507d472bce20af0",
+    "2c0da253f73e31a2",
+    "74f39c7846c401c7",
+    "671272eb34df6c25",
+    "5b872212ecf9082a",
+    "9f319066e8fced69"
+   ]
+  },
+  {
+   "date": "2005-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:350150:por",
+     "title": "Decreto-Lei n.º 243/2004",
+     "published": "2004-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/243-2004-350150"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "08a9b333e337d6f7",
+    "d3f5147bade52fad",
+    "933224165cf1558c",
+    "81d813acac576e80",
+    "4d1fd16d5a0a65a1",
+    "f9749142035702f2",
+    "78dd24633efc7560",
+    "7faf000e392e9890",
+    "2d06ec74a541bc86",
+    "d01d6148f77db9f7",
+    "a65b4ab3c5c899e1",
+    "c79676787bc4c202",
+    "9a0d294f099867f5",
+    "fbb97ed28e40ea9f",
+    "5bc6313cca490292",
+    "5fdbb5fa1b35feff",
+    "93f7006a701394d1",
+    "01caadc31c05734c",
+    "750d40eeafa43313",
+    "4257587f2118f5e1",
+    "f5ae5c852e5aac21",
+    "3c47acc514f597a8",
+    "fd4dc574acf89e16",
+    "7260906fb6447ff5",
+    "0a65074d3a2940de",
+    "6990188ca7f3823b",
+    "08beb94730f7fd43",
+    "18de0d24e4886fc7",
+    "19bb6a8d6909eaf7",
+    "2ccb4ccd6cf940d2",
+    "20597c055242bb8f",
+    "21661226ad965a86",
+    "d507d472bce20af0",
+    "2c0da253f73e31a2",
+    "74f39c7846c401c7",
+    "671272eb34df6c25",
+    "5b872212ecf9082a",
+    "9f319066e8fced69"
+   ]
+  }
+ ],
+ "fragments": {
+  "08a9b333e337d6f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Abril\n\nA Empresa de Electricidade dos Açores, E. P., abreviadamente designada por EDA, E. P., foi criada pelo [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, e tem por objecto a produção, transporte e distribuição de energia eléctrica na Região Autónoma dos Açores.\n\nA EDA, E. P., integra-se no património da Região Autónoma dos Açores, cabendo os poderes de tutela ao respectivo Governo Regional.\n\nEm conformidade com o seu Programa, entende o Governo da Região Autónoma dos Açores que chegou a altura de dotar a EDA, E. P., de um estatuto flexível, por forma que possa adaptar-se às novas condições do mercado e prosseguir um programa de expansão e modernização que é necessário ao desenvolvimento regional.\n\nFoi ouvida a comissão de trabalhadores da Empresa.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma dos Açores.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d3f5147bade52fad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Empresa de Electricidade dos Açores (EDA), E. P., empresa pública criada pelo [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, e pelo [Decreto Regulamentar Regional n.º 34/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1981-579746), de 18 de Julho, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima, com a denominação de Electricidade dos Açores, S. A., abreviadamente designada pela sigla EDA, S. A.\n\n2 - A EDA, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas reguladoras das sociedades anónimas."
+  },
+  "933224165cf1558c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A EDA, S. A., continua a personalidade jurídica da EDA, E. P., conservando a universalidade dos direitos e obrigações que constituem o património desta no momento da transformação.\n\n2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da EDA, S. A."
+  },
+  "e41099edb42f963b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As acções da EDA, S. A., pertencem à Região Autónoma dos Açores e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.\n\n3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.\n\n4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade."
+  },
+  "4d1fd16d5a0a65a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO capital social inicial da EDA, S. A., é de 9500000000$00, correspondendo ao valor do capital estatutário da EDA, E. P., e encontra-se realizado pelos valores que integram o património da sociedade."
+  },
+  "f9749142035702f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - São aprovados os estatutos da EDA, S. A., publicados em anexo ao presente diploma.\n\n2 - A criação da EDA, S. A., e os respectivos estatutos produzem efeitos relativamente a terceiros, independentemente de registo, o qual, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 90 dias seguintes à data da entrada em vigor deste diploma."
+  },
+  "78dd24633efc7560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Nos 30 dias seguintes à data da entrada em vigor do presente diploma, reunir-se-á, ao abrigo do artigo 54.º do Código das Sociedades Comerciais, a assembleia geral da sociedade, a fim de serem eleitos os membros dos órgãos sociais.\n\n2 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de administração e os membros da comissão de fiscalização da empresa pública mantêm-se em funções."
+  },
+  "7faf000e392e9890": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará aos membros do Governo Regional da Região Autónoma dos Açores competentes nas matérias de finanças e de energia, pelo menos 30 dias antes da data da assembleia geral anual, o seguinte:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O fiscal único enviará, trimestralmente, aos membros do Governo Regional da Região Autónoma dos Açores competentes nas matérias de finanças e de energia um relatório sucinto, em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões."
+  },
+  "2d06ec74a541bc86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os trabalhadores e pensionistas da EDA, E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.\n\n2 - Os funcionários da administração central, regional e local, dos institutos públicos, das empresas públicas e de capital exclusiva ou maioritariamente público podem ser autorizados a exercer funções, em regime de comissão de serviço, na EDA, S. A., conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.\n\n3 - A situação dos trabalhadores da EDA, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como a dos que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o termo de requisição."
+  },
+  "d01d6148f77db9f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros para os órgãos sociais, designadamente de administração, da EDA, S. A."
+  },
+  "a65b4ab3c5c899e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Governo Regional da Região Autónoma dos Açores mantém todas as obrigações para com terceiros resultantes de qualquer forma de garantia prestada à EDA, E. P., em contratos por esta celebrados com instituições financeiras ou outras, não podendo o presente diploma ser invocado como alteração de circunstâncias para efeitos daqueles contratos."
+  },
+  "c79676787bc4c202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 14 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "9a0d294f099867f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatuto da Electricidade dos Açores, S. A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatuto da Electricidade dos Açores, S. A"
+  },
+  "fbb97ed28e40ea9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Firma, sede e objecto"
+  },
+  "5bc6313cca490292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA sociedade anónima adopta a denominação de Electricidade dos Açores, S. A., e rege-se pelo Decreto-Lei n.º 79/97, de 8 de Abril, pelos presentes estatutos e pelas normas reguladoras das sociedades anónimas."
+  },
+  "5fdbb5fa1b35feff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA sociedade tem sede na Rua do Engenheiro José Cordeiro, 6, 9500 Ponta Delgada."
+  },
+  "93f7006a701394d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O objecto principal da sociedade é a produção, a aquisição, o transporte, a distribuição e a venda de energia eléctrica, bem como o exercício de outras actividades relacionadas com aquelas.\n\n2 - Para o exercício do objecto definido no número anterior, a sociedade pode:\n\na) Adquirir participações em sociedades de responsabilidade limitada;\n\nb) Participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico;\n\nc) Constituir sociedades anónimas de cujas acções ela seja inicialmente a única titular, nos termos do n.º 1 do artigo 488.º do Código das Sociedades Comerciais;\n\nd) Criar novas sociedades de acordo com o estabelecido no Código das Sociedades Comerciais relativamente à cisão."
+  },
+  "01caadc31c05734c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social e acções"
+  },
+  "750d40eeafa43313": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital da sociedade é de 9500000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.\n\n2 - O capital social é representado por 9500000 acções, com o valor nominal de 1000$00 cada uma."
+  },
+  "4257587f2118f5e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.\n\n2 - As acções podem revestir forma escritural.\n\n3 - Podem ser emitidos títulos de 1, 5, 10, 50 e 100 acções e múltiplos de 100, até 100000 acções."
+  },
+  "f5ae5c852e5aac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais"
+  },
+  "3c47acc514f597a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - São órgãos sociais a assembleia geral e o conselho de administração.\n\n2 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, podendo ser reconduzidos para novos mandatos.\n\n3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los.\n\n4 - Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.\n\n5 - A fiscalização das contas da sociedade é exercida por fiscal único, nos termos do [Decreto-Lei n.º 26-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-1996-526206), de 27 de Março."
+  },
+  "fd4dc574acf89e16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Assembleia geral"
+  },
+  "7260906fb6447ff5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A assembleia geral é composta pelo accionista ou accionistas com direito a voto.\n\n2 - A cada 100 acções corresponde um voto."
+  },
+  "0a65074d3a2940de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei."
+  },
+  "6990188ca7f3823b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNo aviso convocatório da assembleia geral pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção, pelo presidente da mesa, dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas."
+  },
+  "08beb94730f7fd43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Para que a assembleia geral possa reunir e deliberar em primeira convocação é indispensável a presença ou representação de accionistas que detenham pelo menos 51% do capital, devendo um deles ser a Região Autónoma dos Açores.\n\n2 - Tanto em primeira como em segunda convocação da assembleia geral, as deliberações sobre alterações dos estatutos, fusão, cisão ou transformação da sociedade devem ser aprovadas por 51% dos votos correspondentes ao capital, incluindo sempre os votos das acções pertencentes à Região Autónoma dos Açores."
+  },
+  "18de0d24e4886fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de administração"
+  },
+  "19bb6a8d6909eaf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O conselho de administração é composto por três ou cinco administradores, conforme deliberado em assembleia geral.\n\n2 - O presidente do conselho de administração é escolhido, de entre os administradores, pela assembleia geral que eleger aquele órgão."
+  },
+  "2ccb4ccd6cf940d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O conselho de administração pode delegar poderes, nos termos do artigo 407.º do Código das Sociedades Comerciais.\n\n2 - A aquisição, alienação e oneração de participações sociais não se incluem nos actos delegáveis."
+  },
+  "20597c055242bb8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura de dois administradores;\n\nb) Pela assinatura de um dos administradores, dentro dos limites da delegação de poderes conferida pelo conselho;\n\nc) Pela assinatura de procuradores, quanto aos actos ou categorias de actos definidos nas correspondentes procurações.\n\n2 - O conselho de administração poderá deliberar, nos termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.\n\n3 - Em assuntos de mero expediente bastará a assinatura de um administrador."
+  },
+  "21661226ad965a86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.\n\n2 - Não é permitida a representação de mais de um administrador em cada reunião."
+  },
+  "d507d472bce20af0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - As remunerações dos administradores serão fixadas pela assembleia geral.\n\n2 - A remuneração pode consistir parcialmente numa percentagem, que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância destinada a reserva legal."
+  },
+  "2c0da253f73e31a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral."
+  },
+  "74f39c7846c401c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Aplicação dos resultados"
+  },
+  "671272eb34df6c25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura de prejuízos de exercícios anteriores;\n\nb) Constituição e eventualmente reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Remuneração dos administradores e gratificação a atribuir aos trabalhadores, se disso for caso, segundo critério a definir em assembleia geral;\n\nd) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral deliberar;\n\ne) Dividendos a distribuir aos accionistas;\n\nf) Outras finalidades que a assembleia geral deliberar."
+  },
+  "5b872212ecf9082a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dissolução e liquidação"
+  },
+  "9f319066e8fced69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - A sociedade dissolve-se quando para isso haja causa legal.\n\n2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral."
+  },
+  "81d813acac576e80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2005-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 243/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2004-350150), publicado em 2004-12-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - (Revogado.)\n\n2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.\n\n3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.\n\n4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade.\n\n> Alterado pelo/a [Decreto-Lei n.º 243/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2004-350150), publicado em 2004-12-31."
+  }
+ }
+}

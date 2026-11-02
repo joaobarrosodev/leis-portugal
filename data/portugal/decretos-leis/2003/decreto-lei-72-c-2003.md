@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-01'
+version_history:
+  file: decreto-lei-72-c-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: pt:dre:584866:por
+    amending_title: Decreto-Lei n.º 182/2005
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO RELATIVO AOS PNEUS E À SUA INSTALAÇÃO NOS AUTOMÓVEIS E SEUS REBOQUES::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/72-c/2003/04/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:42:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 182/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-72-c-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,7 +242,9 @@ a) Tipos de pneus modificados, no que diz respeito às homologações nos termos
 
 b) Designações da medida do pneu adicionais e ou nomes de marcas modificados ou designações comerciais do fabricante e ou padrões do piso, no que diz respeito às homologações nos termos do capítulo V ao presente Regulamento.
 
-9 - A Direcção-Geral de Viação pode aceitar os laboratórios do fabricante de pneus como testes de laboratório homologados até 31 de Dezembro de 2005.
+9 - A Direcção-Geral de Viação pode aceitar os laboratórios dos fabricantes de pneus como laboratórios acreditados, nos termos do disposto no Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 72-B/2003, de 14 de Abril, e pelo Decreto-Lei n.º 3/2005, de 5 de Janeiro.
+
+> Alterado pelo/a [Decreto-Lei n.º 182/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2005-584866), publicado em 2005-11-03.
 
 #### SECÇÃO III — Das inscrições nas amostras de um tipo de pneu
 

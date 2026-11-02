@@ -1,0 +1,543 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313403:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-01-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "100b158fdf9ed954",
+    "c71765da34846349",
+    "0e1fd8c61b196b96",
+    "f18f925e8007915c",
+    "ca1eb4d6954273d1",
+    "3139698a5f0c3a0c",
+    "487311f3fef487e4",
+    "d5baa1477cf0f669",
+    "67f4e168f358dc34",
+    "1ee79f86860c4ae2",
+    "71b84c0b36fcdb25",
+    "ff7ef6815d8de5f2",
+    "cc524617b38da59e",
+    "5b4bfc65192a5b7a",
+    "9c0eb0c49875b0c3",
+    "d5298fe573cfd9e6",
+    "868cba2f6cc2da20",
+    "519ae2ca728daffc",
+    "dbe32edc459feb37",
+    "615e12a5ef926611",
+    "6935e0999ede549d",
+    "b92785a9681d141d",
+    "a476b20fb611fc41",
+    "14646f22a8bf7600",
+    "807c78d820f23531",
+    "603071ad928a7ef0",
+    "38c7b2b79fb1421a",
+    "82529a2d124f2af3",
+    "88db3dd3d1111297",
+    "bae7257c4606150e",
+    "388600fd10da928b",
+    "11fc65356aed2605",
+    "f301e3365ea78e3b",
+    "cfe5ba6a1de466ed",
+    "d08e8c0fe0e769c1",
+    "d5d098c4ae8d5b5d",
+    "8bee1fc380c3ae11",
+    "66717462734cbba1"
+   ]
+  },
+  {
+   "date": "2004-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650304:por",
+     "title": "Portaria n.º 1103-B/2001",
+     "published": "2001-09-15",
+     "dre_path": "/dr/detalhe/portaria/1103-b-2001-650304"
+    },
+    {
+     "id": "pt:dre:514999:por",
+     "title": "Portaria n.º 978/2004",
+     "published": "2004-08-03",
+     "dre_path": "/dr/detalhe/portaria/978-2004-514999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::16.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::19.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::20.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::22.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::23.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::24.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::26.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::29.º",
+    "Altera Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::32.º",
+    "Revoga Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::25.º",
+    "Adita Artigo ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::33.º"
+   ],
+   "fragments": [
+    "100b158fdf9ed954",
+    "c71765da34846349",
+    "0e1fd8c61b196b96",
+    "f18f925e8007915c",
+    "ca1eb4d6954273d1",
+    "3139698a5f0c3a0c",
+    "487311f3fef487e4",
+    "d5baa1477cf0f669",
+    "67f4e168f358dc34",
+    "1ee79f86860c4ae2",
+    "71b84c0b36fcdb25",
+    "ff7ef6815d8de5f2",
+    "cc524617b38da59e",
+    "5b4bfc65192a5b7a",
+    "9c0eb0c49875b0c3",
+    "d5298fe573cfd9e6",
+    "868cba2f6cc2da20",
+    "519ae2ca728daffc",
+    "dbe32edc459feb37",
+    "d42d7f7eac2ea3ec",
+    "6935e0999ede549d",
+    "b92785a9681d141d",
+    "a476b20fb611fc41",
+    "ebf27f303df8fc02",
+    "cc8f96ac1dfc182b",
+    "603071ad928a7ef0",
+    "6199715d9879e882",
+    "ae1e1e8c9c6696e7",
+    "e13abff48a10b8f8",
+    "f3813906b91eaaaf",
+    "148710356fa94ed5",
+    "11fc65356aed2605",
+    "f301e3365ea78e3b",
+    "28816f43f564fbe1",
+    "d08e8c0fe0e769c1",
+    "d5d098c4ae8d5b5d",
+    "7a67a7ebb7542f90",
+    "52c6205edde37505",
+    "66717462734cbba1"
+   ]
+  }
+ ],
+ "fragments": {
+  "100b158fdf9ed954": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Janeiro\n\nA viabilização e a sustentabilidade das explorações agrícolas, enquanto unidades económicas produtoras de bens e serviços, só é possível através do recurso a capacidades e conhecimentos de natureza especializada, disponibilizados quer através de acções de formação quer através do recurso ao aconselhamento, assistência e apoio técnico externo.\n\nNo âmbito da aplicação do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF) do anterior quadro comunitário de apoio, foram concedidas ajudas às organizações de agricultores, com o objectivo de promover e garantir o reforço e consolidação da sua capacidade técnica, por forma a torná-la mais adequada e eficaz a uma intervenção no sector.\n\nPor outro lado, reconhece-se o baixo nível de qualificação de uma parte muito significativa dos agricultores, a ainda fraca cobertura da produção por organizações de produtores, a fragilidade da ligação entre as organizações de agricultores e os seus associados na área do aconselhamento e da assistência técnica e a debilidade do sector empresarial rural ligado à prestação de serviços agrícolas.\n\nNeste contexto, considerou-se necessário garantir a existência de um regime de apoios à constituição e instalação de entidades prestadoras de serviços especializados agrícolas, de âmbito local, designadamente em territórios e ou domínios em que a oferta é claramente insuficiente, quando não inexistente, e à prestação de serviços agrícolas essenciais ao desenvolvimento da agricultura, à melhoria das condições de vida e de trabalho dos agricultores e à conservação dos recursos naturais e do ambiente.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892), de 27 de Julho:\n\nManda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural a das Pescas, que seja aprovado o Regulamento de Aplicação da Componente de Apoio à Prestação de Serviços Agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura» da medida Agricultura e Desenvolvimento Rural, dos programas operacionais regionais, abreviadamente designada por medida AGRIS, em anexo ao presente diploma e do qual faz parte integrante.\n\nEm 29 de Dezembro de 2000.\n\nA Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos."
+  },
+  "c71765da34846349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS"
+  },
+  "0e1fd8c61b196b96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições iniciais"
+  },
+  "f18f925e8007915c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime de aplicação da Componente de Apoio à Prestação de Serviços Agrícolas, da subacção n.º 4.2, «Desenvolvimento de outros serviços à agricultura», da acção n.º 4, «Serviços à agricultura», da medida AGRIS.\n\n2 - No âmbito do presente Regulamento podem ser concedidos apoios tendo em vista:\n\na) A criação e instalação de entidades prestadoras de serviços agrícolas;\n\nb) A prestação de serviços agrícolas."
+  },
+  "ca1eb4d6954273d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos deste Regulamento, consideram-se as seguintes definições:\n\na) Serviços directamente ligados ao processo produtivo - operações ou tarefas, com tradução essencialmente física, cuja execução constitui elemento necessário do sistema de produção e de que depende a produção de bens e serviços agrícolas;\n\nb) Pequenas empresas de âmbito local - empresas que, no ano anterior ao da apresentação de uma candidatura, tenham um número médio de trabalhadores superior a 3 e inferior a 20 e um volume de negócios anual não superior a 500000 contos."
+  },
+  "3139698a5f0c3a0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - São abrangidos pelo presente Regulamento os serviços agrícolas não directamente ligados ao processo produtivo, bem como os serviços relativos à actividade florestal e às actividades pecuárias, quando não abrangidos por regimes de apoio específicos.\n\n2 - Não podem beneficiar das presentes ajudas as entidades beneficiárias da medida n.º 10, «Serviços agro-rurais especializados», do Programa AGRO."
+  },
+  "487311f3fef487e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Constituição e instalação de entidades prestadoras de serviços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Constituição e instalação de entidades prestadoras de serviços agrícolas"
+  },
+  "d5baa1477cf0f669": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos\n\nAs ajudas previstas neste capítulo têm por objectivo apoiar a constituição e instalação de entidades prestadoras de serviços de assistência e apoio técnico, de âmbito local, em territórios e ou domínios em que não haja oferta satisfatória e adequada de serviços essenciais à actividade agrícola."
+  },
+  "67f4e168f358dc34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar do regime de ajudas previsto neste capítulo as pequenas empresas de âmbito local que tenham como objecto principal a prestação de serviços agrícolas.\n\n2 - Não são abrangidas por este regime de apoios as entidades beneficiárias da subacção n.º 4.1, «Instalação de serviços de substituição e gestão das explorações agrícolas», da medida AGRIS."
+  },
+  "1ee79f86860c4ae2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso\n\n1 - Para efeitos de acesso às presentes ajudas as empresas têm de reunir as seguintes condições:\n\na) Estar legalmente constituídas há menos de um ano;\n\nb) Desenvolver a sua actividade na área da direcção regional de agricultura onde se situe a sede;\n\nc) Dispor de contabilidade e comprometerem-se a manter registos e comprovativos das acções realizadas;\n\nd) Apresentar um estudo de viabilidade económica e um plano de acção para um período mínimo de três anos, devidamente fundamentado, quantificado e calendarizado.\n\n2 - O plano de acção referido na alínea d) do número anterior deve contemplar uma tipologia de serviços essenciais à agricultura e às zonas rurais nos domínios referidos no artigo 20.º e conter os seguintes elementos:\n\na) Objectivos operacionais;\n\nb) Metas (quantificação dos objectivos operacionais);\n\nc) Acções a realizar e respectiva calendarização;\n\nd) Recursos humanos, materiais e financeiros a afectar;\n\ne) Recursos financeiros a obter;\n\nf) Âmbito territorial a abranger."
+  },
+  "71b84c0b36fcdb25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Investimentos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Investimentos elegíveis\n\nSão considerados elegíveis os investimentos relativos à constituição e instalação dos beneficiários."
+  },
+  "ff7ef6815d8de5f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Forma e valor das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma e valor das ajudas\n\nAs ajudas são concedidas sob a forma de incentivo não reembolsável, no valor de 50% das despesas elegíveis."
+  },
+  "cc524617b38da59e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\n1 - São consideradas elegíveis as despesas de constituição dos beneficiários e a aquisição de equipamentos de escritório, de comunicações, equipamentos e programas informáticos e outros equipamentos necessários ao desenvolvimento dos serviços a prestar.\n\n2 - São igualmente consideradas elegíveis, até 2% do total do valor das despesas referidas no número anterior, as despesas associadas à prestação de garantias exigidas ao abrigo deste Regulamento.\n\n3 - O montante máximo de despesas elegíveis é de 37500 euros por beneficiário.\n\n4 - Só são elegíveis as despesas efectuadas após a apresentação da candidatura, com excepção das despesas de constituição dos beneficiários."
+  },
+  "5b4bfc65192a5b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\nAs candidaturas são entregues nas direcções regionais de agricultura onde se situa a sede do beneficiário, durante os meses de Janeiro e Fevereiro, em formulário próprio, e acompanhadas dos elementos indicados nas respectivas instruções."
+  },
+  "9c0eb0c49875b0c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise das candidaturas\n\nA análise das candidaturas compete ao coordenador da medida AGRIS, que as remete ao gestor da intervenção operacional regional, nos termos do artigo 30.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril."
+  },
+  "d5298fe573cfd9e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão."
+  },
+  "868cba2f6cc2da20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do artigo 29.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - As candidaturas serão objecto de análise e deliberação entre 1 de Abril e 31 de Maio de cada ano.\n\n3 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.\n\n4 - As candidaturas são hierarquizadas em função de critérios de prioridade e aprovadas em função da dotação orçamental estabelecida.\n\n5 - Para efeitos do número anterior, considerar-se-ão os seguintes critérios de prioridade:\n\na) Candidaturas aprovadas ao abrigo do regime de ajudas previsto no capítulo III deste Regulamento;\n\nb) Adequação do plano de acção às necessidades da área territorial a abranger, nomeadamente face à situação do mercado local e regional no que se refere à oferta de serviços da mesma natureza;\n\nc) Inserção da área territorial a abranger, maioritariamente em região desfavorecida;\n\nd) Número de postos de trabalho a criar."
+  },
+  "519ae2ca728daffc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contrato de atribuição de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato de atribuição de ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário, no prazo máximo de 30 dias a contar da data de comunicação ao interessado e ao IFADAP da aprovação da candidatura.\n\n2 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas."
+  },
+  "dbe32edc459feb37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações dos beneficiários\n\nOs beneficiários ficam obrigados, nomeadamente, a cumprir o plano de acção apresentado nos termos fixados no contrato de atribuição de ajudas."
+  },
+  "615e12a5ef926611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução dos investimentos\n\n1 - A execução material dos projectos deve iniciar-se no prazo máximo de seis meses a contar da data da celebração do contrato de atribuição de ajuda e estar concluída no prazo máximo nele indicado.\n\n2 - O IFADAP poderá, em casos excepcionais e devidamente justificados, conceder a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "6935e0999ede549d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais.\n\n2 - A primeira prestação das ajudas só será paga após a realização de, pelo menos, 25% do investimento elegível.\n\n3 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.\n\n4 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP o recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas."
+  },
+  "b92785a9681d141d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Prestação de serviços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Prestação de serviços agrícolas"
+  },
+  "a476b20fb611fc41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objectivos\n\nO regime de apoios previsto neste capítulo tem por objectivo promover e apoiar o desenvolvimento de um sistema de prestação de serviços essenciais à agricultura e às zonas rurais."
+  },
+  "14646f22a8bf7600": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste capítulo as seguintes entidades:\n\na) Cooperativas e associações de agricultores de 1.º grau;\n\nb) Organizações interprofissionais de âmbito regional, com ligação ao sector agrícola;\n\nc) Centros tecnológicos;\n\nd) Associações e outras pessoas colectivas vocacionadas para o desenvolvimento rural de 1.º grau, a reconhecer caso a caso;\n\ne) Pequenas empresas de serviços agrícolas de âmbito local.\n\n2 - O processo de reconhecimento referido na alínea d) do número anterior é estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "807c78d820f23531": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Serviços apoiados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Serviços apoiados\n\nPodem ser concedidas ajudas a projectos que visem a prestação de serviços especializados que se enquadrem nos seguintes domínios:\n\na) Aconselhamento e acompanhamento técnico na área agrícola e da diversificação de actividades na exploração agrícola;\n\nb) Assistência e apoio técnico no âmbito da qualidade e respectiva certificação e do emparcelamento e estruturação fundiária;\n\nc) Difusão de informação técnica e divulgação de novas tecnologias, de âmbito e aplicabilidade local ou regional."
+  },
+  "603071ad928a7ef0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Serviços não apoiados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Serviços não apoiados\n\nSão excluídos do presente regime de ajudas os serviços directamente associados ao processo produtivo, bem como os serviços que tenham beneficiado ou sejam elegíveis a outros regimes de apoio."
+  },
+  "38c7b2b79fb1421a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições de acesso\n\n1 - Os beneficiários têm de, para além de outras condições particulares estabelecidas no convite público à apresentação de candidatura, reunir as seguintes condições:\n\na) Estar legalmente constituídos;\n\nb) Dispor de capacidades técnica, económica e financeira adequadas ao tipo e dimensão das acções a desenvolver;\n\nc) Utilizar um sistema de contabilidade adequada, com centros de custo para a actividade, incluindo o registo e o comprovativo de pagamento do utilizador do serviço, se for caso disso;\n\nd) Comprometer-se a prestar serviços a todos os interessados, atentos os objectivos estabelecidos.\n\n2 - As candidaturas devem reunir as seguintes condições:\n\na) Obedecer às especificações constantes do convite público para apresentação de candidatura, integrando, nomeadamente, um programa de trabalhos fundamentado, detalhado e reportado ao período de duração do projecto;\n\nb) Integrar um orçamento previsional e respectiva justificação."
+  },
+  "82529a2d124f2af3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis\n\n1 - São elegíveis as despesas imputáveis directamente à prestação de serviços, bem como os respectivos custos indirectos, até ao limite de 10% do custo total elegível.\n\n2 - Consideram-se despesas imputáveis directamente à prestação de serviços aquelas que estão directamente associadas à prestação de serviços e que não ocorreriam para o beneficiário se os serviços não fossem prestados.\n\n3 - A elegibilidade das despesas é reportada à data da sua efectiva concretização e não às datas de referência contabilística."
+  },
+  "88db3dd3d1111297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Forma, valor e limite das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Forma, valor e limite das ajudas\n\n1 - As ajudas são atribuídas sob a forma de incentivo não reembolsável, de valor variável entre 30% e 60%, em função do domínio do serviço prestado, de acordo com a tabela em anexo a este Regulamento.\n\n2 - No caso de serviços prestados por cooperativas e associações de agricultores, a taxa será majorada em 10 pontos percentuais.\n\n3 - O montante máximo elegível, para efeitos de ajuda por entidade prestadora de serviços, será definido no convite público, sem prejuízo do número seguinte.\n\n4 - As ajudas concedidas ao abrigo deste regime de ajudas não podem exceder o limite de 250000 euros por beneficiário."
+  },
+  "bae7257c4606150e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processo de candidatura\n\n1 - O processo de candidatura inicia-se com a divulgação de convite público para apresentação de candidaturas.\n\n2 - Anualmente, e por proposta das direcções regionais de agricultura, após audição da Direcção-Geral de Desenvolvimento Rural, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas aprovará, através de despacho, um plano anual regionalizado de convites públicos enquadráveis neste regime de apoios, tendo em consideração as dotações orçamentais.\n\n3 - Cada convite público definirá o período, anual ou plurianual, sobre o qual deverão incidir as propostas.\n\n4 - O convite público será divulgado através do Diário da República, das páginas Internet do MADRP e publicado em órgãos da imprensa nacional e regional.\n\n5 - O convite público incluirá as seguintes informações:\n\na) Entidade responsável e respectivo endereço;\n\nb) Enquadramento legislativo;\n\nc) Objecto do convite e descrição dos serviços a prestar;\n\nd) Âmbito temporal e geográfico para a prestação dos serviços;\n\ne) Identificação do local de consulta do caderno de encargos e de aquisição dos formulários;\n\nf) Identificação do local de entrega das candidaturas e prazos;\n\ng) Forma de obtenção de esclarecimentos ao convite e ao caderno de encargos.\n\n6 - Do formulário de candidatura faz parte integrante o caderno de encargos, do qual constam, nomeadamente:\n\na) Requisitos de admissão das candidaturas;\n\nb) Elementos das candidaturas e documentos que as acompanham;\n\nc) Modo de apresentação das candidaturas;\n\nd) Local e data limite para apresentação das candidaturas;\n\ne) Especificação dos critérios a utilizar para efeitos de classificação e hierarquização das candidaturas e para decisão;\n\nf) Acesso à informação e à propriedade dos produtos produzidos;\n\ng) Condições respeitantes à elaboração do orçamento previsional e respectiva justificação, à prestação de contas a às modalidades de pagamento;\n\nh) Detalhes técnicos do serviço a prestar e das condições da sua prestação;\n\ni) Período em que devem ser prestados os serviços;\n\nj) Montante total de custos elegíveis relativos à prestação dos serviços e percentagem de comparticipação pública;\n\nk) Quantidade de acções a realizar e ou do número de agricultores a atingir;\n\nl) As despesas elegíveis, respectivos custos máximos e estrutura de custos de cada acção a realizar.\n\n7 - A minuta do caderno de encargos é objecto de homologação pelo Ministro da Agricultura, do Desenvolvimento Rural a das Pescas."
+  },
+  "388600fd10da928b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Apresentação das candidaturas\n\nAs candidaturas são apresentadas nos prazos e locais definidos em cada convite público."
+  },
+  "11fc65356aed2605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Análise das candidaturas\n\nA análise das candidaturas compete ao coordenador da medida AGRIS, que as remete ao gestor da intervenção operacional regional, nos termos do artigo 30.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril."
+  },
+  "f301e3365ea78e3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Parecer da unidade de gestão\n\nO gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão, nos termos do artigo 30.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril."
+  },
+  "cfe5ba6a1de466ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do artigo 29.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - As candidaturas devem ser objecto de análise e decisão nos prazos fixados pelo convite público.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e no convite público.\n\n4 - As demais candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no caderno de encargos.\n\n5 - Para efeitos de fixação dos critérios referidos no número anterior, serão considerados, entre outros, os seguintes aspectos:\n\na) A natureza do promotor, discriminando positivamente as organizações de agricultores;\n\nb) Qualidade e sustentabilidade do programa de trabalhos, nomeadamente no âmbito económico e através da integração e articulação com outros tipos de serviços prestados;\n\nc) Grau de cobertura da área geográfica de actuação;\n\nd) Articulação com outras medidas e instrumentos de política."
+  },
+  "d08e8c0fe0e769c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Contrato de atribuição de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contrato de atribuição de ajudas\n\n1 - A atribuição das ajudas previstas neste capítulo faz-se ao abrigo de contratos a celebrar entre o IFADAP e a entidade proponente, no prazo máximo de 30 dias a contar da data de comunicação ao interessado e àquele Instituto da aprovação da candidatura.\n\n2 - Pode ser exigida a constituição de garantias a favor do IFADAP, para segurança do reembolso das ajudas atribuídas."
+  },
+  "d5d098c4ae8d5b5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Obrigações dos beneficiários\n\nOs beneficiários ficam obrigados a prestar os serviços a todos os interessados, nas condições constantes das suas propostas."
+  },
+  "8bee1fc380c3ae11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pagamento das ajudas\n\n1 - Sem prejuízo do disposto nos números seguintes, os pagamentos serão efectuados em, no máximo, seis prestações anuais, de acordo com as modalidades especificadas no caderno de encargos, com base nas acções efectivamente realizadas, havendo consequentemente lugar à identificação e comprovação do serviço prestado e dos respectivos custos.\n\n2 - O pagamento da última prestação será efectuado no prazo de 60 dias após a recepção e a aprovação de um relatório final de execução e de contas, conforme especificado no caderno de encargos.\n\n3 - Poderá haver lugar ao pagamento de um adiantamento em conformidade com o disposto no caderno de encargos, mas que em caso algum poderá ser superior a 25% da ajuda aprovada.\n\n4 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos do contrato."
+  },
+  "66717462734cbba1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Tabela a que se refere o n.º 1 do artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela a que se refere o n.º 1 do artigo 24.º\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/01/022b00/04110415.pdf)"
+  },
+  "d42d7f7eac2ea3ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Execução dos investimentos",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+   ],
+   "markdown": "###### Artigo 16.º — Execução dos investimentos\n\n1 - A execução material dos projectos deve iniciar-se no prazo máximo de seis meses a contar da data da celebração do contrato de atribuição de ajuda e estar concluída no prazo máximo nele indicado.\n\n2 - O coordenador da medida AGRIS pode, em casos excepcionais e devidamente justificados, conceder a prorrogação dos prazos estabelecidos no número anterior.\n\n> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15."
+  },
+  "ebf27f303df8fc02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Beneficiários",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 19.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste capítulo, individualmente ou em parceria, as entidades com sede ou actividade no território abrangido pelo Programa Operacional Regional a seguir indicadas:\n\na) Cooperativas e associações de agricultores de 1.º grau;\n\nb) Organizações interprofissionais de âmbito regional, com ligação ao sector agrícola;\n\nc) Centros tecnológicos;\n\nd) Associações e outras pessoas colectivas vocacionadas para o desenvolvimento rural de 1.º grau, a reconhecer caso a caso;\n\ne) Pequenas empresas de serviços agrícolas de âmbito local.\n\n2 - O processo de reconhecimento referido na alínea d) do número anterior é estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n3 - No caso da apresentação de candidaturas em parceria, deverá ser designada a entidade administrativa e financeiramente responsável pela execução do projecto.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "cc8f96ac1dfc182b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Serviços apoiados",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 20.º — Serviços apoiados\n\nPodem ser apoiados os serviços especializados prestados no quadro de um contrato de prestação de serviços que se enquadrem nos seguintes domínios:\n\na) Aconselhamento e acompanhamento técnico especializado, designadamente nas áreas agrícola e pecuária, do bem-estar animal, da diversificação de actividades na exploração agrícola e da protecção ambiental;\n\nb) Assistência e apoio técnico no âmbito da qualidade e respectiva certificação, da saúde pública, do emparcelamento e da estruturação fundiária;\n\nc) Difusão de informação técnica, designadamente no âmbito da divulgação de novas tecnologias, de âmbito e aplicabilidade local ou regional, da diversificação de actividades, da protecção ambiental e paisagística, da organização e segurança no trabalho e das normas do bem-estar animal.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "6199715d9879e882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Condições de acesso",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 22.º — Condições de acesso\n\n1 - Os beneficiários devem reunir as seguintes condições:\n\na) Estar legalmente constituídos;\n\nb) Dispor de capacidades técnica, económica e financeira adequadas ao tipo e dimensão das acções a desenvolver;\n\nc) Utilizar um sistema de contabilidade adequada, com centros de custo para a actividade, incluindo o registo e o comprovativo de pagamento do utilizador do serviço, se for caso disso;\n\nd) Comprometer-se a prestar serviços a todos os interessados, atentos os objectivos estabelecidos.\n\n2 - As candidaturas devem apresentar um programa de acção com a duração máxima de dois anos, do qual deverão constar:\n\na) Descrição detalhada das acções a desenvolver e respectivos objectivos a atingir;\n\nb) Público-alvo, com identificação e quantificação dos potenciais utilizadores dos serviços, explicitando os pressupostos que estão na base da quantificação;\n\nc) Área geográfica de intervenção, identificando as unidades territoriais destinatárias das acções;\n\nd) Meios a utilizar, identificando as formas e metodologias de intervenção a utilizar;\n\ne) Custo estimado por acção e por rubrica de despesa e, se for caso disso, montante a cobrar aos utilizadores individuais e outras receitas associadas à prestação de serviços;\n\nf) Cronograma com a sequência e calendarização das acções a executar, considerando o período temporal da prestação de serviços.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "ae1e1e8c9c6696e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Despesas elegíveis",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 23.º — Despesas elegíveis\n\n1 - São elegíveis as despesas imputáveis directamente à prestação de serviços, bem como os respectivos custos indirectos, até ao limite de 10% do custo total elegível.\n\n2 - Consideram-se despesas imputáveis directamente à prestação de serviços aquelas que estão directamente associadas à prestação de serviços e que não ocorreriam para o beneficiário se os serviços não fossem prestados.\n\n3 - São elegíveis as despesas com a adjudicação de serviços a outras entidades, não podendo, no entanto, este valor ser superior a 50% do montante total envolvido na candidatura, e não sendo admitida a subcontratação pela outra entidade.\n\n4 - Nos casos referidos no número anterior, a responsabilidade dos trabalhos será sempre do beneficiário.\n\n5 - A elegibilidade das despesas é reportada à data da sua efectiva concretização e não às datas de referência contabilística.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "e13abff48a10b8f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Forma, valor e limite das ajudas",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 24.º — Forma, valor e limite das ajudas\n\n1 - As ajudas são atribuídas sob a forma de incentivo não reembolsável, de valor variável entre 30% e 60%, em função do domínio do serviço prestado, de acordo com a tabela em anexo a este Regulamento.\n\n2 - No caso de serviços prestados por cooperativas e associações de agricultores, a taxa será majorada em 10 pontos percentuais.\n\n3 - Sem prejuízo do disposto no número seguinte, o limite das ajudas é de (euro) 50000 e (euro) 100000 por ano e por candidatura, respectivamente no caso das candidaturas individuais e das candidaturas apresentadas em regime de parceria.\n\n4 - As ajudas concedidas ao abrigo deste regime de ajudas não podem exceder o limite de 250000 euros por beneficiário.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "f3813906b91eaaaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Processo de candidatura",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 25.º — Processo de candidatura\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "148710356fa94ed5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Apresentação das candidaturas",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 26.º — Apresentação das candidaturas\n\nAs candidaturas são entregues nas direcções regionais de agricultura ao longo de todo o ano, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "28816f43f564fbe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Decisão sobre as candidaturas",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 29.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do artigo 29.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam as condições estabelecidas no capítulo III deste Regulamento.\n\n3 - As candidaturas são hierarquizadas de acordo com os critérios de prioridade definidos no número seguinte e aprovadas conforme a dotação orçamental.\n\n4 - Para efeitos de fixação dos critérios referidos no número anterior, serão considerados os seguintes aspectos:\n\na) A natureza do promotor, discriminando positivamente as organizações de agricultores;\n\nb) Qualidade e sustentabilidade do programa de trabalhos, nomeadamente no âmbito económico e através da integração e articulação com outros tipos de serviços prestados;\n\nc) Grau de cobertura da área geográfica de actuação;\n\nd) Articulação com outras medidas e instrumentos de política;\n\ne) Domínios considerados prioritários regionalmente.\n\n5 - A ponderação dos critérios de prioridade será estabelecida pelo coordenador regional da medida AGRIS.\n\n6 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "7a67a7ebb7542f90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Pagamento das ajudas",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 32.º — Pagamento das ajudas\n\n1 - Sem prejuízo do disposto nos números seguintes, os pagamentos serão efectuados em até seis prestações anuais, com base nas acções efectivamente realizadas, mediante a identificação e comprovação do serviço prestado e dos respectivos custos.\n\n2 - O pagamento da última prestação será efectuado no prazo de 60 dias após a recepção e a aprovação de um relatório final de execução e de contas.\n\n3 - Nenhum adiantamento pode ser superior a 25% da ajuda aprovada.\n\n4 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos do contrato.\n\n> Alterado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  },
+  "52c6205edde37505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Execução do projecto",
+   "in_force_from": "2004-08-08",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+   ],
+   "markdown": "###### Artigo 33.º — Execução do projecto\n\n1 - A execução do projecto deverá iniciar-se no prazo máximo de três meses a contar da data de assinatura do contrato de atribuição das ajudas, ou mediante apresentação de novo cronograma de actividades, caso o inicial tenha sido alterado.\n\n2 - A data de início de execução do projecto deve ser comunicada à respectiva DRA.\n\n3 - A execução financeira do projecto de prestação de serviços no seu 1.º ano de implemenação não poderá ser inferior a 30% do custo total aprovado para esse ano.\n\n4 - Sem prejuízo das demais cláusulas contratuais, quando a execução se situe abaixo deste limite, o custo total aprovado para a candidatura será reduzido no montante equivalente ao não executado.\n\n5 - No final do 1.º ano de execução deverá ser apresentado um relatório geral de progresso, sujeito a ratificação pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, da qual depende a concessão de apoios à conclusão do projecto.\n\n> Aditado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03."
+  }
+ }
+}

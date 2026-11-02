@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-07-22'
+version_history:
+  file: decreto-lei-444-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-07-22'
+    amending: pt:dre:336682:por
+    amending_title: Decreto-Lei n.º 384/75
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:24:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 384/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-444-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,9 @@ de 10 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.º 162/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1972-681217), de 15 de Maio, tem direito aos vencimentos das categorias do mapa I anexo ao presente diploma.
+###### Artigo 1.º
+
+1 - (Revogado.)
 
 2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.
 
@@ -120,7 +137,11 @@ Artigo 1.º - 1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.�
 
 4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.
 
-Art. 2.º - 1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.
+> Alterado pelo/a [Decreto-Lei n.º 384/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1975-336682), publicado em 1975-07-22.
+
+###### Artigo 2.º
+
+1. A admissão ao quadro realiza-se por escolha do director adjunto português do Polígono de Acústica Submarina dos Açores ou por concurso, observadas as condições que forem estabelecidas por despacho do Ministro da Defesa Nacional e as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) quanto às habilitações mínimas.
 
 2. As habilitações mínimas podem ser substituídas por habilitações adequadas aos cargos adquiridas nos estabelecimentos militares de ensino, conforme constar das referidas condições de admissão.
 

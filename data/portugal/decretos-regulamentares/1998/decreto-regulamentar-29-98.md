@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-20'
+version_history:
+  file: decreto-regulamentar-29-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-20'
+    amending: pt:dre:570303:por
+    amending_title: Decreto-Lei n.º 34/2004
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/29/1998/11/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 34/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-29-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,17 +171,17 @@ a) Contribuir para a definição e execução da política de concorrência, enq
 
 b) Promover o funcionamento eficiente dos mercados, agindo nos domínios das estratégias e comportamentos dos agentes económicos, das estruturas dos mercados, dos mecanismos de regulação e das políticas sectoriais e do direito da concorrência;
 
-c) Contribuir para a definição e execução das políticas sectoriais para o comércio e a distribuição, promovendo a modernização das estruturas e a competitividade sustentada das empresas, atendendo à sua diversidade, especialização e defesa dos interesses dos consumidores;
+c) (Revogada.)
 
-d) Acompanhar as actividades comerciais e de distribuição, mantendo um conhecimento actualizado das tendências das respectivas condições gerais de funcionamento, por forma a permitir a avaliação dos efeitos das medidas de política sectorial;
+d) (Revogada.)
 
 e) Dar cumprimento às missões que, no âmbito do direito interno e comunitário de concorrência, são atribuídas à autoridade administrativa nacional de concorrência;
 
-f) Acompanhar a evolução dos preços dos bens e serviços e apreciar os procedimentos relativos aos diferentes regimes de preços e negociar e celebrar, em representação da Administração, as convenções de preços;
+f) (Revogada.)
 
-g) Contribuir para a elaboração das propostas legislativas e regulamentares necessárias à prossecução dos objectivos das políticas acima referidas e assegurar o cumprimento da legislação aplicável nas suas áreas de intervenção, nos termos definidos na lei;
+g) (Revogada.)
 
-h) Apoiar o Governo nas negociações e decisões, nas instâncias internacionais, envolvendo as políticas de concorrência e as políticas sectoriais para o comércio e a distribuição, em particular no quadro da União Europeia, com vista à sua adequação aos interesses fundamentais da política económica nacional.
+h) (Revogada.)
 
 2 - No âmbito das atribuições previstas no número anterior, caberá, nomeadamente, à DGCC:
 
@@ -175,6 +190,8 @@ a) Assegurar um conhecimento actualizado do funcionamento dos mercados nacionais
 b) Participar, sem prejuízo das competências atribuídas a outras entidades, na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência;
 
 c) Promover a divulgação pelos agentes económicos de informação útil para a definição e formulação das respectivas estratégias empresariais.
+
+> Alterado pelo/a [Decreto-Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2004-570303), publicado em 2004-02-19.
 
 ### CAPÍTULO II — Órgãos e serviços e suas competências
 

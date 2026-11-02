@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-27'
+version_history:
+  file: decreto-lei-206-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-27'
+    amending: pt:dre:321688:por
+    amending_title: Decreto-Lei n.º 182/99
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/206/1994/08/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:32:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 182/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-206-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,6 +196,10 @@ i) Matéria-prima destinada exclusivamente a fabricantes autorizados de alimento
 ii) Interdita a utilização tal qual em alimentação animal;
 
 iii) Teor em substância ou produto indesejável presente.
+
+8 - As disposições previstas no número anterior são também aplicáveis às matérias-primas para alimentação animal e às substâncias ou produtos indesejáveis referidos no anexo II, parte B, cujo teor máximo não é fixado na parte A, se o teor da substância ou do produto indesejável presente na matéria-prima para alimentação animal for superior na coluna 3 do anexo I.
+
+> Alterado pelo/a [Decreto-Lei n.º 182/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1999-321688), publicado em 1999-05-22.
 
 ###### Artigo 10.º — [...]
 

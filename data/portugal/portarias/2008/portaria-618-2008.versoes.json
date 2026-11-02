@@ -1,0 +1,422 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456533:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53285f7e2625a81f",
+    "221739c41e13e876",
+    "8260a1a06ac753d1",
+    "55396869146233a4",
+    "3a9e47d6e356176a",
+    "0e1fd8c61b196b96",
+    "6ee6b1561429ccb7",
+    "af2abaeb2a4f9241",
+    "bafcdf54193bc28e",
+    "8f2ca1db3a911d86",
+    "3971e546ac5a2690",
+    "1b8945d474a8c07e",
+    "84b7d78ec313eb6b",
+    "dec1034c8ca1246f",
+    "b243bf4e3b887abf",
+    "b531ecdb08fa9059",
+    "21cfb689260945d9",
+    "b8585908fff0417c",
+    "5f46f15fa8dedcc1",
+    "9b6fe581452d89df",
+    "d24af521199d4f8d",
+    "046e707022da36eb",
+    "0e68c78d8f1ed481",
+    "531e5afae2a3b030",
+    "c9a243bb00c5cc17",
+    "88ddde94e621690c",
+    "bd9019cb37c65bfb",
+    "629ef67f460fbfa2",
+    "c96a62a7a342f440",
+    "f277d42f8bdc964b",
+    "36b87d64ecfd1593",
+    "a71f330039a1effb",
+    "738013f03bfb067d",
+    "6943956a3ad7992a"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:439401:por",
+     "title": "Portaria n.º 1305/2008",
+     "published": "2008-11-11",
+     "dre_path": "/dr/detalhe/portaria/1305-2008-439401"
+    },
+    {
+     "id": "pt:dre:342802:por",
+     "title": "Portaria n.º 1049/2010",
+     "published": "2010-10-11",
+     "dre_path": "/dr/detalhe/portaria/1049-2010-342802"
+    },
+    {
+     "id": "pt:dre:670056:por",
+     "title": "Portaria n.º 228/2011",
+     "published": "2011-06-09",
+     "dre_path": "/dr/detalhe/portaria/228-2011-670056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::21.º",
+    "Adita Artigo ANEXO::13.º-A",
+    "Adita Artigo ANEXO::14.º-A"
+   ],
+   "fragments": [
+    "53285f7e2625a81f",
+    "221739c41e13e876",
+    "8260a1a06ac753d1",
+    "55396869146233a4",
+    "3a9e47d6e356176a",
+    "0e1fd8c61b196b96",
+    "6ee6b1561429ccb7",
+    "af2abaeb2a4f9241",
+    "bafcdf54193bc28e",
+    "8f2ca1db3a911d86",
+    "3971e546ac5a2690",
+    "1b8945d474a8c07e",
+    "84b7d78ec313eb6b",
+    "dec1034c8ca1246f",
+    "b243bf4e3b887abf",
+    "b531ecdb08fa9059",
+    "21cfb689260945d9",
+    "b8585908fff0417c",
+    "5f46f15fa8dedcc1",
+    "9b6fe581452d89df",
+    "1024d8c267929b61",
+    "d24af521199d4f8d",
+    "14edf5bb52a5a36b",
+    "046e707022da36eb",
+    "0e68c78d8f1ed481",
+    "531e5afae2a3b030",
+    "c9a243bb00c5cc17",
+    "88ddde94e621690c",
+    "bd9019cb37c65bfb",
+    "06373e98eb723324",
+    "c96a62a7a342f440",
+    "f277d42f8bdc964b",
+    "36b87d64ecfd1593",
+    "a71f330039a1effb",
+    "738013f03bfb067d",
+    "6943956a3ad7992a"
+   ]
+  }
+ ],
+ "fragments": {
+  "53285f7e2625a81f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Julho\n\nO Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro, estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, o qual deve contribuir para o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural e a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.\n\nO subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, denominado PRODER, destinado à «gestão sustentável do espaço rural», contém uma acção dedicada à «conservação e melhoramento de recursos genéticos», com um conjunto de objectivos que pretendem, nomeadamente, contribuir para a manutenção e melhoria da biodiversidade animal através da conservação e desenvolvimento do seu património genético e, desta forma, para a sustentabilidade dos espaços rurais e dos seus recursos naturais.\n\nEsta acção constitui, assim, o enquadramento regulamentar da subacção n.º 2.2.3.2, «Componente animal», com o objectivo específico de assegurar a continuidade da conservação e do melhoramento dos recursos genéticos animais através da promoção e apoio ao funcionamento regular dos livros genealógicos e registos zootécnicos, que asseguram a caracterização das raças abrangidas e promovem a sua avaliação genética.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "221739c41e13e876": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Subacção n.º 2.2.3.2, «Componente Animal», da Acção n.º 2.2.3, «Conservação e Melhoramento de Recursos Genéticos», da medida n.º 2.2, «Valorização de modos de produção», integrada no subprograma n.º 2, «Gestão sustentável do espaço rural», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "8260a1a06ac753d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo às acções que integram os programas de conservação e melhoramento;\n\nb) Anexo II, relativo aos limites máximos de apoio;\n\nc) Anexo III, relativo à estrutura geral de um programa de conservação genética animal;\n\nd) Anexo IV, relativo à estrutura geral de um programa de melhoramento genético animal;\n\ne) Anexo V, relativo ao nível de ameaça das raças autóctones e às raças elegíveis."
+  },
+  "55396869146233a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2008."
+  },
+  "3a9e47d6e356176a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 2.2.3.2, «COMPONENTE ANIMAL», DA ACÇÃO N.º 2.2.3, «CONSERVAÇÃO E MELHORAMENTO DE RECURSOS GENÉTICOS»"
+  },
+  "0e1fd8c61b196b96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições iniciais"
+  },
+  "6ee6b1561429ccb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da subacção n.º 2.2.3.2, «Componente animal», da acção n.º 2.2.3, «Conservação e melhoramento de recursos genéticos», da medida n.º 2.2, «Valorização dos modos de produção integrada», do subprograma n.º 2, «Gestão sustentável do espaço rural», do Plano de Desenvolvimento Rural para o Continente, abreviadamente designado por PRODER."
+  },
+  "af2abaeb2a4f9241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nA subacção prevista no presente Regulamento tem os seguintes objectivos:\n\na) Assegurar a continuidade da conservação e do melhoramento dos recursos genéticos animais, raças autóctones, exóticas e raça bovina Frísia, permitindo a selecção e disponibilização aos criadores dos melhores animais reprodutores;\n\nb) Promover o funcionamento regular dos livros genealógicos e registos zootécnicos;\n\nc) Assegurar os trabalhos de caracterização das raças abrangidas;\n\nd) Promover a avaliação genética como objectivo final dos programas de melhoramento."
+  },
+  "bafcdf54193bc28e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\nO presente Regulamento tem aplicação em todo o território do continente."
+  },
+  "8f2ca1db3a911d86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:\n\na) «Programa de Conservação Genética Animal» o conjunto de acções de recolha de dados zootécnicos e tratamento da informação de forma a obter informação com vista à conservação da variabilidade genética ex situ, banco de germoplasma animal, e in situ, isto é, na exploração;\n\nb) «Programa de Melhoramento Genético Animal» o conjunto de acções de recolha de dados zootécnicos e tratamento da informação utilizando métodos cientificamente válidos e conducentes à avaliação genética do animal, com vista à obtenção da sua melhoria genética;\n\nc) «Registo zootécnico» o registo que tem por fim assegurar a preservação genética de uma raça, cuja ascendência pode ou não ser conhecida, e concorrer para o seu progresso zootécnico. Este registo antecede a institucionalização do respectivo livro genealógico, devendo a inscrição nos registos zootécnicos obedecer aos respectivos regulamentos;\n\nd) «Livro genealógico» o registo que tem por fim assegurar a preservação genética de uma raça, cuja ascendência é obrigatoriamente conhecida, e concorrer para o seu progresso zootécnico, favorecendo a difusão de reprodutores, devendo a inscrição nos livros genealógicos obedecer aos respectivos regulamentos;\n\ne) «Avaliação genética» a determinação do valor genético de um animal e do seu valor como reprodutor de acordo com os métodos aprovados pela Direcção-Geral de Veterinária (DGV);\n\nf) «Caracterização genética» a avaliação das características genéticas do animal ou de uma população, nomeadamente através de marcadores genéticos e ou através de análise demográfica."
+  },
+  "3971e546ac5a2690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente Regulamento:\n\na) Organizações associativas que tenham a seu cargo a gestão de livros genealógicos ou registos zootécnicos, no caso das espécies pecuárias das raças autóctones e das raças exóticas e, no caso da raça bovina Frísia, a base de dados nacional relativa ao melhoramento genético desta raça, com especial incidência nos dados de contraste leiteiro;\n\nb) Entidades públicas ou entidades privadas que estabeleçam parcerias com entidades públicas tendo em vista a prossecução dos objectivos referidos na alínea anterior."
+  },
+  "1b8945d474a8c07e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Disporem de um programa de conservação genética animal ou de um programa de melhoramento genético animal, aprovados pela DGV;\n\nb) Encontrarem-se legalmente constituídos;\n\nc) Cumprirem as obrigações legais, designadamente as fiscais e para com a segurança social;\n\nd) Não estarem abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas, realizadas desde 2000;\n\ne) No caso de entidades públicas em parceria, apresentar o contrato celebrado, com a identificação das obrigações das partes contratantes, no âmbito da operação e a respectiva participação financeira;\n\nf) Apresentarem uma declaração da DGV comprovativa da aprovação do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal."
+  },
+  "84b7d78ec313eb6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos no presente Regulamento as acções decorrentes das actividades directamente relacionadas com a execução de um programa de conservação genética animal ou de um programa de melhoramento genético animal, aprovados pela DGV."
+  },
+  "dec1034c8ca1246f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Programas de Conservação Genética Animal e Programas de Melhoramento Genético Animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Programas de Conservação Genética Animal e Programas de Melhoramento Genético Animal\n\n1 - Os primeiros Programas de Conservação Genética Animal e Programas de Melhoramento Genético Animal têm a duração máxima de três anos.\n\n2 - Os Programas de Conservação Genética Animal e os Programas de Melhoramento Genético Animal devem incluir acções consideradas relevantes e identificadas no anexo i do presente diploma.\n\n3 - Os Programas de Conservação Genética Animal e os Programas de Melhoramento Genético Animal devem definir objectivos e metas quantificadas, descrever as acções a desenvolver anualmente, incluir um orçamento previsional baseado na tabela forfetária definida no anexo ii e organizar a informação de acordo com a estrutura geral indicativa descrita, respectivamente, nos anexos iii e iv do presente diploma.\n\n4 - Os Programas de Melhoramento Genético Animal devem ainda prever resultados de avaliação genética até ao final do 3.º ano."
+  },
+  "b243bf4e3b887abf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Base de dados nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Base de dados nacional\n\nÉ criada uma base de dados nacional, cujas especificações técnicas são definidas, pela DGV, seis meses após a publicação desta portaria, que é alimentada pela informação decorrente dos Programas de Conservação Genética Animal e de Melhoramento Genético Animal."
+  },
+  "b531ecdb08fa9059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PRODER;\n\nb) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\nc) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através da conta bancária específica para o efeito;\n\nd) Executar as acções previstas no Programa de Conservação Genética Animal ou no Programa de Melhoramento Genético Animal, conforme previsto na alínea a) do artigo 6.º;\n\ne) Fornecer a informação relevante para a base de dados nacional, utilizando para o efeito a estrutura prevista no artigo 9.º;\n\nf) Elaborar um relatório anual de execução do Programa de Conservação Genética Animal ou do Programa de Melhoramento Genético Animal, em conformidade com o artigo 15.º;\n\ng) Rever e adaptar o Programa de Conservação Genética Animal ou o Programa de Melhoramento Genético Animal."
+  },
+  "21cfb689260945d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Forma e nível dos apoios\n\n1 - Os apoios são concedidos sob a forma de montantes forfetários, equivalentes a subsídios não reembolsáveis.\n\n2 - Os montantes forfetários são calculados com base nas despesas elegíveis correspondentes à média dos custos padrão das acções, com dispensa de apresentação de facturas ou documentos contabilísticos de valor probatório equivalente.\n\n3 - O nível e os limites máximos de apoio são os constantes da tabela apresentada no anexo ii."
+  },
+  "b8585908fff0417c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de selecção dos pedidos de apoio\n\nOs pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados e hierarquizados com os seguintes critérios de prioridade:\n\na) Raças autóctones, por ordem decrescente do risco de extinção, conforme definido no âmbito da acção n.º 2.2.2, «Protecção da biodiversidade doméstica», do PRODER e no anexo v;\n\nb) Raças exóticas e raça bovina Frísia."
+  },
+  "5f46f15fa8dedcc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Procedimento"
+  },
+  "9b6fe581452d89df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação dos pedidos de apoio\n\n1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio são submetidos até 50 dias úteis após publicação da presente portaria.\n\n2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, no prazo máximo de três dias, considerando-se a data da confirmação como data de apresentação do pedido de apoio."
+  },
+  "d24af521199d4f8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Análise e decisão sobre os pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão sobre os pedidos de apoio\n\n1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação.\n\n2 - O parecer referido no número anterior é emitido num prazo máximo de 30 dias úteis a contar do termo de apresentação dos pedidos de apoio.\n\n3 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da autoridade de gestão, sendo a mesma comunicada aos candidatos pela DRAP no prazo máximo de 10 dias úteis a contar da data de emissão do parecer."
+  },
+  "046e707022da36eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Execução e avaliação dos Programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução e avaliação dos Programas\n\n1 - Os relatórios de execução referidos na alínea f) do artigo 10.º são apresentados pelo beneficiário à DGV, até 28 de Fevereiro de cada ano, em relação às acções realizadas no ano anterior, que os valida e remete à AG até 31 de Março do mesmo ano.\n\n2 - A avaliação dos primeiros Programas de Conservação Genética Animal e de Melhoramento Genético Animal deverá ser realizada até 31 de Março de 2011."
+  },
+  "0e68c78d8f1ed481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito a celebrar entre o beneficiário ou beneficiários e o Instituto de Financiamento da Agricultura e Pescas I. P. (IFAP, I. P).\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "531e5afae2a3b030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - As entidades beneficiárias podem apresentar quatro pedidos de pagamento anuais, até 31 de Março, 30 de Junho, 30 de Setembro e 31 de Dezembro, reportando-se às acções efectivamente realizadas, de acordo com o programa previamente aprovado."
+  },
+  "c9a243bb00c5cc17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Análise dos pedidos de pagamento e autorização de despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Análise dos pedidos de pagamento e autorização de despesa\n\n1 - As DRAP analisam os pedidos de pagamento no prazo máximo de 20 dias úteis a contar da data de apresentação dos pedidos, após validação das acções efectuada pela DGV.\n\n2 - Para efeitos de pagamento ao beneficiário, o gestor emite as autorizações de despesa validada e envia-as ao IFAP, I. P."
+  },
+  "88ddde94e621690c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos\n\nO pagamento dos apoios é efectuado pelo IFAP, I. P., por transferência bancária, para a conta referida na alínea c) do artigo 10.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa."
+  },
+  "bd9019cb37c65bfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Controlo\n\nOs Programas de Conservação Genética Animal ou de Melhoramento Genético Animal estão sujeitos a controlo, a efectuar durante a execução dos mesmos e até um ano após a entrega do último relatório de execução."
+  },
+  "629ef67f460fbfa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.\n\n2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio."
+  },
+  "c96a62a7a342f440": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposições transitórias\n\n1 - Consideram-se elegíveis para efeitos de contratação e pagamento as acções constantes do anexo i e validadas pela DGV e que tenham sido realizadas após 1 de Janeiro de 2007.\n\n2 - No caso de alteração do beneficiário, serão consideradas para efeito de pagamento todas as acções realizadas no âmbito do programa de conservação ou melhoramento aprovado pela DGV, desde 1 de Janeiro de 2007 até à data da respectiva alteração do beneficiário, após a qual será considerado o novo beneficiário."
+  },
+  "f277d42f8bdc964b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se refere o n.º 2 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se refere o n.º 2 do artigo 8.º)\n\nAcções que integram os Programas de Conservação e Melhoramento Genético Animal\n\nInscrição no livro genealógico ou registo zootécnico (LN e LA) - caracterização genética (caracterização demográfica e molecular).\n\nExames de paternidade.\n\nInseminação artificial (1) (2).\n\nTransferência de embriões (2).\n\nInformação da carcaça e da qualidade da carne (1).\n\nClassificação morfológica.\n\nProvas morfofuncionais.\n\nControlos de performance na exploração.\n\nControlos de performance em estação.\n\nContrastes leiteiros.\n\nContrastes de postura.\n\nAvaliação genética.\n\nAcções de promoção da raça (exposições, concursos, publicações).\n\nAcções de conservação ex situ - banco de germoplasma animal.\n\n(1) Apenas para raças autóctones no âmbito dos Programas de Conservação e Melhoramento Genético aprovados pela DGV.\n\n(2) Apenas para raças autóctones, no âmbito de conservação ex situ - banco de germoplasma animal - aprovadas pela DGV.\n\nAcções de caracterização genética\n\nA caracterização genética através de marcadores genéticos baseia-se num conjunto de actividades, nomeadamente recolha de material biológico, extracção de ADN, selecção, amplificação, detecção e análise dos marcadores genéticos e no tratamento estatístico dos dados referentes aos marcadores, com o objectivo de estimar diversos parâmetros relacionados com a estrutura, relação e diferenciação genética entre indivíduos ou entre e dentro das populações.\n\nA caracterização genética através da análise demográfica baseia-se na estimativa de um conjunto diverso de parâmetros demográficos e de alguns indicadores da variabilidade genética (consanguinidade, parentescos, tamanho efectivo da população, etc.) tendo em vista a estruturação do Programa de Conservação ou de Melhoramento e a gestão da variabilidade genética de populações.\n\nAcções de avaliação genética\n\nA avaliação genética consiste num conjunto de procedimentos baseados na utilização de registos genealógicos e produtivos e de metodologias estatísticas adequadas com o objectivo de se predizer o valor genético dos animais para uma ou para diversas características produtivas, para que a selecção dos reprodutores possa ser eficaz e objectiva."
+  },
+  "36b87d64ecfd1593": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — (a que se referem os artigos 8.º e 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — (a que se referem os artigos 8.º e 11.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)"
+  },
+  "a71f330039a1effb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — (a que se refere o n.º 3 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — (a que se refere o n.º 3 do artigo 8.º)\n\nEstrutura geral de um programa de conservação genética animal in situ, elaborados no âmbito do cumprimento dos respectivos regulamentos dos registos zootécnicos e dos livros genealógicos.\n\n1 - Descrição do sistema de produção:\n\n1.1 - Número de animais e número de explorações;\n\n1.2 - Parâmetros demográficos (consanguinidade, estrutura etária, intervalo de gerações);\n\n1.3 - Práticas de maneio, produtividade;\n\n1.4 - Cruzamentos com outras raças;\n\n1.5 - Produtos finais.\n\n2 - Recolha de informação:\n\n2.1 - Entidades envolvidas;\n\n2.2 - Sistema de identificação;\n\n2.3 - Sistema de recolha de registos genealógicos e produtivos;\n\n2.4 - Conexão entre explorações;\n\n2.5 - Fluxo e tratamento de informação;\n\n2.6 - Controlo genealógico e validação;\n\n2.7 - Técnicas de reprodução utilizadas."
+  },
+  "738013f03bfb067d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — (a que se refere o n.º 3 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — (a que se refere o n.º 3 do artigo 8.º)\n\nEstrutura geral de um programa de melhoramento elaborados no âmbito do cumprimento dos respectivos regulamentos dos livros genealógicos\n\n1 - N.os 1 e 2 do anexo iii.\n\n2 - Definição dos objectivos de melhoramento:\n\n2.1 - Quais os caracteres que se pretendem seleccionar/melhorar;\n\n2.2 - Caracteres que influenciam economicamente o sistema de exploração;\n\n2.3 - Contribuição de cada carácter para o benefício económico/pesos económicos dos vários caracteres.\n\n3 - Estimativa de parâmetro:\n\n3.1 - Variabilidade genética e fenotípica dos caracteres;\n\n3.2 - Heritabilidade dos caracteres;\n\n3.3 - Correlações genéticas e fenotípicas entre caracteres.\n\n4 - Escolha dos critérios de selecção:\n\n4.1 - Quais os caracteres que se pretendem avaliar e que vão ser medidos;\n\n4.2 - Caracteres com base nos quais se seleccionam os animais (os critérios de selecção podem ou não ser os mesmos que os objectivos de melhoramento);\n\n4.3 - Aspectos a considerar na escolha dos critérios de selecção:\n\n4.3.1 - Variabilidade genética;\n\n4.3.2 - Correlação genética com os objectivos de melhoramento;\n\n4.3.3 - Medição:\n\n4.3.3.1 - Mensurável nos candidatos à selecção? Parentes?\n\n4.3.3.2 - Facilidade? Custo? Idade, registos repetidos, etc.\n\n5 - Avaliação de esquemas alternativos:\n\n5.1 - Número de animais controlados;\n\n5.2 - Metodologias de selecção;\n\n5.3 - Optimização dos resultados do programa;\n\n5.4 - Custos e benefícios de diferentes alternativas;\n\n5.5 - Respostas directas e correlacionadas;\n\n5.6 - Resposta esperada anualmente/geração.\n\n6 - Organização do controlo de performances e recolha de informação:\n\n6.1 - Entidades envolvidas;\n\n6.2 - Sistema de identificação;\n\n6.3 - Recolha de registos genealógicos e produtivos:\n\n6.3.1 - Dados de campo a recolher (critérios de selecção);\n\n6.3.2 - Recolha de dados de campo (explorações, estação, matadouro);\n\n6.4 - Conexão entre explorações;\n\n6.5 - Marcadores genéticos;\n\n6.6 - Fluxo e tratamento de informação;\n\n6.7 - Controlo genealógico e validação;\n\n6.8 - Técnicas de reprodução utilizadas.\n\n7 - Avaliação genética:\n\n7.1 - Entidade responsável, independente da Associação de Criadores e reconhecida pela DGV;\n\n7.2 - Caracteres avaliados;\n\n7.3 - Informação produtiva e genealógica disponível anualmente;\n\n7.4 - Metodologia utilizada;\n\n7.5 - Modelo de análise para os diferentes caracteres;\n\n7.6 - Periodicidade da avaliação genética;\n\n7.7 - Forma de apresentação dos resultados aos criadores e ao público em geral:\n\n7.7.1 - Catálogo;\n\n7.7.2 - Relatórios individuais por criador;\n\n7.7.3 - Divulgação na Internet.\n\n8 - Selecção e utilização dos animais seleccionados:\n\n8.1 - Métodos de selecção e utilização dos futuros reprodutores;\n\n8.2 - Aplicação dos critérios de selecção;\n\n8.3 - Controlo da consanguinidade;\n\n8.4 - Programação dos acasalamentos;\n\n8.5 - Utilização de marcadores genéticos."
+  },
+  "6943956a3ad7992a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — (a que se refere o artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — (a que se refere o artigo 12.º)\n\nRaças autóctones abrangidas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)\n\nRaças exóticas abrangidas\n\nBovinos:\n\nLimousine;\n\nCharolesa;\n\nBlonde d'Aquitaine;\n\nSalers;\n\nFrísia;\n\nSuínos:\n\nLarge White;\n\nLandrace;\n\nDuroc;\n\nPietrain;\n\nHampshire;\n\nOvinos:\n\nMerino Precoce;\n\nIlle-de-France;\n\nAssaf."
+  },
+  "1024d8c267929b61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-A — Avisos de abertura e anúncios",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 13.º-A — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) O prazo para apresentação dos pedidos de apoio;\n\nb) O número máximo de pedidos de apoio admitidos por beneficiário;\n\nc) A dotação orçamental a atribuir;\n\nd) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.\n\n2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n3 - Dentro dos limites da elegibilidade temporal do programa, o aviso define o período de elegibilidade da realização das acções.\n\n> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "14edf5bb52a5a36b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º-A — Readmissão de pedidos de apoio",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 14.º-A — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.»\n\n> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "06373e98eb723324": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis às entidades promotoras as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio.\n\n> Alterado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  }
+ }
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-05'
+version_history:
+  file: decreto-lei-79-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-05'
+    amending: pt:dre:350150:por
+    amending_title: Decreto-Lei n.º 243/2004
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/79/1997/04/08/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:56:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 243/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-79-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,13 +175,15 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https:
 
 ###### Artigo 3.º
 
-1 - As acções da EDA, S. A., pertencem à Região Autónoma dos Açores e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
+1 - (Revogado.)
 
 2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.
 
 3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.
 
 4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade.
+
+> Alterado pelo/a [Decreto-Lei n.º 243/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2004-350150), publicado em 2004-12-31.
 
 ###### Artigo 4.º
 
