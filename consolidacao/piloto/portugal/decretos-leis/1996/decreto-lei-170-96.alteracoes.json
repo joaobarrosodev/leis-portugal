@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Poderes transferidos\n\nCompete a cada universidade, pelo órgão e nos demais termos constantes dos respectivos estatutos:\n\na) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;\n\nb) Definir o regime de prescrições a praticar relativamente ao direito à matrícula e inscrição nos cursos nela ministrados;\n\nc) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício.",
+    "depois": "###### Artigo 1.º — Poderes transferidos\n\nCompete a cada universidade, pelo órgão e nos demais termos constantes dos respectivos estatutos:\n\na) Conhecer e decidir das incompatibilidades e suspeições em exames, provas e concursos de natureza académica;\n\nb) (Revogada.)\n\nc) Fixar o número máximo de vice-reitores e de pró-reitores que podem estar simultaneamente em exercício.\n\n> Alterado pelo/a [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), publicado em 2003-08-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:219367:por",
+    "alterador": "pt:dre:656107:por"
+  }
+]

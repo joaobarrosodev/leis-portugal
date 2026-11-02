@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:203474:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções alteram só o quadro do anexo (opções/ramos, duração de ciclos) e revogam parcialmente a portaria apenas em certas partes do anexo; anexo não disponível em texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

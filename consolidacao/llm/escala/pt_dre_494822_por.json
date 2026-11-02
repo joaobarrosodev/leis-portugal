@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:494822:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "Subsídios e adiantamentos",
+      "texto": "A atribuição de subsídios reembolsáveis a quaisquer entidades, bem como a concessão de adiantamentos a empreiteiros ou a fornecedores da Região Autónoma dos Açores, carece de autorização prévia do Secretário Regional das Finanças e Planeamento."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "14.º: parágrafo que não está no alterador nem no original: A atribuição de subsídios reembolsáveis a quaisquer entidades, bem como a conces"
+  ]
+}

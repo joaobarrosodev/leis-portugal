@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:227416:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto e âmbito",
+      "texto": "É criada uma linha de crédito para financiamento das entidades do sector pecuário extensivo criadoras de bovinos, ovinos, caprinos, suínos e equinos, bem como das entidades que se dediquem à apicultura, com vista a compensar os custos acrescidos resultantes da escassez de pastagens e forragens em virtude de condições climatéricas adversas verificadas desde Novembro de 2004."
+    }
+  ],
+  "nao_aplicavel": "Artigos 2.º e 3.º não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

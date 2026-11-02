@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:1926318:por",
+  "artigos": [],
+  "nao_aplicavel": "o diploma que altera não traz o texto da nova redação (só a frase introdutória); a revogação da alínea b) do n.º 2 do artigo 3.º visa texto que não existe no original (n.º 2 sem alíneas)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

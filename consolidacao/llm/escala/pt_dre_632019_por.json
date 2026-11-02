@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:632019:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

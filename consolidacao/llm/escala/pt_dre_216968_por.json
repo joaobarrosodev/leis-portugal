@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:216968:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Atribuições",
+      "texto": "1 - São atribuições da DGCC:\n\na) Contribuir para a definição e execução da política de concorrência, enquanto mecanismo de regulação do desenvolvimento económico e empresarial, e acompanhar e avaliar a execução das medidas dela decorrentes;\n\nb) Promover o funcionamento eficiente dos mercados, agindo nos domínios das estratégias e comportamentos dos agentes económicos, das estruturas dos mercados, dos mecanismos de regulação e das políticas sectoriais e do direito da concorrência;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Dar cumprimento às missões que, no âmbito do direito interno e comunitário de concorrência, são atribuídas à autoridade administrativa nacional de concorrência;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\n2 - No âmbito das atribuições previstas no número anterior, caberá, nomeadamente, à DGCC:\n\na) Assegurar um conhecimento actualizado do funcionamento dos mercados nacionais dos vários bens e serviços, a fim de criar ou reforçar as condições necessárias ao funcionamento concorrencial dos mesmos;\n\nb) Participar, sem prejuízo das competências atribuídas a outras entidades, na actividade desenvolvida por organismos e instituições internacionais em matéria de concorrência;\n\nc) Promover a divulgação pelos agentes económicos de informação útil para a definição e formulação das respectivas estratégias empresariais."
+    }
+  ],
+  "nao_aplicavel": "a instrução não indica o número; aplicada ao n.º 1, único com alíneas d), f), g) e h)",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

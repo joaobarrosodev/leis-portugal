@@ -432,3 +432,8 @@ Mesmo processo dos lotes 001 a 010 (ver acima). `llm.py --importar` deu, por lot
 | Com problemas | 3 | 1 | 3 | 1 | 1 | 1 | 0 | 2 | 12 |
 
 `juntar.py --escala`: 233 `aplicado com LLM` (186 parciais), 61 novos. Ronda 9 (`verificacao/entrada-piloto-9-lote-01..03.jsonl`, 8 pedaços de verificação): **21 sem reparos** (34 %). O `acervo.py --dry-run` dá 21 aplicáveis por aplicar.
+
+### Bloco 4: LLM nos lotes 027 a 042 (2026-10-29), ronda 10 por verificar
+
+Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027: 6, 028: 11, 029: 7, 030: 5, 031: 10, 032: 6, 033: 9, 034: 2, 035: 6, 036: 9, 037: 10, 038: 12, 039: 6, 040: 9, 041: 12, 042: 14), 39 com problemas. `juntar.py --escala`: 339 `aplicado com LLM` (253 parciais), 106 novos. Ronda 10: `verificacao/entrada-piloto-10-lote-01..04.jsonl` (106 diplomas). **A verificação às cegas da ronda 10 não está concluída**: os subagentes escrevem em `verif10/` (fora do repositório, no scratchpad da sessão); falta `cegas_vista.py saida 10 PASTA` e o dry-run. Até lá, nada desta ronda é aplicável.
+

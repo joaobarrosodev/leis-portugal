@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:1511427:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "Campanha de 2011",
+      "texto": "1 - Para a campanha de 2011 o período de candidatura inicia-se no dia seguinte à data de entrada em vigor do presente despacho e tem a duração de 30 dias seguidos.\n\n2 - O prazo referido no n.º 3 do artigo 7.º é de 15 dias úteis após conclusão do período de candidatura previsto no número anterior.\n\n3 - O prazo referido no n.º 2 do artigo 10.º é de 15 dias úteis após a recepção dos processos.\n\n4 - A aprovação financeira e a comunicação às DRAP e aos serviços competentes das RA referida no n.º 2 do artigo 12.º são realizadas no prazo de 20 dias úteis após recepção da totalidade das candidaturas que tenham sido objecto de avaliação favorável.\n\n5 - Caso seja necessária a reafectação prevista no n.º 2 do artigo 13.º, a comunicação referida no número anterior é realizada no prazo de 30 dias úteis.\n\n6 - Os pedidos de pagamento para a campanha de 2011 relativos às candidaturas aprovadas para as medidas constantes do n.os 4 e 5 do artigo 18.º, devem ser apresentados no prazo de 30 dias seguidos, após a respectiva aprovação financeira.\n\n7 - Os pedidos de pagamento relativos às despesas realizadas antes da data de aprovação das candidaturas para a campanha de 2011 devem ser apresentados no prazo de 30 dias seguidos após a respectiva aprovação financeira."
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Alteração de candidatura",
+      "texto": "1 - Os pedidos de alteração de candidatura são apresentados junto da entidade receptora dessa candidatura, até 28 fevereiro da campanha em curso, e não podem:\n\na) Ocorrer depois de qualquer notificação de controlo que tenha sido efectuada ao beneficiário no âmbito da medida em causa;\n\nb) Implicar transferência para uma medida diferente daquela para que foi inicialmente aprovada;\n\nc) Implicar um aumento da ajuda aprovada.\n\n2 - Os pedidos de alteração são remetidos pela entidade receptora à respectiva entidade avaliadora no prazo de 5 dias úteis a contar da data da sua recepção, sendo, após avaliação, remetidos ao IFAP, I. P., no prazo de 10 dias úteis."
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Apresentação dos pedidos de pagamento",
+      "texto": "1 - Os pedidos de pagamento respeitantes às candidaturas aprovadas numa campanha devem ser apresentados junto das entidades receptoras da candidatura no prazo máximo de três meses após a data da realização da despesa.\n\n2 - Os pedidos de pagamento devem ser apresentados até 15 de julho da campanha em causa, com exceção da medida 1B, em que a data limite de apresentação é o dia 10 de agosto.\n\n3 - Podem ser apresentados até quatro pedidos de pagamento parciais por medida.\n\n4 - Os pedidos de pagamento respeitantes às candidaturas aprovadas para a medida 1A, «Realização de seminários», devem ser apresentados junto das entidades receptoras da candidatura até três meses após a realização do seminário.\n\n5 - Sem prejuízo do disposto no n.º 2 do presente artigo, os pedidos de pagamento para a medida 1B e para a medida 2A, relativo às acções efectuadas em cada trimestre de cada campanha, devem ser apresentados junto das entidades receptoras até um mês após o fim do respectivo trimestre."
+    }
+  ],
+  "nao_aplicavel": "Artigos 19.º e 25.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

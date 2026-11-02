@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:1088946:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objeto",
+      "texto": "1 - É concedida uma ajuda nacional aos produtores das espécies de bovinos, ovinos e caprinos, sob forma de subvenção a fundo perdido, com vista a compensar o aumento dos custos na alimentação animal devido à escassez de pastagens e forragens e de algumas espécies vegetais.\n\n2 - São excluídos os produtores que sejam considerados empresas em dificuldade na aceção das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade, publicadas no JO, n.º C 244, de 1 de outubro de 2004."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Pagamento da ajuda",
+      "texto": "1 - O pagamento incide sobre os elementos constantes da BD SNIRA à data de 9 de abril, tendo por base o número de bovinos na posse do produtor a 1 de fevereiro de 2012, bem como o número de ovinos e caprinos constantes da declaração de existências à data de 31 de dezembro de 2011.\n\n2 - (Revogado.)\n\n3 - A ajuda é paga pelo IFAP, I. P., por meio de transferência bancária para a conta do produtor."
+    }
+  ],
+  "nao_aplicavel": "Anexo I substituído (não tratado); artigos 2.º, 3.º, 4.º e 6.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: 1 - É concedida uma ajuda nacional aos produtores das espécies de bovinos, ovino"
+  ]
+}

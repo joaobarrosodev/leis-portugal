@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:654532:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Gabinete de Apoio Técnico",
+      "texto": "1 - Ao Gabinete de Apoio Técnico (GAT) compete:\n\na) Apoiar o director no planeamento, coordenação e controlo do funcionamento da DAMAG;\n\nb) Promover a normalização de produtos e metodologias nas áreas dos sistemas de informação e da informática;\n\nc) Promover a qualidade e a segurança dos sistemas de informação e informáticos.\n\n2 - O GAT é chefiado, em regime de acumulação de funções, pelo subdirector.\n\n3 - O GAT compreende:\n\na) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência indicada na alínea a) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número;\n\nb) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência indicada na alínea c) do n.º 1 e, no seu âmbito, o da indicada na alínea b) do mesmo número."
+    }
+  ],
+  "nao_aplicavel": "Artigo 7.º: o texto do original não está disponível no pedido, pelo que a retificação «dos Utilizadores,» não se pode aplicar.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: a) A Secção de Estudos e Planeamento, à qual incumbe o exercício da competência ",
+    "5.º: parágrafo que não está no alterador nem no original: b) A Secção de Qualidade e Segurança, à qual incumbe o exercício da competência "
+  ]
+}

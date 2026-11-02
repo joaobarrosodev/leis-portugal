@@ -12,5 +12,33 @@
     "unidade": [],
     "diploma": "pt:dre:385260:por",
     "alterador": "pt:dre:515269:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nEstrutura\n\nA DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Repartição dos Serviços Administrativos.",
+    "depois": "###### Artigo 3.º — Estrutura\n\nA DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Departamento dos Serviços Administrativos e de Arquivo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385260:por",
+    "alterador": "pt:dre:515269:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Natureza e estrutura\n\n1 - A Repartição dos Serviços Administrativos, abreviadamente designada por RSA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - A RSA compreende as seguintes secções:\n\na) Secção de Registo e Expediente;\n\nb) Secção do Secretariado Administrativo;\n\nc) Secção de Arquivo;\n\nd) Secção de Pessoal;\n\ne) Secção de Contabilidade e Património.",
+    "depois": "###### Artigo 10.º — Natureza e estrutura\n\n1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - O DSAA compreende as seguintes secções:\n\na) Secção do Secretariado Administrativo;\n\nb) Secção de Pessoal;\n\nc) Secção de Registo e Expediente;\n\nd) Secção de Arquivo;\n\ne) Secção de Contabilidade e Património.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385260:por",
+    "alterador": "pt:dre:515269:por"
   }
 ]

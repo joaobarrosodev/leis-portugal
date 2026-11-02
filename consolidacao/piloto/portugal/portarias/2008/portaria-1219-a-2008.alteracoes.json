@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:138561:por",
     "alterador": "pt:dre:342103:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - A concessão pelo Estado de garantias pessoais ao abrigo do presente regime tem por objecto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de três anos, denominada em euros.\n\n2 - O prazo máximo referido no número anterior pode, excepcionalmente por proposta fundamentada do Banco de Portugal, ir até aos cinco anos.\n\n3 - Ficam excluídas do âmbito do presente regime as operações do mercado monetário de depósitos interbancário, as operações de dívida subordinada, as operações que já beneficiem de outro tipo de garantia, bem assim como as operações de financiamento realizadas em jurisdição que não observe padrões de transparência internacionalmente aceites.",
+    "depois": "###### Artigo 2.º\n\n1 - A concessão pelo Estado de garantias pessoais ao abrigo do regime da Lei n.º 60-A/2008, de 20 de outubro, tem por objeto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de cinco anos.\n\n2 - O prazo máximo referido no número anterior pode ir até aos sete anos quando se trate de concessão de garantia pessoal a uma emissão de obrigações hipotecárias ou de obrigações sobre o setor público nos termos do Decreto-Lei n.º 59/2006, de 20 de março.\n\n3 - Ficam excluídas do âmbito do presente regime as operações do mercado monetário de depósitos interbancário, as operações de dívida subordinada, as operações que já beneficiem de outro tipo de garantia, bem assim como as operações de financiamento realizadas em jurisdição que não observe padrões de transparência internacionalmente aceites.\n\n> Alterado pelo/a [Portaria n.º 946/2010](https://diariodarepublica.pt/dr/detalhe/portaria/946-2010-342103) e [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138561:por",
+    "alterador": "pt:dre:342103:por;pt:dre:553953:por"
   }
 ]

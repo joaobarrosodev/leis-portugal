@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:554463:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::9.º",
+      "epigrafe": "Forma e nível das ajudas",
+      "texto": "1 - As ajudas são concedidas sob a forma de reembolso dos custos suportados pelas entidades com a prestação dos serviços que se enquadrem nas despesas elegíveis previstas no presente Regulamento.\n\n2 - Os montantes das ajudas correspondem a 70% das despesas elegíveis.\n\n3 - Os montantes máximos das despesas elegíveis são publicados anualmente por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

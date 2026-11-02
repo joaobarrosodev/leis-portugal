@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:402745:por",
     "alterador": "pt:dre:682196:por"
+  },
+  {
+    "artigo": "93.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 93.º — Período de antes da ordem do dia\n\n1 - O período de antes da ordem do dia é destinado:\n\na) À leitura, pela Mesa, do expediente, bem como dos anúncios que o Regimento impuser;\n\nb) À emissão de votos de congratulação, saudação, protesto ou pesar propostos pela Mesa ou por algum deputado;\n\nc) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.\n\n2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora, podendo, uma só vez em cada período legislativo, ser prorrogado por mais uma hora, desde que tal seja requerido por qualquer grupo ou representação parlamentar.",
+    "depois": "###### Artigo 93.º — Período de antes da ordem do dia\n\n1 - O período de antes da ordem do dia é destinado:\n\na) À leitura, pela Mesa, do expediente, bem como dos anúncios que o Regimento impuser;\n\nb) À emissão de votos de congratulação, saudação, protesto ou pesar propostos pela Mesa ou por algum deputado;\n\nc) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.\n\n2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora e meia, podendo ser prorrogado por mais uma hora, em cada reunião, desde que tal seja requerido por qualquer grupo ou representação parlamentar\n\n> Alterado pelo/a [Declaração de Rectificação n.º 218/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-1991-682196), publicado em 1991-09-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402745:por",
+    "alterador": "pt:dre:682196:por"
   }
 ]

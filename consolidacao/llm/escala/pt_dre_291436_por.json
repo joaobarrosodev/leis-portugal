@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:291436:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Revogação do diploma com exceção do modelo do anexo I (não tratado); restantes artigos não fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

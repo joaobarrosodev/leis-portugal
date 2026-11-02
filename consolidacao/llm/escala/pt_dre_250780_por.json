@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:250780:por",
+  "artigos": [],
+  "nao_aplicavel": "Instruções sem a nova redação do § único do artigo 1.º e do artigo 3.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

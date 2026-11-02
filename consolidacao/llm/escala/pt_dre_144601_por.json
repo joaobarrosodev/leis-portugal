@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:144601:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Composição e funcionamento",
+      "texto": "1 - (Revogado.)\n\n2 - Os presidentes dos conselhos científicos são nomeados em comissão de serviço, sendo equiparados, para efeitos remuneratórios, a vice-presidente da FCT, nos termos definidos no n.º 2 do artigo 11.º do [Decreto-Lei n.º 144/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1996-401914), de 26 de Agosto.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Diploma revogado pelo DL 152/2007 com exceção do n.º 2 do artigo 11.º e do artigo 30.º; os restantes artigos (não fornecidos) ficam revogados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:1091720:por",
+  "artigos": [],
+  "nao_aplicavel": "Retificação incide sobre o preâmbulo, não sobre artigos; o texto 'onde se lê' não coincide com o original.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

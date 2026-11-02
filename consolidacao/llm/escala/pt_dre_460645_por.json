@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:460645:por",
+  "artigos": [
+    {
+      "chave": "106.º-A",
+      "epigrafe": "Celebração do contrato de sociedade",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

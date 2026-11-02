@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:261704:por",
+  "artigos": [],
+  "nao_aplicavel": "Altera o limite sul do artigo 2.º mas o novo texto não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

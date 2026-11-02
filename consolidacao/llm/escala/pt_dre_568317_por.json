@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:568317:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Revisão de autorizações com base nas substâncias activas trifloxistrobina, mesotriona ou isoxaflutol",
+      "texto": "1 - As autorizações de colocação no mercado concedidas para produtos fitofarmacêuticos contendo as substâncias activas trifloxistrobina, mesotriona ou isoxaflutol são, até 31 de Março de 2004, revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão aditadas pelo presente diploma ao seu anexo I.\n\n2 - A revisão prevista no número anterior, no que respeita à avaliação e decisão à luz dos princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, aditado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, realiza-se:\n\na) Até 31 de Março de 2005, no caso de produtos fitofarmacêuticos que contenham trifloxistrobina, mesotriona ou isoxaflutol como única substância activa;\n\nb) Até 31 de Março de 2005 ou até ao final do prazo estabelecido nos decretos-leis que incluíram substâncias activas na LPC, no caso de produtos fitofarmacêuticos que contenham trifloxistrobina, mesotriona ou isoxaflutol e outra substância activa incluída até 30 de Setembro de 2003 na LPC, sendo que sempre que estes diplomas estabeleçam prazos diferentes aplica-se o prazo mais alargado."
+    }
+  ],
+  "nao_aplicavel": "Artigo 6.º alterado mas não consta do original fornecido; não há instruções dos restantes diplomas indicados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

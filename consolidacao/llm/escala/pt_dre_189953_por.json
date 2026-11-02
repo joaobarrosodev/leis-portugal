@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:189953:por",
+  "artigos": [
+    {
+      "chave": "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::1.º",
+      "epigrafe": "Objeto",
+      "texto": "1. O presente regulamento define as regras aplicáveis às Medidas Passaporte Emprego Industrialização, Passaporte Emprego Inovação e Passaporte Emprego Internacionalização, doravante designadas por Passaportes Emprego 3i, e o regime de acesso aos apoios concedidos neste âmbito, cofinanciados pelo Fundo Europeu de Desenvolvimento Regional (FEDER), através dos Programas Operacionais Regionais do Norte, do Centro e do Alentejo, inscritos no QREN.\n\n2. Os Passaportes Emprego 3i consistem no apoio ao desenvolvimento de um estágio, acompanhado de formação, com apoio à contratação sem termo por conta de outrem.\n\n3. Para efeitos do presente regulamento, entende-se por «estágio», o desenvolvimento de experiência prática em contexto laboral, acompanhada de formação, a fim de promover a inserção ou reconversão profissional de jovens desempregados.\n\n4. O estágio traduz-se numa forma de transição para a vida ativa e não deve consistir na ocupação de postos de trabalho.\n\n5. Não são abrangidos pelo presente regulamento:\n\na) (Revogada.)\n\nb) Os estágios curriculares de quaisquer cursos;\n\nc) Os estágios cujo plano requeira perfil de formação e competências nas áreas da medicina e da enfermagem."
+    },
+    {
+      "chave": "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::11.º",
+      "epigrafe": "Formação profissional",
+      "texto": "1 - A entidade promotora obriga-se a proporcionar formação profissional, em competências transversais, em empreendedorismo ou em área de formação necessária para o desempenho do estágio na entidade beneficiária, designadamente:\n\na) No caso do Passaporte Emprego Industrialização, em áreas relevantes para promover a industrialização das empresas;\n\nb) No caso do Passaporte Emprego Internacionalização, em áreas relevantes para promover a internacionalização das empresas.\n\n2 - A formação deve ser ministrada numa das seguintes modalidades:\n\na) Formação em contexto de trabalho, pelo período de duração do estágio;\n\nb) Formação realizada por entidade formadora certificada, com uma carga horária mínima de 50 horas.\n\n3 - A formação deve ser ministrada, preferencialmente, durante o horário de realização do estágio.\n\n4 - No caso de a formação ser realizada, total ou parcialmente, fora do horário de realização do estágio, o estagiário tem direito a uma redução idêntica no horário do estágio.\n\n5 - A formação referida na alínea b) do n.º 2 do presente artigo deve estar prevista no Catálogo Nacional de Qualificações."
+    },
+    {
+      "chave": "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::16.º",
+      "epigrafe": "Bolsa de estágio",
+      "texto": "A empresa beneficiária deve pagar aos estagiários uma bolsa mensal definida em função do seu nível de qualificação, cujo valor é o seguinte:\n\na) No Passaporte Emprego Industrialização e no Passaporte Emprego Internacionalização:\n\ni. 1,65 vezes do valor correspondente ao indexante dos apoios sociais (IAS), para o estagiário com qualificação de nível 6 ou 7 do QNQ;\n\nii. 1,4 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 5 do QNQ;\n\niii. 1,3 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 4 do QNQ;\n\niv. 1,2 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 3 do QNQ;\n\nv. O valor correspondente ao IAS, para os restantes casos.\n\nb) No Passaporte Emprego Inovação:\n\ni. 1,65 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 7 do QNQ;\n\nii. 2,25 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 8 do QNQ."
+    },
+    {
+      "chave": "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::17.º",
+      "epigrafe": "Elegibilidade das despesas",
+      "texto": "1. Para as empresas beneficiárias consideram-se elegíveis e comparticipadas as despesas realizadas com os estágios e, quando aplicável, com a contratação, nomeadamente:\n\na) A bolsa de estágio dos estagiários;\n\nb) O prémio de integração;\n\n2. Para as empresas beneficiárias não são elegíveis, nem comparticipadas, as despesas realizadas com os estágios, nomeadamente:\n\na) O subsídio de alimentação;\n\nb) (Revogada.)\n\nc) O seguro de acidentes de trabalho;\n\nd) As contribuições para a Segurança Social.\n\n3. Para as entidades promotoras das candidaturas são elegíveis as despesas previstas no n.º 2 do artigo 12.º do Regulamento do SI Qualificação PME, que são comparticipadas a uma taxa de 75%.\n\n4. No caso específico dos estagiários com deficiência e incapacidade, sendo responsável a empresa beneficiária pelo seu pagamento, é ainda atribuída uma comparticipação correspondente:\n\na) Ao subsídio de alimentação, até ao valor fixado para os trabalhadores que exercem funções públicas;\n\nb) Às despesas de transporte de montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a utilização deste, subsídio de transporte, no montante máximo mensal de 10% do IAS;\n\nc) Ao prémio devido pelo seguro de acidentes de trabalho, até ao valor correspondente a 3% do valor total da bolsa de estágio referida na subalínea iii. da alínea a) do artigo 16.º, reportado ao período de duração do estágio respetivo."
+    }
+  ],
+  "nao_aplicavel": "Artigos 5.º, 8.º, 9.º, 14.º, 15.º, 18.º e 32.º do Regulamento não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::11.º: parágrafo que não está no alterador nem no original: 3 - A formação deve ser ministrada, preferencialmente, durante o horário de real",
+    "Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::11.º: parágrafo que não está no alterador nem no original: 4 - No caso de a formação ser realizada, total ou parcialmente, fora do horário "
+  ]
+}

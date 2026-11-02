@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:616397:por",
+  "artigos": [],
+  "nao_aplicavel": "rectificação do artigo VIII, n.º 1, nos textos português e inglês: substituições de expressões com maiúsculas/minúsculas que não coincidem exactamente com o original e sem chave de artigo atribuída; não aplicada com segurança",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

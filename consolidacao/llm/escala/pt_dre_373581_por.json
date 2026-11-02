@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:373581:por",
+  "artigos": [],
+  "nao_aplicavel": "Revogação do n.º 2 do artigo único, cuja estrutura (números de normas alteradas embutidos no texto) não permite delimitar com segurança a unidade revogada.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

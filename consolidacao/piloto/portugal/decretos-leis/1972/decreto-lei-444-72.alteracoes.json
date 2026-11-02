@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n1. O pessoal do quadro criado pelo artigo 3.º do [Decreto-Lei n.º 162/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1972-681217), de 15 de Maio, tem direito aos vencimentos das categorias do mapa I anexo ao presente diploma.\n\n2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.\n\n3. O pessoal colocado na ilha de Santa Maria terá ainda direito a um subsídio de residência de um terço das respectivas remunerações certas e a um subsídio diário para alimentação a fixar anualmente por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.",
+    "depois": "###### Artigo 1.º\n\n1 - (Revogado.)\n\n2. Os militares que não se encontrarem em comissão civil percebem os vencimentos inerentes ao seu posto ou graduação acrescidos da diferença para os vencimentos da categoria que ocuparem.\n\n3. O pessoal colocado na ilha de Santa Maria terá ainda direito a um subsídio de residência de um terço das respectivas remunerações certas e a um subsídio diário para alimentação a fixar anualmente por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n4. Os trabalhos realizados além das horas normais serão remunerados a título de horas suplementares nas condições a fixar por despacho conjunto do Ministro da Defesa Nacional e do Ministro das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 384/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1975-336682), publicado em 1975-07-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:686226:por",
+    "alterador": "pt:dre:336682:por"
+  }
+]

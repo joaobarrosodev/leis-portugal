@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:263700:por",
+  "artigos": [],
+  "nao_aplicavel": "Altera os artigos 2.º, 3.º, 4.º e 6.º a 10.º mas a nova redação não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

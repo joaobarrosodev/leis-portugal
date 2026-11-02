@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1663992:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::9.º",
+      "epigrafe": "Condições dos financiamentos",
+      "texto": "1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não pode ser inferior a 10 %, salvo, por razões devidamente justificadas e autorizadas pelo membro do Governo responsável pela área do turismo, no caso de projectos desenvolvidos pelas entidades a que se refere a alínea a) do artigo 4.º do presente Regulamento.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam, no máximo, em um terço os prazos máximos a que se referem as alíneas a) e b) do n.º 1 do presente artigo.\n\n5 - Sem prejuízo do disposto no número seguinte, o reembolso dos financiamentos é assegurado por garantia bancária.\n\n6 - O Turismo de Portugal, I. P., pode, fundamentadamente, admitir a dispensa de prestação de garantia às entidades regionais de turismo."
+    },
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::19.º",
+      "epigrafe": "Diferimento do pagamento de prestações vencidas",
+      "texto": "1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior podem vencer juros remuneratórios ou moratórios."
+    }
+  ],
+  "nao_aplicavel": "Artigos 10.º e 16.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:402745:por",
+  "artigos": [
+    {
+      "chave": "93.º",
+      "epigrafe": "Período de antes da ordem do dia",
+      "texto": "1 - O período de antes da ordem do dia é destinado:\n\na) À leitura, pela Mesa, do expediente, bem como dos anúncios que o Regimento impuser;\n\nb) À emissão de votos de congratulação, saudação, protesto ou pesar propostos pela Mesa ou por algum deputado;\n\nc) Ao tratamento pelos deputados, de assuntos de interesse político relevante para a Região.\n\n2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora e meia, podendo ser prorrogado por mais uma hora, em cada reunião, desde que tal seja requerido por qualquer grupo ou representação parlamentar"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

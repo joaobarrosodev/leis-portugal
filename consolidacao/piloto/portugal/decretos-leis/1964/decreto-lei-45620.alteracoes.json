@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\nPara o efeito estabelecido no artigo 1.º, o óleo de gérmen de milho terá de obedecer às seguintes condições:\n\n1.ª Ser extraído apenas por processos mecânicos e tratamentos de decantação, lavagem, centrifugação e filtração, sem que intervenham quaisquer substâncias além da água;\n\n2.ª Ser refinado sem intervenção de solventes ou quaisquer outras operações, além da desmucilaginização pelo fosfato trissódico, neutralização por lixívia alcalina aquosa, com subsequente lavagem pela água, descoloração por terras e carvão activados, desodorização pelo vapor de água e filtração.",
+    "depois": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 46257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645), publicado em 1965-03-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:470796:por",
+    "alterador": "pt:dre:238645:por"
+  }
+]

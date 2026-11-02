@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Acções de recuperação e reconversão urbanística\n\nCompete à Câmara Municipal de Viseu promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior.",
+    "depois": "###### Artigo 2.º — Acções de recuperação e reconversão urbanística\n\nCompete à Câmara Municipal de Viseu e à Viseu Novo, SRU - Sociedade de Reabilitação Urbana de Viseu, S. A., promover, em colaboração com as demais entidades interessadas, as acções de recuperação e reconversão urbanística da área referida no artigo anterior.\n\n> Alterado pelo/a [Decreto n.º 32/2007](https://diariodarepublica.pt/dr/detalhe/decreto/32-2007-628790), publicado em 2007-12-11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:683239:por",
+    "alterador": "pt:dre:628790:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:662531:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.\n\n2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

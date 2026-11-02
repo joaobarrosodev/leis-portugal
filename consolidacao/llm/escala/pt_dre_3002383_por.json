@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:3002383:por",
+  "artigos": [
+    {
+      "chave": "2.º-A",
+      "epigrafe": "Ajuda",
+      "texto": "As empresas mencionadas na alínea a) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, recebem um montante de (euro) 12,92 por tonelada de açúcar renunciado."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Do valor da ajuda",
+      "texto": "1 - Os valores da ajuda a atribuir correspondem aos montantes de Euro 899 820 e de Euro 1 395 030 para as campanhas de 2006-2007 e de 2007-2008, respectivamente.\n\n2 - O montante a atribuir por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, do Conselho, de 20 de Fevereiro, é o resultante da divisão do montante referido no número anterior pelo total dos direitos de contratação objecto de renúncia.\n\n3 - O pagamento suplementar referido n.º 7 do artigo 3.º do Regulamento (CE) n.º 320/2006 é atribuído por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, que tenha originado quota de açúcar objecto de renúncia.\n\n4 - São também atribuídos nos termos do n.º 2 aos produtores de beterraba sacarina que se encontrem nas condições referidas na alínea b) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, os montantes retroactivos de (euro) 8 235 025 e de (euro) 3 662 880, respectivamente, a título das campanhas de comercialização 2006-2007 e 2007-2008."
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Fornecimento de informação",
+      "texto": "Para efeitos da atribuição da ajuda prevista neste diploma, devem as empresas produtoras de açúcar enviar ao IFAP os seguintes elementos:\n\na) No que respeita à campanha de 2006-2007, a lista dos produtores com quotas de produção que tenham entregue beterraba sacarina numa das campanhas de 2003-2004 a 2005-2006, com indicação dos respectivos direitos de contratação renunciados;\n\nb) No que respeita à campanha de 2007-2008, a lista dos produtores com quota que tenham entregue beterraba na campanha de 2006-2007, com indicação dos respectivos direitos de contratação renunciados.\n\nc) No que respeita à campanha 2008-2009, a lista dos produtores que tenham celebrado contrato com a empresa na campanha 2007-2008 com a indicação dos respectivos direitos de contratação renunciados."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

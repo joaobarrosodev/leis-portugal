@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:685034:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Director-geral",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O director-geral é recrutado preferencialmente de entre professores do ensino superior, tem estatuto de reitor, salvo para efeitos remuneratórios, e precedência protocolar em relação aos reitores das universidades e presidentes dos institutos politécnicos, excepto quando se trate de actos que digam respeito à própria instituição."
+    }
+  ],
+  "nao_aplicavel": "Revogação global do diploma com exceção do n.º 4 do artigo 7.º; aplicada apenas ao artigo 7.º (n.os 1 a 3 revogados); restantes artigos não fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

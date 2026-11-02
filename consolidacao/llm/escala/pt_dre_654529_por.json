@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:654529:por",
+  "artigos": [],
+  "nao_aplicavel": "Revogação do diploma com exceção dos artigos 13.º a 18.º: o artigo 13.º mantém-se; os revogados não constam do pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

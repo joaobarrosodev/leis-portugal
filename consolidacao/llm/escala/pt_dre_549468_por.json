@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:549468:por",
+  "artigos": [],
+  "nao_aplicavel": "Revogação de todo o diploma (com exceção do mapa anexo), não de artigos identificados com chave no pedido; tratar como revogação do diploma.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

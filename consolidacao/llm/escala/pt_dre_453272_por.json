@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:453272:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Taxas",
+      "texto": "Nos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º 479/2008, do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 1000/ha.»"
+    }
+  ],
+  "nao_aplicavel": "A Portaria n.º 792/2009 não traz a nova redação do artigo 3.º e da alínea c) do artigo 9.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

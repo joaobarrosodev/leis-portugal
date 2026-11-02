@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:197513:por",
+  "artigos": [
+    {
+      "chave": "15.º",
+      "epigrafe": "Colégio eleitoral",
+      "texto": "1 - O colégio eleitoral tem a composição seguinte:\n\na) O presidente cessante;\n\nb) Os directores das escolas;\n\nc) O presidente da Associação de Estudantes do IPT;\n\nd) Representantes dos docentes;\n\ne) Representantes dos estudantes;\n\nf) Representantes dos funcionários não docentes;\n\ng) Representantes da comunidade.\n\n2 - Relativamente aos representantes dos docentes:\n\n2.1 - Os representantes do corpo docente são eleitos de entre os seus pares, em lista;\n\n2.2 - Cada lista tem de conter, pelo menos, um professor, e não mais de três docentes, por cada departamento e área intradepartamental;\n\n2.3 - O número de docentes no colégio eleitoral é igual ao número de departamentos e áreas intradepartamentais mais um terço, com arredondamento.\n\n3 - Relativamente aos representantes dos estudantes:\n\n3.1 - Os representantes do corpo discente são eleitos, de entre os seus pares, em lista;\n\n3.2 - Cada lista tem de conter no mínimo um estudante por cada departamento;\n\n3.3 - O número de estudantes no colégio eleitoral é igual a três quartos do número de docentes, com arredondamento.\n\n4 - Relativamente ao representante dos funcionários:\n\n4.1 - Os representantes dos funcionários são eleitos, de entre os seus pares, em lista;\n\n4.2 - O número de funcionários no colégio eleitoral é igual a um quarto do número de docentes, com arredondamento;\n\n4.3 - A composição da lista deve ter em conta a possível representatividade das unidades orgânicas e dos serviços centrais.\n\n5 - O número de representantes da comunidade será de metade do número de docentes, com arredondamento, e serão escolhidos pelo presidente do Instituto."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "15.º: parágrafo que não está no alterador nem no original: 2.3 - O número de docentes no colégio eleitoral é igual ao número de departament"
+  ]
+}

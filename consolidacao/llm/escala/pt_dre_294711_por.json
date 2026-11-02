@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:294711:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Indeferimento das candidaturas",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Arts. 3.º, 4.º, 5.º, 6.º, 8.º, 10.º, 11.º e 12.º: nova redação não fornecida.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

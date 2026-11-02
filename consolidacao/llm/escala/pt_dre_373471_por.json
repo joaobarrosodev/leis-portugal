@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:373471:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os Ministros das Finanças, da Justiça e da Saúde celebram as convenções de arbitragem a que se referem os n.os 1 e 2 do artigo 1.º desde que nelas seja estabelecido:\n\na) A concessão de autorização aos árbitros para julgarem segundo a equidade, tendo em consideração, entre outros, os critérios da idade e da responsabilidade familiar;\n\nb) A concessão aos árbitros de poderes para a escolha das regras de processo a observar na arbitragem;\n\nc) A fixação do prazo de três meses, contados de acordo com a lei processual, para a decisão do tribunal arbitral;\n\nd) O valor a que a indemnização pode ascender, no caso de o tribunal arbitral reconhecer esse direito;\n\ne) A desistência do pedido, caso esteja pendente em tribunal judicial acção cuja causa de pedir seja a mesma daquela que o tribunal arbitral deva decidir.\n\n2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que pretenda instaurar a acção no tribunal arbitral juntar certidão de sentença homologatória que incidiu sobre a desistência da instância."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: 2 - Para os efeitos previstos na alínea e) do número anterior, deve a parte que "
+  ]
+}

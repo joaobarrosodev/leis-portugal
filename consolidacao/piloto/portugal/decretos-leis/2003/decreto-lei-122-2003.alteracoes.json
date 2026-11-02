@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Director-geral\n\n1 - A Direcção-Geral do Ensino Superior é dirigida por um director-geral.\n\n2 - Compete ao director-geral:\n\na) Dirigir os serviços que integram a Direcção-Geral do Ensino Superior;\n\nb) Exercer as competências que lhe são cometidas pela lei;\n\nc) Gerir o fundo de acção social;\n\nd) Executar as funções que lhe sejam superiormente determinadas.\n\n3 - A competência prevista na alínea c) do número anterior pode ser delegada num dos subdirectores-gerais ou no director de serviços de acção social.\n\n4 - O director-geral é recrutado preferencialmente de entre professores do ensino superior, tem estatuto de reitor, salvo para efeitos remuneratórios, e precedência protocolar em relação aos reitores das universidades e presidentes dos institutos politécnicos, excepto quando se trate de actos que digam respeito à própria instituição.",
+    "depois": "###### Artigo 7.º — Director-geral\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O director-geral é recrutado preferencialmente de entre professores do ensino superior, tem estatuto de reitor, salvo para efeitos remuneratórios, e precedência protocolar em relação aos reitores das universidades e presidentes dos institutos politécnicos, excepto quando se trate de actos que digam respeito à própria instituição.\n\n> Alterado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:685034:por",
+    "alterador": "pt:dre:520993:por"
+  }
+]

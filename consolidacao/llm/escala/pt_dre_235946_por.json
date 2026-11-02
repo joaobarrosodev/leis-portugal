@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:235946:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.\n\n3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

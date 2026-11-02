@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:209047:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Novo investimento industrial",
+      "texto": "1 - A IMOCAPITAL, SGPS, S. A., fica obrigada a cumprir, através de sociedade que com ela se encontre em relação de domínio, a obrigação de realizar um investimento industrial em capital fixo corpóreo no sector do papel, com incorporação de papel reciclado, que contribua com um acréscimo mínimo de 150 000 t por ano para a produção de papel do complexo da Portucel Viana, realizando para o efeito um investimento global mínimo de (euro) 125 000 000, em que se incluem os investimentos que melhorem a competitividade e eficiência do complexo industrial da Portucel Viana.\n\n2 - A verificação de que o projecto de investimento contribui com um acréscimo de 150 000 t por ano para a capacidade instalada no complexo da Portucel Viana, é realizada por uma empresa de engenharia de reconhecido prestígio no sector papeleiro, aceite pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E., adiante designada AICEP, E. P. E., através de uma prova de funcionamento.\n\n3 - O custo associado ao trabalho da entidade independente referida no número anterior é suportado pela IMOCAPITAL, SGPS, S. A.\n\n4 - A demonstração do cumprimento da obrigação estabelecida no n.º 1 cabe à IMOCAPITAL, SGPS, S. A., que, para o efeito, deve, no termo do prazo fixado, apresentar à AICEP, E. P. E., os comprovativos da realização dos investimentos."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:661567:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Orgânica da Direcção Regional de Estatística::9.º",
+      "epigrafe": "Natureza e atribuições",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Renumeração dos artigos seguintes (17.º para 16.º, e assim sucessivamente) não aplicada; as alterações da Instrução 1 e o quadro de pessoal não vêm no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

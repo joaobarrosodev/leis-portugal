@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:492994:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::5.º",
+      "epigrafe": "Critérios de elegibilidade dos beneficiários",
+      "texto": "1 - Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente técnicos com formação e experiência nas áreas temáticas da cooperação;\n\nb) (Revogada.)\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultantes de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas anteriores realizadas desde 2000;\n\nd) (Revogada.)\n\n2 - Os candidatos aos apoios à componente dois devem ainda apresentar um protocolo de cooperação onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os parceiros envolvidos, bem como a designação do GAL coordenador do projecto de cooperação."
+    },
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Critérios de elegibilidade das operações",
+      "texto": "1 - Podem beneficiar dos apoios do presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e que reúnam as seguintes condições:\n\na) (Revogada.)\n\nb) Apresentem coerência técnica;\n\nc) Demonstrem que estão asseguradas as fontes de financiamento privado.\n\n2 - Para além do disposto no número anterior, as operações relativas à componente um devem ainda:\n\na) Apresentar uma estratégia de cooperação que identifique as áreas temáticas, os objectivos e a mais-valia para o território;\n\nb) Apresentar as intenções de cooperação.\n\n3 - As operações relativas à componente dois devem reunir as condições mencionadas no n.º 1 e ainda:\n\na) Apresentar coerência económica e financeira;\n\nb) Apresentar informação detalhada sobre os parceiros do projecto de cooperação, as actividades a desenvolver e o orçamento.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem."
+    },
+    {
+      "chave": "ANEXO::21.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigo 6.º: a Portaria n.º 228/2011 mantém um n.º 5 ('5 - ...') que não existe no original fornecido, pelo que não foi incluído; artigos 17.º, 19.º e 20.º alterados mas não constam do original; anexo I alterado pela Portaria n.º 253/2013 sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

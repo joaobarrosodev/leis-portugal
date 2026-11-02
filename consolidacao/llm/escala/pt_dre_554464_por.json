@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:554464:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - O presente Regulamento estabelece o regime de aplicação da subacção «Apoio à constituição e instalação de prestadores de serviços florestais» da medida AGRIS.\n\n2 - O disposto neste Regulamento não se aplica na área geográfica abrangida pela Acção Integrada de Base Territorial do Pinhal Interior, do Programa Operacional Regional do Centro."
+    }
+  ],
+  "nao_aplicavel": "Artigos 4.º, 5.º, 12.º e 16.º do Regulamento também alterados (Portaria n.º 1103-B/2001), mas o seu texto original não foi fornecido; a Portaria n.º 1198/2003 não tem instruções no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

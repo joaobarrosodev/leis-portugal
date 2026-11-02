@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:600488:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - A recepção e instrução das candidaturas a que se referem os subcapítulos III e IV do capítulo I do Decreto-Lei n.º 184/94, de 1 de Julho, compete ao Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento (SAPMEI) e às entidades que, por despacho do Secretário Regional de Economia e Cooperação Externa, venham a ser designadas para o efeito.\n\n2 - Compete às instituições de crédito signatárias do protocolo previsto no n.º 4 do artigo 29.º do Decreto-Lei n.º 184/94, de 1 de Julho, a recepção e a instrução das candidaturas dos projectos referidos nos subcapítulos I e II do mesmo diploma."
+    }
+  ],
+  "nao_aplicavel": "a instrução do DRR 2/95/M não traz texto; aplicada a redação integral do DRR 4/98/M, que a substitui",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

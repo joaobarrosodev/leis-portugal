@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:333838:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções substituem a redação dos anexos II, III, V, VI e X a XII e aditam o anexo III A, mas o texto do anexo da Portaria n.º 8/2014 não consta do pedido (e os anexos são quadros em documento original); nada aplicável com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

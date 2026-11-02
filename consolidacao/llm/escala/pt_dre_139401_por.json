@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:139401:por",
+  "artigos": [],
+  "nao_aplicavel": "Revogação de todo o diploma com ressalva de vigência para os alunos que frequentam os cursos; revogação condicional, não aplicada por artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

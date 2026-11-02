@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO::23.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\n1 - Os uniformes do pessoal a que alude o n.º 4) do artigo 1.º são constituídos por:\n\na) Calções de banho;\n\nb) Camisola de algodão;\n\nc) Fato de treino (facultativo);\n\nd) Boné de monitor de nadador-salvador.\n\n2 - A descrição dos artigos que compõem estes uniformes é a indicada nos artigos 24.º a 27.º",
+    "depois": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665947:por",
+    "alterador": "pt:dre:453862:por"
+  }
+]

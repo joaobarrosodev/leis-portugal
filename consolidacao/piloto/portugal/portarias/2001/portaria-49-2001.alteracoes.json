@@ -138,5 +138,19 @@
     "unidade": [],
     "diploma": "pt:dre:313403:por",
     "alterador": "pt:dre:514999:por"
+  },
+  {
+    "artigo": "ANEXO — REGULAMENTO DE APLICAÇÃO DA COMPONENTE DE APOIO À PRESTAÇÃO DE SERVIÇOS AGRÍCOLAS::33.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 33.º — Execução do projecto\n\n1 - A execução do projecto deverá iniciar-se no prazo máximo de três meses a contar da data de assinatura do contrato de atribuição das ajudas, ou mediante apresentação de novo cronograma de actividades, caso o inicial tenha sido alterado.\n\n2 - A data de início de execução do projecto deve ser comunicada à respectiva DRA.\n\n3 - A execução financeira do projecto de prestação de serviços no seu 1.º ano de implemenação não poderá ser inferior a 30% do custo total aprovado para esse ano.\n\n4 - Sem prejuízo das demais cláusulas contratuais, quando a execução se situe abaixo deste limite, o custo total aprovado para a candidatura será reduzido no montante equivalente ao não executado.\n\n5 - No final do 1.º ano de execução deverá ser apresentado um relatório geral de progresso, sujeito a ratificação pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, da qual depende a concessão de apoios à conclusão do projecto.\n\n> Aditado pelo/a [Portaria n.º 978/2004](https://diariodarepublica.pt/dr/detalhe/portaria/978-2004-514999), publicado em 2004-08-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313403:por",
+    "alterador": "pt:dre:514999:por"
   }
 ]

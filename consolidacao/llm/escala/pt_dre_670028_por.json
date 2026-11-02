@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:670028:por",
+  "artigos": [
+    {
+      "chave": "61.º",
+      "epigrafe": "Tipos de ligações mecânicas",
+      "texto": "1 - O âmbito do presente capítulo abrange exclusivamente os dispositivos de ligação mecânica instalados em tractores.\n\n2 - De entre os numerosos tipos de ligações mecânicas para tractores podem distinguir-se essencialmente os seguintes:\n\na) Engate de boca de lobo, com engate de cavilhão, conforme as figuras n.os 1 e 2 do anexo xxx ao presente decreto-lei, do qual faz parte integrante;\n\nb) Gancho, conforme figura n.º 3 do anexo xxx ao presente decreto-lei;\n\nc) Barra oscilante (barra de engate), conforme a figura n.º 4 do anexo xxx ao presente decreto-lei.\n\n3 - Por «engates mecânicos entre tratores e veículos rebocados», entendem-se as unidades técnicas instaladas no trator e no reboque que asseguram a ligação mecânica entre os dois veículos.\n\n4 - Dos vários tipos de dispositivos de ligação mecânica para tratores, podem distinguir-se essencialmente os seguintes:\n\na) Engate de boca de lobo (com engate de cavilhão) (conforme as figuras 1 e 2 do anexo XXX);\n\nb) Engate de boca de lobo sem rotação (conforme a figura 1d do anexo XXX);\n\nc) Gancho de reboque (conforme a figura 1 do anexo XXX - «dimensões do gancho» na norma ISO 6489-1:2001);\n\nd) Barra oscilante (barra de engate) (conforme a figura 3 do anexo XXX);\n\ne) Engate do tipo esfera (conforme a figura 4 do anexo XXX);\n\nf) Engate do tipo cabeçote (conforme a figura 5 do anexo XXX)."
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Instruções de utilização",
+      "texto": "1 - Todos os dispositivos de ligação mecânica devem vir acompanhados por instruções de utilização fornecidas pelo fabricante, as quais devem compreender o número de homologação CE do componente e os valores D (kN) ou T (toneladas), consoante o ensaio a que tenha sido submetido o dispositivo de ligação.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Alterações aos anexos II e XXX a XXXVI (Decretos-Leis n.os 53/2013 e 97/2014) não aplicadas: texto dos anexos não consta do pedido; artigos 62.º a 65.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Início de funcionamento do curso\n\nO curso pode começar a funcionar a partir do ano lectivo de 2000-2001, inclusive, um ano curricular em cada ano lectivo.",
+    "depois": "###### Artigo 5.º — Início de funcionamento do curso\n\n1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2000-2001, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2001-2002, inclusive.\n\n> Alterado pelo/a [Portaria n.º 321/2002](https://diariodarepublica.pt/dr/detalhe/portaria/321-2002-300459), publicado em 2002-03-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:660499:por",
+    "alterador": "pt:dre:300459:por"
+  }
+]

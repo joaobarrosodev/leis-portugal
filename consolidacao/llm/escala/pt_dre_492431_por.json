@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:492431:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Critérios de elegibilidade dos beneficiários",
+      "texto": "Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nf) Apresentarem um contrato de parceria onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria;\n\ng) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente quadros com competência, aptidão técnica e experiência para as actividades elegíveis."
+    },
+    {
+      "chave": "ANEXO::23.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Critérios de elegibilidade das operações",
+      "texto": "1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que, cumulativamente, cumpram os objectivos previstos no artigo 2.º e reúnam as seguintes condições:\n\na) Apresentem um plano de acção com coerência técnica, económica e financeira, relativo a um período limitado, com uma duração mínima de três anos e máxima de cinco, que inclua duas fases:\n\n1.ª fase - sistematização da informação e realização dos investimentos;\n\n2.ª fase - divulgação da informação e garantia de sustentabilidade da rede temática;\n\nb) Identifiquem o público alvo potencial utilizador da rede temática;\n\nc) Assegurem as fontes de financiamento de capital alheio.\n\n2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.\n\n3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas."
+    }
+  ],
+  "nao_aplicavel": "Artigos 9.º, 11.º, 12.º, 13.º, 15.º, 19.º, 21.º e 22.º do Regulamento alterados mas não constam do original fornecido; ponto 15 do anexo I alterado pela Portaria n.º 253/2013 sem texto.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "ANEXO::7.º: parágrafo que não está no alterador nem no original: 1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações q"
+  ]
+}

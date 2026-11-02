@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:313816:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Limites ao apoio financeiro",
+      "texto": "1 - O montante global correspondente ao apoio financeiro a conceder no âmbito do presente Regulamento é fixado anualmente por despacho do Ministro da Cultura.\n\n2 - São igualmente fixados por despacho do Ministro da Cultura os limites máximos de apoio financeiro a conceder a cada projecto, tanto em valor absoluto como em percentagem do respectivo custo total.\n\n3 - O ICAM reserva-se o direito de não atribuir a totalidade do apoio financeiro autorizado desde que as candidaturas apresentadas não satisfaçam os critérios de selecção previstos no presente Regulamento.\n\n4 - Caso um requerente apresente vários projectos no âmbito do mesmo concurso não pode beneficiar de apoio financeiro que exceda 30% do montante global disponível para atribuir no mesmo."
+    }
+  ],
+  "nao_aplicavel": "A nova redacção do n.º 1 do artigo 1.º não vem no pedido (truncada).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

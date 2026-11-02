@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:582812:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2. O conhecimento dos processos de natureza penal é da competência do Tribunal do Trabalho de Ponta Delgada.\n\n3. Nas acções cíveis da competência destes tribunais não se observará o disposto no artigo 179.º daquele código."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

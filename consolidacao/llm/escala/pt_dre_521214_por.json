@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:521214:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::2.º",
+      "epigrafe": "Estrutura orgânica",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "A Portaria n.º 321/2012 revoga a Portaria n.º 539/2007 com exceção do n.º 1 do artigo 17.º dos Estatutos apenas quanto ao estatuto remuneratório do diretor (ressalva parcial): o artigo 17.º não foi alterado. A alteração do artigo 2.º dos Estatutos pela Portaria n.º 1441/2008 fica prejudicada pela revogação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

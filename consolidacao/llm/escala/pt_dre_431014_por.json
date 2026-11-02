@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:431014:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções substituem e aditam anexos (anexos X, XI e V do Regulamento) cujo novo texto consta dos anexos dos diplomas que alteram e não é fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:647505:por",
+  "artigos": [],
+  "nao_aplicavel": "A retificação incide só sobre o sumário, não sobre o texto de qualquer artigo.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

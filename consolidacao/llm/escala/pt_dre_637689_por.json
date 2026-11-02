@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:637689:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução anuncia a nova redação dos artigos 4.º, 5.º, 6.º, 9.º, 10.º, 13.º, 14.º e 15.º, mas o texto novo não vem no pedido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

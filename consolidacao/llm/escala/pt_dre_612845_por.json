@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:612845:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Para garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas."
+    }
+  ],
+  "nao_aplicavel": "Artigo 1.º (Decreto-Lei n.º 234/95): a instrução não traz o texto da nova redação.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

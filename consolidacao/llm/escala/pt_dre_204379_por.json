@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:204379:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Procedimento de candidatura",
+      "texto": "1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoempreso.sov.pt.\n\n2 - A candidatura ao Incentivo é apresentada no decurso do trimestre civil em que se efetua a comunicação de admissão do trabalhador à segurança social.\n\n3 - No caso de a comunicação de admissão do trabalhador à segurança social ocorrer nos últimos 10 dias do trimestre, a candidatura pode, ainda, ser apresentada até ao dia 15 do mês subsequente.\n\n4 - A verificação dos requisitos de atribuição do Incentivo compete ao IEFP, I. P.\n\n5 - O procedimento referido no número anterior é assegurado por um sistema de informação desenvolvido pelo Instituto de Informática, I. P. (II, I. P.)."
+    }
+  ],
+  "nao_aplicavel": "artigos 7.º e 8.º não fornecidos no original",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

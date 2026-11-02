@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:176773:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Situações excepcionais para a regularização da dívida",
+      "texto": "1 - A regularização da dívida ao Centro de Segurança Social da Madeira pode ser autorizada se tal se revelar indispensável para assegurar a viabilidade da empresa devedora e se esta se encontrar numa das seguintes situações:\n\na) For declarada em situação económica difícil, nos termos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853), de 29 de Agosto;\n\nb) For objecto de processo especial de recuperação de empresas e de protecção dos credores, nos termos dos Decretos-Leis n.os [177/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1986-228619), de 2 de Julho, e [10/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1990-313858), de 5 de Janeiro;\n\nc) Estiver inserida em sector ou subsector com relevância económica e social, declarado em reestruturação, ao abrigo do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto;\n\nd) Tiver sido objecto de ocupação, autogestão ou intervenção;\n\ne) Apresente uma estrutura financeira desequilibrada, mas demonstre que, corrigidas as assimetrias dessa estrutura, pode atingir uma situação de viabilidade, desde que reúna as condições seguintes:\n\n1.ª Desenvolva a sua actividade em sector ou subsector com relevância económica e social, atendendo, designadamente, ao volume de emprego e à contribuição para a economia e desenvolvimento regionais;\n\n2.ª (Revogada.)\n\n2 - A autorização a que se refere o número anterior é feita por despacho do membro do Governo Regional que tiver a seu cargo a área da segurança social.\n\n3 - Para efeitos do disposto no n.º 1 devem as empresas que pretendam regularizar a sua dívida apresentar um estudo económico-financeiro que demonstre a indispensabilidade das medidas pretendidas para a sua viabilidade.\n\n4 - A primeira condição estabelecida na alínea e) do n.º 1 deve ser comprovada por parecer favorável do secretário regional da tutela.\n\n5 - A instituição credora pode exigir, complementarmente, à empresa devedora a realização de estudos de viabilização por entidade que considerar idónea.\n\n6 - Por resolução do Conselho do Governo Regional, poderão ser aprovadas medidas excepcionais de regularização de dívidas à segurança social, por parte de pessoas colectivas de utilidade pública e organismos públicos da administração regional e local, quando estejam em causa relevantes interesses regionais.\n\n7 - A aprovação das medidas excepcionais referidas no número anterior será sempre precedida de parecer do secretário regional da tutela do respectivo sector."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "2.º: parágrafo que não está no alterador nem no original: 2.ª (Revogada.)"
+  ]
+}

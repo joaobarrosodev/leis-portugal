@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "11.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1. A construção, em estaleiros nacionais ou estrangeiros, de navios de comércio destinados a quem tenha domicílio profissional ou sede no continente ou ilhas adjacentes, bem como a importação, no continente ou ilhas adjacentes, de navios de comércio, depende da autorização do Ministro da Marinha, mediante requerimento a que é aplicável o disposto no n.º 4 do artigo 2.º\n\n2. O despacho a que se refere o número anterior atenderá sempre aos efeitos da aquisição pretendida perante os interesses da economia do espaço português e, no caso de navios já construídos, às suas condições de segurança e ao estado de conservação.\n\n3. A concessão da autorização prevista no n.º 1 não dispensa quaisquer aprovações técnicas legalmente exigidas para o navio e para os respectivos pormenores.\n\n4. Salvo razões ponderosas, devidamente fundamentadas no despacho de autorização, não poderá permitir-se:\n\na) A nacionalidade de navios com mais de dez anos, contados desde a data de lançamento ao mar;\n\nb) O registo, como de comércio, de navios importados para qualquer outro tráfego ou actividade e que tenham mais de dez anos, contados desde a data de lançamento ao mar.",
+    "depois": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:632019:por",
+    "alterador": "pt:dre:285373:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nÉ criado na província um serviço social, dotado com os seguintes lugares:\n\na) Pessoal de nomeação:\n\n3 de assistente social;\n\n8 de auxiliar social;\n\n1 de escriturário de 2.ª classe.\n\nb) Pessoal contratado:\n\n2 de dactilógrafo.\n\n§ 1.º Um dos assistentes sociais exercerá as funções de chefe, com direito à gratificação mensal especial de exercício de 200$00.\n\n§ 2.º Os lugares de assistente social e os de auxiliares sociais consideram-se incluídos, respectivamente, nos grupos N e Q do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), publicado em 1964-01-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:185077:por",
+    "alterador": "pt:dre:469382:por"
+  }
+]

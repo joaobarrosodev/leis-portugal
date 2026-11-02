@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:185077:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "artigos 8.º e 16.º também revogados mas não fornecidos; artigos 2.º, 5.º, 6.º e 9.º revogados referem-se a outros decretos",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

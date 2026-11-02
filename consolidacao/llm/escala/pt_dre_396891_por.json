@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:396891:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Competências e estrutura",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:420616:por",
+  "artigos": [],
+  "nao_aplicavel": "A instrução não transcreve a nova redação do artigo 6.º.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

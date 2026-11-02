@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:258767:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Comunicação de abertura",
+      "texto": "1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à DRCIE e à câmara municipal respetiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - (Revogado.)"
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Comunicação do encerramento",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Registo",
+      "texto": "1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela DRCIE, o qual é considerado para efeitos do disposto no Decreto Legislativo Regional nº 8/98/M, de 27 de abril, alterado e republicado pelo Decreto Legislativo Regional nº 19/2008/M, de 6 de junho, e do artigo 6º do Decreto-Lei nº 259/2007, de 17 de julho, adaptado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 7/2008/M, de 4 de março.\n\n2 - (Revogado.)"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

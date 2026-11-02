@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:285910:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Os comandantes distritais, da Escola Prática de Polícia, do Corpo de Intervenção ou unidades equivalentes da PSP que disponham de conselhos administrativos, bem como os próprios conselhos administrativos e o presidente do conselho administrativo do Comando-Geral da mesma Polícia, são competentes para autorizarem despesas com obras ou com aquisição de material até ao limite de 200000$00."
+    }
+  ],
+  "nao_aplicavel": "Art. 2.º (importância para 40000$00) não consta do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": [
+    "1.º: parágrafo que não está no alterador nem no original: Os comandantes distritais, da Escola Prática de Polícia, do Corpo de Intervenção"
+  ]
+}

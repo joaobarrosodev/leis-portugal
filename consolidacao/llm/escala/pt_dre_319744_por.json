@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:319744:por",
+  "artigos": [
+    {
+      "chave": "179.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "As instruções trazem só a frase introdutória (\"passam a ter a seguinte redação\", \"é aditado\") sem o texto da nova redação, pelo que nenhuma alteração ou aditamento se pode copiar. Além disso o original é a versão de 1982, renumerada e reescrita pelo DL 48/95 (ausente das instruções), logo as revogações parciais (alínea c) do n.º 1 dos arts. 265.º e 266.º; n.os 3 e 4 do art. 45.º; n.º 9 do art. 274.º; n.º 3 do art. 265.º; n.º 3 do art. 278.º-A) não têm alvo seguro no texto recebido. Aplicada só a revogação integral do art. 179.º (Lei 103/2015); epígrafe deixada vazia porque a de 1982 não corresponde ao artigo revogado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

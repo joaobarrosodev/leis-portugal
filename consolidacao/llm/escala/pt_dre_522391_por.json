@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:522391:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "O presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N, conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, por Regulamento da Homologação CE."
+    }
+  ],
+  "nao_aplicavel": "Artigo 22.º e anexos VI e VIII alterados mas não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

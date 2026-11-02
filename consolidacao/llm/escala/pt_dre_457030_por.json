@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:457030:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - As acções representativas do capital subscrito pela Região Autónoma dos Açores são detidas pelo Governo Regional dos Açores, ao qual compete deliberar sobre a sua transmissão para outros entes públicos.\n\n3 - Os direitos da Região Autónoma dos Açores como accionista da EDA, S. A., são exercidos por representante designado por despacho conjunto dos membros do Governo Regional da Região Autónoma dos Açores com competência nas matérias de finanças e de energia.\n\n4 - Enquanto a totalidade das acções da EDA, S. A., pertencer à Região Autónoma dos Açores, sempre que a lei ou os estatutos exijam deliberação da assembleia geral, bastará que o representante designado nos termos do número anterior exare a deliberação no livro de actas da sociedade."
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

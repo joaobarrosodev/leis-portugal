@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º\n\nPara garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.\n\n> Aditado pelo/a [Decreto-Lei n.º 234/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1995-563034) e [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), publicado em 2005-07-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:612845:por",
+    "alterador": "pt:dre:563034:por;pt:dre:483459:por"
+  }
+]

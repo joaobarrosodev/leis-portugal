@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.\n\n2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.\n\n3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.\n\n4. Ao assessor encarregado de dirigir e coordenar, sob a orientação do reitor, a actividade da assessoria de cada Universidade será atribuída a gratificação mensal de 1500$00.",
+    "depois": "###### Artigo 3.º\n\n1. O funcionamento das assessorias jurídicas das Universidades será assegurado por assessores escolhidos de entre licenciados em Direito de reconhecida competência e idoneidade.\n\n2. Os assessores serão contratados mediante autorização do reitor ou seu substituto legal, até ao limite de cinco para cada Universidade.\n\n3. Os assessores referidos nos números anteriores auferirão remuneração mensal equivalente à da letra G da escala prevista no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ou, caso sejam contratados a tempo parcial, uma remuneração calculada proporcionalmente ao tempo de serviço.\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 353/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1979-370049), publicado em 1979-08-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:421824:por",
+    "alterador": "pt:dre:370049:por"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:456533:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::21.º",
+      "epigrafe": "Reduções e exclusões",
+      "texto": "1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis às entidades promotoras as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio."
+    },
+    {
+      "chave": "ANEXO::13.º-A",
+      "epigrafe": "Avisos de abertura e anúncios",
+      "texto": "1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) O prazo para apresentação dos pedidos de apoio;\n\nb) O número máximo de pedidos de apoio admitidos por beneficiário;\n\nc) A dotação orçamental a atribuir;\n\nd) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.\n\n2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n3 - Dentro dos limites da elegibilidade temporal do programa, o aviso define o período de elegibilidade da realização das acções."
+    },
+    {
+      "chave": "ANEXO::14.º-A",
+      "epigrafe": "Readmissão de pedidos de apoio",
+      "texto": "Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.»"
+    }
+  ],
+  "nao_aplicavel": "A Portaria n.º 1049/2010 altera os artigos 1.º, 6.º, 9.º, 10.º, 12.º, 13.º, 14.º, 17.º e 18.º e o anexo IV sem que o texto seja fornecido; por isso não se aplicam esses artigos (incluindo o 13.º, cujo aditamento anterior fica dependente dessa redação desconhecida) nem o anexo II.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

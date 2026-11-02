@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:524827:por",
+  "artigos": [],
+  "nao_aplicavel": "O art. 6.º do Decreto n.º 268/70 extingue o subsídio eventual de custo de vida a partir da entrada em vigor dos novos vencimentos (caducidade/revogação material, condicionada a data e não dirigida a artigos concretos); não é alteração textual segura.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

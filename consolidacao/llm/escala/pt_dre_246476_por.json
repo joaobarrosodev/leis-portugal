@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:246476:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "O presente decreto-lei estabelece o modelo de organização, as competências dos organismos de controlo e de acompanhamento e os procedimentos a observar pelas entidades nacionais para assegurar a execução dos controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Execução dos controlos",
+      "texto": "1 - Os controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro, são realizados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), sem prejuízo do disposto no número seguinte.\n\n2 - Os controlos previstos nos artigos 76.º a 80.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro, relativos a restituições à exportação, regimes de abastecimento das Regiões Autónomas e outras ajudas da mesma natureza, são assegurados pela Autoridade Tributária e Aduaneira (AT).\n\n3 - Os organismos indicados nos n.os 1 e 2, adiante designados por organismos de controlo, podem contratar entidades de auditoria para a realização dos controlos previstos no presente decreto-lei.\n\n4 - Os organismos de controlo são competentes para verificar os documentos comerciais das empresas e de terceiros, bem como realizar os controlos cruzados que se mostrem necessários, encontrando-se, em todo o caso, limitados ao quadro estrito dessas verificações, sem prejuízo de competências de âmbito mais alargado que já detenham.\n\n5 - Os organismos de controlo são competentes para emitir recomendações às empresas e estabelecer um prazo para o seu cumprimento, o qual não pode, em qualquer caso, ser inferior a 30 dias."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Deveres de informação",
+      "texto": "1 - O IFAP, I. P., presta a informação que lhe venha a ser solicitada pela AT para efeitos de execução dos controlos indicados no n.º 2 do artigo 3.º\n\n2 - [Revogado.]\n\n3 - A AT remete ao IFAP, I. P., os relatórios de controlo, a fim de este Instituto assegurar, na qualidade de organismo pagador, nomeadamente, a recuperação dos montantes dos apoios recebidos, nos termos da alínea b) do n.º 2 do artigo 64.º do Decreto-Lei n.º 5/2023, de 25 de janeiro."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Obrigações das empresas ou dos terceiros",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Irregularidades",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Artigos 8.º e 10.º (alterados) e 5.º, 6.º, 11.º a 15.º (revogados) não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

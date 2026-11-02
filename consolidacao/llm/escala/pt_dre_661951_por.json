@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:661951:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)"
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O seguro de colheitas consagrado no Decreto Legislativo Regional n.º 2/83/M, de 7 de Março, abrange as seguintes culturas: vinhas de castas europeias, registadas e ou licenciadas, banana, cana-de-açúcar, batata (semilha), batata-doce, alface, cenoura, cebola, couve, alho, feijão-verde (vaginha), tomate, morango, culturas hortícolas em estufa, floricultura e fruticultura, com as especificações a seguir mencionadas:\n\na) As culturas hortícolas em estufa referem-se a: alface, feijão-verde (vaginha), meloa, pepino, pimento e tomate;\n\nb) A floricultura sob coberto engloba, nomeadamente, antúrio, orquídeas (cateleia, cimbídio e sapatinho), rosa e cravo e, em céu aberto, estrelícia e prótea;\n\nc) A fruticultura refere-se a citrinos (laranja, limão, tangerina e cidra), pomóideas (maçã, pêra e pêro para cidra), prunóideas (pêssego, damasco e ameixa) e actinídea (kiwi) e, especificamente na subtropical, a abacate, anona, manga, maracujá e papaia;\n\nd) A fruticultura sob coberto engloba tropicais e subtropicais, nomeadamente a papaia e a manga."
+    }
+  ],
+  "nao_aplicavel": "Instruções 1, 2, 3 e 5 (DRR 13/85/M, 22/87/M e 25/93/M) sem texto da nova redação: arts. 28.º, 12.º, 38.º e restantes não alterados. Art. 1.º (DRR 12/99/M): alínea a) '...' preenchida com o texto original, que pode ter sido alterado pelo DRR 25/93/M (texto não disponível). Arts. 6.º, 7.º e 15.º do DRR 12/99/M não constam dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

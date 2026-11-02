@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:489731:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Critérios de elegibilidade dos beneficiários",
+      "texto": "1 - Os beneficiários aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e autorizações exigidas nos termos da legislação aplicável;\n\nc) Disporem de capacidade técnica adequada;\n\nd) (Revogada.)\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde o ano de 2000;\n\nf) (Revogada.)\n\n2 - Os beneficiários referidos na subalínea iii) da alínea a) e da alínea b) do artigo 5.º devem ainda apresentar um contrato de parceria no qual estejam expressos os direitos e obrigações de todos os intervenientes, bem como a designação da entidade gestora da parceria."
+    },
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Critérios de elegibilidade das operações",
+      "texto": "1 - Podem beneficiar dos apoios previstos neste Regulamento, as operações que se enquadrem nos objectivos previstos no artigo 2.º, de acordo com as seguintes tipologias:\n\na) Operações que visem a construção e a requalificação de caminhos agrícolas para utilização pública;\n\nb) Operações que visem a instalação de redes de distribuição, de linhas de alimentação em média e baixa tensão e de postos de transformação;\n\nc) Operações que visem soluções técnicas colectivas de requalificação ambiental associadas à recolha e transporte, armazenagem, pré-tratamento e à valorização dos efluentes e resíduos agro-pecuários e agro-industriais, incluindo a valorização agrícola.\n\n2 - As operações referidas no número anterior devem reunir as seguintes condições:\n\na) Apresentar um plano de desenvolvimento integrado para o território de intervenção com coerência técnica e cujo prazo de conclusão para a sua execução não ultrapasse 31 de Dezembro de 2013;\n\nb) Assegurar, quando aplicável, as fontes de financiamento de capital alheio;\n\nc) Apresentar parecer dos distribuidores locais de energia eléctrica, em caso de instalação de redes de distribuição, de linhas de alimentação em média e baixa tensão e de postos de transformação, quando os respectivos estudos e projectos de execução não tenham sido elaborados por aquelas entidades;\n\nd) Indicar a entidade pública ou privada encarregue de assegurar a gestão e conservação das infra-estruturas objecto de cada pedido de apoio;\n\ne) (Revogada.)\n\n3 - As operações respeitantes a requalificação ambiental devem constituir intervenções de carácter colectivo fora da exploração agro-pecuária ou da unidade agro-industrial e demonstrar que se enquadram no PRGI referente ao respectivo núcleo de acção prioritária estabelecido no âmbito da ENEAPAI.\n\n4 - Na ausência de PRGI aprovado, o plano de desenvolvimento integrado para o território de intervenção referente às operações referidas no número anterior é submetido a parecer prévio da Estrutura Coordenação e Acompanhamento da ENEAPAI."
+    },
+    {
+      "chave": "ANEXO::24.º",
+      "epigrafe": "Disposição transitória",
+      "texto": "(Revogado.)"
+    }
+  ],
+  "nao_aplicavel": "Portaria 228/2011: n.º 5 e n.º 6 do art. 7.º não aplicados (o original só tem 4 números); arts. 19.º, 21.º e 22.º não constam do original fornecido. Portarias 152/2013 e 253/2013 alteram o anexo I (sem texto).",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO::21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.\n\n2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio.",
+    "depois": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis às entidades promotoras as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n2 - Caso não se verifique a obtenção dos resultados previstos nos relatórios de execução anual, e se tal não se dever a causas devidamente justificadas, o gestor, mediante parecer da DGV, pode decidir a exclusão, total ou parcial, da entidade beneficiária do apoio.\n\n> Alterado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:456533:por",
+    "alterador": "pt:dre:439401:por;pt:dre:342802:por;pt:dre:670056:por"
+  },
+  {
+    "artigo": "ANEXO::13.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 13.º-A — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) O prazo para apresentação dos pedidos de apoio;\n\nb) O número máximo de pedidos de apoio admitidos por beneficiário;\n\nc) A dotação orçamental a atribuir;\n\nd) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.\n\n2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n3 - Dentro dos limites da elegibilidade temporal do programa, o aviso define o período de elegibilidade da realização das acções.\n\n> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:456533:por",
+    "alterador": "pt:dre:439401:por;pt:dre:342802:por;pt:dre:670056:por"
+  },
+  {
+    "artigo": "ANEXO::14.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 14.º-A — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.»\n\n> Aditado pelo/a [Portaria n.º 1305/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2008-439401) e [Portaria n.º 1049/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1049-2010-342802) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:456533:por",
+    "alterador": "pt:dre:439401:por;pt:dre:342802:por;pt:dre:670056:por"
+  }
+]

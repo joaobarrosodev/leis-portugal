@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:432459:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Vigência",
+      "texto": "O regime previsto no presente diploma vigorará enquanto perdurarem as condições económico-sociais que motivaram a sua elaboração.»"
+    }
+  ],
+  "nao_aplicavel": null,
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

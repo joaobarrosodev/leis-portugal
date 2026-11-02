@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1 O pessoal do organismo extinto deverá ficar ao serviço das entidades privadas, às quais venham a ser atribuídas as funções que àquele competiam e a totalidade ou parte do seu património.\n\n2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.\n\n3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.",
+    "depois": "###### Artigo 4.º\n\n1 - (Revogado.)\n\n2. A responsabilidade pela colocação do pessoal deverá condicionar sempre a possibilidade da transferência do património do organismo extinto para quaisquer entidades privadas.\n\n3. Essa transferência efectuar-se-á independentemente de quaisquer requisitos ou formalidades.\n\n> Alterado pelo/a [Decreto n.º 686/76](https://diariodarepublica.pt/dr/detalhe/decreto/686-1976-408542), publicado em 1976-09-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:235946:por",
+    "alterador": "pt:dre:408542:por"
+  }
+]

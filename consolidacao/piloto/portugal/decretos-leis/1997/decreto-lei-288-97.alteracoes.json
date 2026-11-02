@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único\n\n1 - São isentas de imposto do selo quaisquer aquisições de bens que se destinem a integrar o património da Rede Ferroviária Nacional - REFER, E. P., constituída pelo [Decreto-Lei n.º 104/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1997-476739), de 29 de Abril.\n\n2 - São isentos de imposto do selo, até 31 de Dezembro de 1999, quaisquer actos, contratos e operações de que seja sujeito passivo ou destinatário a REFER, E. P., incluindo, designadamente, o imposto incidente sobre aberturas de crédito, confissões ou constituições de dívidas, fianças, hipotecas e operações financeiras.\n\n3 - Os benefícios fiscais estatuídos nos números anteriores têm efeitos retroactivos à data de constituição da REFER, E. P.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 6 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Outubro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+    "depois": "###### Artigo único\n\n1 - São isentas de imposto do selo quaisquer aquisições de bens que se destinem a integrar o património da Rede Ferroviária Nacional - REFER, E. P., constituída pelo [Decreto-Lei n.º 104/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1997-476739), de 29 de Abril.\n\n2 - A REFER, E. P., é isenta do imposto do selo, quando este constitua seu encargo, até 31 de Dezembro de 2002.\n\n3 - Os benefícios fiscais estatuídos nos números anteriores têm efeitos retroactivos à data de constituição da REFER, E. P.\n\n> Alterado pelo/a [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013) e [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), publicado em 2001-12-27.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 6 de Outubro de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Outubro de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:672445:por",
+    "alterador": "pt:dre:212013:por;pt:dre:229157:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Natureza e valor do apoio financeiro\n\n1 - O apoio a conceder no âmbito deste diploma consiste no pagamento de 90% dos juros devidos por crédito bancário, até ao limite de 40000 contos.\n\n2 - O prazo máximo do apoio previsto não poderá exceder o período de 10 anos, devendo o clube proceder à amortização integral do capital em dívida durante esse período.\n\n3 - As condições do apoio previsto nos números anteriores serão objecto de protocolo a celebrar entre a Secretaria Regional das Finanças, Planeamento e Administração Pública, a Secretaria Regional da Educação e Cultura, as instituições de crédito e o clube desportivo beneficiário.",
+    "depois": "###### Artigo 3.º — Natureza e valor do apoio financeiro\n\n1 - O apoio a conceder no âmbito deste diploma consiste no:\n\na) Pagamento à banca de 40% do capital em dívida, tendo esta como limite 40000 contos;\n\nb) Pagamento de 90% dos juros do restante capital.\n\n2 - O apoio previsto na alínea b) do número anterior não poderá exceder o período de seis anos, prazo dentro do qual o clube deverá proceder à amortização integral à banca do capital em dívida.\n\n3 - As condições do apoio previsto nos números anteriores serão objecto de protocolo a celebrar entre a Secretaria Regional das Finanças, Planeamento e Administração Pública, a Secretaria Regional da Educação e Cultura, as instituições de crédito e o clube desportivo beneficiário.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1997-417403), publicado em 1997-12-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405503:por",
+    "alterador": "pt:dre:417403:por"
+  }
+]

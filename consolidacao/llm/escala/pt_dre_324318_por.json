@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:324318:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Natureza, intensidade e cumulação do incentivo",
+      "texto": "1 - O incentivo a conceder pelo SIPPE-RAM assume a forma mista de incentivo não reembolsável e incentivo reembolsável correspondente a uma percentagem das despesas elegíveis do projecto, a definir por portaria do secretário regional que tutele o IDE-RAM.\n\n2 - A percentagem a que se refere o n.º 1 poderá ser acrescida de majoração no caso de projectos liderados por «jovens empresários» e ou «trabalhador originário de uma empresa em reestruturação» e ou localizados em zonas prioritárias.\n\n3 - A taxa de majoração e as zonas prioritárias a que se refere o n.º 2 são definidas por portaria do secretário regional que tutele o IDE-RAM.\n\n4 - Dado tratar-se de um sistema com enquadramento «MINIMIS», os incentivos a conceder, no âmbito do SIPPE-RAM, revestem a natureza minimis, não podendo exceder os (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.\n\n5 - Os incentivos de minimis referidos no número anterior são cumuláveis entre si, não podendo o total de incentivos cumulados ultrapassar o montante máximo de (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.\n\n6 - Os incentivos de minimis, referidos no âmbito do SIPPE-RAM, são também cumuláveis com outros sistemas de incentivos de minimis, desde que de tal cumulação resulte o preenchimento das condições referidas no número anterior.\n\n7 - Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são acumuláveis com quaisquer outros da mesma natureza."
+    }
+  ],
+  "nao_aplicavel": "Artigos 8.º, 9.º, 12.º, 14.º e 21.º não constam do original fornecido.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

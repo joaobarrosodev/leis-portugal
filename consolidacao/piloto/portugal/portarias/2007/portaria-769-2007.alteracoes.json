@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "único",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo único — Alteração do quadro de pessoal do Registo Nacional de Pessoas Colectivas\n\nO quadro de pessoal do Registo Nacional de Pessoas Colectivas é acrescido de 10 lugares de primeiro-ajudante, a extinguir quando vagarem.\n\nPelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 21 de Junho de 2007.",
+    "depois": "###### Artigo único — Alteração do quadro de pessoal do Registo Nacional de Pessoas Colectivas\n\nO quadro de pessoal do Registo Nacional de Pessoas Colectivas é acrescido de 10 lugares de ajudante principal, a extinguir quando vagarem.\n\n> Alterado pelo/a [Portaria n.º 1088/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1088-2007-640120), publicado em 2007-09-06.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:636190:por",
+    "alterador": "pt:dre:640120:por"
+  }
+]

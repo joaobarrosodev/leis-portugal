@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:423252:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Consumo máximo autorizado",
+      "texto": "1 - Só é permitida a colocação no mercado dos aparelhos de refrigeração que respeitem o consumo máximo de electricidade autorizado nos termos do presente diploma.\n\n2 - O fornecedor de cada aparelho de refrigeração é responsável pelo cumprimento do disposto no número anterior.\n\n3 - O consumo máximo de electricidade para cada categoria de aparelho de refrigeração bem como o método de cálculo do consumo máximo de electricidade autorizados para um aparelho de refrigeração constam, respectivamente, dos anexos I e II ao presente diploma e que dele fazem parte integrante."
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Marcação «CE»",
+      "texto": "1 - Quando colocado no mercado, cada aparelho de refrigeração a que se refere o artigo 1.º deve ter aposta a marcação «CE», indicativa de que o mesmo obedece ao conjunto de disposições do presente diploma, incluindo o procedimento de avaliação da conformidade previsto no artigo 8.º do presente diploma.\n\n2 - O grafismo da marcação CE é constituída pelas iniciais CE, de acordo com o grafismo que consta do anexo III do presente diploma e que dele faz parte integrante.\n\n3 - A marcação «CE» deve ser obrigatoriamente aposta pelo fabricante em cada aparelho de refrigeração de modo visível, legível e indelével.\n\n4 - Para além da sua aposição no aparelho de refrigeração, a marcação «CE» deverá também ser aposta na embalagem do aparelho de refrigeração, nas instruções de utilização, nos cartões de garantia ou outros documentos que acompanham o aparelho.\n\n5 - É proibido apor nos aparelhos de refrigeração, ou nos locais mencionados no número anterior, qualquer outra marca, sinal ou indicação susceptível de induzir terceiros em erro quanto ao significado e ao grafismo da marcação «CE».\n\n6 - Se o aparelho de refrigeração for também abrangido por outros diplomas que prevejam a aposição da marcação «CE», presume-se que o aparelho é, também, conforme com as disposições desses outros diplomas.\n\n7 - No caso de um ou mais dos diplomas referidos no número anterior deixarem ao fornecedor, durante um período transitório, a escolha do regime a aplicar, a marcação «CE» indica apenas a conformidade com as disposições dos diplomas aplicados pelo fornecedor, devendo, nesse caso, as referências aos mesmos ser inscritas nos documentos, manuais ou instruções que acompanham os aparelhos de refrigeração."
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Procedimentos de avaliação da conformidade",
+      "texto": "1 - A avaliação da conformidade dos aparelhos de refrigeração com os requisitos da presente legislação bem como as obrigações relativas à marcação «CE» devem ser verificadas de acordo com as regras estabelecidas no anexo IV ao presente diploma e que dele faz parte integrante.\n\n2 - A entidade fiscalizadora recorrerá aos organismos acreditados referidos no artigo 10.º para a realização dos ensaios conducentes à verificação do cumprimento do presente diploma."
+    }
+  ],
+  "nao_aplicavel": "Os anexos I a IV aditados não são artigos; não aplicados.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

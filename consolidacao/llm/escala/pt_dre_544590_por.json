@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:544590:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Introdução no território nacional",
+      "texto": "1 - É autorizada a importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, até 31 de março de 2024, durante os períodos de 1 de dezembro a 31 de março, sendo que a data de 31 de março de cada ano corresponderá ao último dia de entrada no território nacional, desde que cumpridas as exigências constantes da Decisão de Execução n.º 2011/778/UE, da Comissão, de 28 de novembro de 2011, alterada pela Decisão de Execução n.º 2014/368/UE, da Comissão, de 16 de junho de 2014, e nos termos previstos na presente portaria.\n\n2 - A batata-semente a importar ao abrigo da presente portaria só pode ser introduzida no País através dos portos de Aveiro, Lisboa, Porto (Leixões) ou Sines.\n\n3 - Os importadores desta batata-semente devem participar à Direção-Geral de Alimentação e Veterinária (DGAV), com a antecedência mínima de dez dias, os quantitativos a importar e a data provável da importação da batata, bem como a localização dos respetivos armazéns."
+    }
+  ],
+  "nao_aplicavel": "Artigo 7.º alterado mas não consta dos artigos do original fornecidos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

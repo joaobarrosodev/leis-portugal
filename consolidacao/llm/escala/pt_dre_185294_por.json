@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:185294:por",
+  "artigos": [],
+  "nao_aplicavel": "As instruções do DL 530/72 (arts. 38.º, 40.º, 48.º e 65.º) e do DL 258/76 (n.º 6 do art. 38.º) só trazem a frase introdutória, sem o texto da nova redação; nada se pode aplicar com segurança.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

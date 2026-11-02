@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:497796:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Correspondência de cargos e publicitação",
+      "texto": "1 - Na administração regional autónoma dos Açores as competências estabelecidas nas normas abaixo referidas do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, são exercidas nos seguintes termos:\n\na) Por despacho conjunto do Secretário Regional da Presidência para as Finanças e Planeamento e do secretário regional competente, as competências previstas na alínea b) do artigo 7.º e no n.º 8 do artigo 26.º;\n\nb) Por despacho do director regional de Organização e Administração Pública, a competência prevista na alínea c) do n.º 1 do artigo 14.º;\n\nc) Por despacho da Direcção Regional de Organização e Administração Pública, a competência prevista no n.º 10 do artigo 26.º e no n.º 1 do artigo 38.º e na alínea a) do n.º 1 do artigo 39.º\n\n2 - As referências feitas no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, ao Diário da República reportam-se, no que respeita à administração regional autónoma, ao Jornal Oficial.\n\n3 - A publicitação do concurso deverá fazer-se, sempre que possível, através de órgãos de comunicação social de expansão nacional ou regional, obrigatória sempre que se trate de concursos externos, e de folhetos de divulgação."
+    }
+  ],
+  "nao_aplicavel": "Artigo 9.º não consta dos artigos do original (epígrafe desconhecida); não aplicado.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}

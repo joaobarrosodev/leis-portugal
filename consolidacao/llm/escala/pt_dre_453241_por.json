@@ -1,0 +1,8 @@
+{
+  "id": "pt:dre:453241:por",
+  "artigos": [],
+  "nao_aplicavel": "O diploma que altera não traz o texto da nova redação (só a frase introdutória). (artigos 4.º, 20.º e 21.º); a eliminação dos anexos I e II não é de artigos.",
+  "modelo": "claude-opus-5-5 (subagente)",
+  "pedido": "sessão",
+  "problemas": []
+}
