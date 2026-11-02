@@ -99,9 +99,11 @@ b) As obras de valor superior ao previsto na alínea a) cuja realização por ad
 
 c) As obras ou reparações imprevistas ou de carácter urgente;
 
-d) As obras que, postas a concurso nos termos dos n.os 3 e 4 do artigo 2.º, não tenham sido licitadas ou não hajam sido adjudicadas.
+d) As obras que, postas a concurso nos termos da lei, não tenham sido licitadas ou não hajam sido adjudicadas.
 
 2 - Não poderão fazer-se desdobramentos de trabalhos da mesma obra cujo valor, no conjunto, atinja verba superior à estabelecida ao abrigo do artigo 2.º, quer se trate de administração ou ajuste directos, ou de concursos público ou limitado.
+
+> Alterado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032), publicado em 1995-07-18.
 
 ### CAPÍTULO III — Fornecimentos
 
@@ -157,35 +159,43 @@ b) O fornecimento deva exceder 90 dias, salvo quando houver motivo imperioso que
 
 ### CAPÍTULO IV — Concessões
 
-###### Artigo 10.º — Concurso público
+###### Artigo 10.º — (Concurso público)
 
 (Revogado.)
 
-> Revogado pelo/a [Lei n.º 22/95](https://diariodarepublica.pt/dr/detalhe/lei/22-1995-462032) e [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ###### Artigo 11.º — (Prazo da concessão e direito de resgate)
 
-1 - Nenhuma concessão pode ser feita por prazo superior a 20 anos.
+(Revogado.)
 
-2 - Em todos os contratos de concessão deve ser previsto o direito a resgate pela entidade concedente, a partir, pelo menos, do décimo ano de exploração.
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ###### Artigo 12.º — (Transmissão da concessão)
 
-As concessões adjudicadas não são transmissíveis, total ou parcialmente, ainda mesmo por arrendamento, sem prévia autorização da entidade concedente, sendo nulos e de nenhum efeito os actos e contratos celebrados pelo concessionário com infracção do disposto neste preceito.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ###### Artigo 13.º — (Direito de fiscalização)
 
-No contrato de concessão deve ser expressamente salvaguardado o direito de fiscalização da entidade concedente sobre o concessionário.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ###### Artigo 14.º — (Forma do contrato)
 
-O contrato de concessão constará sempre de escritura pública.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ### CAPÍTULO V — Disposições gerais
 
 ###### Artigo 15.º — (Legislação subsidiária)
 
-Em tudo o que diga respeito ao regime de empreitadas de obras públicas, fornecimentos e concessões, e que não esteja especialmente regulado neste diploma, observar-se-ão as disposições legais aplicáveis ao Estado, competindo, porém, relativamente às empreitadas, ao órgão executivo da autarquia ou da associação de município resolver sobre a adjudicação e desempenhar as funções cometidas à comissão perante a qual decorre o acto público do concurso de obras do Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), publicado em 2008-01-29.
 
 ###### Artigo 16.º — (Visto do Tribunal de Contas)
 

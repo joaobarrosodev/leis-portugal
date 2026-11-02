@@ -110,9 +110,11 @@ e) Os candidatos que nas provas de ingresso ao Centro de Estudos Judiciários te
 
 2 - Na graduação dos candidatos são ponderadas as classificações obtidas nas provas prestadas e o currículo do candidato, passível de uma pontuação mínima de 10 valores.
 
-3 - A graduação é decidida pelo júri, à pluralidade de votos, tendo o presidente voto de desempate.
+3 - A graduação final dos candidatos é decidida pela comissão de avaliação, à pluralidade de votos, tendo o presidente voto de desempate, podendo ser convidados a participar nas reuniões para o efeito realizadas, a título meramente consultivo, os presidentes dos júris, bem como os psicólogos intervenientes nos mesmos.
 
 4 - O voto do psicólogo poderá ser eliminatório, mediante deliberação devidamente fundamentada do júri.
+
+> Alterado pelo/a [Decreto-Lei n.º 320-D/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-d-2000-393232), publicado em 2000-12-15.
 
 ###### Artigo 9.º — Matérias
 

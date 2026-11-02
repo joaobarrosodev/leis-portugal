@@ -1,16 +1,30 @@
 [
   {
-    "artigo": "12.º",
-    "operacao": "aditar",
+    "artigo": "6.º",
+    "operacao": "substituir",
     "regra": "llm",
-    "antes": "",
-    "depois": "###### Artigo 12.º\n\nSem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.\n\n> Aditado pelo/a [Decreto-Lei n.º 377/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1985-177003) e [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.",
+    "antes": "###### Artigo 6.º\n\nAs unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».",
+    "depois": "###### Artigo 6.º\n\n1 - As unidades auxiliares têm pintada no seu costado ou nas superstruturas, num e noutro bordo, a meia-nau, de forma bem visível, a palavra «MARINHA».\n\n2 - As unidades auxiliares atribuídas à Polícia Marítima têm ainda pintadas com cor preta as palavras 'POLÍCIA MARÍTIMA'.\n\n> Alterado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:580344:por",
-    "alterador": "pt:dre:177003:por;pt:dre:233721:por"
+    "alterador": "pt:dre:233721:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 12.º\n\nSem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.\n\n> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580344:por",
+    "alterador": "pt:dre:233721:por"
   }
 ]

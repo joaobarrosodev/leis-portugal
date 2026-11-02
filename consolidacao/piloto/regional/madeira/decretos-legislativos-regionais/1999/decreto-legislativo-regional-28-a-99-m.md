@@ -166,19 +166,23 @@ g) Participações no capital.
 
 ###### Artigo 6.º — Órgãos do IDE-RAM
 
-São os seguintes os órgãos do IDE-RAM:
+São órgãos do IDE-RAM:
 
-a) O conselho de administração;
+a) O conselho diretivo;
 
 b) O conselho consultivo;
 
-c) A comissão de fiscalização.
+c) O fiscal único.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 #### SECÇÃO I — Conselho de administração
 
 ###### Artigo 7.º — Composição
 
-O conselho de administração do IDE-RAM é constituído por um presidente e dois vogais, nomeados e exonerados pelo Conselho de Governo, sob proposta do secretário regional da tutela.
+O conselho diretivo é composto por um presidente e dois vogais, designados pelo membro do Governo da tutela, nos termos da lei.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ###### Artigo 8.º — Competência
 
@@ -226,9 +230,11 @@ b) Assegurar as relações do IDE-RAM com o Governo Regional.
 
 4 - O presidente será substituído, nas suas ausências e impedimentos, pelo vogal para esse efeito por ele designado.
 
-###### Artigo 11.º — Remuneração e regime
+###### Artigo 11.º — Regime
 
-Os membros do conselho de administração ficam sujeitos ao Estatuto do Gestor Público, sendo equiparados, para efeitos de remuneração e demais regalias, aos gestores das empresas públicas do grupo C, sendo o grau de complexidade de gestão definido por resolução do Conselho do Governo.
+Os membros do conselho diretivo regem-se pelo disposto no [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e, subsidiariamente, pelo Estatuto do Pessoal Dirigente da Administração Pública.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 #### SECÇÃO II — Conselho consultivo
 
@@ -270,9 +276,17 @@ O conselho consultivo reúne ordinariamente uma vez por semestre e extraordinari
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### Artigo 16.º — Composição
+###### Artigo 16.º — Função, designação, remuneração e mandato
 
-A comissão de fiscalização do IDE-RAM é composta por três membros, um presidente e dois vogais, nomeados pelo secretário regional que tiver a tutela das finanças, um dos quais será, obrigatoriamente, revisor oficial de contas.
+1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IDE-RAM.
+
+2 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
+
+3 - Atendendo ao grau de complexidade e exigência inerente ao exercício do cargo.
+
+4 - O mandato do fiscal único tem a duração de três anos podendo ser renovado uma única vez através de despacho dos membros do Governo referidos no n.º 2.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ###### Artigo 17.º — Competência
 
@@ -304,31 +318,29 @@ b) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas fun�
 
 ###### Artigo 19.º — Reuniões
 
-A comissão de fiscalização reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que for convocada por um dos seus membros.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ###### Artigo 20.º — Remuneração
 
-Os membros da comissão de fiscalização têm direito a uma remuneração idêntica à fixada para as comissões de fiscalização das empresas públicas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 #### SECÇÃO IV — Disposições comuns aos órgãos
 
 ###### Artigo 21.º — Mandatos
 
-1 - O mandato dos membros dos órgãos do IDE-RAM tem a duração de três anos, sendo renovável por uma ou mais vezes.
+(Revogado.)
 
-2 - Após terminarem os respectivos mandatos, os membros dos órgãos mantêm-se no exercício das suas funções até efectiva substituição ou declaração de cessação de funções.
-
-3 - Os órgãos do IDE-RAM consideram-se constituídos, para todos os efeitos, desde que se encontre nomeada a maioria dos seus membros.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ###### Artigo 22.º — Deliberações
 
-1 - Para que os órgãos do IDE-RAM deliberem validamente é indispensável a presença na reunião da maioria dos respectivos membros em exercício.
+(Revogado.)
 
-2 - As deliberações serão tomadas por maioria dos votos expressos, tendo o presidente ou quem o substitua voto de qualidade.
-
-3 - Não é permitido o voto por procuração.
-
-4 - Serão lavradas actas de todas as reuniões dos órgãos do IDE-RAM, as quais serão assinadas por todos os membros que nelas participem.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ###### Artigo 23.º — Convocações
 
@@ -348,23 +360,17 @@ d) Compareçam à reunião.
 
 ###### Artigo 24.º — Deslocações
 
-Os membros dos órgãos têm direito, nas suas deslocações em serviço, aos abonos fixados por regulamento interno a aprovar pelo secretário regional da tutela.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ### CAPÍTULO IV — Vinculação do IDE-RAM
 
 ###### Artigo 25.º — Vinculação
 
-1 - O IDE-RAM obriga-se:
+(Revogado.)
 
-a) Pela assinatura conjunta de dois membros do conselho de administração ou de um membro e de mandatário ou procurador com poderes para o efeito;
-
-b) Pela assinatura de um membro do conselho de administração que para tanto tenha recebido, em acta, delegação para a prática de actos determinados;
-
-c) Pela assinatura de empregado do IDE-RAM em quem tal poder tenha sido delegado, no âmbito da respectiva delegação;
-
-d) Pela assinatura de procurador legalmente constituído, nos termos e no âmbito do respectivo mandato.
-
-2 - Os actos de mero expediente que não constituam o IDE-RAM em obrigação podem ser assinados por qualquer dos membros do conselho de administração ou pelos empregados a quem tal poder tenha sido conferido.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), publicado em 2015-08-13.
 
 ### CAPÍTULO V — Gestão patrimonial e financeira
 

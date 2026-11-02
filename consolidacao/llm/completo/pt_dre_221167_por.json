@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:221167:por",
+  "artigos": [
+    {
+      "chave": "3.º-A",
+      "epigrafe": "Autoridade competente",
+      "texto": "1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e à segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado por autoridade competente, competindo-lhe, designadamente:\n\na) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;\n\nb) Elaborar e coordenar a execução do plano oficial para verificação do cumprimento das normas previstas no presente decreto-lei.\n\n2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Fiscalização, instrução e decisão",
+      "texto": "1 - A fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterações ao anexo (quadros) do DL 394/98 não aplicadas: o anexo não consta do texto atual por artigos e os quadros novos só vêm em imagem — DL 216/2004 art. 2.º n.º 2 e anexo I (novas designações de categorias, quadros III e IV), art. 3.º e anexo II (quadros VIII e IX, em imagem); DL 33/2008 art. 3.º e anexo II (E 968 Eritritol na linha E 420 a E 967); DL 94/2010 art. 5.º e anexo II (quadro X, em imagem).",
+  "instrucoes": [
+    "DL 216/2004 art. 2.º n.º 1: nova redação do art. 7.º (corpo e alíneas a) e b) '...', aditada alínea c)); o texto atual já tem a alínea c) igual, nada a mudar.",
+    "DL 216/2004 art. 2.º n.º 2 e anexo I: alterações aos quadros III e IV e designações de categorias do anexo; não aplicável (anexo fora do texto).",
+    "DL 216/2004 art. 3.º e anexo II: aditamento dos quadros VIII e IX, só em imagem; não aplicável.",
+    "DL 33/2008 art. 2.º e anexo I: alteram o DL 121/98, outro diploma; ignoradas.",
+    "DL 33/2008 art. 3.º e anexo II: E 968/Eritritol na linha E 420 a E 967 do anexo; não aplicável (anexo fora do texto).",
+    "DL 94/2010 art. 2.º, art. 6.º e anexo I: alteram o DL 365/98; ignoradas.",
+    "DL 94/2010 art. 3.º: nova redação do art. 11.º (epígrafe e corpo) aplicada.",
+    "DL 94/2010 art. 4.º: aditado o art. 3.º-A 'Autoridade competente'.",
+    "DL 94/2010 art. 5.º e anexo II: aditamento do quadro X, só em imagem; não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

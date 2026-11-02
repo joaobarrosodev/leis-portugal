@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:523185:por",
+  "artigos": [],
+  "nao_aplicavel": "Alterador 1 (DLR n.º 18/2001/M), art. 5.º: revoga o estatuto remuneratório e regime de carreira aprovado pelo Decreto Regulamentar Regional n.º 13/92/M, ou seja, o diploma no seu todo, sem indicar artigos; revogação global, não uma alteração textual de artigos, pelo que não foi convertida em revogações artigo a artigo.",
+  "instrucoes": [
+    "Alterador 1, arts. 1.º a 4.º e 6.º: não se dirigem ao texto do original; ignorados.",
+    "Alterador 1, art. 5.º: revogação total do diploma original (e de outros diplomas); registada em nao_aplicavel, nenhum artigo alterado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

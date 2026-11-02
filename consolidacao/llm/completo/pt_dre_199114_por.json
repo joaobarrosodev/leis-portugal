@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:199114:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "Alteração do quadro de pessoal",
+      "texto": "1 - Ao quadro de pessoal da Assembleia da República, aprovado pela [Lei n.º 77/88](https://diariodarepublica.pt/dr/detalhe/lei/77-1988-144263), de 1 de Julho, com as alterações introduzidas pela [Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/lei/59-1993-329986), de 17 de Agosto, são acrescentados os lugares criados pelo n.º 1 do artigo 5.º da presente resolução.\n\n2 - São fixados, por carreira, os seguintes lugares:\n\na) Técnico-adjunto parlamentar: 95;\n\nb) Operador de meios áudio-visuais: 2;\n\nc) Técnico-adjunto de BDA: 13;\n\nd) Tesoureiro: 1;\n\ne) Secretário parlamentar: 70;\n\nf) Fiel de armazém: 2;\n\ng) Auxiliar de biblioteca: 7;\n\nh) Operador de reprografia: 7;\n\ni) Motorista: 17;\n\nj) Auxiliar parlamentar: 75;\n\nk) Guarda-nocturno: 7;\n\nl) Operador de offset: 2.\n\n3 - São extintos à medida que vagarem os lugares de chefe de sector, de carpinteiro e de jardineiro.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (RAR 8/98), art. 14.º, n.º 9: dá nova redacção ao mapa II (área de recrutamento, carreira de motorista) anexo ao original, mas o mapa II só existe em imagem ('ver documento original'), pelo que não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1 (RAR 8/98): art. 7.º, n.º 1 redesigna a carreira de técnico-adjunto parlamentar como adjunto parlamentar, e o art. 9.º fixa o abono do n.º 7 do art. 5.º em 15%. Nenhum dos dois dá nova redacção a texto do original, por isso não alterei nada.",
+    "Alterador 1, art. 14.º, n.º 9: nova redacção do mapa II na carreira de motorista. O mapa só vem em imagem: não aplicado (ver nao_aplicavel).",
+    "Alterador 1, art. 15.º, n.º 3: fixa o prazo da regularização do art. 13.º do original. Não é alteração textual: ignorado.",
+    "Alterador 2 (RAR 18/2001), art. 1.º: nova redacção do n.º 2 do art. 8.º, com as alíneas i), j) e k) alteradas (Motorista: 17; Auxiliar parlamentar: 75; Guarda-nocturno: 7). O resto, marcado com '...', ficou como estava. Aplicado.",
+    "Alterador 3 (RAR 20/2004), art. 42.º, n.º 2, a): só mantém em vigor o original. Não altera texto.",
+    "Alterador 4 (Declaração de Rectificação 1249/2010): rectifica um aviso de concurso e não o original. Ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

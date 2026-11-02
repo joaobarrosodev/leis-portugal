@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:313653:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais.",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Os funcionários e empregados que infrinjam o estabelecido no n.º 3 do artigo 1.º serão punidos nos termos do Estatuto Disciplinar dos Funcionários Civis do Estado.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Art. 4.º do DL 248/83 (referências aos hospitais e seus funcionários tornam-se extensivas aos lares para a terceira idade) é regra de extensão, não alteração textual; não aplicada ao texto.",
+  "instrucoes": [
+    "DL 248/83, art. 3.º: nova redação do n.º 1 do art. 2.º (n.os 2 e 3 '...'); aplicada, mas depois revogada pelo DL 206/2001.",
+    "DL 248/83, arts. 1.º e 2.º: normas autónomas do próprio DL 248/83; não alteram o texto do original.",
+    "DL 248/83, art. 4.º: extensão das referências aos lares; não textual, não aplicada.",
+    "DL 206/2001, art. 19.º, a): revoga os n.os 1 e 2 do art. 1.º e o n.º 2 do art. 2.º; aplicado.",
+    "DL 206/2001, art. 19.º, b): revoga o n.º 1 do art. 2.º na redação do DL 248/83; aplicado.",
+    "DL 206/2001, art. 19.º, c): revoga o art. 2.º do DL 248/83 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

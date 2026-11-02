@@ -34,6 +34,7 @@ import re
 
 from texto import RAIZ, artigos_alteradores, com_titulos, corpo, publicado
 
+
 PASTA = RAIZ / "consolidacao"
 VERIFICACAO = PASTA / "verificacao"
 
@@ -119,6 +120,11 @@ def main() -> int:
         juntados = PASTA / "llm" / "juntados-escala.jsonl"
     if juntados.exists():
         resultados += [j for j in map(json.loads, juntados.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
+    completo = PASTA / "llm" / "juntados-completo.jsonl"
+    if args.escala and completo.exists():
+        # O pedido completo (`llm_completo.py`) substitui o juntado parcial do mesmo diploma.
+        novos = [j for j in map(json.loads, completo.read_text(encoding="utf-8").splitlines()) if j["estado"] == "aplicado com LLM"]
+        resultados = [r for r in resultados if r["id"] not in {j["id"] for j in novos}] + novos
     VERIFICACAO.mkdir(exist_ok=True)
     linhas = []
     for r in resultados:

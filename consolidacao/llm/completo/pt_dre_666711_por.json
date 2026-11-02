@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:666711:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Adaptação à Região",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Empréstimos amortizáveis",
+      "texto": "1 - Fica o Governo Regional autorizado a contrair empréstimos amortizáveis, até ao montante de 15 milhões de contos e dentro dos limites de endividamento fixados na Lei do Orçamento de Estado para 1993, nos termos do [Decreto-Lei n.º 336/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1990-565863), de 30 de Outubro, para fazer face a necessidades de financiamento, a colocar junto das instituições financeiras ou outras entidades.\n\n2 - Fica ainda o Governo Regional autorizado a contrair empréstimos amortizáveis, internos e externos, até ao limite máximo de 10 milhões de contos e nos termos do artigo 53.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, destinados exclusivamente ao financiamento dos programas e projectos plurianuais, constantes do mapa IX, a colocar junto das instituições financeiras ou outras entidades, internas ou externas.\n\n3 - A emissão dos empréstimos internos referidos no número anterior deverá subordinar-se às seguintes condições e modalidades:\n\na) Mutuária: Região Autónoma da Madeira;\n\nb) Montante: até 10000000 de contos;\n\nc) Forma: contrato de empréstimo entre a mutuária e as instituições de crédito, nos moldes normais para este tipo de operações;\n\nd) Período de utilização: uma única utilização;\n\ne) Modalidade: empréstimo a seis meses, podendo ser renovável;\n\nf) Garantias: aval do Estado Português.\n\n4 - As condições de emissão destes empréstimos não poderão ser mais gravosas do que as resultantes do mercado em matéria de prazo, taxa de juro e demais encargos, podendo as mesmas ser objecto dos ajustamentos técnicos que se revelarem aconselháveis.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, artigo 1.º: os mapas I a IX anexos ao original são substituídos, nas partes respectivas, pelos mapas anexos ao DLR 21/93/M; os mapas não vêm no texto (só em imagem/documento original) e não constam do texto atual por artigos, pelo que não se aplicou.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: substitui os mapas I a IX do Orçamento — mapas não disponíveis em texto; não aplicado (ver nao_aplicavel).",
+    "Alterador 1, art. 2.º: nova redacção do artigo 8.º (n.os 1 a 4) — aplicada, texto copiado do alterador.",
+    "Alterador 1, art. 3.º: norma autónoma sobre saldos do temporal de Outubro, não altera o texto do original — ignorada.",
+    "Alterador 2, art. 20.º: revoga o artigo 7.º do DLR 4/93/M — artigo 7.º fica (Revogado.). A revogação genérica das normas sobre as matérias reguladas não tem alvo textual preciso — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

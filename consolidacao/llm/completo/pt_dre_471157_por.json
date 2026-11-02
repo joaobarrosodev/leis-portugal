@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:471157:por",
+  "artigos": [
+    {
+      "chave": "10.º",
+      "epigrafe": "Majoração do incentivo",
+      "texto": "1 - O incentivo a conceder no âmbito do apoio a projectos de promoção de factores dinâmicos de competitividade, prevista na alínea a) do artigo 1.º, poderá ser majorado até ao limite máximo de 10%, de acordo com os critérios e percentagens seguintes:\n\na) Empresas que tenham aderido ou demonstrem que virão a aderir ao Sistema Comunitário de Atribuição de Rótulo Ecológico, à certificação ambiental e ao Sistema de Ecogestão e Auditoria (EMAS) - 5%;\n\nb) Projectos de empresas aderentes a contratos sectoriais de adaptação ambiental, com incidência apenas nas aplicações relevantes relativas a ambiente externo - 10%:\n\n2 - Para além das majorações consideradas no número anterior, o incentivo a conceder no âmbito do apoio a pequenos projectos de modernização empresarial, previstos na alínea b) do artigo 1.º, poderá ainda ser majorado de acordo com os critérios e percentagens seguintes, até ao limite de 10%;\n\na) Projectos estratégicos destinados à reciclagem de resíduos e reutilização de recursos naturais, com peso relevante no total dos recursos utilizados e no sentido da sua valorização acrescida - 10%;\n\nb) Projectos com utilização de tecnologias mais limpas, onde as tecnologias alternativas generalizadas sejam ainda tecnologias não limpas, e ou nos casos de fabricação de produtos ecológicos, bem como projectos localizados em zonas de intervenção integrada do ambiente, quando exista investimento neste âmbito - 5%.\n\n3 - As majorações referidas nas alíneas a) e b) do número anterior não são cumulativas.\n\n4 - Poderão ser majorados em 15% os projectos situados em concelhos reconhecidos por despacho conjunto dos ministros competentes como profundamente afectados por transformações industriais e ou com taxas de desemprego acima da média nacional durante o período de 1995 a 1997.\n\n5 - Os projectos localizados nos restantes concelhos da Região Autónoma da Madeira poderão ser majorados em 5%.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Anexo B (n.º 2 do n.º 1.º do anexo B), alterado pelos alteradores 1 e 2: o anexo B não consta do texto atual, por isso não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extensão do regime às regiões abrangidas pelo SIR; norma autónoma, não altera texto.",
+    "Alterador 1, art. 2.º: nova redação do art. 10.º (n.os 1-3 e alíneas '...' mantidos; n.º 4 substituído; n.º 5 aditado sobre regiões SIR) e do n.º 2 do n.º 1.º do anexo B (não aplicado: anexo ausente do texto atual).",
+    "Alterador 2, art. 1.º: extensão à Região Autónoma da Madeira; norma autónoma, não altera texto.",
+    "Alterador 2, art. 2.º: nova redação do art. 10.º (n.º 4 com o mesmo texto; n.º 5 substituído pela redação sobre a Madeira, que fica como texto final por ser a última aplicada) e do n.º 2 do n.º 1.º do anexo B (não aplicado).",
+    "Alteradores 1 e 2, art. 3.º: entrada em vigor/aplicação; não altera texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

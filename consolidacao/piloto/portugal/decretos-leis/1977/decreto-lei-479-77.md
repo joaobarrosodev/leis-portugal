@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:283369:por
-    title: Decreto-Lei n.º 11/88
-    publication_date: '1988-01-15'
   - id: pt:dre:488827:por
     title: Decreto-Lei n.º 200/2009
     publication_date: '2009-08-27'
+  - id: pt:dre:283369:por
+    title: Decreto-Lei n.º 11/88
+    publication_date: '1988-01-15'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -39,7 +39,7 @@ O preço de venda ao público constará obrigatoriamente dos bilhetes e fracçõ
 
 A importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.
 
-> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369) e [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
+> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
 
 ###### Artigo 3.º
 
@@ -51,7 +51,7 @@ Em cada lotaria continuará a constituir receita extraordinária da Caixa de Pre
 
 2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.
 
-> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369) e [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
+> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.
 
 ###### Artigo 5.º
 
@@ -59,7 +59,9 @@ Os planos da lotaria e a lista oficial dos resultados dos sorteios serão tornad
 
 ###### Artigo 6.º
 
-Ficam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.
+O direito aos prémios dos bilhetes da lotaria nacional e suas fracções caduca no prazo de três meses contados desde o dia da extracção, findo o qual reverte a favor da Misericórdia de Lisboa o valor dos prémios não reclamados.
+
+> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369), publicado em 1988-01-15.
 
 ###### Artigo 7.º
 

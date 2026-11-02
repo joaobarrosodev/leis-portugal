@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:361499:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Património",
+      "texto": "1 - Por deliberação da assembleia geral, o património activo e passivo da EPAC Comercial, S. A., que remanescer das operações de liquidação efectuadas pela comissão liquidatária será liquidado por transmissão global para o accionista Estado, através da Direcção-Geral do Tesouro.\n\n2 - A Direcção-Geral do Tesouro, em representação do Estado, sucederá à EPAC Comercial, em todas as relações jurídicas contratuais e processuais que esta integre à data da sua extinção.\n\n3 - A Direcção-Geral do Tesouro ficará depositária dos livros, documentos e demais elementos de escrituração da EPAC Comercial, S. A.\n\n4 - Para o efeito da transmissão referida no n.º 1, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.\n\n5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, transferirá para o património do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) o património imobiliário remanescente das operações de liquidação levadas a cabo pela comissão liquidatária.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "DL 250/2002, art. 11.º, n.º 1: revoga o DL 242-A/2001 e repristina o art. 2.º do DL 187/2001 (redacção original, anterior ao DL 242-A/2001). O texto atual do art. 2.º é já a redacção do DL 242-A/2001 e a redacção original não vem no pedido, pelo que não é possível repor o texto com segurança.",
+  "instrucoes": [
+    "DL 242-A/2001, art. 1.º: nova redacção do art. 2.º (n.os 2 e 3) — o texto atual (já alterado por um programa) coincide com esta redacção; nada a mudar.",
+    "DL 242-A/2001, art. 2.º: altera o art. 2.º do DL 188/2001 — outro diploma; ignorada.",
+    "DL 234/2002, art. 1.º: nova redacção do n.º 5 do art. 4.º; n.os 1 a 4 '...' mantêm o texto atual. Aplicada.",
+    "DL 234/2002, art. 2.º: prazos de liquidação — norma autónoma, não altera o texto do original.",
+    "DL 250/2002, art. 11.º, n.º 1: revogação do DL 242-A/2001 com repristinação do art. 2.º original do DL 187/2001 — não aplicada (texto original do art. 2.º não disponível no pedido); ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

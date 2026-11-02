@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:197366:por
-    title: Resolução da Assembleia da República n.º 8/98
-    publication_date: '1998-03-18'
   - id: pt:dre:386238:por
     title: Resolução da Assembleia da República n.º 18/2001
     publication_date: '2001-02-23'
@@ -171,7 +168,7 @@ l) Operador de offset: 2.
 
 3 - São extintos à medida que vagarem os lugares de chefe de sector, de carpinteiro e de jardineiro.
 
-> Alterado pelo/a [Resolução da Assembleia da República n.º 8/98](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1998-197366) e [Resolução da Assembleia da República n.º 18/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-2001-386238), publicado em 2001-02-23.
+> Alterado pelo/a [Resolução da Assembleia da República n.º 18/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/18-2001-386238), publicado em 2001-02-23.
 
 ###### Artigo 9.º — Ratificação
 

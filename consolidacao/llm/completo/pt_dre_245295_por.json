@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:245295:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Progressões",
+      "texto": "1 - O tempo de serviço prestado pelos funcionários, agentes e outros trabalhadores da administração pública central, regional e local e pelos demais servidores do Estado a partir da data de entrada em vigor da presente lei não é contado, para efeitos de progressão, em todas as carreiras, cargos e categorias, incluindo as integradas em corpos especiais.\n\n2 - Ao pessoal referido no número anterior que até 31 de Dezembro de 2005 adquira o direito à aposentação, à reforma, à reserva ou à pré-aposentação, nos termos das leis aplicáveis, e que até tal data reúna os requisitos para progressão para o escalão seguinte da respectiva categoria ou cargo, é considerada, para efeitos do cálculo da pensão de aposentação ou de reforma ou da remuneração na reserva ou na pré-aposentação, a remuneração correspondente a este escalão, independentemente da data em que venha a exercer aquele direito.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Suplementos",
+      "texto": "São mantidos no montante vigente à data de entrada em vigor da presente lei todos os suplementos remuneratórios que não tenham a natureza de remuneração base, independentemente da respectiva designação, designadamente despesas de representação, subsídios de alojamento, de residência e de fixação, pelo risco, penosidade, insalubridade e perigosidade, gratificações e participações emolumentares, relativamente aos funcionários, agentes e restante pessoal da Administração Pública e aos demais servidores do Estado.",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Juízes e magistrados do Ministério Público",
+      "texto": "1 - O regime estabelecido nos artigos anteriores é directamente aplicável, nos quadros estatutários correspondentes, aos juízes e aos magistrados do Ministério Público.\n\n2 - Fica excepcionado do número anterior o tempo decorrido no período de ingresso.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Entrada em vigor e produção de efeitos",
+      "texto": "A presente lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos até 31 de Dezembro de 2007, salvo se diploma concretizador da revisão dos sistemas de vínculos, carreiras e remunerações expressamente determinar data anterior.\n\nAprovada em 28 de Julho de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 14 de Agosto de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 18 de Agosto de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 53-C/2006, art. 1.º: nova redação do n.º 1 do art. 1.º (epígrafe [...] e n.º 2 '...' mantidos do texto atual) - aplicado.",
+    "Lei 53-C/2006, art. 1.º: nova redação do corpo do art. 2.º (epígrafe [...] mantida) - aplicado.",
+    "Lei 53-C/2006, art. 1.º: art. 3.º passa a ter n.º 1 (anterior corpo do artigo) e n.º 2 novo - aplicado.",
+    "Lei 53-C/2006, art. 1.º: art. 4.º com nova epígrafe e novo corpo - aplicado; mantidas as linhas finais de aprovação/promulgação do texto atual, que não são objeto da instrução.",
+    "Lei 53-C/2006, art. 2.º: norma de produção de efeitos do n.º 2 do art. 3.º, não textual - nada a aplicar.",
+    "Lei 68/2019: o pedido não traz nenhum artigo que mencione o original - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

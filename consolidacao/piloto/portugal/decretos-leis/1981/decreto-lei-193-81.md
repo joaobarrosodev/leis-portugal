@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:177003:por
-    title: Decreto-Lei n.º 377/85
-    publication_date: '1985-09-26'
   - id: pt:dre:233721:por
     title: Decreto-Lei n.º 105/2005
     publication_date: '2005-06-29'
@@ -63,7 +60,11 @@ d) Endereço radiotelegráfico.
 
 ###### Artigo 6.º
 
-As unidades auxiliares têm ainda, pintadas no costado, a meia-nau, num e noutro bordo, de forma bem visível, as palavras «Marinha de Guerra Portuguesa».
+1 - As unidades auxiliares têm pintada no seu costado ou nas superstruturas, num e noutro bordo, a meia-nau, de forma bem visível, a palavra «MARINHA».
+
+2 - As unidades auxiliares atribuídas à Polícia Marítima têm ainda pintadas com cor preta as palavras 'POLÍCIA MARÍTIMA'.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.
 
 ###### Artigo 7.º
 
@@ -99,4 +100,4 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.
 
-> Aditado pelo/a [Decreto-Lei n.º 377/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1985-177003) e [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.
+> Aditado pelo/a [Decreto-Lei n.º 105/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2005-233721), publicado em 2005-06-29.

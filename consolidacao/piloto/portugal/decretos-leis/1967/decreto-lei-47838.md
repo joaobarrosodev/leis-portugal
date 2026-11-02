@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:451852:por
-    title: Decreto-Lei n.º 248/83
-    publication_date: '1983-06-09'
   - id: pt:dre:372853:por
     title: Decreto-Lei n.º 206/2001
     publication_date: '2001-07-27'
@@ -35,15 +32,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 3. Não é permitido aos funcionários e empregados hospitalares dar às agências funerárias, por forma directa ou indirecta, qualquer indicação relacionada com os óbitos referidos, enquanto aquelas não demonstrarem estar encarregadas dos respectivos funerais.
 
-> Alterado pelo/a [Decreto-Lei n.º 248/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1983-451852) e [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
+> Alterado pelo/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
 
 ###### Artigo 2.º
 
-1. A violação do disposto nos n.os 1 e 2 do artigo anterior será punida com multa de 2000$00 a 20000$00 e proibição de as agências efectuarem funerais de qualquer pessoa falecida nos hospitais por períodos de um a cinco anos.
+1 - (Revogado.)
 
-2. Ficam solidàriamente responsáveis pelo pagamento das multas previstas no número anterior os autores da infracção e as respectivas agências.
+2 - (Revogado.)
 
 3. Os funcionários e empregados que infrinjam o estabelecido no n.º 3 do artigo 1.º serão punidos nos termos do Estatuto Disciplinar dos Funcionários Civis do Estado.
+
+> Alterado pelo/a [Decreto-Lei n.º 206/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853), publicado em 2001-07-27.
 
 ###### Artigo 3.º
 

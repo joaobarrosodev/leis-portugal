@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:513984:por",
+  "artigos": [
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (DL 44585), art. 4.º: elimina um lugar de primeiro-oficial e um de dactilógrafo do mapa anexo ao original. O mapa só existe em imagem ('ver documento original'), por isso não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 43828): não traz nenhuma instrução dirigida ao original (altera o Regimento e o quadro do Conselho Ultramarino). Nada a aplicar.",
+    "Alterador 2 (DL 44585), art. 3.º: revoga o art. 13.º do original. O corpo do artigo passou a '(Revogado.)'. A nova redacção do art. 59.º do DL 41169 é de outro diploma: ignorada.",
+    "Alterador 2, art. 4.º: elimina lugares do mapa anexo, que só vem em imagem. Não aplicado (ver nao_aplicavel).",
+    "Alterador 2, arts. 1.º, 6.º, 8.º, 9.º e 10.º: alteram outros diplomas (DL 39602, 42194, 41169, 43353). Ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -437,3 +437,16 @@ Mesmo processo dos lotes 001 a 010 (ver acima). `llm.py --importar` deu, por lot
 
 Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027: 6, 028: 11, 029: 7, 030: 5, 031: 10, 032: 6, 033: 9, 034: 2, 035: 6, 036: 9, 037: 10, 038: 12, 039: 6, 040: 9, 041: 12, 042: 14), 39 com problemas. `juntar.py --escala`: 339 `aplicado com LLM` (253 parciais), 106 novos. Ronda 10: `verificacao/entrada-piloto-10-lote-01..04.jsonl` (106 diplomas). **A verificação às cegas da ronda 10 não está concluída**: os subagentes escrevem em `verif10/` (fora do repositório, no scratchpad da sessão); falta `cegas_vista.py saida 10 PASTA` e o dry-run. Até lá, nada desta ronda é aplicável.
 
+
+## Pedido completo ao LLM (`llm_completo.py`)
+
+**Problema.** Nas rondas 7 a 9 só 8 a 34% dos diplomas juntados com o LLM passaram às cegas (8/99, 16/73, 21/61). A causa mais comum em 87 recusados das rondas 8 e 9: 62 só por "instruções em falta", 12 por isso e por artigos errados. As instruções em falta visavam artigos que ficaram iguais ao original porque o pedido de `llm.py` só leva os artigos que as instruções por aplicar nomeiam. Quase sempre são diplomas com vários alteradores em que um (ou mais) nunca foi lido por inteiro.
+
+**Pedido novo.** Para cada diploma: o texto atual do original, artigo a artigo (com o que as regras aplicaram, assinalado), o texto de todos os alteradores por ordem de aplicação, e a ordem de ler todas as instruções dirigidas ao original e devolver os artigos que ainda faltam mudar, com o alterador de cada um. A verificação letra a letra aceita agora um parágrafo renumerado ("1 - …"). A resposta junta-se sobre o consolidado das regras sem recusar os artigos que elas já tinham tocado (o LLM viu a redação delas).
+
+**Medição** (40 diplomas ao acaso entre os 97 recusados nas rondas 8 e 9, semente 1; 1 saltado por ter pedido acima de 150 mil caracteres; Opus, 2 diplomas por pedido):
+- 39 de 40 juntados (1 era uma revogação do diploma inteiro, sem artigos); 22 com `nao_aplicavel` (anexos e quadros só em imagem, renumerações que o formato não exprime).
+- 31 tinham consolidado diferente do já verificado (8 saíram iguais) e foram à ronda 11. Verificação às cegas: **19 de 31 sem reparos**.
+- Rendimento: 19/40 = 48% sobre a amostra inteira, 19/39 = 49% sobre os juntados, 61% sobre os que mudaram. Antes, 8 a 34% (e 0% nesta amostra, que são todos recusados). A amostra é de diplomas já recusados, por isso o número mede o resgate, não o rendimento num lote novo.
+
+**O que continua a travar:** quadros e anexos só em imagem (o verificador e o LLM não os veem), renumerações de artigos (o formato de resposta não apaga uma chave), e o verificador não vê o texto dos artigos iguais ao original, por isso hesita nas "instruções em falta" sobre eles.

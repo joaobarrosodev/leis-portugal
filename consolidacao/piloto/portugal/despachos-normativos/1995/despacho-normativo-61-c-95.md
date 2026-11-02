@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:532064:por
     title: Despacho Normativo n.º 22/99
     publication_date: '1999-04-26'
-  - id: pt:dre:532064:por
-    title: Despacho Normativo n.º 22/99
-    publication_date: '1999-04-26'
   - id: pt:dre:642740:por
     title: Despacho Normativo n.º 63/99
     publication_date: '1999-11-23'
@@ -134,7 +131,7 @@ c) O diagnóstico e análise estratégica concluído há menos de 120 dias útei
 
 d) O adiantamento para sinalização até 50% do custo de cada equipamento, não podendo ultrapassar 25% do custo global dos equipamentos, sempre que os documentos justificativos desse adiamento se refiram aos 60 dias úteis que antecedem a data de apresentação da candidatura.
 
-> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064) e [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
+> Alterado pelo/a [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
 
 ###### Artigo 5.º — Critérios de selecção
 
@@ -200,7 +197,7 @@ c) Subsídio a fundo perdido para as restantes componentes, não directamente pr
 
 3 - Os incentivos relativos a aplicações relevantes realizadas no estrangeiro serão sempre concretizados através da bonificação da taxa de juro.
 
-> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064) e [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ###### Artigo 8.º — Percentagem do incentivo
 
@@ -234,7 +231,7 @@ c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 
 
 4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.
 
-> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064) e [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ###### Artigo 11.º — Bonificação de juros
 
@@ -242,19 +239,23 @@ c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 
 
 2 - As taxas máximas de juro e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito financiadoras.
 
-> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064) e [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
-###### Artigo 12.º — Bonificações de juro
-
-(Revogado.)
-
-> Revogado pelo/a Artigo 2.º do/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
-
-###### Artigo 13.º — Competência e prazo de apreciação
+###### Artigo 12.º — Competência e prazo de apreciação
 
 1 - Compete ao IAPMEI analisar as candidaturas, emitindo parecer fundamentado no prazo de 60 dias úteis contados a partir da data de apresentação da candidatura.
 
 2 - Compete à Direcção-Geral da Indústria emitir parecer sobre a verificação da condição de acesso prevista na alínea b) do n.º 1 do artigo 4.º no prazo de 20 dias úteis contados partir da data do envio do projecto pelo IAPMEI.
+
+> Revogado pelo/a Artigo 2.º do/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
+
+###### Artigo 13.º — Projecto com investimento no estrangeiro
+
+Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ###### Artigo 14.º — Projecto com investimento no estrangeiro
 

@@ -34,7 +34,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - A quebra de produção das entidades não abrangidas pelo número anterior é certificada pelas direcções regionais de agricultura, se possível em função da produtividade média da campanha de produção de 1996-1997 e da produtividade média da região nos últimos três anos.
 
-4 - O disposto no presente diploma aplica-se também às entidades que desenvolvam a produção de tomate em cultura de ar livre nos concelhos da região do Ribatejo e Oeste constantes do anexo a este diploma em cujos campos de produção foram detectados focos graves de infecção provocados pelo vírus do bronzeamento do tomateiro (TSWN) e que beneficiem da ajuda prevista no Despacho Normativo n.º 63/97, de 13 de Outubro, e ainda às entidades que desenvolvam a produção de tomate para indústria nos concelhos da região do Alentejo constantes do referido anexo.
+4 - O disposto no presente diploma aplica-se também às entidades que desenvolvam a produção de tomate em cultura de ar livre nos concelhos da região do Ribatejo e Oeste constantes do anexo a este diploma em cujos campos de produção foram detectados focos graves de infecção provocados pelo vírus do bronzeamento do tomateiro (TSWN) e que beneficiem da ajuda prevista no [Despacho Normativo n.º 63/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1997-667518), de 13 de Outubro, e ainda às entidades que desenvolvam a produção de tomate para indústria nos concelhos da região do Alentejo constantes do referido anexo.
 
 5 - Compete às direcções regionais de agricultura certificar o enquadramento das entidades produtoras de tomate no despacho normativo referido no número anterior.
 
