@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:519978:por
     title: Portaria n.º 403/2007
     publication_date: '2007-04-10'
+  - id: pt:dre:633169:por
+    title: Portaria n.º 901/2003
+    publication_date: '2003-08-28'
 ---
 
 # Portaria n.º 37/2002
@@ -74,13 +77,11 @@ Serão apoiadas as seguintes entidades beneficiárias:
 
 a) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';
 
-b) Acção A2 - Fundo de Sindicação e Desconto de Participações;
+b) Acção B1 - Fundo de Contragarantia Mútuo;
 
-c) Acção B1 - Fundo de Contragarantia Mútuo;
+c) Acção B2 - sociedades de garantia mútua;
 
-d) Acção B2 - sociedades de garantia mútua;
-
-e) Acção B3 - Fundo de Garantia para Titularização de Créditos.
+d) Acção B3 - Fundo de Garantia para Titularização de Créditos.
 
 > Alterado pelo/a [Portaria n.º 403/2007](https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978), publicado em 2007-04-10.
 
@@ -120,27 +121,23 @@ f) O grau de implementação dos projectos à data da candidatura.
 
 ###### Artigo 8.º — Despesas elegíveis
 
-1 - No âmbito da acção A1 constituem despesas elegíveis as contribuições financeiras necessárias à subscrição de títulos emitidos por entidades especializadas em investimentos mobiliários ou imobiliários e na acção A2 a dotação inicial necessária para a constituição do Fundo, a subscrever em ambas as acções pelo IAPMEI, ICEP e IFT, adiante designados por organismos coordenadores.
+1 - No Âmbito da acção A, constitui despesa elegível a dotação inicial necessária para a constituição do Fundo, bem como o reforço que se revele necessário para o cumprimento da medida, a subscrever pelos IAPMEI, API e IFT, adiante designados por organismos coordenadores.
 
 2 - No âmbito da acção B constituem despesas elegíveis as contribuições necessárias ao reforço do Fundo da acção B1 e à constituição do Fundo previsto na acção B3, bem como a participação no capital de sociedades de garantia mútua da acção B2, a subscrever em todas as acções pelo IAPMEI, ICEP e IFT.
 
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
+
 ###### Artigo 9.º — Comparticipação financeira na acção A
 
-1 - As comparticipações financeiras previstas na acção A1 respeitarão os seguintes parâmetros:
-
-a) No caso de investimentos mobiliários, por entidades vocacionadas para a realização de operações de capital semente, arranque de empresas - start-up, projectos de forte base tecnológica, pequenas empresas ou iniciativas de pequena dimensão ou de âmbito regional, a comparticipação financeira terá como limite 70% das despesas elegíveis e, relativamente às demais entidades, 50%, tendo em qualquer dos casos o limite de (euro) 12500000;
-
-b) No caso de participação em fundos de investimento imobiliário especializados e em fundos de gestão de património imobiliário, a contribuição financeira, que se traduzirá na subscrição de unidades de participação, deverá ser concretizada por forma a assegurar tendencialmente uma relação paritária público-privada tendo por referência o valor das operações concretizadas, não podendo, no final da intervenção, ultrapassar 70% das despesas elegíveis;
-
-c) O prazo máximo para o pagamento da comparticipação é de três anos, salvo em casos devidamente justificados e mediante autorização do Ministro da Economia.
-
-2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.
-
-3 - Será fixada no regulamento do Fundo previsto na acção A2 uma graduação da percentagem de sindicação e desconto para as participações de capital, tendo presentes os seguintes parâmetros:
+1 - Será fixada no regulamento do Fundo previsto na acção A uma graduação da percentagem de sindicação para as participações de capital, tendo presentes os seguintes parâmetros:
 
 a) Até 70% para projectos de micro e pequenas empresas, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número;
 
 b) Até 50% para projectos de empresas de média dimensão, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número.
+
+2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.
+
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
 
 ###### Artigo 10.º — Comparticipação financeira na acção B
 
@@ -150,11 +147,13 @@ b) Até 50% para projectos de empresas de média dimensão, com o limite máximo
 
 ###### Artigo 11.º — Apresentação de propostas
 
-1 - As propostas de instrumentos a comparticipar pelos mecanismos previstos nas acções A1 e B2 devem ser apresentadas ao IAPMEI, ao ICEP ou ao IFT, no âmbito da respectiva competência.
+1 - As propostas de instrumentos a comparticipar devem ser apresentadas ao IAPMEI, à API ou ao IFT, no âmbito da respectiva competência.
 
 2 - Com a apresentação das propostas, deverá ser entregue uma declaração do cumprimento das condições referidas no artigo 6.º
 
 3 - Após a comunicação da decisão de aprovação das propostas, correrá um prazo de 20 dias úteis, prorrogáveis uma só vez por igual período se justificável para apresentação dos respectivos comprovantes.
+
+> Alterado pelo/a [Portaria n.º 901/2003](https://diariodarepublica.pt/dr/detalhe/portaria/901-2003-633169), publicado em 2003-08-28.
 
 ###### Artigo 12.º — Competências
 

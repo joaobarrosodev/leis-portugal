@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:262158:por",
+  "artigos": [
+    {
+      "chave": "63.º",
+      "epigrafe": "Alteração do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho",
+      "texto": "Os artigos 3.º, 4.º e 10.º do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:\n\n'Artigo 3.º\n\n[...]\n\n1 - ...\n\na)...\n\nb)...\n\nc) Os projectos de construção, recuperação ou melhoramento de infra-estruturas, equipamentos desportivos e sedes sociais.\n\nd)...\n\ne)...\n\nf)...\n\ng)...\n\n2 - ...'»",
+      "alterador": 1
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - O financiamento público do desporto compreende a comparticipação, designadamente nos custos associados às seguintes vertentes:\n\na) Construção, manutenção e apetrechamento de infra-estruturas desportivas;\n\nb) Formação de agentes desportivos;\n\nc) Deslocação de pessoas e bens a provas regionais, nacionais e internacionais;\n\nd) Actividades do desporto escolar, do desporto para todos e do desporto para cidadãos com deficiência;\n\ne) Fomento, recuperação e preservação dos jogos tradicionais;\n\nf) Organização e participação em competições desportivas federadas;\n\ng) Actividades desportivas de alto rendimento;\n\nh) Organização de espectáculos desportivos;\n\ni) Funcionamento das entidades desportivas operantes no sistema desportivo regional.\n\n2 - Para efeitos do número anterior, são objecto de financiamento público as actividades desportivas e respectivos agentes, individuais e colectivos, independentemente da natureza profissional ou não dessas actividades.\n\n3 - Os apoios previstos no presente artigo encontram-se exclusivamente afetos às finalidades para as quais foram atribuídos, sendo insuscetíveis de apreensão judicial ou oneração.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação integral do art. 63.º do original; corpo copiado letra a letra (a nova redação só reproduz o artigo 3.º do DLR 12/2005/M, com a alínea g); as partes dos artigos 4.º e 10.º deixam de constar do texto, como na redação dada).",
+    "Alterador 2, art. 4.º: art. 56.º mantém n.os 1 e 2 ([...]) e recebe novo n.º 3.",
+    "Alterador 2, arts. 1.º-3.º e 5.º: alteram o DLR 31-A/2013/M e o DLR 12/2005/M, não o original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

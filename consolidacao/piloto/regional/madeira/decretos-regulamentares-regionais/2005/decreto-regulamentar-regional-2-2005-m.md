@@ -642,27 +642,9 @@ O NSTPS é a unidade orgânica que tem por objectivo assegurar os serviços do �
 
 ###### Artigo 212.º — Atribuições e competências
 
-1 - A DRAC é o órgão de estudo, coordenação, execução, apoio e orientação, no âmbito e de acordo com a política governamental definida para o sector da cultura.
+(Revogado.)
 
-2 - À DRAC compete, designadamente:
-
-a) Participar na definição e orientação da política cultural da RAM;
-
-b) Propor as medidas legislativas e regulamentares que se revelem necessárias no âmbito de assuntos culturais;
-
-c) Propor e coordenar a execução dos planos anuais e de médio prazo da área da cultura;
-
-d) Promover acções integradas que visem a preservação e valorização do património cultural imóvel, móvel e imaterial que, pelo seu valor histórico, arquitectónico, artístico e documental se constituam como elementos fundamentais da identidade cultural da RAM, designadamente procedendo à sua inventariação, classificação, conservação e restauro;
-
-e) Promover e apoiar, em articulação com outras entidades públicas e privadas, programas, acções e eventos que dinamizem e fomentem uma oferta cultural de qualidade, contribuindo para o surgimento de novos públicos;
-
-f) Adoptar e incrementar, em concertação com os municípios, associações e particulares, as acções e os programas que se revelem necessários e adequados à prossecução de uma política de descentralização cultural, visando uma maior participação das populações locais em actividades culturais;
-
-g) Coordenar a execução das estratégias de política cultural para as áreas dos museus e das bibliotecas, designadamente procedendo ao desenvolvimento e consolidação das redes de museus e de bibliotecas públicas na RAM;
-
-h) Adoptar, por si própria ou em conjugação com outras entidades públicas ou privadas, as acções, planos e programas que visem apoiar e incentivar a criação, a investigação e a divulgação de matérias de carácter cultural;
-
-i) Exercer uma actividade editorial adequada, em função das suas atribuições e competências, bem como adoptar um programa de criterioso apoio à edição privada.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.
 
 ###### Artigo 22.º — Estrutura
 

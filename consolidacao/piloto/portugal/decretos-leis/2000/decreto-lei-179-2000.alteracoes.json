@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:339396:por",
     "alterador": "pt:dre:393232:por"
+  },
+  {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Classificação e graduação dos candidatos\n\n1 - Ficarão aprovados os candidatos que no somatório das classificações escritas e orais obtiveram um total não inferior a 40 valores ou, no caso de dispensa da prova escrita, um total não inferior a 20 valores e em nenhuma das quatro provas tenham obtido classificação inferior a 9 valores, devendo ainda ter obtido o mínimo de 10 valores em, pelo menos, uma das provas jurídicas.\n\n2 - Na graduação dos candidatos são ponderadas as classificações obtidas nas provas prestadas e o currículo do candidato, passível de uma pontuação mínima de 10 valores.\n\n3 - A graduação é decidida pelo júri, à pluralidade de votos, tendo o presidente voto de desempate.\n\n4 - O voto do psicólogo poderá ser eliminatório, mediante deliberação devidamente fundamentada do júri.",
+    "depois": "###### Artigo 8.º — Classificação e graduação dos candidatos\n\n1 - Ficarão aprovados os candidatos que no somatório das classificações escritas e orais obtiveram um total não inferior a 40 valores ou, no caso de dispensa da prova escrita, um total não inferior a 20 valores e em nenhuma das quatro provas tenham obtido classificação inferior a 9 valores, devendo ainda ter obtido o mínimo de 10 valores em, pelo menos, uma das provas jurídicas.\n\n2 - Na graduação dos candidatos são ponderadas as classificações obtidas nas provas prestadas e o currículo do candidato, passível de uma pontuação mínima de 10 valores.\n\n3 - A graduação final dos candidatos é decidida pela comissão de avaliação, à pluralidade de votos, tendo o presidente voto de desempate, podendo ser convidados a participar nas reuniões para o efeito realizadas, a título meramente consultivo, os presidentes dos júris, bem como os psicólogos intervenientes nos mesmos.\n\n4 - O voto do psicólogo poderá ser eliminatório, mediante deliberação devidamente fundamentada do júri.\n\n> Alterado pelo/a [Decreto-Lei n.º 320-D/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-d-2000-393232), publicado em 2000-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:339396:por",
+    "alterador": "pt:dre:393232:por"
   }
 ]

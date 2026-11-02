@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:280738:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1 - (Revogado.)\n\n2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "O direito aos prémios dos bilhetes da lotaria nacional e suas fracções caduca no prazo de três meses contados desde o dia da extracção, findo o qual reverte a favor da Misericórdia de Lisboa o valor dos prémios não reclamados.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 11/88, art. 1.º: nova redação do art. 6.º; aplicada.",
+    "DL 11/88, art. 2.º: norma de produção de efeitos, não textual; nada a aplicar.",
+    "DL 200/2009, art. 1.º: nova redação dos arts. 2.º e 4.º; aplicada (art. 4.º com n.º 1 revogado e novo n.º 2).",
+    "DL 200/2009, arts. 2.º e 3.º: alteram os DL 84/85 e 412/93, outros diplomas; ignorados.",
+    "DL 200/2009, art. 5.º: revoga o n.º 1 do art. 4.º; já refletido no art. 4.º.",
+    "DL 200/2009, arts. 4.º e 6.º: normas autónomas, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

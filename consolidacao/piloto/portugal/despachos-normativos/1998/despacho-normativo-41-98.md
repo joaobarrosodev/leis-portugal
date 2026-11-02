@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:241453:por
-    title: Despacho Normativo n.º 67/98
-    publication_date: '1998-09-19'
   - id: pt:dre:150953:por
     title: Despacho Normativo n.º 8/99
     publication_date: '1999-03-03'
@@ -277,7 +274,7 @@ b) Projectos com utilização de tecnologias mais limpas, onde as tecnologias al
 
 5 - Os projectos localizados nos restantes concelhos da Região Autónoma da Madeira poderão ser majorados em 5%.
 
-> Alterado pelo/a [Despacho Normativo n.º 67/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/67-1998-241453) e [Despacho Normativo n.º 8/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-1999-150953), publicado em 1999-03-03.
+> Alterado pelo/a [Despacho Normativo n.º 8/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-1999-150953), publicado em 1999-03-03.
 
 ###### Artigo 11.º — Percentagem do incentivo e metas a atingir
 

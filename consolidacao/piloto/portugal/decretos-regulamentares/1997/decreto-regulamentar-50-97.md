@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:641461:por
-    title: Decreto Regulamentar n.º 83/2007
-    publication_date: '2007-10-10'
   - id: pt:dre:67198365:por
     title: Decreto-Lei n.º 78/2015
     publication_date: '2015-05-13'
@@ -69,7 +66,7 @@ a) A comissão directiva;
 
 b) (Revogada.)
 
-> Alterado pelo/a [Decreto Regulamentar n.º 83/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-2007-641461) e [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
+> Alterado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 6.º — Comissão directiva
 
@@ -125,21 +122,13 @@ f) Ordenar o embargo e a demolição das obras, bem como fazer cessar outras ac�
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar n.º 83/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-2007-641461) e [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 9.º — Competências do conselho consultivo
 
-Compete ao conselho consultivo, em geral, a apreciação das actividades desenvolvidas no Parque Natural e, em especial:
+(Revogado.)
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
-
-b) Apreciar as propostas de planos e os programas anuais e plurianuais de gestão e investimento;
-
-c) Apreciar os relatórios anuais e plurianuais de actividades, bem como o relatório anual de contas de gerência;
-
-d) Apreciar os relatórios científicos e culturais sobre o estado do Parque Natural;
-
-e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
+> Revogado pelo/a [Decreto-Lei n.º 78/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365), publicado em 2015-05-13.
 
 ###### Artigo 10.º — Interdições
 

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:405299:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Avales e outras garantias",
+      "texto": "É fixado em (euro) 95000000 o limite para a concessão de avales e outras garantias da Região Autónoma dos Açores.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Artigo 1.º do DLR 35/2003/A altera os mapas I, II, III, IV e V (e publica mapa IX) do orçamento, que só existem em imagem/PDF ('ver mapa no documento original'); não aplicável ao texto.",
+  "instrucoes": [
+    "Art. 1.º: altera os mapas I a V anexos; só em imagem, não aplicado (ver nao_aplicavel).",
+    "Art. 2.º: nova redação do artigo 4.º (limite de avales passa a (euro) 95000000); aplicada, epígrafe mantida por a nova redação não a trazer.",
+    "Art. 3.º: entrada em vigor do alterador; não é instrução sobre o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

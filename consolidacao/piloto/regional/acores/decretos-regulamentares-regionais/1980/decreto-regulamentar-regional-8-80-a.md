@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:570482:por
-    title: Decreto Regulamentar Regional n.º 1/81/A
-    publication_date: '1981-01-06'
   - id: pt:dre:232974:por
     title: Decreto Regulamentar Regional n.º 44/96/A
     publication_date: '1996-10-08'
@@ -61,7 +58,7 @@ c) O conselho consultivo.
 
 3 - Os vogais são remunerados por gratificação, nos termos do n.º 5 do artigo 22.º do presente diploma.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 5.º — (Competência)
 
@@ -115,7 +112,7 @@ f) Praticar todos os actos urgentes da competência da direcção, submetendo-os
 
 O presidente da direcção será substituído, em caso de ausência ou impedimento, pelo vogal por ele designado.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 #### SECÇÃO II — Conselho coordenador
 
@@ -253,13 +250,13 @@ e) Pessoal administrativo;
 
 f) Pessoal auxiliar.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 22.º — Condições de ingresso e acesso
 
-As condições e regras de ingresso e acesso dos funcionários do IACAPS são, para as respectivas categorias, as previstas no Decreto-Lei n.º 248/85, de 15 de Julho, e as previstas no presente diploma e na legislação regional e geral complementar.
+As condições e regras de ingresso e acesso dos funcionários do IACAPS são, para as respectivas categorias, as previstas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas no presente diploma e na legislação regional e geral complementar.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ### CAPÍTULO V — Das receitas
 
@@ -271,13 +268,13 @@ As condições e regras de ingresso e acesso dos funcionários do IACAPS são, p
 
 3 - O presidente e os vogais da direcção têm direito a transporte e ajudas de custo fixadas em legislação própria para os vencimentos superiores ao valor do índice 405, tendo aqueles membros ainda direito, quando não forem funcionários ou trabalhadores das cooperativas, a senhas de presença, a fixar por despacho dos secretários regionais referidos no número anterior.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 24.º — Membros dos conselhos coordenador e consultivo
 
 Os membros dos conselhos coordenador e consultivo têm direito a transporte e ajudas de custo e senhas de presença, nos termos do disposto no n.º 3 do artigo anterior.
 
-> Alterado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 O Presidente do Governo Regional, João Bosco Mota Amaral.
 
@@ -295,13 +292,13 @@ Quadro do pessoal do Instituto de Apoio Comercial à Agricultura, Pecuária e Si
 
 Os cargos de fiel de armazém e de fiel auxiliar de armazém podem ser exercidos a tempo parcial.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 26.º — Abono para falhas
 
-Os funcionários, a designar por despacho do presidente da direcção do IACAPS, que exercem funções de tesouraria nas delegações e núcleos do IACAPS têm direito à atribuição do abono para falhas, nos termos do Decreto Legislativo Regional n.º 7/89/A, de 20 de Julho.
+Os funcionários, a designar por despacho do presidente da direcção do IACAPS, que exercem funções de tesouraria nas delegações e núcleos do IACAPS têm direito à atribuição do abono para falhas, nos termos do [Decreto Legislativo Regional n.º 7/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1989-619963), de 20 de Julho.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 27.º — Receitas
 
@@ -319,7 +316,7 @@ e) Os empréstimos contraídos.
 
 2 - A cobrança coerciva de dívidas provenientes de receitas do IACAPS, cuja obrigação de pagamento seja estabelecida por lei ou haja sido reconhecida por despacho do Secretário Regional da Agricultura e Pescas, faz-se pelo processo de execuções fiscais, através dos serviços de justiça tributária e nos termos do código de processo respectivo.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 28.º — Despesas
 
@@ -333,17 +330,17 @@ b) As aquisições de mercadorias, bem como todos os encargos inerentes, relacio
 
 3 - A direcção do IACAPS poderá manter, em tesouraria, as importâncias indispensáveis ao pagamento de despesas que devam ser satisfeitas, tendo em vista a satisfação de compromissos decorrentes da sua actividade específica.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 29.º — Resolução de dúvidas
 
 As dúvidas que se suscitarem da aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 30.º — Integração no quadro
 
-1 - O pessoal que vem desempenhando funções no IACAPS, em regime de tempo completo, há mais de três anos, ininterruptamente, sujeito à disciplina, hierarquia e horário do respectivo serviço, pode ser integrado directamente em lugares do quadro, em categorias correspondentes às funções que efectivamente cumpre, nos termos do disposto na alínea b) do artigo 6.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.
+1 - O pessoal que vem desempenhando funções no IACAPS, em regime de tempo completo, há mais de três anos, ininterruptamente, sujeito à disciplina, hierarquia e horário do respectivo serviço, pode ser integrado directamente em lugares do quadro, em categorias correspondentes às funções que efectivamente cumpre, nos termos do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
 2 - O pessoal que, nos termos do número anterior, vem desempenhando funções de fiel auxiliar de armazém nas delegações de Ponta Delgada, ilha de São Miguel, e de Velas, ilha de São Jorge, é integrado na categoria de fiel auxiliar de armazém.
 
@@ -351,14 +348,14 @@ As dúvidas que se suscitarem da aplicação do presente diploma serão resolvid
 
 4 - O pessoal que, nos termos do n.º 1 do presente artigo, vem desempenhando funções na sede, em Ponta Delgada, ilha de São Miguel, na área administrativa, é integrado na categoria de terceiro-oficial.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
 ###### Artigo 31.º — Transição e reclassificação de pessoal
 
-1 - O pessoal actualmente provido em lugares do quadro aprovado pelo Decreto Regulamentar Regional n.º 9/89/A, de 27 de Março, com as alterações constantes do Decreto Regulamentar Regional n.º 9/86/A, de 26 de Fevereiro, transita para lugares do quadro anexo ao presente diploma para a mesma categoria e carreira.
+1 - O pessoal actualmente provido em lugares do quadro aprovado pelo [Decreto Regulamentar Regional n.º 9/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1989-213596), de 27 de Março, com as alterações constantes do [Decreto Regulamentar Regional n.º 9/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-196246), de 26 de Fevereiro, transita para lugares do quadro anexo ao presente diploma para a mesma categoria e carreira.
 
 2 - O fiel auxiliar de armazém, posicionado no escalão 8, índice 200, que vem desempenhando funções de fiel de armazém no núcleo da Praia da Vitória, ilha Terceira, há mais de seis anos transita para esta carreira, sendo posicionado no escalão 7, índice 210.
 
 3 - O escriturário-dactilógrafo, posicionado no escalão 4, índice 150, que possui o 9.º ano de escolaridade e que vem desempenhando funções de oficial administrativo na delegação de Ponta Delgada, ilha de São Miguel, há mais de seis anos transita para a categoria de terceiro-oficial, sendo posicionado no escalão 1, índice 180.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482) e [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.

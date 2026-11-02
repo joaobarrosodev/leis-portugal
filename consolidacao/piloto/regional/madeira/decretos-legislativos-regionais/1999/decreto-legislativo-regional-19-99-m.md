@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:655964:por
     title: Decreto Legislativo Regional n.º 25/2003/M
     publication_date: '2003-08-23'
-  - id: pt:dre:655964:por
-    title: Decreto Legislativo Regional n.º 25/2003/M
-    publication_date: '2003-08-23'
 ---
 
 # Decreto Legislativo Regional n.º 19/99/M
@@ -463,317 +460,431 @@ d) Para outros fins que a assembleia geral delibere de interesse para a sociedad
 
 ## ANEXO II
 
-###### Artigo 1.º
+###### Artigo 1.º — Áreas de jurisdição
 
-Áreas de jurisdição
+As áreas de jurisdição da APRAM, S. A., a que se refere o n.º 1 do artigo 7.º, são as definidas pelos limites estabelecidos nos artigos seguintes e as que futuramente venham a ser afectas à APRAM, S. A., ou integradas no seu património a qualquer título.
 
-As áreas de jurisdição da APRAM, S. A., a que se refere o n.º 1 do artigo 7.º, são as definidas pelos limites estabelecidos nos artigos seguintes.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 2.º — Porto do Funchal
 
-1 - Toda a área limitada a norte desde o final da Rua de Carvalho Araújo seguindo a margem sul da Avenida de Francisco de Sá Carneiro e da Avenida do Mar e das Comunidades até ao Forte de São Tiago, delimitada pelos pontos n.os 1 a 24, e cujas coordenadas rectangulares locais são as que a seguir se indicam:
+O porto do Funchal é delimitado, a norte, desde o final da Rua de Carvalho Araújo, abrangendo o prédio delimitado pelos pontos n.os 8 a 22, seguindo a margem sul da Avenida do Dr. Francisco de Sá Carneiro e da Avenida do Mar e das Comunidades Madeirenses até ao Forte de São Tiago, delimitado pelos pontos n.os 1 a 7 e 23 a 44, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - M = +2052,9; P = -11 885,0;
+1 - x = 322298,46; y = 3613344,45;
 
-2 - M = +2056,1; P = -11 867,6;
+2 - x = 323724,74; y = 3607985,92;
 
-3 - M = +2021,2; P = -11 851,8;
+3 - x = 322627,58; y = 3607235,06;
 
-4 - M = +2017,1; P = -11 862,6;
+4 - x = 318969,72; y = 3607328,77;
 
-5 - M = +1976,3; P = -11 834,5;
+5 - x = 320448,24; y = 3612846,89;
 
-6 - M = +1101,3; P = -20 007,5;
+6 - x = 320444,90; y = 3612887,23;
 
-7 - M = +1235,6; P = -11 851,0;
+7 - x = 320463,61; y = 3612886,05;
 
-8 - M = +1069,7; P = -11 876,5;
+8 - x = 320482,58; y = 3612865,14;
 
-9 - M = +913,2; P = -11 914,6;
+9 - x = 320477,59; y = 3612905,75;
 
-10 - M = +855,1; P = -11 640,0;
+10 - x = 320463,13; y = 3612896,41;
 
-11 - M = +831,8; P = -11 626,5;
+12 - x = 320450,91; y = 3612904,51;
 
-12 - M = +769,0; P = -11 656,8;
+13 - x = 320449,47; y = 3612919,81;
 
-13 - M = +581,0; P = -11 845,5;
+14 - x = 320469,57; y = 3612945,22;
 
-14 - M = +267,5; P = -12 063,6;
+15 - x = 320510,40; y = 3612961,79;
 
-15 - M = +234,1; P = -12 068,5;
+16 - x = 320517,06; y = 3612953,92;
 
-16 - M = +239,5; P = -12 110,0;
+17 - x = 320530,43; y = 3612950,59;
 
-17 - M = +308,0; P = -12 184,5;
+18 - x = 320555,17; y = 3612957,12;
 
-18 - M = +328,1; P = -12 201,2;
+19 - x = 320606,20; y = 3612979,86;
 
-19 - M = +531,2; P = -12 192,1;
+20 - x = 320609,59; y = 3612973,22;
 
-20 - M = +836,1; P = -12 142,2;
+21 - x = 320485,36; y = 3612909,53;
 
-21 - M = +1289,5; P = -14 134,5;
+22 - x = 320490,65; y = 3612899,00;
 
-22 - M = +1298,5; P = -14 118,9;
+23 - x = 320674,22; y = 3612988,83;
 
-23 - M = +1298,7; P = -13 077,4;
+24 - x = 320907,20; y = 3613204,35;
 
-24 - M = +1099,2; P = -12 006,2.
+25 - x = 320913,79; y = 3613204,80;
 
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de porto do Funchal.
+26 - x = 320946,69; y = 3613236,42;
+
+27 - x = 321052,64; y = 3613315,20;
+
+28 - x = 321079,33; y = 3613313,22;
+
+29 - x = 321087,10; y = 3613308,80;
+
+30 - x = 321142,83; y = 3613332,13;
+
+31 - x = 321276,22; y = 3613361,15;
+
+32 - x = 321434,46; y = 3613384,19;
+
+33 - x = 321957,02; y = 3613375,10;
+
+34 - x = 321965,18; y = 3613395,14;
+
+35 - x = 322043,81; y = 3613407,23;
+
+36 - x = 322042,69; y = 3613391,42;
+
+37 - x = 322074,79; y = 3613389,66;
+
+38 - x = 322080,61; y = 3613402,37;
+
+39 - x = 322193,09; y = 3613387,65;
+
+40 - x = 322234,98; y = 3613358,78;
+
+41 - x = 322242,11; y = 3613356,74;
+
+42 - x = 322244,21; y = 3613364,03;
+
+43 - x = 322250,53; y = 3613365,50;
+
+44 - x = 322272,74; y = 3613352,90.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 3.º — Porto do Porto Santo
 
-1 - Faixa do domínio público marítimo cujo limite a norte se estende da praia do Calhau ao Penedo do Sono, delimitada pela ligação dos pontos n.os 1, 2, 3, 4 e 5 e ainda pelos pontos n.os 6, 7, 8, 9 e 10, cujas coordenadas rectangulares UTM, fuso 28, elipsóide internacional, datum ilha do Porto Santo, são as seguintes:
+O porto do Porto Santo compreende a faixa do domínio público marítimo cujo limite, a norte, se estende da praia do Calhau ao Penedo do Sono, delimitada pela ligação dos pontos n.os 1 a 21, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - x = 3 658 745; y = 337 320;
+1 - x = 3658766,24; y = 379041,28;
 
-2 - x = 3 658 750; y = 337 410;
+2 - x = 3658679,95; y = 379043,45;
 
-3 - x = 3 658 775; y = 337 475;
+3 - x = 3658589,06; y = 379055,78;
 
-4 - x = 3 658 795; y = 337 600;
+4 - x = 3658305,47; y = 379054,44;
 
-5 - x = 3 658 785; y = 338 045;
+5 - x = 3658057,69; y = 379054,72;
 
-6 - x = 3 658 300; y = 338 055;
+6 - x = 3657981,06; y = 379054,77;
 
-7 - x = 3 658 220, y = 337 985;
+7 - x = 3657776,37; y = 379054,93;
 
-8 - x = 3 658 165; y = 337 650;
+8 - x = 3656833,12; y = 379054,93;
 
-9 - x = 3 658 315; y = 337 600;
+9 - x = 3656833,95; y = 378686,85;
 
-10 - x = 3 658 720; y = 337 360.
+10 - x = 3656833,34; y = 378397,11;
 
-2 - A área limitada nos termos dos números anteriores corresponde ao que se designa de porto do Porto Santo.
+11 - x = 3656833,34; y = 377424,11;
 
-###### Artigo 4.º — Terminal marítimo do Caniçal
+12 - x = 3657791,27; y = 377430,88;
 
-1 - Área do domínio público marítimo na qual se insere um molhe de protecção, um cais acostável e respectivos terraplenos conquistados ao mar, definidos pela ligação dos pontos n.os 1 a 58, cujas coordenadas rectangulares UTM são as seguintes:
+13 - x = 3658750,57; y = 378332,88;
 
-1 - x = 338 294,40; y = 3 623 539,02;
+14 - x = 3658752,02; y = 378348,02;
 
-2 - x = 338 233,43; y = 3 623 432,39;
+15 - x = 3658752,14; y = 378361,06;
 
-3 - x = 338 233,06; y = 3 623 372,06;
+16 - x = 3658756,6; y = 378392,51;
 
-4 - x = 338 203,95; y = 3 623 340,00;
+17 - x = 3658760,81; y = 378394,67;
 
-5 - x = 338 228,19; y = 3 623 269,54;
+18 - x = 3658768,41; y = 378415,87;
 
-6 - x = 338 232,39; y = 3 623 270,91;
+19 - x = 3658782,49; y = 378504,88;
 
-7 - x = 338 240,29; y = 3 623 247,45;
+20 - x = 3658787,18; y = 378534,56;
 
-8 - x = 338 247,84; y = 3 623 225,05;
+21 - x = 3658777,3; y = 378834,45.
 
-9 - x = 338 323,30; y = 3 623 250,17;
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
-10 - x = 338 327,20; y = 3 623 237,87;
+###### Artigo 4.º — Porto do Caniçal
 
-11 - x = 338 112,35; y = 3 623 165,90;
+O porto do Caniçal compreende a faixa do domínio público marítimo delimitada pela ligação dos pontos n.os 1 a 73, cujas coordenadas rectangulares UTM são as seguintes:
 
-12 - x = 338 117,26; y = 3 623 149,59;
+1 - x = 337573,59; y = 3623133,28;
 
-13 - x = 338 122,59; y = 3 623 138,40;
+2 - x = 337575,99; y = 3623133,59;
 
-14 - x = 337 941,46; y = 3 623 051,97;
+3 - x = 337599,26; y = 3623115,11;
 
-15 - x = 337 936,29; y = 3 623 062,80;
+4 - x = 337608,54; y = 3623121,03;
 
-16 - x = 337 958,65; y = 3 623 073,95;
+6 - x = 337628,29; y = 3623144,63;
 
-17 - x = 337 922,93; y = 3 623 150,28;
+7 - x = 337606,36; y = 3623200,51;
 
-18 - x = 337 768,60; y = 3 623 128,61;
+8 - x = 337678,84; y = 3623217,70;
 
-19 - x = 337 734,92; y = 3 623 123,47;
+9 - x = 337704,16; y = 3623209,44;
 
-20 - x = 337 802,50; y = 3 623 026,68;
+10 - x = 337732,47; y = 3623190,64;
 
-21 - x = 337 794,55; y = 3 623 021,00;
+11 - x = 337786,83; y = 3623178,31;
 
-22 - x = 337 784,18; y = 3 623 035,86;
+12 - x = 337792,54; y = 3623202,27;
 
-23 - x = 337 746,41; y = 3 623 010,19;
+13 - x = 337798,91; y = 3623200,97;
 
-24 - x = 337 779,52; y = 3 622 961,41;
+14 - x = 337801,14; y = 3623217,90;
 
-25 - x = 337 862,18; y = 3 622 867,48;
+15 - x = 337864,05; y = 3623220,51;
 
-26 - x = 337 852,42; y = 3 622 858,98;
+16 - x = 337869,19; y = 3623210,72;
 
-27 - x = 337 769,45; y = 3 622 953,17;
+17 - x = 337880,63; y = 3623170,54;
 
-28 - x = 337 681,60; y = 3 623 082,64;
+18 - x = 337897,72; y = 3623178,20;
 
-29 - x = 337 630,14; y = 3 623 087,71;
+19 - x = 337898,10; y = 3623187,44;
 
-30 - x = 337 628,29; y = 3 623 144,63;
+20 - x = 337946,05; y = 3623232,40;
 
-31 - x = 337 621,27; y = 3 623 160,98;
+21 - x = 338024,74; y = 3623268,42;
 
-32 - x = 337 606,36; y = 3 623 200,51;
+22 - x = 338049,80; y = 3623310,50;
 
-33 - x = 337 638,87; y = 3 623 206,98;
+23 - x = 338072,00; y = 3623310,50;
 
-34 - x = 337 678,84; y = 3 623 217,70;
+24 - x = 338184,87; y = 3623433,40;
 
-35 - x = 337 704,16; y = 3 623 209,44;
+25 - x = 338211,46; y = 3623482,70;
 
-36 - x = 337 732,47; y = 3 623 190,64;
+26 - x = 338191,69; y = 3623538,47;
 
-37 - x = 337 758,05; y = 3 623 184,55;
+27 - x = 338275,22; y = 3623567,51;
 
-38 - x = 337 786,83; y = 3 623 178,31;
+28 - x = 338284,75; y = 3623548,88;
 
-39 - x = 337 792,54; y = 3 623 202,27;
+29 - x = 338393,18; y = 3623569,96;
 
-40 - x = 337 798,91; y = 3 623 200,97;
+30 - x = 338397,44; y = 3623540,93;
 
-41 - x = 337 801,14; y = 3 623 217,90;
+31 - x = 338434,02; y = 3623545,75;
 
-42 - x = 337 864,05; y = 3 623 220,51;
+32 - x = 338446,07; y = 3623523,89;
 
-43 - x = 337 869,19; y = 3 623 210,72;
+33 - x = 338465,75; y = 3623516,73;
 
-44 - x = 337 876,58; y = 3 623 175,48;
+34 - x = 338468,82; y = 3623510,32;
 
-45 - x = 337 880,63; y = 3 623 170,54;
+35 - x = 338481,37; y = 3623511,05;
 
-46 - x = 337 897,72; y = 3 623 178,20;
+36 - x = 338483,99; y = 3623509,00;
 
-47 - x = 337 898,10; y = 3 623 187,44;
+37 - x = 338489,54; y = 3623492,82;
 
-48 - x = 337 928,26; y = 3 623 217,96;
+38 - x = 338510,00; y = 3623499,38;
 
-49 - x = 337 946,05; y = 3 623 232,40;
+39 - x = 338512,49; y = 3623494,13;
 
-50 - x = 338 024,74; y = 3 623 268,42;
+40 - x = 338516,57; y = 3623491,65;
 
-51 - x = 338 049,79; y = 3 623 296,28;
+41 - x = 338526,06; y = 3623480,71;
 
-52 - x = 338 072,00; y = 3 623 310,50;
+42 - x = 338536,71; y = 3623474,88;
 
-53 - x = 338 184,87; y = 3 623 433,40;
+43 - x = 338543,86; y = 3623474,73;
 
-54 - x = 338 211,46; y = 3 623 482,69;
+44 - x = 338546,49; y = 3623482,75;
 
-55 - x = 338 191,69; y = 3 623 538,47;
+45 - x = 338539,31; y = 3623506,60;
 
-56 - x = 338 269,99; y = 3 623 565,94;
+46 - x = 338535,58; y = 3623517,18;
 
-57 - x = 338 275,22; y = 3 623 567,51;
+47 - x = 338540,10; y = 3623522,90;
 
-58 - x = 388 277,10; y = 3 623 542,78.
+48 - x = 338545,76; y = 3623520,08;
 
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de terminal marítimo do Caniçal.
+49 - x = 338557,23; y = 3623505,00;
+
+50 - x = 338559,19; y = 3623514,99;
+
+51 - x = 338563,80; y = 3623525,08;
+
+52 - x = 338567,13; y = 3623528,91;
+
+53 - x = 338588,53; y = 3623519,10;
+
+54 - x = 338603,91; y = 3623524,83;
+
+55 - x = 338618,21; y = 3623517,53;
+
+56 - x = 338627,61; y = 3623521,44;
+
+57 - x = 338596,54; y = 3623628,59;
+
+58 - x = 338651,36; y = 3623680,97;
+
+59 - x = 338737,92; y = 3623696,76;
+
+60 - x = 338791,66; y = 3623662,72;
+
+61 - x = 338895,95; y = 3623638,13;
+
+62 - x = 338911,28; y = 3623618,42;
+
+63 - x = 338948,89; y = 3623626,09;
+
+64 - x = 338954,47; y = 3623610,91;
+
+65 - x = 338999,02; y = 3623630,31;
+
+66 - x = 339045,28; y = 3623677,60;
+
+67 - x = 339076,70; y = 3623676,25;
+
+68 - x = 339138,15; y = 3623722,27;
+
+69 - x = 339213,95; y = 3623670,80;
+
+70 - x = 339286,24; y = 3623657,40;
+
+71 - x = 340755,75; y = 3617539,23;
+
+72 - x = 336233,06; y = 3617539,23;
+
+73 - x = 337575,99; y = 3623133,59.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 5.º — Terminal marítimo do Porto Novo
 
-1 - Faixa de terreno do domínio público marítimo onde se insere uma zona de expansão com início na margem norte da foz da ribeira do Porto Novo, delimitada pela linha que une os pontos n.os 1 a 21, cujas coordenadas rectangulares UTM são as seguintes:
+O terminal marítimo do Porto Novo compreende os terrenos da zona de apoio logístico e a faixa de terreno do domínio público marítimo delimitados pela linha que une os pontos n.os 1 a 37, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - x = 330 784,24; y = 3 614 826,08;
+1 - x = 335164,75; y = 3614984,7;
 
-2 - x = 330 783,00; y = 3 614 820,61;
+2 - x = 335949,54; y = 3614436,84;
 
-3 - x = 330 796,01; y = 3 614 810,40;
+3 - x = 336421,35; y = 3615087,73;
 
-4 - x = 330 785,52; y = 3 614 777,01;
+4 - x = 335558,4; y = 3615423,56;
 
-5 - x = 330 781,06; y = 3 614 758,26;
+5 - x = 335098,55; y = 3615332,15;
 
-6 - x = 330 780,72; y = 3 614 744,93;
+6 - x = 335063,44; y = 3615347,97;
 
-7 - x = 330 800,05; y = 3 614 733,60;
+7 - x = 335061,09; y = 3615354,99;
 
-8 - x = 330 837,83; y = 3 614 730,94;
+8 - x = 335025,78; y = 3615371,21;
 
-9 - x = 330 838,02; y = 3 614 734,10;
+9 - x = 334985,10; y = 3615401,30;
 
-10 - x = 330 939,56; y = 3 614 731,95;
+10 - x = 334949,16; y = 3615413,43;
 
-11 - x = 330 939,34; y = 3 614 707,38;
+11 - x = 334908,98; y = 3615410,42;
 
-12 - x = 330 929,50; y = 3 614 707,47;
+12 - x = 334845,90; y = 3615384,42;
 
-13 - x = 330 929,63; y = 3 614 722,29;
+13 - x = 334774,09; y = 3615362,17;
 
-14 - x = 330 811,16; y = 3 614 725,05;
+14 - x = 334752,72; y = 3615359,84;
 
-15 - x = 330 799,15; y = 3 614 726,64;
+15 - x = 334736,00; y = 3615372,54;
 
-16 - x = 330 783,71; y = 3 614 733,89;
+16 - x = 334727,34; y = 3615387,46;
 
-17 - x = 330 770,43; y = 3 614 743,83;
+17 - x = 334718,22; y = 3615395,76;
 
-18 - x = 330 763,07; y = 3 614 753,89;
+18 - x = 334708,06; y = 3615392,34;
 
-19 - x = 330 759,90; y = 3 614 771,49;
+19 - x = 334653,45; y = 3615339,78;
 
-20 - x = 330 762,18; y = 3 614 782,57;
+20 - x = 334663,74; y = 3615317,63;
 
-21 - x = 330 775,50; y = 3 614 821,08.
+21 - x = 334675,06; y = 3615303,40;
 
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de terminal marítimo do Porto Novo.
+22 - x = 334678,16; y = 3615297,86;
+
+23 - x = 334696,59; y = 3615296,80;
+
+24 - x = 334739,07; y = 3615304,60;
+
+25 - x = 334747,40; y = 3615301,97;
+
+26 - x = 334783,01; y = 3615309,88;
+
+27 - x = 334838,49; y = 3615311,90;
+
+28 - x = 334965,26; y = 3615200,08;
+
+29 - x = 335042,84; y = 3615164,39;
+
+30 - x = 335047,92; y = 3615171,06;
+
+31 - x = 334971,72; y = 3615205,99;
+
+32 - x = 334978,50; y = 3615215,65;
+
+33 - x = 334977,49; y = 3615259,87;
+
+34 - x = 335029,56; y = 3615266,61;
+
+35 - x = 335082,58; y = 3615272,55;
+
+36 - x = 335092,55; y = 3615301,51;
+
+37 - x = 335098,71; y = 3615305,72.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 6.º — Cais de Machico
 
-1 - Faixa de terreno do domínio público marítimo que abrange um pequeno cais com 50 m de comprimento em frente ao Forte de São João Baptista e uma zona de expansão com início no lado oeste da ribeira de Machico, seguindo todo o traçado da Rua do Leiria, que serve o acesso ao cais, delimitada pela linha que une os pontos n.os 1 a 25, cujas coordenadas rectangulares UTM são as seguintes:
+O cais de Machico compreende a faixa do domínio público marítimo delimitada pela linha que une os pontos n.os 1 a 22, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - x = 335 519,12; y = 3 621 052,78
+1 - x = 335215,860; y = 3620377,030;
 
-2 - x = 335 516,12; y = 3 621 056,02;
+2 - x = 335015,439; y = 3620645,268;
 
-3 - x = 335 499,39; y = 3 621 044,12;
+3 - x = 334991,560; y = 3620700,570;
 
-4 - x = 335 478,40; y = 3 621 010,80;
+4 - x = 334949,448; y = 3620756,211;
 
-5 - x = 335 474,00; y = 3 621 013,80;
+5 - x = 334947,827; y = 3620788,639;
 
-6 - x = 335 494,68; y = 3 621 046,91;
+6 - x = 334969,418; y = 3620842,779;
 
-7 - x = 335 496,05; y = 3 621 049,27;
+7 - x = 334961,105; y = 3620846,879;
 
-8 - x = 335 497,37; y = 3 621 048,51;
+8 - x = 335041,242; y = 3620976,925;
 
-9 - x = 335 506,96; y = 3 621 064,57;
+9 - x = 335031,143; y = 3620985,662;
 
-10 - x = 335 508,22; y = 3 621 071,29;
+10 - x = 335069,463; y = 3621043,168;
 
-11 - x = 335 507,64; y = 3 621 074,89;
+11 - x = 335100,250; y = 3621027,641;
 
-12 - x = 335 501,16; y = 3 621 088,67;
+12 - x = 335135,360; y = 3621070,290;
 
-13 - x = 335 470,42; y = 3 621 115,07;
+13 - x = 335191,114; y = 3621145,625;
 
-14 - x = 335 416,43; y = 3 621 139,30;
+14 - x = 335344,730; y = 3621153,140;
 
-15 - x = 335 315,05; y = 3 621 147,25;
+15 - x = 335397,467; y = 3621147,860;
 
-16 - x = 335 194,06; y = 3 621 141,52;
+16 - x = 335442,310; y = 3621134,415;
 
-17 - x = 335 233,94; y = 3 621 139,74;
+17 - x = 335479,351; y = 3621112,994;
 
-18 - x = 335 206,87; y = 3 621 104,73;
+18 - x = 335503,205; y = 3621089,595;
 
-19 - x = 335 215,72; y = 3 621 099,13;
+19 - x = 335502,428; y = 3621052,588;
 
-20 - x = 335 207,18; y = 3 621 093,66;
+20 - x = 335544,657; y = 3621032,441;
 
-21 - x = 335 200,59; y = 3 621 098,90;
+21 - x = 336142,363; y = 3620654,129;
 
-22 - x = 335 177,68; y = 3 621 065,85;
+22 - x = 336002,526; y = 3619879,112.
 
-23 - x = 335 164,45; y = 3 621 051,35;
-
-24 - x = 335 144,20; y = 3 621 063,95;
-
-25 - x = 335 137,36; y = 3 621 072,75.
-
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de cais de Machico.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 7.º — Cais de Câmara de Lobos
 
@@ -829,68 +940,554 @@ O cais de Câmara de Lobos compreende a faixa do domínio público marítimo del
 
 ###### Artigo 8.º — Cais da Ribeira Brava
 
-1 - Faixa do domínio público marítimo que abrange o túnel de acesso ao porto, molhes e terrapleno adjacente, situado a sudoeste da vila, na ponta baixa do Pico da Cruz, delimitada pelos pontos n.os 1 a 15, cujas coordenadas rectangulares locais são as seguintes:
+O cais da Ribeira Brava compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 11, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - M = +13 223,7; P = -9337,5;
+1 - x = 306758,32; y = 3616087,86;
 
-2 - M = +13 221,6; P = -9360,7;
+2 - x = 306828,87; y = 3616123,01;
 
-3 - M = +13 363,7; P = -9505,6;
+3 - x = 306808,17; y = 3616141,71;
 
-4 - M = +13 367,6; P = -9514,0;
+4 - x = 306812,67; y = 3616143,72;
 
-5 - M = +13 463,4; P = -9464,5;
+5 - x = 306857,57; y = 3616122,11;
 
-6 - M = +13 465,6; P = -9455,8;
+6 - x = 306878,67; y = 3616102,81;
 
-7 - M = +13 444,4; P = -9377,9;
+7 - x = 306935,77; y = 3616124,11;
 
-8 - M = +13 515,9; P = -9412,7;
+8 - x = 307042,47; y = 3616134,81;
 
-9 - M = +13 439,6; P = -9375,2;
+9 - x = 307047,07; y = 3616153,59;
 
-10 - M = +13 435,2; P = -9372,5;
+10 - x = 307281,33; y = 3615249,36;
 
-11 - M = +13 455,9; P = -9353,8;
+11 - x = 306526,35; y = 3615196,05.
 
-12 - M = +13 451,4; P = -9351,8;
-
-13 - M = +13 406,5; P = -9373,4;
-
-14 - M = +13 385,4; P = -9392,7;
-
-15 - M = +13 328,3; P = -9371,4.
-
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de cais da Ribeira Brava.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
 ###### Artigo 9.º — Cais da Calheta
 
-1 - Faixa de terreno do domínio público marítimo na qual se insere um molhe para atracação de pequenas embarcações, um varadouro e um parque de estacionamento para viaturas, estando este localizado nos terraplenos adjacentes à margem sul da estrada nacional, delimitada pelos pontos n.os 1 a 13, cujas coordenadas rectangulares locais são as seguintes:
+O cais da Calheta compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 8, cujas coordenadas rectangulares UTM são as seguintes:
 
-1 - M = +23 283,7; P = -4033,7;
+1 - x = 296688,87; y = 3621897,47;
 
-2 - M = +23 487,7; P = -3867,3;
+2 - x = 296873,07; y = 3621812,97;
 
-3 - M = +23 671,9; P = -3782,8;
+3 - x = 297100,94; y = 3621620,55;
 
-4 - M = +23 786,3; P = -3818,3;
+4 - x = 297108,37; y = 3620699,51;
 
-5 - M = +23 701,2; P = -3853,0;
+5 - x = 296091,06; y = 3621041,36;
 
-6 - M = +23 725,4; P = -3894,9;
+6 - x = 296632,17; y = 3621776,87;
 
-7 - M = +23 728,6; P = -3903,4;
+7 - x = 296635,37; y = 3621785,37;
 
-8 - M = +23 714,5; P = -3908,8;
+8 - x = 296659,57; y = 3621827,27.
 
-9 - M = +23 682,7; P = -3832,1;
+> Alterado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
 
-10 - M = +23 719,1; P = -3920,7;
+###### Artigo 10.º — Porto do Porto Moniz
 
-11 - M = +23 637,5; P = -3955,2;
+O porto do Porto Moniz compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 43, cujas coordenadas rectangulares UTM são as seguintes:
 
-12 - M = +23 649,7; P = -3973,6;
+1 - x = 297804,94; y = 3637813,72;
 
-13 - M = +23 658,1; P = -3968,0.
+2 - x = 297744,46; y = 3637892,49;
 
-2 - A área limitada nos termos do número anterior corresponde ao que se designa de cais da Calheta.
+3 - x = 297728,57; y = 3637928,83;
+
+4 - x = 297697,75; y = 3637984,20;
+
+5 - x = 297662,26; y = 3638062,05;
+
+6 - x = 297658,88; y = 3638087,47;
+
+7 - x = 297630,48; y = 3638122,64;
+
+8 - x = 297625,20; y = 3638131,77;
+
+9 - x = 297628,73; y = 3638151,95;
+
+10 - x = 297641,14; y = 3638160,30;
+
+11 - x = 297644,48; y = 3638160,17;
+
+12 - x = 297658,78; y = 3638170,08;
+
+13 - x = 297653,08; y = 3638178,67;
+
+14 - x = 297688,79; y = 3638200,97;
+
+15 - x = 297694,99; y = 3638204,64;
+
+16 - x = 297705,78; y = 3638208,66;
+
+17 - x = 297716,41; y = 3638217,86;
+
+18 - x = 297724,36; y = 3638217,03;
+
+19 - x = 297729,39; y = 3638217,85;
+
+20 - x = 297735,41; y = 3638221,08;
+
+21 - x = 297741,45; y = 3638238,64;
+
+22 - x = 297741,53; y = 3638241,25;
+
+23 - x = 297737,99; y = 3638254,27;
+
+24 - x = 297734,91; y = 3638263,69;
+
+25 - x = 297735,45; y = 3638263,95;
+
+26 - x = 297740,93; y = 3638262,11;
+
+27 - x = 297740,89; y = 3638262,50;
+
+28 - x = 297746,13; y = 3638263,25;
+
+29 - x = 297746,51; y = 3638260,20;
+
+30 - x = 297758,40; y = 3638251,17;
+
+31 - x = 298101,33; y = 3638474,32;
+
+32 - x = 298518,84; y = 3638753,21;
+
+33 - x = 298940,13; y = 3638086,34;
+
+34 - x = 299406,52; y = 3637362,29;
+
+35 - x = 299099,42; y = 3636760,72;
+
+36 - x = 299051,99; y = 3636871,54;
+
+37 - x = 298860,57; y = 3636973,89;
+
+38 - x = 298764,44; y = 3637044,77;
+
+39 - x = 298581,49; y = 3637173,34;
+
+40 - x = 298470,13; y = 3637264,42;
+
+41 - x = 298370,18; y = 3637322,79;
+
+42 - x = 298280,41; y = 3637421,76;
+
+43 - x = 298101,18; y = 3637681,45.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 11.º — Terminal da praia Formosa
+
+O terminal da praia Formosa compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 16, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 317206,90; y = 3612771,35;
+
+2 - x = 317226,92; y = 3612751,02;
+
+3 - x = 317253,07; y = 3612724,44;
+
+4 - x = 317282,63; y = 3612694,59;
+
+5 - x = 317293,17; y = 3612688,88;
+
+6 - x = 317293,94; y = 3612688,19;
+
+7 - x = 317324,61; y = 3612656,91;
+
+8 - x = 317356,06; y = 3612624,82;
+
+9 - x = 317375,26; y = 3612605,24;
+
+10 - x = 317362,99; y = 3612580,82;
+
+11 - x = 361065,03; y = 3609997,10;
+
+12 - x = 314788,34; y = 3607455,87;
+
+13 - x = 313422,29; y = 3608706,29;
+
+14 - x = 312056,19; y = 3609956,76;
+
+15 - x = 314668,73; y = 3611384,38;
+
+16 - x = 317177,42; y = 3612755,38.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 12.º — Terminal dos Socorridos
+
+O terminal dos Socorridos compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 19, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 316086,34; y = 3613071,58;
+
+2 - x = 315409,66; y = 3607137,18;
+
+3 - x = 311980,52; y = 3608537,41;
+
+4 - x = 315662,53; y = 3613245,22;
+
+5 - x = 315639,94; y = 3613290,14;
+
+6 - x = 315630,05; y = 3613329,41;
+
+7 - x = 315830,12; y = 3613320,31;
+
+8 - x = 315849,36; y = 3613288,46;
+
+9 - x = 315859,46; y = 3613280,93;
+
+10 - x = 315872,88; y = 3613280,84;
+
+11 - x = 315880,42; y = 3613283,69;
+
+12 - x = 315885,88; y = 3613290,56;
+
+13 - x = 315901,57; y = 3613348,58;
+
+14 - x = 315932,70; y = 3613339,79;
+
+15 - x = 315899,32; y = 3613171,72;
+
+16 - x = 315944,16; y = 3613165,74;
+
+17 - x = 315976,91; y = 3613145,69;
+
+18 - x = 315970,88; y = 3613127,75;
+
+19 - x = 316088,84; y = 3613093,79.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 13.º — Cais da Ponta do Sol e lugar de Baixo
+
+O cais da Ponta do Sol e lugar de Baixo compreende a faixa do domínio público marítimo delimitada pela linha que une os pontos n.os 1 a 28, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 303180,33; y = 3616091,81;
+
+2 - x = 304944,68; y = 3616075,86;
+
+3 - x = 304272,34; y = 3617338,23;
+
+4 - x = 304229,97; y = 3617356,61;
+
+5 - x = 304215,63; y = 3617372,19;
+
+6 - x = 304184,64; y = 3617379,51;
+
+7 - x = 304149,15; y = 3617401,37;
+
+8 - x = 304021,76; y = 3617512,82;
+
+9 - x = 303958,55; y = 3617559,31;
+
+10 - x = 303874,67; y = 3617537,81;
+
+11 - x = 303790,53; y = 3617523,58;
+
+12 - x = 303773,67; y = 3617518,91;
+
+13 - x = 303508,06; y = 3617370,61;
+
+14 - x = 303370,23; y = 3617332,29;
+
+15 - x = 303275,43; y = 3617297,19;
+
+16 - x = 303667,86; y = 3617453,11;
+
+17 - x = 303166,50; y = 3617281,33;
+
+18 - x = 303127,00; y = 3617264,50;
+
+19 - x = 303100,00; y = 3617256,83;
+
+20 - x = 303084,05; y = 3617263,54;
+
+21 - x = 303099,68; y = 3617301,70;
+
+22 - x = 303107,58; y = 3617304,86;
+
+23 - x = 303091,02; y = 3617310,40;
+
+24 - x = 303059,59; y = 3617250,47;
+
+25 - x = 302965,91; y = 3617219,04;
+
+26 - x = 302703,91; y = 3616837,30;
+
+27 - x = 302441,91; y = 3616455,56;
+
+28 - x = 302888,32; y = 3616413,15.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 14.º — Cais de Santa Cruz
+
+O cais de Santa Cruz compreende a faixa do domínio público delimitada pelos pontos n.os 1 a 25, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 332053,860; y = 3617166,465;
+
+2 - x = 332026,259; y = 3617206,921;
+
+3 - x = 332181,953; y = 3617357,308;
+
+4 - x = 335135,360; y = 3621070,290;
+
+5 - x = 333299,031; y = 3617884,812;
+
+6 - x = 333240,900; y = 3617867,267;
+
+7 - x = 333199,967; y = 3617833,800;
+
+8 - x = 333165,133; y = 3617797,733;
+
+9 - x = 333097,333; y = 3617765,267;
+
+10 - x = 333013,063; y = 3617777,883;
+
+11 - x = 332949,871; y = 3617810,549;
+
+12 - x = 332887,852; y = 3617798,348;
+
+13 - x = 332881,004; y = 3617787,358;
+
+14 - x = 332848,946; y = 3617801,982;
+
+15 - x = 332811,472; y = 3617802,970;
+
+16 - x = 332733,770; y = 3617784,055;
+
+17 - x = 332719,898; y = 3617774,369;
+
+18 - x = 332525,232; y = 3617730,797;
+
+19 - x = 332399,156; y = 3617626,093;
+
+20 - x = 332277,475; y = 3617491,789;
+
+21 - x = 332174,376; y = 3617383,718;
+
+22 - x = 332586,320; y = 3617764,977;
+
+23 - x = 332332,297; y = 3617559,179;
+
+24 - x = 333306,504; y = 3617866,044;
+
+25 - x = 332843,401; y = 3616673,124.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 15.º — Cais da Madalena do Mar
+
+O cais da Madalena do Mar compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 16, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 301507,71; y = 3618770,19;
+
+2 - x = 301483,07; y = 3618711,41;
+
+3 - x = 301099,24; y = 3617808,74;
+
+4 - x = 301327,54; y = 3618702,71;
+
+5 - x = 300854,85; y = 6317961,41;
+
+6 - x = 301208,81; y = 3618784,79;
+
+7 - x = 301223,51; y = 3618822,17;
+
+8 - x = 301216,67; y = 3618832,51;
+
+9 - x = 301226,93; y = 3618857,43;
+
+10 - x = 301267,83; y = 3618835,17;
+
+11 - x = 301324,33; y = 3618833,17;
+
+12 - x = 301352,51; y = 3618836,67;
+
+13 - x = 301366,51; y = 3618832,83;
+
+14 - x = 301445,51; y = 3618791,08;
+
+15 - x = 301476,83; y = 3618782,51;
+
+16 - x = 301476,83; y = 3618782,51.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 16.º — Cais do Seixal
+
+O cais do Seixal compreende a faixa do domínio público marítimo delimitada pela linha que liga os pontos n.os 1 a 51, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 303464,10; y = 3633124,22;
+
+2 - x = 303462,15; y = 3633125,71;
+
+3 - x = 303470,74; y = 3633167,45;
+
+4 - x = 303481,01; y = 3633190,93;
+
+5 - x = 303495,39; y = 3633211,05;
+
+6 - x = 303512,73; y = 3633229,53;
+
+7 - x = 303534,26; y = 3633266,84;
+
+8 - x = 303574,12; y = 3633217,14;
+
+9 - x = 303896,23; y = 3633488,81;
+
+10 - x = 304273,42; y = 3633818,43;
+
+11 - x = 304564,89; y = 3633510,21;
+
+12 - x = 304950,65; y = 3633304,72;
+
+13 - x = 304526,31; y = 3632812,42;
+
+14 - x = 303467,98; y = 3633086,89;
+
+15 - x = 303467,98; y = 3633086,89;
+
+16 - x = 303478,31; y = 3633074,34;
+
+17 - x = 303483,06; y = 3633056,49;
+
+18 - x = 303484,15; y = 3633041,21;
+
+19 - x = 303492,91; y = 3633013,16;
+
+20 - x = 303506,04; y = 3632990,95;
+
+21 - x = 303520,68; y = 3632972,16;
+
+22 - x = 303544,03; y = 3632948,02;
+
+23 - x = 303571,75; y = 3632919,26;
+
+24 - x = 303587,44; y = 3632901,41;
+
+25 - x = 303616,26; y = 3632893,04;
+
+26 - x = 303641,79; y = 3632911,24;
+
+27 - x = 303667,69; y = 3632917,81;
+
+28 - x = 303687,31; y = 3632910,26;
+
+29 - x = 303698,25; y = 3632888,88;
+
+30 - x = 303710,66; y = 3632872,78;
+
+31 - x = 303736,92; y = 3632861,49;
+
+32 - x = 303768,84; y = 3632853,84;
+
+33 - x = 303786,89; y = 3632840,73;
+
+34 - x = 303778,87; y = 3632750,92;
+
+35 - x = 303782,69; y = 3632707,26;
+
+36 - x = 303837,04; y = 3632697,41;
+
+37 - x = 303885,56; y = 3632694,51;
+
+38 - x = 303930,79; y = 3632659,55;
+
+39 - x = 303979,68; y = 3632679,22;
+
+40 - x = 303997,56; y = 3632720,73;
+
+41 - x = 303990,18; y = 3632763,44;
+
+42 - x = 304033,60; y = 3632815,01;
+
+43 - x = 304069,72; y = 3632851,42;
+
+44 - x = 304090,51; y = 3632745,82;
+
+45 - x = 304092,11; y = 3632671,91;
+
+46 - x = 304077,88; y = 3632613,41;
+
+47 - x = 304129,32; y = 3632593,02;
+
+48 - x = 304215,05; y = 3632571,17;
+
+49 - x = 304251,71; y = 3632507,89;
+
+50 - x = 304300,68; y = 3632466,53;
+
+51 - x = 304394,44; y = 3632420,65.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 17.º — Cais do Porto da Cruz
+
+O cais do Porto da Cruz compreende a faixa do domínio público marítimo delimitada pela linha que liga os pontos n.os 1 a 13, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 329946,87; y = 3627700,71;
+
+2 - x = 330148,51; y = 3627947,17;
+
+3 - x = 329691,46; y = 3627574,66;
+
+4 - x = 329588,41; y = 3627494,77;
+
+5 - x = 329428,12; y = 3627449,67;
+
+6 - x = 329284,71; y = 3627451,67;
+
+7 - x = 329268,51; y = 3627457,59;
+
+8 - x = 329257,97; y = 3627475,48;
+
+9 - x = 329271,26; y = 3627511,58;
+
+10 - x = 329310,13; y = 3627537,36;
+
+11 - x = 329323,02; y = 3627528,72;
+
+12 - x = 329336,03; y = 3627554,82;
+
+13 - x = 329413,38; y = 3627628,59.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.
+
+###### Artigo 18.º — Cais do Paul do Mar
+
+O cais do Paul do Mar compreende a faixa do domínio público delimitada pelos pontos n.os 1 a 14, cujas coordenadas rectangulares UTM são as seguintes:
+
+1 - x = 292784,78; y = 3625629,63;
+
+2 - x = 292976,78; y = 3625557,36;
+
+3 - x = 292786,91; y = 3625340,62;
+
+4 - x = 292699,2; y = 3625418,78;
+
+5 - x = 292617,24; y = 3625494,99;
+
+6 - x = 292563,12; y = 3625558,92;
+
+7 - x = 292565,12; y = 3625609,49;
+
+8 - x = 292646,46; y = 3625669,93;
+
+9 - x = 292647,56; y = 3625680,55;
+
+10 - x = 292660,77; y = 3625682,02;
+
+11 - x = 292675,45; y = 3625676,16;
+
+12 - x = 292705,91; y = 3625697,41;
+
+13 - x = 292705,53; y = 3625706,93;
+
+14 - x = 292728,65; y = 3625710,22.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 25/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964), publicado em 2003-08-23.

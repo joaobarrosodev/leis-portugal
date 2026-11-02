@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:431874:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995::4.º",
+      "epigrafe": "",
+      "texto": "As ajudas previstas no artigo anterior aplicam-se nas áreas geográficas de intervenção das direcções regionais de agricultura (DRA):\n\na) DRA do Alentejo;\n\nb) DRA do Algarve.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Aplicação das Medidas de Apoio às Explorações Afectadas pela Seca e Geada Ocorridas em 1995::11.º",
+      "epigrafe": "",
+      "texto": "As ajudas à manutenção do potencial produtivo e ao rendimento das explorações agrícolas têm por objectivo apoiar os agricultores cujas explorações foram afectadas pela seca ou geada e aplicam-se:\n\na) Nas regiões desfavorecidas do território do continente;\n\nb) Nos municípios de Barcelos, Braga, Guimarães, Felgueiras, Gondomar, Lousada, Maia, Matosinhos, Paços de Ferreira, Penafiel e Vila Nova de Gaia.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM 6/96 único: nova redação do art. 4.º do Regulamento (corpo '...' mantido, alínea a) passa a 'DRA do Alentejo;', b) '...' mantida) aplicada.",
+    "RCM 6/96 único: nova redação integral do art. 11.º do Regulamento aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

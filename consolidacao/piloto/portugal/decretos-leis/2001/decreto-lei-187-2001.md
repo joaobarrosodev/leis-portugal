@@ -13,9 +13,6 @@ consolidacao:
   - id: pt:dre:425929:por
     title: Decreto-Lei n.º 234/2002
     publication_date: '2002-11-02'
-  - id: pt:dre:450618:por
-    title: Decreto-Lei n.º 250/2002
-    publication_date: '2002-11-21'
 ---
 
 # Decreto-Lei n.º 187/2001
@@ -74,7 +71,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 5 - Sem prejuízo do disposto no n.º 1, o Estado, através da Direcção-Geral do Tesouro, transferirá para o património do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) o património imobiliário remanescente das operações de liquidação levadas a cabo pela comissão liquidatária.
 
-> Alterado pelo/a [Decreto-Lei n.º 234/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2002-425929) e [Decreto-Lei n.º 250/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2002-450618), publicado em 2002-11-21.
+> Alterado pelo/a [Decreto-Lei n.º 234/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2002-425929), publicado em 2002-11-02.
 
 ###### Artigo 5.º — Trabalhadores
 

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:694208:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Órgãos",
+      "texto": "São órgãos do Parque Natural:\n\na) A comissão directiva;\n\nb) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Conselho consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Competências do conselho consultivo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Decreto Regulamentar n.º 83/2007), artigo 1.º, n.º 1: substitui os anexos I e II do original, mas esses anexos não constam do texto atual por artigos (não há chave a que aplicar), e o anexo II (carta) só existe em imagem no documento original. O n.º 2 desse artigo é norma autónoma do alterador, não altera o texto do artigo 2.º do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 352/2004): interdição da caça; não contém instruções dirigidas ao texto do original. Nada aplicado.",
+    "Alterador 2 (DR n.º 83/2007), art. 1.º, n.º 1: nova redação dos anexos I e II. Não aplicado (anexos fora do texto atual; anexo II só em imagem).",
+    "Alterador 2, art. 1.º, n.º 2: regra própria sobre a carta à escala 1:25 000; não altera o artigo 2.º do original. Nada aplicado.",
+    "Alterador 3 (DL n.º 78/2015), art. 2.º: altera o DL n.º 135/2012, não o original. Ignorado.",
+    "Alterador 3, art. 3.º, alínea h): revoga a alínea b) do artigo 5.º e os artigos 8.º e 9.º do original. Aplicado: 5.º b) (Revogada.); 8.º e 9.º (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

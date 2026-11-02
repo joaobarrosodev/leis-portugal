@@ -1,0 +1,98 @@
+{
+  "id": "pt:dre:610412:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Conceito",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Instituições financiadoras",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições de acesso",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Valores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Condições dos empréstimos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Apreciação das propostas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Controlo da execução do contrato",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Alienação das casas de habitação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Segundas transmissões",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Garantia",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Registos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Norma transitória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 19.º, n.º 1: o artigo 15.º do original é ressalvado da revogação apenas \"na parte em que mantém em vigor o artigo 8.º, n.º 1, alíneas b) a d), e do artigo 17.º, n.º 3 a 5\" do DL 236/85; essa revogação parcial não é textual (o texto do artigo 15.º não se divide assim), pelo que o artigo 15.º ficou com o texto atual.",
+  "instrucoes": [
+    "Alterador 1, art. 19.º, n.º 1: revoga o DL 39/89 com excepção do artigo 15.º (em parte) — artigos 1.º a 14.º ficam (Revogado.); artigo 15.º mantido sem alteração (ver nao_aplicavel).",
+    "Alterador 1, art. 19.º, n.º 2: remissões para o DL 39/89 passam a ser para o DL 165/93 — não altera o texto do original; ignorada.",
+    "Alterador 1, arts. 1.º a 18.º: regime novo e autónomo do DL 165/93, não são alterações ao texto do original — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

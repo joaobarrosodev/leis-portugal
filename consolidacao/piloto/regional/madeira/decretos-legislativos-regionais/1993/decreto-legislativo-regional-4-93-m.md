@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:305814:por
-    title: Decreto Legislativo Regional n.º 21/93/M
-    publication_date: '1993-12-10'
   - id: pt:dre:220114:por
     title: Decreto Legislativo Regional n.º 6/2005/M
     publication_date: '2005-06-01'
+  - id: pt:dre:305814:por
+    title: Decreto Legislativo Regional n.º 21/93/M
+    publication_date: '1993-12-10'
 ---
 
 # Decreto Legislativo Regional n.º 4/93/M
@@ -71,15 +71,33 @@ Fica o Governo Regional autorizado, mediante portaria do Secretário Regional da
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Legislativo Regional n.º 21/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-305814) e [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), publicado em 2005-06-01.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 6/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-220114), publicado em 2005-06-01.
 
 ### CAPÍTULO III — Operações passivas e activas do Tesouro Público regional
 
 ###### Artigo 8.º — Empréstimos amortizáveis
 
-1 - Fica o Governo Regional autorizado a contrair empréstimos amortizáveis, até ao montante de 5 milhões de contos e dentro dos limites de endividamento fixados na Lei do Orçamento do Estado para 1993, nos termos do Decreto-Lei n.º 336/90, de 30 de Outubro, para fazer face a necessidades de financiamento, a colocar junto das instituições financeiras ou outras entidades e, em última instância, junto do Banco de Portugal.
+1 - Fica o Governo Regional autorizado a contrair empréstimos amortizáveis, até ao montante de 15 milhões de contos e dentro dos limites de endividamento fixados na Lei do Orçamento de Estado para 1993, nos termos do [Decreto-Lei n.º 336/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1990-565863), de 30 de Outubro, para fazer face a necessidades de financiamento, a colocar junto das instituições financeiras ou outras entidades.
 
-2 - Fica ainda o Governo Regional autorizado a contrair empréstimos amortizáveis, internos e externos, até ao limite máximo de 10 milhões de contos e nos termos do artigo 53.º da Lei n.º 30-C/92, de 28 de Dezembro, destinados exclusivamente ao financiamento dos programas e projectos plurianuais, constantes do mapa IX, a colocar junto das instituições financeiras ou outras entidades, internas ou externas, e, em última instância, junto do Banco de Portugal.
+2 - Fica ainda o Governo Regional autorizado a contrair empréstimos amortizáveis, internos e externos, até ao limite máximo de 10 milhões de contos e nos termos do artigo 53.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, destinados exclusivamente ao financiamento dos programas e projectos plurianuais, constantes do mapa IX, a colocar junto das instituições financeiras ou outras entidades, internas ou externas.
+
+3 - A emissão dos empréstimos internos referidos no número anterior deverá subordinar-se às seguintes condições e modalidades:
+
+a) Mutuária: Região Autónoma da Madeira;
+
+b) Montante: até 10000000 de contos;
+
+c) Forma: contrato de empréstimo entre a mutuária e as instituições de crédito, nos moldes normais para este tipo de operações;
+
+d) Período de utilização: uma única utilização;
+
+e) Modalidade: empréstimo a seis meses, podendo ser renovável;
+
+f) Garantias: aval do Estado Português.
+
+4 - As condições de emissão destes empréstimos não poderão ser mais gravosas do que as resultantes do mercado em matéria de prazo, taxa de juro e demais encargos, podendo as mesmas ser objecto dos ajustamentos técnicos que se revelarem aconselháveis.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 21/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-305814), publicado em 1993-12-10.
 
 ###### Artigo 9.º — Avales e outras garantias
 

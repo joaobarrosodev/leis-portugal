@@ -10,12 +10,6 @@ consolidacao:
   - id: pt:dre:589953:por
     title: Decreto-Lei n.º 216/2004
     publication_date: '2004-10-08'
-  - id: pt:dre:589953:por
-    title: Decreto-Lei n.º 216/2004
-    publication_date: '2004-10-08'
-  - id: pt:dre:247718:por
-    title: Decreto-Lei n.º 33/2008
-    publication_date: '2008-02-25'
   - id: pt:dre:333873:por
     title: Decreto-Lei n.º 94/2010
     publication_date: '2010-07-29'
@@ -65,13 +59,13 @@ Apenas os edulcorantes constantes do anexo ao presente decreto-lei, do qual faz 
 
 1 - O Gabinete de Planeamento e Políticas é o organismo responsável pelas medidas de política relativas à qualidade e à segurança dos produtos abrangidos pelo presente decreto-lei, adiante designado por autoridade competente, competindo-lhe, designadamente:
 
-a) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de Janeiro;
+a) Definir as medidas de gestão do risco, seleccionando, se necessário, as opções apropriadas de prevenção e controlo no âmbito do Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro;
 
 b) Elaborar e coordenar a execução do plano oficial para verificação do cumprimento das normas previstas no presente decreto-lei.
 
 2 - Os serviços competentes nas Regiões Autónomas e as direcções regionais de agricultura e pescas executam o plano de controlo oficial previsto no número anterior.
 
-> Aditado pelo/a [Decreto-Lei n.º 216/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953) e [Decreto-Lei n.º 33/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2008-247718) e [Decreto-Lei n.º 94/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873), publicado em 2010-07-29.
+> Aditado pelo/a [Decreto-Lei n.º 94/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873), publicado em 2010-07-29.
 
 ###### Artigo 4.º — Utilização de doses máximas
 
@@ -125,7 +119,7 @@ c) O incumprimento das exigências específicas para a rotulagem dos edulcorante
 
 2 - Finda a instrução, os processos são remetidos à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) para aplicação das coimas respectivas.
 
-> Alterado pelo/a [Decreto-Lei n.º 216/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953) e [Decreto-Lei n.º 33/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2008-247718) e [Decreto-Lei n.º 94/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873), publicado em 2010-07-29.
+> Alterado pelo/a [Decreto-Lei n.º 94/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873), publicado em 2010-07-29.
 
 ###### Artigo 12.º — Disposições transitórias
 

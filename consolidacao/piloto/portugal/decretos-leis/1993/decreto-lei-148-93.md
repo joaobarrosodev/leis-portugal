@@ -51,7 +51,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 87/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1994-258994) e [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), publicado em 2001-03-17.
+> Revogado pelo/a [Decreto-Lei n.º 87/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2001-388183), publicado em 2001-03-17.
 
 ###### Artigo 3.º
 
@@ -89,11 +89,13 @@ b) A Divisão de Contumazes e Objectores de Consciência, a quem cabe exercer as
 
 Para efeitos de emissão de bilhetes de identidade e de certificados de registo criminal, articulam-se com as Direcções de Serviços previstas no n.º 1 do artigo 2.º e no n.º 1 do artigo 3.º, respectivamente, os seguintes serviços:
 
-a) As conservatórias do registo civil, para os pedidos de bilhete de identidade, podendo, ainda, as sediadas nas capitais de distrito proceder à sua emissão;
+a) As conservatórias do registo civil, para os pedidos de bilhete de identidade, podendo ainda as sediadas nas capitais de distrito, ou no Funchal, em Angra do Heroísmo e em Ponta Delgada, proceder à sua emissão para os residentes nos concelhos do distrito ou das Regiões Autónomas, respectivamente;
 
 b) As secretarias judiciais ou as secretarias das câmaras municipais nas autarquias que não sejam sede de comarca, para os pedidos de certificado de registo criminal, podendo, ainda, as primeiras emitir os referidos certificados negativos;
 
 c) As representações diplomáticas e consulares portuguesas, para os pedidos referidos nas alíneas anteriores, quando os interessados residam no estrangeiro.
+
+> Alterado pelo/a [Decreto-Lei n.º 87/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1994-258994), publicado em 1994-03-30.
 
 ###### Artigo 6.º
 

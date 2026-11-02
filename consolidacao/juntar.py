@@ -44,6 +44,7 @@ from consolidar import PILOTO, _markdown, processar
 from texto import RAIZ, Artigo, com_titulos, dividir, front_matter, publicado
 from verificar import _REVOGADO
 
+
 PASTA = RAIZ / "consolidacao"
 LLM = PASTA / "llm"
 METODO = "piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py), sem valor oficial"
@@ -124,6 +125,8 @@ def juntar_escala(resposta: dict, registo: dict, estado: dict, pendentes: dict) 
     (`consolidar.processar` com `extra`) e junta-lhe os artigos da resposta. Os alteradores da
     nota são os dos pendentes, ou seja, os que o LLM tratou."""
     linha = {"id": registo["id"], "title": registo["title"], "path": registo["path"], "estado_regras": estado["estado"]}
+    if (LLM / "completo" / (registo["id"].replace(":", "_") + ".json")).exists():
+        return linha | {"estado": "não junto", "motivo": "tem resposta do pedido completo (llm_completo.py)"}
     if registo["id"] in _juntados_no_piloto():
         return linha | {"estado": "não junto", "motivo": "já juntado com o LLM no piloto (llm/juntados.jsonl)"}
     extra: dict = {}

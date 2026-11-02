@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:580344:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - As unidades auxiliares têm pintada no seu costado ou nas superstruturas, num e noutro bordo, a meia-nau, de forma bem visível, a palavra «MARINHA».\n\n2 - As unidades auxiliares atribuídas à Polícia Marítima têm ainda pintadas com cor preta as palavras 'POLÍCIA MARÍTIMA'.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Sem prejuízo do disposto nos artigos anteriores, as formas de identificação ou de inscrição nas unidades auxiliares ou em outros meios navais afectos à Polícia Marítima são estabelecidas por portaria do Ministro da Defesa Nacional.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 377/85, artigo único: nova redação do art. 6.º ('MARINHA' no costado ou superstruturas) - aplicado, depois numerado como n.º 1 pelo DL 105/2005.",
+    "DL 105/2005, art. 1.º: art. 6.º passa a n.º 1 (anterior artigo único, na redação do DL 377/85) e n.º 2 novo sobre a Polícia Marítima - aplicado.",
+    "DL 105/2005, art. 2.º: aditado o art. 12.º - aplicado.",
+    "DL 105/2005, art. 3.º: entrada em vigor do próprio diploma - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

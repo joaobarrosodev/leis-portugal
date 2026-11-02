@@ -7,15 +7,9 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:621541:por
-    title: Decreto-Lei n.º 272/94
-    publication_date: '1994-10-28'
-  - id: pt:dre:217323:por
-    title: Decreto-Lei n.º 380/98
-    publication_date: '1998-11-27'
-  - id: pt:dre:488855:por
-    title: Decreto-Lei n.º 5/99
-    publication_date: '1999-01-07'
+  - id: pt:dre:443686:por
+    title: Decreto-Lei n.º 397/83
+    publication_date: '1983-11-02'
 ---
 
 # Decreto-Lei n.º 232/82
@@ -86,7 +80,7 @@ TABELA DE EMOLUMENTOS DO NOTARIADO
 
 a) Nas permutas, a soma do valor dos bens permutados;
 
-b) Na dação em cumprimento, o das dívidas pagas, ou o dos bens dados em cumprimento, se for superior àquele;
+b) Na dação em cumprimento, o das dívidas pagas ou o dos bens dados em cumprimento, se for superior àquele;
 
 c) Nos de garantia, o do capital garantido;
 
@@ -96,9 +90,9 @@ e) Nos de constituição de sociedades, de modificação do respectivo pacto soc
 
 f) Nos de aumento de capital, com ou sem alteração de cláusulas do pacto que lhe respeitem, o do aumento;
 
-g) Nos de aumento de capital, com alteração parcial de cláusulas do pacto diversas da directamente pelo aumento, o valor deste ou o da modificação referida ao capital com que a sociedade ficar, conforme o que produzir maior emolumento;
+g) Nos de aumento de capital, com alteração parcial de cláusulas do pacto diversas da directamente determinada pelo aumento, o valor deste ou da modificação referida ao capital com que a sociedade ficar, conforme o que produzir maior emolumento;
 
-h) Nos de aumento de capital, com substituição total do pacto social, o do capital com que a sociedade ficar;
+h) Nos de aumento de capital com substituição total do pacto social, o do capital com que a sociedade ficar;
 
 i) Nos de redução de capital, com ou sem alteração de outras cláusulas do pacto, o da importância a que o capital ficar reduzido;
 
@@ -112,15 +106,17 @@ n) Nos de simples rectificação que envolva aumento de valor do acto rectificad
 
 o) Na liquidação ou partilha de bens sociais, ainda que feita simultaneamente com a dissolução, o dos bens do activo liquidado ou partilhado, ou o do capital social, se for superior.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 2.º
 
 São considerados de valor indeterminado, entre outros, os seguintes actos:
 
-a) De constituição ou alteração de associações e fundações;
+a) De constituição ou alteração de associações, cooperativas e fundações;
 
 b) De revogação, aditamento ou alteração de cláusulas que não sejam de pacto social, quando não envolvam aumento do valor do acto inicial;
 
-c) De aceitação e ratificação;
+c) De aceitação e rectificação;
 
 d) De rectificação que não envolva aumento do valor do acto rectificado;
 
@@ -128,9 +124,11 @@ e) De habilitação;
 
 f) De repúdio de herança ou de legado;
 
-g) De confissão, desistência ou transacção, quando o seu valor económico não resulte do respectivo conteúdo;
+g) De renúncia ou de confissão, desistência ou transacção, quando o seu valor económico não resulte do respectivo conteúdo;
 
 h) De alteração de título constitutivo de propriedade horizontal que apenas diga respeito ao destino das fracções ou à fixação do seu valor relativo.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 3.º
 
@@ -150,7 +148,9 @@ f) Quanto à cessão de créditos, o valor nominal do crédito cedido;
 
 g) Quanto a prestações em géneros, o último preço oficial, ou, na falta deste, o preço médio dos últimos 3 anos, segundo a estiva camarária, se a houver;
 
-h) Quanto a bens ou actos cujo valor seja fixado em moeda estrangeira, o que lhes corresponder em moeda portuguesa, segundo a média do câmbio oficial do trimestre anterior.
+h) Quanto a bens ou actos cujo valor seja fixado em moeda estrangeira, o que lhe corresponder em moeda portuguesa, segundo o último câmbio oficial publicado.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ### CAPÍTULO II — Tabelamento dos actos
 
@@ -158,177 +158,221 @@ h) Quanto a bens ou actos cujo valor seja fixado em moeda estrangeira, o que lhe
 
 ###### Artigo 4.º
 
-1 - Quando, durante as horas normais de serviço, for solicitada a presença de notários de Lisboa e Porto para a celebração, fora do cartório, de quaisquer actos notariais, aqueles:
+1 - Por cada escritura com um só acto, testamento público, testamento internacional, instrumento de aprovação ou de abertura de testamento cerrado ... 600$00
 
-a) Nos actos realizados em instituições de crédito, devem fazer-se substituir pelo adjunto ou pelos ajudantes;
+2 - Ao emolumento previsto no n.º 1 acresce a rasa, que será, por cada lauda ou fracção ... 100$00
 
-b) Nos actos em que sejam intervenientes sociedades comerciais, agrupamentos complementares de empresas ou agrupamentos europeus de interesse económico, podem fazer-se substituir pelo adjunto ou, na falta deste, por qualquer dos ajudantes designados para os substituir nas suas faltas e impedimentos por períodos não superiores a 30 dias.
+3 - As laudas que apenas contenham as assinaturas e as menções legais posteriores a elas não são consideradas para o efeito do disposto no número anterior.
 
-2 - Por despacho do director-geral dos Registos e do Notariado, o regime previsto no número anterior pode aplicar-se a outras localidades, mediante solicitação dos respectivos notários.
+4 - Estão sujeitos ao emolumento do n.º 2 os documentos referidos nos n.os 1 e 2 do artigo 78.º do Código do Notariado.
 
-3 - Em caso de vacatura do lugar, licença ou impedimento do notário, é aplicável ao respectivo substituto legal o disposto no n.º 1.
-
-4 - Em casos excepcionais e por motivos relevantes, o director-geral dos Registos e do Notariado pode autorizar a presença do notário nas situações previstas na alínea a) do n.º 1.
-
-5 - A realização de actos nas condições referidas nos n.os 1 e 3 só pode ter lugar após a apreciação dos instrumentos pelo notário ou pelo respectivo substituto, e desde que deles conste o seu visto.
-
-> Alterado pelo/a [Decreto-Lei n.º 272/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1994-621541) e [Decreto-Lei n.º 380/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1998-217323) e [Decreto-Lei n.º 5/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1999-488855), publicado em 1999-01-07.
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 5.º
 
-Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem sobre o total do valor, por cada 1000$00 ou fracção:
+Se o acto que constitui objecto da escritura for de valor determinado, aos emolumentos previstos no artigo anterior acrescem, sobre o total do valor, por cada 100$00 ou fracção:
 
-a) Até 1000000$00 - 5$00;
+a) Até 200000$00 ... 10$00
 
-b) De 1000000$00 a 10000000$00, mais sobre o excedente - 4$00;
+b) De 200000$00 a 1000000$00 ... 5$00
 
-c) Acima de 10000000$00, sobre o excedente - 3$00.
+c) De 1000000$00 a 10000000$00 ... 4$00
+
+d) Acima de 10000000$00, sobre o excedente ... 3$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 6.º
 
-Se o acto que constitui objecto da escritura for de valor indeterminado, aos emolumentos previstos no artigo 4.º acrescem 500$00.
+1 - Se o acto que constitui objecto da escritura for de valor indeterminado, aos emolumentos previstos no artigo 4.º acrescem 500$00.
+
+2 - Este emolumento não será devido nas escrituras de revogação de testamentos.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 7.º
 
 1 - Por cada instrumento de procuração:
 
-a) Com poderes para administração civil - 200$00;
+a) Com poderes para administração civil ... 300$00
 
-b) Com poderes para gerência comercial - 400$00;
+b) Com poderes para gerência comercial ... 600$00
 
-c) Com poderes gerais para a gerência dos negócios de estabelecimentos, sucursais, filiais ou agências de sociedades anónimas ou em comandita por acções, quando por elas passadas aos seus gerentes ou agentes - 600$00;
+c) Com poderes gerais para a gerência dos negócios de estabelecimentos, sucursais, filiais ou agências de sociedades anónimas ou em comandita por acções, quando por elas passadas aos seus gerentes ou agentes ... 900$00
 
-d) Com poderes para qualquer contrato, para arrematação e para assinar títulos de crédito - 150$00;
+d) Com poderes para qualquer contrato, para arrematação e para assinar título de crédito ... 200$00
 
-e) Com simples poderes forenses - 100$00;
+e) Com simples poderes forenses ... 150$00
 
-f) Com quaisquer outros poderes - 250$00.
+f) Com quaisquer outros poderes ... 350$00
 
 2 - Se aos poderes conferidos corresponderem emolumentos diferentes, será devido o emolumento mais elevado.
 
 3 - Pelos instrumentos de substabelecimento é devido emolumento correspondente à procuração com idênticos poderes.
 
-4 - Pelos instrumentos de renúncia ou revogação de procuração - 100$00.
+4 - Pelos instrumentos de renúncia ou revogação de procuração ... 150$00
 
 5 - Os instrumentos avulsos de ratificação dos negócios jurídicos a que se refere o artigo 268.º do Código Civil são equiparados aos instrumentos de procuração.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 8.º
 
-Por cada instrumento de protesto de títulos de crédito - 50$00.
+Por cada instrumento de protesto de títulos de crédito ... 75$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 9.º
 
-1 - Por cada instrumento de acta de reunião de algum organismo social e assistência a ela:
+1 - Por cada instrumento de acta de reunião de organismo social e assistência a ela:
 
-a) Durante a reunião, até 1 hora - 1000$00;
+a) Durando a reunião até 1 hora ... 1500$00
 
-b) Por cada hora a mais ou fracção - 500$00.
+b) Por cada hora a mais ou fracção ... 750$00
 
 2 - O tempo de permanência no local da reunião é contado a partir da hora para que foi pedida a presença do notário.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 10.º
 
-1 - Por qualquer outro instrumento avulso com um só acto diverso dos previstos nos artigos anteriores - 150$00.
+1 - Por qualquer outro instrumento avulso com um só acto diverso dos previstos nos artigos anteriores ... 200$00
 
-2 - Ao emolumento previsto no número anterior acresce a rasa, que será, por cada lauda ou fracção - 50$00.
+2 - Ao emolumento previsto no número anterior acresce a rasa, que será, por cada lauda ou fracção ... 75$00
 
 3 - É aplicável aos instrumentos a que se refere o n.º 1 o disposto no n.º 3 do artigo 4.º
 
-4 - Se o objecto do instrumento for de valor determinado, ao emolumento do n.º 1 acresce metade do emolumento previsto no artigo 5.º
+4 - Ao emolumento do n.º 1 acresce metade dos emolumentos previstos no artigo 5.º ou no artigo 6.º, consoante o acto for de valor determinado ou de valor indeterminado.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 #### SECÇÃO II — Outros actos lavrados em livros
 
 ###### Artigo 11.º
 
-1 - Por cada apresentação de títulos a protesto - 20$00.
+1 - Por cada apresentação de títulos a protesto ... 30$00
 
-2 - Se o título apresentado for retirado do protesto, aos emolumentos do número anterior acresce 20$00.
+2 - Se o título apresentado for retirado do protesto, aos emolumentos do número anterior acrescem ... 30$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 12.º
 
-Por cada registo lavrado no livro a que se refere a alínea g) do n.º 1 do artigo 10.º do Código do Notariado - 50$00.
+Por cada registo lavrado no livro a que se refere a alínea g) do n.º 1 do artigo 10.º do Código do Notariado ... 75$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 13.º
 
-Por cada termo de abertura de sinal - 20$00.
+Por cada termo de abertura de sinal ... 30$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 #### SECÇÃO III — Actos lavrados fora dos livros
 
 ###### Artigo 14.º
 
-1 - Por cada termo de autenticação com um só interveniente - 100$00.
+1 - Por cada termo de autenticação com um só interveniente ... 150$00
 
-2 - Por cada interveniente a mais - 50$00.
+2 - Por cada interveniente a mais ... 75$00
 
 3 - Os cônjuges e os representantes de uma pessoa colectiva são considerados como um só interveniente.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 15.º
 
-Pela legalização de cada assinatura por via de reconhecimento - 14$00.
+Pela legalização de cada assinatura por via de reconhecimento ... 20$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 16.º
 
-1 - Pela tradução de documentos realizada pelo notário, por cada lauda da tradução - 300$00.
+1 - Pela tradução de documentos realizada pelo notário, por cada lauda da tradução ... 500$00
 
 2 - As fracções de lauda, além da primeira, não são consideradas para fins emolumentares.
 
-3 - Pelo certificado de exactidão da tradução de cada documento realizada por tradutor ajuramentado - 200$00.
+3 - Pelo certificado de exactidão da tradução de cada documento realizada por tradutor ajuramentado ... 300$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 17.º
 
-1 - Por cada certidão, fotocópia. pública-forma ou certificado diverso do previsto no artigo 16.º - 100$00
+1 - Por cada certidão, fotocópia, pública-forma ou certificado diverso do previsto no artigo 16.º ... 150$00
 
-2 - Ao emolumento previsto no número anterior, salvo quando devido por fotocópia, acrescem, por cada lauda - 50$00.
+2 - Ao emolumento previsto no número anterior acrescem, por cada lauda ... 50$00
 
-3 - Pela conferência da fotocópia de cada documento apresentado pelas partes e respectivo certificado - 100$00.
+3 - Pela conferência da fotocópia de cada documento apresentado pelas partes e respectivo certificado ... 150$00
 
-4 - É aplicável às laudas dos actos previstos no n.º 1 deste artigo o disposto no n.º 2 do artigo anterior.
+4 - É aplicável às laudas dos actos previstos no n.º 1 deste artigo, salvo quanto às de fotocópias, o disposto no n.º 2 do artigo anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 #### SECÇÃO IV — Outros actos e serviços
 
 ###### Artigo 18.º
 
-1 - Pelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, instrumento de aprovação, de depósito e abertura de testamento cerrado - 30$00.
+1 - Pelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, instrumento de aprovação, de depósito e abertura de testamento cerrado ... 50$00
 
 2 - O emolumento previsto no número anterior é cobrado pelo notário e remetido à Conservatória dos Registos Centrais, nos termos da lei orgânica dos serviços.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 19.º
 
-Pela transcrição na Conservatória dos Registos Centrais de cada escritura ou testamento outorgado no estrangeiro - 300$00.
+Pela transcrição na Conservatória dos Registos Centrais de cada escritura ou testamento outorgado no estrangeiro ... 450$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 20.º
 
-Por cada boletim de informação expedido pela Conservatória dos Registos Centrais - 60$00.
+Por cada boletim de informação expedido pela Conservatória dos Registos Centrais ... 100$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 21.º
 
-Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - 20$00.
+Pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título ... 30$00
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 22.º
 
-Pelos requerimentos redigidos e dactilografados ou manuscritos nos cartórios, a pedido dos interessados - 500$00.
+1 - Por cada processo de reclamação hierárquica ... 4000$00
+
+2 - Tratando-se de reclamação de conta ... 1000$00
+
+3 - O preparo cobrado será devolvido se a reclamação obtiver provimento.
+
+4 - Havendo provimento parcial, o emolumento do n.º 1 é reduzido a metade.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 23.º
 
-1 - Pela celebração de qualquer acto dentro das horas regulamentares mas fora do cartório, inclusive nos estabelecimentos de crédito, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 600$00.
+1 - Pela celebração de qualquer acto dentro das horas regulamentares mas fora do cartório, inclusive nos estabelecimentos de crédito, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem ... 600$00.
 
 2 - Ao emolumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.
 
 3 - O emolumento do n.º 1 é contado por inteiro quanto ao primeiro acto praticado e por metade quanto aos demais, se o encargo do pagamento da conta competir ao mesmo interessado.
 
-4 - Contar-se-á apenas uma vez o emolumento deste artigo quando se trate exclusivamente de reconhecimento, abertura de sinais e termos de autenticação.
+4 - Contar-se-á apenas uma vez o emolumento deste artigo quando se trate exclusivamente de reconhecimentos, abertura de sinais e termos de autenticação.
 
 5 - Não é devido o emolumento quanto a reconhecimentos, abertura de sinais e termos de autenticação que se pratiquem juntamente com outro acto.
 
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
 ###### Artigo 24.º
 
-1 - Pela celebração de qualquer acto fora das horas regulamentares ou em dia em que os cartórios esteiam encerrados, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 1000$00.
+1 - Pela celebração de qualquer acto fora das horas regulamentares ou em dia em que os cartórios estejam encerrados, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 1000$00.
 
 2 - Ao emolumento do número anterior é aplicável o disposto nos n.os 2, 3, 4 e 5 do artigo anterior.
 
 3 - Quando os actos celebrados nas condições previstas no n.º 1 tiverem lugar, de harmonia com a requisição, antes das 9 horas ou depois das 21 horas, os emolumentos deste artigo serão pagos em dobro.
 
-4 - Os notários devem prevenir as partes de que as circunstâncias referidas nos n.os 1 e 3 dão lugar ao aumento de emolumentos, fazendo nos actos a correspondente menção, com a declaração de que assim foram requisitados.
+4 - Os notários devem prevenir as partes de que as circunstâncias referidas nos n.os 1 e 3 dão lugar ao aumento de emolumentos, fazendo nos actos a correspondente menção com a declaração de que assim foram requisitados.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 25.º
 
@@ -338,13 +382,15 @@ a) Se o notário apenas tiver redigido a minuta, metade dos emolumentos que comp
 
 b) Se o acto chegou a ser lavrado na sua parte substancial, todos os emolumentos que lhe corresponderiam;
 
-c) Se a parte substancial do acto não foi integralmente escrita, mas já contém os elementos necessários para determinar a sua natureza e valor, metade dos emolumentos correspondentes;
+c) Se a parte substancial do acto não foi integralmente escrita, mas já contiver os elementos necessários para determinar a sua natureza e valor, metade dos emolumentos correspondentes;
 
-d) Se o acto foi interrompido, sem que se verifiquem as circunstâncias previstas na alínea anterior, cobrar-se-á a taxa fixa de 100$00, tratando-se de acto lavrado em livro de notas, e de 50$00, tratando-se de outro acto;
+d) Se o acto for interrompido sem que se verifiquem as circunstâncias previstas na alínea anterior, cobrar-se-á a taxa fixa de 100$00, tratando-se de acto lavrado em livro de notas, e de 50$00, tratando-se de outro acto;
 
 e) Se, no caso da alínea anterior, o notário tiver elaborado a minuta para o acto, será apenas cobrado o emolumento correspondente nos termos da alínea a);
 
-f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores que forem devidos, cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.
+f) Se a requisição foi para acto de serviço externo e o notário compareceu no local, além dos emolumentos indicados nas alíneas anteriores que forem devidos cobrar-se-ão os emolumentos previstos nos artigos 23.º e 24.º, como ao caso couber, acrescidos das despesas de transporte, quando a elas houver lugar.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ### CAPÍTULO III — Alteração e cumulação de emolumentos
 
@@ -368,23 +414,29 @@ a) De quitação de dívidas;
 
 b) De distrate, resolução ou revogação de actos notariais;
 
-c) De modificação parcial de pacto social, de prorrogação ou de continuação de sociedade, ou de dissolução, com ou sem nomeação de liquidatários.
+c) De modificação parcial de pacto social, de prorrogação ou de continuação de sociedade;
+
+d) De dissolução de sociedade, com ou sem nomeação de liquidatários, quando não contenha qualquer outra estipulação ou declaração.
 
 2 - Os emolumentos dos artigos 23.º e 24.º são reduzidos a metade quando se trate exclusivamente de procurações, reconhecimentos, abertura de sinais e termos de autenticação.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 #### SECÇÃO II — Cumulação de emolumentos
 
 ###### Artigo 28.º
 
-1 - Quando uma escritura contiver mais de um acto, observar-se-ão as seguintes regras:
+1 - Quando uma escritura contiver mais de um acto, observar-se-ão, as seguintes regras:
 
 a) O emolumento do artigo 4.º, n.º 1, cobrar-se-á por inteiro em relação ao primeiro acto e por metade em relação a cada um dos restantes;
 
-b) Dois terços para o notário e um terço para emolumento do artigo 5.º é devido por cada acto em relação ao respectivo valor;
+b) Cumulando-se actos de valor determinado, o emolumento do artigo 5.º, é devido por cada acto em relação ao respectivo valor;
 
-c) A totalidade para o ajudante, se o acto por minado, ou quando a cumulação se verificar entre esses actos e outros de valor determinado, cobrar-se-ão sempre, por cada acto, os correspondentes emolumentos dos artigos 5.º e 6.º
+c) Quando se cumularem actos de valor indeterminado, ou quando a cumulação se verificar entre esses actos e outros de valor determinado, cobrar-se-ão sempre, por cada acto, os correspondentes emolumentos dos artigos 5.º e 6.º
 
 2 - As regras previstas nas alíneas do número anterior são igualmente aplicáveis, com referência aos respectivos emolumentos fixos e variáveis, aos instrumentos avulsos que contenham mais de um acto.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 29.º
 
@@ -392,7 +444,7 @@ c) A totalidade para o ajudante, se o acto por minado, ou quando a cumulação s
 
 2 - Não são considerados novos actos:
 
-a) As intervenções, aquiescências e renúncias de terceiros necessárias à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;
+a) As intervenções, aquiescências e renúncias de terceiros, necessárias à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;
 
 b) Os actos de garantia entre os mesmos sujeitos.
 
@@ -406,15 +458,19 @@ c) A dissolução de sociedades e a liquidação ou partilha do respectivo patri
 
 d) A aquiescência recíproca entre os cônjuges ou a aquiescência conjunta do marido e mulher, para actos lavrados ou a lavrar noutro instrumento;
 
-e) A outorga de poderes de representação ou o seu substabelecimento, por marido e mulher, contanto que o representante seja o mesmo;
+e) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher, contanto que o representante seja o mesmo;
 
-f) As diversas garantias prestadas no mesmo título por terceiros às mesmas obrigações e entre os mesmos sujeitos.
+f) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas no título em que estas são constituídas;
+
+g) As diversas garantias a obrigações entre os mesmos sujeitos em título posterior àquele em que estas foram constituídas.
 
 4 - Consideram-se actos entre sujeitos diversos:
 
 a) As habilitações respeitantes a heranças diferentes;
 
 b) As partilhas de heranças diferentes, salvo se os seus autores forem marido e mulher.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ### CAPÍTULO IV — Disposições finais
 
@@ -428,7 +484,7 @@ a) A totalidade para o notário, se o acto por ele for presidido e lavrado;
 
 b) Dois terços para o notário e um terço para o ajudante, ou outro funcionário, se o acto for presidido por aquele e lavrado por estes;
 
-c) A tatalidade para o ajudante, se o acto por ele for presidido e lavrado;
+c) A totalidade para o ajudante, se o acto por ele for presidido e lavrado;
 
 d) Dois terços para o ajudante e um terço para o funcionário que lavrar o acto presidido por aquele;
 
@@ -436,7 +492,7 @@ e) Nos actos presididos pelo ajudante que careçam de visto do notário, um ter�
 
 3 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados na alínea b) do número anterior, se se verificarem as hipóteses aí previstas.
 
-4 - Têm a natureza de emolumentos pessoais comuns, revertendo em proveito dos funcionários do cartório na proporção dos respectivos ordenados, os emolumentos do artigo 22.º
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 31.º
 
@@ -446,12 +502,20 @@ a) Pelos reconhecimentos em atestados de pobreza ou em documentos ou escritos de
 
 b) Pelos reconhecimentos em recibos de juros de dívida pública ou de pensões até 10000$00;
 
-c) Pelo preenchimento e custo de verbetes estatísticos;
+c) Pelo preenchimento e custo de verbetes estatísticos.
 
-d) Pelos actos que a lei declarar gratuitos.
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
 
 ###### Artigo 32.º
 
+A taxa de reembolso, englobada no montante total das importâncias arrecadadas, será de 3%, a deduzir no final de cada mês.
+
+> Alterado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.
+
+###### Artigo 33.º
+
 1 - As disposições da Tabela não admitem interpretação extensiva, ainda que haja identidade ou maioria de razão.
 
-2 - No caso de dúvida sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
+2 - No caso de dúvida sobre qual seja o emolumento, devido, cobrar-se-á sempre o menor.
+
+> Aditado pelo/a [Decreto-Lei n.º 397/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1983-443686), publicado em 1983-11-02.

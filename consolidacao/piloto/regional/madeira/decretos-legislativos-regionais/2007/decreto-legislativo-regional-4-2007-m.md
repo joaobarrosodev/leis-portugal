@@ -453,6 +453,10 @@ i) Funcionamento das entidades desportivas operantes no sistema desportivo regio
 
 2 - Para efeitos do número anterior, são objecto de financiamento público as actividades desportivas e respectivos agentes, individuais e colectivos, independentemente da natureza profissional ou não dessas actividades.
 
+3 - Os apoios previstos no presente artigo encontram-se exclusivamente afetos às finalidades para as quais foram atribuídos, sendo insuscetíveis de apreensão judicial ou oneração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-58986482), publicado em 2014-11-21.
+
 ###### Artigo 57.º — Contratos-programa
 
 1 - O financiamento público do desporto na Região Autónoma da Madeira concretiza-se através de contratos-programa de desenvolvimento desportivo celebrados entre a administração pública desportiva e as entidades operantes no sistema desportivo regional.
@@ -505,9 +509,9 @@ c) Treinadores e árbitros ou juízes envolvidos em actividades desportivas de a
 
 ### CAPÍTULO X — Disposições finais
 
-###### Artigo 63.º — Alteração do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho
+###### Artigo 63.º — Alteração do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho
 
-Os artigos 3.º, 4.º e 10.º do Decreto Legislativo Regional n.º 12/2005/M, de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:
+Os artigos 3.º, 4.º e 10.º do [Decreto Legislativo Regional n.º 12/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-240044), de 26 de Julho, que aprova o regime jurídico de atribuição de comparticipações financeiras ao associativismo desportivo na Região Autónoma da Madeira, passam a ter a seguinte redacção:
 
 'Artigo 3.º
 
@@ -531,7 +535,7 @@ g)...
 
 2 - ...'»
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2008-455661) e [Decreto Legislativo Regional n.º 14/2014/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-58986482), publicado em 2014-11-21.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2008-455661), publicado em 2008-08-12.
 
 ###### Artigo 64.º — Norma revogatória
 

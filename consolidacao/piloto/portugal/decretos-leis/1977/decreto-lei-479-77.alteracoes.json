@@ -4,27 +4,41 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 2.º\n\nA importância destinada a prémios em cada lotaria não pode ser inferior a 54% nem superior a 65% do capital emitido.",
-    "depois": "###### Artigo 2.º\n\nA importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369) e [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.",
+    "depois": "###### Artigo 2.º\n\nA importância destinada a prémios em cada lotaria não pode ser inferior a 50 %, nem superior a 70 %, do capital emitido.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:280738:por",
-    "alterador": "pt:dre:283369:por;pt:dre:488827:por"
+    "alterador": "pt:dre:488827:por;pt:dre:283369:por"
   },
   {
     "artigo": "4.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 4.º\n\n1 - Os agentes oficiais têm direito a uma comissão não inferior a 12,5% nem superior a 13,5% sobre o preço referido no artigo 1.º, a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa para a gerência da Lotaria Nacional.\n\n2 - As condições de admissão, suspensão e eliminação, bem assim os direitos e deveres dos agentes oficiais, constarão de regulamento a aprovar pela Mesa.",
-    "depois": "###### Artigo 4.º\n\n1 - (Revogado.)\n\n2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369) e [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.",
+    "depois": "###### Artigo 4.º\n\n1 - (Revogado.)\n\n2 - O regime jurídico da actividade de mediador de jogos sociais do Estado consta de regulamento próprio, aprovado por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2009-488827), publicado em 2009-08-27.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:280738:por",
-    "alterador": "pt:dre:283369:por;pt:dre:488827:por"
+    "alterador": "pt:dre:488827:por;pt:dre:283369:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nFicam sujeitos a prescrição os prémios que não forem exigidos dentro do prazo de seis meses contados desde o dia da extracção, os quais reverterão a favor da Misericórdia de Lisboa.",
+    "depois": "###### Artigo 6.º\n\nO direito aos prémios dos bilhetes da lotaria nacional e suas fracções caduca no prazo de três meses contados desde o dia da extracção, findo o qual reverte a favor da Misericórdia de Lisboa o valor dos prémios não reclamados.\n\n> Alterado pelo/a [Decreto-Lei n.º 11/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1988-283369), publicado em 1988-01-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280738:por",
+    "alterador": "pt:dre:488827:por;pt:dre:283369:por"
   }
 ]

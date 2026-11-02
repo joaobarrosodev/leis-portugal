@@ -1,0 +1,55 @@
+{
+  "id": "pt:dre:585182:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::2.º",
+      "epigrafe": "Âmbito",
+      "texto": "1 - A presente medida abrange as seguintes acções:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção B, «Constituição e reforço dos mecanismos de garantia».\n\n2 - Para além das intervenções constantes do n.º 1 dirigidas à oferta de instrumentos financeiros, a medida abrange também a actuação sobre factores indutores na inovação financeira em PME, regulamentada pela [Portaria n.º 680-A/2000](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-2000-300821), de 29 de Agosto, que estabelece o Regulamento Geral para as Parcerias e Iniciativas Públicas, com o objectivo de contribuir para atenuar as dificuldades que condicionam o processo de inovação financeira no segmento das PME, actuando, nomeadamente, ao nível da credibilização da informação produzida pelas empresas, do desenvolvimento de novas soluções de financiamento e da valorização da capacidade de gestão do financiamento.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::3.º",
+      "epigrafe": "Acção A",
+      "texto": "1 - O objectivo da acção A é influir na oferta de instrumentos financeiros que contribuam para o reforço da competitividade e da capitalização das PME, fomentando a constituição de novas empresas de cariz inovador, o reforço de capital ou a transmissão da propriedade das existentes e, ainda, criando mecanismos que disponibilizem activos fixos essenciais à actividade produtiva dessas empresas.\n\n2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::5.º",
+      "epigrafe": "Entidades beneficiárias",
+      "texto": "Serão apoiadas as seguintes entidades beneficiárias:\n\na) Acção A, 'Fundo de Sindicação de Capital de Risco (FSCR)';\n\nb) Acção B1 - Fundo de Contragarantia Mútuo;\n\nc) Acção B2 - sociedades de garantia mútua;\n\nd) Acção B3 - Fundo de Garantia para Titularização de Créditos.",
+      "alterador": 2
+    },
+    {
+      "chave": "ANEXO::8.º",
+      "epigrafe": "Despesas elegíveis",
+      "texto": "1 - No Âmbito da acção A, constitui despesa elegível a dotação inicial necessária para a constituição do Fundo, bem como o reforço que se revele necessário para o cumprimento da medida, a subscrever pelos IAPMEI, API e IFT, adiante designados por organismos coordenadores.\n\n2 - No âmbito da acção B constituem despesas elegíveis as contribuições necessárias ao reforço do Fundo da acção B1 e à constituição do Fundo previsto na acção B3, bem como a participação no capital de sociedades de garantia mútua da acção B2, a subscrever em todas as acções pelo IAPMEI, ICEP e IFT.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::9.º",
+      "epigrafe": "Comparticipação financeira na acção A",
+      "texto": "1 - Será fixada no regulamento do Fundo previsto na acção A uma graduação da percentagem de sindicação para as participações de capital, tendo presentes os seguintes parâmetros:\n\na) Até 70% para projectos de micro e pequenas empresas, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número;\n\nb) Até 50% para projectos de empresas de média dimensão, com o limite máximo de intervenção que vier a ser definido no regulamento referido no presente número.\n\n2 - A participação no capital de empresas por parte dos veículos de investimento enquadráveis no âmbito da acção A terá de ser obrigatoriamente minoritária, salvo autorização do organismo coordenador, justificadas as razões de racionalidade económica e o curto período de tempo aplicável.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::11.º",
+      "epigrafe": "Apresentação de propostas",
+      "texto": "1 - As propostas de instrumentos a comparticipar devem ser apresentadas ao IAPMEI, à API ou ao IFT, no âmbito da respectiva competência.\n\n2 - Com a apresentação das propostas, deverá ser entregue uma declaração do cumprimento das condições referidas no artigo 6.º\n\n3 - Após a comunicação da decisão de aprovação das propostas, correrá um prazo de 20 dias úteis, prorrogáveis uma só vez por igual período se justificável para apresentação dos respectivos comprovantes.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 901/2003 (cita por gralha 'Portaria n.º 37/2001', mas é o regulamento anexo a esta portaria, como confirma a Portaria 403/2007): nova redação dos artigos 2.º, 3.º, 5.º, 8.º, 9.º e 11.º do anexo.",
+    "Art. 2.º: alínea a) do n.º 1 substituída (901/2003) e depois de novo (403/2007, versão final); resto mantido.",
+    "Art. 3.º: n.º 2 substituído (deixa de ter alíneas) pela 901/2003 e de novo pela 403/2007 (versão final); n.º 1 mantido.",
+    "Art. 5.º: alínea a) nova, antigas c), d), e) passam a b), c), d), antiga b) desaparece (901/2003); alínea a) de novo substituída pela 403/2007.",
+    "Art. 8.º: n.º 1 substituído; n.º 2 mantido.",
+    "Art. 9.º: n.º 1 substituído (conteúdo do antigo n.º 3 adaptado); n.º 2 mantido; antigo n.º 3 deixa de existir, pois a nova redação só tem n.os 1 e 2.",
+    "Art. 11.º: n.º 1 substituído; n.os 2 e 3 mantidos.",
+    "Aspas simples ('...') dentro das alíneas copiadas tal como no alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

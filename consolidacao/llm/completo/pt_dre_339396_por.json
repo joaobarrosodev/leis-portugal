@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:339396:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Provas públicas",
+      "texto": "1 - As provas públicas serão organizadas pelo Conselho Superior da Magistratura, que, para o efeito, designará uma comissão de avaliação composta por cinco elementos, todos membros do Conselho Superior da Magistratura, e presidida pelo presidente do Conselho Superior da Magistratura, que, em caso de impedimento, será substituído pelo vice-presidente do Conselho Superior da Magistratura.\n\n2 - Para a realização e avaliação das provas escritas e orais, a comissão de avaliação cooptará outros elementos de entre docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos.\n\n3 - A comissão de avaliação constituirá com os docentes universitários dos cursos de Direito, juízes conselheiros ou desembargadores e psicólogos cooptados para o efeito, júris compostos por cinco membros, de entre os quais um será, obrigatoriamente, nomeado presidente de júri e outro será psicólogo, com vista à realização e avaliação simultânea das provas públicas orais, podendo fazer parte desses júris os elementos da referida comissão de avaliação.\n\n4 - O perfil psicológico e emocional do candidato que se revele inadequado ao exercício temporário das funções de juiz será impeditivo desse exercício, mediante parecer técnico do psicólogo, que não terá carácter vinculativo, e deliberação favorável e devidamente fundamentada do júri respectivo.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Classificação e graduação dos candidatos",
+      "texto": "1 - Ficarão aprovados os candidatos que no somatório das classificações escritas e orais obtiveram um total não inferior a 40 valores ou, no caso de dispensa da prova escrita, um total não inferior a 20 valores e em nenhuma das quatro provas tenham obtido classificação inferior a 9 valores, devendo ainda ter obtido o mínimo de 10 valores em, pelo menos, uma das provas jurídicas.\n\n2 - Na graduação dos candidatos são ponderadas as classificações obtidas nas provas prestadas e o currículo do candidato, passível de uma pontuação mínima de 10 valores.\n\n3 - A graduação final dos candidatos é decidida pela comissão de avaliação, à pluralidade de votos, tendo o presidente voto de desempate, podendo ser convidados a participar nas reuniões para o efeito realizadas, a título meramente consultivo, os presidentes dos júris, bem como os psicólogos intervenientes nos mesmos.\n\n4 - O voto do psicólogo poderá ser eliminatório, mediante deliberação devidamente fundamentada do júri.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 320-D/2000, artigo único: nova redação do artigo 5.º (n.os 1 a 4 integralmente substituídos); copiada do alterador, epígrafe mantida.",
+    "DL 320-D/2000, artigo único: nova redação do artigo 8.º com n.os 1 e 2 '...' (mantidos do texto atual) e n.º 3 substituído; o n.º 4 não é mencionado nem revogado, pelo que ficou o texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

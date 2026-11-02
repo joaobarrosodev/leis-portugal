@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:279441:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - A presente portaria procede à alteração das seguintes portarias:\n\na) (Revogada.)\n\nb) Portaria n.º 983/2010, de 24 de Setembro;\n\nc) [Portaria n.º 1186/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1186-2010-308758), de 17 de Novembro;\n\nd) [Portaria n.º 1187/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1187-2010-308759), de 17 de Novembro;\n\ne) [Portaria n.º 1188/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1188-2010-308760), de 17 de Novembro.\n\n2 - A presente portaria procede, ainda, à alteração das coordenadas dos vértices e coordenadas relativos à captação designada por JK1, constantes dos anexos i e iii da [Resolução do Conselho de Ministros n.º 186/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/186-2003-431074), de 11 de Dezembro.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Alteração à portaria n.º 689/2008 (2.ª série), de 22 de Julho",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Art. 6.º, c), do alterador 1 revoga também o anexo i da Portaria n.º 97/2011; esse anexo (quadros) não consta do texto atual por artigos, por isso não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º a) e b): revogam as Portarias n.os 689/2008 e 670/2015, que não são o original: ignoradas.",
+    "Alterador 1, art. 6.º c): revogada a alínea a) do n.º 1 do art. 1.º ('a) (Revogada.)') e o art. 2.º ('(Revogado.)'); a revogação do anexo i não foi aplicada (não está no texto atual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

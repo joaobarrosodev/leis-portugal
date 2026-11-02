@@ -128,7 +128,13 @@ c) Proceder ao pagamento das ajudas nos termos dos contratos referidos na alíne
 
 ###### Artigo 11.º
 
-As ajudas à manutenção do potencial produtivo e ao rendimento das explorações agrícolas têm por objectivo apoiar os agricultores cujas explorações foram afectadas pela geada ou seca e aplicam-se nas regiões desfavorecidas do território do continente.
+As ajudas à manutenção do potencial produtivo e ao rendimento das explorações agrícolas têm por objectivo apoiar os agricultores cujas explorações foram afectadas pela seca ou geada e aplicam-se:
+
+a) Nas regiões desfavorecidas do território do continente;
+
+b) Nos municípios de Barcelos, Braga, Guimarães, Felgueiras, Gondomar, Lousada, Maia, Matosinhos, Paços de Ferreira, Penafiel e Vila Nova de Gaia.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 6/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/6-1996-591503), publicado em 1996-01-19.
 
 #### SECÇÃO I
 

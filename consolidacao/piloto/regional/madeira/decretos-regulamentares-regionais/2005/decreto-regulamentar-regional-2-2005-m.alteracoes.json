@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "212.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 212.º — Atribuições e competências\n\n1 - A DRAC é o órgão de estudo, coordenação, execução, apoio e orientação, no âmbito e de acordo com a política governamental definida para o sector da cultura.\n\n2 - À DRAC compete, designadamente:\n\na) Participar na definição e orientação da política cultural da RAM;\n\nb) Propor as medidas legislativas e regulamentares que se revelem necessárias no âmbito de assuntos culturais;\n\nc) Propor e coordenar a execução dos planos anuais e de médio prazo da área da cultura;\n\nd) Promover acções integradas que visem a preservação e valorização do património cultural imóvel, móvel e imaterial que, pelo seu valor histórico, arquitectónico, artístico e documental se constituam como elementos fundamentais da identidade cultural da RAM, designadamente procedendo à sua inventariação, classificação, conservação e restauro;\n\ne) Promover e apoiar, em articulação com outras entidades públicas e privadas, programas, acções e eventos que dinamizem e fomentem uma oferta cultural de qualidade, contribuindo para o surgimento de novos públicos;\n\nf) Adoptar e incrementar, em concertação com os municípios, associações e particulares, as acções e os programas que se revelem necessários e adequados à prossecução de uma política de descentralização cultural, visando uma maior participação das populações locais em actividades culturais;\n\ng) Coordenar a execução das estratégias de política cultural para as áreas dos museus e das bibliotecas, designadamente procedendo ao desenvolvimento e consolidação das redes de museus e de bibliotecas públicas na RAM;\n\nh) Adoptar, por si própria ou em conjugação com outras entidades públicas ou privadas, as acções, planos e programas que visem apoiar e incentivar a criação, a investigação e a divulgação de matérias de carácter cultural;\n\ni) Exercer uma actividade editorial adequada, em função das suas atribuições e competências, bem como adoptar um programa de criterioso apoio à edição privada.",
+    "depois": "###### Artigo 212.º — Atribuições e competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 21/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438707), publicado em 2008-10-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:618114:por",
+    "alterador": "pt:dre:438707:por"
+  },
+  {
     "artigo": "22.º",
     "operacao": "revogar",
     "regra": "llm",

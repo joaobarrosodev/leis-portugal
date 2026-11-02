@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:144638:por
-    title: Decreto Legislativo Regional n.º 10/97/M
-    publication_date: '1997-07-26'
   - id: pt:dre:497798:por
     title: Decreto Legislativo Regional n.º 24/2013/M
     publication_date: '2013-07-16'
@@ -39,7 +36,7 @@ A Assembleia Regional da Madeira decreta, ao abrigo do disposto na alínea a) do
 
 2 - O presente diploma estabelece ainda a composição, forma de designação dos membros, estrutura e regime de funcionamento do CJM.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
 ###### Artigo 2.º — Natureza e competências
 
@@ -61,47 +58,55 @@ f) Emitir pareceres específicos que lhe sejam solicitados pelo seu Presidente;
 
 g) Exercer as demais competências que lhe sejam legalmente atribuídas.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
-###### Artigo 3.º
+###### Artigo 3.º — Composição
 
-1 - O CJM é constituído por:
+1 - O CJM é composto por um presidente e respetivos vogais, compreendendo os seguintes membros:
 
-a) Um representante do Vice-Presidente do Governo Regional e de cada um dos secretários regionais;
+a) O Membro do Governo Regional responsável pela área da juventude, que preside;
 
-b) O director regional da Juventude;
+b) O Diretor Regional competente em matéria de juventude;
 
-c) Um representante do delegado do Governo Regional no Porto Santo;
+c) Um representante da Vice-presidência do Governo Regional e das Secretarias Regionais;
 
-d) O representante do Governo Regional no Conselho Consultivo da Juventude, integrado na Presidência do Conselho de Ministros, criado pelo [Decreto-Lei n.º 381/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1987-499488), de 18 de Dezembro;
+d) Um representante de cada uma das organizações de juventude dos partidos políticos representados na Assembleia Legislativa da Região Autónoma da Madeira (ALRAM);
 
-e) Um representante das organizações de juventude dos partidos constituídos em grupos parlamentares na Assembleia Regional;
+e) Um representante da Direção Regional da Administração Pública do Porto Santo;
 
-f) Um representante do Departamento de Juventude da União dos Sindicatos do Arquipélago da Madeira (USAM);
+f) Um representante da Associação de Municípios da Região Autónoma da Madeira (AMRAM);
 
-g) Um representante da Associação Regional dos Jovens Agricultores;
+g) Um representante da Associação de Casas do Povo da Região Autónoma da Madeira (ACAPORAMA);
 
-h) Um representante de cada um dos movimentos juvenis da Diocese do Funchal, em número não superior a quatro;
+h) Um representante de cada um dos Departamentos de Juventude das confederações e uniões sindicais existentes na Região Autónoma da Madeira (RAM);
 
-i) Um representante de cada associação escutista e guidista da Região, em número não superior a três;
+i) Um representante de cada uma das associações de estudantes do ensino secundário e superior, sediadas na RAM;
 
-j) Um representante de cada associação de estudantes do ensino superior na Região, por escola e com maior representatividade;
+j) Um representante da Associação de Jovens Empresários da Madeira (AJEM);
 
-l) Um representante de cada associação de estudantes do ensino secundário, por escola e com maior representatividade;
+k) Um representante da Associação de Jovens Agricultores da Madeira e Porto Santo (AJAMPS);
 
-m) Um representante indicado pelas associações desportivas amadoras regionais legalmente constituídas.
+l) Um representante de cada associação de deficientes legalmente constituída;
+
+m) Um representante de cada uma das associações de escutismo e guidismo existentes na RAM;
+
+n) Quatro representantes dos movimentos juvenis da Diocese do Funchal;
+
+o) Um representante de cada uma das associações juvenis inscritas no Registo Regional do Associativismo Jovem;
+
+p) Um representante de cada um dos Conselhos Municipais de Juventude, quando exista.
 
 2 - A representação referida no número anterior é da exclusiva responsabilidade de cada organização.
 
 3 - Nenhum membro do CJM pode representar mais de uma entidade ou organização.
 
-4 - As organizações juvenis credenciam devidamente os seus representantes.
+4 - Os representantes das entidades identificadas no n.º 1 do presente artigo são indicados por comunicação escrita dirigida ao Presidente do CJM, devendo, à exceção das referidas nas alíneas a), b), c), e) e f), ter preferencialmente idade inferior a 30 anos.
 
-5 - Na eventualidade de serem criadas organizações de estudantes de âmbito regional, deixam de ser representadas as organizações referidas nas alíneas j) e l) do n.º 1 deste artigo, sendo que, neste caso, apenas terão direito a serem representadas no CJM as organizações, uma do ensino secundário e uma do ensino superior, que tiverem maior representatividade.
+5 - As entidades deverão indicar um representante suplente.
 
-6 - A representação referida no número anterior será feita através de três membros, por elas designados, cabendo a cada um deles um voto.
+6 - As entidades que compõem o CJM podem substituir a todo o tempo os seus representantes, mediante nova comunicação escrita dirigida ao seu Presidente.
 
-7 - Fará parte do CJM um representante dos jovens empresários, quando legalmente estiverem organizados.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
 ###### Artigo 4.º — Reuniões
 
@@ -109,15 +114,19 @@ m) Um representante indicado pelas associações desportivas amadoras regionais 
 
 2 - De cada reunião será lavrada ata, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
-###### Artigo 5.º
+###### Artigo 5.º — Regulamento interno
 
 O CJM aprova o seu regulamento de funcionamento, sob proposta do seu presidente, na primeira reunião ordinária.
 
-###### Artigo 6.º
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+
+###### Artigo 6.º — Apoio administrativo
 
 O apoio administrativo do CJM será prestado pelo gabinete do seu presidente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
 Aprovado em sessão plenária de 25 de Julho de 1989.
 
@@ -139,7 +148,7 @@ b) Participar nas votações de todas as matérias submetidas a apreciação do 
 
 c) A dispensa de funções, públicas ou privadas ou dispensa de frequência de aulas, para participar nas reuniões do CJM.
 
-> Aditado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Aditado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
 ###### Artigo 8.º — Deveres dos membros do CJM
 
@@ -151,7 +160,7 @@ b) Contribuir para a dignificação dos trabalhos do CJM;
 
 c) Assegurar a articulação entre as entidades que representam e o CJM.
 
-> Aditado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Aditado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
 
 ###### Artigo 9.º — Observadores
 
@@ -161,4 +170,4 @@ c) Assegurar a articulação entre as entidades que representam e o CJM.
 
 3 - O estatuto de observador pode ser retirado a qualquer momento, por decisão do Presidente do CJM.
 
-> Aditado pelo/a [Decreto Legislativo Regional n.º 10/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1997-144638) e [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
+> Aditado pelo/a [Decreto Legislativo Regional n.º 24/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798), publicado em 2013-07-16.
