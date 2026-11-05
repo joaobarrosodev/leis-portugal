@@ -26,6 +26,20 @@ from rag.pesquisa import Consulta, Resultado
 MODELO = os.environ.get("RAG_MODELO", "claude-opus-5-5")
 LIMIAR_PADRAO = 3.0  # do reranker; medido com o conjunto de avaliação (rag/README.md)
 ARTIGOS_NO_CONTEXTO = 8
+
+# Modo estrito (por omissão): a fiabilidade conta mais do que responder a tudo. Não responde quando
+#  - o artigo citado é o texto original de um diploma alterado sem versão consolidada no acervo
+#    (a redação em vigor pode ser outra: nos testes só 60% destas respostas estavam certas), ou
+#  - a própria resposta diz que os artigos dados não trazem a norma (só 1 de 24 estava certa).
+AVISO_TEXTO_ORIGINAL = "Texto original; alterado por"
+_FALTA_NORMA = re.compile(
+    r"(não (consta|constam|vem|vêm|foi dado|foram dados|está|estão) (nos|entre os|dos) artigos"
+    r"|artigos (dados|fornecidos|vistos|apresentados)[^.]{0,40}não"
+    r"|não (consta|constam)\b"
+    r"|não (é|são) (dado|dados|fornecido)"
+    r"|(os )?artigos[^.]{0,30}não (trazem|contêm|dizem|indicam|incluem))",
+    re.I,
+)
 CARACTERES_POR_ARTIGO = 6000
 
 INSTRUCOES = """És um assistente que responde a perguntas sobre legislação portuguesa e europeia em vigor.
@@ -112,7 +126,7 @@ def extrair_json(texto: str) -> dict:
         return {}
 
 
-def interpretar(dados: dict, artigos: list[Resultado]) -> Resposta:
+def interpretar(dados: dict, artigos: list[Resultado], *, estrito: bool = True) -> Resposta:
     """A resposta do LLM ({"responde", "resposta", "citacoes"}) como `Resposta`: "não sei" se não responde ou não cita um artigo dado."""
     citacoes = [artigos[n - 1] for n in dados.get("citacoes") or [] if isinstance(n, int) and 1 <= n <= len(artigos)]
     if not dados.get("responde"):
@@ -120,7 +134,13 @@ def interpretar(dados: dict, artigos: list[Resultado]) -> Resposta:
     if not citacoes:
         return Resposta(False, "Não sei.", motivo="resposta sem citação de um artigo dado", com_llm=True)
     avisos = list(dict.fromkeys(a for r in citacoes for a in r.avisos))
-    return Resposta(True, str(dados.get("resposta", "")), citacoes, avisos, com_llm=True)
+    texto = str(dados.get("resposta", ""))
+    if estrito:
+        if any(a.startswith(AVISO_TEXTO_ORIGINAL) for a in avisos):
+            return Resposta(False, "Não sei.", motivo="texto original de um diploma alterado, sem versão consolidada no acervo", com_llm=True)
+        if _FALTA_NORMA.search(texto):
+            return Resposta(False, "Não sei.", motivo="a resposta diz que os artigos dados não trazem a norma", com_llm=True)
+    return Resposta(True, texto, citacoes, avisos, com_llm=True)
 
 
 def _com_llm(consulta: Consulta) -> Resposta:

@@ -178,6 +178,21 @@ O que isto diz, sem arredondar a favor:
 - **O juiz sem referência é demasiado brando** (deu 99% de corretas onde os outros apanharam erros); só vale como controlo, e o veredicto exige que os quatro concordem.
 - Os juízes são todos o mesmo modelo: falta a revisão de um jurista numa amostra.
 
+**Modo estrito** (05/11/2026, mesmas 530 perguntas, respostas já julgadas, medido e não simulado): o sistema recusa quando o artigo citado traz o aviso "Texto original; alterado por…" ou quando a própria resposta diz que a norma não está nos artigos dados.
+
+| Tipo | n | "Não sei" | Fiabilidade (certas/respondidas) | Limite inferior 95% |
+|---|--:|--:|--:|--:|
+| Reais | 281 | 42% | **98% (158/162)** | 94% |
+| Premissa errada | 50 | 26% | 92% (34/37) | 79% |
+| Compostas | 100 | 50% | 96% (48/50) | 87% |
+| Texto alterado | 99 | 100% | recusa todas | — |
+| Sem resposta | 80 | 98% | recusa 78 de 80 | — |
+| Total | 530 | 53% | **96% (240/249)** | **93%** |
+
+A fiabilidade sobe de 82% para 96% (pior caso 78% para 93%), mas à custa de responder só a 249 de 530 (o "não sei" passa de 27% para 53%). É a troca decidida: certas primeiro, menos "não sei" depois. Ressalvas: os juízes são o mesmo modelo, e a recusa em texto alterado não resolve nada, só esconde o problema até haver texto consolidado.
+
+**Reescrita da pergunta em consulta jurídica** (05/11/2026, 94 de 281 coloquiais, só pesquisa, sem resposta julgada): artigo certo em 1.º 18% com a pergunta original, **58%** com a consulta sozinha e 55% com as duas juntas; nos 10 primeiros, 35% contra **91%**. Topo certo e acima do limiar: 9% contra 56%. Exige um passo de LLM antes da pesquisa.
+
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
 
 | Medida | Reais bem escritas | Mesmas, coloquiais |
