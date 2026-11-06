@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:309502:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. Para além do exercício das funções assistenciais que lhe são próprias, incumbe ao pessoal médico dos referidos hospitais e serviços ministrar ensino quando para tal preencha os requisitos legalmente exigidos.\n\n2. A carreira médica hospitalar será, a título transitório e enquanto não for reformulada a legislação sobre carreiras médicas, a que se encontra definida para os hospitais centrais não escolares, salvo no que se refere aos graus 5 e 6, correspondente a chefe de serviço e director de serviço, que serão fundidos numa única categoria com a designação de chefe de clínica, percebendo o vencimento correspondente à letra D.\n\n3. Enquanto não for publicada a legislação que define uma carreira unificada para todos os estabelecimentos, os quadros e mapas de pessoal médico permanente dos hospitais distritais compreenderão as seguintes categorias:\n\na) Especialista, com vencimento correspondente à letra F;\n\nb) Chefe de clínica, com vencimento correspondente à letra D, que substitui a categoria de director de serviço de hospital distrital.\n\n4. Os internos de policlínica e os internos de especialidades dos hospitais passam a ter as letras I e H, respectivamente.",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "1. Dentro dos trinta dias seguintes à conclusão dos concursos previstos no n.º 2 do artigo 13.º serão abertos concursos à escala nacional para as vagas das diferentes categorias existentes nos quadros ou mapas dos hospitais distritais.\n\n2. Os concursos serão de provas públicas e realizar-se-ão segundo normas a fixar por portaria do Secretário de Estado da Saúde.\n\n3. Os médicos que, prestando serviço nos hospitais centrais, venham a candidatar-se a estes concursos não perdem, por este facto, os direitos que possuam relativamente àqueles hospitais para efeitos de concursos a realizar nos termos deste diploma.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 755/76), artigo único: nova redação do artigo 15.º (n.os 1 a 3) — aplicada.",
+    "Alterador 2 (DL 182/77), art. 24.º: nova redação do artigo 4.º (n.os 1 a 4) — aplicada; os restantes artigos do DL 182/77 são normas autónomas, não alteram o original.",
+    "Alterador 3 (DL 172/81), art. 16.º: revoga as disposições do original 'que se mostrem contrárias' — revogação condicional, não aplicada ao texto; a revogação do DL 182/77 não repõe a redação anterior do artigo 4.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

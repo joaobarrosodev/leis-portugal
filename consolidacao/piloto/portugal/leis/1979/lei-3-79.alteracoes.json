@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - É criado junto da Assembleia da República o Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA).\n\n2 - O CNAEBA é constituído por:\n\na) Um representante de cada grupo parlamentar designado pela Assembleia da República, de entre os quais será eleito um presidente, considerando-se os restantes como vice-presidentes;\n\nb) Quatro representantes dos departamentos governamentais responsáveis pela elaboração e realização do PNAEBA, a nomear pelo Governo;\n\nc) Um representante de cada uma das assembleias das regiões autónomas;\n\nd) Um representante de cada região administrativa;\n\ne) Sete representantes de organizações referidas no n.º 3 do artigo 1.º\n\n3 - Enquanto não forem instituídas as regiões administrativas, os representantes referidos na alínea d) do número anterior são substituídos por um representante de cada assembleia distrital.\n\n4 - O Conselho deve estar constituído no prazo de sessenta dias após a entrada em vigor da presente lei.\n\n5 - O Presidente da Assembleia da República empossará, no prazo referido no número anterior, o presidente e os vice-presidentes do CNAEBA.",
+    "depois": "###### Artigo 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - É criado junto da Assembleia da República o Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA).\n\n2 - O CNAEBA é constituído por:\n\na) Um presidente e quatro vice-presidentes dos grupos parlamentares com maior número de deputados, designados pela Assembleia da República;\n\nb) Um representante de cada um dos grupos parlamentares cuja representação não seja assegurada pela alínea anterior, designados pela Assembleia da República;\n\nc) Quatro representantes dos departamentos governamentais responsáveis pela elaboração e realização do CNAEBA, a nomear pelo Governo;\n\nd) Um representante de cada uma das assembleias das regiões autónomas;\n\ne) Um representante de cada região administrativa;\n\nf) Sete representantes de organizações referidas no n.º 3 do artigo 1.º\n\n3 - Enquanto não forem instituídas as regiões administrativas, os representantes referidos na alínea d) do número anterior são substituídos por um representante de cada assembleia distrital.\n\n4 - O Conselho deve estar constituído no prazo de sessenta dias após a entrada em vigor da presente lei.\n\n5 - O Presidente da Assembleia da República empossará, no prazo referido no número anterior, o presidente e os vice-presidentes do CNAEBA.\n\n> Alterado pelo/a [Lei n.º 2/81](https://diariodarepublica.pt/dr/detalhe/lei/2-1981-391018), publicado em 1981-02-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:476695:por",
+    "alterador": "pt:dre:391018:por"
+  }
+]

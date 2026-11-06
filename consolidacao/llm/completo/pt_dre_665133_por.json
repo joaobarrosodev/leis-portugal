@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:665133:por",
+  "artigos": [
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "1. A distribuição das casas construídas pelo Fundo, bem como daquelas cuja construção tenha sido por ele promovida ou coordenada, quer sejam sua propriedade, quer pertençam ao património de municípios, misericórdias, organismos corporativos e instituições de previdência ou de serviços sociais dos diversos Ministérios e organismos autónomos, será feita mediante concurso, nos termos de regulamento a aprovar por portaria do Ministro das Obras Públicas.\n\n2. Serão organizados concursos separados, consoante o regime de utilização ou cedência das habitações e a natureza aberta ou restrita da sua atribuição, determinada pela natureza do financiamento utilizado ou pelo regime legal aplicável.\n\n3. Excepcionalmente, em casos devidamente fundamentados, a distribuição de casas do património do Fundo, destinadas a arrendamento, poderá efectuar-se, independentemente de concurso, por simples despacho ministerial.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria n.º 528/80 (alterador 2) cria lugares no quadro do pessoal do mapa I e a Portaria n.º 39/81 (alterador 3, 4.º) substitui esse quadro pelo anexo IV; o mapa I e o anexo IV só existem em imagem ('ver documento original'), por isso não se aplicam ao texto.",
+  "instrucoes": [
+    "DL 209/76, artigo único: art. 26.º com '...' nos n.os 1 e 2 e novo n.º 3; mantidos os n.os 1 e 2 do texto atual e aditado o n.º 3.",
+    "Portaria 528/80: cria um lugar de assessor e dois de técnico superior principal no mapa I; mapa só em imagem, não aplicada (nao_aplicavel).",
+    "Portaria 39/81, 4.º: substitui o quadro do pessoal do Fundo (mapa I) pelo anexo IV, só em imagem; não aplicada (nao_aplicavel). Os outros números alteram quadros de outros serviços: ignorados.",
+    "DL 17/85: altera o artigo 4.º do DL 7/83, que apenas remete para a alínea g) do artigo 8.º do original; não é instrução sobre o original, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

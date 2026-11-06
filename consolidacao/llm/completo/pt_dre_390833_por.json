@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:390833:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "1 - O Conselho Superior do Exército (CSE) é o órgão de conselho do Chefe do Estado-Maior do Exército para os assuntos relativos a:\n\na) Doutrina de emprego, organização, preparação e administração das forças do Exército;\n\nb) Mobilização do pessoal, do material e de outros elementos necessários ao Exército em caso de guerra ou emergência.\n\n2 - No âmbito dos assuntos relativos à administração do pessoal, ao Conselho Superior compete, designadamente:\n\na) Dar parecer nos casos de promoção por distinção ou de não satisfação da terceira condição geral de promoção prevista no Estatuto do Oficial do Exército;\n\nb) Apresentar ao Chefe do Estado-Maior do Exército propostas para a promoção a brigadeiro e general, de harmonia com as atribuições que lhe são conferidas pela legislação vigente.\n\n3 - O Conselho Superior do Exército é presidido pelo Chefe do Estado-Maior do Exército e tem a seguinte constituição:\n\nVice-Chefe do Estado-Maior do Exército;\n\nInspector-geral do Exército;\n\nDirectores do Departamento do Estado-Maior do Exército;\n\nGovernador Militar de Lisboa;\n\nDirector do Instituto de Altos Estudos Militares;\n\nAté três generais nomeados anualmente pelo Chefe do Estado-Maior do Exército.\n\n4 - Nas sessões em que hajam de tomar-se decisões relativas à promoção ao posto de general não integrarão o Conselho Superior do Exército os membros de patente inferior a general.\n\n5 - Poderão ser convocadas para as reuniões do Conselho Superior do Exército, sem direito a voto, as entidades militares ou civis que, pelas suas funções ou competência especial, o Conselho julgue conveniente ouvir e que participarão nas reuniões apenas no necessário à prestação dos esclarecimentos para que foram solicitados.\n\n6 - Para efeitos do disposto no n.º 2, serão obrigatoriamente convocados, nos termos do n.º 5, os directores das armas e serviços a que pertençam os militares em apreciação.\n\n7 - O chefe do Gabinete do Chefe do Estado-Maior do Exército desempenha a função de secretário do Conselho Superior do Exército, excepto para as sessões em que se trate da apreciação ou promoção de oficiais de patente igual ou superior à sua, ocasião em que desempenhará tais funções o vogal menos graduado ou mais moderno.\n\n8 - O expediente e o arquivo do Conselho Superior do Exército são assegurados pelo Gabinete do Chefe do Estado-Maior do Exército.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 (DL 176/77) e 3 (DL 283/78): criam direções e extinguem a Chefia do Serviço de Educação Física e a Chefia do Serviço de Obras do Exército sem darem nova redação a qualquer artigo (arts. 4.º, 7.º, 11.º, 12.º não são reescritos) — alteração não textual, não aplicada. Alterador 4 (DL 50/93), art. 31.º: revoga o DL 949/76 no seu todo, mas 'Salvo o disposto no artigo seguinte' (art. 32.º mantém em vigor os diplomas até à publicação dos regulamentos) — revogação global com ressalva transitória, não aplicada artigo a artigo por não se poder fixar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (DL 176/77): cria a Direcção do Serviço de Educação Física e extingue a Chefia respetiva, sem alterar o texto de artigos; não aplicado (ver nao_aplicavel).",
+    "Alterador 2 (DL 457/77), art. 1.º: nova redação do artigo 24.º; aplicada com o texto do alterador.",
+    "Alterador 2, art. 2.º: revoga o artigo 27.º; já consta como (Revogado.) no texto atual, nada a mudar.",
+    "Alterador 3 (DL 283/78): cria a DSFOE e extingue a Chefia do Serviço de Obras do Exército, sem alterar o texto de artigos; não aplicado (ver nao_aplicavel).",
+    "Alterador 4 (DL 50/93), art. 31.º: revoga o DL 949/76 com ressalva do art. 32.º (regime transitório); não aplicado (ver nao_aplicavel). O restante articulado do DL 50/93 é regime novo, não dirigido ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

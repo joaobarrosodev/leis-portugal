@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:152365:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - Os emolumentos e taxas devidos pela prestação dos serviços de registo e de identificação civil são fixados por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Os preços de venda de bens conexos com a prestação de serviços no âmbito dos registos e da identificação civil são fixados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça.\n\n4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 54/90 art. 5.º: nova redação do n.º 2 do art. 3.º (n.os 1 e 3 '...') — aplicada; arts. 1.º a 4.º e 6.º alteram o Código do Registo Civil ou são normas autónomas — ignorados.",
+    "DL 318/2007 art. 11.º: nova redação do art. 3.º — novos n.os 1 e 2; n.º 3 = anterior n.º 2 (redação do DL 54/90); n.º 4 = anterior n.º 3 — aplicada; restantes artigos alteram outros diplomas — ignorados. (O art. 11.º menciona também os DL 42/89 e 40/94, que não vêm no pedido; a nova redação substitui o artigo por inteiro.)",
+    "Portaria 286/2012: só invoca o n.º 1 do art. 3.º como habilitação e altera outras portarias — nada a aplicar ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

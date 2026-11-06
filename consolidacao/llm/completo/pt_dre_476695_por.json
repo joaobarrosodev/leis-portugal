@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:476695:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "(Conselho Nacional de Alfabetização e Educação de Base de Adultos)",
+      "texto": "1 - É criado junto da Assembleia da República o Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA).\n\n2 - O CNAEBA é constituído por:\n\na) Um presidente e quatro vice-presidentes dos grupos parlamentares com maior número de deputados, designados pela Assembleia da República;\n\nb) Um representante de cada um dos grupos parlamentares cuja representação não seja assegurada pela alínea anterior, designados pela Assembleia da República;\n\nc) Quatro representantes dos departamentos governamentais responsáveis pela elaboração e realização do CNAEBA, a nomear pelo Governo;\n\nd) Um representante de cada uma das assembleias das regiões autónomas;\n\ne) Um representante de cada região administrativa;\n\nf) Sete representantes de organizações referidas no n.º 3 do artigo 1.º\n\n3 - Enquanto não forem instituídas as regiões administrativas, os representantes referidos na alínea d) do número anterior são substituídos por um representante de cada assembleia distrital.\n\n4 - O Conselho deve estar constituído no prazo de sessenta dias após a entrada em vigor da presente lei.\n\n5 - O Presidente da Assembleia da República empossará, no prazo referido no número anterior, o presidente e os vice-presidentes do CNAEBA.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 2/81), artigo único: nova redação do n.º 2 do artigo 5.º (alíneas a) a f)); n.os 1, 3, 4 e 5 mantêm o texto atual.",
+    "Alterador 2 (Lei 31/87): altera o DL 125/82; o art. 26.º extingue o CNAEBA mas não altera nem revoga texto da Lei 3/79; nada aplicado.",
+    "Alterador 3 (DL 241/96): altera o DL 125/82, não a Lei 3/79; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

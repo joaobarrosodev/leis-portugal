@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:390270:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Compete ao Ministro das Finanças fixar, por portaria, sob parecer do Banco de Portugal, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias, ou por quaisquer outras entidades.",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) As comissões de cobrança;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3 - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 180/70), art. 1.º: nova redação do artigo 1.º do original; aplicada.",
+    "Alterador 1, arts. 2.º e 3.º: normas próprias do DL 180/70 (não dirigidas ao original); ignoradas.",
+    "Alterador 1, art. 4.º: altera o artigo 16.º do DL 48948; ignorado.",
+    "Alterador 2 (DL 9/78), art. 1.º: nova redação do artigo 2.º; n.º 1, proémio do n.º 2 e alíneas b) e c) mantidos (...), alínea a) substituída por 'As comissões de cobrança;', n.º 3 substituído.",
+    "Alterador 3 (DL 161/88), artigo único: revoga o n.º 3 do artigo 2.º; n.º 3 passa a '(Revogado.)' (o texto dado pelo alterador 2 fica assim sem efeito)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

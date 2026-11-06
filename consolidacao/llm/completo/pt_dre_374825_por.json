@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:374825:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As Portarias n.os 662/93 (plano de Matemáticas Aplicadas), 1010/93 (plano de Relações Internacionais), 436/2000, 1195/2000, 1196/2000, 539/2001, 1287/2001 e 1296/2002 (planos de Arquitectura) substituem os planos de estudos do anexo do original; os novos planos só vêm em imagem (ver documento original) e o anexo não consta do texto atual por artigos, pelo que não se aplicam. Nenhuma altera o texto dos artigos 1.º a 5.º.",
+  "instrucoes": [
+    "Portaria 662/93, 1.º: altera o plano de Matemáticas Aplicadas do anexo; anexo só em imagem, não aplicado.",
+    "Portaria 1010/93, 1.º e 2.º: substitui o plano de Relações Internacionais; anexo só em imagem, não aplicado.",
+    "Portarias 436/2000, 1195/2000, 1196/2000, 539/2001, 1287/2001 e 1296/2002: substituem planos de Arquitectura (Lisboa, Famalicão, Porto); anexos só em imagem, não aplicados; as restantes disposições (semanas lectivas, aplicação, transição, opções) são próprias dessas portarias e não alteram artigos do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

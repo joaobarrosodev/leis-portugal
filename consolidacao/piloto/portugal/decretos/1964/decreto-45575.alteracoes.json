@@ -14,6 +14,20 @@
     "alterador": "pt:dre:264366:por"
   },
   {
+    "artigo": "71.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 71.º\n\nOs arquitectos e engenheiros de 2.ª classe com mais de 5 anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.",
+    "depois": "###### Artigo 71.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 48607](https://diariodarepublica.pt/dr/detalhe/decreto/48607-1968-264366), publicado em 1968-10-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469853:por",
+    "alterador": "pt:dre:264366:por"
+  },
+  {
     "artigo": "72.º",
     "operacao": "substituir",
     "regra": "llm",

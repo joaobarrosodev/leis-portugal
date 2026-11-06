@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:394696:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto do PR n.º 16/85: indulto individual que altera uma pena residual fixada após o perdão da Lei n.º 17/82; não contém nenhuma instrução de alteração do texto da lei; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

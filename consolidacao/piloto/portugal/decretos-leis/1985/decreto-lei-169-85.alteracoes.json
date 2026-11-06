@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\nO direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca a qualidade de docente do ensino oficial.",
+    "depois": "###### Artigo 7.º\n\nO direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca, ou já tenha perdido à data de entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, a qualidade de docente do ensino oficial, desde que tenha mantido o vínculo ao Estado em qualquer outra carreira da função pública, prestando nela serviço contável para efeitos de aposentação.\n\n> Alterado pelo/a [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), publicado em 1988-01-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151527:por",
+    "alterador": "pt:dre:506398:por"
+  },
+  {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\nO tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.",
+    "depois": "###### Artigo 13.º\n\n1 - O tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.\n\n2 - O disposto no número anterior só é aplicável às escolas cuja criação tenha sido homologada nos termos do artigo 26.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), ou nos termos do [Decreto n.º 37545](https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329), de 8 de Setembro de 1949.\n\n> Alterado pelo/a [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), publicado em 1988-01-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:151527:por",
+    "alterador": "pt:dre:506398:por"
+  }
+]

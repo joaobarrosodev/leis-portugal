@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nO Ministro das Finanças poderá, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, fixar, por portaria, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias ou por quaisquer outras entidades.",
+    "depois": "###### Artigo 1.º\n\nCompete ao Ministro das Finanças fixar, por portaria, sob parecer do Banco de Portugal, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias, ou por quaisquer outras entidades.\n\n> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390270:por",
+    "alterador": "pt:dre:226036:por;pt:dre:374842:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) Os prémios de transferência referentes a letras e outros efeitos comerciais pagáveis em praça localizada em concelho diferente daquele em que tiver lugar o desconto;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3. Os limites máximos dos prémios de transferência e comissões a que se refere o número anterior serão fixados por despacho do Ministro das Finanças, ouvido o Grémio Nacional dos Bancos e Casas Bancárias.",
+    "depois": "###### Artigo 2.º\n\n1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) As comissões de cobrança;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 161/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1988-374842), publicado em 1988-05-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:390270:por",
+    "alterador": "pt:dre:226036:por;pt:dre:374842:por"
+  }
+]

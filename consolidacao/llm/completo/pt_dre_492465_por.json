@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:492465:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 530/79, art. 40.º): extingue os Serviços Médico-Sociais; não altera o texto de nenhum artigo do original.",
+    "Alterador 2 (DL 296-A/95): Lei Orgânica do Governo; não contém instruções dirigidas ao original.",
+    "Alterador 3 (DL 260/99, art. 11.º, n.º 2): derrogação condicional ('em tudo o que contrarie'); não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

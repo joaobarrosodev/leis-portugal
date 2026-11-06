@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:173361:por",
+  "artigos": [
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "O lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros ou outros licenciados do LNEC ou de outros serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre outros indivíduos estranhos ao quadro, de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 139/72, art. 1.º) suprime vinte lugares de escriturário-dactilógrafo de 2.ª classe e cria igual número de 1.ª classe no quadro do pessoal, que só existe em imagem; alterador 3 (Portaria 968/80, n.º 1.º) substitui o quadro do pessoal pelo quadro anexo, também só em imagem. Não aplicadas.",
+  "instrucoes": [
+    "Alterador 1 (DL 139/72): art. 1.º altera o quadro do pessoal (imagem), não aplicado; arts. 2.º a 6.º são normas próprias (recrutamento, provimento, despesa, vigência) e não alteram o texto do original.",
+    "Alterador 2 (Decreto 31/78): nova redação do artigo 21.º; aplicada letra a letra.",
+    "Alterador 3 (Portaria 968/80): substitui o quadro do pessoal pelo quadro anexo (imagem); não aplicado. Restantes números são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

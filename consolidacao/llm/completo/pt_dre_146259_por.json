@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:146259:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "1. A admissão ao Q. P. C. M. M. realiza-se mediante concurso ou por escolha, observadas as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e segundo for estabelecido por despacho do Ministro da Marinha.\n\n2. O recrutamento de guardas de 2.ª classe do Corpo de Polícia dos Estabelecimentos de Marinha pode efectuar-se entre o pessoal já pertencente ao Q. P. C. M. M., em condições a fixar, igualmente, por despacho do Ministro da Marinha.\n\n3. As habilitações mínimas referidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) podem ser substituídas por habilitações adquiridas nos estabelecimentos de ensino do Ministério da Marinha, quando se trate do provimento de lugares dos seguintes grupos do mapa anexo a este diploma:\n\nPessoal de pilotagem;\n\nCorpo de Polícia Marítima;\n\nCorpo de Polícia dos Estabelecimentos de Marinha;\n\nCabos-de-mar;\n\nPessoal de faróis;\n\nTroço do mar.\n\n4. O disposto no número anterior também é aplicável aos auxiliares técnicos de especialidades para para as quais os estabelecimentos de ensino do Ministério da Marinha ministrem preparação adequada.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "1 - O funcionamento dos concursos de admissão ou promoção, respectivos programas, forma de classificação e constituição dos júris serão regulados por despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal (4.ª Repartição).\n\n2 - A aplicação do disposto no número anterior ao pessoal de informática subordina-se ao que estiver estabelecido nas normas em vigor sobre admissão e promoção nos quadros do pessoal civil de informática das forças armadas.",
+      "alterador": 7
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "1. O disposto no artigo anterior também é aplicável aos cabos-de-mar e aos mateiros, que para esse efeito são considerados como pertencendo, respectivamente, ao Corpo de Policia Marítima e ao Corpo de Polícia dos Estabelecimentos de Marinha.\n\n2. Para os fins de que trata o artigo anterior, a hierarquia dos cabos-de-mar e dos mateiros é a seguinte:\n\na) Equiparação a primeiro-sargento - cabos-de-mar de 1.ª classe;\n\nb) Equiparação a segundo-sargento - cabos-de-mar de 2.ª classe;\n\nc) Equiparação a cabo - cabos-de-mar de 3.ª classe e mateiro-chefe;\n\nd) Equiparação a marinheiro - mateiros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "As alterações ao mapa anexo do artigo 1.º (DL 95/72, arts. 3.º e 4.º; Portarias 543/75, 38/76, 313/76, 1/77, 179/77, 746/78, 192/79, 395/79, 765/79, 211/81, 456/81 e 990/81; DL 26/78, art. 1.º) mexem em lugares, categorias e letras de vencimento de um mapa que só existe em imagem ('ver documento original'); não se aplicam ao texto.",
+  "instrucoes": [
+    "DL 95/72, art. 1.º: aditado o n.º 4 ao art. 4.º, copiado letra a letra (incluindo 'para para').",
+    "DL 95/72, art. 2.º: substituído o n.º 2 do art. 11.º (quatro alíneas); n.º 1 mantido do texto atual.",
+    "DL 95/72, arts. 3.º e 4.º: alteram categorias do grupo III e o grupo IV do mapa anexo (em imagem); não aplicados (nao_aplicavel).",
+    "Portarias 543/75, 38/76, 313/76, 1/77, 179/77, 746/78, 192/79, 395/79, 765/79, 211/81, 456/81 e 990/81: aumentam, eliminam ou redesignam lugares do mapa anexo; mapa só em imagem, não aplicadas (nao_aplicavel).",
+    "DL 26/78, art. 1.º: novo quadro do grupo V integrado no mapa anexo (em imagem); não aplicado (nao_aplicavel).",
+    "DL 26/78, art. 3.º: o corpo do art. 6.º passa a n.º 1 e é aditado o n.º 2; aplicado com a numeração '1 - ' / '2 - ' do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

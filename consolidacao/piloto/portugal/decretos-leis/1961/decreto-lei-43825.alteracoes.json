@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º\n\nO lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros dos diversos serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre indivíduos estranhos ao quadro de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.",
+    "depois": "###### Artigo 21.º\n\nO lugar de secretário da direcção do Laboratório será preenchido por escolha entre engenheiros ou outros licenciados do LNEC ou de outros serviços do Ministério das Obras Públicas, com mais de quatro anos de serviço no quadro, ou entre outros indivíduos estranhos ao quadro, de reconhecida competência, habilitados com um curso superior de natureza adequada e licenciados há mais de quatro anos.\n\n> Alterado pelo/a [Decreto n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto/31-1978-446964), publicado em 1978-04-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173361:por",
+    "alterador": "pt:dre:446964:por"
+  }
+]

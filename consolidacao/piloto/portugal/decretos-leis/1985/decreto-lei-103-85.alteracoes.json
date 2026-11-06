@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nÉ atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.",
+    "depois": "###### Artigo 1.º\n\n1 - É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.\n\n2 - A competência prevista no número anterior não pode ser exercida quando tenha sido publicado, pelo Governo da República, aviso para portaria de extensão cujo âmbito de aplicação compreende a área geográfica regional.\n\n3 - No caso previsto no número anterior, o Governo da República ouvirá previamente os governos regionais sobre a emissão da portaria de extensão.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:325514:por",
+    "alterador": "pt:dre:549249:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º\n\n1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no artigo anterior serão emitidas pelo Governo da República, nos termos da legislação nacional em vigor, e objecto de publicação no Boletim do Trabalho e Emprego e no jornal oficial de cada região autónoma.\n\n2 - O Ministro do Trabalho e Segurança Social comunicará às secretarias regionais competentes as oposições que forem deduzidas aos processos de extensão, no prazo de 10 dias a contar da data da respectiva recepção.\n\n3 - As oposições que respeitem a aspectos circunscritos exclusivamente às regiões autónomas deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.\n\n4 - Nos casos referidos no número anterior, as secretarias regionais comunicarão ao Ministério do Trabalho e Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção, após o que poderão emitir a respectiva portaria de extensão.\n\n5 - Quando for deduzida oposição à extensão objecto de aviso fora dos casos referidos nos números anteriores, os governos regionais só poderão proceder à emissão de portaria de extensão após comunicação pelo Ministério do Trabalho e Segurança Social do resultado da ponderação da referida oposição.\n\n6 - Quando não haja qualquer oposição à extensão objecto de aviso, os governos regionais poderão proceder à emissão de portaria de extensão, nos termos do artigo 1.º",
+    "depois": "###### Artigo 2.º\n\n1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.\n\n2 - As oposições deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.\n\n3 - As secretarias regionais comunicarão ao Ministério do Emprego e da Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção.\n\n4 - As secretarias regionais poderão proceder à emissão de portaria de extensão nos termos do n.º 1 do artigo anterior decorridos oito dias contados da data do envio da comunicação a que se refere o número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:325514:por",
+    "alterador": "pt:dre:549249:por"
+  }
+]

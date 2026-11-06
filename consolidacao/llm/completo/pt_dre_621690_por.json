@@ -1,0 +1,56 @@
+{
+  "id": "pt:dre:621690:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "alterador": 1,
+      "texto": "1 - A distribuição no continente de energia eléctrica em baixa tensão compete aos municípios, os quais podem exercê-la em regime de exploração directa ou em regime de concessão.\n\n2 - A exploração directa pelos municípios compreende a exploração por serviços autárquicos ou associações de municípios, incluindo federações.\n\n3 - A distribuição de energia eléctrica em baixa tensão, em regime de concessão, só pode ser exercida:\n\na) Pela Electricidade de Portugal (EDP), E. P.;\n\nb) Por empresas públicas de âmbito local ou regional, criadas nos termos que venham a ser definidos por lei.\n\nc) Por cooperativas.\n\n4 - Exceptuam-se do disposto nos números antecedentes:\n\na) As empresas concessionárias privadas existentes à data da entrada em vigor do presente diploma e enquanto subsistam as concessões respectivas;\n\nb) As entidades a quem seja reconhecida a qualidade de produtor e distribuidor independente de energia eléctrica, nos termos da [Lei n.º 21/82](https://diariodarepublica.pt/dr/detalhe/lei/21-1982-397341), de 28 de Julho."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "alterador": 2,
+      "texto": "1 - Os contratos de concessão entre os municípios e as entidades referidas nos n.os 3 e 4 do artigo 1.º serão celebrados pelo prazo de 20 anos, renováveis por iguais períodos, e a sua denúncia, no termo do prazo ou das suas prorrogações, deverá ser manifestada com uma antecedência mínima de dois anos.\n\n2 - O resgate contratual da concessão não poderá ser feito antes de decorridos cinco anos da sua vigência e deve ser notificado com a antecedência mínima de dois anos."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "alterador": 2,
+      "texto": "1 - Tanto a denúncia como o resgate da concessão serão subordinados às seguintes condições:\n\na) Estar assegurada a viabilidade económica da exploração em outros termos, com base no tarifário oficialmente aprovado;\n\nb) Transferência para o município concedente do património próprio da entidade concessionária afecto à exploração na respectiva área;\n\nc) Absorção dos trabalhadores da entidade concessionário ligados à exploração em causa, com salvaguarda dos direitos daqueles.\n\n2 - A denúncia e o resgate não poderão efectivar-se sem que se mostrem cumpridas as condições referidas no n.º 1.\n\n3 - As entidades concessionárias referidas nos n.os. 3 e 4 do artigo 1.º não poderão transferir o seu património próprio sem que se mostre pago o valor correspondente e se encontrem liquidados os débitos do município concedente provenientes de fornecimento de energia e de prestação de quaisquer outros serviços."
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "alterador": 3,
+      "texto": "1 - A concessão da distribuição de energia eléctrica em baixa tensão, prevista na alínea a) do n.º 3 do artigo 1.º, não envolve a alienação dos patrimónios próprios dos municípios concedentes, os quais se conservarão na propriedade destes, sem prejuízo da sua afectação à exploração pela EDP, a quem caberá o encargo da sua manutenção e reintegração.\n\n2 - Os municípios que tenham celebrado, ou venham a celebrar, com a EDP contrato de concessão de distribuição de energia eléctrica em baixa tensão terão direito a receber desta uma renda, a fixar por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e da Indústria e Energia."
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "alterador": 2,
+      "texto": "1 - Quando tenha lugar a denúncia da concessão, a indemnização a pagar pelo concedente compreenderá apenas o valor líquido do património próprio das entidades concessionárias referidas nos n.os. 3 e 4 do artigo 1.º afecto à exploração.\n\n2 - A avaliação dos patrimónios a transferir será feita por uma comissão formada por representantes de ambas as partes e presidida por um elemento designado por despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território e da Indústria e Energia, aos quais, também mediante despacho conjunto, competirá homologar o valor proposto."
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "alterador": 3,
+      "texto": "1 - A EDP tem o direito de reter o montante das rendas devidas, nos termos do presente decreto-lei, aos municípios que se encontrem em dívida para com ela, respeitante a facturações correntes, incluindo as de iluminação pública.\n\n2 - O estabelecido no número anterior não impede a EDP de exigir, utilizando para o efeito os mecanismos legais ao seu dispor, o pagamento de quaisquer dívidas dos municípios para com ela.\n\n3 - A EDP tem ainda o direito de reter as quantias devidas pela transferência de património, quando esta tenha lugar, aos municípios que se encontrem em dívida para com ela."
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 297/86), art. 1.º: aditada a alínea c) 'Por cooperativas.' ao n.º 3; resto mantido.",
+    "Alterador 2 (DL 341/90), art. 3.º: nova redação integral dos n.os 1 e 2.",
+    "Alterador 2, art. 4.º: n.º 1 corpo e alínea a) e n.º 2 mantidos; alíneas b) e c) do n.º 1 e n.º 3 com a nova redação.",
+    "Alterador 2, art. 7.º: nova redação dos n.os 1 e 2.",
+    "Alterador 2, art. 2.º do alterador (aplicação no tempo dos prazos): não altera o texto do original; ignorado.",
+    "Alterador 3 (DL 17/92), art. 6.º: n.º 1 mantido; n.º 2 com a nova redação.",
+    "Alterador 3, art. 12.º: nova redação integral (n.os 1 a 3).",
+    "Alterador 4 (DL 36/2004): só remete para o n.º 2 do artigo 6.º, mantendo regras em vigor; nenhuma alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

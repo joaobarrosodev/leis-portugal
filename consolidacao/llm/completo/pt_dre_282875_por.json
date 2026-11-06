@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:282875:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, artigo 11.º, n.º 1, alínea b): revoga o Decreto-Lei n.º 25/88 apenas 'na parte aplicável ao Gabinete do Primeiro-Ministro', com efeitos diferidos (n.º 2); é uma revogação parcial por âmbito, sem indicar texto a suprimir, e não se aplica textualmente.",
+  "instrucoes": [
+    "Alterador 1, art. 11.º, n.º 1, b): revogação do DL 25/88 na parte aplicável ao Gabinete do Primeiro-Ministro; revogação parcial não textual, não aplicada.",
+    "Alterador 1, art. 11.º, n.º 2: efeitos diferidos da revogação; sem alteração de texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

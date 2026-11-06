@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:322095:por",
+  "artigos": [
+    {
+      "chave": "23.º",
+      "epigrafe": "Conselho Superior de Polícia",
+      "texto": "1 - O Conselho Superior de Polícia é um órgão consultivo do comandante-geral e é composto por membros designados por inerência, membros nomeados e membros eleitos.\n\n2 - São membros designados por inerência:\n\na) O comandante-geral, que preside;\n\nb) O 2.º comandante-geral;\n\nc) Os superintendentes-gerais;\n\nd) O inspector-geral;\n\ne) O comandante da Escola Superior de Polícia;\n\nf) O comandante da Escola Prática de Polícia;\n\ng) Os comandantes metropolitanos;\n\nh) O comandante regional da Região Autónoma da Madeira e o comandante regional da Região Autónoma dos Açores mais graduado, aplicando-se subsidiariamente o princípio da maior antiguidade;\n\ni) O comandante das forças especiais;\n\nj) O subintendente mais antigo;\n\nl) O comissário mais antigo;\n\nm) O subcomissário mais antigo;\n\nn) O subchefe principal mais antigo;\n\no) O guarda principal mais antigo.\n\n3 - São membros nomeados três comandantes de comandos de polícia, a nomear pelo comandante-geral.\n\n4 - São membros eleitos três vogais eleitos de entre os candidatos apresentados pelas associações profissionais, nos termos da lei.",
+      "alterador": 1
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Comandante-geral",
+      "texto": "1 - O comandante-geral da PSP é nomeado pelo Ministro da Administração Interna e será um oficial general do Exército, um oficial de polícia de posto não inferior a superintendente-chefe, um magistrado judicial ou do Ministério Público, ou outra personalidade de reconhecida idoneidade.\n\n2 - As funções referidas no número anterior serão desempenhadas em comissão normal com a duração de quatro anos, considerando-se renovada se, até 30 dias antes do seu termo, o Ministro da Administração Interna, o Ministro da Defesa Nacional, neste caso quando a nomeação incidir em oficial-general do Exército, ou o interessado não tiverem manifestado a intenção de a fazer cessar.\n\n3 - Em qualquer momento a comissão de serviço referida no número anterior pode ser dada por finda por despacho do Ministro da Administração Interna, por iniciativa deste ou a requerimento do interessado.\n\n4 - Quando a nomeação incidir em oficiais-generais do Exército, a mesma depende de despacho dos Ministros da Defesa Nacional e da Administração Interna.",
+      "alterador": 2
+    },
+    {
+      "chave": "147.º",
+      "epigrafe": "Suplemento de residência",
+      "texto": "1 - Têm ainda direito a um suplemento de residência, nos termos estabelecidos no artigo 102.º e por um período até 24 meses, quando se proceda à extinção da unidade policial na qual prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, subchefes e guardas colocados por imposição em local distanciado em mais de 30 km da sede do comando da unidade extinta ou da localidade da sua residência habitual.\n\n2 - Não é concedido suplemento de residência nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.\n\n3 - Os oficiais, subchefes e guardas que prestaram serviço a partir de 1 de Janeiro de 1992 nas unidades policiais extintas antes da data de entrada em vigor da presente Lei Orgânica, no âmbito do processo de reestruturação das forças de segurança, têm direito ao suplemento previsto no n.º 1, nos termos aí prescritos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Lei n.º 5/99, art. 107.º: revogação genérica de «toda a legislação respeitante a atribuições, organização e funcionamento da PSP», mantendo o DL 321/94 quanto ao estatuto do pessoal «em tudo o que não o contrariar» — não identifica artigos, revogação condicional/não textual, não aplicada. DL 320/98, art. 4.º: derrogação temporária dos arts. 119.º, 122.º n.º 1 b) e 133.º durante a vigência desse diploma — não é alteração textual, não aplicada.",
+  "instrucoes": [
+    "DL 255/95 art. 1.º: nova redação do art. 23.º, só a alínea h) do n.º 2 muda (resto «...»); aplicada.",
+    "DL 255/95 art. 1.º: art. 147.º, n.os 1 e 2 «...», aditado n.º 3; aplicado.",
+    "DL 255/95 arts. 2.º a 4.º: alteram o DL 298/91 e o Regulamento Disciplinar (Lei 7/90), outros diplomas; ignorados.",
+    "DL 2-A/96 artigo único: nova redação do n.º 1 do art. 60.º (n.os 2 a 4 «...»); aplicada.",
+    "DL 320/98: regime transitório próprio; art. 4.º derroga temporariamente arts. 119.º, 122.º n.º 1 b) e 133.º — não textual, em nao_aplicavel.",
+    "Lei 5/99 art. 101.º: norma transitória, sem alteração do texto; art. 107.º revogação genérica não textual — em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

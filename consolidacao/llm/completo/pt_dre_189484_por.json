@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:189484:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "DL n.º 62/2013, artigo 13.º, n.º 1: revoga o DL 32/2003, com exceção dos artigos 6.º e 8.º, mas mantém-no em vigor para os contratos celebrados antes da entrada em vigor do DL 62/2013. É uma revogação com ressalva de vigência (como as condicionais), por isso não marquei os artigos 1.º a 5.º, 7.º, 9.º e 10.º como «(Revogado.)».",
+  "instrucoes": [
+    "DL 324/2003 (alterador 1): não traz texto dirigido ao original — nada a aplicar",
+    "DL 107/2005, artigo 5.º: nova redação dos n.os 2 a 4 do artigo 7.º — o texto atual já está assim; sem mudança",
+    "DL 107/2005, artigos 1.º a 4.º e 6.º: alteram o DL 269/98 e o seu regime anexo — não são do original; ignorados",
+    "Lei 14/2006: altera o CPC, o Estatuto da Câmara dos Solicitadores, o regime anexo ao DL 269/98 e o DL 202/2003 — não são do original; ignorada",
+    "DL 303/2007, Lei 67-A/2007, DL 34/2008, DL 226/2008: não trazem texto dirigido ao original — nada a aplicar",
+    "Lei 3/2010, artigo 2.º: nova redação da alínea d) do n.º 2 do artigo 4.º — o texto atual já está assim; sem mudança",
+    "DL 62/2013, artigo 13.º, n.º 1: revoga o diploma, salvo os artigos 6.º e 8.º, mantendo-o em vigor para os contratos anteriores — não aplicado (ver nao_aplicavel)",
+    "Acórdão TC 99/2019: declara inconstitucionais os n.os 3 e 5 do artigo 12.º do regime anexo ao DL 269/98 — não é norma do original; ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º\n\n1. A admissão ao Q. P. C. M. M. realiza-se mediante concurso ou por escolha, observadas as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e segundo for estabelecido por despacho do Ministro da Marinha.\n\n2. O recrutamento de guardas de 2.ª classe do Corpo de Polícia dos Estabelecimentos de Marinha pode efectuar-se entre o pessoal já pertencente ao Q. P. C. M. M., em condições a fixar, igualmente, por despacho do Ministro da Marinha.\n\n3. As habilitações mínimas referidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) podem ser substituídas por habilitações adquiridas nos estabelecimentos de ensino do Ministério da Marinha, quando se trate do provimento de lugares dos seguintes grupos do mapa anexo a este diploma:\n\nPessoal de pilotagem;\n\nCorpo de Polícia Marítima;\n\nCorpo de Polícia dos Estabelecimentos de Marinha;\n\nCabos-de-mar;\n\nPessoal de faróis;\n\nTroço do mar.",
+    "depois": "###### Artigo 4.º\n\n1. A admissão ao Q. P. C. M. M. realiza-se mediante concurso ou por escolha, observadas as disposições do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e segundo for estabelecido por despacho do Ministro da Marinha.\n\n2. O recrutamento de guardas de 2.ª classe do Corpo de Polícia dos Estabelecimentos de Marinha pode efectuar-se entre o pessoal já pertencente ao Q. P. C. M. M., em condições a fixar, igualmente, por despacho do Ministro da Marinha.\n\n3. As habilitações mínimas referidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301) podem ser substituídas por habilitações adquiridas nos estabelecimentos de ensino do Ministério da Marinha, quando se trate do provimento de lugares dos seguintes grupos do mapa anexo a este diploma:\n\nPessoal de pilotagem;\n\nCorpo de Polícia Marítima;\n\nCorpo de Polícia dos Estabelecimentos de Marinha;\n\nCabos-de-mar;\n\nPessoal de faróis;\n\nTroço do mar.\n\n4. O disposto no número anterior também é aplicável aos auxiliares técnicos de especialidades para para as quais os estabelecimentos de ensino do Ministério da Marinha ministrem preparação adequada.\n\n> Alterado pelo/a [Decreto-Lei n.º 95/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1972-396736), publicado em 1972-03-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146259:por",
+    "alterador": "pt:dre:396736:por;pt:dre:331858:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º\n\n1. O disposto no artigo anterior também é aplicável aos cabos-de-mar e aos mateiros, que para esse efeito são considerados como pertencendo, respectivamente, ao Corpo de Policia Marítima e ao Corpo de Polícia dos Estabelecimentos de Marinha.\n\n2. Para os fins de que trata o artigo anterior a hierarquia dos cabos-de-mar e dos mateiros é a seguinte:\n\na) Equiparação a segundo-sargento - cabos-de-mar de 1.ª e de 2.ª classes;\n\nb) Equiparação a cabo - cabos-de-mar de 3.ª classe e mateiro-chefe;\n\nc) Equiparação a marinheiro - mateiros.",
+    "depois": "###### Artigo 11.º\n\n1. O disposto no artigo anterior também é aplicável aos cabos-de-mar e aos mateiros, que para esse efeito são considerados como pertencendo, respectivamente, ao Corpo de Policia Marítima e ao Corpo de Polícia dos Estabelecimentos de Marinha.\n\n2. Para os fins de que trata o artigo anterior, a hierarquia dos cabos-de-mar e dos mateiros é a seguinte:\n\na) Equiparação a primeiro-sargento - cabos-de-mar de 1.ª classe;\n\nb) Equiparação a segundo-sargento - cabos-de-mar de 2.ª classe;\n\nc) Equiparação a cabo - cabos-de-mar de 3.ª classe e mateiro-chefe;\n\nd) Equiparação a marinheiro - mateiros.\n\n> Alterado pelo/a [Decreto-Lei n.º 95/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1972-396736), publicado em 1972-03-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146259:por",
+    "alterador": "pt:dre:396736:por;pt:dre:331858:por"
+  },
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º\n\nO funcionamento dos concursos de admissão ou promoção, respectivos programas, forma de classificação e constituição dos júris serão regulados por despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal (4.ª Repartição).",
+    "depois": "###### Artigo 6.º\n\n1 - O funcionamento dos concursos de admissão ou promoção, respectivos programas, forma de classificação e constituição dos júris serão regulados por despacho do Ministro da Marinha, mediante proposta da Direcção do Serviço do Pessoal (4.ª Repartição).\n\n2 - A aplicação do disposto no número anterior ao pessoal de informática subordina-se ao que estiver estabelecido nas normas em vigor sobre admissão e promoção nos quadros do pessoal civil de informática das forças armadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 26/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1978-331858), publicado em 1978-01-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:146259:por",
+    "alterador": "pt:dre:396736:por;pt:dre:331858:por"
+  }
+]

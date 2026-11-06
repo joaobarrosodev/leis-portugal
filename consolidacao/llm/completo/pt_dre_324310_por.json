@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:324310:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "No abono de ajudas de custo por deslocação são ainda de observar as seguintes normas:\n\n1.ª Se, relativamente ao serviço a que o militar pertencer, não houver disposição legal que limite o tempo de deslocação para efeitos de ajudas de custo, não poderá este abono ter lugar além do período de 90 dias seguidos de deslocação, salvo se o mesmo for autorizado, para casos excepcionais, ainda que sob a forma de nova diligência, mediante despacho fundamentado do Ministro da Defesa Nacional, com o acordo do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública.\n\n2.ª Exceptuam-se do disposto na alínea anterior as deslocações de militares que tenham funções de inspecção ou sejam encarregados de inquéritos, sindicâncias ou processos disciplinares, para execução dos quais tenha sido previamente marcado um período superior, ou ainda, sejam instrutores, monitores ou instruendos de cursos ou estágios ou outras modalidades de instrução cuja duração seja superior àquele período;\n\n3.ª As marchas ou deslocações a requisição dos tribunais civis não dão direito a ajudas de custo, quando se trate de depor sobre factos que não tenham origem em actos de serviço;\n\n4.ª Não se verifica o direito ao abono de ajudas de custo quando a marcha ou a deslocação seja consequência de procedimento disciplinar ou judicial ou relativa às alterações que se seguirem ao termo de cumprimento da penalidade ou, ainda, resultante do regresso do militar ao serviço do ramo a que pertence, proveniente da situação de comissão civil em departamento não militar, de licença ilimitada ou de outra semelhante;\n\n5.ª Os militares de complemento que vêm da disponibilidade ou da situação de licenciados, por terem sido convocados ou chamados a prestar serviço, não têm direito ao abono de ajudas de custo:\n\na) Quando da primeira apresentação, mesmo que esta seja determinada para unidades ou estabelecimentos militares diferentes daqueles a que os interessados pertenciam normalmente;\n\nb) Quando na frequência de cursos, estágios ou tirocínios nos centros de instrução ou escolas onde serão colocados durante esta situação;\n\n6.ª A ajuda de custo não é abonada quando aos interessados são fornecidos alojamento e alimentação em bivaque, acantonamentos ou acampamentos em que a instalação das forças constituídas é da responsabilidade do Estado;\n\n7.ª Não há lugar para o abono de ajudas de custo aos militares que tomem parte em manobras ou quaisquer exercícios para os quais esteja ou venha a estar estabelecido regime especial;\n\n8.ª As ausências ao serviço, por motivo de nojo ou de doença, não interrompem o abono de ajudas do custo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 4 (DL 172/94), art. 11.º, n.º 2: 'A distância prevista no artigo 10.º do Decreto-Lei n.º 119/85 passa a ser de 30 km' é uma alteração material, não textual (não dá nova redação ao artigo 10.º), pelo que não foi aplicada ao texto. Alteradores 2 (DL 118/88) e 3 (DL 97/89), art. 3.º: fixam os valores das ajudas de custo, que não constam do texto do original (tabela fixada por portaria, art. 17.º); não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1 (DL 56/88), artigo único: nova redação da norma 1.ª do artigo 7.º — aplicada; restantes normas copiadas do texto atual.",
+    "Alterador 2 (DL 118/88), art. 3.º: novos valores das ajudas de custo — sem texto correspondente no original; não aplicado.",
+    "Alterador 3 (DL 97/89), art. 3.º: novos valores das ajudas de custo — sem texto correspondente no original; não aplicado.",
+    "Alterador 4 (DL 172/94), art. 11.º, n.º 2: distância do artigo 10.º passa a 30 km — alteração não textual; registada em nao_aplicavel. N.º 1 do mesmo artigo só remete para o artigo 10.º, sem o alterar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

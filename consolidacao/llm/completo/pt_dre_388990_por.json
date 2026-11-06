@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:388990:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - O provimento do pessoal é da competência do membro do Governo do departamento respectivo e será feito por nomeação ou contrato, de harmonia com o estabelecido na lei em vigor, e, enquanto não se encontrar em funcionamento a Secção Regional do Tribunal de Contas, deverão os respectivos processos, previamente, obter parecer da Secretaria Regional da Administração Pública.\n\n2 - Sem prejuízo do que se encontra estabelecido na lei geral e nas leis orgânicas regionais quanto a concursos e cursos para o ingresso e acesso em determinados cargos, e enquanto não for publicada legislação que regulamente os métodos de selecção e de classificação de serviço, poderão os membros do Governo condicionar o provimento dos lugares a concurso documental ou à aprovação dos funcionários em concurso de prestação de provas ou ainda à frequência, com aproveitamento, de cursos de aperfeiçoamento, cabendo ao responsável pelo departamento respectivo e ao Secretário Regional da Administração Pública fixarem por portaria conjunta as condições e os programas desses concursos e cursos.\n\n3 - Os lugares de servente serão providos por contrato, ficando os respectivos titulares que sejam encarregados da limpeza das instalações sujeitos ao horário de trabalho que for fixado pelo chefe de secretaria, tendo em conta as circunstâncias do serviço e sem prejuízo das normas respeitantes ao horário máximo e ao trabalho nocturno.\n\n4 - Para a contagem do tempo de bom e efectivo serviço na classe ou na categoria legalmente exigido para efeitos de concurso ou promoção será tido em consideração o tempo em que o funcionário haja prestado serviço, sem interrupção e a tempo inteiro, em departamento da administração central, regional e local, no exercício de idênticas funções na mesma carreira, e na situação de contratado fora do quadro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DRR 15/81/A), artigo único: nova redação do n.º 4 do artigo 3.º; substituído o n.º 4, mantidos os n.os 1 a 3.",
+    "Alterador 2 (DRR 5/87/A): substitui o quadro de pessoal do Hospital de Ponta Delgada aprovado pelo DRR 14/81/A; só invoca o n.º 3 do artigo 1.º do original, não o altera; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

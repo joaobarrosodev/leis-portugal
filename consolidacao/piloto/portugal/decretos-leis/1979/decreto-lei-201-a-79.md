@@ -742,7 +742,7 @@ e) Outras despesas correntes.
 
 3 - Do disposto nos dois números anteriores ficam exceptuados os departamentos militares e militarizados e os serviços do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 15.º — (Finanças locais)
+###### Artigo 15.º — Finanças locais
 
 1 - A distribuição pelos municípios das receitas fiscais a que têm direito em 1979, por força das alíneas b) e c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), e nos termos do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho, consta do mapa anexo n.º 4 ao presente decreto-lei e respeitará os princípios e as regras constantes dos números seguintes.
 

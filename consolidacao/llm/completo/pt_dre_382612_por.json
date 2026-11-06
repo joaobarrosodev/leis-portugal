@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:382612:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 441/86): é um diploma autónomo que reformula o regime com articulado próprio (arts. 1.º a 15.º), sem instruções de nova redação dirigidas a artigos do DL 138/79; nada a aplicar.",
+    "Alterador 1, art. 16.º: revoga o DL 138/79 'em tudo o que contrariar o disposto neste diploma' — revogação condicional, não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

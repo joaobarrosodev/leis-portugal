@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - As tabelas de emolumentos devidos pelos actos praticados nos serviços dos registos e do notariado são aprovadas por portaria do Ministro da Justiça e revistas anualmente.\n\n2 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça e constituem exclusivo da respectiva Direcção-Geral, aplicando-se-lhes o regime previsto no artigo 74.º do [Decreto-Lei n.º 144/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1983-312427), de 31 de Março.\n\n3 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.",
+    "depois": "###### Artigo 3.º\n\n1 - Os emolumentos e taxas devidos pela prestação dos serviços de registo e de identificação civil são fixados por portaria do membro do Governo responsável pela área da justiça.\n\n2 - Os preços de venda de bens conexos com a prestação de serviços no âmbito dos registos e da identificação civil são fixados por despacho do presidente do Instituto dos Registos e do Notariado, I. P.\n\n3 - Os impressos usados pelos serviços dos registos e do notariado são aprovados por portaria do Ministro da Justiça.\n\n4 - Os conservadores e notários devem remeter mensalmente à Direcção-Geral dos Registos e do Notariado, de harmonia com as instruções por esta emitidas, nota detalhada de todas as importâncias arrecadadas, despesas efectuadas e saldos depositados.\n\n> Alterado pelo/a [Decreto-Lei n.º 318/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2007-642051), publicado em 2007-09-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:152365:por",
+    "alterador": "pt:dre:642051:por"
+  }
+]

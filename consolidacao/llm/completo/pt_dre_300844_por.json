@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:300844:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1 a 5, 8, 10, 11 e 12 acrescentam ou substituem plantas do anexo, que só existem em imagem; não aplicáveis ao texto. Alteradores 6, 7, 9 e 13 prorrogam a vigência das medidas preventivas sem alterar a redação do artigo 7.º; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1 (DL 319/2000): acrescenta e substitui plantas do anexo (imagem); não aplicado.",
+    "Alterador 2 (DL 203-B/2001): substitui plantas do anexo (imagem); não aplicado.",
+    "Alterador 3 (DL 251/2001): substitui plantas de Almada-Costa da Caparica (imagem); não aplicado.",
+    "Alterador 4 (DL 318/2001): acrescenta planta de Setúbal (imagem); não aplicado.",
+    "Alterador 5 (DL 103/2002): substitui e acrescenta plantas (imagem); não aplicado.",
+    "Alterador 6 (DL 212/2002): prorroga por um ano as medidas preventivas; não altera o texto do original.",
+    "Alterador 7 (DL 314/2002): prorroga por um ano as medidas preventivas de certas zonas; não altera o texto.",
+    "Alterador 8 (DL 161/2004): substitui plantas da Costa da Caparica (imagem); não aplicado.",
+    "Alterador 9 (DL 198/2004): prorroga por um ano as medidas preventivas de certas zonas; não altera o texto.",
+    "Alterador 10 (DL 149/2005): substitui plantas de Coimbra e Tomar (imagem); não aplicado.",
+    "Alterador 11 (DL 232/2006): substitui planta de Viseu (imagem); não aplicado.",
+    "Alterador 12 (DL 388/2007): substitui planta de Vila Nova de Gaia (imagem); não aplicado.",
+    "Alterador 13 (RCM 21/2009): prorroga medidas preventivas do DL 232/2006 para Viseu; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
