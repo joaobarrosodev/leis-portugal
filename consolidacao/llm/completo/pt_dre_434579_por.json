@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:434579:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "Independentemente da data em que se verificar a colocação do pessoal nos novos quadros, nos termos do artigo 6.º do presente diploma, considera-se que, para efeitos de pagamento de remunerações e cálculo de antiguidades, as respectivas colocações se efectuaram em 1 de Janeiro de 1978.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 1, 3, 4, 6 a 16: abatem, acrescentam ou integram lugares nos mapas I e II anexos, que só existem em imagem ('ver documento original'); não é possível aplicar ao texto. Alterador 5 (Decreto-Lei n.º 193-D/80) estende a aplicação do artigo 9.º a outro pessoal sem alterar o texto.",
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 7/79), art. 2.º: abate lugares nos mapas anexos; mapas só em imagem, não aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 166/79): nova redação do artigo 9.º. Aplicado.",
+    "Alterador 3 (Decreto-Lei n.º 368/79), art. 5.º, n.º 1: acrescenta lugares ao mapa I; mapa só em imagem, não aplicado.",
+    "Alteradores 4, 6, 7, 8, 9, 10, 11, 13, 14, 15 (portarias): criam ou aditam lugares no mapa I; mapa só em imagem, não aplicado.",
+    "Alterador 5 (Decreto-Lei n.º 193-D/80): manda aplicar o artigo 9.º a pessoal não provido; não textual, não aplicado.",
+    "Alterador 12 (Decreto-Lei n.º 319/81), art. 1.º: integra lugar no quadro do mapa I; mapa só em imagem, não aplicado.",
+    "Alterador 16 (Decreto n.º 79/82), art. 1.º, n.º 2: integra lugares nos quadros únicos; mapas só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

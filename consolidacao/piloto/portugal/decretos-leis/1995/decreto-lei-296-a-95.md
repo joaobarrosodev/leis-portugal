@@ -162,6 +162,12 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 ###### Artigo 7.º
 
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.
+
+> Alterado pelo/a [Decreto-Lei n.º 55/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1998-186543), publicado em 1998-03-16.
+
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
+
 ###### Artigo 8.º
 
 (Revogado.)
@@ -655,9 +661,3 @@ O Presidente da República, MÁRIO SOARES.
 Referendado em 17 de Novembro de 1995.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.
-
-> Alterado pelo/a [Decreto-Lei n.º 55/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1998-186543), publicado em 1998-03-16.
-
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.

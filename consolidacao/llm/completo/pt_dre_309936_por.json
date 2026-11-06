@@ -1,0 +1,188 @@
+{
+  "id": "pt:dre:309936:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "(Número de distribuição dos Deputados)",
+      "texto": "1 - No território eleitoral, em cada círculo eleitoral, haverá um Deputado por 25000 eleitores inscritos ou resto superior a 12500.\n\n2 - Até 26 de Fevereiro de 1975, o Governo publicará, por decreto, o mapa com o número dos Deputados e sua distribuição pelos círculos.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Organização das listas)",
+      "texto": "1 - As listas propostas à eleição devem conter a indicação de candidatos em número igual ao dos mandatos atribuídos ao respectivo colégio eleitoral, devendo nas listas uninominais existir um candidato suplente.\n\n2 - Os candidatos de cada lista considerar-se-ão ordenados segundo a sequência constante da respectiva declaração de candidatura.",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Vagas ocorridas na Assembleia)",
+      "texto": "1 - As vagas ocorridas na Assembleia Constituinte serão preenchidas pelo primeiro candidato não eleito, na respectiva ordem de precedência, da lista a que pertencia o titular do mandato vago.\n\n2 - Não haverá lugar ao preenchimento de vagas no caso de já não existirem candidatos não eleitos na lista a que pertencia o titular do mandato vago ou de nas listas uninominais já ter sido considerado eleito o candidato suplente.",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Composição e designação dos membros)",
+      "texto": "1. A Comissão Nacional das Eleições será composta por:\n\na) Um juiz conselheiro do Supremo Tribunal de Justiça, presidente;\n\nb) Três representantes militares do Movimento das Forças Armadas;\n\nc) Um representante de cada um dos seguintes Ministérios: Coordenação Interterritorial, Administração Interna, Negócios Estrangeiros e Comunicação Social;\n\nd) Cinco técnicos de reconhecida idoneidade que se identifiquem com o Programa do Movimento das Forças Armadas.\n\n2. Os membros da Comissão indicados nas alíneas a), c) e d) são da livre escolha do Governo Provisório.\n\n3. A Comissão Nacional das Eleições, quando entender conveniente, pode consultar separadamente ou em conjunto os partidos políticos que se encontrem devidamente legalizados e concorram às eleições.",
+      "alterador": 8
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Funcionamento)",
+      "texto": "1. A Comissão Nacional das Eleições funcionará em plenário e as suas deliberações serão tomadas pela maioria dos membros presentes.\n\n2. Compete ao presidente assegurar o funcionamento eficiente da Comissão, com todos os poderes para o efeito necessários, nomeadamente os de excluir de qualquer sessão ou definitivamente da Comissão os membros que pela sua conduta dificultem ou impossibilitem os respectivos trabalhos.\n\n3. Das decisões do presidente da Comissão, a que se refere o número anterior, cabe recurso, sem efeito suspensivo, para a Junta de Salvação Nacional, nos termos do artigo 2.º da Lei Constitucional n.º 4/75, desta data.",
+      "alterador": 6
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Apresentação das candidaturas)",
+      "texto": "1 - A apresentação das candidaturas cabe aos órgãos competentes dos partidos políticos.\n\n2 - A apresentação faz-se, até 3 de Março de 1975, perante o corregedor-presidente do círculo judicial com sede na capital do distrito e, nos círculos eleitorais de Lisboa e Porto, perante o corregedor-presidente da 1.ª Vara Cível.\n\n3 - Terminado o prazo para apresentação das listas, o corregedor mandará afixar cópia das mesmas à porta do edifício do tribunal.",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Reclamação)",
+      "texto": "1 - Das decisões do corregedor relativas à apresentação das candidaturas poderão reclamar, até quarenta e oito horas após a notificação da decisão, para o próprio corregedor, os candidatos, os seus mandatários e os partidos políticos concorrentes à eleição no círculo.\n\n2 - O corregedor deverá decidir no prazo de quarenta e oito horas.\n\n3 - Quando não haja reclamações ou decididas as que tenham sido apresentadas, o corregedor mandará afixar à porta do edifício do tribunal uma relação completa de todas as listas admitidas.\n\n4 - Ao governador civil será enviada cópia das referidas listas.",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Sorteio das listas apresentadas)",
+      "texto": "1 - No dia 8 de Março o corregedor procederá ao sorteio das listas que tenham sido apresentadas à eleição na presença dos candidatos ou seus mandatários, para efeito de lhes atribuir uma ordem nos boletins de voto.\n\n2 - A realização do sorteio não implica a admissão das candidaturas, devendo considerar-se sem efeito relativamente à lista ou listas que, nos termos dos artigos 29.º, 30.º, 35.º e seguintes, venham a ser definitivamente rejeitadas.",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Auto do sorteio)",
+      "texto": "1 - Da operação referida no artigo anterior lavrar-se-á auto.\n\n2 - À Comissão Nacional das Eleições e ao tribunal da relação do distrito judicial respectivo serão enviadas cópias do auto.\n\n3 - Ao governador civil será enviada cópia do auto.",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Assembleias de voto)",
+      "texto": "1 - A cada freguesia corresponde uma assembleia de voto.\n\n2 - As assembleias de voto das freguesias com mais de 500 eleitores serão divididas em secções de voto de maneira a que o número de eleitores de cada uma não ultrapasse sensivelmente esse limite.\n\n3 - Desde que a comodidade dos eleitores não seja seriamente prejudicada, poderão ser anexadas as assembleias de voto de freguesias vizinhas se o número de eleitores de cada uma for inferior a 500 e a soma deles não ultrapassar sensivelmente esse número.\n\n4 - Compete ao presidente da câmara ou da comissão administrativa municipal, ou, nos concelhos onde existirem bairros administrativos, aos administradores de bairro respectivos, fixar até ao dia 12 de Março os desdobramentos e anexações previstos nos números anteriores, comunicando-os imediatamente às juntas de freguesia interessadas. Da decisão podem estas, ou dez eleitores, pelo menos, de qualquer das assembleias de voto, recorrer no prazo de cinco dias para o governador civil, o qual decidirá definitivamente em igual prazo.",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Local das assembleias de voto)",
+      "texto": "1 - As assembleias de voto deverão reunir-se em edifícios públicos, de preferência escolas, sedes de municípios ou juntas de freguesia, que ofereçam as indispensáveis condições de capacidade, segurança e acesso. Na falta de edifício público em condições toleráveis recorrer-se-á a um edifício particular requisitado para o efeito.\n\n2 - Compete ao presidente da câmara ou da comissão administrativa municipal, ou, nos concelhos onde existirem bairros administrativos, aos administradores de bairro respectivos, determinar os locais em que funcionarão as assembleias eleitorais.",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Editais sobre as assembleias de voto)",
+      "texto": "1 - Até ao dia 23 de Março os presidentes das câmaras ou das comissões administrativas municipais, ou, nos concelhos onde existirem bairros administrativos, os administradores de bairro respectivos, por editais afixados nos lugares de estilo, anunciarão o dia, hora e locais em que se reunirão as assembleias de voto e os desdobramentos e anexações destas, se a eles houver lugar.\n\n2 - No caso de desdobramento ou anexação de assembleias de voto, constará igualmente dos editais a indicação dos cidadãos que deverão votar em cada assembleia.",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Mesas das assembleias de voto)",
+      "texto": "1 - Em cada assembleia de voto será constituída uma mesa para promover e dirigir as operações eleitorais.\n\n2 - A mesa será composta por um presidente e respectivo suplente, e três vogais, sendo um secretário e dois escrutinadores.\n\n3. Os membros da mesa deverão saber ler e escrever português e, salvo nos casos previstos no artigo 49.º, n.º 3, deverão fazer parte da assembleia ou secção de voto para que foram nomeados.\n\n4 - Salvo motivo de força maior ou justa causa, é obrigatório o desempenho das funções de membro da mesa da assembleia de voto.",
+      "alterador": 7
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Designação dos delegados das listas)",
+      "texto": "1 - Até ao dia 26 de Março os candidatos, ou os mandatários, das diferentes listas indicarão, por escrito, ao presidente da câmara ou da comissão administrativa municipal, ou, nos concelhos onde existirem bairros administrativos, aos administradores de bairro respectivos, tantos delegados e tantos suplentes quantas as secções de voto em que haja sido desdobrada a assembleia de voto.\n\n2 - A cada delegado, bem como a cada suplente, será antecipadamente entregue uma credencial a ser preenchida pelo partido, coligação ou frente, devendo ser apresentada para assinatura e autenticação à autoridade referida no número anterior quando da indicação nesse número exigida.\n\n3 - Não é lícito aos partidos impugnar a eleição nas secções de voto com base em falta de delegado seu.",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "(Designação dos membros da mesa)",
+      "texto": "1 - No 20.º dia e até ao 17.º dia anterior ao dia designado para a eleição deverão os delegados reunir-se na sede da junta de freguesia para proceder à escolha dos membros da mesa das secções de voto, devendo essa escolha ser imediatamente comunicada ao presidente da câmara ou da comissão administrativa municipal; quando haja sido desdobrada a assembleia de voto, estará presente à reunião apenas um delegado de cada lista de entre todos os que houverem sido propostos pelos candidatos ou pelos mandatários das diferentes listas.\n\n2 - Na falta de acordo, o delegado de cada lista proporá, no 16.º e no 15.º dias anteriores ao dia designado para a eleição, por escrito, ao presidente da câmara da comissão administrativa municipal dois cidadãos por cada lugar ainda por preencher para que entre eles faça a escolha, no prazo de vinte e quatro horas, através de sorteio efectuado no edifício da câmara municipal ou da administração do bairro e na presença dos delegados das listas concorrentes à eleição na secção de voto em causa. Nos casos em que não tenham sido propostos cidadãos pelos delegados das listas, competirá ao presidente da câmara ou da comissão administrativa municipal nomear os membros da mesa cujos lugares estejam por preencher.\n\n3 - Nas assembleias de voto em que o número de cidadãos com os requisitos necessários à constituição das mesas das secções de voto seja comprovadamente insuficiente, compete aos presidentes das câmaras ou das comissões administrativas municipais dos respectivos concelhos nomear, de entre os cidadãos eleitores residentes na área do concelho, preferentemente na área da respectiva freguesia, os membros em falta. Para tal, os presidentes das câmaras ou das comissões administrativas municipais requererão à comissão de recenseamento onde o cidadão se encontrava inscrito a passagem em duplicado de uma certidão de eleitor, cujo original a comissão de recenseamento enviará à mesa da secção de voto do destino até cinco dias antes da eleição, para aditamento do nome ao caderno eleitoral, sendo a cópia remetida, simultaneamente, ao requerente.\n\n4 - Os nomes dos membros da mesa, escolhidos pelos delegados das listas ou pelas autoridades referidas nos números anteriores, constarão de edital afixado, no prazo de quarenta e oito horas, à porta da sede da junta de freguesia, e contra a escolha poderá qualquer eleitor reclamar perante o presidente da câmara ou da comissão administrativa municipal nos dois dias seguintes, com fundamento em preterição dos requisitos fixados na presente lei.\n\n5 - Aquela autoridade decidirá a reclamação em vinte e quatro horas e, se a atender, procederá imediatamente a nova designação através de sorteio efectuado no edifício da câmara municipal ou da administração de bairro e na presença dos delegados das listas concorrentes à eleição na secção de voto em causa.\n\n6 - Até cinco dias antes do dia da eleição, o presidente da câmara ou da comissão administrativa municipal lavrará o alvará de nomeação dos membros das mesas das assembleias eleitorais e participará as nomeações ao governador civil e às juntas de freguesia competentes.\n\n7 - Para os efeitos dos n.os 1, 2, 4, 5 e 6 deste artigo, nos concelhos onde existirem bairros administrativos a competência atribuída ao presidente da câmara ou da comissão administrativa municipal caberá aos administradores de bairro respectivos.",
+      "alterador": 10
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "(Cadernos eleitorais)",
+      "texto": "1 - Logo que definidas as assembleias de voto e designados os membros das respectivas mesas, cada uma destas deverá extrair duas cópias ou fotocópias dos cadernos de recenseamento, cuja exactidão será confirmada pela comissão de recenseamento, e destinadas aos escrutinadores.\n\nOs delegados das listas poderão extrair também cópia ou fotocópia dos cadernos.\n\n2 - Quando houver desdobramento da assembleia de voto, as cópias ou fotocópias abrangem apenas as folhas do caderno correspondentes aos eleitores que hajam de votar em cada secção de voto.\n\n3 - As cópias ou fotocópias previstas nos números anteriores deverão ser obtidas o mais tardar até dois dias antes da eleição.",
+      "alterador": 2
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "(Outros elementos de trabalho da mesa)",
+      "texto": "1. O presidente da câmara ou da comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, o administrador de bairro entregará a cada presidente das assembleias ou secções de voto, até três dias antes do dia designado para a eleição, um caderno destinado às actas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.\n\n2. As entidades referidas no número anterior entregarão também, a cada presidente das assembleias ou secções de voto, até três dias antes do dia designado para a eleição, os boletins de voto que lhes foram remetidos pelo governador civil.",
+      "alterador": 7
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "(Início e termo da campanha eleitoral)",
+      "texto": "O período da campanha eleitoral inicia-se em 2 de Abril de 1975 e finda na antevéspera do dia marcado para a eleição.",
+      "alterador": 9
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "(Direito de antena)",
+      "texto": "1 - Os partidos políticos terão direito de acesso, para propaganda eleitoral, às estações de rádio e televisão, tanto públicas como privadas.\n\n2 - Durante o período da campanha eleitoral, as estações de rádio e televisão reservarão os seguintes tempos de emissão:\n\na) A Radiotelevisão Portuguesa:\n\nDe segunda a sexta-feira - dez minutos de período de emissão entre as 12 horas e 45 minutos e as 14 horas e 15 minutos e trinta minutos no período entre as 20 horas e as 23 horas, estes últimos imediatamente a seguir ao serviço informativo;\n\nAos sábados - dez minutos no período de emissão entre as 12 horas e 45 minutos e as 14 horas e 15 minutos e quarenta minutos no período entre as 20 horas e as 23 horas, estes últimos imediatamente a seguir ao serviço informativo;\n\nAos domingos - trinta minutos das 20 horas às 20 horas e 30 minutos;\n\nb) A Emissora Nacional (ondas média e de frequência modulada), ligada a todos os seus emissores regionais - noventa minutos diários, dos quais sessenta minutos entre as 18 horas e as 20 horas;\n\nc) Os emissores regionais da Emissora Nacional - trinta minutos diários;\n\nd) As estações privadas (ondas média e de frequência modulada), ligadas a todos os seus emissores, quando os tiverem - duas horas diárias, das quais uma hora entre as 20 horas e as 24 horas;\n\n3 - Até vinte e quatro horas antes da abertura da campanha, as estações devem indicar à Comissão Nacional das Eleições o horário previsto para as emissões.",
+      "alterador": 2
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "(Salas de espectáculos)",
+      "texto": "1 - Os proprietários de salas de espectáculos ou de outros recintos de normal utilização pública que reúnam condições para serem utilizados na campanha eleitoral deverão declará-lo ao governador civil do distrito até dez dias antes da abertura da campanha, indicando as datas e horas em que as salas ou recintos poderão ser utilizados para aquele fim. Na falta de declaração ou em caso de comprovada carência, o governador civil pode requisitar as salas e os recintos que considere necessários à campanha eleitoral, sem prejuízo da actividade normal e programada para os mesmos.\n\n2 - O tempo destinado a propaganda eleitoral, nos termos do número anterior, será repartido igualmente pelos partidos políticos e coligações ou frentes que o desejem e tenham apresentado candidaturas no círculo onde se situar a sala.\n\n3 - Até quarenta e oito horas depois da abertura da campanha, o governador civil, ouvidos os mandatários das listas, indicará os dias e horas atribuídos a cada partido e coligação ou frente, de modo a assegurar a igualdade entre todos.",
+      "alterador": 2
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "(Limites à publicação e difusão de propaganda eleitoral)",
+      "texto": "1 - As publicações referidas no artigo 66.º, n.º 1, que não tenham feito a comunicação ali prevista, não poderão inserir propaganda eleitoral, mas apenas a matéria que eventualmente lhes seja enviada pela própria Comissão Nacional das Eleições.\n\n2 - De igual modo não poderão ser utilizadas para a realização de propaganda eleitoral as salas de espectáculos ou de outros recintos que reúnam condições para serem utilizadas na campanha eleitoral relativamente às quais não haja sido efectuada a declaração ou requisição referidas no n.º 1 do artigo 67.º",
+      "alterador": 3
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "(Pessoalidade de voto)",
+      "texto": "1 - O direito de sufrágio é exercido pelo cidadão eleitor, salvo o disposto nos números seguintes.\n\n2 - Podem exercer o direito de voto por intermédio de representante os membros das forças armadas, das forças militarizadas, bem como os trabalhadores das repartições civis do Estado, das autarquias locais, dos estabelecimentos hospitalares, das empresas públicas ou das empresas concessionárias de serviços públicos que, no dia da eleição, estiverem impedidos de se deslocarem à assembleia ou secção de voto em que se encontram inscritos, por imperativo do exercício das suas funções, devendo obrigatoriamente fazer prova desse impedimento.\n\n3 - Cada eleitor só poderá nomear validamente um representante e fá-lo-á através de documento isento de selo, com assinatura do representado reconhecida notarialmente. O representante deverá estar devidamente inscrito na mesma comissão de recenseamento do representado e só pessoalmente poderá exercer o direito de voto que lhe foi delegado.\n\n4 - Cada representante só poderá representar validamente um cidadão eleitor, excepto se este for membro das forças armadas. A representação envolve a transferência para o representante dos direitos e deveres que pertenciam ao representado na eleição de Deputados à Assembleia Constituinte.\n\n5 - Não poderá exercer pessoalmente o seu direito de voto o representado presente no dia da eleição na freguesia correspondente à assembleia de voto em que se encontra inscrito, se já tiver nomeado validamente representante seu.\n\n6 - No acto da votação, o representante, apresentando-se perante a mesa, deverá identificar-se ao presidente, nos termos da legislação eleitoral, exibindo também a procuração do representado e o documento autenticado pela autoridade hierarquicamente superior comprovativo da impossibilidade de exercício do direito de voto. O presidente da mesa, depois de apreciar a regularidade formal destes documentos e de reconhecer o votante como o representante validamente nomeado, dirá o nome do representado em voz alta e entregará o boletim de voto ao representante. Os nomes dos eleitores que votaram através de representante constarão obrigatoriamente da acta das operações eleitorais.",
+      "alterador": 11
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "(Encerramento da votação)",
+      "texto": "1 - A admissão de eleitores na assembleia de voto far-se-á até às 19 horas. Depois desta hora apenas poderão votar os eleitores presentes.\n\n2 - O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.",
+      "alterador": 2
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "(Proibição da presença de força armada e excepções)",
+      "texto": "1. Nos locais onde se reunirem as assembleias de voto, e num raio de 100 m, é proibida a presença de força armada, salvo se o comandante desta possuir indícios seguros de que sobre os membros da mesa se exerce coacção de ordem física ou psíquica que impeça a requisição daquela força. Neste caso, a força poderá intervir por iniciativa do seu comandante, a fim de assegurar a genuinidade do processo eleitoral, devendo retirar-se assim que pelo presidente, ou quem o substitua, lhe seja formulado pedido nesse sentido, ou quando verifique que a sua presença já não se justifica.\n\n2. Sempre que o entenda necessário, o comandante da força armada, ou seu delegado credenciado, poderá visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou quem o substitua.\n\n3. Quando for necessário pôr termo a algum tumulto ou obstar a qualquer agressão ou violência, quer dentro do edifício da assembleia ou secção de voto, quer na sua proximidade, ou ainda em caso de desobediência às suas ordens, poderá o presidente da mesa, consultada esta, requisitar a presença da força armada, sempre que possível por escrito, ou em caso de impossibilidade com menção na acta eleitoral das razões da requisição e do período de presença da força armada.\n\n4. Nos casos previstos nos n.os 1 e 3 suspender-se-ão as operações eleitorais até que o presidente considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia ou secção de voto.",
+      "alterador": 4
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "(Boletins de voto)",
+      "texto": "1 - Os boletins de voto serão de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas, em cada círculo, à votação, e serão impressos em papel branco, liso e não transparente.\n\n2 - Em cada boletim de voto serão impressos, de harmonia com o modelo anexo a esta lei, as denominações, siglas e símbolos dos partidos, ou coligações ou frentes proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem que tiver sido sorteada nos termos do artigo 31.º\n\n3 - Na linha correspondente a cada partido ou coligação ou frente figurará um quadrado em branco que o eleitor preencherá com uma cruz para assinalar a sua escolha.\n\n4 - A impressão dos boletins de voto ficará a cargo do Estado, através da Imprensa Nacional-Casa da Moeda.\n\n5. O governador civil remeterá a cada presidente da câmara ou comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, ao administrador de bairro os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 54.º\n\n6 - O número de boletins de voto remetidos, em sobrescrito fechado e lacrado, será igual ao número dos eleitores inscritos na assembleia ou secção de voto mais 30%.\n\n7. O presidente da câmara ou da comissão administrativa municipal ou, nos concelhos onde existirem bairros administrativos, o administrador de bairro e os presidentes das assembleias ou secções de voto prestarão contas ao governador civil dos boletins de voto que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.",
+      "alterador": 7
+    },
+    {
+      "chave": "139.º",
+      "epigrafe": "(Violação da capacidade eleitoral)",
+      "texto": "1 - Aquele que, não possuindo capacidade eleitoral, se apresentar a votar será punido com a multa de 500$00 a 5000$00.\n\n2 - Se o fizer fraudulentamente, tomando a identidade de cidadão inscrito, será punido com prisão maior de dois a oito anos e multa de 20000$00 a 200000$00.\n\n3 - Aquele que dolosamente violar o disposto no artigo 82.º será punido com prisão maior de dois a oito anos e multa de 5000$00 a 20000$00.",
+      "alterador": 11
+    },
+    {
+      "chave": "156.º",
+      "epigrafe": "(Não comparência da força armada)",
+      "texto": "Sempre que seja necessária a presença da força armada nos casos previstos no artigo 97.º, n.º 3, o comandante da mesma será punido com pena de prisão até um ano se injustificadamente não comparecer.",
+      "alterador": 7
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 3/75 art. 1.º altera o DL 621-A/74 (outro diploma): ignorado.",
+    "DL 3/75 art. 2.º: substituído o n.º 2 do art. 2.º e o n.º 2 do art. 23.º (epígrafe atual do 23.º mantida, a instrução só altera o número).",
+    "DL 86/75 art. 1.º altera o DL 621-A/74: ignorado.",
+    "DL 86/75 art. 2.º: novas redações de números dos arts. 6.º (n.º 1), 10.º (n.º 2), 48.º (n.os 1 e 3 aditado), 49.º (n.os 1-3 novos, antigos 3-5 passam a 4-6), 53.º (n.os 1 e 3), 64.º (n.º 2 alíneas b) e d)), 67.º (n.º 1) e 92.º (n.os 1 e 2).",
+    "DL 101-A/75: aditado n.º 4 ao 30.º; nova redação do 31.º (com nova epígrafe); n.º 3 do 32.º; n.º 4 do 42.º; n.º 2 do 44.º; n.º 1 do 45.º; n.os 1 e 2 do 48.º; n.os 2, 5 e aditado 7 do 49.º; n.º 2 do 70.º; n.os 5, 6 e 7 (aditado) do 98.º.",
+    "DL 103/75: nova redação integral do 97.º, com nova epígrafe.",
+    "DL 109/75: nova redação do 55.º (depois substituída pelo DL 141-B/75).",
+    "DL 127/75: art. 18.º passa a n.º 1 (texto atual) e n.os 2 e 3 aditados.",
+    "DL 137-C/75: n.º 3 do 46.º; 54.º passa a n.os 1 e 2; n.os 5 e 7 do 98.º (n.º 6 do DL 101-A/75 mantido); nova redação e epígrafe do 156.º.",
+    "DL 137-D/75: nova redação do 14.º (epígrafe atual mantida, indicada por '...').",
+    "DL 141-B/75: nova redação do 55.º (2 de Abril de 1975).",
+    "DL 141-C/75: n.os 1, 2 e 4 do 49.º substituídos; restantes mantidos da redação anterior.",
+    "DL 188-A/75: nova redação do 82.º (nova epígrafe) e do 139.º (nova epígrafe, n.os 1 e 2 mantidos, n.º 3 aditado).",
+    "DL 541-A/75 altera o art. 10.º do DL 621-A/74: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

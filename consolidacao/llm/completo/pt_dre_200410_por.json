@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:200410:por",
+  "artigos": [
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 86/94), art. 1.º: revoga o artigo 20.º do DL 49040; artigo 20.º fica \"(Revogado.)\".",
+    "Alterador 1, art. 2.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

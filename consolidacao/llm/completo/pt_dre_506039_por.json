@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:506039:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "1. A entrega aos respectivos compartes do uso, fruição e administração dos baldios operar-se-á, em cada caso, por efeito da recepção, no Ministério da Agricultura e Pescas, de cópia autêntica da acta da reunião ou reuniões da assembleia de compartes em que tenha sido escolhida a forma de administração e eleitos os membros do conselho directivo, através da qual se verifique terem sido preenchidos os requisitos estabelecidos neste diploma.\n\n2. Para os efeitos do número anterior, as juntas de freguesia, em colaboração com os serviços regionais do Ministério da Agricultura e Pescas e as câmaras municipais, deverão elaborar e afixar nos lugares de estilo um recenseamento provisório dos compartes de cada baldio, com base no disposto no artigo 4.º, no prazo de sessenta dias a contar da entrada em vigor deste diploma.\n\n3. As entidades referidas no número anterior deverão providenciar no sentido da convocação da assembleia de compartes para os efeitos previstos no n.º 1 deste artigo.\n\n4. A escolha da forma de administração e a eleição do conselho directivo só poderão validamente efectuar-se quando se verificar a presença na assembleia de, pelo menos, 50% dos inscritos no recenseamento provisório, excepto se após terceira convocatória não se reunir o número necessário de compartes, caso em que aquelas deliberações serão válidas ainda que tomadas com qualquer número de presenças.",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "1. As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portaria do Ministério da Agricultura e Pescas e, ainda, dos Ministérios das Finanças e da Administração Interna, quando for caso disso.\n\n2. As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 3, 4 e 5 (Decretos-Leis n.os 703/76, 49/77 e 104/78) apenas prorrogam o prazo de sessenta dias do n.º 2 do artigo 18.º, sem dar nova redação: alteração não textual, o texto do n.º 2 fica como está.",
+  "instrucoes": [
+    "Alterador 1 (DL 205/76): nova redação do n.º 1 do artigo 20.º; aplicada, n.º 2 mantido do texto atual.",
+    "Alterador 2 (DL 702/76): nova redação do n.º 4 do artigo 18.º ('Art. 18.º ... ...' mantém os n.os 1 a 3); aplicada.",
+    "Alterador 3 (DL 703/76): prorroga até 30 de Novembro de 1976 o prazo do n.º 2 do artigo 18.º; não textual, não aplicada.",
+    "Alterador 4 (DL 49/77): prorroga o prazo até 30 de Setembro de 1977 (remete para o DL 703/76); não textual, não aplicada.",
+    "Alterador 5 (DL 104/78): prorroga o prazo até 31 de Dezembro de 1978; não textual, não aplicada.",
+    "Alterador 6 (Lei 75/2017): os artigos fornecidos (2.º, 9.º, 37.º, 46.º, 47.º, 50.º) só fazem remissões para o original e regimes transitórios; nenhuma instrução de alteração ou revogação do texto do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

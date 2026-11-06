@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:673217:por",
+  "artigos": [
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "Dependem de prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos as emissões de acções ou obrigações de quaisquer empresas privadas no ultramar cujo valor exceda, no período de um ano, a importância de 50 milhões de escudos.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "Fica sujeita a prévio parecer favorável do Conselho de Ministros para os Assuntos Económicos a constituição de quaisquer empresas no ultramar cujo capital seja superior a 100 milhões de escudos; na apreciação dos pedidos serão tidas em conta, além da viabilidade e interesse económico geral do empreendimento, as condições do território onde a empresa se destina a exercer as suas principais actividades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 412/73, art. 1.º: nova redação do artigo 12.º - aplicada por inteiro.",
+    "DL 412/73, art. 2.º: nova redação do artigo 13.º (um só parágrafo, substitui os dois atuais) - aplicada por inteiro.",
+    "Referência no preâmbulo à revogação dos arts. 12.º e 13.º pelo DL 55/72 (só metrópole e ilhas) não é instrução deste alterador - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

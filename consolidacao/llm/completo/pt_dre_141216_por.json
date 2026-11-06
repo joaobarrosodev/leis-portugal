@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:141216:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "As quatro portarias (215/87, 360/96, 365/96, 33/97) só alteram os quadros de pessoal (mapas I e II anexos), que no texto atual e nos alteradores só vêm em imagem ('ver documento original'); não há alteração textual a nenhum artigo.",
+  "instrucoes": [
+    "Portaria 215/87, n.º 1.º: adita 21 lugares ao quadro transitório (mapa II) do ISCA de Lisboa - mapa só em imagem, não aplicada.",
+    "Portaria 360/96: novo quadro de professores do ISCA de Lisboa (mapa anexo em imagem) - não aplicada.",
+    "Portaria 365/96: novo quadro de pessoal docente do ISCA do Porto (mapa anexo em imagem) - não aplicada.",
+    "Portaria 33/97: novo quadro de professores do ISCA de Aveiro (mapa anexo em imagem) - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

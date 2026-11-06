@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:308336:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Área abrangida por plano director municipal",
+      "texto": "No caso de a área a lotear estar abrangida por plano director municipal, o requerimento é instruído com os seguintes elementos:\n\na) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3.º;\n\nb) Extracto do plano director municipal, assinalando a área a lotear;\n\nc) Justificação da adequabilidade da proposta de loteamento às normas e princípios de ordenamento contidos no plano director municipal.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Retificação do artigo 3.º, alínea a) («e e)» -> «e d)»): o texto atual já diz «a), b) e d)»; sem mudança.",
+    "Retificação do artigo 4.º, alínea a) («a), b) e e) do artigo 2.º» -> «a), b) e d) do artigo 2.º»): aplicada.",
+    "Retificação do artigo 5.º, alínea a): o texto atual já diz «a), b) e d) do artigo 2.º»; sem mudança.",
+    "Retificação do artigo 6.º, alínea b) («áreas destinada» -> «área destinada»): o texto atual já diz «área destinada»; sem mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "4.º: parágrafo que não está no alterador nem no original: a) Os referidos nas alíneas a), b) e d) do artigo 2.º e na alínea c) do artigo 3"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:629160:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Todas as instruções dirigidas ao original incidem sobre as bases da concessão do anexo (base 10 pelo alterador 1; bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79 alteradas, bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A e quadro IV aditados, n.º 3 da base 19 e números das bases 61 e 66 revogados pelo alterador 2; bases 2 e 3 pelo alterador 3). O texto atual recebido só tem os artigos 1.º a 8.º, sem o anexo, pelo que não há texto para preencher os \"[...]\"/\"...\" nem chaves de anexo conhecidas; a base 60 inclui ainda um quadro só em imagem. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação da base 10 do anexo; anexo ausente do texto atual, não aplicado.",
+    "Alterador 2, art. 1.º: altera o artigo 7.º do Decreto-Lei n.º 374/2007 (outro diploma); ignorado.",
+    "Alterador 2, art. 2.º: altera as bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79 do anexo; anexo ausente, não aplicado.",
+    "Alterador 2, art. 3.º: adita as bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A e o quadro IV ao anexo; anexo ausente e chave de anexo desconhecida, não aplicado.",
+    "Alterador 2, art. 5.º: n.º 1 revoga normas do Decreto-Lei n.º 374/2007 (ignorado); n.º 2 revoga números das bases 19, 61 e 66 do anexo (não aplicado).",
+    "Alterador 2, art. 6.º: republicação das bases em anexo, só em imagem/PDF; não usada.",
+    "Alterador 3, art. 1.º: altera as bases 2 e 3 do anexo; anexo ausente, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

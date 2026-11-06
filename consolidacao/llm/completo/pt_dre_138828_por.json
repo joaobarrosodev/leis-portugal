@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:138828:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "As funções de bedel das escolas universitárias são exercidas por primeiros, segundos ou terceiros-oficiais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alteradores 3 a 19 (portarias) alteram, extinguem ou criam lugares nos quadros constantes do mapa anexo, que só existe em imagem ('ver documento original'); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 637/70), art. 5.º: nova redação do artigo 8.º; aplicada.",
+    "Alterador 1, arts. 1.º, 2.º e 4.º: alteram o DL 132/70, o DL 45652 e dispõem sobre outro quadro - ignorados; art. 3.º é norma autónoma sobre provimento de pessoal técnico, não altera o texto do original.",
+    "Alterador 2 (DL 259/72): só remete para o art. 2.º do original (art. 6.º, n.º 1); nenhuma alteração textual.",
+    "Alteradores 3 a 19: alterações dos quadros/mapa anexo (em imagem) - não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

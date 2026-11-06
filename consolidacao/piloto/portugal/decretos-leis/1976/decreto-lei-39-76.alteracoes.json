@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "18.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 18.º\n\n1. A entrega aos respectivos compartes do uso, fruição e administração dos baldios operar-se-á, em cada caso, por efeito da recepção, no Ministério da Agricultura e Pescas, de cópia autêntica da acta da reunião ou reuniões da assembleia de compartes em que tenha sido escolhida a forma de administração e eleitos os membros do conselho directivo, através da qual se verifique terem sido preenchidos os requisitos estabelecidos neste diploma.\n\n2. Para os efeitos do número anterior, as juntas de freguesia, em colaboração com os serviços regionais do Ministério da Agricultura e Pescas e as câmaras municipais, deverão elaborar e afixar nos lugares de estilo um recenseamento provisório dos compartes de cada baldio, com base no disposto no artigo 4.º, no prazo de sessenta dias a contar da entrada em vigor deste diploma.\n\n3. As entidades referidas no número anterior deverão providenciar no sentido da convocação da assembleia de compartes para os efeitos previstos no n.º 1 deste artigo.\n\n4. A escolha da forma de administração e a eleição do conselho directivo só poderão validamente efectuar-se se se registar a presença na assembleia de, pelo menos, 50% dos inscritos no recenseamento provisório.",
+    "depois": "###### Artigo 18.º\n\n1. A entrega aos respectivos compartes do uso, fruição e administração dos baldios operar-se-á, em cada caso, por efeito da recepção, no Ministério da Agricultura e Pescas, de cópia autêntica da acta da reunião ou reuniões da assembleia de compartes em que tenha sido escolhida a forma de administração e eleitos os membros do conselho directivo, através da qual se verifique terem sido preenchidos os requisitos estabelecidos neste diploma.\n\n2. Para os efeitos do número anterior, as juntas de freguesia, em colaboração com os serviços regionais do Ministério da Agricultura e Pescas e as câmaras municipais, deverão elaborar e afixar nos lugares de estilo um recenseamento provisório dos compartes de cada baldio, com base no disposto no artigo 4.º, no prazo de sessenta dias a contar da entrada em vigor deste diploma.\n\n3. As entidades referidas no número anterior deverão providenciar no sentido da convocação da assembleia de compartes para os efeitos previstos no n.º 1 deste artigo.\n\n4. A escolha da forma de administração e a eleição do conselho directivo só poderão validamente efectuar-se quando se verificar a presença na assembleia de, pelo menos, 50% dos inscritos no recenseamento provisório, excepto se após terceira convocatória não se reunir o número necessário de compartes, caso em que aquelas deliberações serão válidas ainda que tomadas com qualquer número de presenças.\n\n> Alterado pelo/a [Decreto-Lei n.º 702/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/702-1976-408926), publicado em 1976-09-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:506039:por",
+    "alterador": "pt:dre:408926:por;pt:dre:501411:por"
+  },
+  {
+    "artigo": "20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º\n\n1. As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portaria do Ministério da Agricultura e Pescas e do Ministério das Finanças, quando for caso disso.\n\n2. As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso.\n\nPromulgado em 8 de Janeiro de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "depois": "###### Artigo 20.º\n\n1. As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portaria do Ministério da Agricultura e Pescas e, ainda, dos Ministérios das Finanças e da Administração Interna, quando for caso disso.\n\n2. As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1976-501411), publicado em 1976-03-20.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso.\n\nPromulgado em 8 de Janeiro de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:506039:por",
+    "alterador": "pt:dre:408926:por;pt:dre:501411:por"
+  }
+]

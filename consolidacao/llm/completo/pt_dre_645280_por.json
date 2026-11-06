@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:645280:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 3.º da Lei n.º 26/96 (nova redação do artigo 3.º do Decreto-Lei n.º 334/95, delimitação das áreas urbanas): no texto atual o artigo 3.º do 334/95 não tem chave própria (vem embutido como «Art. 3.º ...» no corpo da primeira chave 72.º-A), e a chave «3.º» existente é o artigo 3.º (Definições) do Decreto-Lei n.º 448/91 republicado em anexo; há ainda chaves duplicadas (2.º, 6.º, 7.º, 72.º-A, etc.) entre o artigo 1.º do 334/95 e a republicação. Alvo ambíguo, não aplicado.",
+  "instrucoes": [
+    "Lei n.º 26/96, artigo 1.º (nova redação dos artigos 2.º, 7.º, 11.º, 12.º, 16.º, 24.º, 32.º, 36.º, 38.º, 43.º, 55.º, 56.º, 57.º e 68.º do Decreto-Lei n.º 448/91, alterado pelo 334/95): instrução dirigida a outro diploma (448/91); ignorada.",
+    "Lei n.º 26/96, artigo 2.º (aditamento dos artigos 68.º-A e 68.º-B ao Decreto-Lei n.º 448/91): dirigida a outro diploma; ignorada.",
+    "Lei n.º 26/96, artigo 3.º (nova redação do artigo 3.º do Decreto-Lei n.º 334/95): dirigida ao original, mas alvo sem chave própria e ambíguo face à chave «3.º» da republicação; registada em nao_aplicavel.",
+    "Alterador 2 é o mesmo texto da Lei n.º 26/96 (duplicado do alterador 1); mesmas conclusões, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

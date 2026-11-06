@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "21.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 21.º — (Depósito de capitais)\n\n1 - Os capitais das instituições são depositados, à ordem ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência ou em qualquer banco nacional.\n\n2 - Os depósitos a prazo são autorizados pela assembleia geral ou órgão correspondente da instituição, tendo em conta as orientações de carácter financeiro do Instituto de Gestão Financeira da Segurança Social.",
+    "depois": "###### Artigo 21.º — (Depósito de capitais)\n\n1 - Os capitais das instituições são depositados, à ordem ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência ou em qualquer banco nacional.\n\n2 - Os depósitos a prazo serão objecto de deliberação do órgão competente da instituição, nos termos dos respectivos estatutos e tendo em conta as orientações técnico-normativas gerais, de carácter financeiro, do Instituto de Gestão Financeira da Segurança Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 467/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1980-462017), publicado em 1980-10-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:157007:por",
+    "alterador": "pt:dre:462017:por"
+  }
+]

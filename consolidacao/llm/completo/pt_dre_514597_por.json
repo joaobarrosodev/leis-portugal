@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:514597:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (DL 44292), art. 2.º altera taxas da lista anexa ao art. 2.º e alterador 2 (DL 44861), art. 1.º substitui essa lista; a lista só existe em imagem (ver documento original), não há texto onde aplicar.",
+  "instrucoes": [
+    "Alteradores 1 e 2: alterações/substituição da lista anexa de direitos fiscais (só em imagem); não aplicável.",
+    "Alteradores 3, 4, 6, 7, 9 a 17 e 19: fixam novos direitos de base 'para os efeitos' do art. 1.º, sem alterar o seu texto; e alteram listas/pautas de outros diplomas (DL 43769, 46142, 47958, Pauta); ignorados.",
+    "Alteradores 5 e 8: reduções de direitos por referência ao art. 1.º; não textual; ignorados.",
+    "Alterador 18 (DL 102/78): nova lista de direitos fiscais da Pauta, sem instrução textual dirigida aos artigos do original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

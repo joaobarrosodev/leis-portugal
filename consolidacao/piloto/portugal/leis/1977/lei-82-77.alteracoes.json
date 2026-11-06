@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "34.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 34.º — (Vice-presidente)\n\n1. A designação do vice-presidente do Supremo Tribunal de Justiça recai no juiz que tiver obtido o maior número de votos a seguir àquele que for eleito presidente. No caso de empate observar-se-á o disposto no n.º 3 do artigo 31.º\n\n2. Nas suas faltas e impedimentos, o vice-presidente é substituído pelo juiz mais antigo em exercício.",
+    "depois": "###### Artigo 34.º — (Vice-presidente)\n\n1 - A eleição do vice-presidente do Supremo Tribunal de Justiça processa-se nos termos do artigo 31.º\n\n2. Nas suas faltas e impedimentos, o vice-presidente é substituído pelo juiz mais antigo em exercício.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279796:por",
+    "alterador": "pt:dre:464003:por"
+  },
+  {
+    "artigo": "46.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 46.º — (Desdobramento dos tribunais de comarca)\n\n1. Os tribunais de comarca podem desdobrar-se em juízos.\n\n2. Em cada tribunal ou juízo exerce funções um juiz de direito.\n\n3. Nos tribunais com competência criminal, as funções de instrução e as de pronúncia e julgamento pertencem a juízes de direito diferentes.\n\n4. Excepcionalmente, o mesmo juiz pode exercer funções em mais do que um tribunal, ainda que de comarcas diferentes.",
+    "depois": "###### Artigo 46.º — (Desdobramento dos tribunais de comarca)\n\n1. Os tribunais de comarca podem desdobrar-se em juízos.\n\n2. Em cada tribunal ou juízo exerce funções um juiz de direito.\n\n3. Nos tribunais com competência criminal, as funções de instrução e as de pronúncia e julgamento pertencem a juízes de direito diferentes.\n\n4 - O Conselho Superior da Magistratura, ponderando as necessidades de serviço, pode, eventualmente, determinar que um juiz exerça funções em mais de um tribunal, ainda que de comarcas diferentes.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279796:por",
+    "alterador": "pt:dre:464003:por"
+  },
+  {
+    "artigo": "49.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 49.º — (Substituição dos juízes de direito)\n\n1. Os juízes de direito são substituídos nas suas faltas e impedimentos:\n\na) Por outro juiz de direito;\n\nb) Por conservador do registo predial;\n\nc) Por conservador do registo civil;\n\nd) Por pessoa designada pelo Conselho Superior da Magistratura.\n\n2. A intervenção dos substitutos previstos nas alíneas b), c) e d) do número anterior só ocorrerá quando se trate de actos de carácter urgente ou relativos a réus presos ou quando se torne necessária à constituição do tribunal colectivo.\n\n3. O regime de substituição é o constante do diploma regulamentar desta lei.",
+    "depois": "###### Artigo 49.º — (Substituição dos juízes de direito)\n\n1 - Os juízes de direito são substituídos nas suas faltas e impedimentos, sucessivamente:\n\na) Por outro juiz de direito;\n\nb) Por conservador do registo predial;\n\nc) Por conservador do registo civil;\n\nd) Por pessoa designada pelo Conselho Superior da Magistratura.\n\n2 - A intervenção do substituto previsto na alínea d) do número anterior, quando recaia em não licenciado em Direito, só ocorrerá quando se trate de actos de carácter urgente ou relativos a réus presos ou se torne necessária a constituição do tribunal colectivo.\n\n3. O regime de substituição é o constante do diploma regulamentar desta lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279796:por",
+    "alterador": "pt:dre:464003:por"
+  },
+  {
+    "artigo": "66.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 66.º — (Competência cível)\n\nCompete aos tribunais do trabalho conhecer, em matéria cível:\n\na) Das questões relativas à legalidade dos instrumentos de regulamentação de trabalho;\n\nb) Das questões emergentes de relações de trabalho subordinado e de relações estabelecidas com vista à celebração de contratos de trabalho;\n\nc) Das questões emergentes de acidentes de trabalho e doenças profissionais;\n\nd) Das questões de enfermagem ou hospitalares, de fornecimento de medicamentos emergentes da prestação de serviços clínicos, de aparelhos de prótese e de ortopedia ou de quaisquer outros serviços ou prestações efectuados ou pagos em benefício de vítimas de acidentes de trabalho ou doenças profissionais;\n\ne) Das acções destinadas a anular os actos e contratos celebrados por quaisquer entidades responsáveis com o fim de se eximirem ao cumprimento de obrigações resultantes da aplicação da legislação sindical, do trabalho ou da Previdência;\n\nf) Das questões emergentes de trabalho autónomo, quando este não seja prestado por empresários ou por profissionais livres nessas qualidades;\n\ng) Das questões emergentes de contratos de aprendizagem e de tirocínio;\n\nh) Das questões entre trabalhadores ao serviço da mesma entidade, a respeito de direitos e obrigações que resultem de actos praticados em comum na execução das suas relações de trabalho ou que resultem de acto ilícito praticado por um deles na execução do serviço e por motivo deste, ressalvada a competência dos tribunais criminais quanto à responsabilidade civil conexa com a criminal;\n\ni) Das questões entre instituições de previdência ou de abono de família, seus beneficiários ou contribuintes, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de umas ou outros;\n\nj) Das questões entre organismos sindicais e sócios ou pessoas por eles representados, ou afectados por decisões suas, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de uns ou de outros;\n\nl) Dos processos destinados à liquidação e partilha de bens de instituições de previdência ou de organismos sindicais, quando não haja disposição legal em contrário;\n\nm) Das questões entre instituições de previdência ou entre organismos sindicais, a respeito da existência, extensão ou qualidade de poderes ou deveres legais, regulamentares ou estatutários de um deles que afecte o outro;\n\nn) Das execuções fundadas nas suas decisões ou noutros títulos executivos, ressalvada a competência atribuída a outros tribunais;\n\no) Das questões entre sujeitos de uma relação jurídica de trabalho ou entre um desses sujeitos e terceiros, quando emergentes de relações conexas com a relação de trabalho, por acessoriedade, por complementaridade ou por dependência, e o pedido se cumule com outro para o qual o tribunal seja directamente competente;\n\np) Das questões reconvencionais que com a acção tenham as relações de conexão referidas na alínea anterior, salvo no caso de compensação, em que é dispensada a conexão;\n\nq) Das questões cíveis relativas à greve;\n\nr) Das demais questões que por lei lhe sejam atribuídas.",
+    "depois": "###### Artigo 66.º — (Competência cível)\n\nCompete aos tribunais do trabalho conhecer, em matéria cível:\n\na) Das questões relativas à legalidade dos instrumentos de regulamentação de trabalho;\n\nb) Das questões emergentes de relações de trabalho subordinado e de relações estabelecidas com vista à celebração de contratos de trabalho;\n\nc) Das questões emergentes de acidentes de trabalho e doenças profissionais;\n\nd) Das questões de enfermagem ou hospitalares, de fornecimento de medicamentos emergentes da prestação de serviços clínicos, de aparelhos de prótese e de ortopedia ou de quaisquer outros serviços ou prestações efectuados ou pagos em benefício de vítimas de acidentes de trabalho ou doenças profissionais;\n\ne) Das acções destinadas a anular os actos e contratos celebrados por quaisquer entidades responsáveis com o fim de se eximirem ao cumprimento de obrigações resultantes da aplicação da legislação sindical, do trabalho ou da Previdência;\n\nf) Das questões emergentes de trabalho autónomo, quando este não seja prestado por empresários ou por profissionais livres nessas qualidades;\n\ng) Das questões emergentes de contratos de aprendizagem e de tirocínio;\n\nh) Das questões entre trabalhadores ao serviço da mesma entidade, a respeito de direitos e obrigações que resultem de actos praticados em comum na execução das suas relações de trabalho ou que resultem de acto ilícito praticado por um deles na execução do serviço e por motivo deste, ressalvada a competência dos tribunais criminais quanto à responsabilidade civil conexa com a criminal;\n\ni) Das questões entre instituições de previdência ou de abono de família e seus beneficiários, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de umas ou outros;\n\nj) Das questões entre organismos sindicais e sócios ou pessoas por eles representados, ou afectados por decisões suas, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de uns ou de outros;\n\nl) Dos processos destinados à liquidação e partilha de bens de instituições de previdência ou de organismos sindicais, quando não haja disposição legal em contrário;\n\nm) Das questões entre instituições de previdência ou entre organismos sindicais, a respeito da existência, extensão ou qualidade de poderes ou deveres legais, regulamentares ou estatutários de um deles que afecte o outro;\n\nn) Das execuções fundadas nas suas decisões ou noutros títulos executivos, ressalvada a competência atribuída a outros tribunais;\n\no) Das questões entre sujeitos de uma relação jurídica de trabalho ou entre um desses sujeitos e terceiros, quando emergentes de relações conexas com a relação de trabalho, por acessoriedade, por complementaridade ou por dependência, e o pedido se cumule com outro para o qual o tribunal seja directamente competente;\n\np) Das questões reconvencionais que com a acção tenham as relações de conexão referidas na alínea anterior, salvo no caso de compensação, em que é dispensada a conexão;\n\nq) Das questões cíveis relativas à greve;\n\nr) Das demais questões que por lei lhe sejam atribuídas.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279796:por",
+    "alterador": "pt:dre:464003:por"
+  }
+]

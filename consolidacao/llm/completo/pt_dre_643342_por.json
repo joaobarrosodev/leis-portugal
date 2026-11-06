@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:643342:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 155/87), art. 1.º: revoga o regime transitório do artigo 40.º 'na parte em que os seus efeitos não haviam cessado já' por força do Decreto-Lei n.º 93/75; é uma revogação parcial/condicionada que não se aplica ao texto. Alteradores 2 (Decreto-Lei n.º 228/89, extinção do Gabinete) e 3 (Decreto-Lei n.º 6/90, transmissão de imóveis) não contêm alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: revogação do regime transitório do artigo 40.º na parte ainda não cessada - não aplicada ao texto (revogação condicionada).",
+    "Alterador 1, art. 2.º: refere-se ao Decreto-Lei n.º 93/75 - ignorado.",
+    "Alterador 2: extingue o Gabinete da Área de Sines e regula a liquidação - sem alteração textual ao original.",
+    "Alterador 3: transmissão de imóveis do ex-GAS para o Estado e IAPMEI - sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
