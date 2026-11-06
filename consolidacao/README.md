@@ -464,3 +464,45 @@ Respostas importadas (`llm/escala/`): 134 sem problemas nos lotes 027 a 042 (027
 | 4 | 16 | 40 | 20 | 50% |
 
 Total do pedido completo: 74 diplomas sem reparos em 174 respostas (bloco 4 incluído; `rendimento.py RONDA --ids FICHEIRO` mede um bloco; o prompt do verificador está em `verificacao/PROMPT-verificador.md`). **Erro corrigido a meio:** `proximos` não excluía os diplomas já feitos (o nome do ficheiro tem `_` onde o id tem `:`); o bloco 2 repetiu 26 do bloco 1. As respostas repetidas não foram importadas. A causa dos que ficam por passar: anexos e quadros só em imagem (`fora_dos_artigos`), revogação de diplomas inteiros que deixa os anexos, instruções ambíguas ("[Anterior alínea b)]" desfasadas), e o verificador sem o texto dos artigos iguais ao original. Faltam cerca de 1.400 diplomas na fila (`proximos`), e 107 foram saltados por tamanho.
+
+
+## Originais sem artigos: texto corrido por unidades (`llm_corrido.py`)
+
+**Problema.** Dos 4.362 diplomas para o LLM, 2.697 têm um original sem artigos identificados (portarias "1.º, 2.º" em texto corrido, resoluções, despachos, declarações de retificação, bases). `juntar.py` e `llm_completo.py` recusam-nos ("original sem artigos: a resposta não tem onde encaixar").
+
+**Método.** O original é um bloco de texto corrido dividido em **unidades**: os parágrafos separados por linha em branco, numerados de 1 a N (`itens` em `llm_corrido.py`; o texto volta a montar-se letra a letra). O pedido leva o original unidade a unidade (`{{7}}` antes de cada uma), o texto de todos os alteradores por ordem de aplicação (como no pedido completo) e a ordem de devolver só o que muda:
+
+- `substituicoes`: `{de, ate, texto, alterador}`, as unidades de `de` a `ate` passam a ser `texto` (vazio se desaparecem);
+- `insercoes`: `{depois_de, texto, alterador}`;
+- `nao_aplicavel` e `instrucoes`, como no pedido completo.
+
+Verificação letra a letra (`verificar_resposta`): as posições têm de existir e não se sobrepor, e cada parágrafo do texto novo vem de um alterador ou do original, com ou sem a numeração ("2.º ", "a) ", "1.º-A "). Um parágrafo do original com uma frase trocada ("onde se lê … deve ler-se …", um n.º que passa a ter a redação «…» com o seu número) não está inteiro em nenhum lado: passa se é parecido com a unidade que substitui e cada troca (as palavras novas, com a pontuação separada) está num alterador ou no original. O consolidado é o original com as unidades trocadas, cada troca seguida da nota "> Alterado pelo/a …" (o `cegas.py` tira-a); escreve `piloto/<caminho>.md`, `.alteracoes.json` e `llm/juntados-corrido.jsonl`. `llm/corrido/` guarda as respostas.
+
+**Verificação às cegas.** `cegas.py --escala` lê `llm/juntados-corrido.jsonl` e marca a entrada com `modo: "corrido"`; os alteradores da entrada são todos os do pedido (`alteradores_vistos`), não só os que a resposta cita, para o verificador ver uma instrução que o LLM deixou cair. Em `cegas_vista.py` o modo corrido compara os parágrafos com `difflib`: cada troca é um `Trecho N` e a vista leva o **original inteiro** (pequeno: mediana 3 mil caracteres), por isso uma instrução que visava um parágrafo igual aparece em `instrucoes_em_falta`. O prompt do verificador tem uma secção final para este modo.
+
+**Uso.**
+
+```bash
+cd consolidacao && export PYTHONPATH=../src
+python llm_corrido.py amostra 40 --saida ids.txt     # ao acaso (semente 1); proximos N: por citações
+python llm_corrido.py pedidos ids.txt PASTA --por-ficheiro 4
+# um subagente por pedido escreve PASTA/resposta-NNN.json (REGRAS.md na mesma pasta)
+python llm_corrido.py importar PASTA/resposta-*.json && python llm_corrido.py juntar
+python cegas.py --escala --ronda N && python cegas_vista.py vistas N PASTA2   # ... saida N PASTA2
+python rendimento.py N --ids ids.txt
+```
+
+### Amostra de 40 (ronda 17)
+
+40 diplomas ao acaso entre os 2.697 (semente 1; um saltado por pedido acima de 120 mil caracteres), 10 subagentes Opus, 4 diplomas cada.
+
+| Passo | Diplomas |
+|---|--:|
+| Respostas importadas | 40 |
+| Sem alterações possíveis (`nao_aplicavel`: anexos e quadros só em imagem, ou revogação do diploma inteiro) | 20 |
+| Com mudanças, letra a letra aprovadas e juntadas | 20 (9 com instruções por aplicar) |
+| **Sem reparos às cegas** (ronda 17) | **15** |
+
+**Rendimento: 15/40 = 38% da amostra** (75% dos 20 verificados). Passa o limiar de 35% para alargar. Os 5 que falham têm todos a mesma causa: uma planta ou um quadro que só existe em imagem (`instrucoes_em_falta`). Os 20 sem alterações são, quase todos, diplomas cujos alteradores só trocam anexos em imagem ou o revogam por inteiro (Portarias 406/92, 694/90, 816/2002 e 964/2003, por exemplo, revogadas por outra portaria, embora o DRE as dê em vigor): não saem no acervo, mas ficam como informação para a vigência.
+
+**Falha corrigida a meio.** A primeira verificação letra a letra exigia o parágrafo inteiro num alterador ou no original: recusou 9 das 20 respostas com mudanças, todas "n.º 2.º passa a ter a seguinte redação: «…»" (o parágrafo do original é "2.º " e o corpo novo) ou troca de uma frase dentro de um parágrafo. Com a troca verificada à parte (acima), as 20 passaram e a verificação às cegas confirmou-as. O que a verificação às cegas viu nos 5 reprovados: nenhum texto errado, só instruções sem efeito possível.
