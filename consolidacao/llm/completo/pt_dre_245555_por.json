@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:245555:por",
+  "artigos": [
+    {
+      "chave": "ANEXO II — (a que se refere o n.º 2.º)::2.º",
+      "epigrafe": "Acesso",
+      "texto": "1 - Sem prejuízo do disposto no número seguinte, têm acesso à linha de crédito criada por este diploma os agricultores que desenvolvam as culturas agrícolas constantes do anexo I, nas regiões nele definidas, nos termos e condições previstos no [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, e na [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho.\n\n2 - Os agricultores de tomate para a indústria só têm acesso à linha de crédito instituída por este diploma quando a respectiva cultura tiver apresentado quebras de produção iguais ou superiores a 50% do volume de produção que foi previsto nos termos do contrato de compra e venda celebrado entre a produção e a indústria.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1: a nova redação do n.º 2.º e o aditamento do n.º 3.º do corpo da portaria não se aplicam porque esses números não estão no texto atual (só há os artigos do anexo II). O anexo I vem só em imagem ('ver tabelas no documento original'). O anexo III, novo, não foi aditado porque a instrução não lhe dá uma chave segura no texto atual (o cabeçalho remete para o n.º 3.º e não para o n.º 2.º como o anexo II atual).",
+  "instrucoes": [
+    "1.º: nova redação do n.º 2.º do corpo da portaria; não está no texto atual, não aplicada (nao_aplicavel)",
+    "2.º: aditamento do n.º 3.º do corpo, que remete para os anexos II e III; não está no texto atual, não aplicado (nao_aplicavel)",
+    "Anexo I: substituído por tabelas que só vêm em imagem; não aplicado (nao_aplicavel)",
+    "Anexo II, artigo único: nova redação do artigo 2.º do anexo II (Acesso); aplicada letra a letra",
+    "Anexo III (artigos 1.º a 7.º): anexo novo para os pequenos agricultores; não aditado por falta de chave segura (nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

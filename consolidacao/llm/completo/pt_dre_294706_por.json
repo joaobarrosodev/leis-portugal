@@ -1,0 +1,69 @@
+{
+  "id": "pt:dre:294706:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Projectos não admissíveis",
+      "texto": "São excluídos os projectos que:\n\na) Não se enquadrem nos objectivos previstos no artigo 1.º;\n\nb) Impliquem um investimento global inferior a 10000 contos;\n\nc) Não prevejam o acompanhamento técnico e científico das acções durante o prazo mínimo de cinco anos, designadamente para a avaliação e controlo da evolução dos recursos das zonas marinhas em causa.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Critérios de prioridade",
+      "texto": "Para efeitos de concessão de apoio, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:\n\na) Protecção de juvenis de stocks de menor abundância;\n\nb) Protecção de espécies haliêuticas de maior valor comercial;\n\nc) Protecção de espécies de mais difícil controlo;\n\nd) Qualidade científica do projecto;\n\ne) Qualidade científica da equipa de apoio ao projecto.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Despesas elegíveis",
+      "texto": "Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:\n\na) Concepção, execução, acompanhamento e controlo dos projectos;\n\nb) Construção e instalação de infra-estruturas de apoio directamente relacionadas com o projecto;\n\nc) Construção e instalação de estruturas de produção e protecção;\n\nd) Acompanhamento científico da acção.\n\ne) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Apresentação das candidaturas",
+      "texto": "1 - As candidaturas ao regime de apoio previsto no presente diploma são apresentadas na Direcção-Geral das Pescas e Aquicultura, na sua sede ou respectiva direcção regional.\n\n2 - Os processos de candidatura são apresentados em duplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados de documentos comprovativos de que a situação contributiva perante o Estado e a segurança social se encontra regularizada, bem como da verificação das condições previstas neste Regulamento.\n\n3 - O não suprimento de deficiências de instrução do processo, devidamente notificadas aos candidatos, determina o indeferimento do processo respectivo.\n\n4 - A DGP envia uma das cópias ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) para avaliação económica e financeira.\n\n5 - A apreciação técnica e administrativa dos processos compete à DGP.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Indeferimento das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Atribuição do apoio",
+      "texto": "1 - O contrato de atribuição de apoio é celebrado entre o candidato e o IFADAP no prazo de 60 dias após comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior por causa imputável ao candidato determina a perda do direito ao apoio.\n\n3 - O pagamento do apoio só será efectuado após verificação de que o candidato tem a situação contributiva regularizada perante o Estado e a segurança social.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Obrigações dos beneficiários",
+      "texto": "Para os efeitos dos artigos 5.º e 6.º do [Decreto-Lei n.º 189/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1994-291604), de 5 de Julho, constarão dos contratos de atribuição de apoio, nomeadamente, as seguintes obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior;\n\nb) Executar os projectos de acordo com os prazos e condições previstos no contrato de concessão de apoio;\n\nc) Fornecer todos os elementos que forem solicitados pela DGP e pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Data limite da apresentação das candidaturas",
+      "texto": "A data limite da apresentação das candidaturas ao presente Regime é 30 de Junho de 1999.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: art. 3.º - nova alínea a), restantes mantidas ('...').",
+    "1.º: art. 4.º - nova epígrafe 'Critérios de prioridade' e novo proémio; alíneas mantidas.",
+    "1.º: art. 5.º - proémio igual, alíneas a) a d) mantidas, aditada alínea e).",
+    "1.º: art. 8.º - novos n.os 1 a 3; n.os 4 e 5 = anteriores n.os 3 e 4.",
+    "1.º: art. 10.º - n.os 1 e 2 mantidos, novo n.º 3.",
+    "1.º: art. 11.º - nova alínea a), restantes mantidas.",
+    "1.º: art. 13.º - nova epígrafe e novo corpo.",
+    "2.º: art. 9.º revogado -> '(Revogado.)'.",
+    "3.º: norma de aplicação no tempo, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

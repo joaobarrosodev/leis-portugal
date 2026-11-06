@@ -42,7 +42,7 @@ A presente portaria autoriza a importação temporária de batata-semente da var
 
 ###### Artigo 2.º — Introdução no território nacional
 
-1 - É autorizada a importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, até 31 de março de 2024, durante os períodos de 1 de dezembro a 31 de março, sendo que a data de 31 de março de cada ano corresponderá ao último dia de entrada no território nacional, desde que cumpridas as exigências constantes da Decisão de Execução n.º 2011/778/UE, da Comissão, de 28 de novembro de 2011, alterada pela Decisão de Execução n.º 2014/368/UE, da Comissão, de 16 de junho de 2014, e nos termos previstos na presente portaria.
+1 - É autorizada a importação de batata-semente da variedade Kennebec, originária das províncias de New Brunswick e Prince Edward Island, no Canadá, até 31 de março de 2024, durante os períodos de 1 de dezembro a 31 de março, sendo que a data de 31 de março de cada ano corresponderá ao último dia de entrada no território nacional, desde que cumpridas as exigências constantes da [Decisão de Execução n.º 2011/778/UE](http://data.europa.eu/eli/dec/2011/778/oj?locale=pt), da Comissão, de 28 de novembro de 2011, alterada pela [Decisão de Execução n.º 2014/368/UE](http://data.europa.eu/eli/dec/2014/368/oj?locale=pt), da Comissão, de 16 de junho de 2014, e nos termos previstos na presente portaria.
 
 2 - A batata-semente a importar ao abrigo da presente portaria só pode ser introduzida no País através dos portos de Aveiro, Lisboa, Porto (Leixões) ou Sines.
 
@@ -86,7 +86,9 @@ c) Só pode ser comercializada noutros Estados membros após autorização ofici
 
 ###### Artigo 7.º — Validade das decisões de equivalência
 
-O prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros termina a 31 de março de 2014, de acordo com o disposto na Decisão de Execução n.º [2011/820/CE](http://data.europa.eu/eli/dec/2011/820/oj?locale=pt), da Comissão, de 7 de dezembro.
+O prazo de validade das decisões de equivalência relativas à comercialização de batata-semente proveniente de países terceiros termina a 31 de março de 2017, de acordo com o disposto na [Decisão de Execução n.º 2014/367/UE](http://data.europa.eu/eli/dec/2014/367/oj?locale=pt), da Comissão, de 16 de junho de 2014.
+
+> Alterado pelo/a [Portaria n.º 112/2015](https://diariodarepublica.pt/dr/detalhe/portaria/112-2015-67040491), publicado em 2015-04-21.
 
 ###### Artigo 8.º — Revogação
 

@@ -1,0 +1,70 @@
+{
+  "id": "pt:dre:484401:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::4.º",
+      "epigrafe": "",
+      "texto": "Assento de óbito ou depósito do certificado médico de morte fetal ... Isento",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::6.º",
+      "epigrafe": "",
+      "texto": "1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento\n\n2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00\n\n3 - Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira ... Isento\n\n4 - Pelo assento de transcrição de casamento civil lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... 2000$00\n\n5 - Assento de transcrição de casamento católico, de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... Isento\n\n6 - Pelo assento de transcrição de qualquer acto lavrado no território de Macau ... 500$00\n\n7 - Assento de transcrição ou integração na Conservatória dos Registos Centrais de actos de registo lavrados pelos órgãos especiais do registo civil ... Isento",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::8.º",
+      "epigrafe": "",
+      "texto": "Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::9.º",
+      "epigrafe": "",
+      "texto": "1 - Pela organização de processo de casamento ... 2000$00\n\n2 - Ao emolumento do n.º 1 acrescem:\n\na) Por cada nota de substituição de certidão lançada no processo nos termos do artigo 138.º, o emolumento correspondente à certidão dispensada;\n\nb) Pela nova publicação de editais nos termos do artigo 145.º ... 750$00\n\nc) Pelo auto de inquirição de testemunhas nos termos do artigo 141.º ... 1500$00\n\nd) Por cada auto de consentimento para casamento de menores lavrado na conservatória ... 500$00\n\ne) Pelo auto de convenção antenupcial ... 6000$00\n\n3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º ... 1500$00",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::10.º",
+      "epigrafe": "",
+      "texto": "1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00\n\n2 - Pelo processo de justificação administrativa requerido pelos interessados ... 2500$00",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::15.º",
+      "epigrafe": "",
+      "texto": "1 - Por cada certidão de registo ... 500$00\n\n2 - Por cada certidão negativa de registo ... 400$00\n\n3 - Sendo a certidão para fins de abono de família ou de segurança social e de nascimento para bilhete de identidade ... 300$00\n\n4 - As certidões referidas no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.\n\n5 - Pela certidão de documento, além do emolumento previsto no n.º 1, acresce por cada lauda ... 100$00\n\n6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00\n\n7 - Pelo exame de livros para fins de investigação genealógica, por cada período de duas horas de consulta ... 1000$00",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::16.º",
+      "epigrafe": "",
+      "texto": "1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento\n\n2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Tabela de emolumentos do registo civil::19.º",
+      "epigrafe": "",
+      "texto": "Por cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:\n\na) Para a prática de acto de registo ... 600$00\n\nb) Para fins de instauração de processo de casamento ... 600$00\n\nc) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 16.º da tabela: no texto do alterador falta o cabeçalho «Art. 16.º - 1 - ...»; aplicou-se só o n.º 2 (\"2 - Emissão de novo boletim...\", que vem logo após o n.º 7 do art. 15.º e corresponde ao n.º 2 do art. 16.º); não se sabe se o n.º 1 também mudou, pelo que ficou o texto atual.",
+  "instrucoes": [
+    "1.º: art. 4.º nova redação integral.",
+    "1.º: art. 6.º n.º 2 substituído; n.º 1 '...'; n.os 3 a 7 não mencionados, mantidos.",
+    "1.º: art. 8.º nova redação integral sem números (um só parágrafo); o antigo n.º 2 desaparece com a nova redação.",
+    "1.º: art. 9.º n.º 3 substituído; n.os 1, 2 e alíneas '...'.",
+    "1.º: art. 10.º n.º 2 substituído.",
+    "1.º: art. 15.º aditado n.º 7; n.os 1 a 6 '...'.",
+    "1.º: art. 16.º n.º 2 substituído (cabeçalho em falta no alterador, ver nao_aplicavel).",
+    "1.º: art. 19.º corpo substituído; alíneas '...'.",
+    "2.º a 4.º: modelos de livros/impressos e averbamentos da Portaria 973/95: outro diploma, ignorados.",
+    "5.º: entrada em vigor, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

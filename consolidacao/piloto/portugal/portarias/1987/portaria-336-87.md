@@ -176,47 +176,63 @@ Os distintivos dos condutores de viaturas são os que constam, em tamanho natura
 
 ###### Artigo 24.º
 
-Os calções de banho são de cor vermelha, com uma lista branca de cada lado, e levam a palavra «monitor» estampada a preto sobre cada uma das faixas laterais brancas.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 25.º
 
-1 - A camisola de algodão é de malha de algodão branco, decotada e com manga até 0,025 m acima da curva do cotovelo.
+(Revogado.)
 
-2 - Na parte exterior das mangas é estampado o distintivo de monitor de nadador-salvador.
-
-3 - A frente da camisola leva as palavras «assistência nas praias» estampadas a preto, com letras de 0,035 m de altura rodeando o desenho de uma bóia atravessada por âncoras cruzadas (fig. 4).
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 26.º
 
-O fato de treino é de tecido e cor vermelha.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 27.º
 
-O boné de monitor de nadador-salvador é de terylene de cor vermelha, com pala, tendo inscrita na parte frontal a sigla ISN em cor branca.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 28.º
 
-Os uniformes do pessoal a que alude o n.º 1 do artigo 2.º têm uma composição idêntica à referida no n.º 1 do artigo 23.º, com as particularidades constantes dos artigos 29.º a 32.º
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 29.º
 
-Os calções de banho dos nadadores-salvadores levam as palavras «nadador-salvador» estampadas a preto sobre cada uma das faixas laterais brancas.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 30.º
 
-Os calções de banho dos vigias levam a palavra «vigia» estampada a preto sobre cada uma das faixas laterais brancas.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 31.º
 
-Na camisola de algodão dos nadadores-salvadores é estampado o distintivo de nadador-salvador na parte exterior das mangas.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 32.º
 
-Na camisola de algodão dos vigias não é aplicado qualquer distintivo.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 33.º
 
-O boné de nadador-salvador é igual ao de monitor e ao de vigia.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15.
 
 ###### Artigo 34.º
 

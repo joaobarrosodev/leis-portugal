@@ -38,9 +38,11 @@ REGULAMENTO DE APOIO FINANCEIRO SELECTIVO À TRANSCRIÇÃO DE OBRAS PARA DVD (DI
 
 ###### Artigo 1.º — Âmbito de aplicação
 
-1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimedia, adiante designado por ICAM, à transcrição para DVD (digital video disk) de obras cinematográficas, obras áudio-visuais e espectáculos nas áreas da música, teatro e dança.
+1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, à transcrição para DVD (Digital Video Disk) de obras cinematográficas e audiovisuais de produção portuguesa.
 
 2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural.
+
+> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17.
 
 ###### Artigo 2.º — Requerentes e beneficiários
 

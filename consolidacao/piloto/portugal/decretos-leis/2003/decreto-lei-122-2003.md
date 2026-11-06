@@ -32,53 +32,27 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza e objectivos
 
-A Direcção-Geral do Ensino Superior é o serviço, dotado de autonomia administrativa, que assegura a concepção, execução e coordenação das políticas que, no domínio do ensino superior, cabem ao Ministério da Ciência e do Ensino Superior.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 2.º — Atribuições
 
-São atribuições da Direcção-Geral do Ensino Superior:
+(Revogado.)
 
-a) Apoiar o Ministro da Ciência e do Ensino Superior na definição das políticas para o ensino superior, nomeadamente na acção social no ensino superior;
-
-b) Preparar e executar, sem prejuízo da autonomia dos estabelecimentos de ensino superior, as decisões que ao Ministério da Ciência e do Ensino Superior pertença tomar no que respeita a essas instituições;
-
-c) Coordenar as acções relativas ao acesso e ingresso no ensino superior;
-
-d) Assegurar e coordenar as actividades relativas à prestação de informação sobre o sistema de ensino superior;
-
-e) Proceder à afectação das verbas destinadas à acção social escolar no ensino superior;
-
-f) Promover, coordenar e acompanhar o sistema de empréstimos para autonomização do estudante.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 3.º — Articulação com serviços do Ministério da Ciência e do Ensino Superior
 
-1 - A Direcção-Geral do Ensino Superior desenvolve o seu trabalho em articulação e cooperação com os restantes serviços do Ministério da Ciência e do Ensino Superior, designadamente com:
+(Revogado.)
 
-a) A Secretaria-Geral do Ministério da Ciência e do Ensino Superior;
-
-b) A Inspecção-Geral da Ciência e do Ensino Superior;
-
-c) O Gabinete de Gestão Financeira da Ciência e do Ensino Superior;
-
-d) O Observatório da Ciência e do Ensino Superior;
-
-e) O Gabinete de Relações Internacionais da Ciência e do Ensino Superior.
-
-2 - Esta articulação e cooperação traduz-se, designadamente, na definição e execução de planos comuns de actividade e na troca permanente das informações necessárias ao bom desempenho das respectivas atribuições.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 4.º — Articulação com serviços do Ministério da Educação
 
-1 - A Direcção-Geral do Ensino Superior desenvolve o seu trabalho em articulação e cooperação com os serviços do Ministério da Educação, nos termos do disposto nas leis orgânicas dos respectivos ministérios, designadamente nas seguintes áreas:
+(Revogado.)
 
-a) Acesso e ingresso no ensino superior;
-
-b) Formação de educadores e de professores dos ensinos básico e secundário;
-
-c) Informação aos estudantes.
-
-2 - As direcções regionais de educação do Ministério da Educação em articulação com a Direcção-Geral do Ensino Superior asseguram, a nível regional, as acções necessárias ao acesso e ingresso no ensino superior.
-
-3 - A Secretaria-Geral do Ministério da Educação em articulação com a Direcção-Geral do Ensino Superior assegura a prestação de informações acerca do sistema de ensino superior através dos seus serviços de informação e relações públicas.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -86,23 +60,15 @@ c) Informação aos estudantes.
 
 ###### Artigo 5.º — Órgãos
 
-São órgãos da Direcção-Geral do Ensino Superior:
+(Revogado.)
 
-a) O director-geral;
-
-b) O conselho administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 6.º — Serviços
 
-São serviços da Direcção-Geral do Ensino Superior:
+(Revogado.)
 
-a) A Direcção de Serviços de Acesso;
-
-b) A Direcção de Serviços de Acção Social;
-
-c) A Direcção de Serviços Pedagógicos e de Pessoal;
-
-d) O Núcleo Administrativo e Financeiro.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 #### SECÇÃO II — Órgãos
 
@@ -122,55 +88,29 @@ d) O Núcleo Administrativo e Financeiro.
 
 ###### Artigo 8.º — Subdirectores-gerais
 
-1 - O director-geral é coadjuvado por dois subdirectores-gerais.
+(Revogado.)
 
-2 - O director-geral é substituído nas suas faltas e impedimentos pelo subdirector-geral por ele designado para o efeito.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 9.º — Equiparação
 
-É equiparado, para todos os efeitos legais, ao exercício da função própria o serviço prestado pelo pessoal docente como director-geral e subdirector-geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO II — Conselho administrativo
 
 ###### Artigo 10.º — Conselho administrativo
 
-O conselho administrativo é o órgão de gestão financeira e patrimonial da Direcção-Geral do Ensino Superior, ao qual compete:
+(Revogado.)
 
-a) Aprovar os planos financeiros adequados aos programas anuais e plurianuais de actividades da Direcção-Geral do Ensino Superior;
-
-b) Aprovar o projecto de orçamento da Direcção-Geral do Ensino Superior, por conta das dotações atribuídas no Orçamento do Estado, e ainda aprovar a abertura de créditos especiais de aplicação de receitas próprias;
-
-c) Garantir a boa execução do orçamento da Direcção-Geral do Ensino Superior e propor as alterações orçamentais julgadas necessárias;
-
-d) Aprovar a conta de gerência e submetê-la a julgamento do Tribunal de Contas;
-
-e) Assegurar a cobrança das receitas da Direcção-Geral do Ensino Superior;
-
-f) Garantir a legalidade das despesas da Direcção-Geral do Ensino Superior e autorizar a sua realização, em obediência às normas que disciplinam a administração financeira do Estado;
-
-g) Autorizar o pagamento de despesas por conta do orçamento da Direcção-Geral do Ensino Superior;
-
-h) Fixar o preço dos produtos e serviços da Direcção-Geral do Ensino Superior;
-
-i) Deliberar, em geral, sobre quaisquer matérias no âmbito da gestão financeira e patrimonial da Direcção-Geral do Ensino Superior.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 11.º — Composição e funcionamento
 
-1 - Integram o conselho administrativo:
+(Revogado.)
 
-a) O director-geral, que preside;
-
-b) Os subdirectores-gerais;
-
-c) O director da Direcção de Serviços de Acção Social.
-
-2 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o seu presidente o convoque, por sua iniciativa ou por solicitação de qualquer dos seus membros.
-
-3 - O conselho administrativo é secretariado por um funcionário designado pelo seu presidente.
-
-4 - O conselho administrativo pode delegar no seu presidente a competência para a prática de actos de gestão ordinária.
-
-5 - O funcionamento do conselho administrativo rege-se pelas normas do Código do Procedimento Administrativo referentes a órgãos colegiais.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 #### SECÇÃO III — Serviços
 
@@ -178,83 +118,43 @@ c) O director da Direcção de Serviços de Acção Social.
 
 ###### Artigo 12.º — Direcção de Serviços de Acesso
 
-À Direcção de Serviços de Acesso compete desenvolver as acções relativas ao acesso e ingresso no ensino superior cometidas pela lei à Direcção-Geral do Ensino Superior, designadamente:
+(Revogado.)
 
-a) Desenvolver as acções cometidas pela lei à Direcção-Geral do Ensino Superior no que se refere ao regime geral de acesso e ingresso no ensino superior (concurso nacional, concursos locais e concursos institucionais), aos concursos especiais e aos regimes especiais de acesso e ingresso no ensino superior;
-
-b) Desenvolver as acções cometidas pela lei à Direcção-Geral do Ensino Superior no que se refere ao exame extraordinário de avaliação de capacidade para acesso ao ensino superior de maiores de 25 anos;
-
-c) Assegurar a actualização permanente dos módulos da base de dados do sistema de ensino superior referentes aos concursos abrangidos pelo regime geral, aos concursos especiais e aos regimes especiais;
-
-d) Assegurar a informação geral acerca dos concursos abrangidos pelo regime geral, dos concursos especiais e dos regimes especiais, quer através de guias informativos, quer através da Internet;
-
-e) Assegurar a disponibilização através da Internet de informação acerca dos resultados do concurso nacional e do exame extraordinário de avaliação de capacidade para acesso ao ensino superior de maiores de 25 anos.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO II — Direcção de Serviços de Acção Social
 
 ###### Artigo 13.º — Direcção de Serviços de Acção Social
 
-À Direcção de Serviços de Acção Social compete, designadamente:
+(Revogado.)
 
-a) Acompanhar o funcionamento dos serviços de acção social escolar do ensino superior;
-
-b) Propor a afectação aos serviços de acção social das verbas destinadas à acção social;
-
-c) Promover, coordenar e acompanhar o sistema de empréstimos para autonomização do estudante;
-
-d) Desenvolver as acções, no domínio das bolsas de mérito, que competem ao Ministério da Ciência e do Ensino Superior;
-
-e) Avaliar a qualidade da rede de infra-estruturas da acção social escolar no ensino superior, em articulação com o Gabinete de Gestão Financeira da Ciência e do Ensino Superior, propor as medidas necessárias à sua optimização e participar na programação de novas infra-estruturas;
-
-f) Gerir a atribuição de benefícios sociais aos estudantes do ensino superior não público;
-
-g) Promover parcerias que contribuam para diversificar a oferta e incrementar a qualidade dos serviços disponibilizados no âmbito da acção social escolar do ensino superior;
-
-h) Assegurar a actualização permanente dos módulos da base de dados referentes a bolsas de estudos e outros apoios sociais directos e indirectos;
-
-i) Cooperar com serviços e organismos de outros ministérios na elaboração da proposta de orçamento para a acção social, acompanhar a execução orçamental das verbas da acção social escolar no ensino superior e avaliar os resultados dessa execução;
-
-j) Realizar estudos sobre o sistema de acção social escolar no ensino superior;
-
-l) Participar em estudos internacionais sobre o sistema de acção social escolar no ensino superior, nomeadamente no âmbito da União Europeia.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ##### SUBSECÇÃO III — Direcção de Serviços Pedagógicos e de Pessoal
 
 ###### Artigo 14.º — Direcção de Serviços Pedagógicos e de Pessoal
 
-1 - À Direcção de Serviços Pedagógicos e de Pessoal compete desenvolver as acções relativas ao sistema de ensino superior no âmbito da rede, graus académicos, cursos e equivalências, reconhecimento e intercâmbio académico e nas demais matérias nas vertentes pedagógica e científica, bem como no que se refere a pessoal docente e não docente, cometidas pela lei à Direcção-Geral do Ensino Superior.
+(Revogado.)
 
-2 - À Direcção de Serviços Pedagógicos e de Pessoal compete colaborar na actualização permanente dos módulos da base de dados do sistema de ensino superior referentes a estabelecimentos, cursos, vagas, alunos, diplomados, normas legais e pessoal docente e não docente.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 15.º — Divisões
 
-A Direcção de Serviços Pedagógicos e de Pessoal compreende:
+(Revogado.)
 
-a) A Divisão da Rede;
-
-b) A Divisão do Registo;
-
-c) A Divisão de Pessoal Docente e não Docente.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 16.º — Equivalência, reconhecimento e intercâmbio académico
 
-No âmbito da equivalência, reconhecimento e intercâmbio académico de habilitações, compete, designadamente, à Direcção de Serviços Pedagógicos e de Pessoal:
+(Revogado.)
 
-a) Assegurar a prestação de informações sobre equivalência e reconhecimento de habilitações superiores estrangeiras, nomeadamente no âmbito da mobilidade académica e profissional, a cidadãos nacionais e não nacionais, estabelecimentos de ensino superior e organizações nacionais e internacionais;
-
-b) Assegurar a participação em reuniões no âmbito das redes internacionais de ensino superior, bem como no quadro da coordenação da aplicação das directivas comunitárias sobre reconhecimento profissional;
-
-c) Colaborar com as instituições de ensino superior na uniforme aplicação das normas legais sobre equivalência e reconhecimento de habilitações superiores estrangeiras;
-
-d) Organizar e manter actualizada uma base de dados dos pedidos de equivalência e reconhecimento de habilitações superiores estrangeiras;
-
-e) Assegurar a prestação de informações acerca da mobilidade profissional na União Europeia e da aplicação das correspondentes directivas comunitárias;
-
-f) Recolher, tratar e divulgar informação relativa a eventos internacionais junto de potenciais interessados, nomeadamente instituições de ensino superior;
-
-g) Participar na prestação internacional de informações acerca do sistema de ensino superior português.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 17.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ##### Divisão da Rede
 
@@ -276,6 +176,10 @@ g) Assegurar a disponibilização através da Internet de informação actualiza
 
 ###### Artigo 18.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
+
 ##### Divisão do Registo
 
 À Divisão do Registo compete, designadamente:
@@ -293,6 +197,10 @@ e) Instruir os processos de equivalência, reconhecimento e registo de habilita�
 f) Assegurar a informação acerca dos cursos de ensino superior e promover a sua difusão quer através de guias informativos, quer através da Internet.
 
 ###### Artigo 19.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ##### Divisão de Pessoal Docente e não Docente
 
@@ -316,229 +224,151 @@ g) Analisar as necessidades de descongelamento de admissões de pessoal dos esta
 
 ###### Artigo 20.º — Núcleo Administrativo e Financeiro
 
-1 - Ao Núcleo Administrativo e Financeiro compete promover e assegurar a gestão e administração do expediente geral, dos recursos humanos, financeiros e patrimoniais afectos à Direcção-Geral do Ensino Superior.
+(Revogado.)
 
-2 - Compete ao Núcleo Administrativo e Financeiro, no âmbito da programação e gestão financeira e patrimonial, designadamente:
-
-a) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros da Direcção-Geral do Ensino Superior;
-
-b) Elaborar os projectos dos planos anuais e plurianuais de actividades;
-
-c) Exercer o controlo orçamental e a avaliação da afectação dos recursos financeiros às actividades desenvolvidas pelos órgãos e serviços;
-
-d) Assegurar a escrituração e os registos contabilísticos obrigatórios;
-
-e) Assegurar a gestão integrada dos recursos financeiros;
-
-f) Elaborar os projectos de orçamento e respectivas alterações;
-
-g) Promover a elaboração da conta de gerência e de todos os documentos de prestação de contas exigidos por lei;
-
-h) Assegurar a conservação e gestão dos bens, equipamentos e instalações da Direcção-Geral do Ensino Superior;
-
-i) Organizar e manter actualizado o inventário dos bens móveis e imóveis da Direcção-Geral do Ensino Superior, bem como assegurar a gestão da frota automóvel;
-
-j) Assegurar o apetrechamento em mobiliário e equipamento, promover as demais aquisições necessárias ao funcionamento da Direcção-Geral do Ensino Superior e proceder à sua armazenagem, conservação e distribuição.
-
-3 - Compete ao Núcleo Administrativo e Financeiro, no âmbito da organização e gestão dos recursos humanos, designadamente:
-
-a) Elaborar os estudos necessários à correcta afectação e gestão do pessoal pelos diversos serviços;
-
-b) Estudar e colaborar na aplicação de métodos actualizados de gestão dos recursos humanos e promover a realização das acções necessárias à implementação dos planos e programas de modernização administrativa;
-
-c) Desenvolver as acções necessárias à organização e instrução dos processos referentes à situação profissional do pessoal, designadamente o recrutamento, acolhimento e movimentação do pessoal;
-
-d) Recolher e organizar a informação sócio-económica relativa aos recursos humanos, de modo a proporcionar uma correcta gestão em termos profissionais, assim como a elaboração do balanço social;
-
-e) Assegurar a execução das normas sobre condições ambientais de higiene e segurança no trabalho;
-
-f) Organizar e manter actualizado o ficheiro de pessoal da Direcção-Geral do Ensino Superior e o registo e controlo de assiduidade, bem como emitir certidões e outros documentos constantes dos processos individuais;
-
-g) Assegurar a preparação e execução das acções relativas à constituição, modificação e extinção da relação jurídica de emprego;
-
-h) Assegurar a análise e o processamento dos vencimentos e demais abonos relativos ao pessoal, proceder aos descontos que sobre eles incidem, bem como elaborar os documentos que lhes servem de suporte;
-
-i) Assegurar a execução das acções relativas à notação do pessoal e à elaboração das listas de antiguidade e o expediente relacionado com os benefícios sociais a que os funcionários têm direito;
-
-j) Executar as tarefas inerentes à recepção, classificação, distribuição e arquivo de todo o expediente da Direcção-Geral do Ensino Superior;
-
-l) Garantir a divulgação pelos serviços das normas internas e das directivas superiores de carácter geral.
-
-4 - O Núcleo Administrativo e Financeiro é coordenado por um técnico superior designado por despacho do director-geral.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO III — Fundo de Acção Social
 
 ###### Artigo 21.º — Denominação e objectivos
 
-Integrado na Direcção-Geral do Ensino Superior funciona o Fundo de Acção Social, adiante designado por Fundo, com a natureza de património autónomo não personalizado, e que tem por objectivo assegurar o pagamento de bolsas a estudantes, nos termos legalmente definidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 22.º — Entidade gestora
 
-Cabe à Direcção-Geral do Ensino Superior, enquanto entidade gestora do Fundo, administrá-lo e conferir, controlar e processar os pagamentos efectuados por meio dele.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 23.º — Capital inicial do Fundo de Acção Social
 
-O capital inicial do Fundo corresponde ao capital apurado na data de encerramento da conta de gerência, no que respeita ao orçamento de acção social escolar, do Fundo de Apoio ao Estudante, criado nos termos da [Lei n.º 113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de Setembro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 24.º — Receitas
 
-Constituem receitas do Fundo:
+(Revogado.)
 
-a) As dotações e transferências do Orçamento do Estado;
-
-b) As comparticipações ou transferências financeiras e subsídios provenientes de quaisquer entidades públicas, nacionais ou comunitárias;
-
-c) Os saldos das contas de anos findos;
-
-d) Os rendimentos de depósitos;
-
-e) Quaisquer outras receitas não compreendidas nas alíneas anteriores que lhe sejam atribuídas por lei, acto ou contrato ou que resultem do exercício da sua actividade.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 25.º — Despesas
 
-Constituem despesas do Fundo:
+(Revogado.)
 
-a) O pagamento de bolsas a estudantes;
-
-b) As despesas com o depósito de valores e outros encargos documentados, directamente relacionados com o seu património;
-
-c) Outras despesas que lhe sejam cometidas por lei.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 26.º — Disponibilidades de tesouraria
 
-Os excedentes e disponibilidades de tesouraria que possam existir, resultantes da gestão do Fundo, são aplicados junto da Direcção-Geral do Tesouro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 27.º — Contabilidade
 
-O Fundo adopta nas suas contas, com as necessárias adaptações, o Plano Oficial de Contabilidade Pública.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 28.º — Relatório e contas anuais
 
-1 - As contas do Fundo de Acção Social encerram-se em 31 de Dezembro de cada ano.
+(Revogado.)
 
-2 - O relatório de actividade e as contas anuais relativos ao Fundo de Acção Social são objecto de parecer do conselho administrativo da Direcção-Geral do Ensino Superior.
-
-3 - Os documentos referidos no número anterior são remetidos ao Ministro da Ciência e do Ensino Superior, para conhecimento.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO IV — Regime financeiro
 
 ###### Artigo 29.º — Princípios de gestão financeira e instrumentos de avaliação e controlo
 
-1 - A Direcção-Geral do Ensino Superior observa, na sua gestão financeira e patrimonial, os seguintes princípios:
+(Revogado.)
 
-a) Gestão por objectivos;
-
-b) Controlo interno da gestão pelos resultados;
-
-c) Informação permanente da evolução financeira.
-
-2 - Para concretização dos princípios enunciados no número anterior, a Direcção-Geral do Ensino Superior utiliza os seguintes instrumentos de avaliação e controlo:
-
-a) Planos de actividades anuais e plurianuais, com definição de objectivos e respectivos planos de acção, devidamente quantificados;
-
-b) Orçamento anual;
-
-c) Relatório anual de actividades;
-
-d) Conta de gerência e relatórios financeiros;
-
-e) Balanço social.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 30.º — Receitas
 
-Constituem receitas da Direcção-Geral do Ensino Superior, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:
+(Revogado.)
 
-a) O produto da venda de publicações e impressos, bem como de outros documentos;
-
-b) Os subsídios, subvenções, comparticipações;
-
-c) Quaisquer outras receitas que lhe advenham por lei, contrato ou a outro título;
-
-d) As quantias cobradas por actividade ou serviços prestados;
-
-e) O produto da venda, nos termos da lei, de bens móveis, excluindo os veículos automóveis, que não sejam necessários ao seu funcionamento;
-
-f) Os saldos das verbas consignadas.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 31.º — Despesas
 
-Constituem despesas da Direcção-Geral do Ensino Superior todas as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas atribuições e competências.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO V — Pessoal
 
 ###### Artigo 32.º — Quadro de pessoal
 
-1 - O quadro de pessoal dirigente da Direcção-Geral do Ensino Superior é o constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+(Revogado.)
 
-2 - A Direcção-Geral do Ensino Superior dispõe de um quadro de pessoal próprio, a aprovar por portaria conjunta dos Ministros de Estado e das Finanças e da Ciência e do Ensino Superior.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 33.º — Requisição de docentes do ensino superior
 
-1 - Por despacho do Ministro da Ciência e do Ensino Superior, após anuência da instituição de ensino, poderão ser requisitados docentes de instituições de ensino superior tuteladas pelo Ministério da Ciência e do Ensino Superior para prestação de serviço na Direcção-Geral do Ensino Superior, tendo em vista ocuparem-se de estudos e outros trabalhos visando o desenvolvimento do ensino superior.
+(Revogado.)
 
-2 - Aos docentes referidos no número anterior aplicam-se as disposições previstas nos respectivos estatutos de carreira referentes à prestação de serviço noutras funções públicas, nomeadamente no que se refere à suspensão de prazos para apresentação de relatórios curriculares e de contratos.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 34.º — Requisição de outros docentes
 
-Por despacho conjunto dos Ministros da Educação e da Ciência e do Ensino Superior, após anuência da instituição de ensino, poderão ser requisitados, nos termos do respectivo estatuto, docentes de instituições de ensino não superior, a fim de exercerem funções no âmbito de estudos e outros trabalhos visando o desenvolvimento do ensino.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO VI — Disposições transitórias
 
 ###### Artigo 35.º — Transição de pessoal
 
-1 - A transição de pessoal do quadro único do Ministério da Educação afecto à Direcção-Geral do Ensino Superior para o quadro da Direcção-Geral do Ensino Superior é feita nos termos do n.º 2 do artigo 32.º do [Decreto-Lei n.º 205/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2002-657223), de 7 de Outubro, de acordo com lista nominativa a aprovar por despacho conjunto dos Ministros da Educação e da Ciência e do Ensino Superior.
+(Revogado.)
 
-2 - Os funcionários do quadro provisório do Fundo de Apoio ao Estudante, bem como, precedendo requerimento a efectuar no prazo de 30 dias, o pessoal requisitado, destacado ou em comissão de serviço que ali preste serviço à data da publicação do presente diploma transitam para o quadro da Direcção-Geral do Ensino Superior.
-
-3 - Sem prejuízo do disposto no número anterior, os funcionários que, à data da entrada em vigor do presente diploma, exerçam funções no Fundo de Apoio ao Estudante em regime de requisição, destacamento ou comissão de serviço regressam aos respectivos lugares de origem.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 36.º — Transferência de bens, direitos e obrigações
 
-1 - Transferem-se para a Direcção-Geral do Ensino Superior os bens, direitos e obrigações em que se encontre constituído o Fundo de Apoio ao Estudante, independentemente de quaisquer formalidades, nos termos do disposto no artigo 30.º do [Decreto-Lei n.º 205/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2002-657223), de 7 de Outubro.
+(Revogado.)
 
-2 - Os bens patrimoniais afectos à Direcção-Geral do Ensino Superior que, à data da sua reestruturação, não sejam estritamente necessários à prossecução das suas atribuições revertem para a Direcção-Geral do Património, para posterior reafectação.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 37.º — Providências orçamentais
 
-1 - Transitam para a Direcção-Geral do Ensino Superior, independentemente de qualquer formalidade, os saldos das verbas orçamentais afectas ao Fundo de Apoio ao Estudante, sem prejuízo do disposto no artigo 26.º
+(Revogado.)
 
-2 - No presente ano económico, os encargos decorrentes da acção social escolar no ensino superior público e da atribuição de bolsas de estudo a alunos que frequentem o ensino superior particular, cooperativo ou concordatário são suportados pelas verbas orçamentais que lhe estavam consignadas no orçamento do Fundo de Apoio ao Estudante (capítulo 04, divisão 08, subdivisões 01 e 02) e que constitui o capital inicial do Fundo de Acção Social.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 38.º — Ratificação de actos
 
-Ficam ratificados os actos praticados pela comissão instaladora do Fundo de Apoio ao Estudante, desde o dia 1 de Janeiro de 2003.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ### CAPÍTULO VII — Disposições finais
 
 ###### Artigo 39.º — Comercialização de documentos
 
-A Direcção-Geral do Ensino Superior pode assegurar a comercialização de:
+(Revogado.)
 
-a) Publicações, documentos editados por si, pela Editorial do Ministério da Educação, pela Imprensa Nacional-Casa da Moeda, S. A., ou por outros serviços;
-
-b) Impressos;
-
-c) Informações sobre o sistema educativo em suporte informático ou escrito.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 40.º — Referências legais
 
-As referências feitas na legislação em vigor ao Fundo de Apoio ao Estudante entendem-se como feitas à Direcção-Geral do Ensino Superior.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 41.º — Norma revogatória
 
-São revogados:
+(Revogado.)
 
-a) O artigo 27.º e o n.º 4 do artigo 34.º da [Lei n.º 113/97](https://diariodarepublica.pt/dr/detalhe/lei/113-1997-649162), de 16 de Setembro;
-
-b) O [Decreto-Lei n.º 94-D/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-d-1998-474480), de 17 de Abril;
-
-c) O [Decreto-Lei n.º 369/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1998-217937), de 23 de Novembro;
-
-d) Os n.os 3 e 4 do artigo 11.º do [Decreto-Lei n.º 205/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2002-657223), de 7 de Outubro.
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 ###### Artigo 42.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 151/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2007-520993), publicado em 2007-04-27.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria.
 

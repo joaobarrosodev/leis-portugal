@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:411355:por
     title: Decreto Regulamentar Regional n.º 5/2000/M
     publication_date: '2000-03-15'
-  - id: pt:dre:411355:por
-    title: Decreto Regulamentar Regional n.º 5/2000/M
-    publication_date: '2000-03-15'
 ---
 
 # Decreto Regulamentar Regional n.º 12/97/M
@@ -34,18 +31,6 @@ Nos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/
 ###### Artigo 2.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
-
-Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 10 de Abril de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DO COMÉRCIO E INDÚSTRIA
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -81,9 +66,7 @@ i) Promover e assegurar a gestão dos parques industriais.
 
 #### SECÇÃO I
 
-###### Artigo 3.º
-
-Estrutura
+###### Artigo 3.º — Estrutura
 
 A DRCI compreende os seguintes órgãos e serviços:
 
@@ -99,11 +82,11 @@ e) Direcção de Serviços do Comércio;
 
 f) Direcção de Serviços da Indústria;
 
-g) Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento;
+g) Direcção de Serviços de Energia;
 
-h) Direcção de Serviços de Energia;
+h) O Departamento dos Serviços Administrativos.
 
-i) Repartição dos Serviços Administrativos.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 #### SECÇÃO II — Director regional
 
@@ -293,7 +276,7 @@ b) Divisão de Combustíveis.
 
 ###### Artigo 12.º — Competências
 
-À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, nomeadamente:
+Ao Departamento dos Serviços Administrativos, abreviadamente designado por DSA, compete, nomeadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;
 
@@ -302,6 +285,8 @@ b) Coordenar, promover a assegurar os procedimentos administrativos relativos a 
 c) Assegurar e controlar a execução orçamental da DRCI;
 
 d) Promover e assegurar a gestão dos recursos patrimoniais, numa perspectiva de optimização dos meios disponíveis, e zelar pela sua conservação, incluindo a dos edifícios e demais instalações afectos à DRCI.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 ### CAPÍTULO III — Pessoal
 
@@ -361,17 +346,15 @@ Com a entrada em vigor do presente diploma são extintos os lugares de chefe de 
 
 #### SECÇÃO II
 
-###### Artigo 15.º
-
-Categorias de operador de reprografia e de auxiliar de limpeza
+###### Artigo 15.º — Categorias de operador de reprografia e de auxiliar de limpeza
 
 1 - As categorias de operador de reprografia e de auxiliar de limpeza integram o grupo de pessoal auxiliar.
 
-2 - Os escalões salariais das categorias referidas no número anterior constam do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+2 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.
 
-3 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.
+3 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.
 
-4 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
@@ -390,3 +373,15 @@ Os encargos resultantes da aplicação do presente diploma são suportados por d
 ###### Artigo 19.º — Regime retributivo
 
 Sem prejuízo do previsto no presente diploma, o regime retributivo do pessoal da DRCI é o constante do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação e regulamentação complementares.
+
+Aprovado em Conselho do Governo Regional em 20 de Março de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 10 de Abril de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DO COMÉRCIO E INDÚSTRIA

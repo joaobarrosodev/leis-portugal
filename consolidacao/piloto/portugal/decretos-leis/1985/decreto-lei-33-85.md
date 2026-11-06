@@ -44,19 +44,21 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 ###### Artigo 2.º
 
-1 - O exercício do direito de livre acesso concedido pelo n.º 2 do artigo anterior não pode ser prejudicado pela execução de quaisquer das medidas previstas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, e vale independentemente da concreta natureza dos documentos que integram os referidos arquivos.
+(Revogado.)
 
-2 - A Biblioteca Nacional deve, para satisfação do direito referido no número anterior, proporcionar, através dos serviços designados para o efeito, dentro das horas do seu funcionamento, em gabinete individual e com a maior prontidão, a consulta e análise dos documentos integrados nos arquivos a que se refere o presente decreto-lei, bem como fotocópias dos mesmos, sendo o custo destas suportado pela Comissão do Livro Negro sobre o Regime Fascista.
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
 
 ###### Artigo 3.º
 
-1 - A Comissão do Livro Negro sobre o Regime Fascista pode reproduzir na publicação a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 110/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1978-294680), de 26 de Maio, quaisquer documentos que constem dos arquivos mencionados no n.º 1 do artigo 1.º do presente diploma.
+(Revogado.)
 
-2 - A reprodução a que alude o número anterior efectua-se com a ressalva do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 110/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1978-294680), desde que não fique prejudicada a preservação dos documentos a que se referir.
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
 
 ###### Artigo 4.º
 
-O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - António Antero Coimbra Martins.
 

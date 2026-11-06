@@ -80,18 +80,6 @@ Nos termos da alínea a) do n.º 1 da Constituição, o Governo decreta o seguin
 
 > Revogado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
-Visto e aprovado em Conselho de Ministros de 16 de Maio de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
-
-Promulgado em 19 de Julho de 1996.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 22 de Julho de 1996.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
 ###### Artigo 8.º
 
 1 - É criado um conselho consultivo, ao qual compete o acompanhamento da atividade geral da sociedade, nomeadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
@@ -109,6 +97,18 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., deixar de ser detida maioritariamente por entidades públicas.
 
 > Aditado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
+
+Visto e aprovado em Conselho de Ministros de 16 de Maio de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 19 de Julho de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Julho de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -252,9 +252,11 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 ###### Artigo 14.º
 
-1 - Os accionistas com direito de voto poderão participar nas assembleias gerais desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ###### Artigo 15.º
 
@@ -268,7 +270,9 @@ l - A mesa da assembleia geral é constituída por um presidente, um vice-presid
 
 1 - A assembleia geral reunirá no 1.º trimestre subsequente ao encerramento do exercício anterior.
 
-2 - A assembleia geral reunirá ainda sempre que o requeiram o conselho de administração, o revisor oficial de contas ou os accionistas que representem, pelo menos, 5% do capital social.
+2 - A assembleia geral reúne ainda sempre que o requeiram o conselho de administração, o fiscal único ou os acionistas que representem, pelo menos, 5 % do capital social.
+
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ###### Artigo 17.º
 
@@ -284,7 +288,7 @@ l - A mesa da assembleia geral é constituída por um presidente, um vice-presid
 
 2 - Compete em especial à assembleia:
 
-a) Deliberar sobre o relatório do conselho de administração e as contas de exercício;
+a) Deliberar sobre o relatório de gestão e as contas de exercício;
 
 b) Deliberar sobre a proposta de aplicação dos resultados;
 
@@ -294,17 +298,21 @@ d) Eleger os membros dos órgãos sociais.
 
 3 - Salvo quando a lei ou os presentes estatutos exigirem maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
 
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
+
 #### SECÇÃO III — Administração da sociedade
 
 ###### Artigo 19.º
 
 1 - A administração da sociedade será exercida por um conselho de administração, composto por cinco membros.
 
-2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente.
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
 
 3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
 
 4 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de vencimentos por aquela nomeada.
+
+> Alterado pelo/a [Decreto-Lei n.º 101/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2014-25345603), publicado em 2014-07-02.
 
 ###### Artigo 20.º
 

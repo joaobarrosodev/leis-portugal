@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:610216:por
     title: Decreto-Lei n.º 11/2010
     publication_date: '2010-02-12'
-  - id: pt:dre:502980:por
-    title: Decreto-Lei n.º 148/2013
-    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 237/2006
@@ -463,7 +460,7 @@ Os métodos de ensaio da imunidade dos subconjuntos eléctricos/electrónicos a 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+> Revogado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.
 
 ###### Artigo 40.º — Produção de efeitos
 

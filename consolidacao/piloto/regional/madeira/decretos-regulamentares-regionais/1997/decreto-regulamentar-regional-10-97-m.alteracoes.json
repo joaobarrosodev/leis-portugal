@@ -40,5 +40,19 @@
     "unidade": [],
     "diploma": "pt:dre:385260:por",
     "alterador": "pt:dre:515269:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — Competências\n\nÀ RSA compete:\n\na) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;\n\nb) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;\n\nc) Assegurar o registo, encaminhamento, arquivo, expedição de documentação, contabilidade e património;\n\nd) Assegurar e controlar a execução orçamental da DRCE;\n\ne) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;\n\nf) Velar pela segurança e conservação das instalações e dos equipamentos.",
+    "depois": "###### Artigo 11.º — Competências\n\nAo DSAA compete:\n\na) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;\n\nb) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;\n\nc) Assegurar a recepção, classificação, registo e encaminhamento de documentos;\n\nd) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo;\n\ne) Assegurar e controlar a execução orçamental da DRCE;\n\nf) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;\n\ng) Velar pela segurança e conservação das instalações e dos equipamentos.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:385260:por",
+    "alterador": "pt:dre:515269:por"
   }
 ]

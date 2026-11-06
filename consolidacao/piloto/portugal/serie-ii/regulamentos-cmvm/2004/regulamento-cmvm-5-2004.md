@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:2577188:por
-    title: Regulamento da CMVM n.º 6/2005
-    publication_date: '2005-09-15'
   - id: pt:dre:1838154:por
     title: Regulamento da CMVM n.º 4/2006
     publication_date: '2006-07-05'
@@ -57,21 +54,33 @@ c) Taxas de juro;
 
 d) Divisas.
 
-2 - Podem ser emitidos warrants autónomos sobre índices sobre valores mobiliários, índices de índices e cabazes de valores mobiliários construídos pelo emitente dos warrants ou por pessoa colectiva com este em relação de domínio ou de grupo desde que:
+2 - Podem ser emitidos warrants autónomos sobre índices sobre valores mobiliários, índices sobre instrumentos financeiros, índices de índices e cabazes de valores mobiliários construídos pelo emitente dos warrants ou por pessoa colectiva com este em relação de domínio ou de grupo desde que:
 
-a) Os valores mobiliários cumpram o estabelecido nas alíneas a) e b) do n.º 1;
+a) Os valores mobiliários e os instrumentos financeiros cumpram o estabelecido nas alíneas a) e b) do n.º 1;
 
-b) Os índices sejam apurados por entidade gestora de mercados regulamentados ou utilizados como referência nos mercados internacionais.
+b) Os índices que sejam apurados por entidade gestora de mercados regulamentados ou apurados e divulgados por entidade idónea aceite pela CMVM ou por outra autoridade competente estrangeira.
 
-3 - Podem ainda ser emitidos:
+3 - Podem igualmente ser emitidos os seguintes warrants sobre contratos de futuros desde que os activos subjacentes sejam negociados em mercados regulamentados ou em mercado que tenha características equivalentes, designadamente no que respeita à informação prestada e à regularidade de formação e divulgação de preços:
 
-a) Warrants sobre contratos de futuros sobre mercadorias negociados em mercados regulamentados ou mercado que tenha características equivalentes, designadamente no que respeita à informação prestada e à regularidade de formação e divulgação de preços;
+a) Sobre mercadorias;
 
-b) Warrants sobre mercadorias, desde que as mercadorias subjacentes sejam homogéneas e negociadas regularmente em mercado e os seus preços sejam publicamente acessíveis;
+b) Sobre taxas de juro, índices de taxas de juro ou instrumentos de dívida;
 
-c) Warrants sobre índices de mercadorias, desde que respeitados cumulativamente os requisitos da alínea b) do n.º 2 e da alínea anterior.
+c) Sobre divisas;
 
-4 - Os warrants que tenham como activo subjacente activos mencionados no n.º 3 apenas admitem liquidação nos termos da alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 172/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1999-323701), de 20 de Maio.
+d) Sobre índices sobre valores mobiliários;
+
+e) Sobre índices de volatilidade.
+
+4 - Podem ainda ser emitidos:
+
+a) Warrants sobre mercadorias desde que as mercadorias subjacentes sejam homogéneas e negociadas regularmente em mercado e os seus preços sejam publicamente acessíveis;
+
+b) Warrants sobre índices de mercadorias desde que respeitados cumulativamente os requisitos da alínea b) do n.º 2 e da alínea anterior.
+
+5 - Os warrants que tenham como activo subjacente activos mencionados nos n.os 3 e 4 apenas admitem liquidação nos termos da alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 172/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1999-323701), de 20 de Maio.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 4.º — Valor do activo subjacente
 
@@ -83,9 +92,11 @@ c) Warrants sobre índices de mercadorias, desde que respeitados cumulativamente
 
 ###### Artigo 5.º — Requisitos de utilização dos activos subjacentes
 
-1 - A utilização de índices de valores mobiliários, índices de mercadorias e futuros sobre mercadorias como activo subjacente de warrants autónomos deve ser previamente autorizada pela entidade que procede ao seu apuramento ou supervisiona a sua negociação.
+1 - A utilização de índices de valores mobiliários, índices de mercadorias e contratos de futuros como activo subjacente de warrants autónomos deve ser previamente autorizada pela entidade que procede ao seu apuramento ou supervisiona a sua negociação.
 
 2 - A utilização de valores mobiliários como activo subjacente de warrants autónomos deve ser comunicada ao emitente do activo subjacente no prazo máximo de cinco dias a contar da data da deliberação de emissão.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 6.º — Determinação do preço do activo subjacente
 
@@ -121,15 +132,13 @@ Se os warrants autónomos previrem o cumprimento das obrigações pelo emitente 
 
 (Revogado.)
 
-> Revogado pelo/a [Regulamento da CMVM n.º 6/2005](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2005-2577188) e [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
+> Revogado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 11.º — Admissão à negociação de warrants autónomos emitidos por entidades sujeitas a lei pessoal estrangeira
 
-1 - Aplica-se à admissão a mercado regulamentado de warrants autónomos emitidos por entidades sujeitas a lei pessoal estrangeira o disposto nos artigos 60.º e seguintes do regulamento da CMVM n.º 10/2000, com as excepções constantes dos números seguintes.
+(Revogado.)
 
-2 - O disposto nas alíneas a), b), c) e d) do artigo 64.º do [Regulamento da CMVM n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/10-2000-3317497) apenas se aplica a emissões de warrants autónomos por entidades sujeitas a lei pessoal estrangeira na medida em que os valores emitidos confiram o direito à aquisição de acções ou outros valores mobiliários que dêem direito à sua subscrição ou aquisição a qualquer outro título.
-
-3 - Se o emitente de warrants autónomos for intermediário financeiro autorizado a praticar os actos previstos no artigo 68.º do [Regulamento da CMVM n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/10-2000-3317497), e este não designar intermediário financeiro de interligação, assume ele essa qualidade.
+> Revogado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 12.º — Aplicação a valores mobiliários análogos a warrants autónomos
 
@@ -137,49 +146,15 @@ Aplicam-se a valores mobiliários análogos a warrants autónomos os artigos 2.�
 
 ###### Artigo 13.º — Alteração ao regulamento da CMVM n.º 10/2000
 
-A alínea b) do n.º 2.3 do esquema C do anexo II ao regulamento da CMVM n.º 10/2000 passa a ter a seguinte redacção:
+(Revogado.)
 
-"b) Índices e cabazes de valores mobiliários e índices de mercadorias
-
-Descrição do índice ou cabaz e da sua composição.
-
-Identificação da entidade responsável pela sua elaboração e divulgação.
-
-Identificação dos locais e momentos de divulgação do índice.
-
-Método de cálculo do índice, com referência aos momentos de alteração da sua composição e indicação de procedimentos de ajustamento.
-
-Método de cálculo do valor do cabaz de valores mobiliários, com indicação dos procedimentos de ajustamento, referência aos factos que os determinam e metodologias de ajustamento a aplicar.
-
-Indicação da obtenção de autorização para utilização do índice.
-
-Indicação das consequências de impossibilidade de cálculo do valor do índice ou cabaz de valores mobiliários.
-
-Quadro comparativo da evolução do índice nos últimos 12 meses anteriores à data do prospecto.
-
-Quadro comparativo da evolução do cabaz de valores mobiliários nos últimos 12 meses anteriores à data do prospecto, utilizando para tal a cotação dos valores mobiliários que o compõem devidamente ajustados à forma de cálculo e composição do cabaz.
-
-Quadro indicativo da volatilidade histórica do preço do activo subjacente nos últimos 12 meses anteriores à data do prospecto."
+> Revogado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 14.º — Aditamento ao regulamento da CMVM n.º 10/2000
 
-Ao n.º 2.3 do esquema C do anexo II ao regulamento da CMVM n.º 10/2000 é aditado:
+(Revogado.)
 
-"d) Contratos de futuros sobre mercadorias e mercadorias
-
-Descrição do activo subjacente.
-
-Indicação do mercado onde é negociado e descrição sintética das regras de negociação desse mercado no que respeita à formação e divulgação de preços.
-
-Indicação da entidade ou entidades responsáveis pelo mercado onde o activo subjacente é negociado.
-
-Indicação de autorizações obtidas para utilização do activo subjacente.
-
-Identificação dos locais e momentos de divulgação do preço do activo subjacente.
-
-Quadro comparativo da evolução do preço do activo subjacente nos últimos 12 meses anteriores à data do prospecto.
-
-Quadro indicativo da volatilidade histórica do activo subjacente nos últimos 12 meses anteriores à data do prospecto."
+> Revogado pelo/a [Regulamento da CMVM n.º 4/2006](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/4-2006-1838154), publicado em 2006-07-05.
 
 ###### Artigo 15.º — Revogação
 

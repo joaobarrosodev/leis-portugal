@@ -50,9 +50,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 1 - A exploração e gestão do sistema multimunicipal do Litoral Centro é atribuída em regime de concessão exclusiva à ERSUC - Resíduos Sólidos do Centro, S. A., até 31 de dezembro de 2034.
 
-2 - [Revogado].
+2 - (Revogado.)
 
-3 - [Revogado].
+3 - (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
@@ -64,11 +64,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 5.º
 
-1 - Os municípios utilizadores devem articular os seus sistemas de recolha e transporte de resíduos sólidos urbanos com o sistema multimunicipal.
+(Revogado.)
 
-2 - A articulação entre os sistemas municipais de recolha e transporte de resíduos sólidos urbanos e o correspondente sistema multimunicipal será assegurada através dos contratos referidos no número seguinte.
-
-3 - Em simultâneo com o contrato de concessão serão celebrados, entre os municípios referidos no artigo 1.º e a sociedade, contratos de entrega, de recepção e de recolha selectiva de resíduos sólidos urbanos.
+> Revogado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 
@@ -78,33 +76,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 7.º
 
-1 - A sociedade instalará os seguintes equipamentos e executará as seguintes actividades e obras, com as adaptações técnicas resultantes do desenvolvimento do projecto, nos termos do contrato de concessão:
+(Revogado.)
 
-a) Implementação e desenvolvimento do sistema de recolha selectiva;
-
-b) Construção de centros de triagem e valorização de resíduos sólidos urbanos;
-
-c) Construção de estações de transferência;
-
-d) Construção de aterros sanitários para resíduos sólidos urbanos e unidades de tratamento complementares;
-
-e) Selagem das lixeiras existentes;
-
-f) Outros equipamentos que se revelem necessários.
-
-2 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, deverão ser previamente aprovados pelo Ministro do Ambiente, com dispensa de quaisquer outros licenciamentos.
-
-Visto e aprovado em Conselho de Ministros 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
-
-Promulgado em 14 de Agosto de 1996.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 21 de Agosto de 1996.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+> Revogado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 8.º
 
@@ -123,6 +97,18 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a ERSUC - Resíduos Sólidos do Centro, S. A., deixar de ser detida maioritariamente por entidades públicas.
 
 > Aditado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
+
+Visto e aprovado em Conselho de Ministros 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 14 de Agosto de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 21 de Agosto de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -172,7 +158,9 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 1 - O capital social é de 315000000$00, encontrando-se realizado em 105000000$00, devendo o remanescente, na importância de 210000000$00, ser realizado em dinheiro, por uma ou mais vezes, até três anos contados da constituição da sociedade, de acordo com as chamadas do conselho de administração feitas por escrito, mediante carta registada com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento da realização das entradas.
 
-2 - O capital social é representado por 287000 acções da classe A e 28000 acções da classe B com o valor nominal de 1000$00 cada uma.
+2 - O capital social é representado por 1 700 000 ações com o valor nominal de (euro)5,00 cada uma.
+
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 
@@ -192,7 +180,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000, 10000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
-3 - [Revogado].
+3 - (Revogado.)
 
 4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
 
@@ -202,9 +190,9 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 ###### Artigo 9.º
 
-1 - [Revogado].
+1 - (Revogado.)
 
-2 - [Revogado].
+2 - (Revogado.)
 
 3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
 
@@ -234,7 +222,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
-3 - [Revogado].
+3 - (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
@@ -250,9 +238,11 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 ###### Artigo 12.º
 
-1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal e um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão.
 
-2 - Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos por uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+2 - Os membros da mesa da assembleia geral, do conselho de administração, do conselho fiscal, o revisor oficial de contas ou a sociedade de revisores oficiais de contas são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos por uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 13.º
 
@@ -262,9 +252,11 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 ###### Artigo 14.º
 
-1 - Os accionistas com direito de voto poderão participar nas assembleias gerais desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
 
 2 - A representação de accionistas em assembleia geral poderá fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 15.º
 
@@ -294,7 +286,7 @@ Uma minoria de accionistas que tenha votado contra a proposta que fez vencimento
 
 2 - Compete em especial à assembleia:
 
-a) Deliberar sobre o relatório do conselho de administração e as contas do exercício;
+a) Deliberar sobre o relatório de gestão e as contas de exercício;
 
 b) Deliberar sobre a proposta de aplicação dos resultados;
 
@@ -304,17 +296,21 @@ d) Eleger os membros dos órgãos sociais.
 
 3 - Salvo quando a lei ou os presentes estatutos exigirem maioria qualificada superior, as deliberações da assembleia geral são tomadas com os votos correspondentes a acções que representem mais de 50% do capital social.
 
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
+
 #### SECÇÃO III — Administração da sociedade
 
 ###### Artigo 19.º
 
 1 - A administração da sociedade será exercida por um conselho de administração composto por três, cinco ou sete membros.
 
-2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente.
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
 
 3 - A responsabilidade dos administradores poderá ser dispensada de caução por deliberação da assembleia geral.
 
 4 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de vencimentos por aquela nomeada.
+
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 20.º
 
@@ -350,7 +346,13 @@ A sociedade obriga-se perante terceiros pela assinatura conjunta de dois adminis
 
 ###### Artigo 25.º
 
-A fiscalização da sociedade compete a um conselho fiscal composto por um presidente, dois vogais e um suplente, sendo um dos membros efectivos e o membro suplente revisores oficiais de contas.
+1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou sociedade de revisores oficiais de contas que não sejam membros daquele órgão.
+
+2 - O conselho fiscal é composto por três membros efetivos e por um suplente, nomeados em assembleia geral, sendo o seu presidente também por ela nomeado.
+
+3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.
+
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 25.º-A
 

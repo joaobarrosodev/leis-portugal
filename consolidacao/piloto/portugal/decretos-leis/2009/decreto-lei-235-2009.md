@@ -168,7 +168,7 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 2 - O valor da caução é de 5 % do volume de negócios da empresa no ano anterior ao da data da sua prestação.
 
-3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a RESINORTE, S.A., deixar de ser detida maioritariamente por entidades públicas.»
+3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a RESINORTE, S.A., deixar de ser detida maioritariamente por entidades públicas.
 
 > Aditado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
@@ -180,25 +180,21 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 ###### Artigo 12.º — Utilizadores do sistema do Norte Central
 
-1 - A articulação entre o sistema do Norte Central e o sistema correspondente de cada um dos municípios utilizadores é assegurada através de contratos de entrega, recepção e promoção de recolha selectiva ou de recolha indiferenciada e do seu adequado processamento a celebrar entre a RESINORTE, S. A., enquanto concessionária, e cada um dos municípios.
+(Revogado.)
 
-2 - São também considerados utilizadores quaisquer pessoas singulares ou colectivas, públicas ou privadas, nos termos previstos no contrato de concessão.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 13.º — Disposições transitórias
 
-1 - Os sistemas multimunicipais substituídos pelo sistema do Norte Central consideram-se extintos na data da outorga do contrato de concessão previsto no presente decreto-lei, cessando, também, por caducidade, os respectivos contratos de concessão, sem prejuízo de serem, naquele, devidamente regulados os direitos adquiridos na vigência destes.
+(Revogado.)
 
-2 - Até à data da outorga do contrato de concessão previsto no presente decreto-lei, o regime de prestação de serviços pela RESINORTE, S. A., aos municípios utilizadores dos sistemas multimunicipais substituídos pelo sistema do Norte Central continua a processar-se nos termos em que as concessionárias extintas, REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., o vêm fazendo.
-
-3 - A partir da data da outorga do contrato de concessão, o regime de prestação de serviços pela RESINORTE, S. A., aos utilizadores do sistema do Norte Central passa a processar-se nos termos previstos no mesmo, mantendo-se em vigor, até serem substituídos, os contratos de entrega, recepção e promoção de recolha selectiva ou de recolha indiferenciada, celebrados entre os utilizadores e as concessionárias extintas, considerando-se as menções feitas nestes contratos aos respectivos contratos de concessão como efectuadas ao contrato de concessão do sistema do Norte Central, e prevalecendo os termos e condições deste sobre o clausulado dos mesmos.
-
-4 - Na data da assinatura do contrato de concessão, o Estado promove a liberação imediata da caução anteriormente prestada pela REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., pela RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e pela RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., no âmbito dos contratos de concessão dos sistemas multimunicipais substituídos pelo sistema do Norte Central.
-
-5 - Pode ser transmitida à concessionária, nos termos que venham a ser fixados no contrato de concessão, e com efeitos a partir da data do início da mesma, a posição contratual dos municípios utilizadores, incluindo associações de municípios e empresas do sector empresarial local, nos contratos respeitantes à exploração do sistema do Norte Central, identificados no contrato de concessão.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 14.º — Primeira convocatória da assembleia geral
 
-Considera-se convocada a assembleia geral da RESINORTE, S. A., sem necessidade de cumprimento dos requisitos mencionados no artigo anterior dos seus estatutos, para o 10.º dia posterior à data da entrada em vigor do presente decreto-lei, ou para o 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os órgãos sociais da RESINORTE, S. A., e aprovar o respectivo estatuto remuneratório.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 15.º — Norma revogatória
 
@@ -366,9 +362,11 @@ c) O conselho fiscal e o revisor oficial de contas, ou sociedade de revisores of
 
 ###### Artigo 13.º — Participação e representação
 
-1 - Os accionistas com direito de voto podem participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na RESINORTE, S. A., até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - A representação de accionistas em assembleia geral pode fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 14.º — Mesa da assembleia geral
 
@@ -422,7 +420,9 @@ h) Fixar as remunerações dos órgãos sociais da RESINORTE, S. A., podendo est
 
 1 - A administração da RESINORTE, S. A., é exercida por um conselho de administração, composto por 5 a 13 membros.
 
-2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente.
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 19.º — Competência do conselho de administração
 
@@ -482,7 +482,7 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 
 4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
 
-5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.»
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
 
 > Aditado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 

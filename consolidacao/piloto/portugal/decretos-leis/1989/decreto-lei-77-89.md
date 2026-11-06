@@ -39,6 +39,10 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - Aos empréstimos referidos no número anterior aplica-se o disposto no [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, salvo no que diz respeito aos prazos dos empréstimos, que não podem ultrapassar vinte anos.
 
+3 - Os mutuários portadores de deficiência com um grau de incapacidade igual ou superior a 60% têm direito à aquisição ou construção de habitação própria, nos termos do n.º 8 do artigo 14.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, independentemente de terem procedido à conversão a que se refere o n.º 1.
+
+> Alterado pelo/a [Decreto-Lei n.º 234/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1995-563034), publicado em 1995-09-13.
+
 ###### Artigo 2.º
 
 A Direcção-Geral do Tesouro pode delegar em uma ou mais instituições especiais de crédito a sua representação em todos os actos inerentes à conversão dos créditos a que se refere o artigo anterior e confiar a essas mesmas instituições a gestão dos empréstimos individuais que venham a ser concedidos em aplicação do presente decreto-lei.
@@ -55,6 +59,12 @@ As escrituras públicas efectuadas ao abrigo do presente diploma e os consequent
 
 3 - A não observância do disposto nos números anteriores determina a nulidade dos actos.
 
+###### Artigo 5.º
+
+Para garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.
+
+> Aditado pelo/a [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), publicado em 2005-07-29.
+
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
 Promulgado em 18 de Fevereiro de 1989.
@@ -66,9 +76,3 @@ O Presidente da República, MÁRIO SOARES.
 Referendado em 18 de Fevereiro de 1989.
 
 O Primeiro-Ministro, Aníbal António Cavaco Silva.
-
-###### Artigo 5.º
-
-Para garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.
-
-> Aditado pelo/a [Decreto-Lei n.º 234/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1995-563034) e [Lei n.º 39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), publicado em 2005-07-29.

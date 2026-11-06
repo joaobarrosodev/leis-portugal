@@ -26,13 +26,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-É prorrogado, pelo prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, o período de suspensão da vigência do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, determinado pelo artigo 1.º do [Decreto-Lei n.º 129/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1996-405312), de 12 de Agosto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 2.º
 
-1 - A aplicação do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, bem como as matérias relativas à transferência da gestão do Hospital do Conde de Ferreira serão objecto de protocolo a celebrar entre o Ministério da Saúde e a mesa da Santa Casa da Misericórdia do Porto, o qual estabelecerá as condições do processo de transição.
+(Revogado.)
 
-2 - O processo de transição a que se refere o número anterior deve estar concluído até 31 de Dezembro de 1997.
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 3.º
 
@@ -44,11 +46,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 4.º
 
-Mantêm-se válidos os concursos abertos para lugares do quadro de pessoal do Hospital do Conde de Ferreira constante da [Portaria n.º 637/80](https://diariodarepublica.pt/dr/detalhe/portaria/637-1980-460850), de 16 de Setembro, com as alterações subsequentes, que se encontrem pendentes à data da entrada em vigor do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 5.º
 
-O presente diploma produz efeitos desde 1 de Janeiro de 1997.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 

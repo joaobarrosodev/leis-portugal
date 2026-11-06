@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:400397:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1 - É garantida a transição do pessoal a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, para os estabelecimentos hospitalares e serviços de saúde do âmbito da Sub-Região de Saúde do Porto, em função das necessidades dos serviços e da opção dos funcionários e agentes.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 131/98, art. 6.º, alínea b): revoga o DL 126/97 com exceção do n.º 1 do artigo 3.º; artigos 1.º, 2.º, 4.º e 5.º ficam (Revogado.) e o n.º 2 do artigo 3.º fica (Revogado.), mantendo-se o n.º 1 (o bloco de assinaturas que vinha no corpo do 5.º sai com a revogação).",
+    "DL 131/98, art. 6.º, alínea a) (revoga o DL 232/95) e art. 2.º, n.º 1 (remissão para o n.º 1 do art. 3.º do DL 126/97) não alteram o texto do original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

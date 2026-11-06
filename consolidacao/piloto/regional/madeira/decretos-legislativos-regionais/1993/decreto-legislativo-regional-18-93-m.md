@@ -56,9 +56,11 @@ O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Tei
 
 ###### Artigo 1.º — Natureza
 
-1 - A Direcção Regional de Estatística, adiante designada abreviadamente por DRE, é um serviço regional dotado de autonomia administrativa, integrado e dependente da Secretaria Regional das Finanças, nos termos da alínea c) do n.º 1 do artigo 4.º e do artigo 7.º do [Decreto Regulamentar Regional n.º 3/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1993-585230), de 21 de Janeiro, cujas atribuições, orgânica, funcionamento e pessoal constam do presente diploma.
+1 - A Direcção Regional de Estatística, adiante designada abreviadamente por DRE, é um serviço regional dotado de autonomia administrativa, integrado e dependente da Secretaria Regional do Plano e da Coordenação, nos termos da alínea b) do n.º 2 do artigo 4.º do [Decreto Regulamentar Regional n.º 2-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203), de 29 de Janeiro, alterado pelo [Decreto Regulamentar Regional n.º 14/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1999-692040), de 30 de Outubro, cujas atribuições, orgânica, funcionamento e pessoal constam do presente diploma.
 
 2 - Sem prejuízo do disposto no número anterior, a DRE, no exercício da sua actividade, está subordinada aos princípios enformadores do Sistema Estatístico Nacional e às orientações dimanadas do Conselho Superior de Estatística.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
 ###### Artigo 2.º — Atribuições
 
@@ -90,15 +92,19 @@ e) Exercer todas as demais atribuições que lhe forem legalmente cometidas.
 
 2 - Para o exercício das suas atribuições, a DRE compreende os seguintes órgãos e serviços:
 
-a) Conselho administrativo;
+a) Conselho Administrativo;
 
-b) Repartição de Administração e Difusão Estatística;
+b) Direcção de Serviços de Produção Estatística;
 
-c) Núcleo de Informática;
+c) Divisão de Estudos e Contas Económicas Regionais;
 
-d) Divisão de Estudos e Contas Económicas Regionais;
+d) Núcleo de Informática;
 
-e) Direcção de Serviços de Produção Estatística.
+e) Departamento de Administração;
+
+f) Departamento de Coordenação e Difusão Estatística
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
 #### SECÇÃO II — Director regional
 
@@ -134,9 +140,9 @@ n) Desempenhar as demais competências que lhe sejam atribuídas por lei ou que 
 
 2 - No exercício das suas atribuições, a DRE poderá exigir, salvaguardadas as excepções consignadas na lei, as informações de que careça a todos os funcionários, autoridades, serviços ou organismos e a todas as pessoas, singulares ou colectivas, que se encontrem na Região ou nela exerçam qualquer actividade.
 
-3 - O director regional é substituído nas suas ausências e impedimentos pelo director de Serviços de Produção Estatística.
+3 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
-4 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
 #### SECÇÃO III — Conselho administrativo
 
@@ -148,9 +154,13 @@ a) Director regional, que o preside;
 
 b) Director de Serviços de Produção Estatística;
 
-c) Chefe da Repartição de Administração e Difusão Estatística.
+c) Chefe de Departamento de Administração;
+
+d) Chefe de Departamento de Coordenação e Difusão Estatística.
 
 2 - O CA funcionará nos termos do seu regulamento, a ser aprovado em reunião deste conselho.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
 ###### Artigo 6.º — Atribuições
 
@@ -168,85 +178,17 @@ e) Apreciar a situação financeira da DRE, tendo em vista assegurar o seu funci
 
 #### SECÇÃO IV — Repartição de Administração e Difusão Estatística
 
-###### Artigo 7.º — Natureza e estrutura
+###### Artigo 7.º — Natureza e atribuições
 
-A Repartição de Administração e Difusão Estatística, adiante designada abreviadamente por RADE, é um órgão de apoio administrativo e instrumental à DRE, que funciona na dependência directa do director regional e compreende:
+A Direcção de Serviços de Produção Estatística, adiante designada abreviadamente por DSPE, é um órgão de estudo, coordenação e promoção das medidas respeitantes, nomeadamente, à produção de estatísticas económicas, financeiras, demográficas, sociais, de serviços, agrícolas e censos, quer de âmbito regional, quer de âmbito nacional.
 
-a) Secção de Coordenação e Difusão Estatística;
-
-b) Secção de Contabilidade e Pessoal.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
 ##### SUBSECÇÃO I
 
 #### Secção de Coordenação e Difusão Estatística
 
-###### Artigo 8.º — Natureza e atribuições
-
-A Secção de Coordenação e Difusão Estatística é um órgão de apoio administrativo e instrumental à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
-
-a) Informar sobre pedidos de realização de inquéritos, de registo de instrumentos de notação e de publicação de dados estatísticos, sujeitos a aprovação da DRE;
-
-b) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo;
-
-c) Assegurar as relações com organismos exteriores e público em geral a nível da Região Autónoma e fornecer as informações estatísticas disponíveis;
-
-d) Actualizar o plano de publicações estatísticas regionais, controlar a sua implementação e preparar as publicações regionais constantes do plano de divulgação;
-
-e) Participar nos trabalhos de manutenção de ficheiros gerais;
-
-f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
-
-##### SUBSECÇÃO II
-
-#### Secção de Contabilidade e Pessoal
-
-###### Artigo 9.º — Natureza e atribuições
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
-
-#### SECÇÃO V — Núcleo de Informática
-
-###### Artigo 10.º — Natureza e atribuições
-
-O Núcleo de Informática é um órgão de apoio técnico e instrumental à DRE, que funciona na dependência directa do director regional, com as seguintes atribuições:
-
-a) Colaborar na preparação e execução de operações destinadas a tratamento informático, nomeadamente na concepção de instrumentos de notação, mapas de apuramento e rotinas de trabalho;
-
-b) Coordenar os trabalhos a executar, incluindo o estabelecimento dos calendários das suas operações;
-
-c) Registar dados em suporte informático e proceder às respectivas verificações e rectificações;
-
-d) Executar os programas e processamentos determinados pelos calendários estabelecidos.
-
-#### SECÇÃO VI
-
-##### Divisão de Estudos e Contas Económicas Regionais
-
-###### Artigo 11.º — Natureza e atribuições
-
-A Divisão de Estudos e Contas Económicas Regionais é um órgão de estudo e apoio técnico à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
-
-a) Elaborar as contas económicas da Região;
-
-b) Realizar os estudos que se mostrem necessários e convenientes, no âmbito das atribuições da DRE;
-
-c) Prestar o apoio técnico no domínio da metodologia estatística a todos os recenseamentos, inquéritos e trabalhos especiais de âmbito regional;
-
-d) Prestar apoio técnico-estatístico às entidades regionais que o solicitem;
-
-e) Colaborar com o INE no estabelecimento e revisão de nomenclaturas;
-
-f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
-
-#### SECÇÃO VII — Direcção de Serviços de Produção Estatística
-
-###### Artigo 12.º — Natureza e atribuições
-
-A Direcção de Serviços de Produção Estatística, adiante designada abreviadamente por DSPE, é um órgão de estudo, coordenação e promoção das medidas respeitantes, nomeadamente, à produção de estatísticas económicas, financeiras, demográficas, sociais, de serviços, agrícolas e censos, quer de âmbito regional, quer de âmbito nacional.
-
-###### Artigo 13.º — Estrutura
+###### Artigo 8.º — Estrutura
 
 Para o exercício das suas atribuições, a DSPE compreende:
 
@@ -256,11 +198,13 @@ b) Divisão de Estatísticas Demográficas, Sociais e dos Serviços;
 
 c) Divisão de Estatísticas Agrícolas e Censos.
 
-##### SUBSECÇÃO I
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-##### Divisão de Estatísticas Económicas e Financeiras
+##### SUBSECÇÃO II
 
-###### Artigo 14.º — Natureza e atribuições
+#### Secção de Contabilidade e Pessoal
+
+###### Artigo 9.º — Natureza e atribuições
 
 A Divisão de Estatísticas Económicas e Financeiras é um órgão de estudo e promoção da actividade estatística, nomeadamente, no que respeita às áreas económicas e financeiras e ao qual são cometidas, designadamente, as seguintes atribuições:
 
@@ -274,11 +218,11 @@ d) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 e) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-##### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
+#### SECÇÃO V — Núcleo de Informática
 
-###### Artigo 15.º — Natureza e atribuições
+###### Artigo 10.º — Natureza e atribuições
 
 A Divisão de Estatísticas Demográficas, Sociais e dos Serviços é um órgão de estudo e promoção da actividade estatística, nomeadamente no que respeita às áreas demográficas, sociais e dos serviços, ao qual são cometidas, designadamente, as seguintes atribuições:
 
@@ -294,11 +238,13 @@ e) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO III
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-##### Divisão de Estatísticas Agrícolas e Censos
+#### SECÇÃO VI
 
-###### Artigo 16.º — Natureza e atribuições
+##### Divisão de Estudos e Contas Económicas Regionais
+
+###### Artigo 11.º — Natureza e atribuições
 
 A Divisão de Estatísticas Agrícolas e Censos é um órgão de estudo e promoção da actividade estatística, nomeadamente no que respeita à agricultura e censos, ao qual são cometidas, designadamente, as seguintes atribuições:
 
@@ -314,9 +260,111 @@ e) Colaborar com o INE na elaboração dos programas de censos e inquéritos esp
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-### CAPÍTULO III — Normas especiais de funcionamento
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-###### Artigo 17.º — Dos instrumentos de notação e inquéritos
+#### SECÇÃO VII — Direcção de Serviços de Produção Estatística
+
+###### Artigo 12.º — Natureza e atribuições
+
+A Divisão de Estudos e Contas Económicas Regionais é um órgão de estudo e apoio técnico à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
+
+a) Prestar apoio ao INE na elaboração das contas económicas da Região;
+
+b) Realizar os estudos que se mostrem necessários e convenientes, no âmbito das atribuições da DRE;
+
+c) Prestar o apoio técnico no domínio da metodologia estatística a todos os recenseamentos, inquéritos e trabalhos especiais de âmbito regional;
+
+d) Prestar apoio técnico-estatístico às entidades regionais que o solicitem;
+
+e) Colaborar com o INE no estabelecimento e revisão de nomenclaturas;
+
+f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 13.º — Natureza e atribuições
+
+O Núcleo de Informática é um órgão de apoio técnico e instrumental à DRE, que funciona na dependência directa do director regional, com as seguintes atribuições:
+
+a) Colaborar na preparação e execução de operações destinadas a tratamento informático, nomeadamente na concepção de instrumentos de notação, mapas de apuramento e rotinas de trabalho;
+
+b) Coordenar os trabalhos a executar, incluindo o estabelecimento dos calendários das suas operações;
+
+c) Registar dados em suporte informático e proceder às respectivas verificações e rectificações;
+
+d) Executar os programas e processamentos determinados pelos calendários estabelecidos.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas Económicas e Financeiras
+
+###### Artigo 14.º — Natureza e estrutura
+
+O Departamento de Administração, adiante designado abreviadamente por DA, é um órgão de apoio administrativo à DRE, que funciona na dependência directa do director regional e compreende as Secções de Contabilidade, de Pessoal, de Arquivo e de Cadastro e Inventário.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 14.º-A — Atribuições
+
+O DA é um órgão de apoio administrativo instrumental à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
+
+a) Providenciar no sentido da apresentação do orçamento da DRE e das operações relativas à contabilidade;
+
+b) Organizar propostas de alterações orçamentais;
+
+c) Velar pela inventariação dos bens patrimoniais afectos à DRE e pela respectiva segurança e conservação;
+
+d) Efectuar a distribuição e venda de publicações da DRE;
+
+e) Assegurar a conservação, ordenação, classificação e distribuição de toda a documentação da DRE;
+
+f) Organizar os processos de admissão, promoção e exoneração de pessoal;
+
+g) Proceder ao registo da assiduidade dos funcionários e demais elementos de informação;
+
+h) Proceder à organização dos processos de transgressão estatística, incluindo todas as diligências necessárias ao seu eficaz andamento e finalização;
+
+i) Assegurar o apoio administrativo a todos os serviços da DRE;
+
+j) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+##### SUBSECÇÃO II
+
+##### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
+
+###### Artigo 15.º — Natureza e estrutura
+
+O Departamento de Coordenação e Difusão Estatística, adiante designado abreviadamente por DCDE, é um órgão de apoio administrativo e instrumental à DRE, que funciona na dependência directa do director regional e compreende as Secções de Coordenação e de Difusão Estatística.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 15.º-A — Atribuições
+
+O DCDE é um órgão de apoio administrativo e instrumental à DRE, ao qual são cometidas, designadamente, as seguintes atribuições:
+
+a) Informar sobre pedidos de realização de inquéritos, de registo de instrumentos de notação e de publicação de dados estatísticos, sujeitos a aprovação da DRE,
+
+b) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo;
+
+c) Assegurar as relações com organismos exteriores e público em geral a nível da Região Autónoma e fornecer as informações estatísticas disponíveis;
+
+d) Actualizar o plano de publicações estatísticas regionais, controlar a sua implementação e preparar as publicações regionais constantes do plano de divulgação;
+
+e) Participar nos trabalhos de manutenção de ficheiros gerais;
+
+f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+##### SUBSECÇÃO III
+
+##### Divisão de Estatísticas Agrícolas e Censos
+
+###### Artigo 16.º — Dos instrumentos de notação e inquéritos
 
 1 - A realização de quaisquer inquéritos estatísticos de âmbito regional que interessem a serviços públicos da administração regional e local ou a outras entidades públicas ou com funções de interesse público da Região depende sempre de prévia autorização da DRE;
 
@@ -328,7 +376,11 @@ f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 5 - As respostas a questionários orais ou pedidos de declarações, na realização de censos e inquéritos estatísticos, só são obrigatórias quando os agentes que as solicitem exibam credenciais passadas pela DRE.
 
-###### Artigo 18.º — Dos pedidos de realização de inquéritos e de registo
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+### CAPÍTULO III — Normas especiais de funcionamento
+
+###### Artigo 17.º — Dos pedidos de realização de inquéritos e de registo
 
 1 - Os pedidos de realização de inquéritos estatísticos, bem como o registo dos instrumentos de notação, deverão ser sempre acompanhados de um relatório justificativo.
 
@@ -340,23 +392,29 @@ f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do 
 
 5 - Nenhuma alteração pode ser introduzida nos instrumentos registados sem prévia decisão da DRE.
 
-###### Artigo 19.º — Recolha directa
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 18.º — Recolha directa
 
 1 - A DRE poderá proceder à recolha directa das informações estatísticas de interesse regional, quando elas não forem prestadas nos prazos fixados ou for necessário verificar a exactidão das mesmas.
 
 2 - Para o efeito do disposto no número anterior aplicar-se-á, com as necessárias adaptações, o regime previsto na legislação em vigor.
 
-###### Artigo 20.º — Segredo estatístico
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 19.º — Segredo estatístico
 
 Todas as informações estatísticas de ordem individual colhidas pela DRE são de natureza estritamente confidencial, pelo que a sua utilização terá de obedecer às normas em vigor relativas ao segredo estatístico.
 
-###### Artigo 21.º — Confidencialidade
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 20.º — Confidencialidade
 
 Aos funcionários agentes e contratados que exerçam as suas funções no âmbito da DRE, para além do cumprimento das normas gerais sobre sigilo profissional e confidencialidade a que estão sujeitos, é vedada a divulgação de quaisquer informações ou resultados provenientes dos procedimentos em execução ou executados sem prévia autorização do director regional.
 
-### CAPÍTULO IV — Pessoal
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-###### Artigo 22.º — Quadro de pessoal
+###### Artigo 21.º — Quadro de pessoal
 
 1 - O pessoal do quadro da DRE é agrupado em:
 
@@ -376,19 +434,43 @@ g) Pessoal auxiliar.
 
 2 - O quadro de pessoal da DRE é o constante do mapa anexo ao presente diploma.
 
-###### Artigo 23.º — Regime
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 22.º — Regime
 
 O regime aplicável ao pessoal da DRE é o genericamente estabelecido para os funcionários e agentes da administração pública regional.
 
-### CAPÍTULO V — Disposições transitórias
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
 
-###### Artigo 24.º — Regras de transição
+###### Artigo 22.º-A — Regras de transição de chefes de departamento
+
+1 - Os chefes de repartição transitam independentemente de quaisquer formalidades para a categoria de chefe de departamento.
+
+2 - A transição da categoria de chefe de repartição para a categoria de chefe de departamento faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.
+
+3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na nova categoria.
+
+4 - A transição faz-se por aplicação deste diploma e produz efeitos a partir da data da integração na nova categoria.
+
+5 - Os lugares de chefe de departamento são a extinguir quando vagarem.
+
+6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+###### Artigo 23.º — Regras de transição
 
 1 - Os funcionários a agentes integrados no quadro de pessoal do Serviço Regional de Estatística transitam para o quadro de pessoal do mapa anexo ao presente diploma e são integrados em igual categoria e carreira ou equivalente, com a mesma área funcional e para o escalão a que corresponda o mesmo índice ou, quando não se verifique coincidência de índice, para o escalão imediatamente superior na estrutura da categoria para que se processa a transição.
 
 2 - A transição e a integração referidas no número anterior far-se-ão pela aplicação deste diploma, elaboração e publicação de lista nominativa.
 
-###### Artigo 25.º — Concursos pendentes
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.
+
+### CAPÍTULO V — Disposições transitórias
+
+###### Artigo 24.º — Concursos pendentes
 
 1 - Os concursos pendentes à data de entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no mapa anexo ao presente diploma.
 
@@ -397,3 +479,5 @@ O regime aplicável ao pessoal da DRE é o genericamente estabelecido para os fu
 Mapa anexo a que se refere o n.º 2 do artigo 22.º do presente diploma
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/215a00/49084913.pdf)
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 40/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-2000-324974), publicado em 2000-08-18.

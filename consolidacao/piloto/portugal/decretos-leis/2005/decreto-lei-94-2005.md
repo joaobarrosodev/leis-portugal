@@ -32,25 +32,35 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º — Condições de acesso
 
-1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem às actividades da bovinicultura, ovinicultura, caprinicultura e apicultura e se localizem nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
+1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem à bovinicultura, ovinicultura, caprinicultura, suinicultura, equinicultura e apicultura e se localizem nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
 
-2 - As pessoas singulares ou colectivas que se dediquem à apicultura devem encontrar-se registadas nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
+2 - Podem também ter acesso à linha de crédito a que se refere o número anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem à bovinicultura, ovinicultura, caprinicultura, suinicultura, equinicultura e apicultura e se localizem em concelhos afectados por incêndios florestais na área de influência da Direcção Regional de Agricultura da Beira Litoral.
+
+3 - Os concelhos abrangidos pelo disposto no número anterior são definidos por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+4 - As pessoas singulares ou colectivas que se dediquem à apicultura devem encontrar-se registadas nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 3.º — Montante de crédito
 
-1 - O montante global de crédito a conceder não pode exceder os 50 milhões de euros.
+1 - O montante global de crédito a conceder não pode exceder os 90 milhões de euros.
 
 2 - O montante máximo de crédito a conceder aos beneficiários, nos termos do artigo 1.º, é fixado do seguinte modo:
 
-a) (euro) 180 por fêmea da espécie bovina, com idade superior a 24 meses;
+a) (euro) 180 por fêmea das espécies bovina e equina, com idade superior a 24 meses;
 
 b) (euro) 40 por fêmea das espécies ovina e caprina, com idade superior a 12 meses ou que já tenha parido.
+
+c) (euro) 120 por porca reprodutora.
 
 3 - Relativamente à apicultura, o montante máximo de crédito a conceder aos beneficiários é de (euro) 5 por colmeia registada nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
 
 4 - Ao montante a considerar para concessão do crédito devem ser deduzidas todas as ajudas atribuídas a título de regimes de seguro.
 
 5 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no n.º 1, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 4.º — Forma do crédito
 

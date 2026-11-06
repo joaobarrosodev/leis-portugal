@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:612845:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1 - Os créditos do Estado decorrentes de empréstimos concedidos a cooperativas de habitação e a associações de moradores pelo Fundo de Fomento da Habitação, ou pela comissão liquidatária do Fundo de Fomento da Habitação, cuja posição foi transmitida para a Direcção-Geral do Tesouro pelo artigo 6.º do [Decreto-Lei n.º 410/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1987-406131), de 31 de Dezembro, poderão, por opção do mutuário, ser convertidos, total ou parcialmente, em empréstimos individuais aos respectivos cooperadores ou moradores, com a correspondente alteração do regime de propriedade.\n\n2 - Aos empréstimos referidos no número anterior aplica-se o disposto no [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, salvo no que diz respeito aos prazos dos empréstimos, que não podem ultrapassar vinte anos.\n\n3 - Os mutuários portadores de deficiência com um grau de incapacidade igual ou superior a 60% têm direito à aquisição ou construção de habitação própria, nos termos do n.º 8 do artigo 14.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, independentemente de terem procedido à conversão a que se refere o n.º 1.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "Para garantia dos créditos privilegiados do Estado resultantes dos empréstimos abrangidos pelo presente diploma, a Direcção-Geral do Tesouro dispõe do direito de constituir, nos termos da lei, hipoteca legal sobre as construções financiadas.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (DL 234/95), artigo único: artigo 1.º mantém n.os 1 e 2 e ganha n.º 3; aplicado.",
+    "Alt. 2 (Lei 39-A/2005), art. 21.º: adita o artigo 5.º; aplicado. Restantes artigos (incl. art. 20.º, que adita o art. 4.º ao DL 37/88) dizem respeito a outros diplomas: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

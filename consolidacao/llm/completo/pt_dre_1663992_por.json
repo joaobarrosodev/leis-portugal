@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:1663992:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::9.º",
+      "epigrafe": "Condições dos financiamentos",
+      "texto": "1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não pode ser inferior a 10 %, salvo, por razões devidamente justificadas e autorizadas pelo membro do Governo responsável pela área do turismo, no caso de projectos desenvolvidos pelas entidades a que se refere a alínea a) do artigo 4.º do presente Regulamento.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam, no máximo, em um terço os prazos máximos a que se referem as alíneas a) e b) do n.º 1 do presente artigo.\n\n5 - Sem prejuízo do disposto no número seguinte, o reembolso dos financiamentos é assegurado por garantia bancária.\n\n6 - O Turismo de Portugal, I. P., pode, fundamentadamente, admitir a dispensa de prestação de garantia às entidades regionais de turismo.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::10.º",
+      "epigrafe": "Candidaturas",
+      "texto": "1 - As candidaturas podem efectuar-se a todo o tempo, através do formulário electrónico disponível no sítio www.turismodeportugal.pt.\n\n2 - Por despacho do membro do Governo responsável pela área do turismo, e no âmbito do presente Regulamento, podem ser criados programas de apoio ou concursos específicos, com períodos de vigência, condições e dotações orçamentais próprias.\n\n3 - Os processos de candidatura são instruídos com os seguintes elementos:\n\na) Projectos aprovados pelas entidades para tanto competentes, sempre que os investimentos a realizar os exijam;\n\nb) Memórias descritivas dos investimentos;\n\nc) Estimativas dos investimentos, suportadas com orçamentos e com identificação das fontes de financiamento previstas;\n\nd) Cronogramas dos investimentos e demonstração da sustentabilidade dos mesmos;\n\ne) Comprovativos da regularidade das situações devedora e contributiva junto da administração fiscal e da segurança social.\n\n4 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.\n\n5 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::16.º",
+      "epigrafe": "Prazos máximos de reembolso",
+      "texto": "1 - Sem prejuízo do disposto no artigo 19.º, os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:\n\na) Cinco anos;\n\nb) O termo final do prazo para a amortização dos financiamentos caso os correspondentes contratos não tivessem sido resolvidos.\n\n2 - O prazo máximo a acordar para recuperação dos financiamentos não reembolsáveis não pode exceder cinco anos.\n\n3 - Os prazos concretamente acordados para o reembolso são determinados em função dos montantes em dívida e da capacidade financeira das entidades devedoras.\n\n4 - Os prazos máximos definidos nos n.os 1 e 2 podem ser excepcionalmente alargados sempre que as entidades devedoras demonstrem incapacidade financeira para efectuar o reembolso integral das dívidas nos prazos aí definidos.\n\n5 - Sempre que as obrigações das entidades devedoras estejam assistidas por garantias especiais de reembolso, o alargamento de prazos a que se refere o número anterior não pode prejudicar a manutenção e a consistência de tais garantias especiais.",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::19.º",
+      "epigrafe": "Diferimento do pagamento de prestações vencidas",
+      "texto": "1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior podem vencer juros remuneratórios ou moratórios.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único, art. 9.º: nova redação dos n.os 3, 4 e 5 e aditado n.º 6; n.os 1 e 2 mantidos.",
+    "Alterador 1, art. 10.º: nova redação do n.º 1, novo n.º 2; antigos n.os 2, 3 e 4 passam a 3, 4 e 5 com o texto atual.",
+    "Alterador 1, art. 16.º: nova redação do corpo do n.º 1 (alíneas a) e b) e n.os 2 a 5 mantidos).",
+    "Alterador 1, art. 19.º: nova redação do n.º 2; n.º 1 mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

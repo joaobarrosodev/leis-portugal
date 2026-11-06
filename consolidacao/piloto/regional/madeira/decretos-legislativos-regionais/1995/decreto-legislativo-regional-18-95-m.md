@@ -158,7 +158,7 @@ Os municípios da Região Autónoma da Madeira podem promover programas de const
 
 ###### Artigo 16.º — Vigência
 
-O regime previsto no presente diploma vigorará enquanto perdurarem as condições económico-sociais que motivaram a sua elaboração.»
+O regime previsto no presente diploma vigorará enquanto perdurarem as condições económico-sociais que motivaram a sua elaboração.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 30/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1998-187521), publicado em 1998-12-29.
 

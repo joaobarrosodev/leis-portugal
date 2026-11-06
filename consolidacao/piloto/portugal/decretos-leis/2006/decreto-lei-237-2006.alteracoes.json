@@ -4,13 +4,13 @@
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 39.º — Período de transição\n\n1 - Durante um período de transição de quatro anos após a entrada em vigor do presente decreto-lei, o responsável pela introdução dos componentes eléctricos e electrónicos no mercado deve apresentar todas as informações do relatório dos ensaios e uma amostra do componente ensaiado a um serviço técnico que determina, no prazo de três semanas, se o equipamento está, ou não, relacionado com a imunidade, não devendo ser exigidos mais ensaios.\n\n2 - O serviço técnico deve proceder, dentro do mesmo prazo, à emissão de um documento de acordo com o modelo constante do anexo XIV do presente decreto-lei.\n\n3 - No prazo de três anos a contar da entrada em vigor do presente decreto-lei, a Direcção-Geral de Viação deve comunicar à Comissão Europeia todos os casos de recusa de concessão de homologação por razões de segurança.",
-    "depois": "###### Artigo 39.º — Período de transição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.",
+    "depois": "###### Artigo 39.º — Período de transição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:545618:por",
-    "alterador": "pt:dre:610216:por;pt:dre:502980:por"
+    "alterador": "pt:dre:610216:por"
   }
 ]

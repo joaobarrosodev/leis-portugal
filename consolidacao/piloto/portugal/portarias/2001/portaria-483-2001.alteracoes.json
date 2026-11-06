@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimedia, adiante designado por ICAM, à transcrição para DVD (digital video disk) de obras cinematográficas, obras áudio-visuais e espectáculos nas áreas da música, teatro e dança.\n\n2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural.",
+    "depois": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, à transcrição para DVD (Digital Video Disk) de obras cinematográficas e audiovisuais de produção portuguesa.\n\n2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural.\n\n> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313816:por",
+    "alterador": "pt:dre:239606:por"
+  },
+  {
     "artigo": "4.º",
     "operacao": "substituir",
     "regra": "llm",

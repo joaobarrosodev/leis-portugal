@@ -88,9 +88,9 @@ Assento reformado nos termos dos artigos 25.º e seguintes ... Isento
 
 ###### Artigo 8.º
 
-1 - Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento... 2000$00
+Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00
 
-2 - Pelo assento de transcrição de convenção antenupcial ou de alteração do regime de bens lavrado no estrangeiro, perante autoridade estrangeira, nos termos do n.º 3 do artigo 11.º ... 2000$00
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
 ###### Artigo 9.º
 
@@ -108,13 +108,17 @@ d) Por cada auto de consentimento para casamento de menores lavrado na conservat
 
 e) Pelo auto de convenção antenupcial ... 6000$00
 
-3 - Pelo certificado previsto no artigo 146.º ... 1500$00
+3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º ... 1500$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
 ###### Artigo 10.º
 
 1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00
 
-2 - Pelo processo de justificação administrativa nos termos do n.º 3 do artigo 92.º ... 2500$00
+2 - Pelo processo de justificação administrativa requerido pelos interessados ... 2500$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
 ###### Artigo 11.º
 
@@ -172,11 +176,17 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00
 
+7 - Pelo exame de livros para fins de investigação genealógica, por cada período de duas horas de consulta ... 1000$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
+
 ###### Artigo 16.º
 
 1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento
 
-2 - Emissão de novo boletim de qualquer daqueles registos ... 500$00
+2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
 ###### Artigo 17.º
 
@@ -196,13 +206,15 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 ###### Artigo 19.º
 
-Por cada auto de redução a escrito de declaração ou de requerimento verbal:
+Por cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:
 
 a) Para a prática de acto de registo ... 600$00
 
 b) Para fins de instauração de processo de casamento ... 600$00
 
 c) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
 ###### Artigo 20.º
 

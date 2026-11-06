@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:423899:por
-    title: Portaria n.º 412/98
-    publication_date: '1998-07-14'
   - id: pt:dre:580776:por
     title: Decreto-Lei n.º 32/2004
     publication_date: '2004-02-07'
@@ -61,15 +58,17 @@ i) "Autoridade competente" a nível nacional o Instituto de Protecção da Produ
 
 2 - Além destas, são aplicáveis, com as devidas adaptações, as definições previstas nas Portarias n.os 576/93, 575/93 e 774/93, respectivamente de 4 de Junho e 3 de Setembro.
 
-> Alterado pelo/a [Portaria n.º 412/98](https://diariodarepublica.pt/dr/detalhe/portaria/412-1998-423899) e [Decreto-Lei n.º 32/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2004-580776), publicado em 2004-02-07.
+> Alterado pelo/a [Decreto-Lei n.º 32/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2004-580776), publicado em 2004-02-07.
 
 ###### Artigo 3.º
 
-1 - O IPPAA pode proibir ou restringir, por motivos sanitários ou de polícia sanitária resultantes apenas da aplicação deste diploma e da legislação comunitária, bem como de medidas de salvaguarda eventualmente tomadas, o comércio e as importações de produtos de origem animal referidos no artigo l.º e de gelatinas não destinadas ao consumo humano.
+1 - A DGV pode proibir ou restringir, por motivos sanitários ou de polícia sanitária resultantes apenas da aplicação deste diploma e da legislação comunitária, bem como de medidas de salvaguarda eventualmente tomadas, o comércio e as importações de produtos de origem animal referidos no artigo 1.º
 
-2 - A comercialização ou importação de qualquer novo produto de origem animal só pode ser autorizada depois de avaliado, de acordo com o procedimento comunitariamente previsto, o risco real de propagação de doenças transmissíveis graves que possam advir da circulação do produto, não só na espécie da qual ele deriva mas também noutras espécies que possam agir como portadoras ou transmissoras da doença.
+2 - A comercialização ou importação de qualquer novo produto de origem animal destinado ao consumo humano só pode ser autorizada de acordo com o procedimento de avaliação do risco real de propagação de doenças transmissíveis graves que possam advir da circulação, não só na espécie da qual deriva mas, também, nas outras espécies que possam agir como portadoras ou transmissoras da doença, ou constituir um risco para a saúde humana.
 
 3 - O comércio e a importação de países terceiros de outros produtos de origem animal, com excepção da gelatina, referidos na alínea b) do artigo 2.º do Regulamento das Condições Sanitárias Aplicáveis à Produção e à Colocação no Mercado de Produtos à Base de Carne e de Outros Produtos de Origem Animal Destinados ao Consumo Humano ou à Preparação de Outros Géneros Alimentícios, aprovado pela Portaria n.º 1229/93, só podem ser autorizados se os produtos cumprirem as exigências da referida portaria, bem como as previstas no presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 32/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2004-580776), publicado em 2004-02-07.
 
 ### CAPÍTULO II — Disposições aplicáveis ao comércio
 
@@ -123,25 +122,25 @@ As condições aplicáveis às importações de produtos abrangidos pelo present
 
 ###### Artigo 8.º
 
-1 - Para efeitos de execução uniforme do artigo 7.º aplicam-se as disposições dos números que se seguem.
+1 - Para efeitos de execução uniforme do artigo 7.º, aplicam-se as disposições dos números que se seguem.
 
 2 - Os produtos referidos nos anexos I e II e nos n.os 2 e 3 do artigo 3.º só podem ser objecto de importação pela Comunidade se satisfizerem as seguintes exigências:
 
 a) Salvo disposições específicas em contrário contidas nos anexos I e II, serem provenientes de um país terceiro ou de uma parte de um país terceiro constante da lista estabelecida comunitariamente;
 
-b) Serem provenientes, excepto no que diz respeito aos produtos constantes do anexo I, capítulo 5, alínea B), de estabelecimentos que a autoridade competente do país terceiro tenha garantido à Comissão que cumprem as exigências da alínea a) do n.º 3;
+b) Salvo disposição em contrário, constante do anexo II, serem provenientes de estabelecimento constante de uma lista a estabelecer de acordo com o procedimento comunitariamente previsto;
 
 c) Nos casos especificamente previstos nos anexos I e II e nos n.os 2 e 3 do artigo 3.º, serem acompanhados de um certificado sanitário ou de salubridade conforme com um modelo a elaborar de acordo com o procedimento comunitariamente previsto que ateste que os produtos preenchem as condições suplementares ou oferecem as garantias equivalentes referidas na alínea a) do n.º 3 e provêm de estabelecimentos que oferecem essas garantias e que seja assinado por um veterinário oficial ou, se for caso disso, por qualquer outra autoridade competente, reconhecida de acordo com o mesmo procedimento.
 
-3 - De acordo com o procedimento comunitariamente previsto:
+3 - De acordo com o procedimento comunitário previsto:
 
 a) Serão estabelecidas as condições específicas - em especial condições destinadas a proteger a Comunidade contra certas doenças exóticas ou doenças transmissíveis ao homem - ou garantias equivalentes a essas condições para países terceiros, as quais não poderão ser mais favoráveis que as previstas nos anexos I e II e nos n.os 2 e 3 do artigo 3.º;
 
-b) Será elaborada uma lista comunitária dos estabelecimentos de países terceiros que satisfazem as exigências da alínea b) do n.º 2;
+b) Será determinada a natureza dos eventuais tratamentos ou as medidas a tomar para evitar a recontaminação das tripas de animais, dos ovos e dos produtos à base de ovos.
 
-c) Será determinada a natureza dos eventuais tratamentos ou as medidas a tomar para evitar a recontaminação das tripas de animais, dos ovos e dos produtos à base de ovos.
+4 - Na pendência da elaboração das listas previstas nas alíneas a) e b), subalínea ii) do n.º 2, serão mantidos os controlos previstos no artigo 11.º do regulamento aprovado pela Portaria n.º 774/93 e o certificado nacional exigido para os produtos importados, de acordo com a legislação nacional vigente.
 
-4 - Na pendência da elaboração das listas previstas na alínea a) do n.º 2 e na alínea b) do n.º 3, serão mantidos os controlos previstos no artigo 11.º da Portaria n.º 774/93 e o certificado nacional exigido para os produtos importados, de acordo com a legislação nacional vigente.
+> Alterado pelo/a [Decreto-Lei n.º 32/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2004-580776), publicado em 2004-02-07.
 
 ###### Artigo 9.º
 

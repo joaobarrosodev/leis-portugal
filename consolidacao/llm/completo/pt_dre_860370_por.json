@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:860370:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Activos subjacentes",
+      "texto": "1 - Podem ser emitidos warrants autónomos sobre os seguintes activos subjacentes:\n\na) Valores mobiliários admitidos à negociação em mercados regulamentados ou em mercado que tenha características\n\nequivalentes, designadamente no que respeita à informação prestada e à regularidade de formação e divulgação de preços;\n\nb) Unidades de participação em organismos de investimento colectivo, desde que esteja assegurado um mercado líquido para as unidades de participação e, no caso de organismos de investimento colectivo sujeitos a lei estrangeira, estejam asseguradas garantias equivalentes à lei nacional em matéria de supervisão pelo país de origem, política de investimento e de alavancagem;\n\nc) Taxas de juro;\n\nd) Divisas.\n\n2 - Podem ser emitidos warrants autónomos sobre índices sobre valores mobiliários, índices sobre instrumentos financeiros, índices de índices e cabazes de valores mobiliários construídos pelo emitente dos warrants ou por pessoa colectiva com este em relação de domínio ou de grupo desde que:\n\na) Os valores mobiliários e os instrumentos financeiros cumpram o estabelecido nas alíneas a) e b) do n.º 1;\n\nb) Os índices que sejam apurados por entidade gestora de mercados regulamentados ou apurados e divulgados por entidade idónea aceite pela CMVM ou por outra autoridade competente estrangeira.\n\n3 - Podem igualmente ser emitidos os seguintes warrants sobre contratos de futuros desde que os activos subjacentes sejam negociados em mercados regulamentados ou em mercado que tenha características equivalentes, designadamente no que respeita à informação prestada e à regularidade de formação e divulgação de preços:\n\na) Sobre mercadorias;\n\nb) Sobre taxas de juro, índices de taxas de juro ou instrumentos de dívida;\n\nc) Sobre divisas;\n\nd) Sobre índices sobre valores mobiliários;\n\ne) Sobre índices de volatilidade.\n\n4 - Podem ainda ser emitidos:\n\na) Warrants sobre mercadorias desde que as mercadorias subjacentes sejam homogéneas e negociadas regularmente em mercado e os seus preços sejam publicamente acessíveis;\n\nb) Warrants sobre índices de mercadorias desde que respeitados cumulativamente os requisitos da alínea b) do n.º 2 e da alínea anterior.\n\n5 - Os warrants que tenham como activo subjacente activos mencionados nos n.os 3 e 4 apenas admitem liquidação nos termos da alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 172/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1999-323701), de 20 de Maio.",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Requisitos de utilização dos activos subjacentes",
+      "texto": "1 - A utilização de índices de valores mobiliários, índices de mercadorias e contratos de futuros como activo subjacente de warrants autónomos deve ser previamente autorizada pela entidade que procede ao seu apuramento ou supervisiona a sua negociação.\n\n2 - A utilização de valores mobiliários como activo subjacente de warrants autónomos deve ser comunicada ao emitente do activo subjacente no prazo máximo de cinco dias a contar da data da deliberação de emissão.",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Admissão à negociação em mercado regulamentado",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Admissão à negociação de warrants autónomos emitidos por entidades sujeitas a lei pessoal estrangeira",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Alteração ao regulamento da CMVM n.º 10/2000",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Aditamento ao regulamento da CMVM n.º 10/2000",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Reg. CMVM 6/2005), artigo 1.º: nova redação da alínea b) do n.º 2 do artigo 3.º; aplicada (o resto do artigo fica como estava).",
+    "Alterador 2 (Reg. CMVM 4/2006), artigo 1.º: nova redação do artigo 3.º (proémio e alínea a) do n.º 2, novos n.os 3, 4 e 5; '...' do n.º 1 e da alínea b) do n.º 2 mantêm o texto atual, esta já na redação do alterador 1); aplicada.",
+    "Alterador 2, artigo 1.º: nova redação do n.º 1 do artigo 5.º; n.º 2 mantém-se; aplicada.",
+    "Alterador 2, artigo 2.º: revoga os artigos 10.º, 11.º, 13.º e 14.º; cada um fica '(Revogado.)'. Nota: o texto atual traz os artigos 14.º a 16.º em duplicado (artefacto da extração); dado um único elemento para 14.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

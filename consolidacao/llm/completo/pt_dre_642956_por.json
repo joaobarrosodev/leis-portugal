@@ -1,0 +1,119 @@
+{
+  "id": "pt:dre:642956:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.\n\n2 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Art. 2.º, n.º 1, do DL 408/86 substitui integralmente as bases do contrato de concessão anexas ao original; o texto atual não traz as bases como artigos (só o título do anexo, com remissão para o documento original), pelo que a substituição do anexo não foi aplicada.",
+  "instrucoes": [
+    "Art. 15.º do DL 408/86: revoga os artigos 3.º a 6.º, 8.º a 10.º, 12.º e 14.º a 20.º — cada um ficou com o corpo (Revogado.).",
+    "Art. 15.º do DL 408/86: revoga as alíneas b) e c) do n.º 1 e o n.º 2 do artigo 11.º — alíneas marcadas (Revogada.) e n.º 2 (Revogado.).",
+    "Art. 15.º do DL 408/86: revoga o n.º 2 do artigo 13.º — n.º 2 marcado (Revogado.).",
+    "Art. 2.º, n.º 1: substituição das bases anexas — não aplicada (ver nao_aplicavel).",
+    "Arts. 1.º, 3.º a 14.º do DL 408/86 são normas autónomas (incluindo o novo início do prazo do art. 7.º e as coimas por infração ao art. 1.º), sem alteração textual do original — nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

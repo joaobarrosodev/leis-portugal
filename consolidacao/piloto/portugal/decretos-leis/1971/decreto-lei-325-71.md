@@ -52,19 +52,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 4.º
 
-1. A aprovação dos planos de urbanização das áreas incluídas na zona da concessão, e de que obrigatóriamente deverão constar as localizações dos conjuntos turísticos, pertence conjuntamente ao Ministério das Obras Públicas e ao Secretário de Estado da Informação e Turismo, ouvidas as instâncias competentes.
+(Revogado.)
 
-2. Se no prazo de cento e vinte dias a contar da entrega, pela empresa concessionária, dos respectivos projectos de planos de urbanização, não recair sobre os mesmos despacho definitivo, consideram-se estes aprovados.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 5.º
 
-1. A aprovação dos projectos das obras integradas nos conjuntos turísticos é da competência da Direcção-Geral do Turismo, com audiência prévia e vinculante de outras entidades ou serviços a que, nos termos da lei, houver lugar.
+(Revogado.)
 
-2. Se a Direcção-Geral do Turismo não se pronunciar definitivamente no prazo de cento e vinte dias, a contar da apresentação dos projectos, considerar-se-ão os mesmos aprovados.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 6.º
 
-Compete à câmara municipal do concelho onde se localizar a obra a atribuição das licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 7.º
 
@@ -72,19 +74,21 @@ O prazo da presente concessão é de sessenta anos, contados a partir da data da
 
 ###### Artigo 8.º
 
-1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo nos termos legais, sob proposta da concessionária.
+(Revogado.)
 
-2. Se o Governo não se pronunciar definitivamente, no prazo de sessenta dias, a contar da apresentação das propostas de fixação ou alteração de taxas e das regras de aplicação, consideram-se as mesmas aprovadas.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 9.º
 
-1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+(Revogado.)
 
-2. Consideram-se aprovados os regulamentos apresentados pela concessionária, decorridos noventa dias a partir da apresentação, se o Governo não se pronunciar definitivamente sobre o seu conteúdo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 10.º
 
-Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidos de um terço por cada reincidência, cujo produto reverterá para o Estado.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 11.º
 
@@ -122,45 +126,39 @@ c) (Revogada.)
 
 ###### Artigo 15.º
 
-1. O administrador por parte do Fundo de Turismo será nomeado pela comissão administrativa do Fundo e terá todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo.
+(Revogado.)
 
-2. O Fundo de Turismo terá um administrador na sociedade enquanto dispuser na mesma uma participação accionista de pelo menos 10 por cento do capital social.
-
-3. Enquanto existir na empresa um administrador pelo Fundo de Turismo o Estado não usará da faculdade do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), quanto à nomeação de administradores pelo Governo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 16.º
 
-A Comissão Regional de Turismo da Serra da Estrela nomeará, em reunião extraordinária especialmente convocada pelo seu presidente para esse fim, o administrador que a representará na sociedade, devendo a escolha recair sobre um indivíduo com residência habitual na região de turismo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 17.º
 
-1. O administrador por parte das câmaras municipais e juntas de freguesia será eleito em reunião de representantes destas autarquias locais expressamente realizadas para esse fim, devendo a escolha recair sobre indivíduo com residência habitual na região de turismo.
+(Revogado.)
 
-2. O número de votos de cada representante das câmaras municipais e das juntas de freguesia na reunião eleitoral será proporcional às acções que dispuserem na sociedade.
-
-3. A iniciativa da organização desta assembleia eleitoral caberá à câmara municipal do concelho onde a empresa tem a sua sede.
-
-4. O representante de cada município na assembleia eleitoral será escolhido entre os indivíduos residentes no concelho, pela respectiva câmara municipal, em reunião expressamente convocada para esse fim.
-
-5. O representante de cada junta de freguesia na assembleia eleitoral será escolhido em reunião de junta, expressamente convocada para tal fim de entre os chefes de família residentes na área da freguesia.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 18.º
 
-1. O mandato dos administradores por parte do sector público tem a duração do dos administradores que representam o sector privado.
+(Revogado.)
 
-2. É admitida a recondução expressa do administrador pelo Fundo de Turismo e a reeleição dos administradores pela Comissão Regional de Turismo e pelas câmaras municipais e juntas de freguesia.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 19.º
 
-O presidente do conselho administrativo será designado pelo Secretário de Estado da Informação e Turismo, de entre os administradores que tenham residência habitual na área da região de turismo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 20.º
 
-1. O conselho fiscal da sociedade será composto por três membros efectivos e um suplente.
+(Revogado.)
 
-2. O presidente do conselho fiscal será nomeado pelo Secretário de Estado da Informação e Turismo entre os indivíduos com residência habitual na região de turismo.
-
-3. Os restantes vogais do conselho fiscal serão eleitos em assembleia constituída por todos os accionistas, com excepção do Fundo de Turismo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
 ###### Artigo 21.º
 

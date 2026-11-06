@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:650304:por
     title: Portaria n.º 1103-B/2001
     publication_date: '2001-09-15'
+  - id: pt:dre:481371:por
+    title: Portaria n.º 1198/2003
+    publication_date: '2003-10-13'
 ---
 
 # Portaria n.º 1109-C/2000
@@ -68,9 +71,7 @@ c) Não tenham beneficiado anteriormente de ajudas para despesas equivalentes à
 
 d) Disponham de contabilidade e se comprometam a manter registos e comprovativos das acções realizadas;
 
-e) Assumam o compromisso de, durante o período de realização de investimentos ao abrigo deste Regulamento, apresentar uma candidatura à subacção «Apoio à prestação de serviços florestais», desde que seja promovido um convite público relativo aos serviços que se propõem realizar;
-
-f) Apresentem um estudo de viabilidade económica e um plano de acção, reportado ao período de execução do projecto, devidamente fundamentado, quantificado e calendarizado.
+e) Apresentem um estudo de viabilidade económica e um plano de acção, reportado ao período de execução do projecto, devidamente fundamentado, quantificado e calendarizado.
 
 2 - O plano de acção referido na alínea f) do número anterior deve abranger, no mínimo, um período de três anos de actividade e conter os seguintes elementos:
 
@@ -86,9 +87,13 @@ e) Recursos financeiros a obter;
 
 f) Âmbito territorial a abranger.
 
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
+
 ###### Artigo 5.º — Investimentos elegíveis
 
-São considerados elegíveis os investimentos, não associados ao processo produtivo, relativos à constituição e instalação dos beneficiários, nomeadamente nas áreas do planeamento, da gestão e apoio à gestão, da divulgação tecnológica, legislativa e organizacional e dos serviços de informação comercial.
+São considerados elegíveis os investimentos, não associados ao processo produtivo, relativos à constituição e instalação dos beneficiários, nomeadamente nas áreas do planeamento, da gestão e apoio à gestão, da divulgação técnica, legislativa e organizacional e dos serviços de informação comercial.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 6.º — Forma e nível das ajudas
 
@@ -98,13 +103,17 @@ São considerados elegíveis os investimentos, não associados ao processo produ
 
 ###### Artigo 7.º — Despesas elegíveis
 
-1 - São consideradas elegíveis as despesas de constituição dos beneficiários e com aquisição de equipamentos de escritório, de comunicações, equipamentos e programas informáticos e outros equipamentos necessários ao desenvolvimento dos serviços a prestar.
+1 - São consideradas elegíveis as despesas de constituição e instalação dos beneficiários e com aquisição de equipamentos de escritório, de comunicações, equipamentos e programas informáticos e outros equipamentos necessários ao desenvolvimento dos serviços a prestar.
 
 2 - São igualmente consideradas elegíveis, até 2% do total do valor das despesas referidas no número anterior, as despesas associadas à prestação de garantias, quando exigidas.
 
+> Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.
+
 ###### Artigo 8.º — Apresentação das candidaturas
 
-As candidaturas são entregues nas direcções regionais de agricultura durante os meses de Janeiro e Fevereiro, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+As candidaturas são entregues nas direcções regionais de agricultura ao longo de todo o ano, em formulário próprio e acompanhadas dos elementos indicados nas respectivas instruções.
+
+> Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.
 
 ###### Artigo 9.º — Análise das candidaturas
 
@@ -118,15 +127,17 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do artigo 29.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
-2 - As candidaturas serão objecto de análise e deliberação entre 1 de Abril e 31 de Maio de cada ano.
+2 - (Revogado.)
 
 3 - As candidaturas são hierarquizadas em função de critérios de prioridade e aprovadas em função da dotação orçamental do presente regime de ajudas.
 
 4 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
 
+> Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.
+
 ###### Artigo 12.º — Critérios de prioridade
 
-Para efeitos do n.º 3 do artigo anterior, consideram-se os seguintes critérios de prioridade:
+Para efeitos do n.º 3 do artigo anterior, consideram-se, por ordem decrescente de importância, os seguintes critérios de prioridade:
 
 a) Adequação do plano de acção às necessidades da área territorial a abranger;
 
@@ -138,11 +149,15 @@ d) Inserção da área territorial a abranger maioritariamente em região desfav
 
 e) Número de postos de trabalho a criar.
 
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
+
 ###### Artigo 13.º — Contrato de atribuição de ajudas
 
 1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário, no prazo máximo de 30 dias a contar da data de aprovação da candidatura.
 
-2 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas.
+2 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.
 
 ###### Artigo 14.º — Obrigações dos beneficiários
 
@@ -160,8 +175,10 @@ Os beneficiários ficam obrigados, nomeadamente, a cumprir os planos de acção 
 
 1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.
 
-2 - A primeira prestação das ajudas só será paga após a realização de, pelo menos, 25% do investimento elegível.
+2 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.
 
-3 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS através das DRA.
+3 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.
 
-4 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP o recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.
+4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.
+
+> Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.

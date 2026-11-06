@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:140142:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Prescrição de medicamentos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 6.º do DLR 29/2012/M revoga o artigo 2.º: corpo '(Revogado.)'; a revogação genérica de legislação contrária não se aplica ao texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
