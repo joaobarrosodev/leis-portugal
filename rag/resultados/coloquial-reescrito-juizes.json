@@ -1,0 +1,43 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "coloquial": {
+   "n": 281,
+   "respondidas": 227,
+   "certas_brando": 181,
+   "certas": 215,
+   "incompletas": 5,
+   "erradas": 7,
+   "sem_fundamento": 1,
+   "discordam": 12,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "col-016",
+    "col-094",
+    "col-095",
+    "col-123",
+    "col-234",
+    "col-242",
+    "col-243",
+    "col-247",
+    "col-271",
+    "col-303",
+    "col-321",
+    "col-326"
+   ]
+  },
+  "total": {
+   "n": 281,
+   "respondidas": 227,
+   "certas_brando": 181,
+   "certas": 215,
+   "fiabilidade": 0.947,
+   "limite_inferior_95": 0.91
+  }
+ }
+}

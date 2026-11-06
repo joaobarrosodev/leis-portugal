@@ -18,6 +18,7 @@ A sessão que responde não pode ver as respostas certas: só recebe `entrada-NN
 from __future__ import annotations
 
 import argparse
+import dataclasses
 import json
 import sys
 from pathlib import Path
@@ -31,7 +32,25 @@ from rag.resposta import INSTRUCOES, LIMIAR_PADRAO, Resposta, contexto, interpre
 PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
 
 
-def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None) -> None:
+def ler_reescrita(pasta: Path | None) -> dict[str, str]:
+    """id -> consulta jurídica escrita por um LLM a partir da pergunta (ficheiros saida-*.jsonl)."""
+    if pasta is None:
+        return {}
+    return {
+        d["id"]: d["consulta"]
+        for f in sorted(pasta.glob("saida-*.jsonl"))
+        for d in map(json.loads, filter(str.strip, f.read_text(encoding="utf-8").splitlines()))
+    }
+
+
+def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str]):
+    """Pesquisa com a consulta reescrita, se existir; a pergunta do utilizador fica na consulta para o LLM e os juízes."""
+    q = reescrita.get(p["id"], p["pergunta"])
+    consulta = pesquisa.pesquisar(q, p["data_referencia"], k=max(avaliar.KS))
+    return dataclasses.replace(consulta, pergunta=p["pergunta"])
+
+
+def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str]) -> None:
     from rag.modelos import Reranker
 
     pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
@@ -42,7 +61,7 @@ def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: P
         f.unlink()
     entradas, regras = [], 0
     for n, p in enumerate(perguntas, 1):
-        consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(avaliar.KS))
+        consulta = pesquisar(pesquisa, p, reescrita)
         if nao_sei_antes(consulta, limiar):
             regras += 1
             continue
@@ -61,7 +80,7 @@ def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: P
     print(f"{len(entradas)} perguntas para o LLM em {-(-len(entradas) // por_lote)} lotes; {regras} já são 'não sei' pelas regras.")
 
 
-def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None) -> None:
+def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str]) -> None:
     from rag.modelos import Reranker
 
     respostas: dict[str, dict] = {}
@@ -73,7 +92,7 @@ def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None) -> 
     pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
     linhas, em_falta = [], 0
     for p in (p for p in avaliar.ler_perguntas() if p["tipo"] in tipos):
-        consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(avaliar.KS))
+        consulta = pesquisar(pesquisa, p, reescrita)
         motivo = nao_sei_antes(consulta, limiar)
         if motivo:
             resposta = Resposta(False, "Não sei.", motivo=motivo)
@@ -97,12 +116,13 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--lote", type=int, default=10)
     parser.add_argument("--limiar", type=float, default=LIMIAR_PADRAO)
     parser.add_argument("--indice", type=Path)
+    parser.add_argument("--reescrita", type=Path, help="Pasta com saida-*.jsonl (id, consulta) para pesquisar com a consulta jurídica.")
     args = parser.parse_args(argv)
     tipos = set(args.tipos.split(","))
     if args.acao == "exportar":
-        exportar(args.nome, tipos, args.lote, args.limiar, args.indice)
+        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita))
     else:
-        importar(args.nome, tipos, args.limiar, args.indice)
+        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita))
     return 0
 
 

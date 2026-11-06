@@ -191,7 +191,17 @@ O que isto diz, sem arredondar a favor:
 
 A fiabilidade sobe de 82% para 96% (pior caso 78% para 93%), mas à custa de responder só a 249 de 530 (o "não sei" passa de 27% para 53%). É a troca decidida: certas primeiro, menos "não sei" depois. Ressalvas: os juízes são o mesmo modelo, e a recusa em texto alterado não resolve nada, só esconde o problema até haver texto consolidado.
 
-**Reescrita da pergunta em consulta jurídica** (05/11/2026, 94 de 281 coloquiais, só pesquisa, sem resposta julgada): artigo certo em 1.º 18% com a pergunta original, **58%** com a consulta sozinha e 55% com as duas juntas; nos 10 primeiros, 35% contra **91%**. Topo certo e acima do limiar: 9% contra 56%. Exige um passo de LLM antes da pesquisa.
+**Reescrita da pergunta em consulta jurídica** (06/11/2026, as 281 coloquiais, resposta escrita e quatro juízes às cegas, modo estrito): um LLM reescreve a pergunta do utilizador numa consulta jurídica, a pesquisa usa só a consulta, e o LLM que responde e os juízes veem a pergunta original. Exige um passo de LLM antes da pesquisa (`rag.passo_llm --reescrita`).
+
+| Medida | Pergunta original | Com consulta jurídica |
+|---|--:|--:|
+| Artigo certo em 1.º | 21% | **59%** |
+| Artigo certo nos 10 primeiros | 40% | **91%** |
+| "Não sei" | 89% | **19%** |
+| Respostas dadas certas (juízes) | 94% (30/32), limite inferior 80% | **95% (215/227), limite inferior 91%** |
+| Perguntas com resposta certa | 11% (30/281) | **76% (215/281)** |
+
+Ressalvas: o reescritor é o mesmo modelo que responde e que julga, e conhece a lei por si, o que ajuda a pesquisa e pode ajudar os juízes a concordar; os 4 juízes dão mais certas (215) do que o critério brando de palavras (181), o que sugere que o critério de palavras subestima respostas certas, mas também que o conjunto de juízes pode ser brando; sem revisão de jurista. A medição de 94 perguntas que antecedeu esta (só pesquisa) dava 58% de artigo em 1.º e a de 281 dá 59%: coerentes. Falta medir o efeito nos outros tipos (compostas, texto alterado, premissa errada, sem resposta) para ver se a reescrita não faz o sistema responder onde devia recusar.
 
 **Perguntas como as escreve um utilizador** (30/10/2026, `coloquial`): as 281 reais reescritas, com a mesma resposta certa, em três perfis (pessoa de 65 anos, jovem de 22, pessoa aflita com um caso): pouco contexto, sem termos jurídicos, sem números de artigos. Quatro juízes às cegas.
 
