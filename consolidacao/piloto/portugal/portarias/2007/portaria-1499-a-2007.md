@@ -250,21 +250,15 @@ Para efeitos de avaliação dos resultados da frequência e da qualidade das ac�
 
 ###### Artigo 25.º — Declaração de inexistência de pessoal em SME
 
-1 - Para os efeitos do disposto no n.º 4 do artigo anterior, a EGM, através do sistema, emite declarações electrónicas padronizadas atestando quer as consultas à BEP efectuadas pelo serviço quer o resultado dessas consultas.
+(Revogado.)
 
-2 - As declarações mencionadas no número anterior podem ser impressas pelo serviço como comprovativo das operações realizadas e respectiva data.
-
-3 - O despacho que determine o eventual recrutamento a efectuar, nos termos da lei geral aplicável, deve ser proferido no prazo de cinco dias após a emissão da correspondente declaração de inexistência de pessoal em SME.
-
-4 - No prazo de 60 dias contados continuamente desde a data da emissão da declaração de inexistência de pessoal em SME, devem ser praticados os actos e desenvolvidos os demais trâmites de execução do despacho referido no número anterior, designadamente os de publicitação do recrutamento ali mencionado.
-
-5 - No caso de o despacho referido no n.º 3 não ser emitido durante o prazo ali previsto, ou, tendo-o sido, não ser respeitado o prazo fixado no número anterior, o serviço, se ainda mantiver interesse em recrutar pessoal por tempo indeterminado, deve realizar nova consulta à BEP, nos termos do artigo anterior.
+> Revogado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.
 
 ###### Artigo 26.º — Abertura do procedimento de selecção para reinício de funções
 
-1 - Para os efeitos do disposto no n.º 2 do artigo 34.º da lei, o serviço deve preencher um formulário electrónico disponível no sistema, o qual possui os campos próprios para a inserção dos dados que devem constar do despacho de abertura do procedimento.
+(Revogado.)
 
-2 - Os dados referidos no número anterior ficam disponíveis para consulta do pessoal em SME, em especial no sistema, em data a definir pelo próprio serviço e durante o decurso do prazo estabelecido para a apresentação de candidaturas, findo o qual são automaticamente removidos.
+> Revogado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.
 
 ###### Artigo 27.º — Informação a prestar aos candidatos ao reinício de funções
 
@@ -286,19 +280,21 @@ Para efeitos de avaliação dos resultados da frequência e da qualidade das ac�
 
 > Alterado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.
 
-###### Artigo 29.º — Selecção de pessoal
+###### Artigo 29.º — Selecção e recrutamento
 
 1 - No prazo de 10 dias após o termo do prazo de recepção de candidaturas, o serviço que pretende recrutar pessoal deve comunicar à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema, a identificação de todos os candidatos ao procedimento, sem prejuízo de aquele sistema poder vir a possibilitar a consulta, em tempo real, das candidaturas que vão sendo apresentadas.
 
 2 - No prazo de cinco dias após a respectiva ocorrência, o serviço deve comunicar à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema, toda e qualquer situação de não comparência, desistência ou recusa verificada no decurso do procedimento de selecção.
 
-3 - No prazo de cinco dias após a conclusão do procedimento de selecção, o serviço deve comunicar à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema, a decisão final, identificando o pessoal seleccionado para reinício de funções, bem como a data prevista para o efeito.
+3 - No prazo de cinco dias após a decisão final relativamente a cada candidato em SME, o serviço que efectua o recrutamento deve comunicar tal decisão à EGM, mediante o preenchimento de formulário electrónico próprio disponível no sistema.
 
 4 - A EGM assegura, sucessivamente, através do sistema, a transmissão da informação referida nos n.os 2 e 3 às secretarias-gerais ou departamentos governamentais de recursos humanos a que o pessoal em causa esteja afecto.
 
 5 - O funcionário ou agente que não compareça, desista ou se recuse a participar nos procedimentos de selecção a que seja opositor obrigatório e pretenda justificar tal facto perante a secretaria-geral ou departamento governamental de recursos humanos a que se encontra afecto, pode fazê-lo mediante o preenchimento de formulário electrónico próprio disponível no sistema e a apresentação dos documentos comprovativos exigíveis.
 
 6 - Sem prejuízo do disposto no número anterior, o funcionário ou agente pode informar previamente os serviços referidos naquele dispositivo, mediante a utilização de formulário electrónico próprio disponível no sistema ou por outro meio, de qualquer situação que implique a sua previsível indisponibilidade para comparecer.
+
+> Alterado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.
 
 ###### Artigo 30.º — Procedimento simplificado por ausência ou desistência
 
@@ -464,17 +460,19 @@ Após o deferimento das pretensões efectuadas ao abrigo do disposto nos n.os 4 
 
 ###### Artigo 53.º — Concessão de licença extraordinária
 
-1 - Para os efeitos do disposto no n.º 12 do artigo 32.º da lei, o funcionário ou agente deve apresentar o requerimento na secretaria-geral ou departamento governamental de recursos humanos a que se encontra afecto.
+1 - Para os efeitos do disposto no n.º 13 do artigo 32.º da lei, o trabalhador deve apresentar o requerimento na secretaria-geral ou departamento governamental de recursos humanos a que se encontra afecto.
 
 2 - O pedido pode ser efectuado mediante o preenchimento de formulário electrónico próprio disponível no sistema.
 
 3 - No prazo de cinco dias após o recebimento do pedido, os serviços mencionados no n.º 1 submetem-no à apreciação da EGM, mediante a utilização de formulário electrónico próprio disponível no sistema.
 
-4 - Decorridos cinco dias após o envio do requerimento à EGM, os serviços referidos no n.º 1 devem submetê-lo, devidamente informado, a decisão dos membros do Governo referidos no n.º 12 do artigo 32.º da lei.
+4 - Após a recepção do parecer da EGM a que respeita o número anterior, os serviços referidos no n.º 1 devem submeter o pedido, devidamente informado e acompanhado do referido parecer, a decisão dos membros do Governo referidos no n.º 13 do artigo 32.º da lei.
 
 5 - Caso o pedido de concessão de licença extraordinária venha a ser deferido, os serviços referidos no n.º 1 devem promover a notificação do interessado daquela decisão, no prazo de cinco dias a contar do conhecimento da mesma, informando também a EGM do facto e da data de início da licença.
 
-6 - Após recepção da comunicação prevista no número anterior, a EGM procede à actualização dos registos relativos ao funcionário ou agente em causa constantes do sistema, colocando-o na situação de licença extraordinária.
+6 - Após recepção da comunicação prevista no número anterior, a EGM procede à actualização dos registos relativos ao trabalhador em causa constantes do sistema, colocando-o na situação de licença extraordinária.
+
+> Alterado pelo/a [Portaria n.º 182/2011](https://diariodarepublica.pt/dr/detalhe/portaria/182-2011-287107), publicado em 2011-05-05.
 
 ###### Artigo 54.º — Cessação de licença extraordinária
 

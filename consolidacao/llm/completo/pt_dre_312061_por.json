@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:312061:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O pessoal médico que nesta data se encontra ao serviço dos hospitais distritais pode ser distribuído pelas vagas de especialista existentes nos seus mapas ou quadros de pessoal, desde que possua os requisitos exigidos pela [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, mediante concursos que constam de prova de curriculum e prova prática, dispensável esta para os candidatos que na primeira tenham a classificação de Bom.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "Será fixada em despacho do Secretário de Estado da Saúde a data dos concursos a realizar em execução do artigo 1.º deste diploma, observando-se o disposto na [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, no que não for contrariado pelo presente diploma.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.\n\nPromulgado em 15 de Setembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 53/76, artigo único: nova redação do artigo 1.º — substituído pelo texto do alterador.",
+    "DL 53/76, artigo único: nova redação do artigo 7.º — substituído; mantida a fórmula final que acompanhava o texto atual.",
+    "DL 201/80, art. 6.º: revoga o artigo 4.º — corpo '(Revogado.)'. Os arts. 1.º a 5.º do DL 201/80 são regime próprio autónomo, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

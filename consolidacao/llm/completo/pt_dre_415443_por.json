@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:415443:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. É abolida a enfiteuse a que se acham sujeitos os prédios rústicos, transferindo-se o domínio directo deles para o titular do domínio útil.\n\n2. Nos contratos de subenfiteuse de pretérito a propriedade plena radica-se no subenfiteuta.\n\n3. Serão oficiosa e gratuitamente efectuadas as correspondentes operações de registo.\n\n4 - No caso de não haver registo anterior nem contrato escrito, o registo de enfiteuse poderá fazer-se com base em usucapião reconhecida mediante justificação notarial ou judicial.\n\n5 - Considera-se que a enfiteuse se constituiu por usucapião se:\n\na) Desde, pelo menos, 15 de Março de 1946 até à extinção da enfiteuse o prédio rústico, ou a sua parcela, foi cultivado por quem não era proprietário com a obrigação para o cultivador de pagamento de uma prestação anual ao senhorio;\n\nb) Tiverem sido feitas pelo cultivador ou seus antecessores no prédio ou sua parcela benfeitorias, mesmo que depois de 16 de Março de 1976, de valor igual ou superior a, pelo menos, metade do valor do prédio ou da parcela, considerados no estado de incultos e sem atender a eventual aptidão para urbanização ou outros fins não agrícolas.\n\n6 - Pode pedir o reconhecimento da constituição da enfiteuse por usucapião quem tenha sucedido ao cultivador inicial por morte ou por negócio entre vivos, mesmo que sem título, desde que as sucessões hajam sido acompanhadas das correspondentes transmissões da posse.",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "1. O pedido de indemnização será dirigido ao tribunal da comarca da situação do prédio, devendo o requerimento identificar o titular do domínio útil e ser instruído com a prova documental e a indicação de testemunhas que o requerente pretenda produzir e indicar, até ao número de cinco.\n\nO requerente terá de instruir o seu requerimento com certidão de todos os impostos e contribuições pagos ao Estado nos últimos cinco anos, com indicação das respectivas fontes.\n\n2. O Estado será citado para contestar no prazo de trinta dias. Com a contestação oferecerá a prova documental e o rol de testemunhas, que não podem exceder cinco. O titular do domínio útil será também citado para contestar, se quiser, pela mesma forma e termos.\n\n3. Na falta de contestação de ambos os citados será logo proferida sentença.\n\n4. Havendo contestação, o juiz designará dia para declarações aos titulares dos domínios directo e útil e inquirição das testemunhas. Concluída a diligência, proferirá sentença no prazo de dez dias.\n\n5. Não há recurso dos despachos. Da decisão final haverá recurso para a Relação, o qual abrangerá a matéria de facto e de direito.\n\n6 - (Revogado.)\n\n7 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "A acção a que se refere o artigo 3.º deverá ser intentada no prazo de seis meses a contar do registo a que se refere o n.º 3 do artigo 1.º",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "1 - Todos os actos judiciais, notariais e registais a que o presente decreto-lei se refere estão isentos de imposto de justiça, selos, encargos e emolumentos, salvo os casos de litigância de má fé, a que se aplica o respectivo regime.\n\n2 - Não é obrigatória a constituição de advogado.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 546/76), art. 1.º: nova redação do n.º 3 do art. 1.º; aplicada.",
+    "Alterador 2 (Lei 22/87), art. 1.º: aditados os n.os 4 e 5 ao art. 1.º; aplicados (o n.º 5 foi depois substituído pelo alterador 3).",
+    "Alterador 2, art. 2.º: nova redação do art. 5.º; aplicada.",
+    "Alterador 2, art. 3.º: aditado o art. 9.º; aplicado como artigo novo 9.º.",
+    "Alterador 2, art. 4.º: revogados os n.os 6 e 7 do art. 3.º; aplicados como (Revogado.).",
+    "Alterador 3 (Lei 108/97), art. 1.º: nova redação do n.º 5 do art. 1.º; aplicada.",
+    "Alterador 3, art. 2.º: aditado o n.º 6 ao art. 1.º; aplicado.",
+    "Alterador 3, art. 3.º: norma autónoma sobre o DL 547/74, não dirigida ao original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

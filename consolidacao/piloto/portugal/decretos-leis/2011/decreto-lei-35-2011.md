@@ -56,7 +56,7 @@ e) A Associação de Municípios do Vale do Côa.
 
 1 - A Fundação é uma fundação pública de direito privado, constituída por tempo indeterminado.
 
-2 - A Fundação rege-se pelo disposto no presente decreto-lei, pelos respetivos Estatutos, pela Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, alterada e republicada pela Lei n.º 150/2015, de 10 de setembro, e pela demais legislação aplicável.
+2 - A Fundação rege-se pelo disposto no presente decreto-lei, pelos respetivos Estatutos, pela Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, alterada e republicada pela [Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/lei/150-2015-70241301), de 10 de setembro, e pela demais legislação aplicável.
 
 3 - A Fundação encontra-se sujeita à superintendência e tutela do membro do Governo responsável pela área da cultura.
 
@@ -74,7 +74,9 @@ A Fundação tem a sede no Museu do Côa, em Vila Nova de Foz Côa.
 
 1 - A Fundação tem como fins principais a salvaguarda, conservação, investigação, divulgação e valorização da arte rupestre e demais património arqueológico, paisagístico e cultural abrangido pela área prevista nos anexos ii e iii ao presente decreto-lei, do qual fazem parte integrante.
 
-2 - A Fundação tem, ainda, como fins o desenvolvimento de acções em matéria de valorização, exploração e gestão integrada do património e dos recursos naturais do Vale do Rio Côa, dinamização de actividades culturais, artísticas, turísticas, de lazer, e outras intervenções que contribuam para o desenvolvimento económico e social da área prevista nos anexos ii e iii ao presente decreto-lei.
+2 - A Fundação tem, ainda, como fins o desenvolvimento de ações em matéria de valorização, exploração e gestão integrada do património e dos recursos naturais do Vale do Rio Côa, dinamização de atividades culturais, artísticas, turísticas, de lazer e de sensibilização e educação ambiental, bem como de outras intervenções que contribuam para o desenvolvimento económico e social da área prevista nos anexos II e III ao presente decreto-lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 5.º — Património
 
@@ -184,7 +186,7 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ###### Artigo 1.º — Natureza e denominação
 
-1 - A Côa Parque - Fundação para a Salvaguarda e Valorização do Vale do Côa, F. P., adiante designada Fundação, é uma fundação pública de direito privado que se rege pelo disposto no decreto-lei que a institui, pelos presentes estatutos, pela Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, alterada e republicada pela Lei n.º 150/2015, de 10 de setembro, e pela demais legislação que lhe seja aplicável.
+1 - A Côa Parque - Fundação para a Salvaguarda e Valorização do Vale do Côa, F. P., adiante designada Fundação, é uma fundação pública de direito privado que se rege pelo disposto no decreto-lei que a institui, pelos presentes estatutos, pela Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, alterada e republicada pela [Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/lei/150-2015-70241301), de 10 de setembro, e pela demais legislação que lhe seja aplicável.
 
 2 - A Fundação encontra-se sujeita à superintendência e tutela do membro do Governo responsável pela área da cultura.
 
@@ -208,7 +210,13 @@ b) Desenvolver acções em matéria de valorização, exploração e gestão int
 
 c) Gerir o património que lhe seja afecto, através da realização de inventário, da adopção de medidas de protecção, de salvaguarda e de conservação, fomentando a investigação e a divulgação respectivas, sem prejuízo das atribuições legalmente cometidas à administração do património cultural competente;
 
-d) Gerir e coordenar o Museu do Côa e o Parque Arqueológico do Vale do Côa (PAVC) e explorar os recursos complementares.
+d) Promover atividades de educação ambiental, numa ótica de complementaridade entre as vertentes do património cultural e natural, com vista à sensibilização de diversos públicos para a proteção e valorização dos recursos hídricos, espécies e habitats da região em que se insere;
+
+e) Promover o património científico e tecnológico no âmbito da valorização patrimonial e científica do Vale do Côa;
+
+f) Gerir e coordenar o Museu do Côa e o Parque Arqueológico do Vale do Côa (PAVC) e explorar os seus recursos, com o objetivo de consolidar o Vale do Côa enquanto polo de investigação científica e de atração turística, a nível nacional e internacional, garantindo as condições necessárias à sua fruição pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ### CAPÍTULO II — Regime patrimonial e financeiro
 
@@ -310,7 +318,7 @@ b) Dos membros do Governo responsáveis pelas áreas do turismo e do ambiente, u
 
 c) Do município de Vila Nova de Foz Côa e da Associação de Municípios do Vale do Côa, o outro vogal.
 
-4 - O mandato dos membros do conselho diretivo tem a duração de cinco anos, sendo-lhe aplicável o disposto no artigo 20.º da Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua atual redação, nos termos da Lei-Quadro das Fundações.
+4 - O mandato dos membros do conselho diretivo tem a duração de cinco anos, sendo-lhe aplicável o disposto no artigo 20.º da Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua atual redação, nos termos da Lei-Quadro das Fundações.
 
 5 - O cargo mencionado na alínea b) do n.º 3 é exercido em regime de rotatividade, sendo o vogal proposto pela área do turismo substituído por um vogal proposto pela área do ambiente, com vista a exercerem o mandato de cinco anos de forma alternada.
 
@@ -404,9 +412,11 @@ e) Representar a Fundação no plano nacional ou internacional e desempenhar as 
 
 ###### Artigo 13.º — Vinculação
 
-1 - A Fundação obriga-se pela assinatura conjunta de dois membros do conselho de administração, sendo um deles o presidente.
+1 - A Fundação obriga-se pela assinatura conjunta de dois membros do conselho diretivo, sendo um deles o presidente.
 
-2 - O conselho de administração pode, em casos devidamente justificados, constituir mandatários, atribuindo-lhes competência para actos específicos previamente aprovados, podendo, nesse caso, a Fundação ficar obrigada pela sua assinatura.
+2 - O conselho diretivo pode, em casos devidamente justificados, constituir mandatários, atribuindo-lhes competência para atos específicos previamente aprovados, podendo nesse caso a Fundação ficar obrigada apenas pela respetiva assinatura.
+
+> Alterado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 14.º — Faltas, impedimentos e cessação do mandato
 
@@ -428,113 +438,79 @@ e) Representar a Fundação no plano nacional ou internacional e desempenhar as 
 
 ###### Artigo 16.º — Competência do conselho de fundadores
 
-1 - O conselho de fundadores é o órgão que define as grandes linhas de orientação da Fundação.
+(Revogado.)
 
-2 - Compete, designadamente, ao conselho de fundadores:
-
-a) Definir e estabelecer as políticas gerais de funcionamento da Fundação;
-
-b) Discutir e aprovar o relatório e as contas de cada exercício;
-
-c) Discutir e aprovar o orçamento anual e o plano de actividades anuais e plurianuais, os quais devem ser apresentados pelo conselho de administração;
-
-d) Apreciar os relatórios de actividades que lhe sejam apresentados pelo conselho de administração;
-
-e) Dar parecer sobre iniciativas específicas cujo projecto lhe seja apresentado para o efeito;
-
-f) Aprovar propostas de alterações aos presentes Estatutos;
-
-g) Aprovar a alienação ou oneração de bens imóveis do património privativo da Fundação, sem prejuízo do disposto no n.º 2 do artigo 18.º;
-
-h) Decidir sobre quaisquer matérias que respeitem à actividade da Fundação;
-
-i) Aprovar as minutas de contrato ou protocolo a celebrar com outras entidades, sob proposta do conselho de administração;
-
-j) Deliberar sobre a admissão de novos fundadores;
-
-l) Exercer os demais poderes que lhe sejam conferidos pelos presentes Estatutos.
-
-3 - O conselho de fundadores deve remeter até 31 de Outubro a versão aprovada do orçamento e do plano de actividades do ano seguinte e plurianuais aos membros do Governo responsáveis pelas áreas do turismo, do ambiente e da cultura.
+> Revogado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 17.º — Funcionamento do conselho de fundadores
 
-1 - O conselho de fundadores reúne ordinariamente uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por iniciativa própria ou quando solicitado por, pelo menos, três quintos dos seus membros.
+(Revogado.)
 
-2 - O conselho de fundadores não pode reunir ou deliberar em primeira convocatória sem que se encontre presente ou representada metade dos seus membros.
-
-3 - A representação mencionada no número anterior só pode ser conferida a outro membro do conselho de fundadores e deve sê-lo por carta dirigida ao presidente, com indicação expressa da reunião a que se destina.
-
-4 - No caso de o conselho de fundadores não poder deliberar por falta do quórum exigido no n.º 2, o presidente convoca uma nova reunião com a mesma ordem de trabalhos e a antecedência mínima de 15 dias, podendo então o conselho deliberar qualquer que seja o número de presenças.
-
-5 - Os membros do conselho de administração da Fundação têm assento no conselho de fundadores, sem direito a voto, à excepção do presidente.
-
-6 - O exercício de funções de membro do conselho de fundadores não é remunerado, sem prejuízo do reembolso das importâncias respeitantes a despesas de deslocação realizadas ao serviço da Fundação.
+> Revogado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 18.º — Deliberações
 
-1 - Sem prejuízo de outras maiorias qualificadas exigidas nos presentes Estatutos, as decisões do conselho de fundadores são, em regra, tomadas por maioria absoluta dos votos, não se contando as abstenções.
+(Revogado.)
 
-2 - No caso da alienação ou oneração de bens imóveis do património privativo da Fundação é necessária uma maioria de quatro quintos dos membros do conselho de fundadores.
+> Revogado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 #### SECÇÃO IV — Conselho consultivo
 
 ###### Artigo 19.º — Composição do conselho consultivo
 
-1 - O conselho consultivo é composto por:
+O conselho consultivo é composto por:
 
-a) Um coordenador, designado pelo membro do Governo responsável pela área da cultura;
+a) Uma individualidade designada pelo membro do Governo responsável pela área da cultura, que preside;
 
-b) Um representante do IGESPAR, I. P.;
+b) Um representante da Direção-Geral do Património Cultural;
 
-c) Um representante da Entidade Regional de Turismo do Douro;
+c) Um representante da Fundação para a Ciência e a Tecnologia, I. P.;
 
-d) Um representante da ARH do Norte, I. P.;
+d) Um representante do Turismo de Portugal, I. P.;
 
-e) Um representante do município de Vila Nova de Foz Côa;
+e) Um representante da Agência Portuguesa do Ambiente, I. P.;
 
-f) Um representante da Associação de Municípios do Vale do Côa;
+f) Um representante do Instituto da Conservação da Natureza e da Biodiversidade, I. P.;
 
-g) Um representante do Instituto dos Museus e da Conservação, I. P.;
+g) Um representante do município de Vila Nova de Foz Côa;
 
-h) Um representante da Direcção Regional de Cultura do Norte;
+h) Um representante da Associação de Municípios do Vale do Côa;
 
-i) Um representante da Direcção Regional de Cultura do Centro;
+i) Um representante da Direção Regional de Cultura do Norte;
 
-j) Um representante da Universidade do Minho;
+j) Um representante da Direção Regional de Cultura do Centro;
 
-l) Um representante da Universidade de Trás-os-Montes e Alto Douro;
+k) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Norte;
 
-m) Um representante da Universidade de Coimbra;
+l) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Centro;
 
-n) Um representante da Universidade do Porto;
+m) Um representante da Turismo do Porto e Norte de Portugal, E. R.;
 
-o) Um representante do Governo Civil do distrito da Guarda;
+n) Um representante da Turismo do Centro, E. R.;
 
-p) Um representante do Governo Civil do distrito de Bragança;
+o) Um representante da Universidade do Minho;
+
+p) Um representante da Universidade de Trás-os-Montes e Alto Douro;
 
 q) Um representante do município de Figueira de Castelo Rodrigo;
 
-r) Um representante do município de Pinhel;
+r) Um representante do município de Meda;
 
-s) Um representante do município de Meda;
+s) Um representante do município de Pinhel;
 
-t) Um representante do Instituto da Conservação da Natureza e da Biodiversidade, I. P.;
+t) Um representante da Comissão Nacional da UNESCO;
 
-u) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Norte;
+u) Um representante da ACÔA - Associação de Amigos do Parque e Museu do Côa;
 
-v) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Centro;
+v) Um representante da Fundação do Museu do Douro;
 
-x) Um representante da Entidade Regional de Turismo do Centro;
+w) Um representante da Associação dos Arqueólogos Portugueses;
 
-z) Um representante da Entidade Regional de Turismo do Pólo de Desenvolvimento Turístico da Serra da Estrela;
+x) Um representante do Agrupamento de Escolas Tenente Coronel Adão Carrapatoso, de Vila Nova de Foz Côa;
 
-aa) Um representante da Comissão Nacional da UNESCO;
+y) Um representante do Parque de Siega Verde.
 
-bb) Um representante da ACÔA - Associação de Amigos do Parque e Museu do Côa;
-
-cc) Um representante da Fundação do Museu do Douro, criada pelo [Decreto-Lei n.º 70/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2006-667533), de 23 de Março;
-
-dd) Um representante do Parque de Siega Verde.
+> Alterado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 20.º — Direito de voto
 
@@ -542,11 +518,19 @@ As deliberações do conselho consultivo são tomadas por maioria simples dos me
 
 ###### Artigo 21.º — Competências do conselho consultivo
 
-1 - O conselho consultivo tem funções meramente consultivas.
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação e decisão do conselho diretivo, competindo-lhe emitir parecer, a pedido do conselho diretivo, sobre todas as matérias consideradas relevantes.
 
-2 - Compete ao conselho consultivo emitir parecer a pedido do conselho de administração ou do conselho de fundadores, conjunta ou isoladamente, sobre as matérias consideradas relevantes.
+2 - Compete, nomeadamente, ao conselho consultivo pronunciar-se sobre:
+
+a) As políticas gerais de funcionamento e exercício de atividades da Fundação;
+
+b) As políticas e orientação de investimento da Fundação;
+
+c) O orçamento e os planos anuais e plurianuais de atividades da Fundação.
 
 3 - O conselho consultivo emite o seu parecer em reunião convocada para o efeito ou mediante a emissão de pareceres individuais de cada uma das entidades que o compõem, no prazo de 20 dias a contar da solicitação para esse efeito formulada pelo seu presidente.
+
+> Alterado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 22.º — Funcionamento
 
@@ -600,11 +584,9 @@ d) Alertar o conselho diretivo para qualquer assunto que deva ser ponderado e pr
 
 ###### Artigo 26.º — Segurança social
 
-1 - Os trabalhadores da Fundação são obrigatoriamente abrangidos pelo regime geral de segurança social, nos termos da legislação respectiva.
+(Revogado.)
 
-2 - O disposto no número anterior não prejudica o direito dos trabalhadores que exerçam funções, em regime de mobilidade ou outro legalmente aplicável, de optarem pelo regime de protecção social da entidade empregadora de origem.
-
-3 - A Fundação pode promover o estabelecimento de sistemas complementares de protecção social nos termos da lei.
+> Revogado pelo/a [Decreto-Lei n.º 70/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174), publicado em 2017-06-20.
 
 ###### Artigo 27.º — Relatório e contas
 

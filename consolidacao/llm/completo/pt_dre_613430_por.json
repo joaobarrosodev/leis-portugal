@@ -1,0 +1,74 @@
+{
+  "id": "pt:dre:613430:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "alterador": 1,
+      "texto": "O presente Regulamento estabelece o regime de apoio à imobilização definitiva de embarcações de pesca por demolição, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca."
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito e objectivos",
+      "alterador": 3,
+      "texto": "Este regime tem como objectivo adequar a frota de pesca aos recursos disponíveis, mediante a retirada selectiva de embarcações, no âmbito da política comum de pescas, através da cessação definitiva das actividades de pesca, pelo abate, por demolição, das embarcações ao registo nacional e comunitário da frota de pesca, com todas as artes constantes do livrete de actividade."
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Promotores",
+      "alterador": 3,
+      "texto": "Podem apresentar candidaturas os proprietários de embarcações legalmente registadas na frota de pesca do continente, à excepção das registadas em portos da região de Lisboa e Vale do Tejo."
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Condições de acesso",
+      "alterador": 3,
+      "texto": "1 - É condição geral de acesso ter a situação regularizada face à administração fiscal, à segurança social e às entidades pagadoras de quaisquer apoios públicos e dispor de contabilidade actualizada nos termos da legislação aplicável.\n\n2 - São condições especiais de acesso:\n\na) Estar a embarcação registada em nome do candidato no mínimo dois anos antes da apresentação da candidatura, salvo quando:\n\ni) Tenha sido adquirida por via sucessória;\n\nii) Tenha passado a integrar o capital social de sociedade comercial ou cooperativa, como entrada do anterior proprietário, caso em que a contagem do prazo de dois anos é feita continuamente; ou\n\niii) Tenha sido adquirida em regime de leasing, caso em que aquele prazo se conta desde a outorga do contrato respectivo com a empresa locadora;\n\nb) Ter a embarcação mantido inalteradas as artes constantes do respectivo livrete de actividade nos três meses anteriores à candidatura;\n\nc) Ter a embarcação permanecido pelo menos 75 dias no mar em actividades de pesca em cada um dos dois períodos de 12 meses anteriores ao pedido de cessação definitiva ou, se for caso disso, ter exercido actividade de pesca durante pelo menos 80% dos dias de mar autorizados pela regulamentação comunitária ou nacional em vigor para a embarcação em causa;\n\nd) Ter a embarcação idade igual ou superior a 15 anos;\n\ne) Estar a embarcação operacional no momento da decisão de concessão do apoio, a comprovar através de certificado de navegabilidade ou termo de vistoria actualizados."
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Critérios de selecção",
+      "alterador": 3,
+      "texto": "1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do respectivo valor da avaliação final (AF), resultante da aplicação da seguinte fórmula:\n\nAF = 0,4 AT + 0,6 AS\n\n2 - O cálculo de AF é definido no anexo I e resulta da ponderação das seguintes valências:\n\nAT - apreciação técnica;\n\nAS - avaliação sectorial.\n\n3 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos na avaliação final.\n\n4 - (Eliminado.)"
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Natureza e montante dos apoios",
+      "alterador": 3,
+      "texto": "1 - Os apoios à imobilização definitiva por demolição revestirão a forma de subsídio a fundo perdido.\n\n2 - O montante dos apoios a conceder é de 90% dos valores resultantes da tabela constante do anexo II.\n\n3 - (Eliminado.)"
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Apreciação e decisão",
+      "alterador": 3,
+      "texto": "1 - A apreciação técnica e a avaliação sectorial dos projectos candidatos compete à DGPA.\n\n2 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, Pescas e Florestas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informação ou documentos.\n\n4 - A comunicação da decisão das candidaturas será efectuada pela DGPA."
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Cancelamento da licença de pesca",
+      "alterador": 3,
+      "texto": "A licença de pesca da embarcação abatida é cancelada, não podendo ser objecto de transferência para outra embarcação de pesca."
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Disposição transitória",
+      "alterador": 3,
+      "texto": "(Revogado.)"
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Anexos I e II do Regulamento: não constam do texto atual por artigos. A nova redação do n.º 2 do anexo I (alterador 1) remete para quadros só em imagem; a nova redação dos anexos I e II (alterador 3) também não tem onde ser aplicada e a tabela do anexo II só vem em imagem. As suspensões de vigência (alteradores 2 e 4) e a reposição em vigor (alterador 3, 1.º) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do artigo 1.º — aplicada.",
+    "Alterador 1, 1.º: nova redação do n.º 2 do anexo I — não aplicada (anexo fora do texto, quadros em imagem).",
+    "Alterador 1, 2.º: norma de aplicação às candidaturas — não textual, ignorada.",
+    "Alterador 2, 1.º e 2.º: suspensão da vigência — não textual, ignorada.",
+    "Alterador 3, 1.º: reposição em vigor (não textual) e nova redação dos artigos 2.º, 3.º, 4.º (só alínea d) do n.º 2; resto mantido), 5.º (n.º 4 eliminado), 6.º (n.º 2 alterado, n.º 3 eliminado), 8.º (n.os 2 e 3 alterados, n.º 4 aditado) e 12.º — aplicadas.",
+    "Alterador 3, 1.º: nova redação dos anexos I e II — não aplicada (anexos fora do texto; tabela do anexo II em imagem).",
+    "Alterador 3, 2.º: revogação do artigo 13.º — aplicada, corpo (Revogado.).",
+    "Alterador 4, 1.º: nova suspensão da vigência — não textual, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

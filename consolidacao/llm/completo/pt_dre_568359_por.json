@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:568359:por",
+  "artigos": [
+    {
+      "chave": "14.º",
+      "epigrafe": "Reconhecimento dos agrupamentos de produtores",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "A revogação do anexo ii (requisitos e procedimentos de reconhecimento dos agrupamentos de produtores) não se pode aplicar: o anexo não consta do texto atual.",
+  "instrucoes": [
+    "Retificação do art. 18.º do Despacho Normativo n.º 11/2010, cuja redação retificada revoga o artigo 14.º e o anexo ii do original: artigo 14.º dado como (Revogado.); anexo ii não presente no texto atual (ver nao_aplicavel). As revogações de artigos do DN 36/2006 e DN 23/2008 não são do original: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:453272:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Apresentação dos pedidos de regularização",
+      "texto": "Os pedidos de regularização de superfícies de vinhas plantadas antes de 1 de Setembro de 1998 devem ser apresentados, até 30 de Novembro de 2009, nos serviços das direcções regionais de agricultura e pescas, adiante designadas por DRAP, da área onde se situam essas superfícies.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Taxas",
+      "texto": "Nos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º [479/2008](https://data.europa.eu/eli/reg/2008/479/oj?locale=pt), do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 1000/ha.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Competências das DRAP",
+      "texto": "Compete às DRAP:\n\na) Participar na divulgação da regularização de plantações ilegais;\n\nb) Proceder à recepção, análise e controlos administrativos dos pedidos de regularização, de acordo com as regras definidas pelo IVV, I. P.;\n\nc) Processar os pedidos de regularização até 30 de Dezembro de 2009;\n\nd) Proceder à verificação, no local, até 31 de Julho de cada ano, de que a produção foi destruída, nos casos referidos no n.º 4 do artigo 6.º;\n\ne) Proceder à realização das acções de controlo para efeitos da confirmação dos arranques referidos no artigo 2.º, anualmente, até 1 de Fevereiro.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 3.º (prazo até 30 de Novembro de 2009), epígrafe mantida ([...]) - aplicado.",
+    "Alterador 1, art. 1.º: nova redação da alínea c) do art. 9.º (até 30 de Dezembro de 2009), restantes unidades mantidas - aplicado.",
+    "Alterador 2, art. 1.º: nova redação do art. 4.º (taxa de (euro) 1000/ha) - aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

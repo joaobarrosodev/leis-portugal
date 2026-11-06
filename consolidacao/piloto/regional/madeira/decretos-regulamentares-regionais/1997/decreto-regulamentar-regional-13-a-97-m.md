@@ -7,9 +7,6 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:186556:por
-    title: Decreto Legislativo Regional n.º 2/98/M
-    publication_date: '1998-03-16'
   - id: pt:dre:515267:por
     title: Decreto Regulamentar Regional n.º 10/2000/M
     publication_date: '2000-03-21'
@@ -84,19 +81,7 @@ r) Autorizar as despesas, designadamente com bens de consumo, aquisição de mat
 
 5 - (Revogado.)
 
-> Alterado pelo/a [Decreto Legislativo Regional n.º 2/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1998-186556) e [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267) e [Decreto Legislativo Regional n.º 16/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), publicado em 2000-07-15.
-
-Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 15 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DA DIRECÇÃO REGIONAL DE EDUCAÇÃO ESPECIAL E REABILITAÇÃO
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -152,6 +137,26 @@ r) Autorizar as despesas, designadamente com bens de consumo, aquisição de mat
 
 5 - O director regional de Educação Especial e Reabilitação pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
 
+###### Artigo 2.º-A — Competências do director regional
+
+1 - Compete, em especial, ao director regional ou a quem o substituir:
+
+a) Represetar a DREER;
+
+b) Presidir às reuniões dos conselhos administrativo e técnico;
+
+c) Coordenar todos os meios disponíveis para que sejam atingidos os objectivos da DREER;
+
+d) Convocar as reuniões dos conselhos administrativo e técnico, dirigir os trabalhos e providenciar pela execução das deliberações tomadas;
+
+e) Promover a publicitação das circulares e regulamentos internos.
+
+2 - O director regional de Educação Especial e Reabilitação é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeito por ele designado.
+
+3 - O director regional de Educação Especial e Reabilitação pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
+
 ### CAPÍTULO II — Órgãos e serviços
 
 ###### Artigo 3.º — Estrutura
@@ -184,11 +189,15 @@ l) Serviços Gerais (SG).
 
 2 - Em cada estabelecimento dependente da DREER haverá um conselho técnico interno, ao qual incumbirá coadjuvar o director técnico no estudo e divulgação de estratégias de interesse global para as actividades e para a problemática dos educandos.
 
-3 - O conselho técnico interno será constituído pelo director técnico, que presidirá, e por representantes do pessoal docente e técnico em serviço efectivo, eleitos pelos respectivos grupos sócio-profissionais ou áreas de intervenção, por períodos de dois anos lectivos.
+3 - O conselho técnico interno será constituído pelo director técnico, que presidirá, e por representantes do pessoal docente, técnico superior, técnico e técnico-profissional em serviço de horário completo no respectivo estabelecimento, eleitos por períodos de dois anos lectivos, pelos funcionários e agentes dos respectivos grupos sócio-profissionais ou áreas de intervenção em serviço efectivo.
 
 4 - O número de elementos a eleger para o conselho técnico interno será de um por cada grupo ou área de intervenção.
 
 5 - Sempre que as circunstâncias o aconselhem, poderão participar nas reuniões outros técnicos, educandos e pessoas especialmente convidadas para o efeito, designadamente pais e encarregados de educação.
+
+6 - O conselho técnico interno reunirá uma vez por mês e extraordinariamente sempre que convocado pelo respectivo director técnico, competindo a um elemento da carreira de assistente administrativo lavrar a acta com a súmula da reunião.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
 
 #### SECÇÃO I — Conselho administrativo
 
@@ -362,6 +371,12 @@ O SS tem por função apoiar os serviços técnicos, contribuindo para a identif
 
 O ST tem por função apoiar os serviços técnicos especialmente no que se refere à estimulação e reeducação psicomotora, sensorial, de fala e audiométrica dos educandos.
 
+###### Artigo 20.º-A — Conselho técnico
+
+Em cada serviço ou estabelecimento dependente da DREER com, pelo menos, duas profissões de técnico de diagnóstico e terapêutica de entre as previstas no mapa anexo ao presente diploma haverá um conselho técnico com as atribuições e constituição previstas no artigo 13.º do [Decreto-Lei n.º 564/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1999-661768), de 21 de Dezembro.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
+
 #### SECÇÃO VI — Gabinete de Assessoria
 
 ###### Artigo 21.º — Natureza e atribuições
@@ -436,13 +451,13 @@ A DSA é um órgão de apoio a toda a estrutura da DREER, com atribuições em m
 
 1 - A DSA compreende:
 
-a) Repartição de Expediente e Recursos Humanos;
+a) Departamento de Expediente e Recursos Humanos;
 
-b) Repartição de Contabilidade e Património;
+b) Departamento de Contabilidade e Património;
 
 c) Tesouraria.
 
-2 - A Repartição de Expediente e Recursos Humanos integra as seguintes secções:
+2 - O Departamento de Expediente e Recursos Humanos é o órgão de apoio administrativo da DSA, com atribuições em matérias de admissões, expediente, pessoal, arquivo e assuntos de natureza genérica, integrando as seguintes secções:
 
 a) Admissões e Registo de Educandos;
 
@@ -450,13 +465,15 @@ b) Expediente e Pessoal;
 
 c) Organização e Arquivo.
 
-3 - A Repartição de Contabilidade e Património integra as seguintes secções:
+3 - O Departamento de Contabilidade e Património é o órgão de apoio logístico da DSA, com atribuições em matérias de património, estatística, contabilidade, aprovisionamento e aquisições de serviços, integrando as seguintes secções:
 
 a) Aprovisionamento;
 
 b) Contabilidade;
 
 c) Património.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
 
 #### SECÇÃO XII — Serviços Gerais
 
@@ -516,51 +533,51 @@ h) Pessoal operário.
 
 Podem ser opositores aos lugares docentes do quadro de educadores de infância da DREER os candidatos que se encontrem em alguma das situações a seguir indicadas:
 
-a) Educadores do quadro único com o curso de estudos superiores especializados em Educação Especial;
+a) Educadores do quadro único, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-b) Educadores do quadro de vinculação da Região Autónoma da Madeira com o curso de estudos superiores especializados em Educação Especial;
+b) Educadores do quadro de vinculação da Região Autónoma da Madeira, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-c) Educadores contratados com o curso de estudos superiores especializados em Educação Especial.
+c) Educadores contratados, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial.
 
 9 - Podem ser opositores aos lugares docentes do quadro de professores do 1.º ciclo do ensino básico da DREER os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
-a) Professores do 1.º ciclo do ensino básico do quadro geral com o curso de estudos superiores especializados em Educação Especial;
+a) Professores do 1.º ciclo do ensino básico do quadro geral, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-b) Professores do 1.º ciclo do ensino básico do quadro de vinculação da Região Autónoma da Madeira, com o curso de estudos superiores especializados em Educação Especial;
+b) Professores do 1.º ciclo do ensino básico do quadro de vinculação da Região Autónoma da Madeira, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-c) Professores do 1.º ciclo contratados com o curso de estudos superiores especializados em Educação Especial.
+c) Professores do 1.º ciclo contratados, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial.
 
 10 - Podem ser opositores aos lugares docentes do quadro dos 2.º e 3.º ciclos do ensino básico e secundário da DREER os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
-a) Professores do quadro de nomeação definitiva dos 2.º e 3.º ciclos do ensino básico e secundário com o curso de estudos superiores especializados em Educação Especial;
+a) Professores do quadro de nomeação definitiva dos 2.º e 3.º ciclos do ensino básico e secundário, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-b) Professores do quadro de nomeação provisória dos 2.º e 3.º ciclos do ensino básico e secundário com o curso de estudos superiores especializados em Educação Especial;
+b) Professores do quadro de nomeação provisória dos 2.º e 3.º ciclos do ensino básico e secundário, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-c) Professores profissionalizados com o curso de estudos superiores especializados em Educação Especial;
+c) Professores profissionalizados, com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
-d) Professores de habilitação própria contratados, que no final do ano escolar imediatamente anterior possuam, pelo menos, dois anos de serviço no ensino oficial ou equiparado, habilitados com o curso de estudos superiores especializados em Educação Especial.
+d) Professores de habilitação própria contratados que no final do ano escolar imediatamente anterior possuam, pelo menos, dois anos de serviço no ensino oficial ou equiparado, habilitados com licenciatura, diploma de estudos superiores especializados ou curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial.
 
-11 - Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
+11 - Dentro de cada uma das situações referidas respectivamente nos n.os 8, 9 e 10 anteriores, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
 
 a) Classificação profissional;
 
-b) Tempo de serviço docente após a conclusão do curso de estudos superiores especializados em Educação Especial.
+b) Tempo de serviço docente após a conclusão da licenciatura, do curso de estudos superiores especializados ou do curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial.
 
-11.1 - A classificação profissional corresponde, para todos os efeitos legais, à classificação final obtida no curso de estudos superiores especializados em Educação Especial.
+11.1 - A classificação profissional corresponde, para todos os efeitos legais, à classificação final obtida na licenciatura, no curso de estudos superiores especializados ou no curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial.
 
 11.2 - A graduação profissional de cada candidato é a classificação profissional acrescida de 1 valor por cada ano de serviço prestado, nos termos da alínea b) do n.º 11, e até ao limite de 20 valores.
 
-11.3 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado desde o dia 1 de Setembro do ano em que o professor concluiu o curso de estudos superiores especializados em Educação Especial até 31 de Agosto imediatamente anterior à data de abertura do concurso.
+11.3 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado desde o dia 1 de Setembro do ano em que o professor concluiu a licenciatura, o curso de estudos superiores especializados ou o curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial, até 31 de Agosto imediatamente anterior à data de abertura do concurso.
 
 12 - Em caso de empate, prefere, sucessivamente:
 
 a) O candidato com o maior número de dias calculado nos termos da alínea b) do n.º 11;
 
-b) O candidato com mais tempo de serviço contado até 31 de Agosto do ano em que concluiu o curso de estudos superiores especializados em Educação Especial;
+b) O candidato com mais tempo de serviço contado até 31 de Agosto do ano em que concluiu a licenciatura, o curso de estudos superiores especializados ou o curso de especialização para o ensino de crianças e jovens deficientes ou com dificuldades de aprendizagem, legalmente considerados para efeitos de exercício de funções no âmbito da educação e ensino especial;
 
 c) O candidato mais idoso.
 
-13 - Os candidatos ao concurso indicarão as suas preferências num só boletim, até ao limite de seis estabelecimentos, considerando-se estes os dependentes dos serviços técnicos de educação e os centros psicopedagógicos.
+13 - Os candidatos serão opositores às vagas publicitadas, indicando as suas preferências num só boletim, até ao limite de 16 estabelecimentos, considerando-se estes os dependentes dos serviços técnicos e os centros psicopedagógicos, de acordo com as respectivas áreas de especialização.
 
 14 - No respeitante às regras relativas a listas provisórias, listas definitivas, reclamações, alterações de preferência e desistências, são de aplicar as normas constantes na legislação em vigor relativa ao processo de recrutamento a cada nível de educação/ensino, entendendo-se que as referências feitas nos diplomas de âmbito regional à Direcção Regional de Administração e Pessoal se reportam à DREER.
 
@@ -572,59 +589,45 @@ c) O candidato mais idoso.
 
 18 - O recrutamento para a categoria de técnico de diagnóstico e terapêutica, integrada no grupo de pessoal técnico, conforme o mapa anexo ao presente diploma, obedece às seguintes regras:
 
-a) O técnico director de diagnóstico e terapêutica, por área profissional, é nomeado em comissão de serviço de entre os técnicos especialistas de 1.ª classe;
+a) O técnico director de diagnóstico e terapêutica é nomeado por despacho do Secretário Regional da tutela, sob proposta do órgão máximo do serviço, conforme as regras estabelecidas com o disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 564/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1999-661768), de 21 de Dezembro;
 
-b) A nomeação é feita sob proposta do órgão máximo do serviço e decisão do Secretário Regional de Educação;
+b) A comissão de serviço tem a duração de três anos, podendo ser renovada por iguais períodos, em termos idênticos ao previsto para os cargos dirigentes;
 
-c) A comissão de serviço tem a duração de três anos, podendo ser renovada por iguais períodos, em termos idênticos ao previsto para os cargos dirigentes;
+c) A nomeação referida deverá ser precedida de publicitação de vagas no Jornal Oficial, devendo os interessados enviar ao serviço o seu currículo profissional.
 
-d) A nomeação referida deverá ser precedida de publicitação de vagas no Jornal Oficial, devendo os interessados enviar ao serviço o seu currículo profissional.
+19 - O recrutamento para a categoria de técnico especialista de 1.ª classe faz-se, mediante concurso de avaliação curricular e provas públicas de discussão de uma monografia elaborada para o efeito, de entre técnicos especialistas com, pelo menos, três anos de exercício de funções na categoria e avaliação de desempenho de Satisfaz.
 
-19 - O acesso à categoria de técnico especialista de 1.ª classe é feito de entre técnicos especialistas com pelo menos três anos de bom e efectivo serviço, mediante concurso de provas públicas, que incluirá avaliação curricular complementada pela apresentação e discussão de uma monografia elaborada para o efeito.
+20 - O recrutamento para a categoria de técnico especialista faz-se, mediante concurso de provas públicas de discussão curricular, que consistirá na apreciação e discussão do currículo profissional, de entre técnicos principais com, pelo menos, três anos de exercício de funções na categoria e avaliação de desempenho de Satisfaz.
 
-20 - O acesso à categoria de técnico especialista é feito de entre técnicos principais com pelo menos três anos de bom e efectivo serviço, mediante concurso de provas públicas, nos termos idênticos ao número anterior.
+21 - O recrutamento para a categoria de técnico principal faz-se, mediante concurso de avaliação curricular, de entre os técnicos de 1.ª classe com, pelo menos, três anos de exercício de funções na categoria e avaliação de desempenho de Satisfaz.
 
-21 - O acesso à categoria de técnico principal é efectuado de entre técnicos de 1.ª classe com pelo menos três anos de bom e efectivo serviço, mediante concurso de provas de conhecimento e avaliação curricular.
+22 - O recrutamento para a categoria de técnico de 1.ª classe faz-se, mediante concurso de avaliação curricular, de entre técnicos de 2.ª classe com, pelo menos, três anos de serviço na categoria e avaliação de desempenho de Satisfaz.
 
-O programa das provas encontra-se regulamentado por despacho conjunto publicado no Jornal Oficial, 2.ª série, de 30 de Abril de 1987.
+23 - O ingresso na carreira de técnico de diagnóstico e terapêutica faz-se pela categoria de técnico de 2.ª classe, mediante concurso de avaliação curricular complementada com entrevista profissional de selecção, de entre possuidores das seguintes habilitações:
 
-22 - O acesso à categoria de técnico de 1.ª classe efectua-se mediante concurso de avaliação curricular de entre os técnicos de 2.ª classe com pelo menos três anos de bom e efectivo serviço na categoria.
+a) Curso superior ministrado nas escolas superiores de tecnologia da saúde, ou na Escola Superior de Alcoitão, ou seu equivalente legal;
 
-23 - O ingresso na categoria de técnico de diagnóstico e terapêutica faz-se pela categoria de 2.ª classe, mediante concurso de avaliação curricular, a que poderão concorrer os indivíduos diplomados com o curso de formação profissional ministrado nas escolas referidas no [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro, ou com habilitações profissionais equivalentes, reconhecidas nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 348-B/85, de 30 de Setembro.
+b) Curso ministrado no âmbito das instituições do ensino superior de medicina dentária, no que se refere às profissões de higienista oral e técnico de prótese dentária;
 
-24 - O recrutamento para a carreira de monitor de formação profissional, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:
+c) Curso superior ministrado noutro estabelecimento de ensino superior no âmbito das profissões constantes do artigo 5.º deste diploma, um e outro legalmente reconhecidos.
 
-a) Monitor de formação profissional especialista, de entre monitores de formação profissional principais com pelo menos três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;
+24 - (Revogado.)
 
-b) Monitor de formação principal e de 1.ª classe, de entre, respectivamente, monitores de formação profissional de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria, classificados de Bom;
+25 - (Revogado.)
 
-c) Monitor de formação profissional de 2.ª classe, de entre indivíduos diplomados com o curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.
+26 - (Revogado.)
 
-25 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento far-se-á de entre indivíduos com experiência profissional comprovada e habilitados com o curso complementar do ensino secundário ou equivalente, acrescido de um curso de formação adequado.
+27 - (Revogado.)
 
-26 - O recrutamento para as categorias da carreira de técnico de emprego, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:
+28 - (Revogado.)
 
-a) Técnico de emprego especialista, de entre técnicos de emprego principais com pelo menos três anos na categoria, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;
+29 - (Revogado.)
 
-b) Técnico de emprego principal, técnico de emprego especial e técnico de emprego de 1.ª classe, de entre, respectivamente, técnicos de emprego especiais ou técnicos de emprego de 1.ª classe com um mínimo de três anos na respectiva categoria, classificados de Bom;
-
-c) Técnico de emprego de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado, com duração não inferior a três anos, para além de nove anos de escolaridade, ou de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente e, em qualquer dos casos, com curso de formação adequado.
-
-27 - O ingresso nas carreiras de monitor de formação profissional e de técnico de emprego é precedido de um estágio, nos termos estabelecidos no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, conjugado com a alínea c) do n.º 2 do artigo 15.º e com o artigo 24.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, com as alterações introduzidas pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, diplomas estes adaptados à Região Autónoma da Madeira, respectivamente, pelo [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e pelo [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), de 2 de Março.
-
-28 - O estágio para ingresso nas carreiras de monitor de formação profissional e de técnico de emprego integra um curso de formação profissional, conforme o previsto no n.º 25 e na alínea c) do n.º 26 do artigo 28.º do presente diploma, cujos programas serão aprovados por despacho conjunto do secretário regional que detiver a tutela sobre a Administração Pública e do Secretário Regional de Educação.
-
-29 - Os monitores de formação profissional estagiários e os técnicos de emprego estagiários são remunerados pelo índice 175, de acordo com o sistema retributivo constante do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro sem prejuízo do direito de opção pelo vencimento do lugar de origem, no caso de se tratar de pessoal já vinculado à função pública.
-
-30 - O recrutamento para a carreira de técnico profissional de educação especial integrada no grupo de pessoal técnico-profissional, nível 3, obedece às seguintes regras:
-
-a) Técnico profissional de educação especial especialista, principal e de 1.ª classe, de entre, respectivamente, as categorias de principal, 1.ª classe e 2.ª classe com um mínimo de três anos na respectiva categoria, classificados de Bom;
-
-b) Técnico profissional de educação especial de 2.ª classe, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente com curso de formação profissional adequado não inferior a 18 meses ou habilitados com o 11.º ano de escolaridade.
+30 - O recrutamento para a carreira de técnico profissional de educação especial integrada no grupo de pessoal técnico-profissional obedece às regras do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
 31 - O ingresso na carreira de técnico profissional de educação especial é precedido de um estágio, nos termos da alínea c) do n.º 2 do artigo 15.º e do artigo 24.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), de 2 de Março.
 
-32 - O estágio na carreira de técnico profissional de educação especial integra um curso de formação, conforme previsto na alínea b) do n.º 30 do presente artigo, e que foi objecto de regulamento aprovado por despacho do Secretário Regional de Educação, Juventude e Emprego, publicado no Jornal Oficial, 2.ª série, n.º 118, suplemento, de 11 de Agosto de 1992, nos termos da alínea b) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+32 - O estágio na carreira de técnico profissional de educação especial integra um curso de formação, conforme previsto na alínea b) do n.º 30 do presente artigo, e que será objecto de regulamento a aprovar por despacho do Secretário Regional de Educação.
 
 33 - Os técnicos profissionais de educação especial estagiários são remunerados pelo índice 175.
 
@@ -640,6 +643,8 @@ b) Os lugares de cozinheiro são providos de entre ajudantes de cozinha com pelo
 
 c) Os lugares de ajudante de cozinha são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2000-320088), publicado em 2000-07-15.
+
 ###### Artigo 30.º — Transição de pessoal
 
 1 - A integração de pessoal do quadro da Direcção Regional de Educação Especial no quadro da Direcção Regional de Educação Especial e Reabilitação será feita através de lista nominativa, nos termos da lei geral.
@@ -651,6 +656,42 @@ c) Os lugares de ajudante de cozinha são providos de entre indivíduos habilita
 4 - Os cozinheiros providos no quadro que venham a ser providos na categoria de cozinheiro por força dos concursos pendentes transitam para idêntica categoria com índice remuneratório igual ou imediatamente superior, caso não haja coincidência com a nova estrutura remuneratória.
 
 5 - O tempo de serviço prestado na anterior categoria da carreira de cozinheiro é considerado, para todos os efeitos, como prestado na nova categoria resultante da reestruturação da carreira operada pelo presente diploma.
+
+6 - Os actuais costureiros transitam para a categoria de costureiro do grupo de pessoal operário qualificado, independentemente de quaisquer formalidades legais, excepto a publicação da lista nominativa no Jornal Oficial da Região Autónoma da Madeira.
+
+7 - Os costureiros providos no quadro transitam para idêntica categoria, com o índice remuneratório igual ou imediatamente superior, caso não haja coincidência com a nova estrutura remuneratória.
+
+8 - O tempo de serviço prestado na anterior categoria da carreira de costureiro é considerado para todos os efeitos como prestado na nova categoria resultante do novo enquadramento dos níveis de qualificação das carreiras operárias, constante do n.º 1 do artigo 26.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, e do n.º 3.º da [Portaria n.º 807/99](https://diariodarepublica.pt/dr/detalhe/portaria/807-1999-558199), de 21 de Setembro.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
+
+###### Artigo 31.º — Regras de transição a chefe de departamento
+
+1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.
+
+3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na nova categoria.
+
+4 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+5 - Os lugares de chefe de departamento são a extinguir quando vagarem.
+
+6 - O disposto no presente artigo não prejudica a faculdade de o chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção introduzida pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 10/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-515267), publicado em 2000-03-21.
+
+Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 15 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DA DIRECÇÃO REGIONAL DE EDUCAÇÃO ESPECIAL E REABILITAÇÃO
 
 ## ANEXO — Direcção Regional de Educação Especial e Reabilitação
 

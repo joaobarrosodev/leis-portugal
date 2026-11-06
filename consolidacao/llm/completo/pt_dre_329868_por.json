@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:329868:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 5.º do DL 106/87 revoga os artigos 7.º e 8.º do DL 274/78: ambos ficam '(Revogado.)'. As restantes revogações do mesmo artigo (DL 229/79, DL 149-A/83) são de outros diplomas: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

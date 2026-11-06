@@ -80,9 +80,11 @@ Da dedução a que se refere o artigo 2.º só poderão beneficiar os sujeitos p
 
 a) O seu lucro tributável não seja determinado por métodos indiciários ou avaliação indirecta;
 
-b) Mantenham na empresa durante um período mínimo de três anos os bens objecto do investimento;
+b) Mantenham na empresa durante um período mínimo de cinco anos os bens objecto do investimento;
 
 c) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou tenham o pagamento dos débitos devidamente assegurados.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10.
 
 ###### Artigo 5.º — Justificação das deduções
 

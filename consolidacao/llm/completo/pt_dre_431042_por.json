@@ -1,0 +1,57 @@
+{
+  "id": "pt:dre:431042:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 303/82), art. 11.º, n.º 2: revogados os artigos 6.º a 12.º do DL 480/76; aplicado um (Revogado.) por artigo.",
+    "Alterador 1, art. 11.º, n.º 1 (revoga a alínea d) do art. 7.º do Código do Imposto de Transacções), restante art. 11.º, n.º 2 (outros diplomas) e art. 12.º (DL 586/80): dirigidos a outros diplomas; ignorados.",
+    "Alterador 1, arts. 1.º a 10.º: regime autónomo, sem instruções textuais para o original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

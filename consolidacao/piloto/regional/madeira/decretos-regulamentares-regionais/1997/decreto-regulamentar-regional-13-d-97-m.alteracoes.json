@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:230684:por",
     "alterador": "pt:dre:514776:por"
+  },
+  {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º — Atribuições\n\n1 - A RA é o órgão de apoio administrativo e logístico da DRIGE, com atribuições em matérias de expediente, registo, arquivo, pessoal, património e assuntos de natureza genérica.\n\n2 - A RA compreende duas secções:\n\na) Secção de Arquivo e Documentação (SAD);\n\nb) Secção Administrativa (SA).",
+    "depois": "###### Artigo 12.º — Atribuições\n\n1 - O DA é o órgão de apoio administrativo e logístico da DRIGE, com atribuições em matérias de expediente, registo, arquivo, pessoal, património e assuntos de natureza genérica.\n\n2 - O DA compreende duas secções:\n\na) Secção de Arquivo e Documentação (SAD);\n\nb) Secção Administrativa (SA).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2000-514776), publicado em 2000-03-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:230684:por",
+    "alterador": "pt:dre:514776:por"
   }
 ]

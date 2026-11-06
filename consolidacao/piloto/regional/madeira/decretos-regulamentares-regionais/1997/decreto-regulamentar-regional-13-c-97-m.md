@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:515266:por
     title: Decreto Regulamentar Regional n.º 11/2000/M
     publication_date: '2000-03-21'
-  - id: pt:dre:515266:por
-    title: Decreto Regulamentar Regional n.º 11/2000/M
-    publication_date: '2000-03-21'
 ---
 
 # Decreto Regulamentar Regional n.º 13-C/97/M
@@ -36,18 +33,6 @@ O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alíne
 ###### Artigo 2.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
-
-Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
-
-Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
-
-Assinado em 15 de Julho de 1997.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
-
-ORGÂNICA DO INSTITUTO DO DESPORTO DA REGIÃO AUTÓNOMA DA MADEIRA
 
 ### CAPÍTULO I — Natureza, âmbito e atribuições
 
@@ -578,3 +563,15 @@ g) Pessoal operário.
 Mapa anexo a que se refere o n.º 2 do artigo 22.º do presente diploma
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/161b02/00240033.pdf)
+
+Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+Assinado em 15 de Julho de 1997.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+ORGÂNICA DO INSTITUTO DO DESPORTO DA REGIÃO AUTÓNOMA DA MADEIRA

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:230684:por",
+  "artigos": [
+    {
+      "chave": "4.º",
+      "epigrafe": "Estrutura",
+      "texto": "1 - Os órgãos de concepção e apoio da DRIGE são os seguintes:\n\na) Secretariado;\n\nb) Gabinete Coordenador do Desporto Escolar (GCDE);\n\nc) Gabinete Coordenador de Educação Artística (GCEA);\n\nd) Gabinete Coordenador do Ensino Superior (GCES);\n\ne) Centro de Recursos Educativos (CRE);\n\nf) Gabinete de Apoio Jurídico (GAJ);\n\ng) Departamento Administrativo (DA).\n\n2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Atribuições",
+      "texto": "1 - O DA é o órgão de apoio administrativo e logístico da DRIGE, com atribuições em matérias de expediente, registo, arquivo, pessoal, património e assuntos de natureza genérica.\n\n2 - O DA compreende duas secções:\n\na) Secção de Arquivo e Documentação (SAD);\n\nb) Secção Administrativa (SA).",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Artigo 4.º do DRR 7/2000/M: o novo mapa de pessoal (quadros) só vem em imagem ('ver quadro no documento original'); não é texto de artigo e não foi aplicado.",
+  "instrucoes": [
+    "Art. 2.º (DRR 7/2000/M): nova redação do art. 4.º — só a alínea g) do n.º 1 muda para 'Departamento Administrativo (DA).'; restantes '...' mantidas do texto atual.",
+    "Art. 2.º (DRR 7/2000/M): nova redação do art. 12.º — n.os 1 e 2 (RA passa a DA); alíneas a) e b) do n.º 2 mantidas; epígrafe 'Atribuições' igual. O título de subsecção 'SUBSECÇÃO VII Departamento Administrativo' não é corpo de artigo.",
+    "Art. 3.º: aditamento do art. 23.º-A — já aplicado no texto atual e idêntico; sem alteração.",
+    "Art. 4.º: substituição do mapa anexo de pessoal — só em imagem, não aplicada (ver nao_aplicavel).",
+    "Arts. 1.º e 5.º: objeto e entrada em vigor, sem instrução textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

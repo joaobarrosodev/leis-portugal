@@ -10,12 +10,6 @@ consolidacao:
   - id: pt:dre:1139971701:por
     title: Portaria n.º 276-B/2026/1
     publication_date: '2026-06-26'
-  - id: pt:dre:1139971701:por
-    title: Portaria n.º 276-B/2026/1
-    publication_date: '2026-06-26'
-  - id: pt:dre:1147477300:por
-    title: Declaração de Retificação n.º 28/2026/1
-    publication_date: '2026-07-15'
 ---
 
 # Portaria n.º 265-A/2026/1
@@ -388,7 +382,7 @@ b) 3 000 000 € por cada episódio produzido de séries audiovisuais, num máxi
 
 9 - A partir do momento, em cada ano civil, em que o limite referido no número anterior é atingido, não são apoiados, nesse ano civil, mais projetos de obras não independentes de produção portuguesa ou em coprodução.
 
-> Alterado pelo/a [Portaria n.º 276-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/276-b-2026-1139971701) e [Declaração de Retificação n.º 28/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2026-1147477300), publicado em 2026-07-15.
+> Alterado pelo/a [Portaria n.º 276-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/276-b-2026-1139971701), publicado em 2026-06-26.
 
 ###### Artigo 10.º — Despesas elegíveis
 
@@ -508,7 +502,9 @@ ii) Notas de intenção ou explicações do realizador e/ou do produtor, técnic
 
 5 - No caso de produções estrangeiras, os requerentes estão dispensados da apresentação dos documentos a que se referem as subalíneas ii) e iii) da alínea a) do número anterior, devendo em alternativa comprovar a cadeia de propriedade até aos direitos de autor.
 
-6 - Os requerentes podem apresentar apenas parte do guião a que se refere a subalínea i) da alínea b) do n.º 4, desde que seja junta declaração, sob compromisso de honra, de que o projeto cumpre o disposto na alínea e) do n.º 1 do artigo 5.º do presente Regulamento e na alínea e) do n.º 6 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro.
+6 - Os requerentes podem apresentar apenas parte do guião a que se refere a subalínea i) da alínea b) do n.º 4, desde que seja junta declaração, sob compromisso de honra, de que o projeto cumpre o disposto no n.º 4 do artigo 6.º do presente Regulamento e na alínea e) do n.º 6 do artigo 17.º-A da Lei n.º 55/2012, de 6 de setembro.
+
+> Alterado pelo/a [Portaria n.º 276-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/276-b-2026-1139971701), publicado em 2026-06-26.
 
 ###### Artigo 14.º — Decisão sobre o requerimento de admissão ao benefício do Incentivo
 
@@ -558,15 +554,17 @@ d) Variações orçamentais superiores a 15 % do orçamento da obra e quaisquer 
 
 5 - Da decisão de revisão apenas pode resultar um aumento do valor provisório de incentivo face à decisão inicial, nos termos do artigo anterior, se respeitados os limites previstos no artigo 9.º do presente Regulamento e no n.º 11 do artigo 17.º-A da [Lei n.º 55/2012](https://diariodarepublica.pt/dr/detalhe/lei/55-2012-174871), de 6 de setembro, para o ano civil referente à atribuição do Incentivo.
 
-6 - Em caso de revisão da decisão de admissão, é celebrada adenda ao contrato previsto no n.º 7 do artigo anterior, com indicação expressa do novo montante atribuído.
+6 - Em caso de revisão da decisão de admissão, é celebrada adenda ao contrato previsto no n.º 13 do artigo anterior, com indicação expressa do novo montante atribuído.
 
-7 - Confirmando-se, em procedimento de revisão da decisão de admissão ao benefício do Incentivo, que o projeto candidato não reúne os requisitos necessários para receber o Incentivo, o contrato previsto no n.º 3 do artigo 12.º é resolvido com justa causa, aplicando-se o disposto no artigo 22.º do presente Regulamento.
+7 - Confirmando-se, em procedimento de revisão da decisão de admissão ao benefício do Incentivo, que o projeto candidato não reúne os requisitos necessários para receber o Incentivo, o contrato previsto no n.º 13 do artigo anterior é resolvido com justa causa, aplicando-se o disposto no artigo 22.º do presente Regulamento.
 
 8 - No que respeita à pontuação do projeto, considera-se que este não reúne os requisitos necessários para beneficiar do Incentivo se este, após revisão nos termos do presente artigo, ou tal como apurada no momento do apuramento definitivo, nos termos do artigo seguinte:
 
 a) Totalizar uma pontuação inferior à do último projeto apoiado na fase de candidaturas em que foi admitido ao benefício do Incentivo;
 
 b) Não corresponder à pontuação que permitiu a sua admissão ao benefício do Incentivo através dos critérios de desempate previstos no artigo 8.º
+
+> Alterado pelo/a [Portaria n.º 276-B/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/276-b-2026-1139971701), publicado em 2026-06-26.
 
 ###### Artigo 16.º — Apuramento definitivo do Incentivo no âmbito do Incentivo Financeiro à Grande Produção Cinematográfica e Audiovisual
 

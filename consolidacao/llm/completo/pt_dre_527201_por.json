@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:527201:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::17.º",
+      "epigrafe": "Decisão das candidaturas",
+      "texto": "1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril, e ocorre uma vez por mês.\n\n2 - Em cada mês são decididas as candidaturas apresentadas no 2.º mês antecedente.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento.\n\n4 - As demais candidaturas são hierarquizadas de acordo com os seguintes critérios:\n\na) Instalação de jovens agricultores associada a, por ordem de prioridade:\n\ni) Investimentos que visem maioritariamente actividades ou área prioritárias;\n\nii) Outros investimentos;\n\niii) Cessação de actividade;\n\nb) Investimentos que visem maioritariamente actividades ou áreas prioritárias e, entre estes, os seguintes:\n\ni) Projectos estruturantes;\n\nii) Outros projectos - de acordo com o valor obtido nos termos da alínea b) do anexo IV;\n\nc) Investimentos que visem outras actividades ou áreas - de acordo com a pontuação obtida nos termos da alínea b) do anexo IV.\n\n5 - Para efeitos do número anterior, consideram-se actividades ou áreas prioritárias as seguintes:\n\na) Olivicultura;\n\nb) Fruticultura, horticultura e floricultura;\n\nc) Pecuária em regime extensivo, nos termos do anexo VI;\n\nd) Bovinicultura de leite (apenas quando associada a aspectos de melhoria da qualidade e que não impliquem aumento de capacidade);\n\ne) Ambiente.\n\n6 - As candidaturas são aprovadas em função da dotação orçamental definida para cada mês.\n\n7 - São recusadas as candidaturas que não obtenham cobertura orçamental em dois meses consecutivos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Portaria 1245/2004, n.º 2.º: aditamento do n.º 17 à parte A) do anexo I do Regulamento — o anexo I não consta do texto atual, pelo que não se pode aplicar. Portaria 1245/2004, n.º 3.º: nova redação dos anexos II e III — só vem em imagem/tabela no documento original. Portaria 1325/2005: suspensão das candidaturas, não é alteração textual.",
+  "instrucoes": [
+    "Portaria 1245/2004, n.º 1.º: nova redação do n.º 1 do artigo 8.º (n.os 2 a 5 '...'); o texto atual (já alterado por um programa) já coincide com a nova redação, sem mudança.",
+    "Portaria 1245/2004, n.º 2.º: aditado n.º 17 à parte A) do anexo I — anexo I ausente do texto atual; não aplicado (nao_aplicavel).",
+    "Portaria 1245/2004, n.º 3.º: anexos II e III substituídos — só em imagem; não aplicado (nao_aplicavel).",
+    "Portaria 887/2005, n.º 1.º: nova redação dos n.os 4 e 5 do artigo 17.º; n.º 4 copiado do alterador, n.º 5 com o proémio novo e alíneas a) a e) ('...') mantidas do texto atual; n.os 1 a 3, 6 e 7 mantidos.",
+    "Portaria 887/2005, n.º 2.º: norma de entrada em vigor da própria portaria; não altera o original.",
+    "Portaria 1325/2005: suspensão das candidaturas à medida n.º 1; não textual (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

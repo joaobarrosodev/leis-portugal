@@ -10,15 +10,9 @@ consolidacao:
   - id: pt:dre:343948:por
     title: Portaria n.º 814/2010
     publication_date: '2010-08-27'
-  - id: pt:dre:343948:por
-    title: Portaria n.º 814/2010
-    publication_date: '2010-08-27'
   - id: pt:dre:670056:por
     title: Portaria n.º 228/2011
     publication_date: '2011-06-09'
-  - id: pt:dre:260416:por
-    title: Portaria n.º 152/2013
-    publication_date: '2013-04-17'
   - id: pt:dre:498497:por
     title: Portaria n.º 253/2013
     publication_date: '2013-08-07'
@@ -138,7 +132,7 @@ e) Não estarem abrangidos por quaisquer disposições de exclusão resultantes 
 
 f) (Revogada.)
 
-> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 7.º — Tipo de operações apoiadas e prioridades
 
@@ -158,11 +152,13 @@ e) As operações de modernização de aproveitamentos hidroagrícolas ou de blo
 
 3 - Não são apoiadas operações relacionadas com a implementação de aspectos normativos relacionados com a segurança de barragens se a conclusão destas tiver sido posterior à entrada em vigor do Regulamento de Segurança de Barragens.
 
-4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.
+4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
 
 5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
 
 > Alterado pelo/a Artigo 16.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 8.º — Despesas elegíveis
 
@@ -220,7 +216,7 @@ p) Implementação de cortinas de abrigo e medidas de enquadramento paisagístic
 
 q) Revisões de preços decorrentes da legislação aplicável.
 
-> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ###### Artigo 9.º — Obrigações dos beneficiários
 
@@ -384,11 +380,13 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - São realizadas visitas aos locais da operação durante o seu período de execução.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
 
 > Alterado pelo/a Artigo 16.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 21.º — Pagamento
 
@@ -398,23 +396,25 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 ###### Artigo 22.º — Controlo
 
-1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
-
-3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
 > Alterado pelo/a Artigo 16.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+
 ###### Artigo 23.º — Reduções e exclusões
 
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 24.º — Disposição transitória
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ## ANEXO I — Metodologia de cálculo da valia global da operação
 

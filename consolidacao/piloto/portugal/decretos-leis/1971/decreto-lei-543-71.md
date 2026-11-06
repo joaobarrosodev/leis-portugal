@@ -150,39 +150,27 @@ Construção e importação de navios
 
 ###### Artigo 12.º
 
-1. A construção no estrangeiro de navios de comércio destinados a quem exerça a indústria de transportes marítimos com domicílio profissional ou sede no continente ou ilhas adjacentes deve obedecer às normas aplicáveis à construção em Portugal de navios da mesma classe e tipo.
+(Revogado.)
 
-2. Salvo autorização especial, sob informação favorável dos serviços e autoridades competentes, só poderá ser autorizada a importação de navios de comércio cuja construção no estrangeiro tenha obedecido ao princípio enunciado no número anterior.
-
-3. As exigências impostas por convenções internacionais de segurança ou estabelecidas pelo Estado-Maior da Armada só poderão ser dispensadas pelo Ministro da Marinha nos casos excepcionais previstos na lei.
-
-4. O registo definitivo de navios de comércio construídos no estrangeiro não poderá ser feito sem os serviços e autoridades competentes terem verificado que foram satisfeitos todos os condicionalismos legalmente exigidos em função da actividade a que o navio se destine, incluindo os de ordem administrativa, fiscal ou militar e os relativos à segurança de navegação.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 13.º
 
-1. Os navios de comércio construídos em estaleiros nacionais não poderão ser objecto de registo na capitania nem de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ter sido autorizada nos termos do n.º 1 do artigo 11.º
+(Revogado.)
 
-2. Os navios de comércio construídos no estrangeiro não poderão ser objecto de registo no consulado e na capitania, de despacho aduaneiro e de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ou importação ter sido autorizada nos termos do n.º 1 do artigo 11.º
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 14.º
 
-A autorização de importação de navio de comércio caducará se o respectivo processo de nacionalização não for iniciado pelos interessados dentro dos seis meses seguintes à data em que os mesmos tiverem sido notificados do despacho de autorização.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 15.º
 
-1. A autorização para a construção de navios de comércio caducará:
+(Revogado.)
 
-a) Se não for apresentado para registo na D. G. S. F. M., acompanhado de uma cópia para arquivo e dentro de seis meses a contar do despacho da autorização, o contrato de construção, no qual se fixem a data da entrega do navio ao armador e cláusulas penais adequadas para a falta de cumprimento dessa entrega;
-
-b) Se o assentamento da quilha ou fase idêntica da construção não se verificar dentro de doze meses, a contar da data do registo do contrato, nos termos da alínea anterior;
-
-c) Se os contraentes sem prévia autorização da D. G. S. F. M. acordarem no adiamento da data da entrega do navio;
-
-d) Se decorrerem mais de seis meses sobre a data fixada para a entrega do navio, sem que esta se tenha verificado e sem que a D. G. S. F. M. haja autorizado, dentro daquele prazo, nova data de entrega.
-
-2. Deverão ser comunicadas à D. G. S. F. M. as datas em que os navios tiverem sido entregues e, bem assim, para efeito do disposto na alínea b) do número anterior, as datas de assentamento da quilha ou fase idêntica da construção.
-
-3. O disposto nos números antecedentes não é aplicável aos navios de comércio nos quais o produto das três dimensões de sinal não exceda cem.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 IV
 
@@ -190,15 +178,21 @@ Disposições gerais e transitórias
 
 ###### Artigo 16.º
 
-Os prazos fixados nos artigos anteriores só poderão ser prorrogados por despacho do Ministro da Marinha, mediante requerimento a que é aplicável o n.º 4 do artigo 2.º e que deve ser instruído com os documentos justificativos dos fundamentos do pedido.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 17.º
 
-As capitanias dos portos do continente e ilhas adjacentes deverão comunicar mensalmente à D. G. S. F. M. os registos de todos os navios de comércio que nelas tenham sido efectuados no mês anterior.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 18.º
 
-As inscrições, suas alterações e cancelamentos, bem como a nomeação e cessação de mandato de armadores gerentes serão comunicados pela D. G. S. F. M. à Junta Nacional da Marinha Mercante e às capitanias dos portos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 ###### Artigo 19.º
 

@@ -93,7 +93,7 @@ No património da Academia Nacional de Belas-Artes são incorporados, a título 
 
 3 - A Secretaria é chefiada por um chefe de secção.
 
-> Aditado pelo/a [Decreto-Lei n.º 418/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1978-325152) e [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.
+> Aditado pelo/a [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.
 
 ###### Artigo 4.º-B
 
@@ -103,7 +103,7 @@ No património da Academia Nacional de Belas-Artes são incorporados, a título 
 
 3 - A Biblioteca e o Arquivo funcionam sob orientação de um funcionário com competência técnica adequada.
 
-> Aditado pelo/a [Decreto-Lei n.º 418/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1978-325152) e [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.
+> Aditado pelo/a [Decreto-Lei n.º 371/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1998-217933), publicado em 1998-11-23.
 
 ###### Artigo 5.º
 
@@ -123,21 +123,21 @@ A Academia Nacional de Belas-Artes dispõe do quadro de pessoal anexo ao present
 
 Os lugares do quadro a que se refere o artigo anterior serão providos mediante despacho do Secretário de Estado da Cultura, sob proposta da Academia, de acordo com as seguintes regras:
 
-a) Terceiro-bibliotecário - de entre indivíduos habilitados com curso superior adequado e a especialização a que se refere o [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965;
+a) Primeiro-bibliotecário, segundo-bibliotecário ou terceiro-bibliotecário - nos termos do artigo 16.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965;
 
-b) Primeiro- bibliotecário e segundo-bibliotecário - de entre, respectivamente, segundo-bibliotecário e terceiro-bibliotecário com três anos de bom e efectivo serviço;
+b) Terceiro-oficial - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, ou escriturários-dactilógrafos com mais de três anos de bom e efectivo serviço;
 
-c) Terceiro-oficial - mediante concurso de provas práticas e de entre os indivíduos habilitados com o curso geral dos liceus ou equiparado, ou escriturários-dactilógrafos com mais de três anos de bom e efectivo serviço;
+c) Segundo-oficial - mediante concurso de provas práticas e de entre terceiros-oficiais com três anos de bom e efectivo serviço;
 
-d) Segundo-oficial - mediante concurso de provas práticas e de entre terceiros-oficiais com três anos de bom e efectivo serviço;
+d) Primeiro-oficial - mediante concurso de provas práticas e de entre segundos-oficiais habilitados com o curso geral dos liceus ou equiparado e com mais de três anos de bom e efectivo serviço;
 
-e) Primeiro-oficial - mediante concurso de provas práticas e de entre segundos-oficiais habilitados com o curso geral dos liceus ou equiparado e com mais de três anos de bom e efectivo serviço;
+e) Catalogador de 2.ª classe - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado;
 
-f) Catalogador de 2.ª classe - mediante concurso de provas práticas e de entre indivíduos habilitados com o curso geral dos liceus ou equiparado;
+f) Catalogador de 1.ª classe - de entre catalogadores de 2.ª classe com três anos de bom e efectivo serviço;
 
-g) Catalogador de 1.ª classe - de entre catalogadores de 2.ª classe com três anos de bom e efectivo serviço;
+g) Escriturário-dactilógrafo e contínuo - nos termos da lei geral.
 
-h) Escriturário-dactilógrafo e contínuo - nos termos da lei geral.
+> Alterado pelo/a [Decreto-Lei n.º 418/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1978-325152), publicado em 1978-12-21.
 
 ###### Artigo 9.º
 

@@ -128,6 +128,16 @@ b) Por um membro do CA que, para tanto, haja recebido delegação desse conselho
 
 c) Pelas pessoas a que se referem a alínea m) do n.º 2 e o n.º 3 deste artigo, no âmbito dos poderes que lhes tiverem sido conferidos.
 
+###### Artigo 6.º-A — Comissão executiva
+
+1 - O conselho de administração poderá delegar, numa comissão executiva, formada entre os seus membros, os poderes constantes das alíneas f), g), h), i), j), l) e m) do n.º 2 do artigo anterior, bem como outros que entenda convenientes, para assegurar a gestão corrente da empresa, sem prejuízo do direito de avocação de competências delegadas.
+
+2 - A comissão executiva referida no número anterior laborará em regime de tempo inteiro, será presidida pelo presidente do conselho de administração e constituída por um máximo de três membros, competindo a sua nomeação e exoneração ao Governo Regional, sob proposta do secretário regional da tutela.
+
+3 - Só os membros do conselho de administração que façam parte da comissão executiva se consideram em regime de tempo inteiro.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 16/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1993-533269), publicado em 1993-12-14.
+
 ###### Artigo 7.º — Competência do presidente do CA
 
 1 - Compete, especialmente, ao presidente do CA ou ao seu substituto legal:
@@ -160,9 +170,13 @@ g) Exercer os poderes que o CA nele delegar.
 
 Compete ao vice-presidente substituir o presidente do CA nas suas faltas ou impedimentos.
 
-###### Artigo 9.º — Reuniões do CA
+###### Artigo 9.º — Reuniões
 
-O CA reunirá, ordinariamente, pelo menos duas vezes por mês e, extraordinariamente, sempre que o presidente o convocar.
+1 - O conselho de administração reúne, ordinariamente, uma vez por quinzena e, extraordinariamente, sempre que for convocado pelo presidente, por iniciativa própria ou a solicitação dos seus membros.
+
+2 - A comissão executiva, quando exista, reunirá, ordinariamente, uma vez por semana e, extraordinariamente, nos termos prescritos para o conselho de administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1993-533269), publicado em 1993-12-14.
 
 #### SECÇÃO III — Comissão de fiscalização
 

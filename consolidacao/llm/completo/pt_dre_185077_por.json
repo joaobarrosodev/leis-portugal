@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:185077:por",
+  "artigos": [],
+  "removidos": [],
+  "nao_aplicavel": "O Alterador 1 (Decreto n.º 45541) vem sem nenhum texto no pedido; não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 45541): texto vazio no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

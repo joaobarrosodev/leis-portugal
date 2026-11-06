@@ -10,12 +10,6 @@ consolidacao:
   - id: pt:dre:269257:por
     title: Decreto-Lei n.º 115/2004
     publication_date: '2004-05-15'
-  - id: pt:dre:545642:por
-    title: Decreto-Lei n.º 207/2006
-    publication_date: '2006-10-27'
-  - id: pt:dre:197511:por
-    title: Lei n.º 53-A/2006
-    publication_date: '2006-12-29'
   - id: pt:dre:529450:por
     title: Lei n.º 67-A/2007
     publication_date: '2007-12-31'
@@ -293,7 +287,7 @@ b) Em 31 de Dezembro de 2007, quando não se tenha verificado a circunstância p
 
 3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária.
 
-> Alterado pelo/a [Decreto-Lei n.º 207/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2006-545642) e [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511) e [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), publicado em 2007-12-31.
+> Alterado pelo/a [Lei n.º 67-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), publicado em 2007-12-31.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta - Isaltino Afonso de Morais.
 

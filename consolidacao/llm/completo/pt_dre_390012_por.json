@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:390012:por",
+  "artigos": [
+    {
+      "chave": "24.º",
+      "epigrafe": "Extinção",
+      "texto": "1 - O FRRC extingue-se:\n\na) Pela exaustão da totalidade da dotação inicial e única resultante da transferência dos saldos do ex-Fundo Extraordinário da Ajuda à Reconstrução do Chiado;\n\nb) Em 31 de Dezembro de 2007, quando não se tenha verificado a circunstância prevista na alínea anterior.\n\n2 - Extinguindo-se o FRRC na data fixada na alínea b) do número anterior e existindo saldos financeiros, serão os correspondentes montantes colocados à ordem da Direcção-Geral do Tesouro.\n\n3 - O processo de liquidação do FRRC concluir-se-á no prazo máximo de dois meses após a ocorrência de qualquer dos factos previstos no n.º 1, assumindo o conselho directivo as funções de comissão liquidatária.\n\nVisto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta - Isaltino Afonso de Morais.\n\nPromulgado em 9 de Dezembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 11 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/302a00/81888193.pdf)",
+      "alterador": 5
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 115/2004: nova redação dos arts. 4.º, 5.º, 8.º, 10.º, 11.º e 19.º — já refletida no texto atual (programa), sem mudanças.",
+    "DL 36/2005 e DL 207/2006: só referências ao FRRC/art. 20.º e extinção 'nos termos previstos', sem alteração textual ao original — nada a aplicar.",
+    "Lei 53-A/2006, art. 157.º: art. 24.º, n.º 1, al. b) passa a '31 de Março de 2007' — substituída depois pela Lei 67-A/2007.",
+    "Lei 67-A/2007, art. 131.º, n.º 1: art. 24.º, n.º 1, al. b) passa a '31 de Dezembro de 2007' — aplicado; restantes unidades '...' do texto atual; n.os 2 e 3 do art. 131.º não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

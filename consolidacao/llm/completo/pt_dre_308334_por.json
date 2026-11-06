@@ -1,0 +1,80 @@
+{
+  "id": "pt:dre:308334:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::48.º",
+      "epigrafe": "Inscrição na DGEDA",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::49.º",
+      "epigrafe": "Artistas e suas categorias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::54.º",
+      "epigrafe": "Inscrição - condições gerais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::55.º",
+      "epigrafe": "Inscrição - condições específicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::56.º",
+      "epigrafe": "Provas de aptidão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::57.º",
+      "epigrafe": "Acesso a cavaleiro e bandarilheiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::58.º",
+      "epigrafe": "Provas de alternativa",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::59.º",
+      "epigrafe": "Acesso a novilheiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::60.º",
+      "epigrafe": "Datas e locais das provas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::61.º",
+      "epigrafe": "Júris",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento do Espectáculo Tauromáquico::62.º",
+      "epigrafe": "Recurso",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Lei 31/2015, art. 20.º: revoga os artigos 48.º, 49.º e 54.º a 62.º do Regulamento anexo; marcados (Revogado.).",
+    "Lei 31/2015, restantes artigos: regime autónomo, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

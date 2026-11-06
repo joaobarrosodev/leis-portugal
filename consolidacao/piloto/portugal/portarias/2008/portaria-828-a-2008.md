@@ -13,15 +13,12 @@ consolidacao:
   - id: pt:dre:306892:por
     title: Portaria n.º 1237/2010
     publication_date: '2010-12-13'
-  - id: pt:dre:306892:por
-    title: Portaria n.º 1237/2010
-    publication_date: '2010-12-13'
-  - id: pt:dre:502868:por
-    title: Portaria n.º 317/2013
-    publication_date: '2013-10-22'
   - id: pt:dre:25345880:por
     title: Portaria n.º 109/2014
     publication_date: '2014-05-22'
+  - id: pt:dre:502868:por
+    title: Portaria n.º 317/2013
+    publication_date: '2013-10-22'
 ---
 
 # Portaria n.º 828-A/2008
@@ -142,7 +139,7 @@ e) Manter actualizado o sistema de informação da autoridade de gestão com os 
 
 2 - Caso as candidaturas sejam apresentadas pelo parceiro gestor ou por membro do órgão de administração de algum dos grupos, as atribuições elencadas no número anterior serão exercidas pelas competentes direcções regionais de agricultura e pescas, adiante designadas abreviadamente por DRAP.
 
-> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892) e [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868) e [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 6.º — Administração
 
@@ -178,7 +175,7 @@ b) Analisar os justificativos de despesas e propor à autoridade de gestão a em
 
 6 - Quaisquer alterações à composição deste órgão ou dos parceiros que formam a administração, posteriores ao reconhecimento dos grupos, devem garantir a proporcionalidade prevista no n.º 1 e ser comunicadas à autoridade de gestão, no prazo de 15 dias, para validação.
 
-> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892) e [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868) e [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 7.º — Secretariado técnico
 
@@ -186,7 +183,9 @@ b) Analisar os justificativos de despesas e propor à autoridade de gestão a em
 
 2 - O secretariado técnico pode ser constituído por técnicos dos parceiros que compõem os grupos, mas não poderão integrar a respectiva administração.
 
-3 - Compete ao secretariado técnico, prestar apoio técnico à administração do grupo, nomeadamente na elaboração do manual de procedimentos, na promoção e divulgação da estratégia de desenvolvimento do grupo, na análise das candidaturas, das justificações de despesas e dos pedidos de pagamento, no registo das operações no sistema de informação da autoridade de gestão, na elaboração do relatório anual e no acompanhamento da estratégia.
+3 - Compete ao secretariado técnico prestar apoio técnico à administração do grupo, nomeadamente na promoção e divulgação da estratégia de desenvolvimento do grupo, na análise das candidaturas, das justificações de despesas e dos pedidos de pagamento, no registo das operações no sistema de informação da autoridade de gestão, na elaboração do relatório anual e no acompanhamento da estratégia.
+
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 8.º — Obrigações dos grupos
 
@@ -198,7 +197,7 @@ b) Informar os agentes económico-sociais e a população em geral relativamente
 
 c) Assegurar os meios humanos, financeiros e materiais indispensáveis à boa execução das operações;
 
-d) Assegurar, uma adequada separação das funções, nomeadamente entre a análise das candidaturas e a análise dos pedidos de pagamento;
+d) Assegurar uma adequada separação das funções, nomeadamente mediante a afectação de diferentes colaboradores à análise das candidaturas, às verificações administrativas dos pedidos de pagamento e às verificações no local;
 
 e) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, sempre que aplicáveis;
 
@@ -209,6 +208,8 @@ g) Dispor de contabilidade organizada, bem como de uma contabilidade analítica 
 h) Contribuir para a coerência e a fiabilidade do sistema de informação do PROMAR, através de uma correcta e atempada disponibilização da informação solicitada pelas entidades competentes;
 
 i) Assegurar a conservação dos registos contabilísticos, bem como dos respectivos documentos de suporte, até três anos após o pagamento pela Comissão Europeia do saldo final do PROMAR.
+
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 9.º — Repartição financeira
 
@@ -622,7 +623,7 @@ b) Apresentar declaração de compromisso do cumprimento das disposições legai
 
 3 - No caso referido no número anterior, as licenças ou autorizações necessárias deverão ser apresentadas com o primeiro pedido de pagamento, nos termos da alínea a) do n.º 1 do artigo 14.º, sem o que se considera a candidatura resolvida, para todos os efeitos.
 
-> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892) e [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868) e [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 7.º — Despesas elegíveis
 
@@ -634,7 +635,7 @@ a) Obras de adaptação ou remodelação das instalações dos grupos;
 
 b) Compra ou locação de equipamentos administrativos novos, designadamente mobiliário de escritório, software e equipamento informático;
 
-c) Equipamentos de som e imagem, desde que adquiridos até 31 de Dezembro de 2011, sujeitos a autorização prévia das DRAP correspondentes;
+c) Equipamentos de som e imagem, desde que adquiridos até 31 de Dezembro de 2011;
 
 d) Aluguer de curto prazo de viaturas ligeiras;
 
@@ -659,6 +660,8 @@ n) Despesas com comunicações, água, electricidade, rendas e outras indispens�
 o) Despesas com a aquisição de serviços, designadamente serviços de assessoria e consultoria em áreas específicas, de elaboração de estudos de mercado ou de impacte estratégico;
 
 p) O imposto sobre o valor acrescentado (IVA) não recuperável sempre que este seja definitivamente suportado pelo promotor, a demonstrar por certidão da repartição de finanças.
+
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 8.º — Despesas não elegíveis
 
@@ -710,7 +713,19 @@ c) (Revogada.)
 
 3 - Após a recepção das candidaturas referidas no número anterior, podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.
 
-4 - O encerramento das candidaturas ocorre em 31 de Outubro de 2013, sem prejuízo da fixação de data anterior pelo gestor.
+4 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
+
+5 - Ao estabelecer novo período de apresentação de candidaturas ao abrigo do disposto no número anterior, o Gestor pode igualmente determinar:
+
+a) A tipologia de projetos suscetíveis de apoio, no contexto dessa reabertura do período de apresentação de candidaturas;
+
+b) A dotação disponível para novas aprovações, da qual dependerá a análise das candidaturas em carteira, face à dimensão dos investimentos nelas previstos;
+
+c) As regras de seleção das candidaturas, sem prejuízo dos critérios de seleção estabelecidos segundo o disposto no artigo 8.º do Decreto-Lei nº 81/2008, de 16 de maio;
+
+d) Os prazos de execução dos projetos, tendo em conta o período de elegibilidade temporal das despesas previsto no artigo 55.º, n.º 1, do Regulamento n.º 1198/2006, do Conselho, de 27 de julho de 2006.
+
+> Alterado pelo/a [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
 
 ###### Artigo 12.º — Selecção das candidaturas
 
@@ -732,15 +747,19 @@ c) Adequação aos objectivos e atribuições contratualizados entre a autoridad
 
 ###### Artigo 13.º — Análise e decisão dos pedidos de apoio
 
-1 - A análise e pontuação das candidaturas apresentadas no âmbito das acções previstas nas alíneas a) a c) do artigo 2.º compete aos grupos.
+1 - A análise e pontuação das candidaturas apresentadas no âmbito das acções previstas nas alíneas a) a c) do artigo 2.º compete aos grupos, excepto nos casos em que as candidaturas sejam apresentadas por parceiro gestor ou por membro do órgão de administração de algum dos grupos, caso em que o exercício dessas competências será assegurado pelas correspondentes DRAP.
 
-2 - As propostas de selecção das candidaturas previstas no número anterior são objecto de parecer a apresentar pelo grupo.
+2 - (Revogado.)
 
 3 - A análise das candidaturas apresentadas pelos grupos no âmbito da alínea d) do artigo 2.º compete às DRAP.
 
-4 - A decisão final sobre as candidaturas seleccionadas pelo grupos compete ao gestor.
+4 - A decisão final das candidaturas compete ao gestor.
 
 5 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, notifica o grupo, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura.
+
+6 - O IFAP, após a receção do contrato devidamente assinado, dispõe de 10 dias para o outorgar e devolver um exemplar ao beneficiário.
+
+> Alterado pelo/a [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868), publicado em 2013-10-22.
 
 ###### Artigo 14.º — Pagamento dos apoios
 
@@ -752,23 +771,31 @@ b) O apoio é pago proporcionalmente à realização do investimento elegível e
 
 2 - Os pagamentos dos apoios relativos à execução dos projectos aprovados no âmbito da acção identificada na alínea d) do artigo 2.º são efectuados pelo IFAP, mediante emissão de autorização de pagamento emitida pelo gestor, proferida após verificação pelas DRAP dos pedidos de pagamento apresentados pelo beneficiário em formulários próprios acompanhados dos respectivos comprovativos de despesas.
 
-> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892) e [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868) e [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+> Alterado pelo/a [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868), publicado em 2013-10-22.
 
 ###### Artigo 15.º — Adiantamento dos apoios no caso das alíneas a) a c) do artigo 2.º
 
-1 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses após a data da celebração do contrato, a concessão do adiantamento até 50 % do valor dos apoios.
+1 - O promotor poderá solicitar ao grupo a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
 
-2 - (Revogado.)
+2 - No caso das candidaturas apresentadas por parceiro gestor ou por membro do órgão de administração de um dos grupos, os pedidos de adiantamento serão solicitados à competente DRAP, nos termos referidos no número anterior.
 
-3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a sua aplicação e apresentar os comprovativos da despesa correspondentes a esse valor.
+3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a realização de 50% do investimento elegível, mediante a apresentação dos correspondentes comprovativos de despesa.
 
-4 - Em caso de atraso na justificação dos adiantamentos será aplicada uma penalização correspondente ao valor dos juros de mora à taxa legal, contados sobre o valor do adiantamento não justificado.
+4 - Em caso de incumprimento da obrigação prevista no número 3:
 
-5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP.
+a) É aplicada ao promotor uma penalização correspondente ao valor dos juros de mora à taxa legal, calculados sobre o valor do adiantamento;
+
+b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o promotor tenha ainda cumprido a obrigação aí prevista, poderá ser-lhe exigida a devolução do adiantamento, acrescido de juros de mora à taxa legal.
+
+5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP nos termos definidos na decisão de aprovação das candidaturas.
 
 6 - A concessão e o montante dos adiantamentos ficam dependentes das disponibilidades financeiras do PROMAR.
 
+7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 14º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
+
 > Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), publicado em 2010-02-19.
+
+> Alterado pelo/a [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868), publicado em 2013-10-22.
 
 ###### Artigo 16.º — Adiantamento dos apoios no caso da alínea d) do artigo 2.º
 
@@ -792,11 +819,17 @@ c) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as
 
 2 - No caso dos projectos apresentados no âmbito das alíneas a) a c) do artigo 2.º:
 
-a) Iniciar a execução dos projectos até 90 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução até dois anos a contar dessa data;
+a) Iniciar a execução dos projetos até 180 dias a contar da data da receção de um exemplar do contrato de atribuição do apoio outorgado pelo IFAP, e concluir essa execução até 2 anos a contar da mesma data, salvo se outro prazo for estabelecido naquele contrato;
 
-b) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do grupo;
+b) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projeto, não alterando o mesmo, sem prévia autorização do gestor, ou do competente organismo intermédio quando se trate de alterações técnicas simplificadas;
 
-c) Poderão ser fixadas por parte dos grupos obrigações adicionais que deverão constar do articulado do regulamento específico.
+c) (Revogada.)
+
+3 - Os prazos previstos na alínea a) do número anterior apenas poderão ser prorrogados por decisão do gestor, a requerimento do promotor, em casos devidamente justificados e quando a impossibilidade do seu cumprimento ou incumprimento objectivamente verificado não se deva a motivos imputáveis ao promotor.
+
+4 - Poderão ser fixadas por parte dos grupos obrigações adicionais que deverão constar do articulado do regulamento específico.
+
+> Alterado pelo/a [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868), publicado em 2013-10-22.
 
 ###### Artigo 18.º — Alteração dos projectos aprovados
 
@@ -806,7 +839,9 @@ c) Poderão ser fixadas por parte dos grupos obrigações adicionais que deverã
 
 3 - Os pedidos de alteração à decisão devem ser formalizados mediante a apresentação de nota justificativa, com a síntese das alterações solicitadas e informação detalhada das rubricas que se pretendem alterar.
 
-4 - As alterações previstas no n.º 2 são objecto de decisão pelas DRAP.
+4 - As alterações previstas no n.º 2 são objecto de decisão pelo gestor.
+
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ###### Artigo 19.º — Cobertura orçamental
 
@@ -819,3 +854,7 @@ c) Poderão ser fixadas por parte dos grupos obrigações adicionais que deverã
 1 - O regulamento específico previsto no n.º 2 do artigo 5.º, no artigo 6.º, no n.º 1 do artigo 7.º, no n.º 2 do artigo 8.º, no n.º 5 do artigo 10.º, no n.º 1 do artigo 11.º, no n.º 2 do artigo 12.º, na alínea c) do n.º 2 do artigo 17.º e no n.º 1 do artigo 18.º deve ser apresentado pelo grupo nas DRAP no prazo de 120 dias, dispondo estas de 60 dias para a sua apreciação.
 
 2 - O regulamento específico é aprovado por decisão do gestor, no prazo de 30 dias após a apreciação das DRAP.
+
+3 - O Regulamento específico pode ser alterado pelo grupo, mediante prévia autorização do gestor.
+
+> Alterado pelo/a [Portaria n.º 317/2013](https://diariodarepublica.pt/dr/detalhe/portaria/317-2013-502868), publicado em 2013-10-22.

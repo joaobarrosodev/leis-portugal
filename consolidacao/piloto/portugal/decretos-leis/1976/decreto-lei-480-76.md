@@ -178,45 +178,39 @@ Excluem-se desta verba os barcos a remos dos tipos skiff, double-scull, shell e 
 
 ###### Artigo 7.º
 
-1. O valor tributável, na hipótese do n.º 1 do artigo anterior, será o preço de venda do produtor acrescido de 40%.
+(Revogado.)
 
-2. O valor tributável, no caso de importação, será determinado de acordo com a alínea a) do artigo 9.º do Código do Imposto de Transacções.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 8.º
 
-1. O prazo estabelecido na alínea a) do artigo 41.º do Código do Imposto de Transacções para a entrega do imposto ao Estado será de seis meses no caso das transacções a que se refere o n.º 1 do artigo 6.º deste decreto-lei.
+(Revogado.)
 
-2. Nas importações das mercadorias a que se refere o n.º 2 do artigo 6.º deste decreto-lei, o imposto de transacções poderá ser pago até seis meses após o desembaraço alfandegário, desde que sejam prestadas garantias consideradas idóneas pelos competentes serviços aduaneiros.
-
-3. O prazo fixado nos números anteriores poderá ser alterado por portaria do Secretário de Estado do Orçamento, quando circunstâncias de ordem financeira do sector o aconselhem.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 9.º
 
-Sem prejuízo do disposto nos artigos anteriores, às transacções neles referidas será aplicável, com as necessárias adaptações, o regime do Código do Imposto de Transacções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 10.º
 
-1. As mercadorias referidas no artigo 6.º que, à data da entrada em vigor do presente diploma, se encontrem em existência nos estabelecimentos de grossistas ou importadores deverão constar de inventário a organizar, o qual será apresentado no prazo de quinze dias a contar daquela data.
+(Revogado.)
 
-2. O inventário será entregue na repartição de finanças referida no § único do artigo 51.º do Código do Imposto de Transacções, assinado pelo contribuinte ou pelos seus representantes legais ou mandatários e pelo respectivo técnico de contas, quando o houver.
-
-3. Do inventário deverão constar, designadamente, os seguintes elementos:
-
-a) Quantidades e designação explícita, por espécies, das mercadorias;
-
-b) Números e datas das facturas respeitantes à aquisição das mercadorias;
-
-c) Nomes ou denominações dos fornecedores e seus domicílios ou sedes.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 11.º
 
-Às transacções de mercadorias sujeitas a inventário nos termos do artigo anterior continuará a ser aplicável o regime estabelecido pelo Código do Imposto de Transacções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 12.º
 
-1. A falta de entrega ou a entrega fora de prazo do inventário a que se refere o artigo 10.º será punível nos termos do artigo 107.º do Código do Imposto de Transacções.
+(Revogado.)
 
-2. A falsificação ou viciação do mesmo inventário será punida de acordo com o artigo 109.º do referido Código.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
 ###### Artigo 13.º
 

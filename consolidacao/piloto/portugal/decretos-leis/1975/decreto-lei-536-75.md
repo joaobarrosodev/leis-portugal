@@ -33,7 +33,9 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ###### Artigo 1.º
 
-O pessoal médico que nesta data se encontra ao serviço dos hospitais distritais pode ser distribuído pelas vagas existentes nos seus mapas ou quadros de pessoal, após concursos a realizar nos termos da [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, desde que possua os necessários requisitos.
+O pessoal médico que nesta data se encontra ao serviço dos hospitais distritais pode ser distribuído pelas vagas de especialista existentes nos seus mapas ou quadros de pessoal, desde que possua os requisitos exigidos pela [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, mediante concursos que constam de prova de curriculum e prova prática, dispensável esta para os candidatos que na primeira tenham a classificação de Bom.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21.
 
 ###### Artigo 2.º
 
@@ -49,7 +51,7 @@ Após a integração a que se refere o presente decreto-lei, será regulamentado
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013) e [Decreto-Lei n.º 201/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696), publicado em 1980-06-25.
+> Revogado pelo/a [Decreto-Lei n.º 201/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696), publicado em 1980-06-25.
 
 ###### Artigo 5.º
 
@@ -61,7 +63,9 @@ Em situações em que haja vantagem para um mais conveniente funcionamento dos s
 
 ###### Artigo 7.º
 
-Será fixado em despacho do Secretário de Estado da Saúde a data dos concursos a realizar em execução do artigo 1.º deste diploma, bem como as adaptações da [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, que se mostrarem indispensáveis à sua realização até final do corrente ano.
+Será fixada em despacho do Secretário de Estado da Saúde a data dos concursos a realizar em execução do artigo 1.º deste diploma, observando-se o disposto na [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, no que não for contrariado pelo presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.
 

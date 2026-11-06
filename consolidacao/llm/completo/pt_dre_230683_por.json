@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:230683:por",
+  "artigos": [
+    {
+      "chave": "18.º",
+      "epigrafe": "Atribuições",
+      "texto": "1 - Em ordem a prosseguir os seus objectivos, o IDRAM compreende ainda o Departamento de Administração e Recursos Humanos, cujas competências são, nomeadamente:\n\na) Executar as acções necessárias à organização e instrução dos processos relativos ao pessoal do IDRAM;\n\nb) Assegurar os procedimentos administrativos relativos ao recrutamento, classificação de serviço e mobilidade de pessoal do quadro de pessoal do IDRAM;\n\nc) Organizar e manter actualizado o registo biográfico e emitir certidões, quando para tal esteja superiormente autorizado;\n\nd) Instruir os processos relativamente a prestações sociais de que sejam beneficiários os funcionários do IDRAM e respectivos familiares;\n\ne) Instruir os processos relativos a acidentes em serviço dos funcionários do IDRAM;\n\nf) Proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos entrados e expedir toda a correspondência;\n\ng) Assegurar as tarefas necessárias à organização e gestão do arquivo;\n\nh) Desenvolver as acções necessárias para assegurar a eficiência das redes de comunicação interna e externa do IDRAM;\n\ni) Assegurar os procedimentos administrativos necessários à elaboração e execução do orçamento;\n\nj) Organizar e manter actualizada a conta corrente do movimento financeiro;\n\nl) Instruir os processos relativos a despesas, informando quanto à legalidade das mesmas e respectivo cabimento, bem como efectuar o pagamento das despesas autorizadas e a arrecadação das receitas cobradas;\n\nm) Efectuar o processamento dos vencimentos e outras remunerações e abonos devidos ao pessoal;\n\nn) Promover a constituição, quando superiormente autorizada, reconstituição e liquidação de fundos permanentes, procedendo à sua regular verificação;\n\no) Preparar e elaborar o relatório e a conta anual de gerência;\n\np) Efectuar os procedimentos administrativos relativos à aquisição e locação de equipamentos, serviços e bens;\n\nq) Assegurar a gestão do economato, procedendo ao apetrechamento dos serviços;\n\nr) Assegurar a gestão do património, designadamente zelando pela conservação dos edifícios, elaborando e mantendo actualizado o respectivo cadastro;\n\ns) Assegurar a gestão do parque automóvel afecto ao IDRAM, zelando pela sua segurança e conservação.\n\n2 - O Departamento de Administração e Recursos Humanos compreende os seguintes serviços:\n\na) A Secção de Recursos Humanos e Expediente Geral;\n\nb) A Secção de Administração Financeira e Patrimonial;\n\nc) A Tesouraria.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "nao_aplicavel": "Alterador 1, art. 4.º: os quadros de pessoal do mapa anexo são substituídos pelo mapa anexo ao alterador, que só existe em imagem/PDF ('ver mapa no documento original'); não aplicado. O título de subsecção 'SUBSECÇÃO IV - Departamento de Administração e Recursos Humanos' que precede o artigo 18.º na nova redação não é corpo de artigo e não foi incluído.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: frase introdutória, sem alteração textual.",
+    "Alterador 1, art. 2.º: nova redação do artigo 18.º (Repartição passa a Departamento de Administração e Recursos Humanos, alíneas b), d), n), r) e n.º 2) — aplicada.",
+    "Alterador 1, art. 3.º: aditamento do artigo 23.º-A — já presente no texto atual com a mesma redação (diferem só as ligações markdown); não reenviado.",
+    "Alterador 1, art. 4.º: substituição do mapa anexo de pessoal — não aplicável (só em imagem).",
+    "Alterador 1, art. 5.º: entrada em vigor do alterador; sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
