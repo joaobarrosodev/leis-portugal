@@ -506,3 +506,7 @@ python rendimento.py N --ids ids.txt
 **Rendimento: 15/40 = 38% da amostra** (75% dos 20 verificados). Passa o limiar de 35% para alargar. Os 5 que falham têm todos a mesma causa: uma planta ou um quadro que só existe em imagem (`instrucoes_em_falta`). Os 20 sem alterações são, quase todos, diplomas cujos alteradores só trocam anexos em imagem ou o revogam por inteiro (Portarias 406/92, 694/90, 816/2002 e 964/2003, por exemplo, revogadas por outra portaria, embora o DRE as dê em vigor): não saem no acervo, mas ficam como informação para a vigência.
 
 **Falha corrigida a meio.** A primeira verificação letra a letra exigia o parágrafo inteiro num alterador ou no original: recusou 9 das 20 respostas com mudanças, todas "n.º 2.º passa a ter a seguinte redação: «…»" (o parágrafo do original é "2.º " e o corpo novo) ou troca de uma frase dentro de um parágrafo. Com a troca verificada à parte (acima), as 20 passaram e a verificação às cegas confirmou-as. O que a verificação às cegas viu nos 5 reprovados: nenhum texto errado, só instruções sem efeito possível.
+
+### Bloco 2 (por acabar)
+
+120 diplomas por citações (`llm_corrido.py proximos 120`, 25 saltados por tamanho): o limite de uso das sessões foi atingido a meio e só 4 dos 15 subagentes (pedidos 003, 004, 015, 016, 025 a 028) responderam. Nada foi importado nem verificado às cegas; para continuar, repetir `proximos 120` (exclui os diplomas já em `llm/corrido/`) e correr os pedidos em falta.
